@@ -433,250 +433,258 @@ export default function Content() {
         </li>
       </ul>
 
-      {/* ====== SHARMA WAIVER — COMPREHENSIVE ====== */}
+      {/* ====== SHARMA WAIVER ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The &ldquo;Sharma Waiver&rdquo;: What It Is, Why It Matters, and How to Handle It
+        The &ldquo;Sharma Waiver&rdquo;: Expanding Appraiser Authority
       </h2>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        What Is a Waiver in Appraisal?
-      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As established above, California law strictly limits what an appraisal panel can decide.
-        Under Insurance Code § 2071 and the case law from <em>Sharma</em>, <em>Kacha</em>,
-        and their progeny, the panel&apos;s authority is confined to one thing: determining the{' '}
-        <strong>actual cash value or amount of loss</strong>. The panel cannot decide coverage,
-        causation, fraud, policy interpretation, or any other legal question.
+        Although appraisers are generally limited to valuation, California law recognizes that
+        parties can <em>agree</em> to expand the panel&apos;s authority to include other issues —
+        such as causation or the extent of damage. This agreement is known as a &ldquo;Sharma
+        waiver,&rdquo; after <em>Safeco v. Sharma</em> (1984). By signing one, you consent to
+        let the appraisers decide issues they would not otherwise have the power to decide.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A <strong>&ldquo;Sharma waiver&rdquo;</strong> is an agreement — named after the 1984
-        <em> Safeco v. Sharma</em> case — in which both parties consent to expand the appraisal
-        panel&apos;s authority beyond its normal statutory limits. By signing a waiver, you are
-        agreeing to let the appraisers decide issues they would not otherwise have the power to
-        decide — such as what caused the damage, whether certain items were actually damaged, or
-        how the policy should be interpreted.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In plain terms: <strong>a Sharma waiver gives away rights you currently
-        have</strong>. Without the waiver, the insurer must prove coverage defenses in court,
-        where you have the protections of formal legal proceedings — discovery, rules of evidence,
-        a judge, and the right to appeal. With a waiver, those issues are decided by the appraisal
-        panel in an informal proceeding with none of those protections.
+        As <em>Kacha</em> (2006) made clear, a valid Sharma waiver requires{' '}
+        <strong>clear and convincing evidence</strong> that both parties knowingly agreed to
+        expand the panel&apos;s scope. Boilerplate language in an award form does not qualify.
+        The best evidence is a <strong>separate written stipulation</strong>, signed by both
+        parties, that expressly references and waives Insurance Code § 2071 and the{' '}
+        <em>Sharma/Kacha</em> limitations. If you are the policyholder, be very cautious —
+        agreeing to a Sharma waiver allows the panel to make coverage or causation determinations
+        in an informal proceeding with no discovery, no rules of evidence, and limited appellate
+        review. In most cases, the answer should be no.
       </p>
 
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        How Insurers Propose Waivers
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance companies propose waivers in several ways. Some are obvious. Some are not.
-        Understanding how they appear is the first step to protecting yourself.
-      </p>
-
-      <h4 className="text-lg font-semibold text-gray-900 mb-2">
-        1. The Explicit Written Stipulation
-      </h4>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The most straightforward approach: the insurer&apos;s attorney or adjuster sends you (or
-        your Public Adjuster or attorney) a written agreement — sometimes called a
-        &ldquo;stipulation,&rdquo; &ldquo;appraisal protocol,&rdquo; or &ldquo;scope
-        agreement&rdquo; — that asks both parties to agree that the appraisal panel will decide
-        certain issues beyond valuation. For example, it might state that the panel will determine
-        &ldquo;the cause and origin of the damage&rdquo; or &ldquo;which items of damage are
-        attributable to the covered peril.&rdquo; This is a Sharma waiver. It is asking you to
-        give the panel authority it does not have by default.
-      </p>
-
-      <h4 className="text-lg font-semibold text-gray-900 mb-2">
-        2. The Award Form Preamble
-      </h4>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This is the more dangerous approach — and the one <em>Kacha</em> specifically addressed.
-        Instead of asking for an explicit waiver up front, the insurer&apos;s side drafts the
-        appraisal award form with language that embeds coverage or causation determinations into
-        the award itself. For example, an award preamble that says the panel has determined
-        &ldquo;damage attributable to the fire of October 26, 2003&rdquo; is making a causation
-        finding — it is saying the panel decided <em>what caused</em> the damage, not just how
-        much it is worth.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        If you sign that award form without objecting, the insurer can later argue that you
-        agreed to let the panel decide causation — a de facto Sharma waiver. And once the award
-        is confirmed by a court, challenging it becomes nearly impossible.
-      </p>
-
-      <h4 className="text-lg font-semibold text-gray-900 mb-2">
-        3. Policy Terms of Art in the Award
-      </h4>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        As attorneys Cohen and Bederman have{' '}
-        <a
-          href="https://www.advocatemagazine.com/article/2022-november/first-party-insurance-appraisals"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-[#2E74B5] underline"
-        >
-          warned
-        </a>
-        , defense-side attorneys sometimes draft award forms using{' '}
-        <strong>express policy language or related terms of art</strong> to describe portions of
-        the award. For example, labeling an award section &ldquo;Coverage A — Dwelling&rdquo;
-        or &ldquo;ALE — Shortest Time to Repair&rdquo; borrows language directly from the
-        policy. If that award is confirmed, the insurer can argue that the panel made a
-        determination about those specific coverage categories — and that any future lawsuit
-        challenging those amounts is an impermissible &ldquo;collateral attack&rdquo; on a
-        confirmed arbitration award. This effectively forecloses a bad faith lawsuit on those
-        issues.
-      </p>
-
-      <h4 className="text-lg font-semibold text-gray-900 mb-2">
-        4. Verbal Agreements or Informal Understandings
-      </h4>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Sometimes the expansion of panel authority happens informally during the appraisal
-        itself — the insurer&apos;s appraiser begins arguing causation before the umpire, and
-        nobody objects. If the panel then makes causation findings in the award, the insurer may
-        argue that all parties implicitly agreed to expand the scope. While <em>Kacha</em> held
-        that a valid waiver requires clear and convincing evidence, it is far better to prevent
-        the issue from arising than to litigate it afterward.
-      </p>
-
-      <CalloutBox variant="important" title="The Key Principle: A Waiver Gives Away Your Rights">
+      <CalloutBox variant="warning" title="Watch the Award Form Language">
         <p>
-          Without a waiver, the insurer must litigate coverage and causation disputes in court,
-          where you have full legal protections. With a waiver, those issues are decided by the
-          appraisal panel — informally, with no discovery, no rules of evidence, and limited
-          grounds for appeal. There is almost never a reason for the policyholder to agree to
-          expand the panel&apos;s authority. The waiver benefits the insurance company, not you.
+          Defense-side attorneys sometimes draft appraisal award forms with embedded coverage or
+          causation language — for example, a preamble characterizing the damage as
+          &ldquo;attributable to the fire of October 26, 2003&rdquo; (the tactic in{' '}
+          <em>Kacha</em>), or labeling award sections with policy terms of art like
+          &ldquo;Coverage A — Dwelling&rdquo; or &ldquo;ALE — Shortest Time to Repair.&rdquo;
+          If this language goes unchallenged and the award is confirmed, the insurer can argue the
+          panel resolved those coverage issues — foreclosing future challenges. As attorneys Cohen
+          and Bederman have{' '}
+          <a
+            href="https://www.advocatemagazine.com/article/2022-november/first-party-insurance-appraisals"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#2E74B5] underline"
+          >
+            warned in <em>Advocate Magazine</em>
+          </a>
+          , this can &ldquo;hamstring a future lawsuit for bad faith.&rdquo; Always scrutinize
+          the award form and object to any language that goes beyond valuation.
+        </p>
+      </CalloutBox>
+
+      {/* ====== WHITE WAIVER ====== */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The &ldquo;White Waiver&rdquo;: California&apos;s Unique Insurance Waiver
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The &ldquo;White waiver&rdquo; is a legal concept unique to California insurance claims.
+        It has nothing to do with the Sharma waiver or the scope of appraiser authority. It is
+        a fundamentally different kind of waiver — one that arises from the intersection of
+        settlement negotiations and{' '}
+        <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">bad faith</Link>{' '}
+        law — and understanding it is essential for any California policyholder involved in a
+        disputed claim.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        The Case: <em>White v. Western Title Ins. Co.</em> (1985) 40 Cal.3d 870
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The White waiver gets its name from a 1985 California Supreme Court decision. The Whites
+        purchased property and obtained a title insurance policy from Western Title. The policy
+        failed to disclose a recorded water easement on the property. When the Whites discovered
+        the easement and filed a claim, Western Title retained an appraiser who estimated the
+        loss at $2,000. Based on this estimate, Western offered to settle for $3,000 — and later
+        $5,000 — without ever providing the Whites with a copy of the appraisal supporting
+        those figures.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The Whites sued for breach of contract and bad faith. At trial, the jury found bad faith
+        and awarded $8,400 for breach of contract plus $20,000 for breach of the covenant of good
+        faith and fair dealing. Western Title appealed, arguing that its settlement offers should
+        not have been admitted as evidence of bad faith because of the{' '}
+        <strong>settlement privilege</strong> — the general legal rule that settlement
+        communications are inadmissible.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The California Supreme Court rejected this argument and established a rule that changed
+        California insurance practice permanently:{' '}
+        <strong>
+          an insurance company&apos;s lowball settlement offers made to its own policyholder —
+          whether before or during litigation — are admissible as evidence of bad faith
+        </strong>
+        , notwithstanding the settlement privilege. The court held that the contractual
+        relationship between an insured and insurer does not end when litigation begins, and that
+        the insurer&apos;s duty of good faith and fair dealing continues throughout.
+      </p>
+
+      <CalloutBox variant="legal" title="Why White Matters">
+        <p>
+          Before <em>White</em>, insurers could make absurdly low settlement offers during
+          litigation with impunity — the offers were protected by the settlement privilege and
+          could never be shown to a jury. After <em>White</em>, those lowball offers became
+          evidence. A jury could see them and conclude: this insurer was not negotiating in good
+          faith. This created real consequences for insurers who stonewalled their own
+          policyholders.
         </p>
       </CalloutBox>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        What the Case Law Says About Waivers
+        What a White Waiver Is
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California courts have set a high bar for enforcing Sharma waivers:
+        After the <em>White</em> decision, insurers had a problem. Every settlement offer they
+        made to a policyholder could potentially be used against them as evidence of bad faith in
+        the same case. If they offered $50,000 on a $200,000 claim, that $50,000 offer could be
+        introduced at trial to show the jury how unreasonably the insurer was behaving.
       </p>
-      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
-        <li>
-          <strong><em>Sharma</em> (1984):</strong> Recognized that parties <em>can</em> agree to
-          expand the panel&apos;s authority, but established the default rule that appraisers are
-          limited to valuation. The concept of a &ldquo;Sharma waiver&rdquo; originates here.
-        </li>
-        <li>
-          <strong><em>Kacha</em> (2006):</strong> The most important waiver case. Allstate
-          argued that the insured had waived the statutory limitations by agreeing to the award
-          form&apos;s preamble language about damage &ldquo;attributable to the fire.&rdquo; The
-          court rejected this argument. The insured testified he never intended to waive
-          <em> Sharma</em> or § 2071, and the court agreed. The holding:{' '}
-          <strong>a Sharma waiver requires clear and convincing evidence</strong> of a knowing,
-          intentional agreement to expand the panel&apos;s scope. Boilerplate language in an
-          award form — even language both parties signed — does not meet that standard. The best
-          evidence of a valid waiver is a <strong>separate written stipulation</strong>,
-          signed by both parties, that expressly references and waives Insurance Code § 2071
-          and the <em>Sharma/Kacha</em> limitations.
-        </li>
-        <li>
-          <strong><em>Lee v. California Capital</em> (2015):</strong> Further clarified the
-          boundary. The court held that the panel can consider whether damage exists to an item
-          (because existence of damage bears directly on valuation), but cannot make zero-value
-          determinations based on causation disputes or fraud accusations. This shows how even
-          without a waiver, the line between valuation and coverage can blur — making it all the
-          more important to keep the panel&apos;s scope clearly defined from the start.
-        </li>
-        <li>
-          <strong><em>Devonwood</em> (2008):</strong> Even when an appraisal award has been
-          issued, it does not resolve all issues. The insurer can still raise coverage,
-          deductible, and policy limit defenses. This means even a favorable award does not
-          automatically result in payment — and a waiver that expanded the panel&apos;s authority
-          could undermine your ability to fight coverage issues separately.
-        </li>
-      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The insurance industry&apos;s response was to create the <strong>White
+        waiver</strong> — a written agreement that the insurer asks the policyholder to sign
+        before the insurer will communicate a settlement offer. By signing the White waiver, the
+        policyholder agrees that the insurer&apos;s offer <strong>cannot later be used as
+        evidence of bad faith</strong> against the insurer. The waiver essentially restores the
+        settlement privilege that <em>White</em> stripped away — but only if the policyholder
+        voluntarily agrees to it.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In practice, a White waiver typically states that the insurer&apos;s settlement
+        communications are made in confidence, that the policyholder acknowledges the offer is
+        made for settlement purposes only, and that the policyholder agrees not to introduce the
+        offer, the amount, or the circumstances of the negotiation as evidence of bad faith in
+        any subsequent proceeding.
+      </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        How to Handle a Waiver Proposal
+        How Insurers Use White Waivers
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the insurance company — or the insurer&apos;s appraiser, attorney, or adjuster —
-        proposes any form of waiver or scope expansion, here is what you should do:
+        The White waiver typically appears at a specific moment in the claims process: when the
+        insurer is ready to present a settlement offer but wants to shield that offer from being
+        used against it. The insurer — usually through its adjuster or attorney — presents the
+        waiver and says, in effect: <em>&ldquo;We&apos;d like to make you a settlement offer,
+        but before we do, we need you to sign this agreement.&rdquo;</em>
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Sometimes the insurer conditions the entire settlement discussion on the waiver — refusing
+        to talk numbers until it is signed. Other times the waiver is presented more casually,
+        as though it were routine paperwork. Either way, the purpose is the same: to prevent
+        the policyholder from using the insurer&apos;s offer as evidence in a bad faith case.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This creates an inherent tension. The insurer is asking you to give up a legal right —
+        the right to use their offer as evidence — before you even know what the offer is. If the
+        offer turns out to be reasonable, the waiver may not matter much. But if the offer is
+        unreasonably low, you have already agreed not to use it against them.
       </p>
 
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Should You Sign a White Waiver?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is one of the most consequential decisions a policyholder can face during a disputed
+        claim. There is no universal answer, but there are clear principles:
+      </p>
+
+      <div className="bg-red-50 border border-red-200 rounded-xl p-5 mb-6">
+        <h4 className="font-bold text-red-900 mb-3">Reasons to Be Cautious</h4>
+        <ul className="list-disc pl-6 space-y-2 text-red-900 text-sm">
+          <li>
+            <strong>You are giving up evidence before you know the offer.</strong> The whole point
+            of the waiver is to prevent you from using the offer as bad faith evidence. If the
+            offer is a lowball, you have already surrendered one of your most powerful tools.
+          </li>
+          <li>
+            <strong>Refusal to negotiate without a waiver may itself be evidence of bad faith.</strong>{' '}
+            If the insurer refuses to discuss settlement at all unless you sign a White waiver,
+            that refusal — the conditioning of settlement discussions on waiving your rights — can
+            itself be evidence of bad faith intent.
+          </li>
+          <li>
+            <strong>Some waivers have no expiration.</strong> Poorly drafted waivers may apply
+            indefinitely, covering not just a single offer but all future settlement
+            communications. This can shield months or years of bad faith conduct.
+          </li>
+          <li>
+            <strong>Defense attorneys may use the waiver to delay.</strong> Attorneys billing
+            hourly may use the waiver negotiation as a stalling tactic — spending weeks
+            negotiating the waiver terms while the claim sits unpaid.
+          </li>
+        </ul>
+      </div>
+
+      <div className="bg-green-50 border border-green-200 rounded-xl p-5 mb-6">
+        <h4 className="font-bold text-green-900 mb-3">When Signing May Be Acceptable</h4>
+        <ul className="list-disc pl-6 space-y-2 text-green-900 text-sm">
+          <li>
+            <strong>The insurer has been communicating in good faith.</strong> If the claims
+            handling has been reasonable so far and the insurer appears to be making a genuine
+            settlement effort, the waiver may be less consequential.
+          </li>
+          <li>
+            <strong>The waiver is narrowly drafted with an expiration date.</strong> A waiver
+            that covers only a single, specific settlement communication and expires within a
+            defined period (e.g., 30 days) is far less dangerous than an open-ended waiver.
+          </li>
+          <li>
+            <strong>You have negotiated protective terms.</strong> You can counter-propose
+            modifications — a minimum offer threshold, a time limit, or a clause that voids the
+            waiver if the offer is below a certain amount. The insurer may or may not agree, but
+            the negotiation itself is informative.
+          </li>
+        </ul>
+      </div>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        How to Handle a White Waiver Proposal
+      </h3>
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">Step-by-Step Response to a Waiver Proposal</h4>
         <ol className="list-decimal pl-6 space-y-3 text-gray-700 text-sm">
           <li>
-            <strong>Do not sign anything immediately.</strong> Any document that asks you to agree
-            to expand the appraisal panel&apos;s authority — whether it is called a
-            &ldquo;stipulation,&rdquo; &ldquo;protocol,&rdquo; &ldquo;scope agreement,&rdquo;
-            or anything else — requires careful review before signing.
+            <strong>Do not sign it reflexively.</strong> The insurer may present it as a standard
+            form or routine procedure. It is not routine — it is a waiver of a right established
+            by the California Supreme Court.
           </li>
           <li>
-            <strong>Identify the expansion.</strong> Look for any language that asks the panel to
-            determine causation, coverage, policy interpretation, the &ldquo;cause or origin&rdquo;
-            of damage, whether items &ldquo;existed,&rdquo; or any issue beyond the actual cash
-            value or amount of loss. If the document uses policy terms of art (Coverage A,
-            Coverage B, &ldquo;period of restoration,&rdquo; &ldquo;shortest time to
-            repair&rdquo;), it may be embedding coverage determinations into the award.
+            <strong>Read it carefully.</strong> Identify exactly what it covers. Does it apply to
+            a single offer or all future communications? Does it have an expiration date? Does it
+            cover only the dollar amount or also the circumstances of the negotiation?
           </li>
           <li>
-            <strong>Decline the waiver in writing.</strong> Respond with a clear written statement
-            that you do not agree to expand the panel&apos;s authority beyond its statutory scope
-            under Insurance Code § 2071 and the holdings of <em>Sharma</em> and <em>Kacha</em>.
-            State that the appraisal panel&apos;s authority is limited to determining the actual
-            cash value and amount of loss, and that all coverage, causation, and policy
-            interpretation issues are reserved for separate resolution.
+            <strong>Consult your Public Adjuster or attorney.</strong> A White waiver has legal
+            consequences that extend beyond the current negotiation. If the claim later moves to
+            litigation, the waiver determines what evidence you can present. Get professional
+            guidance before signing.
           </li>
           <li>
-            <strong>Propose clean award form language.</strong> If the insurer has drafted an
-            award form, review it carefully and object to any language that goes beyond valuation.
-            Propose neutral language — for example, &ldquo;The panel has determined the actual cash
-            value and amount of loss as follows&rdquo; — without causation findings, policy terms
-            of art, or coverage determinations.
+            <strong>Counter-propose if appropriate.</strong> You can propose a narrower waiver —
+            limited to a single communication, with a defined expiration, and with a carve-out
+            that voids the waiver if the offer is below a specific amount. This preserves the
+            settlement discussion while protecting your rights if the offer is unreasonable.
           </li>
           <li>
-            <strong>Object on the record during the appraisal.</strong> If the insurer&apos;s
-            appraiser begins arguing causation or coverage issues before the umpire during the
-            appraisal hearing, object immediately. State on the record that these issues are
-            beyond the panel&apos;s authority and that you do not consent to expanding the scope.
-            Even though proceedings are informal, making your objection known prevents the insurer
-            from later claiming you implicitly agreed.
-          </li>
-          <li>
-            <strong>Consult a professional.</strong> If you are not represented by a{' '}
-            <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-              Public Adjuster
-            </Link>{' '}
-            or attorney, get one involved before the appraisal proceeds. Waiver issues are
-            consequential — they can determine whether you preserve or lose the right to litigate
-            coverage and bad faith issues.
+            <strong>Document the insurer&apos;s conduct.</strong> If the insurer refuses to make
+            any offer without a waiver, document that refusal in writing. The insurer&apos;s
+            refusal to negotiate without extracting a waiver may itself be relevant in a bad
+            faith analysis.
           </li>
         </ol>
       </div>
 
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        When (If Ever) a Waiver Might Make Sense
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In rare circumstances, a policyholder might <em>choose</em> to agree to a limited scope
-        expansion — for example, if the only dispute is whether water damage was caused by a
-        sudden pipe burst (covered) or a long-term leak (potentially excluded), and the
-        policyholder is confident the evidence supports their position. In that scenario, letting
-        the panel resolve causation during the appraisal could be faster and cheaper than
-        litigating it separately.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        But this is the exception, not the rule. Agreeing to a waiver means giving up the
-        procedural protections of court — discovery, rules of evidence, a judge, and meaningful
-        appellate review. In most cases, if the insurer wants to dispute causation or coverage,
-        they should have to do it in court, where the burden of proof is on them. Do not make it
-        easier for them by waiving your rights in an informal appraisal proceeding.
-      </p>
-
-      <CalloutBox variant="warning" title="The Bottom Line on Waivers">
+      <CalloutBox variant="important" title="The Bottom Line on White Waivers">
         <p>
-          The default rule protects you: the appraisal panel decides how much, not whether or why.
-          If the insurance company proposes a waiver, they are asking you to give up that
-          protection. In the vast majority of cases, the answer should be no. Decline in writing,
-          cite § 2071 and <em>Kacha</em>, and keep the panel focused on valuation.
+          A White waiver is not a neutral document — it exists because <em>White v. Western
+          Title</em> gave policyholders a powerful tool (using lowball offers as bad faith
+          evidence), and insurers want to take it back. Before signing, understand what you are
+          giving up, why the insurer wants it, and whether the terms are narrow enough to protect
+          you if the offer is unreasonable. When in doubt, decline or counter-propose.
         </p>
       </CalloutBox>
 
