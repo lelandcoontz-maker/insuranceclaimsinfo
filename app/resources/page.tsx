@@ -132,10 +132,10 @@ const CATEGORIES = [
       },
       {
         icon: '🔨',
-        title: 'Insurance Appraisal Procedure',
-        desc: 'When you disagree on the amount of loss, appraisal is your right. How to invoke it, how it works, and how to pick an appraiser.',
+        title: 'Insurance Appraisal in California',
+        desc: 'The standard fire policy, the arbitration code, key case law (Kacha, Sharma, Devonwood, Lee), and how to protect your rights in appraisal.',
         href: '/resources/appraisal',
-        tag: 'Dispute Resolution',
+        tag: 'California',
         tagColor: 'bg-green-100 text-green-700',
       },
     ],

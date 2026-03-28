@@ -8,7 +8,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'claims-process':         { title: 'The Insurance Claims Process Step by Step', description: 'From first notice of loss to final settlement.' },
   'contents-claims':        { title: 'Personal Property & Contents Claims', description: 'How to document and value personal property for your claim.' },
   'ale-frv':                { title: 'Additional Living Expenses & Fair Rental Value', description: 'ALE and FRV: what you\'re entitled to and how to document it.' },
-  'appraisal':              { title: 'The Insurance Appraisal Process', description: 'When and how to invoke appraisal to resolve valuation disputes.' },
+  'appraisal':              { title: 'Insurance Appraisal in California: The Complete Guide', description: 'How insurance appraisal works in California — the standard fire policy, the arbitration code, key case law, and how to protect your rights.' },
   'negotiation':            { title: 'Insurance Claim Negotiation Tactics', description: 'How to respond to lowball offers and delay tactics.' },
   'bad-faith':              { title: 'Bad Faith Insurance Practices in California', description: 'What constitutes bad faith and your remedies under California law.' },
   'xactimate':              { title: 'Xactimate Estimates: What You Need to Know', description: 'How to read and dispute Xactimate scopes of loss.' },
