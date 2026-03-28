@@ -20,6 +20,13 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'specialty-items':        { title: 'Electronics, Jewelry & Specialty Item Claims', description: 'How high-value and specialty items are valued differently.' },
   'mold-losses':            { title: 'Mold Losses: What Your Insurance Actually Covers', description: 'Ensuing loss, mold limits, and common insurer tactics with mold claims.' },
   'duties-after-loss':      { title: 'Duties After Loss: What You\'re Required to Do', description: 'Your obligations after a loss and how they affect your claim.' },
+  'ordinance-law':          { title: 'Building Code & Ordinance or Law Coverage', description: 'Code upgrade coverage, historical requirements, zoning, and how O&L can add 25-50% to your claim.' },
+  'matching':               { title: 'Matching: Achieving Reasonable Uniform Appearance', description: 'When partial repairs don\'t match — your right to a uniform appearance under the Model Fair Claims Act.' },
+  'coverage-disputes':      { title: 'Coverage Disputes: Is Your Loss Covered at All?', description: 'The most fundamental dispute — establishing that your loss is covered before arguing about the amount.' },
+  'declarations-page':      { title: 'How to Read Your Insurance Declarations Page', description: 'A walkthrough of your dec page: coverages, limits, deductibles, and hidden coverages you may not know about.' },
+  'vandalism-claims':       { title: 'Vandalism Claims: When Insurers Call It Wear and Tear', description: 'How to prove vandalism and fight back when insurers relabel your claim.' },
+  'wildfire-guide':         { title: 'California Wildfire Claims: A Complete Guide', description: 'Forest fire vs urban wildfire smoke, contamination testing, coverage, and step-by-step wildfire claims guidance.' },
+  'scope-of-loss':          { title: 'Scope of Loss Disputes: Fighting for Full Repairs', description: 'When the insurer\'s scope misses damage — how to document and dispute.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -41,6 +48,13 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'specialty-items':        () => import('@/lib/content/articles/specialty-items'),
   'mold-losses':            () => import('@/lib/content/articles/mold-losses'),
   'duties-after-loss':      () => import('@/lib/content/articles/duties-after-loss'),
+  'ordinance-law':          () => import('@/lib/content/articles/ordinance-law'),
+  'matching':               () => import('@/lib/content/articles/matching'),
+  'coverage-disputes':      () => import('@/lib/content/articles/coverage-disputes'),
+  'declarations-page':      () => import('@/lib/content/articles/declarations-page'),
+  'vandalism-claims':       () => import('@/lib/content/articles/vandalism-claims'),
+  'wildfire-guide':         () => import('@/lib/content/articles/wildfire-guide'),
+  'scope-of-loss':          () => import('@/lib/content/articles/scope-of-loss'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

@@ -20,7 +20,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
     heading: 'California Law',
     links: [
       { href: '/regulations', label: 'Rules & Regulations' },
-      { href: '/resources/california-fair-claims', label: 'Fair Claims Act Guide' },
+      { href: '/insurer-tactics', label: 'Games Insurers Play' },
       { href: '/resources/bad-faith', label: 'Bad Faith Practices' },
       { href: '/resources/cdi-complaint', label: 'Filing a CDI Complaint' },
     ],
@@ -29,35 +29,35 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
     heading: 'Your Policy & Claims',
     links: [
       { href: '/resources/policy-interpretation', label: 'Understanding Your Policy' },
+      { href: '/resources/declarations-page', label: 'Reading Your Dec Page' },
       { href: '/resources/claims-process', label: 'The Claims Process' },
-      { href: '/resources/duties-after-loss', label: 'Duties After Loss' },
-      { href: '/resources/proof-of-loss', label: 'Proof of Loss' },
+      { href: '/resources/coverage-disputes', label: 'Coverage Disputes' },
     ],
   },
   {
     heading: 'Disputes & Estimates',
     links: [
       { href: '/resources/xactimate', label: 'Xactimate Estimates' },
+      { href: '/resources/matching', label: 'Matching Requirements' },
       { href: '/resources/appraisal', label: 'Insurance Appraisal' },
-      { href: '/resources/negotiation', label: 'Negotiation Tactics' },
-      { href: '/resources/acv-rcv', label: 'ACV vs. RCV' },
+      { href: '/resources/scope-of-loss', label: 'Scope of Loss' },
     ],
   },
   {
     heading: 'Specialized Topics',
     links: [
+      { href: '/resources/ordinance-law', label: 'Code Upgrade / O&L' },
+      { href: '/resources/wildfire-guide', label: 'Wildfire Claims Guide' },
       { href: '/resources/mold-losses', label: 'Mold Losses' },
-      { href: '/resources/contents-claims', label: 'Personal Property Claims' },
-      { href: '/resources/ale-frv', label: 'Living Expenses (ALE)' },
       { href: '/types-of-claims', label: 'Types of Claims' },
     ],
   },
   {
-    heading: 'Get Help',
+    heading: 'More Resources',
     links: [
       { href: '/faq', label: 'Frequently Asked Questions' },
+      { href: '/other-claims', label: 'Other Claim Types' },
       { href: '/resources/public-adjuster', label: 'Working With a PA' },
-      { href: '/resources/exclusions', label: 'Policy Exclusions' },
       { href: '/contact', label: 'Free Claim Review' },
     ],
   },
@@ -65,11 +65,12 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
 
 export const FOOTER_RESOURCE_LINKS: NavLink[] = [
   { href: '/regulations', label: 'CA Rules & Regulations' },
+  { href: '/insurer-tactics', label: 'Games Insurers Play' },
   { href: '/faq', label: 'Frequently Asked Questions' },
-  { href: '/resources/california-fair-claims', label: 'CA Fair Claims Act' },
   { href: '/resources/policy-interpretation', label: 'Understanding Your Policy' },
-  { href: '/resources/claims-process', label: 'The Claims Process' },
+  { href: '/resources/wildfire-guide', label: 'Wildfire Claims Guide' },
   { href: '/resources/xactimate', label: 'Xactimate Estimates' },
   { href: '/types-of-claims', label: 'Types of Claims' },
+  { href: '/other-claims', label: 'Other Claim Types' },
   { href: '/resources/public-adjuster', label: 'Working With a PA' },
 ]

@@ -36,6 +36,14 @@ const CATEGORIES = [
         tag: 'California',
         tagColor: 'bg-blue-100 text-blue-700',
       },
+      {
+        icon: '🎯',
+        title: 'Games Insurance Companies Play',
+        desc: '15 common insurer tactics on property claims — how to identify them and how to defeat them.',
+        href: '/insurer-tactics',
+        tag: 'Must Read',
+        tagColor: 'bg-red-100 text-red-700',
+      },
     ],
   },
   {
@@ -50,6 +58,14 @@ const CATEGORIES = [
         href: '/resources/policy-interpretation',
         tag: 'Fundamentals',
         tagColor: 'bg-amber-100 text-amber-700',
+      },
+      {
+        icon: '📄',
+        title: 'How to Read Your Declarations Page',
+        desc: 'Your dec page walkthrough: coverages, limits, deductibles, and hidden coverages like debris removal and extended replacement cost.',
+        href: '/resources/declarations-page',
+        tag: 'Start Here',
+        tagColor: 'bg-red-100 text-red-700',
       },
       {
         icon: '🔍',
@@ -96,6 +112,22 @@ const CATEGORIES = [
         desc: 'Your obligations after a loss — reporting, exhibiting damages, proof of loss — and how failure to comply can affect your claim.',
         href: '/resources/duties-after-loss',
         tag: 'Process',
+        tagColor: 'bg-green-100 text-green-700',
+      },
+      {
+        icon: '❓',
+        title: 'Coverage Disputes',
+        desc: 'The most fundamental question: is your loss covered at all? How to fight a denial and establish coverage.',
+        href: '/resources/coverage-disputes',
+        tag: 'Disputes',
+        tagColor: 'bg-green-100 text-green-700',
+      },
+      {
+        icon: '📏',
+        title: 'Scope of Loss Disputes',
+        desc: 'When the insurer misses damage — how to document, dispute, and fight for full repairs.',
+        href: '/resources/scope-of-loss',
+        tag: 'Disputes',
         tagColor: 'bg-green-100 text-green-700',
       },
       {
