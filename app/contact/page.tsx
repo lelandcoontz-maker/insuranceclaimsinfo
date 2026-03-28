@@ -98,8 +98,8 @@ export default function ContactPage() {
           <div className="space-y-5">
             {[
               { icon: '📍', title: 'California Claims', desc: 'Licensed PA in California (Lic. #2B53445). I handle claims directly.' },
-              { icon: '🌎', title: 'Other States', desc: 'I have a nationwide referral network. I'll connect you with a vetted PA in your state and earn a referral fee.' },
-              { icon: '💼', title: 'No Fee Promise', desc: 'Most PA work is contingency — if we don't recover more, you owe nothing.' },
+              { icon: '🌎', title: 'Other States', desc: "I have a nationwide referral network. I'll connect you with a vetted PA in your state and earn a referral fee." },
+              { icon: '💼', title: 'No Fee Promise', desc: "Most PA work is contingency — if we don't recover more, you owe nothing." },
               { icon: '⏱', title: 'Response Time', desc: 'I respond to every inquiry within 1 business day, usually same day.' },
             ].map(item => (
               <div key={item.title} className="flex gap-3">
