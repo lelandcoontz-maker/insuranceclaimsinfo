@@ -433,24 +433,252 @@ export default function Content() {
         </li>
       </ul>
 
-      {/* ====== SHARMA WAIVER ====== */}
+      {/* ====== SHARMA WAIVER — COMPREHENSIVE ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The &ldquo;Sharma Waiver&rdquo;: Expanding Appraiser Authority
+        The &ldquo;Sharma Waiver&rdquo;: What It Is, Why It Matters, and How to Handle It
       </h2>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        What Is a Waiver in Appraisal?
+      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Although appraisers are generally limited to valuation, California law recognizes that
-        parties can <em>agree</em> to expand the panel&apos;s authority to include other issues —
-        such as causation or the extent of damage. This agreement is known as a &ldquo;Sharma
-        waiver,&rdquo; after the 1984 case.
+        As established above, California law strictly limits what an appraisal panel can decide.
+        Under Insurance Code § 2071 and the case law from <em>Sharma</em>, <em>Kacha</em>,
+        and their progeny, the panel&apos;s authority is confined to one thing: determining the{' '}
+        <strong>actual cash value or amount of loss</strong>. The panel cannot decide coverage,
+        causation, fraud, policy interpretation, or any other legal question.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, as <em>Kacha</em> made clear, a valid Sharma waiver requires{' '}
-        <strong>clear and convincing evidence</strong> that both parties knowingly agreed to
-        expand the panel&apos;s scope. Boilerplate language in an award form does not qualify.
-        The waiver must be a deliberate, informed decision by both sides. If you are the
-        policyholder, be very cautious about agreeing to expand the panel&apos;s authority —
-        doing so may allow the panel to make coverage determinations that work against you.
+        A <strong>&ldquo;Sharma waiver&rdquo;</strong> is an agreement — named after the 1984
+        <em> Safeco v. Sharma</em> case — in which both parties consent to expand the appraisal
+        panel&apos;s authority beyond its normal statutory limits. By signing a waiver, you are
+        agreeing to let the appraisers decide issues they would not otherwise have the power to
+        decide — such as what caused the damage, whether certain items were actually damaged, or
+        how the policy should be interpreted.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In plain terms: <strong>a Sharma waiver gives away rights you currently
+        have</strong>. Without the waiver, the insurer must prove coverage defenses in court,
+        where you have the protections of formal legal proceedings — discovery, rules of evidence,
+        a judge, and the right to appeal. With a waiver, those issues are decided by the appraisal
+        panel in an informal proceeding with none of those protections.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        How Insurers Propose Waivers
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Insurance companies propose waivers in several ways. Some are obvious. Some are not.
+        Understanding how they appear is the first step to protecting yourself.
+      </p>
+
+      <h4 className="text-lg font-semibold text-gray-900 mb-2">
+        1. The Explicit Written Stipulation
+      </h4>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The most straightforward approach: the insurer&apos;s attorney or adjuster sends you (or
+        your Public Adjuster or attorney) a written agreement — sometimes called a
+        &ldquo;stipulation,&rdquo; &ldquo;appraisal protocol,&rdquo; or &ldquo;scope
+        agreement&rdquo; — that asks both parties to agree that the appraisal panel will decide
+        certain issues beyond valuation. For example, it might state that the panel will determine
+        &ldquo;the cause and origin of the damage&rdquo; or &ldquo;which items of damage are
+        attributable to the covered peril.&rdquo; This is a Sharma waiver. It is asking you to
+        give the panel authority it does not have by default.
+      </p>
+
+      <h4 className="text-lg font-semibold text-gray-900 mb-2">
+        2. The Award Form Preamble
+      </h4>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is the more dangerous approach — and the one <em>Kacha</em> specifically addressed.
+        Instead of asking for an explicit waiver up front, the insurer&apos;s side drafts the
+        appraisal award form with language that embeds coverage or causation determinations into
+        the award itself. For example, an award preamble that says the panel has determined
+        &ldquo;damage attributable to the fire of October 26, 2003&rdquo; is making a causation
+        finding — it is saying the panel decided <em>what caused</em> the damage, not just how
+        much it is worth.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you sign that award form without objecting, the insurer can later argue that you
+        agreed to let the panel decide causation — a de facto Sharma waiver. And once the award
+        is confirmed by a court, challenging it becomes nearly impossible.
+      </p>
+
+      <h4 className="text-lg font-semibold text-gray-900 mb-2">
+        3. Policy Terms of Art in the Award
+      </h4>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        As attorneys Cohen and Bederman have{' '}
+        <a
+          href="https://www.advocatemagazine.com/article/2022-november/first-party-insurance-appraisals"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#2E74B5] underline"
+        >
+          warned
+        </a>
+        , defense-side attorneys sometimes draft award forms using{' '}
+        <strong>express policy language or related terms of art</strong> to describe portions of
+        the award. For example, labeling an award section &ldquo;Coverage A — Dwelling&rdquo;
+        or &ldquo;ALE — Shortest Time to Repair&rdquo; borrows language directly from the
+        policy. If that award is confirmed, the insurer can argue that the panel made a
+        determination about those specific coverage categories — and that any future lawsuit
+        challenging those amounts is an impermissible &ldquo;collateral attack&rdquo; on a
+        confirmed arbitration award. This effectively forecloses a bad faith lawsuit on those
+        issues.
+      </p>
+
+      <h4 className="text-lg font-semibold text-gray-900 mb-2">
+        4. Verbal Agreements or Informal Understandings
+      </h4>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Sometimes the expansion of panel authority happens informally during the appraisal
+        itself — the insurer&apos;s appraiser begins arguing causation before the umpire, and
+        nobody objects. If the panel then makes causation findings in the award, the insurer may
+        argue that all parties implicitly agreed to expand the scope. While <em>Kacha</em> held
+        that a valid waiver requires clear and convincing evidence, it is far better to prevent
+        the issue from arising than to litigate it afterward.
+      </p>
+
+      <CalloutBox variant="important" title="The Key Principle: A Waiver Gives Away Your Rights">
+        <p>
+          Without a waiver, the insurer must litigate coverage and causation disputes in court,
+          where you have full legal protections. With a waiver, those issues are decided by the
+          appraisal panel — informally, with no discovery, no rules of evidence, and limited
+          grounds for appeal. There is almost never a reason for the policyholder to agree to
+          expand the panel&apos;s authority. The waiver benefits the insurance company, not you.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        What the Case Law Says About Waivers
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California courts have set a high bar for enforcing Sharma waivers:
+      </p>
+      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong><em>Sharma</em> (1984):</strong> Recognized that parties <em>can</em> agree to
+          expand the panel&apos;s authority, but established the default rule that appraisers are
+          limited to valuation. The concept of a &ldquo;Sharma waiver&rdquo; originates here.
+        </li>
+        <li>
+          <strong><em>Kacha</em> (2006):</strong> The most important waiver case. Allstate
+          argued that the insured had waived the statutory limitations by agreeing to the award
+          form&apos;s preamble language about damage &ldquo;attributable to the fire.&rdquo; The
+          court rejected this argument. The insured testified he never intended to waive
+          <em> Sharma</em> or § 2071, and the court agreed. The holding:{' '}
+          <strong>a Sharma waiver requires clear and convincing evidence</strong> of a knowing,
+          intentional agreement to expand the panel&apos;s scope. Boilerplate language in an
+          award form — even language both parties signed — does not meet that standard. The best
+          evidence of a valid waiver is a <strong>separate written stipulation</strong>,
+          signed by both parties, that expressly references and waives Insurance Code § 2071
+          and the <em>Sharma/Kacha</em> limitations.
+        </li>
+        <li>
+          <strong><em>Lee v. California Capital</em> (2015):</strong> Further clarified the
+          boundary. The court held that the panel can consider whether damage exists to an item
+          (because existence of damage bears directly on valuation), but cannot make zero-value
+          determinations based on causation disputes or fraud accusations. This shows how even
+          without a waiver, the line between valuation and coverage can blur — making it all the
+          more important to keep the panel&apos;s scope clearly defined from the start.
+        </li>
+        <li>
+          <strong><em>Devonwood</em> (2008):</strong> Even when an appraisal award has been
+          issued, it does not resolve all issues. The insurer can still raise coverage,
+          deductible, and policy limit defenses. This means even a favorable award does not
+          automatically result in payment — and a waiver that expanded the panel&apos;s authority
+          could undermine your ability to fight coverage issues separately.
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        How to Handle a Waiver Proposal
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the insurance company — or the insurer&apos;s appraiser, attorney, or adjuster —
+        proposes any form of waiver or scope expansion, here is what you should do:
+      </p>
+
+      <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
+        <h4 className="font-bold text-[#1F3964] mb-3">Step-by-Step Response to a Waiver Proposal</h4>
+        <ol className="list-decimal pl-6 space-y-3 text-gray-700 text-sm">
+          <li>
+            <strong>Do not sign anything immediately.</strong> Any document that asks you to agree
+            to expand the appraisal panel&apos;s authority — whether it is called a
+            &ldquo;stipulation,&rdquo; &ldquo;protocol,&rdquo; &ldquo;scope agreement,&rdquo;
+            or anything else — requires careful review before signing.
+          </li>
+          <li>
+            <strong>Identify the expansion.</strong> Look for any language that asks the panel to
+            determine causation, coverage, policy interpretation, the &ldquo;cause or origin&rdquo;
+            of damage, whether items &ldquo;existed,&rdquo; or any issue beyond the actual cash
+            value or amount of loss. If the document uses policy terms of art (Coverage A,
+            Coverage B, &ldquo;period of restoration,&rdquo; &ldquo;shortest time to
+            repair&rdquo;), it may be embedding coverage determinations into the award.
+          </li>
+          <li>
+            <strong>Decline the waiver in writing.</strong> Respond with a clear written statement
+            that you do not agree to expand the panel&apos;s authority beyond its statutory scope
+            under Insurance Code § 2071 and the holdings of <em>Sharma</em> and <em>Kacha</em>.
+            State that the appraisal panel&apos;s authority is limited to determining the actual
+            cash value and amount of loss, and that all coverage, causation, and policy
+            interpretation issues are reserved for separate resolution.
+          </li>
+          <li>
+            <strong>Propose clean award form language.</strong> If the insurer has drafted an
+            award form, review it carefully and object to any language that goes beyond valuation.
+            Propose neutral language — for example, &ldquo;The panel has determined the actual cash
+            value and amount of loss as follows&rdquo; — without causation findings, policy terms
+            of art, or coverage determinations.
+          </li>
+          <li>
+            <strong>Object on the record during the appraisal.</strong> If the insurer&apos;s
+            appraiser begins arguing causation or coverage issues before the umpire during the
+            appraisal hearing, object immediately. State on the record that these issues are
+            beyond the panel&apos;s authority and that you do not consent to expanding the scope.
+            Even though proceedings are informal, making your objection known prevents the insurer
+            from later claiming you implicitly agreed.
+          </li>
+          <li>
+            <strong>Consult a professional.</strong> If you are not represented by a{' '}
+            <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
+              Public Adjuster
+            </Link>{' '}
+            or attorney, get one involved before the appraisal proceeds. Waiver issues are
+            consequential — they can determine whether you preserve or lose the right to litigate
+            coverage and bad faith issues.
+          </li>
+        </ol>
+      </div>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        When (If Ever) a Waiver Might Make Sense
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In rare circumstances, a policyholder might <em>choose</em> to agree to a limited scope
+        expansion — for example, if the only dispute is whether water damage was caused by a
+        sudden pipe burst (covered) or a long-term leak (potentially excluded), and the
+        policyholder is confident the evidence supports their position. In that scenario, letting
+        the panel resolve causation during the appraisal could be faster and cheaper than
+        litigating it separately.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        But this is the exception, not the rule. Agreeing to a waiver means giving up the
+        procedural protections of court — discovery, rules of evidence, a judge, and meaningful
+        appellate review. In most cases, if the insurer wants to dispute causation or coverage,
+        they should have to do it in court, where the burden of proof is on them. Do not make it
+        easier for them by waiving your rights in an informal appraisal proceeding.
+      </p>
+
+      <CalloutBox variant="warning" title="The Bottom Line on Waivers">
+        <p>
+          The default rule protects you: the appraisal panel decides how much, not whether or why.
+          If the insurance company proposes a waiver, they are asking you to give up that
+          protection. In the vast majority of cases, the answer should be no. Decline in writing,
+          cite § 2071 and <em>Kacha</em>, and keep the panel focused on valuation.
+        </p>
+      </CalloutBox>
 
       {/* ====== CONSEQUENCES ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
