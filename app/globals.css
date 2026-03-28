@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #1F3964;
+  --navy-light: #2E74B5;
+  --navy-dark: #162847;
+  --gold: #C9A84C;
+  --sky: #EFF4FB;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply text-gray-800 bg-white; }
+  h1, h2, h3, h4 { @apply font-bold; }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center gap-2 bg-[#1F3964] text-white font-semibold
+           px-6 py-3 rounded-lg hover:bg-[#162847] transition-colors;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 border-2 border-[#1F3964] text-[#1F3964]
+           font-semibold px-6 py-3 rounded-lg hover:bg-[#EFF4FB] transition-colors;
+  }
+  .btn-gold {
+    @apply inline-flex items-center gap-2 bg-[#C9A84C] text-white font-semibold
+           px-6 py-3 rounded-lg hover:bg-[#A8872E] transition-colors;
+  }
+  .section-heading {
+    @apply text-3xl font-bold text-[#1F3964] mb-4;
+  }
+  .card {
+    @apply bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow;
+  }
+}
