@@ -214,7 +214,7 @@ export default function ResourcesPage() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-2xl font-bold mb-3">Need Help With Your Specific Claim?</h2>
           <p className="text-blue-200 mb-6">
-            Every claim is different. If your insurer is giving you trouble, a licensed public adjuster
+            Every claim is different. If your insurer is giving you trouble, a licensed Public Adjuster
             can review your file, identify what's being underpaid, and represent you in negotiations.
           </p>
           <Link href="/contact" className="btn-gold">

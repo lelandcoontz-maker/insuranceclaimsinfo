@@ -108,7 +108,7 @@ export function exportToExcel(
     ['  • Fair Claims Settlement Practices Act (10 CCR 2695)'],
     ['  • Insurer must respond to your claim within 15 days'],
     ['  • Insurer must accept or deny within 40 days of proof of loss'],
-    ['  • You have the right to a public adjuster to represent you'],
+    ['  • You have the right to a Public Adjuster to represent you'],
     [''],
     ['NEED PROFESSIONAL HELP WITH YOUR CLAIM?'],
     [PA_CONTACT],

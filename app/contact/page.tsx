@@ -70,7 +70,7 @@ export default function ContactPage() {
           {form.state && form.state !== 'California' && (
             <div className="mt-6 bg-amber-50 border border-amber-200 rounded-lg p-4 text-sm text-amber-800">
               <strong>Note:</strong> You indicated your claim is in {form.state}.
-              We'll connect you with a trusted public adjuster in your state.
+              We'll connect you with a trusted Public Adjuster in your state.
             </div>
           )}
         </div>
@@ -98,7 +98,7 @@ export default function ContactPage() {
           <div className="space-y-5">
             {[
               { icon: '📍', title: 'California Claims', desc: 'Licensed PA in California (Lic. #2B53445). I handle claims directly.' },
-              { icon: '🌎', title: 'Other States', desc: "I have a nationwide referral network. I'll connect you with a vetted PA in your state and earn a referral fee." },
+              { icon: '🌎', title: 'Other States', desc: "I have a nationwide referral network. I'll connect you with a vetted Public Adjuster in your state." },
               { icon: '💼', title: 'No Fee Promise', desc: "Most PA work is contingency — if we don't recover more, you owe nothing." },
               { icon: '⏱', title: 'Response Time', desc: 'I respond to every inquiry within 1 business day, usually same day.' },
             ].map(item => (

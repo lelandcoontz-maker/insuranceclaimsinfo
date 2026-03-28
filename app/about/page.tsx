@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'About — Leland Coontz III, CA Licensed Public Adjuster',
-  description: 'California Licensed Public Adjuster Leland Coontz III (Lic. #2B53445). Learn how a public adjuster works, what we do for claimants, and how to get help with your insurance claim.',
+  description: 'California Licensed Public Adjuster Leland Coontz III (Lic. #2B53445). Learn how a Public Adjuster works, what we do for claimants, and how to get help with your insurance claim.',
 }
 
 export default function AboutPage() {
@@ -38,7 +38,7 @@ export default function AboutPage() {
           <div className="prose prose-blue max-w-none text-gray-700 space-y-4">
             <p>
               When you file an insurance claim, your insurer sends their own adjuster — someone whose
-              job is to evaluate (and minimize) what they pay out. A <strong>public adjuster</strong> is
+              job is to evaluate (and minimize) what they pay out. A <strong>Public Adjuster</strong> is
               a licensed professional who works exclusively for you, the policyholder.
             </p>
             <p>
@@ -47,7 +47,7 @@ export default function AboutPage() {
               a PA recover significantly more than those who go it alone — often 2–3x more.
             </p>
             <p>
-              In California, public adjusters are licensed and regulated by the California Department
+              In California, Public Adjusters are licensed and regulated by the California Department
               of Insurance. We work on a contingency fee basis — a percentage of your settlement. If
               we don't improve your outcome, you owe nothing.
             </p>
@@ -90,9 +90,8 @@ export default function AboutPage() {
           <div className="bg-amber-50 border border-amber-200 rounded-xl p-6">
             <h3 className="font-bold text-lg text-amber-900 mb-3">Other States — Referral Network</h3>
             <p className="text-amber-800 text-sm leading-relaxed">
-              If your claim is in another state, I can refer you to a vetted public adjuster in
-              that jurisdiction. I receive a referral fee at no cost to you — you pay the same
-              contingency rate you would have anyway.
+              If your claim is in another state, I can refer you to a vetted Public Adjuster in
+              that jurisdiction at no cost to you.
             </p>
           </div>
         </section>

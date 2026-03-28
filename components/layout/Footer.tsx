@@ -21,7 +21,7 @@ export function Footer() {
           <div>
             <h3 className="font-bold text-lg mb-3">InsuranceClaimsInfo.com</h3>
             <p className="text-blue-200 text-sm leading-relaxed">
-              Free educational resources and professional public adjuster services
+              Free educational resources and professional Public Adjuster services
               for California insurance claimants.
             </p>
             <p className="text-blue-300 text-xs mt-4">

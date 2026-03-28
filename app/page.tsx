@@ -82,7 +82,7 @@ const STEPS = [
   {
     num: '3',
     title: 'Get Professional Help',
-    desc: 'If your claim is large or your insurer is giving you trouble, a licensed public adjuster can represent you and maximize your recovery.',
+    desc: 'If your claim is large or your insurer is giving you trouble, a licensed Public Adjuster can represent you and maximize your recovery.',
   },
 ]
 
@@ -257,11 +257,11 @@ export default function HomePage() {
             <p className="text-blue-200 leading-relaxed mb-6">
               I'm Leland Coontz III, a licensed California Public Adjuster (Lic. #2B53445).
               Insurance companies have teams of adjusters, lawyers, and software working to minimize
-              your claim. A public adjuster works exclusively for you — reading your policy, documenting
+              your claim. A Public Adjuster works exclusively for you — reading your policy, documenting
               your loss, and negotiating on your behalf.
             </p>
             <p className="text-blue-200 leading-relaxed mb-8">
-              Most public adjusters work on contingency — no recovery, no fee. If I can't improve your
+              Most Public Adjusters work on contingency — no recovery, no fee. If I can't improve your
               settlement, you owe nothing. I also have a nationwide referral network for claims outside
               California or outside my preferred case types.
             </p>
