@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'About — Leland Coontz III, CA Licensed Public Adjuster',
-  description: 'California Licensed Public Adjuster Leland Coontz III (Lic. #2B53445). Learn how a Public Adjuster works, what we do for claimants, and how to get help with your insurance claim.',
+  description: 'California Licensed Public Adjuster Leland Coontz III (Lic. #2B53445). Over 20 years of disaster claims experience across the United States and internationally. Member of the CA DOI committee that revised the adjuster examination.',
 }
 
 export default function AboutPage() {
@@ -23,7 +23,7 @@ export default function AboutPage() {
             </p>
             <p className="text-blue-200 leading-relaxed max-w-xl">
               I built this site because I saw too many homeowners leave tens of thousands of dollars
-              on the table simply because they didn't know their rights or how to document their loss.
+              on the table simply because they didn&#39;t know their rights or how to document their loss.
               The tools and guides here are free — no catch.
             </p>
           </div>
@@ -31,6 +31,48 @@ export default function AboutPage() {
       </div>
 
       <div className="max-w-4xl mx-auto px-4 py-12 space-y-14">
+
+        {/* Background & Credentials */}
+        <section>
+          <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Background & Experience</h2>
+          <div className="prose prose-blue max-w-none text-gray-700 space-y-4">
+            <p>
+              I have over <strong>20 years of experience</strong> handling disaster-related insurance claims
+              across the United States and in two foreign countries. From wildfires in California to hurricanes
+              on the Gulf Coast, I&#39;ve worked on every major type of property loss — residential and commercial.
+            </p>
+            <p>
+              Over the course of my career, I&#39;ve handled <strong>many millions of dollars</strong> in
+              insurance claims. I spent years working as an insurance adjuster before transitioning to the
+              policyholder side as a licensed Public Adjuster — giving me a deep understanding of how
+              insurance companies evaluate, document, and settle claims from the inside.
+            </p>
+            <p>
+              I served as a <strong>member of the California Department of Insurance committee</strong> that
+              revised the adjuster licensing examination — helping set the professional standards that
+              all licensed adjusters in California must meet. I maintain <strong>extensive continuing
+              education</strong> in claims handling, construction estimating, policy interpretation,
+              and California insurance law.
+            </p>
+          </div>
+
+          {/* Credentials grid */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+            {[
+              { icon: '📜', label: 'CA Public Adjuster License #2B53445' },
+              { icon: '🗓', label: '20+ Years of Claims Experience' },
+              { icon: '🌎', label: 'US-Wide + International Experience' },
+              { icon: '🏛', label: 'CA DOI Exam Revision Committee Member' },
+              { icon: '📚', label: 'Extensive Continuing Education' },
+              { icon: '💰', label: 'Millions of Dollars in Claims Handled' },
+            ].map(item => (
+              <div key={item.label} className="flex items-center gap-3 bg-[#EFF4FB] rounded-lg px-4 py-3 text-sm font-medium text-[#1F3964]">
+                <span className="text-xl">{item.icon}</span>
+                {item.label}
+              </div>
+            ))}
+          </div>
+        </section>
 
         {/* What is a Public Adjuster */}
         <section>
@@ -49,7 +91,18 @@ export default function AboutPage() {
             <p>
               In California, Public Adjusters are licensed and regulated by the California Department
               of Insurance. We work on a contingency fee basis — a percentage of your settlement. If
-              we don't improve your outcome, you owe nothing.
+              we don&#39;t improve your outcome, you owe nothing.
+            </p>
+            <p className="text-sm text-gray-500">
+              You can verify any Public Adjuster&#39;s license on the{' '}
+              <a
+                href="https://interactive.web.insurance.ca.gov/apex_extprd/f?p=102:5::::5::"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#2E74B5] underline"
+              >
+                California Department of Insurance license lookup
+              </a>.
             </p>
           </div>
         </section>
@@ -60,14 +113,17 @@ export default function AboutPage() {
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
             {[
               { icon: '🔥', label: 'Fire & Wildfire' },
-              { icon: '💨', label: 'Smoke & Soot' },
-              { icon: '💧', label: 'Water & Flood' },
+              { icon: '💨', label: 'Smoke & Contamination' },
+              { icon: '💧', label: 'Water & Plumbing' },
               { icon: '🌪', label: 'Wind & Storm' },
-              { icon: '🧱', label: 'Earth Movement' },
+              { icon: '🦠', label: 'Mold Losses' },
               { icon: '🏠', label: 'Structural Damage' },
               { icon: '🛋', label: 'Contents & Personal Property' },
               { icon: '🏨', label: 'Additional Living Expenses' },
-              { icon: '🔨', label: 'Contractors & Estimates' },
+              { icon: '🔨', label: 'Vandalism & Theft' },
+              { icon: '🚗', label: 'Vehicle Impact' },
+              { icon: '🚿', label: 'Sewage Damage' },
+              { icon: '📐', label: 'Estimates & Xactimate' },
             ].map(item => (
               <div key={item.label} className="flex items-center gap-2 bg-[#EFF4FB] rounded-lg px-4 py-3 text-sm font-medium text-[#1F3964]">
                 <span className="text-xl">{item.icon}</span>
@@ -82,7 +138,7 @@ export default function AboutPage() {
           <div className="bg-[#1F3964] text-white rounded-xl p-6">
             <h3 className="font-bold text-lg mb-3">California Claims</h3>
             <p className="text-blue-200 text-sm leading-relaxed">
-              I'm licensed and active in California. I handle residential and commercial claims
+              I&#39;m licensed and active in California. I handle residential and commercial claims
               across the state, with particular expertise in wildfire-related losses (Palisades,
               Eaton, and other recent fires).
             </p>
@@ -123,7 +179,7 @@ export default function AboutPage() {
         <section className="bg-[#EFF4FB] rounded-2xl p-8 text-center">
           <h2 className="text-2xl font-bold text-[#1F3964] mb-3">Ready to Talk About Your Claim?</h2>
           <p className="text-gray-600 mb-6 max-w-md mx-auto">
-            Free consultation — no obligation. If I can't help, I'll point you to someone who can.
+            Free consultation — no obligation. If I can&#39;t help, I&#39;ll point you to someone who can.
           </p>
           <Link href="/contact" className="btn-primary">
             Request a Free Claim Review →

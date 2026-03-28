@@ -1,13 +1,6 @@
-/**
- * Placeholder for individual resource articles.
- * Phase 1: Shows a "coming soon" page with a CTA.
- * Phase 2: Replace with MDX content, a CMS (Contentful, Sanity), or a database.
- *
- * The URL structure /resources/[slug] is already set up — just add content.
- */
-
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { ArticleLayout } from '@/components/content/ArticleLayout'
 
 const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'california-fair-claims': { title: 'California Fair Claims Settlement Practices Act (10 CCR 2695)', description: 'Your rights under California\'s fair claims regulation.' },
@@ -25,21 +18,71 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'acv-rcv':                { title: 'ACV vs. RCV: Actual vs. Replacement Cost Value', description: 'The most important distinction in a contents claim.' },
   'proof-of-loss':          { title: 'Proof of Loss: What It Is and How to Complete It', description: 'Requirements, deadlines, and how to file a sworn proof of loss.' },
   'specialty-items':        { title: 'Electronics, Jewelry & Specialty Item Claims', description: 'How high-value and specialty items are valued differently.' },
+  'mold-losses':            { title: 'Mold Losses: What Your Insurance Actually Covers', description: 'Ensuing loss, mold limits, and common insurer tactics with mold claims.' },
+  'duties-after-loss':      { title: 'Duties After Loss: What You\'re Required to Do', description: 'Your obligations after a loss and how they affect your claim.' },
 }
 
-interface Props { params: { slug: string } }
+// Map slugs to dynamic imports of content modules
+const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; description: string }; default: React.ComponentType }>> = {
+  'california-fair-claims': () => import('@/lib/content/articles/california-fair-claims'),
+  'policy-interpretation':  () => import('@/lib/content/articles/policy-interpretation'),
+  'claims-process':         () => import('@/lib/content/articles/claims-process'),
+  'contents-claims':        () => import('@/lib/content/articles/contents-claims'),
+  'ale-frv':                () => import('@/lib/content/articles/ale-frv'),
+  'appraisal':              () => import('@/lib/content/articles/appraisal'),
+  'negotiation':            () => import('@/lib/content/articles/negotiation'),
+  'bad-faith':              () => import('@/lib/content/articles/bad-faith'),
+  'xactimate':              () => import('@/lib/content/articles/xactimate'),
+  'public-adjuster':        () => import('@/lib/content/articles/public-adjuster'),
+  'cdi-complaint':          () => import('@/lib/content/articles/cdi-complaint'),
+  'exclusions':             () => import('@/lib/content/articles/exclusions'),
+  'acv-rcv':                () => import('@/lib/content/articles/acv-rcv'),
+  'proof-of-loss':          () => import('@/lib/content/articles/proof-of-loss'),
+  'specialty-items':        () => import('@/lib/content/articles/specialty-items'),
+  'mold-losses':            () => import('@/lib/content/articles/mold-losses'),
+  'duties-after-loss':      () => import('@/lib/content/articles/duties-after-loss'),
+}
 
-export function generateMetadata({ params }: Props): Metadata {
-  const meta = ARTICLE_META[params.slug]
+interface Props { params: Promise<{ slug: string }> }
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params
+  const meta = ARTICLE_META[slug]
   return meta
     ? { title: meta.title, description: meta.description }
     : { title: 'Resource Article' }
 }
 
-export default function ResourceArticlePage({ params }: Props) {
-  const meta = ARTICLE_META[params.slug]
+export function generateStaticParams() {
+  return Object.keys(ARTICLE_META).map(slug => ({ slug }))
+}
+
+export default async function ResourceArticlePage({ params }: Props) {
+  const { slug } = await params
+  const meta = ARTICLE_META[slug]
   const title = meta?.title ?? 'Resource Article'
 
+  // Try to load article content
+  const loader = ARTICLE_CONTENT[slug]
+  if (loader) {
+    try {
+      const mod = await loader()
+      const Content = mod.default
+      return (
+        <ArticleLayout
+          title={title}
+          description={meta?.description}
+          backLink={{ href: '/resources', label: 'Back to Resources' }}
+        >
+          <Content />
+        </ArticleLayout>
+      )
+    } catch {
+      // Fall through to "coming soon" placeholder
+    }
+  }
+
+  // Coming soon fallback
   return (
     <>
       <div className="bg-[#1F3964] text-white py-12 px-4">
@@ -55,21 +98,19 @@ export default function ResourceArticlePage({ params }: Props) {
       </div>
 
       <div className="max-w-3xl mx-auto px-4 py-12">
-        {/* Coming soon placeholder */}
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-8 text-center">
           <div className="text-4xl mb-4">📝</div>
           <h2 className="text-xl font-bold text-amber-900 mb-3">Full Guide Coming Soon</h2>
           <p className="text-amber-800 leading-relaxed mb-6">
             This article is being written. In the meantime, if you have questions about{' '}
             <strong>{title.toLowerCase()}</strong>, contact us for a free consultation —
-            we're happy to answer questions about your specific situation.
+            we&#39;re happy to answer questions about your specific situation.
           </p>
           <Link href="/contact" className="btn-primary">
             Ask a Question — Free →
           </Link>
         </div>
 
-        {/* Related tools */}
         <div className="mt-10 border-t pt-8">
           <h3 className="font-bold text-[#1F3964] mb-4">While You Wait — Use the Free Tool</h3>
           <Link href="/inventory" className="card flex items-center gap-4 hover:border-[#1F3964]">

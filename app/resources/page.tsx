@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'California Insurance Claim Resources',
-  description: 'Free guides on California insurance law, policy interpretation, claim negotiation, bad faith, appraisal, Xactimate estimates, and more.',
+  description: 'Free guides on California insurance law, policy interpretation, claim negotiation, bad faith, appraisal, Xactimate estimates, mold claims, and more.',
 }
 
 const CATEGORIES = [
@@ -46,7 +46,7 @@ const CATEGORIES = [
       {
         icon: '📋',
         title: 'Policy Interpretation Guide',
-        desc: 'Coverages A, B, C, D explained. How to read insuring agreements, exclusions, and conditions. What "occurrence" and "all-risk" really mean.',
+        desc: 'Coverages A, B, C, D explained. HO3 vs named peril, commercial vs residential, co-insurance, endorsements, and how to read your entire policy.',
         href: '/resources/policy-interpretation',
         tag: 'Fundamentals',
         tagColor: 'bg-amber-100 text-amber-700',
@@ -91,9 +91,17 @@ const CATEGORIES = [
         tagColor: 'bg-green-100 text-green-700',
       },
       {
+        icon: '📂',
+        title: 'Duties After Loss',
+        desc: 'Your obligations after a loss — reporting, exhibiting damages, proof of loss — and how failure to comply can affect your claim.',
+        href: '/resources/duties-after-loss',
+        tag: 'Process',
+        tagColor: 'bg-green-100 text-green-700',
+      },
+      {
         icon: '🔨',
         title: 'Insurance Appraisal Procedure',
-        desc: 'When you disagree on the amount of loss, appraisal is your right. How to invoke it, how the process works, and how to pick an appraiser.',
+        desc: 'When you disagree on the amount of loss, appraisal is your right. How to invoke it, how it works, and how to pick an appraiser.',
         href: '/resources/appraisal',
         tag: 'Dispute Resolution',
         tagColor: 'bg-green-100 text-green-700',
@@ -108,7 +116,7 @@ const CATEGORIES = [
       {
         icon: '🛋',
         title: 'Documenting Personal Property',
-        desc: 'How to create a defensible contents inventory. Room-by-room methodology, valuations, supporting evidence.',
+        desc: 'How to create a defensible contents inventory. Room-by-room methodology, cleaning vs total loss, pack-out and storage.',
         href: '/resources/contents-claims',
         tag: 'Contents',
         tagColor: 'bg-purple-100 text-purple-700',
@@ -162,6 +170,29 @@ const CATEGORIES = [
       },
     ],
   },
+  {
+    label: 'Specialized Topics',
+    color: 'bg-teal-50 border-teal-200',
+    headingColor: 'text-teal-900',
+    articles: [
+      {
+        icon: '🦠',
+        title: 'Mold Losses',
+        desc: 'Is mold covered? Ensuing loss doctrine, mold limits, and why the insurance company\'s mold argument may be wrong.',
+        href: '/resources/mold-losses',
+        tag: 'Mold',
+        tagColor: 'bg-teal-100 text-teal-700',
+      },
+      {
+        icon: '🔥',
+        title: 'Common Types of Claims',
+        desc: 'Fire, water, vandalism, vehicle impact, sewage, flood, smoke — how each type of claim has unique considerations.',
+        href: '/types-of-claims',
+        tag: 'Claim Types',
+        tagColor: 'bg-teal-100 text-teal-700',
+      },
+    ],
+  },
 ]
 
 export default function ResourcesPage() {
@@ -174,13 +205,34 @@ export default function ResourcesPage() {
           <p className="text-blue-200 max-w-2xl leading-relaxed">
             Plain-English guides written for California policyholders. No jargon, no paywalls.
             Everything you need to understand your policy, navigate the claims process,
-            and fight for what you're owed.
+            and fight for what you&#39;re owed.
           </p>
         </div>
       </div>
 
+      {/* Quick links to top-level pages */}
+      <div className="max-w-6xl mx-auto px-4 pt-10 pb-2">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <Link href="/regulations" className="bg-[#1F3964] text-white rounded-xl p-5 hover:bg-[#162847] transition-colors">
+            <span className="text-2xl mb-2 block">📜</span>
+            <h3 className="font-bold mb-1">CA Rules & Regulations</h3>
+            <p className="text-blue-200 text-sm">Insurance Code 790 and Fair Claims Regulations — your rights under California law.</p>
+          </Link>
+          <Link href="/faq" className="bg-[#C9A84C] text-white rounded-xl p-5 hover:bg-[#A8872E] transition-colors">
+            <span className="text-2xl mb-2 block">❓</span>
+            <h3 className="font-bold mb-1">Frequently Asked Questions</h3>
+            <p className="text-amber-100 text-sm">30+ answers to the most common insurance claim questions.</p>
+          </Link>
+          <Link href="/types-of-claims" className="bg-[#2E74B5] text-white rounded-xl p-5 hover:bg-[#1F3964] transition-colors">
+            <span className="text-2xl mb-2 block">🔥</span>
+            <h3 className="font-bold mb-1">Types of Claims</h3>
+            <p className="text-blue-100 text-sm">Fire, water, mold, vandalism, flood, smoke — guides for each type of loss.</p>
+          </Link>
+        </div>
+      </div>
+
       {/* Resource grid */}
-      <div className="max-w-6xl mx-auto px-4 py-12 space-y-12">
+      <div className="max-w-6xl mx-auto px-4 py-10 space-y-12">
         {CATEGORIES.map(cat => (
           <section key={cat.label}>
             <h2 className={`text-xl font-bold mb-5 ${cat.headingColor}`}>{cat.label}</h2>
@@ -215,7 +267,7 @@ export default function ResourcesPage() {
           <h2 className="text-2xl font-bold mb-3">Need Help With Your Specific Claim?</h2>
           <p className="text-blue-200 mb-6">
             Every claim is different. If your insurer is giving you trouble, a licensed Public Adjuster
-            can review your file, identify what's being underpaid, and represent you in negotiations.
+            can review your file, identify what&#39;s being underpaid, and represent you in negotiations.
           </p>
           <Link href="/contact" className="btn-gold">
             Request a Free Claim Review →

@@ -1,15 +1,5 @@
 import Link from 'next/link'
-
-const RESOURCE_LINKS = [
-  { href: '/resources/california-fair-claims', label: 'CA Fair Claims Act (10 CCR 2695)' },
-  { href: '/resources/policy-interpretation', label: 'Understanding Your Policy' },
-  { href: '/resources/claims-process', label: 'The Claims Process' },
-  { href: '/resources/contents-claims', label: 'Personal Property Claims' },
-  { href: '/resources/ale-frv', label: 'Additional Living Expenses' },
-  { href: '/resources/appraisal', label: 'Insurance Appraisal' },
-  { href: '/resources/negotiation', label: 'Claim Negotiation Tactics' },
-  { href: '/resources/bad-faith', label: 'Bad Faith Insurance' },
-]
+import { FOOTER_RESOURCE_LINKS } from '@/lib/content/navigation'
 
 export function Footer() {
   return (
@@ -36,7 +26,7 @@ export function Footer() {
               Free Resources
             </h4>
             <ul className="space-y-1.5">
-              {RESOURCE_LINKS.map(link => (
+              {FOOTER_RESOURCE_LINKS.map(link => (
                 <li key={link.href}>
                   <Link href={link.href} className="text-blue-200 hover:text-white text-sm transition-colors">
                     {link.label}
@@ -84,15 +74,21 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-white/10 mt-10 pt-6 flex flex-col sm:flex-row justify-between items-center gap-3">
-          <p className="text-blue-400 text-xs">
-            © {new Date().getFullYear()} InsuranceClaimsInfo.com — For educational purposes only.
-            Not legal advice. Consult a licensed professional for your specific situation.
+        <div className="border-t border-white/10 mt-10 pt-6 space-y-3">
+          <p className="text-blue-400 text-xs leading-relaxed">
+            <strong>Disclaimer:</strong> This website provides general educational information about insurance claims
+            and does not constitute legal advice. Insurance laws and regulations vary by state and change over time.
+            For legal advice specific to your situation, consult a licensed attorney.
           </p>
-          <div className="flex gap-4">
-            <Link href="/privacy" className="text-blue-400 hover:text-white text-xs transition-colors">Privacy</Link>
-            <Link href="/terms" className="text-blue-400 hover:text-white text-xs transition-colors">Terms</Link>
-            <Link href="/contact" className="text-blue-400 hover:text-white text-xs transition-colors">Contact</Link>
+          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3">
+            <p className="text-blue-400 text-xs">
+              &copy; {new Date().getFullYear()} InsuranceClaimsInfo.com
+            </p>
+            <div className="flex gap-4">
+              <Link href="/privacy" className="text-blue-400 hover:text-white text-xs transition-colors">Privacy</Link>
+              <Link href="/terms" className="text-blue-400 hover:text-white text-xs transition-colors">Terms</Link>
+              <Link href="/contact" className="text-blue-400 hover:text-white text-xs transition-colors">Contact</Link>
+            </div>
           </div>
         </div>
       </div>
