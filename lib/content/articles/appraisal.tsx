@@ -586,61 +586,106 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Should You Sign a White Waiver?
+        What the White Waiver Tells You
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is one of the most consequential decisions a policyholder can face during a disputed
-        claim. There is no universal answer, but there are clear principles:
+        When an insurance company presents a White waiver, it is telling you something important —
+        even if it does not intend to. <strong>The White waiver is often a signal that the insurer
+        knows it has underpaid the claim.</strong> Think about it: if the insurer believed its
+        handling of the claim was reasonable and its offer was fair, it would have no reason to
+        fear that offer being used as evidence. The very act of requesting a White waiver suggests
+        the insurer is aware that its conduct or its offer may not withstand scrutiny in a bad
+        faith analysis.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is critical intelligence. Rather than immediately signing the waiver and giving up
+        rights, the smarter tactical move is often to <strong>pause and investigate</strong>. Ask
+        yourself: what does the insurance company realize it has done wrong? What are they
+        underpaying? What aspect of the claim handling are they trying to shield from a jury?
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Bringing that information to light — through a detailed review of the claim file, the
+        insurer&apos;s estimates, the{' '}
+        <Link href="/resources/xactimate" className="text-[#2E74B5] underline">Xactimate scope</Link>
+        , the adjuster&apos;s notes, and the history of the claim handling — may accomplish two
+        things at once: it may help establish the foundation for a{' '}
+        <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">bad faith</Link>{' '}
+        claim, and it may result in an increased offer from the insurer{' '}
+        <em>without</em> signing the White waiver and giving up any rights.
       </p>
 
-      <div className="bg-red-50 border border-red-200 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-red-900 mb-3">Reasons to Be Cautious</h4>
-        <ul className="list-disc pl-6 space-y-2 text-red-900 text-sm">
-          <li>
-            <strong>You are giving up evidence before you know the offer.</strong> The whole point
-            of the waiver is to prevent you from using the offer as bad faith evidence. If the
-            offer is a lowball, you have already surrendered one of your most powerful tools.
-          </li>
-          <li>
-            <strong>Refusal to negotiate without a waiver may itself be evidence of bad faith.</strong>{' '}
-            If the insurer refuses to discuss settlement at all unless you sign a White waiver,
-            that refusal — the conditioning of settlement discussions on waiving your rights — can
-            itself be evidence of bad faith intent.
-          </li>
-          <li>
-            <strong>Some waivers have no expiration.</strong> Poorly drafted waivers may apply
-            indefinitely, covering not just a single offer but all future settlement
-            communications. This can shield months or years of bad faith conduct.
-          </li>
-          <li>
-            <strong>Defense attorneys may use the waiver to delay.</strong> Attorneys billing
-            hourly may use the waiver negotiation as a stalling tactic — spending weeks
-            negotiating the waiver terms while the claim sits unpaid.
-          </li>
-        </ul>
-      </div>
+      <CalloutBox variant="tip" title="The White Waiver as a Tactical Signal">
+        <p>
+          Do not view the White waiver as a bureaucratic formality. View it as a tell. The insurer
+          is worried enough about its own conduct to ask you to waive your right to use it as
+          evidence. Before you sign anything, figure out <em>why</em> they are worried. That
+          information is more valuable than whatever offer they are about to make.
+        </p>
+      </CalloutBox>
 
-      <div className="bg-green-50 border border-green-200 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-green-900 mb-3">When Signing May Be Acceptable</h4>
-        <ul className="list-disc pl-6 space-y-2 text-green-900 text-sm">
-          <li>
-            <strong>The insurer has been communicating in good faith.</strong> If the claims
-            handling has been reasonable so far and the insurer appears to be making a genuine
-            settlement effort, the waiver may be less consequential.
-          </li>
-          <li>
-            <strong>The waiver is narrowly drafted with an expiration date.</strong> A waiver
-            that covers only a single, specific settlement communication and expires within a
-            defined period (e.g., 30 days) is far less dangerous than an open-ended waiver.
-          </li>
-          <li>
-            <strong>You have negotiated protective terms.</strong> You can counter-propose
-            modifications — a minimum offer threshold, a time limit, or a clause that voids the
-            waiver if the offer is below a certain amount. The insurer may or may not agree, but
-            the negotiation itself is informative.
-          </li>
-        </ul>
-      </div>
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        You Do Not Have to Sign Immediately — or at All
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There is usually no compelling reason to sign a White waiver immediately. The insurer may
+        present it with urgency, as though the settlement discussion cannot proceed without it.
+        But you are under no legal obligation to sign, and there is no deadline. The waiver is a
+        request, not a requirement.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It is entirely possible — and often tactically advisable — to <strong>set the White
+        waiver aside</strong>, continue investigating the claim, and return to the waiver later
+        if and when it becomes advantageous to do so. If at some point you determine that signing
+        the waiver will unlock a settlement discussion that genuinely serves your interests, you
+        can sign it then. But signing it before you understand the full picture gives up leverage
+        you may never get back.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In the meantime, if the insurer refuses to discuss settlement without the waiver, document
+        that refusal in writing. The insurer&apos;s conditioning of settlement discussions on
+        waiving your rights may itself be relevant in a bad faith analysis.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Enforceability Issues: Carriers Make Mistakes
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Even when a policyholder does sign a White waiver, the waiver may not be enforceable.
+        Carriers and their attorneys frequently make mistakes in the drafting and presentation
+        of White waivers that can undermine their enforceability. These mistakes fall into two
+        general categories:
+      </p>
+      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>Defects in the waiver language itself.</strong> The waiver may be overbroad,
+          ambiguous, or drafted in a way that does not comply with applicable legal requirements.
+          Vague language about what is being waived, missing specifics about which communications
+          are covered, or overly sweeping terms that attempt to waive rights beyond what
+          <em> White</em> contemplated may render the waiver unenforceable or subject to
+          challenge.
+        </li>
+        <li>
+          <strong>Promises and statements made in connection with the waiver.</strong> The
+          circumstances surrounding the presentation of the waiver matter. If the adjuster or
+          attorney made verbal or written promises, representations, or assurances when presenting
+          the waiver — about the nature of the upcoming offer, the insurer&apos;s intentions, or
+          the purpose of the waiver — those statements may create independent grounds to challenge
+          the waiver&apos;s enforceability. Misrepresentations or inducements used to obtain the
+          policyholder&apos;s signature can undermine the voluntariness of the agreement.
+        </li>
+      </ul>
+
+      <CalloutBox variant="legal" title="Consult an Attorney on Enforceability">
+        <p>
+          Whether a signed White waiver is actually enforceable depends on the specific language
+          of the waiver, the circumstances of its presentation, and the statements made by the
+          insurer&apos;s representatives. An attorney experienced in California insurance bad
+          faith law can evaluate whether the waiver has defects that render it unenforceable or
+          subject to challenge. If you have already signed a White waiver and are concerned about
+          its effect on your rights, consult an attorney — the waiver may not be as airtight as
+          the insurer believes.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         How to Handle a White Waiver Proposal
@@ -648,32 +693,35 @@ export default function Content() {
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
         <ol className="list-decimal pl-6 space-y-3 text-gray-700 text-sm">
           <li>
-            <strong>Do not sign it reflexively.</strong> The insurer may present it as a standard
-            form or routine procedure. It is not routine — it is a waiver of a right established
-            by the California Supreme Court.
+            <strong>Recognize the signal.</strong> The insurer is presenting a White waiver
+            because it is concerned about its own conduct. Before signing anything, investigate
+            what the insurer may be underpaying or mishandling.
           </li>
           <li>
-            <strong>Read it carefully.</strong> Identify exactly what it covers. Does it apply to
-            a single offer or all future communications? Does it have an expiration date? Does it
-            cover only the dollar amount or also the circumstances of the negotiation?
+            <strong>Do not sign immediately.</strong> There is no deadline and no obligation to
+            sign. Set it aside while you gather information about the claim.
           </li>
           <li>
-            <strong>Consult your Public Adjuster or attorney.</strong> A White waiver has legal
-            consequences that extend beyond the current negotiation. If the claim later moves to
-            litigation, the waiver determines what evidence you can present. Get professional
-            guidance before signing.
+            <strong>Investigate the underpayment.</strong> Review the insurer&apos;s estimate,
+            scope of loss, claim file, and handling timeline. Identify what they are underpaying
+            and why. This information may be more valuable than the settlement offer the waiver
+            is designed to protect.
           </li>
           <li>
-            <strong>Counter-propose if appropriate.</strong> You can propose a narrower waiver —
-            limited to a single communication, with a defined expiration, and with a carve-out
-            that voids the waiver if the offer is below a specific amount. This preserves the
-            settlement discussion while protecting your rights if the offer is unreasonable.
+            <strong>Consult an attorney.</strong> White waivers have legal consequences that
+            extend beyond the current negotiation. An attorney can evaluate the waiver language,
+            advise on whether to sign, and identify any defects that could affect enforceability.
           </li>
           <li>
-            <strong>Document the insurer&apos;s conduct.</strong> If the insurer refuses to make
-            any offer without a waiver, document that refusal in writing. The insurer&apos;s
-            refusal to negotiate without extracting a waiver may itself be relevant in a bad
-            faith analysis.
+            <strong>Preserve the insurer&apos;s statements.</strong> Document everything the
+            insurer says or writes when presenting the waiver — the promises, assurances, and
+            representations made in connection with the waiver may be independently significant.
+          </li>
+          <li>
+            <strong>Sign later only if advantageous.</strong> If you determine at some point that
+            signing the waiver will genuinely advance your interests — because the insurer is
+            prepared to make a reasonable offer — you can sign it then. But do so on your
+            timeline, not the insurer&apos;s.
           </li>
         </ol>
       </div>
@@ -681,10 +729,11 @@ export default function Content() {
       <CalloutBox variant="important" title="The Bottom Line on White Waivers">
         <p>
           A White waiver is not a neutral document — it exists because <em>White v. Western
-          Title</em> gave policyholders a powerful tool (using lowball offers as bad faith
-          evidence), and insurers want to take it back. Before signing, understand what you are
-          giving up, why the insurer wants it, and whether the terms are narrow enough to protect
-          you if the offer is unreasonable. When in doubt, decline or counter-propose.
+          Title</em> gave policyholders a powerful tool, and insurers want to take it back. When
+          an insurer presents a White waiver, it is often a sign they know the claim has been
+          underpaid. Rather than signing immediately and giving up rights, investigate what the
+          insurer is trying to shield from scrutiny. There is no rush. You can always sign later
+          if the circumstances warrant it — but you cannot unsign a waiver once it is executed.
         </p>
       </CalloutBox>
 
