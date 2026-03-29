@@ -183,6 +183,65 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Documenting the Insurer&apos;s Conduct: A Critical PA Function
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A Public Adjuster&apos;s primary objective is straightforward: obtain all the money due
+        under the policy contract. But in the course of pursuing that objective, a skilled Public
+        Adjuster performs another function that is often just as important:{' '}
+        <strong>documenting the insurance company&apos;s behavior</strong>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        During the claims process, the Public Adjuster is in direct, ongoing contact with the
+        insurer — exchanging written correspondence, reviewing estimates, submitting supplements,
+        tracking deadlines, and negotiating. Through these interactions, the PA is in a unique
+        position to observe and create a contemporaneous record of how the insurer handles the
+        claim. This record may capture:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Regulatory violations</strong> — missed{' '}
+          <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
+            Fair Claims Regulations
+          </Link>{' '}
+          deadlines, failure to provide required disclosures, inadequate investigation
+        </li>
+        <li>
+          <strong>Statutory violations</strong> — misrepresentation of policy provisions, failure
+          to attempt a fair settlement (Insurance Code § 790.03)
+        </li>
+        <li>
+          <strong>Breaches of contract</strong> — failure to pay covered losses, misapplication
+          of deductibles or limits, refusal to honor policy terms
+        </li>
+        <li>
+          <strong>
+            <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">Bad faith</Link>
+            {' '}conduct
+          </strong> — unreasonable delays, lowball offers without basis, contradictory
+          positions, stonewalling, refusal to provide written explanations
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This documentation is not manufactured for litigation — it is generated in the normal
+        course of the PA&apos;s work. It is a real-time, professional record of the insurer&apos;s
+        actual conduct. If a lawsuit ultimately becomes necessary, an attorney can use this file
+        to build a case. Policyholders who handle claims on their own rarely create this kind of
+        documentation, and when they later consult an attorney, there is often little evidence
+        beyond their own recollection. A Public Adjuster&apos;s file changes that equation.
+      </p>
+
+      <CalloutBox variant="tip" title="The Record Your Attorney May Need Later">
+        <p>
+          A Public Adjuster is not an attorney and does not file lawsuits. But by putting
+          everything in writing, tracking deadlines, and preserving the record of the insurer&apos;s
+          responses and failures to respond, the PA builds a file that can be invaluable if
+          litigation becomes necessary. The best time to build that record is from the beginning —
+          not after the opportunity to capture it has passed.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Bottom Line
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
