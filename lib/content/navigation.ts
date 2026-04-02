@@ -11,6 +11,7 @@ export interface NavDropdownGroup {
 export const NAV_LINKS = [
   { href: '/inventory', label: 'Inventory Tool' },
   { href: '/resources', label: 'Resources', hasDropdown: true },
+  { href: '/guides', label: 'Guides' },
   { href: '/about', label: 'About' },
   { href: '/contact', label: 'Free Claim Review', isCta: true },
 ] as const
@@ -57,8 +58,8 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
     links: [
       { href: '/faq', label: 'Frequently Asked Questions' },
       { href: '/other-claims', label: 'Other Claim Types' },
-      { href: '/resources/public-adjuster', label: 'Working With a PA' },
-      { href: '/contact', label: 'Free Claim Review' },
+      { href: '/guides', label: 'Paid Guides & Toolkits' },
+      { href: '/books', label: 'Recommended Books' },
     ],
   },
 ]
@@ -73,4 +74,6 @@ export const FOOTER_RESOURCE_LINKS: NavLink[] = [
   { href: '/types-of-claims', label: 'Types of Claims' },
   { href: '/other-claims', label: 'Other Claim Types' },
   { href: '/resources/public-adjuster', label: 'Working With a PA' },
+  { href: '/guides', label: 'Guides & Toolkits' },
+  { href: '/books', label: 'Recommended Books' },
 ]
