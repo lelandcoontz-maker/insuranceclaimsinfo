@@ -41,20 +41,35 @@ export async function POST(req: NextRequest) {
     console.log('[LEAD]', JSON.stringify(lead))
 
     // ── Phase 2: Email via Resend ───────────────────────────────────────────
-    // To enable: npm install resend && add RESEND_API_KEY to Vercel env vars
-    // and set LEAD_NOTIFY_EMAIL to your email address.
-    //
-    // const resendKey = process.env.RESEND_API_KEY
-    // if (resendKey) {
-    //   const { Resend } = await import('resend')
-    //   const resend = new Resend(resendKey)
-    //   await resend.emails.send({
-    //     from: 'leads@insuranceclaimsinfo.com',
-    //     to: process.env.LEAD_NOTIFY_EMAIL ?? 'leland@example.com',
-    //     subject: `New Lead: ${lead.firstName} (${lead.source})`,
-    //     text: JSON.stringify(lead, null, 2),
-    //   })
-    // }
+    const resendKey = process.env.RESEND_API_KEY
+    if (resendKey) {
+      try {
+        const { Resend } = await import('resend')
+        const resend = new Resend(resendKey)
+
+        const lines = [
+          `Name: ${lead.firstName}`,
+          `Email: ${lead.email}`,
+          lead.state ? `State: ${lead.state}` : '',
+          lead.claimType ? `Claim Type: ${lead.claimType}` : '',
+          lead.message ? `Message: ${lead.message}` : '',
+          lead.checkedCount ? `Inventory Items Checked: ${lead.checkedCount}` : '',
+          lead.estimatedTotal ? `Estimated Total: $${lead.estimatedTotal.toLocaleString()}` : '',
+          `Source: ${lead.source}`,
+          `Time: ${lead.timestamp}`,
+        ].filter(Boolean).join('\n')
+
+        await resend.emails.send({
+          from: 'InsuranceClaimsInfo Leads <onboarding@resend.dev>',
+          to: process.env.LEAD_NOTIFY_EMAIL ?? 'leland.coontz@gmail.com',
+          subject: `New Lead: ${lead.firstName} — ${lead.source}`,
+          text: lines,
+        })
+      } catch (emailErr) {
+        console.error('[LEAD EMAIL ERROR]', emailErr)
+        // Don't fail the request if email fails — lead is already logged
+      }
+    }
 
     // ── Phase 3: Database (replace above with this pattern) ─────────────────
     // await db.insert(leads).values(lead)
