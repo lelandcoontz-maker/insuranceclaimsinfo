@@ -69,6 +69,20 @@ export default function Content() {
         room&rsquo;s flooring, or an entire elevation of siding — not just the damaged section.
       </p>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        California&rsquo;s Matching Regulation
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California policyholders have specific regulatory authority for matching claims.{' '}
+        <strong>California Code of Regulations, Title 10, Section 2695.9(d)</strong> provides that
+        when replaced items do not match in quality, color, or size, the insurer must pay for
+        whatever is necessary to achieve a reasonable and uniform appearance. This is not just a
+        general industry principle — it is a binding California regulation that insurers are required
+        to follow. When disputing a matching claim in California, cite this regulation by name and
+        section number in your written correspondence with the insurer. It is the actual legal
+        authority that requires California insurers to pay for matching.
+      </p>
+
       <CalloutBox variant="important" title="Matching Can Dramatically Increase Your Settlement">
         <p>
           Do not accept partial repairs that leave your home looking patched together. If new

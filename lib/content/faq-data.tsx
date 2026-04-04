@@ -166,27 +166,31 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
         answer: (
           <>
             <p>
-              This is a critically important issue, and the answer depends on several factors.
-              Many homeowners policies contain a "suit limitation" clause that shortens the
-              statute of limitations to one year from the date of loss. However, California law
-              provides protections against this kind of manipulation. Under California Code of
-              Civil Procedure Section 2071 and the doctrines of equitable tolling and estoppel,
-              the limitations period can be extended when the insurer's own conduct — such as
-              dragging out the adjustment for 14 months — has prevented you from filing suit
-              within the contractual time limit.
+              This is a critically important issue. Most homeowners policies contain a
+              one-year suit limitation clause, which originates from California Insurance Code
+              Section 2071 — the standard fire policy statute. Under this provision, the
+              policyholder must bring suit within 12 months after the date of loss. However,
+              California law provides critical protections when the insurer's own conduct has
+              consumed that time.
             </p>
             <p>
-              California courts have consistently held that an insurer cannot benefit from delay
-              that it caused. If the insurer was still adjusting your claim, requesting
-              additional documentation, or leading you to believe a settlement was forthcoming,
-              the one-year limitation may be tolled (paused) during that period. Additionally,
-              under California Insurance Code Section 790.03(h), unreasonable delay in claims
-              handling is itself a violation of the Unfair Claims Settlement Practices Act.
+              In California, the statute of limitations is equitably tolled during the period
+              the insurer is investigating the claim. This means that while the policy may say
+              one year from the date of loss, the limitations period is effectively paused
+              while the insurer is adjusting your claim and does not begin to run in earnest
+              until the claim is closed or denied. If the insurer was still adjusting your
+              claim for 14 months — requesting documentation, sending adjusters, or leading
+              you to believe a settlement was forthcoming — the one-year window was tolled
+              during that period. California courts have consistently held that an insurer
+              cannot benefit from delay that it caused. Additionally, under California
+              Insurance Code Section 790.03(h), unreasonable delay in claims handling is
+              itself a violation of the Unfair Claims Settlement Practices Act.
             </p>
             <p>
-              That said, this is a situation where timing is everything and you should consult
-              with an attorney immediately. Do not assume the deadline has passed — but do not
-              assume it has been tolled either. An experienced insurance coverage attorney can
+              That said, the statute of limitations for insurance claims is not as
+              straightforward as it may appear — consult with an attorney well before you
+              approach any deadline. Do not assume the deadline has passed, but do not assume
+              it has been tolled either. An experienced insurance coverage attorney can
               evaluate whether equitable tolling applies to your specific facts. If you have a
               Public Adjuster, let them know about this issue right away so they can coordinate
               with legal counsel if necessary.
@@ -213,7 +217,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               Probably not. In California, there are significant restrictions on how an insurer
               can depreciate your claim. First, labor cannot be depreciated. The California
               Court of Appeal ruled in{' '}
-              <em>Luan Truong v. Allstate Insurance Company</em> (2021) that labor costs do
+              <em>Truong v. Allstate Insurance Company</em> (2021) that labor costs do
               not depreciate over time — it costs the same to install a new roof today whether
               the roof is one year old or twenty years old. If the insurer depreciated labor in
               your estimate, that portion of the depreciation is improper and should be reversed.
@@ -1228,8 +1232,8 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               year. The insurer's first offer is exactly that — a first offer. It is the starting
               point, not the finish line. Insurance claims are a negotiation, and the initial
               estimate or payment is almost always lower than what you are actually entitled to.
-              Studies have shown that claimants who negotiate or hire professional representation
-              recover significantly more than those who accept the first offer.
+              In our experience, policyholders who negotiate or hire professional representation
+              typically recover more than those who accept the first offer.
             </p>
             <p>
               Under California law, the insurer must provide you with a written explanation of
@@ -1260,11 +1264,11 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
             <p>
               This fear stops many homeowners from filing legitimate claims, and while there is
               some basis for concern, the reality is more nuanced than the myth suggests. Under
-              California Insurance Code Section 1861.02 and Proposition 103, insurers are
-              restricted in how they can use claims history in pricing. An insurer cannot
-              arbitrarily raise your rates solely because you filed one claim. Rate changes in
-              California must be approved by the Department of Insurance and must be based on
-              actuarial data, not punitive responses to individual claimants.
+              Proposition 103 (California Insurance Code Section 1861.05), all property and
+              casualty rate changes in California must be filed with and approved by the
+              Department of Insurance. An insurer cannot arbitrarily raise your rates solely
+              because you filed one claim. Rate changes must be based on actuarial data, not
+              punitive responses to individual claimants.
             </p>
             <p>
               That said, insurers do consider claims history as one factor in underwriting

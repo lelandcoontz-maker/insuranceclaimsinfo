@@ -91,6 +91,41 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Vacancy Exclusion: A Critical Limitation
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Standard HO-3 homeowners policies exclude vandalism coverage when the dwelling has been
+        vacant for 60 or more consecutive days prior to the loss. Some named peril policies may use a
+        shorter threshold of 30 days. This exclusion is especially important for landlords dealing
+        with rental properties and for properties where grow operations have been discovered — if the
+        property was between tenants or otherwise unoccupied, the insurer may attempt to invoke the
+        vacancy exclusion to deny the claim.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        However, &quot;vacant&quot; has a very specific insurance definition that differs from how
+        most people use the word. A property is considered <strong>vacant</strong> when it lacks
+        sufficient personal property to sustain normal living. This is different
+        from <strong>unoccupied</strong>. An unoccupied property — such as a furnished vacation home
+        that no one has visited in months or even a couple of years — is generally{' '}
+        <strong>not</strong> considered vacant if it still contains furnishings and personal
+        belongings consistent with normal habitation. The key question is whether the property
+        contains the personal property needed for someone to live there, not whether anyone is
+        actually living there at the moment.
+      </p>
+
+      <CalloutBox variant="warning" title="Improper Vacancy Denials">
+        <p>
+          Insurance companies sometimes improperly deny vandalism claims by calling a property
+          &quot;vacant&quot; when it is merely &quot;unoccupied.&quot; If your property still
+          contained furnishings and personal belongings sufficient for normal habitation at the time
+          of the loss, it was not vacant under the policy definition — regardless of how long it had
+          been since anyone was physically present. Once the correct definition of vacancy is
+          explained to the insurer, they will often reverse an improper denial. If they do not, this
+          is a strong basis for dispute.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Protecting Your Vandalism Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -80,8 +80,12 @@ export default function Content() {
           provide additional living expenses if your home is uninhabitable
         </li>
         <li>
-          <strong>Actual cash value for contents:</strong> NFIP policies pay actual cash value (with
-          depreciation), not replacement cost, for personal property
+          <strong>Contents valuation:</strong> NFIP policies generally pay actual cash value (with
+          depreciation) for personal property. However, Replacement Cost Value (RCV) coverage for
+          contents is available for qualifying owner-occupied single-family dwellings where the
+          building is the principal residence and Coverage A (building coverage) is maintained at a
+          minimum of 80% of the building&apos;s replacement cost. If you do not meet these
+          requirements, contents are paid at ACV
         </li>
       </ul>
 

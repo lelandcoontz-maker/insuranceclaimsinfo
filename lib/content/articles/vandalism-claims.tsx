@@ -158,6 +158,44 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Vacancy Exclusion: When Coverage Disappears
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One of the most important limitations on vandalism coverage is the vacancy exclusion. Standard
+        HO-3 homeowners policies exclude vandalism coverage when the dwelling has been vacant for 60
+        or more consecutive days prior to the loss. Some named peril policies use a shorter threshold
+        of 30 days. This exclusion is particularly relevant to the landlord, rental property, and grow
+        operation scenarios discussed above — if a property was between tenants or the landlord had
+        not visited in some time, the insurer may attempt to invoke this exclusion.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Understanding the precise insurance definition of &quot;vacant&quot; is critical, because it
+        differs significantly from the way most people use the word. Under insurance policy
+        definitions, a property is <strong>vacant</strong> when it lacks sufficient personal property
+        to sustain normal living. A property that is <strong>unoccupied</strong> — meaning no one is
+        currently living there, but it still contains furnishings and personal belongings consistent
+        with normal habitation — is generally <strong>not</strong> considered vacant. A fully
+        furnished vacation home that no one has visited in a couple of years is unoccupied, not
+        vacant. A rental property that still contains the tenant&apos;s belongings (or the
+        landlord&apos;s furnishings) is unoccupied, not vacant. The question is whether the property
+        contains the personal property needed for someone to live there — not whether anyone is
+        actually present.
+      </p>
+
+      <CalloutBox variant="warning" title="Improper Vacancy Denials Are Common">
+        <p>
+          Insurance companies frequently deny vandalism claims by calling a property
+          &quot;vacant&quot; when it is merely &quot;unoccupied.&quot; This is an improper
+          application of the vacancy exclusion. If the property still contained furnishings and
+          personal belongings sufficient for normal habitation at the time of the loss, the vacancy
+          exclusion does not apply — regardless of how long it had been since anyone was physically
+          present. Once the correct definition of vacancy is explained to the insurer, with
+          documentation of the property&apos;s contents, they will often reverse an improper denial.
+          If they refuse, this is strong grounds for challenging the denial.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Vandalism vs. Mysterious Disappearance
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -22,16 +22,41 @@ export default function Content() {
         What ALE Covers
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additional Living Expenses coverage pays for the <em>increased</em> cost of living while
-        your home is being repaired or rebuilt. The key word is &ldquo;increased.&rdquo; ALE does not
-        cover your normal living expenses. It covers the difference between what you would normally
-        spend and what you are now spending because of the displacement.
+        Additional Living Expenses coverage pays for the <em>additional</em> costs you incur to
+        maintain your normal standard of living while your home is being repaired or rebuilt. The key
+        concept is that ALE covers expenses that are <em>over and above</em> what you would normally
+        spend.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For example, if your monthly mortgage payment is $2,500 and you must rent a comparable home
-        for $3,500 while repairs are underway, ALE covers the $1,000 difference. If you normally
-        spend $400 per month on groceries but now spend $700 because you are eating out more and lack
-        a full kitchen, ALE covers the $300 increase.
+        A common misunderstanding involves housing costs. When you are displaced, you do not stop
+        paying your mortgage &mdash; you still owe that payment every month. But now you <em>also</em>{' '}
+        have to pay for a place to live while your home is uninhabitable. The cost of that temporary
+        housing (for example, $3,500 per month to rent a comparable home) is an entirely new expense
+        on top of the mortgage you are already paying. That full rental cost is typically your
+        additional living expense for housing, because it is an expense you would not have at all if
+        not for the loss.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        ALE extends well beyond housing. It covers the full range of increased costs caused by the
+        displacement, including:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>Increased mileage and transportation costs from a longer commute</li>
+        <li>Parking fees at a temporary hotel or rental</li>
+        <li>Dry cleaning costs when you no longer have access to your home laundry</li>
+        <li>
+          Increased meal expenses &mdash; if you normally spend $400 per month on home-cooked
+          groceries but are now spending $700 on restaurant meals because you lack a full kitchen,
+          ALE covers the $300 increase
+        </li>
+        <li>Pet boarding if your temporary housing does not allow pets</li>
+        <li>Storage fees for personal property</li>
+        <li>Moving costs to and from temporary housing</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The overarching principle is that ALE covers the full additional cost of maintaining your
+        normal standard of living &mdash; every expense that is above and beyond what your life would
+        normally cost.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -67,21 +92,14 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What Expenses Qualify
+        Comparable Housing Standard
       </h2>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Temporary housing (hotel, rental home, or furnished apartment)</li>
-        <li>Increased food costs (restaurant meals, takeout when you lack a kitchen)</li>
-        <li>Increased transportation costs (longer commute to work or school)</li>
-        <li>Laundry expenses</li>
-        <li>Pet boarding, if you cannot bring pets to your temporary housing</li>
-        <li>Storage fees for personal property</li>
-        <li>Moving costs to and from temporary housing</li>
-      </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard is that you are entitled to maintain your normal standard of living. If you
         lived in a four-bedroom house in a specific school district, you are entitled to comparable
-        temporary housing, not a studio apartment across town.
+        temporary housing &mdash; not a studio apartment across town. Temporary housing includes
+        hotels, rental homes, and furnished apartments that reasonably match your pre-loss living
+        situation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

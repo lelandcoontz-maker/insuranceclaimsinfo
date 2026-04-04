@@ -777,9 +777,10 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code § 2071 includes a provision that appraisal{' '}
-        <strong>cannot be compelled in the event of a government-declared disaster</strong>. This
-        is a significant protection for California policyholders. After a wildfire, earthquake, or
-        other declared disaster, the insurer cannot force you into appraisal to resolve a
+        <strong>shall not be compelled in the event of a government-declared disaster</strong>. This
+        provision applies only to <strong>residential</strong> policies — commercial property
+        policies are not covered by this exception. After a wildfire, earthquake, or other declared
+        disaster, the insurer cannot force a residential policyholder into appraisal to resolve a
         valuation dispute. You retain the option to invoke appraisal yourself if you choose, but
         the insurer cannot compel it.
       </p>
@@ -788,6 +789,31 @@ export default function Content() {
         displaced policyholders dealing with total losses should not be forced into an unfamiliar
         dispute resolution process while they are still in crisis.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It is important to understand what &quot;shall not be compelled&quot; does and does not mean.
+        It does not mean appraisal cannot happen at all. If the homeowner requests appraisal, the
+        carrier may well agree to participate — and in many cases, the carrier may actually{' '}
+        <em>prefer</em> appraisal over the alternative, which is the policyholder going straight to a
+        lawsuit. From the carrier&apos;s perspective, appraisal is typically faster, cheaper, and more
+        predictable than litigation. So while the carrier cannot force you into appraisal after a
+        declared disaster, do not assume the carrier will refuse if you are the one requesting it.
+      </p>
+
+      <CalloutBox variant="legal" title="An Untested Theory: Policies That Omit This Provision">
+        <p>
+          Many experienced California litigators and trial attorneys believe that when a carrier has{' '}
+          <strong>not</strong> adopted the Insurance Code § 2071 government-declared disaster
+          provision into their policy, they are effectively offering a policy{' '}
+          <strong>more generous</strong> than the law requires — one that still allows appraisal even
+          in a declared disaster. The reasoning is that the insurer is permitted to offer a policy
+          more generous than the statutory minimum, and they are held to the terms they offer. Under
+          this theory, if the policy&apos;s appraisal clause does not include the disaster
+          exception, neither party&apos;s right to compel appraisal is limited by a declared
+          disaster. As of early 2026, there does not appear to be published California case law
+          testing this theory, so it remains untested. However, it is a theory worth understanding
+          and raising when applicable.
+        </p>
+      </CalloutBox>
 
       {/* ====== WHEN TO INVOKE ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

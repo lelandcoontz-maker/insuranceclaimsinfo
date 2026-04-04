@@ -110,11 +110,24 @@ export default function Content() {
       </p>
 
       <CalloutBox variant="legal" title="Regulatory Deadlines">
+        <p className="mb-2">
+          Under California law (10 CCR 2695), the insurer must acknowledge your claim within 15 days
+          and respond to your communications within 15 days. Beyond those, there are two critical
+          timeframes that policyholders often confuse:
+        </p>
+        <p className="mb-2">
+          <strong>Accepting or denying the claim:</strong> Under 10 CCR 2695.7(b), the insurer must
+          accept or deny the claim, in whole or in part, within <strong>40 calendar days</strong> of
+          receiving proof of claim (not &quot;all documentation&quot; — the regulation specifically
+          says proof of claim). If they need more time, they must notify you in writing every 30 days
+          explaining the reasons for the delay.
+        </p>
         <p>
-          Under California law, the insurer must acknowledge your claim within 15 days, respond to
-          your communications within 15 days, and accept or deny a claim within 40 days of receiving
-          all documentation. Every missed deadline is a potential violation you can cite in a CDI
-          complaint.
+          <strong>Paying the claim once accepted:</strong> Once the insurer accepts a claim, they must
+          pay it promptly. Under 10 CCR 2695.7(h), payment must be made within 30 calendar days of
+          reaching a settlement agreement. These are two separate obligations with two separate
+          deadlines — and a missed deadline on either one is a potential violation you can cite in a
+          CDI complaint.
         </p>
       </CalloutBox>
 

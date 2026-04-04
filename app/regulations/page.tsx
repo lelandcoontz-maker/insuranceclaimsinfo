@@ -44,11 +44,16 @@ export default function RegulationsPage() {
           <div className="prose prose-blue max-w-none text-gray-700 space-y-4 mb-8">
             <p>
               Insurance Code Section 790.03(h) is the foundation of claims-handling law in
-              California. It lists specific practices that are considered <strong>unfair</strong> or{' '}
-              <strong>deceptive</strong> when committed by an insurer. If a carrier does any of
-              these things — even once — it violates California law. When done as a general
-              business practice, it can expose the insurer to regulatory action, fines, and bad
-              faith liability.
+              California. It lists specific practices that are defined as <strong>unfair</strong> or{' '}
+              <strong>deceptive</strong> claims settlement practices. However, it is important to
+              understand the legal landscape: under <em>Moradi-Shalal v. Fireman&apos;s Fund</em>{' '}
+              (1988), there is no private right of action directly under Section 790.03. A
+              policyholder cannot sue an insurer solely for violating this statute. Instead,
+              violations of Section 790.03 serve as powerful evidence of bad faith in a claim for
+              breach of the implied covenant of good faith and fair dealing. CDI enforcement actions
+              under Section 790 typically require a showing that the insurer engaged in these
+              practices as a general business pattern, though individual violations can still support
+              a bad faith claim and form the basis of a CDI complaint.
             </p>
             <p>
               Think of Section 790 as the "thou shalt not" list for insurance companies. The

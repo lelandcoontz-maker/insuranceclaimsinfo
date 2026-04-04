@@ -26,6 +26,40 @@ export default function Content() {
       </h2>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
+        Duty to Protect Property From Further Damage (Duty to Mitigate)
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One of the most important — and most immediate — duties after a loss is your obligation to
+        take reasonable steps to protect the property from further damage. This is sometimes called
+        the &quot;duty to mitigate.&quot; You are expected to act promptly to prevent additional harm
+        that would increase the amount of the loss. Common examples include:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Tarping a damaged roof</strong> to prevent rain from causing additional water
+          damage to the interior
+        </li>
+        <li>
+          <strong>Stopping a water leak</strong> by shutting off the water supply or making
+          emergency plumbing repairs
+        </li>
+        <li>
+          <strong>Boarding up broken windows and doors</strong> to secure the property against
+          weather and unauthorized entry
+        </li>
+        <li>
+          <strong>Removing standing water</strong> to prevent further saturation, mold growth, and
+          structural damage
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Reasonable expenses you incur to protect the property from further damage are typically
+        reimbursable under the policy. Keep all receipts for materials and services related to these
+        emergency measures. However, the duty to mitigate does not require you to make permanent
+        repairs — it requires reasonable, temporary steps to prevent the damage from getting worse.
+      </p>
+
+      <h3 className="text-lg font-bold text-[#1F3964] mb-3">
         Duty to Report the Claim Timely
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -52,10 +86,13 @@ export default function Content() {
         Duty to Report to Law Enforcement
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If your loss involves a crime — theft, vandalism, arson, or any other criminal act — your
-        policy requires you to report it to law enforcement. File a police report as soon as
-        possible. The insurer will want a copy of the report, and the absence of one can raise
-        questions about the legitimacy of the claim.
+        Some policies include a duty to file a police report when the loss involves a crime — theft,
+        vandalism, arson, or any other criminal act. However, this duty is not universal — not all
+        policies require it. Regardless of whether your specific policy mandates a police report, it
+        is almost always a good idea to file one when criminal activity is involved. The insurer will
+        want a copy of the report, and the absence of one can raise questions about the legitimacy of
+        the claim. Filing promptly creates an official record of the event and strengthens your
+        position.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
@@ -98,8 +135,11 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Simply failing to submit a form on time, without any resulting harm to the insurer&apos;s
-        ability to adjust the claim, is generally not enough to justify a denial. However, this is a
-        legal area with nuances, and the burden of proving prejudice (or the lack of it) can vary.
+        ability to adjust the claim, is generally not enough to justify a denial. In California, the
+        burden of proving prejudice rests on the <strong>insurer</strong>, not the policyholder. The
+        insurance company must demonstrate that the policyholder&apos;s non-compliance actually
+        caused them a material disadvantage — and if they cannot make that showing, they cannot use
+        the non-compliance as a basis for denial.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

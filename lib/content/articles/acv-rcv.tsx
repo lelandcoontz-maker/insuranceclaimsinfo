@@ -32,11 +32,22 @@ export default function Content() {
         What Is Actual Cash Value (ACV)?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Actual Cash Value is the replacement cost minus depreciation. It represents the fair market
-        value of the item in its pre-loss condition. Using the same roof example, if a new comparable
-        roof costs $25,000 (the RCV) and the insurer determines that 40 percent of the roof&rsquo;s
-        useful life has been consumed, they would subtract $10,000 in depreciation, resulting in an
-        ACV of $15,000.
+        Actual Cash Value is most commonly <em>calculated</em> as replacement cost minus
+        depreciation. Using the same roof example, if a new comparable roof costs $25,000 (the RCV)
+        and the insurer determines that 40 percent of the roof&rsquo;s useful life has been consumed,
+        they would subtract $10,000 in depreciation, resulting in an ACV of $15,000.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        However, ACV is <strong>not</strong> the same thing as fair market value, even though the
+        terms are sometimes used interchangeably. Fair market value is the price a willing buyer
+        would pay a willing seller in an open market &mdash; and that number can be significantly
+        higher or lower than replacement cost minus depreciation. In California, courts apply
+        the &ldquo;broad evidence rule,&rdquo; which holds that all relevant evidence of value should
+        be considered when determining ACV, not just a mechanical depreciation formula. California
+        Insurance Code Section 2051 frames ACV as &ldquo;the amount it would cost the insured to
+        repair, rebuild, or replace the thing lost or injured less a fair and reasonable deduction for
+        physical depreciation.&rdquo; That statutory language focuses on cost to the insured, not on
+        what the item might sell for on the open market.
       </p>
 
       <CalloutBox variant="important" title="Check Your Policy Type">
@@ -96,8 +107,13 @@ export default function Content() {
       <CalloutBox variant="warning" title="Deadlines for Collecting Holdback">
         <p>
           Your policy includes a deadline for completing replacements and collecting the recoverable
-          depreciation. This is commonly 180 days or one to two years from the date of loss. If you
-          need more time, request an extension in writing before the deadline passes.
+          depreciation. This deadline varies by policy, but in California, Insurance Code Section
+          2051.5(b) sets a statutory minimum of 12 months from the date the <em>ACV payment is
+          made</em> &mdash; not from the date of loss. This distinction matters because there can be
+          months or even years between the date of loss and the date the insurer actually issues the
+          ACV payment. If you need more time, request an extension in writing before the deadline
+          passes. Many policies allow extensions, and some provide longer periods than the statutory
+          minimum.
         </p>
       </CalloutBox>
 

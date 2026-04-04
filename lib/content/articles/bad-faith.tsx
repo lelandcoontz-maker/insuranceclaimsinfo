@@ -54,9 +54,14 @@ export default function Content() {
         This is an important distinction. The legal standard for bad faith is
         not &quot;wrong&quot; — it is &quot;unreasonable.&quot; An insurance company can deny a claim
         and be wrong without acting in bad faith, as long as their denial was based on a legitimate
-        and reasonable interpretation of the facts or the policy. This makes bad faith cases
-        challenging to prove, because the policyholder must demonstrate not just that the insurer
-        made the wrong call, but that no reasonable insurer could have made that call.
+        and reasonable interpretation of the facts or the policy. Under California law — as
+        established in cases like <em>Gruenberg v. Aetna</em> and <em>Chateau Chamberay Homeowners
+        Ass&apos;n v. Associated Int&apos;l Ins. Co.</em> — the question is whether the insurer&apos;s
+        conduct was unreasonable or without proper cause. For a layperson, bad faith is essentially
+        synonymous with unreasonable conduct: the insurer acted without a reasonable basis for its
+        position, or it failed to properly investigate before taking that position. The insurer does
+        not get the benefit of the doubt simply because it can construct an after-the-fact
+        justification — if the conduct was unreasonable at the time, that can establish bad faith.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
