@@ -28,6 +28,8 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'vandalism-claims':       { title: 'Vandalism Claims: When Insurers Call It Wear and Tear', description: 'How to prove vandalism and fight back when insurers relabel your claim.' },
   'wildfire-guide':         { title: 'California Wildfire Claims: A Complete Guide', description: 'Forest fire vs urban wildfire smoke, contamination testing, coverage, and step-by-step wildfire claims guidance.' },
   'scope-of-loss':          { title: 'Scope of Loss Disputes: Fighting for Full Repairs', description: 'When the insurer\'s scope misses damage — how to document and dispute.' },
+  'equitable-tolling':      { title: 'Equitable Tolling of the Statute of Limitations', description: 'The one-year suit limitation is not as simple as it appears. Learn how equitable tolling pauses the clock while your insurer investigates.' },
+  'debris-removal':         { title: 'Debris Removal Coverage — More Than Just the Dwelling', description: 'Debris removal coverage applies to more than the dwelling. Learn how it works for other structures, trees, and personal property — and how to maximize your recovery.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -56,6 +58,8 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'vandalism-claims':       () => import('@/lib/content/articles/vandalism-claims'),
   'wildfire-guide':         () => import('@/lib/content/articles/wildfire-guide'),
   'scope-of-loss':          () => import('@/lib/content/articles/scope-of-loss'),
+  'equitable-tolling':      () => import('@/lib/content/articles/equitable-tolling'),
+  'debris-removal':         () => import('@/lib/content/articles/debris-removal'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

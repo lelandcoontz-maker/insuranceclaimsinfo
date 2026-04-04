@@ -43,6 +43,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'vandalism-claims',
     'wildfire-guide',
     'scope-of-loss',
+    'equitable-tolling',
+    'debris-removal',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({
