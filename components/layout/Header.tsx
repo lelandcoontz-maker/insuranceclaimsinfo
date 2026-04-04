@@ -34,7 +34,8 @@ export function Header() {
     pathname.startsWith('/resources') ||
     pathname.startsWith('/regulations') ||
     pathname.startsWith('/faq') ||
-    pathname.startsWith('/types-of-claims')
+    pathname.startsWith('/types-of-claims') ||
+    pathname.startsWith('/cdi-notices')
 
   return (
     <header className="bg-[#1F3964] text-white sticky top-0 z-50 shadow-lg">

@@ -24,6 +24,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/insurer-tactics', label: 'Games Insurers Play' },
       { href: '/resources/bad-faith', label: 'Bad Faith Practices' },
       { href: '/resources/cdi-complaint', label: 'Filing a CDI Complaint' },
+      { href: '/cdi-notices', label: 'CDI Notices & Guides' },
     ],
   },
   {
@@ -33,6 +34,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/declarations-page', label: 'Reading Your Dec Page' },
       { href: '/resources/claims-process', label: 'The Claims Process' },
       { href: '/resources/coverage-disputes', label: 'Coverage Disputes' },
+      { href: '/resources/dealing-with-adjuster', label: 'Dealing With the Adjuster' },
     ],
   },
   {
@@ -50,6 +52,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/ordinance-law', label: 'Code Upgrade / O&L' },
       { href: '/resources/wildfire-guide', label: 'Wildfire Claims Guide' },
       { href: '/resources/mold-losses', label: 'Mold Losses' },
+      { href: '/resources/total-loss', label: 'Total Loss Claims' },
       { href: '/types-of-claims', label: 'Types of Claims' },
     ],
   },
@@ -74,6 +77,8 @@ export const FOOTER_RESOURCE_LINKS: NavLink[] = [
   { href: '/types-of-claims', label: 'Types of Claims' },
   { href: '/other-claims', label: 'Other Claim Types' },
   { href: '/resources/public-adjuster', label: 'Working With a PA' },
+  { href: '/resources/total-loss', label: 'Total Loss Claims' },
+  { href: '/cdi-notices', label: 'CDI Notices & Guides' },
   { href: '/guides', label: 'Guides & Toolkits' },
   { href: '/books', label: 'Recommended Books' },
 ]
