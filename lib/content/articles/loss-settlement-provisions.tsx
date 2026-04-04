@@ -1,0 +1,248 @@
+import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
+
+export const meta = {
+  title: 'Loss Settlement Provisions: How Your Insurance Payout Is Actually Calculated',
+  description:
+    'The loss settlement clause in your homeowner policy determines everything about how you get paid. Learn how ACV, RCV, holdback, and rebuilding requirements work.',
+}
+
+export default function Content() {
+  return (
+    <>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The loss settlement provision is arguably the most important clause in your homeowner
+        insurance policy — and one of the least understood. It controls how your payout is
+        calculated, when you get paid, how much is withheld, and what you have to do to collect the
+        full amount. Misunderstanding this provision costs policyholders thousands, sometimes
+        hundreds of thousands, of dollars.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        What the Loss Settlement Provision Does
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Your loss settlement provision answers four fundamental questions:
+      </p>
+      <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
+        <li><strong>What standard is used to value the loss?</strong> (Replacement cost vs. actual cash value)</li>
+        <li><strong>When do you get paid?</strong> (Immediately, or after repairs/replacement?)</li>
+        <li><strong>How much is withheld?</strong> (The &ldquo;holdback&rdquo; or depreciation)</li>
+        <li><strong>What must you do to collect the full amount?</strong> (Repair, rebuild, or replace?)</li>
+      </ol>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Replacement Cost vs. Actual Cash Value Policies
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Most modern homeowner policies are <strong>replacement cost</strong> policies — meaning
+        the insurer agrees to pay the cost to repair or replace damaged property with materials of
+        &ldquo;like kind and quality&rdquo; without deduction for depreciation (up to your policy
+        limits). This is far more favorable than an actual cash value (ACV) policy, which pays only
+        the depreciated value.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        However, even under a replacement cost policy, you typically don&apos;t receive the full
+        replacement cost upfront. This is where the holdback comes in.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Two-Step Payment Process (Holdback)
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under a standard replacement cost policy, payment happens in two steps:
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Step 1: ACV Payment (Initial)</h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The insurer first pays the <strong>actual cash value</strong> of the loss — the replacement
+        cost minus depreciation. For example, if your 15-year-old roof costs $30,000 to replace
+        and the insurer depreciates it by $12,000, your initial ACV payment is $18,000 (minus
+        your deductible).
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Step 2: Holdback Payment (After Repair)</h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Once you actually repair or replace the damaged property, the insurer pays the
+        <strong> holdback</strong> — the depreciation amount that was withheld. In the example
+        above, after you actually replace the roof, you submit the contractor&apos;s invoice and the
+        insurer pays the remaining $12,000 (the &ldquo;recoverable depreciation&rdquo;).
+      </p>
+
+      <CalloutBox variant="warning" title="You Must Actually Repair to Collect the Holdback">
+        <p>
+          If you take the ACV payment and don&apos;t repair, you forfeit the holdback. This is
+          one of the most costly mistakes policyholders make — especially on contents claims where
+          they don&apos;t realize they need to actually purchase replacement items to collect the
+          full amount. See our guide on{' '}
+          <Link href="/resources/acv-rcv" className="underline font-semibold">ACV vs. RCV</Link>.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Dwelling (Coverage A) Settlement
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For dwelling damage, the loss settlement provision typically states that the insurer will
+        pay the lesser of:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>The replacement cost of that part of the building damaged, with like kind and quality materials</li>
+        <li>The amount actually and necessarily spent to repair or replace the damaged building</li>
+        <li>The policy limit (Coverage A amount)</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>&ldquo;Like kind and quality&rdquo;</strong> is a critical phrase. It means the
+        insurer must pay to restore your property to its pre-loss condition using comparable
+        materials — not the cheapest available option. If your home had hardwood floors, the insurer
+        can&apos;t pay for laminate and call it &ldquo;like kind.&rdquo; If your cabinets were
+        custom, they can&apos;t substitute stock cabinets.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Personal Property (Coverage C) Settlement
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Contents claims follow the same two-step process but with some important differences:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>You must document each item.</strong> Unlike dwelling damage where a contractor
+          can scope the work, you need a room-by-room inventory of every personal property item
+          that was damaged or destroyed. Our free{' '}
+          <Link href="/inventory" className="text-[#2E74B5] hover:underline">inventory tool</Link>{' '}
+          can help.
+        </li>
+        <li>
+          <strong>Replacement means &ldquo;comparable item new today.&rdquo;</strong> The insurer
+          pays what it costs to buy a comparable replacement item at today&apos;s prices — not what
+          you originally paid.
+        </li>
+        <li>
+          <strong>You must actually replace to collect the holdback.</strong> For each item, you
+          receive ACV initially. When you buy the replacement, you submit the receipt and receive
+          the depreciation holdback.
+        </li>
+        <li>
+          <strong>Special limits apply to certain categories.</strong> Your policy likely has
+          sublimits for jewelry, firearms, silverware, computers, and other categories. Check your{' '}
+          <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">declarations page</Link>.
+        </li>
+      </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        How Depreciation Is Calculated
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under California Insurance Code § 2051 and 10 CCR § 2695.9(f), depreciation must be based
+        on the <strong>actual physical condition</strong> of the property, not just its age. Key
+        principles:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Physical condition, not age alone.</strong> A well-maintained 20-year-old roof may
+          have less depreciation than a poorly-maintained 10-year-old roof. The insurer must assess
+          actual condition.
+        </li>
+        <li>
+          <strong>Depreciation must be itemized and justified.</strong> The insurer cannot simply
+          apply a blanket percentage. Each component should have depreciation calculated based on
+          its condition and expected useful life.
+        </li>
+        <li>
+          <strong>Labor generally should not be depreciated.</strong> A growing body of case law
+          holds that labor does not physically deteriorate and therefore should not be subject to
+          depreciation. See our guide on{' '}
+          <Link href="/resources/labor-depreciation" className="text-[#2E74B5] hover:underline">labor depreciation</Link>.
+        </li>
+      </ul>
+
+      <CalloutBox variant="tip" title="Key California Cases">
+        <ul className="list-disc pl-4 space-y-1">
+          <li><em>Jefferson Ins. Co. v. Superior Court</em> — fair market value definition for ACV</li>
+          <li><em>Doan v. State Farm</em> — physical condition standard for depreciation</li>
+          <li><em>Cheeks v. California FAIR Plan</em> — depreciation methodology requirements</li>
+        </ul>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Rebuilding at a Different Location
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What if you don&apos;t want to rebuild on the same lot? Most California replacement cost
+        policies allow you to rebuild at a different location, but the payment is limited to what
+        it would have cost to rebuild at the <em>original</em> location. If the new location is
+        cheaper, you get the cheaper amount. If it&apos;s more expensive, you get only what the
+        original rebuild would have cost.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The land value is always excluded — your policy insures the structure, not the dirt.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Extended Replacement Cost
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Many California policies include an extended replacement cost endorsement (sometimes
+        called &ldquo;enhanced&rdquo; or &ldquo;guaranteed&rdquo; replacement cost) that pays an
+        additional 25–50% above your Coverage A limit if the actual rebuild cost exceeds your limit.
+        This endorsement typically requires that you actually rebuild to access the extended amount.
+        Check your{' '}
+        <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">dec page</Link>{' '}
+        for this endorsement — it can be worth hundreds of thousands of dollars on a total loss.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Time Limits for Collecting Replacement Cost
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Most policies impose a time limit to complete repairs and collect the holdback — typically
+        180 days to 2 years after the loss or after the ACV payment, depending on the policy
+        language. After a declared disaster in California, these deadlines may be extended. If
+        you&apos;re approaching a deadline and haven&apos;t completed repairs, notify the insurer
+        in writing and request an extension.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Common Insurer Tactics on Loss Settlement
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Aggressive depreciation.</strong> Over-depreciating items to minimize the initial
+          ACV payment, knowing that many policyholders never collect the holdback.
+        </li>
+        <li>
+          <strong>Substituting inferior materials.</strong> Using lower-grade materials in the
+          estimate instead of &ldquo;like kind and quality&rdquo; — builder-grade when the home had
+          custom finishes.
+        </li>
+        <li>
+          <strong>Refusing to pay until the entire project is complete.</strong> Some insurers
+          withhold holdback until all repairs are finished, even though you may need funds to
+          progress. Under California law, the insurer must pay undisputed amounts promptly.
+        </li>
+        <li>
+          <strong>Denying the holdback on contents without receipts.</strong> Some insurers require
+          original purchase receipts for replacement items. In practice, a credit card statement,
+          online order confirmation, or other reasonable proof should suffice.
+        </li>
+      </ul>
+
+      <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
+        <h3 className="text-lg font-bold text-[#1F3964] mb-2">
+          Not Sure How Your Policy Pays?
+        </h3>
+        <p className="text-gray-600 text-sm mb-4">
+          A Public Adjuster can review your loss settlement provision, ensure your claim is
+          properly valued, and make sure you collect every dollar — including the holdback.
+        </p>
+        <Link
+          href="/contact"
+          className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors"
+        >
+          Request a Free Claim Review →
+        </Link>
+      </div>
+    </>
+  )
+}
