@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/faq`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${baseUrl}/types-of-claims`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
     { url: `${baseUrl}/other-claims`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 },
+    { url: `${baseUrl}/free-guides`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${baseUrl}/guides`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
     { url: `${baseUrl}/books`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 },
     { url: `${baseUrl}/cdi-notices`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
@@ -53,6 +54,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'roof-damage',
     'public-adjuster-fees',
     'total-loss',
+    'california-insurance-crisis',
+    'california-fair-plan',
+    'smoke-damage-claims',
+    'fire-claim-denied',
+    'force-placed-insurance',
+    'first-offer-lowball',
+    'sb49-contents-rule',
+    'underinsured-after-wildfire',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

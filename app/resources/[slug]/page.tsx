@@ -35,6 +35,14 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'examination-under-oath': { title: 'Examination Under Oath (EUO) — What It Is and How to Prepare', description: 'What an Examination Under Oath is, when insurers request one, your rights, how to prepare, and what to expect — written by a California Licensed Public Adjuster.' },
   'roof-damage':            { title: 'Roof Damage Insurance Claims in California', description: 'How to handle a roof damage insurance claim in California — common causes, what\'s covered, insurer inspections, matching disputes, and how to get the full settlement you\'re owed.' },
   'public-adjuster-fees':   { title: 'Public Adjuster Fees — What They Cost and When They\'re Worth It', description: 'How public adjuster fees work in California — contingency percentages, the disaster fee cap, when hiring a PA is worth it, and questions to ask before signing.' },
+  'california-insurance-crisis': { title: 'California\'s Insurance Crisis: What Homeowners Need to Know', description: 'Why California insurers are cancelling policies, leaving the market, and raising rates — and what homeowners can do to protect themselves.' },
+  'california-fair-plan':  { title: 'The California FAIR Plan: What It Covers, What It Doesn\'t, and How to Apply', description: 'A complete guide to the California FAIR Plan — the insurer of last resort for homeowners who can\'t get coverage in the private market.' },
+  'smoke-damage-claims':   { title: 'Smoke Damage Insurance Claims in California', description: 'How to handle a smoke damage insurance claim — testing, remediation standards, coverage, the new Smoke Damage Recovery Act, and common insurer tactics.' },
+  'fire-claim-denied':     { title: 'Fire Damage Insurance Claim Denied? Here\'s What to Do', description: 'What to do when your fire damage insurance claim is denied or underpaid — common denial reasons, your appeal rights, and how to fight back under California law.' },
+  'force-placed-insurance': { title: 'Force-Placed Insurance: What It Is and Why It\'s a Problem', description: 'What happens when your mortgage lender force-places insurance on your property — what it covers, what it doesn\'t, and how to avoid it.' },
+  'first-offer-lowball':   { title: 'Why You Should Never Accept the Insurer\'s First Offer', description: 'Why the insurance company\'s initial settlement offer is almost always too low — and how to respond to get a fair payout.' },
+  'sb49-contents-rule':    { title: 'SB 49: California\'s New Contents Payment Rule for Disaster Victims', description: 'How SB 49 changes personal property claims after declared disasters — automatic 60% contents payments, no inventory required for 100 days.' },
+  'underinsured-after-wildfire': { title: 'Underinsured After a Wildfire: What to Do When Your Policy Isn\'t Enough', description: 'Why so many California homeowners are underinsured after a wildfire — and strategies to maximize recovery when your policy limits fall short.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -70,6 +78,14 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'examination-under-oath': () => import('@/lib/content/articles/examination-under-oath'),
   'roof-damage':            () => import('@/lib/content/articles/roof-damage'),
   'public-adjuster-fees':   () => import('@/lib/content/articles/public-adjuster-fees'),
+  'california-insurance-crisis': () => import('@/lib/content/articles/california-insurance-crisis'),
+  'california-fair-plan':  () => import('@/lib/content/articles/california-fair-plan'),
+  'smoke-damage-claims':   () => import('@/lib/content/articles/smoke-damage-claims'),
+  'fire-claim-denied':     () => import('@/lib/content/articles/fire-claim-denied'),
+  'force-placed-insurance': () => import('@/lib/content/articles/force-placed-insurance'),
+  'first-offer-lowball':   () => import('@/lib/content/articles/first-offer-lowball'),
+  'sb49-contents-rule':    () => import('@/lib/content/articles/sb49-contents-rule'),
+  'underinsured-after-wildfire': () => import('@/lib/content/articles/underinsured-after-wildfire'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

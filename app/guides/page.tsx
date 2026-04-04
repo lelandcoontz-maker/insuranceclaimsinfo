@@ -56,6 +56,7 @@ export default function GuidesPage() {
             <h3 className="font-bold text-[#1F3964] mb-1">Free Resources</h3>
             <p className="text-gray-600 text-sm">
               Our{' '}
+              <Link href="/free-guides" className="text-[#2E74B5] underline">free PDF guides</Link>,{' '}
               <Link href="/resources" className="text-[#2E74B5] underline">resource articles</Link>,{' '}
               <Link href="/faq" className="text-[#2E74B5] underline">FAQ</Link>, and{' '}
               <Link href="/inventory" className="text-[#2E74B5] underline">inventory tool</Link>{' '}
