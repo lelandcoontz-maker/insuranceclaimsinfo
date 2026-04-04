@@ -45,6 +45,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'scope-of-loss',
     'equitable-tolling',
     'debris-removal',
+    'dealing-with-adjuster',
+    'examination-under-oath',
+    'roof-damage',
+    'public-adjuster-fees',
+    'total-loss',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

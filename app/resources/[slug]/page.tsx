@@ -30,6 +30,11 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'scope-of-loss':          { title: 'Scope of Loss Disputes: Fighting for Full Repairs', description: 'When the insurer\'s scope misses damage — how to document and dispute.' },
   'equitable-tolling':      { title: 'Equitable Tolling of the Statute of Limitations', description: 'The one-year suit limitation is not as simple as it appears. Learn how equitable tolling pauses the clock while your insurer investigates.' },
   'debris-removal':         { title: 'Debris Removal Coverage — More Than Just the Dwelling', description: 'Debris removal coverage applies to more than the dwelling. Learn how it works for other structures, trees, and personal property — and how to maximize your recovery.' },
+  'dealing-with-adjuster':  { title: 'How to Deal with the Insurance Company\'s Adjuster', description: 'What to expect when the insurer sends their adjuster, your rights during the inspection, common tactics to watch for, and when to get professional help.' },
+  'total-loss':             { title: 'Total Loss Insurance Claims — When Your Home Is a Complete Loss', description: 'A comprehensive guide to total loss insurance claims in California — every coverage that activates, rebuilding vs. cashing out, contents claims, common problems, and California-specific protections.' },
+  'examination-under-oath': { title: 'Examination Under Oath (EUO) — What It Is and How to Prepare', description: 'What an Examination Under Oath is, when insurers request one, your rights, how to prepare, and what to expect — written by a California Licensed Public Adjuster.' },
+  'roof-damage':            { title: 'Roof Damage Insurance Claims in California', description: 'How to handle a roof damage insurance claim in California — common causes, what\'s covered, insurer inspections, matching disputes, and how to get the full settlement you\'re owed.' },
+  'public-adjuster-fees':   { title: 'Public Adjuster Fees — What They Cost and When They\'re Worth It', description: 'How public adjuster fees work in California — contingency percentages, the disaster fee cap, when hiring a PA is worth it, and questions to ask before signing.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -60,6 +65,11 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'scope-of-loss':          () => import('@/lib/content/articles/scope-of-loss'),
   'equitable-tolling':      () => import('@/lib/content/articles/equitable-tolling'),
   'debris-removal':         () => import('@/lib/content/articles/debris-removal'),
+  'dealing-with-adjuster':  () => import('@/lib/content/articles/dealing-with-adjuster'),
+  'total-loss':             () => import('@/lib/content/articles/total-loss'),
+  'examination-under-oath': () => import('@/lib/content/articles/examination-under-oath'),
+  'roof-damage':            () => import('@/lib/content/articles/roof-damage'),
+  'public-adjuster-fees':   () => import('@/lib/content/articles/public-adjuster-fees'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
