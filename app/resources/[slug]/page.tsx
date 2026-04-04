@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { ArticleLayout } from '@/components/content/ArticleLayout'
+import { JsonLd } from '@/components/seo/JsonLd'
 
 const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'california-fair-claims': { title: 'California Fair Claims Settlement Practices Act (10 CCR 2695)', description: 'Your rights under California\'s fair claims regulation.' },
@@ -83,13 +84,32 @@ export default async function ResourceArticlePage({ params }: Props) {
       const mod = await loader()
       const Content = mod.default
       return (
-        <ArticleLayout
-          title={title}
-          description={meta?.description}
-          backLink={{ href: '/resources', label: 'Back to Resources' }}
-        >
-          <Content />
-        </ArticleLayout>
+        <>
+          <JsonLd data={{
+            '@context': 'https://schema.org',
+            '@type': 'Article',
+            headline: title,
+            description: meta?.description,
+            author: {
+              '@type': 'Person',
+              name: 'Leland Coontz III',
+              jobTitle: 'Licensed Public Adjuster',
+            },
+            publisher: {
+              '@type': 'Organization',
+              name: 'InsuranceClaimsInfo.com',
+              url: 'https://insuranceclaimsinfo.com',
+            },
+            mainEntityOfPage: `https://insuranceclaimsinfo.com/resources/${slug}`,
+          }} />
+          <ArticleLayout
+            title={title}
+            description={meta?.description}
+            backLink={{ href: '/resources', label: 'Back to Resources' }}
+          >
+            <Content />
+          </ArticleLayout>
+        </>
       )
     } catch {
       // Fall through to "coming soon" placeholder

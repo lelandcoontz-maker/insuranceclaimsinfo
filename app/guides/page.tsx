@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { PRODUCTS } from '@/lib/products'
 import { GuideCard } from './GuideCard'
+import { JsonLd } from '@/components/seo/JsonLd'
 
 export const metadata: Metadata = {
   title: 'Paid Guides & Toolkits — InsuranceClaimsInfo',
@@ -10,8 +11,29 @@ export const metadata: Metadata = {
 }
 
 export default function GuidesPage() {
+  const productsJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    itemListElement: PRODUCTS.map((product, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      item: {
+        '@type': 'Product',
+        name: product.name,
+        description: product.description,
+        offers: {
+          '@type': 'Offer',
+          price: (product.price / 100).toFixed(2),
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+        },
+      },
+    })),
+  }
+
   return (
     <>
+      <JsonLd data={productsJsonLd} />
       {/* Header */}
       <div className="bg-[#1F3964] text-white py-12 px-4">
         <div className="max-w-4xl mx-auto">
