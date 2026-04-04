@@ -20,7 +20,7 @@ const CLAIM_TYPES = [
 export default function ContactPage() {
   const [form, setForm] = useState({
     firstName: '', lastName: '', email: '', phone: '',
-    state: '', claimType: '', message: '',
+    state: '', propertyAddress: '', claimType: '', message: '',
   })
   const [submitted, setSubmitted] = useState(false)
   const [error, setError] = useState('')
@@ -42,12 +42,15 @@ export default function ContactPage() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           firstName: form.firstName,
+          lastName: form.lastName,
           email: form.email,
+          phone: form.phone,
           wantsReview: true,
           source: 'contact-form',
           state: form.state,
+          propertyAddress: form.propertyAddress,
           claimType: form.claimType,
-          message: `${form.lastName ? 'Last: ' + form.lastName + ' | ' : ''}Phone: ${form.phone || 'not provided'} | ${form.message}`,
+          message: form.message,
           timestamp: new Date().toISOString(),
         }),
       })
@@ -183,6 +186,17 @@ export default function ContactPage() {
                   {CLAIM_TYPES.map(t => <option key={t} value={t}>{t}</option>)}
                 </select>
               </div>
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">Property Address (loss location)</label>
+              <input
+                type="text"
+                value={form.propertyAddress}
+                onChange={e => update('propertyAddress', e.target.value)}
+                placeholder="123 Main St, City, CA 90210"
+                className="w-full border rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964]"
+              />
             </div>
 
             <div>

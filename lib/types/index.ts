@@ -41,10 +41,13 @@ export interface InventoryState {
 
 export interface Lead {
   firstName: string
+  lastName?: string
   email: string
+  phone?: string
   wantsReview: boolean
   source: 'inventory-tool' | 'contact-form' | 'resources'
   state?: string           // claimant's US state — for referral routing
+  propertyAddress?: string // address of the loss / property
   claimType?: string
   message?: string
   checkedCount?: number

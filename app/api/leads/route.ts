@@ -21,10 +21,13 @@ export async function POST(req: NextRequest) {
 
     const lead: Lead = {
       firstName:      body.firstName ?? '',
+      lastName:       body.lastName,
       email:          body.email ?? '',
+      phone:          body.phone,
       wantsReview:    body.wantsReview ?? false,
       source:         body.source ?? 'contact-form',
       state:          body.state,
+      propertyAddress: body.propertyAddress,
       claimType:      body.claimType,
       message:        body.message,
       checkedCount:   body.checkedCount,
@@ -48,9 +51,11 @@ export async function POST(req: NextRequest) {
         const resend = new Resend(resendKey)
 
         const lines = [
-          `Name: ${lead.firstName}`,
+          `Name: ${lead.firstName}${lead.lastName ? ' ' + lead.lastName : ''}`,
           `Email: ${lead.email}`,
+          lead.phone ? `Phone: ${lead.phone}` : '',
           lead.state ? `State: ${lead.state}` : '',
+          lead.propertyAddress ? `Property Address: ${lead.propertyAddress}` : '',
           lead.claimType ? `Claim Type: ${lead.claimType}` : '',
           lead.message ? `Message: ${lead.message}` : '',
           lead.checkedCount ? `Inventory Items Checked: ${lead.checkedCount}` : '',
@@ -62,7 +67,7 @@ export async function POST(req: NextRequest) {
         await resend.emails.send({
           from: 'InsuranceClaimsInfo Leads <onboarding@resend.dev>',
           to: process.env.LEAD_NOTIFY_EMAIL ?? 'leland.coontz@gmail.com',
-          subject: `New Lead: ${lead.firstName} — ${lead.source}`,
+          subject: `New Lead: ${lead.firstName}${lead.lastName ? ' ' + lead.lastName : ''} — ${lead.source}`,
           text: lines,
         })
       } catch (emailErr) {
