@@ -390,6 +390,27 @@ export default function Content() {
           </Link>.
         </li>
         <li>
+          <strong>AB 2962 — Insurer must renew your policy during rebuild.</strong> After a total
+          loss from a declared disaster (where the loss was not due to your negligence), the
+          insurer must renew your homeowners policy at least once. They cannot cancel the policy
+          between renewal periods while you are rebuilding, except for fraud or misrepresentation.
+          At renewal, the insurer must consult with you and adjust coverage to reflect the changed
+          risk exposure during reconstruction.
+        </li>
+        <li>
+          <strong>AB 2199 — Minimum rebuild period.</strong> For declared state-of-emergency
+          losses, you have a minimum 24-month period to repair, rebuild, or replace your home
+          (commencing from the actual cash value payment), with additional 6-month extensions if
+          you show good cause for delays. For non-catastrophic losses, the minimum is 12 months.
+          You may also rebuild or replace at a different location after a total loss.
+        </li>
+        <li>
+          <strong>SB 1855 — Underinsurance disclosure.</strong> Insurers must include a disclosure
+          on your declarations page stating that home rebuilding costs may differ from your policy
+          limits. &ldquo;Extended Replacement Cost&rdquo; has been renamed &ldquo;Limited Replacement
+          Cost&rdquo; in disclosures to better communicate the risk of underinsurance.
+        </li>
+        <li>
           <strong>Fair Claims Regulations still apply.</strong> Even in a total loss — even after a
           declared disaster — the insurer must comply with California&rsquo;s Fair Claims
           Settlement Practices Regulations. That means timely acknowledgment, timely investigation,

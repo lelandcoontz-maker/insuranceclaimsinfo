@@ -128,6 +128,46 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        California&apos;s Free CDI Mediation Program
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under Senate Bill 64 (2003), the California Department of Insurance operates the{' '}
+        <strong>Residential Property and Earthquake Claims Mediation Program</strong> — a free,
+        informal alternative to private mediation or litigation. Key features:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Free to the policyholder.</strong> The insurer pays the mediator&apos;s fees,
+          up to $1,500 maximum. You pay nothing.
+        </li>
+        <li>
+          <strong>Eligibility.</strong> Your residential property loss must have occurred after
+          September 30, 2003, and the Governor must have declared a &ldquo;state of emergency&rdquo;
+          for the event that caused your loss (most major wildfires, earthquakes, and storms qualify).
+        </li>
+        <li>
+          <strong>Informal and non-adversarial.</strong> The CDI describes the program as
+          an &ldquo;informal, non-adversarial, and timely way to resolve a claim dispute.&rdquo;
+        </li>
+        <li>
+          <strong>How to request it.</strong> Contact the CDI Consumer Hotline at 1-800-927-4357.
+          After reviewing your situation, the Department will determine if the mediation program
+          is appropriate and send you a Request for Assistance (RFA) form.
+        </li>
+      </ul>
+
+      <CalloutBox variant="important" title="CDI Mediation Is Separate from Private Mediation">
+        <p>
+          The CDI program is a good first step for smaller disputes or where the cost of private
+          mediation ($2,000–$10,000+) is prohibitive. However, it has limitations: the mediator fee
+          cap of $1,500 may limit the pool of available mediators for complex, high-value claims.
+          For large claims, private mediation with an experienced insurance mediator — or the{' '}
+          <Link href="/resources/appraisal" className="underline font-semibold">appraisal process</Link>{' '}
+          — may be more effective.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         How to Prepare for Insurance Mediation
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">

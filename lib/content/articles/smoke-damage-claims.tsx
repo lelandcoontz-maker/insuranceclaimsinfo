@@ -68,6 +68,58 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Microscopic Soot: The Damage You Cannot See
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One of the most important developments in smoke damage litigation is the recognition that
+        microscopic soot contamination constitutes real, measurable property damage — even when
+        nothing is visible to the naked eye. In <em>Maxus, Inc. v. Travelers Indemnity Co.</em>
+        (8th Cir.), the court held that soot contamination can constitute property damage even
+        when the contamination is not visible. This is a critical precedent for policyholders,
+        because it dismantles the insurer&apos;s favorite argument: &ldquo;we don&apos;t see any
+        damage.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Wildfire smoke produces extraordinarily fine particulate matter. PM2.5 particles — those
+        2.5 microns or smaller — are roughly 30 times smaller than the width of a human hair.
+        These particles do not sit conveniently on surfaces waiting to be wiped up. They penetrate
+        deep into HVAC systems, settle in ductwork joints and duct liner, embed in porous soft
+        goods (upholstery, carpet padding, clothing fibers), infiltrate wall cavities through
+        electrical outlets and plumbing penetrations, and adsorb onto surfaces at the molecular
+        level. The contamination is real. It is measurable. And it is property damage under
+        California law.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Proving Microscopic Soot Contamination
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The presence of microscopic soot is established through environmental testing — not visual
+        inspection. A qualified Certified Industrial Hygienist (CIH) uses surface wipe sampling,
+        air cassette sampling, micro-vacuum sampling, and other laboratory-analyzed methods to
+        detect and quantify contamination that no adjuster could ever identify by walking through
+        your home. The sampling methodology matters enormously: improper collection, inappropriate
+        sample locations, or insensitive analytical methods can produce misleadingly low results.
+        This is why independent testing is essential. For a detailed discussion of proper sampling
+        protocols, see our{' '}
+        <Link href="/resources/environmental-sampling-methods" className="text-blue-700 underline hover:text-blue-900">
+          guide to environmental sampling methods
+        </Link>.
+      </p>
+
+      <CalloutBox variant="important" title="Microscopic Does Not Mean Insignificant">
+        <p>
+          Carriers will argue that if you cannot see the contamination, it is not real damage.
+          This is scientifically wrong and legally insufficient. Courts have recognized that
+          invisible contamination constitutes direct physical loss to property. The question is
+          not whether an adjuster can see soot on a wall — the question is whether laboratory
+          analysis confirms the presence of harmful particulate contamination. If testing shows
+          elevated levels of char, soot, or combustion byproducts, that is covered property damage
+          regardless of visibility.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         How to Document Smoke Damage
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
@@ -75,7 +127,11 @@ export default function Content() {
           <strong>Hire an independent environmental testing firm.</strong> Do not rely on the
           insurer&apos;s testing. Hire a Certified Industrial Hygienist (CIH) or environmental
           consultant to perform air quality testing, surface wipe samples, and HVAC inspection.
-          This creates an independent, defensible record.
+          Testing and remediation should follow the IICRC S520 Standard for Professional Mold
+          Remediation and the IICRC S540 Standard for Cleaning and Decontamination of Wildfire
+          Residues — these are the recognized industry standards. If the insurer&apos;s testing
+          company is not following these protocols, that is a red flag. An independent test creates
+          a defensible record.
         </li>
         <li>
           <strong>Test before cleaning.</strong> If you clean before testing, you destroy the
@@ -134,6 +190,66 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        CDI and Wildland-Urban Interface (WUI) Smoke Damage
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The California Department of Insurance has increasingly focused on smoke damage from
+        wildland-urban interface (WUI) fires — the massive blazes that push smoke into residential
+        communities miles from the fire perimeter. CDI has issued bulletins specifically addressing
+        WUI smoke damage, making clear that carriers cannot deny smoke claims simply because
+        there was no direct flame contact with the insured property. This is a critical regulatory
+        position: smoke from a nearby wildfire is a covered peril under standard California
+        homeowner policies, period.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CDI&apos;s March 2025 guidance reinforces several key principles for WUI smoke claims:
+      </p>
+      <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+        <li>
+          <strong>No direct flame contact required.</strong> A home does not need to have been
+          touched by fire to have a valid smoke damage claim. Smoke migrates far beyond the fire
+          perimeter, and the resulting contamination is covered as direct physical loss from fire.
+        </li>
+        <li>
+          <strong>Prompt and fair handling required.</strong> CDI expects carriers to investigate
+          and pay smoke damage claims promptly, even for homes that were not directly burned.
+          Delays, lowball offers, and blanket denials violate California&apos;s Fair Claims
+          Settlement Practices Regulations.
+        </li>
+        <li>
+          <strong>FAIR Plan violations.</strong> CDI has identified violations in how the California
+          FAIR Plan has handled smoke damage claims, including delays and improper denials. If you
+          are a{' '}
+          <Link href="/resources/california-fair-plan" className="text-blue-700 underline hover:text-blue-900">
+            FAIR Plan policyholder
+          </Link>{' '}
+          with a smoke damage claim, be aware that CDI is scrutinizing the FAIR Plan&apos;s claims
+          practices in this area.
+        </li>
+        <li>
+          <strong>Science-based assessment.</strong> CDI&apos;s position supports the use of
+          environmental testing and scientific methods — not visual walkthroughs — to evaluate
+          smoke contamination. This aligns with the testing standards discussed throughout this
+          guide.
+        </li>
+      </ul>
+
+      <CalloutBox variant="legal" title="CDI Authority on Smoke Claims">
+        <p>
+          The California Department of Insurance has regulatory authority over all admitted
+          carriers operating in the state. CDI bulletins and guidance documents do not have the
+          force of statute, but they establish the Department&apos;s enforcement position. When
+          a carrier ignores CDI guidance on smoke claims, that conduct can be cited in bad faith
+          complaints, DOI complaints, and litigation as evidence that the insurer knew what was
+          expected and chose not to comply. For more on your rights under wildfire-related claims,
+          see our{' '}
+          <Link href="/resources/wildfire-guide" className="text-blue-700 underline hover:text-blue-900">
+            comprehensive wildfire claims guide
+          </Link>.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Common Insurer Tactics on Smoke Claims
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -166,6 +282,25 @@ export default function Content() {
           expenses) while you&apos;re displaced. They have a financial incentive to declare your
           home habitable before remediation is complete. Do not move back until clearance testing
           confirms the home is safe.
+        </li>
+        <li>
+          <strong>&ldquo;No flame contact, no coverage.&rdquo;</strong> Some carriers argue that
+          because your home was not directly burned, smoke damage is not covered. This is wrong.
+          CDI has explicitly stated that direct flame contact is not required — smoke from a
+          nearby wildfire is a covered peril under standard homeowner policies. If your insurer
+          uses this argument, file a complaint with CDI immediately.
+        </li>
+        <li>
+          <strong>Using insensitive testing methods.</strong> The insurer&apos;s preferred testing
+          company may use sampling methods designed to minimize results — testing only easily
+          accessible surfaces, using less sensitive analytical techniques, or sampling too few
+          locations. Proper environmental sampling requires{' '}
+          <Link href="/resources/environmental-sampling-methods" className="text-blue-700 underline hover:text-blue-900">
+            appropriate methodology
+          </Link>{' '}
+          including micro-vacuum sampling, aggressive air sampling, and testing of concealed
+          spaces like wall cavities and duct interiors. If the insurer&apos;s testing protocol
+          would not detect microscopic soot contamination, the testing is inadequate.
         </li>
       </ul>
 
@@ -204,6 +339,69 @@ export default function Content() {
         touched your home. The key is documenting the contamination through professional testing
         and demanding proper remediation — not a cosmetic wipe-down.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Months Later: Is Your Home Truly Clean?
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Many homeowners accept an initial cleanup and assume the problem is solved. But smoke
+        contamination is persistent &mdash; it hides in places that standard cleaning never
+        reaches. If your home was remediated after a wildfire and you still notice odors, if your
+        family is experiencing unexplained health symptoms, or if you simply want to verify that
+        the work was done correctly, the following self-tests can reveal whether contamination
+        remains. These tests do not replace professional industrial hygiene testing, but they can
+        give you initial evidence to justify reopening or supplementing your claim.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Test 1: The High &amp; Low Wipe Test
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Take a clean white cloth or paper towel and wipe surfaces that cleaners typically miss:
+        the top of door frames, the upper edges of kitchen cabinets, the top of the refrigerator,
+        inside closet shelves, behind toilets, and underneath bathroom vanities. These high and
+        low surfaces are rarely addressed during a standard cleaning. If the cloth comes back gray
+        or black, residual contamination is present. Photograph the cloth against a white
+        background for documentation.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Test 2: The &ldquo;Smoke Reservoir&rdquo; Smell Test
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Your HVAC ductwork acts as a reservoir for smoke contamination. Remove a supply vent
+        cover, wipe the inside of the duct opening with a clean white cloth, and seal the cloth
+        in a zip-lock bag. Wait 30 minutes, then open the bag and smell it. If you detect a
+        smoky, acrid, or chemical odor, the duct system is still contaminated. This test is
+        especially telling in homes where the HVAC was only &ldquo;cleaned&rdquo; rather than
+        replaced &mdash; surface cleaning does not reach contamination embedded in duct liner,
+        joints, and insulation.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Test 3: The Cavity Inspection
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Turn off the power to a wall outlet on an exterior wall. Remove the outlet cover plate
+        and use a flashlight to look inside the wall cavity. A black, oily film on the interior
+        of the drywall or on the wiring insulation indicates that smoke migrated into the wall
+        cavities during the fire event. Standard surface cleaning does not address contamination
+        inside wall cavities. If you find it, the remediation was incomplete.
+      </p>
+
+      <CalloutBox variant="tip" title="Use These Tests to Reopen or Supplement Your Claim">
+        <p>
+          If any of these tests reveal residual contamination, you have evidence that the initial
+          remediation was insufficient. Document your findings with photographs, then contact your
+          insurer to file a supplemental claim. Under California law, you have the right to demand
+          that remediation continue until post-clearance testing confirms the home is safe. A{' '}
+          <Link href="/resources/supplemental-claims" className="text-sky-700 underline hover:text-sky-900">
+            supplemental claim
+          </Link>{' '}
+          is not a new claim &mdash; it is part of the original loss, and your insurer must
+          investigate it. If your claim was already closed, these findings are grounds to reopen it.
+        </p>
+      </CalloutBox>
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">

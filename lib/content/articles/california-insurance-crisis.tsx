@@ -158,10 +158,17 @@ export default function Content() {
           current construction costs? Most policies have not kept pace.
         </li>
         <li>
-          <strong>Document your property&apos;s defensible space.</strong> Insurers increasingly use
-          aerial imagery and AI to assess wildfire risk. If you&apos;ve cleared brush, installed ember-
-          resistant vents, or made other hardening improvements, document everything with photos and
-          receipts.
+          <strong>Document your property&apos;s defensible space and harden your home.</strong> The CDI&apos;s{' '}
+          <strong>Safer from Wildfires</strong> framework now requires insurers to offer discounts for
+          wildfire mitigation — every qualifying action earns a discount, and doing more saves more.
+          Key steps include: installing a Class A fire-rated roof, adding ember-resistant vents with
+          1/16&rdquo; to 1/8&rdquo; mesh screening, upgrading to multi-pane windows, creating a 5-foot
+          non-combustible zone around the home (stone or decomposed granite, not wood chips), replacing
+          wood fencing with metal where it connects to the house, enclosing eaves with non-combustible
+          materials, and maintaining defensible space per CAL FIRE standards. Community-level programs
+          like <strong>Firewise USA</strong> also qualify for additional discounts. Document every
+          improvement with photos and receipts — these mitigation steps can make the difference between
+          getting coverage and being non-renewed.
         </li>
         <li>
           <strong>Get a replacement cost estimate.</strong> Don&apos;t rely on your insurer&apos;s automated

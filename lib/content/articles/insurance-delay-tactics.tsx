@@ -40,9 +40,14 @@ export default function Content() {
         three, four, or five adjusters &mdash; each handoff adding weeks or months.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, when a claim has had three or more adjusters within a six-month period,
-        the policyholder can request a special written status report from the insurance company.
-        This is a separate requirement from the regular monthly status reports.
+        The American Policyholder Association has documented this as a deliberate insurer tactic —
+        cycling through customer service representatives, managers, and adjusters so that each
+        transition effectively restarts the claim process. In one case presented during 2025 Senate
+        hearings, a homeowner testified that after more than 120 days and multiple personnel changes,
+        the insurer had not begun repairs and was refusing to reimburse living expenses — despite the
+        county declaring the home unsafe. In California, when a claim has had three or more adjusters
+        within a six-month period, the policyholder can request a special written status report from
+        the insurance company. This is a separate requirement from the regular monthly status reports.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What &quot;Proof of Claim&quot; Really Means</h2>

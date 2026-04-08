@@ -193,14 +193,87 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        &ldquo;Completed&rdquo; vs. &ldquo;Incurred&rdquo;: The Policy Language That Changes Everything
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        To collect the holdback, your policy requires that repairs be either <strong>completed</strong>{' '}
+        or <strong>incurred</strong> &mdash; and the difference between those two words is significant.
+        This is an area where insurance adjusters themselves commonly misunderstand or misapply the
+        policy language.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Policies That Require &ldquo;Completion&rdquo;
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Some policies state that the holdback is payable only after repairs are <em>completed</em>.
+        Under this language, the insurer can require proof that the work has actually been finished.
+        In theory, the insurance company has the right to come inspect the completed repairs in
+        person. In practice, most carriers simply request photographs and a certificate of
+        completion from the contractor, or a final invoice marked &ldquo;paid.&rdquo; Once you
+        submit this documentation, the insurer releases the holdback.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Policies That Require &ldquo;Incurring&rdquo;
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Other policies use the word <em>incurred</em> rather than <em>completed</em>. This is a
+        lower threshold. To &ldquo;incur&rdquo; an expense generally means to become obligated to
+        pay it &mdash; which can happen before the work is finished. Signing a contract with a
+        contractor creates a legal obligation to pay for the work described in that contract. At
+        that point, the expense has been <em>incurred</em>, even if the contractor has not yet
+        started.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The distinction matters enormously. Under an &ldquo;incurred&rdquo; policy, a policyholder
+        who signs a repair contract should be able to collect the holdback immediately &mdash; they
+        do not have to wait until every nail is driven and every wall is painted. This gives the
+        policyholder access to the holdback funds earlier, which can be critical for funding the
+        repairs themselves.
+      </p>
+
+      <CalloutBox variant="legal" title="City Correction Notices as &ldquo;Incurring&rdquo;">
+        <p>
+          There is case law supporting the position that a city correction notice &mdash; a notice
+          from the building department requiring specific work to bring a property into code
+          compliance &mdash; can constitute &ldquo;incurring&rdquo; the expense of a code upgrade.
+          When the city issues a correction notice, the property owner is legally obligated to
+          perform the specified work. That obligation arguably satisfies the &ldquo;incurred&rdquo;
+          threshold even before a contractor is hired. This can be particularly valuable for{' '}
+          <Link href="/resources/code-upgrade-coverage" className="text-[#2E74B5] underline">
+            ordinance and law (code upgrade) coverage
+          </Link>
+          , where the holdback may be substantial and the policyholder needs the funds to pay for
+          expensive code-required improvements.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Read Your Policy Carefully
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Check whether your policy uses the word &ldquo;completed,&rdquo; &ldquo;incurred,&rdquo;
+        or some other formulation. If the policy says &ldquo;incurred,&rdquo; do not let the
+        adjuster tell you that you must complete repairs before collecting the holdback &mdash;
+        that is a misreading of the policy. A signed contract or a city-issued correction notice
+        may be sufficient. If the adjuster insists on completion under a policy that only requires
+        incurring, put your objection in writing and cite the specific policy language.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Time Limits for Collecting Replacement Cost
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Most policies impose a time limit to complete repairs and collect the holdback — typically
-        180 days to 2 years after the loss or after the ACV payment, depending on the policy
-        language. After a declared disaster in California, these deadlines may be extended. If
-        you&apos;re approaching a deadline and haven&apos;t completed repairs, notify the insurer
-        in writing and request an extension.
+        Most policies impose a time limit to complete or incur repairs and collect the holdback
+        &mdash; typically 180 days to 2 years after the loss or after the ACV payment, depending
+        on the policy language. Under California Insurance Code &sect; 2051.5(b), the statutory
+        minimum is 12 months from the date the ACV payment is made &mdash; not from the date of
+        loss. This distinction matters because there can be months or even years between the date
+        of loss and the date the insurer actually issues the ACV payment. After a declared disaster
+        in California, these deadlines may be extended. If you&apos;re approaching a deadline and
+        haven&apos;t completed or incurred repairs, notify the insurer in writing and request an
+        extension before the deadline passes.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

@@ -14,8 +14,10 @@ export default function Content() {
         After a property loss, the insurance company will make you an initial settlement offer —
         sometimes within days. The offer may look substantial: a large dollar amount for a
         devastating loss. But in nearly every case, the first offer is significantly less than what
-        you&apos;re actually owed. Accepting it too quickly is one of the most costly mistakes
-        a policyholder can make.
+        you&apos;re actually owed. Data from the American Policyholder Association found that
+        approximately 40% of claims between 2018 and 2020 were underpaid, with the average
+        household receiving $200,000–$300,000 less than entitled. Accepting that first offer too
+        quickly is one of the most costly mistakes a policyholder can make.
       </p>
 
       <CalloutBox variant="warning" title="You Can Almost Always Negotiate">
@@ -147,6 +149,15 @@ export default function Content() {
         According to the Office of the Public Insurance Counsel, claims handled by Public Adjusters
         result in settlements that average 500–747% higher than claims handled by policyholders
         alone (though this figure includes claims where insurers initially offered very low amounts).
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The gap can be extreme. CBS 60 Minutes documented cases where insurer desk reviews slashed
+        field adjuster estimates by 93% or more — one adjuster&apos;s $231,000 estimate was reduced
+        to $15,000, another from $488,000 to $13,000. U.S. Senate testimony in 2025 revealed that
+        one major insurer reduced 27% of field estimates through internal desk review while
+        increasing only 9%. In one case highlighted during the hearings, an insurer initially offered
+        $46,000 on a claim where the actual damage was ultimately determined to be $497,000 — a
+        tenfold difference.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Even a modest negotiation effort — getting a contractor&apos;s estimate and pointing out

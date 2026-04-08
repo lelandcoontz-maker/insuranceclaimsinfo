@@ -34,6 +34,28 @@ export default function Content() {
         writing.
       </p>
 
+      <CalloutBox variant="legal" title="California Regulatory Deadlines — Know the Clock">
+        <p className="mb-2">
+          Under the Fair Claims Settlement Practices Regulations (10 CCR &sect;2695), the
+          insurance company must meet these deadlines from the moment you file:
+        </p>
+        <ul className="list-disc pl-4 space-y-1 text-sm">
+          <li><strong>15 days</strong> — Acknowledge your claim in writing</li>
+          <li><strong>15 days</strong> — Begin investigation of the claim</li>
+          <li><strong>40 days</strong> — Accept or deny the claim after receiving proof of claim</li>
+          <li><strong>30 days</strong> — Pay undisputed amounts after reaching agreement</li>
+          <li><strong>Every 30 days</strong> — Provide written status updates if the claim remains open</li>
+        </ul>
+        <p className="mt-2 text-sm">
+          If the insurer misses any of these deadlines, document it. Regulatory violations are
+          evidence you can use in a{' '}
+          <Link href="/resources/cdi-complaint" className="underline font-semibold">CDI complaint</Link>{' '}
+          or{' '}
+          <Link href="/resources/bad-faith" className="underline font-semibold">bad faith</Link>{' '}
+          claim.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Step 2: Assignment of an Adjuster
       </h2>

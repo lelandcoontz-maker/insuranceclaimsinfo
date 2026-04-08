@@ -14,8 +14,11 @@ export default function Content() {
         One of the most devastating discoveries after a wildfire is learning that your insurance
         isn&apos;t enough to rebuild. Your home is gone, and the insurer tells you the policy limit
         is $500,000 — but contractors are quoting $800,000 to rebuild. This gap, sometimes hundreds
-        of thousands of dollars, is the underinsurance crisis. It affects a staggering percentage of
-        California wildfire victims, and it&apos;s not an accident.
+        of thousands of dollars, is the underinsurance crisis. According to the American Policyholder
+        Association, approximately 40% of claims between 2018 and 2020 were underpaid, with
+        households receiving $200,000–$300,000 less than they were entitled to. After the 2025 Los
+        Angeles wildfires, nearly 80% of victims reported serious insurance claim issues. This is
+        not an isolated problem — it&apos;s systemic.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

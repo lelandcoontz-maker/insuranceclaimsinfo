@@ -13,9 +13,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California wildfires have become larger, more frequent, and more destructive. Whether you
         were affected by the Palisades fire, the Eaton fire, or another wildfire, the insurance
-        claims process that follows is complex, stressful, and often adversarial. This guide walks
-        you through the critical steps, coverages, and pitfalls specific to California wildfire
-        claims.
+        claims process that follows is complex, stressful, and often adversarial. After the 2025
+        Los Angeles wildfires, nearly 80% of victims reported serious insurance claim issues —
+        delays, underpayments, and outright denials. Nationally, the American Policyholder
+        Association found that 40% of claims were underpaid, with households receiving
+        $200,000–$300,000 less than they were entitled to. This guide walks you through the critical
+        steps, coverages, and pitfalls specific to California wildfire claims.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -213,6 +216,66 @@ export default function Content() {
         is 24 months, and extensions are available if rebuilding is delayed by circumstances beyond
         your control such as permitting delays, contractor shortages, or debris removal timelines.
         Document every delay and its cause to support any extension request.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Your Statutory Rights After a Declared Disaster
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When the Governor declares a state of emergency &mdash; as with every major California
+        wildfire &mdash; a series of California Insurance Code provisions activate that override
+        restrictive policy language. Out-of-state adjusters routinely misrepresent these rights.
+        The California Department of Insurance has issued formal notices requiring that all
+        adjusters, California-licensed or not, be properly trained on these protections. Know them:
+      </p>
+      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>24-month replacement cost deadline (IC &sect;2051.5(b)(1)):</strong> After a
+          declared disaster, you have at least 24 months from the date of your first ACV payment
+          to collect the full replacement cost of your loss. Additional six-month extensions must
+          be granted for good cause. If an adjuster tells you that you have less than 24 months,
+          they are wrong.
+        </li>
+        <li>
+          <strong>24-month ALE period (IC &sect;2051.5(b)(2)):</strong> Additional Living Expenses
+          coverage extends for at least 24 months after a declared disaster, regardless of the
+          shorter period in your policy. The extended time does not increase the dollar limit &mdash;
+          it extends the period over which you can use it.
+        </li>
+        <li>
+          <strong>Right to rebuild at a new location (IC &sect;2051.5(c)):</strong> After a total
+          loss, you may use your replacement cost coverage to rebuild on the same lot, build on a
+          different lot, or purchase an already-built home elsewhere. The insurer cannot reduce your
+          payment because you choose to relocate. If your policy includes extended or guaranteed
+          replacement cost, it applies at the new location too.
+        </li>
+        <li>
+          <strong>Appraisal cannot be compelled (IC &sect;2071):</strong> After a government-declared
+          disaster, neither you nor the insurer can force the other into appraisal. This prevents
+          insurers from using appraisal to cap damages before all damage is discovered.
+        </li>
+        <li>
+          <strong>Policy copy within 30 days (IC &sect;2084):</strong> The insurer must provide a
+          complete copy of your policy free of charge within 30 days of your request. Your copy
+          burned &mdash; request a new one immediately.
+        </li>
+        <li>
+          <strong>No cancellation during rebuilding (IC &sect;675.1(b)):</strong> The insurer cannot
+          cancel your coverage while your home is being rebuilt, and cannot use the damaged condition
+          of the home as a basis for cancellation.
+        </li>
+        <li>
+          <strong>Mandatory renewal after a declared disaster (IC &sect;675.1(c)):</strong> If your
+          total loss was caused by a declared disaster and not your own negligence, the insurer must
+          offer at least one policy renewal.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For a complete breakdown of every California claim deadline and disaster-specific
+        protection, see our{' '}
+        <Link href="/resources/california-claim-deadlines" className="text-blue-700 underline hover:text-blue-900">
+          California Insurance Claim Deadlines guide
+        </Link>.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

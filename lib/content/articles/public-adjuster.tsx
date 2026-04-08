@@ -69,9 +69,12 @@ export default function Content() {
         A Public Adjuster is recommended for large, complex, or disputed claims. This includes
         significant fire, water, or storm damage; claims where the insurance company&apos;s initial
         estimate seems far too low; claims involving multiple types of damage (structure, contents,
-        loss of use); and any situation where you feel overwhelmed by the process. Public Adjusters
-        are especially valuable when you need someone to take over the day-to-day management of the
-        claim so you can focus on your family and recovery.
+        loss of use); and any situation where you feel overwhelmed by the process. The need is
+        widespread: the American Policyholder Association found that approximately 40% of claims
+        were underpaid between 2018 and 2020, with households receiving $200,000–$300,000 less than
+        entitled. After the 2025 Los Angeles wildfires, nearly 80% of victims reported serious claim
+        issues. Public Adjusters are especially valuable when you need someone to take over the
+        day-to-day management of the claim so you can focus on your family and recovery.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">

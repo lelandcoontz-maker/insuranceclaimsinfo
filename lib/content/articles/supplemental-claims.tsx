@@ -82,6 +82,135 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Don&apos;t Let a Missed Deadline Kill Your Supplement
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When you file a supplement, the carrier may send you a{' '}
+        <Link href="/resources/proof-of-loss" className="text-blue-700 underline hover:text-blue-900">
+          sworn proof of loss
+        </Link>{' '}
+        form with a tight deadline &mdash; sometimes as short as 60 days. The form often looks
+        mandatory, and the deadline feels absolute. Many policyholders panic if they miss it,
+        believing their supplement is dead on arrival. In California, that is not the law.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Notice-Prejudice Rule in California
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under California law, an insurer cannot deny a claim solely because the policyholder
+        failed to submit a timely proof of loss or missed a policy deadline. The insurer must
+        demonstrate that it suffered <strong>actual prejudice</strong> from the delay. This is
+        known as the <em>notice-prejudice rule</em>, and it is one of the most important
+        protections available to California policyholders.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The rule means that a late filing, by itself, is not grounds for denial. The carrier
+        has to prove that the delay actually harmed its ability to investigate or adjust the
+        claim. In the supplemental claim context, this is nearly impossible for the insurer to
+        show &mdash; the damage is still there, the documentation is still available, and the
+        carrier already has an open file on the loss.
+      </p>
+
+      <CalloutBox variant="legal" title="Key California Cases">
+        <ul className="list-disc pl-6 space-y-2">
+          <li>
+            <strong><em>Campbell v. Allstate Ins. Co.</em></strong> (1963) 60 Cal.2d 303 &mdash;
+            The California Supreme Court established that strict compliance with proof of loss
+            deadlines is not required. Substantial compliance is sufficient, and the insurer
+            must show actual prejudice before denying a claim for late filing.
+          </li>
+          <li>
+            <strong><em>Henderson v. Farmers Group, Inc.</em></strong> (1992) 6 Cal.App.4th
+            1404 &mdash; Reinforced that insurers must demonstrate actual prejudice resulting
+            from late notice or a late proof of loss. The burden of proving prejudice falls
+            squarely on the insurer.
+          </li>
+        </ul>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Substantial Compliance Is Enough
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California courts apply a <strong>substantial compliance</strong> doctrine to{' '}
+        <Link href="/resources/duties-after-loss" className="text-blue-700 underline hover:text-blue-900">
+          duties after loss
+        </Link>
+        , including proof of loss requirements. Even if a policyholder does not follow the
+        proof of loss requirements to the letter, the claim cannot be denied on that basis if:
+      </p>
+      <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+        <li>The insurer had actual notice of the claim and the supplemental damage</li>
+        <li>The insurer was not prejudiced by the deficiency in the filing</li>
+        <li>
+          The policyholder made a good-faith effort to comply with the policy&apos;s
+          requirements
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In practice, if you submitted photos, a contractor&apos;s estimate, and a written
+        explanation of the supplemental damage to the adjuster, you have almost certainly
+        substantially complied &mdash; even if you never returned the formal proof of loss
+        form. The carrier knew about the damage and had every opportunity to investigate it.
+      </p>
+
+      <CalloutBox variant="warning" title="The Proof of Loss Deadline Trap">
+        <p className="mb-2">
+          Carriers routinely send proof of loss forms with short deadlines as a strategic move.
+          The goal is to create a procedural basis for denial when the real reason they want to
+          deny the supplement is the dollar amount. Here is what to watch for:
+        </p>
+        <ul className="list-disc pl-6 space-y-2">
+          <li>
+            A proof of loss form arrives with a 60-day deadline, often buried in routine
+            correspondence
+          </li>
+          <li>
+            The form demands a sworn, notarized statement of loss amounts &mdash; before
+            repairs are even complete
+          </li>
+          <li>
+            If the deadline passes, the carrier issues a denial citing &quot;failure to comply
+            with policy conditions&quot;
+          </li>
+        </ul>
+        <p className="mt-2">
+          If this happens to you, do not assume the claim is lost. In California, missing a
+          proof of loss deadline does <strong>not</strong> automatically bar your claim. The
+          burden is on the insurer to prove it was actually prejudiced by the late filing.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        What This Means for Your Supplement
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practical takeaway is straightforward: always try to meet deadlines and comply with
+        your{' '}
+        <Link href="/resources/duties-after-loss" className="text-blue-700 underline hover:text-blue-900">
+          duties after loss
+        </Link>
+        , but if you miss one, do not give up on the claim. The notice-prejudice rule exists
+        precisely because carriers exploit procedural technicalities to avoid paying legitimate
+        claims. California courts have made clear that forfeiture of coverage based on a missed
+        deadline requires more than the carrier pointing to a calendar &mdash; it requires
+        proof that the delay actually mattered.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If a carrier denies your supplement for a missed proof of loss deadline, that denial
+        itself may constitute{' '}
+        <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">
+          bad faith
+        </Link>{' '}
+        if the insurer cannot demonstrate actual prejudice. Consult with a{' '}
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+          public adjuster
+        </Link>{' '}
+        or an attorney if you find yourself in this situation.
+      </p>
+
     </>
   )
 }

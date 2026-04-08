@@ -227,6 +227,40 @@ export default function Content() {
         In California, the umpire must make neutrality disclosures required of arbitrators because
         the process is governed by the arbitration code.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It is no exaggeration to say that <strong>the umpire is the single most important person
+        in the appraisal process</strong>. Because the two party appraisers rarely agree on
+        everything, the disputed items almost always go to the umpire for resolution. The
+        umpire&apos;s professional background, experience, and approach to valuation will shape the
+        outcome more than any other single factor. An umpire with hands-on construction or property
+        loss experience will evaluate a repair estimate very differently than an umpire whose
+        background is purely legal or administrative. Understanding this dynamic is essential to
+        getting a fair result.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Common approaches to umpire selection include exchanging lists of proposed candidates,
+        using a strike-and-rank process, or agreeing on specific qualifications (such as a licensed
+        contractor, a retired judge, or an experienced adjuster with no financial ties to either
+        party). If the appraisers cannot agree within 15 days, either side can petition the court
+        to appoint an umpire — and in many cases, a court-appointed umpire may actually be
+        preferable for the policyholder, because the court is more likely to select someone
+        genuinely neutral rather than someone from the insurance company&apos;s preferred
+        roster.
+      </p>
+
+      <CalloutBox variant="tip" title="Do Not Be Passive on Umpire Selection">
+        <p>
+          The insurance company&apos;s appraiser will push for umpire candidates who are familiar
+          and favorable to the carrier&apos;s position. Do not let this happen by default. Your
+          appraiser should be actively proposing candidates, researching potential umpires&apos;
+          backgrounds and prior awards, and pushing back against candidates who have a history of
+          working primarily with insurance companies. For a deeper discussion of umpire selection
+          tactics, see our{' '}
+          <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+            Practitioner&apos;s Guide to Appraisal
+          </Link>.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         Step 4: The Appraisal Hearing
@@ -278,6 +312,61 @@ export default function Content() {
         always clear — and this ambiguity has generated the most significant California case law
         on the subject.
       </p>
+
+      {/* ====== SCOPE VS. VALUE ====== */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Scope vs. Value: Understanding the Real Dispute
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One of the most common sources of confusion in insurance appraisal is the distinction
+        between <strong>scope</strong> and <strong>value</strong>. These are two fundamentally
+        different questions, and understanding the difference is critical to navigating the
+        appraisal process effectively.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Scope</strong> refers to <em>what is damaged</em> — which rooms, which building
+        components, which personal property items were affected by the covered loss. <strong>Value</strong>{' '}
+        refers to <em>what it costs to repair or replace</em> those damaged items. In a perfect
+        world, the insurance company and the policyholder would agree on scope (yes, the kitchen,
+        bathroom, and hallway were all damaged by the water loss) and only disagree on value (the
+        cost to repair those areas). In that scenario, appraisal is straightforward — the panel
+        determines the dollar amount.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In reality, most appraisal disputes involve disagreements about <em>both</em> scope and
+        value. The insurance company may acknowledge that the kitchen was damaged but deny that
+        the hallway or bathroom were affected — even though all three areas show clear signs of
+        damage from the same event. This is a scope dispute. The insurance company is not arguing
+        about what the repairs cost; it is arguing about whether certain damage exists at all.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Insurance companies sometimes try to use appraisal strategically by limiting the scope
+        of what the panel considers. They may argue that the panel should only price the items
+        the insurer already acknowledged — in effect, asking the appraiser to rubber-stamp the
+        carrier&apos;s scope determination while putting a slightly different dollar figure on it.
+        This approach denies the policyholder the full benefit of the appraisal process.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In California, the appraisal panel&apos;s role is to independently evaluate the damage
+        and determine the amount of loss. This necessarily requires the appraiser to assess the{' '}
+        <em>extent</em> of damage — which means looking at what was actually damaged, not merely
+        repricing the insurance company&apos;s limited scope. Your appraiser should be conducting
+        an independent evaluation of the property and documenting every item of damage, regardless
+        of whether the insurer acknowledged it. The appraiser is not there to price the carrier&apos;s
+        estimate — the appraiser is there to determine the actual loss.
+      </p>
+
+      <CalloutBox variant="important">
+        <strong>Your appraiser should independently evaluate the damage — not just reprice the
+        insurer&apos;s scope.</strong> If your insurance company acknowledged damage to three rooms
+        but you believe five rooms were damaged, your appraiser should be documenting and valuing
+        all five rooms. The appraisal panel determines the amount of loss for the items submitted
+        to it — do not let the insurer dictate what gets submitted. For detailed strategies on
+        handling scope disputes in appraisal, see our{' '}
+        <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+          Practitioner&apos;s Guide
+        </Link>.
+      </CalloutBox>
 
       {/* ====== CASE LAW ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -894,6 +983,134 @@ export default function Content() {
         policyholders, use the same estimating tools the insurance company uses, and understand the
         tactics insurers deploy in appraisal proceedings.
       </p>
+
+      {/* ====== PREPARING FOR APPRAISAL ====== */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Preparing for Appraisal: Building a Strong Case
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The outcome of an appraisal is often determined before the umpire ever sees the property.
+        A well-prepared submission package makes it easy for the umpire to rule in your favor. A
+        disorganized or incomplete submission forces the umpire to guess — and when the umpire is
+        guessing, the insurance company&apos;s polished (but lowball) presentation may carry
+        the day.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Your appraisal submission should include:
+      </p>
+      <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+        <li>
+          <strong>A detailed, line-item estimate.</strong> Every disputed item should be broken
+          out individually with quantities, unit pricing, and totals. An{' '}
+          <Link href="/resources/xactimate" className="text-[#2E74B5] underline">Xactimate</Link>{' '}
+          estimate is the gold standard because it uses the same software and pricing database the
+          insurance industry uses — making it difficult for the carrier to argue your pricing is
+          unreasonable.
+        </li>
+        <li>
+          <strong>Photographs documenting each disputed item.</strong> Before-and-after photos when
+          available, close-up photos of damage, wide-angle photos showing context, and photos that
+          correspond directly to the line items in your estimate. The umpire may not visit the
+          property — your photos may be the primary evidence.
+        </li>
+        <li>
+          <strong>Expert reports where applicable.</strong> If the damage involves structural
+          issues, hidden moisture, hazardous materials, or specialized systems, expert reports from
+          engineers, industrial hygienists, or other qualified professionals strengthen your
+          position significantly.
+        </li>
+        <li>
+          <strong>A clear summary that ties everything together.</strong> The umpire is reviewing
+          two competing sets of numbers. Make it easy to understand your position: what is damaged,
+          what it costs to repair or replace, and why your figure — not the insurance company&apos;s
+          figure — reflects the actual loss.
+        </li>
+      </ul>
+
+      <CalloutBox variant="tip" title="Presentation Matters">
+        <p>
+          The umpire is a busy professional reviewing competing submissions. A clear, organized
+          presentation — with labeled photos, a well-structured estimate, and a concise summary —
+          is far more persuasive than a box of loose documents. Do not assume the umpire will sort
+          through disorganized materials to find the evidence supporting your position. Make your
+          case easy to follow. For detailed guidance on building an appraisal package, see the{' '}
+          <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+            Practitioner&apos;s Guide to Appraisal
+          </Link>.
+        </p>
+      </CalloutBox>
+
+      {/* ====== AFTER THE AWARD ====== */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        After the Appraisal Award: What Happens Next
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When the appraisal panel issues its award, the process is not necessarily over. The award
+        determines the amount of loss, but several important steps remain — and the insurance
+        company does not always make those steps easy.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        The Award Is Binding
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In California, an appraisal award is treated as an arbitration award and is binding on
+        both parties. Once issued, the insurance company is obligated to pay the award amount
+        (less any applicable deductibles and prior payments) promptly. The award can be confirmed
+        by a court under CCP &sect; 1285, at which point it becomes an enforceable judgment — with
+        the same force as any other court judgment.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        When the Insurance Company Challenges the Award
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Sometimes the insurance company receives an appraisal award that is significantly higher
+        than its original payment — and rather than simply paying the difference, it looks for
+        reasons to challenge the award. The grounds for vacating an appraisal award are narrow
+        (discussed in the case law section above), but that does not always stop insurers from
+        trying. Common challenges include arguing the panel exceeded its authority by making
+        causation determinations, claiming procedural irregularities, or alleging that the umpire
+        was biased.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you believe the insurer may challenge the award, consult an attorney immediately. The
+        100-day deadline for filing a petition to vacate or correct an award under CCP &sect; 1288
+        applies to both sides — so the insurer must act quickly, and so must you if you need to
+        respond.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        If the Insurer Delays Payment
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        After receiving an appraisal award, the insurer is obligated to pay. But some insurers
+        drag their feet — requesting additional documentation, raising new objections, or simply
+        failing to process the payment in a timely manner. This delay can be particularly harmful
+        to policyholders who need funds to complete repairs.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the insurer does not pay the award within a reasonable time, the policyholder has
+        several options: filing a petition to confirm the award in court (which converts it to an
+        enforceable judgment), filing a complaint with the California Department of Insurance, or
+        pursuing a{' '}
+        <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">bad faith</Link>{' '}
+        claim for the insurer&apos;s unreasonable delay in honoring a binding award. The
+        insurer&apos;s failure to promptly pay a valid appraisal award can itself constitute
+        evidence of bad faith — the award determined the amount of loss, and the insurer&apos;s
+        continued refusal to pay has no reasonable basis.
+      </p>
+
+      <CalloutBox variant="warning" title="Do Not Let the Insurer Run Out the Clock">
+        <p>
+          If the insurer is delaying payment after an appraisal award, do not wait indefinitely.
+          Document every communication, demand payment in writing with a specific deadline, and
+          consult an attorney about confirming the award in court. An unreasonable delay in paying
+          a binding appraisal award is not a minor procedural issue — it is potential evidence of{' '}
+          <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">bad faith</Link>{' '}
+          that may entitle you to damages well beyond the amount of the award itself.
+        </p>
+      </CalloutBox>
 
       {/* ====== FURTHER READING ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

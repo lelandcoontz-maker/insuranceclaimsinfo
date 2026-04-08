@@ -20,6 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/cdi-notices`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
     { url: `${baseUrl}/privacy`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
     { url: `${baseUrl}/terms`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
+    { url: `${baseUrl}/stories`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
   ]
 
   const resourceSlugs = [
@@ -87,6 +88,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'cosmetic-damage-denials',
     'duty-to-investigate',
     'insurance-mediation',
+    'commonly-missed-items',
+    'multiple-reasons-to-replace',
+    'wear-and-tear-cause-of-loss',
+    'defeating-carrier-engineers',
+    'hail-damage-science',
+    'pre-existing-vs-storm-damage',
+    'mortgage-company-holds',
+    'post-disaster-scams',
+    'insurance-checks',
+    'thermal-heat-damage',
+    'special-limits-of-liability',
+    'mold-coverage-paradox',
+    'engineering-reports-vs-coverage',
+    'fire-sprinkler-water-contamination',
+    'insurance-code-790',
+    'environmental-sampling-methods',
+    'elder-abuse-insurance',
+    'third-party-vs-first-party',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

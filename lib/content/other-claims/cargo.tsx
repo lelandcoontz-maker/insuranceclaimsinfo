@@ -95,6 +95,18 @@ export default function Content() {
         and you receive fair compensation.
       </p>
 
+      <CalloutBox variant="tip" title="In-Depth Guide: Marine Cargo Claims">
+        <p>
+          For a comprehensive analysis of marine cargo claims &mdash; including the legal
+          framework for public adjuster authority, the role of marine surveyors, General Average,
+          COGSA carrier liability limits, Incoterms, and why trade expertise changes outcomes
+          &mdash; read our full guide:{' '}
+          <Link href="/resources/marine-cargo-claims" className="text-[#2E74B5] hover:underline font-semibold">
+            Marine Cargo Insurance Claims: Why Importers and Exporters Need a Public Adjuster &rarr;
+          </Link>
+        </p>
+      </CalloutBox>
+
       <LeadCaptureForm
         claimType="cargo"
         heading="Get Help With Your Cargo Claim"

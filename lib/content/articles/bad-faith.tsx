@@ -27,7 +27,10 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Bad faith occurs when the insurance company unreasonably denies, delays, or underpays a
-        claim without a proper basis. California courts have recognized numerous forms of bad faith
+        claim without a proper basis. This is not rare — the American Policyholder Association has
+        documented that approximately 40% of claims in a recent study period were underpaid, and
+        their investigations have uncovered evidence of insurers instructing adjusters to minimize
+        losses and alter estimates. California courts have recognized numerous forms of bad faith
         conduct:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

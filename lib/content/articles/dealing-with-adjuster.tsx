@@ -47,9 +47,13 @@ export default function Content() {
         <li>
           <strong>Desk adjusters</strong> handle claims remotely and never visit the property. They
           review photos, documents, and estimates from behind a screen. This is increasingly common
-          in the industry, and it is a major red flag for complex claims. A desk adjuster cannot see
-          what they do not look for, and they cannot look for what they are not physically present
-          to find.
+          in the industry, and it is a major red flag for complex claims. In 2025 U.S. Senate
+          testimony, a veteran adjuster described how one major insurer has turned field adjusters
+          into &ldquo;picture takers and estimate writers&rdquo; who submit their work to desk
+          reviewers who approve or deny claims and dictate revisions — without ever visiting the
+          property. Internal data showed this insurer reduced 27% of field estimates through desk
+          review while increasing only 9%. A desk adjuster cannot see what they do not look for,
+          and they cannot look for what they are not physically present to find.
         </li>
         <li>
           <strong>Public adjusters</strong> work for <em>you</em>, the policyholder. They are licensed

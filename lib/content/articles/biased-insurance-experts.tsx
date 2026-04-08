@@ -34,7 +34,14 @@ export default function Content() {
         This creates <strong>selection bias</strong> — over time, the insurer&apos;s expert roster
         is populated almost exclusively by professionals who reliably produce claim-minimizing
         results. It&apos;s not that every finding is wrong, but the systemic tilt is real and
-        measurable.
+        measurable. In May 2025, the U.S. Senate held hearings on insurer claims practices in which
+        whistleblower adjusters provided devastating testimony: one adjuster (Jordan Lee) stated that
+        44 of his 46 field reports — 96% — were altered by the insurer, with some estimates reduced
+        by as much as 98%. Another (Ben Mandell) testified that 18 of 20 reports (90%) were changed,
+        and that he was fired for refusing to omit documented damage. A forensic engineer confirmed
+        that over 90% of his causation reports were altered through a so-called &ldquo;peer
+        review&rdquo; process at the home office, which reversed his field findings to align with
+        the insurer&apos;s denial strategy.
       </p>
 
       <CalloutBox variant="warning" title="Common Signs of a Biased Expert Report">
@@ -49,6 +56,44 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Case Study: Eaton Fire &ldquo;Sham Inspections&rdquo; Class Action
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The repeat-player expert problem is not theoretical. In the aftermath of the Eaton fire, a
+        class action lawsuit was filed alleging that insurance company-assigned inspectors conducted
+        &ldquo;sham inspections&rdquo; — inspections that were pre-determined to find minimal damage
+        regardless of the actual conditions on the ground. According to the complaint, these inspectors
+        spent inadequate time on-site, used improper methods, and reached conclusions that were
+        wildly inconsistent with the actual extent of fire damage to the properties.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The lawsuit highlights the core structural problem: these inspectors were selected and paid
+        by the carriers, depended on the carriers for repeat business, and understood — whether
+        explicitly told or not — that finding extensive damage would mean losing future assignments.
+        The economic incentive structure made the outcome predictable before the inspector ever set
+        foot on the property.
+      </p>
+
+      <CalloutBox variant="important" title="Sham Inspections Are Not Limited to Fire Claims">
+        <p>
+          The pattern alleged in the Eaton fire lawsuit — pre-determined outcomes from carrier-dependent
+          experts — exists across every type of claim. The same structural incentives apply to
+          engineers assessing structural damage, environmental consultants testing for smoke or mold
+          contamination, contents estimators valuing personal property losses, roofing consultants
+          evaluating wind and hail damage, and appraisers determining the value of a loss. Wherever a
+          carrier selects and pays an expert, the risk of outcome-driven analysis exists.
+        </p>
+      </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For policyholders, the Eaton fire lawsuit is a reminder: you should never assume that the
+        insurer&apos;s inspection was fair simply because a licensed professional conducted it. If the
+        inspection was brief, if the inspector did not thoroughly document all areas of damage, or if
+        the conclusions seem inconsistent with what you can see with your own eyes — those are red
+        flags that warrant an independent evaluation.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Types of Experts Insurers Use
       </h2>
 
@@ -58,7 +103,11 @@ export default function Content() {
         engineer to determine the cause and extent of damage. A biased engineer may attribute fire
         damage to &ldquo;pre-existing settlement,&rdquo; classify wind damage as &ldquo;long-term
         wear,&rdquo; or limit the scope of structural damage to minimize the insurer&apos;s
-        exposure.
+        exposure. For detailed strategies on responding to carrier engineer reports, see our guides
+        on{' '}
+        <Link href="/resources/defeating-carrier-engineers" className="text-blue-700 underline hover:text-blue-900">defeating carrier engineers</Link>{' '}
+        and{' '}
+        <Link href="/resources/engineering-reports-vs-coverage" className="text-blue-700 underline hover:text-blue-900">understanding how engineering reports affect coverage decisions</Link>.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Industrial Hygienists</h3>
@@ -68,7 +117,11 @@ export default function Content() {
         the insurer hires a Certified Industrial Hygienist (CIH) to test for contamination. A
         biased hygienist may test only a few surfaces, use testing thresholds that are higher than
         health-based standards, or compare results to &ldquo;background&rdquo; levels that are
-        themselves elevated from the same event.
+        themselves elevated from the same event. The sampling methodology matters enormously — an
+        expert who uses less sensitive methods or samples fewer locations will inevitably find less
+        contamination. For a deeper understanding of how sampling methods can be manipulated, see
+        our guide on{' '}
+        <Link href="/resources/environmental-sampling-methods" className="text-blue-700 underline hover:text-blue-900">environmental sampling methods</Link>.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Estimators and Adjusters</h3>
@@ -164,6 +217,77 @@ export default function Content() {
           <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
         </li>
       </ol>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Demanding Transparency from Carrier-Assigned Experts
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        You have the right to scrutinize every expert the insurer relies on. Too many policyholders
+        accept the carrier&apos;s expert report as though it were a neutral, authoritative finding.
+        It is not. It is a report paid for by the party with a financial interest in minimizing
+        your claim. The following information requests can expose whether the expert is truly
+        independent or is a repeat player producing predictable results:
+      </p>
+      <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+        <li>
+          <strong>Full professional qualifications.</strong> Request the expert&apos;s CV, licenses,
+          certifications, and any disciplinary history. Verify that their credentials are relevant
+          to the specific type of damage they were hired to evaluate.
+        </li>
+        <li>
+          <strong>Methodology disclosure.</strong> Demand a detailed explanation of the methods used,
+          including what standards or protocols they followed, what areas they inspected (and what
+          areas they did not), how long they spent on-site, and what equipment they used. Compare
+          this to accepted industry standards for the type of inspection.
+        </li>
+        <li>
+          <strong>Prior carrier work history.</strong> Ask how many assignments the expert (or their
+          firm) has received from this insurer in the past three to five years, the total
+          compensation received, and what percentage of their total revenue comes from insurance
+          company assignments. This information goes directly to the Demer bias factors.
+        </li>
+        <li>
+          <strong>Outcome history.</strong> If discoverable (often in litigation), request data on
+          the expert&apos;s track record: in what percentage of assignments did they find damage
+          below the policyholder&apos;s claimed amount? A 95% rate of insurer-favorable findings
+          is not evidence of expertise — it is evidence of bias.
+        </li>
+        <li>
+          <strong>Communication with the carrier.</strong> Were there pre-inspection communications
+          from the insurer that framed the assignment, suggested conclusions, or limited the
+          scope of the inspection? Any such communications can be powerful evidence that the
+          outcome was directed, not independently determined.
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Why Independent Expert Evaluations Are Essential
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The single most effective way to combat a biased carrier expert report is to obtain your own
+        independent evaluation. When you hire your own engineer, hygienist, contractor, or appraiser,
+        that professional works for you — not for the insurance company. Their findings are based on
+        what they actually observe, not on what their client needs the answer to be.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        An independent report creates a conflict in the record that the insurer cannot simply ignore.
+        When the carrier&apos;s engineer says the roof damage was &ldquo;pre-existing&rdquo; and your
+        engineer says it was caused by the covered event, the insurer must address the discrepancy.
+        If the insurer simply ignores your expert without explanation, that conduct can support a
+        bad faith claim. A{' '}
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>{' '}
+        can help you identify qualified independent experts and coordinate the inspection process.
+      </p>
+
+      <CalloutBox variant="tip" title="Score the Engineer Report Yourself">
+        <p>
+          The American Policyholder Association developed a free tool called AEREP (Assessment of
+          Engineering Reports) that helps policyholders and their representatives evaluate whether
+          an engineering report follows proper methodology or shows signs of bias. If your claim
+          was denied based on an engineering report, running it through this scoring system can help
+          identify where the report is deficient — and give your rebuttal concrete structure.
+        </p>
+      </CalloutBox>
 
       <CalloutBox variant="tip" title="Your Expert Doesn't Have to Be Expensive">
         <p>
