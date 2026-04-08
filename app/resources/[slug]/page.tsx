@@ -109,6 +109,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'elder-abuse-insurance': { title: 'Elder Abuse Statutes in Insurance Claims: Enhanced Remedies for Elderly and Dependent Adult Policyholders', description: 'When insurance companies engage in bad faith against elderly or dependent adult policyholders, California\'s Elder Abuse and Dependent Adult Civil Protection Act unlocks enhanced remedies including attorney\'s fees, punitive damages, and survival actions.' },
   'third-party-vs-first-party': { title: 'Third-Party Claim vs. First-Party Claim: Which Strategy Is Right for Your Property Damage?', description: 'When someone else damages your property, should you pursue their insurance or file with your own? A detailed comparison of both strategies — the pros, cons, and when to pivot.' },
   'caci-jury-instructions-insurance': { title: 'CACI Jury Instructions for Insurance Litigation in California', description: 'What CACI jury instructions are, how they relate to case law, whether they have the force of law, and why the Series 2300 insurance litigation instructions matter when policyholders sue their insurance company.' },
+  'efficient-proximate-cause': { title: 'The Efficient Proximate Cause Doctrine: When Your Insurer Blames an Excluded Cause for a Covered Loss', description: 'California\'s efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -218,6 +219,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'elder-abuse-insurance': () => import('@/lib/content/articles/elder-abuse-insurance'),
   'third-party-vs-first-party': () => import('@/lib/content/articles/third-party-vs-first-party'),
   'caci-jury-instructions-insurance': () => import('@/lib/content/articles/caci-jury-instructions-insurance'),
+  'efficient-proximate-cause': () => import('@/lib/content/articles/efficient-proximate-cause'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
