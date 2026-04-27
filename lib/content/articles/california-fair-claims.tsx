@@ -55,6 +55,46 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Regulatory Violations and Bad Faith: Understanding the Relationship
       </h2>
+
+      <CalloutBox variant="important" title="Two Key Principles Most Policyholders Get Wrong">
+        <p className="mb-2">
+          <strong>1. Regulatory or statutory violations do not automatically equal bad faith.</strong>
+          An insurance company could violate numerous regulations on a claim that is ultimately{' '}
+          <em>not covered</em> by the policy at all — and if there is no coverage, there is generally
+          no bad faith, regardless of how many procedural rules were broken. Bad faith is about
+          unreasonable conduct in handling a claim the insurer owed in the first place.
+        </p>
+        <p className="mb-2">
+          <strong>2. Bad faith can exist even without any regulatory or statutory violation.</strong>
+          An insurer can follow every procedural rule, hit every deadline, send every required letter
+          — and still act in bad faith by, for example, offering an unreasonably low settlement with
+          no rational basis on a clearly covered claim.
+        </p>
+        <p className="mb-2">
+          The two are <strong>often</strong> related, but not inseparable. Insurance companies that
+          fail to investigate, fail to respond timely, fail to pay undisputed amounts, or fail to
+          turn over claim-related documents are typically engaged in behaviors that are part and
+          parcel of bad faith conduct itself — the regulatory violations and the bad faith become
+          intertwined and difficult to separate cleanly.
+        </p>
+        <p className="mb-2">
+          One more critical point: <strong>insureds do not have a private right of action to sue
+          for a regulatory violation alone.</strong> The California Department of Insurance can
+          investigate and fine a carrier for violating a regulation, but a policyholder cannot
+          collect money from the carrier based purely on a regulatory violation. The violation is
+          evidence that supports a bad faith or breach of contract claim — it is not itself a money
+          claim the insured can bring. See{' '}
+          <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">
+            our bad faith guide
+          </Link>{' '}
+          for a deeper discussion.
+        </p>
+        <p className="text-sm italic">
+          This is a general explanation, not legal advice. The interplay between regulation, statute,
+          coverage, and bad faith is fact-specific — consult an attorney about your situation.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most important things to understand about these regulations is their
         relationship to{' '}

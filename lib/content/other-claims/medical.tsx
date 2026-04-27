@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 import { LeadCaptureForm } from '@/components/content/LeadCaptureForm'
+import { ReferralButton } from '@/components/content/ReferralButton'
 
 export const meta = {
   title: 'Medical Insurance Claims: Disputes, Denials, and Your Options',
@@ -74,7 +75,9 @@ export default function Content() {
           challenging it. Studies consistently show that a significant percentage of denied claims are
           overturned on appeal. Request the specific reason for the denial in writing, ask your doctor
           to provide a letter of medical necessity, and file a formal appeal within the timeframe
-          specified in your denial letter &mdash; typically 60 days for most plans.
+          specified in your denial letter. Under the Affordable Care Act, most non-grandfathered
+          plans must give you at least 180 days to file an internal appeal, but confirm the
+          deadline in your denial letter before relying on any specific number.
         </p>
       </CalloutBox>
 
@@ -120,6 +123,41 @@ export default function Content() {
         heading="Get Help With Your Medical Claim"
         description="Tell us about your medical insurance dispute and we'll help connect you with the right professional. No cost or obligation."
       />
+
+      <div className="mt-8 bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center">
+        <h3 className="text-lg font-bold text-[#1F3964] mb-2">
+          Need a Different Kind of Help?
+        </h3>
+        <p className="text-gray-600 text-sm mb-4">
+          Medical disputes vary widely. If you&apos;d prefer to go directly to a patient
+          advocate, a medical billing specialist, or a health-insurance attorney, we can
+          connect you with a trusted referral partner at no cost.
+        </p>
+        <ReferralButton
+          options={[
+            {
+              label: 'Patient Advocate',
+              href: '/contact',
+              description: "Navigate the insurer's appeal process, resolve denials, and handle communications.",
+            },
+            {
+              label: 'Medical Billing Specialist',
+              href: '/contact',
+              description: 'Review bills for errors, negotiate balances, reduce out-of-pocket costs.',
+            },
+            {
+              label: 'Health Insurance Attorney',
+              href: '/contact',
+              description: 'Bad-faith denials, ERISA plan disputes, or high-dollar coverage fights.',
+            },
+            {
+              label: 'California IMR / DMHC / CDI',
+              href: 'https://www.dmhc.ca.gov/FileaComplaint/IndependentMedicalReviewComplaintForms.aspx',
+              description: 'Free independent medical review — binding on the insurer. Start here if internal appeal failed.',
+            },
+          ]}
+        />
+      </div>
     </>
   )
 }

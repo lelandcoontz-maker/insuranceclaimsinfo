@@ -42,6 +42,68 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Damage on the Opposite (Back) Side of the Impact
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When a vehicle strikes a building, the energy does not stop at the impact wall. Force
+        transfers through framing, floor diaphragms, and roof structure into rooms and elevations
+        on the <strong>opposite side of the house</strong>. It is common to find cracked drywall,
+        separated trim, misaligned doors and windows, popped nails, and hairline foundation
+        cracks on the <em>back</em> of a structure that was struck from the front — damage the
+        adjuster never inspected because they only looked at the obvious impact zone. Walk the
+        entire perimeter and the full interior. Document everything that is out of plumb, out of
+        square, or newly separated.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Electrical and System Triggers After Vehicle Impact
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Vehicle impacts can cause sudden mechanical jolts that damage systems inside the building
+        — even systems far from the impact point. Common hidden issues include:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Electrical arc-fault and short-circuit damage.</strong> The jolt can shift
+          wiring behind drywall and cause arcing or hidden short circuits. Check for tripped
+          breakers, intermittent outlets, or burn marks.
+        </li>
+        <li>
+          <strong>GFCI/AFCI device trips.</strong> Breakers or outlets that trip repeatedly after
+          the event may signal a damaged circuit behind the wall.
+        </li>
+        <li>
+          <strong>HVAC and appliance triggers.</strong> Connected appliances, furnaces, and
+          compressors can suffer internal damage from the impact-induced power surge or mechanical
+          shock. Do not assume equipment is fine because it turns on.
+        </li>
+        <li>
+          <strong>Plumbing leaks.</strong> Rigid plumbing lines can develop pinhole leaks at
+          joints after an impact — sometimes not apparent for days or weeks.
+        </li>
+        <li>
+          <strong>Fire-sprinkler systems.</strong> Impact can misalign piping or damage heads,
+          creating slow leaks or future-failure risk.
+        </li>
+      </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Law &amp; Ordinance Coverage on Vehicle-Impact Claims
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When a repair requires opening framing, disturbing electrical, or modifying structural
+        components, the building department may require that the affected portions be brought up
+        to current code. This triggers your{' '}
+        <Link href="/resources/ordinance-law" className="text-blue-700 underline hover:text-blue-900">
+          Law and Ordinance (L&amp;O) coverage
+        </Link>
+        . Vehicle-impact claims routinely implicate code upgrades — to electrical, framing
+        connections (hardware, hurricane straps, shear panels), insulation, fire-rating, and
+        egress requirements. Do not let the carrier estimate the job as if no code upgrades apply.
+        If a permit and inspection are involved, L&amp;O is usually on the table.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Hidden Framing and Foundation Damage
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

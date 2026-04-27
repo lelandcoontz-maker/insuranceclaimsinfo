@@ -203,6 +203,30 @@ export default function Content() {
         you exhaust negotiation first, though in practice most appraisals are invoked after
         negotiations have stalled.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Put the demand in writing, reference the specific policy provision authorizing appraisal,
+        state the items in dispute, identify your appraiser, and serve it on the other side in a
+        way you can prove (email with read receipt, certified mail, or a carrier-portal upload
+        that timestamps the submission). California courts treat the written demand as the
+        effective invocation, so preserve a clean record of what was demanded and when.
+      </p>
+
+      <CalloutBox variant="important" title="Tolling: Appraisal Generally Pauses the Suit-Limitation Clock">
+        <p>
+          California Insurance Code &sect; 2071 &mdash; the Standard Fire Policy &mdash; contains
+          a 12-month suit-limitation clause that requires the insured to file suit within 12
+          months of &ldquo;inception of the loss.&rdquo; Invoking appraisal typically{' '}
+          <strong>tolls</strong> that 12-month clock during the pendency of the appraisal
+          proceeding, because the insured cannot simultaneously be required to litigate and
+          to complete an appraisal the policy authorizes. California courts have applied an
+          equitable tolling analysis in this context (see, e.g., <em>Prudential-LMI Commercial
+          Ins. v. Superior Court</em> (1990) 51 Cal.3d 674, and progeny addressing the
+          interplay between appraisal and the suit limitation period). This is not legal
+          advice &mdash; deadline analysis is fact-specific and tolling has limits. If you are
+          approaching the one-year mark, consult an attorney immediately; only an attorney can
+          tell you whether filing a protective lawsuit is necessary in your particular case.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         Step 2: Selecting Appraisers (20 Days)
@@ -275,13 +299,44 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Step 5: The Award
+        Step 5: The Award (the &ldquo;Memorandum of Appraisal&rdquo;)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The panel issues a written award. An agreement between any two of the three — both
-        appraisers or one appraiser and the umpire — sets the amount of loss. In California,
-        the award is treated as an arbitration award and can be confirmed by a court, becoming
-        an enforceable judgment.
+        The panel issues a written award &mdash; sometimes titled &ldquo;Appraisal Award,&rdquo;
+        sometimes &ldquo;Memorandum of Appraisal,&rdquo; sometimes &ldquo;Award of Appraisers and
+        Umpire.&rdquo; An agreement between any two of the three &mdash; both appraisers or one
+        appraiser and the umpire &mdash; sets the amount of loss. In California, the award is
+        treated as an arbitration award and can be confirmed by a court, becoming an enforceable
+        judgment.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A well-drafted memorandum should clearly state:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          The parties, the policy number, the date of loss, and the property or items submitted.
+        </li>
+        <li>
+          The <strong>Replacement Cost Value (RCV)</strong> determined by the panel, if the policy
+          pays on an RCV basis, and the <strong>Actual Cash Value (ACV)</strong> determined by the
+          panel &mdash; listed separately, not as a single blended number.
+        </li>
+        <li>
+          A clear separation of <strong>dwelling / structure</strong>, <strong>other
+          structures</strong>, <strong>contents / personal property</strong>, and <strong>ALE /
+          Loss of Use</strong> if submitted &mdash; each with its own line.
+        </li>
+        <li>
+          Which panel members signed, and an express statement that the award does not decide
+          coverage, causation, or any question of law &mdash; to avoid the kind of ultra vires
+          problem discussed in <em>Kirkwood</em> and <em>Lee</em> below.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A vague award &mdash; &ldquo;$X total&rdquo; with no breakdown &mdash; invites downstream
+        disputes over how the carrier should apply deductibles, sublimits, coinsurance, and the
+        RCV holdback. Insist that the memorandum itemize the categories the policy actually
+        reimburses separately.
       </p>
 
       {/* ====== SCOPE & LIMITATIONS ====== */}
@@ -572,6 +627,13 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The &ldquo;White Waiver&rdquo;: California&apos;s Unique Insurance Waiver
       </h2>
+      <p className="text-gray-700 leading-relaxed mb-4 italic text-sm">
+        For a focused, standalone walkthrough of this topic, see our{' '}
+        <Link href="/resources/white-waiver" className="text-[#2E74B5] underline">
+          dedicated White Waiver article
+        </Link>
+        . The summary below is included for readers working through the appraisal guide in order.
+      </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The &ldquo;White waiver&rdquo; is a legal concept unique to California insurance claims.
         It has nothing to do with the Sharma waiver or the scope of appraiser authority. It is

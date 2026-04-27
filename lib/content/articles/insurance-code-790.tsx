@@ -445,10 +445,24 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          The conduct prohibited by 790.03(h) <strong>is</strong> the conduct that constitutes bad
+          The conduct prohibited by 790.03(h) is often the same conduct that constitutes bad
           faith under <em>Egan v. Mutual of Omaha</em> (1979) and <em>Gruenberg v. Aetna Insurance
-          Co.</em> (1973). When an insurer violates 790.03(h), that violation is powerful evidence
-          that the insurer breached the implied covenant of good faith and fair dealing.
+          Co.</em> (1973). When an insurer violates 790.03(h), that violation <strong>may serve as
+          powerful evidence</strong> that the insurer breached the implied covenant of good faith
+          and fair dealing — though a statutory or regulatory violation alone does not automatically
+          equate to bad faith, and bad faith can exist even without a statutory or regulatory violation.
+          See our{' '}
+          <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith guide</Link>{' '}
+          for a full discussion of this nuance.
+        </li>
+        <li>
+          It is sometimes possible, in lawsuits filed by insureds against their carriers, to prove
+          that an insurance company had a <strong>pattern and practice</strong> of mistreating
+          numerous homeowners in the same way. The <em>Colonial</em> case in California illustrates
+          how plaintiff attorneys can demand this kind of discovery to show that the insurer&apos;s
+          conduct toward the policyholder was not an isolated incident but part of a company-wide
+          pattern. This is not legal advice — consult an attorney about whether such discovery is
+          appropriate in your case.
         </li>
         <li>
           The 790 letter documents violations of the exact same standards that courts use to evaluate

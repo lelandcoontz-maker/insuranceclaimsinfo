@@ -71,12 +71,62 @@ export default function Content() {
         Extra Expense Coverage
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Many policies also include extra expense coverage, which pays for costs above your normal
-        operating expenses that are necessary to continue operations or minimize the suspension of
-        business. This can include renting temporary space, expediting repairs, or outsourcing
-        production. Properly documenting and claiming these expenses is essential &mdash; they are
-        frequently overlooked or undervalued.
+        Many commercial policies include <strong>extra expense</strong> coverage — distinct from
+        business income. Extra expense pays for costs <strong>above and beyond</strong> your
+        normal operating expenses that are incurred to continue operations, minimize the
+        suspension of business, or avoid a shutdown altogether. Extra expense coverage is often
+        the difference between a business that survives a covered loss and one that does not.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Common examples of extra expense include:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Temporary relocation.</strong> Rent and utilities on a temporary workspace, plus
+          moving and setup costs, while your primary location is restored.
+        </li>
+        <li>
+          <strong>Expedited repairs.</strong> Overtime labor, rush-shipping for parts and
+          materials, and premium charges for faster turnaround.
+        </li>
+        <li>
+          <strong>Temporary equipment.</strong> Rental of machinery, vehicles, POS systems, or
+          computers to bridge the gap until your damaged equipment is replaced.
+        </li>
+        <li>
+          <strong>Outsourcing and subcontracting.</strong> Paying a third party to fulfill orders
+          or perform work you cannot perform in-house during the restoration period.
+        </li>
+        <li>
+          <strong>Data and system restoration.</strong> Costs to restore corrupted data, reload
+          software, or rebuild customer records in excess of ordinary IT expense.
+        </li>
+        <li>
+          <strong>Additional payroll.</strong> Overtime or temporary staffing incurred to keep
+          the business running that would not have been incurred but for the loss.
+        </li>
+        <li>
+          <strong>Marketing to reclaim customers.</strong> Extra advertising, promotions, or
+          direct-outreach costs to alert customers of the temporary location or reopening.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Not every extra expense is automatically covered — most policies require that the expense
+        be <em>necessary</em> and <em>reasonable</em>, and that it either reduce the business
+        interruption loss or allow the business to continue operating. Keep meticulous records:
+        receipts, invoices, time sheets, rental contracts, vendor agreements, and a brief written
+        explanation of <em>why</em> each cost was incurred. Claims for extra expense are
+        frequently underpaid simply because the documentation was never pulled together.
+      </p>
+
+      <CalloutBox variant="tip" title="Extra Expense vs. Business Income — Don&apos;t Mix Them Up">
+        <p>
+          Extra expense and business income are <strong>separate coverages</strong> with separate
+          limits. A well-built claim itemizes each cost against the coverage it belongs under.
+          Lumping everything into &ldquo;business interruption&rdquo; can blow past one limit
+          while leaving money unused on the other.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Common Disputes in Business Interruption Claims
@@ -106,12 +156,12 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A licensed Public Adjuster works exclusively for the policyholder &mdash; not the insurance
-        company. For business interruption claims, a Public Adjuster will prepare the claim using the
-        correct insurance industry formula, document all continuing expenses and extra expenses,
-        establish the proper period of restoration, and negotiate directly with the insurer to
-        maximize your recovery. Because these claims involve complex financial calculations and
-        policy-specific language, professional representation can make a significant difference in
-        the final settlement.
+        company. For business interruption claims, a Public Adjuster can prepare the claim using
+        the correct insurance industry formula, document continuing expenses and extra expenses,
+        establish a proper period of restoration, and negotiate directly with the insurer on your
+        behalf. Because these claims involve complex financial calculations and policy-specific
+        language, professional representation can make a significant difference in the final
+        settlement.
       </p>
 
       <LeadCaptureForm

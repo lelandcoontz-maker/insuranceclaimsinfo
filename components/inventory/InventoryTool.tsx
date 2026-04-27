@@ -95,6 +95,7 @@ function CategorySection({ categoryId, name, items, state, onToggle, onDetail, o
   const [expanded, setExpanded] = useState(true)
   const ids = items.map(i => i.id)
   const checkedCount = ids.filter(id => state.checked.has(id)).length
+  const panelId = `cat-panel-${categoryId}`
 
   return (
     <div className="border border-gray-200 rounded-lg overflow-hidden">
@@ -102,7 +103,9 @@ function CategorySection({ categoryId, name, items, state, onToggle, onDetail, o
       <div className="flex items-center bg-[#EFF4FB] px-4 py-3">
         <button
           onClick={() => setExpanded(e => !e)}
-          className="flex-1 flex items-center gap-2 text-left"
+          aria-expanded={expanded}
+          aria-controls={panelId}
+          className="flex-1 flex items-center gap-2 text-left focus:outline-none focus:ring-2 focus:ring-[#1F3964] rounded"
         >
           <span className="font-semibold text-[#1F3964] text-sm">{name}</span>
           <span className="text-xs text-gray-400">({items.length} items)</span>
@@ -116,22 +119,23 @@ function CategorySection({ categoryId, name, items, state, onToggle, onDetail, o
           {/* Check/uncheck all */}
           <button
             onClick={() => checkedCount === items.length ? onUncheckAll(ids) : onCheckAll(ids)}
-            className="text-xs text-[#2E74B5] hover:underline px-2 py-0.5 hidden sm:block"
+            className="text-xs text-[#2E74B5] hover:underline px-2 py-0.5 hidden sm:block focus:outline-none focus:ring-2 focus:ring-[#2E74B5] rounded"
           >
             {checkedCount === items.length ? 'Uncheck all' : 'Check all'}
           </button>
           <button
             onClick={() => setExpanded(e => !e)}
-            className="text-gray-400 w-5 text-center"
-            aria-label={expanded ? 'Collapse' : 'Expand'}
+            className="text-gray-400 w-5 text-center focus:outline-none focus:ring-2 focus:ring-[#1F3964] rounded"
+            aria-label={expanded ? `Collapse ${name}` : `Expand ${name}`}
+            aria-expanded={expanded}
           >
-            {expanded ? '▲' : '▼'}
+            <span aria-hidden="true">{expanded ? '▲' : '▼'}</span>
           </button>
         </div>
       </div>
       {/* Items */}
       {expanded && (
-        <div className="divide-y divide-gray-100">
+        <div id={panelId} role="region" aria-label={name} className="divide-y divide-gray-100">
           {items.map(item => (
             <ItemRow
               key={item.id}
@@ -226,8 +230,10 @@ export function InventoryTool({ rooms }: Props) {
 
           {/* Search */}
           <div className="relative flex-1 min-w-48 max-w-sm">
-            <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm">🔍</span>
+            <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm" aria-hidden="true">🔍</span>
+            <label htmlFor="inventory-search" className="sr-only">Search all items</label>
             <input
+              id="inventory-search"
               type="search"
               placeholder="Search all items..."
               value={searchQuery}
@@ -253,9 +259,9 @@ export function InventoryTool({ rooms }: Props) {
           <button
             onClick={handleDownload}
             disabled={totalChecked === 0}
-            className="ml-auto flex-shrink-0 bg-[#C9A84C] hover:bg-[#A8872E] disabled:opacity-40 text-white font-semibold px-5 py-2 rounded-lg text-sm transition-colors flex items-center gap-1.5"
+            className="ml-auto flex-shrink-0 bg-[#C9A84C] hover:bg-[#A8872E] disabled:opacity-40 text-white font-semibold px-5 py-2 rounded-lg text-sm transition-colors flex items-center gap-1.5 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C]"
           >
-            📥 Download Excel
+            <span aria-hidden="true">📥</span> Download Excel
           </button>
         </div>
       </div>
@@ -266,8 +272,8 @@ export function InventoryTool({ rooms }: Props) {
         {/* Sidebar: room navigation */}
         <aside className="w-52 flex-shrink-0 hidden lg:block">
           <div className="sticky top-32">
-            <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2 px-2">Rooms</p>
-            <nav className="space-y-0.5">
+            <p id="rooms-heading" className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2 px-2">Rooms</p>
+            <nav aria-labelledby="rooms-heading" className="space-y-0.5">
               {rooms.map(room => {
                 const n = roomCheckedCounts[room.id] ?? 0
                 const active = room.id === activeRoomId && !searchQuery
@@ -275,7 +281,7 @@ export function InventoryTool({ rooms }: Props) {
                   <button
                     key={room.id}
                     onClick={() => { setActiveRoomId(room.id); setSearchQuery('') }}
-                    className={`w-full text-left px-3 py-2 rounded-lg text-sm flex items-center justify-between transition-colors ${
+                    className={`w-full text-left px-3 py-2 rounded-lg text-sm flex items-center justify-between transition-colors focus:outline-none focus:ring-2 focus:ring-[#1F3964] ${
                       active ? 'bg-[#1F3964] text-white' : 'text-gray-700 hover:bg-gray-100'
                     }`}
                   >
@@ -295,7 +301,7 @@ export function InventoryTool({ rooms }: Props) {
         </aside>
 
         {/* Mobile: horizontal room scroll */}
-        <div className="lg:hidden -mx-4 px-4 mb-4 overflow-x-auto flex gap-2 pb-2 w-full" style={{ scrollbarWidth: 'none' }}>
+        <div className="lg:hidden -mx-4 px-4 mb-4 overflow-x-auto flex gap-2 pb-2 w-full" role="tablist" aria-label="Rooms" style={{ scrollbarWidth: 'none' }}>
           {rooms.map(room => {
             const n = roomCheckedCounts[room.id] ?? 0
             const active = room.id === activeRoomId && !searchQuery
@@ -303,7 +309,9 @@ export function InventoryTool({ rooms }: Props) {
               <button
                 key={room.id}
                 onClick={() => { setActiveRoomId(room.id); setSearchQuery('') }}
-                className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
+                role="tab"
+                aria-selected={active}
+                className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-[#1F3964] ${
                   active ? 'bg-[#1F3964] text-white' : 'bg-white border border-gray-200 text-gray-700'
                 }`}
               >

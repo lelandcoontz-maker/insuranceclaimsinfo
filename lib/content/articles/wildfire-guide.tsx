@@ -92,6 +92,14 @@ export default function Content() {
           <strong>Arsenic</strong> from treated wood and industrial materials
         </li>
         <li>
+          <strong>Beryllium</strong> from burned electronics, aerospace components, fluorescent
+          tube phosphors, and certain alloys — extremely toxic when inhaled
+        </li>
+        <li>
+          <strong>Lead</strong> from pre-1978 paint, older plumbing solder, and some ceramics;
+          lead dust can embed in soft goods, HVAC components, and porous surfaces
+        </li>
+        <li>
           <strong>Mercury</strong> from fluorescent lighting, electronics, and thermostats
         </li>
         <li>

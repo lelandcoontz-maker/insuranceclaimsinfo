@@ -166,6 +166,47 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Alif v. California FAIR Plan (2025): Smoke-Damage Limitations Struck Down
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For years, the FAIR Plan&apos;s policy form limited smoke-damage coverage to damage that
+        caused a &ldquo;permanent physical change&rdquo; that was visible to the unaided eye. On
+        that theory, the FAIR Plan routinely denied or minimized smoke claims — even when
+        independent testing confirmed real contamination — because an adjuster could not see soot
+        on a wall. In <em>Alif v. California FAIR Plan Association</em> (2025), a California court
+        held that this restrictive language was narrower than the coverage required by{' '}
+        <strong>California Insurance Code &sect; 2070</strong>, the Standard Fire Policy statute
+        that sets the floor for fire-insurance coverage in this state. An insurer can write broader
+        coverage than &sect; 2070 requires — but it cannot write narrower coverage. Following{' '}
+        <em>Alif</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What this means for FAIR Plan policyholders with smoke-damage claims:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          The &ldquo;visible, permanent change&rdquo; hurdle is gone. Smoke, soot, and ash
+          contamination is direct physical damage whether or not an adjuster can see it.
+        </li>
+        <li>
+          Claims that were previously denied or closed on the old language may be eligible to be
+          reopened or supplemented. See our guide to{' '}
+          <Link href="/resources/supplemental-claims" className="text-[#2E74B5] hover:underline">
+            supplemental claims
+          </Link>.
+        </li>
+        <li>
+          The ruling&apos;s rationale — that policy language can&apos;t dip below &sect; 2070 — is
+          not limited to the FAIR Plan. Any California admitted carrier that uses similar narrowing
+          language on smoke claims is exposed to the same legal challenge.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-6 italic">
+        This summary is general information, not legal advice. Only a licensed California attorney
+        can advise you on whether <em>Alif</em> applies to your specific policy and claim.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Common Problems With FAIR Plan Claims
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

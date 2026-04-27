@@ -165,7 +165,7 @@ export default function RegulationsPage() {
             </p>
             <p>
               These regulations are enforced by the California Department of Insurance (CDI). When
-              you file a CDI complaint, the investigator checks your insurer's conduct against
+              you file a CDI complaint, the investigator may check your insurer's conduct against
               these specific sections. Knowing these rules lets you cite the exact regulation your
               insurer violated — which is far more powerful than a general complaint that they were
               "unfair."
@@ -253,21 +253,53 @@ export default function RegulationsPage() {
             repairs.
           </p>
           <p className="mb-2">
-            Here is how it works: if your insurer writes an estimate for $60,000 and you get bids
-            from three licensed contractors for $95,000 or more, you can send a written request
-            demanding the insurer provide the name, address, and phone number of a licensed,
-            reputable contractor who will actually perform the repairs for $60,000.
+            Here is how it works: <strong>you do not need to obtain your own bids.</strong> Even
+            without any competing estimates, you can send a written request demanding the insurer
+            provide the name, address, and phone number of a licensed, reputable contractor who
+            will actually perform the repairs for the amount of the insurer's estimate. The
+            insurer's own number triggers the requirement.
           </p>
           <p className="mb-2">
-            In most cases, <strong>they cannot</strong>. And once they admit they cannot find a
-            contractor to do the work for their number, their own estimate collapses. This shifts
-            the burden of proof and is one of the fastest ways to force an insurer to increase their
-            settlement.
+            In most cases, <strong>they cannot</strong> produce a contractor who will do the work
+            for their number. And once they admit they cannot, their own estimate collapses. This
+            shifts the burden of proof and is one of the fastest ways to force an insurer to
+            increase their settlement.
+          </p>
+          <p className="mb-2">
+            Insurance companies frequently try to satisfy this requirement by pointing you to a
+            <strong> contractor referral service</strong> or managed repair network. That does{' '}
+            <strong>not</strong> meet the letter of the regulation. The rule requires the name of
+            an <em>actual licensed contractor</em> who will perform the repairs for the insurer's
+            estimated amount — not a referral service, not a list of vendors, not a program. If
+            they give you anything other than a real contractor who will stand behind the price,
+            that is not compliance.
           </p>
           <p>
             Put the request in writing, cite the regulation by number, and keep the response (or
             lack of response) in your file. If they ignore the request, that is a separate
             regulatory violation under §2695.5(e).
+          </p>
+        </CalloutBox>
+
+        {/* ───────── Alif v. FAIR Plan callout ───────── */}
+        <CalloutBox variant="legal" title="Alif v. California FAIR Plan (2025) — Smoke-Damage Limitations Struck Down">
+          <p className="mb-2">
+            In <em>Alif v. California FAIR Plan Association</em> (2025), a California court
+            invalidated FAIR Plan policy language that limited smoke-damage coverage to damage
+            involving a &ldquo;permanent physical change&rdquo; visible to the unaided eye. The
+            court held that the restrictive language was narrower than the coverage required by{' '}
+            <strong>California Insurance Code &sect; 2070</strong>, the Standard Fire Policy
+            statute that sets the minimum coverage floor for fire insurance in this state.
+          </p>
+          <p className="mb-2">
+            Following <em>Alif</em>, the FAIR Plan agreed to strike much of the offending language.
+            The ruling is not limited to the FAIR Plan — any admitted California carrier that uses
+            similar narrowing language on smoke claims is exposed to the same challenge, because
+            &sect; 2070 applies to all fire policies sold in California.
+          </p>
+          <p className="text-sm italic">
+            This is general information, not legal advice. Only a licensed California attorney can
+            advise you on whether <em>Alif</em> applies to your specific policy and claim.
           </p>
         </CalloutBox>
 

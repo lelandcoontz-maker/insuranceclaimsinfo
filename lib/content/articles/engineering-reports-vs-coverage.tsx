@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When Engineering Reports Cross the Line: Why Physical Findings Don&#39;t Determine Coverage',
+  title: 'When Engineering Reports Cross the Line: Why Physical Findings Don&apos;t Determine Coverage',
   description:
-    'Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it&#39;s covered. Learn the difference between engineering causation and legal causation under California law.',
+    'Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it&apos;s covered. Learn the difference between engineering causation and legal causation under California law.',
 }
 
 export default function Content() {

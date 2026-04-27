@@ -100,18 +100,19 @@ export default function HomePage() {
           </h1>
           <p className="text-xl text-blue-200 max-w-2xl mx-auto mb-10 leading-relaxed">
             Free tools, plain-English guides, and licensed professional help for California
-            homeowners navigating insurance claims after fire, flood, or disaster.
+            homeowners navigating insurance claims after fire, vandalism, theft, smoke damage,
+            or other disaster.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/inventory" className="btn-gold text-base px-8 py-4">
-              Build My Property Inventory — Free
+              Build My Personal Property (Contents) Inventory — Free
             </Link>
             <Link href="/contact" className="btn-secondary border-white text-white hover:bg-white/10 text-base px-8 py-4">
               Talk to a Public Adjuster
             </Link>
           </div>
           <p className="text-blue-300 text-sm mt-6">
-            Leland Coontz III · CA Public Adjuster License #2B53445 · Serving all of California
+            Leland Coontz III · CA Public Adjuster License #2B53445 · Public Adjusting throughout California · Insurance Appraisal Services Nationwide
           </p>
         </div>
       </section>
@@ -121,7 +122,7 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto flex flex-wrap justify-center gap-x-10 gap-y-2 text-sm text-[#1F3964] font-medium">
           <span>✓ California Licensed Public Adjuster</span>
           <span>✓ No Recovery, No Fee</span>
-          <span>✓ 3,750+ Item Inventory Checklist — Free</span>
+          <span>✓ 3,750+ Personal Property Item Inventory Checklist — Free</span>
           <span>✓ Nationwide Referral Network</span>
           <span>✓ Fire · Flood · Wind · Smoke Damage</span>
         </div>
@@ -257,8 +258,8 @@ export default function HomePage() {
             <p className="text-blue-200 leading-relaxed mb-6">
               I'm Leland Coontz III, a licensed California Public Adjuster (Lic. #2B53445).
               Insurance companies have teams of adjusters, lawyers, and software working to minimize
-              your claim. A Public Adjuster works exclusively for you — reading your policy, documenting
-              your loss, and negotiating on your behalf.
+              and delay what they pay. A Public Adjuster works exclusively for you — reading your policy,
+              documenting your loss, and negotiating on your behalf.
             </p>
             <p className="text-blue-200 leading-relaxed mb-8">
               Most Public Adjusters work on contingency — no recovery, no fee. If I can't improve your

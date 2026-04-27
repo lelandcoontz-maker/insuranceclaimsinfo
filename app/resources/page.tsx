@@ -696,6 +696,14 @@ const CATEGORIES = [
         tagColor: 'bg-blue-100 text-blue-700',
       },
       {
+        icon: '✍️',
+        title: 'The White Waiver: California\'s Settlement-Privilege Waiver',
+        desc: 'What the White waiver is, why insurers ask you to sign one, and why signing too quickly can give up your most powerful bad-faith evidence.',
+        href: '/resources/white-waiver',
+        tag: 'California',
+        tagColor: 'bg-blue-100 text-blue-700',
+      },
+      {
         icon: '📁',
         title: 'Filing a CDI Complaint',
         desc: 'How to file a complaint with the California Department of Insurance — when to do it and how to write one that gets results.',
@@ -775,7 +783,7 @@ export default function ResourcesPage() {
           <p className="text-blue-200 max-w-2xl leading-relaxed">
             Plain-English guides written for California policyholders. No jargon,
             no paywalls. Everything you need to understand your policy, navigate
-            the claims process, and fight for what you&#39;re owed.
+            the claims process, and fight for what you&apos;re owed.
           </p>
         </div>
       </div>
@@ -897,7 +905,7 @@ export default function ResourcesPage() {
           </h2>
           <p className="text-blue-200 mb-6">
             Every claim is different. If your insurer is giving you trouble, a
-            licensed Public Adjuster can review your file, identify what&#39;s being
+            licensed Public Adjuster can review your file, identify what&apos;s being
             underpaid, and represent you in negotiations.
           </p>
           <Link href="/contact" className="btn-gold">

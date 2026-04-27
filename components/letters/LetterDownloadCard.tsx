@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useId } from 'react'
 
 interface Props {
   id: string
@@ -18,6 +18,9 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
   const [wantsReview, setWantsReview] = useState(false)
   const [error, setError] = useState('')
   const [submitting, setSubmitting] = useState(false)
+  const uid = useId()
+  const modalTitleId = `${uid}-modal-title`
+  const previewId = `${uid}-preview`
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
@@ -75,14 +78,16 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
         <div className="flex gap-2">
           <button
             onClick={() => setShowPreview(p => !p)}
-            className="text-sm font-medium text-[#2E74B5] hover:text-[#1F3964] transition-colors"
+            aria-expanded={showPreview}
+            aria-controls={previewId}
+            className="text-sm font-medium text-[#2E74B5] hover:text-[#1F3964] transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#2E74B5] rounded"
           >
             {showPreview ? 'Hide Preview' : 'Preview Letter'}
           </button>
-          <span className="text-gray-300">|</span>
+          <span className="text-gray-300" aria-hidden="true">|</span>
           <button
             onClick={() => setShowForm(true)}
-            className="text-sm font-semibold text-[#C9A84C] hover:text-[#A8872E] transition-colors"
+            className="text-sm font-semibold text-[#C9A84C] hover:text-[#A8872E] transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C] rounded"
           >
             Download Template
           </button>
@@ -91,7 +96,7 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
 
       {/* Preview */}
       {showPreview && (
-        <div className="border-t border-gray-100 bg-gray-50 p-5">
+        <div id={previewId} className="border-t border-gray-100 bg-gray-50 p-5" role="region" aria-label={`Preview of ${title}`}>
           <pre className="whitespace-pre-wrap text-xs text-gray-700 font-mono leading-relaxed max-h-96 overflow-y-auto">
             {letterContent}
           </pre>
@@ -100,17 +105,18 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
 
       {/* Email capture form */}
       {showForm && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm">
-          <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full">
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm" onClick={() => setShowForm(false)} onKeyDown={e => { if (e.key === 'Escape') setShowForm(false) }}>
+          <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full" role="dialog" aria-modal="true" aria-labelledby={modalTitleId} onClick={e => e.stopPropagation()}>
             <div className="bg-[#1F3964] rounded-t-2xl px-6 py-5 text-white">
               <div className="flex justify-between items-start">
                 <div>
-                  <h2 className="text-lg font-bold mb-1">Download Template Letter</h2>
-                  <p className="text-blue-200 text-sm leading-relaxed">{title}</p>
+                  <h2 id={modalTitleId} className="text-lg font-bold mb-1">Download Template Letter</h2>
+                  <p className="text-blue-100 text-sm leading-relaxed">{title}</p>
                 </div>
                 <button
                   onClick={() => setShowForm(false)}
-                  className="text-blue-300 hover:text-white text-xl leading-none mt-0.5"
+                  className="text-blue-300 hover:text-white text-xl leading-none mt-0.5 focus:outline-none focus:ring-2 focus:ring-white rounded"
+                  aria-label="Close dialog"
                 >
                   &times;
                 </button>
@@ -118,27 +124,31 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
             </div>
             <form onSubmit={handleSubmit} className="p-6 space-y-4">
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">
-                  First Name <span className="text-red-500">*</span>
+                <label htmlFor={`${uid}-firstName`} className="block text-sm font-medium text-gray-700 mb-1">
+                  First Name <span className="text-red-500" aria-hidden="true">*</span>
                 </label>
                 <input
+                  id={`${uid}-firstName`}
                   type="text"
                   value={firstName}
                   onChange={e => setFirstName(e.target.value)}
                   placeholder="e.g. John"
                   autoFocus
+                  aria-required="true"
                   className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964]"
                 />
               </div>
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Email Address <span className="text-red-500">*</span>
+                <label htmlFor={`${uid}-email`} className="block text-sm font-medium text-gray-700 mb-1">
+                  Email Address <span className="text-red-500" aria-hidden="true">*</span>
                 </label>
                 <input
+                  id={`${uid}-email`}
                   type="email"
                   value={email}
                   onChange={e => setEmail(e.target.value)}
                   placeholder="you@example.com"
+                  aria-required="true"
                   className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964]"
                 />
               </div>
@@ -155,12 +165,12 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
                 </span>
               </label>
               {error && (
-                <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2">{error}</p>
+                <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2" role="alert">{error}</p>
               )}
               <button
                 type="submit"
                 disabled={submitting}
-                className="w-full bg-[#C9A84C] hover:bg-[#A8872E] disabled:opacity-60 text-white font-semibold py-3 rounded-lg transition-colors text-sm"
+                className="w-full bg-[#C9A84C] hover:bg-[#A8872E] disabled:opacity-60 text-white font-semibold py-3 rounded-lg transition-colors text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C]"
               >
                 {submitting ? 'Preparing...' : 'Download Template Letter'}
               </button>

@@ -62,8 +62,14 @@ export default function Content() {
         <li>
           <strong>Health hazard contamination.</strong> Wildfire smoke is not ordinary wood smoke.
           Urban wildfire smoke contains burned plastics, electronics, building materials, vehicles,
-          chemicals, and other toxins. The health risk from residual contamination is significant,
-          particularly for children, elderly, and immunocompromised individuals.
+          chemicals, and other toxins — including <strong>silica, arsenic, beryllium, lead,
+          mercury, dioxins, and asbestos fibers</strong>, among other hazardous residues. The
+          health risk from residual contamination is significant, particularly for children,
+          elderly, and immunocompromised individuals. See our{' '}
+          <Link href="/resources/wildfire-guide" className="text-blue-700 underline hover:text-blue-900">
+            wildfire guide
+          </Link>{' '}
+          for a fuller discussion of urban wildfire contaminants.
         </li>
       </ul>
 
@@ -78,6 +84,19 @@ export default function Content() {
         when the contamination is not visible. This is a critical precedent for policyholders,
         because it dismantles the insurer&apos;s favorite argument: &ldquo;we don&apos;t see any
         damage.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        More recently, in <em>Alif v. California FAIR Plan Association</em> (2025), a California
+        court addressed the FAIR Plan&apos;s attempt to limit smoke-damage coverage to damage that
+        was &ldquo;permanent physical change&rdquo; visible to the unaided eye. The court held that
+        this restrictive policy language was more narrow than the coverage required by California
+        Insurance Code &sect; 2070 (the Standard Fire Policy) and therefore unenforceable. Following
+        <em> Alif</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language
+        that had been used to deny or minimize claims. The ruling has implications well beyond the
+        FAIR Plan — any admitted California carrier that tries to impose similar &ldquo;visible
+        damage&rdquo; limitations on smoke claims is on shaky legal ground. This is general
+        information, not legal advice; consult a licensed California attorney about how the case
+        applies to your specific policy and claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Wildfire smoke produces extraordinarily fine particulate matter. PM2.5 particles — those

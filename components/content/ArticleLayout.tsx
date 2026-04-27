@@ -36,7 +36,7 @@ export function ArticleLayout({ title, description, backLink, toc, children }: A
         {toc && toc.length > 0 ? (
           <div className="flex gap-10">
             {/* Sidebar TOC — desktop only */}
-            <nav className="hidden lg:block w-56 flex-shrink-0">
+            <nav aria-label="On this page" className="hidden lg:block w-56 flex-shrink-0">
               <div className="sticky top-24">
                 <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">On This Page</p>
                 <ul className="space-y-1.5 border-l border-gray-200 pl-3">

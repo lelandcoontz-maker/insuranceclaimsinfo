@@ -51,6 +51,39 @@ export default function Content() {
         shortcut that benefits them at the policyholder&rsquo;s expense.
       </p>
 
+      <h2 id="tax-vs-insurance" className="text-2xl font-bold text-[#1F3964] mb-4">
+        Tax Depreciation Is Not Insurance Depreciation
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One common source of confusion &mdash; especially on commercial and rental-property claims
+        &mdash; is the difference between <strong>tax depreciation</strong> and{' '}
+        <strong>insurance depreciation</strong>. They are not the same thing, and one does not
+        control the other.
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Tax depreciation</strong> is an accounting allocation for federal income tax
+          purposes, driven by IRS rules (the MACRS cost-recovery system for most business
+          property). It is based on a property&rsquo;s original cost basis and statutory recovery
+          periods &mdash; not on the property&rsquo;s physical condition. A fully depreciated
+          asset on the tax books may still be in perfect working order in the real world.
+        </li>
+        <li>
+          <strong>Insurance depreciation</strong> is a valuation concept for determining actual
+          cash value under the policy and California Insurance Code &sect; 2051. It is based on{' '}
+          <em>physical condition</em> at the time of loss, not on accounting books. An asset that
+          is fully depreciated on a tax return can still carry very little insurance depreciation
+          if it was well-maintained and fully functional.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Adjusters occasionally reach for a CPA-prepared depreciation schedule to support a large
+        deduction on a claim. That is not how ACV is supposed to be calculated under California
+        law. The policyholder&rsquo;s accountant may have very good reasons for the tax schedule
+        they chose, but those reasons do not bind the insurance valuation. The statutory standard
+        is physical depreciation based on condition &mdash; full stop.
+      </p>
+
       <h2 id="condition-not-age" className="text-2xl font-bold text-[#1F3964] mb-4">
         Rule #1: Depreciation Must Be Based on Condition, Not Age
       </h2>
@@ -372,6 +405,29 @@ export default function Content() {
         statutory minimum is 12 months from the date the ACV payment is made &mdash; but the
         policy may provide a longer period. If the policyholder misses the deadline or fails to
         submit adequate documentation, the holdback is forfeited.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Extensions of Time to Recover Depreciation
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California has expanded the time policyholders have to rebuild and collect the holdback,
+        particularly after declared disasters. Under &sect; 2051.5, the insurer must grant a
+        reasonable extension if the insured, acting in good faith and with reasonable diligence,
+        encounters a delay in rebuilding that is beyond the insured&rsquo;s control &mdash;
+        including delays caused by contractor shortages, permit backlogs, or community-wide
+        rebuilding efforts. For losses related to a state of emergency, California law generally
+        provides a minimum rebuild period of at least <strong>36 months</strong> (and, for some
+        disaster events, longer windows enacted by the Legislature). Mark the deadline in your
+        calendar, but also document every delay you encounter so you can justify an extension if
+        you need one.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If your insurer is refusing to grant a reasonable extension after a declared disaster,
+        this is not legal advice, but it is frequently worth consulting an attorney &mdash; the
+        extension statutes exist precisely because the Legislature recognized that 12 months is
+        not realistic in a major-loss environment. Only an attorney can advise you on whether
+        your facts support an extension claim under the statute as it applies to your loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For more details on the holdback recovery process, including the critical difference

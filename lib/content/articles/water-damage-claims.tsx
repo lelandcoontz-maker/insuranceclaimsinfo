@@ -63,6 +63,39 @@ export default function Content() {
         considered &quot;sudden&quot; from the policyholder&apos;s perspective.
       </p>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Dissimilar Metals: Why the Right Connector Matters
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A surprising number of plumbing failures that lead to water-damage claims trace back to
+        <strong> galvanic corrosion</strong> — the accelerated decay that happens when two
+        dissimilar metals (such as copper and cast iron, or copper and galvanized steel) are
+        connected directly and moisture or water is present. The reaction eats the metals from
+        the inside over time and eventually produces a pinhole or joint failure that looks
+        &ldquo;sudden&rdquo; but has actually been developing for months or years.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The correct installation uses a{' '}
+        <strong>dielectric union</strong> or a <strong>bronze connector</strong> between the two
+        dissimilar metals. The dielectric union physically separates the copper from the cast-iron
+        (or galvanized) pipe with a non-conductive gasket and sleeve, preventing the galvanic
+        reaction. Bronze fittings are more chemically compatible with copper and are commonly
+        used for the same purpose. Where a copper line meets a cast-iron drain, a copper line
+        meets galvanized supply piping, or a copper water heater nipple screws directly into a
+        galvanized tank fitting without a dielectric, the connection is vulnerable.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This matters for claims because the carrier will sometimes argue the failure is
+        &ldquo;wear and tear&rdquo; or caused by a maintenance defect excluded from coverage. A
+        qualified plumber or expert can often identify whether the failure occurred at an
+        improperly installed dissimilar-metals junction — information that bears directly on the
+        sudden-vs-gradual analysis and, in some cases, on whether the cost of repair extends to
+        correcting the original code-deficient installation under{' '}
+        <Link href="/resources/ordinance-law" className="text-blue-700 underline hover:text-blue-900">
+          law and ordinance coverage
+        </Link>.
+      </p>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Slab Leaks</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Slab leaks deserve special attention because they&apos;re extremely common in certain
@@ -111,6 +144,77 @@ export default function Content() {
           inspected and documented the damage.
         </li>
       </ol>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        IICRC S500: Categories and Classes of Water
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The industry standard for water-damage restoration in the United States is the{' '}
+        <strong>IICRC S500 Standard for Professional Water Damage Restoration</strong>. S500
+        classifies every water loss along two axes: the <strong>Category</strong> of the water
+        (how contaminated it is at the time of release) and the <strong>Class</strong> of the
+        loss (how much water has been absorbed and how difficult the drying process will be).
+        Both affect the proper scope of work — and, therefore, what should be in the estimate.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Category of Water (Contamination Level)</h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Category 1 — Clean water.</strong> Water from a sanitary source that poses no
+          substantial risk to humans (e.g., a broken supply line, a toilet tank with no waste, a
+          melting ice maker). Can become Category 2 or 3 with time and contact with contaminants.
+        </li>
+        <li>
+          <strong>Category 2 — &ldquo;Gray water.&rdquo;</strong> Water containing significant
+          contamination with the potential to cause discomfort or illness (e.g., dishwasher or
+          washing-machine discharge, a broken aquarium, toilet overflow with urine but no
+          feces). Often requires removal of porous materials that contacted the water.
+        </li>
+        <li>
+          <strong>Category 3 — &ldquo;Black water.&rdquo;</strong> Grossly contaminated water that
+          may contain pathogens, toxins, or harmful agents (e.g., sewage backup, toilet overflow
+          with feces, flood water from rivers or streams, stagnant standing water that has
+          supported microbial growth, and fire-sprinkler discharge). Porous materials in contact
+          with Category 3 water generally must be removed and discarded, not just dried. See our{' '}
+          <Link href="/resources/fire-sprinkler-water-contamination" className="text-blue-700 underline hover:text-blue-900">
+            fire-sprinkler contamination guide
+          </Link>{' '}
+          for the sprinkler-specific analysis.
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Class of Water (Extent and Drying Difficulty)</h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Class 1 — Least amount of water absorption.</strong> Small area affected,
+          minimal moisture absorbed by porous materials. Fastest drying; low evaporation load.
+        </li>
+        <li>
+          <strong>Class 2 — Significant amount of water absorption.</strong> Affects an entire
+          room, including carpet and cushion, with wicking up walls less than 24 inches. Moderate
+          evaporation load.
+        </li>
+        <li>
+          <strong>Class 3 — Greatest amount of water absorption.</strong> Water has come from
+          overhead — ceilings, walls, insulation, carpet, cushion, and subfloor are all saturated.
+          Highest evaporation load.
+        </li>
+        <li>
+          <strong>Class 4 — Specialty drying situations.</strong> Materials with very low
+          permeance/porosity (hardwood, plaster, concrete, stone, masonry, structural wood). These
+          materials require low-humidity specialty drying conditions and longer drying time.
+        </li>
+      </ul>
+
+      <CalloutBox variant="important" title="Category and Class Belong in the Estimate">
+        <p>
+          Category and Class are not academic labels. They drive the proper scope of demolition,
+          the drying protocol, the equipment needed, and the materials that must be replaced
+          rather than restored. A Category 3 or Class 3/4 loss scoped as a Category 1 / Class 1
+          job is almost always underpaid. If the carrier&apos;s estimate does not identify the
+          Category and Class, ask them to — and then compare their scope to what S500 requires.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Common Carrier Tactics on Water Claims</h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

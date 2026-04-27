@@ -58,47 +58,51 @@ export function GuideDownloadModal({ guideName, guideFile, onClose }: Props) {
   }
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm">
-      <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm" onClick={onClose} onKeyDown={e => { if (e.key === 'Escape') onClose() }}>
+      <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full" role="dialog" aria-modal="true" aria-labelledby="guide-modal-title" onClick={e => e.stopPropagation()}>
 
         {/* Header */}
         <div className="bg-[#1F3964] rounded-t-2xl px-6 py-5 text-white">
           <div className="flex justify-between items-start">
             <div>
-              <h2 className="text-xl font-bold mb-1">Get Your Free Guide</h2>
-              <p className="text-blue-200 text-sm leading-relaxed">
+              <h2 id="guide-modal-title" className="text-xl font-bold mb-1">Get Your Free Guide</h2>
+              <p className="text-blue-100 text-sm leading-relaxed">
                 {guideName}
               </p>
             </div>
-            <button onClick={onClose} className="text-blue-300 hover:text-white text-xl leading-none mt-0.5">&times;</button>
+            <button onClick={onClose} className="text-blue-300 hover:text-white text-xl leading-none mt-0.5 focus:outline-none focus:ring-2 focus:ring-white rounded" aria-label="Close dialog">&times;</button>
           </div>
         </div>
 
         {/* Form */}
         <form onSubmit={handleSubmit} className="p-6 space-y-4">
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">
-              First Name <span className="text-red-500">*</span>
+            <label htmlFor="guide-firstName" className="block text-sm font-medium text-gray-700 mb-1">
+              First Name <span className="text-red-500" aria-hidden="true">*</span>
             </label>
             <input
+              id="guide-firstName"
               ref={firstRef}
               type="text"
               value={firstName}
               onChange={e => setFirstName(e.target.value)}
               placeholder="e.g. John"
+              aria-required="true"
               className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964]"
             />
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">
-              Email Address <span className="text-red-500">*</span>
+            <label htmlFor="guide-email" className="block text-sm font-medium text-gray-700 mb-1">
+              Email Address <span className="text-red-500" aria-hidden="true">*</span>
             </label>
             <input
+              id="guide-email"
               type="email"
               value={email}
               onChange={e => setEmail(e.target.value)}
               placeholder="you@example.com"
+              aria-required="true"
               className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964]"
             />
           </div>
@@ -117,13 +121,13 @@ export function GuideDownloadModal({ guideName, guideFile, onClose }: Props) {
           </label>
 
           {error && (
-            <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2">{error}</p>
+            <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2" role="alert">{error}</p>
           )}
 
           <button
             type="submit"
             disabled={submitting}
-            className="w-full bg-[#C9A84C] hover:bg-[#A8872E] disabled:opacity-60 text-white font-semibold py-3 rounded-lg transition-colors text-sm"
+            className="w-full bg-[#C9A84C] hover:bg-[#A8872E] disabled:opacity-60 text-white font-semibold py-3 rounded-lg transition-colors text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C]"
           >
             {submitting ? 'Preparing download...' : 'Download Free Guide (PDF)'}
           </button>

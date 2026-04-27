@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'How and When to Invoke Appraisal in California: A Practitioner&#39;s Guide',
+  title: 'How and When to Invoke Appraisal in California: A Practitioner&apos;s Guide',
   description:
-    'A comprehensive practitioner&#39;s guide to California insurance appraisal — statutory basis, when to demand, panel roles, causation issues, post-award remedies, and what to do when the process goes wrong.',
+    'A comprehensive practitioner&apos;s guide to California insurance appraisal — statutory basis, when to demand, panel roles, causation issues, post-award remedies, and what to do when the process goes wrong.',
 }
 
 export default function Content() {

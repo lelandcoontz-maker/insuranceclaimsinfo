@@ -115,7 +115,7 @@ export default function TypesOfClaimsPage() {
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-2xl font-bold text-[#1F3964] mb-3">Not Sure About Your Claim?</h2>
           <p className="text-gray-600 mb-6">
-            Every loss is unique. Contact us for a free consultation and we&#39;ll help you
+            Every loss is unique. Contact us for a free consultation and we&apos;ll help you
             understand your coverage and options.
           </p>
           <Link href="/contact" className="btn-gold">

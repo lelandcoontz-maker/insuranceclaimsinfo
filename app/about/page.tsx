@@ -23,7 +23,7 @@ export default function AboutPage() {
             </p>
             <p className="text-blue-200 leading-relaxed max-w-xl">
               I built this site because I saw too many homeowners leave tens of thousands of dollars
-              on the table simply because they didn&#39;t know their rights or how to document their loss.
+              on the table simply because they didn&apos;t know their rights or how to document their loss.
               The tools and guides here are free — no catch.
             </p>
           </div>
@@ -39,10 +39,10 @@ export default function AboutPage() {
             <p>
               I have over <strong>20 years of experience</strong> handling disaster-related insurance claims
               across the United States and in two foreign countries. From wildfires in California to hurricanes
-              on the Gulf Coast, I&#39;ve worked on every major type of property loss — residential and commercial.
+              on the Gulf Coast, I&apos;ve worked on every major type of property loss — residential and commercial.
             </p>
             <p>
-              Over the course of my career, I&#39;ve handled <strong>many millions of dollars</strong> in
+              Over the course of my career, I&apos;ve handled <strong>many millions of dollars</strong> in
               insurance claims. I spent years working as an insurance adjuster before transitioning to the
               policyholder side as a licensed Public Adjuster — giving me a deep understanding of how
               insurance companies evaluate, document, and settle claims from the inside.
@@ -91,10 +91,10 @@ export default function AboutPage() {
             <p>
               In California, Public Adjusters are licensed and regulated by the California Department
               of Insurance. We work on a contingency fee basis — a percentage of your settlement. If
-              we don&#39;t improve your outcome, you owe nothing.
+              we don&apos;t improve your outcome, you owe nothing.
             </p>
             <p className="text-sm text-gray-500">
-              You can verify any Public Adjuster&#39;s license on the{' '}
+              You can verify any Public Adjuster&apos;s license on the{' '}
               <a
                 href="https://interactive.web.insurance.ca.gov/apex_extprd/f?p=102:5::::5::"
                 target="_blank"
@@ -138,7 +138,7 @@ export default function AboutPage() {
           <div className="bg-[#1F3964] text-white rounded-xl p-6">
             <h3 className="font-bold text-lg mb-3">California Claims</h3>
             <p className="text-blue-200 text-sm leading-relaxed">
-              I&#39;m licensed and active in California. I handle residential and commercial claims
+              I&apos;m licensed and active in California. I handle residential and commercial claims
               across the state, with particular expertise in wildfire-related losses (Palisades,
               Eaton, and other recent fires).
             </p>
@@ -179,7 +179,7 @@ export default function AboutPage() {
         <section className="bg-[#EFF4FB] rounded-2xl p-8 text-center">
           <h2 className="text-2xl font-bold text-[#1F3964] mb-3">Ready to Talk About Your Claim?</h2>
           <p className="text-gray-600 mb-6 max-w-md mx-auto">
-            Free consultation — no obligation. If I can&#39;t help, I&#39;ll point you to someone who can.
+            Free consultation — no obligation. If I can&apos;t help, I&apos;ll point you to someone who can.
           </p>
           <Link href="/contact" className="btn-primary">
             Request a Free Claim Review →

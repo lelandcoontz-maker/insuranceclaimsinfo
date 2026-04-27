@@ -106,7 +106,7 @@ export default function ContactPage() {
               { icon: '⏱', title: 'Response Time', desc: 'I respond to every inquiry within 1 business day, usually same day.' },
             ].map(item => (
               <div key={item.title} className="flex gap-3">
-                <span className="text-xl flex-shrink-0">{item.icon}</span>
+                <span className="text-xl flex-shrink-0" aria-hidden="true">{item.icon}</span>
                 <div>
                   <p className="font-semibold text-[#1F3964] text-sm">{item.title}</p>
                   <p className="text-gray-500 text-xs leading-relaxed">{item.desc}</p>
@@ -119,19 +119,22 @@ export default function ContactPage() {
           <form onSubmit={handleSubmit} className="lg:col-span-2 space-y-5">
             <div className="grid grid-cols-2 gap-4">
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">
-                  First Name <span className="text-red-500">*</span>
+                <label htmlFor="contact-firstName" className="block text-sm font-medium text-gray-700 mb-1">
+                  First Name <span className="text-red-500" aria-hidden="true">*</span>
                 </label>
                 <input
+                  id="contact-firstName"
                   type="text"
                   value={form.firstName}
                   onChange={e => update('firstName', e.target.value)}
+                  aria-required="true"
                   className="w-full border rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964]"
                 />
               </div>
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Last Name</label>
+                <label htmlFor="contact-lastName" className="block text-sm font-medium text-gray-700 mb-1">Last Name</label>
                 <input
+                  id="contact-lastName"
                   type="text"
                   value={form.lastName}
                   onChange={e => update('lastName', e.target.value)}
@@ -142,19 +145,22 @@ export default function ContactPage() {
 
             <div className="grid grid-cols-2 gap-4">
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Email <span className="text-red-500">*</span>
+                <label htmlFor="contact-email" className="block text-sm font-medium text-gray-700 mb-1">
+                  Email <span className="text-red-500" aria-hidden="true">*</span>
                 </label>
                 <input
+                  id="contact-email"
                   type="email"
                   value={form.email}
                   onChange={e => update('email', e.target.value)}
+                  aria-required="true"
                   className="w-full border rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964]"
                 />
               </div>
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Phone</label>
+                <label htmlFor="contact-phone" className="block text-sm font-medium text-gray-700 mb-1">Phone</label>
                 <input
+                  id="contact-phone"
                   type="tel"
                   value={form.phone}
                   onChange={e => update('phone', e.target.value)}
@@ -165,8 +171,9 @@ export default function ContactPage() {
 
             <div className="grid grid-cols-2 gap-4">
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">State (claim location)</label>
+                <label htmlFor="contact-state" className="block text-sm font-medium text-gray-700 mb-1">State (claim location)</label>
                 <select
+                  id="contact-state"
                   value={form.state}
                   onChange={e => update('state', e.target.value)}
                   className="w-full border rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964] bg-white"
@@ -176,8 +183,9 @@ export default function ContactPage() {
                 </select>
               </div>
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Type of Claim</label>
+                <label htmlFor="contact-claimType" className="block text-sm font-medium text-gray-700 mb-1">Type of Claim</label>
                 <select
+                  id="contact-claimType"
                   value={form.claimType}
                   onChange={e => update('claimType', e.target.value)}
                   className="w-full border rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964] bg-white"
@@ -189,8 +197,9 @@ export default function ContactPage() {
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">Property Address (loss location)</label>
+              <label htmlFor="contact-address" className="block text-sm font-medium text-gray-700 mb-1">Property Address (loss location)</label>
               <input
+                id="contact-address"
                 type="text"
                 value={form.propertyAddress}
                 onChange={e => update('propertyAddress', e.target.value)}
@@ -200,8 +209,9 @@ export default function ContactPage() {
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">Tell us about your situation</label>
+              <label htmlFor="contact-message" className="block text-sm font-medium text-gray-700 mb-1">Tell us about your situation</label>
               <textarea
+                id="contact-message"
                 value={form.message}
                 onChange={e => update('message', e.target.value)}
                 rows={4}
@@ -211,12 +221,12 @@ export default function ContactPage() {
             </div>
 
             {error && (
-              <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2">{error}</p>
+              <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2" role="alert">{error}</p>
             )}
 
             <button
               type="submit"
-              className="w-full bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold py-3 rounded-lg transition-colors"
+              className="w-full bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold py-3 rounded-lg transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C]"
             >
               Submit — Request Free Claim Review
             </button>

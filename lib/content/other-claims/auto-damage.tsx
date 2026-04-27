@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 import { LeadCaptureForm } from '@/components/content/LeadCaptureForm'
+import { ReferralButton } from '@/components/content/ReferralButton'
 
 export const meta = {
   title: 'Auto Physical Damage Claims: Vehicle Damage Insurance Guide',
@@ -100,11 +101,11 @@ export default function Content() {
         How a Public Adjuster Helps
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A licensed Public Adjuster can represent you in auto physical damage claims by reviewing the
-        insurer&apos;s damage estimate and valuation, documenting all damage including supplemental
-        and hidden damage, challenging low total loss valuations with comparable market data, pursuing
-        diminished value claims when applicable, and negotiating with the insurance company to ensure
-        a fair settlement. Whether your vehicle was damaged in a collision, by hail, or through
+        A licensed Public Adjuster can represent you in auto physical damage claims by reviewing
+        the insurer&apos;s damage estimate and valuation, documenting damage including supplemental
+        and hidden damage, challenging low total-loss valuations with comparable market data,
+        pursuing diminished value claims where available, and negotiating with the insurance
+        company on your behalf. Whether your vehicle was damaged in a collision, by hail, or through
         vandalism, having professional representation levels the playing field with the insurer.
       </p>
 
@@ -113,6 +114,41 @@ export default function Content() {
         heading="Get Help With Your Auto Damage Claim"
         description="Tell us about your vehicle damage and we'll review your claim. Free consultation, no obligation."
       />
+
+      <div className="mt-8 bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center">
+        <h3 className="text-lg font-bold text-[#1F3964] mb-2">
+          Need a Different Kind of Help?
+        </h3>
+        <p className="text-gray-600 text-sm mb-4">
+          Auto claims often involve more than vehicle damage. If you also need bodily-injury
+          representation, workers&rsquo; comp help, or other specialized assistance, we can
+          connect you with a trusted referral partner at no cost.
+        </p>
+        <ReferralButton
+          options={[
+            {
+              label: 'Personal Injury Attorney',
+              href: '/other-claims/personal-injury',
+              description: 'If you were injured in the accident — bodily injury, medical bills, lost wages.',
+            },
+            {
+              label: "Workers' Comp Attorney",
+              href: '/other-claims/workers-comp',
+              description: 'If the accident happened on the job.',
+            },
+            {
+              label: 'Medical Billing Dispute',
+              href: '/other-claims/medical',
+              description: 'Insurance denied a medically necessary procedure, test, or specialist.',
+            },
+            {
+              label: 'Property / Homeowner Claim',
+              href: '/contact',
+              description: 'Fire, water, smoke, vandalism, or other property damage to your home or business.',
+            },
+          ]}
+        />
+      </div>
     </>
   )
 }

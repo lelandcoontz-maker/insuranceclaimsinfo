@@ -411,7 +411,7 @@ I have a claim right now in litigation that's over a million dollars and I have 
         date: 'November 2024',
         text: `That's one of the things that really bothers me — how adjusters are so quick to assume that everybody, and I mean everybody, is lying. It's like one of the plaintiff attorneys that I know deposed an SIU investigator and he had something like 30 years of experience constantly doing examinations. And he said that every single person he ever examined was always guilty. It's just idiotic.
 
-Like a claim I had where this really nice couple had their $3,500 car stolen. The insurance company paid for a little bit of stolen personal property on the homeowner policy, but they hired an idiotic fake expert to say the car was stolen with its ordinary key. The homeowner lost way more money than the car was ever worth by the inconvenience to their business and not having a car.
+Like a claim I had where this really nice couple had their roughly $4,000 car stolen. The insurance company paid for a little bit of stolen personal property on the homeowner policy, but they hired an idiotic fake expert to say the car was stolen with its ordinary key. The homeowner lost way more money than the car was ever worth by the inconvenience to their business and not having a car.
 
 And the other thing that really irritates me is they don't even know that it's public news that insurance company engineers have actually gone to prison for defrauding homeowners. Like how could you not know that's a thing?
 
@@ -501,9 +501,11 @@ Keep in mind the truck was damaged but was repairable. He told the insurance com
 
 When you look at insurance claims it might seem like medical insurance, property insurance, and automobile insurance are all totally different. But the reality is the games are all the same, and the counter-tactics are all the same — just the details are different.
 
-If the insurance company says you can repair an EPDM commercial roof by rubbing pistachio ice cream on it, you need to get your ass up there on the roof with a camera and rub pistachio ice cream on it. Make sure you ask the adjuster in writing whether it needs to be natural flavor or artificial flavor pistachio ice cream. Make sure you have a receipt for the pistachio ice cream and a letter from the Baskin-Robbins franchise confirming they sold you pistachio.
+I call this the Pistachio Ice Cream Rule. If the insurance company insists that an EPDM commercial roof can be repaired by rubbing pistachio ice cream on it, the most productive move is often to go up on the roof with a camera, follow their instruction to the letter, and document the result. Ask the adjuster in writing whether the product should be natural or artificial flavor. Keep the receipt. Ask the store to confirm on their letterhead that what they sold you was, in fact, pistachio. Follow the method exactly as the carrier describes it.
 
-But if you want to be smart and refuse to try pistachio ice cream and fight with the insurance company and insist their repair technique is not going to work, you're just putting yourself in an impasse. Get up there and spread pistachio or whatever weird thing they want you to do, film it, and show them that it doesn't work. You've got to pick your arguments.`,
+If you refuse — because it is obviously absurd, and because you know it will not work — you create an impasse with nothing on the record except your protest and the carrier's position. You can argue for weeks without moving the file.
+
+If you comply, document, and the method fails on video, the conversation changes completely. You now have evidence that the carrier's proposed repair method was attempted, implemented per their specifications, and did not produce the result they promised. That is a much stronger posture heading into negotiation, appraisal, or, if it comes to that, litigation. The lesson is that sometimes the most persuasive rebuttal of a bad-faith repair theory is to perform the experiment on video, not to refuse to run it. Pick your arguments carefully.`,
       },
       {
         id: 'deductible-shuffle',
@@ -560,7 +562,7 @@ This is why it's not a good idea for Public Adjusters to advise insureds to acce
         date: 'June 2024',
         text: `There was a case where a professor identified that the bid and ask prices on over-the-counter stocks did not show a normal random distribution. The market makers used social pressure and business pressure on other market makers to not split the 1/8th.
 
-A similar example happens with catastrophe adjusters. If a catastrophe adjuster is paid a certain fee for claims that are above $100,000, and the payment jumps $700 for claims that are $110,000, it would not be unusual to run a spreadsheet or better yet a graph to see visually how the claims cluster around certain dollar thresholds.
+A similar example happens with catastrophe adjusters. If a catastrophe adjuster is paid a certain fee for claims that are above $100,000, and the payment jumps roughly $1,000 for claims that are $110,000, it would not be unusual to run a spreadsheet or better yet a graph to see visually how the claims cluster around certain dollar thresholds.
 
 Claims should follow a certain natural pattern or distribution. And the more claims you have and the more disasters they span, the more the distribution should approach a normal bell curve — because you have a wide variety of property values, types of damage, ages, and building materials. So if you see a distribution that's not what you'd expect, and if you can show certain numbers are overrepresented or underrepresented, that's a clue that there's some sort of human intervention or stickiness in the process.
 
@@ -619,9 +621,18 @@ export default function StoriesPage() {
             Real Stories from the Claims Trenches
           </h1>
           <p className="text-blue-200 max-w-3xl leading-relaxed text-lg">
-            {totalStories} true stories from a career spanning both sides of the
-            insurance desk. Names of individual adjusters have been removed, but
-            the carrier names, dollar amounts, and situations are real.
+            {totalStories} stories drawn from a career spanning both sides of the
+            insurance desk. Identifying details have been changed to protect the
+            privacy of policyholders: individual names are omitted, specific
+            addresses and personally identifying facts have been generalized,
+            and dollar amounts are rounded to the nearest $1,000.
+          </p>
+          <p className="text-blue-200 max-w-3xl leading-relaxed text-sm mt-4 italic">
+            Where a specific insurance company is named in an anecdote (as
+            opposed to a published case citation or a matter of public record),
+            that name may be altered. The patterns described are real; the
+            intent is to illustrate systemic tactics, not to single out any one
+            company by reference to any specific policyholder&apos;s file.
           </p>
         </div>
       </div>
@@ -642,6 +653,35 @@ export default function StoriesPage() {
           <p className="text-gray-600 text-sm mt-4 italic">
             — Leland Coontz, California Licensed Public Adjuster
           </p>
+        </div>
+
+        <div className="mt-4 bg-gray-50 border border-gray-200 rounded-xl p-5 text-sm text-gray-700 leading-relaxed">
+          <p className="font-semibold text-[#1F3964] mb-2">Privacy &amp; Source Notes</p>
+          <ul className="list-disc pl-5 space-y-1">
+            <li>
+              No policyholder is identified by name, address, or any combination
+              of facts that could reasonably identify them.
+            </li>
+            <li>
+              Dollar amounts are <strong>rounded to the nearest $1,000</strong>.
+              The intent is to preserve the order of magnitude and the point of
+              the story without attaching a precise figure to any individual
+              claim.
+            </li>
+            <li>
+              Insurance-carrier names in <em>personal anecdotes</em> may be
+              altered or generalized. Where a carrier is named in connection
+              with <strong>published case law</strong> (for example,{' '}
+              <em>Doan v. State Farm</em> or the{' '}
+              <em>Farmers/CLUE</em> class action), the name is part of the public
+              record and remains as it appears in the court filings or press
+              coverage.
+            </li>
+            <li>
+              Nothing on this page is legal advice. Only a licensed attorney can
+              advise you on a specific claim.
+            </li>
+          </ul>
         </div>
       </div>
 

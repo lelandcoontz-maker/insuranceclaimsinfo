@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Surprising Coverages Most Policyholders Don&#39;t Know They Have',
+  title: 'Surprising Coverages Most Policyholders Don&apos;t Know They Have',
   description:
     'Your homeowner policy covers more than you think — gravestones, college dorm belongings, unlicensed farm vehicles, worker injuries, and more. Learn about the hidden coverages in your HO-3 policy.',
 }

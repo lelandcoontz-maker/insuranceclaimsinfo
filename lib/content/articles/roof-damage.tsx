@@ -250,9 +250,9 @@ export default function Content() {
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
-        can level the playing field. A PA will inspect the roof independently, prepare a
-        comprehensive estimate, handle all communication with the insurer, and negotiate for the
-        full amount you are owed. If your claim has been underpaid, delayed, or denied, do not
+        can level the playing field. A PA can inspect the roof independently, prepare a
+        comprehensive estimate, handle communication with the insurer, and negotiate on your
+        behalf for the amount you are owed under the policy. If your claim has been underpaid, delayed, or denied, do not
         accept the insurer&rsquo;s final word —{' '}
         <Link href="/contact" className="text-blue-700 underline hover:text-blue-900">
           contact us

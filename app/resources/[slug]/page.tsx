@@ -110,6 +110,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'third-party-vs-first-party': { title: 'Third-Party Claim vs. First-Party Claim: Which Strategy Is Right for Your Property Damage?', description: 'When someone else damages your property, should you pursue their insurance or file with your own? A detailed comparison of both strategies — the pros, cons, and when to pivot.' },
   'caci-jury-instructions-insurance': { title: 'CACI Jury Instructions for Insurance Litigation in California', description: 'What CACI jury instructions are, how they relate to case law, whether they have the force of law, and why the Series 2300 insurance litigation instructions matter when policyholders sue their insurance company.' },
   'efficient-proximate-cause': { title: 'The Efficient Proximate Cause Doctrine: When Your Insurer Blames an Excluded Cause for a Covered Loss', description: 'California\'s efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study.' },
+  'white-waiver': { title: 'The White Waiver: California\'s Settlement-Privilege Waiver Explained', description: 'What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -220,6 +221,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'third-party-vs-first-party': () => import('@/lib/content/articles/third-party-vs-first-party'),
   'caci-jury-instructions-insurance': () => import('@/lib/content/articles/caci-jury-instructions-insurance'),
   'efficient-proximate-cause': () => import('@/lib/content/articles/efficient-proximate-cause'),
+  'white-waiver': () => import('@/lib/content/articles/white-waiver'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
@@ -302,7 +304,7 @@ export default async function ResourceArticlePage({ params }: Props) {
           <p className="text-amber-800 leading-relaxed mb-6">
             This article is being written. In the meantime, if you have questions about{' '}
             <strong>{title.toLowerCase()}</strong>, contact us for a free consultation —
-            we&#39;re happy to answer questions about your specific situation.
+            we&apos;re happy to answer questions about your specific situation.
           </p>
           <Link href="/contact" className="btn-primary">
             Ask a Question — Free →

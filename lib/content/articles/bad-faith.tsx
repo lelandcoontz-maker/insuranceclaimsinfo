@@ -105,6 +105,43 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         How Bad Faith, Statutory Violations, and Regulatory Violations Relate to Each Other
       </h2>
+
+      <CalloutBox variant="important" title="Two Key Principles Most Policyholders Get Wrong">
+        <p className="mb-2">
+          <strong>1. Regulatory or statutory violations do not automatically equal bad faith.</strong>
+          An insurance company could violate numerous regulations on a claim that is ultimately
+          <em> not covered</em> by the policy at all — and if there is no coverage, there is generally
+          no bad faith, regardless of how many procedural rules were broken. Bad faith is about
+          unreasonable conduct in handling a claim the insurer owed in the first place.
+        </p>
+        <p className="mb-2">
+          <strong>2. Bad faith can exist even without any regulatory or statutory violation.</strong>
+          An insurer can follow every procedural rule, hit every deadline, send every required letter
+          — and still act in bad faith by, for example, offering an unreasonably low settlement with
+          no rational basis on a clearly covered claim.
+        </p>
+        <p className="mb-2">
+          The two are <strong>often</strong> related, but not inseparable. In most real-world bad
+          faith cases, the regulatory and statutory violations are woven together with the
+          underlying unreasonable conduct — failing to investigate, failing to respond timely,
+          failing to pay undisputed amounts, failing to turn over claim-related documents — and they
+          are difficult to pull apart cleanly. Those activities are often part and parcel of the bad
+          faith behavior itself.
+        </p>
+        <p className="mb-2">
+          One more critical point: <strong>insureds do not have a private right of action to sue
+          for a regulatory violation alone.</strong> The California Department of Insurance can
+          investigate and fine a carrier for violating a regulation, but a policyholder cannot
+          collect money from the carrier based purely on a regulatory violation. The violation is
+          evidence that supports a bad faith or breach of contract claim — it is not itself a money
+          claim the insured can bring.
+        </p>
+        <p className="text-sm italic">
+          This is a general explanation, not legal advice. The interplay between regulation, statute,
+          coverage, and bad faith is fact-specific — consult an attorney about your situation.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most commonly misunderstood areas of California insurance law is the relationship
         between three related but distinct concepts: <strong>bad faith</strong> (breach of the
@@ -258,6 +295,24 @@ export default function Content() {
         policyholder needs to prevail in a bad faith lawsuit.
       </p>
 
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Recent Case Example: <em>Alif v. California FAIR Plan</em> (2025)
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A recent illustration of how coverage disputes and bad faith can intersect is{' '}
+        <em>Alif v. California FAIR Plan Association</em> (2025). For years the FAIR Plan had
+        limited smoke-damage coverage to damage involving a &ldquo;permanent physical change&rdquo;
+        visible to the unaided eye, and used that language to deny or minimize smoke claims. The
+        court held the restrictive language was narrower than the coverage required by California
+        Insurance Code &sect; 2070 (the Standard Fire Policy). Following <em>Alif</em>, the FAIR
+        Plan agreed to strike much of the offending language. The decision is significant because
+        it illustrates that coverage interpretations insurers treat as &ldquo;reasonable&rdquo; are
+        not immune from later judicial rejection — and that continuing to apply a coverage theory
+        a court has already rejected may be difficult to defend as reasonable going forward. This
+        is a general illustration, not legal advice; only a licensed California attorney can
+        advise you on how <em>Alif</em> applies to your specific claim.
+      </p>
+
       <CalloutBox variant="legal" title="Consult an Attorney">
         <p>
           The interplay between regulatory violations, statutory violations, breach of contract,
@@ -266,7 +321,7 @@ export default function Content() {
           specific facts of your case. An attorney experienced in California insurance bad faith
           litigation can evaluate your situation, identify the strongest claims available, and
           determine what damages may be recoverable. Do not attempt to navigate these
-          distinctions on your own.
+          distinctions on your own. Only an attorney can provide legal advice.
         </p>
       </CalloutBox>
 

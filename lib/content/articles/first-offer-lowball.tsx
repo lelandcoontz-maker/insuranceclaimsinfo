@@ -165,14 +165,47 @@ export default function Content() {
         the first offer.
       </p>
 
-      <CalloutBox variant="tip" title="California Law Protects Your Right to Negotiate">
-        <p>
-          Under the California Fair Claims Settlement Practices Regulations (10 CCR § 2695.7),
-          insurers cannot make settlement offers that are unreasonably low. They must provide a
-          clear, written explanation of any reduction and inform you of your right to disagree.
+      <CalloutBox variant="legal" title="Low-Balling Is Specifically Prohibited by California Law">
+        <p className="mb-3">
+          Under California law, insurers are not merely encouraged to make fair offers &mdash;
+          they are prohibited by statute and regulation from making unreasonably low offers for
+          the purpose of forcing policyholders into litigation or accepting less than they are
+          owed. The key authorities:
+        </p>
+        <ul className="list-disc pl-6 space-y-1 mb-3">
+          <li>
+            <strong>Insurance Code &sect; 790.03(h)(5)</strong> &mdash; makes it an unfair claims
+            practice to fail to &ldquo;attempt in good faith to effectuate prompt, fair, and
+            equitable settlements of claims in which liability has become reasonably clear.&rdquo;
+          </li>
+          <li>
+            <strong>Insurance Code &sect; 790.03(h)(7)</strong> &mdash; specifically prohibits
+            &ldquo;compelling insureds to institute litigation to recover amounts due under an
+            insurance policy by offering substantially less than the amounts ultimately recovered
+            in actions brought by the insureds.&rdquo; This is the classic lowball statute.
+          </li>
+          <li>
+            <strong>10 CCR &sect; 2695.7(g)</strong> &mdash; the Fair Claims Settlement Practices
+            Regulations parallel the statute, barring low offers made to force litigation.
+          </li>
+          <li>
+            <strong>Case law.</strong> California courts have long held that unreasonably low
+            offers can constitute bad faith. See <em>Gruenberg v. Aetna Ins. Co.</em> (1973) 9
+            Cal.3d 566; <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809;{' '}
+            <em>Neal v. Farmers Ins. Exchange</em> (1978) 21 Cal.3d 910. These cases establish
+            that the implied covenant of good faith requires the insurer to give{' '}
+            <em>at least as much consideration to the insured&apos;s interests as to its own</em>.
+          </li>
+        </ul>
+        <p className="mb-3">
           You have the right to negotiate, hire representation, demand appraisal, or file a{' '}
           <Link href="/resources/cdi-complaint" className="underline font-semibold">CDI complaint</Link>{' '}
           if you believe the insurer is acting in bad faith.
+        </p>
+        <p className="italic text-sm">
+          This is not legal advice. Whether a specific offer rises to the level of statutory bad
+          faith or compensable under &sect; 790.03(h) requires case-specific analysis. Only an
+          attorney can advise you on a bad-faith claim.
         </p>
       </CalloutBox>
 

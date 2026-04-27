@@ -120,8 +120,20 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Police reports:</strong> File a police report for every vandalism claim. A police
-          report creates an official record that the damage was criminal in nature.
+          <strong>Police reports:</strong> A police report may be important evidence in a
+          vandalism claim — it creates an official, contemporaneous record that the damage was
+          criminal in nature. Carriers often request one, and refusing to file a report can give
+          them grounds to question the claim. That said, policies and facts vary; in some
+          situations a report may not be practical or even possible. When feasible, file a report
+          and keep the case number.
+        </li>
+        <li>
+          <strong>Certified Industrial Hygienist (CIH):</strong> For marijuana grow, tenant
+          destruction with suspected biological contamination, or damage involving chemicals and
+          residue, a licensed Certified Industrial Hygienist can test surfaces, HVAC, and wall
+          cavities to document contamination that is not visible. This testing may be important
+          for establishing the true scope of the loss — especially when the carrier is claiming
+          &ldquo;just clean it.&rdquo;
         </li>
         <li>
           <strong>Photographs and video:</strong> Document every area of damage thoroughly. Focus on
@@ -158,28 +170,37 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Vacancy Exclusion: When Coverage Disappears
+        The Vacancy Exclusion: When Coverage May Disappear
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        One of the most important limitations on vandalism coverage is the vacancy exclusion. Standard
-        HO-3 homeowners policies exclude vandalism coverage when the dwelling has been vacant for 60
-        or more consecutive days prior to the loss. Some named peril policies use a shorter threshold
-        of 30 days. This exclusion is particularly relevant to the landlord, rental property, and grow
-        operation scenarios discussed above — if a property was between tenants or the landlord had
-        not visited in some time, the insurer may attempt to invoke this exclusion.
+        One of the most important limitations on vandalism coverage is the vacancy exclusion.
+        Standard HO-3 homeowners policies often exclude vandalism coverage when the dwelling has
+        been vacant for 60 or more consecutive days prior to the loss. Some named-peril policies
+        use a shorter threshold of 30 days. The exact language varies policy-to-policy, so read
+        your own form carefully. This exclusion is particularly relevant to landlord, rental
+        property, and grow-operation scenarios — if a property was between tenants or the owner
+        had not visited in some time, the insurer may attempt to invoke it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Understanding the precise insurance definition of &quot;vacant&quot; is critical, because it
-        differs significantly from the way most people use the word. Under insurance policy
-        definitions, a property is <strong>vacant</strong> when it lacks sufficient personal property
-        to sustain normal living. A property that is <strong>unoccupied</strong> — meaning no one is
-        currently living there, but it still contains furnishings and personal belongings consistent
-        with normal habitation — is generally <strong>not</strong> considered vacant. A fully
-        furnished vacation home that no one has visited in a couple of years is unoccupied, not
-        vacant. A rental property that still contains the tenant&apos;s belongings (or the
-        landlord&apos;s furnishings) is unoccupied, not vacant. The question is whether the property
-        contains the personal property needed for someone to live there — not whether anyone is
-        actually present.
+        Understanding the insurance definition of &quot;vacant&quot; is important, because it
+        often differs from the way most people use the word. Under typical insurance policy
+        definitions, a property is <strong>vacant</strong> when it lacks sufficient personal
+        property to sustain normal living. A property that is <strong>unoccupied</strong> —
+        meaning no one is currently living there, but it still contains furnishings and personal
+        belongings consistent with normal habitation — is often <strong>not</strong> considered
+        vacant. A fully furnished vacation home that no one has visited in a couple of years is
+        typically unoccupied, not vacant. A rental property that still contains the
+        tenant&apos;s belongings (or the landlord&apos;s furnishings) is typically unoccupied, not
+        vacant. The question is generally whether the property contains the personal property
+        needed for someone to live there — not whether anyone is physically present.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California and other jurisdictions have produced case law on what qualifies as
+        &ldquo;vacant&rdquo; under these clauses. Outcomes are fact-specific and depend on the
+        exact policy wording, the nature of what remained in the dwelling, and the scope of the
+        exclusion. If a carrier denies a vandalism claim on vacancy grounds, ask for the
+        definition in writing, compare it to the facts, and consider consulting an attorney.
+        Only an attorney can provide legal advice.
       </p>
 
       <CalloutBox variant="warning" title="Improper Vacancy Denials Are Common">

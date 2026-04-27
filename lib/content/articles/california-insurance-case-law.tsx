@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Key California Insurance Case Law: Bad Faith, Coverage, and Appraisal',
   description:
-    'A practitioner&#39;s guide to the most important California insurance cases — from Gruenberg and Egan to Garvey and Kacha. Bad faith, coverage, causation, and appraisal law explained.',
+    'A practitioner&apos;s guide to the most important California insurance cases — from Gruenberg and Egan to Garvey and Kacha. Bad faith, coverage, causation, and appraisal law explained.',
 }
 
 export default function Content() {
