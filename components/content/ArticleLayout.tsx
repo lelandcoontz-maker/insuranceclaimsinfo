@@ -39,12 +39,12 @@ export function ArticleLayout({ title, description, backLink, toc, children }: A
             <nav aria-label="On this page" className="hidden lg:block w-56 flex-shrink-0">
               <div className="sticky top-24">
                 <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">On This Page</p>
-                <ul className="space-y-1.5 border-l border-gray-200 pl-3">
+                <ul className="space-y-1 border-l border-gray-200 pl-3">
                   {toc.map(item => (
                     <li key={item.id}>
                       <a
                         href={`#${item.id}`}
-                        className="text-sm text-gray-500 hover:text-[#1F3964] transition-colors block py-0.5"
+                        className="text-sm text-gray-500 hover:text-[#1F3964] transition-colors block py-1"
                       >
                         {item.label}
                       </a>

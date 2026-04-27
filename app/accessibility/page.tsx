@@ -27,7 +27,7 @@ export default function AccessibilityPage() {
 
         <h2 className="text-xl font-bold text-[#1F3964] mb-4">Standards We Follow</h2>
         <p className="text-gray-700 leading-relaxed mb-4">
-          We aim to conform to the Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA.
+          We aim to conform to the Web Content Accessibility Guidelines (WCAG) 2.2 at Level AA.
           These guidelines explain how to make web content more accessible to people with a wide
           range of disabilities, including:
         </p>
@@ -50,6 +50,8 @@ export default function AccessibilityPage() {
           <li>Provide a skip navigation link to bypass repeated content</li>
           <li>Respect user preferences for reduced motion</li>
           <li>Ensure the site is usable at different zoom levels and screen sizes</li>
+          <li>Prevent sticky headers from obscuring focused elements during keyboard navigation</li>
+          <li>Maintain adequate touch target sizes for interactive elements</li>
         </ul>
 
         <h2 className="text-xl font-bold text-[#1F3964] mb-4">Feedback</h2>
@@ -67,7 +69,7 @@ export default function AccessibilityPage() {
 
         <h2 className="text-xl font-bold text-[#1F3964] mb-4">Ongoing Efforts</h2>
         <p className="text-gray-700 leading-relaxed mb-6">
-          We regularly review our website against WCAG 2.1 AA standards using both automated
+          We regularly review our website against WCAG 2.2 AA standards using both automated
           testing tools and manual evaluation. As we add new content and features, we incorporate
           accessibility into our development process.
         </p>
