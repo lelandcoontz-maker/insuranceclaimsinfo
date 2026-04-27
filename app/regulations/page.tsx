@@ -309,41 +309,44 @@ export default function RegulationsPage() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
             <Link
               href="/resources/bad-faith"
+              aria-label="Read Bad Faith Insurance Practices guide"
               className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
             >
-              <span className="text-2xl mb-3 block">🚨</span>
+              <span className="text-2xl mb-3 block" aria-hidden="true">🚨</span>
               <h3 className="font-bold text-[#1F3964] text-sm mb-2">Bad Faith Insurance Practices</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
                 When regulatory violations become actionable bad faith — your remedies, how to
                 document violations, and when to involve an attorney.
               </p>
-              <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+              <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
             </Link>
 
             <Link
               href="/resources/cdi-complaint"
+              aria-label="Read Filing a CDI Complaint guide"
               className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
             >
-              <span className="text-2xl mb-3 block">📁</span>
+              <span className="text-2xl mb-3 block" aria-hidden="true">📁</span>
               <h3 className="font-bold text-[#1F3964] text-sm mb-2">Filing a CDI Complaint</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
                 How to file a complaint with the California Department of Insurance, what to
                 include, and how to cite the specific regulations your insurer violated.
               </p>
-              <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+              <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
             </Link>
 
             <Link
               href="/resources/california-fair-claims"
+              aria-label="Read Fair Claims Settlement Practices Act guide"
               className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
             >
-              <span className="text-2xl mb-3 block">⚖️</span>
+              <span className="text-2xl mb-3 block" aria-hidden="true">⚖️</span>
               <h3 className="font-bold text-[#1F3964] text-sm mb-2">Fair Claims Settlement Practices Act</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
                 A detailed walkthrough of 10 CCR 2695 — every deadline, every required disclosure,
                 and how to use the regulations to negotiate a fair settlement.
               </p>
-              <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+              <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
             </Link>
           </div>
         </section>

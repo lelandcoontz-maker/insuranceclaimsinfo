@@ -688,9 +688,10 @@ export default function InsurerTacticsPage() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
             <Link
               href="/regulations"
+              aria-label="Read California Insurance Regulations guide"
               className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
             >
-              <span className="text-2xl mb-3 block">⚖️</span>
+              <span className="text-2xl mb-3 block" aria-hidden="true">⚖️</span>
               <h3 className="font-bold text-[#1F3964] text-sm mb-2">
                 California Insurance Regulations
               </h3>
@@ -698,14 +699,15 @@ export default function InsurerTacticsPage() {
                 The full list of California laws and regulations that govern how your insurer must
                 handle your claim — the rules they are required to follow.
               </p>
-              <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+              <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
             </Link>
 
             <Link
               href="/resources/bad-faith"
+              aria-label="Read Bad Faith Insurance Practices guide"
               className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
             >
-              <span className="text-2xl mb-3 block">🚨</span>
+              <span className="text-2xl mb-3 block" aria-hidden="true">🚨</span>
               <h3 className="font-bold text-[#1F3964] text-sm mb-2">
                 Bad Faith Insurance Practices
               </h3>
@@ -713,7 +715,7 @@ export default function InsurerTacticsPage() {
                 When insurer tactics cross the line into actionable bad faith — your remedies and
                 when to involve an attorney.
               </p>
-              <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+              <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
             </Link>
 
             <Link

@@ -95,14 +95,15 @@ export default function TypesOfClaimsPage() {
             <Link
               key={ct.slug}
               href={`/types-of-claims/${ct.slug}`}
+              aria-label={`Read ${ct.title} guide`}
               className={`block rounded-xl border p-6 hover:shadow-md transition-shadow ${ct.color}`}
             >
               <div className="flex items-start gap-4">
-                <span className="text-3xl flex-shrink-0">{ct.icon}</span>
+                <span className="text-3xl flex-shrink-0" aria-hidden="true">{ct.icon}</span>
                 <div>
                   <h2 className="font-bold text-gray-900 text-lg mb-2">{ct.title}</h2>
                   <p className="text-sm text-gray-600 leading-relaxed">{ct.desc}</p>
-                  <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide →</p>
+                  <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide →</p>
                 </div>
               </div>
             </Link>

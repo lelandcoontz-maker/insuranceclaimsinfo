@@ -223,9 +223,9 @@ export default function HomePage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {RESOURCES.map(res => (
-              <Link key={res.href} href={res.href} className="card group">
+              <Link key={res.href} href={res.href} aria-label={`Read ${res.title}`} className="card group">
                 <div className="flex items-start gap-3 mb-3">
-                  <span className="text-2xl flex-shrink-0">{res.icon}</span>
+                  <span className="text-2xl flex-shrink-0" aria-hidden="true">{res.icon}</span>
                   <div>
                     <span className="text-xs font-semibold text-[#2E74B5] uppercase tracking-wider">
                       {res.tag}
@@ -236,7 +236,7 @@ export default function HomePage() {
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 leading-relaxed">{res.desc}</p>
-                <p className="text-[#2E74B5] text-sm font-medium mt-4 group-hover:underline">
+                <p className="text-[#2E74B5] text-sm font-medium mt-4 group-hover:underline" aria-hidden="true">
                   Read guide →
                 </p>
               </Link>

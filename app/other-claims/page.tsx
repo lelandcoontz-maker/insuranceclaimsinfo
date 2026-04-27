@@ -108,10 +108,11 @@ export default function OtherClaimsPage() {
             <Link
               key={ct.slug}
               href={`/other-claims/${ct.slug}`}
+              aria-label={`Learn more about ${ct.title}`}
               className={`block rounded-xl border p-6 hover:shadow-md transition-shadow ${ct.cardColor}`}
             >
               <div className="flex items-start gap-4">
-                <span className="text-3xl flex-shrink-0">{ct.icon}</span>
+                <span className="text-3xl flex-shrink-0" aria-hidden="true">{ct.icon}</span>
                 <div className="flex-1">
                   <div className="flex items-center gap-3 mb-2 flex-wrap">
                     <h2 className="font-bold text-gray-900 text-lg">{ct.title}</h2>
@@ -120,7 +121,7 @@ export default function OtherClaimsPage() {
                     </span>
                   </div>
                   <p className="text-sm text-gray-600 leading-relaxed">{ct.desc}</p>
-                  <p className="text-[#2E74B5] text-sm font-medium mt-3">Learn more &rarr;</p>
+                  <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Learn more &rarr;</p>
                 </div>
               </div>
             </Link>

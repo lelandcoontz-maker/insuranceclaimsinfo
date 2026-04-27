@@ -867,10 +867,11 @@ export default function ResourcesPage() {
                 <Link
                   key={article.href}
                   href={article.href}
+                  aria-label={`Read ${article.title}`}
                   className={`block rounded-xl border p-5 hover:shadow-md transition-shadow ${cat.color}`}
                 >
                   <div className="flex items-start gap-3 mb-3">
-                    <span className="text-2xl flex-shrink-0">
+                    <span className="text-2xl flex-shrink-0" aria-hidden="true">
                       {article.icon}
                     </span>
                     <div>
@@ -887,7 +888,7 @@ export default function ResourcesPage() {
                   <p className="text-sm text-gray-600 leading-relaxed">
                     {article.desc}
                   </p>
-                  <p className="text-[#2E74B5] text-sm font-medium mt-3">
+                  <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">
                     Read guide →
                   </p>
                 </Link>

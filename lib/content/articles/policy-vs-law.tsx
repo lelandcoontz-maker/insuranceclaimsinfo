@@ -740,6 +740,7 @@ export default function Content() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
           <Link
             href="/resources/california-fair-plan"
+            aria-label="Read The California FAIR Plan guide"
             className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
           >
             <h3 className="font-bold text-[#1F3964] text-sm mb-2">
@@ -748,10 +749,11 @@ export default function Content() {
             <p className="text-sm text-gray-600 leading-relaxed">
               What the FAIR Plan covers, what it doesn&rsquo;t, and the problems with its policies.
             </p>
-            <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+            <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
           </Link>
           <Link
             href="/resources/smoke-damage-claims"
+            aria-label="Read Smoke Damage Claims guide"
             className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
           >
             <h3 className="font-bold text-[#1F3964] text-sm mb-2">
@@ -760,10 +762,11 @@ export default function Content() {
             <p className="text-sm text-gray-600 leading-relaxed">
               Testing, remediation, coverage, and the fight over smoke damage definitions.
             </p>
-            <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+            <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
           </Link>
           <Link
             href="/resources/equitable-tolling"
+            aria-label="Read Equitable Tolling guide"
             className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
           >
             <h3 className="font-bold text-[#1F3964] text-sm mb-2">
@@ -772,10 +775,11 @@ export default function Content() {
             <p className="text-sm text-gray-600 leading-relaxed">
               The one-year suit limitation is not as simple as it appears.
             </p>
-            <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+            <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
           </Link>
           <Link
             href="/resources/california-insurance-case-law"
+            aria-label="Read Key California Insurance Case Law guide"
             className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
           >
             <h3 className="font-bold text-[#1F3964] text-sm mb-2">
@@ -784,7 +788,7 @@ export default function Content() {
             <p className="text-sm text-gray-600 leading-relaxed">
               The most important California cases on bad faith, coverage, and appraisal.
             </p>
-            <p className="text-[#2E74B5] text-sm font-medium mt-3">Read guide &rarr;</p>
+            <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide &rarr;</p>
           </Link>
         </div>
       </section>
