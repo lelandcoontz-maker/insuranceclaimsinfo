@@ -111,6 +111,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'caci-jury-instructions-insurance': { title: 'CACI Jury Instructions for Insurance Litigation in California', description: 'What CACI jury instructions are, how they relate to case law, whether they have the force of law, and why the Series 2300 insurance litigation instructions matter when policyholders sue their insurance company.' },
   'efficient-proximate-cause': { title: 'The Efficient Proximate Cause Doctrine: When Your Insurer Blames an Excluded Cause for a Covered Loss', description: 'California\'s efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study.' },
   'white-waiver': { title: 'The White Waiver: California\'s Settlement-Privilege Waiver Explained', description: 'What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.' },
+  'silica-contamination': { title: 'Silica Contamination in Property Insurance Claims: What You Need to Know', description: 'Crystalline silica exposure during property damage repairs is a serious OSHA-regulated hazard. Learn what silica is, why it matters for your insurance claim, and what remediation your insurer should be paying for.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -222,6 +223,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'caci-jury-instructions-insurance': () => import('@/lib/content/articles/caci-jury-instructions-insurance'),
   'efficient-proximate-cause': () => import('@/lib/content/articles/efficient-proximate-cause'),
   'white-waiver': () => import('@/lib/content/articles/white-waiver'),
+  'silica-contamination': () => import('@/lib/content/articles/silica-contamination'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
