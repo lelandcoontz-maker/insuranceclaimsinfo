@@ -558,7 +558,7 @@ export default function Content() {
         of which are under the unit owner&rsquo;s control. If any of the following apply, consider
         hiring a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         or consulting with an{' '}
         <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] hover:underline">

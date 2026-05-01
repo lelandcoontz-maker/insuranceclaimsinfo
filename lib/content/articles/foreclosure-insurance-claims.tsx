@@ -383,10 +383,10 @@ export default function Content() {
         home.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster representing the homeowner recognized the opportunity. He contacted the
+        A Public Adjuster representing the homeowner recognized the opportunity. He contacted the
         lender and explained the situation: the lender was stuck with a damaged property and no
         insurance money to fix it, while the homeowner had an insurance claim and the motivation
-        to rebuild. The public adjuster suggested that it might be in the lender&apos;s interest
+        to rebuild. The Public Adjuster suggested that it might be in the lender&apos;s interest
         to work with the borrower &mdash; to cooperate in getting the property repaired using
         the insurance proceeds, which would result in the lender having better collateral rather
         than being stuck with a fire-damaged asset worth a fraction of the debt.
@@ -400,8 +400,8 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="The Public Adjuster's Role">
         <p>
-          A public adjuster cannot provide legal advice about foreclosure or negotiate the terms
-          of a loan workout. But a public adjuster who understands the full credit bid doctrine
+          A Public Adjuster cannot provide legal advice about foreclosure or negotiate the terms
+          of a loan workout. But a Public Adjuster who understands the full credit bid doctrine
           can identify when the lender has inadvertently extinguished its insurable interest,
           advise the insured on the insurance implications, and &mdash; where appropriate &mdash;
           help facilitate communication between the parties so that the insurance claim can be
@@ -443,7 +443,7 @@ export default function Content() {
           Some lenders will attempt to apply insurance proceeds to the outstanding mortgage
           balance rather than releasing them for repairs. This may or may not be permissible
           depending on your deed of trust language and applicable law. If your lender is
-          attempting this, you need professional help immediately &mdash; from a public adjuster
+          attempting this, you need professional help immediately &mdash; from a Public Adjuster
           for the insurance claim side and potentially an attorney for the lending side. The
           insurance proceeds are intended to restore the property, not to pay down your loan.
         </p>
@@ -476,7 +476,7 @@ export default function Content() {
           <strong>Get professional help early.</strong> This is not a situation to navigate
           alone. A{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           can handle the insurance claim, and an{' '}
           <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] hover:underline">

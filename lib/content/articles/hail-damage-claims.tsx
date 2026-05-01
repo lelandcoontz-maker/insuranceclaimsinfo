@@ -184,7 +184,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Before the loss, the policyholder had a uniform roof. After the loss, they deserve a
         uniform roof. In California, this principle is backed by regulation. Under{' '}
-        <strong>10 CCR &sect; 2695.9(d)</strong>, when a loss requires replacement of items and the
+        <strong>10 CCR &sect; 2695.9(a)(2)</strong>, when a loss requires replacement of items and the
         replaced items do not reasonably match adjacent undamaged items in quality, color, or size,
         the insurer must pay the reasonable cost to replace the undamaged items to achieve a
         uniform appearance. This is not optional &mdash; it is a binding California regulation.
@@ -330,6 +330,12 @@ export default function Content() {
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           guide to Public Adjusters
         </Link>.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

@@ -667,7 +667,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           If a third party caused your property damage and your insurer has not told you whether
-          it plans to subrogate, a licensed public adjuster can help you understand your options
+          it plans to subrogate, a licensed Public Adjuster can help you understand your options
           and protect your recovery rights.
         </p>
         <Link

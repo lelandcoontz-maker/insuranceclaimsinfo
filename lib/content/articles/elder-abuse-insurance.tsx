@@ -373,7 +373,7 @@ export default function Content() {
         When negotiating a claim on behalf of an elderly policyholder, the policyholder&rsquo;s
         representative &mdash; whether a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         or an attorney &mdash; should ensure the insurer is aware of the policyholder&rsquo;s
         age and any vulnerabilities. This is not about playing a sympathy card; it is about
@@ -422,7 +422,7 @@ export default function Content() {
         and the policyholder is 65 or older (or a qualifying dependent adult), it is critical
         to consult with an attorney who has experience with both insurance bad faith and elder
         abuse litigation. These cases require specific pleading, specific evidence, and a
-        specific litigation strategy. A public adjuster can identify the conduct and build the
+        specific litigation strategy. A Public Adjuster can identify the conduct and build the
         claims file, but the legal claims require an attorney. See our guide on{' '}
         <Link href="/resources/when-to-hire-attorney" className="text-blue-700 underline hover:text-blue-900">
           when to hire an insurance claim attorney
@@ -650,9 +650,9 @@ export default function Content() {
           remedies are available, and pursue the claim aggressively.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster</strong> &mdash; A{' '}
+          <strong>Consider hiring a Public Adjuster</strong> &mdash; A{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            licensed public adjuster
+            licensed Public Adjuster
           </Link>{' '}
           can manage the day-to-day claims process, build the documentation, and work alongside
           an attorney to maximize the recovery.

@@ -159,6 +159,22 @@ export default function Content() {
         </li>
       </ul>
 
+      <CalloutBox variant="warning" title="When to Stop Negotiating and Call an Attorney">
+        <p>
+          If any of the following has occurred, consult an attorney before continuing to negotiate
+          on your own: the insurer has formally denied your claim; you have been asked to sit for
+          an Examination Under Oath; the insurer has referred your claim to its Special Investigations
+          Unit; you suspect bad faith; the insurer has presented a release or settlement agreement;
+          or your one-year suit limitation period is approaching. Continuing to negotiate past these
+          points without legal counsel can compromise your legal rights.
+        </p>
+        <p className="mt-2">
+          A Public Adjuster can help with the claims and negotiation aspects of your dispute, while
+          an attorney handles the legal strategy. On complex claims, working with both is often the
+          most effective approach.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Documentation Strategies During Negotiation
       </h2>

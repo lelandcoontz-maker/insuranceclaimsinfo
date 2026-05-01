@@ -119,6 +119,7 @@ export default function Content() {
         Leland Coontz III maintains relationships with experienced workers&rsquo; compensation
         attorneys in California. If you have been injured on the job and need legal help, we can
         provide a free referral at no cost or obligation to you.
+        We receive no compensation for attorney referrals.
       </p>
 
       <LeadCaptureForm
@@ -126,6 +127,13 @@ export default function Content() {
         heading="Get Connected With a Workers' Comp Attorney"
         description="Tell us about your workplace injury and we'll connect you with an experienced workers' comp attorney. Free referral, no obligation."
       />
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

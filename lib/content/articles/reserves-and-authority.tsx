@@ -51,7 +51,7 @@ export default function Content() {
         unless someone upstream approves a reserve increase.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Many attorneys and public adjusters believe this strongly. They argue that forcing a
+        Many attorneys and Public Adjusters believe this strongly. They argue that forcing a
         reserve increase &mdash; by presenting strong documentation of higher damages &mdash; is
         the key to unlocking a fair settlement. Under this theory, submitting a detailed{' '}
         <Link href="/resources/supplemental-claims" className="text-[#2E74B5] hover:underline">
@@ -183,7 +183,7 @@ export default function Content() {
         <li>
           <strong>Adjuster #3: The large-loss escalation.</strong> A{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>,{' '}
           contractor, or attorney gets involved and presents documentation showing the actual
           repair cost is $200,000+ when code upgrades, mold remediation, and contents are
@@ -240,7 +240,7 @@ export default function Content() {
           adjuster&rsquo;s estimate seems suspiciously round or just under a threshold &mdash;
           get your own estimate from a licensed contractor or{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>.
           An independent estimate that significantly exceeds the adjuster&rsquo;s number will
           force the insurance company to address the discrepancy. See our guide on{' '}
@@ -365,7 +365,7 @@ export default function Content() {
         <li>
           <strong>If you have professional representation</strong> &mdash; a{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or attorney &mdash; the insurance company is more likely to assign a higher-authority
           adjuster from the start, because represented claims tend to be worth more and take
@@ -407,7 +407,7 @@ export default function Content() {
           Think Your Claim Is Being Handled by the Wrong Level of Adjuster?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          A licensed public adjuster can evaluate whether your claim is getting the attention
+          A licensed Public Adjuster can evaluate whether your claim is getting the attention
           it deserves &mdash; and push for reassignment to a higher-authority adjuster when
           the damages warrant it.
         </p>

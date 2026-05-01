@@ -442,8 +442,8 @@ export default function Content() {
         &ldquo;vacant&rdquo; under these clauses. Outcomes are fact-specific and depend on the
         exact policy wording, the nature of what remained in the dwelling, and the scope of the
         exclusion. If a carrier denies a vandalism claim on vacancy grounds, ask for the
-        definition in writing, compare it to the facts, and consider consulting an attorney.
-        Only an attorney can provide legal advice.
+        definition in writing, compare it to the facts, and consider consulting a Public Adjuster
+        for claim documentation and negotiation, or an attorney for legal advice.
       </p>
 
       <CalloutBox variant="warning" title="Improper Vacancy Denials Are Common">

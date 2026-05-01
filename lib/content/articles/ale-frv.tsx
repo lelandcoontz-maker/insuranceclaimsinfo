@@ -166,6 +166,13 @@ export default function Content() {
         back if the insurer tries to shortchange you. A licensed Public Adjuster can help ensure you
         receive the full ALE or FRV benefit your policy provides.
       </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

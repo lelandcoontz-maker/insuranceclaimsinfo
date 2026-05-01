@@ -31,7 +31,7 @@ export default function Content() {
         a policyholder&rsquo;s rights under their insurance policy to a third party. That third
         party &mdash; whether a contractor, a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-          public adjuster
+          Public Adjuster
         </Link>
         , or a buyer of the property &mdash; can then deal directly with the insurance company
         and, in many cases, receive payment in their own name.
@@ -39,7 +39,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Assignments are often thought of as unusual or exotic, but they are actually one of
         the most routine transactions in property insurance. Insurance companies facilitate
-        them every single day through their preferred vendor programs, public adjuster
+        them every single day through their preferred vendor programs, Public Adjuster
         contracts, and repair contractor agreements.
       </p>
 
@@ -86,11 +86,11 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Public adjusters</strong> hold an assignment as part of their contract with
+          <strong>Public Adjusters</strong> hold an assignment as part of their contract with
           the policyholder. This allows them to communicate with the insurer and have their
           fee reflected in the claims process. Learn more about how this works in our guide to{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            working with a public adjuster
+            working with a Public Adjuster
           </Link>
           .
         </li>
@@ -337,7 +337,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           Whether you are buying a damaged property, selling one with an open claim, or dealing
-          with a work authorization from a mitigation company, a public adjuster can help you
+          with a work authorization from a mitigation company, a Public Adjuster can help you
           understand your rights and protect your interests.
         </p>
         <Link

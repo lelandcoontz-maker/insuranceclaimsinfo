@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { LegalDisclaimer } from '@/components/content/LegalDisclaimer'
 
 export const metadata: Metadata = {
   title: 'About — Leland Coontz III, CA Licensed Public Adjuster',
@@ -85,8 +86,11 @@ export default function AboutPage() {
             </p>
             <p>
               A PA reads your policy, documents your loss, prepares the claim, and negotiates with the
-              insurance company on your behalf. Studies consistently show that claimants represented by
-              a PA recover significantly more than those who go it alone — often 2–3x more.
+              insurance company on your behalf. A 2010 study by the Florida Office of Program Policy
+              Analysis and Government Accountability (OPPAGA) — the most comprehensive government study
+              on this topic — found that policyholders represented by a Public Adjuster received
+              settlements 574% higher on non-catastrophe claims and 747% higher on catastrophe claims
+              compared to those who handled claims on their own.
             </p>
             <p>
               In California, Public Adjusters are licensed and regulated by the California Department
@@ -174,6 +178,13 @@ export default function AboutPage() {
             ))}
           </div>
         </section>
+
+        {/* Disclaimer */}
+        <div className="text-center">
+          <p className="text-xs text-gray-400 italic">
+            This website provides insurance claims education and information, not legal advice.
+          </p>
+        </div>
 
         {/* CTA */}
         <section className="bg-[#EFF4FB] rounded-2xl p-8 text-center">

@@ -214,7 +214,7 @@ export default function Content() {
         The Bigger Picture
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Cases like this one are why public adjusters, restoration consultants, and qualified
+        Cases like this one are why Public Adjusters, restoration consultants, and qualified
         experts exist. The insurance claims process is not a neutral system. It is an adversarial
         one, and the insurance company enters that process with more resources, more leverage,
         and more experience than the average policyholder or contractor.
@@ -237,7 +237,7 @@ export default function Content() {
       <CalloutBox variant="important" title="Need Help with a Biohazard or Remediation Dispute?">
         If you are a contractor or policyholder facing a dispute over biohazard remediation,
         crime scene cleanup, or any insurance claim where the carrier is challenging the scope
-        of necessary work, consult with a licensed public adjuster or an industrial hygienist
+        of necessary work, consult with a licensed Public Adjuster or an industrial hygienist
         before accepting the insurance company&rsquo;s position.
       </CalloutBox>
 

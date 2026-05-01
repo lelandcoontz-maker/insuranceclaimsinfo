@@ -697,6 +697,14 @@ export const CATEGORIES: Category[] = [
         tagColor: 'bg-teal-100 text-teal-700',
       },
       {
+        icon: '🔧',
+        title: 'Slab Leak Claims: Hidden Damage and the Underground Pipe Myth',
+        desc: 'Surface drying hides the real damage. Fill dirt pipes aren\'t underground. Coverage pays for access, not the pipe. Leak detection, copper defects, and what carriers miss.',
+        href: '/resources/slab-leak-claims',
+        tag: 'Slab Leaks',
+        tagColor: 'bg-red-100 text-red-700',
+      },
+      {
         icon: '🏗️',
         title: 'Foundation Damage Claims',
         desc: 'When a water leak causes settlement, the earth movement exclusion may not apply. Heaving vs. settlement, repair methods, and California case law.',
@@ -880,8 +888,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         icon: '📜',
-        title: 'SB 49: New Contents Payment Rule',
-        desc: 'How SB 49 changes personal property claims in disasters — automatic 60% contents payments, no inventory for 100 days.',
+        title: 'SB 495: New Contents Payment Rule',
+        desc: 'How SB 495 changes personal property claims in disasters — automatic 60% contents payments, no inventory for 100 days.',
         href: '/resources/sb49-contents-rule',
         tag: 'New Law',
         tagColor: 'bg-red-100 text-red-700',

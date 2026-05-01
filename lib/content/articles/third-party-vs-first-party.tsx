@@ -791,7 +791,7 @@ export default function Content() {
         sign. Read everything carefully, and understand what you are agreeing to before you put
         your signature on anything. If you are unsure, consult with a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         or an{' '}
         <Link href="/resources/when-to-hire-attorney" className="text-blue-700 underline hover:text-blue-900">
@@ -861,7 +861,7 @@ export default function Content() {
         Whatever path you choose, document everything, do not sign releases prematurely, and
         get professional help if the claim becomes complicated. A{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         can evaluate your specific situation and recommend the strategy that maximizes your
         recovery.
@@ -883,7 +883,7 @@ export default function Content() {
         </p>
         <p className="mt-2">
           If you need guidance on your specific claim, consult with a qualified attorney or a
-          licensed public adjuster who can review the facts of your case and advise you on the
+          licensed Public Adjuster who can review the facts of your case and advise you on the
           best path forward.
         </p>
       </CalloutBox>

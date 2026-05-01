@@ -144,7 +144,7 @@ export default function Content() {
         <Link href="/resources/adjuster-types" className="text-blue-700 underline hover:text-blue-900">
           types of adjusters guide
         </Link>{' '}
-        for the distinctions between staff, independent, and public adjusters.
+        for the distinctions between staff, independent, and Public Adjusters.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

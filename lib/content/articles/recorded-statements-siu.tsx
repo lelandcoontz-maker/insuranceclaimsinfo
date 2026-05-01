@@ -31,6 +31,21 @@ export default function Content() {
         These are two different procedures with very different legal implications. Confusing them is a common and potentially costly mistake.
       </p>
 
+      <CalloutBox variant="warning" title="Consider Consulting an Attorney First">
+        <p>
+          On any claim involving significant dollar amounts, disputed coverage, or a Special
+          Investigations Unit (SIU) referral, consider consulting an attorney before giving a
+          recorded statement. A recorded statement creates a sworn record that the insurer can
+          use to identify inconsistencies and build a basis for denial. Once given, it cannot be
+          taken back. On minor, straightforward claims, cooperation is generally advisable — but
+          on complex or contested claims, having counsel present protects your interests.
+        </p>
+        <p className="mt-2">
+          A licensed Public Adjuster can also attend the recorded statement with you to ensure the
+          insurer&rsquo;s questions remain within the scope of the claim investigation.
+        </p>
+      </CalloutBox>
+
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         Recorded Statements
       </h3>
@@ -67,6 +82,18 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What Triggers an SIU Referral
       </h2>
+      <CalloutBox variant="warning" title="SIU Involvement Changes the Dynamic">
+        <p>
+          When a claim is referred to the insurer&rsquo;s Special Investigation Unit, the claim
+          has entered an investigative posture. The SIU&rsquo;s purpose is to evaluate whether
+          the claim should be paid, reduced, or denied &mdash; and the investigators are trained
+          to develop evidence that supports those outcomes. Even if the referral was triggered by
+          routine criteria and not by any suspicion of wrongdoing, the policyholder is now dealing
+          with a unit whose institutional role is adversarial. Attorney consultation is strongly
+          recommended before providing any statement, documents, or financial records to an SIU
+          investigator.
+        </p>
+      </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Special Investigation Unit is the insurer&rsquo;s internal investigation division. Despite the name, not every SIU referral means the insurer suspects fraud. Many referrals are triggered by routine criteria that have nothing to do with the policyholder&rsquo;s honesty:
       </p>

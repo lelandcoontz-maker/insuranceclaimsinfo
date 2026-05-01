@@ -340,11 +340,11 @@ export default function Content() {
           <strong>Document the sequence of events.</strong> Photographs, videos, weather records, contractor reports, engineering assessments &mdash; anything that establishes the causal chain and supports the argument that the covered peril was the predominating cause.
         </li>
         <li>
-          <strong>Cite the right authority.</strong> In California, your argument is grounded in Insurance Code &sect;530, <em>Sabella v. Wisler</em>, <em>Garvey v. State Farm</em>, and <em>Julian v. Hartford Underwriters</em>. If the loss involves a post-wildfire mudslide, CDI Bulletin 2025-3 adds regulatory weight to your position.
+          <strong>Know the key authorities.</strong> California courts have consistently upheld the efficient proximate cause doctrine over anti-concurrent causation clauses. As attorney John L. Corbett of Barnes &amp; Thornburg LLP has noted, &ldquo;California courts have repeatedly held that insurers cannot contract around the statutory mandate for efficient proximate cause with an ACC clause.&rdquo; The key authorities are Insurance Code &sect;530, <em>Sabella v. Wisler</em>, <em>Garvey v. State Farm</em>, and <em>Julian v. Hartford Underwriters</em>. If the loss involves a post-wildfire mudslide, CDI Bulletin 2025-3 adds regulatory weight. If your insurer has denied coverage based on an ACC clause, discuss these authorities with your attorney.
         </li>
         <li>
           <strong>Get help early.</strong> Efficient proximate cause arguments are fact-intensive and often require expert analysis to establish the causal chain. A{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">licensed public adjuster</Link>{' '}
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">licensed Public Adjuster</Link>{' '}
           can help build the factual case, and an attorney may be needed if the insurer refuses to engage.
         </li>
       </ul>
@@ -395,7 +395,7 @@ export default function Content() {
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">Was Your Claim Denied Because of an Anti-Concurrent Causation Clause?</h3>
-        <p className="text-gray-600 text-sm mb-4">If your California insurer cited an earth movement, water damage, or other exclusion to deny a claim where a covered peril started the chain of events, you may have a strong case under the efficient proximate cause doctrine. A licensed public adjuster can help you build the factual and regulatory case to challenge the denial.</p>
+        <p className="text-gray-600 text-sm mb-4">If your California insurer cited an earth movement, water damage, or other exclusion to deny a claim where a covered peril started the chain of events, you may have a strong case under the efficient proximate cause doctrine. A licensed Public Adjuster can help you build the factual and regulatory case to challenge the denial.</p>
         <Link href="/contact" className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors">
           Request a Free Claim Review &rarr;
         </Link>

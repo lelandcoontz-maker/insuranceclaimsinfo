@@ -108,7 +108,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/cdi-complaint', label: 'Filing a CDI Complaint' },
       { href: '/resources/california-insurance-crisis', label: 'CA Insurance Crisis' },
       { href: '/resources/california-insurance-case-law', label: 'Key CA Case Law' },
-      { href: '/resources/sb49-contents-rule', label: 'SB 49 Contents Rule' },
+      { href: '/resources/sb49-contents-rule', label: 'SB 495 Contents Rule' },
       { href: '/resources/caci-jury-instructions-insurance', label: 'CACI Jury Instructions' },
       { href: '/cdi-notices', label: 'CDI Notices & Guides' },
     ],

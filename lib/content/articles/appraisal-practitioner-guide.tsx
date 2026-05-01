@@ -21,7 +21,7 @@ export default function Content() {
         receiving an award? What do you do when the insurer interferes with the process?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This article is a practitioner&rsquo;s guide &mdash; written for public adjusters,
+        This article is a practitioner&rsquo;s guide &mdash; written for Public Adjusters,
         attorneys, and sophisticated policyholders who need to understand not just how appraisal
         works in theory, but how to navigate the real-world problems that arise when the process
         is invoked. For the foundational case law, see our companion article on{' '}
@@ -318,7 +318,7 @@ export default function Content() {
         policyholder&rsquo;s appraiser is expected to represent the policyholder&rsquo;s position
         on the amount of loss. A licensed{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         is often the ideal choice, because they combine loss valuation expertise with advocacy
         experience.
@@ -446,7 +446,7 @@ export default function Content() {
         One of the most misunderstood aspects of appraisal is the distinction between the{' '}
         <strong>principals</strong> and the <strong>panel</strong>. The principals are the
         parties to the insurance contract: the insurer and the insured (or the insured&rsquo;s
-        representative &mdash; typically a public adjuster or attorney). The panel consists of
+        representative &mdash; typically a Public Adjuster or attorney). The panel consists of
         the two appraisers and the umpire.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -1220,7 +1220,7 @@ export default function Content() {
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
             What Is a Public Adjuster?
           </Link>{' '}
-          &mdash; How a licensed public adjuster can serve as your party appraiser and advocate
+          &mdash; How a licensed Public Adjuster can serve as your party appraiser and advocate
           through the appraisal process.
         </li>
         <li>
@@ -1241,7 +1241,7 @@ export default function Content() {
           consultation with a qualified attorney. The appraisal process involves legal rights and
           obligations that depend on the specific facts of your claim, your policy language, and
           applicable case law. If you are involved in an insurance appraisal or considering
-          invoking one, consult with a public adjuster experienced in the appraisal process and,
+          invoking one, consult with a Public Adjuster experienced in the appraisal process and,
           where appropriate, an attorney experienced in California insurance law.
         </p>
         <p className="text-gray-500 text-sm leading-relaxed">

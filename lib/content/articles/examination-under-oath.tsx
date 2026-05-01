@@ -30,6 +30,17 @@ export default function Content() {
         possible position to protect your claim.
       </p>
 
+      <CalloutBox variant="warning" title="Do Not Attend an EUO Without Legal Counsel">
+        <p>
+          An Examination Under Oath is a formal proceeding where the insurer&apos;s attorney asks you
+          questions under oath. Your answers are recorded and can be used against you. While the
+          policy&apos;s cooperation clause requires you to submit to an EUO, it does not require you to
+          attend without your own attorney. On any claim of significant value or where coverage is
+          disputed, retain an attorney before scheduling the EUO. An attorney can prepare you, object
+          to improper questions, and protect your rights during the examination.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What Is an Examination Under Oath?
       </h2>
@@ -96,13 +107,17 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="An EUO Does Not Mean You Did Anything Wrong">
+      <CalloutBox variant="tip" title="An EUO Does Not Mean You Did Anything Wrong — But It Is Still Adversarial">
         <p>
           Many policyholders panic when they receive an EUO request, assuming it means the insurer
           thinks they committed fraud. That is not always the case. EUOs are a standard
-          investigative tool, and many are conducted routinely on large or complex claims. The key
-          is to take it seriously, prepare thoroughly, and have the right representation — not to
-          assume the worst.
+          investigative tool, and many are conducted routinely on large or complex claims. However,
+          &ldquo;standard&rdquo; does not mean &ldquo;casual.&rdquo; An EUO is an adversarial proceeding
+          conducted by the insurer&apos;s attorney, whose job is to find reasons to reduce or deny
+          your claim. The questions are designed to test your credibility, lock you into specific
+          answers, and identify inconsistencies that can be used against you. Do not let the fact
+          that EUOs are &ldquo;routine&rdquo; lull you into treating this as an informal conversation.
+          Take it seriously, prepare thoroughly, and have an attorney present to protect your interests.
         </p>
       </CalloutBox>
 

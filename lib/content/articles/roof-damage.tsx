@@ -83,7 +83,7 @@ export default function Content() {
           carefully to confirm that the cause of your roof damage is a listed peril before filing.
           If you are unsure, a{' '}
           <Link href="/resources/public-adjuster" className="text-sky-700 underline hover:text-sky-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           can review your policy and advise you.
         </p>
@@ -258,6 +258,13 @@ export default function Content() {
           contact us
         </Link>{' '}
         for a free claim review.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

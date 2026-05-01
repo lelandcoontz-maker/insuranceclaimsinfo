@@ -66,21 +66,22 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
         answer: (
           <>
             <p>
-              Under California's Fair Claims Settlement Practices Regulations (10 CCR
-              2695.9(d)(1)), the insurance company is required to provide you with all
-              documentation that supports their coverage or valuation decisions, including
-              photographs taken by their adjuster. These photos were taken of your property
-              and your loss, and you have every right to see them. If the insurer is claiming
-              the photos are "privileged" or "internal work product," that argument is generally
-              not valid for photos of your own property taken during the claims investigation.
+              Under California's Fair Claims Settlement Practices Regulations, the insurer
+              has a duty to conduct a thorough, fair, and objective investigation (10 CCR
+              2695.7(d)) and to provide the claimant with copies of documents that support
+              the claim evaluation, including photographs taken by their adjuster. These
+              photos were taken of your property and your loss, and you have every right to
+              see them. If the insurer is claiming the photos are "privileged" or "internal
+              work product," that argument is generally not valid for photos of your own
+              property taken during the claims investigation.
             </p>
             <p>
-              Put your request in writing and specifically reference 10 CCR 2695.9(d)(1). State
-              that you are requesting copies of all photographs, videos, measurements, and
-              inspection notes generated during the investigation of your claim. If the insurer
-              continues to refuse, you should file a complaint with the California Department
-              of Insurance. The CDI can investigate and compel the insurer to comply with the
-              regulations.
+              Put your request in writing and reference both the insurer's duty to conduct
+              a fair investigation under 10 CCR 2695.7(d) and the general obligation of good
+              faith under 10 CCR 2695.4. State that you are requesting copies of all
+              photographs, videos, measurements, and inspection notes generated during the
+              investigation of your claim. If the insurer continues to refuse, you should
+              file a complaint with the California Department of Insurance.
             </p>
             <p>
               These photos matter because they document the condition of your property at or
@@ -215,12 +216,13 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
           <>
             <p>
               Probably not. In California, there are significant restrictions on how an insurer
-              can depreciate your claim. First, labor cannot be depreciated. The California
-              Court of Appeal ruled in{' '}
-              <em>Truong v. Allstate Insurance Company</em> (2021) that labor costs do
-              not depreciate over time — it costs the same to install a new roof today whether
-              the roof is one year old or twenty years old. If the insurer depreciated labor in
-              your estimate, that portion of the depreciation is improper and should be reversed.
+              can depreciate your claim. First, labor cannot be depreciated. Under 10 CCR
+              2695.9(f)(1), "the expense of labor necessary to repair, rebuild or replace
+              covered property is not a component of physical depreciation and shall not be
+              subject to depreciation or betterment." It costs the same to install a new roof
+              today whether the roof is one year old or twenty years old. If the insurer
+              depreciated labor in your estimate, that portion of the depreciation is improper
+              and should be reversed.
             </p>
             <p>
               Second, depreciating structural components like wood framing and concrete slab by
@@ -233,9 +235,9 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               simply apply a blanket percentage across the board.
             </p>
             <p>
-              Under 10 CCR 2695.9(f), the insurer must provide you with a written explanation
-              of how they calculated depreciation, including the expected useful life and age of
-              each item. Review the estimate line by line. If the insurer cannot justify the
+              Under 10 CCR 2695.9(f), when the amount claimed is adjusted for depreciation,
+              the justification must be contained in the claim file, and the adjustments must be
+              discernible, measurable, itemized, and specified as to dollar amount. Review the estimate line by line. If the insurer cannot justify the
               depreciation with specific reasoning, challenge it. A Public Adjuster can review
               the estimate, identify improper depreciation, and negotiate to have it corrected,
               potentially recovering tens of thousands of dollars.
@@ -1144,34 +1146,52 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
         answer: (
           <>
             <p>
-              The insurer's position is legally questionable and, in many cases, wrong. California
-              courts have addressed the issue of contamination as "physical loss or damage" in
-              several important cases. The presence of toxic contaminants such as mercury, arsenic,
-              lead, or other hazardous substances on your walls and floors renders your home unsafe
-              for habitation and diminishes its value — that constitutes physical loss and damage
-              to the property. A home that cannot be safely occupied because of toxic contamination
-              is, by any reasonable definition, damaged.
+              This is an evolving and heavily litigated area of California law. Whether
+              contamination constitutes "direct physical loss or damage" depends on the facts —
+              specifically, whether the contamination results in a distinct, demonstrable physical
+              alteration to the property. That standard comes from the California Supreme Court's
+              2024 decision in <em>Another Planet Entertainment v. Vigilant Insurance Co.</em>,
+              which held that "direct physical loss or damage" requires more than a temporary
+              or easily remediated condition.
             </p>
             <p>
-              Many homeowners policies provide coverage for "direct physical loss" to the dwelling.
-              While some policies have specific exclusions for "pollutants" or "contaminants," the
-              application of these exclusions depends heavily on the specific circumstances. If the
-              contamination resulted from a covered peril — for example, a fire that released toxic
-              materials from burned building materials, or a covered event that disturbed
-              asbestos-containing materials — the resulting contamination may be covered as a
-              consequence of the covered loss. The "pollution exclusion" in many policies was
-              originally intended for industrial pollution, not for contamination resulting from
-              insured events affecting a home.
+              Two 2025 decisions illustrate how courts apply that standard differently depending
+              on the facts. In <em>Gharibian v. Wawanesa General Insurance Co.</em> (Cal. Ct. App.
+              2025), the court held that wildfire soot, ash, and smoke residue that was easily
+              cleaned did <em>not</em> constitute direct physical loss. But in{' '}
+              <em>Bottega, LLC v. National Surety Corp.</em> (N.D. Cal. 2025), a federal court held
+              that severe smoke contamination requiring months of cleaning and upholstery
+              replacement <em>did</em> constitute direct physical loss — explicitly distinguishing
+              the COVID-19 surface contamination cases, where courts overwhelmingly denied coverage
+              because a virus on a granite countertop dissipates naturally and does not physically
+              alter the property. Smoke, by contrast, deposits particulate matter and combustion
+              byproducts that embed in porous materials and require professional remediation.
             </p>
             <p>
-              This is a complex coverage issue that requires careful analysis of your specific
-              policy language and the source of the contamination. Do not accept the insurer's
-              denial at face value. Hire an industrial hygienist to document the contamination
-              with testing and a written report. Then consult with a Public Adjuster and/or an
-              attorney experienced in coverage disputes. If the contamination resulted from a
-              covered event, you may have a strong argument for coverage, and the insurer's
-              blanket denial may constitute bad faith under California Insurance Code Section
-              790.03(h).
+              The California Department of Insurance has weighed in with Bulletin 2025-7, issued
+              after the Palisades and Eaton fires, emphasizing that insurers must fully investigate
+              smoke claims and that the mere presence of debris does not end the inquiry. CDI has
+              also convened a Smoke Claims &amp; Remediation Task Force to develop uniform testing
+              and remediation standards. Legislation (AB 1795) is working through the California
+              Legislature as of 2026 and would create the nation's first statewide framework for
+              smoke damage claims, including mandatory inspection timelines, science-based testing
+              protocols, and uniform remediation standards.
+            </p>
+            <p>
+              The key distinction is between <strong>toxic contamination</strong> — mercury,
+              arsenic, lead, and other hazardous substances from wildfire smoke that embed in
+              building materials and render a home unsafe for habitation — and surface-level
+              conditions that can be easily cleaned. Toxic contaminants from wildfire smoke present
+              a far stronger case for coverage than the COVID surface contamination that courts
+              rejected, because these contaminants persist indefinitely, require professional
+              remediation, and create genuine health hazards that prevent occupancy.
+            </p>
+            <p>
+              This is a complex and rapidly changing area of law. Do not accept the insurer's
+              denial at face value. Hire a qualified industrial hygienist to document the
+              contamination with testing and a written report. Then consult with a Public Adjuster
+              and an attorney experienced in coverage disputes. If the contamination resulted from
+              a covered event, you may have a strong argument for coverage.
             </p>
           </>
         ),
@@ -1185,6 +1205,39 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
     title: 'Common Myths',
     icon: '\uD83D\uDEAB',
     questions: [
+      {
+        id: 'is-insurer-always-wrong',
+        question:
+          'Is the insurance company always wrong? It seems like every answer on this site assumes the carrier is acting in bad faith.',
+        answer: (
+          <>
+            <p>
+              No. The majority of insurance claims are handled properly, and many adjusters
+              are competent professionals who work to reach fair outcomes. Insurance companies
+              have legitimate business reasons for many of their practices \u2014 verifying the
+              scope of damage, investigating the cause of loss, and applying policy provisions
+              as written. Not every disagreement is bad faith, and not every low estimate is a
+              lowball.
+            </p>
+            <p>
+              This website exists because the claims process is not always fair, and when it
+              is not, most policyholders do not know enough to recognize the problem \u2014 much less
+              to push back effectively. The content here focuses on the patterns of conduct that
+              cause real financial harm: incorrect denial rationales, unsupported depreciation,
+              refusal to follow regulatory deadlines, and other practices that violate California
+              law. Those patterns are real and well-documented, but they do not describe every
+              carrier or every claim.
+            </p>
+            <p>
+              If your carrier investigates your claim thoroughly, explains their position
+              clearly, pays a fair amount promptly, and responds to your communications within
+              the regulatory timeframes \u2014 they are doing their job, and this website was not
+              written about them. Claims disputes are often nuanced, and a good-faith
+              disagreement about the value of a loss is not the same as bad faith.
+            </p>
+          </>
+        ),
+      },
       {
         id: 'myth-adjuster-on-your-side',
         question:

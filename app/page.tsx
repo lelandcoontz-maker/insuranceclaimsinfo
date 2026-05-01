@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { LegalDisclaimer } from '@/components/content/LegalDisclaimer'
 
 // ── Resource cards shown on the homepage ─────────────────────────────────────
 const RESOURCES = [
@@ -82,7 +83,7 @@ const STEPS = [
   {
     num: '3',
     title: 'Get Professional Help',
-    desc: 'If your claim is large or your insurer is giving you trouble, a licensed Public Adjuster can represent you and maximize your recovery.',
+    desc: 'If your claim is large or your insurer is giving you trouble, a licensed Public Adjuster can represent you and fight for the full value of your claim.',
   },
 ]
 
@@ -112,10 +113,17 @@ export default function HomePage() {
             </Link>
           </div>
           <p className="text-blue-300 text-sm mt-6">
-            Leland Coontz III · CA Public Adjuster License #2B53445 · Public Adjusting throughout California · Insurance Appraisal Services Nationwide
+            Leland Coontz III · CA Public Adjuster License #2B53445 · Public Adjusting throughout California · Appraisal Services Available in California and Select Other States
           </p>
         </div>
       </section>
+
+      {/* ── Disclaimer ────────────────────────────────────────────────────── */}
+      <div className="max-w-5xl mx-auto px-4 pt-4 text-center">
+        <p className="text-xs text-gray-400 italic">
+          This website provides insurance claims education and information, not legal advice.
+        </p>
+      </div>
 
       {/* ── Trust bar ─────────────────────────────────────────────────────── */}
       <section className="bg-[#EFF4FB] border-y border-blue-100 py-5 px-4">

@@ -151,6 +151,16 @@ export default function Content() {
         professionals who work exclusively for policyholders.
       </p>
 
+      <CalloutBox variant="tip" title="Know When Professional Help Is Needed">
+        <p>
+          A Public Adjuster can help with complex claims involving significant damage, multiple
+          coverages, or lowball estimates. An attorney is essential if your claim has been denied,
+          if you suspect bad faith, if you have been asked to give an Examination Under Oath, or
+          if your statute of limitations is approaching. On large or contested claims, a Public
+          Adjuster and attorney working together can be the most effective combination.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Step 8: Settlement or Dispute Resolution
       </h2>
@@ -179,9 +189,13 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Do Not Wait Too Long">
         <p>
-          Statutes of limitation apply to insurance claims. In California, you generally have two
-          years from the date the claim is denied (or one year for some policy provisions). Consult
-          with an attorney if you are approaching these deadlines.
+          Statutes of limitation apply to insurance claims. Most California homeowners policies
+          contain a one-year suit limitation clause originating from Insurance Code Section 2071,
+          which requires the policyholder to bring suit within 12 months after the inception of
+          loss. However, California law provides for equitable tolling — the limitations period
+          may be paused while the insurer is actively adjusting the claim. The interplay between
+          the contractual limitation period and equitable tolling is complex and fact-specific.
+          Consult with an insurance coverage attorney well before you approach any deadline.
         </p>
       </CalloutBox>
 
@@ -190,6 +204,13 @@ export default function Content() {
         step before you need to take it gives you a significant advantage. If the process feels
         overwhelming, remember that licensed Public Adjusters exist specifically to guide
         policyholders through every phase of the claim.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

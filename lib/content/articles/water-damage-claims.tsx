@@ -109,7 +109,7 @@ export default function Content() {
         the building necessary to access the source of the leak. Read your policy carefully on
         this point, and if in doubt, consult a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -248,6 +248,12 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

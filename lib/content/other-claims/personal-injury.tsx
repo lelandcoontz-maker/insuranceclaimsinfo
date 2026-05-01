@@ -102,6 +102,7 @@ export default function Content() {
         III maintains a network of trusted personal injury attorneys in California. If you have been
         injured and need legal representation, we can provide a free referral to an experienced
         attorney who can evaluate your case. There is no cost or obligation for the referral.
+        We receive no compensation for attorney referrals.
       </p>
 
       <LeadCaptureForm
@@ -109,6 +110,13 @@ export default function Content() {
         heading="Get Connected With a Personal Injury Attorney"
         description="Tell us about your situation and we'll connect you with a trusted personal injury attorney. Free referral, no obligation."
       />
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

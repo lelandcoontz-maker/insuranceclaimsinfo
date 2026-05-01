@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 960 700" xmlns="http://www.w3.org/2000/svg" style="font-family: 'Source Sans Pro', 'Segoe UI', sans-serif">
+  <defs>
+    <!-- Concrete gradient -->
+    <linearGradient id="concreteGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c0bab0"/>
+      <stop offset="100%" stop-color="#a8a298"/>
+    </linearGradient>
+    <!-- Saturated concrete gradient -->
+    <linearGradient id="concreteSatGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#98aab8"/>
+      <stop offset="100%" stop-color="#8898a8"/>
+    </linearGradient>
+    <!-- Fill dirt gradient -->
+    <linearGradient id="fillGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c4a87a"/>
+      <stop offset="100%" stop-color="#a88a60"/>
+    </linearGradient>
+    <!-- Natural soil gradient -->
+    <linearGradient id="naturalGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8a7a5e"/>
+      <stop offset="100%" stop-color="#6a5c44"/>
+    </linearGradient>
+    <!-- Copper pipe gradient -->
+    <linearGradient id="pipeCopper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8a5c2a"/>
+      <stop offset="50%" stop-color="#b87333"/>
+      <stop offset="100%" stop-color="#8a5c2a"/>
+    </linearGradient>
+    <!-- Repaired pipe gradient -->
+    <linearGradient id="pipeRepaired" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7a7a7a"/>
+      <stop offset="50%" stop-color="#a0a0a0"/>
+      <stop offset="100%" stop-color="#7a7a7a"/>
+    </linearGradient>
+    <!-- Water gradient -->
+    <linearGradient id="waterGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5ba3d9"/>
+      <stop offset="100%" stop-color="#3d7ab5"/>
+    </linearGradient>
+    <!-- Tile pattern -->
+    <pattern id="tilePattern" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <rect width="30" height="30" fill="#e6e0d6"/>
+      <rect x="0.5" y="0.5" width="14" height="14" rx="0.5" fill="#ede8df"/>
+      <rect x="15.5" y="0.5" width="14" height="14" rx="0.5" fill="#ede8df"/>
+      <rect x="0.5" y="15.5" width="14" height="14" rx="0.5" fill="#ede8df"/>
+      <rect x="15.5" y="15.5" width="14" height="14" rx="0.5" fill="#ede8df"/>
+    </pattern>
+    <!-- Fill dirt dots -->
+    <pattern id="fillDots" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#b89868"/>
+      <circle cx="3" cy="3" r="1" fill="#a08050" opacity="0.5"/>
+      <circle cx="8" cy="7" r="1.2" fill="#a08050" opacity="0.4"/>
+    </pattern>
+    <!-- Saturated fill dots -->
+    <pattern id="fillDotsSat" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#8a9a8a"/>
+      <circle cx="3" cy="3" r="1" fill="#7a8a7a" opacity="0.5"/>
+      <circle cx="8" cy="7" r="1.2" fill="#7a8a7a" opacity="0.4"/>
+    </pattern>
+    <!-- Natural soil dots -->
+    <pattern id="naturalDots" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#7a6a50"/>
+      <circle cx="4" cy="4" r="1.5" fill="#6a5a40" opacity="0.5"/>
+      <circle cx="10" cy="9" r="1" fill="#6a5a40" opacity="0.4"/>
+    </pattern>
+    <!-- Saturated natural soil dots -->
+    <pattern id="naturalDotsSat" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#6a7a6a"/>
+      <circle cx="4" cy="4" r="1.5" fill="#5a6a5a" opacity="0.5"/>
+      <circle cx="10" cy="9" r="1" fill="#5a6a5a" opacity="0.4"/>
+    </pattern>
+    <!-- Drop shadow filter -->
+    <filter id="sh" x="-5%" y="-5%" width="115%" height="115%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-opacity="0.1"/>
+    </filter>
+    <!-- Arrow markers -->
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#3d7ab5"/>
+    </marker>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c45028"/>
+    </marker>
+    <marker id="arrowGray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#666"/>
+    </marker>
+  </defs>
+
+  <!-- ==================== HEADER BAR ==================== -->
+  <rect x="0" y="0" width="960" height="55" fill="#1a2744" rx="10"/>
+  <text x="480" y="25" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">SUB-SLAB HOT WATER PIPE LEAK — EFFECTS ON SLAB-ON-GRADE HOME</text>
+  <text x="480" y="44" text-anchor="middle" font-size="12" fill="#8aa4c8">Cross-section showing leak damage progression and hidden damage after surface drying</text>
+
+  <!-- ==================== CENTER DIVIDER ==================== -->
+  <line x1="480" y1="58" x2="480" y2="590" stroke="#bbb" stroke-width="1.5" stroke-dasharray="8,4"/>
+
+  <!-- ==================== SECTION HEADERS ==================== -->
+  <text x="240" y="78" text-anchor="middle" font-size="14" font-weight="700" fill="#1a2744">DURING LEAK</text>
+  <text x="720" y="78" text-anchor="middle" font-size="14" font-weight="700" fill="#1a2744">AFTER MITIGATION (Surface Dried)</text>
+
+
+  <!-- ================================================================ -->
+  <!-- ==================== LEFT SIDE: DURING LEAK ==================== -->
+  <!-- ================================================================ -->
+
+  <!-- LAYER POSITIONS (left side):
+       Tile:        y=150  to y=165  (15px)
+       Thin-set:    y=165  to y=175  (10px)
+       Concrete:    y=175  to y=220  (45px, ~4-6")
+       Fill dirt:   y=220  to y=350  (130px)
+       Nat grade:   y=350
+       Natural soil: y=350 to y=490 (140px)
+  -->
+
+  <!-- Standing water on tile surface -->
+  <rect x="55" y="146" width="370" height="6" rx="2" fill="#5ba3d9" opacity="0.45"/>
+  <text x="240" y="143" text-anchor="middle" font-size="9" fill="#3d7ab5" font-weight="600">STANDING WATER ON SURFACE</text>
+
+  <!-- 1. Tile floor -->
+  <rect x="55" y="150" width="370" height="15" fill="url(#tilePattern)" stroke="#c8b8a0" stroke-width="1"/>
+
+  <!-- 2. Thin-set / bond layer -->
+  <rect x="55" y="165" width="370" height="10" fill="#d4c8b4" stroke="#c0b098" stroke-width="0.5"/>
+
+  <!-- 3. Concrete slab -->
+  <rect x="55" y="175" width="370" height="45" fill="url(#concreteGrad)" stroke="#908880" stroke-width="1.5" filter="url(#sh)"/>
+
+  <!-- Water migrating up through concrete: blue arrows -->
+  <line x1="160" y1="218" x2="160" y2="178" stroke="#3d7ab5" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowBlue)"/>
+  <line x1="200" y1="218" x2="200" y2="178" stroke="#3d7ab5" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowBlue)"/>
+  <line x1="240" y1="218" x2="240" y2="178" stroke="#3d7ab5" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowBlue)"/>
+  <line x1="280" y1="218" x2="280" y2="178" stroke="#3d7ab5" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowBlue)"/>
+  <line x1="320" y1="218" x2="320" y2="178" stroke="#3d7ab5" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowBlue)"/>
+
+  <!-- 4. Engineered fill dirt -->
+  <rect x="55" y="220" width="370" height="130" fill="url(#fillDots)" stroke="#b89868" stroke-width="1"/>
+
+  <!-- Water saturation zone around pipe in fill dirt -->
+  <ellipse cx="240" cy="290" rx="120" ry="55" fill="#5ba3d9" opacity="0.2" stroke="none"/>
+  <ellipse cx="240" cy="290" rx="80" ry="35" fill="#5ba3d9" opacity="0.15" stroke="none"/>
+
+  <!-- Copper pipe in fill dirt (burst) -->
+  <rect x="100" y="283" width="130" height="14" rx="4" fill="url(#pipeCopper)" stroke="#7a5020" stroke-width="1.5"/>
+  <!-- Break/burst in pipe -->
+  <rect x="230" y="280" width="20" height="20" fill="url(#fillDots)" stroke="none"/>
+  <path d="M 230 283 L 228 288 L 232 290 L 226 295 L 230 297" stroke="#8a5c2a" stroke-width="1.5" fill="none"/>
+  <path d="M 250 283 L 252 288 L 248 290 L 254 295 L 250 297" stroke="#8a5c2a" stroke-width="1.5" fill="none"/>
+  <!-- Pipe continues on right of break -->
+  <rect x="250" y="283" width="130" height="14" rx="4" fill="url(#pipeCopper)" stroke="#7a5020" stroke-width="1.5"/>
+
+  <!-- Water spray from burst -->
+  <!-- Wavy water lines spraying from the break -->
+  <path d="M 235 280 Q 230 268, 225 260" stroke="#3d7ab5" stroke-width="1.2" fill="none" opacity="0.7"/>
+  <path d="M 240 278 Q 240 265, 238 255" stroke="#3d7ab5" stroke-width="1.2" fill="none" opacity="0.7"/>
+  <path d="M 245 280 Q 250 268, 255 260" stroke="#3d7ab5" stroke-width="1.2" fill="none" opacity="0.7"/>
+  <path d="M 237 300 Q 230 315, 225 325" stroke="#3d7ab5" stroke-width="1.2" fill="none" opacity="0.7"/>
+  <path d="M 243 302 Q 248 318, 255 328" stroke="#3d7ab5" stroke-width="1.2" fill="none" opacity="0.7"/>
+  <!-- Water droplets -->
+  <circle cx="223" cy="258" r="2" fill="#5ba3d9" opacity="0.6"/>
+  <circle cx="257" cy="262" r="2" fill="#5ba3d9" opacity="0.6"/>
+  <circle cx="236" cy="253" r="1.5" fill="#5ba3d9" opacity="0.6"/>
+  <circle cx="240" cy="248" r="2" fill="#5ba3d9" opacity="0.5"/>
+  <circle cx="230" cy="320" r="2" fill="#5ba3d9" opacity="0.5"/>
+  <circle cx="250" cy="325" r="2" fill="#5ba3d9" opacity="0.5"/>
+
+  <!-- 5. NATURAL GRADE LINE (PROMINENT) -->
+  <line x1="30" y1="350" x2="465" y2="350" stroke="#5a4a30" stroke-width="2.5" stroke-dasharray="10,5"/>
+  <rect x="30" y="334" width="130" height="16" rx="3" fill="#5a4a30"/>
+  <text x="95" y="346" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">NATURAL GRADE</text>
+
+  <!-- 6. Natural / undisturbed soil -->
+  <rect x="55" y="350" width="370" height="140" fill="url(#naturalDots)" stroke="none"/>
+
+  <!-- 10. Void beneath slab from soil displacement -->
+  <ellipse cx="240" cy="365" rx="70" ry="18" fill="#444" opacity="0.25" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="240" y="370" text-anchor="middle" font-size="8" fill="#888" font-weight="600">VOID (soil displacement)</text>
+
+  <!-- ===== LEFT SIDE NUMBERED LABELS ===== -->
+
+  <!-- Label 1: Tile floor -->
+  <line x1="55" y1="157" x2="30" y2="100" stroke="#666" stroke-width="0.8"/>
+  <circle cx="22" cy="95" r="8" fill="#1a2744"/>
+  <text x="22" y="99" text-anchor="middle" font-size="9" fill="#fff" font-weight="700">1</text>
+  <text x="34" y="96" font-size="9" fill="#444" font-weight="600">Tile floor</text>
+
+  <!-- Label 2: Thin-set -->
+  <line x1="55" y1="170" x2="30" y2="115" stroke="#666" stroke-width="0.8"/>
+  <circle cx="22" cy="112" r="8" fill="#1a2744"/>
+  <text x="22" y="116" text-anchor="middle" font-size="9" fill="#fff" font-weight="700">2</text>
+  <text x="34" y="113" font-size="9" fill="#444" font-weight="600">Thin-set mortar</text>
+
+  <!-- Label 3: Concrete slab -->
+  <rect x="430" y="185" width="45" height="24" rx="4" fill="#fff" stroke="#908880" stroke-width="1"/>
+  <circle cx="436" cy="192" r="7" fill="#1a2744"/>
+  <text x="436" y="196" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">3</text>
+  <text x="447" y="196" font-size="8" fill="#555" font-weight="600">Slab</text>
+  <text x="447" y="205" font-size="7" fill="#555">4-6"</text>
+
+  <!-- Label 4: Fill dirt -->
+  <rect x="90" y="238" width="105" height="30" rx="5" fill="#fff8f0" stroke="#b89868" stroke-width="1"/>
+  <circle cx="100" cy="248" r="7" fill="#1a2744"/>
+  <text x="100" y="252" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">4</text>
+  <text x="110" y="250" font-size="9" fill="#7a6040" font-weight="700">ENGINEERED</text>
+  <text x="110" y="261" font-size="9" fill="#7a6040" font-weight="700">FILL DIRT</text>
+
+  <!-- Label 5: Water migrating upward -->
+  <rect x="335" y="92" width="125" height="38" rx="5" fill="#e8f4fc" stroke="#3d7ab5" stroke-width="1"/>
+  <circle cx="345" cy="104" r="7" fill="#1a2744"/>
+  <text x="345" y="108" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">5</text>
+  <text x="357" y="106" font-size="9" fill="#3d7ab5" font-weight="600">Water migrating</text>
+  <text x="357" y="118" font-size="9" fill="#3d7ab5" font-weight="600">up through slab</text>
+  <line x1="397" y1="130" x2="280" y2="178" stroke="#3d7ab5" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Label 6: Burst pipe -->
+  <rect x="300" y="240" width="120" height="28" rx="5" fill="#fff4e8" stroke="#b87333" stroke-width="1.5"/>
+  <circle cx="310" cy="250" r="7" fill="#1a2744"/>
+  <text x="310" y="254" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">6</text>
+  <text x="323" y="252" font-size="9" fill="#8a5c2a" font-weight="700">BURST PIPE</text>
+  <text x="323" y="262" font-size="8" fill="#8a5c2a">(in fill, not underground)</text>
+  <line x1="360" y1="268" x2="245" y2="282" stroke="#8a5c2a" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Label 7: Standing water -->
+  <rect x="55" y="92" width="120" height="38" rx="5" fill="#e8f4fc" stroke="#3d7ab5" stroke-width="1"/>
+  <circle cx="65" cy="104" r="7" fill="#1a2744"/>
+  <text x="65" y="108" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">7</text>
+  <text x="78" y="106" font-size="9" fill="#3d7ab5" font-weight="600">Standing water</text>
+  <text x="78" y="118" font-size="9" fill="#3d7ab5" font-weight="600">on tile surface</text>
+  <line x1="115" y1="130" x2="180" y2="147" stroke="#3d7ab5" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Label 8: Void -->
+  <rect x="330" y="390" width="115" height="28" rx="5" fill="#f5f5f5" stroke="#888" stroke-width="1"/>
+  <circle cx="340" cy="400" r="7" fill="#1a2744"/>
+  <text x="340" y="404" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">8</text>
+  <text x="353" y="403" font-size="9" fill="#666" font-weight="600">Void forming</text>
+  <text x="353" y="414" font-size="8" fill="#666">(soil displaced by water)</text>
+  <line x1="390" y1="390" x2="280" y2="368" stroke="#666" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Label 9: Natural soil -->
+  <text x="120" y="440" text-anchor="middle" font-size="10" fill="#c0b090" font-weight="600">NATURAL SOIL</text>
+  <text x="120" y="455" text-anchor="middle" font-size="10" fill="#c0b090" font-weight="600">(UNDISTURBED)</text>
+
+  <!-- "ABOVE GRADE" dimension line -->
+  <line x1="44" y1="220" x2="44" y2="350" stroke="#2e7d32" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <line x1="38" y1="220" x2="50" y2="220" stroke="#2e7d32" stroke-width="1.2"/>
+  <line x1="38" y1="350" x2="50" y2="350" stroke="#2e7d32" stroke-width="1.2"/>
+  <rect x="20" y="268" width="48" height="38" rx="4" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1"/>
+  <text x="44" y="280" text-anchor="middle" font-size="8" fill="#2e7d32" font-weight="700">ABOVE</text>
+  <text x="44" y="290" text-anchor="middle" font-size="8" fill="#2e7d32" font-weight="700">GRADE</text>
+  <text x="44" y="300" text-anchor="middle" font-size="7" fill="#2e7d32">~12-24"</text>
+
+
+  <!-- ================================================================== -->
+  <!-- ======= RIGHT SIDE: AFTER MITIGATION (Surface Dried) ============ -->
+  <!-- ================================================================== -->
+
+  <!-- LAYER POSITIONS (right side):
+       Tile:        y=150  to y=165  (15px)
+       Bond layer:  y=165  to y=175  (10px) - moisture trapped
+       Concrete:    y=175  to y=220  (45px) - still saturated
+       Fill dirt:   y=220  to y=350  (130px) - still saturated
+       Nat grade:   y=350
+       Natural soil: y=350 to y=490 (140px) - still saturated
+  -->
+
+  <!-- "Surface appears dry" indicator -->
+  <rect x="540" y="137" width="150" height="14" rx="3" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1"/>
+  <text x="615" y="148" text-anchor="middle" font-size="9" fill="#2e7d32" font-weight="600">SURFACE APPEARS DRY</text>
+
+  <!-- 1. Tile floor (dry on surface) -->
+  <rect x="535" y="150" width="370" height="15" fill="url(#tilePattern)" stroke="#c8b8a0" stroke-width="1"/>
+
+  <!-- 2. Bond layer with TRAPPED moisture (highlighted) -->
+  <rect x="535" y="165" width="370" height="10" fill="#7ab8d4" stroke="#5a98b4" stroke-width="1"/>
+  <!-- Wavy gap showing bond deterioration at tile-to-slab interface -->
+  <path d="M 535 165 Q 555 163, 575 165 Q 595 167, 615 165 Q 635 163, 655 165 Q 675 167, 695 165 Q 715 163, 735 165 Q 755 167, 775 165 Q 795 163, 815 165 Q 835 167, 855 165 Q 875 163, 895 165 L 905 165" stroke="#c45028" stroke-width="1.2" fill="none" stroke-dasharray="3,2"/>
+
+  <!-- 3. Concrete slab (saturated - blue tint) -->
+  <rect x="535" y="175" width="370" height="45" fill="url(#concreteSatGrad)" stroke="#7888a0" stroke-width="1.5" filter="url(#sh)"/>
+
+  <!-- Moisture indicators in slab (small blue dots) -->
+  <circle cx="570" cy="195" r="1.5" fill="#5ba3d9" opacity="0.4"/>
+  <circle cx="610" cy="190" r="1.5" fill="#5ba3d9" opacity="0.4"/>
+  <circle cx="650" cy="198" r="1.5" fill="#5ba3d9" opacity="0.4"/>
+  <circle cx="690" cy="192" r="1.5" fill="#5ba3d9" opacity="0.4"/>
+  <circle cx="730" cy="196" r="1.5" fill="#5ba3d9" opacity="0.4"/>
+  <circle cx="770" cy="189" r="1.5" fill="#5ba3d9" opacity="0.4"/>
+  <circle cx="810" cy="195" r="1.5" fill="#5ba3d9" opacity="0.4"/>
+  <circle cx="850" cy="191" r="1.5" fill="#5ba3d9" opacity="0.4"/>
+
+  <!-- 4. Engineered fill dirt (still saturated) -->
+  <rect x="535" y="220" width="370" height="130" fill="url(#fillDotsSat)" stroke="#8a9a8a" stroke-width="1"/>
+
+  <!-- Residual moisture in fill -->
+  <ellipse cx="720" cy="280" rx="100" ry="45" fill="#5ba3d9" opacity="0.12" stroke="none"/>
+
+  <!-- Repaired pipe -->
+  <rect x="580" y="283" width="280" height="14" rx="4" fill="url(#pipeCopper)" stroke="#7a5020" stroke-width="1.5"/>
+  <!-- Repair coupling shown at previous break location -->
+  <rect x="706" y="280" width="28" height="20" rx="2" fill="url(#pipeRepaired)" stroke="#666" stroke-width="1.5"/>
+
+  <!-- 5. NATURAL GRADE LINE (PROMINENT) -->
+  <line x1="495" y1="350" x2="935" y2="350" stroke="#5a4a30" stroke-width="2.5" stroke-dasharray="10,5"/>
+  <rect x="800" y="334" width="130" height="16" rx="3" fill="#5a4a30"/>
+  <text x="865" y="346" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">NATURAL GRADE</text>
+
+  <!-- 6. Natural soil (still saturated) -->
+  <rect x="535" y="350" width="370" height="140" fill="url(#naturalDotsSat)" stroke="none"/>
+
+  <!-- Void still present -->
+  <ellipse cx="720" cy="365" rx="70" ry="18" fill="#444" opacity="0.25" stroke="#555" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="720" y="370" text-anchor="middle" font-size="8" fill="#888" font-weight="600">VOID REMAINS</text>
+
+  <!-- ===== RIGHT SIDE NUMBERED LABELS ===== -->
+
+  <!-- Label A: Trapped moisture in bond layer -->
+  <rect x="530" y="92" width="145" height="38" rx="5" fill="#fff4ec" stroke="#c45028" stroke-width="1.5"/>
+  <circle cx="540" cy="104" r="7" fill="#c45028"/>
+  <text x="540" y="108" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">A</text>
+  <text x="553" y="106" font-size="9" fill="#c45028" font-weight="600">Moisture TRAPPED</text>
+  <text x="553" y="118" font-size="9" fill="#c45028" font-weight="600">in bond layer</text>
+  <line x1="602" y1="130" x2="650" y2="165" stroke="#c45028" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Label B: Bond deterioration -->
+  <rect x="700" y="92" width="140" height="38" rx="5" fill="#fff4ec" stroke="#c45028" stroke-width="1.5"/>
+  <circle cx="710" cy="104" r="7" fill="#c45028"/>
+  <text x="710" y="108" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">B</text>
+  <text x="723" y="106" font-size="9" fill="#c45028" font-weight="600">Bond deterioration</text>
+  <text x="723" y="118" font-size="9" fill="#c45028" font-weight="600">(tile will debond)</text>
+  <line x1="770" y1="130" x2="770" y2="163" stroke="#c45028" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Label C: Slab still saturated -->
+  <rect x="908" y="178" width="48" height="32" rx="4" fill="#e8f4fc" stroke="#3d7ab5" stroke-width="1"/>
+  <circle cx="915" cy="189" r="7" fill="#1a2744"/>
+  <text x="915" y="193" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">C</text>
+  <text x="932" y="192" font-size="7" fill="#3d7ab5" font-weight="600">Slab</text>
+  <text x="932" y="202" font-size="7" fill="#3d7ab5" font-weight="600">wet</text>
+
+  <!-- Label D: Fill still saturated -->
+  <rect x="560" y="240" width="115" height="28" rx="5" fill="#e8f4fc" stroke="#3d7ab5" stroke-width="1"/>
+  <circle cx="570" cy="250" r="7" fill="#1a2744"/>
+  <text x="570" y="254" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">D</text>
+  <text x="583" y="252" font-size="9" fill="#3d7ab5" font-weight="600">Fill still saturated</text>
+  <text x="583" y="263" font-size="8" fill="#3d7ab5">(hidden from surface)</text>
+
+  <!-- Label E: Repaired pipe -->
+  <rect x="750" y="240" width="120" height="28" rx="5" fill="#f0f0f0" stroke="#888" stroke-width="1"/>
+  <circle cx="760" cy="250" r="7" fill="#1a2744"/>
+  <text x="760" y="254" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">E</text>
+  <text x="773" y="252" font-size="9" fill="#666" font-weight="600">Pipe repaired</text>
+  <text x="773" y="263" font-size="8" fill="#666">(coupling at break)</text>
+  <line x1="810" y1="268" x2="720" y2="282" stroke="#666" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Label F: Void unsupported -->
+  <rect x="810" y="390" width="120" height="38" rx="5" fill="#f5f5f5" stroke="#888" stroke-width="1"/>
+  <circle cx="820" cy="400" r="7" fill="#1a2744"/>
+  <text x="820" y="404" text-anchor="middle" font-size="8" fill="#fff" font-weight="700">F</text>
+  <text x="833" y="403" font-size="9" fill="#666" font-weight="600">Slab unsupported</text>
+  <text x="833" y="414" font-size="8" fill="#666">(void not addressed</text>
+  <text x="833" y="423" font-size="8" fill="#666">by surface drying)</text>
+  <line x1="870" y1="390" x2="760" y2="368" stroke="#666" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Label G: Soil still saturated -->
+  <text x="600" y="440" text-anchor="middle" font-size="10" fill="#a0b0a0" font-weight="600">SOIL STILL</text>
+  <text x="600" y="455" text-anchor="middle" font-size="10" fill="#a0b0a0" font-weight="600">SATURATED</text>
+
+  <!-- "ABOVE GRADE" dimension line (right side) -->
+  <line x1="524" y1="220" x2="524" y2="350" stroke="#2e7d32" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <line x1="518" y1="220" x2="530" y2="220" stroke="#2e7d32" stroke-width="1.2"/>
+  <line x1="518" y1="350" x2="530" y2="350" stroke="#2e7d32" stroke-width="1.2"/>
+  <rect x="500" y="268" width="48" height="38" rx="4" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1"/>
+  <text x="524" y="280" text-anchor="middle" font-size="8" fill="#2e7d32" font-weight="700">ABOVE</text>
+  <text x="524" y="290" text-anchor="middle" font-size="8" fill="#2e7d32" font-weight="700">GRADE</text>
+  <text x="524" y="300" text-anchor="middle" font-size="7" fill="#2e7d32">~12-24"</text>
+
+  <!-- ===== HIDDEN DAMAGE WARNING (right side) ===== -->
+  <rect x="540" y="510" width="360" height="48" rx="6" fill="#fff4ec" stroke="#e8a060" stroke-width="1.5"/>
+  <text x="720" y="528" text-anchor="middle" font-size="11" font-weight="700" fill="#c45028">HIDDEN DAMAGE BELOW SURFACE</text>
+  <text x="720" y="544" text-anchor="middle" font-size="9" fill="#888">Surface appears dry, but slab, fill, bond layer,</text>
+  <text x="720" y="554" text-anchor="middle" font-size="9" fill="#888">and soil remain saturated. Tile will fail.</text>
+
+
+  <!-- ================================================================ -->
+  <!-- ==================== LAYER LABELS (shared) ==================== -->
+  <!-- ================================================================ -->
+
+  <!-- Slab label inside left concrete -->
+  <text x="350" y="200" text-anchor="middle" font-size="10" fill="#666" font-weight="700">CONCRETE SLAB</text>
+
+  <!-- Slab label inside right concrete -->
+  <text x="730" y="200" text-anchor="middle" font-size="10" fill="#4a6080" font-weight="700">SLAB (SATURATED)</text>
+
+
+  <!-- ================================================================ -->
+  <!-- ========== KEY COVERAGE POINT (bottom callout) ================ -->
+  <!-- ================================================================ -->
+
+  <rect x="30" y="575" width="900" height="68" rx="8" fill="#fff4ec" stroke="#c45028" stroke-width="2"/>
+  <rect x="30" y="575" width="6" height="68" rx="3" fill="#c45028"/>
+  <text x="480" y="595" text-anchor="middle" font-size="13" font-weight="700" fill="#c45028">KEY COVERAGE POINT</text>
+  <text x="480" y="613" text-anchor="middle" font-size="11" fill="#333">The pipe is located in engineered fill dirt ABOVE the natural grade — it is not "underground."</text>
+  <text x="480" y="630" text-anchor="middle" font-size="11" fill="#333">Policy exclusions for underground pipes do not apply to pipes embedded in construction fill above the natural ground surface.</text>
+
+  <!-- ==================== LEGEND ==================== -->
+  <rect x="30" y="650" width="900" height="40" rx="6" fill="#f8f8f8" stroke="#dde3eb" stroke-width="1"/>
+  <text x="50" y="668" font-size="10" font-weight="700" fill="#1a2744">LEGEND:</text>
+  <rect x="110" y="662" width="16" height="8" rx="2" fill="url(#pipeCopper)"/>
+  <text x="130" y="670" font-size="9" fill="#444">Copper pipe</text>
+  <rect x="210" y="662" width="16" height="8" rx="2" fill="url(#pipeRepaired)"/>
+  <text x="230" y="670" font-size="9" fill="#444">Repair coupling</text>
+  <line x1="330" y1="666" x2="346" y2="666" stroke="#3d7ab5" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowBlue)"/>
+  <text x="352" y="670" font-size="9" fill="#444">Water migration</text>
+  <line x1="460" y1="666" x2="490" y2="666" stroke="#5a4a30" stroke-width="2.5" stroke-dasharray="10,5"/>
+  <text x="498" y="670" font-size="9" fill="#444">Natural grade line</text>
+  <rect x="600" y="662" width="16" height="8" rx="2" fill="#5ba3d9" opacity="0.3"/>
+  <text x="620" y="670" font-size="9" fill="#444">Saturation zone</text>
+  <rect x="710" y="662" width="16" height="8" rx="2" fill="#7ab8d4"/>
+  <text x="730" y="670" font-size="9" fill="#444">Trapped moisture</text>
+  <ellipse cx="838" cy="666" rx="12" ry="5" fill="#444" opacity="0.2" stroke="#555" stroke-width="0.7" stroke-dasharray="2,1"/>
+  <text x="855" y="670" font-size="9" fill="#444">Void</text>
+
+  <!-- ==================== COPYRIGHT ==================== -->
+  <text x="480" y="698" text-anchor="middle" font-size="9" fill="#aaa">© 2026 Leland Coontz, Licensed Public Adjuster • All rights reserved</text>
+</svg>

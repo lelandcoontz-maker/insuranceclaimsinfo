@@ -169,6 +169,13 @@ export default function Content() {
         directly translates to dollars recovered. If the process feels overwhelming, a licensed
         Public Adjuster can manage it for you and ensure you recover every dollar you are owed.
       </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

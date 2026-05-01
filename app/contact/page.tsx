@@ -232,7 +232,8 @@ export default function ContactPage() {
             </button>
 
             <p className="text-xs text-gray-400 text-center leading-relaxed">
-              Your information is never sold or shared with third parties.
+              Your information is never sold to third parties. For details on how we handle referral
+              information, see our <a href="/privacy" className="underline hover:text-gray-600">Privacy Policy</a>.
               By submitting, you consent to being contacted about your insurance claim.
             </p>
           </form>

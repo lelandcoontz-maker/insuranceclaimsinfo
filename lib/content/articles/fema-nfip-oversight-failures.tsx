@@ -106,7 +106,7 @@ export default function Content() {
             adjuster reports, engineering reports, and internal notes.
           </li>
           <li>
-            Get an independent estimate from a licensed contractor or public adjuster to compare
+            Get an independent estimate from a licensed contractor or Public Adjuster to compare
             against the insurer&apos;s numbers.
           </li>
           <li>
@@ -118,7 +118,8 @@ export default function Content() {
             following NFIP claims-handling guidelines.
           </li>
           <li>
-            Consult with an attorney experienced in flood insurance claims if the amounts are
+            Consult a Public Adjuster for claim documentation and negotiation, or an attorney
+            experienced in flood insurance claims for legal advice, if the amounts are
             significant and the insurer is unresponsive.
           </li>
         </ul>
@@ -205,6 +206,12 @@ export default function Content() {
         recommendations for improving FEMA&apos;s oversight of WYO companies. The report
         provides an objective, government-sourced assessment of the structural weaknesses in
         the flood insurance claims-handling system.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

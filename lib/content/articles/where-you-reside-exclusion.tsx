@@ -220,7 +220,7 @@ export default function Content() {
         Practical Guidance for Policyholders and Practitioners
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Whether you are a policyholder, an insurance agent, or a public adjuster, this issue
+        Whether you are a policyholder, an insurance agent, or a Public Adjuster, this issue
         requires proactive attention. The following steps can significantly reduce the risk of a
         coverage denial based on the &ldquo;where you reside&rdquo; language.
       </p>

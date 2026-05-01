@@ -471,7 +471,7 @@ export default function Content() {
         <li>Respond in writing, noting that the carrier&rsquo;s coverage determination did not address the ensuing loss provision in the same section of the policy they quoted. In California, note that 10 CCR &sect;2695.7(b)(1) requires the denial to reference the specific policy provisions at issue &mdash; including provisions that limit the scope of the exclusion.</li>
         <li>If the carrier does not respond or reaffirms the denial, consider engaging a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or an attorney who specializes in insurance coverage disputes. In California, you may also{' '}
           <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">

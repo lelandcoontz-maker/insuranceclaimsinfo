@@ -148,9 +148,9 @@ export default function Content() {
         There is no universal formula, but it is common for the final settlement to exceed
         the first offer by 30–100% or more — especially on total losses and complex claims.
         A 2010 study by OPPAGA, the research arm of the Florida Legislature, found that
-        policyholders who hired public adjusters for hurricane claims filed with Citizens Property
+        policyholders who hired Public Adjusters for hurricane claims filed with Citizens Property
         Insurance received settlements averaging 747% higher than those who handled claims on their
-        own — though net benefit is lower after public adjuster fees.
+        own — though net benefit is lower after Public Adjuster fees.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The gap can be extreme. A CBS 60 Minutes episode titled &ldquo;After the Hurricane,&rdquo;

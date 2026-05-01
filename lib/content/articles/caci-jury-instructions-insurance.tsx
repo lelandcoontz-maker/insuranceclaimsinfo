@@ -27,6 +27,18 @@ export default function Content() {
         <strong>CACI &mdash; California Civil Jury Instructions</strong>. They are the bridge between
         the statutes, the case law, and the people who actually decide the case.
       </p>
+
+      <CalloutBox variant="info" title="About These Instructions">
+        <p>
+          The California Civil Jury Instructions (CACI) are public domain documents adopted and maintained
+          by the{' '}
+          <a href="https://courts.ca.gov/partners/california-jury-instructions/civil-jury-instructions-resource-center/civil-jury-instructions" className="text-[#2E74B5] hover:underline" target="_blank" rel="noopener noreferrer">Judicial Council of California</a>.
+          This article summarizes select CACI instructions relevant to insurance disputes for educational
+          purposes. It is not legal advice. If you are involved in insurance litigation, share these
+          references with your attorney, who can advise you on how they apply to your specific situation.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         For policyholders disputing their insurance company&rsquo;s handling of a claim, the CACI Series 2300 instructions are
         the standard framework. They define what it means to breach a policy, what constitutes{' '}
@@ -522,7 +534,7 @@ export default function Content() {
         <Link href="/resources/first-offer-lowball" className="text-[#2E74B5] underline">
           lowball settlement offer
         </Link>{' '}
-        that is 40% below the actual cost to rebuild. The policyholder hires a public adjuster and
+        that is 40% below the actual cost to rebuild. The policyholder hires a Public Adjuster and
         an attorney and eventually sues.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -623,49 +635,52 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         You do not need to be a lawyer to benefit from understanding jury instructions. The CACI
-        Series 2300 instructions tell you, in plain English, exactly what a jury will be asked to
-        decide if your case goes to trial. That means they also tell you what evidence you need to
-        build your case:
+        Series 2300 instructions describe, in plain English, what a jury will be asked to decide if
+        an insurance dispute goes to trial. Sharing these references with your attorney can help you
+        have more informed conversations about your claim:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Document everything.</strong> CACI 2331 requires proof that the insurer
-          unreasonably failed to pay or delayed payment. That means you need a paper trail of every
-          communication, every missed deadline, every unfulfilled promise. See our guide on{' '}
+          unreasonably failed to pay or delayed payment. Your attorney may advise you to maintain a
+          paper trail of every communication, every missed deadline, and every unfulfilled promise.
+          See our guide on{' '}
           <Link href="/resources/claim-negotiation-letters" className="text-[#2E74B5] underline">
             writing effective claim letters
           </Link>
           .
         </li>
         <li>
-          <strong>Challenge biased investigations.</strong> CACI 2332 requires a &ldquo;full, fair,
+          <strong>Biased investigations matter.</strong> CACI 2332 requires a &ldquo;full, fair,
           prompt, and thorough investigation of <em>all</em> of the bases.&rdquo; If the insurer
           relied on a single{' '}
           <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] underline">
             carrier-friendly engineer report
           </Link>{' '}
-          and ignored contradictory evidence, that is a failure.
+          and ignored contradictory evidence, discuss with your attorney whether the investigation
+          met this standard.
         </li>
         <li>
-          <strong>Know the burden of proof.</strong> For all-risk policies, the insurer must prove
-          the exclusion applies (CACI 2303). You do not have to prove the exclusion does not apply.
-          If the insurer denies your claim based on an{' '}
+          <strong>The burden of proof may favor you.</strong> For all-risk policies, the insurer must prove
+          the exclusion applies (CACI 2303). The policyholder does not have to prove the exclusion
+          does not apply. If the insurer denies a claim based on an{' '}
           <Link href="/resources/exclusions" className="text-[#2E74B5] underline">
             exclusion
           </Link>
-          , ask: have they actually proven it?
+          , your attorney may consider whether the insurer has actually met that burden.
         </li>
         <li>
-          <strong>Understand concurrent causation.</strong> If your loss involved both covered and
+          <strong>Concurrent causation is nuanced.</strong> If a loss involved both covered and
           excluded perils, the question under CACI 2306 is not whether the excluded peril played a
-          role, but whether it was the <em>predominant</em> cause.
+          role, but whether it was the <em>predominant</em> cause. This is an area where legal
+          counsel can make a significant difference.
         </li>
         <li>
           <strong>Consider professional help early.</strong> If you see the elements of bad faith
           forming &mdash; unreasonable delay, sloppy investigation, lowball offers &mdash; it may be
           time to consult a{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or{' '}
           <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] underline">
@@ -685,7 +700,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <a
-            href="https://www.courts.ca.gov/partners/317.htm"
+            href="https://courts.ca.gov/partners/california-jury-instructions/civil-jury-instructions-resource-center/civil-jury-instructions"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#2E74B5] underline"

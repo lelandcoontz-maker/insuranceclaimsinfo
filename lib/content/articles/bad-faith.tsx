@@ -67,6 +67,20 @@ export default function Content() {
         justification — if the conduct was unreasonable at the time, that can establish bad faith.
       </p>
 
+      <CalloutBox variant="important" title="The Genuine Dispute Doctrine Is the Insurer's Defense">
+        <p>
+          The genuine dispute doctrine is the insurer&apos;s primary defense in bad faith
+          litigation — it is <em>their</em> argument, not a neutral standard. California courts
+          have recognized this defense, but they have also held that an insurer cannot
+          manufacture a &quot;genuine dispute&quot; through an inadequate investigation or by
+          relying on experts selected for their willingness to support a denial. If the
+          underlying investigation was unreasonable, the genuine dispute defense fails. A
+          policyholder should understand this distinction: just because an insurer <em>claims</em>{' '}
+          there was a genuine dispute does not mean a court will agree. The quality and good faith
+          of the insurer&apos;s investigation is what determines whether the defense holds up.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Why Bad Faith Cases Are Hard to Win
       </h2>
@@ -194,6 +208,16 @@ export default function Content() {
         statutory violations serve as <em>evidence</em> — they inform the court about the
         standard of conduct expected of insurers and help demonstrate that the insurer&apos;s
         behavior fell below that standard.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        While regulatory violations alone do not create a separate lawsuit, they are among the
+        strongest evidence in a bad faith case. A pattern of regulatory violations — missed
+        deadlines, failure to investigate, unreasonably low offers, failure to provide required
+        documentation — builds the factual foundation for a bad faith claim. An experienced
+        attorney will weave these violations into the broader bad faith narrative rather than
+        treating them as isolated incidents. The regulations exist because they define what
+        reasonable claim handling looks like. When an insurer systematically ignores those
+        standards, that pattern tells a story — and it is a story that juries understand.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -482,6 +506,23 @@ export default function Content() {
         and in egregious cases, punitive damages. However, these cases require strong evidence and
         experienced legal representation. Do not make bad faith accusations lightly, but do not
         tolerate genuinely unreasonable conduct either.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In California, bad faith can support an award of punitive damages — damages designed to
+        punish the insurer, not just compensate the policyholder. Punitive damages are not capped
+        in California insurance bad faith cases and can significantly exceed the policy limits.
+        Courts consider the reprehensibility of the insurer&apos;s conduct, the ratio between
+        actual harm and the punitive award, and comparable penalties in similar cases. This is one
+        of the primary reasons that claims involving suspected bad faith should be evaluated by an
+        attorney — the potential recovery in litigation may be many times greater than what can be
+        achieved through negotiation or appraisal alone. An attorney experienced in insurance bad
+        faith can assess whether the insurer&apos;s conduct rises to the level where punitive
+        damages are a realistic possibility and advise accordingly.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A Public Adjuster can build the factual foundation of a bad faith case — documenting
+        regulatory violations, unreasonable delays, and lowball offers — while an attorney pursues
+        the legal claims.
       </p>
     </>
   )

@@ -2,16 +2,16 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'SB 49: California\'s New Contents Payment Rule for Disaster Victims',
+  title: 'SB 495: California\'s New Contents Payment Rule for Disaster Victims',
   description:
-    'How SB 49 changes personal property claims after declared disasters — automatic 60% contents payments, no inventory required for 100 days, and what it means for policyholders.',
+    'How SB 495 changes personal property claims after declared disasters — automatic 60% contents payments, no inventory required for 100 days, and what it means for policyholders.',
 }
 
 export default function Content() {
   return (
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Senate Bill 49 (SB 49) is one of the most significant policyholder protections
+        California Senate Bill 495 (SB 495) is one of the most significant policyholder protections
         enacted in recent years. Effective in 2026, it requires insurers to automatically pay 60% of
         the personal property (contents) coverage limit — up to $350,000 — when a total loss occurs
         in a state-declared disaster, <strong>without requiring a detailed inventory</strong> for at
@@ -41,12 +41,12 @@ export default function Content() {
         money to survive — to buy clothes, replace essentials, and furnish temporary housing.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        SB 49 addresses this by requiring insurers to put money in the policyholder&apos;s hands
+        SB 495 addresses this by requiring insurers to put money in the policyholder&apos;s hands
         immediately, with the detailed inventory process deferred until later.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How the Previous Law Worked (Pre-SB 49)
+        How the Previous Law Worked (Pre-SB 495)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under the prior California law (effective 2022), insurers were required to offer at least
@@ -61,7 +61,7 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What SB 49 Changes
+        What SB 495 Changes
       </h2>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Higher Automatic Payment</h3>
@@ -96,7 +96,7 @@ export default function Content() {
         Who It Applies To
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        SB 49 applies specifically to:
+        SB 495 applies specifically to:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -123,7 +123,7 @@ export default function Content() {
         What You Still Need to Do
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        SB 49 gets you an immediate advance, but it does not eliminate the need for a thorough
+        SB 495 gets you an immediate advance, but it does not eliminate the need for a thorough
         inventory to claim the remaining 40% of your contents coverage. After the 100-day
         no-inventory period:
       </p>
@@ -166,7 +166,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Request the advance payment immediately.</strong> Do not wait for the insurer
-          to offer. Reference SB 49 and formally request the 60% advance in writing.
+          to offer. Reference SB 495 and formally request the 60% advance in writing.
         </li>
         <li>
           <strong>Track how you spend the advance.</strong> While you do not need to account for
@@ -204,6 +204,13 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

@@ -570,7 +570,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Mathew Mulholland and the Building Experts Institute.</strong> Mulholland is a
-          former roofing contractor turned public adjuster turned educator. He has purposely placed
+          former roofing contractor turned Public Adjuster turned educator. He has purposely placed
           himself in the path of seven hurricanes with cameras and sensors to study how roofing
           systems fail, and he has designed and built his own hail cannon apparatus used in peer-reviewed
           research on hail damage to roofing and siding materials. His training programs through

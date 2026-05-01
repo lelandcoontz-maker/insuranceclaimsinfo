@@ -735,7 +735,7 @@ export default function Content() {
           letter citing the efficient proximate cause doctrine and the supporting case law
         </li>
         <li>
-          Consider retaining a public adjuster or an attorney who specializes in{' '}
+          Consider retaining a Public Adjuster or an attorney who specializes in{' '}
           <Link href="/resources/coverage-disputes" className="text-[#2E74B5] hover:underline">
             insurance coverage disputes
           </Link>
@@ -748,7 +748,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           If your insurer denied your foundation damage claim under the earth movement
-          exclusion, the analysis may not be that simple. A licensed public adjuster can
+          exclusion, the analysis may not be that simple. A licensed Public Adjuster can
           evaluate the causal chain, coordinate independent engineering, and build the
           case for coverage.
         </p>

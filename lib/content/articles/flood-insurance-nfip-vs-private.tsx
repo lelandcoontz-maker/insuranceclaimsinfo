@@ -676,7 +676,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Consider hiring a{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link></strong> &mdash;
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link></strong> &mdash;
           because the rules are strict and the stakes are high, professional help can make a
           significant difference on NFIP claims
         </li>
@@ -803,7 +803,7 @@ export default function Content() {
           Have a Flood Claim? Know Your Rights Before You File.
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          Whether your flood policy is NFIP or private, a licensed public adjuster can help you
+          Whether your flood policy is NFIP or private, a licensed Public Adjuster can help you
           navigate the claim process, meet critical deadlines, and maximize your recovery. We
           handle both types of flood claims.
         </p>
@@ -816,7 +816,7 @@ export default function Content() {
         <p>
           This article is provided for general educational purposes only and does not constitute
           legal advice. Flood insurance claims involve complex interactions between federal and
-          state law. If you have a disputed flood claim, consult with a licensed public adjuster
+          state law. If you have a disputed flood claim, consult with a licensed Public Adjuster
           or an attorney experienced in flood insurance litigation.
         </p>
       </CalloutBox>

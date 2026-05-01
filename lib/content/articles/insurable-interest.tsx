@@ -378,7 +378,7 @@ export default function Content() {
           If you are dealing with a claim where the property was transferred into a trust but the
           insurance policy was never updated, all is not necessarily lost. There may be arguments
           based on the doctrine of reasonable expectations, estoppel, or agent liability that can
-          help recover the gap. An experienced public adjuster or insurance attorney should review
+          help recover the gap. An experienced Public Adjuster or insurance attorney should review
           the specific facts of your situation.
         </p>
       </CalloutBox>
@@ -483,7 +483,7 @@ export default function Content() {
         professional help. The valuation is complex, the stakes are high, and the insurance
         company will be working hard to minimize the value of your interest. A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         or an insurance coverage attorney can review your situation and fight for the maximum
         recovery. See also our article on{' '}
@@ -491,6 +491,12 @@ export default function Content() {
           what happens to insurance when the policyholder dies
         </Link>
         , which covers related issues with trust ownership and the policy&rsquo;s death clause.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

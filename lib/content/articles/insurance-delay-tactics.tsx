@@ -91,7 +91,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <strong>Consider hiring a public adjuster or attorney</strong> &mdash; carriers often
+          <strong>Consider hiring a Public Adjuster or attorney</strong> &mdash; carriers often
           move faster when a professional is involved
         </li>
       </ol>
@@ -105,6 +105,22 @@ export default function Content() {
           </Link>. The paper trail you build during the delay is what makes
           a bad faith case possible later. Do not rely on verbal communication &mdash;
           get everything in writing.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="warning" title="When Delay Becomes a Legal Issue">
+        <p>
+          A pattern of delay — missed regulatory deadlines, unreturned communications, repeated
+          adjuster reassignments — is not just frustrating. It can be evidence of bad faith. If
+          the insurer has missed multiple regulatory deadlines or your claim has been open for
+          several months without meaningful progress, consult an attorney. An attorney can evaluate
+          whether the delay supports a bad faith claim, send a formal demand that creates legal
+          consequences for continued inaction, and ensure your statute of limitations is protected.
+        </p>
+        <p className="mt-2">
+          A Public Adjuster can document delays, push the claim forward through the regulatory
+          process, and build the factual record that supports a bad faith claim if legal action
+          becomes necessary.
         </p>
       </CalloutBox>
 

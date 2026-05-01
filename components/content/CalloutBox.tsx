@@ -23,6 +23,12 @@ const VARIANTS = {
     heading: 'text-red-900',
     text: 'text-red-800',
   },
+  info: {
+    bg: 'bg-blue-50 border-blue-200',
+    icon: 'ℹ️',
+    heading: 'text-blue-900',
+    text: 'text-blue-800',
+  },
 } as const
 
 interface CalloutBoxProps {

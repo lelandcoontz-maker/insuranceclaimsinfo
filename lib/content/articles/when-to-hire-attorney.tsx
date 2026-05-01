@@ -48,9 +48,9 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Attorney vs. Public Adjuster</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Public adjusters and attorneys serve different but complementary roles. A{' '}
+        Public Adjusters and attorneys serve different but complementary roles. A{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         handles the claim process itself &mdash; documenting damage, preparing estimates,
         negotiating with the carrier. An attorney handles the legal dimension &mdash; coverage
@@ -80,11 +80,17 @@ export default function Content() {
         <p>
           Most insurance claim attorneys work on contingency &mdash; they only get paid if you
           recover money. Typical contingency fees range from 33% to 40%. Some attorneys will
-          reduce their fee if a public adjuster is already involved and has done significant
+          reduce their fee if a Public Adjuster is already involved and has done significant
           work on the claim. Always discuss fees upfront and get the agreement in writing.
         </p>
       </CalloutBox>
 
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

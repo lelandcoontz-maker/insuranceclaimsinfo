@@ -19,6 +19,16 @@ export default function Content() {
         standard fire policy form. The provision states that no suit or action on the policy shall
         be sustainable unless commenced within twelve months after the inception of the loss.
       </p>
+
+      <CalloutBox variant="warning" title="If Your Deadline Is Approaching — Act Now">
+        <p>
+          If your one-year suit limitation period is approaching, consult an attorney immediately.
+          Do not rely on equitable tolling without legal advice — whether tolling applies to your
+          specific situation is fact-dependent and may need to be litigated. Missing the deadline
+          means losing your right to sue, permanently.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         On its face, this seems straightforward: you have one year from the date of loss to file a
         lawsuit. But the actual deadline is <strong>not</strong> as simple as it appears. California
@@ -192,6 +202,17 @@ export default function Content() {
         </li>
       </ul>
 
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Because equitable tolling is not guaranteed, is applied differently depending on the facts,
+        and may itself need to be litigated before a court, <strong>this is an area where you should
+        not attempt to navigate the deadline on your own</strong>. The rules are uncertain enough
+        that even experienced claims professionals cannot tell you with confidence whether tolling
+        will apply in your case or how much time it will add. Only an attorney who has reviewed the
+        full timeline of your claim can give you reliable guidance on your actual deadline. If there
+        is any possibility that your limitations period is approaching, get legal counsel — not
+        next week, now.
+      </p>
+
       <CalloutBox variant="warning" title="Do Not Wait Until the Last Minute">
         <p>
           Equitable tolling exists to protect policyholders from unfairness — not to give them
@@ -296,6 +317,43 @@ export default function Content() {
           , they will be creating this documentation as part of their normal work on your claim.
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Tolling Agreements
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Rather than relying on equitable tolling — which is uncertain and may need to be litigated —
+        a policyholder can seek a <strong>tolling agreement</strong> from the insurer. A tolling
+        agreement is a written contract between the policyholder and the insurance company in which
+        the insurer agrees to pause the statute of limitations clock for a specified period. During
+        that period, the policyholder&apos;s right to file suit is preserved without the need to actually
+        file a lawsuit.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Tolling agreements are commonly used when the claim is still being negotiated or when
+        appraisal is pending. They benefit both sides: the policyholder preserves the right to sue
+        without incurring litigation costs, and the insurer gets additional time to resolve the claim
+        without the pressure of an active lawsuit.
+      </p>
+
+      <CalloutBox variant="tip" title="Get a Tolling Agreement From Management — Not the Field Adjuster">
+        <p>
+          A tolling agreement should be signed by someone with actual authority to bind the
+          insurance company — typically a claims manager, supervisor, or attorney in the
+          carrier&apos;s coverage unit. A field adjuster or independent adjuster generally does not
+          have the authority to enter into a tolling agreement on behalf of the insurer. If you
+          obtain an agreement signed only by the field adjuster and the carrier later disputes
+          it, you may find the agreement is unenforceable. An attorney can help you draft or
+          review a tolling agreement and ensure it is signed by someone with binding authority.
+        </p>
+      </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the insurer refuses to sign a tolling agreement, that refusal itself may be relevant
+        to a bad faith analysis — and it is a strong signal that you should file a protective
+        lawsuit before the limitations period expires. Consult with an attorney if the insurer
+        will not agree to toll.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Key Takeaways

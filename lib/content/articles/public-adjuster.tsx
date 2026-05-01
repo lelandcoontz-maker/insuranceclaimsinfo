@@ -75,7 +75,7 @@ export default function Content() {
         routinely reduce field adjusters&apos; damage estimates through desk reviews, sometimes
         cutting payments dramatically. After the 2025 Los Angeles wildfires, according to a January
         2026 survey of 2,443 adults in fire-impacted Los Angeles communities, commissioned by the
-        Department of Angels, nearly 80% of victims reported serious insurance claim issues. Public
+        Department of Angels, nearly 80% of insured victims reported serious insurance claim issues. Public
         Adjusters are especially valuable when you need someone to take over the day-to-day
         management of the claim so you can focus on your family and recovery.
       </p>
@@ -180,11 +180,11 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="A Good Public Adjuster Pays for Themselves">
         <p>
-          Independent data supports the value of public adjuster representation. A 2010 study by
+          Independent data supports the value of Public Adjuster representation. A 2010 study by
           OPPAGA, the research arm of the Florida Legislature, found that policyholders who used
-          public adjusters for hurricane claims received settlements averaging 747% higher — before
+          Public Adjusters for hurricane claims received settlements averaging 747% higher — before
           PA fees — than those who handled claims on their own. While results vary by claim size
-          and complexity, public adjusters bring expertise in policy language, damage documentation,
+          and complexity, Public Adjusters bring expertise in policy language, damage documentation,
           and negotiation that most policyholders lack. The increased settlement amount typically
           far exceeds the fee — in other words, you often end up with more money in your pocket
           even after paying the Public Adjuster than you would have received on your own.
@@ -260,6 +260,13 @@ export default function Content() {
         typically outweighs their fee many times over. If you are dealing with a large or complex
         insurance claim, or if you feel that your insurance company is not treating you fairly,
         consulting with a licensed Public Adjuster is one of the smartest steps you can take.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

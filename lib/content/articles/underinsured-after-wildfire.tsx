@@ -169,7 +169,7 @@ export default function Content() {
           and can potentially recover the gap.
         </li>
         <li>
-          <strong>Explore government assistance.</strong> FEMA grants (up to $42,500 currently),
+          <strong>Explore government assistance.</strong> FEMA grants (up to $43,600 as of the 2025 fiscal year, adjusted annually),
           SBA disaster loans (low-interest), and state programs may help fill the gap. These are not
           substitutes for insurance but can supplement it.
         </li>
@@ -221,6 +221,13 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

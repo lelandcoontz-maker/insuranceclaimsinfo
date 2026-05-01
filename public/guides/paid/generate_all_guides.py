@@ -1705,7 +1705,7 @@ def build_wildfire_guide():
         "documentation after a declared disaster.",
         "ALE Extension: ALE coverage must extend for at least 24 months for total losses after a declared "
         "disaster, and may be extended further if delays are beyond the policyholder's control.",
-        "Contents Replacement: Under SB 49, after a declared disaster, carriers must allow policyholders "
+        "Contents Replacement: Under SB 495, after a declared disaster, carriers must allow policyholders "
         "to collect the full replacement cost on contents claims without requiring proof of actual replacement.",
         "Contractor Choice: You have the right to use any licensed contractor — the carrier cannot require "
         "you to use their preferred vendor program.",
@@ -2719,11 +2719,11 @@ def build_contents_workbook():
         "would recover the remaining $660. Your total recovery is the full replacement cost."
     )
     pdf.callout_box(
-        "After a declared disaster in California, SB 49 changed the rules: carriers must allow policyholders to "
+        "After a declared disaster in California, SB 495 changed the rules: carriers must allow policyholders to "
         "collect full replacement cost for contents WITHOUT requiring proof of actual replacement. This means you "
         "get the full RCV for contents upfront without having to buy replacement items first. This applies only "
         "after a declared disaster.",
-        title="SB 49 Game Changer"
+        title="SB 495 Game Changer"
     )
     pdf.section_title("Strategies for Maximizing Recovery")
     pdf.bullet_list([
@@ -3018,28 +3018,28 @@ def build_contents_workbook():
     )
 
     # Chapter 9
-    pdf.chapter_title("SB 49 and Disaster Contents Rules")
+    pdf.chapter_title("SB 495 and Disaster Contents Rules")
     pdf.body_text(
         "Senate Bill 49, signed into law in California, changed the game for contents claims after declared "
-        "disasters. Before SB 49, policyholders had to physically replace each item and submit a receipt before "
+        "disasters. Before SB 495, policyholders had to physically replace each item and submit a receipt before "
         "they could collect the recoverable depreciation — the difference between ACV and full replacement cost. "
         "This created an absurd burden: families who had just lost everything were expected to go shopping for "
         "thousands of items and save every receipt, all within a tight deadline, just to collect insurance "
         "benefits they had already paid for."
     )
     pdf.body_text(
-        "SB 49 eliminated this requirement for claims arising from declared disasters. After a declared disaster, "
+        "SB 495 eliminated this requirement for claims arising from declared disasters. After a declared disaster, "
         "your carrier must pay the full replacement cost of your contents without requiring proof that you "
         "actually replaced the items. You still need to document what you owned and its replacement cost, but "
         "you do not need to produce purchase receipts for replacement items."
     )
     pdf.callout_box(
-        "SB 49 applies only to losses that arise from a declared disaster — a governor-declared state of "
+        "SB 495 applies only to losses that arise from a declared disaster — a governor-declared state of "
         "emergency. It does not apply to ordinary fire losses, water damage, or other non-disaster claims. "
         "For non-disaster claims, the traditional two-step ACV-then-RCV process still applies.",
-        title="When SB 49 Applies"
+        title="When SB 495 Applies"
     )
-    pdf.section_title("Key Provisions of SB 49")
+    pdf.section_title("Key Provisions of SB 495")
     pdf.bullet_list([
         "Carriers must pay full replacement cost for contents without requiring proof of actual replacement",
         "Policyholders still must document what they owned and its replacement cost",
@@ -3049,17 +3049,17 @@ def build_contents_workbook():
     ])
     pdf.body_text(
         "If your loss is from a declared disaster and your carrier is insisting you must replace items before "
-        "collecting the full replacement cost, cite SB 49 (Insurance Code Section 2051.5) and demand full "
+        "collecting the full replacement cost, cite SB 495 (Insurance Code Section 2051.5) and demand full "
         "payment. If the carrier refuses, file a complaint with the California Department of Insurance and "
         "consult with an attorney about bad faith."
     )
-    pdf.section_title("Practical Tips Under SB 49")
+    pdf.section_title("Practical Tips Under SB 495")
     pdf.numbered_list([
         "Confirm your loss qualifies as a declared disaster — check the Governor's executive orders",
         "Submit your contents inventory with current replacement pricing from major retailers",
         "Cite Insurance Code Section 2051.5 in your cover letter when demanding full replacement cost",
         "If the carrier issues only an ACV payment, respond in writing demanding the recoverable depreciation",
-        "Document the carrier's refusal to comply with SB 49 — this is a regulatory violation and potential bad faith",
+        "Document the carrier's refusal to comply with SB 495 — this is a regulatory violation and potential bad faith",
         "File a CDI complaint if the carrier does not comply within 30 days of your written demand",
     ])
 
@@ -3281,7 +3281,7 @@ def build_contents_workbook():
         "Review the carrier's valuation line by line — challenge every item where they undervalued",
         "Supplement the inventory as you remember additional items — do not assume the window has closed",
         "Track the replacement deadline — replace high-value items first to collect recoverable depreciation",
-        "After a declared disaster, cite SB 49 for full replacement cost without proof of actual replacement",
+        "After a declared disaster, cite SB 495 for full replacement cost without proof of actual replacement",
     ])
     pdf.section_title("Key Dollar Amounts to Remember")
     pdf.bullet_list([

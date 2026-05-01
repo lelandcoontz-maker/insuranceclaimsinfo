@@ -142,7 +142,7 @@ export default function Content() {
         This creates friction with the mortgage company because their loss draft department is set up
         to process Xactimate estimates. When the settlement documentation looks different from what
         they are used to seeing, they get confused and may stall the release of funds. You (or your
-        public adjuster) may need to explain to the loss draft department that the
+        Public Adjuster) may need to explain to the loss draft department that the
         claim was settled through a different mechanism and that the documentation they have is the
         equivalent of the &ldquo;adjuster&apos;s report&rdquo; they are asking for.
       </p>
@@ -376,8 +376,9 @@ export default function Content() {
           <strong>Send a written demand</strong> requesting immediate release of the amount exceeding
           the outstanding loan balance. Point out that the mortgage clause pays proceeds &ldquo;as
           interests appear&rdquo; and that the lender&apos;s interest is limited to the outstanding
-          debt. Cite <em>Schoolcraft v. Ross</em> and the implied covenant of good faith and fair
-          dealing.
+          debt. The lender has an obligation under the implied covenant of good faith and fair
+          dealing to release funds when its security is not impaired (see the <em>Schoolcraft v.
+          Ross</em> discussion above).
         </li>
         <li>
           <strong>Argue that the security is not impaired.</strong> If you owe $100,000 on a property
@@ -529,9 +530,9 @@ export default function Content() {
         <strong>What to do:</strong> Send a formal written demand with documentation of completed
         repairs (final inspection, certificate of occupancy, contractor&apos;s completion
         certificate, photographs). Cite California Civil Code Section 2924.7 and the 30-day release
-        requirement. Cite <em>Schoolcraft v. Ross</em> and the principle that the lender must
-        release proceeds when the security is not impaired &mdash; if your home is fully repaired,
-        the lender&apos;s collateral is fully intact. If the lender still refuses, you may need an
+        requirement. The principle established in <em>Schoolcraft v. Ross</em> is that the lender
+        must release proceeds when its security is not impaired &mdash; if your home is fully
+        repaired, the lender&apos;s collateral is fully intact. If the lender still refuses, you may need an
         attorney to intervene.
       </p>
 
@@ -608,9 +609,9 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Sometimes, unfortunately, the only language a mortgage company understands is a letter from
-        an attorney. An attorney can send a formal demand letter citing California Civil Code
+        an attorney. An attorney may wish to send a formal demand letter citing California Civil Code
         Sections 2924.7 and 2954.85, the <em>Schoolcraft</em> decision, and the implied covenant of
-        good faith and fair dealing. An attorney can also file a complaint with the California
+        good faith and fair dealing. An attorney could also file a complaint with the California
         Department of Financial Protection and Innovation (DFPI), which regulates mortgage servicers,
         or with the Consumer Financial Protection Bureau (CFPB) for federal complaints under RESPA.
       </p>

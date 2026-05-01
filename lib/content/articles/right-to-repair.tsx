@@ -43,7 +43,7 @@ export default function Content() {
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Verify the contractor&apos;s license.</strong> Call the CSLB at (800) 321-2752
-          or check their website. Licensed contractors must post a $12,500 bond.
+          or check their website. Licensed contractors must post a $25,000 bond.
         </li>
         <li>
           <strong>Ask for references.</strong> Visit homes where they have done work and
@@ -112,11 +112,17 @@ export default function Content() {
         writing and notify both the contractor and the insurance company. If the issues are not
         resolved, consult with a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         or attorney about your options.
       </p>
 
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

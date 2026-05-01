@@ -217,6 +217,12 @@ export default function Content() {
         widely referenced studies in hail damage assessment and is used by engineers, adjusters,
         and attorneys on both sides of claim disputes.
       </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

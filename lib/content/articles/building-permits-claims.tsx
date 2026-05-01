@@ -469,7 +469,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           If your insurance company is withholding permit fees or telling you that you must incur the
-          cost first, a public adjuster can help you calculate the correct amount and hold the insurer
+          cost first, a Public Adjuster can help you calculate the correct amount and hold the insurer
           to their obligations under your policy and California law.
         </p>
         <Link

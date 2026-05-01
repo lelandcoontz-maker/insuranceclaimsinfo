@@ -52,7 +52,7 @@ const MEDIA_APPEARANCES: MediaAppearance[] = [
     outlet: 'NPR',
     date: '2025-01-31',
     description:
-      'Companion article to the Planet Money episode. Leland explains that when he worked for an insurance company, the system incentivized clearing cases fast — not getting homeowners fair settlements. Now as a public adjuster, he "really sweats the details" and regularly gets his clients larger payouts.',
+      'Companion article to the Planet Money episode. Leland explains that when he worked for an insurance company, the system incentivized clearing cases fast — not getting homeowners fair settlements. Now as a Public Adjuster, he "really sweats the details" and regularly gets his clients larger payouts.',
     links: [
       { label: 'Read on NPR', url: 'https://www.npr.org/2025/01/31/nx-s1-5265992/how-do-insurance-companies-determine-the-value-of-homes-destroyed-by-wildfires' },
     ],
@@ -227,7 +227,7 @@ const VIDEOS: Video[] = [
     id: 'bf-contractor-sue',
     title: 'Contractors Can Sue Insurers for Bad Faith and O&P on Mitigation',
     date: '2023-02-15',
-    description: 'A legal strategy most contractors don\'t know about: suing insurance companies directly for bad faith and overhead & profit on mitigation work.',
+    description: 'A legal exposure most contractors are unaware of: courts have held that insurers can be liable for bad faith and overhead & profit disputes on mitigation work.',
     category: 'Contractors & Bad Faith',
     pending: true,
   },
@@ -235,7 +235,7 @@ const VIDEOS: Video[] = [
     id: 'bf-restoration-sue',
     title: 'Insurance Restoration Contractors Can Sue for Bad Faith',
     date: '2023-02-15',
-    description: 'How restoration contractors can pursue bad faith claims against insurers who systematically underpay mitigation invoices.',
+    description: 'The legal landscape surrounding contractor standing in bad faith disputes — what courts have held when insurers systematically underpay mitigation invoices.',
     category: 'Contractors & Bad Faith',
     pending: true,
   },
@@ -261,7 +261,7 @@ const VIDEOS: Video[] = [
     id: 'pa-slab-yard',
     title: 'The Public Adjuster Visits the Slab Yard',
     date: '2023-02-27',
-    description: 'Why a public adjuster visits a stone slab yard: understanding material costs, quality differences, and how to properly price countertop replacements.',
+    description: 'Why a Public Adjuster visits a stone slab yard: understanding material costs, quality differences, and how to properly price countertop replacements.',
     category: 'The Public Adjuster Profession',
     pending: true,
   },
@@ -509,7 +509,7 @@ export default function VideosPage() {
             InsuranceClaimsInfo.com and a California Licensed Public Adjuster (License #2B53445).
             Leland has worked property insurance claims for over 20 years on both sides of the
             industry — first as a company adjuster handling catastrophe claims for Hurricane
-            Katrina, Ike, Sandy, and numerous California disasters, and now as a public adjuster
+            Katrina, Ike, Sandy, and numerous California disasters, and now as a Public Adjuster
             advocating for homeowners and commercial property owners. His experience spans every
             major carrier and every type of property loss.
           </p>
@@ -527,6 +527,15 @@ export default function VideosPage() {
             Request a Free Claim Review &rarr;
           </Link>
         </div>
+      </div>
+
+      <div className="max-w-4xl mx-auto px-4 pb-12">
+        <hr className="my-8 border-gray-300" />
+        <p className="text-sm text-gray-500 italic">
+          This article is for informational purposes only and does not constitute legal advice. Insurance
+          policies and applicable law vary by state and by policy form. Consult with a licensed
+          professional regarding your specific situation.
+        </p>
       </div>
     </>
   )

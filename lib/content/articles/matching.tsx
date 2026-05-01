@@ -74,7 +74,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California policyholders have specific regulatory authority for matching claims.{' '}
-        <strong>California Code of Regulations, Title 10, Section 2695.9(d)</strong> provides that
+        <strong>California Code of Regulations, Title 10, Section 2695.9(a)(2)</strong> provides that
         when replaced items do not match in quality, color, or size, the insurer must pay for
         whatever is necessary to achieve a reasonable and uniform appearance. This is not just a
         general industry principle — it is a binding California regulation that insurers are required
@@ -161,6 +161,12 @@ export default function Content() {
         </Link>{' '}
         can help you document the mismatch, identify the applicable regulations, and negotiate for
         the full scope of work needed to achieve a proper result.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

@@ -296,7 +296,7 @@ export default function Content() {
           If your insurance company sends a mitigation contractor and you feel that the scope of
           work is being improperly limited, contact a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or an{' '}
           <Link href="/resources/when-to-hire-attorney" className="text-blue-700 underline hover:text-blue-900">
@@ -333,6 +333,13 @@ export default function Content() {
         professional help. And above all, do not let anyone pressure you into moving back
         into a home that has not been properly tested and cleared by a qualified, independent
         expert.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

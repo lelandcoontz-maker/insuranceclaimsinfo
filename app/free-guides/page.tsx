@@ -32,7 +32,7 @@ const FREE_GUIDES: FreeGuide[] = [
       'How to recognize and counter lowball offers',
       'Your rights when the carrier delays your claim',
       'Step-by-step action plan for before and after filing',
-      'What a public adjuster does and when to hire one',
+      'What a Public Adjuster does and when to hire one',
     ],
   },
   {

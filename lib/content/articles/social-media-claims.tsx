@@ -309,7 +309,7 @@ export default function Content() {
           <Link href="/resources/dealing-with-adjuster" className="text-[#2E74B5] hover:underline">
             adjuster
           </Link>
-          , your attorney, or your public adjuster
+          , your attorney, or your Public Adjuster
         </li>
         <li>
           Before-and-after renovation or repair photos that could be misinterpreted as
@@ -339,7 +339,7 @@ export default function Content() {
         <li>
           <strong>Document damage through proper channels</strong> &mdash; take photos and
           videos of the damage for your claim file, but share them with your adjuster or
-          public adjuster directly rather than posting them on social media
+          Public Adjuster directly rather than posting them on social media
         </li>
         <li>
           <strong>Check your own satellite imagery</strong> &mdash; use Google Earth to review
@@ -376,7 +376,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Context matters.</strong> A single photo taken out of context does not tell
-          the full story. Your adjuster or public adjuster can provide the context that the
+          the full story. Your adjuster or Public Adjuster can provide the context that the
           insurer is ignoring.
         </li>
         <li>
@@ -395,7 +395,7 @@ export default function Content() {
           <strong>Get professional help.</strong> If your claim is being investigated based on
           social media or satellite evidence, this is a situation where having a{' '}
           <Link href="/resources/dealing-with-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>
           {' '}or attorney involved can make a significant difference.
         </li>
@@ -407,7 +407,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           If your insurance company is using social media content, satellite imagery, or other
-          digital evidence to delay or deny your property claim, a public adjuster can help you
+          digital evidence to delay or deny your property claim, a Public Adjuster can help you
           respond effectively and protect your rights.
         </p>
         <Link

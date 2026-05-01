@@ -26,7 +26,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         RICOWI is a joint committee made up of roofing manufacturers, contractors, researchers,
         and industry organizations. It is <strong>not</strong> a consumer advocacy group. It is
-        not funded by trial lawyers or public adjusters. RICOWI exists to objectively document
+        not funded by trial lawyers or Public Adjusters. RICOWI exists to objectively document
         how roofing materials perform in real weather events. Its members include some of the
         largest roofing manufacturers in the world, along with organizations like Oak Ridge
         National Laboratory and Texas A&amp;M University.
@@ -203,6 +203,13 @@ export default function Content() {
         collaborative research with Texas A&amp;M University. These reports represent some of
         the most comprehensive real-world documentation of hail damage to roofing materials
         available anywhere.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
       </p>
     </>
   )

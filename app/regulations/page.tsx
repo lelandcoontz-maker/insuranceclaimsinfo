@@ -35,6 +35,14 @@ export default function RegulationsPage() {
         {/* Legal Disclaimer */}
         <LegalDisclaimer />
 
+        <div className="bg-gray-50 border border-gray-200 rounded-lg px-5 py-4 text-sm text-gray-600">
+          <p>
+            The descriptions below are plain-language summaries intended for educational purposes.
+            They are not verbatim regulatory text. For the exact statutory or regulatory language,
+            consult the California Insurance Code and California Code of Regulations directly.
+          </p>
+        </div>
+
         {/* ───────────────────── SECTION 1: Insurance Code §790 ───────────────────── */}
         <section>
           <h2 className="text-2xl font-bold text-[#1F3964] mb-5">
@@ -108,9 +116,9 @@ export default function RegulationsPage() {
 
             <RegulationCard
               section="§790.03(h)(11)"
-              title="Failing to Provide a Reasonable Explanation for Denial"
-              requirement="When an insurer denies a claim or offers a compromise settlement, they must provide a reasonable explanation of the basis for the denial or offer in relation to the policy provisions."
-              whyItMatters="A denial letter that just says 'claim denied' with no explanation is illegal. The insurer must tell you exactly why they denied your claim and cite the specific policy language they are relying on."
+              title="Requiring Duplicative Proof of Loss Submissions"
+              requirement="Insurers cannot delay the investigation or payment of claims by requiring a preliminary claim report and then subsequently requiring formal proof of loss forms that contain substantially the same information."
+              whyItMatters="Some carriers ask for the same documentation in multiple formats — first a preliminary report, then a formal sworn proof of loss with identical information. This is a delay tactic, and it is a statutory violation."
             />
 
             <RegulationCard
@@ -136,9 +144,9 @@ export default function RegulationsPage() {
 
             <RegulationCard
               section="§790.03(h)(10)"
-              title="Making Known Claims Practices That Lead to Appeals"
-              requirement="Insurers cannot use claims-handling practices that lead to consistently requiring policyholders to resort to appeals, appraisals, or litigation to receive fair settlements."
-              whyItMatters="If a carrier routinely lowballs every claim knowing most people won't fight back, that pattern itself is a violation — even if individual settlements are eventually corrected."
+              title="Appealing Arbitration Awards to Coerce Lower Settlements"
+              requirement="Insurers cannot make known to insureds or claimants a practice of appealing from arbitration awards in favor of the insured for the purpose of compelling them to accept settlements or compromises less than the amount awarded in arbitration."
+              whyItMatters="If a carrier routinely appeals appraisal or arbitration awards as a pressure tactic — hoping you will settle for less rather than endure more delays — that practice itself is a statutory violation."
             />
 
             <RegulationCard
@@ -175,29 +183,29 @@ export default function RegulationsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
             <RegulationCard
               section="§2695.4"
-              title="Good Faith and Fair Dealing"
-              requirement="Every insurer must act in good faith and deal fairly with policyholders. This is the overarching standard that governs every claims-handling interaction. The insurer must not place its own financial interest above its duty to the policyholder."
-              whyItMatters="This is the umbrella regulation. Every unreasonable delay, every ignored document request, every lowball offer can be measured against this standard. It is the regulation that gives teeth to all the others."
-            />
-
-            <RegulationCard
-              section="§2695.5(b)"
-              title="15-Day Acknowledgment Deadline"
-              requirement="Every insurer must acknowledge receipt of every communication regarding a claim within 15 calendar days. The acknowledgment must include the name of the person handling the claim and how to contact them."
-              whyItMatters="If you send a letter, email, or leave a voicemail about your claim and hear nothing back within 15 days, the insurer has already violated the regulations. Start your documentation clock from day one."
+              title="Representation of Policy Provisions and Benefits"
+              requirement="Every insurer must disclose to the claimant all benefits, coverage, time limits, or other provisions of the policy that may apply to the claim. When additional benefits might reasonably be payable upon receipt of additional proofs of claim, the insurer must immediately communicate that fact and assist the insured."
+              whyItMatters="If your policy has coverage you don't know about — additional living expenses, ordinance or law, debris removal — the insurer is required to tell you. They cannot sit on benefits you are entitled to and hope you never ask."
             />
 
             <RegulationCard
               section="§2695.5(e)"
+              title="15-Day Acknowledgment Deadline"
+              requirement="Upon receiving notice of claim, every insurer must immediately — but in no event more than 15 calendar days later — acknowledge receipt of the claim. The acknowledgment must include the name of the person handling the claim and how to contact them."
+              whyItMatters="If you file a claim and hear nothing back within 15 days, the insurer has already violated the regulations. Start your documentation clock from day one."
+            />
+
+            <RegulationCard
+              section="§2695.5(b)"
               title="Responding to Policyholder Communications"
-              requirement="Insurers must respond to all communications from a claimant which reasonably suggest a response is expected. The response must be made within 15 calendar days."
+              requirement="Upon receiving any communication from a claimant regarding a claim that reasonably suggests a response is expected, the insurer must immediately — but in no event more than 15 calendar days later — furnish a complete response based on the facts then known."
               whyItMatters="This goes beyond just acknowledging receipt. If you ask a question, send documentation, or request an update — and a reasonable person would expect a reply — the insurer must respond within 15 days. Silence is a violation."
             />
 
             <RegulationCard
-              section="§2695.7(a)"
+              section="§2695.7(d)"
               title="Thorough Investigation Required"
-              requirement="Insurers must conduct a thorough, fair, and objective investigation sufficient to determine liability and the extent of the loss. The investigation must be completed promptly and cannot be unreasonably delayed."
+              requirement="Every insurer shall conduct and diligently pursue a thorough, fair, and objective investigation and shall not persist in seeking information not reasonably required for or material to the resolution of a claim dispute."
               whyItMatters="A competent investigation means the adjuster actually inspects your property, reviews your documentation, consults experts where needed, and evaluates the full scope of your loss — not just the parts that are easy or cheap to repair."
             />
 
@@ -217,30 +225,51 @@ export default function RegulationsPage() {
 
             <RegulationCard
               section="§2695.7(c)(1)"
-              title="Status Report When Multiple Adjusters Assigned"
-              requirement="If three or more adjusters are assigned to a claim within a six-month period, the insurer must provide the claimant with a written status report within 10 business days of the most recent assignment. The report must summarize the current status and outline the next steps."
-              whyItMatters="Shuffling your claim between adjusters is a classic delay tactic. Each new adjuster has to 'get up to speed,' which resets the clock in practice. This regulation forces transparency when it happens."
+              title="30-Day Written Extension Notice"
+              requirement="If more time is needed than the 40-day decision period, the insurer must provide written notice every 30 calendar days specifying the reasons additional time is required and the additional information needed to make a decision. This notice must continue until the claim is accepted or denied."
+              whyItMatters="Insurers cannot simply let a claim sit in limbo. If they need more time, they must tell you why in writing every 30 days. If you are not receiving these notices, the insurer is in violation — and the silence itself is evidence of unreasonable delay."
             />
 
             <RegulationCard
-              section="§2695.7(d)"
-              title="Right to Claim-Related Documents"
-              requirement="Upon request, the insurer must provide copies of all documents that relate to the evaluation of the claim, including adjuster reports, estimates, photographs, and correspondence — within 15 calendar days."
-              whyItMatters="You have the right to see everything in your claim file. The adjuster's notes, their estimate, their photos, internal emails about your claim — if you ask for it, they must provide it within 15 days. This is one of the most underused tools available to policyholders."
+              section="§2695.7(f)"
+              title="Statute of Limitations Notice"
+              requirement="Except where a claim has been settled by payment, every insurer shall provide written notice of any statute of limitation or other time period requirement upon which the insurer may rely to deny a claim."
+              whyItMatters="If the insurer intends to rely on a deadline to deny your claim, they must tell you about that deadline in advance. An insurer that silently lets a limitation period expire — without ever notifying you — has violated this regulation."
             />
 
             <RegulationCard
               section="§2695.7(g)"
-              title="Contractor Name Requirement for Repair Estimates"
-              requirement="If an insurer's claim payment or estimate is based on the cost of repairs, and the claimant requests it, the insurer must provide the name, address, and telephone number of a contractor who will perform the repairs for the amount stated in the estimate."
-              whyItMatters="This is one of the most powerful regulations for policyholders. If your insurer says the repairs cost $50,000 but every contractor you call says $90,000, you can demand they name a contractor who will actually do the work for their number. If they cannot produce one, their estimate is indefensible."
+              title="Unreasonably Low Settlement Offers"
+              requirement="No insurer shall attempt to settle a claim by making a settlement offer that is unreasonably low. The Commissioner may consider factors including the evidence available, applicable legal authority, and the probable liability of the insured."
+              whyItMatters="When the insurer offers you a fraction of what the claim is worth, that offer itself is a regulatory violation. This is separate from bad faith — even a single unreasonably low offer violates this regulation and can form the basis of a CDI complaint."
             />
 
             <RegulationCard
-              section="§2695.9"
-              title="Standards for Prompt, Fair Settlement"
-              requirement="For first-party property claims, insurers must provide a fair settlement that accounts for all covered damage. They cannot require the claimant to make a claim under another policy first, and they must include overhead and profit in repair estimates when a general contractor is reasonably likely to be involved."
-              whyItMatters="This regulation prevents insurers from playing games with your settlement amount. It requires overhead and profit (O&P) when a GC is needed, prohibits forcing you to use your own insurance first before subrogation, and ensures the settlement actually covers the repairs."
+              section="§2695.9(a)(1)"
+              title="Consequential Damage and No Out-of-Pocket Costs"
+              requirement="When a loss requires repair or replacement of an item or part, any consequential physical damage incurred in making the repair or replacement not otherwise excluded by the policy shall be included in the loss. The insured shall not have to pay for depreciation nor any other cost except for the applicable deductible."
+              whyItMatters="If the contractor has to remove undamaged cabinets to access a water-damaged wall, the cost of removing and replacing those cabinets is part of the loss. The insured should not bear any cost beyond the deductible — including overhead, profit, and any damage caused by the repair process itself."
+            />
+
+            <RegulationCard
+              section="§2695.9(a)(2)"
+              title="Matching — Uniform Reasonable Appearance"
+              requirement="When a loss requires replacement of items and the replaced items do not match in quality, color, or size, the insurer shall replace all items in the damaged area so as to conform to a reasonably uniform appearance."
+              whyItMatters="If the insurer replaces one slope of your roof and the new shingles do not match the weathered existing shingles, the insurer must pay to replace the remaining slopes to achieve a uniform appearance. This applies to roofing, siding, flooring, cabinetry, and any other visible component where a partial replacement creates a noticeable mismatch."
+            />
+
+            <RegulationCard
+              section="§2695.9(d)"
+              title="Written Estimates and Contractor Name Requirement"
+              requirement="If losses are settled on the basis of a written estimate, the insurer must supply the claimant with a copy. The estimate must restore property to no less than its pre-loss condition. If requested by the claimant, the insurer must promptly provide the name of at least one repair individual or entity that will make the repairs for the amount of the written estimate."
+              whyItMatters="This is one of the most powerful regulations for policyholders. If the insurer says repairs cost $50,000 but every contractor you call says $90,000, you can demand they name a contractor who will actually do the work for their number. If they cannot produce one, their estimate is indefensible."
+            />
+
+            <RegulationCard
+              section="§2695.9(f)"
+              title="Depreciation Must Be Itemized and Justified"
+              requirement="When the amount claimed is adjusted because of betterment, depreciation, or salvage, all justification for the adjustment shall be contained in the claim file. Any adjustments shall be discernible, measurable, itemized, and specified as to dollar amount."
+              whyItMatters="Blanket depreciation — the same flat percentage applied across every line item — violates this regulation. The insurer must justify each depreciation figure individually. If they cannot explain why a specific item was depreciated by a specific amount, the depreciation is unsupported."
             />
           </div>
         </section>
@@ -248,7 +277,7 @@ export default function RegulationsPage() {
         {/* ───────── Tip callout: Contractor Name Requirement ───────── */}
         <CalloutBox variant="tip" title="The Contractor Name Requirement — Your Most Effective Tool">
           <p className="mb-2">
-            Of all the regulations on this page, <strong>Section 2695.7(g)</strong> is arguably the
+            Of all the regulations on this page, <strong>Section 2695.9(d)</strong> is arguably the
             most effective tool available to policyholders who are being underpaid on structural
             repairs.
           </p>
@@ -277,25 +306,25 @@ export default function RegulationsPage() {
           <p>
             Put the request in writing, cite the regulation by number, and keep the response (or
             lack of response) in your file. If they ignore the request, that is a separate
-            regulatory violation under §2695.5(e).
+            regulatory violation under §2695.5(b).
           </p>
         </CalloutBox>
 
         {/* ───────── Alif v. FAIR Plan callout ───────── */}
-        <CalloutBox variant="legal" title="Alif v. California FAIR Plan (2025) — Smoke-Damage Limitations Struck Down">
+        <CalloutBox variant="legal" title="Aliff v. California FAIR Plan (2025) — Smoke-Damage Limitations Struck Down">
           <p className="mb-2">
-            In <em>Alif v. California FAIR Plan Association</em> (2025), a California court
-            invalidated FAIR Plan policy language that limited smoke-damage coverage to damage
+            In <em>Aliff v. California FAIR Plan Association</em> (2025), the Los Angeles Superior
+            Court invalidated FAIR Plan policy language that limited smoke-damage coverage to damage
             involving a &ldquo;permanent physical change&rdquo; visible to the unaided eye. The
             court held that the restrictive language was narrower than the coverage required by{' '}
-            <strong>California Insurance Code &sect; 2070</strong>, the Standard Fire Policy
+            <strong>California Insurance Code &sect; 2071</strong>, the Standard Fire Policy
             statute that sets the minimum coverage floor for fire insurance in this state.
           </p>
           <p className="mb-2">
-            Following <em>Alif</em>, the FAIR Plan agreed to strike much of the offending language.
+            Following <em>Aliff</em>, the FAIR Plan agreed to strike much of the offending language.
             The ruling is not limited to the FAIR Plan — any admitted California carrier that uses
             similar narrowing language on smoke claims is exposed to the same challenge, because
-            &sect; 2070 applies to all fire policies sold in California.
+            &sect; 2071 applies to all fire policies sold in California.
           </p>
           <p className="text-sm italic">
             This is general information, not legal advice. Only a licensed California attorney can

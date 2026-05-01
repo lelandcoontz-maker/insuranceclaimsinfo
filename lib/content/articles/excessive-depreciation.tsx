@@ -213,7 +213,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         This may be the most important depreciation rule that almost nobody knows about &mdash;
-        not insurance adjusters, not contractors, and not most public adjusters.
+        not insurance adjusters, not contractors, and not most Public Adjusters.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California Code of Regulations, Title 10, Section 2695.9(d), when repaired or
@@ -440,7 +440,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Fight Excessive Depreciation Even If You Plan to Repair">
         <p>
-          A public adjuster may push back on excessive depreciation even when the policyholder
+          A Public Adjuster may push back on excessive depreciation even when the policyholder
           intends to complete repairs and recover the holdback. Why? Because it is the right
           thing to do. The rules exist for a reason, and the insurance company should follow them.
           How aggressively to fight depends on the amount of money involved, the difficulty of
@@ -593,7 +593,7 @@ export default function Content() {
         claim, challenge it in writing, cite the specific legal authority, and demand a
         correction. If you need help, a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         can analyze the depreciation on your estimate, identify every violation, and negotiate
         a corrected amount on your behalf.

@@ -29,6 +29,15 @@ export default function Content() {
         />
       </div>
 
+      <CalloutBox variant="info" title="About This Article">
+        <p>
+          This article discusses the insurance appraisal process in California, including relevant case
+          law as analyzed by California insurance attorneys. This is educational information, not legal
+          advice. The appraisal process has both procedural and legal components &mdash; consult with a licensed
+          attorney regarding any legal questions specific to your claim.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What Is Insurance Appraisal?
       </h2>

@@ -74,7 +74,7 @@ export default function Content() {
         Church, Inc. v. Maryland Casualty Co.</em>, the court held that restoration to pre-loss
         condition includes matching the appearance of repaired and unrepaired areas. While this
         is not California authority, the principle is consistent with California&rsquo;s own
-        &ldquo;like kind and quality&rdquo; standard under 10 CCR &sect; 2695.9(d).
+        matching requirement under 10 CCR &sect; 2695.9(a)(2).
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">4. Cosmetic Damage Often Masks Functional Damage</h3>

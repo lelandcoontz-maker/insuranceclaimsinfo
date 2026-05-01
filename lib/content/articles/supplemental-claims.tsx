@@ -47,7 +47,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Get a written estimate</strong> for the additional work from your contractor
-          or public adjuster
+          or Public Adjuster
         </li>
         <li>
           <strong>Submit in writing</strong> to the adjuster handling your claim, with photos
@@ -219,10 +219,24 @@ export default function Content() {
         </Link>{' '}
         if the insurer cannot demonstrate actual prejudice. Consult with a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         or an attorney if you find yourself in this situation.
       </p>
+
+      <CalloutBox variant="tip" title="When Supplements Become a Dispute">
+        <p>
+          If the insurer is refusing to acknowledge legitimate supplemental claims, denying
+          supplements without explanation, or pressuring you to accept a final settlement that
+          does not account for all documented damage, consider consulting an attorney. A pattern
+          of supplement denials may constitute bad faith, and an attorney can evaluate whether
+          legal action is warranted.
+        </p>
+        <p className="mt-2">
+          A Public Adjuster can prepare and submit supplemental claims on your behalf, ensuring
+          they are properly documented and supported by detailed estimates.
+        </p>
+      </CalloutBox>
 
       <CalloutBox variant="legal" title="Important Notice">
         <p>

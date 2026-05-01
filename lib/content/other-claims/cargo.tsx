@@ -98,7 +98,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="In-Depth Guide: Marine Cargo Claims">
         <p>
           For a comprehensive analysis of marine cargo claims &mdash; including the legal
-          framework for public adjuster authority, the role of marine surveyors, General Average,
+          framework for Public Adjuster authority, the role of marine surveyors, General Average,
           COGSA carrier liability limits, Incoterms, and why trade expertise changes outcomes
           &mdash; read our full guide:{' '}
           <Link href="/resources/marine-cargo-claims" className="text-[#2E74B5] hover:underline font-semibold">

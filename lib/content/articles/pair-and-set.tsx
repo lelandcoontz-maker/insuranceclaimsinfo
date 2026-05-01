@@ -503,7 +503,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           If your insurer is refusing to pay for mismatched building components or is undervaluing
-          your personal property by ignoring the pair and set clause, a public adjuster can document
+          your personal property by ignoring the pair and set clause, a Public Adjuster can document
           the loss, cite the correct regulations, and negotiate the full value you are owed.
         </p>
         <Link

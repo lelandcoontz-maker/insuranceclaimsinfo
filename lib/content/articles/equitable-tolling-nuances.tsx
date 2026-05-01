@@ -108,7 +108,7 @@ export default function Content() {
           </Link>{' '}
           and{' '}
           <Link href="/resources/policyholder-rights" className="text-[#2E74B5] hover:underline">
-            public adjusters
+            Public Adjusters
           </Link>{' '}
           tell you to keep every piece of correspondence from your insurer. If the insurer
           never sent you a written denial or closing letter, that fact alone could extend
@@ -275,7 +275,7 @@ export default function Content() {
           An insurer that is sophisticated about limitations will use partial closures
           strategically. Discuss any partial closure letter with your attorney or{' '}
           <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           immediately.
         </p>

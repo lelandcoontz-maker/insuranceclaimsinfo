@@ -14,7 +14,7 @@ export default function Content() {
         The California FAIR Plan (Fair Access to Insurance Requirements) was created in 1968 as a
         last-resort option for property owners who cannot obtain fire insurance through the private
         market. Originally designed for a small number of high-risk properties, the FAIR Plan has
-        ballooned to over 450,000 policies as major carriers have pulled back from California. If
+        ballooned to over 680,000 policies as major carriers have pulled back from California. If
         you have been non-renewed or denied coverage, the FAIR Plan may be your most realistic
         option — but you need to understand exactly what it does and does not cover.
       </p>
@@ -138,7 +138,7 @@ export default function Content() {
         The FAIR Plan is backed by all admitted property/casualty insurers in California on a
         proportional basis. If the FAIR Plan&apos;s losses exceed its reserves, it can assess
         member companies to cover the shortfall. After the 2025 LA fires, questions arose about
-        whether the FAIR Plan&apos;s exposure (estimated at $6 billion+) could trigger assessments
+        whether the FAIR Plan&apos;s exposure (estimated at nearly $5 billion) could trigger assessments
         that ripple through the entire insurance market. The Legislature has considered various
         backstop mechanisms, but as of now, the assessment model remains the primary funding
         mechanism.

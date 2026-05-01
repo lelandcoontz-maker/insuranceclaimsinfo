@@ -187,7 +187,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Anti-Concurrent Causation Clauses and California Law">
         <p>
-          Some policies contain <Link href="/resources/anti-concurrent-causation" className="text-[#2E74B5] hover:underline">anti-concurrent causation (ACC) clauses</Link> that attempt to exclude coverage whenever an excluded peril contributes to a loss &ldquo;in any sequence.&rdquo; In California, these clauses are generally unenforceable when they conflict with the efficient proximate cause doctrine. However, the analysis is fact-specific and depends on the precise causal chain. If you are in this situation, consult with a licensed public adjuster or an insurance coverage attorney.
+          Some policies contain <Link href="/resources/anti-concurrent-causation" className="text-[#2E74B5] hover:underline">anti-concurrent causation (ACC) clauses</Link> that attempt to exclude coverage whenever an excluded peril contributes to a loss &ldquo;in any sequence.&rdquo; In California, these clauses are generally unenforceable when they conflict with the efficient proximate cause doctrine. However, the analysis is fact-specific and depends on the precise causal chain. If you are in this situation, consult with a licensed Public Adjuster or an insurance coverage attorney.
         </p>
       </CalloutBox>
 
@@ -295,12 +295,12 @@ export default function Content() {
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">Need Help With an Earthquake Insurance Claim?</h3>
-        <p className="text-gray-600 text-sm mb-4">If you have suffered earthquake damage and need help understanding your coverage, documenting your loss, or disputing an underpayment, a licensed public adjuster can review your claim at no upfront cost.</p>
+        <p className="text-gray-600 text-sm mb-4">If you have suffered earthquake damage and need help understanding your coverage, documenting your loss, or disputing an underpayment, a licensed Public Adjuster can review your claim at no upfront cost.</p>
         <Link href="/contact" className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors">Request a Free Claim Review &rarr;</Link>
       </div>
 
       <CalloutBox variant="legal" title="Important Notice">
-        <p>This article is provided for general educational purposes only and does not constitute legal advice. Every earthquake insurance policy has unique terms, conditions, and exclusions. Consult your policy documents, your insurance agent, and if necessary a licensed public adjuster or insurance coverage attorney for advice specific to your situation.</p>
+        <p>This article is provided for general educational purposes only and does not constitute legal advice. Every earthquake insurance policy has unique terms, conditions, and exclusions. Consult your policy documents, your insurance agent, and if necessary a licensed Public Adjuster or insurance coverage attorney for advice specific to your situation.</p>
       </CalloutBox>
     </>
   )

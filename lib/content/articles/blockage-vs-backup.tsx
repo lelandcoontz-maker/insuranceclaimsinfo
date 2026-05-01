@@ -687,7 +687,7 @@ export default function Content() {
           Water Damage Insurance Claims guide
         </Link>. If your insurer has denied a plumbing claim using the backup exclusion, a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>{' '}or an experienced insurance coverage attorney can evaluate the specific facts and policy language.
       </p>
     </>

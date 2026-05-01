@@ -47,7 +47,8 @@ const TACTICS: Tactic[] = [
           a release before you have time to get your own estimate. The goal is simple: most
           policyholders don't know what their claim is actually worth, so if the insurer offers
           $40,000 on a $120,000 loss, a significant percentage of people will accept it rather than
-          fight. They are counting on your exhaustion and your lack of information.
+          fight. The result is that exhausted, uninformed policyholders often accept far less than
+          they are owed.
         </p>
       </>
     ),
@@ -110,8 +111,8 @@ const TACTICS: Tactic[] = [
           align with the insurer's budget. The contractor who walks through your house may
           privately acknowledge that the real cost of repairs is significantly higher than what they
           are going to write. Some will even tell you: "I know this isn't enough, but this is what
-          they want me to put down." The estimate is designed to support the insurer's number, not
-          to reflect the actual cost of restoring your property.
+          they want me to put down." The result is an estimate that supports the insurer's number
+          rather than reflecting the actual cost of restoring your property.
         </p>
       </>
     ),
@@ -140,9 +141,9 @@ const TACTICS: Tactic[] = [
           saying your claim has been reassigned to a new adjuster. The new adjuster needs time to
           "review the file." Weeks pass. Then it happens again. Some policyholders go through three,
           four, or five adjusters in a single claim. Each reassignment resets the clock, loses
-          institutional knowledge, and exhausts the policyholder. This is not random bad luck — it
-          is a systemic delay tactic. The more adjusters your claim passes through, the less likely
-          any single adjuster will be held accountable for the delay.
+          institutional knowledge, and exhausts the policyholder. Whether intentional or the result
+          of staffing and workload issues, the effect is the same: the more adjusters your claim
+          passes through, the less likely any single adjuster will be held accountable for the delay.
         </p>
       </>
     ),
@@ -172,8 +173,9 @@ const TACTICS: Tactic[] = [
           "gradual" — a condition typically excluded under most homeowner policies. They may point
           to a previous water loss from years ago and argue that the current damage is actually the
           result of that old event, even when the two are completely unrelated. In some cases,
-          insurers hire engineers or industrial hygienists who write reports designed to support the
-          "long-term" narrative, selectively interpreting data to make acute damage appear chronic.
+          insurers hire engineers or industrial hygienists whose reports may emphasize the
+          "long-term" narrative, interpreting ambiguous data in ways that make acute damage appear
+          chronic.
           The presence of any mold becomes the insurer's justification to deny the entire claim.
         </p>
       </>
@@ -215,9 +217,9 @@ const TACTICS: Tactic[] = [
     howToFightBack: (
       <>
         <p>
-          In California, labor should not be depreciated. The landmark case{' '}
-          <em>Truong v. Allstate Insurance Company</em> established that depreciation of labor costs
-          is improper because labor does not lose value over time. Challenge every line item in the
+          In California, labor should not be depreciated. Title 10, California Code of Regulations,
+          Section 2695.9(f)(1) prohibits insurers from depreciating labor costs when adjusting
+          claims, because labor does not lose value over time. Challenge every line item in the
           insurer's depreciation schedule. Request their depreciation methodology in writing. Items
           like concrete foundations, structural steel, copper pipes, and certain roofing underlayments
           have useful lives that far exceed the depreciation percentages insurers commonly apply.
@@ -226,7 +228,7 @@ const TACTICS: Tactic[] = [
         </p>
       </>
     ),
-    regulations: ['Truong v. Allstate Insurance Company (labor depreciation)'],
+    regulations: ['10 CCR §2695.9(f)(1) (labor depreciation prohibited)'],
   },
   {
     number: 7,
@@ -333,12 +335,11 @@ const TACTICS: Tactic[] = [
         <p>
           Your adjuster stops returning calls. Emails go unanswered for weeks. You leave voicemails
           that disappear into a void. When you finally reach someone, they promise a callback that
-          never comes. This is not mere incompetence — it is a deliberate strategy to exhaust you
-          into giving up or accepting a low offer. The longer the silence stretches, the more
-          desperate you become, especially if you are displaced from your home and burning through
-          savings. Some policyholders spend months chasing their own insurance company for basic
-          updates on their claim. The insurer's inaction becomes a form of leverage: the longer
-          they wait, the more likely you are to settle for less just to end the ordeal.
+          never comes. Whether due to understaffing or indifference, the effect on the policyholder
+          is the same. The longer the silence stretches, the more desperate you become, especially if
+          you are displaced from your home and burning through savings. Some policyholders spend months
+          chasing their own insurance company for basic updates on their claim. The longer the insurer
+          waits, the more likely a policyholder is to settle for less just to end the ordeal.
         </p>
       </>
     ),
@@ -370,9 +371,8 @@ const TACTICS: Tactic[] = [
           you into using a contractor who has a financial incentive to keep costs low for the
           insurer. The threat is particularly effective on policyholders who are unfamiliar with
           their rights, especially those dealing with their first major claim. In reality, this
-          threat has absolutely no basis in your policy language or California law. It is a pressure
-          tactic designed to keep control of the repair process — and the costs — in the insurer's
-          hands.
+          threat has absolutely no basis in your policy language or California law. The effect is to
+          keep control of the repair process — and the costs — in the insurer's hands.
         </p>
       </>
     ),

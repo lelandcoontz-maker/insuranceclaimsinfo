@@ -316,7 +316,7 @@ export default function Content() {
           </li>
           <li>
             <strong>&ldquo;Claimant&rdquo;</strong> — includes the insured, an attorney, a{' '}
-            <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>,
+            <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>,
             or any family member properly designated in writing.
           </li>
           <li>
@@ -367,7 +367,7 @@ export default function Content() {
           40-day clock may already be running.
         </li>
         <li>
-          <strong>Refusing to communicate with your PA.</strong> You designate a public adjuster
+          <strong>Refusing to communicate with your PA.</strong> You designate a Public Adjuster
           in writing. The insurer&apos;s adjuster continues contacting you directly, ignoring
           your PA&apos;s calls and emails. Under the definition of &ldquo;claimant,&rdquo; your
           properly designated PA has the same communication rights as you do. The insurer&apos;s
@@ -562,7 +562,7 @@ export default function Content() {
             <strong>15 calendar days</strong>.
           </li>
           <li>
-            <strong>(c)</strong> A claimant&apos;s designation of a public adjuster, attorney, or
+            <strong>(c)</strong> A claimant&apos;s designation of a Public Adjuster, attorney, or
             family member must be in writing, signed and dated, and is valid until the claim is
             settled or revoked in writing.
           </li>
@@ -1289,7 +1289,7 @@ export default function Content() {
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3 mt-6">Real-World Results</h3>
       <p className="text-gray-700 leading-relaxed mb-3">
-        This regulation is used routinely by experienced public adjusters to increase
+        This regulation is used routinely by experienced Public Adjusters to increase
         settlements by tens of thousands of dollars — sometimes by six figures on large
         residential claims. The pattern is consistent: the insurer writes a low estimate, the
         contractor name demand is sent, the insurer cannot produce a contractor who will do

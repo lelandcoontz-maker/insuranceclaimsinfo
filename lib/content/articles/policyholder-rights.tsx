@@ -58,7 +58,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         You have the right to hire a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         or attorney to represent you in your claim. The insurance company cannot retaliate
         against you for hiring a representative, and they must communicate with your
@@ -86,6 +86,12 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

@@ -276,8 +276,8 @@ export default function Content() {
         <li>
           <strong>Consider a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
-          </Link>.</strong> A licensed public adjuster can help document the damages, prepare the scope of loss, and negotiate with the insurer on the amount of the claim &mdash; while an attorney handles the coverage dispute.
+            Public Adjuster
+          </Link>.</strong> A licensed Public Adjuster can help document the damages, prepare the scope of loss, and negotiate with the insurer on the amount of the claim &mdash; while an attorney handles the coverage dispute.
         </li>
       </ol>
 

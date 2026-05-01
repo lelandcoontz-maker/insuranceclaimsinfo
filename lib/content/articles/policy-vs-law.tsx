@@ -425,7 +425,7 @@ export default function Content() {
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the law says:</strong> California Code of Regulations Title 10, &sect;
-          2695.9(d) fills the gap: &ldquo;When a loss requires replacement of items and the replaced
+          2695.9(a)(2) fills the gap: &ldquo;When a loss requires replacement of items and the replaced
           items do not match in quality, color or size, the insurer shall replace all items in the
           damaged area so as to conform to a reasonably uniform appearance.&rdquo; The regulation
           creates a right that the policy itself does not mention. Your insurer cannot refuse to pay
@@ -444,7 +444,7 @@ export default function Content() {
           </p>
           <div className="flex flex-wrap gap-2">
             <span className="inline-block bg-[#1F3964]/10 text-[#1F3964] text-xs font-medium px-3 py-1 rounded-full">
-              10 CCR &sect; 2695.9(d)
+              10 CCR &sect; 2695.9(a)(2)
             </span>
           </div>
         </div>
@@ -527,7 +527,7 @@ export default function Content() {
           </p>
           <div className="flex flex-wrap gap-2">
             <span className="inline-block bg-[#1F3964]/10 text-[#1F3964] text-xs font-medium px-3 py-1 rounded-full">
-              Truong v. Allstate Insurance Company
+              10 CCR §2695.9(f)(1)
             </span>
           </div>
         </div>
@@ -655,7 +655,7 @@ export default function Content() {
           <li>Do not accept the denial at face value. The policy is not the final word.</li>
           <li>Identify the specific policy provision the insurer is relying on.</li>
           <li>Research whether that provision conflicts with any California statute, regulation, or case law.</li>
-          <li>Consult a public adjuster or insurance coverage attorney who can evaluate the conflict.</li>
+          <li>Consult a Public Adjuster or insurance coverage attorney who can evaluate the conflict.</li>
           <li>Put the insurer on notice in writing that you believe the policy provision is unenforceable.</li>
         </ol>
       </CalloutBox>

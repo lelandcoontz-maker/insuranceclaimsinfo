@@ -5,7 +5,7 @@ export const meta = {
   title:
     'When a Mortgage Company Tries to Hire a Public Adjuster: Understanding the Legal Boundaries',
   description:
-    'The lender\'s loss payable endorsement, mortgagee rights, privacy laws, and why a mortgage company cannot hire a public adjuster unless it is an insured. A real-world case study.',
+    'The lender\'s loss payable endorsement, mortgagee rights, privacy laws, and why a mortgage company cannot hire a Public Adjuster unless it is an insured. A real-world case study.',
 }
 
 export default function Content() {
@@ -21,7 +21,7 @@ export default function Content() {
         This article explores a real situation (with names and identifying details changed) in which
         a public adjusting firm attempted to insert itself into a homeowner&apos;s fire insurance
         claim on behalf of the mortgage company. The conflict raised important questions about
-        mortgagee rights under the insurance policy, the legal scope of a public adjuster&apos;s
+        mortgagee rights under the insurance policy, the legal scope of a Public Adjuster&apos;s
         license, privacy protections for insured homeowners, and the proper boundaries between a
         lender&apos;s legitimate interests and overreach.
       </p>
@@ -30,13 +30,13 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">What Happened</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A homeowner &mdash; call him Mr. Smith &mdash; suffered significant smoke damage to his home
-        in a California wildfire. He hired a licensed public adjuster to represent him in the
-        insurance claim. The claim was progressing normally: the public adjuster communicated with
+        in a California wildfire. He hired a licensed Public Adjuster to represent him in the
+        insurance claim. The claim was progressing normally: the Public Adjuster communicated with
         the insurance company&apos;s adjusters, submitted estimates, documented damage, and
         negotiated on behalf of the insured.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Then, one day, the insurance company forwarded an email to Mr. Smith&apos;s public adjuster.
+        Then, one day, the insurance company forwarded an email to Mr. Smith&apos;s Public Adjuster.
         A different public adjusting firm &mdash; one that nobody on the insured&apos;s side had ever
         heard of &mdash; had contacted the insurance company. This other firm presented
         a &ldquo;designee authorization&rdquo; letter from the mortgage company (a major national
@@ -51,15 +51,15 @@ export default function Content() {
         The mortgage company&apos;s public adjusting firm was essentially demanding the claim file.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Mr. Smith&apos;s public adjuster immediately recognized the problem. The mortgage company
+        Mr. Smith&apos;s Public Adjuster immediately recognized the problem. The mortgage company
         is <strong>not an insured</strong> under the homeowner&apos;s insurance policy. And in
-        California, a public adjuster is only licensed to represent <strong>insureds</strong>.
+        California, a Public Adjuster is only licensed to represent <strong>insureds</strong>.
         Something was very wrong.
       </p>
 
       <CalloutBox variant="important" title="The Core Issue">
         <p>
-          A public adjuster is only licensed to represent <strong>an insured</strong>. A mortgage
+          A Public Adjuster is only licensed to represent <strong>an insured</strong>. A mortgage
           company is not an insured under a standard homeowner&apos;s policy. It is a loss payee
           with derivative contractual rights &mdash; that is not the same thing.
         </p>
@@ -251,7 +251,7 @@ export default function Content() {
         When Can a Mortgage Company Hire a Public Adjuster?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California law (and the law of most states), a public adjuster is specifically defined
+        Under California law (and the law of most states), a Public Adjuster is specifically defined
         as someone who represents <strong>insureds</strong>. California Insurance Code Section 15007
         reads:
       </p>
@@ -262,9 +262,9 @@ export default function Content() {
         real or personal property&hellip;&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The key phrase is &ldquo;an insured.&rdquo; A public adjuster&apos;s entire licensing
+        The key phrase is &ldquo;an insured.&rdquo; A Public Adjuster&apos;s entire licensing
         authority is predicated on representing an insured party. If the party is not an insured, the
-        public adjuster has no legal basis to act in that capacity.
+        Public Adjuster has no legal basis to act in that capacity.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -287,7 +287,7 @@ export default function Content() {
         policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In that situation, the mortgage company absolutely has the right to hire a public adjuster,
+        In that situation, the mortgage company absolutely has the right to hire a Public Adjuster,
         because the mortgage company is the insured on the force-placed policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
@@ -300,14 +300,14 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         In each case where the mortgage company purchases its own policy, it becomes an insured and
-        can engage a public adjuster.
+        can engage a Public Adjuster.
       </p>
 
       <CalloutBox variant="tip" title="The Force-Placed Exception">
         <p>
           A mortgage company that purchases a force-placed policy <strong>is</strong> an insured under
           that policy. In that case &mdash; and only in that case &mdash; the mortgage company can
-          legally hire a public adjuster to represent its interests.
+          legally hire a Public Adjuster to represent its interests.
         </p>
       </CalloutBox>
 
@@ -322,8 +322,8 @@ export default function Content() {
         on the declarations page as a mortgagee is not the same as being listed as an insured.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In this scenario, the mortgage company <strong>cannot</strong> legally hire a public adjuster
-        to act as a public adjuster on the homeowner&apos;s insurance claim. The public
+        In this scenario, the mortgage company <strong>cannot</strong> legally hire a Public Adjuster
+        to act as a Public Adjuster on the homeowner&apos;s insurance claim. The public
         adjuster&apos;s license simply does not authorize that representation.
       </p>
 
@@ -342,7 +342,7 @@ export default function Content() {
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
           <strong>California law requires a specific contract form.</strong> Under California
-          Insurance Code Section 15027, a public adjuster contract must contain specific elements
+          Insurance Code Section 15027, a Public Adjuster contract must contain specific elements
           including: the title &ldquo;Public Adjuster Contract,&rdquo; the licensee&apos;s name and
           license number, the insured&apos;s name and address, a description of the loss, the insurer
           and policy number, the fee structure, signatures of both the licensee and the insured, a
@@ -443,7 +443,7 @@ export default function Content() {
         What an Attorney Advised
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In the real claim, the insured&apos;s public adjuster consulted with an attorney who
+        In the real claim, the insured&apos;s Public Adjuster consulted with an attorney who
         confirmed that the mortgage company&apos;s demand for the complete claim file was improper.
         The attorney explained that while the mortgage company has a legitimate interest in documents
         related to the dwelling repair &mdash; estimates, invoices, and payment records &mdash; it
@@ -480,8 +480,8 @@ export default function Content() {
           involving a standard homeowner&apos;s policy, the answer is no.
         </li>
         <li>
-          <strong>Decline to treat the third-party firm as a public adjuster.</strong> If the
-          mortgage company is not an insured, the firm cannot legally act as a public adjuster. The
+          <strong>Decline to treat the third-party firm as a Public Adjuster.</strong> If the
+          mortgage company is not an insured, the firm cannot legally act as a Public Adjuster. The
           insurance company can and should inform the firm that it will not recognize their authority
           to act in that capacity.
         </li>
@@ -499,7 +499,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Consult legal counsel.</strong> When faced with aggressive demands from a third
-          party claiming to act as a public adjuster for a non-insured, the insurance company should
+          party claiming to act as a Public Adjuster for a non-insured, the insurance company should
           seek legal guidance.
         </li>
       </ol>
@@ -509,7 +509,7 @@ export default function Content() {
         What the Insured&apos;s Public Adjuster Should Do
       </h2>
       <p className="text-gray-700 leading-relaxed mb-3">
-        If you are a public adjuster and discover that another public adjusting firm is trying to
+        If you are a Public Adjuster and discover that another public adjusting firm is trying to
         insert itself into your client&apos;s claim on behalf of the mortgage company, here is the
         recommended approach:
       </p>
@@ -526,18 +526,18 @@ export default function Content() {
           <Link href="/resources/force-placed-insurance" className="text-blue-700 underline">
             force-placed policy
           </Link>{' '}
-          in play, the mortgage company cannot hire a public adjuster.
+          in play, the mortgage company cannot hire a Public Adjuster.
         </li>
         <li>
           <strong>Notify the insurance company.</strong> Send a written communication explaining that
           the mortgage company is not an insured, that the third-party firm cannot legally act as a
-          public adjuster, and that the insured&apos;s private information should not be shared with
+          Public Adjuster, and that the insured&apos;s private information should not be shared with
           unauthorized parties. Cite the relevant provisions of the Insurance Code.
         </li>
         <li>
           <strong>Notify the other public adjusting firm directly.</strong> Inform them clearly that
           their client (the mortgage company) is not an insured under the policy and that they cannot
-          legally act as a public adjuster in this capacity. Cite California Insurance Code Section
+          legally act as a Public Adjuster in this capacity. Cite California Insurance Code Section
           15007.
         </li>
         <li>
@@ -558,21 +558,21 @@ export default function Content() {
       {/* ────────────────── THE CONFRONTATION ────────────────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">The Confrontation</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In the real case, this is exactly what happened. The insured&apos;s public adjuster called
+        In the real case, this is exactly what happened. The insured&apos;s Public Adjuster called
         the other firm to tell them they were acting outside the scope of their license. This led to
         an escalating exchange, with the other firm&apos;s principal insisting that the public
         adjuster &ldquo;get educated&rdquo; on who is an insured under a fire insurance policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insured&apos;s public adjuster responded by citing the exact language of California
-        Insurance Code Section 15007, which defines a public adjuster as someone who acts on behalf
+        The insured&apos;s Public Adjuster responded by citing the exact language of California
+        Insurance Code Section 15007, which defines a Public Adjuster as someone who acts on behalf
         of &ldquo;an insured.&rdquo; The mortgage company, while having important contractual rights
-        under the mortgage clause, is not an insured. The public adjuster made this point
+        under the mortgage clause, is not an insured. The Public Adjuster made this point
         clearly: <em>&ldquo;The mortgage company is not an insured. You cannot represent
         them.&rdquo;</em>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insured&apos;s public adjuster then prepared a comprehensive written analysis of every
+        The insured&apos;s Public Adjuster then prepared a comprehensive written analysis of every
         provision of the mortgage clause, explaining each one in plain English and its relevance (or
         lack of relevance) to the claim. This document was sent to the insurance company, along with
         a formal request that the insurer carefully consider its communications with the other firm
@@ -584,8 +584,8 @@ export default function Content() {
         Can the Mortgage Company Hire a Consultant?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is a nuanced question. While the mortgage company cannot hire a public adjuster to act
-        as a public adjuster (because the mortgage company is not an insured), the mortgage company
+        This is a nuanced question. While the mortgage company cannot hire a Public Adjuster to act
+        as a Public Adjuster (because the mortgage company is not an insured), the mortgage company
         is not prohibited from hiring professionals to advise it on matters related to its financial
         interest.
       </p>
@@ -600,14 +600,14 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The key distinction is that none of these activities would involve acting{' '}
-        <strong>as a public adjuster</strong>. A person with a public adjuster&apos;s license who is
+        <strong>as a Public Adjuster</strong>. A person with a Public Adjuster&apos;s license who is
         hired by a mortgage company to provide consulting services is not acting as a public
         adjuster &mdash; they are acting as a consultant. They should not present their public
         adjuster credentials, should not use a Public Adjuster Contract, and should not demand the
         claim file as though they were representing an insured.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Whether a licensed public adjuster can ethically serve as a &ldquo;consultant&rdquo; to a
+        Whether a licensed Public Adjuster can ethically serve as a &ldquo;consultant&rdquo; to a
         non-insured on an insurance claim without running afoul of licensing laws is debatable. Some
         would argue this is a distinction without a difference &mdash; that anyone who is compensated
         for helping a party negotiate or settle an insurance claim is engaging in public adjusting,
@@ -617,17 +617,17 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Proceed with Caution">
         <p>
-          If a public adjuster is going to do consulting work for a non-insured party, they should be
-          transparent about the nature of the engagement, avoid using their public adjuster
+          If a Public Adjuster is going to do consulting work for a non-insured party, they should be
+          transparent about the nature of the engagement, avoid using their Public Adjuster
           credentials or the trappings of public adjusting, and ensure they are not effectively acting
-          as a public adjuster by another name.
+          as a Public Adjuster by another name.
         </p>
       </CalloutBox>
 
       {/* ────────────────── LESSONS ────────────────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">Lessons Learned</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This situation illustrates several important principles for homeowners, public adjusters,
+        This situation illustrates several important principles for homeowners, Public Adjusters,
         mortgage companies, and insurance companies:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -637,7 +637,7 @@ export default function Content() {
         should speak up &mdash; or have your representative do so on your behalf.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>For public adjusters:</strong> Know the mortgage clause inside and out. Understand
+        <strong>For Public Adjusters:</strong> Know the mortgage clause inside and out. Understand
         where the mortgage company&apos;s rights end and the insured&apos;s privacy rights begin. Be
         prepared to push back firmly but professionally when another firm tries to exceed its
         authority. Document everything in writing.
@@ -646,7 +646,7 @@ export default function Content() {
         <strong>For mortgage companies:</strong> You have legitimate interests in the insurance
         claim, and those interests are protected by the mortgage clause. But your rights have
         boundaries. You are not an insured (unless you have a force-placed policy), and you should
-        not attempt to access the complete claim file or hire a public adjuster to act as your public
+        not attempt to access the complete claim file or hire a Public Adjuster to act as your public
         adjuster on a homeowner&apos;s policy where you are merely a loss payee.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

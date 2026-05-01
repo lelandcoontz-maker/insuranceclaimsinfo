@@ -22,10 +22,16 @@ export default function Content() {
         This is one of the most common tactics in property insurance. The carrier engineer report
         is designed to give the insurer a &ldquo;professional opinion&rdquo; to justify a denial.
         But these reports are frequently flawed, biased, and beatable — if you know what to look for.
-        How prevalent is this problem? In U.S. Senate testimony in May 2025, whistleblower adjusters
-        revealed staggering numbers: one adjuster testified that 44 of his 46 field reports (96%)
-        were altered by his insurer, and another that 18 of 20 (90%) were changed. A forensic
-        engineer testified that over 90% of his causation reports were altered through
+        How prevalent is this problem? In whistleblower testimony before the Florida House of
+        Representatives in December 2022, adjusters Jordan Lee and Ben Mandell revealed staggering
+        numbers: Lee testified that 44 of his 46 field reports (96%) were altered by his insurer,
+        and Mandell that 18 of 20 (90%) were changed. In May 2025, the{' '}
+        <a href="https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/examining-the-insurance-industrys-claims-practices-following-recent-natural-disasters/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+          U.S. Senate Subcommittee on Disaster Management
+        </a>{' '}
+        held hearings on insurer claims practices following recent natural disasters, where
+        witnesses from Pilot Catastrophe Services testified about Allstate altering field estimates.
+        A forensic engineer testified that over 90% of his causation reports were altered through
         a &ldquo;peer review&rdquo; process that reversed his field conclusions.
       </p>
 

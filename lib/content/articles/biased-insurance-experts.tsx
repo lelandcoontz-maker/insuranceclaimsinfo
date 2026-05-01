@@ -34,14 +34,19 @@ export default function Content() {
         This creates <strong>selection bias</strong> — over time, the insurer&apos;s expert roster
         is populated almost exclusively by professionals who reliably produce claim-minimizing
         results. It is not that every finding is wrong, but the systemic tilt is real and
-        measurable. In May 2025, the U.S. Senate held hearings on insurer claims practices in which
-        whistleblower adjusters provided devastating testimony: one adjuster (Jordan Lee) stated that
+        measurable. In testimony before the Florida House of Representatives in December 2022,
+        whistleblower adjusters provided devastating numbers: Jordan Lee stated that
         44 of his 46 field reports — 96% — were altered by the insurer, with some estimates reduced
-        by as much as 98%. Another (Ben Mandell) testified that 18 of 20 reports (90%) were changed,
-        and that he was fired for refusing to omit documented damage. A forensic engineer confirmed
-        that over 90% of his causation reports were altered through a so-called &ldquo;peer
-        review&rdquo; process at the home office, which reversed his field findings to align with
-        the insurer&apos;s denial strategy.
+        by as much as 98%. Ben Mandell testified that 18 of 20 reports (90%) were changed,
+        and that he was fired for refusing to omit documented damage. In May 2025, the{' '}
+        <a href="https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/examining-the-insurance-industrys-claims-practices-following-recent-natural-disasters/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+          U.S. Senate Subcommittee on Disaster Management
+        </a>{' '}
+        held further hearings on insurer claims practices following recent natural disasters, where
+        witnesses from Pilot Catastrophe Services testified about Allstate altering field
+        estimates. A forensic engineer confirmed that over 90% of his causation reports were altered
+        through a so-called &ldquo;peer review&rdquo; process at the home office, which reversed
+        his field findings to align with the insurer&apos;s denial strategy.
       </p>
 
       <CalloutBox variant="warning" title="Common Signs of a Biased Expert Report">
@@ -275,7 +280,7 @@ export default function Content() {
         engineer says it was caused by the covered event, the insurer must address the discrepancy.
         If the insurer simply ignores your expert without explanation, that conduct can support a
         bad faith claim. A{' '}
-        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>{' '}
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>{' '}
         can help you identify qualified independent experts and coordinate the inspection process.
       </p>
 

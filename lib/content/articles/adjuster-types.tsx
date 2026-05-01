@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Types of Insurance Adjusters: Who You\'re Really Dealing With',
   description:
-    'Staff adjusters, independent adjusters, desk adjusters, field adjusters, public adjusters — learn who each one works for and how it affects your claim.',
+    'Staff adjusters, independent adjusters, desk adjusters, field adjusters, Public Adjusters — learn who each one works for and how it affects your claim.',
 }
 
 export default function Content() {
@@ -31,11 +31,25 @@ export default function Content() {
         to handle the surge of claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        IAs are often paid per claim, per inspection, or on a deployment/day-rate basis. The
-        specific fee structure varies by firm and by assignment, but whatever the model,
-        volume-based compensation can create pressure to close claims quickly &mdash; especially
-        in a catastrophe deployment where thousands of claims are competing for attention. In
-        California, adjusters must be individually licensed under the Insurance Code and are
+        IA compensation models vary widely. Historically, catastrophe adjusters were routinely
+        paid a percentage of the claims they closed &mdash; typically 2&ndash;6% depending on
+        claim size &mdash; which created strong volume incentives: the more claims an adjuster
+        closed per day, the more they earned, regardless of accuracy. That percentage-based
+        model was the industry standard for CAT deployments through at least the 2010s and
+        persists at some firms today. Non-catastrophe IAs are more commonly paid hourly, on
+        timesheets, on day rates, or sometimes on salary through long-term carrier contracts.
+        Per-claim and per-inspection flat fees are also common for limited-scope assignments.
+        Whatever the model, volume-based compensation can create pressure to close claims
+        quickly &mdash; especially in a catastrophe deployment where thousands of claims are
+        competing for attention. For a detailed breakdown of how each model works and what it
+        means for your claim, see our guide on{' '}
+        <Link href="/resources/adjuster-compensation" className="text-blue-700 underline hover:text-blue-900">
+          how insurance adjusters get paid
+        </Link>
+        .
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In California, adjusters must be individually licensed under the Insurance Code and are
         required to include their license number (or their supervising adjuster&apos;s license
         number) on all written communications &mdash; see 10 CCR &sect; 2695.4(a).
       </p>
@@ -71,7 +85,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         is the only type of adjuster who works exclusively for the policyholder. In California,
         the formal license is called a <strong>Public Insurance Adjuster</strong> (PIA), issued
@@ -87,7 +101,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Who Works for Whom">
         <p>
           Staff adjusters and independent adjusters work for the insurance company. Desk adjusters
-          work for the insurance company. The only adjuster who works for YOU is a public adjuster.
+          work for the insurance company. The only adjuster who works for YOU is a Public Adjuster.
           Understanding this distinction is the first step to protecting yourself.
         </p>
       </CalloutBox>
@@ -111,11 +125,17 @@ export default function Content() {
           Examination Under Oath (EUO)
         </Link>
         , or producing broad document demands, seriously consider consulting an attorney. Only
-        an attorney can provide legal advice about how to respond to an SIU investigation; a PIA
+        an attorney can provide legal advice about how to respond to an SIU investigation; a Public Adjuster
         can help you organize your claim file and coordinate the claim side of the response, but
         the legal strategy of an SIU matter belongs with counsel.
       </p>
 
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

@@ -353,11 +353,11 @@ export default function Content() {
           </Link>, they are required to do so.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster or attorney:</strong> Fire sprinkler
+          <strong>Consider hiring a Public Adjuster or attorney:</strong> Fire sprinkler
           contamination claims are complex and the insurance company has a strong financial incentive
           to minimize them. A{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or{' '}
           <Link href="/resources/when-to-hire-attorney" className="text-blue-700 underline hover:text-blue-900">
@@ -434,6 +434,12 @@ export default function Content() {
           </li>
         </ul>
       </CalloutBox>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

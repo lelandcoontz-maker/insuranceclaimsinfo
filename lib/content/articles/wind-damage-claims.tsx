@@ -57,11 +57,17 @@ export default function Content() {
           Some carriers argue that wind damage combined with pre-existing wear creates a
           &quot;concurrent causation&quot; situation and use anti-concurrent causation clauses
           to limit or deny the claim. This is an area of active litigation in many states.
-          If your carrier raises this argument, consult with a public adjuster or attorney
+          If your carrier raises this argument, consult with a Public Adjuster or attorney
           who understands the case law in your state.
         </p>
       </CalloutBox>
 
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

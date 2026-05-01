@@ -57,9 +57,9 @@ export default function Content() {
           look for what they are not physically present to find.
         </li>
         <li>
-          <strong>Public adjusters</strong> work for <em>you</em>, the policyholder. They are licensed
+          <strong>Public Adjusters</strong> work for <em>you</em>, the policyholder. They are licensed
           separately from company adjusters and are retained by the homeowner, not the insurer. A
-          public adjuster advocates for your interests, prepares your claim, and negotiates directly
+          Public Adjuster advocates for your interests, prepares your claim, and negotiates directly
           with the insurance company on your behalf. This is what I do.{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
             Learn more about working with a Public Adjuster
@@ -237,7 +237,7 @@ export default function Content() {
           that is exactly why they push for them.
         </li>
         <li>
-          <strong>Discouraging you from hiring a public adjuster or attorney.</strong> &ldquo;That
+          <strong>Discouraging you from hiring a Public Adjuster or attorney.</strong> &ldquo;That
           will just slow things down&rdquo; or &ldquo;You do not need that, we will take care of
           you.&rdquo; The reason they say this is because professional representation consistently
           results in higher settlements. They know this.
@@ -286,9 +286,9 @@ export default function Content() {
           contractor estimates and supporting documentation.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster if the gap is significant.</strong> If the
+          <strong>Consider hiring a Public Adjuster if the gap is significant.</strong> If the
           difference between the insurer&rsquo;s number and the actual cost of repairs is substantial,
-          professional representation can make a significant difference. A public adjuster will
+          professional representation can make a significant difference. A Public Adjuster will
           prepare a proper scope, document all damage, and negotiate on your behalf.
         </li>
       </ul>
@@ -322,11 +322,11 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="California Law on Adjuster Reassignment (Emergency Claims)">
         <p>
-          Under California Insurance Code Section 14047 (enacted by SB 240, effective January 1,
-          2020), if three or more adjusters are assigned to a <em>residential property claim arising
-          from a declared state of emergency</em> within a six-month period, the insurer must provide
-          the policyholder with a written status report within five business days of the latest
-          reassignment. This report must include the current status of the claim and a statement of
+          Under California Insurance Code Section 14047 (originally enacted by SB 240 in 2020 and
+          amended by SB 876 in 2025), if a third or subsequent adjuster is assigned to a{' '}
+          <em>residential property claim arising from a declared state of emergency</em> within a
+          six-month period, the insurer must provide the policyholder with a written status report
+          within five business days of the reassignment. This report must include the current status of the claim and a statement of
           any issues still outstanding. Note that this requirement applies specifically to
           emergency-declared residential property losses &mdash; it does not apply to all claims. If
           you are experiencing the adjuster carousel on an emergency claim, document every
@@ -374,7 +374,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If any of these apply to your situation, consider reaching out for a consultation. A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         can evaluate your claim and tell you whether professional representation is likely to make a
         meaningful difference. If your situation involves potential bad faith or a coverage dispute
@@ -387,7 +387,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Free Consultation">
         <p>
-          Not sure if you need help? Most public adjusters, including myself, offer a free initial
+          Not sure if you need help? Most Public Adjusters, including myself, offer a free initial
           claim review. There is no obligation and no cost to find out where you stand.{' '}
           <Link href="/contact" className="text-[#2E74B5] underline font-semibold">
             Request a free claim review

@@ -10,6 +10,15 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="info" title="About This Article">
+        <p>
+          This article summarizes key California insurance case law for educational purposes. The legal
+          analysis referenced here draws on published commentary by California insurance attorneys. This
+          is not legal advice &mdash; if you believe any of these cases apply to your claim, consult with a
+          licensed attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         California insurance law is built on case law. Statutes like Insurance Code &sect; 790.03
         and the{' '}
@@ -33,7 +42,7 @@ export default function Content() {
         general insurance law (including bad faith and coverage/causation), and appraisal-specific
         case law. For each case, we explain the holding, its significance, and how it relates to
         the broader body of law.
-        Whether you are a policyholder trying to understand your rights, a public adjuster
+        Whether you are a policyholder trying to understand your rights, a Public Adjuster
         building a claim file, or an attorney preparing for litigation, these are the cases you
         need to know.
       </p>
@@ -225,7 +234,7 @@ export default function Content() {
         framework and the common law. The Fair Claims Regulations set detailed requirements for
         how insurers must investigate and handle claims. <em>Jordan</em> established that
         violations of those regulations are relevant &mdash; and potentially powerful &mdash;
-        evidence that the insurer failed to meet its duty of good faith. For public adjusters and
+        evidence that the insurer failed to meet its duty of good faith. For Public Adjusters and
         policyholders, this means that documenting regulatory violations is not just an
         administrative exercise &mdash; it is building the evidentiary foundation for a potential
         bad faith claim. <em>Jordan</em> also limits the genuine dispute doctrine: an insurer
@@ -278,7 +287,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Significance:</strong> <em>McCoy</em> is one of the most practically important
-        cases for policyholders and public adjusters. In real-world claims, insurers frequently
+        cases for policyholders and Public Adjusters. In real-world claims, insurers frequently
         withhold all payment while disputing a portion of the loss. For example, an insurer may
         agree that a roof has $80,000 in covered damage but refuse to pay anything because it
         disputes whether an additional $40,000 in interior damage is covered. Under <em>McCoy</em>,
@@ -291,9 +300,11 @@ export default function Content() {
       <CalloutBox variant="tip" title="Demand the Undisputed Amount in Writing">
         <p>
           If your insurer agrees that part of your claim is owed but refuses to pay while
-          disputing the rest, send a written demand citing <em>McCoy v. Progressive West</em>.
+          disputing the rest, send a written demand for the undisputed amount.
           State the undisputed amount, request immediate payment, and note that withholding
-          undisputed benefits is evidence of bad faith. Even if the insurer ignores the demand,
+          undisputed benefits is evidence of bad faith. <em>McCoy v. Progressive West</em>{' '}
+          established this principle &mdash; your attorney can advise on how to reference it
+          in your demand. Even if the insurer ignores the demand,
           the letter itself becomes part of the claim record.
         </p>
       </CalloutBox>
@@ -323,7 +334,7 @@ export default function Content() {
         based on a &ldquo;genuine dispute.&rdquo; <em>Amadeo</em> says that this is not enough:
         the insurer&rsquo;s investigation must be objectively reasonable, and the dispute must
         arise from a genuine evaluation of the evidence &mdash; not from an investigation designed
-        to reach a predetermined conclusion. For public adjusters, <em>Amadeo</em> underscores
+        to reach a predetermined conclusion. For Public Adjusters, <em>Amadeo</em> underscores
         the importance of documenting{' '}
         <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] underline">
           biased insurance experts
@@ -414,10 +425,14 @@ export default function Content() {
         will attempt to attribute the loss to an excluded cause. <em>Garvey</em> tells us the
         correct analysis: identify the efficient proximate cause &mdash; the predominant force
         that set the loss in motion &mdash; and if that cause is covered, the loss is covered.
-        The insurer cannot cherry-pick an excluded contributing cause to deny the claim. For
-        policyholders and their representatives, <em>Garvey</em> is the case to cite whenever
-        a carrier denies a claim by pointing to an excluded peril that was not the predominant
-        cause of the loss.
+        The insurer cannot cherry-pick an excluded contributing cause to deny the claim.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>Garvey</em> is the leading California authority on this issue. As attorney Scott G.
+        Johnson of Robins Kaplan LLP has explained, &ldquo;When a loss is caused by a combination
+        of a covered risk and a specifically excluded risk, the loss is covered only if the covered
+        risk was the efficient proximate cause of the loss.&rdquo; Your attorney can advise whether{' '}
+        <em>Garvey</em> applies to your situation.
       </p>
 
       <CalloutBox variant="tip" title="When the Carrier Points to an Excluded Contributing Cause">
@@ -594,7 +609,7 @@ export default function Content() {
           If you believe the appraisal process was flawed &mdash; the umpire was biased, the panel
           exceeded its authority, or material evidence was excluded &mdash; you must raise these
           issues <em>during</em> the process, not after. Objections that are not preserved
-          contemporaneously may be waived. An experienced public adjuster or attorney should be
+          contemporaneously may be waived. An experienced Public Adjuster or attorney should be
           involved from the start to protect your rights throughout the proceeding.
         </p>
       </CalloutBox>
@@ -662,14 +677,14 @@ export default function Content() {
           held that party appraisers function as advocates. The word &ldquo;disinterested&rdquo;
           does not mean the appraiser must be neutral &mdash; it means the appraiser should not
           have a <em>personal financial interest</em> in the outcome beyond the appraiser&rsquo;s
-          fee. A public adjuster serving as the policyholder&rsquo;s appraiser is not disqualified
+          fee. A Public Adjuster serving as the policyholder&rsquo;s appraiser is not disqualified
           simply because they advocate vigorously for the policyholder &mdash; that is exactly
           what the role requires.
         </p>
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Significance:</strong> <em>Lambert</em> is critical for public adjusters who
+        <strong>Significance:</strong> <em>Lambert</em> is critical for Public Adjusters who
         serve as party appraisers. Before <em>Lambert</em>, insurers sometimes argued that a
         policyholder&rsquo;s appraiser was &ldquo;biased&rdquo; or &ldquo;not disinterested&rdquo;
         because the appraiser advocated strongly for the policyholder. <em>Lambert</em> rejected
@@ -694,7 +709,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Facts:</strong> A refrigerator line leak damaged the Bansals&rsquo; home. Nationwide
         sent an out-of-state adjuster from Iowa (not California-licensed) who estimated approximately
-        $11,000 in damages. The Bansals retained a public adjuster, and their contractor estimated
+        $11,000 in damages. The Bansals retained a Public Adjuster, and their contractor estimated
         approximately $140,000. When the parties could not agree, the dispute went to appraisal. The
         appraisal panel awarded approximately $68,000, and Nationwide paid the award. The Bansals
         then sued for bad faith, arguing that Nationwide&rsquo;s initial lowball estimate and delay

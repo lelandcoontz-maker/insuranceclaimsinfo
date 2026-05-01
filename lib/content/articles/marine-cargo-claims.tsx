@@ -43,9 +43,9 @@ export default function Content() {
         <strong>any policy of insurance covering real or personal property</strong>. The operative
         phrase is &ldquo;any policy of insurance covering real or personal property.&rdquo;
         Cargo &mdash; goods, merchandise, and freight in transit &mdash; is unambiguously personal
-        property. This gives a California-licensed public adjuster clear statutory authority to
+        property. This gives a California-licensed Public Adjuster clear statutory authority to
         represent importers and exporters in the adjustment of marine cargo insurance claims where
-        the claim arises within California. For more on what a public adjuster does, see our{' '}
+        the claim arises within California. For more on what a Public Adjuster does, see our{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
           guide to working with a PA
         </Link>.
@@ -89,9 +89,9 @@ export default function Content() {
         moving through California.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The public adjuster&apos;s role is not to litigate admiralty law &mdash; it is to
+        The Public Adjuster&apos;s role is not to litigate admiralty law &mdash; it is to
         represent the insured in the adjustment of the insurance claim. That function falls
-        squarely within the scope of a California public adjuster license.
+        squarely within the scope of a California Public Adjuster license.
       </p>
 
       {/* ───────── Section II: The Advocacy Gap ───────── */}
@@ -335,7 +335,7 @@ export default function Content() {
         What a Public Adjuster Brings to a Cargo Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A licensed public adjuster engaged by an importer or exporter functions as the
+        A licensed Public Adjuster engaged by an importer or exporter functions as the
         policyholder&apos;s dedicated claims professional from the moment of loss through final
         settlement:
       </p>
@@ -380,18 +380,18 @@ export default function Content() {
         The Contingency Advantage: Aligned Incentives
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Unlike insurance company adjusters who are paid regardless of outcome, a public adjuster
+        Unlike insurance company adjusters who are paid regardless of outcome, a Public Adjuster
         working on contingency earns nothing unless additional recovery is achieved for the
         policyholder. This creates a powerful alignment of interests:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>No upfront cost to the importer or exporter</li>
-        <li>No fee unless the public adjuster recovers more than the insurer&apos;s initial position</li>
+        <li>No fee unless the Public Adjuster recovers more than the insurer&apos;s initial position</li>
         <li>Maximum motivation to identify every recoverable dollar under the policy</li>
         <li>No risk of over-paying for services that produce no result</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For more on how public adjuster fees work, see our{' '}
+        For more on how Public Adjuster fees work, see our{' '}
         <Link href="/resources/public-adjuster-fees" className="text-[#2E74B5] hover:underline">
           guide to PA fees and when they are worth it
         </Link>.
@@ -402,9 +402,9 @@ export default function Content() {
         Why Trade Expertise Changes Everything
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Most public adjusters come from a background in residential or commercial property
+        Most Public Adjusters come from a background in residential or commercial property
         damage &mdash; fires, floods, and storm losses. Very few have first-hand operational
-        experience in the world of international trade. A public adjuster who has worked as a
+        experience in the world of international trade. A Public Adjuster who has worked as a
         licensed customs broker and freight forwarder brings capabilities that most adjusters
         simply cannot offer:
       </p>
@@ -496,7 +496,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The international cargo insurance market represents billions of dollars in claims
         annually. Yet the policyholder advocacy infrastructure that serves homeowners and
-        commercial property owners &mdash; the public adjuster industry &mdash; has largely not
+        commercial property owners &mdash; the Public Adjuster industry &mdash; has largely not
         extended its reach into cargo claims. Most importers and exporters do not know they
         have the right to hire their own adjuster. They do not know the surveyor on site
         works for the insurance company, not for them. And they do not know how much they are
@@ -506,7 +506,7 @@ export default function Content() {
         Whether the loss involves a container of electronics arriving at the Port of Long Beach
         with concealed damage, a shipment of agricultural products spoiled in a refrigerated
         container, a General Average declaration on a trans-Pacific voyage, or a theft of goods
-        from a bonded warehouse, professional public adjuster representation can provide the
+        from a bonded warehouse, professional Public Adjuster representation can provide the
         expert advocacy that cargo owners have historically had to go without.
       </p>
 
@@ -554,6 +554,12 @@ export default function Content() {
         heading="Have a Cargo Claim? Let's Talk."
         description="We handle California marine cargo insurance claims — with real trade industry expertise. Free consultation, no obligation. Tell us about your loss."
       />
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice. Insurance
+        policies and applicable law vary by state and by policy form. Consult with a licensed
+        professional regarding your specific situation.
+      </p>
     </>
   )
 }

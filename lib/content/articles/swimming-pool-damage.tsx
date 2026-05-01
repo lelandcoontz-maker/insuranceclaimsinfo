@@ -558,7 +558,7 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster.</strong> Pool claims involve technical
+          <strong>Consider hiring a Public Adjuster.</strong> Pool claims involve technical
           construction issues, coverage questions across multiple policy sections, and
           potential stacking of scheduled and unscheduled coverages. A licensed public
           adjuster can identify coverage you may not know you have and negotiate a

@@ -580,7 +580,7 @@ export default function Content() {
           Vacancy clause denials are among the most commonly misapplied coverage defenses in
           homeowner insurance. If your insurer is claiming your property was &ldquo;vacant&rdquo;
           when it was merely unoccupied &mdash; or applying the vacancy exclusion to a peril
-          that is not actually excluded &mdash; a licensed public adjuster can review your policy,
+          that is not actually excluded &mdash; a licensed Public Adjuster can review your policy,
           evaluate the denial, and help you fight back.
         </p>
         <Link
@@ -598,7 +598,7 @@ export default function Content() {
           jurisdictions applying specific policy language and facts. Your policy language, state
           law, and factual circumstances may differ. Every claim involves unique considerations.
           If you believe a vacancy clause has been improperly applied to your claim, consult with
-          a licensed public adjuster or an attorney who specializes in insurance coverage disputes.
+          a licensed Public Adjuster or an attorney who specializes in insurance coverage disputes.
         </p>
       </CalloutBox>
     </>

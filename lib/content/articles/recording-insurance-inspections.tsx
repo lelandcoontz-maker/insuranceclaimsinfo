@@ -139,7 +139,7 @@ export default function Content() {
         </li>
         <li>
           <strong>The policyholder or their representative is present.</strong> If you or your
-          public adjuster is present during the inspection, the carrier&rsquo;s experts are
+          Public Adjuster is present during the inspection, the carrier&rsquo;s experts are
           making observations and statements in front of an adversarial party. There is no
           reasonable basis to expect those statements will remain private.
         </li>
@@ -349,7 +349,7 @@ export default function Content() {
           A recording does not need to be admissible in court to be useful. A recording of an
           inspection can be used to refresh your own memory, to identify damage the adjuster
           missed, to prepare a rebuttal to the carrier&rsquo;s report, and to support a
-          supplemental claim. It can also be shared with your public adjuster or attorney to
+          supplemental claim. It can also be shared with your Public Adjuster or attorney to
           inform their strategy, even if it is never introduced as a formal exhibit.
         </p>
       </CalloutBox>
@@ -573,7 +573,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Claim support.</strong> Even if the recording is never introduced in court, it
-          helps your public adjuster or attorney understand exactly what happened during the
+          helps your Public Adjuster or attorney understand exactly what happened during the
           inspection and prepare a more effective challenge to the carrier&rsquo;s position.
         </li>
       </ul>

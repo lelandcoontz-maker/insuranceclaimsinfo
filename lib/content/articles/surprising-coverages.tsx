@@ -86,10 +86,10 @@ export default function Content() {
         most students, this is more than adequate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Loretta Worters of the Insurance Information Institute has confirmed this coverage,
-        stating: &ldquo;Most parents don&rsquo;t realize that their homeowner&rsquo;s policy
-        extends to cover their child&rsquo;s belongings while away at college, as long as the
-        student was a resident of the household before leaving for school.&rdquo; Esurance and
+        Loretta Worters, Vice President of Media Relations at the Insurance Information Institute,
+        has confirmed this coverage, noting that most parents do not realize their homeowner&rsquo;s
+        policy extends to cover their child&rsquo;s belongings while away at college, as long as
+        the student was a resident of the household before leaving for school. Esurance and
         other insurers have published similar guidance, noting that the coverage generally
         applies to full-time students under age 24 who are enrolled in school and were living
         at home prior to enrollment.
