@@ -542,6 +542,123 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Xactimate Line Items for Silica Compliance
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Most insurance estimates are written in Xactimate, the industry-standard estimating
+        software. Xactimate includes specific line items for every component of OSHA silica
+        compliance. When your insurer&apos;s estimate omits these items, it is not because they
+        do not exist in the software &mdash; it is because the adjuster chose not to include them.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Below are the Xactimate category codes, selector codes, and descriptions for the line
+        items that should appear in any estimate involving demolition of silica-containing
+        materials. If your insurer&apos;s estimate does not include these items, you now know
+        exactly what is missing.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Personal Protective Equipment
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>HMR &mdash; PPE:</strong> Personal protective equipment for hazardous cleanup
+          (per worker)
+        </li>
+        <li>
+          <strong>HMR &mdash; PPERF:</strong> Full-face multi-purpose respirator (per day, per
+          worker)
+        </li>
+        <li>
+          <strong>HMR &mdash; PPERC:</strong> HEPA respirator cartridges (per pair &mdash;
+          replaced per manufacturer schedule)
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Containment and Air Filtration
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>WTR &mdash; BARR:</strong> Containment barrier with airlock and
+          decontamination chamber (per square foot of barrier)
+        </li>
+        <li>
+          <strong>HMR &mdash; BARRZ:</strong> Peel-and-seal zippers for containment entry
+          points (per zipper)
+        </li>
+        <li>
+          <strong>HMR &mdash; NAFAN:</strong> Negative air fan / air scrubber, running 24 hours
+          per day (per 24-hour period)
+        </li>
+        <li>
+          <strong>HMR &mdash; FHEPA&gt;:</strong> HEPA filter for negative air machine or
+          vacuum &mdash; large format (per filter)
+        </li>
+        <li>
+          <strong>HMR &mdash; FHEPA&lt;&lt;:</strong> HEPA filter for upright vacuums (per
+          filter)
+        </li>
+        <li>
+          <strong>WTR &mdash; DRY:</strong> Air mover for ventilation and drying (per 24-hour
+          period)
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Cleaning and Decontamination
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>HMR &mdash; HEPAVAL:</strong> HEPA vacuuming &mdash; light pass (per square
+          foot of walls, ceilings, and floors)
+        </li>
+        <li>
+          <strong>HMR &mdash; HEPAVAS:</strong> HEPA vacuuming &mdash; detailed pass (per
+          square foot of walls, ceilings, and floors)
+        </li>
+        <li>
+          <strong>CLN &mdash; AV:</strong> Surface cleaning &mdash; standard (per square foot)
+        </li>
+        <li>
+          <strong>CLN &mdash; AV+:</strong> Surface cleaning &mdash; heavy (per square foot)
+        </li>
+        <li>
+          <strong>HMR &mdash; EQD:</strong> Equipment decontamination charge (per piece of
+          equipment)
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Supervision
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>HMR &mdash; LABHS:</strong> Hazardous waste / supervisory / administrative
+          labor (per hour) &mdash; this is the OSHA-required competent person who must be on
+          site during silica-disturbing work
+        </li>
+      </ul>
+
+      <CalloutBox variant="important" title="What These Line Items Add Up To">
+        <p>
+          On a typical scope of work affecting approximately 1,700 square feet of walls and
+          ceilings, these silica compliance line items total roughly $9,000. That is not an
+          exaggeration or a wish list &mdash; it is the actual cost of performing the work in
+          compliance with federal law. When your insurer&apos;s estimate includes drywall
+          demolition, tile removal, or stucco repair but none of these line items, they have
+          written an estimate that is $9,000 short before you even look at the rest of it.
+        </p>
+      </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        These codes are not obscure. They are standard Xactimate line items available to every
+        adjuster who uses the software. If your insurer claims they cannot find them, or that
+        they do not apply, ask them to explain &mdash; in writing &mdash; why federally mandated
+        safety costs are excluded from their estimate.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Summary: What Your Insurer Should Be Paying For
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

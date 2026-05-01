@@ -23,7 +23,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The CDI oversees all insurance companies doing business in California. It enforces the
-        Insurance Code, the Fair Claims Settlement Practices Act, and other regulations designed to
+        Insurance Code, the Fair Claims Settlement Practices Regulations, and other regulations designed to
         protect consumers. When you file a complaint, the CDI assigns an analyst to review your
         situation, contact the insurer, and determine whether any laws or regulations have been
         violated. The CDI has the authority to impose fines, require corrective action, and take

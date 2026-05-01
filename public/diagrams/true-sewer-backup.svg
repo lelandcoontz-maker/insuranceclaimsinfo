@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 940 640" xmlns="http://www.w3.org/2000/svg" style="font-family: 'Source Sans Pro', 'Segoe UI', sans-serif">
+          <defs>
+            <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#b0cce8"/>
+              <stop offset="100%" stop-color="#d6e8f5"/>
+            </linearGradient>
+            <linearGradient id="hill3" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#7a9a68"/>
+              <stop offset="100%" stop-color="#5c7a4a"/>
+            </linearGradient>
+            <linearGradient id="soil3" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#9a8b6f"/>
+              <stop offset="100%" stop-color="#7a6d55"/>
+            </linearGradient>
+            <linearGradient id="pipe3" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0%" stop-color="#4a4a4a"/>
+              <stop offset="50%" stop-color="#6e6e6e"/>
+              <stop offset="100%" stop-color="#4a4a4a"/>
+            </linearGradient>
+            <linearGradient id="rest3" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#d4a87a"/>
+              <stop offset="100%" stop-color="#c09060"/>
+            </linearGradient>
+            <linearGradient id="house3" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#ede7dc"/>
+              <stop offset="100%" stop-color="#ddd5c8"/>
+            </linearGradient>
+            <linearGradient id="roof3" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#6b4c3a"/>
+              <stop offset="100%" stop-color="#5a3d2c"/>
+            </linearGradient>
+            <marker id="aSew3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#8b6914"/>
+            </marker>
+            <marker id="aRed3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#c45028"/>
+            </marker>
+            <filter id="sh3" x="-5%" y="-5%" width="115%" height="115%">
+              <feDropShadow dx="1" dy="2" stdDeviation="2" flood-opacity="0.12"/>
+            </filter>
+          </defs>
+          <rect x="0" y="0" width="940" height="55" fill="#1a2744" rx="10"/>
+          <text x="470" y="25" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">A TRUE SEWER BACKUP — THE "ARTESIAN WELL" EFFECT</text>
+          <text x="470" y="44" text-anchor="middle" font-size="12" fill="#8aa4c8">Sewage from an uphill property reverses direction through the wye fitting into a downhill home</text>
+          <rect x="0" y="55" width="940" height="380" fill="url(#sky3)"/>
+          <path d="M 0 200 Q 80 190, 160 210 Q 240 230, 320 280 Q 400 320, 480 340 Q 560 355, 640 360 Q 720 362, 800 362 L 940 362 L 940 640 L 0 640 Z" fill="url(#hill3)" stroke="#4a6a38" stroke-width="1"/>
+          <path d="M 0 260 Q 80 250, 160 270 Q 240 290, 320 340 Q 400 380, 480 400 Q 560 415, 640 420 Q 720 422, 800 422 L 940 422 L 940 640 L 0 640 Z" fill="url(#soil3)"/>
+          <rect x="60" y="108" width="170" height="92" rx="3" fill="url(#rest3)" stroke="#a07848" stroke-width="1.5" filter="url(#sh3)"/>
+          <rect x="50" y="100" width="190" height="12" rx="3" fill="#8b6e4e" stroke="#6d5a43" stroke-width="1"/>
+          <rect x="90" y="72" width="110" height="28" rx="5" fill="#c45028" stroke="#a03820" stroke-width="1"/>
+          <text x="145" y="91" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">FISH RESTAURANT</text>
+          <rect x="80" y="128" width="32" height="32" rx="2" fill="#ffeebb" stroke="#888" stroke-width="1"/>
+          <rect x="128" y="128" width="32" height="32" rx="2" fill="#ffeebb" stroke="#888" stroke-width="1"/>
+          <rect x="176" y="128" width="32" height="32" rx="2" fill="#ffeebb" stroke="#888" stroke-width="1"/>
+          <rect x="132" y="168" width="24" height="32" rx="2" fill="#6d5a43" stroke="#5a4838" stroke-width="1"/>
+          <text x="145" y="65" text-anchor="middle" font-size="10" font-weight="700" fill="#1a2744">UP THE HILL</text>
+          <rect x="630" y="268" width="170" height="92" rx="3" fill="url(#house3)" stroke="#c8bca8" stroke-width="1.5" filter="url(#sh3)"/>
+          <polygon points="618,268 715,220 812,268" fill="url(#roof3)" stroke="#4a3528" stroke-width="1.5"/>
+          <rect x="655" y="288" width="32" height="30" rx="2" fill="#a8cce0" stroke="#888" stroke-width="1"/>
+          <line x1="671" y1="288" x2="671" y2="318" stroke="#888" stroke-width="0.7"/>
+          <line x1="655" y1="303" x2="687" y2="303" stroke="#888" stroke-width="0.7"/>
+          <rect x="735" y="288" width="32" height="30" rx="2" fill="#a8cce0" stroke="#888" stroke-width="1"/>
+          <line x1="751" y1="288" x2="751" y2="318" stroke="#888" stroke-width="0.7"/>
+          <line x1="735" y1="303" x2="767" y2="303" stroke="#888" stroke-width="0.7"/>
+          <rect x="698" y="322" width="26" height="38" rx="2" fill="#8b6e4e" stroke="#6d5a43" stroke-width="1.5"/>
+          <circle cx="718" cy="344" r="2.5" fill="#d4a847"/>
+          <text x="715" y="213" text-anchor="middle" font-size="14" font-weight="700" fill="#1a2744">HOMEOWNER&apos;S HOUSE</text>
+          <text x="715" y="258" text-anchor="middle" font-size="10" font-weight="700" fill="#1a2744">IN THE VALLEY</text>
+          <rect x="140" y="200" width="10" height="80" fill="url(#pipe3)" rx="2"/>
+          <line x1="145" y1="280" x2="510" y2="435" stroke="#4a4a4a" stroke-width="16" stroke-linecap="round"/>
+          <line x1="145" y1="280" x2="510" y2="435" stroke="#6e6e6e" stroke-width="10" stroke-linecap="round"/>
+          <g transform="translate(510, 435)">
+            <line x1="0" y1="0" x2="160" y2="22" stroke="#4a4a4a" stroke-width="16" stroke-linecap="round"/>
+            <line x1="0" y1="0" x2="160" y2="22" stroke="#6e6e6e" stroke-width="10" stroke-linecap="round"/>
+            <line x1="0" y1="0" x2="200" y2="-72" stroke="#4a4a4a" stroke-width="13" stroke-linecap="round"/>
+            <line x1="0" y1="0" x2="200" y2="-72" stroke="#6e6e6e" stroke-width="8" stroke-linecap="round"/>
+            <circle cx="0" cy="0" r="12" fill="#5a5a5a" stroke="#444" stroke-width="2"/>
+            <text x="0" y="4" text-anchor="middle" font-size="8" font-weight="700" fill="#ddd">Y</text>
+            <rect x="-65" y="16" width="130" height="24" rx="5" fill="#fff" stroke="#686868" stroke-width="1" opacity="0.95"/>
+            <text x="0" y="33" text-anchor="middle" font-size="11" font-weight="700" fill="#1a2744">WYE FITTING</text>
+          </g>
+          <line x1="710" y1="363" x2="710" y2="385" stroke="#4a4a4a" stroke-width="13" stroke-linecap="round"/>
+          <line x1="710" y1="363" x2="710" y2="385" stroke="#6e6e6e" stroke-width="8" stroke-linecap="round"/>
+          <g transform="translate(635, 452)">
+            <ellipse cx="0" cy="0" rx="24" ry="14" fill="#c45028" opacity="0.2" stroke="#c45028" stroke-width="2"/>
+            <line x1="-10" y1="-7" x2="10" y2="7" stroke="#c45028" stroke-width="4" stroke-linecap="round"/>
+            <line x1="-10" y1="7" x2="10" y2="-7" stroke="#c45028" stroke-width="4" stroke-linecap="round"/>
+            <text x="0" y="-22" text-anchor="middle" font-size="10" font-weight="700" fill="#c45028">BLOCKAGE IN</text>
+            <text x="0" y="-12" text-anchor="middle" font-size="10" font-weight="700" fill="#c45028">MAIN LINE</text>
+          </g>
+          <text x="800" y="468" font-size="10" font-weight="600" fill="#888">To Treatment</text>
+          <text x="800" y="480" font-size="10" font-weight="600" fill="#888">→ Plant</text>
+          <line x1="160" y1="290" x2="320" y2="365" stroke="#8b6914" stroke-width="2.5" marker-end="url(#aSew3)" stroke-dasharray="6,4"/>
+          <text x="210" y="318" text-anchor="middle" font-size="10" font-weight="700" fill="#8b6914" transform="rotate(24,210,318)">Sewage flows</text>
+          <text x="230" y="333" text-anchor="middle" font-size="10" font-weight="700" fill="#8b6914" transform="rotate(24,230,333)">downhill</text>
+          <path d="M 520 430 Q 570 408, 625 392 Q 670 378, 705 368" fill="none" stroke="#c45028" stroke-width="3.5" marker-end="url(#aRed3)" stroke-dasharray="6,3"/>
+          <rect x="535" y="375" width="115" height="28" rx="5" fill="#fbe9e7" stroke="#c45028" stroke-width="1.5"/>
+          <text x="593" y="394" text-anchor="middle" font-size="11" font-weight="700" fill="#c45028">REVERSED FLOW</text>
+          <g transform="translate(715, 278)">
+            <ellipse cx="0" cy="0" rx="20" ry="6" fill="#8b6914" opacity="0.35"/>
+            <text x="0" y="-12" text-anchor="middle" font-size="9" font-weight="700" fill="#c45028">Sewage overflows</text>
+            <text x="0" y="-2" text-anchor="middle" font-size="9" font-weight="700" fill="#c45028">from fixtures!</text>
+          </g>
+          <rect x="50" y="500" width="400" height="105" rx="10" fill="#fff4ec" stroke="#c45028" stroke-width="1.5"/>
+          <text x="250" y="524" text-anchor="middle" font-size="14" font-weight="700" fill="#c45028">The Adjuster's Test: "Whose Waste Is It?"</text>
+          <text x="250" y="544" text-anchor="middle" font-size="11" fill="#5a3020">If fish guts, restaurant napkins, and menu fragments</text>
+          <text x="250" y="560" text-anchor="middle" font-size="11" fill="#5a3020">are coming out of the homeowner's toilet — that is</text>
+          <text x="250" y="576" text-anchor="middle" font-size="11" fill="#5a3020">someone else&apos;s waste. That is a TRUE BACKUP.</text>
+          <text x="250" y="596" text-anchor="middle" font-size="11" font-weight="700" fill="#c45028">This IS the type of event the backup exclusion targets.</text>
+          <rect x="510" y="500" width="380" height="88" rx="10" fill="#fff" stroke="#888" stroke-width="1"/>
+          <text x="700" y="522" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2744">Under normal conditions, sewage flows downhill</text>
+          <text x="700" y="538" text-anchor="middle" font-size="11" fill="#555">from both properties through the wye to the</text>
+          <text x="700" y="554" text-anchor="middle" font-size="11" fill="#555">treatment plant. A downstream blockage causes</text>
+          <text x="700" y="570" text-anchor="middle" font-size="11" fill="#555">hydraulic pressure to force sewage backward</text>
+          <text x="700" y="586" text-anchor="middle" font-size="11" font-weight="700" fill="#c45028">up the wye and into the lower-elevation home.</text>
+          <text x="470" y="632" text-anchor="middle" font-size="9" fill="#aaa">© 2026 Leland Coontz, Licensed Public Adjuster • All rights reserved</text>
+        </svg>
