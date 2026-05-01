@@ -118,6 +118,13 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'condo-hoa-claims': { title: 'Condo and HOA Insurance Claims: Master Policy, HO-6, and the Coverage Gap Nobody Explains', description: 'Two policies cover your condo — the HOA master policy and your HO-6. Learn how CC&Rs determine who pays for what, the tenant improvement trap, and what to do when the HOA refuses to act.' },
   'subrogation': { title: 'Subrogation in Property Insurance: Your Right to Recover What the Insurer Won\'t', description: 'How subrogation works in California property insurance claims, your insurer\'s duty to notify you, deductible recovery, the made-whole doctrine, and what happens when the insurance company sits on its hands.' },
   'anti-concurrent-causation': { title: 'Anti-Concurrent Causation Clauses: What They Are, Why They Matter, and Why California Ignores Them', description: 'Anti-concurrent causation clauses let insurers deny claims when any excluded peril contributes. In California, these clauses are unenforceable under the efficient proximate cause doctrine.' },
+  'ensuing-loss': { title: 'Ensuing Loss: The Clause Your Insurer Hopes You Never Read', description: 'The ensuing loss savings clause can restore coverage for damage caused by an excluded peril. Carriers routinely leave it out of denial letters. Learn what ensuing loss means, how it works in California alongside the efficient proximate cause doctrine, and how it differs from concurrent causation.' },
+  'assignment-of-benefits': { title: 'Assignment of Benefits, Work Authorizations, and Claims After Selling Your Home', description: 'How insurance claim assignments work — work authorizations, direction of payment, preferred vendors, selling a damaged home, and protecting your rights when someone else has a stake in your claim.' },
+  'building-permits-claims': { title: 'Building Permits and Insurance Claims: What Your Insurer Owes and When', description: 'The insurance company owes for building permits even if they haven\'t been pulled. How to calculate permit fees, the insurer\'s good-faith obligation, and items that actually must be incurred.' },
+  'earthquake-insurance': { title: 'Earthquake Insurance in California: CEA, Private Carriers, and What You Need to Know', description: 'You can buy earthquake insurance from private carriers, not just the CEA. How claims are handled, deductible structures, and why your choice of carrier matters.' },
+  'flood-insurance-nfip-vs-private': { title: 'Flood Insurance: NFIP vs. Private Flood — The Legal Difference That Changes Everything', description: 'Private flood carriers often use the NFIP form but adjust claims under state law, not federal. More consumer protections, bad faith remedies, and flexible proof of loss rules.' },
+  'lightning-damage': { title: 'Lightning Damage Insurance Claims: Hidden Wiring Damage, Breakers, and the Power Surge Trap', description: 'Lightning damage goes far beyond what you can see. Hidden wiring damage, failed breakers, destroyed low-voltage systems, and why insurers try to reclassify lightning as a power surge.' },
+  'foundation-damage': { title: 'Foundation Damage Insurance Claims: Earth Movement, Efficient Proximate Cause, and Repair Methods', description: 'When a water leak causes foundation settlement, the earth movement exclusion may not apply. Heaving vs. settlement, repair methods, and key California case law.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -236,6 +243,13 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'condo-hoa-claims': () => import('@/lib/content/articles/condo-hoa-claims'),
   'subrogation': () => import('@/lib/content/articles/subrogation'),
   'anti-concurrent-causation': () => import('@/lib/content/articles/anti-concurrent-causation'),
+  'ensuing-loss': () => import('@/lib/content/articles/ensuing-loss'),
+  'assignment-of-benefits': () => import('@/lib/content/articles/assignment-of-benefits'),
+  'building-permits-claims': () => import('@/lib/content/articles/building-permits-claims'),
+  'earthquake-insurance': () => import('@/lib/content/articles/earthquake-insurance'),
+  'flood-insurance-nfip-vs-private': () => import('@/lib/content/articles/flood-insurance-nfip-vs-private'),
+  'lightning-damage': () => import('@/lib/content/articles/lightning-damage'),
+  'foundation-damage': () => import('@/lib/content/articles/foundation-damage'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
