@@ -125,6 +125,12 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'flood-insurance-nfip-vs-private': { title: 'Flood Insurance: NFIP vs. Private Flood — The Legal Difference That Changes Everything', description: 'Private flood carriers often use the NFIP form but adjust claims under state law, not federal. More consumer protections, bad faith remedies, and flexible proof of loss rules.' },
   'lightning-damage': { title: 'Lightning Damage Insurance Claims: Hidden Wiring Damage, Breakers, and the Power Surge Trap', description: 'Lightning damage goes far beyond what you can see. Hidden wiring damage, failed breakers, destroyed low-voltage systems, and why insurers try to reclassify lightning as a power surge.' },
   'foundation-damage': { title: 'Foundation Damage Insurance Claims: Earth Movement, Efficient Proximate Cause, and Repair Methods', description: 'When a water leak causes foundation settlement, the earth movement exclusion may not apply. Heaving vs. settlement, repair methods, and key California case law.' },
+  'landlord-vs-tenant-claims': { title: 'Landlord vs. Tenant Insurance Claims: Who Files What, Coverage Gaps, and How to Avoid Getting Caught in the Middle', description: 'Understanding landlord DP-3 and tenant HO-4 policies, who files which claim, how coverage gaps leave damage unpaid, subrogation risks, and practical steps for coordinating two separate insurance claims on the same property.' },
+  'reserves-and-authority': { title: 'Insurance Reserves and Adjuster Authority Levels: What Policyholders Should Know', description: 'How insurance company reserves work, what adjuster authority levels mean for your claim, and why your claim may be reassigned to a different adjuster as damages increase.' },
+  'social-media-claims': { title: 'Social Media and Insurance Claims: What Policyholders Need to Know', description: 'How insurance companies use social media, satellite imagery, and digital evidence to investigate property claims — and what policyholders should know to protect themselves.' },
+  'swimming-pool-damage': { title: 'Swimming Pool Damage Insurance Claims: Coverage, Exclusions, and How to Maximize Your Recovery', description: 'How swimming pool damage is covered under homeowners insurance — Coverage B limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.' },
+  'roofing-systems-claims': { title: 'Roofing Systems and Materials: A Deep Dive for Insurance Claims', description: 'Technical guide to roofing types — TPO, EPDM, metal, asphalt shingles, and wood shake — and the claim issues each creates. California Title 24 cool roof requirements, multiple layers, space decking conversions, and solar panel complications.' },
+  'equitable-tolling-nuances': { title: 'Equitable Tolling Edge Cases: When the Statute of Limitations Gets Complicated', description: 'A deep dive into the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -250,6 +256,12 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'flood-insurance-nfip-vs-private': () => import('@/lib/content/articles/flood-insurance-nfip-vs-private'),
   'lightning-damage': () => import('@/lib/content/articles/lightning-damage'),
   'foundation-damage': () => import('@/lib/content/articles/foundation-damage'),
+  'landlord-vs-tenant-claims': () => import('@/lib/content/articles/landlord-vs-tenant-claims'),
+  'reserves-and-authority': () => import('@/lib/content/articles/reserves-and-authority'),
+  'social-media-claims': () => import('@/lib/content/articles/social-media-claims'),
+  'swimming-pool-damage': () => import('@/lib/content/articles/swimming-pool-damage'),
+  'roofing-systems-claims': () => import('@/lib/content/articles/roofing-systems-claims'),
+  'equitable-tolling-nuances': () => import('@/lib/content/articles/equitable-tolling-nuances'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
