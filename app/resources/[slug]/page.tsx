@@ -113,6 +113,11 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'white-waiver': { title: 'The White Waiver: California\'s Settlement-Privilege Waiver Explained', description: 'What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.' },
   'silica-contamination': { title: 'Silica Contamination in Property Insurance Claims: What You Need to Know', description: 'Crystalline silica exposure during property damage repairs is a serious OSHA-regulated hazard. Learn what silica is, why it matters for your insurance claim, and what remediation your insurer should be paying for.' },
   'replacement-cost-vs-guaranteed': { title: 'Replacement Cost vs. 100% Replacement Cost (Guaranteed, Extended, or Unlimited): The Difference That Could Cost You Hundreds of Thousands', description: 'Standard replacement cost, extended replacement cost, and guaranteed (100% or unlimited) replacement cost are not the same thing. Learn how each one works, what California law requires, and why the distinction matters most after a disaster.' },
+  'vacancy-unoccupancy': { title: 'Vacancy and Unoccupancy Clauses: How an Empty Home Can Cost You Your Coverage', description: 'Vacancy and unoccupancy clauses can eliminate coverage for vandalism, fire, and other perils if your home is empty too long. Learn the critical difference between vacant and unoccupied.' },
+  'pair-and-set': { title: 'Pair and Set Clauses in Property Insurance: What Happens When Only Part of a Match Is Destroyed', description: 'Understand the pair and set clause in your homeowner policy, how it applies to jewelry, furniture, cabinets, and building components, and how California matching regulations protect policyholders.' },
+  'condo-hoa-claims': { title: 'Condo and HOA Insurance Claims: Master Policy, HO-6, and the Coverage Gap Nobody Explains', description: 'Two policies cover your condo — the HOA master policy and your HO-6. Learn how CC&Rs determine who pays for what, the tenant improvement trap, and what to do when the HOA refuses to act.' },
+  'subrogation': { title: 'Subrogation in Property Insurance: Your Right to Recover What the Insurer Won\'t', description: 'How subrogation works in California property insurance claims, your insurer\'s duty to notify you, deductible recovery, the made-whole doctrine, and what happens when the insurance company sits on its hands.' },
+  'anti-concurrent-causation': { title: 'Anti-Concurrent Causation Clauses: What They Are, Why They Matter, and Why California Ignores Them', description: 'Anti-concurrent causation clauses let insurers deny claims when any excluded peril contributes. In California, these clauses are unenforceable under the efficient proximate cause doctrine.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -226,6 +231,11 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'white-waiver': () => import('@/lib/content/articles/white-waiver'),
   'silica-contamination': () => import('@/lib/content/articles/silica-contamination'),
   'replacement-cost-vs-guaranteed': () => import('@/lib/content/articles/replacement-cost-vs-guaranteed'),
+  'vacancy-unoccupancy': () => import('@/lib/content/articles/vacancy-unoccupancy'),
+  'pair-and-set': () => import('@/lib/content/articles/pair-and-set'),
+  'condo-hoa-claims': () => import('@/lib/content/articles/condo-hoa-claims'),
+  'subrogation': () => import('@/lib/content/articles/subrogation'),
+  'anti-concurrent-causation': () => import('@/lib/content/articles/anti-concurrent-causation'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
