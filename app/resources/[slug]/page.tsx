@@ -132,6 +132,16 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'roofing-systems-claims': { title: 'Roofing Systems and Materials: A Deep Dive for Insurance Claims', description: 'Technical guide to roofing types — TPO, EPDM, metal, asphalt shingles, and wood shake — and the claim issues each creates. California Title 24 cool roof requirements, multiple layers, space decking conversions, and solar panel complications.' },
   'equitable-tolling-nuances': { title: 'Equitable Tolling Edge Cases: When the Statute of Limitations Gets Complicated', description: 'A deep dive into the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue.' },
   'hailstone-damage-research': { title: 'What Hailstone Research Tells Us About Insurance Claims', description: 'IBHS research on 2,500+ hailstones proves hail damage is far more complex than insurers claim. Real hailstones are not perfect spheres, maximum sizes far exceed the average, and lab tests overstate impact force.' },
+  'sub-severe-hail-cumulative-damage': { title: 'Sub-Severe Hail: Why Small Hailstones Cause Big Problems', description: 'IBHS research proves shingles hit by small hail become ten times more vulnerable to future storms. Your insurer cannot dismiss too-small hail.' },
+  'hail-damage-threshold-sizes': { title: 'Hail Damage Thresholds: What Size Hail Actually Damages Your Roof', description: 'Haag Engineering research establishes the minimum hail sizes needed to damage common roofing materials - the same thresholds insurers use internally.' },
+  'ricowi-hail-field-investigations': { title: 'RICOWI Field Investigations: What Hail Actually Does to Roofs', description: 'The Roofing Industry Committee on Weather Issues sends expert teams to document real hail damage after major storms. Their findings often contradict carrier assessments.' },
+  'nist-camp-fire-investigation': { title: 'NIST Camp Fire Investigation: What Government Scientists Found', description: 'NIST investigation of the 2018 Camp Fire - which destroyed over 19,000 structures - reveals how wildfire damages buildings and why insurers underestimate repair costs.' },
+  'nist-witch-fire-case-study': { title: 'NIST Witch Fire Study: House-by-House Wildfire Damage Analysis', description: 'NIST documented 274 homes after the 2007 Witch Fire, proving that wildfire damage depends on exposure conditions - not just whether flames reached the structure.' },
+  'nist-wui-hazard-methodology': { title: 'The WUI Hazard Scale: How Scientists Measure Wildfire Risk to Buildings', description: 'NIST, CAL FIRE, and IBHS developed a science-based framework for measuring wildfire exposure. It proves damage depends on measurable conditions, not guesswork.' },
+  'epa-mold-remediation-guide': { title: 'EPA Mold Remediation Guide: The Standard Your Insurer Should Follow', description: 'The EPA official mold remediation guide establishes the 24-48 hour mold growth timeline and remediation protocols that insurers are required to follow.' },
+  'mold-growth-prediction-research': { title: 'Mold Growth Science: How Fast Does Mold Really Develop?', description: 'Research from VTT and Oak Ridge National Laboratory establishes mathematical models for mold growth rates - the science insurers hope you never see.' },
+  'nfip-sandy-claims-underpayment': { title: 'Government Report: 80% of Sandy Flood Appeals Got More Money', description: 'The Department of Homeland Security found that nearly 80% of NFIP Sandy claims appeals resulted in additional payments - proving systematic initial underpayment.' },
+  'fema-nfip-oversight-failures': { title: 'Government Report: FEMA Fails to Oversee Flood Insurance Companies', description: 'The DHS Inspector General found FEMA does not adequately oversee the companies handling flood insurance claims - leaving policyholders without protection.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -264,6 +274,16 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'roofing-systems-claims': () => import('@/lib/content/articles/roofing-systems-claims'),
   'equitable-tolling-nuances': () => import('@/lib/content/articles/equitable-tolling-nuances'),
   'hailstone-damage-research': () => import('@/lib/content/articles/hailstone-damage-research'),
+  'sub-severe-hail-cumulative-damage': () => import('@/lib/content/articles/sub-severe-hail-cumulative-damage'),
+  'hail-damage-threshold-sizes': () => import('@/lib/content/articles/hail-damage-threshold-sizes'),
+  'ricowi-hail-field-investigations': () => import('@/lib/content/articles/ricowi-hail-field-investigations'),
+  'nist-camp-fire-investigation': () => import('@/lib/content/articles/nist-camp-fire-investigation'),
+  'nist-witch-fire-case-study': () => import('@/lib/content/articles/nist-witch-fire-case-study'),
+  'nist-wui-hazard-methodology': () => import('@/lib/content/articles/nist-wui-hazard-methodology'),
+  'epa-mold-remediation-guide': () => import('@/lib/content/articles/epa-mold-remediation-guide'),
+  'mold-growth-prediction-research': () => import('@/lib/content/articles/mold-growth-prediction-research'),
+  'nfip-sandy-claims-underpayment': () => import('@/lib/content/articles/nfip-sandy-claims-underpayment'),
+  'fema-nfip-oversight-failures': () => import('@/lib/content/articles/fema-nfip-oversight-failures'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
