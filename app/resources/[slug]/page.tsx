@@ -131,6 +131,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'swimming-pool-damage': { title: 'Swimming Pool Damage Insurance Claims: Coverage, Exclusions, and How to Maximize Your Recovery', description: 'How swimming pool damage is covered under homeowners insurance — Coverage B limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.' },
   'roofing-systems-claims': { title: 'Roofing Systems and Materials: A Deep Dive for Insurance Claims', description: 'Technical guide to roofing types — TPO, EPDM, metal, asphalt shingles, and wood shake — and the claim issues each creates. California Title 24 cool roof requirements, multiple layers, space decking conversions, and solar panel complications.' },
   'equitable-tolling-nuances': { title: 'Equitable Tolling Edge Cases: When the Statute of Limitations Gets Complicated', description: 'A deep dive into the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue.' },
+  'hailstone-damage-research': { title: 'What Hailstone Research Tells Us About Insurance Claims', description: 'IBHS research on 2,500+ hailstones proves hail damage is far more complex than insurers claim. Real hailstones are not perfect spheres, maximum sizes far exceed the average, and lab tests overstate impact force.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -262,6 +263,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'swimming-pool-damage': () => import('@/lib/content/articles/swimming-pool-damage'),
   'roofing-systems-claims': () => import('@/lib/content/articles/roofing-systems-claims'),
   'equitable-tolling-nuances': () => import('@/lib/content/articles/equitable-tolling-nuances'),
+  'hailstone-damage-research': () => import('@/lib/content/articles/hailstone-damage-research'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

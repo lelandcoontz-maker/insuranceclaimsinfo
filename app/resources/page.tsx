@@ -913,6 +913,21 @@ const CATEGORIES = [
       },
     ],
   },
+  {
+    label: 'Research & Academic Studies',
+    color: 'bg-indigo-50 border-indigo-200',
+    headingColor: 'text-indigo-900',
+    articles: [
+      {
+        icon: '🧊',
+        title: 'What Hailstone Research Tells Us About Insurance Claims',
+        desc: 'IBHS measured 2,500+ hailstones and found they are not perfect spheres, maximum sizes are twice the average, and lab tests overstate impact force. What this means for your claim.',
+        href: '/resources/hailstone-damage-research',
+        tag: 'Hail Science',
+        tagColor: 'bg-indigo-100 text-indigo-700',
+      },
+    ],
+  },
 ]
 
 export default function ResourcesPage() {
