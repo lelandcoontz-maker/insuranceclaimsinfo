@@ -25,9 +25,9 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'matching':               { title: 'Matching: Achieving Reasonable Uniform Appearance', description: 'When partial repairs don\'t match — your right to a uniform appearance under the Model Fair Claims Act.' },
   'coverage-disputes':      { title: 'Coverage Disputes: Is Your Loss Covered at All?', description: 'The most fundamental dispute — establishing that your loss is covered before arguing about the amount.' },
   'declarations-page':      { title: 'How to Read Your Insurance Declarations Page', description: 'A walkthrough of your dec page: coverages, limits, deductibles, and hidden coverages you may not know about.' },
-  'vandalism-claims':       { title: 'Vandalism Claims: When Insurers Call It Wear and Tear', description: 'How to prove vandalism and fight back when insurers relabel your claim.' },
+  'vandalism-claims':       { title: 'Vandalism Claims: When Insurers Call It Wear and Tear', description: 'How to prove vandalism and push back when insurers relabel your claim as wear and tear.' },
   'wildfire-guide':         { title: 'California Wildfire Claims: A Complete Guide', description: 'Forest fire vs urban wildfire smoke, contamination testing, coverage, and step-by-step wildfire claims guidance.' },
-  'scope-of-loss':          { title: 'Scope of Loss Disputes: Fighting for Full Repairs', description: 'When the insurer\'s scope misses damage — how to document and dispute.' },
+  'scope-of-loss':          { title: 'Scope of Loss Disputes: When the Adjuster Misses Damage', description: 'When the insurer\'s scope misses damage — how to document and dispute.' },
   'equitable-tolling':      { title: 'Equitable Tolling of the Statute of Limitations', description: 'The one-year suit limitation is not as simple as it appears. Learn how equitable tolling pauses the clock while your insurer investigates.' },
   'debris-removal':         { title: 'Debris Removal Coverage — More Than Just the Dwelling', description: 'Debris removal coverage applies to more than the dwelling. Learn how it works for other structures, trees, and personal property — and how to maximize your recovery.' },
   'dealing-with-adjuster':  { title: 'How to Deal with the Insurance Company\'s Adjuster', description: 'What to expect when the insurer sends their adjuster, your rights during the inspection, common tactics to watch for, and when to get professional help.' },
@@ -91,7 +91,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'xactimate-training-guide': { title: 'Xactimate Training and Certification: What You Need to Know', description: 'A guide to Xactimate training and certification — what the certification levels mean, what quality training looks like, and why understanding the \'why\' behind the software matters more than passing a test.' },
   'where-you-reside-exclusion': { title: 'Where You Reside: The Hidden Killer Exclusion in Your Homeowner Policy', description: 'The three words \'where you reside\' in your homeowner policy definition can eliminate your coverage entirely — especially if you move to a nursing home. Learn how this hidden exclusion works and how to protect yourself.' },
   'surprising-coverages': { title: 'Surprising Coverages Most Policyholders Don\'t Know They Have', description: 'Your homeowner policy covers more than you think — gravestones, college dorm belongings, unlicensed farm vehicles, worker injuries, and more. Learn about the hidden coverages in your HO-3 policy.' },
-  'vandalism-vs-wear-and-tear': { title: 'Vandalism Claims: Drawing the Line Between Intentional Damage and Wear and Tear', description: 'Vandalism is covered — wear and tear is not. Learn how courts define vandalism, the intent requirement, the marijuana grow operation cases, and how to fight \'wear and tear\' denials.' },
+  'vandalism-vs-wear-and-tear': { title: 'Vandalism Claims: When Insurers Call It Wear and Tear', description: 'How to handle vandalism insurance claims, push back when insurers mischaracterize vandalism as wear and tear, and document damage from break-ins, marijuana grows, and tenant destruction.' },
   'scoping-the-loss': { title: 'Scoping the Loss: A Field Manual for Property Claims Inspection', description: 'A comprehensive field manual for property claims inspection — tools, methodology, measuring equipment, thermal imaging, moisture meters, material identification, and systematic inspection protocol.' },
   'recording-insurance-inspections': { title: 'Can You Record Insurance Company Inspectors? A California Guide', description: 'California is a two-party consent state — but that doesn\'t mean you can\'t record the insurer\'s adjusters, engineers, and hygienists during a property inspection. Learn the law, the case law, and how to do it right.' },
   'policyholder-death-coverage': { title: 'What Happens to Your Insurance If the Policyholder Dies?', description: 'When the named insured dies before or during a claim, insurers sometimes deny coverage to surviving family members. Learn how the Death clause, insurable interest, and trust ownership affect your rights.' },
@@ -112,6 +112,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'efficient-proximate-cause': { title: 'The Efficient Proximate Cause Doctrine: When Your Insurer Blames an Excluded Cause for a Covered Loss', description: 'California\'s efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study.' },
   'white-waiver': { title: 'The White Waiver: California\'s Settlement-Privilege Waiver Explained', description: 'What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.' },
   'silica-contamination': { title: 'Silica Contamination in Property Insurance Claims: What You Need to Know', description: 'Crystalline silica exposure during property damage repairs is a serious OSHA-regulated hazard. Learn what silica is, why it matters for your insurance claim, and what remediation your insurer should be paying for.' },
+  'replacement-cost-vs-guaranteed': { title: 'Replacement Cost vs. 100% Replacement Cost (Guaranteed, Extended, or Unlimited): The Difference That Could Cost You Hundreds of Thousands', description: 'Standard replacement cost, extended replacement cost, and guaranteed (100% or unlimited) replacement cost are not the same thing. Learn how each one works, what California law requires, and why the distinction matters most after a disaster.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -203,7 +204,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'xactimate-training-guide': () => import('@/lib/content/articles/xactimate-training-guide'),
   'where-you-reside-exclusion': () => import('@/lib/content/articles/where-you-reside-exclusion'),
   'surprising-coverages': () => import('@/lib/content/articles/surprising-coverages'),
-  'vandalism-vs-wear-and-tear': () => import('@/lib/content/articles/vandalism-vs-wear-and-tear'),
+  'vandalism-vs-wear-and-tear': () => import('@/lib/content/articles/vandalism-claims'),
   'scoping-the-loss': () => import('@/lib/content/articles/scoping-the-loss'),
   'recording-insurance-inspections': () => import('@/lib/content/articles/recording-insurance-inspections'),
   'policyholder-death-coverage': () => import('@/lib/content/articles/policyholder-death-coverage'),
@@ -224,6 +225,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'efficient-proximate-cause': () => import('@/lib/content/articles/efficient-proximate-cause'),
   'white-waiver': () => import('@/lib/content/articles/white-waiver'),
   'silica-contamination': () => import('@/lib/content/articles/silica-contamination'),
+  'replacement-cost-vs-guaranteed': () => import('@/lib/content/articles/replacement-cost-vs-guaranteed'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

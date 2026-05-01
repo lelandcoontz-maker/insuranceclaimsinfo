@@ -69,12 +69,15 @@ export default function Content() {
         A Public Adjuster is recommended for large, complex, or disputed claims. This includes
         significant fire, water, or storm damage; claims where the insurance company&apos;s initial
         estimate seems far too low; claims involving multiple types of damage (structure, contents,
-        loss of use); and any situation where you feel overwhelmed by the process. The need is
-        widespread: the American Policyholder Association found that approximately 40% of claims
-        were underpaid between 2018 and 2020, with households receiving $200,000–$300,000 less than
-        entitled. After the 2025 Los Angeles wildfires, nearly 80% of victims reported serious claim
-        issues. Public Adjusters are especially valuable when you need someone to take over the
-        day-to-day management of the claim so you can focus on your family and recovery.
+        loss of use); and any situation where you feel overwhelmed by the process. Insurance claim
+        underpayment is a well-documented problem — congressional testimony, regulatory
+        investigations, and policyholder advocacy groups have consistently shown that insurers
+        routinely reduce field adjusters&apos; damage estimates through desk reviews, sometimes
+        cutting payments dramatically. After the 2025 Los Angeles wildfires, according to a January
+        2026 survey of 2,443 adults in fire-impacted Los Angeles communities, commissioned by the
+        Department of Angels, nearly 80% of victims reported serious insurance claim issues. Public
+        Adjusters are especially valuable when you need someone to take over the day-to-day
+        management of the claim so you can focus on your family and recovery.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
@@ -83,7 +86,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         An attorney is the right choice when the insurance company has denied your claim outright,
         when you suspect{' '}
-        <Link href="/bad-faith" className="text-blue-700 underline hover:text-blue-900">bad faith</Link>,
+        <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">bad faith</Link>,
         or when litigation is necessary. Attorneys can pursue legal remedies that Public Adjusters
         cannot — including filing lawsuits and seeking damages beyond the policy benefits.
       </p>
@@ -177,11 +180,14 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="A Good Public Adjuster Pays for Themselves">
         <p>
-          Studies and industry data consistently show that claims handled by Public Adjusters result
-          in significantly higher settlements than claims handled by policyholders alone. While you
-          pay a percentage of the recovery, the increased settlement amount typically far exceeds the
-          fee. In other words, you often end up with more money in your pocket even after paying the
-          Public Adjuster than you would have received on your own.
+          Independent data supports the value of public adjuster representation. A 2010 study by
+          OPPAGA, the research arm of the Florida Legislature, found that policyholders who used
+          public adjusters for hurricane claims received settlements averaging 747% higher — before
+          PA fees — than those who handled claims on their own. While results vary by claim size
+          and complexity, public adjusters bring expertise in policy language, damage documentation,
+          and negotiation that most policyholders lack. The increased settlement amount typically
+          far exceeds the fee — in other words, you often end up with more money in your pocket
+          even after paying the Public Adjuster than you would have received on your own.
         </p>
       </CalloutBox>
 
@@ -245,7 +251,7 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Bottom Line
+        Key Takeaway
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A Public Adjuster is your advocate in the insurance claims process. They bring expertise in

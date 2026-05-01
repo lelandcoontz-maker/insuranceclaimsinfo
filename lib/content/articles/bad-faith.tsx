@@ -27,11 +27,11 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Bad faith occurs when the insurance company unreasonably denies, delays, or underpays a
-        claim without a proper basis. This is not rare — the American Policyholder Association has
-        documented that approximately 40% of claims in a recent study period were underpaid, and
-        their investigations have uncovered evidence of insurers instructing adjusters to minimize
-        losses and alter estimates. California courts have recognized numerous forms of bad faith
-        conduct:
+        claim without a proper basis. Insurance claim underpayment is a well-documented problem.
+        Congressional testimony, regulatory investigations, and policyholder advocacy groups have
+        consistently shown that insurers routinely reduce field adjusters&apos; damage estimates
+        through desk reviews, sometimes cutting payments dramatically. California courts have
+        recognized numerous forms of bad faith conduct:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Unreasonably denying a claim that is clearly covered</li>
@@ -216,7 +216,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Violations Don&apos;t Automatically Mean Recoverable Damages
+        Violations Do not Automatically Mean Recoverable Damages
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Even when violations exist, they do not automatically translate into damages a
@@ -267,7 +267,7 @@ export default function Content() {
           </li>
           <li>
             <strong>Regulatory violation supporting bad faith:</strong> The insurer violates
-            10 CCR § 2695.7(d) by failing to disclose all benefits and coverages available under
+            10 CCR § 2695.4(a) by failing to disclose all benefits and coverages available under
             the policy, causing the homeowner to miss a claim for{' '}
             <Link href="/resources/ale-frv" className="text-[#2E74B5] underline">
               Additional Living Expenses
@@ -296,21 +296,21 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Recent Case Example: <em>Alif v. California FAIR Plan</em> (2025)
+        Recent Case Example: <em>Aliff v. California FAIR Plan</em> (2025)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A recent illustration of how coverage disputes and bad faith can intersect is{' '}
-        <em>Alif v. California FAIR Plan Association</em> (2025). For years the FAIR Plan had
+        <em>Aliff v. California FAIR Plan Association</em> (2025). For years the FAIR Plan had
         limited smoke-damage coverage to damage involving a &ldquo;permanent physical change&rdquo;
         visible to the unaided eye, and used that language to deny or minimize smoke claims. The
         court held the restrictive language was narrower than the coverage required by California
-        Insurance Code &sect; 2070 (the Standard Fire Policy). Following <em>Alif</em>, the FAIR
+        Insurance Code &sect; 2070 (the Standard Fire Policy). Following <em>Aliff</em>, the FAIR
         Plan agreed to strike much of the offending language. The decision is significant because
         it illustrates that coverage interpretations insurers treat as &ldquo;reasonable&rdquo; are
         not immune from later judicial rejection — and that continuing to apply a coverage theory
         a court has already rejected may be difficult to defend as reasonable going forward. This
         is a general illustration, not legal advice; only a licensed California attorney can
-        advise you on how <em>Alif</em> applies to your specific claim.
+        advise you on how <em>Aliff</em> applies to your specific claim.
       </p>
 
       <CalloutBox variant="legal" title="Consult an Attorney">
@@ -453,7 +453,7 @@ export default function Content() {
         <li>
           <strong>Get independent estimates.</strong> Compare the insurer&apos;s estimate to
           independent estimates from qualified contractors or a{' '}
-          <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link>.
+          <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link>.
           A significant gap between the insurer&apos;s number and independent assessments can be
           evidence of lowballing.
         </li>
@@ -466,7 +466,7 @@ export default function Content() {
           save every piece of correspondence. If your claim ultimately leads to a bad faith dispute,
           this documentation will be the foundation of your case. Even if it does not, good records
           will help you and your{' '}
-          <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
+          <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
           attorney negotiate more effectively throughout the claims process.
         </p>
       </CalloutBox>

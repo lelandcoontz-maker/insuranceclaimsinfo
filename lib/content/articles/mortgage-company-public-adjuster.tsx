@@ -13,7 +13,7 @@ export default function Content() {
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
         After a major wildfire destroyed or damaged thousands of homes in California, the insurance
-        claims process became a battleground &mdash; not just between homeowners and their insurance
+        claims process became contentious &mdash; not just between homeowners and their insurance
         companies, but between the homeowners&apos; representatives and uninvited third parties
         trying to muscle their way into the claim.
       </p>
@@ -457,7 +457,7 @@ export default function Content() {
         federal and state privacy laws.
       </p>
 
-      <CalloutBox variant="important" title="The Privacy Bottom Line">
+      <CalloutBox variant="important" title="The Privacy Key Takeaway">
         <p>
           The mortgage company is entitled to information related to its interest (dwelling repair
           documentation). It is <strong>not</strong> entitled to private information unrelated to the

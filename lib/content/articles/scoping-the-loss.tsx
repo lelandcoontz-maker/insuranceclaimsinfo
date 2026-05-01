@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Scoping the Loss: A Field Manual for Property Claims Inspection',
   description:
-    'A comprehensive field manual for property claims inspection \u2014 tools, methodology, measuring equipment, thermal imaging, moisture meters, material identification, and systematic inspection protocol. By Leland Coontz III, Licensed Public Adjuster.',
+    'A hands-on field manual for conducting property inspections on insurance claims \u2014 required tools, measuring techniques, thermal imaging, moisture meters, material identification, and a step-by-step inspection protocol. By Leland Coontz III, Licensed Public Adjuster.',
 }
 
 export default function Content() {
@@ -420,7 +420,8 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Consumer grade:</strong> FLIR ONE, Seek Thermal, and similar smartphone-attached
-          units. These have limited detector resolution (typically 80&times;60 pixels or less),
+          units. These have limited detector resolution (consumer-grade models like the FLIR ONE
+          typically offer resolutions of 80&times;60 to 160&times;120 pixels),
           narrow temperature ranges, and limited sensitivity. They are suitable only for gross
           detection &mdash; finding large, obvious temperature anomalies. They are not adequate for
           professional claims documentation.
@@ -618,7 +619,7 @@ export default function Content() {
         temperature increases. A concrete column or foundation wall may look superficially intact
         after a fire &mdash; no visible cracks, no spalling, no obvious displacement &mdash; but
         may have lost a significant percentage of its original compressive strength due to thermal
-        degradation of the cite matrix.
+        degradation of the cement matrix.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

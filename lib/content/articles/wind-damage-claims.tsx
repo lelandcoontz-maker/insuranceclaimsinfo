@@ -12,7 +12,7 @@ export default function Content() {
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
         Wind damage claims present unique challenges because wind damage can be difficult to
-        distinguish from wear and tear, and insurance companies exploit that ambiguity. A roof
+        distinguish from wear and tear, and insurance companies take advantage of that ambiguity. A roof
         that loses shingles in a storm may have been perfectly functional before the event, but
         the carrier may argue the shingles were old, worn, and &quot;ready to go.&quot;
       </p>

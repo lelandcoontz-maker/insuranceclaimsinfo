@@ -334,7 +334,7 @@ export default function Content() {
       </div>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Bottom Line
+        Key Takeaway
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         When your insurer denies a claim by pointing to an exclusion, that is not necessarily the end of the analysis. If a covered peril set the entire chain of events in motion, California law may require the insurer to cover the full loss &mdash; regardless of the exclusion. The efficient proximate cause doctrine has been the law in California for over sixty years, it is grounded in statute, and the California Supreme Court has repeatedly enforced it against insurers who try to use exclusions to avoid paying legitimate claims.

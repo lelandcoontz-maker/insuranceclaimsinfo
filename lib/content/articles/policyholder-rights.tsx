@@ -39,7 +39,7 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Your Right to a Written Explanation</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the insurance company denies any part of your claim, they must provide a written
-        explanation. This isn&apos;t optional &mdash; it&apos;s required by regulation. The denial
+        explanation. This is not optional &mdash; it is required by regulation. The denial
         must cite the specific policy provision, statute, or other basis for the denial.
       </p>
 
@@ -47,7 +47,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurance company&apos;s estimate is not the final word. You have the right to submit
         your own estimate, contractor bids, or other documentation to support a higher amount.
-        If you can&apos;t agree on the amount, most policies include an{' '}
+        If you cannot agree on the amount, most policies include an{' '}
         <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
           appraisal clause
         </Link>{' '}
@@ -62,7 +62,7 @@ export default function Content() {
         </Link>{' '}
         or attorney to represent you in your claim. The insurance company cannot retaliate
         against you for hiring a representative, and they must communicate with your
-        representative once you&apos;ve authorized them.
+        representative once you have authorized them.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Your Right to Sue for Bad Faith</h2>
@@ -78,10 +78,10 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Knowledge Is Power">
         <p>
-          Insurance companies count on the fact that most policyholders don&apos;t know their
+          Insurance companies count on the fact that most policyholders do not know their
           rights. When you demonstrate knowledge of your rights &mdash; by citing regulations,
           requesting written denials, and holding the carrier to deadlines &mdash; the dynamic
-          changes. Claims move faster and settlements increase when the carrier knows they&apos;re
+          changes. Claims move faster and settlements increase when the carrier knows they are
           dealing with an informed policyholder.
         </p>
       </CalloutBox>

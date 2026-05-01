@@ -179,16 +179,26 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Bottom Line
+        Key Takeaway
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Your insurance policy is only useful if you understand what it says. Request the full policy,
         read every endorsement, and know whether you have an all-risk or named peril form. If you
         are dealing with a claim and the policy language is confusing, consider consulting with
-        a <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
+        a <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
         an attorney who specializes in insurance claims. The more you understand your policy, the
         better positioned you will be to hold your insurance company to its promises.
       </p>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

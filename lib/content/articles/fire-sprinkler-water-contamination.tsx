@@ -255,15 +255,15 @@ export default function Content() {
         How Insurance Companies Get This Wrong
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In my experience as a California Licensed Public Adjuster, I have seen insurance adjusters
+        In practice, Public Adjusters regularly encounter insurance adjusters who
         handle fire sprinkler losses in ways that put the insured&apos;s health at risk and
         violate industry standards:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Insisting the water is &quot;clean&quot; without testing:</strong> I have personally
-          had an adjuster tell my client that fire sprinkler water was not contaminated, and
-          threaten to give the insured a &quot;hard time&quot; if they argued otherwise. The
+          <strong>Insisting the water is &quot;clean&quot; without testing:</strong> In one case,
+          an adjuster told the policyholder that fire sprinkler water was not contaminated, and
+          threatened to give the insured a &quot;hard time&quot; if they argued otherwise. The
           adjuster&apos;s supervisor laughed and said he had never heard of sprinkler water being
           contaminated. Environmental testing later confirmed the presence of coliform bacteria
           and gram-negative rod bacteria throughout the home. The adjuster had no qualifications
@@ -392,7 +392,7 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Bottom Line
+        Key Takeaway
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Fire sprinkler water from a stagnant system is not clean water. It is contaminated with

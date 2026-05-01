@@ -1,7 +1,7 @@
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When a Death Scene Becomes a Battleground: How an Insurance Adjuster Tried to Punish a Contractor for Doing the Right Thing',
+  title: 'When a Death Scene Becomes a Coverage Dispute: How an Insurance Adjuster Tried to Punish a Contractor for Doing the Right Thing',
   description:
     'A real case study: a mitigation contractor removed blood-contaminated drywall from a death scene, and the insurance adjuster threatened to report him for fraud. A certified industrial hygienist proved the adjuster wrong — but the contractor still paid the price.',
 }
@@ -239,6 +239,16 @@ export default function Content() {
         crime scene cleanup, or any insurance claim where the carrier is challenging the scope
         of necessary work, consult with a licensed public adjuster or an industrial hygienist
         before accepting the insurance company&rsquo;s position.
+      </CalloutBox>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
       </CalloutBox>
     </>
   )

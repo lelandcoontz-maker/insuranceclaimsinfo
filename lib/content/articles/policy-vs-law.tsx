@@ -419,7 +419,7 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the policy says:</strong> Most policies are silent on matching. They promise
           to repair or replace &ldquo;damaged property&rdquo; but say nothing about what happens
-          when the repaired area doesn&rsquo;t match the undamaged area. Insurers routinely exploit
+          when the repaired area doesn&rsquo;t match the undamaged area. Insurers routinely take advantage of
           this silence to pay only for the damaged section &mdash; leaving you with a mismatched
           roof, siding, or flooring.
         </p>
@@ -502,7 +502,7 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the policy says:</strong> Many policies define actual cash value (ACV) as
           &ldquo;replacement cost minus depreciation&rdquo; without specifying what can be
-          depreciated. Insurers exploit this ambiguity to depreciate everything &mdash; including
+          depreciated. Insurers use this ambiguity to depreciate everything &mdash; including
           labor. On a large claim, depreciating labor can reduce the ACV payment by tens of
           thousands of dollars.
         </p>
@@ -639,7 +639,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The unfortunate reality &mdash; as the <em>Aliff</em> case illustrates &mdash; is that even
         after a court rules policy language unlawful, other policyholders may have to fight the same
-        battle individually. A Superior Court ruling is not binding precedent. The insurer is not
+        dispute individually. A Superior Court ruling is not binding precedent. The insurer is not
         required to change its policy for everyone based on one judge&rsquo;s decision. Each
         policyholder may need to challenge the same unlawful language in their own case. The good
         news is that these challenges have a strong track record of winning. The bad news is that

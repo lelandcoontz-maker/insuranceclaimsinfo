@@ -141,7 +141,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Perhaps the most devastating argument is the unconscionability argument. The Big I posed
-        a hypothetical that lays the absurdity bare:
+        a hypothetical that illustrates the problem clearly:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] pl-4 italic text-gray-600 mb-6">
         Under the proscriptive reading, an insurer could deny coverage to the elderly homeowner
@@ -169,10 +169,11 @@ export default function Content() {
         Cases Upholding the Denial
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Pour v. Liberty Mutual Fire Insurance Co.</em> (Minnesota), the court held that
-        the &ldquo;where you reside&rdquo; language was a condition of coverage and that the
-        policyholder &mdash; who had relocated to Georgia while maintaining the insured property
-        in Minnesota &mdash; no longer resided at the premises within the meaning of the policy.
+        In <em>Pour v. Liberty Mutual Personal Insurance Co.</em>, No. 24-1824 (8th Cir. 2025),
+        the Eighth Circuit held that the &ldquo;where you reside&rdquo; language was a condition
+        of coverage and that the policyholder &mdash; who had relocated to Georgia while
+        maintaining the insured property in Minnesota &mdash; no longer resided at the premises
+        within the meaning of the policy.
         The court found that &ldquo;reside&rdquo; required physical presence and an intent to
         remain, and that the policyholder had established a new primary residence in another
         state. The claim was denied.
@@ -224,6 +225,19 @@ export default function Content() {
         coverage denial based on the &ldquo;where you reside&rdquo; language.
       </p>
 
+      <CalloutBox variant="important" title="Professional Guidance Recommended">
+        <p>
+          The legal strategies discussed in this section should be pursued with the guidance of
+          a licensed attorney experienced in insurance coverage disputes. A Public Adjuster can
+          assist with the claims-handling, documentation, and negotiation aspects of your claim.
+          If you need help finding a qualified professional,{' '}
+          <Link href="/contact" className="text-[#2E74B5] hover:underline">
+            contact us
+          </Link>{' '}
+          for a referral.
+        </p>
+      </CalloutBox>
+
       <CalloutBox variant="tip" title="Steps to Protect Yourself">
         <ul className="list-disc pl-6 space-y-2 text-gray-700">
           <li>
@@ -259,8 +273,8 @@ export default function Content() {
             notice, payment confirmation, renewal letter, and correspondence.
           </li>
           <li>
-            <strong>Raise <em>contra proferentem</em> early and forcefully.</strong> In any dispute
-            over this language, insist that the ambiguity be resolved in favor of coverage. The
+            <strong>An attorney may raise <em>contra proferentem</em> in any dispute over this language</strong>,
+            arguing that the ambiguity should be resolved in favor of coverage. The
             insurer drafted the policy. If it wanted residency to be a condition of coverage, it
             could have said so in plain, conspicuous language. It did not.
           </li>

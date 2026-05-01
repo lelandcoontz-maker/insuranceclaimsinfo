@@ -91,7 +91,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/total-loss', label: 'Total Loss Claims' },
       { href: '/resources/thermal-heat-damage', label: 'Thermal/Heat Damage' },
       { href: '/resources/mold-coverage-paradox', label: 'Mold Coverage Paradox' },
-      { href: '/resources/vandalism-vs-wear-and-tear', label: 'Vandalism vs. Wear & Tear' },
+      { href: '/resources/vandalism-claims', label: 'Vandalism Claims' },
       { href: '/resources/personal-property-special-considerations', label: 'Specialty Property Claims' },
       { href: '/resources/code-upgrade-coverage', label: 'Code Upgrade Coverage' },
       { href: '/resources/marine-cargo-claims', label: 'Marine Cargo Claims' },

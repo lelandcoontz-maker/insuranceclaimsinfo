@@ -91,9 +91,10 @@ export default function Content() {
         <li>
           <strong>Disclosure:</strong> The umpire is subject to the disclosure requirements of
           CCP &sect; 1281.9, which require disclosure of any grounds for disqualification,
-          including financial interests and prior relationships with the parties. As established
-          in <em>Sharma v. USAA</em>, failure to make required disclosures is itself a ground
-          for vacating the award.
+          including financial interests and prior relationships with the parties. As the court
+          recognized in <em>Safeco Ins. Co. v. Sharma</em> (1984) 160 Cal.App.3d 1060, appraisal
+          is a quasi-arbitration proceeding subject to the California Arbitration Act, and failure
+          to make required disclosures is itself a ground for vacating the award.
         </li>
         <li>
           <strong>Judicial review:</strong> Courts can intervene to appoint an umpire when the
@@ -262,7 +263,7 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="important" title="The Appraisal Memorandum Defines the Battlefield">
+      <CalloutBox variant="important" title="The Appraisal Memorandum Defines the Scope">
         <p>
           The appraisal memorandum is one of the most important documents in the entire process.
           It defines what the appraisal panel will consider, frames the issues in terms favorable
@@ -312,8 +313,8 @@ export default function Content() {
         As established in{' '}
         <Link href="/resources/california-insurance-case-law" className="text-[#2E74B5] underline">
           <em>Lambert v. Carneghi</em>
-        </Link>
-        , the party appraiser is an <strong>advocate</strong>, not a neutral. The
+        </Link>{' '}
+        (2008) 158 Cal.App.4th 1120, the party appraiser is an <strong>advocate</strong>, not a neutral. The
         policyholder&rsquo;s appraiser is expected to represent the policyholder&rsquo;s position
         on the amount of loss. A licensed{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
@@ -354,9 +355,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Court-appointed umpires are often preferable for the policyholder, because the court is
         more likely to select someone who is genuinely neutral rather than someone from the
-        insurer&rsquo;s preferred list. As <em>Sharma v. USAA</em> established, the umpire is
-        subject to the disclosure requirements of CCP &sect; 1281.9, and a court-appointed umpire
-        who has undisclosed conflicts can be challenged.
+        insurer&rsquo;s preferred list. Under <em>Safeco Ins. Co. v. Sharma</em> (1984) 160
+        Cal.App.3d 1060 and CCP &sect; 1281.9, the umpire is subject to disclosure requirements,
+        and a court-appointed umpire who has undisclosed conflicts can be challenged.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -593,14 +594,27 @@ export default function Content() {
         determination.
       </p>
 
+      <CalloutBox variant="important" title="Professional Guidance Recommended">
+        <p>
+          The legal strategies discussed in this section should be pursued with the guidance of
+          a licensed attorney experienced in insurance coverage disputes. A Public Adjuster can
+          assist with the claims-handling, documentation, and negotiation aspects of your claim.
+          If you need help finding a qualified professional,{' '}
+          <Link href="/contact" className="text-[#2E74B5] hover:underline">
+            contact us
+          </Link>{' '}
+          for a referral.
+        </p>
+      </CalloutBox>
+
       <CalloutBox variant="legal" title="Causation and the Appraisal Memorandum">
         <p>
           In mixed-cause losses, the appraisal memorandum is especially critical. The memorandum
           should clearly articulate the policyholder&rsquo;s position on causation &mdash; what
           damage was caused by the covered peril, how the policyholder arrived at that
-          determination, and what documentation supports it. By framing causation as an
-          &ldquo;amount&rdquo; issue in the memorandum (&ldquo;the amount of storm damage
-          is&hellip;&rdquo;), you establish the framework for the panel to evaluate extent
+          determination, and what documentation supports it. Experienced practitioners often frame
+          causation as an &ldquo;amount&rdquo; issue in the memorandum (&ldquo;the amount of storm
+          damage is&hellip;&rdquo;), establishing the framework for the panel to evaluate extent
           without making coverage determinations.
         </p>
       </CalloutBox>
@@ -640,7 +654,7 @@ export default function Content() {
         eliminates the carrier&rsquo;s ability to dismiss your numbers as &ldquo;not industry
         standard.&rdquo; Every line item should be individually supported &mdash; with correct
         quantities, appropriate material grades, current pricing, and applicable overhead and
-        profit. Do not leave gaps that the carrier&rsquo;s appraiser can exploit.
+        profit. Do not leave gaps that the carrier&rsquo;s appraiser can use to their advantage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Each disputed item should include enough detail that the umpire can independently evaluate
@@ -779,8 +793,9 @@ export default function Content() {
         B. Can You Set Aside an Appraisal Award?
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Yes, but the grounds are narrow. As established in <em>Lee v. California Capital</em>,
-        appraisal awards carry a strong presumption of finality. A party seeking to vacate an
+        Yes, but the grounds are narrow. As established in <em>Lee v. California Capital
+        Insurance Co.</em> (2015) 237 Cal.App.4th 1154, appraisal awards carry a strong
+        presumption of finality. A party seeking to vacate an
         award must establish one of the grounds in <strong>CCP &sect; 1286.2</strong>:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">

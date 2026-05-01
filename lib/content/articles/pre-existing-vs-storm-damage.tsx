@@ -12,8 +12,8 @@ export default function Content() {
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
         &ldquo;The damage to your roof is consistent with normal wear and tear, not the reported
-        storm event.&rdquo; If you&apos;ve filed a roof claim, there&apos;s a good chance
-        you&apos;ve heard some version of this sentence. The &ldquo;pre-existing damage&rdquo; or
+        storm event.&rdquo; If you have filed a roof claim, there is a good chance
+        you have heard some version of this sentence. The &ldquo;pre-existing damage&rdquo; or
         &ldquo;wear and tear&rdquo; denial is the single most common basis for denying or reducing
         property insurance claims — and it is wrong far more often than carriers would like you to
         believe.
@@ -40,7 +40,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Standard homeowner policies exclude damage from wear and tear, gradual deterioration, and
-        maintenance failures. Carriers know this — and they exploit it by reclassifying storm damage
+        maintenance failures. Carriers know this — and they use it to their advantage by reclassifying storm damage
         as pre-existing. The strategy works because:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -49,7 +49,7 @@ export default function Content() {
           basis for the argument — &ldquo;Look, the roof was already in poor condition.&rdquo;
         </li>
         <li>
-          <strong>Most policyholders can&apos;t distinguish the two.</strong> Unless you&apos;re a
+          <strong>Most policyholders cannot distinguish the two.</strong> Unless you are a
           trained roofing professional, you may not know whether granule loss is from hail or aging.
         </li>
         <li>
@@ -60,7 +60,7 @@ export default function Content() {
         <li>
           <strong>It shifts the burden.</strong> Once the carrier says &ldquo;wear and tear,&rdquo;
           the policyholder must prove otherwise — which requires hiring an expert and fighting back.
-          Many people don&apos;t.
+          Many people do not.
         </li>
       </ul>
 
@@ -74,10 +74,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Storm damage follows the storm. Wind-driven hail and wind damage concentrate on the
         windward-facing slopes of the roof. If the north and west slopes show heavy damage while the
-        south and east slopes show little, that&apos;s a directional pattern consistent with a
+        south and east slopes show little, that is a directional pattern consistent with a
         storm — not aging. Normal wear and tear, by contrast, is roughly uniform across the roof
         (or worse on south-facing slopes due to UV exposure). A carrier engineer who claims
-        &ldquo;wear and tear&rdquo; but can&apos;t explain the directional pattern is ignoring the
+        &ldquo;wear and tear&rdquo; but cannot explain the directional pattern is ignoring the
         evidence.
       </p>
 
@@ -96,7 +96,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Real estate disclosures:</strong> If you bought the home recently and the seller
-          disclosed no roof damage, that&apos;s evidence the damage is post-purchase.
+          disclosed no roof damage, that is evidence the damage is post-purchase.
         </li>
         <li>
           <strong>Prior claim history:</strong> If the property had no roof claims before this storm,
@@ -119,7 +119,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If the storm was severe enough to damage your roof, it likely damaged other components too.
         Dented gutters, damaged vents, cracked window screens, and hail-marked HVAC units all
-        corroborate that a damaging storm event occurred. Wear and tear doesn&apos;t dent your
+        corroborate that a damaging storm event occurred. Wear and tear does not dent your
         gutters or crack your window screens. For a full list of what to inspect, see our guide on{' '}
         <Link href="/resources/hail-damage-science" className="text-[#2E74B5] hover:underline">
           the science of hail damage
@@ -130,9 +130,9 @@ export default function Content() {
         4. Neighboring Properties
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Hail and windstorms don&apos;t hit one house and skip the next. If your neighbors filed
+        Hail and windstorms do not hit one house and skip the next. If your neighbors filed
         claims for the same storm and received payment — especially neighbors with the same carrier
-        — that&apos;s powerful evidence. The carrier cannot credibly argue that the storm damaged
+        — that is powerful evidence. The carrier cannot credibly argue that the storm damaged
         the houses on either side of yours but somehow skipped your property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -191,7 +191,7 @@ export default function Content() {
             <tr className="border-b">
               <td className="px-4 py-2 font-medium">Collateral damage</td>
               <td className="px-4 py-2">Dents on soft metals, screens, HVAC</td>
-              <td className="px-4 py-2">None — wear doesn&apos;t dent metal</td>
+              <td className="px-4 py-2">None — wear does not dent metal</td>
             </tr>
             <tr className="bg-gray-50">
               <td className="px-4 py-2 font-medium">Onset</td>
@@ -232,10 +232,10 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="warning" title="Don&apos;t Let Roof Age Intimidate You">
+      <CalloutBox variant="warning" title="Do not Let Roof Age Intimidate You">
         <p>
           Carriers count on policyholders feeling embarrassed about an older roof and accepting the
-          denial. Don&apos;t. Your premiums covered this roof. The storm damaged this roof. The
+          denial. Do not. Your premiums covered this roof. The storm damaged this roof. The
           policy pays for storm damage. Roof age is relevant to depreciation — it is not a basis
           for denial.
         </p>
@@ -256,7 +256,7 @@ export default function Content() {
         </li>
         <li>
           The carrier bears the burden of proving that the excluded cause was the predominant cause.
-          The policyholder doesn&apos;t have to prove the roof was in perfect condition before the
+          The policyholder does not have to prove the roof was in perfect condition before the
           storm.
         </li>
         <li>
@@ -266,8 +266,8 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This means even if the roof had pre-existing wear, if the storm caused the damage you&apos;re
-        claiming, the carrier owes payment. The existence of prior wear doesn&apos;t create an
+        This means even if the roof had pre-existing wear, if the storm caused the damage you are
+        claiming, the carrier owes payment. The existence of prior wear does not create an
         exclusion.
       </p>
 
@@ -300,7 +300,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Document collateral damage.</strong> Photograph every dented gutter, vent, pipe
-          boot, HVAC unit, and window screen. These items don&apos;t suffer from &ldquo;wear and
+          boot, HVAC unit, and window screen. These items do not suffer from &ldquo;wear and
           tear&rdquo; — their damage corroborates the storm event.
         </li>
         <li>
@@ -335,9 +335,9 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="The Burden Is on the Carrier">
         <p>
-          Remember: you don&apos;t have to prove your roof was in perfect condition before the storm.
+          Remember: you do not have to prove your roof was in perfect condition before the storm.
           You only have to show that the storm caused damage. The carrier bears the burden of proving
-          that the damage was pre-existing. If their engineer&apos;s report doesn&apos;t adequately
+          that the damage was pre-existing. If their engineer&apos;s report does not adequately
           distinguish storm damage from wear — or ignores directional patterns, collateral evidence,
           and weather data — the denial is on weak ground.
         </p>

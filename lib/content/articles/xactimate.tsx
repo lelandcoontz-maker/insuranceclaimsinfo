@@ -80,7 +80,7 @@ export default function Content() {
         <p>
           The initial Xactimate estimate from your insurance company is a starting point, not a
           final offer. Have it reviewed by someone experienced in Xactimate — a
-          qualified <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
+          qualified <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
           a knowledgeable contractor — before you accept or sign anything. Missing line items and
           errors are extremely common.
         </p>
@@ -90,7 +90,7 @@ export default function Content() {
         Controversial Line Items Insurers Fight Over
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Certain Xactimate line items are frequent battlegrounds between policyholders and insurance
+        Certain Xactimate line items are frequent points of dispute between policyholders and insurance
         companies. Understanding these disputes can help you identify when your estimate is short.
       </p>
 
@@ -177,7 +177,7 @@ export default function Content() {
         as the person who prepared it. Get an independent review, compare line items, check
         measurements, and verify that the material specifications match what is actually in your
         home. If you are dealing with a significant claim, working with an
-        experienced <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> who
+        experienced <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> who
         is proficient in Xactimate can make a substantial difference in your settlement.
       </p>
     </>

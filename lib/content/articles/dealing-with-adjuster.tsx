@@ -35,7 +35,7 @@ export default function Content() {
         <li>
           <strong>Staff adjusters</strong> are full-time employees of the insurance company. They are
           salaried, handle claims as their daily job, and typically have access to the company&rsquo;s
-          internal systems and authority structures. They know the company&rsquo;s playbook because
+          internal systems and authority structures. They know the company&rsquo;s standard practices because
           they work inside it every day.
         </li>
         <li>
@@ -47,13 +47,14 @@ export default function Content() {
         <li>
           <strong>Desk adjusters</strong> handle claims remotely and never visit the property. They
           review photos, documents, and estimates from behind a screen. This is increasingly common
-          in the industry, and it is a major red flag for complex claims. In 2025 U.S. Senate
-          testimony, a veteran adjuster described how one major insurer has turned field adjusters
-          into &ldquo;picture takers and estimate writers&rdquo; who submit their work to desk
-          reviewers who approve or deny claims and dictate revisions — without ever visiting the
-          property. Internal data showed this insurer reduced 27% of field estimates through desk
-          review while increasing only 9%. A desk adjuster cannot see what they do not look for,
-          and they cannot look for what they are not physically present to find.
+          in the industry, and it is a major red flag for complex claims. At a May 2025 Senate
+          Homeland Security subcommittee hearing, testimony described how one major insurer has
+          turned field adjusters into &ldquo;picture takers and estimate writers&rdquo; who submit
+          their work to desk reviewers who approve or deny claims and dictate revisions — without
+          ever visiting the property. Allstate&apos;s own executive acknowledged at the same
+          hearing that 27% of field adjuster estimates were reduced through desk review, while only
+          9% were increased. A desk adjuster cannot see what they do not look for, and they cannot
+          look for what they are not physically present to find.
         </li>
         <li>
           <strong>Public adjusters</strong> work for <em>you</em>, the policyholder. They are licensed
@@ -210,7 +211,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Most adjusters are not bad people. But many of them use approaches — whether by habit,
         training, or corporate pressure — that work against policyholders. Here are the most common
-        ones I see after 20 years in this business:
+        patterns that emerge after two decades of claims handling:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -319,14 +320,18 @@ export default function Content() {
         with it.
       </p>
 
-      <CalloutBox variant="legal" title="California Regulation on Adjuster Reassignment">
+      <CalloutBox variant="legal" title="California Law on Adjuster Reassignment (Emergency Claims)">
         <p>
-          Under 10 CCR 2695.7(c)(1), if three or more adjusters are assigned to your claim within
-          a six-month period, the insurer must provide you with a written status report within five
-          business days of the latest reassignment. This report must include the current status of
-          the claim and a statement of any issues still outstanding. If you are experiencing the
-          adjuster carousel, document every reassignment — the date, the name of the new adjuster,
-          and whether you received the required status report.
+          Under California Insurance Code Section 14047 (enacted by SB 240, effective January 1,
+          2020), if three or more adjusters are assigned to a <em>residential property claim arising
+          from a declared state of emergency</em> within a six-month period, the insurer must provide
+          the policyholder with a written status report within five business days of the latest
+          reassignment. This report must include the current status of the claim and a statement of
+          any issues still outstanding. Note that this requirement applies specifically to
+          emergency-declared residential property losses &mdash; it does not apply to all claims. If
+          you are experiencing the adjuster carousel on an emergency claim, document every
+          reassignment &mdash; the date, the name of the new adjuster, and whether you received the
+          required status report.
         </p>
       </CalloutBox>
 
@@ -387,6 +392,16 @@ export default function Content() {
           <Link href="/contact" className="text-[#2E74B5] underline font-semibold">
             Request a free claim review
           </Link>.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
         </p>
       </CalloutBox>
     </>

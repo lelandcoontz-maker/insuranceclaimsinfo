@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Cosmetic Damage Denials: When Insurers Refuse to Fix What They Broke',
   description:
-    'Insurance companies increasingly deny claims for "cosmetic" damage — dents, discoloration, mismatched repairs. Learn why this argument often fails and how to fight back.',
+    'Insurance companies increasingly deny claims for "cosmetic" damage — dents, discoloration, mismatched repairs. Learn why this argument often fails and what you can do.',
 }
 
 export default function Content() {
@@ -13,9 +13,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         You file a claim for hail damage to your siding, wind damage to your fence, or smoke
         discoloration on your walls. The adjuster inspects, agrees the damage exists, and then
-        tells you it&apos;s &ldquo;cosmetic only&rdquo; — meaning the insurer won&apos;t pay to
+        tells you it is &ldquo;cosmetic only&rdquo; — meaning the insurer will not pay to
         fix it because the damaged component still &ldquo;functions.&rdquo; This is one of the
-        most infuriating and increasingly common claim-handling tactics in the industry.
+        most frustrating and increasingly common claim-handling tactics in the industry.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -26,7 +26,7 @@ export default function Content() {
         loss.&rdquo; If the damaged component still performs its intended function (the dented
         siding still keeps water out, the discolored wall is still structurally sound, the
         chipped granite still works as a countertop), then there is no &ldquo;loss&rdquo; — only
-        an aesthetic issue the insurer claims isn&apos;t covered.
+        an aesthetic issue the insurer claims is not covered.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some insurers have even added &ldquo;cosmetic damage exclusions&rdquo; to their policies
@@ -51,10 +51,10 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">1. &ldquo;Direct Physical Loss&rdquo; Includes Appearance</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Multiple courts have rejected the notion that &ldquo;direct physical loss&rdquo; requires
-        a functional impairment. Physical damage to property is physical damage — it doesn&apos;t
+        a functional impairment. Physical damage to property is physical damage — it does not
         matter whether the property still &ldquo;works.&rdquo; A dent in your siding is a physical
         alteration to the property. Discoloration from smoke is a physical change. The policy
-        doesn&apos;t say &ldquo;direct functional loss&rdquo; — it says &ldquo;direct physical
+        does not say &ldquo;direct functional loss&rdquo; — it says &ldquo;direct physical
         loss.&rdquo;
       </p>
 
@@ -70,9 +70,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The loss settlement provision requires the insurer to restore your property with materials
         of &ldquo;like kind and quality.&rdquo; Courts have interpreted this to include aesthetic
-        qualities — not just functional performance. In <em>National Presbyterian Church v.
-        Maryland Cas. Co.</em>, the court held that restoration to pre-loss condition includes
-        matching the appearance of repaired and unrepaired areas.
+        qualities — not just functional performance. In a D.C. case, <em>National Presbyterian
+        Church, Inc. v. Maryland Casualty Co.</em>, the court held that restoration to pre-loss
+        condition includes matching the appearance of repaired and unrepaired areas. While this
+        is not California authority, the principle is consistent with California&rsquo;s own
+        &ldquo;like kind and quality&rdquo; standard under 10 CCR &sect; 2695.9(d).
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">4. Cosmetic Damage Often Masks Functional Damage</h3>
@@ -80,7 +82,7 @@ export default function Content() {
         Dented metal roofing may have micro-fractures that compromise its weather resistance over
         time. Cracked siding allows moisture intrusion. Smoke-discolored surfaces may harbor
         contaminants. What looks &ldquo;cosmetic&rdquo; on the surface may have functional
-        consequences that aren&apos;t immediately visible.
+        consequences that are not immediately visible.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -99,17 +101,17 @@ export default function Content() {
         </li>
         <li>
           <strong>Mismatched repairs.</strong> The insurer replaces damaged shingles but the new
-          ones don&apos;t match the existing roof. See our guide on{' '}
+          ones do not match the existing roof. See our guide on{' '}
           <Link href="/resources/matching" className="text-[#2E74B5] hover:underline">matching requirements</Link>.
         </li>
         <li>
           <strong>Chipped or cracked stone, granite, or tile.</strong> The insurer says the chip
-          doesn&apos;t affect function. You say it&apos;s visible, reduces value, and can&apos;t
+          does not affect function. You say it is visible, reduces value, and cannot
           be repaired to match.
         </li>
         <li>
           <strong>Faded, stained, or discolored finishes.</strong> After water damage, hardwood
-          floors may warp slightly or develop water marks. The insurer says they&apos;re still
+          floors may warp slightly or develop water marks. The insurer says they are still
           walkable.
         </li>
       </ul>
@@ -132,7 +134,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Get a real estate appraisal.</strong> If the insurer says the damage is cosmetic
-          and doesn&apos;t affect value, prove them wrong. A real estate appraisal showing
+          and does not affect value, prove them wrong. A real estate appraisal showing
           diminished property value due to the unrepaired damage is powerful evidence.
         </li>
         <li>
@@ -142,7 +144,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Invoke appraisal.</strong> If the dispute is about the value/extent of the
-          damage (not whether it&apos;s covered), invoke the{' '}
+          damage (not whether it is covered), invoke the{' '}
           <Link href="/resources/appraisal" className="text-[#2E74B5] hover:underline">appraisal clause</Link>.
           An independent umpire is less likely to adopt the insurer&apos;s &ldquo;cosmetic only&rdquo;
           position than the insurer&apos;s own adjuster.
@@ -164,7 +166,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           A Public Adjuster can challenge the insurer&apos;s classification and fight for full
-          repairs — including the damage they&apos;re trying to dismiss.
+          repairs — including the damage they are trying to dismiss.
         </p>
         <Link
           href="/contact"
@@ -173,6 +175,16 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

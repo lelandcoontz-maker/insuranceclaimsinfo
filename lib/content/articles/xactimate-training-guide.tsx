@@ -114,7 +114,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Level 3 certification is most relevant for{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjusters
         </Link>, lead estimators, appraisal professionals, and claims consultants who
         prepare complex estimates or review the work of others. It is not necessary for
@@ -215,7 +215,7 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What Certification Does and Doesn&apos;t Prove
+        What Certification Does and Does not Prove
       </h2>
 
       <CalloutBox variant="important" title="Passing the Test Is Not the Same as Knowing the Software">
@@ -443,7 +443,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is one of the key reasons why hiring a{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           licensed Public Adjuster
         </Link>{' '}
         who is proficient in Xactimate can make a meaningful difference in your settlement.

@@ -196,7 +196,7 @@ export default function Content() {
         <li>
           <strong>Get help if you need it.</strong> If you are unsure how to complete a proof of loss
           or respond to an examination under oath, consult with a{' '}
-          <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
+          <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
           an attorney before responding.
         </li>
       </ul>

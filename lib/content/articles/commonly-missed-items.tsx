@@ -27,8 +27,8 @@ export default function Content() {
 
       <CalloutBox variant="important" title="How to Use This List">
         <p>
-          <strong>Homeowners:</strong> You don&apos;t need to be an Xactimate expert to use this
-          list. Walk through your property and compare what you see to what&apos;s in the
+          <strong>Homeowners:</strong> You do not need to be an Xactimate expert to use this
+          list. Walk through your property and compare what you see to what is in the
           insurer&apos;s estimate. If your house had a doorbell, the estimate needs doorbell wiring.
           If your house had house numbers on the front, the estimate needs detach and reset of house
           numbers. These are not subjective judgment calls — they are real items that cost real money
@@ -107,7 +107,7 @@ export default function Content() {
         <li><strong>Bird&apos;s mouth cuts</strong> on rafters where they sit on the wall plate</li>
         <li><strong>Rafter tails</strong></li>
         <li><strong>Wall height</strong> — older homes with plaster walls often have 8&apos;3&rdquo;
-          walls, not 8&apos;0&rdquo;. That is roughly 3% more material and labor than what&apos;s
+          walls, not 8&apos;0&rdquo;. That is roughly 3% more material and labor than what is
           estimated at standard height. Measure your actual wall height</li>
       </ul>
 
@@ -127,9 +127,9 @@ export default function Content() {
           estimate</li>
         <li><strong>Skim coat</strong> for Level 5 drywall finish — a smooth wall finish requires a
           skim coat over the entire surface, not just the taped joints</li>
-        <li><strong>Scaffolding</strong> for overhead work — OSHA does not allow standing on a
-          ladder to do overhead plastering, drywall finishing, or painting of ceilings. Scaffolding
-          is a separate line item</li>
+        <li><strong>Scaffolding</strong> for overhead work — sustained overhead work such as
+          plastering, drywall finishing, and painting of ceilings often requires scaffolding or
+          other stable work platforms for safe access. Scaffolding is a separate line item</li>
         <li><strong>Removal of damaged materials</strong> — tearing out old drywall or plaster is a
           separate operation from hauling it to the dumpster. Both must be in the estimate</li>
         <li><strong>Paper-faced insulation</strong> vs. unfaced — paper-faced costs more and is
@@ -185,10 +185,10 @@ export default function Content() {
           specialty cabinets, pull-out trash cabinets, and other specialty units cost more than
           standard cabinets and must be line-itemed separately</li>
         <li><strong>Light fixtures under upper cabinets</strong> — LED strips, fluorescent tubes, or
-          puck lights mounted to the underside of upper cabinets. People don&apos;t look up under
+          puck lights mounted to the underside of upper cabinets. People do not look up under
           the cabinets</li>
         <li><strong>Drilling new holes for knobs/pulls</strong> — you cannot &ldquo;reset&rdquo; a
-          knob into a new cabinet drawer face because the holes don&apos;t exist yet. Even if you
+          knob into a new cabinet drawer face because the holes do not exist yet. Even if you
           are reusing the same hardware, new cabinets require drilling new holes using a jig. This
           is a completely different line item from detach/reset of existing knobs — and the D&amp;R
           line item does not apply when the cabinets are new</li>
@@ -631,8 +631,8 @@ export default function Content() {
           work can begin</li>
         <li><strong>Special inspection fees</strong> — structural, welding, concrete inspections
           required by the building department</li>
-        <li><strong>Scaffolding</strong> — required by OSHA for overhead work. A separate line item
-          from the work itself</li>
+        <li><strong>Scaffolding</strong> — often necessary for safe access to elevated work areas.
+          A separate line item from the work itself</li>
         <li><strong>Course of construction insurance</strong> — required during rebuild. A
           legitimate soft cost</li>
         <li><strong>Material delivery charges</strong></li>
@@ -649,7 +649,7 @@ export default function Content() {
           primary scope, but they are real consequential costs</li>
         <li><strong>Overhead and Profit</strong> — the general contractor&apos;s 10% overhead and
           10% profit should be applied to the entire estimate when a GC is managing the project.
-          Carriers routinely omit O&amp;P or argue it doesn&apos;t apply. See our guide on{' '}
+          Carriers routinely omit O&amp;P or argue it does not apply. See our guide on{' '}
           <Link href="/resources/overhead-and-profit" className="text-[#2E74B5] hover:underline">
             overhead and profit
           </Link></li>
@@ -664,7 +664,7 @@ export default function Content() {
           Law and Ordinance coverage
         </Link>{' '}
         — a separate coverage with its own limit. These items are commonly missed entirely because
-        the adjuster doesn&apos;t consider what current code requires vs. what was originally built:
+        the adjuster does not consider what current code requires vs. what was originally built:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Fire sprinkler system</strong> — required for new construction or major
@@ -722,13 +722,13 @@ export default function Content() {
         <li>
           <strong>Limited construction knowledge.</strong> Many adjusters — particularly desk
           adjusters and newer field adjusters — have limited hands-on construction experience.
-          They don&apos;t know about pressure-treated sole plates or bird&apos;s mouth cuts or
+          They do not know about pressure-treated sole plates or bird&apos;s mouth cuts or
           countertop edge treatments because they have never built anything.
         </li>
         <li>
           <strong>Template-based estimating.</strong> Some adjusters use templates or macros that
           cover the major items but miss dozens of smaller ones. The template becomes the estimate,
-          and anything not in the template doesn&apos;t get included.
+          and anything not in the template does not get included.
         </li>
         <li>
           <strong>Financial incentive.</strong> The carrier benefits from a lower estimate. There is
@@ -801,6 +801,16 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

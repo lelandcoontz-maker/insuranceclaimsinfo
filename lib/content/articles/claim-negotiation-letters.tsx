@@ -21,7 +21,7 @@ export default function Content() {
         <li><strong>Initial claim notification</strong> &mdash; reporting the loss in writing</li>
         <li><strong>Follow-up confirmation</strong> &mdash; &quot;Per our phone call today...&quot;</li>
         <li><strong>Supplement request</strong> &mdash; documenting additional damage found</li>
-        <li><strong>Demand for payment</strong> &mdash; when the carrier has agreed but hasn&apos;t paid</li>
+        <li><strong>Demand for payment</strong> &mdash; when the carrier has agreed but has not paid</li>
         <li><strong>Regulatory deadline reminder</strong> &mdash; citing specific timeframes</li>
         <li><strong>Response to denial</strong> &mdash; challenging a coverage or amount determination</li>
         <li><strong>Appraisal demand</strong> &mdash; invoking the appraisal clause</li>
@@ -42,7 +42,7 @@ export default function Content() {
           regulations, or case law when applicable.
         </li>
         <li>
-          <strong>Request specific action.</strong> Don&apos;t just complain &mdash; state
+          <strong>Request specific action.</strong> Do not just complain &mdash; state
           exactly what you want the carrier to do and by when.
         </li>
         <li>

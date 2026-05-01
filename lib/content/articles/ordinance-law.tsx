@@ -149,7 +149,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have recently suffered a loss and are navigating this coverage for the first time,
         a licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can help you identify and maximize every dollar available under your Ordinance or Law

@@ -50,7 +50,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Public Adjusters</strong> &mdash; licensed{' '}
-          <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
             Public Adjusters
           </Link>{' '}
           use Xactimate to prepare independent estimates on behalf of policyholders, identifying
@@ -152,7 +152,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="The Price List Matters &mdash; A Lot">
         <p>
-          Using the wrong price list &mdash; whether it&apos;s outdated or from the wrong
+          Using the wrong price list &mdash; whether it is outdated or from the wrong
           geographic area &mdash; can understate or overstate repair costs by thousands of
           dollars. Always verify that your estimate uses the current price list for the
           correct geographic code. If the carrier&apos;s estimate uses a price list from six
@@ -231,7 +231,7 @@ export default function Content() {
       <CalloutBox variant="legal" title="O&amp;P Rights in California">
         <p>
           Insurance companies routinely refuse to include O&amp;P in their estimates, claiming
-          the homeowner &ldquo;doesn&apos;t need a general contractor.&rdquo; In California,
+          the homeowner &ldquo;does not need a general contractor.&rdquo; In California,
           the California Department of Insurance (CDI) has enforced the position that O&amp;P
           must be included when the repair reasonably requires a general contractor. If
           your carrier strips O&amp;P from your estimate, you have strong grounds to push
@@ -423,7 +423,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A qualified{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         who is proficient in Xactimate can review the carrier&apos;s estimate line by line,

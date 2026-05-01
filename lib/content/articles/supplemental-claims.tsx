@@ -12,14 +12,14 @@ export default function Content() {
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurance company&apos;s first estimate is rarely the last word. As repairs proceed,
-        additional damage is often discovered that wasn&apos;t visible during the initial inspection.
+        additional damage is often discovered that was not visible during the initial inspection.
         A supplemental claim &mdash; or &quot;supplement&quot; &mdash; is your request for additional
-        payment to cover damage or repair costs that weren&apos;t included in the original estimate.
+        payment to cover damage or repair costs that were not included in the original estimate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Filing supplements is a normal and expected part of the claims process. Experienced
-        adjusters know that complex claims often require multiple supplements. Don&apos;t feel
-        like you&apos;re asking for a favor &mdash; you&apos;re exercising your right to full
+        adjusters know that complex claims often require multiple supplements. Do not feel
+        like you are asking for a favor &mdash; you are exercising your right to full
         indemnification under your policy.
       </p>
 
@@ -29,14 +29,14 @@ export default function Content() {
         <li>Items the adjuster missed during the initial inspection</li>
         <li>Price increases for materials since the original estimate</li>
         <li>Code upgrades required by the building department</li>
-        <li>Additional trades needed that weren&apos;t in the original scope</li>
+        <li>Additional trades needed that were not in the original scope</li>
         <li>
           <Link href="/resources/overhead-and-profit" className="text-blue-700 underline hover:text-blue-900">
             Overhead and profit
           </Link>{' '}
           that was excluded from the original estimate
         </li>
-        <li>Matching requirements (new materials don&apos;t match existing)</li>
+        <li>Matching requirements (new materials do not match existing)</li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">How to File a Supplement</h2>
@@ -58,16 +58,16 @@ export default function Content() {
           what has changed
         </li>
         <li>
-          <strong>Follow up</strong> if you don&apos;t receive a response within a reasonable
+          <strong>Follow up</strong> if you do not receive a response within a reasonable
           time (check your state&apos;s regulations for specific deadlines)
         </li>
       </ol>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Multiple Supplements Are Normal</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        On complex claims, it&apos;s not unusual to file three, four, or even five supplements.
-        Each time new damage is discovered or additional costs arise, you have the right to
-        submit for additional payment. I&apos;ve handled claims where the final settlement was
+        On complex claims, it is not unusual to file three, four, or even five supplements.
+        Each time new damage is discovered or additional costs arise, the policyholder has the right to
+        submit for additional payment. It is not uncommon for final settlements to reach
         double or triple the carrier&apos;s initial estimate &mdash; all through legitimate
         supplements documenting real damage.
       </p>
@@ -83,7 +83,7 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Don&apos;t Let a Missed Deadline Kill Your Supplement
+        Do not Let a Missed Deadline Kill Your Supplement
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         When you file a supplement, the carrier may send you a{' '}
@@ -112,6 +112,19 @@ export default function Content() {
         show &mdash; the damage is still there, the documentation is still available, and the
         carrier already has an open file on the loss.
       </p>
+
+      <CalloutBox variant="important" title="Professional Guidance Recommended">
+        <p>
+          The legal strategies discussed in this section should be pursued with the guidance of
+          a licensed attorney experienced in insurance coverage disputes. A Public Adjuster can
+          assist with the claims-handling, documentation, and negotiation aspects of your claim.
+          If you need help finding a qualified professional,{' '}
+          <Link href="/contact" className="text-[#2E74B5] hover:underline">
+            contact us
+          </Link>{' '}
+          for a referral.
+        </p>
+      </CalloutBox>
 
       <CalloutBox variant="legal" title="Key California Cases">
         <ul className="list-disc pl-6 space-y-2">
@@ -193,7 +206,7 @@ export default function Content() {
           duties after loss
         </Link>
         , but if you miss one, do not give up on the claim. The notice-prejudice rule exists
-        precisely because carriers exploit procedural technicalities to avoid paying legitimate
+        precisely because carriers use procedural technicalities to avoid paying legitimate
         claims. California courts have made clear that forfeiture of coverage based on a missed
         deadline requires more than the carrier pointing to a calendar &mdash; it requires
         proof that the delay actually mattered.
@@ -211,6 +224,15 @@ export default function Content() {
         or an attorney if you find yourself in this situation.
       </p>
 
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

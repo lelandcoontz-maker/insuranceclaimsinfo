@@ -62,7 +62,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A contractor offers to &ldquo;waive your deductible&rdquo; — meaning they will inflate the
-        scope of work on the insurance estimate to absorb the deductible amount, so you don&apos;t
+        scope of work on the insurance estimate to absorb the deductible amount, so you do not
         pay anything out of pocket. This is insurance fraud. Both the contractor and the homeowner
         can face criminal charges. Beyond the legal risk, contractors who inflate estimates to cover
         deductibles typically cut corners on the actual work to maintain their margin.

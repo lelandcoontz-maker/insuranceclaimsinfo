@@ -146,14 +146,14 @@ export default function Content() {
         </li>
         <li>
           <strong>Consult a professional.</strong> A
-          knowledgeable <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> can
+          knowledgeable <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> can
           help you navigate mold-related claims and ensure the insurance company applies the mold
           limit properly.
         </li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Bottom Line
+        Key Takeaway
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Mold in your home is stressful, but it does not mean your claim is dead. Understand the

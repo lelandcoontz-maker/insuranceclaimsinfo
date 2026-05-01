@@ -108,7 +108,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are dealing with a sewage loss, the scope and cost of proper remediation will
         likely exceed the insurance company&apos;s initial estimate. A licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can help ensure the remediation is priced correctly and that the insurer covers the full

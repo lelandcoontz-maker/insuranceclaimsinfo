@@ -35,7 +35,7 @@ export default function Content() {
           should have legal representation for this
         </li>
         <li>
-          <strong>The statute of limitations is approaching</strong> and the claim isn&apos;t resolved
+          <strong>The statute of limitations is approaching</strong> and the claim is not resolved
         </li>
         <li>
           <strong>The claim involves serious bodily injury</strong> or liability issues
@@ -57,16 +57,16 @@ export default function Content() {
         disputes, bad faith claims, and litigation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Many claims are best served by a PA first. If the PA can&apos;t resolve the dispute,
+        Many claims are best served by a PA first. If the PA cannot resolve the dispute,
         an attorney steps in. Some situations need both from the start. A good PA will tell
-        you when it&apos;s time to bring in an attorney.
+        you when it is time to bring in an attorney.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Understanding Bad Faith vs. Breach of Contract</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         People throw around the term &quot;bad faith&quot; loosely, but it has a specific legal
         meaning. Most cases where the insured wins against the carrier are actually breach of
-        contract cases &mdash; the carrier simply didn&apos;t pay what the policy required. Bad
+        contract cases &mdash; the carrier simply did not pay what the policy required. Bad
         faith is a separate, harder claim that requires showing the carrier acted unreasonably
         and without proper cause.
       </p>

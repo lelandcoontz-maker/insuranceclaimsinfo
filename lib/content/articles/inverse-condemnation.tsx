@@ -15,7 +15,7 @@ export default function Content() {
         transformer, inadequate vegetation clearance — you have a potential claim against the utility
         company that goes far beyond what your insurance policy pays. In California, one of the most
         powerful legal tools for wildfire victims is <strong>inverse condemnation</strong>: a
-        strict-liability cause of action that doesn&apos;t require you to prove the utility was
+        strict-liability cause of action that does not require you to prove the utility was
         negligent.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -25,10 +25,10 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Why This Matters Even If You Have Insurance">
         <p>
-          Your insurance policy has limits. If you&apos;re underinsured — and the majority of
+          Your insurance policy has limits. If you are underinsured — and the majority of
           wildfire victims are — an inverse condemnation claim against the responsible utility can
           recover the gap between your insurance proceeds and your actual losses. It can also
-          recover damages that insurance doesn&apos;t cover at all, such as emotional distress
+          recover damages that insurance does not cover at all, such as emotional distress
           and diminished property value.
         </p>
       </CalloutBox>
@@ -40,7 +40,7 @@ export default function Content() {
         The government (and entities acting under government authority, like investor-owned utilities)
         has the power of &ldquo;eminent domain&rdquo; — the right to take private property for
         public use, with just compensation. When the government takes your property through formal
-        proceedings, that&apos;s <em>condemnation</em>.
+        proceedings, that is <em>condemnation</em>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Inverse condemnation</strong> is the reverse: the property owner sues the government
@@ -71,7 +71,7 @@ export default function Content() {
         <li>The utility operates its infrastructure for <strong>public use</strong></li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Neither foreseeability nor fault need be shown. The utility doesn&apos;t escape liability
+        Neither foreseeability nor fault need be shown. The utility does not escape liability
         by showing it followed all safety regulations or used reasonable care. If their equipment
         started the fire, they pay.
       </p>
@@ -139,7 +139,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Water districts and other public entities.</strong> If a public entity&apos;s
-          infrastructure contributes to property damage (e.g., failed water systems that couldn&apos;t
+          infrastructure contributes to property damage (e.g., failed water systems that could not
           fight the fire), inverse condemnation may apply.
         </li>
       </ul>
@@ -153,7 +153,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Cost to repair or rebuild</strong> the damaged property</li>
-        <li><strong>Diminution in property value</strong> (for damage that can&apos;t be fully repaired)</li>
+        <li><strong>Diminution in property value</strong> (for damage that cannot be fully repaired)</li>
         <li><strong>Loss of use</strong> (temporary housing, lost rental income)</li>
         <li><strong>Personal property</strong> destroyed in the fire</li>
         <li><strong>Business losses</strong> (lost income, extra expenses)</li>
@@ -211,7 +211,7 @@ export default function Content() {
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>File your insurance claim immediately.</strong> Don&apos;t wait for the utility
+          <strong>File your insurance claim immediately.</strong> Do not wait for the utility
           litigation. Your policy has deadlines and your insurer owes you money now.
         </li>
         <li>
@@ -227,7 +227,7 @@ export default function Content() {
         <li>
           <strong>Understand the offset.</strong> You cannot recover the same damages twice. If
           insurance pays $500,000 for your dwelling and the utility settlement also addresses
-          dwelling damage, those amounts offset. But damages your insurance didn&apos;t cover
+          dwelling damage, those amounts offset. But damages your insurance did not cover
           (underinsurance gap, uncovered losses, emotional distress) are additive.
         </li>
       </ol>

@@ -67,7 +67,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
           <>
             <p>
               Under California's Fair Claims Settlement Practices Regulations (10 CCR
-              2695.7(d)), the insurance company is required to provide you with all
+              2695.9(d)(1)), the insurance company is required to provide you with all
               documentation that supports their coverage or valuation decisions, including
               photographs taken by their adjuster. These photos were taken of your property
               and your loss, and you have every right to see them. If the insurer is claiming
@@ -75,7 +75,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               not valid for photos of your own property taken during the claims investigation.
             </p>
             <p>
-              Put your request in writing and specifically reference 10 CCR 2695.7(d). State
+              Put your request in writing and specifically reference 10 CCR 2695.9(d)(1). State
               that you are requesting copies of all photographs, videos, measurements, and
               inspection notes generated during the investigation of your claim. If the insurer
               continues to refuse, you should file a complaint with the California Department
@@ -233,7 +233,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               simply apply a blanket percentage across the board.
             </p>
             <p>
-              Under 10 CCR 2695.9(b), the insurer must provide you with a written explanation
+              Under 10 CCR 2695.9(f), the insurer must provide you with a written explanation
               of how they calculated depreciation, including the expected useful life and age of
               each item. Review the estimate line by line. If the insurer cannot justify the
               depreciation with specific reasoning, challenge it. A Public Adjuster can review
@@ -364,7 +364,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               replacement cost. However, California law provides important protections.
             </p>
             <p>
-              Under California Insurance Code Section 2051.5(c), the policy must allow a
+              Under California Insurance Code Section 2051.5(b), the policy must allow a
               reasonable time to complete repairs. If the delay in completing repairs was caused
               by the insurer — for example, if they took months to approve the scope of work,
               underpaid the initial estimate so you could not afford to start repairs, or
@@ -402,7 +402,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               You should exercise caution. Under California law, you have the right to hire the
               licensed contractor of your choice. The insurer may recommend a contractor from
               their "preferred vendor" or "managed repair" program, but they cannot force you to
-              use that contractor. Under 10 CCR 2695.9(b), if the insurer recommends a specific
+              use that contractor. Under 10 CCR 2695.9(c), if the insurer recommends a specific
               contractor, the insurer must guarantee the quality of that contractor's work. That
               guarantee obligation is important — it means the insurer is responsible if the
               preferred contractor does substandard work.
@@ -441,7 +441,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               you chose your own contractor, that is an improper claim practice.
             </p>
             <p>
-              Under 10 CCR 2695.9(b), if the insurer wants to recommend a contractor, they may
+              Under 10 CCR 2695.9(c), if the insurer wants to recommend a contractor, they may
               do so, but they must also guarantee the work of that contractor. This regulation
               actually creates an incentive for you to consider the insurer's contractor in some
               cases — because if the work is defective, the insurer is on the hook. However,
@@ -793,7 +793,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               damage was caused by a sudden event — a burst pipe, an appliance failure, a roof
               leak from a recent storm — the fact that mold grew afterward does not change the
               covered nature of the initial event. The mold is a consequence of the covered water
-              damage, not evidence that the damage wasn't covered.
+              damage, not evidence that the damage was not covered.
             </p>
             <p>
               If the insurer is denying your water damage claim based on the presence of mold,
@@ -835,7 +835,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               Review your contractor's invoice to see how the charges are broken down. The drying
               and water extraction work should clearly be covered under the water damage claim.
               The mold remediation charges should be argued as consequential to the covered water
-              loss. Have your contractor provide a clear breakdown if one doesn't exist. A Public
+              loss. Have your contractor provide a clear breakdown if one does not exist. A Public
               Adjuster can help you frame the claim properly and negotiate with the insurer to
               pay the full amount under the water damage coverage rather than capping it under
               the mold sublimit.
@@ -987,11 +987,11 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
             <p>
               <strong>Hire a Public Adjuster</strong> if the claim is moderate to large, involves
               multiple coverages (dwelling, contents, ALE), if you suspect underpayment, or if
-              you simply don't have the time or expertise to manage the process yourself. A Public
+              you simply do not have the time or expertise to manage the process yourself. A Public
               Adjuster handles the documentation, estimation, and negotiation — the day-to-day
               claims work. Most work on contingency, so there is no upfront cost.{' '}
               <strong>Hire an attorney</strong> if the insurer has denied your claim outright, if
-              there is a coverage dispute (the insurer says the loss isn't covered), if you
+              there is a coverage dispute (the insurer says the loss is not covered), if you
               suspect bad faith, or if there are legal issues like statute of limitations
               concerns. An attorney handles the legal dimension.{' '}
               <strong>Hire an expert contractor</strong> when you need a detailed scope of repair
@@ -1071,7 +1071,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               This is a surprisingly common issue, and whether the insurer handled it correctly
               depends on your specific policy language and the total documented loss. In many
               cases, when the loss clearly exceeds the policy limit, the deductible should
-              effectively disappear. Here's why: if your policy limit is $500,000, your
+              effectively disappear. Here is why: if your policy limit is $500,000, your
               deductible is $1,000, and the actual cost to rebuild your home is $600,000, the
               insurer owes you $500,000 — the full policy limit. The deductible reduces your
               recovery from the actual loss amount, not the policy limit. So $600,000 minus

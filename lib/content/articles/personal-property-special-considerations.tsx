@@ -64,7 +64,7 @@ export default function Content() {
           inspect internal components for signs of electrical overstress (EOS), including burned
           traces, damaged capacitors, and heat discoloration on circuit boards. However, not all
           surge damage leaves visible internal marks. Some damage occurs at the semiconductor level
-          and cannot be detected visually. Insurers exploit this ambiguity to deny or minimize surge
+          and cannot be detected visually. Insurers use this ambiguity to deny or minimize surge
           claims.
         </li>
         <li>
@@ -498,7 +498,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Electronics, rugs, and landscaping are three areas where the gap between what insurers
         pay and what the policy actually provides can be enormous. A licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         who understands these specialty categories can identify underpayments, challenge insurer

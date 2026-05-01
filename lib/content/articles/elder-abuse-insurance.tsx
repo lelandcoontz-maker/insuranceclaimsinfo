@@ -78,7 +78,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Age Is the Only Requirement for Elders">
         <p>
           A common misconception &mdash; one that insurance defense attorneys sometimes try to
-          exploit &mdash; is that the policyholder must appear vulnerable, confused, or
+          leverage &mdash; is that the policyholder must appear vulnerable, confused, or
           dependent to qualify as an &ldquo;elder&rdquo; under the Act. This is wrong. The
           statute defines &ldquo;elder&rdquo; solely by age: 65 or older. Whether the
           policyholder is a retired judge, a practicing physician, or someone who needs daily
@@ -118,7 +118,7 @@ export default function Content() {
           rebuild and being displaced indefinitely.
         </li>
         <li>
-          <strong>Lowball settlements designed to exploit vulnerability</strong> &mdash; Making
+          <strong>Lowball settlements designed to take advantage of vulnerability</strong> &mdash; Making
           an initial offer far below the actual value of the claim, knowing that an elderly
           policyholder may lack the energy, resources, or sophistication to fight for more. Many
           elderly policyholders accept inadequate settlements because they cannot endure the
@@ -163,7 +163,7 @@ export default function Content() {
         settlements, become incapacitated, or pass away before the claim is resolved.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When delay is used as a weapon against an elderly policyholder, it is not merely bad
+        When delay is used as a tool against an elderly policyholder, it is not merely bad
         faith &mdash; it is conduct that can constitute elder abuse under the Act, with all
         the enhanced remedies that entails.
       </p>
@@ -335,11 +335,14 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The financial abuse provision of the Elder Abuse Act (&sect;15610.30) has been applied
-        in contexts analogous to insurance claims handling. <em>Paslay v. State Farm General
-        Ins. Co.</em> is among the cases that have explored insurer liability under elder abuse
-        theories. Courts have recognized that when an insurer wrongfully withholds benefits
-        that are clearly owed &mdash; knowing the policyholder is elderly and vulnerable &mdash;
-        the conduct can constitute financial abuse under the Act.
+        in contexts analogous to insurance claims handling. In <em>Paslay v. State Farm General
+        Ins. Co.</em> (2016) 248 Cal.App.4th 639, the court addressed elder abuse claims in
+        the insurance context, ultimately applying the genuine dispute doctrine to the bad faith
+        and elder abuse causes of action while allowing the breach of contract claim to proceed.
+        The case illustrates both the potential for elder abuse claims against insurers and the
+        evidentiary standard required to sustain them. Courts have recognized that when an insurer
+        wrongfully withholds benefits that are clearly owed &mdash; knowing the policyholder is
+        elderly and vulnerable &mdash; the conduct can constitute financial abuse under the Act.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Additionally, in <em>Das v. Bank of America, N.A.</em> (2010) 186 Cal.App.4th 727,
@@ -599,10 +602,16 @@ export default function Content() {
           , ensure the policyholder is represented and prepared.
         </li>
         <li>
-          <strong>Act promptly</strong> &mdash; The statute of limitations for elder abuse
-          claims is generally four years from the date of the abuse, but other deadlines
-          (including policy suit limitation clauses) may apply to the underlying insurance
-          claim. Do not wait. Consult with an attorney early.
+          <strong>Act promptly</strong> &mdash; The statute of limitations differs depending
+          on the type of elder abuse. For <em>financial</em> elder abuse, the limitations period
+          is four years under Welfare &amp; Institutions Code Section 15657.7, with the clock
+          starting from the date of discovery or when the abuse reasonably should have been
+          discovered through reasonable diligence. For <em>physical abuse and neglect</em>, the
+          limitations period is two years under Code of Civil Procedure Section 335.1. Other
+          deadlines &mdash; including policy suit limitation clauses &mdash; may apply to the
+          underlying insurance claim as well. Statutes of limitations are subject to change and
+          involve complex legal analysis. Consult a licensed attorney to determine the applicable
+          deadline for your specific situation. Do not wait.
         </li>
       </ul>
 

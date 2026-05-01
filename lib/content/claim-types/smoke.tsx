@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Smoke Damage & Contamination: What Homeowners Need to Know',
   description:
-    'Learn the critical difference between wildfire smoke and urban wildfire smoke, why contamination IS damage, and how to fight back when your insurer tries to minimize a smoke damage claim.',
+    'Learn the critical difference between wildfire smoke and urban wildfire smoke, why contamination IS damage, and how to protect your rights when your insurer tries to minimize a smoke damage claim.',
 }
 
 export default function Content() {
@@ -114,7 +114,7 @@ export default function Content() {
           a fight. Courts in multiple jurisdictions have found that contamination rendering a
           property unsafe or uninhabitable does constitute physical loss or damage. Get independent
           testing, document the contamination, and consider consulting a{' '}
-          <Link href="/public-adjuster" className="underline hover:text-amber-950">
+          <Link href="/resources/public-adjuster" className="underline hover:text-amber-950">
             Public Adjuster
           </Link>{' '}
           who understands smoke contamination claims.

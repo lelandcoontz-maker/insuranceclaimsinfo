@@ -189,7 +189,7 @@ export default function Content() {
         companies routinely undervalue fire claims by underestimating rebuild costs, applying
         excessive depreciation to contents, and limiting loss-of-use payments prematurely. A
         licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can help ensure every part of your coverage is properly utilized after a fire loss.

@@ -39,17 +39,20 @@ export default function Content() {
         Why the Sampling Method Matters
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Different sampling methods have vastly different <strong>collection efficiencies</strong>{' '}
-        &mdash; the percentage of material on a surface that the method actually captures. When
-        a wipe sample collects only 30&ndash;60% of surface particulates while a microvacuum
-        sample captures 85&ndash;95%, the choice of method is not academic. It directly
-        determines whether contamination is detected, how severe it appears, and ultimately
-        whether your claim gets paid.
+        Different environmental sampling methods have distinct strengths depending on the surface
+        type and contaminant. Wipe sampling (governed by standards like ASTM D6661 for organic
+        compounds) and microvacuum sampling (ASTM D5755 for asbestos surface loading) each have
+        advantages: microvacuum sampling is generally more effective on rough or porous surfaces,
+        while wipe sampling may be more effective on smooth surfaces. A qualified environmental
+        hygienist will select the appropriate method based on the specific contaminants and surface
+        conditions being evaluated. The choice of method is not academic — it directly determines
+        whether contamination is detected, how severe it appears, and ultimately whether your claim
+        gets paid.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A carrier&rsquo;s consultant who uses wipe sampling for particulate soot &mdash; when
-        microvacuum sampling is the appropriate method &mdash; can undercount contamination by
-        50&ndash;70%. The resulting lab report then shows &ldquo;low levels&rdquo; of
+        microvacuum sampling is the more appropriate method &mdash; can significantly undercount
+        contamination. The resulting lab report then shows &ldquo;low levels&rdquo; of
         contamination, and the carrier denies or minimizes the claim. The contamination was
         real. The sampling method simply failed to capture it.
       </p>
@@ -75,8 +78,8 @@ export default function Content() {
           <strong>Results reported as:</strong> Micrograms per square centimeter (&mu;g/cm&sup2;)
         </li>
         <li>
-          <strong>Collection efficiency for particulates:</strong> Approximately 30&ndash;60%,
-          depending on surface texture and particle size
+          <strong>Collection efficiency for particulates:</strong> Generally lower than
+          microvacuum methods, particularly on rough or porous surfaces
         </li>
         <li>
           <strong>Key limitation:</strong> Poor at capturing fine particulates like soot, char,
@@ -110,8 +113,8 @@ export default function Content() {
           dust, and other solid particles from fire, smoke, and environmental events
         </li>
         <li>
-          <strong>Collection efficiency:</strong> Approximately 85&ndash;95% for surface
-          particulates &mdash; far superior to wipe sampling
+          <strong>Collection efficiency:</strong> Generally superior to wipe sampling for
+          surface particulates, particularly on rough or porous surfaces
         </li>
         <li>
           <strong>Key advantage:</strong> Preserves particle morphology, allowing the laboratory
@@ -125,9 +128,8 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         When assessing particulate contamination from fire or smoke damage, microvacuum sampling
-        is the appropriate method. Its dramatically higher collection efficiency means it
-        captures what is actually present on surfaces, rather than leaving 40&ndash;70% behind
-        as wipe sampling does.
+        is generally the more appropriate method. Its higher collection efficiency for particulates
+        means it captures more of what is actually present on surfaces compared to wipe sampling.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -199,7 +201,7 @@ export default function Content() {
         <li>
           <strong>Composite caution:</strong> Combining samples from multiple locations can
           dilute concentrations and mask &ldquo;hot spots&rdquo; of contamination &mdash; a
-          technique some carrier consultants exploit deliberately
+          technique some carrier consultants use deliberately
         </li>
       </ul>
 
@@ -225,10 +227,10 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The most common and most impactful error. Using wipe sampling for soot and char
-        particulates when microvacuum is the appropriate method can undercount contamination
-        by 50&ndash;70%. The lab report then shows &ldquo;acceptable&rdquo; levels, and the
-        carrier points to the report as justification for denial. The contamination was there.
-        The sampling method simply failed to capture it.
+        particulates when microvacuum is the more appropriate method can significantly undercount
+        contamination. The lab report then shows &ldquo;acceptable&rdquo; levels, and the carrier
+        points to the report as justification for denial. The contamination was there. The sampling
+        method simply failed to capture it.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

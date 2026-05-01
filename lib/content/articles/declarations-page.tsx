@@ -213,7 +213,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you need help interpreting your dec page or understanding how your coverages work
         together, a licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can review your policy and explain exactly what you are covered for — before or after a

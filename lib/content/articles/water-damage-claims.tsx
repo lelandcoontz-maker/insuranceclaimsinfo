@@ -12,7 +12,7 @@ export default function Content() {
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
         Water damage is the most common type of homeowner&apos;s insurance claim &mdash; and one
-        of the most frequently disputed. Whether it&apos;s a burst pipe, a failed water heater,
+        of the most frequently disputed. Whether it is a burst pipe, a failed water heater,
         a slab leak, or an appliance malfunction, the key question is always the same: is this
         a sudden and accidental loss, or a gradual leak?
       </p>
@@ -22,7 +22,7 @@ export default function Content() {
         to avoid payment.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What&apos;s Covered</h2>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What is Covered</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowner&apos;s policies cover water damage that is &quot;sudden and accidental.&quot;
         This includes:
@@ -36,7 +36,7 @@ export default function Content() {
         <li>Toilet overflow or supply line failure</li>
       </ul>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What&apos;s Typically Excluded</h2>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What is Typically Excluded</h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Flood damage (requires separate flood insurance)</li>
         <li>Gradual leaks and seepage</li>
@@ -45,9 +45,9 @@ export default function Content() {
         <li>Water intrusion through the foundation (in many policies)</li>
       </ul>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The &quot;Sudden vs. Gradual&quot; Battle</h2>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The &quot;Sudden vs. Gradual&quot; Dispute</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Here&apos;s where most water damage disputes begin. A pipe fails in your wall. The
+        Here is where most water damage disputes begin. A pipe fails in your wall. The
         insurance company sends an adjuster who looks at the damage and says, &quot;This has
         been leaking for a long time &mdash; this is a gradual leak, not a covered loss.&quot;
       </p>
@@ -58,7 +58,7 @@ export default function Content() {
         the condition of the pipe with the onset of the damage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Courts in many states have held that if the policyholder didn&apos;t know about the
+        Courts in many states have held that if the policyholder did not know about the
         leak and the resulting damage was not reasonably discoverable, the loss can still be
         considered &quot;sudden&quot; from the policyholder&apos;s perspective.
       </p>
@@ -98,7 +98,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Slab Leaks</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Slab leaks deserve special attention because they&apos;re extremely common in certain
+        Slab leaks deserve special attention because they are extremely common in certain
         regions and are frequently disputed. A slab leak occurs when a pipe running under or
         through the concrete slab foundation develops a leak.
       </p>

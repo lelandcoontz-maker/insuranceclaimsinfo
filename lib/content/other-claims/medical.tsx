@@ -72,12 +72,15 @@ export default function Content() {
       <CalloutBox variant="tip" title="Always File an Appeal">
         <p>
           If your health insurer denies a claim or procedure, do not accept the denial without
-          challenging it. Studies consistently show that a significant percentage of denied claims are
-          overturned on appeal. Request the specific reason for the denial in writing, ask your doctor
-          to provide a letter of medical necessity, and file a formal appeal within the timeframe
-          specified in your denial letter. Under the Affordable Care Act, most non-grandfathered
-          plans must give you at least 180 days to file an internal appeal, but confirm the
-          deadline in your denial letter before relying on any specific number.
+          challenging it. Data from the American Medical Association and state insurance regulators
+          shows that a substantial percentage of denied health insurance claims are overturned when
+          appealed. Despite this, fewer than 1% of denied claims are ever formally appealed, which
+          means many valid claims go unpaid simply because the policyholder did not challenge the
+          denial. Request the specific reason for the denial in writing, ask your doctor to provide
+          a letter of medical necessity, and file a formal appeal within the timeframe specified in
+          your denial letter. Under the Affordable Care Act, most non-grandfathered plans must give
+          you at least 180 days to file an internal appeal, but confirm the deadline in your denial
+          letter before relying on any specific number.
         </p>
       </CalloutBox>
 

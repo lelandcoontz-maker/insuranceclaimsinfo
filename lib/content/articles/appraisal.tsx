@@ -15,7 +15,7 @@ export default function Content() {
       <div className="bg-[#1F3964] text-white rounded-xl p-6 mb-8">
         <h2 className="text-xl font-bold mb-2">Do You Have an Insurance Appraisal — in California or Another State?</h2>
         <p className="text-blue-200 text-sm mb-4">
-          Whether you&apos;ve received an appraisal demand from your insurer or you&apos;re
+          Whether you have received an appraisal demand from your insurer or you are
           considering invoking appraisal yourself, a licensed Public Adjuster can serve as your
           appraiser, prepare your estimate, and fight for the full value of your loss. Tell us
           about your situation — no cost, no obligation.
@@ -777,6 +777,21 @@ export default function Content() {
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         You Do Not Have to Sign Immediately — or at All
       </h3>
+
+      <CalloutBox variant="important" title="Professional Guidance Recommended">
+        <p>
+          Decisions about whether and when to sign a White waiver have significant legal
+          implications and should be made with the guidance of a licensed attorney experienced
+          in insurance coverage disputes. A Public Adjuster can assist with the claims-handling,
+          documentation, and negotiation aspects of your claim.
+          If you need help finding a qualified professional,{' '}
+          <Link href="/contact" className="text-[#2E74B5] hover:underline">
+            contact us
+          </Link>{' '}
+          for a referral.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         There is usually no compelling reason to sign a White waiver immediately. The insurer may
         present it with urgency, as though the settlement discussion cannot proceed without it.
@@ -877,7 +892,7 @@ export default function Content() {
         </ol>
       </div>
 
-      <CalloutBox variant="important" title="The Bottom Line on White Waivers">
+      <CalloutBox variant="important" title="Key Takeaway on White Waivers">
         <p>
           A White waiver is not a neutral document — it exists because <em>White v. Western
           Title</em> gave policyholders a powerful tool, and insurers want to take it back. When
@@ -1239,7 +1254,7 @@ export default function Content() {
       <div className="bg-[#1F3964] text-white rounded-xl p-6 mt-8">
         <h3 className="text-xl font-bold mb-2">Need Help With an Appraisal?</h3>
         <p className="text-blue-200 text-sm mb-4">
-          Whether you&apos;re the one invoking appraisal or your insurance company has demanded it,
+          Whether you are the one invoking appraisal or your insurance company has demanded it,
           having an experienced professional on your side makes the difference. As a licensed
           California Public Adjuster, I serve as the policyholder&apos;s appraiser, prepare
           detailed Xactimate estimates, and advocate for the full value of your loss through the
@@ -1249,6 +1264,16 @@ export default function Content() {
           Request a Free Appraisal Consultation →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

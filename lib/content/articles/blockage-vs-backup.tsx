@@ -33,7 +33,7 @@ export default function Content() {
       {/* ================================================================ */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How a Second-Floor Bathroom Drains &mdash; and What Happens When It Can&apos;t
+        How a Second-Floor Bathroom Drains &mdash; and What Happens When It Cannot
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         To understand why water comes out of the fixtures it does, you need to understand the basic
@@ -323,7 +323,7 @@ export default function Content() {
           <rect x="60" y="610" width="380" height="65" rx="8" fill="#fff4ec" stroke="#c45028" strokeWidth="1.5"/>
           <text x="250" y="632" textAnchor="middle" fontSize="12" fontWeight="700" fill="#c45028">Water rises and overflows from the</text>
           <text x="250" y="650" textAnchor="middle" fontSize="12" fontWeight="700" fill="#c45028">LOWEST fixtures (shower &amp; bathtub) first</text>
-          <text x="250" y="668" textAnchor="middle" fontSize="10" fill="#888">{"Sink won't overflow until water rises above 30\""}</text>
+          <text x="250" y="668" textAnchor="middle" fontSize="10" fill="#888">{"Sink will not overflow until water rises above 30\""}</text>
           <line x1="350" y1="610" x2="546" y2="540" stroke="#c45028" strokeWidth="1.2" markerEnd="url(#arrowRed)" strokeDasharray="4,3"/>
 
           {/* LEGEND */}
@@ -397,7 +397,7 @@ export default function Content() {
       {/* ================================================================ */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What Is a &quot;Backup&quot; &mdash; and Why This Isn&apos;t One
+        What Is a &quot;Backup&quot; &mdash; and Why This Is not One
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         In the insurance adjusting world &mdash; at least among adjusters who understood the distinction
@@ -423,7 +423,7 @@ export default function Content() {
         overflowing from the shower drain is the same water that went down the sink or toilet moments
         earlier. Nothing is entering from outside. This is, mechanically, no different from plugging
         your kitchen sink drain and letting the faucet run &mdash; the water overflows because it
-        can&apos;t drain, not because something is pushing it in from outside.
+        cannot drain, not because something is pushing it in from outside.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The term &quot;fill-up&quot; is more commonly used in the South and Midwest than on the West
@@ -450,7 +450,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Consider this example: a family member flushes something down the second-floor toilet that
-        shouldn&apos;t have been flushed &mdash; a child&apos;s toy, a clump of supposedly &quot;flushable&quot;
+        should not have been flushed &mdash; a child&apos;s toy, a clump of supposedly &quot;flushable&quot;
         wipes, or an excessive amount of toilet paper. This creates a blockage in the drain line within the
         wall cavity. The next morning, when someone takes a shower, the water has nowhere to go and begins
         pouring out of the shower drain and bathtub drain onto the bathroom floor, eventually seeping through
@@ -604,7 +604,7 @@ export default function Content() {
         </svg>
         <p className="text-gray-500 text-sm mt-3 italic">
           Figure 2: The same pipe, two very different coverage outcomes. Blockage &quot;A&quot; is inside
-          the property line &mdash; it&apos;s an internal plumbing stoppage, and the resulting overflow
+          the property line &mdash; it is an internal plumbing stoppage, and the resulting overflow
           is a covered loss. Blockage &quot;B&quot; is outside the property line in the public sewer
           system &mdash; if sewage is forced back into the home from this external source, the sewer
           backup exclusion may apply.
@@ -619,7 +619,7 @@ export default function Content() {
         What a True Sewer Backup Actually Looks Like
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Now that we&apos;ve established what a backup <em>isn&apos;t</em>, let&apos;s illustrate what a true
+        Now that we have established what a backup <em>is not</em>, let us illustrate what a true
         sewer backup actually is &mdash; because the contrast makes the distinction unmistakable.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -635,9 +635,9 @@ export default function Content() {
         between the junction and the treatment plant. Sewage from the restaurant continues flowing downhill,
         hits the blockage, and has nowhere to go. The pipe fills up. Because the home in the valley sits
         at a lower elevation, physics takes over: the column of sewage in the main line exerts hydraulic
-        pressure back up through the wye fitting and into the home&apos;s sewer lateral. It&apos;s
+        pressure back up through the wye fitting and into the home&apos;s sewer lateral. It is
         essentially an <strong>artesian well effect</strong> &mdash; but instead of fresh groundwater,
-        it&apos;s sewage flowing the wrong direction, forced uphill by the weight of the sewage column
+        it is sewage flowing the wrong direction, forced uphill by the weight of the sewage column
         above it, and out through the home&apos;s lowest fixtures.
       </p>
 
@@ -818,8 +818,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Compare that to the internal blockage scenario: if a homeowner sees their own household waste
         water &mdash; maybe slightly discolored or soapy &mdash; rising up through the shower drain after
-        the toilet is flushed, that is their own water that simply can&apos;t drain past a blockage in
-        their own pipes. Nobody else&apos;s waste is involved. That&apos;s a stoppage and overflow, not
+        the toilet is flushed, that is their own water that simply cannot drain past a blockage in
+        their own pipes. Nobody else&apos;s waste is involved. That is a stoppage and overflow, not
         a backup.
       </p>
 
@@ -986,22 +986,22 @@ export default function Content() {
         A Related Exclusion Trap: The &quot;Underground Pipe&quot; in a Slab-on-Grade Home
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While we&apos;re discussing how insurance companies misapply exclusions to plumbing losses,
+        While we are discussing how insurance companies misapply exclusions to plumbing losses,
         there is another exclusion that deserves attention &mdash; and it is currently the subject of
         significant litigation in California. Many homeowner&apos;s policies exclude damage from
         &quot;water below the surface of the ground&quot; or from &quot;underground water pipes.&quot;
         When a pipe breaks under or within a concrete slab foundation, some insurers &mdash; most
         notably State Farm &mdash; have applied this exclusion to deny the claim. The argument is that
-        the pipe is &quot;underground&quot; because it&apos;s in the dirt.
+        the pipe is &quot;underground&quot; because it is in the dirt.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That argument is wrong, and here&apos;s why.
+        That argument is wrong, and here is why.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">How Slab-on-Grade Construction Works</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In slab-on-grade construction &mdash; the most common foundation type in California and
-        throughout the Sun Belt &mdash; the builder doesn&apos;t simply pour concrete on the natural
+        throughout the Sun Belt &mdash; the builder does not simply pour concrete on the natural
         ground. The process involves several steps:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
@@ -1320,7 +1320,7 @@ export default function Content() {
       <CalloutBox variant="warning" title="Adverse Authority">
         <p>
           There is adverse authority on this issue. The Tenth Circuit, applying Kansas law, held in{' '}
-          <em>Auto-Owners Insurance Co. v. Excelsior Westbrook III, LLC</em> (2025) that a similar
+          <em>Auto-Owners Insurance Co. v. Excelsior Westbrook III, LLC</em> (2024) that a similar
           water exclusion was unambiguous and barred coverage for a pipe break beneath a building.
           However, Kansas has significantly weaker pro-policyholder interpretive rules than California.
           California&apos;s strict construction of exclusions, reasonable expectations doctrine, and
@@ -1354,7 +1354,7 @@ export default function Content() {
             </tr>
             <tr className="border-b bg-gray-50">
               <td className="p-3 font-semibold">Where does the water come from?</td>
-              <td className="p-3">The home&apos;s own water/waste that can&apos;t drain</td>
+              <td className="p-3">The home&apos;s own water/waste that cannot drain</td>
               <td className="p-3">External sewage forced into the home</td>
             </tr>
             <tr className="border-b">
@@ -1405,7 +1405,7 @@ export default function Content() {
           defeat the backup exclusion under the weight of authority from multiple jurisdictions.
         </li>
         <li>
-          <strong>If your claim is denied, don&apos;t accept it at face value.</strong> An insurer who
+          <strong>If your claim is denied, do not accept it at face value.</strong> An insurer who
           denies a claim under the backup exclusion bears the burden of proving that exclusion applies.
           If they cannot prove the blockage was outside your property line, the denial may not hold up.
         </li>

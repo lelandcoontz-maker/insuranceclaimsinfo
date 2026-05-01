@@ -119,7 +119,7 @@ export default function Content() {
         frequently underpaid simply because the documentation was never pulled together.
       </p>
 
-      <CalloutBox variant="tip" title="Extra Expense vs. Business Income — Don&apos;t Mix Them Up">
+      <CalloutBox variant="tip" title="Extra Expense vs. Business Income — Do not Mix Them Up">
         <p>
           Extra expense and business income are <strong>separate coverages</strong> with separate
           limits. A well-built claim itemizes each cost against the coverage it belongs under.

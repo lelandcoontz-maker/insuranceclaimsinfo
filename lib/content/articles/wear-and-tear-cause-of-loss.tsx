@@ -11,7 +11,7 @@ export default function Content() {
   return (
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you&apos;ve filed a property insurance claim — especially a roof claim — there is a
+        If you have filed a property insurance claim — especially a roof claim — there is a
         good chance the insurance company told you that your damage is &ldquo;wear and tear&rdquo;
         and therefore not covered. This is the single most common basis for denying or reducing
         property claims in California, and it is based on a fundamental misreading of the policy.
@@ -54,7 +54,7 @@ export default function Content() {
         <li>
           Did the shingles spontaneously fall off because they were old? <strong>No.</strong> They
           were on the roof the day before the storm. They were functioning — keeping water out. They
-          weren&apos;t pretty, but they were doing their job.
+          were not pretty, but they were doing their job.
         </li>
         <li>
           Did the wind blow them off? <strong>Yes.</strong> The shingles were on the roof before the
@@ -62,14 +62,14 @@ export default function Content() {
         </li>
         <li>
           Were the shingles more vulnerable to wind because of their age? <strong>Probably.</strong>{' '}
-          A brand-new shingle might have survived the same gusts. But that doesn&apos;t change the
-          cause. The shingles didn&apos;t fail on their own. They failed because of wind.
+          A brand-new shingle might have survived the same gusts. But that does not change the
+          cause. The shingles did not fail on their own. They failed because of wind.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the &ldquo;but for&rdquo; test: <strong>But for the wind, would the shingles have
         been damaged at that time?</strong> If the answer is no — the shingles would still be on the
-        roof if the wind hadn&apos;t blown — then wind is the cause of loss, not wear and tear. The
+        roof if the wind had not blown — then wind is the cause of loss, not wear and tear. The
         condition of the shingles may have made them more susceptible to wind, but susceptibility is
         not causation.
       </p>
@@ -78,7 +78,7 @@ export default function Content() {
         What the Policy Actually Says
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Let&apos;s look at the actual exclusion language. A standard HO-3 policy (ISO form) reads:
+        Let us look at the actual exclusion language. A standard HO-3 policy (ISO form) reads:
       </p>
       <div className="bg-gray-50 border border-gray-200 rounded-lg p-5 mb-6 text-gray-800 text-sm italic">
         <p className="mb-2">We do not insure for loss caused directly or indirectly by any of the following. Such loss is excluded regardless of any other cause or event contributing concurrently or in any sequence to the loss:</p>
@@ -87,9 +87,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Notice the structure: &ldquo;We do not insure for <strong>loss caused</strong> ... by ...
         wear and tear.&rdquo; The exclusion is about what <em>caused</em> the loss. It is not about
-        the condition of the property. The policy doesn&apos;t say &ldquo;We do not insure property
-        that has experienced wear and tear.&rdquo; It doesn&apos;t say &ldquo;We do not insure
-        property that is old.&rdquo; It doesn&apos;t say &ldquo;We do not insure property that is
+        the condition of the property. The policy does not say &ldquo;We do not insure property
+        that has experienced wear and tear.&rdquo; It does not say &ldquo;We do not insure
+        property that is old.&rdquo; It does not say &ldquo;We do not insure property that is
         in less than perfect condition.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -102,7 +102,7 @@ export default function Content() {
         <p>
           Every roof ages. Every pipe corrodes. Every floor wears. If the mere presence of wear and
           tear were enough to deny a claim, the exclusion would eliminate coverage for every property
-          that isn&apos;t brand new. That is not what the exclusion means, and that is not how it
+          that is not brand new. That is not what the exclusion means, and that is not how it
           operates. It excludes losses <em>caused by</em> deterioration — a shingle that
           crumbles and falls off on a calm day because it has reached the end of its useful life.
           It does not exclude storm damage to a shingle that happened to be old.
@@ -231,7 +231,7 @@ export default function Content() {
         simply because the wind happened to damage old materials.
       </p>
 
-      <CalloutBox variant="legal" title="Anti-Concurrent Causation Clauses Don&apos;t Save the Carrier Here">
+      <CalloutBox variant="legal" title="Anti-Concurrent Causation Clauses Do not Save the Carrier Here">
         <p>
           Many policies include anti-concurrent causation (ACC) language that attempts to deny
           coverage when an excluded cause contributes &ldquo;in any sequence&rdquo; to the loss.
@@ -258,7 +258,7 @@ export default function Content() {
         </li>
         <li>
           <strong>&ldquo;The damage is consistent with age-related wear.&rdquo;</strong> — Even if
-          some damage on the roof is attributable to age, that doesn&apos;t mean the specific damage
+          some damage on the roof is attributable to age, that does not mean the specific damage
           being claimed was caused by age. Storm damage can exist on the same roof as pre-existing
           wear. See our guide on{' '}
           <Link href="/resources/pre-existing-vs-storm-damage" className="text-[#2E74B5] hover:underline">
@@ -273,7 +273,7 @@ export default function Content() {
         </li>
         <li>
           <strong>&ldquo;The sealant strip had failed due to aging.&rdquo;</strong> — Sealant strip
-          adhesion weakens over time on all shingles. But a shingle with weak sealant doesn&apos;t
+          adhesion weakens over time on all shingles. But a shingle with weak sealant does not
           blow off in calm conditions — it blows off when wind acts on it. The cause of loss is
           still wind.
         </li>

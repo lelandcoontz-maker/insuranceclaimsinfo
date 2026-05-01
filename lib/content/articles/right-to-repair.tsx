@@ -24,7 +24,7 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">How Right to Repair Works</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a carrier invokes their right to repair, they select and pay a contractor
-        directly to perform the repairs. The homeowner doesn&apos;t receive a check &mdash;
+        directly to perform the repairs. The homeowner does not receive a check &mdash;
         the money goes straight to the carrier&apos;s chosen contractor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -46,7 +46,7 @@ export default function Content() {
           or check their website. Licensed contractors must post a $12,500 bond.
         </li>
         <li>
-          <strong>Ask for references.</strong> Visit homes where they&apos;ve done work and
+          <strong>Ask for references.</strong> Visit homes where they have done work and
           review the quality.
         </li>
         <li>
@@ -54,11 +54,11 @@ export default function Content() {
           timeline, and materials to be used.
         </li>
         <li>
-          <strong>Don&apos;t allow excessive down payments.</strong> In California, contractors
+          <strong>Do not allow excessive down payments.</strong> In California, contractors
           can only collect $1,000 or 10% of the total cost, whichever is less.
         </li>
         <li>
-          <strong>Schedule payments based on completed work.</strong> Don&apos;t let payments
+          <strong>Schedule payments based on completed work.</strong> Do not let payments
           get ahead of the work actually done.
         </li>
         <li>
@@ -104,12 +104,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Even if you accept the carrier&apos;s contractor, you have every right to monitor
         the work, demand quality, and raise concerns. Keep a detailed log of the work being
-        done, take daily photos, and don&apos;t sign off on completed work until you&apos;re
+        done, take daily photos, and do not sign off on completed work until you are
         satisfied it meets professional standards.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you encounter problems with the carrier&apos;s contractor, document everything in
-        writing and notify both the contractor and the insurance company. If the issues aren&apos;t
+        writing and notify both the contractor and the insurance company. If the issues are not
         resolved, consult with a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           public adjuster

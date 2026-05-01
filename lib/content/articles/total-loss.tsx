@@ -19,8 +19,8 @@ export default function Content() {
         insurer has every financial incentive to limit what it pays on each one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        After 20-plus years handling these claims as a licensed Public Adjuster in California, I can
-        tell you that the policyholders who recover the most are the ones who understand every
+        After more than 20 years in the insurance industry — first as a company adjuster, then as a
+        licensed Public Adjuster in California — the policyholders who recover the most are the ones who understand every
         coverage available to them — and fight for every dollar on every one. This guide walks you
         through how total loss claims work, what you are entitled to, and where insurers try to
         shortchange you.
@@ -459,6 +459,16 @@ export default function Content() {
         for a free consultation. We have handled hundreds of total loss claims across California and
         we are happy to discuss your specific situation.
       </p>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

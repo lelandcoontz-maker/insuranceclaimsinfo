@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Scope of Loss Disputes: Fighting for Full Repairs',
+  title: 'Scope of Loss Disputes: When the Adjuster Misses Damage',
   description:
-    'Understanding scope of loss disputes — what they are, why they happen, how to document missed damage, and when to push back on the insurer\'s estimate of required repairs.',
+    'Understanding scope of loss disputes with insurers — what they are, why carriers undercount damage, how to document items the adjuster missed, and strategies for challenging an inadequate repair estimate.',
 }
 
 export default function Content() {
@@ -161,13 +161,23 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can help you at every stage of a scope dispute — from performing an independent damage
         assessment, to preparing a detailed competing estimate, to managing the appraisal process
         if it comes to that. Do not settle for less than the full cost of proper repairs.
       </p>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

@@ -25,7 +25,7 @@ export default function Content() {
         your claim. While many adjusters are fair and competent, it is important to understand the
         structural incentives at play. The adjuster works for the insurance company. Their
         performance is often measured in part by how efficiently they close claims and how well they
-        control costs. This does not mean every adjuster is trying to cheat you, but it does mean
+        control costs. This does not mean every adjuster is acting against your interests, but it does mean
         their interests are not perfectly aligned with yours.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -188,8 +188,8 @@ export default function Content() {
         In California, some carriers will not make a settlement offer until you sign a{' '}
         <strong>White waiver</strong> — a written agreement giving up your right to use the
         insurer&apos;s offers as evidence of bad faith. The name comes from{' '}
-        <em>White v. Western Title Ins. Co.</em> (1985), the California Supreme Court decision
-        that made lowball settlement offers admissible in a bad faith case. A White waiver is
+        <em>White v. Western Title Ins. Co.</em> (1985) 40 Cal.3d 870, the California Supreme
+        Court decision that made lowball settlement offers admissible in a bad faith case. A White waiver is
         often a signal that the insurer knows the claim has been underpaid — if the offer were
         fair, there would be little reason to shield it from scrutiny. You are not required to
         sign, and there is usually no compelling reason to sign immediately. Read our{' '}

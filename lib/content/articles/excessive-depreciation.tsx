@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Excessive Depreciation: How Insurance Companies Shortchange Your Claim and How to Fight Back',
+  title: 'Excessive Depreciation: How Insurance Companies Shortchange Your Claim and What You Can Do',
   description:
     'Insurance companies routinely apply excessive depreciation to reduce claim payments. Learn the rules they violate — no depreciation on labor, long-life components, or undamaged matching areas — and how to push back under California law.',
 }
@@ -247,8 +247,8 @@ export default function Content() {
           If the insurer properly follows this rule, the estimate should show <strong>two
           separate line items</strong> for the roof: one for the damaged front slope (with
           depreciation) and one for the undamaged back slope being replaced for matching
-          (with zero or minimal depreciation). In over 20 years of practice, I have never seen
-          an insurance company actually do this &mdash; even though the regulation requires it.
+          (with zero or minimal depreciation). Industry experience shows that insurance companies
+          almost never actually do this &mdash; even though the regulation requires it.
           They apply the same depreciation rate to the entire roof, including the undamaged
           matching areas, and the policyholder never knows the difference.
         </p>
@@ -577,7 +577,7 @@ export default function Content() {
       </CalloutBox>
 
       <h2 id="bottom-line" className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Bottom Line
+        Key Takeaway
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Excessive depreciation is one of the most common and least-challenged ways insurance

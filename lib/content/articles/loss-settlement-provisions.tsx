@@ -42,7 +42,7 @@ export default function Content() {
         the depreciated value.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, even under a replacement cost policy, you typically don&apos;t receive the full
+        However, even under a replacement cost policy, you typically do not receive the full
         replacement cost upfront. This is where the holdback comes in.
       </p>
 
@@ -71,9 +71,9 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="You Must Actually Repair to Collect the Holdback">
         <p>
-          If you take the ACV payment and don&apos;t repair, you forfeit the holdback. This is
+          If you take the ACV payment and do not repair, you forfeit the holdback. This is
           one of the most costly mistakes policyholders make — especially on contents claims where
-          they don&apos;t realize they need to actually purchase replacement items to collect the
+          they do not realize they need to actually purchase replacement items to collect the
           full amount. See our guide on{' '}
           <Link href="/resources/acv-rcv" className="underline font-semibold">ACV vs. RCV</Link>.
         </p>
@@ -95,8 +95,8 @@ export default function Content() {
         <strong>&ldquo;Like kind and quality&rdquo;</strong> is a critical phrase. It means the
         insurer must pay to restore your property to its pre-loss condition using comparable
         materials — not the cheapest available option. If your home had hardwood floors, the insurer
-        can&apos;t pay for laminate and call it &ldquo;like kind.&rdquo; If your cabinets were
-        custom, they can&apos;t substitute stock cabinets.
+        cannot pay for laminate and call it &ldquo;like kind.&rdquo; If your cabinets were
+        custom, they cannot substitute stock cabinets.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -169,10 +169,10 @@ export default function Content() {
         Rebuilding at a Different Location
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        What if you don&apos;t want to rebuild on the same lot? Most California replacement cost
+        What if you do not want to rebuild on the same lot? Most California replacement cost
         policies allow you to rebuild at a different location, but the payment is limited to what
         it would have cost to rebuild at the <em>original</em> location. If the new location is
-        cheaper, you get the cheaper amount. If it&apos;s more expensive, you get only what the
+        cheaper, you get the cheaper amount. If it is more expensive, you get only what the
         original rebuild would have cost.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -271,8 +271,8 @@ export default function Content() {
         minimum is 12 months from the date the ACV payment is made &mdash; not from the date of
         loss. This distinction matters because there can be months or even years between the date
         of loss and the date the insurer actually issues the ACV payment. After a declared disaster
-        in California, these deadlines may be extended. If you&apos;re approaching a deadline and
-        haven&apos;t completed or incurred repairs, notify the insurer in writing and request an
+        in California, these deadlines may be extended. If you are approaching a deadline and
+        have not completed or incurred repairs, notify the insurer in writing and request an
         extension before the deadline passes.
       </p>
 
@@ -316,6 +316,16 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

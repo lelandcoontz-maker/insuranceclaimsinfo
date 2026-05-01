@@ -103,10 +103,16 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurers are aware of this doctrine and have responded by adding &quot;anti-concurrent
-        causation&quot; clauses to many policies. These clauses attempt to exclude losses where a
-        covered and excluded peril act together. The enforceability of these clauses varies and has
-        been challenged in California courts. If your denial involves mixed causes, this is an area
-        where professional guidance is essential.
+        causation&quot; (ACC) clauses to many policies. These clauses attempt to exclude losses
+        where a covered and excluded peril act together. In California, ACC clauses are
+        unenforceable to the extent they conflict with the efficient proximate cause doctrine
+        (Insurance Code Section 530). This has been settled law since <em>Garvey v. State Farm</em>{' '}
+        (1989) 48 Cal.3d 395, confirmed by <em>Julian v. Hartford Underwriters</em> (2005) 35
+        Cal.4th 747, and codified for wildfire-related mudslide losses by Insurance Code Section
+        530.5 (2018). However, insurers continue to include ACC clauses in policies and invoke them
+        in claim denials, so policyholders should be aware of the ongoing tension between what
+        policies say and what California law allows. If your denial involves mixed causes, this is
+        an area where professional guidance is essential.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -166,12 +172,22 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         A licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can also help you navigate coverage disputes by reviewing your policy language, preparing a
         detailed written response, and managing communications with the insurer on your behalf.
       </p>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

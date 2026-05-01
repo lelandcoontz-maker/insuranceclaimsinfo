@@ -78,6 +78,14 @@ const CATEGORIES = [
         tagColor: 'bg-amber-100 text-amber-700',
       },
       {
+        icon: '🏠',
+        title: 'Replacement Cost vs. 100% Replacement Cost (Guaranteed, Extended, Unlimited)',
+        desc: 'Standard RC, extended RC, and guaranteed RC are not the same. Learn the difference and why it matters most after a disaster.',
+        href: '/resources/replacement-cost-vs-guaranteed',
+        tag: 'Must Read',
+        tagColor: 'bg-red-100 text-red-700',
+      },
+      {
         icon: '📊',
         title: 'Coinsurance Penalties',
         desc: 'What coinsurance is, how the penalty works, and how being underinsured can cost you more than you think.',
@@ -389,7 +397,7 @@ const CATEGORIES = [
       {
         icon: '📏',
         title: 'Scope of Loss Disputes',
-        desc: 'When the insurer misses damage — how to document, dispute, and fight for full repairs.',
+        desc: 'When the insurer misses damage — how to document, dispute, and recover the full cost of repairs.',
         href: '/resources/scope-of-loss',
         tag: 'Disputes',
         tagColor: 'bg-orange-100 text-orange-700',
@@ -580,7 +588,7 @@ const CATEGORIES = [
       {
         icon: '🔨',
         title: 'Vandalism Claims',
-        desc: 'How to prove vandalism and fight back when insurers relabel your claim as wear and tear.',
+        desc: 'How to prove vandalism and push back when insurers relabel your claim as wear and tear.',
         href: '/resources/vandalism-claims',
         tag: 'Vandalism',
         tagColor: 'bg-teal-100 text-teal-700',

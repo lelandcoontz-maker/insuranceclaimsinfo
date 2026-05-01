@@ -64,7 +64,7 @@ export default function Content() {
         from a covered peril — fire, wind, falling objects, vandalism, and so on. What it does
         not cover is wear and tear, gradual deterioration, maintenance issues, and neglect. This
         distinction sounds simple, but in practice it creates a large gray area that insurers
-        exploit routinely.
+        use to their advantage routinely.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The most common gray area: a covered peril (wind) damages a roof that was already aging.
@@ -166,7 +166,7 @@ export default function Content() {
           <Link href="/resources/scope-of-loss" className="text-blue-700 underline hover:text-blue-900">
             scope of loss guide
           </Link>{' '}
-          for how to fight back.
+          for how to respond effectively.
         </li>
       </ul>
 

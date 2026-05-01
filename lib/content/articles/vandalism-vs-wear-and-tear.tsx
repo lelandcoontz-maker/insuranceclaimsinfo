@@ -83,11 +83,11 @@ export default function Content() {
         Vandalism vs. Hard Living and Wear and Tear
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The battle between policyholders and insurers on vandalism claims almost always centers
+        The dispute between policyholders and insurers on vandalism claims almost always centers
         on the insurer&rsquo;s attempt to recharacterize intentional damage as &ldquo;wear and
         tear&rdquo; or &ldquo;neglect.&rdquo; Understanding the three categories of property
         deterioration &mdash; and how courts distinguish between them &mdash; is essential to
-        winning this fight.
+        prevailing in this dispute.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

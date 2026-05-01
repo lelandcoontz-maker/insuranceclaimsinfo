@@ -15,8 +15,8 @@ export default function Content() {
         last-resort option for property owners who cannot obtain fire insurance through the private
         market. Originally designed for a small number of high-risk properties, the FAIR Plan has
         ballooned to over 450,000 policies as major carriers have pulled back from California. If
-        you&apos;ve been non-renewed or denied coverage, the FAIR Plan may be your most realistic
-        option — but you need to understand exactly what it does and doesn&apos;t cover.
+        you have been non-renewed or denied coverage, the FAIR Plan may be your most realistic
+        option — but you need to understand exactly what it does and does not cover.
       </p>
 
       <CalloutBox variant="warning" title="FAIR Plan ≠ Full Homeowner Coverage">
@@ -166,19 +166,19 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Alif v. California FAIR Plan (2025): Smoke-Damage Limitations Struck Down
+        Aliff v. California FAIR Plan (2025): Smoke-Damage Limitations Struck Down
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         For years, the FAIR Plan&apos;s policy form limited smoke-damage coverage to damage that
         caused a &ldquo;permanent physical change&rdquo; that was visible to the unaided eye. On
         that theory, the FAIR Plan routinely denied or minimized smoke claims — even when
         independent testing confirmed real contamination — because an adjuster could not see soot
-        on a wall. In <em>Alif v. California FAIR Plan Association</em> (2025), a California court
+        on a wall. In <em>Aliff v. California FAIR Plan Association</em> (2025), a California court
         held that this restrictive language was narrower than the coverage required by{' '}
         <strong>California Insurance Code &sect; 2070</strong>, the Standard Fire Policy statute
         that sets the floor for fire-insurance coverage in this state. An insurer can write broader
         coverage than &sect; 2070 requires — but it cannot write narrower coverage. Following{' '}
-        <em>Alif</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language.
+        <em>Aliff</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         What this means for FAIR Plan policyholders with smoke-damage claims:
@@ -196,14 +196,14 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          The ruling&apos;s rationale — that policy language can&apos;t dip below &sect; 2070 — is
+          The ruling&apos;s rationale — that policy language cannot dip below &sect; 2070 — is
           not limited to the FAIR Plan. Any California admitted carrier that uses similar narrowing
           language on smoke claims is exposed to the same legal challenge.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-6 italic">
         This summary is general information, not legal advice. Only a licensed California attorney
-        can advise you on whether <em>Alif</em> applies to your specific policy and claim.
+        can advise you on whether <em>Aliff</em> applies to your specific policy and claim.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -227,7 +227,7 @@ export default function Content() {
           for extended displacement in high-cost areas.
         </li>
         <li>
-          <strong>Underinsurance.</strong> If your dwelling limit doesn&apos;t reflect actual rebuild
+          <strong>Underinsurance.</strong> If your dwelling limit does not reflect actual rebuild
           costs, you&apos;ll face a significant gap. The FAIR Plan does not automatically adjust
           limits to keep pace with construction cost inflation.
         </li>

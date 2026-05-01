@@ -205,6 +205,19 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         While most California insurers are handling these claims consistently with the CDI&rsquo;s position, denials still occur. If your post-wildfire mudslide or earth movement claim is denied based on the earth movement exclusion, take these steps:
       </p>
+      <CalloutBox variant="important" title="Professional Guidance Recommended">
+        <p>
+          The legal strategies discussed in this section should be pursued with the guidance of
+          a licensed attorney experienced in insurance coverage disputes. A Public Adjuster can
+          assist with the claims-handling, documentation, and negotiation aspects of your claim.
+          If you need help finding a qualified professional,{' '}
+          <Link href="/contact" className="text-[#2E74B5] hover:underline">
+            contact us
+          </Link>{' '}
+          for a referral.
+        </p>
+      </CalloutBox>
+
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Request the denial in writing with specific policy language cited.</strong> Under California&rsquo;s{' '}
@@ -216,10 +229,10 @@ export default function Content() {
           <strong>Document the fire-to-mudslide causal chain.</strong> Gather evidence that the wildfire denuded the hillside and created the conditions for the subsequent earth movement. USGS debris flow hazard assessments, county geological surveys, Cal Fire burn perimeter maps, and National Weather Service post-fire warnings are all relevant evidence.
         </li>
         <li>
-          <strong>Cite the efficient proximate cause doctrine.</strong> In your response to the denial, reference <em>Sabella v. Wisler</em>, <em>Garvey v. State Farm</em>, Insurance Code &sect; 530, and the CDI&rsquo;s guidance. Make clear that California law requires the insurer to evaluate the predominant cause of the loss, not merely identify the last peril in the chain.
+          <strong>Cite the efficient proximate cause doctrine with the assistance of an attorney.</strong> An attorney experienced in insurance coverage disputes can reference <em>Sabella v. Wisler</em>, <em>Garvey v. State Farm</em>, Insurance Code &sect; 530, and the CDI&rsquo;s guidance in your response to the denial, making clear that California law requires the insurer to evaluate the predominant cause of the loss, not merely identify the last peril in the chain.
         </li>
         <li>
-          <strong>Address the ACC clause directly.</strong> If the denial relies on anti-concurrent causation language, respond that ACC clauses are unenforceable in California and cannot override the efficient proximate cause analysis.
+          <strong>Address the ACC clause directly with attorney guidance.</strong> If the denial relies on anti-concurrent causation language, an attorney can respond that ACC clauses are unenforceable in California and cannot override the efficient proximate cause analysis.
         </li>
         <li>
           <strong>File a CDI complaint if the insurer persists.</strong> If the insurer maintains its denial despite the applicable law, a complaint to the California Department of Insurance is appropriate. See our guide on{' '}

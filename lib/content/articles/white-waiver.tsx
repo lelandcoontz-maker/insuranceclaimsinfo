@@ -264,7 +264,7 @@ export default function Content() {
         </ol>
       </div>
 
-      <CalloutBox variant="important" title="The Bottom Line on White Waivers">
+      <CalloutBox variant="important" title="Key Takeaway on White Waivers">
         <p>
           A White waiver is not a neutral document — it exists because <em>White v. Western
           Title</em> gave policyholders a powerful tool, and insurers want to take it back. When

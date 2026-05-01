@@ -29,7 +29,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Scope control</strong> &mdash; the carrier controls what work gets done and
-          what doesn&apos;t
+          what does not
         </li>
         <li>
           <strong>Faster closures</strong> &mdash; preferred vendors are incentivized to close
@@ -59,7 +59,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Your Contractor Works for You">
         <p>
           The fundamental difference: your contractor&apos;s loyalty is to you. The carrier&apos;s
-          contractor&apos;s loyalty is to the company that sends them work. When there&apos;s a
+          contractor&apos;s loyalty is to the company that sends them work. When there is a
           question about whether something needs to be replaced or can be patched, guess which
           direction each contractor leans. Choose someone whose incentives align with yours.
         </p>

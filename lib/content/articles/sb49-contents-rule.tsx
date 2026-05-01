@@ -67,7 +67,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Higher Automatic Payment</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The automatic advance payment increases from 30% to 60% of the personal property coverage
-        limit. For a policy with $200,000 in contents coverage, that&apos;s $120,000 paid
+        limit. For a policy with $200,000 in contents coverage, that is $120,000 paid
         automatically — up from $60,000 under the old law.
       </p>
 
@@ -123,7 +123,7 @@ export default function Content() {
         What You Still Need to Do
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        SB 49 gets you an immediate advance, but it doesn&apos;t eliminate the need for a thorough
+        SB 49 gets you an immediate advance, but it does not eliminate the need for a thorough
         inventory to claim the remaining 40% of your contents coverage. After the 100-day
         no-inventory period:
       </p>
@@ -137,8 +137,10 @@ export default function Content() {
         <li>
           <strong>Replacement cost matters.</strong> The remaining payment will be based on the
           replacement cost (or ACV if your policy is ACV-only) of the specific items you document.
-          Be thorough — policyholders routinely leave 20–40% of their contents coverage on the table
-          by not inventorying completely.
+          Many policyholders significantly underutilize their contents coverage, often because they
+          fail to create a thorough inventory or accept the insurer&apos;s initial estimate without
+          challenge. Detailed documentation of personal property losses consistently leads to
+          substantially higher settlements than incomplete or rushed inventories.
         </li>
         <li>
           <strong>Keep receipts.</strong> When you buy replacement items, keep every receipt. Under a
@@ -163,25 +165,27 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Request the advance payment immediately.</strong> Don&apos;t wait for the insurer
+          <strong>Request the advance payment immediately.</strong> Do not wait for the insurer
           to offer. Reference SB 49 and formally request the 60% advance in writing.
         </li>
         <li>
-          <strong>Track how you spend the advance.</strong> While you don&apos;t need to account for
+          <strong>Track how you spend the advance.</strong> While you do not need to account for
           every dollar, keeping general records of how you spent the advance helps if questions arise
           later.
         </li>
         <li>
           <strong>Use the 100-day breathing room wisely.</strong> Start your detailed inventory when
-          you&apos;re ready — but don&apos;t wait until day 100. The sooner you begin, the more
+          you are ready — but do not wait until day 100. The sooner you begin, the more
           items you&apos;ll remember. Walk through photos, videos, social media posts, and purchase
           histories to jog your memory.
         </li>
         <li>
-          <strong>Don&apos;t undervalue your contents.</strong> Policyholders consistently
-          underestimate what they owned. The average American home contains $100,000–$300,000 in
-          personal property. Be thorough and use replacement cost (what it costs to buy a comparable
-          item new today), not what you originally paid.
+          <strong>Do not undervalue your contents.</strong> Most homeowners significantly
+          underestimate the replacement value of their personal property. Industry estimates
+          suggest that a typical household contains $60,000 to $150,000 or more in personal
+          belongings at replacement cost, depending on home size and lifestyle. Larger or
+          higher-value homes can easily exceed $200,000. Be thorough and use replacement cost
+          (what it costs to buy a comparable item new today), not what you originally paid.
         </li>
       </ul>
 

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When Engineering Reports Cross the Line: Why Physical Findings Don&apos;t Determine Coverage',
+  title: 'When Engineering Reports Cross the Line: Why Physical Findings Do not Determine Coverage',
   description:
-    'Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it&apos;s covered. Learn the difference between engineering causation and legal causation under California law.',
+    'Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it is covered. Learn the difference between engineering causation and legal causation under California law.',
 }
 
 export default function Content() {
@@ -130,7 +130,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Think about what the insurer is really saying: &ldquo;A contractor installed your flashing incorrectly, and wind-driven rain exploited that deficiency to enter your home. Because of the contractor&rsquo;s error, we will not cover your water damage.&rdquo; But the policyholder did not install the flashing. The policyholder bought a home, bought an insurance policy, and suffered water damage during a covered weather event. The efficient proximate cause of the loss is the wind-driven rain &mdash; a covered peril. The construction deficiency is a contributing factor that explains <em>why</em> the rain was able to penetrate, but it is not the predominant cause of the loss.
+        Think about what the insurer is really saying: &ldquo;A contractor installed your flashing incorrectly, and wind-driven rain entered through that deficiency to enter your home. Because of the contractor&rsquo;s error, we will not cover your water damage.&rdquo; But the policyholder did not install the flashing. The policyholder bought a home, bought an insurance policy, and suffered water damage during a covered weather event. The efficient proximate cause of the loss is the wind-driven rain &mdash; a covered peril. The construction deficiency is a contributing factor that explains <em>why</em> the rain was able to penetrate, but it is not the predominant cause of the loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer&rsquo;s proper course of action is to pay the policyholder&rsquo;s claim and then pursue the negligent contractor through subrogation. When the insurer instead uses the engineering finding to deny coverage, they are shifting the burden of the contractor&rsquo;s negligence from the insurance company (which can pursue subrogation) to the policyholder (who may have no practical remedy against a contractor who is long gone, out of business, or judgment-proof).

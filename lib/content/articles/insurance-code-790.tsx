@@ -13,7 +13,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When your insurance company misrepresents your policy, ignores your communications, refuses
         to investigate, or offers a settlement that bears no relationship to your actual loss, that
-        conduct isn&apos;t just frustrating — it may violate California statutory law. Insurance Code
+        conduct is not just frustrating — it may violate California statutory law. Insurance Code
         Section 790.03 is the statute that defines unfair claims settlement practices in California,
         and a &ldquo;790 letter&rdquo; is the tool policyholders use to put their insurer on formal
         notice that specific violations are being documented.
@@ -61,7 +61,7 @@ export default function Content() {
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
           <strong>Misrepresenting pertinent facts or insurance policy provisions.</strong> This
-          includes telling you something isn&apos;t covered when it is, misquoting policy language,
+          includes telling you something is not covered when it is, misquoting policy language,
           or mischaracterizing the facts of your loss to justify a denial or reduced payment.
         </li>
         <li>
@@ -73,7 +73,7 @@ export default function Content() {
         <li>
           <strong>Failing to adopt and implement reasonable standards for the prompt investigation
           of claims.</strong> The insurer must have actual procedures in place to investigate claims
-          promptly. Assigning an adjuster who has 200 open files and can&apos;t get to yours for
+          promptly. Assigning an adjuster who has 200 open files and cannot get to yours for
           six weeks is a failure to implement reasonable investigation standards.
         </li>
         <li>
@@ -86,7 +86,7 @@ export default function Content() {
           <strong>Not attempting in good faith to effectuate prompt, fair, and equitable settlements
           of claims in which liability has become reasonably clear.</strong> This is the big one.
           When the insurer knows the claim is valid and the amount is reasonably determinable, they
-          must attempt to settle it promptly and fairly — not stall, lowball, or wear you down.
+          must attempt to settle it promptly and fairly — not delay, underpay, or pressure you into accepting less.
         </li>
         <li>
           <strong>Compelling insureds to institute litigation to recover amounts due under an
@@ -137,7 +137,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Directly advising a claimant not to obtain the services of an attorney.</strong>{' '}
-          If your adjuster tells you &ldquo;you don&apos;t need a lawyer&rdquo; or &ldquo;hiring
+          If your adjuster tells you &ldquo;you do not need a lawyer&rdquo; or &ldquo;hiring
           an attorney will just slow things down,&rdquo; that statement is itself a statutory
           violation.
         </li>
@@ -382,7 +382,7 @@ export default function Content() {
         Misrepresenting Policy Provisions — Subsection (1)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The adjuster tells you that your policy doesn&apos;t cover &ldquo;cosmetic damage&rdquo;
+        The adjuster tells you that your policy does not cover &ldquo;cosmetic damage&rdquo;
         when the policy contains no such exclusion. Or they claim your deductible is higher than it
         actually is. Or they tell you that{' '}
         <Link href="/resources/overhead-and-profit" className="text-[#2E74B5] hover:underline">
@@ -519,7 +519,7 @@ export default function Content() {
         </li>
         <li>
           <strong>The insurer misrepresents what the policy covers</strong> — the adjuster tells you
-          something is excluded when it isn&apos;t, or misquotes the policy language to justify
+          something is excluded when it is not, or misquotes the policy language to justify
           their position.
         </li>
         <li>
@@ -551,7 +551,7 @@ export default function Content() {
       {/* ───────── CTA ───────── */}
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
-          Your Insurer Isn&apos;t Following the Rules — Now What?
+          Your Insurer Is not Following the Rules — Now What?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           A Public Adjuster can identify statutory violations, draft 790 letters, and build the

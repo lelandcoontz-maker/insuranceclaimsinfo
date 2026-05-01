@@ -182,7 +182,7 @@ export default function Content() {
         <strong>Significance:</strong> <em>Brandt</em> fees fill a gap that would otherwise make
         bad faith litigation economically irrational for many policyholders. Without <em>Brandt</em>,
         a policyholder who was owed $50,000 in policy benefits and spent $30,000 in attorney&rsquo;s
-        fees to recover them would net only $20,000 &mdash; hardly an incentive to fight back. By
+        fees to recover them would net only $20,000 &mdash; hardly an incentive to pursue the claim. By
         making the attorney&rsquo;s fees recoverable as part of the bad faith damages, <em>Brandt</em>{' '}
         ensures that policyholders can pursue bad faith claims without being punished for needing
         legal representation. Note that <em>Brandt</em> fees are compensatory damages, not a
@@ -235,7 +235,7 @@ export default function Content() {
 
       {/* ───── Bock ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        6. <em>Bock v. Hansen</em> (2014) 230 Cal.App.4th 1273
+        6. <em>Bock v. Hansen</em> (2014) 225 Cal.App.4th 215
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Most bad faith cases target the insurance company itself. <em>Bock</em> asked a different
@@ -483,7 +483,7 @@ export default function Content() {
 
       {/* ───── Kacha ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        1. <em>Kacha v. Allstate Insurance Co.</em> (2006) 144 Cal.App.4th 1183
+        1. <em>Kacha v. Allstate Insurance Co.</em> (2006) 140 Cal.App.4th 1023
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Kacha</em> is the foundational California case on the scope of appraisal. The
@@ -559,7 +559,7 @@ export default function Content() {
 
       {/* ───── Lee ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        3. <em>Lee v. California Capital Insurance Co.</em>
+        3. <em>Lee v. California Capital Insurance Co.</em> (2015) 237 Cal.App.4th 1154
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Lee</em> addressed what happens after an appraisal award is issued: can the losing
@@ -601,26 +601,32 @@ export default function Content() {
 
       {/* ───── Sharma ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        4. <em>Sharma v. USAA</em>
+        4. <em>Safeco Ins. Co. v. Sharma</em> (1984) 160 Cal.App.3d 1060
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Sharma</em> focused squarely on the umpire&rsquo;s obligation to be neutral and
-        disclose potential conflicts of interest.
+        <em>Sharma</em> established that appraisal is a quasi-arbitration proceeding subject to
+        the protections of the California Arbitration Act &mdash; including the umpire&rsquo;s
+        obligation to be neutral and the procedural safeguards that apply to arbitration awards.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The Holding:</strong> The court held that the umpire in an appraisal proceeding
-        is subject to the <strong>disclosure requirements of CCP &sect; 1281.9</strong>, which
-        require a neutral arbitrator (or umpire) to disclose any grounds for disqualification,
-        including financial interests, prior relationships with the parties, and any other
-        circumstances that could create an appearance of partiality. Failure to make required
-        disclosures is itself a ground for vacating the award.
+        <strong>The Holding:</strong> The court held that the appraisal process is governed by
+        the California Arbitration Act (CCP &sect; 1280 et seq.), which means the umpire in an
+        appraisal proceeding is subject to the <strong>disclosure requirements of CCP
+        &sect; 1281.9</strong>. Those provisions require a neutral arbitrator (or umpire) to
+        disclose any grounds for disqualification, including financial interests, prior
+        relationships with the parties, and any other circumstances that could create an
+        appearance of partiality. The court also held that the appraisal panel exceeded its
+        authority when it made factual determinations about the identity of lost property rather
+        than limiting itself to valuation &mdash; reinforcing the <em>Kacha</em> principle that
+        the panel determines amount, not coverage or factual disputes beyond its scope.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Significance:</strong> <em>Sharma</em> matters enormously in practice because
         the insurance appraisal world is small. Umpires who serve regularly may have repeated
         relationships with insurers, insurer-appointed appraisers, or law firms that represent
-        carriers. <em>Sharma</em> requires these relationships to be disclosed before the
-        appraisal begins. If the umpire has been appointed by the same insurer in ten prior
+        carriers. Because appraisal is subject to the Arbitration Act, the disclosure
+        requirements of CCP &sect; 1281.9 apply: these relationships must be disclosed before
+        the appraisal begins. If the umpire has been appointed by the same insurer in ten prior
         appraisals, or if the umpire has a financial relationship with the insurer&rsquo;s
         appraiser, that must be disclosed. The disclosure obligation protects the integrity of the
         process by ensuring that both sides have the information they need to evaluate the

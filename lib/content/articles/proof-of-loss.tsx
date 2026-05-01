@@ -44,11 +44,28 @@ export default function Content() {
         Deadlines
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The deadline for submitting a proof of loss is set by your policy, typically 60 days from the
-        date the insurer requests it. Pay attention to this deadline. If you need more time, request
-        an extension in writing before the deadline passes, and get written confirmation that the
-        extension has been granted. Missing the deadline without an extension could give the insurer
-        grounds to complicate your claim.
+        The proof of loss deadline depends on your specific policy language and the applicable law.
+        Under the California Standard Fire Policy (Insurance Code Section 2071), the policyholder
+        must submit a signed, sworn proof of loss within 60 days after the loss. However, individual
+        policies may specify a different deadline &mdash; and some policies provide more time than
+        the statute requires. Always check your specific policy language, which controls unless it
+        conflicts with California law.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In practice, California courts apply the <strong>notice-prejudice rule</strong>, which means
+        an insurer generally cannot deny a claim solely because the proof of loss was submitted late
+        unless the insurer can demonstrate it was actually prejudiced by the delay. This is a
+        significant protection for policyholders, but it is not a reason to be careless with
+        deadlines &mdash; proving the insurer suffered no prejudice requires time, expense, and
+        potentially litigation.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        While a proof of loss is not always technically required, it is generally advisable to submit
+        one when the insurer requests it. The legal right to refuse is rarely worth the time and
+        expense of proving it. If you need more time, request an extension in writing before the
+        deadline passes, and get written confirmation that the extension has been granted.
+        Policyholders should check their specific policy and consult with a professional if there is
+        any uncertainty about the applicable deadline.
       </p>
 
       <CalloutBox variant="warning" title="Do Not Ignore the Request">
@@ -132,6 +149,16 @@ export default function Content() {
         Public Adjuster can prepare the document for you and ensure it accurately reflects the full
         scope of your loss.
       </p>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

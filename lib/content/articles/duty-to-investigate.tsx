@@ -12,7 +12,7 @@ export default function Content() {
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
         Every insurance company in California has a legal obligation to conduct a thorough, fair,
-        and objective investigation of every claim. This isn&apos;t optional — it&apos;s mandated
+        and objective investigation of every claim. This is not optional — it is mandated
         by the California Insurance Code, the Fair Claims Settlement Practices Regulations, and
         decades of case law. When an insurer fails to properly investigate and denies or underpays
         your claim as a result, that failure can itself constitute{' '}
@@ -87,7 +87,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Communicate findings.</strong> The insurer must explain what they found, what
-          they&apos;re paying, what they&apos;re not paying, and why — in writing, with specific
+          they are paying, what they are not paying, and why — in writing, with specific
           policy references.
         </li>
         <li>
@@ -103,7 +103,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Drive-by or cursory inspection.</strong> The adjuster spent 20 minutes on a
-          six-figure loss. They didn&apos;t go in the attic, crawl space, or behind walls. They
+          six-figure loss. They did not go in the attic, crawl space, or behind walls. They
           took a few photos and left.
         </li>
         <li>
@@ -112,7 +112,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Ignoring your evidence.</strong> You submitted a contractor estimate, an
-          engineer&apos;s report, or photos of damage. The insurer&apos;s estimate doesn&apos;t
+          engineer&apos;s report, or photos of damage. The insurer&apos;s estimate does not
           address or even mention this evidence.
         </li>
         <li>
@@ -143,9 +143,9 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>You can be present during inspections.</strong> Don&apos;t let the adjuster
+          <strong>You can be present during inspections.</strong> Do not let the adjuster
           inspect alone. Be there (or have your representative there) to point out damage and
-          ensure it&apos;s documented.
+          ensure it is documented.
         </li>
         <li>
           <strong>You can have your own expert present.</strong> Bring your contractor, Public
@@ -210,6 +210,16 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

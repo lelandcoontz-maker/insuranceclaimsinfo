@@ -73,7 +73,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Inconsistencies in the claim documentation.</strong> If your inventory lists
-          items that don&apos;t match your reported income, if your timeline has gaps, or if your
+          items that do not match your reported income, if your timeline has gaps, or if your
           statements to the field adjuster conflict with the physical evidence, the insurer may
           request an EUO to explore those inconsistencies.
         </li>
@@ -195,8 +195,8 @@ export default function Content() {
           <strong>Know the golden rules of testimony:</strong>
           <ul className="list-disc pl-6 space-y-1 mt-2">
             <li>Answer only the question that was asked. Do not volunteer additional information.</li>
-            <li>If you do not know the answer, say &quot;I don&apos;t know.&quot;</li>
-            <li>If you do not remember, say &quot;I don&apos;t recall.&quot;</li>
+            <li>If you do not know the answer, say &quot;I do not know.&quot;</li>
+            <li>If you do not remember, say &quot;I do not recall.&quot;</li>
             <li>Do not guess or speculate. If you are not sure, say so.</li>
             <li>Take your time with each question. There is no rush.</li>
             <li>Listen to the entire question before answering.</li>
@@ -397,6 +397,16 @@ export default function Content() {
             Contact us
           </Link>{' '}
           for a free consultation to discuss your situation.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
         </p>
       </CalloutBox>
     </>

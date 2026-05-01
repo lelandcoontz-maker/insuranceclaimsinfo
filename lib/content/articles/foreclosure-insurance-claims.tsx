@@ -31,7 +31,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Before we get to insurance claims, you need to understand which type of foreclosure
-        you&apos;re dealing with, because the consequences are very different.
+        you are dealing with, because the consequences are very different.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -107,7 +107,7 @@ export default function Content() {
         1226.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Why would a lender bid the full amount? In most cases, it&apos;s automatic. Lenders and
+        Why would a lender bid the full amount? In most cases, it is automatic. Lenders and
         their trustees routinely submit full credit bids as a default practice &mdash; the logic
         being that they want to acquire the property for the full value of the debt so they can
         resell it. What many lenders fail to consider is the devastating consequence this has
@@ -411,7 +411,7 @@ export default function Content() {
 
       {/* ───────── Mortgage Holds ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        When You&apos;re Behind on Your Mortgage but Not in Foreclosure
+        When You are Behind on Your Mortgage but Not in Foreclosure
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Even if your property is not yet in foreclosure, being behind on your mortgage can
@@ -451,7 +451,7 @@ export default function Content() {
 
       {/* ───────── Practical Guidance ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Practical Guidance: What to Do If You&apos;re in This Situation
+        Practical Guidance: What to Do If You are in This Situation
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
@@ -552,6 +552,16 @@ export default function Content() {
         heading="Dealing With Foreclosure and an Insurance Claim?"
         description="This is one of the most complex intersections in property insurance. A licensed Public Adjuster can help you navigate the insurance claim side while coordinating with your legal counsel on the foreclosure. Free consultation."
       />
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

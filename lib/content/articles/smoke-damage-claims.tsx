@@ -15,7 +15,7 @@ export default function Content() {
         fire damage — which is visible and relatively straightforward to assess — smoke damage is
         invisible, pervasive, and its health consequences are poorly understood by many adjusters.
         Insurers routinely minimize smoke claims, apply arbitrary sublimits, or deny them outright.
-        This guide explains what you&apos;re entitled to, how to document smoke damage, and what
+        This guide explains what you are entitled to, how to document smoke damage, and what
         California law requires.
       </p>
 
@@ -33,7 +33,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Don't Let the Adjuster Minimize Smoke Damage">
         <p>
-          A common tactic: the insurer sends an adjuster who walks through the home, doesn&apos;t
+          A common tactic: the insurer sends an adjuster who walks through the home, does not
           see visible soot, and writes a report saying &ldquo;no damage observed.&rdquo; Smoke damage
           is largely invisible. It requires air quality testing, surface wipe samples, and HVAC
           inspection by qualified professionals — not a visual walk-through.
@@ -79,19 +79,21 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most important developments in smoke damage litigation is the recognition that
         microscopic soot contamination constitutes real, measurable property damage — even when
-        nothing is visible to the naked eye. In <em>Maxus, Inc. v. Travelers Indemnity Co.</em>
-        (8th Cir.), the court held that soot contamination can constitute property damage even
-        when the contamination is not visible. This is a critical precedent for policyholders,
-        because it dismantles the insurer&apos;s favorite argument: &ldquo;we don&apos;t see any
-        damage.&rdquo;
+        nothing is visible to the naked eye. In <em>Maxus Metropolitan, LLC v. Travelers
+        Property Casualty Co.</em>, No. 24-1176 (8th Cir. 2025), the Eighth Circuit held that
+        microscopic soot contamination can constitute &ldquo;direct physical loss or
+        damage&rdquo; even when the contamination is not visible to the naked eye. While this
+        is an Eighth Circuit decision applying Missouri law rather than California law, it is a
+        critical precedent for policyholders, because it dismantles the insurer&apos;s favorite
+        argument: &ldquo;we do not see any damage.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        More recently, in <em>Alif v. California FAIR Plan Association</em> (2025), a California
+        More recently, in <em>Aliff v. California FAIR Plan Association</em> (2025), a California
         court addressed the FAIR Plan&apos;s attempt to limit smoke-damage coverage to damage that
         was &ldquo;permanent physical change&rdquo; visible to the unaided eye. The court held that
         this restrictive policy language was more narrow than the coverage required by California
         Insurance Code &sect; 2070 (the Standard Fire Policy) and therefore unenforceable. Following
-        <em> Alif</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language
+        <em>Aliff</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language
         that had been used to deny or minimize claims. The ruling has implications well beyond the
         FAIR Plan — any admitted California carrier that tries to impose similar &ldquo;visible
         damage&rdquo; limitations on smoke claims is on shaky legal ground. This is general
@@ -170,7 +172,7 @@ export default function Content() {
         <li>
           <strong>Get a post-remediation clearance test.</strong> After cleaning and remediation,
           re-test to confirm that contamination levels have returned to acceptable levels. If they
-          haven&apos;t, further remediation is needed — at the insurer&apos;s expense.
+          have not, further remediation is needed — at the insurer&apos;s expense.
         </li>
       </ol>
 
@@ -298,7 +300,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Rushing you to move back in.</strong> The insurer is paying ALE (additional living
-          expenses) while you&apos;re displaced. They have a financial incentive to declare your
+          expenses) while you are displaced. They have a financial incentive to declare your
           home habitable before remediation is complete. Do not move back until clearance testing
           confirms the home is safe.
         </li>
@@ -342,14 +344,14 @@ export default function Content() {
         </li>
         <li>
           <strong>Coverage D (ALE).</strong> If your home is not habitable due to smoke contamination,
-          you&apos;re entitled to{' '}
+          you are entitled to{' '}
           <Link href="/resources/ale-frv" className="text-[#2E74B5] hover:underline">additional living expenses</Link>{' '}
           while remediation is performed.
         </li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        When Your Home Didn&apos;t Burn But Was Smoke-Damaged
+        When Your Home Did not Burn But Was Smoke-Damaged
       </h2>
       <p className="text-gray-700 leading-relaxed mb-6">
         This is an increasingly common scenario: your home survived the wildfire but was saturated

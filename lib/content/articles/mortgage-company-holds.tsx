@@ -189,12 +189,12 @@ export default function Content() {
 
       {/* ────────────────── THE CATCH-22 ────────────────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Catch-22: Can&apos;t Start Without Money, Can&apos;t Get Money Without Progress
+        The Catch-22: Cannot Start Without Money, Cannot Get Money Without Progress
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most common and frustrating problems is the circular trap: the mortgage company
-        won&apos;t release the money because construction hasn&apos;t started, but construction
-        can&apos;t start because the homeowner doesn&apos;t have the money to pay the
+        will not release the money because construction has not started, but construction
+        cannot start because the homeowner does not have the money to pay the
         contractor&apos;s down payment, buy materials, or pull permits.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -312,7 +312,7 @@ export default function Content() {
         company really hold all $300,000?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The short answer is no &mdash; or at least, it shouldn&apos;t.</strong> The mortgage
+        <strong>The short answer is no &mdash; or at least, it should not.</strong> The mortgage
         company&apos;s interest in the insurance proceeds is limited to the amount of the
         outstanding debt. They are named on the check because they have a security interest in the
         property &mdash; but that interest is capped at what they are owed, not at the total amount
@@ -521,7 +521,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Sometimes, even after the repairs are finished, the mortgage company drags its feet on
-        releasing the remaining balance. This is one of the most infuriating situations &mdash; the
+        releasing the remaining balance. This is one of the most frustrating situations &mdash; the
         work is done, the property is restored, and the mortgage company still will not let go of the
         money.
       </p>
@@ -594,7 +594,7 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="warning" title="This Doesn&apos;t Work for Everyone">
+      <CalloutBox variant="warning" title="This Does not Work for Everyone">
         <p>
           These workarounds require financial flexibility that many homeowners simply do not have. If
           your mortgage balance is $500,000, paying it off is not realistic for most people. But if

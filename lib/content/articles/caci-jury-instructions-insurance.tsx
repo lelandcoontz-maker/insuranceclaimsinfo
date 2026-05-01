@@ -10,6 +10,15 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="Version Note">
+        <p>
+          CACI instructions are periodically updated by the Judicial Council of California. The
+          instruction numbers and content referenced in this article are current as of early 2026.
+          Practitioners should verify instruction text against the most recent edition available
+          from the Judicial Council.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         When an insurance dispute goes to trial in California, the judge does not simply tell the
         jury to &ldquo;figure it out.&rdquo; Instead, the judge reads a specific set of instructions
@@ -19,8 +28,8 @@ export default function Content() {
         the statutes, the case law, and the people who actually decide the case.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For policyholders fighting their insurance company, the CACI Series 2300 instructions are
-        the playbook. They define what it means to breach a policy, what constitutes{' '}
+        For policyholders disputing their insurance company&rsquo;s handling of a claim, the CACI Series 2300 instructions are
+        the standard framework. They define what it means to breach a policy, what constitutes{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
           bad faith
         </Link>

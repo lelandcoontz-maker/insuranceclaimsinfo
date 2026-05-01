@@ -13,7 +13,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If your property has been damaged by fire, water, or any event that requires demolition,
         cutting, grinding, or sanding of concrete, stucco, drywall, tile, or stone, there is a
-        serious health hazard that most insurance adjusters either don&apos;t understand or
+        serious health hazard that most insurance adjusters either do not understand or
         deliberately ignore: <strong>respirable crystalline silica</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -238,7 +238,7 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="The Bottom Line">
+      <CalloutBox variant="tip" title="Key Takeaway">
         <p>
           If your contractor has to cut, grind, sand, drill, or demolish concrete, stucco,
           drywall, tile, brick, or stone, OSHA silica compliance costs apply. These are not
@@ -314,7 +314,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance companies handle silica compliance the same way they handle most legitimate
-        costs: they ignore it and hope you don&apos;t notice. Common tactics include:
+        costs: they ignore it and hope you do not notice. Common tactics include:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -324,20 +324,20 @@ export default function Content() {
           the cost or skip the safety measures.
         </li>
         <li>
-          <strong>&ldquo;It&apos;s included in the labor rate.&rdquo;</strong> Insurers
+          <strong>&ldquo;It is included in the labor rate.&rdquo;</strong> Insurers
           sometimes claim that OSHA compliance costs are already factored into
           Xactimate&apos;s labor rates. This is false. Xactimate&apos;s standard labor rates
           cover normal working conditions. HEPA vacuuming, air scrubbers, containment barriers,
           full-face respirators, and supervisory labor are additional costs above standard labor.
         </li>
         <li>
-          <strong>&ldquo;The contractor didn&apos;t need to do that.&rdquo;</strong> After the
+          <strong>&ldquo;The contractor did not need to do that.&rdquo;</strong> After the
           work is completed, the insurer refuses to pay for silica measures the contractor
           actually performed, arguing they were unnecessary. OSHA regulations are not optional
           &mdash; the contractor was legally required to perform those measures.
         </li>
         <li>
-          <strong>&ldquo;That&apos;s the contractor&apos;s overhead.&rdquo;</strong> OSHA
+          <strong>&ldquo;That is the contractor&apos;s overhead.&rdquo;</strong> OSHA
           compliance is not overhead. These are direct costs of performing the work safely
           and legally. They are no more &ldquo;overhead&rdquo; than the drywall itself.
         </li>

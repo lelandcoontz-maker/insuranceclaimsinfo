@@ -51,6 +51,22 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <CalloutBox variant="important" title="Understanding Scope: Regulatory Citations vs. Legal Strategy">
+        <p>
+          This article explains how California&rsquo;s Fair Claims regulations work and how to
+          cite them in written communications with your insurer. Citing specific regulatory
+          provisions and holding your insurer accountable to procedural requirements is within
+          the scope of what a licensed Public Adjuster can assist with. However, legal arguments,
+          litigation strategy, and bad faith claims require the guidance of a licensed attorney
+          experienced in insurance coverage disputes. If you need help with the claims-handling
+          and documentation side of your claim, or a referral to a qualified attorney for legal
+          strategy,{' '}
+          <Link href="/contact" className="text-[#2E74B5] hover:underline">
+            contact us
+          </Link>.
+        </p>
+      </CalloutBox>
+
       {/* ───────── REGULATORY VIOLATIONS AND BAD FAITH ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Regulatory Violations and Bad Faith: Understanding the Relationship
@@ -115,7 +131,7 @@ export default function Content() {
         In <em>Jordan v. Allstate Insurance Co.</em> (2007) 148 Cal.App.4th 1062, the court
         confirmed that Fair Claims regulation violations are relevant and admissible evidence of
         bad faith. The regulations define the standard of conduct insurers must meet, and
-        failure to meet that standard — even if it doesn&apos;t automatically equal bad faith —
+        failure to meet that standard — even if it does not automatically equal bad faith —
         shows the insurer&apos;s general disregard for doing things correctly.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -162,7 +178,7 @@ export default function Content() {
 
       {/* ───────── WRITTEN DEMANDS PRINCIPLE ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        If You Don&apos;t Ask, You Don&apos;t Benefit: The Written Demand Principle
+        If You Do not Ask, You Do not Benefit: The Written Demand Principle
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Many of the regulations below are only triggered when the insured takes a specific
@@ -200,7 +216,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The principle works like this: your written demand either gets you what you need, or —
         if the insurer fails to comply — it documents a regulatory violation and potential bad
-        faith. <strong>Either way, you win.</strong> If you don&apos;t ask, you get neither.
+        faith. <strong>Either way, you win.</strong> If you do not ask, you get neither.
       </p>
 
       <CalloutBox variant="tip" title="Every Written Demand Should Cite the Regulation">
@@ -261,7 +277,7 @@ export default function Content() {
         <li>
           <strong>The Xactimate defense.</strong> An insurer pays your claim based on an
           Xactimate estimate that uses incorrect local pricing, omits line items, or applies
-          depreciation to labor. When challenged, the adjuster says &ldquo;that&apos;s what
+          depreciation to labor. When challenged, the adjuster says &ldquo;that is what
           Xactimate says.&rdquo; Under &sect;2695.1(g), the insurer bears full responsibility
           for the accuracy of its third-party tools. &ldquo;Xactimate said so&rdquo; is not
           a defense.
@@ -336,17 +352,17 @@ export default function Content() {
         constructive knowledge — meaning the insurer cannot claim ignorance of facts it should
         have known through reasonable investigation. This ties directly to{' '}
         <em>Chateau Chamberay</em> — an insurer that conducts a sloppy investigation and then
-        claims it didn&apos;t know the extent of the damage is charged with the knowledge a
+        claims it did not know the extent of the damage is charged with the knowledge a
         proper investigation would have revealed.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">Real-World Examples</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>The &ldquo;we&apos;re waiting for your proof of loss&rdquo; stall.</strong>{' '}
+          <strong>The &ldquo;we are waiting for your proof of loss&rdquo; stall.</strong>{' '}
           The insurer&apos;s own adjuster has inspected the property, taken photos, and written
           an estimate. Yet the insurer tells you they cannot make a decision because they
-          haven&apos;t received your sworn proof of loss. Under the definition of &ldquo;proof
+          have not received your sworn proof of loss. Under the definition of &ldquo;proof
           of claim,&rdquo; the insurer&apos;s own investigation data is proof of claim. The
           40-day clock may already be running.
         </li>
@@ -358,7 +374,7 @@ export default function Content() {
           refusal to communicate with your representative is a violation.
         </li>
         <li>
-          <strong>The adjuster who doesn&apos;t look.</strong> The adjuster inspects only the
+          <strong>The adjuster who does not look.</strong> The adjuster inspects only the
           first floor but never enters the attic, crawlspace, or detached garage — all of which
           have damage. The adjuster denies those portions of the claim. Under the definition of
           &ldquo;knowingly committed&rdquo; (which includes constructive knowledge), the insurer
@@ -592,7 +608,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Agent delay imputed to insurer.</strong> You report a fire loss to your
-          insurance agent on Monday. The agent doesn&apos;t transmit the claim to the carrier
+          insurance agent on Monday. The agent does not transmit the claim to the carrier
           until the following Friday. Under &sect;2695.5(e)(1), the agent&apos;s delay is
           imputed to the insurer — the 15-day clock started Monday, not Friday.
         </li>
@@ -631,13 +647,13 @@ export default function Content() {
         Every adjuster who handles your claim — including independent adjusters brought in
         after a catastrophe from other states — is required to have been trained on these
         regulations and to have certified under penalty of perjury that they understand them.
-        When an adjuster tells you &ldquo;we don&apos;t have to do that&rdquo; or
-        &ldquo;that&apos;s not how it works in California,&rdquo; they are either violating
+        When an adjuster tells you &ldquo;we do not have to do that&rdquo; or
+        &ldquo;that is not how it works in California,&rdquo; they are either violating
         this regulation (by being insufficiently trained) or they are knowingly
         misrepresenting the regulations to you (which is itself a violation of
         &sect;790.03(h)(1) — misrepresenting policy provisions). After a major wildfire,
         when carriers bring in hundreds of out-of-state adjusters, this regulation is
-        particularly relevant. &ldquo;My adjuster didn&apos;t know the rule&rdquo; is not a
+        particularly relevant. &ldquo;My adjuster did not know the rule&rdquo; is not a
         defense — it is a separate violation.
       </p>
 
@@ -1090,20 +1106,20 @@ export default function Content() {
         &ldquo;tear-out&rdquo; — the damage caused by making repairs. If the plumber cuts
         through drywall and tile, repairing the drywall and tile is part of the covered loss.
         Subsection (a)(2) is the <strong>matching regulation</strong> — if new materials
-        don&apos;t match existing undamaged materials in the same area, the insurer must
+        do not match existing undamaged materials in the same area, the insurer must
         replace enough to achieve a uniform appearance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
         <strong>Real-world example:</strong> Your kitchen has hardwood flooring throughout. A
         water loss damages 30% of the floor. The insurer replaces the damaged section, but the
-        new wood doesn&apos;t match the existing floor in color or grain pattern — even after
+        new wood does not match the existing floor in color or grain pattern — even after
         staining. Under &sect;2695.9(a)(2), the insurer must replace the entire kitchen floor
         to achieve a reasonably uniform appearance. See our guide on{' '}
         <Link href="/resources/matching" className="text-[#2E74B5] hover:underline">matching disputes</Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> When the insurer proposes a partial repair that
-        won&apos;t match, write: &ldquo;Per 10 CCR &sect;2695.9(a)(2), when replaced items do
+        will not match, write: &ldquo;Per 10 CCR &sect;2695.9(a)(2), when replaced items do
         not match the existing items in quality, color, or size, you are required to replace
         all items in the damaged area to conform to a reasonably uniform appearance. The
         proposed partial replacement of [describe] will not match the existing [describe] in
@@ -1222,7 +1238,7 @@ export default function Content() {
         because a contractor wrote the estimate for the insurance company does not mean that
         contractor — or any contractor — will actually <em>do</em> the work for that amount.
         Many times the contractor who prepared the estimate for the insurer will say they
-        don&apos;t want the job, or their estimate is incomplete on its face — missing line
+        do not want the job, or their estimate is incomplete on its face — missing line
         items, using incorrect measurements, or failing to account for code-required upgrades.
         The insurer still cannot name a contractor who will do the complete scope of work for
         their number.
@@ -1294,7 +1310,7 @@ export default function Content() {
         <strong>you cannot benefit from this regulation</strong>. The insured who makes the
         written demand gets the settlement increase. The insured who accepts the
         insurer&apos;s number without challenging it gets the insurer&apos;s number. This is
-        the clearest example of the principle: <em>if you don&apos;t ask, you don&apos;t
+        the clearest example of the principle: <em>if you do not ask, you do not
         benefit</em>.
       </p>
 
@@ -1408,7 +1424,7 @@ export default function Content() {
           under this regulation.
         </p>
         <p>
-          Again: <strong>if you don&apos;t ask, you don&apos;t benefit</strong>.
+          Again: <strong>if you do not ask, you do not benefit</strong>.
         </p>
       </CalloutBox>
 
@@ -1511,7 +1527,7 @@ export default function Content() {
         </li>
       </ol>
 
-      <CalloutBox variant="important" title="The Bottom Line">
+      <CalloutBox variant="important" title="Key Takeaway">
         <p className="mb-2">
           Regulatory violations are not automatically bad faith — but they are evidence of it.
           Even when they fall short of bad faith, they demonstrate the insurer&apos;s general
@@ -1533,7 +1549,7 @@ export default function Content() {
           Free Template Demand Letters
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          We&apos;ve created free, downloadable template letters for the most important
+          We have created free, downloadable template letters for the most important
           regulatory demands discussed in this article — including the contractor name
           requirement, 15-day response demand, coverage disclosure request, and more.
           Each letter cites the specific regulation and is ready to customize with your
@@ -1564,6 +1580,16 @@ export default function Content() {
           Request a Free Claim Review &rarr;
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

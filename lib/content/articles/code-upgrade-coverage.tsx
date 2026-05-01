@@ -259,14 +259,19 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="warning" title="Title 24 Compliance Can Add 15&ndash;30% to Construction Costs">
+      <CalloutBox variant="warning" title="Title 24 Compliance Can Add Substantial Costs">
         <p>
-          The difference between building to a 1980s energy code and building to the current
-          Title 24 standard can add 15% to 30% or more to the cost of construction. High-performance
-          windows, upgraded insulation, efficient HVAC systems, heat pump water heaters, mechanical
-          ventilation, and solar-ready provisions are all real costs that the insurer must cover
-          under L&amp;O Coverage C if they are required by current code. Do not accept an estimate
-          that prices repairs to the old standards.
+          When rebuilding after a loss, homeowners must bring their property into compliance with
+          current California building codes (Title 24), which have been significantly updated in
+          recent code cycles. These upgrades — including enhanced energy efficiency, fire-hardening,
+          electrical panel upgrades, and accessibility improvements — can add substantial costs to a
+          rebuild, particularly for homes built under older codes. This is why Ordinance or Law
+          coverage, typically offered in increments of 10% to 50% of dwelling coverage, is a
+          critical part of any homeowner&apos;s policy. High-performance windows, upgraded
+          insulation, efficient HVAC systems, heat pump water heaters, mechanical ventilation, and
+          solar-ready provisions are all real costs that the insurer must cover under L&amp;O
+          Coverage C if they are required by current code. Do not accept an estimate that prices
+          repairs to the old standards.
         </p>
       </CalloutBox>
 
@@ -622,7 +627,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If your documented code upgrade costs exceed your L&amp;O limits, you have a coverage
         gap that requires professional guidance. A licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can help you maximize recovery within the available limits, ensure all applicable
@@ -639,8 +644,10 @@ export default function Content() {
 
       <CalloutBox variant="important" title="L&amp;O Is One of the Most Underutilized Coverages">
         <p>
-          Studies and industry experience consistently show that Law and Ordinance coverage is
-          one of the most underutilized coverages in residential property insurance. Many
+          Ordinance or Law coverage is widely recognized across the insurance industry as one of
+          the most overlooked and underutilized coverages available to homeowners. Many
+          policyholders either do not carry it or carry insufficient limits, leaving them exposed
+          to significant upgrade costs when rebuilding to current codes after a loss. Many
           adjusters do not have the technical expertise to identify all applicable code
           requirements, and many policyholders do not know the coverage exists. On older homes,
           L&amp;O can add 25% to 50% or more to the total claim value. If you are handling a

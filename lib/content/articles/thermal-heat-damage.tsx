@@ -218,7 +218,7 @@ export default function Content() {
           Home Survived a Nearby Wildfire?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          Don&apos;t assume your home is undamaged just because it didn&apos;t burn. A Public
+          Do not assume your home is undamaged just because it did not burn. A Public
           Adjuster can identify hidden heat damage and build a claim for the full scope of loss.
         </p>
         <Link

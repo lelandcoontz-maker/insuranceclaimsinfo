@@ -14,7 +14,7 @@ export default function Content() {
         When your insurance company sends an engineer to inspect your roof, a hygienist to test for
         smoke contamination, or an estimator to scope your damage — those professionals are selected
         and paid by the insurer. They are not independent. And in far too many cases, they
-        consistently produce findings that minimize the claim. This isn&apos;t coincidence; it&apos;s
+        consistently produce findings that minimize the claim. This is not coincidence; it is
         a systemic problem in the insurance industry, and California courts are beginning to
         address it.
       </p>
@@ -23,17 +23,17 @@ export default function Content() {
         The Problem: Repeat-Player Experts
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance companies don&apos;t randomly select experts. They maintain rosters of
+        Insurance companies do not randomly select experts. They maintain rosters of
         &ldquo;preferred&rdquo; professionals — engineers, industrial hygienists, contractors,
         appraisers — who are used repeatedly across thousands of claims. These experts depend on
         the insurer for a significant portion of their income. The incentive structure is obvious:
         experts who consistently produce findings favorable to the insurer keep getting hired.
-        Those who don&apos;t, get dropped from the roster.
+        Those who do not, get dropped from the roster.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This creates <strong>selection bias</strong> — over time, the insurer&apos;s expert roster
         is populated almost exclusively by professionals who reliably produce claim-minimizing
-        results. It&apos;s not that every finding is wrong, but the systemic tilt is real and
+        results. It is not that every finding is wrong, but the systemic tilt is real and
         measurable. In May 2025, the U.S. Senate held hearings on insurer claims practices in which
         whistleblower adjusters provided devastating testimony: one adjuster (Jordan Lee) stated that
         44 of his 46 field reports — 96% — were altered by the insurer, with some estimates reduced
@@ -129,7 +129,7 @@ export default function Content() {
         The insurer&apos;s adjuster or estimator produces the{' '}
         <Link href="/resources/xactimate" className="text-[#2E74B5] hover:underline">Xactimate estimate</Link>{' '}
         that determines your payout. Biased estimating includes using lower-grade materials than what
-        was in the home, omitting line items for damage that&apos;s clearly present, applying the
+        was in the home, omitting line items for damage that is clearly present, applying the
         wrong labor rates, and excluding overhead and profit for general contractors.
       </p>
 
@@ -191,14 +191,14 @@ export default function Content() {
         </li>
         <li>
           <strong>Request the expert&apos;s qualifications and relationship with the insurer.</strong>{' '}
-          Ask for: the expert&apos;s CV, how many assignments they&apos;ve received from this
+          Ask for: the expert&apos;s CV, how many assignments they have received from this
           insurer in the past 3 years, their total compensation from this insurer, and the
           percentage of their work that comes from insurance company assignments.
         </li>
         <li>
           <strong>Challenge the methodology.</strong> If the engineer attributed damage to
           &ldquo;pre-existing conditions,&rdquo; ask what evidence supports that conclusion. If the
-          hygienist tested only one room, ask why the entire home wasn&apos;t tested. If the
+          hygienist tested only one room, ask why the entire home was not tested. If the
           estimator used economy-grade materials, ask what the basis was for departing from what
           was actually in the home.
         </li>
@@ -292,7 +292,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Your Expert Doesn't Have to Be Expensive">
         <p>
           A licensed contractor&apos;s repair estimate is often the most powerful evidence you can
-          produce. It doesn&apos;t require hiring a forensic engineer — a detailed, honest estimate
+          produce. It does not require hiring a forensic engineer — a detailed, honest estimate
           from a qualified local contractor showing what the repairs actually cost is hard for the
           insurer to dismiss.
         </p>
@@ -317,7 +317,7 @@ export default function Content() {
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
-          The Insurer&apos;s Expert Doesn&apos;t Have the Last Word
+          The Insurer&apos;s Expert Does not Have the Last Word
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           A Public Adjuster can identify bias in the insurer&apos;s expert reports, hire qualified
@@ -330,6 +330,16 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

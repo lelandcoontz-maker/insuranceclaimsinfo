@@ -143,7 +143,7 @@ export default function Content() {
         A growing number of California homes are held in revocable living trusts for estate
         planning purposes. When the trustor (the person who created the trust) dies, the trust
         becomes irrevocable, and the successor trustee takes over management. This creates a
-        potential coverage gap that insurers have increasingly exploited.
+        potential coverage gap that insurers have increasingly used to their advantage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The problem: if the homeowner policy names the individual as the insured (e.g.,

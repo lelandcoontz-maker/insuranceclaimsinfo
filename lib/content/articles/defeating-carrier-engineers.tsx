@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Defeating Carrier Engineer Reports on Roof Claims',
   description:
-    'When your insurance company sends a forensic engineer to deny your roof claim, you need to know how to fight back. Learn how carrier engineers operate, common report flaws, and how to build a winning rebuttal.',
+    'When your insurance company sends a forensic engineer to deny your roof claim, you need to know how to respond effectively. Learn how carrier engineers operate, common report flaws, and how to build a strong rebuttal.',
 }
 
 export default function Content() {
@@ -32,7 +32,7 @@ export default function Content() {
       <CalloutBox variant="warning" title="An Engineer Report Is Not the Final Word">
         <p>
           A carrier engineer report is an <em>opinion</em> — not a court ruling, not a scientific
-          fact, and not binding on your claim. It&apos;s one professional&apos;s interpretation,
+          fact, and not binding on your claim. It is one professional&apos;s interpretation,
           paid for by the party that benefits from a denial. You have every right to challenge it
           with your own expert opinion.
         </p>
@@ -42,7 +42,7 @@ export default function Content() {
         Why Carriers Send Engineers
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance companies don&apos;t send forensic engineers to help you. They send them to
+        Insurance companies do not send forensic engineers to help you. They send them to
         create a documented basis for denying or reducing your claim. The typical sequence:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
@@ -56,7 +56,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The decision to send an engineer is almost always triggered by the dollar amount of the
         claim, not by a genuine question about causation. If the repair estimate is $8,000, you
-        probably won&apos;t see an engineer. If it&apos;s $25,000+, expect one.
+        probably will not see an engineer. If it is $25,000+, expect one.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -68,8 +68,8 @@ export default function Content() {
         This is the most common tactic. The engineer acknowledges that damage exists but attributes
         it to aging, weathering, or normal deterioration rather than the specific storm event. The
         problem: storm damage and aging are not mutually exclusive. A 15-year-old roof can absolutely
-        sustain hail damage. The age of the roof doesn&apos;t make it immune to hail, and it
-        doesn&apos;t mean all damage on an older roof is pre-existing. See our dedicated guide on{' '}
+        sustain hail damage. The age of the roof does not make it immune to hail, and it
+        does not mean all damage on an older roof is pre-existing. See our dedicated guide on{' '}
         <Link href="/resources/pre-existing-vs-storm-damage" className="text-[#2E74B5] hover:underline">
           pre-existing vs. storm damage
         </Link>.
@@ -95,7 +95,7 @@ export default function Content() {
         <li>Labeling granule loss from hail impact as &ldquo;normal granule erosion&rdquo;</li>
         <li>Attributing fractures in the shingle mat to &ldquo;thermal cycling&rdquo; instead of impact</li>
         <li>Calling bruised shingles &ldquo;foot traffic damage&rdquo;</li>
-        <li>Claiming the impacts are &ldquo;cosmetic only&rdquo; and don&apos;t affect function</li>
+        <li>Claiming the impacts are &ldquo;cosmetic only&rdquo; and do not affect function</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Each of these has distinct physical characteristics that a qualified expert can distinguish.
@@ -106,18 +106,18 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">4. Ignoring Collateral Evidence</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Hail doesn&apos;t only hit your shingles. It hits everything: aluminum gutters, exhaust
+        Hail does not only hit your shingles. It hits everything: aluminum gutters, exhaust
         vents, pipe boots, HVAC units, fence rails, patio furniture, vehicles, window screens.
-        If these soft metals show fresh dent patterns consistent with hail, that&apos;s powerful
-        corroborating evidence. Many carrier engineers either don&apos;t inspect collateral items
-        or don&apos;t mention them in their report.
+        If these soft metals show fresh dent patterns consistent with hail, that is powerful
+        corroborating evidence. Many carrier engineers either do not inspect collateral items
+        or do not mention them in their report.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">5. Relying on Outdated or Incorrect Standards</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some carrier engineers apply manufacturer testing standards (like UL 2218 impact resistance
         ratings) as if they define the threshold for &ldquo;real&rdquo; damage in the field. These
-        lab standards test new materials under controlled conditions — they don&apos;t account for
+        lab standards test new materials under controlled conditions — they do not account for
         aged, weathered materials that are more vulnerable to impact. A shingle that passes a Class
         4 impact rating when new can absolutely sustain functional hail damage after 10 years of UV
         exposure and thermal cycling.
@@ -127,7 +127,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Some engineer reports are essentially templates with the address changed. The same boilerplate
         language, the same conclusions, applied to every property. If the report reads like it could
-        apply to any roof in any city, it probably wasn&apos;t written based on a careful inspection
+        apply to any roof in any city, it probably was not written based on a careful inspection
         of your specific roof.
       </p>
 
@@ -187,12 +187,12 @@ export default function Content() {
           <strong>Check weather records.</strong> Obtain official weather data (NOAA storm reports,
           hail databases, local weather station records) confirming the storm event — hail size,
           wind speed, direction, and duration. If the data shows 1.5&rdquo; hail hit your area and
-          the engineer says there&apos;s no hail damage, the weather data undermines the report.
+          the engineer says there is no hail damage, the weather data undermines the report.
         </li>
         <li>
           <strong>Look for neighboring claims.</strong> If your neighbors filed claims and received
-          payment for the same storm, that&apos;s evidence that the storm caused damage in your
-          area. The carrier can&apos;t credibly argue your roof was untouched when homes on either
+          payment for the same storm, that is evidence that the storm caused damage in your
+          area. The carrier cannot credibly argue your roof was untouched when homes on either
           side were damaged.
         </li>
         <li>
@@ -217,7 +217,7 @@ export default function Content() {
         What to Do Before the Engineer Inspects
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the carrier tells you they&apos;re sending an engineer, don&apos;t panic — prepare:
+        If the carrier tells you they are sending an engineer, do not panic — prepare:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -233,23 +233,23 @@ export default function Content() {
         </li>
         <li>
           <strong>Point out damage</strong> that the engineer may overlook — soft metal dents,
-          specific shingle impacts, areas of the roof they didn&apos;t examine.
+          specific shingle impacts, areas of the roof they did not examine.
         </li>
         <li>
-          <strong>Don&apos;t sign anything</strong> at the inspection. The engineer may ask you to
+          <strong>Do not sign anything</strong> at the inspection. The engineer may ask you to
           sign an access agreement or questionnaire. Read everything before signing — or decline.
         </li>
         <li>
           <strong>Have your own expert inspect first</strong> if possible. Having a documented
           independent inspection before the carrier&apos;s engineer arrives creates a baseline that
-          the engineer can&apos;t retroactively explain away.
+          the engineer cannot retroactively explain away.
         </li>
       </ul>
 
       <CalloutBox variant="tip" title="The Carrier Engineer Works for the Carrier">
         <p>
           Never forget: the engineer is selected and paid by the insurance company. Their continued
-          employment depends on producing reports the carrier finds useful. This doesn&apos;t mean
+          employment depends on producing reports the carrier finds useful. This does not mean
           every finding is wrong — but it means the report should be scrutinized, not accepted at
           face value. See our broader guide on{' '}
           <Link href="/resources/biased-insurance-experts" className="underline font-semibold">
@@ -263,7 +263,7 @@ export default function Content() {
           Roof Claim Denied Based on an Engineer Report?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          Don&apos;t accept the denial. A Public Adjuster can review the engineer&apos;s report,
+          Do not accept the denial. A Public Adjuster can review the engineer&apos;s report,
           hire an independent expert, and build the case to overturn it.
         </p>
         <Link
@@ -273,6 +273,16 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

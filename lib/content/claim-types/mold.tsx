@@ -18,7 +18,7 @@ export default function Content() {
         standalone claim type — you discover mold growing in your home — or it can develop as a
         secondary consequence of another covered loss, most commonly water damage. How mold fits
         into your claim dramatically affects your coverage, and insurance companies frequently
-        exploit this complexity to minimize what they pay.
+        take advantage of this complexity to minimize what they pay.
       </p>
 
       <CalloutBox variant="tip" title="Read Our Full Mold Article">
@@ -95,7 +95,7 @@ export default function Content() {
         a water loss with mold as a secondary consequence — not a &quot;mold claim.&quot; How the
         claim is characterized can significantly affect your coverage and the insurer&apos;s
         response. A licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         experienced with mold-related claims can help you navigate this process and ensure the

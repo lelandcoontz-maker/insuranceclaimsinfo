@@ -39,10 +39,10 @@ export default function Content() {
         <li>
           <strong>Notification.</strong> The lender sends you one or more notices informing you
           that your coverage has lapsed and that they will place insurance on your behalf if you
-          don&apos;t provide proof of coverage within a specified timeframe (usually 30–45 days).
+          do not provide proof of coverage within a specified timeframe (usually 30–45 days).
         </li>
         <li>
-          <strong>Placement.</strong> If you don&apos;t respond, the lender purchases a force-placed
+          <strong>Placement.</strong> If you do not respond, the lender purchases a force-placed
           policy from their preferred insurer. The lender typically has an existing relationship
           (and sometimes a financial arrangement) with this insurer.
         </li>
@@ -78,7 +78,7 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Why It&apos;s So Expensive
+        Why It is So Expensive
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Force-placed insurance premiums are dramatically inflated for several reasons:
@@ -90,11 +90,11 @@ export default function Content() {
         </li>
         <li>
           Lenders often receive commissions, kickbacks, or &ldquo;expense reimbursements&rdquo; from
-          the force-placed insurer. This creates a financial incentive for the lender that doesn&apos;t
+          the force-placed insurer. This creates a financial incentive for the lender that does not
           align with the borrower&apos;s interest.
         </li>
         <li>
-          The borrower has no competitive market pressure — they don&apos;t choose the insurer or
+          The borrower has no competitive market pressure — they do not choose the insurer or
           negotiate the premium.
         </li>
       </ul>
@@ -104,14 +104,14 @@ export default function Content() {
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Don&apos;t let coverage lapse.</strong> If you receive a non-renewal notice,
+          <strong>Do not let coverage lapse.</strong> If you receive a non-renewal notice,
           start shopping for replacement coverage immediately. Apply for the{' '}
           <Link href="/resources/california-fair-plan" className="text-[#2E74B5] hover:underline">California FAIR Plan</Link>{' '}
           well before your current policy expires.
         </li>
         <li>
           <strong>Respond to lender notices immediately.</strong> If you receive a notice from your
-          lender about a coverage lapse, don&apos;t ignore it. Provide proof of your new or
+          lender about a coverage lapse, do not ignore it. Provide proof of your new or
           continuing coverage as soon as possible.
         </li>
         <li>
@@ -150,11 +150,33 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Federal and State Protections">
         <p>
-          Under the Homeowner Flood Insurance Affordability Act and the Dodd-Frank Wall Street Reform
-          Act, lenders must follow specific procedures before force-placing insurance, including
-          providing adequate notice. California Insurance Code § 790.06 also provides additional
-          consumer protections. If your lender force-placed without proper notice, consult an attorney
-          — the placement may be improper.
+          Both federal and California law impose significant procedural requirements on lenders before
+          they can force-place insurance. Under federal law, 12 CFR 1024.37 (Regulation X, implementing
+          RESPA as amended by the Dodd-Frank Act) requires lenders to provide written notice and a
+          reasonable opportunity to obtain coverage before force-placing. In California, Civil Code
+          Sections 2946&ndash;2946.12 (enacted by AB 1603, 2012) provide additional protections
+          specific to mortgage-secured residential properties:
+        </p>
+        <ul className="list-disc pl-6 mt-3 space-y-2">
+          <li>
+            <strong>Cal. Civ. Code &sect; 2946.3:</strong> The lender must send two written notices at
+            least 30 days apart, plus wait an additional 15 days after the second notice, before
+            force-placing insurance.
+          </li>
+          <li>
+            <strong>Cal. Civ. Code &sect; 2946.6:</strong> Once the borrower provides proof of
+            coverage, the lender must terminate the force-placed policy and refund any premiums
+            within 15 days.
+          </li>
+          <li>
+            <strong>Cal. Civ. Code &sect; 2946.11:</strong> Borrowers have a private right of action
+            for violations, with attorney&rsquo;s fees and the greater of actual damages or $5,000.
+          </li>
+        </ul>
+        <p className="mt-3">
+          If your lender force-placed insurance without following these procedures, consult an
+          attorney &mdash; the placement may be improper and you may have a right to recover
+          the premiums charged.
         </p>
       </CalloutBox>
 
@@ -163,7 +185,7 @@ export default function Content() {
           Need Help Getting Proper Coverage?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          If you&apos;ve been non-renewed and are at risk of force-placed insurance, or if you&apos;ve
+          If you have been non-renewed and are at risk of force-placed insurance, or if you have
           suffered a loss while force-placed, contact us for guidance.
         </p>
         <Link
@@ -173,6 +195,16 @@ export default function Content() {
           Request a Free Consultation →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

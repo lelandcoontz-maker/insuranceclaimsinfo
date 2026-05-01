@@ -11,14 +11,14 @@ export default function Content() {
   return (
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
-        You&apos;ve fought with your insurance company for months. Your claim is underpaid,
-        the adjuster won&apos;t budge, and you&apos;re stuck. Before jumping to a lawsuit —
-        which can take years and cost thousands in legal fees — there&apos;s an intermediate
+        You have fought with your insurance company for months. Your claim is underpaid,
+        the adjuster will not budge, and you are stuck. Before jumping to a lawsuit —
+        which can take years and cost thousands in legal fees — there is an intermediate
         option that resolves many insurance disputes effectively: <strong>mediation</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Mediation is a voluntary, non-binding negotiation facilitated by a neutral third party (the
-        mediator). It&apos;s faster, cheaper, and less adversarial than litigation. Both sides
+        mediator). It is faster, cheaper, and less adversarial than litigation. Both sides
         present their positions, the mediator helps identify common ground, and — in many cases —
         a settlement is reached in a single day.
       </p>
@@ -93,7 +93,7 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        When Mediation Doesn&apos;t Work
+        When Mediation Does not Work
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -106,19 +106,19 @@ export default function Content() {
         <li>
           <strong>Bad faith is the primary issue.</strong> If your goal is to pursue{' '}
           <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith</Link>{' '}
-          damages (emotional distress, punitive damages), mediation alone won&apos;t get you there.
+          damages (emotional distress, punitive damages), mediation alone will not get you there.
           Bad faith claims usually require litigation or the serious threat of it.
         </li>
         <li>
           <strong>The insurer sends someone without authority.</strong> If the insurer&apos;s
-          representative can&apos;t agree to anything without calling the home office, the
+          representative cannot agree to anything without calling the home office, the
           mediation is a waste of time.
         </li>
       </ul>
 
       <CalloutBox variant="tip" title="Mediation vs. Appraisal">
         <p>
-          Don&apos;t confuse mediation with{' '}
+          Do not confuse mediation with{' '}
           <Link href="/resources/appraisal" className="underline font-semibold">appraisal</Link>.
           Appraisal is a contractual right under your policy that produces a <em>binding</em>{' '}
           determination of the amount of loss. Mediation is voluntary and non-binding. Appraisal
@@ -184,12 +184,12 @@ export default function Content() {
         </li>
         <li>
           <strong>Prepare a mediation brief.</strong> A 3–5 page written summary of your position,
-          with exhibits, gives the mediator context and demonstrates that you&apos;re prepared to
+          with exhibits, gives the mediator context and demonstrates that you are prepared to
           litigate if necessary.
         </li>
         <li>
           <strong>Bring your Public Adjuster or attorney.</strong> Having professional
-          representation at mediation signals to the insurer that you&apos;re serious and
+          representation at mediation signals to the insurer that you are serious and
           knowledgeable. Your representative can also identify weaknesses in the insurer&apos;s
           position during caucuses.
         </li>
@@ -231,10 +231,10 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>If you settle:</strong> The agreement is put in writing and signed by both
-          parties. It&apos;s binding and enforceable. Payment typically follows within 30 days.
+          parties. It is binding and enforceable. Payment typically follows within 30 days.
         </li>
         <li>
-          <strong>If you don&apos;t settle:</strong> Nothing said in mediation can be used against
+          <strong>If you do not settle:</strong> Nothing said in mediation can be used against
           you in court. Your legal rights are fully preserved. You can proceed with appraisal,
           CDI complaint, or litigation.
         </li>

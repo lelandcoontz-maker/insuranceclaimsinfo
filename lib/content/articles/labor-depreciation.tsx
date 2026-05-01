@@ -13,7 +13,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Of all the ways insurance companies shortchange claim payouts, depreciating labor may
         be the most indefensible. The concept is simple: you cannot buy &quot;used labor.&quot;
-        A roofer charges the same rate whether they&apos;re installing shingles on a new home
+        A roofer charges the same rate whether they are installing shingles on a new home
         or replacing 20-year-old shingles on yours. There is no &quot;depreciated&quot; version
         of a plumber&apos;s hourly rate.
       </p>
@@ -50,9 +50,9 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, the regulations require that depreciation be based on the &quot;condition&quot;
-        of the damaged property. Labor doesn&apos;t have a &quot;condition&quot; &mdash; it&apos;s
+        of the damaged property. Labor does not have a &quot;condition&quot; &mdash; it is
         a service, not a physical object that wears out. This creates a strong argument against
-        labor depreciation in California, though the issue hasn&apos;t been definitively resolved
+        labor depreciation in California, though the issue has not been definitively resolved
         by the state&apos;s highest court.
       </p>
 
@@ -87,7 +87,7 @@ export default function Content() {
           On a $30,000 repair estimate where labor represents 40% of the cost ($12,000),
           applying 25% depreciation to labor improperly reduces your ACV payment by $3,000.
           On larger claims, improper labor depreciation can cost you $10,000 or more.
-          It&apos;s worth fighting.
+          It is worth fighting.
         </p>
       </CalloutBox>
 

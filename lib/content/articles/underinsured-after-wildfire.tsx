@@ -12,13 +12,16 @@ export default function Content() {
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most devastating discoveries after a wildfire is learning that your insurance
-        isn&apos;t enough to rebuild. Your home is gone, and the insurer tells you the policy limit
+        is not enough to rebuild. Your home is gone, and the insurer tells you the policy limit
         is $500,000 — but contractors are quoting $800,000 to rebuild. This gap, sometimes hundreds
-        of thousands of dollars, is the underinsurance crisis. According to the American Policyholder
-        Association, approximately 40% of claims between 2018 and 2020 were underpaid, with
-        households receiving $200,000–$300,000 less than they were entitled to. After the 2025 Los
-        Angeles wildfires, nearly 80% of victims reported serious insurance claim issues. This is
-        not an isolated problem — it&apos;s systemic.
+        of thousands of dollars, is the underinsurance crisis. Insurance claim underpayment is a
+        well-documented problem — congressional testimony, regulatory investigations, and
+        policyholder advocacy groups have consistently shown that insurers routinely reduce field
+        adjusters&apos; damage estimates through desk reviews, sometimes cutting payments
+        dramatically. After the 2025 Los Angeles wildfires, according to a January 2026 survey of
+        2,443 adults in fire-impacted Los Angeles communities, commissioned by the Department of
+        Angels, nearly 80% of victims reported serious insurance claim issues. This is not an
+        isolated problem — it is systemic.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -33,20 +36,24 @@ export default function Content() {
           particularly in high-demand post-disaster markets where labor and materials are scarce.
         </li>
         <li>
-          <strong>Construction costs have surged.</strong> California construction costs have
-          increased 30–60% in recent years due to labor shortages, material cost inflation, supply
-          chain disruptions, and increased demand after major disasters. Your policy limit,
-          set years ago, hasn&apos;t kept pace.
+          <strong>Construction costs have surged.</strong> According to NAHB data, the average
+          cost of constructing a single-family home increased roughly 37% between 2019 and 2024,
+          with construction cost inflation reaching record highs. In disaster-affected areas, the
+          increases can be substantially higher due to demand surge and supply chain disruptions.
+          Your policy limit, set years ago, has not kept pace.
         </li>
         <li>
-          <strong>Inflation guard isn&apos;t enough.</strong> Many policies include an &ldquo;
+          <strong>Inflation guard is not enough.</strong> Many policies include an &ldquo;
           inflation guard&rdquo; that automatically increases Coverage A by 2–4% annually. But
           actual construction cost increases have far outpaced this adjustment.
         </li>
         <li>
           <strong>Demand surge after a disaster.</strong> After a major wildfire, thousands of homes
           need to be rebuilt simultaneously. Contractor availability plummets and prices spike.
-          This &ldquo;demand surge&rdquo; can add 20–40% to normal rebuild costs — and it&apos;s
+          After a major disaster, demand surge — the spike in labor and material costs caused by
+          overwhelming demand — can significantly increase rebuild costs. Industry catastrophe
+          models typically apply a 15–20% demand surge factor, though actual cost increases have
+          reached 30–50% for specific materials and labor categories in past disasters. This is
           not reflected in your pre-loss policy limit.
         </li>
         <li>
@@ -68,8 +75,8 @@ export default function Content() {
         <p>
           In many cases, the insurer recommended or set the Coverage A limit based on their own
           valuation tool. If that tool underestimated rebuild costs, there is an argument that the
-          insurer bears responsibility for the gap. This doesn&apos;t automatically mean you&apos;ll
-          recover more than your policy limit, but it&apos;s an important factor in potential bad
+          insurer bears responsibility for the gap. This does not automatically mean you&apos;ll
+          recover more than your policy limit, but it is an important factor in potential bad
           faith or negligence claims against the insurer or agent.
         </p>
       </CalloutBox>
@@ -88,7 +95,7 @@ export default function Content() {
         endorsement, your effective dwelling coverage is $750,000. However:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>You typically must <strong>actually rebuild</strong> to access the extended amount — you can&apos;t take a cash settlement and pocket the extended coverage</li>
+        <li>You typically must <strong>actually rebuild</strong> to access the extended amount — you cannot take a cash settlement and pocket the extended coverage</li>
         <li>You must rebuild on the <strong>same premises</strong> (some policies) or within the same area</li>
         <li>There may be a <strong>time limit</strong> to begin and complete rebuilding</li>
       </ul>
@@ -100,12 +107,12 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>The increased cost of construction to meet current codes</li>
-        <li>Demolition of undamaged portions that don&apos;t meet code</li>
+        <li>Demolition of undamaged portions that do not meet code</li>
         <li>The value of the undamaged portion that must be demolished</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         O&amp;L limits are often 10–25% of Coverage A. If your O&amp;L is 10% on a $500,000
-        policy, that&apos;s only $50,000 for code upgrades — which may not be enough. Review your{' '}
+        policy, that is only $50,000 for code upgrades — which may not be enough. Review your{' '}
         <Link href="/resources/ordinance-law" className="text-[#2E74B5] hover:underline">O&amp;L coverage guide</Link>{' '}
         for details.
       </p>
@@ -124,7 +131,7 @@ export default function Content() {
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Get an independent rebuild estimate.</strong> Don&apos;t accept the insurer&apos;s
+          <strong>Get an independent rebuild estimate.</strong> Do not accept the insurer&apos;s
           estimate of rebuild cost. Hire a licensed contractor or professional estimator who
           understands current local costs. This is your baseline for negotiation.
         </li>
@@ -139,8 +146,8 @@ export default function Content() {
         <li>
           <strong>Maximize your contents claim.</strong> Use our free{' '}
           <Link href="/inventory" className="text-[#2E74B5] hover:underline">Personal Property Inventory Tool</Link>{' '}
-          to document every item you owned. Be thorough — the average policyholder leaves
-          20–40% of their contents value undocumented.
+          to document every item you owned. Be thorough — many policyholders significantly
+          underutilize their contents coverage by not inventorying completely.
         </li>
         <li>
           <strong>Invoke the extended replacement cost endorsement.</strong> If you have one,
@@ -152,7 +159,7 @@ export default function Content() {
           the rebuild cost within your policy limits, fight the{' '}
           <Link href="/resources/scope-of-loss" className="text-[#2E74B5] hover:underline">scope</Link> and{' '}
           <Link href="/resources/xactimate" className="text-[#2E74B5] hover:underline">Xactimate pricing</Link>.
-          Even within an underinsured claim, the insurer must pay your full limit — they can&apos;t
+          Even within an underinsured claim, the insurer must pay your full limit — they cannot
           lowball you below that.
         </li>
         <li>
@@ -172,7 +179,7 @@ export default function Content() {
         Rebuilding vs. Cashing Out When Underinsured
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you&apos;re significantly underinsured, you face a difficult choice: rebuild with a
+        If you are significantly underinsured, you face a difficult choice: rebuild with a
         large out-of-pocket cost, or take a cash settlement and use it toward a different
         property. Key considerations:
       </p>
@@ -183,14 +190,14 @@ export default function Content() {
           forfeits this.
         </li>
         <li>
-          <strong>Cash settlement is limited to ACV.</strong> If you don&apos;t rebuild, the insurer
+          <strong>Cash settlement is limited to ACV.</strong> If you do not rebuild, the insurer
           pays the actual cash value (depreciated value) of your home — not the replacement cost.
           This is a significant reduction.
         </li>
         <li>
           <strong>Contents holdback requires replacement.</strong> Under a replacement cost policy,
           you receive the depreciation holdback on contents only when you actually replace items.
-          If you don&apos;t replace, you receive only ACV.
+          If you do not replace, you receive only ACV.
         </li>
         <li>
           <strong>Tax implications differ.</strong> Insurance proceeds for rebuilding are generally

@@ -172,7 +172,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Without independent expert representation, cargo owners frequently leave significant
         money on the table &mdash; not because their claims are invalid, but because they
-        don&apos;t know to ask for it. This is the same dynamic we see in{' '}
+        do not know to ask for it. This is the same dynamic we see in{' '}
         <Link href="/resources/first-offer-lowball" className="text-[#2E74B5] hover:underline">
           residential claims where policyholders accept the first offer
         </Link>.
@@ -393,7 +393,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For more on how public adjuster fees work, see our{' '}
         <Link href="/resources/public-adjuster-fees" className="text-[#2E74B5] hover:underline">
-          guide to PA fees and when they&apos;re worth it
+          guide to PA fees and when they are worth it
         </Link>.
       </p>
 
@@ -433,7 +433,7 @@ export default function Content() {
           <p className="text-sm text-gray-700">
             The Carriage of Goods by Sea Act limits ocean carrier liability to $500 per package
             unless a higher value was declared &mdash; meaning the carrier may owe far less than
-            the actual loss. An adjuster who doesn&apos;t understand this will misframe the
+            the actual loss. An adjuster who does not understand this will misframe the
             entire claim. The right adjuster knows where to look for value and how to bridge the
             gap through the cargo insurance policy.
           </p>
@@ -497,9 +497,9 @@ export default function Content() {
         The international cargo insurance market represents billions of dollars in claims
         annually. Yet the policyholder advocacy infrastructure that serves homeowners and
         commercial property owners &mdash; the public adjuster industry &mdash; has largely not
-        extended its reach into cargo claims. Most importers and exporters don&apos;t know they
-        have the right to hire their own adjuster. They don&apos;t know the surveyor on site
-        works for the insurance company, not for them. And they don&apos;t know how much they are
+        extended its reach into cargo claims. Most importers and exporters do not know they
+        have the right to hire their own adjuster. They do not know the surveyor on site
+        works for the insurance company, not for them. And they do not know how much they are
         leaving on the table.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

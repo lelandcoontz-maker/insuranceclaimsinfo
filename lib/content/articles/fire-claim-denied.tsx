@@ -4,26 +4,36 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Fire Damage Insurance Claim Denied? Here\'s What to Do',
   description:
-    'What to do when your fire damage insurance claim is denied or underpaid — common denial reasons, your appeal rights, and how to fight back under California law.',
+    'What to do when your fire damage insurance claim is denied or underpaid — common denial reasons, your appeal rights, and how to challenge the denial under California law.',
 }
 
 export default function Content() {
   return (
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
-        You&apos;ve lost your home or suffered major fire damage, and now the insurance company is
+        You have lost your home or suffered major fire damage, and now the insurance company is
         denying your claim — or offering a fraction of what it will actually cost to rebuild. This
         is devastatingly common. Insurers deny or underpay fire claims for a range of reasons, some
         legitimate and many not. This guide covers the most common denial reasons, your rights under
-        California law, and the concrete steps you can take to fight back.
+        California law, and the concrete steps you can take to protect your rights.
       </p>
 
       <CalloutBox variant="warning" title="Time Is Critical">
         <p>
-          Under California&apos;s standard fire policy, you have only <strong>one year from the
-          date of denial</strong> to file suit (though{' '}
+          Under the California standard fire policy (Insurance Code Section 2071), a suit must be
+          brought within <strong>12 months from the &ldquo;inception of the loss&rdquo;</strong>
+          &mdash; not from the date of denial. However, the actual limitation language in your
+          policy may differ from the statutory default, so it is important to read your specific
+          policy. California&rsquo;s{' '}
           <Link href="/resources/equitable-tolling" className="underline font-semibold">equitable tolling</Link>{' '}
-          may extend this in some cases). Don&apos;t sit on a denial — act immediately.
+          doctrine means the limitations period may be tolled (paused) while the insurer is actively
+          adjusting the claim. Some policies explain equitable tolling; others do not &mdash; but the
+          doctrine applies regardless of whether the policy mentions it. The practical effect is that
+          the one-year clock typically does not start running until the insurer has finished its
+          investigation and made a final coverage determination, but this is a fact-specific legal
+          analysis. Because the deadline involves complex legal questions about when the clock starts,
+          when it may be tolled, and what your specific policy says, consult an attorney promptly to
+          understand your deadline. Do not sit on a denial &mdash; act immediately.
         </p>
       </CalloutBox>
 
@@ -33,10 +43,10 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">1. Alleged Policy Lapse or Non-Payment</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insurer claims your policy wasn&apos;t in force at the time of the fire. This can happen
+        The insurer claims your policy was not in force at the time of the fire. This can happen
         due to a missed premium payment, a bank error, or (in some cases) an insurer processing error.
         Under California law, the insurer must provide proper notice before cancellation for non-payment
-        — at least 10 days&apos; written notice (Insurance Code § 678(a)). If proper notice wasn&apos;t
+        — at least 10 days&apos; written notice (Insurance Code § 678(a)). If proper notice was not
         given, the cancellation may be invalid and your claim should be covered.
       </p>
 
@@ -47,7 +57,7 @@ export default function Content() {
         preponderance of the evidence. However, insurers sometimes raise arson suspicions as a delay
         tactic or pressure tool even without solid evidence. They may also allege concealment or
         misrepresentation — claiming you hid or inflated information on your application or in your
-        claim. If you&apos;re facing arson or fraud allegations, you need an attorney immediately.
+        claim. If you are facing arson or fraud allegations, you need an attorney immediately.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">3. &ldquo;Vacancy&rdquo; Exclusion</h3>
@@ -73,7 +83,7 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">5. Coverage Disputes and Exclusions</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insurer claims the cause of loss isn&apos;t covered. For example: the fire originated
+        The insurer claims the cause of loss is not covered. For example: the fire originated
         from an electrical malfunction that the insurer attributes to an excluded cause, or they
         argue the damage was pre-existing. In California, ambiguities in the policy are resolved
         in favor of the policyholder. See our guide on{' '}
@@ -82,7 +92,7 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">6. Underinsurance / Policy Limits</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This isn&apos;t technically a &ldquo;denial&rdquo; — but it&apos;s the most common source
+        This is not technically a &ldquo;denial&rdquo; — but it is the most common source
         of underpayment. The insurer pays up to your policy limit, but your limit is far below actual
         rebuild cost. If you have an extended replacement cost endorsement, you may be entitled to
         an additional 25–50% above your Coverage A limit, but you must actually begin rebuilding
@@ -151,7 +161,7 @@ export default function Content() {
         <li>The insurer ignores evidence supporting coverage</li>
         <li>The denial is based on a policy interpretation that no reasonable insurer would adopt</li>
         <li>The insurer fails to provide the specific reasons for the denial in writing</li>
-        <li>The insurer uses the claim process to pressure you into accepting less than you&apos;re owed</li>
+        <li>The insurer uses the claim process to pressure you into accepting less than you are owed</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California law, bad faith can give rise to damages beyond your policy limits —
@@ -171,8 +181,8 @@ export default function Content() {
           the day-to-day claims process and are paid on contingency.
         </li>
         <li>
-          <strong>Attorney:</strong> Best when there&apos;s a coverage denial, arson/fraud
-          allegation, policy rescission, or you&apos;re contemplating a bad faith lawsuit. Attorneys
+          <strong>Attorney:</strong> Best when there is a coverage denial, arson/fraud
+          allegation, policy rescission, or you are contemplating a bad faith lawsuit. Attorneys
           can litigate; PAs cannot.
         </li>
         <li>
@@ -187,7 +197,7 @@ export default function Content() {
           Fire Claim Denied or Underpaid?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          Don&apos;t accept a denial without a fight. Contact us for a free review of your denial
+          Do not accept a denial without a fight. Contact us for a free review of your denial
           letter and policy — we&apos;ll tell you honestly whether you have a case.
         </p>
         <Link
@@ -197,6 +207,16 @@ export default function Content() {
           Request a Free Claim Review →
         </Link>
       </div>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

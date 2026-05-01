@@ -148,7 +148,7 @@ export default function Content() {
         position if it is still present. Get the driver&apos;s insurance information and contact
         details. Do not allow any repairs until both your insurance company and a structural
         engineer have assessed the damage. If the damage is significant, a licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can help ensure the full extent of structural damage is identified and included in

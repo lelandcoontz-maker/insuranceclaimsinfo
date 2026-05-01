@@ -15,31 +15,31 @@ export default function Content() {
         State Farm, Allstate, Farmers, USAA, and others — have either stopped writing new homeowner
         policies in the state, non-renewed large blocks of existing policies, or dramatically
         increased premiums. For hundreds of thousands of California homeowners, the question is no
-        longer whether insurance is getting more expensive — it&apos;s whether they can get insurance at
+        longer whether insurance is getting more expensive — it is whether they can get insurance at
         all.
       </p>
 
       <CalloutBox variant="warning" title="If You've Received a Non-Renewal Notice">
         <p>
-          Don&apos;t ignore it. You typically have 75 days to find replacement coverage before
-          your current policy expires. If you can&apos;t find a standard market policy, the{' '}
+          Do not ignore it. You typically have 75 days to find replacement coverage before
+          your current policy expires. If you cannot find a standard market policy, the{' '}
           <Link href="/resources/california-fair-plan" className="underline font-semibold">California FAIR Plan</Link>{' '}
           is your safety net — but apply early, as processing times have increased dramatically.
         </p>
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What&apos;s Driving the Crisis
+        What is Driving the Crisis
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The crisis has no single cause. It&apos;s the result of several converging factors that have
+        The crisis has no single cause. It is the result of several converging factors that have
         made California increasingly unprofitable for property insurers:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Wildfire catastrophe losses.</strong> The 2017 and 2018 wildfire seasons produced
           over $30 billion in insured losses. The 2025 Palisades and Eaton fires are projected to
-          exceed $35 billion in structural losses alone. These aren&apos;t one-off events — they&apos;re
+          exceed $35 billion in structural losses alone. These are not one-off events — they are
           the new baseline.
         </li>
         <li>
@@ -104,13 +104,13 @@ export default function Content() {
         </li>
         <li>
           <strong>Home sales are affected.</strong> Mortgage lenders require homeowner insurance. If a
-          buyer can&apos;t get coverage, the transaction can fall apart. This depresses property values
+          buyer cannot get coverage, the transaction can fall apart. This depresses property values
           in affected areas.
         </li>
         <li>
           <strong>Underinsurance is rampant.</strong> Homeowners who can get coverage are often
           underinsured because they chose lower coverage limits to make premiums affordable, or
-          because their insurer hasn&apos;t updated replacement cost estimates to reflect actual
+          because their insurer has not updated replacement cost estimates to reflect actual
           construction costs.
         </li>
       </ul>
@@ -119,7 +119,7 @@ export default function Content() {
         Your Rights Under California Law
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has several protections for policyholders — though they don&apos;t solve the
+        California has several protections for policyholders — though they do not solve the
         underlying market problem:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -151,7 +151,7 @@ export default function Content() {
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Review your current policy carefully.</strong> Don&apos;t wait for a non-renewal notice.
+          <strong>Review your current policy carefully.</strong> Do not wait for a non-renewal notice.
           Check your{' '}
           <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">declarations page</Link>{' '}
           to understand your limits. Are your Coverage A (dwelling) limits sufficient to rebuild at
@@ -171,20 +171,20 @@ export default function Content() {
           getting coverage and being non-renewed.
         </li>
         <li>
-          <strong>Get a replacement cost estimate.</strong> Don&apos;t rely on your insurer&apos;s automated
+          <strong>Get a replacement cost estimate.</strong> Do not rely on your insurer&apos;s automated
           estimate. Hire a contractor or appraiser to provide a realistic rebuild cost. This is
           your best defense against underinsurance.
         </li>
         <li>
           <strong>Shop early if your renewal is coming up.</strong> Start looking 90+ days before
           your renewal date. If your current carrier non-renews, you&apos;ll have the 75-day notice
-          period — but don&apos;t wait until the last week.
+          period — but do not wait until the last week.
         </li>
         <li>
           <strong>Consider a surplus lines carrier.</strong> Surplus lines insurers (non-admitted
           carriers) are not subject to Prop 103 rate regulation and can price policies based on
           their own risk models. Premiums are higher, but coverage may be available when admitted
-          carriers won&apos;t write the risk. Ask your broker about options.
+          carriers will not write the risk. Ask your broker about options.
         </li>
         <li>
           <strong>Apply for the FAIR Plan early.</strong> Processing times have stretched from days
@@ -199,7 +199,7 @@ export default function Content() {
           The FAIR Plan only covers fire and a few named perils. To get something closer to a
           standard homeowner policy, you need a &ldquo;wrap-around&rdquo; or DIC (Difference in
           Conditions) policy. Several carriers offer DIC policies specifically designed to pair with
-          the FAIR Plan. Ask your broker about this combination — it&apos;s becoming the standard
+          the FAIR Plan. Ask your broker about this combination — it is becoming the standard
           solution in many high-risk areas.
         </p>
       </CalloutBox>
@@ -209,7 +209,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have a current policy and suffer a loss, your insurer must honor the policy regardless
-        of whether they plan to non-renew you afterward. The crisis doesn&apos;t change your coverage
+        of whether they plan to non-renew you afterward. The crisis does not change your coverage
         rights — it changes your ability to get future coverage. However, be aware of several
         practical impacts:
       </p>
@@ -222,12 +222,12 @@ export default function Content() {
         </li>
         <li>
           <strong>Lowball initial offers.</strong> The pressure on insurer profitability makes
-          aggressive claims handling even more likely. Don&apos;t accept the first offer without
+          aggressive claims handling even more likely. Do not accept the first offer without
           independent analysis. See our guide on{' '}
           <Link href="/resources/negotiation" className="text-[#2E74B5] hover:underline">claim negotiation</Link>.
         </li>
         <li>
-          <strong>Underinsurance discovery at claim time.</strong> Many homeowners discover they&apos;re
+          <strong>Underinsurance discovery at claim time.</strong> Many homeowners discover they are
           underinsured only after a total loss. If your Coverage A limit is $400,000 but it costs
           $700,000 to rebuild, you have a $300,000 gap. California&apos;s extended replacement cost
           endorsement (if you have it) may cover an additional 25–50% above your limit, but even
@@ -246,7 +246,7 @@ export default function Content() {
         <Link href="/resources/ordinance-law" className="text-[#2E74B5] hover:underline">ordinance or law</Link>,{' '}
         <Link href="/resources/ale-frv" className="text-[#2E74B5] hover:underline">ALE</Link>,{' '}
         <Link href="/resources/debris-removal" className="text-[#2E74B5] hover:underline">debris removal</Link>),
-        and negotiate for the full settlement you&apos;re entitled to.
+        and negotiate for the full settlement you are entitled to.
       </p>
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center">
@@ -254,8 +254,8 @@ export default function Content() {
           Dealing With a Claim in This Market?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          Whether you&apos;ve been non-renewed, underinsured, or just need help navigating a claim —
-          we&apos;re here to help. Free consultation, no obligation.
+          Whether you have been non-renewed, underinsured, or just need help navigating a claim —
+          we are here to help. Free consultation, no obligation.
         </p>
         <Link
           href="/contact"

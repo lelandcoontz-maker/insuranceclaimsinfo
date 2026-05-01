@@ -125,6 +125,24 @@ export default function FaqPage() {
 
           {/* ── FAQ Sections ─────────────────────────────────────────────── */}
           <div className="flex-1 min-w-0 space-y-14">
+
+            {/* ── Page-Level Disclaimer ──────────────────────────────────── */}
+            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
+              <div className="flex gap-3">
+                <span className="text-lg flex-shrink-0">&#x2139;&#xFE0F;</span>
+                <p className="text-sm text-blue-800 leading-relaxed">
+                  <strong>Educational Information Only:</strong> The answers below are intended
+                  as general educational information about insurance claims in California. They
+                  do not constitute legal advice, and every claim involves unique facts and
+                  policy language. For guidance specific to your situation, consult a licensed
+                  attorney or a{' '}
+                  <Link href="/contact" className="text-[#2E74B5] underline">
+                    California Licensed Public Adjuster
+                  </Link>.
+                </p>
+              </div>
+            </div>
+
             {FAQ_CATEGORIES.map((cat) => (
               <section key={cat.id} id={cat.id} className="scroll-mt-8">
                 {/* Category heading */}

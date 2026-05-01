@@ -14,11 +14,17 @@ export default function Content() {
         California wildfires have become larger, more frequent, and more destructive. Whether you
         were affected by the Palisades fire, the Eaton fire, or another wildfire, the insurance
         claims process that follows is complex, stressful, and often adversarial. After the 2025
-        Los Angeles wildfires, nearly 80% of victims reported serious insurance claim issues —
-        delays, underpayments, and outright denials. Nationally, the American Policyholder
-        Association found that 40% of claims were underpaid, with households receiving
-        $200,000–$300,000 less than they were entitled to. This guide walks you through the critical
-        steps, coverages, and pitfalls specific to California wildfire claims.
+        Los Angeles wildfires, according to the &ldquo;Community Voices: LA Fire Recovery
+        Report&rdquo; (January 2026 edition) &mdash; a survey of 2,443 adults conducted by Embold
+        Research from November 18 to December 2, 2025, polling residents of fire-impacted
+        communities including Altadena, Pacific Palisades, Malibu, and Pasadena, commissioned by
+        the Department of Angels &mdash; nearly 80% of victims reported serious insurance claim
+        issues: delays, underpayments, and outright denials.
+        Insurance claim underpayment is a well-documented problem — congressional testimony,
+        regulatory investigations, and policyholder advocacy groups have consistently shown that
+        insurers routinely reduce field adjusters&apos; damage estimates through desk reviews,
+        sometimes cutting payments dramatically. This guide walks you through the critical steps,
+        coverages, and pitfalls specific to California wildfire claims.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -320,7 +326,7 @@ export default function Content() {
         combination of dwelling damage, contents loss, displacement costs, code upgrade
         requirements, and potential contamination issues creates a claim with many moving parts and
         many opportunities for the insurer to underpay. A licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         who specializes in wildfire claims can manage the entire process on your behalf, ensuring
@@ -331,6 +337,16 @@ export default function Content() {
         </Link>{' '}
         generally, see our dedicated guide.
       </p>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
+        </p>
+      </CalloutBox>
     </>
   )
 }

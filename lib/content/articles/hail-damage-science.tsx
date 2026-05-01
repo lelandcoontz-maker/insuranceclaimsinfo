@@ -14,8 +14,8 @@ export default function Content() {
         Hail damage is one of the most disputed causes of roof damage in property insurance. The
         reason is simple: hail damage is invisible from the ground, requires hands-on roof inspection
         to identify, and can be mischaracterized by anyone without proper training. Insurance
-        carriers exploit this ambiguity by sending engineers who misidentify hail impacts, use
-        flawed methodology, or apply manufacturer standards that don&apos;t reflect real-world
+        carriers take advantage of this ambiguity by sending engineers who misidentify hail impacts, use
+        flawed methodology, or apply manufacturer standards that do not reflect real-world
         conditions.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -63,7 +63,7 @@ export default function Content() {
       <CalloutBox variant="important" title="Functional Damage vs. Cosmetic Damage">
         <p>
           Insurance companies increasingly try to classify hail damage as &ldquo;cosmetic
-          only&rdquo; — meaning it looks bad but doesn&apos;t affect the shingle&apos;s ability to
+          only&rdquo; — meaning it looks bad but does not affect the shingle&apos;s ability to
           shed water. This is often wrong. Granule displacement exposes the asphalt layer to UV
           degradation, accelerating deterioration. Mat bruising compromises structural integrity.
           Even &ldquo;cosmetic&rdquo; damage shortens the roof&apos;s remaining life. See our
@@ -98,7 +98,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Random placement:</strong> Test squares should be placed randomly, not
-          cherry-picked. An honest inspector doesn&apos;t choose the best-looking area to minimize
+          cherry-picked. An honest inspector does not choose the best-looking area to minimize
           counts.
         </li>
         <li>
@@ -107,7 +107,7 @@ export default function Content() {
           be recorded.
         </li>
         <li>
-          <strong>Threshold counts:</strong> While there&apos;s no universal &ldquo;magic number,&rdquo;
+          <strong>Threshold counts:</strong> While there is no universal &ldquo;magic number,&rdquo;
           most roofing manufacturers and industry professionals consider 8 or more hail hits per
           test square to indicate damage warranting replacement. Some carriers internally use 10–15
           hits as their threshold — a number they rarely disclose to policyholders.
@@ -143,7 +143,7 @@ export default function Content() {
         Distinguishing Hail Damage From Other Conditions
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Carrier engineers exploit the fact that several roof conditions can superficially resemble
+        Carrier engineers leverage the fact that several roof conditions can superficially resemble
         hail damage. Knowing the differences is critical for challenging their reports.
       </p>
 
@@ -200,9 +200,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Foot traffic damage creates scuff marks — elongated, directional marks typically following
         walking paths (ridgeline, around pipe penetrations, near HVAC equipment). The granule
-        displacement is linear and directional, not circular. Foot traffic marks don&apos;t have the
-        characteristic indentation of hail and won&apos;t be accompanied by collateral damage to
-        soft metals, as walking on the roof doesn&apos;t dent aluminum vents.
+        displacement is linear and directional, not circular. Foot traffic marks do not have the
+        characteristic indentation of hail and will not be accompanied by collateral damage to
+        soft metals, as walking on the roof does not dent aluminum vents.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -231,7 +231,7 @@ export default function Content() {
         Collateral Damage: The Evidence Carriers Ignore
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Hail doesn&apos;t discriminate — it hits everything. Soft metals and other exterior
+        Hail does not discriminate — it hits everything. Soft metals and other exterior
         components provide powerful corroborating evidence that a hail event impacted the property.
         These items include:
       </p>
@@ -264,7 +264,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Carrier engineers frequently ignore collateral damage entirely — or inspect it and omit it
         from their report. If the engineer&apos;s report says &ldquo;no hail damage to the
-        roof&rdquo; but doesn&apos;t mention the dented gutters, dented vents, and dented HVAC unit,
+        roof&rdquo; but does not mention the dented gutters, dented vents, and dented HVAC unit,
         the report is incomplete at best and misleading at worst.
       </p>
 
@@ -301,7 +301,7 @@ export default function Content() {
         <li>
           <strong>Steel ball vs. real hail:</strong> UL 2218 uses steel balls dropped from specific
           heights. Real hailstones are irregular, sometimes jagged, and can be denser than the test
-          ball equivalent. A 2-inch hailstone doesn&apos;t behave identically to a 2-inch steel ball.
+          ball equivalent. A 2-inch hailstone does not behave identically to a 2-inch steel ball.
         </li>
         <li>
           <strong>Single impact vs. repeated impact:</strong> Lab tests apply a single impact per
@@ -311,7 +311,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The bottom line: manufacturer impact ratings tell you how a <em>new</em> shingle performs in
-        a <em>lab</em>. They don&apos;t tell you whether a 12-year-old shingle on your roof survived
+        a <em>lab</em>. They do not tell you whether a 12-year-old shingle on your roof survived
         last Tuesday&apos;s storm. An engineer who cites UL 2218 ratings to deny damage on an aged
         roof is misapplying the standard.
       </p>
@@ -347,7 +347,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         If multiple data sources confirm 1.5-inch hail at your location and the carrier&apos;s
-        engineer says there&apos;s no hail damage, the weather data directly contradicts the
+        engineer says there is no hail damage, the weather data directly contradicts the
         engineer&apos;s conclusion. This is powerful rebuttal evidence.
       </p>
 
@@ -401,7 +401,7 @@ export default function Content() {
         </li>
       </ol>
 
-      <CalloutBox variant="warning" title="Don&apos;t Wait to Document">
+      <CalloutBox variant="warning" title="Do not Wait to Document">
         <p>
           Hail damage evidence degrades over time. Granule loss from hail can be obscured by
           subsequent weathering. Soft metal dents can be attributed to other causes months later.

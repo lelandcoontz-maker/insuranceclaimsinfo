@@ -302,7 +302,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are dealing with a debris removal dispute or believe your insurer has underestimated
         your debris removal costs, a licensed{' '}
-        <Link href="/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
         can review your claim, identify what has been missed, and fight for the full amount you are
@@ -310,12 +310,22 @@ export default function Content() {
         offers and what the policy actually provides can be substantial.
       </p>
 
-      <CalloutBox variant="tip" title="Bottom Line">
+      <CalloutBox variant="tip" title="Key Takeaway">
         <p>
           Debris removal is not a minor line item — it is a significant coverage that applies across
           multiple categories of property. Break it out, document it, and do not let your insurer
           treat it as an afterthought. On a total loss, proper debris removal documentation can add
           tens of thousands of dollars to your settlement.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
+          a licensed Public Adjuster may be able to assist.
         </p>
       </CalloutBox>
     </>
