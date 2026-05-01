@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { ArticleLayout } from '@/components/content/ArticleLayout'
+import { RelatedArticles } from '@/components/content/RelatedArticles'
 import { JsonLd } from '@/components/seo/JsonLd'
 
 const ARTICLE_META: Record<string, { title: string; description: string }> = {
@@ -334,6 +335,7 @@ export default async function ResourceArticlePage({ params }: Props) {
             title={title}
             description={meta?.description}
             backLink={{ href: '/resources', label: 'Back to Resources' }}
+            afterContent={<RelatedArticles currentSlug={slug} />}
           >
             <Content />
           </ArticleLayout>

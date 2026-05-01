@@ -10,10 +10,11 @@ interface ArticleLayoutProps {
   description?: string
   backLink?: { href: string; label: string }
   toc?: TocItem[]
+  afterContent?: React.ReactNode
   children: React.ReactNode
 }
 
-export function ArticleLayout({ title, description, backLink, toc, children }: ArticleLayoutProps) {
+export function ArticleLayout({ title, description, backLink, toc, afterContent, children }: ArticleLayoutProps) {
   return (
     <>
       {/* Header */}
@@ -64,6 +65,7 @@ export function ArticleLayout({ title, description, backLink, toc, children }: A
             {children}
           </div>
         )}
+        {afterContent}
       </div>
 
       {/* Bottom CTA */}
