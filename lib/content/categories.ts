@@ -21,6 +21,14 @@ export const CATEGORIES: Category[] = [
     headingColor: 'text-amber-900',
     articles: [
       {
+        icon: '📑',
+        title: 'Types of Insurance Policies: Residential, Commercial & Specialty',
+        desc: 'HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial property, BOP, flood, earthquake, DIC, builder\'s risk, and inland marine — what each covers and who needs it.',
+        href: '/resources/policy-types-overview',
+        tag: 'Start Here',
+        tagColor: 'bg-red-100 text-red-700',
+      },
+      {
         icon: '📋',
         title: 'Policy Interpretation Guide',
         desc: 'Coverages A, B, C, D explained. HO3 vs named peril, commercial vs residential, co-insurance, endorsements, and how to read your entire policy.',

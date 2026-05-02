@@ -130,11 +130,23 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Raccoons also carry leptospirosis, giardia, canine distemper, and other pathogens.
-        Their urine can contaminate insulation, drywall, and framing. The Orange County Vector
-        Control District has published public notices about the extreme health hazards of
-        raccoon feces and the diseases raccoons carry &mdash; this is not speculative risk.
-        It is a documented public health concern.
+        Their urine can contaminate insulation, drywall, and framing.
       </p>
+      <CalloutBox variant="warning" title="Public Health Authority: Orange County Vector Control District">
+        <p>
+          The Orange County Vector Control District (Pest Control Bulletin No. 30, 2006)
+          confirms that raccoons (<em>Procyon lotor</em>) are &ldquo;widely distributed
+          throughout California, especially in heavily populated and urbanized areas.&rdquo;
+          On the disease risk, the bulletin states: <strong>&ldquo;Most Orange County raccoons
+          have <em>B. procyonis</em> and shed millions of infective eggs in stools in urban
+          neighborhoods.&rdquo;</strong> The CDC adds that <em>Baylisascaris</em> eggs
+          &ldquo;are hard to kill; most chemicals do not kill the eggs but extreme heat
+          (such as boiling water) will kill the eggs instantly&rdquo; &mdash; and that people
+          &ldquo;may also become infected by breathing in the microscopic eggs that may
+          become airborne when dry.&rdquo; This is not speculative risk. It is a documented
+          public health concern backed by government health authorities.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         What Raccoon Remediation Actually Requires

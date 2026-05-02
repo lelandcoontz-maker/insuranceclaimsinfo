@@ -21,6 +21,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
   {
     heading: 'Understanding Your Policy',
     links: [
+      { href: '/resources/policy-types-overview', label: 'Types of Insurance Policies' },
       { href: '/resources/policy-interpretation', label: 'Understanding Your Policy' },
       { href: '/resources/declarations-page', label: 'Reading Your Dec Page' },
       { href: '/resources/exclusions', label: 'Policy Exclusions' },

@@ -6,6 +6,7 @@ import { JsonLd } from '@/components/seo/JsonLd'
 
 const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'california-fair-claims': { title: 'California Fair Claims Settlement Practices Regulations (10 CCR 2695)', description: 'A section-by-section analysis of California\'s Fair Claims Settlement Practices Regulations — every rule your insurer must follow on a property claim, explained in plain English.' },
+  'policy-types-overview':  { title: 'Types of Insurance Policies: A Complete Guide to Residential, Commercial, and Specialty Coverage', description: 'A comprehensive overview of every major property insurance policy type — HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial property, businessowners, flood, earthquake, DIC, builder\'s risk, and inland marine.' },
   'policy-interpretation':  { title: 'Understanding Your Insurance Policy', description: 'Coverages A–D, exclusions, and conditions explained.' },
   'claims-process':         { title: 'The Insurance Claims Process Step by Step', description: 'From first notice of loss to final settlement.' },
   'contents-claims':        { title: 'Personal Property & Contents Claims', description: 'How to document and value personal property for your claim.' },
@@ -90,6 +91,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'engineering-reports-vs-coverage': { title: 'When Engineering Reports Cross the Line: Why Physical Findings Don\'t Determine Coverage', description: 'Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it\'s covered. Learn the difference between engineering causation and legal causation under California law.' },
   'california-insurance-case-law': { title: 'Key California Insurance Case Law: Bad Faith, Coverage, and Appraisal', description: 'A practitioner\'s guide to the most important California insurance cases — from Gruenberg and Egan to Kacha and Lambert. Bad faith, coverage disputes, and appraisal law explained.' },
   'appraisal-practitioner-guide': { title: 'How and When to Invoke Appraisal in California: A Practitioner\'s Guide', description: 'A comprehensive practitioner\'s guide to California insurance appraisal — statutory basis, when to demand, panel roles, causation issues, post-award remedies, and what to do when the process goes wrong.' },
+  'california-appraisal-case-law': { title: 'California Appraisal Case Law and the Arbitration Code: What Policyholders Need to Know', description: 'Key California case law on insurance appraisal — Sharma, Kacha, Lee, Doan, Lambert, Mahnke — and the California Arbitration Code provisions that apply to every appraisal proceeding in the state.' },
   'xactimate-user-manual': { title: 'The Xactimate User Manual: What It Is, Why It Matters, and How to Use It', description: 'A practitioner\'s guide to Xactimate — the industry-standard estimating software. Pricing database, line items, overhead and profit, depreciation, certification levels, and practical tips.' },
   'xactimate-training-guide': { title: 'Xactimate Training and Certification: What You Need to Know', description: 'A guide to Xactimate training and certification — what the certification levels mean, what quality training looks like, and why understanding the \'why\' behind the software matters more than passing a test.' },
   'where-you-reside-exclusion': { title: 'Where You Reside: The Hidden Killer Exclusion in Your Homeowner Policy', description: 'The three words \'where you reside\' in your homeowner policy definition can eliminate your coverage entirely — especially if you move to a nursing home. Learn how this hidden exclusion works and how to protect yourself.' },
@@ -183,6 +185,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
 // Map slugs to dynamic imports of content modules
 const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; description: string }; default: React.ComponentType }>> = {
   'california-fair-claims': () => import('@/lib/content/articles/california-fair-claims'),
+  'policy-types-overview':  () => import('@/lib/content/articles/policy-types-overview'),
   'policy-interpretation':  () => import('@/lib/content/articles/policy-interpretation'),
   'claims-process':         () => import('@/lib/content/articles/claims-process'),
   'contents-claims':        () => import('@/lib/content/articles/contents-claims'),
@@ -265,6 +268,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'engineering-reports-vs-coverage': () => import('@/lib/content/articles/engineering-reports-vs-coverage'),
   'california-insurance-case-law': () => import('@/lib/content/articles/california-insurance-case-law'),
   'appraisal-practitioner-guide': () => import('@/lib/content/articles/appraisal-practitioner-guide'),
+  'california-appraisal-case-law': () => import('@/lib/content/articles/california-appraisal-case-law'),
   'xactimate-user-manual': () => import('@/lib/content/articles/xactimate-user-manual'),
   'xactimate-training-guide': () => import('@/lib/content/articles/xactimate-training-guide'),
   'where-you-reside-exclusion': () => import('@/lib/content/articles/where-you-reside-exclusion'),
