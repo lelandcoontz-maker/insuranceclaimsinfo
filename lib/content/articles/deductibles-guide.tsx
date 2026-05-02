@@ -188,102 +188,177 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Contractors and Deductibles: A Complicated Issue With Strong Opinions
+        Contractors and Deductibles: Not as Simple as &ldquo;It&rsquo;s the Law&rdquo;
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         After storms, contractors sometimes offer to &ldquo;take care of your deductible&rdquo;
-        or &ldquo;eat it&rdquo; as an incentive to hire them. This raises legal and ethical
-        questions that vary significantly by state &mdash; and the answers are not nearly as
-        simple as the loudest voices in the industry make them sound.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The basic concern is legitimate: if a contractor absorbs a $5,000 deductible while
-        collecting the full estimate from the insurer, either the estimate was inflated to cover
-        the gap (which is fraud) or the contractor is cutting corners to make up the difference
-        (which means inferior work). But real-world claims are rarely this simple, and blanket
-        statements about deductible waivers being &ldquo;illegal&rdquo; often ignore important
-        nuances.
+        as an incentive. Several states have statutes addressing this practice. But the
+        confident declarations you hear from contractors, adjusters, and internet commentators
+        &mdash; that deductible waivers are flatly &ldquo;illegal&rdquo; &mdash; often collapse
+        under scrutiny when you read the actual statutory language and apply it to common
+        real-world situations. This is a topic with strongly held opinions, significant
+        ambiguity, and very little published case law resolving the hard questions.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Texas: Chapter 707 and Its Unanswered Questions
+        Texas: What the Statutes Actually Say
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Texas has the most prominent deductible waiver statute. <strong>Texas Insurance Code
-        Chapter 707</strong> (originally enacted in 1989, updated by HB 2102 effective September
-        1, 2019) creates a two-part framework. Section 707.002 places the duty on the{' '}
-        <em>insured</em> to pay the applicable deductible. Section 707.006 makes it a Class B
-        misdemeanor for a contractor to pay, waive, absorb, or otherwise assist the insured in
-        avoiding the deductible &mdash; punishable by up to 180 days in jail and a $2,000 fine.
-        Section 707.004 allows carriers to withhold recoverable depreciation until the insured
-        provides proof of deductible payment.
+        Texas has two statutes that work together. <strong>Insurance Code &sect;707.002</strong>{' '}
+        is one sentence: <em>&ldquo;A person insured under a property insurance policy shall pay
+        any deductible applicable to a first-party claim made under the policy.&rdquo;</em>{' '}
+        That is the insured&rsquo;s obligation &mdash; applicable to the <em>claim</em>, not to
+        each contractor or each line item.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The statute is clear enough in the simplest scenario &mdash; one contractor, one scope,
-        one deductible. But real claims generate situations the statute does not clearly address:
+        The contractor-facing prohibition is in <strong>Business &amp; Commerce Code
+        &sect;27.02(c)</strong>, which makes it an offense for a seller of goods or services to,{' '}
+        <em>without the insurer&rsquo;s consent</em>: (1) pay, waive, absorb, or decline to
+        collect the deductible; (2) provide a rebate or credit that offsets the deductible; or
+        (3) &ldquo;in any other manner assist the insured person&rsquo;s failure to pay&rdquo;
+        the deductible. Violation is a Class B misdemeanor &mdash; up to 180 days and a $2,000
+        fine.
       </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Insurance Code &sect;707.004</strong> gives carriers an enforcement mechanism:{' '}
+        <em>&ldquo;An insurer that issues a property insurance policy with replacement cost
+        coverage may refuse to pay a claim for withheld recoverable depreciation or a
+        replacement cost holdback under the policy until the insurer receives reasonable proof of
+        payment by the policyholder of any deductible applicable to the claim.&rdquo;</em>{' '}
+        Reasonable proof includes a canceled check, money order receipt, credit card statement, or
+        executed installment plan.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In the simplest scenario &mdash; one contractor, one scope, one deductible &mdash; the
+        statute is straightforward. But that is not how most claims work.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Where the Texas Language Gets Complicated
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Read &sect;707.002 again: the insured must pay the deductible &ldquo;applicable to a
+        first-party claim.&rdquo; Singular claim, singular deductible. Now apply that language to
+        common situations:
+      </p>
+      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>The deductible was already paid to someone else.</strong> A mitigation
-          contractor does $6,000 of emergency work. The insurer pays $5,000 after the $1,000
-          deductible. The homeowner pays the $1,000 difference to the mitigation contractor.
-          Months later, the roofer arrives and demands the homeowner pay the deductible again.
-          But the deductible applies to the <em>claim</em>, not to each contractor separately.
-          The deductible has been satisfied. The roofer is not &ldquo;waiving&rdquo; anything
-          by not collecting money the insured already paid to someone else.
+          <strong>The deductible was already paid to another contractor.</strong> A mitigation
+          company does $6,000 of emergency work. The carrier pays $5,000 after the $1,000
+          deductible. The homeowner pays the $1,000 difference to the mitigation contractor
+          &mdash; they have a canceled check to prove it. Months later, the roofer arrives and
+          demands the homeowner pay the deductible again. But the statute says the insured must
+          pay the deductible applicable to the <em>claim</em>. They already did. The roofer is
+          not &ldquo;waiving&rdquo; anything by not collecting money the insured already paid to
+          someone else on the same claim. Nothing in the statute requires the deductible to be
+          collected twice.
         </li>
         <li>
-          <strong>The loss exceeds the policy limit.</strong> If the insured has $120,000 in
-          damage on a $100,000 policy, the insured is already paying $20,000 or more out of
-          pocket &mdash; far more than the deductible. The deductible is absorbed into the
-          shortfall the insured bears. Demanding separate deductible payment on top of that
-          out-of-pocket cost does not make sense mathematically.
+          <strong>The loss exceeds the policy limit.</strong> The insured has $120,000 in damage
+          on a $100,000 policy with a $1,000 deductible. When the loss exceeds the limit plus
+          the deductible combined, the carrier pays the full policy limit &mdash; $100,000
+          &mdash; and the deductible is absorbed into the $20,000 the insured is already paying
+          out of pocket. The insured&rsquo;s out-of-pocket cost is twenty times the deductible.
+          Who, exactly, would the insured pay the deductible to? The carrier already paid its
+          maximum. The contractor is owed $120,000. The insured is covering the $20,000
+          shortfall. There is no separate &ldquo;deductible payment&rdquo; to make &mdash; it
+          has been absorbed into the overage. And if the insured has signed an assignment or
+          direction of payment so the carrier issues the $100,000 check jointly to the
+          homeowner and the contractor, is the homeowner supposed to write a separate $1,000
+          &ldquo;deductible&rdquo; check on top of the $20,000 they already owe for the
+          overage? The $1,000 is already inside the $20,000. Under &sect;707.004, the
+          carrier&rsquo;s enforcement mechanism is withholding recoverable depreciation &mdash;
+          but in an over-limit loss, the carrier has already paid the full limit. There is no
+          depreciation holdback to withhold. The enforcement tool does not even apply.
         </li>
         <li>
           <strong>The insured is not doing all the approved work.</strong> A hail claim approves
           the roof, fence, landscaping, and mailbox. The homeowner hires a roofer for the roof
-          only and does not repair the fence or mailbox. The carrier does not owe the contractor
-          for work that is not being performed. The &ldquo;savings&rdquo; from unapproved items
-          naturally offset the deductible without anyone waiving anything.
+          only. They are not repairing the fence or replacing the mailbox &mdash; so the carrier
+          does not owe for that work, and the contractor is not performing it. The money the
+          insured is not spending on those unapproved items naturally exceeds the deductible
+          amount. No one is &ldquo;waiving&rdquo; anything. The insured is simply not doing
+          all the approved work.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        These scenarios are common, and the statute does not clearly resolve them. What is clear
-        is that many contractors &mdash; particularly roofing contractors in Texas &mdash; cite
-        the statute as though it requires every contractor to independently collect the
-        deductible on every job, which is not what the law says. The statute addresses the{' '}
-        <em>claim-level</em> deductible obligation. It does not require the deductible to be
-        collected multiple times by multiple contractors on the same claim.
+        The statute was clearly written for the simplest scenario: one contractor, one scope,
+        loss below the policy limit, and a straightforward deductible. It does not account for
+        the complexity of real claims with multiple contractors, over-limit losses, partial
+        repairs, or assignments of benefits. And to the extent the statute creates ambiguity in
+        those situations, the people most aggressively citing it are often the ones with the most
+        to gain from the broadest possible interpretation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is also worth noting that contractors have a financial interest in collecting the
-        deductible: they receive the full estimate amount when the homeowner pays the deductible
-        on top of the insurance proceeds. There is nothing wrong with that when the facts support
-        it. But the aggressive insistence that &ldquo;it&rsquo;s the law&rdquo; in every
-        situation &mdash; including situations where the deductible has already been paid or
-        absorbed &mdash; is often self-serving rather than legally accurate.
+        Note also the phrase <em>&ldquo;without the insurer&rsquo;s consent&rdquo;</em> in
+        &sect;27.02(c). If the insurer consents to a deductible arrangement, there is no
+        violation at all. And the catch-all language &mdash; &ldquo;in any other manner assist
+        the insured person&rsquo;s failure to pay&rdquo; &mdash; is vague enough that it could
+        theoretically sweep in a contractor who simply charges less than the estimate amount,
+        even if the lower price reflects actual costs rather than any intent to absorb the
+        deductible. Merlin Law Group has described the statute as &ldquo;a clarification and
+        more carefully worded version&rdquo; of a prohibition that existed since 1989 but was
+        routinely ignored, and has questioned what consumer benefit it actually provides.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        None of this means the statute has no teeth. It does. A contractor who openly advertises
+        &ldquo;free roof &mdash; we eat your deductible&rdquo; and then inflates the claim to
+        cover it is doing exactly what the law targets. But the confident insistence from many
+        roofing contractors that &ldquo;the law requires you to pay me the deductible&rdquo; in
+        every situation &mdash; including situations where the deductible was already paid to
+        someone else or absorbed into an over-limit loss &mdash; reflects a self-serving reading
+        of a statute that does not say what they claim it says. Contractors collect more money
+        when the homeowner pays the deductible on top of insurance proceeds. That is a financial
+        interest, not a legal analysis.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        California: Penal Code &sect;551
+        The Insurance Fraud Question &mdash; Separate from Any Statute
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California does have a statute addressing this issue, though it is less well-known than
-        the Texas law. <strong>Penal Code &sect;551(b)</strong> makes it unlawful for a
-        contractor or their employees or agents to &ldquo;knowingly offer or give any discount
-        intended to offset a deductible required by a policy of insurance covering repairs to or
-        replacement of a residential or commercial structure.&rdquo; Violations under $950 are a
-        misdemeanor; over $950, the offense is a wobbler (misdemeanor or felony, up to three
-        years).
+        Even in states without a specific deductible waiver statute, there is a separate issue:
+        potential insurance fraud. If a contractor&rsquo;s estimate says the job costs $100,000
+        and the contractor is not collecting the $1,000 deductible, the true cost of the work
+        to the homeowner is $99,000, not $100,000. If the insured represents $100,000 as the
+        actual cost to the insurance company &mdash; or if the contractor submits an estimate at
+        $100,000 knowing they do not intend to collect the full amount &mdash; that could be a
+        misrepresentation of the actual cost of repairs regardless of whether a deductible waiver
+        statute exists. This is a fraud analysis, not a statutory deductible analysis, and it
+        applies in every state.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, there is a significant exception in the statute: the prohibition does not apply
-        &ldquo;when the amount of the repair or replacement claim has been determined by the
-        insurer and the repair or replacement services are performed in accordance with that
-        determination.&rdquo; The scope and meaning of this exception are subject to
-        interpretation, and the same nuances that complicate the Texas law &mdash; deductibles
-        already paid to other contractors, losses exceeding policy limits, partial repairs
-        &mdash; apply here as well.
+        That said, even the fraud analysis has nuances. If the contractor legitimately performs
+        the work for $99,000 because that is their actual cost and the estimate was the
+        carrier&rsquo;s number (not the contractor&rsquo;s), the fact that the contractor did
+        not collect the last $1,000 may simply mean the job was done for less than estimated.
+        Contractors are not required to charge the exact amount on the insurance estimate.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        California: Penal Code &sect;551(b)
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California has its own statute, less well-known than the Texas law. <strong>Penal Code
+        &sect;551(b)</strong> provides, in relevant part: <em>&ldquo;Except in cases in which
+        the amount of the repair or replacement claim has been determined by the insurer and the
+        repair or replacement services are performed in accordance with that determination or in
+        accordance with provided estimates that are accepted by the insurer, it is unlawful for
+        any &hellip; contractor &hellip; to knowingly offer or give any discount intended to
+        offset a deductible required by a policy of insurance covering repairs to or replacement
+        of a &hellip; residential or commercial structure.&rdquo;</em>
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The exception at the beginning of &sect;551(b) is significant and arguably swallows much
+        of the rule. If the insurer has already determined the claim amount and the contractor
+        performs the work in accordance with that determination, the prohibition does not apply.
+        On a typical insurance claim where the carrier has issued an estimate and the contractor
+        performs the approved scope, the exception would seem to apply &mdash; but the statute
+        does not define what &ldquo;in accordance with that determination&rdquo; means in
+        practice, and there is very little published case law interpreting it.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Violations under $950 are a misdemeanor. Over $950, the offense is a wobbler &mdash;
+        prosecutable as a misdemeanor or a felony carrying up to three years.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -291,21 +366,24 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Florida (Fla. Stat. &sect;489.147) prohibits contractors from advertising or promising
-        to pay or waive deductibles as an inducement, particularly targeting roof claims.
+        to pay or waive deductibles as an inducement, with a particular focus on roof claims.
         Colorado (C.R.S. &sect;6-22-105) has a similar prohibition specific to roofing
-        contractors. Other states address the issue through general insurance fraud statutes
+        contractors. Most other states address the issue through general insurance fraud statutes
         rather than contractor-specific deductible laws.
       </p>
 
-      <CalloutBox variant="legal" title="This Is Not a Settled Question">
+      <CalloutBox variant="legal" title="An Open Question With No Easy Answers">
         <p>
-          The legality of contractor deductible waivers is a topic with strongly held opinions
-          on multiple sides and significant unresolved questions in every state that has
-          addressed it. The edge cases &mdash; deductibles already satisfied by prior
-          contractors, losses exceeding policy limits, partial scopes of work &mdash; are not
-          clearly resolved by any of these statutes. If you are a homeowner or contractor facing
-          a deductible dispute, consult a licensed attorney in your state. Do not rely on what
-          a contractor, an adjuster, or a blog post tells you the law requires.
+          Whether a contractor deductible arrangement is unlawful depends on the specific facts,
+          the specific state, and the specific statutory language &mdash; which is often
+          ambiguous on the situations that arise most frequently in practice. The edge cases
+          &mdash; deductibles already satisfied by a prior contractor, losses exceeding policy
+          limits, partial scopes of work, the fraud implications of misrepresenting actual costs
+          &mdash; are not clearly resolved by any of these statutes. Even attorneys may not agree
+          on the answers. If you are a homeowner or contractor dealing with a deductible dispute,
+          consult a licensed attorney in your state. Do not rely on what a contractor, an
+          adjuster, or an article on the internet tells you the law requires &mdash; including
+          this one.
         </p>
       </CalloutBox>
 

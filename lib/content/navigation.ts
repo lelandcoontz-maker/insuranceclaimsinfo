@@ -26,6 +26,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/exclusions', label: 'Policy Exclusions' },
       { href: '/resources/wear-and-tear-cause-of-loss', label: 'Wear & Tear Exclusion' },
       { href: '/resources/acv-rcv', label: 'ACV vs. RCV' },
+      { href: '/resources/agreed-value-policies', label: 'Agreed vs. Stated Value' },
       { href: '/resources/loss-settlement-provisions', label: 'Loss Settlement Provisions' },
       { href: '/resources/where-you-reside-exclusion', label: 'The "Where You Reside" Trap' },
       { href: '/resources/surprising-coverages', label: 'Surprising Coverages' },
@@ -96,6 +97,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/code-upgrade-coverage', label: 'Code Upgrade Coverage' },
       { href: '/resources/marine-cargo-claims', label: 'Marine Cargo Claims' },
       { href: '/resources/environmental-sampling-methods', label: 'Environmental Sampling' },
+      { href: '/resources/large-commercial-losses', label: 'Large Commercial Losses' },
     ],
   },
   {
@@ -118,6 +120,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
     links: [
       { href: '/resources/public-adjuster', label: 'Working With a PA' },
       { href: '/resources/when-to-hire-attorney', label: 'When to Hire an Attorney' },
+      { href: '/quiz', label: 'Professional Assessment Quiz' },
       { href: '/faq', label: 'Frequently Asked Questions' },
       { href: '/letters', label: 'Template Demand Letters' },
       { href: '/free-guides', label: 'Free PDF Guides' },
@@ -150,6 +153,7 @@ export const FOOTER_RESOURCE_LINKS: NavLink[] = [
   { href: '/guides', label: 'Guides & Toolkits' },
   { href: '/resources/scoping-the-loss', label: 'Scoping Field Manual' },
   { href: '/resources/california-insurance-case-law', label: 'CA Case Law Guide' },
+  { href: '/quiz', label: 'Professional Assessment' },
   { href: '/books', label: 'Recommended Books' },
   { href: '/videos', label: 'Videos & Media' },
 ]

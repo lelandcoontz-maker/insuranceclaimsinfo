@@ -205,7 +205,8 @@ export default function Content() {
           override the efficient proximate cause doctrine by excluding losses that involve an
           excluded peril &ldquo;in any sequence.&rdquo; California courts have not uniformly
           enforced ACC clauses, and their validity remains an evolving area of law. If your
-          insurer relies on an ACC clause to deny a pool claim, consult with an attorney.
+          insurer relies on an ACC clause to deny a pool claim, consult a Public Adjuster
+          to document the claim and negotiate, or an attorney for legal advice on the coverage dispute.
         </p>
       </CalloutBox>
 

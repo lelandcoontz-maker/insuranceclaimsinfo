@@ -106,6 +106,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'environmental-sampling-methods',
     'elder-abuse-insurance',
     'third-party-vs-first-party',
+    'soft-costs-claims',
+    'large-commercial-losses',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({
