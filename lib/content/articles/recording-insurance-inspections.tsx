@@ -19,26 +19,45 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The short answer in California: <strong>yes &mdash; and there are multiple ways to put
-        yourself on solid legal ground</strong>. This article explains the governing statutes, the
-        relevant case law, practical strategies to ensure your recording is defensible, and
-        &mdash; critically &mdash; why the legality of making a recording and the admissibility
-        of that recording as evidence are two entirely separate legal questions. We also cover how
-        the rules differ across states, because many insurance claims involve out-of-state adjusters
-        and carriers.
+        yourself on solid legal ground</strong>. Many policyholders have successfully recorded
+        inspections and used those recordings to get denials overturned, claims paid, and bad
+        faith established. Recording can be one of the most powerful tools available to a
+        policyholder. But this is also an area with real legal technicalities &mdash; some of
+        which are not fully settled by case law &mdash; and getting it wrong can mean your
+        evidence is excluded or, worse, that you face civil or criminal liability.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This article explains the governing statutes, the relevant case law, practical strategies
+        to ensure your recording is defensible, and &mdash; critically &mdash; why the legality
+        of making a recording and the admissibility of that recording as evidence are two entirely
+        separate legal questions. We also cover how the rules differ across states, because many
+        insurance claims involve out-of-state adjusters and carriers.
       </p>
 
-      <CalloutBox variant="legal" title="This Is Not Legal Advice &mdash; And This Area Is Unusually Technical">
+      <CalloutBox variant="legal" title="Important: This Article Is Educational &mdash; Not Legal Advice">
         <p>
-          Recording laws are among the more technical and unsettled areas at the intersection of
-          privacy law, evidence law, and insurance regulation. The rules vary significantly from
-          state to state, the case law is still developing &mdash; particularly regarding property
-          inspections &mdash; and even a recording that is perfectly legal to make may face separate
-          challenges when offered as evidence in court. This article is for educational purposes
-          only. It should not be relied upon as legal advice, and that caveat carries more weight
-          here than in most of our articles because the consequences of getting this wrong can
-          include civil liability and, in some jurisdictions, criminal penalties. If you are
-          considering recording an insurance inspection, <strong>consult a qualified attorney in
-          your jurisdiction before doing so</strong>.
+          This article is intended to lay out the legal landscape and help you understand the
+          parameters of the questions involved. It is <strong>not legal advice</strong>, and we
+          want to be direct about why that disclaimer matters more here than in most of our
+          articles.
+        </p>
+        <p className="mt-3">
+          Recording law sits at the intersection of criminal privacy statutes, civil liability,
+          evidence rules, and insurance regulation. The rules vary significantly from state to
+          state. The case law is still developing &mdash; particularly regarding property
+          inspections &mdash; and many of the scenarios discussed below involve gray areas where
+          the outcome depends on the specific facts. Even a recording that is perfectly legal to
+          make may face separate challenges when offered as evidence in court. The consequences
+          of getting this wrong can include civil liability under &sect; 637.2 ($5,000 per
+          violation or treble damages) and criminal penalties under &sect; 632.
+        </p>
+        <p className="mt-3">
+          The purpose of this article is general education: to help you understand where the
+          lines are, where they are clear, and where they are not &mdash; so that you can have
+          an informed conversation with a qualified attorney about your specific situation.
+          If you are considering recording an insurance inspection, <strong>consult an attorney
+          in your jurisdiction before doing so</strong>. This is one area where professional
+          guidance is not optional.
         </p>
       </CalloutBox>
 
@@ -157,11 +176,12 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Whether these factors alone &mdash; without posted signs or a verbal announcement &mdash;
-        are sufficient to defeat a &sect; 632 claim in California is not fully settled by case
-        law. The Florida courts (discussed below) have held that they are. California courts have
-        not squarely addressed recording of property inspections, though the trend in California
-        law favors transparency in the claims process. The prudent approach is to layer multiple
-        forms of notice rather than relying on any single factor.
+        are sufficient to defeat a &sect; 632 claim in California is not settled by case law.
+        Florida appellate courts have held that the insurer&rsquo;s representative has no
+        reasonable expectation of privacy in the insured&rsquo;s home (see Section IX below).
+        But no California court has addressed the question. This is one of the genuine gray
+        areas in this area of law &mdash; and it is exactly why the prudent approach is to layer
+        multiple forms of notice rather than relying on any single factor or legal theory.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -213,14 +233,18 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The Sign Must Say &ldquo;Audio AND Video&rdquo;">
         <p>
-          Many commercially available security signs &mdash; including those commonly sold online
-          &mdash; mention only &ldquo;video surveillance.&rdquo; A video-only sign may not
-          provide adequate notice of <em>audio</em> recording, which is what &sect; 632
-          actually regulates. California law does not generally prohibit non-concealed video
-          recording in your own home; it is the <em>audio</em> capture of confidential
+          If you search Amazon or any home improvement store for security signs, you will find
+          that the overwhelming majority say only &ldquo;video surveillance&rdquo; or &ldquo;video
+          recording in progress.&rdquo; Very few say &ldquo;audio and video.&rdquo; A video-only
+          sign may not provide adequate notice of <em>audio</em> recording, which is what
+          &sect; 632 actually regulates. California law does not generally prohibit non-concealed
+          video recording in your own home; it is the <em>audio</em> capture of confidential
           communications that triggers &sect; 632. Make sure your sign explicitly says{' '}
-          <strong>&ldquo;audio and video.&rdquo;</strong> If you cannot find a commercial sign
-          with this language, have one printed. This detail matters.
+          <strong>&ldquo;audio and video.&rdquo;</strong> You can find adhesive stickers for
+          windows and doors as well as larger signs for fences and gates. If you cannot find a
+          commercially available sign with the correct language, have one printed. This detail
+          matters &mdash; a sign that only mentions video may leave you exposed on the audio
+          question, which is the only one that matters under the statute.
         </p>
       </CalloutBox>
 
@@ -233,24 +257,83 @@ export default function Content() {
         disclaimers, and security camera notices. The sign does not need to be read &mdash; it
         needs to be posted where a reasonable person would see it.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There is no established rule about how many signs you need or how large they must be.
+        But consider this practical step: when the adjuster or insurance company expert arrives,
+        begin your video recording as they approach the property. If they walk through a gate
+        with a sign on it, or pass through a door with a sticker on the window, your recording
+        captures them walking directly past the posted notice. That footage eliminates any
+        later claim that the sign was not there or was not visible. The sign and the recording
+        work together &mdash; the sign provides the notice, and the recording proves the sign
+        was there and that the inspector walked right past it.
+      </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         Layer 3: Ring Cameras and Visible Security Systems
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Ring doorbells, Nest cameras, and similar visible home security devices are now
-        ubiquitous. When an adjuster walks up to a front door with a Ring doorbell, there is a
-        strong argument that they are on notice that they are being recorded. These devices are
-        widely understood to record both audio and video. The presence of a visible doorbell
-        camera, particularly when combined with a posted sign, further diminishes any claim of
-        privacy.
+        ubiquitous. Amazon alone has sold well over 100 million Ring devices. Nest, Arlo, Wyze,
+        Blink, and other manufacturers have sold tens of millions more. Doorbell cameras are no
+        longer a novelty &mdash; they are a standard feature of American homes in 2026. Nearly
+        everyone recognizes a Ring camera on sight, and nearly everyone understands that it
+        records both audio and video.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Years ago, the argument that a visitor should &ldquo;expect&rdquo; to be recorded at
-        someone&rsquo;s front door was novel. Today, with tens of millions of Ring and similar
-        devices installed in American homes, the expectation has shifted. A reasonable person
-        standing at a door with a visible camera lens should know they are being recorded.
+        This matters because the &sect; 632 analysis turns on whether a reasonable person would
+        expect the communication to be private. When an insurance adjuster walks up to a front
+        door and can see a Ring doorbell &mdash; a device that is specifically designed to record
+        visitors &mdash; the argument that they reasonably expected their conversation not to be
+        recorded is extremely difficult to sustain. Under the objective test established
+        in <em>Flanagan</em>, the question is not whether the adjuster subjectively thought
+        about the camera, but whether a reasonable person in that position would expect privacy.
+        In 2026, standing in front of a visible doorbell camera and claiming you expected privacy
+        is not a credible position.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Consider a scenario that plays out regularly: a homeowner never planned to record the
+        adjuster. It never occurred to them. But they have a Ring doorbell, as millions of
+        homeowners do. After the interior inspection is finished, the adjuster and the homeowner
+        have a conversation on the front porch &mdash; right in front of the Ring camera. The
+        adjuster makes statements about the damage, about what they plan to include in the scope,
+        about what they think the carrier will cover. Those statements are captured on the Ring
+        recording.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Is that recording legal? Under &sect; 632, the question is whether the conversation was
+        a &ldquo;confidential communication&rdquo; &mdash; whether the adjuster could reasonably
+        expect that the conversation was private. The adjuster is standing in front of a visible
+        recording device that they walked past to enter the home. The camera is at eye level. It
+        has a light on it. The adjuster &mdash; a professional who visits homes for a living
+        &mdash; almost certainly knows what a Ring doorbell is. Under these circumstances, it is
+        very difficult to argue that the conversation was &ldquo;confidential&rdquo; within the
+        meaning of the statute. The adjuster had every reason to know they were being recorded,
+        and they continued the conversation anyway.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Could the recording be used in court? That is the separate admissibility question
+        discussed in Section VII. But the threshold &sect; 632 question &mdash; whether the
+        recording was legal to make &mdash; is strongly in the homeowner&rsquo;s favor. The
+        homeowner did not set a trap. They did not install the camera to catch the adjuster.
+        The camera was already there, visible to anyone who approached the door, recording as it
+        always does. The adjuster chose to have the conversation in front of it. If the
+        adjuster later says something in that recording that contradicts their written report,
+        the homeowner has a powerful piece of evidence &mdash; one that was captured by a device
+        the adjuster could plainly see and chose to ignore.
+      </p>
+
+      <CalloutBox variant="tip" title="Cameras Are Everywhere &mdash; And Everyone Knows It">
+        <p>
+          We live in a world of ubiquitous cameras. Ring doorbells, Nest cameras on eaves,
+          dashboard cameras in parked cars, security cameras on neighboring properties. The legal
+          expectation of privacy in someone else&rsquo;s front doorway was already thin &mdash;
+          today, with visible recording devices on a significant percentage of American homes, it
+          is thinner than ever. An insurance company expert who visits properties for a living
+          cannot credibly claim they did not notice the camera or did not understand what it does.
+          The more cameras become a fact of daily life, the weaker any claim of &ldquo;reasonable
+          expectation of privacy&rdquo; becomes in these settings.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         Layer 4: Verbal Announcement on Camera
@@ -261,10 +344,19 @@ export default function Content() {
       </p>
       <div className="bg-gray-50 border border-gray-200 rounded-lg p-4 my-6">
         <p className="text-gray-700 text-sm italic leading-relaxed">
-          &ldquo;Just so you know, I&rsquo;m going to be audio and video recording this entire
-          inspection for my records. If you have any objection, please let me know now.&rdquo;
+          &ldquo;Just like the signs say, everything here is being audio and video recorded.
+          I&rsquo;m going to be recording this entire inspection for my records. If you have
+          any objection, please let me know now.&rdquo;
         </p>
       </div>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Notice the phrasing: &ldquo;just like the signs say.&rdquo; This verbal announcement
+        does double duty. It puts the inspector on direct notice that recording is happening,
+        and it ties the posted signs into the recording itself. If there is ever a dispute about
+        whether signs were posted at the time of the inspection, your recording contains a
+        contemporaneous reference to them. The sign, the verbal announcement, and the recording
+        all reinforce each other in a single continuous piece of evidence.
+      </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the inspector says nothing and proceeds with the inspection, that silence in the face
         of a clear announcement is strong evidence of implied consent. If they affirmatively say
@@ -305,19 +397,23 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Consider this scenario: before the inspection, the homeowner emails the carrier:
         &ldquo;All inspections of the property will be audio and video recorded.&rdquo; When the
-        adjuster arrives, they pass a sign on the fence that reads &ldquo;Audio and video
-        recording in progress.&rdquo; They approach the front door and can see a Ring doorbell
-        camera. The homeowner opens the door and says, &ldquo;I&rsquo;m going to audio and video
-        record this inspection &mdash; is that okay?&rdquo; The adjuster nods and proceeds.
+        adjuster arrives, the homeowner begins recording on their phone as the adjuster walks
+        through the gate &mdash; directly past a sign that reads &ldquo;Audio and video
+        recording in progress.&rdquo; The adjuster approaches the front door, passing a Ring
+        doorbell camera. The homeowner opens the door and says, &ldquo;Just like the signs say,
+        everything is being audio and video recorded. I&rsquo;m going to record this entire
+        inspection &mdash; is that okay?&rdquo; The adjuster nods and proceeds.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         That homeowner now has <strong>five independent bases</strong> for the legality of the
         recording: (1) written notice in the claim file, (2) the posted sign providing
         constructive notice, (3) the Ring camera providing additional notice, (4) the verbal
         announcement eliminating any claim of ignorance, and (5) the affirmative consent captured
-        on video. Any one of these might be sufficient. All five together make the recording
-        protected several times over. The question of whether this recording was legally made is,
-        for all practical purposes, not a close call.
+        on video. And because the recording was running as the adjuster walked past the sign,
+        the footage itself proves the sign was posted and visible. Any one of these layers might
+        be sufficient on its own. All five together make the recording protected several times
+        over. The question of whether this recording was legally made is, for all practical
+        purposes, not a close call.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -418,9 +514,16 @@ export default function Content() {
         <p>
           The clearly protected and clearly unauthorized scenarios are, by definition, relatively
           straightforward. It is the middle category &mdash; where some notice exists but not
-          all layers &mdash; where disputes arise and outcomes are uncertain. The entire purpose
-          of the layered approach is to keep you out of the gray area. If you have five layers
-          of notice, you do not need to wonder whether any single one of them was sufficient.
+          all layers &mdash; where disputes arise and outcomes are uncertain. This is the nature
+          of recording law: the analysis is highly fact-specific, many of the relevant questions
+          have not been squarely decided by California courts in the insurance inspection context,
+          and the outcome of any particular case can turn on details that seem minor at the time
+          &mdash; whether a sign was posted, whether an announcement was made, where on the
+          property the conversation happened. The entire purpose of the layered approach is to
+          keep you out of the gray area. If you have five layers of notice, you do not need to
+          wonder whether any single one of them was sufficient. And if you are unsure whether
+          your specific situation falls in the clear or the gray, that is exactly the question
+          an attorney can help you answer before the inspection takes place.
         </p>
       </CalloutBox>
 
@@ -653,34 +756,70 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Florida, like California, is a two-party consent state (Fla. Stat. &sect; 934.03).
         Florida appellate courts have directly addressed recording of insurance inspections in
-        the policyholder&rsquo;s home and have consistently ruled in favor of the policyholder:
+        the policyholder&rsquo;s home &mdash; and the question that remains open in California
+        has been squarely decided in Florida. Three appellate decisions from two different
+        districts have all reached the same conclusion: the insurer&rsquo;s representative has
+        no reasonable expectation of privacy while inspecting the insured&rsquo;s home.
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong><em>State Farm v. Chirino</em> (Fla. 3d DCA, 2020):</strong> The court held
-          that an insurer&rsquo;s appraiser has no legitimate expectation of privacy when
-          conducting an inspection inside the insured&rsquo;s home. The court rejected the
-          insurer&rsquo;s argument that the policy&rsquo;s cooperation clause prohibited
-          recording.
+          <strong><em>State Farm v. Chirino</em> (Fla. 3d DCA, 2020):</strong> State Farm&rsquo;s
+          appraiser was sent to inspect the insured&rsquo;s home as part of an appraisal. The
+          court held that the appraiser had no legitimate expectation of privacy while conducting
+          the inspection inside the insured&rsquo;s home. State Farm argued that the
+          policy&rsquo;s cooperation clause prohibited recording &mdash; the court rejected
+          that argument.
         </li>
         <li>
-          <strong><em>Silversmith v. State Farm</em> (Fla. 4th DCA, 2021):</strong> The court
-          affirmed the right to record the insurer&rsquo;s inspector, holding that silence in
-          the policy regarding recording should be construed against the insurer.
+          <strong><em>Silversmith v. State Farm</em> (Fla. 4th DCA, 2021):</strong> Again
+          involving an appraiser during an appraisal inspection. The court held that
+          &ldquo;the appraiser has no legitimate expectation of privacy while in the
+          Insured&rsquo;s home for the inspection&rdquo; and that silence in the policy
+          regarding recording should be construed against the insurer.
         </li>
         <li>
           <strong><em>Gesten v. American Strategic Ins. Corp.</em> (Fla. 4th DCA, 2022):</strong>{' '}
-          The court again upheld recording rights, finding no policy prohibition and no privacy
-          expectation for the carrier&rsquo;s representatives inside the insured&rsquo;s home.
+          This case went further &mdash; the insured&rsquo;s public adjuster informed the
+          carrier that the inspection would be recorded. The carrier sent its attorney, its
+          adjuster, and an independent expert to the property, and the carrier&rsquo;s attorney
+          objected to the recording on site. The inspection was never completed. The court held
+          that the policy did not prohibit recording, that the insurer&rsquo;s adjuster had no
+          legitimate expectation of privacy in the insured&rsquo;s home, and that the insured
+          was entitled to audio and video record the inspection.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While Florida cases are not binding in California, they are persuasive because Florida
-        operates under a substantially similar two-party consent framework. Three appellate
-        decisions from two different districts, all reaching the same conclusion, represent a
-        strong consensus that insurance inspectors lack a reasonable expectation of privacy in
-        the policyholder&rsquo;s home.
+        The Florida courts have now addressed this question for appraisers, adjusters, and
+        independent experts &mdash; and the answer has been the same every time: no reasonable
+        expectation of privacy in the insured&rsquo;s home.
       </p>
+
+      <CalloutBox variant="important" title="In California, This Question Remains Open">
+        <p>
+          It is important to understand that no California court has issued a comparable ruling.
+          The question of whether an insurance adjuster, engineer, or other carrier-hired expert
+          has a reasonable expectation of privacy while inspecting a policyholder&rsquo;s home
+          has not been squarely decided under California&rsquo;s Penal Code &sect; 632. The
+          Florida decisions are what lawyers call <strong>persuasive authority</strong>. Because
+          Florida and California are separate state court systems &mdash; separate jurisdictions,
+          each with its own legislature, its own statutes, and its own courts &mdash; a decision
+          by a Florida appellate court does not bind a California judge. A California court is
+          free to consider the reasoning of a Florida decision, and a California attorney would
+          certainly cite three consistent appellate rulings from a fellow two-party consent state,
+          but the California judge is not required to follow them. That is the difference between
+          persuasive authority (from another jurisdiction) and binding authority (from a higher
+          court within the same jurisdiction). The Florida cases are strong persuasive authority
+          &mdash; three decisions from two districts, all reaching the same conclusion, under a
+          substantially similar statutory framework &mdash; but they are not binding on any
+          California court.
+          Until a California court addresses this question directly, there is a gray area that
+          the layered approach described in this article is specifically designed to navigate. The
+          strongest position is not to rely on the argument that the inspector lacks a privacy
+          expectation &mdash; it is to create circumstances where the question does not need to
+          be answered, because notice and consent have been established through multiple
+          independent layers.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         X. When the Inspector Refuses to Be Recorded
@@ -700,8 +839,11 @@ export default function Content() {
         <li>
           <strong>Do not escalate.</strong> If the inspector insists on no audio recording,
           offer to switch to video-only (which is generally permissible in your own home under
-          California law). Video without audio still captures what the inspector looked at,
-          how long they spent in each room, and what they may have skipped.
+          California law). Do not underestimate the value of video without audio. It still
+          captures what the inspector looked at, how long they spent in each room, what they
+          may have skipped, and &mdash; critically &mdash; how many photographs they took
+          and of what. That last point matters more than most people realize (see Section XII
+          below).
         </li>
         <li>
           <strong>Document the refusal.</strong> If the inspector refuses to proceed unless
@@ -754,7 +896,10 @@ export default function Content() {
         XII. Why Recording Matters for Your Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The practical value of recording an inspection cannot be overstated:
+        The practical value of recording an inspection cannot be overstated. While an audio
+        recording that captures what the inspector <em>says</em> is the gold standard for
+        documenting insurance company behavior, even a video recording without audio has
+        significant independent value:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -773,6 +918,23 @@ export default function Content() {
           what was and was not inspected.
         </li>
         <li>
+          <strong>The missing photos problem.</strong> It is not unusual for an insurance company
+          expert to inspect a roof and take 30 or more photographs. Later, when the insurer
+          provides its documentation, only a fraction of those photos may appear in the report or
+          be produced to the insured. What happened to the rest? If you have video of the expert
+          taking each photograph &mdash; showing them pointing their camera at specific areas of
+          damage, clicking the shutter repeatedly &mdash; you now have a comparison record. You
+          know how many photos were actually taken, and you can see what they were photos of.
+          Under California&rsquo;s claim-related documents rule, the insurer is required to
+          provide claim-related documentation to the insured upon request. A video showing that
+          32 photos were taken when only 12 were produced gives you the leverage to demand the
+          rest &mdash; and the basis for a{' '}
+          <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">
+            bad faith
+          </Link>{' '}
+          argument if photos were intentionally withheld.
+        </li>
+        <li>
           <strong>Bad faith evidence.</strong> If the carrier&rsquo;s expert makes admissions
           during the inspection that are omitted from their report, the recording is evidence
           that the insurer&rsquo;s investigation was not thorough and fair &mdash; a potential{' '}
@@ -787,6 +949,13 @@ export default function Content() {
           inspection and prepare a more effective challenge to the carrier&rsquo;s position.
         </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The point is this: if the inspector refuses audio recording, do not assume that
+        video-only is worthless. A continuous video of the entire inspection &mdash; showing
+        what was examined, what was skipped, how many photos were taken, and how much time was
+        spent &mdash; is a powerful record in its own right. Audio is the gold standard, but
+        video alone can still change the trajectory of a claim.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         XIII. Summary: A Practical Checklist
@@ -800,16 +969,21 @@ export default function Content() {
           that all inspections of the property will be audio and video recorded.
         </li>
         <li>
-          Post signs at every entry point: <strong>&ldquo;Audio and video recording in
-          progress.&rdquo;</strong> Make sure the sign says <em>audio</em>, not just video.
+          Post signs at every entry point &mdash; gates, doors, windows: <strong>&ldquo;Audio
+          and video recording in progress.&rdquo;</strong> Make sure the sign says{' '}
+          <em>audio</em>, not just video. Most signs sold online only say &ldquo;video
+          surveillance&rdquo; &mdash; look for signs and adhesive stickers that specifically
+          include &ldquo;audio.&rdquo;
         </li>
         <li>
           Ensure Ring cameras or other visible security devices are active.
         </li>
         <li>
-          When the inspector arrives, start your smartphone recording and make a clear verbal
-          announcement: <strong>&ldquo;I&rsquo;m going to audio and video record this entire
-          inspection. Do you have any objection?&rdquo;</strong>
+          Begin recording on your phone as the inspector approaches the property, so you
+          capture them walking past the posted signs. Then make a clear verbal announcement:{' '}
+          <strong>&ldquo;Just like the signs say, everything is being audio and video
+          recorded. I&rsquo;m going to record this entire inspection. Do you have any
+          objection?&rdquo;</strong>
         </li>
         <li>
           Capture their response on video. If they say &ldquo;that&rsquo;s fine,&rdquo; you
@@ -835,23 +1009,47 @@ export default function Content() {
         </li>
       </ol>
 
-      <CalloutBox variant="legal" title="Consult an Attorney">
-        <p>
-          Recording laws involve the intersection of criminal privacy statutes, civil liability,
-          and complex evidentiary rules &mdash; and the law in this area is still developing,
-          particularly as it applies to insurance inspections in the policyholder&rsquo;s home.
-          The information in this article reflects general legal principles and publicly available
-          case law as of the date of publication. It is not legal advice. A recording that is
-          legal to make and a recording that is admissible as evidence are two different things,
-          and both analyses involve technical legal questions that depend on the specific facts of
-          your situation. If you are considering recording an insurance inspection, or if you have
-          a recording that you believe may be relevant to litigation or a regulatory complaint,
-          consult an attorney experienced in privacy law, evidence law, or insurance coverage
-          litigation. The stakes &mdash; including potential civil liability under &sect; 637.2
-          and criminal penalties under &sect; 632 &mdash; make this an area where professional
-          guidance is not optional.
+      <div className="bg-[#1F3964] text-white rounded-xl p-8 my-8">
+        <h3 className="text-xl font-bold mb-4">A Final Word: Why This Matters &mdash; And Why You Need an Attorney</h3>
+        <p className="leading-relaxed mb-4">
+          Recording an insurance inspection can be one of the most effective things a policyholder
+          does during the claims process. Policyholders who have recorded inspections have used
+          those recordings to overturn denials, force carriers to pay claims they initially refused,
+          and establish bad faith when the insurer&rsquo;s expert&rsquo;s report did not match what
+          actually happened during the inspection. The evidence a recording produces can change the
+          entire trajectory of a claim.
         </p>
-      </CalloutBox>
+        <p className="leading-relaxed mb-4">
+          But this article has also made clear that recording law is an area with significant gray
+          areas. Some of the questions discussed above &mdash; particularly around property
+          inspections &mdash; have not been squarely decided by California courts. The analysis is
+          highly fact-specific: the outcome can depend on whether you made a verbal announcement,
+          whether signs were posted, whether the inspector objected, where on the property the
+          conversation took place, and a dozen other details. A recording that is clearly protected
+          in one set of circumstances may be legally questionable in another. And even a recording
+          that was perfectly legal to make faces a separate set of hurdles before it can be admitted
+          as evidence in court.
+        </p>
+        <p className="leading-relaxed mb-4">
+          The stakes are real. A recording obtained in violation of &sect; 632 can result in civil
+          liability of $5,000 per violation or treble damages under &sect; 637.2, criminal
+          penalties including up to one year in county jail, and automatic exclusion of the
+          recording as evidence under &sect; 632(d) &mdash; meaning you could lose not only the
+          evidence but face liability for having gathered it.
+        </p>
+        <p className="leading-relaxed">
+          This article is designed to give you a general education in the legal landscape &mdash;
+          to help you understand where the lines are drawn, where they are clear, and where they
+          are not yet settled. It is not legal advice. If you are considering recording an
+          insurance inspection, if you have a recording you believe may be relevant to a claim
+          dispute, or if you want to develop a recording protocol for future inspections, consult
+          an attorney experienced in California privacy law, evidence law, or insurance coverage
+          litigation. An attorney can evaluate your specific facts and advise you on both the
+          legality of the recording and its potential admissibility. This is an area where the
+          right guidance up front can be the difference between powerful evidence and an excluded
+          recording.
+        </p>
+      </div>
     </>
   )
 }

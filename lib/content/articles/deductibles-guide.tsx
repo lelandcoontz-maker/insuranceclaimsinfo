@@ -160,20 +160,110 @@ export default function Content() {
         the policyholder pays.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This concept appears in adjusting textbooks and is standard practice among properly
-        trained adjusters, though it is not always referred to by the term &ldquo;absorption.&rdquo;
-        The principle is indirectly reflected in case law &mdash; particularly in Florida, where
-        courts have addressed how deductibles interact with repair values and policy limits &mdash;
-        but it is primarily a matter of proper adjusting methodology rather than a named legal
-        doctrine.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
         The improper counterpart is when a carrier reduces the <em>scope</em> of the loss to
         match or approach the deductible. Instead of writing for all the damage and subtracting
         the deductible, the adjuster writes a scope that barely exceeds the deductible &mdash;
         conveniently resulting in a minimal payment. This is not a legitimate application of the
         deductible. It is scope manipulation disguised as a deductible issue. If the damage
         exists, it belongs in the estimate regardless of the deductible amount.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Deductible Absorption on Over-Limit Losses
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The absorption principle becomes most important &mdash; and most contested &mdash; on
+        losses that exceed the policy limit. If a home insured for $500,000 with a $5,000
+        deductible sustains $550,000 in damage, the policyholder is already absorbing $50,000
+        out of pocket above the policy limit. The deductible is inside that $50,000. There is
+        nothing left to subtract. If the carrier pays $495,000 &mdash; the limit minus the
+        deductible &mdash; instead of $500,000, the policyholder&rsquo;s out-of-pocket cost
+        rises to $55,000. The insured has effectively paid the deductible <em>and then some</em>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you refuse to allow deductible absorption on over-limit losses, you reach an absurd
+        result: <strong>the insured can never receive the full policy limit</strong>. On a total
+        loss, the carrier would always pay the limit minus the deductible. On a $500,000 policy
+        with a $5,000 deductible, the maximum the carrier would ever pay is $495,000 &mdash;
+        meaning the insured is not really insured for $500,000 at all. That makes the last
+        $5,000 of coverage{' '}
+        <Link href="/resources/illusory-coverage" className="text-blue-700 underline hover:text-blue-900">
+          illusory
+        </Link>{' '}
+        &mdash; coverage the insured pays premiums on but can never access. The insuring
+        agreement says the carrier will pay up to the policy limit, and the declarations page
+        shows a $500,000 dwelling limit that the policyholder paid premiums to carry. Without
+        absorption, that limit is a fiction.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is not a hypothetical concern. In states with valued policy laws &mdash; including
+        Florida (Fla. Stat. &sect;627.702) &mdash; the insurer is required to pay the full
+        policy limit on a total loss from a covered peril. If the carrier subtracts the
+        deductible from the limit on a total loss, the payment is less than the limit, which
+        directly contradicts the valued policy statute. The deductible must be absorbed into the
+        loss that exceeds the limit, not subtracted from the limit itself.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        The Legal Arguments for Absorption
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There may not be a statute in most states requiring deductible absorption by name. There
+        may not be a regulation. Published appellate case law directly on point is sparse outside
+        of Florida. But a strong argument exists on multiple independent grounds that absorption
+        is the correct approach on over-limit losses and losses that exceed sublimits:
+      </p>
+      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>Illusory coverage.</strong> If the deductible always reduces the carrier&rsquo;s
+          maximum payment below the stated limit, the insured can never receive the coverage they
+          purchased and paid premiums for. Courts in multiple jurisdictions have held that policy
+          provisions rendering coverage illusory are unenforceable. A deductible application that
+          makes the last $5,000 of a $500,000 policy permanently unreachable is functionally the
+          same problem.
+        </li>
+        <li>
+          <strong>Valued policy laws.</strong> In states like Florida, California, and others with
+          valued policy statutes, the insurer must pay the full policy limit on a covered total
+          loss. Subtracting the deductible from the limit on a total loss violates that statutory
+          mandate. Florida&rsquo;s valued policy law (Fla. Stat. &sect;627.702) is the most
+          frequently cited, and Florida practitioners and commentators &mdash; including
+          Chip Merlin of the Property Insurance Coverage Law Blog &mdash; have argued that
+          deductible absorption is required to avoid contradicting the valued policy statute.
+        </li>
+        <li>
+          <strong>Contra proferentem.</strong> To the extent the policy language is ambiguous about
+          whether the deductible reduces recovery below the policy limit on an over-limit loss,
+          the{' '}
+          <Link href="/resources/contra-proferentem" className="text-blue-700 underline hover:text-blue-900">
+            contra proferentem
+          </Link>{' '}
+          rule resolves that ambiguity in favor of the insured. The carrier drafted the policy.
+          If the deductible provision can reasonably be read to allow absorption on over-limit
+          losses, that reading controls. This is not a close call under standard policy
+          interpretation principles.
+        </li>
+        <li>
+          <strong>Trade standard.</strong> Deductible absorption is taught in adjusting textbooks
+          and continuing education materials as the proper methodology for handling losses that
+          exceed policy limits or sublimits. The Big &ldquo;I&rdquo; Virtual University has
+          stated that &ldquo;the deductible applies to the insured&rsquo;s loss, not the special
+          limit.&rdquo; While a trade standard alone may not create a legal obligation, it
+          establishes what a reasonably competent adjuster would do &mdash; and a carrier that
+          deviates from recognized industry practice to the detriment of its insured is on
+          weaker ground if the application is later challenged. The fact that the adjusting
+          profession itself teaches absorption as the correct approach undercuts any carrier
+          argument that subtracting the deductible from the limit is &ldquo;standard
+          practice.&rdquo; It is not.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Taken together, these arguments make a compelling case that deductible absorption is not
+        merely a courtesy or a best practice &mdash; it is the correct application of the
+        deductible on any loss where the insured&rsquo;s out-of-pocket cost already equals or
+        exceeds the deductible amount. The carrier should not collect the deductible twice: once
+        through the insured&rsquo;s uncompensated loss above the limit, and again by reducing
+        the payment below the limit.
       </p>
 
       <CalloutBox variant="important" title="Subtract From the Loss, Not From the Limit">
@@ -183,309 +273,35 @@ export default function Content() {
           the carrier owes $295,000. Some carriers incorrectly subtract the deductible from the
           policy limit instead of the loss, which changes the math on how much coverage remains.
           The deductible is the policyholder&rsquo;s share of the <em>loss</em>, not a reduction
-          of available coverage.
+          of available coverage. On an over-limit loss &mdash; where the damage exceeds the
+          policy limit &mdash; the deductible is absorbed into the insured&rsquo;s out-of-pocket
+          costs, and the carrier should pay the full policy limit.
         </p>
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Contractors and Deductibles: Not as Simple as &ldquo;It&rsquo;s the Law&rdquo;
+        Contractors and Deductibles
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         After storms, contractors sometimes offer to &ldquo;take care of your deductible&rdquo;
-        as an incentive. Several states have statutes addressing this practice. But the
-        confident declarations you hear from contractors, adjusters, and internet commentators
-        &mdash; that deductible waivers are flatly &ldquo;illegal&rdquo; &mdash; often collapse
-        under scrutiny when you read the actual statutory language and apply it to common
-        real-world situations. This is a topic with strongly held opinions, significant
-        ambiguity, and very little published case law resolving the hard questions.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Texas: What the Statutes Actually Say
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Texas has two statutes that work together. <strong>Insurance Code &sect;707.002</strong>{' '}
-        is one sentence: <em>&ldquo;A person insured under a property insurance policy shall pay
-        any deductible applicable to a first-party claim made under the policy.&rdquo;</em>{' '}
-        That is the insured&rsquo;s obligation &mdash; applicable to the <em>claim</em>, not to
-        each contractor or each line item.
+        as an incentive. Several states have statutes addressing this practice &mdash; Texas,
+        California, Florida, and Colorado among them. But the confident declarations you hear
+        from contractors, adjusters, and internet commentators &mdash; that deductible waivers
+        are flatly &ldquo;illegal&rdquo; &mdash; often collapse under scrutiny when you read the
+        actual statutory language and apply it to common real-world situations like multi-contractor
+        claims, over-limit losses, partial repairs, and ACV-only policies.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The contractor-facing prohibition is in <strong>Business &amp; Commerce Code
-        &sect;27.02(c)</strong>, which makes it an offense for a seller of goods or services to,{' '}
-        <em>without the insurer&rsquo;s consent</em>: (1) pay, waive, absorb, or decline to
-        collect the deductible; (2) provide a rebate or credit that offsets the deductible; or
-        (3) &ldquo;in any other manner assist the insured person&rsquo;s failure to pay&rdquo;
-        the deductible. Violation is a Class B misdemeanor &mdash; up to 180 days and a $2,000
-        fine.
+        The statutes in every state that has addressed this issue are full of ambiguities that no
+        appellate court has resolved. The enforcement mechanisms have structural gaps. And the
+        people most aggressively citing these laws are often the ones with the most to gain from
+        the broadest possible interpretation. We cover this in depth &mdash; including the
+        specific statutory language, the legislative history, the enforcement gaps, and the
+        scenarios where the law is genuinely unclear &mdash; in our dedicated article on{' '}
+        <Link href="/resources/contractors-and-deductibles" className="text-blue-700 underline hover:text-blue-900">
+          contractors and deductibles
+        </Link>.
       </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Insurance Code &sect;707.004</strong> gives carriers an enforcement mechanism:{' '}
-        <em>&ldquo;An insurer that issues a property insurance policy with replacement cost
-        coverage may refuse to pay a claim for withheld recoverable depreciation or a
-        replacement cost holdback under the policy until the insurer receives reasonable proof of
-        payment by the policyholder of any deductible applicable to the claim.&rdquo;</em>{' '}
-        Reasonable proof includes a canceled check, money order receipt, credit card statement, or
-        executed installment plan.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        &sect;27.02(b) also requires contracts over $1,000 for goods or services expected to be
-        paid from insurance proceeds to include a disclosure in 12-point bold type: <em>&ldquo;Texas
-        law requires a person insured under a property insurance policy to pay any deductible
-        applicable to a claim made under the policy. It is a violation of Texas law for a seller
-        of goods or services who reasonably expects to be paid wholly or partly from the proceeds
-        of a property insurance claim to knowingly allow the insured person to fail to pay, or
-        assist the insured person&rsquo;s failure to pay, the applicable insurance
-        deductible.&rdquo;</em>
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Who Wrote This Law, and Why
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Chapter 707 was enacted as HB 2102 by the 86th Texas Legislature in 2019, sponsored by
-        Rep. Giovanni Capriglione (R) and Sen. Judith Zaffirini (D). The bill was framed as
-        consumer protection against fraudulent roofing contractors who offered &ldquo;free
-        roofs&rdquo; and then inflated claims to absorb the deductible. The grassroots campaign
-        behind it came from a coalition of Texas roofing contractor associations under the banner
-        &ldquo;Don&rsquo;t Fraud My Texas&rdquo; &mdash; including the North Texas Roofing
-        Contractors Association, the Roofing Contractors Association of Texas, and several
-        regional groups. Insurance companies lobbied hard for it as well. The National Insurance
-        Crime Bureau praised the bill as closing a &ldquo;fraud loophole.&rdquo; Texas Insurance
-        Commissioner Kent Sullivan endorsed it.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The political dynamic explains both the law&rsquo;s strengths and its blind spots:
-        legitimate roofing contractors wanted to eliminate competitors who used deductible waivers
-        to undercut them, and insurance companies wanted to reduce inflated claims. Those
-        interests aligned perfectly around the simplest scenario &mdash; a single roofing
-        contractor waiving a hail deductible on a straightforward claim under the policy limit.
-        The bill was drafted with that scenario in mind. The more complicated situations that
-        arise on real claims &mdash; multiple contractors, over-limit losses, ACV-only policies,
-        partial repairs &mdash; do not appear to have been considered.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This was not actually new law. A deductible waiver prohibition had existed in Texas since
-        1989 in Business &amp; Commerce Code &sect;27.02. But the original statute only prohibited
-        &ldquo;paying&rdquo; the deductible &mdash; and contractors argued that &ldquo;waiving&rdquo;
-        or &ldquo;absorbing&rdquo; a deductible was not the same as &ldquo;paying&rdquo; it. Attorney
-        General Jim Mattox issued Opinion JM-1154 in 1990 trying to clarify, but the narrow
-        wording made the law essentially unenforceable for 30 years. HB 2102 broadened the
-        prohibited conduct to include waiving, absorbing, rebating, crediting, offsetting, and
-        the catch-all &ldquo;in any other manner assist.&rdquo; It also added the
-        depreciation-withholding enforcement mechanism in &sect;707.004 and the mandatory
-        contract disclosures.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        No Court Has Interpreted This Law
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In the nearly seven years since Chapter 707 took effect, <strong>no Texas appellate court
-        has published a decision interpreting it</strong>. The questions raised throughout this
-        section &mdash; whether the deductible obligation is satisfied when paid to a prior
-        contractor, whether it is absorbed into over-limit losses, whether partial repairs
-        constitute &ldquo;assisting&rdquo; avoidance &mdash; are genuinely unresolved. They are
-        not unresolved because the answers are obvious. They are unresolved because nobody has
-        litigated them to a published decision. Criminal enforcement (Class B misdemeanor) would
-        produce trial-level cases that are rarely published, and civil litigation citing these
-        sections does not appear in any public database.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        The &sect;707.004 Enforcement Gap
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Read &sect;707.004 again carefully. It says an insurer that issues a policy{' '}
-        <em>&ldquo;with replacement cost coverage&rdquo;</em> may withhold{' '}
-        <em>&ldquo;recoverable depreciation or a replacement cost holdback.&rdquo;</em> This
-        enforcement mechanism only works when all of the following are true: the policy has
-        replacement cost coverage, the carrier is holding back depreciation, and the claim is
-        below the policy limit. When any of those conditions is missing, the tool does not apply:
-      </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>ACV-only policies:</strong> No replacement cost coverage means no depreciation
-          holdback to withhold. The statute&rsquo;s enforcement mechanism simply does not exist
-          for these policies.
-        </li>
-        <li>
-          <strong>Over-limit losses:</strong> When the loss exceeds the policy limit, the
-          carrier pays the full limit. There is no holdback. There is nothing to withhold as
-          leverage.
-        </li>
-        <li>
-          <strong>Full replacement cost paid up front:</strong> Some carriers pay the full
-          replacement cost without a holdback. Again, no withholding mechanism.
-        </li>
-      </ul>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The 88th Texas Legislature (2023) partially acknowledged this problem. SB 1268 amended
-        &sect;707.004 to make the depreciation withholding <em>mandatory</em> rather than
-        optional &mdash; recognizing that insurers were not consistently using the tool. But
-        SB 1268 did not fix the structural gap: the enforcement mechanism still only works on
-        replacement cost policies with claims below the limit. Nobody in the published legal
-        literature appears to have addressed this gap.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In the simplest scenario &mdash; one contractor, one scope, one deductible, replacement
-        cost policy, claim under the limit &mdash; the statute is straightforward. But that is
-        not how most claims work.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Where the Texas Language Gets Complicated
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Read &sect;707.002 again: the insured must pay the deductible &ldquo;applicable to a
-        first-party claim.&rdquo; Singular claim, singular deductible. Now apply that language to
-        common situations:
-      </p>
-      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
-        <li>
-          <strong>The deductible was already paid to another contractor.</strong> A mitigation
-          company does $6,000 of emergency work. The carrier pays $5,000 after the $1,000
-          deductible. The homeowner pays the $1,000 difference to the mitigation contractor
-          &mdash; they have a canceled check to prove it. Months later, the roofer arrives and
-          demands the homeowner pay the deductible again. But the statute says the insured must
-          pay the deductible applicable to the <em>claim</em>. They already did. The roofer is
-          not &ldquo;waiving&rdquo; anything by not collecting money the insured already paid to
-          someone else on the same claim. Nothing in the statute requires the deductible to be
-          collected twice.
-        </li>
-        <li>
-          <strong>The loss exceeds the policy limit.</strong> The insured has $120,000 in damage
-          on a $100,000 policy with a $1,000 deductible. When the loss exceeds the limit plus
-          the deductible combined, the carrier pays the full policy limit &mdash; $100,000
-          &mdash; and the deductible is absorbed into the $20,000 the insured is already paying
-          out of pocket. The insured&rsquo;s out-of-pocket cost is twenty times the deductible.
-          Who, exactly, would the insured pay the deductible to? The carrier already paid its
-          maximum. The contractor is owed $120,000. The insured is covering the $20,000
-          shortfall. There is no separate &ldquo;deductible payment&rdquo; to make &mdash; it
-          has been absorbed into the overage. And if the insured has signed an assignment or
-          direction of payment so the carrier issues the $100,000 check jointly to the
-          homeowner and the contractor, is the homeowner supposed to write a separate $1,000
-          &ldquo;deductible&rdquo; check on top of the $20,000 they already owe for the
-          overage? The $1,000 is already inside the $20,000. Under &sect;707.004, the
-          carrier&rsquo;s enforcement mechanism is withholding recoverable depreciation &mdash;
-          but in an over-limit loss, the carrier has already paid the full limit. There is no
-          depreciation holdback to withhold. The enforcement tool does not even apply.
-        </li>
-        <li>
-          <strong>The insured is not doing all the approved work.</strong> A hail claim approves
-          the roof, fence, landscaping, and mailbox. The homeowner hires a roofer for the roof
-          only. They are not repairing the fence or replacing the mailbox &mdash; so the carrier
-          does not owe for that work, and the contractor is not performing it. The money the
-          insured is not spending on those unapproved items naturally exceeds the deductible
-          amount. No one is &ldquo;waiving&rdquo; anything. The insured is simply not doing
-          all the approved work.
-        </li>
-      </ul>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The statute was clearly written for the simplest scenario: one contractor, one scope,
-        loss below the policy limit, and a straightforward deductible. It does not account for
-        the complexity of real claims with multiple contractors, over-limit losses, partial
-        repairs, or assignments of benefits. And to the extent the statute creates ambiguity in
-        those situations, the people most aggressively citing it are often the ones with the most
-        to gain from the broadest possible interpretation.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Note also the phrase <em>&ldquo;without the insurer&rsquo;s consent&rdquo;</em> in
-        &sect;27.02(c). If the insurer consents to a deductible arrangement, there is no
-        violation at all. And the catch-all language &mdash; &ldquo;in any other manner assist
-        the insured person&rsquo;s failure to pay&rdquo; &mdash; is vague enough that it could
-        theoretically sweep in a contractor who simply charges less than the estimate amount,
-        even if the lower price reflects actual costs rather than any intent to absorb the
-        deductible. Merlin Law Group has described the statute as &ldquo;a clarification and
-        more carefully worded version&rdquo; of a prohibition that existed since 1989 but was
-        routinely ignored, and has questioned what consumer benefit it actually provides.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        None of this means the statute has no teeth. It does. A contractor who openly advertises
-        &ldquo;free roof &mdash; we eat your deductible&rdquo; and then inflates the claim to
-        cover it is doing exactly what the law targets. But the confident insistence from many
-        roofing contractors that &ldquo;the law requires you to pay me the deductible&rdquo; in
-        every situation &mdash; including situations where the deductible was already paid to
-        someone else or absorbed into an over-limit loss &mdash; reflects a self-serving reading
-        of a statute that does not say what they claim it says. Contractors collect more money
-        when the homeowner pays the deductible on top of insurance proceeds. That is a financial
-        interest, not a legal analysis.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        The Insurance Fraud Question &mdash; Separate from Any Statute
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Even in states without a specific deductible waiver statute, there is a separate issue:
-        potential insurance fraud. If a contractor&rsquo;s estimate says the job costs $100,000
-        and the contractor is not collecting the $1,000 deductible, the true cost of the work
-        to the homeowner is $99,000, not $100,000. If the insured represents $100,000 as the
-        actual cost to the insurance company &mdash; or if the contractor submits an estimate at
-        $100,000 knowing they do not intend to collect the full amount &mdash; that could be a
-        misrepresentation of the actual cost of repairs regardless of whether a deductible waiver
-        statute exists. This is a fraud analysis, not a statutory deductible analysis, and it
-        applies in every state.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        That said, even the fraud analysis has nuances. If the contractor legitimately performs
-        the work for $99,000 because that is their actual cost and the estimate was the
-        carrier&rsquo;s number (not the contractor&rsquo;s), the fact that the contractor did
-        not collect the last $1,000 may simply mean the job was done for less than estimated.
-        Contractors are not required to charge the exact amount on the insurance estimate.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        California: Penal Code &sect;551(b)
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        California has its own statute, less well-known than the Texas law. <strong>Penal Code
-        &sect;551(b)</strong> provides, in relevant part: <em>&ldquo;Except in cases in which
-        the amount of the repair or replacement claim has been determined by the insurer and the
-        repair or replacement services are performed in accordance with that determination or in
-        accordance with provided estimates that are accepted by the insurer, it is unlawful for
-        any &hellip; contractor &hellip; to knowingly offer or give any discount intended to
-        offset a deductible required by a policy of insurance covering repairs to or replacement
-        of a &hellip; residential or commercial structure.&rdquo;</em>
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The exception at the beginning of &sect;551(b) is significant and arguably swallows much
-        of the rule. If the insurer has already determined the claim amount and the contractor
-        performs the work in accordance with that determination, the prohibition does not apply.
-        On a typical insurance claim where the carrier has issued an estimate and the contractor
-        performs the approved scope, the exception would seem to apply &mdash; but the statute
-        does not define what &ldquo;in accordance with that determination&rdquo; means in
-        practice, and there is very little published case law interpreting it.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Violations under $950 are a misdemeanor. Over $950, the offense is a wobbler &mdash;
-        prosecutable as a misdemeanor or a felony carrying up to three years.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Other States
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Florida (Fla. Stat. &sect;489.147) prohibits contractors from advertising or promising
-        to pay or waive deductibles as an inducement, with a particular focus on roof claims.
-        Colorado (C.R.S. &sect;6-22-105) has a similar prohibition specific to roofing
-        contractors. Most other states address the issue through general insurance fraud statutes
-        rather than contractor-specific deductible laws.
-      </p>
-
-      <CalloutBox variant="legal" title="An Open Question With No Easy Answers">
-        <p>
-          Whether a contractor deductible arrangement is unlawful depends on the specific facts,
-          the specific state, and the specific statutory language &mdash; which is often
-          ambiguous on the situations that arise most frequently in practice. The edge cases
-          &mdash; deductibles already satisfied by a prior contractor, losses exceeding policy
-          limits, partial scopes of work, the fraud implications of misrepresenting actual costs
-          &mdash; are not clearly resolved by any of these statutes. Even attorneys may not agree
-          on the answers. If you are a homeowner or contractor dealing with a deductible dispute,
-          consult a licensed attorney in your state. Do not rely on what a contractor, an
-          adjuster, or an article on the internet tells you the law requires &mdash; including
-          this one.
-        </p>
-      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         When Carriers Misapply Deductibles
@@ -642,6 +458,82 @@ export default function Content() {
         deductible on your all-perils deductible does not affect a separate earthquake percentage
         deductible. Read the endorsement carefully to understand which deductible it modifies and
         under what circumstances the reduction resets.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        What to Do If Your Deductible Was Misapplied
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you believe your carrier has misapplied your deductible &mdash; applied it twice,
+        applied it to the wrong coverage, or used the wrong deductible type &mdash; you have
+        several options, and you should pursue them in roughly this order:
+      </p>
+      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>Put it in writing immediately.</strong> Send the carrier a written objection
+          identifying the specific error, citing the specific policy language that applies, and
+          demanding a corrected payment. A clear{' '}
+          <Link href="/resources/claim-negotiation-letters" className="text-blue-700 underline hover:text-blue-900">
+            claim negotiation letter
+          </Link>{' '}
+          creates a paper trail and triggers the carrier&rsquo;s obligation to respond under the{' '}
+          <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
+            Fair Claims Settlement Practices Regulations
+          </Link>.
+        </li>
+        <li>
+          <strong>Request a complete copy of your claim file.</strong> Under California Insurance
+          Code &sect;2071 and the{' '}
+          <Link href="/resources/cdi-right-to-claim-documents" className="text-blue-700 underline hover:text-blue-900">
+            CDI&rsquo;s claim document rules
+          </Link>,
+          you are entitled to documents in the carrier&rsquo;s file. The adjuster&rsquo;s
+          internal notes may reveal whether the deductible application was a calculation error or
+          a deliberate choice &mdash; and that distinction matters for any bad faith analysis.
+        </li>
+        <li>
+          <strong>File a complaint with the California Department of Insurance.</strong> The{' '}
+          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+            CDI complaint process
+          </Link>{' '}
+          is free and can be effective for clear-cut deductible errors. The CDI will review the
+          policy language and the carrier&rsquo;s payment, and if the deductible was misapplied,
+          will order the carrier to correct it.
+        </li>
+        <li>
+          <strong>Hire a public adjuster.</strong> A{' '}
+          <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+            licensed public adjuster
+          </Link>{' '}
+          can review the carrier&rsquo;s estimate, identify deductible errors, and negotiate for
+          corrected payment on your behalf. This is particularly valuable when the deductible
+          issue is intertwined with scope or depreciation disputes.
+        </li>
+        <li>
+          <strong>Invoke appraisal.</strong> If the dispute is about the amount of loss &mdash;
+          including how the deductible interacts with the loss calculation &mdash; the{' '}
+          <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
+            appraisal process
+          </Link>{' '}
+          in your policy may allow you to bypass the carrier&rsquo;s adjuster entirely and have
+          the amount determined by independent appraisers and an umpire.
+        </li>
+        <li>
+          <strong>Consult an attorney.</strong> If the carrier refuses to correct a clear
+          deductible error after written demand, the misapplication may rise to the level of{' '}
+          <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">
+            bad faith
+          </Link>{' '}
+          &mdash; particularly if the error is systemic or the carrier cannot articulate a
+          reasonable basis for its position. An attorney can evaluate whether the facts support
+          a bad faith claim in addition to the contract dispute.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The key is to act promptly and in writing. Deductible errors that go unchallenged become
+        the baseline for all future payments on the claim &mdash; including supplements and
+        recoverable depreciation. The sooner you identify and document the error, the easier it
+        is to correct.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
