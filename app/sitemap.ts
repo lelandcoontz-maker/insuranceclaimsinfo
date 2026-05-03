@@ -122,6 +122,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'xactimate-pricing-user-responsibility',
     'white-waiver-settlement-confidentiality',
     'three-trade-rule',
+    'accounts-receivable-valuable-papers',
+    'business-income-waiting-period',
+    'commercial-ordinance-law',
+    'commercial-vacancy-clause',
+    'employee-dishonesty-crime-gap',
+    'neighboring-tenant-sprinkler-damage',
+    'off-premises-utility-services',
+    'pollution-exclusion-claims',
+    'spoilage-coverage',
+    'tenant-roof-leak-coverage-gap',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

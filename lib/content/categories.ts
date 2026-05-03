@@ -1579,7 +1579,7 @@ export const CATEGORIES: Category[] = [
         icon: '🔨',
         title: 'Vandalism Claims',
         desc: 'How to prove vandalism and push back when insurers relabel your claim as wear and tear.',
-        href: '/resources/vandalism-claims',
+        href: '/resources/vandalism-vs-wear-and-tear',
         tag: 'Vandalism',
         tagColor: 'bg-teal-100 text-teal-700',
       },

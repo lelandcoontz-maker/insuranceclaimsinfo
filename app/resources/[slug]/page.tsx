@@ -359,6 +359,16 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'three-trade-rule': { title: 'The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit', description: 'The three-trade rule is a practical shorthand for a legal principle adopted by appellate courts across the country: overhead and profit are owed whenever a general contractor is reasonably likely to be needed. Nine verified case law citations, state regulatory authority, and practical guidance for policyholders.' },
   'how-insurance-payments-calculated': { title: 'How Your Insurance Payment Is Actually Calculated', description: 'A step-by-step walkthrough of how insurance companies calculate claim payments — RCV, depreciation, ACV, deductible application, recoverable depreciation, and supplements. Includes worked examples and guidance on decoding your payment.' },
   'when-not-to-file-claim': { title: 'When NOT to File an Insurance Claim', description: 'Sometimes the best decision is not to file. When damage is below your deductible, when the loss is excluded, or when a claim could trigger nonrenewal, a careful analysis before filing can save you money and protect your insurability.' },
+  'accounts-receivable-valuable-papers': { title: 'Accounts Receivable and Valuable Papers Coverage: Protecting the Records That Keep Your Business Running', description: 'Accounts receivable (CP 04 04) and valuable papers (CP 04 07) coverage protect the information value of business records. Learn what these endorsements cover and how to use them.' },
+  'business-income-waiting-period': { title: 'The Business Income Waiting Period: The 72 Hours That Could Bankrupt Your Business', description: 'The 72-hour waiting period in business income coverage can cost thousands in uninsured losses. Learn how it works, when it applies, and how to reduce or eliminate it.' },
+  'commercial-ordinance-law': { title: 'Ordinance or Law Coverage in Commercial Property Insurance: When Code Upgrades Can Double Your Claim', description: 'How ordinance or law coverage works in commercial property policies. The three ISO coverages, policy variations, demolition thresholds, and gaps that can cost building owners hundreds of thousands.' },
+  'commercial-vacancy-clause': { title: 'The Commercial Vacancy Clause: How Empty Space Can Gut Your Property Coverage', description: 'Commercial vacancy clauses impose severe coverage penalties when buildings fall below 31% occupancy for 60+ days. Learn the rules, exceptions, and how to protect your claim.' },
+  'employee-dishonesty-crime-gap': { title: 'Employee Dishonesty and the Crime Policy Gap: When "Theft" Doesn\'t Mean What You Think', description: 'Learn why your business property policy won\'t cover employee theft, how crime policy sublimits leave businesses exposed, and what standalone coverage you actually need.' },
+  'neighboring-tenant-sprinkler-damage': { title: 'When a Neighbor\'s Fire Sprinkler Floods Your Business: Multi-Tenant Water Damage Claims', description: 'Fire sprinkler activation in a neighboring unit can destroy your business with contaminated water. Learn whose policy responds, what perils apply, and how to protect your claim.' },
+  'off-premises-utility-services': { title: 'Off-Premises Utility Services: When a Power Failure Miles Away Destroys Your Business', description: 'Standard commercial property policies exclude losses from off-premises utility failures. Learn how the utility services endorsement closes this devastating coverage gap for restaurants and businesses with perishable inventory.' },
+  'pollution-exclusion-claims': { title: 'The Pollution Exclusion in Property Insurance Claims: History, Misapplication, and California Law', description: 'How insurers misuse the pollution exclusion to deny fire and asbestos claims. California case law, efficient proximate cause, and practical guidance.' },
+  'spoilage-coverage': { title: 'Spoilage Coverage: When Temperature-Sensitive Inventory Is Your Business', description: 'How spoilage coverage protects perishable inventory from power outages and equipment failure, what standard policies exclude, and how to avoid devastating sublimits.' },
+  'tenant-roof-leak-coverage-gap': { title: 'Roof Leaks in Leased Commercial Space: The Coverage Gap That Destroys Businesses', description: 'When rain enters a leased commercial space through a neglected roof, neither the tenant\'s nor the landlord\'s policy may cover the damage. Learn why this gap exists, what triggers coverage, and how to protect yourself before a loss.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -717,6 +727,16 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'three-trade-rule': () => import('@/lib/content/articles/three-trade-rule'),
   'how-insurance-payments-calculated': () => import('@/lib/content/articles/how-insurance-payments-calculated'),
   'when-not-to-file-claim': () => import('@/lib/content/articles/when-not-to-file-claim'),
+  'accounts-receivable-valuable-papers': () => import('@/lib/content/articles/accounts-receivable-valuable-papers'),
+  'business-income-waiting-period': () => import('@/lib/content/articles/business-income-waiting-period'),
+  'commercial-ordinance-law': () => import('@/lib/content/articles/commercial-ordinance-law'),
+  'commercial-vacancy-clause': () => import('@/lib/content/articles/commercial-vacancy-clause'),
+  'employee-dishonesty-crime-gap': () => import('@/lib/content/articles/employee-dishonesty-crime-gap'),
+  'neighboring-tenant-sprinkler-damage': () => import('@/lib/content/articles/neighboring-tenant-sprinkler-damage'),
+  'off-premises-utility-services': () => import('@/lib/content/articles/off-premises-utility-services'),
+  'pollution-exclusion-claims': () => import('@/lib/content/articles/pollution-exclusion-claims'),
+  'spoilage-coverage': () => import('@/lib/content/articles/spoilage-coverage'),
+  'tenant-roof-leak-coverage-gap': () => import('@/lib/content/articles/tenant-roof-leak-coverage-gap'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
