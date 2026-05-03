@@ -109,6 +109,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'soft-costs-claims',
     'large-commercial-losses',
     'cdi-36-month-ale',
+    'subject-to-mortgage-insurance-trap',
+    'foreclosure-insurance-claims',
+    'carrier-profiles-know-your-carrier',
+    'debris-removal-deep-dive',
+    'games-insurers-play-documentation-loop',
+    'games-insurers-play-preferred-vendor',
+    'games-insurers-play-wear-and-tear',
+    'real-negotiation-case-studies',
+    'urban-vs-forest-wildfire-smoke',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({
