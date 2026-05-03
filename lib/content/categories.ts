@@ -468,6 +468,14 @@ export const CATEGORIES: Category[] = [
         tagColor: 'bg-sky-100 text-sky-700',
       },
       {
+        icon: '🏘',
+        title: 'Blanket vs. Specific Insurance',
+        desc: 'Multi-location businesses can use a single blanket limit to avoid coinsurance penalties location by location. Know the difference before your next loss.',
+        href: '/resources/blanket-vs-specific-insurance',
+        tag: 'Commercial',
+        tagColor: 'bg-blue-100 text-blue-700',
+      },
+      {
         icon: '🏗️',
         title: 'Ordinance or Law in Commercial Property Insurance',
         desc: 'Coverages A, B, and C under ISO CP 04 05. Policy wording variations that determine whether code upgrades to undamaged portions are covered or not.',

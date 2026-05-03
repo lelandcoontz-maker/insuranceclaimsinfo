@@ -416,6 +416,90 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      {/* ───────── 7. Commercial Policy Conditions (CP 00 90) ───────── */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Commercial Policy Conditions (CP 00 90): The Fine Print That Differs from Residential
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The <strong>Commercial Property Conditions form (CP 00 90)</strong> governs procedural and
+        contractual rules for every commercial property policy. Many of these conditions have no
+        residential equivalent or work differently than homeowners expect. The provisions that
+        matter most:
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Abandonment: You Cannot Walk Away
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CP 00 90 states: <em>&ldquo;There can be no abandonment of any property to us.&rdquo;</em>{' '}
+        This means you cannot hand damaged property over to the insurer and demand a total loss
+        payment. Even if a building is severely damaged, the carrier has no obligation to take
+        ownership of it. Conversely, the carrier cannot force you to abandon your property. This
+        is a two-way street, but it most often affects policyholders who assume that heavily
+        damaged property is automatically a total loss &mdash; under the abandonment clause, you
+        still own it, and the carrier will only pay for the cost to repair it unless it truly
+        meets the total loss threshold.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Liberalization: Free Coverage Upgrades
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The <strong>liberalization clause</strong> provides that if ISO adopts a revision to a form
+        or endorsement that broadens coverage <em>without additional premium</em>, the broader
+        coverage automatically applies to existing policies within 45 days of the revision&rsquo;s
+        adoption. This means your policy can get better during its term without you doing anything.
+      </p>
+
+      <CalloutBox variant="tip" title="Check for Liberalization Upgrades">
+        <p>
+          When ISO revises a commercial property form to broaden coverage (for example, increasing
+          a sub-limit or adding a covered peril), existing policyholders automatically benefit under
+          the liberalization clause &mdash; but only if the change does not require additional
+          premium. Your broker should be tracking these changes. If a coverage dispute arises, check
+          whether any form revisions during the policy period broadened the coverage at issue.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Loss Payment Timing
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under CP 00 90, the carrier must pay for a covered loss <strong>within 30 days</strong>{' '}
+        after receiving a satisfactory proof of loss and reaching agreement on the amount. This is
+        a contractual deadline that supplements the regulatory timelines under{' '}
+        <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
+          California&rsquo;s Fair Claims Regulations
+        </Link>.
+        If the carrier delays beyond 30 days after agreement, it may be in breach of the policy
+        conditions. In practice, carriers rarely pay in 30 days &mdash; but the provision creates
+        a contractual obligation you can enforce.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Concealment, Misrepresentation, or Fraud
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CP 00 90 voids the entire policy if the insured &ldquo;intentionally concealed or
+        misrepresented a material fact or circumstance&rdquo; relating to the insurance, the
+        covered property, or a claim. Unlike California residential claims where the carrier must
+        show the misrepresentation was <em>material</em> and relied upon, commercial carriers
+        often invoke this condition more aggressively &mdash; particularly in large losses where
+        the insured&rsquo;s financial records are scrutinized. An innocent mistake on a proof of
+        loss or application can become a voiding defense if the carrier frames it as a
+        &ldquo;misrepresentation.&rdquo;
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Recovered Property
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the carrier pays a claim for stolen or lost property and the property is later recovered,
+        the insured must notify the carrier promptly. Either party can then elect to take the
+        recovered property. In commercial settings, this most commonly applies to stolen equipment,
+        inventory, or valuable papers that are recovered after a claim has been paid.
+      </p>
+
       {/* ───────── Summary Comparison ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Side-by-Side Comparison
@@ -473,16 +557,34 @@ export default function Content() {
       <CalloutBox variant="tip" title="Related Reading">
         <ul className="list-disc pl-4 space-y-1">
           <li>
+            <Link href="/resources/cp-cause-of-loss-forms" className="text-blue-700 underline hover:text-blue-900">
+              CP Cause of Loss Forms: Basic, Broad &amp; Special
+            </Link>{' '}
+            &mdash; the form that determines whether your commercial claim is covered
+          </li>
+          <li>
+            <Link href="/resources/cp-vs-bop-policies" className="text-blue-700 underline hover:text-blue-900">
+              CP vs. BOP Policies
+            </Link>{' '}
+            &mdash; structural differences between monoline commercial property and businessowners policies
+          </li>
+          <li>
             <Link href="/resources/business-interruption" className="text-blue-700 underline hover:text-blue-900">
               Business Interruption Insurance Claims
             </Link>{' '}
-            &mdash; detailed analysis of business income coverage, period of restoration, and carrier tactics
+            &mdash; period of restoration, BI coinsurance, and carrier tactics
           </li>
           <li>
-            <Link href="/resources/coinsurance-penalty" className="text-blue-700 underline hover:text-blue-900">
-              Coinsurance Penalties
+            <Link href="/resources/commercial-coinsurance" className="text-blue-700 underline hover:text-blue-900">
+              Commercial Coinsurance
             </Link>{' '}
-            &mdash; how the formula works and how to challenge an improperly applied penalty
+            &mdash; the penalty formula, agreed value, and coinsurance alternatives
+          </li>
+          <li>
+            <Link href="/resources/commercial-endorsements" className="text-blue-700 underline hover:text-blue-900">
+              Critical Commercial Endorsements
+            </Link>{' '}
+            &mdash; the endorsements that expand or restrict commercial coverage
           </li>
           <li>
             <Link href="/resources/large-commercial-losses" className="text-blue-700 underline hover:text-blue-900">
@@ -494,19 +596,7 @@ export default function Content() {
             <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
               California Fair Claims Settlement Practices
             </Link>{' '}
-            &mdash; the regulations every California policyholder should know
-          </li>
-          <li>
-            <Link href="/resources/ordinance-law" className="text-blue-700 underline hover:text-blue-900">
-              Ordinance or Law Coverage
-            </Link>{' '}
-            &mdash; why code compliance costs can exceed the repair costs
-          </li>
-          <li>
-            <Link href="/resources/contents-claims" className="text-blue-700 underline hover:text-blue-900">
-              Contents Claims
-            </Link>{' '}
-            &mdash; documenting and valuing personal property losses
+            &mdash; the regulations that apply to all California claims, including commercial
           </li>
         </ul>
       </CalloutBox>

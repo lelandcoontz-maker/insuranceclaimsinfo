@@ -95,6 +95,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/commercial-lease-insurance', label: 'Lease Insurance Requirements' },
       { href: '/resources/civil-authority-utility-services', label: 'Civil Authority & Utility Services' },
       { href: '/resources/protective-safeguards', label: 'Protective Safeguards' },
+      { href: '/resources/blanket-vs-specific-insurance', label: 'Blanket vs. Specific Insurance' },
       { href: '/resources/commercial-loss-of-rents', label: 'Commercial Loss of Rents' },
     ],
   },

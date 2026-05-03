@@ -492,6 +492,44 @@ export default function Content() {
         a penalty can still be triggered.
       </p>
 
+      {/* ───────── SECTION 9B: VALUE REPORTING FORMS ───────── */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Value Reporting Forms (CP 13 10): Another Coinsurance Alternative
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A <strong>value reporting form</strong> is a fourth alternative to standard coinsurance, most commonly used for business personal property that fluctuates significantly in value &mdash; warehouses, distributors, seasonal retailers, and manufacturers with variable raw material inventory. Under the ISO Value Reporting Form (CP 13 10), the insured reports the actual value of covered property at specified intervals (monthly, quarterly, or annually) rather than carrying a fixed limit.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The reporting form works on a <strong>provisional limit</strong> basis. The insured purchases a limit high enough to cover the maximum anticipated value, and reports actual values periodically. Premium is adjusted at the end of the policy period based on the reported values rather than the provisional limit. If actual values never reached the provisional limit, the insured receives a premium credit. If they exceeded it, additional premium is charged.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">The Reporting Penalties</h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The value reporting form contains <strong>three separate penalty mechanisms</strong> that can reduce a loss payment:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Late report penalty:</strong> If the insured fails to submit a report when due, the carrier will only pay the lesser of (a) the value reported on the last timely report or (b) the actual loss. If no report was ever filed, recovery may be limited to 75% of the provisional limit.
+        </li>
+        <li>
+          <strong>Underreporting penalty:</strong> If the value reported on the most recent report is less than the actual value at the time of loss, the carrier applies a coinsurance-like formula: (Last Reported Value &divide; Actual Value at Time of Loss) &times; Loss = Payment. This functions identically to a 100% coinsurance clause.
+        </li>
+        <li>
+          <strong>Full reporting clause:</strong> The insured is required to report the <em>full</em> value of all covered property at each reporting date. Deliberately underreporting to save premium triggers the underreporting penalty and can also constitute a material misrepresentation.
+        </li>
+      </ul>
+
+      <CalloutBox variant="warning" title="Reporting Forms Punish Mistakes Harshly">
+        <p>
+          Value reporting forms are powerful tools for businesses with fluctuating values, but they require disciplined, accurate, and timely reporting. A single missed or late report can cap your recovery at the last reported value &mdash; which may be months old and far below current inventory levels. If your business uses a reporting form, calendar every reporting deadline and assign someone to ensure reports are submitted on time.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">When Value Reporting Makes Sense</h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Value reporting is best suited for businesses where BPP values swing widely and predictably &mdash; seasonal inventory, bulk commodity storage, or consigned goods. For businesses with relatively stable values, the administrative burden and penalty risk of a reporting form outweigh the premium savings. The <strong>Peak Season Endorsement</strong> (CP 12 30) is often a simpler alternative for businesses whose values fluctuate seasonally but don&rsquo;t change month to month.
+      </p>
+
       {/* ───────── SECTION 10: PRACTICAL ADVICE ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Practical Advice: How to Avoid Coinsurance Penalties
@@ -542,6 +580,13 @@ export default function Content() {
           CP 15 15 worksheet, every appraisal, and every communication with your agent about
           coverage limits. If a coinsurance dispute arises, these documents establish what you
           disclosed and what coverage you requested.
+        </li>
+        <li>
+          <strong>Ask about blanket insurance</strong> if you have multiple locations. A single blanket limit covering all locations makes coinsurance compliance easier because compliance is measured on the aggregate value, not location by location. See our article on{' '}
+          <Link href="/resources/blanket-vs-specific-insurance" className="text-[#2E74B5] underline hover:text-blue-900">
+            blanket vs. specific insurance
+          </Link>{' '}
+          for a detailed comparison.
         </li>
       </ol>
 
