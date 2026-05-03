@@ -109,10 +109,16 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         While the grapes are on the vine, they are a <strong>growing crop</strong> covered by
         federal crop insurance administered through the USDA&rsquo;s Risk Management Agency
-        (RMA). California wine grapes have a specific crop insurance policy &mdash; the Actual
-        Revenue History (ARH) plan for grapes, or in some cases the Actual Production History
-        (APH) plan. The crop policy covers the yield and/or revenue loss when the grapes cannot
-        be harvested or are harvested at reduced value due to a covered cause of loss.
+        (RMA). Under the Federal Crop Insurance Act (7 U.S.C. &sect; 1502 et seq.) and the
+        Common Crop Insurance Policy (CCIP) &mdash; the standard policy form published by the
+        RMA that governs all federal crop insurance &mdash; a &ldquo;crop&rdquo; is the
+        agricultural commodity insured under the policy, and coverage applies while the crop
+        is in the field through the end of the insurance period, which for most perennial crops
+        like wine grapes is tied to the harvest date specified in the Crop Provisions. California
+        wine grapes have a specific crop insurance policy &mdash; the Actual Revenue History
+        (ARH) plan for grapes, or in some cases the Actual Production History (APH) plan. The
+        crop policy covers the yield and/or revenue loss when the grapes cannot be harvested or
+        are harvested at reduced value due to a covered cause of loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Smoke taint on unharvested grapes is a crop insurance claim. The policyholder reports
@@ -137,14 +143,20 @@ export default function Content() {
         Stage 2: Harvested Grapes (In Transit, In Storage, On the Crush Pad)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The moment grapes are picked from the vine, they are no longer a growing crop. They
-        become <strong>harvested commodity</strong> &mdash; personal property that can be
-        classified as business personal property (BPP) under a commercial property policy,
-        stock or inventory under a businessowners policy (BOP), or goods in transit under an{' '}
+        The moment grapes are severed from the vine, they are no longer a growing crop under
+        federal crop insurance. They become <strong>harvested commodity</strong>. This
+        transition is defined by the USDA&rsquo;s Common Crop Insurance Policy and the
+        applicable Crop Provisions: federal crop insurance coverage ends when the crop is
+        &ldquo;removed from the field&rdquo; or at the end of the insurance period, whichever
+        comes first. Once harvested, the grapes become personal property &mdash; classified as
+        business personal property (BPP) under a commercial property policy (ISO form CP 00 10
+        defines BPP to include &ldquo;stock&rdquo; &mdash; merchandise, raw materials, and
+        in-process or finished goods), as inventory under a businessowners policy (BOP), or
+        as goods in transit under an{' '}
         <Link href="/resources/inland-marine" className="text-[#2E74B5] underline">
           inland marine
         </Link>{' '}
-        policy.
+        policy if the grapes are being transported between locations.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This transition matters. If grapes are sitting in bins on the crush pad, loaded on a
