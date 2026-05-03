@@ -289,8 +289,21 @@ export default function Content() {
         The Exception That May Swallow the Rule
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The exception at the beginning of &sect;551(b) is significant and arguably swallows much
-        of the rule. Read it again: the prohibition does not apply when &ldquo;the amount of the
+        The exception at the beginning of &sect;551(b) is so broad that it may gut the
+        prohibition entirely. In plain terms: the statute says contractors cannot offer discounts
+        to offset deductibles &mdash; but then immediately carves out an exception for situations
+        where the insurer has already determined the claim amount and the contractor performs the
+        work accordingly. Since that describes virtually every insurance-funded repair, the
+        exception may leave the prohibition with almost nothing to prohibit.*
+      </p>
+      <p className="text-gray-500 text-sm italic mb-4">
+        * In legal writing, when an exception is so broad that it undermines the rule it is
+        attached to, lawyers and courts describe it as &ldquo;the exception that swallows the
+        rule.&rdquo; That phrase appears frequently in appellate opinions across every area of
+        law. Here, the &sect;551(b) exception arguably does exactly that.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Read the exception again: the prohibition does not apply when &ldquo;the amount of the
         repair or replacement claim has been determined by the insurer and the repair or
         replacement services are performed in accordance with that determination or in accordance
         with provided estimates that are accepted by the insurer.&rdquo;
