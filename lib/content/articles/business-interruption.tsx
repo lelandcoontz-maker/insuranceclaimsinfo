@@ -75,7 +75,88 @@ export default function Content() {
         </p>
       </CalloutBox>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        The 72-Hour Waiting Period and How to Eliminate It
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under the standard ISO form, the period of restoration does not begin until <strong>72 hours</strong> after the time of direct physical loss or damage. This means no business income recovery is possible for the first three days after the loss &mdash; a gap that can represent tens of thousands of dollars in lost revenue for high-volume businesses.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The endorsement <strong>CP 15 56</strong> (Business Income Changes &mdash; Beginning of the Period of Restoration) can reduce the waiting period to <strong>24 hours</strong> or <strong>eliminate it entirely</strong>. ISO provides a small rate credit when this endorsement is attached. For any business where a single day of closure represents significant revenue loss &mdash; restaurants, medical practices, retail operations with high foot traffic &mdash; this endorsement is worth every penny of additional premium.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Note that civil authority coverage has its <strong>own separate 72-hour waiting period</strong> that runs independently of the standard BI waiting period. If a government order prohibits access to your property, you wait 72 hours from the first prohibitory action before civil authority coverage begins &mdash; regardless of whether you have CP 15 56 on the underlying BI coverage. For a detailed analysis of civil authority coverage, see our article on{' '}
+        <Link href="/resources/civil-authority-utility-services" className="text-[#2E74B5] underline hover:text-blue-900">
+          civil authority, ingress/egress, and utility services
+        </Link>.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Extended Business Income: The 60-Day Ramp-Up Period
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Even after repairs are complete and the doors reopen, a business rarely returns to pre-loss revenue immediately. Customers have found other providers. Reputation has suffered. Supply chains are disrupted. The standard ISO form includes an <strong>automatic additional coverage of 60 days</strong> after the period of restoration ends, covering ongoing income losses while the business ramps back to normal.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For many businesses, 60 days is not enough. The <strong>Extended Period of Indemnity</strong> optional coverage allows the insured to replace the standard 60-day period with a longer timeframe &mdash; commonly purchased at <strong>90, 120, 180, 360, or even 720 days</strong>. The number of days shown on the declarations page replaces the default 60.
+      </p>
+
+      <CalloutBox variant="important" title="Extended BI Is Critical for Customer-Dependent Businesses">
+        <p>
+          If your business depends on foot traffic, repeat customers, seasonal visitors, or brand reputation, the standard 60-day extended BI period is likely inadequate. A restaurant that was closed for eight months will not recover its customer base in two months. A retail store that lost its holiday season may not fully recover until the next holiday season. Invest in the Extended Period of Indemnity endorsement &mdash; the premium increase is modest relative to the coverage it provides.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        BI Coinsurance: The Hidden Penalty
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Business income coinsurance works differently from building or personal property coinsurance because it is <strong>a function of time, not just dollars</strong>. The ISO coinsurance options for business income are 50%, 60%, 70%, 80%, 90%, 100%, and 125%, and each represents a proportion of a 12-month BI exposure:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li><strong>50% coinsurance</strong> &mdash; approximately 6 months of restoration coverage</li>
+        <li><strong>60% coinsurance</strong> &mdash; approximately 7 months</li>
+        <li><strong>80% coinsurance</strong> &mdash; approximately 9.5 months</li>
+        <li><strong>100% coinsurance</strong> &mdash; full 12 months</li>
+        <li><strong>125% coinsurance</strong> &mdash; 15 months (for highly seasonal businesses)</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The trap: an insured selects 50% coinsurance thinking it saves premium. But if restoration takes longer than six months and the limit is insufficient, the coinsurance penalty applies to <strong>every dollar of the claim</strong> &mdash; even if the loss is well under the policy limit. The penalty formula is the same as property coinsurance: (Amount Carried &divide; Amount Required) &times; Loss = Recovery.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Critically, BI coinsurance is calculated based on the <strong>12 months following the loss date</strong>, not the prior 12 months. If the business was growing, projected income for the post-loss period may exceed historical income &mdash; and the coinsurance requirement increases accordingly. For a comprehensive analysis of coinsurance penalties and alternatives, see our article on{' '}
+        <Link href="/resources/commercial-coinsurance" className="text-[#2E74B5] underline hover:text-blue-900">
+          commercial coinsurance
+        </Link>.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">Alternatives to BI Coinsurance</h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There are three alternatives that suspend the coinsurance clause entirely:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li><strong>Agreed Value:</strong> The insured submits the CP 15 15 Business Income Report/Worksheet annually. The insurer accepts the stated value and suspends coinsurance for 12 months. If the agreed value lapses without renewal, coinsurance silently reactivates &mdash; a dangerous trap.</li>
+        <li><strong>Monthly Limitation of Indemnity:</strong> The insured selects a fraction (1/3, 1/4, or 1/6) of the total BI limit as the maximum payable per 30-day period. This does not limit the total duration of coverage, only the monthly maximum.</li>
+        <li><strong>Maximum Period of Indemnity:</strong> BI payments are capped at <strong>120 days</strong> or until the limit is exhausted, whichever comes first. Simpler than monthly rationing but potentially more restrictive if restoration exceeds 120 days.</li>
+      </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        The Ordinary Payroll Limitation
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under the standard ISO form, business income coverage includes <strong>all</strong> continuing payroll as a covered expense. However, many carriers attach an <strong>ordinary payroll limitation or exclusion endorsement</strong> that either eliminates ordinary payroll entirely or limits it to a specified number of days (commonly 60 or 90 days).
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        &ldquo;Ordinary payroll&rdquo; means payroll for employees who are not officers, executives, department managers, or employees under contract. In practical terms, it means your hourly workers, seasonal staff, and non-essential employees. If the endorsement excludes ordinary payroll, the carrier will not reimburse those wages during the shutdown &mdash; even if you continued paying them to retain your workforce.
+      </p>
+
+      <CalloutBox variant="warning" title="The Payroll Exclusion Can Destroy Employee Retention">
+        <p>
+          A business that cannot afford to pay its hourly employees during a shutdown will lose them. When the business reopens, it must recruit, hire, and train replacements &mdash; which extends the ramp-up period and increases the actual income loss. The premium savings from excluding ordinary payroll are typically modest. The potential cost of losing your trained workforce is enormous. If your policy excludes ordinary payroll, discuss this with your broker immediately.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Extra Expense Coverage
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -95,7 +176,27 @@ export default function Content() {
         The key distinction: extra expense coverage pays for the <em>additional costs</em> of staying open (or reopening faster), while business income coverage pays for the <em>income lost</em> while closed. If a business spends $50,000 on a temporary location that allows it to continue operating and avoid $200,000 in lost income, the $50,000 is an extra expense, and the carrier benefits from the reduced BI exposure.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">CP 00 30 vs. CP 00 50: Combined vs. Standalone Extra Expense</h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There are two ISO forms that provide extra expense coverage, and the difference matters:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li><strong>CP 00 30 (Business Income AND Extra Expense):</strong> Covers both lost income and extra expenses under a single limit. Extra expense can be spent in any time frame &mdash; no monthly rationing. This is the more flexible and usually cheaper option.</li>
+        <li><strong>CP 00 50 (Extra Expense Coverage Form):</strong> Covers <em>only</em> extra expenses, not lost income. It has a &ldquo;Limits on Loss Payment&rdquo; provision that rations the limit over consecutive 30-day periods (typically 40% in the first 30 days, 80% in 60 days, 100% in 90+ days). This form is designed for businesses that <em>cannot shut down</em> &mdash; hospitals, data centers, critical infrastructure &mdash; and will incur massive costs to stay open regardless.</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For most businesses, CP 00 30 is the better vehicle because it provides both income protection and extra expense flexibility without monthly caps. For a detailed analysis of extra expense coverage, see our article on{' '}
+        <Link href="/resources/extra-expense-coverage" className="text-[#2E74B5] underline hover:text-blue-900">
+          extra expense coverage
+        </Link>.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">Expediting Expenses</h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Both CP 00 30 and CP 00 50 cover <strong>expediting expenses</strong> &mdash; the reasonable extra cost of temporary repair or expediting permanent repair of damaged property. The critical limitation: expediting expenses are only covered <em>to the extent they reduce the business income loss</em>. Paying a contractor overtime to finish repairs in three months instead of six is covered because it shortens the period of restoration and reduces the BI loss. Paying for expedited cosmetic upgrades that do not affect reopening timing is not.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Calculating Business Income Losses
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -245,25 +346,58 @@ export default function Content() {
       <CalloutBox variant="tip" title="Related Reading">
         <ul className="list-disc pl-4 space-y-1">
           <li>
-            <Link href="/resources/ale-frv" className="text-blue-700 underline hover:text-blue-900">
+            <Link href="/resources/extra-expense-coverage" className="text-[#2E74B5] underline hover:text-blue-900">
+              Extra Expense Coverage
+            </Link>{' '}
+            &mdash; deep dive into extra expense provisions, CP 00 30 vs. CP 00 50, and expediting expenses
+          </li>
+          <li>
+            <Link href="/resources/commercial-coinsurance" className="text-[#2E74B5] underline hover:text-blue-900">
+              Commercial Coinsurance
+            </Link>{' '}
+            &mdash; coinsurance penalties, agreed value, and alternatives for building, BPP, and business income
+          </li>
+          <li>
+            <Link href="/resources/civil-authority-utility-services" className="text-[#2E74B5] underline hover:text-blue-900">
+              Civil Authority, Ingress/Egress &amp; Utility Services
+            </Link>{' '}
+            &mdash; when a government order or utility failure triggers BI coverage
+          </li>
+          <li>
+            <Link href="/resources/commercial-endorsements" className="text-[#2E74B5] underline hover:text-blue-900">
+              Critical Commercial Endorsements
+            </Link>{' '}
+            &mdash; the endorsements that expand or restrict your commercial property coverage
+          </li>
+          <li>
+            <Link href="/resources/ale-frv" className="text-[#2E74B5] underline hover:text-blue-900">
               Additional Living Expenses &amp; Fair Rental Value
             </Link>{' '}
             &mdash; the residential equivalent of business interruption coverage
           </li>
           <li>
-            <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
+            <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline hover:text-blue-900">
               California Fair Claims Settlement Practices
             </Link>{' '}
             &mdash; the regulations that apply to all California insurance claims, including commercial
           </li>
-          <li>
-            <Link href="/resources/insurance-delay-tactics" className="text-blue-700 underline hover:text-blue-900">
-              Insurance Company Delay Tactics
-            </Link>{' '}
-            &mdash; recognizing and countering common carrier strategies to reduce or avoid payment
-          </li>
         </ul>
       </CalloutBox>
+
+      <div className="mt-12 p-6 bg-[#1F3964] rounded-lg text-center">
+        <p className="text-white text-lg font-semibold mb-2">
+          Struggling with a Business Interruption Claim?
+        </p>
+        <p className="text-blue-100 text-sm mb-4">
+          BI claims are the most complex and aggressively contested claims in commercial insurance. A Licensed Public Adjuster can challenge the carrier&rsquo;s projections, document the true restoration period, and fight for the full income recovery your policy provides.
+        </p>
+        <Link
+          href="/contact"
+          className="inline-block bg-[#C9A84C] text-white font-bold py-3 px-8 rounded hover:bg-yellow-600 transition"
+        >
+          Request a Free Consultation
+        </Link>
+      </div>
     </>
   )
 }

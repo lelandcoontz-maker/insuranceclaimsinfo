@@ -261,6 +261,12 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'xactimate-ownership-conflict': { title: 'Who Owns Xactimate — And Why It Matters for Your Claim', description: 'The software that prices your insurance claim is owned by the same industry that pays your claim. Here is the ownership chain, what it means, and why you should never accept an Xactimate estimate at face value.' },
   'cdi-contents-without-inventory': { title: 'Personal Property Claims Without a Full Inventory: What California Law Requires', description: 'After a total loss in a declared disaster, California law requires insurers to pay at least 30% of dwelling limits for contents without requiring an itemized inventory. The CDI has repeatedly directed carriers to comply.' },
   'insurance-myths-debunked': { title: "Insurance Myths Exposed: What Your Adjuster Won't Correct and What You Believe That Isn't True", description: 'Common property insurance myths debunked with California case law, statutes, and regulations. From carrier misinformation to policyholder misunderstandings — what the law actually says.' },
+  'cp-cause-of-loss-forms': { title: 'Commercial Cause of Loss Forms: Basic, Broad, and Special — What Your Policy Actually Covers', description: 'The cause of loss form attached to your commercial property policy determines whether your claim is covered. Learn the critical differences between the Basic (CP 10 10), Broad (CP 10 20), and Special (CP 10 30) forms and why the wrong form can leave you uninsured.' },
+  'cp-vs-bop-policies': { title: 'Commercial Property (CP) vs. Businessowners Policy (BOP): Which One Do You Have and Why It Matters', description: 'A BOP bundles coverage for convenience but hides limitations a monoline CP policy does not have. Learn the structural differences, eligibility restrictions, coverage gaps, and why business owners need to understand which policy they have before a loss occurs.' },
+  'commercial-coinsurance': { title: 'Commercial Coinsurance: The Penalty That Can Devastate Your Claim Payment', description: 'Deep dive into commercial coinsurance for building, BPP, and business income coverage. Understand the penalty formula, agreed value endorsements, monthly limitation of indemnity, and how carriers weaponize coinsurance after a loss.' },
+  'commercial-endorsements': { title: 'Critical Commercial Property Endorsements Every Business Owner Should Know', description: 'A comprehensive guide to essential commercial property endorsements — Ordinance or Law, Utility Services, Spoilage, Virus/Bacteria Exclusion, Peak Season, and more. Learn which endorsements your policy needs and how gaps can devastate a claim.' },
+  'commercial-lease-insurance': { title: 'Waiver of Subrogation, Additional Insured, and Commercial Lease Insurance Requirements', description: 'How waiver of subrogation, additional insured endorsements, and certificates of insurance actually work in commercial leases — and why the paperwork your landlord handed you may not mean what you think it means.' },
+  'civil-authority-utility-services': { title: 'Civil Authority Coverage, Ingress/Egress, and Utility Services in Commercial Insurance', description: 'Civil authority coverage, ingress/egress endorsements, and utility service endorsements protect businesses when government orders, physical barriers, or utility failures cause income loss — even without damage to your own property.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -521,6 +527,12 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'xactimate-ownership-conflict': () => import('@/lib/content/articles/xactimate-ownership-conflict'),
   'cdi-contents-without-inventory': () => import('@/lib/content/articles/cdi-contents-without-inventory'),
   'insurance-myths-debunked': () => import('@/lib/content/articles/insurance-myths-debunked'),
+  'cp-cause-of-loss-forms': () => import('@/lib/content/articles/cp-cause-of-loss-forms'),
+  'cp-vs-bop-policies': () => import('@/lib/content/articles/cp-vs-bop-policies'),
+  'commercial-coinsurance': () => import('@/lib/content/articles/commercial-coinsurance'),
+  'commercial-endorsements': () => import('@/lib/content/articles/commercial-endorsements'),
+  'commercial-lease-insurance': () => import('@/lib/content/articles/commercial-lease-insurance'),
+  'civil-authority-utility-services': () => import('@/lib/content/articles/civil-authority-utility-services'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

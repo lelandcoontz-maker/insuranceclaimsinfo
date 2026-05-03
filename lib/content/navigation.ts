@@ -83,6 +83,22 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
     ],
   },
   {
+    heading: 'Commercial Insurance',
+    links: [
+      { href: '/resources/commercial-vs-residential-claims', label: 'Commercial vs. Residential' },
+      { href: '/resources/cp-cause-of-loss-forms', label: 'CP Cause of Loss Forms' },
+      { href: '/resources/cp-vs-bop-policies', label: 'CP vs. BOP Policies' },
+      { href: '/resources/business-interruption', label: 'Business Interruption' },
+      { href: '/resources/extra-expense-coverage', label: 'Extra Expense Coverage' },
+      { href: '/resources/commercial-coinsurance', label: 'Commercial Coinsurance' },
+      { href: '/resources/commercial-endorsements', label: 'Commercial Endorsements' },
+      { href: '/resources/commercial-lease-insurance', label: 'Lease Insurance Requirements' },
+      { href: '/resources/civil-authority-utility-services', label: 'Civil Authority & Utility Services' },
+      { href: '/resources/protective-safeguards', label: 'Protective Safeguards' },
+      { href: '/resources/commercial-loss-of-rents', label: 'Commercial Loss of Rents' },
+    ],
+  },
+  {
     heading: 'Types of Damage',
     links: [
       { href: '/types-of-claims', label: 'Types of Claims' },
