@@ -357,6 +357,8 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'responding-to-insurer-in-writing': { title: 'How to Respond to Your Insurance Company in Writing: Tone, Strategy, and What Never to Say', description: 'A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase "bad faith" and how framing requests around harm creates a stronger claim file.' },
   'smoke-taint-vineyard-claims': { title: 'Smoke Taint Claims: When Wildfire Ruins the Vintage Without Touching the Vines', description: 'Wildfire smoke can render an entire vintage worthless without burning a single vine. Learn how smoke taint is detected, which insurance covers it at each stage from vine to barrel, and why most vineyard owners are underinsured for this specific peril.' },
   'three-trade-rule': { title: 'The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit', description: 'The three-trade rule is a practical shorthand for a legal principle adopted by appellate courts across the country: overhead and profit are owed whenever a general contractor is reasonably likely to be needed. Nine verified case law citations, state regulatory authority, and practical guidance for policyholders.' },
+  'how-insurance-payments-calculated': { title: 'How Your Insurance Payment Is Actually Calculated', description: 'A step-by-step walkthrough of how insurance companies calculate claim payments — RCV, depreciation, ACV, deductible application, recoverable depreciation, and supplements. Includes worked examples and guidance on decoding your payment.' },
+  'when-not-to-file-claim': { title: 'When NOT to File an Insurance Claim', description: 'Sometimes the best decision is not to file. When damage is below your deductible, when the loss is excluded, or when a claim could trigger nonrenewal, a careful analysis before filing can save you money and protect your insurability.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -713,6 +715,8 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'responding-to-insurer-in-writing': () => import('@/lib/content/articles/responding-to-insurer-in-writing'),
   'smoke-taint-vineyard-claims': () => import('@/lib/content/articles/smoke-taint-vineyard-claims'),
   'three-trade-rule': () => import('@/lib/content/articles/three-trade-rule'),
+  'how-insurance-payments-calculated': () => import('@/lib/content/articles/how-insurance-payments-calculated'),
+  'when-not-to-file-claim': () => import('@/lib/content/articles/when-not-to-file-claim'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

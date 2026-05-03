@@ -257,13 +257,50 @@ export default function Content() {
           practice.&rdquo; It is not.
         </li>
       </ul>
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Absorption Also Applies to Sublimits
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The same absorption principle applies to policy sublimits &mdash; the capped amounts
+        your policy provides for specific categories of loss like mold remediation, ordinance or
+        law, or debris removal. If your policy has a $10,000 mold sublimit, a $2,500 deductible,
+        and $12,500 in mold damage, the insured is already paying $2,500 out of pocket for the
+        amount above the sublimit. That $2,500 overage absorbs the deductible. The carrier should
+        pay the full $10,000 sublimit.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the carrier instead subtracts the deductible from the sublimit &mdash; paying only
+        $7,500 &mdash; the insured&rsquo;s out-of-pocket cost jumps to $5,000: the $2,500 above
+        the sublimit <em>plus</em> the $2,500 deductible. The insured has effectively paid the
+        deductible twice. And on sublimits that are close to or less than the deductible itself,
+        the result is even more absurd. If the policy has a $200 sublimit for money and a $250
+        deductible, and the deductible is subtracted from the sublimit, the insured can never
+        collect a single dollar under that coverage &mdash; making it entirely{' '}
+        <Link href="/resources/illusory-coverage" className="text-blue-700 underline hover:text-blue-900">
+          illusory
+        </Link>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        As Chip Merlin has noted on the{' '}
+        <a href="https://www.propertyinsurancecoveragelaw.com/blog/sublimit-insurance/" className="text-blue-700 underline hover:text-blue-900" target="_blank" rel="noopener noreferrer">
+          Property Insurance Coverage Law Blog
+        </a>,
+        the interaction between deductibles and sublimits is one of the most consequential and
+        least understood issues in claims payment. The Big &ldquo;I&rdquo; Virtual University
+        has stated directly that &ldquo;the deductible applies to the insured&rsquo;s loss, not
+        the special limit&rdquo; &mdash; meaning the deductible should be calculated against the
+        total loss, not against the capped sublimit amount. When the loss exceeds the sublimit,
+        the overage absorbs the deductible, and the insured should receive the full sublimit.
+      </p>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Taken together, these arguments make a compelling case that deductible absorption is not
         merely a courtesy or a best practice &mdash; it is the correct application of the
         deductible on any loss where the insured&rsquo;s out-of-pocket cost already equals or
         exceeds the deductible amount. The carrier should not collect the deductible twice: once
         through the insured&rsquo;s uncompensated loss above the limit, and again by reducing
-        the payment below the limit.
+        the payment below the limit. This applies equally to the overall policy limit and to
+        every sublimit within the policy.
       </p>
 
       <CalloutBox variant="important" title="Subtract From the Loss, Not From the Limit">
