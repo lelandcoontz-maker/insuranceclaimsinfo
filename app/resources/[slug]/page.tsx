@@ -369,6 +369,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'pollution-exclusion-claims': { title: 'The Pollution Exclusion in Property Insurance Claims: History, Misapplication, and California Law', description: 'How insurers misuse the pollution exclusion to deny fire and asbestos claims. California case law, efficient proximate cause, and practical guidance.' },
   'spoilage-coverage': { title: 'Spoilage Coverage: When Temperature-Sensitive Inventory Is Your Business', description: 'How spoilage coverage protects perishable inventory from power outages and equipment failure, what standard policies exclude, and how to avoid devastating sublimits.' },
   'tenant-roof-leak-coverage-gap': { title: 'Roof Leaks in Leased Commercial Space: The Coverage Gap That Destroys Businesses', description: 'When rain enters a leased commercial space through a neglected roof, neither the tenant\'s nor the landlord\'s policy may cover the damage. Learn why this gap exists, what triggers coverage, and how to protect yourself before a loss.' },
+  'cashing-insurance-checks': { title: 'Can I Cash This Insurance Check? What You Need to Know Before You Deposit', description: 'The vast majority of insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -737,6 +738,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'pollution-exclusion-claims': () => import('@/lib/content/articles/pollution-exclusion-claims'),
   'spoilage-coverage': () => import('@/lib/content/articles/spoilage-coverage'),
   'tenant-roof-leak-coverage-gap': () => import('@/lib/content/articles/tenant-roof-leak-coverage-gap'),
+  'cashing-insurance-checks': () => import('@/lib/content/articles/cashing-insurance-checks'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
