@@ -121,6 +121,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'blanket-vs-specific-insurance',
     'xactimate-pricing-user-responsibility',
     'white-waiver-settlement-confidentiality',
+    'three-trade-rule',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

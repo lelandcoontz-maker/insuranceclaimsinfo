@@ -374,12 +374,11 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The critical case on this point is <strong><em>Farmers Insurance Exchange v. Zerin</em>,
-        53 Cal. App. 4th 445 (1997)</strong>, in which the California Court of Appeal held that a
-        co-owner&rsquo;s insurable interest is not necessarily limited to their fractional ownership
-        share. The court recognized that a co-owner who resides in the property, pays the mortgage,
+        Under California Insurance Code &sect; 281 and its broad definition of insurable interest,
+        a co-owner&rsquo;s insurable interest is not necessarily limited to their fractional ownership
+        share. A co-owner who resides in the property, pays the mortgage,
         and maintains the home has a substantial economic interest in the preservation of the
-        <em> entire</em> property, not merely their percentage interest. This is a powerful holding
+        <em> entire</em> property, not merely their percentage interest. This principle is significant
         for co-owners who are bearing the primary financial responsibility for the property.
       </p>
 
@@ -541,22 +540,19 @@ export default function Content() {
         and basic fairness.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The leading California case is <strong><em>Quemetco, Inc. v. Pacific Automobile Insurance
-        Co.</em>, 24 Cal. App. 3d 137 (1972)</strong>, which held that where a policy contains a
-        severability clause, the intentional act of one insured does not bar recovery by an innocent
-        co-insured. This principle was reinforced and expanded in <strong><em>Vance v. Pekin
-        Insurance Co.</em>, 457 N.E.2d 1 (Ill. App. 1983)</strong>, one of the most widely cited
-        innocent co-insured decisions in the country. The <em>Vance</em> court held that the
-        &ldquo;intentional acts&rdquo; exclusion should be applied separately to each insured under
-        the severability clause. The arsonist co-owner is barred. The innocent co-owner is not.
+        Where a policy contains a severability clause, courts in multiple states, including Illinois
+        and Iowa, have addressed whether an innocent co-insured can recover when the other insured
+        commits arson. The prevailing view holds that the &ldquo;intentional acts&rdquo; exclusion
+        should be applied separately to each insured under the severability clause. The arsonist
+        co-owner is barred. The innocent co-owner is not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Borman v. State Farm Fire &amp; Casualty Co.</em>, 198 Mich. App. 29 (1993)</strong>
-        extended this analysis to domestic situations. A wife was found to have intentionally set
-        fire to the marital home. The court held that the husband, who was innocent, could recover
-        his share of the proceeds under the severability clause. The court reasoned that the
-        severability provision requires the policy to be read as providing separate coverage to each
-        insured, and the wife&rsquo;s intentional act could not be imputed to the husband.
+        <strong><em>Borman v. State Farm Fire &amp; Casualty Co.</em>, 446 Mich. 482, 521 N.W.2d 266 (1994)</strong>
+        extended this analysis to domestic situations. The Michigan Supreme Court held that an
+        innocent co-insured could recover their share of the proceeds under the severability clause.
+        The court reasoned that the severability provision requires the policy to be read as providing
+        separate coverage to each insured, and the guilty party&rsquo;s intentional act could not be
+        imputed to the innocent co-insured.
       </p>
 
       <CalloutBox variant="important" title="The Innocent Co-Insured&rsquo;s Recovery Is Typically Limited to Their Share">
@@ -584,13 +580,6 @@ export default function Content() {
         for all.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Magee v. Zurich American Insurance Group</em> (Ark. 2003)</strong> is
-        representative of this minority approach. The Arkansas Supreme Court held that the
-        intentional-act exclusion was unambiguous and barred all insureds from recovery when any
-        insured caused the loss intentionally. The court declined to apply the severability clause
-        to override the explicit exclusionary language.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
         The distinction between these approaches is significant enough that it can determine whether
         an innocent co-owner recovers hundreds of thousands of dollars or nothing. In California, the
         weight of authority favors the innocent co-insured, but the specific policy language always
@@ -599,29 +588,30 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California&rsquo;s Legislative Response: Insurance Code &sect; 530.5
+        California&rsquo;s Legislative and Judicial Response: Insurance Code &sect; 530
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has addressed the innocent co-insured problem legislatively. California Insurance
-        Code &sect; 530.5, effective January 1, 1996, provides that a policy of residential property
-        insurance shall not deny the claim of an innocent co-insured arising out of the intentional
-        or fraudulent acts of another insured, provided the innocent co-insured did not cooperate in
-        or contribute to the creation of the loss. This statute effectively codifies the innocent
-        co-insured doctrine for residential property claims in California.
+        California has addressed the innocent co-insured problem through Insurance Code &sect; 530,
+        which provides that an insurer is not liable for a loss caused by the &ldquo;willful act of
+        the insured.&rdquo; California courts have interpreted the use of &ldquo;the insured&rdquo;
+        &mdash; the definite article &mdash; as limiting the exclusion to the specific insured who
+        committed the willful act, not to all insureds on the policy. This interpretation, read
+        alongside severability clauses in standard homeowner policies, effectively protects the
+        innocent co-insured in residential property claims in California.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under &sect; 530.5, the innocent co-insured&rsquo;s recovery is limited to their
-        proportionate interest in the property. The statute does not entitle the innocent co-insured
-        to the full policy limits &mdash; only their ownership share. But it does guarantee that
-        the intentional act of one insured cannot zero out the recovery of the other.
+        Under this framework, the innocent co-insured&rsquo;s recovery is limited to their
+        proportionate interest in the property. The innocent co-insured is not entitled to the
+        full policy limits &mdash; only their ownership share. But the intentional act of one
+        insured cannot zero out the recovery of the other.
       </p>
 
-      <CalloutBox variant="legal" title="California Insurance Code &sect; 530.5">
+      <CalloutBox variant="legal" title="California Insurance Code &sect; 530 and Severability">
         <p>
-          This statute applies to <strong>residential property insurance</strong> in California. It
-          does not apply to commercial property, auto, or other lines. For commercial co-ownership
+          The protection afforded by &sect; 530 and severability clauses applies most clearly to
+          <strong> residential property insurance</strong> in California. For commercial co-ownership
           situations (business partners, LLCs), the innocent co-insured analysis relies on common
-          law and the specific policy language rather than the statute. If your co-ownership involves
+          law and the specific policy language. If your co-ownership involves
           commercial property, consult with an attorney who can analyze the specific policy provisions.
         </p>
       </CalloutBox>
@@ -695,7 +685,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Intentional destruction of the marital home during a contentious divorce is, tragically, not
         rare. When one spouse intentionally sets fire to or otherwise destroys community property,
-        California Insurance Code &sect; 530.5 protects the innocent spouse. The innocent spouse
+        California Insurance Code &sect; 530, as interpreted by California courts alongside the
+        policy&rsquo;s severability clause, protects the innocent spouse. The innocent spouse
         can recover their community property share (typically 50%) of the insurance proceeds. The
         guilty spouse&rsquo;s share is forfeited under the intentional loss exclusion.
       </p>
@@ -966,25 +957,14 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong><em>Farmers Insurance Exchange v. Zerin</em>, 53 Cal. App. 4th 445
-          (1997):</strong> A co-owner&rsquo;s insurable interest is not necessarily limited to
-          their fractional ownership share. The court examines the economic reality of the
-          co-owner&rsquo;s stake.
+          <strong>California Insurance Code &sect; 281:</strong> Defines insurable interest broadly.
+          A co-owner&rsquo;s insurable interest is not necessarily limited to their fractional
+          ownership share. The analysis examines the economic reality of the co-owner&rsquo;s stake.
         </li>
         <li>
-          <strong><em>Quemetco, Inc. v. Pacific Automobile Insurance Co.</em>, 24 Cal. App. 3d 137
-          (1972):</strong> Where a severability clause exists, one insured&rsquo;s intentional act
-          does not bar recovery by an innocent co-insured.
-        </li>
-        <li>
-          <strong><em>Vance v. Pekin Insurance Co.</em>, 457 N.E.2d 1 (Ill. App.
-          1983):</strong> The intentional-acts exclusion applies separately to each insured under
-          the severability clause. The leading national authority on innocent co-insured recovery.
-        </li>
-        <li>
-          <strong><em>Borman v. State Farm Fire &amp; Casualty Co.</em>, 198 Mich. App. 29
-          (1993):</strong> Innocent spouse recovered after the other spouse committed arson on the
-          marital home.
+          <strong><em>Borman v. State Farm Fire &amp; Casualty Co.</em>, 446 Mich. 482, 521 N.W.2d
+          266 (1994):</strong> The Michigan Supreme Court held the innocent co-insured could recover
+          under the severability clause.
         </li>
         <li>
           <strong><em>Osbon v. National Union Fire Insurance Co.</em>, 632 So. 2d 1158
@@ -992,15 +972,10 @@ export default function Content() {
           innocent party recovers their ownership share, not the full policy limits.
         </li>
         <li>
-          <strong><em>Morgan v. Cincinnati Insurance Co.</em>, 307 Mich. App. 595
-          (2014):</strong> Reinforced that the severability clause creates separate coverage for
-          each insured, and that one insured&rsquo;s breach of a policy condition does not
-          automatically void coverage for the other.
-        </li>
-        <li>
-          <strong>California Insurance Code &sect; 530.5:</strong> Codifies the innocent co-insured
-          doctrine for residential property insurance in California. An innocent co-insured recovers
-          their proportionate share even when the other insured intentionally caused the loss.
+          <strong>California Insurance Code &sect; 530:</strong> Courts have interpreted &sect; 530,
+          alongside severability clauses, to protect the innocent co-insured in residential property
+          claims in California. An innocent co-insured recovers their proportionate share even when
+          the other insured intentionally caused the loss.
         </li>
       </ul>
 
@@ -1062,10 +1037,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The severability of interests clause is the co-owner&rsquo;s most important protection,
         ensuring that the policy is read as providing separate coverage to each insured. California
-        Insurance Code &sect; 530.5 adds statutory protection for innocent co-insureds in
-        residential property claims. And the case law &mdash; from <em>Zerin</em> to <em>Vance</em>
-        to <em>Borman</em> &mdash; provides a substantial body of authority supporting co-owners
-        who are caught in disputes not of their making.
+        Insurance Code &sect; 530, as interpreted by California courts alongside severability clauses,
+        provides protection for innocent co-insureds in residential property claims. And the case law
+        &mdash; including <em>Borman</em> and decisions from multiple states &mdash; provides a
+        substantial body of authority supporting co-owners who are caught in disputes not of their
+        making.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But the best protection is preparation. Ensure that all co-owners are named on the policy.

@@ -291,11 +291,13 @@ export default function Content() {
         policyholder.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
+        Courts have recognized this principle in the insurance context. In{' '}
         <strong><em>Cummings v. Fire Insurance Exchange</em>, 202 Cal. App. 3d 1407
-        (1988)</strong> addressed this issue directly, holding that an insurer that fails to ask
-        questions about matters it considers material cannot later claim concealment when the
-        applicant does not volunteer the information. The insurer drafted the application. If
-        the information was important, it should have asked.
+        (1988)</strong>, the court addressed the relationship between an insurer&rsquo;s
+        application questions and its concealment arguments, recognizing that an insurer that
+        fails to ask questions about matters it considers material faces a weakened position when
+        later claiming concealment because the applicant did not volunteer the information. The
+        insurer drafted the application. If the information was important, it should have asked.
       </p>
 
       <CalloutBox variant="tip" title="The Application Controls the Duty">
@@ -662,9 +664,8 @@ export default function Content() {
         policyholder provided, or advised the policyholder that certain facts did not need to be
         disclosed, the insurer is imputed with the agent&rsquo;s knowledge. In California, an
         insurance agent is generally considered the agent of the insurer, not the policyholder,
-        for purposes of completing the application. <strong><em>Merced County Mutual Fire
-        Insurance Co. v. State of California</em>, 233 Cal. App. 3d 765 (1991)</strong>
-        established that the agent&rsquo;s knowledge of facts material to the risk is imputed
+        for purposes of completing the application. Under general California agency law,
+        the agent&rsquo;s knowledge of facts material to the risk is imputed
         to the insurer, and the insurer cannot disclaim responsibility for its own agent&rsquo;s
         conduct.
       </p>
@@ -728,8 +729,7 @@ export default function Content() {
         If the information the insurer claims was concealed was readily available through public
         records, prior claims databases like CLUE, or a basic property inspection, the insurer
         cannot claim it was victimized by the policyholder&rsquo;s failure to disclose.
-        <strong><em> Nibbi Brothers, Inc. v. Home Federal Savings &amp; Loan Ass&rsquo;n</em>,
-        205 Cal. App. 3d 1415 (1988)</strong> supports the principle that an insurer that had the
+        Courts have recognized the principle that an insurer that had the
         means and opportunity to discover the truth cannot rely on the insured&rsquo;s failure to
         volunteer the information.
       </p>
@@ -762,9 +762,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Cummings v. Fire Insurance Exchange</em>, 202 Cal. App. 3d 1407
-        (1988):</strong> The court rejected the insurer&rsquo;s concealment argument where the
+        (1988):</strong> The court addressed the insurer&rsquo;s concealment argument where the
         insurer failed to ask about the facts it later claimed were concealed. The court
-        emphasized that the insurer controls the application and bears the consequences of its
+        recognized that the insurer controls the application and bears the consequences of its
         own failure to inquire.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -776,11 +776,11 @@ export default function Content() {
         &ldquo;material.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Merced County Mutual Fire Insurance Co. v. State of California</em>, 233
-        Cal. App. 3d 765 (1991):</strong> The court held that the agent&rsquo;s knowledge is
+        <strong>California agency law principles:</strong> Under general California agency law,
+        the agent&rsquo;s knowledge is
         imputed to the insurer, preventing rescission when the agent was aware of the facts the
-        insurer later claimed were concealed. This is the foundational case for the agent-reliance
-        defense.
+        insurer later claimed were concealed. This is the foundational principle underlying the
+        agent-reliance defense.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -797,7 +797,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>West Coast Life Insurance Co. v. Ward</em>, 132 Cal. App. 4th 181
         (2005):</strong> The court upheld rescission where the insured made material
-        misrepresentations about health history on a life insurance application. The court found
+        misrepresentations on a life insurance application. The court found
         that the insured had a duty to disclose information that a reasonable person would have
         understood was relevant to the insurance transaction. This case reinforces that outside
         the fire policy context, the standard for rescission is significantly lower.

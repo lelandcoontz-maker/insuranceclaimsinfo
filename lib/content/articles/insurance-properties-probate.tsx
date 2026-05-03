@@ -172,7 +172,7 @@ export default function Content() {
         insurance on valuable estate property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Probate Code &sect; 9860 specifically authorizes the personal representative to purchase
+        Probate Code &sect; 9656 specifically authorizes the personal representative to purchase
         insurance on estate property. This is not a discretionary luxury &mdash; it is an expected
         part of estate administration. An executor who allows insurance to lapse on a valuable
         estate property may be <strong>personally liable</strong> to the beneficiaries for any

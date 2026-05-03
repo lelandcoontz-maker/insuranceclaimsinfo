@@ -735,7 +735,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Arizona is the other primary snowbird destination. Arizona courts generally follow the
         rule that ambiguous insurance policy terms must be construed in favor of the insured.
-        Arizona also has a valued policy statute (A.R.S. &sect; 20-1510) that requires the
+        Arizona also has valued policy provisions that require the
         insurer to pay the full face amount of the policy in the event of a total loss of a
         dwelling &mdash; a provision that can benefit snowbirds whose Arizona home is totally
         destroyed.

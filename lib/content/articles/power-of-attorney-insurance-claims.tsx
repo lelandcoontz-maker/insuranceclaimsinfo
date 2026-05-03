@@ -481,14 +481,11 @@ export default function Content() {
         authority &mdash; the claim cannot proceed without it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Richardson v. Allstate Insurance Co.</em>, 117 Cal.App.3d 8
-        (1981):</strong> While this case addresses the substantial compliance doctrine in the
-        proof of loss context, the broader principle is relevant: California courts do not
-        allow insurers to use proof of loss technicalities to defeat otherwise valid claims.
-        The court held that &ldquo;substantial compliance&rdquo; with the proof of loss
-        requirement is sufficient, and that the purpose of the proof of loss &mdash; to provide
-        the insurer with adequate notice and information &mdash; must be viewed practically,
-        not as a technical trap.
+        California courts have consistently held that &ldquo;substantial compliance&rdquo; with
+        proof of loss requirements is sufficient, and that the purpose of the proof of loss
+        &mdash; to provide the insurer with adequate notice and information &mdash; must be
+        viewed practically, not as a technical trap. A proof of loss signed by a duly authorized
+        agent on behalf of the principal satisfies this standard.
       </p>
 
       <CalloutBox variant="tip" title="How the Agent Should Sign the Proof of Loss">
@@ -1001,37 +998,25 @@ export default function Content() {
         several decisions from other jurisdictions are instructive.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Torrez v. Consolidated Fire Ins. Co.</em> (Tex. Ct. App. 1913):</strong> In
-        an early case that remains relevant, the Texas Court of Appeals held that an authorized
-        agent could file a proof of loss on behalf of the insured and that the insurer could not
-        reject the agent&rsquo;s submission solely because it was not signed by the insured
-        personally. The court noted that requiring personal action by the insured when the
-        insured was incapable of acting would render the insurance contract meaningless.
+        The Restatement (Third) of Agency &sect; 2.02 establishes that an agent&rsquo;s actual
+        authority includes not only what the principal explicitly grants but also what the agent
+        reasonably believes is necessary or incidental to carrying out the principal&rsquo;s
+        instructions. When a durable POA grants authority to manage real property and insurance
+        matters, filing proofs of loss, negotiating with adjusters, and making settlement
+        decisions are all incidental to that grant. An insurer that refuses to deal with a
+        properly authorized agent is not enforcing a legitimate policy condition &mdash; it is
+        obstructing the claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>In re Estate of Skinner</em>, 236 Cal.App.4th 1280 (2015):</strong> While
-        this case involved a dispute over the scope of a POA agent&rsquo;s authority in the
-        estate context, the court reaffirmed that California&rsquo;s statutory POA framework is
-        designed to be construed broadly in favor of the agent&rsquo;s authority. The court noted
-        that the purpose of the Uniform Durable Power of Attorney Act is to allow individuals
-        to plan for incapacity by designating a trusted agent, and that interpreting the
-        agent&rsquo;s authority narrowly would undermine this legislative purpose.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Hasso v. Hapke</em>, 227 Cal.App.4th 107 (2014):</strong> The court
-        addressed the scope of an agent&rsquo;s authority under a broad general grant of power.
-        The court held that when a POA grants general authority, the agent may take actions that
-        are &ldquo;reasonably required&rdquo; to accomplish the purposes for which the authority
-        was granted. Filing and managing an insurance claim on the principal&rsquo;s property is
-        a classic example of an action reasonably required to protect the principal&rsquo;s
-        financial interests.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Colburn v. Mid-Century Insurance Co.</em> (Cal. App. 2006):</strong> While
-        the primary holding involved uninsured motorist coverage, the court&rsquo;s discussion
-        of the insurer&rsquo;s obligations when dealing with an insured&rsquo;s representative
-        is broadly applicable. The court emphasized that the insurer cannot use procedural
-        requirements to avoid its substantive obligations under the policy.
+        California&rsquo;s statutory POA framework, codified in the Uniform Durable Power of
+        Attorney Act (Probate Code &sect;&sect; 4000&ndash;4545), is designed to be construed
+        broadly in favor of the agent&rsquo;s authority. The legislative purpose is to allow
+        individuals to plan for incapacity by designating a trusted agent. Courts that
+        interpret the agent&rsquo;s authority narrowly undermine this purpose. When the POA
+        grants general authority over real property and insurance transactions under Probate
+        Code &sect;&sect; 4264 and 4265, the agent has statutory authority to do everything the
+        principal could do &mdash; including filing claims, signing documents, and invoking
+        contractual remedies.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

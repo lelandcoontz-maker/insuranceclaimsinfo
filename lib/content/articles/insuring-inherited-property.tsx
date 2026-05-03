@@ -220,20 +220,11 @@ export default function Content() {
         probate begins.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>National Union Fire Insurance Co. v. Gruwell</em>, 52 Cal. App. 3d 857
-        (1975):</strong> The California Court of Appeal held that insurable interest is
-        broadly defined and includes any &ldquo;factual expectancy&rdquo; of loss. An heir
-        who stands to inherit real property through a will or by intestate succession has a
-        factual expectancy of loss if the property is damaged or destroyed before the
-        inheritance is realized. This factual expectancy constitutes an insurable interest.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Phelps v. Provident Life &amp; Accident Insurance Co.</em>, 60
-        Cal. App. 3d 880 (1976):</strong> While this case involved life insurance rather
-        than property insurance, the court articulated the broad California principle that
-        insurable interest is to be &ldquo;liberally construed&rdquo; and extends to any
-        person who would suffer pecuniary injury from the destruction of the insured property
-        or the death of the insured person.
+        California courts have broadly defined insurable interest to include any &ldquo;factual
+        expectancy&rdquo; of loss. An heir who stands to inherit real property through a will or
+        by intestate succession has a factual expectancy of loss if the property is damaged or
+        destroyed before the inheritance is realized. This factual expectancy constitutes an
+        insurable interest under Insurance Code &sect; 281.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The practical implication: an heir who has been named in a will, who is a beneficiary
@@ -324,11 +315,11 @@ export default function Content() {
         is obligated to continue dealing with the legal representative on the pending claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Parsons v. Bristol Development Co.</em>, 62 Cal. 2d 861 (1965):</strong>
-        The California Supreme Court confirmed that a cause of action for breach of contract
-        survives the death of the party and passes to the estate. This includes insurance
-        contract claims. The estate can pursue the full value of the claim, including any bad
-        faith cause of action that accrued during the decedent&rsquo;s lifetime.
+        Under California Code of Civil Procedure &sect; 377.20, a cause of action for breach of
+        contract survives the death of the party and passes to the decedent&rsquo;s successor in
+        interest. This includes insurance contract claims. The estate can pursue the full value
+        of the claim, including any bad faith cause of action that accrued during the
+        decedent&rsquo;s lifetime.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -411,11 +402,11 @@ export default function Content() {
         fiduciaries liable for failing to insure estate assets.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Estate of Gilliland</em>, 73 Cal. App. 3d 515 (1977):</strong> The
-        California Court of Appeal discussed the fiduciary&rsquo;s duty to manage estate
-        assets prudently, which includes protecting assets against foreseeable risks. Failing
-        to insure a valuable asset against fire, theft, or other covered perils is a breach
-        of fiduciary duty if the loss was foreseeable and insurable.
+        California Probate Code &sect; 9656 specifically authorizes the personal representative
+        to purchase insurance on estate property, reinforcing the fiduciary&rsquo;s duty to
+        manage estate assets prudently &mdash; which includes protecting assets against
+        foreseeable risks. Failing to insure a valuable asset against fire, theft, or other
+        covered perils is a breach of fiduciary duty if the loss was foreseeable and insurable.
       </p>
 
       <CalloutBox variant="legal" title="If You Are the Executor or Successor Trustee">
@@ -569,7 +560,7 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Lamonica v. Hartford Insurance Co. of the Midwest</em>, No. 5:19-cv-78
-        (N.D. Fla. 2020):</strong> Lamonica inherited his mother&rsquo;s home. He did not
+        (N.D. Fla. 2019):</strong> Lamonica inherited his mother&rsquo;s home. He did not
         live there full-time but returned regularly, stayed at the house, and treated it as
         the family homestead. Hartford denied a property claim, arguing the home was not his
         &ldquo;residence premises.&rdquo; The court denied Hartford&rsquo;s motion for
@@ -590,27 +581,6 @@ export default function Content() {
         Fire Policy statute. This case is particularly relevant for inherited property because
         the insured did not live at the inherited home full-time &mdash; they used it
         regularly while maintaining their primary residence elsewhere.
-      </p>
-
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Zurich American Insurance Co. v. ABM Industries, Inc.</em>, 397 F.3d 158
-        (3d Cir. 2005):</strong> While not a homeowner policy case, the Third Circuit
-        addressed the scope of the death clause in the context of estate property. The court
-        held that the &ldquo;legal representative&rdquo; language in the policy must be
-        construed to effectuate the purpose of the clause &mdash; which is to ensure that
-        coverage continues for the deceased&rsquo;s property during the transition period.
-        Narrow constructions that would leave estate property uninsured during the
-        administration period are disfavored.
-      </p>
-
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Truck Insurance Exchange v. Peerless Insurance Co.</em>, 29 Cal. App. 4th
-        443 (1994):</strong> The California Court of Appeal discussed the scope of insurable
-        interest and confirmed that a person need not hold legal title to have an insurable
-        interest. Any pecuniary interest in the preservation of property &mdash; including an
-        equitable interest, a possessory interest, or a beneficial interest under a trust
-        &mdash; is sufficient. This is the foundation for an heir&rsquo;s ability to insure
-        inherited property before formal title transfer.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

@@ -382,37 +382,12 @@ export default function Content() {
         property.</strong>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Fireplace of California, Inc. v. Fireman&rsquo;s Fund Insurance
-        Co.</em>, 17 Cal. App. 4th 1556 (1993):</strong> The California Court of Appeal
-        addressed the fundamental question of what constitutes an insurable interest. The
-        court confirmed that the measure of recovery under an insurance policy is limited to
-        the insured&rsquo;s actual pecuniary interest in the property. If the named insured
-        has only a partial ownership interest, the insurer&rsquo;s liability is limited to
-        that partial interest unless the policy is structured to cover the full property
-        value on behalf of all interested parties.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Imperial Casualty &amp; Indemnity Co. v. Sogomonian</em>, 198 Cal. App.
-        3d 169 (1988):</strong> This case established that multiple parties can have
+        Under <strong>California Insurance Code Section 281</strong>, multiple parties can have
         simultaneous insurable interests in the same property, but each party&rsquo;s
         recovery is limited to the value of their own interest. In the context of co-ownership
         after a deed change, this means the parent can recover only their share, and the
         child&rsquo;s share is uninsured unless the child is also a named insured or the
         policy expressly covers the full property on behalf of all owners.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Jacks v. Torrington Co.</em>, 256 Cal. App. 2d 615 (1967):</strong> The
-        court held that an insured cannot recover more than their actual financial loss, even
-        if the policy limits are higher. This principle directly applies to a parent who
-        transferred a 50% interest to a child: the parent&rsquo;s actual financial loss on a
-        total loss is limited to their 50% ownership share.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>National Union Fire Insurance Co. v. Lynette C.</em>, 279 Cal. App. 2d
-        696 (1969):</strong> The court addressed the scenario where insurance proceeds were
-        at issue between co-owners with different interests. The decision reinforced that the
-        insurance contract runs to the named insured and that parties not named on the policy
-        must establish their own independent basis for recovery.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

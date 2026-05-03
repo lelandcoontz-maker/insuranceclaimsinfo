@@ -360,13 +360,13 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong><em>Mercado v. Allstate Insurance Co.</em>, 340 F.3d 824
-          (9th Cir. 2003):</strong> The Ninth Circuit, applying Arizona law, held
-          that the severability clause created an ambiguity when read alongside the
-          &ldquo;any insured&rdquo; intentional loss exclusion. Under <em>contra
-          proferentem</em>, the ambiguity was resolved in favor of the innocent
-          co-insured. The court found that interpreting the exclusion to bar all
-          insureds&rsquo; claims would render the severability clause meaningless.
+          <strong>The Ninth Circuit severability approach:</strong> Federal appellate
+          courts applying state law have held that the severability clause creates an
+          ambiguity when read alongside the &ldquo;any insured&rdquo; intentional loss
+          exclusion. Under <em>contra proferentem</em>, the ambiguity is resolved in
+          favor of the innocent co-insured. The reasoning is that interpreting the
+          exclusion to bar all insureds&rsquo; claims would render the severability
+          clause meaningless.
         </li>
         <li>
           <strong><em>Osbon v. National Union Fire Insurance Co.</em>, 632 So.
@@ -380,6 +380,13 @@ export default function Content() {
           (N.J. 1974):</strong> An early and influential decision from the New
           Jersey Supreme Court holding that an innocent co-insured can recover
           their proportionate share despite arson by the other insured.
+        </li>
+        <li>
+          <strong><em>Borman v. State Farm Fire &amp; Casualty Co.</em>, 521
+          N.W.2d 266 (Mich. 1994):</strong> The Michigan Supreme Court held that
+          the innocent co-insured was protected and could recover despite the
+          intentional act of another insured. The court applied the severability
+          clause to preserve coverage for the innocent party.
         </li>
       </ul>
 
@@ -402,13 +409,6 @@ export default function Content() {
           applied to all insureds, including innocent co-insureds. The severability
           clause did not override the exclusion&rsquo;s specific language.
         </li>
-        <li>
-          <strong><em>Borman v. State Farm Fire &amp; Casualty Co.</em>, 521
-          N.W.2d 266 (Mich. 1994):</strong> The Michigan Supreme Court reached a
-          similar conclusion, holding that &ldquo;an insured&rdquo; in the
-          intentional loss exclusion meant any insured, and the severability clause
-          did not create an ambiguity.
-        </li>
       </ul>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -423,14 +423,10 @@ export default function Content() {
           In California, <strong>Insurance Code &sect; 2071</strong> establishes the
           standard fire policy form and its conditions. California courts have
           consistently held that the concealment-or-fraud provision is{' '}
-          <strong>severable</strong> between co-insureds. In <strong><em>Amerigraphics,
-          Inc. v. Mercury Casualty Co.</em>, 182 Cal. App. 4th 1538 (2010)</strong>,
-          the Court of Appeal held that where one insured commits fraud, the other
-          insured&rsquo;s claim is not barred if that insured did not participate in
-          or know about the fraud. Similarly, in <strong><em>QDOS, Inc. v.
-          Lexington Insurance Co.</em>, 68 Cal. App. 5th 473 (2021)</strong>, the
-          court confirmed that California treats policy conditions as severable
-          between co-insureds. This means that in California, an innocent
+          <strong>severable</strong> between co-insureds. Where one insured commits
+          fraud, the other insured&rsquo;s claim is not barred if that insured did
+          not participate in or know about the fraud. California treats policy
+          conditions as severable between co-insureds, meaning that an innocent
           co-insured generally has a strong argument for recovery even when the other
           insured intentionally caused the loss.
         </p>
@@ -951,29 +947,6 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Parsons v. Allstate Insurance Co.</em>, 165 Cal. App. 4th 98
-        (2008):</strong> A California Court of Appeal case addressing whether the
-        innocent co-insured could recover when the other co-insured committed arson.
-        The court held that the severability clause required the policy to be
-        applied separately to each insured. The innocent spouse was entitled to
-        recover her share of the claim despite the other insured&rsquo;s intentional
-        destruction of the property. This case is a cornerstone of California&rsquo;s
-        pro-policyholder approach to the innocent co-insured doctrine.
-      </p>
-
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Zannini v. Farmers Insurance Exchange</em>, No. B329485
-        (Cal. Ct. App. 2024):</strong> The California Court of Appeal addressed
-        whether a family member who was &ldquo;an insured&rdquo; under the policy
-        had standing to bring a bad faith claim against the insurer independently
-        of the named insured. The court analyzed the difference between the
-        named insured&rsquo;s contractual privity and the resident relative&rsquo;s
-        derivative status, confirming that the duty of good faith runs to all
-        insureds but that the named insured&rsquo;s position remains structurally
-        superior in the claims process.
-      </p>
-
-      <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Morgan v. Cincinnati Insurance Co.</em>, 307 N.W.2d 53
         (Mich. 1981):</strong> The Michigan Supreme Court addressed the distinction
         between the named insured and other insureds in the context of a fraud
@@ -986,12 +959,12 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Property Casualty Company of MCA v. Conway</em>, 147
-        Cal. App. 4th 472 (2007):</strong> The California Court of Appeal
+        N.J. 322, 686 A.2d 792 (1997):</strong> The New Jersey Supreme Court
         addressed the interplay between the &ldquo;any insured&rdquo; exclusion
         language and the severability clause in the context of an intentional act
-        by a resident relative. The court confirmed that California&rsquo;s
-        approach treats the fraud and concealment condition as severable between
-        co-insureds, reinforcing the innocent co-insured&rsquo;s right to recover.
+        by a resident relative. The court held that the fraud and concealment
+        condition is severable between co-insureds, reinforcing the innocent
+        co-insured&rsquo;s right to recover.
       </p>
 
       <CalloutBox variant="info" title="The Trend Favors Policyholders">
@@ -1135,7 +1108,7 @@ export default function Content() {
         &ldquo;the act of any insured bars all insureds.&rdquo; That is a
         contradiction. Under <em>contra proferentem</em>, the ambiguity is resolved
         against the insurer. This argument has succeeded in multiple jurisdictions,
-        including the Ninth Circuit in <strong><em>Mercado</em></strong>.
+        including in the Ninth Circuit.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

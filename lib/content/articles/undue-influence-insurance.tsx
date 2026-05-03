@@ -499,12 +499,14 @@ export default function Content() {
         The Agent&rsquo;s Fiduciary and Ethical Obligations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;1831.5 requires insurance agents and brokers to
-        act in good faith in all insurance transactions. While the scope of an agent&rsquo;s
-        fiduciary duty is debated &mdash; agents representing insurers are generally
-        considered agents of the insurer, not of the policyholder &mdash; the relationship
-        between a long-serving agent and an elderly client often rises to a level where
-        courts will impose a duty of care.
+        Under general fiduciary duty principles and California Insurance Code &sect;790.03
+        &mdash; which prohibits unfair and deceptive acts in the business of insurance
+        &mdash; insurance agents and brokers are expected to act in good faith in their
+        insurance transactions. While the scope of an agent&rsquo;s fiduciary duty is
+        debated &mdash; agents representing insurers are generally considered agents of the
+        insurer, not of the policyholder &mdash; the relationship between a long-serving
+        agent and an elderly client often rises to a level where courts will impose a duty
+        of care.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In <em>Free v. Republic Insurance Co.</em> (1992) 8 Cal.App.4th 1726, the
@@ -1015,10 +1017,14 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the power of attorney was obtained through undue influence, every action taken
-        under it is voidable. California Probate Code &sect;4303 provides that a power of
-        attorney is not valid if the principal lacked capacity at the time of execution or
-        if the execution was procured by undue influence, fraud, or duress. If the DPOA
-        falls, so does every insurance transaction conducted under its authority.
+        under it is voidable. Under general California law, a power of attorney &mdash;
+        like any instrument requiring consent &mdash; is voidable if the principal lacked
+        capacity at the time of execution or if the execution was procured by undue
+        influence, fraud, or duress. (California Probate Code &sect;4303 addresses
+        third-party liability protection for those who rely on a power of attorney in good
+        faith, but the underlying validity of the POA is governed by capacity and consent
+        requirements.) If the DPOA falls, so does every insurance transaction conducted
+        under its authority.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The challenge is timing. Insurance companies generally accept a power of attorney

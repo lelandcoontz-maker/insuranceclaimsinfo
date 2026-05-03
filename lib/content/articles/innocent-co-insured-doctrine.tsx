@@ -267,11 +267,11 @@ export default function Content() {
         Vance v. Pekin Insurance Co. (Illinois, 1988)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Vance v. Pekin Insurance Co.</em>, 124 Ill. 2d 132, 529 N.E.2d 589
-        (1988)</strong>, is one of the earliest and most influential decisions recognizing
-        the innocent co-insured doctrine. Linda Vance and her husband were named insureds
-        on their homeowner&rsquo;s policy. The husband set fire to the home. Linda had no
-        knowledge of or involvement in the arson.
+        <strong><em>Vance v. Pekin Insurance Co.</em> (Ill. 1988)</strong> is one of the
+        earliest and most influential decisions recognizing the innocent co-insured doctrine.
+        This frequently-cited Illinois Supreme Court decision involved Linda Vance and her
+        husband, who were named insureds on their homeowner&rsquo;s policy. The husband set
+        fire to the home. Linda had no knowledge of or involvement in the arson.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Illinois Supreme Court held that Linda was entitled to recover her proportional
@@ -296,18 +296,15 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Borman v. State Farm Fire &amp; Casualty Co.</em>, 446 Mich. 482, 521
         N.W.2d 266 (1994)</strong>, is the Michigan Supreme Court&rsquo;s landmark adoption
-        of the innocent co-insured doctrine. In <em>Borman</em>, the husband was convicted
-        of setting fire to the family home. The wife, who had no involvement in the arson,
-        filed a claim for her share of the loss. State Farm denied the claim, arguing that
-        the intentional acts exclusion barred recovery by all insureds.
+        of the innocent co-insured doctrine. State Farm denied the innocent co-insured&rsquo;s
+        claim, arguing that the intentional acts exclusion barred recovery by all insureds.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Michigan Supreme Court disagreed. The court held that the policy&rsquo;s
         severability clause required the intentional acts exclusion to be applied separately
-        to each insured. Because the wife did not intentionally cause the loss, the exclusion
-        did not apply to her claim. The court further held that the wife was entitled to
-        recover her <strong>proportional share</strong> of the insurance proceeds &mdash;
-        one-half of the policy limits, representing her ownership interest in the property.
+        to each insured. Because the innocent co-insured did not intentionally cause the loss,
+        the exclusion did not apply to their claim. The court held that the innocent co-insured
+        was entitled to recover under the severability clause.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Borman</em> is significant for its clear articulation of the proportional
@@ -316,68 +313,20 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Farmers Insurance Exchange v. Cocking (Oregon, 2010)
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Farmers Insurance Exchange v. Cocking</em>, 237 Or. App. 541, 241 P.3d
-        346 (2010)</strong>, illustrates how courts handle the tension between the
-        intentional acts exclusion and the severability clause. In <em>Cocking</em>, the
-        Oregon Court of Appeals held that the severability clause required the intentional
-        acts exclusion to be interpreted as applying only to the insured who committed the
-        act. The court found that the severability clause and the intentional acts exclusion,
-        read together, created an ambiguity that must be resolved in favor of the innocent
-        co-insured under <em>contra proferentem</em>.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Morgan v. Cincinnati Insurance Co. (West Virginia, 2005)
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Morgan v. Cincinnati Insurance Co.</em>, 216 W. Va. 595, 609 S.E.2d
-        877 (2004)</strong>, is the West Virginia Supreme Court of Appeals&rsquo; definitive
-        statement on the innocent co-insured doctrine. The court held that when a fire
-        insurance policy contains a severability of interests provision, an innocent
-        co-insured may recover their proportional share of the loss even when the other
-        insured intentionally caused the fire. The court emphasized that the severability
-        clause reflects the parties&rsquo; contractual intent that the policy be applied
-        separately to each insured, and that this intent should not be overridden by a
-        strained reading of the intentional acts exclusion.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Osbon v. National Union Fire Insurance Co. (Mississippi, 1993)
+        Osbon v. National Union Fire Insurance Co. (Louisiana, 1994)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Osbon v. National Union Fire Insurance Co.</em>, 632 So. 2d 1158
-        (Miss. 1994)</strong>, represents the opposing view. The Mississippi Supreme Court
-        held that the concealment or fraud provision voided the entire policy when one insured
-        committed arson, regardless of the other insured&rsquo;s innocence. The court
-        reasoned that the policy&rsquo;s fraud provision was unambiguous: if &ldquo;any
-        insured&rdquo; committed fraud, the entire policy was void. The severability clause,
-        in the court&rsquo;s view, did not override the fraud provision because the two
-        provisions could coexist &mdash; the severability clause addressed <em>coverage</em>,
-        while the fraud provision addressed <em>policy validity</em>.
+        (La. 1994)</strong>, is a significant decision from the Louisiana Supreme Court. The
+        court held that the innocent co-insured was entitled to recover their proportional
+        share of the loss, even though the other insured had intentionally caused the fire.
+        The court reasoned that the severability clause required the policy to be applied
+        separately to each insured, and that the innocent co-insured&rsquo;s claim should
+        not be barred by the other insured&rsquo;s intentional act.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Osbon</em> is the leading case against innocent co-insured recovery and is
-        frequently cited by insurers opposing such claims.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Maravilla v. Farmers (California Court of Appeal, 1996)
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Maravilla v. Farmers Group, Inc.</em>, 46 Cal. App. 4th 1446
-        (1996)</strong>, is a critical California decision addressing the innocent
-        co-insured issue. In <em>Maravilla</em>, the wife&rsquo;s estranged husband set
-        fire to the house. The California Court of Appeal held that the wife, as an
-        innocent co-insured, was entitled to recover under the policy. The court relied
-        on the severability clause and on California&rsquo;s strong public policy against
-        forfeiture of insurance benefits. The court held that applying the intentional acts
-        exclusion to bar the innocent wife&rsquo;s claim would contravene California
-        Insurance Code &sect; 530, which provides that an insurer is not liable for a loss
-        caused by the &ldquo;willful act of the insured&rdquo; &mdash; but only <em>the</em>
-        insured who committed the act, not all insureds on the policy.
+        <em>Osbon</em> confirmed the proportionate recovery approach and is frequently cited
+        in innocent co-insured cases.
       </p>
 
       <CalloutBox variant="legal" title="California Insurance Code Section 530">
@@ -408,30 +357,31 @@ export default function Content() {
         co-insured.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>California Insurance Code &sect; 2076.5</strong> goes further. Enacted to
-        address the innocent co-insured problem directly, &sect; 2076.5 provides that a
-        standard form fire insurance policy &ldquo;shall not deny payment to an innocent
-        coinsured who did not cooperate in, or contribute to, the creation of a loss, solely
-        on the basis that another insured caused the loss.&rdquo; This statute essentially
-        codifies the innocent co-insured doctrine for fire insurance policies in California.
-        It eliminates the argument that the intentional acts exclusion or fraud provision
-        bars the innocent co-insured&rsquo;s claim merely because another insured caused
-        the loss.
+        California courts have further reinforced innocent co-insured protection through judicial
+        interpretation of Insurance Code &sect; 530 (addressing intentional acts) and &sect; 533
+        (which bars coverage for willful acts). Courts have interpreted these provisions, read
+        alongside the severability clauses found in standard homeowner policies, as protecting the
+        innocent co-insured who did not cooperate in or contribute to the creation of the loss.
+        This judicial framework effectively supports the innocent co-insured doctrine for fire
+        insurance and homeowner policies in California, eliminating the argument that the intentional
+        acts exclusion or fraud provision bars the innocent co-insured&rsquo;s claim merely because
+        another insured caused the loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The <em>Maravilla</em> decision, combined with &sect;&sect; 530 and 2076.5, means
-        that in California, an innocent co-insured who had no knowledge of or involvement
-        in the arson is entitled to recover their proportional share of the loss. This is
-        not a matter of judicial discretion &mdash; it is a matter of statutory right.
+        The combined force of &sect;&sect; 530 and 533, as interpreted by California courts
+        alongside severability clauses, means that in California, an innocent co-insured who
+        had no knowledge of or involvement in the arson is entitled to recover their
+        proportional share of the loss.
       </p>
 
       <CalloutBox variant="important" title="California Practitioners: Know Your Statutes">
         <p>
           If you are representing an innocent co-insured in California, cite Insurance Code
-          &sect;&sect; 530 and 2076.5 immediately. Do not let the adjuster or carrier attorney
-          argue that the intentional acts exclusion bars all recovery. California law
-          specifically protects the innocent co-insured by statute. The carrier may try to
-          ignore these provisions or argue they do not apply. They do. Push back hard.
+          &sect;&sect; 530 and 533 and the policy&rsquo;s severability clause immediately. Do
+          not let the adjuster or carrier attorney argue that the intentional acts exclusion
+          bars all recovery. California law specifically protects the innocent co-insured. The
+          carrier may try to ignore these provisions or argue they do not apply. They do. Push
+          back hard.
         </p>
       </CalloutBox>
 
@@ -953,7 +903,7 @@ export default function Content() {
         The majority of states that have considered the issue recognize this fundamental
         unfairness and allow the innocent co-insured to recover a proportional share of the
         loss. California goes further, with statutory protections in Insurance Code &sect;&sect;
-        530 and 2076.5 that specifically protect the innocent co-insured. The severability of
+        530 and 533 that California courts have interpreted to protect the innocent co-insured. The severability of
         interests clause &mdash; present in most homeowner policies &mdash; provides the
         contractual foundation for recovery.
       </p>

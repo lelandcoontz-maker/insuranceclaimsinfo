@@ -752,16 +752,17 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        <em>Olszewski v. Scripps Health</em> (2003) 30 Cal.4th 798
+        The Transaction-Specific Standard: Probate Code Sections 810&ndash;813
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Supreme Court addressed the interplay between Probate Code Sections
-        810&ndash;813 and other areas of law. The Court confirmed that the capacity
-        determination under these sections is specific to the transaction at issue and that
-        a deficit in any of the mental functions enumerated in Section 811 can, if severe
-        enough, negate capacity for a particular transaction. This supports the argument that
-        a policyholder who can carry on a basic conversation may nevertheless lack capacity
-        to make complex insurance decisions.
+        California&rsquo;s transaction-specific capacity standard, codified in Probate Code
+        Sections 810&ndash;813, was enacted in 1995 to replace the older all-or-nothing
+        approach to competency. Under this framework, a person may lack capacity for one
+        type of transaction while retaining capacity for another. A deficit in any of the
+        mental functions enumerated in Section 811 can, if severe enough, negate capacity
+        for a particular transaction. This supports the argument that a policyholder who
+        can carry on a basic conversation may nevertheless lack capacity to make complex
+        insurance decisions.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

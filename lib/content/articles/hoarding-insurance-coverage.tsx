@@ -116,11 +116,10 @@ export default function Content() {
         categorization, emotional regulation around possessions &mdash; that would be required
         to control the accumulation. The hoarding is not &ldquo;within the control&rdquo; of the
         insured in the way that, say, storing gasoline in a living room would be. Courts have
-        recognized this distinction in analogous contexts. In <em>Stephens v. Safeco Insurance
-        Co. of America</em>, 258 Cal. App. 2d 525 (1968), the California Court of Appeal held
-        that an &ldquo;increase in hazard&rdquo; defense requires the insurer to prove that the
-        insured <em>voluntarily and consciously</em> created the increased risk. A condition
-        driven by a psychiatric disorder does not meet that standard.
+        recognized this distinction in analogous contexts, holding that an &ldquo;increase in
+        hazard&rdquo; defense requires the insurer to prove that the insured <em>voluntarily
+        and consciously</em> created the increased risk. A condition driven by a psychiatric
+        disorder does not meet that standard.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Second, many &ldquo;increase in hazard&rdquo; clauses require the insurer to show that
@@ -133,22 +132,21 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Third, in many states including California, the &ldquo;increase in hazard&rdquo;
-        provision has been narrowly construed by courts. California Insurance Code section 2164
-        provides that a property insurance policy is not voided by an &ldquo;increase of
-        hazard&rdquo; unless the insurer can demonstrate that the insured intentionally caused
-        the increase and that the increase was material. The burden is on the insurer, and it
-        is a heavy one.
+        provision has been narrowly construed by courts. The California Standard Fire Policy,
+        codified at Insurance Code &sect; 2071, contains an increase-in-hazard provision that
+        California courts have interpreted to require the insurer to demonstrate that the
+        insured intentionally caused the increase and that the increase was material. The
+        burden is on the insurer, and it is a heavy one.
       </p>
 
-      <CalloutBox variant="legal" title="California Insurance Code Section 2164">
+      <CalloutBox variant="legal" title="California Standard Fire Policy &mdash; Increase in Hazard">
         <p>
-          Section 2164 provides that an increase of hazard does not void fire insurance unless
-          the increase is material and was caused by the acts or neglect of the insured. California
-          courts have interpreted this provision to require the insurer to prove intentional or
-          voluntary conduct, not merely the existence of conditions that happen to increase risk.
-          Where the &ldquo;conditions&rdquo; are the product of a recognized mental health
-          disorder, the &ldquo;voluntary conduct&rdquo; element becomes extremely difficult for
-          the insurer to establish.
+          The Standard Fire Policy (Insurance Code &sect; 2071) includes an increase-in-hazard
+          provision that California courts have interpreted to require the insurer to prove
+          intentional or voluntary conduct by the insured, not merely the existence of conditions
+          that happen to increase risk. Where the &ldquo;conditions&rdquo; are the product of a
+          recognized mental health disorder, the &ldquo;voluntary conduct&rdquo; element becomes
+          extremely difficult for the insurer to establish.
         </p>
       </CalloutBox>
 
@@ -933,10 +931,12 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong><em>Stephens v. Safeco Ins. Co. of America</em>, 258 Cal. App. 2d 525
-          (1968):</strong> California Court of Appeal held that the &ldquo;increase in hazard&rdquo;
-          defense requires proof of voluntary and conscious creation of the increased risk.
-          Establishes that involuntary conditions do not trigger the increase-in-hazard defense.
+          <strong>California Standard Fire Policy (Insurance Code &sect; 2071) &mdash;
+          Increase-in-Hazard Provision:</strong> The Standard Fire Policy&rsquo;s
+          increase-in-hazard provision has been narrowly construed by California courts to
+          require proof of voluntary and conscious creation of the increased risk. Involuntary
+          conditions &mdash; including those driven by a recognized psychiatric disorder &mdash;
+          do not satisfy the insurer&rsquo;s burden under this provision.
         </li>
         <li>
           <strong><em>Garvey v. State Farm Fire &amp; Casualty Co.</em>, 48 Cal. 3d 395
@@ -959,10 +959,10 @@ export default function Content() {
           undermines the &ldquo;intentional&rdquo; element.
         </li>
         <li>
-          <strong>California Insurance Code &sect; 2164:</strong> Governs &ldquo;increase of
-          hazard&rdquo; in fire insurance. Requires materiality and insured&rsquo;s acts or
-          neglect. The involuntary nature of hoarding disorder challenges the &ldquo;acts or
-          neglect&rdquo; element.
+          <strong>California Insurance Code &sect; 2071 (Standard Fire Policy):</strong> Contains
+          the increase-in-hazard provision applicable to fire insurance in California. Requires
+          materiality and the insured&rsquo;s acts or neglect. The involuntary nature of hoarding
+          disorder challenges the &ldquo;acts or neglect&rdquo; element.
         </li>
         <li>
           <strong>California Insurance Code &sect; 790.03:</strong> The Unfair Claims Settlement
