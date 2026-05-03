@@ -16,7 +16,7 @@ export interface Category {
 
 export const CATEGORIES: Category[] = [
   {
-    label: 'Understanding Your Policy',
+    label: 'Understanding Your Residential Policy',
     color: 'bg-amber-50 border-amber-200',
     headingColor: 'text-amber-900',
     articles: [
@@ -1071,6 +1071,14 @@ export const CATEGORIES: Category[] = [
         href: '/resources/xactimate',
         tag: 'Estimates',
         tagColor: 'bg-orange-100 text-orange-700',
+      },
+      {
+        icon: '🎯',
+        title: 'When Xactimate Is Low, Blame the User — Not the Software',
+        desc: 'Verisk\'s own EULA says pricing is a "baseline to begin." When estimates are low, the fault is with the estimator who didn\'t adjust for site conditions, yield, and market pricing.',
+        href: '/resources/xactimate-pricing-user-responsibility',
+        tag: 'Must Read',
+        tagColor: 'bg-red-100 text-red-700',
       },
       {
         icon: '🔎',
