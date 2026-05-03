@@ -1,6 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  generateBuildId: () => Date.now().toString(),
-}
+const nextConfig = {}
 
 module.exports = nextConfig

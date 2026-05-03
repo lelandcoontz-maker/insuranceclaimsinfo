@@ -136,13 +136,13 @@ export default function Content() {
               <td className="px-4 py-3 text-green-700 font-semibold">Yes — covered</td>
             </tr>
             <tr className="border-b">
-              <td className="px-4 py-3">Pipe corrodes over years and finally springs a leak</td>
-              <td className="px-4 py-3 font-medium">Deterioration / wear</td>
+              <td className="px-4 py-3">Pipe fitting slowly weeps and drips for weeks, gradually staining the ceiling — no sudden event, just ongoing seepage</td>
+              <td className="px-4 py-3 font-medium">Deterioration (gradual, ongoing)</td>
               <td className="px-4 py-3 text-red-700 font-semibold">No — excluded</td>
             </tr>
             <tr className="border-b bg-gray-50">
-              <td className="px-4 py-3">Old pipe bursts suddenly under pressure during a freeze</td>
-              <td className="px-4 py-3 font-medium">Freezing (sudden event)</td>
+              <td className="px-4 py-3">Corroded pipe inside a wall suddenly springs a leak — pipe was holding water the day before with no prior signs of failure</td>
+              <td className="px-4 py-3 font-medium">Sudden and accidental discharge (corrosion is a condition, not a cause)</td>
               <td className="px-4 py-3 text-green-700 font-semibold">Yes — covered</td>
             </tr>
             <tr className="border-b">
@@ -160,9 +160,9 @@ export default function Content() {
       </div>
       <p className="text-gray-700 leading-relaxed mb-4">
         In every &ldquo;covered&rdquo; scenario above, the property was in a worn condition — but
-        wear and tear was not the cause of the loss. Something else — wind, hail, freezing — was
-        the event that caused the damage. The worn condition may have made the property more
-        <em> vulnerable</em> to the peril, but vulnerability is not causation.
+        wear and tear was not the cause of the loss. Something else — wind, hail, a sudden
+        discharge of water — was the event that caused the damage. The worn condition may have
+        made the property more <em>vulnerable</em> to the peril, but vulnerability is not causation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -395,8 +395,8 @@ export default function Content() {
           eventually allowing water intrusion as a natural progression of aging
         </li>
         <li>
-          A pipe slowly corrodes and develops a pinhole leak over months or years with no sudden
-          triggering event
+          A pipe connection under a sink slowly seeps over months, leaving visible mineral
+          deposits and staining — the failure is gradual and ongoing, not sudden
         </li>
         <li>
           Siding deteriorates and warps from prolonged sun exposure, not from any specific weather

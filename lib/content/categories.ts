@@ -1879,9 +1879,9 @@ export const CATEGORIES: Category[] = [
       },
       {
         icon: '✍️',
-        title: 'The White Waiver: California\'s Settlement-Privilege Waiver',
-        desc: 'What the White waiver is, why insurers ask you to sign one, and why signing too quickly can give up your most powerful bad-faith evidence.',
-        href: '/resources/white-waiver',
+        title: 'The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret',
+        desc: 'What a White waiver is, why insurers ask you to sign one, whether you should, and how to protect yourself — based on the landmark case White v. Western Title Insurance Co.',
+        href: '/resources/white-waiver-settlement-confidentiality',
         tag: 'California',
         tagColor: 'bg-blue-100 text-blue-700',
       },

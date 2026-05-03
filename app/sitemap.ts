@@ -118,6 +118,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'games-insurers-play-wear-and-tear',
     'real-negotiation-case-studies',
     'urban-vs-forest-wildfire-smoke',
+    'blanket-vs-specific-insurance',
+    'xactimate-pricing-user-responsibility',
+    'white-waiver-settlement-confidentiality',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

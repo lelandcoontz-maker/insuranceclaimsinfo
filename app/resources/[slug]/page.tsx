@@ -325,6 +325,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'sustainable-insurance-strategy': { title: "California’s Sustainable Insurance Strategy: What the Biggest Overhaul in 30 Years Means for Your Premiums", description: "An in-depth look at the California Department of Insurance’s Sustainable Insurance Strategy — how forward-looking catastrophe models, reinsurance cost pass-through, and Proposition 103 changes are reshaping insurance rates and availability statewide." },
   'third-party-litigation-funding': { title: 'Third-Party Litigation Funding: What Policyholders Should Know Before Suing Their Insurer', description: 'How third-party litigation funding works in insurance disputes, who qualifies, the costs involved, recent legislation like the NY Consumer Litigation Funding Act, and when it makes sense for policyholders facing well-funded insurers.' },
   'valued-policy-laws': { title: 'Valued Policy Laws: When Total Loss Means Full Policy Limits', description: 'What valued policy laws are, which states have them, how they work in total loss claims, and the critical fact that California is NOT a valued policy state — meaning policyholders must prove actual loss even in total destruction.' },
+  'white-waiver-settlement-confidentiality': { title: 'The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret', description: 'What a White waiver is, why insurers ask you to sign one, whether you should, and how to protect yourself — based on the landmark California Supreme Court decision White v. Western Title Insurance Co.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -649,6 +650,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'sustainable-insurance-strategy': () => import('@/lib/content/articles/sustainable-insurance-strategy'),
   'third-party-litigation-funding': () => import('@/lib/content/articles/third-party-litigation-funding'),
   'valued-policy-laws': () => import('@/lib/content/articles/valued-policy-laws'),
+  'white-waiver-settlement-confidentiality': () => import('@/lib/content/articles/white-waiver-settlement-confidentiality'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
