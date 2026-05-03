@@ -373,8 +373,9 @@ export default function Content() {
             different. It is usually a phone call between the adjuster and the insured.
             Nothing prevents a policyholder from consulting with an attorney beforehand to
             understand what to expect. And because a recorded statement is not a deposition,
-            there is no procedural rule governing who may be sitting next to the insured in
-            their own home during an informal phone call. Whether that matters is a
+            there is no procedural rule governing who may be sitting next to you in your
+            own home during an informal phone call &mdash; or whether you happen to be
+            taking the call from your attorney&apos;s office. Whether that matters is a
             conversation to have with your attorney.
           </li>
           <li>
