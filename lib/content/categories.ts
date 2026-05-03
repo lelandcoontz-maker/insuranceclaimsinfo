@@ -1258,8 +1258,8 @@ export const CATEGORIES: Category[] = [
       },
       {
         icon: '🛡️',
-        title: 'Estoppel and Waiver: When Insurers Lose the Right to Deny',
-        desc: 'When an insurer\'s conduct or representations prevent it from later denying coverage — even if the denial would otherwise be valid.',
+        title: 'Estoppel, Waiver, and Promissory Estoppel in Insurance Claims',
+        desc: 'How equitable estoppel, waiver, and promissory estoppel prevent insurers from denying claims — including FAIR Plan limitations, adjuster authority, and whether these doctrines can create coverage.',
         href: '/resources/estoppel-waiver-insurance',
         tag: 'Legal Doctrine',
         tagColor: 'bg-purple-100 text-purple-700',
