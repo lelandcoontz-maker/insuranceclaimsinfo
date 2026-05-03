@@ -354,6 +354,8 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'named-insured-vs-an-insured': { title: 'The Named Insured vs. "An Insured" — Why the Distinction Matters More Than You Think', description: 'Your insurance policy draws a sharp line between "you" (the named insured) and "an insured" (resident relatives, spouses, and others). This distinction controls who has rights, who triggers exclusions, and who can recover after a loss. Learn why it matters and how to protect yourself.' },
   'rural-agricultural-property-claims': { title: 'Insurance Claims for Rural and Agricultural Properties: Livestock, Crops, Equipment, and Coverage Gaps', description: 'Rural and agricultural property claims involve livestock mortality, crop damage, farm equipment on inland marine policies, outbuilding coverage gaps, and well and septic losses that standard homeowner guidance ignores.' },
   'reading-insurer-letters': { title: 'Reading the Insurer\'s Letters: What They Actually Mean and How to Respond', description: 'Decode the letters your insurance company sends — reservation of rights, denial letters, non-waiver agreements, cure letters, coverage position letters, and more. Learn the legal significance of each and what to do when you receive one.' },
+  'responding-to-insurer-in-writing': { title: 'How to Respond to Your Insurance Company in Writing: Tone, Strategy, and What Never to Say', description: 'A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase "bad faith" and how framing requests around harm creates a stronger claim file.' },
+  'smoke-taint-vineyard-claims': { title: 'Smoke Taint Claims: When Wildfire Ruins the Vintage Without Touching the Vines', description: 'Wildfire smoke can render an entire vintage worthless without burning a single vine. Learn how smoke taint is detected, which insurance covers it at each stage from vine to barrel, and why most vineyard owners are underinsured for this specific peril.' },
   'three-trade-rule': { title: 'The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit', description: 'The three-trade rule is a practical shorthand for a legal principle adopted by appellate courts across the country: overhead and profit are owed whenever a general contractor is reasonably likely to be needed. Nine verified case law citations, state regulatory authority, and practical guidance for policyholders.' },
 }
 
@@ -708,6 +710,8 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'named-insured-vs-an-insured': () => import('@/lib/content/articles/named-insured-vs-an-insured'),
   'rural-agricultural-property-claims': () => import('@/lib/content/articles/rural-agricultural-property-claims'),
   'reading-insurer-letters': () => import('@/lib/content/articles/reading-insurer-letters'),
+  'responding-to-insurer-in-writing': () => import('@/lib/content/articles/responding-to-insurer-in-writing'),
+  'smoke-taint-vineyard-claims': () => import('@/lib/content/articles/smoke-taint-vineyard-claims'),
   'three-trade-rule': () => import('@/lib/content/articles/three-trade-rule'),
 }
 
