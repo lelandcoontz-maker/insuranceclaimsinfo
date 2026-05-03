@@ -348,16 +348,34 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           The better approach is not refusal but negotiation. Consider these alternatives:
         </p>
-        <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
+        <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
           <li>
-            <strong>Retain an attorney for the recorded interview.</strong> You have the right
-            to have counsel present even for an informal recorded statement. This is a much
-            lower-cost engagement than having an attorney represent you through a full EUO.
+            <strong>Ask the insurer to submit their questions in writing first, then agree
+            to a recorded interview to follow.</strong> This is often the strongest approach.
+            The insured answers written questions at their own pace, with time to be accurate
+            and thorough. Once the written questions are complete, the insured agrees to a
+            recorded follow-up interview. By that point, the insured already knows what the
+            insurer is asking about, many questions are already resolved, and the recorded
+            session is shorter and less exhausting. This sequence is especially reasonable
+            when the insured has a legitimate basis for needing written questions first &mdash;
+            limited English proficiency, hearing difficulties, cognitive issues, early-onset
+            dementia, or the emotional toll of a recent catastrophic loss. An insurer that
+            refuses a reasonable accommodation for a policyholder who is willing to cooperate
+            and has agreed to a recorded interview afterward may be creating a record that an
+            attorney could later use to the policyholder&apos;s advantage. Consult with an
+            attorney about your specific situation.
           </li>
           <li>
-            <strong>Ask the insurer to submit their questions in writing.</strong> Some
-            adjusters will agree to accept written responses rather than a verbal recorded
-            interview. You control the narrative, have time to be accurate, and still cooperate.
+            <strong>Consult an attorney.</strong> A recorded statement is an informal
+            process &mdash; it is not an examination under oath. With an EUO, the
+            insurer&apos;s attorney is present, you typically need your own attorney on the
+            record, and everyone knows the lawyers are in the room. A recorded statement is
+            different. It is usually a phone call between the adjuster and the insured.
+            Nothing prevents a policyholder from consulting with an attorney beforehand to
+            understand what to expect. And because a recorded statement is not a deposition,
+            there is no procedural rule governing who may be sitting next to the insured in
+            their own home during an informal phone call. Whether that matters is a
+            conversation to have with your attorney.
           </li>
           <li>
             <strong>Agree to an unrecorded interview.</strong> You can cooperate and answer

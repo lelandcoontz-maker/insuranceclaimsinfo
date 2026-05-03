@@ -1289,6 +1289,14 @@ export const CATEGORIES: Category[] = [
         tagColor: 'bg-red-100 text-red-700',
       },
       {
+        icon: '🌧️',
+        title: 'Roof Leaks in Leased Commercial Space',
+        desc: 'When rain enters through a neglected roof and damages a tenant\'s property, neither policy may cover the loss. The rain exclusion, wind-created openings, and how to protect yourself.',
+        href: '/resources/tenant-roof-leak-coverage-gap',
+        tag: 'Commercial',
+        tagColor: 'bg-red-100 text-red-700',
+      },
+      {
         icon: '🚢',
         title: 'Marine Cargo: Why Importers Should Buy Their Own',
         desc: 'Importers should purchase their own marine cargo policy. US/European carriers, warehouse coverage, Institute Cargo Clauses, and how PAs can adjust cargo claims.',

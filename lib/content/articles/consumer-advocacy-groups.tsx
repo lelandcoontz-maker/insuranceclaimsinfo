@@ -297,6 +297,134 @@ export default function Content() {
         <li>The NAIC Consumer Information Source (CIS) database for researching insurers</li>
       </ul>
 
+      {/* ── CLAIMS PAGES ── */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Claims Pages &mdash; Insurance Document Library
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Website:</strong>{' '}
+        <a href="https://www.claimspages.com" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+          claimspages.com
+        </a>
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Claims Pages is primarily a resource hub for insurance professionals &mdash; adjusters,
+        examiners, and claims managers &mdash; serving over 362,000 industry users. But its extensive{' '}
+        <a href="https://www.claimspages.com/documents/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+          document library
+        </a>{' '}
+        is a gold mine for policyholders as well. Registration is free, and it unlocks hundreds of
+        downloadable documents in PDF and Word format covering virtually every type of insurance
+        claim imaginable.
+      </p>
+
+      <h3 className="text-lg font-bold text-[#1F3964] mb-3">
+        The Breadth Is Remarkable
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is not just a collection of generic automobile release forms. Claims Pages has specialized
+        documents for situations most policyholders would never think to search for:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Proof of Loss forms for every situation</strong> &mdash; a{' '}
+          <a href="https://www.claimspages.com/documents/master-proof-of-loss/i483/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+            Master Proof of Loss
+          </a>,{' '}
+          plus specialized versions for{' '}
+          <a href="https://www.claimspages.com/documents/livestock-proof-of-loss/i495/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+            livestock
+          </a>,{' '}
+          mobile homes, burglary, automobile, aircraft,{' '}
+          <a href="https://www.claimspages.com/documents/inland-marine-proof-of-loss/i501/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+            inland marine
+          </a>,{' '}
+          plate glass, medical payments, and even{' '}
+          <a href="https://www.claimspages.com/documents/proof-of-loss---fidelity-bond/i673/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+            fidelity bonds
+          </a>{' '}
+          (employee dishonesty claims)
+        </li>
+        <li>
+          <strong>Complete NFIP flood forms</strong> &mdash; the entire set of{' '}
+          <a href="https://www.claimspages.com/documents/forms-flood/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+            FEMA/National Flood Insurance Program forms
+          </a>,{' '}
+          including the official Proof of Loss (Form 086-0-9), Notice of Loss, Increased Cost of
+          Compliance forms, and the multi-part NFIP Adjuster Claims Manual
+        </li>
+        <li>
+          <strong>Property worksheets and inventories</strong> &mdash; depreciation guides for personal
+          property, 3-column and 4-column adjuster worksheets for calculating replacement cost vs. actual
+          cash value, room-by-room home contents inventory forms, and building repair estimate templates
+        </li>
+        <li>
+          <strong>Accident scene diagrams</strong> &mdash; editable Word templates for{' '}
+          <a href="https://www.claimspages.com/documents/diagrams/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+            sketching accident scenes
+          </a>{' '}
+          on 4-lane highways, parking lots, T-intersections, roundabouts, freeway onramps, railroad
+          crossings, and more &mdash; plus room diagrams (kitchen, bathroom, bedroom, living room) useful
+          for documenting contents losses
+        </li>
+        <li>
+          <strong>Statement guides</strong> &mdash; interview blueprints that show you exactly what
+          questions adjusters ask in recorded statements for vehicle accidents, structural fires, vehicle
+          theft, slip and fall incidents, product liability, dog bite injuries, and workers&apos;
+          compensation claims. Knowing the questions in advance helps you prepare
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.claimspages.com/documents/legal-reference/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+              State-by-state legal reference charts
+            </a>
+          </strong>{' '}
+          &mdash; statutes of limitations in all 50 states, diminution in value case law by state,
+          laws on recording conversations, deductible reimbursement rules, adjuster licensing
+          requirements, and minimum liability limits
+        </li>
+        <li>
+          <strong>Letter templates</strong> &mdash; reservation of rights letters, denial letters,
+          claim acknowledgment letters, subrogation correspondence, and request-for-contact letters.
+          Even if you never send these yourself, reading them helps you understand the letters your
+          insurer sends you
+        </li>
+        <li>
+          <strong>Medical and general reference</strong> &mdash; a personal property depreciation guide,
+          length-of-injury tables estimating disability time by injury type, building terminology charts,
+          coinsurance formulas, and a standard homeowner policy coverage chart
+        </li>
+        <li>
+          <strong>White papers</strong> &mdash; including a FEMA-developed Business Interruption Handbook
+          that walks claimants through preparing and filing business interruption claims
+        </li>
+      </ul>
+
+      <h3 className="text-lg font-bold text-[#1F3964] mb-3">
+        Spanish-Language Documents
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Claims Pages also maintains a dedicated{' '}
+        <a href="https://www.claimspages.com/documents/spanish/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+          Spanish-language section
+        </a>{' '}
+        with dozens of translated forms &mdash; Proof of Loss documents, releases, medical
+        authorizations, accident reports, contents inventories, and more. This is valuable for
+        Spanish-speaking policyholders who need to understand what they are signing, or who want to
+        submit documentation in their primary language.
+      </p>
+
+      <CalloutBox variant="tip" title="Using Generic Forms vs. Insurer-Required Forms">
+        <p>
+          In most states, an insurer must provide you with a Proof of Loss form if they require one, and
+          many states require the insurer to provide forms in the policyholder&apos;s primary language.
+          However, a generic Proof of Loss form from Claims Pages can be acceptable in situations where
+          the insurer has not specified a particular form, or when you need to understand the format and
+          content expected before completing the insurer&apos;s version. Always check whether your
+          insurer requires their specific form before submitting a generic one.
+        </p>
+      </CalloutBox>
+
       {/* ── HOW TO USE THESE RESOURCES ── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         How to Use These Resources Effectively
