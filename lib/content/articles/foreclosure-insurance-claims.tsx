@@ -1,567 +1,253 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
-import { LeadCaptureForm } from '@/components/content/LeadCaptureForm'
 
 export const meta = {
   title: 'Insurance Claims on Properties in Foreclosure: Full Credit Bids and What They Mean for Your Money',
-  description:
-    'What happens to your insurance claim when your property is in foreclosure? How full credit bids can extinguish the lender\'s right to your insurance proceeds — and how underbids preserve it. California law explained.',
+  description: "What happens to your insurance claim when your property is in foreclosure? How full credit bids can extinguish the lender's right to your insurance proceeds — and how underbids preserve it.",
 }
 
 export default function Content() {
   return (
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If your property is in foreclosure and you also have an insurance claim &mdash; whether
-        from a fire, water damage, or any other covered loss &mdash; you are dealing with one of
-        the most legally consequential intersections in property insurance law. The way your
-        lender handles the foreclosure auction can determine whether you keep the insurance
-        money, whether the lender takes it, or whether the lender accidentally gives up all
-        rights to it.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        At the center of this issue is a legal doctrine called the <strong>full credit
-        bid</strong>. Understanding how it works could mean the difference between losing your
-        home <em>and</em> your insurance proceeds, or losing your home but keeping the money.
+        Your home is damaged. You have an active insurance claim. And the bank is foreclosing. In most homeowners&apos; minds, that&apos;s the end of the story — the bank takes the house, the bank gets the insurance money, and you walk away with nothing.
       </p>
 
-      {/* ───────── Foreclosure Basics ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Non-Judicial vs. Judicial Foreclosure
-      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Before we get to insurance claims, you need to understand which type of foreclosure
-        you are dealing with, because the consequences are very different.
+        But that&apos;s not necessarily how it works. If the bank makes a full credit bid at the foreclosure sale — and in many cases, they do exactly that without thinking — the bank may have just extinguished its own right to collect on your insurance claim. The insurance proceeds that would have gone to the lender may now belong entirely to you.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Non-Judicial Foreclosure (California and Most Western States)
-      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California is a <strong>non-judicial foreclosure</strong> state. Under Civil Code
-        &sect;2924 et seq., the lender forecloses through a trustee &mdash; no court
-        involvement is required. The process follows three main steps:
-      </p>
-      <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Notice of Default (NOD):</strong> The trustee records a Notice of Default at
-          the county recorder&apos;s office, specifying the nature and amount of the default.
-        </li>
-        <li>
-          <strong>Three-month reinstatement period:</strong> The borrower has at least three
-          months to cure the default before the property can be sold.
-        </li>
-        <li>
-          <strong>Notice of Trustee&apos;s Sale and auction:</strong> After the reinstatement
-          period, the trustee publishes a Notice of Sale and conducts a public auction. The
-          property goes to the highest bidder.
-        </li>
-      </ol>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The critical protection for California borrowers is the <strong>anti-deficiency
-        rule</strong>. Under Code of Civil Procedure &sect;580d, after a non-judicial
-        foreclosure, the lender <strong>cannot pursue the borrower for any deficiency</strong>.
-        If the property sells for less than what is owed, the borrower walks away. They lose the
-        house, but they do not owe the difference. This is fundamentally different from what
-        happens in judicial foreclosure states.
+        This is not a theoretical argument. It is established law in California and other states. And it has produced outcomes that lenders never anticipated, including situations where a public adjuster convinced a bank to rescind its own foreclosure because the bank realized — too late — that it had bid away its right to the insurance money.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Judicial Foreclosure (Many Eastern and Midwestern States)
-      </h3>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What Is a Full Credit Bid?</h2>
+
       <p className="text-gray-700 leading-relaxed mb-4">
-        In judicial foreclosure states, the lender must file a lawsuit and obtain a court order
-        to foreclose. The critical difference: in most judicial foreclosure states, the lender
-        <strong> can pursue a deficiency judgment</strong> against the borrower. If the property
-        sells at auction for $200,000 but the borrower owes $300,000, the lender can pursue the
-        borrower for the remaining $100,000. The borrower loses their home <em>and</em> still
-        owes money.
+        At a nonjudicial foreclosure sale (a trustee&apos;s sale), the foreclosing lender has the right to &ldquo;credit bid&rdquo; — to bid using the debt owed to it rather than cash. If you owe $400,000 on your mortgage and the bank forecloses, the bank can bid up to $400,000 without putting up any money. It simply credits the debt against the purchase price.
       </p>
 
-      <CalloutBox variant="important" title="California's Anti-Deficiency Protection">
-        <p>
-          Under CCP &sect;580d, after a non-judicial foreclosure in California, the lender
-          cannot pursue a deficiency judgment. Under CCP &sect;580b, this protection extends
-          even further for purchase money loans &mdash; loans used to buy the property that
-          serves as the security. You can lose your home, but you cannot be pursued for the
-          difference between what the property sold for and what you owed.
-        </p>
-      </CalloutBox>
-
-      {/* ───────── The Full Credit Bid ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        What Is a Full Credit Bid?
-      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        At a trustee&apos;s sale, the foreclosing lender typically &ldquo;bids&rdquo; on the
-        property. But instead of tendering cash, the lender credits the outstanding debt against
-        the purchase price. This is called a <strong>credit bid</strong>.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        A <strong>full credit bid</strong> occurs when the lender bids the{' '}
-        <strong>full amount of the outstanding debt</strong> &mdash; principal, accrued interest,
-        fees, and foreclosure costs. When this happens, the debt is extinguished entirely. The
-        lender is deemed to have been paid in full. The California Supreme Court established this
-        principle in <em>Cornelison v. Kornbluth</em> (1975) 15 Cal.3d 590, and it was
-        significantly expanded in <em>Alliance Mortgage Co. v. Rothwell</em> (1995) 10 Cal.4th
-        1226.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Why would a lender bid the full amount? In most cases, it is automatic. Lenders and
-        their trustees routinely submit full credit bids as a default practice &mdash; the logic
-        being that they want to acquire the property for the full value of the debt so they can
-        resell it. What many lenders fail to consider is the devastating consequence this has
-        when the property is damaged and there is an active insurance claim.
+        A <strong>full credit bid</strong> means the lender bids the entire amount owed — principal, accrued interest, late fees, trustee&apos;s fees, and all costs of foreclosure. The lender bids every dollar it is owed.
       </p>
 
-      {/* ───────── Insurance Proceeds ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        How a Full Credit Bid Kills the Lender&apos;s Right to Insurance Proceeds
-      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the most important concept in this article. When a lender makes a full credit
-        bid, the law treats the lender as having been made whole. The debt is extinguished. And
-        if the debt is extinguished, the lender&apos;s <strong>insurable interest is also
-        extinguished</strong>. The lender has no further claim to insurance proceeds for
-        pre-foreclosure property damage.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The logic is straightforward: a lender&apos;s interest in insurance proceeds exists only
-        to protect its security interest &mdash; the debt. If a full credit bid wipes out the
-        debt, there is nothing left to insure. Any payment of insurance proceeds on top of the
-        debt satisfaction would be an impermissible double recovery.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        As the California Supreme Court stated in <em>Alliance Mortgage Co. v. Rothwell</em>,
-        the lender &ldquo;is not entitled to insurance proceeds payable for prepurchase damage
-        to the property&hellip; because the lender&apos;s only interest in the property, the
-        repayment of its debt, has been satisfied, and any further payment would result in a
-        double recovery.&rdquo;
+        This is routine. It happens thousands of times a year. Many loan servicers and their foreclosure trustees are programmed to open bidding at the full credit amount as a matter of course. They don&apos;t think about it. They don&apos;t evaluate the property&apos;s current condition. They simply bid what they&apos;re owed.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The $300,000 Example
-      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Consider a homeowner who owes $300,000 on their mortgage. The property suffers $100,000
-        in fire damage while the borrower is in default. Here is how the full credit bid changes
-        everything:
-      </p>
-      <div className="overflow-x-auto mb-8">
-        <table className="w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
-          <thead>
-            <tr className="bg-[#1F3964] text-white">
-              <th className="px-4 py-3 text-left font-semibold">Scenario</th>
-              <th className="px-4 py-3 text-left font-semibold">Lender&apos;s Bid</th>
-              <th className="px-4 py-3 text-left font-semibold">Effect on Insurance Proceeds</th>
-            </tr>
-          </thead>
-          <tbody className="text-gray-700">
-            <tr className="border-t border-gray-200">
-              <td className="px-4 py-3 font-semibold">Full credit bid</td>
-              <td className="px-4 py-3">$300,000 (full debt)</td>
-              <td className="px-4 py-3">
-                Debt is extinguished. Lender has <strong>no right</strong> to the $100,000
-                insurance proceeds. The insured (former homeowner) may be entitled to the
-                insurance money for the building damage.
-              </td>
-            </tr>
-            <tr className="border-t border-gray-200 bg-gray-50">
-              <td className="px-4 py-3 font-semibold">Underbid</td>
-              <td className="px-4 py-3">$200,000</td>
-              <td className="px-4 py-3">
-                $100,000 deficiency remains. Lender may have a right to claim the insurance
-                proceeds up to the deficiency amount to satisfy its remaining security interest.
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The difference is enormous. In the first scenario, the homeowner loses the house but may
-        keep the insurance money. In the second scenario, the lender preserves its claim to the
-        insurance proceeds. This is why the amount of the credit bid at a trustee&apos;s sale is
-        one of the most consequential decisions in any foreclosure involving a damaged property.
+        And that automatic behavior can have devastating consequences — for the lender.
       </p>
 
-      <CalloutBox variant="warning" title="The Lender's Insurable Interest Is Extinguished">
-        <p>
-          A full credit bid is not just an auction strategy &mdash; it is a legal admission that
-          the property, in its current condition (including any damage), is worth at least the
-          full amount of the outstanding debt. The lender cannot then turn around and say
-          &ldquo;but the property was damaged and we need the insurance money too.&rdquo; That
-          would be double recovery, and California courts will not allow it.
-        </p>
-      </CalloutBox>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Full Credit Bid Rule: You Said You Were Made Whole</h2>
 
-      {/* ───────── What Courts Have Said ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        What the Courts Have Said
-      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The full credit bid doctrine as it applies to insurance proceeds has been litigated
-        extensively in California courts. Here are the key decisions:
+        The full credit bid rule is straightforward: when a lender acquires property at a foreclosure sale by bidding the full amount of the debt, the law conclusively presumes that the lender has been made whole. The debt is satisfied. The lien is extinguished. The lender has declared, through its bid, that the property is worth at least as much as what was owed.
       </p>
 
-      <div className="space-y-6 mb-8">
-        <div className="border-l-4 border-[#1F3964] pl-4">
-          <p className="font-bold text-[#1F3964] mb-1">
-            Cornelison v. Kornbluth (1975) 15 Cal.3d 590
-          </p>
-          <p className="text-gray-700 text-sm leading-relaxed">
-            The foundational case. The California Supreme Court established the full credit bid
-            rule: if the lender bids the full amount of the debt at foreclosure, it cannot
-            recover damages for waste, impairment of security, or any other loss based on the
-            property&apos;s condition. If the bid is less than the full amount, the lender can
-            recover up to the deficiency.
-          </p>
-        </div>
-
-        <div className="border-l-4 border-[#1F3964] pl-4">
-          <p className="font-bold text-[#1F3964] mb-1">
-            Alliance Mortgage Co. v. Rothwell (1995) 10 Cal.4th 1226
-          </p>
-          <p className="text-gray-700 text-sm leading-relaxed">
-            The California Supreme Court&apos;s most comprehensive treatment of the full credit
-            bid doctrine. The court held that a full credit bid bars the lender from recovering
-            insurance proceeds, condemnation awards, rent proceeds, and waste damages &mdash;
-            because the lender&apos;s only interest (repayment of the debt) has been satisfied.
-            The court carved out one narrow exception: the full credit bid rule does not bar fraud
-            claims against third-party non-borrowers who fraudulently induced the loan.
-          </p>
-        </div>
-
-        <div className="border-l-4 border-[#1F3964] pl-4">
-          <p className="font-bold text-[#1F3964] mb-1">
-            Najah v. Scottsdale Insurance Co. (2014) 230 Cal.App.4th 125
-          </p>
-          <p className="text-gray-700 text-sm leading-relaxed">
-            The most directly on-point modern case. A lender who held both the first and second
-            deeds of trust foreclosed on the second with a full credit bid. The court held this
-            extinguished the lender&apos;s right to fire insurance proceeds under the policy
-            &mdash; even though the lender was named as a loss payee with a standard mortgage
-            clause. The full credit bid established the property&apos;s value equaled the
-            outstanding debt, leaving no insurable interest.
-          </p>
-        </div>
-
-        <div className="border-l-4 border-[#1F3964] pl-4">
-          <p className="font-bold text-[#1F3964] mb-1">
-            Armsey v. Channel Associates (1986) 184 Cal.App.3d 833
-          </p>
-          <p className="text-gray-700 text-sm leading-relaxed">
-            The flip side. A seller who took back a note on a commercial building foreclosed
-            after a fire destroyed the property. The seller <strong>underbid</strong> &mdash;
-            bidding $456,525 against a debt of over $600,000. Because the credit bid was less
-            than the full debt, the court held the seller was entitled to the fire insurance
-            proceeds. This case demonstrates that an underbid preserves insurance rights.
-          </p>
-        </div>
-
-        <div className="border-l-4 border-[#1F3964] pl-4">
-          <p className="font-bold text-[#1F3964] mb-1">
-            Track Mortgage Group v. Crusader Insurance Co. (2002) 98 Cal.App.4th 857
-          </p>
-          <p className="text-gray-700 text-sm leading-relaxed">
-            An important limitation. Track held a first trust deed on a Los Angeles apartment
-            building with approximately $528,000 in debt. Track underbid at $472,500, creating a
-            deficiency of about $55,877. Track then spent over $877,000 repairing damage covered
-            by the insurance policy. The court limited Track&apos;s insurance recovery to the
-            deficiency amount &mdash; $55,877 &mdash; not the full repair cost. Even with an
-            underbid, recovery is capped at the deficiency.
-          </p>
-        </div>
-      </div>
-
-      {/* ───────── Inadvertent Full Credit Bids ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        When Lenders Make Full Credit Bids by Mistake
-      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Here is the part that should alarm every mortgage lender and interest every borrower with
-        a pending insurance claim: lenders routinely make full credit bids as an automatic
-        default practice &mdash; without considering whether the property is damaged, whether
-        there is an active insurance claim, or what the consequences will be. The bid is
-        submitted by a trustee or servicer following standard procedure, and no one stops to
-        think about the insurance implications until it is too late.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Bank of America v. Quackenbush</em> (1997) 56 Cal.App.4th 1167, Bank of America
-        held 81 loans on properties that had been grossly overvalued due to originator fraud.
-        When the loans defaulted, Bank of America <strong>inadvertently made full credit bids on
-        every single property</strong>. The bank then sought to recover under financial guarantee
-        bonds (functionally equivalent to insurance) &mdash; and was denied on all 81 claims.
-        The court held that the full credit bids conclusively established value and extinguished
-        the bank&apos;s claims. Bank of America sustained approximately <strong>$12 million in
-        unrecoverable losses</strong> because of what was essentially an automated, unthinking
-        process.
+        Having made that declaration, the lender cannot turn around and claim that the property was actually worth less — that it was damaged, that it needs repairs, that the insurance proceeds should compensate for the shortfall. The lender already said, through its bid, that there was no shortfall.
       </p>
 
-      <CalloutBox variant="legal" title="A Real-World Cautionary Tale">
-        <p className="mb-2">
-          In one case, a lender made a full credit bid at a trustee&apos;s sale on a property
-          with significant fire damage and an active insurance claim. When the consequences
-          became apparent, the lender asked the court for permission to redo the sale. The court
-          allowed it. The lender went back to auction &mdash; and inadvertently made a full
-          credit bid <em>again</em>. The court gave a second do-over. At the third auction, the
-          same thing happened. The court finally said: no more chances. The lender permanently
-          lost any right to the insurance proceeds.
-        </p>
-        <p>
-          This is what happens when full credit bids are an institutional reflex rather than a
-          deliberate decision. The bid is irrevocable, and courts have limited patience for
-          lenders who cannot stop making the same mistake.
-        </p>
-      </CalloutBox>
-
-      {/* ───────── What This Means for Homeowners ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        What This Means for Homeowners in Foreclosure
-      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you are facing foreclosure and your property has been damaged, the full credit bid
-        doctrine may work in your favor. Here is what you need to understand:
+        The California Supreme Court established this principle in <em>Cornelison v. Kornbluth</em> (1975) 15 Cal.3d 590, holding that where indebtedness secured by a deed of trust has been satisfied by foreclosure sale for the full amount of the underlying obligation, the lien is extinguished and the creditor cannot subsequently recover insurance proceeds payable for damage to the property. The lender&apos;s only interest in the property was the repayment of its debt. That interest has been satisfied. Any further payment would be a double recovery — a windfall.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        If the Lender Makes a Full Credit Bid
-      </h3>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          The debt is extinguished. You owe nothing further on the mortgage.
-        </li>
-        <li>
-          The lender&apos;s insurable interest is extinguished. The lender has no right to
-          the insurance proceeds for pre-foreclosure property damage.
-        </li>
-        <li>
-          The insurance proceeds for the building damage may belong to you as the insured under
-          the policy, depending on the specific facts and policy language.
-        </li>
-        <li>
-          You lose the property, but you may keep the insurance money.
-        </li>
-      </ul>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        If the Lender Underbids
-      </h3>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          A deficiency remains &mdash; the difference between the bid and the outstanding debt.
-        </li>
-        <li>
-          The lender may assert a claim to the insurance proceeds up to the amount of the
-          deficiency.
-        </li>
-        <li>
-          However, in a non-judicial foreclosure in California, CCP &sect;580d generally
-          prohibits the lender from pursuing a deficiency judgment against you personally.
-        </li>
-        <li>
-          Per <em>Track Mortgage Group v. Crusader Insurance</em>, the lender&apos;s insurance
-          recovery is limited to the deficiency amount, even if the actual damage exceeds it.
-        </li>
-      </ul>
-
-      {/* ───────── Creative Solutions ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        When a Full Credit Bid Creates an Opportunity
-      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Sometimes a full credit bid creates a situation that is bad for the lender but
-        potentially navigable for the homeowner. Consider what happens when a lender makes a full
-        credit bid on a fire-damaged property: the lender now owns a severely damaged home with
-        no right to the insurance proceeds. Meanwhile, the former homeowner &mdash; who may still
-        be living in the property &mdash; has an insurance claim that could fund the repairs.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In one real-world situation, this is exactly what happened. The lender made a full credit
-        bid and foreclosed on a fire-damaged home. The lender now owned a damaged property worth
-        far less than the debt it had just extinguished, with no right to the insurance proceeds.
-        The former homeowner still lived there and desperately wanted to repair and keep the
-        home.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        A Public Adjuster representing the homeowner recognized the opportunity. He contacted the
-        lender and explained the situation: the lender was stuck with a damaged property and no
-        insurance money to fix it, while the homeowner had an insurance claim and the motivation
-        to rebuild. The Public Adjuster suggested that it might be in the lender&apos;s interest
-        to work with the borrower &mdash; to cooperate in getting the property repaired using
-        the insurance proceeds, which would result in the lender having better collateral rather
-        than being stuck with a fire-damaged asset worth a fraction of the debt.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The result was a cooperative resolution: the borrower was able to stay in the home and
-        use the insurance proceeds to rebuild, while the lender ended up with a fully repaired
-        property as collateral &mdash; far better than owning a damaged house with no money to
-        fix it.
+        The rule serves two purposes. First, it prevents the lender from collecting twice: once through the property (acquired at the full debt amount) and again through the insurance proceeds. Second, it protects the integrity of the foreclosure auction. If lenders could routinely overbid and then recover the difference through insurance, they would have an incentive to inflate their bids to discourage third-party purchasers — distorting the auction process that California&apos;s nonjudicial foreclosure statutes are designed to protect.
       </p>
 
-      <CalloutBox variant="tip" title="The Public Adjuster's Role">
-        <p>
-          A Public Adjuster cannot provide legal advice about foreclosure or negotiate the terms
-          of a loan workout. But a Public Adjuster who understands the full credit bid doctrine
-          can identify when the lender has inadvertently extinguished its insurable interest,
-          advise the insured on the insurance implications, and &mdash; where appropriate &mdash;
-          help facilitate communication between the parties so that the insurance claim can be
-          resolved in a way that benefits everyone.
-        </p>
-      </CalloutBox>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Najah v. Scottsdale: The Rule Has Teeth</h2>
 
-      {/* ───────── Mortgage Holds ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        When You are Behind on Your Mortgage but Not in Foreclosure
-      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Even if your property is not yet in foreclosure, being behind on your mortgage can
-        create significant complications for your insurance claim. When the insurance company
-        issues a dwelling claim payment, the check is typically made payable to both the
-        homeowner and the mortgage company. The lender must endorse the check before the
-        homeowner can access the funds.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        If you are current on your mortgage, most lenders will endorse the check and release
-        funds in stages as repairs are completed. But if you are behind on your payments, the
-        mortgage company may{' '}
-        <strong>hold the insurance proceeds and refuse to release them</strong> until the
-        delinquency is cured &mdash; or worse, apply the insurance proceeds directly to the
-        outstanding loan balance rather than allowing them to be used for repairs.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This creates a vicious cycle: the homeowner cannot repair the property because the
-        lender is holding the money, and the lender&apos;s collateral continues to deteriorate
-        because the property is not being repaired. For a detailed guide on how mortgage company
-        holds work and how to navigate them, see our article on{' '}
-        <Link href="/resources/mortgage-company-holds" className="text-[#2E74B5] hover:underline">
-          mortgage company holds on insurance proceeds
-        </Link>.
+        In <em>Najah v. Scottsdale Insurance Co.</em> (2014) 230 Cal.App.4th 125, the California Court of Appeal applied the full credit bid rule to bar a lender from recovering under a mortgagee coverage provision even where the borrower had deliberately caused preforeclosure damage to the property.
       </p>
 
-      <CalloutBox variant="warning" title="Don't Let the Lender Apply Your Claim to the Loan Balance">
-        <p>
-          Some lenders will attempt to apply insurance proceeds to the outstanding mortgage
-          balance rather than releasing them for repairs. This may or may not be permissible
-          depending on your deed of trust language and applicable law. If your lender is
-          attempting this, you need professional help immediately &mdash; from a Public Adjuster
-          for the insurance claim side and potentially an attorney for the lending side. The
-          insurance proceeds are intended to restore the property, not to pay down your loan.
-        </p>
-      </CalloutBox>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The facts were egregious. The borrower had intentionally damaged the building before the foreclosure. The lender knew about the damage. The lender held both a first and second deed of trust, purchased the property by making a full credit bid on the second deed of trust, and then sought insurance proceeds from Scottsdale Insurance under the policy&apos;s mortgagee clause.
+      </p>
 
-      {/* ───────── Practical Guidance ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Practical Guidance: What to Do If You are in This Situation
-      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The court said no. A full credit bid is a full credit bid. By bidding the full amount owed, the lender declared itself satisfied. It could not now claim that the property was worth less than it bid and seek insurance proceeds to cover the difference. The California Supreme Court denied review on December 17, 2014, leaving the rule firmly intact.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The message to homeowners facing foreclosure is clear: if your lender makes a full credit bid, the lender&apos;s claim to your insurance proceeds may be gone — regardless of how much damage exists, regardless of whether the lender knew about the damage, and regardless of what the mortgagee clause in the policy says.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Lender&apos;s Only Alternative: Bid Less</h2>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The full credit bid rule does not prevent a lender from protecting its interest in insurance proceeds. It simply requires the lender to be honest about the property&apos;s value at the foreclosure sale.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the property is worth $300,000 but is damaged and the lender is owed $400,000, the lender can open bidding at $300,000 — or at any amount it believes reflects the property&apos;s actual value in its damaged condition. By bidding less than the full debt, the lender preserves a deficiency — the gap between what it bid and what it is owed — and can pursue insurance proceeds to cover that gap.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        But this requires the lender to pay attention. It requires someone at the bank or the loan servicer to evaluate the property&apos;s condition, understand the pending insurance claim, and instruct the foreclosure trustee to bid less than the full amount owed. For large institutional lenders processing thousands of foreclosures, this kind of individual attention to a specific property&apos;s condition is often the exception rather than the rule.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">When Lenders Discover Their Mistake Too Late</h2>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The Norwest Mortgage case illustrates what happens when a lender makes a full credit bid without thinking — and then tries to undo it.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In <em>Norwest Mortgage, Inc. v. State Farm Fire &amp; Casualty Co.</em> (2002) 97 Cal.App.4th 571 (depublished), Norwest held a mortgage on a property that had sustained fire damage. A trustee&apos;s foreclosure sale was held on April 29, with Norwest as the only bidder. The servicer made a full credit bid of $81,706.23 and obtained the property.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two months later, State Farm notified Norwest that it was denying the insurance claim — because Norwest had made a full credit bid, thereby extinguishing its right to the insurance proceeds.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The next day — literally the day after receiving the denial — Norwest faxed its trustee authorization to &ldquo;rescind&rdquo; the foreclosure sale and republish for a new sale at a lower bid. Norwest then held a second trustee&apos;s sale on November 9. But the substitute trustee, apparently not getting the message, made another full credit bid on Norwest&apos;s behalf. Norwest claimed it rescinded that sale too.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A third foreclosure sale was held on January 5, 1999, where Norwest finally managed to bid only $11,500.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The court rejected Norwest&apos;s attempt to rescue itself. Rescission of a completed trustee&apos;s sale is not contemplated by California&apos;s comprehensive nonjudicial foreclosure statutory scheme. A lender cannot make a full credit bid, discover it made a mistake, unilaterally rescind the sale, and try again with a lower bid. The sale was final. The full credit bid rule applied. State Farm owed nothing.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The remarkable aspect of this case is that the same lender made the same mistake — a full credit bid — at two consecutive foreclosure sales on the same property, apparently unable to communicate internally that the full credit bid was precisely the problem they were trying to solve. The court had no sympathy. The statutory scheme does not provide a do-over for institutional negligence.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">When Lenders Have Been Allowed to Set Aside Sales</h2>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Courts have occasionally permitted foreclosure sales to be set aside, but only under narrow circumstances — and generally not for the lender&apos;s own unilateral mistake in bidding.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In <em>Biancalana v. T.D. Service Co.</em>, the California Supreme Court allowed a trustee to void a sale where the auctioneer had accepted a bid of $21,894.17 instead of the correct opening bid of $219,105.00 — a decimal-point error by the trustee, not a strategic miscalculation by the lender. The court emphasized that the error was discovered before the trustee&apos;s deed was delivered, and that the trustee (not the lender) exercised its discretionary authority to void the sale.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        By contrast, in <em>6 Angels, Inc. v. Stuart-Wright Mortgage, Inc.</em>, where the lender itself was responsible for providing an incorrect bid amount to the trustee, the court refused to set aside the sale. The lender&apos;s own negligence — even a $90,000 error — did not constitute a procedural irregularity in the foreclosure sale itself.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The distinction matters: a clerical error by the trustee in conducting the sale may be correctable. A strategic failure by the lender to account for property damage when setting its bid is the lender&apos;s problem.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What This Means for Homeowners With Insurance Claims</h2>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you are a homeowner facing foreclosure and you have a pending insurance claim — whether for fire, water, wind, or any other covered peril — the full credit bid rule creates an opportunity that most homeowners and even most attorneys don&apos;t recognize:
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>If the bank makes a full credit bid, the bank loses its claim to your insurance proceeds.</strong>
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under the standard mortgage clause (California Insurance Code Section 2071), the lender ordinarily has an independent right to collect insurance proceeds up to the amount of the secured debt. This right exists separately from the borrower&apos;s rights — the lender can collect even if the borrower&apos;s coverage has been voided or the borrower committed fraud. It is one of the most powerful protections in mortgage lending.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        But the full credit bid extinguishes that right. The debt no longer exists. The lien no longer exists. The lender&apos;s interest — which was always and only the repayment of the debt — has been satisfied by its own declaration at the foreclosure sale.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The insurance proceeds that remain are proceeds for damage to the property. After a full credit bid, the former borrower may be the only party with a remaining claim to those proceeds, depending on the policy terms and the timing of the loss relative to the sale.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Loan Workout Strategy: Making the Bank See Reason</h2>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There is another scenario that plays out more often than you might expect — one where the full credit bid rule becomes leverage for negotiation rather than litigation.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Consider: a bank is owed $400,000. The property is damaged. The insurance claim is worth $150,000. The bank, following its standard procedures, makes a full credit bid at the foreclosure sale. It now owns a damaged property that it believed was worth $400,000 but is actually worth $250,000 in its damaged condition. And it has no right to the insurance proceeds because of its own full credit bid.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The bank is now stuck. It owns a property worth far less than it paid. It cannot collect the insurance proceeds. It paid $400,000 (in the form of extinguished debt) for a property worth $250,000.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In this situation, a sophisticated public adjuster or attorney representing the insured can approach the bank with a proposal: rescind the foreclosure. Let the borrower keep the property. Work out the loan — modify it, reduce the principal, extend the term, whatever makes the math work. The borrower stays in the home, continues making payments on a modified loan, collects the insurance proceeds, repairs the property, and the bank&apos;s collateral is restored to full value.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is not charity. This is the bank doing math. A damaged property it overpaid for, with no insurance recovery possible, is worth less to the bank than a performing modified loan secured by a property that will be repaired with insurance proceeds. The bank&apos;s loss on a loan workout is smaller than its loss on a full credit bid for damaged property.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This has happened. Public adjusters representing insureds in foreclosure have convinced banks to rescind completed foreclosures — to unwind the sale by mutual agreement — because the bank&apos;s own full credit bid made the foreclosure economically irrational. The bank gets a performing loan. The borrower gets to stay in their home. The insurance proceeds go to repair the property, restoring the bank&apos;s collateral value. Everyone wins — except perhaps the bank&apos;s foreclosure department, which has to explain to its superiors why it made a full credit bid on a damaged property without checking whether there was an open insurance claim.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Practical Considerations</h2>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Timing Matters</h3>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The full credit bid rule applies to damage that existed before the foreclosure sale. If the property is damaged after the lender acquires it through foreclosure, the lender may have its own insurance coverage (an REO policy) and the full credit bid rule is not implicated.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For borrowers, this means the insurance claim should be initiated — and ideally, substantially documented — before the foreclosure sale occurs. The damage must be pre-existing, not prospective.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">The Deed Delivery Creates Finality</h3>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under California Civil Code Section 2924h, a trustee&apos;s sale is deemed final upon acceptance of the last and highest bid. The sale is perfected as of 8:00 a.m. on the date of sale if the trustee&apos;s deed is recorded within 21 calendar days. Once that deed is delivered and recorded, the sale enjoys a conclusive presumption of regularity.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This means the window for challenging or unwinding a full credit bid is narrow. But it also means the lender cannot easily escape the consequences of its bid once the deed is recorded.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">The Rule Applies Regardless of the Lender&apos;s Knowledge</h3>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One of the most powerful aspects of the full credit bid rule is that it applies regardless of whether the lender knew about the property damage. In <em>Najah</em>, the lender knew about deliberate damage and bid full credit anyway. The rule still applied. A lender cannot argue &ldquo;we didn&apos;t know&rdquo; or &ldquo;we forgot to account for the damage&rdquo; — the bid speaks for itself.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Not Limited to California</h3>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        While California has the most developed case law on the full credit bid rule, the underlying principle — that a full credit bid satisfies the debt and extinguishes the lien — is recognized in other states, particularly those with nonjudicial foreclosure schemes modeled on California&apos;s approach. Homeowners in any state where the lender can credit bid at a foreclosure sale should investigate whether a similar rule applies.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What to Do If You&apos;re Facing Foreclosure With an Open Insurance Claim</h2>
+
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
-        <li>
-          <strong>File and pursue your insurance claim immediately.</strong> Do not assume that
-          because you are in foreclosure, you have no right to file a claim. You are still the
-          insured under the policy until the foreclosure is completed. Document everything
-          thoroughly.
-        </li>
-        <li>
-          <strong>Monitor the trustee&apos;s sale.</strong> Pay attention to what the lender bids
-          at the auction. If the lender makes a full credit bid, that fact may be critically
-          important to your insurance claim. Obtain a copy of the trustee&apos;s deed upon sale,
-          which will reflect the bid amount.
-        </li>
-        <li>
-          <strong>Understand your policy&apos;s loss payee clause.</strong> Most homeowner&apos;s
-          policies include a standard mortgage clause that protects the lender&apos;s interest.
-          But if the lender&apos;s insurable interest is extinguished by a full credit bid, the
-          mortgage clause may no longer operate in the lender&apos;s favor.
-        </li>
-        <li>
-          <strong>Get professional help early.</strong> This is not a situation to navigate
-          alone. A{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            Public Adjuster
-          </Link>{' '}
-          can handle the insurance claim, and an{' '}
-          <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] hover:underline">
-            attorney
-          </Link>{' '}
-          can advise on the foreclosure and lending side. The intersection of these two areas
-          requires expertise in both.
-        </li>
-        <li>
-          <strong>Document the lender&apos;s bid amount.</strong> If the lender makes a full
-          credit bid and then attempts to claim the insurance proceeds, you have a strong legal
-          argument that the lender has been made whole and has no right to the insurance money.
-          The case law is clear.
-        </li>
-        <li>
-          <strong>Do not assume you have no options.</strong> Even if you are losing your home,
-          you may still have rights to the insurance proceeds. And even if the lender initially
-          holds the proceeds, the situation may be navigable with the right professional guidance.
-        </li>
+        <li><strong>Do not assume the bank automatically gets the insurance money.</strong> The bank&apos;s right to insurance proceeds depends on its lien existing at the time it seeks to collect. A full credit bid can extinguish that lien.</li>
+        <li><strong>Monitor the foreclosure sale.</strong> Find out what the bank bid. If it made a full credit bid, document that fact immediately.</li>
+        <li><strong>Continue prosecuting your insurance claim.</strong> The claim belongs to you as the insured. The <Link href="/resources/mortgage-company-holds" className="text-[#2E74B5] underline">mortgage clause</Link> gives the lender certain rights, but those rights can be extinguished by the lender&apos;s own actions at the foreclosure sale.</li>
+        <li><strong>Consult a public adjuster and an attorney who understand both insurance law and foreclosure law.</strong> This intersection is highly specialized. Most foreclosure attorneys don&apos;t think about insurance implications, and most insurance professionals don&apos;t think about foreclosure bidding strategy. You need someone who understands both.</li>
+        <li><strong>Consider the loan workout approach.</strong> If the bank has already made a full credit bid, it may be in everyone&apos;s interest to unwind the foreclosure. The bank may not realize what it has done until someone explains it to them. That explanation, backed by case law, can be the beginning of a negotiation that keeps you in your home.</li>
       </ol>
 
-      {/* ───────── Key Takeaways ───────── */}
-      <CalloutBox variant="important" title="Key Takeaways">
-        <ul className="list-disc pl-5 space-y-2">
-          <li>
-            In California, non-judicial foreclosure means the lender cannot pursue a deficiency
-            judgment against you (CCP &sect;580d).
-          </li>
-          <li>
-            A full credit bid extinguishes the debt <strong>and</strong> the lender&apos;s
-            insurable interest &mdash; the lender loses any right to insurance proceeds for
-            property damage.
-          </li>
-          <li>
-            An underbid preserves the lender&apos;s right to insurance proceeds, but only up to
-            the amount of the deficiency.
-          </li>
-          <li>
-            Lenders routinely make full credit bids automatically, without considering the
-            insurance consequences. This can create an opportunity for the insured.
-          </li>
-          <li>
-            If you are behind on your mortgage but not yet in foreclosure, your lender may hold
-            your insurance proceeds or attempt to apply them to your loan balance. Get
-            professional help.
-          </li>
-          <li>
-            The intersection of foreclosure and insurance claims is one of the most legally
-            complex areas in property insurance. Do not try to navigate it alone.
-          </li>
-        </ul>
-      </CalloutBox>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Bottom Line</h2>
 
-      {/* ───────── Sources ───────── */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Legal References
-      </h2>
-      <ul className="list-disc pl-6 space-y-1 text-gray-600 text-sm mb-8">
-        <li>California Civil Code &sect;&sect;2924&ndash;2924k &mdash; Non-judicial foreclosure procedures</li>
-        <li>California Code of Civil Procedure &sect;580b &mdash; Anti-deficiency (purchase money loans)</li>
-        <li>California Code of Civil Procedure &sect;580d &mdash; Anti-deficiency (non-judicial foreclosure)</li>
-        <li><em>Cornelison v. Kornbluth</em> (1975) 15 Cal.3d 590 &mdash; Full credit bid doctrine established</li>
-        <li><em>Alliance Mortgage Co. v. Rothwell</em> (1995) 10 Cal.4th 1226 &mdash; Full credit bid bars insurance proceeds; fraud exception</li>
-        <li><em>Najah v. Scottsdale Insurance Co.</em> (2014) 230 Cal.App.4th 125 &mdash; Full credit bid extinguishes loss payee rights</li>
-        <li><em>Armsey v. Channel Associates</em> (1986) 184 Cal.App.3d 833 &mdash; Underbid preserves insurance rights</li>
-        <li><em>Track Mortgage Group v. Crusader Insurance Co.</em> (2002) 98 Cal.App.4th 857 &mdash; Recovery capped at deficiency amount</li>
-        <li><em>Bank of America v. Quackenbush</em> (1997) 56 Cal.App.4th 1167 &mdash; Inadvertent full credit bids on 81 properties</li>
-      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Banks make full credit bids out of habit. Loan servicers process foreclosures by the thousands, and the default instruction to the trustee is often &ldquo;bid what we&apos;re owed.&rdquo; Nobody checks whether the property is damaged. Nobody checks whether there&apos;s an open insurance claim. Nobody thinks about the consequences of declaring, through a bid, that the property is worth the full amount of the debt when it plainly is not.
+      </p>
 
-      {/* ───────── CTA ───────── */}
-      <LeadCaptureForm
-        claimType="foreclosure-insurance"
-        heading="Dealing With Foreclosure and an Insurance Claim?"
-        description="This is one of the most complex intersections in property insurance. A licensed Public Adjuster can help you navigate the insurance claim side while coordinating with your legal counsel on the foreclosure. Free consultation."
-      />
+      <p className="text-gray-700 leading-relaxed mb-4">
+        That institutional inattention is the homeowner&apos;s opportunity. A full credit bid extinguishes the debt, extinguishes the lien, and can extinguish the lender&apos;s right to insurance proceeds. If you&apos;re facing foreclosure and you have an insurance claim, the bank&apos;s own bidding behavior may be the key to keeping those proceeds — or to negotiating a workout that keeps you in your home.
+      </p>
 
-      <CalloutBox variant="legal" title="Important Notice">
-        <p>
-          This article is provided for general educational purposes only and does not constitute
-          legal advice. Insurance policies, regulations, and case law can vary significantly based
-          on individual circumstances. Consult a licensed attorney for advice about your specific
-          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
-          a licensed Public Adjuster may be able to assist.
-        </p>
-      </CalloutBox>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The law rewards those who pay attention. In this case, the people who aren&apos;t paying attention are often the banks.
+      </p>
+
+      <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center">
+        <h3 className="text-lg font-bold text-[#1F3964] mb-2">Facing Foreclosure With an Open Insurance Claim?</h3>
+        <p className="text-gray-600 text-sm mb-4">The intersection of foreclosure law and insurance claims requires specialized knowledge. A full credit bid by your lender could change everything about who is entitled to your insurance proceeds.</p>
+        <Link href="/contact" className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors">Request a Free Claim Review &rarr;</Link>
+      </div>
     </>
   )
 }
