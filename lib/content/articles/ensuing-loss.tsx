@@ -53,9 +53,11 @@ export default function Content() {
         To use the ensuing loss provision, you must show that the damage you are claiming is <strong>separate and distinct</strong> from the excluded cause of loss. The damage must be attributable to a peril that is not otherwise excluded under the policy.
       </p>
 
-      <CalloutBox variant="tip" title="Consequential Loss = Ensuing Loss">
+      <CalloutBox variant="warning" title="Ensuing Loss vs. Consequential Damages: Not the Same Thing">
         <p>
-          In online forums and sometimes in coverage determination letters, you will see the term &ldquo;consequential loss.&rdquo; Consequential loss is the same concept as ensuing loss &mdash; damage that results from an excluded event. The terms are interchangeable. If you see &ldquo;consequential damages&rdquo; in a denial letter or policy, you are dealing with an ensuing loss analysis.
+          Some online forums and even some coverage letters use &ldquo;consequential loss&rdquo; and &ldquo;ensuing loss&rdquo; interchangeably. They should not. Ensuing loss is a <strong>coverage</strong> concept &mdash; a savings clause in the policy that restores coverage for damage resulting from an excluded event. Consequential damages are a <strong>remedy</strong> concept &mdash; additional losses you can recover when the insurer breaches its obligations (like lost rent, emotional distress, or business losses caused by the insurer&apos;s delay). They operate at different stages of a claim and have different legal requirements. See our{' '}
+          <Link href="/resources/consequential-vs-ensuing-damages" className="text-[#2E74B5] hover:underline">detailed comparison</Link>
+          {' '}for the full analysis.
         </p>
       </CalloutBox>
 

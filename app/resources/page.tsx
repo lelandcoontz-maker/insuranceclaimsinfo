@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { CATEGORIES } from '@/lib/content/categories'
 import { ResourcesClient } from '@/components/resources/ResourcesClient'
+import { SearchBar } from '@/components/search/SearchBar'
 
 export const metadata: Metadata = {
   title: 'California Insurance Claim Resources',
@@ -18,10 +19,14 @@ export default function ResourcesPage() {
           <h1 className="text-3xl font-bold mb-3">
             California Insurance Claim Resources
           </h1>
-          <p className="text-blue-200 max-w-2xl leading-relaxed">
+          <p className="text-blue-200 max-w-2xl leading-relaxed mb-6">
             Plain-English guides written for California policyholders. No jargon,
             no paywalls. Everything you need to understand your policy, navigate
             the claims process, and fight for what you&apos;re owed.
+          </p>
+          <SearchBar />
+          <p className="text-blue-300 text-xs mt-2">
+            Searching across 230+ articles. Results appear as you type.
           </p>
         </div>
       </div>

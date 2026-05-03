@@ -587,6 +587,41 @@ export default function Content() {
         at all. Overhead, profit, permits, and other current costs are not depreciable. And the
         insurer must provide an itemized justification for every depreciation deduction.
       </p>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        CDI Has Found Insurers Guilty of Excessive Depreciation
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The California Department of Insurance has formally documented excessive depreciation
+        practices through market conduct examinations. In November 2023, the CDI issued a
+        Stipulation and Order against the California FAIR Plan Association following a market
+        conduct exam covering October 2020 through September 2023. The examination found that
+        the FAIR Plan had improperly applied depreciation to items not normally subject to
+        repair or replacement during their useful life &mdash; exactly the kind of excessive
+        depreciation described throughout this article.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The CDI also found problems with how the FAIR Plan handled personal property
+        depreciation: when policyholders submitted inventories but left condition fields blank,
+        items were defaulted to &ldquo;average&rdquo; condition unless their age indicated
+        they were new. New and perishable items were not depreciated. As part of the corrective
+        action, the FAIR Plan hired internal claim examiners, quality auditors, and trainers,
+        and implemented monthly quality assurance audits of both independent adjuster and
+        internal staff file handling.
+      </p>
+
+      <CalloutBox variant="important" title="CDI Market Conduct Exams Are Public Record">
+        <p>
+          When the CDI finds that an insurer has engaged in improper depreciation practices,
+          the examination report becomes part of the public record. If your insurer is applying
+          depreciation in ways that seem unreasonable, check the CDI&rsquo;s{' '}
+          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+            examination reports database
+          </Link>{' '}
+          to see if the same insurer has been cited for similar violations. A prior CDI finding
+          of improper depreciation is powerful ammunition for your dispute.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Most policyholders never challenge depreciation because they don&rsquo;t know these
         rules exist. Now you do. If your insurer has applied excessive depreciation to your

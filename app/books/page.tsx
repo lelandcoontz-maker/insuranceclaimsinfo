@@ -127,10 +127,10 @@ const BOOKS: Book[] = [
     title: 'The Law and Procedure of Insurance Appraisal (3rd Edition)',
     author: 'Jonathan J. Wilkofsky',
     description:
-      'The definitive treatise on insurance appraisal. Nearly 1,400 pages, 1,200+ citations, national coverage with state-by-state comparison. Covers scope of the appraisal provision, coverage vs. amount disputes, umpire qualifications, waiver, and form awards. Wilkofsky is General Counsel to the New York Public Adjusters Association. Updated annually.',
+      'The single most important book for anyone involved in insurance appraisal — there is no substitute. Nearly 1,400 pages with over 1,200 citations covering every jurisdiction in the United States. Provides state-by-state comparison of appraisal law, scope limitations (coverage vs. amount), umpire selection and qualifications, waiver and estoppel, form awards, and the intersection of appraisal with litigation. Wilkofsky is General Counsel to the New York Public Adjusters Association and has litigated appraisal disputes for decades. Updated annually with new case law. If you participate in appraisal panels — as appraiser, umpire, or counsel — this is your primary authority. Every argument you make and every objection you raise should be supportable by citation to this treatise.',
     asin: '0972927840',
     category: 'Insurance Appraisal',
-    tag: 'Definitive Reference',
+    tag: 'Essential — No Substitute',
     tagColor: 'bg-amber-100 text-amber-700',
   },
   {
@@ -462,14 +462,25 @@ export default function BooksPage() {
         {/* Compiler's note */}
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-5">
           <h3 className="font-bold text-amber-900 mb-2">Where to Start</h3>
-          <p className="text-sm text-gray-700 leading-relaxed">
+          <p className="text-sm text-gray-700 leading-relaxed mb-3">
             If you are a <strong>policyholder</strong> dealing with a claim, start with{' '}
             <em>Delay, Deny, Defend</em> and <em>Pay Up!</em> — they will help you understand
-            why the insurance company behaves the way it does. If you are a <strong>Public Adjuster
-            or claims professional</strong>, the Wilkofsky appraisal treatise and the Croskey/Rutter
-            Group guide are the two books most directly applicable to active California appraisal and
-            bad faith work. The Feinman and Berardinelli books are most useful for framing bad faith
-            demand letters in language that resonates with litigation risk.
+            why the insurance company behaves the way it does. The Feinman and Berardinelli books
+            are most useful for framing bad faith demand letters in language that resonates with
+            litigation risk.
+          </p>
+          <p className="text-sm text-gray-700 leading-relaxed mb-3">
+            If you are a <strong>Public Adjuster, appraiser, umpire, or claims attorney</strong>,
+            the Wilkofsky treatise is non-negotiable. It is the only comprehensive authority on
+            insurance appraisal law in the United States — there is no competing work of comparable
+            scope or citation depth. Every appraisal panel participant should own a current edition.
+            Arguments made without Wilkofsky citations are arguments made without authority. The
+            Croskey/Rutter Group California Practice Guide is the companion volume for bad faith and
+            coverage litigation.
+          </p>
+          <p className="text-sm text-gray-700 leading-relaxed">
+            For <strong>construction and estimating</strong>, the National Construction Estimator and
+            RSMeans are essential for challenging Xactimate pricing with independent market data.
           </p>
         </div>
 

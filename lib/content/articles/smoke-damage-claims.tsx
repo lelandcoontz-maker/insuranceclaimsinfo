@@ -424,6 +424,48 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        CDI Smoke Damage Task Force Findings
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Following the 2017&ndash;2018 California wildfire seasons, the California Department of
+        Insurance (CDI) formed a <strong>Smoke Damage Claims Task Force</strong> to investigate
+        how insurers were handling smoke-only claims &mdash; properties that were not directly
+        burned but sustained smoke contamination from nearby wildfires. The task force&apos;s
+        findings confirmed what policyholders and their advocates had been saying for years:
+        insurers were systematically underpaying and improperly denying smoke damage claims.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Key findings included:
+      </p>
+      <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+        <li>Carriers were relying on visual inspections alone, without ordering environmental testing, to determine that no smoke damage existed</li>
+        <li>Adjusters were classifying smoke-damaged homes as having only &ldquo;odor&rdquo; issues and applying minimal cleaning payments rather than proper remediation</li>
+        <li>Some insurers applied arbitrary distance cutoffs &mdash; denying smoke claims for properties more than a certain distance from the fire perimeter, regardless of actual contamination levels</li>
+        <li>Testing protocols, when used, were often inadequate: too few samples, wrong sampling methods, or reliance on air testing alone (which does not detect settled particulate contamination on surfaces)</li>
+        <li>Carriers were not advising policyholders of their right to independent testing or their right to choose their own remediation contractor</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        These findings contributed to the passage of California&apos;s{' '}
+        <strong>Smoke Damage Recovery Act</strong>, which established that smoke damage is a
+        covered peril requiring proper investigation and that insurers cannot deny smoke claims
+        without scientific testing. The CDI&apos;s task force work also informed subsequent{' '}
+        <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">
+          Fair Claims Settlement Practices
+        </Link>{' '}
+        enforcement actions against carriers that failed to properly investigate smoke claims.
+      </p>
+
+      <CalloutBox variant="info" title="CDI Market Conduct Exams Are Public Record">
+        <p>
+          The CDI publishes the results of market conduct examinations on its website. If your
+          insurer has been cited for improper smoke damage claims handling, those findings can
+          support your own dispute. Ask your adjuster whether the carrier has been subject to
+          CDI enforcement related to smoke claims &mdash; and check the CDI&apos;s public records
+          yourself.
+        </p>
+      </CalloutBox>
+
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
           Smoke Damage Claim Being Minimized?

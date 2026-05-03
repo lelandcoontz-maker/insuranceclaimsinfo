@@ -108,6 +108,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'third-party-vs-first-party',
     'soft-costs-claims',
     'large-commercial-losses',
+    'cdi-36-month-ale',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

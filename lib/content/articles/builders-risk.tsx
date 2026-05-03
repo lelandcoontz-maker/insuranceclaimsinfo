@@ -51,6 +51,18 @@ export default function Content() {
           carry builder&rsquo;s risk on the entire development, sometimes with coverage that
           adjusts as individual units are completed and sold.
         </li>
+        <li>
+          <strong>Lenders and mortgage companies</strong> may require builder&rsquo;s risk as a
+          condition of a construction loan, and in some cases purchase it directly to protect
+          their security interest in the project.
+        </li>
+        <li>
+          <strong>Material suppliers</strong> who have a financial interest in materials being
+          delivered to a construction site can also purchase builder&rsquo;s risk coverage.
+          Materials stored on-site, off-site, or in transit are at risk of theft, fire,
+          vandalism, and weather damage. A material supplier with unpaid invoices has a clear
+          insurable interest and can be named as an insured on the policy.
+        </li>
       </ul>
 
       <CalloutBox variant="warning" title="Verify Coverage Before Construction Begins">

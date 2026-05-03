@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The CLUE Database: How Your Claims History Follows You',
+  title: 'CLUE and A-PLUS: How Your Claims History Follows You',
   description:
-    'What the CLUE database is, how insurance companies use it against you, and what to do if it contains errors about your claims history.',
+    'What the CLUE and A-PLUS databases are, how insurance companies use your claims history against you, your FCRA rights, and how to dispute inaccurate entries that can cost you coverage.',
 }
 
 export default function Content() {
@@ -316,6 +316,92 @@ export default function Content() {
           that most policyholders never think to check.
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        A-PLUS: The Other Claims Database You Don&apos;t Know About
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CLUE is not the only claims database. Verisk (the same company that owns ISO and has ties to
+        Xactimate) operates a competing system called A-PLUS &mdash; the Automated Property Loss
+        Underwriting System. While CLUE is more widely known, A-PLUS is used by many major carriers
+        that do not participate in CLUE, or that contribute to both systems.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A-PLUS functions similarly to CLUE: it collects claims data from participating insurers and
+        makes it available for underwriting and claims evaluation. The key difference is which
+        carriers participate. Some insurers report only to CLUE, some only to A-PLUS, and some
+        report to both. This means that pulling only one report may not give you the complete picture
+        of what insurers can see about your claims history.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        You can request your A-PLUS report from Verisk, just as you can request your CLUE report
+        from LexisNexis. Both are free under federal law. If you are concerned about your claims
+        history or planning a major insurance decision, request both reports to get the full picture.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        FCRA: Your Federal Rights Over Claims Databases
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Both CLUE and A-PLUS are classified as &ldquo;consumer reports&rdquo; under the federal{' '}
+        <strong>Fair Credit Reporting Act (FCRA)</strong>, 15 U.S.C. &sect; 1681 et seq. This
+        classification gives you significant legal rights:
+      </p>
+      <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+        <li><strong>Right to a free annual report</strong> &mdash; You are entitled to one free copy of each report every 12 months.</li>
+        <li><strong>Right to dispute inaccurate information</strong> &mdash; If your report contains errors, you can file a formal dispute. The database operator must investigate within 30 days.</li>
+        <li><strong>Right to notification of adverse action</strong> &mdash; If an insurer denies you coverage, raises your premium, or takes other adverse action based on a CLUE or A-PLUS report, they must notify you and tell you which report they used.</li>
+        <li><strong>Right to add a consumer statement</strong> &mdash; If a dispute does not resolve in your favor, you can add a 100-word statement to the file explaining your side.</li>
+        <li><strong>Right to sue for violations</strong> &mdash; If LexisNexis or Verisk fails to follow FCRA procedures, you can sue for actual damages, statutory damages (up to $1,000 per violation), and attorney&apos;s fees.</li>
+      </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Disputing Inaccurate Information
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Inaccurate claims database entries are more common than most people realize. Common errors include:
+      </p>
+      <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+        <li><strong>Claims that were opened but never paid</strong> &mdash; An inquiry or inspection that was reported as a &ldquo;claim&rdquo;</li>
+        <li><strong>Incorrect claim amounts</strong> &mdash; The loss amount reported does not match what was actually paid</li>
+        <li><strong>Wrong cause of loss</strong> &mdash; A water damage claim reported as a &ldquo;fire&rdquo; claim, or vice versa</li>
+        <li><strong>Claims attributed to the wrong property</strong> &mdash; An address error that ties someone else&apos;s claim to your property</li>
+        <li><strong>Claims attributed to the wrong person</strong> &mdash; Name/identity matching errors</li>
+        <li><strong>Duplicate entries</strong> &mdash; The same claim appearing multiple times</li>
+        <li><strong>Claims that should have aged off</strong> &mdash; Entries older than seven years that remain on the report</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        To dispute an error, submit a written dispute to LexisNexis (for CLUE) or Verisk (for A-PLUS)
+        identifying the specific entry and explaining why it is inaccurate. Include supporting
+        documentation: a letter from the insurer confirming no claim was paid, the correct claim
+        details, or proof that the entry belongs to a different property or person. Under the FCRA,
+        the database operator must investigate within 30 days and either correct the information or
+        explain why it will not be changed.
+      </p>
+
+      <CalloutBox variant="warning" title="Inaccurate Reports Can Cost You Coverage">
+        <p>
+          An incorrect CLUE or A-PLUS entry can result in non-renewal, higher premiums, or outright
+          denial of coverage &mdash; and most policyholders never check their reports. Insurance
+          companies rely on these databases heavily during underwriting. If your report incorrectly
+          shows a history of water damage claims, for example, you may be unable to obtain coverage
+          at any price in certain markets. Check your reports annually and dispute any errors
+          immediately. Do not wait until you need new coverage to discover a problem.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        How to Request Your Reports
+      </h2>
+      <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+        <li><strong>CLUE (LexisNexis)</strong> &mdash; Request online at the LexisNexis Consumer Disclosure portal, by phone at (866) 312-8076, or by mail. You will need to verify your identity.</li>
+        <li><strong>A-PLUS (Verisk)</strong> &mdash; Request by phone at (800) 627-3487 or by mail to Verisk Consumer Inquiry, P.O. Box 105108, Atlanta, GA 30348. Written requests must include your full name, current and prior addresses for 7 years, date of birth, and Social Security number.</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Both reports are free once per year. If you have been denied coverage or received an adverse
+        action notice citing a CLUE or A-PLUS report, you are entitled to an additional free copy
+        within 60 days of the adverse action.
+      </p>
 
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">

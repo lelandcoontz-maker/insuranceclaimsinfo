@@ -242,6 +242,67 @@ export default function Content() {
         consequence of filing the claim &mdash; file a complaint with CDI citing &sect;663.5(b).
       </p>
 
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Unrepaired Property Catch-22
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One of the cruelest scenarios in California insurance is when a policyholder with an
+        open claim receives a non-renewal notice while their home is still damaged and
+        unrepaired. The carrier has not yet paid enough &mdash; or anything at all &mdash; to
+        fund the repairs, so the property sits in its damaged condition. When the policyholder
+        tries to find replacement coverage from a new carrier, they discover that no insurer
+        will write a policy on a damaged, unrepaired home. The policyholder is trapped:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          They cannot repair the home because the insurer has not paid the claim
+        </li>
+        <li>
+          They cannot get new insurance because the home is unrepaired
+        </li>
+        <li>
+          Without insurance, they may be in default on their mortgage
+        </li>
+        <li>
+          The lender may force-place an expensive, limited policy that does not cover the
+          existing damage
+        </li>
+      </ul>
+
+      <CalloutBox variant="warning" title="The Unrepaired Home Trap">
+        <p>
+          If your insurer non-renews you while your home is damaged and unpaid, you face a
+          coverage gap that no amount of shopping can fix. The{' '}
+          <Link href="/resources/california-fair-plan" className="text-blue-700 underline hover:text-blue-900">
+            California FAIR Plan
+          </Link>{' '}
+          may be your only option, but even the FAIR Plan may impose conditions or limitations
+          on unrepaired properties. Document the carrier&apos;s failure to pay &mdash; this
+          timeline becomes powerful evidence of{' '}
+          <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">
+            bad faith
+          </Link>{' '}
+          if the carrier&apos;s own delay in paying the claim is what created the insurability
+          problem.
+        </p>
+      </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This situation is not theoretical. After the 2025 Palisades and Eaton fires, thousands
+        of policyholders found themselves in exactly this position &mdash; homes partially
+        damaged, claims underpaid or delayed, and carriers issuing non-renewal notices. The
+        combination of the carrier&apos;s delay in paying and the non-renewal notice creates
+        a cascading failure that leaves the policyholder worse off at every step. If the
+        carrier&apos;s own conduct &mdash; failing to promptly investigate, adjust, and pay
+        the claim under the{' '}
+        <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
+          Fair Claims Settlement Practices Regulations
+        </Link>{' '}
+        &mdash; is what prevented the policyholder from repairing the home before the
+        non-renewal took effect, that is a strong indicator of bad faith. The carrier
+        cannot create the problem and then walk away from it.
+      </p>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What to Do When You Receive a Non-Renewal Notice
       </h2>

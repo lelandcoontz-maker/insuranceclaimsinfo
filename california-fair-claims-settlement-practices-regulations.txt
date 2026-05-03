@@ -1,0 +1,1489 @@
+================================================================================
+CALIFORNIA FAIR CLAIMS SETTLEMENT PRACTICES REGULATIONS
+Title 10, California Code of Regulations, Sections 2695.1 through 2695.14
+(Subchapter 7.5 - Fair Claims Settlement Practices Regulations)
+================================================================================
+
+Source: Cornell Law Institute (law.cornell.edu)
+Retrieved: April 4, 2026
+
+NOTE: This document was compiled from web fetches of the Cornell Law Institute
+regulatory database. While every effort was made to capture verbatim text,
+users should verify against the official California Code of Regulations
+for any critical legal use. Some subsections of 2695.10 may reflect
+paraphrased language where the source tool could not reproduce full verbatim
+text -- those subsections are marked accordingly.
+
+================================================================================
+SECTION 2695.1 - PREAMBLE
+================================================================================
+
+(a) Section 790.03(h) of the California Insurance Code enumerates sixteen
+claims settlement practices that, when either knowingly committed on a single
+occasion, or performed with such frequency as to indicate a general business
+practice, are considered to be unfair claims settlement practices and are,
+thus, prohibited by this section of the California Insurance Code. The
+Insurance Commissioner has promulgated these regulations in order to
+accomplish the following objectives:
+
+  (1) To delineate certain minimum standards for the settlement of claims
+  which, when violated knowingly on a single occasion or performed with such
+  frequency as to indicate a general business practice shall constitute an
+  unfair claims settlement practice within the meaning of Insurance Code
+  Section 790.03(h);
+
+  (2) To promote the good faith, prompt, efficient and equitable settlement
+  of claims on a cost effective basis;
+
+  (3) To discourage and monitor the presentation to insurers of false or
+  fraudulent claims; and,
+
+  (4) To encourage the prompt and thorough investigation of suspected
+  fraudulent claims and ensure the prompt and comprehensive reporting of
+  suspected fraudulent claims as required by Insurance Code Section 1872.4.
+
+(b) These regulations are not meant to provide the exclusive definition of all
+unfair claims settlement practices. Other methods, act(s), or practices not
+specifically delineated in this set of regulations may also be unfair claims
+settlement practices and subject to California Insurance Code Section
+790.03(h) and/or California Insurance Code Section 790.06. These regulations
+are applicable to the handling or settlement of all claims subject to Article
+6.5 of Division 1, Part 2, Chapter 1 of the California Insurance Code,
+commencing with Section 790, except as specifically provided below:
+
+  (1) Workers' compensation insurance;
+
+  (2) Liability insurance for the professional malpractice of health care
+  providers as defined in California Code of Civil Procedure Section
+  364(f)(1);
+
+  (3) Self insured or self funded plans which are bona fide Employee
+  Retirement Income Security Act ("ERISA") plans which are not also multiple
+  employer welfare arrangements, to the extent that these ERISA plans are not
+  covered by insurance;
+
+  (4) Any other self funded or self insured plan, to the extent it is not
+  covered by insurance, which is lawfully conducting business in this state.
+
+(c) In recognition of both the unique relationship which exists under a surety
+bond between the surety, the obligee or beneficiary, and the principal, and
+the fact that the processing of surety claims is subject to the Unfair
+Practices Act, beginning with California Insurance Code Section 790, only
+sections 2695.1 through 2695.6, inclusive, section 2695.10, and sections
+2695.12, 2695.13 and 2695.14, inclusive, shall apply to the handling or
+settlement of claims brought under surety bonds.
+
+(d) These regulations apply to home protection contracts and home protection
+companies defined in California Insurance Code Section 12740.
+
+(e) All licensees, as defined in these regulations, shall have thorough
+knowledge of the regulations contained in this subchapter.
+
+(f) Policy provisions relating to the investigation, processing and settlement
+of claims shall be consistent with or more favorable to the insured than the
+provisions of these regulations.
+
+(g) The California Insurance Code provides the commissioner with access to all
+records of an insurer and the power to examine the affairs of every person
+engaged in the business of insurance to determine if such person is engaged in
+any unfair or deceptive act or practice. California Insurance Code Section
+790.03(h) requires all persons engaged in the business of insurance to
+effectuate prompt, fair and equitable settlements of claims and to otherwise
+process claims in a fair and reasonable manner. The Department considers the
+use of reliable information to be an essential element of the fair and
+equitable settlement of claims. The fact that information, data or statistical
+methods used or relied upon by a licensee to process or establish the value of
+insurance claims is obtained through a third party source shall not absolve
+the licensee of its legal responsibility to comply with these regulations or
+to effectuate prompt, fair and equitable settlements of claims. Failure of a
+licensee to provide the commissioner with requested information sufficient to
+examine the licensee's claims handling practices may justify a finding that
+the licensee was in non-compliance with these regulations or other applicable
+insurance code provisions. Any and all information received pursuant to the
+Department's request shall be given confidential treatment, as provided in
+California Insurance Code section 735.5 and California Government Code
+Section 11180 et seq. When processing or establishing the value of a claim, a
+licensee shall not be responsible for the accuracy of information provided by
+a governmental entity, unless the licensee has discovered or been notified of
+the inaccuracy and has continued to use the information.
+
+
+================================================================================
+SECTION 2695.2 - DEFINITIONS
+================================================================================
+
+As used in these regulations:
+
+(a) "Beneficiary" means:
+  (1) for the purpose of life and disability claims, the party or parties
+  entitled to receive the proceeds or benefits occurring under the policy in
+  lieu of the insured; or,
+  (2) for the purpose of surety claims, a person who is within the class of
+  persons intended to benefit from the bond;
+
+(b) "Calendar days" means "each and every day including Saturdays, Sundays,
+Federal and California State Holidays, but if the last day for performance of
+any act required by these regulations falls on a Saturday, Sunday, Federal or
+State Holiday, then the period of time to perform the act is extended to and
+including the next calendar day which is not a Saturday, Sunday, or Federal or
+State holiday";
+
+(c) "Claimant" means a first or third party claimant as defined in these
+regulations, any person who asserts a right of recovery under a surety bond,
+an attorney, any person authorized by operation of law to represent the
+claimant, or any of the following persons properly designated by the claimant
+in the manner specified in subsection 2695.5(c): an insurance adjuster, a
+public adjuster, or any member of the claimant's family.
+
+(d) "Claims agent" means any person employed or authorized by an insurer, to
+conduct an investigation of a claim on behalf of an insurer or a person who is
+licensed by the Commissioner to conduct investigations of claims on behalf of
+an insurer. The term "claims agent", however, shall not include the following:
+  (1) an attorney retained by an insurer to defend a claim brought against an
+  insured; or,
+  (2) persons hired by an insurer solely to provide valuation as to the
+  subject matter of a claim.
+
+(e) "Extraordinary circumstances" means circumstances outside of the control
+of the licensee which severely and materially affect the licensee's ability to
+conduct normal business operations;
+
+(f) "First party claimant" means any person asserting a right under an
+insurance policy as a named insured, other insured or beneficiary under the
+terms of that insurance policy, and including any person seeking recovery of
+uninsured motorist benefits;
+
+(g) "Gross settlement amount" means the amount tendered plus the amount
+deducted as provided in the policy in the settlement of an automobile total
+loss claim;
+
+(h) "Insurance agent" means:
+  (1) the term "insurance agent" as used in section 31 of the California
+  Insurance Code; or,
+  (2) the term "life agent" as used in section 32 of the California Insurance
+  Code; or,
+  (3) any person who has authority or responsibility to notify an insurer of a
+  claim upon receipt of a notice of claim by a claimant; or,
+  (4) an underwritten title company.
+
+(i) "Insurer" means a person licensed to issue or that issues an insurance
+policy or surety bond in this state, or that otherwise transacts the business
+of insurance in the state, including reciprocal and interinsurance exchanges,
+fraternal benefit societies, stock and mutual insurance companies, risk
+retention groups, California county mutual fire insurance companies, grants
+and annuities societies, entities holding certificates of exemption, non-
+profit hospital service plans, multiple employer welfare arrangements holding
+certificates of compliance pursuant to Article 4.7 of the California
+Insurance Code, and motor clubs, to the extent that they transact the business
+of insurance in the State. The term "insurer" for purposes of these
+regulations includes non-admitted insurers, the California FAIR Plan, the
+California Earthquake Authority, those persons licensed to issue or that issue
+an insurance policy pursuant to an assignment by the California Automobile
+Assigned Risk Plan, home protection companies as defined under California
+Insurance Code Section 12740, and any other entity subject to California
+Insurance Code Section 790.03(h). The term "insurer" shall not include
+insurance agents and brokers, surplus line brokers and special lines surplus
+line brokers.
+
+(j) "Insurance policy" or "policy" means the written instrument in which any
+certificate of group insurance, contract of insurance, or non-profit hospital
+service plan is set forth. For the purposes of these regulations the terms
+insurance policy or policy do not include "surety bond" or "bond". For the
+purposes of these regulations the term insurance policy or policy includes a
+home protection contract or any written instrument in which any certificate of
+insurance or contract of insurance is set forth that is issued pursuant to the
+California Automobile Assigned Risk Plan, the California Earthquake Authority,
+or the California FAIR Plan;
+
+(k) "Investigation" means all activities of an insurer or its claims agent
+related to the determination of coverage, liabilities, or nature and extent of
+loss or damage for which benefits are afforded by an insurance policy,
+obligations or duties under a bond, and other obligations or duties arising
+from an insurance policy or bond.
+
+(l) "Knowingly committed" means performed with actual, implied or constructive
+knowledge, including, but not limited to, that which is implied by operation
+of law.
+
+(m) "Licensee" means any person that holds a license or Certificate of
+Authority from the Insurance Commissioner, or any other entity for whom the
+Insurance Commissioner's consent is required before transacting business in
+the State of California or with California residents. The term "licensee" for
+purpose of these regulations does not include an underwritten title company if
+the underwriting agreement between the underwritten title company and the
+title insurer affirmatively states that the underwritten title company is not
+authorized to handle policy claims on behalf of the title insurer.
+
+(n) "Notice of claim" means any written or oral notification to an insurer or
+its agent that reasonably apprises the insurer that the claimant wishes to
+make a claim against a policy or bond issued by the insurer and that a
+condition giving rise to the insurer's obligations under that policy or bond
+may have arisen. For purposes of these regulations the term "notice of claim"
+shall not include any written or oral communication provided by an insured or
+principal solely for informational or incident reporting purposes.
+
+(o) "Notice of legal action" means notice of an action commenced against the
+insurer with respect to a claim, or notice of action against the insured
+received by the insurer, or notice of action against the principal under a
+bond, and includes any arbitration proceeding;
+
+(p) "Obligee" means the person named as obligee in a bond;
+
+(q) "Person" means any individual, association, organization, partnership,
+business, trust, corporation or other entity;
+
+(r) "Principal" means the person whose debt or other obligation is secured or
+guaranteed by a bond and who has the primary duty to pay the debt or discharge
+the obligation;
+
+(s) "Proof of claim" means any evidence or documentation in the possession of
+the insurer, whether as a result of its having been submitted by the claimant
+or obtained by the insurer in the course of its investigation, that provides
+any evidence of the claim and that reasonably supports the magnitude or the
+amount of the claimed loss.
+
+(t) "Remedial measures" means those actions taken by an insurer to correct or
+cure any error or omission in the handling of claims on the part of its
+insurance agent as defined in subsection 2695.2(h), including, but not limited
+to:
+  (1) written notice to the insurance agent that the insurance agent is in
+  violation of the regulations contained in this subchapter;
+  (2) transmission of a copy of the regulations contained in this subchapter
+  and instructions for their implementation;
+  (3) reporting the error or omission in the handling of claims by the
+  insurance agent to the Department of Insurance;
+
+(u) "Replacement crash part" means a replacement for any of the nonmechanical
+sheet metal or plastic parts which generally constitute the exterior of a
+motor vehicle, including inner and outer panels;
+
+(v) "Single act" for the purpose of determining any penalty pursuant to
+California Insurance Code Section 790.035 is any commission or omission which
+in and of itself constitutes a violation of California Insurance Code Section
+790.03 or this subchapter;
+
+(w) "Surety bond" or "bond" means the written instrument in which a contract
+of surety insurance, as defined in California Insurance Code Section 105, is
+set forth;
+
+(x) "Third party claimant" means any person asserting a claim against any
+person or the interests insured under an insurance policy;
+
+(y) "Willful" or "Willfully" when applied to the intent with which an act is
+done or omitted means simply a purpose or willingness to commit the act, or
+make the omission referred to in the California Insurance Code or this
+subchapter. It does not require any intent to violate law, or to injure
+another, or to acquire any advantage.
+
+
+================================================================================
+SECTION 2695.3 - FILE AND RECORD DOCUMENTATION
+================================================================================
+
+(a) Every licensee's claim files shall be subject to examination by the
+Commissioner or by the Commissioner's duly appointed designees. These files
+shall contain all documents, notes and work papers (including copies of all
+correspondence) which reasonably pertain to each claim in such detail that
+pertinent events and the dates of the events can be reconstructed and the
+licensee's actions pertaining to the claim can be determined.
+
+(b) To assist in such examination all insurers shall:
+
+  (1) maintain claim data that are accessible, legible and retrievable for
+  examination so that an insurer shall be able to provide the claim number,
+  line of coverage, date of loss and date of payment of the claim, date of
+  acceptance, denial or date closed without payment. This data must be
+  available for all open and closed files for the current year and the four
+  preceding years;
+
+  (2) record in the file the date the licensee received, date(s) the licensee
+  processed and date the licensee transmitted or mailed every material and
+  relevant document in the file;
+
+  (3) maintain hard copy files or maintain claim files that are accessible,
+  legible and capable of duplication to hard copy; files shall be maintained
+  for the current year and the preceding four years.
+
+(c) The requirements of this section shall be satisfied where the licensee
+provides documentation evidencing inability to obtain data, nonexistence of
+data, or difficulty in obtaining clear documentary support for actions due to
+catastrophic losses, or other unusual circumstances providing the licensee
+establishes to the satisfaction of the Commissioner that the circumstances
+alleged by the licensee do exist and have materially affected the licensee's
+ability to comply with this regulation. Any licensee that alleges an inability
+to comply with this section shall establish and submit to the Commissioner a
+plan for file and record documentation to be used by such licensee while the
+circumstances alleged to preclude compliance with this subsection continue to
+exist.
+
+
+================================================================================
+SECTION 2695.4 - REPRESENTATION OF POLICY PROVISIONS AND BENEFITS
+================================================================================
+
+(a) Every insurer shall disclose to a first party claimant or beneficiary, all
+benefits, coverage, time limits or other provisions of any insurance policy
+issued by that insurer that may apply to the claim presented by the claimant.
+
+(b) No insurer shall misrepresent or conceal benefits, coverages, time limits
+or other provisions of the bond which may apply to the claim presented under a
+surety bond.
+
+(c) No insurer shall deny a claim on the basis of the claimant's failure to
+exhibit property, unless there is documentation in the file (1) of reasonable
+demand by the insurer, and unfounded refusal by the claimant, to exhibit
+property, or (2) of the breach of any policy provision providing for the
+exhibition of property.
+
+(d) Except where a time limit is specified in the policy, no insurer shall
+require a first party claimant under a policy to give notification of a claim
+or proof of claim within a specified time.
+
+(e) No insurer shall:
+  (1) request that a claimant sign a release that extends beyond the subject
+  matter which gave rise to the claim payment unless, prior to execution of
+  the release, the legal effect of the release is disclosed and fully
+  explained by the insurer to the claimant in writing; or
+  (2) be precluded from including in any release a provision requiring the
+  claimant to waive the provisions of California Civil Code Section 1542
+  provided that, prior to execution of the release, the legal effect of the
+  release is disclosed and fully explained by the insurer to the claimant in
+  writing.
+
+(f) No insurer shall issue checks or drafts in partial settlement of a loss
+or claim that contain or are accompanied by language releasing the insurer,
+the insured, or the principal on a surety bond from total liability unless the
+policy or bond limit has been paid, or there has been a compromise settlement
+agreed to by the claimant and the insurer as to coverage and amount payable
+under the insurance policy or bond.
+
+(g) No insurer shall require a first party claimant or beneficiary to submit
+duplicative proofs of claim where coverage may exist under more than one
+policy issued by that insurer.
+
+
+================================================================================
+SECTION 2695.5 - DUTIES UPON RECEIPT OF COMMUNICATIONS
+================================================================================
+
+(a) Upon receiving any written or oral inquiry from the Department of
+Insurance concerning a claim, every licensee shall immediately, but in no
+event more than twenty-one (21) calendar days of receipt of that inquiry,
+furnish the Department of Insurance with a complete written response based on
+the facts as then known by the licensee. A complete written response addresses
+all issues raised by the Department of Insurance in its inquiry and includes
+copies of any documentation and claim files requested. This section is not
+intended to permit delay in responding to inquiries by Department personnel
+conducting a scheduled examination on the insurer's premises.
+
+(b) Upon receiving any communication from a claimant, regarding a claim, that
+reasonably suggests that a response is expected, every licensee shall
+immediately, but in no event more than fifteen (15) calendar days after
+receipt of that communication, furnish the claimant with a complete response
+based on the facts as then known by the licensee. This subsection shall not
+apply to require communication with a claimant subsequent to receipt by the
+licensee of a notice of legal action by that claimant.
+
+(c) The designation specified in subsection 2695.2(c) shall be in writing,
+signed and dated by the claimant, and shall indicate that the designated
+person is authorized to handle the claim. All designations shall be
+transmitted to the insurer and shall be valid from the date of execution until
+the claim is settled or the designation is revoked. A designation may be
+revoked by a writing transmitted to the insurer, signed and dated by the
+claimant, indicating that the designation is to be revoked and the effective
+date of the revocation.
+
+(d) Upon receiving notice of claim, every licensee or claims agent shall
+immediately transmit notice of claim to the insurer.
+
+(e) Upon receiving notice of claim, every insurer shall immediately, but in no
+event more than fifteen (15) calendar days later, do the following unless the
+notice of claim received is a notice of legal action:
+
+  (1) acknowledge receipt of such notice to the claimant unless payment is
+  made within that period of time. If the acknowledgement is not in writing, a
+  notation of acknowledgement shall be made in the insurer's claim file and
+  dated. Failure of an insurance agent or claims agent to promptly transmit
+  notice of claim to the insurer shall be imputed to the insurer except where
+  the subject policy was issued pursuant to the California Automobile Assigned
+  Risk Program.
+
+  (2) provide to the claimant necessary forms, instructions, and reasonable
+  assistance, including but not limited to, specifying the information the
+  claimant must provide for proof of claim;
+
+  (3) begin any necessary investigation of the claim.
+
+(f) An insurer may not require that the notice of claim under a policy be
+provided in writing unless such requirement is specified in the insurance
+policy or an endorsement thereto.
+
+
+================================================================================
+SECTION 2695.6 - TRAINING AND CERTIFICATION
+================================================================================
+
+(a) Every insurer shall adopt and communicate to all its claims agents written
+standards for the prompt investigation and processing of claims, and shall do
+so within ninety (90) days after the effective date of these regulations or
+any revisions thereto.
+
+(b) All licensees shall provide thorough and adequate training regarding the
+regulations to all their claims agents. Licensees shall certify that their
+claims agents have been trained regarding these regulations and any revisions
+thereto. However, licensees need not provide such training or certification to
+duly licensed attorneys.
+
+A licensee shall demonstrate compliance with this subsection by the following
+methods:
+
+  (1) where the licensee is an individual, the licensee shall annually certify
+  in writing under penalty of perjury that the licensee has read and
+  understands the regulations and any and all amendments thereto;
+
+  (2) where the licensee is an entity, the annual written certification shall
+  be executed, under penalty of perjury, by a principal of the entity as
+  follows:
+    (A) that the licensee's claims adjusting manual contains a copy of these
+    regulations and all amendments thereto; and,
+    (B) that clear written instructions regarding the procedures to be
+    followed to effect proper compliance with this subchapter were provided to
+    all its claims agents;
+
+  (3) where the licensee retains insurance adjusters as defined in California
+  Insurance Code Section 14021, the licensee must provide training to the
+  insurance adjusters regarding these regulations and annually certify, in a
+  declaration executed under penalty of perjury, that such training is
+  provided. Alternately, the insurance adjuster may annually certify in
+  writing, under penalty of perjury, that the insurance adjuster has read and
+  understands these regulations and all amendments thereto or has successfully
+  completed a training seminar which explains these regulations;
+
+  (4) a copy of the certification required by subsections 2695.6(b)(1), (2)
+  or (3) shall be maintained at all times at the principal place of business
+  of the licensee, to be provided to the Commissioner only upon request.
+
+  (5) the annual certification required by this subsection shall be completed
+  on or before September 1 of each calendar year.
+
+
+================================================================================
+SECTION 2695.7 - STANDARDS FOR PROMPT, FAIR AND EQUITABLE SETTLEMENTS
+================================================================================
+
+(a) No insurer shall discriminate in its claims settlement practices based
+upon the claimant's age, race, gender, income, religion, language, sexual
+orientation, ancestry, national origin, or physical disability, or upon the
+territory of the property or person insured.
+
+(b) Upon receiving proof of claim, every insurer (except as specified in
+subsection 2695.7(b)(4)) shall immediately, but in no event more than forty
+(40) calendar days later, accept or deny the claim, in whole or in part. The
+amounts accepted or denied shall be clearly documented in the claim file
+unless the claim has been denied in its entirety.
+
+  (1) Where an insurer denies or rejects a first party claim, in whole or in
+  part, it shall do so in writing and shall provide to the claimant a
+  statement listing all bases for such rejection or denial and the factual and
+  legal bases for each reason. Where denial is based on a specific statute,
+  applicable law or policy provision, condition or exclusion, the written
+  denial shall include reference thereto and provide an explanation of the
+  application thereof to the claim. Every insurer that denies or rejects a
+  third party claim, in whole or in part, or disputes liability or damages
+  shall do so in writing.
+
+  (2) Subject to the provisions of subsection 2695.7(k), nothing contained in
+  subsection 2695.7(b)(1) shall require an insurer to disclose any
+  information that could reasonably be expected to alert a claimant to the
+  fact that the subject claim is being investigated as a suspected fraudulent
+  claim.
+
+  (3) Written notification pursuant to this subsection shall include a
+  statement that, if the claimant believes all or part of the claim has been
+  wrongfully denied or rejected, the claimant may have the matter reviewed by
+  the California Department of Insurance, and shall include the address and
+  telephone number of the unit of the Department which reviews claims
+  practices.
+
+  (4) The time frame in subsection 2695.7(b) shall not apply to claims
+  arising from policies of disability insurance subject to Section 10123.13
+  of the California Insurance Code, disability income insurance subject to
+  Section 10111.2 of the California Insurance Code or mortgage guaranty
+  insurance subject to Section 12640.09(a) of the California Insurance Code,
+  and shall not apply to automobile repair bills arising from policies of
+  automobile collision and comprehensive insurance subject to Section 560 of
+  the California Insurance Code. All other provisions of subsections
+  2695.7(b)(1), (2), and (3) are applicable.
+
+(c)(1) If more time is required than is allotted in subsection 2695.7(b) to
+determine whether a claim should be accepted and/or denied in whole or in
+part, every insurer shall provide the claimant, within the time frame
+specified in subsection 2695.7(b), with written notice of the need for
+additional time. This written notice shall specify any additional information
+the insurer requires in order to make a determination and state any continuing
+reasons for the insurer's inability to make a determination. Thereafter, the
+written notice shall be provided every thirty (30) calendar days until a
+determination is made or notice of legal action is served. If the
+determination cannot be made until some future event occurs, then the insurer
+shall comply with this continuing notice requirement by advising the claimant
+of the situation and providing an estimate as to when the determination can be
+made.
+
+(c)(2) Subject to the provisions of subsection 2695.7(k), nothing contained
+in subsection 2695.7(c)(1) shall require an insurer to disclose any
+information that could reasonably be expected to alert a claimant to the fact
+that the claim is being investigated as a possible suspected fraudulent claim.
+
+(d) Every insurer shall conduct and diligently pursue a thorough, fair and
+objective investigation and shall not persist in seeking information not
+reasonably required for or material to the resolution of a claim dispute.
+
+(e) No insurer shall delay or deny settlement of a first party claim on the
+basis that responsibility for payment should be assumed by others, except as
+may otherwise be provided by policy provisions, statutes or regulations,
+including those pertaining to coordination of benefits.
+
+(f) Except where a claim has been settled by payment, every insurer shall
+provide written notice of any statute of limitation or other time period
+requirement upon which the insurer may rely to deny a claim. Such notice shall
+be given to the claimant not less than sixty (60) days prior to the expiration
+date; except, if notice of claim is first received by the insurer within that
+sixty days, then notice of the expiration date must be given to the claimant
+immediately. With respect to a first party claimant in a matter involving an
+uninsured motorist, this notice shall be given at least thirty (30) days
+prior to the expiration date; except, if notice of claim is first received by
+the insurer within that thirty days, then notice of the expiration date must
+be given to the claimant immediately. This subsection shall not apply to a
+claimant represented by counsel on the claim matter.
+
+(g) No insurer shall attempt to settle a claim by making a settlement offer
+that is unreasonably low. The Commissioner shall consider any admissible
+evidence offered regarding the following factors in determining whether or not
+a settlement offer is unreasonably low:
+
+  (1) the extent to which the insurer considered evidence submitted by the
+  claimant to support the value of the claim;
+
+  (2) the extent to which the insurer considered legal authority or evidence
+  made known to it or reasonably available;
+
+  (3) the extent to which the insurer considered the advice of its claims
+  adjuster as to the amount of damages;
+
+  (4) the extent to which the insurer considered the advice of its counsel
+  that there was a substantial likelihood of recovery in excess of policy
+  limits;
+
+  (5) the procedures used by the insurer in determining the dollar amount of
+  property damage;
+
+  (6) the extent to which the insurer considered the probable liability of the
+  insured and the likely jury verdict or other final determination of the
+  matter;
+
+  (7) any other credible evidence presented to the Commissioner that
+  demonstrates that (i) any amount offered by the insurer in settlement of a
+  first-party claim to an insured not represented by counsel, or (ii) the
+  final amount offered in settlement of a first-party claim to an insured who
+  is represented by counsel or (iii) the final amount offered in settlement of
+  a third party claim by the insurer is below the amount that a reasonable
+  person with knowledge of the facts and circumstances would have offered in
+  settlement of the claim.
+
+(h) Upon acceptance of the claim in whole or in part and, when necessary, upon
+receipt of a properly executed release, every insurer (except as specified in
+subsection 2695.7(h)(1) and (2) below) shall immediately, but in no event
+more than thirty (30) calendar days later, tender payment or otherwise take
+action to perform its claim obligation. The amount of the claim to be tendered
+is the amount that has been accepted by the insurer as specified in subsection
+2695.7(b). In claims where multiple coverage is involved, and where the payee
+is known, amounts that have been accepted by the insurer shall be paid
+immediately, but in no event more than thirty (30) calendar days, if payment
+would terminate the insurer's known liability under that individual coverage,
+unless impairment of the insured's interests would result. The time frames
+specified in this subsection shall not apply where the policy provides for a
+waiting period after acceptance of claim and before payment of benefits.
+
+  (1) The time frame specified in subsection 2695.7(h) shall not apply to
+  claims arising from policies of disability insurance subject to Section
+  10123.13 of the California Insurance Code, disability income insurance
+  subject to Section 10111.2 of the California Insurance Code, or of mortgage
+  guaranty insurance subject to Section 12640.09(a) of the California
+  Insurance Code, and shall not apply to automobile repair bills subject to
+  Section 560 of the California Insurance Code. All other provisions of
+  Section 2695.7(h) are applicable.
+
+  (2) Any insurer issuing a title insurance policy shall either tender payment
+  pursuant to subsection 2695.7(h) or take action to resolve the problem
+  which gave rise to the claim immediately upon, but in no event more than
+  thirty (30) calendar days after, acceptance of the claim.
+
+(i) No insurer shall inform a claimant that said claimant's rights may be
+impaired if a form or release is not completed within a specified time period
+unless the information is given for the purpose of notifying the claimant of
+any applicable statute of limitations or policy provision or the time
+limitation within which claims are required to be brought against state or
+local entities.
+
+(j) No insurer shall request or require an insured to submit to a polygraph
+examination unless authorized under the applicable insurance contract and
+state law.
+
+(k) Subject to the provisions of subsection 2695.7(c), where there is a
+reasonable basis, supported by specific information available for review by
+the California Department of Insurance, for the belief that the claimant has
+submitted or caused to be submitted to an insurer a suspected false or
+fraudulent claim as specified in California Penal Code Section 550 or
+California Insurance Code Section 1871.4(a), the number of calendar days
+specified in subsection 2695.7(b) shall be:
+
+  (1) increased to eighty (80) calendar days; or,
+
+  (2) suspended until otherwise ordered by the Commissioner, provided the
+  insurer has complied with California Insurance Code Section 1872.4 and the
+  insurer can demonstrate to the Commissioner that it has made a diligent
+  attempt to determine whether the subject claim is false or fraudulent within
+  the eighty day period specified by subsection 2695.7(k)(1).
+
+(l) No insurer shall deny a claim based upon information obtained in a
+telephone conversation or personal interview with any source unless the
+telephone conversation or personal interview is documented in the claim file
+pursuant to the provisions of Section 2695.3.
+
+(m) No insurer shall make a payment to a provider, pursuant to a policy
+provision to pay medical benefits, and thereafter seek recovery or set-off
+from the insured on the basis that the amount was excessive and/or the
+services were unnecessary, except in the event of a proven false or fraudulent
+claim, subject to the provisions of Section 10123.145 of the California
+Insurance Code.
+
+(n) Every insurer requesting a medical examination for the purpose of
+determining liability under a policy provision shall do so only when the
+insurer has a good faith belief that such an examination is reasonably
+necessary.
+
+(o) No insurer shall require that a claimant withdraw, rescind or refrain from
+submitting any complaint to the California Department of Insurance regarding
+the handling of a claim or any other matter complained of as a condition
+precedent to the settlement of any claim.
+
+(p) Every insurer shall provide written notification to a first party claimant
+as to whether the insurer intends to pursue subrogation of the claim. Where an
+insurer elects not to pursue subrogation, or discontinues pursuit of
+subrogation, it shall include in its notification a statement that any
+recovery to be pursued is the responsibility of the first party claimant.
+This subsection does not require notification if the deductible is waived, the
+coverage under which the claim is paid requires no deductible to be paid, the
+loss sustained does not exceed the applicable deductible, or there is no legal
+basis for subrogation.
+
+(q) Every insurer that makes a subrogation demand shall include in every
+demand the first party claimant's deductible. Every insurer shall share
+subrogation recoveries on a proportionate basis with the first party claimant,
+unless the first party claimant has otherwise recovered the whole deductible
+amount. No insurer shall deduct legal or other expenses from the recovery of
+the deductible unless the insurer has retained an outside attorney or
+collection agency to collect that recovery. The deduction may only be for a
+pro rata share of the allocated loss adjustment expense. This subsection shall
+not apply when multiple policies have been issued to the insured(s) covering
+the same loss and the language of these contracts prescribe alternative
+subrogation rights. Further, this subsection shall not apply to disability and
+health insurance as defined in California Insurance Code Section 106.
+
+
+================================================================================
+SECTION 2695.8 - ADDITIONAL STANDARDS APPLICABLE TO AUTOMOBILE INSURANCE
+================================================================================
+
+(a) This section enumerates standards which apply to adjustment and settlement
+of automobile insurance claims.
+
+  (1) the words "automobile" and "vehicle" are used synonymously.
+
+(b) In evaluating automobile total loss claims the following standards shall
+apply:
+
+  (1) The insurer may elect a cash settlement that shall be based upon the
+  actual cost of a "comparable automobile" less any deductible provided in the
+  policy. This cash settlement amount shall include all applicable taxes and
+  one-time fees incident to transfer of evidence of ownership of a comparable
+  automobile. This amount shall also include the license fee and other annual
+  fees to be computed based upon the remaining term of the loss vehicle's
+  current registration. This procedure shall apply whether or not a
+  replacement automobile is purchased.
+
+    (A) If the insured chooses to retain the loss vehicle or if the third
+    party claimant retains the loss vehicle, the cash settlement amount shall
+    include the sales tax associated with the cost of a comparable automobile,
+    discounted by the amount of sales tax attributed to the salvage value of
+    the loss vehicle. The cash settlement amount shall also include all fees
+    incident to transfer of the claimant's vehicle to salvage status. The
+    salvage value may be deducted from the settlement amount and shall be
+    determined by the amount for which a salvage pool or a licensed salvage
+    dealer, wholesale motor vehicle auction or dismantler will purchase the
+    salvage. If requested by the claimant, the insurer shall provide the name,
+    address and telephone number of the salvage dealer, salvage pool, motor
+    vehicle auction or dismantler who will purchase the salvage. The insurer
+    shall disclose in writing to the claimant that notice of the salvage
+    retention by the claimant must be provided to the Department of Motor
+    Vehicles and that this notice may affect the loss vehicle's future resale
+    and/or insured value. The disclosure must also inform the claimant of said
+    claimant's right to seek a refund of the unused license fees from the
+    Department of Motor Vehicles.
+
+  (2) A "comparable automobile" is one of like kind and quality, made by the
+  same manufacturer, of the same or newer model year, of the same model type,
+  of a similar body type, with options and mileage similar to the insured
+  vehicle. Newer model year automobiles may not be used as comparable
+  automobiles unless there are not sufficient comparable automobiles of the
+  same model year to make a determination as set forth in Section
+  2695.8(b)(4), below. In determining the cost of a comparable automobile, the
+  insurer may use either the asking price or actual sale price of that
+  automobile. Any differences between the comparable automobile and the insured
+  vehicle shall be permitted only if the insurer fairly adjusts for such
+  differences. Any adjustments from the cost of a comparable automobile must
+  be discernible, measurable, itemized, and specified as well as appropriate
+  in dollar amount and so documented in the claim file. Deductions taken from
+  the cost of a comparable automobile that cannot be supported shall not be
+  used. The actual cost of a comparable automobile shall not include any
+  deduction for the condition of a loss vehicle unless the documented
+  condition of the loss vehicle is below average for that particular year,
+  make and model of vehicle. This subsection shall not preclude deduction for
+  prior and/or unrelated damage to the loss vehicle. A comparable automobile
+  must have been available for retail purchase by the general public in the
+  local market area within ninety (90) calendar days of the final settlement
+  offer. The comparable automobiles used to calculate the cost shall be
+  identified by the vehicle identification number (VIN), the stock or order
+  number of the vehicle from a licensed dealer, or the license plate number
+  of that comparable vehicle if this information is available. The
+  identification shall also include the telephone number (including area code)
+  or street address of the seller of the comparable automobile.
+
+  (3) Notwithstanding subsection (2), above, upon approval by the Department
+  of Insurance, an insurer may use private sales data from the Department of
+  Motor Vehicles, or other approved sources, which does not contain the
+  seller's telephone number or street address. Approval by the Department of
+  Insurance shall be contingent on the Department's determination that
+  reasonable steps have been taken to limit the use of private sales data that
+  may be inaccurately reported to the Department of Motor Vehicles, or other
+  approved sources.
+
+  (4) The insurer shall take reasonable steps to verify that the determination
+  of the cost of a comparable vehicle is accurate and representative of the
+  market value of a comparable automobile in the local market area. Upon its
+  request, the department shall have access to all records, data, computer
+  programs, or any other information used by the insurer or any other source
+  to determine market value. The cost of a comparable automobile shall be
+  determined as follows and, once determined, shall be fully itemized and
+  explained in writing for the claimant at the time the settlement offer is
+  made:
+
+    (A) when comparable automobiles are available or were available in the
+    local market area in the last 90 days, the average cost of two or more
+    such comparable automobiles; or,
+
+    (B) when comparable automobiles are not available or were not available in
+    the local market area in the last 90 days, the average of two or more
+    quotations from two or more licensed dealers in the local market area; or,
+
+    (C) the cost of a comparable automobile as determined by a computerized
+    automobile valuation service that produces statistically valid fair market
+    values within the local market area; or
+
+    (D) if it is not possible to determine the cost of a comparable automobile
+    by using one of the methods described in subsections (b)(3)(A), (b)(3)(B)
+    and (b)(3)(C) of this section, the cost of a comparable automobile shall
+    otherwise be supported by documentation and fully explained to the
+    claimant. Any adjustments to the cost of a comparable automobile shall be
+    discernible, measurable, itemized, and specified as well as appropriate in
+    dollar amount and so documented in the claims file. Deductions taken from
+    the cost of a comparable automobile that cannot be supported shall not be
+    used.
+
+  (5) In first party automobile total loss claims, the insurer may elect to
+  offer a replacement automobile which is a specified comparable automobile
+  available to the insured with all applicable taxes, license fees and other
+  fees incident to transfer of evidence of ownership of the automobile paid by
+  the insurer at no cost other than any deductible provided in the policy. The
+  offer and any rejection thereof must be documented in the insurer's claim
+  file. A replacement automobile must be in as good or better overall
+  condition than the insured vehicle and available for inspection within a
+  reasonable distance of the insured's residence.
+
+  (6) Subsection 2695.8(b) applies to the evaluation of third-party
+  automobile total loss claims, but does not change existing law with respect
+  to the obligations of an insurer in settling such claims with a third party.
+
+(c) In first party automobile total loss claims, every insurer shall provide
+notice to the insured at the time the settlement payment is sent or final
+settlement offer is made that if notified by the insured within thirty-five
+(35) calendar days after the insured receives the claim payment or final
+settlement offer that said insured cannot purchase a comparable automobile for
+the gross settlement amount, the insurer will reopen its claim file. If
+subsequently notified by the insured the insurer shall reopen its claim file
+and utilize the following procedures:
+
+  (1) The insurer shall locate a comparable automobile for the gross
+  settlement amount determined by the company at the time of settlement and
+  shall provide the insured with the information required in (c)(4), below, or
+  offer a replacement vehicle in accordance with section 2695.8(b)(4). Any
+  such vehicle must be available in the local market area; or,
+
+  (2) The insurer shall either pay the insured the difference between the
+  amount of the gross settlement and the cost of the comparable automobile
+  which the insured has located, or negotiate and purchase this vehicle for
+  the insured; or,
+
+  (3) The insurer shall invoke the appraisal provision of the insurance
+  policy.
+
+  (4) No insurer is required to take action under this subsection if its
+  documentation to the insured at the time of final settlement offer included
+  written notification of the identity of a specified comparable automobile
+  which was available for purchase at the time of final settlement offer for
+  the gross settlement amount determined by the insurer. The documentation
+  shall include the telephone number (including area code) or street address
+  of the seller of the comparable automobile and:
+    (A) the vehicle identification number (VIN) or,
+    (B) the stock or order number of the vehicle from a licensed dealer, or
+    (C) the license plate number of such comparable vehicle.
+
+(d) No insurer shall, where liability and damages are reasonably clear,
+recommend that the third party claimant make a claim under the claimant's own
+policy to avoid paying the claim under the policy issued by that insurer.
+
+(e) No insurer shall:
+
+  (1) require that an automobile be repaired at a specific repair shop; or,
+
+  (2) after a claimant has chosen an automotive repair shop, suggest or
+  recommend that the claimant select a different repair shop, except as
+  permitted by California Insurance Code section 758.5. For purposes of
+  California Insurance Code section 758.5 and this section, a claimant has
+  chosen an automotive repair shop when the claimant has specified to the
+  insurer a specific automotive repair shop where the claimant wishes to
+  repair the vehicle. For purposes of this section, "automotive repair shop"
+  or "repair shop" means an automotive repair dealer, as defined in Section
+  9880.1 of the Business and Professions Code, registered with, or licensed
+  by, the Bureau of Automotive Repair as an auto body and/or paint shop.
+
+  (3) communicate false, deceptive, or misleading information to the
+  claimant, including, but not limited to:
+
+    (A) Advising the claimant that an inspection of the vehicle will occur at
+    a date that is later than required by subdivision (e)(4) of this Section
+    2695.8.
+
+    (B) Making a statement to the claimant to the effect that the automotive
+    repair shop chosen by the claimant has a record of poor service or poor
+    repair quality, or making any other statement to the claimant with respect
+    to the chosen repair shop, if the statement is known to be, or should by
+    the exercise of reasonable care be known to be, untrue, deceptive or
+    misleading.
+
+    (C) Advising the claimant that the automotive repair shop chosen by the
+    claimant has a record of poor service or poor repair quality, or of other
+    similar allegations against the repair shop, solely on the basis of the
+    shop's participation or nonparticipation in a labor rate survey.
+
+  (4) require a claimant to travel an unreasonable distance or wait an
+  unreasonable period of time either to inspect a replacement automobile, to
+  conduct an inspection of the claimant's vehicle, to obtain a repair
+  estimate, or to have the automobile repaired at a specific repair shop.
+
+    (A) In the case of both first-party and third-party claims: For purposes
+    of this section, an unreasonable distance shall be, for cities or urban
+    areas with a population of 100,000 or higher, more than fifteen (15)
+    miles, and for all other areas of the state, more than twenty-five (25)
+    miles, from the location where the vehicle is located and made available
+    for inspection by the claimant.
+
+    (B) In the case of first-party claims only:
+
+      1. Initial inspection. Except as provided in Subdivision (e)(4)(B)2. or
+      (e)(4)(B)3. of this section, if an insurer chooses to exercise its right
+      to inspect the damaged vehicle, the insurer shall within six (6) business
+      days after receiving the notice of claim:
+
+        a. request of the claimant that the claimant make the vehicle available
+        for inspection by the insurer, and
+
+        b. provided the claimant makes the vehicle reasonably available for
+        inspection, inspect the damaged vehicle.
+
+      2. Inspections and re-inspections in response to requests for
+      supplemental estimates. Subdivision (e)(4)(B)1. of this section
+      notwithstanding, and except as provided in Subdivision (e)(4)(B)3. of
+      this section, if in response to a request for a supplemental estimate an
+      insurer chooses to exercise its right to inspect or re-inspect the
+      damaged vehicle, the insurer shall within six (6) business days after
+      receiving the request for a supplemental estimate:
+
+        a. request of the claimant that the claimant make the vehicle available
+        for inspection or re-inspection by the insurer, and
+
+        b. provided the claimant makes the vehicle reasonably available for
+        inspection or re-inspection, inspect or re-inspect the damaged vehicle.
+
+      3. Photographs or estimates in lieu of inspection or re-inspection;
+      inspections and re-inspections upon receipt of photographs or estimates.
+      If the insurer requests from the claimant photographs of the damaged
+      vehicle, or an estimate of repairs, in lieu of a physical inspection,
+      such a request must be made within three (3) business days after the
+      insurer's receipt of the notice of claim or request for a supplemental
+      estimate and shall include notification to the claimant that, upon
+      receipt of the photographs or estimate, the insurer may elect to inspect
+      or re-inspect the vehicle. Subdivisions (e)(4)(B)1. and (e)(4)(B)2. of
+      this section notwithstanding, if, after receiving the photographs or
+      estimate of repairs from the claimant in response to a request pursuant
+      to the immediately preceding sentence, the insurer subsequently elects
+      to inspect or re-inspect the vehicle, the insurer shall within six (6)
+      business days following its receipt of the photographs or estimate:
+
+        a. request of the claimant that the claimant make the vehicle available
+        for inspection or re-inspection by the insurer, and
+
+        b. provided the claimant makes the vehicle reasonably available for
+        inspection or re-inspection, inspect or re-inspect the damaged vehicle.
+
+    (C) In the case of third-party claims only: The provisions of Subdivision
+    (e)(4)(B) above notwithstanding, should an insurer exercise its right to
+    inspect or re-inspect the damaged vehicle, the insurer shall within six
+    (6) business days from the time the insurer decides to inspect or
+    re-inspect the third-party claimant's vehicle:
+
+      1. request of the third-party claimant that the third-party claimant
+      make the vehicle available for inspection or re-inspection by the
+      insurer, and
+
+      2. provided the third-party claimant makes the vehicle reasonably
+      available for inspection or re-inspection by the insurer, inspect or
+      re-inspect the damaged vehicle.
+
+    (D) In the event that the first-party claimant or third-party claimant
+    fails to make the damaged vehicle reasonably available for inspection or
+    re-inspection during the six-day period specified in Subdivision
+    (e)(4)(B)1., (e)(4)(B)2., (e)(4)(B)3. or (e)(4)(C) of this section, the
+    insurer shall in each case inspect or re-inspect the damaged vehicle as
+    soon after the end of that six-day period as is reasonable.
+
+    (E) For purposes of this Subdivision (e)(4):
+
+      1. Requests made of a claimant may be directed to the claimant or, where
+      the claimant has chosen an automotive repair shop, to the automotive
+      repair shop chosen by such claimant.
+
+      2. A claimant makes the damaged vehicle reasonably available for
+      inspection or re-inspection by the insurer when either the claimant or
+      the automotive repair shop chosen by the claimant makes the vehicle
+      reasonably available for inspection or re-inspection by the insurer.
+
+      3. A claimant fails to make the vehicle reasonably available for
+      inspection or re-inspection by the insurer when neither the claimant nor
+      the automotive repair shop chosen by the claimant makes the vehicle
+      reasonably available for inspection or re-inspection by the insurer.
+
+  (5) after the claimant has chosen an automotive repair shop, require that
+  the claimant have the vehicle inspected at or by an automotive repair shop
+  where the insurer has a Direct Repair Program, or at or by any other
+  automotive repair shop identified by the insurer.
+
+(f) If a partial loss is settled on the basis of a written estimate prepared
+by or for the insurer, the insurer shall supply the claimant with a copy of
+the estimate upon which the settlement is based. The estimate prepared by or
+for the insurer shall be of an amount that will allow for repairs to be made
+in accordance with accepted trade standards for good and workmanlike automotive
+repairs by an "auto body repair shop" as defined in section 9889.51 of the
+Business and Professions Code, and in accordance with the standards of
+automotive repair required of auto body repair shops as described in the
+Business and Professions Code and associated regulations, including, but not
+limited to, Section 3365 of Title 16 of the California Code of Regulations.
+An insurer shall not prepare an estimate that deviates from the standards,
+costs, and/or guidelines provided by the third-party automobile collision
+repair estimating software used by the insurer to prepare the estimate, if
+such deviation would result in an estimate that would not allow for repairs to
+be made in accordance with accepted trade standards for good and workmanlike
+automotive repairs by an auto body repair shop, as described in this
+subdivision. If the claimant subsequently contends, based upon a written
+estimate that the claimant obtains, that necessary repairs will exceed the
+written estimate prepared by or for the insurer, the insurer shall:
+
+  (1) pay the difference between the written estimate and a higher estimate
+  obtained by the claimant; or,
+
+  (2) if requested by the claimant, promptly provide the claimant with the
+  name of at least one repair shop that will make the repairs for the amount
+  of the insurer's written estimate. The insurer shall cause the damaged
+  vehicle to be restored to its condition prior to the loss at no additional
+  cost to the claimant other than as stated in the policy or as otherwise
+  allowed by law. The insurer shall maintain documentation of all such
+  communications; or,
+
+  (3) reasonably adjust any written estimates prepared by the repair shop of
+  the claimant's choice and provide a copy of the adjusted estimate to the
+  claimant and the claimant's repair shop. The adjusted estimate provided to
+  the claimant and repair shop shall be either an edited copy of the
+  claimant's repair shop estimate or a supplemental estimate based on the
+  itemized copy of the claimant's repair shop estimate. The adjusted estimate
+  shall identify the specific adjustment made to each item and the cost
+  associated with each adjustment made to the claimant's shop's estimate.
+
+(g) No insurer shall require the use of non-original equipment manufacturer
+replacement crash parts in the repair of an automobile unless all of the
+following conditions are met:
+
+  (1) the parts are at least equal to the original equipment manufacturer
+  parts in terms of kind, quality, safety, fit, and performance;
+
+  (2) the insurer specifying the use of non-original equipment manufacturer
+  replacement crash parts shall pay the cost of any modifications to the
+  parts that may become necessary to effect the repair;
+
+  (3) the insurer specifying the use of non-original equipment manufacturer
+  replacement crash parts warrants that such parts are at least equal to the
+  original equipment manufacturer parts in terms of kind, quality, safety,
+  fit, and performance. The insurer must disclose in writing, in any estimate
+  prepared by or for the insurer, the fact that it warrants that such parts
+  are at least equal to the original equipment manufacturer parts in terms of
+  kind, quality, safety, fit, and performance;
+
+  (4) all original and non-original manufacturer replacement crash parts,
+  manufactured after the effective date of this subdivision, when supplied by
+  repair shops shall carry sufficient permanent, non-removable identification
+  so as to identify the manufacturer. Such identification shall be accessible
+  to the greatest extent possible after installation; and,
+
+  (5) the use of non-original equipment manufacturer replacement crash parts
+  is disclosed in accordance with section 9875.1 of the California Business
+  and Professions Code.
+
+  (6) If an insurer specifying the use of non-original equipment manufacturer
+  replacement crash parts has knowledge that a part is not equal to the
+  original equipment manufacturer part in terms of kind, quality, safety, fit,
+  and performance, or does not otherwise comply with this section, it shall
+  immediately cease requiring the use of the part and shall, within thirty
+  (30) calendar days, notify the distributor of the non-compliant aspect of
+  the part.
+
+  (7) In the repair of a particular vehicle, an insurer specifying the use of
+  a non-original equipment manufacturer replacement crash part that is not
+  equal to the original equipment manufacturer part in terms of kind, quality,
+  safety, fit, and performance, or does not otherwise comply with this
+  section, shall pay for the costs associated with returning the part and the
+  cost to remove and replace the non-original equipment manufacturer part with
+  a compliant non-original equipment manufacturer part or an original
+  equipment manufacturer part.
+
+  (8) Nothing in this subdivision prohibits an insurer from seeking
+  reimbursement or indemnification from a third party for the costs associated
+  with the insurer's compliance with this subdivision, including, but not
+  limited to, costs associated with the insurer's obligation to warrant the
+  part, modifications to the part, or returning, removing or replacing a
+  non-compliant, non-original equipment manufacturer part. However, seeking
+  reimbursement or indemnification from a third party shall not in any way
+  modify the insurer's obligation to comply with this subdivision. An insurer
+  shall retain primary responsibility to comply with this subdivision and
+  shall not refuse or delay compliance with this subdivision on the basis that
+  responsibility for payment or compliance should be assumed by a third party.
+
+(h) No insurer shall require an insured or claimant to supply parts for
+replacement.
+
+(i) When the amount claimed is adjusted because of betterment or depreciation,
+all justification shall be contained in the claim file. Any adjustments shall
+be discernable, measurable, itemized, and specified as to dollar amount, and
+shall accurately reflect the value of the betterment or depreciation. This
+subsection shall not preclude deduction for prior and/or unrelated damage to
+the loss vehicle. The basis for any adjustment shall be fully explained to the
+claimant in writing and shall:
+
+  (1) reflect a measurable difference in market value attributable to the
+  condition and age of the vehicle, and
+
+  (2) apply only to parts normally subject to repair and replacement during
+  the useful life of the vehicle such as, but not limited to, tires,
+  batteries, et cetera.
+
+(j) In a first party partial loss claim, the expense of labor necessary to
+repair or replace the damage is not subject to depreciation or betterment
+unless the insurance contract contains a clear and unambiguous provision
+permitting the depreciation of the expense of labor.
+
+(k) After a covered loss under a policy of automobile collision coverage or
+automobile physical damage coverage as defined in California Insurance Code
+Section 660, where towing and storage are reasonably necessary to protect the
+vehicle from further loss, the insurer shall pay reasonable towing and storage
+charges incurred by the claimant. The insurer shall provide reasonable notice
+to the claimant before terminating payment for storage charges, so that the
+claimant has time to remove the vehicle from storage. This subsection shall
+also apply to a third-party claim filed under automobile liability coverage as
+defined in California Insurance Code section 660, however, payment to a third
+party claimant may be prorated based upon the comparative fault of the
+parties.
+
+
+================================================================================
+SECTION 2695.9 - ADDITIONAL STANDARDS APPLICABLE TO FIRST PARTY RESIDENTIAL
+AND COMMERCIAL PROPERTY INSURANCE POLICIES
+================================================================================
+
+(a) When a residential or commercial property insurance policy provides for
+the adjustment and settlement of first party losses based on replacement cost,
+the following standards apply:
+
+  (1) When a loss requires repair or replacement of an item or part, any
+  consequential physical damage incurred in making the repair or replacement
+  not otherwise excluded by the policy shall be included in the loss. The
+  insured shall not have to pay for depreciation nor any other cost except for
+  the applicable deductible.
+
+  (2) When a loss requires replacement of items and the replaced items do not
+  match in quality, color or size, the insurer shall replace all items in the
+  damaged area so as to conform to a reasonably uniform appearance.
+
+(b) No insurer shall require that the insured have the property repaired by a
+specific individual or entity.
+
+(c) No insurer shall suggest or recommend that the insured have the property
+repaired by a specific individual or entity unless:
+
+  (1) the referral is expressly requested by the claimant; or
+
+  (2) the claimant has been informed in writing of the right to select a
+  repair individual or entity and, if the claimant accepts the suggestion or
+  recommendation, the insurer shall cause the damaged property to be restored
+  to no less than its condition prior to the loss and repaired in a manner
+  which meets accepted trade standards for good and workmanlike construction at
+  no additional cost to the claimant other than as stated in the policy or as
+  otherwise allowed by these regulations.
+
+(d) If losses are settled on the basis of a written scope and/or estimate
+prepared by or for the insurer, the insurer shall supply the claimant with a
+copy of each document upon which the settlement is based. The estimate
+prepared by or for the insurer shall be in accordance with applicable policy
+provisions, of an amount which will restore the damaged property to no less
+than its condition prior to the loss and which will allow for repairs to be
+made in a manner which meets accepted trade standards for good and workmanlike
+construction. The insurer shall take reasonable steps to verify that the
+repair or rebuilding costs utilized by the insurer or its claims agents are
+accurate and representative of costs in the local market area. If the claimant
+subsequently contends, based upon a written estimate which the claimant
+obtains, that necessary repairs will exceed the written estimate prepared by
+or for the insurer, the insurer shall:
+
+  (1) pay the difference between its written estimate and a higher estimate
+  obtained by the claimant; or,
+
+  (2) if requested by the claimant, promptly provide the claimant with the
+  name of at least one repair individual or entity that will make the repairs
+  for the amount of the written estimate. The insurer shall cause the damaged
+  property to be restored to no less than its condition prior to the loss and
+  which will allow for repairs in a manner which meets accepted trade
+  standards for good and workmanlike construction at no additional cost to the
+  claimant other than as stated in the policy or as otherwise allowed by these
+  regulations; or,
+
+  (3) reasonably adjust any written estimates prepared by the repair
+  individual or entity of the insured's choice and provide a copy of the
+  adjusted estimate to the claimant.
+
+(e) Once the appraisal provision under an insurance policy is invoked, the
+appraisal process shall not include any legal proceeding or procedure not
+specified under California Insurance Code Section 2071. Nothing herein is
+intended to preclude separate legal proceedings on issues unrelated to the
+appraisal process.
+
+(f) When the amount claimed is adjusted because of betterment, depreciation,
+or salvage, all justification for the adjustment shall be contained in the
+claim file. Any adjustments shall be discernable, measurable, itemized, and
+specified as to dollar amount, and shall accurately reflect the value of the
+betterment, depreciation, or salvage. Any adjustments for betterment or
+depreciation shall reflect a measurable difference in market value
+attributable to the condition and age of the property and apply only to
+property normally subject to repair and replacement during the useful life of
+the property. The basis for any adjustment shall be fully explained to the
+claimant in writing.
+
+  (1) Under a policy, subject to California Insurance Code Section 2071,
+  where the insurer is required to pay the expense of repairing, rebuilding or
+  replacing the property destroyed or damaged with other of like kind and
+  quality, the measure of recovery is determined by the actual cash value of
+  the damaged or destroyed property, as set forth in California Insurance Code
+  Section 2051. Except for the intrinsic labor costs that are included in the
+  cost of manufactured materials or goods, the expense of labor necessary to
+  repair, rebuild or replace covered property is not a component of physical
+  depreciation and shall not be subject to depreciation or betterment.
+
+
+================================================================================
+SECTION 2695.10 - ADDITIONAL STANDARDS APPLICABLE TO SURETY INSURANCE
+================================================================================
+
+(a) No insurer shall base or vary its claims settlement practices, or its
+standard of scrutiny and review, upon the claimant's age, gender, income,
+religion, language, sexual orientation, ancestry, national origin, or physical
+disability, or upon the territory of the property or person insured.
+
+(b) As soon as possible, but in no event later than forty (40) calendar days
+after receipt by the insurer of proof of claim, and provided the claim is not
+in litigation or arbitration, the insurer shall accept or deny the claim, in
+whole or in part, and affirm or deny liability. Every insurer that denies or
+rejects a claim in whole or in part, or disputes liability or damages, shall
+provide to the claimant a written statement listing all bases for such
+rejection or denial, and the factual and legal bases for each reason given for
+each rejection or denial, which are within the insurer's knowledge. If an
+insurer's denial of a claim in whole or in part is based on a specific statute
+or specific bond provisions, the denial shall include reference thereto and
+provide an explanation of the application of the statute or bond provision to
+the claim. Written notification pursuant to this subsection shall also include
+a notification that the claimant may have the matter reviewed by the
+California Department of Insurance and shall provide the address and telephone
+number of the unit of the Department which reviews complaints regarding claims
+practices.
+
+  (1) A principal's absence, non-cooperation, or failure to meet the bonded
+  obligation shall not excuse unreasonable delay by the insurer in determining
+  whether a claim should be accepted or denied.
+
+  (2) While an insurer may consider all information provided by a principal,
+  absent reasonable factual and/or legal bases for denying a claim, no insurer
+  shall deny a claim based solely upon a principal's protest of a claim or
+  denial of liability for a claim.
+
+(c) If more time is required than is allotted in subsection 2695.10(b) to
+determine whether a claim should be accepted and/or denied in whole or in
+part, every insurer shall provide the claimant, within the time frame
+specified in subsection 2695.10(b), with written notice of the need for
+additional time. This written notice shall specify any additional information
+the insurer requires in order to make a determination and state any continuing
+reasons for the insurer's inability to make a determination. Thereafter, the
+written notice shall be provided every thirty (30) calendar days until a
+determination is made or notice of legal action is served. If the
+determination cannot be made until some future event occurs, then the insurer
+shall comply with this continuing notice requirement by advising the claimant
+of the situation and providing an estimate as to when the determination can be
+made.
+
+(d) No insurer shall fail to pursue diligently an investigation of a claim, or
+persist in seeking information not reasonably required for or material to
+resolution of a claim dispute.
+
+(e) No insurer shall deny a claim upon information obtained in a telephone
+conversation or personal interview with any source unless the telephone
+conversation or personal interview is documented in the claim file.
+
+(f) Where the claim is to be settled by payment, and where neither the claim
+nor the amount is in dispute, such payment shall be tendered:
+
+  (1) within fifteen (15) calendar days following affirmation of liability
+  where the insurer does not require the claimant to execute a release; or,
+
+  (2) within fifteen (15) calendar days following the insurer's receipt of a
+  release properly executed by the claimant, where such release is required by
+  the insurer. The insurer shall provide a release to the claimant within ten
+  (10) calendar days of affirming liability. Where more than one claimant has
+  filed a claim under the same bond, the insurer may tender payment to a
+  claimant under this subsection without increasing the insurer's total
+  liability or impairing the rights of other claimants.
+
+(g) Except where a claim has been settled by payment, every insurer shall
+provide written notice of any statute of limitation or other time period
+requirement upon which the insurer may rely to deny a claim. Such notice shall
+be given to the claimant not less than sixty (60) days prior to the expiration
+date; except, if notice of claim is first received by the insurer within that
+sixty days, then notice of the expiration date must be given to the claimant
+immediately. This subsection shall not apply to a claimant represented by
+counsel on the claim matter or to a claim where the applicable statute of
+limitations has expired.
+
+(h) No insurer shall attempt to settle a claim by making a settlement offer
+that is unreasonably low. The Commissioner shall consider any admissible
+evidence offered regarding the following factors in determining whether or not
+a settlement offer is unreasonably low:
+
+  (1) the extent to which the insurer considered evidence submitted by the
+  claimant to support the value of the claim;
+
+  (2) the extent to which the insurer considered legal authority or evidence
+  made known to it or reasonably available;
+
+  (3) the procedures used by the insurer in determining the dollar amount of
+  damages;
+
+  (4) any other credible evidence presented to the Commissioner that
+  demonstrates that the final amount offered in settlement of a claim by the
+  insurer is below the amount that a reasonable person with knowledge of the
+  facts and circumstances would have offered in settlement of the claim.
+
+
+================================================================================
+SECTION 2695.11 - ADDITIONAL STANDARDS APPLICABLE TO LIFE AND DISABILITY
+INSURANCE CLAIMS
+================================================================================
+
+(a) No insurer shall seek reimbursement of an overpayment or withhold any
+portion of any benefit payable as a result of a claim on the basis that the
+sum withheld or reimbursement sought is an adjustment or correction for an
+overpayment made under the same policy unless:
+
+  (1) the insurer's files contain clear, documented evidence of an
+  overpayment and written authorization from the insured or assignee, if
+  applicable, permitting the reimbursement or withholding procedure, or
+
+  (2) the insurer's files contain clear, documented evidence pursuant to
+  section 2695.3 of all of the following:
+
+    (A) The overpayment was erroneous under the provisions of the policy.
+
+    (B) The error which resulted in the payment is not a mistake of the law.
+
+    (C) The insurer notifies the insured within six (6) months of the date of
+    the error, except that in instances of error prompted by representations
+    or nondisclosure of claimants or third parties, the insurer notifies the
+    insured within fifteen (15) calendar days after the date of discovery of
+    such error. For the purpose of this subsection, the date of the error
+    shall be the day on which the draft for benefits is issued.
+
+    (D) Such notice states clearly the cause of the error and states the
+    amount of the overpayment.
+
+    (E) The procedure set forth above in (a)(2)(A) through (D) above may not
+    be used if the overpayment is the subject of a reasonable dispute as to
+    facts.
+
+(b) With each claim payment, the insurer shall provide to the claimant and
+assignee, if any, an explanation of benefits which shall include, if
+applicable, the name of the provider or services covered, dates of service,
+and a clear explanation of the computation of benefits.
+
+(c) An insurer may not impose a penalty upon any insured for noncompliance
+with insurer requirements for precertification of benefits unless such
+penalties are specifically and clearly set forth in writing in the policy or
+certificate of insurance.
+
+(d) An insurer that contests a claim under California Insurance Code Section
+10123.13 shall subsequently affirm or deny the claim within thirty (30)
+calendar days from the original notification. In the event an insurer requires
+additional time to affirm or deny the claim, it shall notify the claimant and
+assignee in writing. This written notice shall specify any additional
+information the insurer requires in order to make a determination and shall
+state any continuing reasons for the insurer's inability to make a
+determination. This notice shall be given within thirty (30) calendar days of
+the notice (required under Insurance Code Section 10123.13) that the claim is
+being contested and every thirty (30) calendar days thereafter until a
+determination is made or legal action is served. If the determination cannot
+be made until some future event occurs, the insurer shall comply with this
+continuing notice requirement by advising the claimant and assignee of the
+situation and providing an estimate as to when the determination can be made.
+
+(e) When a policy requires preauthorization of non-emergency medical services,
+the preauthorization must be given immediately but in no event more than five
+(5) calendar days after the request for preauthorization. The preauthorization
+shall be communicated or confirmed in writing to the insured and the medical
+service provider, and shall explain the scope of the preauthorization and
+whether the preauthorization is or is not a guarantee of acceptance of the
+claim. In the event the preauthorization is denied, the reason(s) for the
+denial shall be communicated in writing to the insured and the medical service
+provider.
+
+(f) No preauthorization shall be required by an insurer for emergency medical
+services.
+
+(g) An insurer shall reimburse the insured or medical service provider for
+reasonable expenses incurred in copying medical records requested by the
+insurer.
+
+
+================================================================================
+SECTION 2695.12 - PENALTIES
+================================================================================
+
+(a) In determining whether to assess penalties and if so the appropriate
+amount to be assessed, the Commissioner shall consider admissible evidence on
+the following:
+
+  (1) the existence of extraordinary circumstances;
+
+  (2) whether the licensee has a good faith and reasonable basis to believe
+  that the claim or claims are fraudulent or otherwise in violation of
+  applicable law and the licensee has complied with the provisions of Section
+  1872.4 of the California Insurance Code;
+
+  (3) the complexity of the claims involved;
+
+  (4) gross exaggeration of the value of the property or severity of the
+  injury, or amount of damages incurred;
+
+  (5) substantial mischaracterization of the circumstances surrounding the
+  loss or the alleged default of the principal;
+
+  (6) secreting of property which has been claimed as lost or destroyed;
+
+  (7) the relative number of claims where the noncomplying act(s) are found
+  to exist, the total number of claims handled by the licensee and the total
+  number of claims reviewed by the Department during the relevant time period;
+
+  (8) whether the licensee has taken remedial measures with respect to the
+  noncomplying act(s);
+
+  (9) the existence or nonexistence of previous violations by the licensee;
+
+  (10) the degree of harm occasioned by the noncompliance;
+
+  (11) whether, under the totality of circumstances, the licensee made a good
+  faith attempt to comply with the provisions of this subchapter;
+
+  (12) the frequency of occurrence and/or severity of the detriment to the
+  public caused by the violation of a particular subsection of this
+  subchapter;
+
+  (13) whether the licensee's management was aware of facts that apprised or
+  should have apprised the licensee of the act(s) and the licensee failed to
+  take any remedial measures;
+
+  (14) the licensee's reasonable mistakes or opinions as to valuation of
+  property, losses or damages.
+
+(b) This section shall not bar, obstruct or restrict any right to
+administrative due process an insurer may be afforded under California
+Insurance Code Sections 790.05, 790.06, and 790.07.
+
+
+================================================================================
+SECTION 2695.13 - SEVERABILITY
+================================================================================
+
+If any provision or clause of this rule or the application thereof to any
+person or situation is held invalid, such invalidity shall not affect any
+other provision or application of this rule which can be given effect without
+the invalid provision or application, and to this end the provisions of this
+rule are declared to be severable.
+
+
+================================================================================
+SECTION 2695.14 - COMPLIANCE DATE
+================================================================================
+
+(a) Any amendments to these regulations shall be complied with within ninety
+(90) calendar days after they are filed with the Secretary of State.
+
+(b) Prior to the compliance date of these regulations, licensees shall,
+pursuant to Section 2695.6, adopt and communicate to their claims agents
+standards for the prompt investigation and processing of claims, and provide
+training and instruction on these regulations.
+
+(c) These regulations shall apply to any claims handling that takes place on
+or after the compliance date set forth under subsection 2695.14(a).
+
+
+================================================================================
+END OF DOCUMENT
+================================================================================
+
+Authority cited: Sections 790.10, 12921 and 12926, Insurance Code; and
+Section 11343.4, Government Code.
+
+Reference: Section 790.03(h), Insurance Code.
+
+Regulatory History: New section filed 6-1-2006; operative 8-30-2006
+(Register 2006, No. 22).

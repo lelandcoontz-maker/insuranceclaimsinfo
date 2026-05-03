@@ -229,8 +229,108 @@ export default function Content() {
         executed installment plan.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In the simplest scenario &mdash; one contractor, one scope, one deductible &mdash; the
-        statute is straightforward. But that is not how most claims work.
+        &sect;27.02(b) also requires contracts over $1,000 for goods or services expected to be
+        paid from insurance proceeds to include a disclosure in 12-point bold type: <em>&ldquo;Texas
+        law requires a person insured under a property insurance policy to pay any deductible
+        applicable to a claim made under the policy. It is a violation of Texas law for a seller
+        of goods or services who reasonably expects to be paid wholly or partly from the proceeds
+        of a property insurance claim to knowingly allow the insured person to fail to pay, or
+        assist the insured person&rsquo;s failure to pay, the applicable insurance
+        deductible.&rdquo;</em>
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Who Wrote This Law, and Why
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Chapter 707 was enacted as HB 2102 by the 86th Texas Legislature in 2019, sponsored by
+        Rep. Giovanni Capriglione (R) and Sen. Judith Zaffirini (D). The bill was framed as
+        consumer protection against fraudulent roofing contractors who offered &ldquo;free
+        roofs&rdquo; and then inflated claims to absorb the deductible. The grassroots campaign
+        behind it came from a coalition of Texas roofing contractor associations under the banner
+        &ldquo;Don&rsquo;t Fraud My Texas&rdquo; &mdash; including the North Texas Roofing
+        Contractors Association, the Roofing Contractors Association of Texas, and several
+        regional groups. Insurance companies lobbied hard for it as well. The National Insurance
+        Crime Bureau praised the bill as closing a &ldquo;fraud loophole.&rdquo; Texas Insurance
+        Commissioner Kent Sullivan endorsed it.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The political dynamic explains both the law&rsquo;s strengths and its blind spots:
+        legitimate roofing contractors wanted to eliminate competitors who used deductible waivers
+        to undercut them, and insurance companies wanted to reduce inflated claims. Those
+        interests aligned perfectly around the simplest scenario &mdash; a single roofing
+        contractor waiving a hail deductible on a straightforward claim under the policy limit.
+        The bill was drafted with that scenario in mind. The more complicated situations that
+        arise on real claims &mdash; multiple contractors, over-limit losses, ACV-only policies,
+        partial repairs &mdash; do not appear to have been considered.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This was not actually new law. A deductible waiver prohibition had existed in Texas since
+        1989 in Business &amp; Commerce Code &sect;27.02. But the original statute only prohibited
+        &ldquo;paying&rdquo; the deductible &mdash; and contractors argued that &ldquo;waiving&rdquo;
+        or &ldquo;absorbing&rdquo; a deductible was not the same as &ldquo;paying&rdquo; it. Attorney
+        General Jim Mattox issued Opinion JM-1154 in 1990 trying to clarify, but the narrow
+        wording made the law essentially unenforceable for 30 years. HB 2102 broadened the
+        prohibited conduct to include waiving, absorbing, rebating, crediting, offsetting, and
+        the catch-all &ldquo;in any other manner assist.&rdquo; It also added the
+        depreciation-withholding enforcement mechanism in &sect;707.004 and the mandatory
+        contract disclosures.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        No Court Has Interpreted This Law
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In the nearly seven years since Chapter 707 took effect, <strong>no Texas appellate court
+        has published a decision interpreting it</strong>. The questions raised throughout this
+        section &mdash; whether the deductible obligation is satisfied when paid to a prior
+        contractor, whether it is absorbed into over-limit losses, whether partial repairs
+        constitute &ldquo;assisting&rdquo; avoidance &mdash; are genuinely unresolved. They are
+        not unresolved because the answers are obvious. They are unresolved because nobody has
+        litigated them to a published decision. Criminal enforcement (Class B misdemeanor) would
+        produce trial-level cases that are rarely published, and civil litigation citing these
+        sections does not appear in any public database.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        The &sect;707.004 Enforcement Gap
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Read &sect;707.004 again carefully. It says an insurer that issues a policy{' '}
+        <em>&ldquo;with replacement cost coverage&rdquo;</em> may withhold{' '}
+        <em>&ldquo;recoverable depreciation or a replacement cost holdback.&rdquo;</em> This
+        enforcement mechanism only works when all of the following are true: the policy has
+        replacement cost coverage, the carrier is holding back depreciation, and the claim is
+        below the policy limit. When any of those conditions is missing, the tool does not apply:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>ACV-only policies:</strong> No replacement cost coverage means no depreciation
+          holdback to withhold. The statute&rsquo;s enforcement mechanism simply does not exist
+          for these policies.
+        </li>
+        <li>
+          <strong>Over-limit losses:</strong> When the loss exceeds the policy limit, the
+          carrier pays the full limit. There is no holdback. There is nothing to withhold as
+          leverage.
+        </li>
+        <li>
+          <strong>Full replacement cost paid up front:</strong> Some carriers pay the full
+          replacement cost without a holdback. Again, no withholding mechanism.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The 88th Texas Legislature (2023) partially acknowledged this problem. SB 1268 amended
+        &sect;707.004 to make the depreciation withholding <em>mandatory</em> rather than
+        optional &mdash; recognizing that insurers were not consistently using the tool. But
+        SB 1268 did not fix the structural gap: the enforcement mechanism still only works on
+        replacement cost policies with claims below the limit. Nobody in the published legal
+        literature appears to have addressed this gap.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In the simplest scenario &mdash; one contractor, one scope, one deductible, replacement
+        cost policy, claim under the limit &mdash; the statute is straightforward. But that is
+        not how most claims work.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">

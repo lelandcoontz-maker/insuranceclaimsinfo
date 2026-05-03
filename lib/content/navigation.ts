@@ -121,7 +121,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
     links: [
       { href: '/resources/public-adjuster', label: 'Working With a PA' },
       { href: '/resources/when-to-hire-attorney', label: 'When to Hire an Attorney' },
-      { href: '/quiz', label: 'Professional Assessment Quiz' },
+      { href: '/quiz', label: 'Property Claims Knowledge Assessment' },
       { href: '/faq', label: 'Frequently Asked Questions' },
       { href: '/letters', label: 'Template Demand Letters' },
       { href: '/free-guides', label: 'Free PDF Guides' },
@@ -154,7 +154,7 @@ export const FOOTER_RESOURCE_LINKS: NavLink[] = [
   { href: '/guides', label: 'Guides & Toolkits' },
   { href: '/resources/scoping-the-loss', label: 'Scoping Field Manual' },
   { href: '/resources/california-insurance-case-law', label: 'CA Case Law Guide' },
-  { href: '/quiz', label: 'Professional Assessment' },
+  { href: '/quiz', label: 'Knowledge Assessment' },
   { href: '/books', label: 'Recommended Books' },
   { href: '/videos', label: 'Videos & Media' },
 ]
