@@ -379,6 +379,70 @@ export default function Content() {
         </Link>.
       </p>
 
+      {/* ───────── SECTION: EVOLVING SCIENCE ───────── */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        The Evolving Science of Smoke Contamination
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This article focuses on smoke taint in wine grapes &mdash; a contamination pathway that
+        is relatively well understood and testable. But the broader science of wildfire smoke
+        contamination is still evolving rapidly, and what researchers are finding has implications
+        far beyond vineyards.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The volatile phenols that cause smoke taint in grapes are only one category of compound
+        present in wildfire smoke. When a wildfire burns through an urban or suburban area &mdash;
+        as California&rsquo;s wildfires increasingly do &mdash; the smoke contains contaminants
+        from the combustion of building materials, vehicles, plastics, and industrial products
+        that are far more toxic than what a forest fire produces. The distinction between a
+        &ldquo;wildland fire&rdquo; and an &ldquo;urban wildfire&rdquo; matters enormously for
+        contamination analysis.
+      </p>
+      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>Dioxins from burning PVC:</strong> Polyvinyl chloride (PVC) is present in
+          pipes, siding, window frames, electrical insulation, and countless household products.
+          When PVC burns, it produces dioxins and furans &mdash; persistent organic pollutants
+          that are among the most toxic substances known. Dioxin contamination from urban
+          wildfires is an emerging area of environmental and health concern that is only beginning
+          to be reflected in post-fire testing protocols.
+        </li>
+        <li>
+          <strong>Beryllium:</strong> Beryllium is a carcinogen that was not traditionally on the
+          radar for wildfire smoke analysis. It is present in certain building materials,
+          electronics, and industrial components. As awareness grows that beryllium can be released
+          during the combustion of structures, post-fire testing for beryllium contamination in
+          ash, soil, and settled particulate is becoming more common &mdash; and more frequently
+          detected.
+        </li>
+        <li>
+          <strong>Crystalline silica:</strong> Silica is heavily regulated by OSHA in construction
+          contexts like concrete sawing and demolition, where workers are exposed to respirable
+          crystalline silica dust. What is less widely understood is that silica is also released
+          when concrete, stucco, and masonry burn or fracture in a structural fire. In an urban
+          wildfire that destroys hundreds or thousands of homes, the silica exposure from burned
+          concrete in neighboring properties can affect areas well beyond the fire perimeter.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        These contaminants are not specific to smoke taint on grapes &mdash; a vineyard exposed
+        to smoke from a remote forest fire may have volatile phenol contamination without dioxins,
+        beryllium, or elevated silica. But a vineyard downwind of an urban wildfire may have all
+        of them, and the contamination question extends beyond whether the grapes are tainted to
+        whether the soil, the vines, the irrigation water, and the winery structures themselves
+        are safe.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The insurance implications are significant. Standard smoke taint analysis tests for
+        volatile phenols. It does not test for dioxins, beryllium, heavy metals, or silica.
+        If the science continues to evolve &mdash; and it will &mdash; the definition of what
+        constitutes &ldquo;smoke damage&rdquo; may expand well beyond what current crop insurance
+        and commercial property policies contemplate. Vineyard and winery owners in fire-prone
+        areas should track developments in post-fire contamination science, because the coverage
+        disputes of the future will be fought over contaminants that most policies were not
+        written to address.
+      </p>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.

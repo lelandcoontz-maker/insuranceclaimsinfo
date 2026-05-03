@@ -134,31 +134,45 @@ export default function Content() {
         </li>
       </ul>
 
-      {/* ───────── SECTION: NEVER SAY BAD FAITH ───────── */}
+      {/* ───────── SECTION: BAD FAITH LANGUAGE ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Never Use the Phrase &ldquo;Bad Faith&rdquo;
+        Think Twice Before Using the Phrase &ldquo;Bad Faith&rdquo;
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is counterintuitive advice, but it comes from experienced plaintiff attorneys who
-        litigate insurance bad faith cases for a living: <strong>do not accuse your insurer of
-        bad faith in your correspondence</strong>. Do not use the phrase. Do not threaten a bad
-        faith lawsuit. Do not reference Insurance Code &sect; 790.03(h) by name and accuse the
-        insurer of violating it.
+        This is counterintuitive advice, but many experienced plaintiff attorneys who litigate
+        insurance bad faith cases recommend that policyholders <strong>avoid accusing the insurer
+        of &ldquo;bad faith&rdquo; in claim correspondence</strong>, at least until the situation
+        has deteriorated to the point where it is obvious and the policyholder is ready to act on
+        it. It is not necessarily wrong to use the phrase &mdash; there are situations where the
+        insurer&rsquo;s conduct is so egregious that calling it what it is becomes appropriate.
+        But in most claim disputes, there is a better approach.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Instead, <strong>describe the behavior</strong>. Let the behavior speak for itself. A
-        reader &mdash; whether a CDI examiner, a mediator, or a judge &mdash; can draw the
-        conclusion without you labeling it.
+        The better approach is to <strong>describe the behavior</strong> and let the reader draw
+        the conclusion. A CDI examiner, a mediator, or a judge can recognize bad faith conduct
+        without the policyholder having to label it. And if you need to signal the concern without
+        using the loaded phrase, there are alternatives: you can note that the insurer&rsquo;s
+        conduct &ldquo;does not reflect good faith claims handling,&rdquo; or that you are
+        &ldquo;concerned about the lack of good faith in the handling of this claim.&rdquo; These
+        formulations make the same point with less inflammatory language and are harder for the
+        insurer&rsquo;s defense team to weaponize.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Why Plaintiff Attorneys Recommend This Approach
+        Why Many Plaintiff Attorneys Recommend This Approach
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        There are several strategic reasons experienced attorneys advise against using the phrase
-        &ldquo;bad faith&rdquo; in claim correspondence:
+        There are several strategic reasons to be cautious with the phrase &ldquo;bad faith&rdquo;
+        in claim correspondence:
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>It can be thrown back at you in litigation.</strong> If the claim eventually goes
+          to court, the insurer&rsquo;s defense attorney will comb through every letter you sent.
+          A premature or poorly supported accusation of bad faith gives the defense material to
+          argue that you were unreasonable, adversarial, or making legal conclusions you were not
+          qualified to make. Your own correspondence becomes a defense exhibit.
+        </li>
         <li>
           <strong>It escalates without accomplishing anything.</strong> The moment you accuse an
           insurer of bad faith, the claim file gets flagged, the adjuster&rsquo;s authority to
@@ -193,6 +207,14 @@ export default function Content() {
           policyholder having to attach a legal label to it.
         </li>
       </ol>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        That said, this is not a universal rule. When the insurer&rsquo;s conduct becomes
+        genuinely egregious &mdash; repeated regulatory violations, documented lies, refusal
+        to communicate for months &mdash; there comes a point where the policyholder or their
+        representative may decide the situation warrants direct language. The point is to be
+        strategic about when and how you use it, not to treat it as something that can never
+        be said.
+      </p>
 
       <CalloutBox variant="warning" title="What to Write Instead">
         <p>
@@ -200,16 +222,18 @@ export default function Content() {
           law.&rdquo;
         </p>
         <p className="mt-2">
-          Write: &ldquo;I submitted my proof of loss on [date]. Under the Fair Claims Settlement
+          Consider: &ldquo;I submitted my proof of loss on [date]. Under the Fair Claims Settlement
           Practices Regulations, a coverage determination was due within 40 days. It has now been
           [number] days, and I have not received an acceptance, denial, or written explanation for
           the delay. My family remains displaced, and the delay is causing ongoing financial harm
-          as described in my previous correspondence.&rdquo;
+          as described in my previous correspondence. I am concerned that the handling of this
+          claim does not reflect good faith claims practices.&rdquo;
         </p>
         <p className="mt-2">
-          The first version tells the insurer you are angry. The second version creates a
-          documented regulatory violation with specific dates, a specific regulation, and specific
-          harm &mdash; exactly what a CDI examiner or a judge needs to see.
+          The first version gives the insurer a label to argue about. The second version creates a
+          documented regulatory violation with specific dates, a specific regulation, specific
+          harm, and a measured expression of concern &mdash; exactly what a CDI examiner or a
+          judge needs to see.
         </p>
       </CalloutBox>
 
