@@ -243,6 +243,68 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The PA as Expert Consultant to the Plaintiff Attorney
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Once a claim moves into litigation, the Public Adjuster&rsquo;s role does not necessarily
+        end. In many cases, the plaintiff attorney retains the PA as an{' '}
+        <strong>expert consultant</strong> &mdash; someone who can explain the technical aspects
+        of the claim, review the carrier&rsquo;s estimate for errors, evaluate the adequacy of
+        the carrier&rsquo;s investigation, and provide expert testimony about claims handling
+        practices, estimating methodology, and the standard of care in the industry. A PA who
+        handled the claim from the beginning has firsthand knowledge of every interaction with
+        the carrier and can testify to what was said, what was promised, what was delayed, and
+        what was refused.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Even on claims where the PA was not involved from the start, plaintiff attorneys
+        frequently engage Public Adjusters as consulting experts to review the carrier&rsquo;s
+        scope and estimate, identify line items that are missing or underpriced, calculate the
+        true depreciation, and prepare a competing damage valuation. This is especially valuable
+        in cases where the attorney needs to demonstrate the gap between what the carrier paid
+        and what the claim was actually worth. The PA brings the technical fluency that makes the
+        attorney&rsquo;s legal arguments concrete.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Attorney&rsquo;s Role in Guiding Claims Toward Appraisal
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Not every claim that reaches an attorney ends up in litigation. An experienced plaintiff
+        attorney may evaluate the claim and conclude that{' '}
+        <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
+          appraisal
+        </Link>{' '}
+        is the most efficient path to recovery &mdash; particularly when the dispute is about
+        the amount of loss rather than whether the loss is covered. The attorney can invoke the
+        appraisal clause, manage the legal aspects of the appraisal process (including any
+        disputes about scope or appraiser selection), and preserve the client&rsquo;s bad faith
+        claims while the appraisal proceeds.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In appraisal proceedings, the insured&rsquo;s appraiser is very often a Public Adjuster.
+        This is the natural result of the skill set involved: appraisers under an insurance
+        policy&rsquo;s appraisal clause must evaluate the cost of repair or replacement,
+        calculate depreciation, and determine the amount of loss &mdash; precisely the work a PA
+        does on every claim. Most licensed Public Adjusters have the Xactimate expertise, the
+        construction knowledge, and the claims experience to prepare competent evidence and serve
+        as effective appraisers. See our{' '}
+        <Link href="/resources/appraisal-practitioner-guide" className="text-blue-700 underline hover:text-blue-900">
+          practitioner&rsquo;s guide to appraisal
+        </Link>{' '}
+        for a detailed discussion of the process.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This creates a common and effective three-way structure: the attorney manages the legal
+        strategy and preserves litigation rights; the PA serves as the insured&rsquo;s appraiser,
+        preparing the damage valuation and negotiating with the carrier&rsquo;s appraiser; and
+        the policyholder benefits from both levels of expertise working toward the same goal. If
+        appraisal produces a fair award, the claim resolves without the cost and delay of trial.
+        If the carrier refuses to honor the award, the attorney is already in position to file
+        suit.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What an Attorney Can Do That a PA Cannot
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
