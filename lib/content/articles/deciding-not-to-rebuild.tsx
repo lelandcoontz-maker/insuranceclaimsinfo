@@ -85,6 +85,21 @@ export default function Content() {
         </Link>.
       </p>
 
+      <CalloutBox variant="tip" title="You Can Rebuild Somewhere Else and Still Get RCV">
+        <p>
+          Many homeowners assume that deciding not to rebuild on the original lot means
+          forfeiting the depreciation holdback entirely. In California, that is not necessarily
+          true. California Insurance Code &sect;2051.5(c) provides that the insured may recover
+          the full replacement cost by replacing the dwelling <strong>at another
+          location</strong>. This means you may be able to purchase or build a home in a
+          different city &mdash; or even a different part of the state &mdash; and still recover
+          the holdback that would otherwise be lost. The replacement dwelling does not need to be
+          identical, but it must be a functional replacement. Read your policy language and the
+          statute carefully, and consult with a licensed public adjuster or attorney about whether
+          this option applies to your situation.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Mortgage Gets Paid First
       </h2>

@@ -157,6 +157,15 @@ export default function Content() {
         policy. The bank is the named insured. The bank controls the claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
+        Because the force-placed policy covers only the structure, the bank is not pursuing a
+        personal property claim, a temporary housing (additional living expenses) claim, or a
+        liability claim &mdash; those coverages simply do not exist on the policy. The only claim
+        being made is for the physical structure, and it is being made by the bank to protect its
+        collateral. This means that if you are displaced by a loss while only a force-placed
+        policy is in effect, there is no coverage at all for your contents, your temporary
+        housing costs, or any other coverage that a standard homeowner policy would provide.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
         This has several important consequences:
       </p>
 

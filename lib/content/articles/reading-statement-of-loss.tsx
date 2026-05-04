@@ -308,9 +308,11 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California&rsquo;s Fair Claims Settlement Practices regulations, you have the right
-        to know how your claim was calculated. Specifically, 10 CCR &sect;2695.7(b) requires the
-        carrier to provide a written explanation of the basis for any settlement offer, including
-        the specific policy provisions and factual basis upon which the determination was made.
+        to know how your claim was calculated. Under 10 CCR &sect;2695.9(d), if losses are
+        settled on the basis of a written scope and/or estimate prepared by or for the insurer,
+        the insurer must supply the claimant with a copy. Under &sect;2695.7(b)(1), when a claim
+        is denied in whole or in part, the carrier must provide a written explanation listing all
+        bases for the denial with the factual and legal basis for each reason.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have not received a statement of loss, request one in writing. Some carriers issue
@@ -318,10 +320,10 @@ export default function Content() {
         are entitled to this document.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, under 10 CCR &sect;2695.7(d), the carrier cannot base a settlement on
-        documents, reports, or information that it has not disclosed to the insured. If the carrier
-        is relying on an internal statement of loss to calculate your payments but has not shared
-        it with you, that is a problem under California law.
+        Additionally, under 10 CCR &sect;2695.4(a), the carrier must affirmatively disclose all
+        benefits, coverage, time limits, and other provisions that may apply to the claim. If the
+        carrier is relying on an internal statement of loss to calculate your payments but has not
+        shared it with you, that is a problem under California law.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a broader overview of these regulations, see our{' '}

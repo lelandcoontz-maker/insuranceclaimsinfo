@@ -43,33 +43,46 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect;2695 et seq.)
-        impose specific disclosure obligations on every insurer doing business in California. Two
+        impose specific disclosure obligations on every insurer doing business in California. Three
         provisions are especially important for policyholders trying to understand how their claim
         was calculated.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        10 CCR &sect;2695.7(b): The Duty to Explain the Basis of the Settlement
+        10 CCR &sect;2695.7(b)(1): The Duty to Explain Denials
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This regulation requires the carrier to provide a written explanation of the basis for any
-        settlement offer. It means the carrier cannot simply send a check &mdash; it must explain
-        <em> how</em> it arrived at the number. The explanation must be specific enough that the
-        insured can understand the calculation and evaluate whether the payment is fair. A check
-        accompanied by a one-sentence letter that says &ldquo;enclosed is payment for your
-        claim&rdquo; does not satisfy this obligation.
+        When the carrier denies a claim in whole or in part, &sect;2695.7(b) requires that the
+        denial be in writing, listing <strong>all bases</strong> for the denial with the factual
+        and legal basis for each reason, citing the specific policy provisions relied upon. This
+        applies to partial denials as well &mdash; if the carrier pays $200,000 on a claim the
+        insured believes is worth $400,000, the carrier has effectively denied $200,000 and must
+        explain why. A check accompanied by a vague letter that says &ldquo;enclosed is payment
+        for your claim&rdquo; does not satisfy this obligation when the carrier has not paid the
+        full amount claimed.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        10 CCR &sect;2695.7(d): No Settlement Based on Undisclosed Documents
+        10 CCR &sect;2695.9(d): The Insurer Must Share Its Estimate
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is one of the most powerful provisions in the California regulations. It states that the
-        carrier cannot settle a claim based on an adjuster&rsquo;s report or any other document that
-        has not been provided to the insured. If the carrier used an Xactimate estimate, a
-        depreciation schedule, a scope of loss, or any other document to calculate the payment, the
-        insured is entitled to a copy. The carrier cannot withhold the very documents it relied on to
-        justify its number.
+        This is one of the most powerful provisions in the California regulations for property
+        claims. It provides that if losses are settled on the basis of a written scope and/or
+        estimate prepared by or for the insurer, <strong>the insurer shall supply the claimant
+        with a copy</strong>. If the carrier used an Xactimate estimate, a scope of loss, or any
+        other written document to calculate the payment, the insured is entitled to a copy. The
+        carrier cannot withhold the very documents it relied on to justify its number.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        10 CCR &sect;2695.4(a): The Duty to Disclose All Coverages
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The carrier must affirmatively disclose to the insured <strong>all benefits, coverage,
+        time limits or other provisions</strong> of the policy that may apply to the claim. The
+        duty is on the insurer to disclose &mdash; not on the insured to ask. If the carrier
+        never mentions a coverage that applies to your loss, that silence is itself a regulatory
+        violation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a full section-by-section breakdown of these regulations, see our{' '}
@@ -144,13 +157,13 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What &ldquo;Cannot Be Based On Documents Not Shared&rdquo; Actually Means
+        What the Estimate Disclosure Requirement Actually Means
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2695.7(d) deserves a closer look because it is one of the most powerful and
+        Section 2695.9(d) deserves a closer look because it is one of the most powerful and
         underused provisions in California insurance regulation. The principle is straightforward:
-        if the carrier relied on a document to calculate your payment, you are entitled to see
-        that document. The carrier cannot hide behind claims of &ldquo;internal work
+        if the carrier settled on the basis of a written scope or estimate, you are entitled to
+        see that document. The carrier cannot hide behind claims of &ldquo;internal work
         product&rdquo; when the document was the basis of the settlement.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -181,8 +194,8 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The regulation does not contain exceptions for documents the carrier considers
-        &ldquo;proprietary&rdquo; or &ldquo;confidential.&rdquo; If it was used to calculate the
-        payment, it must be shared. Period.
+        &ldquo;proprietary&rdquo; or &ldquo;confidential.&rdquo; If it was used as the basis of
+        the settlement, it must be shared. Period.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -207,11 +220,13 @@ export default function Content() {
       <CalloutBox variant="tip" title="How to Request Your Claim File">
         <p>
           Send a written request &mdash; email is fine &mdash; specifically citing 10 CCR
-          &sect;2695.7(d) and requesting the complete claim file, including all estimates, reports,
-          depreciation schedules, adjuster notes, and correspondence. Be specific about what you
-          want. The carrier must respond within a reasonable time as specified in the regulations. If
-          it does not, document the request and the lack of response &mdash; this becomes evidence of
-          a regulatory violation.
+          &sect;2695.9(d) (requirement to share estimates and scope documents) and
+          &sect;2695.7(b)(1) (requirement to explain all bases for any denial), and requesting
+          the complete claim file, including all estimates, reports, depreciation schedules,
+          adjuster notes, and correspondence. Be specific about what you want. The carrier must
+          respond within a reasonable time as specified in the regulations. If it does not,
+          document the request and the lack of response &mdash; this becomes evidence of a
+          regulatory violation.
         </p>
       </CalloutBox>
 
@@ -275,9 +290,10 @@ export default function Content() {
           </ul>
         </li>
         <li>
-          <strong>Cite the regulation.</strong> Include a specific reference to 10 CCR
-          &sect;2695.7(b) and (d) in your request. This signals to the carrier that you know your
-          rights and that you are creating a record for potential regulatory action.
+          <strong>Cite the regulations.</strong> Include specific references to 10 CCR
+          &sect;2695.9(d) (estimate disclosure), &sect;2695.7(b)(1) (denial explanation), and
+          &sect;2695.4(a) (duty to disclose all coverages). This signals to the carrier that you
+          know your rights and that you are creating a record for potential regulatory action.
         </li>
         <li>
           <strong>Set a deadline.</strong> State that you expect a response within 10 to 14 calendar
