@@ -423,6 +423,126 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      {/* ────────────────── TOTAL LOSS: PAYOFF VS REBUILD ────────────────── */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Total Loss: When the Mortgage Company Wants Payoff and You Want to Rebuild
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Everything above assumes a partial loss &mdash; damage that will be repaired, with the
+        mortgage company releasing funds in stages as construction progresses. A total loss
+        creates a fundamentally different dynamic. When your home is destroyed, the lender&rsquo;s
+        collateral is gone, and the lender&rsquo;s primary interest shifts from ensuring repairs
+        to protecting its outstanding loan balance.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In a total loss, the insurance proceeds often represent the only remaining value
+        associated with the property (apart from the land). The mortgage company will hold these
+        proceeds with an even tighter grip than on a partial loss, because the question is no
+        longer &ldquo;are repairs progressing?&rdquo; but &ldquo;will the property be rebuilt at
+        all?&rdquo;
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        The Lender&rsquo;s Two Priorities
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        After a total loss, the lender has two competing priorities:
+      </p>
+      <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>Protect the loan balance.</strong> If there is any doubt about whether you
+          will rebuild, the lender wants to apply your insurance proceeds directly to the
+          mortgage. This extinguishes the debt, which is the lender&rsquo;s primary objective.
+        </li>
+        <li>
+          <strong>Restore the collateral.</strong> If you commit to rebuilding, the lender has
+          an interest in seeing the property restored &mdash; which means releasing funds for
+          construction. But the lender will require extensive documentation, inspections, and
+          progress milestones before releasing anything.
+        </li>
+      </ol>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The tension between these two priorities creates problems. If you tell the lender you are
+        undecided about rebuilding, the lender may refuse to release any funds at all &mdash;
+        because from the lender&rsquo;s perspective, releasing money for construction that may
+        never happen is the worst-case scenario. But if you commit to rebuilding, you need access
+        to the insurance proceeds to hire a contractor, obtain permits, and begin construction
+        &mdash; and the lender will not release those funds until you demonstrate progress you
+        cannot make without the funds. The Catch-22 described earlier in this article is
+        amplified at total loss scale.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        When You Decide Not to Rebuild
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you decide not to rebuild, the lender will apply insurance proceeds to pay off the
+        outstanding mortgage balance. The lender has a contractual right to do this under the deed
+        of trust and the{' '}
+        <Link href="/resources/lenders-loss-payable-endorsement" className="text-blue-700 underline hover:text-blue-900">
+          loss payable endorsement
+        </Link>{' '}
+        on your policy. Any proceeds that exceed the mortgage balance belong to you.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the proceeds are less than the outstanding balance, whether you owe the deficiency
+        depends on the type of loan. Purchase money mortgages &mdash; the original loan you took
+        out to buy the home &mdash; are generally non-recourse under California Code of Civil
+        Procedure &sect;580b. Refinanced mortgages and home equity lines of credit may be recourse
+        debt. For a full discussion of the financial implications of not rebuilding, see our
+        article on{' '}
+        <Link href="/resources/deciding-not-to-rebuild" className="text-blue-700 underline hover:text-blue-900">
+          deciding not to rebuild after a total loss
+        </Link>.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        Total Loss Escrow: The Scale Problem
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        On a partial loss, the draw schedule is manageable &mdash; the mortgage company releases
+        funds in stages as repairs are completed. On a total loss where the homeowner is
+        rebuilding from the ground up, the escrow process becomes far more complex:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>The construction timeline is 18&ndash;36 months</strong>, not weeks. That is
+          18&ndash;36 months of mortgage payments on a home you cannot live in, while your
+          insurance proceeds sit in the lender&rsquo;s escrow account.
+        </li>
+        <li>
+          <strong>Contractors need deposits</strong> to begin work &mdash; often 10&ndash;20%
+          of the contract price. Lenders are reluctant to release large deposits before work
+          begins, but no reputable contractor will start a ground-up rebuild without one.
+        </li>
+        <li>
+          <strong>Multiple inspections and draws</strong> stretch the timeline further. Every
+          inspection requires scheduling, every draw requires processing, and every delay in
+          fund release creates a cascading delay in construction.
+        </li>
+        <li>
+          <strong>Construction costs escalate</strong> during the delay. In post-disaster
+          markets, demand surge pricing means every month of delay increases the ultimate
+          cost &mdash; potentially pushing the project above your policy limits. See our article
+          on{' '}
+          <Link href="/resources/demand-surge-pricing" className="text-blue-700 underline hover:text-blue-900">
+            demand surge pricing
+          </Link>.
+        </li>
+      </ul>
+
+      <CalloutBox variant="tip" title="Total Loss: Negotiate the Draw Schedule Up Front">
+        <p>
+          Before committing to a construction contract, negotiate the draw schedule with your
+          lender in writing. Get explicit agreement on the percentage released at each stage
+          (foundation, framing, rough-in, drywall, finish), the inspection process, the
+          turnaround time for each draw, and how the contractor&rsquo;s deposit will be handled.
+          Do this <strong>before</strong> you sign the construction contract &mdash; not after.
+          If the lender&rsquo;s draw schedule is incompatible with what your contractor requires,
+          you need to know that before you are locked in.
+        </p>
+      </CalloutBox>
+
       {/* ────────────────── INSPECTION FEES ────────────────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Inspection Fees: When the Mortgage Company Bills You for Drive-Bys
