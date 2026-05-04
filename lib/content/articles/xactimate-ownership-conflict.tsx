@@ -332,7 +332,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A{' '}
-        <Link href="/resources/hire-public-adjuster" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
           Public Adjuster
         </Link>{' '}
         or a certified estimator who works for you — not the carrier — can review the estimate with
@@ -426,7 +426,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/hire-public-adjuster" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
             Why Hire a Public Adjuster
           </Link>
         </li>
