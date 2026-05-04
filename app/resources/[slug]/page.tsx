@@ -35,7 +35,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'debris-removal':         { title: 'Debris Removal Coverage — More Than Just the Dwelling', description: 'Debris removal coverage applies to more than the dwelling. Learn how it works for other structures, trees, and personal property — and how to maximize your recovery.' },
   'dealing-with-adjuster':  { title: 'How to Deal with the Insurance Company\'s Adjuster', description: 'What to expect when the insurer sends their adjuster, your rights during the inspection, common tactics to watch for, and when to get professional help.' },
   'total-loss':             { title: 'Total Loss Insurance Claims — When Your Home Is a Complete Loss', description: 'A comprehensive guide to total loss insurance claims in California — every coverage that activates, rebuilding vs. cashing out, contents claims, common problems, and California-specific protections.' },
-  'examination-under-oath': { title: 'Examination Under Oath (EUO) — What It Is and How to Prepare', description: 'What an Examination Under Oath is, when insurers request one, your rights, how to prepare, and what to expect — written by a California Licensed Public Adjuster.' },
+  'examination-under-oath': { title: 'Examination Under Oath (EUO): What It Is, Why It Happens, and How to Prepare', description: 'When your insurance company demands an Examination Under Oath, you are being asked to testify under oath before the insurer\'s attorney. Learn what an EUO is, your rights, how to prepare, and how insurers use EUOs to delay or deny claims in California.' },
   'roof-damage':            { title: 'Roof Damage Insurance Claims in California', description: 'How to handle a roof damage insurance claim in California — common causes, what\'s covered, insurer inspections, matching disputes, and how to get the full settlement you\'re owed.' },
   'public-adjuster-fees':   { title: 'Public Adjuster Fees — What They Cost and When They\'re Worth It', description: 'How Public Adjuster fees work in California — contingency percentages, the disaster fee cap, when hiring a PA is worth it, and questions to ask before signing.' },
   'california-insurance-crisis': { title: 'California\'s Insurance Crisis: What Homeowners Need to Know', description: 'Why California insurers are cancelling policies, leaving the market, and raising rates — and what homeowners can do to protect themselves.' },
@@ -400,6 +400,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'deciding-not-to-rebuild': { title: 'What Happens When You Decide Not to Rebuild After a Total Loss', description: "Deciding not to rebuild after a total loss changes your insurance recovery, your mortgage obligations, and your tax situation. Here is what you need to know before making that decision — and how to maximize your recovery either way." },
   'reading-statement-of-loss': { title: "How to Read Your Insurance Statement of Loss: The Document That Shows Where Your Money Went", description: "The statement of loss is the carrier's accounting of your entire claim — what it calculated, what it deducted, and what it paid on each coverage. Learning to read it is the first step to identifying underpayment." },
   'insurer-duty-to-explain-payment': { title: "Your Right to Know How Your Claim Was Calculated: The Insurer's Duty to Explain Every Payment", description: 'California law requires your insurance company to explain the basis of every payment and share the documents it relied on. Most policyholders never exercise these rights. Here is how to use them.' },
+  'building-your-claim-file': { title: 'How to Build Your Claim File: Documentation That Protects Your Recovery', description: 'A well-documented claim is harder to deny and easier to settle fairly. Learn what to photograph, what to write down, how to organize your file, and the critical discoverability rules that determine what the insurer can access in litigation.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -799,6 +800,7 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'deciding-not-to-rebuild': () => import('@/lib/content/articles/deciding-not-to-rebuild'),
   'reading-statement-of-loss': () => import('@/lib/content/articles/reading-statement-of-loss'),
   'insurer-duty-to-explain-payment': () => import('@/lib/content/articles/insurer-duty-to-explain-payment'),
+  'building-your-claim-file': () => import('@/lib/content/articles/building-your-claim-file'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
