@@ -433,6 +433,9 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'how-insurance-adjusters-are-paid': { title: 'How Insurance Adjusters Are Trained, Compensated, and Measured', description: 'How catastrophe adjusters, daily claims adjusters, and independent adjusters are compensated, what authority levels mean, and how internal carrier metrics influence claim handling.' },
   'contractor-liens-insurance-claims': { title: 'Contractor Liens When the Insurance Company Won\'t Pay: A Property Owner\'s Guide to Mechanics Liens in California', description: 'When your insurance company delays or denies payment and a contractor files a mechanics lien on your property, you need to know your rights. Covers California mechanics lien law, preliminary notices, subcontractor liens, and inflated lien defenses.' },
   'victim-becomes-villain-tort-reform': { title: 'When the Victim Becomes the Villain: The Tort Reform Narrative and What It Costs Policyholders', description: 'How the insurance industry funded the tort reform movement, rewrote the Stella Liebeck story, and created a culture that punishes policyholders for asserting their rights. The real facts behind the McDonald\'s coffee case and what it means for your insurance claim.' },
+  'efficient-proximate-cause-doctrine': { title: 'The Efficient Proximate Cause Doctrine: When the Real Cause of Your Loss Is Covered', description: 'When multiple perils combine to cause a loss, the efficient proximate cause doctrine looks at the predominant cause. If it is covered, the entire loss is covered. Here is how the doctrine works, what California law requires, and how insurers try to get around it.' },
+  'punitive-damages-bad-faith': { title: 'Punitive Damages in California Insurance Bad Faith Cases', description: 'When and how punitive damages are available in California insurance bad faith cases, including the legal standards under Civil Code section 3294, landmark cases like Neal v. Farmers and Egan v. Mutual of Omaha, constitutional limits, the managing agent requirement, and the practical settlement leverage a viable punitive damages claim creates.' },
+  'insurer-insolvency-ciga': { title: 'When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know', description: 'What happens when your California insurance company is declared insolvent. How the California Insurance Guarantee Association (CIGA) works, coverage caps, surplus lines gaps, the claims process, and how to protect yourself in today\'s volatile insurance market.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -865,6 +868,9 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'how-insurance-adjusters-are-paid': () => import('@/lib/content/articles/how-insurance-adjusters-are-paid'),
   'contractor-liens-insurance-claims': () => import('@/lib/content/articles/contractor-liens-insurance-claims'),
   'victim-becomes-villain-tort-reform': () => import('@/lib/content/articles/victim-becomes-villain-tort-reform'),
+  'efficient-proximate-cause-doctrine': () => import('@/lib/content/articles/efficient-proximate-cause-doctrine'),
+  'punitive-damages-bad-faith': () => import('@/lib/content/articles/punitive-damages-bad-faith'),
+  'insurer-insolvency-ciga': () => import('@/lib/content/articles/insurer-insolvency-ciga'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

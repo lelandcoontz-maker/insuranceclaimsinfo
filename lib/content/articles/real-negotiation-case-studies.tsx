@@ -10,6 +10,15 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. Insurance policies, regulations, and case law can vary significantly based
+          on individual circumstances. Consult a licensed attorney for advice about your specific
+          situation.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Every insurance claim negotiation follows a pattern. The carrier opens low, the policyholder pushes back, and somewhere in the middle &mdash; or, if you know what you&apos;re doing, closer to your number &mdash; you reach a resolution. But most homeowners have never seen how this actually plays out. They don&apos;t know what a demand letter looks like, how an adjuster responds, or what leverage they actually have.
       </p>
@@ -17,7 +26,7 @@ export default function Content() {
         This article presents real negotiation scenarios drawn from actual claims I&apos;ve handled. Names, addresses, and identifying details have been changed, but the strategies, dollar amounts, and back-and-forth are based on real cases. Each case study illustrates a specific negotiation principle that you can apply to your own claim.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Case Study 1: The $6 Per Square Foot Flooring Fight
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -26,21 +35,21 @@ export default function Content() {
         <strong>Dispute amount:</strong> $18,000
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Setup
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A homeowner had engineered hardwood flooring installed six months before a water loss. The flooring cost $11 per square foot from the retailer where they purchased it. The carrier&apos;s adjuster wrote the estimate at $5 per square foot, based on a third-party report from a flooring inspector they hired.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Carrier&apos;s Position
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The adjuster sent an inspector who found a comparable-looking product at $5 per square foot. The adjuster&apos;s position: &ldquo;We&apos;ve identified like kind and quality flooring at a lower price. We pay for like kind and quality, not the exact same product.&rdquo;
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Negotiation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -78,14 +87,14 @@ export default function Content() {
         <strong>Resolution:</strong> The carrier agreed to $10 per square foot &mdash; a $15,000 increase over their initial offer on the flooring alone.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Lesson
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Don&apos;t argue price when you can argue quality.</strong> Insurance adjusters expect you to negotiate the dollar amount. When you instead challenge whether their &ldquo;comparable&rdquo; product actually meets the policy&apos;s like kind and quality standard, you change the nature of the dispute. The burden shifts to them to prove their product is truly comparable &mdash; and they usually can&apos;t.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Case Study 2: The $300,000 O&amp;P Battle
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -94,21 +103,21 @@ export default function Content() {
         <strong>Dispute amount:</strong> Overhead and profit on a $300,000 repair
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Setup
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A kitchen fire caused $300,000 in damage to a single-family home. The carrier&apos;s adjuster wrote a detailed Xactimate estimate that was actually fairly reasonable on scope &mdash; they didn&apos;t miss much. But they refused to include overhead and profit (O&amp;P), which at the standard 10 and 10 (10% overhead, 10% profit) amounted to approximately $60,000.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Carrier&apos;s Position
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         &ldquo;O&amp;P is only payable when a general contractor is involved and uses three or more subcontractor trades. Since the work hasn&apos;t started yet, we can&apos;t determine if a GC will be needed.&rdquo;
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Negotiation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -159,14 +168,14 @@ export default function Content() {
         <strong>Resolution:</strong> The carrier included O&amp;P on the next revision of the estimate. Full 10 and 10.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Lesson
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Make the carrier&apos;s position look absurd, not just wrong.</strong> Everyone in the industry knows O&amp;P is owed on a multi-trade repair. The adjuster knows it. Their manager knows it. Their attorney knows it. By systematically documenting why their position doesn&apos;t hold up &mdash; twelve trades, their own estimate, the Xactimate toggles &mdash; you make it harder for them to maintain a position they know is indefensible.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Case Study 3: The Puppet Master Strategy
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -175,7 +184,7 @@ export default function Content() {
         <strong>Dispute amount:</strong> $35,000 in mold remediation costs
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Setup
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -185,14 +194,14 @@ export default function Content() {
         The actual mold remediation cost: $40,000.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Carrier&apos;s Position
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         &ldquo;Your policy has a $5,000 sublimit for mold. We&apos;ve paid the $5,000. The claim for mold is closed.&rdquo;
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Negotiation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -226,14 +235,14 @@ export default function Content() {
         <strong>Resolution:</strong> The carrier paid $32,000 of the $40,000 mold remediation cost &mdash; framed not as mold sublimit payment, but as additional water damage remediation. The remaining $8,000 was absorbed by the homeowner, but compared to the $5,000 sublimit that was the carrier&apos;s original position, the homeowner came out $27,000 ahead.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Lesson
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Sometimes the best negotiator is the homeowner, not the PA.</strong> A sincere homeowner making a reasonable point hits differently than a formal demand letter. The puppet master strategy uses the homeowner as a proxy to deliver the message in a way that&apos;s harder for the adjuster to dismiss. The key is coaching the homeowner on exactly what to say &mdash; and following up with a paper trail that documents the conversation.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Case Study 4: The Appraisal End Run
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -242,21 +251,21 @@ export default function Content() {
         <strong>Dispute amount:</strong> $180,000
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Setup
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A partial fire loss with extensive smoke damage. The carrier&apos;s estimate: $120,000. My estimate: $300,000. The gap was primarily in smoke remediation &mdash; the carrier wanted to clean; I argued for gut remediation based on contamination testing showing heavy metals and chemical compounds in the smoke residue.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Carrier&apos;s Position
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         &ldquo;We&apos;ll pay to clean the smoke damage. Gut remediation is unnecessary and excessive.&rdquo;
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Negotiation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -280,14 +289,14 @@ export default function Content() {
         <strong>The appraisal result:</strong> The panel awarded $278,000 &mdash; $158,000 more than the carrier&apos;s estimate and only $22,000 less than my full demand.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Lesson
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Know when to stop negotiating and invoke appraisal.</strong> Negotiation works when the adjuster has authority and willingness to move. When the gap is too large, the adjuster has no authority, or the carrier has made a policy decision to deny a category of damage, appraisal is the better tool. It&apos;s faster than litigation, cheaper than hiring an attorney, and produces binding results.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Case Study 5: The Counter-Offer That Wasn&apos;t
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -296,7 +305,7 @@ export default function Content() {
         <strong>Dispute amount:</strong> $50,000 in original flooring and cabinets
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Setup
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -306,14 +315,14 @@ export default function Content() {
         The carrier argued that since the flooring and cabinets were &ldquo;original to the building&rdquo; and part of the common elements, the $70,000 in original finishes should come off the unit owner&apos;s claim and be shifted to the HOA&apos;s master policy.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Carrier&apos;s Position
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         &ldquo;The original flooring and cabinets are the HOA&apos;s responsibility under the CC&amp;Rs. We&apos;ll pay $130,000 for the damage exclusive of original finishes.&rdquo;
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Negotiation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -344,56 +353,56 @@ export default function Content() {
         <strong>Resolution:</strong> The carrier paid the full $200,000. They pursued subrogation against the HOA&apos;s master policy carrier for the $70,000 in original finishes &mdash; which was their right, and the correct legal process. The homeowner wasn&apos;t caught in the middle.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The Lesson
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Don&apos;t let the carrier make their problem your problem.</strong> Coverage allocation disputes between carriers &mdash; who pays what share of overlapping coverage &mdash; are between the carriers. Your policy says what it says. If your carrier owes under your policy, they pay you. If they think another carrier also owes, they can pursue that separately through subrogation. Your claim shouldn&apos;t be reduced because of a dispute between two insurance companies.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Universal Negotiation Principles
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         These case studies illustrate principles that apply to every insurance claim negotiation:
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         1. Put Everything in Writing
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Verbal promises disappear. Written demands create records. Every phone conversation should be followed by an email summarizing what was discussed. &ldquo;Per our conversation today, you stated that [X]. Please confirm or correct this understanding.&rdquo;
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         2. Use the Carrier&apos;s Own Evidence Against Them
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The most powerful arguments use the carrier&apos;s own estimate, their own engineer&apos;s report, or their own policy language to prove your point. When you can show that their own evidence supports your position, the adjuster has no rebuttal.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         3. Know When the Adjuster Can&apos;t Say Yes
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Field adjusters have authority limits. If your dispute exceeds their authority, you&apos;re wasting time negotiating with someone who can&apos;t approve the payment even if they agree with you. Ask directly: &ldquo;Do you have authority to settle this claim at this amount?&rdquo; If the answer is no, ask to speak with whoever does.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         4. Create Bad Faith Exposure
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance companies are businesses. They make cost-benefit decisions. When the cost of denying your claim (potential bad faith lawsuit, DOI complaints, regulatory penalties) exceeds the cost of paying it, they pay. Your job is to make sure the carrier understands the cost of saying no.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         5. Document Everything as if It&apos;s Going to a Judge
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         It probably won&apos;t. But if you document your claim as if a judge will eventually read every letter, every email, and every estimate, you&apos;ll naturally create the kind of paper trail that makes carriers settle rather than litigate.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         6. Be a Puppet Master, Not a Punching Bag
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -405,6 +414,13 @@ export default function Content() {
         <p className="text-gray-600 text-sm mb-4">A licensed Public Adjuster can review your situation and explain your options at no cost.</p>
         <Link href="/contact" className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors">Request a Free Claim Review &rarr;</Link>
       </div>
+
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal or
+        professional advice. Every insurance claim involves unique facts, policy language, and
+        jurisdictional considerations. Consult a licensed public adjuster or attorney for guidance
+        on your specific situation.
+      </p>
     </>
   )
 }
