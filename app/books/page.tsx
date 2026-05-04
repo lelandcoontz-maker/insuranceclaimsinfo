@@ -69,6 +69,24 @@ const BOOKS: Book[] = [
     asin: '0983172102',
     category: 'The Insurance Industry Exposed',
   },
+  {
+    title: 'Payment Refused',
+    author: 'William M. Shernoff & Thelma O\'Brien',
+    description:
+      'The father of bad faith insurance law tells his own story. Shernoff pioneered the tort of bad faith, won the landmark Egan v. Mutual of Omaha verdict, and co-founded the National Insurance Consumer Organization with Ralph Nader. This book exposes how insurers systematically deny legitimate claims and warns about the tort reform movement\'s threat to policyholder rights. Also available free from shernoff.com.',
+    asin: '0931933145',
+    category: 'The Insurance Industry Exposed',
+    tag: 'Classic',
+    tagColor: 'bg-amber-100 text-amber-700',
+  },
+  {
+    title: 'Blocking the Courthouse Door: How the Republican Party and Its Corporate Allies Are Taking Away Your Right to Sue',
+    author: 'Stephanie Mencimer',
+    description:
+      'Exposes the corporate-funded tort reform movement — the dubious research, fudged numbers, and propaganda campaigns (including the McDonald\'s coffee case) used to restrict Americans\' access to civil courts. Shows how insurers and manufacturers spent hundreds of millions to cap damages and limit accountability.',
+    asin: '0743277007',
+    category: 'The Insurance Industry Exposed',
+  },
 
   // ── Claims Adjusting & Practice ──
   {
@@ -163,6 +181,58 @@ const BOOKS: Book[] = [
     tag: 'California',
     tagColor: 'bg-blue-100 text-blue-700',
   },
+  {
+    title: 'Litigation and Prevention of Insurer Bad Faith',
+    author: 'Dennis J. Wall',
+    description:
+      'The leading practitioner treatise on insurance bad faith litigation. Two volumes, continuously updated since 1985. Covers constructing claims, expert defenses, and all features of bad faith law from both plaintiff and defense perspectives. A working reference for any attorney handling first-party bad faith.',
+    asin: '0071725377',
+    category: 'California Insurance Law & Legal References',
+    tag: 'Treatise',
+    tagColor: 'bg-blue-100 text-blue-700',
+  },
+  {
+    title: 'Catastrophe Claims: Insurance Coverage for Natural and Man-Made Disasters',
+    author: 'John K. DiMugno, Steven Plitt & Dennis J. Wall',
+    description:
+      'The leading reference on insurance coverage for catastrophe events — wildfire, flood, earthquake, hurricane. Updated semi-annually to reflect major decisions. Directly relevant to California wildfire claims, demand surge, code upgrade disputes, and ALE exhaustion issues.',
+    asin: '0314848851',
+    category: 'California Insurance Law & Legal References',
+    tag: 'Updated Semi-Annually',
+    tagColor: 'bg-green-100 text-green-700',
+  },
+
+  // ── Trial Advocacy for Insurance Cases ──
+  {
+    title: 'Reptile: The 2009 Manual of the Plaintiff\'s Revolution',
+    author: 'David Ball & Don Keenan',
+    description:
+      'The trial methodology used by plaintiff attorneys in bad faith insurance cases across the country. Teaches how to frame insurer misconduct as a community safety issue that triggers juror survival instincts. Widely cited in insurance bad faith CLE programs.',
+    asin: '0977442551',
+    category: 'Trial Advocacy for Insurance Cases',
+    tag: 'For Attorneys',
+    tagColor: 'bg-purple-100 text-purple-700',
+  },
+  {
+    title: 'David Ball on Damages 3',
+    author: 'David Ball',
+    description:
+      'America\'s top-selling guide on proving damages at trial. Integrates Reptile methodology with new voir dire techniques. Essential for attorneys proving extracontractual damages, emotional distress, and punitive damages in bad faith cases.',
+    asin: '1934833894',
+    category: 'Trial Advocacy for Insurance Cases',
+    tag: 'For Attorneys',
+    tagColor: 'bg-purple-100 text-purple-700',
+  },
+  {
+    title: 'Rules of the Road: A Plaintiff Lawyer\'s Guide to Proving Liability',
+    author: 'Rick Friedman & Patrick Malone',
+    description:
+      'Trial Guides\' number-one bestseller. Provides the standards-of-care framework that plaintiff attorneys use to establish duty violations in bad faith cases. Originally developed from the very training manuals used to certify insurance adjusters — now turned back against insurers who violate those standards.',
+    asin: '1941007104',
+    category: 'Trial Advocacy for Insurance Cases',
+    tag: 'For Attorneys',
+    tagColor: 'bg-purple-100 text-purple-700',
+  },
 
   // ── Construction Estimating ──
   {
@@ -210,6 +280,46 @@ const BOOKS: Book[] = [
     category: 'Construction Estimating & Xactimate',
   },
 
+  // ── Standards & Technical References ──
+  {
+    title: 'ANSI/IICRC S500 Standard for Professional Water Damage Restoration (2021)',
+    author: 'IICRC',
+    description:
+      'The industry standard governing how water damage restoration is performed, categorized, and priced. Carriers and public adjusters reference S500 categories and classes in every water claim. Understanding this standard is critical for challenging insurer scope reductions and category downgrades.',
+    asin: 'B09CFW7DS6',
+    category: 'Standards & Technical References',
+    tag: 'Industry Standard',
+    tagColor: 'bg-green-100 text-green-700',
+  },
+  {
+    title: 'ANSI/IICRC S520 Standard for Professional Mold Remediation (3rd Edition)',
+    author: 'IICRC',
+    description:
+      'The governing standard for professional mold remediation procedures and scope. Essential when carriers dispute remediation protocols or deny mold claims. Deviations from S520 by a carrier\'s preferred vendor can constitute bad faith when the insurer directs inadequate remediation.',
+    asin: 'B01L7OPMLO',
+    category: 'Standards & Technical References',
+    tag: 'Industry Standard',
+    tagColor: 'bg-green-100 text-green-700',
+  },
+  {
+    title: 'After the Smoke Clears: A Fire and Smoke Damage Restoration Manual',
+    author: 'Jeff Bishop & Steve S. Bishop',
+    description:
+      'The professional reference for fire restoration of residential and light commercial structures. Covers cleaning agents, deodorizing, equipment, and safety compliance. Written by an IICRC Certified Master Cleaner who developed IICRC restoration examinations. Essential for PAs handling fire claims.',
+    asin: '0944352340',
+    category: 'Standards & Technical References',
+  },
+  {
+    title: 'Kirk\'s Fire Investigation (8th Edition)',
+    author: 'David Icove & Gerald Haynes',
+    description:
+      'The preeminent textbook on fire origin and cause determination. Critical for PAs working fire claims where cause is disputed or when challenging an insurer\'s arson allegation. Understanding fire behavior science strengthens claim advocacy and exposes flawed investigations.',
+    asin: '0134237927',
+    category: 'Standards & Technical References',
+    tag: 'Fire Claims',
+    tagColor: 'bg-orange-100 text-orange-700',
+  },
+
   // ── Specialized Topics ──
   {
     title: 'Mold: The War Within',
@@ -232,6 +342,22 @@ const BOOKS: Book[] = [
 ]
 
 const FILMS: Film[] = [
+  {
+    title: 'Hot Coffee',
+    year: 2011,
+    director: 'Susan Saladoff',
+    description:
+      'The definitive documentary on how tort reform campaigns — funded by insurers and corporations — used the McDonald\'s coffee case to erode Americans\' right to sue. Premiered at Sundance, aired on HBO. Shows how the Liebeck verdict was deliberately distorted to build public support for damage caps and mandatory arbitration. Essential viewing for understanding why policyholders face an uphill battle in bad faith litigation.',
+    asin: 'B00595W3MO',
+  },
+  {
+    title: 'Business of Disaster',
+    year: 2016,
+    director: 'Marcela Gaviria (PBS FRONTLINE)',
+    description:
+      'FRONTLINE investigates how private insurance companies working for the government made hundreds of millions while thousands of Superstorm Sandy homeowners were systematically underpaid. Exposes how Write-Your-Own carriers under the National Flood Insurance Program manipulated engineering reports and denied legitimate claims. A case study in institutional bad faith at scale.',
+    asin: 'B01F73L6A2',
+  },
   {
     title: 'Low and Behold',
     year: 2007,
