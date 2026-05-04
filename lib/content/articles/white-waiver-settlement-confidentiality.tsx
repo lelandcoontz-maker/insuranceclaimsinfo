@@ -369,6 +369,105 @@ export default function Content() {
         introduces settlement-related evidence, it may open the door to the insured doing the same.
       </p>
 
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Discoverable Even If Inadmissible
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One of the most commonly misunderstood aspects of settlement confidentiality is the
+        difference between <strong>inadmissibility</strong> and <strong>privilege</strong>. Evidence
+        Code section 1152 makes settlement offers inadmissible at trial to prove liability. But
+        inadmissibility is not the same thing as privilege. In{' '}
+        <em>Covell v. Superior Court</em> (1984) 159 Cal.App.3d 39, the California Court of Appeal
+        held that &ldquo;the statutory protection afforded to offers of settlement does not elevate
+        them to the status of privileged material.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This distinction matters enormously. Under Code of Civil Procedure section 2017.010,
+        parties may discover any matter that is &ldquo;not privileged&rdquo; and is relevant or
+        reasonably calculated to lead to admissible evidence. Because settlement communications are
+        not privileged, they may be <strong>discoverable</strong> even when they are not admissible.
+        The court in <em>Volkswagen of America, Inc. v. Superior Court</em> (2006) 139 Cal.App.4th
+        1481 confirmed this principle, holding that &ldquo;the fact that evidence is not admissible
+        does not mean that it is also not discoverable.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practical implication for White waivers is significant. A White waiver is a contractual
+        agreement about admissibility &mdash; the insured agrees not to introduce settlement offers
+        as evidence at trial. But the waiver may not bar the insured from <strong>discovering</strong>{' '}
+        the communications through formal discovery and using them to develop other evidence or
+        inform litigation strategy. The insurer that believes its White waiver has sealed the vault
+        may find that the vault has a side door.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Factual Admissions Embedded in Settlement Discussions
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Even within settlement discussions that are covered by a White waiver, not everything the
+        insurer says is necessarily protected. In <em>Truestone, Inc. v. Simi West Industrial
+        Park</em> (1984) 163 Cal.App.3d 715, the court held that factual statements made within
+        settlement communications may be admissible as <strong>admissions against interest</strong>,
+        independent of the compromise offer itself.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Consider the distinction: if an insurer says &ldquo;we&rsquo;ll offer $80,000 to settle
+        this claim,&rdquo; that is a settlement offer. But if, in the course of that discussion, the
+        adjuster says &ldquo;we know the roof damage exceeds $200,000 but our position is that the
+        policy limits our exposure,&rdquo; the factual acknowledgment of the damage amount may be
+        extractable from the protected discussion as an admission against interest. The White waiver
+        shields settlement posturing; it may not shield factual concessions that the insurer makes
+        along the way.
+      </p>
+
+      {/* ── The White Waiver in Federal Court ────────────────────── */}
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        The White Waiver in Federal Court
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The White waiver is a creature of California state law, born from a California Supreme Court
+        decision interpreting California&rsquo;s Evidence Code. As Kalfen Law Corp has noted, White
+        waivers address only California state law issues and carry <strong>no enforceability in
+        federal court proceedings</strong>. In federal court, the admissibility of settlement
+        communications is governed by Federal Rule of Evidence 408, which has its own framework and
+        exceptions. A White waiver drafted to address California Evidence Code section 1152 may not
+        provide the protection the insurer expected if the case ends up in federal court.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This creates a forum-selection dimension to the White waiver analysis. Insurance companies
+        that are incorporated outside California &mdash; which is most of them &mdash; can often
+        remove cases filed in California state court to federal court based on diversity of
+        citizenship under 28 U.S.C. section 1441. If the case is removed to federal court, a
+        previously signed White waiver may lose its teeth.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This intersects with another significant development in California insurance law.
+        In <em>Bock v. Hansen</em> (2014) 225 Cal.App.4th 215, the California Court of Appeal held
+        that insurance adjusters can be <strong>personally sued</strong> for negligent
+        misrepresentation when they falsely characterize coverage to a policyholder. The court found
+        that &ldquo;an insurance company&rsquo;s agents and employees do have a duty to the
+        policyholder and can be held personally liable&rdquo; for independent torts committed during
+        claim handling.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The <em>Bock</em> decision has a direct impact on the White waiver&rsquo;s effectiveness.
+        When a policyholder names a resident California adjuster as a defendant alongside the
+        out-of-state insurer, complete diversity of citizenship is destroyed. The insurer can no
+        longer remove the case to federal court. The case stays in California state court &mdash;
+        where Evidence Code section 1152 and the <em>White</em> decision govern, where the White
+        waiver was designed to operate, and where the policyholder&rsquo;s bad faith rights are most
+        clearly established.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Conversely, an insured who has signed a White waiver and later discovers that the adjuster
+        made negligent misrepresentations about coverage &mdash; perhaps during the very settlement
+        discussions the waiver was meant to protect &mdash; may have grounds to sue the adjuster
+        individually under <em>Bock</em>. The adjuster&rsquo;s misrepresentations are independent
+        torts, not settlement offers, and may fall outside the scope of the White waiver entirely.
+        Insurers and their counsel should recognize that the <em>Bock</em> decision adds a layer of
+        complexity to the White waiver calculus that did not exist before 2014.
+      </p>
+
       {/* ── The Last-Minute White Waiver ─────────────────────────── */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -495,6 +594,19 @@ export default function Content() {
         without one. The parties are free to reach whatever arrangement suits them, and the waiver is
         simply one term of the negotiation framework.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There is, however, a less flattering dynamic within the defense bar that Merlin Law
+        Group&rsquo;s Chip Merlin has identified. Defense attorneys who bill by the hour can spend
+        considerable time drafting and negotiating elaborate White waiver agreements &mdash; while
+        failing to advise their insurer clients that a reasonable settlement would be in the
+        carrier&rsquo;s best interest. The White waiver process can become a profit center for
+        defense counsel rather than a genuine path toward resolution. Some insureds, Merlin has
+        observed, call to report that they have received &ldquo;lowball&rdquo; offers for months,
+        certain it constitutes bad faith, only to discover that the carrier has been shielded by a
+        White waiver the insured signed without fully understanding its implications. This perverse
+        incentive &mdash; where the waiver facilitates billing rather than settlement &mdash;
+        deserves acknowledgment even within the defense perspective.
+      </p>
 
       {/* ── The Plaintiff Perspective ────────────────────────────── */}
 
@@ -569,6 +681,26 @@ export default function Content() {
         time period as a mediation &mdash; may not qualify for mediation confidentiality. And section
         1123(d) expressly provides that mediation agreements are admissible when used to show
         &ldquo;fraud, duress, or illegality.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One critical difference between mediation confidentiality and a White waiver: mediation
+        confidentiality has <strong>no bad faith exception</strong>. In{' '}
+        <em>Foxgate Homeowners&rsquo; Ass&rsquo;n v. Bramalea California, Inc.</em> (2001) 26
+        Cal.4th 1, the California Supreme Court held that even bad faith conduct occurring during
+        mediation cannot overcome the statutory confidentiality protections. This means that, in some
+        respects, an insurer may actually obtain stronger protection through mediation than through a
+        White waiver &mdash; which is contractual and subject to challenge on fraud, duress, or
+        failure of consideration grounds.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Experienced plaintiff attorneys have developed a strategy to navigate this distinction.
+        Evidence Code section 1125 defines mediation as concluded ten days after the last
+        communication between the mediator and any party. By delivering written settlement demands{' '}
+        <strong>after mediation concludes</strong>, explicitly labeled &ldquo;outside
+        mediation,&rdquo; plaintiff counsel can preserve <em>White</em> admissibility for those
+        communications while the insurer may have assumed everything would be covered by mediation
+        confidentiality. The burden rests on the party asserting confidentiality to prove that a
+        given communication falls within the statutory protection.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Insurance Code Section 790.03(h)</strong> defines unfair claims settlement practices,
@@ -684,8 +816,13 @@ export default function Content() {
         <li><em>White v. Western Title Insurance Co.</em> (1985) 40 Cal.3d 870, 710 P.2d 309</li>
         <li><em>Fletcher v. Western National Life Ins. Co.</em> (1970) 10 Cal.App.3d 376</li>
         <li><em>Comunale v. Traders &amp; General Ins. Co.</em> (1958) 50 Cal.2d 654</li>
+        <li><em>Covell v. Superior Court</em> (1984) 159 Cal.App.3d 39</li>
+        <li><em>Truestone, Inc. v. Simi West Industrial Park</em> (1984) 163 Cal.App.3d 715</li>
+        <li><em>Volkswagen of America, Inc. v. Superior Court</em> (2006) 139 Cal.App.4th 1481</li>
         <li><em>Wimsatt v. Superior Court</em> (2007) 152 Cal.App.4th 137</li>
         <li><em>Cassel v. Superior Court</em> (2011) 51 Cal.4th 113</li>
+        <li><em>Foxgate Homeowners&rsquo; Ass&rsquo;n v. Bramalea California, Inc.</em> (2001) 26 Cal.4th 1</li>
+        <li><em>Bock v. Hansen</em> (2014) 225 Cal.App.4th 215</li>
         <li><em>Odorizzi v. Bloomfield School District</em> (1966) 246 Cal.App.2d 123</li>
         <li><em>Tomerlin v. Canadian Indem. Co.</em> (1964) 61 Cal.2d 638</li>
       </ul>
@@ -694,8 +831,11 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-1 text-gray-700 mb-6 text-sm">
         <li>California Evidence Code section 1152</li>
         <li>California Evidence Code sections 1115&ndash;1128</li>
+        <li>California Code of Civil Procedure section 2017.010</li>
         <li>California Civil Code section 1689</li>
         <li>California Insurance Code section 790.03(h)</li>
+        <li>Federal Rule of Evidence 408</li>
+        <li>28 U.S.C. section 1441 (removal jurisdiction)</li>
       </ul>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">Sources and Further Reading</h3>
@@ -769,6 +909,28 @@ export default function Content() {
             &ldquo;Mediation Confidentiality and Insurance Bad Faith&rdquo;
           </a>{' '}
           &mdash; Plaintiff Magazine
+        </li>
+        <li>
+          <a
+            href="https://plaintiffmagazine.com/recent-issues/item/suing-insurance-adjusters-in-the-post-case-bock-v-hansen-case-world"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            &ldquo;Suing Insurance Adjusters in the Post-Bock v. Hansen World&rdquo;
+          </a>{' '}
+          &mdash; Plaintiff Magazine
+        </li>
+        <li>
+          <a
+            href="https://www.evidenceattrial.com/blog/settlementcommunications"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            &ldquo;California Evidence Code Section 1152/1154: Admissible? Discoverable?&rdquo;
+          </a>{' '}
+          &mdash; Evidence at Trial
         </li>
       </ul>
 
