@@ -667,25 +667,164 @@ export default function Content() {
       </CalloutBox>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Unmarried Partner Problem
+        The Unmarried Partner Problem &mdash; and Common Law Marriage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The situation is far more dangerous for unmarried partners. If one partner is the named
-        insured and the other is not &mdash; and they are not married &mdash; the surviving
-        partner may have no status as an insured under the policy at all. Standard HO-3 policies
-        extend &ldquo;insured&rdquo; status to a &ldquo;spouse,&rdquo; but not to an unmarried
-        domestic partner (unless the policy has been specifically endorsed to include them, or
-        unless the partners are registered domestic partners under Family Code &sect; 297.5,
-        which provides the same rights as marriage). An unmarried partner who is not on the
-        policy and not a registered domestic partner may have no contractual right to the
-        insurance proceeds &mdash; even if they co-own the property, live in the home, and
-        paid every premium.
+        insured and the other is not &mdash; and they are not legally married &mdash; the
+        surviving partner may have no status as an insured under the policy at all. Standard
+        HO-3 policies extend &ldquo;insured&rdquo; status to a &ldquo;spouse,&rdquo; but not
+        to an unmarried domestic partner. An unmarried partner who is not on the policy may
+        have no contractual right to the insurance proceeds &mdash; even if they co-own the
+        property, live in the home, and paid every premium.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is one of the strongest arguments for ensuring that all parties with an ownership
-        interest in a property are listed as named insureds on the policy &mdash; not just
-        assumed to be covered by virtue of residency or relationship.
+        But the word &ldquo;spouse&rdquo; in the policy does not always mean what the insurer
+        thinks it means. In states that recognize common law marriage, a couple who has lived
+        together, held themselves out as married, and agreed to be married may be legally
+        married &mdash; with all the rights of a ceremonial marriage &mdash; even though they
+        never obtained a marriage license or had a wedding. And if they are legally married
+        under common law, the surviving partner is a &ldquo;spouse&rdquo; under the policy,
+        entitled to all the protections that status provides.
       </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Common Law Marriage: Which States Recognize It?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        As of 2025, the following states recognize common law marriage created within their
+        borders:
+      </p>
+      <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
+        <li><strong>Colorado</strong> &mdash; no specific duration required</li>
+        <li><strong>Iowa</strong> &mdash; requires cohabitation and public declaration</li>
+        <li><strong>Kansas</strong> &mdash; requires capacity, agreement, and holding out</li>
+        <li><strong>Montana</strong> &mdash; requires capacity and cohabitation with reputation</li>
+        <li><strong>New Hampshire</strong> &mdash; recognized only for inheritance purposes after
+        three years of cohabitation</li>
+        <li><strong>Oklahoma</strong> &mdash; recognized by case law</li>
+        <li><strong>Rhode Island</strong> &mdash; recognized by case law</li>
+        <li><strong>South Carolina</strong> &mdash; recognized by case law</li>
+        <li><strong>Texas</strong> &mdash; called &ldquo;informal marriage&rdquo; under
+        Texas Family Code &sect; 2.401</li>
+        <li><strong>Utah</strong> &mdash; may be established by court order or administrative
+        order under Utah Code &sect; 30-1-4.5</li>
+        <li><strong>District of Columbia</strong> &mdash; recognized by case law</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Several other states &mdash; including Alabama, Georgia, Idaho, Ohio, and Pennsylvania
+        &mdash; previously recognized common law marriage but have since abolished it
+        prospectively. However, common law marriages validly created in those states before
+        the abolition date remain valid.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The critical point for insurance purposes: <strong>the IRS recognizes common law
+        marriages if the state where the couple resides (or where the marriage was created)
+        recognizes them.</strong> If the IRS treats a couple as married, there is a strong
+        argument that the insurance company must too. The policy says &ldquo;spouse.&rdquo;
+        The state says they are married. The IRS agrees. The insurer does not get to apply
+        a more restrictive definition of marriage than the state that governs the policy.
+      </p>
+
+      <CalloutBox variant="important" title="Full Faith and Credit: A Common Law Marriage Travels">
+        <p>
+          Under the Full Faith and Credit Clause of the U.S. Constitution, a common law marriage
+          that is validly created in one state must generally be recognized by every other state
+          &mdash; even states that do not themselves allow the creation of common law marriages.
+          If a couple established a valid common law marriage in Colorado and then moved to
+          California, California must recognize that marriage. This means the surviving partner
+          in a common law marriage may have &ldquo;spouse&rdquo; status under a California
+          homeowner&rsquo;s policy &mdash; if the common law marriage was validly created in a
+          state that recognizes it.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        California Does Not Recognize Common Law Marriage &mdash; With an Important Exception
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California abolished common law marriage in 1895. Family Code &sect; 300 requires a
+        license and solemnization for a valid marriage. Two people who live together in California
+        for decades, share everything, and hold themselves out as married are not legally married
+        under California law &mdash; no matter how long they have been together or how married
+        they appear to the outside world.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>The exception:</strong> California will recognize a common law marriage that was
+        validly created in another state. If a couple lived together in Texas, met the requirements
+        for an informal marriage under Texas Family Code &sect; 2.401, and then relocated to
+        California, California treats them as married. The marriage is valid. The surviving partner
+        is a spouse. The policy&rsquo;s definition of &ldquo;insured&rdquo; includes them.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For couples who have always lived in California and never established a common law
+        marriage elsewhere, there are two alternative paths to &ldquo;spouse&rdquo; status
+        under a homeowner&rsquo;s policy:
+      </p>
+      <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
+        <li>
+          <strong>Registered Domestic Partnership.</strong> California Family Code &sect; 297.5
+          provides that registered domestic partners have the same rights, protections, and
+          benefits as married spouses. A registered domestic partner is a &ldquo;spouse&rdquo;
+          for purposes of the policy&rsquo;s definition of insured. This applies regardless
+          of the partners&rsquo; genders &mdash; California opened registered domestic
+          partnerships to all couples effective January 1, 2020 (Senate Bill 30).
+        </li>
+        <li>
+          <strong>The Putative Spouse Doctrine.</strong> Under Family Code &sect; 2251, a person
+          who has a good faith belief that they are validly married &mdash; even if the marriage
+          turns out to be void or voidable &mdash; has the rights of a spouse with respect to
+          &ldquo;quasi-marital property.&rdquo; This is a narrow doctrine, but in the right
+          circumstances, it can provide spouse-equivalent status for insurance purposes.
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        What This Means for Insurance Claims
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The interaction between common law marriage and insurance claims plays out differently
+        depending on where the couple lives:
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>In a common law marriage state:</strong> If the couple meets the requirements
+        for common law marriage, the surviving partner is a spouse. The policy covers them.
+        The insurer&rsquo;s argument that &ldquo;they weren&rsquo;t married&rdquo; fails
+        if the couple can demonstrate agreement to be married, cohabitation, and holding
+        themselves out as married (the specific elements vary by state). The IRS recognizes
+        the marriage. The state recognizes the marriage. The insurer must too.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>In California (or another state that does not create common law marriages):</strong>{' '}
+        Unless the couple established a common law marriage in another state before moving to
+        California, or unless they are registered domestic partners, or unless the putative spouse
+        doctrine applies, the unmarried partner is not a &ldquo;spouse&rdquo; under the policy.
+        This means they may not be an &ldquo;insured&rdquo; at all &mdash; and if the named
+        insured dies, the surviving partner may have no contractual right to the insurance
+        proceeds under the policy.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The surviving partner may still have an{' '}
+        <Link href="/resources/named-insured-vs-an-insured" className="text-[#2E74B5] hover:underline">
+          insurable interest
+        </Link>{' '}
+        under Insurance Code &sect; 281 if they co-own the property or have a financial
+        relationship with it. But insurable interest alone does not make someone an insured
+        under the policy &mdash; it is a necessary condition for obtaining insurance, not a
+        sufficient condition for collecting on someone else&rsquo;s policy.
+      </p>
+
+      <CalloutBox variant="tip" title="The Bottom Line for Unmarried Couples">
+        <p>
+          If you are an unmarried couple in California and only one partner is on the
+          homeowner&rsquo;s policy, the other partner is likely not covered. Do not assume
+          that living together is enough. Either get married, register as domestic partners
+          under Family Code &sect; 297.5, or &mdash; at minimum &mdash; make sure both
+          partners are listed as named insureds on the policy. This is a simple endorsement
+          that most insurers will add for free. The cost of not doing it can be the entire
+          claim.
+        </p>
+      </CalloutBox>
 
       {/* ───────────────── SECTION 5 ───────────────── */}
 
