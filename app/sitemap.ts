@@ -153,6 +153,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'adu-granny-flat-insurance-claims',
     'pending-claim-policyholder-dies',
     'community-property-insurance-proceeds',
+    'xactimate-not-the-law',
+    'kurach-op-policy-restrictions',
+    '50-state-op-map',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

@@ -419,6 +419,9 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'adu-granny-flat-insurance-claims': { title: 'Insurance Claims on ADUs and Granny Flats: The Coverage Gap Most California Families Don\'t Know About', description: 'California\'s ADU boom has created a massive insurance coverage gap. Most homeowners policies don\'t adequately cover accessory dwelling units. Learn where ADUs fall in your policy and how to close the gap.' },
   'pending-claim-policyholder-dies': { title: 'Pending Insurance Claims When the Policyholder Dies: What Happens Next', description: 'When a policyholder dies with an active insurance claim, the claim doesn\'t die with them — it becomes an asset of the estate. Learn who has standing, what deadlines keep running, and how to continue the claim.' },
   'community-property-insurance-proceeds': { title: 'Community Property and Insurance Proceeds in California: Who Owns the Claim Money?', description: 'In California, insurance proceeds follow the character of the insured property. When one spouse is on the mortgage and the other is the named insured, the complications multiply. Learn how community property law affects your claim.' },
+  'xactimate-not-the-law': { title: 'Xactimate Is Not the Law: Why Carrier Estimates Are Not Binding on Your Claim', description: 'Xactimate dominates insurance estimating, but it is not a legal standard. Verisk\'s own EULA disclaims pricing accuracy. Multiple federal courts have rejected Xactimate as determinative. California regulations require actual market costs.' },
+  'kurach-op-policy-restrictions': { title: 'When Your Policy Secretly Restricts Overhead & Profit: The Kurach Decision and What It Means', description: 'In Kurach v. Truck Insurance Exchange (Pa. 2020), the Pennsylvania Supreme Court upheld policy language that withholds general contractor overhead and profit until the policyholder actually pays for it. Learn how this 4-3 decision works and how to check your own policy.' },
+  '50-state-op-map': { title: '50-State Overhead & Profit Map: Where the Law Stands on General Contractor O&P', description: 'A comprehensive state-by-state guide to the law on overhead and profit in property insurance claims. Majority rule states, minority rule states, regulatory authorities, and key case law citations.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -837,6 +840,9 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'adu-granny-flat-insurance-claims': () => import('@/lib/content/articles/adu-granny-flat-insurance-claims'),
   'pending-claim-policyholder-dies': () => import('@/lib/content/articles/pending-claim-policyholder-dies'),
   'community-property-insurance-proceeds': () => import('@/lib/content/articles/community-property-insurance-proceeds'),
+  'xactimate-not-the-law': () => import('@/lib/content/articles/xactimate-not-the-law'),
+  'kurach-op-policy-restrictions': () => import('@/lib/content/articles/kurach-op-policy-restrictions'),
+  '50-state-op-map': () => import('@/lib/content/articles/50-state-op-map'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
