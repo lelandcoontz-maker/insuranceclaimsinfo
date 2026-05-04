@@ -502,6 +502,191 @@ export default function Content() {
         </li>
       </ol>
 
+      {/* ───────────────── SECTION 4B: NAMED INSURED DIES ───────────────── */}
+
+      <h2
+        id="named-insured-dies"
+        className="text-2xl font-bold text-[#1F3964] mb-4"
+      >
+        When the Named Insured Dies: The Insurer&rsquo;s Most Unconscionable Argument
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There is a scenario that plays out with disturbing regularity in the mortgage/named
+        insured mismatch context, and it exposes one of the most aggressive positions an
+        insurance company will take against a grieving family.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Spouse A is the named insured on the homeowner&rsquo;s policy. Spouse B is on the
+        mortgage, lives in the home, and has paid the premiums with community funds for years.
+        The home is damaged. A claim is filed. Then Spouse A &mdash; the named insured &mdash;
+        dies. Perhaps from the stress of the loss. Perhaps from an unrelated illness. Perhaps
+        long after the loss occurred but before the claim is resolved.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The insurer&rsquo;s response, in cases that have been reported across the country:
+        <strong> the named insured is dead, the policy covered the named insured, and we have
+        no obligation to the surviving spouse.</strong>
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Read that again. The insurer collected premiums &mdash; paid with community funds &mdash;
+        for years. The insurer insured a community property home. The surviving spouse lived in
+        the home, maintained it, and may have been listed on the policy as a &ldquo;resident
+        spouse&rdquo; or &ldquo;insured resident.&rdquo; And the insurer&rsquo;s position is
+        that because the named insured died, the claim dies too.
+      </p>
+
+      <CalloutBox variant="warning" title="This Position Has No Basis in California Law">
+        <p>
+          An insurer that refuses to pay a surviving spouse on a community property claim because
+          the named insured died is ignoring California&rsquo;s community property framework,
+          the survival statutes under Code of Civil Procedure &sect;&sect; 377.20&ndash;377.34,
+          the policy&rsquo;s own definition of &ldquo;insured,&rdquo; and decades of California
+          law holding that insurance rights are property rights that survive death. This position
+          should be challenged aggressively.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Why the Insurer&rsquo;s Position Fails
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The insurer&rsquo;s argument collapses on multiple grounds:
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>First: the surviving spouse is an insured under the policy.</strong> Standard
+        homeowner&rsquo;s policies define &ldquo;insured&rdquo; to include the named insured
+        and their spouse if a resident of the same household. Most HO-3 policies use language
+        such as: &ldquo;you&rdquo; and &ldquo;your&rdquo; refer to the named insured shown in
+        the declarations and, if a resident of the same household, the spouse of the named
+        insured. The surviving spouse who lived in the home was an insured in their own right
+        &mdash; not through the deceased spouse, but independently, by operation of the policy
+        language. The death of the named insured does not retroactively strip the surviving
+        spouse of their status as an insured at the time of the loss.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Second: the insurance claim is a community property asset that survives
+        death.</strong> Under Family Code &sect; 760, the rights under an insurance policy
+        purchased with community funds during the marriage are community property. When a
+        covered loss occurs, the right to receive insurance proceeds vests at the time of
+        the loss &mdash; not at the time of payment. The surviving spouse owns a community
+        property interest in that vested right. Code of Civil Procedure &sect; 377.20
+        provides that &ldquo;a cause of action for or against a person is not lost by reason
+        of the person&rsquo;s death.&rdquo; The insurance claim &mdash; whether characterized
+        as a contract claim or a property right &mdash; survives.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Third: the surviving spouse has an independent insurable interest.</strong>{' '}
+        California Insurance Code &sect; 281 defines insurable interest broadly: every interest
+        in property, or any relation to it, that would cause the holder to suffer financial loss
+        from its damage or destruction. The surviving spouse who lives in the community property
+        home, holds title (or holds a community property interest regardless of whose name is on
+        title), and depends on the home for shelter has a direct, independent insurable interest.
+        The insurer cannot claim that this interest evaporated because the other spouse died.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Fourth: the insurer accepted premiums for the coverage.</strong> This is
+        perhaps the most fundamental point. The insurer knew &mdash; or should have known
+        &mdash; that it was insuring a community property home occupied by both spouses. It
+        accepted community funds as premium payments. It issued a policy that by its own terms
+        covered the resident spouse. Having accepted those premiums and issued that coverage,
+        the insurer cannot disclaim its obligations because one of the two people it was
+        covering has died. That is not how insurance works. That is not how contracts work.
+        And in California, it may constitute a violation of the implied covenant of good faith
+        and fair dealing.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Practical Reality: What Happens and What to Do
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When the named insured dies during a pending claim, the insurer may take several
+        positions, ranging from the defensible to the unconscionable:
+      </p>
+      <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
+        <li>
+          <strong>Requiring documentation of authority.</strong> The insurer may ask who has
+          legal authority to act on behalf of the deceased insured&rsquo;s estate. This is
+          legitimate. The surviving spouse should provide a copy of the death certificate and,
+          depending on how title was held, either an affidavit of survivorship (for joint
+          tenancy or community property with right of survivorship), the trust documents and
+          successor trustee certification (for trust-held property), or letters testamentary
+          or letters of administration (for property passing through probate). See our article
+          on{' '}
+          <Link href="/resources/pending-claim-policyholder-dies" className="text-[#2E74B5] hover:underline">
+            pending claims when the policyholder dies
+          </Link>{' '}
+          for the full procedural guide.
+        </li>
+        <li>
+          <strong>Issuing the check in the deceased&rsquo;s name.</strong> Some insurers will
+          process the claim but issue the settlement check payable to the deceased insured. This
+          creates a practical problem &mdash; the surviving spouse cannot deposit a check made
+          out to a dead person &mdash; but it is not a denial. The surviving spouse should
+          contact the insurer immediately and request reissuance in the appropriate name: the
+          surviving spouse as an insured, the estate, or the successor trustee, as applicable.
+        </li>
+        <li>
+          <strong>Denying the claim outright.</strong> This is the unconscionable position
+          described above. If the insurer denies the claim on the ground that the named insured
+          is dead, the surviving spouse should respond in writing, citing the policy&rsquo;s
+          definition of &ldquo;insured&rdquo; (which includes the resident spouse), Family Code
+          &sect; 760 (community property), Code of Civil Procedure &sect; 377.20 (survival of
+          causes of action), and Insurance Code &sect; 281 (insurable interest). The surviving
+          spouse should also file a complaint with the California Department of Insurance and
+          consult both a{' '}
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
+            public adjuster
+          </Link>{' '}
+          and an attorney.
+        </li>
+        <li>
+          <strong>Attempting to re-underwrite the policy.</strong> Some insurers use the death
+          of the named insured as a pretext to re-examine the policy, looking for grounds to
+          rescind or void coverage based on alleged misrepresentations that the deceased can no
+          longer explain or defend. This is particularly aggressive and may constitute{' '}
+          <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">
+            bad faith
+          </Link>{' '}
+          under California Insurance Code &sect; 790.03(h). The deceased insured&rsquo;s
+          application representations were made when the policy was issued; the insurer accepted
+          those representations and collected premiums for years. It does not get to re-litigate
+          them after the insured is no longer alive to respond.
+        </li>
+      </ul>
+
+      <CalloutBox variant="legal" title="The Surviving Spouse&rsquo;s Legal Position">
+        <p>
+          The surviving spouse&rsquo;s claim rests on independent grounds: (1) they are an
+          &ldquo;insured&rdquo; under the policy&rsquo;s own definition, (2) they have an
+          independent insurable interest under Insurance Code &sect; 281, (3) the insurance
+          proceeds are community property under Family Code &sect; 760, and (4) the claim
+          survives death under Code of Civil Procedure &sect; 377.20. The insurer must overcome
+          all four of these independent bases to deny the claim &mdash; and it cannot overcome
+          any of them.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Unmarried Partner Problem
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The situation is far more dangerous for unmarried partners. If one partner is the named
+        insured and the other is not &mdash; and they are not married &mdash; the surviving
+        partner may have no status as an insured under the policy at all. Standard HO-3 policies
+        extend &ldquo;insured&rdquo; status to a &ldquo;spouse,&rdquo; but not to an unmarried
+        domestic partner (unless the policy has been specifically endorsed to include them, or
+        unless the partners are registered domestic partners under Family Code &sect; 297.5,
+        which provides the same rights as marriage). An unmarried partner who is not on the
+        policy and not a registered domestic partner may have no contractual right to the
+        insurance proceeds &mdash; even if they co-own the property, live in the home, and
+        paid every premium.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is one of the strongest arguments for ensuring that all parties with an ownership
+        interest in a property are listed as named insureds on the policy &mdash; not just
+        assumed to be covered by virtue of residency or relationship.
+      </p>
+
       {/* ───────────────── SECTION 5 ───────────────── */}
 
       <h2
