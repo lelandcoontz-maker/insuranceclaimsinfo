@@ -384,6 +384,16 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'time-pressure-negotiation-weapon': { title: 'How Insurance Companies Use Time as Their Most Powerful Weapon', description: 'How ALE limits, depreciation deadlines, statute of limitations, and claim fatigue compound to create maximum settlement pressure — and how to fight back.' },
   'standard-fire-policy-denials-to-coverage': { title: 'When Two Words Change Everything: How the Standard Fire Policy Turns Denials Into Coverage', description: 'In roughly 30 states, the Standard Fire Policy creates a statutory floor. Small deviations between "the insured" and "an insured" can mean the difference between denial and full recovery.' },
   'appraisal-sfp-addition': { title: 'When the Standard Fire Policy Strips Away Appraisal Conditions', description: 'How the Standard Fire Policy\'s appraisal provision overrides insurer-added conditions, prerequisites, and procedural hurdles that make appraisal more burdensome than the statute intended.' },
+  'tortious-interference-insurance-claims': { title: 'Tortious Interference in Insurance Claims: When Adjusters and Vendors Cross the Line', description: 'When a carrier or its preferred vendor pressures a homeowner to abandon their chosen contractor, it may constitute tortious interference with contractual relations under California law.' },
+  'three-bids-myth': { title: 'The \'Get Three Bids\' Myth: Why Your Insurance Company Can\'t Demand Competitive Bidding', description: 'No standard homeowner\'s policy requires three bids before the carrier will pay. Learn where this demand actually comes from, why carriers use it, and how to respond.' },
+  'esx-file-rights-xactimate': { title: 'Your Right to the Carrier\'s Xactimate File: How to Get the ESX and What to Do With It', description: 'The ESX file is Xactimate\'s native project file containing all settings, line items, and pricing data. Learn your right to obtain it and what to look for.' },
+  'desk-adjusting-remote-estimates': { title: 'Desk Adjusting: When the Person Writing Your Estimate Has Never Seen Your Property', description: 'Insurance carriers increasingly use desk adjusters who write Xactimate estimates from photos or satellite imagery without ever visiting your property. Learn what gets missed and how to challenge a remote estimate.' },
+  'xactimate-price-list-dates': { title: 'Xactimate Price List Dates: When the Carrier Uses Last Month\'s Prices on Today\'s Claim', description: 'How insurance companies use outdated Xactimate price lists to systematically underpay claims. Learn where to find the price list date and how to challenge stale pricing.' },
+  'scope-vs-price-disputes': { title: 'Scope vs. Price: The Two Different Fights Your Insurance Company Wants You to Confuse', description: 'Every insurance claim dispute is either a scope dispute or a price dispute. Understanding which fight you are in changes your evidence, your strategy, and your path to resolution.' },
+  'adjuster-changes-mid-claim': { title: 'When Your Adjuster Changes Mid-Claim: How Reassignment Resets the Clock', description: 'Adjuster reassignment mid-claim causes delays, lost context, and shifting coverage positions. Learn why carriers rotate adjusters and what rights you have under California law.' },
+  'depreciation-schedules-useful-life': { title: 'Depreciation Schedules and Useful Life: How Carriers Assign Numbers That Determine Your Payout', description: 'How insurance carriers use depreciation schedules and useful life determinations to reduce claim payouts, why these numbers are often arbitrary, and how to challenge them.' },
+  'lenders-loss-payable-endorsement': { title: 'The Lender\'s Loss Payable Endorsement: Why the Mortgage Company\'s Name Is on Your Insurance Check', description: 'The lender\'s loss payable endorsement gives your mortgage company powerful rights over your insurance claim proceeds. Understanding what those rights are — and what they are not — is the first step to getting your money.' },
+  'coverage-allocation-over-limit-claims': { title: 'Coverage Allocation on Over-Limit Claims: How to Get Unencumbered Money to the Insured', description: 'When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines determines whether you get money directly or whether the mortgage company controls it all. The carrier may have a good faith duty to allocate in your favor.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -767,6 +777,16 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'time-pressure-negotiation-weapon': () => import('@/lib/content/articles/time-pressure-negotiation-weapon'),
   'standard-fire-policy-denials-to-coverage': () => import('@/lib/content/articles/standard-fire-policy-denials-to-coverage'),
   'appraisal-sfp-addition': () => import('@/lib/content/articles/appraisal-sfp-addition'),
+  'tortious-interference-insurance-claims': () => import('@/lib/content/articles/tortious-interference-insurance-claims'),
+  'three-bids-myth': () => import('@/lib/content/articles/three-bids-myth'),
+  'esx-file-rights-xactimate': () => import('@/lib/content/articles/esx-file-rights-xactimate'),
+  'desk-adjusting-remote-estimates': () => import('@/lib/content/articles/desk-adjusting-remote-estimates'),
+  'xactimate-price-list-dates': () => import('@/lib/content/articles/xactimate-price-list-dates'),
+  'scope-vs-price-disputes': () => import('@/lib/content/articles/scope-vs-price-disputes'),
+  'adjuster-changes-mid-claim': () => import('@/lib/content/articles/adjuster-changes-mid-claim'),
+  'depreciation-schedules-useful-life': () => import('@/lib/content/articles/depreciation-schedules-useful-life'),
+  'lenders-loss-payable-endorsement': () => import('@/lib/content/articles/lenders-loss-payable-endorsement'),
+  'coverage-allocation-over-limit-claims': () => import('@/lib/content/articles/coverage-allocation-over-limit-claims'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
