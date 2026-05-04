@@ -132,6 +132,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'pollution-exclusion-claims',
     'spoilage-coverage',
     'tenant-roof-leak-coverage-gap',
+    'estimate-bid-invoice-xactimate',
+    'how-to-challenge-xactimate-estimate',
+    'release-trap-insurance-claims',
+    'color-matching-material-aging',
+    'xactimate-labor-efficiency-settings',
+    'sub-bids-vs-xactimate-pricing',
+    'how-to-read-verisk-white-paper',
+    'construction-timeline-disputes-ale',
+    'carrier-contractor-admits-failure',
+    'incomplete-repairs-create-new-problems',
+    'preferred-contractor-conflict-of-interest',
+    'time-pressure-negotiation-weapon',
+    'standard-fire-policy-denials-to-coverage',
+    'appraisal-sfp-addition',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({

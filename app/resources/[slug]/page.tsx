@@ -370,6 +370,20 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'spoilage-coverage': { title: 'Spoilage Coverage: When Temperature-Sensitive Inventory Is Your Business', description: 'How spoilage coverage protects perishable inventory from power outages and equipment failure, what standard policies exclude, and how to avoid devastating sublimits.' },
   'tenant-roof-leak-coverage-gap': { title: 'Roof Leaks in Leased Commercial Space: The Coverage Gap That Destroys Businesses', description: 'When rain enters a leased commercial space through a neglected roof, neither the tenant\'s nor the landlord\'s policy may cover the damage. Learn why this gap exists, what triggers coverage, and how to protect yourself before a loss.' },
   'cashing-insurance-checks': { title: 'Can I Cash This Insurance Check? What You Need to Know Before You Deposit', description: 'The vast majority of insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure.' },
+  'estimate-bid-invoice-xactimate': { title: 'The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice', description: 'A single Xactimate document can be an estimate, a bid, or an invoice — and most people don\'t understand the difference. Learn why intent matters and how carriers misuse this confusion.' },
+  'how-to-challenge-xactimate-estimate': { title: 'How to Challenge an Xactimate Estimate: A Step-by-Step Guide', description: 'A practical guide for policyholders, public adjusters, and attorneys on identifying errors in a carrier\'s Xactimate estimate and building an effective challenge.' },
+  'release-trap-insurance-claims': { title: 'The Release Trap: What You\'re Really Signing When the Insurance Company Sends a Check', description: 'Comprehensive guide to releases in insurance claims — what they are, types of releases, the ALE and depreciation traps, and how to negotiate carve-outs to protect your rights.' },
+  'color-matching-material-aging': { title: 'Why New Materials Never Match: Color Matching, Material Aging, and What Your Insurance Company Owes', description: 'The science behind why new building materials cannot match aged materials, and the legal implications for insurance claims where the carrier wants to do a partial repair.' },
+  'xactimate-labor-efficiency-settings': { title: 'Xactimate Labor Efficiency Settings: How Restoration vs. Rebuild Changes Every Line Item', description: 'How Xactimate\'s labor efficiency settings work, why wrong settings systematically underpay every line item by 15-30%, and how to challenge them using Verisk\'s own documentation.' },
+  'sub-bids-vs-xactimate-pricing': { title: 'When a Contractor\'s Bid Overrides Xactimate: Sub-Bids, Specialty Work, and the EULA', description: 'When a specialty sub-contractor provides an actual bid that exceeds Xactimate pricing, the bid reflects reality. Learn why it should control and what the EULA says.' },
+  'how-to-read-verisk-white-paper': { title: 'How to Read a Verisk White Paper: The Documentation Most Adjusters Have Never Seen', description: 'A guide to the publicly available Verisk documentation on pricing methodology, labor efficiencies, and O&P that supports every pricing dispute you file.' },
+  'construction-timeline-disputes-ale': { title: 'Construction Timeline Disputes: Why Insurance Repair Timelines Are Always Wrong', description: 'Why insurance companies systematically underestimate repair and construction timelines, and how this directly impacts Additional Living Expenses coverage.' },
+  'carrier-contractor-admits-failure': { title: 'When the Carrier\'s Own Contractor Says It Can\'t Be Done', description: 'What happens legally when the insurer\'s own preferred vendor admits in writing they cannot achieve pre-loss condition — and why it eliminates the genuine dispute defense.' },
+  'incomplete-repairs-create-new-problems': { title: 'When the Carrier\'s Fix Creates a New Problem: Incomplete Repairs and the Duty to Restore', description: 'When the carrier\'s approved repair fixes one issue but eliminates functionality elsewhere, the claim is not closed. The policy promises restoration to pre-loss condition.' },
+  'preferred-contractor-conflict-of-interest': { title: 'The Carrier\'s Preferred Contractor: Who They Really Work For', description: 'The incentive structure behind preferred vendor programs, your right to choose your own contractor, and how to protect your claim from vendor steering.' },
+  'time-pressure-negotiation-weapon': { title: 'How Insurance Companies Use Time as Their Most Powerful Weapon', description: 'How ALE limits, depreciation deadlines, statute of limitations, and claim fatigue compound to create maximum settlement pressure — and how to fight back.' },
+  'standard-fire-policy-denials-to-coverage': { title: 'When Two Words Change Everything: How the Standard Fire Policy Turns Denials Into Coverage', description: 'In roughly 30 states, the Standard Fire Policy creates a statutory floor. Small deviations between "the insured" and "an insured" can mean the difference between denial and full recovery.' },
+  'appraisal-sfp-addition': { title: 'When the Standard Fire Policy Strips Away Appraisal Conditions', description: 'How the Standard Fire Policy\'s appraisal provision overrides insurer-added conditions, prerequisites, and procedural hurdles that make appraisal more burdensome than the statute intended.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -739,6 +753,20 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'spoilage-coverage': () => import('@/lib/content/articles/spoilage-coverage'),
   'tenant-roof-leak-coverage-gap': () => import('@/lib/content/articles/tenant-roof-leak-coverage-gap'),
   'cashing-insurance-checks': () => import('@/lib/content/articles/cashing-insurance-checks'),
+  'estimate-bid-invoice-xactimate': () => import('@/lib/content/articles/estimate-bid-invoice-xactimate'),
+  'how-to-challenge-xactimate-estimate': () => import('@/lib/content/articles/how-to-challenge-xactimate-estimate'),
+  'release-trap-insurance-claims': () => import('@/lib/content/articles/release-trap-insurance-claims'),
+  'color-matching-material-aging': () => import('@/lib/content/articles/color-matching-material-aging'),
+  'xactimate-labor-efficiency-settings': () => import('@/lib/content/articles/xactimate-labor-efficiency-settings'),
+  'sub-bids-vs-xactimate-pricing': () => import('@/lib/content/articles/sub-bids-vs-xactimate-pricing'),
+  'how-to-read-verisk-white-paper': () => import('@/lib/content/articles/how-to-read-verisk-white-paper'),
+  'construction-timeline-disputes-ale': () => import('@/lib/content/articles/construction-timeline-disputes-ale'),
+  'carrier-contractor-admits-failure': () => import('@/lib/content/articles/carrier-contractor-admits-failure'),
+  'incomplete-repairs-create-new-problems': () => import('@/lib/content/articles/incomplete-repairs-create-new-problems'),
+  'preferred-contractor-conflict-of-interest': () => import('@/lib/content/articles/preferred-contractor-conflict-of-interest'),
+  'time-pressure-negotiation-weapon': () => import('@/lib/content/articles/time-pressure-negotiation-weapon'),
+  'standard-fire-policy-denials-to-coverage': () => import('@/lib/content/articles/standard-fire-policy-denials-to-coverage'),
+  'appraisal-sfp-addition': () => import('@/lib/content/articles/appraisal-sfp-addition'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
