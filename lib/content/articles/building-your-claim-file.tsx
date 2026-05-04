@@ -274,15 +274,28 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Have your attorney hire the expert.</strong> This is the single most important
-          point in this section. If <em>your attorney</em> retains an expert as part of
-          litigation preparation, the expert&apos;s report is generally protected as
-          <em>attorney work product</em> and is <strong>confidential</strong> &mdash; the
-          insurance company&apos;s defense attorneys cannot force you to turn it over. This
-          protection exists because the law recognizes that attorneys need to be able to
-          investigate a case and consult with experts without the other side looking over their
-          shoulder. If you hire the same expert yourself, without going through your attorney,
-          that protection may not apply &mdash; and the report could be fair game in discovery.
+          <strong>Consider having your attorney hire the expert.</strong> If <em>your
+          attorney</em> retains an expert as part of litigation preparation, the expert&apos;s
+          report is generally protected as <em>attorney work product</em> and
+          is <strong>confidential</strong> &mdash; the insurance company&apos;s defense
+          attorneys cannot force you to turn it over. This protection exists because the law
+          recognizes that attorneys need to be able to investigate a case and consult with
+          experts without the other side looking over their shoulder. If you hire the same
+          expert yourself, without going through your attorney, that protection may not
+          apply &mdash; and the report could be fair game in discovery. That said, if you are
+          confident that the expert&apos;s findings will support your position, having your
+          attorney retain them is less critical &mdash; a favorable report helps your claim
+          regardless of who hired the expert. The attorney-retention strategy is most important
+          when the outcome is uncertain.
+        </li>
+        <li>
+          <strong>Ask for a verbal report first.</strong> Before committing to a written report,
+          ask the expert to give you a preliminary verbal assessment of their findings. This is
+          a tactic that insurance companies routinely use with their own experts &mdash; the
+          insured can do the same. If the verbal assessment is favorable, you can proceed with
+          the written report with confidence. If it raises concerns, you have the opportunity to
+          consult with an attorney before a potentially unfavorable opinion is committed to paper
+          and becomes part of the record.
         </li>
         <li>
           <strong>Understand the limits of this protection.</strong> Attorney work product
@@ -309,11 +322,22 @@ export default function Content() {
           an unfavorable expert opinion in your file that the insurer may eventually see.
         </li>
         <li>
+          <strong>Think carefully before hiring an unfamiliar expert.</strong> Before retaining
+          any expert, consider their background and typical clientele. An expert whose style and
+          methodology are unknown to you is a gamble &mdash; and an expert who has a business
+          practice of assisting insurance companies in creating denials is worse than no expert at
+          all. Do your research. Ask your public adjuster or attorney whether they have experience
+          with the expert and what kind of reports they typically produce. The last thing you want
+          is to pay for an &ldquo;independent&rdquo; opinion that reads like it was written for
+          the insurance company.
+        </li>
+        <li>
           <strong>Do not ask an expert a question you are not prepared to hear the answer to.</strong>{' '}
           Before retaining an expert, think about whether you would be comfortable if the insurer
           read the report. If you are confident the facts support your position, an expert opinion
-          will strengthen your claim. If the causation is genuinely uncertain, consider consulting
-          with an attorney first about how to structure the engagement.
+          will strengthen your claim. If the causation is genuinely uncertain, consult with an
+          attorney first about how to structure the engagement &mdash; or at a minimum, request a
+          verbal assessment before any written report is produced.
         </li>
       </ul>
 
