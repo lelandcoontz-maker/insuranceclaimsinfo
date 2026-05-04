@@ -394,6 +394,10 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'depreciation-schedules-useful-life': { title: 'Depreciation Schedules and Useful Life: How Insurance Companies Reduce Your Payment', description: 'How insurance carriers use depreciation schedules and useful life determinations to reduce claim payouts, why these numbers are often arbitrary, and how to challenge them under California Insurance Code Section 2051.' },
   'lenders-loss-payable-endorsement': { title: 'The Lender\'s Loss Payable Endorsement: Why the Mortgage Company\'s Name Is on Your Insurance Check', description: 'The lender\'s loss payable endorsement gives your mortgage company powerful rights over your insurance claim proceeds. Understanding what those rights are — and what they are not — is the first step to getting your money.' },
   'coverage-allocation-over-limit-claims': { title: 'Coverage Allocation on Over-Limit Claims: How to Get Unencumbered Money to the Insured', description: 'When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines determines whether you get money directly or whether the mortgage company controls it all. The carrier may have a good faith duty to allocate in your favor.' },
+  'accommodation-payments': { title: "Accommodation Payments: When the Insurance Company Pays What It Claims It Doesn't Owe", description: "An accommodation payment is one of the most calculated moves in the insurance playbook. The carrier pays money while simultaneously disclaiming coverage — creating a paper trail that protects the carrier, not you." },
+  'deciding-not-to-rebuild': { title: 'What Happens When You Decide Not to Rebuild After a Total Loss', description: "Deciding not to rebuild after a total loss changes your insurance recovery, your mortgage obligations, and your tax situation. Here is what you need to know before making that decision — and how to maximize your recovery either way." },
+  'reading-statement-of-loss': { title: "How to Read Your Insurance Statement of Loss: The Document That Shows Where Your Money Went", description: "The statement of loss is the carrier's accounting of your entire claim — what it calculated, what it deducted, and what it paid on each coverage. Learning to read it is the first step to identifying underpayment." },
+  'insurer-duty-to-explain-payment': { title: "Your Right to Know How Your Claim Was Calculated: The Insurer's Duty to Explain Every Payment", description: 'California law requires your insurance company to explain the basis of every payment and share the documents it relied on. Most policyholders never exercise these rights. Here is how to use them.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -787,6 +791,10 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'depreciation-schedules-useful-life': () => import('@/lib/content/articles/depreciation-schedules-useful-life'),
   'lenders-loss-payable-endorsement': () => import('@/lib/content/articles/lenders-loss-payable-endorsement'),
   'coverage-allocation-over-limit-claims': () => import('@/lib/content/articles/coverage-allocation-over-limit-claims'),
+  'accommodation-payments': () => import('@/lib/content/articles/accommodation-payments'),
+  'deciding-not-to-rebuild': () => import('@/lib/content/articles/deciding-not-to-rebuild'),
+  'reading-statement-of-loss': () => import('@/lib/content/articles/reading-statement-of-loss'),
+  'insurer-duty-to-explain-payment': () => import('@/lib/content/articles/insurer-duty-to-explain-payment'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

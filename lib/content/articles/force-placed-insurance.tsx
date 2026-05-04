@@ -148,6 +148,92 @@ export default function Content() {
         </li>
       </ul>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Claims on Force-Placed Policies: When the Bank Is the Insured
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        On a standard homeowner&rsquo;s policy, the mortgage company is a loss payee &mdash; not
+        an insured. But on a force-placed policy, the dynamic flips. The bank purchased the
+        policy. The bank is the named insured. The bank controls the claim.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This has several important consequences:
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        The Bank Can Hire a Public Adjuster
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Because the bank is the insured on the force-placed policy, the bank has every right
+        to hire a licensed{' '}
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
+          public adjuster
+        </Link>{' '}
+        to represent its interests on the claim. Under California Insurance Code &sect; 15007, a
+        public adjuster represents &ldquo;an insured&rdquo; &mdash; and on the force-placed
+        policy, the bank qualifies. This is the one scenario where a mortgage company can
+        legitimately engage a public adjuster. For more on this distinction and a real-world
+        case study, see our article on{' '}
+        <Link href="/resources/mortgage-company-public-adjuster" className="text-[#2E74B5] hover:underline">
+          when a mortgage company tries to hire a public adjuster
+        </Link>.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        The Bank&rsquo;s Interests May Not Align With Yours
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The bank&rsquo;s interest in a force-placed claim is limited to protecting its
+        collateral &mdash; the outstanding loan balance. The bank does not care whether you are
+        made whole, whether the home is rebuilt to its full pre-loss condition, or whether you
+        have enough to cover the difference between the mortgage balance and the actual
+        replacement cost. If the force-placed policy pays the bank its $300,000 loan balance,
+        the bank is satisfied &mdash; even if your home cost $800,000 to rebuild.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This misalignment can become adversarial. The bank may settle the force-placed claim
+        for an amount that covers its loan balance but leaves you with no path to rebuilding.
+        The bank may accept a payment from the force-placed insurer and apply it directly to
+        the mortgage, extinguishing the loan but leaving you without a home and without
+        recovery for the gap between the policy limit and the actual loss.
+      </p>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        What Information Are You Entitled To?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Even when the bank is the insured on a force-placed policy, the homeowner still has
+        property rights and may have a right to information about the claim &mdash; particularly
+        information that pertains to the structure (the bank&rsquo;s collateral and the
+        homeowner&rsquo;s property). However, the homeowner is not the insured on the
+        force-placed policy and does not have the same claim file access rights they would have
+        on their own policy.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Conversely, on a standard homeowner&rsquo;s policy where the bank is only a loss payee
+        (not an insured), the bank&rsquo;s information rights are limited to documents related
+        to its interest &mdash; dwelling repair estimates, invoices, and building payment
+        records. The bank is <strong>not</strong> entitled to personal property inventories,
+        credit card or bank statements submitted to support a contents claim, or additional
+        living expense records. These contain private financial information that has nothing
+        to do with the lender&rsquo;s collateral interest. For more on the privacy issues
+        involved, see our article on{' '}
+        <Link href="/resources/mortgage-company-public-adjuster" className="text-[#2E74B5] hover:underline">
+          mortgage company rights and privacy
+        </Link>.
+      </p>
+
+      <CalloutBox variant="important" title="If You Have a Force-Placed Policy and a Loss">
+        <p>
+          If your home is damaged while only a force-placed policy is in effect, the bank
+          controls the claim. You should immediately consult a policyholder attorney to
+          understand your rights. You may also want to investigate whether the lender followed
+          the required notice procedures before force-placing &mdash; if it did not, the
+          placement may be improper and you may have additional remedies. Do not assume the
+          bank will act in your interest. It will act in its own.
+        </p>
+      </CalloutBox>
+
       <CalloutBox variant="tip" title="Federal and State Protections">
         <p>
           Both federal and California law impose significant procedural requirements on lenders before

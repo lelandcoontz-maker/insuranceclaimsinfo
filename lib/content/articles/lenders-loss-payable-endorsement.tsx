@@ -389,6 +389,47 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        When the Bank Files Its Own Proof of Loss &mdash; And Interests Conflict
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The lender&rsquo;s right to file an independent proof of loss is a protective
+        measure &mdash; but it can create a serious conflict of interest. The bank&rsquo;s
+        proof of loss reflects the <em>bank&rsquo;s</em> interest, which is capped at the
+        outstanding mortgage balance. The insured&rsquo;s interest is the full claim value.
+        These numbers are often very different.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Consider a homeowner who owes $200,000 on the mortgage and has $600,000 in dwelling
+        damage. The insured&rsquo;s proof of loss should reflect $600,000 in damages. But the
+        bank&rsquo;s interest is only $200,000 &mdash; and the bank may be willing to settle
+        for that amount because once its loan is protected, it has no incentive to fight for
+        the remaining $400,000 that belongs to the homeowner.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This misalignment is most dangerous when the bank files a proof of loss for a lower
+        amount than the insured would claim. If the insurer settles with the bank at a
+        reduced figure &mdash; perhaps in exchange for a release &mdash; the insured could
+        find their claim compromised. The bank has no obligation to maximize the
+        insured&rsquo;s recovery. It only needs to protect its own collateral interest.
+      </p>
+
+      <CalloutBox variant="warning" title="Protect Your Claim From the Bank's Settlement">
+        <p>
+          If you learn that your mortgage company has filed its own proof of loss or is
+          communicating directly with the insurer about your claim, take immediate action.
+          File your own proof of loss reflecting the full value of your damages. Notify the
+          insurer in writing that the bank does not speak for you and that any settlement
+          with the bank on its interest does not resolve your claim as the insured. Consult
+          with a{' '}
+          <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+            public adjuster
+          </Link>{' '}
+          or policyholder attorney to ensure your interests are protected independently of
+          the lender&rsquo;s.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         A Common Misconception
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
