@@ -236,15 +236,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Getting your own expert opinion &mdash; an independent engineer, a contractor&apos;s
         repair estimate, a hygienist&apos;s testing results &mdash; can be the single most
-        important step in challenging the insurer&apos;s position. Our guides on{' '}
+        important step in challenging the insurer&apos;s position. Our comprehensive guide on{' '}
         <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] hover:underline">
           biased insurance experts
         </Link>{' '}
-        and{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] hover:underline">
-          defeating carrier engineer reports
-        </Link>{' '}
-        explain why an independent evaluation is often essential.
+        explains why an independent evaluation is often essential.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But there is an important caveat that is rarely discussed: <strong>any document you
