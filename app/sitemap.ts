@@ -156,6 +156,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'xactimate-not-the-law',
     'kurach-op-policy-restrictions',
     '50-state-op-map',
+    'op-depreciation-california',
+    'selective-op-denial',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({
