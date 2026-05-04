@@ -412,6 +412,13 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'managed-repair-program-drp': { title: 'The Managed Repair Program from the Inside: How DRP Scoring Works', description: 'How Direct Repair Programs score contractors on supplement ratios, claim costs, and cycle time — and why those metrics create incentives that work against policyholders. Know your right to opt out.' },
   'siu-referral-investigation': { title: 'When Your Claim Is "Referred to SIU": What Special Investigations Really Means', description: 'A comprehensive guide to Special Investigation Unit referrals in California insurance claims. Covers what triggers an SIU investigation, your rights, EUOs, surveillance, regulatory timelines, and bad faith implications.' },
   'history-of-bad-faith': { title: 'How the Tort of Bad Faith Was Invented: The History That Changed Insurance Law Forever', description: 'The complete history of bad faith insurance law in California — from Comunale and Gruenberg to the Shernoff firm and Egan v. Mutual of Omaha. How the tort was invented, how it evolved, how damages are calculated, and the realistic challenges of winning a bad faith claim.' },
+  'trust-owned-property-insurance': { title: 'Trust-Owned Property and Insurance Claims: When the Named Insured Doesn\'t Match the Trust', description: 'Millions of California homes are held in revocable living trusts but insured in the individual\'s name. That mismatch creates coverage disputes after a loss. Learn how to properly insure trust-owned property and what to do if a claim is denied.' },
+  'divorce-separation-insurance-claims': { title: 'Divorce, Separation, and Insurance Claims: Protecting Your Coverage When Your Marriage Ends', description: 'Pending insurance claims during divorce create unique complications — authority disputes, coverage gaps, intentional damage, and community property issues. Learn how to protect your claim when your marriage is ending.' },
+  'conservatorship-insurance-claims': { title: 'Conservatorship and Insurance Claims: Managing a Claim When There Is No Power of Attorney', description: 'When a policyholder becomes incapacitated and no Power of Attorney exists, a court-appointed conservator may be the only path to managing the insurance claim. Learn the process, authority, and practical challenges.' },
+  'life-estate-remainder-insurance': { title: 'Life Estates and Remainder Interests: Who Insures What and Who Collects on a Claim?', description: 'A life estate splits property ownership between the life tenant and the remainderman — creating split insurable interests that most standard policies don\'t contemplate. Learn who should be insured and who collects.' },
+  'adu-granny-flat-insurance-claims': { title: 'Insurance Claims on ADUs and Granny Flats: The Coverage Gap Most California Families Don\'t Know About', description: 'California\'s ADU boom has created a massive insurance coverage gap. Most homeowners policies don\'t adequately cover accessory dwelling units. Learn where ADUs fall in your policy and how to close the gap.' },
+  'pending-claim-policyholder-dies': { title: 'Pending Insurance Claims When the Policyholder Dies: What Happens Next', description: 'When a policyholder dies with an active insurance claim, the claim doesn\'t die with them — it becomes an asset of the estate. Learn who has standing, what deadlines keep running, and how to continue the claim.' },
+  'community-property-insurance-proceeds': { title: 'Community Property and Insurance Proceeds in California: Who Owns the Claim Money?', description: 'In California, insurance proceeds follow the character of the insured property. When one spouse is on the mortgage and the other is the named insured, the complications multiply. Learn how community property law affects your claim.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -823,6 +830,13 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'managed-repair-program-drp': () => import('@/lib/content/articles/managed-repair-program-drp'),
   'siu-referral-investigation': () => import('@/lib/content/articles/siu-referral-investigation'),
   'history-of-bad-faith': () => import('@/lib/content/articles/history-of-bad-faith'),
+  'trust-owned-property-insurance': () => import('@/lib/content/articles/trust-owned-property-insurance'),
+  'divorce-separation-insurance-claims': () => import('@/lib/content/articles/divorce-separation-insurance-claims'),
+  'conservatorship-insurance-claims': () => import('@/lib/content/articles/conservatorship-insurance-claims'),
+  'life-estate-remainder-insurance': () => import('@/lib/content/articles/life-estate-remainder-insurance'),
+  'adu-granny-flat-insurance-claims': () => import('@/lib/content/articles/adu-granny-flat-insurance-claims'),
+  'pending-claim-policyholder-dies': () => import('@/lib/content/articles/pending-claim-policyholder-dies'),
+  'community-property-insurance-proceeds': () => import('@/lib/content/articles/community-property-insurance-proceeds'),
 }
 
 interface Props { params: Promise<{ slug: string }> }

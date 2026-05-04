@@ -146,6 +146,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'time-pressure-negotiation-weapon',
     'standard-fire-policy-denials-to-coverage',
     'appraisal-sfp-addition',
+    'trust-owned-property-insurance',
+    'divorce-separation-insurance-claims',
+    'conservatorship-insurance-claims',
+    'life-estate-remainder-insurance',
+    'adu-granny-flat-insurance-claims',
+    'pending-claim-policyholder-dies',
+    'community-property-insurance-proceeds',
   ]
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({
