@@ -56,6 +56,31 @@ export default function Content() {
         individually.
       </p>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Managed Repair Programs vs. Cashing Out</h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Many carriers now offer &ldquo;managed repair&rdquo; or &ldquo;direct repair&rdquo; programs
+        where the insurer assigns one of its preferred vendors to handle the entire restoration.
+        The pitch sounds convenient: &ldquo;We&rsquo;ll take care of everything.&rdquo; In practice,
+        the carrier controls the scope, the materials, and the budget &mdash; and the contractor
+        answers to the insurer, not to you.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In most states, including California, you have the right to decline managed repair and
+        receive a cash settlement instead. This is sometimes called &ldquo;cashing out.&rdquo; When
+        you cash out, you receive the claim payment and hire your own contractor to do the work.
+        The insurer may still owe you the difference if the actual repair cost exceeds the estimate,
+        but you control the project. If a carrier tells you that you <em>must</em> use their
+        program, ask them to cite the specific policy provision that requires it. Most policies do
+        not. And in California, the insurer cannot condition payment on the policyholder using a
+        specific contractor &mdash; your right to choose is well-established.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The trade-off is real: managed repair shifts the coordination burden to the carrier, which
+        some policyholders prefer. But if quality, scope, or materials matter to you, retaining
+        control by choosing your own contractor and managing the claim payment directly is almost
+        always the better path.
+      </p>
+
       <CalloutBox variant="tip" title="Your Contractor Works for You">
         <p>
           The fundamental difference: your contractor&apos;s loyalty is to you. The carrier&apos;s

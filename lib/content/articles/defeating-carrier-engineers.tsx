@@ -264,6 +264,30 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Re-Inspection Game
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Some carriers do not stop at one engineer. When the first inspection does not produce the
+        result the insurer wants &mdash; or when the policyholder pushes back with strong evidence
+        &mdash; the carrier sends a second inspector, then a third. Each new inspection resets the
+        clock, generates another report, and forces the policyholder to respond again. The strategy
+        is attrition: most homeowners eventually give up, accept a lowball, or let their deadline
+        lapse while waiting for yet another &ldquo;review.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Recognize this pattern for what it is. Your policy requires you to cooperate with
+        reasonable inspections &mdash; it does not require you to submit to an unlimited number of
+        them. If the carrier has already inspected the property, received your contractor&rsquo;s
+        estimate, and obtained an engineer report, a demand for a fourth or fifth inspection is no
+        longer investigation &mdash; it is delay. Document every inspection request in writing, note
+        how many have already occurred, and ask the carrier to explain in writing what new
+        information they expect to obtain that was not available from prior inspections. If the
+        pattern continues, it may support a{' '}
+        <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith</Link>{' '}
+        claim or a complaint to your state&rsquo;s Department of Insurance.
+      </p>
+
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
           Roof Claim Denied Based on an Engineer Report?

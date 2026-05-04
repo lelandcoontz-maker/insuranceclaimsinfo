@@ -286,8 +286,16 @@ export default function Content() {
         </li>
         <li>
           <strong>Substituting inferior materials.</strong> Using lower-grade materials in the
-          estimate instead of &ldquo;like kind and quality&rdquo; — builder-grade when the home had
-          custom finishes.
+          estimate instead of &ldquo;like kind and quality&rdquo; &mdash; builder-grade when the home had
+          custom finishes. This goes beyond simple cost-cutting. Insurers may specify vinyl plank
+          where the home had real hardwood, stock cabinets where the kitchen had custom millwork,
+          three-tab shingles where the roof had architectural, or basic tile where the bathroom had
+          natural stone. Each substitution violates the &ldquo;like kind and quality&rdquo; standard
+          required under most homeowner policies and under California Insurance Code &sect; 2051(b).
+          The test is not whether the substitute &ldquo;functions&rdquo; the same way &mdash; it is
+          whether it matches in kind, quality, and character. If the insurer&rsquo;s estimate
+          specifies a materially different product than what was in the home, dispute each item
+          individually and demand the estimate reflect the actual materials that need to be replaced.
         </li>
         <li>
           <strong>Refusing to pay until the entire project is complete.</strong> Some insurers
