@@ -2,26 +2,34 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Defeating Carrier Engineer Reports on Roof Claims',
+  title: 'Defeating Carrier Expert Reports: Engineers, Inspectors, and Hired Professionals',
   description:
-    'When your insurance company sends a forensic engineer to deny your roof claim, you need to know how to respond effectively. Learn how carrier engineers operate, common report flaws, and how to build a strong rebuttal.',
+    'When your insurance company sends an engineer, hygienist, or other expert to minimize your claim, you need to know how to respond. Learn how carrier experts operate, common report flaws, license board complaints, and how to build a strong rebuttal.',
 }
 
 export default function Content() {
   return (
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
-        You file a roof damage claim after a hailstorm or windstorm. The insurance company&apos;s
-        adjuster inspects your roof, and then — instead of paying the claim — the carrier sends a
-        &ldquo;forensic engineer&rdquo; for a second inspection. A few weeks later, you receive a
-        letter: the engineer has determined that your roof damage was caused by &ldquo;normal wear
-        and tear,&rdquo; &ldquo;manufacturing defects,&rdquo; &ldquo;foot traffic,&rdquo; or
-        &ldquo;pre-existing conditions&rdquo; — not the storm. Claim denied.
+        You file a property damage claim. The insurance company&apos;s adjuster inspects your
+        property, and then &mdash; instead of paying the claim &mdash; the carrier sends an outside
+        &ldquo;expert&rdquo; for a second look. It might be a forensic engineer on a roof claim,
+        an industrial hygienist on a smoke or mold claim, a cause-and-origin investigator on a fire,
+        or a structural engineer on a foundation. A few weeks later, you receive a letter: the
+        expert has determined that your damage was caused by &ldquo;normal wear and tear,&rdquo;
+        &ldquo;manufacturing defects,&rdquo; &ldquo;pre-existing conditions,&rdquo; or some other
+        excluded cause &mdash; not the covered event. Claim denied.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is one of the most common tactics in property insurance. The carrier engineer report
+        This is one of the most common tactics in property insurance. The carrier expert report
         is designed to give the insurer a &ldquo;professional opinion&rdquo; to justify a denial.
-        But these reports are frequently flawed, biased, and beatable — if you know what to look for.
+        But these reports are frequently flawed, biased, and beatable &mdash; if you know what to
+        look for. While this article uses roof claims as the primary example because they generate
+        the highest volume of carrier expert disputes, the tactics described here &mdash; and the
+        strategies for defeating them &mdash; apply to every type of carrier-hired expert across
+        every type of claim.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
         How prevalent is this problem? In whistleblower testimony before the Florida House of
         Representatives in December 2022, adjusters Jordan Lee and Ben Mandell revealed staggering
         numbers: Lee testified that 44 of his 46 field reports (96%) were altered by his insurer,
@@ -288,13 +296,146 @@ export default function Content() {
         claim or a complaint to your state&rsquo;s Department of Insurance.
       </p>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Filing a Complaint with the Engineering License Board
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Licensed engineers are subject to professional discipline. When a carrier&apos;s engineer
+        produces a report that misrepresents field findings, attributes damage to causes that
+        contradict the physical evidence, or allows a &ldquo;peer review&rdquo; process to rewrite
+        their conclusions, that conduct may constitute fraud, deceit, or misrepresentation in the
+        practice of engineering &mdash; grounds for discipline in every state. Filing a complaint
+        is free, open to any member of the public, and creates an official record even if the board
+        does not take immediate action.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        To file a complaint, you will need: the engineer&apos;s name and license number
+        (verify via the board&apos;s license lookup tool), a copy of the engineering report, any
+        contradicting reports from your own experts, photographs, and a detailed chronological
+        narrative explaining what the engineer got wrong and why.
+      </p>
+
+      <div className="bg-gray-50 border border-gray-200 rounded-xl p-6 mb-6">
+        <h3 className="text-lg font-bold text-[#1F3964] mb-3">
+          State Engineering License Boards &mdash; File a Complaint
+        </h3>
+        <ul className="space-y-3 text-gray-700">
+          <li>
+            <strong>California</strong> &mdash; Board for Professional Engineers, Land Surveyors,
+            and Geologists (BPELSG):{' '}
+            <a href="https://www.bpelsg.ca.gov/consumers/complaint_licensee.shtml" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+              File a Complaint
+            </a>{' '}
+            | <a href="https://www.bpelsg.ca.gov/consumers/lic_lookup.shtml" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+              License Lookup
+            </a>
+            <br />
+            <span className="text-sm text-gray-500">
+              Grounds: Bus. &amp; Prof. Code &sect; 6775 &mdash; fraud, deceit, misrepresentation,
+              negligence, or incompetence in practice.
+            </span>
+          </li>
+          <li>
+            <strong>Texas</strong> &mdash; Board of Professional Engineers and Land Surveyors
+            (TBPELS):{' '}
+            <a href="https://pels.texas.gov/complaint.htm" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+              File a Complaint
+            </a>
+            <br />
+            <span className="text-sm text-gray-500">
+              Grounds: Tex. Occ. Code &sect; 1001.452 &mdash; fraud, deceit, gross negligence,
+              incompetency, or misconduct.
+            </span>
+          </li>
+          <li>
+            <strong>Florida</strong> &mdash; Board of Professional Engineers (FBPE):{' '}
+            <a href="https://fbpe.org/legal/complaints/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+              File a Complaint
+            </a>
+            <br />
+            <span className="text-sm text-gray-500">
+              Grounds: Ch. 471, Fla. Stat. &mdash; fraud, negligence, incompetence, misconduct.
+            </span>
+          </li>
+          <li>
+            <strong>Other states:</strong> Every state has its own professional engineering board.
+            Search &ldquo;[your state] board of professional engineers complaint&rdquo; to find the
+            filing page. File in the state where the engineer is licensed &mdash; and if the
+            engineer is licensed in a different state from where the work was performed, consider
+            filing with both boards.
+          </li>
+        </ul>
+      </div>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The American Policyholder Association and the Fight Against Engineering Fraud
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The{' '}
+        <a href="https://apassociation.org/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+          American Policyholder Association
+        </a>{' '}
+        (APA) is a 501(c)(4) nonprofit founded by Doug Quinn &mdash; a Marine Corps veteran and
+        former financial advisor whose home on the Jersey Shore was destroyed by Superstorm Sandy
+        in 2012. Despite carrying the maximum legal amount of flood insurance, Quinn&apos;s insurer
+        offered him 37 cents on the dollar. The carrier had hired U.S. Forensics, an engineering
+        firm later investigated by the New York Attorney General, to inspect his property. The
+        resulting report attributed his damage to pre-existing earth movement rather than the flood
+        &mdash; a conclusion an independent engineer later determined was false. It took Quinn
+        seven years to get back into his home.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Quinn&apos;s experience was not isolated. It was part of what became known as the Sandy
+        engineering fraud scandal, documented by CBS News, 60 Minutes, and PBS Frontline. The
+        New York Attorney General announced a{' '}
+        <a href="https://ag.ny.gov/press-release/2016/ag-schneiderman-announces-50-count-indictment-over-alleged-forgery-damage-reports" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+          50-count criminal indictment
+        </a>{' '}
+        against engineering firm HiRise (GEB HiRise) for forging damage reports, and FEMA
+        ultimately reopened 144,000 closed claims. Homeowners had been wrongfully denied
+        approximately $400 million in payouts. The APA was created specifically to prevent this
+        from happening again.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Quinn has testified before Congress multiple times, including before the Senate Banking
+        Committee in 2022 and the{' '}
+        <a href="https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/examining-the-insurance-industrys-claims-practices-following-recent-natural-disasters/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+          Senate Subcommittee on Disaster Management
+        </a>{' '}
+        in May 2025, where he stated that &ldquo;state regulators are asleep at the wheel&rdquo;
+        and urged federal enforcement against insurer-driven engineering fraud. The APA operates a
+        whistleblower program, maintains investigators with law enforcement backgrounds, and has
+        developed the{' '}
+        <a href="https://apassociation.org/product/aerep-apa-engineer-report-evaluation-program-literature/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+          AEREP tool
+        </a>{' '}
+        (APA Engineer Report Evaluation Program) &mdash; a diagnostic system that allows
+        policyholders, public adjusters, and attorneys to upload and evaluate engineering reports
+        for signs of bias and methodological deficiency. When the evaluation identifies violations,
+        it facilitates referral to state licensing boards or criminal fraud reporting through
+        the{' '}
+        <a href="https://apassociation.org/apa-engineer-research-complaint-portal/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+          APA Engineer Research &amp; Complaint Portal
+        </a>.
+      </p>
+
+      <CalloutBox variant="important" title="If Your Claim Was Denied Based on an Engineering Report">
+        <p>
+          Run the report through the APA&apos;s AEREP evaluation tool. If the report shows signs
+          of bias or methodological deficiency, file a complaint with your state&apos;s engineering
+          license board and report the findings through the APA&apos;s complaint portal. These
+          reports create a paper trail that matters &mdash; both for your individual claim and for
+          the broader fight against outcome-driven engineering.
+        </p>
+      </CalloutBox>
+
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
-          Roof Claim Denied Based on an Engineer Report?
+          Claim Denied Based on a Carrier Expert Report?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          Do not accept the denial. A Public Adjuster can review the engineer&apos;s report,
-          hire an independent expert, and build the case to overturn it.
+          Do not accept the denial. A Public Adjuster can review the expert&apos;s report,
+          hire an independent professional, and build the case to overturn it.
         </p>
         <Link
           href="/contact"

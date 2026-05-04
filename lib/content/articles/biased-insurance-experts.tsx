@@ -110,7 +110,7 @@ export default function Content() {
         wear,&rdquo; or limit the scope of structural damage to minimize the insurer&apos;s
         exposure. For detailed strategies on responding to carrier engineer reports, see our guides
         on{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-blue-700 underline hover:text-blue-900">defeating carrier engineers</Link>{' '}
+        <Link href="/resources/defeating-carrier-engineers" className="text-blue-700 underline hover:text-blue-900">defeating carrier expert reports</Link>{' '}
         and{' '}
         <Link href="/resources/engineering-reports-vs-coverage" className="text-blue-700 underline hover:text-blue-900">understanding how engineering reports affect coverage decisions</Link>.
       </p>
