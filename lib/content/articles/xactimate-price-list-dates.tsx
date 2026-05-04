@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 export const meta = {
-  title: "Xactimate Price List Dates: When the Carrier Uses Last Month's Prices on Today's Claim",
+  title: "Xactimate Price List Dates: Why the Date on Your Estimate Matters More Than You Think",
   description:
     "How insurance companies use outdated Xactimate price lists to systematically underpay claims. Learn where to find the price list date, why it matters, and how to challenge an estimate built on stale pricing data.",
 }
@@ -30,7 +30,7 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Xactimate&apos;s pricing database is maintained by Verisk Analytics, the company that owns and operates the software. Verisk collects pricing data from more than 50,000 providers of materials, equipment, and labor across the United States. It gathers over 345,000 survey data points each year, analyzes more than 5 million completed estimates annually, and examines over 7,300 individual price survey points each month.
+        <Link href="/resources/xactimate" className="text-[#2E74B5] underline">Xactimate</Link>&apos;s pricing database is maintained by Verisk Analytics, the company that owns and operates the software. Verisk collects pricing data from more than 50,000 providers of materials, equipment, and labor across the United States. It gathers over 345,000 survey data points each year, analyzes more than 5 million completed estimates annually, and examines over 7,300 individual price survey points each month.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -112,7 +112,9 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance policies generally obligate the carrier to pay the cost to repair or replace the damaged property. That cost is not frozen in time. It is the cost at the time the repairs are actually performed. If a windstorm damages your roof in January but the repairs are not completed until April &mdash; because the carrier took three months to inspect, evaluate, and issue payment &mdash; the relevant cost is what roofing materials and labor cost in April, not what they cost in January.
+        Insurance policies generally obligate the carrier to pay the{' '}
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">replacement cost</Link>{' '}
+        to repair or replace the damaged property. That cost is not frozen in time. It is the cost at the time the repairs are actually performed. If a windstorm damages your roof in January but the repairs are not completed until April &mdash; because the carrier took three months to inspect, evaluate, and issue payment &mdash; the relevant cost is what roofing materials and labor cost in April, not what they cost in January.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -306,7 +308,9 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Establish a realistic timeline for when repairs will actually begin and be completed. Consider factors such as contractor availability, permitting requirements, material lead times, and whether you are in a post-catastrophe environment where delays are inevitable. If the carrier&apos;s own delays have pushed the repair timeline out by months, document that timeline carefully.
+        Establish a realistic timeline for when repairs will actually begin and be completed. Consider factors such as contractor availability, permitting requirements, material lead times, and whether you are in a post-catastrophe environment where delays are inevitable. For more on how these factors affect{' '}
+        <Link href="/resources/construction-timeline-disputes-ale" className="text-[#2E74B5] underline">construction timelines and related disputes</Link>,
+        see our detailed guide. If the carrier&apos;s own delays have pushed the repair timeline out by months, document that timeline carefully.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

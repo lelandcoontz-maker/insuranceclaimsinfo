@@ -295,6 +295,16 @@ export default function Content() {
         these items get depreciated along with the materials. This is improper. Only physical
         materials that have actually deteriorated should be subject to depreciation.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The same logic applies to <strong>consumable materials</strong> used during construction
+        &mdash; items that are used up during the repair process and have no pre-loss equivalent
+        in the home. Examples include masking paper and tape used to protect surfaces, plastic
+        sheeting for dust containment, a temporary portable toilet placed in the yard for workers,
+        cleaning solvents, sandpaper, caulking, and similar supplies. These items did not exist in
+        the home before the loss. They are not replacing anything that wore out. There is no
+        &ldquo;used&rdquo; version of masking tape. Depreciating consumables is no different from
+        depreciating labor &mdash; it produces a deduction for deterioration that never occurred.
+      </p>
 
       <h2 id="blanket-depreciation" className="text-2xl font-bold text-[#1F3964] mb-4">
         The Blanket Depreciation Problem

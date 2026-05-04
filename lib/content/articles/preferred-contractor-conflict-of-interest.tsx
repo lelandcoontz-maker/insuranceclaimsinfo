@@ -693,6 +693,71 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Low Estimate, High Supplement Game
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One of the most frustrating preferred vendor tactics works like this: the carrier rejects the
+        policyholder&rsquo;s contractor&rsquo;s estimate as too high and presents the preferred
+        vendor&rsquo;s estimate as proof that the job can be done for less. The policyholder feels
+        pressured to accept a lower settlement or use the carrier&rsquo;s contractor rather than the
+        one they chose.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        But look closely at the preferred vendor&rsquo;s estimate. It may contain notations that items
+        are &ldquo;bid items,&rdquo; &ldquo;open items,&rdquo; or &ldquo;to be determined upon
+        start of work.&rdquo; These notations signal that the vendor&rsquo;s number is not a true
+        fixed price &mdash; it is a floor, not a ceiling. Once the low estimate is approved and the
+        homeowner signs a contract, the vendor pivots into supplemental payment requests. Additional
+        scope. Unforeseen conditions. Code upgrades. Change orders. One by one, the supplements
+        accumulate, and the total cost of the project climbs to the same number &mdash; or higher
+        &mdash; than the estimate the carrier originally rejected.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is not speculation. Preferred vendors have been known to arrive at a property and
+        verbally tell the homeowner that their approved number is intentionally low but they
+        intend to supplement it once work begins. When the homeowner reports this to the
+        adjuster, the adjuster expresses disbelief &mdash; perhaps genuine, perhaps feigned &mdash;
+        and insists their contractor would never say such a thing. But it happens regularly enough
+        that experienced Public Adjusters and attorneys have learned to expect it.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What makes this particularly unfair is the pressure it creates. The homeowner may have
+        submitted a perfectly reasonable bid from a contractor they trust, only to be told it is too
+        expensive. They feel bullied into accepting less or using a contractor not of their choosing.
+        And when the preferred vendor&rsquo;s final cost &mdash; after all the supplements &mdash;
+        matches or exceeds the rejected bid, the homeowner has endured months of delay and stress
+        for no benefit.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The No-Change-Order Counter-Tactic
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Savvy policyholders and their representatives have learned to call this bluff. When the
+        carrier insists that their preferred vendor can do the job for less, the policyholder
+        responds by agreeing &mdash; with conditions. They tell the carrier they are willing to
+        hire the preferred vendor, and they want to sign a contract immediately. But the contract
+        must be for a <strong>fixed total price with no supplements, no change orders, and no
+        additional charges of any kind</strong>. The vendor&rsquo;s estimate is the number, and
+        that is the number the job gets done for.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This puts the preferred vendor in a difficult position. If their estimate was honest and
+        complete, a fixed-price contract should be no problem. If the estimate was intentionally
+        lean &mdash; written to win the carrier&rsquo;s approval rather than to reflect the actual
+        cost of the work &mdash; then committing to a fixed price means absorbing every dollar of
+        cost overrun. Most preferred vendors will not sign a no-change-order contract at their own
+        low number. Their refusal tells the carrier everything it needs to know about the
+        reliability of that estimate.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is a challenging negotiation because people on all sides may be holding cards they do
+        not want to show. The vendor knows the number is low. The adjuster may know it too. But
+        forcing the question &mdash; will you commit to this price, yes or no &mdash; strips away
+        the pretense and refocuses the discussion on what the repair actually costs.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Sources and Citations
       </h2>
 

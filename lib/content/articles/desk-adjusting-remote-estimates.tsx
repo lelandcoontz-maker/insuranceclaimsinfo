@@ -1,792 +1,923 @@
 import Link from 'next/link'
 
 export const meta = {
-  title: 'Desk Adjusting: When the Person Writing Your Estimate Has Never Seen Your Property',
+  title: 'Desk Adjusting: When Your Insurance Company Writes an Estimate Without Seeing the Damage',
   description:
-    'Insurance carriers increasingly use desk adjusters and virtual adjusters who write Xactimate estimates from photos or satellite imagery without ever visiting your property. Learn what gets missed, your rights, and how to challenge a remote estimate.',
+    'How insurance companies use desk adjusting to write repair estimates without inspecting your property, why remote estimates lead to systematic underpayment, and how policyholders can challenge inadequate investigations under California law.',
 }
 
 export default function Content() {
   return (
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Somewhere in an office building &mdash; possibly thousands of miles from your damaged home &mdash; a
-        person is writing the estimate that will determine how much money you receive for your
-        insurance claim. They have never walked through your front door. They have never touched
-        your walls, looked behind your cabinets, or felt the soft give of water-damaged subfloor
-        under their feet. They are working from photographs, satellite images, and perhaps a brief
-        video call. And the estimate they produce will almost certainly miss things that only
-        a physical inspection would reveal.
+        Imagine hiring a doctor who diagnoses you by looking at a photograph someone else took of
+        your symptoms. No examination. No questions. No stethoscope. Just a photo and a billing
+        code. That is, in essence, what happens when an insurance company &quot;desk adjusts&quot;
+        your property damage claim. The adjuster assigned to evaluate your loss never visits your
+        property, never walks through the damaged rooms, never touches the warped flooring or smells
+        the smoke trapped in the insulation. Instead, they sit at a desk &mdash; sometimes hundreds
+        or thousands of miles away &mdash; and write an estimate based on whatever limited
+        information happens to be in the file.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is desk adjusting &mdash; also called virtual adjusting, inside adjusting, or remote
-        estimating &mdash; and it has become one of the insurance industry&apos;s preferred methods
-        for handling property claims. What carriers describe as an &quot;efficiency innovation&quot;
-        is, for many policyholders, a process that systematically underpays claims by substituting
-        technology for the irreplaceable act of actually looking at the damage.
+        Desk adjusting has become one of the insurance industry&apos;s most widespread cost-reduction
+        practices, and it is one of the most significant contributors to underpaid property damage
+        claims. Understanding what desk adjusting is, why carriers rely on it so heavily, and how it
+        affects your settlement is essential for any policyholder navigating a property damage claim
+        &mdash; and for any attorney evaluating whether a carrier conducted an adequate investigation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What Is Desk Adjusting?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A desk adjuster &mdash; sometimes called an inside adjuster or remote adjuster &mdash; is a
-        claims professional who evaluates property damage and writes repair estimates without
-        physically visiting the property. Instead of conducting an on-site inspection, the desk
-        adjuster relies on some combination of:
+        Desk adjusting is the practice of writing or revising a damage estimate from a remote
+        location without physically inspecting the property. The adjuster &mdash; sometimes called
+        an inside adjuster, remote adjuster, or virtual adjuster &mdash; may rely on photographs
+        submitted by the policyholder, images taken by a separate field inspector or independent
+        adjuster, satellite imagery, drone footage, or in some cases little more than the
+        policyholder&apos;s own description of the damage. The defining characteristic is that the
+        person making decisions about what damage exists, what repairs are needed, and how much the
+        carrier will pay has never set foot on the property.
       </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Policyholder-submitted photographs:</strong> The carrier asks you to take photos of
-          the damage and upload them through an app or portal. The adjuster then uses these photos
-          as the basis for their estimate.
-        </li>
-        <li>
-          <strong>Satellite and aerial imagery:</strong> Services like EagleView and similar platforms
-          provide high-resolution aerial photographs and measurements of roofs and exterior structures.
-          The adjuster may never see the property from ground level.
-        </li>
-        <li>
-          <strong>Video calls:</strong> In some cases, the adjuster will schedule a video call and ask
-          you to walk through the property with your phone camera, pointing it at damage as they direct.
-        </li>
-        <li>
-          <strong>Third-party field reports:</strong> Some carriers send a &quot;ladder assist&quot; or
-          &quot;field inspector&quot; to take photos and basic measurements, then send those materials
-          to a desk adjuster who writes the actual estimate. The person who visited your property has
-          no authority to evaluate the claim.
-        </li>
-        <li>
-          <strong>Prior inspection data:</strong> Underwriting photos, previous claim files, or
-          property data from public records may be referenced to fill in gaps that the remote
-          review cannot address.
-        </li>
-      </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The desk adjuster then opens Xactimate &mdash; the industry-standard estimating software &mdash; and
-        builds an estimate based on what they can see in these materials. The resulting estimate is
-        presented to you as though it represents the full scope of your loss. In many cases, it does not.
+        In practice, desk adjusting takes several forms. Sometimes the carrier sends a field
+        inspector whose sole job is to take photographs and measurements, then routes those photos
+        to a separate desk adjuster who writes the actual estimate. Other times, the carrier asks
+        the policyholder to submit their own photographs through an app or online portal, and an
+        adjuster reviews those photos to write an estimate sight unseen. In catastrophe situations,
+        carriers may use aerial or satellite imagery to estimate roof damage without anyone ever
+        climbing onto the roof or even entering the home.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The common thread in all of these scenarios is the same: the person making the financial
+        decisions about your claim has no firsthand knowledge of the damage. They did not see it,
+        hear it, smell it, or touch it. They are working from a curated, incomplete set of
+        information &mdash; and they are making determinations that directly affect how much money
+        you receive to repair your home.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How Desk Adjusting Became the Norm
+        Why Carriers Rely on Desk Adjusting
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Desk adjusting existed before the COVID-19 pandemic, but it was generally limited to small,
-        straightforward claims &mdash; a stolen bicycle, a broken window, minor vandalism. The
-        industry understood that complex property losses required boots on the ground. A competent
-        adjuster needed to see, touch, and measure the damage. This was considered basic claims
-        handling.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Then the pandemic arrived. In March 2020, stay-at-home orders and social distancing
-        requirements made in-person inspections impractical or impossible. Carriers pivoted rapidly
-        to virtual inspections out of necessity, and the technology worked well enough to keep
-        claims moving. Some carriers saw virtual claims adoption leap from single-digit percentages
-        to over fifty percent of their total claims volume in a matter of weeks.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        But here is the part that should concern every policyholder: when the pandemic restrictions
-        lifted and in-person inspections became safe again, most carriers never went back. They
-        had discovered something remarkable &mdash; not that virtual adjusting was better for
-        policyholders, but that it was dramatically cheaper for the company. A desk adjuster
-        working from an office can process three to five times more claims per day than a field
-        adjuster who must drive to each property, conduct a hands-on inspection, and travel to the
-        next appointment. The cost savings were enormous, and the claims were settling for less money.
-        From a carrier&apos;s perspective, this was the best of both worlds.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        What started as a temporary pandemic accommodation became a permanent business model. Today,
-        desk adjusting is the default approach for many carriers across a wide range of claim types
-        and values &mdash; including complex losses that genuinely require in-person evaluation.
-      </p>
-
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What Gets Missed When Nobody Visits Your Property
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The fundamental problem with desk adjusting is straightforward: photographs and video cannot
-        capture everything that matters. A trained adjuster physically present at the property
-        uses all of their senses and professional judgment to evaluate damage. A desk adjuster
-        is limited to what a camera lens happened to capture &mdash; and cameras are remarkably
-        poor at documenting the full scope of property damage.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Hidden Damage Behind Walls and Ceilings
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Water intrusion does not stay visible. It migrates through wall cavities, wicks up through
-        drywall, saturates insulation, and damages framing members &mdash; all behind finished
-        surfaces that look fine in a photograph. A field adjuster can use moisture meters to detect
-        elevated moisture levels in walls, floors, and ceilings. They can identify staining
-        patterns that suggest concealed migration. They can feel soft drywall, notice musty odors,
-        and observe subtle warping that a photograph will never reveal.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        A desk adjuster working from photos sees only what is visible on the surface. If the
-        drywall has not yet bubbled or stained, the damage behind it simply does not exist in their
-        estimate. This is how water losses routinely get underscoped &mdash; the adjuster
-        documents the visible water stain on the ceiling but misses the saturated insulation,
-        damaged joists, and compromised subfloor above it.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Measurements That Photos Cannot Provide
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Xactimate estimates are built on measurements &mdash; room dimensions, wall heights,
-        cabinet linear footage, countertop square footage, and dozens of other quantified values.
-        A field adjuster takes these measurements on-site with a laser measure or tape. A desk
-        adjuster must estimate dimensions from photographs, use satellite measurements for exterior
-        features, or rely on whatever the policyholder can provide. The result is frequently
-        inaccurate, and the inaccuracies almost always favor the carrier.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        When a desk adjuster underestimates room dimensions by a few square feet per room, the
-        compounding effect across an entire property can reduce the estimate by thousands of
-        dollars. The adjuster is not deliberately lying about measurements &mdash; they simply
-        cannot measure what they have not visited.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Conditions That Affect Repair Complexity
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Not all repairs are created equal. A field adjuster can observe conditions that significantly
-        affect repair costs but are invisible in photographs:
-      </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Access limitations:</strong> Tight staircases, narrow hallways, limited parking, or
-          properties on hillsides that require special equipment or additional labor to access work areas.
-        </li>
-        <li>
-          <strong>Existing construction methods:</strong> Older homes with plaster-and-lath walls,
-          custom millwork, or unusual framing that require more labor-intensive repair techniques
-          than standard drywall replacement.
-        </li>
-        <li>
-          <strong>Matching challenges:</strong> Discontinued flooring, custom tile patterns, or
-          textured ceilings that cannot be patched &mdash; requiring replacement of larger areas to
-          achieve a{' '}
-          <Link href="/resources/matching" className="text-[#2E74B5] underline">
-            uniform appearance
-          </Link>.
-        </li>
-        <li>
-          <strong>Code compliance issues:</strong> Visible electrical, plumbing, or structural
-          conditions that will trigger code upgrade requirements once a repair permit is pulled.
-        </li>
-        <li>
-          <strong>Asbestos and lead paint:</strong> Older homes may contain materials that require
-          testing and special handling before any demolition or repair work can begin. A photograph
-          cannot identify asbestos-containing materials or lead-based paint.
-        </li>
-        <li>
-          <strong>Secondary and consequential damage:</strong> Warped doors that no longer close
-          properly, cracked grout from structural movement, misaligned cabinets, or electrical
-          issues caused by water intrusion &mdash; all observable on-site but easily missed
-          in photos.
-        </li>
-      </ul>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Human Senses That Technology Cannot Replace
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        A photograph is a two-dimensional snapshot of a three-dimensional problem. It cannot convey
-        the smell of mold behind a wall. It cannot communicate the spongy feel of water-damaged
-        subfloor. It cannot capture the sound of a joist creaking under compromised load capacity.
-        Experienced field adjusters rely on these sensory cues constantly. The musty odor in a
-        closed room tells them to look further. The slightly uneven floor suggests subfloor damage
-        that extends beyond the visible stain. The hollow sound when tapping drywall indicates
-        delamination that the surface does not yet show.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        None of this information reaches a desk adjuster. They work in a sensory vacuum, making
-        decisions about damage they can only partially perceive.
-      </p>
-
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Photo Inspection Trap
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        One of the most consequential aspects of desk adjusting is how carriers gather the
-        photographic evidence they rely upon. Rather than sending a trained professional to
-        document the damage, many carriers now ask the policyholder to serve as their own
-        inspector. You receive an email or text message directing you to download an app, take
-        photographs of the damage from specified angles, and upload them for the adjuster to review.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This creates an inherent problem: you are not a trained claims professional. You do not
-        know which angles matter, where to look for hidden damage indicators, what conditions
-        are relevant to the estimate, or how to document damage in a way that ensures nothing
-        is overlooked. The carrier is asking you to perform a function that requires training
-        and expertise, then using your incomplete documentation as the definitive record of
-        your loss.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Consider what happens in practice. The carrier asks you to photograph &quot;all visible
-        damage.&quot; You take photos of the obvious water stain on the ceiling, the buckled
-        section of flooring, and the peeling paint near the window. What you do not photograph
-        &mdash; because you do not know to look for it &mdash; is the moisture wicking up behind
-        the baseboard on the adjacent wall, the early signs of microbial growth in the cabinet
-        toe kick, or the fact that the subfloor extends well beyond the area of visible buckling.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The desk adjuster then writes an estimate based exclusively on what your photos show.
-        When you later discover additional damage during repairs, you face the burden of
-        supplementing the claim &mdash; a process that can take weeks or months and that many
-        policyholders do not know how to navigate effectively. The carrier has effectively shifted
-        both the investigative burden and the risk of an incomplete inspection onto the policyholder.
-      </p>
-
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Carrier&apos;s Motivation: Follow the Money
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Understanding why carriers have embraced desk adjusting requires understanding the
-        economics. The math is not complicated, and it overwhelmingly favors the insurance company.
+        The motivation behind desk adjusting is straightforward: it saves the insurance company
+        money. A field inspection requires an adjuster to travel to the property, spend time on site,
+        and often incur per-diem expenses, mileage costs, and lodging fees if the property is far
+        from the adjuster&apos;s base. A desk review requires only the adjuster&apos;s time at a
+        computer. The cost differential per claim is substantial, and it multiplies across thousands
+        of claims into enormous operational savings.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Volume and Throughput
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A field adjuster who drives to properties, conducts physical inspections, and writes
-        estimates on-site can typically handle two to four inspections per day, depending on
-        geographic spread and claim complexity. A desk adjuster, working from their computer,
-        can review photos and produce estimates for ten to twenty claims per day. The productivity
-        multiplier is staggering &mdash; the carrier can process the same volume of claims with
-        a fraction of the adjusting staff.
+        Desk adjusting allows carriers to handle a dramatically higher volume of claims with fewer
+        adjusters. A field adjuster who drives to properties, conducts physical inspections, and
+        writes estimates on-site can typically handle two to four inspections per day, depending on
+        geographic spread and claim complexity. A desk adjuster, working from their computer, can
+        review photos and produce estimates for ten to twenty files per day. During catastrophe
+        surges &mdash; when wildfires, earthquakes, or other large-scale events generate thousands
+        of claims simultaneously &mdash; carriers face enormous pressure to process claims quickly.
+        Desk adjusting allows them to move files through the system at speed, even when they lack
+        the field staff to inspect every property.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Lower Adjuster Costs
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Field adjusters command higher compensation than desk adjusters. They require vehicles,
-        fuel, equipment, and travel time &mdash; all of which the carrier pays for directly or
-        indirectly. Desk adjusters need only a computer, an Xactimate license, and an internet
-        connection. During catastrophe events, carriers historically deployed armies of independent
-        adjusters at significant per-claim cost. Desk adjusting allows carriers to handle surge
-        volume without proportionally increasing field staff.
+        Field adjusters command higher compensation than desk adjusters. They require vehicles, fuel,
+        equipment, and travel time &mdash; all of which the carrier pays for directly or indirectly.
+        Desk adjusters need a computer, an Xactimate license, and an internet connection. During
+        catastrophe events, carriers historically deployed large numbers of independent adjusters at
+        significant per-claim cost. Desk adjusting allows carriers to handle surge volume without
+        proportionally increasing field staff expenditures.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Lower Claim Payments
+        A Less Discussed Advantage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the factor that carriers rarely discuss publicly. When an adjuster does not visit
-        the property, they inevitably miss damage. Missed damage means a smaller estimate. A
-        smaller estimate means a smaller payment. Across thousands of claims, even modest per-claim
-        underpayments compound into enormous savings for the carrier. Whether this outcome is the
-        deliberate intent or merely a predictable consequence of the desk adjusting model, the
-        financial result is the same: policyholders receive less money than their claims warrant.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The carrier will never frame it this way, of course. The official narrative emphasizes
-        &quot;speed,&quot; &quot;convenience,&quot; and &quot;getting you paid faster.&quot; These
-        benefits are real in some cases &mdash; nobody wants to wait three weeks for an adjuster
-        to show up for a simple claim. But when &quot;faster&quot; also means &quot;less
-        thorough,&quot; the policyholder should ask who is truly benefiting from the acceleration.
+        There is also a less openly discussed advantage for carriers. When an adjuster physically
+        inspects a property, they develop firsthand knowledge. They see the extent of the damage.
+        They talk to the policyholder. They may feel a professional obligation to document everything
+        they observe. A desk adjuster, by contrast, only knows what is in the file. If the photos
+        don&apos;t capture certain damage &mdash; and photos almost never capture the full picture
+        &mdash; that damage may simply not appear in the estimate. The distance between the adjuster
+        and the property creates a built-in filter that tends to reduce what gets documented and
+        what gets paid. Whether this outcome is the deliberate intent or merely a predictable
+        consequence of the methodology, the financial result is the same: policyholders receive less
+        money than their claims warrant.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        When Desk Adjusting Is Appropriate
+        The Fundamental Problems with Desk Adjusting
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not every claim requires an in-person inspection. Desk adjusting can be a reasonable
-        approach for certain types of losses:
-      </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Very minor, surface-level damage:</strong> A single broken window, a small
-          section of damaged siding from a thrown rock, or a toilet overflow that was cleaned
-          up immediately and affected only a small area of visible flooring.
-        </li>
-        <li>
-          <strong>Theft claims with no property damage:</strong> When items were stolen but the
-          property itself was not damaged, a desk review of the police report and receipts may be
-          sufficient.
-        </li>
-        <li>
-          <strong>Claims where damage is fully visible and self-contained:</strong> A fallen tree
-          limb that damaged a fence section, with no potential for hidden or secondary damage.
-        </li>
-        <li>
-          <strong>Supplemental reviews for previously inspected claims:</strong> When a field adjuster
-          already conducted an initial inspection and a supplement involves clearly documented
-          additional items, a desk review of the supplemental documentation may be reasonable.
-        </li>
-      </ul>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The common thread is that these are simple, small, and transparent losses where photos
-        can reasonably capture the full scope of damage and there is little risk of hidden or
-        secondary damage being missed.
-      </p>
-
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        When Desk Adjusting Is Not Appropriate
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The problem arises when carriers apply the desk adjusting model to claims that demand
-        physical inspection. These include:
-      </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Water losses of any significant scope:</strong> Water migrates. It travels through
-          wall cavities, along electrical conduits, and underneath flooring. The visible damage
-          is almost never the full extent of the problem. Moisture mapping requires physical
-          presence and instrumentation.
-        </li>
-        <li>
-          <strong>Fire and smoke losses:</strong> Smoke travels through the entire HVAC system and
-          permeates soft goods, insulation, and concealed spaces. Char depth and structural
-          integrity cannot be assessed from photographs.
-        </li>
-        <li>
-          <strong>Roof claims with potential interior damage:</strong> Satellite imagery can show
-          missing shingles but cannot reveal underlayment condition, decking integrity, attic
-          moisture intrusion, or interior water staining that has not yet become visible.
-        </li>
-        <li>
-          <strong>Large losses:</strong> Any claim of significant value warrants the investment of
-          an in-person inspection. The stakes are simply too high for both parties to rely on
-          photographs as the sole basis for the estimate.
-        </li>
-        <li>
-          <strong>Losses with potential hidden damage:</strong> Impact damage to walls that may have
-          compromised framing. Foundation movement that may have affected plumbing. Hail damage
-          to a roof system where the full extent of granule loss and mat damage requires close
-          inspection of individual shingles.
-        </li>
-        <li>
-          <strong>Older homes with non-standard construction:</strong> Properties built before
-          modern building codes may contain materials, construction methods, and configurations
-          that significantly affect repair costs and cannot be identified remotely.
-        </li>
-        <li>
-          <strong>Any loss where the{' '}
-          <Link href="/resources/scope-of-loss" className="text-[#2E74B5] underline">
-            scope of damage
-          </Link>{' '}
-          is disputed:</strong> If you believe the carrier&apos;s estimate is missing damage,
-          the resolution requires someone to look at the property &mdash; not at pictures of
-          the property.
-        </li>
-      </ul>
-
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Regulatory Framework
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        California law does not explicitly prohibit desk adjusting. However, the Fair Claims
-        Settlement Practices Regulations establish standards for claim investigation that a
-        desk-only approach may fail to satisfy, depending on the circumstances.
+        The problems with desk adjusting are not theoretical. They are concrete, well-documented,
+        and they recur across virtually every type of property damage claim. Each of the following
+        issues represents a way in which desk adjusting systematically undermines the accuracy of
+        the carrier&apos;s damage assessment.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Duty to Investigate Thoroughly
+        Hidden Damage That Photos Cannot Capture
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under 10 CCR &sect; 2695.7(d), every insurer must &quot;conduct and diligently pursue a
-        thorough, fair and objective investigation.&quot; The regulation does not specify the
-        form that investigation must take, but it does require that the investigation be
-        &quot;thorough.&quot; When the nature of a loss is such that a remote review cannot
-        reasonably capture the full scope of damage, relying exclusively on photos and satellite
-        imagery may not satisfy this duty.
+        Property damage frequently extends well beyond what is visible to the naked eye &mdash; and
+        photographs capture even less than what the eye can see in person. Water damage behind
+        drywall, mold growth inside wall cavities, smoke residue in attic spaces, structural damage
+        beneath flooring, compromised insulation, rotting framing members &mdash; none of these are
+        visible in a standard photograph. They require hands-on inspection, often with specialized
+        equipment such as moisture meters, thermal imaging cameras, or borescopes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The question is always whether the investigation conducted was adequate given the
-        circumstances of the particular claim. For a small, straightforward loss, a photo review
-        may constitute a thorough investigation. For a complex water intrusion claim with potential
-        concealed damage, it almost certainly does not. The regulation demands that the
-        investigation fit the claim &mdash; not that every claim fit the carrier&apos;s preferred
-        investigation method.
+        When a desk adjuster writes an estimate based solely on photographs, they are evaluating
+        only the surface-level damage. The hidden damage &mdash; which is often the most extensive
+        and most expensive component of the loss &mdash; goes unrecognized and unpaid. This is not
+        a minor omission. In water damage claims, for example, the damage behind the walls
+        frequently costs more to remediate than the visible damage on the surface. A desk-adjusted
+        estimate that addresses only what photographs show may capture as little as 30 to 50 percent
+        of the actual loss.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Unfair Claims Settlement Practices
+        Scale and Scope Distortion
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 790.03(h) prohibits a range of unfair claims settlement
-        practices, including the failure to adopt and implement reasonable standards for the prompt
-        investigation and processing of claims. When desk adjusting produces systematically
-        inadequate investigations &mdash; because the method is inherently incapable of
-        capturing the full scope of certain types of losses &mdash; it raises the question
-        of whether the carrier&apos;s investigation standards are &quot;reasonable&quot; within
-        the meaning of the statute.
+        Photographs are inherently limited in their ability to convey scale. A crack that appears
+        minor in a wide-angle photo may be structurally significant. Soot deposits that look faint
+        on a camera screen may be pervasive throughout a room. Water staining that seems contained
+        in an image may extend well beyond the frame. Without standing in the room and seeing the
+        damage in three dimensions, an adjuster cannot accurately assess how extensive the damage
+        actually is.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The statute also prohibits not attempting in good faith to effectuate prompt, fair, and
+        This distortion is compounded when the policyholder is the one taking the photographs.
+        Policyholders are not trained to document damage for estimating purposes. They may photograph
+        the most dramatic damage while failing to capture more subtle but equally important damage
+        elsewhere. They may take photos at angles that minimize the appearance of damage, not because
+        they intend to, but because they simply do not know what an adjuster would need to see. The
+        result is a photographic record that systematically understates the actual condition of the
+        property. This is a{' '}
+        <Link href="/resources/scope-of-loss" className="text-[#2E74B5] underline">
+          scope of loss problem
+        </Link>{' '}
+        that begins before the estimate is even written.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Missing Items That Would Be Obvious in Person
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When an adjuster walks through a damaged property, they notice things that no photograph
+        captures. The door that no longer closes properly because the frame shifted. The cabinet
+        drawer that sticks because the subfloor beneath the cabinet swelled with moisture. The slight
+        bow in a ceiling that indicates water pooling above. The discoloration on a baseboard that
+        suggests moisture wicking from beneath the floor. These are observations that come from
+        physically being present in the space &mdash; moving through it, opening doors and drawers,
+        looking up and down and behind furniture.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A desk adjuster reviewing photographs will miss these items not because they are careless,
+        but because the information simply is not in the photographs. No amount of diligence at a
+        computer screen can substitute for the sensory information that comes from a physical
+        inspection. The result is an estimate that systematically omits items that any competent
+        field adjuster would include &mdash; items that represent real damage requiring real repairs
+        that the policyholder is entitled to recover.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Inability to Assess Moisture, Odor, and Structural Integrity
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Some of the most critical aspects of property damage assessment simply cannot be captured in
+        any photograph or video. Moisture content in building materials requires a moisture meter
+        pressed against the surface. Odor &mdash; particularly smoke odor, which permeates soft
+        goods, insulation, and HVAC systems &mdash; can only be detected by a person physically
+        present in the space. Structural integrity requires hands-on evaluation: pressing on walls,
+        walking on floors, checking whether surfaces flex or give, examining connections and
+        load-bearing elements.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A desk adjuster cannot take a moisture reading. A desk adjuster cannot smell smoke in the
+        attic. A desk adjuster cannot feel the soft spot in the subfloor under the kitchen linoleum.
+        These are not luxuries of inspection &mdash; they are fundamental components of an adequate
+        damage assessment. When a carrier skips these steps by desk adjusting a claim, the resulting
+        estimate is not just incomplete; it is built on a foundation of ignorance about the actual
+        condition of the property.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        No Firsthand Knowledge
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Perhaps the most fundamental problem with desk adjusting is epistemological: the adjuster
+        making the decisions has no firsthand knowledge of the property or the damage. Everything
+        they know is secondhand, filtered through photographs, reports, and descriptions written by
+        other people. If those sources are incomplete &mdash; and they almost always are &mdash; the
+        adjuster&apos;s conclusions will be incomplete as well.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This matters not only for the accuracy of the estimate but also for the adjuster&apos;s
+        ability to defend their conclusions. When a dispute arises and the carrier cites its
+        adjuster&apos;s estimate as the basis for the payment, the policyholder is entitled to ask:
+        did the adjuster actually see the damage? If the answer is no, the evidentiary weight of
+        that estimate is significantly diminished. An adjuster who never visited the property is
+        testifying about conditions they never observed, based on evidence they did not personally
+        gather.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        California&apos;s Regulatory Framework and the Duty to Investigate
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California law imposes specific obligations on insurance companies regarding how they
+        investigate claims. These obligations exist precisely because inadequate investigations
+        lead to inadequate payments &mdash; and desk adjusting raises serious questions about
+        whether a carrier has met its legal duties.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Duty to Conduct a Thorough Investigation
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California Insurance Code &sect; 2695.7(d) requires that every insurer conduct a thorough,
+        fair, and objective investigation sufficient to determine its liability under the policy.
+        The California Fair Claims Settlement Practices Regulations (Cal. Code Regs., tit. 10,
+        &sect;&sect; 2695.1&ndash;2695.17) further elaborate on what constitutes an adequate
+        investigation. The{' '}
+        <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] underline">
+          duty to investigate
+        </Link>{' '}
+        is not discretionary. It is a mandatory obligation that the carrier must fulfill before
+        making a claims decision.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The critical question is whether a desk review &mdash; without a physical inspection &mdash;
+        can ever constitute a &quot;thorough&quot; investigation of a property damage claim. For
+        minor claims involving straightforward, surface-level damage with clear photographic
+        documentation, a desk review may arguably suffice. But for claims involving hidden damage,
+        complex repairs, significant dollar amounts, or any situation where the full extent of the
+        damage is not apparent from photographs alone, a desk review falls short of what California
+        law requires.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        What Constitutes a &quot;Reasonable&quot; Investigation?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California courts have consistently held that an insurer&apos;s investigation must be
+        reasonable under the circumstances. What is reasonable depends on the facts of the claim.
+        For a broken window with clear photographic documentation and an undisputed cause of loss,
+        a desk review may be reasonable. For a fire loss affecting multiple rooms with potential
+        smoke damage throughout the structure, or a water loss with likely moisture migration behind
+        walls, refusing to physically inspect the property is difficult to justify as reasonable.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The standard is not whether the carrier&apos;s investigation was convenient or cost-effective
+        for the carrier. The standard is whether the investigation was adequate to determine the
+        carrier&apos;s full liability. When a carrier chooses desk adjusting over a field inspection
+        for reasons of cost or efficiency, it is prioritizing its own operational preferences over
+        the quality of its investigation. That choice has consequences for the policyholder, and it
+        may have legal consequences for the carrier as well.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Fair Claims Settlement Practices
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The{' '}
+        <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
+          California Fair Claims Settlement Practices Act
+        </Link>{' '}
+        establishes minimum standards for how insurers must handle claims. Among those standards is
+        the requirement that the insurer&apos;s investigation be sufficient to determine the full
+        extent of its obligation to the policyholder. California Insurance Code &sect; 790.03(h)
+        prohibits a range of unfair claims settlement practices, including the failure to adopt and
+        implement reasonable standards for the prompt investigation and processing of claims.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When a desk adjuster writes an estimate that omits hidden damage, misses items that would
+        have been apparent in person, and fails to account for conditions that only a physical
+        inspection could reveal, the investigation is not sufficient. The carrier may have
+        technically &quot;investigated&quot; the claim, but it has not investigated it thoroughly.
+        The statute also prohibits failing to attempt in good faith to effectuate prompt, fair, and
         equitable settlements when liability has become reasonably clear. An estimate that is
         predictably low because the adjuster never visited the property may fall short of the
-        &quot;fair and equitable&quot; standard. For a deeper analysis of these obligations, see
-        our article on the{' '}
-        <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] underline">
-          insurer&apos;s duty to investigate
-        </Link>.
+        &quot;fair and equitable&quot; standard.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        What Other States Are Doing
+        CDI Complaints and Regulatory Enforcement
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Several states have begun addressing virtual adjusting directly. Vermont issued a consumer
-        advisory in 2026 reminding policyholders that they have the right to request an in-person
-        inspection at any time during the claims process. Florida&apos;s statute permits electronic
-        inspection methods but still requires that any physical inspection occur within 30 days of
-        receiving proof of loss. The regulatory landscape is evolving, and more states are likely
-        to establish explicit standards as complaints about desk-adjusted estimates continue to mount.
+        The California Department of Insurance (CDI) accepts complaints from policyholders who
+        believe their insurer has failed to properly investigate a claim. An insurer&apos;s refusal
+        to physically inspect a property &mdash; particularly when the policyholder has requested an
+        inspection or when the nature of the damage warrants one &mdash; is the type of conduct that
+        may form the basis for a{' '}
+        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+          CDI complaint
+        </Link>. The CDI has the authority to investigate these complaints, contact the insurer, and
+        in some cases take enforcement action.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Even in the absence of a state-specific regulation prohibiting desk adjusting, the
-        general duty to conduct an adequate investigation provides a legal foundation for
-        challenging a remote estimate that missed damage. The standard is adequacy &mdash; did
-        the insurer do enough to identify the full scope of loss? When the answer is no, the
-        method of investigation becomes relevant to a{' '}
-        <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
-          bad faith
+        Filing a CDI complaint does not guarantee a particular outcome, but it creates a regulatory
+        record and puts the carrier on notice that its investigation methods are being scrutinized.
+        Carriers take CDI inquiries seriously because patterns of complaints can lead to market
+        conduct examinations and regulatory penalties. A complaint specifically noting that the
+        carrier refused to inspect the property before writing an estimate puts the carrier&apos;s
+        investigation practices squarely at issue.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        When Desk Adjusting Is Especially Harmful
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        While desk adjusting presents problems in virtually any property damage claim of meaningful
+        complexity, certain types of losses are particularly ill-suited to remote evaluation. In
+        these situations, the gap between what a desk adjuster can determine and what the actual
+        damage entails is widest, and the resulting underpayment is most severe.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Water Damage Claims
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Water damage is perhaps the worst candidate for desk adjusting. Water follows gravity, wicks
+        through porous materials, and travels along hidden pathways &mdash; inside wall cavities,
+        beneath flooring, along framing members, and through insulation. The visible evidence of
+        water damage &mdash; staining on a ceiling, warping on a floor, discoloration on a wall
+        &mdash; typically represents only a fraction of the actual moisture intrusion.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Properly assessing water damage requires moisture meters, thermal imaging, and often
+        destructive investigation &mdash; removing portions of drywall, pulling up flooring, or
+        opening ceiling cavities to determine how far the water traveled. A desk adjuster reviewing
+        photographs of surface staining has no ability to determine the extent of moisture behind
+        the walls, whether mold growth has begun in concealed areas, or whether structural framing
+        has been compromised. The resulting estimate will almost certainly understate the actual
+        damage and the cost of proper remediation and repair.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Consider a common scenario: a supply line breaks in a second-floor bathroom. The visible
+        damage is a wet spot on the bathroom floor and a water stain on the first-floor ceiling
+        below. The policyholder photographs these two areas and submits them through the carrier&apos;s
+        app. The desk adjuster writes an estimate for drywall repair on the ceiling and flooring
+        replacement in the bathroom. But the water also saturated the subfloor, traveled along the
+        floor joists, soaked the insulation in the joist bays, wicked into the wall cavity between
+        the first and second floors, and began promoting microbial growth in areas that will not be
+        visible until demolition begins. None of this appears in the photographs. None of it appears
+        in the estimate. The policyholder discovers the full extent during repairs and faces the
+        burden of supplementing the claim &mdash; a process that can take weeks or months.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Fire and Smoke Damage Claims
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Fire and smoke damage presents unique challenges for remote assessment. Smoke is insidious
+        &mdash; it penetrates every opening, seeps through HVAC systems, permeates soft goods, and
+        deposits residue in areas far from the fire origin. Smoke odor, one of the most significant
+        and costly components of fire damage, cannot be photographed. An adjuster must physically be
+        present in the structure to smell the smoke, assess its intensity, and determine which areas
+        and materials require cleaning, deodorization, or replacement.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Soot deposits are similarly difficult to assess from photographs. What appears as a thin film
+        in a photo may be a heavy, acidic residue that requires professional cleaning or replacement
+        of the affected material. Char damage to structural elements, heat damage to wiring and
+        plumbing, and smoke contamination of insulation and HVAC ductwork all require physical
+        inspection to properly evaluate. A desk-adjusted fire or smoke claim is almost guaranteed
+        to underestimate the scope of the loss.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Complex Roofing Claims
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Roofing claims have become a frequent target for desk adjusting, particularly through the
+        use of aerial and satellite imagery. Carriers increasingly rely on services that provide
+        overhead images of roofs, which are then used by desk adjusters to determine damage and
+        write estimates. While aerial imagery can identify some types of obvious damage &mdash;
+        missing shingles, visible debris impact, large areas of displacement &mdash; it cannot
+        detect many common forms of roof damage that are only apparent upon close physical
+        inspection.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Hail damage, for example, often presents as granule loss, bruising, or fracturing of
+        shingles that is not visible from aerial photographs. Wind damage may loosen shingles
+        without displacing them, creating a condition that is only apparent when an inspector
+        physically lifts and examines individual shingles. Flashing damage, valley deterioration,
+        and compromised underlayment are all conditions that require a hands-on roof inspection to
+        identify. When a carrier relies on satellite imagery to desk adjust a roof claim, it is
+        evaluating the roof from a perspective that cannot detect many of the most common and
+        consequential forms of damage.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Large Losses Where Scope Is the Primary Dispute
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In large losses &mdash; those involving extensive damage to a significant portion of the
+        property &mdash; the primary dispute is almost always about{' '}
+        <Link href="/resources/scope-vs-price-disputes" className="text-[#2E74B5] underline">
+          scope rather than price
+        </Link>. The question is not whether a particular line item costs $50 or $75 per unit; the
+        question is whether the carrier has identified all the damage and all the repairs needed
+        to restore the property to its pre-loss condition. Desk adjusting a large loss is
+        particularly problematic because the scope of damage in a large loss is inherently complex,
+        involves multiple systems and areas of the property, and requires a comprehensive in-person
+        evaluation to properly assess.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When a carrier desk adjusts a large loss, the{' '}
+        <Link href="/resources/scope-of-loss" className="text-[#2E74B5] underline">
+          scope gap
         </Link>{' '}
-        analysis.
+        between the carrier&apos;s estimate and the actual damage is typically enormous. This is not
+        a matter of a few missed line items; it is a matter of entire categories of damage going
+        unrecognized because no one from the carrier bothered to walk through the property and see
+        the full extent of what happened.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Satellite Imagery Problem
+        How Desk Adjusting Leads to Systematic Underpayment
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Carriers have invested heavily in aerial imagery platforms that provide overhead
-        photographs and dimensional measurements of properties. These tools &mdash; including
-        EagleView, which claims measurement accuracy within inches and is used by nine of the
-        top ten insurance carriers &mdash; can provide roof dimensions, pitch calculations, and
-        surface area measurements without anyone setting foot on the property.
+        Desk adjusting does not produce random errors that sometimes favor the carrier and sometimes
+        favor the policyholder. It produces systematic underpayment. The reason is structural: every
+        limitation of desk adjusting works in the same direction. Hidden damage is missed &mdash;
+        that favors the carrier. Scale is understated &mdash; that favors the carrier. Items that
+        would be obvious in person go undocumented &mdash; that favors the carrier. Moisture, odor,
+        and structural conditions go unassessed &mdash; that favors the carrier.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For roof measurements alone, this technology can be remarkably accurate. But
-        measurements are only one component of a roof estimate. What aerial imagery cannot
-        provide is equally important:
+        There is no corresponding mechanism by which desk adjusting leads to overestimation. A desk
+        adjuster reviewing photos does not accidentally discover hidden damage that isn&apos;t in the
+        photos. They do not add items that they cannot see. The information deficit created by remote
+        adjusting is a one-way street: it can only reduce the scope of recognized damage, never
+        expand it.
       </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          The condition of individual shingles &mdash; granule loss, cracking, lifting, or
-          hail impact marks that can only be identified at close range.
-        </li>
-        <li>
-          Flashing condition around penetrations, valleys, and wall-to-roof transitions, where
-          many leaks originate.
-        </li>
-        <li>
-          The condition of the roof decking beneath the shingles, which may be rotted, warped,
-          or otherwise compromised.
-        </li>
-        <li>
-          Attic conditions &mdash; water staining on the underside of the decking, damaged
-          insulation, or signs of prolonged moisture exposure.
-        </li>
-        <li>
-          The condition of gutters, downspouts, fascia, and soffit components that are not
-          clearly visible from overhead angles.
-        </li>
-        <li>
-          Steep-slope or multi-story access challenges that significantly affect repair labor costs.
-        </li>
-      </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A desk adjuster who writes a roof estimate from aerial imagery and ground-level photos
-        is making assumptions about every condition they cannot directly observe. In many cases,
-        those assumptions result in a scope of work that does not match the reality of the damage.
+        This means that every time a carrier chooses to desk adjust a claim instead of conducting a
+        field inspection, the likely outcome is a lower estimate. Across thousands of claims, this
+        produces enormous savings for the carrier &mdash; and corresponding losses for policyholders
+        who receive less than they are owed. The savings are not incidental to the practice; they are
+        inseparable from it. A methodology that systematically prevents the identification of
+        legitimate damage will systematically reduce the amount the carrier pays.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Policyholders should understand that when they receive a desk-adjusted estimate, the number
+        on that estimate is almost certainly lower than what a field-adjusted estimate would produce.
+        The difference is not a matter of opinion or judgment; it is a predictable consequence of the
+        information deficit inherent in desk adjusting. The carrier knows this. The practice persists
+        not because it produces more accurate assessments, but because it serves the carrier&apos;s
+        financial interests.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Bad Faith Implications
+        The Duty to Investigate vs. the Right to Desk Adjust
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a desk-adjusted estimate systematically underpays because the adjuster never saw the
-        property, the question of bad faith inevitably arises. California courts have long held
-        that an insurer has a duty to conduct a thorough investigation before making claim
-        decisions, as established in the landmark case{' '}
-        <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809. The Supreme Court
-        held that insurance companies have an obligation to conduct a thorough, unbiased
-        investigation &mdash; and that the duty to investigate exists independently of the
-        outcome of the claim.
+        Carriers sometimes argue that nothing in California law explicitly prohibits desk adjusting.
+        This is technically true &mdash; no statute specifically says &quot;the insurer must
+        physically inspect every property.&quot; But this argument misses the point. The law does not
+        need to prohibit desk adjusting by name because it already requires something that desk
+        adjusting frequently fails to achieve: a thorough and adequate investigation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Several patterns in desk adjusting raise potential bad faith concerns:
+        The{' '}
+        <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] underline">
+          duty to investigate
+        </Link>{' '}
+        is not satisfied by going through the motions of reviewing a file. It requires the carrier
+        to gather sufficient information to make an informed decision about the claim. When the
+        nature of the loss is such that a physical inspection is necessary to gather that
+        information &mdash; and for most property damage claims of any significance, it is &mdash;
+        the carrier cannot satisfy its duty to investigate by staying at its desk.
       </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Choosing not to inspect when the claim warrants inspection:</strong> If the
-          nature and complexity of the loss make a physical inspection the only reasonable way to
-          assess the full scope, the deliberate choice to skip that inspection may constitute a
-          failure to adequately investigate.
-        </li>
-        <li>
-          <strong>Ignoring the policyholder&apos;s request for an on-site inspection:</strong> When
-          a policyholder specifically asks the carrier to send someone to look at the property and
-          the carrier refuses, the carrier is documenting its own unwillingness to investigate
-          thoroughly.
-        </li>
-        <li>
-          <strong>Using desk adjusting as a cost-containment strategy:</strong> If internal carrier
-          communications reveal that desk adjusting was adopted primarily to reduce claim payouts
-          rather than to improve claim handling, that motive is relevant to a bad faith analysis.
-        </li>
-        <li>
-          <strong>Systematic underpayment across a category of claims:</strong> If desk-adjusted
-          claims consistently result in lower payments than comparable field-inspected claims, the
-          pattern itself may indicate that the process is not producing &quot;fair and equitable&quot;
-          settlements as required by law.
-        </li>
-        <li>
-          <strong>Refusing to supplement after hidden damage is discovered:</strong> When a
-          contractor begins repairs and discovers damage that the desk adjuster missed &mdash; damage
-          that a field inspection would have identified &mdash; the carrier&apos;s response to the
-          supplement request becomes critical. Denying or delaying supplements for damage the carrier
-          chose not to look for compounds the original investigation failure.
-        </li>
-      </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In the most egregious cases &mdash; those in which field adjusters&apos; reports have
-        been modified by desk adjusters who never visited the property &mdash; investigations
-        have revealed estimates cut by orders of magnitude. In Hurricane Ian litigation, one
-        adjuster reported that 44 of his 46 field reports were adjusted downward by desk personnel,
-        with one estimate reduced from $488,000 to just $13,051. While not every case involves
-        such dramatic manipulation, the structural incentives that enabled it remain embedded
-        in the desk adjusting model.
+        The question is not whether the carrier has a &quot;right&quot; to desk adjust. The question
+        is whether the carrier has met its obligation to the policyholder. Those are different
+        questions with different answers. A carrier may choose desk adjusting for its own operational
+        convenience, but that choice does not relieve it of the duty to conduct an investigation
+        adequate to determine the full scope of the policyholder&apos;s loss. If the desk review
+        missed damage that a field inspection would have found, the carrier&apos;s investigation was
+        not adequate &mdash; regardless of whether it was permitted by some narrow reading of the
+        regulations.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This distinction matters because it shifts the burden of the argument. The carrier cannot
+        simply say &quot;we desk adjusted and that is our right.&quot; The carrier must demonstrate
+        that its desk adjustment was sufficient to identify all covered damage and arrive at an
+        accurate estimate. When the policyholder can show that damage was missed &mdash; damage that
+        would have been found during a physical inspection &mdash; the carrier&apos;s claim that its
+        investigation was adequate becomes very difficult to sustain.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Separation of Inspector from Estimator
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One particularly problematic variant of desk adjusting involves splitting the inspection
+        and estimating functions between two different people. The carrier sends a field inspector
+        &mdash; sometimes a licensed independent adjuster, sometimes a less-qualified inspector or
+        even a contractor &mdash; to the property to take photos and measurements. Those photos and
+        measurements are then transmitted to a separate desk adjuster who writes the actual estimate.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This creates a disconnect that magnifies the problems of desk adjusting. The person who saw
+        the damage does not write the estimate. The person who writes the estimate did not see the
+        damage. The field inspector may have observed conditions &mdash; odor, moisture, structural
+        concerns, damage in areas they did not photograph &mdash; that never make it into the file
+        because documenting those conditions was not part of their limited assignment. The desk
+        adjuster then writes an estimate based on whatever the field inspector chose to photograph
+        and document, without any way to know what was left out.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This separation also creates accountability gaps. When the policyholder challenges the
+        estimate, the desk adjuster can say they relied on the field inspector&apos;s documentation.
+        The field inspector can say they only took photos &mdash; they did not write the estimate.
+        Neither takes full responsibility for the accuracy of the result. If your claim has been
+        subject to{' '}
+        <Link href="/resources/adjuster-changes-mid-claim" className="text-[#2E74B5] underline">
+          multiple adjuster changes
+        </Link>, the separation between inspector and estimator becomes even more pronounced, as
+        institutional knowledge about your claim is further diluted with each handoff.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Technology Is Not a Substitute for Inspection
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Carriers increasingly point to technology as justification for desk adjusting. Drone
+        imagery, satellite photography, 3D scanning apps, AI-powered damage detection &mdash; these
+        tools are presented as making physical inspections unnecessary. Some carriers have invested
+        heavily in these technologies and use them to argue that their remote assessments are just
+        as good as, or even better than, traditional field inspections.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        These arguments overstate what technology can do. Drones can photograph a roof from above,
+        but they cannot detect bruising beneath the surface of a shingle. Satellite imagery can
+        show whether a roof is missing shingles, but it cannot assess whether the underlayment is
+        compromised. Apps that allow policyholders to scan their rooms generate useful dimensional
+        data, but they cannot detect moisture, odor, or structural compromise. AI-powered tools can
+        identify certain types of damage in photographs, but they cannot identify damage that
+        isn&apos;t visible in photographs &mdash; and that is precisely the category of damage where
+        desk adjusting falls shortest.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Technology is a tool that can supplement a field inspection. It is not a replacement for one.
+        When a carrier uses technology to justify the elimination of physical inspections, it is
+        using innovation as a cost-cutting measure, not as a means of improving the accuracy of its
+        assessments. Policyholders should not be persuaded by a carrier&apos;s technological
+        arguments when the fundamental issue remains the same: the person writing the estimate has
+        never seen the damage.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Desk Adjusting During Catastrophe Events
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Catastrophe events &mdash; wildfires, earthquakes, hurricanes, widespread flooding &mdash;
+        create conditions that make desk adjusting both more tempting for carriers and more harmful
+        for policyholders. When thousands of claims flood in simultaneously, carriers face
+        legitimate logistical challenges in deploying enough field adjusters to inspect every
+        property promptly. Desk adjusting allows them to begin processing claims immediately, even
+        before they have the personnel to conduct field inspections.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        But catastrophe events are precisely the situations where physical inspections matter most.
+        The damage is typically more extensive, more complex, and more likely to include hidden
+        components that photographs cannot capture. A wildfire-damaged home may have structural
+        damage, smoke and soot contamination throughout, heat damage to systems, and environmental
+        hazards that require careful on-site assessment. A flood-damaged property may have moisture
+        throughout the structure that requires comprehensive testing to fully map. These are not
+        claims that can be adequately evaluated from a desk.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The carrier&apos;s staffing challenges during a catastrophe event are real, but they are the
+        carrier&apos;s challenges, not the policyholder&apos;s. An insurer that collects premiums in
+        an area prone to catastrophic events has an obligation to be prepared to handle claims when
+        those events occur. Using desk adjusting as a response to staffing shortages may be
+        understandable from a logistical perspective, but it does not reduce the carrier&apos;s
+        obligation to conduct adequate investigations or pay the full amount owed on each claim.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Desk Adjusting and Supplemental Claims
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Desk adjusting creates a downstream problem that extends well beyond the initial estimate.
+        When the initial estimate is inadequate because the adjuster never visited the property, the
+        policyholder must file supplemental claims for the missed damage. These supplements then
+        require additional review, additional documentation, and often additional disputes &mdash;
+        all of which could have been avoided if the carrier had conducted a proper inspection in the
+        first place.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In some cases, the carrier desk adjusts the supplemental claim as well, creating a cycle
+        in which the policyholder submits documentation of additional damage, the carrier reviews
+        it from a desk, misses or disputes portions of it, and the policyholder must submit yet
+        another supplement. This cycle can extend the claims process by months or even years, and
+        it is deeply frustrating for policyholders who simply want their damage properly assessed
+        and their claim properly paid.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The supplemental claim process also shifts the burden of investigation from the carrier to
+        the policyholder. Instead of the carrier sending an adjuster to identify all the damage,
+        the policyholder must repeatedly identify damage the carrier missed and submit evidence to
+        prove it exists. This is the opposite of how the claims process is supposed to work. The
+        carrier has the{' '}
+        <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] underline">
+          duty to investigate
+        </Link>; the policyholder should not have to serve as the carrier&apos;s field inspector.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         How to Challenge a Desk-Adjusted Estimate
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If your claim was handled by a desk adjuster and you believe the estimate is inadequate,
-        you have several options.
+        Policyholders who receive a desk-adjusted estimate are not required to accept it. There are
+        several concrete steps you can take to challenge an estimate that was written without a
+        physical inspection of your property.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         1. Demand an On-Site Inspection
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Put your request in writing. Inform the carrier that you do not believe a remote review
-        can adequately assess the damage to your property and that you are requesting a physical,
-        on-site inspection by a qualified adjuster. Cite the carrier&apos;s duty to conduct a
-        thorough investigation under 10 CCR &sect; 2695.7(d) and the requirement for fair and
-        equitable settlements under Insurance Code &sect; 790.03(h). Make clear that you are
-        documenting the request and will consider a refusal as part of the claim file if a
-        dispute arises later.
+        The most direct response to a desk-adjusted estimate is to demand that the carrier send a
+        qualified adjuster to physically inspect your property. Put this demand in writing. Be
+        specific: state that the estimate you received was written without a physical inspection,
+        that you believe the estimate does not reflect the full extent of your damage, and that you
+        are requesting an on-site inspection so the carrier can conduct an adequate investigation
+        pursuant to its obligations under California Insurance Code &sect; 2695.7(d).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Many carriers will comply when confronted with a written demand that references specific
-        regulatory provisions. The carrier knows that refusing a reasonable inspection request
-        looks problematic in litigation and before the Department of Insurance.
+        If the carrier refuses, document that refusal carefully. A carrier&apos;s refusal to inspect
+        a property when the policyholder has requested an inspection is significant evidence of an
+        inadequate investigation. It is also the type of conduct that the CDI takes seriously in
+        complaint proceedings. Your written demand and the carrier&apos;s written refusal create a
+        record that may be critically important later if the dispute escalates to appraisal,
+        mediation, or litigation.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         2. Document What Photos Cannot Show
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While waiting for a reinspection or as part of your challenge to the desk estimate,
-        document everything that the remote review missed. This includes:
+        While you are challenging the carrier&apos;s failure to inspect, take steps to document the
+        damage that photographs alone cannot capture. This includes:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          Moisture meter readings showing elevated moisture behind walls and under flooring. A
-          qualified water mitigation company can provide these readings with documentation.
+          <strong>Moisture readings.</strong> If your claim involves water damage, have a qualified
+          professional take moisture readings throughout the affected areas. Moisture meters provide
+          objective, numerical data about the presence and extent of moisture in building materials
+          &mdash; data that a desk adjuster cannot obtain from photos.
         </li>
         <li>
-          Odors or sensory conditions that photographs cannot convey. Describe them in writing
-          as specifically as possible.
+          <strong>Odor documentation.</strong> If smoke or other odors are present, document them in
+          writing with specific descriptions of location, intensity, and type. Have other people
+          &mdash; neighbors, contractors, restoration professionals &mdash; confirm the odor in
+          signed statements if possible.
         </li>
         <li>
-          Damage that was not visible when photos were taken but has since manifested &mdash;
-          staining, warping, microbial growth, or structural movement.
+          <strong>Thermal imaging.</strong> Infrared thermal imaging can reveal moisture, heat loss,
+          and other conditions hidden behind walls and ceilings. A thermal imaging report provides
+          visual evidence of conditions that standard photographs cannot show.
         </li>
         <li>
-          Code compliance issues that will affect the repair, identified by a licensed contractor
-          who has visited the property.
+          <strong>Video walkthroughs.</strong> While not a substitute for a professional inspection,
+          a narrated video walkthrough of the damage can convey scale and context that still
+          photographs cannot. Walk slowly through each affected area, narrating what you see, feel,
+          and smell. Point out damage that may not photograph well.
         </li>
         <li>
-          Access limitations, matching requirements, or construction complexities that affect
-          repair costs and are not apparent from photographs.
+          <strong>Detailed written descriptions.</strong> Create a room-by-room written description
+          of all damage, including conditions that cannot be photographed: odors, soft spots in
+          floors, doors that don&apos;t close properly, windows that don&apos;t seal, drafts, and
+          any other sensory observations.
         </li>
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        3. Get Your Own Contractor&apos;s In-Person Assessment
+        3. Get Your Own Professional Inspection and Estimate
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Retain a licensed, qualified contractor to physically inspect the property and provide
-        a detailed repair estimate. This estimate should be written in{' '}
+        One of the most effective ways to challenge a desk-adjusted estimate is to obtain your own
+        estimate from a professional who has physically inspected the property. This may be a
+        licensed public adjuster, a qualified contractor, or another estimating professional. The
+        key is that the person writing the estimate has actually seen the damage firsthand.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When you present your own estimate alongside the carrier&apos;s desk-adjusted estimate, the
+        contrast often speaks for itself. Your estimate, based on a physical inspection, will
+        typically include items and categories of damage that are entirely absent from the
+        carrier&apos;s estimate. This comparison demonstrates concretely what desk adjusting misses
+        and puts the carrier in the position of explaining why its adjuster &mdash; who never
+        visited the property &mdash; produced a more accurate assessment than the professional who
+        actually inspected it. Learning{' '}
         <Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] underline">
-          Xactimate
+          how to challenge an Xactimate estimate
         </Link>{' '}
-        whenever possible, as it allows a line-by-line comparison with the carrier&apos;s estimate
-        and eliminates the carrier&apos;s common objection that &quot;we can&apos;t compare
-        estimates written in different formats.&quot;
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        When your contractor&apos;s in-person estimate significantly exceeds the desk-adjusted
-        estimate, you have powerful evidence that the remote review was inadequate. The
-        difference between the two estimates represents, in tangible dollar terms, what the desk
-        adjuster missed by not visiting the property.
+        is particularly valuable in this context, as it allows you to identify specific line items
+        and categories that the desk adjuster omitted or underscoped.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        4. Request Supplemental Review for Discovered Damage
+        4. File a CDI Complaint if the Carrier Refuses to Inspect
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If repairs have already begun and the contractor discovers damage that the desk estimate
-        did not include, submit a supplement immediately. Document the discovered damage with
-        photographs, a description of where it was found and why it was not visible before
-        demolition, and a revised estimate reflecting the additional work. The carrier has an
-        obligation to evaluate supplemental claims in good faith &mdash; and the fact that the
-        damage was hidden in areas a desk adjuster never examined strengthens your position.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        5. Engage Professional Representation
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        For significant claims where the desk-adjusted estimate appears materially deficient,
-        consider engaging a{' '}
-        <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+        If the carrier refuses your request for a physical inspection and maintains its desk-adjusted
+        estimate despite your documented evidence of additional damage, consider filing a complaint
+        with the California Department of Insurance. Your{' '}
+        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+          CDI complaint
         </Link>{' '}
-        or consulting with an attorney who handles insurance coverage disputes. A public adjuster
-        will physically inspect the property, prepare a comprehensive estimate, and negotiate with
-        the carrier on your behalf. If the claim involves potential bad faith based on the
-        carrier&apos;s investigation failures, an attorney can evaluate whether litigation or a
-        Department of Insurance complaint is warranted.
+        should specifically address:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          The fact that the carrier&apos;s estimate was written without a physical inspection of the
+          property
+        </li>
+        <li>
+          Your written request for an inspection and the carrier&apos;s refusal or failure to respond
+        </li>
+        <li>
+          Specific damage that the desk-adjusted estimate missed, supported by your professional
+          inspection or other documentation
+        </li>
+        <li>
+          The specific California Insurance Code and regulatory provisions you believe the carrier
+          has violated, including &sect; 2695.7(d)&apos;s requirement for a thorough investigation
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The CDI complaint process is free, and you do not need an attorney to file one. While the
+        CDI cannot force the carrier to pay a specific amount, a CDI inquiry can prompt the carrier
+        to re-examine its investigation and reconsider its position. The regulatory record also
+        becomes part of the carrier&apos;s complaint history, which the CDI monitors for patterns.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Carrier&apos;s Preferred Contractors and Desk Adjusting
+        What Attorneys Should Know About Desk-Adjusted Claims
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Desk adjusting often works in tandem with another cost-containment strategy: the
-        carrier&apos;s &quot;preferred&quot; or &quot;managed repair&quot; contractor program.
-        When the carrier writes a desk-adjusted estimate and then directs you to one of their
-        network contractors, the contractor may feel pressure to perform the work for the amount
-        the carrier authorized &mdash; even if the scope is inadequate. The contractor who pushes
-        back on an insufficient scope risks losing their position in the carrier&apos;s network.
+        For attorneys representing policyholders in coverage disputes or bad faith litigation, desk
+        adjusting is a significant issue that deserves close attention during claim evaluation and
+        discovery. Several aspects of desk adjusting are particularly relevant to legal analysis.
       </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This dynamic can lead to situations where the{' '}
-        <Link href="/resources/carrier-contractor-admits-failure" className="text-[#2E74B5] underline">
-          carrier&apos;s own contractor acknowledges that the scope is insufficient
-        </Link>{' '}
-        but feels constrained in what they can document or charge. The policyholder ends up
-        caught between a desk-adjusted estimate that misses damage and a contractor who may not
-        be fully advocating for a complete repair.
-      </p>
-
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        AI and the Future of Desk Adjusting
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The trajectory of desk adjusting points toward even less human involvement in the
-        inspection process. Carriers are increasingly deploying artificial intelligence systems
-        that analyze photographs and automatically generate preliminary damage assessments.
-        These AI tools can process photographs in minutes, identify common damage patterns, and
-        produce initial estimates with no human adjuster involvement at all.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        For straightforward claims &mdash; a clearly damaged fence section, a single broken
-        window &mdash; AI-assisted estimation may prove both faster and sufficiently accurate.
-        But for complex losses, AI amplifies the fundamental limitation of desk adjusting: the
-        system can only evaluate what it can see. An AI analyzing photographs of a kitchen with
-        a water stain on the ceiling will not detect the saturated insulation above it, the
-        compromised joist beyond the stain&apos;s perimeter, or the early mold colonization in
-        the wall cavity. It will produce a fast, confident, and incomplete estimate.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Industry commentary suggests that the most effective systems will be &quot;hybrid
-        models, using AI for speed and human adjusters for empathy, complex judgment, and
-        customer advocacy.&quot; The concern for policyholders is whether carriers will invest
-        in that hybrid approach or whether cost pressures will push them toward AI-only
-        processing of claims that genuinely require human inspection.
-      </p>
-
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Protecting Yourself
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        If your carrier proposes to handle your claim through desk adjusting, take the following
-        steps to protect your interests:
-      </p>
-      <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Ask how the claim will be inspected.</strong> Before the process begins, ask
-          whether the carrier intends to send an adjuster to your property. If they indicate a
-          virtual or desk review, you know what you are dealing with from the outset.
+          <strong>Discovery on investigation methods.</strong> Interrogatories and requests for
+          production should specifically address who inspected the property, when, for how long,
+          what equipment was used, and what the inspector&apos;s qualifications were. If the
+          estimate was desk adjusted, these questions will reveal that fact clearly and establish
+          the foundation for challenging the adequacy of the investigation.
         </li>
         <li>
-          <strong>Take your own thorough documentation.</strong> Do not rely solely on the
-          carrier&apos;s photo app. Take comprehensive photographs and video of all damage from
-          multiple angles. Include wide shots for context and close-ups for detail. Document
-          conditions that photos handle poorly &mdash; describe odors, soft spots, and unusual
-          sounds in writing.
+          <strong>Adjuster deposition testimony.</strong> A desk adjuster who is deposed about
+          their estimate faces a fundamental credibility problem. They must testify about conditions
+          they never observed, in a property they never visited, based on documentation they did
+          not personally gather. Careful deposition questioning can effectively demonstrate the
+          limitations of the adjuster&apos;s knowledge and the inadequacy of the investigation.
         </li>
         <li>
-          <strong>Request an in-person inspection for any non-trivial claim.</strong> Put the
-          request in writing. If the carrier resists, escalate to a supervisor and cite the
-          regulatory standards discussed above.
-        </li>
-        <li>
-          <strong>Have your property independently inspected.</strong> Do not wait for the
-          carrier&apos;s estimate to learn whether the damage is more extensive than photos suggest.
-          Engage a licensed contractor or{' '}
-          <Link href="/resources/dealing-with-adjuster" className="text-[#2E74B5] underline">
-            qualified professional
+          <strong>Reasonableness of the investigation.</strong> Whether the carrier&apos;s
+          investigation was reasonable is both a claims handling issue under the{' '}
+          <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
+            Fair Claims Settlement Practices Act
           </Link>{' '}
-          to conduct their own assessment.
+          and a potential bad faith issue. A carrier that desk adjusts a complex claim, pays an
+          inadequate amount, and then refuses to re-inspect when presented with evidence of
+          additional damage may face exposure for unreasonable investigation practices.
         </li>
         <li>
-          <strong>Compare the desk estimate against reality.</strong> When you receive the
-          carrier&apos;s estimate, review it carefully against what you can observe at the
-          property. Note every item of damage that the estimate does not address. This
-          comparison becomes the foundation for your challenge.
+          <strong>Pattern evidence.</strong> If the carrier desk adjusts claims as a matter of
+          routine policy, that pattern may be relevant to showing that the carrier&apos;s
+          underpayment was not an isolated mistake but a predictable result of its chosen
+          methodology. Internal carrier guidelines, training materials, and claims handling manuals
+          may reveal whether desk adjusting is an intentional cost-reduction strategy.
+        </li>
+        <li>
+          <strong>Comparative estimates.</strong> The contrast between a desk-adjusted estimate and
+          an estimate prepared after a physical inspection is powerful evidence. When the
+          field-inspected estimate consistently identifies damage categories that the desk-adjusted
+          estimate missed entirely, the inadequacy of the desk review becomes self-evident.
+        </li>
+      </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Desk Adjuster&apos;s Perspective &mdash; and Its Limits
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It is worth acknowledging that individual desk adjusters are often doing the best they can
+        within the constraints imposed by their employers. Many desk adjusters are experienced
+        professionals who would prefer to inspect properties in person but are required by their
+        carriers or adjusting firms to handle claims remotely. They are given a stack of photos,
+        told to write an estimate, and expected to close the file. The systemic problem is not that
+        desk adjusters are incompetent; it is that the system they work within prevents them from
+        doing their job properly.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        However, understanding the desk adjuster&apos;s constraints does not change the
+        policyholder&apos;s rights. The policyholder purchased a policy that entitles them to
+        indemnification for covered losses. The carrier&apos;s operational decision to use desk
+        adjusting does not reduce the policyholder&apos;s entitlement by a single dollar. If the
+        desk adjuster&apos;s estimate is inadequate because the desk adjuster lacked the information
+        that a physical inspection would have provided, the carrier &mdash; not the policyholder
+        &mdash; bears the consequence of that choice.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Protecting Yourself Against Desk-Adjusted Underpayment
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you suspect that your claim has been desk adjusted, or if you have already received an
+        estimate that seems low and was not preceded by an in-person inspection, consider the
+        following steps to protect your interests.
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Ask your adjuster directly.</strong> Ask the adjuster who wrote your estimate
+          whether they personally inspected your property. If the answer is no, ask who did inspect
+          it, what their qualifications are, and what documentation was provided to the estimator.
+          Document these answers in writing.
+        </li>
+        <li>
+          <strong>Review the estimate carefully.</strong> Compare the estimate against the actual
+          damage you can observe. Look for entire rooms or areas that are not mentioned. Look for
+          damage categories &mdash; moisture remediation, odor removal, structural repairs &mdash;
+          that are absent. Look for measurements that do not match your property. Any of these
+          discrepancies may indicate that the estimate was written without adequate information.
+        </li>
+        <li>
+          <strong>Document everything.</strong> Take your own comprehensive photos and videos. Keep
+          a written log of all damage you observe, including conditions that cannot be photographed.
+          This documentation will be essential if you need to challenge the carrier&apos;s estimate
+          and demonstrate what the desk adjuster missed.
+        </li>
+        <li>
+          <strong>Engage a professional.</strong> A licensed public adjuster or qualified contractor
+          who physically inspects your property can provide an independent assessment and estimate
+          that serves as a counterweight to the carrier&apos;s desk-adjusted figure. This
+          professional opinion, based on firsthand observation, carries significantly more weight
+          than a remote estimate.
+        </li>
+        <li>
+          <strong>Demand a re-inspection in writing.</strong> Cite the specific damage you believe
+          the desk adjuster missed and explain why a physical inspection is necessary to properly
+          assess it. Reference the carrier&apos;s duty to conduct a thorough investigation under
+          &sect; 2695.7(d). If the carrier agrees to re-inspect, ensure that the re-inspection is
+          thorough and that the inspector addresses the specific concerns you raised.
+        </li>
+        <li>
+          <strong>Escalate when necessary.</strong> If the carrier refuses to inspect and refuses to
+          adjust its estimate to reflect the actual damage, you have options: a{' '}
+          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+            CDI complaint
+          </Link>, appraisal (if your policy provides for it), or consultation with an attorney
+          experienced in insurance coverage disputes. Do not simply accept an inadequate
+          desk-adjusted estimate because the carrier insists it is correct.
         </li>
         <li>
           <strong>Keep every communication in writing.</strong> Document your request for an
           in-person inspection, the carrier&apos;s response, any explanations they offer for why
           a desk review is sufficient, and your objections. This paper trail is critical if the
-          dispute escalates.
+          dispute escalates to formal proceedings.
         </li>
-        <li>
-          <strong>Do not accept the first estimate as final.</strong> A desk-adjusted estimate is
-          a starting point for negotiation, not a final determination of your loss. Supplement
-          requests, reinspection demands, and independent estimates are all legitimate tools for
-          ensuring you receive a fair settlement.
-        </li>
-      </ol>
+      </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Bottom Line
+        Conclusion
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Desk adjusting is not inherently improper. For simple, small, fully visible claims, it
-        can be a reasonable and efficient approach. The problem is not the existence of desk
-        adjusting &mdash; it is the expansion of desk adjusting into claim categories where it
-        is predictably inadequate. When a carrier applies a remote review to a complex loss
-        that requires physical inspection, the result is a predictably incomplete estimate that
-        predictably underpays the claim.
+        Desk adjusting is not a neutral claims handling methodology. It is a practice that
+        systematically limits the information available to the person writing the estimate, and it
+        systematically produces estimates that understate the actual damage to the property. Carriers
+        use it because it reduces their costs &mdash; both the direct costs of field inspections and
+        the indirect costs that come from paying claims at their actual value. Policyholders bear
+        the consequences in the form of inadequate payments for legitimate damage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insurance contract requires the carrier to pay for the damage to your property. The
-        Fair Claims Settlement Practices Regulations require the carrier to conduct a thorough
-        investigation to determine the extent of that damage. When the carrier&apos;s chosen
-        investigation method is structurally incapable of identifying all of the damage, the
-        investigation is not thorough, the estimate is not accurate, and the settlement is not
-        fair. That is not an efficiency innovation &mdash; it is an investigation shortcut that
-        benefits the carrier at the policyholder&apos;s expense.
+        If your claim has been desk adjusted, you are not powerless. You have the right to demand a
+        physical inspection. You have the right to obtain your own professional assessment. You have
+        the right to challenge an estimate that was written by someone who never saw your property.
+        And you have access to regulatory mechanisms &mdash; including the California Department of
+        Insurance &mdash; that exist specifically to hold carriers accountable for inadequate
+        investigation practices.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        You paid for coverage. You are entitled to an investigation that actually looks at what
-        happened to your property. If the person writing your estimate has never seen your home,
-        you should be asking why &mdash; and what they missed.
+        The carrier chose to write your estimate from a desk. You do not have to accept it from
+        that same distance. Get the facts. Get them documented. And hold the carrier to the standard
+        its policy &mdash; and the law &mdash; requires.
       </p>
     </>
   )
