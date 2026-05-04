@@ -274,20 +274,24 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Consider involving an attorney early.</strong> If your attorney retains an
-          expert as part of litigation preparation, the expert&apos;s work may be protected
-          as <em>attorney work product</em> &mdash; a legal doctrine that shields materials
-          prepared in anticipation of litigation from disclosure to the opposing party. The
-          protection is stronger when the attorney &mdash; not the policyholder directly &mdash;
-          engages the expert.
+          <strong>Have your attorney hire the expert.</strong> This is the single most important
+          point in this section. If <em>your attorney</em> retains an expert as part of
+          litigation preparation, the expert&apos;s report is generally protected as
+          <em>attorney work product</em> and is <strong>confidential</strong> &mdash; the
+          insurance company&apos;s defense attorneys cannot force you to turn it over. This
+          protection exists because the law recognizes that attorneys need to be able to
+          investigate a case and consult with experts without the other side looking over their
+          shoulder. If you hire the same expert yourself, without going through your attorney,
+          that protection may not apply &mdash; and the report could be fair game in discovery.
         </li>
         <li>
-          <strong>Understand the limits of work product protection.</strong> Work product
-          protection is not absolute. If the expert is designated as a testifying expert in
-          litigation, their opinions and the basis for them can generally be obtained by the
-          insurer&apos;s defense attorneys regardless of who retained them. The protection is
-          strongest for consulting experts who are retained to advise but are not expected to
-          testify.
+          <strong>Understand the limits of this protection.</strong> Attorney work product
+          protection is strong but not absolute. If the expert is later designated as a
+          <em>testifying</em> expert in litigation &mdash; meaning they will take the stand
+          and offer opinions at trial &mdash; their opinions and the basis for them can
+          generally be obtained by the insurer&apos;s defense attorneys regardless of who
+          retained them. The protection is strongest for <em>consulting</em> experts who are
+          retained to advise your attorney behind the scenes but are not expected to testify.
         </li>
         <li>
           <strong>Contractor estimates are generally low-risk.</strong> A licensed contractor&apos;s
