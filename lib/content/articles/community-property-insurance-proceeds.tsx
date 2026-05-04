@@ -826,6 +826,28 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <CalloutBox variant="warning" title="This Is Not Legal Advice">
+        <p>
+          The discussion of common law marriage, domestic partnerships, marital status, and
+          spousal rights under insurance policies involves complex questions of family law,
+          contract law, and insurance law that vary significantly from state to state. This
+          article is for informational purposes only and does not constitute legal advice.
+          <strong> If you are an unmarried couple trying to determine your rights under an
+          insurance policy &mdash; whether before or after a claim is filed &mdash; you
+          should consult with an attorney</strong> who is licensed in your state and
+          experienced in both family law and insurance coverage. The stakes are too high and
+          the law too variable to rely on general information alone. This is particularly
+          true if common law marriage, the putative spouse doctrine, or cross-state
+          recognition issues are involved &mdash; these are fact-intensive legal questions
+          that require individualized analysis.
+        </p>
+        <p className="mt-2">
+          If this issue arises after a claim has already been filed and the insurer is
+          disputing your status as an insured or your right to proceeds, you need an
+          attorney immediately. The insurer has one. You should too.
+        </p>
+      </CalloutBox>
+
       {/* ───────────────── SECTION 5 ───────────────── */}
 
       <h2
