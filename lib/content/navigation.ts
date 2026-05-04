@@ -115,6 +115,7 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/code-upgrade-coverage', label: 'Code Upgrade Coverage' },
       { href: '/resources/marine-cargo-claims', label: 'Marine Cargo Claims' },
       { href: '/resources/environmental-sampling-methods', label: 'Environmental Sampling' },
+      { href: '/resources/biohazard-hazmat-trauma-cleanup', label: 'Biohazard & Trauma Cleanup' },
       { href: '/resources/large-commercial-losses', label: 'Large Commercial Losses' },
     ],
   },

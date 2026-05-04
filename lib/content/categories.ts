@@ -1688,6 +1688,14 @@ export const CATEGORIES: Category[] = [
         tagColor: 'bg-red-100 text-red-700',
       },
       {
+        icon: '🕯️',
+        title: 'Unattended Death Insurance Claims',
+        desc: 'How carriers deny claims after an unattended death — the pollution exclusion, the "not a covered peril" argument, scope minimization, and what families and property owners need to know.',
+        href: '/resources/unattended-death-claims',
+        tag: 'Must Read',
+        tagColor: 'bg-red-100 text-red-700',
+      },
+      {
         icon: '🏚️',
         title: 'Total Loss Claims',
         desc: 'When your home is a complete loss — every coverage that activates, rebuilding vs. cashing out, and California protections.',
