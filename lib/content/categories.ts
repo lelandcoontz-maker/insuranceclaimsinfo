@@ -1241,6 +1241,14 @@ export const CATEGORIES: Category[] = [
         tag: 'Must Read',
         tagColor: 'bg-red-100 text-red-700',
       },
+      {
+        icon: '🎥',
+        title: 'Can You Record Insurance Company Inspectors?',
+        desc: 'California\'s two-party consent law, the layered notice approach, legality vs. admissibility, and what separates a clearly protected recording from a clearly unauthorized one.',
+        href: '/resources/recording-insurance-inspections',
+        tag: 'Know Your Rights',
+        tagColor: 'bg-red-100 text-red-700',
+      },
     ],
   },
   {
