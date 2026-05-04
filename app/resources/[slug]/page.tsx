@@ -422,6 +422,19 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'xactimate-not-the-law': { title: 'Xactimate Is Not the Law: Why Carrier Estimates Are Not Binding on Your Claim', description: 'Xactimate dominates insurance estimating, but it is not a legal standard. Verisk\'s own EULA disclaims pricing accuracy. Multiple federal courts have rejected Xactimate as determinative. California regulations require actual market costs.' },
   'kurach-op-policy-restrictions': { title: 'When Your Policy Secretly Restricts Overhead & Profit: The Kurach Decision and What It Means', description: 'In Kurach v. Truck Insurance Exchange (Pa. 2020), the Pennsylvania Supreme Court upheld policy language that withholds general contractor overhead and profit until the policyholder actually pays for it. Learn how this 4-3 decision works and how to check your own policy.' },
   '50-state-op-map': { title: '50-State Overhead & Profit Map: Where the Law Stands on General Contractor O&P', description: 'A comprehensive state-by-state guide to the law on overhead and profit in property insurance claims. Majority rule states, minority rule states, regulatory authorities, and key case law citations.' },
+  'non-renewal-after-claim': { title: 'Non-Renewal After a Claim: What Happens to Your Insurance After You File', description: 'How filing a claim affects your future insurability, CLUE reports, rate increases, California non-renewal timeline, moratorium protections after declared disasters, and practical guidance.' },
+  'reservation-of-rights-letter': { title: 'The Reservation of Rights Letter: What It Means and What to Do', description: 'When the carrier investigates under a reservation of rights, it simultaneously handles and potentially denies your claim. What triggers one, what it means legally, and what policyholders should do.' },
+  'reopening-closed-claims': { title: 'Reopening a Closed Claim: Your Right to Supplement After Settlement', description: 'Many policyholders discover additional damage after closing a claim. Your right to reopen, how to document, the distinction between supplemental damage and new damage, and carrier resistance tactics.' },
+  'social-media-insurance-claims': { title: 'Social Media and Your Insurance Claim: What Policyholders Actually Need to Know', description: 'How carriers monitor social media during claims, what posts can hurt you, what is perfectly fine, and why property claims are different from disability fraud investigations.' },
+  'tax-implications-insurance-settlements': { title: 'Tax Implications of Insurance Claim Settlements', description: 'When insurance proceeds are taxable, the Section 1033 involuntary conversion election, unreimbursed casualty losses, and how different coverage types affect your tax situation.' },
+  'insurance-claim-assignments': { title: 'Assignment of Benefits, Assignment of Claim, Assignment of Rights, and Assignment of Policy: Understanding the Differences', description: 'Four types of insurance claim assignments compared: AOB, assignment of claim, assignment of rights, and assignment of policy. How each works, who uses them, and what standing each provides.' },
+  'independent-adjuster-explained': { title: 'The Independent Adjuster: Who They Actually Work For', description: 'How independent adjusting firms operate, who pays them, how they are compensated (commission, salary, piece rate, timesheet), and why "independent" is misleading.' },
+  'appraisal-mediation-litigation-decision': { title: 'Choosing Between Appraisal, Mediation, and Litigation: A Decision Framework', description: 'When each dispute resolution path makes sense, cost and timeline comparisons, what each process can resolve, the scope vs. price distinction, and California-specific rules.' },
+  'mortgage-company-insurance-claims': { title: 'The Mortgage Company\'s Role in Your Insurance Claim: Beyond the Endorsement', description: 'The practical nightmare of mortgage company involvement in insurance claims — check holds, draw schedules, inspection requirements, federal servicing rules, and how to navigate the process.' },
+  'water-damage-categories-classes': { title: 'Water Damage Categories and Classes: Why IICRC Classification Matters for Your Claim', description: 'How IICRC water damage categories (1-3) and classes (1-4) determine scope and cost, why carriers downgrade classifications, and how hygienist reports override theoretical assumptions.' },
+  'how-insurance-adjusters-are-paid': { title: 'How Insurance Adjusters Are Trained, Compensated, and Measured', description: 'How catastrophe adjusters, daily claims adjusters, and independent adjusters are compensated, what authority levels mean, and how internal carrier metrics influence claim handling.' },
+  'contractor-liens-insurance-claims': { title: 'Contractor Liens When the Insurance Company Won\'t Pay: A Property Owner\'s Guide to Mechanics Liens in California', description: 'When your insurance company delays or denies payment and a contractor files a mechanics lien on your property, you need to know your rights. Covers California mechanics lien law, preliminary notices, subcontractor liens, and inflated lien defenses.' },
+  'victim-becomes-villain-tort-reform': { title: 'When the Victim Becomes the Villain: The Tort Reform Narrative and What It Costs Policyholders', description: 'How the insurance industry funded the tort reform movement, rewrote the Stella Liebeck story, and created a culture that punishes policyholders for asserting their rights. The real facts behind the McDonald\'s coffee case and what it means for your insurance claim.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -843,6 +856,19 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'xactimate-not-the-law': () => import('@/lib/content/articles/xactimate-not-the-law'),
   'kurach-op-policy-restrictions': () => import('@/lib/content/articles/kurach-op-policy-restrictions'),
   '50-state-op-map': () => import('@/lib/content/articles/50-state-op-map'),
+  'non-renewal-after-claim': () => import('@/lib/content/articles/non-renewal-after-claim'),
+  'reservation-of-rights-letter': () => import('@/lib/content/articles/reservation-of-rights-letter'),
+  'reopening-closed-claims': () => import('@/lib/content/articles/reopening-closed-claims'),
+  'social-media-insurance-claims': () => import('@/lib/content/articles/social-media-insurance-claims'),
+  'tax-implications-insurance-settlements': () => import('@/lib/content/articles/tax-implications-insurance-settlements'),
+  'insurance-claim-assignments': () => import('@/lib/content/articles/insurance-claim-assignments'),
+  'independent-adjuster-explained': () => import('@/lib/content/articles/independent-adjuster-explained'),
+  'appraisal-mediation-litigation-decision': () => import('@/lib/content/articles/appraisal-mediation-litigation-decision'),
+  'mortgage-company-insurance-claims': () => import('@/lib/content/articles/mortgage-company-insurance-claims'),
+  'water-damage-categories-classes': () => import('@/lib/content/articles/water-damage-categories-classes'),
+  'how-insurance-adjusters-are-paid': () => import('@/lib/content/articles/how-insurance-adjusters-are-paid'),
+  'contractor-liens-insurance-claims': () => import('@/lib/content/articles/contractor-liens-insurance-claims'),
+  'victim-becomes-villain-tort-reform': () => import('@/lib/content/articles/victim-becomes-villain-tort-reform'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
