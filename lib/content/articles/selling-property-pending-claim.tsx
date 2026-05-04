@@ -137,6 +137,87 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Can You Assign a Bad Faith Claim to the Buyer?
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Whether the policyholder can assign a{' '}
+        <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">
+          bad faith
+        </Link>{' '}
+        cause of action is a more complex question than assigning the right to claim proceeds.
+        A bad faith claim is not a claim for insurance money &mdash; it is a tort claim alleging
+        that the carrier acted unreasonably in handling the claim. Bad faith claims can result in
+        damages far exceeding the policy limits, including emotional distress, punitive damages,
+        and attorney fees. In many disputed claims, the bad faith component is the most valuable
+        part.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In California, the assignment of a bad faith claim that has already accrued &mdash;
+        meaning the carrier&rsquo;s bad faith conduct has already occurred &mdash; is generally
+        treated like any other chose in action. The right to sue for the carrier&rsquo;s bad faith
+        handling can be transferred to the buyer as part of the assignment.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        However, bad faith claims are inherently personal in nature. They arise from the
+        carrier&rsquo;s treatment of the policyholder &mdash; the delays, the lowball offers, the
+        unreturned phone calls, the unreasonable denials. The buyer did not experience that
+        conduct. The buyer did not suffer the emotional distress of being jerked around by the
+        carrier for months. This personal dimension creates arguments that carriers can and do
+        raise when an assigned bad faith claim is pursued by someone other than the original
+        policyholder.
+      </p>
+
+      <CalloutBox variant="warning" title="Bad Faith Assignment Requires Attorney Drafting">
+        <p>
+          Any assignment that includes a bad faith component should be drafted by an attorney
+          who understands both insurance law and the specific jurisdictional rules governing
+          assignment of tort claims. This is not a form-document situation. A poorly drafted
+          bad faith assignment may be challenged by the carrier as invalid, costing both
+          parties the most valuable part of the claim.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        What Cannot Be Assigned
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Certain elements of the insurance relationship are personal to the policyholder and do
+        not transfer through an assignment of the claim. Understanding these boundaries prevents
+        both buyer and seller from making assumptions that can unravel the transaction.
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>The policy itself.</strong> The assignment of a post-loss claim does not transfer
+          the policy to the buyer. The buyer does not become the insured under the seller&rsquo;s
+          policy. The buyer acquires rights to the specific claim arising from the specific loss
+          &mdash; nothing more.
+        </li>
+        <li>
+          <strong>Future coverage.</strong> The assignment does not give the buyer any coverage for
+          future losses. If a new loss occurs after the sale, the buyer must look to their own
+          insurance.
+        </li>
+        <li>
+          <strong>The duty to cooperate.</strong> The original policyholder&rsquo;s duty to
+          cooperate with the carrier&rsquo;s investigation survives the assignment. Even after
+          assigning the claim, the original policyholder may be required to provide testimony,
+          answer questions, or produce documents related to the loss. This ongoing obligation
+          should be addressed in the assignment agreement, and the seller should understand that
+          selling the property does not necessarily end their involvement in the claim.
+        </li>
+      </ul>
+
+      <CalloutBox variant="important" title="Sellers: Your Obligations May Survive the Sale">
+        <p>
+          Assigning the claim and selling the property does not mean you are done. The carrier
+          may still require your cooperation &mdash; answering questions about the loss,
+          providing documents, or even sitting for an examination under oath. Make sure the
+          assignment agreement addresses this obligation so both you and the buyer understand
+          what is expected after closing.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         The Mortgage Payoff Problem
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -326,6 +407,64 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Valuing the Assigned Claim in the Purchase Price
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The value of the assigned claim should be reflected in the purchase price. The buyer is
+        paying less for the property because it is damaged, and the buyer is receiving the
+        insurance claim as partial compensation for the reduced value. The math matters.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Consider this example: a property in undamaged condition would sell for $800,000. In its
+        current damaged condition, it is worth $550,000. The gap is $250,000. If the insurance
+        claim has a realistic recovery value of $200,000 &mdash; considering what has been paid,
+        what is disputed, and the cost of pursuing the dispute &mdash; the effective purchase
+        price from the buyer&rsquo;s perspective is $550,000 for the property plus an asset (the
+        claim) worth approximately $200,000, for a total value proposition of $750,000.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This valuation is inherently uncertain, and sophisticated buyers will discount the claim
+        value to account for risk. The seller&rsquo;s goal is to present the claim in a way that
+        maximizes the buyer&rsquo;s confidence in the recovery &mdash; which means having
+        organized documentation, clear records of what has been paid and disputed, and ideally
+        a professional assessment of the claim&rsquo;s value from a{' '}
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
+          Public Adjuster
+        </Link>{' '}
+        or attorney.
+      </p>
+
+      <CalloutBox variant="tip" title="Clarity Increases Claim Value">
+        <p>
+          If the seller can advance the claim to a point where the carrier&rsquo;s position is
+          clear &mdash; even if that position is inadequate &mdash; the claim has a more definable
+          value. A buyer can evaluate what has been paid, what the carrier has agreed to, what
+          remains in dispute, and what the cost of pursuing the dispute will be. Clarity, even
+          unfavorable clarity, is more valuable than ambiguity when negotiating the purchase price.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Retaining a Percentage of the Recovery
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The seller does not have to assign 100% of the claim. The assignment agreement can be
+        structured to give the seller a share of any recovery above a specified threshold. For
+        example, the seller might assign the claim to the buyer but retain 25% of any recovery
+        above the amount already paid by the carrier. This gives the seller ongoing upside if
+        the buyer successfully pursues the disputed amounts, while giving the buyer the right to
+        manage and control the claim.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Whether this structure makes sense depends on the specifics &mdash; the size of the
+        disputed amount, the seller&rsquo;s willingness to remain involved in the claim (even
+        peripherally), and the buyer&rsquo;s willingness to accept a partial assignment. But it
+        is an option that should be considered, particularly in claims where the disputed amount
+        is large and the seller believes the claim has substantial value that is not reflected in
+        the current purchase price.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         The Carrier&apos;s Response to a Sale
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -383,6 +522,41 @@ export default function Content() {
         is no assignment, the holdback is often lost entirely &mdash; the seller will not make
         the repairs, and the buyer has no standing under the policy to claim it.
       </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Recoverable Depreciation Opportunity for Buyers
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For the buyer, the recoverable depreciation holdback is one of the most significant
+        financial opportunities in an assigned claim. The original policyholder who sells without
+        repairing forfeits the depreciation holdback. But the buyer who completes the repairs
+        after purchasing the property can collect that depreciation through the assigned claim.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Consider a claim with a $60,000 depreciation holdback. If the buyer completes the
+        repairs and submits the invoices to the carrier through the assigned claim, the buyer
+        collects $60,000 that the seller would have forfeited. This $60,000 effectively reduces
+        the buyer&rsquo;s net repair cost and can make the economics of purchasing a damaged
+        property substantially more attractive.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The key question is whether the carrier will honor the recoverable depreciation claim
+        submitted by an assignee. Carriers may resist, arguing that the depreciation holdback
+        provisions are personal to the original policyholder. The strength of this argument
+        varies by jurisdiction, but in California &mdash; where post-loss assignment rights are
+        strongly protected &mdash; the assignee generally steps into the shoes of the original
+        policyholder, including the right to collect recoverable depreciation upon completion of
+        repairs.
+      </p>
+
+      <CalloutBox variant="tip" title="Buyers: The Holdback Can Change the Deal Economics">
+        <p>
+          When evaluating a damaged property with an assigned claim, do not overlook the
+          depreciation holdback. A large holdback that the seller would have forfeited can
+          significantly reduce your net cost of repairs. Factor this into your purchase price
+          analysis &mdash; it is real money that becomes available when you complete the work.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Practical Advice for Sellers
@@ -452,6 +626,43 @@ export default function Content() {
           price you pay for the property.
         </li>
       </ol>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        When Assignment Is Not the Right Answer
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Assignment of an insurance claim is not always the best strategy for a policyholder who
+        wants to sell. There are situations where other approaches make more sense.
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Small claims with minimal disputed amounts.</strong> If the claim is small and
+          the disputed amount is minimal, the transaction costs of drafting an assignment,
+          notifying the carrier, and dealing with the carrier&rsquo;s objections may exceed the
+          value of the assignment itself. The policyholder may be better off settling the claim
+          &mdash; even at a discount &mdash; before closing the sale.
+        </li>
+        <li>
+          <strong>Active litigation.</strong> If the policyholder&rsquo;s relationship with the
+          carrier has deteriorated to the point of active litigation, assigning the claim means
+          assigning a lawsuit. Buyers who are purchasing a property to live in may not want to
+          inherit active litigation with an insurance company. Investors and contractors who
+          purchase damaged properties as a business may be comfortable with this; a family
+          looking for a home generally is not.
+        </li>
+        <li>
+          <strong>Complex coverage disputes.</strong> If the claim involves concurrent causation
+          disputes, policy interpretation questions, or coverage defenses that the carrier has
+          raised, the value of the assigned claim depends entirely on how those legal questions
+          are resolved. The buyer is not just buying a claim &mdash; they are buying a legal
+          dispute with an uncertain outcome.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In each of these situations, the seller should consult with both an insurance professional
+        and an attorney before deciding whether to assign the claim, settle it, or pursue it to
+        resolution before selling.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         How a Public Adjuster Can Help
