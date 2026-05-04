@@ -244,17 +244,26 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But there is an important caveat that is rarely discussed: <strong>any document you
-        create or obtain may become discoverable by the insurance company if the claim
-        proceeds to litigation.</strong>
+        create or obtain may become &ldquo;discoverable&rdquo; if the claim proceeds to
+        litigation.</strong>
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What does &ldquo;discoverable&rdquo; mean? If your claim ends up in a lawsuit, both
+        sides have the right to demand documents from the other. This process is called
+        &ldquo;discovery.&rdquo; The insurance company&apos;s defense attorneys can require you
+        to turn over documents in your possession that are relevant to the dispute &mdash;
+        including expert reports, correspondence, photographs, and other materials you gathered
+        during the claim. If you have a document, and it is relevant, the insurer&apos;s lawyers
+        can generally force you to hand it over &mdash; even if it hurts your case.
       </p>
 
       <CalloutBox variant="warning" title="Think Before You Hire">
         <p>
           If you hire an expert and the expert&apos;s opinion is unfavorable to your position,
-          you may be required to turn that report over to the insurance company during
-          litigation. The insurer&apos;s attorney will ask in discovery: &ldquo;Have you obtained
-          any expert reports regarding this loss?&rdquo; If you have, you generally must
-          produce them &mdash; even the ones you wish you had never gotten.
+          you may be required to turn that report over to the insurance company&apos;s defense
+          attorneys during litigation. Their lawyers will ask in discovery: &ldquo;Have you
+          obtained any expert reports regarding this loss?&rdquo; If you have, you generally
+          must produce them &mdash; even the ones you wish you had never gotten.
         </p>
       </CalloutBox>
 
@@ -275,16 +284,18 @@ export default function Content() {
         <li>
           <strong>Understand the limits of work product protection.</strong> Work product
           protection is not absolute. If the expert is designated as a testifying expert in
-          litigation, their opinions and the basis for them generally become discoverable
-          regardless of who retained them. The protection is strongest for consulting experts
-          who are retained to advise but are not expected to testify.
+          litigation, their opinions and the basis for them can generally be obtained by the
+          insurer&apos;s defense attorneys regardless of who retained them. The protection is
+          strongest for consulting experts who are retained to advise but are not expected to
+          testify.
         </li>
         <li>
           <strong>Contractor estimates are generally low-risk.</strong> A licensed contractor&apos;s
           repair estimate is one of the safest forms of independent evidence you can obtain. It
           is a factual document &mdash; this is what the repairs will cost &mdash; and it
           supports your claim rather than expressing an opinion about causation or coverage.
-          Even if it becomes discoverable, it is almost always helpful.
+          Even if the insurer&apos;s attorneys obtain it in discovery, it is almost always
+          helpful to your case.
         </li>
         <li>
           <strong>Be cautious with causation opinions.</strong> The risk is greatest with experts
