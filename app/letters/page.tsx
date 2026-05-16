@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: 'Template Demand Letters for Insurance Claims | Free Downloads',
   description:
     'Free template demand letters you can send to your insurance company — citing the exact California regulations. Contractor name demand, labor depreciation challenge, claim file request, and more.',
+  alternates: { canonical: '/letters' },
 }
 
 /* ────────────────────────────────────────────

@@ -1,68 +1,108 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { LegalDisclaimer } from '@/components/content/LegalDisclaimer'
+import {
+  ScrollText, HelpCircle, FileText, FolderOpen, Ruler,
+  Microscope, Flame, ShieldAlert, Scale,
+  XCircle, ClipboardList, Building2,
+  Briefcase,
+} from 'lucide-react'
+import type { LucideIcon } from 'lucide-react'
+
+// ── Start Here paths shown on homepage ──────────────────────────────────────
+const START_PATHS: { Icon: LucideIcon; title: string; desc: string; href: string; color: string }[] = [
+  {
+    Icon: Flame,
+    title: 'I Had a Fire or Disaster',
+    desc: 'Emergency steps, documentation, ALE, and rebuilding decisions.',
+    href: '/start-here/fire-claim',
+    color: 'bg-red-50 border-red-200 hover:border-red-400',
+  },
+  {
+    Icon: XCircle,
+    title: 'Denied or Underpaid',
+    desc: 'Negotiation, appraisal, bad faith, and CDI complaints.',
+    href: '/start-here/denied-claim',
+    color: 'bg-orange-50 border-orange-200 hover:border-orange-400',
+  },
+  {
+    Icon: ClipboardList,
+    title: 'Filing My First Claim',
+    desc: 'What to say, what to document, and what to expect.',
+    href: '/start-here/first-claim',
+    color: 'bg-blue-50 border-blue-200 hover:border-blue-400',
+  },
+  {
+    Icon: Building2,
+    title: 'Commercial Property Claim',
+    desc: 'Business interruption, coinsurance, and CP forms.',
+    href: '/start-here/commercial-claim',
+    color: 'bg-sky-50 border-sky-200 hover:border-sky-400',
+  },
+]
 
 // ── Resource cards shown on the homepage ─────────────────────────────────────
-const RESOURCES = [
+const RESOURCES: { icon: LucideIcon; title: string; desc: string; href: string; tag: string }[] = [
   {
-    icon: '📜',
+    icon: ScrollText,
     title: 'CA Rules & Regulations',
     desc: 'Insurance Code 790 and Fair Claims Regulations — timelines, rights, and requirements your insurer must follow.',
     href: '/regulations',
     tag: 'Essential',
   },
   {
-    icon: '❓',
+    icon: HelpCircle,
     title: 'Frequently Asked Questions',
     desc: '30+ answers to the most common insurance claim questions — from depreciation to examinations under oath.',
     href: '/faq',
     tag: 'FAQ',
   },
   {
-    icon: '📋',
+    icon: FileText,
     title: 'Understanding Your Policy',
     desc: 'HO3 vs named peril, commercial vs residential, co-insurance, endorsements, and how to read your entire policy.',
     href: '/resources/policy-interpretation',
     tag: 'Policy',
   },
   {
-    icon: '🗂',
+    icon: FolderOpen,
     title: 'The Claims Process',
     desc: 'Step-by-step guide from filing to settlement. Timelines, documentation, and what to expect.',
     href: '/resources/claims-process',
     tag: 'Process',
   },
   {
-    icon: '📐',
+    icon: Ruler,
     title: 'Xactimate Estimates',
-    desc: 'Why Xactimate estimates are often low, controversial line items, and how to dispute underpayment.',
+    desc: 'How insurance company Xactimate estimates can understate repair costs, what to look for, and how to dispute underpayment.',
     href: '/resources/xactimate',
     tag: 'Estimates',
   },
   {
-    icon: '🦠',
+    icon: Microscope,
     title: 'Mold Losses',
     desc: 'Ensuing loss doctrine, mold limits, and why the insurer\'s mold argument may be wrong.',
     href: '/resources/mold-losses',
     tag: 'Mold',
   },
   {
-    icon: '🔥',
+    icon: Flame,
     title: 'Types of Claims',
     desc: 'Fire, water, vandalism, vehicle impact, sewage, flood, smoke — guides for every type of loss.',
     href: '/types-of-claims',
     tag: 'Claim Types',
   },
   {
-    icon: '🚨',
+    icon: ShieldAlert,
     title: 'Bad Faith Practices',
     desc: 'Unreasonable delays, lowball offers, misrepresentation — California has strong bad faith remedies.',
     href: '/resources/bad-faith',
     tag: 'Bad Faith',
   },
   {
-    icon: '🔨',
+    icon: Scale,
     title: 'Insurance Appraisal',
-    desc: 'When you and the insurer disagree on value, appraisal is your right. How the ADR process works.',
+    desc: 'When you and the insurer disagree on the amount of loss, most policies provide an appraisal process. How it works and when to invoke it.',
     href: '/resources/appraisal',
     tag: 'Appraisal',
   },
@@ -97,12 +137,13 @@ export default function HomePage() {
             California Insurance Claim Help
           </div>
           <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-6">
-            Don't Leave Money<br className="hidden sm:block" /> on the Table
+            Everything Your Insurance Company<br className="hidden sm:block" />
+            <span className="text-[#C9A84C]">Hopes You Never Learn</span>
           </h1>
           <p className="text-xl text-blue-200 max-w-2xl mx-auto mb-10 leading-relaxed">
             Free tools, plain-English guides, and licensed professional help for California
-            homeowners navigating insurance claims after fire, vandalism, theft, smoke damage,
-            or other disaster.
+            homeowners and business owners navigating insurance claims after fire, vandalism,
+            theft, smoke damage, or other disaster.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/inventory" className="btn-gold text-base px-8 py-4">
@@ -120,7 +161,7 @@ export default function HomePage() {
 
       {/* ── Disclaimer ────────────────────────────────────────────────────── */}
       <div className="max-w-5xl mx-auto px-4 pt-4 text-center">
-        <p className="text-xs text-gray-400 italic">
+        <p className="text-xs text-gray-500 italic">
           This website provides insurance claims education and information, not legal advice.
         </p>
       </div>
@@ -136,8 +177,36 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ── What's Your Situation? ────────────────────────────────────────── */}
+      <section className="py-14 px-4">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="section-heading text-center">What&apos;s Your Situation?</h2>
+          <p className="text-center text-gray-500 mb-8 max-w-xl mx-auto">
+            Over 500 articles on the site. Start with the path that fits your situation.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {START_PATHS.map(path => (
+              <Link
+                key={path.href}
+                href={path.href}
+                className={`block rounded-xl border-2 p-5 transition-all ${path.color}`}
+              >
+                <path.Icon className="w-6 h-6 text-gray-700 mb-3" aria-hidden="true" />
+                <h3 className="font-bold text-gray-900 mb-1">{path.title}</h3>
+                <p className="text-gray-600 text-sm">{path.desc}</p>
+              </Link>
+            ))}
+          </div>
+          <p className="text-center mt-6">
+            <Link href="/start-here" className="text-[#2E74B5] text-sm font-medium hover:underline">
+              See all guided paths →
+            </Link>
+          </p>
+        </div>
+      </section>
+
       {/* ── How It Works ──────────────────────────────────────────────────── */}
-      <section className="py-16 px-4">
+      <section className="py-16 px-4 bg-stone-50 border-y border-stone-200">
         <div className="max-w-5xl mx-auto">
           <h2 className="section-heading text-center">How It Works</h2>
           <p className="text-center text-gray-500 mb-12 max-w-xl mx-auto">
@@ -151,7 +220,7 @@ export default function HomePage() {
                   {step.num}
                 </div>
                 <h3 className="font-bold text-lg text-[#1F3964] mb-2">{step.title}</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">{step.desc}</p>
+                <p className="text-gray-600 leading-relaxed">{step.desc}</p>
               </div>
             ))}
           </div>
@@ -164,7 +233,7 @@ export default function HomePage() {
           <div className="bg-white rounded-2xl border border-blue-100 shadow-sm overflow-hidden">
             <div className="flex flex-col md:flex-row">
               <div className="md:w-1/2 p-8 md:p-12">
-                <div className="text-[#C9A84C] text-sm font-bold uppercase tracking-wider mb-3">
+                <div className="text-gold-text text-sm font-bold uppercase tracking-wider mb-3">
                   Free Tool
                 </div>
                 <h2 className="text-3xl font-bold text-[#1F3964] mb-4">
@@ -195,25 +264,21 @@ export default function HomePage() {
               </div>
               <div className="md:w-1/2 bg-[#1F3964] p-8 md:p-12 flex items-center">
                 <div className="text-white">
-                  <p className="text-blue-200 text-sm mb-4 font-medium">Coming Soon:</p>
+                  <p className="text-blue-200 text-sm mb-4 font-medium">Why It Works:</p>
                   <ul className="space-y-3 text-sm">
                     {[
-                      '📸 Photo swipe — swipe yes/no on item photos',
-                      '🏠 Address lookup — auto-detect your floor plan',
-                      '🤖 AI Interview — guided room-by-room conversation',
-                      '💬 Voice mode — talk through what you remember',
-                      '📱 Mobile app — document your claim on the go',
+                      'Most people forget 60–80% of what they own after a loss',
+                      'Insurance companies know this — and pay accordingly',
+                      'A structured checklist catches items you\'d never think of',
+                      'The formatted Excel output gives your adjuster no excuse to ignore items',
+                      'Completely free — no account, no credit card, no strings',
                     ].map(item => (
-                      <li key={item} className="text-blue-200 flex items-start gap-2">
+                      <li key={item} className="text-blue-200 flex items-start gap-3">
+                        <span className="text-blue-300 flex-shrink-0 mt-0.5" aria-hidden="true">✓</span>
                         {item}
                       </li>
                     ))}
                   </ul>
-                  <p className="text-blue-300 text-xs mt-6 leading-relaxed">
-                    The goal: an AI that interviews you like a conversation —
-                    "What's your morning routine? What do you see first when you
-                    wake up?" — and slowly builds your complete inventory.
-                  </p>
                 </div>
               </div>
             </div>
@@ -233,7 +298,7 @@ export default function HomePage() {
             {RESOURCES.map(res => (
               <Link key={res.href} href={res.href} aria-label={`Read ${res.title}`} className="card group">
                 <div className="flex items-start gap-3 mb-3">
-                  <span className="text-2xl flex-shrink-0" aria-hidden="true">{res.icon}</span>
+                  <res.icon className="w-6 h-6 text-[#2E74B5] flex-shrink-0 mt-0.5" aria-hidden="true" />
                   <div>
                     <span className="text-xs font-semibold text-[#2E74B5] uppercase tracking-wider">
                       {res.tag}
@@ -243,13 +308,36 @@ export default function HomePage() {
                     </h3>
                   </div>
                 </div>
-                <p className="text-sm text-gray-600 leading-relaxed">{res.desc}</p>
+                <p className="text-gray-600 leading-relaxed">{res.desc}</p>
                 <p className="text-[#2E74B5] text-sm font-medium mt-4 group-hover:underline" aria-hidden="true">
                   Read guide →
                 </p>
               </Link>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* ── For Attorneys ─────────────────────────────────────────────────── */}
+      <section className="bg-slate-800 text-white py-12 px-4">
+        <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center gap-8">
+          <Briefcase className="w-10 h-10 text-[#C9A84C] flex-shrink-0 hidden sm:block" aria-hidden="true" />
+          <div className="flex-1">
+            <p className="text-[#C9A84C] text-xs font-bold uppercase tracking-wider mb-2">
+              For Attorneys
+            </p>
+            <h2 className="text-2xl font-bold mb-3">
+              Need Technical Support on a Property Claim?
+            </h2>
+            <p className="text-slate-300 leading-relaxed">
+              I work alongside insurance coverage attorneys, bad faith litigators, and plaintiff&apos;s
+              counsel — handling damage documentation, Xactimate estimates, policy analysis, and
+              appraisal so you can focus on the legal strategy.
+            </p>
+          </div>
+          <Link href="/about#attorneys" className="btn-gold whitespace-nowrap flex-shrink-0">
+            Attorney Services →
+          </Link>
         </div>
       </section>
 
@@ -285,7 +373,13 @@ export default function HomePage() {
           </div>
           <div className="md:w-1/3 text-center">
             <div className="bg-white/10 rounded-2xl p-8 border border-white/20">
-              <div className="text-5xl mb-4">⚖️</div>
+              <Image
+                src="/images/leland-coontz-headshot.png"
+                alt="Leland Coontz III, California Licensed Public Adjuster"
+                width={120}
+                height={120}
+                className="rounded-full mx-auto mb-4 border-2 border-white/30 object-cover"
+              />
               <p className="font-bold text-lg mb-1">Leland Coontz III</p>
               <p className="text-blue-300 text-sm mb-3">Licensed Public Adjuster</p>
               <p className="text-[#C9A84C] font-mono text-sm">CA Lic. #2B53445</p>

@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Accessibility Statement',
   description: 'InsuranceClaimsInfo.com is committed to making our website accessible to all visitors, including those with disabilities.',
+  alternates: { canonical: '/accessibility' },
 }
 
 export default function AccessibilityPage() {

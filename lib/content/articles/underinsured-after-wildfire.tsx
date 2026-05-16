@@ -127,6 +127,78 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        How to Actually Determine Your Coverage Limit
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The most reliable way to set your dwelling coverage limit is not to rely on the insurer&rsquo;s
+        estimating tool. It is to ask a qualified general contractor what it would cost to rebuild your
+        home from the ground up.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Get a Contractor&rsquo;s Estimate</h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Find a reputable, licensed general contractor &mdash; ideally one who has experience with
+        insurance-related rebuilds &mdash; and ask a straightforward question: what would it cost to
+        rebuild this house from the ground up? Make sure the estimate is comprehensive. A good contractor
+        will price the structure itself &mdash; but may not automatically include every category of cost.
+        When you review the estimate, confirm it includes:
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-2"><strong>Soft costs</strong> that square footage calculators miss:</p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Building permits and plan check fees</strong> &mdash; permit fees in California can
+          run from several thousand to tens of thousands of dollars depending on the jurisdiction.
+        </li>
+        <li>
+          <strong>Architectural and engineering plans</strong> &mdash; a total loss rebuild requires
+          full architectural drawings and structural engineering. These fees typically run 8% to 15% of
+          construction costs.
+        </li>
+        <li>
+          <strong>Demolition and site preparation</strong> &mdash; the cost of scraping a lot to remove
+          the debris from a damaged or destroyed structure, including potential asbestos abatement, lead
+          remediation, and contaminated soil disposal.
+        </li>
+      </ul>
+
+      <p className="text-gray-700 leading-relaxed mb-2"><strong>Site improvements</strong> your contractor may not automatically include:</p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>Plants, trees, and shrubs</li>
+        <li>Walkways, patios, driveways, and retaining walls</li>
+        <li>Landscape lighting (path lights, Malibu lighting, security lighting)</li>
+        <li>Sprinkler and irrigation systems</li>
+        <li>Fencing and gates</li>
+        <li>Pergolas, outdoor kitchens, fire pits, and other exterior features</li>
+      </ul>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The contractor&rsquo;s number, with all of these categories included, is your starting point for
+        how much dwelling coverage you need. Not your home&rsquo;s market value. Not the square footage
+        calculator. Not the number your insurer suggested when you bought the policy five years ago.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Understand the Land vs. Structure Distinction
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If your property sells for $1,000,000, it is very likely the land is worth about $500,000 and
+        the structures are worth about $500,000 (very rough numbers). Your dwelling coverage limit
+        should be based on the <strong>cost to rebuild the structures</strong> &mdash; not the market
+        value of the property. The land does not burn. You are only insuring what sits on it.
+      </p>
+
+      <CalloutBox variant="warning" title="Don't Trust Square Footage Calculators">
+        <p>
+          Automated square footage calculators do not factor in demolition costs, asbestos abatement,
+          architectural fees, engineering plans, building permits, landscaping, walkways, lighting,
+          sprinklers, fences, or any of the other costs that are part of every real-world rebuild. You
+          can easily come up short by $100,000 or more using a calculator that only considers the cost
+          per square foot of the structure itself.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Strategies to Maximize Recovery When Underinsured
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">

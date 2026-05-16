@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: 'Recommended Books & Films for Insurance Claims — InsuranceClaimsInfo',
   description:
     'Curated book and film recommendations for policyholders, Public Adjusters, attorneys, and anyone navigating an insurance claim. Property damage, bad faith, California insurance law, appraisal, estimating, and claims negotiation.',
+  alternates: { canonical: '/books' },
 }
 
 /**
@@ -490,7 +491,7 @@ export default function BooksPage() {
                       <p className="text-sm text-gray-500 mb-2">by {book.author}</p>
                       <p className="text-sm text-gray-600 leading-relaxed">{book.description}</p>
                     </div>
-                    <span className="text-[#C9A84C] text-sm font-medium flex-shrink-0 hidden sm:block">
+                    <span className="text-gold-text text-sm font-medium flex-shrink-0 hidden sm:block">
                       View on Amazon &rarr;
                     </span>
                   </div>
@@ -576,7 +577,7 @@ export default function BooksPage() {
                     <p className="text-sm text-gray-500 mb-2">Dir. {film.director}</p>
                     <p className="text-sm text-gray-600 leading-relaxed">{film.description}</p>
                   </div>
-                  <span className="text-[#C9A84C] text-sm font-medium flex-shrink-0 hidden sm:block">
+                  <span className="text-gold-text text-sm font-medium flex-shrink-0 hidden sm:block">
                     View on Amazon &rarr;
                   </span>
                 </div>

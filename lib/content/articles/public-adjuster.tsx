@@ -180,12 +180,12 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="A Good Public Adjuster Pays for Themselves">
         <p>
-          Independent data supports the value of Public Adjuster representation. A 2010 study by
-          OPPAGA, the research arm of the Florida Legislature, found that policyholders who used
-          Public Adjusters for hurricane claims received settlements averaging 747% higher — before
-          PA fees — than those who handled claims on their own. While results vary by claim size
-          and complexity, Public Adjusters bring expertise in policy language, damage documentation,
-          and negotiation that most policyholders lack. The increased settlement amount typically
+          Independent data supports the value of Public Adjuster representation. A 2010 Florida
+          government study (OPPAGA Report 10-01) found that PA-represented claims settled for
+          substantially more than unrepresented claims — though the study did not control for claim
+          size or complexity, and results vary widely from one claim to the next. What is clear is
+          that Public Adjusters bring expertise in policy language, damage documentation, and
+          negotiation that most policyholders lack. The increased settlement amount typically
           far exceeds the fee — in other words, you often end up with more money in your pocket
           even after paying the Public Adjuster than you would have received on your own.
         </p>

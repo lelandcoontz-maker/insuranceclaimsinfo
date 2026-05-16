@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   title: 'Personal Property Inventory Tool',
   description:
     'Free interactive personal property inventory checklist — 3,750+ items organized by room. Check what you owned, add values, and download an Excel spreadsheet for your insurance claim.',
+  alternates: { canonical: '/inventory' },
 }
 
 export default function InventoryPage() {

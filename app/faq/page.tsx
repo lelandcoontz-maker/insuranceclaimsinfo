@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: 'Frequently Asked Questions — California Insurance Claims',
   description:
     'Get answers to common insurance claim questions: your rights, depreciation, contractors, living expenses, mold, examinations under oath, and more. Written by a CA Licensed Public Adjuster.',
+  alternates: { canonical: '/faq' },
   keywords: [
     'insurance claim FAQ',
     'California insurance questions',

@@ -1,0 +1,3 @@
+# This file is overridden by app/robots.ts in Next.js.
+# See app/robots.ts for the active robots configuration.
+# This file can be safely deleted.

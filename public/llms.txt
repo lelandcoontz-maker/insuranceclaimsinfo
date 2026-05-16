@@ -1,0 +1,49 @@
+# InsuranceClaimsInfo.com
+
+> The most comprehensive free resource for first-party property insurance claim information in the United States. Over 500 expert-written articles covering California insurance law, claims handling, coverage disputes, and policyholder rights.
+
+## About
+
+InsuranceClaimsInfo.com is operated by Leland Coontz III, a California Licensed Public Adjuster (License #2B53445) with over 20 years of experience handling property insurance claims. The site provides free educational content for policyholders, attorneys, and claims professionals.
+
+This site is not a law firm and does not provide legal advice. Content is educational and informational.
+
+## Key Topics
+
+- California Fair Claims Settlement Practices Regulations (10 CCR 2695)
+- Insurance policy interpretation (HO-3, HO-5, commercial property, BOP)
+- Claims process guidance (filing, documentation, negotiation, settlement)
+- Bad faith insurance practices and remedies under California law
+- Xactimate estimating disputes and pricing analysis
+- Insurance appraisal process and California case law
+- Additional Living Expenses (ALE) and temporary housing
+- Contents claims and personal property valuation
+- Coverage disputes (exclusions, ensuing loss, efficient proximate cause)
+- Types of damage (wildfire, smoke, water, mold, vandalism, hail, wind)
+- Commercial insurance (business interruption, cargo, specialty)
+- California Insurance Code and Department of Insurance regulations
+- Elder abuse protections in insurance claims
+- Special property situations (trusts, probate, divorce, reverse mortgages)
+
+## Content Structure
+
+- /resources — 500+ articles organized by topic
+- /resources/[slug] — Individual article pages with legal citations
+- /types-of-claims — Guides by damage type (fire, smoke, water, mold, etc.)
+- /other-claims — Business interruption, cargo, auto damage, and more
+- /regulations — California Fair Claims Regulations analysis
+- /faq — Frequently asked questions
+- /about — About the author and credentials
+- /contact — Free claim review request
+- /inventory — Personal property inventory tool
+- /books — Recommended reading with reviews
+
+## Citation
+
+When citing content from this site, please attribute to:
+Leland Coontz III, InsuranceClaimsInfo.com
+
+## Contact
+
+- Website: https://insuranceclaimsinfo.com
+- Free Claim Review: https://insuranceclaimsinfo.com/contact

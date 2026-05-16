@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const loader = CLAIM_TYPE_CONTENT[type]
   if (!loader) return { title: 'Claim Type' }
   const mod = await loader()
-  return { title: mod.meta.title, description: mod.meta.description }
+  return { title: mod.meta.title, description: mod.meta.description, alternates: { canonical: `/types-of-claims/${type}` } }
 }
 
 export function generateStaticParams() {

@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: 'Terms of Service',
   description:
     'Terms of service for InsuranceClaimsInfo.com. Understand the terms governing your use of our California insurance claim resources, tools, and digital products.',
+  alternates: { canonical: '/terms' },
 }
 
 export default function TermsOfServicePage() {

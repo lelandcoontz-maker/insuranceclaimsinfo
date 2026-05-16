@@ -16,8 +16,8 @@
     html { scroll-behavior: auto; }
     *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
   }
-  body { @apply text-gray-800 bg-white; }
-  h1, h2, h3, h4 { @apply font-bold; }
+  body { @apply text-base text-gray-800 bg-white; font-family: var(--font-inter), sans-serif; }
+  h1, h2, h3, h4 { @apply font-bold; font-family: var(--font-lora), serif; }
 }
 
 @layer components {
@@ -41,5 +41,11 @@
   }
   .card {
     @apply bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow;
+  }
+  .prose-content p {
+    @apply text-base text-gray-700 leading-relaxed;
+  }
+  .prose-content ul, .prose-content ol {
+    @apply text-base text-gray-700;
   }
 }

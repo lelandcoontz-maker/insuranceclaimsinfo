@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "tsx scripts/generate-search-index.ts",
+    "prebuild": "tsx scripts/generate-search-index.ts && tsx scripts/generate-related-articles.ts && tsx scripts/generate-article-dates.ts",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -12,6 +12,7 @@
   "dependencies": {
     "clsx": "^2.1.1",
     "flexsearch": "^0.8.212",
+    "lucide-react": "^1.14.0",
     "next": "^16.2.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

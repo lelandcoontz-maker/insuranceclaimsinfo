@@ -702,7 +702,7 @@ export default function Content() {
           <li className="flex gap-3">
             <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[#C9A84C] text-white flex items-center justify-center font-bold text-sm">5</span>
             <div>
-              <p className="font-bold text-[#C9A84C]">Your Insurance Policy</p>
+              <p className="font-bold text-gold-text">Your Insurance Policy</p>
               <p className="text-gray-600 text-sm">The contract between you and the insurer. It is the <strong>lowest</strong> authority in this hierarchy. Everything above it can override it.</p>
             </div>
           </li>

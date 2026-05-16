@@ -1,16 +1,19 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { BarChart3, Monitor, ShieldOff, Package, Car, Stethoscope, HardHat, Building } from 'lucide-react'
+import type { LucideIcon } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Other Types of Insurance Claims',
   description:
     'Beyond property claims: business interruption, cyber theft, cargo, auto damage, personal injury, workers\' compensation, and medical claims. Learn which claims a Public Adjuster handles and which require other professionals.',
+  alternates: { canonical: '/other-claims' },
 }
 
-const CLAIM_TYPES = [
+const CLAIM_TYPES: { slug: string; Icon: LucideIcon; title: string; desc: string; badge: string; badgeColor: string; cardColor: string }[] = [
   {
     slug: 'business-interruption',
-    icon: '\u{1F4CA}',
+    Icon: BarChart3,
     title: 'Business Interruption',
     desc: 'Loss of business income from covered events like fire, theft, or vandalism. Calculated using a unique insurance industry formula.',
     badge: 'We Handle This',
@@ -19,7 +22,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'cyber-theft',
-    icon: '\u{1F4BB}',
+    Icon: Monitor,
     title: 'Cyber Theft (Business)',
     desc: 'Business losses from cyber attacks, data breaches, and electronic theft.',
     badge: 'We Handle This',
@@ -28,7 +31,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'employee-theft',
-    icon: '\u{1F510}',
+    Icon: ShieldOff,
     title: 'Employee Theft',
     desc: 'Losses from employee dishonesty, embezzlement, and internal theft covered under fidelity bonds or commercial policies.',
     badge: 'We Handle This',
@@ -37,16 +40,16 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'cargo',
-    icon: '\u{1F4E6}',
+    Icon: Package,
     title: 'Cargo Claims',
-    desc: 'Damage or loss to goods in transit. Handled for California cargo claims.',
-    badge: 'We Handle This (CA)',
+    desc: 'Damage or loss to goods in transit. Inland marine claims are governed by California law; ocean and air cargo may fall under federal maritime law or international treaties.',
+    badge: 'We Handle This',
     badgeColor: 'bg-green-100 text-green-800 border-green-300',
     cardColor: 'bg-white border-gray-200',
   },
   {
     slug: 'auto-damage',
-    icon: '\u{1F697}',
+    Icon: Car,
     title: 'Auto Physical Damage',
     desc: 'Damage to vehicles from accidents, theft, vandalism, or weather. Physical damage only \u2014 not bodily injury.',
     badge: 'We Handle This',
@@ -55,7 +58,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'personal-injury',
-    icon: '\u2695\uFE0F',
+    Icon: Stethoscope,
     title: 'Personal Injury',
     desc: 'Bodily injury from accidents, medical malpractice, or negligence. Requires an attorney \u2014 we can connect you.',
     badge: 'Attorney Referral',
@@ -64,7 +67,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'workers-comp',
-    icon: '\u{1F3D7}\uFE0F',
+    Icon: HardHat,
     title: 'Workers\u2019 Compensation',
     desc: 'Workplace injuries and occupational illness. Requires specialized legal representation.',
     badge: 'Attorney Referral',
@@ -73,7 +76,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'medical',
-    icon: '\u{1F3E5}',
+    Icon: Building,
     title: 'Medical Claims',
     desc: 'Health insurance disputes, denied procedures, and medical billing issues.',
     badge: 'Specialist Referral',
@@ -112,7 +115,7 @@ export default function OtherClaimsPage() {
               className={`block rounded-xl border p-6 hover:shadow-md transition-shadow ${ct.cardColor}`}
             >
               <div className="flex items-start gap-4">
-                <span className="text-3xl flex-shrink-0" aria-hidden="true">{ct.icon}</span>
+                <ct.Icon className="w-7 h-7 text-gray-700 flex-shrink-0 mt-0.5" aria-hidden="true" />
                 <div className="flex-1">
                   <div className="flex items-center gap-3 mb-2 flex-wrap">
                     <h2 className="font-bold text-gray-900 text-lg">{ct.title}</h2>
@@ -120,7 +123,7 @@ export default function OtherClaimsPage() {
                       {ct.badge}
                     </span>
                   </div>
-                  <p className="text-sm text-gray-600 leading-relaxed">{ct.desc}</p>
+                  <p className="text-gray-600 leading-relaxed">{ct.desc}</p>
                   <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Learn more &rarr;</p>
                 </div>
               </div>

@@ -271,7 +271,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The implied covenant of good faith and fair dealing, recognized in every California insurance contract since <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 17 Cal.3d 860 and reinforced in <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809, imposes on insurers a duty to investigate claims thoroughly, evaluate them fairly, and pay what is owed. Using a non-bid estimate to justify underpaying a claim when the insured has presented a legitimate contractor&apos;s bid raises questions about whether that duty has been met.
+        The implied covenant of good faith and fair dealing, recognized in every California insurance contract since <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 9 Cal.3d 566 and reinforced in <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809, imposes on insurers a duty to investigate claims thoroughly, evaluate them fairly, and pay what is owed. Using a non-bid estimate to justify underpaying a claim when the insured has presented a legitimate contractor&apos;s bid raises questions about whether that duty has been met.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">The Xactimate-as-Gospel Problem</h3>

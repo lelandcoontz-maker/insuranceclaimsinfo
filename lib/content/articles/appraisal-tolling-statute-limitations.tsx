@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Does Invoking Appraisal Toll the Statute of Limitations?',
   description:
-    'The answer is unsettled. Learn both sides of the debate, what California courts have said (Prudential-LMI, Appalachian, Brehm), how CCP 2071 creates the problem, and the one thing you should always do before starting appraisal: get a written tolling agreement.',
+    'The answer is unsettled. Learn both sides of the debate, what California courts have said (Prudential-LMI, Appalachian, Brehm), how Insurance Code § 2071 creates the problem, and the one thing you should always do before starting appraisal: get a written tolling agreement.',
 }
 
 export default function Content() {
@@ -16,8 +16,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Most California property insurance policies contain a one-year suit limitation
         provision. This provision originates from California&apos;s standard fire policy,
-        codified in California Code of Civil Procedure &sect; 2071 (commonly referenced as
-        &ldquo;CCP 2071&rdquo;) and mirrored in California Insurance Code &sect;&sect; 2070&ndash;2071.
+        codified in California Insurance Code &sect;&sect; 2070&ndash;2071.
         The statutory language requires the policyholder to commence suit within twelve months
         after the &ldquo;inception of the loss.&rdquo; That clock starts running on the date
         of the loss &mdash; not the date the claim is denied, not the date negotiations break
@@ -62,13 +61,13 @@ export default function Content() {
         </p>
       </CalloutBox>
 
-      {/* ====== CCP 2071 AND THE STATUTORY FRAMEWORK ====== */}
+      {/* ====== INS. CODE 2071 AND THE STATUTORY FRAMEWORK ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Statutory Framework: CCP &sect; 2071 and the Standard Fire Policy
+        The Statutory Framework: Insurance Code &sect; 2071 and the Standard Fire Policy
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         To understand the problem, you need to understand the source of the one-year suit
-        limitation. CCP &sect; 2071 sets out the California Standard Form Fire Insurance Policy,
+        limitation. Insurance Code &sect; 2071 sets out the California Standard Form Fire Insurance Policy,
         which every fire insurance policy issued in the state must contain or incorporate. Two
         provisions in this statutory policy are relevant here, and they sit side by side in
         the same document without any express connection between them:
@@ -94,7 +93,7 @@ export default function Content() {
         This silence is the source of the entire debate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Some scholars have pointed out that CCP &sect; 2071 dates to an era when insurance
+        Some scholars have pointed out that Insurance Code &sect; 2071 dates to an era when insurance
         disputes were resolved much more quickly. The idea that appraisal might consume so much
         of the limitations period that the policyholder would lose the right to sue may not
         have been contemplated by the original drafters. Whatever the historical explanation,
@@ -232,7 +231,7 @@ export default function Content() {
         protect the right to sue within the contractual deadline.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Proponents of this view point out that CCP &sect; 2071 contains both the appraisal
+        Proponents of this view point out that Insurance Code &sect; 2071 contains both the appraisal
         provision and the suit limitation provision in the same statutory policy. The
         legislature could have included language tolling the suit limitation during appraisal
         but did not. The absence of tolling language is meaningful &mdash; it suggests the
@@ -857,7 +856,7 @@ export default function Content() {
           appraisal.
         </li>
         <li>
-          The argument against tolling rests on the plain language of CCP &sect; 2071, the
+          The argument against tolling rests on the plain language of Insurance Code &sect; 2071, the
           absence of express tolling provisions in either the statute or the policy, the
           discretionary nature of equitable tolling, and the availability of the &ldquo;file
           and stay&rdquo; alternative.

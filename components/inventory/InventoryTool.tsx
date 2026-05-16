@@ -49,7 +49,7 @@ function ItemRow({ id, name, context, isChecked, detail, onToggle, onDetail }: I
       />
       <span className={`flex-1 text-sm leading-tight ${isChecked ? 'font-medium text-[#1F3964]' : 'text-gray-700'}`}>
         {name}
-        {context && <span className="ml-1.5 text-xs text-gray-400">({context})</span>}
+        {context && <span className="ml-1.5 text-xs text-gray-500">({context})</span>}
       </span>
       {isChecked && (
         <div className="flex items-center gap-2 flex-shrink-0">
@@ -108,7 +108,7 @@ function CategorySection({ categoryId, name, items, state, onToggle, onDetail, o
           className="flex-1 flex items-center gap-2 text-left focus:outline-none focus:ring-2 focus:ring-[#1F3964] rounded"
         >
           <span className="font-semibold text-[#1F3964] text-sm">{name}</span>
-          <span className="text-xs text-gray-400">({items.length} items)</span>
+          <span className="text-xs text-gray-500">({items.length} items)</span>
         </button>
         <div className="flex items-center gap-2">
           {checkedCount > 0 && (
@@ -125,7 +125,7 @@ function CategorySection({ categoryId, name, items, state, onToggle, onDetail, o
           </button>
           <button
             onClick={() => setExpanded(e => !e)}
-            className="text-gray-400 w-5 text-center focus:outline-none focus:ring-2 focus:ring-[#1F3964] rounded"
+            className="text-gray-500 w-5 text-center focus:outline-none focus:ring-2 focus:ring-[#1F3964] rounded"
             aria-label={expanded ? `Collapse ${name}` : `Expand ${name}`}
             aria-expanded={expanded}
           >
@@ -246,7 +246,7 @@ export function InventoryTool({ rooms }: Props) {
           <div className="flex items-center gap-3 text-sm text-gray-600 flex-shrink-0">
             <span>
               <strong className="text-[#1F3964]">{totalChecked.toLocaleString()}</strong>{' '}
-              <span className="text-gray-400">/ {rooms.reduce((n, r) => n + r.categories.reduce((m, c) => m + c.items.length, 0), 0).toLocaleString()} items</span>
+              <span className="text-gray-500">/ {rooms.reduce((n, r) => n + r.categories.reduce((m, c) => m + c.items.length, 0), 0).toLocaleString()} items</span>
             </span>
             {totalValue > 0 && (
               <span className="text-green-700 font-semibold">
@@ -272,7 +272,7 @@ export function InventoryTool({ rooms }: Props) {
         {/* Sidebar: room navigation */}
         <aside className="w-52 flex-shrink-0 hidden lg:block">
           <div className="sticky top-32">
-            <p id="rooms-heading" className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2 px-2">Rooms</p>
+            <p id="rooms-heading" className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2 px-2">Rooms</p>
             <nav aria-labelledby="rooms-heading" className="space-y-0.5">
               {rooms.map(room => {
                 const n = roomCheckedCounts[room.id] ?? 0
@@ -354,7 +354,7 @@ export function InventoryTool({ rooms }: Props) {
                 <h1 className="text-2xl font-bold text-[#1F3964]">
                   {activeRoom.emoji} {activeRoom.name}
                 </h1>
-                <span className="text-sm text-gray-400">
+                <span className="text-sm text-gray-500">
                   {activeRoom.categories.reduce((n, c) => n + c.items.length, 0)} items
                 </span>
               </div>

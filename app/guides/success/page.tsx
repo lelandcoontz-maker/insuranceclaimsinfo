@@ -6,6 +6,7 @@ import { DownloadSection } from './DownloadSection'
 export const metadata: Metadata = {
   title: 'Purchase Complete — InsuranceClaimsInfo',
   description: 'Thank you for your purchase. Download your guide below.',
+  alternates: { canonical: '/guides/success' },
 }
 
 export default function SuccessPage() {

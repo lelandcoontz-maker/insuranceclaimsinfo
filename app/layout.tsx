@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Inter, Lora } from 'next/font/google'
 import './globals.css'
 import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
@@ -8,6 +8,7 @@ import { JsonLd } from '@/components/seo/JsonLd'
 import { GoogleAnalytics } from '@/components/seo/GoogleAnalytics'
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
+const lora = Lora({ subsets: ['latin'], variable: '--font-lora', weight: ['400', '500', '600', '700'] })
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://insuranceclaimsinfo.com'),
@@ -25,6 +26,7 @@ export const metadata: Metadata = {
   verification: {
     google: 'OJaLyOK2b1U2q4VBGlpVDFSLSTAp9fKnZ4pRAsJLZkQ',
   },
+  alternates: { canonical: '/' },
   openGraph: {
     siteName: 'InsuranceClaimsInfo.com',
     type: 'website',
@@ -42,35 +44,48 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" className={`${inter.variable} ${lora.variable}`}>
       <GoogleAnalytics />
       <body className="flex flex-col min-h-screen">
         <JsonLd data={{
           '@context': 'https://schema.org',
           '@type': 'ProfessionalService',
-          name: 'InsuranceClaimsInfo.com — Leland Coontz III, Public Adjuster',
+          name: 'Leland Coontz, Public Adjuster',
+          alternateName: 'InsuranceClaimsInfo.com',
           url: 'https://insuranceclaimsinfo.com',
-          description: 'Licensed California Public Adjuster providing free insurance claim resources, tools, and professional claims handling services.',
+          description: 'Licensed California Public Adjuster representing policyholders, not insurance companies, in property damage claims. Services include claim filing, damage documentation, policy analysis, estimate preparation, negotiation with insurance companies, insurance appraisal and appraisal umpire services including court-appointed umpire, and insurance claim consulting. Specializing in fire, water, smoke, mold, and storm damage claims throughout Los Angeles County and Orange County. California Public Adjuster License #2B53445.',
           founder: {
             '@type': 'Person',
             name: 'Leland Coontz III',
             jobTitle: 'Licensed Public Adjuster',
           },
-          areaServed: {
-            '@type': 'State',
-            name: 'California',
-          },
-          serviceType: ['Public Adjuster', 'Insurance Claim Consulting', 'Insurance Appraisal'],
+          areaServed: [
+            { '@type': 'AdministrativeArea', name: 'Los Angeles County, California' },
+            { '@type': 'AdministrativeArea', name: 'Orange County, California' },
+          ],
+          serviceType: [
+            'Public Adjuster',
+            'Insurance Claim Consulting',
+            'Insurance Appraisal',
+            'Appraisal Umpire Services',
+            'Court-Appointed Umpire',
+          ],
           hasCredential: {
             '@type': 'EducationalOccupationalCredential',
             credentialCategory: 'Public Adjuster License',
+            name: 'California Public Adjuster License #2B53445',
             recognizedBy: {
               '@type': 'GovernmentOrganization',
               name: 'California Department of Insurance',
             },
           },
           priceRange: 'No Recovery, No Fee',
-          knowsAbout: ['Insurance Claims', 'Property Damage', 'Wildfire Claims', 'California Insurance Law', 'Xactimate', 'Insurance Appraisal'],
+          knowsAbout: [
+            'Insurance Claims', 'Property Damage', 'Wildfire Claims',
+            'California Insurance Law', 'Xactimate', 'Insurance Appraisal',
+            'Appraisal Umpire', 'Contents Claims', 'Smoke Damage',
+            'Water Damage', 'Mold Claims', 'Fire Insurance Claims',
+          ],
         }} />
         <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[100] focus:bg-white focus:text-[#1F3964] focus:px-4 focus:py-2 focus:rounded-lg focus:font-semibold focus:shadow-lg">
           Skip to main content

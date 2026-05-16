@@ -108,11 +108,11 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A 2010 study by OPPAGA, the research arm of the Florida Legislature, found that
-        policyholders who used Public Adjusters for hurricane claims received settlements
-        averaging 747% higher &mdash; before PA fees &mdash; than those who handled claims on
-        their own. While results vary, the data confirms that professional representation on the
-        technical side of the claim consistently produces better outcomes.
+        A 2010 Florida government study (OPPAGA Report 10-01) found that PA-represented
+        hurricane claims settled for substantially more than unrepresented claims &mdash; though
+        the study did not control for claim complexity, and results vary from claim to claim.
+        What the data consistently shows is that professional representation on the technical
+        side of the claim leads to better-documented, more thoroughly negotiated outcomes.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

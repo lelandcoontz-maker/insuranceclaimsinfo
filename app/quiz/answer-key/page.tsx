@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Answer Key — Property Claims Knowledge Assessment | InsuranceClaimsInfo.com',
   description: 'Complete answer key with detailed explanations for the 100-question Property Claims Knowledge Assessment. Includes references to California regulations, case law, and claims procedures.',
   keywords: ['property claims quiz answers', 'claims adjuster test answers', 'California insurance exam', 'property claims knowledge test key'],
+  alternates: { canonical: '/quiz/answer-key' },
 }
 
 export default function AnswerKeyPage() {

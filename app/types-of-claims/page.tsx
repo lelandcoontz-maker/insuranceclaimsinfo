@@ -1,15 +1,18 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { Flame, Wind, Droplets, Microscope, Hammer, Car, Droplet, Waves } from 'lucide-react'
+import type { LucideIcon } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Common Types of Insurance Claims',
   description: 'Guides for fire, water, mold, vandalism, vehicle impact, sewage, flood, and smoke damage insurance claims in California.',
+  alternates: { canonical: '/types-of-claims' },
 }
 
-const CLAIM_TYPES = [
+const CLAIM_TYPES: { slug: string; Icon: LucideIcon; title: string; desc: string; color: string; tagColor: string }[] = [
   {
     slug: 'fire',
-    icon: '🔥',
+    Icon: Flame,
     title: 'Fire & Wildfire Losses',
     desc: 'Total and partial fire losses, wildfire-specific considerations, smoke damage from structure fires, and urban wildfire contamination.',
     color: 'bg-red-50 border-red-200',
@@ -17,7 +20,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'smoke',
-    icon: '💨',
+    Icon: Wind,
     title: 'Smoke Damage & Contamination',
     desc: 'Wildfire smoke vs urban wildfire smoke. Toxic contaminants like silica, arsenic, mercury, cadmium, lithium, and dioxins from burning PVC.',
     color: 'bg-gray-50 border-gray-200',
@@ -25,7 +28,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'water',
-    icon: '💧',
+    Icon: Droplets,
     title: 'Water Leak Claims',
     desc: 'Sudden vs gradual leaks, pipe bursts, appliance failures, roof leaks, and the long-term loss defense insurers use.',
     color: 'bg-blue-50 border-blue-200',
@@ -33,7 +36,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'mold',
-    icon: '🦠',
+    Icon: Microscope,
     title: 'Mold Claims',
     desc: 'When mold is covered as ensuing loss, mold limits, and common insurer tactics to deny mold-related water damage.',
     color: 'bg-green-50 border-green-200',
@@ -41,7 +44,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'vandalism',
-    icon: '🔨',
+    Icon: Hammer,
     title: 'Vandalism Claims',
     desc: 'Marijuana grow damage, graffiti, break-in damage, and documenting vandalism losses for your insurer.',
     color: 'bg-purple-50 border-purple-200',
@@ -49,7 +52,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'vehicle-impact',
-    icon: '🚗',
+    Icon: Car,
     title: 'Vehicle Impact Damage',
     desc: 'Structural damage from vehicle collisions. Why you need a structural engineer and how framing damage is often underestimated.',
     color: 'bg-amber-50 border-amber-200',
@@ -57,7 +60,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'sewage',
-    icon: '🚿',
+    Icon: Droplet,
     title: 'Sewage Damage',
     desc: 'Sewage backups, Category 3 water, health hazards, and specialized remediation requirements.',
     color: 'bg-orange-50 border-orange-200',
@@ -65,7 +68,7 @@ const CLAIM_TYPES = [
   },
   {
     slug: 'flood',
-    icon: '🌊',
+    Icon: Waves,
     title: 'Flood Claims (NFIP/FEMA)',
     desc: 'True flood damage is excluded under typical homeowner policies. How the National Flood Insurance Program works.',
     color: 'bg-cyan-50 border-cyan-200',
@@ -99,10 +102,10 @@ export default function TypesOfClaimsPage() {
               className={`block rounded-xl border p-6 hover:shadow-md transition-shadow ${ct.color}`}
             >
               <div className="flex items-start gap-4">
-                <span className="text-3xl flex-shrink-0" aria-hidden="true">{ct.icon}</span>
+                <ct.Icon className="w-7 h-7 text-gray-700 flex-shrink-0 mt-0.5" aria-hidden="true" />
                 <div>
                   <h2 className="font-bold text-gray-900 text-lg mb-2">{ct.title}</h2>
-                  <p className="text-sm text-gray-600 leading-relaxed">{ct.desc}</p>
+                  <p className="text-gray-600 leading-relaxed">{ct.desc}</p>
                   <p className="text-[#2E74B5] text-sm font-medium mt-3" aria-hidden="true">Read guide →</p>
                 </div>
               </div>

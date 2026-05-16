@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'Games Insurance Companies Play: How to Identify and Defeat Them',
   description:
     'Learn the most common tactics insurance companies use to underpay property claims in California — lowball offers, adjuster shuffling, excessive depreciation, and more. A Licensed Public Adjuster explains how to fight back.',
+  alternates: { canonical: '/insurer-tactics' },
   keywords: [
     'insurance company tactics',
     'lowball insurance offer',
@@ -92,12 +93,12 @@ const TACTICS: Tactic[] = [
           bids and cite the specific proof-of-loss provision in your policy. A single estimate from
           a qualified contractor or Public Adjuster, supported by industry-standard pricing (such as
           Xactimate), is sufficient to challenge their number. If the insurer insists their estimate
-          is correct, invoke 10 CCR 2695.7(g) and ask them to provide the name of a contractor
+          is correct, invoke 10 CCR 2695.9(d) and ask them to provide the name of a contractor
           who will do the work for their amount.
         </p>
       </>
     ),
-    regulations: ['10 CCR 2695.7(g)'],
+    regulations: ['10 CCR 2695.9(d)'],
   },
   {
     number: 3,
@@ -250,17 +251,19 @@ const TACTICS: Tactic[] = [
     howToFightBack: (
       <>
         <p>
-          California law is unambiguous on this. Under 10 CCR 2695.7(d), upon your written request,
-          the insurer must provide copies of all documents that relate to the evaluation of your
-          claim within 15 calendar days. This includes adjuster reports, estimates, photographs,
-          engineering reports, and correspondence. Send your request in writing (email is fine),
-          cite the regulation by number, and note the 15-day deadline. If they fail to comply, file
+          California law is clear on this. Under 10 CCR 2695.7(d), the insurer has a duty to
+          conduct a thorough, fair, and objective investigation — which includes maintaining and
+          providing access to claim-related documents. When you request these documents in writing,
+          the insurer must respond within 15 calendar days under 10 CCR 2695.5(b). This includes
+          adjuster reports, estimates, photographs, engineering reports, and correspondence. Send
+          your request in writing (email is fine), cite both regulations by number, and note the
+          15-day response deadline. If they fail to comply, file
           a complaint with the California Department of Insurance. The insurer's own documents are
           often the strongest evidence that their estimate is insufficient.
         </p>
       </>
     ),
-    regulations: ['10 CCR 2695.7(d)'],
+    regulations: ['10 CCR 2695.7(d)', '10 CCR 2695.5(b)'],
   },
   {
     number: 8,
@@ -283,10 +286,12 @@ const TACTICS: Tactic[] = [
       <>
         <p>
           When three or more trades are involved, O&P is a legitimate and necessary cost — whether
-          or not you have already hired a general contractor. California regulation 10 CCR 2695.9
-          requires insurers to include overhead and profit when a general contractor is reasonably
-          likely to be involved in the repairs. The industry standard, supported by Xactimate (the
-          estimating software insurers themselves use), is 10% overhead and 10% profit. Document
+          or not you have already hired a general contractor. Under 10 CCR 2695.9(a)(1), the insured
+          shall not have to pay any cost beyond the deductible. When a general contractor is
+          reasonably necessary — typically when three or more trades are involved — overhead and
+          profit is a legitimate cost that should be included in the estimate. The industry standard,
+          supported by Xactimate (the estimating software insurers themselves use), is 10% overhead
+          and 10% profit. Document
           the number of trades required and demand O&P be included. If the insurer refuses, this
           is a common appraisal issue and often resolved quickly once the umpire reviews the scope.
         </p>
@@ -347,17 +352,17 @@ const TACTICS: Tactic[] = [
       <>
         <p>
           Document every single communication attempt — date, time, method, and what you said or
-          asked. Under 10 CCR 2695.5(e), the insurer must respond to communications from a claimant
+          asked. Under 10 CCR 2695.5(b), the insurer must respond to communications from a claimant
           that reasonably suggest a response is expected, within 15 calendar days. After 15 days
           without a response, send a follow-up email that says: "This is my second request for
-          [specific information]. I sent my first request on [date]. Under 10 CCR 2695.5(e), you
+          [specific information]. I sent my first request on [date]. Under 10 CCR 2695.5(b), you
           are required to respond. Please respond within 5 business days." If the silence continues,
           file a complaint with the California Department of Insurance and consider engaging a
           Public Adjuster or attorney.
         </p>
       </>
     ),
-    regulations: ['10 CCR 2695.5(e)', '10 CCR 2695.5(b)'],
+    regulations: ['10 CCR 2695.5(b)'],
   },
   {
     number: 11,
@@ -379,9 +384,9 @@ const TACTICS: Tactic[] = [
     howToFightBack: (
       <>
         <p>
-          You have the absolute right to choose your own contractor. No standard homeowner policy
-          in California requires you to use the insurer's preferred vendor, and no provision allows
-          the insurer to deny your claim for choosing an independent contractor. If an adjuster
+          You have the absolute right to choose your own contractor. Standard homeowner policies
+          in California do not require you to use the insurer's preferred vendor, and no provision
+          allows the insurer to deny your claim for choosing an independent contractor. If an adjuster
           makes this threat, ask them to cite the specific policy provision that requires you to use
           their contractor. They will not be able to, because it does not exist. Document the threat
           in writing and send a letter to the insurer stating that you are exercising your right to
@@ -445,9 +450,14 @@ const TACTICS: Tactic[] = [
     howToFightBack: (
       <>
         <p>
-          Know your deadlines. The statute of limitations for breach of contract (suing your insurer)
-          is typically one year from the date of loss, but this period is generally tolled (paused)
-          while the insurer is actively adjusting the claim. The deadline to recover depreciation
+          Know your deadlines. Most homeowner policies contain a one-year suit limitation clause
+          (derived from Insurance Code Section 2071) — often called a "statute of limitations,"
+          though it is technically a contractual limitation period, not a statutory one. This
+          distinction matters: because the limitation is contractual, California courts have held
+          that it is equitably tolled (paused) while the insurer is actively investigating and
+          adjusting the claim (see <em>Prudential-LMI v. Superior Court</em> (1990) 51 Cal.3d 674).
+          However, tolling is fact-specific — do not assume it applies without consulting an
+          attorney. The deadline to recover depreciation
           holdback is often 12 or 24 months after the initial payment, depending on your policy.
           Read your policy carefully for all time-sensitive provisions. If the insurer is dragging
           their feet and deadlines are approaching, consult an attorney immediately. Send written
@@ -493,13 +503,13 @@ const TACTICS: Tactic[] = [
   },
   {
     number: 15,
-    name: 'Demanding the Contractor Name Under §2695.7(g)',
+    name: 'Demanding the Contractor Name Under §2695.9(d)',
     howTheyDoIt: (
       <>
         <p>
           This tactic is different from the others on this page — it is not something the insurer
           does to you. It is something <strong>you can do to the insurer</strong>. Under California
-          regulation 10 CCR 2695.7(g), if the insurer's claim payment or estimate is based on the
+          regulation 10 CCR 2695.9(d), if the insurer's claim payment or estimate is based on the
           cost of repairs, and you request it, the insurer is <strong>required</strong> to provide
           the name, address, and telephone number of a contractor who will perform the repairs for
           the amount stated in their estimate. This is one of the most powerful and underutilized
@@ -512,18 +522,18 @@ const TACTICS: Tactic[] = [
     howToFightBack: (
       <>
         <p>
-          Send a written request to the insurer that says: "Pursuant to 10 CCR 2695.7(g), I am
+          Send a written request to the insurer that says: "Pursuant to 10 CCR 2695.9(d), I am
           requesting the name, address, and telephone number of a licensed contractor who will
           perform the repairs described in your estimate, dated [date], for the amount of [dollar
           amount] stated therein." They are required to respond. In most cases, they cannot produce
           a contractor willing to do the work for their low number, because the estimate was never
           meant to reflect actual market costs. Once they fail to provide a contractor name, their
           estimate loses credibility and you have powerful leverage to demand a revised payment. If
-          they ignore the request entirely, that is a separate violation under 10 CCR 2695.5(e).
+          they ignore the request entirely, that is a separate violation under 10 CCR 2695.5(b).
         </p>
       </>
     ),
-    regulations: ['10 CCR 2695.7(g)', '10 CCR 2695.5(e)'],
+    regulations: ['10 CCR 2695.9(d)', '10 CCR 2695.5(b)'],
     featured: true,
   },
 ]
@@ -572,7 +582,7 @@ export default function InsurerTacticsPage() {
                 <p className="mb-2">
                   Unlike every other item on this page, Tactic 15 is not something the insurer does
                   to you — it is something <strong>you</strong> do to <strong>them</strong>. Section
-                  2695.7(g) is arguably the single most effective regulation available to California
+                  2695.9(d) is arguably the single most effective regulation available to California
                   policyholders who are being underpaid on structural repairs.
                 </p>
                 <p>
@@ -604,7 +614,7 @@ export default function InsurerTacticsPage() {
               <div className="px-6 pb-6 space-y-5">
                 {/* How They Do It */}
                 <div>
-                  <h3 className="text-sm font-bold uppercase tracking-wider text-[#C9A84C] mb-2">
+                  <h3 className="text-sm font-bold uppercase tracking-wider text-gold-text mb-2">
                     How They Do It
                   </h3>
                   <div className="text-gray-700 leading-relaxed text-[15px]">
@@ -647,7 +657,7 @@ export default function InsurerTacticsPage() {
 
         {/* ── Case Studies Note ──────────────────────────────────────────────── */}
         <section className="bg-white rounded-2xl border border-gray-200 p-8 text-center">
-          <p className="text-sm font-bold uppercase tracking-wider text-[#C9A84C] mb-2">
+          <p className="text-sm font-bold uppercase tracking-wider text-gold-text mb-2">
             Coming Soon
           </p>
           <h2 className="text-xl font-bold text-[#1F3964] mb-3">

@@ -2,12 +2,28 @@
 
 import { useState } from 'react'
 import { GuideDownloadModal } from '@/components/content/GuideDownloadModal'
+import {
+  Dices, Scale, Ruler, Flame, ClipboardCheck, TrendingDown, Armchair, BookOpen, Gavel,
+} from 'lucide-react'
+import type { LucideIcon } from 'lucide-react'
+
+const ICON_MAP: Record<string, LucideIcon> = {
+  dices: Dices,
+  gavel: Gavel,
+  ruler: Ruler,
+  flame: Flame,
+  scale: Scale,
+  'clipboard-check': ClipboardCheck,
+  'trending-down': TrendingDown,
+  armchair: Armchair,
+  'book-open': BookOpen,
+}
 
 export interface FreeGuide {
   id: string
   name: string
   description: string
-  icon: string
+  iconName: string
   tag: string
   tagColor: string
   fileName: string
@@ -22,7 +38,7 @@ export function FreeGuideCard({ guide }: { guide: FreeGuide }) {
     <>
       <div className="bg-white border border-gray-200 rounded-xl p-6 flex flex-col hover:shadow-md transition-shadow">
         <div className="flex items-start gap-3 mb-3">
-          <span className="text-3xl flex-shrink-0">{guide.icon}</span>
+          {(() => { const Icon = ICON_MAP[guide.iconName]; return Icon ? <Icon className="w-7 h-7 text-[#2E74B5] flex-shrink-0 mt-0.5" aria-hidden="true" /> : null })()}
           <div>
             <span className={`text-xs font-semibold px-2 py-0.5 rounded-full ${guide.tagColor}`}>
               {guide.tag}

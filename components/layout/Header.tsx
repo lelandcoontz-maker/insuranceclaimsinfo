@@ -215,7 +215,7 @@ export function Header() {
                 ))}
                 <Link
                   href="/resources"
-                  className="block px-4 py-2 text-sm text-[#C9A84C] font-medium focus:outline-none focus:ring-2 focus:ring-[#C9A84C] rounded"
+                  className="block px-4 py-2 text-sm text-gold-text font-medium focus:outline-none focus:ring-2 focus:ring-[#C9A84C] rounded"
                 >
                   View All Resources
                 </Link>

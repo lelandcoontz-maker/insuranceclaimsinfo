@@ -3,6 +3,8 @@ import Link from 'next/link'
 import { ArticleLayout } from '@/components/content/ArticleLayout'
 import { RelatedArticles } from '@/components/content/RelatedArticles'
 import { JsonLd } from '@/components/seo/JsonLd'
+import { getCategoryForArticle, getCtaVariantForArticle } from '@/lib/content/article-category-map'
+import articleDates from '@/public/data/article-dates.json'
 
 const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'california-fair-claims': { title: 'California Fair Claims Settlement Practices Regulations (10 CCR 2695)', description: 'A section-by-section analysis of California\'s Fair Claims Settlement Practices Regulations — every rule your insurer must follow on a property claim, explained in plain English.' },
@@ -309,7 +311,7 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'mobile-manufactured-home-claims': { title: 'Mobile and Manufactured Home Insurance Claims: Unique Challenges and Coverage Gaps', description: 'Manufactured and mobile homes face different construction standards, policy forms, and claims challenges than site-built homes. Learn the coverage gaps, valuation issues, and California protections.' },
   'moradi-shalal-790': { title: "Why You Cannot Sue Your Insurer Under Insurance Code 790.03 — And What You Can Do Instead", description: "An explanation of why California policyholders cannot bring a private lawsuit under Insurance Code 790.03 after Moradi-Shalal v. Fireman's Fund, and the alternative legal remedies that are available — common law bad faith, breach of contract, CDI complaints, and Brandt fees." },
   'neighbor-property-damage-disputes': { title: 'Neighbor Property Damage: Trees, Water Runoff, and Who Pays When Damage Crosses Property Lines', description: "When a neighbor's tree falls on your property or their grading sends water into your home, who pays? Learn how insurance, liability, and subrogation work in cross-property-line disputes." },
-  'new-california-insurance-laws-2025-2026': { title: 'New California Insurance Laws 2025–2026: What Every Policyholder Needs to Know', description: 'A comprehensive guide to the major California insurance laws enacted in 2025 and 2026, including SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), AB 888 (fire-safe roofs), SB 876 (disaster recovery reform), and building code upgrade minimums.' },
+  'new-california-insurance-laws-2025-2026': { title: 'New California Insurance Laws 2025–2026: What Every Policyholder Needs to Know', description: 'A comprehensive guide to California insurance laws enacted and pending in 2025–2026: SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), SB 876 (disaster recovery reform), SB 877 (claims transparency), SB 878 (20% payment penalties), AB 1680 (FAIR Plan overhaul), SB 1301 (180-day nonrenewal notice), and more.' },
   'parametric-insurance': { title: 'Parametric Insurance: Fast Payouts, But Not a Replacement for Your Homeowner Policy', description: 'What parametric insurance is, how it works, and why it is a supplement to traditional coverage — not a substitute. Covers trigger-based payouts, basis risk, growing market adoption, and how parametric products can fill gaps for FAIR Plan and earthquake policyholders.' },
   'period-of-restoration-disputes': { title: 'Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?', description: 'The period of restoration determines how long your insurer pays business income or additional living expenses after a loss. Learn why it is one of the most litigated terms in property insurance, how insurers shorten the period, and how to protect your recovery.' },
   'pfas-forever-chemicals-property': { title: "PFAS 'Forever Chemicals' and Property Insurance: An Emerging Coverage Crisis", description: 'How PFAS contamination affects property values and insurance coverage, the new ISO PFAS exclusions appearing on policies, EPA reporting requirements, and what property owners should do to protect themselves.' },
@@ -505,6 +507,12 @@ const ARTICLE_META: Record<string, { title: string; description: string }> = {
   'remediation-vs-restoration': { title: 'Remediation vs. Restoration: The Distinction Insurance Companies Exploit to Underpay Your Claim', description: 'How carriers use the remediation-vs-restoration distinction to apply different coverage provisions, sub-limits, and exclusions to the same loss — and how proper cost allocation can save your claim thousands of dollars.' },
   'drug-contamination-landlord-claims': { title: 'Drug Contamination Claims for Landlords: Meth, Fentanyl, and Grow Operations', description: 'When a tenant turns your rental into a meth lab, fentanyl house, or marijuana grow — the vandalism theory, state cleanup standards, case law, decontamination costs, lease protections, and how to get your insurance claim paid.' },
   'games-insurers-play-claims-process-grief': { title: "Games Insurers Play: When the Claims Process Meets the Worst Day of Your Life", description: "How the insurance claims machine produces outcomes that compound trauma — not through malice, but through a system that wasn't designed for grief. What happens when a routine claims process meets a family in crisis." },
+  'water-backup-endorsement': { title: 'Water Backup Endorsement: What It Covers, What It Doesn\'t, and Why Half of "Backup" Claims Aren\'t Backups at All', description: 'The water backup endorsement covers sewer backups, drain backups, and sump pump failures — but many losses labeled as backups are actually blockages or overflows covered under your base policy.' },
+  'when-to-hire-industrial-hygienist': { title: 'When to Hire an Industrial Hygienist for Your Insurance Claim', description: 'A Certified Industrial Hygienist provides independent contamination documentation that strengthens mold, smoke, sewage, drug contamination, and biohazard claims.' },
+  'stigmatized-properties-insurance': { title: 'Stigmatized Properties and Insurance Claims: When the Damage Is to the Property\'s Reputation', description: 'After deaths, crime, drug manufacturing, or contamination events, property values drop even after full remediation. How stigma affects insurance claims and diminution in value.' },
+  'endorsements-every-homeowner-needs': { title: 'Endorsements Every Homeowner Should Have — and What Happens When You Don\'t', description: 'The most important insurance endorsements for homeowners — extended replacement cost, water backup, ordinance or law, scheduled property, service line, equipment breakdown.' },
+  'open-perils-vs-named-perils': { title: 'Open Perils vs. Named Perils: The Most Important Distinction in Your Insurance Policy', description: 'Your HO-3 covers your dwelling on open perils but your contents on named perils only. This split creates coverage gaps most homeowners never discover until they file a claim.' },
+  'emotional-distress-bad-faith-claims': { title: 'Emotional Distress Damages in Insurance Bad Faith Claims', description: 'When an insurer acts in bad faith, the emotional toll is a compensable damage under California law. Key case law, evidence strategies, and how to document distress.' },
 }
 
 // Map slugs to dynamic imports of content modules
@@ -1009,6 +1017,12 @@ const ARTICLE_CONTENT: Record<string, () => Promise<{ meta: { title: string; des
   'remediation-vs-restoration': () => import('@/lib/content/articles/remediation-vs-restoration'),
   'drug-contamination-landlord-claims': () => import('@/lib/content/articles/drug-contamination-landlord-claims'),
   'games-insurers-play-claims-process-grief': () => import('@/lib/content/articles/games-insurers-play-claims-process-grief'),
+  'water-backup-endorsement': () => import('@/lib/content/articles/water-backup-endorsement'),
+  'when-to-hire-industrial-hygienist': () => import('@/lib/content/articles/when-to-hire-industrial-hygienist'),
+  'stigmatized-properties-insurance': () => import('@/lib/content/articles/stigmatized-properties-insurance'),
+  'endorsements-every-homeowner-needs': () => import('@/lib/content/articles/endorsements-every-homeowner-needs'),
+  'open-perils-vs-named-perils': () => import('@/lib/content/articles/open-perils-vs-named-perils'),
+  'emotional-distress-bad-faith-claims': () => import('@/lib/content/articles/emotional-distress-bad-faith-claims'),
 }
 
 interface Props { params: Promise<{ slug: string }> }
@@ -1016,9 +1030,29 @@ interface Props { params: Promise<{ slug: string }> }
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
   const meta = ARTICLE_META[slug]
-  return meta
-    ? { title: meta.title, description: meta.description }
-    : { title: 'Resource Article' }
+  if (!meta) return { title: 'Resource Article' }
+  const url = `https://insuranceclaimsinfo.com/resources/${slug}`
+  return {
+    title: meta.title,
+    description: meta.description,
+    openGraph: {
+      title: meta.title,
+      description: meta.description,
+      url,
+      type: 'article',
+      siteName: 'InsuranceClaimsInfo.com',
+      locale: 'en_US',
+      authors: ['Leland Coontz III'],
+    },
+    twitter: {
+      card: 'summary',
+      title: meta.title,
+      description: meta.description,
+    },
+    alternates: {
+      canonical: url,
+    },
+  }
 }
 
 export function generateStaticParams() {
@@ -1029,6 +1063,23 @@ export default async function ResourceArticlePage({ params }: Props) {
   const { slug } = await params
   const meta = ARTICLE_META[slug]
   const title = meta?.title ?? 'Resource Article'
+  const category = getCategoryForArticle(slug)
+  const ctaVariant = getCtaVariantForArticle(slug)
+  const dates = (articleDates as Record<string, { published: string; modified: string }>)[slug]
+
+  const breadcrumbItems = [
+    { label: 'Home', href: '/' },
+    { label: 'Resources', href: '/resources' },
+    ...(category ? [{ label: category.label, href: `/resources#${category.slug}` }] : []),
+    { label: title },
+  ]
+
+  const jsonLdBreadcrumbs = [
+    { '@type': 'ListItem' as const, position: 1, name: 'Home', item: 'https://insuranceclaimsinfo.com' },
+    { '@type': 'ListItem' as const, position: 2, name: 'Resources', item: 'https://insuranceclaimsinfo.com/resources' },
+    ...(category ? [{ '@type': 'ListItem' as const, position: 3, name: category.label, item: `https://insuranceclaimsinfo.com/resources#${category.slug}` }] : []),
+    { '@type': 'ListItem' as const, position: category ? 4 : 3, name: title },
+  ]
 
   // Try to load article content
   const loader = ARTICLE_CONTENT[slug]
@@ -1047,18 +1098,37 @@ export default async function ResourceArticlePage({ params }: Props) {
               '@type': 'Person',
               name: 'Leland Coontz III',
               jobTitle: 'Licensed Public Adjuster',
+              url: 'https://insuranceclaimsinfo.com/about',
+              sameAs: 'https://insuranceclaimsinfo.com/about',
             },
             publisher: {
               '@type': 'Organization',
               name: 'InsuranceClaimsInfo.com',
               url: 'https://insuranceclaimsinfo.com',
             },
-            mainEntityOfPage: `https://insuranceclaimsinfo.com/resources/${slug}`,
+            mainEntityOfPage: {
+              '@type': 'WebPage',
+              '@id': `https://insuranceclaimsinfo.com/resources/${slug}`,
+            },
+            ...(dates?.published && { datePublished: dates.published }),
+            ...(dates?.modified && { dateModified: dates.modified }),
+            inLanguage: 'en-US',
+            isAccessibleForFree: true,
+            about: {
+              '@type': 'Thing',
+              name: 'Insurance Claims',
+            },
+          }} />
+          <JsonLd data={{
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: jsonLdBreadcrumbs,
           }} />
           <ArticleLayout
             title={title}
             description={meta?.description}
-            backLink={{ href: '/resources', label: 'Back to Resources' }}
+            breadcrumbs={breadcrumbItems}
+            ctaVariant={ctaVariant}
             afterContent={<RelatedArticles currentSlug={slug} />}
           >
             <Content />

@@ -1,15 +1,8 @@
 /**
  * POST /api/leads
  *
- * Receives lead data from:
- *   - Inventory tool (after email/name gate)
- *   - Contact form
- *
- * Phase 1 (current): logs the lead to console (visible in Vercel dashboard → Logs)
- * Phase 2: Uncomment the Resend block below and add RESEND_API_KEY to Vercel env vars
- * Phase 3: Replace with database write (Vercel Postgres, Supabase, Airtable, etc.)
- *
- * To view leads right now: Vercel Dashboard → your project → Logs tab → search "LEAD"
+ * Receives lead data from the inventory tool and contact form.
+ * Logs to console (Vercel Logs) and sends email notification via Resend.
  */
 
 import { NextRequest, NextResponse } from 'next/server'

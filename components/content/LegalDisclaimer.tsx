@@ -1,7 +1,7 @@
 export function LegalDisclaimer({ compact = false }: { compact?: boolean }) {
   if (compact) {
     return (
-      <p className="text-xs text-gray-400 leading-relaxed">
+      <p className="text-xs text-gray-500 leading-relaxed">
         <strong>Disclaimer:</strong> This website provides general educational information about insurance claims.
         It does not constitute legal advice. For help with claim negotiation and documentation, consult a
         licensed Public Adjuster. For legal advice specific to your situation, consult a licensed attorney.

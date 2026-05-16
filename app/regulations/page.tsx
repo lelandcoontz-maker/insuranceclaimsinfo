@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'California Insurance Rules & Regulations | Policyholder Protections',
   description:
     'Learn the California insurance laws that protect policyholders. Covers Insurance Code Section 790 (Unfair Claims Settlement Practices) and 10 CCR 2695 (Fair Claims Settlement Practices Regulations) — the rules your insurer must follow.',
+  alternates: { canonical: '/regulations' },
 }
 
 export default function RegulationsPage() {
@@ -111,7 +112,7 @@ export default function RegulationsPage() {
               section="§790.03(h)(6)"
               title="Compelling Litigation Through Lowball Offers"
               requirement="Insurers cannot compel policyholders to institute litigation to recover amounts due by offering substantially less than the amounts ultimately recovered."
-              whyItMatters="If the insurer offers you $40,000 and you eventually recover $120,000 at trial, that original lowball offer was itself a violation. This provision protects you from being pressured into accepting unfair settlements."
+              whyItMatters="If the insurer offers you $40,000 and you eventually recover $120,000 at trial, that gap is strong evidence of a violation — particularly if it suggests the lowball offer was intended to pressure you into litigation rather than pay what was owed. This provision protects you from being coerced into accepting unfair settlements."
             />
 
             <RegulationCard
@@ -124,8 +125,8 @@ export default function RegulationsPage() {
             <RegulationCard
               section="§790.03(h)(7)"
               title="Attempting to Settle for Less Than a Reasonable Person Would Expect"
-              requirement="Insurers cannot attempt to settle a claim by making a settlement offer for an amount that a reasonable person reading the relevant advertising material would not expect."
-              whyItMatters="Your insurer's marketing promises matter. If they advertised comprehensive protection and then try to settle for a fraction of your loss, this provision gives you leverage."
+              requirement="Insurers cannot attempt to settle a claim for less than the amount a reasonable person would expect to receive based on reading the insurance policy issued to them."
+              whyItMatters="Your policy language defines what you are owed. If the coverage described in your policy supports a significantly higher recovery than what the insurer offers, this provision gives you leverage."
             />
 
             <RegulationCard
@@ -248,7 +249,7 @@ export default function RegulationsPage() {
               section="§2695.9(a)(1)"
               title="Consequential Damage and No Out-of-Pocket Costs"
               requirement="When a loss requires repair or replacement of an item or part, any consequential physical damage incurred in making the repair or replacement not otherwise excluded by the policy shall be included in the loss. The insured shall not have to pay for depreciation nor any other cost except for the applicable deductible."
-              whyItMatters="If the contractor has to remove undamaged cabinets to access a water-damaged wall, the cost of removing and replacing those cabinets is part of the loss. The insured should not bear any cost beyond the deductible — including overhead, profit, and any damage caused by the repair process itself."
+              whyItMatters="If the contractor has to remove undamaged cabinets to access a water-damaged wall, the cost of removing and replacing those cabinets is part of the loss. The regulation's prohibition on 'any other cost' beyond the deductible has been argued to encompass overhead and profit as well, since those are necessary costs a policyholder would otherwise bear out of pocket."
             />
 
             <RegulationCard
@@ -322,13 +323,14 @@ export default function RegulationsPage() {
           </p>
           <p className="mb-2">
             Following <em>Aliff</em>, the FAIR Plan agreed to strike much of the offending language.
-            The ruling is not limited to the FAIR Plan — any admitted California carrier that uses
-            similar narrowing language on smoke claims is exposed to the same challenge, because
+            While this is a trial court ruling without binding precedential effect, the legal reasoning
+            could apply to any admitted California carrier that uses similar narrowing language on
+            smoke claims, because
             &sect; 2071 applies to all fire policies sold in California.
           </p>
           <p className="text-sm italic">
             This is general information, not legal advice. Only a licensed California attorney can
-            advise you on whether <em>Alif</em> applies to your specific policy and claim.
+            advise you on whether <em>Aliff</em> applies to your specific policy and claim.
           </p>
         </CalloutBox>
 

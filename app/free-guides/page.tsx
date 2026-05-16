@@ -7,11 +7,12 @@ import { JsonLd } from '@/components/seo/JsonLd'
 export const metadata: Metadata = {
   title: 'Free Insurance Claim Guides — InsuranceClaimsInfo',
   description:
-    'Free downloadable PDF guides for homeowners dealing with insurance claims. Learn about carrier tactics, the appraisal process, depreciation, and what your policy covers.',
+    'Nine free downloadable PDF guides for homeowners dealing with insurance claims — carrier tactics, appraisal strategy, Xactimate disputes, wildfire recovery, bad faith documentation, depreciation, contents claims, and policy coverage.',
+  alternates: { canonical: '/free-guides' },
   openGraph: {
     title: 'Free Insurance Claim Guides — InsuranceClaimsInfo',
     description:
-      'Free downloadable PDF guides written by a licensed California Public Adjuster. Protect yourself from insurance company tactics.',
+      'Nine free downloadable PDF guides written by a licensed California Public Adjuster. Covers appraisal, Xactimate, wildfire, bad faith, and more.',
     type: 'website',
   },
 }
@@ -22,7 +23,7 @@ const FREE_GUIDES: FreeGuide[] = [
     name: 'Games Insurance Companies Play',
     description:
       'How carriers minimize your claim — and what you can do about it. Covers lowball offers, delay tactics, depreciation abuse, scope shrinking, preferred vendor traps, and policy language weaponization.',
-    icon: '\u{1F3B2}',
+    iconName: 'dices',
     tag: 'Most Popular',
     tagColor: 'bg-red-100 text-red-700',
     fileName: 'Games Insurance Companies Play.pdf',
@@ -36,11 +37,68 @@ const FREE_GUIDES: FreeGuide[] = [
     ],
   },
   {
+    id: 'appraisal-handbook',
+    name: 'The California Appraisal Handbook',
+    description:
+      'Everything you need to know about insurance appraisal in California — from invoking it to winning it. Covers key case law, appraiser selection, umpire process, and strategy.',
+    iconName: 'gavel',
+    tag: 'In-Depth',
+    tagColor: 'bg-purple-100 text-purple-700',
+    fileName: 'appraisal-handbook.pdf',
+    pages: 40,
+    features: [
+      '40+ pages of California-specific appraisal guidance',
+      'Key case law summaries (Sharma, Kacha, Devonwood, Lee)',
+      'Sample appraisal demand letter',
+      'Award form language red flags checklist',
+      'White waiver response template',
+      'Appraiser selection criteria worksheet',
+    ],
+  },
+  {
+    id: 'xactimate-dispute-guide',
+    name: 'Xactimate Dispute Guide: Line by Line',
+    description:
+      'How to read, challenge, and supplement an Xactimate estimate to fight underpayment. Covers the most commonly omitted line items, O&P, and supplement strategy.',
+    iconName: 'ruler',
+    tag: 'Technical',
+    tagColor: 'bg-blue-100 text-blue-700',
+    fileName: 'xactimate-dispute-guide.pdf',
+    pages: 50,
+    features: [
+      '50+ pages with annotated Xactimate examples',
+      '25 most commonly omitted line items checklist',
+      'O&P inclusion argument template',
+      'Supplement letter template',
+      'Labor rate and material pricing guidance',
+      'Room-by-room scope review methodology',
+    ],
+  },
+  {
+    id: 'wildfire-recovery-guide',
+    name: 'California Wildfire Claims Recovery Guide',
+    description:
+      'Step-by-step guidance for total and partial wildfire losses in California. Covers smoke contamination, ALE, contents inventory, and post-disaster regulatory protections.',
+    iconName: 'flame',
+    tag: 'California',
+    tagColor: 'bg-orange-100 text-orange-700',
+    fileName: 'wildfire-recovery-guide.pdf',
+    pages: 35,
+    features: [
+      '35+ pages of wildfire-specific claim guidance',
+      'Forest fire vs. urban wildfire smoke contamination',
+      'Coverage A–D walkthrough for wildfire losses',
+      'ALE documentation checklist and timeline',
+      'Contents inventory methodology for total losses',
+      'Post-disaster regulatory protections summary',
+    ],
+  },
+  {
     id: 'appraisal-process',
     name: 'The Appraisal Process Explained',
     description:
       'Your most powerful tool when the insurance company won\'t pay what you\'re owed. Learn how appraisal works, when to invoke it, and how to win.',
-    icon: '\u{2696}',
+    iconName: 'scale',
     tag: 'Essential',
     tagColor: 'bg-blue-100 text-blue-700',
     fileName: 'The Appraisal Process Explained.pdf',
@@ -54,11 +112,30 @@ const FREE_GUIDES: FreeGuide[] = [
     ],
   },
   {
+    id: 'bad-faith-documentation-kit',
+    name: 'Bad Faith Documentation Kit',
+    description:
+      'Templates and checklists for building a bad faith case from day one of your claim. Includes communication logs, deadline trackers, and sample follow-up letters.',
+    iconName: 'clipboard-check',
+    tag: 'Essential',
+    tagColor: 'bg-amber-100 text-amber-700',
+    fileName: 'bad-faith-documentation-kit.pdf',
+    pages: 29,
+    features: [
+      'Communication log template (printable + digital)',
+      'Regulatory deadline tracker (10 CCR 2695)',
+      'Violation documentation worksheets',
+      'Sample follow-up letters for missed deadlines',
+      'Bad faith indicators checklist',
+      'Guide to the interplay of regulations, statutes, and bad faith',
+    ],
+  },
+  {
     id: 'depreciation-trap',
     name: 'ACV vs. RCV: The Depreciation Trap',
     description:
       'How insurance companies shortchange your claim payout through depreciation abuse. Understand ACV, RCV, recoverable depreciation, and how to fight back.',
-    icon: '\u{1F4C9}',
+    iconName: 'trending-down',
     tag: 'Eye-Opener',
     tagColor: 'bg-amber-100 text-amber-700',
     fileName: 'ACV vs RCV - The Depreciation Trap.pdf',
@@ -72,11 +149,30 @@ const FREE_GUIDES: FreeGuide[] = [
     ],
   },
   {
+    id: 'contents-claim-workbook',
+    name: 'The Complete Contents Claim Workbook',
+    description:
+      'Room-by-room methodology for documenting, valuing, and claiming personal property losses. Covers cleaning vs. replacement, ACV vs. RCV, and how to present your inventory.',
+    iconName: 'armchair',
+    tag: 'Starter',
+    tagColor: 'bg-green-100 text-green-700',
+    fileName: 'contents-claim-workbook.pdf',
+    pages: 19,
+    features: [
+      'Room-by-room inventory worksheets',
+      'Cleaning vs. replacement decision framework',
+      'ACV vs. RCV calculation examples',
+      'Electronics and specialty item valuation guide',
+      'Pack-out and storage documentation checklist',
+      'Sample contents claim submission format',
+    ],
+  },
+  {
     id: 'what-policy-covers',
     name: 'What Your Policy Actually Covers',
     description:
       'A policyholder\'s guide to understanding homeowner\'s insurance. Your policy is more generous than you think — and more generous than your insurer wants you to know.',
-    icon: '\u{1F4D6}',
+    iconName: 'book-open',
     tag: 'Start Here',
     tagColor: 'bg-green-100 text-green-700',
     fileName: 'What Your Policy Actually Covers.pdf',
@@ -141,8 +237,8 @@ export default function FreeGuidesPage() {
       <div className="max-w-6xl mx-auto px-4 pt-10 pb-2">
         <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-6 flex flex-col sm:flex-row gap-6">
           <div className="flex-1 text-center">
-            <p className="text-2xl font-bold text-[#1F3964]">4 Guides</p>
-            <p className="text-gray-600 text-sm">57 total pages</p>
+            <p className="text-2xl font-bold text-[#1F3964]">9 Guides</p>
+            <p className="text-gray-600 text-sm">230+ total pages</p>
           </div>
           <div className="flex-1 text-center">
             <p className="text-2xl font-bold text-[#1F3964]">No Cost</p>
@@ -161,23 +257,6 @@ export default function FreeGuidesPage() {
           {FREE_GUIDES.map(guide => (
             <FreeGuideCard key={guide.id} guide={guide} />
           ))}
-        </div>
-      </div>
-
-      {/* Upsell to paid guides */}
-      <div className="max-w-3xl mx-auto px-4 pb-10">
-        <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-8 text-center">
-          <h2 className="text-xl font-bold text-[#1F3964] mb-3">Want to Go Deeper?</h2>
-          <p className="text-gray-600 text-sm mb-5 max-w-xl mx-auto leading-relaxed">
-            Our premium guides include templates, sample letters, annotated examples,
-            and step-by-step strategies you can apply directly to your claim.
-          </p>
-          <Link
-            href="/guides"
-            className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors text-sm"
-          >
-            View Premium Guides &rarr;
-          </Link>
         </div>
       </div>
 

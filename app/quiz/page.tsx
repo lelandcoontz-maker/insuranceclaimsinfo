@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Property Claims Knowledge Assessment — 100-Question Quiz | InsuranceClaimsInfo.com',
   description: 'Test your knowledge of property insurance claims handling, California regulations, construction scoping, coverage analysis, legal doctrines, and professional standards with this 100-question assessment.',
   keywords: ['property claims quiz', 'claims adjuster test', 'California insurance regulations', 'property claims knowledge assessment', 'insurance knowledge test', 'Public Adjuster exam prep'],
+  alternates: { canonical: '/quiz' },
 }
 
 export default function QuizPage() {

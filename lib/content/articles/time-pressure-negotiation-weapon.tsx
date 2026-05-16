@@ -219,7 +219,7 @@ export default function Content() {
         The Asymmetry of Fatigue
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The critical dynamic of claim fatigue is its asymmetry. The policyholder experiences fatigue personally, immediately, and cumulatively. The carrier does not. The adjuster handling the file may experience professional frustration, but at the end of the day, the adjuster goes home to a house that is not damaged, a family that is not displaced, and a life that is not on hold. The file is one of dozens or hundreds. The emotional stakes are zero.
+        The critical dynamic of claim fatigue is its asymmetry. The policyholder experiences fatigue personally, immediately, and cumulatively. The carrier does not. The adjuster handling the file may experience professional frustration, but the adjuster goes home to a house that is not damaged, a family that is not displaced, and a life that is not on hold. The file is one of dozens or hundreds. The emotional stakes are zero.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This asymmetry means that time itself generates a negotiating concession from the policyholder &mdash; not through any affirmative action by the carrier, but simply through the accumulated weight of the process. The policyholder who would have rejected a $150,000 offer at month three may accept a $130,000 offer at month twelve, not because the claim is worth less, but because the policyholder cannot sustain the fight any longer.

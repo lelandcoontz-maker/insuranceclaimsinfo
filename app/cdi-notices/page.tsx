@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: 'CDI Notices, Bulletins & Guides — Official California Department of Insurance Documents',
   description:
     'Download official California Department of Insurance notices, bulletins, and guides relevant to property insurance claims. Labor depreciation guidance, smoke damage standards, claim-related document requirements, and more.',
+  alternates: { canonical: '/cdi-notices' },
 }
 
 const ANNUAL_GUIDES = [
@@ -98,7 +99,7 @@ function DocumentCard({
       </div>
       <p className="text-sm text-gray-600 leading-relaxed mb-4 flex-1">{description}</p>
       {highlight && (
-        <p className="text-xs font-semibold text-[#C9A84C] bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 mb-4">
+        <p className="text-xs font-semibold text-gold-text bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 mb-4">
           {highlight}
         </p>
       )}

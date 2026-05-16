@@ -32,9 +32,32 @@ export function LeadGateModal({ checkedCount, estimatedTotal, onSubmit, onClose 
     setSubmitting(false)
   }
 
+  function handleKeyDown(e: React.KeyboardEvent) {
+    if (e.key === 'Escape') {
+      onClose()
+      return
+    }
+    if (e.key === 'Tab') {
+      const modal = e.currentTarget as HTMLElement
+      const focusable = modal.querySelectorAll<HTMLElement>(
+        'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+      )
+      if (focusable.length === 0) return
+      const first = focusable[0]
+      const last = focusable[focusable.length - 1]
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault()
+        last.focus()
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault()
+        first.focus()
+      }
+    }
+  }
+
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm" onClick={onClose} onKeyDown={e => { if (e.key === 'Escape') onClose() }}>
-      <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full" role="dialog" aria-modal="true" aria-labelledby="leadgate-modal-title" onClick={e => e.stopPropagation()}>
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm" onClick={onClose}>
+      <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full" role="dialog" aria-modal="true" aria-labelledby="leadgate-modal-title" onClick={e => e.stopPropagation()} onKeyDown={handleKeyDown}>
 
         {/* Header */}
         <div className="bg-[#1F3964] rounded-t-2xl px-6 py-5 text-white">
@@ -96,7 +119,7 @@ export function LeadGateModal({ checkedCount, estimatedTotal, onSubmit, onClose 
               aria-required="true"
               className="w-full border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#1F3964]"
             />
-            <p className="text-xs text-gray-400 mt-1">
+            <p className="text-xs text-gray-500 mt-1">
               We&apos;ll email a link so you can return to your inventory anytime.
             </p>
           </div>
@@ -126,7 +149,7 @@ export function LeadGateModal({ checkedCount, estimatedTotal, onSubmit, onClose 
             {submitting ? 'Preparing...' : 'Download My Inventory (Excel)'}
           </button>
 
-          <p className="text-xs text-gray-400 text-center leading-relaxed">
+          <p className="text-xs text-gray-500 text-center leading-relaxed">
             No spam &mdash; ever. Your information is used only to deliver your inventory
             and, if requested, to contact you about your claim.
           </p>

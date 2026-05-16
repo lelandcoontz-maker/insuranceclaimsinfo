@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CATEGORIES, type ArticleCard } from '@/lib/content/categories'
+import relatedArticlesMap from '@/public/data/related-articles.json'
 
 interface Props {
   currentSlug: string
@@ -25,20 +26,28 @@ export function RelatedArticles({ currentSlug, relatedSlugs }: Props) {
       .filter((a): a is ArticleCard & { categoryLabel: string } => a !== null)
       .slice(0, 4)
   } else {
-    const currentCategory = CATEGORIES.find(cat =>
-      cat.articles.some(a => a.href === currentHref)
-    )
-    if (!currentCategory) return null
-
-    const sameCategory = currentCategory.articles.filter(
-      a => a.href !== currentHref
-    )
-
-    if (sameCategory.length <= 4) {
-      related = sameCategory
+    const autoRelated = (relatedArticlesMap as Record<string, string[]>)[currentSlug]
+    if (autoRelated && autoRelated.length > 0) {
+      related = autoRelated
+        .map(slug => findArticleByHref(`/resources/${slug}`))
+        .filter((a): a is ArticleCard & { categoryLabel: string } => a !== null)
+        .slice(0, 4)
     } else {
-      const shuffled = [...sameCategory].sort(() => Math.random() - 0.5)
-      related = shuffled.slice(0, 4)
+      const currentCategory = CATEGORIES.find(cat =>
+        cat.articles.some(a => a.href === currentHref)
+      )
+      if (!currentCategory) return null
+
+      const sameCategory = currentCategory.articles.filter(
+        a => a.href !== currentHref
+      )
+
+      if (sameCategory.length <= 4) {
+        related = sameCategory
+      } else {
+        const shuffled = [...sameCategory].sort(() => Math.random() - 0.5)
+        related = shuffled.slice(0, 4)
+      }
     }
   }
 

@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'New California Insurance Laws 2025–2026: What Every Policyholder Needs to Know',
   description:
-    'A comprehensive guide to the major California insurance laws enacted in 2025 and 2026, including SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), AB 888 (fire-safe roofs), SB 876 (disaster recovery reform), and building code upgrade minimums.',
+    'A comprehensive guide to California insurance laws enacted and pending in 2025–2026: SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), SB 876 (disaster recovery reform), SB 877 (claims transparency), SB 878 (20% payment penalties), AB 1680 (FAIR Plan overhaul), SB 1301 (180-day nonrenewal notice), and more.',
 }
 
 export default function Content() {
@@ -293,6 +293,229 @@ export default function Content() {
         </Link>.
       </p>
 
+      {/* ====== Pending Legislation ====== */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Pending Legislation: Bills That Could Reshape Insurance in California
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The following bills have advanced through committee and are actively moving through the
+        legislature. None are yet signed into law, and their final form may change. But their scope
+        signals a legislative intent to fundamentally restructure the insurer-policyholder relationship
+        in California.
+      </p>
+
+      {/* ====== SB 877 ====== */}
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        SB 877: Fair Claims Practices and Transparency Act
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Author:</strong> Senator Sasha Renee Perez (D-Pasadena)
+        <br />
+        <strong>Status:</strong> Passed Senate Insurance Committee (April 2026); now in Senate Appropriations
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        SB 877 targets the opacity of the claims adjustment process. If enacted, it would require insurers to:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          Disclose to claimants <strong>every version of every claims-related document</strong> within
+          15 calendar days of creating it.
+        </li>
+        <li>
+          Include <strong>what changed between versions, who approved the change, and why</strong>.
+        </li>
+        <li>
+          Disclose the <strong>full name and title</strong> of every person who created, ordered,
+          reviewed, or approved a document.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This directly addresses the &ldquo;black box&rdquo; problem &mdash; where the insurer produces
+        a number, the policyholder disagrees, and there is no way to see how the number was derived, who
+        approved it, or what changed between the initial estimate and the final offer. When an
+        insurer&rsquo;s estimate drops between versions, the policyholder would know who made the change
+        and what justification was given.
+      </p>
+
+      {/* ====== SB 878 ====== */}
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        SB 878: Insurance Payment Accountability Act
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Author:</strong> Senator Sasha Renee Perez
+        <br />
+        <strong>Status:</strong> Passed Senate (as amended), April 22, 2026; now in Senate Appropriations
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This bill gives California&rsquo;s claims handling deadlines real financial consequences:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          Codifies existing regulatory deadlines for insurer response, acceptance/denial, and payment.
+        </li>
+        <li>
+          Imposes a <strong>20% annual penalty</strong> on insurers who miss deadlines.
+        </li>
+        <li>
+          Penalty includes the overdue claim amount plus 20% annual interest plus{' '}
+          <strong>reasonable and necessary attorney&rsquo;s fees</strong>.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California&rsquo;s fair claims settlement regulations already impose deadlines &mdash; 15 days
+        to acknowledge a claim, 40 days to accept or deny, 30 days to pay after acceptance. But the
+        consequences for violation are diffuse: a CDI complaint, a potential bad faith lawsuit,
+        regulatory action that may or may not materialize. SB 878 would attach a direct, automatic
+        financial penalty. An insurer that sits on your claim for six months would owe the claim amount
+        plus 10% in interest penalties plus your attorney&rsquo;s fees.
+      </p>
+
+      {/* ====== AB 1680 ====== */}
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        AB 1680: Make It FAIR Act
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Author:</strong> Assembly Member Lisa Calderon (Chair, Assembly Insurance Committee)
+        <br />
+        <strong>Sponsor:</strong> Insurance Commissioner Ricardo Lara
+        <br />
+        <strong>Status:</strong> Passed Assembly Insurance Committee (14-1), April 2026; now in Assembly Appropriations
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The FAIR Plan currently offers bare-bones fire coverage. Policyholders who need water damage
+        coverage, personal injury liability, theft protection, or other standard homeowner&rsquo;s
+        coverages must purchase a separate &ldquo;difference in conditions&rdquo; (DIC) policy &mdash;
+        often at significant additional cost and from a different carrier. AB 1680 would require the
+        FAIR Plan to offer <strong>comprehensive homeowner&rsquo;s coverage</strong> comparable to
+        standard HO-3 policies.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Additional provisions include climate risk assessments, public access to Governing Committee
+        meetings, annual reporting requirements, and implementation of reforms identified in CDI&rsquo;s
+        Report of Examination, which found the FAIR Plan failed to comply with 17 recommendations
+        regarding financial condition, corporate governance, and consumer protections.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Over 450,000 California homeowners are now on the FAIR Plan &mdash; many involuntarily, after
+        being nonrenewed by their standard carrier. Requiring them to buy a second policy to get
+        coverage that standard market policyholders receive in a single policy is an additional financial
+        burden on families who are already paying more for less. For more on the FAIR Plan&rsquo;s
+        current coverage and limitations, see the full article on{' '}
+        <Link href="/resources/fair-plan-claims-limitations" className="text-[#2E74B5] underline">
+          FAIR Plan claims
+        </Link>.
+      </p>
+
+      {/* ====== SB 1301 ====== */}
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        SB 1301: Nonrenewal Guardrails to Preserve Coverage Act
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Author:</strong> Senator Ben Allen
+        <br />
+        <strong>Status:</strong> Passed Senate Insurance Committee (April 2026); now in Senate Appropriations
+        <br />
+        <strong>Would take effect:</strong> July 1, 2027
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>180-day nonrenewal notice</strong> &mdash; up from the current 75 days for most
+          homeowner&rsquo;s policies.
+        </li>
+        <li>
+          Insurers must provide <strong>detailed, specific explanations</strong> for nonrenewals,
+          referencing the specific underwriting guideline provision justifying the decision.
+        </li>
+        <li>
+          Must <strong>disclose all information used</strong> in the nonrenewal decision.
+        </li>
+        <li>
+          <strong>Prohibits nonrenewal or cancellation</strong> for merely inquiring about filing a
+          claim or for filing claims within the deductible amount.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The current 75-day nonrenewal notice is often insufficient for homeowners in fire-prone areas to
+        find replacement coverage &mdash; particularly when multiple carriers are simultaneously pulling
+        out of the same regions. Six months gives families meaningful time to shop alternatives, harden
+        their homes, or pursue regulatory relief. The prohibition on retaliation for claim inquiries
+        addresses a real and documented practice: policyholders who call to ask whether something is
+        covered, without filing a claim, and then receive a nonrenewal notice. For more on your rights
+        when your carrier drops you, see the full article on{' '}
+        <Link href="/resources/nonrenewal-cancellation" className="text-[#2E74B5] underline">
+          non-renewal and cancellation
+        </Link>.
+      </p>
+
+      {/* ====== SB 1076 ====== */}
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        SB 1076: Insurance Coverage for Fire-Safe Homes Act (Failed)
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Author:</strong> Senator Sasha Renee Perez
+        <br />
+        <strong>Co-sponsors:</strong> Eaton Fire Survivors Network, Consumer Watchdog
+        <br />
+        <strong>Status:</strong> Died in Senate Insurance Committee, April 23, 2026 &mdash; one vote short
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        SB 1076 would have prohibited admitted insurers from refusing to offer, sell, or renew
+        residential property insurance for homes meeting minimum home hardening and wildfire mitigation
+        standards. Violators would have faced a five-year ban from both home and auto insurance markets
+        in California.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This was the <strong>fourth time since 2020</strong> that legislation requiring insurers to cover
+        fire-hardened homes has failed. The concept represents the most direct legislative approach to
+        the availability crisis &mdash; if you harden your home, you get coverage. Period. Its repeated
+        failure, despite overwhelming public support, illustrates the limits of legislative reform when
+        industry opposition is concentrated and sustained. The concept will return.
+      </p>
+
+      {/* ====== AB 597 ====== */}
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        AB 597: Public Adjuster Fee Caps During Disasters
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Author:</strong> Assembly Member John Harabedian
+        <br />
+        <strong>Status:</strong> Held in committee (status uncertain)
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        AB 597 would cap public adjuster fees at 15% of insurance payouts for claims arising from
+        declared disasters and prohibit public adjuster solicitation while emergency conditions are
+        present. It also includes a right to rescind contracts solicited during prohibited periods.
+        For more on this bill, see the full article on{' '}
+        <Link href="/resources/ab-597-public-adjuster-regulations" className="text-[#2E74B5] underline">
+          AB 597 and public adjuster regulations
+        </Link>.
+      </p>
+
+      {/* ====== Regulatory Actions ====== */}
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        Regulatory Actions (Not Legislation)
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Legislation is only part of the picture. CDI&rsquo;s regulatory actions are reshaping the market
+        in parallel:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Forward-looking catastrophe models:</strong> CDI completed evaluation of the first
+          forward-looking wildfire catastrophe models, allowing insurers to factor in climate change
+          when setting rates &mdash; but requiring them to also credit mitigation efforts.
+        </li>
+        <li>
+          <strong>Proposition 103 intervenor process reforms:</strong> CDI announced reforms to enhance
+          transparency and accountability in rate reviews.
+        </li>
+        <li>
+          <strong>Public catastrophe model:</strong> SB 429 funds the development of the nation&rsquo;s
+          first publicly available wildfire catastrophe model, giving consumers and regulators an
+          independent baseline for challenging rate increases.
+        </li>
+      </ul>
+
       {/* ====== Big Picture ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Bigger Picture: What This Legislative Wave Means
@@ -366,6 +589,22 @@ export default function Content() {
         <li>
           <strong>Building code upgrade coverage</strong> of at least 10% of the dwelling limit
           is mandatory on all homeowner policies issued or renewed after July 1, 2026.
+        </li>
+        <li>
+          <strong>SB 877</strong> (pending) would require insurers to disclose every version of every
+          claims document within 15 days, including who approved changes and why.
+        </li>
+        <li>
+          <strong>SB 878</strong> (pending) would impose a 20% annual penalty plus attorney&rsquo;s
+          fees on insurers who miss claims handling deadlines.
+        </li>
+        <li>
+          <strong>AB 1680</strong> (pending) would require the FAIR Plan to offer comprehensive
+          homeowner&rsquo;s coverage comparable to standard HO-3 policies.
+        </li>
+        <li>
+          <strong>SB 1301</strong> (pending) would extend nonrenewal notice to 180 days and require
+          specific written justifications.
         </li>
         <li>
           Policyholders should review their current policies to understand how these laws affect

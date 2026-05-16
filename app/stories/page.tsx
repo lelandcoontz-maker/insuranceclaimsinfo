@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: 'Real Stories from the Claims Trenches | Games Insurers Play',
   description:
     '35 real insurance claim stories from a California Licensed Public Adjuster — lowball offers, delay tactics, depreciation tricks, preferred vendor traps, and more.',
+  alternates: { canonical: '/stories' },
 }
 
 const PARTS = [
@@ -574,9 +575,10 @@ export default function StoriesPage() {
           </p>
           <p className="text-blue-200 max-w-3xl leading-relaxed text-sm mt-4 italic">
             No specific insurance company is named in any personal anecdote.
-            The patterns described are real; the intent is to illustrate
-            systemic tactics common across the industry, not to single out
-            any one carrier.
+            Where a story references publicly reported litigation or court
+            proceedings that are matters of public record, the facts are drawn
+            from those public sources. The intent is to illustrate systemic
+            tactics common across the industry, not to single out any one carrier.
           </p>
         </div>
       </div>
@@ -637,7 +639,7 @@ export default function StoriesPage() {
               href={`#${part.id}`}
               className="flex items-center gap-2 text-sm text-gray-700 hover:text-[#1F3964] hover:bg-blue-50 rounded-lg px-3 py-2 transition-colors"
             >
-              <span className="text-[#C9A84C] font-bold text-xs">
+              <span className="text-gold-text font-bold text-xs">
                 {part.stories.length}
               </span>
               <span>{part.title}</span>

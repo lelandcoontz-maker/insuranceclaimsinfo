@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { CheckCircle2, BadgeCheck, Banknote, CalendarDays, Lock, MapPin, Globe, Briefcase, Clock, Navigation } from 'lucide-react'
 
 const US_STATES = [
   'Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware',
@@ -64,11 +65,11 @@ export default function ContactPage() {
     return (
       <div className="min-h-[60vh] flex items-center justify-center px-4">
         <div className="max-w-md text-center">
-          <div className="text-5xl mb-4">✅</div>
+          <CheckCircle2 className="w-12 h-12 text-green-500 mx-auto mb-4" />
           <h1 className="text-2xl font-bold text-[#1F3964] mb-3">We'll Be in Touch Soon</h1>
           <p className="text-gray-600 leading-relaxed">
             Thank you, {form.firstName}. We've received your request and will review your information
-            and reach out within 1 business day.
+            and reach out as soon as possible.
           </p>
           {form.state && form.state !== 'California' && (
             <div className="mt-6 bg-amber-50 border border-amber-200 rounded-lg p-4 text-sm text-amber-800">
@@ -88,9 +89,21 @@ export default function ContactPage() {
         <div className="max-w-3xl mx-auto">
           <h1 className="text-3xl font-bold mb-3">Free Claim Review</h1>
           <p className="text-blue-200 max-w-xl leading-relaxed">
-            Tell us about your claim and we'll reach out within 1 business day.
+            Tell us about your claim and we'll reach out as soon as we can.
             No obligation. No fee unless we recover more for you.
           </p>
+        </div>
+      </div>
+
+      {/* Trust badges */}
+      <div className="bg-gray-50 border-b">
+        <div className="max-w-3xl mx-auto px-4 py-4">
+          <div className="flex flex-wrap justify-center gap-6 text-xs text-gray-600">
+            <span className="flex items-center gap-1.5"><BadgeCheck className="w-4 h-4 text-green-600" aria-hidden="true" /> CA License #2B53445</span>
+            <span className="flex items-center gap-1.5"><Banknote className="w-4 h-4 text-green-600" aria-hidden="true" /> No Recovery, No Fee</span>
+            <span className="flex items-center gap-1.5"><CalendarDays className="w-4 h-4 text-green-600" aria-hidden="true" /> 20+ Years Experience</span>
+            <span className="flex items-center gap-1.5"><Lock className="w-4 h-4 text-green-600" aria-hidden="true" /> Your Data Protected</span>
+          </div>
         </div>
       </div>
 
@@ -100,19 +113,29 @@ export default function ContactPage() {
           {/* Sidebar info */}
           <div className="space-y-5">
             {[
-              { icon: '📍', title: 'California Claims', desc: 'Licensed PA in California (Lic. #2B53445). I handle claims directly.' },
-              { icon: '🌎', title: 'Other States', desc: "I have a nationwide referral network. I'll connect you with a vetted Public Adjuster in your state." },
-              { icon: '💼', title: 'No Fee Promise', desc: "Most PA work is contingency — if we don't recover more, you owe nothing." },
-              { icon: '⏱', title: 'Response Time', desc: 'I respond to every inquiry within 1 business day, usually same day.' },
+              { Icon: MapPin, title: 'California Claims', desc: 'Licensed PA in California (Lic. #2B53445). I handle claims directly.' },
+              { Icon: Globe, title: 'Other States', desc: "I have a nationwide referral network. I'll connect you with a vetted Public Adjuster in your state." },
+              { Icon: Briefcase, title: 'No Fee Promise', desc: "Most PA work is contingency — if we don't recover more, you owe nothing." },
+              { Icon: Clock, title: 'Response Time', desc: 'I try to respond to every inquiry within 1–2 business days, often sooner.' },
             ].map(item => (
               <div key={item.title} className="flex gap-3">
-                <span className="text-xl flex-shrink-0" aria-hidden="true">{item.icon}</span>
+                <item.Icon className="w-5 h-5 text-[#2E74B5] flex-shrink-0 mt-0.5" aria-hidden="true" />
                 <div>
                   <p className="font-semibold text-[#1F3964] text-sm">{item.title}</p>
                   <p className="text-gray-500 text-xs leading-relaxed">{item.desc}</p>
                 </div>
               </div>
             ))}
+
+            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mt-4">
+              <p className="text-xs text-blue-800 leading-relaxed">
+                <strong>Why hire a Public Adjuster?</strong> Insurance companies have
+                trained adjusters working for them. A Public Adjuster is the only type of
+                adjuster licensed to represent you. Results vary by claim, but having an
+                experienced advocate who speaks the carrier&apos;s language often makes a
+                significant difference in the outcome.
+              </p>
+            </div>
           </div>
 
           {/* Form */}
@@ -228,15 +251,48 @@ export default function ContactPage() {
               type="submit"
               className="w-full bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold py-3 rounded-lg transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C]"
             >
-              Submit — Request Free Claim Review
+              Get My Free Claim Review
             </button>
 
-            <p className="text-xs text-gray-400 text-center leading-relaxed">
-              Your information is never sold to third parties. For details on how we handle referral
-              information, see our <a href="/privacy" className="underline hover:text-gray-600">Privacy Policy</a>.
-              By submitting, you consent to being contacted about your insurance claim.
+            <p className="text-xs text-gray-500 text-center leading-relaxed">
+              By submitting, you consent to being contacted about your insurance claim. Your information
+              may be shared with licensed professionals who can assist with your claim. For details,
+              see our <a href="/privacy" className="underline hover:text-gray-600">Privacy Policy</a>.
             </p>
           </form>
+        </div>
+
+        {/* Service Area */}
+        <div className="mt-12 border-t pt-10">
+          <div className="flex items-center gap-2 mb-4">
+            <Navigation className="w-5 h-5 text-[#2E74B5]" aria-hidden="true" />
+            <h2 className="text-xl font-bold text-[#1F3964]">Service Area</h2>
+          </div>
+          <p className="text-sm text-gray-600 mb-4 leading-relaxed max-w-2xl">
+            I serve policyholders throughout Los Angeles County and Orange County. As a Public
+            Adjuster, I come to you, whether that means inspecting damage at your property, meeting
+            with your insurance company's adjuster, or attending an appraisal hearing on your behalf.
+          </p>
+          <div className="rounded-lg overflow-hidden border shadow-sm">
+            <iframe
+              title="Service area: Los Angeles County and Orange County, California"
+              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d424400!2d-118.1!3d33.9!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus"
+              width="100%"
+              height="350"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            />
+          </div>
+          <div className="mt-4 flex flex-wrap gap-3">
+            {['Los Angeles County', 'Orange County'].map(area => (
+              <span key={area} className="inline-flex items-center gap-1.5 bg-blue-50 text-[#1F3964] text-xs font-medium px-3 py-1.5 rounded-full">
+                <MapPin className="w-3.5 h-3.5" aria-hidden="true" />
+                {area}
+              </span>
+            ))}
+          </div>
         </div>
       </div>
     </>

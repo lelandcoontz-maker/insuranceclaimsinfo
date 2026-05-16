@@ -905,11 +905,12 @@ export default function Content() {
           rescission.
         </li>
         <li>
-          <strong>Do not admit fault or intent.</strong> Do not tell the insurer&rsquo;s
-          investigator that you &ldquo;knew&rdquo; you should have disclosed something or that you
-          &ldquo;intentionally&rdquo; withheld information. These statements, even if made
-          casually, can be used to establish the willfulness element under IC 2071. Be truthful,
-          but be careful. Have an attorney present for any{' '}
+          <strong>Understand how statements affect the willfulness element.</strong> Casual
+          statements acknowledging that information was &ldquo;known&rdquo; or
+          &ldquo;intentionally&rdquo; withheld can be used to establish the willfulness element
+          under IC 2071 &mdash; even when the policyholder did not intend them that way.
+          Policyholders facing an insurer investigation should consult with an attorney before
+          making any statements, and should have counsel present for any{' '}
           <Link href="/resources/examination-under-oath" className="text-[#2E74B5] underline">
             examination under oath
           </Link>

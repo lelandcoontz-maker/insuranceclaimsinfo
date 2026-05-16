@@ -113,7 +113,7 @@ export function LeadCaptureForm({ claimType, heading, description }: LeadCapture
         >
           Request Free Consultation
         </button>
-        <p className="text-xs text-gray-400 text-center">
+        <p className="text-xs text-gray-500 text-center">
           Your information is never sold or shared. By submitting, you consent to being contacted about your claim.
         </p>
       </form>

@@ -5,13 +5,14 @@ const config: Config = {
     './pages/**/*.{js,ts,jsx,tsx,mdx}',
     './components/**/*.{js,ts,jsx,tsx,mdx}',
     './app/**/*.{js,ts,jsx,tsx,mdx}',
+    './lib/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
     extend: {
       colors: {
         // Brand palette — update these to retheme the entire site
         navy:  { DEFAULT: '#1F3964', light: '#2E74B5', dark: '#162847' },
-        gold:  { DEFAULT: '#C9A84C', light: '#E8C96A', dark: '#A8872E' },
+        gold:  { DEFAULT: '#C9A84C', light: '#E8C96A', dark: '#A8872E', text: '#8C6D1F' },
         sky:   { DEFAULT: '#EFF4FB', dark: '#BDD7EE' },
       },
       fontFamily: {

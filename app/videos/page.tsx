@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: 'Videos & Media — Leland Coontz on Insurance Claims | InsuranceClaimsInfo',
   description:
     'Watch videos by Leland Coontz, California Licensed Public Adjuster — Xactimate estimating, fire and smoke damage, claims strategy, insurance law, and media appearances including NPR Planet Money.',
+  alternates: { canonical: '/videos' },
 }
 
 /* ------------------------------------------------------------------ */
@@ -77,7 +78,7 @@ const VIDEOS: Video[] = [
     date: '2021-04-10',
     description: 'How adjusters consistently miss electrical damage on property claims — and the line items you need to capture it.',
     category: 'Xactimate & Estimating',
-    pending: true,
+    youtubeId: '68bA_dLdjTw',
   },
   {
     id: 'xact-wall-heights',
@@ -93,7 +94,7 @@ const VIDEOS: Video[] = [
     date: '2022-06-23',
     description: 'Why old construction labor is slower, harder, and more expensive — and how to price it correctly in Xactimate.',
     category: 'Xactimate & Estimating',
-    pending: true,
+    youtubeId: '_yUOQ-L9QEM',
   },
   {
     id: 'xact-line-item-reports',
@@ -119,7 +120,7 @@ const VIDEOS: Video[] = [
     date: '2022-11-13',
     description: 'When a fire releases asbestos, every appliance in the home is contaminated. Here\'s why cleaning isn\'t enough and replacement is the standard.',
     category: 'Fire & Smoke Damage',
-    pending: true,
+    youtubeId: '_RHnb8pvnKM',
   },
   {
     id: 'fire-burn-learn',
@@ -127,7 +128,7 @@ const VIDEOS: Video[] = [
     date: '2015-09-17',
     description: 'Hands-on fire cause and origin training — understanding burn patterns, char depth, and how investigators determine where a fire started.',
     category: 'Fire & Smoke Damage',
-    pending: true,
+    youtubeId: 'hFWQvqwn1hk',
   },
   {
     id: 'fire-efficient-proximate',
@@ -469,14 +470,18 @@ export default function VideosPage() {
                       </p>
                       <p className="text-sm text-gray-600 leading-relaxed">{video.description}</p>
                       {video.youtubeId && (
-                        <a
-                          href={`https://www.youtube.com/watch?v=${video.youtubeId}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="inline-block mt-2 text-xs font-medium px-3 py-1.5 rounded-full bg-red-50 text-red-700 hover:bg-red-100 transition-colors"
-                        >
-                          Watch on YouTube &rarr;
-                        </a>
+                        <div className="mt-3">
+                          <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+                            <iframe
+                              src={`https://www.youtube-nocookie.com/embed/${video.youtubeId}`}
+                              title={video.title}
+                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                              allowFullScreen
+                              loading="lazy"
+                              className="absolute inset-0 w-full h-full rounded-lg"
+                            />
+                          </div>
+                        </div>
                       )}
                     </div>
                   </div>
@@ -492,12 +497,20 @@ export default function VideosPage() {
           <p className="text-sm text-gray-700 leading-relaxed">
             Leland has recorded over 100 educational videos covering Xactimate estimating,
             fire and smoke damage, water losses, insurance law, construction details, and claims
-            strategy. These videos are being organized and uploaded — check back regularly for
-            new content, or{' '}
+            strategy. New videos are added regularly — subscribe to the{' '}
+            <a
+              href="https://www.youtube.com/@lelandcoontz8057"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#2E74B5] underline"
+            >
+              YouTube channel
+            </a>{' '}
+            for updates, or{' '}
             <Link href="/contact" className="text-[#2E74B5] underline">
               contact us
             </Link>{' '}
-            to be notified when new videos are posted.
+            to be notified directly.
           </p>
         </div>
 

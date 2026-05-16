@@ -665,7 +665,7 @@ export default function Content() {
         cost. The unfair claims settlement practices statute prohibits carriers from refusing to pay
         what claims are worth. And the implied covenant of good faith and fair dealing &mdash;
         recognized in every California insurance contract since{' '}
-        <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 17 Cal.3d 860 &mdash; requires carriers to
+        <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 9 Cal.3d 566 &mdash; requires carriers to
         place the insured&apos;s interests at least equal to their own.
       </p>
 
@@ -833,7 +833,7 @@ export default function Content() {
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 17 Cal.3d 860 &mdash; Establishing the
+          <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 9 Cal.3d 566 &mdash; Establishing the
           implied covenant of good faith and fair dealing in insurance contracts.
         </li>
         <li>

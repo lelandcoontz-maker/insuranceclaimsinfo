@@ -87,7 +87,7 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
           <span className="text-gray-300" aria-hidden="true">|</span>
           <button
             onClick={() => setShowForm(true)}
-            className="text-sm font-semibold text-[#C9A84C] hover:text-[#A8872E] transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C] rounded"
+            className="text-sm font-semibold text-gold-text hover:text-[#A8872E] transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C] rounded"
           >
             Download Template
           </button>
