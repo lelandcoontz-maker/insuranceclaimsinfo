@@ -781,7 +781,8 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
             <p>
               Not necessarily. While mold can develop over time from chronic water intrusion, it
               can also develop remarkably quickly after a sudden and accidental water event —
-              sometimes within 24 to 48 hours in warm, humid conditions. The presence of mold
+              mold spores can begin colonizing in as little as 24 to 48 hours under warm, humid
+              conditions, and visible mold growth can appear within one to two weeks. The presence of mold
               alone does not prove that the water damage is "long-term" or the result of a
               maintenance issue rather than a covered peril. The insurer needs to conduct a proper
               investigation to determine the actual cause of the water damage rather than jumping
@@ -831,7 +832,9 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               leak or humidity), not for mold that is a direct consequence of an already-covered
               water event. California courts have addressed this distinction, and many
               policyholders have successfully argued that consequential mold should be covered
-              under the main claim.
+              under the main claim. However, some policies have been drafted to apply the mold
+              sublimit to all mold remediation regardless of cause — review your specific policy
+              language carefully.
             </p>
             <p>
               Review your contractor's invoice to see how the charges are broken down. The drying
@@ -866,7 +869,8 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
               insurer must demonstrate actual prejudice — meaning they were actually harmed by
               the late notice — before they can deny a claim on that basis. This is known as
               the "notice-prejudice rule," and it is well established in California law (see{' '}
-              <em>Shell Oil Co. v. Winterthur Swiss Ins. Co.</em> and subsequent cases).
+              <em>Shell Oil Co. v. Winterthur Swiss Ins. Co.</em> (1993) 12 Cal.App.4th 715;
+              see also <em>Clemmer v. Hartford Insurance Co.</em> (1978) 22 Cal.3d 865).
             </p>
             <p>
               In your situation, you did not know about the damage until recently because the
