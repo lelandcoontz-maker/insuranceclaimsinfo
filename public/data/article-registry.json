@@ -79,6 +79,10 @@
     "title": "ALE Advance Payments: The ",
     "description": "When your insurance company says they will only pay Additional Living Expenses after you spend the money — why that position is often wrong, what California law requires, and how to get advance ALE payments without fronting your own cash."
   },
+  "ale-basics-what-is-covered": {
+    "title": "What 'Additional Living Expenses' Covers When You Can't Live at Home",
+    "description": "A complete guide to Additional Living Expenses (ALE) coverage — what qualifies, what does not, how long benefits last, and how insurers try to cut them short."
+  },
   "ale-frv": {
     "title": "Additional Living Expenses & Fair Rental Value",
     "description": "Understanding your ALE and FRV coverage: what qualifies, how to document expenses, and how to counter common insurer tactics that limit your benefits."
@@ -86,6 +90,10 @@
   "animal-pest-damage": {
     "title": "Animal and Pest Damage Insurance Claims: What Is Covered and What Is Not",
     "description": "How animal and pest damage is handled under homeowner insurance policies in California — the rodent exclusion, raccoon contamination, resulting damage doctrine, and how to fight common denials."
+  },
+  "annual-policy-review": {
+    "title": "How to Review Your Insurance Policy Before You Need It",
+    "description": "An annual policy review checklist for California homeowners: what to look for, what questions to ask your agent, and how to identify coverage gaps before a loss exposes them."
   },
   "anti-concurrent-causation": {
     "title": "Anti-Concurrent Causation Clauses: What They Are, Why They Matter, and Why California Ignores Them",
@@ -131,6 +139,10 @@
     "title": "Bad Faith Damages in California: What You Can Actually Recover",
     "description": "A detailed guide to the damages available when a California insurer acts in bad faith — contract damages, consequential losses, emotional distress, punitive damages, Brandt fees, and elder abuse enhancements."
   },
+  "bad-faith-explained": {
+    "title": "What Is ",
+    "description": "A plain-language primer on insurance bad faith in California: what it means, how to recognize it, key case law, available damages, and when to call a lawyer."
+  },
   "bad-faith": {
     "title": "Bad Faith Insurance Practices",
     "description": "Learn what constitutes bad faith by an insurance company in California, how to document it, the legal standards involved, and why building a paper trail from day one is essential."
@@ -138,6 +150,10 @@
   "balloon-vs-platform-framing": {
     "title": "Balloon Framing vs. Platform Framing: Why Your Home’s Construction Method Matters for Insurance Claims",
     "description": "Understanding balloon framing vs. platform framing — how your home’s construction method affects fire spread, water damage, mold growth, and why carriers routinely underestimate damage in balloon-framed homes."
+  },
+  "basement-flooding-coverage": {
+    "title": "My Basement Flooded — Is That Covered?",
+    "description": "Is basement flooding covered by homeowner's insurance? Explains the three different coverages people confuse: flood insurance (NFIP), water backup endorsement, and surface water — plus when a standard HO-3 policy does cover basement water damage."
   },
   "bedbug-coverage": {
     "title": "Does Homeowner Insurance Cover Bedbugs? Almost Certainly Not — Here Is Why",
@@ -327,6 +343,10 @@
     "title": "Certificates of Insurance: What They Actually Prove and What They Do Not",
     "description": "A certificate of insurance is not a contract and does not guarantee coverage. Learn why relying on a COI can leave businesses, property owners, and contractors exposed, and what verification steps actually protect your interests."
   },
+  "choosing-homeowner-policy": {
+    "title": "How to Choose a Homeowner Insurance Policy in California",
+    "description": "A policyholder-first guide to choosing homeowner insurance in California: what to prioritize beyond price, the admitted vs. surplus lines distinction, and navigating the current market crisis."
+  },
   "choosing-your-contractor": {
     "title": "Choosing Your Contractor After an Insurance Loss",
     "description": "You have the legal right to choose your own contractor. How to select one, what to watch for, and how to handle the insurance company's preferred vendor pressure."
@@ -338,6 +358,10 @@
   "civil-authority-utility-services": {
     "title": "Civil Authority Coverage, Ingress/Egress, and Utility Services in Commercial Insurance",
     "description": "Civil authority coverage, ingress/egress endorsements, and utility service endorsements protect businesses when government orders, physical barriers, or utility failures cause income loss — even without damage to your own property. Learn the coverage triggers, ISO form numbers, and how to negotiate broader protection before the next disaster."
+  },
+  "claim-denied-options": {
+    "title": "My Claim Was Denied — What Are My Options?",
+    "description": "A step-by-step guide for California homeowners whose insurance claim was denied: how to understand the denial, gather evidence, appeal, file a CDI complaint, and get professional help."
   },
   "claim-negotiation-letters": {
     "title": "How to Write an Effective Insurance Claim Letter",
@@ -607,6 +631,10 @@
     "title": "Divorce, Separation, and Insurance Claims: Protecting Your Coverage When Your Marriage Ends",
     "description": "When divorce or separation collides with a pending insurance claim, the results can be devastating. Learn who has authority to file and settle claims during separation, how the innocent co-insured doctrine protects you from spousal arson, what happens to community property insurance proceeds, and practical steps to prevent your claim from falling through the cracks."
   },
+  "do-i-need-a-lawyer": {
+    "title": "Do I Need a Lawyer for My Insurance Claim?",
+    "description": "A decision framework for California policyholders: when a public adjuster is enough, when you need an attorney, how fees work, and what to look for when hiring."
+  },
   "dog-breed-restrictions-insurance": {
     "title": "Dog Breed Restrictions and Home Insurance: When Your Pet Puts Your Coverage at Risk",
     "description": "Many insurers maintain breed restriction lists that can result in policy cancellation, non-renewal, or liability exclusion. Learn what breeds are affected, California law, and how to protect coverage."
@@ -763,9 +791,17 @@
     "title": "Government Report: FEMA Fails to Oversee Flood Insurance Companies",
     "description": "The DHS Inspector General found FEMA does not adequately oversee the companies handling flood insurance claims — leaving policyholders without protection."
   },
+  "file-cdi-complaint-guide": {
+    "title": "How to File a Complaint With the California Department of Insurance",
+    "description": "A step-by-step guide to filing a CDI complaint: what to include, what CDI can and cannot do, realistic timelines, and how to use the complaint process as leverage."
+  },
   "fire-claim-denied": {
     "title": "Fire Damage Insurance Claim Denied? Here's What to Do",
     "description": "What to do when your fire damage insurance claim is denied or underpaid — common denial reasons, your appeal rights, and how to challenge the denial under California law."
+  },
+  "fire-damage-beginners-guide": {
+    "title": "My House Was Damaged by Fire — A Beginner",
+    "description": "A complete beginner's guide to fire damage insurance claims: the first 72 hours, ALE coverage, contents, smoke damage, timelines, and how to navigate the parallel tracks of dwelling, contents, and living expenses."
   },
   "fire-debris-cleanup-without-fire": {
     "title": "Fire Debris and Ash Contamination on Properties That Did Not Burn: Coverage, Cleanup, and the Cost Gap",
@@ -919,6 +955,14 @@
     "title": "How to Challenge an Xactimate Estimate: A Step-by-Step Guide",
     "description": "A practical guide for policyholders, public adjusters, and attorneys on identifying errors in an insurance carrier&apos;s Xactimate estimate and building an effective challenge."
   },
+  "how-to-document-damage": {
+    "title": "How to Document Damage for Your Insurance Claim",
+    "description": "A step-by-step guide to photographing, videoing, and recording property damage so your insurance company cannot minimize or deny your claim."
+  },
+  "how-to-read-insurance-estimate": {
+    "title": "How to Read the Estimate Your Insurance Company Sent You",
+    "description": "A plain-language guide to understanding Xactimate estimates, line items, depreciation schedules, and what to question when the numbers seem low."
+  },
   "how-to-read-verisk-white-paper": {
     "title": "How to Read a Verisk White Paper: The Public Documentation Most Adjusters Have Never Seen",
     "description": "Verisk publishes white papers explaining how Xactimate pricing works, what is and is not included in unit costs, and how settings should be configured. These publicly available documents frequently support the policyholder&apos;s position more than the carrier&apos;s."
@@ -1011,6 +1055,10 @@
     "title": "Insurance Myths Exposed: What Your Adjuster Won",
     "description": "Common property insurance myths debunked with California case law, statutes, and regulations. From carrier misinformation to policyholder misunderstandings — what the law actually says."
   },
+  "insurance-offer-now-what": {
+    "title": "Your Insurance Company Made an Offer — Now What?",
+    "description": "How to evaluate your insurance settlement offer, understand your options, and decide whether to accept, negotiate, or dispute the amount."
+  },
   "insurance-properties-probate": {
     "title": "Insurance for Properties in Probate: Protecting Estate Assets Between Death and Distribution",
     "description": "When a homeowner dies, their property enters legal limbo during probate. Learn how the 30-day death clause works, what insurance options executors have, and how to prevent catastrophic coverage gaps on estate property in California."
@@ -1039,6 +1087,10 @@
     "title": "Insurer Fraud vs. Bad Faith: Where Is the Line?",
     "description": "When does insurance company misconduct cross from bad faith into actual fraud? This article explains the legal distinction, different elements of proof, statutes of limitations, punitive damages, and real-life examples where courts found fraud or rejected fraud claims against insurers."
   },
+  "insurer-goes-out-of-business": {
+    "title": "What Happens If My Insurance Company Goes Out of Business?",
+    "description": "How CIGA (California Insurance Guarantee Association) protects policyholders when an insurer becomes insolvent, what is covered, what is not, and how to check if your carrier is admitted."
+  },
   "insurer-insolvency-ciga": {
     "title": "When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know",
     "description": "What happens when your California insurance company is declared insolvent. How the California Insurance Guarantee Association (CIGA) works, coverage caps, surplus lines gaps, the claims process, and how to protect yourself in today’s volatile insurance market."
@@ -1046,6 +1098,10 @@
   "insurer-insolvency-guaranty-fund": {
     "title": "When Your Insurance Company Fails: The Guaranty Fund Safety Net and Its Limits",
     "description": "What happens when an insurance company becomes insolvent in California. How the California Insurance Guarantee Association (CIGA) works, the $500,000 cap, covered and non-covered claims, and how to protect yourself."
+  },
+  "insurer-not-responding": {
+    "title": "What to Do When Your Insurance Company Stops Returning Calls",
+    "description": "A concrete escalation path when your insurer goes silent: supervisor requests, written demands, CDI complaints, and California regulatory deadlines they must meet."
   },
   "insurer-obligations-cheat-sheet": {
     "title": "What Your Insurance Company Is Required to Do — The Cheat Sheet",
@@ -1143,6 +1199,10 @@
     "title": "Loss Settlement Provisions: How Your Insurance Payout Is Actually Calculated",
     "description": "The loss settlement clause in your homeowner policy determines everything about how you get paid. Learn how ACV, RCV, holdback, and rebuilding requirements work."
   },
+  "lowball-offer-what-to-do": {
+    "title": "My Insurance Company Is Lowballing Me — What Can I Do?",
+    "description": "How to recognize and fight a lowball insurance settlement: get your own estimate, negotiate in writing, invoke appraisal, and know when the gap signals bad faith."
+  },
   "managed-repair-program-drp": {
     "title": "The Managed Repair Program from the Inside: How DRP Scoring Works",
     "description": "How Direct Repair Programs score contractors on supplement ratios, claim costs, and cycle time — and why those metrics create incentives that work against policyholders. Know your right to opt out."
@@ -1230,6 +1290,10 @@
   "named-insured-vs-an-insured": {
     "title": "The Named Insured vs. ",
     "description": "Your insurance policy draws a sharp line between "
+  },
+  "named-perils-vs-open-perils": {
+    "title": "Named Perils vs. Open Perils: Why Your Contents Aren't Covered the Same as Your House",
+    "description": "The HO-3 split explained: your dwelling is covered for all risks, but your personal property is only covered for specific named perils. What this means and how to fix it."
   },
   "named-vs-additional-insured": {
     "title": "Named Insured vs. Additional Insured: Who Actually Has Rights Under Your Policy?",
@@ -1335,6 +1399,10 @@
     "title": "Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?",
     "description": "The period of restoration determines how long your insurer pays business income or additional living expenses after a loss. Learn why it is one of the most litigated terms in property insurance, how insurers shorten the period, and how to protect your recovery."
   },
+  "personal-property-inventory-guide": {
+    "title": "How to Make a Personal Property (Contents) List After a Loss",
+    "description": "Practical techniques for remembering and documenting every item in your home for your insurance contents claim, including the room-by-room method, day-in-the-life approach, and using digital records."
+  },
   "personal-property-special-considerations": {
     "title": "Special Considerations for Certain Types of Personal Property",
     "description": "Electronics, Oriental rugs, and landscaping present unique property insurance challenges. Learn about surge damage documentation, rug valuations, and the tree sub-limit trap."
@@ -1406,6 +1474,10 @@
   "preferred-vendor-problems": {
     "title": "Preferred Vendor Problems: When the Insurer Controls Your Repairs",
     "description": "What happens when the insurance company directs your mitigation or repairs through their preferred vendor — and the consequences when they pull the vendor too early or control the scope."
+  },
+  "prepare-for-adjuster-inspection": {
+    "title": "The Adjuster Is Coming to My House — How to Prepare",
+    "description": "What to have ready, what to show, what to say, and what NOT to sign when the insurance adjuster inspects your property damage."
   },
   "professional-services-insurance-claims": {
     "title": "Professional Services Firm Insurance Claims: Law Firms, Accounting Firms, and the Client Retention Crisis",
@@ -1495,6 +1567,10 @@
     "title": "Repair First or Negotiate First: The Strategic Dilemma at the Heart of Every Property Insurance Claim",
     "description": "Should you complete repairs and present invoices, or negotiate the settlement before starting work? The strategic advantages, risks, and California-specific regulations that drive this critical decision."
   },
+  "replacement-cost-explained": {
+    "title": "What 'Replacement Cost' Means and Why It Matters More Than You Think",
+    "description": "How replacement cost coverage works in practice — the holdback, the rebuild requirement, the deadline to complete repairs, and the most common way policyholders lose money on replacement cost claims."
+  },
   "replacement-cost-vs-guaranteed": {
     "title": "Replacement Cost vs. 100% Replacement Cost (Guaranteed, Extended, or Unlimited): The Difference That Could Cost You Hundreds of Thousands",
     "description": "Standard replacement cost, extended replacement cost, and guaranteed (100% or unlimited) replacement cost are not the same thing. Learn how each one works, what California law requires, and why the distinction matters most after a disaster."
@@ -1550,6 +1626,10 @@
   "roof-damage": {
     "title": "Roof Damage Insurance Claims in California",
     "description": "How to handle a roof damage insurance claim in California — common causes, what's covered, insurer inspections, matching disputes, and how to get the full settlement you're owed."
+  },
+  "roof-leak-storm-damage": {
+    "title": "My Roof Is Leaking After a Storm — Will Insurance Pay?",
+    "description": "Will your homeowner's insurance pay for a roof leak after a storm? Covers storm damage vs. wear and tear, when to file, the matching rule, cosmetic damage exclusions, the EPC doctrine, and how to document wind damage."
   },
   "roof-waste-factor": {
     "title": "Roof Waste Factor: How to Calculate It and Why Insurance Companies Get It Wrong",
@@ -1791,6 +1871,10 @@
     "title": "Temporary and Emergency Repairs: The Duty to Mitigate and the Duty to Preserve Evidence",
     "description": "A comprehensive guide to emergency repairs after a property loss in California. Covers the duty to mitigate, the duty to preserve evidence, how to balance both obligations, what is considered reasonable, documentation requirements, and common emergency repair scenarios."
   },
+  "ten-things-before-a-loss": {
+    "title": "10 Things Every California Homeowner Should Know Before a Loss",
+    "description": "Pre-loss preparation checklist for California homeowners: read your dec page, photograph everything, know your limits, understand your deductible, and more."
+  },
   "tenant-improvements-betterments": {
     "title": "Tenant Improvements and Betterments: Coverage Across Commercial, Condo, Flood, and Renters Policies",
     "description": "A comprehensive guide to tenant improvements and betterments coverage across commercial property policies (ISO CP 00 10), HO-6 condo policies, NFIP flood insurance, and HO-4 renters insurance &mdash; including valuation methods, common disputes, and how to protect your interest before a loss occurs."
@@ -1806,6 +1890,10 @@
   "theft-burglary-claims": {
     "title": "Theft and Burglary Insurance Claims: What Policyholders Need to Know",
     "description": "A comprehensive guide to filing theft and burglary claims under homeowner insurance policies. Covers Coverage A, B, and C, sublimits, mysterious disappearance, vacancy exclusions, SIU investigations, and California-specific rules."
+  },
+  "theft-vandalism-claim-guide": {
+    "title": "Someone Broke Into My House — Filing a Vandalism or Theft Claim",
+    "description": "How to file a homeowner's insurance claim after a burglary or vandalism: police reports, documenting stolen items, sublimits, the SIU process, and how to avoid common mistakes that get theft claims denied."
   },
   "thermal-heat-damage": {
     "title": "Thermal and Heat Damage from Nearby Wildfires: The Hidden Damage Your Insurer May Miss",
@@ -1870,6 +1958,14 @@
   "underinsured-after-wildfire": {
     "title": "Underinsured After a Wildfire: What to Do When Your Policy Isn't Enough",
     "description": "Why so many California homeowners are underinsured after a wildfire — and strategies to maximize recovery when your policy limits fall short of actual rebuild costs."
+  },
+  "underinsured-how-to-fix": {
+    "title": "Why Your Home Might Be Underinsured — and How to Fix It",
+    "description": "Construction costs have risen dramatically since 2020. Most California homeowners are underinsured without knowing it. Here is how to identify the gap and close it before a loss."
+  },
+  "understanding-your-deductible": {
+    "title": "Your Deductible: What It Is, How It Works, and When It Doesn't Apply",
+    "description": "A clear explanation of how insurance deductibles work — flat vs. percentage, hurricane deductibles, how they apply to replacement cost claims, and when the insurer must waive them."
   },
   "undue-influence-insurance": {
     "title": "Undue Influence and Insurance Policy Changes: When Someone Manipulates an Elderly Policyholder’s Coverage",
@@ -1943,6 +2039,10 @@
     "title": "Water Damage Insurance Claims: A Complete Guide",
     "description": "How to handle water damage insurance claims — from emergency response to final settlement. Covers sudden vs. gradual leaks, slab leaks, and common carrier disputes."
   },
+  "water-leak-what-to-do": {
+    "title": "I Had a Water Leak — What Do I Do Right Now?",
+    "description": "Step-by-step guide for handling a water leak in your home: emergency mitigation, what insurance covers, mold prevention timeline, documentation tips, and what NOT to do before the adjuster arrives."
+  },
   "wear-and-tear-cause-of-loss": {
     "title": "Wear and Tear Is a Cause of Loss Exclusion — Not a Condition of Property Exclusion",
     "description": "The most misunderstood exclusion in property insurance. Your policy excludes wear and tear as a CAUSE OF LOSS — it does not exclude damage to property that happens to be worn. If wind blew the shingles off, wear and tear didn't cause the loss. Wind did."
@@ -1950,6 +2050,10 @@
   "wear-and-tear-exclusion": {
     "title": "The Wear and Tear Exclusion: When Insurance Companies Confuse Condition with Causation",
     "description": "The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why "
+  },
+  "what-does-homeowner-policy-cover": {
+    "title": "What Does My Homeowner Policy Actually Cover?",
+    "description": "A plain-language walkthrough of what your homeowners insurance covers — dwelling, other structures, personal property, loss of use, and liability — plus common misconceptions about what is and is not included."
   },
   "what-is-homeowners-insurance": {
     "title": "What Is Homeowners Insurance?",
@@ -2002,6 +2106,10 @@
   "wind-damage-claims": {
     "title": "Wind Damage Insurance Claims",
     "description": "How wind damage claims work, what's covered, disputes over wind vs. wear-and-tear, and how to document and fight for your full settlement."
+  },
+  "writing-effective-insurance-letter": {
+    "title": "How to Write a Letter to Your Insurance Company That Gets Results",
+    "description": "Template structure, tone guidance, and regulatory citations for writing demand letters and formal correspondence that moves your insurance claim forward."
   },
   "xactimate-how-it-works": {
     "title": "How Xactimate Works: A Policyholder",

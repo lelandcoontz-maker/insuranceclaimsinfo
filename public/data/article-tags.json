@@ -204,6 +204,16 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "ale-basics-what-is-covered": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "ale-frv": {
     "audience": [
       "mid-claim"
@@ -224,6 +234,16 @@
     "contentType": "guide",
     "jurisdiction": "california",
     "subcategory": "environmental"
+  },
+  "annual-policy-review": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
   },
   "anti-concurrent-causation": {
     "audience": [
@@ -339,6 +359,16 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "bad-faith-explained": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "bad-faith": {
     "audience": [
       "professional"
@@ -361,6 +391,16 @@
     "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "fire-smoke"
+  },
+  "basement-flooding-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "federal"
   },
   "bedbug-coverage": {
     "audience": [
@@ -842,6 +882,16 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
+  "choosing-homeowner-policy": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "choosing-your-contractor": {
     "audience": [
       "professional"
@@ -868,6 +918,16 @@
     ],
     "claimType": [
       "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "claim-denied-options": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
     ],
     "contentType": "guide",
     "jurisdiction": "california"
@@ -1564,6 +1624,16 @@
     "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
+  "do-i-need-a-lawyer": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
   "dog-breed-restrictions-insurance": {
     "audience": [
       "professional"
@@ -1965,6 +2035,16 @@
     "contentType": "reference",
     "jurisdiction": "federal"
   },
+  "file-cdi-complaint-guide": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "fire-claim-denied": {
     "audience": [
       "mid-claim"
@@ -1975,6 +2055,19 @@
     "contentType": "guide",
     "jurisdiction": "california",
     "subcategory": "fire-smoke"
+  },
+  "fire-damage-beginners-guide": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "smoke",
+      "contents",
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
   },
   "fire-debris-cleanup-without-fire": {
     "audience": [
@@ -2372,6 +2465,26 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "how-to-document-damage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "how-to-read-insurance-estimate": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "how-to-read-verisk-white-paper": {
     "audience": [
       "professional"
@@ -2607,6 +2720,16 @@
     "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
+  "insurance-offer-now-what": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "insurance-properties-probate": {
     "audience": [
       "professional"
@@ -2678,6 +2801,16 @@
     "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
+  "insurer-goes-out-of-business": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "insurer-insolvency-ciga": {
     "audience": [
       "professional"
@@ -2696,6 +2829,16 @@
       "general"
     ],
     "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurer-not-responding": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "insurer-obligations-cheat-sheet": {
@@ -2947,6 +3090,16 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
+  "lowball-offer-what-to-do": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "managed-repair-program-drp": {
     "audience": [
       "mid-claim"
@@ -3170,6 +3323,16 @@
       "general"
     ],
     "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "named-perils-vs-open-perils": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "named-vs-additional-insured": {
@@ -3448,6 +3611,16 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "personal-property-inventory-guide": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "personal-property-special-considerations": {
     "audience": [
       "mid-claim"
@@ -3631,6 +3804,16 @@
       "general"
     ],
     "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "prepare-for-adjuster-inspection": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "professional-services-insurance-claims": {
@@ -3857,6 +4040,16 @@
     "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
+  "replacement-cost-explained": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
   "replacement-cost-vs-guaranteed": {
     "audience": [
       "mid-claim"
@@ -3995,6 +4188,17 @@
       "mid-claim"
     ],
     "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "roof-leak-storm-damage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water",
       "roof"
     ],
     "contentType": "guide",
@@ -4618,6 +4822,16 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "ten-things-before-a-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "checklist",
+    "jurisdiction": "california"
+  },
   "tenant-improvements-betterments": {
     "audience": [
       "professional"
@@ -4662,6 +4876,16 @@
     "contentType": "guide",
     "jurisdiction": "california",
     "subcategory": "specialty-damage"
+  },
+  "theft-vandalism-claim-guide": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "theft"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
   },
   "thermal-heat-damage": {
     "audience": [
@@ -4832,6 +5056,26 @@
     "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "fire-smoke"
+  },
+  "underinsured-how-to-fix": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "understanding-your-deductible": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
   },
   "undue-influence-insurance": {
     "audience": [
@@ -5025,6 +5269,17 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "water-leak-what-to-do": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water",
+      "mold"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "wear-and-tear-cause-of-loss": {
     "audience": [
       "professional"
@@ -5043,6 +5298,16 @@
       "general"
     ],
     "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "what-does-homeowner-policy-cover": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "what-is-homeowners-insurance": {
@@ -5179,6 +5444,16 @@
     "contentType": "guide",
     "jurisdiction": "california",
     "subcategory": "wind-roof"
+  },
+  "writing-effective-insurance-letter": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
   },
   "xactimate-how-it-works": {
     "audience": [
