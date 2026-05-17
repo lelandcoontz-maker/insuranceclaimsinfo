@@ -78,6 +78,16 @@ export function SearchBar() {
     return () => { cancelled = true }
   }, [])
 
+  const reportMiss = useCallback((q: string) => {
+    if (q.trim().length >= 3) {
+      fetch('/api/search-miss', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query: q.trim() }),
+      }).catch(() => {})
+    }
+  }, [])
+
   const performSearch = useCallback(
     (searchQuery: string) => {
       if (!index || !searchQuery.trim()) {
@@ -101,11 +111,15 @@ export function SearchBar() {
         }
       })
 
+      if (searchResults.length === 0) {
+        reportMiss(searchQuery)
+      }
+
       setResults(searchResults)
       setIsOpen(true)
       setActiveIndex(-1)
     },
-    [index, articles]
+    [index, articles, reportMiss]
   )
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
