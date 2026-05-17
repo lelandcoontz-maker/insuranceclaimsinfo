@@ -1,55 +1,59 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { Flame, XCircle, ClipboardList, BookOpen, Building2 } from 'lucide-react'
+import { User, Clock, Briefcase, Scale, Flame, XCircle, ClipboardList, BookOpen, Building2 } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Start Here — Choose Your Path',
-  description: 'New to insurance claims? Choose your situation and we\'ll guide you through the articles that matter most.',
+  title: 'Start Here — Choose Your Path | InsuranceClaimsInfo.com',
+  description: 'Over 500 articles on California insurance claims. Tell us who you are and we\'ll point you to the articles that matter most.',
   alternates: { canonical: '/start-here' },
 }
 
-const paths: { Icon: LucideIcon; title: string; desc: string; href: string; color: string; iconBg: string }[] = [
+const audiences: { Icon: LucideIcon; title: string; subtitle: string; desc: string; href: string; color: string; iconColor: string }[] = [
   {
-    Icon: Flame,
-    title: 'I Just Had a Fire or Wildfire',
-    desc: 'Emergency steps, what to document, dealing with adjusters, ALE, contents claims, and rebuilding decisions.',
-    href: '/start-here/fire-claim',
-    color: 'bg-red-50 border-red-200 hover:border-red-400',
-    iconBg: 'bg-red-100',
+    Icon: User,
+    title: 'I\'m New to This',
+    subtitle: 'Homeowner or renter — haven\'t filed a claim yet',
+    desc: 'Start with the basics: how policies work, what your rights are, and what to expect if you ever need to file.',
+    href: '/start-here/newcomer',
+    color: 'border-emerald-200 hover:border-emerald-400 bg-emerald-50',
+    iconColor: 'text-emerald-600',
   },
   {
-    Icon: XCircle,
-    title: 'My Claim Was Denied or Underpaid',
-    desc: 'How to fight back: negotiation, appraisal, bad faith, hiring a PA or attorney, and CDI complaints.',
-    href: '/start-here/denied-claim',
-    color: 'bg-orange-50 border-orange-200 hover:border-orange-400',
-    iconBg: 'bg-orange-100',
+    Icon: Clock,
+    title: 'I\'m in the Middle of a Claim',
+    subtitle: 'Filed a claim — need help getting paid fairly',
+    desc: 'Tactical guidance for the fight you\'re in right now: documentation, negotiation, dealing with adjusters, and knowing when to escalate.',
+    href: '/start-here/mid-claim',
+    color: 'border-blue-200 hover:border-blue-400 bg-blue-50',
+    iconColor: 'text-blue-600',
   },
   {
-    Icon: ClipboardList,
-    title: 'I\'m Filing My First Claim',
-    desc: 'Step-by-step through the process: what to say, what to document, what to expect, and what not to do.',
-    href: '/start-here/first-claim',
-    color: 'bg-blue-50 border-blue-200 hover:border-blue-400',
-    iconBg: 'bg-blue-100',
+    Icon: Briefcase,
+    title: 'I\'m a Claims Professional',
+    subtitle: 'Public adjuster, contractor, or restoration company',
+    desc: 'Estimating references, scoping standards, appraisal practice, and the technical details that win disputes.',
+    href: '/start-here/professional',
+    color: 'border-purple-200 hover:border-purple-400 bg-purple-50',
+    iconColor: 'text-purple-600',
   },
   {
-    Icon: BookOpen,
-    title: 'I Want to Understand My Policy',
-    desc: 'Read your policy like a professional: coverages, exclusions, conditions, endorsements, and hidden traps.',
-    href: '/start-here/understand-policy',
-    color: 'bg-amber-50 border-amber-200 hover:border-amber-400',
-    iconBg: 'bg-amber-100',
+    Icon: Scale,
+    title: 'I\'m an Attorney',
+    subtitle: 'Representing a policyholder in a coverage dispute',
+    desc: 'Case law, bad faith doctrine, CACI instructions, statutory remedies, and coverage analysis for litigation.',
+    href: '/start-here/attorney',
+    color: 'border-amber-200 hover:border-amber-400 bg-amber-50',
+    iconColor: 'text-amber-600',
   },
-  {
-    Icon: Building2,
-    title: 'I Have a Commercial Property Claim',
-    desc: 'Business interruption, extra expense, coinsurance, CP forms, lease requirements, and commercial-specific issues.',
-    href: '/start-here/commercial-claim',
-    color: 'bg-sky-50 border-sky-200 hover:border-sky-400',
-    iconBg: 'bg-sky-100',
-  },
+]
+
+const situations: { Icon: LucideIcon; title: string; href: string }[] = [
+  { Icon: Flame, title: 'Fire or wildfire', href: '/start-here/fire-claim' },
+  { Icon: XCircle, title: 'Denied or underpaid', href: '/start-here/denied-claim' },
+  { Icon: ClipboardList, title: 'Filing my first claim', href: '/start-here/first-claim' },
+  { Icon: BookOpen, title: 'Understanding my policy', href: '/start-here/understand-policy' },
+  { Icon: Building2, title: 'Commercial property', href: '/start-here/commercial-claim' },
 ]
 
 export default function StartHerePage() {
@@ -59,38 +63,54 @@ export default function StartHerePage() {
         <div className="max-w-4xl mx-auto">
           <h1 className="text-3xl font-bold mb-3">Start Here</h1>
           <p className="text-blue-200 max-w-2xl leading-relaxed">
-            With over 500 articles on the site, it can be hard to know where to begin.
-            Choose the path that best describes your situation and we&apos;ll walk you through
-            the most important articles in the right order.
+            This site has over 500 articles on California property insurance claims.
+            One question will get you to the right ones.
           </p>
         </div>
       </div>
 
       <div className="max-w-4xl mx-auto px-4 py-12">
-        <div className="space-y-4">
-          {paths.map(path => (
+        <h2 className="text-xl font-bold text-gray-900 mb-6">Who are you?</h2>
+
+        <div className="grid gap-4 sm:grid-cols-2">
+          {audiences.map(a => (
             <Link
-              key={path.href}
-              href={path.href}
-              className={`block rounded-xl border-2 p-6 transition-all ${path.color}`}
+              key={a.href}
+              href={a.href}
+              className={`block rounded-xl border-2 p-5 transition-all ${a.color}`}
             >
-              <div className="flex items-start gap-4">
-                <div className={`${path.iconBg} rounded-lg p-3 flex-shrink-0`}>
-                  <path.Icon className="w-7 h-7 text-gray-700" aria-hidden="true" />
-                </div>
+              <div className="flex items-start gap-3">
+                <a.Icon className={`w-6 h-6 flex-shrink-0 mt-0.5 ${a.iconColor}`} aria-hidden="true" />
                 <div>
-                  <h2 className="text-xl font-bold text-gray-900 mb-1">{path.title}</h2>
-                  <p className="text-gray-600">{path.desc}</p>
+                  <h3 className="font-bold text-gray-900">{a.title}</h3>
+                  <p className="text-sm text-gray-500 mb-2">{a.subtitle}</p>
+                  <p className="text-sm text-gray-600 leading-relaxed">{a.desc}</p>
                 </div>
               </div>
             </Link>
           ))}
         </div>
 
-        <div className="mt-12 text-center">
-          <p className="text-gray-500 mb-4">Not sure which path fits? Browse everything:</p>
-          <Link href="/resources" className="btn-gold">
-            Browse All 500+ Articles →
+        <div className="mt-14 pt-8 border-t">
+          <h2 className="text-lg font-bold text-gray-900 mb-4">Or choose by situation</h2>
+          <div className="flex flex-wrap gap-3">
+            {situations.map(s => (
+              <Link
+                key={s.href}
+                href={s.href}
+                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg border border-gray-200 hover:border-[#1F3964] hover:shadow-sm transition-all text-sm font-medium text-gray-700 hover:text-[#1F3964]"
+              >
+                <s.Icon className="w-4 h-4" aria-hidden="true" />
+                {s.title}
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        <div className="mt-10 text-center">
+          <p className="text-gray-500 text-sm mb-3">Want to browse everything?</p>
+          <Link href="/resources" className="text-[#1F3964] font-medium hover:underline">
+            All 500+ articles →
           </Link>
         </div>
       </div>
