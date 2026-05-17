@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { FOOTER_RESOURCE_LINKS } from '@/lib/content/navigation'
+import { FOOTER_RESOURCE_LINKS } from '@/lib/content/taxonomy'
 
 export function Footer() {
   return (

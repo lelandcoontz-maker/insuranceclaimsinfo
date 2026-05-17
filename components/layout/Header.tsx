@@ -3,7 +3,7 @@
 import { useState, useRef, useEffect, useCallback } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { RESOURCE_DROPDOWN_GROUPS } from '@/lib/content/navigation'
+import { RESOURCE_DROPDOWN_GROUPS } from '@/lib/content/taxonomy'
 
 export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false)

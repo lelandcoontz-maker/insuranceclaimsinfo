@@ -2,8 +2,8 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react'
 import Link from 'next/link'
-import type { Category } from '@/lib/content/categories'
-import { slugForCategory } from '@/lib/content/categories'
+import type { Category } from '@/lib/content/taxonomy'
+import { slugForCategory } from '@/lib/content/taxonomy'
 
 interface Props {
   categories: Category[]

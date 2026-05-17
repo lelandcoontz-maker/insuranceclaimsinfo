@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { CATEGORIES } from '@/lib/content/categories'
+import { CATEGORIES } from '@/lib/content/taxonomy'
 import { ResourcesClient } from '@/components/resources/ResourcesClient'
 import { SearchBar } from '@/components/search/SearchBar'
 import { ScrollText, BookOpen, HelpCircle, Flame, Star } from 'lucide-react'

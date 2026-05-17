@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { CATEGORIES, type ArticleCard } from '@/lib/content/categories'
+import { CATEGORIES, type ArticleCard } from '@/lib/content/taxonomy'
 import relatedArticlesMap from '@/public/data/related-articles.json'
 
 interface Props {

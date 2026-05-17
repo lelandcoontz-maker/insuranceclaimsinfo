@@ -1,64 +1,67 @@
 /**
- * Build-time script to generate the search index JSON from ARTICLE_META.
+ * Build-time script to generate search index and article registry from
+ * per-article meta exports in lib/content/articles/*.tsx.
+ *
+ * Outputs:
+ *   public/data/search-index.json   — [{slug, title, description}, ...]
+ *   public/data/article-registry.json — {slug: {title, description}, ...}
+ *
  * Run with: npx tsx scripts/generate-search-index.ts
- * Automatically runs before every `next build` via the build script.
+ * Automatically runs before every `next build` via the prebuild script.
  */
 
 import * as fs from 'fs'
 import * as path from 'path'
 
-// We read the [slug]/page.tsx file and extract the ARTICLE_META object using regex
-// This avoids needing to import TSX/JSX in a Node script context.
+const ARTICLES_DIR = path.resolve(__dirname, '../lib/content/articles')
+const OUTPUT_DIR = path.resolve(__dirname, '../public/data')
 
-const SLUG_PAGE_PATH = path.resolve(
-  __dirname,
-  '../app/resources/[slug]/page.tsx'
-)
-
-const content = fs.readFileSync(SLUG_PAGE_PATH, 'utf-8')
-
-// Extract the ARTICLE_META block
-const metaMatch = content.match(
-  /const ARTICLE_META:\s*Record<string,\s*\{[^}]+\}>\s*=\s*\{([\s\S]*?)\n\}/
-)
-
-if (!metaMatch) {
-  console.error('ERROR: Could not find ARTICLE_META in page.tsx')
-  process.exit(1)
-}
-
-const metaBlock = metaMatch[1]
-
-// Parse individual entries: 'slug': { title: '...', description: '...' },
-const entryRegex =
-  /'([^']+)':\s*\{\s*title:\s*'((?:[^'\\]|\\.)*)'\s*,\s*description:\s*'((?:[^'\\]|\\.)*)'\s*\}/g
-
-interface SearchEntry {
-  slug: string
+interface ArticleMeta {
   title: string
   description: string
 }
 
-const entries: SearchEntry[] = []
-let match: RegExpExecArray | null
-
-while ((match = entryRegex.exec(metaBlock)) !== null) {
-  const slug = match[1]
-  // Unescape any escaped single quotes in title/description
-  const title = match[2].replace(/\\'/g, "'")
-  const description = match[3].replace(/\\'/g, "'")
-  entries.push({ slug, title, description })
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true })
 }
 
-console.log(`Generated search index with ${entries.length} articles`)
+const files = fs.readdirSync(ARTICLES_DIR).filter(f => f.endsWith('.tsx'))
 
-// Write to public/data/search-index.json
-const outputDir = path.resolve(__dirname, '../public/data')
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir, { recursive: true })
+const searchEntries: { slug: string; title: string; description: string }[] = []
+const registry: Record<string, ArticleMeta> = {}
+
+for (const file of files) {
+  const slug = file.replace('.tsx', '')
+  const filePath = path.join(ARTICLES_DIR, file)
+  const content = fs.readFileSync(filePath, 'utf-8')
+
+  const titleMatch = content.match(/title:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
+  const descMatch = content.match(/description:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
+
+  if (!titleMatch) {
+    console.warn(`WARNING: No title found in ${file}`)
+    continue
+  }
+
+  const title = titleMatch[1].replace(/\\'/g, "'").replace(/\\"/g, '"')
+  const description = descMatch
+    ? descMatch[1].replace(/\\'/g, "'").replace(/\\"/g, '"')
+    : ''
+
+  searchEntries.push({ slug, title, description })
+  registry[slug] = { title, description }
 }
 
-const outputPath = path.join(outputDir, 'search-index.json')
-fs.writeFileSync(outputPath, JSON.stringify(entries, null, 0))
+searchEntries.sort((a, b) => a.slug.localeCompare(b.slug))
 
-console.log(`Written to: ${outputPath}`)
+fs.writeFileSync(
+  path.join(OUTPUT_DIR, 'search-index.json'),
+  JSON.stringify(searchEntries, null, 0)
+)
+
+fs.writeFileSync(
+  path.join(OUTPUT_DIR, 'article-registry.json'),
+  JSON.stringify(registry, null, 2)
+)
+
+console.log(`Generated search index and registry for ${searchEntries.length} articles → ${OUTPUT_DIR}`)
