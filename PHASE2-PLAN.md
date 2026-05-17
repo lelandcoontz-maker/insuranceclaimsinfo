@@ -14,16 +14,16 @@
 | 2-3 | DONE | 20a65ca |
 | 4 | DONE | e59c929 |
 | 5 | DONE | 1709038 |
-| 6 | IN PROGRESS | e1cc1f8, a61b608 |
-| 7 | NOT STARTED | |
-| 8 | NOT STARTED | |
-| 9 | NOT STARTED | |
-| 10 | NOT STARTED | |
-| 11 | NOT STARTED | |
-| 12 | NOT STARTED | |
-| 13 | NOT STARTED | |
-| 14 | NOT STARTED | |
-| 15 | NOT STARTED | |
+| 6 | DONE | e1cc1f8, a61b608, a674f3b |
+| 7 | DONE | 83438be |
+| 8 | DONE | 4536b2e |
+| 9 | DONE | d7dd627 |
+| 10 | DONE | 6dcb801 |
+| 11 | DONE | 048f0d6 |
+| 12 | DONE | fa17e21 |
+| 13 | DONE | f2af189 |
+| 14 | DONE | d7ac047 |
+| 15 | DONE | d509ca2 |
 
 ---
 
