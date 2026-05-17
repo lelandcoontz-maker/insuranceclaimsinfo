@@ -49,6 +49,44 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="flex flex-col min-h-screen">
         <JsonLd data={{
           '@context': 'https://schema.org',
+          '@type': 'WebSite',
+          name: 'InsuranceClaimsInfo.com',
+          url: 'https://insuranceclaimsinfo.com',
+          description: 'Free encyclopedia of California property insurance claims — 500+ articles covering every stage from first notice of loss to final settlement.',
+          publisher: {
+            '@type': 'Person',
+            name: 'Leland Coontz III',
+            jobTitle: 'Licensed Public Adjuster',
+            url: 'https://insuranceclaimsinfo.com/about',
+          },
+          potentialAction: {
+            '@type': 'SearchAction',
+            target: {
+              '@type': 'EntryPoint',
+              urlTemplate: 'https://insuranceclaimsinfo.com/resources?q={search_term_string}',
+            },
+            'query-input': 'required name=search_term_string',
+          },
+        }} />
+        <JsonLd data={{
+          '@context': 'https://schema.org',
+          '@type': 'Person',
+          name: 'Leland Coontz III',
+          jobTitle: 'Licensed Public Adjuster',
+          url: 'https://insuranceclaimsinfo.com/about',
+          sameAs: 'https://insuranceclaimsinfo.com/about',
+          hasCredential: {
+            '@type': 'EducationalOccupationalCredential',
+            credentialCategory: 'Public Adjuster License',
+            name: 'California Public Adjuster License #2B53445',
+          },
+          knowsAbout: [
+            'Insurance Claims', 'Property Damage', 'California Insurance Law',
+            'Xactimate Estimating', 'Insurance Appraisal', 'Bad Faith Claims',
+          ],
+        }} />
+        <JsonLd data={{
+          '@context': 'https://schema.org',
           '@type': 'ProfessionalService',
           name: 'Leland Coontz, Public Adjuster',
           alternateName: 'InsuranceClaimsInfo.com',

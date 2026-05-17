@@ -95,7 +95,8 @@ export function ArticleLayout({ title, description, backLink, breadcrumbs, ctaVa
           )}
           {publishedDate && (
             <p className="text-blue-300 text-sm mt-3">
-              {formatDate(publishedDate)}
+              By <Link href="/about" className="text-blue-200 hover:text-white underline">Leland Coontz III</Link>, Licensed Public Adjuster
+              {' · '}{formatDate(publishedDate)}
               {showModified && <span className="text-blue-400"> · Updated {formatDate(modifiedDate)}</span>}
             </p>
           )}

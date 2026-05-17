@@ -5,6 +5,10 @@ import path from 'path'
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://insuranceclaimsinfo.com'
 
+  const datesPath = path.join(process.cwd(), 'public/data/article-dates.json')
+  const articleDates: Record<string, { published: string; modified: string }> =
+    fs.existsSync(datesPath) ? JSON.parse(fs.readFileSync(datesPath, 'utf-8')) : {}
+
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: baseUrl, lastModified: new Date(), changeFrequency: 'weekly', priority: 1.0 },
     { url: `${baseUrl}/inventory`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.9 },
@@ -38,7 +42,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const resourceRoutes: MetadataRoute.Sitemap = resourceSlugs.map((slug) => ({
     url: `${baseUrl}/resources/${slug}`,
-    lastModified: new Date(),
+    lastModified: articleDates[slug]?.modified ? new Date(articleDates[slug].modified) : new Date(),
     changeFrequency: 'monthly',
     priority: 0.6,
   }))
