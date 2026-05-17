@@ -1352,8 +1352,8 @@
     "description": "When the named insured dies before or during a claim, insurers sometimes deny coverage to surviving family members. Learn how the Death clause, insurable interest, and trust ownership affect your rights."
   },
   "policyholder-rights": {
-    "title": "Know Your Rights as a Policyholder",
-    "description": "Your insurance company has obligations to you under the policy, state law, and regulations. Here are the rights most policyholders don't know they have."
+    "title": "Your Rights as a California Policyholder",
+    "description": "California law gives property insurance policyholders specific, enforceable rights — from claim handling deadlines to bad faith remedies. Here is what you are entitled to."
   },
   "pollution-exclusion-claims": {
     "title": "The Pollution Exclusion in Property Insurance Claims: History, Misapplication, and California Law",
@@ -1926,6 +1926,10 @@
   "wear-and-tear-exclusion": {
     "title": "The Wear and Tear Exclusion: When Insurance Companies Confuse Condition with Causation",
     "description": "The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why "
+  },
+  "what-is-homeowners-insurance": {
+    "title": "What Is Homeowners Insurance?",
+    "description": "A plain-language explanation of what homeowners insurance covers, how it works, what it costs, and what happens when you need to use it."
   },
   "when-not-to-file-claim": {
     "title": "When NOT to File an Insurance Claim",

@@ -2372,6 +2372,16 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "how-to-use-this-site": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "iicrc-standards-certifications": {
     "audience": [
       "mid-claim"
@@ -3484,12 +3494,12 @@
   },
   "policyholder-rights": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "pollution-exclusion-claims": {
@@ -4968,6 +4978,16 @@
   "wear-and-tear-exclusion": {
     "audience": [
       "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "what-is-homeowners-insurance": {
+    "audience": [
+      "mid-claim"
     ],
     "claimType": [
       "general"

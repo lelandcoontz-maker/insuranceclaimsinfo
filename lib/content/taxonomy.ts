@@ -58,6 +58,14 @@ export const CATEGORIES: Category[] = [
     ],
     articles: [
       {
+        icon: '🏠',
+        title: 'What Is Homeowners Insurance?',
+        desc: 'A plain-language explanation of what homeowners insurance covers, how it works, what it costs, and what happens when you need to use it.',
+        href: '/resources/what-is-homeowners-insurance',
+        tag: 'Start Here',
+        tagColor: 'bg-red-100 text-red-700',
+      },
+      {
         icon: '📑',
         title: 'Types of Insurance Policies: Residential, Commercial & Specialty',
         desc: 'HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial property, BOP, flood, earthquake, DIC, builder\'s risk, and inland marine — what each covers and who needs it.',
