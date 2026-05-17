@@ -79,6 +79,10 @@
     "published": "2026-05-02",
     "modified": "2026-05-02"
   },
+  "ale-basics-what-is-covered": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "ale-frv": {
     "published": "2026-03-28",
     "modified": "2026-05-01"
@@ -86,6 +90,10 @@
   "animal-pest-damage": {
     "published": "2026-05-01",
     "modified": "2026-05-01"
+  },
+  "annual-policy-review": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "anti-concurrent-causation": {
     "published": "2026-04-30",
@@ -131,6 +139,10 @@
     "published": "2026-05-02",
     "modified": "2026-05-02"
   },
+  "bad-faith-explained": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "bad-faith": {
     "published": "2026-03-28",
     "modified": "2026-05-01"
@@ -138,6 +150,10 @@
   "balloon-vs-platform-framing": {
     "published": "2026-05-02",
     "modified": "2026-05-02"
+  },
+  "basement-flooding-coverage": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "bedbug-coverage": {
     "published": "2026-05-03",
@@ -327,9 +343,13 @@
     "published": "2026-05-04",
     "modified": "2026-05-04"
   },
+  "choosing-homeowner-policy": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "choosing-your-contractor": {
     "published": "2026-04-04",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "church-nonprofit-insurance-claims": {
     "published": "2026-05-04",
@@ -339,9 +359,13 @@
     "published": "2026-05-02",
     "modified": "2026-05-02"
   },
+  "claim-denied-options": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "claim-negotiation-letters": {
     "published": "2026-04-04",
-    "modified": "2026-05-01"
+    "modified": "2026-05-16"
   },
   "claims-process": {
     "published": "2026-03-28",
@@ -607,6 +631,10 @@
     "published": "2026-05-03",
     "modified": "2026-05-03"
   },
+  "do-i-need-a-lawyer": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "dog-breed-restrictions-insurance": {
     "published": "2026-05-03",
     "modified": "2026-05-03"
@@ -763,9 +791,17 @@
     "published": "2026-04-30",
     "modified": "2026-05-01"
   },
+  "file-cdi-complaint-guide": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "fire-claim-denied": {
     "published": "2026-04-04",
     "modified": "2026-04-30"
+  },
+  "fire-damage-beginners-guide": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "fire-debris-cleanup-without-fire": {
     "published": "2026-05-04",
@@ -779,8 +815,16 @@
     "published": "2026-04-08",
     "modified": "2026-05-01"
   },
+  "first-72-hours-after-loss": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "first-offer-lowball": {
     "published": "2026-04-04",
+    "modified": "2026-05-16"
+  },
+  "first-week-of-claim": {
+    "published": "2026-05-16",
     "modified": "2026-05-16"
   },
   "flood-exclusion-commercial": {
@@ -891,6 +935,10 @@
     "published": "2026-05-04",
     "modified": "2026-05-04"
   },
+  "how-california-claim-works": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "how-insurance-adjusters-are-paid": {
     "published": "2026-05-03",
     "modified": "2026-05-03"
@@ -907,6 +955,14 @@
     "published": "2026-05-03",
     "modified": "2026-05-03"
   },
+  "how-to-document-damage": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
+  "how-to-read-insurance-estimate": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "how-to-read-verisk-white-paper": {
     "published": "2026-05-03",
     "modified": "2026-05-03"
@@ -918,6 +974,10 @@
   "how-to-read-your-policy": {
     "published": "2026-05-01",
     "modified": "2026-05-01"
+  },
+  "how-to-use-this-site": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "iicrc-standards-certifications": {
     "published": "2026-05-02",
@@ -967,6 +1027,10 @@
     "published": "2026-05-03",
     "modified": "2026-05-03"
   },
+  "insurance-claim-glossary": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "insurance-claims-file": {
     "published": "2026-05-02",
     "modified": "2026-05-02"
@@ -990,6 +1054,10 @@
   "insurance-myths-debunked": {
     "published": "2026-05-02",
     "modified": "2026-05-03"
+  },
+  "insurance-offer-now-what": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "insurance-properties-probate": {
     "published": "2026-05-03",
@@ -1019,6 +1087,10 @@
     "published": "2026-05-02",
     "modified": "2026-05-02"
   },
+  "insurer-goes-out-of-business": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "insurer-insolvency-ciga": {
     "published": "2026-05-04",
     "modified": "2026-05-04"
@@ -1026,6 +1098,14 @@
   "insurer-insolvency-guaranty-fund": {
     "published": "2026-05-04",
     "modified": "2026-05-04"
+  },
+  "insurer-not-responding": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
+  "insurer-obligations-cheat-sheet": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "insurer-option-to-repair": {
     "published": "2026-05-04",
@@ -1113,11 +1193,15 @@
   },
   "loss-of-use-maximizing": {
     "published": "2026-04-04",
-    "modified": "2026-05-01"
+    "modified": "2026-05-16"
   },
   "loss-settlement-provisions": {
     "published": "2026-04-04",
     "modified": "2026-05-03"
+  },
+  "lowball-offer-what-to-do": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "managed-repair-program-drp": {
     "published": "2026-05-03",
@@ -1206,6 +1290,10 @@
   "named-insured-vs-an-insured": {
     "published": "2026-05-03",
     "modified": "2026-05-03"
+  },
+  "named-perils-vs-open-perils": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "named-vs-additional-insured": {
     "published": "2026-05-02",
@@ -1311,6 +1399,10 @@
     "published": "2026-05-03",
     "modified": "2026-05-03"
   },
+  "personal-property-inventory-guide": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "personal-property-special-considerations": {
     "published": "2026-04-08",
     "modified": "2026-04-30"
@@ -1349,7 +1441,7 @@
   },
   "policyholder-rights": {
     "published": "2026-04-04",
-    "modified": "2026-05-01"
+    "modified": "2026-05-16"
   },
   "pollution-exclusion-claims": {
     "published": "2026-05-03",
@@ -1382,6 +1474,10 @@
   "preferred-vendor-problems": {
     "published": "2026-05-02",
     "modified": "2026-05-02"
+  },
+  "prepare-for-adjuster-inspection": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "professional-services-insurance-claims": {
     "published": "2026-05-04",
@@ -1471,6 +1567,10 @@
     "published": "2026-05-04",
     "modified": "2026-05-04"
   },
+  "replacement-cost-explained": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "replacement-cost-vs-guaranteed": {
     "published": "2026-04-30",
     "modified": "2026-04-30"
@@ -1526,6 +1626,10 @@
   "roof-damage": {
     "published": "2026-04-04",
     "modified": "2026-05-01"
+  },
+  "roof-leak-storm-damage": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "roof-waste-factor": {
     "published": "2026-05-02",
@@ -1598,6 +1702,10 @@
   "short-term-rental-coverage": {
     "published": "2026-05-02",
     "modified": "2026-05-02"
+  },
+  "should-i-file-a-claim": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "signs-you-are-underinsured": {
     "published": "2026-05-03",
@@ -1763,6 +1871,10 @@
     "published": "2026-04-04",
     "modified": "2026-04-30"
   },
+  "ten-things-before-a-loss": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "tenant-improvements-betterments": {
     "published": "2026-05-02",
     "modified": "2026-05-02"
@@ -1778,6 +1890,10 @@
   "theft-burglary-claims": {
     "published": "2026-05-01",
     "modified": "2026-05-01"
+  },
+  "theft-vandalism-claim-guide": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "thermal-heat-damage": {
     "published": "2026-04-08",
@@ -1841,6 +1957,14 @@
   },
   "underinsured-after-wildfire": {
     "published": "2026-04-04",
+    "modified": "2026-05-16"
+  },
+  "underinsured-how-to-fix": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
+  "understanding-your-deductible": {
+    "published": "2026-05-16",
     "modified": "2026-05-16"
   },
   "undue-influence-insurance": {
@@ -1915,6 +2039,10 @@
     "published": "2026-04-04",
     "modified": "2026-05-01"
   },
+  "water-leak-what-to-do": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "wear-and-tear-cause-of-loss": {
     "published": "2026-04-08",
     "modified": "2026-05-03"
@@ -1922,6 +2050,22 @@
   "wear-and-tear-exclusion": {
     "published": "2026-05-04",
     "modified": "2026-05-04"
+  },
+  "what-does-homeowner-policy-cover": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
+  "what-is-homeowners-insurance": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
+  "what-public-adjuster-does": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
+  "what-to-say-adjuster-calls": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "when-not-to-file-claim": {
     "published": "2026-05-03",
@@ -1961,7 +2105,11 @@
   },
   "wind-damage-claims": {
     "published": "2026-04-04",
-    "modified": "2026-05-01"
+    "modified": "2026-05-16"
+  },
+  "writing-effective-insurance-letter": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "xactimate-how-it-works": {
     "published": "2026-05-02",

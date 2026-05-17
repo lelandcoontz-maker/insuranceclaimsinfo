@@ -15,6 +15,24 @@ interface SearchResult {
   snippet: string
 }
 
+const SUGGESTED_TOPICS = [
+  { label: 'Fire Claims', href: '/resources#fire-smoke' },
+  { label: 'Water Damage', href: '/resources#water-mold' },
+  { label: 'Getting Started', href: '/start-here' },
+  { label: 'Your Rights', href: '/resources/policyholder-rights' },
+  { label: 'ALE / Living Expenses', href: '/resources/ale-frv' },
+  { label: 'Disputes', href: '/resources#negotiation' },
+]
+
+const FILTER_CHIPS: { label: string; keyword: string }[] = [
+  { label: 'Fire', keyword: 'fire' },
+  { label: 'Water', keyword: 'water' },
+  { label: 'Roof/Wind', keyword: 'roof wind' },
+  { label: 'ALE', keyword: 'living expenses ALE' },
+  { label: 'Denied', keyword: 'denied denial' },
+  { label: 'Bad Faith', keyword: 'bad faith' },
+]
+
 export function SearchBar() {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<SearchResult[]>([])
@@ -29,28 +47,22 @@ export function SearchBar() {
   const containerRef = useRef<HTMLDivElement>(null)
   const debounceTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  // Load the search index and FlexSearch on mount
   useEffect(() => {
     let cancelled = false
 
     async function loadIndex() {
       try {
-        // Dynamic import of flexsearch
         const FlexSearch = await import('flexsearch')
-
-        // Fetch the pre-built search index
         const response = await fetch('/data/search-index.json')
         const data: SearchEntry[] = await response.json()
 
         if (cancelled) return
 
-        // Create a FlexSearch index
         const searchIndex = new FlexSearch.Index({
           tokenize: 'forward',
           resolution: 9,
         })
 
-        // Add each article to the index (combined title + description for search)
         data.forEach((entry, i) => {
           searchIndex.add(i, `${entry.title} ${entry.description}`)
         })
@@ -66,7 +78,6 @@ export function SearchBar() {
     return () => { cancelled = true }
   }, [])
 
-  // Perform search with debounce
   const performSearch = useCallback(
     (searchQuery: string) => {
       if (!index || !searchQuery.trim()) {
@@ -79,7 +90,6 @@ export function SearchBar() {
 
       const searchResults: SearchResult[] = matchedIds.map((id: number) => {
         const article = articles[id]
-        // Create a snippet from the description (first 120 chars)
         const snippet =
           article.description.length > 120
             ? article.description.slice(0, 120) + '...'
@@ -92,13 +102,12 @@ export function SearchBar() {
       })
 
       setResults(searchResults)
-      setIsOpen(searchResults.length > 0)
+      setIsOpen(true)
       setActiveIndex(-1)
     },
     [index, articles]
   )
 
-  // Handle input change with 300ms debounce
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = e.target.value
     setQuery(value)
@@ -109,14 +118,18 @@ export function SearchBar() {
 
     debounceTimer.current = setTimeout(() => {
       performSearch(value)
-    }, 300)
+    }, 150)
   }
 
-  // Keyboard navigation
+  const handleChipClick = (keyword: string) => {
+    setQuery(keyword)
+    performSearch(keyword)
+    inputRef.current?.focus()
+  }
+
   const handleKeyDown = (e: React.KeyboardEvent) => {
     if (!isOpen) {
       if (e.key === 'ArrowDown' && query.trim()) {
-        // If user presses down arrow with text, trigger search immediately
         performSearch(query)
       }
       return
@@ -148,7 +161,6 @@ export function SearchBar() {
     }
   }
 
-  // Navigate to a result
   const navigateToResult = (slug: string) => {
     setIsOpen(false)
     setQuery('')
@@ -156,7 +168,6 @@ export function SearchBar() {
     window.location.href = `/resources/${slug}`
   }
 
-  // Close dropdown when clicking outside
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
       if (
@@ -172,7 +183,6 @@ export function SearchBar() {
     return () => document.removeEventListener('mousedown', handleClickOutside)
   }, [])
 
-  // Scroll active result into view
   useEffect(() => {
     if (activeIndex >= 0 && resultsRef.current) {
       const activeEl = resultsRef.current.children[activeIndex] as HTMLElement
@@ -213,7 +223,7 @@ export function SearchBar() {
             onFocus={() => {
               if (results.length > 0) setIsOpen(true)
             }}
-            placeholder="Search all articles..."
+            placeholder="Search 542 articles..."
             aria-label="Search articles"
             aria-expanded={isOpen}
             aria-controls="search-results"
@@ -253,6 +263,20 @@ export function SearchBar() {
         </div>
       </form>
 
+      {/* Quick filter chips */}
+      <div className="flex flex-wrap gap-2 mt-3 justify-center">
+        {FILTER_CHIPS.map(chip => (
+          <button
+            key={chip.keyword}
+            type="button"
+            onClick={() => handleChipClick(chip.keyword)}
+            className="text-xs px-3 py-1.5 rounded-full border border-gray-200 text-gray-600 hover:border-[#1F3964] hover:text-[#1F3964] hover:bg-[#EFF4FB] transition-colors"
+          >
+            {chip.label}
+          </button>
+        ))}
+      </div>
+
       {/* Results dropdown */}
       <div
         id="search-results"
@@ -261,53 +285,70 @@ export function SearchBar() {
         aria-label="Search results"
       >
         {isOpen && results.length > 0 && (
-          <ul
-            ref={resultsRef}
-            role="listbox"
-            aria-label="Search results"
-            className="absolute z-50 w-full mt-2 bg-white border border-gray-200 rounded-xl shadow-lg max-h-96 overflow-y-auto"
-          >
-            {results.map((result, i) => (
-              <li
-                key={result.slug}
-                id={`search-result-${i}`}
-                role="option"
-                aria-selected={i === activeIndex}
-                className={`border-b border-gray-100 last:border-b-0 ${
-                  i === activeIndex
-                    ? 'bg-[#EFF4FB]'
-                    : 'hover:bg-gray-50'
-                }`}
-              >
-                <Link
-                  href={`/resources/${result.slug}`}
-                  onClick={() => {
-                    setIsOpen(false)
-                    setQuery('')
-                  }}
-                  className={`block px-5 py-3.5 no-underline focus:outline-none focus:bg-[#EFF4FB] ${
+          <>
+            <ul
+              ref={resultsRef}
+              role="listbox"
+              aria-label="Search results"
+              className="absolute z-50 w-full mt-2 bg-white border border-gray-200 rounded-xl shadow-lg max-h-96 overflow-y-auto"
+            >
+              {results.map((result, i) => (
+                <li
+                  key={result.slug}
+                  id={`search-result-${i}`}
+                  role="option"
+                  aria-selected={i === activeIndex}
+                  className={`border-b border-gray-100 last:border-b-0 ${
                     i === activeIndex
-                      ? 'ring-2 ring-inset ring-[#1F3964]/30'
-                      : ''
+                      ? 'bg-[#EFF4FB]'
+                      : 'hover:bg-gray-50'
                   }`}
-                  tabIndex={-1}
                 >
-                  <p className="font-semibold text-[#1F3964] text-sm leading-tight mb-1">
-                    {result.title}
-                  </p>
-                  <p className="text-gray-500 text-xs leading-relaxed">
-                    {result.snippet}
-                  </p>
-                </Link>
+                  <Link
+                    href={`/resources/${result.slug}`}
+                    onClick={() => {
+                      setIsOpen(false)
+                      setQuery('')
+                    }}
+                    className={`block px-5 py-3.5 no-underline focus:outline-none focus:bg-[#EFF4FB] ${
+                      i === activeIndex
+                        ? 'ring-2 ring-inset ring-[#1F3964]/30'
+                        : ''
+                    }`}
+                    tabIndex={-1}
+                  >
+                    <p className="font-semibold text-[#1F3964] text-sm leading-tight mb-1">
+                      {result.title}
+                    </p>
+                    <p className="text-gray-500 text-xs leading-relaxed">
+                      {result.snippet}
+                    </p>
+                  </Link>
+                </li>
+              ))}
+              <li className="px-5 py-2 text-xs text-gray-400 bg-gray-50 rounded-b-xl">
+                {results.length} result{results.length !== 1 ? 's' : ''}
               </li>
-            ))}
-          </ul>
+            </ul>
+          </>
         )}
         {isOpen && results.length === 0 && query.trim() && (
           <div className="absolute z-50 w-full mt-2 bg-white border border-gray-200 rounded-xl shadow-lg px-5 py-4">
-            <p className="text-gray-500 text-sm">
+            <p className="text-gray-600 text-sm font-medium mb-3">
               No articles found for &ldquo;{query}&rdquo;
             </p>
+            <p className="text-gray-500 text-xs mb-3">Try browsing by topic:</p>
+            <div className="flex flex-wrap gap-2">
+              {SUGGESTED_TOPICS.map(topic => (
+                <Link
+                  key={topic.href}
+                  href={topic.href}
+                  className="text-xs px-3 py-1.5 rounded-full bg-[#EFF4FB] text-[#1F3964] hover:bg-[#1F3964] hover:text-white transition-colors"
+                >
+                  {topic.label}
+                </Link>
+              ))}
+            </div>
           </div>
         )}
       </div>
