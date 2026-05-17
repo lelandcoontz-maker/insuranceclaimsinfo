@@ -107,11 +107,16 @@ export default function StartHerePage() {
           </div>
         </div>
 
-        <div className="mt-10 text-center">
-          <p className="text-gray-500 text-sm mb-3">Want to browse everything?</p>
-          <Link href="/resources" className="text-[#1F3964] font-medium hover:underline">
-            All 500+ articles →
-          </Link>
+        <div className="mt-10 text-center space-y-2">
+          <p className="text-gray-500 text-sm">
+            <Link href="/resources/how-to-use-this-site" className="text-[#1F3964] font-medium hover:underline">
+              How this site is organized
+            </Link>
+            {' · '}
+            <Link href="/resources" className="text-[#1F3964] font-medium hover:underline">
+              Browse all 500+ articles
+            </Link>
+          </p>
         </div>
       </div>
     </>
