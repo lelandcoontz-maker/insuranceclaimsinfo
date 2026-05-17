@@ -60,11 +60,20 @@ interface ArticleLayoutProps {
   ctaVariant?: CtaVariant
   toc?: TocItem[]
   afterContent?: React.ReactNode
+  publishedDate?: string
+  modifiedDate?: string
   children: React.ReactNode
 }
 
-export function ArticleLayout({ title, description, backLink, breadcrumbs, ctaVariant = 'general', toc, afterContent, children }: ArticleLayoutProps) {
+function formatDate(dateStr: string): string {
+  const [year, month, day] = dateStr.split('-').map(Number)
+  const d = new Date(year, month - 1, day)
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
+}
+
+export function ArticleLayout({ title, description, backLink, breadcrumbs, ctaVariant = 'general', toc, afterContent, publishedDate, modifiedDate, children }: ArticleLayoutProps) {
   const cta = CTA_CONTENT[ctaVariant]
+  const showModified = modifiedDate && publishedDate && modifiedDate !== publishedDate
 
   return (
     <>
@@ -83,6 +92,12 @@ export function ArticleLayout({ title, description, backLink, breadcrumbs, ctaVa
           <h1 className="text-3xl font-bold mb-3">{title}</h1>
           {description && (
             <p className="text-blue-200 max-w-2xl leading-relaxed">{description}</p>
+          )}
+          {publishedDate && (
+            <p className="text-blue-300 text-sm mt-3">
+              {formatDate(publishedDate)}
+              {showModified && <span className="text-blue-400"> · Updated {formatDate(modifiedDate)}</span>}
+            </p>
           )}
         </div>
       </div>

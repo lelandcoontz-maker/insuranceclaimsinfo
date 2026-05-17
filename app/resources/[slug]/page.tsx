@@ -121,6 +121,8 @@ export default async function ResourceArticlePage({ params }: Props) {
           description={meta?.description}
           breadcrumbs={breadcrumbItems}
           ctaVariant={ctaVariant}
+          publishedDate={dates?.published}
+          modifiedDate={dates?.modified}
           afterContent={<><ExploreBlock currentSlug={slug} /><RelatedArticles currentSlug={slug} /></>}
         >
           <Content />
