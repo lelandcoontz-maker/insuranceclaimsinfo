@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { ArticleLayout } from '@/components/content/ArticleLayout'
 import { RelatedArticles } from '@/components/content/RelatedArticles'
 import { ExploreBlock } from '@/components/content/ExploreBlock'
+import { NewsletterSignup } from '@/components/content/NewsletterSignup'
 import { JsonLd } from '@/components/seo/JsonLd'
 import { getCategoryForArticle, getCtaVariantForArticle, CATEGORIES } from '@/lib/content/taxonomy'
 import articleDates from '@/public/data/article-dates.json'
@@ -123,7 +124,7 @@ export default async function ResourceArticlePage({ params }: Props) {
           ctaVariant={ctaVariant}
           publishedDate={dates?.published}
           modifiedDate={dates?.modified}
-          afterContent={<><ExploreBlock currentSlug={slug} /><RelatedArticles currentSlug={slug} /></>}
+          afterContent={<><ExploreBlock currentSlug={slug} /><NewsletterSignup source={slug} /><RelatedArticles currentSlug={slug} /></>}
         >
           <Content />
         </ArticleLayout>
