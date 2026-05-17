@@ -328,8 +328,8 @@
     "description": "A certificate of insurance is not a contract and does not guarantee coverage. Learn why relying on a COI can leave businesses, property owners, and contractors exposed, and what verification steps actually protect your interests."
   },
   "choosing-your-contractor": {
-    "title": "Choosing Your Own Contractor vs. the Insurance Company's",
-    "description": "You have the right to choose your own contractor in most states. Here's why it matters, what to look for, and how to handle the carrier's pushback."
+    "title": "Choosing Your Contractor After an Insurance Loss",
+    "description": "You have the legal right to choose your own contractor. How to select one, what to watch for, and how to handle the insurance company's preferred vendor pressure."
   },
   "church-nonprofit-insurance-claims": {
     "title": "Church, Nonprofit, and Religious Institution Insurance Claims: Irreplaceable Property, Volunteer Liability, and the Abuse Exclusion",
@@ -779,9 +779,17 @@
     "title": "Fire Sprinkler Water Damage: Why It's Worse Than You Think",
     "description": "Fire sprinkler water is not clean water. Stagnant sprinkler discharge contains bacteria, heavy metals, and biological contaminants that make it a Category 3 water loss requiring professional remediation."
   },
+  "first-72-hours-after-loss": {
+    "title": "What to Do in the First 72 Hours After a Loss",
+    "description": "Emergency actions, who to call, what to document, and what NOT to do in the critical first three days after property damage."
+  },
   "first-offer-lowball": {
     "title": "Why You Should Never Accept the Insurer's First Offer",
     "description": "Why the insurance company's initial settlement offer is almost always too low — and how to respond to get a fair payout."
+  },
+  "first-week-of-claim": {
+    "title": "What to Expect in the First Week of Your Claim",
+    "description": "A day-by-day reality check for the first week after filing an insurance claim. What happens, what the adjuster will ask, and what you should be doing each day."
   },
   "flood-exclusion-commercial": {
     "title": "The Flood Exclusion in Commercial Property Insurance: When Rain Becomes an Uninsured Disaster",
@@ -891,6 +899,10 @@
     "title": "Hotel and Hospitality Insurance Claims: When Every Room Lost Is Revenue Gone",
     "description": "Hotels and hospitality businesses face unique insurance vulnerabilities from business income losses during renovation to bedbug closures, franchise requirements, and seasonal revenue challenges. Learn how to protect your claim."
   },
+  "how-california-claim-works": {
+    "title": "How a California Homeowner Insurance Claim Actually Works",
+    "description": "An honest, no-jargon walkthrough of what really happens from the moment you call your insurer through the final payment — including what they don't tell you."
+  },
   "how-insurance-adjusters-are-paid": {
     "title": "How Insurance Adjusters Are Trained, Compensated, and Measured &mdash; And What It Means for Your Claim",
     "description": "Insurance adjusters are shaped by their training, pay structure, and performance metrics. Learn how catastrophe adjusters, daily adjusters, and independent adjusters are compensated, what authority levels mean, and how internal carrier metrics influence the handling of your property insurance claim."
@@ -971,6 +983,10 @@
     "title": "Assignment of Benefits, Assignment of Claim, Assignment of Rights, and Assignment of Policy: Understanding the Differences",
     "description": "A comprehensive guide to the four types of insurance claim assignments — assignment of benefits, assignment of claim, assignment of rights, and assignment of policy — and why the distinctions matter for policyholders, contractors, and attorneys."
   },
+  "insurance-claim-glossary": {
+    "title": "Insurance Claim Glossary: 50 Terms in Plain English",
+    "description": "Every insurance term you will encounter during a property claim, defined in one sentence each. No jargon, no legalese — just clear definitions."
+  },
   "insurance-claims-file": {
     "title": "The Insurance Claims File: What It Contains, Your Right to Request It, and How It Changes Claim Outcomes",
     "description": "What is in the insurance company's claims file, why it matters, your right to request it under California law, and how the claims diary, reserve history, and internal communications reveal what the carrier really thinks about your claim."
@@ -1030,6 +1046,10 @@
   "insurer-insolvency-guaranty-fund": {
     "title": "When Your Insurance Company Fails: The Guaranty Fund Safety Net and Its Limits",
     "description": "What happens when an insurance company becomes insolvent in California. How the California Insurance Guarantee Association (CIGA) works, the $500,000 cap, covered and non-covered claims, and how to protect yourself."
+  },
+  "insurer-obligations-cheat-sheet": {
+    "title": "What Your Insurance Company Is Required to Do — The Cheat Sheet",
+    "description": "A pocket reference of every California deadline and obligation your insurer must meet during your claim, with the exact regulation citations."
   },
   "insurer-option-to-repair": {
     "title": "The Insurer",
@@ -1603,6 +1623,10 @@
     "title": "Short-Term Rental and Airbnb Insurance Coverage Gaps: What Your Homeowner Policy Does Not Cover",
     "description": "Standard homeowner policies were not designed for short-term rentals. Learn how business-use exclusions, Airbnb host guarantees, and undisclosed STR activity create coverage gaps that can leave you uninsured when a guest causes damage or gets injured."
   },
+  "should-i-file-a-claim": {
+    "title": "Should I File a Claim? How to Decide",
+    "description": "Not every loss should be a claim. A decision framework for when to file and when to pay out of pocket — considering deductibles, CLUE reports, and premium impact."
+  },
   "signs-you-are-underinsured": {
     "title": "Nine Warning Signs That Your Home Is Underinsured",
     "description": "Approximately two-thirds of American homes are underinsured. Here are nine warning signs that your dwelling coverage, personal property limits, or ALE coverage may fall short when you need them most."
@@ -1930,6 +1954,14 @@
   "what-is-homeowners-insurance": {
     "title": "What Is Homeowners Insurance?",
     "description": "A plain-language explanation of what homeowners insurance covers, how it works, what it costs, and what happens when you need to use it."
+  },
+  "what-public-adjuster-does": {
+    "title": "What a Public Adjuster Does — And When You Might Want One",
+    "description": "A plain-language explanation of what a Public Adjuster is, how they work, what they cost, and when hiring one makes sense for your insurance claim."
+  },
+  "what-to-say-adjuster-calls": {
+    "title": "Your Insurance Company Just Called — What to Say and What Not to Say",
+    "description": "A practical guide for your first conversation with the insurance adjuster. What to volunteer, what to hold back, and how to be cooperative without hurting your claim."
   },
   "when-not-to-file-claim": {
     "title": "When NOT to File an Insurance Claim",

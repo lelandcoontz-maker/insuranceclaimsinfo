@@ -2009,6 +2009,16 @@
     "jurisdiction": "california",
     "subcategory": "fire-smoke"
   },
+  "first-72-hours-after-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
   "first-offer-lowball": {
     "audience": [
       "professional"
@@ -2017,6 +2027,16 @@
       "general"
     ],
     "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "first-week-of-claim": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "flood-exclusion-commercial": {
@@ -2299,6 +2319,16 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "how-california-claim-works": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "how-insurance-adjusters-are-paid": {
     "audience": [
       "professional"
@@ -2505,6 +2535,16 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "insurance-claim-glossary": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
   "insurance-claims-file": {
     "audience": [
       "professional"
@@ -2656,6 +2696,16 @@
       "general"
     ],
     "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurer-obligations-cheat-sheet": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
   "insurer-option-to-repair": {
@@ -4134,6 +4184,16 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
+  "should-i-file-a-claim": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "signs-you-are-underinsured": {
     "audience": [
       "mid-claim"
@@ -4993,6 +5053,26 @@
       "general"
     ],
     "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "what-public-adjuster-does": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "what-to-say-adjuster-calls": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "when-not-to-file-claim": {
