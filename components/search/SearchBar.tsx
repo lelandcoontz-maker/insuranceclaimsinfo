@@ -278,13 +278,18 @@ export function SearchBar() {
       </form>
 
       {/* Quick filter chips */}
-      <div className="flex flex-wrap gap-2 mt-3 justify-center">
+      <div className="flex flex-wrap gap-2 mt-3 justify-center" role="group" aria-label="Quick topic filters">
         {FILTER_CHIPS.map(chip => (
           <button
             key={chip.keyword}
             type="button"
             onClick={() => handleChipClick(chip.keyword)}
-            className="text-xs px-3 py-1.5 rounded-full border border-gray-200 text-gray-600 hover:border-[#1F3964] hover:text-[#1F3964] hover:bg-[#EFF4FB] transition-colors"
+            aria-pressed={query === chip.keyword}
+            className={`text-xs px-3 py-1.5 rounded-full border transition-colors focus:outline-none focus:ring-2 focus:ring-[#1F3964] focus:ring-offset-1 ${
+              query === chip.keyword
+                ? 'border-[#1F3964] text-[#1F3964] bg-[#EFF4FB]'
+                : 'border-gray-200 text-gray-600 hover:border-[#1F3964] hover:text-[#1F3964] hover:bg-[#EFF4FB]'
+            }`}
           >
             {chip.label}
           </button>

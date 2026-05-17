@@ -49,7 +49,7 @@ export function ExploreBlock({ currentSlug }: Props) {
     : `More in ${category.label}`
 
   return (
-    <div className="border border-gray-200 rounded-lg p-5 my-8 bg-gray-50">
+    <nav aria-label={heading} className="border border-gray-200 rounded-lg p-5 my-8 bg-gray-50">
       <h3 className="text-sm font-bold text-[#1F3964] uppercase tracking-wide mb-3">
         {heading}
       </h3>
@@ -74,6 +74,6 @@ export function ExploreBlock({ currentSlug }: Props) {
           Browse all {category.label} articles →
         </Link>
       )}
-    </div>
+    </nav>
   )
 }
