@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { ArticleLayout } from '@/components/content/ArticleLayout'
 import { RelatedArticles } from '@/components/content/RelatedArticles'
+import { ExploreBlock } from '@/components/content/ExploreBlock'
 import { JsonLd } from '@/components/seo/JsonLd'
 import { getCategoryForArticle, getCtaVariantForArticle, CATEGORIES } from '@/lib/content/taxonomy'
 import articleDates from '@/public/data/article-dates.json'
@@ -120,7 +121,7 @@ export default async function ResourceArticlePage({ params }: Props) {
           description={meta?.description}
           breadcrumbs={breadcrumbItems}
           ctaVariant={ctaVariant}
-          afterContent={<RelatedArticles currentSlug={slug} />}
+          afterContent={<><ExploreBlock currentSlug={slug} /><RelatedArticles currentSlug={slug} /></>}
         >
           <Content />
         </ArticleLayout>
