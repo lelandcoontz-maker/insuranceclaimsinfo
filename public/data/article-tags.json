@@ -212,7 +212,8 @@
       "ale"
     ],
     "contentType": "guide",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
   },
   "ale-frv": {
     "audience": [
@@ -243,7 +244,8 @@
       "general"
     ],
     "contentType": "guide",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
   },
   "anti-concurrent-causation": {
     "audience": [
@@ -318,6 +320,16 @@
     "contentType": "guide",
     "jurisdiction": "california",
     "subcategory": "environmental"
+  },
+  "assigning-insurance-claims-selling-damaged-property": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
   },
   "assignment-of-benefits": {
     "audience": [
@@ -400,7 +412,8 @@
       "water"
     ],
     "contentType": "reference",
-    "jurisdiction": "federal"
+    "jurisdiction": "federal",
+    "subcategory": "water-mold"
   },
   "bedbug-coverage": {
     "audience": [
@@ -2067,7 +2080,8 @@
       "ale"
     ],
     "contentType": "guide",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
   },
   "fire-debris-cleanup-without-fire": {
     "audience": [
@@ -2213,6 +2227,16 @@
     ],
     "claimType": [
       "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "full-credit-bid-foreclosure-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "ale"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -2370,6 +2394,16 @@
       "general"
     ],
     "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "history-of-bad-faith-insurance-law": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "case-study",
     "jurisdiction": "california"
   },
   "history-of-bad-faith": {
@@ -2757,7 +2791,7 @@
     "claimType": [
       "fire"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "insurer-disclosure-obligations": {
@@ -3333,7 +3367,8 @@
       "contents"
     ],
     "contentType": "guide",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
   },
   "named-vs-additional-insured": {
     "audience": [
@@ -4037,7 +4072,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "replacement-cost-explained": {
@@ -4048,7 +4083,8 @@
       "general"
     ],
     "contentType": "reference",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
   },
   "replacement-cost-vs-guaranteed": {
     "audience": [
@@ -4202,7 +4238,8 @@
       "roof"
     ],
     "contentType": "guide",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
   },
   "roof-waste-factor": {
     "audience": [
@@ -4686,7 +4723,7 @@
       "mid-claim"
     ],
     "claimType": [
-      "general"
+      "ale"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -4830,7 +4867,8 @@
       "general"
     ],
     "contentType": "checklist",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
   },
   "tenant-improvements-betterments": {
     "audience": [
@@ -4885,7 +4923,8 @@
       "theft"
     ],
     "contentType": "guide",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "specialty-damage"
   },
   "thermal-heat-damage": {
     "audience": [
@@ -4921,6 +4960,17 @@
   "three-bids-myth": {
     "audience": [
       "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "three-trade-rule-overhead-profit": {
+    "audience": [
+      "professional",
+      "attorney"
     ],
     "claimType": [
       "general"
@@ -5075,7 +5125,8 @@
       "general"
     ],
     "contentType": "reference",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
   },
   "undue-influence-insurance": {
     "audience": [
@@ -5278,7 +5329,8 @@
       "mold"
     ],
     "contentType": "guide",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
   },
   "wear-and-tear-cause-of-loss": {
     "audience": [
@@ -5308,7 +5360,8 @@
       "contents"
     ],
     "contentType": "guide",
-    "jurisdiction": "california"
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
   },
   "what-is-homeowners-insurance": {
     "audience": [
@@ -5379,6 +5432,16 @@
       "general"
     ],
     "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "white-waiver-insurance-settlement-confidentiality": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "white-waiver-settlement-confidentiality": {

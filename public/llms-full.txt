@@ -1,5 +1,5 @@
 # InsuranceClaimsInfo.com — Full Article Index
-# 542 articles on California property insurance claims
+# 547 articles on California property insurance claims
 # Author: Leland Coontz III, Licensed Public Adjuster (CA #2B53445)
 # Site: https://insuranceclaimsinfo.com
 # Generated: 2026-05-17
@@ -129,6 +129,10 @@ Summary: The answer is unsettled. Learn both sides of the debate, what Californi
 ## Asbestos and Lead Paint in Insurance Claims: How They Increase Repair Costs and Who Pays
 URL: https://insuranceclaimsinfo.com/resources/asbestos-lead-claims
 Summary: When a covered loss disturbs asbestos or lead paint in older California homes, abatement costs are part of the repair — not betterment. Learn the CA regulations, EPA rules, AQMD requirements, and how to include abatement costs in your insurance claim from day one.
+
+## Assigning an Insurance Claim When Selling a Damaged Property: What Transfers, What Doesn't, and What Can Go Wrong
+URL: https://insuranceclaimsinfo.com/resources/assigning-insurance-claims-selling-damaged-property
+Summary: A policyholder's guide to selling property with an open or unresolved insurance claim — assignment of claims, mortgage company complications, and California disclosure requirements.
 
 ## Assignment of Benefits: Insurance Claims, Work Authorizations, and Selling a Damaged Home
 URL: https://insuranceclaimsinfo.com/resources/assignment-of-benefits
@@ -740,7 +744,7 @@ Summary: A deep dive into the tricky edge cases of equitable tolling in Californ
 
 ## The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice
 URL: https://insuranceclaimsinfo.com/resources/estimate-bid-invoice-xactimate
-Summary: Understanding why an Xactimate estimate without a commitment to perform is fundamentally different from a contractor
+Summary: An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier
 
 ## Estoppel, Waiver, and Promissory Estoppel in Insurance Claims
 URL: https://insuranceclaimsinfo.com/resources/estoppel-waiver-insurance
@@ -866,6 +870,10 @@ Summary: How to handle insurance claims for foundation damage caused by water le
 URL: https://insuranceclaimsinfo.com/resources/frozen-pipe-water-damage-claims
 Summary: Frozen pipe claims involve unique coverage issues including the maintenance exclusion, vacancy provisions, heat maintenance arguments, and ensuing loss disputes. Learn how California mountain community homeowners and cold-climate policyholders can protect their claims.
 
+## When the Bank Overbids at Foreclosure: How a Full Credit Bid Can Save Your Insurance Claim
+URL: https://insuranceclaimsinfo.com/resources/full-credit-bid-foreclosure-insurance-claims
+Summary: If your lender makes a full credit bid at a California foreclosure sale, the lender may have extinguished its own right to your insurance proceeds. Established law, key cases, and the loan workout strategy.
+
 ## Functional Replacement Cost: When Your Insurer Pays for 
 URL: https://insuranceclaimsinfo.com/resources/functional-replacement-cost
 Summary: Functional replacement cost policies let insurers substitute cheaper materials that serve the same 
@@ -930,6 +938,10 @@ Summary: Historic homes present unique insurance challenges. Learn why standard 
 URL: https://insuranceclaimsinfo.com/resources/history-of-bad-faith
 Summary: The complete history of bad faith insurance law in California — from Comunale and Gruenberg to the Shernoff firm and Egan v. Mutual of Omaha. How the tort was invented, how it evolved, how damages are calculated, and the realistic challenges of winning a bad faith claim.
 
+## How the Tort of Bad Faith Was Invented: The History That Changed Insurance Law Forever
+URL: https://insuranceclaimsinfo.com/resources/history-of-bad-faith-insurance-law
+Summary: The legal principle that insurers can be held liable beyond the policy for unreasonably denying or delaying claims did not exist until California courts created it. Trace the history from Comunale to Egan and understand how bad faith law protects policyholders today.
+
 ## Hoarding and Insurance Coverage: When a Mental Health Condition Meets Your Homeowner Policy
 URL: https://insuranceclaimsinfo.com/resources/hoarding-insurance-coverage
 Summary: Hoarding disorder is a recognized DSM-5 diagnosis, not negligence. Learn how hoarding affects insurance coverage, what insurers argue, how to protect your claim, and what California law says about coverage for hoarded properties.
@@ -960,7 +972,7 @@ Summary: Realistic timelines for homeowner insurance claims by type — water da
 
 ## How to Challenge an Xactimate Estimate: A Step-by-Step Guide
 URL: https://insuranceclaimsinfo.com/resources/how-to-challenge-xactimate-estimate
-Summary: A practical guide for policyholders, public adjusters, and attorneys on identifying errors in an insurance carrier&apos;s Xactimate estimate and building an effective challenge.
+Summary: A practical guide for policyholders, public adjusters, and attorneys on identifying errors in an insurance carrier's Xactimate estimate and building an effective challenge.
 
 ## How to Document Damage for Your Insurance Claim
 URL: https://insuranceclaimsinfo.com/resources/how-to-document-damage
@@ -1076,7 +1088,7 @@ Summary: When major insurers simultaneously withdraw from California, the FAIR P
 
 ## When the Insurance Company Burns Your Policy Limits on Repairs That Were Never Going to Work
 URL: https://insuranceclaimsinfo.com/resources/insurer-directed-failed-repairs-wasted-policy-limits
-Summary: When insurers direct policyholders to attempt cleaning or repairs the insured warned would fail, the wasted costs consume policy limits. Learn how to protect your benefits with test cleanings, trade standards, and proper documentation.
+Summary: What happens when your insurer directs you to spend policy proceeds on cleaning or remediation that fails — over your objection — and then counts the wasted money against your policy limits. California law, practical steps, and legal theories for recovery.
 
 ## What Your Insurance Company Is Required to Tell You — And What They Conveniently Forget
 URL: https://insuranceclaimsinfo.com/resources/insurer-disclosure-obligations
@@ -1572,7 +1584,7 @@ Summary: Your insurance claim was closed, but new damage appeared during repairs
 
 ## Repair First or Negotiate First: The Strategic Dilemma at the Heart of Every Property Insurance Claim
 URL: https://insuranceclaimsinfo.com/resources/repair-first-or-negotiate-first
-Summary: Should you complete repairs and present invoices, or negotiate the settlement before starting work? The strategic advantages, risks, and California-specific regulations that drive this critical decision.
+Summary: When should a policyholder complete repairs before reaching a settlement — and when should they refuse to lift a hammer until the carrier pays? A strategic framework for California property insurance claims.
 
 ## What 'Replacement Cost' Means and Why It Matters More Than You Think
 URL: https://insuranceclaimsinfo.com/resources/replacement-cost-explained
@@ -1824,7 +1836,7 @@ Summary: IBHS research proves shingles hit by small hail become ten times more v
 
 ## The Insurance Trap in 
 URL: https://insuranceclaimsinfo.com/resources/subject-to-mortgage-insurance-trap
-Summary: When a buyer purchases property 
+Summary: When property changes hands in a subject-to transaction, the seller's insurance may be worthless and the buyer may have no coverage at all. Insurable interest, concealment, due-on-sale clauses, and the coverage gap that destroys families.
 
 ## Subrogation in Property Insurance: Your Right to Recover What the Insurer Won’t
 URL: https://insuranceclaimsinfo.com/resources/subrogation
@@ -1922,6 +1934,10 @@ Summary: No California statute, regulation, or policy provision requires policyh
 URL: https://insuranceclaimsinfo.com/resources/three-trade-rule
 Summary: The three-trade rule is a practical shorthand for a legal principle adopted by appellate courts across the country: overhead and profit are owed whenever a general contractor is reasonably likely to be needed. Nine verified case law citations, state regulatory authority, and practical guidance for policyholders.
 
+## The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit
+URL: https://insuranceclaimsinfo.com/resources/three-trade-rule-overhead-profit
+Summary: The three-trade rule is a practical shorthand for a legal principle that appellate courts across the country have adopted and enforced for decades. Learn the case law, the regulatory authority, and how to fight for O&P on your claim.
+
 ## How Insurance Companies Use Time as Their Most Powerful Weapon
 URL: https://insuranceclaimsinfo.com/resources/time-pressure-negotiation-weapon
 Summary: ALE limits, depreciation deadlines, claim fatigue, and the statute of limitations &mdash; how the passage of time itself becomes the carrier&apos;s strongest negotiation tool. Learn to recognize and neutralize these structural pressures.
@@ -2016,7 +2032,7 @@ Summary: How to handle an insurance claim when a vehicle strikes your home or co
 
 ## When the Victim Becomes the Villain: The Tort Reform Narrative and What It Costs Policyholders
 URL: https://insuranceclaimsinfo.com/resources/victim-becomes-villain-tort-reform
-Summary: How the insurance industry funded the tort reform movement, rewrote the Stella Liebeck story, and created a culture that punishes policyholders for asserting their rights. The real facts behind the McDonald's coffee case and what it means for your insurance claim.
+Summary: How the insurance industry spent hundreds of millions turning injured people into villains — and how that narrative directly undermines your insurance claim today. The real story of Stella Liebeck, the funding behind tort reform, and what it means for policyholders.
 
 ## Virtual Inspections and Remote Adjusting: How Desk Claims Affect Your Payout
 URL: https://insuranceclaimsinfo.com/resources/virtual-inspections-remote-adjusting
@@ -2093,6 +2109,10 @@ Summary: The three words
 ## The White Waiver: California's Settlement-Privilege Waiver Explained
 URL: https://insuranceclaimsinfo.com/resources/white-waiver
 Summary: What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.
+
+## The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret
+URL: https://insuranceclaimsinfo.com/resources/white-waiver-insurance-settlement-confidentiality
+Summary: What a White waiver is, why insurers ask you to sign one, what rights you surrender, and how to protect yourself. California law on settlement confidentiality in insurance bad faith disputes.
 
 ## The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret
 URL: https://insuranceclaimsinfo.com/resources/white-waiver-settlement-confidentiality

@@ -123,6 +123,10 @@
     "title": "Asbestos and Lead Paint in Insurance Claims: How They Increase Repair Costs and Who Pays",
     "description": "When a covered loss disturbs asbestos or lead paint in older California homes, abatement costs are part of the repair — not betterment. Learn the CA regulations, EPA rules, AQMD requirements, and how to include abatement costs in your insurance claim from day one."
   },
+  "assigning-insurance-claims-selling-damaged-property": {
+    "title": "Assigning an Insurance Claim When Selling a Damaged Property: What Transfers, What Doesn't, and What Can Go Wrong",
+    "description": "A policyholder's guide to selling property with an open or unresolved insurance claim — assignment of claims, mortgage company complications, and California disclosure requirements."
+  },
   "assignment-of-benefits": {
     "title": "Assignment of Benefits: Insurance Claims, Work Authorizations, and Selling a Damaged Home",
     "description": "Learn how assignment of benefits works in property insurance claims, what work authorization forms really do, and how to handle an insurance claim when selling a damaged home."
@@ -733,7 +737,7 @@
   },
   "estimate-bid-invoice-xactimate": {
     "title": "The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice",
-    "description": "Understanding why an Xactimate estimate without a commitment to perform is fundamentally different from a contractor"
+    "description": "An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier"
   },
   "estoppel-waiver-insurance": {
     "title": "Estoppel, Waiver, and Promissory Estoppel in Insurance Claims",
@@ -859,6 +863,10 @@
     "title": "Frozen Pipe and Cold Weather Water Damage Claims: Coverage, Exclusions, and Carrier Tactics",
     "description": "Frozen pipe claims involve unique coverage issues including the maintenance exclusion, vacancy provisions, heat maintenance arguments, and ensuing loss disputes. Learn how California mountain community homeowners and cold-climate policyholders can protect their claims."
   },
+  "full-credit-bid-foreclosure-insurance-claims": {
+    "title": "When the Bank Overbids at Foreclosure: How a Full Credit Bid Can Save Your Insurance Claim",
+    "description": "If your lender makes a full credit bid at a California foreclosure sale, the lender may have extinguished its own right to your insurance proceeds. Established law, key cases, and the loan workout strategy."
+  },
   "functional-replacement-cost": {
     "title": "Functional Replacement Cost: When Your Insurer Pays for ",
     "description": "Functional replacement cost policies let insurers substitute cheaper materials that serve the same "
@@ -919,6 +927,10 @@
     "title": "Historic and Heritage Home Insurance Claims: When Standard Replacement Cost Falls Short",
     "description": "Historic homes present unique insurance challenges. Learn why standard replacement cost often falls short, how like kind and quality applies to period materials, and what coverage options exist for heritage properties."
   },
+  "history-of-bad-faith-insurance-law": {
+    "title": "How the Tort of Bad Faith Was Invented: The History That Changed Insurance Law Forever",
+    "description": "The legal principle that insurers can be held liable beyond the policy for unreasonably denying or delaying claims did not exist until California courts created it. Trace the history from Comunale to Egan and understand how bad faith law protects policyholders today."
+  },
   "history-of-bad-faith": {
     "title": "How the Tort of Bad Faith Was Invented: The History That Changed Insurance Law Forever",
     "description": "The complete history of bad faith insurance law in California — from Comunale and Gruenberg to the Shernoff firm and Egan v. Mutual of Omaha. How the tort was invented, how it evolved, how damages are calculated, and the realistic challenges of winning a bad faith claim."
@@ -953,7 +965,7 @@
   },
   "how-to-challenge-xactimate-estimate": {
     "title": "How to Challenge an Xactimate Estimate: A Step-by-Step Guide",
-    "description": "A practical guide for policyholders, public adjusters, and attorneys on identifying errors in an insurance carrier&apos;s Xactimate estimate and building an effective challenge."
+    "description": "A practical guide for policyholders, public adjusters, and attorneys on identifying errors in an insurance carrier's Xactimate estimate and building an effective challenge."
   },
   "how-to-document-damage": {
     "title": "How to Document Damage for Your Insurance Claim",
@@ -1069,7 +1081,7 @@
   },
   "insurer-directed-failed-repairs-wasted-policy-limits": {
     "title": "When the Insurance Company Burns Your Policy Limits on Repairs That Were Never Going to Work",
-    "description": "When insurers direct policyholders to attempt cleaning or repairs the insured warned would fail, the wasted costs consume policy limits. Learn how to protect your benefits with test cleanings, trade standards, and proper documentation."
+    "description": "What happens when your insurer directs you to spend policy proceeds on cleaning or remediation that fails — over your objection — and then counts the wasted money against your policy limits. California law, practical steps, and legal theories for recovery."
   },
   "insurer-disclosure-obligations": {
     "title": "What Your Insurance Company Is Required to Tell You — And What They Conveniently Forget",
@@ -1565,7 +1577,7 @@
   },
   "repair-first-or-negotiate-first": {
     "title": "Repair First or Negotiate First: The Strategic Dilemma at the Heart of Every Property Insurance Claim",
-    "description": "Should you complete repairs and present invoices, or negotiate the settlement before starting work? The strategic advantages, risks, and California-specific regulations that drive this critical decision."
+    "description": "When should a policyholder complete repairs before reaching a settlement — and when should they refuse to lift a hammer until the carrier pays? A strategic framework for California property insurance claims."
   },
   "replacement-cost-explained": {
     "title": "What 'Replacement Cost' Means and Why It Matters More Than You Think",
@@ -1817,7 +1829,7 @@
   },
   "subject-to-mortgage-insurance-trap": {
     "title": "The Insurance Trap in ",
-    "description": "When a buyer purchases property "
+    "description": "When property changes hands in a subject-to transaction, the seller's insurance may be worthless and the buyer may have no coverage at all. Insurable interest, concealment, due-on-sale clauses, and the coverage gap that destroys families."
   },
   "subrogation-insurance-claims": {
     "title": "Subrogation in Insurance Claims: What Policyholders Need to Know",
@@ -1910,6 +1922,10 @@
   "three-bids-myth": {
     "title": "The “Three Bids” Myth: Why Your Insurance Company Cannot Require Multiple Contractor Estimates",
     "description": "No California statute, regulation, or policy provision requires policyholders to obtain three contractor bids before a claim will be paid. Here is where the myth comes from, why carriers use it, and how to respond."
+  },
+  "three-trade-rule-overhead-profit": {
+    "title": "The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit",
+    "description": "The three-trade rule is a practical shorthand for a legal principle that appellate courts across the country have adopted and enforced for decades. Learn the case law, the regulatory authority, and how to fight for O&P on your claim."
   },
   "three-trade-rule": {
     "title": "The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit",
@@ -2009,7 +2025,7 @@
   },
   "victim-becomes-villain-tort-reform": {
     "title": "When the Victim Becomes the Villain: The Tort Reform Narrative and What It Costs Policyholders",
-    "description": "How the insurance industry funded the tort reform movement, rewrote the Stella Liebeck story, and created a culture that punishes policyholders for asserting their rights. The real facts behind the McDonald's coffee case and what it means for your insurance claim."
+    "description": "How the insurance industry spent hundreds of millions turning injured people into villains — and how that narrative directly undermines your insurance claim today. The real story of Stella Liebeck, the funding behind tort reform, and what it means for policyholders."
   },
   "virtual-inspections-remote-adjusting": {
     "title": "Virtual Inspections and Remote Adjusting: How Desk Claims Affect Your Payout",
@@ -2082,6 +2098,10 @@
   "where-you-reside-exclusion": {
     "title": "Where You Reside: The Hidden Killer Exclusion in Your Homeowner Policy",
     "description": "The three words "
+  },
+  "white-waiver-insurance-settlement-confidentiality": {
+    "title": "The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret",
+    "description": "What a White waiver is, why insurers ask you to sign one, what rights you surrender, and how to protect yourself. California law on settlement confidentiality in insurance bad faith disputes."
   },
   "white-waiver-settlement-confidentiality": {
     "title": "The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret",
