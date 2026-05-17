@@ -3,11 +3,13 @@ import Link from 'next/link'
 import { ArticleLayout } from '@/components/content/ArticleLayout'
 import { RelatedArticles } from '@/components/content/RelatedArticles'
 import { JsonLd } from '@/components/seo/JsonLd'
-import { getCategoryForArticle, getCtaVariantForArticle } from '@/lib/content/taxonomy'
+import { getCategoryForArticle, getCtaVariantForArticle, CATEGORIES } from '@/lib/content/taxonomy'
 import articleDates from '@/public/data/article-dates.json'
 import articleRegistry from '@/public/data/article-registry.json'
+import articleTags from '@/public/data/article-tags.json'
 
 const registry = articleRegistry as Record<string, { title: string; description: string }>
+const tagData = articleTags as Record<string, { subcategory?: string }>
 
 interface Props { params: Promise<{ slug: string }> }
 
@@ -51,18 +53,26 @@ export default async function ResourceArticlePage({ params }: Props) {
   const ctaVariant = getCtaVariantForArticle(slug)
   const dates = (articleDates as Record<string, { published: string; modified: string }>)[slug]
 
+  const subcategorySlug = tagData[slug]?.subcategory
+  const subcategoryLabel = subcategorySlug && category
+    ? CATEGORIES.find(c => c.label === category.label)?.subcategories?.find(s => s.slug === subcategorySlug)?.label
+    : undefined
+
   const breadcrumbItems = [
     { label: 'Home', href: '/' },
     { label: 'Resources', href: '/resources' },
     ...(category ? [{ label: category.label, href: `/resources#${category.slug}` }] : []),
+    ...(subcategoryLabel ? [{ label: subcategoryLabel, href: `/resources#${subcategorySlug}` }] : []),
     { label: title },
   ]
 
+  let pos = 1
   const jsonLdBreadcrumbs = [
-    { '@type': 'ListItem' as const, position: 1, name: 'Home', item: 'https://insuranceclaimsinfo.com' },
-    { '@type': 'ListItem' as const, position: 2, name: 'Resources', item: 'https://insuranceclaimsinfo.com/resources' },
-    ...(category ? [{ '@type': 'ListItem' as const, position: 3, name: category.label, item: `https://insuranceclaimsinfo.com/resources#${category.slug}` }] : []),
-    { '@type': 'ListItem' as const, position: category ? 4 : 3, name: title },
+    { '@type': 'ListItem' as const, position: pos++, name: 'Home', item: 'https://insuranceclaimsinfo.com' },
+    { '@type': 'ListItem' as const, position: pos++, name: 'Resources', item: 'https://insuranceclaimsinfo.com/resources' },
+    ...(category ? [{ '@type': 'ListItem' as const, position: pos++, name: category.label, item: `https://insuranceclaimsinfo.com/resources#${category.slug}` }] : []),
+    ...(subcategoryLabel ? [{ '@type': 'ListItem' as const, position: pos++, name: subcategoryLabel, item: `https://insuranceclaimsinfo.com/resources#${subcategorySlug}` }] : []),
+    { '@type': 'ListItem' as const, position: pos, name: title },
   ]
 
   try {

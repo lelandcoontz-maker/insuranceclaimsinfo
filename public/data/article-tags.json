@@ -1,0 +1,5223 @@
+{
+  "50-state-op-map": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "ab-1642-claims-timeline": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "ab-597-public-adjuster-regulations": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "accidental-discharge-overflow": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "accommodation-payments": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "accord-and-satisfaction-checks": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "accounts-receivable-valuable-papers": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "acv-rcv": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "adding-family-member-deed-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "adjuster-changes-mid-claim": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "adjuster-compensation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "adjuster-pressure-truth": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "adjuster-types": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "adu-coverage-gaps": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "adu-granny-flat-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "advance-payments-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "advance-payments-partial-payments": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "agreed-value-policies": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "ai-claims-handling-policyholder-rights": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "ale-advance-payments": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "ale-frv": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "animal-pest-damage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "anti-concurrent-causation": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "appraisal-mediation-litigation-decision": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "appraisal-practitioner-guide": {
+    "audience": [
+      "professional",
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "appraisal-sfp-addition": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "appraisal-tolling-statute-limitations": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "appraisal": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "asbestos-lead-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "assignment-of-benefits": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "auto-repair-body-shop-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "back-to-back-disasters": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "bad-faith-damages": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "bad-faith": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "balloon-vs-platform-framing": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "water",
+      "mold"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "bedbug-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "below-the-deductible-strategies": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "betterment-and-improvement": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "biased-insurance-experts": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "biohazard-drywall-fraud-threat": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "biohazard-hazmat-trauma-cleanup": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "theft"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "blanket-vs-scheduled-personal-property": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "blanket-vs-specific-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "blockage-vs-backup": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "brandt-fees": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "broad-evidence-rule-acv": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "broker-agent-liability": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "builders-risk-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "builders-risk": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "building-codes-effectiveness-grading": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "building-permits-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "building-your-claim-file": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "business-cyber-liability-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "business-income-documentation-pre-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "business-income-loss-calculation": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "business-income-waiting-period": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "business-interruption": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "business-personal-property-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "caci-jury-instructions-insurance": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "california-appraisal-case-law": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "california-claim-deadlines": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "california-construction-law-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "california-fair-claims": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "california-fair-plan": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "california-insurance-case-law": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "california-insurance-crisis": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cannabis-cultivation-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "carrier-claims-tactics": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "case-study",
+    "jurisdiction": "california"
+  },
+  "carrier-contractor-admits-failure": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "carrier-profiles-know-your-carrier": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cashing-insurance-checks": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "catastrophe-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cause-and-origin-fire-investigations": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "cdi-36-month-ale": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cdi-advance-payments": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cdi-complaint": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "cdi-contents-without-inventory": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cdi-flood-mudslide-wildfire": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "water"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "cdi-rebuild-new-location": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cdi-right-to-claim-documents": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cdi-smoke-damage-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "certificates-of-insurance-limitations": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "choosing-your-contractor": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "church-nonprofit-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "civil-authority-utility-services": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "claim-negotiation-letters": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "claims-process": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "class-actions-mass-torts-insurers": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "case-study",
+    "jurisdiction": "california"
+  },
+  "climate-change-commercial-property-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "smoke",
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "clue-database": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "code-upgrade-coverage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "water",
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cognitive-decline-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "coinsurance-penalty": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "collapse-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "specialty-damage"
+  },
+  "color-matching-material-aging": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "commercial-coinsurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "commercial-crime-social-engineering": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "commercial-endorsements": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "commercial-lease-insurance-checklist": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "commercial-lease-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "commercial-loss-of-rents": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial",
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "commercial-ordinance-law": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "commercial-umbrella-excess-liability": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "commercial-vacancy-clause": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "commercial-vs-residential-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "common-xactimate-errors": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "commonly-missed-items": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "mold"
+    ],
+    "contentType": "checklist",
+    "jurisdiction": "california"
+  },
+  "community-property-insurance-proceeds": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "condo-hoa-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "consequential-vs-ensuing-damages": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "conservatorship-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "construction-company-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "construction-defect-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "construction-timeline-disputes-ale": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "consumer-advocacy-groups": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "contents-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "contents-cleaning-total-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "water",
+      "smoke",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "contents-coverage-gaps": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "contents-inventory-guide": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "contingent-business-interruption": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "contra-proferentem": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "contractor-liens-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "contractors-and-deductibles": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "cosmetic-damage-denials": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "coverage-a-vs-coverage-b": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "coverage-allocation-over-limit-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "coverage-disputes": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "coworking-space-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "cp-cause-of-loss-forms": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "cp-vs-bop-policies": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "crop-agricultural-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "federal",
+    "subcategory": "fire-smoke"
+  },
+  "cslb-licensing-requirements": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "cyber-coverage-homeowners": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "theft"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "daycare-childcare-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "dealing-with-adjuster": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "debris-removal-deep-dive": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "debris-removal": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "deciding-not-to-rebuild": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "declarations-page": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "deductibles-guide": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "defeating-carrier-engineers": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "delay-deny-defend-review": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "demand-surge-pricing": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "dependent-property-business-income": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "depreciation-schedules-useful-life": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "depublication-hidden-insurance-law": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "desk-adjusting-remote-estimates": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "dic-policies": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "diminution-in-value": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "disaster-preparedness": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "discovery-insurance-litigation": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "divorce-separation-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "dog-breed-restrictions-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "drone-satellite-surveillance-insurers": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "drug-contamination-landlord-claims": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "commercial",
+      "theft"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "specialty-damage"
+  },
+  "drying-standards-moisture": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "duties-after-loss": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "duty-to-investigate": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "earth-movement-landslide": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "earthquake-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "ecommerce-business-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "efficient-proximate-cause-doctrine": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "efficient-proximate-cause": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "elder-abuse-insurance": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "emergency-mitigation-vendors": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "emotional-distress-bad-faith-claims": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "employee-dishonesty-crime-gap": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial",
+      "theft"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "endorsement-overrides-exclusions": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "endorsements-every-homeowner-needs": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "endorsements"
+  },
+  "engineering-reports-vs-coverage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "ensuing-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "environmental-sampling-methods": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "epa-mold-remediation-guide": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "mold"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "equipment-breakdown-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "equitable-tolling-nuances": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "equitable-tolling": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "estimate-bid-invoice-xactimate": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "estoppel-waiver-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "esx-file-rights-xactimate": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "ev-battery-fires-homeowners-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "examination-under-oath": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "excessive-depreciation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "exclusions": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "expert-witnesses-insurance-litigation": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "extended-period-of-indemnity": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "extra-contractual-vs-bad-faith": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "extra-expense-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "fair-plan-claims-limitations": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "false-fraud-accusations-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "farmers-closing-ratio": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "fema-nfip-oversight-failures": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "federal"
+  },
+  "fire-claim-denied": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "fire-debris-cleanup-without-fire": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "fire-department-demolition-charges": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "fire-sprinkler-water-contamination": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "first-offer-lowball": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "flood-exclusion-commercial": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water",
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "flood-insurance-nfip-vs-private": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "water",
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "federal",
+    "subcategory": "water-mold"
+  },
+  "food-truck-mobile-vendor-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "force-placed-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "foreclosure-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "fortuity-doctrine-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "foundation-damage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "frozen-pipe-water-damage-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "functional-replacement-cost": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "valuation"
+  },
+  "games-insurers-play-claims-process-grief": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "games-insurers-play-documentation-loop": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "games-insurers-play-preferred-vendor": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "games-insurers-play-wear-and-tear": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "genuine-dispute-doctrine": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "glass-breakage-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial",
+      "theft"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "good-hands-boxing-gloves-review": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "gym-fitness-center-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "hail-damage-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "wind-roof"
+  },
+  "hail-damage-courts-narrowing": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "hail-damage-science": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "wind-roof"
+  },
+  "hail-damage-threshold-sizes": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "hailstone-damage-research": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "historic-heritage-home-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "history-of-bad-faith": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "case-study",
+    "jurisdiction": "california"
+  },
+  "hoarding-insurance-coverage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "home-renovation-insurance-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "hotel-hospitality-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "how-insurance-adjusters-are-paid": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "how-insurance-payments-calculated": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "how-long-do-claims-take": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "water",
+      "mold",
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "how-to-challenge-xactimate-estimate": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "how-to-read-verisk-white-paper": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "how-to-read-xactimate-estimate": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "how-to-read-your-policy": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "iicrc-standards-certifications": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "illusory-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "incomplete-repairs-create-new-problems": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "independent-adjuster-explained": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "inflation-guard-coinsurance-weapon": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "inflation-guard-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "inland-marine": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "innocent-co-insured-doctrine": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "insurable-interest": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "insurance-ai-automated-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "insurance-checks": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurance-claim-assignments": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurance-claims-file": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "case-study",
+    "jurisdiction": "california"
+  },
+  "insurance-code-790": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurance-delay-tactics": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurance-marketing-vs-reality": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "insurance-mediation": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurance-myths-debunked": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "insurance-properties-probate": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurer-antitrust-fair-plan": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "insurer-directed-failed-repairs-wasted-policy-limits": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurer-disclosure-obligations": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurer-documentation-bad-faith": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "insurer-duty-to-explain-payment": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurer-fraud-vs-bad-faith": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "insurer-insolvency-ciga": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurer-insolvency-guaranty-fund": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "insurer-option-to-repair": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "insurer-reformation-policy": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "insuring-inherited-property": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "inverse-condemnation": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "iot-smart-home-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "iso-insurance-services-office": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "case-study",
+    "jurisdiction": "california"
+  },
+  "joint-ownership-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "knob-and-tube-wiring": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "kurach-op-policy-restrictions": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "labor-depreciation-debate": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "labor-depreciation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "landlord-duty-to-disclose": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water",
+      "mold",
+      "commercial",
+      "roof"
+    ],
+    "contentType": "case-study",
+    "jurisdiction": "california"
+  },
+  "landlord-insurance-should-have-covered": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "landlord-vs-tenant-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "large-commercial-losses": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "late-notice-coverage-defense": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "lenders-loss-payable-endorsement": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "endorsements"
+  },
+  "life-estate-remainder-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "lightning-damage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "long-term-displacement-ale": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "ale"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "loss-assessment-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "loss-of-use-maximizing": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "loss-settlement-provisions": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "managed-repair-program-drp": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "managing-agent-punitive-damages": {
+    "audience": [
+      "professional",
+      "attorney",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "manufacturing-industrial-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "marine-cargo-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "marine-cargo-standalone": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "matching-impossible-banned-materials": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "matching": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "material-misrepresentation-nondisclosure": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "medicaid-estate-recovery-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "federal"
+  },
+  "medical-dental-office-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "misleading-replacement-cost-estimates": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "mobile-manufactured-home-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "mold-coverage-paradox": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "mold"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "mold-growth-prediction-research": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "mold"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "mold-losses": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "mold"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "moradi-shalal-790": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "mortgage-company-holds": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "mortgage-company-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "federal"
+  },
+  "mortgage-company-public-adjuster": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "multiple-insurers-same-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "multiple-reasons-to-replace": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "named-insured-vs-an-insured": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "named-vs-additional-insured": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "negotiation": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "neighbor-property-damage-disputes": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "neighboring-tenant-sprinkler-damage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "water",
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "new-california-insurance-laws-2025-2026": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "nfip-sandy-claims-underpayment": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "federal"
+  },
+  "nist-camp-fire-investigation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "nist-witch-fire-case-study": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "nist-wui-hazard-methodology": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "ale"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "nnn-lease-insurance-traps": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "non-renewal-after-claim": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "nonrenewal-cancellation": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "off-premises-utility-services": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial",
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "op-depreciation-california": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "federal"
+  },
+  "open-perils-vs-named-perils": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents",
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "ordinance-law-asbestos-abatement": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "ordinance-law": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "osha-building-code-ordinance-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "overhead-and-profit": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "packout-storage-process": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "pair-and-set": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california",
+    "subcategory": "valuation"
+  },
+  "parametric-insurance-commercial": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "water",
+      "commercial",
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "parametric-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "peak-season-endorsement": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial",
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "pending-claim-policyholder-dies": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "period-of-restoration-disputes": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial",
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "personal-property-special-considerations": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "pets-animals-coverage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "ale"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "pfas-forever-chemicals-property": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "policy-interpretation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "policy-reformation": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "policy-rescission": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "policy-types-overview": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "water",
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "policy-vs-law": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "policyholder-death-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "policyholder-rights": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "pollution-exclusion-claims": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "polybutylene-cpvc-pipes": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "pool-spa-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "post-disaster-scams": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "power-of-attorney-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "pre-existing-vs-storm-damage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "preferred-contractor-conflict-of-interest": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "preferred-vendor-problems": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "professional-services-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "proof-of-loss-signing-strategy": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "proof-of-loss": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "property-held-in-trust-coverage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "protective-safeguards": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "public-adjuster-fees": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "public-adjuster": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "punitive-damages-bad-faith": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "rain-damage-vs-flood": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water",
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "rate-increase-after-claim": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "reading-insurer-letters": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "reading-statement-of-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "real-negotiation-case-studies": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "reasonable-expectations-doctrine": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "recorded-statement-preparation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "recorded-statements-siu": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "recording-insurance-inspections": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "recoverable-depreciation-deadline": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "release-trap-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "remediation-vs-restoration": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "reopening-closed-claims": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "repair-first-or-negotiate-first": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "replacement-cost-vs-guaranteed": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "reservation-of-rights-letter": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "reservation-of-rights": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "reserve-reinsurance-discovery": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "reserves-and-authority": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "responding-to-insurer-in-writing": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "restaurant-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "retail-store-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "retaining-wall-hillside-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "reverse-mortgage-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "ricowi-hail-field-investigations": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "right-to-repair": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "risk-scoring-insurance-pricing": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "roof-damage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "roof-waste-factor": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "roofing-systems-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "wind-roof"
+  },
+  "rural-agricultural-property-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "salon-spa-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "salvage-rights": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "sb49-contents-rule": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "scheduled-personal-property": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "scope-of-loss": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "scope-vs-price-disputes": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "scoping-the-loss": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "selective-op-denial": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "contents",
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "self-storage-facility-insurance-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "selling-property-pending-claim": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "septic-system-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "service-line-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "settlement-as-leverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "sewage-contamination-mitigation-failure": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "short-term-rental-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "signs-you-are-underinsured": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents",
+      "ale"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "policy-structure"
+  },
+  "silent-cyber-property-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "silica-contamination": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "siu-referral-investigation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "slab-leak-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "small-claims-court-property-damage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "smoke-cleanup-protocols": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "smoke-damage-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "smoke-taint-vineyard-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "snowbird-vacancy-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "social-media-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "social-media-insurance-claims": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "soft-costs-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "solar-panel-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "commercial"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "special-limits-of-liability": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "specialty-items": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "spoilage-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "standard-fire-policy-denials-to-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "standard-fire-policy-insurance-code-2070": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "state-farm-appraisal-trap": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "statement-of-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "stigmatized-properties-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "stock-inventory-valuation-methods": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "strategic-proof-of-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "stucco-eifs-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "sub-bids-vs-xactimate-pricing": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "sub-severe-hail-cumulative-damage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "subject-to-mortgage-insurance-trap": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "subrogation-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "subrogation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "sue-and-labor-clause": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "supplement-process-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "supplemental-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "surplus-lines-non-admitted-carriers": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "surprising-coverages": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "sustainable-insurance-strategy": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "swimming-pool-damage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "systematic-underinsurance-class-actions": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "tax-consequences-insurance-settlements": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "tax-implications-insurance-settlements": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "temporary-emergency-repairs": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "tenant-improvements-betterments": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "water",
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "federal"
+  },
+  "tenant-landlord-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "tenant-roof-leak-coverage-gap": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "water",
+      "commercial",
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "theft-burglary-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "theft"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "specialty-damage"
+  },
+  "thermal-heat-damage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "third-party-litigation-funding": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "third-party-vs-first-party": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "three-bids-myth": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "three-trade-rule": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "time-pressure-negotiation-weapon": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "fire",
+      "ale"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  },
+  "tortious-interference-insurance-claims": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "total-loss": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "trade-secret-claims-manuals": {
+    "audience": [
+      "professional",
+      "attorney"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "tree-falling-object-damage": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "specialty-damage"
+  },
+  "trust-owned-property-insurance": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "unattended-death-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "contents",
+      "ale"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "undefined-policy-terms": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "underground-climate-change-subsidence": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "underinsurance-broker-liability": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "underinsured-after-wildfire": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "undue-influence-insurance": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "unexpected-fire-causes-subrogation": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "unlicensed-adjusters": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "up-amicus-briefs-california": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "urban-vs-forest-wildfire-smoke": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "vacancy-unoccupancy": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "theft"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "valuable-papers-records": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "valued-policy-laws": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "coverage-types"
+  },
+  "vandalism-claims": {
+    "audience": [
+      "attorney"
+    ],
+    "claimType": [
+      "commercial",
+      "roof",
+      "theft"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "vehicle-impact-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "specialty-damage"
+  },
+  "victim-becomes-villain-tort-reform": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "case-study",
+    "jurisdiction": "california"
+  },
+  "virtual-inspections-remote-adjusting": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "virus-bacteria-exclusion-covid": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "case-study",
+    "jurisdiction": "california"
+  },
+  "waiver-of-subrogation-commercial-leases": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "warehouse-distribution-insurance-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "contents"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "water-backup-endorsement": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "water-damage-categories-classes": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
+  },
+  "water-damage-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "wear-and-tear-cause-of-loss": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "wear-and-tear-exclusion": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "when-not-to-file-claim": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "when-to-hire-attorney": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "when-to-hire-industrial-hygienist": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "environmental"
+  },
+  "where-you-reside-exclusion": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "white-waiver-settlement-confidentiality": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "white-waiver": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "wildfire-guide": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "wildfire-mudslide-coverage": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california",
+    "subcategory": "fire-smoke"
+  },
+  "wildfire-smoke-physical-loss": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "wind-damage-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "roof"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california",
+    "subcategory": "wind-roof"
+  },
+  "xactimate-how-it-works": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "xactimate-labor-efficiency-settings": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "xactimate-line-item-manipulation": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "xactimate-line-items": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "xactimate-not-the-law": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "federal"
+  },
+  "xactimate-overhead-profit": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "xactimate-ownership-conflict": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "xactimate-price-list-dates": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "ale"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "xactimate-pricing-gap": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "xactimate-pricing-user-responsibility": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "xactimate-training-guide": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "xactimate-user-manual": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
+  "xactimate": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "your-rights-short-version": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "legal-analysis",
+    "jurisdiction": "california"
+  }
+}

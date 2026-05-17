@@ -1,5 +1,25 @@
 import type { CtaVariant } from '@/components/content/ArticleLayout'
 
+// ---------------------------------------------------------------------------
+// Tag System (four dimensions)
+// ---------------------------------------------------------------------------
+
+export type AudienceTag = 'newcomer' | 'mid-claim' | 'professional' | 'attorney'
+export type ClaimTypeTag = 'fire' | 'water' | 'smoke' | 'mold' | 'commercial' | 'contents' | 'ale' | 'roof' | 'theft' | 'general'
+export type ContentTypeTag = 'guide' | 'checklist' | 'legal-analysis' | 'case-study' | 'how-to' | 'reference'
+export type JurisdictionTag = 'california' | 'multi-state' | 'federal'
+
+export interface ArticleTags {
+  audience?: AudienceTag[]
+  claimType?: ClaimTypeTag[]
+  contentType?: ContentTypeTag
+  jurisdiction?: JurisdictionTag
+}
+
+// ---------------------------------------------------------------------------
+// Core Interfaces
+// ---------------------------------------------------------------------------
+
 export interface ArticleCard {
   icon: string
   title: string
@@ -7,12 +27,20 @@ export interface ArticleCard {
   href: string
   tag: string
   tagColor: string
+  subcategory?: string
+  tags?: ArticleTags
+}
+
+export interface Subcategory {
+  slug: string
+  label: string
 }
 
 export interface Category {
   label: string
   color: string
   headingColor: string
+  subcategories?: Subcategory[]
   articles: ArticleCard[]
 }
 
@@ -21,6 +49,13 @@ export const CATEGORIES: Category[] = [
     label: 'Understanding Your Residential Policy',
     color: 'bg-amber-50 border-amber-200',
     headingColor: 'text-amber-900',
+    subcategories: [
+      { slug: 'policy-structure', label: 'Policy Structure & Reading' },
+      { slug: 'coverage-types', label: 'Coverage Types & Limits' },
+      { slug: 'valuation', label: 'Valuation & Settlement' },
+      { slug: 'property-types', label: 'Property Types & Situations' },
+      { slug: 'endorsements', label: 'Endorsements & Add-Ons' },
+    ],
     articles: [
       {
         icon: '📑',
@@ -979,6 +1014,14 @@ export const CATEGORIES: Category[] = [
     label: 'Filing & Managing Your Claim',
     color: 'bg-green-50 border-green-200',
     headingColor: 'text-green-900',
+    subcategories: [
+      { slug: 'getting-started', label: 'Getting Started' },
+      { slug: 'working-with-adjusters', label: 'Working With Adjusters' },
+      { slug: 'payments-valuation', label: 'Payments & Valuation' },
+      { slug: 'living-expenses', label: 'Living Expenses' },
+      { slug: 'contents-claims', label: 'Contents Claims' },
+      { slug: 'supplements-reopening', label: 'Supplements & Reopening' },
+    ],
     articles: [
       {
         icon: '🗂',
@@ -2057,6 +2100,13 @@ export const CATEGORIES: Category[] = [
     label: 'Disputes & Fighting Back',
     color: 'bg-orange-50 border-orange-200',
     headingColor: 'text-orange-900',
+    subcategories: [
+      { slug: 'negotiation', label: 'Negotiation & Strategy' },
+      { slug: 'estimating', label: 'Estimates & Pricing' },
+      { slug: 'appraisal', label: 'Appraisal & Umpire' },
+      { slug: 'engineering', label: 'Engineering & Expert Reports' },
+      { slug: 'legal-remedies', label: 'Legal Remedies' },
+    ],
     articles: [
       {
         icon: '♟',
@@ -2520,6 +2570,13 @@ export const CATEGORIES: Category[] = [
     label: 'Types of Damage',
     color: 'bg-teal-50 border-teal-200',
     headingColor: 'text-teal-900',
+    subcategories: [
+      { slug: 'fire-smoke', label: 'Fire & Smoke' },
+      { slug: 'water-mold', label: 'Water & Mold' },
+      { slug: 'wind-roof', label: 'Wind & Roof' },
+      { slug: 'specialty-damage', label: 'Specialty Damage Types' },
+      { slug: 'environmental', label: 'Environmental & Hazmat' },
+    ],
     articles: [
       {
         icon: '🔥',
@@ -3214,6 +3271,13 @@ export const CATEGORIES: Category[] = [
     label: 'California Law & Regulations',
     color: 'bg-blue-50 border-blue-200',
     headingColor: 'text-blue-900',
+    subcategories: [
+      { slug: 'bad-faith', label: 'Bad Faith & Penalties' },
+      { slug: 'statutes-regulations', label: 'Statutes & Regulations' },
+      { slug: 'case-law', label: 'Case Law' },
+      { slug: 'coverage-doctrines', label: 'Coverage Doctrines' },
+      { slug: 'consumer-protection', label: 'Consumer Protection' },
+    ],
     articles: [
       {
         icon: '⚖️',
