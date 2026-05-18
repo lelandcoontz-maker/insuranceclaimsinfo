@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: "When to Hire an Insurance Claim Attorney — And How Attorneys and Public Adjusters Work Together",
@@ -407,10 +408,16 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Public Adjusters work on contingency &mdash; a percentage of the insurance recovery,
-        typically 10&ndash;15% in California. After a declared disaster, California Insurance
-        Code &sect;15027.5 caps PA fees at 10% for residential claims in the first year after
-        the disaster declaration. The PA only gets paid when you get paid, aligning their
-        financial interest with yours. For more detail, see our guide on{' '}
+        typically 10&ndash;15% in California. California Insurance Code &sect;15027.5 governs
+        the agency relationship between the PA and the insured and requires disclosure of any
+        third-party compensation the PA receives in connection with the claim; it does{' '}
+        <strong>not</strong> impose a statutory 10% disaster cap. The 10% figure commonly seen
+        on catastrophe-disaster contracts is industry contract practice, not statutory law.
+        Pending legislation (AB 597, 2025&ndash;2026 session) would, if enacted, cap PA fees at
+        15% for catastrophic-disaster claims; AB 597 is currently held under submission in the
+        Senate Appropriations suspense file (as of August 29, 2025) and has not become law. The
+        PA only gets paid when you get paid, aligning their financial interest with yours. For
+        more detail, see our guide on{' '}
         <Link href="/resources/public-adjuster-fees" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster fees
         </Link>.
@@ -619,6 +626,69 @@ export default function Content() {
           Request a Free Consultation &rarr;
         </Link>
       </div>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What is the difference between a Public Adjuster and an insurance attorney?',
+          answer: 'A Public Adjuster is licensed under California Insurance Code §15007 et seq. to represent the insured in adjusting first-party claims — documenting the loss, preparing the claim, negotiating with the carrier. A PA cannot practice law, file lawsuits, or pursue extra-contractual remedies. An attorney is licensed by the California State Bar and can do everything a PA can do plus file lawsuits, pursue bad faith and punitive damages, represent you in depositions and at trial, and provide legal advice on coverage disputes.',
+        },
+        {
+          question: 'When do I need a Public Adjuster?',
+          answer: "When the dispute is about the amount of the claim — the carrier's estimate is too low, the scope is incomplete, depreciation is excessive, or the insurer is delaying on a claim that is not fundamentally disputed on coverage grounds. Specific situations: complex multi-coverage claims, missed-or-underscoped damage, excessive depreciation disputes, professional representation in appraisal, or simply being overwhelmed by the day-to-day claim work.",
+          displayAnswer: (
+            <>
+              When the dispute is about the amount of the claim — the carrier&apos;s estimate is too
+              low, the scope is incomplete, depreciation is excessive, or the insurer is delaying on
+              a claim that is not fundamentally disputed on coverage grounds. Specific situations:
+              complex multi-coverage claims, missed-or-underscoped damage, excessive depreciation
+              disputes, professional representation in{' '}
+              <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
+                appraisal
+              </Link>
+              , or simply being overwhelmed by the day-to-day claim work.
+            </>
+          ),
+        },
+        {
+          question: 'When do I need an attorney?',
+          answer: 'When the dispute crosses from technical into legal: outright coverage denial, bad-faith conduct, an Examination Under Oath demand, approaching statute of limitations, the need to pursue damages beyond the policy (Brandt fees, emotional distress, punitive), coverage interpretation disputes involving efficient proximate cause or ensuing-loss doctrines, or any third-party liability question. Under Egan v. Mutual of Omaha, 24 Cal.3d 809 (1979), an insurer that unreasonably withholds policy benefits may face damages beyond the policy limits.',
+          displayAnswer: (
+            <>
+              When the dispute crosses from technical into legal: outright coverage denial,{' '}
+              <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
+                bad-faith conduct
+              </Link>
+              , an{' '}
+              <Link href="/resources/examination-under-oath" className="text-[#2E74B5] underline">
+                Examination Under Oath
+              </Link>{' '}
+              demand, approaching statute of limitations, the need to pursue{' '}
+              <Link href="/resources/bad-faith-damages" className="text-[#2E74B5] underline">
+                damages beyond the policy
+              </Link>{' '}
+              (Brandt fees, emotional distress, punitive), coverage interpretation disputes involving
+              efficient proximate cause or ensuing-loss doctrines, or any third-party liability
+              question. Under Egan v. Mutual of Omaha, 24 Cal.3d 809 (1979), an insurer that
+              unreasonably withholds policy benefits may face damages beyond the policy limits.
+            </>
+          ),
+        },
+        {
+          question: 'When do I need both a PA and an attorney?',
+          answer: "On large, complex claims — total losses in the current California wildfire environment are the typical case. The PA handles the technical work (estimate, contents inventory, ALE calculation, mortgage-company hold, appraisal invocation) while the attorney handles the legal work (monitoring the statute of limitations, evaluating coverage issues, documenting bad faith, sending demand letters, filing suit if needed). The PA's contemporaneous documentation of the carrier's conduct becomes the evidentiary foundation for the attorney's legal claims.",
+        },
+        {
+          question: 'What can an attorney do that a Public Adjuster cannot?',
+          answer: 'File a lawsuit (Business & Professions Code §6125 makes non-attorney legal representation the unauthorized practice of law). Provide legal advice on coverage. Represent you in court proceedings, depositions, motions, hearings, mediations, and trial. Pursue extra-contractual damages (Brandt fees, emotional distress, punitive damages under Neal v. Farmers Ins. Exchange, 21 Cal.3d 910 (1978), elder-abuse enhancements under Welfare & Institutions Code §15600 et seq.). Send demand letters with the weight of litigation behind them. Invoke discovery to subpoena internal carrier files, reserves, and adjuster notes.',
+        },
+        {
+          question: "Can my Public Adjuster also serve as an expert in my attorney's case?",
+          answer: "Yes — frequently. Once a claim moves into litigation, the PA can be retained as an expert consultant: reviewing the carrier's estimate for errors, evaluating the adequacy of the carrier's investigation, providing testimony about claims-handling practices and the standard of care, and offering firsthand testimony if the PA handled the claim from the beginning. Plaintiff attorneys also engage PAs as consulting experts even on cases the PA did not originally handle, to prepare a competing damage valuation.",
+        },
+      ]} />
 
       <CalloutBox variant="legal" title="Disclaimer">
         <p>

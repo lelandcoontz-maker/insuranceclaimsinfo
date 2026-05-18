@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: "When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know",
@@ -1019,6 +1020,40 @@ export default function Content() {
           </a>
         </li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What does it mean when an insurance company goes "insolvent"?',
+          answer: "The company can no longer meet its financial obligations — liabilities exceed assets and it cannot pay the claims it owes. Insurance companies don't file federal bankruptcy; they go through a state-regulated process overseen by the California Department of Insurance and the courts. Conservation is the first stage — the Commissioner takes control and attempts rehabilitation. If rehabilitation isn't feasible, the court orders liquidation, all policies are cancelled, and the assets are marshalled to pay claims.",
+        },
+        {
+          question: 'What are the CIGA coverage caps?',
+          answer: "$500,000 per claim for auto, general liability, property, and casualty under Insurance Code §1063.1(c)(1)(A)(vii). For residential property insurance, dwelling-structure claims are capped at $1,000,000 or the amount recoverable under the policy, whichever is less. Each separate coverage category (dwelling, personal property, additional living expenses, other structures) is treated as a separate covered claim, each subject to its own cap. Cybersecurity claims are capped at $1,000,000 or policy limits. Workers' compensation has no cap. Claims of $100 or less are excluded entirely.",
+        },
+        {
+          question: 'Why are surplus lines (non-admitted) carriers a critical gap?',
+          answer: "CIGA applies only to admitted insurers — companies licensed by the CDI and subject to California's rate and form regulations. Surplus lines carriers operate outside the admitted market, are not CIGA members, and their policyholders have no guaranty fund protection. As admitted carriers exit the California homeowners market or restrict new business in high-risk areas, more policyholders are being pushed into surplus lines. Insurance Code §1765 requires a written disclosure that the policy is not covered by CIGA, but in practice many policyholders sign it without grasping what it means until they need to file a claim.",
+        },
+        {
+          question: 'What is the claims process with CIGA?',
+          answer: "If you had an open claim with the insolvent insurer, you generally don't re-file — the court-appointed liquidator transfers open files to CIGA, though delays are inevitable. CIGA will mail letters identifying who handles your claim; if you don't hear from CIGA within roughly a month of the insolvency, contact them directly. CIGA then investigates, adjusts, and pays covered claims (or denies claims that don't qualify), subject to the statutory caps, exclusions, and reductions. Expect the process to be slower and more limited than dealing with a functioning carrier — CIGA is processing claims from a failed company, often with incomplete records, and under statutory constraints the original insurer didn't have.",
+        },
+        {
+          question: 'Do I have to meet a filing deadline?',
+          answer: "Yes, and it is strictly enforced. Each liquidation proceeding has its own court-set proof-of-claim (POC) deadline, established in the liquidation order and published in the notice sent to potential claimants. Deadlines vary from case to case but are typically set several months out from the liquidation order. To qualify as a covered claim, your claim must be presented to the liquidator or CIGA on or before that deadline. Even if CIGA has notice of your claim through the liquidator's records, confirm in writing that a POC has been filed on your behalf before the deadline — do not assume someone else is tracking it for you. Missing the deadline forfeits your right to payment regardless of how meritorious the claim is.",
+        },
+        {
+          question: 'How does CIGA interact with other insurance I might have?',
+          answer: "CIGA is a payer of last resort. If you have a claim under any governmental insurance or guaranty program covering the same loss, you must exhaust that first; CIGA reduces its payment by what you recover (Insurance Code §1063.2). If your claim could be recovered under more than one state's guaranty association, you generally seek recovery first from your state of residence (or, for first-party property, from the state where the property is located). If you have other insurance covering the same loss, CIGA's obligation may be reduced — CIGA is not designed to provide duplicate recovery.",
+        },
+        {
+          question: "Why are insurers' financial-strength ratings worth checking?",
+          answer: 'AM Best is the only global credit rating agency focused exclusively on insurance. Financial Strength Ratings range from A++ (Superior) to F (In Liquidation); B+ and above are "Secure," below B+ are "Vulnerable." You can look up your insurer\'s rating at ratings.ambest.com. Watch for: a rating below A- (most large established carriers are A or higher), a recent downgrade even within the Secure range (direction matters), a "Negative Outlook" attached to the rating, or "Under Review" status which often precedes a downgrade. Also check the California Department of Insurance complaint index at insurance.ca.gov — an index above 1.00 means the insurer generates more justified complaints than its market share would predict.',
+        },
+      ]} />
 
       {/* ── Related Reading ───────────────────────────────────────── */}
 

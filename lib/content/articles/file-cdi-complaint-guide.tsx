@@ -64,7 +64,7 @@ export default function Content() {
         <li>Failed to accept or deny within 40 days of receiving your proof of loss (Cal. Code Regs., tit. 10, Section 2695.7(b))</li>
         <li>Stopped communicating — not returning calls or responding to written inquiries</li>
         <li>Denied without citing specific policy language as required</li>
-        <li>Failed to inform you of all coverages that apply to your loss (Cal. Code Regs., tit. 10, Section 2695.9(a))</li>
+        <li>Failed to inform you of all coverages that apply to your loss (Cal. Code Regs., tit. 10, Section 2695.4(a))</li>
         <li>Failed to pay undisputed amounts while disputing the remainder</li>
         <li>Pressured you to accept a settlement without providing a fair basis for the amount</li>
       </ul>
@@ -73,7 +73,7 @@ export default function Content() {
         <p>
           Your complaint is stronger when you cite the specific regulation the insurer violated.
           The California Fair Claims Settlement Practices Regulations are in the California Code of
-          Regulations, Title 10, Sections 2695.1 through 2695.12. Reference the specific section
+          Regulations, Title 10, Sections 2695.1 through 2695.14. Reference the specific section
           number in your complaint. It tells the CDI analyst exactly what to investigate.
         </p>
       </CalloutBox>

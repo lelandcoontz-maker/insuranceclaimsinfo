@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'Can I Cash This Insurance Check? What You Need to Know Before You Deposit',
@@ -208,6 +209,32 @@ export default function Content() {
           you from accessing money you are owed.
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'Is it safe to cash an insurance check?',
+          answer: "In the overwhelming majority of cases, yes — cash the check. The vast majority of insurance checks are ordinary partial or interim payments. Cashing one does not waive your right to file supplements, dispute the amount, or continue negotiating. Restrictive endorsements are rare and, when they appear, are usually obvious and accompanied by a separate letter.",
+        },
+        {
+          question: 'What does a restrictive endorsement look like?',
+          answer: 'Language such as "full and final payment," "final settlement of all claims," or "endorsement constitutes release of all claims" — typically on the back of the check above the endorsement line or on the check stub. In nearly every case where a carrier includes such language, an accompanying letter will explain that the carrier considers the payment a full resolution and may include a separate release for you to sign. It does not sneak up on you.',
+        },
+        {
+          question: 'When does a carrier actually use settlement language on a check?',
+          answer: 'Usually in the context of an "accommodation payment" — a payment the carrier makes when it doubts coverage but wants to avoid litigation, and explicitly frames the payment as resolving the dispute rather than conceding the loss. If you are in this situation, you almost certainly already know it: there has been a coverage dispute, a reservation-of-rights letter, prior negotiations. The settlement check is the culmination, not a surprise.',
+        },
+        {
+          question: 'What should I do if I am unsure about a check?',
+          answer: 'Three options. (1) Ask the carrier in writing whether cashing the check creates a settlement and whether supplemental claims will still be considered — most adjusters will confirm in email that it is an interim payment. (2) Read the check and any accompanying letter for "final payment," "full settlement," or "release" language — if none appears, you almost certainly have an ordinary payment. (3) If restrictive language is present or you are in a known coverage dispute, consult a policyholder attorney before cashing.',
+        },
+        {
+          question: 'What if the carrier is asking me to sign a release?',
+          answer: 'A release is not free. You are being asked to give up existing contractual rights — supplements, appraisal, suit for underpayment — in exchange for the payment. A savvy attorney can sometimes negotiate an additional, sometimes substantial, payment in exchange for that release because the carrier values certainty and closure. Release scenarios typically benefit from attorney involvement; the stakes are higher and the dynamics are different from a routine claim dispute.',
+        },
+      ]} />
 
       <CalloutBox variant="legal" title="Disclaimer">
         <p>

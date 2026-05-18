@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'Insurer Fraud vs. Bad Faith: Where Is the Line?',
@@ -551,6 +552,40 @@ export default function Content() {
           Insurance Code Section 790
         </Link>.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What is the difference between bad faith and fraud?',
+          answer: "Bad faith — breach of the implied covenant of good faith and fair dealing — occurs when an insurer acts unreasonably in denying, delaying, or underpaying a claim. The key element is unreasonableness; the insurer doesn't have to intend to harm you or lie to you, just to act without a reasonable basis. Fraud requires a knowing falsehood: a false representation of material fact (or concealment of a fact the insurer had a duty to disclose), made with knowledge it was false (or reckless disregard for the truth), with intent to induce reliance, on which the policyholder actually and justifiably relied to their damage. An insurer can underpay unreasonably without making a single false statement — that's bad faith, not fraud.",
+        },
+        {
+          question: 'What is the standard of proof for fraud versus bad faith?',
+          answer: "Fraud must be proven by clear and convincing evidence — a higher standard than the preponderance of the evidence standard that applies to bad faith and breach of contract. Clear and convincing means the evidence is substantially more likely to be true than not, not merely more likely than not. This higher standard reflects the seriousness of a fraud finding and is one of the reasons fraud is harder to prove than bad faith — even when the insurer's conduct seems deceptive, the policyholder must marshal substantially stronger evidence than is needed for a bad faith claim.",
+        },
+        {
+          question: 'What is negligent misrepresentation?',
+          answer: "A middle ground between bad faith and intentional fraud. It applies when an insurer makes a false statement of material fact without reasonable grounds for believing it to be true. Unlike intentional fraud, the policyholder doesn't need to prove the insurer knew the statement was false — only that the insurer had no reasonable basis for believing it. Unlike bad faith, the claim is built around a specific false statement rather than general unreasonable conduct. An adjuster who tells you your policy doesn't cover something it clearly does, or who reports repair costs as $30,000 when any competent estimator would know the cost exceeds $100,000, may be making a negligent misrepresentation.",
+        },
+        {
+          question: 'What are the statutes of limitations for each type of claim?',
+          answer: "Breach of contract on a written contract: 4 years under CCP §337. Intentional fraud: 3 years from discovery under CCP §338(d). Bad faith (tort): 2 years under CCP §339. Negligent misrepresentation: 2 years under CCP §339. The differences can be decisive — a policyholder who realizes three years after a denial that the insurer lied about coverage may have lost the right to bring a bad faith tort claim, but the fraud claim and breach of contract claim may still be alive. Fraud's statute is subject to the discovery rule — it doesn't begin to run until the policyholder discovers, or should have discovered, the fraud — which can extend the deadline significantly when the deception was not immediately apparent. These deadlines are subject to numerous exceptions and tolling doctrines, and even determining when the clock started running can be a contested legal issue — anyone with a specific claim should consult a licensed California attorney rather than rely on the dates alone.",
+        },
+        {
+          question: 'What is fraudulent concealment in the insurance context?',
+          answer: 'Fraud is not limited to affirmative lies. Concealment or suppression of a material fact can constitute fraud when the insurer has a duty to disclose it. 10 CCR §2695.4(a) requires every insurer to disclose to a policyholder all benefits, coverages, time limits, and other provisions of the policy that may apply to the claim. Common examples of fraudulent concealment: failing to disclose that the loss triggers additional coverages such as ordinance or law / code-upgrade coverage or debris removal benefits; failing to disclose the existence of an appraisal clause the policyholder could invoke; failing to disclose internal reports or estimates showing the claim is worth significantly more than the insurer\'s offer.',
+        },
+        {
+          question: 'What is the pattern that separates fraud from bad faith?',
+          answer: "The question is always about the insurer's knowledge, not just the outcome. When the insurer genuinely believes its position — even if that position is unreasonable or wrong — the claim is bad faith, not fraud. A lowball estimate based on a flawed but actually-used methodology, a disputed coverage interpretation reached in good faith by the legal department, a 14-month delay caused by understaffing and poor procedures: courts have found these to be bad faith but not fraud, because there was no knowing falsehood. When the insurer knows its position is false and states it anyway to avoid paying, fabricates evidence, or deliberately conceals information it had a duty to disclose, the conduct crosses into fraud.",
+        },
+        {
+          question: 'When should I consult an attorney rather than just a Public Adjuster?',
+          answer: "If you believe your insurer has not just been unreasonable but has actually lied to you, concealed material information, or fabricated evidence, consult a licensed attorney experienced in insurance fraud litigation. Fraud claims are significantly more complex than bad faith claims, require a higher standard of proof, and often involve extensive discovery — depositions, subpoenas of internal company documents, expert testimony. A Public Adjuster can build the foundation by documenting the insurer's conduct, preserving communications, and identifying discrepancies between what the insurer says and what the policy and evidence actually show. But only a licensed attorney can pursue the legal claims, file a lawsuit, and argue fraud in court. The PA builds the record; the attorney takes it to court.",
+        },
+      ]} />
 
       <CalloutBox variant="legal" title="Disclaimer">
         <p>

@@ -54,7 +54,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Cashing a Check Does Not Mean You Agree">
         <p>
           In California, accepting a partial payment does not waive your right to dispute the
-          remaining amount. Under California Insurance Code Section 2695.7(h), if the insurer
+          remaining amount. Under 10 CCR §2695.7(h), if the insurer
           issues payment for an undisputed amount, cashing that check does not prevent you from
           pursuing the disputed portion. However, read any letter that accompanies the check
           carefully. If it contains &ldquo;full and final settlement&rdquo; language, cross that
@@ -223,8 +223,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California law (10 CCR 2695.5(b)), the insurer must respond to your communications
-        within 15 calendar days. After you submit a dispute or supplement, they have 40 days to
-        accept or deny the claim (Cal. Ins. Code Section 790.03(h)(3)). If they miss these
+        within 15 calendar days. After you submit a dispute or supplement, they have 40 days to accept or deny the claim (10 CCR §2695.7(b)). If they miss these
         deadlines, document it. Regulatory violations strengthen your position.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

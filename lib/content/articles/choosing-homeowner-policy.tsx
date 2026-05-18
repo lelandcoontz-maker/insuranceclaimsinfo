@@ -35,8 +35,7 @@ export default function Content() {
         This is the most important distinction most homeowners do not know about. An
         &quot;admitted&quot; insurer is licensed by the California Department of Insurance. It must
         follow California&apos;s Fair Claims Settlement Practices Regulations. Its rates and policy
-        forms are filed with and approved by the CDI. And if it becomes insolvent, the California
-        Insurance Guarantee Association (CIGA) pays your claims up to $500,000.
+        forms are filed with and approved by the CDI. And if it becomes insolvent, the California Insurance Guarantee Association (CIGA) pays your claims up to $500,000 in general — and up to $1,000,000 for residential dwelling claims (Insurance Code §1063.1(c)(7)(C)).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A &quot;surplus lines&quot; or &quot;non-admitted&quot; insurer is not licensed in California.

@@ -75,14 +75,19 @@ export default function Content() {
         <li>Be present during the entire inspection. Walk with the adjuster.</li>
       </ul>
 
-      <CalloutBox variant="tip" title="You Can Record the Inspection">
+      <CalloutBox variant="tip" title="Recording the Inspection — A Quick Note">
         <p>
-          In California, you can video-record the adjuster&apos;s inspection of your
-          property. This protects you if the adjuster later claims they did not see certain
-          damage. Tell them you are recording. See{' '}
+          Video-only recording of an inspection of your own property is generally permissible in
+          California. Audio recording is different: California is an all-party consent state under
+          Penal Code &sect;632, and the rules differ depending on whether you are recording an
+          in-person inspection, a phone call, or an Examination Under Oath. Before you record any
+          conversation with the insurer&rsquo;s representative, read{' '}
           <Link href="/resources/recording-insurance-inspections" className="text-[#1F3964] underline font-medium">
             Recording Insurance Inspections
-          </Link>.
+          </Link>{' '}
+          — it walks through each scenario and the layered-defense approach. The legal stakes are
+          real (civil and criminal), and the analysis is fact-specific, so consult an attorney if
+          your situation has any wrinkles.
         </p>
       </CalloutBox>
 

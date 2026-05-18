@@ -123,6 +123,10 @@
     "published": "2026-05-01",
     "modified": "2026-05-01"
   },
+  "assigning-insurance-claims-selling-damaged-property": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "assignment-of-benefits": {
     "published": "2026-04-30",
     "modified": "2026-05-01"
@@ -401,7 +405,7 @@
   },
   "color-matching-material-aging": {
     "published": "2026-05-03",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "commercial-coinsurance": {
     "published": "2026-05-02",
@@ -477,7 +481,7 @@
   },
   "construction-timeline-disputes-ale": {
     "published": "2026-05-03",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "consumer-advocacy-groups": {
     "published": "2026-05-02",
@@ -859,6 +863,10 @@
     "published": "2026-05-04",
     "modified": "2026-05-04"
   },
+  "full-credit-bid-foreclosure-insurance-claims": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "functional-replacement-cost": {
     "published": "2026-05-02",
     "modified": "2026-05-02"
@@ -919,6 +927,10 @@
     "published": "2026-05-03",
     "modified": "2026-05-03"
   },
+  "history-of-bad-faith-insurance-law": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "history-of-bad-faith": {
     "published": "2026-05-03",
     "modified": "2026-05-03"
@@ -953,7 +965,7 @@
   },
   "how-to-challenge-xactimate-estimate": {
     "published": "2026-05-03",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "how-to-document-damage": {
     "published": "2026-05-16",
@@ -1069,7 +1081,7 @@
   },
   "insurer-directed-failed-repairs-wasted-policy-limits": {
     "published": "2026-05-03",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "insurer-disclosure-obligations": {
     "published": "2026-05-03",
@@ -1553,7 +1565,7 @@
   },
   "release-trap-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "remediation-vs-restoration": {
     "published": "2026-05-16",
@@ -1565,7 +1577,7 @@
   },
   "repair-first-or-negotiate-first": {
     "published": "2026-05-04",
-    "modified": "2026-05-04"
+    "modified": "2026-05-16"
   },
   "replacement-cost-explained": {
     "published": "2026-05-16",
@@ -1817,7 +1829,7 @@
   },
   "subject-to-mortgage-insurance-trap": {
     "published": "2026-05-03",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "subrogation-insurance-claims": {
     "published": "2026-05-04",
@@ -1910,6 +1922,10 @@
   "three-bids-myth": {
     "published": "2026-05-03",
     "modified": "2026-05-03"
+  },
+  "three-trade-rule-overhead-profit": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
   },
   "three-trade-rule": {
     "published": "2026-05-03",
@@ -2009,7 +2025,7 @@
   },
   "victim-becomes-villain-tort-reform": {
     "published": "2026-05-03",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "virtual-inspections-remote-adjusting": {
     "published": "2026-05-04",
@@ -2083,6 +2099,10 @@
     "published": "2026-04-08",
     "modified": "2026-05-02"
   },
+  "white-waiver-insurance-settlement-confidentiality": {
+    "published": "2026-05-16",
+    "modified": "2026-05-16"
+  },
   "white-waiver-settlement-confidentiality": {
     "published": "2026-05-03",
     "modified": "2026-05-03"
@@ -2117,7 +2137,7 @@
   },
   "xactimate-labor-efficiency-settings": {
     "published": "2026-05-03",
-    "modified": "2026-05-03"
+    "modified": "2026-05-16"
   },
   "xactimate-line-item-manipulation": {
     "published": "2026-05-03",

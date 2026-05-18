@@ -228,8 +228,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If your ALE limit is insufficient, tell your insurer in writing that you are approaching
         the limit and that the repair timeline requires continued coverage. In some cases,
-        particularly after declared disasters, California regulations may require the insurer to
-        provide ALE beyond the stated limit if the delay is not attributable to the policyholder.
+        particularly after declared disasters, California Insurance Code §2060(b) extends the ALE coverage period (24 months, with extensions up to 36 months for good cause) for state-of-emergency losses. The statute extends the time of ALE coverage, not the policy dollar limit.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

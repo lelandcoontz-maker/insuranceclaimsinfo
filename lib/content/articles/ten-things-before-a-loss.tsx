@@ -101,8 +101,7 @@ export default function Content() {
         taxes. Include descriptions, approximate values, and photographs or receipts where possible.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California law (Insurance Code Section 2071), the insurer must provide you with forms
-        for listing personal property. But do not wait for a loss to start the list. Build it now.
+        Under California law (10 CCR §2695.5(e)(2)), the insurer must provide you with forms for listing personal property within 15 calendar days of receiving notice of the claim. But do not wait for a loss to start the list. Build it now.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

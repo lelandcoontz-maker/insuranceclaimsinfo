@@ -318,8 +318,7 @@ export default function Content() {
         problem.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Section 2695.7(b)</strong> requires that an insurer conduct a thorough, fair, and
-        objective investigation before denying a claim or determining the scope of covered repairs.
+        Section 2695.7(d) requires that an insurer conduct a thorough, fair, and objective investigation before denying a claim or determining the scope of covered repairs.
         When the insured tells the carrier that cleaning will not work &mdash; and provides reasons
         for that belief &mdash; the carrier has an obligation to investigate that assertion before
         directing the insured to proceed with cleaning. If the carrier simply applies a blanket
@@ -328,19 +327,14 @@ export default function Content() {
         to conduct the thorough, individualized investigation the regulation requires.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Section 2695.9(b)</strong> requires that the insurer&rsquo;s estimate &ldquo;be of
-        an amount which will restore the damaged property to no less than its condition prior to the
-        loss.&rdquo; An estimate that allocates a substantial portion of the insured&rsquo;s benefits
+        Section 2695.9(d) requires that the insurer&apos;s estimate "be of an amount which will restore the damaged property to no less than its condition prior to the loss." An estimate that allocates a substantial portion of the insured&rsquo;s benefits
         to a cleaning attempt that the insured has warned will fail &mdash; and that subsequently
         does fail &mdash; is not an estimate designed to restore the property. It is an estimate
         designed to defer the cost of restoration while consuming the insured&rsquo;s available
         benefits.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Section 2695.9(b)(1)</strong> provides that when the insurer recommends a contractor
-        or service provider and the work &ldquo;does not restore the damaged property to no less
-        than its condition prior to the loss,&rdquo; the insurer must correct the deficiency
-        &ldquo;at no additional cost to the claimant.&rdquo; When the carrier directs a cleaning
+        Section 2695.9(c)(2) provides that when the claimant accepts the insurer's contractor recommendation, the insurer "shall cause the damaged property to be restored to no less than its condition prior to the loss" "at no additional cost to the claimant." When the carrier directs a cleaning
         attempt that fails, the cleaning has not restored the property. The carrier directed the
         cleaning company&rsquo;s involvement. The carrier recommended the approach. Under this
         regulation, the carrier&rsquo;s obligation is to achieve restoration at no additional cost
@@ -606,8 +600,7 @@ export default function Content() {
         against the insured&rsquo;s policy limit at all.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The carrier has its own duty to investigate the claim. Under 10 CCR Section 2695.7(b), the
-        carrier must conduct a thorough, fair, and objective investigation. Determining whether
+        The carrier has its own duty to investigate the claim. Under 10 CCR Section 2695.7(d), the carrier must conduct a thorough, fair, and objective investigation. Determining whether
         cleaning is a viable remediation method for the specific damage at issue is part of that
         investigation. The cost of that determination &mdash; the test cleaning &mdash; is a cost of
         investigation, not a cost of repair.
@@ -909,11 +902,10 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Violations of California&rsquo;s Fair Claims Settlement Practices Regulations are admissible
-        as evidence of bad faith. <em>Rattan v. United Services Auto. Ass&rsquo;n</em> (2001) 84
-        Cal.App.4th 715. If the carrier failed to conduct an individualized investigation before
-        directing the cleaning attempt (violating Section 2695.7(b)), or if the carrier&rsquo;s
+        as evidence of bad faith. Rattan v. United Services Auto. Ass&apos;n (2000) 84 Cal.App.4th 715. If the carrier failed to conduct an individualized investigation before
+        directing the cleaning attempt (violating Section 2695.7(d)), or if the carrier&rsquo;s
         recommended service provider failed to restore the property to pre-loss condition
-        (implicating Section 2695.9(b)(1)), these regulatory violations support the insured&rsquo;s
+        (implicating Section 2695.9(c)(2)), these regulatory violations support the insured&rsquo;s
         bad faith claim.
       </p>
 

@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'When to Hire an Industrial Hygienist (CIH) for Your Insurance Claim',
@@ -834,6 +835,36 @@ export default function Content() {
           to appraisal or litigation.
         </li>
       </ol>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What is a Certified Industrial Hygienist?',
+          answer: "A board-certified scientist who evaluates environmental and occupational health hazards. The CIH credential is issued by the American Board of Industrial Hygiene (ABIH) and requires a science-related bachelor's degree, four years of professional practice, and a rigorous board examination. CIHs are widely recognized in regulatory proceedings, litigation, and professional standards.",
+        },
+        {
+          question: "Why does the CIH credential matter — isn't an \"environmental consultant\" enough?",
+          answer: 'No. California does not license industrial hygienists, which means anyone can call themselves an "industrial hygienist" or "environmental consultant" without holding the CIH credential or passing the ABIH exam. Carriers often send non-credentialed consultants whose business cards say "Indoor Air Quality Specialist" or similar. Always verify the CIH credential through the ABIH public directory at abih.org. If the carrier\'s expert is not listed, they do not hold the CIH designation.',
+        },
+        {
+          question: 'When should I hire a CIH for an insurance claim?',
+          answer: "For any claim involving contamination — mold, smoke residue, sewage, asbestos, lead, methamphetamine, biological hazards. Mold is the most common scenario; smoke and fire damage is the second; sewage and bacterial contamination, asbestos and lead paint, drug contamination, and biohazard or trauma scene cleanup all benefit from CIH involvement. In contamination claims the carrier's assigned consultant works for the carrier; a CIH retained by you provides scientifically defensible documentation the carrier cannot easily dismiss.",
+        },
+        {
+          question: 'What does a CIH actually do on a mold claim?',
+          answer: 'Three things in sequence: pre-remediation sampling (air, surface, and bulk samples) to identify mold species and concentrations; a written remediation protocol specifying exactly what work is required; and post-remediation clearance testing to confirm the work was done properly. Without an independent CIH, you are relying on the remediation contractor to self-certify their own work — a structural conflict of interest carriers will exploit.',
+        },
+        {
+          question: "Can the CIH's findings affect coverage, not just the cost of repair?",
+          answer: 'Yes. Some policies sub-limit "fungi" but not "bacteria" — a distinction that can shift tens of thousands of dollars from a capped sub-limit to full dwelling coverage, and only laboratory analysis can document which is present. For asbestos or lead paint disturbed by a covered peril, the CIH\'s findings establish that code compliance requires abatement — which is the triggering event for ordinance-or-law coverage.',
+        },
+        {
+          question: 'How do I find a qualified CIH?',
+          answer: 'Use the ABIH public directory at abih.org to verify credentials. Look for CIHs with specific experience in your contamination type (a methamphetamine specialist is not the right pick for a smoke-damage claim). Ask whether they routinely work on insurance claims rather than only litigation support or routine workplace assessments. Get the engagement in writing, with scope, sampling plan, and reporting deliverables defined.',
+        },
+      ]} />
 
       <CalloutBox variant="legal" title="Disclaimer">
         <p>

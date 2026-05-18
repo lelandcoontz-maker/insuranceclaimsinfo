@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'When Your Insurance Company Fails: The Guaranty Fund Safety Net and Its Limits',
@@ -496,6 +497,36 @@ export default function Content() {
         what CIGA can and cannot do allows policyholders to make informed decisions about their
         coverage and to plan accordingly.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What happens when my insurance company becomes insolvent?',
+          answer: "The California Department of Insurance places the company into conservation first, attempting to stabilize it. If rehabilitation fails, the Insurance Commissioner petitions the court for a liquidation order under Insurance Code §1016. Once liquidation is ordered, all policies are cancelled — typically with 30 days' notice — and the company's remaining assets are marshalled to pay claims in the statutory priority order under §1033. Pending claims rarely get paid in full from the estate itself, which is why the California Insurance Guarantee Association (CIGA) safety net matters.",
+        },
+        {
+          question: 'What is CIGA and what does it cover?',
+          answer: 'CIGA is a nonprofit association established under Insurance Code §1063 et seq. and funded by assessments on admitted property and casualty insurers — not a government agency and not funded by taxpayer dollars. When an admitted insurer is ordered into liquidation, CIGA steps in to handle "covered claims" within statutory limits and exclusions. The claim must arise under a policy issued by an admitted insurer, must be a covered loss under the policy, must have occurred before liquidation (or within the 30-day notice period), and the claimant or property must be in California.',
+        },
+        {
+          question: 'What is the cap on CIGA payments?',
+          answer: 'Per Insurance Code §1063.1(c)(1), CIGA\'s maximum is $500,000 per covered claim, applied to the entire claim — dwelling, personal property, additional living expenses, and all other coverages combined. It is not $500,000 per coverage category. For a homeowner with a high-value property who suffers a total loss, the cap can leave hundreds of thousands of dollars in unrecovered losses even with the CIGA safety net in place.',
+        },
+        {
+          question: 'What does CIGA NOT cover?',
+          answer: 'Surplus lines policies (non-admitted carriers have no CIGA backstop — a critical gap as wildfire non-renewals push more California homeowners into surplus lines). Any amount exceeding the $500,000 cap. Unearned premium refunds above $10,000. Punitive or exemplary damages. Claims by certain large commercial entities. Workers\' compensation, which has its own separate guaranty fund. The surplus-lines gap is the one that catches the most people off guard.',
+        },
+        {
+          question: 'What can I lose if my insurer goes insolvent, even with CIGA protection?',
+          answer: "Coverage gaps (your policy is cancelled and you have to find replacement coverage in California's tight market). Any loss above $500,000. The ability to pursue bad faith damages against the now-defunct company — CIGA does not assume liability for the insolvent insurer's bad faith conduct. Delay and uncertainty (liquidation can take years). Negotiating leverage: appraisal, CDI complaints, and the threat of bad faith litigation all become diminished or unavailable when dealing with CIGA rather than a functioning insurer.",
+        },
+        {
+          question: 'How do I check if my insurer is financially stable?',
+          answer: "A.M. Best ratings (ambest.com) are the most widely recognized — anything B+ or lower warrants attention, below B- is a serious warning. Standard & Poor's and Moody's also rate insurer financial strength. The NAIC's IRIS system tracks regulator-watched ratios. The California Department of Insurance website (insurance.ca.gov) lets you look up any insurer's licensing status, complaint history, and financial condition. Watch also for warning signs that don't show up in ratings yet: aggressive premium hikes without risk-profile changes, mass non-renewals, delayed claim payments, rating downgrades, or a carrier that has started writing only through surplus lines after previously being admitted.",
+        },
+      ]} />
 
       {/* ── Sources ──────────────────────────────────────────────── */}
 

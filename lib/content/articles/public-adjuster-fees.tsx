@@ -1,10 +1,11 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'Public Adjuster Fees — What They Cost and When They\'re Worth It',
   description:
-    'How Public Adjuster fees work in California — contingency percentages, the disaster fee cap, when hiring a PA is worth it, and questions to ask before signing.',
+    'How Public Adjuster fees work in California — contingency percentages, the statutory framework under §15027.5, when hiring a PA is worth it, and questions to ask before signing.',
 }
 
 export default function Content() {
@@ -52,26 +53,41 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        California&rsquo;s Fee Cap for Disasters
+        California&rsquo;s Fee Framework — Statute vs. Custom
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code Section 15027.5 imposes a fee cap on Public Adjusters for
-        claims arising from a declared state of emergency. During the first year following the
-        emergency declaration, PA fees are capped at <strong>10%</strong> of the settlement.
+        California Insurance Code &sect;15027.5 governs the agency relationship between the
+        Public Adjuster and the insured, and requires disclosure of any third-party
+        compensation the PA receives in connection with the claim. The statute does <strong>not</strong> impose
+        a numerical fee cap and does not contain a state-of-emergency 10% cap. The 10% figure
+        commonly seen on catastrophe-disaster contracts is industry contract practice, not
+        statutory law. The contract itself sets the fee, subject to &sect;15027&rsquo;s
+        requirements that the percentage be stated in the written agreement and disclosed up
+        front.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This cap was enacted to protect disaster victims from being overcharged during their
-        most vulnerable moments — when they have lost their home and may feel desperate for
-        help. After the first year following the declaration, standard fee arrangements apply,
-        and the 10% cap no longer restricts the agreement between the PA and the policyholder.
+        Pending legislation (AB 597, 2025–2026 session) would, if enacted, impose a statutory
+        cap on Public Adjuster fees for catastrophic-disaster claims at <strong>15%</strong> of
+        the amount paid by the insurer after the contract date. AB 597 has not been enacted as
+        of this writing; the 15% cap is a proposal, not current law.
       </p>
 
-      <CalloutBox variant="legal" title="California Insurance Code Section 15027.5">
+      <CalloutBox variant="legal" title="California Insurance Code Section 15027.5 — What It Actually Says">
         <p>
-          For claims arising from a declared state of emergency, the PA fee may not exceed 10%
-          of the total settlement during the first year following the declaration. This is a
-          consumer protection provision — not a suggested rate. Any PA contract that exceeds this
-          cap during the applicable period is unenforceable to the extent it exceeds 10%.
+          &sect;15027.5 establishes that the Public Adjuster is the agent of the insured, that
+          the PA may not receive fees in excess of the amount or percentage stated in the
+          written contract, and that any third-party compensation the PA receives from a
+          contractor, insurer, or vendor must be disclosed to the insured. The statute does not
+          contain a 10% disaster cap or any other numerical cap; the percentage is whatever the
+          contract specifies. Verify the current text at{' '}
+          <a
+            href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=15027.5"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#2E74B5] underline"
+          >
+            leginfo.legislature.ca.gov
+          </a>.
         </p>
       </CalloutBox>
 
@@ -233,6 +249,36 @@ export default function Content() {
         are not paying out of pocket and hoping for results — you are sharing a percentage of
         additional recovery that you likely would not have received on your own.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'How do Public Adjuster fees work?',
+          answer: "Most PAs work on a contingency basis — they charge a percentage of the settlement, with no hourly billing, no retainer, and no upfront cost. The PA gets paid when you get paid. The typical range is 10% to 15% of the total settlement for residential property claims, with some PAs using a sliding scale (higher percentage for smaller claims, lower for larger). In most contracts the fee is calculated on the total settlement amount, not just the increase above the carrier's offer — make sure you understand which model your specific contract uses before signing.",
+        },
+        {
+          question: 'Does California cap Public Adjuster fees by statute?',
+          answer: "No. California Insurance Code §15027.5 governs the agency relationship between the PA and the insured and requires disclosure of any third-party compensation, but it does not impose a numerical fee cap — there is no statutory 10% disaster cap. The 10% figure often seen on catastrophe contracts is industry contract practice, not statutory law. The contract itself sets the fee, subject to §15027's requirements that the percentage be stated in writing and disclosed up front. Pending legislation AB 597 (2025–2026 session) would, if enacted, impose a 15% cap for catastrophic-disaster claims, but AB 597 has not been enacted as of this writing.",
+        },
+        {
+          question: 'When is hiring a PA worth the fee?',
+          answer: "When the math works: a PA costs 10% but increases your recovery by 30%, 50%, or more, and you come out far ahead. Specifically: when the insurer's offer is significantly low and you have evidence the claim is worth substantially more; when the claim is complex (total losses, multiple coverages, business interruption); when you don't have the time or expertise to manage what is essentially a part-time job; or when the insurer is delaying, denying, or lowballing — in which case you need someone who knows the regulations, the policy language, and the pressure points to force fair treatment.",
+        },
+        {
+          question: 'When might a PA NOT be worth it?',
+          answer: "Very small claims close to the deductible (a $10,000 claim with a $5,000 deductible leaves $5,000 net, of which 10% is $1,000 in fees — the math gets thin). Claims the insurer has already fairly valued (it happens less often than it should, but if your contractor's estimate aligns with the insurer's payment, the PA may not add enough value to justify the fee). Claims already in litigation — once the dispute requires a lawsuit, an attorney is better suited than a PA. PAs handle the claim; attorneys handle the courtroom.",
+        },
+        {
+          question: 'What questions should I ask before hiring a PA?',
+          answer: "What is your fee percentage — exact number in writing? Is the fee calculated on the total settlement or only on the increase above the carrier's offer? Are there any upfront costs (reputable contingency PAs shouldn't require any)? What happens if the claim is denied — is it true \"no recovery, no fee\"? How many claims like mine have you handled (a fire specialist may not be the right fit for a wildfire total loss, and vice versa for water)? Are you licensed in California — verify any PA's license at the CDI website before signing anything.",
+        },
+        {
+          question: 'What is included in the PA fee?',
+          answer: "Full claim documentation and inventory (structural, contents, landscaping). Policy review and coverage analysis to identify every applicable coverage, sublimit, and endorsement. All communication with the insurer — phone calls, correspondence, and meetings on your behalf. Estimate preparation (often in Xactimate) or review of the insurer's estimate to identify missing items, incorrect pricing, and scope deficiencies. Negotiation through settlement. Coordination with contractors, engineers, content specialists, and other professionals as needed. You should not be paying separately for any of these items.",
+        },
+      ]} />
 
       <CalloutBox variant="important" title="Ready for a Free Claim Review?">
         <p>

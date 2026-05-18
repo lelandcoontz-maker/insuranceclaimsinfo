@@ -135,12 +135,10 @@ export default function Content() {
           <strong>Non-response:</strong> 10 CCR 2695.5(b) &mdash; 15-day response requirement.
         </li>
         <li>
-          <strong>Unreasonable delay:</strong> Cal. Ins. Code Section 790.03(h)(3) &mdash;
-          40-day acceptance/denial requirement.
+          Unreasonable delay: 10 CCR §2695.7(b) &mdash; 40-day acceptance/denial requirement.
         </li>
         <li>
-          <strong>Low estimate:</strong> 10 CCR 2695.7(b) &mdash; duty to conduct a fair and
-          thorough investigation.
+          Low estimate: 10 CCR §2695.7(d) &mdash; duty to conduct a fair and thorough investigation.
         </li>
         <li>
           <strong>Failure to explain denial:</strong> 10 CCR 2695.7(b)(1) &mdash; written
@@ -151,8 +149,7 @@ export default function Content() {
           undisputed amounts promptly.
         </li>
         <li>
-          <strong>Excessive documentation demands:</strong> 10 CCR 2695.7(d) &mdash; cannot
-          require unreasonable proof of loss.
+          Excessive documentation demands: Insurance Code §790.03(h)(11) &mdash; duplicative preliminary + formal proof of loss prohibited.
         </li>
         <li>
           <strong>General bad faith:</strong> Cal. Ins. Code Section 790.03(h) &mdash; unfair
@@ -185,8 +182,7 @@ export default function Content() {
           repairs, attached hereto.&rdquo;
         </li>
         <li>
-          <strong>Legal basis:</strong> &ldquo;Under 10 CCR 2695.9(b), the measure of damages is
-          the amount which it would cost to repair, rebuild, or replace the damaged property. Your
+          <strong>Legal basis:</strong> &ldquo;Under Insurance Code §2051.5(a)(1), the measure of indemnity on a replacement-cost policy is the amount it would cost to repair, rebuild, or replace the property, without a deduction for physical depreciation, up to the policy limit. Your
           estimate does not meet this standard because [specific deficiencies].&rdquo;
         </li>
         <li>

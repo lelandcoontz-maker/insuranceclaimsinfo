@@ -86,9 +86,7 @@ export default function Content() {
           violates California&apos;s rules of policy interpretation)
         </li>
         <li>
-          <strong>Failing to inform you of coverages:</strong> Not telling you about available
-          benefits — such as ALE, code upgrade coverage, or debris removal — that apply to your loss
-          (Cal. Code Regs., tit. 10, Section 2695.9(a))
+          Failing to inform you of coverages: Not telling you about available benefits — such as ALE, code upgrade coverage, or debris removal — that apply to your loss (Cal. Code Regs., tit. 10, Section 2695.4(a))
         </li>
         <li>
           <strong>Ignoring evidence:</strong> Disregarding your expert reports, contractor estimates,

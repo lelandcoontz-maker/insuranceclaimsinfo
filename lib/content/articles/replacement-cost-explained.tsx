@@ -224,13 +224,10 @@ export default function Content() {
           and claim the holdback (Section 2051.5(b)).
         </li>
         <li>
-          After a declared disaster, the minimum period extends to 36 months, with the right to
-          request an additional 6-month extension for good cause (Section 2051.5(c)).
+          After a declared disaster, the minimum period extends to 36 months, with the right to request an additional 6-month extension for good cause (Section 2051.5(b)).
         </li>
         <li>
-          The policyholder may collect replacement cost for rebuilding at a different location or
-          building a different structure at the same location, subject to certain conditions
-          (Section 2051.5(d)).
+          The policyholder may collect replacement cost for rebuilding at a different location or building a different structure at the same location, subject to certain conditions (Section 2051.5(c)).
         </li>
       </ul>
 

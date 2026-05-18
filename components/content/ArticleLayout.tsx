@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { Breadcrumbs } from './Breadcrumbs'
+import { KeyTakeaway } from './KeyTakeaway'
 import { ScrollCta } from './ScrollCta'
 
 interface TocItem {
@@ -55,6 +56,7 @@ const CTA_CONTENT: Record<CtaVariant, { heading: string; body: string; button: s
 interface ArticleLayoutProps {
   title: string
   description?: string
+  summary?: string
   backLink?: { href: string; label: string }
   breadcrumbs?: BreadcrumbItem[]
   ctaVariant?: CtaVariant
@@ -71,7 +73,7 @@ function formatDate(dateStr: string): string {
   return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
 }
 
-export function ArticleLayout({ title, description, backLink, breadcrumbs, ctaVariant = 'general', toc, afterContent, publishedDate, modifiedDate, children }: ArticleLayoutProps) {
+export function ArticleLayout({ title, description, summary, backLink, breadcrumbs, ctaVariant = 'general', toc, afterContent, publishedDate, modifiedDate, children }: ArticleLayoutProps) {
   const cta = CTA_CONTENT[ctaVariant]
   const showModified = modifiedDate && publishedDate && modifiedDate !== publishedDate
 
@@ -128,11 +130,13 @@ export function ArticleLayout({ title, description, backLink, breadcrumbs, ctaVa
 
             {/* Main content */}
             <div className="flex-1 min-w-0 prose-content">
+              {summary && <KeyTakeaway>{summary}</KeyTakeaway>}
               {children}
             </div>
           </div>
         ) : (
           <div className="prose-content">
+            {summary && <KeyTakeaway>{summary}</KeyTakeaway>}
             {children}
           </div>
         )}

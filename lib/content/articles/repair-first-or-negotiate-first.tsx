@@ -224,7 +224,7 @@ export default function Content() {
         states do not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Code of Regulations, title 10, section 2695.9, subdivision (d), provides:
+        California Code of Regulations, title 10, section 2695.9, subdivision (b), provides:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 italic">
         &ldquo;No insurer shall require that the claimant have the property repaired by a specific

@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'When Your Claim Is "Referred to SIU": What Special Investigations Really Means',
@@ -575,6 +576,36 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The policyholders who fare best in SIU investigations are those who understand the process, retain experienced representation early, cooperate strategically, and refuse to be intimidated. Your insurance policy is a contract, and you paid for the coverage it provides. An SIU investigation is the insurer&apos;s exercise of its contractual and statutory rights &mdash; but those rights have limits, and your rights as a policyholder do not disappear because the insurer decided to investigate.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What is the Special Investigations Unit?',
+          answer: "Every California insurer is required by Insurance Code §1875.24 to maintain a Special Investigations Unit to investigate suspected fraudulent claims. The SIU operates as a separate function from the regular claims department. It serves a legitimate fraud-detection purpose, but it is also an investigative arm of a company whose financial interest lies in paying as little as possible on claims. The investigation is not a neutral fact-finding process.",
+        },
+        {
+          question: 'What triggers an SIU referral?',
+          answer: 'Common triggers include: claim filed shortly after policy inception or coverage increase, loss occurring during the policyholder\'s financial hardship, the policyholder being "too knowledgeable" about the claims process, inconsistencies in the policyholder\'s statements, prior claims history, large claim amount (some carriers have automatic referral thresholds), anonymous tips, fire losses (referred more often than other types), and — rarely articulated in carrier training but well understood in practice — the policyholder pushing back on the adjuster\'s lowball estimate.',
+        },
+        {
+          question: 'Does an SIU referral mean the insurer thinks I committed fraud?',
+          answer: "No. An SIU referral is an internal decision by the insurance company to subject the claim to additional investigation. Many — arguably most — claims referred to SIU are ultimately paid. The referral itself may reflect nothing more than the claim's dollar value, the loss type, or the adjuster's subjective judgment. Being referred to SIU does not mean you did anything wrong and does not mean your claim will be denied.",
+        },
+        {
+          question: 'What happens during an SIU investigation?',
+          answer: "The investigation typically includes an Examination Under Oath (a sworn proceeding with the insurer's attorney and a court reporter), extensive document requests (often years of financial records, phone records, social media data), surveillance (legal in public spaces under California Penal Code §632 limits on confidential-communication recording), background investigation (CLUE, NICB, public records, prior insurer files), cause-and-origin investigation in fire claims (governed by NFPA 921), and interviews with neighbors, family, contractors, and other witnesses.",
+        },
+        {
+          question: 'What rights do I have during an SIU investigation?',
+          answer: "You have the right to retain counsel at any point (and exercising it early, before the first recorded statement or EUO, can fundamentally change the trajectory). You have the right to ask why the claim is being investigated, even if the insurer may decline to answer in detail. The carrier still owes regulatory compliance under 10 CCR §2695.7. The Fifth Amendment generally does not apply in civil insurance investigations, but if the matter has been or may be referred to law enforcement, the calculus changes and experienced counsel becomes essential.",
+        },
+        {
+          question: 'How long do SIU investigations take?',
+          answer: "No fixed timeline. Some resolve in weeks; others drag on for months or years. The SIU investigation does not exempt the carrier from California's Fair Claims Settlement Practices Regulations (10 CCR §2695.7) deadlines. The duration depends on claim complexity, scope of investigation, carrier resources, and — candidly — the carrier's motivation to resolve promptly. The investigation itself is often used as pressure: every week without payment is leverage on a financially stressed policyholder.",
+        },
+      ]} />
     </>
   )
 }

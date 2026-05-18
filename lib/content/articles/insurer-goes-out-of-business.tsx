@@ -23,7 +23,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         CIGA — the California Insurance Guarantee Association — is a statutory entity created under
-        California Insurance Code Sections 1063 through 1063.14. It is not an insurance company. It
+        California Insurance Code Sections 1063 through 1063.19. It is not an insurance company. It
         is a safety net funded by assessments on all admitted insurers doing business in California.
         When an admitted insurer is declared insolvent by a court and placed into liquidation, CIGA
         assumes responsibility for paying covered claims up to statutory limits.
@@ -38,27 +38,27 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>$500,000 maximum</strong> per claim for dwelling and property damage claims
-          (Insurance Code Section 1063.1(c)(1))
+          $500,000 maximum per claim for general property and casualty claims (Insurance Code §1063.1(c)(7)(A)); $1,000,000 for residential dwelling claims (§1063.1(c)(7)(C))
         </li>
         <li>
           <strong>$500,000 maximum</strong> for loss of use / additional living expenses claims
         </li>
         <li>
-          <strong>$300,000 net worth cap:</strong> You are not eligible for CIGA benefits if your
-          net worth exceeds $300,000 at the time of the insolvency — excluding your home&apos;s
-          equity and retirement accounts (Insurance Code Section 1063.2(b))
+          (Note: California&apos;s CIGA covered-claim statute, §1063.1, does not contain a net-worth disqualification for residential property claims. A separate $300,000 figure that sometimes gets confused with CIGA is actually the per-life cap of the California Life and Health Insurance Guarantee Association (CLHIGA), a different organization governed by Insurance Code §1067 et seq. CLHIGA backs life and annuity policies, not property/casualty. Verify CIGA eligibility directly with CIGA.)
         </li>
       </ul>
 
-      <CalloutBox variant="warning" title="The Net Worth Limitation">
+      <CalloutBox variant="info" title="The $300,000 Figure — Commonly Misstated">
         <p>
-          The $300,000 net worth cap is often misunderstood. It excludes the equity in your primary
-          residence and the value of qualified retirement accounts. But other assets — investment
-          accounts, rental properties, business interests, non-retirement savings — count toward the
-          cap. If your net worth (excluding home equity and retirement accounts) exceeds $300,000,
-          CIGA will not pay your claim. You would need to pursue the insolvent insurer&apos;s estate
-          directly — a process that typically yields pennies on the dollar.
+          You may have read elsewhere that CIGA will not pay your residential property claim if
+          your net worth exceeds $300,000. That is a misstatement of California law. Insurance
+          Code §1063.1 does not contain a net-worth disqualification for residential property
+          claims. The $300,000 figure is actually the per-life cap of the{' '}
+          <strong>California Life and Health Insurance Guarantee Association (CLHIGA)</strong>,
+          a separate statutory body that backs life and annuity policies under Insurance Code
+          §1067 et seq. — not CIGA, and not property/casualty claims. Before assuming you are
+          excluded from CIGA, verify directly with CIGA at{' '}
+          <a href="https://www.ciga.org" className="text-blue-700 underline hover:text-blue-900">ciga.org</a>.
         </p>
       </CalloutBox>
 
@@ -127,11 +127,7 @@ export default function Content() {
           risks are not covered.
         </li>
         <li>
-          <strong>Claims exceeding $500,000:</strong> Anything above the cap is an unsecured claim
-          against the insolvent estate.
-        </li>
-        <li>
-          <strong>Policyholders with net worth above $300,000:</strong> As described above.
+          Claims exceeding the applicable cap ($500,000 general / $1,000,000 residential dwelling): Anything above the cap is an unsecured claim against the insolvent estate.
         </li>
         <li>
           <strong>Certain policy benefits:</strong> Punitive damages, penalties, and some
@@ -199,10 +195,9 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Confirm your insurer is admitted in California</li>
         <li>Check their AM Best rating and financial stability</li>
-        <li>Understand that CIGA caps at $500,000 — if your home costs more to rebuild, you have exposure</li>
+        <li>Understand CIGA caps: $500,000 for general property/casualty claims; $1,000,000 for residential dwelling claims — if your rebuild cost exceeds the applicable cap, you have exposure</li>
         <li>Keep copies of your policy, dec page, and all endorsements outside your home</li>
         <li>If you must use a surplus lines insurer, understand you have no CIGA safety net</li>
-        <li>Consider whether your net worth might disqualify you from CIGA benefits</li>
       </ul>
 
       <p className="text-gray-700 leading-relaxed mb-4">

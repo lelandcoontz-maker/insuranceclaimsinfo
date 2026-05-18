@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'What Is Homeowners Insurance?',
@@ -191,6 +192,47 @@ export default function Content() {
         policy covers — is the single most important thing you can do to protect yourself.
         The articles on this site exist to help you do exactly that.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What does homeowners insurance actually cover?',
+          answer: 'A standard policy has four main coverages: Coverage A (the dwelling — walls, roof, floors, attached structures), Coverage B (detached structures like garages and fences, usually 10% of Coverage A), Coverage C (personal property — your belongings), and Coverage D (loss of use / Additional Living Expenses if your home is uninhabitable). Most policies also include liability and medical payments for guest injuries, separate from property claims.',
+        },
+        {
+          question: 'What does it NOT cover?',
+          answer: 'Common exclusions on a standard California homeowners policy: flood (requires separate NFIP or private flood policy), earthquake (requires separate CEA or private coverage), wear and tear (gradual deterioration is maintenance), mold (typically capped at $5,000–$10,000 unless caused by a covered peril), intentional damage, and earth movement. Exclusions are not absolute — many have exceptions, and California law limits how broadly insurers can apply them.',
+        },
+        {
+          question: 'How much will the insurance company actually pay?',
+          answer: 'Two numbers determine the payout. First, your policy limits (on your declarations page) — the maximum for each coverage. Second, your deductible — what you pay before the insurer pays anything. Within those limits, payout depends on whether your policy is replacement cost (what it costs to repair or replace today) or actual cash value (replacement cost minus depreciation). Most California homeowners policies are replacement-cost, but the insurer typically pays actual cash value first and withholds depreciation until repairs are complete.',
+          displayAnswer: (
+            <>
+              Two numbers determine the payout. First, your policy limits (on your{' '}
+              <Link href="/resources/declarations-page" className="text-[#2E74B5] underline">
+                declarations page
+              </Link>
+              ) — the maximum for each coverage. Second, your deductible — what you pay before the
+              insurer pays anything. Within those limits, payout depends on whether your policy is{' '}
+              <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
+                replacement cost or actual cash value
+              </Link>
+              . Most California homeowners policies are replacement-cost, but the insurer typically
+              pays actual cash value first and withholds depreciation until repairs are complete.
+            </>
+          ),
+        },
+        {
+          question: 'How does a claim actually work?',
+          answer: 'You report the loss to the insurer. They assign an adjuster who inspects the damage, determines coverage, and calculates a payment. You receive either payment or a denial letter. The adjuster works for the insurance company; their job is to settle the claim for as little as possible while staying within the law. That does not make them your enemy, but it means you cannot rely on them to find every dollar you are owed. Policyholders who understand their own policy and document their own loss always do better than those who wait passively.',
+        },
+        {
+          question: 'What is the most important thing to know about homeowners insurance?',
+          answer: 'Your insurance policy is not a warranty. It does not cover everything that can go wrong with a house. It covers sudden, accidental losses caused by specific events. Understanding that distinction — and knowing exactly which events your specific policy covers — is the single most important step in protecting yourself.',
+        },
+      ]} />
     </>
   )
 }

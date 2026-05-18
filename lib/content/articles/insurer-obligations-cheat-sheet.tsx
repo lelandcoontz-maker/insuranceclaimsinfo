@@ -77,7 +77,7 @@ export default function Content() {
 
       <h3 className="text-xl font-bold text-gray-900 mb-3">When You Report a Claim</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Acknowledge the claim in writing within 15 days.</li>
+        <li>Acknowledge the claim within 15 days (in writing, or documented in the claim file).</li>
         <li>Provide you with claim number and adjuster contact information.</li>
         <li>Tell you what documentation they need from you.</li>
         <li>Begin investigating within 15 days.</li>
@@ -104,7 +104,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Provide itemized documentation showing how the amount was determined.</li>
         <li>Not condition payment on release of the entire claim if amounts remain in dispute.</li>
-        <li>Not delay payment of undisputed amounts to pressure you on disputed amounts (10 CCR &sect;2695.7(h)).</li>
+        <li>Not delay payment of undisputed amounts to pressure you on disputed amounts (Insurance Code &sect;790.03(h)(5); 10 CCR &sect;2695.7(h)).</li>
         <li>On replacement cost policies: pay ACV promptly, then pay the depreciation holdback after repairs are completed.</li>
       </ul>
 
@@ -163,10 +163,10 @@ export default function Content() {
         After a state or federal disaster declaration, additional requirements apply:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Minimum 24-month ALE period regardless of policy language (Insurance Code &sect;2051.5(c)).</li>
-        <li>Cannot require you to have a signed contract with a contractor to receive depreciation holdback (SB 872/894).</li>
-        <li>Must provide a detailed written contents inventory form (Insurance Code &sect;2051.5(d)).</li>
-        <li>Must provide advance payment within 30 days of request for living expenses.</li>
+        <li>Minimum 24-month ALE period for state-of-emergency losses (Insurance Code &sect;2060(b)(1)).</li>
+        <li>Cannot impose policy-deadline restrictions on collecting the depreciation holdback that are shorter than the statutory minimums in Insurance Code §2051.5 (12 months standard; 36 months for state-of-emergency losses, with 6-month extensions for good cause). Whether the insurer can also condition the holdback on a signed construction contract is policy-language specific — consult an attorney if your carrier insists on a contract you have not yet signed.</li>
+        <li>Must offer a contents payment of at least 30% of the dwelling limit (up to $250,000) without requiring an itemized claim after a total loss from a state of emergency (Insurance Code &sect;10103.7).</li>
+        <li>Must provide an advance payment of at least 4 months of living expenses upon request after a total loss (CDI Bulletin 2025-2).</li>
       </ul>
 
       <CalloutBox variant="tip" title="Keep This Somewhere Visible">

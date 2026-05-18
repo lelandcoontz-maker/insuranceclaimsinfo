@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'How Long Does a Homeowner Insurance Claim Take? Realistic Timelines by Claim Type',
@@ -431,6 +432,36 @@ export default function Content() {
         on its side. The policyholder&rsquo;s best tools are knowledge, documentation, and the
         willingness to enforce the rules that exist to protect them.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: "What are California's regulatory deadlines for insurers?",
+          answer: "Under the Fair Claims Settlement Practices Regulations (10 CCR §2695.7): 15 days to acknowledge receipt of the claim in writing; 15 days to begin investigation; 40 days after receiving proof of claim to accept or deny (or explain why more time is needed); 30 days after a settlement agreement to issue payment; written status updates every 30 days on any open claim. These are minimum regulatory requirements, not realistic completion timelines. A small water-damage claim could theoretically reach payment in 60 days; most claims take longer.",
+        },
+        {
+          question: 'How long does a fire or total-loss claim take?',
+          answer: '6 to 18 months for a typical fire/total loss claim, even without coverage disputes. Documenting a total loss — inventorying destroyed personal property, determining dwelling replacement cost, addressing code upgrade requirements, coordinating with mortgage companies, navigating debris removal and permitting — takes many months. ALE claims add a layer (finding temporary housing, documenting expenses, negotiating fair rental value with the insurer). Supplemental claims for items discovered during rebuild are common and extend the process further.',
+        },
+        {
+          question: 'How long does a wildfire claim in a declared disaster area take?',
+          answer: '12 to 24 months or longer, and two-year claims are not unusual. Declared-disaster wildfire claims are the longest residential claims. The sheer volume overwhelms insurer resources. Adjusters are stretched thin, contractors are unavailable, building material costs surge, and permitting backlogs extend timelines. The scope of loss — often total loss of the dwelling and all contents — requires the most extensive documentation of any claim type. Supplemental claims and demand-surge pricing add additional months on top of that baseline.',
+        },
+        {
+          question: "What's the difference between legitimate delay and deliberate delay?",
+          answer: 'Legitimate causes include genuine engineering or expert investigations (4–8 weeks per expert), scope disagreements requiring negotiation or appraisal, mortgage-company holds on large checks, supplemental claims for hidden damage discovered during repairs, and contractor availability after widespread disasters. Deliberate tactics include SIU referrals used to slow the process rather than investigate actual fraud, adjuster reassignment that forces the policyholder to start over with each new representative, requests for redundant documentation, and deliberately low initial offers designed to force extended negotiations.',
+        },
+        {
+          question: 'When does delay become actionable bad faith?',
+          answer: 'Not every delay is bad faith — insurers are entitled to reasonable time to investigate, and complex claims legitimately take longer. The question is whether the delay is reasonable under the circumstances. Insurance Code §790.03(h) identifies as an unfair practice the failure to "attempt in good faith to effectuate prompt, fair and equitable settlements of claims in which liability has become reasonably clear." When an insurer delays paying a claim on which coverage is not genuinely disputed, the delay may cross from slow processing into bad faith — exposing the insurer to liability beyond the policy limits. Civil Code §3287 also allows recovery of prejudgment interest on delayed payments.',
+        },
+        {
+          question: 'What can I do to speed up the process?',
+          answer: "Respond to all insurer requests promptly — don't give the insurer a legitimate reason to claim the delay is on your side. Submit documentation proactively rather than waiting to be asked. Put everything in writing and follow phone calls with confirming emails. When the insurer misses a 10 CCR §2695.7 deadline, note it in writing — a polite but firm letter citing the specific regulation sends a clear signal you're paying attention. Request written status updates every 30 days as the regulation requires. File a CDI complaint if regulatory deadlines have been violated. Hire a professional — claims represented by a Public Adjuster or attorney tend to move faster because insurers know professionals will document delays and pursue remedies.",
+        },
+      ]} />
     </>
   )
 }

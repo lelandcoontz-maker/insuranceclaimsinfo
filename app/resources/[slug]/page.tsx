@@ -10,7 +10,7 @@ import articleDates from '@/public/data/article-dates.json'
 import articleRegistry from '@/public/data/article-registry.json'
 import articleTags from '@/public/data/article-tags.json'
 
-const registry = articleRegistry as Record<string, { title: string; description: string }>
+const registry = articleRegistry as Record<string, { title: string; description: string; summary?: string }>
 const tagData = articleTags as Record<string, { subcategory?: string }>
 
 interface Props { params: Promise<{ slug: string }> }
@@ -120,6 +120,7 @@ export default async function ResourceArticlePage({ params }: Props) {
         <ArticleLayout
           title={title}
           description={meta?.description}
+          summary={meta?.summary}
           breadcrumbs={breadcrumbItems}
           ctaVariant={ctaVariant}
           publishedDate={dates?.published}

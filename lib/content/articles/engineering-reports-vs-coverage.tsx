@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'When Engineering Reports Cross the Line: Why Physical Findings Do not Determine Coverage',
@@ -250,6 +251,36 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The answer to that question tells you everything you need to know about why the report was written the way it was &mdash; and why you should not accept it as the final word on your claim.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'Can an engineering report determine whether my claim is covered?',
+          answer: 'No. Engineers determine how something was built or how it failed — they don\'t determine whether it\'s covered. Coverage is a legal question governed by policy language, state law, and judicial precedent. When an engineering report concludes a loss is "excluded," "not covered," or "attributable to a non-covered cause," it has crossed the line from physical analysis into legal conclusions that exceed engineering competence. The engineer\'s findings are one input into the coverage analysis, not the answer to it.',
+        },
+        {
+          question: 'What is the difference between engineering causation and legal causation?',
+          answer: "Engineering causation describes what physically happened — the flashing was not installed to specification, wind-driven rain entered through that deficiency, water damaged the wall. Legal causation, under California's efficient proximate cause doctrine, asks which cause in the chain was predominant. If the predominant cause is a covered peril (wind-driven rain), the loss is covered even if a non-covered factor (a construction deficiency) was part of the chain. The engineer can describe the physical mechanism; only the legal analysis determines coverage.",
+        },
+        {
+          question: 'What is the "efficient proximate cause" doctrine in California?',
+          answer: 'Under California law, when a loss results from a chain of events involving both covered and excluded perils, coverage depends on which cause was predominant. If the predominant cause was a covered peril, the claim is covered. Key authorities: Sabella v. Wisler (1963) 59 Cal.2d 21 (the seminal case); Garvey v. State Farm (1989) 48 Cal.3d 395 (reinforced the doctrine); Insurance Code §530 ("An insurer is liable for a loss of which a peril insured against was the proximate cause, although a peril not contemplated by the contract may have been a remote cause"); and CACI 2306 (the standard jury instruction). All of these say the same thing: you look at the predominant cause.',
+        },
+        {
+          question: "Why don't anti-concurrent causation clauses work in California?",
+          answer: 'Anti-concurrent causation (ACC) clauses typically say a loss is excluded "regardless of any other cause or event that contributes concurrently or in any sequence." In states that enforce ACC, an excluded cause anywhere in the chain kills the claim. California courts have held ACC clauses unenforceable as against public policy because they conflict with the efficient proximate cause doctrine established in Sabella and Garvey and with Insurance Code §530. In California, the predominant-cause analysis controls regardless of what the ACC clause says. A few other states (Washington, West Virginia, North Dakota) take a similar position; in most states ACC is enforceable, which is why this article is California-specific.',
+        },
+        {
+          question: "If the engineer finds a construction defect, doesn't that mean the loss is excluded?",
+          answer: "No. A construction deficiency is the carrier's subrogation target, not a coverage defense. The proper response is for the insurer to (1) cover the policyholder's claim under the policy, and then (2) pursue the negligent contractor through subrogation to recover what it paid. The policyholder bought a home and a policy and suffered damage during a covered weather event; the policyholder did not install the defective flashing. Converting the subrogation target into a coverage defense turns the policyholder's own policy against them — and shifts the burden of the contractor's negligence from the insurer (which can sue) to the policyholder (who often cannot).",
+        },
+        {
+          question: 'How do I challenge an engineering report being used to deny my claim?',
+          answer: "Several steps in combination: request the full unredacted report (denial letters often quote selected excerpts and omit caveats); examine the engineer's repeat-retention pattern with this carrier and any template language across reports; obtain your own competing engineering report from a genuinely independent engineer; distinguish between what the engineer observed and what the engineer concluded (physical findings are often accurate even when conclusions overreach); check whether all potential causes were investigated, not just the one that supports denial; invoke the efficient proximate cause doctrine in your written response; and evaluate the adequacy of the insurer's overall investigation under California's regulatory duty to investigate thoroughly and fairly.",
+        },
+      ]} />
 
       <CalloutBox variant="legal" title="Disclaimer">
         <p>

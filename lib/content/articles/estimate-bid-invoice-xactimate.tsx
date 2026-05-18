@@ -98,7 +98,7 @@ export default function Content() {
         An invoice represents economic reality &mdash; labor was expended, materials were consumed, the property was restored. The price on the invoice is not theoretical. It is what the work cost. Insurance policies are contracts of indemnity. When the insured presents an invoice, the carrier is confronted with evidence of actual cost.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s Fair Claims Settlement Practices Regulations reinforce this obligation. 10 CCR Section 2695.9(b) requires that estimates be &quot;of an amount which will restore the damaged property to no less than its condition prior to the loss.&quot; Section 2695.9(d) requires that &quot;the insurer shall take reasonable steps to verify that the repair or rebuilding costs utilized by the insurer or its claims agents are accurate and representative of costs in the local market area.&quot;
+        California&apos;s Fair Claims Settlement Practices Regulations reinforce this obligation. 10 CCR Section 2695.9(d) requires that estimates be "of an amount which will restore the damaged property to no less than its condition prior to the loss." Section 2695.9(d) requires that &quot;the insurer shall take reasonable steps to verify that the repair or rebuilding costs utilized by the insurer or its claims agents are accurate and representative of costs in the local market area.&quot;
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Critical Insight: Apples and Oranges</h2>
@@ -141,7 +141,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Key Legal References">
         <p>
-          California Insurance Code Section 790.03(h); 10 CCR 2695.7; 10 CCR 2695.9; CACI 2201; Xactware EULA, Section 12.3; UCC Section 2-205; <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 17 Cal.3d 860; <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809; <em>Quelimane Co. v. Stewart Title Guaranty Co.</em> (1998) 19 Cal.4th 26.
+          California Insurance Code Section 790.03(h); 10 CCR 2695.7; 10 CCR 2695.9; CACI 2201; Xactware EULA, Section 12.3; UCC Section 2-205; Gruenberg v. Aetna Insurance Co. (1973) 9 Cal.3d 566; <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809; <em>Quelimane Co. v. Stewart Title Guaranty Co.</em> (1998) 19 Cal.4th 26.
         </p>
       </CalloutBox>
     </>

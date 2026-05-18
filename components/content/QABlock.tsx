@@ -1,8 +1,10 @@
+import type { ReactNode } from 'react'
 import { JsonLd } from '@/components/seo/JsonLd'
 
-interface QAPair {
+export interface QAPair {
   question: string
   answer: string
+  displayAnswer?: ReactNode
 }
 
 interface Props {
@@ -39,7 +41,7 @@ export function QABlock({ pairs }: Props) {
               </svg>
             </summary>
             <div className="px-4 pb-3 text-sm text-gray-700 leading-relaxed">
-              {pair.answer}
+              {pair.displayAnswer ?? pair.answer}
             </div>
           </details>
         ))}

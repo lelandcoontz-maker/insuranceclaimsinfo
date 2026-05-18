@@ -139,7 +139,7 @@ export default function Content() {
         <li>Selecting standard plumbing fixtures when the home had high-end fixtures</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California law, the insurer&apos;s estimate must be &quot;of an amount which will restore the damaged property to no less than its condition prior to the loss.&quot; (10 CCR Sec. 2695.9(a)(1)(B).) If your home had custom finishes, the estimate must reflect the cost of custom finishes &mdash; not the cheapest alternative the adjuster can find in the Xactimate database.
+        Under California law, the insurer&apos;s estimate must be "of an amount which will restore the damaged property to no less than its condition prior to the loss." (10 CCR Sec. 2695.9(d).) If your home had custom finishes, the estimate must reflect the cost of custom finishes &mdash; not the cheapest alternative the adjuster can find in the Xactimate database.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> Document what was actually in your home before the loss. Photographs, receipts, contractor records, and homeowner testimony all serve as evidence of pre-loss condition. For each material that is mispriced, identify the correct Xactimate line item or provide actual pricing from suppliers.
@@ -198,7 +198,7 @@ export default function Content() {
         An ESX file is a compressed archive that contains the complete estimate, including the sketch, all line items, notes, photos, estimate parameters, labor efficiency settings, and any internal comments the adjuster may have entered. A PDF printout may obscure or omit much of this information.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        You have a right to receive the documents upon which the carrier&apos;s settlement is based. Under California&apos;s Fair Claims Settlement Practices Regulations, &quot;if losses are settled on the basis of a written scope and/or estimate prepared by or for the insurer, the insurer shall supply the claimant with a copy of each document upon which the settlement is based.&quot; (10 CCR Sec. 2695.9(b).) The ESX file is the document &mdash; the PDF is merely a printout of it.
+        You have a right to receive the documents upon which the carrier&apos;s settlement is based. Under California&apos;s Fair Claims Settlement Practices Regulations, &quot;if losses are settled on the basis of a written scope and/or estimate prepared by or for the insurer, the insurer shall supply the claimant with a copy of each document upon which the settlement is based.&quot; (10 CCR Sec. 2695.9(d).) The ESX file is the document &mdash; the PDF is merely a printout of it.
       </p>
 
       <CalloutBox variant="tip" title="Sample ESX Request Language">

@@ -81,7 +81,7 @@ export default function Content() {
         <li><strong>36-Month Extension:</strong> The insurer must grant an extension of up to 12 additional months (for a total of 36 months) if the insured, acting in good faith and with reasonable diligence, encounters delays beyond the insured&apos;s control.</li>
         <li><strong>Qualifying Delays:</strong> The statute specifically identifies unavoidable construction permit delays, lack of necessary construction materials, and lack of available contractors as circumstances beyond the insured&apos;s control.</li>
         <li><strong>Additional Six-Month Extensions:</strong> Beyond the 36-month period, additional extensions of six months must be provided for good cause.</li>
-        <li><strong>Advance Payment:</strong> Insurers are required to provide policyholders with an advance payment of no less than four months of living expenses.</li>
+        <li>Advance Payment (CDI Bulletin 2025-2): Insurers must provide policyholders with an advance payment of no less than four months of living expenses upon request after a total loss.</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         These provisions represent the California Legislature&apos;s recognition that post-disaster reconstruction takes far longer than carriers want to acknowledge. The fact that the Legislature set a 24-month <em>minimum</em> &mdash; with extensions to 36 months and beyond &mdash; tells you everything you need to know about the adequacy of a carrier&apos;s nine-month projection.

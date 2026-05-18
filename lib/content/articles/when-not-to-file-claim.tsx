@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'When NOT to File an Insurance Claim',
@@ -243,6 +244,32 @@ export default function Content() {
         coverage question is not clear &mdash; get a professional opinion before deciding. The
         cost of a consultation is far less than the cost of walking away from a valid claim.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'Should I file a claim if the damage is below my deductible?',
+          answer: "Generally no — filing creates a record in the CLUE database for seven years with no financial benefit, because the insurer pays nothing when the loss is within your deductible. With percentage-based deductibles (earthquake at 5–15% of dwelling limit, for example), moderate damage can fall entirely inside the deductible and produce a claims-history entry for zero recovery.",
+        },
+        {
+          question: 'What if my loss is not covered by the policy?',
+          answer: "Filing a claim for an unambiguously excluded loss produces a denial — and the denial still appears in your CLUE record. The challenge is that coverage analysis is genuinely difficult; what looks excluded may be covered under an exception, and what looks covered may be defeated by an endorsement on page 47. A public adjuster or policyholder attorney can read the policy before you decide.",
+        },
+        {
+          question: 'Can filing a small claim hurt me later?',
+          answer: "Yes. Multiple claims in a short period — even small ones — statistically raise the risk of rate increases or nonrenewal at the next renewal. In California's current insurance availability environment, losing your policy can mean ending up on the FAIR Plan at substantially higher premium for substantially narrower coverage. A $3,000 net recovery that triggers a $500/year increase for five years means you recovered $500 in net dollars.",
+        },
+        {
+          question: "Should I trust my insurance agent's advice about whether to file?",
+          answer: "Carefully. Agents are experts in coverage selection and underwriting, not necessarily in claims handling. Many agencies also receive contingent commissions from carriers — supplemental payments tied to the agency's book of business loss ratio. A lower loss ratio means higher contingent payments. That does not mean every agent gives self-interested advice, but it is a structural reality worth knowing. If the loss is significant and the agent tells you not to file, get a second opinion from a public adjuster or policyholder attorney.",
+        },
+        {
+          question: 'When SHOULD I file?',
+          answer: "File any significant covered loss — fire, major water, theft, windstorm roof damage. The CLUE entry and any premium increase are trivial compared to the financial recovery. The \"don't file\" analysis applies at the margins (damage clearly below deductible, unambiguously excluded loss, or a marginal claim where the risk of rate impact outweighs the recovery), not to the core purpose of insurance.",
+        },
+      ]} />
 
       <CalloutBox variant="legal" title="Disclaimer">
         <p>

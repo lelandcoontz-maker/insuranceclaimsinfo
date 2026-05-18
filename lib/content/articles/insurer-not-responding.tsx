@@ -39,12 +39,10 @@ export default function Content() {
           <strong>15 days:</strong> Insurer must acknowledge receipt of your claim (10 CCR 2695.5(e)).
         </li>
         <li>
-          <strong>40 days:</strong> Insurer must accept or deny your claim after receiving proof of
-          loss (Cal. Ins. Code Section 790.03(h)(3)).
+          40 days: Insurer must accept or deny your claim after receiving proof of loss (10 CCR §2695.7(b)).
         </li>
         <li>
-          <strong>30 days:</strong> After accepting a claim, the insurer must pay (Cal. Ins. Code
-          Section 790.03(h)(5)).
+          30 days: After accepting a claim, the insurer must pay (10 CCR §2695.7(h)).
         </li>
         <li>
           <strong>15 days:</strong> Insurer must respond to each communication regarding a claim
@@ -205,10 +203,10 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          They must conduct a thorough, fair, and objective investigation (10 CCR 2695.7(b)).
+          They must conduct a thorough, fair, and objective investigation (10 CCR §2695.7(d)).
         </li>
         <li>
-          They cannot require unreasonable documentation before paying (10 CCR 2695.7(d)).
+          They cannot require unreasonable documentation before paying (Insurance Code §790.03(h)(11)).
         </li>
         <li>
           They must pay undisputed amounts promptly, even if other amounts remain contested

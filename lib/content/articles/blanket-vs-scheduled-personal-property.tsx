@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'Blanket vs. Scheduled Personal Property Coverage: When to Schedule and What You Risk If You Do Not',
@@ -427,6 +428,36 @@ export default function Content() {
           home. Documentation stored only in the home is worthless after a total loss.
         </li>
       </ol>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What is the difference between blanket and scheduled personal property coverage?',
+          answer: 'Blanket (unscheduled) Coverage C is the standard contents coverage that comes with every homeowners policy — a single aggregate limit (typically 50–75% of Coverage A) that applies to all your personal property, subject to special sub-limits for certain categories and to depreciation. Scheduled personal property is a separate endorsement (also called a personal articles floater) that lists specific items individually at agreed values. Scheduled items get agreed-value coverage, no sub-limits, broader "open perils" rather than named-perils, often no deductible, and worldwide coverage — at the cost of additional premium.',
+        },
+        {
+          question: 'What are the standard sub-limits I should know about?',
+          answer: 'Common ISO HO-3 sub-limits: $1,500 for jewelry, watches, furs, and precious stones (combined, not per item — a single engagement ring can blow through this); $2,500 for firearms and related equipment; $2,500 for silverware/goldware/pewterware; $1,500 for theft of cash and coins (including collector coins); $2,500 for business property on the residence premises ($500 away from premises); $1,000 for watercraft and equipment. These sub-limits vary by carrier but the pattern is consistent: the categories that tend to be most valuable are the ones most tightly restricted under blanket coverage. The $300,000 Coverage C limit on the declarations page is irrelevant for items subject to sub-limits.',
+        },
+        {
+          question: 'When should I schedule an item rather than relying on blanket coverage?',
+          answer: "When the item's value exceeds the applicable sub-limit (individually or in aggregate across the category), when you need broader peril coverage than named-perils blanket Coverage C provides, or when the certainty of agreed-value coverage justifies the additional premium. Typical candidates: jewelry and watches above $1,500; fine art and collectibles whose value can't be determined by simple retail replacement; musical instruments (especially vintage or professional-grade); firearms collections above $2,500; appreciated wine and spirits; professional camera and photography equipment; business-use electronics; furs and luxury items.",
+        },
+        {
+          question: 'What are common mistakes that leave policyholders underinsured even with scheduling?',
+          answer: 'Failing to update scheduled values (an engagement ring appraised at $8,000 ten years ago may be worth $14,000 today — under agreed value, you still only collect the original $8,000). Scheduling the ring but not the collection (the sub-limit still applies in aggregate to any unscheduled jewelry, no matter how much your one scheduled item is worth). Underestimating blanket Coverage C needs across the whole home (decades of accumulated belongings can easily exceed 75% of dwelling coverage). Assuming the carrier tracks your scheduled items (you must notify them of acquisitions, sales, and value changes). Not scheduling items kept off-premises.',
+        },
+        {
+          question: "How does California's SB 49 affect contents claims?",
+          answer: 'Under Insurance Code §2051.5(c), as implemented through SB 49, when a total loss occurs to the dwelling, the carrier must offer the policyholder the option to receive a lump sum payment for personal property without requiring a room-by-room inventory. The provision applies to policies issued or renewed after January 1, 2020 and was designed to reduce the documentation burden on wildfire survivors. The lump sum may not equal the full Coverage C limit, so carefully evaluate whether the lump-sum option or a full inventory would result in higher recovery for your specific loss.',
+        },
+        {
+          question: 'Why does the documentation burden differ between blanket and scheduled coverage?',
+          answer: "Under blanket coverage you bear the burden of proving both the existence and value of every claimed item — after a total loss, reconstructing an inventory from memory, gathering receipts and photographs, and any other evidence of what was owned and what it was worth. The process is exhausting and frequently leaves significant value on the table simply because people can't recall or document what they owned. Under scheduled coverage, existence and value are already established on the policy — the only question is whether the item was lost or damaged. This dramatically simplifies the claims process for high-value items and is often the strongest practical argument for scheduling.",
+        },
+      ]} />
 
       {/* ── Related Reading ── */}
       <CalloutBox variant="tip" title="Related Reading">

@@ -155,7 +155,7 @@ export default function Content() {
         When a carrier conditions payment of an undisputed amount on the execution of a release, the carrier is not fulfilling its duty &mdash; it is leveraging the policyholder&apos;s need for money to purchase something the policyholder has no obligation to sell.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code section 790.03(h)(11) specifically prohibits failing to settle claims promptly under one portion of coverage in order to influence settlements under other portions. The Fair Claims Settlement Practices Regulations require prompt payment upon acceptance of a claim. The implied covenant of good faith and fair dealing obligates the carrier to deal fairly with its insured at every stage of the claim.
+        California Insurance Code section 790.03(h)(12) specifically prohibits failing to settle claims promptly under one portion of coverage in order to influence settlements under other portions. The Fair Claims Settlement Practices Regulations require prompt payment upon acceptance of a claim. The implied covenant of good faith and fair dealing obligates the carrier to deal fairly with its insured at every stage of the claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         A release should be the product of a completed claim, not a tool for closing one prematurely. If your insurance company asks you to sign a release before the claim is truly finished, the question to ask is not &quot;What do I get for signing?&quot; but &quot;What am I giving up?&quot; The answer, more often than policyholders realize, is everything.

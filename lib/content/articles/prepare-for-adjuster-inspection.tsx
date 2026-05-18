@@ -57,17 +57,49 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="Record the Inspection">
+      <CalloutBox variant="tip" title="Recording the Inspection — Read the Detailed Guide First">
         <p>
-          In California, you have the right to record your own conversations as long as you are a
-          party to the conversation (Cal. Penal Code Section 632 allows one-party consent for
-          recordings where you are a participant). Tell the adjuster you are recording. If they
-          object, note that objection, but you are within your rights. A recording protects you from
-          &ldquo;I never said that&rdquo; disputes later. See our{' '}
+          California is an all-party consent state under Penal Code &sect;632 — but the statute
+          only reaches the audio capture of &ldquo;confidential communications,&rdquo; and the
+          analysis depends on the scenario. Four cases come up, and they are not the same:
+        </p>
+        <ul className="list-disc pl-6 space-y-1 mt-2 mb-2">
+          <li>
+            <strong>Phone calls — audio:</strong> &sect;632 squarely applies. Do not record a
+            phone call with the adjuster unless they have been told and consent.
+          </li>
+          <li>
+            <strong>In-person inspection — audio:</strong> turns on whether the conversation is
+            actually &ldquo;confidential.&rdquo; In your own home, with the inspector there in a
+            professional capacity, with you present, an inspector&rsquo;s reasonable expectation
+            of privacy is much weaker than in other settings — but no California appellate court
+            has squarely decided this for property inspections. There is a layered-defense
+            framework (written notice, posted signs, verbal announcement, visible Ring camera,
+            consent on camera) that is designed to put the question out of reach.
+          </li>
+          <li>
+            <strong>In-person inspection — video only (no audio):</strong> does not trigger
+            &sect;632 at all. Video-only documentation of your own property is generally
+            permissible.
+          </li>
+          <li>
+            <strong>Examinations Under Oath (EUOs):</strong> different rule. Your right to record
+            an EUO in its entirety is settled under Ins. Code &sect;2071.1(a)(4) and{' '}
+            <em>Myasnyankin v. Nationwide Mutual Ins. Co.</em> (2024) 99 Cal.App.5th 283.
+          </li>
+        </ul>
+        <p className="mt-3">
+          This is a technical, fact-dependent area of law with civil and criminal exposure for
+          getting it wrong. <strong>Do not rely on this summary.</strong> Before you record any
+          conversation with an insurer&rsquo;s representative, read our complete{' '}
           <Link href="/resources/recording-insurance-inspections" className="text-blue-700 underline hover:text-blue-900">
-            guide to recording inspections
+            Recording Insurance Inspections
           </Link>{' '}
-          for details.
+          guide, which walks through the statute, the case law, the layered-defense approach,
+          and the separate question of whether a recording is admissible as evidence. If your
+          situation has any wrinkles — express objection from the carrier, an EUO demand,
+          recordings already made, a phone call you want to capture — consult a California
+          attorney before acting.
         </p>
       </CalloutBox>
 

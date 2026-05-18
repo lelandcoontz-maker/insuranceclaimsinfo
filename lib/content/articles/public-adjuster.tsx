@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'Working With a Public Adjuster',
@@ -261,6 +262,32 @@ export default function Content() {
         insurance claim, or if you feel that your insurance company is not treating you fairly,
         consulting with a licensed Public Adjuster is one of the smartest steps you can take.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What is a Public Adjuster?',
+          answer: "A licensed insurance professional who represents the policyholder — not the insurance company — in the claims process. They evaluate damage, prepare and document the claim, and negotiate with the insurer for a fair settlement. A Public Adjuster is the only type of adjuster legally obligated to represent the policyholder's interests; the carrier's adjuster and any independent adjuster the carrier hires both work for the insurer.",
+        },
+        {
+          question: 'How do Public Adjuster fees work?',
+          answer: "Public Adjusters typically work on contingency — paid a percentage of the settlement they help recover, with no upfront cost. The PA only gets paid when you get paid. In California, contract percentages typically run 10–15% depending on size and complexity. California has no statutory percentage cap on PA fees; the commonly cited 10% catastrophe figure is industry contract practice, not statutory law (the contract itself sets the fee, subject to Insurance Code §15027's written-disclosure requirements). AB 597 (2025–2026 session) is pending legislation that would impose a 15% cap on catastrophic-disaster claims if enacted, but it has not been enacted — it is currently held in Senate Appropriations.",
+        },
+        {
+          question: 'When should I hire a Public Adjuster versus an attorney or contractor?',
+          answer: "Public Adjusters handle amount disputes on covered claims — large or complex losses, multiple types of damage, lowball initial estimates, situations where you need someone to manage the day-to-day claim work. Attorneys handle coverage denials, bad-faith conduct, and litigation. Expert contractors handle scope or methodology disputes (e.g., the carrier says repair, your contractor says full replacement). On large, complex claims, a PA and attorney working together is often the strongest combination.",
+        },
+        {
+          question: 'How do I choose a Public Adjuster?',
+          answer: "Verify the California Department of Insurance license. Ask about experience with your specific type of loss (a fire specialist may not be the right pick for complex water-and-mold). Ask for references from similar claims. Read the fee agreement carefully — confirm whether the fee is calculated on the full settlement or only on the increase above the carrier's offer. Confirm Errors and Omissions coverage.",
+        },
+        {
+          question: 'What does a Public Adjuster do beyond getting me paid?',
+          answer: "A skilled PA documents the carrier's conduct in writing as a byproduct of normal claim work — every missed deadline, every contradictory position, every unreasonable demand for documentation gets memorialized. That contemporaneous record is real-time professional evidence of regulatory violations, statutory violations, and potential bad-faith conduct under Insurance Code §790.03. Policyholders who handle claims alone rarely build this record; by the time they consult an attorney, the evidence is often only their own recollection. A PA file changes that equation.",
+        },
+      ]} />
 
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">

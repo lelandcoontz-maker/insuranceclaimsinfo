@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title:
@@ -892,6 +893,40 @@ export default function Content() {
         </Link>{' '}
         or an attorney experienced in insurance coverage disputes.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'How does the two-payment replacement-cost structure work?',
+          answer: 'Replacement cost policies pay in two stages. Stage One: the carrier issues an actual cash value (ACV) payment — replacement cost minus depreciation — before repairs begin. Stage Two: after you complete the repairs and submit documentation (paid invoices, contractor receipts, photographs), the carrier releases the depreciation holdback up to the original depreciation amount. The holdback is not a bonus or optional extra — it is part of the replacement cost the carrier calculated and agreed to. The structure exists because the policy conditions full payment on the policyholder actually completing repairs.',
+        },
+        {
+          question: 'What deadline does California impose for recovering depreciation?',
+          answer: 'California Insurance Code §2051.5 sets the minimum at no fewer than 12 months from the date of the first actual cash value payment for residential property claims. For losses related to a Governor-declared state of emergency (wildfires, earthquakes, floods), §2051.5(b) extends the minimum to 36 months, with further extensions "for good cause." These statutory minimums override any shorter deadline in your policy — but if your policy provides a longer period (some allow 18 or 24 months for non-emergency claims), the longer policy period controls.',
+        },
+        {
+          question: 'When exactly does the depreciation clock start?',
+          answer: 'Section 2051.5 starts the clock from "the date of the first actual cash value payment on the claim" — not the date of loss, not the date the claim was reported. Disputes arise over what counts as the "first" payment: emergency or advance payments (arguably not the formal ACV settlement), partial payments on undisputed amounts (likely start the clock), payments to the mortgage company held in escrow (policyholder may argue the clock should not start until funds are released and available for repairs), and whether dwelling and contents run on separate clocks. If there\'s any ambiguity, request written confirmation from the carrier of the exact date they consider the first ACV payment and the resulting deadline.',
+        },
+        {
+          question: 'What is the "funding gap trap"?',
+          answer: "The carrier withholds depreciation that the policyholder needs to fund repairs, then imposes a deadline to complete those repairs. A homeowner whose ACV payment is $105,000 on a $150,000 estimate (with the contractor bidding the actual work at $165,000) cannot begin repairs without the withheld $45,000 holdback the carrier won't release until repairs are done. The policyholder is caught between insufficient funds to begin and a ticking clock to finish. Older homes are hit hardest — 25-year-old roofs, HVAC, plumbing, and flooring generate enormous depreciation deductions, sometimes 30–40% of the total claim.",
+        },
+        {
+          question: 'Do I have to wait until repairs are 100% complete to submit?',
+          answer: 'No. Most policies and California law do not require the entire project to be finished before you can submit for any recoverable depreciation. You can — and should — submit for depreciation on completed portions as they finish. Roof done? Submit the roofing invoices and recover that depreciation. Kitchen cabinets installed but bathroom still being tiled? Submit for the kitchen. Recovering depreciation in stages is one of the most important strategies for protecting yourself against the deadline trap. Even if the overall project extends beyond the deadline, depreciation already recovered on completed portions is money in your pocket.',
+        },
+        {
+          question: "What if the carrier's own delays caused me to miss the deadline?",
+          answer: 'Several equitable doctrines may prevent enforcement. Equitable estoppel — if the carrier\'s conduct (verbal assurances of "plenty of time," prolonged scope determinations, failed repair attempts by preferred vendors) caused the missed deadline, the carrier may be estopped from enforcing it. Waiver — if the carrier continued to process the claim or accepted completion documents after the deadline, it may have waived enforcement. The prejudice requirement — under California law, an insurer generally cannot enforce a policy condition unless it can show actual prejudice from the policyholder\'s non-compliance. And bad faith — when carrier-caused delays produce the forfeiture, the carrier\'s conduct may itself be a bad faith breach. The threat of bad faith liability is often the most effective tool for persuading a carrier to grant an extension or pay despite a missed deadline.',
+        },
+        {
+          question: 'How is contents depreciation different from dwelling depreciation?',
+          answer: 'Contents depreciation can be extreme — electronics depreciated at 10–20% per year, clothing at 20–25%, furniture at 5–10%. A five-year-old laptop that cost $1,500 may have an ACV of $300. The funding gap is often worse for contents than dwelling: the ACV on a heavily depreciated contents inventory may be a fraction of the replacement cost. A homeowner needing $80,000 to replace personal property but receiving only $45,000 ACV cannot buy everything before the deadline. The strategy is the same as for dwelling — replace in stages, submit receipts as you go, recover depreciation on purchased items before the deadline expires, and prioritize the highest-depreciation items (furniture, appliances, electronics) where the holdback is largest.',
+        },
+      ]} />
     </>
   )
 }

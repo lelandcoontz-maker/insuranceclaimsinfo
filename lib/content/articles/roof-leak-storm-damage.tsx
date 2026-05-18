@@ -132,9 +132,7 @@ export default function Content() {
         the failure, the entire resulting loss is covered — even if some pre-existing wear existed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Supreme Court established this in <em>Garvey v. State Farm</em> (1989) 48
-        Cal.3d 395 and reaffirmed it in <em>Julian v. Hartford Underwriters</em> (2005) 35 Cal.4th
-        747. The insurer cannot dissect a loss into covered and excluded components if the covered
+        The California Supreme Court established this framework in Garvey v. State Farm (1989) 48 Cal.3d 395. The court later limited it in Julian v. Hartford Underwriters (2005) 35 Cal.4th 747, where it allowed a weather-conditions exclusion to defeat coverage when weather interacted with an excluded peril. The insurer cannot dissect a loss into covered and excluded components if the covered
         peril set the chain in motion. If wind blew your shingles off, the fact that those shingles
         were 12 years old does not negate coverage.
       </p>
@@ -204,8 +202,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         You choose the roofer. The insurer cannot force you to use their &ldquo;preferred&rdquo;
-        vendor, their &ldquo;network contractor,&rdquo; or anyone else. Under California law, you
-        have the right to hire any licensed contractor you wish (Insurance Code &sect; 2695.9(d)).
+        vendor, their &ldquo;network contractor,&rdquo; or anyone else. Under California law, you have the right to hire any licensed contractor you wish (10 CCR &sect;2695.9(b)).
         See our guide on{' '}
         <Link href="/resources/choosing-your-contractor" className="text-[#2E74B5] hover:underline">
           choosing your contractor

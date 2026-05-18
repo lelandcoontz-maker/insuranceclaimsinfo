@@ -366,7 +366,7 @@ export default function AboutPage() {
             <p>
               Every article is written from the policyholder&apos;s perspective, with California law
               cited where applicable. The site also includes interactive tools — a{' '}
-              <Link href="/resources/inventory-tool" className="text-[#2E74B5] underline">contents inventory tool</Link>,
+              <Link href="/inventory" className="text-[#2E74B5] underline">contents inventory tool</Link>,
               a{' '}
               <Link href="/quiz" className="text-[#2E74B5] underline">claims knowledge quiz</Link>, and{' '}
               <Link href="/start-here" className="text-[#2E74B5] underline">guided reading paths</Link> for

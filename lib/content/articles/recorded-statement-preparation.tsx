@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: "How to Prepare for a Recorded Statement or Examination Under Oath",
@@ -483,6 +484,50 @@ export default function Content() {
           insurer is building a record. So should you.
         </p>
       </div>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What is the difference between a recorded statement and an Examination Under Oath?',
+          answer: "A recorded statement is an informal phone or in-person interview, recorded by the adjuster, not under oath, not typically required by the policy. An EUO is a formal sworn proceeding, usually conducted by the insurer's attorney with a court reporter, and most policies expressly require the insured to submit. The consequence of refusing differs: declining a recorded statement may trigger an SIU referral or EUO demand; refusing a properly demanded EUO can be grounds for coverage denial.",
+          displayAnswer: (
+            <>
+              A recorded statement is an informal phone or in-person interview, recorded by the
+              adjuster, not under oath, not typically required by the policy. An{' '}
+              <Link href="/resources/examination-under-oath" className="text-blue-700 underline hover:text-blue-900">
+                Examination Under Oath
+              </Link>{' '}
+              is a formal sworn proceeding, usually conducted by the insurer&apos;s attorney with a
+              court reporter, and most policies expressly require the insured to submit. The
+              consequence of refusing differs: declining a recorded statement may trigger an SIU
+              referral or EUO demand; refusing a properly demanded EUO can be grounds for coverage
+              denial.
+            </>
+          ),
+        },
+        {
+          question: 'Why does the insurer want a recorded statement?',
+          answer: 'Four reasons, not all adversarial. To document the facts of the loss (legitimate investigation). To establish the timeline (when discovered, when reported, what happened between). To assess your cooperation (evasive or inconsistent answers can trigger an SIU referral). And to create a record — once recorded, your statements become part of the file, and any later inconsistency can be used against you. The last reason is the primary risk.',
+        },
+        {
+          question: 'Can the insurer demand a recorded statement from my boyfriend, roommate, or other household member?',
+          answer: 'Generally no. The cooperation clause and EUO provision in the policy apply to the "insured" — the named insured and, depending on policy language, resident relatives qualifying as insureds. Someone who merely lives in the household but is not an insured under the policy has not agreed to the policy conditions and cannot be compelled to provide a statement. Carriers may pressure for one anyway; if the demand has no contractual basis, consult an attorney before complying.',
+        },
+        {
+          question: 'Can I refuse a recorded statement?',
+          answer: "You can — but refusing outright is risky. The insurer typically interprets refusal as a cooperation concern, refers the claim to SIU or to the insurer's attorney, then escalates to a formal EUO demand, which IS a policy condition. The better play is usually to schedule the statement 2–3 days out, prepare thoroughly, and have a representative present, rather than refuse outright.",
+        },
+        {
+          question: 'How should I prepare for a recorded statement or EUO?',
+          answer: 'Review every prior statement you made to the insurer (the initial recorded statement, the proof of loss, every email). Review the policy. Know the loss facts in detail. For an EUO, work with an attorney to conduct a mock examination identifying likely areas of concern. During the statement: tell the truth, answer only the question asked, do not volunteer information, and say "I don\'t know" or "I don\'t recall" when that is the truthful answer. Guessing creates risk for no benefit.',
+        },
+        {
+          question: 'When should I bring an attorney?',
+          answer: "For any EUO, strongly recommended — the insurer's attorney will be there and the proceeding is functionally a deposition. For a recorded statement, optional but advisable, particularly if the tone suggests an SIU investigation, the claim is large, the loss type is fire or theft (referred to SIU more often), or you have any reason to expect coverage will be disputed. An attorney can also negotiate the scope and timing of the statement.",
+        },
+      ]} />
 
       {/* ── Related Reading ───────────────────────────────────────── */}
 

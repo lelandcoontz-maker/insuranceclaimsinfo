@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title:
@@ -588,6 +589,36 @@ export default function Content() {
         but the contents are not, do not accept the denial at face value &mdash; examine the peril
         list, the policy endorsements, and the actual cause of loss before conceding anything.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What is the fundamental difference between dwelling and contents coverage on a standard policy?',
+          answer: 'On the standard HO-3, Coverage A (Dwelling) is open perils — it covers every cause of loss except those specifically excluded, and the insurer bears the burden of proving an exclusion applies. Coverage C (Personal Property) is named perils — it covers personal property only when the damage is caused by one of 16 specifically listed perils, and the policyholder bears the burden of proving the loss matches one of those perils. The HO-3 is sometimes called an "all risk" policy, but that\'s only half true: it\'s all-risk for the building, not for the contents.',
+        },
+        {
+          question: 'What are the 16 named perils for personal property under an HO-3?',
+          answer: "Fire or lightning; windstorm or hail; explosion; riot or civil commotion; aircraft; vehicles; smoke; vandalism or malicious mischief; theft; falling objects; weight of ice, snow, or sleet; accidental discharge or overflow of water or steam; sudden and accidental tearing apart, cracking, burning, or bulging of a heating, AC, or sprinkler system; freezing of plumbing, heating, AC, or sprinkler systems; sudden and accidental damage from artificially generated electrical current; and volcanic eruption (other than earthquake or land shock waves). Any cause of loss not on that list is not covered under Coverage C — even if the same event causes covered damage to the building.",
+        },
+        {
+          question: "What's an example of building covered but contents not covered?",
+          answer: 'Several common scenarios. A washing machine supply hose leak — building damage covered under open-perils Coverage A, but shoes and clothing damaged by the same water may be denied if the insurer argues the leak was gradual rather than "sudden" or that the hose was not part of a "plumbing system." Earth movement triggered by a covered peril — under efficient proximate cause the building damage is covered, but cracked china that fell from a shelf is not covered because earth movement isn\'t a named peril. Raccoon damage to attic — building damage often covered, but holiday decorations stored in the attic aren\'t, because animal damage isn\'t a named peril. Mysterious disappearance of jewelry without forced entry — even if the building shows damage, the contents loss isn\'t covered because "theft" requires evidence of theft, not just that something is gone.',
+        },
+        {
+          question: 'How does the HO-5 policy form close this gap?',
+          answer: "An HO-5 (sometimes called a comprehensive form) provides open-perils coverage for both the dwelling and personal property — so the burden of proof stays on the insurer for both, and ambiguous or unusual contents losses that would be denied under the HO-3's 16 named perils are covered unless specifically excluded. HO-5 typically costs 5–15% more in premium, but the broader contents coverage can be worth thousands in a single claim. Check your declarations page: \"HO 00 03\" is the standard HO-3 with the peril gap; \"HO 00 05\" is the comprehensive form without it. Some carriers also offer an endorsement that upgrades Coverage C to open perils without changing the entire policy form.",
+        },
+        {
+          question: "Why shouldn't labor be depreciated on contents claims?",
+          answer: "Labor costs don't wear out, don't age, and don't lose value over time. The cost to install, assemble, mount, or hang a replacement item is the same regardless of whether the item being replaced was one year old or twenty years old. A carpenter charges the same hourly rate to install a new bookshelf whether the old one was brand new or decades old. If your insurer is depreciating the labor component of your contents claim, push back immediately — in California this practice has been specifically addressed by the courts. Also watch for carriers applying a single blanket depreciation rate across all contents rather than depreciating each item by its specific age, condition, and useful life; that pattern is a red flag for a non–good-faith evaluation.",
+        },
+        {
+          question: 'What should I do if my contents claim is denied but the building claim is paid?',
+          answer: "Don't accept the denial without examining the specific basis. The insurer must provide a written explanation identifying which peril they contend does not apply and why. Review the denial against the actual policy language — not a summary or brochure. Ask: does the loss actually fall within one of the 16 named perils even if the insurer characterized it differently (insurers sometimes misclassify the cause to avoid coverage)? Does your policy have an endorsement that modifies the Coverage C peril list? Is there an efficient proximate cause argument — did a covered peril set in motion the chain of events leading to the contents loss? Did the insurer actually investigate before denying, or rely on assumption (a denial based on assumption may violate California's Fair Claims Settlement Practices Regulations)?",
+        },
+      ]} />
 
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
