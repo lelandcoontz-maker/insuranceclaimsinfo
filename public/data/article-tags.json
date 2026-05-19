@@ -2967,6 +2967,17 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "landlord-drug-contamination-claims": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "commercial",
+      "theft"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "landlord-duty-to-disclose": {
     "audience": [
       "mid-claim"
