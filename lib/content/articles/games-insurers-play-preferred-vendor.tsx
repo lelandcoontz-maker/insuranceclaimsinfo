@@ -286,6 +286,74 @@ export default function Content() {
         they shouldn&rsquo;t be there.
       </p>
 
+      {/* ── The No-Change-Order Bluff ──────────────────────────────── */}
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        The No-Change-Order Bluff: How to Call the Preferred Vendor&rsquo;s Hand
+      </h2>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Here is a tactical move most policyholders never think of, and one that exposes the
+        preferred vendor game faster than anything else. When the carrier&rsquo;s preferred
+        vendor has written a suspiciously low estimate and the carrier is leaning on it as
+        the basis for the claim payment, <strong>offer to hire the preferred vendor to
+        actually do the work &mdash; on a fixed-price, no-change-order contract at their
+        estimated number</strong>. Then watch what happens.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In our experience, the preferred vendor almost never accepts. They will say they are
+        too busy. They will say they cannot get to it for months. They will say the project is
+        not really their specialty. They will say their team is committed elsewhere. They
+        will go quiet and stop returning calls. Almost any answer except: &ldquo;Yes, we will
+        do the job for the number we wrote.&rdquo;
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Why? Because they cannot actually do the job for the number they wrote. They wrote a
+        number designed to make the insurance company happy. The estimate was never a
+        commitment to perform &mdash; it was a paper exercise. Some preferred vendors, when
+        pressed in plain conversation, will admit this directly: they will say they wrote it
+        low for the carrier who sends them work, or they will say that of course the price
+        would need to come up if they were actually hired, because no real contractor could
+        complete the scope at that number.
+      </p>
+
+      <CalloutBox variant="important" title="The Refusal Is Evidence">
+        <p>
+          When the preferred vendor refuses to actually do the job at their own estimated
+          price, that refusal is evidence the estimate was not a good-faith assessment of
+          the cost of repair. Document the refusal in writing. Send an email to the
+          adjuster summarizing the conversation: &ldquo;I offered to hire [Vendor Name] to
+          perform the repairs at the price set out in their estimate dated [date]. Their
+          response was [their response]. Please advise how the carrier intends to proceed
+          given that the vendor whose estimate you are relying on will not perform the
+          work at that price.&rdquo; The carrier&rsquo;s estimate is now resting on an
+          estimate the estimator will not stand behind.
+        </p>
+      </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What the adjusters know that they will not say on the record: this game is happening
+        with their blessing. Adjusters know perfectly well that preferred vendors write
+        deliberately low estimates as a courtesy to the carrier who sends them work, and that
+        the vendors do not expect to perform the work at those numbers. The arrangement is
+        widely understood inside the industry. When confronted, however, adjusters generally
+        feign ignorance &mdash; as if the preferred vendor&rsquo;s number was a clean
+        third-party estimate produced by an independent professional with no relationship to
+        the carrier and no incentive to write low. The pretense is part of how the game
+        works.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The no-change-order bluff strips away that pretense in the cleanest possible way.
+        It does not require the policyholder to argue about industry norms or carrier
+        incentive structures or backroom arrangements. It just requires the policyholder to
+        say: <em>I want to hire your guy. At his price. Let&rsquo;s sign the contract.</em>
+        The vendor backs out, and the estimate that was supposed to define the loss now has
+        nobody standing behind it.
+      </p>
+
       {/* ── How to Protect Yourself ────────────────────────────────── */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">How to Protect Yourself</h2>

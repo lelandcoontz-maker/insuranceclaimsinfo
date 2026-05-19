@@ -2232,6 +2232,17 @@
     "jurisdiction": "california",
     "subcategory": "valuation"
   },
+  "games-insurers-play-adjuster-musical-chairs": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "fire",
+      "smoke"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
   "games-insurers-play-claims-process-grief": {
     "audience": [
       "professional"
@@ -2243,6 +2254,16 @@
     "jurisdiction": "california"
   },
   "games-insurers-play-documentation-loop": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california"
+  },
+  "games-insurers-play-expert-capture": {
     "audience": [
       "professional"
     ],
