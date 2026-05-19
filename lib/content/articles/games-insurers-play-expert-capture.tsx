@@ -185,15 +185,21 @@ export default function Content() {
         <p>
           The California Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect;
           2695.1&ndash;2695.17) impose specific obligations on insurers during the claims
-          process. Insurers must conduct thorough and reasonable investigations; they must
-          not misrepresent facts or policy provisions; they must not deny claims based on
-          partial information. The Department of Insurance has issued notices to carriers
-          making clear that <strong>when an earlier version of an expert report exists,
-          both the earlier and the revised versions must be turned over to the insured on
-          request</strong>. The insurer cannot selectively disclose the version it prefers
-          while pretending the earlier version does not exist. A carrier that has
-          suppressed an unfavorable expert report is in violation of the regulations and
-          potentially exposed to{' '}
+          process. Insurers must conduct thorough and reasonable investigations (10 CCR
+          &sect; 2695.7(d)); they must not misrepresent pertinent facts or policy
+          provisions (Cal. Ins. Code &sect; 790.03(h)(1)); and they must document material
+          claim-investigation activity in the claim file (10 CCR &sect; 2695.3). When an
+          insured requests claim-related documents under California Insurance Code section
+          2071, the insurer must produce the requested materials within fifteen days. The
+          combined effect of these provisions is that an insurer cannot selectively
+          disclose a revised expert report while pretending an earlier version does not
+          exist. The earlier version is part of the claim-investigation record; the
+          insurer has documented it (or should have); the policyholder has a statutory
+          right to request it; and concealing it would be a misrepresentation of pertinent
+          facts and a breach of the duty of good faith and fair dealing (
+          <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809). A carrier that
+          has suppressed an unfavorable expert report is in violation of the regulations
+          and potentially exposed to{' '}
           <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">
             bad faith
           </Link>{' '}
@@ -299,8 +305,11 @@ export default function Content() {
         <li>
           <strong>Demand any prior versions of the report.</strong> Ask in writing for any
           earlier drafts, working versions, preliminary findings, or alternative reports.
-          Cite the Department of Insurance&rsquo;s position that prior versions must be
-          turned over alongside the version the carrier intends to rely on.
+          Cite California Insurance Code &sect; 2071 (the policyholder&rsquo;s statutory
+          right to claim-related documents within fifteen days of a written request) and
+          10 CCR &sect; 2695.3 (the insurer&rsquo;s obligation to document material
+          claim-investigation activity in the claim file) as the legal basis for the
+          request.
         </li>
         <li>
           <strong>Retain your own expert with a deliberately broad scope.</strong> The most

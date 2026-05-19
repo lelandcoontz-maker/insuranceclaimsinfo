@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Games Insurers Play: Musical Chairs With Adjusters — The Hidden Cost of Constant Reassignment',
   description:
-    'On long-duration California claims — particularly urban wildfire smoke claims — it is not unusual for ten or more adjusters to cycle through a single file over a year or more. Each reassignment resets context, drops continuity, repeats document requests, and pushes back the resolution date. California has a specific regulatory remedy: 10 CCR 2695.7(c) requires a written status report when three or more adjusters are assigned within a six-month period. Most policyholders never hear about the rule, and most adjusters never invoke it.',
+    'On long-duration California claims — particularly urban wildfire smoke claims — it is not unusual for ten or more adjusters to cycle through a single file over a year or more. Each reassignment resets context, drops continuity, repeats document requests, and pushes back the resolution date. California has specific statutory remedies: Insurance Code § 2071 requires a written status report when three or more adjusters are assigned to a single property claim within a six-month period, and Insurance Code § 14047 (added by SB 240) layers an additional primary-point-of-contact requirement on top for residential claims arising from a declared state of emergency. Most policyholders never hear about either rule, and most carriers never invoke them voluntarily.',
 }
 
 export default function Content() {
@@ -45,15 +45,25 @@ export default function Content() {
 
       <CalloutBox variant="important" title="The Procedural Remedy That Most Policyholders Never Hear About">
         <p>
-          California Code of Regulations, Title 10, &sect; 2695.7(c) requires an insurer
-          to provide the insured with a <strong>written status report</strong> when three
-          or more adjusters have been assigned to the same claim within a six-month
-          period. The report must be sent within thirty calendar days of the third
-          assignment and must explain the reasons for the reassignments. Most carriers do
-          not voluntarily issue this report. Most policyholders never request it because
-          they do not know the rule exists. The single act of invoking the rule in writing
-          is one of the most effective tools a policyholder has to slow down or reverse
-          adjuster churn.
+          California law addresses adjuster churn directly through two overlapping
+          statutory provisions. <strong>California Insurance Code section 2071</strong>
+          &mdash; the standard fire policy statute &mdash; requires that when three or
+          more adjusters have been assigned to a single property claim within a six-month
+          period, the insurer must provide the insured with a written status report
+          summarizing the status of the claim, including the amount of losses to
+          structures or contents, the retention or consultation of design or construction
+          professionals, the amount of coverage, and all items of dispute.
+          <strong> California Insurance Code section 14047</strong>, added by SB 240
+          (Dodd, 2019) and effective October 3, 2019, layers an additional requirement on
+          top of section 2071 for claims arising from a declared state of emergency: in
+          those cases, the insurer must also establish a primary point of contact for the
+          insured and provide one or more direct means of communication with that point of
+          contact. The primary point of contact must remain assigned to the insured&rsquo;s
+          claim until the insurer determines that the claim is closed or until litigation
+          is filed. Most carriers do not voluntarily comply with either statute. Most
+          policyholders never request the report because they do not know the rules
+          exist. The single act of invoking the rules in writing is one of the most
+          effective tools a policyholder has to slow down or reverse adjuster churn.
         </p>
       </CalloutBox>
 
@@ -135,38 +145,56 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The 10 CCR &sect; 2695.7(c) Status Report Requirement
+        The Statutory Status Report Requirement: Insurance Code &sect;&sect; 2071 and 14047
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Code of Regulations addresses adjuster churn directly. 10 CCR
-        &sect; 2695.7(c) provides that when three or more adjusters have been assigned to
-        a single claim within a six-month period, the insurer must provide the insured
-        with a written status report explaining the reasons for the reassignments. The
-        report must:
+        Two California statutes work together to require carriers to account for adjuster
+        churn. <strong>Section 2071&rsquo;s status-report requirement applies to all
+        property insurance claims</strong>, not just claims arising from a declared state
+        of emergency. <strong>Section 14047&rsquo;s additional primary-point-of-contact
+        requirement applies only to residential property claims arising from a declared
+        state of emergency</strong> as defined in Government Code &sect; 8558(b). For Los
+        Angeles County wildfire claims and similar disaster-driven losses, both statutes
+        apply. For non-disaster claims, only &sect; 2071 applies.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When three or more adjusters have been assigned to a single property claim
+        within a six-month period, the insurer must provide the insured with a written
+        status report. Under the substance of &sect;&sect; 2071 and 14047, the report
+        typically must address:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          Be provided within thirty calendar days of the assignment that triggers the
-          rule (the third assignment within the six-month window).
+          Be provided in a timely manner following the assignment that triggers the rule
+          (per &sect; 14047&rsquo;s &ldquo;in a timely manner&rdquo; language; &sect; 2071
+          does not specify a fixed deadline).
         </li>
         <li>
-          Identify each of the adjusters assigned to the file during that period.
+          Summarize the status of the claim, including the amount of losses to structures
+          and contents.
         </li>
         <li>
-          Explain why each reassignment occurred.
+          Identify any design or construction professionals retained or consulted.
         </li>
         <li>
-          Identify the current handler and the current status of the claim.
+          State the amount of coverage available for the loss.
+        </li>
+        <li>
+          Identify all items currently in dispute.
+        </li>
+        <li>
+          For state-of-emergency residential claims, also identify the primary point of
+          contact assigned under &sect; 14047 and provide one or more direct means of
+          communication with that point of contact.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The rule exists because the regulatory drafters understood, at the time the
-        regulations were adopted, that adjuster churn was a meaningful problem in
-        California claims handling and that policyholders needed a mechanism to compel
-        the carrier to account for it. The rule is not new. It is also not, in practice,
-        well-enforced. Carriers do not voluntarily issue these status reports on most
-        claims that would qualify; the rule operates as something policyholders must
-        affirmatively invoke.
+        The statutes exist because the Legislature understood that adjuster churn was a
+        meaningful problem in California claims handling and that policyholders needed a
+        mechanism to compel the carrier to account for it. The rules are also not, in
+        practice, well-enforced. Carriers do not voluntarily issue these status reports
+        on most claims that would qualify; the rules operate as something policyholders
+        must affirmatively invoke.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -179,15 +207,19 @@ export default function Content() {
       <div className="bg-gray-50 border border-gray-200 rounded-lg p-4 my-6">
         <p className="text-gray-700 text-sm italic leading-relaxed">
           &ldquo;Three or more adjusters have been assigned to my claim within the past
-          six months. Pursuant to 10 CCR &sect; 2695.7(c), I am requesting a written
-          status report identifying each adjuster assigned to the file during that
-          period, the dates of each assignment, the reason for each reassignment, the
-          identity of the current handler, and the current status of the claim. I am also
-          requesting confirmation that all materials produced to prior adjusters &mdash;
-          including documents, recorded statements, inspection reports, and expert
-          materials &mdash; are part of the file the current handler is working from.
-          Please provide the status report within the thirty-day window required by the
-          regulation.&rdquo;
+          six months. Pursuant to California Insurance Code section 2071, I am requesting
+          a written status report summarizing the status of the claim, including the
+          amount of losses to structures and contents, any design or construction
+          professionals retained or consulted, the amount of coverage available, and all
+          items currently in dispute. [If applicable: Because this claim arises from a
+          declared state of emergency, California Insurance Code section 14047 also
+          requires that the insurer establish a primary point of contact for the insured
+          with one or more direct means of communication; I am requesting that designation
+          as well.] I am also requesting confirmation that all materials produced to
+          prior adjusters &mdash; including documents, recorded statements, inspection
+          reports, and expert materials &mdash; are part of the file the current handler
+          is working from. Please provide the status report in a timely manner as
+          required by the statutes.&rdquo;
         </p>
       </div>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -222,29 +254,31 @@ export default function Content() {
         <li>
           <strong>It creates a bad-faith evidentiary anchor.</strong> If the matter
           escalates to a bad-faith dispute, the carrier&rsquo;s failure to comply with a
-          properly invoked 2695.7(c) request becomes a discrete violation of the Fair
-          Claims Settlement Practices Regulations &mdash; not just one factor in a
-          broader pattern, but a specific regulatory failing on the documentary record.
+          properly invoked &sect;&sect; 2071 / 14047 status-report request becomes a
+          discrete statutory violation &mdash; not just one factor in a broader pattern,
+          but a specific failing on the documentary record.
         </li>
         <li>
           <strong>It often produces a stabilization in the handler assignment.</strong>{' '}
-          Carriers that receive a 2695.7(c) demand sometimes respond by assigning the
-          claim to a more senior or specialized handler and keeping that handler on the
-          file through resolution. The reassignment pattern slows down or stops, simply
-          because the carrier no longer wants to keep documenting it.
+          Carriers that receive a status-report demand under &sect;&sect; 2071 / 14047
+          sometimes respond by assigning the claim to a more senior or specialized
+          handler and keeping that handler on the file through resolution. The
+          reassignment pattern slows down or stops, simply because the carrier no longer
+          wants to keep documenting it.
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="Pair the 2695.7(c) Request With a 2695.5(b) Cleanup">
+      <CalloutBox variant="tip" title="Pair the §§ 2071/14047 Status Report Request With a 10 CCR § 2695.5(b) Cleanup">
         <p>
-          A 2695.7(c) status report request pairs well with a 10 CCR &sect; 2695.5(b)
-          demand that the carrier respond to any open communications within fifteen
-          calendar days. The two regulations cover different aspects of the same
-          underlying problem: 2695.7(c) addresses the structural issue of who is handling
-          the file, and 2695.5(b) addresses the operational issue of whether the file is
-          actually moving. A policyholder who is being run through the adjuster-churn
-          treadmill typically has both problems at once, and both regulations should be
-          cited in the same demand letter.
+          The status-report request under California Insurance Code &sect;&sect; 2071 and
+          14047 pairs well with a 10 CCR &sect; 2695.5(b) demand that the carrier respond
+          to any open communications within fifteen calendar days. The two authorities
+          cover different aspects of the same underlying problem: &sect;&sect; 2071 and
+          14047 address the structural issue of who is handling the file and what the
+          status of the claim actually is; 10 CCR &sect; 2695.5(b) addresses the
+          operational issue of whether the file is actually moving. A policyholder who is
+          being run through the adjuster-churn treadmill typically has both problems at
+          once, and both authorities should be cited in the same demand letter.
         </p>
       </CalloutBox>
 
@@ -255,9 +289,9 @@ export default function Content() {
         <li>
           <strong>Keep a log of every adjuster on the file from day one.</strong> Date of
           first contact, name, title, phone, email, and the substance of any conversation
-          or written communication. This log is the foundation of the 2695.7(c) request
-          when the time comes; you cannot invoke a three-in-six-months rule if you have
-          not kept track of the three-in-six-months.
+          or written communication. This log is the foundation of the &sect;&sect; 2071 /
+          14047 status-report request when the time comes; you cannot invoke a
+          three-in-six-months rule if you have not kept track of the three-in-six-months.
         </li>
         <li>
           <strong>Confirm every significant adjuster statement in writing.</strong> A
@@ -274,24 +308,27 @@ export default function Content() {
           carrier&rsquo;s churn from costing you control of the substantive record.
         </li>
         <li>
-          <strong>Invoke 2695.7(c) the moment the third adjuster is assigned.</strong>{' '}
-          Do not wait for the fifth or sixth handler. The rule triggers at the third
-          assignment within six months. Invoking it early establishes the documentary
-          record at the moment the carrier is most exposed.
+          <strong>Invoke &sect;&sect; 2071 / 14047 the moment the third adjuster is
+          assigned.</strong> Do not wait for the fifth or sixth handler. The rule
+          triggers at the third assignment within six months. Invoking it early
+          establishes the documentary record at the moment the carrier is most exposed.
         </li>
         <li>
-          <strong>Track the carrier&rsquo;s thirty-day response window.</strong> If the
-          carrier fails to produce the status report within thirty days of the triggering
-          assignment, that failure is itself a regulatory violation. Document it.
+          <strong>Send the request promptly and track the carrier&rsquo;s response.</strong>{' '}
+          Neither &sect; 2071 nor &sect; 14047 specifies a fixed deadline (&sect; 14047
+          requires the report &ldquo;in a timely manner&rdquo;). A carrier that delays the
+          status report beyond what would be reasonable under the circumstances &mdash;
+          weeks rather than days for a claim already mid-stream &mdash; is on weak ground,
+          and the delay itself becomes a documented bad-faith fact.
         </li>
         <li>
           <strong>Escalate to the Department of Insurance when warranted.</strong> A
-          carrier that ignores a properly invoked 2695.7(c) request, combined with a
-          documented pattern of adjuster churn on a long-duration claim, is a strong
-          candidate for a Department of Insurance complaint. The Department investigates
-          patterns of conduct across a carrier&rsquo;s book of business, and complaints
-          documenting specific regulatory violations are more actionable than complaints
-          framed as general dissatisfaction.
+          carrier that ignores a properly invoked &sect;&sect; 2071 / 14047 status-report
+          request, combined with a documented pattern of adjuster churn on a long-duration
+          claim, is a strong candidate for a Department of Insurance complaint. The
+          Department investigates patterns of conduct across a carrier&rsquo;s book of
+          business, and complaints documenting specific statutory violations are more
+          actionable than complaints framed as general dissatisfaction.
         </li>
         <li>
           <strong>Consider professional representation on long-duration claims.</strong>{' '}
@@ -352,16 +389,17 @@ export default function Content() {
         delayed resolution, repeated document production, walked-back acknowledgments,
         lost continuity &mdash; and it is largely invisible because each individual
         reassignment looks like a routine personnel matter rather than a pattern. The
-        regulatory remedy exists: 10 CCR &sect; 2695.7(c) was written for exactly this
-        situation. The remedy is also under-used because most policyholders never hear
-        about it.
+        statutory remedy exists: California Insurance Code &sect;&sect; 2071 and 14047
+        were written for exactly this situation. The remedy is also under-used because
+        most policyholders never hear about it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your claim is approaching six months and you have been handed off to a third,
-        fourth, or fifth adjuster, send the 2695.7(c) request today. It costs nothing. It
-        takes ten minutes. It is one of the highest-leverage procedural moves available
-        to a California policyholder, and almost no one outside the policyholder-advocate
-        community knows the rule exists.
+        fourth, or fifth adjuster, send the &sect;&sect; 2071 / 14047 status-report
+        request today. It costs nothing. It takes ten minutes. It is one of the
+        highest-leverage procedural moves available to a California policyholder, and
+        almost no one outside the policyholder-advocate community knows the statutes
+        exist.
       </p>
 
       <hr className="my-8 border-gray-300" />
@@ -386,12 +424,12 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           If your claim has been running for more than six months and you have been
-          handed off to three or more adjusters, the regulatory framework already provides
+          handed off to three or more adjusters, the statutory framework already provides
           a tool to slow the churn and force the carrier to account for it. A licensed
-          Public Adjuster can document the reassignment history, send the 2695.7(c)
-          request properly, and stabilize the claims-handling relationship for the rest of
-          the file. Adjuster musical chairs is one of the easier games to disrupt once
-          you know what you are looking at.
+          Public Adjuster can document the reassignment history, send the &sect;&sect;
+          2071 / 14047 status-report request properly, and stabilize the claims-handling
+          relationship for the rest of the file. Adjuster musical chairs is one of the
+          easier games to disrupt once you know what you are looking at.
         </p>
         <Link
           href="/contact"
