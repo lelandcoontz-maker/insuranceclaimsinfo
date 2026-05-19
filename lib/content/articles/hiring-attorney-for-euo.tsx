@@ -227,6 +227,245 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Substantive Preparation: Know What the Carrier Is Building Against You
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Showing up calm, telling the truth, and answering only what is asked are the
+        baseline disciplines. They are not enough on their own. Substantive preparation
+        means walking into the EUO knowing what the insurance company&rsquo;s attorney is
+        actually trying to build &mdash; the specific coverage defense they are exploring,
+        the specific policy provision they think gets the carrier out of paying, and the
+        specific facts they are trying to develop on the record to support that defense.
+        Honest answers are still required; understanding the strategic terrain helps you
+        deliver those honest answers with precision rather than getting tripped up by
+        questions you did not realize were aimed at a particular target.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Know Your Own Evidence
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Before the EUO, sit down with every document related to the claim and actually
+        read them again. Not skim &mdash; read. This includes:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          Every letter and email the carrier has sent you, including reservation-of-rights
+          letters, requests for information, and the carrier&rsquo;s own descriptions of
+          what it believes the issues are
+        </li>
+        <li>
+          Every estimate &mdash; yours, the carrier&rsquo;s, any third-party
+          contractors&rsquo; &mdash; with the line items you understand and the line items
+          that confuse you both flagged for discussion with your attorney
+        </li>
+        <li>
+          Every report &mdash; industrial hygienist, engineer, contents specialist, fire
+          investigator, structural &mdash; including the parts you may have skimmed past
+          the first time
+        </li>
+        <li>
+          Every photograph you have of pre-loss condition, post-loss damage, mitigation
+          work, and any subsequent inspections
+        </li>
+        <li>
+          Every invoice, receipt, and proof of payment for repairs, temporary housing,
+          additional living expenses, and any other claimed amounts
+        </li>
+        <li>
+          The full text of your insurance policy, including the declarations page,
+          endorsements, and the conditions section
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The point is not to memorize every detail. The point is to recognize, when the
+        carrier&rsquo;s attorney references a document, what that document is and what it
+        actually says. An insured who has not read their own claim file in months is
+        easily knocked off balance by a question that begins, &ldquo;In your industrial
+        hygienist&rsquo;s report on page 14, it says &hellip;&rdquo; An insured who
+        re-read the report two days before the EUO is not.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Understand Your Policy &mdash; Including the Defined Terms
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Insurance policies do not use words the way ordinary people use them. A policy is a
+        contract written by lawyers, with defined terms that often diverge sharply from the
+        everyday meaning of the same words. The carrier&rsquo;s attorney will know exactly
+        what each term means in the policy and will be asking questions calibrated to that
+        definition. You need the same calibration.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Pay particular attention to:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>The definitions section.</strong> Every defined term in the policy is
+          there for a reason. &ldquo;Insured,&rdquo; &ldquo;residence premises,&rdquo;
+          &ldquo;business,&rdquo; &ldquo;occurrence,&rdquo; &ldquo;property damage,&rdquo;
+          &ldquo;water damage,&rdquo; and dozens of other terms have technical meanings
+          that govern coverage.
+        </li>
+        <li>
+          <strong>The exclusions.</strong> The carrier&rsquo;s attorney is almost certainly
+          building toward at least one exclusion. Know which exclusions could plausibly
+          apply to your loss and know what the policy actually says about each one.
+        </li>
+        <li>
+          <strong>The conditions.</strong> Duties after loss, proof of loss requirements,
+          cooperation clauses, suit limitation periods, the appraisal clause &mdash; all of
+          these are conditions the carrier can use to deny a claim if the insured did not
+          comply.
+        </li>
+        <li>
+          <strong>The endorsements.</strong> Endorsements modify the underlying policy.
+          They can add coverage, remove coverage, or change definitions. Read them.
+        </li>
+      </ul>
+
+      <CalloutBox variant="important" title="The Vacancy Example: Why Policy Definitions Matter">
+        <p>
+          Here is a concrete example of how a defined term can become the centerpiece of
+          an EUO and how knowing the definition changes how the insured navigates the
+          questions. Suppose the policy excludes or limits coverage for losses that occur
+          while the property is &ldquo;vacant.&rdquo; In everyday language, a vacation
+          home that the owner has not visited in two years sounds vacant &mdash; nobody
+          has been there. But the insurance definition of &ldquo;vacant&rdquo; usually
+          turns on whether the property is <em>devoid of furniture and personal
+          property</em>, not on whether anyone has visited recently. A fully furnished
+          vacation home that nobody has set foot in for two years is generally
+          &ldquo;unoccupied,&rdquo; not &ldquo;vacant&rdquo; &mdash; and the unoccupancy
+          status does not trigger most vacancy exclusions.
+        </p>
+        <p className="mt-2">
+          If the carrier&rsquo;s attorney begins asking when you last visited the
+          property, how long it had been empty, whether anyone was living there, those
+          questions are almost certainly aimed at building a vacancy exclusion. The
+          honest answer to each question may be exactly what the carrier wants to hear
+          &mdash; the property was empty, you had not visited in two years, no one was
+          residing there. But if you also understand that the policy defines
+          &ldquo;vacant&rdquo; by reference to the absence of furniture and personal
+          property, you can answer the surrounding questions truthfully and accurately
+          and avoid characterizing your fully furnished home as &ldquo;vacant&rdquo; in
+          the everyday sense. For the full doctrinal treatment, see our article on{' '}
+          <Link href="/resources/vacancy-unoccupancy" className="text-[#2E74B5] hover:underline">
+            vacancy and unoccupancy provisions
+          </Link>.
+        </p>
+      </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The vacancy/unoccupancy distinction is one of dozens of similar traps. Other
+        examples that EUO questions commonly probe include the definitions of
+        &ldquo;business pursuits,&rdquo; &ldquo;motor vehicle,&rdquo; &ldquo;dwelling,&rdquo;
+        &ldquo;other structures,&rdquo; &ldquo;personal property,&rdquo;
+        &ldquo;collapse,&rdquo; &ldquo;water damage&rdquo; (which often excludes flood,
+        backup, and ground water), and the &ldquo;where you reside&rdquo; requirement
+        baked into the &ldquo;residence premises&rdquo; definition. Your attorney will
+        flag the specific terms most relevant to your claim during the preparation session.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Anticipate the Carrier&rsquo;s Defense Theory
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The carrier scheduled the EUO for a reason. That reason is rarely
+        &ldquo;curiosity.&rdquo; The carrier&rsquo;s attorney is exploring one or more
+        specific defenses they think might apply to your claim. Identifying those
+        defenses in advance is the single highest-leverage piece of preparation you can
+        do, because every question in the EUO will be aimed at developing facts that
+        either support the defense or rule it out. Knowing which defense is in play lets
+        you understand why a particular question is being asked and answer it precisely
+        rather than giving a sprawling answer that hands the carrier additional material.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Common coverage defenses that drive EUOs include:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Misrepresentation or concealment</strong> in the application or during
+          the claim &mdash; the carrier is looking for a prior loss you did not disclose,
+          a use of the property you did not disclose, or an answer in earlier claim
+          communications that does not match what you now say
+        </li>
+        <li>
+          <strong>Intentional acts or arson</strong> &mdash; the carrier is looking for
+          motive (financial pressure, recent over-insurance, prior threats) and opportunity
+          (proximity to the loss, sole access to the property)
+        </li>
+        <li>
+          <strong>Vacancy or where-you-reside</strong> &mdash; the carrier is looking to
+          show the property was not the residence premises it was insured as, or was
+          vacant under the policy definition at the time of loss
+        </li>
+        <li>
+          <strong>Business use of a residential property</strong> &mdash; the carrier is
+          looking for facts that show the property was being used in ways the homeowner
+          policy excludes
+        </li>
+        <li>
+          <strong>Failure to cooperate</strong> &mdash; the carrier is building a record
+          that the insured did not respond to information requests, did not produce
+          documents, or did not appear at the EUO without good cause
+        </li>
+        <li>
+          <strong>Inflated or fraudulent contents claim</strong> &mdash; the carrier is
+          probing the source of items in the inventory, dates of acquisition, prices paid,
+          and the existence of corroborating receipts
+        </li>
+        <li>
+          <strong>Excluded peril</strong> &mdash; the carrier is trying to show the loss
+          was caused by an excluded peril (flood, earth movement, wear and tear,
+          maintenance) rather than the covered peril claimed
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Your attorney can usually tell from the carrier&rsquo;s prior correspondence,
+        reservation-of-rights letter (if there was one), and the topics raised in the
+        notice of EUO which defense or defenses the carrier is building. That intelligence
+        is one of the most valuable things the preparation session produces.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Sometimes the EUO Reveals a Misunderstanding That Clears Up
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Not every EUO is adversarial in the deepest sense. Sometimes the carrier&rsquo;s
+        attorney is exploring an issue because a single document in the claim file looks
+        ambiguous, a date on a form does not match what was stated in a recorded
+        statement, or the carrier genuinely does not understand a piece of the loss. A
+        well-prepared insured, sometimes with help from their attorney, can use the EUO
+        to <em>clear up</em> the misunderstanding and move the claim forward. The
+        physical handing-over of evidence on the record (covered in the section below) is
+        one mechanism for doing this. A clean, direct, well-organized answer to a question
+        the insured was anticipating is another.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is the optimistic case, and it does happen. Walking into the EUO assuming the
+        worst is reasonable; walking in assuming that nothing the insured can do will
+        change the outcome is not. Substantive preparation creates the possibility of a
+        constructive resolution that defensive preparation alone cannot.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Honest, Not Naive
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Nothing in this section authorizes shading the truth, evading questions, or
+        misleading the examining attorney. You are under oath. Your answers must be
+        truthful. The reason to understand the carrier&rsquo;s defense theory is not to
+        construct an answer that helps your case at the expense of the truth &mdash; it
+        is to make sure that <em>when you tell the truth</em>, you do so with the
+        precision and context that the truth actually requires. An insured who knows the
+        carrier is building a vacancy defense will answer a question about furniture by
+        describing the furniture that was there. An insured who does not know what is
+        being built may answer the same question with a vague &ldquo;there was some
+        stuff,&rdquo; and that imprecision can be misused later. The truth was the same
+        in both cases. The strategic awareness changed the quality of the testimony.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What Your Attorney Can Do in the Room &mdash; And What They Cannot
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
