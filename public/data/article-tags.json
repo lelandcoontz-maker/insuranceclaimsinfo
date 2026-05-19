@@ -2366,6 +2366,16 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
+  "hiring-attorney-for-euo": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "historic-heritage-home-claims": {
     "audience": [
       "professional"

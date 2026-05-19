@@ -39,6 +39,13 @@ const START_PATHS: { Icon: LucideIcon; title: string; desc: string; href: string
     href: '/start-here/commercial-claim',
     color: 'bg-sky-50 border-sky-200 hover:border-sky-400',
   },
+  {
+    Icon: Briefcase,
+    title: 'I Am a Professional',
+    desc: 'Attorneys, PAs, and contractors — deep-dive references, case law, and tactical resources.',
+    href: '/start-here/professional',
+    color: 'bg-slate-50 border-slate-200 hover:border-slate-400',
+  },
 ]
 
 // ── Resource cards shown on the homepage ─────────────────────────────────────
