@@ -99,6 +99,27 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <CalloutBox variant="important" title="Where Agreed Value Shows Up in California">
+        <p>
+          Agreed value on a building under a fire policy is statutorily permitted in California:
+          Insurance Code &sect;2052 sets out a procedure where the insurer examines the structure
+          and the parties fix the value of the insured&rsquo;s interest at that time, with the cost
+          of the examination paid by the insured. In practice, this procedure is rarely invoked for
+          standard residential dwellings &mdash; the default California homeowner policy is an
+          &ldquo;open policy&rdquo; governed by the measure-of-indemnity rules in Insurance Code
+          &sect;2051 and the replacement cost framework in &sect;2051.5, not by a pre-agreed figure.
+          Agreed value coverage in California is therefore most often encountered in four contexts:
+          commercial property (where an agreed value endorsement is used to suspend the coinsurance
+          clause), scheduled personal property under a personal articles floater or inland marine
+          endorsement (fine art, jewelry, collectibles, musical instruments), classic and collector
+          cars through specialty carriers like Hagerty or Grundy, and high-net-worth homeowner
+          programs from carriers like Chubb, AIG, or PURE. If you have a standard ISO HO-3 or HO-5
+          policy on your primary residence, your dwelling is almost certainly being valued under
+          the open-policy framework of &sect;2051 and the replacement cost provisions of
+          &sect;2051.5, not on an agreed value basis.
+        </p>
+      </CalloutBox>
+
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         3. Stated Value (Stated Amount)
       </h3>
@@ -373,16 +394,6 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         California-Specific Considerations
       </h2>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Replacement Cost Is Required to Be Offered
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 10101 requires insurers to offer replacement cost
-        coverage on residential property policies. This does not mean every policy includes it
-        &mdash; the policyholder can decline replacement cost and accept an ACV policy &mdash;
-        but the option must be made available.
-      </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Guaranteed Replacement Cost Is Different from Agreed Value

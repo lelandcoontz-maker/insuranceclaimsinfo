@@ -158,13 +158,25 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Duty to Defend Under Reservation of Rights
       </h2>
+      <p className="text-gray-700 leading-relaxed mb-4 italic text-sm">
+        Scope note: this section discusses third-party <strong>liability</strong> claims (where
+        the insurer&rsquo;s obligation includes defending the insured against an outside
+        claimant). It is not first-party property claims analysis. Public adjusters work
+        primarily on first-party property claims, where &ldquo;reservation of rights&rdquo;
+        means something different &mdash; typically the insurer signaling it may later deny
+        coverage based on a pending coverage investigation, but with no associated defense
+        obligation because no outside lawsuit is being defended. The first-party ROR mechanics
+        are covered in the rest of this article.
+      </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In liability claims (third-party claims against you), the concept of reservation of
-        rights takes on additional significance. Under California Insurance Code &sect;554, an
-        insurer that has a duty to defend must provide that defense even when coverage is
-        uncertain. The insurer cannot simply refuse to defend while it investigates coverage
-        questions. Instead, it defends under a reservation of rights &mdash; providing the defense
-        while preserving its right to later disclaim coverage for any resulting judgment.
+        In liability claims (third-party claims against you), an insurer with a duty to defend
+        must provide that defense even when coverage is uncertain. The California Supreme
+        Court&rsquo;s decision in <em>Gray v. Zurich Insurance Co.</em> (1966) 65 Cal.2d 263 is
+        the leading authority: the duty to defend arises whenever the underlying complaint
+        alleges facts that could potentially bring the claim within coverage. The insurer cannot
+        simply refuse to defend while it investigates coverage questions. Instead, it defends
+        under a reservation of rights &mdash; providing the defense while preserving its right
+        to later disclaim coverage for any resulting judgment.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This principle is critical because the duty to defend is broader than the duty to

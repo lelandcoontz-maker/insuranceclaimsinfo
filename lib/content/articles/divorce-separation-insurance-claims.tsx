@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Divorce, Separation, and Insurance Claims: Protecting Your Coverage When Your Marriage Ends',
+    'Marital Property and Insurance Claims in California: Divorce, Separation, Community Property, and Spousal Authority',
   description:
-    'When divorce or separation collides with a pending insurance claim, the results can be devastating. Learn who has authority to file and settle claims during separation, how the innocent co-insured doctrine protects you from spousal arson, what happens to community property insurance proceeds, and practical steps to prevent your claim from falling through the cracks.',
+    'A comprehensive guide to the California rules that govern insurance claims on marital property — community property and separate property, the mortgage/named-insured mismatch, the innocent co-insured doctrine and spousal arson, what happens when the named insured dies, the rights of domestic partners and unmarried couples, and the practical steps to keep a claim alive when a marriage is ending.',
 }
 
 export default function Content() {
@@ -20,12 +20,18 @@ export default function Content() {
         attention, that money can be delayed, reduced, or lost entirely.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This article covers the insurance issues that arise when marriages end &mdash; from the
-        question of who has authority to negotiate a claim during separation, to the spousal arson
-        problem and the innocent co-insured doctrine, to the community property implications for
-        insurance proceeds, to the practical steps both spouses should take to protect their
-        interests. Whether you are a policyholder going through a divorce or an attorney
-        representing one, this is the landscape you need to understand.
+        This article covers the insurance issues that arise when marriages collide with property
+        claims &mdash; not just at the moment of divorce, but throughout the life of any marital
+        or quasi-marital property arrangement in California. It addresses the foundational
+        community-property rules that govern who owns the insurance proceeds, the
+        mortgage/named-insured mismatch that creates problems even in intact marriages, the
+        spousal arson and innocent co-insured doctrine that protects the spouse who did nothing
+        wrong, what happens to the claim if the named insured dies, the unique rights and
+        vulnerabilities of unmarried partners and registered domestic partners, the
+        community-reimbursement claims that arise when community funds maintain separate
+        property, and the practical steps both spouses should take during separation and divorce
+        to keep the claim alive. Whether you are a policyholder, a family law attorney, or an
+        insurance coverage attorney, this is the landscape you need to understand.
       </p>
 
       <h2 id="pending-claims-during-divorce" className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -175,11 +181,11 @@ export default function Content() {
         divorce situations.
       </p>
 
-      <h3 id="section-530" className="text-xl font-semibold text-[#1F3964] mb-3">
-        California Insurance Code Section 530 and the Severability Clause
+      <h3 id="section-533" className="text-xl font-semibold text-[#1F3964] mb-3">
+        California Insurance Code Section 533 and the Severability Clause
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 530 provides the statutory foundation for the innocent
+        California Insurance Code &sect; 533 provides the statutory foundation for the innocent
         co-insured doctrine. It states:
       </p>
       <div className="bg-gray-50 border border-gray-200 rounded-lg p-4 my-6">
@@ -193,7 +199,7 @@ export default function Content() {
         The key word is &ldquo;the insured&rdquo; &mdash; singular. When there are multiple
         insureds on a policy, this provision only bars recovery by the insured who committed the
         willful act. It does not bar recovery by the innocent co-insured. California courts have
-        consistently held that Section 530 applies to each insured individually, not collectively.
+        consistently held that Section 533 applies to each insured individually, not collectively.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The modern homeowner&rsquo;s policy reinforces this through the <strong>severability
@@ -212,7 +218,7 @@ export default function Content() {
           exclusion. The court held that the severability clause required the policy to be read as
           if each insured had a separate policy. The innocent spouse was entitled to recover her
           share of the loss. This principle has been reaffirmed in numerous California decisions.
-          See also California Insurance Code &sect; 530 and the standard ISO severability language.
+          See also California Insurance Code &sect; 533 and the standard ISO severability language.
         </p>
       </CalloutBox>
 
@@ -414,50 +420,217 @@ export default function Content() {
         </p>
       </CalloutBox>
 
-      <h2 id="community-property-proceeds" className="text-2xl font-bold text-[#1F3964] mb-4">
-        Community Property Implications for Insurance Proceeds
+      <h2 id="community-property-foundation" className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Community Property Foundation
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California is a community property state. Under Family Code &sect; 760, property
         acquired during marriage is presumed to be community property. This includes the
         marital home (if purchased during the marriage or with community funds), improvements
-        made to the home, and personal property inside the home. When a covered loss occurs
-        during the marriage, the insurance proceeds that flow from the damage to community
-        property are themselves community property.
+        made to the home, and personal property inside the home. When a covered loss occurs,
+        the insurance proceeds that flow from damage to community property are themselves
+        community property. This means both spouses have an equal interest in the insurance
+        proceeds, regardless of whose name is on the policy, who filed the claim, or who has
+        been communicating with the adjuster. The community property characterization applies
+        to all components of the claim &mdash; the dwelling payment, the personal property
+        payment, the additional living expense (ALE) payments, and any other covered amounts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This means both spouses have an equal interest in the insurance proceeds, regardless
-        of whose name is on the policy, who filed the claim, or who has been communicating with
-        the adjuster. The community property characterization applies to all components of the
-        claim &mdash; the dwelling payment, the personal property payment, the additional
-        living expense (ALE) payments, and any other covered amounts.
+        The recognized exceptions under Family Code &sect; 770 include property owned before
+        marriage, property acquired during marriage by gift or inheritance, and the rents,
+        issues, and profits of separate property. Everything else is presumed community. This
+        presumption is not merely a default that shifts when convenient &mdash; it is a powerful
+        legal rule that requires clear and convincing evidence to overcome, and it applies with
+        full force to insurance proceeds.
       </p>
 
-      <h3 id="separate-property-complications" className="text-xl font-semibold text-[#1F3964] mb-3">
-        Separate Property Complications
+      <CalloutBox variant="legal" title="Family Code &sect; 760 — The Community Property Presumption">
+        <p>
+          All property acquired during marriage while domiciled in California is community
+          property. This includes the family home (if purchased during the marriage), the
+          insurance policy on that home (if purchased with community funds), and the insurance
+          proceeds paid on a claim against that policy. The presumption applies regardless of
+          which spouse&rsquo;s name appears on the deed, the mortgage, or the policy.
+        </p>
+      </CalloutBox>
+
+      <h3 id="proceeds-follow-character" className="text-xl font-semibold text-[#1F3964] mb-3">
+        Insurance Proceeds Follow the Character of the Property
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The community property analysis becomes more complicated when the home is one
-        spouse&rsquo;s separate property &mdash; for example, a home purchased before the
-        marriage, or a home received by gift or inheritance during the marriage. Under
-        California law, separate property remains separate property throughout the marriage
-        (Family Code &sect; 770). If the home is one spouse&rsquo;s separate property, the
-        insurance proceeds for the structure (Coverage A) generally belong to that spouse alone.
+        The fundamental rule in California is that <strong>insurance proceeds take on the same
+        character as the property they are designed to protect</strong>. This is sometimes called
+        the &ldquo;replacement theory&rdquo; or &ldquo;substitution theory&rdquo; of community
+        property. The insurance payment steps into the shoes of the damaged property. If the
+        property was community property, the proceeds are community property. If the property
+        was separate property, the proceeds are separate property.
+      </p>
+
+      <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
+        Community Property Home → Community Property Proceeds
+      </h4>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If a married couple purchased a home during the marriage using community funds, that
+        home is community property. When the home is damaged, the insurance proceeds paid for
+        that damage are also community property &mdash; even if the insurance policy is in only
+        one spouse&rsquo;s name, even if only one spouse filed the claim, and even if only one
+        spouse negotiated the settlement. The proceeds belong to the community. Neither spouse
+        can unilaterally decide to pocket the money, use it for a non-repair purpose, or refuse
+        to apply it to the restoration of the community property home.
+      </p>
+
+      <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
+        Separate Property Home → Separate Property Proceeds
+      </h4>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If one spouse owned a home before the marriage and maintained it as separate property
+        throughout the marriage &mdash; meaning no transmutation, no commingling of title, and
+        no community funds used for acquisition &mdash; then insurance proceeds for damage to
+        that home are the separate property of the owning spouse. The other spouse generally
+        has no ownership interest in those proceeds. However, even in a separate property home,
+        the personal property contents may be community property (if acquired during the
+        marriage with community funds), and the community may have a reimbursement interest
+        under Family Code &sect; 2640 if community funds were used to pay the mortgage, make
+        improvements, or pay insurance premiums.
+      </p>
+
+      <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
+        Mixed Character: The Pro Rata Approach
+      </h4>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In many marriages, the home has a mixed character. Perhaps one spouse owned the
+        property before the marriage but community funds were used to pay the mortgage during
+        the marriage. Or perhaps a separate property down payment was combined with a community
+        property mortgage. In these situations, the insurance proceeds are allocated pro rata
+        between the separate and community interests based on the relative contributions to
+        the property&rsquo;s equity. This allocation can be complex and often requires a
+        forensic accountant or family law attorney to trace the funds.
+      </p>
+
+      <h3 id="transmutation" className="text-xl font-semibold text-[#1F3964] mb-3">
+        Transmutation: When the Character of the Property Changes
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Transmutation is the legal process by which the character of property changes &mdash;
+        from separate to community, from community to separate, or from one spouse&rsquo;s
+        separate property to the other spouse&rsquo;s separate property. Under Family Code
+        &sect; 852, a transmutation of real property is not valid unless it is made in writing
+        by an express declaration that is made, joined in, consented to, or accepted by the
+        spouse whose interest in the property is adversely affected.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, even in a separate property home, the personal property contents may be
-        community property (if acquired during the marriage with community funds), and the
-        community may have a reimbursement interest in the home itself if community funds were
-        used to pay the mortgage, make improvements, or pay insurance premiums. These
-        reimbursement claims under Family Code &sect; 2640 can affect how the insurance
-        proceeds should be allocated between the spouses.
+        This matters for insurance claims because the character of the property at the time of
+        the loss determines the character of the proceeds. Importantly, simply adding a spouse
+        to the title deed does <em>not</em> automatically constitute a transmutation. The
+        writing must contain an &ldquo;express declaration&rdquo; that is &ldquo;made, joined
+        in, consented to, or accepted by the spouse whose interest in the property is
+        adversely affected.&rdquo; A deed that merely adds a spouse&rsquo;s name without any
+        language about changing the character of the property may not meet the statutory
+        requirement.
+      </p>
+
+      <CalloutBox variant="warning" title="The Title Deed Alone Is Not Enough">
+        <p>
+          A common misconception is that putting both spouses&rsquo; names on the deed converts
+          separate property into community property. Under California law, that is not
+          necessarily true. Family Code &sect; 852 requires an express written declaration
+          changing the character of the property. Without that declaration, the property may
+          retain its original separate property character &mdash; even if both names appear on
+          the title. This can have significant consequences for insurance claims if the property
+          is later damaged.
+        </p>
+      </CalloutBox>
+
+      <h3 id="reimbursement-claims" className="text-xl font-semibold text-[#1F3964] mb-3">
+        Reimbursement Claims When Community Funds Maintain Separate Property
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When community funds are used to pay the insurance premiums on a separate property home,
+        the community may have a reimbursement claim. This does not convert the insurance
+        proceeds into community property, but it does create a community interest that must be
+        accounted for. The logic: insurance premiums paid from community earnings reduce the
+        community estate. If those premiums protect a separate property asset, the community
+        has effectively subsidized the separate property owner&rsquo;s insurance coverage. When
+        a claim is paid, the community has a right to be reimbursed for the premiums it funded.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For more on how community property principles affect insurance claims, see our article
-        on{' '}
-        <Link href="/resources/community-property-insurance-proceeds" className="text-[#2E74B5] hover:underline">
-          Community Property and Insurance Proceeds
-        </Link>.
+        This reimbursement principle also extends to other community expenditures that benefit
+        separate property. Under Family Code &sect; 2640, contributions to the acquisition or
+        improvement of property in which the community or the other spouse has no ownership
+        interest are subject to reimbursement. While &sect; 2640 is most commonly applied in
+        divorce proceedings, the underlying principle applies in any context where the
+        characterization of insurance proceeds is at issue.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        To establish a community reimbursement claim, you must be able to trace the premium
+        payments to a community property source &mdash; typically by showing that the premiums
+        were paid from a joint bank account funded by community earnings, or from one
+        spouse&rsquo;s separate bank account that was funded with community income. Bank
+        statements, cancelled checks, and automatic payment records are the key evidence. If
+        the premiums were paid from a commingled account, the tracing becomes more complex,
+        and a forensic accountant may be necessary.
+      </p>
+
+      <h3 id="management-and-control" className="text-xl font-semibold text-[#1F3964] mb-3">
+        Management and Control: Family Code &sect;&sect; 1100 and 1102
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Family Code &sect; 1100 is the primary statute governing how community property is
+        managed during an intact marriage. Either spouse has the management and control of
+        community personal property (which includes insurance proceeds once paid), with certain
+        exceptions. But subdivision (e) imposes a critical limitation: each spouse must act in
+        <strong> &ldquo;good faith&rdquo;</strong> with respect to the other in the management
+        and control of community property. Applied to insurance claims, this means either
+        spouse can communicate with the insurer, provide documentation, negotiate the
+        settlement, and take reasonable steps to protect the property. But neither spouse can
+        act against the other&rsquo;s interest &mdash; for example, by settling a claim for
+        less than its value, by diverting proceeds to personal use, or by refusing to cooperate
+        with legitimate repairs.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Family Code &sect; 1100(b) adds another important rule: a spouse may not make a gift
+        of community personal property without the written consent of the other spouse. If one
+        spouse settles an insurance claim for substantially less than its value &mdash; perhaps
+        to speed up the process or avoid conflict &mdash; the other spouse could argue that
+        the undervalued settlement constituted a constructive gift of community assets.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Family Code &sect; 1102 requires that both spouses must join in executing any
+        instrument by which community real property or any interest therein is leased for a
+        longer period than one year, sold, conveyed, or encumbered. While an insurance claim
+        settlement is not a sale or conveyance of real property, the underlying principle
+        &mdash; that both spouses must participate in significant decisions affecting community
+        real property &mdash; is directly relevant. A settlement that effectively determines
+        whether the community home gets rebuilt, repaired, or sold for salvage value implicates
+        the same protective principles.
+      </p>
+
+      <CalloutBox variant="legal" title="Both Spouses Must Participate">
+        <p>
+          Under Family Code &sect;&sect; 1100 and 1102, both spouses have rights and
+          obligations regarding community property. In the insurance claim context, this means
+          both spouses should be involved in major claim decisions, both should review
+          settlement offers, and neither should accept or reject a settlement without
+          consulting the other. An insurer that negotiates exclusively with one spouse while
+          ignoring the other is creating a potential liability issue.
+        </p>
+      </CalloutBox>
+
+      <h3 id="endorsement-requirements" className="text-xl font-semibold text-[#1F3964] mb-3">
+        Claim Check Endorsement: Do Both Spouses Have to Sign?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When the insurer issues a claim payment on a community property home, the check should
+        be made payable to both spouses (as community property co-owners and insureds) and the
+        mortgage lender (if there is a loss payable endorsement). All named payees must endorse
+        the check before it can be negotiated. If the insurer issues the check payable only to
+        the named insured and the lender &mdash; omitting the non-named spouse &mdash; the
+        non-named spouse may have a claim against the named insured for breach of fiduciary
+        duty under Family Code &sect; 1100, and potentially against the insurer for failing to
+        protect the community interest. In practice, most insurers will include both spouses on
+        the check if they are aware that both are involved in the claim. To protect yourself,
+        make sure the insurer knows from the outset that both spouses are insureds with a
+        community property interest in the proceeds.
       </p>
 
       <h3 id="ale-during-separation" className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -474,14 +647,432 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurers sometimes try to limit ALE to the cost of housing one household, arguing that
-        the policy only covers one residence. This position is often wrong. If both spouses were
-        residents of the insured premises at the time of the loss, both were displaced, and the
-        policy should cover the reasonable additional living expenses for both &mdash; even if
-        they are now living in two separate locations. The ALE calculation should account for the
-        actual increased costs incurred by the family as a whole.
+        the policy only covers one residence. This position is often wrong. If both spouses
+        were residents of the insured premises at the time of the loss, both were displaced,
+        and the policy should cover the reasonable additional living expenses for both &mdash;
+        even if they are now living in two separate locations. The ALE calculation should
+        account for the actual increased costs incurred by the family as a whole.
       </p>
 
-      <h2 id="spousal-arson-section-530" className="text-2xl font-bold text-[#1F3964] mb-4">
+      <h2 id="mortgage-named-insured-mismatch" className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Mortgage/Named Insured Mismatch: One Spouse on the Loan, the Other on the Policy
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is one of the most commonly encountered &mdash; and most poorly understood &mdash;
+        complications in community property insurance claims. The scenario: Spouse A is the
+        borrower on the mortgage. Spouse B is the named insured on the homeowner&rsquo;s
+        insurance policy. The home is community property. Both spouses live in the home. Then
+        the home is damaged.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This arrangement arises for many practical reasons. Perhaps Spouse A had better credit
+        and qualified for the mortgage alone. Perhaps Spouse B handled the household insurance
+        decisions and obtained the policy in their name. Whatever the reason, the result is a
+        three-way mismatch: the mortgage lender expects to deal with Spouse A (the borrower),
+        the insurance company considers Spouse B its contractual counterpart (the named
+        insured), and the law says both spouses own the home and the proceeds equally.
+      </p>
+
+      <CalloutBox variant="important" title="The Mismatch Creates Real Problems">
+        <p>
+          When one spouse is on the mortgage and the other is the named insured on the policy,
+          the claim process becomes significantly more complicated. The lender, the insurer,
+          and the spouses themselves may all have different expectations about who controls the
+          process, who endorses the check, and how the money is applied. Understanding the
+          legal framework is critical to avoiding costly mistakes.
+        </p>
+      </CalloutBox>
+
+      <h3 id="mismatch-who-can-file" className="text-xl font-semibold text-[#1F3964] mb-3">
+        Who Has Authority to File the Claim?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The insurance policy is a contract between the insurer and the named insured. If only
+        Spouse B is the named insured, then Spouse B is the insurer&rsquo;s contractual
+        counterpart and has the clearest authority to file the claim, communicate with the
+        adjuster, submit documentation, and negotiate the settlement. However, the spouse of
+        a named insured is typically an &ldquo;insured&rdquo; under the policy as well &mdash;
+        most homeowner policies define &ldquo;insured&rdquo; to include the named
+        insured&rsquo;s spouse if the spouse is a resident of the same household. This means
+        Spouse A &mdash; even though not the <em>named</em> insured &mdash; is still an
+        insured under the policy and has coverage rights. Either spouse can initiate the claim
+        in practice, and both have substantive coverage rights as insureds.
+      </p>
+
+      <h3 id="lenders-loss-payable" className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Lender&rsquo;s Loss Payable Endorsement
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Here is where the mismatch really matters. The mortgage lender required Spouse A (the
+        borrower) to maintain insurance on the property as a condition of the loan. The deed
+        of trust or mortgage agreement contains a covenant to insure, and the lender protects
+        its interest through a <strong>loss payable endorsement</strong> (also called a
+        &ldquo;mortgagee clause&rdquo; or &ldquo;lender&rsquo;s loss payable clause&rdquo;)
+        attached to the insurance policy. That endorsement names the lender as a loss payee,
+        meaning the lender is entitled to be included on claim payments. The loss payable
+        endorsement creates a separate, independent contract between the insurer and the
+        lender. It survives even if the insurer could deny the claim against the named insured
+        (for example, due to fraud or misrepresentation by the policyholder). For a full
+        explanation, see{' '}
+        <Link href="/resources/lenders-loss-payable-endorsement" className="text-[#2E74B5] hover:underline">
+          Lender&rsquo;s Loss Payable Endorsement
+        </Link>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The claim check will typically be made payable to three parties: the named insured
+        (Spouse B), the borrower/mortgagor (Spouse A, because they are a resident insured and
+        a community property co-owner), and the mortgage lender. All three must endorse the
+        check before anyone can deposit it. If the check is above the lender&rsquo;s threshold
+        (often $10,000 to $40,000, depending on the lender and the loan servicer), the lender
+        may require the check to be sent to its loss draft department, where the funds are
+        held in escrow and disbursed in stages as repairs are completed.
+      </p>
+
+      <h3 id="mismatch-spouses-disagree" className="text-xl font-semibold text-[#1F3964] mb-3">
+        What Happens When the Spouses Disagree
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Spouse A wants to use the insurance proceeds to repair the home &mdash; after all,
+        their name is on the mortgage, and if the home isn&rsquo;t repaired, they remain
+        liable for a mortgage on a damaged property. Spouse B wants to take the cash and move
+        on &mdash; perhaps the marriage is strained, perhaps they want to relocate. Several
+        legal rules come into play:
+      </p>
+      <ol className="list-decimal pl-6 mb-4 text-gray-700 space-y-2">
+        <li>
+          <strong>Family Code &sect; 1100 &mdash; Good Faith Management:</strong> Each spouse
+          has the right to manage and control community personal property (which includes
+          insurance proceeds once paid). But each spouse must act in good faith with respect to
+          the other. Using community insurance proceeds for personal purposes &mdash; instead
+          of repairing the community property home &mdash; could be a breach of fiduciary duty.
+        </li>
+        <li>
+          <strong>Family Code &sect; 1102 &mdash; Joinder Requirement:</strong> Both spouses
+          must join in any transaction that involves the sale, conveyance, or encumbrance of
+          community real property. A failure to repair a damaged community property home
+          effectively diminishes its value &mdash; which arguably implicates the same
+          protective principles.
+        </li>
+        <li>
+          <strong>The Mortgage Obligation:</strong> If Spouse A is on the mortgage, they are
+          personally liable for the debt regardless of whether the home is repaired. Refusing
+          to use insurance proceeds for repairs could expose Spouse A to financial harm &mdash;
+          a damaged home with a full mortgage balance. This may give Spouse A standing to
+          compel the use of proceeds for repairs.
+        </li>
+        <li>
+          <strong>The Lender&rsquo;s Position:</strong> If the lender is holding the insurance
+          proceeds in its loss draft escrow, it may simply refuse to release the funds for
+          anything other than documented repairs. This effectively forces the issue &mdash;
+          the money cannot be &ldquo;cashed out&rdquo; while the lender controls it.
+        </li>
+      </ol>
+
+      <CalloutBox variant="warning" title="The Lender Can Force Repairs">
+        <p>
+          If the mortgage lender is holding insurance proceeds in a loss draft escrow account,
+          neither spouse can unilaterally cash out the claim. The lender will release funds
+          only for documented repairs to protect its collateral. This is true regardless of
+          which spouse is the named insured and regardless of which spouse is on the mortgage.
+          The lender&rsquo;s security interest in the property takes priority.
+        </p>
+      </CalloutBox>
+
+      <h3 id="mismatch-presumption-applies" className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Community Property Presumption Applies Regardless of Who Is on What Document
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is the critical point that many people &mdash; including some insurance adjusters
+        and loan officers &mdash; fail to grasp. If the home was acquired during the marriage
+        as community property, then <strong>it does not matter</strong> which spouse is on the
+        mortgage and which spouse is on the insurance policy. The community property
+        presumption applies to both the home and the insurance proceeds regardless of how the
+        paperwork is arranged. An insurer cannot refuse to pay a claim because the
+        &ldquo;wrong spouse&rdquo; filed it. A lender cannot refuse to release funds because
+        the named insured is not the borrower. Family Code &sect; 760 does not contain an
+        exception for insurance policies or mortgage agreements. The named insured designation
+        on the policy is an administrative detail; it does not determine ownership of the
+        proceeds.
+      </p>
+
+      <h2 id="named-insured-dies" className="text-2xl font-bold text-[#1F3964] mb-4">
+        When the Named Insured Dies: The Surviving Spouse&rsquo;s Position
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A scenario plays out with disturbing regularity in the mortgage/named insured mismatch
+        context, and it exposes one of the most aggressive positions insurance companies take
+        against grieving families. Spouse A is the named insured on the homeowner&rsquo;s
+        policy. Spouse B is on the mortgage, lives in the home, and has paid the premiums with
+        community funds for years. The home is damaged. A claim is filed. Then Spouse A &mdash;
+        the named insured &mdash; dies. The insurer&rsquo;s response, in cases reported across
+        the country: <strong>the named insured is dead, the policy covered the named insured,
+        and we have no obligation to the surviving spouse.</strong>
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Read that again. The insurer collected premiums &mdash; paid with community funds
+        &mdash; for years. The insurer insured a community property home. The surviving spouse
+        lived in the home, maintained it, and may have been listed on the policy as a
+        &ldquo;resident spouse&rdquo; or &ldquo;insured resident.&rdquo; And the insurer&rsquo;s
+        position is that because the named insured died, the claim dies too. This position has
+        no basis in California law.
+      </p>
+
+      <CalloutBox variant="warning" title="The Insurer&rsquo;s Position Fails on Four Independent Grounds">
+        <p>
+          An insurer that refuses to pay a surviving spouse on a community property claim
+          because the named insured died is ignoring California&rsquo;s community property
+          framework, the survival statutes under Code of Civil Procedure &sect;&sect;
+          377.20&ndash;377.34, the policy&rsquo;s own definition of &ldquo;insured,&rdquo; and
+          decades of California law holding that insurance rights are property rights that
+          survive death. This position should be challenged aggressively.
+        </p>
+      </CalloutBox>
+
+      <h3 id="why-insurer-fails" className="text-xl font-semibold text-[#1F3964] mb-3">
+        Why the Insurer&rsquo;s Position Fails
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>First: the surviving spouse is an insured under the policy.</strong> Standard
+        homeowner policies define &ldquo;insured&rdquo; to include the named insured and their
+        spouse if a resident of the same household. The surviving spouse who lived in the home
+        was an insured in their own right &mdash; not through the deceased spouse, but
+        independently, by operation of the policy language. The death of the named insured
+        does not retroactively strip the surviving spouse of their status as an insured at the
+        time of the loss.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Second: the insurance claim is a community property asset that survives
+        death.</strong> Under Family Code &sect; 760, the rights under an insurance policy
+        purchased with community funds during the marriage are community property. When a
+        covered loss occurs, the right to receive insurance proceeds vests at the time of the
+        loss &mdash; not at the time of payment. The surviving spouse owns a community
+        property interest in that vested right. Code of Civil Procedure &sect; 377.20 provides
+        that &ldquo;a cause of action for or against a person is not lost by reason of the
+        person&rsquo;s death.&rdquo; The insurance claim survives.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Third: the surviving spouse has an independent insurable interest.</strong>{' '}
+        California Insurance Code &sect; 281 defines insurable interest broadly: every interest
+        in property, or any relation to it, that would cause the holder to suffer financial
+        loss from its damage or destruction. The surviving spouse who lives in the community
+        property home, holds title (or holds a community property interest regardless of whose
+        name is on title), and depends on the home for shelter has a direct, independent
+        insurable interest.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Fourth: the insurer accepted premiums for the coverage.</strong> The insurer
+        knew &mdash; or should have known &mdash; that it was insuring a community property
+        home occupied by both spouses. It accepted community funds as premium payments. It
+        issued a policy that by its own terms covered the resident spouse. Having accepted
+        those premiums and issued that coverage, the insurer cannot disclaim its obligations
+        because one of the two people it was covering has died. In California, doing so may
+        constitute a violation of the implied covenant of good faith and fair dealing.
+      </p>
+
+      <CalloutBox variant="legal" title="The Surviving Spouse&rsquo;s Legal Position">
+        <p>
+          The surviving spouse&rsquo;s claim rests on independent grounds: (1) they are an
+          &ldquo;insured&rdquo; under the policy&rsquo;s own definition, (2) they have an
+          independent insurable interest under Insurance Code &sect; 281, (3) the insurance
+          proceeds are community property under Family Code &sect; 760, and (4) the claim
+          survives death under Code of Civil Procedure &sect; 377.20. The insurer must
+          overcome all four of these independent bases to deny the claim &mdash; and it cannot
+          overcome any of them.
+        </p>
+      </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For the broader analysis of what happens to an insurance claim when the policyholder
+        dies &mdash; covering authority issues, deadlines that keep running, the standing of
+        executors and successor trustees, and bad faith arguments &mdash; see our companion
+        article on{' '}
+        <Link href="/resources/policyholder-death-coverage" className="text-[#2E74B5] hover:underline">
+          what happens to insurance when the policyholder dies
+        </Link>.
+      </p>
+
+      <h2 id="unmarried-partners" className="text-2xl font-bold text-[#1F3964] mb-4">
+        Unmarried Partners, Domestic Partners, and Common Law Marriage
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The situation is far more dangerous for unmarried partners. If one partner is the named
+        insured and the other is not &mdash; and they are not legally married &mdash; the
+        surviving partner may have no status as an insured under the policy at all. Standard
+        HO-3 policies extend &ldquo;insured&rdquo; status to a &ldquo;spouse,&rdquo; but not
+        to an unmarried domestic partner. An unmarried partner who is not on the policy may
+        have no contractual right to the insurance proceeds &mdash; even if they co-own the
+        property, live in the home, and paid every premium.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        But the word &ldquo;spouse&rdquo; in the policy does not always mean what the insurer
+        thinks it means. In states that recognize common law marriage, a couple who has lived
+        together, held themselves out as married, and agreed to be married may be legally
+        married &mdash; with all the rights of a ceremonial marriage &mdash; even though they
+        never obtained a marriage license or had a wedding.
+      </p>
+
+      <h3 id="common-law-states" className="text-xl font-semibold text-[#1F3964] mb-3">
+        Common Law Marriage: Which States Recognize It?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        As of 2025, the following states recognize common law marriage created within their
+        borders:
+      </p>
+      <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
+        <li><strong>Colorado</strong> &mdash; no specific duration required</li>
+        <li><strong>Iowa</strong> &mdash; requires cohabitation and public declaration</li>
+        <li><strong>Kansas</strong> &mdash; requires capacity, agreement, and holding out</li>
+        <li><strong>Montana</strong> &mdash; requires capacity and cohabitation with reputation</li>
+        <li>
+          <strong>New Hampshire</strong> &mdash; recognized only for inheritance purposes after
+          three years of cohabitation
+        </li>
+        <li><strong>Oklahoma</strong> &mdash; recognized by case law</li>
+        <li><strong>Rhode Island</strong> &mdash; recognized by case law</li>
+        <li><strong>South Carolina</strong> &mdash; recognized by case law</li>
+        <li>
+          <strong>Texas</strong> &mdash; called &ldquo;informal marriage&rdquo; under Texas
+          Family Code &sect; 2.401
+        </li>
+        <li>
+          <strong>Utah</strong> &mdash; may be established by court order or administrative
+          order under Utah Code &sect; 30-1-4.5
+        </li>
+        <li><strong>District of Columbia</strong> &mdash; recognized by case law</li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Several other states &mdash; including Alabama, Georgia, Idaho, Ohio, and Pennsylvania
+        &mdash; previously recognized common law marriage but have since abolished it
+        prospectively. However, common law marriages validly created in those states before the
+        abolition date remain valid. The critical point for insurance purposes:{' '}
+        <strong>the IRS recognizes common law marriages if the state where the couple resides
+        (or where the marriage was created) recognizes them.</strong> If the IRS treats a
+        couple as married, there is a strong argument that the insurance company must too.
+      </p>
+
+      <CalloutBox variant="important" title="Full Faith and Credit: A Common Law Marriage Travels">
+        <p>
+          Under the Full Faith and Credit Clause of the U.S. Constitution, a common law
+          marriage that is validly created in one state must generally be recognized by every
+          other state &mdash; even states that do not themselves allow the creation of common
+          law marriages. If a couple established a valid common law marriage in Colorado and
+          then moved to California, California must recognize that marriage. This means the
+          surviving partner in a common law marriage may have &ldquo;spouse&rdquo; status under
+          a California homeowner&rsquo;s policy &mdash; if the common law marriage was validly
+          created in a state that recognizes it.
+        </p>
+      </CalloutBox>
+
+      <h3 id="california-doesnt-recognize" className="text-xl font-semibold text-[#1F3964] mb-3">
+        California Does Not Create Common Law Marriages &mdash; But Recognizes Them
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California abolished common law marriage in 1895. Family Code &sect; 300 requires a
+        license and solemnization for a valid marriage. Two people who live together in
+        California for decades, share everything, and hold themselves out as married are not
+        legally married under California law &mdash; no matter how long they have been
+        together. <strong>The exception:</strong> California will recognize a common law
+        marriage that was validly created in another state. If a couple lived together in
+        Texas, met the requirements for an informal marriage under Texas Family Code
+        &sect; 2.401, and then relocated to California, California treats them as married. The
+        marriage is valid. The surviving partner is a spouse. The policy&rsquo;s definition of
+        &ldquo;insured&rdquo; includes them.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For couples who have always lived in California and never established a common law
+        marriage elsewhere, there are two alternative paths to &ldquo;spouse&rdquo; status
+        under a homeowner policy:
+      </p>
+      <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
+        <li>
+          <strong>Registered Domestic Partnership.</strong> California Family Code
+          &sect; 297.5 provides that registered domestic partners have the same rights,
+          protections, and benefits as married spouses. A registered domestic partner is a
+          &ldquo;spouse&rdquo; for purposes of the policy&rsquo;s definition of insured. This
+          applies regardless of the partners&rsquo; genders &mdash; California opened
+          registered domestic partnerships to all couples effective January 1, 2020 (Senate
+          Bill 30). The community property rules then apply with full force.
+        </li>
+        <li>
+          <strong>The Putative Spouse Doctrine.</strong> Under Family Code &sect; 2251, a
+          person who has a good faith belief that they are validly married &mdash; even if the
+          marriage turns out to be void or voidable &mdash; has the rights of a spouse with
+          respect to &ldquo;quasi-marital property.&rdquo; This is a narrow doctrine, but in
+          the right circumstances, it can provide spouse-equivalent status for insurance
+          purposes. The key requirement is good faith: the putative spouse must have a
+          genuine, objectively reasonable belief that they are married.
+        </li>
+      </ul>
+
+      <CalloutBox variant="tip" title="The Bottom Line for Unmarried Couples">
+        <p>
+          If you are an unmarried couple in California and only one partner is on the
+          homeowner&rsquo;s policy, the other partner is likely not covered. Do not assume
+          that living together is enough. Either get married, register as domestic partners
+          under Family Code &sect; 297.5, or &mdash; at minimum &mdash; make sure both
+          partners are listed as named insureds on the policy. This is a simple endorsement
+          that most insurers will add for free. The cost of not doing it can be the entire
+          claim.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="warning" title="This Is Not Legal Advice">
+        <p>
+          The discussion of common law marriage, domestic partnerships, marital status, and
+          spousal rights under insurance policies involves complex questions of family law,
+          contract law, and insurance law that vary significantly from state to state. This
+          article is for informational purposes only and does not constitute legal advice.
+          <strong> If you are an unmarried couple trying to determine your rights under an
+          insurance policy &mdash; whether before or after a claim is filed &mdash; you
+          should consult with an attorney</strong> who is licensed in your state and
+          experienced in both family law and insurance coverage. The stakes are too high and
+          the law too variable to rely on general information alone.
+        </p>
+      </CalloutBox>
+
+      <h2 id="common-insurer-mistakes" className="text-2xl font-bold text-[#1F3964] mb-4">
+        Common Insurer Mistakes in Community Property Claims
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Based on years of claim handling experience, these are the most common mistakes
+        insurers make in community property claims &mdash; and the arguments you should make
+        in response:
+      </p>
+      <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
+        <li>
+          <strong>&ldquo;We can only deal with the named insured.&rdquo;</strong> Incorrect.
+          The non-named spouse is an insured under the policy (as a resident spouse) and a
+          community property co-owner of the proceeds. The insurer is obligated to communicate
+          with all insureds.
+        </li>
+        <li>
+          <strong>&ldquo;The check goes to the named insured only.&rdquo;</strong> Incorrect
+          for community property. The proceeds are community property, and both spouses have
+          an ownership interest. The check should be payable to both spouses (and the lender,
+          if applicable).
+        </li>
+        <li>
+          <strong>&ldquo;Only the person on the mortgage can authorize repairs.&rdquo;</strong>
+          {' '}Incorrect. Either spouse can authorize repairs to community property under
+          Family Code &sect; 1100. The mortgage borrower designation does not determine who
+          can make repair decisions.
+        </li>
+        <li>
+          <strong>&ldquo;We need both spouses to agree before we can proceed.&rdquo;</strong>
+          {' '}The insurer has valid concerns about paying on a claim where the insureds
+          disagree. But the insurer cannot use a spousal disagreement as an excuse to delay or
+          deny the claim. Disputes between the spouses about how to use the proceeds are a
+          family law matter, not a coverage matter.
+        </li>
+        <li>
+          <strong>&ldquo;We settled with the named insured; the claim is closed.&rdquo;</strong>
+          {' '}If the non-named spouse did not agree to the settlement and the proceeds are
+          community property, the claim is not necessarily resolved. The non-named spouse may
+          have a separate right to challenge the settlement or seek additional compensation.
+        </li>
+      </ul>
+
+      <h2 id="spousal-arson-section-533" className="text-2xl font-bold text-[#1F3964] mb-4">
         Spousal Arson and the Severability Clause
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -495,7 +1086,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When one spouse commits arson, the insurer will deny the entire claim if it can. The
         carrier&rsquo;s preferred argument is that the intentional act exclusion bars all
-        coverage for all insureds. This is where Insurance Code &sect; 530 and the severability
+        coverage for all insureds. This is where Insurance Code &sect; 533 and the severability
         clause become critical.
       </p>
 
@@ -548,9 +1139,9 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="legal" title="California Insurance Code &sect; 530">
+      <CalloutBox variant="legal" title="California Insurance Code &sect; 533">
         <p>
-          Section 530 is the statutory foundation for the innocent co-insured doctrine in
+          Section 533 is the statutory foundation for the innocent co-insured doctrine in
           California. It uses the phrase &ldquo;the insured&rdquo; (singular), which California
           courts have interpreted to mean that the willful act defense applies only to the
           insured who committed the act &mdash; not to other insureds on the same policy.
@@ -585,7 +1176,7 @@ export default function Content() {
         the insurer may argue that the policyholders no longer have an insurable interest in the
         property because they sold it. This argument is generally wrong &mdash; the insurable
         interest is measured at the time of loss, not at the time of settlement &mdash; but it
-        is an argument carriers have raised. Under California Insurance Code &sect; 286, the
+        is an argument carriers have raised. Under California Insurance Code &sect; 2051, the
         measure of indemnity is determined at the time of loss.
       </p>
 
@@ -827,12 +1418,12 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
         <li>
-          <strong>California Insurance Code &sect; 530</strong> &mdash; Willful act defense
+          <strong>California Insurance Code &sect; 533</strong> &mdash; Willful act defense
           applies only to &ldquo;the insured&rdquo; who committed the act; foundation for the
           innocent co-insured doctrine.
         </li>
         <li>
-          <strong>California Insurance Code &sect; 286</strong> &mdash; Measure of indemnity
+          <strong>California Insurance Code &sect; 2051</strong> &mdash; Measure of indemnity
           determined at the time of loss.
         </li>
         <li>
@@ -940,8 +1531,13 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/community-property-insurance-proceeds" className="text-[#2E74B5] hover:underline">
-            Community Property and Insurance Proceeds
+          <Link href="/resources/lenders-loss-payable-endorsement" className="text-[#2E74B5] hover:underline">
+            Lender&rsquo;s Loss Payable Endorsement
+          </Link>
+        </li>
+        <li>
+          <Link href="/resources/policyholder-death-coverage" className="text-[#2E74B5] hover:underline">
+            What Happens to Insurance When the Policyholder Dies
           </Link>
         </li>
       </ul>

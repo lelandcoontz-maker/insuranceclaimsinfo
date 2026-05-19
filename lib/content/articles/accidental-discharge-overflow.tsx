@@ -589,7 +589,7 @@ export default function Content() {
           why additional time is needed.
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.9(b):</strong> The carrier must provide a written
+          <strong>10 CCR &sect; 2695.7(b)(1) and (3):</strong> The carrier must provide a written
           explanation of the basis for any denial, including the specific policy provisions
           relied upon. If the carrier denies based on the 14-day exclusion, the denial letter
           must cite the specific policy language &mdash; not a general reference to

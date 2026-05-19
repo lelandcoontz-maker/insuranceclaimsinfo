@@ -127,12 +127,14 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="California Law on Post-Loss Assignments">
         <p>
-          California Insurance Code &sect;520 provides that insurance policies are not
-          assignable without the insurer&apos;s consent. However, this applies to assignment
-          of the policy before a loss. Post-loss assignment of the right to proceeds is treated
-          as assignment of a chose in action under California Civil Code &sect;954, which
-          permits free transferability. The carrier&apos;s consent is not required for a
-          post-loss assignment.
+          California Insurance Code &sect;520 is actually a sword for the seller, not a shield
+          for the carrier. It provides: &ldquo;An agreement not to transfer the claim of the
+          insured against the insurer after a loss has happened, is void if made before the
+          loss.&rdquo; In plain language: pre-loss anti-assignment clauses in the policy cannot
+          be enforced to block post-loss transfers of the claim. Post-loss assignment of the
+          right to proceeds is treated as assignment of a chose in action under California
+          Civil Code &sect;954, which permits free transferability. The carrier&apos;s consent
+          is not required for a post-loss assignment.
         </p>
       </CalloutBox>
 

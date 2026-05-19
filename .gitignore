@@ -9,3 +9,7 @@ Thumbs.db
 tsconfig.tsbuildinfo
 
 .vercel
+
+# Local-only safety snapshots taken before bulk audit/consolidation passes
+*.BACKUP-*
+**/articles.BACKUP-*/

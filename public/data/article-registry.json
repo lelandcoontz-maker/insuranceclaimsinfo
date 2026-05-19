@@ -455,10 +455,6 @@
     "title": "Commonly Missed Items on Total Loss and Large Insurance Claims",
     "description": "A comprehensive checklist of items that adjusters and estimators routinely overlook on total loss and large property insurance claims. From low-voltage wiring and light bulbs to scribe moldings and pressure-treated sole plates — if it's not in the estimate, you're not getting paid for it."
   },
-  "community-property-insurance-proceeds": {
-    "title": "Community Property and Insurance Proceeds in California: Who Owns the Claim Money?",
-    "description": "California community property law directly affects who owns insurance proceeds after a loss. Learn how Family Code 760 applies to insurance claims, what happens when one spouse is on the mortgage and the other is the named insured, and how to protect your rights during separation, divorce, or disputed claims."
-  },
   "condo-hoa-claims": {
     "title": "Condo and HOA Insurance Claims: Master Policy, HO-6, and the Coverage Gap Nobody Explains",
     "description": "Two policies cover your condo — the HOA master policy and your HO-6. Learn how CC&Rs determine who pays for what, the tenant improvement trap, and what to do when the HOA refuses to act."
@@ -466,10 +462,6 @@
   "consequential-vs-ensuing-damages": {
     "title": "Consequential Damages vs. Ensuing Damages: Two Different Concepts That Sound Alike",
     "description": "Consequential damages and ensuing damages are fundamentally different insurance concepts that operate at different stages of a claim. Ensuing damage is a coverage question found in the policy. Consequential damages are a remedy for the insurer's wrongful conduct. Understanding the difference helps you make the right argument at the right time."
-  },
-  "conservatorship-insurance-claims": {
-    "title": "Conservatorship and Insurance Claims: Managing a Claim When There Is No Power of Attorney",
-    "description": "When a policyholder becomes incapacitated without a power of attorney, a conservatorship may be the only legal path to manage their insurance claim. Learn about the California conservatorship process, the conservator's authority over insurance matters, court approval requirements, and how to protect the claim while the court process is pending."
   },
   "construction-company-insurance-claims": {
     "title": "Construction Company Insurance Claims: Builder’s Risk, Tools on the Job Site, and the CGL Boundary",
@@ -632,8 +624,8 @@
     "description": "How discovery works in insurance lawsuits, what documents and electronic records policyholders can demand, how to obtain the carrier’s claims file, and the landmark Colonial Life case allowing pattern-and-practice discovery of other claim files."
   },
   "divorce-separation-insurance-claims": {
-    "title": "Divorce, Separation, and Insurance Claims: Protecting Your Coverage When Your Marriage Ends",
-    "description": "When divorce or separation collides with a pending insurance claim, the results can be devastating. Learn who has authority to file and settle claims during separation, how the innocent co-insured doctrine protects you from spousal arson, what happens to community property insurance proceeds, and practical steps to prevent your claim from falling through the cracks."
+    "title": "Marital Property and Insurance Claims in California: Divorce, Separation, Community Property, and Spousal Authority",
+    "description": "A comprehensive guide to the California rules that govern insurance claims on marital property — community property and separate property, the mortgage/named-insured mismatch, the innocent co-insured doctrine and spousal arson, what happens when the named insured dies, the rights of domestic partners and unmarried couples, and the practical steps to keep a claim alive when a marriage is ending."
   },
   "do-i-need-a-lawyer": {
     "title": "Do I Need a Lawyer for My Insurance Claim?",
@@ -1071,10 +1063,6 @@
     "title": "Your Insurance Company Made an Offer — Now What?",
     "description": "How to evaluate your insurance settlement offer, understand your options, and decide whether to accept, negotiate, or dispute the amount."
   },
-  "insurance-properties-probate": {
-    "title": "Insurance for Properties in Probate: Protecting Estate Assets Between Death and Distribution",
-    "description": "When a homeowner dies, their property enters legal limbo during probate. Learn how the 30-day death clause works, what insurance options executors have, and how to prevent catastrophic coverage gaps on estate property in California."
-  },
   "insurer-antitrust-fair-plan": {
     "title": "Insurer Antitrust Concerns and the FAIR Plan: When Market Withdrawal Looks Coordinated",
     "description": "When major insurers simultaneously withdraw from California, the FAIR Plan becomes the insurer of last resort for millions. The pattern raises serious antitrust questions that policyholders and regulators should understand."
@@ -1126,10 +1114,6 @@
   "insurer-reformation-policy": {
     "title": "When Your Insurer Tries to Rewrite Your Policy After a Loss: The Doctrine of Reformation and Carrier Misuse",
     "description": "How insurance companies attempt to use the legal doctrine of reformation to reduce coverage after a loss has occurred. Covers mutual mistake claims, the high burden of proof, California case law, the distinction from rescission, and how policyholders can fight back."
-  },
-  "insuring-inherited-property": {
-    "title": "Insuring Inherited Property: The Dangerous Gap That Leaves Families Exposed",
-    "description": "When a parent dies and children inherit the home, the homeowner policy does NOT automatically transfer. Most families have no idea they are uninsured. Learn about the 30-day death clause, the probate gap, insurable interest for heirs, and the critical steps to take immediately after a parent dies."
   },
   "inverse-condemnation": {
     "title": "Inverse Condemnation: Suing Utilities After a California Wildfire",
@@ -1187,10 +1171,6 @@
     "title": "The Lender’s Loss Payable Endorsement: Why the Mortgage Company’s Name Is on Your Insurance Check",
     "description": "The lender’s loss payable endorsement gives your mortgage company powerful rights over your insurance claim proceeds. Understanding what those rights are — and what they are not — is the first step to getting your money."
   },
-  "life-estate-remainder-insurance": {
-    "title": "Life Estates and Remainder Interests: Who Insures What and Who Collects on a Claim?",
-    "description": "When a parent keeps a life estate and deeds the remainder to children, both parties have insurable interests — but they are different interests. Learn who should be on the policy, what happens when only one party is listed, how to handle claim disputes between life tenants and remaindermen, and practical steps to properly insure property subject to a life estate in California."
-  },
   "lightning-damage": {
     "title": "Lightning Damage Insurance Claims: What Homeowners Need to Know",
     "description": "How lightning damages homes, the critical difference between lightning and power surge coverage, hidden wiring damage, and how to document and fight for a full settlement."
@@ -1245,11 +1225,7 @@
   },
   "material-misrepresentation-nondisclosure": {
     "title": "Material Misrepresentation vs. Innocent Nondisclosure: When Your Insurer Tries to Void Your Policy for What You Didn’t Say",
-    "description": "The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 331, 359, and 2071 standards, the materiality test, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders."
-  },
-  "medicaid-estate-recovery-insurance": {
-    "title": "Medicaid Estate Recovery and Insurance Proceeds: The Collision That Can Wipe Out a Family Home",
-    "description": "When a nursing home resident on Medicaid dies and their home has an insurance claim, the state may seize the insurance proceeds to recover the cost of care. Learn how federal and California Medi-Cal estate recovery laws interact with homeowner insurance claims, why timing matters enormously, and how families can protect themselves before it is too late."
+    "description": "The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 330 (concealment defined), 331 (rescission), 332 (duty to disclose), 334 (materiality test), 359 (misrepresentation), and 2071 (standard fire policy) standards, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders."
   },
   "medical-dental-office-insurance-claims": {
     "title": "Medical and Dental Office Insurance Claims: Equipment, Contamination, and the Patient Retention Problem",
@@ -1383,6 +1359,10 @@
     "title": "Overhead & Profit: When Your Claim Should Include O&P",
     "description": "Insurance companies routinely refuse to include overhead and profit in their estimates. Learn what O&P is, when you're entitled to it, and how to fight for it."
   },
+  "ownership-and-authority-in-claims": {
+    "title": "Ownership and Authority in Insurance Claims: Non-Standard Property Situations",
+    "description": "When property ownership is non-standard — a Medicaid/Medi-Cal recipient on the title, a life estate, probate-pending status, inherited property — coverage defenses multiply and authority over the claim gets murky. The comprehensive guide to navigating the intersection of property ownership, estate law, and California insurance claims."
+  },
   "packout-storage-process": {
     "title": "Pack-Out, Storage, and Cleaning of Personal Property: What Your Insurance Company Should Be Paying For",
     "description": "A practical guide to the pack-out, storage, and cleaning process during an insurance claim. Covers your right to take cash instead of services, proper pack-out procedures, storage levels, items commonly damaged during the process, and California-specific regulations."
@@ -1402,10 +1382,6 @@
   "peak-season-endorsement": {
     "title": "Peak Season Endorsement: Protecting Seasonal Inventory Spikes That Standard Limits Miss",
     "description": "How the ISO CP 12 11 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods."
-  },
-  "pending-claim-policyholder-dies": {
-    "title": "Pending Insurance Claims When the Policyholder Dies: What Happens Next",
-    "description": "When the named insured dies with an active insurance claim, the claim does not die with them. Learn who has standing to continue the claim, what deadlines keep running, and how to prevent the insurer from using the death to undermine the recovery."
   },
   "period-of-restoration-disputes": {
     "title": "Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?",
@@ -1449,7 +1425,7 @@
   },
   "policyholder-death-coverage": {
     "title": "What Happens to Your Insurance If the Policyholder Dies?",
-    "description": "When the named insured dies before or during a claim, insurers sometimes deny coverage to surviving family members. Learn how the Death clause, insurable interest, and trust ownership affect your rights."
+    "description": "When the named insured dies — before or during a claim — coverage does not die with them. The Death clause, insurable interest, survival of causes of action, and the rules for who can continue the claim, all explained."
   },
   "policyholder-rights": {
     "title": "Your Rights as a California Policyholder",
@@ -1472,8 +1448,8 @@
     "description": "After a disaster, scammers target vulnerable homeowners. Learn how to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other common scams — and how to protect yourself."
   },
   "power-of-attorney-insurance-claims": {
-    "title": "Power of Attorney and Insurance Claims: Protecting an Incapacitated Policyholder’s Rights",
-    "description": "When a policyholder becomes incapacitated, a Power of Attorney may be the only way to file a claim, negotiate with adjusters, sign a proof of loss, or invoke appraisal. Learn how durable POA works in insurance claims, how insurers resist it, and what families should do before incapacity strikes."
+    "title": "Power of Attorney and Conservatorship in Insurance Claims: Managing the Claim of an Incapacitated Policyholder",
+    "description": "When a policyholder becomes incapacitated, someone else must take over the claim — either through a previously executed Power of Attorney or, if no POA exists, through a court-supervised conservatorship. The full guide to both paths: how durable POA works in insurance claims, what conservatorship requires under California Probate Code, how insurers resist each, and what families should do before incapacity strikes."
   },
   "pre-existing-vs-storm-damage": {
     "title": "Pre-Existing Damage vs. Storm Damage: Fighting the ",
@@ -1504,8 +1480,8 @@
     "description": "Everything you need to know about the sworn proof of loss form, including when it is required, how to fill it out, and important California-specific nuances."
   },
   "property-held-in-trust-coverage": {
-    "title": "Insurance Coverage When Property Is Held in a Trust",
-    "description": "How holding property in a trust creates named insured problems, insurable interest complications, and claim handling disputes — and what policyholders can do to avoid coverage gaps."
+    "title": "Trust-Owned Property and Insurance Claims: When the Named Insured Doesn’t Match the Trust",
+    "description": "Millions of California homes are held in revocable living trusts but insured in the individual’s name. This mismatch creates coverage disputes that insurers exploit to delay or deny claims. Learn how to properly insure trust-owned property, what to do after a loss, and the legal arguments — Probate Code §§ 15800 and 18100.5, Insurance Code § 281, estoppel, waiver, and bad faith — that protect policyholders."
   },
   "protective-safeguards": {
     "title": "Protective Safeguards Endorsements: When a Lapsed Alarm Voids Your Entire Policy",
@@ -1950,10 +1926,6 @@
   "tree-falling-object-damage": {
     "title": "Tree and Falling Object Damage Insurance Claims",
     "description": "How homeowners insurance covers tree damage, falling objects, branch impacts, and debris removal — who pays, coverage limits, carrier tactics, and how to maximize your claim."
-  },
-  "trust-owned-property-insurance": {
-    "title": "Trust-Owned Property and Insurance Claims: When the Named Insured Doesn’t Match the Trust",
-    "description": "Millions of California homes are held in revocable living trusts but insured in the individual’s name. This mismatch creates coverage disputes that insurers exploit to delay or deny claims. Learn how to properly insure trust-owned property, what to do after a loss, and the legal arguments that protect policyholders."
   },
   "unattended-death-claims": {
     "title": "Unattended Death Insurance Claims: What Families and Property Owners Need to Know",

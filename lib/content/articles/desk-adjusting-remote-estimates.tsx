@@ -244,7 +244,7 @@ export default function Content() {
         The Duty to Conduct a Thorough Investigation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 2695.7(d) requires that every insurer conduct a thorough,
+        10 CCR &sect; 2695.7(d) requires that every insurer conduct a thorough,
         fair, and objective investigation sufficient to determine its liability under the policy.
         The California Fair Claims Settlement Practices Regulations (Cal. Code Regs., tit. 10,
         &sect;&sect; 2695.1&ndash;2695.17) further elaborate on what constitutes an adequate
@@ -656,7 +656,7 @@ export default function Content() {
         specific: state that the estimate you received was written without a physical inspection,
         that you believe the estimate does not reflect the full extent of your damage, and that you
         are requesting an on-site inspection so the carrier can conduct an adequate investigation
-        pursuant to its obligations under California Insurance Code &sect; 2695.7(d).
+        pursuant to its obligations under 10 CCR &sect; 2695.7(d).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the carrier refuses, document that refusal carefully. A carrier&apos;s refusal to inspect

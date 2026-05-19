@@ -182,66 +182,6 @@ export default function Content() {
         meet specific wildfire hardening standards.
       </p>
 
-      {/* ====== SB 876 ====== */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        SB 876: The Disaster Recovery Reform Act
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Senate Bill 876, the Disaster Recovery Reform Act, imposes new requirements on insurers to
-        plan for and respond to large-scale disasters. The bill has two primary components: proactive
-        planning requirements and enhanced penalty provisions.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Insurer Disaster Recovery Plans
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        SB 876 requires every insurer writing property insurance in California to develop,
-        maintain, and file a disaster recovery plan with the California Department of Insurance
-        (CDI). These plans must address:
-      </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Staffing surge capacity.</strong> How the insurer will scale up its claims
-          handling workforce after a large-scale event, including the use of independent
-          adjusters and catastrophe response teams.
-        </li>
-        <li>
-          <strong>Communication protocols.</strong> How the insurer will reach affected
-          policyholders, including provisions for situations where normal communication
-          infrastructure (mail, phone, internet) may be disrupted.
-        </li>
-        <li>
-          <strong>Advance payment procedures.</strong> How the insurer will expedite initial
-          payments and emergency funds to disaster-affected policyholders.
-        </li>
-        <li>
-          <strong>Claims handling timelines.</strong> Specific commitments for inspection
-          timelines, initial contact, and payment benchmarks during catastrophe events.
-        </li>
-      </ul>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Doubled Penalties During Declared Emergencies
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        SB 876 doubles the administrative penalties that CDI can impose on insurers for violations
-        of California insurance laws during a declared state of emergency. Under existing law, CDI
-        already has authority to fine insurers for unfair claims settlement practices. SB 876
-        increases the financial consequences during the specific window when policyholders are most
-        vulnerable and insurer misconduct is most harmful.
-      </p>
-
-      <CalloutBox variant="important" title="Why Doubled Penalties Matter">
-        <p>
-          The doubled penalty provision creates a financial incentive for insurers to prioritize
-          compliance during disasters. When an insurer is handling tens of thousands of claims
-          simultaneously, the temptation to cut corners &mdash; rushing inspections, using
-          automated lowball estimates, delaying communications &mdash; is at its highest. The
-          enhanced penalties are designed to counteract that pressure.
-        </p>
-      </CalloutBox>
-
       {/* ====== Building Code Upgrade Coverage Minimum ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Building Code Upgrade Coverage: New 10% Minimum
@@ -302,6 +242,56 @@ export default function Content() {
         legislature. None are yet signed into law, and their final form may change. But their scope
         signals a legislative intent to fundamentally restructure the insurer-policyholder relationship
         in California.
+      </p>
+
+      {/* ====== SB 876 ====== */}
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        SB 876: The Disaster Recovery Reform Act
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Status:</strong> Recommended &ldquo;do pass as amended&rdquo; by Senate Insurance
+        Committee (May 14, 2026); currently on the Senate Appropriations suspense file. Not yet
+        enacted.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        SB 876 would impose new requirements on insurers to plan for and respond to large-scale
+        disasters. The bill has two primary components: proactive planning requirements and
+        enhanced penalty provisions.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Insurer disaster recovery plans.</strong> SB 876 would require every insurer
+        writing property insurance in California to develop, maintain, and file a disaster
+        recovery plan with the California Department of Insurance. Plans would have to address:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Staffing surge capacity.</strong> How the insurer would scale up its claims
+          handling workforce after a large-scale event, including the use of independent
+          adjusters and catastrophe response teams.
+        </li>
+        <li>
+          <strong>Communication protocols.</strong> How the insurer would reach affected
+          policyholders, including provisions for situations where normal communication
+          infrastructure (mail, phone, internet) may be disrupted.
+        </li>
+        <li>
+          <strong>Advance payment procedures.</strong> How the insurer would expedite initial
+          payments and emergency funds to disaster-affected policyholders.
+        </li>
+        <li>
+          <strong>Claims handling timelines.</strong> Specific commitments for inspection
+          timelines, initial contact, and payment benchmarks during catastrophe events.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Doubled penalties during declared emergencies.</strong> SB 876 would double the
+        administrative penalties that CDI can impose on insurers for violations of California
+        insurance laws during a declared state of emergency. Under existing law, CDI already has
+        authority to fine insurers for unfair claims settlement practices. SB 876 would increase
+        the financial consequences during the specific window when policyholders are most
+        vulnerable and insurer misconduct is most harmful &mdash; counteracting the cost-cutting
+        pressure carriers face when handling tens of thousands of simultaneous claims after a
+        disaster.
       </p>
 
       {/* ====== SB 877 ====== */}
@@ -546,8 +536,8 @@ export default function Content() {
           reduces future losses and improves insurability.
         </li>
         <li>
-          <strong>Accountability.</strong> SB 876 requires insurers to plan for disasters and
-          doubles the consequences for misconduct during emergencies.
+          <strong>Accountability (pending).</strong> SB 876 would require insurers to plan for
+          disasters and double the consequences for misconduct during emergencies.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -583,8 +573,8 @@ export default function Content() {
           high-risk areas and lower-income homeowners.
         </li>
         <li>
-          <strong>SB 876</strong> requires insurer disaster recovery plans and doubles penalties
-          for claims handling violations during declared emergencies.
+          <strong>SB 876</strong> (pending) would require insurer disaster recovery plans and
+          double penalties for claims handling violations during declared emergencies.
         </li>
         <li>
           <strong>Building code upgrade coverage</strong> of at least 10% of the dwelling limit

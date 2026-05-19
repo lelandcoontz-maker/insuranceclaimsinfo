@@ -243,35 +243,75 @@ export default function Content() {
         </p>
       </CalloutBox>
 
-      <CalloutBox variant="tip" title="Federal and State Protections">
+      <CalloutBox variant="tip" title="Federal Protections — and the Limits of California-Specific Law">
         <p>
-          Both federal and California law impose significant procedural requirements on lenders before
-          they can force-place insurance. Under federal law, 12 CFR 1024.37 (Regulation X, implementing
-          RESPA as amended by the Dodd-Frank Act) requires lenders to provide written notice and a
-          reasonable opportunity to obtain coverage before force-placing. In California, Civil Code
-          Sections 2946&ndash;2946.12 (enacted by AB 1603, 2012) provide additional protections
-          specific to mortgage-secured residential properties:
+          The strongest procedural protections for borrowers in force-placed insurance situations
+          come from federal law. <strong>12 CFR &sect;1024.37</strong> (Regulation X, implementing
+          RESPA as amended by the Dodd-Frank Act) requires mortgage servicers to send borrowers two
+          written notices before force-placing insurance and to provide a reasonable opportunity to
+          obtain replacement coverage. Once the borrower provides proof of acceptable coverage, the
+          servicer must terminate the force-placed policy and refund any unearned premiums and
+          fees. Federal regulators (CFPB and HUD) enforce these requirements, and borrowers have
+          brought private actions under RESPA for violations.
+        </p>
+        <p className="mt-3">
+          California regulates force-placed insurance through a layered combination of authorities
+          rather than a single dedicated statute. The most important regulatory levers, in order:
         </p>
         <ul className="list-disc pl-6 mt-3 space-y-2">
           <li>
-            <strong>Cal. Civ. Code &sect; 2946.3:</strong> The lender must send two written notices at
-            least 30 days apart, plus wait an additional 15 days after the second notice, before
-            force-placing insurance.
+            <strong>Federal RESPA / Regulation X (12 CFR &sect;1024.37, above)</strong> applies
+            to most California residential mortgages because the vast majority are
+            federally-related mortgage loans within RESPA&rsquo;s scope. This is the primary
+            procedural framework &mdash; the two-notice requirement, the &ldquo;reasonable basis
+            to believe&rdquo; standard, the prohibition on force-placing when the borrower has
+            coverage, and the 15-day cancellation and refund obligation once coverage is verified
+            all come from federal law.
           </li>
           <li>
-            <strong>Cal. Civ. Code &sect; 2946.6:</strong> Once the borrower provides proof of
-            coverage, the lender must terminate the force-placed policy and refund any premiums
-            within 15 days.
+            <strong>CDI rate regulation under Insurance Code &sect;1861 et seq. (Proposition
+            103).</strong> The California Department of Insurance has authority over rate
+            filings by force-placed insurers. In 2012, then-Commissioner Dave Jones required the
+            ten largest force-placed insurance providers in California to submit new rate filings
+            after finding indications of excessive rates. Force-placed rates in California are
+            now generally filed under Prop 103&rsquo;s prior-approval regime.
           </li>
           <li>
-            <strong>Cal. Civ. Code &sect; 2946.11:</strong> Borrowers have a private right of action
-            for violations, with attorney&rsquo;s fees and the greater of actual damages or $5,000.
+            <strong>The Unfair Insurance Practices Act (Insurance Code &sect;790.03)</strong>
+            &mdash; particularly the unfair claim settlement practices and misrepresentation
+            provisions &mdash; applies to market-conduct issues, including tying arrangements
+            between mortgage servicers and affiliated insurers.
+          </li>
+          <li>
+            <strong>Civil litigation theories.</strong> Business &amp; Professions Code
+            &sect;17200 (Unfair Competition Law), Civil Code &sect;1788 et seq. (Rosenthal Fair
+            Debt Collection Practices Act, where collection of force-placed premiums is
+            challenged), and common-law breach of the implied covenant of good faith and fair
+            dealing.
+          </li>
+          <li>
+            <strong>Civil Code &sect;2954.5.</strong> California has a separate notice requirement
+            for changes in a mortgage payment amount that can apply when force-placed premiums
+            are added to a borrower&rsquo;s payment &mdash; though it is not a force-placed-
+            insurance-specific statute.
           </li>
         </ul>
         <p className="mt-3">
-          If your lender force-placed insurance without following these procedures, consult an
-          attorney &mdash; the placement may be improper and you may have a right to recover
-          the premiums charged.
+          AB 1603 (Feuer, 2011&ndash;2012) would have added a dedicated California force-placed-
+          insurance procedural framework via Civil Code &sect;&sect;2946 et seq., but the bill
+          died in committee and those sections do not exist. The absence of a single integrated
+          California statute does not mean force-placed insurance is unregulated in California
+          &mdash; it means the regulatory framework is distributed across federal RESPA, CDI rate
+          authority, the Unfair Practices Act, and civil-litigation theories. If your lender
+          force-placed insurance without following the federal procedures, the federal-law
+          analysis under 12 CFR &sect;1024.37 is generally where to start, supplemented by the
+          California-side authorities above.
+        </p>
+        <p className="mt-3">
+          If you believe your lender force-placed insurance improperly, consult an attorney
+          &mdash; the placement may be improper under federal law, and you may have a private
+          right of action under RESPA for actual damages, statutory damages, costs, and
+          attorney&rsquo;s fees.
         </p>
       </CalloutBox>
 

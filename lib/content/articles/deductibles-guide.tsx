@@ -456,9 +456,9 @@ export default function Content() {
         <Link href="/resources/declarations-page" className="text-blue-700 underline hover:text-blue-900">
           declarations page
         </Link>{' '}
-        must identify the applicable deductible for each coverage part. California Insurance Code
-        &sect;10101 requires that the deductible provisions be prominently displayed on the
-        policy&rsquo;s face page or declarations page.
+        must identify the applicable deductible for each coverage part. By California convention and
+        consumer-disclosure practice, deductible provisions appear on the policy&rsquo;s face page
+        or declarations page so they can be located without having to read the full policy form.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For percentage-based deductibles, the insurer must disclose not just the percentage but

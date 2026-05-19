@@ -682,7 +682,9 @@ export default function Content() {
         controls.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Alif v. California FAIR Plan Association</em> (L.A. Superior Court, 2025):</strong>{' '}
+        <strong><em>Aliff v. California FAIR Plan Association</em> (L.A. Super. Ct. Case No.
+        21STCV20095, Order Granting in Part Plaintiff&rsquo;s Motion for Summary Adjudication,
+        Hon. Stuart M. Rice, June 24, 2025):</strong>{' '}
         A cabin near Lake Tahoe was damaged by smoke during the 2020 Mountain View Fire. The
         California FAIR Plan&rsquo;s policy defined &ldquo;direct physical loss&rdquo; from smoke
         as requiring &ldquo;permanent physical damages or changes&rdquo; visible to the
@@ -704,15 +706,15 @@ export default function Content() {
         fire coverage &mdash; and the Standard Fire Policy does not permit that.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Case No. 21STCV20095 (L.A. Super. Ct. 2025).</em>{' '}
+        For external analysis of the <em>Aliff</em> decision, see{' '}
         <a
           href="https://www.almeidalawgroup.com/updates/court-declares-california-fair-plans-smoke-damage-provisions-unlawful/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-700 underline hover:text-blue-900"
         >
-          Read analysis at Almeida Law Group.
-        </a>
+          Almeida Law Group
+        </a>.
       </p>
 
       {/* ── Replacement Cost Time Limits ───────────────────────────── */}
@@ -1018,7 +1020,7 @@ export default function Content() {
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <em>Alif v. California FAIR Plan Association</em>, Case No. 21STCV20095 (L.A. Super. Ct. 2025) &mdash;{' '}
+          <em>Aliff v. California FAIR Plan Association</em>, Case No. 21STCV20095 (L.A. Super. Ct. 2025) &mdash;{' '}
           <a href="https://www.almeidalawgroup.com/updates/court-declares-california-fair-plans-smoke-damage-provisions-unlawful/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">Almeida Law Group</a>
         </li>
       </ul>

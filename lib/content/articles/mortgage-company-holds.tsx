@@ -291,9 +291,13 @@ export default function Content() {
           lender&apos;s security is not impaired and it must release the funds.
         </li>
         <li>
-          <strong>Ignore a written demand for release.</strong> Under California Civil Code Section
-          2924.7, a lender must release funds within <strong>30 days</strong> of receiving a written
-          request from the borrower along with documentation of repairs and costs.
+          <strong>Ignore a written demand for release.</strong> While no specific California
+          statute imposes a 30-day release deadline on lenders holding insurance proceeds, the
+          lender&rsquo;s duty of good faith and fair dealing &mdash; reinforced by{' '}
+          <em>Schoolcraft v. Ross</em> &mdash; requires reasonable processing of release requests
+          once the security is not impaired. A lender that ignores a documented written demand
+          for release exposes itself to bad faith claims and DFPI/CFPB complaints. Thirty days
+          is the customary expectation for response, not a statutory mandate.
         </li>
         <li>
           <strong>Force you to apply insurance proceeds toward the loan balance</strong> (in most
@@ -387,10 +391,13 @@ export default function Content() {
           by the remaining equity, the land value, and the insurance proceeds themselves.
         </li>
         <li>
-          <strong>Cite Civil Code Section 2924.7</strong> and its 30-day release requirement. Attach
-          documentation of the outstanding loan balance and the insurance payment amount. Make it
-          clear that you are requesting release of the excess &mdash; not the portion that
-          corresponds to the lender&apos;s interest.
+          <strong>Send a documented written demand for release.</strong> Attach documentation of
+          the outstanding loan balance and the insurance payment amount. Frame the demand around
+          the <em>Schoolcraft</em> principle that the lender must act in good faith and release
+          proceeds when its security is not impaired. Request a response within 30 days as a
+          customary expectation (no statutory deadline applies). Make it clear that you are
+          requesting release of the excess &mdash; not the portion that corresponds to the
+          lender&apos;s interest.
         </li>
         <li>
           <strong>Escalate if necessary.</strong> If the lender refuses, involve an attorney. A
@@ -594,9 +601,10 @@ export default function Content() {
         is reached, not weeks later. Include all required documentation (contractor invoices, photos,
         inspection reports) in the first submission to avoid back-and-forth. Call the lender&apos;s
         loss draft department directly and ask for the specific checklist of what they need at each
-        stage. If the lender is unreasonably slow, send a <strong>written demand</strong> citing
-        California Civil Code Section 2924.7 (30-day release requirement) and copy your loan
-        servicer&apos;s compliance department.
+        stage. If the lender is unreasonably slow, send a <strong>written demand</strong>
+        referencing the <em>Schoolcraft</em> good-faith standard and copy your loan
+        servicer&apos;s compliance department. Customary practice is to request a response within
+        30 days of the demand.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -649,11 +657,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> Send a formal written demand with documentation of completed
         repairs (final inspection, certificate of occupancy, contractor&apos;s completion
-        certificate, photographs). Cite California Civil Code Section 2924.7 and the 30-day release
-        requirement. The principle established in <em>Schoolcraft v. Ross</em> is that the lender
-        must release proceeds when its security is not impaired &mdash; if your home is fully
-        repaired, the lender&apos;s collateral is fully intact. If the lender still refuses, you may need an
-        attorney to intervene.
+        certificate, photographs). Anchor the demand on the principle established in{' '}
+        <em>Schoolcraft v. Ross</em>: the lender must release proceeds when its security is not
+        impaired &mdash; if your home is fully repaired, the lender&apos;s collateral is fully
+        intact. Request a 30-day response window as a customary expectation. If the lender still
+        refuses, you may need an attorney to intervene.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -729,9 +737,9 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Sometimes, unfortunately, the only language a mortgage company understands is a letter from
-        an attorney. An attorney may wish to send a formal demand letter citing California Civil Code
-        Sections 2924.7 and 2954.85, the <em>Schoolcraft</em> decision, and the implied covenant of
-        good faith and fair dealing. An attorney could also file a complaint with the California
+        an attorney. An attorney may wish to send a formal demand letter citing California Civil
+        Code Section 2954.85 (AB 493 interest on loss-draft accounts), the <em>Schoolcraft</em>
+        decision, and the implied covenant of good faith and fair dealing. An attorney could also file a complaint with the California
         Department of Financial Protection and Innovation (DFPI), which regulates mortgage servicers,
         or with the Consumer Financial Protection Bureau (CFPB) for federal complaints under RESPA.
       </p>
@@ -788,8 +796,10 @@ export default function Content() {
           2%
         </li>
         <li>
-          <strong>California Civil Code Section 2924.7</strong> &mdash; Lender must release funds
-          within 30 days of written demand with documentation
+          <strong>California Civil Code Section 2924.7</strong> &mdash; Confirms enforceability
+          of mortgage clauses authorizing the lender to receive and control disbursement of fire/
+          flood/hazard insurance proceeds. (No statutory 30-day release deadline exists at this
+          section; release timing is governed by good-faith principles per <em>Schoolcraft</em>.)
         </li>
         <li>
           <strong>California Civil Code Section 2954.8</strong> &mdash; 2% interest on tax/insurance

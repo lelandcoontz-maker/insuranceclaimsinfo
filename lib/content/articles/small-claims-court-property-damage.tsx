@@ -49,7 +49,8 @@ export default function Content() {
           <strong>Natural persons (individuals).</strong> A natural person may file a claim for
           up to <strong>$12,500</strong> in small claims court. This means a homeowner filing
           against an insurer can seek up to $12,500. (Note: this limit was increased from
-          $10,000 effective January 1, 2024, under Assembly Bill 2268.)
+          $10,000 effective January 1, 2024, under Senate Bill 71 (Umberg), Chapter 861,
+          Statutes of 2023.)
         </li>
         <li>
           <strong>Corporations and other entities.</strong> A corporation, partnership, or other

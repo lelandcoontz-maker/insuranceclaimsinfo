@@ -87,8 +87,28 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Kurach v. Truck Insurance Exchange: The 4&ndash;3 Decision
       </h2>
+      <CalloutBox variant="important" title="Pennsylvania Case — Persuasive Only, Not Binding in California">
+        <p>
+          <em>Kurach</em> is a decision of the Pennsylvania Supreme Court. It is not binding on
+          California courts. California courts may consider it as persuasive authority on the
+          construction of similar policy language, but the actual rule of decision for a California
+          claim is set by California statutes (Insurance Code &sect;&sect; 2051, 2051.5), California
+          regulations (10 CCR &sect; 2695.9(f)), and California appellate authority. If a California
+          carrier cites <em>Kurach</em> as binding precedent for an O&amp;P withholding under a
+          California policy, that framing overstates its weight in this jurisdiction.
+        </p>
+        <p className="mt-3">
+          California Insurance Code &sect; 2051(b) defines actual cash value for a partial loss
+          as &ldquo;the amount it would cost the insured to repair, rebuild, or replace the
+          thing lost or injured less a fair and reasonable deduction for physical
+          depreciation.&rdquo; Whether General Contractor Overhead and Profit (GCOP) is part of
+          that calculation has been treated differently in California than in Pennsylvania
+          &mdash; the relevant California authority comes from California cases interpreting
+          &sect; 2051(b) and the &ldquo;like kind and quality&rdquo; standard, not from Kurach.
+        </p>
+      </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Jennifer Kurach and Mark Wintersteen each purchased the Farmers Next Generation policy from Truck Insurance Exchange. Both sustained property damage, filed claims, and had O&amp;P withheld from their actual cash value payments under the &ldquo;unless and until&rdquo; provision. They sued, and the cases were consolidated before the Pennsylvania Supreme Court.
+        Konrad Kurach and Mark Wintersteen each purchased the Farmers Next Generation policy from Truck Insurance Exchange. Both sustained property damage, filed claims, and had O&amp;P withheld from their actual cash value payments under the &ldquo;unless and until&rdquo; provision. They sued, and the cases were consolidated before the Pennsylvania Supreme Court.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         Kurach v. Truck Ins. Exchange, 235 A.3d 1106 (Pa. 2020); consolidated with Wintersteen v. Truck Ins. Exchange, Nos. 12 &amp; 13 EAP 2019, decided August 18, 2020. <a href="https://law.justia.com/cases/pennsylvania/supreme-court/2020/12-eap-2019-0.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read on Justia</a>.

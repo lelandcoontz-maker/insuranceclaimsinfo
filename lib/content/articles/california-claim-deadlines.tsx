@@ -105,27 +105,48 @@ export default function Content() {
         Replacement Cost Collection &mdash; Insurance Code &sect;2051.5(b)(1)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under normal circumstances, no policy may impose a replacement cost collection deadline of
-        less than <strong>12 months</strong> from the date the first ACV payment is made. After a
-        declared state of emergency, that minimum increases to <strong>24 months</strong>.
-        Additional six-month extensions must be granted for good cause. The insurer may also
-        voluntarily allow additional time beyond these minimums.
+        Under normal (non-disaster) circumstances, no policy may impose a replacement cost
+        collection deadline of less than <strong>12 months</strong> from the date the first ACV
+        payment is made. After a declared state of emergency, that minimum increases to{' '}
+        <strong>36 months</strong>, and the insurer must grant additional six-month extensions
+        for good cause where the insured, acting in good faith and with reasonable diligence,
+        encounters delays in approval or reconstruction beyond their control. The insurer may
+        also voluntarily allow more time.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is one of the most commonly misrepresented deadlines after a disaster. If you are told
-        you have less than 24 months to collect your full replacement cost after a declared disaster,
-        the adjuster is wrong.
+        The 36-month figure is recent. As originally enacted, &sect;2051.5(b)(1) set the
+        post-emergency minimum at 24 months. Assembly Bill 1800 (Levine, 2018) extended it to
+        36 months, effective January 1, 2019, in response to the 2017&ndash;2018 wildfires that
+        demonstrated 24 months was not enough time for displaced homeowners to permit, contract,
+        and rebuild. Older articles, policy forms, and even some adjusters still reference the
+        obsolete 24-month figure &mdash; do not rely on it.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        &ldquo;Declared state of emergency&rdquo; is defined by cross-reference to California
+        Government Code &sect;8558 &mdash; it means a state of emergency proclaimed by the
+        Governor under the California Emergency Services Act. Major California wildfires,
+        earthquakes, and floods typically trigger such a proclamation; routine residential
+        claims (a burst pipe, an isolated kitchen fire that does not trigger an emergency
+        declaration) do not, and remain subject to the 12-month minimum.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is one of the most commonly misrepresented deadlines after a disaster. If you are
+        told you have less than <strong>36 months</strong> to collect your full replacement cost
+        after a declared disaster, the adjuster is wrong.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Additional Living Expenses (ALE) &mdash; Insurance Code &sect;2051.5(b)(2)
+        Additional Living Expenses (ALE) &mdash; Insurance Code &sect;2060
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         After a declared state of emergency, ALE coverage must extend for at least{' '}
-        <strong>24 months</strong>, regardless of the shorter period stated in the policy. The
-        extended time does not increase the ALE dollar limit &mdash; it extends the period over
-        which you can use the coverage that was already in place at the time of the loss. For more
-        detail on maximizing this coverage, see our guide on{' '}
+        <strong>24 months</strong> from the inception of the loss, regardless of the shorter
+        period stated in the policy. The insurer must grant up to 12 additional months
+        &mdash; for a total of <strong>36 months</strong> &mdash; where the insured encounters
+        delays in reconstruction beyond their control. The extended time does not increase the
+        ALE dollar limit; it extends the period over which you can use the coverage that was
+        already in place at the time of the loss. For more detail on maximizing this coverage,
+        see our guide on{' '}
         <Link href="/resources/loss-of-use-maximizing" className="text-blue-700 underline hover:text-blue-900">
           maximizing your ALE claim
         </Link>.
@@ -205,13 +226,24 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        No Cancellation During Rebuilding &mdash; Insurance Code &sect;675.1(b)
+        No Cancellation During Rebuilding &mdash; Insurance Code &sect;675.1(a)(2)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer <strong>cannot cancel your coverage while the primary structure is being
         rebuilt</strong>, except for the limited reasons specified in Insurance Code &sect;676
         (such as fraud or material misrepresentation). The carrier cannot use the fact that your
         home is in damaged condition as the sole basis for cancellation.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is distinct from a separate &mdash; and often confused &mdash; protection in the
+        same statute. <strong>Insurance Code &sect;675.1(b)</strong> prohibits an insurer from
+        cancelling or non-renewing a residential property policy for one year after a declared
+        state of emergency, based solely on the fact that the property is located within or
+        adjacent to the perimeter of the declared wildfire. The two provisions overlap in
+        spirit but apply differently: &sect;675.1(a)(2) is keyed to <em>your specific total
+        loss and rebuild</em>, while &sect;675.1(b) is a <em>geographic moratorium</em> that
+        protects every policyholder in an affected zip code regardless of whether they had a
+        claim.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -226,13 +258,15 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Mandatory Renewal After a Declared Disaster &mdash; Insurance Code &sect;675.1(c)
+        Mandatory Renewal After a Declared Disaster &mdash; Insurance Code &sect;675.1(a)(3)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your total loss was caused by a declared disaster and was not due to your own
-        negligence, the insurer must offer to renew your policy <strong>at least once</strong>.
-        This prevents the practice of non-renewing disaster victims immediately after paying
-        their claims. For more on the broader market context, see our article on the{' '}
+        negligence, the insurer must offer to renew your policy for <strong>at least the next
+        two annual renewal periods, but no less than 24 months of coverage from the date of
+        the loss</strong>. This prevents the practice of non-renewing disaster victims
+        immediately after paying their claims. For more on the broader market context, see
+        our article on the{' '}
         <Link href="/resources/california-insurance-crisis" className="text-blue-700 underline hover:text-blue-900">
           California insurance crisis
         </Link>.
@@ -240,14 +274,15 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="Summary: Disaster-Specific Deadlines at a Glance">
         <ul className="list-disc pl-5 space-y-2">
-          <li><strong>Replacement cost collection:</strong> 24 months minimum after declared disaster (IC &sect;2051.5(b)(1)), with 6-month good-cause extensions</li>
-          <li><strong>ALE coverage period:</strong> 24 months minimum after declared disaster (IC &sect;2051.5(b)(2))</li>
+          <li><strong>Replacement cost collection:</strong> 36 months minimum after declared disaster (IC &sect;2051.5(b)(1), as amended by AB 1800 effective 2019), with 6-month good-cause extensions</li>
+          <li><strong>ALE coverage period:</strong> 24 months minimum after declared disaster, extendable up to 36 months for good cause (IC &sect;2060)</li>
           <li><strong>Rebuild at new location:</strong> Statutory right after total loss (IC &sect;2051.5(c))</li>
           <li><strong>Appraisal:</strong> Cannot be compelled after government-declared disaster (IC &sect;2071)</li>
           <li><strong>Policy copy:</strong> Within 30 days of request (IC &sect;2084)</li>
           <li><strong>Adjuster change status report:</strong> Required when third adjuster assigned within 6 months (IC &sect;2071)</li>
-          <li><strong>Cancellation during rebuild:</strong> Prohibited except for fraud (IC &sect;675.1(b))</li>
-          <li><strong>Post-disaster renewal:</strong> At least one renewal must be offered (IC &sect;675.1(c))</li>
+          <li><strong>Cancellation during rebuild:</strong> Prohibited except for fraud (IC &sect;675.1(a)(2))</li>
+          <li><strong>Post-disaster renewal:</strong> At least two annual renewal periods, no less than 24 months of coverage from date of loss (IC &sect;675.1(a)(3))</li>
+          <li><strong>Wildfire-zip moratorium:</strong> One-year prohibition on non-renewal for zip codes within/adjacent to declared wildfire perimeter (IC &sect;675.1(b))</li>
         </ul>
       </CalloutBox>
 

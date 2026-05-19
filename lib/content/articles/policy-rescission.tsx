@@ -94,12 +94,14 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Concealment: Insurance Code Section 331
+        Concealment: Insurance Code Sections 330 and 331
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance Code Section 331 defines concealment as the &ldquo;neglect to communicate that
-        which a party knows, and ought to communicate.&rdquo; In the insurance context, this means
-        the applicant failed to disclose a material fact that the insurer needed to evaluate the
+        Insurance Code Section 330 defines concealment as the &ldquo;neglect to communicate that
+        which a party knows, and ought to communicate.&rdquo; Section 331 supplies the
+        consequence: &ldquo;Concealment, whether intentional or unintentional, entitles the
+        injured party to rescind insurance.&rdquo; In the insurance context, this means the
+        applicant failed to disclose a material fact that the insurer needed to evaluate the
         risk. The classic example is failing to disclose prior losses, prior claims, or known
         property conditions on an insurance application.
       </p>

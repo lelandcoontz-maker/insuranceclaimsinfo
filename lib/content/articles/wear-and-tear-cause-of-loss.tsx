@@ -218,10 +218,18 @@ export default function Content() {
           cause.
         </li>
         <li>
-          The California Insurance Code &sect; 530 defines proximate cause as &ldquo;the cause
-          which, in a natural and continuous sequence, unbroken by any new independent cause, produces
-          the event, and without which that event would not have occurred.&rdquo; This is essentially
-          the &ldquo;but for&rdquo; test codified.
+          <strong>California Insurance Code &sect; 530</strong> establishes the proximate-cause
+          rule for insurance: &ldquo;An insurer is liable for a loss of which a peril insured
+          against was the proximate cause, although a peril not contemplated by the contract may
+          have been a remote cause of the loss; but he is not liable for a loss of which the peril
+          insured against was only a remote cause.&rdquo; The classic common-law definition of
+          proximate cause &mdash; widely cited in California courts and reflected in CACI 2306
+          (the standard jury instruction on efficient proximate cause) &mdash; is &ldquo;the cause
+          which, in a natural and continuous sequence, unbroken by any new independent cause,
+          produces the event, and without which that event would not have occurred.&rdquo; Read
+          together, &sect; 530 codifies the rule (the insurer is liable if a covered peril was the
+          proximate cause), and the common-law / CACI formulation supplies the test for what
+          &ldquo;proximate cause&rdquo; means in practice.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">

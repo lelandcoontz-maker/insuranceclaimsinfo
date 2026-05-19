@@ -795,7 +795,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This was the remedy applied in the California FAIR Plan smoke damage case,{' '}
-        <em>Aliff v. California FAIR Plan Association</em> (Los Angeles Superior Court, 2025),
+        <em>Aliff v. California FAIR Plan Association</em> (L.A. Super. Ct. Case No.
+        21STCV20095, Order Granting in Part Plaintiff&rsquo;s Motion for Summary Adjudication,
+        Hon. Stuart M. Rice, June 24, 2025),
         where the court found that the FAIR Plan&rsquo;s restrictive definition of &ldquo;direct
         physical loss&rdquo; and its &ldquo;sight and smell&rdquo; standard for smoke damage
         violated Insurance Code Section 2070. The court declared these provisions unlawful because

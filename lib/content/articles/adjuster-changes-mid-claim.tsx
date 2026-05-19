@@ -579,7 +579,7 @@ export default function Content() {
         Hold the Carrier to Regulatory Deadlines
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;2695.7(b) requires the carrier to accept or deny a claim,
+        10 CCR &sect;2695.7(b) requires the carrier to accept or deny a claim,
         in whole or in part, within 40 calendar days after receiving proof of claim. This deadline
         belongs to the carrier, not to the individual adjuster, and it does not reset when the
         adjuster changes. If you submitted proof of claim to the first adjuster 30 days ago and the

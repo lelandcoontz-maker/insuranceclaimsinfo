@@ -1174,16 +1174,6 @@
     "contentType": "checklist",
     "jurisdiction": "california"
   },
-  "community-property-insurance-proceeds": {
-    "audience": [
-      "professional"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "guide",
-    "jurisdiction": "california"
-  },
   "condo-hoa-claims": {
     "audience": [
       "professional"
@@ -1205,16 +1195,6 @@
     "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "coverage-types"
-  },
-  "conservatorship-insurance-claims": {
-    "audience": [
-      "professional"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "guide",
-    "jurisdiction": "california"
   },
   "construction-company-insurance-claims": {
     "audience": [
@@ -1634,7 +1614,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "do-i-need-a-lawyer": {
@@ -2764,16 +2744,6 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
-  "insurance-properties-probate": {
-    "audience": [
-      "professional"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "guide",
-    "jurisdiction": "california"
-  },
   "insurer-antitrust-fair-plan": {
     "audience": [
       "mid-claim"
@@ -2904,16 +2874,6 @@
       "roof"
     ],
     "contentType": "legal-analysis",
-    "jurisdiction": "california"
-  },
-  "insuring-inherited-property": {
-    "audience": [
-      "mid-claim"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "reference",
     "jurisdiction": "california"
   },
   "inverse-condemnation": {
@@ -3062,16 +3022,6 @@
     "jurisdiction": "california",
     "subcategory": "endorsements"
   },
-  "life-estate-remainder-insurance": {
-    "audience": [
-      "professional"
-    ],
-    "claimType": [
-      "commercial"
-    ],
-    "contentType": "guide",
-    "jurisdiction": "california"
-  },
   "lightning-damage": {
     "audience": [
       "mid-claim"
@@ -3211,20 +3161,10 @@
       "professional"
     ],
     "claimType": [
-      "general"
+      "fire"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
-  },
-  "medicaid-estate-recovery-insurance": {
-    "audience": [
-      "mid-claim"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "reference",
-    "jurisdiction": "federal"
   },
   "medical-dental-office-insurance-claims": {
     "audience": [
@@ -3569,6 +3509,16 @@
     "contentType": "guide",
     "jurisdiction": "california"
   },
+  "ownership-and-authority-in-claims": {
+    "audience": [
+      "professional"
+    ],
+    "claimType": [
+      "general"
+    ],
+    "contentType": "guide",
+    "jurisdiction": "california"
+  },
   "packout-storage-process": {
     "audience": [
       "professional"
@@ -3623,16 +3573,6 @@
       "contents"
     ],
     "contentType": "reference",
-    "jurisdiction": "california"
-  },
-  "pending-claim-policyholder-dies": {
-    "audience": [
-      "professional"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "guide",
     "jurisdiction": "california"
   },
   "period-of-restoration-disputes": {
@@ -3803,12 +3743,12 @@
   },
   "power-of-attorney-insurance-claims": {
     "audience": [
-      "mid-claim"
+      "professional"
     ],
     "claimType": [
-      "roof"
+      "general"
     ],
-    "contentType": "reference",
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "pre-existing-vs-storm-damage": {
@@ -3888,7 +3828,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "reference",
+    "contentType": "guide",
     "jurisdiction": "california",
     "subcategory": "coverage-types"
   },
@@ -5043,16 +4983,6 @@
     "contentType": "guide",
     "jurisdiction": "california",
     "subcategory": "specialty-damage"
-  },
-  "trust-owned-property-insurance": {
-    "audience": [
-      "professional"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "guide",
-    "jurisdiction": "california"
   },
   "unattended-death-claims": {
     "audience": [

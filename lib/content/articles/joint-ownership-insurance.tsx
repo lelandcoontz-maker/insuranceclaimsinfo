@@ -588,10 +588,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California&rsquo;s Legislative and Judicial Response: Insurance Code &sect; 530
+        California&rsquo;s Legislative and Judicial Response: Insurance Code &sect; 533
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has addressed the innocent co-insured problem through Insurance Code &sect; 530,
+        California has addressed the innocent co-insured problem through Insurance Code &sect; 533,
         which provides that an insurer is not liable for a loss caused by the &ldquo;willful act of
         the insured.&rdquo; California courts have interpreted the use of &ldquo;the insured&rdquo;
         &mdash; the definite article &mdash; as limiting the exclusion to the specific insured who
@@ -606,13 +606,32 @@ export default function Content() {
         insured cannot zero out the recovery of the other.
       </p>
 
-      <CalloutBox variant="legal" title="California Insurance Code &sect; 530 and Severability">
+      <CalloutBox variant="legal" title="California Insurance Code &sect;&sect; 2070-2071 and 533: The Standard-Form Floor">
         <p>
-          The protection afforded by &sect; 530 and severability clauses applies most clearly to
-          <strong> residential property insurance</strong> in California. For commercial co-ownership
-          situations (business partners, LLCs), the innocent co-insured analysis relies on common
-          law and the specific policy language. If your co-ownership involves
-          commercial property, consult with an attorney who can analyze the specific policy provisions.
+          The controlling California Supreme Court authority on innocent co-insured rights in
+          residential fire insurance is <em>Century-National Ins. Co. v. Garcia</em> (2011) 51
+          Cal.4th 564. The holding does not rest on &sect;533 alone &mdash; it rests on the
+          mandatory standard fire policy framework. Under <strong>Insurance Code
+          &sect;&sect;2070&ndash;2071</strong>, California fire policies must use the &sect;2071
+          standard form (or provide coverage &ldquo;substantially equivalent&rdquo; to it). The
+          &sect;2071 standard form uses &ldquo;the insured&rdquo; (severable, singular) in its
+          willful-act exclusion language, consistent with <strong>Insurance Code
+          &sect;533</strong>&rsquo;s public-policy framing. A privately drafted policy exclusion
+          that broadens this to &ldquo;any insured&rdquo; (collective) provides materially less
+          coverage than the standard form requires &mdash; and is therefore invalid as to
+          innocent co-insureds. The practical result: the innocent co-insured can recover
+          regardless of another insured&rsquo;s willful conduct.
+        </p>
+        <p className="mt-3">
+          The operative statutory mechanism is the &sect;2071 standard-form floor, not &sect;533
+          standing alone. &sect;533 supplies the public-policy framing that the standard form
+          incorporates; the &sect;2071 standard-form floor is what invalidates a broader
+          privately drafted exclusion. For commercial co-ownership situations (business partners,
+          LLCs), the innocent co-insured analysis relies on common law and the specific policy
+          language &mdash; the mandatory &sect;&sect;2070&ndash;2071 standard form applies to
+          fire insurance on real property, not to commercial policies generally. If your
+          co-ownership involves commercial property, consult with an attorney who can analyze
+          the specific policy provisions.
         </p>
       </CalloutBox>
 
@@ -685,7 +704,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Intentional destruction of the marital home during a contentious divorce is, tragically, not
         rare. When one spouse intentionally sets fire to or otherwise destroys community property,
-        California Insurance Code &sect; 530, as interpreted by California courts alongside the
+        California Insurance Code &sect; 533, as interpreted by California courts alongside the
         policy&rsquo;s severability clause, protects the innocent spouse. The innocent spouse
         can recover their community property share (typically 50%) of the insurance proceeds. The
         guilty spouse&rsquo;s share is forfeited under the intentional loss exclusion.
@@ -972,7 +991,7 @@ export default function Content() {
           innocent party recovers their ownership share, not the full policy limits.
         </li>
         <li>
-          <strong>California Insurance Code &sect; 530:</strong> Courts have interpreted &sect; 530,
+          <strong>California Insurance Code &sect; 533:</strong> Courts have interpreted &sect; 533,
           alongside severability clauses, to protect the innocent co-insured in residential property
           claims in California. An innocent co-insured recovers their proportionate share even when
           the other insured intentionally caused the loss.
@@ -1037,7 +1056,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The severability of interests clause is the co-owner&rsquo;s most important protection,
         ensuring that the policy is read as providing separate coverage to each insured. California
-        Insurance Code &sect; 530, as interpreted by California courts alongside severability clauses,
+        Insurance Code &sect; 533, as interpreted by California courts alongside severability clauses,
         provides protection for innocent co-insureds in residential property claims. And the case law
         &mdash; including <em>Borman</em> and decisions from multiple states &mdash; provides a
         substantial body of authority supporting co-owners who are caught in disputes not of their

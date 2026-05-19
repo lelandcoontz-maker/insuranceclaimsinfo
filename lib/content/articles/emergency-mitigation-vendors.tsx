@@ -353,7 +353,7 @@ export default function Content() {
         Just as policyholders have the right to choose their own contractor for permanent repairs,
         they have the right to choose their own mitigation vendor for emergency response. No
         California law requires the policyholder to use the carrier&apos;s preferred vendor.
-        California Insurance Code &sect; 2695.9(b) provides that no insurer shall require a
+        10 CCR &sect; 2695.9(b) provides that no insurer shall require a
         claimant to use a specific repair facility or vendor. This applies to mitigation vendors
         just as it applies to general contractors.
       </p>

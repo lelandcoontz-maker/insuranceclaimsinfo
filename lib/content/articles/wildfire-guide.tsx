@@ -244,17 +244,21 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>24-month replacement cost deadline (IC &sect;2051.5(b)(1)):</strong> After a
-          declared disaster, you have at least 24 months from the date of your first ACV payment
-          to collect the full replacement cost of your loss. Additional six-month extensions must
-          be granted for good cause. If an adjuster tells you that you have less than 24 months,
-          they are wrong.
+          <strong>36-month replacement cost deadline (IC &sect;2051.5(b)(1), as amended by AB 1800
+          effective 2019):</strong> After a declared disaster, you have at least 36 months from
+          the date of your first ACV payment to collect the full replacement cost of your loss.
+          Additional six-month extensions must be granted for good cause. (Prior to AB 1800, the
+          minimum was 24 months; older articles and some adjusters still reference the obsolete
+          24-month figure &mdash; do not rely on it.) If an adjuster tells you that you have less
+          than 36 months after a declared disaster, they are wrong.
         </li>
         <li>
-          <strong>24-month ALE period (IC &sect;2051.5(b)(2)):</strong> Additional Living Expenses
-          coverage extends for at least 24 months after a declared disaster, regardless of the
-          shorter period in your policy. The extended time does not increase the dollar limit &mdash;
-          it extends the period over which you can use it.
+          <strong>24-month ALE period (IC &sect;2060(b)(1)):</strong> Additional Living Expenses
+          coverage extends for at least 24 months after a declared disaster from the inception of
+          the loss, regardless of the shorter period in your policy. The insurer must grant up to
+          12 additional months for good cause &mdash; total of up to 36 months &mdash; where the
+          insured encounters delays beyond their control. The extended time does not increase the
+          dollar limit; it extends the period over which you can use it.
         </li>
         <li>
           <strong>Right to rebuild at a new location (IC &sect;2051.5(c)):</strong> After a total
@@ -274,14 +278,24 @@ export default function Content() {
           burned &mdash; request a new one immediately.
         </li>
         <li>
-          <strong>No cancellation during rebuilding (IC &sect;675.1(b)):</strong> The insurer cannot
-          cancel your coverage while your home is being rebuilt, and cannot use the damaged condition
-          of the home as a basis for cancellation.
+          <strong>No cancellation during rebuilding (IC &sect;675.1(a)(2)):</strong> The insurer
+          cannot cancel your coverage while your home is being rebuilt (except for the limited
+          reasons in &sect;676, such as fraud or material misrepresentation), and cannot use the
+          damaged condition of the home as a basis for cancellation.
         </li>
         <li>
-          <strong>Mandatory renewal after a declared disaster (IC &sect;675.1(c)):</strong> If your
-          total loss was caused by a declared disaster and not your own negligence, the insurer must
-          offer at least one policy renewal.
+          <strong>Mandatory renewal after a declared disaster (IC &sect;675.1(a)(3)):</strong> If
+          your total loss was caused by a declared disaster and not your own negligence, the
+          insurer must offer to renew your policy for at least the next two annual renewal
+          periods, but no less than 24 months of coverage from the date of the loss.
+        </li>
+        <li>
+          <strong>Wildfire-zip moratorium (IC &sect;675.1(b)):</strong> Separately from the
+          post-total-loss renewal protections above, &sect;675.1(b) prohibits insurers from
+          cancelling or non-renewing a residential property policy for one year after a declared
+          state of emergency, based solely on the fact that the property is located within or
+          adjacent to the perimeter of the declared wildfire. This protection applies to every
+          policyholder in the affected zip code, not just those who suffered a total loss.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">

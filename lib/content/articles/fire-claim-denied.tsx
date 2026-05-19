@@ -44,10 +44,29 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">1. Alleged Policy Lapse or Non-Payment</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer claims your policy was not in force at the time of the fire. This can happen
-        due to a missed premium payment, a bank error, or (in some cases) an insurer processing error.
-        Under California law, the insurer must provide proper notice before cancellation for non-payment
-        — at least 10 days&apos; written notice (Insurance Code § 678(a)). If proper notice was not
-        given, the cancellation may be invalid and your claim should be covered.
+        due to a missed premium payment, a bank error, or (in some cases) an insurer processing
+        error. California law treats different ways of ending a policy under different statutes,
+        and the notice requirements are not the same.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For <strong>cancellation based on non-payment of premium</strong>, Insurance Code &sect;677.2
+        requires the insurer to deliver or mail written notice of cancellation at least{' '}
+        <strong>10 days</strong> before the effective date of the cancellation. The notice must
+        state the effective date and the reason for cancellation. If the insurer is asserting that
+        your policy was cancelled for non-payment, ask in writing for proof that the &sect;677.2
+        10-day notice was actually delivered to you and that the timing met the statute.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For <strong>non-renewal</strong> (the insurer declines to offer a new policy when the
+        current term ends, rather than terminating mid-term), Insurance Code &sect;678 requires
+        at least 45 days&apos; written notice before policy expiration, or 75 days for residential
+        property policies expiring on or after July 1, 2020. Non-renewal is a different mechanism
+        from cancellation &mdash; if the insurer is treating a non-payment situation as a
+        non-renewal, or vice versa, the wrong notice period may have been used.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If proper notice was not given under whichever statute actually applies, the cancellation
+        or non-renewal may be invalid and your claim should be covered.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">2. Arson or Fraud Allegations</h3>

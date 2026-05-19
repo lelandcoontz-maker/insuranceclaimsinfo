@@ -85,18 +85,6 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        First-Year Protections: Insurance Code &sect; 675.5
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Insurance Code &sect; 675.5</strong> provides additional restrictions on
-        cancellation during the first year of a new policy. This section limits the insurer&rsquo;s
-        ability to cancel a new policy except for specific, enumerated reasons. The intent is to
-        prevent bait-and-switch scenarios where a carrier writes a policy and then cancels it
-        shortly after inception for reasons the carrier knew about (or should have known about)
-        when the policy was issued.
-      </p>
-
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Non-Renewal Rules: Insurance Code &sect; 678
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

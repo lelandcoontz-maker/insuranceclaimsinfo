@@ -222,49 +222,37 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        California Law: Insurance Code Section 11628.7
+        California Law: No Statutory Bar on Breed-Based Underwriting
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has taken some legislative action on breed discrimination in insurance.
-        Insurance Code section 11628.7 provides that no insurer may refuse to issue, cancel,
-        refuse to renew, or increase the premium of a policy of automobile or homeowner
-        insurance <strong>solely</strong> on the basis that the insured or applicant owns a
-        specific breed of dog. The operative word is &ldquo;solely.&rdquo;
+        California has no current statute that prohibits insurers from refusing, cancelling,
+        non-renewing, or surcharging a homeowner policy based on a specific dog breed. Various
+        legislative proposals addressing breed-based underwriting have been introduced in past
+        sessions but none has been enacted. As a result, breed-based underwriting in California
+        operates under the same general framework as in most other states &mdash; carriers may
+        maintain breed restriction lists, decline coverage based on listed breeds, exclude
+        liability for specific dogs, or surcharge the premium, subject only to the general
+        unfair-discrimination provisions of the Insurance Code that do not specifically address
+        breed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This provision means that an insurer cannot have a blanket policy of refusing to write
-        any homeowner who owns a pit bull. However, the statute contains significant
-        limitations:
+        Bite history is a separate underwriting factor from breed. A specific dog&rsquo;s actual
+        bite history supports a denial regardless of breed; conversely, insurers that document
+        any additional underwriting factor alongside breed (yard fencing, prior claims, household
+        composition) can decline coverage on the combined factors rather than on breed alone.
+        The practical reality is that homeowners in California are not meaningfully more protected
+        from breed-based underwriting than homeowners in most other states.
       </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Bite history matters.</strong> The statute does not prevent an insurer from
-          refusing coverage based on the <em>specific dog&rsquo;s</em> bite history. If the
-          dog has bitten someone, the insurer can use that history as a basis for declining
-          coverage &mdash; and breed may be a factor in combination with other risk factors.
-        </li>
-        <li>
-          <strong>&ldquo;Solely&rdquo; is a narrow prohibition.</strong> As long as the
-          insurer can point to any other underwriting factor in combination with the breed,
-          the &ldquo;solely&rdquo; limitation is easily circumvented. An insurer that declines
-          a policy because the homeowner has a pit bull <em>and</em> a fenced yard below a
-          certain height, or <em>and</em> a history of claims, or <em>and</em> any other risk
-          factor, may argue it is not declining solely based on breed.
-        </li>
-        <li>
-          <strong>Enforcement is limited.</strong> The statute provides a framework, but
-          individual homeowners challenging breed-based underwriting decisions face the
-          practical difficulty of proving that breed was the sole factor. Insurers are generally
-          careful to document other underwriting reasons for any adverse action.
-        </li>
-      </ul>
 
       <CalloutBox variant="info" title="The National Trend">
         <p>
-          Several states have enacted or considered legislation addressing breed-based insurance
-          discrimination. The trend is toward prohibiting breed-only restrictions, but the
-          insurance industry has resisted comprehensive reform. Homeowners in California have
-          more protection than those in many other states, but the protection is not absolute.
+          Several states have considered legislation addressing breed-based insurance
+          discrimination, and a handful have enacted statutory limits. The trend in the
+          policyholder-advocacy community is toward prohibiting breed-only restrictions, but the
+          insurance industry has resisted comprehensive reform and California is among the states
+          that have not enacted such a prohibition. Homeowners in California should not assume
+          they are protected from breed-based underwriting by state law &mdash; they generally
+          are not.
         </p>
       </CalloutBox>
 

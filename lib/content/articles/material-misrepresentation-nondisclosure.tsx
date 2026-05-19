@@ -5,7 +5,7 @@ export const meta = {
   title:
     'Material Misrepresentation vs. Innocent Nondisclosure: When Your Insurer Tries to Void Your Policy for What You Didn’t Say',
   description:
-    'The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 331, 359, and 2071 standards, the materiality test, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders.',
+    'The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 330 (concealment defined), 331 (rescission), 332 (duty to disclose), 334 (materiality test), 359 (misrepresentation), and 2071 (standard fire policy) standards, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders.',
 }
 
 export default function Content() {
@@ -68,11 +68,13 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Concealment: Insurance Code Section 331
+        Concealment: Insurance Code Sections 330 and 331
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>California Insurance Code Section 331</strong> defines concealment as the
+        <strong>California Insurance Code Section 330</strong> defines concealment as the
         &ldquo;neglect to communicate that which a party knows, and ought to communicate.&rdquo;
+        <strong> Section 331</strong> supplies the consequence: &ldquo;Concealment, whether
+        intentional or unintentional, entitles the injured party to rescind insurance.&rdquo;
         Concealment is about <em>omission</em> &mdash; the failure to volunteer information that
         the insurer needed to know. The policyholder was not asked a direct question and gave a
         false answer. Rather, the policyholder knew something relevant to the risk and failed to
@@ -84,8 +86,8 @@ export default function Content() {
         rescission under Section 331 &mdash; provided the concealed information was material to the
         insurer&rsquo;s decision. This is a broad standard that gives insurers significant
         leverage. However, the concealment must involve something the policyholder actually
-        <em> knew</em>. Section 331 says &ldquo;that which a party knows&rdquo; &mdash; a
-        policyholder cannot conceal what the policyholder does not know.
+        <em> knew</em>. Section 330&rsquo;s definition uses &ldquo;that which a party
+        knows&rdquo; &mdash; a policyholder cannot conceal what the policyholder does not know.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -109,9 +111,10 @@ export default function Content() {
 
       <CalloutBox variant="important" title="The Difference Between Concealment and Misrepresentation">
         <p>
-          <strong>Concealment</strong> (IC 331) is about what you failed to say &mdash; information
-          you knew but did not volunteer. <strong>Misrepresentation</strong> (IC 359) is about what
-          you said that was wrong &mdash; a statement you made that was false. The insurer may
+          <strong>Concealment</strong> (defined at IC 330, authorizing rescission under IC 331)
+          is about what you failed to say &mdash; information you knew but did not volunteer.{' '}
+          <strong>Misrepresentation</strong> (IC 359) is about what you said that was wrong &mdash;
+          a statement you made that was false. The insurer may
           assert both theories simultaneously. The defenses overlap but are not identical, and
           the characterization can affect the outcome &mdash; particularly under the heightened
           standard for fire policies.
@@ -153,10 +156,27 @@ export default function Content() {
         The &ldquo;Increase the Risk&rdquo; Standard
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Insurance Code Section 332</strong> provides that materiality is determined by
-        whether the concealed fact was &ldquo;material to the risk.&rdquo; This creates a related
-        but analytically distinct inquiry: did the undisclosed fact actually increase the risk the
-        insurer was assuming? If a policyholder failed to disclose a fact that had no bearing on
+        <strong>Insurance Code Section 332</strong> establishes the duty itself: &ldquo;Each
+        party to a contract of insurance shall communicate to the other, in good faith, all facts
+        within his knowledge which are or which he believes to be material to the contract and as
+        to which he makes no warranty, and which the other has not the means of ascertaining.&rdquo;
+        Section 332 does not define materiality; it presupposes that the party already knows or
+        believes the fact is material and requires disclosure of facts the other party has no
+        means to ascertain.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The materiality test itself is supplied by <strong>Insurance Code Section 334</strong>:
+        &ldquo;Materiality is to be determined not by the event, but solely by the probable and
+        reasonable influence of the facts upon the party to whom the communication is due, in
+        forming his estimate of the disadvantages of the proposed contract, or in making his
+        inquiries.&rdquo; The &sect;334 standard is forward-looking and recipient-oriented
+        &mdash; it asks whether the undisclosed fact would have reasonably influenced the
+        insurer&rsquo;s underwriting decision at the time the policy was being formed, not
+        whether the omission turned out to matter to the eventual loss.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Read together, &sect;&sect;332 and 334 create the &ldquo;increase the risk&rdquo;
+        framework: did the undisclosed fact actually increase the risk the insurer was assuming? If a policyholder failed to disclose a fact that had no bearing on
         the probability or severity of loss, the argument for rescission is significantly
         weakened.
       </p>

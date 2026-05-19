@@ -6,6 +6,48 @@ const nextConfig = {
   images: {
     formats: ['image/avif', 'image/webp'],
   },
+  redirects: async () => [
+    {
+      source: '/resources/pending-claim-policyholder-dies',
+      destination: '/resources/policyholder-death-coverage',
+      permanent: true,
+    },
+    {
+      source: '/resources/medicaid-estate-recovery-insurance',
+      destination: '/resources/ownership-and-authority-in-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/life-estate-remainder-insurance',
+      destination: '/resources/ownership-and-authority-in-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/community-property-insurance-proceeds',
+      destination: '/resources/divorce-separation-insurance-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/conservatorship-insurance-claims',
+      destination: '/resources/power-of-attorney-insurance-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/insurance-properties-probate',
+      destination: '/resources/ownership-and-authority-in-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/insuring-inherited-property',
+      destination: '/resources/ownership-and-authority-in-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/trust-owned-property-insurance',
+      destination: '/resources/property-held-in-trust-coverage',
+      permanent: true,
+    },
+  ],
   headers: async () => [
     {
       source: '/:path*',

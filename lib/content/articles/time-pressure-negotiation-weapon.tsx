@@ -466,7 +466,7 @@ export default function Content() {
           <strong>California Insurance Code &sect;2071</strong> &mdash; Twelve-month suit limitation for fire insurance policies; twenty-four-month extension for declared states of emergency.
         </li>
         <li>
-          <strong>California Insurance Code &sect;10103.7</strong> &mdash; ALE coverage requirements in declared disasters; twenty-four-month minimum with twelve-month extension.
+          <strong>California Insurance Code &sect;10103.7</strong> &mdash; Combined dwelling/other-structures payments and contents pay-out without itemized inventory (no less than 60% of the contents policy limit) in state-of-emergency claims.
         </li>
         <li>
           <strong>10 CCR &sect;&sect;2695.1&ndash;2695.12</strong> &mdash; Fair Claims Settlement Practices Regulations; specific deadlines for acknowledgment (fifteen days), acceptance/denial (forty days), payment (thirty days), and status updates (every thirty days).

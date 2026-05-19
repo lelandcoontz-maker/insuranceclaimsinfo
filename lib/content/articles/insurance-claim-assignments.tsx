@@ -67,11 +67,29 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This distinction is fundamental. A policyholder who is told by their carrier that
         &quot;the policy prohibits assignments&quot; after their home has already been damaged
-        should understand that the carrier is, at best, oversimplifying the law. The California
-        Supreme Court addressed this issue directly in <em>Henkel v. Hartford Accident &amp;
-        Indemnity Co.</em> (1967) 67 Cal.2d 574, holding that a no-assignment clause does
-        not prevent the assignment of a claim that has already accrued. This principle has been
-        reaffirmed many times since.
+        should understand that the carrier is, at best, oversimplifying the law. The interplay
+        between no-assignment clauses and post-loss assignment in California is governed by two
+        California Supreme Court decisions and one long-standing statute. Insurance Code
+        &sect;520, on the books since 1872, provides that &ldquo;an agreement not to transfer
+        the claim of the insured against the insurer after a loss has happened, is void if made
+        before the loss.&rdquo; In <em>Henkel Corp. v. Hartford Accident &amp; Indemnity Co.</em>{' '}
+        (2003) 29 Cal.4th 934, the California Supreme Court initially read no-assignment clauses
+        narrowly in the policyholder&rsquo;s favor on the threshold question but ultimately held
+        that consent was still required unless the loss had been reduced to a &ldquo;sum
+        due&rdquo; &mdash; a restrictive rule that disadvantaged policyholders whose claims were
+        not yet liquidated. Twelve years later, in <em>Fluor Corp. v. Superior Court</em> (2015)
+        61 Cal.4th 1175, the same court revisited the issue and held that &sect;520 invalidates
+        no-assignment clauses for occurrence-based liability claims once the loss has occurred
+        &mdash; effectively limiting <em>Henkel</em> and aligning California with the majority
+        rule that post-loss assignments cannot be barred by a clause in the original policy.
+        Critically, &sect;520 was on the books in 1872 &mdash; more than a century before
+        <em> Henkel</em> was decided &mdash; but the <em>Henkel</em> court did not apply it.
+        <em> Fluor</em> is therefore better understood as the Supreme Court finally applying a
+        long-existing statute that <em>Henkel</em> had overlooked, not as a pure overruling of
+        <em> Henkel</em>. The substantive rule for a reader to apply is that &sect;520 makes
+        pre-loss anti-assignment provisions void as to post-loss transfers once the covered
+        loss (the injury or property damage giving rise to potentially covered liability) has
+        occurred &mdash; not merely once a claim has been reduced to a fixed-dollar judgment.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -724,18 +742,40 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Supreme Court&apos;s decision in <em>Henkel v. Hartford Accident &amp;
-        Indemnity Co.</em> (1967) 67 Cal.2d 574 established the foundational principle that
-        anti-assignment clauses do not prevent the assignment of a claim that has already
-        accrued. The court reasoned that once the loss has occurred, the insurer&apos;s
-        obligations are fixed, and the assignment does not increase the insurer&apos;s risk
-        or change the nature of its obligation.
+        The California Supreme Court&apos;s decision in <em>Henkel Corp. v. Hartford Accident
+        &amp; Indemnity Co.</em> (2003) 29 Cal.4th 934 was the first modern Supreme Court
+        treatment of post-loss assignment in California. <em>Henkel</em> held that no-assignment
+        clauses are enforceable to bar assignment of insurance claims unless the insurer&apos;s
+        obligation has already been reduced to a fixed sum due. The court reasoned that the
+        no-assignment clause continues to operate until the claim has been liquidated, which
+        gave carriers a defense against post-loss assignment in any case where the precise
+        amount owed remained unsettled. <em>Henkel</em> was perceived as a setback for
+        policyholders and contractors who had relied on a more permissive reading of post-loss
+        assignment rights.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This principle has been reaffirmed in subsequent decisions and is well-settled law in
-        California. Policyholders and contractors can rely on it when carriers attempt to refuse
-        post-loss assignments based on anti-assignment clauses.
+        In <em>Fluor Corp. v. Superior Court</em> (2015) 61 Cal.4th 1175, the California Supreme
+        Court substantially limited <em>Henkel</em>. Applying Insurance Code &sect;520 &mdash;
+        which has been on the books since 1872 and provides that &ldquo;an agreement not to
+        transfer the claim of the insured against the insurer after a loss has happened, is void
+        if made before the loss&rdquo; &mdash; the <em>Fluor</em> court held that no-assignment
+        clauses are unenforceable for occurrence-based liability claims once the underlying loss
+        has occurred. The court read &sect;520 to mean what it says: the pre-loss agreement
+        purporting to bar post-loss transfer of the claim is void by statute.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>The current rule in California, after <em>Fluor</em>:</strong> For liability
+        policies covering pre-assignment occurrences, no-assignment clauses cannot be enforced
+        against post-loss assignments &mdash; <em>Fluor</em>, applying &sect;520, controls. For
+        first-party property claims, <em>Henkel</em>&rsquo;s restrictive &ldquo;sum due&rdquo;
+        rule has not been formally overruled, but <em>Fluor</em>&rsquo;s reading of &sect;520
+        &mdash; that pre-loss restrictions on post-loss transfer are void by statute &mdash;
+        provides strong policyholder-side authority that the same protection should extend.
+        Policyholders and contractors facing a carrier&rsquo;s no-assignment defense should cite
+        &sect;520 directly and rely on <em>Fluor</em> as the controlling Supreme Court
+        interpretation of the statute.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

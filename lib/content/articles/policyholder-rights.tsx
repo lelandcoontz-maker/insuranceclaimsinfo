@@ -73,10 +73,10 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurance company cannot force you to use their preferred vendor or managed repair
-        program. Under California Insurance Code &sect;758.5, any referral to a contractor
-        must be accompanied by a written disclosure that you are not required to use them.
-        The insurer cannot reduce your payment because you chose a different contractor. They
-        owe you the reasonable cost of repair, regardless of who performs the work.
+        program. Under 10 CCR &sect;2695.9(b), the carrier cannot require that the insured have
+        the property repaired by a specific individual or entity. The insurer cannot reduce your
+        payment because you chose a different contractor. They owe you the reasonable cost of
+        repair, regardless of who performs the work.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your adjuster says something like &ldquo;we&apos;ll only pay what our vendor would

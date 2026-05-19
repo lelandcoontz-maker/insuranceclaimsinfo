@@ -32,7 +32,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s Fair Claims regulations require the insurer to restore your property to a
-        &ldquo;reasonable uniform appearance&rdquo; under 10 CCR &sect;2695.9(d). When partial
+        &ldquo;reasonable uniform appearance&rdquo; under 10 CCR &sect;2695.9(a)(2). When partial
         repair cannot achieve that appearance because the existing materials cannot be matched, the
         scope expands to include whatever additional work is necessary to create uniformity. The
         regulation does not say &ldquo;get as close as you can and walk away.&rdquo;
@@ -269,7 +269,7 @@ export default function Content() {
           that prohibits its use. The carrier cannot legally instruct you to violate the law.
         </li>
         <li>
-          <strong>Cite the matching regulation.</strong> Reference 10 CCR &sect;2695.9(d) and the
+          <strong>Cite the matching regulation.</strong> Reference 10 CCR &sect;2695.9(a)(2) and the
           requirement for &ldquo;reasonable uniform appearance.&rdquo; Frame your demand around the
           regulation, not around preference.
         </li>
@@ -289,10 +289,16 @@ export default function Content() {
         without affecting the value or functionality of the whole triggers set valuation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s pair and set regulations (10 CCR &sect;2695.9(e)) require the insurer to
-        &ldquo;consider the reduction in value of undamaged parts of the pair or set&rdquo; when
-        replacement of one component reduces the value of the whole. A home whose selling point was
-        uniform custom woodwork loses value when one room has obviously different cabinets.
+        The pair-and-set framework comes from the policy itself, not from the Fair Claims
+        regulations. Standard ISO HO-3 policy language addressing loss to a pair or set generally
+        gives the carrier two options: (1) repair or replace any part to restore the pair or set
+        to its value before the loss, or (2) pay the difference between the actual cash value of
+        the property before the loss and after the loss. When replacement of one component reduces
+        the value of the whole, the policy itself recognizes the reduction-in-value problem. The
+        general fair-claims principle in 10 CCR &sect;2695.9(a)(2) reinforces this with the
+        broader requirement of restoration to a reasonably uniform appearance. A home whose
+        selling point was uniform custom woodwork loses value when one room has obviously
+        different cabinets.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

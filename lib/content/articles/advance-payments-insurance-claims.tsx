@@ -27,18 +27,21 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Legal Foundation: California Insurance Code Section 10172.5
+        The Legal Foundation: Declared-Disaster Advances and the Undisputed-Amount Rule
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;10172.5 establishes a direct statutory obligation for insurers handling fire insurance claims. The statute provides that when an insured suffers a loss under a fire insurance policy, the insurer must offer the undisputed amount of the claim within 30 days after the proof of claim has been received, even if the full amount remains in dispute.
+        California&rsquo;s advance-payment framework rests on two complementary authorities: a specific statute that mandates advances after declared disasters, and a regulation that requires payment of undisputed amounts in every other claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This statute reflects a straightforward principle: if the insurer acknowledges that some amount is owed but disputes how much, the undisputed portion must be paid. The carrier cannot hold all money hostage while it negotiates over the contested remainder. The policyholder who lost a home worth $500,000 should not wait four months for any payment because the carrier disputes whether the total is $400,000 or $450,000. The carrier should pay the $400,000 it acknowledges while the dispute over the additional $50,000 is resolved.
+        At the statutory level, California Insurance Code &sect;2061(a)(1) requires insurers to advance no less than four months of Additional Living Expenses (ALE) upon the insured&rsquo;s request when a total loss results from a declared state of emergency. The insured does not need to submit receipts first. The insured does not need to prove what they have &ldquo;incurred.&rdquo; The advance is mandatory.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        At the regulatory level, 10 CCR &sect;2695.7(h) prohibits insurers from delaying or failing to pay undisputed amounts in order to influence the settlement of disputed portions of a claim. This rule applies to every line of insurance and every type of loss &mdash; not just declared disasters. If the carrier acknowledges that some amount is owed but disputes how much, the undisputed portion must be paid promptly while the dispute over the remainder continues separately.
       </p>
 
-      <CalloutBox variant="info" title="Scope of Section 10172.5">
+      <CalloutBox variant="info" title="The Practical Effect">
         <p>
-          California Insurance Code &sect;10172.5 applies specifically to fire insurance claims. However, the undisputed-amount principle has broader application through the California Fair Claims Settlement Practices Regulations, which apply to all types of insurance.
+          For declared disasters, &sect;2061(a) creates a hard-edged statutory obligation that the carrier cannot negotiate away. For everything else, 10 CCR &sect;2695.7(h) functions like a mandatory advance-payment mechanism: the policyholder who lost a home valued at $500,000 should not wait four months for any payment because the carrier disputes whether the total is $400,000 or $450,000. The carrier must pay the $400,000 it acknowledges while the dispute over the additional $50,000 is resolved.
         </p>
       </CalloutBox>
 
@@ -233,7 +236,7 @@ export default function Content() {
         2. Cite the Specific Statutory and Regulatory Authority
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Every written demand for advance or partial payment should cite the applicable law: California Insurance Code &sect;10172.5 (for fire claims), 10 CCR &sect;2695.7(h) (for all claims), and Insurance Code &sect;790.03(h) (unfair claims practices). This serves two purposes: it tells the carrier that the policyholder knows the law, and it creates a record for a potential{' '}
+        Every written demand for advance or partial payment should cite the applicable law: 10 CCR &sect;2695.7(h) (the undisputed-amount rule, applicable to all claims), Insurance Code &sect;790.03(h) (unfair claims practices), and &mdash; for total losses in declared disasters &mdash; Insurance Code &sect;2061(a)(1) (mandatory four-month ALE advance). This serves two purposes: it tells the carrier that the policyholder knows the law, and it creates a record for a potential{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
           bad faith
         </Link>{' '}
@@ -376,7 +379,7 @@ export default function Content() {
           <strong>United Policyholders</strong> &mdash; A nonprofit consumer advocacy organization that provides guidance to policyholders on demanding timely payments, including template letters and explanations of California regulatory requirements for advance payments after catastrophic losses.
         </li>
         <li>
-          <strong>Pillsbury &amp; Coleman, LLP</strong> &mdash; A California policyholder law firm that has analyzed California Insurance Code &sect;10172.5 and the fair claims settlement practices regulations as they apply to carrier obligations to pay undisputed amounts during the pendency of a claim.
+          <strong>Pillsbury &amp; Coleman, LLP</strong> &mdash; A California policyholder law firm that has analyzed the fair claims settlement practices regulations and the declared-disaster advance-payment statutes as they apply to carrier obligations to pay undisputed amounts during the pendency of a claim.
         </li>
         <li>
           <strong>Shernoff Bidart Echeverria LLP</strong> &mdash; A California insurance bad faith firm that has litigated cases involving carrier refusal to issue advance payments and has published analysis of how withholding undisputed amounts can constitute bad faith under California law.

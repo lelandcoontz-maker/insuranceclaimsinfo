@@ -135,9 +135,10 @@ export default function Content() {
           2025 LA fires. The moratorium applies to the affected zip codes and adjacent zip codes.
         </li>
         <li>
-          <strong>Renewal protections after a total loss.</strong> After a declared emergency, insurers
-          cannot cancel or non-renew a residential policy for at least one year after a total loss
-          (Insurance Code § 675.1(b)).
+          <strong>Renewal protections after a total loss.</strong> After a declared emergency
+          causing a total loss not due to the insured&rsquo;s negligence, insurers must offer
+          to renew the residential policy for at least two annual renewal periods, but no less
+          than 24 months of coverage from the date of the loss (Insurance Code &sect; 675.1(a)(3)).
         </li>
         <li>
           <strong>Right to the FAIR Plan.</strong> Any California property owner who has been denied

@@ -283,7 +283,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Timing matters. California Insurance Code &sect;2695.7(b) requires insurers to accept or
+        Timing matters. 10 CCR &sect;2695.7(b) requires insurers to accept or
         deny a claim within 40 days of receiving proof of claim. But when two carriers are
         involved, each may wait on the other to determine its own liability. You need to push
         both carriers simultaneously and document your communications with each.

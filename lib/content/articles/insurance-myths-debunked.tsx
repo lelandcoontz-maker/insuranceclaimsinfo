@@ -747,9 +747,12 @@ export default function Content() {
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           Insuring for market value can leave you catastrophically underinsured after a total
-          loss. Insurance Code &sect; 10102 requires insurers to provide a replacement cost
-          estimate at the time of policy inception and renewal. If that estimate was wrong
-          &mdash; and they frequently are &mdash; the insurer may bear some responsibility.
+          loss. No California statute requires insurers to provide a replacement cost estimate
+          at policy inception &mdash; the statutory obligation, under Insurance Code &sect;
+          10103.4, kicks in only at renewal, and the renewal estimate is generally required
+          only every other policy year. The estimate that exists, when it exists, is frequently
+          wrong &mdash; and if the insurer provided one and the resulting limits proved
+          inadequate at total loss, the insurer may bear some responsibility.
           See our articles on{' '}
           <Link href="/resources/replacement-cost-vs-guaranteed" className="text-blue-700 underline hover:text-blue-900">
             replacement cost vs. guaranteed replacement cost
@@ -1080,7 +1083,7 @@ export default function Content() {
             <li>California Insurance Code &sect; 2051.5 (no labor depreciation)</li>
             <li>California Insurance Code &sect; 2071 (standard fire policy)</li>
             <li>California Insurance Code &sect; 2051.6 (advance payments)</li>
-            <li>California Insurance Code &sect; 10102 (RC estimates)</li>
+            <li>California Insurance Code &sect; 10103.4 (RC estimates at renewal)</li>
             <li>California Insurance Code &sect; 10103.7 (SB 495)</li>
             <li>California Insurance Code &sect; 15027 (PA contract / insured communication rights)</li>
             <li>California Insurance Code &sect; 1861.02 (Prop 103 rating)</li>

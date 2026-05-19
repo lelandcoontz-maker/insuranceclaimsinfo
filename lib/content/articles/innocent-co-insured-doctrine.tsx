@@ -329,9 +329,9 @@ export default function Content() {
         in innocent co-insured cases.
       </p>
 
-      <CalloutBox variant="legal" title="California Insurance Code Section 530">
+      <CalloutBox variant="legal" title="California Insurance Code Section 533">
         <p>
-          California Insurance Code &sect; 530 provides: &ldquo;An insurer is not liable for
+          California Insurance Code &sect; 533 provides: &ldquo;An insurer is not liable for
           a loss caused by the willful act of the insured; but he is not exonerated by the
           negligence of the insured, or of the insured&rsquo;s agents or others.&rdquo; Note
           the use of &ldquo;the insured&rdquo; &mdash; the definite article. California
@@ -351,33 +351,33 @@ export default function Content() {
         broad public policy favoring coverage over forfeiture.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>California Insurance Code &sect; 530</strong>, discussed above, uses the
+        <strong>California Insurance Code &sect; 533</strong>, discussed above, uses the
         definite article &ldquo;the insured&rdquo; in limiting liability for willful acts.
         This statutory language has been consistently interpreted to protect the innocent
         co-insured.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California courts have further reinforced innocent co-insured protection through judicial
-        interpretation of Insurance Code &sect; 530 (addressing intentional acts) and &sect; 533
-        (which bars coverage for willful acts). Courts have interpreted these provisions, read
-        alongside the severability clauses found in standard homeowner policies, as protecting the
-        innocent co-insured who did not cooperate in or contribute to the creation of the loss.
-        This judicial framework effectively supports the innocent co-insured doctrine for fire
-        insurance and homeowner policies in California, eliminating the argument that the intentional
-        acts exclusion or fraud provision bars the innocent co-insured&rsquo;s claim merely because
-        another insured caused the loss.
+        California courts have reinforced innocent co-insured protection through judicial
+        interpretation of Insurance Code &sect; 533 &mdash; which bars coverage for willful acts
+        of &ldquo;the insured&rdquo; (singular) &mdash; read alongside the severability clauses
+        found in standard homeowner policies. This judicial framework effectively supports the
+        innocent co-insured doctrine for fire insurance and homeowner policies in California,
+        eliminating the argument that the intentional-acts exclusion or fraud provision bars the
+        innocent co-insured&rsquo;s claim merely because another insured caused the loss. Insurance
+        Code &sect; 530, by contrast, is the proximate-cause statute and does not address willful
+        acts of insureds &mdash; it has sometimes been mistakenly grouped with &sect; 533 in
+        innocent co-insured analysis, but it is a separate doctrine governing chains of causation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The combined force of &sect;&sect; 530 and 533, as interpreted by California courts
-        alongside severability clauses, means that in California, an innocent co-insured who
-        had no knowledge of or involvement in the arson is entitled to recover their
-        proportional share of the loss.
+        The force of &sect; 533, as interpreted by California courts alongside severability
+        clauses, means that in California, an innocent co-insured who had no knowledge of or
+        involvement in the arson is entitled to recover their proportional share of the loss.
       </p>
 
       <CalloutBox variant="important" title="California Practitioners: Know Your Statutes">
         <p>
           If you are representing an innocent co-insured in California, cite Insurance Code
-          &sect;&sect; 530 and 533 and the policy&rsquo;s severability clause immediately. Do
+          &sect; 533 and the policy&rsquo;s severability clause immediately. Do
           not let the adjuster or carrier attorney argue that the intentional acts exclusion
           bars all recovery. California law specifically protects the innocent co-insured. The
           carrier may try to ignore these provisions or argue they do not apply. They do. Push

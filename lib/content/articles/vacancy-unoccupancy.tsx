@@ -416,8 +416,27 @@ export default function Content() {
         thresholds. California courts generally follow the majority rule that &ldquo;vacant&rdquo;
         means empty of contents and &ldquo;unoccupied&rdquo; means empty of people. When policy
         language is ambiguous, California courts apply well-established rules of construction in
-        favor of the insured, consistent with California Insurance Code &sect; 1654 and the
-        principle that exclusions must be conspicuous, plain, and clear.
+        favor of the insured.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The foundational doctrine is <strong><em>contra proferentem</em></strong> &mdash; Latin
+        for &ldquo;against the offeror&rdquo; (or, more loosely, &ldquo;against the one who
+        proposes the language&rdquo;). The rule predates California &mdash; and the United
+        States itself &mdash; tracing back to Roman law and English common law. California
+        codified it at <strong>Civil Code &sect; 1654</strong>: &ldquo;In cases of uncertainty
+        not removed by the preceding rules, the language of a contract should be interpreted most
+        strongly against the party who caused the uncertainty to exist.&rdquo; The California
+        Supreme Court has consistently applied this rule to insurance contracts (see <em>AIU Ins.
+        Co. v. Superior Court</em> (1990) 51 Cal.3d 807). The rule applies with particular force
+        to insurance because insurance policies are quintessential <strong>contracts of
+        adhesion</strong>: the insurer drafts the policy with the assistance of lawyers, risk
+        managers, and underwriting specialists; the consumer has no meaningful opportunity to
+        negotiate the terms; and the bargaining power is fundamentally asymmetric. It is a
+        take-it-or-leave-it instrument, so ambiguity in the drafter&rsquo;s language is resolved
+        against the drafter and in favor of coverage. The companion rule is that exclusions in
+        particular must be <strong>conspicuous, plain, and clear</strong> &mdash; a heightened
+        standard for the language an insurer uses to cut back the protection the policyholder
+        reasonably expected to be buying.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California also has strong{' '}

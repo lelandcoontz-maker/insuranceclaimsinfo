@@ -92,7 +92,8 @@ export default function Content() {
         court addressed the FAIR Plan&apos;s attempt to limit smoke-damage coverage to damage that
         was &ldquo;permanent physical change&rdquo; visible to the unaided eye. The court held that
         this restrictive policy language was more narrow than the coverage required by California
-        Insurance Code &sect; 2070 (the Standard Fire Policy) and therefore unenforceable. Following
+        Insurance Code &sect;&sect; 2070&ndash;2071 (the standard fire policy framework, with the
+        form text codified at &sect; 2071) and therefore unenforceable. Following
         <em>Aliff</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language
         that had been used to deny or minimize claims. The ruling has implications well beyond the
         FAIR Plan — any admitted California carrier that tries to impose similar &ldquo;visible
@@ -446,10 +447,12 @@ export default function Content() {
         <li>Carriers were not advising policyholders of their right to independent testing or their right to choose their own remediation contractor</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        These findings contributed to the passage of California&apos;s{' '}
-        <strong>Smoke Damage Recovery Act</strong>, which established that smoke damage is a
-        covered peril requiring proper investigation and that insurers cannot deny smoke claims
-        without scientific testing. The CDI&apos;s task force work also informed subsequent{' '}
+        These findings contributed to the introduction of California&apos;s proposed{' '}
+        <strong>Smoke Damage Recovery Act (AB 1795)</strong>, which would establish that smoke
+        damage is a covered peril requiring proper investigation and that insurers cannot deny
+        smoke claims without scientific testing. As of the date of this writing, AB 1795 remains
+        in the legislative process and has not been enacted. Readers should verify the
+        bill&rsquo;s current status before relying on its provisions. The CDI&apos;s task force work also informed subsequent{' '}
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">
           Fair Claims Settlement Practices
         </Link>{' '}

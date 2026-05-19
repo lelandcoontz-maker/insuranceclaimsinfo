@@ -30,13 +30,33 @@ export default function Content() {
         Insurance disagreed, and issued Bulletin 2025-7 to make that disagreement official.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The carriers were relying on a misreading of two recent court cases. The California Supreme
-        Court&apos;s 2024 decision in <em>Another Planet Entertainment v. Vigilant Insurance Co.</em>{' '}
-        actually confirmed that smoke damage <em>can</em> constitute covered &quot;direct physical
-        loss of or damage to&quot; property. The carriers then pointed to <em>Gharibian v. Wawanesa
-        General Insurance Co.</em> (2025) as support for blanket denials. But that case was
-        decided on its specific facts — the plaintiffs simply did not present enough evidence of
-        actual damage. It was not a ruling that smoke damage is never covered.
+        The carriers were relying on a misreading of two recent court cases. The California
+        Supreme Court&apos;s 2024 decision in <em>Another Planet Entertainment v. Vigilant
+        Insurance Co.</em> addressed COVID-19 business interruption coverage, not smoke damage
+        &mdash; but the standard the court adopted (&ldquo;distinct, demonstrable, physical
+        alteration of property&rdquo;) is the standard that applies to smoke damage too. And
+        smoke damage, unlike the theoretical viral presence at issue in <em>Another Planet</em>,
+        routinely satisfies that standard when soot deposition, particulate contamination, or
+        VOC absorption can be documented as a physical change to building materials. The case
+        did not &ldquo;confirm&rdquo; smoke damage is excluded, and it did not categorically
+        confirm it is included &mdash; but the framework it established is one that documented
+        smoke claims regularly meet. The carriers then pointed to <em>Gharibian v. Wawanesa
+        General Insurance Co.</em> (2025) 108 Cal.App.5th 730 (Cal. Ct. App., Second Dist.,
+        Div. 2) as support for blanket denials. But that case was decided on its specific
+        facts &mdash; the plaintiffs simply did not present enough evidence of actual damage.
+        It was not a ruling that smoke damage is never covered.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>Gharibian</em>&rsquo;s standing as binding authority has also been challenged.
+        United Policyholders and the Consumer Federation of America petitioned the California
+        Supreme Court for depublication (case no. S289700) on the grounds that the Court of
+        Appeal improperly analogized wildfire smoke to the COVID-19 virus and departed from
+        settled California direct-physical-loss doctrine. The request was effectively denied
+        &mdash; the opinion remains published &mdash; but denial of a depublication request
+        is not an endorsement of the underlying reasoning (Cal. Rules of Court 8.1125(d)),
+        and the California Department of Insurance&rsquo;s own bulletin treats{' '}
+        <em>Gharibian</em> and <em>Bottega, LLC v. National Surety Corp.</em> (N.D. Cal.
+        2025) as fact-specific decisions rather than as a categorical rule.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Department saw carriers using these cases to justify denial letters that said, in

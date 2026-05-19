@@ -161,7 +161,7 @@ export default function Content() {
         The ESX file is, by any reasonable interpretation, a claim-related document. It is the repair estimate itself &mdash; the PDF is merely a printout of it. Under &sect;2071, the insurer must provide copies of claim-related documents within fifteen calendar days of the policyholder&apos;s request.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Insurance Code &sect;2695.7(d) &mdash; Duty to Provide Documentation</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">10 CCR &sect;2695.7(d) &mdash; Duty to Provide Documentation</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s Fair Claims Settlement Practices Regulations, codified at Title 10, California Code of Regulations, Section 2695.7(d), impose additional obligations on insurers. These regulations require that every insurer that issues a written denial of a claim or part of a claim must provide the policyholder with the factual and legal bases for the denial. More broadly, the fair claims settlement framework requires insurers to conduct thorough and fair investigations, to provide policyholders with the documentation necessary to understand how the claim was evaluated, and to act in good faith throughout the process.

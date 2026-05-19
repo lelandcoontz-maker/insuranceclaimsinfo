@@ -682,9 +682,12 @@ export default function Content() {
           <strong>Wildfire exposure:</strong> Extended or guaranteed replacement cost is not
           optional for homeowners in or near the wildland-urban interface. Post-wildfire
           demand surge routinely pushes rebuilding costs 30% to 50% above pre-fire estimates.
-          California Insurance Code Section 10102 requires carriers to offer a replacement
-          cost coverage option on homeowners policies, but the details of that option &mdash;
-          extended vs. guaranteed, and at what percentage &mdash; vary by carrier.
+          California Insurance Code Section 10102 requires carriers to disclose the available
+          residential coverage types (ACV, replacement cost, extended replacement cost,
+          guaranteed replacement cost, and building code upgrade) and to obtain a written
+          acknowledgment of which the applicant selected &mdash; it does not mandate that any
+          particular option be offered. The actual mix of coverage types available, and the
+          extended-vs.-guaranteed percentages, vary by carrier.
         </li>
         <li>
           <strong>Earthquake risk:</strong> California is seismically active statewide, not

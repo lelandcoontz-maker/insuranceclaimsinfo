@@ -168,7 +168,7 @@ export default function Content() {
         CA Insurance Code and Landlord Policies
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;10082 requires that dwelling fire policies provide certain minimum coverages. The California Fair Claims Settlement Practices Regulations (10 CCR &sect;2695.1 et seq.) apply to all property insurance claims in California, including landlord dwelling fire policies. This means:
+        California Insurance Code &sect;&sect;2070-2071 govern the standard fire policy form (&sect;2070 requires policies to conform; &sect;2071 contains the actual form text including required coverages). The California Fair Claims Settlement Practices Regulations (10 CCR &sect;2695.1 et seq.) apply to all property insurance claims in California, including landlord dwelling fire policies. This means:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>The carrier must acknowledge receipt of the claim within 15 days (10 CCR &sect;2695.5(e)).</li>

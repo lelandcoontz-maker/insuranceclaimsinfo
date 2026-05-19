@@ -373,26 +373,27 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Reasonable Time Requirement: Insurance Code &sect; 2058
+        The Reasonable Time Requirement: &sect; 2071 Standard Fire Policy and the Fair Claims Regulations
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 2058 specifically addresses the insurer&apos;s obligation
-        when it elects to rebuild or repair. The statute provides that the insurer &quot;shall rebuild
-        or repair such building or structure or part thereof within a reasonable time.&quot; This is
-        not a vague aspiration &mdash; it is a statutory requirement that carries consequences if
-        violated.
+        California Insurance Code &sect; 2071 &mdash; the standard fire policy provisions
+        &mdash; gives the insurer the option to &ldquo;repair, rebuild, or replace the property
+        destroyed or damaged with other of like kind and quality within a reasonable time.&rdquo;
+        This is the statutory anchor for the reasonable-time requirement when the carrier elects
+        to repair. It is not a vague aspiration; it is statutory text that carries consequences
+        if violated.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        What constitutes a &quot;reasonable time&quot; depends on the circumstances: the extent of
-        the damage, the availability of materials and labor, and the complexity of the repair. But a
-        carrier that elects to repair and then allows months to pass before beginning work &mdash; or
-        allows the repair to drag on without justification &mdash; is exposing itself to claims of
-        breach and potentially bad faith. The Fair Claims Settlement Practices Regulations (10 CCR
-        &sect; 2695.7) also impose timing requirements on claims handling generally. When the carrier
-        has elected to repair, these timing obligations apply to the repair process itself, not just
-        to the initial claim determination.
+        What constitutes a &ldquo;reasonable time&rdquo; depends on the circumstances: the extent
+        of the damage, the availability of materials and labor, and the complexity of the repair.
+        But a carrier that elects to repair and then allows months to pass before beginning work
+        &mdash; or allows the repair to drag on without justification &mdash; is exposing itself
+        to claims of breach and potentially bad faith. The Fair Claims Settlement Practices
+        Regulations (10 CCR &sect; 2695.7) also impose timing requirements on claims handling
+        generally. When the carrier has elected to repair, these regulatory timing obligations
+        apply to the repair process itself, not just to the initial claim determination.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -954,7 +955,7 @@ export default function Content() {
         <li>
           A carrier that elects to repair and delivers a substandard result has not discharged its
           obligation. The carrier cannot walk away from a botched repair, and under Insurance Code
-          &sect; 2058, the repair must be completed within a reasonable time.
+          &sect; 2071, the repair must be completed within a reasonable time.
         </li>
         <li>
           California&apos;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.9)

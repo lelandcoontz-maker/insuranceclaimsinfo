@@ -390,19 +390,24 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          <strong>AB 2962 — Insurer must renew your policy during rebuild.</strong> After a total
-          loss from a declared disaster (where the loss was not due to your negligence), the
-          insurer must renew your homeowners policy at least once. They cannot cancel the policy
-          between renewal periods while you are rebuilding, except for fraud or misrepresentation.
-          At renewal, the insurer must consult with you and adjust coverage to reflect the changed
-          risk exposure during reconstruction.
+          <strong>Insurance Code &sect;675.1(a)(2)&ndash;(a)(3) &mdash; Insurer must renew your
+          policy during rebuild.</strong> After a total loss from a declared disaster (where the
+          loss was not due to your negligence), the insurer must renew your homeowners policy
+          for at least the next two annual renewal periods, but no less than 24 months of
+          coverage from the date of the loss (&sect;675.1(a)(3)). They cannot cancel the policy
+          between renewal periods while you are rebuilding, except for fraud or misrepresentation
+          (&sect;675.1(a)(2)). At renewal, the insurer must consult with you and adjust coverage
+          to reflect the changed risk exposure during reconstruction.
         </li>
         <li>
-          <strong>AB 2199 — Minimum rebuild period.</strong> For declared state-of-emergency
-          losses, you have a minimum 24-month period to repair, rebuild, or replace your home
-          (commencing from the actual cash value payment), with additional 6-month extensions if
-          you show good cause for delays. For non-catastrophic losses, the minimum is 12 months.
-          You may also rebuild or replace at a different location after a total loss.
+          <strong>Insurance Code &sect;2051.5(b)(1) (as amended by AB 1800, effective 2019)
+          &mdash; Minimum rebuild period.</strong> For declared state-of-emergency losses, you
+          have a minimum <strong>36-month</strong> period to repair, rebuild, or replace your
+          home (commencing from the first ACV payment), with mandatory additional 6-month
+          extensions for good cause where the insured, acting in good faith and with reasonable
+          diligence, encounters delays beyond their control. For non-catastrophic losses, the
+          minimum is 12 months. You may also rebuild or replace at a different location after a
+          total loss.
         </li>
         <li>
           <strong>SB 1855 — Underinsurance disclosure.</strong> Insurers must include a disclosure

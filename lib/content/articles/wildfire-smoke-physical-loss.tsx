@@ -82,22 +82,30 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The most significant California decision came in <em>Another Planet Entertainment, LLC v.
-        Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106. The California Supreme Court held that
-        &ldquo;direct physical loss of&rdquo; property requires a &ldquo;distinct, demonstrable,
-        physical alteration of property.&rdquo; The court rejected the pure &ldquo;loss of use&rdquo;
-        theory &mdash; meaning that the mere inability to use property due to a government order,
-        without any physical change to the property itself, does not trigger coverage.
+        Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106 (parallel cite 548 P.3d 303). The
+        California Supreme Court held that &ldquo;direct physical loss of&rdquo; property requires
+        a &ldquo;distinct, demonstrable, physical alteration of property.&rdquo; The court
+        rejected the pure &ldquo;loss of use&rdquo; theory &mdash; meaning that the mere
+        inability to use property due to a government order, without any physical change to the
+        property itself, does not trigger coverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        But the court was careful to define what it meant. The &ldquo;physical alteration&rdquo;
-        requirement is not the same as requiring structural damage. The court acknowledged that
-        contamination can constitute a physical alteration. The opinion specifically distinguished
-        situations involving actual physical substances &mdash; such as toxic gases, hazardous
-        particles, and environmental contaminants &mdash; from the mere theoretical presence of a
-        virus. Attorneys at Hunton Andrews Kurth and Anderson Kill have both analyzed this
-        distinction extensively, noting that <em>Another Planet</em> actually preserved the
-        contamination-based theory of physical loss while rejecting the government-order-only
-        theory.
+        Two features of the opinion matter for wildfire smoke claims. First, the court was
+        careful to define what it meant. The &ldquo;physical alteration&rdquo; requirement is
+        not the same as requiring structural damage. The court acknowledged that contamination
+        can constitute a physical alteration, and the opinion specifically distinguished
+        situations involving actual physical substances &mdash; toxic gases, hazardous
+        particles, and environmental contaminants &mdash; from the mere theoretical presence of
+        a virus. Second, the court was explicit that its holding was narrow:{' '}
+        <em>&ldquo;[W]e cannot and do not decide whether the COVID-19 virus can ever constitute
+        direct physical loss or damage to property.&rdquo;</em> The opinion is therefore a
+        holding that <em>these particular allegations</em> failed to plead physical alteration,
+        not a categorical rule that contamination cannot satisfy the standard. Attorneys at
+        Hunton Andrews Kurth and Anderson Kill have both analyzed this distinction extensively,
+        noting that <em>Another Planet</em> preserved the contamination-based theory of physical
+        loss while rejecting the government-order-only theory. Opposing counsel will sometimes
+        invoke the court&rsquo;s reservation against COVID virus claims as if it sweeps more
+        broadly; it does not.
       </p>
 
       <CalloutBox variant="legal" title="Key Legal Distinction">
@@ -115,12 +123,41 @@ export default function Content() {
         <em>Gharibian v. Wawanesa</em>: What It Does and Does Not Hold
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurers have seized on <em>Gharibian v. Wawanesa General Insurance Co.</em> (2025) as
-        authority for blanket smoke damage denials. In <em>Gharibian</em>, the court ruled against
-        the policyholder &mdash; but on very specific factual grounds. The claimant in that case
-        did not present sufficient evidence of actual physical contamination. The court did not hold
-        that smoke damage can never constitute direct physical loss. It held that <em>this
-        particular claimant</em> failed to demonstrate it with adequate evidence.
+        Insurers have seized on <em>Gharibian v. Wawanesa General Insurance Co.</em> (2025)
+        108 Cal.App.5th 730 as authority for blanket smoke damage denials. In{' '}
+        <em>Gharibian</em>, the California Court of Appeal (Second District, Division 2) ruled
+        against the policyholder &mdash; but on very specific factual grounds. The Granada
+        Hills home suffered soot, ash, and fire debris contamination from the 2019 Saddle
+        Ridge Fire. Critically, the plaintiffs&rsquo; own industrial hygienist (L.Y.
+        Environmental) testified that soot by itself does not physically damage a structure
+        and that the home could be fully cleaned by wiping surfaces, HEPA vacuuming, and
+        power-washing the outside. The insurer had paid over $20,000 for professional
+        cleaning services that the plaintiffs never used. Applying <em>Another Planet</em>,
+        the court held that this debris did not alter the property in a lasting and
+        persistent manner and was easily cleaned or removed. The court did not hold that
+        smoke damage can never constitute direct physical loss. It held that <em>this
+        particular claimant</em> failed to demonstrate lasting and persistent physical
+        alteration on the record before the court.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The precedential weight of <em>Gharibian</em> has itself been contested. The
+        California policyholder bar &mdash; through United Policyholders, in partnership with
+        the Consumer Federation of America &mdash; petitioned the California Supreme Court
+        for depublication of the opinion (case no. S289700) on the grounds that the Court of
+        Appeal misconstrued long-settled California law that a peril causes &ldquo;direct
+        physical loss or damage&rdquo; when it changes the surface of the property and
+        renders the property hazardous or unusable, and that the Court of Appeal improperly
+        analogized wildfire smoke to the COVID-19 virus at issue in <em>Another Planet</em>.
+        The depublication request was effectively denied; the opinion remains published and
+        citable as 108 Cal.App.5th 730. But denial of a depublication request is not an
+        expression of the California Supreme Court&rsquo;s agreement with the result or the
+        reasoning of the underlying opinion (Cal. Rules of Court 8.1125(d)), and modern
+        depublication denials cannot be read as merits endorsement because the Court denies
+        essentially all such requests as a matter of routine practice. The depublication
+        record is itself useful evidence that the consumer-side bar views <em>Gharibian</em>
+        as wrongly decided, even if the case remains citable. Insurer counsel relying on{' '}
+        <em>Gharibian</em> as if it were a settled doctrinal anchor for denying smoke claims
+        is overreading both the opinion and its precedential reception.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Department of Insurance recognized the danger of carriers misreading
@@ -196,6 +233,36 @@ export default function Content() {
           Planet</em>.
         </p>
       </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Federal courts in California have begun to treat the wildfire-smoke distinction
+        expressly. In <em>Bottega, LLC v. National Surety Corp.</em>, No. 21-cv-03614-JSC,
+        2025 U.S. Dist. LEXIS 5666 (N.D. Cal. Jan. 10, 2025), Judge Jacqueline Scott Corley
+        denied an insurer&rsquo;s motion for summary judgment in a business-income dispute
+        arising from the 2017 North Bay Fires. The defendant insurer had made admissions
+        during discovery &mdash; including that the fires caused smoke, soot, and ash damage
+        and direct physical loss and damage to the insured locations &mdash; which the court
+        held conclusively established physical loss or damage. <em>Bottega</em> is the
+        strongest federal-court authority in California for the proposition that documented
+        smoke contamination meets the direct-physical-loss requirement under a property
+        policy with COVID-era language. Judge Corley distinguished the COVID line of cases by
+        analogizing smoke to asbestos and other contaminants that physically alter property,
+        rather than to a virus that can be removed through cleaning, and cited{' '}
+        <em>Inns-by-the-Sea v. California Mutual Insurance Co.</em> (2021) 71 Cal.App.5th 688
+        for the proposition that contamination of a structure that seriously impairs or
+        destroys its function may qualify as direct physical loss.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A wildfire-smoke claim built on documented soot deposition, embedded volatile organic
+        compounds, and HVAC contamination is structurally the kind of fact pattern{' '}
+        <em>Another Planet</em> preserves coverage for &mdash; and <em>Bottega</em> is the
+        case that operationalizes that distinction at the trial-court level. The only issue
+        Judge Corley sent to the jury was causation: whether the policyholder&rsquo;s closure
+        on October 9, 2017 was caused by the smoke damage or by other factors (lack of
+        customers, staffing shortages, general post-fire disorder). Even with documented
+        physical damage, the policyholder still bears the burden of proving the
+        loss-of-business-income causation chain.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Pre-COVID Foundation: Contamination as Physical Loss

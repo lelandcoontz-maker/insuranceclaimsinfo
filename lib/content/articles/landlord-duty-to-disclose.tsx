@@ -360,9 +360,10 @@ export default function Content() {
         <li>
           <strong>Breach of the implied covenant of good faith and fair dealing:</strong>
           Every California contract includes an implied covenant of good faith and fair
-          dealing (Cal. Civ. Code &sect;1654 and common law). A landlord who conceals known
-          defects that undermine the tenant&rsquo;s ability to benefit from the lease may
-          breach this covenant.
+          dealing &mdash; a long-standing common-law doctrine (it is not codified at Civil
+          Code &sect;1654, which addresses contract ambiguity construction). A landlord who
+          conceals known defects that undermine the tenant&rsquo;s ability to benefit from the
+          lease may breach this covenant.
         </li>
         <li>
           <strong>Negligent maintenance:</strong> Independent of disclosure, a landlord who
