@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Games Insurers Play: Musical Chairs With Adjusters — The Hidden Cost of Constant Reassignment',
   description:
-    'On long-duration California claims — particularly urban wildfire smoke claims — it is not unusual for ten or more adjusters to cycle through a single file over a year or more. Each reassignment resets context, drops continuity, repeats document requests, and pushes back the resolution date. California has specific statutory remedies: Insurance Code § 2071 requires a written status report when three or more adjusters are assigned to a single property claim within a six-month period, and Insurance Code § 14047 (added by SB 240) layers an additional primary-point-of-contact requirement on top for residential claims arising from a declared state of emergency. Most policyholders never hear about either rule, and most carriers never invoke them voluntarily.',
+    'On long-duration California claims — particularly urban wildfire smoke claims — it is not unusual for ten or more adjusters to cycle through a single file over a year or more. Each reassignment resets context, drops continuity, repeats document requests, and pushes back the resolution date. California has specific statutory remedies: Insurance Code § 2071 requires a written status report when three or more adjusters are assigned to a single property claim within a six-month period, and Insurance Code § 14047 (added by SB 240 in 2019) layers an additional primary-point-of-contact requirement on top for residential claims arising from a declared state of emergency. Most policyholders never hear about either rule, and most carriers never invoke them voluntarily.',
 }
 
 export default function Content() {
@@ -54,7 +54,7 @@ export default function Content() {
           structures or contents, the retention or consultation of design or construction
           professionals, the amount of coverage, and all items of dispute.
           <strong> California Insurance Code section 14047</strong>, added by SB 240
-          (Dodd, 2019) and effective October 3, 2019, layers an additional requirement on
+          (Dodd, 2019), layers an additional requirement on
           top of section 2071 for claims arising from a declared state of emergency: in
           those cases, the insurer must also establish a primary point of contact for the
           insured and provide one or more direct means of communication with that point of

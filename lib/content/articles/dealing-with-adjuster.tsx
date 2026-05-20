@@ -323,7 +323,7 @@ export default function Content() {
       <CalloutBox variant="legal" title="California Law on Adjuster Reassignment (Emergency Claims)">
         <p>
           Under California Insurance Code Section 14047 (added by SB 240 in 2019, Stats. 2019,
-          Ch. 502, effective October 3, 2019), if a third or subsequent adjuster is assigned to a{' '}
+          Ch. 502), if a third or subsequent adjuster is assigned to a{' '}
           <em>residential property claim arising from a declared state of emergency</em> within a
           six-month period, the insurer must, in a timely manner, provide the policyholder with a
           written status report. This report must include the current status of the claim and a

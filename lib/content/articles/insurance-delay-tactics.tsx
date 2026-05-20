@@ -46,7 +46,7 @@ export default function Content() {
         hearings, a homeowner testified that after more than 120 days and multiple personnel changes,
         the insurer had not begun repairs and was refusing to reimburse living expenses &mdash; despite the
         county declaring the home unsafe. Under California Insurance Code Section 14047 (enacted by
-        SB 240, effective January 1, 2020), when a <em>residential property claim arising from a
+        SB 240 in 2019), when a <em>residential property claim arising from a
         declared state of emergency</em> has had three or more adjusters assigned within a six-month
         period, the policyholder can request a special written status report from the insurance
         company. Note that this requirement applies specifically to emergency-declared losses, not to
