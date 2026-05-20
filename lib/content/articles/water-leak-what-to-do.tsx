@@ -54,7 +54,7 @@ export default function Content() {
         a water extraction or emergency services company) will extract standing water, set up
         industrial dehumidifiers and air movers, and monitor moisture levels until materials reach
         acceptable dryness. This is called{' '}
-        <Link href="/resources/mitigation" className="text-[#2E74B5] hover:underline">mitigation</Link>{' '}
+        <Link href="/resources/duties-after-loss" className="text-[#2E74B5] hover:underline">mitigation</Link>{' '}
         — your contractual duty to prevent further damage.
       </p>
 
@@ -178,7 +178,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Most California homeowner policies either exclude mold entirely or cap coverage at $5,000 to
         $10,000. If your water loss turns into a{' '}
-        <Link href="/resources/mold-claims" className="text-[#2E74B5] hover:underline">mold claim</Link>,
+        <Link href="/resources/mold-losses" className="text-[#2E74B5] hover:underline">mold claim</Link>,
         you may face remediation costs of $20,000 to $100,000 with minimal coverage. The solution is
         aggressive, immediate drying. Get air movers and dehumidifiers running within hours, not days.
       </p>

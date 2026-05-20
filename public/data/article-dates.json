@@ -863,6 +863,10 @@
     "published": "2026-05-02",
     "modified": "2026-05-02"
   },
+  "games-insurers-play-adjuster-musical-chairs": {
+    "published": "2026-05-19",
+    "modified": "2026-05-19"
+  },
   "games-insurers-play-claims-process-grief": {
     "published": "2026-05-16",
     "modified": "2026-05-16"
@@ -870,6 +874,10 @@
   "games-insurers-play-documentation-loop": {
     "published": "2026-05-03",
     "modified": "2026-05-04"
+  },
+  "games-insurers-play-expert-capture": {
+    "published": "2026-05-19",
+    "modified": "2026-05-19"
   },
   "games-insurers-play-preferred-vendor": {
     "published": "2026-05-03",
@@ -1049,7 +1057,7 @@
   },
   "insurance-delay-tactics": {
     "published": "2026-04-04",
-    "modified": "2026-05-01"
+    "modified": "2026-05-19"
   },
   "insurance-marketing-vs-reality": {
     "published": "2026-05-02",

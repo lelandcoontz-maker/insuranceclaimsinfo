@@ -120,7 +120,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This means your{' '}
-        <Link href="/resources/smoke-damage" className="text-[#2E74B5] hover:underline">smoke damage</Link>{' '}
+        <Link href="/resources/smoke-damage-claims" className="text-[#2E74B5] hover:underline">smoke damage</Link>{' '}
         claim often extends far beyond the rooms that actually burned. Professional smoke testing
         (using chem-sponges, tape lifts, or laboratory analysis) can document contamination in areas
         that look clean to the naked eye. Do not let the adjuster dismiss rooms as &ldquo;unaffected&rdquo;
@@ -271,7 +271,7 @@ export default function Content() {
         and consultants working on your file. You deserve representation too. A public adjuster
         works exclusively for you — they prepare the claim, negotiate with the insurer, and ensure
         every covered dollar is recovered. For a{' '}
-        <Link href="/resources/fire-claims" className="text-[#2E74B5] hover:underline">fire claim</Link>,
+        <Link href="/resources/fire-claim-denied" className="text-[#2E74B5] hover:underline">fire claim</Link>,
         professional help often pays for itself many times over. If you suspect bad faith — unreasonable
         delays, lowball offers, or improper denials — consult an insurance coverage attorney as well.
         You do not have to navigate this alone.

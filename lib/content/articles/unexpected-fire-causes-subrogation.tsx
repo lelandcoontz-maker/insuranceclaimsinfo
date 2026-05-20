@@ -770,7 +770,7 @@ export default function Content() {
         homeowner didn&rsquo;t do it.&rdquo; It means the investigator couldn&rsquo;t figure it out.
         But in the insurance world, an undetermined fire origin often triggers additional scrutiny
         &mdash;{' '}
-        <Link href="/resources/euo-guide" className="text-[#2E74B5] underline">
+        <Link href="/resources/examination-under-oath" className="text-[#2E74B5] underline">
           Examination Under Oath
         </Link>{' '}
         requests, Special Investigation Unit referrals, and delays that can stretch a claim out for

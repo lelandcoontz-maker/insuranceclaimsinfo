@@ -1,8 +1,8 @@
 # InsuranceClaimsInfo.com — Full Article Index
-# 547 articles on California property insurance claims
+# 544 articles on California property insurance claims
 # Author: Leland Coontz III, Licensed Public Adjuster (CA #2B53445)
 # Site: https://insuranceclaimsinfo.com
-# Generated: 2026-05-17
+# Generated: 2026-05-20
 
 ---
 
@@ -14,9 +14,9 @@ Summary: A comprehensive state-by-state guide to the law on overhead and profit 
 URL: https://insuranceclaimsinfo.com/resources/ab-1642-claims-timeline
 Summary: California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. AB 1642 and the California Insurance Code establish specific timelines that policyholders can enforce.
 
-## AB 597: New Public Adjuster Regulations in California
+## AB 597 (Pending): Proposed Public Adjuster Regulations in California
 URL: https://insuranceclaimsinfo.com/resources/ab-597-public-adjuster-regulations
-Summary: California AB 597 strengthens public adjuster regulations with new contract requirements, fee prohibitions, solicitation rules, and extended cancellation rights during emergencies.
+Summary: California AB 597 is a pending bill that would cap public adjuster fees at 15% for catastrophic-disaster claims and impose new contract and solicitation requirements. Currently held in Senate Appropriations as of August 2025.
 
 ## Accidental Discharge or Overflow: The Most Important Water Damage Peril in Your Policy
 URL: https://insuranceclaimsinfo.com/resources/accidental-discharge-overflow
@@ -462,10 +462,6 @@ Summary: A detailed guide to the most common errors and omissions in insurance c
 URL: https://insuranceclaimsinfo.com/resources/commonly-missed-items
 Summary: A comprehensive checklist of items that adjusters and estimators routinely overlook on total loss and large property insurance claims. From low-voltage wiring and light bulbs to scribe moldings and pressure-treated sole plates — if it's not in the estimate, you're not getting paid for it.
 
-## Community Property and Insurance Proceeds in California: Who Owns the Claim Money?
-URL: https://insuranceclaimsinfo.com/resources/community-property-insurance-proceeds
-Summary: California community property law directly affects who owns insurance proceeds after a loss. Learn how Family Code 760 applies to insurance claims, what happens when one spouse is on the mortgage and the other is the named insured, and how to protect your rights during separation, divorce, or disputed claims.
-
 ## Condo and HOA Insurance Claims: Master Policy, HO-6, and the Coverage Gap Nobody Explains
 URL: https://insuranceclaimsinfo.com/resources/condo-hoa-claims
 Summary: Two policies cover your condo — the HOA master policy and your HO-6. Learn how CC&Rs determine who pays for what, the tenant improvement trap, and what to do when the HOA refuses to act.
@@ -473,10 +469,6 @@ Summary: Two policies cover your condo — the HOA master policy and your HO-6. 
 ## Consequential Damages vs. Ensuing Damages: Two Different Concepts That Sound Alike
 URL: https://insuranceclaimsinfo.com/resources/consequential-vs-ensuing-damages
 Summary: Consequential damages and ensuing damages are fundamentally different insurance concepts that operate at different stages of a claim. Ensuing damage is a coverage question found in the policy. Consequential damages are a remedy for the insurer's wrongful conduct. Understanding the difference helps you make the right argument at the right time.
-
-## Conservatorship and Insurance Claims: Managing a Claim When There Is No Power of Attorney
-URL: https://insuranceclaimsinfo.com/resources/conservatorship-insurance-claims
-Summary: When a policyholder becomes incapacitated without a power of attorney, a conservatorship may be the only legal path to manage their insurance claim. Learn about the California conservatorship process, the conservator's authority over insurance matters, court approval requirements, and how to protect the claim while the court process is pending.
 
 ## Construction Company Insurance Claims: Builder’s Risk, Tools on the Job Site, and the CGL Boundary
 URL: https://insuranceclaimsinfo.com/resources/construction-company-insurance-claims
@@ -638,9 +630,9 @@ Summary: How to prepare for a disaster before it happens — pre-loss documentat
 URL: https://insuranceclaimsinfo.com/resources/discovery-insurance-litigation
 Summary: How discovery works in insurance lawsuits, what documents and electronic records policyholders can demand, how to obtain the carrier’s claims file, and the landmark Colonial Life case allowing pattern-and-practice discovery of other claim files.
 
-## Divorce, Separation, and Insurance Claims: Protecting Your Coverage When Your Marriage Ends
+## Marital Property and Insurance Claims in California: Divorce, Separation, Community Property, and Spousal Authority
 URL: https://insuranceclaimsinfo.com/resources/divorce-separation-insurance-claims
-Summary: When divorce or separation collides with a pending insurance claim, the results can be devastating. Learn who has authority to file and settle claims during separation, how the innocent co-insured doctrine protects you from spousal arson, what happens to community property insurance proceeds, and practical steps to prevent your claim from falling through the cracks.
+Summary: A comprehensive guide to the California rules that govern insurance claims on marital property — community property and separate property, the mortgage/named-insured mismatch, the innocent co-insured doctrine and spousal arson, what happens when the named insured dies, the rights of domestic partners and unmarried couples, and the practical steps to keep a claim alive when a marriage is ending.
 
 ## Do I Need a Lawyer for My Insurance Claim?
 URL: https://insuranceclaimsinfo.com/resources/do-i-need-a-lawyer
@@ -878,6 +870,10 @@ Summary: If your lender makes a full credit bid at a California foreclosure sale
 URL: https://insuranceclaimsinfo.com/resources/functional-replacement-cost
 Summary: Functional replacement cost policies let insurers substitute cheaper materials that serve the same 
 
+## Games Insurers Play: Musical Chairs With Adjusters — The Hidden Cost of Constant Reassignment
+URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-adjuster-musical-chairs
+Summary: On long-duration California claims — particularly urban wildfire smoke claims — it is not unusual for ten or more adjusters to cycle through a single file over a year or more. Each reassignment resets context, drops continuity, repeats document requests, and pushes back the resolution date. California has a specific regulatory remedy: 10 CCR 2695.7(c) requires a written status report when three or more adjusters are assigned within a six-month period. Most policyholders never hear about the rule, and most adjusters never invoke it.
+
 ## Games Insurers Play: When the Claims Process Meets the Worst Day of Your Life
 URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-claims-process-grief
 Summary: How the insurance claims machine produces outcomes that compound trauma — not through malice, but through a system that wasn
@@ -885,6 +881,10 @@ Summary: How the insurance claims machine produces outcomes that compound trauma
 ## Games Insurers Play: The ‘We Need More Documentation’ Endless Loop
 URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-documentation-loop
 Summary: How insurance companies use endless documentation requests as a delay tactic — requesting the same information repeatedly, asking for items one at a time, and wearing you down until you accept less.
+
+## Games Insurers Play: How Carriers Capture, Limit, and Selectively Disclose Their Own Experts
+URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-expert-capture
+Summary: Insurance companies retain 
 
 ## Games Insurers Play: The ‘Preferred Vendor’ Steering Game
 URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-preferred-vendor
@@ -929,6 +929,10 @@ Summary: Haag Engineering research establishes the minimum hail sizes needed to 
 ## What Hailstone Research Tells Us About Insurance Claims
 URL: https://insuranceclaimsinfo.com/resources/hailstone-damage-research
 Summary: IBHS research on 2,500+ hailstones proves hail damage is far more complex than insurers claim. Real hailstones are not perfect spheres, maximum sizes far exceed the average, and lab tests overstate impact force.
+
+## Hiring an Attorney Just for Your EUO: Limited-Scope Engagement, Costs, and What Happens in the Room
+URL: https://insuranceclaimsinfo.com/resources/hiring-attorney-for-euo
+Summary: When your insurance company demands an Examination Under Oath, you almost certainly need an attorney with you — but not necessarily a contingency-fee attorney for the entire claim. Limited-scope EUO representation in Southern California typically runs a few thousand dollars for prep, the examination itself, and a debrief. Here is how it works, how to prepare like you would for a deposition, what your attorney can and cannot do in the room, and the strategic moves — including producing evidence on the record — that protect your claim.
 
 ## Historic and Heritage Home Insurance Claims: When Standard Replacement Cost Falls Short
 URL: https://insuranceclaimsinfo.com/resources/historic-heritage-home-claims
@@ -1078,10 +1082,6 @@ Summary: Common property insurance myths debunked with California case law, stat
 URL: https://insuranceclaimsinfo.com/resources/insurance-offer-now-what
 Summary: How to evaluate your insurance settlement offer, understand your options, and decide whether to accept, negotiate, or dispute the amount.
 
-## Insurance for Properties in Probate: Protecting Estate Assets Between Death and Distribution
-URL: https://insuranceclaimsinfo.com/resources/insurance-properties-probate
-Summary: When a homeowner dies, their property enters legal limbo during probate. Learn how the 30-day death clause works, what insurance options executors have, and how to prevent catastrophic coverage gaps on estate property in California.
-
 ## Insurer Antitrust Concerns and the FAIR Plan: When Market Withdrawal Looks Coordinated
 URL: https://insuranceclaimsinfo.com/resources/insurer-antitrust-fair-plan
 Summary: When major insurers simultaneously withdraw from California, the FAIR Plan becomes the insurer of last resort for millions. The pattern raises serious antitrust questions that policyholders and regulators should understand.
@@ -1134,10 +1134,6 @@ Summary: Understanding the insurance carrier
 URL: https://insuranceclaimsinfo.com/resources/insurer-reformation-policy
 Summary: How insurance companies attempt to use the legal doctrine of reformation to reduce coverage after a loss has occurred. Covers mutual mistake claims, the high burden of proof, California case law, the distinction from rescission, and how policyholders can fight back.
 
-## Insuring Inherited Property: The Dangerous Gap That Leaves Families Exposed
-URL: https://insuranceclaimsinfo.com/resources/insuring-inherited-property
-Summary: When a parent dies and children inherit the home, the homeowner policy does NOT automatically transfer. Most families have no idea they are uninsured. Learn about the 30-day death clause, the probate gap, insurable interest for heirs, and the critical steps to take immediately after a parent dies.
-
 ## Inverse Condemnation: Suing Utilities After a California Wildfire
 URL: https://insuranceclaimsinfo.com/resources/inverse-condemnation
 Summary: When a utility causes a wildfire, you may have a claim beyond your insurance policy. Learn how inverse condemnation works in California — strict liability, damages, and how it differs from negligence.
@@ -1170,6 +1166,10 @@ Summary: A growing number of states have ruled that insurance companies cannot d
 URL: https://insuranceclaimsinfo.com/resources/labor-depreciation-debate
 Summary: A comprehensive analysis of the labor depreciation debate in insurance claims. Can a service physically deteriorate? States are increasingly saying no. Learn the case law, the arguments, California's position, and how to challenge labor depreciation on your claim.
 
+## Drug Contamination Claims for California Landlords: Meth Labs, Fentanyl, Grow Operations, and the Insurance Path to Recovery
+URL: https://insuranceclaimsinfo.com/resources/landlord-drug-contamination-claims
+Summary: When a tenant turns your rental property into a meth lab, a fentanyl-handling site, or an illegal cannabis grow operation, the cost to remediate routinely exceeds five figures and sometimes six. The path to insurance coverage runs through vandalism coverage, the innocent-landlord doctrine, and California’s Methamphetamine Contaminated Properties Cleanup Act. Here is how the analysis works, what an industrial hygienist actually does in these claims, what disclosure obligations attach going forward, and how to keep the carrier from defaulting to denial.
+
 ## Landlord's Duty to Disclose Building Conditions to Commercial Tenants
 URL: https://insuranceclaimsinfo.com/resources/landlord-duty-to-disclose
 Summary: Asbestos, lead paint, mold history, prior water damage, roof age — what California landlords must disclose to commercial tenants, and how failure to disclose affects insurance claims and negligence actions.
@@ -1193,10 +1193,6 @@ Summary: How insurers use late notice defenses to deny claims, California's noti
 ## The Lender’s Loss Payable Endorsement: Why the Mortgage Company’s Name Is on Your Insurance Check
 URL: https://insuranceclaimsinfo.com/resources/lenders-loss-payable-endorsement
 Summary: The lender’s loss payable endorsement gives your mortgage company powerful rights over your insurance claim proceeds. Understanding what those rights are — and what they are not — is the first step to getting your money.
-
-## Life Estates and Remainder Interests: Who Insures What and Who Collects on a Claim?
-URL: https://insuranceclaimsinfo.com/resources/life-estate-remainder-insurance
-Summary: When a parent keeps a life estate and deeds the remainder to children, both parties have insurable interests — but they are different interests. Learn who should be on the policy, what happens when only one party is listed, how to handle claim disputes between life tenants and remaindermen, and practical steps to properly insure property subject to a life estate in California.
 
 ## Lightning Damage Insurance Claims: What Homeowners Need to Know
 URL: https://insuranceclaimsinfo.com/resources/lightning-damage
@@ -1252,11 +1248,7 @@ Summary: What happens when your insurance company cannot restore your home to pr
 
 ## Material Misrepresentation vs. Innocent Nondisclosure: When Your Insurer Tries to Void Your Policy for What You Didn’t Say
 URL: https://insuranceclaimsinfo.com/resources/material-misrepresentation-nondisclosure
-Summary: The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 331, 359, and 2071 standards, the materiality test, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders.
-
-## Medicaid Estate Recovery and Insurance Proceeds: The Collision That Can Wipe Out a Family Home
-URL: https://insuranceclaimsinfo.com/resources/medicaid-estate-recovery-insurance
-Summary: When a nursing home resident on Medicaid dies and their home has an insurance claim, the state may seize the insurance proceeds to recover the cost of care. Learn how federal and California Medi-Cal estate recovery laws interact with homeowner insurance claims, why timing matters enormously, and how families can protect themselves before it is too late.
+Summary: The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 330 (concealment defined), 331 (rescission), 332 (duty to disclose), 334 (materiality test), 359 (misrepresentation), and 2071 (standard fire policy) standards, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders.
 
 ## Medical and Dental Office Insurance Claims: Equipment, Contamination, and the Patient Retention Problem
 URL: https://insuranceclaimsinfo.com/resources/medical-dental-office-insurance-claims
@@ -1390,6 +1382,10 @@ Summary: When workplace safety regulations and building codes force upgrades dur
 URL: https://insuranceclaimsinfo.com/resources/overhead-and-profit
 Summary: Insurance companies routinely refuse to include overhead and profit in their estimates. Learn what O&P is, when you're entitled to it, and how to fight for it.
 
+## Ownership and Authority in Insurance Claims: Non-Standard Property Situations
+URL: https://insuranceclaimsinfo.com/resources/ownership-and-authority-in-claims
+Summary: When property ownership is non-standard — a Medicaid/Medi-Cal recipient on the title, a life estate, probate-pending status, inherited property — coverage defenses multiply and authority over the claim gets murky. The comprehensive guide to navigating the intersection of property ownership, estate law, and California insurance claims.
+
 ## Pack-Out, Storage, and Cleaning of Personal Property: What Your Insurance Company Should Be Paying For
 URL: https://insuranceclaimsinfo.com/resources/packout-storage-process
 Summary: A practical guide to the pack-out, storage, and cleaning process during an insurance claim. Covers your right to take cash instead of services, proper pack-out procedures, storage levels, items commonly damaged during the process, and California-specific regulations.
@@ -1409,10 +1405,6 @@ Summary: How parametric insurance works for commercial properties, including tri
 ## Peak Season Endorsement: Protecting Seasonal Inventory Spikes That Standard Limits Miss
 URL: https://insuranceclaimsinfo.com/resources/peak-season-endorsement
 Summary: How the ISO CP 12 11 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.
-
-## Pending Insurance Claims When the Policyholder Dies: What Happens Next
-URL: https://insuranceclaimsinfo.com/resources/pending-claim-policyholder-dies
-Summary: When the named insured dies with an active insurance claim, the claim does not die with them. Learn who has standing to continue the claim, what deadlines keep running, and how to prevent the insurer from using the death to undermine the recovery.
 
 ## Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?
 URL: https://insuranceclaimsinfo.com/resources/period-of-restoration-disputes
@@ -1456,7 +1448,7 @@ Summary: A California court ruled the FAIR Plan's fire policy
 
 ## What Happens to Your Insurance If the Policyholder Dies?
 URL: https://insuranceclaimsinfo.com/resources/policyholder-death-coverage
-Summary: When the named insured dies before or during a claim, insurers sometimes deny coverage to surviving family members. Learn how the Death clause, insurable interest, and trust ownership affect your rights.
+Summary: When the named insured dies — before or during a claim — coverage does not die with them. The Death clause, insurable interest, survival of causes of action, and the rules for who can continue the claim, all explained.
 
 ## Your Rights as a California Policyholder
 URL: https://insuranceclaimsinfo.com/resources/policyholder-rights
@@ -1478,9 +1470,9 @@ Summary: How swimming pools and spas are covered under homeowners insurance in C
 URL: https://insuranceclaimsinfo.com/resources/post-disaster-scams
 Summary: After a disaster, scammers target vulnerable homeowners. Learn how to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other common scams — and how to protect yourself.
 
-## Power of Attorney and Insurance Claims: Protecting an Incapacitated Policyholder’s Rights
+## Power of Attorney and Conservatorship in Insurance Claims: Managing the Claim of an Incapacitated Policyholder
 URL: https://insuranceclaimsinfo.com/resources/power-of-attorney-insurance-claims
-Summary: When a policyholder becomes incapacitated, a Power of Attorney may be the only way to file a claim, negotiate with adjusters, sign a proof of loss, or invoke appraisal. Learn how durable POA works in insurance claims, how insurers resist it, and what families should do before incapacity strikes.
+Summary: When a policyholder becomes incapacitated, someone else must take over the claim — either through a previously executed Power of Attorney or, if no POA exists, through a court-supervised conservatorship. The full guide to both paths: how durable POA works in insurance claims, what conservatorship requires under California Probate Code, how insurers resist each, and what families should do before incapacity strikes.
 
 ## Pre-Existing Damage vs. Storm Damage: Fighting the 
 URL: https://insuranceclaimsinfo.com/resources/pre-existing-vs-storm-damage
@@ -1510,9 +1502,9 @@ Summary: Everything you need to know about the sworn proof of loss form, includi
 URL: https://insuranceclaimsinfo.com/resources/proof-of-loss-signing-strategy
 Summary: A proof of loss is a sworn statement that can lock you into the carrier
 
-## Insurance Coverage When Property Is Held in a Trust
+## Trust-Owned Property and Insurance Claims: When the Named Insured Doesn’t Match the Trust
 URL: https://insuranceclaimsinfo.com/resources/property-held-in-trust-coverage
-Summary: How holding property in a trust creates named insured problems, insurable interest complications, and claim handling disputes — and what policyholders can do to avoid coverage gaps.
+Summary: Millions of California homes are held in revocable living trusts but insured in the individual’s name. This mismatch creates coverage disputes that insurers exploit to delay or deny claims. Learn how to properly insure trust-owned property, what to do after a loss, and the legal arguments — Probate Code §§ 15800 and 18100.5, Insurance Code § 281, estoppel, waiver, and bad faith — that protect policyholders.
 
 ## Protective Safeguards Endorsements: When a Lapsed Alarm Voids Your Entire Policy
 URL: https://insuranceclaimsinfo.com/resources/protective-safeguards
@@ -1524,7 +1516,7 @@ Summary: Understand what a Public Adjuster does, how their fees work, when to hi
 
 ## Public Adjuster Fees — What They Cost and When They're Worth It
 URL: https://insuranceclaimsinfo.com/resources/public-adjuster-fees
-Summary: How Public Adjuster fees work in California — contingency percentages, the disaster fee cap, when hiring a PA is worth it, and questions to ask before signing.
+Summary: How Public Adjuster fees work in California — contingency percentages, the statutory framework under §15027.5, when hiring a PA is worth it, and questions to ask before signing.
 
 ## Punitive Damages in California Insurance Bad Faith Cases
 URL: https://insuranceclaimsinfo.com/resources/punitive-damages-bad-faith
@@ -1957,10 +1949,6 @@ Summary: Insurance carriers routinely claim their claims handling manuals and tr
 ## Tree and Falling Object Damage Insurance Claims
 URL: https://insuranceclaimsinfo.com/resources/tree-falling-object-damage
 Summary: How homeowners insurance covers tree damage, falling objects, branch impacts, and debris removal — who pays, coverage limits, carrier tactics, and how to maximize your claim.
-
-## Trust-Owned Property and Insurance Claims: When the Named Insured Doesn’t Match the Trust
-URL: https://insuranceclaimsinfo.com/resources/trust-owned-property-insurance
-Summary: Millions of California homes are held in revocable living trusts but insured in the individual’s name. This mismatch creates coverage disputes that insurers exploit to delay or deny claims. Learn how to properly insure trust-owned property, what to do after a loss, and the legal arguments that protect policyholders.
 
 ## Unattended Death Insurance Claims: What Families and Property Owners Need to Know
 URL: https://insuranceclaimsinfo.com/resources/unattended-death-claims
