@@ -296,6 +296,18 @@ export default function Content() {
         <li><a href="https://uphelp.org/claim-guidance-publications/payment-of-overhead-and-profit/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">United Policyholders, &quot;Payment of Overhead and Profit&quot;</a></li>
         <li><a href="https://www.mwl-law.com/general-contractor-overhead-and-profit-first-party-claims/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">MWL Law, &quot;General Contractor Overhead and Profit in First-Party Claims&quot;</a></li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Merlin Law Group</strong> &mdash; Published the &ldquo;Withholding Overhead and Profit&rdquo; white paper and related materials (including Kelly Kubiak&rsquo;s video presentation) analyzing when general-contractor overhead and profit is owed.
+        </li>
+        <li>
+          <strong>United Policyholders</strong> &mdash; Consumer-advocacy resources on overhead and profit and the three-trade rule (uphelp.org).
+        </li>
+      </ul>
     </>
   )
 }

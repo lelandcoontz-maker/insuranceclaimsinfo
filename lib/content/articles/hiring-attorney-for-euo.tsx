@@ -883,6 +883,19 @@ export default function Content() {
 
       <hr className="my-8 border-gray-300" />
 
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Chip Merlin and colleagues have written extensively on examination-under-oath preparation, the duty to cooperate, and patterns of EUO misuse. Search the blog for &ldquo;examination under oath&rdquo; and &ldquo;EUO.&rdquo;
+        </li>
+        <li>
+          <strong>United Policyholders</strong> &mdash; Maintains a directory of policyholder-side insurance attorneys and consumer resources on the claims process (uphelp.org).
+        </li>
+      </ul>
+
       <CalloutBox variant="legal" title="Disclaimer">
         <p>
           This article is for general educational purposes only and does not constitute

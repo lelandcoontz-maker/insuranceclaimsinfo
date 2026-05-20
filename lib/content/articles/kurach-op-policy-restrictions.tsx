@@ -254,6 +254,18 @@ export default function Content() {
         <li><Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">ACV vs. RCV: Actual vs. Replacement Cost Value</Link></li>
         <li><Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] underline">When to Hire an Attorney for Your Insurance Claim</Link></li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>United Policyholders</strong> &mdash; Filed an amicus brief in Kurach (prepared pro bono by attorneys from Merlin Law Group and Reed Smith LLP) warning that withheld overhead-and-profit amounts could prevent policyholders from completing repairs.
+        </li>
+        <li>
+          <strong>Merlin Law Group / Reed Smith LLP</strong> &mdash; Co-authored the United Policyholders amicus brief in Kurach; Chip Merlin publicly characterized the ruling and its consequences for Pennsylvania policyholders.
+        </li>
+      </ul>
     </>
   )
 }

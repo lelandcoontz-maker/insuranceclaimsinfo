@@ -766,6 +766,19 @@ export default function Content() {
         may entitle you to far more than the carrier is willing to offer voluntarily.
       </p>
 
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Merlin Law Group has analyzed the Villa Los Alamos decision and the limits of narrow pollution exclusions in California first-party property claims. Search the blog for &ldquo;pollution exclusion.&rdquo;
+        </li>
+        <li>
+          <strong>MacKinnon v. Truck Insurance Exchange (2003) 31 Cal.4th 635</strong> &mdash; The California Supreme Court decision narrowing the pollution exclusion to traditional environmental pollution.
+        </li>
+      </ul>
+
       <CalloutBox variant="legal" title="Disclaimer">
         <p>
           This article is for educational purposes only and does not constitute legal or

@@ -787,6 +787,18 @@ export default function Content() {
         Insurance law varies by jurisdiction. Consult a licensed attorney for advice about
         your specific situation.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Merlin Law Group has written on the efficient proximate cause doctrine and its application to first-party property claims. Search the blog for &ldquo;efficient proximate cause.&rdquo;
+        </li>
+        <li>
+          <strong>Garvey v. State Farm Fire &amp; Cas. Co. (1989) 48 Cal.3d 395</strong> &mdash; The California Supreme Court decision establishing the efficient proximate cause doctrine for first-party property coverage.
+        </li>
+      </ul>
     </>
   )
 }

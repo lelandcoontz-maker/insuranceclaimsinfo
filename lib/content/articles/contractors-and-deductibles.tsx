@@ -435,6 +435,16 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Merlin Law Group has analyzed deductible-waiver statutes and described the prohibition on absorbing or rebating deductibles as a clarification of a long-standing rule. Search the blog for &ldquo;deductible&rdquo; and &ldquo;waiving the deductible.&rdquo;
+        </li>
+      </ul>
+
       <CalloutBox variant="legal" title="Disclaimer">
         <p>
           This article is provided for general educational purposes only and does not constitute

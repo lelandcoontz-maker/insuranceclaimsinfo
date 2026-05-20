@@ -750,6 +750,16 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Merlin Law Group</strong> &mdash; One of the most prominent policyholder-advocacy firms in the country, reported to maintain a library of insurer advertising materials used to contrast carrier marketing promises against claims-handling conduct in bad faith litigation.
+        </li>
+      </ul>
+
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
           Is Your Insurer Falling Short of Its Own Promises?

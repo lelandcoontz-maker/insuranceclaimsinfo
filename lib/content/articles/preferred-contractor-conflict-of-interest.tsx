@@ -927,6 +927,18 @@ export default function Content() {
           </a>
         </li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Merlin Law Group has written on insurer-preferred-contractor programs and the conflicts of interest they create. Search the blog for &ldquo;preferred contractor&rdquo; and &ldquo;managed repair.&rdquo;
+        </li>
+        <li>
+          <strong>United Policyholders</strong> &mdash; Consumer-advocacy resources on choosing your own contractor and resisting insurer steering (uphelp.org).
+        </li>
+      </ul>
     </>
   )
 }

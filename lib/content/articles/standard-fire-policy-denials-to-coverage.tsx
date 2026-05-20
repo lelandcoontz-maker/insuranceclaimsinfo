@@ -1107,6 +1107,18 @@ export default function Content() {
         on whether your state has adopted it and on the specific facts of your claim. Consult a
         licensed attorney in your jurisdiction for guidance on your particular situation.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Merlin Law Group has published analysis of the standard fire policy and the statutory minimums it establishes for California property coverage. Search the blog for &ldquo;standard fire policy.&rdquo;
+        </li>
+        <li>
+          <strong>United Policyholders</strong> &mdash; Consumer-advocacy resources on fire claims and California coverage rights (uphelp.org).
+        </li>
+      </ul>
     </>
   )
 }

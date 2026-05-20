@@ -840,6 +840,21 @@ export default function Content() {
           </a>
         </li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Merlin Law Group has written on the gap between contractor sub-bids and Xactimate pricing in claim disputes. Search the blog for &ldquo;Xactimate&rdquo; and &ldquo;sub-bid.&rdquo;
+        </li>
+        <li>
+          <strong>United Policyholders</strong> &mdash; Consumer-advocacy resources on estimating disputes and contractor pricing (uphelp.org).
+        </li>
+        <li>
+          <strong>Verisk / Xactimate documentation</strong> &mdash; Verisk is the publisher of Xactimate; its materials describe how the price list is built and intended to be used.
+        </li>
+      </ul>
     </>
   )
 }

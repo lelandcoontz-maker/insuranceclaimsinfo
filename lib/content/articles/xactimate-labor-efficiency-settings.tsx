@@ -157,6 +157,18 @@ export default function Content() {
           Verisk, <em>Labor Productivity in Xactimate Pricing</em>; Verisk, <em>Labor Efficiencies Design</em>; Verisk, <em>Pricing Methodology Summary</em>; <em>Young v. State Farm Fire and Casualty Co.</em>, No. 2:23-cv-00175 (S.D. Miss. 2024); <em>Muenzenmay v. State Farm Fire &amp; Casualty Co.</em>, No. 3:26-cv-00119 (S.D. Miss. 2026); <em>Mitchell v. State Farm Fire and Casualty Co.</em> (6th Cir.).
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Chip Merlin has observed that lawsuits challenging the New Construction Xactimate labor-efficiency setting are being filed with increasing frequency. Search the blog for &ldquo;labor efficiency&rdquo; and &ldquo;Xactimate.&rdquo;
+        </li>
+        <li>
+          <strong>Verisk / Xactimate documentation</strong> &mdash; Verisk is the publisher of Xactimate; its published materials describe the labor-efficiency settings and their intended use.
+        </li>
+      </ul>
     </>
   )
 }

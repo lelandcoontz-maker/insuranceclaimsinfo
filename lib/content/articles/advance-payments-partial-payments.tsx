@@ -965,6 +965,21 @@ export default function Content() {
         The only question is whether you will demand it &mdash; and whether the carrier will have
         to answer to a court or the Department of Insurance for its refusal.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Attorney Chip Merlin has written extensively on how the failure to advance ALE and partial payments can itself constitute bad faith. Search the blog for &ldquo;advance payment&rdquo; and &ldquo;partial payment.&rdquo;
+        </li>
+        <li>
+          <strong>United Policyholders</strong> &mdash; Consumer-advocacy resources on advance payments and additional living expense after a disaster (uphelp.org).
+        </li>
+        <li>
+          <strong>CDI Bulletin 2025-2</strong> &mdash; California Department of Insurance guidance on wildfire consumer protections and advance payments.
+        </li>
+      </ul>
     </>
   )
 }

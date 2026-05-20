@@ -415,6 +415,18 @@ export default function Content() {
         <li><Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">ACV vs. RCV: Actual vs. Replacement Cost Value</Link></li>
         <li><Link href="/resources/loss-settlement-provisions" className="text-[#2E74B5] underline">Loss Settlement Provisions</Link></li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Merlin Law Group has published extensively on overhead and profit, including state-by-state treatment of when O&amp;P is owed. Search the blog for &ldquo;overhead and profit.&rdquo;
+        </li>
+        <li>
+          <strong>United Policyholders</strong> &mdash; Consumer-advocacy resources on overhead and profit and contractor pricing (uphelp.org).
+        </li>
+      </ul>
     </>
   )
 }

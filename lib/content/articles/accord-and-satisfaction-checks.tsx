@@ -399,6 +399,18 @@ export default function Content() {
           </Link>
         </li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Chip Merlin and colleagues have written extensively on accord-and-satisfaction language placed on claim checks and why conditioning policy benefits already owed on a release is an unfair claims practice. Search the blog for &ldquo;accord and satisfaction&rdquo; and &ldquo;restrictive endorsement.&rdquo;
+        </li>
+        <li>
+          <strong>California Insurance Code &sect;790.03(h)</strong> &mdash; The Unfair Insurance Practices Act provisions that bear on coercive settlement tactics.
+        </li>
+      </ul>
     </>
   )
 }

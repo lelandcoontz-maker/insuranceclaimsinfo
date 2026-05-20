@@ -1147,6 +1147,18 @@ export default function Content() {
           </Link>
         </li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Sources &amp; Further Reading
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Chip Merlin has documented numerous common insurance myths and unfair claims practices, including accord-and-satisfaction tactics on claim checks. Search the blog by topic.
+        </li>
+        <li>
+          <strong>United Policyholders</strong> &mdash; Consumer-education resources that debunk common policyholder misconceptions (uphelp.org).
+        </li>
+      </ul>
     </>
   )
 }
