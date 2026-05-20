@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { Breadcrumbs } from './Breadcrumbs'
 import { KeyTakeaway } from './KeyTakeaway'
 import { ScrollCta } from './ScrollCta'
+import { AuthorByline } from './AuthorByline'
 
 interface TocItem {
   id: string
@@ -141,6 +142,7 @@ export function ArticleLayout({ title, description, summary, backLink, breadcrum
           </div>
         )}
         {afterContent}
+        <AuthorByline />
       </div>
 
       <ScrollCta />
