@@ -5,6 +5,8 @@ export const meta = {
   title: 'What Happens If My Insurance Company Goes Out of Business?',
   description:
     'How CIGA (California Insurance Guarantee Association) protects policyholders when an insurer becomes insolvent, what is covered, what is not, and how to check if your carrier is admitted.',
+  summary:
+    'If your insurer becomes insolvent, the California Insurance Guarantee Association (CIGA) steps in to pay covered claims, but only for admitted carriers and subject to statutory limits. Surplus lines insurers are not covered, so confirm your carrier is admitted.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Make a Personal Property (Contents) List After a Loss',
   description:
     'Practical techniques for remembering and documenting every item in your home for your insurance contents claim, including the room-by-room method, day-in-the-life approach, and using digital records.',
+  summary:
+    'Rebuild your contents list room by room from memory, photos, and receipts, using a day-in-the-life walkthrough to catch overlooked items, and record each one with description, age, and replacement cost. A thorough inventory is what gets contents claims paid in full.',
 }
 
 export default function Content() {

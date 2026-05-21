@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Read the Estimate Your Insurance Company Sent You',
   description:
     'A plain-language guide to understanding Xactimate estimates, line items, depreciation schedules, and what to question when the numbers seem low.',
+  summary:
+    'An insurer estimate (usually Xactimate) lists each repair as a line item with quantities, unit prices, and depreciation. Read it for missing scope, low quantities, and excess depreciation, and question anything that seems short. The estimate is a starting figure you can dispute, not a final number.',
 }
 
 export default function Content() {

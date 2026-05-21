@@ -5,6 +5,8 @@ export const meta = {
   title: 'I Had a Water Leak — What Do I Do Right Now?',
   description:
     'Step-by-step guide for handling a water leak in your home: emergency mitigation, what insurance covers, mold prevention timeline, documentation tips, and what NOT to do before the adjuster arrives.',
+  summary:
+    'After a water leak, stop the source, prevent further damage, and document everything before cleanup, then report it promptly. Standard policies cover sudden accidental leaks but not long-term seepage, and mold can develop within 24 to 48 hours, so act fast.',
 }
 
 export default function Content() {

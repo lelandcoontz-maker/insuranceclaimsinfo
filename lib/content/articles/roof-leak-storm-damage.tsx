@@ -5,6 +5,8 @@ export const meta = {
   title: 'My Roof Is Leaking After a Storm — Will Insurance Pay?',
   description:
     'Will your homeowner\'s insurance pay for a roof leak after a storm? Covers storm damage vs. wear and tear, when to file, the matching rule, cosmetic damage exclusions, the EPC doctrine, and how to document wind damage.',
+  summary:
+    'Insurance generally pays for sudden storm or wind damage to a roof but not gradual wear and tear, so the dispute usually turns on cause. Document the storm and the damage promptly, and know that insurers often blame age to deny otherwise covered claims.',
 }
 
 export default function Content() {

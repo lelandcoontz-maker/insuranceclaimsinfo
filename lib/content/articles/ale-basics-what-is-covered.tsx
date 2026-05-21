@@ -5,6 +5,8 @@ export const meta = {
   title: 'What \'Additional Living Expenses\' Covers When You Can\'t Live at Home',
   description:
     'A complete guide to Additional Living Expenses (ALE) coverage — what qualifies, what does not, how long benefits last, and how insurers try to cut them short.',
+  summary:
+    'Additional Living Expenses (ALE) coverage pays the extra costs of living away from home after a covered loss makes it uninhabitable, such as temporary rent, hotels, meals above normal, and storage. It is triggered by loss of use and should be advanced while the claim is investigated.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'My Insurance Company Is Lowballing Me — What Can I Do?',
   description:
     'How to recognize and fight a lowball insurance settlement: get your own estimate, negotiate in writing, invoke appraisal, and know when the gap signals bad faith.',
+  summary:
+    'Fight a lowball offer by getting your own independent estimate, documenting the gap, and negotiating in writing. If the insurer will not move, you can invoke the policy appraisal process, and an unreasonably low offer can itself be evidence of bad faith.',
 }
 
 export default function Content() {

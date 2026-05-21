@@ -5,6 +5,8 @@ export const meta = {
   title: 'Your Insurance Company Made an Offer — Now What?',
   description:
     'How to evaluate your insurance settlement offer, understand your options, and decide whether to accept, negotiate, or dispute the amount.',
+  summary:
+    'When the insurer makes an offer you have three choices: accept, negotiate, or dispute. Compare it against your own documentation and estimate first. A low offer is a negotiating position, not a verdict, and you can counter in writing or invoke appraisal.',
 }
 
 export default function Content() {

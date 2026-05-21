@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to File a Complaint With the California Department of Insurance',
   description:
     'A step-by-step guide to filing a CDI complaint: what to include, what CDI can and cannot do, realistic timelines, and how to use the complaint process as leverage.',
+  summary:
+    'You can file a complaint with the California Department of Insurance online, including your policy and claim details and the specific conduct at issue. CDI can investigate and pressure the insurer but cannot order payment. The complaint still creates useful leverage and a record.',
 }
 
 export default function Content() {

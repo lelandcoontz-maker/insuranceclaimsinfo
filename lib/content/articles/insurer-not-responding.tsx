@@ -5,6 +5,8 @@ export const meta = {
   title: 'What to Do When Your Insurance Company Stops Returning Calls',
   description:
     'A concrete escalation path when your insurer goes silent: supervisor requests, written demands, CDI complaints, and California regulatory deadlines they must meet.',
+  summary:
+    'When your insurer goes silent, escalate in writing: request a supervisor, send a dated written demand, and cite the response deadlines California regulations require. If silence continues, file a complaint with the Department of Insurance. Document every attempt to reach them.',
 }
 
 export default function Content() {

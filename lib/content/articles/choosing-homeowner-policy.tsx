@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Choose a Homeowner Insurance Policy in California',
   description:
     'A policyholder-first guide to choosing homeowner insurance in California: what to prioritize beyond price, the admitted vs. surplus lines distinction, and navigating the current market crisis.',
+  summary:
+    'When choosing California homeowner insurance, look past price to coverage quality: adequate replacement-cost dwelling limits, contents and loss-of-use terms, and whether the carrier is admitted (CIGA-protected) or surplus lines. In the current market crisis, availability and stability matter as much as cost.',
 }
 
 export default function Content() {

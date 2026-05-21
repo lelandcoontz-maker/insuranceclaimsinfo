@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Write a Letter to Your Insurance Company That Gets Results',
   description:
     'Template structure, tone guidance, and regulatory citations for writing demand letters and formal correspondence that moves your insurance claim forward.',
+  summary:
+    'An effective letter to your insurer is dated, factual, and specific: state what you want, reference your policy and claim number, cite the relevant regulation or deadline, and request a written response by a set date. Keep a copy of everything you send.',
 }
 
 export default function Content() {

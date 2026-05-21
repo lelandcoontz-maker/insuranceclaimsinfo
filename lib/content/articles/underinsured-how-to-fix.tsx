@@ -5,6 +5,8 @@ export const meta = {
   title: 'Why Your Home Might Be Underinsured — and How to Fix It',
   description:
     'Construction costs have risen dramatically since 2020. Most California homeowners are underinsured without knowing it. Here is how to identify the gap and close it before a loss.',
+  summary:
+    'Rebuild costs have risen sharply since 2020, leaving many California homeowners underinsured without realizing it. Compare your dwelling limit to current local rebuild costs, add extended or guaranteed replacement cost and inflation guard, and fix the gap before a loss exposes it.',
 }
 
 export default function Content() {

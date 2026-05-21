@@ -5,6 +5,8 @@ export const meta = {
   title: 'My Claim Was Denied — What Are My Options?',
   description:
     'A step-by-step guide for California homeowners whose insurance claim was denied: how to understand the denial, gather evidence, appeal, file a CDI complaint, and get professional help.',
+  summary:
+    'A denied claim is not the end. Read the denial letter to find the exact reason, gather evidence that rebuts it, and appeal in writing, then escalate to a Department of Insurance complaint or professional help if needed. Many denials are reversible.',
 }
 
 export default function Content() {

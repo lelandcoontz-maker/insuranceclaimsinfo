@@ -5,6 +5,8 @@ export const meta = {
   title: 'What Is "Bad Faith" and How Do I Know If My Insurer Is Doing It?',
   description:
     'A plain-language primer on insurance bad faith in California: what it means, how to recognize it, key case law, available damages, and when to call a lawyer.',
+  summary:
+    'Insurance bad faith is when an insurer unreasonably denies, delays, or underpays a valid claim. In California it can expose the insurer to damages beyond the policy limit. Recognize the patterns, document them, and consult a lawyer when the conduct is serious.',
 }
 
 export default function Content() {

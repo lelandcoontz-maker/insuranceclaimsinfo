@@ -5,6 +5,8 @@ export const meta = {
   title: 'Do I Need a Lawyer for My Insurance Claim?',
   description:
     'A decision framework for California policyholders: when a public adjuster is enough, when you need an attorney, how fees work, and what to look for when hiring.',
+  summary:
+    'A public adjuster is often enough for valuation and negotiation disputes, but you need an attorney when the insurer acts in bad faith, denies the claim outright, or litigation looms. Attorneys typically work on contingency for these claims, so cost is rarely a barrier.',
 }
 
 export default function Content() {

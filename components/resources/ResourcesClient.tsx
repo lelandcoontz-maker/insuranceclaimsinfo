@@ -102,6 +102,7 @@ export function ResourcesClient({ categories }: Props) {
             value={search}
             onChange={e => setSearch(e.target.value)}
             placeholder="Search articles..."
+            aria-label="Search articles"
             className="w-full pl-10 pr-10 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#1F3964] focus:border-transparent text-gray-900"
           />
           {search && (
@@ -131,6 +132,7 @@ export function ResourcesClient({ categories }: Props) {
             <button
               key={tag}
               onClick={() => setActiveTag(activeTag === tag ? null : tag)}
+              aria-pressed={activeTag === tag}
               className={`text-xs px-3 py-1.5 rounded-full border transition-colors ${
                 activeTag === tag
                   ? 'border-[#1F3964] bg-[#1F3964] text-white font-semibold'
@@ -143,7 +145,7 @@ export function ResourcesClient({ categories }: Props) {
         </div>
 
         {isFiltering && (
-          <p className="text-sm text-gray-500 mt-2">
+          <p className="text-sm text-gray-500 mt-2" role="status" aria-live="polite">
             {totalResults} article{totalResults !== 1 ? 's' : ''} found
             {activeTag && <> tagged &ldquo;{activeTag}&rdquo;</>}
             {search && <> matching &ldquo;{search}&rdquo;</>}
@@ -172,6 +174,7 @@ export function ResourcesClient({ categories }: Props) {
                       <li key={slug}>
                         <button
                           onClick={() => scrollToSection(slug)}
+                          aria-current={isActive ? 'true' : undefined}
                           className={`block w-full text-left text-sm py-1.5 pl-4 -ml-px border-l-2 transition-colors ${
                             isActive
                               ? 'border-[#1F3964] text-[#1F3964] font-semibold'
@@ -202,6 +205,7 @@ export function ResourcesClient({ categories }: Props) {
                     <button
                       key={slug}
                       onClick={() => scrollToSection(slug)}
+                      aria-current={isActive ? 'true' : undefined}
                       className={`whitespace-nowrap text-xs px-3 py-1.5 rounded-full border transition-colors flex-shrink-0 ${
                         isActive
                           ? 'border-[#1F3964] bg-[#1F3964] text-white'

@@ -5,6 +5,8 @@ export const meta = {
   title: 'My Basement Flooded — Is That Covered?',
   description:
     'Is basement flooding covered by homeowner\'s insurance? Explains the three different coverages people confuse: flood insurance (NFIP), water backup endorsement, and surface water — plus when a standard HO-3 policy does cover basement water damage.',
+  summary:
+    'Basement water damage falls under three different coverages people confuse: standard policy water damage, a water-backup endorsement (sewer or sump), and separate flood insurance (NFIP) for rising surface water. Which one applies depends entirely on where the water came from.',
 }
 
 export default function Content() {

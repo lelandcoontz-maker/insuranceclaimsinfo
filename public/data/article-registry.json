@@ -82,7 +82,8 @@
   },
   "ale-basics-what-is-covered": {
     "title": "What 'Additional Living Expenses' Covers When You Can't Live at Home",
-    "description": "A complete guide to Additional Living Expenses (ALE) coverage — what qualifies, what does not, how long benefits last, and how insurers try to cut them short."
+    "description": "A complete guide to Additional Living Expenses (ALE) coverage — what qualifies, what does not, how long benefits last, and how insurers try to cut them short.",
+    "summary": "Additional Living Expenses (ALE) coverage pays the extra costs of living away from home after a covered loss makes it uninhabitable, such as temporary rent, hotels, meals above normal, and storage. It is triggered by loss of use and should be advanced while the claim is investigated."
   },
   "ale-frv": {
     "title": "Additional Living Expenses & Fair Rental Value",
@@ -147,7 +148,8 @@
   },
   "bad-faith-explained": {
     "title": "What Is ",
-    "description": "A plain-language primer on insurance bad faith in California: what it means, how to recognize it, key case law, available damages, and when to call a lawyer."
+    "description": "A plain-language primer on insurance bad faith in California: what it means, how to recognize it, key case law, available damages, and when to call a lawyer.",
+    "summary": "Insurance bad faith is when an insurer unreasonably denies, delays, or underpays a valid claim. In California it can expose the insurer to damages beyond the policy limit. Recognize the patterns, document them, and consult a lawyer when the conduct is serious."
   },
   "bad-faith": {
     "title": "Bad Faith Insurance Practices",
@@ -159,7 +161,8 @@
   },
   "basement-flooding-coverage": {
     "title": "My Basement Flooded — Is That Covered?",
-    "description": "Is basement flooding covered by homeowner's insurance? Explains the three different coverages people confuse: flood insurance (NFIP), water backup endorsement, and surface water — plus when a standard HO-3 policy does cover basement water damage."
+    "description": "Is basement flooding covered by homeowner's insurance? Explains the three different coverages people confuse: flood insurance (NFIP), water backup endorsement, and surface water — plus when a standard HO-3 policy does cover basement water damage.",
+    "summary": "Basement water damage falls under three different coverages people confuse: standard policy water damage, a water-backup endorsement (sewer or sump), and separate flood insurance (NFIP) for rising surface water. Which one applies depends entirely on where the water came from."
   },
   "bedbug-coverage": {
     "title": "Does Homeowner Insurance Cover Bedbugs? Almost Certainly Not — Here Is Why",
@@ -351,7 +354,8 @@
   },
   "choosing-homeowner-policy": {
     "title": "How to Choose a Homeowner Insurance Policy in California",
-    "description": "A policyholder-first guide to choosing homeowner insurance in California: what to prioritize beyond price, the admitted vs. surplus lines distinction, and navigating the current market crisis."
+    "description": "A policyholder-first guide to choosing homeowner insurance in California: what to prioritize beyond price, the admitted vs. surplus lines distinction, and navigating the current market crisis.",
+    "summary": "When choosing California homeowner insurance, look past price to coverage quality: adequate replacement-cost dwelling limits, contents and loss-of-use terms, and whether the carrier is admitted (CIGA-protected) or surplus lines. In the current market crisis, availability and stability matter as much as cost."
   },
   "choosing-your-contractor": {
     "title": "Choosing Your Contractor After an Insurance Loss",
@@ -367,7 +371,8 @@
   },
   "claim-denied-options": {
     "title": "My Claim Was Denied — What Are My Options?",
-    "description": "A step-by-step guide for California homeowners whose insurance claim was denied: how to understand the denial, gather evidence, appeal, file a CDI complaint, and get professional help."
+    "description": "A step-by-step guide for California homeowners whose insurance claim was denied: how to understand the denial, gather evidence, appeal, file a CDI complaint, and get professional help.",
+    "summary": "A denied claim is not the end. Read the denial letter to find the exact reason, gather evidence that rebuts it, and appeal in writing, then escalate to a Department of Insurance complaint or professional help if needed. Many denials are reversible."
   },
   "claim-negotiation-letters": {
     "title": "How to Write an Effective Insurance Claim Letter",
@@ -631,7 +636,8 @@
   },
   "do-i-need-a-lawyer": {
     "title": "Do I Need a Lawyer for My Insurance Claim?",
-    "description": "A decision framework for California policyholders: when a public adjuster is enough, when you need an attorney, how fees work, and what to look for when hiring."
+    "description": "A decision framework for California policyholders: when a public adjuster is enough, when you need an attorney, how fees work, and what to look for when hiring.",
+    "summary": "A public adjuster is often enough for valuation and negotiation disputes, but you need an attorney when the insurer acts in bad faith, denies the claim outright, or litigation looms. Attorneys typically work on contingency for these claims, so cost is rarely a barrier."
   },
   "dog-breed-restrictions-insurance": {
     "title": "Dog Breed Restrictions and Home Insurance: When Your Pet Puts Your Coverage at Risk",
@@ -791,7 +797,8 @@
   },
   "file-cdi-complaint-guide": {
     "title": "How to File a Complaint With the California Department of Insurance",
-    "description": "A step-by-step guide to filing a CDI complaint: what to include, what CDI can and cannot do, realistic timelines, and how to use the complaint process as leverage."
+    "description": "A step-by-step guide to filing a CDI complaint: what to include, what CDI can and cannot do, realistic timelines, and how to use the complaint process as leverage.",
+    "summary": "You can file a complaint with the California Department of Insurance online, including your policy and claim details and the specific conduct at issue. CDI can investigate and pressure the insurer but cannot order payment. The complaint still creates useful leverage and a record."
   },
   "fire-claim-denied": {
     "title": "Fire Damage Insurance Claim Denied? Here's What to Do",
@@ -799,7 +806,8 @@
   },
   "fire-damage-beginners-guide": {
     "title": "My House Was Damaged by Fire — A Beginner",
-    "description": "A complete beginner's guide to fire damage insurance claims: the first 72 hours, ALE coverage, contents, smoke damage, timelines, and how to navigate the parallel tracks of dwelling, contents, and living expenses."
+    "description": "A complete beginner's guide to fire damage insurance claims: the first 72 hours, ALE coverage, contents, smoke damage, timelines, and how to navigate the parallel tracks of dwelling, contents, and living expenses.",
+    "summary": "A fire claim runs on three parallel tracks: dwelling repairs, contents replacement, and living expenses (ALE), which the insurer must advance while you are displaced. Document everything, do not discard damaged items before they are recorded, and expect the process to take months."
   },
   "fire-debris-cleanup-without-fire": {
     "title": "Fire Debris and Ash Contamination on Properties That Did Not Burn: Coverage, Cleanup, and the Cost Gap",
@@ -983,7 +991,8 @@
   },
   "how-to-read-insurance-estimate": {
     "title": "How to Read the Estimate Your Insurance Company Sent You",
-    "description": "A plain-language guide to understanding Xactimate estimates, line items, depreciation schedules, and what to question when the numbers seem low."
+    "description": "A plain-language guide to understanding Xactimate estimates, line items, depreciation schedules, and what to question when the numbers seem low.",
+    "summary": "An insurer estimate (usually Xactimate) lists each repair as a line item with quantities, unit prices, and depreciation. Read it for missing scope, low quantities, and excess depreciation, and question anything that seems short. The estimate is a starting figure you can dispute, not a final number."
   },
   "how-to-read-verisk-white-paper": {
     "title": "How to Read a Verisk White Paper: The Public Documentation Most Adjusters Have Never Seen",
@@ -1080,7 +1089,8 @@
   },
   "insurance-offer-now-what": {
     "title": "Your Insurance Company Made an Offer — Now What?",
-    "description": "How to evaluate your insurance settlement offer, understand your options, and decide whether to accept, negotiate, or dispute the amount."
+    "description": "How to evaluate your insurance settlement offer, understand your options, and decide whether to accept, negotiate, or dispute the amount.",
+    "summary": "When the insurer makes an offer you have three choices: accept, negotiate, or dispute. Compare it against your own documentation and estimate first. A low offer is a negotiating position, not a verdict, and you can counter in writing or invoke appraisal."
   },
   "insurer-antitrust-fair-plan": {
     "title": "Insurer Antitrust Concerns and the FAIR Plan: When Market Withdrawal Looks Coordinated",
@@ -1108,7 +1118,8 @@
   },
   "insurer-goes-out-of-business": {
     "title": "What Happens If My Insurance Company Goes Out of Business?",
-    "description": "How CIGA (California Insurance Guarantee Association) protects policyholders when an insurer becomes insolvent, what is covered, what is not, and how to check if your carrier is admitted."
+    "description": "How CIGA (California Insurance Guarantee Association) protects policyholders when an insurer becomes insolvent, what is covered, what is not, and how to check if your carrier is admitted.",
+    "summary": "If your insurer becomes insolvent, the California Insurance Guarantee Association (CIGA) steps in to pay covered claims, but only for admitted carriers and subject to statutory limits. Surplus lines insurers are not covered, so confirm your carrier is admitted."
   },
   "insurer-insolvency-ciga": {
     "title": "When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know",
@@ -1120,7 +1131,8 @@
   },
   "insurer-not-responding": {
     "title": "What to Do When Your Insurance Company Stops Returning Calls",
-    "description": "A concrete escalation path when your insurer goes silent: supervisor requests, written demands, CDI complaints, and California regulatory deadlines they must meet."
+    "description": "A concrete escalation path when your insurer goes silent: supervisor requests, written demands, CDI complaints, and California regulatory deadlines they must meet.",
+    "summary": "When your insurer goes silent, escalate in writing: request a supervisor, send a dated written demand, and cite the response deadlines California regulations require. If silence continues, file a complaint with the Department of Insurance. Document every attempt to reach them."
   },
   "insurer-obligations-cheat-sheet": {
     "title": "What Your Insurance Company Is Required to Do — The Cheat Sheet",
@@ -1217,7 +1229,8 @@
   },
   "lowball-offer-what-to-do": {
     "title": "My Insurance Company Is Lowballing Me — What Can I Do?",
-    "description": "How to recognize and fight a lowball insurance settlement: get your own estimate, negotiate in writing, invoke appraisal, and know when the gap signals bad faith."
+    "description": "How to recognize and fight a lowball insurance settlement: get your own estimate, negotiate in writing, invoke appraisal, and know when the gap signals bad faith.",
+    "summary": "Fight a lowball offer by getting your own independent estimate, documenting the gap, and negotiating in writing. If the insurer will not move, you can invoke the policy appraisal process, and an unreasonably low offer can itself be evidence of bad faith."
   },
   "managed-repair-program-drp": {
     "title": "The Managed Repair Program from the Inside: How DRP Scoring Works",
@@ -1414,7 +1427,8 @@
   },
   "personal-property-inventory-guide": {
     "title": "How to Make a Personal Property (Contents) List After a Loss",
-    "description": "Practical techniques for remembering and documenting every item in your home for your insurance contents claim, including the room-by-room method, day-in-the-life approach, and using digital records."
+    "description": "Practical techniques for remembering and documenting every item in your home for your insurance contents claim, including the room-by-room method, day-in-the-life approach, and using digital records.",
+    "summary": "Rebuild your contents list room by room from memory, photos, and receipts, using a day-in-the-life walkthrough to catch overlooked items, and record each one with description, age, and replacement cost. A thorough inventory is what gets contents claims paid in full."
   },
   "personal-property-special-considerations": {
     "title": "Special Considerations for Certain Types of Personal Property",
@@ -1645,7 +1659,8 @@
   },
   "roof-leak-storm-damage": {
     "title": "My Roof Is Leaking After a Storm — Will Insurance Pay?",
-    "description": "Will your homeowner's insurance pay for a roof leak after a storm? Covers storm damage vs. wear and tear, when to file, the matching rule, cosmetic damage exclusions, the EPC doctrine, and how to document wind damage."
+    "description": "Will your homeowner's insurance pay for a roof leak after a storm? Covers storm damage vs. wear and tear, when to file, the matching rule, cosmetic damage exclusions, the EPC doctrine, and how to document wind damage.",
+    "summary": "Insurance generally pays for sudden storm or wind damage to a roof but not gradual wear and tear, so the dispute usually turns on cause. Document the storm and the damage promptly, and know that insurers often blame age to deny otherwise covered claims."
   },
   "roof-waste-factor": {
     "title": "Roof Waste Factor: How to Calculate It and Why Insurance Companies Get It Wrong",
@@ -1911,7 +1926,8 @@
   },
   "theft-vandalism-claim-guide": {
     "title": "Someone Broke Into My House — Filing a Vandalism or Theft Claim",
-    "description": "How to file a homeowner's insurance claim after a burglary or vandalism: police reports, documenting stolen items, sublimits, the SIU process, and how to avoid common mistakes that get theft claims denied."
+    "description": "How to file a homeowner's insurance claim after a burglary or vandalism: police reports, documenting stolen items, sublimits, the SIU process, and how to avoid common mistakes that get theft claims denied.",
+    "summary": "After a break-in or vandalism, file a police report, document and value what was taken or damaged, and check your policy for sublimits on items like jewelry and electronics. Avoid the common mistakes, such as gaps in your inventory, that get theft claims denied."
   },
   "thermal-heat-damage": {
     "title": "Thermal and Heat Damage from Nearby Wildfires: The Hidden Damage Your Insurer May Miss",
@@ -1979,7 +1995,8 @@
   },
   "underinsured-how-to-fix": {
     "title": "Why Your Home Might Be Underinsured — and How to Fix It",
-    "description": "Construction costs have risen dramatically since 2020. Most California homeowners are underinsured without knowing it. Here is how to identify the gap and close it before a loss."
+    "description": "Construction costs have risen dramatically since 2020. Most California homeowners are underinsured without knowing it. Here is how to identify the gap and close it before a loss.",
+    "summary": "Rebuild costs have risen sharply since 2020, leaving many California homeowners underinsured without realizing it. Compare your dwelling limit to current local rebuild costs, add extended or guaranteed replacement cost and inflation guard, and fix the gap before a loss exposes it."
   },
   "understanding-your-deductible": {
     "title": "Your Deductible: What It Is, How It Works, and When It Doesn't Apply",
@@ -2060,7 +2077,8 @@
   },
   "water-leak-what-to-do": {
     "title": "I Had a Water Leak — What Do I Do Right Now?",
-    "description": "Step-by-step guide for handling a water leak in your home: emergency mitigation, what insurance covers, mold prevention timeline, documentation tips, and what NOT to do before the adjuster arrives."
+    "description": "Step-by-step guide for handling a water leak in your home: emergency mitigation, what insurance covers, mold prevention timeline, documentation tips, and what NOT to do before the adjuster arrives.",
+    "summary": "After a water leak, stop the source, prevent further damage, and document everything before cleanup, then report it promptly. Standard policies cover sudden accidental leaks but not long-term seepage, and mold can develop within 24 to 48 hours, so act fast."
   },
   "wear-and-tear-cause-of-loss": {
     "title": "Wear and Tear Is a Cause of Loss Exclusion — Not a Condition of Property Exclusion",
@@ -2135,7 +2153,8 @@
   },
   "writing-effective-insurance-letter": {
     "title": "How to Write a Letter to Your Insurance Company That Gets Results",
-    "description": "Template structure, tone guidance, and regulatory citations for writing demand letters and formal correspondence that moves your insurance claim forward."
+    "description": "Template structure, tone guidance, and regulatory citations for writing demand letters and formal correspondence that moves your insurance claim forward.",
+    "summary": "An effective letter to your insurer is dated, factual, and specific: state what you want, reference your policy and claim number, cite the relevant regulation or deadline, and request a written response by a set date. Keep a copy of everything you send."
   },
   "xactimate-how-it-works": {
     "title": "How Xactimate Works: A Policyholder",
