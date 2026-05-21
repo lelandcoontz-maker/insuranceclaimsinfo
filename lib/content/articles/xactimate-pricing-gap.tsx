@@ -5,6 +5,8 @@ export const meta = {
   title: "Why Your Insurance Estimate Is Lower Than Your Contractor's Quote",
   description:
     "Xactimate estimates are often 30% or more below actual repair costs. The software itself disclaims pricing accuracy. Here is why the gap exists and what you can do about it.",
+  summary:
+    'Xactimate estimates often run 30% or more below actual repair costs, and the software itself disclaims pricing accuracy. Knowing why this gap exists lets you document real market costs and demand an estimate that reflects them.',
 }
 
 export default function Content() {

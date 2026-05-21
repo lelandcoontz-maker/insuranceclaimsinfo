@@ -4,6 +4,8 @@ export const meta = {
   title: "Tortious Interference with Contractor Relationships in Insurance Claims",
   description:
     "When an insurance carrier deliberately disrupts the policyholder&apos;s relationship with their chosen contractor, it may constitute tortious interference under California law &mdash; opening the door to tort damages, punitive damages, and bad faith liability.",
+  summary:
+    'When an insurer deliberately disrupts your relationship with your chosen contractor, that can be tortious interference under California law, exposing the carrier to tort and even punitive damages on top of bad faith. Document the interference.',
 }
 
 export default function Content() {

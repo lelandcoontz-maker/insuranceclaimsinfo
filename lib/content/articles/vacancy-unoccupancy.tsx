@@ -5,6 +5,8 @@ export const meta = {
   title: 'Vacancy and Unoccupancy Clauses: How an Empty Home Can Cost You Your Coverage',
   description:
     'Vacancy and unoccupancy clauses in property insurance can eliminate coverage for vandalism, fire, and other perils if your home is empty too long. Learn the critical difference between vacant and unoccupied, how courts interpret these clauses, and what you can do to protect yourself.',
+  summary:
+    'Vacancy and unoccupancy clauses can cut coverage for vandalism, water, and other perils once a home sits empty too long. \'Vacant\' and \'unoccupied\' mean different things and are interpreted strictly, so know the rules before leaving a property empty.',
 }
 
 export default function Content() {

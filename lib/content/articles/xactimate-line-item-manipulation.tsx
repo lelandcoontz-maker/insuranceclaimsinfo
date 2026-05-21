@@ -4,6 +4,8 @@ export const meta = {
   title: 'Xactimate Line Item Manipulation: How "Included" Makes Covered Items Disappear',
   description:
     'A detailed guide for policyholders, public adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the "included" designation and wrong codes to minimum charge suppression and missing items — and how to identify and challenge every tactic using Verisk\'s own documentation.',
+  summary:
+    'Carriers manipulate Xactimate estimates by omitting line items, using low waste factors, wrong labor settings, and stale pricing to shrink the total. Knowing these tactics lets you spot and correct a manipulated estimate line by line.',
 }
 
 export default function Content() {

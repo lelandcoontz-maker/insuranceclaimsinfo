@@ -5,6 +5,8 @@ export const meta = {
   title: 'Valuable Papers and Records Coverage: Protecting the Information That Runs Your Life and Business',
   description:
     'Valuable papers and records coverage pays to research and reconstruct lost documents, blueprints, manuscripts, and irreplaceable records after a disaster. Learn how this coverage works in homeowner and commercial policies, what qualifies, and how to protect yourself before a loss.',
+  summary:
+    'Valuable papers and records coverage pays to research and reconstruct lost documents, blueprints, and irreplaceable records after a loss, in both homeowner and commercial policies. Know what qualifies and the limits, because reconstruction costs add up.',
 }
 
 export default function Content() {

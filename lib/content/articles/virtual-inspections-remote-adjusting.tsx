@@ -5,6 +5,8 @@ export const meta = {
   title: 'Virtual Inspections and Remote Adjusting: How Desk Claims Affect Your Payout',
   description:
     'How the shift to virtual inspections, desk adjusting, and remote claim handling affects property insurance claim outcomes — and what policyholders can do to protect their interests.',
+  summary:
+    'Virtual inspections and desk adjusting let carriers assess damage without visiting, which often misses or understates damage. Insist on a thorough inspection, supply your own detailed photos and documentation, and challenge a payout based on remote review.',
 }
 
 export default function Content() {

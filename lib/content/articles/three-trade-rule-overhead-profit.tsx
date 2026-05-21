@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit',
   description:
     'The three-trade rule is a practical shorthand for a legal principle that appellate courts across the country have adopted and enforced for decades. Learn the case law, the regulatory authority, and how to fight for O&P on your claim.',
+  summary:
+    'The three-trade rule is shorthand for a principle courts nationwide enforce: general contractor overhead and profit is owed whenever a job needs a GC to coordinate multiple (roughly three or more) trades. Use the case law to claim O&P the carrier omitted.',
 }
 
 export default function Content() {

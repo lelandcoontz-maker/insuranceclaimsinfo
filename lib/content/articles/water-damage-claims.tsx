@@ -5,6 +5,8 @@ export const meta = {
   title: 'Water Damage Insurance Claims: A Complete Guide',
   description:
     'How to handle water damage insurance claims — from emergency response to final settlement. Covers sudden vs. gradual leaks, slab leaks, and common carrier disputes.',
+  summary:
+    'Water claims turn on the sudden-versus-gradual distinction: sudden accidental discharge is generally covered, while long-term seepage often is not. Respond fast, document the source, and counter carrier attempts to recharacterize a covered sudden loss as excluded gradual damage.',
 }
 
 export default function Content() {

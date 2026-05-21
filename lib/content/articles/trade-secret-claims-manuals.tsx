@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Companies Hiding Behind Trade Secrets: The Battle to Obtain Claims Handling Manuals in Litigation',
   description:
     'Insurance carriers routinely claim their claims handling manuals and training materials are trade secrets to block discovery in litigation. Learn how California courts have addressed this objection and why these documents matter for policyholders.',
+  summary:
+    'Carriers often claim their claims-handling manuals and training materials are trade secrets to block discovery, but California courts have ordered their production under protective orders. These documents can reveal how the insurer was supposed to handle your claim.',
 }
 
 export default function Content() {

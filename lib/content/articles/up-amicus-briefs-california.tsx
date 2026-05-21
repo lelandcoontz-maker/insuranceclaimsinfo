@@ -5,6 +5,8 @@ export const meta = {
   title: 'United Policyholders Amicus Briefs: California Cases',
   description:
     'A compiled list of United Policyholders friend-of-the-court briefs in California insurance cases — property damage, bad faith, coverage interpretation, and claims handling disputes that affect every policyholder in the state.',
+  summary:
+    'United Policyholders files friend-of-the-court briefs in major California insurance cases on bad faith, coverage, and claims handling. This compiled list points to UP\'s positions, which often support policyholders and can inform your own dispute.',
 }
 
 export default function Content() {

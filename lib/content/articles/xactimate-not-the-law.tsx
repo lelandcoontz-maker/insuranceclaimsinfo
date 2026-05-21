@@ -5,6 +5,8 @@ export const meta = {
   title: 'Xactimate Is Not the Law: Why Carrier Estimates Are Not Binding on Your Claim',
   description:
     'Xactimate dominates insurance estimating, but it is not a legal standard. Verisk\'s own EULA disclaims pricing accuracy. Multiple federal courts have rejected Xactimate as determinative. California regulations require actual market costs. Learn why your insurer\'s Xactimate estimate is a starting point — not the final word.',
+  summary:
+    'Xactimate is an estimating tool, not a legal standard, and Verisk\'s own EULA disclaims its pricing accuracy. Courts have rejected it as determinative, and California requires actual market costs, so a carrier\'s Xactimate number is a starting point, not the final word.',
 }
 
 export default function Content() {

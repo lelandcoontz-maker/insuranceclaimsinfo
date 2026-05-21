@@ -5,6 +5,8 @@ export const meta = {
   title: 'Underinsured After a Wildfire: What to Do When Your Policy Isn\'t Enough',
   description:
     'Why so many California homeowners are underinsured after a wildfire — and strategies to maximize recovery when your policy limits fall short of actual rebuild costs.',
+  summary:
+    'Many California homeowners discover after a wildfire that their limits fall short of soaring rebuild costs. Maximize recovery by claiming extended replacement cost, code upgrades, ALE, and every applicable coverage, and consider a claim against the broker who under-insured you.',
 }
 
 export default function Content() {

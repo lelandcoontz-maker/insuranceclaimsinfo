@@ -5,6 +5,8 @@ export const meta = {
   title: 'Water Backup Endorsement: What It Actually Covers, What It Does Not, and Why Many "Backup" Claims Are Not Backups at All',
   description:
     'A detailed guide to the water backup endorsement — what it covers, how sub-limits work, the critical mechanical difference between a true sewer backup and a plumbing blockage with overflow, common carrier denial tactics, and how to fight for proper coverage on water-from-drain claims.',
+  summary:
+    'A water backup endorsement covers sewer or drain backup and sump overflow, subject to a sub-limit, but a plumbing blockage with overflow is mechanically different and may fall under standard coverage. Identify the true cause to claim under the right provision.',
 }
 
 export default function Content() {

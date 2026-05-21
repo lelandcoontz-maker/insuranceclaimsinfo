@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Xactimate User Manual: What It Is, Why It Matters, and How to Use It',
   description:
     'A practitioner\'s guide to Xactimate — the industry-standard estimating software. Pricing database, line items, overhead and profit, depreciation, certification levels, and practical tips.',
+  summary:
+    'This practitioner\'s guide to Xactimate covers the pricing database, line items, overhead and profit, depreciation, certification levels, and practical tips, the working knowledge needed to build or check an estimate properly.',
 }
 
 export default function Content() {

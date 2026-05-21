@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Read an Xactimate Estimate Line by Line',
   description:
     'A practical walkthrough of Xactimate estimates — how to read selector codes, line items, depreciation, O&P, sketches, waste factors, and how to spot a thin estimate that underpays your claim.',
+  summary:
+    'Reading an Xactimate estimate means understanding selector codes, line items, depreciation, O&P, sketches, and waste factors. Learning to read it line by line lets you spot a thin estimate that omits scope and underpays your claim.',
 }
 
 export default function Content() {

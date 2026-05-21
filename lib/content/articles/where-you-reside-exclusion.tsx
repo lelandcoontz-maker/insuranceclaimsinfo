@@ -5,6 +5,8 @@ export const meta = {
   title: 'Where You Reside: The Hidden Killer Exclusion in Your Homeowner Policy',
   description:
     'The three words "where you reside" in your homeowner policy definition can eliminate your coverage entirely — especially if you move to a nursing home. Learn how this hidden exclusion works, what courts in different states have ruled, and how to protect yourself.',
+  summary:
+    'The phrase \'where you reside\' can quietly limit coverage to your primary residence, leaving a second home, a vacated home, or a rental uncovered under a homeowner policy. Confirm your policy fits how the property is actually used.',
 }
 
 export default function Content() {

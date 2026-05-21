@@ -5,6 +5,8 @@ export const meta = {
   title: 'Tree and Falling Object Damage Insurance Claims',
   description:
     'How homeowners insurance covers tree damage, falling objects, branch impacts, and debris removal — who pays, coverage limits, carrier tactics, and how to maximize your claim.',
+  summary:
+    'Homeowner policies generally cover damage when a tree or object falls on a covered structure, though debris removal and limits vary, and a fallen tree that hits nothing may not be covered. Document the impact and know the removal sub-limits.',
 }
 
 export default function Content() {

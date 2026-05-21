@@ -5,6 +5,8 @@ export const meta = {
   title: 'Wind Damage Insurance Claims',
   description:
     'How wind damage claims work, what\'s covered, disputes over wind vs. wear-and-tear, and how to document and fight for your full settlement.',
+  summary:
+    'Wind damage is generally covered, but insurers dispute wind versus wear-and-tear, especially on roofs. Document the wind event and the damage pattern, and frame wind as the cause of loss to defeat a wear-and-tear denial and get the full settlement.',
 }
 
 export default function Content() {

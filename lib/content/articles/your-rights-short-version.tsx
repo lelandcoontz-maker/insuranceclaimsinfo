@@ -5,6 +5,8 @@ export const meta = {
   title: 'Your Rights as a California Policyholder: The Short Version',
   description:
     'A plain-English summary of your most important rights under the California Fair Claims Settlement Practices Regulations — deadlines, payment rules, and what the insurer cannot do.',
+  summary:
+    'In short, California\'s Fair Claims Settlement Practices Regulations give you the right to prompt acknowledgment, a fair and timely investigation, written reasons for any denial, and prompt payment of undisputed amounts, and bar the insurer from misrepresenting your policy or unreasonably delaying.',
 }
 
 export default function Content() {

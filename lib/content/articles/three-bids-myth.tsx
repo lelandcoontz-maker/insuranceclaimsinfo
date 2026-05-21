@@ -4,6 +4,8 @@ export const meta = {
   title: "The “Three Bids” Myth: Why Your Insurance Company Cannot Require Multiple Contractor Estimates",
   description:
     "No California statute, regulation, or policy provision requires policyholders to obtain three contractor bids before a claim will be paid. Here is where the myth comes from, why carriers use it, and how to respond.",
+  summary:
+    'No California statute, regulation, or policy term requires you to get three contractor bids before your claim is paid. The \'three bids\' demand is a myth carriers use to delay and steer; you can decline and proceed with your own documented estimate.',
 }
 
 export default function Content() {

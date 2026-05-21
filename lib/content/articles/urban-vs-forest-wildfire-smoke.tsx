@@ -5,6 +5,8 @@ export const meta = {
   title: 'Urban Wildfire Smoke vs. Forest Fire Smoke: Why It Matters for Your Insurance Claim',
   description:
     'Urban wildfire smoke contains toxic chemicals from burned homes, cars, and synthetic materials that forest fire smoke does not. This distinction changes everything about remediation costs and your insurance claim.',
+  summary:
+    'Urban wildfire smoke carries toxic chemicals from burned homes, cars, and synthetics that forest smoke does not, which raises remediation requirements and costs. This distinction strengthens claims for thorough urban-smoke cleanup over a quick wipe-down.',
 }
 
 export default function Content() {

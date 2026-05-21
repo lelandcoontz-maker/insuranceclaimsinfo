@@ -6,6 +6,8 @@ export const meta = {
     'Waiver of Subrogation in Commercial Leases: Why Your Insurer Can\'t Recover from a Negligent Landlord',
   description:
     'When your commercial lease requires a waiver of subrogation, your insurer cannot recover from the landlord — even if the landlord\'s negligence caused your loss. Learn how waivers work, the ISO endorsement, the deductible trap, and how to negotiate better lease terms.',
+  summary:
+    'When your commercial lease requires a waiver of subrogation, your insurer cannot recover from the landlord even if the landlord\'s negligence caused your loss. Watch the deductible trap and negotiate the lease language carefully before signing.',
 }
 
 export default function Content() {

@@ -6,6 +6,8 @@ export const meta = {
     "Warehouse and Distribution Insurance Claims: When You're Holding Everyone Else's Property",
   description:
     "Warehouse and distribution facilities face unique insurance challenges from bailee coverage for customer goods to spoilage, sprinkler requirements, and the coinsurance problem with fluctuating inventory. Learn how to protect your operation and your claim.",
+  summary:
+    'Warehouses face bailee exposure for customers\' goods, spoilage, sprinkler requirements, and coinsurance problems from fluctuating inventory. Matching coverage to actual stock levels and documenting third-party goods are key to a full recovery.',
 }
 
 export default function Content() {

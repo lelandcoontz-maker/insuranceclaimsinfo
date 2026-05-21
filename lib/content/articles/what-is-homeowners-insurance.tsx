@@ -5,6 +5,8 @@ export const meta = {
   title: 'What Is Homeowners Insurance?',
   description:
     'A plain-language explanation of what homeowners insurance covers, how it works, what it costs, and what happens when you need to use it.',
+  summary:
+    'Homeowners insurance covers your dwelling, other structures, personal property, loss of use, and liability, in exchange for a premium. It pays to repair or replace after covered losses, subject to limits, deductibles, and exclusions. This is the plain-language basics.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Total Loss Insurance Claims — When Your Home Is a Complete Loss',
   description:
     'A comprehensive guide to total loss insurance claims in California — every coverage that activates, rebuilding vs. cashing out, contents claims, common problems, and California-specific protections.',
+  summary:
+    'A total loss activates every coverage: dwelling (often at policy limits), contents, ALE, and code upgrades. Decide between rebuilding and cashing out, knowing California protections like extended replacement cost and the right to rebuild elsewhere. Claim each coverage fully.',
 }
 
 export default function Content() {

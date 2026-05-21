@@ -5,6 +5,8 @@ export const meta = {
   title: 'Vandalism Claims: When Insurers Call It "Wear and Tear"',
   description:
     'How to handle vandalism insurance claims, push back when insurers mischaracterize vandalism as wear and tear, and document damage from break-ins, marijuana grows, and tenant destruction. Includes policy language analysis, the intent requirement, Bowers case law, burden of proof, and practical steps for policyholders.',
+  summary:
+    'Insurers often relabel vandalism as excluded wear and tear or dispute the required intent. Vandalism, including from break-ins, grow operations, or tenant destruction, is covered; document the willful damage and use the intent standard and case law to defeat mischaracterization.',
 }
 
 export default function Content() {

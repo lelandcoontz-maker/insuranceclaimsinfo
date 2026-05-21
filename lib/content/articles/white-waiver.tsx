@@ -5,6 +5,8 @@ export const meta = {
   title: 'The White Waiver: California\'s Settlement-Privilege Waiver Explained',
   description:
     'What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.',
+  summary:
+    'The White waiver, from White v. Western Title (1985), waives California\'s settlement-communication privilege so settlement talks can be used as evidence. Insurers request it for their protection; know what you are giving up before agreeing.',
 }
 
 export default function Content() {

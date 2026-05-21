@@ -5,6 +5,8 @@ export const meta = {
   title: 'Underground Climate Change and Subsidence: The Coverage Gap Beneath Your Foundation',
   description:
     'How underground climate change is causing soil shrinkage and foundation damage across the country — and why the earth movement exclusion may leave policyholders without coverage for an emerging threat.',
+  summary:
+    'Shifting groundwater and drying soils (\'underground climate change\') are causing foundation-damaging subsidence, but the earth-movement exclusion may leave this emerging threat uncovered. Coverage often turns on the cause and any covered triggering peril.',
 }
 
 export default function Content() {

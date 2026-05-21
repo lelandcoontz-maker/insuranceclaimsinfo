@@ -5,6 +5,8 @@ export const meta = {
   title: 'Who Owns Xactimate — And Why It Matters for Your Claim',
   description:
     'The software that prices your insurance claim is owned by the same industry that pays your claim. Here is the ownership chain, what it means, and why you should never accept an Xactimate estimate at face value.',
+  summary:
+    'Xactimate is owned by Verisk, deeply tied to the insurance industry that uses it to price your claim, an inherent conflict of interest. That is reason never to accept a carrier\'s Xactimate estimate at face value.',
 }
 
 export default function Content() {

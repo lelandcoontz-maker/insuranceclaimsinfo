@@ -2391,55 +2391,68 @@
   },
   "three-bids-myth": {
     "title": "The “Three Bids” Myth: Why Your Insurance Company Cannot Require Multiple Contractor Estimates",
-    "description": "No California statute, regulation, or policy provision requires policyholders to obtain three contractor bids before a claim will be paid. Here is where the myth comes from, why carriers use it, and how to respond."
+    "description": "No California statute, regulation, or policy provision requires policyholders to obtain three contractor bids before a claim will be paid. Here is where the myth comes from, why carriers use it, and how to respond.",
+    "summary": "No California statute, regulation, or policy term requires you to get three contractor bids before your claim is paid. The 'three bids' demand is a myth carriers use to delay and steer; you can decline and proceed with your own documented estimate."
   },
   "three-trade-rule-overhead-profit": {
     "title": "The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit",
-    "description": "The three-trade rule is a practical shorthand for a legal principle that appellate courts across the country have adopted and enforced for decades. Learn the case law, the regulatory authority, and how to fight for O&P on your claim."
+    "description": "The three-trade rule is a practical shorthand for a legal principle that appellate courts across the country have adopted and enforced for decades. Learn the case law, the regulatory authority, and how to fight for O&P on your claim.",
+    "summary": "The three-trade rule is shorthand for a principle courts nationwide enforce: general contractor overhead and profit is owed whenever a job needs a GC to coordinate multiple (roughly three or more) trades. Use the case law to claim O&P the carrier omitted."
   },
   "three-trade-rule": {
     "title": "The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit",
-    "description": "The three-trade rule is a practical shorthand for a legal principle adopted by appellate courts across the country: overhead and profit are owed whenever a general contractor is reasonably likely to be needed. Nine verified case law citations, state regulatory authority, and practical guidance for policyholders."
+    "description": "The three-trade rule is a practical shorthand for a legal principle adopted by appellate courts across the country: overhead and profit are owed whenever a general contractor is reasonably likely to be needed. Nine verified case law citations, state regulatory authority, and practical guidance for policyholders.",
+    "summary": "Under the widely adopted three-trade rule, overhead and profit are owed whenever a general contractor is reasonably likely to be needed, typically when repairs span three or more trades. Verified case law and regulatory authority support claiming O&P."
   },
   "time-pressure-negotiation-weapon": {
     "title": "How Insurance Companies Use Time as Their Most Powerful Weapon",
-    "description": "ALE limits, depreciation deadlines, claim fatigue, and the statute of limitations &mdash; how the passage of time itself becomes the carrier&apos;s strongest negotiation tool. Learn to recognize and neutralize these structural pressures."
+    "description": "ALE limits, depreciation deadlines, claim fatigue, and the statute of limitations &mdash; how the passage of time itself becomes the carrier&apos;s strongest negotiation tool. Learn to recognize and neutralize these structural pressures.",
+    "summary": "Time itself is the carrier's weapon: ALE limits, depreciation deadlines, claim fatigue, and the one-year suit limitation all pressure you to settle low. Recognize these structural clocks and manage them so delay does not force a bad settlement."
   },
   "tortious-interference-insurance-claims": {
     "title": "Tortious Interference with Contractor Relationships in Insurance Claims",
-    "description": "When an insurance carrier deliberately disrupts the policyholder&apos;s relationship with their chosen contractor, it may constitute tortious interference under California law &mdash; opening the door to tort damages, punitive damages, and bad faith liability."
+    "description": "When an insurance carrier deliberately disrupts the policyholder&apos;s relationship with their chosen contractor, it may constitute tortious interference under California law &mdash; opening the door to tort damages, punitive damages, and bad faith liability.",
+    "summary": "When an insurer deliberately disrupts your relationship with your chosen contractor, that can be tortious interference under California law, exposing the carrier to tort and even punitive damages on top of bad faith. Document the interference."
   },
   "total-loss": {
     "title": "Total Loss Insurance Claims — When Your Home Is a Complete Loss",
-    "description": "A comprehensive guide to total loss insurance claims in California — every coverage that activates, rebuilding vs. cashing out, contents claims, common problems, and California-specific protections."
+    "description": "A comprehensive guide to total loss insurance claims in California — every coverage that activates, rebuilding vs. cashing out, contents claims, common problems, and California-specific protections.",
+    "summary": "A total loss activates every coverage: dwelling (often at policy limits), contents, ALE, and code upgrades. Decide between rebuilding and cashing out, knowing California protections like extended replacement cost and the right to rebuild elsewhere. Claim each coverage fully."
   },
   "trade-secret-claims-manuals": {
     "title": "Insurance Companies Hiding Behind Trade Secrets: The Battle to Obtain Claims Handling Manuals in Litigation",
-    "description": "Insurance carriers routinely claim their claims handling manuals and training materials are trade secrets to block discovery in litigation. Learn how California courts have addressed this objection and why these documents matter for policyholders."
+    "description": "Insurance carriers routinely claim their claims handling manuals and training materials are trade secrets to block discovery in litigation. Learn how California courts have addressed this objection and why these documents matter for policyholders.",
+    "summary": "Carriers often claim their claims-handling manuals and training materials are trade secrets to block discovery, but California courts have ordered their production under protective orders. These documents can reveal how the insurer was supposed to handle your claim."
   },
   "tree-falling-object-damage": {
     "title": "Tree and Falling Object Damage Insurance Claims",
-    "description": "How homeowners insurance covers tree damage, falling objects, branch impacts, and debris removal — who pays, coverage limits, carrier tactics, and how to maximize your claim."
+    "description": "How homeowners insurance covers tree damage, falling objects, branch impacts, and debris removal — who pays, coverage limits, carrier tactics, and how to maximize your claim.",
+    "summary": "Homeowner policies generally cover damage when a tree or object falls on a covered structure, though debris removal and limits vary, and a fallen tree that hits nothing may not be covered. Document the impact and know the removal sub-limits."
   },
   "unattended-death-claims": {
     "title": "Unattended Death Insurance Claims: What Families and Property Owners Need to Know",
-    "description": "How insurance handles unattended death claims ��� decomposition damage, coverage analysis under the HO-3, common carrier denials, the pollution exclusion fight, ALE, personal property contamination, industrial hygienists, and practical steps for families navigating the worst moment of their lives."
+    "description": "How insurance handles unattended death claims ��� decomposition damage, coverage analysis under the HO-3, common carrier denials, the pollution exclusion fight, ALE, personal property contamination, industrial hygienists, and practical steps for families navigating the worst moment of their lives.",
+    "summary": "An unattended death can cause decomposition damage and contamination that the HO-3 should cover, though carriers fight it under the pollution exclusion. ALE, contaminated personal property, and an industrial hygienist's documentation all matter to these difficult claims."
   },
   "undefined-policy-terms": {
     "title": "Undefined Terms in Your Insurance Policy: How Carriers Exploit Ambiguous Language",
-    "description": "Insurance policies are full of undefined terms that carriers interpret narrowly to reduce claims. Learn which common terms lack definitions, how insurers exploit the ambiguity, and how to push back using California law."
+    "description": "Insurance policies are full of undefined terms that carriers interpret narrowly to reduce claims. Learn which common terms lack definitions, how insurers exploit the ambiguity, and how to push back using California law.",
+    "summary": "Policies are full of undefined words that carriers read narrowly to cut claims. Under California law, an undefined term is given its ordinary meaning and ambiguity is construed in favor of coverage, so you can push back on a strained interpretation."
   },
   "underground-climate-change-subsidence": {
     "title": "Underground Climate Change and Subsidence: The Coverage Gap Beneath Your Foundation",
-    "description": "How underground climate change is causing soil shrinkage and foundation damage across the country — and why the earth movement exclusion may leave policyholders without coverage for an emerging threat."
+    "description": "How underground climate change is causing soil shrinkage and foundation damage across the country — and why the earth movement exclusion may leave policyholders without coverage for an emerging threat.",
+    "summary": "Shifting groundwater and drying soils ('underground climate change') are causing foundation-damaging subsidence, but the earth-movement exclusion may leave this emerging threat uncovered. Coverage often turns on the cause and any covered triggering peril."
   },
   "underinsurance-broker-liability": {
     "title": "Underinsured After a Loss? When Your Insurance Agent or Broker May Be Liable",
-    "description": "When a policyholder discovers they are underinsured after a major loss, the insurance agent or broker who placed the coverage may bear liability for professional negligence. Learn about broker duties, the special relationship doctrine, statutes of limitations, and how to pursue an E&O claim in California."
+    "description": "When a policyholder discovers they are underinsured after a major loss, the insurance agent or broker who placed the coverage may bear liability for professional negligence. Learn about broker duties, the special relationship doctrine, statutes of limitations, and how to pursue an E&O claim in California.",
+    "summary": "If you are underinsured after a loss, the agent or broker who placed the coverage may be liable for professional negligence, especially where a special relationship or specific advice existed. California sets deadlines for such E&O claims; act promptly."
   },
   "underinsured-after-wildfire": {
     "title": "Underinsured After a Wildfire: What to Do When Your Policy Isn't Enough",
-    "description": "Why so many California homeowners are underinsured after a wildfire — and strategies to maximize recovery when your policy limits fall short of actual rebuild costs."
+    "description": "Why so many California homeowners are underinsured after a wildfire — and strategies to maximize recovery when your policy limits fall short of actual rebuild costs.",
+    "summary": "Many California homeowners discover after a wildfire that their limits fall short of soaring rebuild costs. Maximize recovery by claiming extended replacement cost, code upgrades, ALE, and every applicable coverage, and consider a claim against the broker who under-insured you."
   },
   "underinsured-how-to-fix": {
     "title": "Why Your Home Might Be Underinsured — and How to Fix It",
@@ -2453,75 +2466,93 @@
   },
   "undue-influence-insurance": {
     "title": "Undue Influence and Insurance Policy Changes: When Someone Manipulates an Elderly Policyholder’s Coverage",
-    "description": "When a caretaker, new spouse, or family member with ulterior motives convinces an elderly policyholder to change beneficiaries, reduce coverage, cancel a policy, or sign claim documents, California law provides powerful remedies. Learn the legal framework, the red flags, and how to restore the status quo."
+    "description": "When a caretaker, new spouse, or family member with ulterior motives convinces an elderly policyholder to change beneficiaries, reduce coverage, cancel a policy, or sign claim documents, California law provides powerful remedies. Learn the legal framework, the red flags, and how to restore the status quo.",
+    "summary": "When someone manipulates an elderly policyholder into changing beneficiaries, cutting coverage, canceling a policy, or signing claim documents, California law on undue influence provides remedies to undo it. Watch for red flags and act to restore the prior status."
   },
   "unexpected-fire-causes-subrogation": {
     "title": "When Fires Start Themselves: Unexpected Ignition Sources, Misdiagnosed Origins & Subrogation",
-    "description": "Crystal doorknobs, oily rags, pyrolysis, defective panels, recalled vehicles — unexpected fire causes that get misdiagnosed and the subrogation claims your insurer may be ignoring."
+    "description": "Crystal doorknobs, oily rags, pyrolysis, defective panels, recalled vehicles — unexpected fire causes that get misdiagnosed and the subrogation claims your insurer may be ignoring.",
+    "summary": "Fires start in surprising ways, oily rags, pyrolysis, defective electrical panels, recalled vehicles, and these origins are often misdiagnosed. Identifying the true cause can both support coverage and open a subrogation claim your insurer may be ignoring."
   },
   "unlicensed-adjusters": {
     "title": "Unlicensed Adjusters: When Your Claim Is Handled by Someone Without a License",
-    "description": "The problem of unlicensed adjusters handling California insurance claims — what the law requires, why insurers use unlicensed personnel, how it affects your claim, and what you can do about it."
+    "description": "The problem of unlicensed adjusters handling California insurance claims — what the law requires, why insurers use unlicensed personnel, how it affects your claim, and what you can do about it.",
+    "summary": "California requires adjusters to be licensed, yet insurers sometimes use unlicensed personnel to handle claims. An unlicensed adjuster handling your claim is a violation you can raise, and it can undermine the carrier's positions."
   },
   "up-amicus-briefs-california": {
     "title": "United Policyholders Amicus Briefs: California Cases",
-    "description": "A compiled list of United Policyholders friend-of-the-court briefs in California insurance cases — property damage, bad faith, coverage interpretation, and claims handling disputes that affect every policyholder in the state."
+    "description": "A compiled list of United Policyholders friend-of-the-court briefs in California insurance cases — property damage, bad faith, coverage interpretation, and claims handling disputes that affect every policyholder in the state.",
+    "summary": "United Policyholders files friend-of-the-court briefs in major California insurance cases on bad faith, coverage, and claims handling. This compiled list points to UP's positions, which often support policyholders and can inform your own dispute."
   },
   "urban-vs-forest-wildfire-smoke": {
     "title": "Urban Wildfire Smoke vs. Forest Fire Smoke: Why It Matters for Your Insurance Claim",
-    "description": "Urban wildfire smoke contains toxic chemicals from burned homes, cars, and synthetic materials that forest fire smoke does not. This distinction changes everything about remediation costs and your insurance claim."
+    "description": "Urban wildfire smoke contains toxic chemicals from burned homes, cars, and synthetic materials that forest fire smoke does not. This distinction changes everything about remediation costs and your insurance claim.",
+    "summary": "Urban wildfire smoke carries toxic chemicals from burned homes, cars, and synthetics that forest smoke does not, which raises remediation requirements and costs. This distinction strengthens claims for thorough urban-smoke cleanup over a quick wipe-down."
   },
   "vacancy-unoccupancy": {
     "title": "Vacancy and Unoccupancy Clauses: How an Empty Home Can Cost You Your Coverage",
-    "description": "Vacancy and unoccupancy clauses in property insurance can eliminate coverage for vandalism, fire, and other perils if your home is empty too long. Learn the critical difference between vacant and unoccupied, how courts interpret these clauses, and what you can do to protect yourself."
+    "description": "Vacancy and unoccupancy clauses in property insurance can eliminate coverage for vandalism, fire, and other perils if your home is empty too long. Learn the critical difference between vacant and unoccupied, how courts interpret these clauses, and what you can do to protect yourself.",
+    "summary": "Vacancy and unoccupancy clauses can cut coverage for vandalism, water, and other perils once a home sits empty too long. 'Vacant' and 'unoccupied' mean different things and are interpreted strictly, so know the rules before leaving a property empty."
   },
   "valuable-papers-records": {
     "title": "Valuable Papers and Records Coverage: Protecting the Information That Runs Your Life and Business",
-    "description": "Valuable papers and records coverage pays to research and reconstruct lost documents, blueprints, manuscripts, and irreplaceable records after a disaster. Learn how this coverage works in homeowner and commercial policies, what qualifies, and how to protect yourself before a loss."
+    "description": "Valuable papers and records coverage pays to research and reconstruct lost documents, blueprints, manuscripts, and irreplaceable records after a disaster. Learn how this coverage works in homeowner and commercial policies, what qualifies, and how to protect yourself before a loss.",
+    "summary": "Valuable papers and records coverage pays to research and reconstruct lost documents, blueprints, and irreplaceable records after a loss, in both homeowner and commercial policies. Know what qualifies and the limits, because reconstruction costs add up."
   },
   "valued-policy-laws": {
     "title": "Valued Policy Laws: When Total Loss Means Full Policy Limits",
-    "description": "What valued policy laws are, which states have them, how they work in total loss claims, and the critical fact that California is NOT a valued policy state — meaning policyholders must prove actual loss even in total destruction."
+    "description": "What valued policy laws are, which states have them, how they work in total loss claims, and the critical fact that California is NOT a valued policy state — meaning policyholders must prove actual loss even in total destruction.",
+    "summary": "In valued-policy-law states, a total loss pays the full policy limit automatically. California is NOT a valued-policy state, so even in total destruction you must prove your actual loss, which makes documentation and adequate limits essential."
   },
   "vandalism-claims": {
     "title": "Vandalism Claims: When Insurers Call It ",
-    "description": "How to handle vandalism insurance claims, push back when insurers mischaracterize vandalism as wear and tear, and document damage from break-ins, marijuana grows, and tenant destruction. Includes policy language analysis, the intent requirement, Bowers case law, burden of proof, and practical steps for policyholders."
+    "description": "How to handle vandalism insurance claims, push back when insurers mischaracterize vandalism as wear and tear, and document damage from break-ins, marijuana grows, and tenant destruction. Includes policy language analysis, the intent requirement, Bowers case law, burden of proof, and practical steps for policyholders.",
+    "summary": "Insurers often relabel vandalism as excluded wear and tear or dispute the required intent. Vandalism, including from break-ins, grow operations, or tenant destruction, is covered; document the willful damage and use the intent standard and case law to defeat mischaracterization."
   },
   "vehicle-impact-claims": {
     "title": "Vehicle Impact Insurance Claims: When a Car Hits Your Building",
-    "description": "How to handle an insurance claim when a vehicle strikes your home or commercial building — first-party vs. third-party strategies, scope disputes, engineering assessments, code upgrades, loss of use, and subrogation."
+    "description": "How to handle an insurance claim when a vehicle strikes your home or commercial building — first-party vs. third-party strategies, scope disputes, engineering assessments, code upgrades, loss of use, and subrogation.",
+    "summary": "When a vehicle strikes your building, you can claim against your own policy (first-party) or the driver's (third-party). Watch scope disputes, code upgrades, loss of use, and subrogation, and choose the strategy that gets you paid fastest and fullest."
   },
   "victim-becomes-villain-tort-reform": {
     "title": "When the Victim Becomes the Villain: The Tort Reform Narrative and What It Costs Policyholders",
-    "description": "How the insurance industry spent hundreds of millions turning injured people into villains — and how that narrative directly undermines your insurance claim today. The real story of Stella Liebeck, the funding behind tort reform, and what it means for policyholders."
+    "description": "How the insurance industry spent hundreds of millions turning injured people into villains — and how that narrative directly undermines your insurance claim today. The real story of Stella Liebeck, the funding behind tort reform, and what it means for policyholders.",
+    "summary": "A decades-long, well-funded tort-reform campaign reframed injured claimants as greedy villains (the misrepresented Stella Liebeck case is the classic example). That narrative quietly biases adjusters and juries against your legitimate claim today."
   },
   "virtual-inspections-remote-adjusting": {
     "title": "Virtual Inspections and Remote Adjusting: How Desk Claims Affect Your Payout",
-    "description": "How the shift to virtual inspections, desk adjusting, and remote claim handling affects property insurance claim outcomes — and what policyholders can do to protect their interests."
+    "description": "How the shift to virtual inspections, desk adjusting, and remote claim handling affects property insurance claim outcomes — and what policyholders can do to protect their interests.",
+    "summary": "Virtual inspections and desk adjusting let carriers assess damage without visiting, which often misses or understates damage. Insist on a thorough inspection, supply your own detailed photos and documentation, and challenge a payout based on remote review."
   },
   "virus-bacteria-exclusion-covid": {
     "title": "The Virus and Bacteria Exclusion: How ISO CP 01 40 Killed Most COVID Business Interruption Claims",
-    "description": "History and analysis of the ISO CP 01 40 virus and bacteria exclusion, its role in COVID-19 business interruption claim denials, key court decisions, the direct physical loss debate, and lessons for future pandemic planning."
+    "description": "History and analysis of the ISO CP 01 40 virus and bacteria exclusion, its role in COVID-19 business interruption claim denials, key court decisions, the direct physical loss debate, and lessons for future pandemic planning.",
+    "summary": "The ISO CP 01 40 virus and bacteria exclusion, present in many policies, defeated most COVID business-interruption claims, and courts largely held there was no 'direct physical loss.' It is a key lesson for pandemic and contamination coverage planning."
   },
   "waiver-of-subrogation-commercial-leases": {
     "title": "Waiver of Subrogation in Commercial Leases: Why Your Insurer Can't Recover from a Negligent Landlord",
-    "description": "When your commercial lease requires a waiver of subrogation, your insurer cannot recover from the landlord — even if the landlord's negligence caused your loss. Learn how waivers work, the ISO endorsement, the deductible trap, and how to negotiate better lease terms."
+    "description": "When your commercial lease requires a waiver of subrogation, your insurer cannot recover from the landlord — even if the landlord's negligence caused your loss. Learn how waivers work, the ISO endorsement, the deductible trap, and how to negotiate better lease terms.",
+    "summary": "When your commercial lease requires a waiver of subrogation, your insurer cannot recover from the landlord even if the landlord's negligence caused your loss. Watch the deductible trap and negotiate the lease language carefully before signing."
   },
   "warehouse-distribution-insurance-claims": {
     "title": "Warehouse and Distribution Insurance Claims: When You",
-    "description": "Warehouse and distribution facilities face unique insurance challenges from bailee coverage for customer goods to spoilage, sprinkler requirements, and the coinsurance problem with fluctuating inventory. Learn how to protect your operation and your claim."
+    "description": "Warehouse and distribution facilities face unique insurance challenges from bailee coverage for customer goods to spoilage, sprinkler requirements, and the coinsurance problem with fluctuating inventory. Learn how to protect your operation and your claim.",
+    "summary": "Warehouses face bailee exposure for customers' goods, spoilage, sprinkler requirements, and coinsurance problems from fluctuating inventory. Matching coverage to actual stock levels and documenting third-party goods are key to a full recovery."
   },
   "water-backup-endorsement": {
     "title": "Water Backup Endorsement: What It Actually Covers, What It Does Not, and Why Many ",
-    "description": "A detailed guide to the water backup endorsement — what it covers, how sub-limits work, the critical mechanical difference between a true sewer backup and a plumbing blockage with overflow, common carrier denial tactics, and how to fight for proper coverage on water-from-drain claims."
+    "description": "A detailed guide to the water backup endorsement — what it covers, how sub-limits work, the critical mechanical difference between a true sewer backup and a plumbing blockage with overflow, common carrier denial tactics, and how to fight for proper coverage on water-from-drain claims.",
+    "summary": "A water backup endorsement covers sewer or drain backup and sump overflow, subject to a sub-limit, but a plumbing blockage with overflow is mechanically different and may fall under standard coverage. Identify the true cause to claim under the right provision."
   },
   "water-damage-categories-classes": {
     "title": "Water Damage Categories and Classes: Why IICRC Classification Matters for Your Claim",
-    "description": "A comprehensive guide to IICRC S500 water damage categories (1-3) and classes (1-4), how classification drives the scope and cost of remediation, how carriers downgrade categories to underpay claims, and why a certified hygienist&apos;s lab results can override a textbook classification."
+    "description": "A comprehensive guide to IICRC S500 water damage categories (1-3) and classes (1-4), how classification drives the scope and cost of remediation, how carriers downgrade categories to underpay claims, and why a certified hygienist&apos;s lab results can override a textbook classification.",
+    "summary": "IICRC S500 grades water by category (1 clean to 3 grossly contaminated) and class (extent of saturation), which drives the scope and cost of remediation. Carriers downgrade the category to underpay; a hygienist's lab results can override a textbook call."
   },
   "water-damage-claims": {
     "title": "Water Damage Insurance Claims: A Complete Guide",
-    "description": "How to handle water damage insurance claims — from emergency response to final settlement. Covers sudden vs. gradual leaks, slab leaks, and common carrier disputes."
+    "description": "How to handle water damage insurance claims — from emergency response to final settlement. Covers sudden vs. gradual leaks, slab leaks, and common carrier disputes.",
+    "summary": "Water claims turn on the sudden-versus-gradual distinction: sudden accidental discharge is generally covered, while long-term seepage often is not. Respond fast, document the source, and counter carrier attempts to recharacterize a covered sudden loss as excluded gradual damage."
   },
   "water-leak-what-to-do": {
     "title": "I Had a Water Leak — What Do I Do Right Now?",
@@ -2530,11 +2561,13 @@
   },
   "wear-and-tear-cause-of-loss": {
     "title": "Wear and Tear Is a Cause of Loss Exclusion — Not a Condition of Property Exclusion",
-    "description": "The most misunderstood exclusion in property insurance. Your policy excludes wear and tear as a CAUSE OF LOSS — it does not exclude damage to property that happens to be worn. If wind blew the shingles off, wear and tear didn't cause the loss. Wind did."
+    "description": "The most misunderstood exclusion in property insurance. Your policy excludes wear and tear as a CAUSE OF LOSS — it does not exclude damage to property that happens to be worn. If wind blew the shingles off, wear and tear didn't cause the loss. Wind did.",
+    "summary": "Wear and tear is excluded as a cause of loss, not as a condition of property. If wind blew off worn shingles, wind caused the loss, not wear, so the claim is covered. Frame the cause of the loss, not the age of the item."
   },
   "wear-and-tear-exclusion": {
     "title": "The Wear and Tear Exclusion: When Insurance Companies Confuse Condition with Causation",
-    "description": "The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why "
+    "description": "The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why ",
+    "summary": "The wear and tear exclusion bars losses caused by wear and tear, not losses to property that merely shows wear. Insurers confuse condition with causation to deny; if a covered peril caused the damage, an old or worn component is still payable."
   },
   "what-does-homeowner-policy-cover": {
     "title": "What Does My Homeowner Policy Actually Cover?",
@@ -2543,7 +2576,8 @@
   },
   "what-is-homeowners-insurance": {
     "title": "What Is Homeowners Insurance?",
-    "description": "A plain-language explanation of what homeowners insurance covers, how it works, what it costs, and what happens when you need to use it."
+    "description": "A plain-language explanation of what homeowners insurance covers, how it works, what it costs, and what happens when you need to use it.",
+    "summary": "Homeowners insurance covers your dwelling, other structures, personal property, loss of use, and liability, in exchange for a premium. It pays to repair or replace after covered losses, subject to limits, deductibles, and exclusions. This is the plain-language basics."
   },
   "what-public-adjuster-does": {
     "title": "What a Public Adjuster Does — And When You Might Want One",
@@ -2557,47 +2591,58 @@
   },
   "when-not-to-file-claim": {
     "title": "When NOT to File an Insurance Claim",
-    "description": "Sometimes the best decision is not to file. When damage is below your deductible, when the loss is excluded, or when a claim could trigger nonrenewal, a careful analysis before filing can save you money and protect your insurability."
+    "description": "Sometimes the best decision is not to file. When damage is below your deductible, when the loss is excluded, or when a claim could trigger nonrenewal, a careful analysis before filing can save you money and protect your insurability.",
+    "summary": "Sometimes not filing is the smart move: when damage is below your deductible, the loss is excluded, or a claim could trigger non-renewal or surcharges. Analyze the cost, coverage, and insurability impact before you file."
   },
   "when-to-hire-attorney": {
     "title": "When to Hire an Insurance Claim Attorney — And How Attorneys and Public Adjusters Work Together",
-    "description": "Not every insurance claim needs a lawyer, but some absolutely do. Learn the fundamental difference between attorneys and Public Adjusters, when you need one or both, how their fees work, and how the PA-to-attorney pipeline maximizes your recovery."
+    "description": "Not every insurance claim needs a lawyer, but some absolutely do. Learn the fundamental difference between attorneys and Public Adjusters, when you need one or both, how their fees work, and how the PA-to-attorney pipeline maximizes your recovery.",
+    "summary": "Not every claim needs a lawyer, but bad faith, outright denial, or litigation does. A public adjuster handles valuation and negotiation; an attorney handles legal disputes. They can work together, with the PA-to-attorney pipeline maximizing recovery."
   },
   "when-to-hire-industrial-hygienist": {
     "title": "When to Hire an Industrial Hygienist (CIH) for Your Insurance Claim",
-    "description": "A Certified Industrial Hygienist provides independent contamination documentation that strengthens your insurance claim. Learn what a CIH does, when you need one, how to find a qualified professional, and why the carrier's assigned expert is not the same thing."
+    "description": "A Certified Industrial Hygienist provides independent contamination documentation that strengthens your insurance claim. Learn what a CIH does, when you need one, how to find a qualified professional, and why the carrier's assigned expert is not the same thing.",
+    "summary": "A Certified Industrial Hygienist (CIH) provides independent, lab-backed documentation of contamination (mold, smoke, sewage, chemicals) that strengthens your claim. The carrier's assigned expert is not neutral, so a CIH on your side can be decisive."
   },
   "where-you-reside-exclusion": {
     "title": "Where You Reside: The Hidden Killer Exclusion in Your Homeowner Policy",
-    "description": "The three words "
+    "description": "The three words ",
+    "summary": "The phrase 'where you reside' can quietly limit coverage to your primary residence, leaving a second home, a vacated home, or a rental uncovered under a homeowner policy. Confirm your policy fits how the property is actually used."
   },
   "white-waiver-insurance-settlement-confidentiality": {
     "title": "The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret",
-    "description": "What a White waiver is, why insurers ask you to sign one, what rights you surrender, and how to protect yourself. California law on settlement confidentiality in insurance bad faith disputes."
+    "description": "What a White waiver is, why insurers ask you to sign one, what rights you surrender, and how to protect yourself. California law on settlement confidentiality in insurance bad faith disputes.",
+    "summary": "A White waiver asks you to keep settlement communications confidential, surrendering the right to use them as evidence of bad faith. Understand what you give up before signing, and how California settlement-privilege law applies."
   },
   "white-waiver-settlement-confidentiality": {
     "title": "The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret",
-    "description": "What a White waiver is, why insurers ask you to sign one, whether you should, and how to protect yourself — based on the landmark California Supreme Court decision White v. Western Title Insurance Co."
+    "description": "What a White waiver is, why insurers ask you to sign one, whether you should, and how to protect yourself — based on the landmark California Supreme Court decision White v. Western Title Insurance Co.",
+    "summary": "Insurers sometimes ask you to sign a White waiver to keep settlement talks secret, which can waive your ability to cite those communications in a bad-faith case. Based on White v. Western Title, weigh carefully whether to sign."
   },
   "white-waiver": {
     "title": "The White Waiver: California's Settlement-Privilege Waiver Explained",
-    "description": "What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one."
+    "description": "What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.",
+    "summary": "The White waiver, from White v. Western Title (1985), waives California's settlement-communication privilege so settlement talks can be used as evidence. Insurers request it for their protection; know what you are giving up before agreeing."
   },
   "wildfire-guide": {
     "title": "California Wildfire Claims: A Complete Guide",
-    "description": "A comprehensive guide to California wildfire insurance claims — from immediate steps after a fire to understanding smoke contamination, coverage details, and common insurer tactics."
+    "description": "A comprehensive guide to California wildfire insurance claims — from immediate steps after a fire to understanding smoke contamination, coverage details, and common insurer tactics.",
+    "summary": "A California wildfire claim spans immediate post-fire steps, smoke and ash contamination, ALE, dwelling and contents coverage, and common carrier tactics. This guide walks the whole process so you can pursue every coverage a wildfire triggers."
   },
   "wildfire-mudslide-coverage": {
     "title": "Mudslide After Wildfire: Why Earth Movement Is Covered When Fire Is the Cause",
-    "description": "When a wildfire strips vegetation and the next rain triggers a mudslide, the earth movement exclusion does not apply. Learn how the efficient proximate cause doctrine and the California Department of Insurance protect policyholders."
+    "description": "When a wildfire strips vegetation and the next rain triggers a mudslide, the earth movement exclusion does not apply. Learn how the efficient proximate cause doctrine and the California Department of Insurance protect policyholders.",
+    "summary": "When a wildfire strips vegetation and the next rain triggers a mudslide, the earth-movement exclusion does not apply, because fire is the efficient proximate cause. California's doctrine and the CDI confirm the resulting mudslide damage is covered."
   },
   "wildfire-smoke-physical-loss": {
     "title": "Wildfire Smoke and ",
-    "description": "When wildfire smoke infiltrates a home without flames ever reaching it, does the contamination constitute direct physical loss under a homeowner policy? California courts are split, but the science and the law favor policyholders."
+    "description": "When wildfire smoke infiltrates a home without flames ever reaching it, does the contamination constitute direct physical loss under a homeowner policy? California courts are split, but the science and the law favor policyholders.",
+    "summary": "When wildfire smoke contaminates a home without flames reaching it, the question is whether that contamination is 'direct physical loss.' California courts are split, but the science of pervasive toxic residue and the law favor coverage for policyholders."
   },
   "wind-damage-claims": {
     "title": "Wind Damage Insurance Claims",
-    "description": "How wind damage claims work, what's covered, disputes over wind vs. wear-and-tear, and how to document and fight for your full settlement."
+    "description": "How wind damage claims work, what's covered, disputes over wind vs. wear-and-tear, and how to document and fight for your full settlement.",
+    "summary": "Wind damage is generally covered, but insurers dispute wind versus wear-and-tear, especially on roofs. Document the wind event and the damage pattern, and frame wind as the cause of loss to defeat a wear-and-tear denial and get the full settlement."
   },
   "writing-effective-insurance-letter": {
     "title": "How to Write a Letter to Your Insurance Company That Gets Results",
@@ -2606,58 +2651,72 @@
   },
   "xactimate-how-it-works": {
     "title": "How Xactimate Works: A Policyholder",
-    "description": "Xactimate is the software insurance companies use to price your claim. Understanding how it works — regional pricing databases, line items, labor settings, and its limitations — is the first step to getting paid fairly."
+    "description": "Xactimate is the software insurance companies use to price your claim. Understanding how it works — regional pricing databases, line items, labor settings, and its limitations — is the first step to getting paid fairly.",
+    "summary": "Xactimate is the software insurers use to price your claim, built on regional pricing databases, line items, and labor settings. Understanding how it works, and its limitations, is the first step to recognizing and correcting an estimate that underpays."
   },
   "xactimate-labor-efficiency-settings": {
     "title": "Xactimate Labor Efficiency Settings: How Restoration vs. Rebuild Changes Every Line Item on Your Estimate",
-    "description": "A comprehensive guide on how Xactimate"
+    "description": "A comprehensive guide on how Xactimate",
+    "summary": "Xactimate's labor efficiency setting, restoration versus new construction (rebuild), changes the labor price on every line item. Carriers often use the cheaper 'new construction' setting on repair work; the correct setting can substantially raise a fair estimate."
   },
   "xactimate-line-item-manipulation": {
     "title": "Xactimate Line Item Manipulation: How ",
-    "description": "A detailed guide for policyholders, public adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the "
+    "description": "A detailed guide for policyholders, public adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the ",
+    "summary": "Carriers manipulate Xactimate estimates by omitting line items, using low waste factors, wrong labor settings, and stale pricing to shrink the total. Knowing these tactics lets you spot and correct a manipulated estimate line by line."
   },
   "xactimate-line-items": {
     "title": "How to Read an Xactimate Estimate Line by Line",
-    "description": "A practical walkthrough of Xactimate estimates — how to read selector codes, line items, depreciation, O&P, sketches, waste factors, and how to spot a thin estimate that underpays your claim."
+    "description": "A practical walkthrough of Xactimate estimates — how to read selector codes, line items, depreciation, O&P, sketches, waste factors, and how to spot a thin estimate that underpays your claim.",
+    "summary": "Reading an Xactimate estimate means understanding selector codes, line items, depreciation, O&P, sketches, and waste factors. Learning to read it line by line lets you spot a thin estimate that omits scope and underpays your claim."
   },
   "xactimate-not-the-law": {
     "title": "Xactimate Is Not the Law: Why Carrier Estimates Are Not Binding on Your Claim",
-    "description": "Xactimate dominates insurance estimating, but it is not a legal standard. Verisk's own EULA disclaims pricing accuracy. Multiple federal courts have rejected Xactimate as determinative. California regulations require actual market costs. Learn why your insurer's Xactimate estimate is a starting point — not the final word."
+    "description": "Xactimate dominates insurance estimating, but it is not a legal standard. Verisk's own EULA disclaims pricing accuracy. Multiple federal courts have rejected Xactimate as determinative. California regulations require actual market costs. Learn why your insurer's Xactimate estimate is a starting point — not the final word.",
+    "summary": "Xactimate is an estimating tool, not a legal standard, and Verisk's own EULA disclaims its pricing accuracy. Courts have rejected it as determinative, and California requires actual market costs, so a carrier's Xactimate number is a starting point, not the final word."
   },
   "xactimate-overhead-profit": {
     "title": "Overhead and Profit: When Your Insurance Company Owes It and Why They Refuse",
-    "description": "Insurance carriers routinely deny overhead and profit on repair estimates. The 'three-trade rule' they cite has no legal basis. Here is what O&P actually is, when it's owed, and how to fight the denial."
+    "description": "Insurance carriers routinely deny overhead and profit on repair estimates. The 'three-trade rule' they cite has no legal basis. Here is what O&P actually is, when it's owed, and how to fight the denial.",
+    "summary": "Carriers routinely deny overhead and profit, citing a 'three-trade rule' with no real legal basis as a bar. O&P is owed whenever a general contractor is reasonably needed; know what it is and how to fight the denial."
   },
   "xactimate-ownership-conflict": {
     "title": "Who Owns Xactimate — And Why It Matters for Your Claim",
-    "description": "The software that prices your insurance claim is owned by the same industry that pays your claim. Here is the ownership chain, what it means, and why you should never accept an Xactimate estimate at face value."
+    "description": "The software that prices your insurance claim is owned by the same industry that pays your claim. Here is the ownership chain, what it means, and why you should never accept an Xactimate estimate at face value.",
+    "summary": "Xactimate is owned by Verisk, deeply tied to the insurance industry that uses it to price your claim, an inherent conflict of interest. That is reason never to accept a carrier's Xactimate estimate at face value."
   },
   "xactimate-price-list-dates": {
     "title": "Xactimate Price List Dates: Why the Date on Your Estimate Matters More Than You Think",
-    "description": "How insurance companies use outdated Xactimate price lists to systematically underpay claims. Learn where to find the price list date, why it matters, and how to challenge an estimate built on stale pricing data."
+    "description": "How insurance companies use outdated Xactimate price lists to systematically underpay claims. Learn where to find the price list date, why it matters, and how to challenge an estimate built on stale pricing data.",
+    "summary": "Xactimate price lists update regularly, and carriers sometimes use an outdated list to underpay at stale prices. Check the price-list date on your estimate, and challenge any estimate built on pricing that does not reflect current costs."
   },
   "xactimate-pricing-gap": {
     "title": "Why Your Insurance Estimate Is Lower Than Your Contractor",
-    "description": "Xactimate estimates are often 30% or more below actual repair costs. The software itself disclaims pricing accuracy. Here is why the gap exists and what you can do about it."
+    "description": "Xactimate estimates are often 30% or more below actual repair costs. The software itself disclaims pricing accuracy. Here is why the gap exists and what you can do about it.",
+    "summary": "Xactimate estimates often run 30% or more below actual repair costs, and the software itself disclaims pricing accuracy. Knowing why this gap exists lets you document real market costs and demand an estimate that reflects them."
   },
   "xactimate-pricing-user-responsibility": {
     "title": "When Xactimate Estimates Are Low, Blame the User — Not the Software",
-    "description": "Xactimate pricing is a starting point, not a final answer. Verisk's own EULA, white papers, and training materials say so explicitly. When an estimate comes in low, the fault lies with the estimator who failed to verify pricing, adjust yield factors, add labor for site conditions, and include all applicable line items."
+    "description": "Xactimate pricing is a starting point, not a final answer. Verisk's own EULA, white papers, and training materials say so explicitly. When an estimate comes in low, the fault lies with the estimator who failed to verify pricing, adjust yield factors, add labor for site conditions, and include all applicable line items.",
+    "summary": "When an Xactimate estimate comes in low, the fault is the estimator's, not the software's. Verisk's own EULA and training say pricing must be verified, yields adjusted, site labor added, and all line items included. A low estimate means the user cut corners."
   },
   "xactimate-training-guide": {
     "title": "Xactimate Training and Certification: What You Need to Know",
-    "description": "A guide to Xactimate training and certification — what the certification levels mean, what quality training looks like, and why understanding the 'why' behind the software matters more than passing a test."
+    "description": "A guide to Xactimate training and certification — what the certification levels mean, what quality training looks like, and why understanding the 'why' behind the software matters more than passing a test.",
+    "summary": "Xactimate certification has levels, but understanding the 'why' behind the software, how pricing, labor, and line items work, matters more than passing a test. Good training is what produces accurate estimates rather than rote ones."
   },
   "xactimate-user-manual": {
     "title": "The Xactimate User Manual: What It Is, Why It Matters, and How to Use It",
-    "description": "A practitioner's guide to Xactimate — the industry-standard estimating software. Pricing database, line items, overhead and profit, depreciation, certification levels, and practical tips."
+    "description": "A practitioner's guide to Xactimate — the industry-standard estimating software. Pricing database, line items, overhead and profit, depreciation, certification levels, and practical tips.",
+    "summary": "This practitioner's guide to Xactimate covers the pricing database, line items, overhead and profit, depreciation, certification levels, and practical tips, the working knowledge needed to build or check an estimate properly."
   },
   "xactimate": {
     "title": "Xactimate Estimates: What You Need to Know",
-    "description": "Learn how Xactimate estimating software works, why insurance estimates are often too low, and which line items adjusters commonly miss or underpay."
+    "description": "Learn how Xactimate estimating software works, why insurance estimates are often too low, and which line items adjusters commonly miss or underpay.",
+    "summary": "Xactimate is the industry-standard estimating software, and its estimates are often too low because of omitted line items and understated pricing. Knowing what adjusters commonly miss helps you identify and correct an underpaid estimate."
   },
   "your-rights-short-version": {
     "title": "Your Rights as a California Policyholder: The Short Version",
-    "description": "A plain-English summary of your most important rights under the California Fair Claims Settlement Practices Regulations — deadlines, payment rules, and what the insurer cannot do."
+    "description": "A plain-English summary of your most important rights under the California Fair Claims Settlement Practices Regulations — deadlines, payment rules, and what the insurer cannot do.",
+    "summary": "In short, California's Fair Claims Settlement Practices Regulations give you the right to prompt acknowledgment, a fair and timely investigation, written reasons for any denial, and prompt payment of undisputed amounts, and bar the insurer from misrepresenting your policy or unreasonably delaying."
   }
 }

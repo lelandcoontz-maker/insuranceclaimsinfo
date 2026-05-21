@@ -6,6 +6,8 @@ export const meta = {
     'The Virus and Bacteria Exclusion: How ISO CP 01 40 Killed Most COVID Business Interruption Claims',
   description:
     'History and analysis of the ISO CP 01 40 virus and bacteria exclusion, its role in COVID-19 business interruption claim denials, key court decisions, the direct physical loss debate, and lessons for future pandemic planning.',
+  summary:
+    'The ISO CP 01 40 virus and bacteria exclusion, present in many policies, defeated most COVID business-interruption claims, and courts largely held there was no \'direct physical loss.\' It is a key lesson for pandemic and contamination coverage planning.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'When Xactimate Estimates Are Low, Blame the User — Not the Software',
   description:
     'Xactimate pricing is a starting point, not a final answer. Verisk\'s own EULA, white papers, and training materials say so explicitly. When an estimate comes in low, the fault lies with the estimator who failed to verify pricing, adjust yield factors, add labor for site conditions, and include all applicable line items.',
+  summary:
+    'When an Xactimate estimate comes in low, the fault is the estimator\'s, not the software\'s. Verisk\'s own EULA and training say pricing must be verified, yields adjusted, site labor added, and all line items included. A low estimate means the user cut corners.',
 }
 
 export default function Content() {

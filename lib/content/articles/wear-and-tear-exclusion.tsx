@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Wear and Tear Exclusion: When Insurance Companies Confuse Condition with Causation',
   description:
     'The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why "condition is not causation," how California\'s efficient proximate cause doctrine protects policyholders with older property, and how to fight improper wear and tear denials.',
+  summary:
+    'The wear and tear exclusion bars losses caused by wear and tear, not losses to property that merely shows wear. Insurers confuse condition with causation to deny; if a covered peril caused the damage, an old or worn component is still payable.',
 }
 
 export default function Content() {

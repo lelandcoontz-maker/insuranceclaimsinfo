@@ -5,6 +5,8 @@ export const meta = {
   title: 'Xactimate Estimates: What You Need to Know',
   description:
     'Learn how Xactimate estimating software works, why insurance estimates are often too low, and which line items adjusters commonly miss or underpay.',
+  summary:
+    'Xactimate is the industry-standard estimating software, and its estimates are often too low because of omitted line items and understated pricing. Knowing what adjusters commonly miss helps you identify and correct an underpaid estimate.',
 }
 
 export default function Content() {

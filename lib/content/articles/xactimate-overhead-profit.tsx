@@ -5,6 +5,8 @@ export const meta = {
   title: 'Overhead and Profit: When Your Insurance Company Owes It and Why They Refuse',
   description:
     'Insurance carriers routinely deny overhead and profit on repair estimates. The \'three-trade rule\' they cite has no legal basis. Here is what O&P actually is, when it\'s owed, and how to fight the denial.',
+  summary:
+    'Carriers routinely deny overhead and profit, citing a \'three-trade rule\' with no real legal basis as a bar. O&P is owed whenever a general contractor is reasonably needed; know what it is and how to fight the denial.',
 }
 
 export default function Content() {

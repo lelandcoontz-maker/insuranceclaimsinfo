@@ -5,6 +5,8 @@ export const meta = {
   title: 'Undue Influence and Insurance Policy Changes: When Someone Manipulates an Elderly Policyholder’s Coverage',
   description:
     'When a caretaker, new spouse, or family member with ulterior motives convinces an elderly policyholder to change beneficiaries, reduce coverage, cancel a policy, or sign claim documents, California law provides powerful remedies. Learn the legal framework, the red flags, and how to restore the status quo.',
+  summary:
+    'When someone manipulates an elderly policyholder into changing beneficiaries, cutting coverage, canceling a policy, or signing claim documents, California law on undue influence provides remedies to undo it. Watch for red flags and act to restore the prior status.',
 }
 
 export default function Content() {

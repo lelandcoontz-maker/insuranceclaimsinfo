@@ -5,6 +5,8 @@ export const meta = {
   title: 'Wildfire Smoke and "Direct Physical Loss": The Coverage Debate in California',
   description:
     'When wildfire smoke infiltrates a home without flames ever reaching it, does the contamination constitute direct physical loss under a homeowner policy? California courts are split, but the science and the law favor policyholders.',
+  summary:
+    'When wildfire smoke contaminates a home without flames reaching it, the question is whether that contamination is \'direct physical loss.\' California courts are split, but the science of pervasive toxic residue and the law favor coverage for policyholders.',
 }
 
 export default function Content() {

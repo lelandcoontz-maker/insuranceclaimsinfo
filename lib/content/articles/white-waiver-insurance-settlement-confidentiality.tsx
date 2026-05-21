@@ -5,6 +5,8 @@ export const meta = {
   title: 'The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret',
   description:
     'What a White waiver is, why insurers ask you to sign one, what rights you surrender, and how to protect yourself. California law on settlement confidentiality in insurance bad faith disputes.',
+  summary:
+    'A White waiver asks you to keep settlement communications confidential, surrendering the right to use them as evidence of bad faith. Understand what you give up before signing, and how California settlement-privilege law applies.',
 }
 
 export default function Content() {
