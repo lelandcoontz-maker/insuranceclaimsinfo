@@ -5,6 +5,8 @@ export const meta = {
   title: 'What a Public Adjuster Does — And When You Might Want One',
   description:
     'A plain-language explanation of what a Public Adjuster is, how they work, what they cost, and when hiring one makes sense for your insurance claim.',
+  summary:
+    'A public adjuster is the only licensed adjuster who works for you, not the insurer, documenting your loss, valuing the claim, and negotiating the settlement, usually for a percentage of the recovery. Hiring one makes sense for large, complex, denied, or underpaid claims.',
 }
 
 export default function Content() {

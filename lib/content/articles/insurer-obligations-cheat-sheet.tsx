@@ -5,6 +5,8 @@ export const meta = {
   title: 'What Your Insurance Company Is Required to Do — The Cheat Sheet',
   description:
     'A pocket reference of every California deadline and obligation your insurer must meet during your claim, with the exact regulation citations.',
+  summary:
+    'California sets firm deadlines your insurer must meet: acknowledge the claim, begin investigating, accept or deny in writing, and pay promptly once liability is reasonably clear. Missing these deadlines violates the Fair Claims Settlement Practices Regulations.',
 }
 
 export default function Content() {

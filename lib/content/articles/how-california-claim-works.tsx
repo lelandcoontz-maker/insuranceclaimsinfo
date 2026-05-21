@@ -4,6 +4,8 @@ export const meta = {
   title: 'How a California Homeowner Insurance Claim Actually Works',
   description:
     'An honest, no-jargon walkthrough of what really happens from the moment you call your insurer through the final payment — including what they don\'t tell you.',
+  summary:
+    'A California claim runs from your first report through adjuster inspection, investigation, and payment, usually paid first at actual cash value with depreciation released after repairs are completed. The insurer controls the pace unless you push it forward.',
 }
 
 export default function Content() {

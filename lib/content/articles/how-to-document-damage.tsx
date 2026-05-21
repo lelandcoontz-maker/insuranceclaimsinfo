@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Document Damage for Your Insurance Claim',
   description:
     'A step-by-step guide to photographing, videoing, and recording property damage so your insurance company cannot minimize or deny your claim.',
+  summary:
+    'Document damage with date-stamped photos and video of everything before you clean up or repair, capturing both wide shots and close-ups, plus a written inventory with receipts. Thorough documentation is your strongest defense against an insurer minimizing or denying the claim.',
 }
 
 export default function Content() {

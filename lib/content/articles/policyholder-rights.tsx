@@ -5,6 +5,8 @@ export const meta = {
   title: 'Your Rights as a California Policyholder',
   description:
     'California law gives property insurance policyholders specific, enforceable rights — from claim handling deadlines to bad faith remedies. Here is what you are entitled to.',
+  summary:
+    'California property policyholders have enforceable rights, including timely claim handling, regular communication, a fair investigation, written reasons for any denial, and remedies for bad faith. Insurers must follow the Fair Claims Settlement Practices Regulations, and violations can create liability.',
 }
 
 export default function Content() {

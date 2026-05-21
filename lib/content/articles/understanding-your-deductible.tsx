@@ -5,6 +5,8 @@ export const meta = {
   title: 'Your Deductible: What It Is, How It Works, and When It Doesn\'t Apply',
   description:
     'A clear explanation of how insurance deductibles work — flat vs. percentage, hurricane deductibles, how they apply to replacement cost claims, and when the insurer must waive them.',
+  summary:
+    'Your deductible is the amount subtracted from each covered claim payment, either a flat dollar figure or a percentage of your dwelling limit. It applies once per loss, and in limited circumstances the insurer must waive it.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'What Does My Homeowner Policy Actually Cover?',
   description:
     'A plain-language walkthrough of what your homeowners insurance covers — dwelling, other structures, personal property, loss of use, and liability — plus common misconceptions about what is and is not included.',
+  summary:
+    'A standard homeowner policy covers four property categories — dwelling, other structures, personal property, and loss of use (living expenses) — plus liability. Limits and exclusions vary, and personal belongings are often covered more narrowly than the house itself.',
 }
 
 export default function Content() {

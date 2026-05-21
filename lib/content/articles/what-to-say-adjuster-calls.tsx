@@ -5,6 +5,8 @@ export const meta = {
   title: 'Your Insurance Company Just Called — What to Say and What Not to Say',
   description:
     'A practical guide for your first conversation with the insurance adjuster. What to volunteer, what to hold back, and how to be cooperative without hurting your claim.',
+  summary:
+    'When the adjuster first calls, be cooperative and factual but brief: report what happened without speculating about cause, value, or fault, and decline to give a recorded statement or accept an early figure on the spot. Let the documentation make your case.',
 }
 
 export default function Content() {

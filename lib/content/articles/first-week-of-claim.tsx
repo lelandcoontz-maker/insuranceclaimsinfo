@@ -5,6 +5,8 @@ export const meta = {
   title: 'What to Expect in the First Week of Your Claim',
   description:
     'A day-by-day reality check for the first week after filing an insurance claim. What happens, what the adjuster will ask, and what you should be doing each day.',
+  summary:
+    'In the first week, your insurer assigns an adjuster who schedules an inspection and requests documentation. Use the time to document damage, track living expenses, and organize records rather than waiting passively for the insurer to set the pace.',
 }
 
 export default function Content() {

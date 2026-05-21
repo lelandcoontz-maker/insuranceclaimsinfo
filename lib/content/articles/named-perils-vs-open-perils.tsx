@@ -5,6 +5,8 @@ export const meta = {
   title: 'Named Perils vs. Open Perils: Why Your Contents Aren\'t Covered the Same as Your House',
   description:
     'The HO-3 split explained: your dwelling is covered for all risks, but your personal property is only covered for specific named perils. What this means and how to fix it.',
+  summary:
+    'In a standard HO-3 policy, your house is covered for all risks except those excluded, but your personal property is covered only for specific named perils. That gap leaves some losses to belongings uncovered, which an endorsement can close.',
 }
 
 export default function Content() {

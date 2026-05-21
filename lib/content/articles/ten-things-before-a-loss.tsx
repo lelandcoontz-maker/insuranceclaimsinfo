@@ -5,6 +5,8 @@ export const meta = {
   title: '10 Things Every California Homeowner Should Know Before a Loss',
   description:
     'Pre-loss preparation checklist for California homeowners: read your dec page, photograph everything, know your limits, understand your deductible, and more.',
+  summary:
+    'Before a loss, every California homeowner should read the declarations page, photograph the home and belongings, know their coverage limits and deductible, confirm replacement-cost coverage, and keep records off-site. Preparation done now determines how smoothly a future claim goes.',
 }
 
 export default function Content() {

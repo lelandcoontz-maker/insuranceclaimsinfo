@@ -29,7 +29,8 @@
   },
   "acv-rcv": {
     "title": "ACV vs. RCV: Actual Cash Value vs. Replacement Cost Value",
-    "description": "Understanding the difference between actual cash value and replacement cost value, how depreciation works, and common insurer mistakes to watch for."
+    "description": "Understanding the difference between actual cash value and replacement cost value, how depreciation works, and common insurer mistakes to watch for.",
+    "summary": "Actual cash value (ACV) pays replacement cost minus depreciation; replacement cost value (RCV) pays the full cost to replace. RCV policies typically pay ACV first and release the withheld depreciation only after you actually complete the repairs."
   },
   "adding-family-member-deed-insurance": {
     "title": "Adding a Family Member to the Deed: The Insurance Consequences Nobody Mentions",
@@ -93,7 +94,8 @@
   },
   "annual-policy-review": {
     "title": "How to Review Your Insurance Policy Before You Need It",
-    "description": "An annual policy review checklist for California homeowners: what to look for, what questions to ask your agent, and how to identify coverage gaps before a loss exposes them."
+    "description": "An annual policy review checklist for California homeowners: what to look for, what questions to ask your agent, and how to identify coverage gaps before a loss exposes them.",
+    "summary": "Review your policy once a year before you ever file a claim: check your dwelling limit against current rebuild costs, confirm replacement-cost coverage, note exclusions and sub-limits, and close coverage gaps while you still can rather than after a loss."
   },
   "anti-concurrent-causation": {
     "title": "Anti-Concurrent Causation Clauses: What They Are, Why They Matter, and Why California Ignores Them",
@@ -813,7 +815,8 @@
   },
   "first-72-hours-after-loss": {
     "title": "What to Do in the First 72 Hours After a Loss",
-    "description": "Emergency actions, who to call, what to document, and what NOT to do in the critical first three days after property damage."
+    "description": "Emergency actions, who to call, what to document, and what NOT to do in the critical first three days after property damage.",
+    "summary": "In the first 72 hours: get safe, prevent further damage (a policy duty), and document everything before cleanup, then report the loss and keep all receipts. Do not throw anything away or authorize permanent repairs until the damage is fully documented."
   },
   "first-offer-lowball": {
     "title": "Why You Should Never Accept the Insurer's First Offer",
@@ -821,7 +824,8 @@
   },
   "first-week-of-claim": {
     "title": "What to Expect in the First Week of Your Claim",
-    "description": "A day-by-day reality check for the first week after filing an insurance claim. What happens, what the adjuster will ask, and what you should be doing each day."
+    "description": "A day-by-day reality check for the first week after filing an insurance claim. What happens, what the adjuster will ask, and what you should be doing each day.",
+    "summary": "In the first week, your insurer assigns an adjuster who schedules an inspection and requests documentation. Use the time to document damage, track living expenses, and organize records rather than waiting passively for the insurer to set the pace."
   },
   "flood-exclusion-commercial": {
     "title": "The Flood Exclusion in Commercial Property Insurance: When Rain Becomes an Uninsured Disaster",
@@ -953,7 +957,8 @@
   },
   "how-california-claim-works": {
     "title": "How a California Homeowner Insurance Claim Actually Works",
-    "description": "An honest, no-jargon walkthrough of what really happens from the moment you call your insurer through the final payment — including what they don't tell you."
+    "description": "An honest, no-jargon walkthrough of what really happens from the moment you call your insurer through the final payment — including what they don't tell you.",
+    "summary": "A California claim runs from your first report through adjuster inspection, investigation, and payment, usually paid first at actual cash value with depreciation released after repairs are completed. The insurer controls the pace unless you push it forward."
   },
   "how-insurance-adjusters-are-paid": {
     "title": "How Insurance Adjusters Are Trained, Compensated, and Measured &mdash; And What It Means for Your Claim",
@@ -973,7 +978,8 @@
   },
   "how-to-document-damage": {
     "title": "How to Document Damage for Your Insurance Claim",
-    "description": "A step-by-step guide to photographing, videoing, and recording property damage so your insurance company cannot minimize or deny your claim."
+    "description": "A step-by-step guide to photographing, videoing, and recording property damage so your insurance company cannot minimize or deny your claim.",
+    "summary": "Document damage with date-stamped photos and video of everything before you clean up or repair, capturing both wide shots and close-ups, plus a written inventory with receipts. Thorough documentation is your strongest defense against an insurer minimizing or denying the claim."
   },
   "how-to-read-insurance-estimate": {
     "title": "How to Read the Estimate Your Insurance Company Sent You",
@@ -1045,7 +1051,8 @@
   },
   "insurance-claim-glossary": {
     "title": "Insurance Claim Glossary: 50 Terms in Plain English",
-    "description": "Every insurance term you will encounter during a property claim, defined in one sentence each. No jargon, no legalese — just clear definitions."
+    "description": "Every insurance term you will encounter during a property claim, defined in one sentence each. No jargon, no legalese — just clear definitions.",
+    "summary": "A plain-English glossary defining the fifty insurance terms you will meet during a property claim, from ACV and depreciation to endorsements, sub-limits, and proof of loss, each explained in a single clear sentence."
   },
   "insurance-claims-file": {
     "title": "The Insurance Claims File: What It Contains, Your Right to Request It, and How It Changes Claim Outcomes",
@@ -1117,7 +1124,8 @@
   },
   "insurer-obligations-cheat-sheet": {
     "title": "What Your Insurance Company Is Required to Do — The Cheat Sheet",
-    "description": "A pocket reference of every California deadline and obligation your insurer must meet during your claim, with the exact regulation citations."
+    "description": "A pocket reference of every California deadline and obligation your insurer must meet during your claim, with the exact regulation citations.",
+    "summary": "California sets firm deadlines your insurer must meet: acknowledge the claim, begin investigating, accept or deny in writing, and pay promptly once liability is reasonably clear. Missing these deadlines violates the Fair Claims Settlement Practices Regulations."
   },
   "insurer-option-to-repair": {
     "title": "The Insurer",
@@ -1297,7 +1305,8 @@
   },
   "named-perils-vs-open-perils": {
     "title": "Named Perils vs. Open Perils: Why Your Contents Aren't Covered the Same as Your House",
-    "description": "The HO-3 split explained: your dwelling is covered for all risks, but your personal property is only covered for specific named perils. What this means and how to fix it."
+    "description": "The HO-3 split explained: your dwelling is covered for all risks, but your personal property is only covered for specific named perils. What this means and how to fix it.",
+    "summary": "In a standard HO-3 policy, your house is covered for all risks except those excluded, but your personal property is covered only for specific named perils. That gap leaves some losses to belongings uncovered, which an endorsement can close."
   },
   "named-vs-additional-insured": {
     "title": "Named Insured vs. Additional Insured: Who Actually Has Rights Under Your Policy?",
@@ -1445,7 +1454,8 @@
   },
   "policyholder-rights": {
     "title": "Your Rights as a California Policyholder",
-    "description": "California law gives property insurance policyholders specific, enforceable rights — from claim handling deadlines to bad faith remedies. Here is what you are entitled to."
+    "description": "California law gives property insurance policyholders specific, enforceable rights — from claim handling deadlines to bad faith remedies. Here is what you are entitled to.",
+    "summary": "California property policyholders have enforceable rights, including timely claim handling, regular communication, a fair investigation, written reasons for any denial, and remedies for bad faith. Insurers must follow the Fair Claims Settlement Practices Regulations, and violations can create liability."
   },
   "pollution-exclusion-claims": {
     "title": "The Pollution Exclusion in Property Insurance Claims: History, Misapplication, and California Law",
@@ -1481,7 +1491,8 @@
   },
   "prepare-for-adjuster-inspection": {
     "title": "The Adjuster Is Coming to My House — How to Prepare",
-    "description": "What to have ready, what to show, what to say, and what NOT to sign when the insurance adjuster inspects your property damage."
+    "description": "What to have ready, what to show, what to say, and what NOT to sign when the insurance adjuster inspects your property damage.",
+    "summary": "Before the adjuster inspects, have your documentation, inventory, and policy ready, point out all damage including what is not obvious, and take your own photos during the visit. Do not sign anything that releases the claim or accept an on-the-spot estimate as final."
   },
   "professional-services-insurance-claims": {
     "title": "Professional Services Firm Insurance Claims: Law Firms, Accounting Firms, and the Client Retention Crisis",
@@ -1573,7 +1584,8 @@
   },
   "replacement-cost-explained": {
     "title": "What 'Replacement Cost' Means and Why It Matters More Than You Think",
-    "description": "How replacement cost coverage works in practice — the holdback, the rebuild requirement, the deadline to complete repairs, and the most common way policyholders lose money on replacement cost claims."
+    "description": "How replacement cost coverage works in practice — the holdback, the rebuild requirement, the deadline to complete repairs, and the most common way policyholders lose money on replacement cost claims.",
+    "summary": "Replacement cost coverage pays to rebuild or replace, but the insurer withholds depreciation and releases it only after you complete repairs within the policy deadline. The most common way policyholders lose money is never claiming that held-back depreciation."
   },
   "replacement-cost-vs-guaranteed": {
     "title": "Replacement Cost vs. 100% Replacement Cost (Guaranteed, Extended, or Unlimited): The Difference That Could Cost You Hundreds of Thousands",
@@ -1709,7 +1721,8 @@
   },
   "should-i-file-a-claim": {
     "title": "Should I File a Claim? How to Decide",
-    "description": "Not every loss should be a claim. A decision framework for when to file and when to pay out of pocket — considering deductibles, CLUE reports, and premium impact."
+    "description": "Not every loss should be a claim. A decision framework for when to file and when to pay out of pocket — considering deductibles, CLUE reports, and premium impact.",
+    "summary": "File a claim only when the loss clearly exceeds your deductible and is unlikely to raise premiums or harm your CLUE record. For small losses near the deductible, paying out of pocket is often the smarter financial choice."
   },
   "signs-you-are-underinsured": {
     "title": "Nine Warning Signs That Your Home Is Underinsured",
@@ -1877,7 +1890,8 @@
   },
   "ten-things-before-a-loss": {
     "title": "10 Things Every California Homeowner Should Know Before a Loss",
-    "description": "Pre-loss preparation checklist for California homeowners: read your dec page, photograph everything, know your limits, understand your deductible, and more."
+    "description": "Pre-loss preparation checklist for California homeowners: read your dec page, photograph everything, know your limits, understand your deductible, and more.",
+    "summary": "Before a loss, every California homeowner should read the declarations page, photograph the home and belongings, know their coverage limits and deductible, confirm replacement-cost coverage, and keep records off-site. Preparation done now determines how smoothly a future claim goes."
   },
   "tenant-improvements-betterments": {
     "title": "Tenant Improvements and Betterments: Coverage Across Commercial, Condo, Flood, and Renters Policies",
@@ -1969,7 +1983,8 @@
   },
   "understanding-your-deductible": {
     "title": "Your Deductible: What It Is, How It Works, and When It Doesn't Apply",
-    "description": "A clear explanation of how insurance deductibles work — flat vs. percentage, hurricane deductibles, how they apply to replacement cost claims, and when the insurer must waive them."
+    "description": "A clear explanation of how insurance deductibles work — flat vs. percentage, hurricane deductibles, how they apply to replacement cost claims, and when the insurer must waive them.",
+    "summary": "Your deductible is the amount subtracted from each covered claim payment, either a flat dollar figure or a percentage of your dwelling limit. It applies once per loss, and in limited circumstances the insurer must waive it."
   },
   "undue-influence-insurance": {
     "title": "Undue Influence and Insurance Policy Changes: When Someone Manipulates an Elderly Policyholder’s Coverage",
@@ -2057,7 +2072,8 @@
   },
   "what-does-homeowner-policy-cover": {
     "title": "What Does My Homeowner Policy Actually Cover?",
-    "description": "A plain-language walkthrough of what your homeowners insurance covers — dwelling, other structures, personal property, loss of use, and liability — plus common misconceptions about what is and is not included."
+    "description": "A plain-language walkthrough of what your homeowners insurance covers — dwelling, other structures, personal property, loss of use, and liability — plus common misconceptions about what is and is not included.",
+    "summary": "A standard homeowner policy covers four property categories — dwelling, other structures, personal property, and loss of use (living expenses) — plus liability. Limits and exclusions vary, and personal belongings are often covered more narrowly than the house itself."
   },
   "what-is-homeowners-insurance": {
     "title": "What Is Homeowners Insurance?",
@@ -2065,11 +2081,13 @@
   },
   "what-public-adjuster-does": {
     "title": "What a Public Adjuster Does — And When You Might Want One",
-    "description": "A plain-language explanation of what a Public Adjuster is, how they work, what they cost, and when hiring one makes sense for your insurance claim."
+    "description": "A plain-language explanation of what a Public Adjuster is, how they work, what they cost, and when hiring one makes sense for your insurance claim.",
+    "summary": "A public adjuster is the only licensed adjuster who works for you, not the insurer, documenting your loss, valuing the claim, and negotiating the settlement, usually for a percentage of the recovery. Hiring one makes sense for large, complex, denied, or underpaid claims."
   },
   "what-to-say-adjuster-calls": {
     "title": "Your Insurance Company Just Called — What to Say and What Not to Say",
-    "description": "A practical guide for your first conversation with the insurance adjuster. What to volunteer, what to hold back, and how to be cooperative without hurting your claim."
+    "description": "A practical guide for your first conversation with the insurance adjuster. What to volunteer, what to hold back, and how to be cooperative without hurting your claim.",
+    "summary": "When the adjuster first calls, be cooperative and factual but brief: report what happened without speculating about cause, value, or fault, and decline to give a recorded statement or accept an early figure on the spot. Let the documentation make your case."
   },
   "when-not-to-file-claim": {
     "title": "When NOT to File an Insurance Claim",

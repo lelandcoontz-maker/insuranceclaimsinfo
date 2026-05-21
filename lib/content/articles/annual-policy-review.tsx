@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Review Your Insurance Policy Before You Need It',
   description:
     'An annual policy review checklist for California homeowners: what to look for, what questions to ask your agent, and how to identify coverage gaps before a loss exposes them.',
+  summary:
+    'Review your policy once a year before you ever file a claim: check your dwelling limit against current rebuild costs, confirm replacement-cost coverage, note exclusions and sub-limits, and close coverage gaps while you still can rather than after a loss.',
 }
 
 export default function Content() {

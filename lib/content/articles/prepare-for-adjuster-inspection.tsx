@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Adjuster Is Coming to My House — How to Prepare',
   description:
     'What to have ready, what to show, what to say, and what NOT to sign when the insurance adjuster inspects your property damage.',
+  summary:
+    'Before the adjuster inspects, have your documentation, inventory, and policy ready, point out all damage including what is not obvious, and take your own photos during the visit. Do not sign anything that releases the claim or accept an on-the-spot estimate as final.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'What \'Replacement Cost\' Means and Why It Matters More Than You Think',
   description:
     'How replacement cost coverage works in practice — the holdback, the rebuild requirement, the deadline to complete repairs, and the most common way policyholders lose money on replacement cost claims.',
+  summary:
+    'Replacement cost coverage pays to rebuild or replace, but the insurer withholds depreciation and releases it only after you complete repairs within the policy deadline. The most common way policyholders lose money is never claiming that held-back depreciation.',
 }
 
 export default function Content() {

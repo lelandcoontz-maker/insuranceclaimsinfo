@@ -5,6 +5,8 @@ export const meta = {
   title: 'What to Do in the First 72 Hours After a Loss',
   description:
     'Emergency actions, who to call, what to document, and what NOT to do in the critical first three days after property damage.',
+  summary:
+    'In the first 72 hours: get safe, prevent further damage (a policy duty), and document everything before cleanup, then report the loss and keep all receipts. Do not throw anything away or authorize permanent repairs until the damage is fully documented.',
 }
 
 export default function Content() {

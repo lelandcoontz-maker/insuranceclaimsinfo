@@ -4,6 +4,8 @@ export const meta = {
   title: 'Insurance Claim Glossary: 50 Terms in Plain English',
   description:
     'Every insurance term you will encounter during a property claim, defined in one sentence each. No jargon, no legalese — just clear definitions.',
+  summary:
+    'A plain-English glossary defining the fifty insurance terms you will meet during a property claim, from ACV and depreciation to endorsements, sub-limits, and proof of loss, each explained in a single clear sentence.',
 }
 
 export default function Content() {

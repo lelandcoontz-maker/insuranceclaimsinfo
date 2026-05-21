@@ -19,6 +19,7 @@ const OUTPUT_DIR = path.resolve(__dirname, '../public/data')
 interface ArticleMeta {
   title: string
   description: string
+  summary?: string
 }
 
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -37,6 +38,7 @@ for (const file of files) {
 
   const titleMatch = content.match(/title:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
   const descMatch = content.match(/description:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
+  const summaryMatch = content.match(/summary:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
 
   if (!titleMatch) {
     console.warn(`WARNING: No title found in ${file}`)
@@ -47,9 +49,12 @@ for (const file of files) {
   const description = descMatch
     ? descMatch[1].replace(/\\'/g, "'").replace(/\\"/g, '"')
     : ''
+  const summary = summaryMatch
+    ? summaryMatch[1].replace(/\\'/g, "'").replace(/\\"/g, '"')
+    : undefined
 
   searchEntries.push({ slug, title, description })
-  registry[slug] = { title, description }
+  registry[slug] = summary ? { title, description, summary } : { title, description }
 }
 
 searchEntries.sort((a, b) => a.slug.localeCompare(b.slug))

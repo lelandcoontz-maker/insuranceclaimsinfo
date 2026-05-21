@@ -5,6 +5,8 @@ export const meta = {
   title: 'ACV vs. RCV: Actual Cash Value vs. Replacement Cost Value',
   description:
     'Understanding the difference between actual cash value and replacement cost value, how depreciation works, and common insurer mistakes to watch for.',
+  summary:
+    'Actual cash value (ACV) pays replacement cost minus depreciation; replacement cost value (RCV) pays the full cost to replace. RCV policies typically pay ACV first and release the withheld depreciation only after you actually complete the repairs.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Should I File a Claim? How to Decide',
   description:
     'Not every loss should be a claim. A decision framework for when to file and when to pay out of pocket — considering deductibles, CLUE reports, and premium impact.',
+  summary:
+    'File a claim only when the loss clearly exceeds your deductible and is unlikely to raise premiums or harm your CLUE record. For small losses near the deductible, paying out of pocket is often the smarter financial choice.',
 }
 
 export default function Content() {
