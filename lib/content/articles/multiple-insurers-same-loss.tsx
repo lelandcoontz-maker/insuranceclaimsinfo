@@ -5,6 +5,8 @@ export const meta = {
   title: 'Multiple Insurance Policies Covering the Same Loss: Other Insurance Clauses, Stacking, and Maximizing Recovery',
   description:
     'When two or more insurance policies cover the same property loss, disputes over priority, contribution, and payment responsibility are common. Learn how other insurance clauses work, how California courts resolve conflicts, and how policyholders can maximize recovery from overlapping coverage.',
+  summary:
+    'When two policies cover the same loss, \'other insurance\' clauses, contribution, and anti-stacking rules decide priority and payment. Knowing how California resolves these conflicts helps you maximize total recovery across overlapping coverage.',
 }
 
 export default function Content() {

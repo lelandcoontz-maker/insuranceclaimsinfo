@@ -4,6 +4,8 @@ export const meta = {
   title: 'The WUI Hazard Scale: How Scientists Measure Wildfire Risk to Buildings',
   description:
     'NIST, CAL FIRE, and IBHS developed a science-based framework for measuring wildfire exposure. It proves damage depends on measurable conditions, not guesswork.',
+  summary:
+    'NIST, CAL FIRE, and IBHS built a science-based WUI hazard scale showing wildfire damage depends on measurable exposure conditions, not guesswork. It supports documenting how fire and smoke actually reached and harmed a property.',
 }
 
 export default function Content() {

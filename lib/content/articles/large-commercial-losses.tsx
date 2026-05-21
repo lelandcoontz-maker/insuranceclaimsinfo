@@ -5,6 +5,8 @@ export const meta = {
   title: 'Large and Complex Commercial Property Insurance Losses',
   description:
     'How large commercial property claims differ from residential losses, what coverage parts are triggered, how carriers staff them differently, and why professional representation is critical on claims exceeding $500,000.',
+  summary:
+    'Large commercial losses (over about $500,000) trigger multiple coverage parts, are staffed differently by carriers, and move slowly. Their complexity, business income, code upgrades, and multiple experts, makes professional representation especially valuable.',
 }
 
 export default function Content() {

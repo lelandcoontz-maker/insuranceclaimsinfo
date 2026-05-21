@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Plead and Prove Managing Agent Liability in California Insurance Bad Faith Cases',
   description:
     'A comprehensive guide to identifying managing agents under Civil Code section 3294(b), the White v. Ultramar test, discovery strategies, ratification doctrine, and how managing agent liability creates settlement leverage in California insurance bad faith litigation.',
+  summary:
+    'Punitive damages against an insurer require proving a \'managing agent\' acted with malice or oppression under Civil Code 3294(b) and the White v. Ultramar test. Identifying the right managing agent, and ratification, creates real settlement leverage.',
 }
 
 export default function Content() {

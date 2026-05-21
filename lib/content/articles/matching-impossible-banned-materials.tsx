@@ -5,6 +5,8 @@ export const meta = {
   title: 'When Matching Is Impossible: Banned Materials, Discontinued Products, and Custom Finishes',
   description:
     'What happens when your insurance company cannot restore your home to pre-loss condition because the original materials are banned by California law, discontinued by the manufacturer, or too custom to replicate — and what the carrier owes you.',
+  summary:
+    'When original materials are banned, discontinued, or too custom to replicate, the insurer still owes a reasonably uniform appearance, which may mean replacing larger undamaged areas or paying for a comparable alternative. Impossibility of an exact match does not excuse underpayment.',
 }
 
 export default function Content() {

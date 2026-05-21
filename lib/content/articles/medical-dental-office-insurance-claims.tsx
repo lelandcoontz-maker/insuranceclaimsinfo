@@ -6,6 +6,8 @@ export const meta = {
     'Medical and Dental Office Insurance Claims: Equipment, Contamination, and the Patient Retention Problem',
   description:
     'Medical and dental offices face unique insurance challenges — expensive specialized equipment, sterilization requirements after water damage, HIPAA-protected records, and the devastating patient retention problem during closures. A California public adjuster explains the coverage gaps that sink healthcare practice recoveries.',
+  summary:
+    'Medical and dental offices face specialized exposures: costly equipment, sterilization requirements after water damage, HIPAA-protected records, and patient loss during closures. These coverage gaps, especially patient retention, can sink a practice\'s recovery.',
 }
 
 export default function Content() {

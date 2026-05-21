@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Mold Coverage Paradox: Covered, Excluded, and Everything In Between',
   description:
     'Mold is simultaneously covered and excluded under most homeowner policies. Learn the cause-vs-result distinction, how to properly allocate costs between dwelling coverage and the mold sublimit, and stop leaving money on the table.',
+  summary:
+    'Mold is both covered and excluded: covered when it results from a covered cause like a sudden leak, but capped by a mold sublimit. Properly allocate costs between dwelling coverage and the sublimit so you do not leave money on the table.',
 }
 
 export default function Content() {

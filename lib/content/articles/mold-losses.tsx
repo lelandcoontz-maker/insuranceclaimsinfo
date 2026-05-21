@@ -5,6 +5,8 @@ export const meta = {
   title: 'Mold Losses: What Your Insurance Actually Covers',
   description:
     'Understand how insurance policies handle mold damage, the difference between mold as a cause of loss and mold as an ensuing loss, and how to protect your claim when mold is present.',
+  summary:
+    'Whether mold is covered turns on cause: mold resulting from a covered peril like a sudden water loss is generally covered, often subject to a sublimit, while long-term-moisture mold may be excluded. Establishing the cause protects the claim.',
 }
 
 export default function Content() {

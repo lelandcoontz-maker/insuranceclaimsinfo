@@ -5,6 +5,8 @@ export const meta = {
   title: 'Matching: Achieving a Reasonable Uniform Appearance',
   description:
     'Learn why your insurance company may be required to pay for matching undamaged areas when partial repairs create a visibly different appearance, and how to argue matching in your claim.',
+  summary:
+    'When a partial repair leaves a visibly mismatched appearance, your insurer may be required to pay to achieve a reasonably uniform look, including replacing undamaged adjacent areas. Argue matching using the line-of-sight standard and applicable regulations.',
 }
 
 export default function Content() {

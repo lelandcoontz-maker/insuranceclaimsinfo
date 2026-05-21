@@ -5,6 +5,8 @@ export const meta = {
   title: 'Maximizing Your Loss of Use (ALE) Claim',
   description:
     'Coverage D pays your additional living expenses when you can\'t live in your home. Most policyholders leave thousands on the table. Here\'s how to claim what you\'re owed.',
+  summary:
+    'Coverage D (loss of use / ALE) pays your additional living expenses when you cannot live at home, and most people under-claim it. Track every increased cost, rent, meals, storage, mileage, to claim the full amount you are owed.',
 }
 
 export default function Content() {

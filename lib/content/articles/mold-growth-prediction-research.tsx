@@ -4,6 +4,8 @@ export const meta = {
   title: 'Mold Growth Science: How Fast Does Mold Really Develop?',
   description:
     'Research from VTT and Oak Ridge National Laboratory establishes mathematical models for mold growth rates — the science insurers hope you never see.',
+  summary:
+    'Research from VTT and Oak Ridge National Laboratory produced mathematical models of how fast mold grows under given moisture and temperature, science that supports the short window for covered mold and counters insurer claims that mold predated the loss.',
 }
 
 export default function Content() {

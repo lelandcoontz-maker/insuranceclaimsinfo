@@ -5,6 +5,8 @@ export const meta = {
   title: 'Lightning Damage Insurance Claims: What Homeowners Need to Know',
   description:
     'How lightning damages homes, the critical difference between lightning and power surge coverage, hidden wiring damage, and how to document and fight for a full settlement.',
+  summary:
+    'Lightning damage is covered, but insurers distinguish a direct lightning strike from a power surge, which may be treated differently. Hidden wiring and electronics damage is common, so document thoroughly and watch the lightning-versus-surge framing.',
 }
 
 export default function Content() {

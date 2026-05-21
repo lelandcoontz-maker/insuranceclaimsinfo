@@ -5,6 +5,8 @@ export const meta = {
   title: 'Loss Assessment Coverage: Why $1,000 Is Not Enough for Condo and HOA Owners',
   description:
     'Loss assessment coverage pays your share of HOA special assessments after a covered loss. Learn why the default $1,000 limit is dangerously inadequate in California.',
+  summary:
+    'Loss assessment coverage pays your share of an HOA special assessment after a covered loss, but the common $1,000 default limit is dangerously low in California. Raise the limit so a large assessment does not fall entirely on you.',
 }
 
 export default function Content() {

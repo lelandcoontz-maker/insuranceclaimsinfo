@@ -5,6 +5,8 @@ export const meta = {
   title: 'Landlord vs. Tenant Insurance Claims: Who Files What, Coverage Gaps, and How to Avoid Getting Caught in the Middle',
   description:
     'Understanding landlord DP-3 and tenant HO-4 policies, who files which claim, how coverage gaps leave damage unpaid, subrogation risks, and practical steps for coordinating two separate insurance claims on the same property.',
+  summary:
+    'A landlord\'s DP-3 policy covers the building; a tenant\'s HO-4 covers their belongings and liability. Knowing who files which claim, where coverage gaps fall, and how subrogation works prevents damage from going unpaid between the two policies.',
 }
 
 export default function Content() {

@@ -1441,59 +1441,73 @@
   },
   "labor-depreciation-debate": {
     "title": "Labor Depreciation: Can Labor ",
-    "description": "A comprehensive analysis of the labor depreciation debate in insurance claims. Can a service physically deteriorate? States are increasingly saying no. Learn the case law, the arguments, California's position, and how to challenge labor depreciation on your claim."
+    "description": "A comprehensive analysis of the labor depreciation debate in insurance claims. Can a service physically deteriorate? States are increasingly saying no. Learn the case law, the arguments, California's position, and how to challenge labor depreciation on your claim.",
+    "summary": "Can a service physically wear out? A growing number of states say no, so labor cannot be depreciated, only materials can. Learn the case law and arguments, California's position, and how to challenge labor depreciation that wrongly cuts your payment."
   },
   "labor-depreciation": {
     "title": "Labor Depreciation: Why Your Insurance Company Can't Depreciate Work Costs",
-    "description": "A growing number of states have ruled that insurance companies cannot depreciate labor. Learn what labor depreciation is, which states prohibit it, and how to fight it."
+    "description": "A growing number of states have ruled that insurance companies cannot depreciate labor. Learn what labor depreciation is, which states prohibit it, and how to fight it.",
+    "summary": "Many states now hold that insurers cannot depreciate labor, only materials, because work itself does not physically deteriorate. Know whether your state prohibits labor depreciation and challenge it when a carrier applies it to reduce your payout."
   },
   "landlord-drug-contamination-claims": {
     "title": "Drug Contamination Claims for California Landlords: Meth Labs, Fentanyl, Grow Operations, and the Insurance Path to Recovery",
-    "description": "When a tenant turns your rental property into a meth lab, a fentanyl-handling site, or an illegal cannabis grow operation, the cost to remediate routinely exceeds five figures and sometimes six. The path to insurance coverage runs through vandalism coverage, the innocent-landlord doctrine, and California’s Methamphetamine Contaminated Properties Cleanup Act. Here is how the analysis works, what an industrial hygienist actually does in these claims, what disclosure obligations attach going forward, and how to keep the carrier from defaulting to denial."
+    "description": "When a tenant turns your rental property into a meth lab, a fentanyl-handling site, or an illegal cannabis grow operation, the cost to remediate routinely exceeds five figures and sometimes six. The path to insurance coverage runs through vandalism coverage, the innocent-landlord doctrine, and California’s Methamphetamine Contaminated Properties Cleanup Act. Here is how the analysis works, what an industrial hygienist actually does in these claims, what disclosure obligations attach going forward, and how to keep the carrier from defaulting to denial.",
+    "summary": "When a tenant turns your California rental into a meth lab, fentanyl site, or grow operation, remediation can run into six figures. Coverage usually runs through vandalism coverage, the innocent-landlord doctrine, and the Methamphetamine Contaminated Properties Cleanup Act."
   },
   "landlord-duty-to-disclose": {
     "title": "Landlord's Duty to Disclose Building Conditions to Commercial Tenants",
-    "description": "Asbestos, lead paint, mold history, prior water damage, roof age — what California landlords must disclose to commercial tenants, and how failure to disclose affects insurance claims and negligence actions."
+    "description": "Asbestos, lead paint, mold history, prior water damage, roof age — what California landlords must disclose to commercial tenants, and how failure to disclose affects insurance claims and negligence actions.",
+    "summary": "California landlords must disclose known hazards to commercial tenants, including asbestos, lead, mold history, prior water damage, and roof age. Failure to disclose can affect insurance claims and expose the landlord to negligence liability."
   },
   "landlord-insurance-should-have-covered": {
     "title": "When Your Landlord’s Insurance Should Have Covered Your Loss",
-    "description": "When a landlord’s negligence causes damage to tenant property, the landlord’s insurance should respond. Learn about subrogation, tender of defense, negligence per se, California habitability law, and practical steps tenants can take when the landlord’s carrier refuses to pay."
+    "description": "When a landlord’s negligence causes damage to tenant property, the landlord’s insurance should respond. Learn about subrogation, tender of defense, negligence per se, California habitability law, and practical steps tenants can take when the landlord’s carrier refuses to pay.",
+    "summary": "When a landlord's negligence damages a tenant's property, the landlord's insurance should respond. Tenants can pursue recovery through subrogation, tender of defense, negligence per se, and California habitability law when the landlord's carrier refuses."
   },
   "landlord-vs-tenant-claims": {
     "title": "Landlord vs. Tenant Insurance Claims: Who Files What, Coverage Gaps, and How to Avoid Getting Caught in the Middle",
-    "description": "Understanding landlord DP-3 and tenant HO-4 policies, who files which claim, how coverage gaps leave damage unpaid, subrogation risks, and practical steps for coordinating two separate insurance claims on the same property."
+    "description": "Understanding landlord DP-3 and tenant HO-4 policies, who files which claim, how coverage gaps leave damage unpaid, subrogation risks, and practical steps for coordinating two separate insurance claims on the same property.",
+    "summary": "A landlord's DP-3 policy covers the building; a tenant's HO-4 covers their belongings and liability. Knowing who files which claim, where coverage gaps fall, and how subrogation works prevents damage from going unpaid between the two policies."
   },
   "large-commercial-losses": {
     "title": "Large and Complex Commercial Property Insurance Losses",
-    "description": "How large commercial property claims differ from residential losses, what coverage parts are triggered, how carriers staff them differently, and why professional representation is critical on claims exceeding $500,000."
+    "description": "How large commercial property claims differ from residential losses, what coverage parts are triggered, how carriers staff them differently, and why professional representation is critical on claims exceeding $500,000.",
+    "summary": "Large commercial losses (over about $500,000) trigger multiple coverage parts, are staffed differently by carriers, and move slowly. Their complexity, business income, code upgrades, and multiple experts, makes professional representation especially valuable."
   },
   "late-notice-coverage-defense": {
     "title": "Late Notice: When Your Insurer Tries to Deny Your Claim for Delayed Reporting",
-    "description": "How insurers use late notice defenses to deny claims, California's notice-prejudice rule requiring the insurer to prove actual harm from the delay, and how policyholders can counter late notice denials."
+    "description": "How insurers use late notice defenses to deny claims, California's notice-prejudice rule requiring the insurer to prove actual harm from the delay, and how policyholders can counter late notice denials.",
+    "summary": "Insurers raise 'late notice' to deny claims, but California's notice-prejudice rule means a delay only defeats coverage if the insurer proves the delay actually harmed it. Late reporting alone is usually not enough to deny."
   },
   "lenders-loss-payable-endorsement": {
     "title": "The Lender’s Loss Payable Endorsement: Why the Mortgage Company’s Name Is on Your Insurance Check",
-    "description": "The lender’s loss payable endorsement gives your mortgage company powerful rights over your insurance claim proceeds. Understanding what those rights are — and what they are not — is the first step to getting your money."
+    "description": "The lender’s loss payable endorsement gives your mortgage company powerful rights over your insurance claim proceeds. Understanding what those rights are — and what they are not — is the first step to getting your money.",
+    "summary": "The lender's loss payable endorsement gives your mortgage company rights over your claim proceeds, which is why its name is on your check. Understanding the precise limits of those rights is the first step to getting your money released."
   },
   "lightning-damage": {
     "title": "Lightning Damage Insurance Claims: What Homeowners Need to Know",
-    "description": "How lightning damages homes, the critical difference between lightning and power surge coverage, hidden wiring damage, and how to document and fight for a full settlement."
+    "description": "How lightning damages homes, the critical difference between lightning and power surge coverage, hidden wiring damage, and how to document and fight for a full settlement.",
+    "summary": "Lightning damage is covered, but insurers distinguish a direct lightning strike from a power surge, which may be treated differently. Hidden wiring and electronics damage is common, so document thoroughly and watch the lightning-versus-surge framing."
   },
   "long-term-displacement-ale": {
     "title": "Long-Term Displacement After a Disaster: When ALE Runs Out and Your Home Sits Empty",
-    "description": "After a wildfire or major disaster, rebuilding can take 2-4 years. This article explains what happens when ALE expires, whether your policy still covers the property during extended reconstruction, the vacancy exclusion trap, non-renewal protections, and practical strategies for managing insurance through multi-year displacement."
+    "description": "After a wildfire or major disaster, rebuilding can take 2-4 years. This article explains what happens when ALE expires, whether your policy still covers the property during extended reconstruction, the vacancy exclusion trap, non-renewal protections, and practical strategies for managing insurance through multi-year displacement.",
+    "summary": "After a major disaster, rebuilding can take two to four years, often outlasting ALE benefits. Watch the vacancy-exclusion trap while your home sits empty, know your non-renewal protections, and plan for managing coverage through a multi-year displacement."
   },
   "loss-assessment-coverage": {
     "title": "Loss Assessment Coverage: Why $1,000 Is Not Enough for Condo and HOA Owners",
-    "description": "Loss assessment coverage pays your share of HOA special assessments after a covered loss. Learn why the default $1,000 limit is dangerously inadequate in California."
+    "description": "Loss assessment coverage pays your share of HOA special assessments after a covered loss. Learn why the default $1,000 limit is dangerously inadequate in California.",
+    "summary": "Loss assessment coverage pays your share of an HOA special assessment after a covered loss, but the common $1,000 default limit is dangerously low in California. Raise the limit so a large assessment does not fall entirely on you."
   },
   "loss-of-use-maximizing": {
     "title": "Maximizing Your Loss of Use (ALE) Claim",
-    "description": "Coverage D pays your additional living expenses when you can't live in your home. Most policyholders leave thousands on the table. Here's how to claim what you're owed."
+    "description": "Coverage D pays your additional living expenses when you can't live in your home. Most policyholders leave thousands on the table. Here's how to claim what you're owed.",
+    "summary": "Coverage D (loss of use / ALE) pays your additional living expenses when you cannot live at home, and most people under-claim it. Track every increased cost, rent, meals, storage, mileage, to claim the full amount you are owed."
   },
   "loss-settlement-provisions": {
     "title": "Loss Settlement Provisions: How Your Insurance Payout Is Actually Calculated",
-    "description": "The loss settlement clause in your homeowner policy determines everything about how you get paid. Learn how ACV, RCV, holdback, and rebuilding requirements work."
+    "description": "The loss settlement clause in your homeowner policy determines everything about how you get paid. Learn how ACV, RCV, holdback, and rebuilding requirements work.",
+    "summary": "The loss settlement clause controls how you get paid, defining ACV, RCV, the depreciation holdback, and any rebuilding requirement. Read it closely, because it determines whether and when you receive full replacement cost."
   },
   "lowball-offer-what-to-do": {
     "title": "My Insurance Company Is Lowballing Me — What Can I Do?",
@@ -1502,87 +1516,108 @@
   },
   "managed-repair-program-drp": {
     "title": "The Managed Repair Program from the Inside: How DRP Scoring Works",
-    "description": "How Direct Repair Programs score contractors on supplement ratios, claim costs, and cycle time — and why those metrics create incentives that work against policyholders. Know your right to opt out."
+    "description": "How Direct Repair Programs score contractors on supplement ratios, claim costs, and cycle time — and why those metrics create incentives that work against policyholders. Know your right to opt out.",
+    "summary": "Direct Repair Programs score contractors on supplement ratios, claim cost, and cycle time, creating incentives to keep your repair cheap and fast rather than complete. You generally have the right to opt out and choose your own contractor."
   },
   "managing-agent-punitive-damages": {
     "title": "How to Plead and Prove Managing Agent Liability in California Insurance Bad Faith Cases",
-    "description": "A comprehensive guide to identifying managing agents under Civil Code section 3294(b), the White v. Ultramar test, discovery strategies, ratification doctrine, and how managing agent liability creates settlement leverage in California insurance bad faith litigation."
+    "description": "A comprehensive guide to identifying managing agents under Civil Code section 3294(b), the White v. Ultramar test, discovery strategies, ratification doctrine, and how managing agent liability creates settlement leverage in California insurance bad faith litigation.",
+    "summary": "Punitive damages against an insurer require proving a 'managing agent' acted with malice or oppression under Civil Code 3294(b) and the White v. Ultramar test. Identifying the right managing agent, and ratification, creates real settlement leverage."
   },
   "manufacturing-industrial-insurance-claims": {
     "title": "Manufacturing and Industrial Facility Insurance Claims: Production Lines, Raw Materials, and the Bottleneck Problem",
-    "description": "Manufacturing facilities face unique insurance challenges including raw materials vs. finished goods valuation, machinery breakdown bottlenecks, environmental contamination, OSHA compliance, and supply chain disruption. A policyholder-focused guide to industrial insurance claims."
+    "description": "Manufacturing facilities face unique insurance challenges including raw materials vs. finished goods valuation, machinery breakdown bottlenecks, environmental contamination, OSHA compliance, and supply chain disruption. A policyholder-focused guide to industrial insurance claims.",
+    "summary": "Manufacturing claims involve raw-materials versus finished-goods valuation, machinery-breakdown bottlenecks, environmental and OSHA issues, and supply-chain disruption. The interplay of these exposures makes industrial claims uniquely complex to value."
   },
   "marine-cargo-claims": {
     "title": "Marine Cargo Insurance Claims: Why Importers and Exporters Need a Public Adjuster",
-    "description": "Marine cargo claims are among the most complex in property insurance. Learn about carrier liability, marine surveyors, General Average, COGSA, and why a Public Adjuster with trade expertise changes outcomes."
+    "description": "Marine cargo claims are among the most complex in property insurance. Learn about carrier liability, marine surveyors, General Average, COGSA, and why a Public Adjuster with trade expertise changes outcomes.",
+    "summary": "Marine cargo claims are highly complex, involving carrier liability, marine surveyors, General Average, and COGSA. A public adjuster with trade expertise can materially change the outcome on a significant cargo loss."
   },
   "marine-cargo-standalone": {
     "title": "Marine Cargo Insurance: Why Importers Should Purchase Their Own Coverage",
-    "description": "Practical purchasing and claims advice for marine cargo insurance. Learn why importers should buy their own policy, how trade terms affect risk, warehouse coverage duration, and how public adjusters handle cargo claims."
+    "description": "Practical purchasing and claims advice for marine cargo insurance. Learn why importers should buy their own policy, how trade terms affect risk, warehouse coverage duration, and how public adjusters handle cargo claims.",
+    "summary": "Importers should buy their own marine cargo policy rather than rely on a seller's or carrier's coverage, because trade terms shift risk and gaps appear in transit and storage. Knowing the trade terms is key to being protected."
   },
   "matching-impossible-banned-materials": {
     "title": "When Matching Is Impossible: Banned Materials, Discontinued Products, and Custom Finishes",
-    "description": "What happens when your insurance company cannot restore your home to pre-loss condition because the original materials are banned by California law, discontinued by the manufacturer, or too custom to replicate — and what the carrier owes you."
+    "description": "What happens when your insurance company cannot restore your home to pre-loss condition because the original materials are banned by California law, discontinued by the manufacturer, or too custom to replicate — and what the carrier owes you.",
+    "summary": "When original materials are banned, discontinued, or too custom to replicate, the insurer still owes a reasonably uniform appearance, which may mean replacing larger undamaged areas or paying for a comparable alternative. Impossibility of an exact match does not excuse underpayment."
   },
   "matching": {
     "title": "Matching: Achieving a Reasonable Uniform Appearance",
-    "description": "Learn why your insurance company may be required to pay for matching undamaged areas when partial repairs create a visibly different appearance, and how to argue matching in your claim."
+    "description": "Learn why your insurance company may be required to pay for matching undamaged areas when partial repairs create a visibly different appearance, and how to argue matching in your claim.",
+    "summary": "When a partial repair leaves a visibly mismatched appearance, your insurer may be required to pay to achieve a reasonably uniform look, including replacing undamaged adjacent areas. Argue matching using the line-of-sight standard and applicable regulations."
   },
   "material-misrepresentation-nondisclosure": {
     "title": "Material Misrepresentation vs. Innocent Nondisclosure: When Your Insurer Tries to Void Your Policy for What You Didn’t Say",
-    "description": "The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 330 (concealment defined), 331 (rescission), 332 (duty to disclose), 334 (materiality test), 359 (misrepresentation), and 2071 (standard fire policy) standards, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders."
+    "description": "The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 330 (concealment defined), 331 (rescission), 332 (duty to disclose), 334 (materiality test), 359 (misrepresentation), and 2071 (standard fire policy) standards, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders.",
+    "summary": "Insurers try to void policies for what you said or failed to say. California Insurance Code sections 330 to 360 distinguish material misrepresentation and concealment, which can support rescission, from innocent nondisclosure, which often cannot. Materiality and intent are the battleground."
   },
   "medical-dental-office-insurance-claims": {
     "title": "Medical and Dental Office Insurance Claims: Equipment, Contamination, and the Patient Retention Problem",
-    "description": "Medical and dental offices face unique insurance challenges — expensive specialized equipment, sterilization requirements after water damage, HIPAA-protected records, and the devastating patient retention problem during closures. A California public adjuster explains the coverage gaps that sink healthcare practice recoveries."
+    "description": "Medical and dental offices face unique insurance challenges — expensive specialized equipment, sterilization requirements after water damage, HIPAA-protected records, and the devastating patient retention problem during closures. A California public adjuster explains the coverage gaps that sink healthcare practice recoveries.",
+    "summary": "Medical and dental offices face specialized exposures: costly equipment, sterilization requirements after water damage, HIPAA-protected records, and patient loss during closures. These coverage gaps, especially patient retention, can sink a practice's recovery."
   },
   "misleading-replacement-cost-estimates": {
     "title": "Misleading Pre-Loss Replacement Cost Estimates: When the Insurer Says You're Covered and You're Not",
-    "description": "Insurance companies provide replacement cost estimates that tell policyholders their homes are adequately insured. After a total loss, the actual rebuild cost is 30-60% higher. Learn how this happens, what California law requires, and what you can do about it."
+    "description": "Insurance companies provide replacement cost estimates that tell policyholders their homes are adequately insured. After a total loss, the actual rebuild cost is 30-60% higher. Learn how this happens, what California law requires, and what you can do about it.",
+    "summary": "Insurers' pre-loss replacement cost estimates often tell homeowners they are fully covered, yet after a total loss the real rebuild cost runs 30 to 60% higher. Know how this happens and what California law says when the carrier's own estimate left you underinsured."
   },
   "mobile-manufactured-home-claims": {
     "title": "Mobile and Manufactured Home Insurance Claims: Unique Challenges and Coverage Gaps",
-    "description": "Manufactured and mobile homes face different construction standards, policy forms, and claims challenges than site-built homes. Learn the coverage gaps, valuation issues, and California protections."
+    "description": "Manufactured and mobile homes face different construction standards, policy forms, and claims challenges than site-built homes. Learn the coverage gaps, valuation issues, and California protections.",
+    "summary": "Manufactured and mobile homes use different construction standards, policy forms, and valuation than site-built homes, creating distinct coverage gaps. Know these differences and the California protections that apply to these claims."
   },
   "mold-coverage-paradox": {
     "title": "The Mold Coverage Paradox: Covered, Excluded, and Everything In Between",
-    "description": "Mold is simultaneously covered and excluded under most homeowner policies. Learn the cause-vs-result distinction, how to properly allocate costs between dwelling coverage and the mold sublimit, and stop leaving money on the table."
+    "description": "Mold is simultaneously covered and excluded under most homeowner policies. Learn the cause-vs-result distinction, how to properly allocate costs between dwelling coverage and the mold sublimit, and stop leaving money on the table.",
+    "summary": "Mold is both covered and excluded: covered when it results from a covered cause like a sudden leak, but capped by a mold sublimit. Properly allocate costs between dwelling coverage and the sublimit so you do not leave money on the table."
   },
   "mold-growth-prediction-research": {
     "title": "Mold Growth Science: How Fast Does Mold Really Develop?",
-    "description": "Research from VTT and Oak Ridge National Laboratory establishes mathematical models for mold growth rates — the science insurers hope you never see."
+    "description": "Research from VTT and Oak Ridge National Laboratory establishes mathematical models for mold growth rates — the science insurers hope you never see.",
+    "summary": "Research from VTT and Oak Ridge National Laboratory produced mathematical models of how fast mold grows under given moisture and temperature, science that supports the short window for covered mold and counters insurer claims that mold predated the loss."
   },
   "mold-losses": {
     "title": "Mold Losses: What Your Insurance Actually Covers",
-    "description": "Understand how insurance policies handle mold damage, the difference between mold as a cause of loss and mold as an ensuing loss, and how to protect your claim when mold is present."
+    "description": "Understand how insurance policies handle mold damage, the difference between mold as a cause of loss and mold as an ensuing loss, and how to protect your claim when mold is present.",
+    "summary": "Whether mold is covered turns on cause: mold resulting from a covered peril like a sudden water loss is generally covered, often subject to a sublimit, while long-term-moisture mold may be excluded. Establishing the cause protects the claim."
   },
   "moradi-shalal-790": {
     "title": "Why You Cannot Sue Your Insurer Under Insurance Code 790.03 — And What You Can Do Instead",
-    "description": "An explanation of why California policyholders cannot bring a private lawsuit under Insurance Code 790.03 after Moradi-Shalal v. Fireman's Fund, and the alternative legal remedies that are available — common law bad faith, breach of contract, CDI complaints, and Brandt fees."
+    "description": "An explanation of why California policyholders cannot bring a private lawsuit under Insurance Code 790.03 after Moradi-Shalal v. Fireman's Fund, and the alternative legal remedies that are available — common law bad faith, breach of contract, CDI complaints, and Brandt fees.",
+    "summary": "After Moradi-Shalal, you cannot sue your insurer directly under Insurance Code 790.03. But you still have remedies: common-law bad faith, breach of contract, a CDI complaint, and Brandt fees. Use those instead of a private 790.03 suit."
   },
   "mortgage-company-holds": {
     "title": "Mortgage Company Holds on Insurance Proceeds: Getting Your Money Released",
-    "description": "When your insurance company pays a dwelling claim, the check often has your mortgage lender's name on it. Learn how mortgage holds work, what lenders can and cannot do, and how to get your rebuild funds released."
+    "description": "When your insurance company pays a dwelling claim, the check often has your mortgage lender's name on it. Learn how mortgage holds work, what lenders can and cannot do, and how to get your rebuild funds released.",
+    "summary": "When a dwelling check carries your lender's name, the mortgage company can hold the funds and release them as repairs progress. Know what lenders can and cannot do and the steps to get your rebuild money released on time."
   },
   "mortgage-company-insurance-claims": {
     "title": "The Mortgage Company’s Role in Your Insurance Claim: Beyond the Endorsement",
-    "description": "Your mortgage company does far more than endorse a check. Learn how lenders control insurance proceeds through loss draft departments, draw schedules, and inspections — and how federal servicing rules, threshold amounts, and coverage allocation strategy can help you get your money faster."
+    "description": "Your mortgage company does far more than endorse a check. Learn how lenders control insurance proceeds through loss draft departments, draw schedules, and inspections — and how federal servicing rules, threshold amounts, and coverage allocation strategy can help you get your money faster.",
+    "summary": "Your mortgage servicer controls dwelling proceeds through loss-draft departments, draw schedules, and inspections. Federal servicing rules, threshold amounts, and smart coverage allocation can speed the release of your money."
   },
   "mortgage-company-public-adjuster": {
     "title": "When a Mortgage Company Tries to Hire a Public Adjuster: Understanding the Legal Boundaries",
-    "description": "The lender's loss payable endorsement, mortgagee rights, privacy laws, and why a mortgage company cannot hire a Public Adjuster unless it is an insured. A real-world case study."
+    "description": "The lender's loss payable endorsement, mortgagee rights, privacy laws, and why a mortgage company cannot hire a Public Adjuster unless it is an insured. A real-world case study.",
+    "summary": "A mortgage company generally cannot hire a public adjuster on your claim unless it is itself an insured, because of the limits of the loss-payable endorsement, mortgagee rights, and privacy law. Understand these boundaries if a lender tries."
   },
   "multiple-insurers-same-loss": {
     "title": "Multiple Insurance Policies Covering the Same Loss: Other Insurance Clauses, Stacking, and Maximizing Recovery",
-    "description": "When two or more insurance policies cover the same property loss, disputes over priority, contribution, and payment responsibility are common. Learn how other insurance clauses work, how California courts resolve conflicts, and how policyholders can maximize recovery from overlapping coverage."
+    "description": "When two or more insurance policies cover the same property loss, disputes over priority, contribution, and payment responsibility are common. Learn how other insurance clauses work, how California courts resolve conflicts, and how policyholders can maximize recovery from overlapping coverage.",
+    "summary": "When two policies cover the same loss, 'other insurance' clauses, contribution, and anti-stacking rules decide priority and payment. Knowing how California resolves these conflicts helps you maximize total recovery across overlapping coverage."
   },
   "multiple-reasons-to-replace": {
     "title": "Multiple Reasons to Replace: Don't Get Stuck Arguing One When You Have Seven",
-    "description": "One of the biggest mistakes in insurance claim negotiation is arguing one reason for replacement when you have several. If only one of seven reasons is valid, the item may still need to be replaced. Learn how to avoid the tunnel-vision trap and use every argument available."
+    "description": "One of the biggest mistakes in insurance claim negotiation is arguing one reason for replacement when you have several. If only one of seven reasons is valid, the item may still need to be replaced. Learn how to avoid the tunnel-vision trap and use every argument available.",
+    "summary": "Do not argue just one reason an item must be replaced when you have several. If even one of multiple valid reasons holds, replacement is owed, so present every applicable argument rather than betting on a single one."
   },
   "named-insured-vs-an-insured": {
     "title": "The Named Insured vs. ",
-    "description": "Your insurance policy draws a sharp line between "
+    "description": "Your insurance policy draws a sharp line between ",
+    "summary": "Your policy distinguishes the 'named insured' from 'an insured,' and the difference controls who has rights and duties. The named insured has the broadest rights; knowing which category you fall in matters when you file a claim."
   },
   "named-perils-vs-open-perils": {
     "title": "Named Perils vs. Open Perils: Why Your Contents Aren't Covered the Same as Your House",
@@ -1591,43 +1626,53 @@
   },
   "named-vs-additional-insured": {
     "title": "Named Insured vs. Additional Insured: Who Actually Has Rights Under Your Policy?",
-    "description": "Understanding the difference between named insureds, additional insureds, loss payees, and mortgagees on your insurance policy &mdash; and why it matters when you file a claim."
+    "description": "Understanding the difference between named insureds, additional insureds, loss payees, and mortgagees on your insurance policy &mdash; and why it matters when you file a claim.",
+    "summary": "Named insureds, additional insureds, loss payees, and mortgagees have very different rights under a policy. Understanding which you are determines what you can claim and control, so check your status before relying on coverage."
   },
   "negotiation": {
     "title": "Insurance Claim Negotiation Tactics",
-    "description": "Practical strategies for negotiating your insurance claim, from responding to lowball offers to knowing when to escalate the dispute."
+    "description": "Practical strategies for negotiating your insurance claim, from responding to lowball offers to knowing when to escalate the dispute.",
+    "summary": "Effective claim negotiation means countering lowball offers with documented evidence, communicating in writing, and knowing when to escalate to appraisal, a complaint, or counsel. Preparation and a clear target number drive better settlements."
   },
   "neighbor-property-damage-disputes": {
     "title": "Neighbor Property Damage: Trees, Water Runoff, and Who Pays When Damage Crosses Property Lines",
-    "description": "When a neighbor&apos;s tree falls on your property or their grading sends water into your home, who pays? Learn how insurance, liability, and subrogation work in cross-property-line disputes."
+    "description": "When a neighbor&apos;s tree falls on your property or their grading sends water into your home, who pays? Learn how insurance, liability, and subrogation work in cross-property-line disputes.",
+    "summary": "When a neighbor's tree falls on your property or their grading sends water your way, your own insurance often pays first, then may subrogate against the neighbor if they were negligent. Liability, not just proximity, decides who ultimately pays."
   },
   "neighboring-tenant-sprinkler-damage": {
     "title": "When a Neighbor's Fire Sprinkler Floods Your Business: Multi-Tenant Water Damage Claims",
-    "description": "Fire sprinkler activation in a neighboring unit can destroy your business with contaminated water. Learn whose policy responds, what perils apply, and how to protect your claim."
+    "description": "Fire sprinkler activation in a neighboring unit can destroy your business with contaminated water. Learn whose policy responds, what perils apply, and how to protect your claim.",
+    "summary": "When a neighboring unit's fire sprinkler floods your business with contaminated Category 3 water, whose policy responds depends on the lease, the peril, and negligence. Document the source and protect your own claim while pursuing the responsible party."
   },
   "new-california-insurance-laws-2025-2026": {
     "title": "New California Insurance Laws 2025–2026: What Every Policyholder Needs to Know",
-    "description": "A comprehensive guide to California insurance laws enacted and pending in 2025–2026: SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), SB 876 (disaster recovery reform), SB 877 (claims transparency), SB 878 (20% payment penalties), AB 1680 (FAIR Plan overhaul), SB 1301 (180-day nonrenewal notice), and more."
+    "description": "A comprehensive guide to California insurance laws enacted and pending in 2025–2026: SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), SB 876 (disaster recovery reform), SB 877 (claims transparency), SB 878 (20% payment penalties), AB 1680 (FAIR Plan overhaul), SB 1301 (180-day nonrenewal notice), and more.",
+    "summary": "California enacted and proposed major insurance laws in 2025-2026, including SB 495 (contents), SB 547 (non-renewal), AB 1680 and AB 226 (FAIR Plan), and SB 876-878 (disaster recovery, transparency, payment penalties). Know the ones that affect your claim."
   },
   "nfip-sandy-claims-underpayment": {
     "title": "Government Report: 80% of Sandy Flood Appeals Got More Money",
-    "description": "The Department of Homeland Security found that nearly 80% of NFIP Sandy claims appeals resulted in additional payments — proving systematic initial underpayment."
+    "description": "The Department of Homeland Security found that nearly 80% of NFIP Sandy claims appeals resulted in additional payments — proving systematic initial underpayment.",
+    "summary": "A DHS report found nearly 80% of NFIP Hurricane Sandy claim appeals resulted in additional payments, strong evidence that the initial flood-claim payments were systematically too low. It shows why appealing a low flood payment is worthwhile."
   },
   "nist-camp-fire-investigation": {
     "title": "NIST Camp Fire Investigation: What Government Scientists Found",
-    "description": "NIST’s investigation of the 2018 Camp Fire — which destroyed over 19,000 structures — reveals how wildfire damages buildings and why insurers underestimate repair costs."
+    "description": "NIST’s investigation of the 2018 Camp Fire — which destroyed over 19,000 structures — reveals how wildfire damages buildings and why insurers underestimate repair costs.",
+    "summary": "NIST's investigation of the 2018 Camp Fire, which destroyed over 19,000 structures, documents how wildfire actually damages buildings, evidence that insurers routinely underestimate the true cost to repair fire and smoke damage."
   },
   "nist-witch-fire-case-study": {
     "title": "NIST Witch Fire Study: House-by-House Wildfire Damage Analysis",
-    "description": "NIST documented 274 homes after the 2007 Witch Fire, proving that wildfire damage depends on exposure conditions — not just whether flames reached the structure."
+    "description": "NIST documented 274 homes after the 2007 Witch Fire, proving that wildfire damage depends on exposure conditions — not just whether flames reached the structure.",
+    "summary": "NIST's study of 274 homes after the 2007 Witch Fire showed wildfire damage depends on each home's specific exposure conditions, not merely whether flames reached it, supporting claims for ember, heat, and smoke damage even without direct burning."
   },
   "nist-wui-hazard-methodology": {
     "title": "The WUI Hazard Scale: How Scientists Measure Wildfire Risk to Buildings",
-    "description": "NIST, CAL FIRE, and IBHS developed a science-based framework for measuring wildfire exposure. It proves damage depends on measurable conditions, not guesswork."
+    "description": "NIST, CAL FIRE, and IBHS developed a science-based framework for measuring wildfire exposure. It proves damage depends on measurable conditions, not guesswork.",
+    "summary": "NIST, CAL FIRE, and IBHS built a science-based WUI hazard scale showing wildfire damage depends on measurable exposure conditions, not guesswork. It supports documenting how fire and smoke actually reached and harmed a property."
   },
   "nnn-lease-insurance-traps": {
     "title": "Triple Net (NNN) Lease Insurance Traps: When Your Lease Makes You Responsible for Everything",
-    "description": "In a NNN lease the tenant is responsible for insurance, taxes, and maintenance — including building coverage most tenants assume the landlord carries. Learn the coverage gaps, what your lease language actually means, and how to protect yourself before a loss."
+    "description": "In a NNN lease the tenant is responsible for insurance, taxes, and maintenance — including building coverage most tenants assume the landlord carries. Learn the coverage gaps, what your lease language actually means, and how to protect yourself before a loss.",
+    "summary": "In a triple net (NNN) lease, the tenant is responsible for insurance, taxes, and maintenance, often including building coverage tenants wrongly assume the landlord carries. Read the lease carefully and confirm who insures the structure before a loss."
   },
   "non-renewal-after-claim": {
     "title": "Non-Renewal After a Claim: What Happens to Your Insurance After You File",

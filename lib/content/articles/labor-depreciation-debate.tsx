@@ -4,6 +4,8 @@ export const meta = {
   title: 'Labor Depreciation: Can Labor "Wear Out"? The National Debate Over Depreciating Services',
   description:
     'A comprehensive analysis of the labor depreciation debate in insurance claims. Can a service physically deteriorate? States are increasingly saying no. Learn the case law, the arguments, California\'s position, and how to challenge labor depreciation on your claim.',
+  summary:
+    'Can a service physically wear out? A growing number of states say no, so labor cannot be depreciated, only materials can. Learn the case law and arguments, California\'s position, and how to challenge labor depreciation that wrongly cuts your payment.',
 }
 
 export default function Content() {

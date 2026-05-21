@@ -6,6 +6,8 @@ export const meta = {
     'The Named Insured vs. "An Insured" — Why the Distinction Matters More Than You Think',
   description:
     'Your insurance policy draws a sharp line between "you" (the named insured) and "an insured" (resident relatives, spouses, and others). This distinction controls who has rights, who triggers exclusions, and who can recover after a loss. Learn why it matters and how to protect yourself.',
+  summary:
+    'Your policy distinguishes the \'named insured\' from \'an insured,\' and the difference controls who has rights and duties. The named insured has the broadest rights; knowing which category you fall in matters when you file a claim.',
 }
 
 export default function Content() {

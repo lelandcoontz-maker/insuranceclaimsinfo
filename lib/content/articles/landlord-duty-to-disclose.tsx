@@ -6,6 +6,8 @@ export const meta = {
     'Landlord\'s Duty to Disclose Building Conditions to Commercial Tenants',
   description:
     'Asbestos, lead paint, mold history, prior water damage, roof age — what California landlords must disclose to commercial tenants, and how failure to disclose affects insurance claims and negligence actions.',
+  summary:
+    'California landlords must disclose known hazards to commercial tenants, including asbestos, lead, mold history, prior water damage, and roof age. Failure to disclose can affect insurance claims and expose the landlord to negligence liability.',
 }
 
 export default function Content() {

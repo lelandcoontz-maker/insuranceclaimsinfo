@@ -4,6 +4,8 @@ export const meta = {
   title: 'Government Report: 80% of Sandy Flood Appeals Got More Money',
   description:
     'The Department of Homeland Security found that nearly 80% of NFIP Sandy claims appeals resulted in additional payments — proving systematic initial underpayment.',
+  summary:
+    'A DHS report found nearly 80% of NFIP Hurricane Sandy claim appeals resulted in additional payments, strong evidence that the initial flood-claim payments were systematically too low. It shows why appealing a low flood payment is worthwhile.',
 }
 
 export default function Content() {

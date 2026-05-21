@@ -5,6 +5,8 @@ export const meta = {
   title: 'Late Notice: When Your Insurer Tries to Deny Your Claim for Delayed Reporting',
   description:
     'How insurers use late notice defenses to deny claims, California\'s notice-prejudice rule requiring the insurer to prove actual harm from the delay, and how policyholders can counter late notice denials.',
+  summary:
+    'Insurers raise \'late notice\' to deny claims, but California\'s notice-prejudice rule means a delay only defeats coverage if the insurer proves the delay actually harmed it. Late reporting alone is usually not enough to deny.',
 }
 
 export default function Content() {

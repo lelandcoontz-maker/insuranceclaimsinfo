@@ -5,6 +5,8 @@ export const meta = {
   title: 'Multiple Reasons to Replace: Don\'t Get Stuck Arguing One When You Have Seven',
   description:
     'One of the biggest mistakes in insurance claim negotiation is arguing one reason for replacement when you have several. If only one of seven reasons is valid, the item may still need to be replaced. Learn how to avoid the tunnel-vision trap and use every argument available.',
+  summary:
+    'Do not argue just one reason an item must be replaced when you have several. If even one of multiple valid reasons holds, replacement is owed, so present every applicable argument rather than betting on a single one.',
 }
 
 export default function Content() {

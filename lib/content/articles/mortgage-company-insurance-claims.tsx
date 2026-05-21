@@ -4,6 +4,8 @@ export const meta = {
   title: 'The Mortgage Company’s Role in Your Insurance Claim: Beyond the Endorsement',
   description:
     'Your mortgage company does far more than endorse a check. Learn how lenders control insurance proceeds through loss draft departments, draw schedules, and inspections — and how federal servicing rules, threshold amounts, and coverage allocation strategy can help you get your money faster.',
+  summary:
+    'Your mortgage servicer controls dwelling proceeds through loss-draft departments, draw schedules, and inspections. Federal servicing rules, threshold amounts, and smart coverage allocation can speed the release of your money.',
 }
 
 export default function Content() {

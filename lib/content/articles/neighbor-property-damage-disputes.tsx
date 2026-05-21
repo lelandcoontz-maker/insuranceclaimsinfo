@@ -5,6 +5,8 @@ export const meta = {
   title: 'Neighbor Property Damage: Trees, Water Runoff, and Who Pays When Damage Crosses Property Lines',
   description:
     'When a neighbor&apos;s tree falls on your property or their grading sends water into your home, who pays? Learn how insurance, liability, and subrogation work in cross-property-line disputes.',
+  summary:
+    'When a neighbor\'s tree falls on your property or their grading sends water your way, your own insurance often pays first, then may subrogate against the neighbor if they were negligent. Liability, not just proximity, decides who ultimately pays.',
 }
 
 export default function Content() {

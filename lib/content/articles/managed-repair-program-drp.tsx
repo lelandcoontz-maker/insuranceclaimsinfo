@@ -5,6 +5,8 @@ export const meta = {
     "The Managed Repair Program from the Inside: How DRP Scoring Works",
   description:
     "How Direct Repair Programs score contractors on supplement ratios, claim costs, and cycle time — and why those metrics create incentives that work against policyholders. Know your right to opt out.",
+  summary:
+    'Direct Repair Programs score contractors on supplement ratios, claim cost, and cycle time, creating incentives to keep your repair cheap and fast rather than complete. You generally have the right to opt out and choose your own contractor.',
 }
 
 export default function Content() {

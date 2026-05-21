@@ -4,6 +4,8 @@ export const meta = {
   title: 'NIST Witch Fire Study: House-by-House Wildfire Damage Analysis',
   description:
     'NIST documented 274 homes after the 2007 Witch Fire, proving that wildfire damage depends on exposure conditions — not just whether flames reached the structure.',
+  summary:
+    'NIST\'s study of 274 homes after the 2007 Witch Fire showed wildfire damage depends on each home\'s specific exposure conditions, not merely whether flames reached it, supporting claims for ember, heat, and smoke damage even without direct burning.',
 }
 
 export default function Content() {

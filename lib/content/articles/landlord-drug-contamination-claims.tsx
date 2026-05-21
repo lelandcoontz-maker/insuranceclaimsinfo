@@ -5,6 +5,8 @@ export const meta = {
   title: 'Drug Contamination Claims for California Landlords: Meth Labs, Fentanyl, Grow Operations, and the Insurance Path to Recovery',
   description:
     'When a tenant turns your rental property into a meth lab, a fentanyl-handling site, or an illegal cannabis grow operation, the cost to remediate routinely exceeds five figures and sometimes six. The path to insurance coverage runs through vandalism coverage, the innocent-landlord doctrine, and California’s Methamphetamine Contaminated Properties Cleanup Act. Here is how the analysis works, what an industrial hygienist actually does in these claims, what disclosure obligations attach going forward, and how to keep the carrier from defaulting to denial.',
+  summary:
+    'When a tenant turns your California rental into a meth lab, fentanyl site, or grow operation, remediation can run into six figures. Coverage usually runs through vandalism coverage, the innocent-landlord doctrine, and the Methamphetamine Contaminated Properties Cleanup Act.',
 }
 
 export default function Content() {

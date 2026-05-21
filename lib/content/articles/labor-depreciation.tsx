@@ -5,6 +5,8 @@ export const meta = {
   title: 'Labor Depreciation: Why Your Insurance Company Can\'t Depreciate Work Costs',
   description:
     'A growing number of states have ruled that insurance companies cannot depreciate labor. Learn what labor depreciation is, which states prohibit it, and how to fight it.',
+  summary:
+    'Many states now hold that insurers cannot depreciate labor, only materials, because work itself does not physically deteriorate. Know whether your state prohibits labor depreciation and challenge it when a carrier applies it to reduce your payout.',
 }
 
 export default function Content() {

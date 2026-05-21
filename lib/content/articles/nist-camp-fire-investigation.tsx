@@ -4,6 +4,8 @@ export const meta = {
   title: 'NIST Camp Fire Investigation: What Government Scientists Found',
   description:
     'NIST’s investigation of the 2018 Camp Fire — which destroyed over 19,000 structures — reveals how wildfire damages buildings and why insurers underestimate repair costs.',
+  summary:
+    'NIST\'s investigation of the 2018 Camp Fire, which destroyed over 19,000 structures, documents how wildfire actually damages buildings, evidence that insurers routinely underestimate the true cost to repair fire and smoke damage.',
 }
 
 export default function Content() {

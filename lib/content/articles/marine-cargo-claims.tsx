@@ -6,6 +6,8 @@ export const meta = {
   title: 'Marine Cargo Insurance Claims: Why Importers and Exporters Need a Public Adjuster',
   description:
     'Marine cargo claims are among the most complex in property insurance. Learn about carrier liability, marine surveyors, General Average, COGSA, and why a Public Adjuster with trade expertise changes outcomes.',
+  summary:
+    'Marine cargo claims are highly complex, involving carrier liability, marine surveyors, General Average, and COGSA. A public adjuster with trade expertise can materially change the outcome on a significant cargo loss.',
 }
 
 export default function Content() {

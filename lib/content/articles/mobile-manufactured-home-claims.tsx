@@ -5,6 +5,8 @@ export const meta = {
   title: 'Mobile and Manufactured Home Insurance Claims: Unique Challenges and Coverage Gaps',
   description:
     'Manufactured and mobile homes face different construction standards, policy forms, and claims challenges than site-built homes. Learn the coverage gaps, valuation issues, and California protections.',
+  summary:
+    'Manufactured and mobile homes use different construction standards, policy forms, and valuation than site-built homes, creating distinct coverage gaps. Know these differences and the California protections that apply to these claims.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Loss Settlement Provisions: How Your Insurance Payout Is Actually Calculated',
   description:
     'The loss settlement clause in your homeowner policy determines everything about how you get paid. Learn how ACV, RCV, holdback, and rebuilding requirements work.',
+  summary:
+    'The loss settlement clause controls how you get paid, defining ACV, RCV, the depreciation holdback, and any rebuilding requirement. Read it closely, because it determines whether and when you receive full replacement cost.',
 }
 
 export default function Content() {

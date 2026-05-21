@@ -5,6 +5,8 @@ export const meta = {
   title: 'Why You Cannot Sue Your Insurer Under Insurance Code 790.03 — And What You Can Do Instead',
   description:
     'An explanation of why California policyholders cannot bring a private lawsuit under Insurance Code 790.03 after Moradi-Shalal v. Fireman\'s Fund, and the alternative legal remedies that are available — common law bad faith, breach of contract, CDI complaints, and Brandt fees.',
+  summary:
+    'After Moradi-Shalal, you cannot sue your insurer directly under Insurance Code 790.03. But you still have remedies: common-law bad faith, breach of contract, a CDI complaint, and Brandt fees. Use those instead of a private 790.03 suit.',
 }
 
 export default function Content() {

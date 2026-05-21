@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Claim Negotiation Tactics',
   description:
     'Practical strategies for negotiating your insurance claim, from responding to lowball offers to knowing when to escalate the dispute.',
+  summary:
+    'Effective claim negotiation means countering lowball offers with documented evidence, communicating in writing, and knowing when to escalate to appraisal, a complaint, or counsel. Preparation and a clear target number drive better settlements.',
 }
 
 export default function Content() {
