@@ -5,6 +5,8 @@ export const meta = {
   title: 'Is Your Insurance Policy Illegal? When Policy Language Conflicts with California Law',
   description:
     'A California court ruled the FAIR Plan\'s fire policy "unlawful." But the problem goes far beyond one insurer. Here are the ways your policy may conflict with California statutes, case law, and regulations — and why the law wins.',
+  summary:
+    'When policy language conflicts with California law, the law controls and the offending policy term is unenforceable, as courts have held even against FAIR Plan provisions. An illegal clause cannot be used to deny what the law guarantees.',
 }
 
 export default function Content() {

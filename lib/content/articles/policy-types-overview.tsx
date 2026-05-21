@@ -5,6 +5,8 @@ export const meta = {
   title: 'Types of Insurance Policies: A Complete Guide to Residential, Commercial, and Specialty Coverage',
   description:
     'A comprehensive overview of every major property insurance policy type — HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial property, businessowners, flood, earthquake, DIC, builder\'s risk, and inland marine — with coverage details, exclusions, and California-specific considerations.',
+  summary:
+    'Property insurance comes in many forms, HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial, BOP, flood, earthquake, DIC, builder\'s risk, and inland marine, each with different coverage, exclusions, and California considerations. Know which type you actually hold.',
 }
 
 export default function Content() {

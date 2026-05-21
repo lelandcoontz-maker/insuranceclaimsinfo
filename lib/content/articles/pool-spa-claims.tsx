@@ -5,6 +5,8 @@ export const meta = {
   title: 'Swimming Pool and Spa Insurance Claims: Coverage, Exclusions, and Common Disputes',
   description:
     'How swimming pools and spas are covered under homeowners insurance in California — Coverage B limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine.',
+  summary:
+    'Pools and spas fall under the limited Coverage B \'other structures,\' and claims often involve equipment breakdown, freeze damage, earth movement, and resurfacing disputes. The efficient proximate cause doctrine can restore coverage when a covered peril is the real cause.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: "PFAS 'Forever Chemicals' and Property Insurance: An Emerging Coverage Crisis",
   description:
     'How PFAS contamination affects property values and insurance coverage, the new ISO PFAS exclusions appearing on policies, EPA reporting requirements, and what property owners should do to protect themselves.',
+  summary:
+    'PFAS \'forever chemicals\' contamination can hurt property value, and insurers are adding PFAS exclusions to policies while EPA reporting rules expand. Property owners should know whether their policy now excludes PFAS and document any contamination.',
 }
 
 export default function Content() {

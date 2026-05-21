@@ -6,6 +6,8 @@ export const meta = {
     'Parametric Insurance for Businesses: Fast Payouts When Traditional Coverage Falls Short',
   description:
     'How parametric insurance works for commercial properties, including trigger-based payouts for earthquake, flood, wind, heat, and wildfire. Covers basis risk, regulatory treatment in California, pricing, limitations, and practical guidance for evaluating parametric products alongside traditional coverage.',
+  summary:
+    'Parametric insurance pays a fixed amount when a measurable trigger, a quake magnitude or wind speed, is met, giving businesses fast payouts. Watch basis risk, the gap between the payout and actual loss, and treat it as a supplement to traditional coverage.',
 }
 
 export default function Content() {

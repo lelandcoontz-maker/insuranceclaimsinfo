@@ -5,6 +5,8 @@ export const meta = {
   title: 'OSHA Requirements and Building Code Upgrades as Triggers for Ordinance or Law Coverage',
   description:
     'When workplace safety regulations and building codes force upgrades during insured repairs, ordinance or law coverage should pay the additional costs. Learn how OSHA standards, Cal/OSHA requirements, and building code changes trigger coverage for increased construction costs.',
+  summary:
+    'When OSHA, Cal/OSHA, or building-code requirements force upgrades during insured repairs, ordinance or law coverage should pay the added costs. These regulatory triggers, not just the original damage, can substantially increase what the insurer owes.',
 }
 
 export default function Content() {

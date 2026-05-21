@@ -4,6 +4,8 @@ export const meta = {
   title: 'Non-Renewal After a Claim: What Happens to Your Insurance After You File',
   description:
     'How filing an insurance claim affects your future insurability, CLUE reports, rate increases, California non-renewal protections, disaster moratoriums, and why fear of non-renewal causes policyholders to accept lowball settlements.',
+  summary:
+    'Filing a claim can affect future insurability through CLUE reports and rate increases, and fear of non-renewal pushes many to accept lowball settlements. California offers non-renewal protections and disaster moratoriums; do not let that fear alone dictate your claim.',
 }
 
 export default function Content() {

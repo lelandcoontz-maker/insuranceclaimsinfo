@@ -5,6 +5,8 @@ export const meta = {
   title: 'Reading the Insurer\'s Letters: What They Actually Mean and How to Respond',
   description:
     'Decode the letters your insurance company sends — reservation of rights, denial letters, non-waiver agreements, cure letters, coverage position letters, and more. Learn the legal significance of each and what to do when you receive one.',
+  summary:
+    'Insurer letters, reservation of rights, denial, non-waiver, coverage position, each carry specific legal meaning and call for a specific response. Learn to decode them so you know what the carrier is really doing and how to protect your rights.',
 }
 
 export default function Content() {

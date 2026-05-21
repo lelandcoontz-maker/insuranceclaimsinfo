@@ -5,6 +5,8 @@ export const meta = {
   title: 'Protective Safeguards Endorsements: When a Lapsed Alarm Voids Your Entire Policy',
   description:
     'Protective safeguards endorsements require you to maintain specific safety equipment like sprinklers, fire alarms, and security systems. If the safeguard is not maintained and a loss occurs, the insurer can deny the entire claim — even if the safeguard had nothing to do with the loss.',
+  summary:
+    'A protective safeguards endorsement requires you to maintain specified safety equipment, sprinklers, alarms, security. If the safeguard lapses and a loss occurs, the insurer can deny the entire claim, even if the lapse did not cause the loss. Keep them maintained.',
 }
 
 export default function Content() {

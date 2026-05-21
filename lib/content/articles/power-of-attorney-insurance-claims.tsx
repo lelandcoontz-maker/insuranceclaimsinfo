@@ -5,6 +5,8 @@ export const meta = {
   title: 'Power of Attorney and Conservatorship in Insurance Claims: Managing the Claim of an Incapacitated Policyholder',
   description:
     'When a policyholder becomes incapacitated, someone else must take over the claim — either through a previously executed Power of Attorney or, if no POA exists, through a court-supervised conservatorship. The full guide to both paths: how durable POA works in insurance claims, what conservatorship requires under California Probate Code, how insurers resist each, and what families should do before incapacity strikes.',
+  summary:
+    'If a policyholder becomes incapacitated, a durable Power of Attorney lets someone manage the claim; without one, a court conservatorship is required under California Probate Code. Insurers resist both, so set up a POA before incapacity strikes.',
 }
 
 export default function Content() {

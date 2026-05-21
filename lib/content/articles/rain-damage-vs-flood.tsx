@@ -5,6 +5,8 @@ export const meta = {
   title: 'Rain Damage vs. Flood Damage: The Coverage Distinction That Catches Homeowners Off Guard',
   description:
     'The critical difference between rain damage covered by homeowner insurance and flood damage that requires separate flood insurance. Covers surface water exclusions, wind-driven rain, anti-concurrent causation, mudslide classifications, and how to document the source of water intrusion.',
+  summary:
+    'Rain entering through a storm-created opening is usually covered by your homeowner policy, while rising surface water (flood) requires separate flood insurance. The source and path of the water, not just that it was wet, decides coverage; document it carefully.',
 }
 
 export default function Content() {

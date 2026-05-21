@@ -5,6 +5,8 @@ export const meta = {
   title: 'Parametric Insurance: Fast Payouts, But Not a Replacement for Your Homeowner Policy',
   description:
     'What parametric insurance is, how it works, and why it is a supplement to traditional coverage — not a substitute. Covers trigger-based payouts, basis risk, growing market adoption, and how parametric products can fill gaps for FAIR Plan and earthquake policyholders.',
+  summary:
+    'Parametric insurance pays a preset amount when a defined trigger occurs, delivering speed but carrying basis risk where the payout may not match your actual loss. It supplements, not replaces, a traditional homeowner, FAIR Plan, or earthquake policy.',
 }
 
 export default function Content() {

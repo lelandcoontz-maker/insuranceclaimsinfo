@@ -6,6 +6,8 @@ export const meta = {
     'Professional Services Firm Insurance Claims: Law Firms, Accounting Firms, and the Client Retention Crisis',
   description:
     'Law firms, accounting firms, and architecture firms face unique property insurance challenges—from valuable papers and electronic data to the devastating client retention problem during closure. Learn where the coverage gaps hide and how to protect your practice.',
+  summary:
+    'Law, accounting, and architecture firms face unique exposures: valuable papers, electronic data, and the severe client-retention problem during a closure. Standard coverage often leaves gaps that can sink a practice\'s recovery.',
 }
 
 export default function Content() {

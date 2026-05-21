@@ -4,6 +4,8 @@ export const meta = {
   title: "The Carrier&apos;s Preferred Contractor: Who They Really Work For",
   description:
     "How preferred vendor programs create structural conflicts of interest that favor the insurance carrier over the policyholder, and how California law protects your right to choose your own contractor.",
+  summary:
+    'A carrier\'s preferred contractor is scored and paid by the insurer, creating a structural conflict that favors the carrier\'s cost control over your full repair. California law protects your right to choose your own contractor instead.',
 }
 
 export default function Content() {

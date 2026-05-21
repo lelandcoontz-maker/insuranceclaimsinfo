@@ -1676,67 +1676,83 @@
   },
   "non-renewal-after-claim": {
     "title": "Non-Renewal After a Claim: What Happens to Your Insurance After You File",
-    "description": "How filing an insurance claim affects your future insurability, CLUE reports, rate increases, California non-renewal protections, disaster moratoriums, and why fear of non-renewal causes policyholders to accept lowball settlements."
+    "description": "How filing an insurance claim affects your future insurability, CLUE reports, rate increases, California non-renewal protections, disaster moratoriums, and why fear of non-renewal causes policyholders to accept lowball settlements.",
+    "summary": "Filing a claim can affect future insurability through CLUE reports and rate increases, and fear of non-renewal pushes many to accept lowball settlements. California offers non-renewal protections and disaster moratoriums; do not let that fear alone dictate your claim."
   },
   "nonrenewal-cancellation": {
     "title": "Insurance Non-Renewal and Cancellation in California: Your Rights When Your Carrier Drops You",
-    "description": "California law gives homeowners significant protections when an insurer cancels or non-renews their policy. Learn the notice requirements, moratorium rules, and your options when your carrier drops you."
+    "description": "California law gives homeowners significant protections when an insurer cancels or non-renews their policy. Learn the notice requirements, moratorium rules, and your options when your carrier drops you.",
+    "summary": "California gives homeowners real protections when an insurer cancels or non-renews, including advance notice requirements and post-disaster moratoriums. Know the notice rules and your options when a carrier drops you."
   },
   "off-premises-utility-services": {
     "title": "Off-Premises Utility Services: When a Power Failure Miles Away Destroys Your Business",
-    "description": "Standard commercial property policies exclude losses from off-premises utility failures. Learn how the utility services endorsement closes this devastating coverage gap for restaurants and businesses with perishable inventory."
+    "description": "Standard commercial property policies exclude losses from off-premises utility failures. Learn how the utility services endorsement closes this devastating coverage gap for restaurants and businesses with perishable inventory.",
+    "summary": "Standard commercial policies exclude losses from off-premises utility failures, so a power outage miles away can spoil inventory with no coverage. A utility services endorsement closes this gap, vital for restaurants and businesses with perishables."
   },
   "op-depreciation-california": {
     "title": "Can California Insurers Depreciate Overhead & Profit? No — Here’s Why",
-    "description": "California Insurance Code Section 2051(b) limits deductions to physical depreciation of structural components. O&P is a service cost — it has no condition, no age, and cannot legally be depreciated. The statutory framework, regulatory requirements, and pending federal litigation explained."
+    "description": "California Insurance Code Section 2051(b) limits deductions to physical depreciation of structural components. O&P is a service cost — it has no condition, no age, and cannot legally be depreciated. The statutory framework, regulatory requirements, and pending federal litigation explained.",
+    "summary": "California Insurance Code 2051(b) limits depreciation to physical wear of structural components. Overhead and profit is a service cost with no age or condition, so it cannot legally be depreciated. Challenge any carrier that depreciates O&P."
   },
   "open-perils-vs-named-perils": {
     "title": "Open Perils vs. Named Perils: The Most Important Distinction in Your Insurance Policy",
-    "description": "Understanding the difference between open perils and named perils coverage, how the HO-3 splits them between dwelling and contents, why the burden of proof changes everything, and what you can do to close the gap."
+    "description": "Understanding the difference between open perils and named perils coverage, how the HO-3 splits them between dwelling and contents, why the burden of proof changes everything, and what you can do to close the gap.",
+    "summary": "Open-perils coverage protects against all causes except those excluded; named-perils covers only listed causes. The HO-3 gives the dwelling open-perils but limits contents to named perils, and that shifts the burden of proof, an important gap to understand."
   },
   "ordinance-law-asbestos-abatement": {
     "title": "Ordinance or Law and Asbestos Abatement: Who Pays When a Covered Loss Triggers ACM Removal?",
-    "description": "When a covered loss triggers demolition of a building containing asbestos-containing materials (ACM), who pays for the abatement? This article analyzes the intersection of ordinance or law coverage, the pollution exclusion, and the efficient proximate cause doctrine in California commercial property claims."
+    "description": "When a covered loss triggers demolition of a building containing asbestos-containing materials (ACM), who pays for the abatement? This article analyzes the intersection of ordinance or law coverage, the pollution exclusion, and the efficient proximate cause doctrine in California commercial property claims.",
+    "summary": "When a covered loss forces demolition of a building with asbestos materials, ordinance or law coverage should pay the required abatement, despite carrier attempts to invoke the pollution exclusion. California's efficient proximate cause doctrine supports coverage."
   },
   "ordinance-law": {
     "title": "Building Code & Ordinance or Law Coverage",
-    "description": "Understanding Ordinance or Law coverage — why it covers far more than just building codes, how its three coverage parts work, and why it can add 25-50% to your insurance claim."
+    "description": "Understanding Ordinance or Law coverage — why it covers far more than just building codes, how its three coverage parts work, and why it can add 25-50% to your insurance claim.",
+    "summary": "Ordinance or law coverage pays the increased cost of meeting current building codes after a covered loss, across three parts: loss to the undamaged portion, demolition, and increased construction cost. It can add 25 to 50% to a claim."
   },
   "osha-building-code-ordinance-coverage": {
     "title": "OSHA Requirements and Building Code Upgrades as Triggers for Ordinance or Law Coverage",
-    "description": "When workplace safety regulations and building codes force upgrades during insured repairs, ordinance or law coverage should pay the additional costs. Learn how OSHA standards, Cal/OSHA requirements, and building code changes trigger coverage for increased construction costs."
+    "description": "When workplace safety regulations and building codes force upgrades during insured repairs, ordinance or law coverage should pay the additional costs. Learn how OSHA standards, Cal/OSHA requirements, and building code changes trigger coverage for increased construction costs.",
+    "summary": "When OSHA, Cal/OSHA, or building-code requirements force upgrades during insured repairs, ordinance or law coverage should pay the added costs. These regulatory triggers, not just the original damage, can substantially increase what the insurer owes."
   },
   "overhead-and-profit": {
     "title": "Overhead & Profit: When Your Claim Should Include O&P",
-    "description": "Insurance companies routinely refuse to include overhead and profit in their estimates. Learn what O&P is, when you're entitled to it, and how to fight for it."
+    "description": "Insurance companies routinely refuse to include overhead and profit in their estimates. Learn what O&P is, when you're entitled to it, and how to fight for it.",
+    "summary": "General contractor overhead and profit (O&P) is owed whenever repairs are complex enough to need a GC, typically three or more trades. Insurers routinely omit it; know when you are entitled to O&P and insist it be included."
   },
   "ownership-and-authority-in-claims": {
     "title": "Ownership and Authority in Insurance Claims: Non-Standard Property Situations",
-    "description": "When property ownership is non-standard — a Medicaid/Medi-Cal recipient on the title, a life estate, probate-pending status, inherited property — coverage defenses multiply and authority over the claim gets murky. The comprehensive guide to navigating the intersection of property ownership, estate law, and California insurance claims."
+    "description": "When property ownership is non-standard — a Medicaid/Medi-Cal recipient on the title, a life estate, probate-pending status, inherited property — coverage defenses multiply and authority over the claim gets murky. The comprehensive guide to navigating the intersection of property ownership, estate law, and California insurance claims.",
+    "summary": "When ownership is non-standard, a Medicaid recipient on title, a life estate, probate-pending, or inherited property, coverage defenses multiply and authority over the claim gets murky. This guide navigates property ownership, estate law, and California insurance claims."
   },
   "packout-storage-process": {
     "title": "Pack-Out, Storage, and Cleaning of Personal Property: What Your Insurance Company Should Be Paying For",
-    "description": "A practical guide to the pack-out, storage, and cleaning process during an insurance claim. Covers your right to take cash instead of services, proper pack-out procedures, storage levels, items commonly damaged during the process, and California-specific regulations."
+    "description": "A practical guide to the pack-out, storage, and cleaning process during an insurance claim. Covers your right to take cash instead of services, proper pack-out procedures, storage levels, items commonly damaged during the process, and California-specific regulations.",
+    "summary": "On a pack-out, the insurer should pay to properly pack, store, and clean your belongings, and you generally have the right to take a cash settlement instead of services. Document items before they leave, because property is often damaged or lost in the process."
   },
   "pair-and-set": {
     "title": "Pair and Set Clauses in Property Insurance: What Happens When Only Part of a Match Is Destroyed",
-    "description": "Understand the pair and set clause in your homeowner policy, how it applies to jewelry, furniture, cabinets, and building components, and how California matching regulations protect policyholders."
+    "description": "Understand the pair and set clause in your homeowner policy, how it applies to jewelry, furniture, cabinets, and building components, and how California matching regulations protect policyholders.",
+    "summary": "A pair-and-set clause addresses what happens when only part of a matched set, jewelry, furniture, cabinets, is destroyed. With California matching protections, you may be owed the value of restoring the whole set, not just the damaged piece."
   },
   "parametric-insurance-commercial": {
     "title": "Parametric Insurance for Businesses: Fast Payouts When Traditional Coverage Falls Short",
-    "description": "How parametric insurance works for commercial properties, including trigger-based payouts for earthquake, flood, wind, heat, and wildfire. Covers basis risk, regulatory treatment in California, pricing, limitations, and practical guidance for evaluating parametric products alongside traditional coverage."
+    "description": "How parametric insurance works for commercial properties, including trigger-based payouts for earthquake, flood, wind, heat, and wildfire. Covers basis risk, regulatory treatment in California, pricing, limitations, and practical guidance for evaluating parametric products alongside traditional coverage.",
+    "summary": "Parametric insurance pays a fixed amount when a measurable trigger, a quake magnitude or wind speed, is met, giving businesses fast payouts. Watch basis risk, the gap between the payout and actual loss, and treat it as a supplement to traditional coverage."
   },
   "parametric-insurance": {
     "title": "Parametric Insurance: Fast Payouts, But Not a Replacement for Your Homeowner Policy",
-    "description": "What parametric insurance is, how it works, and why it is a supplement to traditional coverage — not a substitute. Covers trigger-based payouts, basis risk, growing market adoption, and how parametric products can fill gaps for FAIR Plan and earthquake policyholders."
+    "description": "What parametric insurance is, how it works, and why it is a supplement to traditional coverage — not a substitute. Covers trigger-based payouts, basis risk, growing market adoption, and how parametric products can fill gaps for FAIR Plan and earthquake policyholders.",
+    "summary": "Parametric insurance pays a preset amount when a defined trigger occurs, delivering speed but carrying basis risk where the payout may not match your actual loss. It supplements, not replaces, a traditional homeowner, FAIR Plan, or earthquake policy."
   },
   "peak-season-endorsement": {
     "title": "Peak Season Endorsement: Protecting Seasonal Inventory Spikes That Standard Limits Miss",
-    "description": "How the ISO CP 12 11 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods."
+    "description": "How the ISO CP 12 11 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.",
+    "summary": "The ISO CP 12 11 Peak Season endorsement temporarily raises business personal property limits during high-inventory months. Without it, seasonal businesses are dangerously underinsured exactly when they have the most stock at risk."
   },
   "period-of-restoration-disputes": {
     "title": "Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?",
-    "description": "The period of restoration determines how long your insurer pays business income or additional living expenses after a loss. Learn why it is one of the most litigated terms in property insurance, how insurers shorten the period, and how to protect your recovery."
+    "description": "The period of restoration determines how long your insurer pays business income or additional living expenses after a loss. Learn why it is one of the most litigated terms in property insurance, how insurers shorten the period, and how to protect your recovery.",
+    "summary": "The period of restoration sets how long the insurer pays business income or ALE after a loss, and it is heavily litigated. Insurers try to shorten it; document the realistic time to restore operations or your home to protect the full benefit."
   },
   "personal-property-inventory-guide": {
     "title": "How to Make a Personal Property (Contents) List After a Loss",
@@ -1745,39 +1761,48 @@
   },
   "personal-property-special-considerations": {
     "title": "Special Considerations for Certain Types of Personal Property",
-    "description": "Electronics, Oriental rugs, and landscaping present unique property insurance challenges. Learn about surge damage documentation, rug valuations, and the tree sub-limit trap."
+    "description": "Electronics, Oriental rugs, and landscaping present unique property insurance challenges. Learn about surge damage documentation, rug valuations, and the tree sub-limit trap.",
+    "summary": "Certain belongings need special handling: electronics require surge-damage documentation, Oriental rugs need proper valuation, and landscaping is limited by a tree sub-limit. Knowing these quirks prevents under-recovery on unusual property."
   },
   "pets-animals-coverage": {
     "title": "Pets & Animals in Property Insurance Claims",
-    "description": "How homeowner insurance policies handle pets and animals after a disaster &mdash; Coverage C classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim."
+    "description": "How homeowner insurance policies handle pets and animals after a disaster &mdash; Coverage C classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim.",
+    "summary": "Homeowner policies treat pets oddly: they are not 'property' you can claim for, but ALE may cover added pet costs while displaced, and livestock is often excluded. Know the limits and plan for evacuation costs to protect your animals."
   },
   "pfas-forever-chemicals-property": {
     "title": "PFAS ",
-    "description": "How PFAS contamination affects property values and insurance coverage, the new ISO PFAS exclusions appearing on policies, EPA reporting requirements, and what property owners should do to protect themselves."
+    "description": "How PFAS contamination affects property values and insurance coverage, the new ISO PFAS exclusions appearing on policies, EPA reporting requirements, and what property owners should do to protect themselves.",
+    "summary": "PFAS 'forever chemicals' contamination can hurt property value, and insurers are adding PFAS exclusions to policies while EPA reporting rules expand. Property owners should know whether their policy now excludes PFAS and document any contamination."
   },
   "policy-interpretation": {
     "title": "Understanding Your Insurance Policy",
-    "description": "A comprehensive guide to reading and understanding your homeowners insurance policy, including declaration pages, endorsements, HO3 vs named peril coverage, and commercial co-insurance clauses."
+    "description": "A comprehensive guide to reading and understanding your homeowners insurance policy, including declaration pages, endorsements, HO3 vs named peril coverage, and commercial co-insurance clauses.",
+    "summary": "Reading your policy means understanding the declarations, the insuring agreement, definitions, exclusions, conditions, and endorsements, plus concepts like HO-3 open vs. named perils and commercial coinsurance. This is the foundation for knowing what you can claim."
   },
   "policy-reformation": {
     "title": "Insurance Policy Reformation: When the Policy Doesn't Match What You Were Sold",
-    "description": "Policy reformation is a court remedy that rewrites your insurance policy to match what was actually agreed upon or represented. Learn the grounds, the standard of proof, and when reformation can save your claim."
+    "description": "Policy reformation is a court remedy that rewrites your insurance policy to match what was actually agreed upon or represented. Learn the grounds, the standard of proof, and when reformation can save your claim.",
+    "summary": "Reformation is a court remedy that rewrites a policy to match what was actually agreed or represented, when the written policy does not. It requires clear proof, but it can save a claim where the document does not reflect the real agreement."
   },
   "policy-rescission": {
     "title": "Policy Rescission: When Your Insurer Voids Your Policy as If It Never Existed",
-    "description": "What policy rescission means, how it differs from denial or cancellation, California legal standards under Insurance Code 331 and 359, fire policy protections under IC 2071, and defenses available to policyholders."
+    "description": "What policy rescission means, how it differs from denial or cancellation, California legal standards under Insurance Code 331 and 359, fire policy protections under IC 2071, and defenses available to policyholders.",
+    "summary": "Rescission voids your policy as if it never existed, usually based on a material misrepresentation, and is more drastic than denial or cancellation. California Insurance Code 331 and 359 set the standard, and 2071 limits it for fire policies; policyholders have defenses."
   },
   "policy-types-overview": {
     "title": "Types of Insurance Policies: A Complete Guide to Residential, Commercial, and Specialty Coverage",
-    "description": "A comprehensive overview of every major property insurance policy type — HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial property, businessowners, flood, earthquake, DIC, builder's risk, and inland marine — with coverage details, exclusions, and California-specific considerations."
+    "description": "A comprehensive overview of every major property insurance policy type — HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial property, businessowners, flood, earthquake, DIC, builder's risk, and inland marine — with coverage details, exclusions, and California-specific considerations.",
+    "summary": "Property insurance comes in many forms, HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial, BOP, flood, earthquake, DIC, builder's risk, and inland marine, each with different coverage, exclusions, and California considerations. Know which type you actually hold."
   },
   "policy-vs-law": {
     "title": "Is Your Insurance Policy Illegal? When Policy Language Conflicts with California Law",
-    "description": "A California court ruled the FAIR Plan's fire policy "
+    "description": "A California court ruled the FAIR Plan's fire policy ",
+    "summary": "When policy language conflicts with California law, the law controls and the offending policy term is unenforceable, as courts have held even against FAIR Plan provisions. An illegal clause cannot be used to deny what the law guarantees."
   },
   "policyholder-death-coverage": {
     "title": "What Happens to Your Insurance If the Policyholder Dies?",
-    "description": "When the named insured dies — before or during a claim — coverage does not die with them. The Death clause, insurable interest, survival of causes of action, and the rules for who can continue the claim, all explained."
+    "description": "When the named insured dies — before or during a claim — coverage does not die with them. The Death clause, insurable interest, survival of causes of action, and the rules for who can continue the claim, all explained.",
+    "summary": "Coverage does not die with the named insured. The policy's Death clause, insurable-interest rules, and survival of causes of action determine who can continue an existing or new claim after the policyholder dies."
   },
   "policyholder-rights": {
     "title": "Your Rights as a California Policyholder",
@@ -1786,35 +1811,43 @@
   },
   "pollution-exclusion-claims": {
     "title": "The Pollution Exclusion in Property Insurance Claims: History, Misapplication, and California Law",
-    "description": "How insurers misuse the pollution exclusion to deny fire and asbestos claims. California case law, efficient proximate cause, and practical guidance."
+    "description": "How insurers misuse the pollution exclusion to deny fire and asbestos claims. California case law, efficient proximate cause, and practical guidance.",
+    "summary": "Insurers misuse the pollution exclusion, meant for industrial pollution, to deny fire, smoke, and asbestos claims. California case law and the efficient proximate cause doctrine generally reject this overreach, so a pollution-based denial of a fire-related loss is often beatable."
   },
   "polybutylene-cpvc-pipes": {
     "title": "Polybutylene and CPVC Pipe Failures: The Plumbing Time Bombs in Your Walls",
-    "description": "Polybutylene and CPVC pipes fail without warning, causing catastrophic water damage. Learn how these pipe types affect insurance claims in California — coverage analysis, ensuing loss, code upgrades, and the sudden vs. gradual dispute."
+    "description": "Polybutylene and CPVC pipes fail without warning, causing catastrophic water damage. Learn how these pipe types affect insurance claims in California — coverage analysis, ensuing loss, code upgrades, and the sudden vs. gradual dispute.",
+    "summary": "Polybutylene and CPVC pipes can fail suddenly, causing major water damage. Coverage turns on the sudden-versus-gradual distinction and the ensuing loss doctrine; document the abrupt failure, and code upgrades during repair may also be owed."
   },
   "pool-spa-claims": {
     "title": "Swimming Pool and Spa Insurance Claims: Coverage, Exclusions, and Common Disputes",
-    "description": "How swimming pools and spas are covered under homeowners insurance in California — Coverage B limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine."
+    "description": "How swimming pools and spas are covered under homeowners insurance in California — Coverage B limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine.",
+    "summary": "Pools and spas fall under the limited Coverage B 'other structures,' and claims often involve equipment breakdown, freeze damage, earth movement, and resurfacing disputes. The efficient proximate cause doctrine can restore coverage when a covered peril is the real cause."
   },
   "post-disaster-scams": {
     "title": "Post-Disaster Fraud and Scams: Protecting Yourself After a Loss",
-    "description": "After a disaster, scammers target vulnerable homeowners. Learn how to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other common scams — and how to protect yourself."
+    "description": "After a disaster, scammers target vulnerable homeowners. Learn how to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other common scams — and how to protect yourself.",
+    "summary": "After a disaster, scammers target homeowners with contractor fraud, unlicensed 'claim negotiators,' and deductible-waiver schemes. Verify licenses, never sign under pressure, and know the warning signs to protect yourself and your claim."
   },
   "power-of-attorney-insurance-claims": {
     "title": "Power of Attorney and Conservatorship in Insurance Claims: Managing the Claim of an Incapacitated Policyholder",
-    "description": "When a policyholder becomes incapacitated, someone else must take over the claim — either through a previously executed Power of Attorney or, if no POA exists, through a court-supervised conservatorship. The full guide to both paths: how durable POA works in insurance claims, what conservatorship requires under California Probate Code, how insurers resist each, and what families should do before incapacity strikes."
+    "description": "When a policyholder becomes incapacitated, someone else must take over the claim — either through a previously executed Power of Attorney or, if no POA exists, through a court-supervised conservatorship. The full guide to both paths: how durable POA works in insurance claims, what conservatorship requires under California Probate Code, how insurers resist each, and what families should do before incapacity strikes.",
+    "summary": "If a policyholder becomes incapacitated, a durable Power of Attorney lets someone manage the claim; without one, a court conservatorship is required under California Probate Code. Insurers resist both, so set up a POA before incapacity strikes."
   },
   "pre-existing-vs-storm-damage": {
     "title": "Pre-Existing Damage vs. Storm Damage: Fighting the ",
-    "description": "Insurance companies routinely attribute storm damage to pre-existing conditions. Learn how to distinguish legitimate storm damage from wear and tear, build your evidence, and defeat the most common denial tactic in property insurance."
+    "description": "Insurance companies routinely attribute storm damage to pre-existing conditions. Learn how to distinguish legitimate storm damage from wear and tear, build your evidence, and defeat the most common denial tactic in property insurance.",
+    "summary": "Insurers routinely blame storm damage on pre-existing wear and tear to deny claims. Counter it by documenting the storm event, the condition before and after, and the mechanism of damage, distinguishing sudden storm harm from gradual deterioration."
   },
   "preferred-contractor-conflict-of-interest": {
     "title": "The Carrier&apos;s Preferred Contractor: Who They Really Work For",
-    "description": "How preferred vendor programs create structural conflicts of interest that favor the insurance carrier over the policyholder, and how California law protects your right to choose your own contractor."
+    "description": "How preferred vendor programs create structural conflicts of interest that favor the insurance carrier over the policyholder, and how California law protects your right to choose your own contractor.",
+    "summary": "A carrier's preferred contractor is scored and paid by the insurer, creating a structural conflict that favors the carrier's cost control over your full repair. California law protects your right to choose your own contractor instead."
   },
   "preferred-vendor-problems": {
     "title": "Preferred Vendor Problems: When the Insurer Controls Your Repairs",
-    "description": "What happens when the insurance company directs your mitigation or repairs through their preferred vendor — and the consequences when they pull the vendor too early or control the scope."
+    "description": "What happens when the insurance company directs your mitigation or repairs through their preferred vendor — and the consequences when they pull the vendor too early or control the scope.",
+    "summary": "When the insurer routes your mitigation or repairs through its preferred vendor, it controls the scope and can pull the vendor too early, leaving work unfinished. You can choose your own vendor and should watch for premature cut-offs."
   },
   "prepare-for-adjuster-inspection": {
     "title": "The Adjuster Is Coming to My House — How to Prepare",
@@ -1823,51 +1856,63 @@
   },
   "professional-services-insurance-claims": {
     "title": "Professional Services Firm Insurance Claims: Law Firms, Accounting Firms, and the Client Retention Crisis",
-    "description": "Law firms, accounting firms, and architecture firms face unique property insurance challenges—from valuable papers and electronic data to the devastating client retention problem during closure. Learn where the coverage gaps hide and how to protect your practice."
+    "description": "Law firms, accounting firms, and architecture firms face unique property insurance challenges—from valuable papers and electronic data to the devastating client retention problem during closure. Learn where the coverage gaps hide and how to protect your practice.",
+    "summary": "Law, accounting, and architecture firms face unique exposures: valuable papers, electronic data, and the severe client-retention problem during a closure. Standard coverage often leaves gaps that can sink a practice's recovery."
   },
   "proof-of-loss-signing-strategy": {
     "title": "The Proof of Loss: What You Are Really Signing and How to Protect Yourself",
-    "description": "A proof of loss is a sworn statement that can lock you into the carrier"
+    "description": "A proof of loss is a sworn statement that can lock you into the carrier",
+    "summary": "A proof of loss is a sworn statement that can lock you into a number and waive amounts you omit. Prepare it carefully, value the claim fully, and reserve the right to supplement, because signing prematurely can cap your recovery."
   },
   "proof-of-loss": {
     "title": "Proof of Loss: What It Is and How to Complete It",
-    "description": "Everything you need to know about the sworn proof of loss form, including when it is required, how to fill it out, and important California-specific nuances."
+    "description": "Everything you need to know about the sworn proof of loss form, including when it is required, how to fill it out, and important California-specific nuances.",
+    "summary": "A proof of loss is a sworn statement of your claim that insurers can require, with strict deadlines. Complete it accurately and fully, and understand California-specific nuances, because errors or omissions can limit what you recover."
   },
   "property-held-in-trust-coverage": {
     "title": "Trust-Owned Property and Insurance Claims: When the Named Insured Doesn’t Match the Trust",
-    "description": "Millions of California homes are held in revocable living trusts but insured in the individual’s name. This mismatch creates coverage disputes that insurers exploit to delay or deny claims. Learn how to properly insure trust-owned property, what to do after a loss, and the legal arguments — Probate Code §§ 15800 and 18100.5, Insurance Code § 281, estoppel, waiver, and bad faith — that protect policyholders."
+    "description": "Millions of California homes are held in revocable living trusts but insured in the individual’s name. This mismatch creates coverage disputes that insurers exploit to delay or deny claims. Learn how to properly insure trust-owned property, what to do after a loss, and the legal arguments — Probate Code §§ 15800 and 18100.5, Insurance Code § 281, estoppel, waiver, and bad faith — that protect policyholders.",
+    "summary": "Many homes sit in a revocable trust but are insured in the individual's name, a mismatch insurers exploit to deny claims. Probate Code 15800 and 18100.5, Insurance Code 281, and estoppel/waiver arguments protect policyholders; insure the trust correctly to avoid the fight."
   },
   "protective-safeguards": {
     "title": "Protective Safeguards Endorsements: When a Lapsed Alarm Voids Your Entire Policy",
-    "description": "Protective safeguards endorsements require you to maintain specific safety equipment like sprinklers, fire alarms, and security systems. If the safeguard is not maintained and a loss occurs, the insurer can deny the entire claim — even if the safeguard had nothing to do with the loss."
+    "description": "Protective safeguards endorsements require you to maintain specific safety equipment like sprinklers, fire alarms, and security systems. If the safeguard is not maintained and a loss occurs, the insurer can deny the entire claim — even if the safeguard had nothing to do with the loss.",
+    "summary": "A protective safeguards endorsement requires you to maintain specified safety equipment, sprinklers, alarms, security. If the safeguard lapses and a loss occurs, the insurer can deny the entire claim, even if the lapse did not cause the loss. Keep them maintained."
   },
   "public-adjuster-fees": {
     "title": "Public Adjuster Fees — What They Cost and When They're Worth It",
-    "description": "How Public Adjuster fees work in California — contingency percentages, the statutory framework under §15027.5, when hiring a PA is worth it, and questions to ask before signing."
+    "description": "How Public Adjuster fees work in California — contingency percentages, the statutory framework under §15027.5, when hiring a PA is worth it, and questions to ask before signing.",
+    "summary": "California public adjusters work on contingency, a percentage of the recovery, governed by Insurance Code 15027.5. A PA is usually worth it on large, complex, or disputed claims; ask about the fee and scope before signing."
   },
   "public-adjuster": {
     "title": "Working With a Public Adjuster",
-    "description": "Understand what a Public Adjuster does, how their fees work, when to hire one vs an attorney or contractor, and how to choose the right Public Adjuster for your insurance claim."
+    "description": "Understand what a Public Adjuster does, how their fees work, when to hire one vs an attorney or contractor, and how to choose the right Public Adjuster for your insurance claim.",
+    "summary": "A public adjuster is the only licensed adjuster who works for you, documenting and negotiating your claim for a contingency fee. Know when a PA fits versus an attorney or contractor, and how to choose a reputable one."
   },
   "punitive-damages-bad-faith": {
     "title": "Punitive Damages in California Insurance Bad Faith Cases",
-    "description": "When and how punitive damages are available in California insurance bad faith cases, including the legal standards under Civil Code section 3294, landmark cases like Neal v. Farmers and Egan v. Mutual of Omaha, constitutional limits, the managing agent requirement, and the practical settlement leverage a viable punitive damages claim creates."
+    "description": "When and how punitive damages are available in California insurance bad faith cases, including the legal standards under Civil Code section 3294, landmark cases like Neal v. Farmers and Egan v. Mutual of Omaha, constitutional limits, the managing agent requirement, and the practical settlement leverage a viable punitive damages claim creates.",
+    "summary": "Punitive damages in a California bad-faith case require clear and convincing proof of malice, oppression, or fraud under Civil Code 3294, plus a managing agent's involvement. Cases like Neal and Egan show the standard, and a viable claim creates strong settlement leverage."
   },
   "rain-damage-vs-flood": {
     "title": "Rain Damage vs. Flood Damage: The Coverage Distinction That Catches Homeowners Off Guard",
-    "description": "The critical difference between rain damage covered by homeowner insurance and flood damage that requires separate flood insurance. Covers surface water exclusions, wind-driven rain, anti-concurrent causation, mudslide classifications, and how to document the source of water intrusion."
+    "description": "The critical difference between rain damage covered by homeowner insurance and flood damage that requires separate flood insurance. Covers surface water exclusions, wind-driven rain, anti-concurrent causation, mudslide classifications, and how to document the source of water intrusion.",
+    "summary": "Rain entering through a storm-created opening is usually covered by your homeowner policy, while rising surface water (flood) requires separate flood insurance. The source and path of the water, not just that it was wet, decides coverage; document it carefully."
   },
   "rate-increase-after-claim": {
     "title": "Will Your Insurance Go Up After Filing a Claim? What the Data Shows",
-    "description": "How filing an insurance claim affects your premiums, how long surcharges last, the role of CLUE reports, California Prop 103 protections, and when it may not make sense to file."
+    "description": "How filing an insurance claim affects your premiums, how long surcharges last, the role of CLUE reports, California Prop 103 protections, and when it may not make sense to file.",
+    "summary": "Filing a claim can raise your premium through surcharges that last a few years and show on your CLUE report, though California's Prop 103 limits some increases. For small losses, weigh the surcharge against the payout before filing."
   },
   "reading-insurer-letters": {
     "title": "Reading the Insurer's Letters: What They Actually Mean and How to Respond",
-    "description": "Decode the letters your insurance company sends — reservation of rights, denial letters, non-waiver agreements, cure letters, coverage position letters, and more. Learn the legal significance of each and what to do when you receive one."
+    "description": "Decode the letters your insurance company sends — reservation of rights, denial letters, non-waiver agreements, cure letters, coverage position letters, and more. Learn the legal significance of each and what to do when you receive one.",
+    "summary": "Insurer letters, reservation of rights, denial, non-waiver, coverage position, each carry specific legal meaning and call for a specific response. Learn to decode them so you know what the carrier is really doing and how to protect your rights."
   },
   "reading-statement-of-loss": {
     "title": "How to Read Your Insurance Statement of Loss: The Document That Shows Where Your Money Went",
-    "description": "The statement of loss is the carrier"
+    "description": "The statement of loss is the carrier",
+    "summary": "The statement of loss is the carrier's accounting of your claim, showing replacement cost, depreciation, deductible, and what was actually paid. Reading it line by line reveals where your money went and where the carrier shorted you."
   },
   "real-negotiation-case-studies": {
     "title": "Real Insurance Claim Negotiation Case Studies: How the Back-and-Forth Actually Works",

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?',
   description:
     'The period of restoration determines how long your insurer pays business income or additional living expenses after a loss. Learn why it is one of the most litigated terms in property insurance, how insurers shorten the period, and how to protect your recovery.',
+  summary:
+    'The period of restoration sets how long the insurer pays business income or ALE after a loss, and it is heavily litigated. Insurers try to shorten it; document the realistic time to restore operations or your home to protect the full benefit.',
 }
 
 export default function Content() {

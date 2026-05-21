@@ -5,6 +5,8 @@ export const meta = {
   title: 'What Happens to Your Insurance If the Policyholder Dies?',
   description:
     'When the named insured dies — before or during a claim — coverage does not die with them. The Death clause, insurable interest, survival of causes of action, and the rules for who can continue the claim, all explained.',
+  summary:
+    'Coverage does not die with the named insured. The policy\'s Death clause, insurable-interest rules, and survival of causes of action determine who can continue an existing or new claim after the policyholder dies.',
 }
 
 export default function Content() {

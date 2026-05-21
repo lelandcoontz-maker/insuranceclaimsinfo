@@ -5,6 +5,8 @@ export const meta = {
   title: 'Trust-Owned Property and Insurance Claims: When the Named Insured Doesn’t Match the Trust',
   description:
     'Millions of California homes are held in revocable living trusts but insured in the individual’s name. This mismatch creates coverage disputes that insurers exploit to delay or deny claims. Learn how to properly insure trust-owned property, what to do after a loss, and the legal arguments — Probate Code §§ 15800 and 18100.5, Insurance Code § 281, estoppel, waiver, and bad faith — that protect policyholders.',
+  summary:
+    'Many homes sit in a revocable trust but are insured in the individual\'s name, a mismatch insurers exploit to deny claims. Probate Code 15800 and 18100.5, Insurance Code 281, and estoppel/waiver arguments protect policyholders; insure the trust correctly to avoid the fight.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Policy Reformation: When the Policy Doesn\'t Match What You Were Sold',
   description:
     'Policy reformation is a court remedy that rewrites your insurance policy to match what was actually agreed upon or represented. Learn the grounds, the standard of proof, and when reformation can save your claim.',
+  summary:
+    'Reformation is a court remedy that rewrites a policy to match what was actually agreed or represented, when the written policy does not. It requires clear proof, but it can save a claim where the document does not reflect the real agreement.',
 }
 
 export default function Content() {

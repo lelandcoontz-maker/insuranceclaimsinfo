@@ -5,6 +5,8 @@ export const meta = {
   title: 'Policy Rescission: When Your Insurer Voids Your Policy as If It Never Existed',
   description:
     'What policy rescission means, how it differs from denial or cancellation, California legal standards under Insurance Code 331 and 359, fire policy protections under IC 2071, and defenses available to policyholders.',
+  summary:
+    'Rescission voids your policy as if it never existed, usually based on a material misrepresentation, and is more drastic than denial or cancellation. California Insurance Code 331 and 359 set the standard, and 2071 limits it for fire policies; policyholders have defenses.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Building Code & Ordinance or Law Coverage',
   description:
     'Understanding Ordinance or Law coverage — why it covers far more than just building codes, how its three coverage parts work, and why it can add 25-50% to your insurance claim.',
+  summary:
+    'Ordinance or law coverage pays the increased cost of meeting current building codes after a covered loss, across three parts: loss to the undamaged portion, demolition, and increased construction cost. It can add 25 to 50% to a claim.',
 }
 
 export default function Content() {

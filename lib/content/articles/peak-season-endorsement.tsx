@@ -6,6 +6,8 @@ export const meta = {
     'Peak Season Endorsement: Protecting Seasonal Inventory Spikes That Standard Limits Miss',
   description:
     'How the ISO CP 12 11 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.',
+  summary:
+    'The ISO CP 12 11 Peak Season endorsement temporarily raises business personal property limits during high-inventory months. Without it, seasonal businesses are dangerously underinsured exactly when they have the most stock at risk.',
 }
 
 export default function Content() {

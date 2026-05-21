@@ -5,6 +5,8 @@ export const meta = {
   title: "How to Read Your Insurance Statement of Loss: The Document That Shows Where Your Money Went",
   description:
     "The statement of loss is the carrier's accounting of your entire claim — what it calculated, what it deducted, and what it paid on each coverage. Learning to read it is the first step to identifying underpayment.",
+  summary:
+    'The statement of loss is the carrier\'s accounting of your claim, showing replacement cost, depreciation, deductible, and what was actually paid. Reading it line by line reveals where your money went and where the carrier shorted you.',
 }
 
 export default function Content() {

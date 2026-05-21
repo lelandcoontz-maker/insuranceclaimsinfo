@@ -5,6 +5,8 @@ export const meta = {
   title: 'Special Considerations for Certain Types of Personal Property',
   description:
     'Electronics, Oriental rugs, and landscaping present unique property insurance challenges. Learn about surge damage documentation, rug valuations, and the tree sub-limit trap.',
+  summary:
+    'Certain belongings need special handling: electronics require surge-damage documentation, Oriental rugs need proper valuation, and landscaping is limited by a tree sub-limit. Knowing these quirks prevents under-recovery on unusual property.',
 }
 
 export default function Content() {

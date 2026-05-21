@@ -5,6 +5,8 @@ export const meta = {
   title: 'Proof of Loss: What It Is and How to Complete It',
   description:
     'Everything you need to know about the sworn proof of loss form, including when it is required, how to fill it out, and important California-specific nuances.',
+  summary:
+    'A proof of loss is a sworn statement of your claim that insurers can require, with strict deadlines. Complete it accurately and fully, and understand California-specific nuances, because errors or omissions can limit what you recover.',
 }
 
 export default function Content() {

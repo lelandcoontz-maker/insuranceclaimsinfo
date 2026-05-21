@@ -5,6 +5,8 @@ export const meta = {
   title: 'Pets & Animals in Property Insurance Claims',
   description:
     'How homeowner insurance policies handle pets and animals after a disaster &mdash; Coverage C classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim.',
+  summary:
+    'Homeowner policies treat pets oddly: they are not \'property\' you can claim for, but ALE may cover added pet costs while displaced, and livestock is often excluded. Know the limits and plan for evacuation costs to protect your animals.',
 }
 
 export default function Content() {

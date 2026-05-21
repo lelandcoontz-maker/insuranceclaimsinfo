@@ -5,6 +5,8 @@ export const meta = {
   title: 'Post-Disaster Fraud and Scams: Protecting Yourself After a Loss',
   description:
     'After a disaster, scammers target vulnerable homeowners. Learn how to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other common scams — and how to protect yourself.',
+  summary:
+    'After a disaster, scammers target homeowners with contractor fraud, unlicensed \'claim negotiators,\' and deductible-waiver schemes. Verify licenses, never sign under pressure, and know the warning signs to protect yourself and your claim.',
 }
 
 export default function Content() {

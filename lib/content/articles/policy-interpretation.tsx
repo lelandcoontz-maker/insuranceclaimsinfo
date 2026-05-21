@@ -5,6 +5,8 @@ export const meta = {
   title: 'Understanding Your Insurance Policy',
   description:
     'A comprehensive guide to reading and understanding your homeowners insurance policy, including declaration pages, endorsements, HO3 vs named peril coverage, and commercial co-insurance clauses.',
+  summary:
+    'Reading your policy means understanding the declarations, the insuring agreement, definitions, exclusions, conditions, and endorsements, plus concepts like HO-3 open vs. named perils and commercial coinsurance. This is the foundation for knowing what you can claim.',
 }
 
 export default function Content() {

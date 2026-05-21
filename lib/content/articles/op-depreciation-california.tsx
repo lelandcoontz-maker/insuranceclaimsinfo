@@ -5,6 +5,8 @@ export const meta = {
   title: 'Can California Insurers Depreciate Overhead & Profit? No — Here’s Why',
   description:
     'California Insurance Code Section 2051(b) limits deductions to physical depreciation of structural components. O&P is a service cost — it has no condition, no age, and cannot legally be depreciated. The statutory framework, regulatory requirements, and pending federal litigation explained.',
+  summary:
+    'California Insurance Code 2051(b) limits depreciation to physical wear of structural components. Overhead and profit is a service cost with no age or condition, so it cannot legally be depreciated. Challenge any carrier that depreciates O&P.',
 }
 
 export default function Content() {

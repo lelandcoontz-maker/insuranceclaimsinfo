@@ -5,6 +5,8 @@ export const meta = {
   title: 'Overhead & Profit: When Your Claim Should Include O&P',
   description:
     'Insurance companies routinely refuse to include overhead and profit in their estimates. Learn what O&P is, when you\'re entitled to it, and how to fight for it.',
+  summary:
+    'General contractor overhead and profit (O&P) is owed whenever repairs are complex enough to need a GC, typically three or more trades. Insurers routinely omit it; know when you are entitled to O&P and insist it be included.',
 }
 
 export default function Content() {

@@ -6,6 +6,8 @@ export const meta = {
   title: 'Public Adjuster Fees — What They Cost and When They\'re Worth It',
   description:
     'How Public Adjuster fees work in California — contingency percentages, the statutory framework under §15027.5, when hiring a PA is worth it, and questions to ask before signing.',
+  summary:
+    'California public adjusters work on contingency, a percentage of the recovery, governed by Insurance Code 15027.5. A PA is usually worth it on large, complex, or disputed claims; ask about the fee and scope before signing.',
 }
 
 export default function Content() {

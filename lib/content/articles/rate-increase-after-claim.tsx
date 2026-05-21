@@ -5,6 +5,8 @@ export const meta = {
   title: 'Will Your Insurance Go Up After Filing a Claim? What the Data Shows',
   description:
     'How filing an insurance claim affects your premiums, how long surcharges last, the role of CLUE reports, California Prop 103 protections, and when it may not make sense to file.',
+  summary:
+    'Filing a claim can raise your premium through surcharges that last a few years and show on your CLUE report, though California\'s Prop 103 limits some increases. For small losses, weigh the surcharge against the payout before filing.',
 }
 
 export default function Content() {

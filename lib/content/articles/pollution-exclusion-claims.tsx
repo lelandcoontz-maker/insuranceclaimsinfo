@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Pollution Exclusion in Property Insurance Claims: History, Misapplication, and California Law',
   description:
     'How insurers misuse the pollution exclusion to deny fire and asbestos claims. California case law, efficient proximate cause, and practical guidance.',
+  summary:
+    'Insurers misuse the pollution exclusion, meant for industrial pollution, to deny fire, smoke, and asbestos claims. California case law and the efficient proximate cause doctrine generally reject this overreach, so a pollution-based denial of a fire-related loss is often beatable.',
 }
 
 export default function Content() {

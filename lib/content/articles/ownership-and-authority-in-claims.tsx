@@ -5,6 +5,8 @@ export const meta = {
   title: 'Ownership and Authority in Insurance Claims: Non-Standard Property Situations',
   description:
     'When property ownership is non-standard — a Medicaid/Medi-Cal recipient on the title, a life estate, probate-pending status, inherited property — coverage defenses multiply and authority over the claim gets murky. The comprehensive guide to navigating the intersection of property ownership, estate law, and California insurance claims.',
+  summary:
+    'When ownership is non-standard, a Medicaid recipient on title, a life estate, probate-pending, or inherited property, coverage defenses multiply and authority over the claim gets murky. This guide navigates property ownership, estate law, and California insurance claims.',
 }
 
 export default function Content() {

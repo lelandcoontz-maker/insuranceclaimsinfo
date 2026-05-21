@@ -5,6 +5,8 @@ export const meta = {
   title: "Punitive Damages in California Insurance Bad Faith Cases",
   description:
     "When and how punitive damages are available in California insurance bad faith cases, including the legal standards under Civil Code section 3294, landmark cases like Neal v. Farmers and Egan v. Mutual of Omaha, constitutional limits, the managing agent requirement, and the practical settlement leverage a viable punitive damages claim creates.",
+  summary:
+    'Punitive damages in a California bad-faith case require clear and convincing proof of malice, oppression, or fraud under Civil Code 3294, plus a managing agent\'s involvement. Cases like Neal and Egan show the standard, and a viable claim creates strong settlement leverage.',
 }
 
 export default function Content() {

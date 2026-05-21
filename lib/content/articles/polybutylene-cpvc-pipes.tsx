@@ -5,6 +5,8 @@ export const meta = {
   title: 'Polybutylene and CPVC Pipe Failures: The Plumbing Time Bombs in Your Walls',
   description:
     'Polybutylene and CPVC pipes fail without warning, causing catastrophic water damage. Learn how these pipe types affect insurance claims in California — coverage analysis, ensuing loss, code upgrades, and the sudden vs. gradual dispute.',
+  summary:
+    'Polybutylene and CPVC pipes can fail suddenly, causing major water damage. Coverage turns on the sudden-versus-gradual distinction and the ensuing loss doctrine; document the abrupt failure, and code upgrades during repair may also be owed.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Non-Renewal and Cancellation in California: Your Rights When Your Carrier Drops You',
   description:
     'California law gives homeowners significant protections when an insurer cancels or non-renews their policy. Learn the notice requirements, moratorium rules, and your options when your carrier drops you.',
+  summary:
+    'California gives homeowners real protections when an insurer cancels or non-renews, including advance notice requirements and post-disaster moratoriums. Know the notice rules and your options when a carrier drops you.',
 }
 
 export default function Content() {

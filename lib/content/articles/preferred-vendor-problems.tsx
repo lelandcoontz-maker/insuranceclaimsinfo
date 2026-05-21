@@ -5,6 +5,8 @@ export const meta = {
   title: 'Preferred Vendor Problems: When the Insurer Controls Your Repairs',
   description:
     'What happens when the insurance company directs your mitigation or repairs through their preferred vendor — and the consequences when they pull the vendor too early or control the scope.',
+  summary:
+    'When the insurer routes your mitigation or repairs through its preferred vendor, it controls the scope and can pull the vendor too early, leaving work unfinished. You can choose your own vendor and should watch for premature cut-offs.',
 }
 
 export default function Content() {
