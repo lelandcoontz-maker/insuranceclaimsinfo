@@ -5,6 +5,8 @@ export const meta = {
   title: 'Debris Removal Coverage — More Than Just the Dwelling',
   description:
     'Debris removal coverage applies to more than the dwelling. Learn how it works for other structures, trees, and personal property — and how to maximize your recovery.',
+  summary:
+    'Debris removal coverage applies to more than the dwelling, extending to other structures, trees, and personal property, often subject to its own limit. Account for all removal and disposal costs to maximize recovery.',
 }
 
 export default function Content() {

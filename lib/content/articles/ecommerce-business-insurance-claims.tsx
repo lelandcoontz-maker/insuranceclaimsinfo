@@ -6,6 +6,8 @@ export const meta = {
     "E-Commerce Business Insurance Claims: When Your Property Is Digital, Your Warehouse Is Rented, and Your Policy Wasn't Designed for This",
   description:
     "E-commerce businesses fall through traditional insurance gaps: the home-based business exclusion, electronic data sublimits, off-premises inventory, and business income when your website goes down. Learn how to identify and close the coverage gaps before a loss exposes them.",
+  summary:
+    'E-commerce sellers fall through standard insurance gaps: the home-based business exclusion, low electronic-data sublimits, off-premises inventory, and business income when the website goes down. Identify and close these gaps before a loss exposes them.',
 }
 
 export default function Content() {

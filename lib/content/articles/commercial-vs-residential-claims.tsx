@@ -5,6 +5,8 @@ export const meta = {
   title: 'How Commercial Insurance Claims Differ from Residential: What Business Owners Need to Know',
   description:
     'Commercial property claims operate under fundamentally different policy structures, valuation methods, and coverage mechanics than residential homeowner claims. Learn how BOP and CPP policies work, why coinsurance penalties hit harder in commercial, how business income coverage is calculated, and what California law requires of carriers handling commercial claims.',
+  summary:
+    'Commercial claims differ fundamentally from residential ones in policy structure (BOP vs. CPP), valuation, coinsurance exposure, and business income calculation. Business owners should understand these mechanics, and what California requires of commercial carriers, before a loss.',
 }
 
 export default function Content() {

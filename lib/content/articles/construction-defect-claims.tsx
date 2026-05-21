@@ -5,6 +5,8 @@ export const meta = {
   title: 'Construction Defects and Insurance Claims in California: The Right to Repair Act and Beyond',
   description:
     'Construction defects are excluded from most property insurance policies, but the resulting damage often is not. Learn how California’s SB 800 Right to Repair Act, the ensuing loss doctrine, and the efficient proximate cause doctrine interact to determine coverage for defect-related property damage.',
+  summary:
+    'Most policies exclude the defect itself but cover the resulting damage. In California, SB 800 (Right to Repair), the ensuing loss doctrine, and efficient proximate cause together determine whether defect-related property damage is covered.',
 }
 
 export default function Content() {

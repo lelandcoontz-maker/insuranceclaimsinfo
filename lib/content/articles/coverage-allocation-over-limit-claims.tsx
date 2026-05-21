@@ -5,6 +5,8 @@ export const meta = {
   title: 'Coverage Allocation on Over-Limit Claims: How to Get Unencumbered Money to the Insured',
   description:
     'When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines determines whether you get money directly or whether the mortgage company controls it all. The carrier may have a good faith duty to allocate in your favor.',
+  summary:
+    'When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines decides whether money reaches you directly or is controlled by the mortgage company. The insurer may have a good-faith duty to allocate in your favor.',
 }
 
 export default function Content() {

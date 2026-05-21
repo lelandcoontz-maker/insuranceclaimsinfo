@@ -5,6 +5,8 @@ export const meta = {
   title: 'Common Xactimate Errors That Result in Underpayment',
   description:
     'A detailed guide to the most common errors and omissions in insurance company Xactimate estimates — from missing line items and wrong waste factors to incorrect depreciation and missing overhead and profit. Learn how to identify these errors and what to do about them.',
+  summary:
+    'Insurer Xactimate estimates routinely underpay through missing line items, low waste factors, wrong depreciation, and omitted overhead and profit. Learn to spot these recurring errors and document the corrections needed to bring the estimate to full scope.',
 }
 
 export default function Content() {

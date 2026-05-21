@@ -5,6 +5,8 @@ export const meta = {
   title: 'Cosmetic Damage Denials: When Insurers Refuse to Fix What They Broke',
   description:
     'Insurance companies increasingly deny claims for "cosmetic" damage — dents, discoloration, mismatched repairs. Learn why this argument often fails and what you can do.',
+  summary:
+    'Insurers increasingly deny \'cosmetic\' damage, claiming dented metal roofs, siding, or fixtures still function. But cosmetic damage is often still covered physical damage, and denials hinge on policy exclusions and matching, which you can challenge.',
 }
 
 export default function Content() {

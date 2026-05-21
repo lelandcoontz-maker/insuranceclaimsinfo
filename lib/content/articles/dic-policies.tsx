@@ -5,6 +5,8 @@ export const meta = {
   title: 'Difference in Conditions (DIC) Insurance: The Policy That Makes the FAIR Plan Work',
   description:
     'What a DIC policy is, how it coordinates with the California FAIR Plan, what it covers, and the catastrophic mistake of dropping your underlying fire coverage.',
+  summary:
+    'A Difference in Conditions (DIC) policy wraps around a California FAIR Plan policy to add the coverages the FAIR Plan lacks, such as water and liability. Dropping your underlying FAIR Plan fire coverage while keeping only DIC is a catastrophic mistake.',
 }
 
 export default function Content() {

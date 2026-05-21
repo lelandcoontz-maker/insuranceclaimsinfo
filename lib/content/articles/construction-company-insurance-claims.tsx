@@ -6,6 +6,8 @@ export const meta = {
     'Construction Company Insurance Claims: Builder’s Risk, Tools on the Job Site, and the CGL Boundary',
   description:
     'Construction companies face overlapping and often conflicting insurance coverages. Learn how builder’s risk, CGL, inland marine, and business income coverage interact—and where the gaps hide that leave contractors exposed.',
+  summary:
+    'Construction companies juggle overlapping coverages, builder\'s risk, CGL, inland marine, and business income, that can conflict and leave gaps. Knowing how they interact protects contractors from being exposed when a loss falls between policies.',
 }
 
 export default function Content() {

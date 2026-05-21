@@ -5,6 +5,8 @@ export const meta = {
   title: 'When Your Insurer Watches From Above: Drone and Satellite Surveillance in Insurance',
   description:
     'How insurers use drone and satellite imagery to assess roof conditions, identify property hazards, and make non-renewal decisions — often without the policyholder knowing. Covers accuracy concerns, consumer rights, and how to challenge aerial findings.',
+  summary:
+    'Insurers increasingly use drone and satellite imagery to inspect roofs and find hazards, sometimes driving non-renewals without your knowledge. Aerial findings can be inaccurate, and you have the right to see and challenge them.',
 }
 
 export default function Content() {

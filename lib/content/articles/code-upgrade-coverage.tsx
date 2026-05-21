@@ -5,6 +5,8 @@ export const meta = {
   title: 'Law and Ordinance Coverage: Building Code Upgrades, Zoning, and the Hidden Gap in Your Property Claim',
   description:
     'When building codes have changed since your home was built, repairs can cost far more than the insurer\'s estimate. Learn how law and ordinance coverage works in California \u2014 electrical, structural, Title 24, plumbing, and roofing code upgrades.',
+  summary:
+    'Law and ordinance coverage pays the extra cost of bringing repairs up to current building codes, which a basic dwelling estimate ignores. In California this can cover electrical, structural, Title 24, plumbing, and roofing upgrades. Confirm you have adequate code-upgrade limits.',
 }
 
 export default function Content() {

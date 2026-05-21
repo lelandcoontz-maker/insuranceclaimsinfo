@@ -5,6 +5,8 @@ export const meta = {
   title: 'Equitable Tolling of the Statute of Limitations in California Insurance Claims',
   description:
     'The one-year suit limitation is not as simple as it appears. Learn how equitable tolling pauses the clock while your insurer investigates your claim.',
+  summary:
+    'California\'s one-year deadline to sue your insurer is not absolute. Equitable tolling pauses the clock while the insurer investigates your claim, so the time spent in adjustment generally does not count against you.',
 }
 
 export default function Content() {

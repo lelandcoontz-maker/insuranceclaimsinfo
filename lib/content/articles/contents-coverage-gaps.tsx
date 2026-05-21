@@ -7,6 +7,8 @@ export const meta = {
     'When the Building Is Covered but Your Personal Property Is Not: Understanding Contents Coverage Gaps',
   description:
     'The standard HO-3 homeowner policy covers your dwelling on an open-perils basis but limits personal property to named perils only. Learn where the Coverage A vs. Coverage C gap creates uncovered losses and how to protect yourself.',
+  summary:
+    'A standard HO-3 covers the dwelling on an open-perils basis but limits personal property to named perils, so some belongings losses fall through the gap. Know where Coverage A and Coverage C diverge and consider broader contents coverage.',
 }
 
 export default function Content() {

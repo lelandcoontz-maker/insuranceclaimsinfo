@@ -4,6 +4,8 @@ export const meta = {
   title: 'Defeating Carrier Expert Reports: Engineers, Inspectors, and Hired Professionals',
   description:
     'This guide has been consolidated into our comprehensive article on biased insurance experts — covering all expert types, the feedback loop, limited assignments, and how to fight back.',
+  summary:
+    'This guide has been consolidated into the comprehensive article on biased insurance experts, which covers engineers and other carrier-hired professionals, the repeat-player feedback loop, limited assignments, and how to challenge their reports.',
 }
 
 export default function Content() {

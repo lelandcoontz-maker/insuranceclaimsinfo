@@ -5,6 +5,8 @@ export const meta = {
   title: 'Personal Property & Contents Claims',
   description:
     'How to handle the contents portion of your insurance claim, including inventory preparation, cleaning vs. total loss, and maximizing your settlement.',
+  summary:
+    'The contents portion of a claim covers your belongings. Build a thorough inventory, distinguish items that can be cleaned from those that are a total loss, and document replacement values to get a fair settlement for personal property.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Efficient Proximate Cause Doctrine: When Your Insurer Blames an Excluded Cause for a Covered Loss',
   description:
     'California\'s efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study.',
+  summary:
+    'California\'s efficient proximate cause doctrine requires coverage when a covered peril set the chain of events in motion, even if an excluded peril contributed. Landmark cases and the Insurance Code make the predominant covered cause control the outcome.',
 }
 
 export default function Content() {

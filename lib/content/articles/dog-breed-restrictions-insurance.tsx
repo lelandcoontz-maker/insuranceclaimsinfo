@@ -5,6 +5,8 @@ export const meta = {
   title: 'Dog Breed Restrictions and Home Insurance: When Your Pet Puts Your Coverage at Risk',
   description:
     'Many insurers maintain breed restriction lists that can result in policy cancellation, non-renewal, or liability exclusion. Learn what breeds are affected, California law, and how to protect coverage.',
+  summary:
+    'Many insurers keep breed-restriction lists that can trigger cancellation, non-renewal, or a liability exclusion for certain dogs. Know whether your breed is affected and how California law and disclosure rules affect your coverage.',
 }
 
 export default function Content() {

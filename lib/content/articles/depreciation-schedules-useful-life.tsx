@@ -5,6 +5,8 @@ export const meta = {
     'Depreciation Schedules and Useful Life: How Insurance Companies Reduce Your Payment',
   description:
     'How insurance carriers use depreciation schedules and useful life determinations to reduce claim payouts, why these numbers are often arbitrary and skewed against policyholders, and how to challenge them under California Insurance Code Section 2051.',
+  summary:
+    'Insurers cut payments using depreciation schedules and \'useful life\' estimates that are often arbitrary and skewed against policyholders. Under California Insurance Code Section 2051, depreciation must be reasonable and based on actual condition, so excessive depreciation can be challenged.',
 }
 
 export default function Content() {

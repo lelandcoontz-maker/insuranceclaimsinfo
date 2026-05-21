@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Deductibles: Types, Calculations, and When They\'re Misapplied',
   description:
     'A complete guide to insurance deductibles — flat dollar, percentage-based, earthquake, wind/hurricane, how they interact with ACV and depreciation, and how to spot when your carrier has misapplied yours.',
+  summary:
+    'Deductibles come in flat-dollar and percentage forms, plus special earthquake and wind/hurricane versions, and they interact with ACV and depreciation. Know how yours applies and watch for carriers misapplying it, especially on replacement-cost and total-loss claims.',
 }
 
 export default function Content() {

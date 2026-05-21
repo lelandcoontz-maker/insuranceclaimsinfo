@@ -5,6 +5,8 @@ export const meta = {
   title: 'Disaster Preparedness and Pre-Loss Mitigation: An Insurance Perspective',
   description:
     'How to prepare for a disaster before it happens — pre-loss documentation, mitigation expenses your policy may cover, California-specific requirements, and insurance preparedness strategies that protect your claim.',
+  summary:
+    'Prepare before disaster strikes: document your home and belongings, know your coverage, and understand which mitigation expenses your policy may reimburse. Good pre-loss preparation makes a future claim faster and stronger.',
 }
 
 export default function Content() {

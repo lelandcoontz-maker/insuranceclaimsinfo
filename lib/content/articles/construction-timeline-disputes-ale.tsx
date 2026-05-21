@@ -5,6 +5,8 @@ export const meta = {
   title: "Construction Timeline Disputes: Why Insurance Repair Timelines Are Always Wrong — and What It Means for Your ALE",
   description:
     "Insurance carriers systematically underestimate construction timelines to limit ALE benefits. Learn why repair projections fail, what California law requires, and how to fight back when your carrier cuts off Additional Living Expenses.",
+  summary:
+    'Carriers routinely lowball repair timelines to cut off Additional Living Expenses early, but real construction takes longer than their projection. Document the true timeline and push back, because California law ties ALE to the actual time needed to restore your home.',
 }
 
 export default function Content() {

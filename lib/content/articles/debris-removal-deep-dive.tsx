@@ -5,6 +5,8 @@ export const meta = {
   title: 'Debris Removal: The Hidden Six-Figure Coverage Most Homeowners Leave on the Table',
   description:
     'Debris removal coverage can add six figures to your claim — demolition, hauling, dump fees, asbestos abatement, hazmat protocols, and environmental compliance that insurers routinely underpay.',
+  summary:
+    'Debris removal coverage can add substantial money to a claim, covering demolition, hauling, dump fees, and any required asbestos or hazmat handling. Insurers routinely underpay it, so account for full removal and disposal costs separately.',
 }
 
 export default function Content() {

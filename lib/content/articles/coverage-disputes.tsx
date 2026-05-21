@@ -5,6 +5,8 @@ export const meta = {
   title: 'Coverage Disputes: Is Your Loss Covered at All?',
   description:
     'Understanding coverage disputes — the most fundamental question in any insurance claim. Learn how to respond to denials, who bears the burden of proof, and when to escalate.',
+  summary:
+    'A coverage dispute asks the most basic question: is your loss covered at all? Learn how to respond to a denial, who bears the burden of proof on coverage versus exclusions, and when to escalate the fight.',
 }
 
 export default function Content() {

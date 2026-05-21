@@ -4,6 +4,8 @@ export const meta = {
   title: "Demand Surge: Why Post-Catastrophe Pricing Changes Everything in Your Insurance Claim",
   description:
     "After a catastrophe, construction costs spike dramatically due to labor shortages, material scarcity, and overwhelming demand. Learn what demand surge is, why your insurance company owes you the actual post-disaster cost of repairs, and how to document and fight for full payment.",
+  summary:
+    'After a catastrophe, labor shortages and material scarcity spike construction costs (demand surge). Your insurer owes the actual post-disaster cost to repair, not pre-disaster pricing. Document the real market costs and insist on payment at current rates.',
 }
 
 export default function Content() {

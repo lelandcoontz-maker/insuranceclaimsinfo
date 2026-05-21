@@ -6,6 +6,8 @@ export const meta = {
     'Daycare and Childcare Facility Insurance Claims: Licensing, Liability, and the Coverage Gaps That Close Programs',
   description:
     'Daycare and childcare facilities face unique insurance vulnerabilities — licensing re-inspections that extend closures, abuse and molestation exclusions, parent retention during shutdown, and regulatory requirements that create coverage gaps. Learn what California childcare operators need to know.',
+  summary:
+    'Daycare and childcare facilities face unique exposures: licensing re-inspections that prolong closures, abuse and molestation exclusions, parent retention during shutdowns, and regulatory gaps. California operators should confirm their coverage addresses these specific risks.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Document a Contents Inventory After a Total Loss',
   description:
     'A step-by-step guide for policyholders who have lost everything in a fire or disaster. How to build a room-by-room personal property inventory, establish replacement values, and maximize your contents claim under California law.',
+  summary:
+    'After losing everything, rebuild your contents claim room by room, listing each item with its replacement value and using photos, receipts, and memory aids. A complete inventory is what gets a total-loss contents claim paid fully under California law.',
 }
 
 export default function Content() {

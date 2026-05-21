@@ -5,6 +5,8 @@ export const meta = {
   title: 'Drying Standards and Moisture Documentation: The Science Behind Water Damage Restoration',
   description:
     'Learn how IICRC S500 drying standards govern water damage restoration, why moisture documentation matters for your insurance claim, and how carriers exploit gaps in the process to underpay claims.',
+  summary:
+    'Proper water-damage restoration follows IICRC S500 drying standards, with moisture readings documenting that the structure was dried correctly. Carriers exploit gaps in this documentation to underpay, so insist on thorough moisture records.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Ordinance or Law Coverage in Commercial Property Insurance: When Code Upgrades Can Double Your Claim',
   description:
     'How ordinance or law coverage works in commercial property policies. The three ISO coverages, policy variations, demolition thresholds, and gaps that can cost building owners hundreds of thousands.',
+  summary:
+    'Ordinance or law coverage in commercial policies pays for code-required upgrades, demolition, and the increased cost of construction after a loss, split across three ISO coverages. Gaps and low limits can cost building owners hundreds of thousands.',
 }
 
 export default function Content() {

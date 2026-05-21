@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Deal with the Insurance Company\'s Adjuster',
   description:
     'What to expect when the insurer sends their adjuster, your rights during the inspection, common tactics to watch for, and when to get professional help.',
+  summary:
+    'When the insurer\'s adjuster inspects, you have rights and they have an agenda. Be cooperative and factual, point out all damage, watch for common minimizing tactics, and get professional help if the claim is large or contested.',
 }
 
 export default function Content() {

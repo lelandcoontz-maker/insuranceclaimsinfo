@@ -5,6 +5,8 @@ export const meta = {
   title: 'When Personal Property Can Be Cleaned vs. When It Is a Total Loss',
   description:
     'How to determine whether smoke-damaged, contaminated, or water-damaged personal property can be professionally restored or must be replaced entirely under your insurance claim.',
+  summary:
+    'Whether smoke-, water-, or contamination-damaged belongings can be professionally cleaned or must be replaced depends on the item and the contaminant. When restoration is unsafe or uneconomical, the item is a total loss and should be paid as a replacement.',
 }
 
 export default function Content() {

@@ -4,6 +4,8 @@ export const meta = {
   title: 'EPA Mold Remediation Guide: The Standard Your Insurer Should Follow',
   description:
     'The EPA\'s official mold remediation guide establishes the 24-48 hour mold growth timeline and remediation protocols that insurers are required to follow.',
+  summary:
+    'The EPA\'s mold remediation guide sets the recognized 24-to-48-hour mold growth window and cleanup protocols. Insurers are generally expected to follow it, so cite the guide when a carrier disputes mold causation or proper remediation.',
 }
 
 export default function Content() {

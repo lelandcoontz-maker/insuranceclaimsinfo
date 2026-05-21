@@ -5,6 +5,8 @@ export const meta = {
   title: 'Endorsements Every Homeowner Should Have — and What Happens When You Don’t',
   description:
     'A pre-loss guide to the most important homeowners insurance endorsements: what they cover, what they cost, and the real claim scenarios that show what happens when you don’t have them.',
+  summary:
+    'Certain homeowner endorsements, like water backup, extended replacement cost, scheduled valuables, and ordinance or law, fill the most common and costly coverage gaps. Add the ones your situation needs before a loss, not after.',
 }
 
 export default function Content() {

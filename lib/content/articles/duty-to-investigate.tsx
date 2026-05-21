@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Insurer\'s Duty to Investigate: When a Sloppy Investigation Becomes Bad Faith',
   description:
     'California insurers have a legal duty to thoroughly and fairly investigate every claim. When they don\'t, it can constitute bad faith — even if the claim might not have been covered.',
+  summary:
+    'California insurers must investigate every claim thoroughly and fairly. A one-sided or sloppy investigation can itself be bad faith, even if the claim might ultimately not have been covered. Document the gaps in their investigation.',
 }
 
 export default function Content() {

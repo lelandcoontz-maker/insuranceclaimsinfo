@@ -5,6 +5,8 @@ export const meta = {
   title: 'Commercial Coinsurance: The Penalty That Can Devastate Your Claim Payment',
   description:
     'Deep dive into commercial coinsurance for building, BPP, and business income coverage. Understand the penalty formula, agreed value endorsements, monthly limitation of indemnity, and how carriers weaponize coinsurance after a loss.',
+  summary:
+    'Commercial coinsurance penalizes underinsured building, BPP, and business income coverage using a strict formula, and carriers often weaponize it after a loss. Agreed-value endorsements and proper limits avoid the penalty; understand the math before you are hit with it.',
 }
 
 export default function Content() {

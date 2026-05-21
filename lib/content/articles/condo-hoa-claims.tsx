@@ -5,6 +5,8 @@ export const meta = {
   title: 'Condo and HOA Insurance Claims: Master Policy, HO-6, and the Coverage Gap Nobody Explains',
   description:
     'Two policies cover your condo — the HOA master policy and your HO-6. Learn how CC&Rs determine who pays for what, the tenant improvement trap, and what to do when the HOA refuses to act.',
+  summary:
+    'A condo is covered by two policies: the HOA master policy and your own HO-6. The CC&Rs decide who pays for what, and the tenant-improvement trap can leave gaps. Know the boundary, and what to do if the HOA refuses to act.',
 }
 
 export default function Content() {

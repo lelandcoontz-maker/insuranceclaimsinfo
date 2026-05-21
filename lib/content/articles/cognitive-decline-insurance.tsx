@@ -5,6 +5,8 @@ export const meta = {
   title: 'Cognitive Decline and Insurance Policy Management: When Diminished Capacity Meets Insurance Transactions',
   description:
     'When an elderly policyholder with dementia unknowingly cancels their policy, misses a premium, signs a release they don\'t understand, or agrees to a coverage reduction, California law provides powerful protections. Learn the legal capacity standards, insurer duties, and practical steps for families.',
+  summary:
+    'When an elderly policyholder with dementia cancels a policy, misses a premium, or signs a release they cannot understand, California law offers strong protections based on legal capacity. Families can often undo insurance transactions made without genuine capacity.',
 }
 
 export default function Content() {

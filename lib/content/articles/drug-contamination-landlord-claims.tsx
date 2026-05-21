@@ -6,6 +6,8 @@ export const meta = {
     'Drug Contamination Claims for Landlords: Meth, Fentanyl, and Grow Operations',
   description:
     'When a tenant turns your rental into a meth lab, fentanyl house, or marijuana grow — the vandalism theory, state cleanup standards, case law, decontamination costs, lease protections, and how to get your insurance claim paid.',
+  summary:
+    'When a tenant turns your rental into a meth lab, fentanyl house, or grow operation, the contamination and damage may be covered, often under a vandalism theory. Know the cleanup standards, decontamination costs, and lease protections to get the claim paid.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Commercial Cause of Loss Forms: Basic, Broad, and Special — What Your Policy Actually Covers',
   description:
     'The cause of loss form attached to your commercial property policy determines whether your claim is covered. Learn the critical differences between the Basic (CP 10 10), Broad (CP 10 20), and Special (CP 10 30) forms and why the wrong form can leave you uninsured.',
+  summary:
+    'Your commercial property coverage depends on which cause-of-loss form is attached: Basic (CP 10 10), Broad (CP 10 20), or Special (CP 10 30). Special is the broadest (all-risk); the wrong form can leave a loss uninsured. Check which one you have.',
 }
 
 export default function Content() {

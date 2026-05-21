@@ -3,6 +3,8 @@ import Link from 'next/link'
 export const meta = {
   title: "Your Right to the Xactimate ESX File: Why the PDF Is Not Enough",
   description: "A comprehensive guide for policyholders, public adjusters, and attorneys on why you should demand the native Xactimate ESX file — not just the PDF printout — and what critical estimate data the ESX file reveals that the PDF conceals.",
+  summary:
+    'Demand the native Xactimate ESX file, not just the PDF. The ESX reveals pricing settings, depreciation, and hidden adjustments the printout conceals, which is essential for spotting how the carrier built, and shaved, the estimate.',
 }
 
 export default function Content() {

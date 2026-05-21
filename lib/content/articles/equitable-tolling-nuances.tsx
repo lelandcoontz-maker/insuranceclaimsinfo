@@ -5,6 +5,8 @@ export const meta = {
   title: 'Equitable Tolling Edge Cases: When the Statute of Limitations Gets Complicated',
   description:
     'A deep dive into the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue.',
+  summary:
+    'Equitable tolling of the one-year suit deadline gets complicated in edge cases: files closed without notice, partial closures, and reopened claims. Knowing how the clock is calculated in these situations protects your right to sue.',
 }
 
 export default function Content() {

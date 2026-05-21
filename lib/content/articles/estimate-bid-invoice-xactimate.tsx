@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice',
   description:
     "An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier's preferred vendor estimate is not a competing bid, and how to challenge underpayments based on uncommitted numbers.",
+  summary:
+    'The same Xactimate document can function as an estimate, a bid, or an invoice, and the distinction matters legally and financially. Understanding which role a document plays helps you read the carrier\'s number correctly and respond appropriately.',
 }
 
 export default function Content() {

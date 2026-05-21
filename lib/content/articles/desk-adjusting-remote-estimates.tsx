@@ -4,6 +4,8 @@ export const meta = {
   title: 'Desk Adjusting: When Your Insurance Company Writes an Estimate Without Seeing the Damage',
   description:
     'How insurance companies use desk adjusting to write repair estimates without inspecting your property, why remote estimates lead to systematic underpayment, and how policyholders can challenge inadequate investigations under California law.',
+  summary:
+    'Desk adjusting means the insurer writes your estimate without ever inspecting the property, which systematically underpays by missing damage. California law requires a reasonable investigation, so an estimate written sight-unseen can be challenged as inadequate.',
 }
 
 export default function Content() {

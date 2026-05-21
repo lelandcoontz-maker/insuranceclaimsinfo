@@ -4,6 +4,8 @@ export const meta = {
   title: "Contractor Liens When the Insurance Company Won’t Pay: A Property Owner’s Guide to Mechanics Liens in California",
   description:
     'When your insurance company delays or denies payment and a contractor files a mechanics lien on your property, you need to know your rights. This guide covers California mechanics lien law, preliminary notices, subcontractor liens, inflated lien defenses, and strategies for property owners caught between insurers and contractors.',
+  summary:
+    'When your insurer delays payment and a contractor files a mechanics lien on your home, you are caught in the middle. Know California\'s lien rules, preliminary notice requirements, and defenses to inflated liens to protect your property.',
 }
 
 export default function Content() {

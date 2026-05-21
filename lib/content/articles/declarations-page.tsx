@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Read Your Insurance Declarations Page',
   description:
     'A section-by-section walkthrough of your homeowners insurance declarations page — what each coverage means, what the numbers represent, and the hidden coverages most people miss.',
+  summary:
+    'Your declarations page summarizes your coverage: the dwelling (A), other structures (B), personal property (C), and loss of use (D) limits, your deductible, and endorsements. Reading it carefully reveals limits and hidden coverages most people miss.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Elder Abuse Statutes in Insurance Claims: Enhanced Remedies for Elderly and Dependent Adult Policyholders',
   description:
     'When insurance companies engage in bad faith against elderly or dependent adult policyholders, California\'s Elder Abuse and Dependent Adult Civil Protection Act unlocks enhanced remedies including attorney\'s fees, punitive damages, and survival actions.',
+  summary:
+    'When an insurer acts in bad faith against an elderly or dependent-adult policyholder, California\'s Elder Abuse Act can unlock enhanced remedies, including attorney\'s fees, punitive damages, and survival actions, on top of normal bad-faith damages.',
 }
 
 export default function Content() {

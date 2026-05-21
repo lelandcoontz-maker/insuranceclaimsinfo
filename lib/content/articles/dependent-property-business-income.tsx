@@ -6,6 +6,8 @@ export const meta = {
     'Business Income from Dependent Properties: When Someone Else’s Loss Shuts Down Your Revenue',
   description:
     'Dependent property business income coverage protects you when physical damage at a supplier, customer, manufacturer, or anchor business causes your revenue to drop. Learn the four ISO categories, the CP 15 08 endorsement, common claim disputes, and how to document losses when the damage occurs at someone else’s property.',
+  summary:
+    'Dependent property business income coverage protects you when physical damage at a supplier, customer, manufacturer, or anchor business cuts your revenue. The CP 15 08 endorsement adds it; document the upstream loss and your resulting income drop.',
 }
 
 export default function Content() {

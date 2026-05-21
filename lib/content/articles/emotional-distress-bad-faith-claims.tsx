@@ -5,6 +5,8 @@ export const meta = {
   title: 'Emotional Distress Damages in Insurance Bad Faith Claims',
   description:
     'How policyholders recover emotional distress damages when insurers act in bad faith — the special relationship doctrine, key California case law from Gruenberg to Egan, types of emotional distress claims, evidentiary requirements, elder abuse intersections, and practical guidance for documenting the human cost of claims misconduct.',
+  summary:
+    'Because of the special relationship between insurer and insured, California allows emotional distress damages in bad-faith cases, as Gruenberg and Egan established. Documenting the human toll of the carrier\'s misconduct supports this recovery.',
 }
 
 export default function Content() {

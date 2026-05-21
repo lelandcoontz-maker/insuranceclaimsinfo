@@ -5,6 +5,8 @@ export const meta = {
   title: 'Crop and Agricultural Insurance Claims in California',
   description:
     'How crop and agricultural insurance claims work in California — federal MPCI, revenue protection, smoke taint, livestock mortality, and why a Public Adjuster matters on high-value farm losses.',
+  summary:
+    'California crop and agricultural claims involve federal multi-peril crop insurance, revenue protection, smoke taint, and livestock mortality. On high-value farm losses the rules are complex, and a public adjuster can materially improve the recovery.',
 }
 
 export default function Content() {

@@ -6,6 +6,8 @@ export const meta = {
     'Co-Working Space Insurance Claims: When 50 Businesses Share One Building and Nobody Knows Who’s Covered',
   description:
     'Who insures what when dozens of businesses share a co-working space? Understanding the three-layer insurance problem between building owners, co-working operators, and individual members — and how to avoid devastating coverage gaps.',
+  summary:
+    'In a co-working space, the building owner, operator, and individual members each carry different coverage, creating a three-layer problem where losses can fall through the cracks. Clarify who insures what to avoid a devastating gap after damage.',
 }
 
 export default function Content() {

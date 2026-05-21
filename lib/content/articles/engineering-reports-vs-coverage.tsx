@@ -6,6 +6,8 @@ export const meta = {
   title: 'When Engineering Reports Cross the Line: Why Physical Findings Do not Determine Coverage',
   description:
     'Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it is covered. Learn the difference between engineering causation and legal causation under California law.',
+  summary:
+    'Insurers use engineering reports to deny claims, but an engineer determines how something was built or failed, not whether it is covered. Engineering causation is not legal causation; under California law the coverage question is separate.',
 }
 
 export default function Content() {

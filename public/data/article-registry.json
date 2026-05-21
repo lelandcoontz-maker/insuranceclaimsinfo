@@ -485,243 +485,303 @@
   },
   "code-upgrade-coverage": {
     "title": "Law and Ordinance Coverage: Building Code Upgrades, Zoning, and the Hidden Gap in Your Property Claim",
-    "description": "When building codes have changed since your home was built, repairs can cost far more than the insurer's estimate. Learn how law and ordinance coverage works in California \\u2014 electrical, structural, Title 24, plumbing, and roofing code upgrades."
+    "description": "When building codes have changed since your home was built, repairs can cost far more than the insurer's estimate. Learn how law and ordinance coverage works in California \\u2014 electrical, structural, Title 24, plumbing, and roofing code upgrades.",
+    "summary": "Law and ordinance coverage pays the extra cost of bringing repairs up to current building codes, which a basic dwelling estimate ignores. In California this can cover electrical, structural, Title 24, plumbing, and roofing upgrades. Confirm you have adequate code-upgrade limits."
   },
   "cognitive-decline-insurance": {
     "title": "Cognitive Decline and Insurance Policy Management: When Diminished Capacity Meets Insurance Transactions",
-    "description": "When an elderly policyholder with dementia unknowingly cancels their policy, misses a premium, signs a release they don't understand, or agrees to a coverage reduction, California law provides powerful protections. Learn the legal capacity standards, insurer duties, and practical steps for families."
+    "description": "When an elderly policyholder with dementia unknowingly cancels their policy, misses a premium, signs a release they don't understand, or agrees to a coverage reduction, California law provides powerful protections. Learn the legal capacity standards, insurer duties, and practical steps for families.",
+    "summary": "When an elderly policyholder with dementia cancels a policy, misses a premium, or signs a release they cannot understand, California law offers strong protections based on legal capacity. Families can often undo insurance transactions made without genuine capacity."
   },
   "coinsurance-penalty": {
     "title": "Coinsurance Penalties: When Being Underinsured Costs You Extra",
-    "description": "What coinsurance is, how the penalty works, and why it usually doesn't apply to total losses — even though some adjusters apply it anyway."
+    "description": "What coinsurance is, how the penalty works, and why it usually doesn't apply to total losses — even though some adjusters apply it anyway.",
+    "summary": "A coinsurance penalty reduces your payout if you insured the property for less than the required percentage of its value. Importantly, it usually does not apply to a total loss, even though some adjusters wrongly try to impose it."
   },
   "collapse-coverage": {
     "title": "Collapse Coverage in Homeowner Insurance: The Hidden Additional Coverage Carriers Hope You Overlook",
-    "description": "Collapse coverage is not a basic peril in the HO-3 — it is an Additional Coverage with strict qualifying causes. Learn how carriers define collapse, why the definition matters, and how California policyholders can fight denials when a structure is substantially impaired but hasn't literally fallen down."
+    "description": "Collapse coverage is not a basic peril in the HO-3 — it is an Additional Coverage with strict qualifying causes. Learn how carriers define collapse, why the definition matters, and how California policyholders can fight denials when a structure is substantially impaired but hasn't literally fallen down.",
+    "summary": "Collapse is not a basic HO-3 peril but an Additional Coverage with strict qualifying causes. A structure can be substantially impaired without literally falling down. Know how your policy defines collapse so you can fight a denial when the building is failing."
   },
   "color-matching-material-aging": {
     "title": "Why New Materials Never Match: Color Matching, Material Aging, and What Your Insurance Company Owes",
-    "description": "Materials age through UV degradation, oxidation, and thermal cycling, making matching impossible after partial repairs. Learn the line of sight standard, state regulations, and case law that require insurers to restore visual uniformity."
+    "description": "Materials age through UV degradation, oxidation, and thermal cycling, making matching impossible after partial repairs. Learn the line of sight standard, state regulations, and case law that require insurers to restore visual uniformity.",
+    "summary": "New materials never perfectly match aged ones because of UV degradation, oxidation, and weathering. Many states and the line-of-sight standard require insurers to restore visual uniformity, meaning they may owe replacement of undamaged matching areas, not just the damaged spot."
   },
   "commercial-coinsurance": {
     "title": "Commercial Coinsurance: The Penalty That Can Devastate Your Claim Payment",
-    "description": "Deep dive into commercial coinsurance for building, BPP, and business income coverage. Understand the penalty formula, agreed value endorsements, monthly limitation of indemnity, and how carriers weaponize coinsurance after a loss."
+    "description": "Deep dive into commercial coinsurance for building, BPP, and business income coverage. Understand the penalty formula, agreed value endorsements, monthly limitation of indemnity, and how carriers weaponize coinsurance after a loss.",
+    "summary": "Commercial coinsurance penalizes underinsured building, BPP, and business income coverage using a strict formula, and carriers often weaponize it after a loss. Agreed-value endorsements and proper limits avoid the penalty; understand the math before you are hit with it."
   },
   "commercial-crime-social-engineering": {
     "title": "Commercial Crime Insurance and Social Engineering Fraud: Closing the Coverage Gap",
-    "description": "How commercial crime policies work, why standard coverage may not protect against social engineering and business email compromise losses, and what endorsements businesses need to close the gap."
+    "description": "How commercial crime policies work, why standard coverage may not protect against social engineering and business email compromise losses, and what endorsements businesses need to close the gap.",
+    "summary": "Commercial crime policies cover theft, but standard forms often exclude social engineering and business email compromise, where an employee is tricked into wiring funds. Add a social engineering endorsement to close this fast-growing gap."
   },
   "commercial-endorsements": {
     "title": "Critical Commercial Property Endorsements Every Business Owner Should Know",
-    "description": "A comprehensive guide to essential commercial property endorsements — Ordinance or Law, Utility Services, Spoilage, Virus/Bacteria Exclusion, Peak Season, and more. Learn which endorsements your policy needs and how gaps can devastate a claim."
+    "description": "A comprehensive guide to essential commercial property endorsements — Ordinance or Law, Utility Services, Spoilage, Virus/Bacteria Exclusion, Peak Season, and more. Learn which endorsements your policy needs and how gaps can devastate a claim.",
+    "summary": "Key commercial property endorsements, Ordinance or Law, Utility Services, Spoilage, Peak Season, and others, fill gaps the base policy leaves open. Review which your operation needs, because a missing endorsement can devastate an otherwise covered claim."
   },
   "commercial-lease-insurance-checklist": {
     "title": "Insurance Requirements in Commercial Lease Negotiations: A Tenant&apos;s Checklist",
-    "description": "A practical, actionable guide for commercial tenants reviewing and negotiating insurance provisions in their lease. Covers required coverages, red flags, what is negotiable, certificate of insurance pitfalls, and a section-by-section markup guide for common lease insurance language."
+    "description": "A practical, actionable guide for commercial tenants reviewing and negotiating insurance provisions in their lease. Covers required coverages, red flags, what is negotiable, certificate of insurance pitfalls, and a section-by-section markup guide for common lease insurance language.",
+    "summary": "Before signing a commercial lease, scrutinize its insurance provisions: required coverages, indemnity language, certificate pitfalls, and what is negotiable. This tenant checklist helps you mark up common lease insurance clauses and avoid taking on the landlord's risk."
   },
   "commercial-lease-insurance": {
     "title": "Waiver of Subrogation, Additional Insured, and Commercial Lease Insurance Requirements",
-    "description": "How waiver of subrogation, additional insured endorsements, and certificates of insurance actually work in commercial leases — and why the paperwork your landlord handed you may not mean what you think it means."
+    "description": "How waiver of subrogation, additional insured endorsements, and certificates of insurance actually work in commercial leases — and why the paperwork your landlord handed you may not mean what you think it means.",
+    "summary": "Waiver of subrogation, additional insured endorsements, and certificates of insurance in commercial leases often do not mean what tenants assume. Understand how each actually allocates risk before relying on the paperwork your landlord provided."
   },
   "commercial-loss-of-rents": {
     "title": "Commercial Loss of Rents Coverage: What Landlords Need to Know After Property Damage",
-    "description": "Commercial loss of rents coverage reimburses landlords for rental income lost when a covered peril damages their commercial property. Learn how it differs from ALE and business interruption, how the period of restoration works, and how to maximize your recovery."
+    "description": "Commercial loss of rents coverage reimburses landlords for rental income lost when a covered peril damages their commercial property. Learn how it differs from ALE and business interruption, how the period of restoration works, and how to maximize your recovery.",
+    "summary": "Commercial loss of rents coverage reimburses a landlord for rental income lost when a covered peril damages the property, for the period of restoration. It differs from ALE and business interruption; document lost rent carefully to maximize recovery."
   },
   "commercial-ordinance-law": {
     "title": "Ordinance or Law Coverage in Commercial Property Insurance: When Code Upgrades Can Double Your Claim",
-    "description": "How ordinance or law coverage works in commercial property policies. The three ISO coverages, policy variations, demolition thresholds, and gaps that can cost building owners hundreds of thousands."
+    "description": "How ordinance or law coverage works in commercial property policies. The three ISO coverages, policy variations, demolition thresholds, and gaps that can cost building owners hundreds of thousands.",
+    "summary": "Ordinance or law coverage in commercial policies pays for code-required upgrades, demolition, and the increased cost of construction after a loss, split across three ISO coverages. Gaps and low limits can cost building owners hundreds of thousands."
   },
   "commercial-umbrella-excess-liability": {
     "title": "Commercial Umbrella and Excess Liability Insurance: What Happens When Your Primary Policy Runs Out",
-    "description": "Commercial umbrella and excess liability policies extend your coverage limits — but they are not the same thing. Learn the critical differences, the following form trap, drop-down coverage, self-insured retentions, and how to fight back when the umbrella carrier refuses to pay."
+    "description": "Commercial umbrella and excess liability policies extend your coverage limits — but they are not the same thing. Learn the critical differences, the following form trap, drop-down coverage, self-insured retentions, and how to fight back when the umbrella carrier refuses to pay.",
+    "summary": "Commercial umbrella and excess liability both extend your limits, but they are not identical. Watch the following-form trap, drop-down coverage, and self-insured retentions, and know how to respond when the umbrella carrier resists paying."
   },
   "commercial-vacancy-clause": {
     "title": "The Commercial Vacancy Clause: How Empty Space Can Gut Your Property Coverage",
-    "description": "Commercial vacancy clauses impose severe coverage penalties when buildings fall below 31% occupancy for 60+ days. Learn the rules, exceptions, and how to protect your claim."
+    "description": "Commercial vacancy clauses impose severe coverage penalties when buildings fall below 31% occupancy for 60+ days. Learn the rules, exceptions, and how to protect your claim.",
+    "summary": "Commercial property coverage is sharply cut when a building falls below about 31% occupancy for 60 days or more, often barring vandalism, water, and glass losses. Know the vacancy rules and exceptions to protect coverage on empty space."
   },
   "commercial-vs-residential-claims": {
     "title": "How Commercial Insurance Claims Differ from Residential: What Business Owners Need to Know",
-    "description": "Commercial property claims operate under fundamentally different policy structures, valuation methods, and coverage mechanics than residential homeowner claims. Learn how BOP and CPP policies work, why coinsurance penalties hit harder in commercial, how business income coverage is calculated, and what California law requires of carriers handling commercial claims."
+    "description": "Commercial property claims operate under fundamentally different policy structures, valuation methods, and coverage mechanics than residential homeowner claims. Learn how BOP and CPP policies work, why coinsurance penalties hit harder in commercial, how business income coverage is calculated, and what California law requires of carriers handling commercial claims.",
+    "summary": "Commercial claims differ fundamentally from residential ones in policy structure (BOP vs. CPP), valuation, coinsurance exposure, and business income calculation. Business owners should understand these mechanics, and what California requires of commercial carriers, before a loss."
   },
   "common-xactimate-errors": {
     "title": "Common Xactimate Errors That Result in Underpayment",
-    "description": "A detailed guide to the most common errors and omissions in insurance company Xactimate estimates — from missing line items and wrong waste factors to incorrect depreciation and missing overhead and profit. Learn how to identify these errors and what to do about them."
+    "description": "A detailed guide to the most common errors and omissions in insurance company Xactimate estimates — from missing line items and wrong waste factors to incorrect depreciation and missing overhead and profit. Learn how to identify these errors and what to do about them.",
+    "summary": "Insurer Xactimate estimates routinely underpay through missing line items, low waste factors, wrong depreciation, and omitted overhead and profit. Learn to spot these recurring errors and document the corrections needed to bring the estimate to full scope."
   },
   "commonly-missed-items": {
     "title": "Commonly Missed Items on Total Loss and Large Insurance Claims",
-    "description": "A comprehensive checklist of items that adjusters and estimators routinely overlook on total loss and large property insurance claims. From low-voltage wiring and light bulbs to scribe moldings and pressure-treated sole plates — if it's not in the estimate, you're not getting paid for it."
+    "description": "A comprehensive checklist of items that adjusters and estimators routinely overlook on total loss and large property insurance claims. From low-voltage wiring and light bulbs to scribe moldings and pressure-treated sole plates — if it's not in the estimate, you're not getting paid for it.",
+    "summary": "Adjusters routinely omit small but real costs on large and total-loss claims, from low-voltage wiring and light bulbs to scribe moldings and pressure-treated sole plates. If an item is not in the estimate, you are not being paid for it, so check against this list."
   },
   "condo-hoa-claims": {
     "title": "Condo and HOA Insurance Claims: Master Policy, HO-6, and the Coverage Gap Nobody Explains",
-    "description": "Two policies cover your condo — the HOA master policy and your HO-6. Learn how CC&Rs determine who pays for what, the tenant improvement trap, and what to do when the HOA refuses to act."
+    "description": "Two policies cover your condo — the HOA master policy and your HO-6. Learn how CC&Rs determine who pays for what, the tenant improvement trap, and what to do when the HOA refuses to act.",
+    "summary": "A condo is covered by two policies: the HOA master policy and your own HO-6. The CC&Rs decide who pays for what, and the tenant-improvement trap can leave gaps. Know the boundary, and what to do if the HOA refuses to act."
   },
   "consequential-vs-ensuing-damages": {
     "title": "Consequential Damages vs. Ensuing Damages: Two Different Concepts That Sound Alike",
-    "description": "Consequential damages and ensuing damages are fundamentally different insurance concepts that operate at different stages of a claim. Ensuing damage is a coverage question found in the policy. Consequential damages are a remedy for the insurer's wrongful conduct. Understanding the difference helps you make the right argument at the right time."
+    "description": "Consequential damages and ensuing damages are fundamentally different insurance concepts that operate at different stages of a claim. Ensuing damage is a coverage question found in the policy. Consequential damages are a remedy for the insurer's wrongful conduct. Understanding the difference helps you make the right argument at the right time.",
+    "summary": "Ensuing damage is a coverage question, whether the policy covers follow-on damage, while consequential damages are a remedy for the insurer's wrongful conduct. They arise at different stages, so identifying which you have tells you the right argument to make."
   },
   "construction-company-insurance-claims": {
     "title": "Construction Company Insurance Claims: Builder’s Risk, Tools on the Job Site, and the CGL Boundary",
-    "description": "Construction companies face overlapping and often conflicting insurance coverages. Learn how builder’s risk, CGL, inland marine, and business income coverage interact—and where the gaps hide that leave contractors exposed."
+    "description": "Construction companies face overlapping and often conflicting insurance coverages. Learn how builder’s risk, CGL, inland marine, and business income coverage interact—and where the gaps hide that leave contractors exposed.",
+    "summary": "Construction companies juggle overlapping coverages, builder's risk, CGL, inland marine, and business income, that can conflict and leave gaps. Knowing how they interact protects contractors from being exposed when a loss falls between policies."
   },
   "construction-defect-claims": {
     "title": "Construction Defects and Insurance Claims in California: The Right to Repair Act and Beyond",
-    "description": "Construction defects are excluded from most property insurance policies, but the resulting damage often is not. Learn how California’s SB 800 Right to Repair Act, the ensuing loss doctrine, and the efficient proximate cause doctrine interact to determine coverage for defect-related property damage."
+    "description": "Construction defects are excluded from most property insurance policies, but the resulting damage often is not. Learn how California’s SB 800 Right to Repair Act, the ensuing loss doctrine, and the efficient proximate cause doctrine interact to determine coverage for defect-related property damage.",
+    "summary": "Most policies exclude the defect itself but cover the resulting damage. In California, SB 800 (Right to Repair), the ensuing loss doctrine, and efficient proximate cause together determine whether defect-related property damage is covered."
   },
   "construction-timeline-disputes-ale": {
     "title": "Construction Timeline Disputes: Why Insurance Repair Timelines Are Always Wrong — and What It Means for Your ALE",
-    "description": "Insurance carriers systematically underestimate construction timelines to limit ALE benefits. Learn why repair projections fail, what California law requires, and how to fight back when your carrier cuts off Additional Living Expenses."
+    "description": "Insurance carriers systematically underestimate construction timelines to limit ALE benefits. Learn why repair projections fail, what California law requires, and how to fight back when your carrier cuts off Additional Living Expenses.",
+    "summary": "Carriers routinely lowball repair timelines to cut off Additional Living Expenses early, but real construction takes longer than their projection. Document the true timeline and push back, because California law ties ALE to the actual time needed to restore your home."
   },
   "consumer-advocacy-groups": {
     "title": "Consumer Advocacy Groups for Insurance Policyholders",
-    "description": "Organizations that help policyholders fight insurance companies — United Policyholders, American Policyholder Association, Consumer Watchdog, and other groups that provide free resources, advocacy, and legal support."
+    "description": "Organizations that help policyholders fight insurance companies — United Policyholders, American Policyholder Association, Consumer Watchdog, and other groups that provide free resources, advocacy, and legal support.",
+    "summary": "Several nonprofits help policyholders fight insurers, including United Policyholders, the American Policyholder Association, and Consumer Watchdog. They offer free guidance, advocacy, and sometimes legal support, especially valuable after a major disaster."
   },
   "contents-claims": {
     "title": "Personal Property & Contents Claims",
-    "description": "How to handle the contents portion of your insurance claim, including inventory preparation, cleaning vs. total loss, and maximizing your settlement."
+    "description": "How to handle the contents portion of your insurance claim, including inventory preparation, cleaning vs. total loss, and maximizing your settlement.",
+    "summary": "The contents portion of a claim covers your belongings. Build a thorough inventory, distinguish items that can be cleaned from those that are a total loss, and document replacement values to get a fair settlement for personal property."
   },
   "contents-cleaning-total-loss": {
     "title": "When Personal Property Can Be Cleaned vs. When It Is a Total Loss",
-    "description": "How to determine whether smoke-damaged, contaminated, or water-damaged personal property can be professionally restored or must be replaced entirely under your insurance claim."
+    "description": "How to determine whether smoke-damaged, contaminated, or water-damaged personal property can be professionally restored or must be replaced entirely under your insurance claim.",
+    "summary": "Whether smoke-, water-, or contamination-damaged belongings can be professionally cleaned or must be replaced depends on the item and the contaminant. When restoration is unsafe or uneconomical, the item is a total loss and should be paid as a replacement."
   },
   "contents-coverage-gaps": {
     "title": "When the Building Is Covered but Your Personal Property Is Not: Understanding Contents Coverage Gaps",
-    "description": "The standard HO-3 homeowner policy covers your dwelling on an open-perils basis but limits personal property to named perils only. Learn where the Coverage A vs. Coverage C gap creates uncovered losses and how to protect yourself."
+    "description": "The standard HO-3 homeowner policy covers your dwelling on an open-perils basis but limits personal property to named perils only. Learn where the Coverage A vs. Coverage C gap creates uncovered losses and how to protect yourself.",
+    "summary": "A standard HO-3 covers the dwelling on an open-perils basis but limits personal property to named perils, so some belongings losses fall through the gap. Know where Coverage A and Coverage C diverge and consider broader contents coverage."
   },
   "contents-inventory-guide": {
     "title": "How to Document a Contents Inventory After a Total Loss",
-    "description": "A step-by-step guide for policyholders who have lost everything in a fire or disaster. How to build a room-by-room personal property inventory, establish replacement values, and maximize your contents claim under California law."
+    "description": "A step-by-step guide for policyholders who have lost everything in a fire or disaster. How to build a room-by-room personal property inventory, establish replacement values, and maximize your contents claim under California law.",
+    "summary": "After losing everything, rebuild your contents claim room by room, listing each item with its replacement value and using photos, receipts, and memory aids. A complete inventory is what gets a total-loss contents claim paid fully under California law."
   },
   "contingent-business-interruption": {
     "title": "Contingent Business Interruption Insurance: When Someone Else&apos;s Disaster Shuts Down Your Business",
-    "description": "Contingent business interruption (CBI) coverage pays for income you lose when physical damage at a supplier, customer, or other dependent business disrupts your operations. Learn how CBI differs from standard business interruption, what triggers coverage, and how to document losses when the damage happens somewhere else."
+    "description": "Contingent business interruption (CBI) coverage pays for income you lose when physical damage at a supplier, customer, or other dependent business disrupts your operations. Learn how CBI differs from standard business interruption, what triggers coverage, and how to document losses when the damage happens somewhere else.",
+    "summary": "Contingent business interruption (CBI) covers income you lose when physical damage at a supplier, customer, or other dependent business disrupts you, even though your own property is fine. Know what triggers it and document the upstream loss."
   },
   "contra-proferentem": {
     "title": "Contra Proferentem: Why Ambiguous Insurance Policy Language Is Construed Against the Insurer",
-    "description": "A comprehensive guide to the contra proferentem doctrine in California insurance law. Covers the two-step ambiguity analysis, key court decisions, limits of the rule, its relationship to the doctrine of reasonable expectations, and how policyholders can invoke it in coverage disputes."
+    "description": "A comprehensive guide to the contra proferentem doctrine in California insurance law. Covers the two-step ambiguity analysis, key court decisions, limits of the rule, its relationship to the doctrine of reasonable expectations, and how policyholders can invoke it in coverage disputes.",
+    "summary": "Contra proferentem means ambiguous policy language is construed against the insurer that wrote it. California uses a two-step ambiguity analysis tied to the insured's reasonable expectations. When wording is genuinely unclear, this doctrine favors coverage."
   },
   "contractor-liens-insurance-claims": {
     "title": "Contractor Liens When the Insurance Company Won’t Pay: A Property Owner’s Guide to Mechanics Liens in California",
-    "description": "When your insurance company delays or denies payment and a contractor files a mechanics lien on your property, you need to know your rights. This guide covers California mechanics lien law, preliminary notices, subcontractor liens, inflated lien defenses, and strategies for property owners caught between insurers and contractors."
+    "description": "When your insurance company delays or denies payment and a contractor files a mechanics lien on your property, you need to know your rights. This guide covers California mechanics lien law, preliminary notices, subcontractor liens, inflated lien defenses, and strategies for property owners caught between insurers and contractors.",
+    "summary": "When your insurer delays payment and a contractor files a mechanics lien on your home, you are caught in the middle. Know California's lien rules, preliminary notice requirements, and defenses to inflated liens to protect your property."
   },
   "contractors-and-deductibles": {
     "title": "Contractors and Deductibles: Not as Simple as ",
-    "description": "An in-depth analysis of contractor deductible waiver laws in Texas, California, Florida, and other states — what the statutes actually say, where they break down on real claims, and why the confident declarations about deductible law often collapse under scrutiny."
+    "description": "An in-depth analysis of contractor deductible waiver laws in Texas, California, Florida, and other states — what the statutes actually say, where they break down on real claims, and why the confident declarations about deductible law often collapse under scrutiny.",
+    "summary": "Contractor deductible-waiver laws vary by state and are widely misunderstood. Many confident claims about waiving your deductible collapse under the actual statutes, and a contractor absorbing your deductible can be illegal or insurance fraud. Know your state's real rule."
   },
   "cosmetic-damage-denials": {
     "title": "Cosmetic Damage Denials: When Insurers Refuse to Fix What They Broke",
-    "description": "Insurance companies increasingly deny claims for "
+    "description": "Insurance companies increasingly deny claims for ",
+    "summary": "Insurers increasingly deny 'cosmetic' damage, claiming dented metal roofs, siding, or fixtures still function. But cosmetic damage is often still covered physical damage, and denials hinge on policy exclusions and matching, which you can challenge."
   },
   "coverage-a-vs-coverage-b": {
     "title": "Coverage A vs. Coverage B: When Insurers Reclassify Your Dwelling to Reduce Your Claim",
-    "description": "Coverage A (dwelling) and Coverage B (other structures) carry very different limits. Learn how insurers reclassify structures to move damage from Coverage A to the much smaller Coverage B limit, and how to fight back."
+    "description": "Coverage A (dwelling) and Coverage B (other structures) carry very different limits. Learn how insurers reclassify structures to move damage from Coverage A to the much smaller Coverage B limit, and how to fight back.",
+    "summary": "Coverage A (dwelling) and Coverage B (other structures) carry very different limits. Insurers sometimes reclassify a structure into the smaller Coverage B to cut your payout. Know how each applies so you can contest an improper reclassification."
   },
   "coverage-allocation-over-limit-claims": {
     "title": "Coverage Allocation on Over-Limit Claims: How to Get Unencumbered Money to the Insured",
-    "description": "When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines determines whether you get money directly or whether the mortgage company controls it all. The carrier may have a good faith duty to allocate in your favor."
+    "description": "When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines determines whether you get money directly or whether the mortgage company controls it all. The carrier may have a good faith duty to allocate in your favor.",
+    "summary": "When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines decides whether money reaches you directly or is controlled by the mortgage company. The insurer may have a good-faith duty to allocate in your favor."
   },
   "coverage-disputes": {
     "title": "Coverage Disputes: Is Your Loss Covered at All?",
-    "description": "Understanding coverage disputes — the most fundamental question in any insurance claim. Learn how to respond to denials, who bears the burden of proof, and when to escalate."
+    "description": "Understanding coverage disputes — the most fundamental question in any insurance claim. Learn how to respond to denials, who bears the burden of proof, and when to escalate.",
+    "summary": "A coverage dispute asks the most basic question: is your loss covered at all? Learn how to respond to a denial, who bears the burden of proof on coverage versus exclusions, and when to escalate the fight."
   },
   "coworking-space-insurance-claims": {
     "title": "Co-Working Space Insurance Claims: When 50 Businesses Share One Building and Nobody Knows Who’s Covered",
-    "description": "Who insures what when dozens of businesses share a co-working space? Understanding the three-layer insurance problem between building owners, co-working operators, and individual members — and how to avoid devastating coverage gaps."
+    "description": "Who insures what when dozens of businesses share a co-working space? Understanding the three-layer insurance problem between building owners, co-working operators, and individual members — and how to avoid devastating coverage gaps.",
+    "summary": "In a co-working space, the building owner, operator, and individual members each carry different coverage, creating a three-layer problem where losses can fall through the cracks. Clarify who insures what to avoid a devastating gap after damage."
   },
   "cp-cause-of-loss-forms": {
     "title": "Commercial Cause of Loss Forms: Basic, Broad, and Special — What Your Policy Actually Covers",
-    "description": "The cause of loss form attached to your commercial property policy determines whether your claim is covered. Learn the critical differences between the Basic (CP 10 10), Broad (CP 10 20), and Special (CP 10 30) forms and why the wrong form can leave you uninsured."
+    "description": "The cause of loss form attached to your commercial property policy determines whether your claim is covered. Learn the critical differences between the Basic (CP 10 10), Broad (CP 10 20), and Special (CP 10 30) forms and why the wrong form can leave you uninsured.",
+    "summary": "Your commercial property coverage depends on which cause-of-loss form is attached: Basic (CP 10 10), Broad (CP 10 20), or Special (CP 10 30). Special is the broadest (all-risk); the wrong form can leave a loss uninsured. Check which one you have."
   },
   "cp-vs-bop-policies": {
     "title": "Commercial Property (CP) vs. Businessowners Policy (BOP): Which One Do You Have and Why It Matters",
-    "description": "A BOP bundles coverage for convenience but hides limitations a monoline CP policy does not have. Learn the structural differences, eligibility restrictions, coverage gaps, and why business owners need to understand which policy they have before a loss occurs."
+    "description": "A BOP bundles coverage for convenience but hides limitations a monoline CP policy does not have. Learn the structural differences, eligibility restrictions, coverage gaps, and why business owners need to understand which policy they have before a loss occurs.",
+    "summary": "A Businessowners Policy (BOP) bundles coverage conveniently but hides limitations that a monoline Commercial Property (CP) policy does not. Know which you have, because the structural differences and eligibility limits matter a great deal at claim time."
   },
   "crop-agricultural-insurance": {
     "title": "Crop and Agricultural Insurance Claims in California",
-    "description": "How crop and agricultural insurance claims work in California — federal MPCI, revenue protection, smoke taint, livestock mortality, and why a Public Adjuster matters on high-value farm losses."
+    "description": "How crop and agricultural insurance claims work in California — federal MPCI, revenue protection, smoke taint, livestock mortality, and why a Public Adjuster matters on high-value farm losses.",
+    "summary": "California crop and agricultural claims involve federal multi-peril crop insurance, revenue protection, smoke taint, and livestock mortality. On high-value farm losses the rules are complex, and a public adjuster can materially improve the recovery."
   },
   "cslb-licensing-requirements": {
     "title": "California Contractor Licensing and Insurance Claims: What Happens When Your Contractor Isn't Licensed",
-    "description": "Hiring an unlicensed contractor in California can destroy your insurance claim, expose you to liability, and cost you every dollar you paid. Learn the CSLB rules, contract requirements, and how to protect yourself."
+    "description": "Hiring an unlicensed contractor in California can destroy your insurance claim, expose you to liability, and cost you every dollar you paid. Learn the CSLB rules, contract requirements, and how to protect yourself.",
+    "summary": "Hiring an unlicensed contractor in California can wreck your insurance claim and expose you to liability. The CSLB sets licensing and contract rules; using a properly licensed contractor protects both your repair and your claim."
   },
   "cyber-coverage-homeowners": {
     "title": "Cyber Risks and Your Homeowner Policy: The Coverage Gap Most People Ignore",
-    "description": "Your homeowner policy was written before the internet existed. Learn why cyber risks, identity theft, ransomware, social engineering fraud, and smart home hacks are largely unaddressed by the standard HO-3 -- and what you can do about it."
+    "description": "Your homeowner policy was written before the internet existed. Learn why cyber risks, identity theft, ransomware, social engineering fraud, and smart home hacks are largely unaddressed by the standard HO-3 -- and what you can do about it.",
+    "summary": "Standard HO-3 homeowner policies predate modern cyber risk and largely ignore identity theft, ransomware, social engineering fraud, and smart-home hacks. Endorsements or standalone cyber coverage can fill this growing gap."
   },
   "daycare-childcare-insurance-claims": {
     "title": "Daycare and Childcare Facility Insurance Claims: Licensing, Liability, and the Coverage Gaps That Close Programs",
-    "description": "Daycare and childcare facilities face unique insurance vulnerabilities — licensing re-inspections that extend closures, abuse and molestation exclusions, parent retention during shutdown, and regulatory requirements that create coverage gaps. Learn what California childcare operators need to know."
+    "description": "Daycare and childcare facilities face unique insurance vulnerabilities — licensing re-inspections that extend closures, abuse and molestation exclusions, parent retention during shutdown, and regulatory requirements that create coverage gaps. Learn what California childcare operators need to know.",
+    "summary": "Daycare and childcare facilities face unique exposures: licensing re-inspections that prolong closures, abuse and molestation exclusions, parent retention during shutdowns, and regulatory gaps. California operators should confirm their coverage addresses these specific risks."
   },
   "dealing-with-adjuster": {
     "title": "How to Deal with the Insurance Company's Adjuster",
-    "description": "What to expect when the insurer sends their adjuster, your rights during the inspection, common tactics to watch for, and when to get professional help."
+    "description": "What to expect when the insurer sends their adjuster, your rights during the inspection, common tactics to watch for, and when to get professional help.",
+    "summary": "When the insurer's adjuster inspects, you have rights and they have an agenda. Be cooperative and factual, point out all damage, watch for common minimizing tactics, and get professional help if the claim is large or contested."
   },
   "debris-removal-deep-dive": {
     "title": "Debris Removal: The Hidden Six-Figure Coverage Most Homeowners Leave on the Table",
-    "description": "Debris removal coverage can add six figures to your claim — demolition, hauling, dump fees, asbestos abatement, hazmat protocols, and environmental compliance that insurers routinely underpay."
+    "description": "Debris removal coverage can add six figures to your claim — demolition, hauling, dump fees, asbestos abatement, hazmat protocols, and environmental compliance that insurers routinely underpay.",
+    "summary": "Debris removal coverage can add substantial money to a claim, covering demolition, hauling, dump fees, and any required asbestos or hazmat handling. Insurers routinely underpay it, so account for full removal and disposal costs separately."
   },
   "debris-removal": {
     "title": "Debris Removal Coverage — More Than Just the Dwelling",
-    "description": "Debris removal coverage applies to more than the dwelling. Learn how it works for other structures, trees, and personal property — and how to maximize your recovery."
+    "description": "Debris removal coverage applies to more than the dwelling. Learn how it works for other structures, trees, and personal property — and how to maximize your recovery.",
+    "summary": "Debris removal coverage applies to more than the dwelling, extending to other structures, trees, and personal property, often subject to its own limit. Account for all removal and disposal costs to maximize recovery."
   },
   "deciding-not-to-rebuild": {
     "title": "What Happens When You Decide Not to Rebuild After a Total Loss",
-    "description": "Deciding not to rebuild after a total loss changes your insurance recovery, your mortgage obligations, and your tax situation. Here is what you need to know before making that decision — and how to maximize your recovery either way."
+    "description": "Deciding not to rebuild after a total loss changes your insurance recovery, your mortgage obligations, and your tax situation. Here is what you need to know before making that decision — and how to maximize your recovery either way.",
+    "summary": "You can choose not to rebuild after a total loss, but it changes your recovery: you typically get actual cash value rather than full replacement cost, and it affects your mortgage and taxes. Understand the trade-offs before deciding."
   },
   "declarations-page": {
     "title": "How to Read Your Insurance Declarations Page",
-    "description": "A section-by-section walkthrough of your homeowners insurance declarations page — what each coverage means, what the numbers represent, and the hidden coverages most people miss."
+    "description": "A section-by-section walkthrough of your homeowners insurance declarations page — what each coverage means, what the numbers represent, and the hidden coverages most people miss.",
+    "summary": "Your declarations page summarizes your coverage: the dwelling (A), other structures (B), personal property (C), and loss of use (D) limits, your deductible, and endorsements. Reading it carefully reveals limits and hidden coverages most people miss."
   },
   "deductibles-guide": {
     "title": "Insurance Deductibles: Types, Calculations, and When They're Misapplied",
-    "description": "A complete guide to insurance deductibles — flat dollar, percentage-based, earthquake, wind/hurricane, how they interact with ACV and depreciation, and how to spot when your carrier has misapplied yours."
+    "description": "A complete guide to insurance deductibles — flat dollar, percentage-based, earthquake, wind/hurricane, how they interact with ACV and depreciation, and how to spot when your carrier has misapplied yours.",
+    "summary": "Deductibles come in flat-dollar and percentage forms, plus special earthquake and wind/hurricane versions, and they interact with ACV and depreciation. Know how yours applies and watch for carriers misapplying it, especially on replacement-cost and total-loss claims."
   },
   "defeating-carrier-engineers": {
     "title": "Defeating Carrier Expert Reports: Engineers, Inspectors, and Hired Professionals",
-    "description": "This guide has been consolidated into our comprehensive article on biased insurance experts — covering all expert types, the feedback loop, limited assignments, and how to fight back."
+    "description": "This guide has been consolidated into our comprehensive article on biased insurance experts — covering all expert types, the feedback loop, limited assignments, and how to fight back.",
+    "summary": "This guide has been consolidated into the comprehensive article on biased insurance experts, which covers engineers and other carrier-hired professionals, the repeat-player feedback loop, limited assignments, and how to challenge their reports."
   },
   "delay-deny-defend-review": {
     "title": "Book Review: Delay, Deny, Defend by Jay M. Feinman — Why Your Insurance Company Treats You Like an Adversary",
-    "description": "A detailed review of Jay Feinman's Delay, Deny, Defend — the book that exposed how insurance companies systematically deny legitimate claims. What the book gets right, what it means for property claims, and why every policyholder should read it."
+    "description": "A detailed review of Jay Feinman's Delay, Deny, Defend — the book that exposed how insurance companies systematically deny legitimate claims. What the book gets right, what it means for property claims, and why every policyholder should read it.",
+    "summary": "Jay Feinman's Delay, Deny, Defend documents how insurers shifted from paying claims to systematically delaying, denying, and defending against them to boost profit. The book explains the industry mindset every policyholder is up against."
   },
   "demand-surge-pricing": {
     "title": "Demand Surge: Why Post-Catastrophe Pricing Changes Everything in Your Insurance Claim",
-    "description": "After a catastrophe, construction costs spike dramatically due to labor shortages, material scarcity, and overwhelming demand. Learn what demand surge is, why your insurance company owes you the actual post-disaster cost of repairs, and how to document and fight for full payment."
+    "description": "After a catastrophe, construction costs spike dramatically due to labor shortages, material scarcity, and overwhelming demand. Learn what demand surge is, why your insurance company owes you the actual post-disaster cost of repairs, and how to document and fight for full payment.",
+    "summary": "After a catastrophe, labor shortages and material scarcity spike construction costs (demand surge). Your insurer owes the actual post-disaster cost to repair, not pre-disaster pricing. Document the real market costs and insist on payment at current rates."
   },
   "dependent-property-business-income": {
     "title": "Business Income from Dependent Properties: When Someone Else’s Loss Shuts Down Your Revenue",
-    "description": "Dependent property business income coverage protects you when physical damage at a supplier, customer, manufacturer, or anchor business causes your revenue to drop. Learn the four ISO categories, the CP 15 08 endorsement, common claim disputes, and how to document losses when the damage occurs at someone else’s property."
+    "description": "Dependent property business income coverage protects you when physical damage at a supplier, customer, manufacturer, or anchor business causes your revenue to drop. Learn the four ISO categories, the CP 15 08 endorsement, common claim disputes, and how to document losses when the damage occurs at someone else’s property.",
+    "summary": "Dependent property business income coverage protects you when physical damage at a supplier, customer, manufacturer, or anchor business cuts your revenue. The CP 15 08 endorsement adds it; document the upstream loss and your resulting income drop."
   },
   "depreciation-schedules-useful-life": {
     "title": "Depreciation Schedules and Useful Life: How Insurance Companies Reduce Your Payment",
-    "description": "How insurance carriers use depreciation schedules and useful life determinations to reduce claim payouts, why these numbers are often arbitrary and skewed against policyholders, and how to challenge them under California Insurance Code Section 2051."
+    "description": "How insurance carriers use depreciation schedules and useful life determinations to reduce claim payouts, why these numbers are often arbitrary and skewed against policyholders, and how to challenge them under California Insurance Code Section 2051.",
+    "summary": "Insurers cut payments using depreciation schedules and 'useful life' estimates that are often arbitrary and skewed against policyholders. Under California Insurance Code Section 2051, depreciation must be reasonable and based on actual condition, so excessive depreciation can be challenged."
   },
   "depublication-hidden-insurance-law": {
     "title": "Depublication: How California Insurance Law Disappears",
-    "description": "How the California Supreme Court's depublication power removes policyholder-favorable appellate opinions from the body of citable law, and why this little-known process matters for insurance claims disputes."
+    "description": "How the California Supreme Court's depublication power removes policyholder-favorable appellate opinions from the body of citable law, and why this little-known process matters for insurance claims disputes.",
+    "summary": "Through depublication, the California Supreme Court can strip a policyholder-favorable appellate decision from citable law without overruling it. This little-known power quietly shapes which insurance precedents lawyers can rely on."
   },
   "desk-adjusting-remote-estimates": {
     "title": "Desk Adjusting: When Your Insurance Company Writes an Estimate Without Seeing the Damage",
-    "description": "How insurance companies use desk adjusting to write repair estimates without inspecting your property, why remote estimates lead to systematic underpayment, and how policyholders can challenge inadequate investigations under California law."
+    "description": "How insurance companies use desk adjusting to write repair estimates without inspecting your property, why remote estimates lead to systematic underpayment, and how policyholders can challenge inadequate investigations under California law.",
+    "summary": "Desk adjusting means the insurer writes your estimate without ever inspecting the property, which systematically underpays by missing damage. California law requires a reasonable investigation, so an estimate written sight-unseen can be challenged as inadequate."
   },
   "dic-policies": {
     "title": "Difference in Conditions (DIC) Insurance: The Policy That Makes the FAIR Plan Work",
-    "description": "What a DIC policy is, how it coordinates with the California FAIR Plan, what it covers, and the catastrophic mistake of dropping your underlying fire coverage."
+    "description": "What a DIC policy is, how it coordinates with the California FAIR Plan, what it covers, and the catastrophic mistake of dropping your underlying fire coverage.",
+    "summary": "A Difference in Conditions (DIC) policy wraps around a California FAIR Plan policy to add the coverages the FAIR Plan lacks, such as water and liability. Dropping your underlying FAIR Plan fire coverage while keeping only DIC is a catastrophic mistake."
   },
   "diminution-in-value": {
     "title": "Diminution in Value: When Your Home Is Worth Less Even After Repairs",
-    "description": "Even after full repairs, a property that suffered a major fire, flood, or structural failure may be worth less than it was before. Learn what diminution in value means, whether insurance covers it, and how to document and pursue a DIV claim."
+    "description": "Even after full repairs, a property that suffered a major fire, flood, or structural failure may be worth less than it was before. Learn what diminution in value means, whether insurance covers it, and how to document and pursue a DIV claim.",
+    "summary": "Even after full repairs, a home that suffered major fire, flood, or structural damage may be worth less, a loss called diminution in value. Whether insurance covers it varies; documenting the residual value loss is key to pursuing a DIV claim."
   },
   "disaster-preparedness": {
     "title": "Disaster Preparedness and Pre-Loss Mitigation: An Insurance Perspective",
-    "description": "How to prepare for a disaster before it happens — pre-loss documentation, mitigation expenses your policy may cover, California-specific requirements, and insurance preparedness strategies that protect your claim."
+    "description": "How to prepare for a disaster before it happens — pre-loss documentation, mitigation expenses your policy may cover, California-specific requirements, and insurance preparedness strategies that protect your claim.",
+    "summary": "Prepare before disaster strikes: document your home and belongings, know your coverage, and understand which mitigation expenses your policy may reimburse. Good pre-loss preparation makes a future claim faster and stronger."
   },
   "discovery-insurance-litigation": {
     "title": "Discovery in Insurance Property Litigation: Getting the Evidence You Need",
-    "description": "How discovery works in insurance lawsuits, what documents and electronic records policyholders can demand, how to obtain the carrier’s claims file, and the landmark Colonial Life case allowing pattern-and-practice discovery of other claim files."
+    "description": "How discovery works in insurance lawsuits, what documents and electronic records policyholders can demand, how to obtain the carrier’s claims file, and the landmark Colonial Life case allowing pattern-and-practice discovery of other claim files.",
+    "summary": "In an insurance lawsuit, discovery lets you demand the carrier's claim file, internal records, and electronic data. The landmark Colonial Life case even allows discovery of other claim files to prove a pattern and practice of bad faith."
   },
   "divorce-separation-insurance-claims": {
     "title": "Marital Property and Insurance Claims in California: Divorce, Separation, Community Property, and Spousal Authority",
-    "description": "A comprehensive guide to the California rules that govern insurance claims on marital property — community property and separate property, the mortgage/named-insured mismatch, the innocent co-insured doctrine and spousal arson, what happens when the named insured dies, the rights of domestic partners and unmarried couples, and the practical steps to keep a claim alive when a marriage is ending."
+    "description": "A comprehensive guide to the California rules that govern insurance claims on marital property — community property and separate property, the mortgage/named-insured mismatch, the innocent co-insured doctrine and spousal arson, what happens when the named insured dies, the rights of domestic partners and unmarried couples, and the practical steps to keep a claim alive when a marriage is ending.",
+    "summary": "Divorce and separation complicate property claims through community vs. separate property rules, named-insured mismatches, and the innocent co-insured doctrine. California law offers ways to keep a claim alive when a marriage is ending; act to protect your interest."
   },
   "do-i-need-a-lawyer": {
     "title": "Do I Need a Lawyer for My Insurance Claim?",
@@ -730,115 +790,143 @@
   },
   "dog-breed-restrictions-insurance": {
     "title": "Dog Breed Restrictions and Home Insurance: When Your Pet Puts Your Coverage at Risk",
-    "description": "Many insurers maintain breed restriction lists that can result in policy cancellation, non-renewal, or liability exclusion. Learn what breeds are affected, California law, and how to protect coverage."
+    "description": "Many insurers maintain breed restriction lists that can result in policy cancellation, non-renewal, or liability exclusion. Learn what breeds are affected, California law, and how to protect coverage.",
+    "summary": "Many insurers keep breed-restriction lists that can trigger cancellation, non-renewal, or a liability exclusion for certain dogs. Know whether your breed is affected and how California law and disclosure rules affect your coverage."
   },
   "drone-satellite-surveillance-insurers": {
     "title": "When Your Insurer Watches From Above: Drone and Satellite Surveillance in Insurance",
-    "description": "How insurers use drone and satellite imagery to assess roof conditions, identify property hazards, and make non-renewal decisions — often without the policyholder knowing. Covers accuracy concerns, consumer rights, and how to challenge aerial findings."
+    "description": "How insurers use drone and satellite imagery to assess roof conditions, identify property hazards, and make non-renewal decisions — often without the policyholder knowing. Covers accuracy concerns, consumer rights, and how to challenge aerial findings.",
+    "summary": "Insurers increasingly use drone and satellite imagery to inspect roofs and find hazards, sometimes driving non-renewals without your knowledge. Aerial findings can be inaccurate, and you have the right to see and challenge them."
   },
   "drug-contamination-landlord-claims": {
     "title": "Drug Contamination Claims for Landlords: Meth, Fentanyl, and Grow Operations",
-    "description": "When a tenant turns your rental into a meth lab, fentanyl house, or marijuana grow — the vandalism theory, state cleanup standards, case law, decontamination costs, lease protections, and how to get your insurance claim paid."
+    "description": "When a tenant turns your rental into a meth lab, fentanyl house, or marijuana grow — the vandalism theory, state cleanup standards, case law, decontamination costs, lease protections, and how to get your insurance claim paid.",
+    "summary": "When a tenant turns your rental into a meth lab, fentanyl house, or grow operation, the contamination and damage may be covered, often under a vandalism theory. Know the cleanup standards, decontamination costs, and lease protections to get the claim paid."
   },
   "drying-standards-moisture": {
     "title": "Drying Standards and Moisture Documentation: The Science Behind Water Damage Restoration",
-    "description": "Learn how IICRC S500 drying standards govern water damage restoration, why moisture documentation matters for your insurance claim, and how carriers exploit gaps in the process to underpay claims."
+    "description": "Learn how IICRC S500 drying standards govern water damage restoration, why moisture documentation matters for your insurance claim, and how carriers exploit gaps in the process to underpay claims.",
+    "summary": "Proper water-damage restoration follows IICRC S500 drying standards, with moisture readings documenting that the structure was dried correctly. Carriers exploit gaps in this documentation to underpay, so insist on thorough moisture records."
   },
   "duties-after-loss": {
     "title": "Duties After Loss: What Your Policy Requires You to Do",
-    "description": "Comprehensive guide to policyholder obligations after an insurance claim — mitigation, notice, proof of loss, examination under oath, cooperation, and how California law limits the insurer's ability to deny claims for non-compliance."
+    "description": "Comprehensive guide to policyholder obligations after an insurance claim — mitigation, notice, proof of loss, examination under oath, cooperation, and how California law limits the insurer's ability to deny claims for non-compliance.",
+    "summary": "Your policy requires you to mitigate damage, give prompt notice, submit a proof of loss, sit for an examination under oath if asked, and cooperate. California law limits an insurer's ability to deny for technical non-compliance unless it was actually prejudiced."
   },
   "duty-to-investigate": {
     "title": "The Insurer's Duty to Investigate: When a Sloppy Investigation Becomes Bad Faith",
-    "description": "California insurers have a legal duty to thoroughly and fairly investigate every claim. When they don't, it can constitute bad faith — even if the claim might not have been covered."
+    "description": "California insurers have a legal duty to thoroughly and fairly investigate every claim. When they don't, it can constitute bad faith — even if the claim might not have been covered.",
+    "summary": "California insurers must investigate every claim thoroughly and fairly. A one-sided or sloppy investigation can itself be bad faith, even if the claim might ultimately not have been covered. Document the gaps in their investigation."
   },
   "earth-movement-landslide": {
     "title": "The Earth Movement Exclusion: When It Applies, When It Does Not, and How California Law Protects You",
-    "description": "Earth movement is excluded from standard homeowner policies, but California's efficient proximate cause doctrine means landslides, mudslides, and subsidence caused by a covered peril are still covered. Learn what triggers coverage and how to fight a wrongful denial."
+    "description": "Earth movement is excluded from standard homeowner policies, but California's efficient proximate cause doctrine means landslides, mudslides, and subsidence caused by a covered peril are still covered. Learn what triggers coverage and how to fight a wrongful denial.",
+    "summary": "Earth movement is excluded from standard homeowner policies, but California's efficient proximate cause doctrine covers landslides, mudslides, and subsidence when a covered peril set them in motion. Identify the triggering cause to fight a wrongful denial."
   },
   "earthquake-insurance": {
     "title": "Earthquake Insurance in California: CEA, Private Carriers, and What You Need to Know",
-    "description": "A complete guide to earthquake insurance in California — CEA coverage and limitations, private carrier alternatives from Palomar and GeoVera, deductible structures, claims handling differences, and how the efficient proximate cause doctrine affects earthquake-related losses."
+    "description": "A complete guide to earthquake insurance in California — CEA coverage and limitations, private carrier alternatives from Palomar and GeoVera, deductible structures, claims handling differences, and how the efficient proximate cause doctrine affects earthquake-related losses.",
+    "summary": "California earthquake coverage comes from the CEA or private carriers like Palomar and GeoVera, each with high deductibles and different claims handling. The efficient proximate cause doctrine can affect related losses, so understand your structure before a quake."
   },
   "ecommerce-business-insurance-claims": {
     "title": "E-Commerce Business Insurance Claims: When Your Property Is Digital, Your Warehouse Is Rented, and Your Policy Wasn",
-    "description": "E-commerce businesses fall through traditional insurance gaps: the home-based business exclusion, electronic data sublimits, off-premises inventory, and business income when your website goes down. Learn how to identify and close the coverage gaps before a loss exposes them."
+    "description": "E-commerce businesses fall through traditional insurance gaps: the home-based business exclusion, electronic data sublimits, off-premises inventory, and business income when your website goes down. Learn how to identify and close the coverage gaps before a loss exposes them.",
+    "summary": "E-commerce sellers fall through standard insurance gaps: the home-based business exclusion, low electronic-data sublimits, off-premises inventory, and business income when the website goes down. Identify and close these gaps before a loss exposes them."
   },
   "efficient-proximate-cause-doctrine": {
     "title": "The Efficient Proximate Cause Doctrine: When the Real Cause of Your Loss Is Covered",
-    "description": "When multiple perils combine to cause a loss, the efficient proximate cause doctrine looks at the predominant cause. If it is covered, the entire loss is covered. Here is how the doctrine works, what California law requires, and how insurers try to get around it."
+    "description": "When multiple perils combine to cause a loss, the efficient proximate cause doctrine looks at the predominant cause. If it is covered, the entire loss is covered. Here is how the doctrine works, what California law requires, and how insurers try to get around it.",
+    "summary": "When several perils combine to cause a loss, the efficient proximate cause doctrine asks which one predominated. If that predominant cause is covered, the entire loss is covered. California law mandates this, and insurers try to evade it by blaming an excluded contributor."
   },
   "efficient-proximate-cause": {
     "title": "The Efficient Proximate Cause Doctrine: When Your Insurer Blames an Excluded Cause for a Covered Loss",
-    "description": "California's efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study."
+    "description": "California's efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study.",
+    "summary": "California's efficient proximate cause doctrine requires coverage when a covered peril set the chain of events in motion, even if an excluded peril contributed. Landmark cases and the Insurance Code make the predominant covered cause control the outcome."
   },
   "elder-abuse-insurance": {
     "title": "Elder Abuse Statutes in Insurance Claims: Enhanced Remedies for Elderly and Dependent Adult Policyholders",
-    "description": "When insurance companies engage in bad faith against elderly or dependent adult policyholders, California's Elder Abuse and Dependent Adult Civil Protection Act unlocks enhanced remedies including attorney's fees, punitive damages, and survival actions."
+    "description": "When insurance companies engage in bad faith against elderly or dependent adult policyholders, California's Elder Abuse and Dependent Adult Civil Protection Act unlocks enhanced remedies including attorney's fees, punitive damages, and survival actions.",
+    "summary": "When an insurer acts in bad faith against an elderly or dependent-adult policyholder, California's Elder Abuse Act can unlock enhanced remedies, including attorney's fees, punitive damages, and survival actions, on top of normal bad-faith damages."
   },
   "emergency-mitigation-vendors": {
     "title": "Emergency Mitigation Vendors: When the First Responder Works for the Insurance Company",
-    "description": "How carrier-dispatched mitigation vendors create conflicts of interest that shape the entire claim. Covers your right to choose your own vendor, inflated invoices, documentation control, IICRC standards, assignment of benefits, and how to protect yourself when the insurance company sends the first responder."
+    "description": "How carrier-dispatched mitigation vendors create conflicts of interest that shape the entire claim. Covers your right to choose your own vendor, inflated invoices, documentation control, IICRC standards, assignment of benefits, and how to protect yourself when the insurance company sends the first responder.",
+    "summary": "When the insurer dispatches the emergency mitigation vendor, that vendor's loyalty may run to the carrier, shaping documentation and the claim. You have the right to choose your own vendor; protect yourself against inflated invoices and lost control of the file."
   },
   "emotional-distress-bad-faith-claims": {
     "title": "Emotional Distress Damages in Insurance Bad Faith Claims",
-    "description": "How policyholders recover emotional distress damages when insurers act in bad faith — the special relationship doctrine, key California case law from Gruenberg to Egan, types of emotional distress claims, evidentiary requirements, elder abuse intersections, and practical guidance for documenting the human cost of claims misconduct."
+    "description": "How policyholders recover emotional distress damages when insurers act in bad faith — the special relationship doctrine, key California case law from Gruenberg to Egan, types of emotional distress claims, evidentiary requirements, elder abuse intersections, and practical guidance for documenting the human cost of claims misconduct.",
+    "summary": "Because of the special relationship between insurer and insured, California allows emotional distress damages in bad-faith cases, as Gruenberg and Egan established. Documenting the human toll of the carrier's misconduct supports this recovery."
   },
   "employee-dishonesty-crime-gap": {
     "title": "Employee Dishonesty and the Crime Policy Gap: When ",
-    "description": "Learn why your business property policy won’t cover employee theft, how crime policy sublimits leave businesses exposed, and what standalone coverage you actually need."
+    "description": "Learn why your business property policy won’t cover employee theft, how crime policy sublimits leave businesses exposed, and what standalone coverage you actually need.",
+    "summary": "Your business property policy generally will not cover employee theft, and crime-policy sublimits often leave a gap. To be protected, you usually need standalone employee dishonesty or commercial crime coverage with adequate limits."
   },
   "endorsement-overrides-exclusions": {
     "title": "When Endorsements Override Exclusions: Coverage Your Adjuster Did Not Read",
-    "description": "Endorsements modify the base policy form, and when they conflict with an exclusion, the endorsement controls. Learn how endorsements add back coverage, why adjusters miss them, and how to challenge a denial that ignores your endorsements."
+    "description": "Endorsements modify the base policy form, and when they conflict with an exclusion, the endorsement controls. Learn how endorsements add back coverage, why adjusters miss them, and how to challenge a denial that ignores your endorsements.",
+    "summary": "Endorsements modify the base policy, and when an endorsement conflicts with an exclusion, the endorsement controls and can add coverage back. Adjusters often miss endorsements, so check yours and challenge any denial that ignores them."
   },
   "endorsements-every-homeowner-needs": {
     "title": "Endorsements Every Homeowner Should Have — and What Happens When You Don’t",
-    "description": "A pre-loss guide to the most important homeowners insurance endorsements: what they cover, what they cost, and the real claim scenarios that show what happens when you don’t have them."
+    "description": "A pre-loss guide to the most important homeowners insurance endorsements: what they cover, what they cost, and the real claim scenarios that show what happens when you don’t have them.",
+    "summary": "Certain homeowner endorsements, like water backup, extended replacement cost, scheduled valuables, and ordinance or law, fill the most common and costly coverage gaps. Add the ones your situation needs before a loss, not after."
   },
   "engineering-reports-vs-coverage": {
     "title": "When Engineering Reports Cross the Line: Why Physical Findings Do not Determine Coverage",
-    "description": "Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it is covered. Learn the difference between engineering causation and legal causation under California law."
+    "description": "Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it is covered. Learn the difference between engineering causation and legal causation under California law.",
+    "summary": "Insurers use engineering reports to deny claims, but an engineer determines how something was built or failed, not whether it is covered. Engineering causation is not legal causation; under California law the coverage question is separate."
   },
   "ensuing-loss": {
     "title": "Ensuing Loss: The Clause Your Insurer Hopes You Never Read",
-    "description": "The ensuing loss savings clause can restore coverage for damage caused by an excluded peril. Carriers routinely leave it out of denial letters. Learn what ensuing loss means, how it works in California alongside the efficient proximate cause doctrine, and how it differs from concurrent causation."
+    "description": "The ensuing loss savings clause can restore coverage for damage caused by an excluded peril. Carriers routinely leave it out of denial letters. Learn what ensuing loss means, how it works in California alongside the efficient proximate cause doctrine, and how it differs from concurrent causation.",
+    "summary": "An ensuing loss clause restores coverage for damage that follows an excluded peril, and carriers routinely omit it from denial letters. In California it works alongside efficient proximate cause and can revive a claim the insurer says is excluded."
   },
   "environmental-sampling-methods": {
     "title": "Environmental Sampling Methods in Insurance Claims",
-    "description": "Understanding wipe, microvacuum, tape lift, and air sampling methods used in property damage claims — and how carrier-assigned experts often get it wrong."
+    "description": "Understanding wipe, microvacuum, tape lift, and air sampling methods used in property damage claims — and how carrier-assigned experts often get it wrong.",
+    "summary": "Property contamination is measured by wipe, microvacuum, tape-lift, and air sampling, each suited to different situations. Carrier-assigned experts often choose or apply the wrong method, so understand which sampling is appropriate to challenge a flawed result."
   },
   "epa-mold-remediation-guide": {
     "title": "EPA Mold Remediation Guide: The Standard Your Insurer Should Follow",
-    "description": "The EPA's official mold remediation guide establishes the 24-48 hour mold growth timeline and remediation protocols that insurers are required to follow."
+    "description": "The EPA's official mold remediation guide establishes the 24-48 hour mold growth timeline and remediation protocols that insurers are required to follow.",
+    "summary": "The EPA's mold remediation guide sets the recognized 24-to-48-hour mold growth window and cleanup protocols. Insurers are generally expected to follow it, so cite the guide when a carrier disputes mold causation or proper remediation."
   },
   "equipment-breakdown-coverage": {
     "title": "Equipment Breakdown Coverage: What Homeowners and Business Owners Need to Know",
-    "description": "Equipment breakdown insurance (formerly boiler and machinery) covers mechanical and electrical failures that standard property policies exclude. Learn what is covered, how to file a claim, and how to avoid costly coverage gaps."
+    "description": "Equipment breakdown insurance (formerly boiler and machinery) covers mechanical and electrical failures that standard property policies exclude. Learn what is covered, how to file a claim, and how to avoid costly coverage gaps.",
+    "summary": "Equipment breakdown coverage (formerly boiler and machinery) pays for sudden mechanical or electrical failures that standard property policies exclude, such as HVAC, electrical panels, or appliances. Add it to close a common and expensive gap."
   },
   "equitable-tolling-nuances": {
     "title": "Equitable Tolling Edge Cases: When the Statute of Limitations Gets Complicated",
-    "description": "A deep dive into the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue."
+    "description": "A deep dive into the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue.",
+    "summary": "Equitable tolling of the one-year suit deadline gets complicated in edge cases: files closed without notice, partial closures, and reopened claims. Knowing how the clock is calculated in these situations protects your right to sue."
   },
   "equitable-tolling": {
     "title": "Equitable Tolling of the Statute of Limitations in California Insurance Claims",
-    "description": "The one-year suit limitation is not as simple as it appears. Learn how equitable tolling pauses the clock while your insurer investigates your claim."
+    "description": "The one-year suit limitation is not as simple as it appears. Learn how equitable tolling pauses the clock while your insurer investigates your claim.",
+    "summary": "California's one-year deadline to sue your insurer is not absolute. Equitable tolling pauses the clock while the insurer investigates your claim, so the time spent in adjustment generally does not count against you."
   },
   "estimate-bid-invoice-xactimate": {
     "title": "The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice",
-    "description": "An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier"
+    "description": "An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier",
+    "summary": "The same Xactimate document can function as an estimate, a bid, or an invoice, and the distinction matters legally and financially. Understanding which role a document plays helps you read the carrier's number correctly and respond appropriately."
   },
   "estoppel-waiver-insurance": {
     "title": "Estoppel, Waiver, and Promissory Estoppel in Insurance Claims",
-    "description": "How equitable estoppel, waiver, and promissory estoppel prevent insurers from denying claims after their own conduct or promises led the policyholder to rely on coverage — and whether these doctrines can create coverage that does not exist in the policy."
+    "description": "How equitable estoppel, waiver, and promissory estoppel prevent insurers from denying claims after their own conduct or promises led the policyholder to rely on coverage — and whether these doctrines can create coverage that does not exist in the policy.",
+    "summary": "Equitable estoppel, waiver, and promissory estoppel can stop an insurer from denying a claim after its own conduct or promises led you to rely on coverage. They can bar a defense, though they generally cannot create coverage the policy never provided."
   },
   "esx-file-rights-xactimate": {
     "title": "Your Right to the Xactimate ESX File: Why the PDF Is Not Enough",
-    "description": "A comprehensive guide for policyholders, public adjusters, and attorneys on why you should demand the native Xactimate ESX file — not just the PDF printout — and what critical estimate data the ESX file reveals that the PDF conceals."
+    "description": "A comprehensive guide for policyholders, public adjusters, and attorneys on why you should demand the native Xactimate ESX file — not just the PDF printout — and what critical estimate data the ESX file reveals that the PDF conceals.",
+    "summary": "Demand the native Xactimate ESX file, not just the PDF. The ESX reveals pricing settings, depreciation, and hidden adjustments the printout conceals, which is essential for spotting how the carrier built, and shaved, the estimate."
   },
   "ev-battery-fires-homeowners-insurance": {
     "title": "Electric Vehicle Battery Fires and Your Homeowner Policy: A Growing Coverage Question",
-    "description": "How EV battery fires in home garages create complex insurance coverage questions. Covers thermal runaway risks, the homeowner vs. auto policy split, charging equipment coverage gaps, unpermitted installations, and how to protect yourself."
+    "description": "How EV battery fires in home garages create complex insurance coverage questions. Covers thermal runaway risks, the homeowner vs. auto policy split, charging equipment coverage gaps, unpermitted installations, and how to protect yourself.",
+    "summary": "EV battery fires in a home garage raise tricky coverage questions split between homeowner and auto policies, with gaps around charging equipment and unpermitted installations. Understand the thermal-runaway risk and which policy responds before a loss."
   },
   "examination-under-oath": {
     "title": "Examination Under Oath (EUO): What It Is, Why It Happens, and How to Prepare",

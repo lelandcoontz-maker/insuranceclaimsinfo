@@ -5,6 +5,8 @@ export const meta = {
   title: 'California Contractor Licensing and Insurance Claims: What Happens When Your Contractor Isn\'t Licensed',
   description:
     'Hiring an unlicensed contractor in California can destroy your insurance claim, expose you to liability, and cost you every dollar you paid. Learn the CSLB rules, contract requirements, and how to protect yourself.',
+  summary:
+    'Hiring an unlicensed contractor in California can wreck your insurance claim and expose you to liability. The CSLB sets licensing and contract rules; using a properly licensed contractor protects both your repair and your claim.',
 }
 
 export default function Content() {

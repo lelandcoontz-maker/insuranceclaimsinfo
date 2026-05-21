@@ -5,6 +5,8 @@ export const meta = {
   title: 'Environmental Sampling Methods in Insurance Claims',
   description:
     'Understanding wipe, microvacuum, tape lift, and air sampling methods used in property damage claims — and how carrier-assigned experts often get it wrong.',
+  summary:
+    'Property contamination is measured by wipe, microvacuum, tape-lift, and air sampling, each suited to different situations. Carrier-assigned experts often choose or apply the wrong method, so understand which sampling is appropriate to challenge a flawed result.',
 }
 
 export default function Content() {

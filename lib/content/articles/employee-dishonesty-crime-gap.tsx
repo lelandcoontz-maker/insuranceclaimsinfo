@@ -5,6 +5,8 @@ export const meta = {
   title: 'Employee Dishonesty and the Crime Policy Gap: When "Theft" Doesn’t Mean What You Think',
   description:
     'Learn why your business property policy won’t cover employee theft, how crime policy sublimits leave businesses exposed, and what standalone coverage you actually need.',
+  summary:
+    'Your business property policy generally will not cover employee theft, and crime-policy sublimits often leave a gap. To be protected, you usually need standalone employee dishonesty or commercial crime coverage with adequate limits.',
 }
 
 export default function Content() {

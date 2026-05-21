@@ -6,6 +6,8 @@ export const meta = {
     'Waiver of Subrogation, Additional Insured, and Commercial Lease Insurance Requirements',
   description:
     'How waiver of subrogation, additional insured endorsements, and certificates of insurance actually work in commercial leases — and why the paperwork your landlord handed you may not mean what you think it means.',
+  summary:
+    'Waiver of subrogation, additional insured endorsements, and certificates of insurance in commercial leases often do not mean what tenants assume. Understand how each actually allocates risk before relying on the paperwork your landlord provided.',
 }
 
 export default function Content() {

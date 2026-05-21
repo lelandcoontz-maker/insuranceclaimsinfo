@@ -5,6 +5,8 @@ export const meta = {
   title: 'Consumer Advocacy Groups for Insurance Policyholders',
   description:
     'Organizations that help policyholders fight insurance companies — United Policyholders, American Policyholder Association, Consumer Watchdog, and other groups that provide free resources, advocacy, and legal support.',
+  summary:
+    'Several nonprofits help policyholders fight insurers, including United Policyholders, the American Policyholder Association, and Consumer Watchdog. They offer free guidance, advocacy, and sometimes legal support, especially valuable after a major disaster.',
 }
 
 export default function Content() {

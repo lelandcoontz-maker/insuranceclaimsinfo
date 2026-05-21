@@ -4,6 +4,8 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Book Review: Delay, Deny, Defend by Jay M. Feinman — Why Your Insurance Company Treats You Like an Adversary',
   description: 'A detailed review of Jay Feinman\'s Delay, Deny, Defend — the book that exposed how insurance companies systematically deny legitimate claims. What the book gets right, what it means for property claims, and why every policyholder should read it.',
+  summary:
+    'Jay Feinman\'s Delay, Deny, Defend documents how insurers shifted from paying claims to systematically delaying, denying, and defending against them to boost profit. The book explains the industry mindset every policyholder is up against.',
 }
 
 export default function Content() {
