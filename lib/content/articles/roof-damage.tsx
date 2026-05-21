@@ -5,6 +5,8 @@ export const meta = {
   title: 'Roof Damage Insurance Claims in California',
   description:
     'How to handle a roof damage insurance claim in California — common causes, what\'s covered, insurer inspections, matching disputes, and how to get the full settlement you\'re owed.',
+  summary:
+    'On a California roof claim, expect disputes over cause, matching, and whether a patch or full replacement is owed. Document the damage and storm, watch for cosmetic-damage and wear-and-tear denials, and insist on matching and code upgrades where required.',
 }
 
 export default function Content() {

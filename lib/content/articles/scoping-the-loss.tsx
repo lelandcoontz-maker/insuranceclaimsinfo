@@ -5,6 +5,8 @@ export const meta = {
   title: 'Scoping the Loss: A Field Manual for Property Claims Inspection',
   description:
     'A hands-on field manual for conducting property inspections on insurance claims \u2014 required tools, measuring techniques, thermal imaging, moisture meters, material identification, and a step-by-step inspection protocol. By Leland Coontz III, Licensed Public Adjuster.',
+  summary:
+    'Scoping a loss is the hands-on inspection that builds the claim: measuring, thermal imaging, moisture metering, and identifying materials with the right tools and a systematic protocol. A thorough scope is the foundation of full payment.',
 }
 
 export default function Content() {

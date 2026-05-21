@@ -5,6 +5,8 @@ export const meta = {
   title: 'Roofing Systems and Materials: A Deep Dive for Insurance Claims',
   description:
     'Technical guide to roofing types — TPO, EPDM, metal, asphalt shingles, and wood shake — and the claim issues each creates. California Title 24 cool roof requirements, multiple layers, space decking conversions, and solar panel complications.',
+  summary:
+    'Different roof systems, TPO, EPDM, metal, asphalt, wood shake, each raise distinct claim issues, plus California Title 24 cool-roof rules, layer removal, decking, and solar complications. Knowing your roof type sharpens the scope and the dispute.',
 }
 
 export default function Content() {

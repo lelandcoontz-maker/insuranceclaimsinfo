@@ -5,6 +5,8 @@ export const meta = {
   title: 'Repair First or Negotiate First: The Strategic Dilemma at the Heart of Every Property Insurance Claim',
   description:
     'When should a policyholder complete repairs before reaching a settlement — and when should they refuse to lift a hammer until the carrier pays? A strategic framework for California property insurance claims.',
+  summary:
+    'Whether to repair before settling or refuse to start until the carrier pays depends on cash flow, the recoverable-depreciation deadline, and leverage. This framework helps you choose, since repairing first can prove cost while waiting can preserve negotiating power.',
 }
 
 export default function Content() {

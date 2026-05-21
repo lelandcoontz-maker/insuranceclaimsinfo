@@ -1916,43 +1916,53 @@
   },
   "real-negotiation-case-studies": {
     "title": "Real Insurance Claim Negotiation Case Studies: How the Back-and-Forth Actually Works",
-    "description": "Five anonymized real insurance claim negotiations showing the actual back-and-forth — opening offers, demand letters, adjuster responses, and the specific moves that changed outcomes."
+    "description": "Five anonymized real insurance claim negotiations showing the actual back-and-forth — opening offers, demand letters, adjuster responses, and the specific moves that changed outcomes.",
+    "summary": "Five anonymized real claim negotiations show the actual back-and-forth, opening offers, demand letters, adjuster responses, and the specific moves that shifted outcomes. They illustrate how documented, persistent negotiation beats accepting the first number."
   },
   "reasonable-expectations-doctrine": {
     "title": "The Doctrine of Reasonable Expectations in Insurance: What It Is and How California Applies It",
-    "description": "A deep dive into the doctrine of reasonable expectations in insurance law. Covers the origin of the doctrine, how California courts apply it as an interpretive tool, the difference between the strong and weak forms, and practical strategies for policyholders dealing with coverage disputes."
+    "description": "A deep dive into the doctrine of reasonable expectations in insurance law. Covers the origin of the doctrine, how California courts apply it as an interpretive tool, the difference between the strong and weak forms, and practical strategies for policyholders dealing with coverage disputes.",
+    "summary": "The doctrine of reasonable expectations interprets ambiguous policies to honor what a reasonable policyholder would expect to be covered. California applies it as an interpretive tool, especially where fine print would defeat the coverage a buyer reasonably believed they had."
   },
   "recorded-statement-preparation": {
     "title": "How to Prepare for a Recorded Statement or Examination Under Oath",
-    "description": "What to expect when your insurer requests a recorded statement or examination under oath, how to prepare, alternatives to consider, and when to involve an attorney."
+    "description": "What to expect when your insurer requests a recorded statement or examination under oath, how to prepare, alternatives to consider, and when to involve an attorney.",
+    "summary": "If your insurer requests a recorded statement or EUO, prepare carefully: know the facts, answer truthfully and narrowly, avoid speculation, and consider having an attorney for an EUO. These are tools the carrier can use to build a denial."
   },
   "recorded-statements-siu": {
     "title": "Recorded Statements and SIU Investigations: What California Policyholders Need to Know",
-    "description": "A comprehensive guide to recorded statements, Examinations Under Oath (EUOs), and Special Investigation Unit (SIU) referrals in California insurance claims. Covers the duty to cooperate, policyholder rights, SIU triggers, investigation timelines, and how to prepare."
+    "description": "A comprehensive guide to recorded statements, Examinations Under Oath (EUOs), and Special Investigation Unit (SIU) referrals in California insurance claims. Covers the duty to cooperate, policyholder rights, SIU triggers, investigation timelines, and how to prepare.",
+    "summary": "Recorded statements, EUOs, and SIU (fraud unit) referrals carry a duty to cooperate but also rights. Know what triggers an SIU referral, how to prepare, and that cooperation does not mean answering carelessly or without representation when stakes are high."
   },
   "recording-insurance-inspections": {
     "title": "Can You Record Insurance Company Inspectors? A California Guide",
-    "description": "California is a two-party consent state — but that doesn't mean you can't record the insurer's adjusters, engineers, and hygienists during a property inspection. Learn the law, the case law, and how to do it right."
+    "description": "California is a two-party consent state — but that doesn't mean you can't record the insurer's adjusters, engineers, and hygienists during a property inspection. Learn the law, the case law, and how to do it right.",
+    "summary": "California is a two-party consent state, but you can still record the insurer's adjusters and experts during a property inspection if you do it correctly, generally with notice and consent. Recording protects you against later disputes about what was said and seen."
   },
   "recoverable-depreciation-deadline": {
     "title": "Recoverable Depreciation Deadlines: The Trap That Costs Policyholders Thousands",
-    "description": "How the recoverable depreciation deadline works under California Insurance Code Section 2051.5, why carriers benefit when policyholders miss it, and how to protect yourself from losing the holdback. Covers the funding gap trap, clock triggers, extensions, completion requirements, contents vs. dwelling, and equitable defenses."
+    "description": "How the recoverable depreciation deadline works under California Insurance Code Section 2051.5, why carriers benefit when policyholders miss it, and how to protect yourself from losing the holdback. Covers the funding gap trap, clock triggers, extensions, completion requirements, contents vs. dwelling, and equitable defenses.",
+    "summary": "Under California Insurance Code 2051.5, depreciation held back from your payment is recoverable only if you complete repairs within the deadline. Missing it forfeits the holdback, so track the clock, request extensions when needed, and document completion."
   },
   "release-trap-insurance-claims": {
     "title": "The Release Trap: What You",
-    "description": "Understand what insurance claim releases actually do, why carriers push them aggressively, and how to protect yourself from signing away rights you didn"
+    "description": "Understand what insurance claim releases actually do, why carriers push them aggressively, and how to protect yourself from signing away rights you didn",
+    "summary": "A release signed during a claim can extinguish rights you did not mean to give up, including supplemental and bad-faith claims. Carriers push releases aggressively; read every release, narrow its scope, and never sign away unresolved parts of your claim."
   },
   "remediation-vs-restoration": {
     "title": "Remediation vs. Restoration: The Distinction Insurance Companies Exploit to Underpay Your Claim",
-    "description": "How carriers use the remediation-vs-restoration distinction to apply different coverage provisions, sub-limits, and exclusions to the same loss — and how proper cost allocation can save your claim thousands of dollars."
+    "description": "How carriers use the remediation-vs-restoration distinction to apply different coverage provisions, sub-limits, and exclusions to the same loss — and how proper cost allocation can save your claim thousands of dollars.",
+    "summary": "Carriers exploit the remediation-versus-restoration distinction to apply different sub-limits and exclusions to the same loss, often shifting costs into a capped category. Proper cost allocation between the two can recover thousands the carrier tried to shave."
   },
   "reopening-closed-claims": {
     "title": "Reopening a Closed Claim: Your Right to Supplement After Settlement",
-    "description": "Your insurance claim was closed, but new damage appeared during repairs or months later. Learn your right to reopen and supplement, how to document additional damage, whether a release bars reopening, statute of limitations considerations, and how to overcome carrier resistance."
+    "description": "Your insurance claim was closed, but new damage appeared during repairs or months later. Learn your right to reopen and supplement, how to document additional damage, whether a release bars reopening, statute of limitations considerations, and how to overcome carrier resistance.",
+    "summary": "A closed claim can usually be reopened and supplemented when new or hidden damage surfaces during repairs. Document the additional damage, check whether any release bars it, and watch the statute of limitations, carrier resistance is common but often beatable."
   },
   "repair-first-or-negotiate-first": {
     "title": "Repair First or Negotiate First: The Strategic Dilemma at the Heart of Every Property Insurance Claim",
-    "description": "When should a policyholder complete repairs before reaching a settlement — and when should they refuse to lift a hammer until the carrier pays? A strategic framework for California property insurance claims."
+    "description": "When should a policyholder complete repairs before reaching a settlement — and when should they refuse to lift a hammer until the carrier pays? A strategic framework for California property insurance claims.",
+    "summary": "Whether to repair before settling or refuse to start until the carrier pays depends on cash flow, the recoverable-depreciation deadline, and leverage. This framework helps you choose, since repairing first can prove cost while waiting can preserve negotiating power."
   },
   "replacement-cost-explained": {
     "title": "What 'Replacement Cost' Means and Why It Matters More Than You Think",
@@ -1961,59 +1971,73 @@
   },
   "replacement-cost-vs-guaranteed": {
     "title": "Replacement Cost vs. 100% Replacement Cost (Guaranteed, Extended, or Unlimited): The Difference That Could Cost You Hundreds of Thousands",
-    "description": "Standard replacement cost, extended replacement cost, and guaranteed (100% or unlimited) replacement cost are not the same thing. Learn how each one works, what California law requires, and why the distinction matters most after a disaster."
+    "description": "Standard replacement cost, extended replacement cost, and guaranteed (100% or unlimited) replacement cost are not the same thing. Learn how each one works, what California law requires, and why the distinction matters most after a disaster.",
+    "summary": "Standard, extended, and guaranteed (or unlimited) replacement cost are different: standard caps at your limit, extended adds a percentage cushion, and guaranteed pays the full rebuild cost. After a disaster with cost spikes, which one you have can mean hundreds of thousands."
   },
   "reservation-of-rights-letter": {
     "title": "The Reservation of Rights Letter: What It Means and What to Do",
-    "description": "A comprehensive guide to reservation of rights (ROR) letters in California insurance claims. Learn what an ROR letter means, how it differs from a denial, the duty to defend, Cumis counsel, waiver and estoppel, and what policyholders should do when they receive one."
+    "description": "A comprehensive guide to reservation of rights (ROR) letters in California insurance claims. Learn what an ROR letter means, how it differs from a denial, the duty to defend, Cumis counsel, waiver and estoppel, and what policyholders should do when they receive one.",
+    "summary": "A reservation of rights letter says the insurer will handle the claim while reserving the right to later deny coverage. It is not a denial. It can trigger a duty to defend and, in liability cases, your right to independent (Cumis) counsel; respond carefully."
   },
   "reservation-of-rights": {
     "title": "Reservation of Rights Letters: What They Mean and How to Respond",
-    "description": "What a reservation of rights letter means for your insurance claim, why carriers send them, how to respond, and when an ROR letter signals potential bad faith under California law."
+    "description": "What a reservation of rights letter means for your insurance claim, why carriers send them, how to respond, and when an ROR letter signals potential bad faith under California law.",
+    "summary": "A reservation of rights letter lets the carrier investigate while preserving the right to deny later. Know why they send it, how to respond, and that an improper or pretextual ROR can itself signal bad faith under California law."
   },
   "reserve-reinsurance-discovery": {
     "title": "Discovering Claim Reserves and Reinsurance Arrangements in Insurance Litigation",
-    "description": "How to obtain an insurer's internal claim reserves and reinsurance treaty information through discovery in California insurance litigation. Covers why reserves matter, privilege objections, case law on discoverability, and practical strategies for litigators."
+    "description": "How to obtain an insurer's internal claim reserves and reinsurance treaty information through discovery in California insurance litigation. Covers why reserves matter, privilege objections, case law on discoverability, and practical strategies for litigators.",
+    "summary": "An insurer's internal claim reserves and reinsurance arrangements can be discoverable in litigation and reveal what the carrier really thought a claim was worth. Expect privilege objections, but case law supports obtaining this telling evidence."
   },
   "reserves-and-authority": {
     "title": "Insurance Reserves and Adjuster Authority Levels: What Policyholders Should Know",
-    "description": "How insurance company reserves work, what adjuster authority levels mean for your claim, and why your claim may be reassigned to a different adjuster as damages increase."
+    "description": "How insurance company reserves work, what adjuster authority levels mean for your claim, and why your claim may be reassigned to a different adjuster as damages increase.",
+    "summary": "Insurers set internal reserves estimating a claim's cost, and each adjuster has a settlement authority limit. As your claimed damages rise past those limits, the file is reassigned upward, which explains adjuster changes and where real decision power sits."
   },
   "responding-to-insurer-in-writing": {
     "title": "How to Respond to Your Insurance Company in Writing: Tone, Strategy, and What Never to Say",
-    "description": "A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase "
+    "description": "A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase ",
+    "summary": "Written correspondence with your insurer is strategy: respond to ROR, cure, denial, and lowball letters in writing, state facts and requests clearly, and avoid careless phrasing. A calm, documented paper trail protects your rights and your claim."
   },
   "restaurant-insurance-claims": {
     "title": "Restaurant Insurance Claims: A Complete Guide to the Most Vulnerable Business in America",
-    "description": "Restaurants combine fire, spoilage, utility failure, health department closures, liquor liability, and business income exposures unlike any other business. Learn how each coverage works, where the gaps hide, and how to protect your restaurant before disaster strikes."
+    "description": "Restaurants combine fire, spoilage, utility failure, health department closures, liquor liability, and business income exposures unlike any other business. Learn how each coverage works, where the gaps hide, and how to protect your restaurant before disaster strikes.",
+    "summary": "Restaurants stack fire, spoilage, utility-failure, health-department-closure, liquor-liability, and business-income exposures like no other business. Knowing how each coverage works, and where the gaps hide, is essential to protecting a restaurant after a loss."
   },
   "retail-store-insurance-claims": {
     "title": "Retail Store Insurance Claims: Inventory Nightmares, Seasonal Exposure, and the Gaps That Sink Recoveries",
-    "description": "Retail stores face unique insurance challenges — from proving destroyed inventory to seasonal fluctuations, employee dishonesty gaps, and business income during buildout. A California public adjuster explains what retailers get wrong and how to protect your recovery."
+    "description": "Retail stores face unique insurance challenges — from proving destroyed inventory to seasonal fluctuations, employee dishonesty gaps, and business income during buildout. A California public adjuster explains what retailers get wrong and how to protect your recovery.",
+    "summary": "Retail claims hinge on proving destroyed inventory, handling seasonal value swings, employee-dishonesty gaps, and business income during build-out. Strong inventory records and the right coverage are what keep a retail recovery from falling short."
   },
   "retaining-wall-hillside-claims": {
     "title": "Retaining Wall and Hillside Damage Insurance Claims in California",
-    "description": "California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Coverage B limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim."
+    "description": "California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Coverage B limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim.",
+    "summary": "Retaining-wall and hillside failures spark complex disputes over the limited Coverage B, the earth-movement exclusion, and engineering causation. California's efficient proximate cause doctrine can restore coverage when a covered peril triggered the failure."
   },
   "reverse-mortgage-insurance-claims": {
     "title": "Reverse Mortgages and Insurance Claims: The Three-Way Trap That Can Cost You Your Home",
-    "description": "When a HECM reverse mortgage borrower suffers a property loss, the insurance claim becomes a three-way conflict between the homeowner, the insurer, and the reverse mortgage servicer. Learn how HECM insurance requirements work, what triggers a due-and-payable event, and how to protect yourself from foreclosure after a disaster."
+    "description": "When a HECM reverse mortgage borrower suffers a property loss, the insurance claim becomes a three-way conflict between the homeowner, the insurer, and the reverse mortgage servicer. Learn how HECM insurance requirements work, what triggers a due-and-payable event, and how to protect yourself from foreclosure after a disaster.",
+    "summary": "After a loss, a HECM reverse mortgage creates a three-way conflict among homeowner, insurer, and servicer over the proceeds, and a loss can trigger a due-and-payable event risking foreclosure. Understand the HECM rules to protect your home and your claim money."
   },
   "ricowi-hail-field-investigations": {
     "title": "RICOWI Field Investigations: What Hail Actually Does to Roofs",
-    "description": "The Roofing Industry Committee on Weather Issues sends expert teams to document real hail damage after major storms. Their findings often contradict carrier assessments."
+    "description": "The Roofing Industry Committee on Weather Issues sends expert teams to document real hail damage after major storms. Their findings often contradict carrier assessments.",
+    "summary": "RICOWI (Roofing Industry Committee on Weather Issues) sends expert teams to document real hail damage to roofs after major storms. Their field findings frequently contradict carrier assessments that minimize or deny hail damage."
   },
   "right-to-repair": {
     "title": "Right to Repair Clauses: Your Rights When the Carrier Sends Their Contractor",
-    "description": "Insurance companies increasingly use 'right to repair' clauses to control repairs. Learn your rights, how to manage the carrier's contractor, and when to push back."
+    "description": "Insurance companies increasingly use 'right to repair' clauses to control repairs. Learn your rights, how to manage the carrier's contractor, and when to push back.",
+    "summary": "A 'right to repair' clause lets the insurer elect to repair rather than pay, sending its own contractor. You can manage that contractor, hold the carrier responsible for a complete repair, and push back when the work or scope falls short."
   },
   "risk-scoring-insurance-pricing": {
     "title": "How Insurers Use Data and Algorithms to Price, Deny, and Non-Renew Your Coverage",
-    "description": "Insurance companies use algorithmic risk scoring, aerial imagery, CLUE reports, and predictive analytics to make decisions about your policy. Learn what data insurers collect, how it affects your claims, and what you can do about it."
+    "description": "Insurance companies use algorithmic risk scoring, aerial imagery, CLUE reports, and predictive analytics to make decisions about your policy. Learn what data insurers collect, how it affects your claims, and what you can do about it.",
+    "summary": "Insurers use algorithmic risk scores, aerial imagery, CLUE reports, and predictive analytics to price, deny, and non-renew policies, often opaquely. Know what data they collect, how it affects you, and your rights to review and dispute it."
   },
   "roof-damage": {
     "title": "Roof Damage Insurance Claims in California",
-    "description": "How to handle a roof damage insurance claim in California — common causes, what's covered, insurer inspections, matching disputes, and how to get the full settlement you're owed."
+    "description": "How to handle a roof damage insurance claim in California — common causes, what's covered, insurer inspections, matching disputes, and how to get the full settlement you're owed.",
+    "summary": "On a California roof claim, expect disputes over cause, matching, and whether a patch or full replacement is owed. Document the damage and storm, watch for cosmetic-damage and wear-and-tear denials, and insist on matching and code upgrades where required."
   },
   "roof-leak-storm-damage": {
     "title": "My Roof Is Leaking After a Storm — Will Insurance Pay?",
@@ -2022,75 +2046,93 @@
   },
   "roof-waste-factor": {
     "title": "Roof Waste Factor: How to Calculate It and Why Insurance Companies Get It Wrong",
-    "description": "Every roofing job generates waste from cuts around hips, valleys, ridges, vents, and penetrations. Learn how waste factor is calculated, how Xactimate handles it, and why carrier estimates routinely underpay for roofing materials."
+    "description": "Every roofing job generates waste from cuts around hips, valleys, ridges, vents, and penetrations. Learn how waste factor is calculated, how Xactimate handles it, and why carrier estimates routinely underpay for roofing materials.",
+    "summary": "Every roof job wastes material on cuts around hips, valleys, ridges, and penetrations, so estimates need an adequate waste factor. Carrier estimates routinely set it too low; know how Xactimate handles waste so you are paid for the materials actually needed."
   },
   "roofing-systems-claims": {
     "title": "Roofing Systems and Materials: A Deep Dive for Insurance Claims",
-    "description": "Technical guide to roofing types — TPO, EPDM, metal, asphalt shingles, and wood shake — and the claim issues each creates. California Title 24 cool roof requirements, multiple layers, space decking conversions, and solar panel complications."
+    "description": "Technical guide to roofing types — TPO, EPDM, metal, asphalt shingles, and wood shake — and the claim issues each creates. California Title 24 cool roof requirements, multiple layers, space decking conversions, and solar panel complications.",
+    "summary": "Different roof systems, TPO, EPDM, metal, asphalt, wood shake, each raise distinct claim issues, plus California Title 24 cool-roof rules, layer removal, decking, and solar complications. Knowing your roof type sharpens the scope and the dispute."
   },
   "rural-agricultural-property-claims": {
     "title": "Insurance Claims for Rural and Agricultural Properties: Livestock, Crops, Equipment, and Coverage Gaps",
-    "description": "Rural and agricultural property claims involve livestock mortality, crop damage, farm equipment on inland marine policies, outbuilding coverage gaps, and well and septic losses that standard homeowner guidance ignores."
+    "description": "Rural and agricultural property claims involve livestock mortality, crop damage, farm equipment on inland marine policies, outbuilding coverage gaps, and well and septic losses that standard homeowner guidance ignores.",
+    "summary": "Rural and farm claims involve livestock mortality, crop damage, equipment on inland marine policies, outbuilding gaps, and well and septic losses that standard homeowner advice ignores. These properties need coverage matched to their unique exposures."
   },
   "salon-spa-insurance-claims": {
     "title": "Salon and Spa Insurance Claims: Chemical Exposure, Professional Liability, and Equipment Worth More Than the Buildout",
-    "description": "Salons and spas face insurance exposures most business owners never anticipate: the pollution exclusion applied to everyday chemicals, professional liability for treatments gone wrong, laser equipment worth $150K each, and the booth rental insurance gap. Learn how to navigate these claims."
+    "description": "Salons and spas face insurance exposures most business owners never anticipate: the pollution exclusion applied to everyday chemicals, professional liability for treatments gone wrong, laser equipment worth $150K each, and the booth rental insurance gap. Learn how to navigate these claims.",
+    "summary": "Salons and spas face unexpected exposures: the pollution exclusion applied to everyday chemicals, professional liability for treatments, costly laser equipment, and the booth-rental insurance gap. Confirm coverage addresses these before a loss."
   },
   "salvage-rights": {
     "title": "Salvage Rights in Property Insurance: Who Owns Damaged Property After a Claim?",
-    "description": "How salvage works in property insurance claims &mdash; who owns damaged property after a loss, how salvage value affects your settlement, the right to retain salvage, and California-specific rules policyholders need to know."
+    "description": "How salvage works in property insurance claims &mdash; who owns damaged property after a loss, how salvage value affects your settlement, the right to retain salvage, and California-specific rules policyholders need to know.",
+    "summary": "Salvage concerns who owns damaged property after a claim is paid and how its salvage value affects your settlement. You often have the right to retain salvage; know the California rules so the carrier does not both pay less and keep your property."
   },
   "sb49-contents-rule": {
     "title": "SB 495: California's New Contents Payment Rule for Disaster Victims",
-    "description": "How SB 495 changes personal property claims after declared disasters — automatic 60% contents payments, no inventory required for 100 days, and what it means for policyholders."
+    "description": "How SB 495 changes personal property claims after declared disasters — automatic 60% contents payments, no inventory required for 100 days, and what it means for policyholders.",
+    "summary": "SB 495 changes contents claims after declared disasters: insurers must pay a substantial automatic percentage of contents (around 60%) without requiring an itemized inventory for a set period. It speeds recovery for disaster victims; use it."
   },
   "scheduled-personal-property": {
     "title": "Scheduled Personal Property, Floaters & Exotic Item Coverage",
-    "description": "How to schedule high-value items on your insurance policy, what personal articles floaters cover, and how to insure exotic items like racehorses, collector cars, fine art, and appreciating collectibles."
+    "description": "How to schedule high-value items on your insurance policy, what personal articles floaters cover, and how to insure exotic items like racehorses, collector cars, fine art, and appreciating collectibles.",
+    "summary": "Scheduling lists high-value items, jewelry, art, collectibles, on a floater for full agreed valuation beyond the blanket sub-limits. Exotic items like collector cars or fine art usually need scheduling to be fully protected."
   },
   "scope-of-loss": {
     "title": "Scope of Loss Disputes: When the Adjuster Misses Damage",
-    "description": "Understanding scope of loss disputes with insurers — what they are, why carriers undercount damage, how to document items the adjuster missed, and strategies for challenging an inadequate repair estimate."
+    "description": "Understanding scope of loss disputes with insurers — what they are, why carriers undercount damage, how to document items the adjuster missed, and strategies for challenging an inadequate repair estimate.",
+    "summary": "A scope-of-loss dispute is about what damage exists, not its price. Adjusters routinely undercount, so document every missed item with photos and measurements and present the full scope to challenge an inadequate estimate."
   },
   "scope-vs-price-disputes": {
     "title": "Scope vs. Price: The Two Disputes Your Insurance Company Hopes You'll Confuse",
-    "description": "Scope disputes and price disputes are fundamentally different arguments with different resolution paths. Learn to identify which one you have — and why your insurance company benefits when you confuse them."
+    "description": "Scope disputes and price disputes are fundamentally different arguments with different resolution paths. Learn to identify which one you have — and why your insurance company benefits when you confuse them.",
+    "summary": "A scope dispute is about what needs repair; a price dispute is about the cost of agreed work. They have different resolution paths, and carriers benefit when you confuse them, so identify which fight you are in before you argue."
   },
   "scoping-the-loss": {
     "title": "Scoping the Loss: A Field Manual for Property Claims Inspection",
-    "description": "A hands-on field manual for conducting property inspections on insurance claims \\u2014 required tools, measuring techniques, thermal imaging, moisture meters, material identification, and a step-by-step inspection protocol. By Leland Coontz III, Licensed Public Adjuster."
+    "description": "A hands-on field manual for conducting property inspections on insurance claims \\u2014 required tools, measuring techniques, thermal imaging, moisture meters, material identification, and a step-by-step inspection protocol. By Leland Coontz III, Licensed Public Adjuster.",
+    "summary": "Scoping a loss is the hands-on inspection that builds the claim: measuring, thermal imaging, moisture metering, and identifying materials with the right tools and a systematic protocol. A thorough scope is the foundation of full payment."
   },
   "selective-op-denial": {
     "title": "Selective O&P Denial: When Carriers Pay It on Some Trades But Not Others",
-    "description": "Insurance companies routinely apply overhead and profit to some portions of a claim while excluding others — denying it on roofing, mitigation, or contents. This all-or-nothing issue cost Allstate $335,000 on a $33,000 dispute. The case law, the Xactimate mechanics, and how to fight back."
+    "description": "Insurance companies routinely apply overhead and profit to some portions of a claim while excluding others — denying it on roofing, mitigation, or contents. This all-or-nothing issue cost Allstate $335,000 on a $33,000 dispute. The case law, the Xactimate mechanics, and how to fight back.",
+    "summary": "Carriers often pay overhead and profit on some trades but deny it on others, like roofing or mitigation, an all-or-nothing issue courts have rejected. If a GC is needed for the project, O&P generally applies across the work, not selectively."
   },
   "self-storage-facility-insurance-claims": {
     "title": "Self-Storage Facility Insurance Claims: Thousands of Customers, Unknown Contents, and the Documentation Nightmare",
-    "description": "Self-storage facilities face unique insurance challenges from bailee coverage for thousands of customers"
+    "description": "Self-storage facilities face unique insurance challenges from bailee coverage for thousands of customers",
+    "summary": "Self-storage operators face bailee exposure for thousands of customers' unknown contents, plus a documentation nightmare proving what was stored. Understanding bailee coverage and tenant insurance requirements is key to handling these claims."
   },
   "selling-property-pending-claim": {
     "title": "Selling a Property With a Pending Insurance Claim",
-    "description": "Can you sell a home while an insurance claim is open? Yes, but the complications are significant. Learn how to protect claim proceeds, handle assignments, navigate mortgage payoffs, and avoid common pitfalls when real estate transactions and insurance claims collide."
+    "description": "Can you sell a home while an insurance claim is open? Yes, but the complications are significant. Learn how to protect claim proceeds, handle assignments, navigate mortgage payoffs, and avoid common pitfalls when real estate transactions and insurance claims collide.",
+    "summary": "You can sell a home with an open claim, but it complicates proceeds, assignments, and the mortgage payoff. Clarify in the sale who keeps the claim and how proceeds transfer, to avoid losing money in the handoff."
   },
   "septic-system-coverage": {
     "title": "Does Homeowner Insurance Cover Septic System Failures? What You Need to Know",
-    "description": "Septic system failures are expensive and rarely covered by standard homeowner policies. Learn what is excluded, what may be covered under specific perils, and how to close dangerous coverage gaps."
+    "description": "Septic system failures are expensive and rarely covered by standard homeowner policies. Learn what is excluded, what may be covered under specific perils, and how to close dangerous coverage gaps.",
+    "summary": "Standard homeowner policies rarely cover septic-system failures, treating them as wear, maintenance, or excluded. Some sudden-event damage may qualify, and endorsements or service-line coverage can close this expensive gap."
   },
   "service-line-coverage": {
     "title": "Service Line Coverage: Protecting the Underground Infrastructure Your Standard Policy Ignores",
-    "description": "What service line coverage is, why standard homeowners policies exclude underground utility lines, what endorsements cover, typical costs, common claims, and how to add this valuable protection to your policy."
+    "description": "What service line coverage is, why standard homeowners policies exclude underground utility lines, what endorsements cover, typical costs, common claims, and how to add this valuable protection to your policy.",
+    "summary": "Standard policies exclude damage to the underground utility lines you own, water, sewer, power, leaving you to pay for failures. A service line endorsement covers repair and related costs cheaply and is well worth adding."
   },
   "settlement-as-leverage": {
     "title": "When Settlement Becomes Leverage: The Conditional Offer Tactic",
-    "description": "How insurers use settlement offers as leverage — conditioning payment on broad releases that extinguish supplemental claims and bad faith rights."
+    "description": "How insurers use settlement offers as leverage — conditioning payment on broad releases that extinguish supplemental claims and bad faith rights.",
+    "summary": "Insurers use settlement offers as leverage, conditioning payment on broad releases that quietly extinguish supplemental and bad-faith claims. Scrutinize any release tied to a payment, and refuse language that signs away rights beyond the amount being paid."
   },
   "sewage-contamination-mitigation-failure": {
     "title": "When the Insurance Company's Mitigation Contractor Makes Everything Worse",
-    "description": "A real case study: how a mitigation contractor's failure to remove sewage-contaminated carpet under a cabinet led to whole-home contamination, the total loss of all personal property, and a fight over temporary housing."
+    "description": "A real case study: how a mitigation contractor's failure to remove sewage-contaminated carpet under a cabinet led to whole-home contamination, the total loss of all personal property, and a fight over temporary housing.",
+    "summary": "A real case study: a mitigation contractor's failure to remove sewage-contaminated carpet under a cabinet spread Category 3 contamination through the whole home, causing total contents loss and a housing fight, showing how botched mitigation multiplies a loss."
   },
   "short-term-rental-coverage": {
     "title": "Short-Term Rental and Airbnb Insurance Coverage Gaps: What Your Homeowner Policy Does Not Cover",
-    "description": "Standard homeowner policies were not designed for short-term rentals. Learn how business-use exclusions, Airbnb host guarantees, and undisclosed STR activity create coverage gaps that can leave you uninsured when a guest causes damage or gets injured."
+    "description": "Standard homeowner policies were not designed for short-term rentals. Learn how business-use exclusions, Airbnb host guarantees, and undisclosed STR activity create coverage gaps that can leave you uninsured when a guest causes damage or gets injured.",
+    "summary": "Standard homeowner policies were not built for Airbnb-style rentals and often exclude business use, leaving gaps when a guest is hurt or causes damage. Host guarantees are limited; disclose STR activity and get proper coverage to avoid being uninsured."
   },
   "should-i-file-a-claim": {
     "title": "Should I File a Claim? How to Decide",
@@ -2099,15 +2141,18 @@
   },
   "signs-you-are-underinsured": {
     "title": "Nine Warning Signs That Your Home Is Underinsured",
-    "description": "Approximately two-thirds of American homes are underinsured. Here are nine warning signs that your dwelling coverage, personal property limits, or ALE coverage may fall short when you need them most."
+    "description": "Approximately two-thirds of American homes are underinsured. Here are nine warning signs that your dwelling coverage, personal property limits, or ALE coverage may fall short when you need them most.",
+    "summary": "About two-thirds of homes are underinsured. Warning signs include a dwelling limit below current rebuild cost, low personal-property and ALE limits, no extended replacement cost, and outdated coverage, gaps that surface at the worst time. Check yours now."
   },
   "silent-cyber-property-insurance": {
     "title": "Silent Cyber in Property Insurance: The Coverage Gap Your Policy Does Not Address",
-    "description": "Silent cyber refers to cyber risks that are neither explicitly covered nor explicitly excluded by traditional property policies. Learn how this coverage gap affects property claims, what the industry is doing about it, and how to protect yourself."
+    "description": "Silent cyber refers to cyber risks that are neither explicitly covered nor explicitly excluded by traditional property policies. Learn how this coverage gap affects property claims, what the industry is doing about it, and how to protect yourself.",
+    "summary": "Silent cyber refers to cyber risks a traditional property policy neither clearly covers nor clearly excludes, creating uncertainty at claim time. Insurers are clarifying their forms; understand the gap and consider dedicated cyber coverage."
   },
   "silica-contamination": {
     "title": "Silica Contamination in Property Insurance Claims: What You Need to Know",
-    "description": "Crystalline silica exposure during property damage repairs is a serious OSHA-regulated hazard. Learn what silica is, why it matters for your insurance claim, and what remediation your insurer should be paying for."
+    "description": "Crystalline silica exposure during property damage repairs is a serious OSHA-regulated hazard. Learn what silica is, why it matters for your insurance claim, and what remediation your insurer should be paying for.",
+    "summary": "Crystalline silica released when cutting concrete, tile, or masonry during repairs is an OSHA-regulated hazard requiring controlled handling. Your insurer should pay for proper silica remediation and safe work practices as part of the covered repair."
   },
   "siu-referral-investigation": {
     "title": "When Your Claim Is ",

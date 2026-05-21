@@ -5,6 +5,8 @@ export const meta = {
   title: 'Roof Waste Factor: How to Calculate It and Why Insurance Companies Get It Wrong',
   description:
     'Every roofing job generates waste from cuts around hips, valleys, ridges, vents, and penetrations. Learn how waste factor is calculated, how Xactimate handles it, and why carrier estimates routinely underpay for roofing materials.',
+  summary:
+    'Every roof job wastes material on cuts around hips, valleys, ridges, and penetrations, so estimates need an adequate waste factor. Carrier estimates routinely set it too low; know how Xactimate handles waste so you are paid for the materials actually needed.',
 }
 
 export default function Content() {

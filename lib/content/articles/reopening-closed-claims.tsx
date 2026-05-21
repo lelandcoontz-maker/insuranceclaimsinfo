@@ -4,6 +4,8 @@ export const meta = {
   title: 'Reopening a Closed Claim: Your Right to Supplement After Settlement',
   description:
     'Your insurance claim was closed, but new damage appeared during repairs or months later. Learn your right to reopen and supplement, how to document additional damage, whether a release bars reopening, statute of limitations considerations, and how to overcome carrier resistance.',
+  summary:
+    'A closed claim can usually be reopened and supplemented when new or hidden damage surfaces during repairs. Document the additional damage, check whether any release bars it, and watch the statute of limitations, carrier resistance is common but often beatable.',
 }
 
 export default function Content() {

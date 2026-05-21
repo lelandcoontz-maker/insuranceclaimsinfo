@@ -5,6 +5,8 @@ export const meta = {
   title: 'How Insurers Use Data and Algorithms to Price, Deny, and Non-Renew Your Coverage',
   description:
     'Insurance companies use algorithmic risk scoring, aerial imagery, CLUE reports, and predictive analytics to make decisions about your policy. Learn what data insurers collect, how it affects your claims, and what you can do about it.',
+  summary:
+    'Insurers use algorithmic risk scores, aerial imagery, CLUE reports, and predictive analytics to price, deny, and non-renew policies, often opaquely. Know what data they collect, how it affects you, and your rights to review and dispute it.',
 }
 
 export default function Content() {

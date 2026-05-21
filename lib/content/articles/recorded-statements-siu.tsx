@@ -5,6 +5,8 @@ export const meta = {
   title: 'Recorded Statements and SIU Investigations: What California Policyholders Need to Know',
   description:
     'A comprehensive guide to recorded statements, Examinations Under Oath (EUOs), and Special Investigation Unit (SIU) referrals in California insurance claims. Covers the duty to cooperate, policyholder rights, SIU triggers, investigation timelines, and how to prepare.',
+  summary:
+    'Recorded statements, EUOs, and SIU (fraud unit) referrals carry a duty to cooperate but also rights. Know what triggers an SIU referral, how to prepare, and that cooperation does not mean answering carelessly or without representation when stakes are high.',
 }
 
 export default function Content() {

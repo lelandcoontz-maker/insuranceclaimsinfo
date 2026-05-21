@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Reserves and Adjuster Authority Levels: What Policyholders Should Know',
   description:
     'How insurance company reserves work, what adjuster authority levels mean for your claim, and why your claim may be reassigned to a different adjuster as damages increase.',
+  summary:
+    'Insurers set internal reserves estimating a claim\'s cost, and each adjuster has a settlement authority limit. As your claimed damages rise past those limits, the file is reassigned upward, which explains adjuster changes and where real decision power sits.',
 }
 
 export default function Content() {

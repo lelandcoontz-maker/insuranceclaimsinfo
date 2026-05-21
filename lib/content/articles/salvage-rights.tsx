@@ -5,6 +5,8 @@ export const meta = {
   title: 'Salvage Rights in Property Insurance: Who Owns Damaged Property After a Claim?',
   description:
     'How salvage works in property insurance claims &mdash; who owns damaged property after a loss, how salvage value affects your settlement, the right to retain salvage, and California-specific rules policyholders need to know.',
+  summary:
+    'Salvage concerns who owns damaged property after a claim is paid and how its salvage value affects your settlement. You often have the right to retain salvage; know the California rules so the carrier does not both pay less and keep your property.',
 }
 
 export default function Content() {

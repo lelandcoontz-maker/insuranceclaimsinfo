@@ -5,6 +5,8 @@ export const meta = {
   title: 'Selling a Property With a Pending Insurance Claim',
   description:
     'Can you sell a home while an insurance claim is open? Yes, but the complications are significant. Learn how to protect claim proceeds, handle assignments, navigate mortgage payoffs, and avoid common pitfalls when real estate transactions and insurance claims collide.',
+  summary:
+    'You can sell a home with an open claim, but it complicates proceeds, assignments, and the mortgage payoff. Clarify in the sale who keeps the claim and how proceeds transfer, to avoid losing money in the handoff.',
 }
 
 export default function Content() {

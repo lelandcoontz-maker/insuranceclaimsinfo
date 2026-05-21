@@ -6,6 +6,8 @@ export const meta = {
   title: "How to Prepare for a Recorded Statement or Examination Under Oath",
   description:
     "What to expect when your insurer requests a recorded statement or examination under oath, how to prepare, alternatives to consider, and when to involve an attorney.",
+  summary:
+    'If your insurer requests a recorded statement or EUO, prepare carefully: know the facts, answer truthfully and narrowly, avoid speculation, and consider having an attorney for an EUO. These are tools the carrier can use to build a denial.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Reservation of Rights Letters: What They Mean and How to Respond',
   description:
     'What a reservation of rights letter means for your insurance claim, why carriers send them, how to respond, and when an ROR letter signals potential bad faith under California law.',
+  summary:
+    'A reservation of rights letter lets the carrier investigate while preserving the right to deny later. Know why they send it, how to respond, and that an improper or pretextual ROR can itself signal bad faith under California law.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'When the Insurance Company\'s Mitigation Contractor Makes Everything Worse',
   description:
     'A real case study: how a mitigation contractor\'s failure to remove sewage-contaminated carpet under a cabinet led to whole-home contamination, the total loss of all personal property, and a fight over temporary housing.',
+  summary:
+    'A real case study: a mitigation contractor\'s failure to remove sewage-contaminated carpet under a cabinet spread Category 3 contamination through the whole home, causing total contents loss and a housing fight, showing how botched mitigation multiplies a loss.',
 }
 
 export default function Content() {

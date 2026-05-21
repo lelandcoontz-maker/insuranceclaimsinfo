@@ -5,6 +5,8 @@ export const meta = {
   title: 'Can You Record Insurance Company Inspectors? A California Guide',
   description:
     'California is a two-party consent state — but that doesn\'t mean you can\'t record the insurer\'s adjusters, engineers, and hygienists during a property inspection. Learn the law, the case law, and how to do it right.',
+  summary:
+    'California is a two-party consent state, but you can still record the insurer\'s adjusters and experts during a property inspection if you do it correctly, generally with notice and consent. Recording protects you against later disputes about what was said and seen.',
 }
 
 export default function Content() {

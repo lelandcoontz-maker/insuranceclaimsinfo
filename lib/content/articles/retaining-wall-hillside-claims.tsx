@@ -5,6 +5,8 @@ export const meta = {
   title: 'Retaining Wall and Hillside Damage Insurance Claims in California',
   description:
     'California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Coverage B limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim.',
+  summary:
+    'Retaining-wall and hillside failures spark complex disputes over the limited Coverage B, the earth-movement exclusion, and engineering causation. California\'s efficient proximate cause doctrine can restore coverage when a covered peril triggered the failure.',
 }
 
 export default function Content() {

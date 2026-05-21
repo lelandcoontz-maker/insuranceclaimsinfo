@@ -4,6 +4,8 @@ export const meta = {
   title: 'RICOWI Field Investigations: What Hail Actually Does to Roofs',
   description:
     'The Roofing Industry Committee on Weather Issues sends expert teams to document real hail damage after major storms. Their findings often contradict carrier assessments.',
+  summary:
+    'RICOWI (Roofing Industry Committee on Weather Issues) sends expert teams to document real hail damage to roofs after major storms. Their field findings frequently contradict carrier assessments that minimize or deny hail damage.',
 }
 
 export default function Content() {

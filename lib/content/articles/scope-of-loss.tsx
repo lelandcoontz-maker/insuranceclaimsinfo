@@ -5,6 +5,8 @@ export const meta = {
   title: 'Scope of Loss Disputes: When the Adjuster Misses Damage',
   description:
     'Understanding scope of loss disputes with insurers — what they are, why carriers undercount damage, how to document items the adjuster missed, and strategies for challenging an inadequate repair estimate.',
+  summary:
+    'A scope-of-loss dispute is about what damage exists, not its price. Adjusters routinely undercount, so document every missed item with photos and measurements and present the full scope to challenge an inadequate estimate.',
 }
 
 export default function Content() {

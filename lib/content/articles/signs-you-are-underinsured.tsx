@@ -5,6 +5,8 @@ export const meta = {
   title: 'Nine Warning Signs That Your Home Is Underinsured',
   description:
     'Approximately two-thirds of American homes are underinsured. Here are nine warning signs that your dwelling coverage, personal property limits, or ALE coverage may fall short when you need them most.',
+  summary:
+    'About two-thirds of homes are underinsured. Warning signs include a dwelling limit below current rebuild cost, low personal-property and ALE limits, no extended replacement cost, and outdated coverage, gaps that surface at the worst time. Check yours now.',
 }
 
 export default function Content() {

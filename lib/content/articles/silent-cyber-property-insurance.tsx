@@ -5,6 +5,8 @@ export const meta = {
   title: 'Silent Cyber in Property Insurance: The Coverage Gap Your Policy Does Not Address',
   description:
     'Silent cyber refers to cyber risks that are neither explicitly covered nor explicitly excluded by traditional property policies. Learn how this coverage gap affects property claims, what the industry is doing about it, and how to protect yourself.',
+  summary:
+    'Silent cyber refers to cyber risks a traditional property policy neither clearly covers nor clearly excludes, creating uncertainty at claim time. Insurers are clarifying their forms; understand the gap and consider dedicated cyber coverage.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: "The Release Trap: What You're Really Signing When the Insurance Company Sends a Check",
   description:
     "Understand what insurance claim releases actually do, why carriers push them aggressively, and how to protect yourself from signing away rights you didn't know you had.",
+  summary:
+    'A release signed during a claim can extinguish rights you did not mean to give up, including supplemental and bad-faith claims. Carriers push releases aggressively; read every release, narrow its scope, and never sign away unresolved parts of your claim.',
 }
 
 export default function Content() {

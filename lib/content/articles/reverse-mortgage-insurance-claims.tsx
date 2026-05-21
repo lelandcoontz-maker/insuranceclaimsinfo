@@ -6,6 +6,8 @@ export const meta = {
     'Reverse Mortgages and Insurance Claims: The Three-Way Trap That Can Cost You Your Home',
   description:
     'When a HECM reverse mortgage borrower suffers a property loss, the insurance claim becomes a three-way conflict between the homeowner, the insurer, and the reverse mortgage servicer. Learn how HECM insurance requirements work, what triggers a due-and-payable event, and how to protect yourself from foreclosure after a disaster.',
+  summary:
+    'After a loss, a HECM reverse mortgage creates a three-way conflict among homeowner, insurer, and servicer over the proceeds, and a loss can trigger a due-and-payable event risking foreclosure. Understand the HECM rules to protect your home and your claim money.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'When Settlement Becomes Leverage: The Conditional Offer Tactic',
   description:
     'How insurers use settlement offers as leverage — conditioning payment on broad releases that extinguish supplemental claims and bad faith rights.',
+  summary:
+    'Insurers use settlement offers as leverage, conditioning payment on broad releases that quietly extinguish supplemental and bad-faith claims. Scrutinize any release tied to a payment, and refuse language that signs away rights beyond the amount being paid.',
 }
 
 export default function Content() {

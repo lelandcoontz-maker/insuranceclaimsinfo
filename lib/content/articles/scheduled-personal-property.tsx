@@ -5,6 +5,8 @@ export const meta = {
   title: 'Scheduled Personal Property, Floaters & Exotic Item Coverage',
   description:
     'How to schedule high-value items on your insurance policy, what personal articles floaters cover, and how to insure exotic items like racehorses, collector cars, fine art, and appreciating collectibles.',
+  summary:
+    'Scheduling lists high-value items, jewelry, art, collectibles, on a floater for full agreed valuation beyond the blanket sub-limits. Exotic items like collector cars or fine art usually need scheduling to be fully protected.',
 }
 
 export default function Content() {

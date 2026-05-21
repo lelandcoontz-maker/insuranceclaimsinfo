@@ -5,6 +5,8 @@ export const meta = {
   title: 'Short-Term Rental and Airbnb Insurance Coverage Gaps: What Your Homeowner Policy Does Not Cover',
   description:
     'Standard homeowner policies were not designed for short-term rentals. Learn how business-use exclusions, Airbnb host guarantees, and undisclosed STR activity create coverage gaps that can leave you uninsured when a guest causes damage or gets injured.',
+  summary:
+    'Standard homeowner policies were not built for Airbnb-style rentals and often exclude business use, leaving gaps when a guest is hurt or causes damage. Host guarantees are limited; disclose STR activity and get proper coverage to avoid being uninsured.',
 }
 
 export default function Content() {

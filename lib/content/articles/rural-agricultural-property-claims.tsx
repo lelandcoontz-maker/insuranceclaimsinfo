@@ -6,6 +6,8 @@ export const meta = {
   title: 'Insurance Claims for Rural and Agricultural Properties: Livestock, Crops, Equipment, and Coverage Gaps',
   description:
     'Rural and agricultural property claims involve livestock mortality, crop damage, farm equipment on inland marine policies, outbuilding coverage gaps, and well and septic losses that standard homeowner guidance ignores.',
+  summary:
+    'Rural and farm claims involve livestock mortality, crop damage, equipment on inland marine policies, outbuilding gaps, and well and septic losses that standard homeowner advice ignores. These properties need coverage matched to their unique exposures.',
 }
 
 export default function Content() {

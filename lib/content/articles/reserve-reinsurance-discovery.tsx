@@ -5,6 +5,8 @@ export const meta = {
   title: 'Discovering Claim Reserves and Reinsurance Arrangements in Insurance Litigation',
   description:
     'How to obtain an insurer\'s internal claim reserves and reinsurance treaty information through discovery in California insurance litigation. Covers why reserves matter, privilege objections, case law on discoverability, and practical strategies for litigators.',
+  summary:
+    'An insurer\'s internal claim reserves and reinsurance arrangements can be discoverable in litigation and reveal what the carrier really thought a claim was worth. Expect privilege objections, but case law supports obtaining this telling evidence.',
 }
 
 export default function Content() {

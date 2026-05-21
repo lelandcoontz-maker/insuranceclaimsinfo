@@ -5,6 +5,8 @@ export const meta = {
   title: 'Replacement Cost vs. 100% Replacement Cost (Guaranteed, Extended, or Unlimited): The Difference That Could Cost You Hundreds of Thousands',
   description:
     'Standard replacement cost, extended replacement cost, and guaranteed (100% or unlimited) replacement cost are not the same thing. Learn how each one works, what California law requires, and why the distinction matters most after a disaster.',
+  summary:
+    'Standard, extended, and guaranteed (or unlimited) replacement cost are different: standard caps at your limit, extended adds a percentage cushion, and guaranteed pays the full rebuild cost. After a disaster with cost spikes, which one you have can mean hundreds of thousands.',
 }
 
 export default function Content() {
