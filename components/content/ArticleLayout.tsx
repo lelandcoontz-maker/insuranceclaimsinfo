@@ -3,6 +3,7 @@ import { Breadcrumbs } from './Breadcrumbs'
 import { KeyTakeaway } from './KeyTakeaway'
 import { ScrollCta } from './ScrollCta'
 import { AuthorByline } from './AuthorByline'
+import { InlineLeadForm } from './InlineLeadForm'
 
 interface TocItem {
   id: string
@@ -152,9 +153,7 @@ export function ArticleLayout({ title, description, summary, backLink, breadcrum
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-2xl font-bold text-[#1F3964] mb-3">{cta.heading}</h2>
           <p className="text-gray-600 mb-6">{cta.body}</p>
-          <Link href="/contact" className="btn-gold">
-            {cta.button}
-          </Link>
+          <InlineLeadForm ctaVariant={ctaVariant} buttonLabel={cta.button} />
         </div>
       </div>
     </>
