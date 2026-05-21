@@ -5,6 +5,8 @@ export const meta = {
   title: 'Hail Damage Insurance Claims',
   description:
     'How to handle a hail damage claim — from documenting the damage to fighting for matching and full replacement when the carrier wants to patch.',
+  summary:
+    'On a hail claim, document the damage thoroughly and fight for full replacement and matching when the carrier wants to patch. Insurers often understate hail damage or call it cosmetic, so independent inspection and clear photos matter.',
 }
 
 export default function Content() {

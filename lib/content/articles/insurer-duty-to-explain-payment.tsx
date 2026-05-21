@@ -5,6 +5,8 @@ export const meta = {
   title: "Your Right to Know How Your Claim Was Calculated: The Insurer's Duty to Explain Every Payment",
   description:
     "California law requires your insurance company to explain the basis of every payment and share the documents it relied on. Most policyholders never exercise these rights. Here is how to use them.",
+  summary:
+    'California law requires your insurer to explain the basis of every payment and share the documents it relied on. Most policyholders never ask; demanding this explanation reveals how the number was built and where it falls short.',
 }
 
 export default function Content() {

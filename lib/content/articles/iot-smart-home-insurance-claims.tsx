@@ -5,6 +5,8 @@ export const meta = {
   title: 'Smart Home Devices and Insurance Claims: When Your Home Monitors Both Help and Hurt You',
   description:
     'How smart home sensors and IoT devices affect insurance claims — from leak detection and premium discounts to the risks of insurer access to your data. Covers data ownership, usage-based homeowners insurance, and how to use smart home evidence in your favor.',
+  summary:
+    'Smart-home sensors can help your claim (proving a leak\'s timing) and earn premium discounts, but they also give insurers access to your data, which can cut both ways. Understand data ownership and use the evidence to your advantage.',
 }
 
 export default function Content() {

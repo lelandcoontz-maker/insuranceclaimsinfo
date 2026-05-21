@@ -5,6 +5,8 @@ export const meta = {
   title: 'Flood Insurance: NFIP vs. Private Flood Insurance',
   description:
     'NFIP and private flood insurance use similar policy forms but operate under completely different legal systems. Learn the critical differences in consumer protections, proof of loss rules, bad faith remedies, and claims handling that most adjusters and attorneys get wrong.',
+  summary:
+    'NFIP and private flood policies look similar but operate under different legal systems, with very different consumer protections, proof-of-loss rules, and bad-faith remedies. The distinction matters greatly if a claim is disputed.',
 }
 
 export default function Content() {

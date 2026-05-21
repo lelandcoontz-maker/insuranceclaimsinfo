@@ -5,6 +5,8 @@ export const meta = {
   title: "Insurance Myths Exposed: What Your Adjuster Won't Correct and What You Believe That Isn't True",
   description:
     "Common property insurance myths debunked with California case law, statutes, and regulations. From carrier misinformation to policyholder misunderstandings — what the law actually says.",
+  summary:
+    'Many common beliefs about property insurance are wrong. This guide corrects frequent myths, from both carriers and policyholders, using California statutes, regulations, and case law to show what the law actually requires.',
 }
 
 export default function Content() {

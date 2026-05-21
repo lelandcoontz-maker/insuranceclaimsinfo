@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Challenge an Xactimate Estimate: A Step-by-Step Guide',
   description:
     'A practical guide for policyholders, public adjusters, and attorneys on identifying errors in an insurance carrier\'s Xactimate estimate and building an effective challenge.',
+  summary:
+    'To challenge a carrier\'s Xactimate estimate, compare it line by line against the actual scope, flag missing items, low quantities, wrong depreciation, and omitted overhead and profit, and document each correction. Build the challenge on specifics, not generalities.',
 }
 
 export default function Content() {

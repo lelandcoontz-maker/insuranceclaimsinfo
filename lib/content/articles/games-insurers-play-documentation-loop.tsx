@@ -5,6 +5,8 @@ export const meta = {
   title: "Games Insurers Play: The ‘We Need More Documentation’ Endless Loop",
   description:
     "How insurance companies use endless documentation requests as a delay tactic — requesting the same information repeatedly, asking for items one at a time, and wearing you down until you accept less.",
+  summary:
+    'Insurers use endless documentation requests as a delay tactic, asking for the same items repeatedly and one at a time to wear you down. Track every request and submission in writing, and recognize the loop for the pressure tactic it is.',
 }
 
 export default function Content() {

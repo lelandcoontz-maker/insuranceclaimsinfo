@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Code 790.03 and the 790 Letter: How to Put Your Insurer on Notice',
   description:
     'California Insurance Code 790.03 defines unfair claims settlement practices. Learn what the statute prohibits, how to write a 790 letter putting your insurer on formal notice, and why this letter changes the dynamic of your claim.',
+  summary:
+    'California Insurance Code 790.03 lists unfair claims settlement practices. A \'790 letter\' formally puts your insurer on notice that it is violating the statute, which can shift the dynamic of your claim and lay groundwork for a bad-faith case.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
     'Insurance Company AI and Automated Claims Processing: When an Algorithm Decides Your Claim',
   description:
     'How insurance companies use artificial intelligence, machine learning, and automated systems to process property damage claims, why AI-driven claims handling leads to systematic underpayment, and how policyholders and attorneys can challenge algorithmic decisions under California law.',
+  summary:
+    'Insurers increasingly let AI and algorithms triage and decide claims, which can drive systematic underpayment. You can challenge an algorithmic decision and demand human review and an explanation under California law.',
 }
 
 export default function Content() {

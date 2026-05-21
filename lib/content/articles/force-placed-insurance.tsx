@@ -5,6 +5,8 @@ export const meta = {
   title: 'Force-Placed Insurance: What It Is and Why It\'s a Problem',
   description:
     'What happens when your mortgage lender force-places insurance on your property — what it covers, what it doesn\'t, and how to avoid it.',
+  summary:
+    'Force-placed insurance is coverage your mortgage lender buys when yours lapses. It is expensive, protects only the lender\'s interest, and covers little for you. Keep your own policy active to avoid it.',
 }
 
 export default function Content() {

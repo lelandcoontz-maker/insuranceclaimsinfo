@@ -5,6 +5,8 @@ export const meta = {
   title: 'When Your Policy Secretly Restricts Overhead & Profit: The Kurach Decision and What It Means',
   description:
     'In Kurach v. Truck Insurance Exchange (Pa. 2020), the Pennsylvania Supreme Court upheld policy language that withholds general contractor overhead and profit until the policyholder actually pays for it. Learn how this 4-3 decision works, what it changed, and how to check whether your own policy contains similar restrictions.',
+  summary:
+    'In Kurach v. Truck Insurance Exchange (Pa. 2020), the court upheld policy language withholding general contractor overhead and profit until the policyholder actually pays for it. Check whether your own policy contains a similar O&P restriction.',
 }
 
 export default function Content() {

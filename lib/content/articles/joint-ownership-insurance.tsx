@@ -5,6 +5,8 @@ export const meta = {
   title: 'Joint Ownership and Insurance — Who Gets the Check?',
   description:
     'When property is co-owned by siblings, ex-spouses, unmarried partners, or business partners, insurance claim payments get complicated fast. Learn how different ownership structures affect the claim, who controls the process, what happens when co-owners disagree, and how severability clauses and innocent co-insured doctrines determine who gets paid.',
+  summary:
+    'When co-owners (siblings, ex-spouses, partners) share a property, claim payments get complicated over who controls the claim and gets the check. Severability clauses and the innocent co-insured doctrine, plus the ownership structure, determine the answer.',
 }
 
 export default function Content() {

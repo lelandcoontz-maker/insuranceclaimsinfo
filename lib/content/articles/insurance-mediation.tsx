@@ -5,6 +5,8 @@ export const meta = {
   title: 'Mediation of Insurance Disputes: When and How to Use It',
   description:
     'Mediation can resolve insurance claim disputes faster and cheaper than litigation. Learn when it works, when it doesn\'t, and how to prepare for a strong outcome.',
+  summary:
+    'Mediation can resolve a claim dispute faster and cheaper than litigation, using a neutral to broker a settlement. It works best when both sides want resolution; prepare with documentation and a clear bottom line for a strong outcome.',
 }
 
 export default function Content() {

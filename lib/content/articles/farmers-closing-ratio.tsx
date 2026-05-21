@@ -5,6 +5,8 @@ export const meta = {
   title: 'Closing Ratios: The Hidden Metric That May Be Driving Your Claim Outcome',
   description:
     'How insurance company "closing ratios" create perverse incentives for adjusters to underpay claims, what California policyholders should watch for, and how to document potential adjuster bias.',
+  summary:
+    'A closing ratio measures how quickly and cheaply an adjuster resolves claims, and incentives tied to it can quietly pressure your settlement downward. Understanding this hidden metric explains why some adjusters push fast, low resolutions.',
 }
 
 export default function Content() {

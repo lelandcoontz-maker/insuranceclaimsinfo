@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurer Antitrust Concerns and the FAIR Plan: When Market Withdrawal Looks Coordinated',
   description:
     'When major insurers simultaneously withdraw from California, the FAIR Plan becomes the insurer of last resort for millions. The pattern raises serious antitrust questions that policyholders and regulators should understand.',
+  summary:
+    'When major insurers withdraw from California at once, pushing millions onto the FAIR Plan, the parallel conduct raises antitrust questions. Policyholders and regulators should understand the pattern and the limits of antitrust scrutiny here.',
 }
 
 export default function Content() {

@@ -6,6 +6,8 @@ export const meta = {
     'Food Truck and Mobile Vendor Insurance Claims: When Your Vehicle IS Your Business',
   description:
     'Food trucks face a unique insurance challenge where commercial auto, commercial property, and general liability converge. Learn about the total loss problem, spoilage coverage, commissary requirements, fire suppression, and how to protect your mobile business.',
+  summary:
+    'Food trucks sit where commercial auto, property, and liability coverage converge, creating gaps around total loss, spoilage, commissary requirements, and fire suppression. Because the vehicle is the business, confirm all three coverages align.',
 }
 
 export default function Content() {

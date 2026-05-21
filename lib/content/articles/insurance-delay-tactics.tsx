@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Company Delay Tactics and Your Rights',
   description:
     'How insurance companies use delay to pressure you into accepting less. Learn the regulatory deadlines, how to document delays, and when to take action.',
+  summary:
+    'Insurers use delay to pressure you into accepting less. California sets response deadlines at each step; document every delay in writing, and know that unjustified delay can violate the regulations and support a bad-faith claim.',
 }
 
 export default function Content() {

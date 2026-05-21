@@ -5,6 +5,8 @@ export const meta = {
   title: 'Expert Witnesses in Insurance Claim Litigation: Daubert Challenges, Claims Handling Experts, and Demolishing Carrier Experts',
   description:
     "How expert witnesses are used in insurance property litigation, how to challenge the carrier's biased experts through Daubert and Sargon motions, and why claims handling experts are the policyholder's most powerful weapon at trial.",
+  summary:
+    'In insurance litigation, expert witnesses on causation and claims handling can make or break the case. Daubert challenges can exclude unreliable carrier experts, and a strong claims-handling expert can expose bad faith. Choosing and challenging experts is pivotal.',
 }
 
 export default function Content() {

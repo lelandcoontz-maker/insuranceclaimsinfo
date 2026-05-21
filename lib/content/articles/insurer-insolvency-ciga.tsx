@@ -6,6 +6,8 @@ export const meta = {
   title: "When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know",
   description:
     "What happens when your California insurance company is declared insolvent. How the California Insurance Guarantee Association (CIGA) works, coverage caps, surplus lines gaps, the claims process, and how to protect yourself in today’s volatile insurance market.",
+  summary:
+    'If your California insurer becomes insolvent, the California Insurance Guarantee Association (CIGA) pays covered claims, subject to caps and excluding surplus lines carriers. Confirm your carrier is admitted, and know the limits before relying on this safety net.',
 }
 
 export default function Content() {

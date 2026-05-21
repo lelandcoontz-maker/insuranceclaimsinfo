@@ -5,6 +5,8 @@ export const meta = {
   title: 'How the Tort of Bad Faith Was Invented: The History That Changed Insurance Law Forever',
   description:
     'The complete history of bad faith insurance law in California — from Comunale and Gruenberg to the Shernoff firm and Egan v. Mutual of Omaha. How the tort was invented, how it evolved, how damages are calculated, and the realistic challenges of winning a bad faith claim.',
+  summary:
+    'Bad faith insurance law in California was invented by the courts, from Comunale and Gruenberg through Egan, with the Shernoff firm shaping it. This history explains how the tort works, how damages are figured, and the real challenges of winning.',
 }
 
 export default function Content() {

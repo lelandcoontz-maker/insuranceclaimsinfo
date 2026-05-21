@@ -5,6 +5,8 @@ export const meta = {
   title: "Log Notes, Emails, and Bad Faith: How an Insurer's Own Records Can Win Your Case",
   description:
     "An insurer's internal claim file — adjuster diary notes, emails, reserve changes, and supervisor directives — can reveal the real reasons behind a denial or underpayment. Learn how to obtain these records, what to look for, and how they support bad faith claims.",
+  summary:
+    'An insurer\'s own log notes, emails, and claim diary can prove bad faith, revealing what it really thought while telling you something else. Requesting the claims file can expose this internal record.',
 }
 
 export default function Content() {

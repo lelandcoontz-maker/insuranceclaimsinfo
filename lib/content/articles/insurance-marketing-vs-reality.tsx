@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Marketing vs. Reality: When Advertising Promises Diverge From Claims Handling',
   description:
     'Insurance advertising promises protection, personal service, and good faith. The claims process often delivers delay, lowball offers, and adversarial handling. Those ads can become evidence against the insurer.',
+  summary:
+    'Insurers advertise protection and good faith, but claims handling often delivers delay and lowball offers. That gap matters: the advertising promises can become evidence against the insurer when its conduct contradicts them.',
 }
 
 export default function Content() {

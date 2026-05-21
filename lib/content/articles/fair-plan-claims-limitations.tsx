@@ -5,6 +5,8 @@ export const meta = {
   title: 'The FAIR Plan Claims Process: What 610,000 Policyholders Need to Know',
   description:
     'How to file a FAIR Plan claim, what the FAIR Plan covers and excludes, the $3M residential cap, the current crisis with 610K+ policies, AB 1680 and AB 226 reforms, and why a DIC policy is essential.',
+  summary:
+    'The California FAIR Plan provides basic, capped fire coverage (around $3M residential) and excludes much that standard policies cover, so a companion DIC policy is essential. Know the claims process and limits, especially amid the current FAIR Plan overload.',
 }
 
 export default function Content() {

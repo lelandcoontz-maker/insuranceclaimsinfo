@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Read Your Entire Insurance Policy Document',
   description:
     'A section-by-section walkthrough of your homeowners insurance policy booklet — what each part is, where to find it, and how to navigate the document when you have a claim.',
+  summary:
+    'Your policy booklet has distinct parts: declarations, insuring agreement, definitions, coverages, exclusions, conditions, and endorsements. Knowing where each lives lets you navigate the document quickly when a claim arises.',
 }
 
 export default function Content() {

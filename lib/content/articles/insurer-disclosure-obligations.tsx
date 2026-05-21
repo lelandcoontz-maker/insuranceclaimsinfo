@@ -6,6 +6,8 @@ export const meta = {
     'What Your Insurance Company Is Required to Tell You — And What They Conveniently Forget',
   description:
     'California law imposes affirmative disclosure obligations on insurers — things they must proactively tell you about your claim. Most never do. Here is what they owe you and how to demand it.',
+  summary:
+    'California law requires insurers to proactively tell you certain things about your claim and your rights, but most never do. Knowing these affirmative disclosure duties lets you demand the information the carrier conveniently omits.',
 }
 
 export default function Content() {

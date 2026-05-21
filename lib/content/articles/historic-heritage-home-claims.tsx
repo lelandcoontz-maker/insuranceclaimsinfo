@@ -5,6 +5,8 @@ export const meta = {
   title: 'Historic and Heritage Home Insurance Claims: When Standard Replacement Cost Falls Short',
   description:
     'Historic homes present unique insurance challenges. Learn why standard replacement cost often falls short, how like kind and quality applies to period materials, and what coverage options exist for heritage properties.',
+  summary:
+    'Historic homes often cost far more to restore than standard replacement-cost coverage assumes, because period materials and craftsmanship are expensive. Understand how \'like kind and quality\' applies and seek coverage tailored to heritage properties.',
 }
 
 export default function Content() {

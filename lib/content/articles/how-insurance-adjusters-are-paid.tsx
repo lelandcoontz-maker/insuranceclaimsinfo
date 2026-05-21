@@ -5,6 +5,8 @@ export const meta = {
     'How Insurance Adjusters Are Trained, Compensated, and Measured &mdash; And What It Means for Your Claim',
   description:
     'Insurance adjusters are shaped by their training, pay structure, and performance metrics. Learn how catastrophe adjusters, daily adjusters, and independent adjusters are compensated, what authority levels mean, and how internal carrier metrics influence the handling of your property insurance claim.',
+  summary:
+    'Adjusters are shaped by their training, pay, authority limits, and performance metrics, which differ for catastrophe, daily, and independent adjusters. Those incentives quietly influence how your claim is handled and why.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Genuine Dispute Doctrine: The Defense Your Insurer Will Use Against Your Bad Faith Claim',
   description:
     'The genuine dispute doctrine is the most common defense insurers raise against bad faith claims in California. Learn where the doctrine comes from, what Wilson v. 21st Century and Chateau Chamberay actually say, how carriers manufacture disputes through biased experts, and how policyholders and attorneys defeat it.',
+  summary:
+    'The genuine dispute doctrine is the insurer\'s go-to defense against bad faith: if the dispute was genuine and reasonable, there is no bad faith. But Wilson and Chateau Chamberay show a dispute manufactured through biased experts does not qualify and can be defeated.',
 }
 
 export default function Content() {

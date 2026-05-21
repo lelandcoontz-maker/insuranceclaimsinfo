@@ -6,6 +6,8 @@ export const meta = {
   title: 'When Your Insurance Company Fails: The Guaranty Fund Safety Net and Its Limits',
   description:
     'What happens when an insurance company becomes insolvent in California. How the California Insurance Guarantee Association (CIGA) works, the $500,000 cap, covered and non-covered claims, and how to protect yourself.',
+  summary:
+    'When a California insurer fails, CIGA acts as a safety net but caps covered claims (generally $500,000) and excludes some claims and surplus lines carriers. Understand what is and is not protected so an insolvency does not blindside you.',
 }
 
 export default function Content() {

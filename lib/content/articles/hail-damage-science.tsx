@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Science of Hail Damage: Test Squares, Impact Patterns, and What Engineers Get Wrong',
   description:
     'Understand the forensic science behind hail damage identification on roofs. Learn how test squares work, what distinguishes real hail impacts from other damage, and how to counter carrier engineer mischaracterizations.',
+  summary:
+    'Forensic hail assessment uses test squares and impact-pattern analysis to distinguish real hail strikes from other marks. Knowing how this works lets you counter carrier engineers who mischaracterize or dismiss legitimate hail damage.',
 }
 
 export default function Content() {

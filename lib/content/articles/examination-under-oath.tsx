@@ -5,6 +5,8 @@ export const meta = {
   title: 'Examination Under Oath (EUO): What It Is, Why It Happens, and How to Prepare',
   description:
     'When your insurance company demands an Examination Under Oath, you are being asked to testify under oath before the insurer\'s attorney. Learn what an EUO is, your rights, how to prepare, and how insurers use EUOs to delay or deny claims in California.',
+  summary:
+    'An Examination Under Oath (EUO) is sworn testimony the insurer\'s attorney can compel during a claim. You must comply, but you have rights: prepare thoroughly, answer truthfully and narrowly, and recognize that insurers sometimes use EUOs to delay or build a denial.',
 }
 
 export default function Content() {

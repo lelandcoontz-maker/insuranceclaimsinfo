@@ -5,6 +5,8 @@ export const meta = {
   title: 'How the Tort of Bad Faith Was Invented: The History That Changed Insurance Law Forever',
   description:
     'The legal principle that insurers can be held liable beyond the policy for unreasonably denying or delaying claims did not exist until California courts created it. Trace the history from Comunale to Egan and understand how bad faith law protects policyholders today.',
+  summary:
+    'The rule that insurers can be liable beyond the policy for unreasonably denying or delaying claims was created by California courts, traced from Comunale to Egan. That history is the foundation of modern policyholder protection.',
 }
 
 export default function Content() {

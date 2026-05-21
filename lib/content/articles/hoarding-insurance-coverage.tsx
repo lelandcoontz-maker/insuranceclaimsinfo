@@ -5,6 +5,8 @@ export const meta = {
   title: 'Hoarding and Insurance Coverage: When a Mental Health Condition Meets Your Homeowner Policy',
   description:
     'Hoarding disorder is a recognized DSM-5 diagnosis, not negligence. Learn how hoarding affects insurance coverage, what insurers argue, how to protect your claim, and what California law says about coverage for hoarded properties.',
+  summary:
+    'Hoarding is a recognized DSM-5 disorder, not negligence, and that framing matters for coverage. Insurers may argue neglect or maintenance to deny, but California law and the medical nature of the condition give policyholders arguments to protect the claim.',
 }
 
 export default function Content() {

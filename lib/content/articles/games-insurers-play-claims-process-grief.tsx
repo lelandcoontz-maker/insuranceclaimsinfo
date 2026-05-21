@@ -5,6 +5,8 @@ export const meta = {
   title: "Games Insurers Play: When the Claims Process Meets the Worst Day of Your Life",
   description:
     "How the insurance claims machine produces outcomes that compound trauma — not through malice, but through a system that wasn't designed for grief. What happens when a routine claims process meets a family in crisis.",
+  summary:
+    'The claims process often compounds trauma, not through malice but through a system not designed for grieving people. Recognizing the pattern helps you protect yourself and insist on humane, lawful handling during the worst time of your life.',
 }
 
 export default function Content() {

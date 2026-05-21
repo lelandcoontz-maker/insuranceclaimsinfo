@@ -5,6 +5,8 @@ export const meta = {
   title: 'Inverse Condemnation: Suing Utilities After a California Wildfire',
   description:
     'When a utility causes a wildfire, you may have a claim beyond your insurance policy. Learn how inverse condemnation works in California — strict liability, damages, and how it differs from negligence.',
+  summary:
+    'When a utility causes a wildfire, inverse condemnation lets you recover from the utility on a strict-liability basis, without proving negligence, for damage beyond your insurance. It is a powerful additional path after utility-caused fires in California.',
 }
 
 export default function Content() {

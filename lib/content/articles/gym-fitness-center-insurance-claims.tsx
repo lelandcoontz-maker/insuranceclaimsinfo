@@ -6,6 +6,8 @@ export const meta = {
     'Gym and Fitness Center Insurance Claims: Equipment, Membership Revenue, and the Floor That Costs More Than You Think',
   description:
     'Gyms face unique insurance exposures: $500K+ in specialized equipment, membership revenue that vanishes during closure, flooring that costs $15-50/sqft, and massive tenant buildouts in leased space. Learn how to navigate these claims.',
+  summary:
+    'Gyms face heavy exposures: expensive specialized equipment, membership revenue that evaporates during closure, costly specialty flooring, and large tenant build-outs. These claims need careful documentation of equipment value and lost income.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Illusory Coverage: When You Pay Premiums for Coverage That Can Never Actually Pay',
   description:
     'Illusory coverage occurs when policy language, deductible structures, sub-limits, or exclusion stacking makes it impossible for a policyholder to collect the coverage they paid for. Learn the most common examples, how courts have addressed the problem, and what California policyholders can do about it.',
+  summary:
+    'Coverage is illusory when policy language, deductibles, sub-limits, or stacked exclusions make it practically impossible to ever collect what you paid for. Courts disfavor illusory coverage, and California policyholders can challenge it.',
 }
 
 export default function Content() {

@@ -4,6 +4,8 @@ export const meta = {
   title: 'How to Read a Verisk White Paper: The Public Documentation Most Adjusters Have Never Seen',
   description:
     'Verisk publishes white papers explaining how Xactimate pricing works, what is and is not included in unit costs, and how settings should be configured. These publicly available documents frequently support the policyholder&apos;s position more than the carrier&apos;s.',
+  summary:
+    'Verisk publishes white papers explaining how Xactimate pricing works and how settings should be configured. These public documents often support the policyholder\'s position, so cite them when a carrier misuses pricing or omits costs.',
 }
 
 export default function Content() {

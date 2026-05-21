@@ -4,6 +4,8 @@ export const meta = {
   title: 'What Hailstone Research Tells Us About Insurance Claims',
   description:
     'IBHS research on 2,500+ hailstones proves hail damage is far more complex than insurers claim. Real hailstones are not perfect spheres, maximum sizes far exceed the average, and lab tests overstate impact force.',
+  summary:
+    'IBHS research on thousands of hailstones shows hail damage is more complex than insurers claim: real hailstones are irregular, far exceed average size, and lab tests can overstate impact force. This science supports challenging a quick hail denial.',
 }
 
 export default function Content() {

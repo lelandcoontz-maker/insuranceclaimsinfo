@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Flood Exclusion in Commercial Property Insurance: When Rain Becomes an Uninsured Disaster',
   description:
     'Many business owners in non-flood-zone areas skip flood insurance entirely. When surface water enters during heavy rain, the commercial property policy excludes it. Learn how the flood exclusion works, why it catches businesses off guard, and how to close the gap.',
+  summary:
+    'Commercial property policies exclude flood, including surface water from heavy rain, which blindsides businesses outside designated flood zones. Add separate flood coverage to close this gap, because the standard policy will not pay.',
 }
 
 export default function Content() {

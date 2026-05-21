@@ -4,6 +4,8 @@ export const meta = {
   title: 'Hail Damage Thresholds: What Size Hail Actually Damages Your Roof',
   description:
     'Haag Engineering research establishes the minimum hail sizes needed to damage common roofing materials — the same thresholds insurers use internally.',
+  summary:
+    'Haag Engineering research sets the minimum hail sizes that damage common roofing materials, and insurers use these same thresholds internally. Knowing them helps you argue that the hail in your event was capable of causing the damage.',
 }
 
 export default function Content() {

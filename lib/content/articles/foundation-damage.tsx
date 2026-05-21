@@ -5,6 +5,8 @@ export const meta = {
   title: 'Foundation Damage Insurance Claims: Earth Movement, Water Leaks, and the Fight for Coverage',
   description:
     'How to handle insurance claims for foundation damage caused by water leaks, soil settlement, and heaving. Covers the earth movement exclusion, California\'s efficient proximate cause doctrine, repair methods, and how to document your claim.',
+  summary:
+    'Foundation claims from water leaks, settlement, or heaving collide with the earth-movement exclusion, but California\'s efficient proximate cause doctrine can restore coverage when a covered peril such as a plumbing leak is the predominant cause. Document the cause carefully.',
 }
 
 export default function Content() {

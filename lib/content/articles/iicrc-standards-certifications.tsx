@@ -5,6 +5,8 @@ export const meta = {
   title: 'IICRC Standards and Certifications in Insurance Claims',
   description:
     'What the IICRC standards (S500, S520, S540, S700, S760) actually say, what the certifications (WRT, AMRT, FSRT, OCT) mean, and how carriers use them to justify — and deny — insurance claim amounts.',
+  summary:
+    'IICRC standards (S500 water, S520 mold, and others) and certifications (WRT, AMRT, and more) define proper restoration practice. Carriers cite them both to justify and to deny claim amounts, so knowing what they actually require helps you hold the line.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: "Games Insurers Play: The ‘Wear and Tear’ Relabeling Game",
   description:
     "How insurance companies relabel legitimate covered damage as ‘wear and tear’ to deny claims — and how to fight back using the correct legal distinction between condition and causation.",
+  summary:
+    'Insurers relabel covered sudden damage as excluded \'wear and tear\' to deny claims. The correct distinction is between condition and causation: a covered event that caused the damage is payable even on an older component. Frame the cause, not just the condition.',
 }
 
 export default function Content() {

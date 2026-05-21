@@ -5,6 +5,8 @@ export const meta = {
   title: 'Inland Marine Insurance Claims: What It Covers and Why the Name Is Misleading',
   description:
     'Inland marine insurance has nothing to do with water. Learn what it actually covers, how it differs from ocean marine, the major policy types, and how a public adjuster handles these specialized claims.',
+  summary:
+    'Inland marine insurance has nothing to do with water; it covers movable or specialized property like tools, equipment, and goods in transit. Knowing what it covers and how it differs from standard property coverage matters on specialized claims.',
 }
 
 export default function Content() {

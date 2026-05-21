@@ -6,6 +6,8 @@ export const meta = {
     'Extended Period of Indemnity: The Endorsement That Keeps Paying After You Reopen',
   description:
     'When your business reopens after a loss but revenue is still far below pre-loss levels, the standard period of restoration has ended. The extended period of indemnity endorsement continues coverage for 30, 60, 90, or more days after operations resume—and for relationship-dependent businesses, it may be more important than the base BI coverage itself.',
+  summary:
+    'After a business reopens, revenue often stays depressed even though the period of restoration has ended. The extended period of indemnity endorsement keeps business income coverage running for an added 30, 60, 90 or more days while you rebuild revenue.',
 }
 
 export default function Content() {

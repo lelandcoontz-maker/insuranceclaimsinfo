@@ -4,6 +4,8 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Book Review: From Good Hands to Boxing Gloves by David Berardinelli — The Allstate Documents They Never Wanted You to See',
   description: 'A detailed review of David Berardinelli\'s From Good Hands to Boxing Gloves — the book that exposed Allstate\'s McKinsey-driven Claims Core Process Redesign. What the internal documents reveal, how CCPR works, and what it means for policyholders dealing with any major carrier.',
+  summary:
+    'David Berardinelli\'s From Good Hands to Boxing Gloves exposes Allstate\'s McKinsey-designed Claims Core Process Redesign, using internal documents to show how the carrier was restructured to minimize payouts, a pattern relevant to dealing with any major insurer.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Fire Damage Insurance Claim Denied? Here\'s What to Do',
   description:
     'What to do when your fire damage insurance claim is denied or underpaid — common denial reasons, your appeal rights, and how to challenge the denial under California law.',
+  summary:
+    'If your fire claim is denied or underpaid, read the denial reason, gather evidence that rebuts it, and appeal in writing, escalating to a CDI complaint or professional help. Many fire denials rest on contestable causation or exclusion arguments you can challenge.',
 }
 
 export default function Content() {

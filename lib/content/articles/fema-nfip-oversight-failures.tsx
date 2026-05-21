@@ -4,6 +4,8 @@ export const meta = {
   title: 'Government Report: FEMA Fails to Oversee Flood Insurance Companies',
   description:
     'The DHS Inspector General found FEMA does not adequately oversee the companies handling flood insurance claims — leaving policyholders without protection.',
+  summary:
+    'A DHS Inspector General report found FEMA fails to adequately oversee the private companies that handle NFIP flood claims, leaving policyholders exposed to mishandling with little federal accountability.',
 }
 
 export default function Content() {

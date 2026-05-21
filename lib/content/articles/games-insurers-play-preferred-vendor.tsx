@@ -5,6 +5,8 @@ export const meta = {
   title: "Games Insurers Play: The ‘Preferred Vendor’ Steering Game",
   description:
     "How insurance companies steer policyholders toward preferred contractors who serve the carrier’s interests — and what happens when you exercise your right to choose your own.",
+  summary:
+    'Insurers steer policyholders toward preferred contractors who serve the carrier\'s interests, often through lowball-friendly pricing. You have the right to choose your own contractor; understand the pressure and resist steering that costs you scope.',
 }
 
 export default function Content() {

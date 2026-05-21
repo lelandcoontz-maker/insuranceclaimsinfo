@@ -5,6 +5,8 @@ export const meta = {
   title: 'When Your Insurer Tries to Rewrite Your Policy After a Loss: The Doctrine of Reformation and Carrier Misuse',
   description:
     'How insurance companies attempt to use the legal doctrine of reformation to reduce coverage after a loss has occurred. Covers mutual mistake claims, the high burden of proof, California case law, the distinction from rescission, and how policyholders can fight back.',
+  summary:
+    'Insurers sometimes invoke reformation to rewrite a policy after a loss, claiming a mutual mistake, to reduce coverage. The burden of proof is high, reformation differs from rescission, and California case law gives policyholders strong grounds to resist.',
 }
 
 export default function Content() {

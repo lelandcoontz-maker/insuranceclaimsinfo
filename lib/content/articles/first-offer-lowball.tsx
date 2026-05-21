@@ -5,6 +5,8 @@ export const meta = {
   title: 'Why You Should Never Accept the Insurer\'s First Offer',
   description:
     'Why the insurance company\'s initial settlement offer is almost always too low — and how to respond to get a fair payout.',
+  summary:
+    'The insurer\'s first settlement offer is almost always low, a starting position rather than a fair number. Do not accept it reflexively; compare it to your own documentation and estimate, and counter in writing.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Glass Breakage Insurance Claims: Coverage, Exclusions, and the Arguments Carriers Hope You Never Make',
   description:
     'How glass breakage is covered under homeowner and commercial policies, the vandalism glass exclusion, tempered glass code upgrades, thermal stress denials, and creative coverage arguments your adjuster should know.',
+  summary:
+    'Glass breakage is generally covered, but watch the vandalism glass exclusion, thermal-stress denials, and tempered-glass code upgrades. Knowing these arguments, plus matching and code-upgrade angles, helps you get full replacement.',
 }
 
 export default function Content() {

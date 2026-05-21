@@ -5,6 +5,8 @@ export const meta = {
   title: 'Functional Replacement Cost: When Your Insurer Pays for "Function" Instead of Quality',
   description:
     'Functional replacement cost policies let insurers substitute cheaper materials that serve the same "function" as the original. Learn why plaster-to-drywall is not a true functional equivalent, which states use these policies, and how to fight back.',
+  summary:
+    'A functional replacement cost policy lets the insurer pay to restore function using cheaper, modern materials rather than matching the original, which can shortchange you on older or custom homes. Know if you have this instead of true replacement cost.',
 }
 
 export default function Content() {

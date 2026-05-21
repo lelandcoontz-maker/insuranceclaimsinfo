@@ -4,6 +4,8 @@ export const meta = {
   title: 'How to Use This Site',
   description:
     'A quick orientation to InsuranceClaimsInfo.com — how the site is organized, what you\'ll find here, and the fastest way to get to the article you need.',
+  summary:
+    'This site organizes hundreds of insurance-claim guides by topic and audience. Start with the Start Here hubs or search for your situation; the fastest path is to find the article matching your specific claim question.',
 }
 
 export default function Content() {

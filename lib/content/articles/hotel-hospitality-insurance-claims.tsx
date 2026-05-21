@@ -5,6 +5,8 @@ export const meta = {
   title: 'Hotel and Hospitality Insurance Claims: When Every Room Lost Is Revenue Gone',
   description:
     'Hotels and hospitality businesses face unique insurance vulnerabilities from business income losses during renovation to bedbug closures, franchise requirements, and seasonal revenue challenges. Learn how to protect your claim.',
+  summary:
+    'Hotels face unique exposures: business income lost per unrentable room, renovation and bedbug closures, franchise-brand requirements, and seasonality. These claims hinge on documenting lost revenue accurately and meeting franchise obligations.',
 }
 
 export default function Content() {

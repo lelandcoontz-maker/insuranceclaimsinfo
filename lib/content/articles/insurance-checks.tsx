@@ -5,6 +5,8 @@ export const meta = {
   title: 'Insurance Checks: What to Do and What to Watch For',
   description:
     'When you receive a check from your insurance company, don\'t just cash it blindly — and don\'t leave it sitting on the counter either. Learn what restrictive language means, when it\'s safe to deposit, and how to protect your right to dispute.',
+  summary:
+    'When you get an insurance check, do not blindly cash it or let it sit. Read it for restrictive endorsement language, confirm it is a routine payment, and protect your right to dispute the rest of the claim before depositing anything questionable.',
 }
 
 export default function Content() {

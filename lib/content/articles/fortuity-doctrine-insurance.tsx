@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Fortuity Doctrine in Insurance: When Carriers Claim Your Loss Was Not an Accident',
   description:
     'The fortuity doctrine requires that a covered loss be accidental and unforeseen. Learn how insurance companies misuse the known loss doctrine, loss-in-progress doctrine, and pre-existing damage arguments to deny legitimate claims in California.',
+  summary:
+    'The fortuity doctrine requires that a covered loss be accidental and unforeseen. Insurers misuse the related known-loss and loss-in-progress doctrines, and pre-existing damage arguments, to deny claims that were in fact fortuitous.',
 }
 
 export default function Content() {

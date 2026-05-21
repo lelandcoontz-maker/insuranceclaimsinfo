@@ -5,6 +5,8 @@ export const meta = {
   title: 'False Fraud Accusations in Insurance Claims: When Carriers Weaponize the SIU Process',
   description:
     'How insurers use false or pretextual fraud accusations to deny legitimate claims, the Special Investigations Unit process, policyholder rights during fraud investigations, burden of proof requirements, and practical defense strategies under California law.',
+  summary:
+    'Insurers sometimes use pretextual fraud allegations and the Special Investigations Unit (SIU) to stall or deny valid claims. Know your rights during a fraud investigation, that the insurer bears the burden, and how to defend against a manufactured accusation.',
 }
 
 export default function Content() {
