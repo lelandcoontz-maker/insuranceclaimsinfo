@@ -6,6 +6,8 @@ export const meta = {
     'Business Income Loss Calculation: How to Build and Defend Your BI Claim',
   description:
     'A detailed guide to calculating business income losses under commercial property policies. Covers the but-for projection, net income plus continuing expenses formula, seasonal adjustments, growth trends, the CP 15 15 worksheet, and how to counter carrier forensic accountants who minimize your claim.',
+  summary:
+    'A business income claim equals your projected net income plus continuing expenses had the loss not occurred, adjusted for seasonality and growth. Build the but-for projection with solid records and the CP 15 15 worksheet to counter carrier accountants who minimize it.',
 }
 
 export default function Content() {

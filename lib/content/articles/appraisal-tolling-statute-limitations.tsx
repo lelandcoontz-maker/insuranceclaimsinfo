@@ -5,6 +5,8 @@ export const meta = {
   title: 'Does Invoking Appraisal Toll the Statute of Limitations?',
   description:
     'The answer is unsettled. Learn both sides of the debate, what California courts have said (Prudential-LMI, Appalachian, Brehm), how Insurance Code § 2071 creates the problem, and the one thing you should always do before starting appraisal: get a written tolling agreement.',
+  summary:
+    'Whether invoking appraisal pauses the one-year suit deadline is unsettled in California. Because the law is unclear, always get a written tolling agreement before starting appraisal so the clock cannot run out while you wait for the award.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Anti-Concurrent Causation Clauses: What They Are, Why They Matter, and Why California Ignores Them',
   description:
     'Anti-concurrent causation (ACC) clauses let insurers deny claims when any excluded peril contributes to a loss. In California, these clauses are unenforceable under the efficient proximate cause doctrine. Learn how ACC works, which policies contain it, and why your state matters more than your policy language.',
+  summary:
+    'Anti-concurrent causation clauses try to let insurers deny a loss if any excluded peril contributed. In California these clauses are unenforceable because the efficient proximate cause doctrine controls, so the predominant covered cause governs. Your state matters more than the policy wording.',
 }
 
 export default function Content() {

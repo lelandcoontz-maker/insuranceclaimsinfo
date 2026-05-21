@@ -5,6 +5,8 @@ export const meta = {
   title: "Balloon Framing vs. Platform Framing: Why Your Home’s Construction Method Matters for Insurance Claims",
   description:
     "Understanding balloon framing vs. platform framing — how your home’s construction method affects fire spread, water damage, mold growth, and why carriers routinely underestimate damage in balloon-framed homes.",
+  summary:
+    'Whether your home is balloon-framed or platform-framed changes how fire, water, and mold spread through the structure, and carriers routinely underestimate hidden damage in balloon-framed homes. Knowing your framing helps you argue for the full scope of repair.',
 }
 
 export default function Content() {

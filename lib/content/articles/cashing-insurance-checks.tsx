@@ -6,6 +6,8 @@ export const meta = {
   title: 'Can I Cash This Insurance Check? What You Need to Know Before You Deposit',
   description:
     'The vast majority of insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure.',
+  summary:
+    'The vast majority of insurance checks are ordinary payments with no strings attached and are safe to cash. Learn to spot the rare restrictive endorsement that purports to settle your claim, and pause to verify if any release language appears.',
 }
 
 export default function Content() {

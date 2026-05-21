@@ -6,6 +6,8 @@ export const meta = {
   title: 'Personal Property Claims Without a Full Inventory: What California Law Requires',
   description:
     'After a total loss in a declared disaster, California law requires insurers to pay at least 30% of dwelling limits for contents without requiring an itemized inventory. The CDI has repeatedly directed carriers to comply.',
+  summary:
+    'After a total loss in a declared disaster, California law requires insurers to pay at least 30% of the dwelling limit for contents without demanding an itemized inventory. The CDI has repeatedly directed carriers to honor this.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Does Homeowner Insurance Cover Bedbugs? Almost Certainly Not — Here Is Why',
   description:
     'Why standard homeowner and renter insurance policies do not cover bedbug infestations, the limited exceptions that may exist, remediation costs, landlord responsibilities in California, and practical steps for affected homeowners.',
+  summary:
+    'Standard homeowner and renter policies almost never cover bedbug infestations, treating them as excluded pests or maintenance. Remediation usually falls on the owner, with limited landlord duties in California. Expect to pay out of pocket in most cases.',
 }
 
 export default function Content() {

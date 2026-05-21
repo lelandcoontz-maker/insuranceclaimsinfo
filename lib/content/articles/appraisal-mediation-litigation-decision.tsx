@@ -4,6 +4,8 @@ export const meta = {
   title: 'Choosing Between Appraisal, Mediation, and Litigation: A Decision Framework',
   description:
     'A comprehensive guide to deciding when appraisal, mediation, or litigation is the right dispute resolution path for your insurance claim — including cost and timeline comparisons, California-specific rules, and practical decision trees.',
+  summary:
+    'Appraisal resolves disputes over the amount of loss, mediation seeks a negotiated settlement, and litigation addresses coverage and bad faith. Choose based on whether your fight is about price or about coverage, plus cost and timeline. This guide gives a decision framework.',
 }
 
 export default function Content() {

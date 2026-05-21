@@ -5,6 +5,8 @@ export const meta = {
   title: 'Home Cannabis Cultivation and Insurance: How Legal Growing Can Void Your Coverage',
   description:
     'Cannabis cultivation is legal in California for personal use, but most homeowner policies were not designed for it. Learn how growing cannabis at home can create coverage gaps, trigger exclusions, and jeopardize your insurance.',
+  summary:
+    'Growing cannabis at home is legal in California, but most homeowner policies were not written for it and may treat it as a business or excluded activity. Cultivation can void coverage or trigger exclusions, so check with your insurer before you grow.',
 }
 
 export default function Content() {

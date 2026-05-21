@@ -6,6 +6,8 @@ export const meta = {
   title: 'Insurance Appraisal in California: The Complete Guide',
   description:
     'How insurance appraisal works in California — the standard fire policy, the arbitration code, key case law (Kacha, Sharma, Devonwood, Lee v. California Capital), and how to protect your rights.',
+  summary:
+    'Insurance appraisal is a contractual process to resolve disputes over the amount of loss, using each side\'s appraiser and a neutral umpire. This guide covers California\'s standard fire policy, the arbitration code, key case law, and how to protect your rights.',
 }
 
 export default function Content() {

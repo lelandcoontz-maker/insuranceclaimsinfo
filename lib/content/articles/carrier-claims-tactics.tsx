@@ -5,6 +5,8 @@ export const meta = {
   title: 'How Insurance Carriers Systematically Underpay Claims: The Consulting Industry Behind It',
   description:
     'The documented history of how McKinsey & Company and other consulting firms redesigned insurance claims handling to maximize carrier profits at the expense of policyholders.',
+  summary:
+    'Insurers\' systematic underpayment is not accidental. Consulting firms like McKinsey redesigned claims handling decades ago to boost carrier profits by squeezing payouts. Understanding that history explains why lowball offers feel routine and why documentation matters.',
 }
 
 export default function Content() {

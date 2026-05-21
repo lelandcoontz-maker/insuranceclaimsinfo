@@ -5,6 +5,8 @@ export const meta = {
   title: 'Assigning an Insurance Claim When Selling a Damaged Property: What Transfers, What Doesn\'t, and What Can Go Wrong',
   description:
     'A policyholder\'s guide to selling property with an open or unresolved insurance claim — assignment of claims, mortgage company complications, and California disclosure requirements.',
+  summary:
+    'You can often assign an existing insurance claim when selling a damaged property, but the policy, mortgage company, and California disclosure rules all affect what actually transfers. Clarify who keeps the claim proceeds before closing to avoid disputes.',
 }
 
 export default function Content() {

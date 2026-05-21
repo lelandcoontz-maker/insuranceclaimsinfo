@@ -5,6 +5,8 @@ export const meta = {
   title: 'Class Actions and Mass Torts Against Insurance Companies in California: A History',
   description:
     'A history of class action lawsuits and mass tort litigation against insurance companies in California, from Northridge to the Palisades fires, and what policyholders need to know about these legal mechanisms.',
+  summary:
+    'Class actions and mass torts let many policyholders challenge an insurer\'s systemic conduct together, as seen from the Northridge earthquake to the Palisades fires. Know how these mechanisms work and how they may, or may not, affect your individual claim.',
 }
 
 export default function Content() {

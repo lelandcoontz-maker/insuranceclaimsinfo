@@ -6,6 +6,8 @@ export const meta = {
   title: 'Advance Payments After a Wildfire: What California Law Requires',
   description:
     'California law requires insurers to make advance payments after a total loss in a declared disaster. CDI Bulletin 2025-2 spells out these requirements — here is the full text with practical guidance.',
+  summary:
+    'After a total loss in a declared disaster, California law requires insurers to make advance payments. CDI Bulletin 2025-2 spells out what carriers must advance for the dwelling and contents so you can begin recovering immediately.',
 }
 
 export default function Content() {

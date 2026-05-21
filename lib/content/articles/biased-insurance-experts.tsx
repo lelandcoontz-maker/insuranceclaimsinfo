@@ -5,6 +5,8 @@ export const meta = {
   title: 'Biased Insurance Experts: How to Identify, Challenge, and Defeat the Insurer’s Hired Professionals',
   description:
     'Insurance companies hire engineers, hygienists, and estimators who consistently minimize claims. Learn how the repeat-player system works, how limited assignments pre-load the outcome, the confirmation bias feedback loop, and how to fight back — including licensing board complaints.',
+  summary:
+    'Insurers often hire engineers, hygienists, and estimators who repeatedly minimize claims, helped by narrow assignments that pre-shape the conclusion. Recognize the repeat-player bias, get your own qualified expert, and consider a licensing-board complaint when a report is indefensible.',
 }
 
 export default function Content() {

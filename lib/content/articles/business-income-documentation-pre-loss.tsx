@@ -6,6 +6,8 @@ export const meta = {
     'Business Income Documentation: What You Need Before a Loss Hits',
   description:
     'How to organize tax returns, P&L statements, bank records, and seasonal revenue data before a loss occurs so you can maximize your business interruption insurance recovery.',
+  summary:
+    'To maximize a future business interruption claim, organize tax returns, profit-and-loss statements, bank records, and seasonal revenue data before a loss happens. Good pre-loss records are what let you prove the income you lost when operations stop.',
 }
 
 export default function Content() {

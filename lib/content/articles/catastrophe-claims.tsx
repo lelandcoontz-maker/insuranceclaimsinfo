@@ -5,6 +5,8 @@ export const meta = {
   title: 'Catastrophe Claims: Why Disaster Claims Are Handled Differently and What It Means for You',
   description:
     'Catastrophe claims are processed faster, by less experienced adjusters, under enormous volume pressure. Learn why CAT claims are chronically underpaid and what you can do about it.',
+  summary:
+    'After a disaster, claims are processed at high volume by traveling CAT adjusters under speed pressure, which makes them chronically underpaid. Expect errors, document thoroughly, and be ready to challenge a rushed estimate.',
 }
 
 export default function Content() {

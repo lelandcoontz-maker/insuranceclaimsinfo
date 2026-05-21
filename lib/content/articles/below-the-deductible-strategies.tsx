@@ -5,6 +5,8 @@ export const meta = {
   title: 'When a Claim Is Below the Deductible: Strategies for Capturing the Full Scope of Loss',
   description:
     'How deductibles work in property claims, why carriers have incentives to keep estimates below the deductible, commonly missed items that push claims over the threshold, and when to hire a public adjuster for borderline claims.',
+  summary:
+    'Carriers have an incentive to keep estimates just under your deductible so nothing is paid. Capture the full scope, including commonly missed items, to push a borderline claim over the threshold; a public adjuster can help on close calls.',
 }
 
 export default function Content() {

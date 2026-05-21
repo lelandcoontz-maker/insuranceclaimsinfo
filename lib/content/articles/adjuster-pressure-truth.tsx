@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Adjuster Caught in the Middle: Why Field Estimates Keep Getting Overridden',
   description:
     'Field adjusters often write thorough estimates that get reduced by desk reviewers, supervisors, or automated systems. Understanding this pattern helps policyholders challenge lowball offers.',
+  summary:
+    'Field adjusters often write fair, thorough estimates that get cut later by desk reviewers, supervisors, or software. When your offer comes in below the field inspection, that gap is the reviewer\'s doing and is a legitimate target to challenge.',
 }
 
 export default function Content() {

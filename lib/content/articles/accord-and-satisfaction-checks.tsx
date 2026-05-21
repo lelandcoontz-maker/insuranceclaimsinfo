@@ -5,6 +5,8 @@ export const meta = {
   title: "Accord and Satisfaction: When the Insurance Company Tries to Turn a Check Into a Release",
   description:
     "In almost every case, cashing an insurance check does not create a release. But some insurers try. Here is how accord and satisfaction works, why release language on checks is rare, and what to do if you encounter it.",
+  summary:
+    'In almost every case, cashing an insurance check does not release your claim. Accord and satisfaction requires clear conditional language and a genuine dispute. If a check carries release language, document it and do not assume the rest of your claim is gone.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'California Insurance Claim Deadlines and Timeframes',
   description:
     'Every deadline your California insurance company must meet — from acknowledging your claim to paying it. Know the rules so you can hold them accountable.',
+  summary:
+    'California sets specific deadlines your insurer must meet: acknowledge a claim within 15 days, decide within 40 days of receiving proof of loss, and pay promptly once accepted. Knowing the timeline lets you hold the carrier accountable for delay.',
 }
 
 export default function Content() {

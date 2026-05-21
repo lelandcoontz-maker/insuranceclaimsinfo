@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Insurance Claims Process Step by Step',
   description:
     'A complete walkthrough of the insurance claims process from filing your first notice of loss through settlement or dispute resolution.',
+  summary:
+    'The insurance claims process runs from your first notice of loss through investigation, adjustment, and settlement or dispute. Knowing each step, and what the insurer must do at each one, helps you keep your claim moving and spot problems early.',
 }
 
 export default function Content() {

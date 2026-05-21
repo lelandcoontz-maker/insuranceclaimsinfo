@@ -5,6 +5,8 @@ export const meta = {
   title: 'California\'s Insurance Crisis: What Homeowners Need to Know',
   description:
     'Why California insurers are cancelling policies, leaving the market, and raising rates — and what homeowners can do to protect themselves.',
+  summary:
+    'California insurers are non-renewing policies, leaving the market, and raising rates because of wildfire risk and regulatory pressure. Homeowners can protect themselves by understanding the FAIR Plan, shopping early, and confirming adequate coverage before a loss.',
 }
 
 export default function Content() {

@@ -6,6 +6,8 @@ export const meta = {
   title: '36-Month Additional Living Expenses: What California Law Requires',
   description:
     'After a declared disaster in California, insurers must provide at least 24 months of ALE coverage with a 12-month extension for delays beyond the policyholder\'s control. The CDI Commissioner\'s Opinion establishes the effective date and requirements.',
+  summary:
+    'After a declared disaster in California, insurers must provide at least 24 months of Additional Living Expenses, plus a 12-month extension for delays beyond your control, for up to 36 months total. The CDI Commissioner\'s Opinion sets the requirements.',
 }
 
 export default function Content() {

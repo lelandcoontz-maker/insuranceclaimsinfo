@@ -5,6 +5,8 @@ export const meta = {
   title: 'Business Interruption Insurance Claims: Recovering Lost Income After Property Damage',
   description:
     'Business interruption coverage pays for income you lose when property damage shuts down your operations. Learn how the period of restoration works, how carriers minimize projections, and what California law requires of commercial insurers.',
+  summary:
+    'Business interruption coverage replaces income lost while property damage shuts down your operations, for the period of restoration. Carriers often understate that period and your projected income; California law requires fair handling of commercial claims.',
 }
 
 export default function Content() {

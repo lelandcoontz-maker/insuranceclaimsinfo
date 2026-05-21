@@ -5,6 +5,8 @@ export const meta = {
   title: 'Bad Faith Damages in California: What You Can Actually Recover',
   description:
     'A detailed guide to the damages available when a California insurer acts in bad faith — contract damages, consequential losses, emotional distress, punitive damages, Brandt fees, and elder abuse enhancements.',
+  summary:
+    'When a California insurer acts in bad faith, you can recover more than the policy benefit: contract damages, consequential losses, emotional distress, attorney fees under Brandt, and in serious cases punitive damages or elder-abuse enhancements.',
 }
 
 export default function Content() {

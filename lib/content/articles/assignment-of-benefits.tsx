@@ -5,6 +5,8 @@ export const meta = {
   title: 'Assignment of Benefits: Insurance Claims, Work Authorizations, and Selling a Damaged Home',
   description:
     'Learn how assignment of benefits works in property insurance claims, what work authorization forms really do, and how to handle an insurance claim when selling a damaged home.',
+  summary:
+    'An assignment of benefits transfers your right to claim payment to a contractor, while a work authorization only approves the work. Know which you are signing, because an AOB hands control of part of your claim to someone else.',
 }
 
 export default function Content() {

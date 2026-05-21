@@ -5,6 +5,8 @@ export const meta = {
   title: 'CLUE and A-PLUS: How Your Claims History Follows You',
   description:
     'What the CLUE and A-PLUS databases are, how insurance companies use your claims history against you, your FCRA rights, and how to dispute inaccurate entries that can cost you coverage.',
+  summary:
+    'CLUE and A-PLUS are databases that track your insurance claims history, and carriers use them to set rates or decline coverage. Under the FCRA you can review your file and dispute inaccurate entries that unfairly follow you.',
 }
 
 export default function Content() {

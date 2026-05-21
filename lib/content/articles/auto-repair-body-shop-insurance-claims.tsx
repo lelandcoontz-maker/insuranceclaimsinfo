@@ -6,6 +6,8 @@ export const meta = {
     'Auto Repair and Body Shop Insurance Claims: Customer Vehicles, Paint Booth Fires, and Environmental Liability',
   description:
     'Auto repair shops and body shops face unique insurance exposures from garage keeper\'s liability for customer vehicles to paint booth fires, environmental contamination, and equipment breakdown. Learn how to protect your shop and your claim.',
+  summary:
+    'Auto repair and body shops carry special exposures: garage keeper\'s liability for customer vehicles, paint booth fires, environmental contamination, and equipment breakdown. Standard policies often leave gaps, so confirm these coverages before a loss.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'BCEGS: How Building Code Grading Affects Your Insurance Premiums and Claims',
   description:
     'ISO\'s Building Code Effectiveness Grading Schedule rates communities on code adoption and enforcement. Learn how BCEGS scores affect property insurance premiums and claim outcomes.',
+  summary:
+    'ISO\'s Building Code Effectiveness Grading Schedule (BCEGS) scores how well a community adopts and enforces building codes. A better score can lower property premiums and affect claim outcomes, especially on code-upgrade coverage.',
 }
 
 export default function Content() {

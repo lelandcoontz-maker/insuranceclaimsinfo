@@ -5,6 +5,8 @@ export const meta = {
   title: 'Certificates of Insurance: What They Actually Prove and What They Do Not',
   description:
     'A certificate of insurance is not a contract and does not guarantee coverage. Learn why relying on a COI can leave businesses, property owners, and contractors exposed, and what verification steps actually protect your interests.',
+  summary:
+    'A certificate of insurance proves a policy existed on a date, not that coverage applies to your loss. It is not a contract and grants no rights. Relying on a COI can leave you exposed, so verify actual coverage, not just the certificate.',
 }
 
 export default function Content() {

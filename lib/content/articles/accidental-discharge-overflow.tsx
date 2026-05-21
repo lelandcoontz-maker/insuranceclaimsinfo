@@ -5,6 +5,8 @@ export const meta = {
   title: 'Accidental Discharge or Overflow: The Most Important Water Damage Peril in Your Policy',
   description:
     'A detailed guide to the accidental discharge or overflow peril in homeowners insurance — covering the ISO HO-3 language, the 14-day endorsement trap, tear-out coverage, carrier denial tactics, and how to fight for full payment on water damage claims in California.',
+  summary:
+    'Accidental discharge or overflow is the homeowner policy peril covering sudden water escaping from plumbing or appliances. Watch the 14-day endorsement trap and tear-out limits, and push back when a carrier recharacterizes a covered sudden leak as long-term seepage.',
 }
 
 export default function Content() {

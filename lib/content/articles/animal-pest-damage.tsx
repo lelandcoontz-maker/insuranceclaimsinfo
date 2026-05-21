@@ -5,6 +5,8 @@ export const meta = {
   title: 'Animal and Pest Damage Insurance Claims: What Is Covered and What Is Not',
   description:
     'How animal and pest damage is handled under homeowner insurance policies in California — the rodent exclusion, raccoon contamination, resulting damage doctrine, and how to fight common denials.',
+  summary:
+    'Homeowner policies generally exclude gradual rodent and pest damage but may cover sudden damage from larger animals and \'resulting\' damage such as a fire from chewed wiring. The rodent exclusion is the usual battleground; how the loss happened decides coverage.',
 }
 
 export default function Content() {

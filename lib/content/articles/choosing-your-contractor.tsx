@@ -5,6 +5,8 @@ export const meta = {
   title: 'Choosing Your Contractor After an Insurance Loss',
   description:
     'You have the legal right to choose your own contractor. How to select one, what to watch for, and how to handle the insurance company\'s preferred vendor pressure.',
+  summary:
+    'You have the legal right to choose your own contractor after a loss; the insurer cannot force you to use its preferred vendor. Pick a licensed, reputable contractor and resist pressure that serves the carrier\'s interest over yours.',
 }
 
 export default function Content() {

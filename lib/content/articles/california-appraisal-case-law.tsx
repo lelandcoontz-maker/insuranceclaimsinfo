@@ -5,6 +5,8 @@ export const meta = {
   title: 'California Appraisal Case Law and the Arbitration Code: What Policyholders Need to Know',
   description:
     'Key California case law on insurance appraisal — Sharma, Kacha, Lee, Doan, Lambert, Mahnke — and the California Arbitration Code provisions that apply to every appraisal proceeding in the state.',
+  summary:
+    'California appraisal is shaped by key cases (Sharma, Kacha, Lee, Doan, Lambert, Mahnke) and the state Arbitration Code, which applies to every appraisal. Together they define the scope of appraisal, the umpire\'s role, and how awards are confirmed or challenged.',
 }
 
 export default function Content() {

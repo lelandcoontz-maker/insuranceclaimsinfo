@@ -5,6 +5,8 @@ export const meta = {
   title: 'Blockage & Overflow vs. Sewer Backup: Why the Distinction Matters',
   description:
     'A plumbing blockage that causes water to overflow from your fixtures is not a sewer backup. Learn the mechanical difference, why it matters for coverage, and what the courts have said.',
+  summary:
+    'A plumbing blockage that causes a fixture to overflow is not the same as a sewer or drain backup, and the distinction controls coverage. Identify the mechanical cause of the water, because backup coverage and standard water-damage coverage are different.',
 }
 
 export default function Content() {

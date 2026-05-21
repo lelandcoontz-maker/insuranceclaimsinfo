@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Broad Evidence Rule: Why ACV Is Not Simply Replacement Cost Minus Depreciation',
   description:
     'California courts require insurers to consider all relevant evidence when determining actual cash value &mdash; not just a depreciation formula. Learn how the broad evidence rule works, the case law behind it, and how to use it to fight underpayment.',
+  summary:
+    'Actual cash value is not just replacement cost minus a depreciation formula. California\'s broad evidence rule requires insurers to weigh all relevant evidence of value, which often yields a higher ACV. Use it to challenge mechanical depreciation that underpays your loss.',
 }
 
 export default function Content() {

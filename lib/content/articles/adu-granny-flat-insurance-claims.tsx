@@ -6,6 +6,8 @@ export const meta = {
     "Insurance Claims on ADUs and Granny Flats: The Coverage Gap Most California Families Don’t Know About",
   description:
     "California’s ADU boom has created a massive insurance coverage gap. Learn how Coverage A vs. Coverage B applies, why the 10% other structures limit is almost never enough, and what happens when your ADU is damaged but your insurer didn’t know it existed.",
+  summary:
+    'When an ADU or granny flat is damaged, coverage usually falls under the small \'other structures\' (Coverage B) limit, typically 10% of the dwelling, which rarely covers a rebuild, especially if the insurer never knew the unit existed. Insure it properly in advance.',
 }
 
 export default function Content() {

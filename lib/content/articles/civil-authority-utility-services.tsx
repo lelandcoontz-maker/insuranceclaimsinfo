@@ -5,6 +5,8 @@ export const meta = {
   title: 'Civil Authority Coverage, Ingress/Egress, and Utility Services in Commercial Insurance',
   description:
     'Civil authority coverage, ingress/egress endorsements, and utility service endorsements protect businesses when government orders, physical barriers, or utility failures cause income loss — even without damage to your own property. Learn the coverage triggers, ISO form numbers, and how to negotiate broader protection before the next disaster.',
+  summary:
+    'Civil authority, ingress/egress, and utility service endorsements can pay a business\'s lost income when a government order, blocked access, or utility failure halts operations, even without damage to your own property. Know the triggers and negotiate broader limits in advance.',
 }
 
 export default function Content() {

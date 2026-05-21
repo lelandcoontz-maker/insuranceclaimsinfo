@@ -5,6 +5,8 @@ export const meta = {
   title: 'AB 1642 and California Claims Handling Timelines: The Deadlines Your Insurer Must Meet',
   description:
     'California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. AB 1642 and the California Insurance Code establish specific timelines that policyholders can enforce.',
+  summary:
+    'California law sets enforceable deadlines on insurers: acknowledge a claim within 15 days, accept or deny within 40 days of receiving proof of loss, and pay promptly once accepted. AB 1642 and the Insurance Code make these timelines mandatory, not courtesies.',
 }
 
 export default function Content() {

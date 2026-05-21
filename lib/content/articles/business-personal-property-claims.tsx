@@ -6,6 +6,8 @@ export const meta = {
     'Business Personal Property Claims: What It Is, How It Differs from Inventory, and Why &ldquo;Property of Others&rdquo; Matters',
   description:
     'Business personal property (BPP) covers movable assets like furniture, equipment, and tools under commercial policies. Learn how BPP differs from inventory and stock, how property of others in your care is covered, and how to document and maximize a BPP claim.',
+  summary:
+    'Business personal property (BPP) covers movable assets like furniture, equipment, and tools, and differs from inventory and stock. It can also cover property of others in your care. Document and value these items carefully to maximize the claim.',
 }
 
 export default function Content() {

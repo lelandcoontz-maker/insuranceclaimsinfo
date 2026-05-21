@@ -5,6 +5,8 @@ export const meta = {
   title: 'Building Permits and Insurance Claims: What the Insurer Owes and When',
   description:
     'Building permit fees are part of the cost to repair or rebuild your home after a covered loss. Learn when insurers must pay for permits, how to calculate the cost, and what to do when they refuse.',
+  summary:
+    'Building permit fees are part of the cost to repair or rebuild after a covered loss, so your insurer generally owes them. Calculate the permit cost and demand it; do not let the carrier treat required permits as your own expense.',
 }
 
 export default function Content() {

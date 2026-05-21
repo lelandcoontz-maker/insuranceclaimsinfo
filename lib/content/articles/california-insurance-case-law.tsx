@@ -5,6 +5,8 @@ export const meta = {
   title: 'Key California Insurance Case Law: Bad Faith, Coverage, and Appraisal',
   description:
     'A practitioner&apos;s guide to the most important California insurance cases — from Gruenberg and Egan to Garvey and Kacha. Bad faith, coverage, causation, and appraisal law explained.',
+  summary:
+    'California insurance law is built on landmark cases: Gruenberg and Egan on bad faith, Garvey on causation, Kacha on appraisal, and more. This guide explains the decisions that define policyholder rights on coverage, bad faith, and disputes.',
 }
 
 export default function Content() {

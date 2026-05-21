@@ -5,6 +5,8 @@ export const meta = {
     'When Your Adjuster Changes Mid-Claim: Why It Happens and What You Can Do',
   description:
     'Adjuster reassignment mid-claim causes delays, lost context, and shifting coverage positions. Learn why carriers rotate adjusters, how it affects your claim, and what rights you have under California law.',
+  summary:
+    'When a carrier reassigns your adjuster mid-claim, expect delays, lost context, and sometimes shifting coverage positions. Keep your own complete file, get prior commitments in writing, and know California law gives you tools to demand status and continuity.',
 }
 
 export default function Content() {

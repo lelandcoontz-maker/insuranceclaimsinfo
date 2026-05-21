@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Build Your Claim File: Documentation That Protects Your Recovery',
   description:
     'A well-documented claim is harder to deny and easier to settle fairly. Learn what to photograph, what to write down, how to organize your file, and the critical discoverability rules that determine what the insurer can access in litigation.',
+  summary:
+    'A well-documented claim is harder to deny. Photograph everything, keep written records of every contact, and organize your file from day one. Be aware that what you create may be discoverable in litigation, so document facts, not speculation.',
 }
 
 export default function Content() {

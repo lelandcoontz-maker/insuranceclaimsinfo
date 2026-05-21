@@ -5,6 +5,8 @@ export const meta = {
   title: 'How to Write an Effective Insurance Claim Letter',
   description:
     'Your written communications with the insurance company become the record of your claim. Learn how to write letters that protect your rights and move your claim forward.',
+  summary:
+    'Your written communications become the official record of your claim. Write clear, factual letters that state what you want, cite the relevant policy or regulation, and request a dated response, keeping a copy of everything you send.',
 }
 
 export default function Content() {

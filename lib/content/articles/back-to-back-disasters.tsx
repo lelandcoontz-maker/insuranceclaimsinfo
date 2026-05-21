@@ -5,6 +5,8 @@ export const meta = {
   title: 'Back-to-Back Disasters: Navigating Overlapping Claims When a Second Peril Strikes Before the First Is Resolved',
   description:
     'When a second disaster strikes before the first claim is settled, policyholders face overlapping deductibles, concurrent causation disputes, and carrier arguments about pre-existing damage. Learn how to manage two claims simultaneously and protect your rights under California law.',
+  summary:
+    'When a second disaster hits before the first claim settles, you face overlapping deductibles, concurrent-causation fights, and \'pre-existing damage\' arguments. Keep the two losses documented separately and insist each covered peril be evaluated on its own.',
 }
 
 export default function Content() {

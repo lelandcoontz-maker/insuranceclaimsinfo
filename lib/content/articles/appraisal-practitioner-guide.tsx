@@ -5,6 +5,8 @@ export const meta = {
   title: 'How and When to Invoke Appraisal in California: A Practitioner&apos;s Guide',
   description:
     'A comprehensive practitioner&apos;s guide to California insurance appraisal — statutory basis, when to demand, panel roles, causation issues, post-award remedies, and what to do when the process goes wrong.',
+  summary:
+    'California appraisal resolves disagreements over the amount of a loss, not coverage. This practitioner guide covers the statutory basis, when to demand it, the roles of appraisers and umpire, causation limits, and what to do when the process goes off the rails.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Asbestos and Lead Paint in Insurance Claims: How They Increase Repair Costs and Who Pays',
   description:
     'When a covered loss disturbs asbestos or lead paint in older California homes, abatement costs are part of the repair — not betterment. Learn the CA regulations, EPA rules, AQMD requirements, and how to include abatement costs in your insurance claim from day one.',
+  summary:
+    'When a covered loss disturbs asbestos or lead paint in an older home, the required abatement is part of the cost of repair, not a betterment you must fund. Include abatement in your claim from the start, supported by the applicable safety regulations.',
 }
 
 export default function Content() {

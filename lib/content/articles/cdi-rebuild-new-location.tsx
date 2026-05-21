@@ -6,6 +6,8 @@ export const meta = {
   title: 'Rebuilding at a Different Location: Your Rights Under California Law',
   description:
     'California law guarantees that total loss policyholders can rebuild or purchase at a new location without losing benefits. The CDI Commissioner\'s Opinion on CIC 2051.5(c) answers three critical questions about this right.',
+  summary:
+    'California law lets total-loss policyholders rebuild or buy at a new location without forfeiting replacement-cost benefits. The CDI Commissioner\'s Opinion on Insurance Code 2051.5(c) confirms you do not have to rebuild on the same lot to be paid in full.',
 }
 
 export default function Content() {

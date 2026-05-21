@@ -5,6 +5,8 @@ export const meta = {
   title: 'Biohazard, Hazmat & Trauma Cleanup: The Insurance Coverage Gap Nobody Talks About',
   description:
     'How insurance covers (or denies) biohazard and trauma cleanup after crime scenes, unattended deaths, meth contamination, hoarding, and sewage events. Pollution exclusion disputes, the vandalism theory, California law, predatory cleanup companies, and what policyholders need to know.',
+  summary:
+    'Biohazard and trauma cleanup after deaths, crime scenes, sewage, or contamination is frequently disputed under the pollution exclusion, and coverage often turns on framing the loss correctly. Beware predatory cleanup firms, and know your rights under California law.',
 }
 
 export default function Content() {

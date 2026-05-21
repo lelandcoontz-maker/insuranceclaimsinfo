@@ -5,6 +5,8 @@ export const meta = {
   title: 'Know Your Carrier: How Major Insurance Companies Handle Property Claims',
   description:
     'Profiles of major California property insurance carriers &mdash; their tendencies, tactics, and what experienced adjusters know about handling claims with each one.',
+  summary:
+    'Major California carriers each have distinct tendencies in how they handle property claims. Knowing your specific insurer\'s typical tactics and pressure points helps you anticipate their moves and prepare your claim accordingly.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Additional Living Expenses & Fair Rental Value',
   description:
     'Understanding your ALE and FRV coverage: what qualifies, how to document expenses, and how to counter common insurer tactics that limit your benefits.',
+  summary:
+    'Additional Living Expenses (ALE) and Fair Rental Value cover the extra cost of living elsewhere, or lost rent, when a covered loss makes a home uninhabitable. Document every expense, and push back on insurer tactics that shrink the benefit period or amounts.',
 }
 
 export default function Content() {

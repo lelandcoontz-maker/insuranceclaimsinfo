@@ -6,6 +6,8 @@ export const meta = {
     'Cyber Liability Insurance for Businesses: The Coverage Your Property Policy Doesn’t Provide',
   description:
     'Traditional property and CGL policies exclude most cyber losses. Learn how cyber liability insurance works — first-party vs. third-party coverage, ransomware, social engineering fraud, the CGL boundary, CCPA exposure, and what California businesses need to know.',
+  summary:
+    'Standard property and CGL policies exclude most cyber losses. Cyber liability insurance fills the gap with first-party and third-party coverage for ransomware, social engineering fraud, and data-breach liability, including California CCPA exposure. Businesses need a separate cyber policy.',
 }
 
 export default function Content() {

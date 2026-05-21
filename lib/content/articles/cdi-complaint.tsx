@@ -5,6 +5,8 @@ export const meta = {
   title: 'Filing a CDI Complaint',
   description:
     'How to file a complaint with the California Department of Insurance, what it accomplishes, and tips for writing an effective complaint.',
+  summary:
+    'You can file a complaint with the California Department of Insurance against your carrier. CDI can investigate and pressure the insurer but cannot order payment. A clear, well-documented complaint is most effective and creates a useful record.',
 }
 
 export default function Content() {

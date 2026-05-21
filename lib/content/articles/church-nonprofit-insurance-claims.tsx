@@ -6,6 +6,8 @@ export const meta = {
     'Church, Nonprofit, and Religious Institution Insurance Claims: Irreplaceable Property, Volunteer Liability, and the Abuse Exclusion',
   description:
     'Churches and nonprofits face insurance challenges that no other policyholder encounters: irreplaceable stained glass, the abuse exclusion, volunteer injury gaps, historic code compliance nightmares, and donated property valuation. Learn how to navigate these unique claims.',
+  summary:
+    'Churches and nonprofits face unique claim issues: irreplaceable items like stained glass, the abuse exclusion, volunteer injury gaps, historic code-compliance costs, and valuing donated property. These claims need special handling that standard approaches miss.',
 }
 
 export default function Content() {

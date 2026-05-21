@@ -5,6 +5,8 @@ export const meta = {
   title: 'The California FAIR Plan: What It Covers, What It Doesn\'t, and How to Apply',
   description:
     'A complete guide to the California FAIR Plan — the insurer of last resort for homeowners who can\'t get coverage in the private market.',
+  summary:
+    'The California FAIR Plan is the insurer of last resort for homeowners who cannot get coverage in the private market. It provides basic, limited fire coverage at higher cost, so you usually need a companion policy to fill the gaps.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Builder&rsquo;s Risk Insurance Claims: Coverage for Properties Under Construction, Renovation Losses, and Common Disputes',
   description:
     'Builder&rsquo;s risk policies insure properties during construction or major renovation. Learn what these policies cover, how they differ from standard property insurance, and the most common claim disputes including faulty workmanship, soft costs, and delay in completion.',
+  summary:
+    'Builder\'s risk policies insure a property during construction or major renovation and differ from standard property insurance. Common disputes involve faulty workmanship, soft costs, and delay in completion. Know what your policy covers before a loss on the jobsite.',
 }
 
 export default function Content() {

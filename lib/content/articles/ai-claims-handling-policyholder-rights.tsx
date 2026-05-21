@@ -5,6 +5,8 @@ export const meta = {
   title: 'Artificial Intelligence in Insurance Claims: What Policyholders Need to Know',
   description:
     'How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, California SB-1120, and policyholder rights to challenge AI-driven decisions.',
+  summary:
+    'Insurers increasingly use AI to triage, estimate, and even deny claims. You retain the right to meaningful human review and a real explanation. California SB 1120 and the NAIC framework limit pure-AI decisions, and an automated denial can be challenged.',
 }
 
 export default function Content() {

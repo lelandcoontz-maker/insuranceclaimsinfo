@@ -5,6 +5,8 @@ export const meta = {
   title: 'Bad Faith Insurance Practices',
   description:
     'Learn what constitutes bad faith by an insurance company in California, how to document it, the legal standards involved, and why building a paper trail from day one is essential.',
+  summary:
+    'Insurance bad faith is an insurer\'s unreasonable handling of a valid claim, and in California it can expose the carrier to damages beyond the policy. Document everything from day one, because a paper trail is what proves the conduct was unreasonable.',
 }
 
 export default function Content() {

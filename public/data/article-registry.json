@@ -1,31 +1,38 @@
 {
   "50-state-op-map": {
     "title": "50-State Overhead & Profit Map: Where the Law Stands on General Contractor O&P",
-    "description": "A comprehensive state-by-state guide to the law on overhead and profit in property insurance claims. Majority rule states, minority rule states, regulatory authorities, and key case law citations — all in one reference."
+    "description": "A comprehensive state-by-state guide to the law on overhead and profit in property insurance claims. Majority rule states, minority rule states, regulatory authorities, and key case law citations — all in one reference.",
+    "summary": "Whether your insurer must pay general contractor overhead and profit (O&P) depends on your state. Most states require it whenever repairs need a GC to coordinate multiple trades; a minority let insurers withhold it until actually incurred. This guide maps the rule, regulators, and case law state by state."
   },
   "ab-1642-claims-timeline": {
     "title": "AB 1642 and California Claims Handling Timelines: The Deadlines Your Insurer Must Meet",
-    "description": "California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. AB 1642 and the California Insurance Code establish specific timelines that policyholders can enforce."
+    "description": "California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. AB 1642 and the California Insurance Code establish specific timelines that policyholders can enforce.",
+    "summary": "California law sets enforceable deadlines on insurers: acknowledge a claim within 15 days, accept or deny within 40 days of receiving proof of loss, and pay promptly once accepted. AB 1642 and the Insurance Code make these timelines mandatory, not courtesies."
   },
   "ab-597-public-adjuster-regulations": {
     "title": "AB 597 (Pending): Proposed Public Adjuster Regulations in California",
-    "description": "California AB 597 is a pending bill that would cap public adjuster fees at 15% for catastrophic-disaster claims and impose new contract and solicitation requirements. Currently held in Senate Appropriations as of August 2025."
+    "description": "California AB 597 is a pending bill that would cap public adjuster fees at 15% for catastrophic-disaster claims and impose new contract and solicitation requirements. Currently held in Senate Appropriations as of August 2025.",
+    "summary": "AB 597 is a pending California bill that would cap public adjuster fees at 15% on catastrophic-disaster claims and add new contract and solicitation rules. As of August 2025 it is held in Senate Appropriations and is not yet law."
   },
   "accidental-discharge-overflow": {
     "title": "Accidental Discharge or Overflow: The Most Important Water Damage Peril in Your Policy",
-    "description": "A detailed guide to the accidental discharge or overflow peril in homeowners insurance — covering the ISO HO-3 language, the 14-day endorsement trap, tear-out coverage, carrier denial tactics, and how to fight for full payment on water damage claims in California."
+    "description": "A detailed guide to the accidental discharge or overflow peril in homeowners insurance — covering the ISO HO-3 language, the 14-day endorsement trap, tear-out coverage, carrier denial tactics, and how to fight for full payment on water damage claims in California.",
+    "summary": "Accidental discharge or overflow is the homeowner policy peril covering sudden water escaping from plumbing or appliances. Watch the 14-day endorsement trap and tear-out limits, and push back when a carrier recharacterizes a covered sudden leak as long-term seepage."
   },
   "accommodation-payments": {
     "title": "Accommodation Payments: When the Insurance Company Pays What It Claims It Doesn",
-    "description": "An accommodation payment is one of the most calculated moves in the insurance playbook. The carrier pays money while simultaneously disclaiming coverage — creating a paper trail that protects the carrier, not you."
+    "description": "An accommodation payment is one of the most calculated moves in the insurance playbook. The carrier pays money while simultaneously disclaiming coverage — creating a paper trail that protects the carrier, not you.",
+    "summary": "An accommodation payment is money the carrier pays while expressly disclaiming coverage, designed to build a record that protects the insurer rather than you. Understand exactly what you are accepting before you take one, because it can undercut your claim later."
   },
   "accord-and-satisfaction-checks": {
     "title": "Accord and Satisfaction: When the Insurance Company Tries to Turn a Check Into a Release",
-    "description": "In almost every case, cashing an insurance check does not create a release. But some insurers try. Here is how accord and satisfaction works, why release language on checks is rare, and what to do if you encounter it."
+    "description": "In almost every case, cashing an insurance check does not create a release. But some insurers try. Here is how accord and satisfaction works, why release language on checks is rare, and what to do if you encounter it.",
+    "summary": "In almost every case, cashing an insurance check does not release your claim. Accord and satisfaction requires clear conditional language and a genuine dispute. If a check carries release language, document it and do not assume the rest of your claim is gone."
   },
   "accounts-receivable-valuable-papers": {
     "title": "Accounts Receivable and Valuable Papers Coverage: Protecting the Records That Keep Your Business Running",
-    "description": "Accounts receivable (CP 04 04) and valuable papers (CP 04 07) coverage protect the information value of business records. Learn what these endorsements cover and how to use them."
+    "description": "Accounts receivable (CP 04 04) and valuable papers (CP 04 07) coverage protect the information value of business records. Learn what these endorsements cover and how to use them.",
+    "summary": "Accounts receivable (CP 04 04) and valuable papers (CP 04 07) coverage protect the value of business records destroyed in a loss, such as the cost to reconstruct billing data or documents. They are endorsements you must add, not automatic coverage."
   },
   "acv-rcv": {
     "title": "ACV vs. RCV: Actual Cash Value vs. Replacement Cost Value",
@@ -34,51 +41,63 @@
   },
   "adding-family-member-deed-insurance": {
     "title": "Adding a Family Member to the Deed: The Insurance Consequences Nobody Mentions",
-    "description": "Families routinely add an adult child to their home deed as an estate planning shortcut to avoid probate. The estate planning attorney rarely tells the client to call their insurance agent. Changing title changes insurable interest, can trigger policy violations, and may leave both the original owner and the added family member without coverage when a claim arises."
+    "description": "Families routinely add an adult child to their home deed as an estate planning shortcut to avoid probate. The estate planning attorney rarely tells the client to call their insurance agent. Changing title changes insurable interest, can trigger policy violations, and may leave both the original owner and the added family member without coverage when a claim arises.",
+    "summary": "Adding an adult child to your home's deed for estate planning changes who holds insurable interest, which can violate policy conditions and leave both owners underinsured or uncovered at claim time. Call your insurance agent before changing title, not after."
   },
   "adjuster-changes-mid-claim": {
     "title": "When Your Adjuster Changes Mid-Claim: Why It Happens and What You Can Do",
-    "description": "Adjuster reassignment mid-claim causes delays, lost context, and shifting coverage positions. Learn why carriers rotate adjusters, how it affects your claim, and what rights you have under California law."
+    "description": "Adjuster reassignment mid-claim causes delays, lost context, and shifting coverage positions. Learn why carriers rotate adjusters, how it affects your claim, and what rights you have under California law.",
+    "summary": "When a carrier reassigns your adjuster mid-claim, expect delays, lost context, and sometimes shifting coverage positions. Keep your own complete file, get prior commitments in writing, and know California law gives you tools to demand status and continuity."
   },
   "adjuster-compensation": {
     "title": "How Insurance Adjusters Get Paid: Compensation Models and Why They Matter for Your Claim",
-    "description": "Staff adjusters, independent adjusters, and Public Adjusters are all paid differently — and those compensation models create different incentives on your claim. Learn how adjuster pay works and what it means for you."
+    "description": "Staff adjusters, independent adjusters, and Public Adjusters are all paid differently — and those compensation models create different incentives on your claim. Learn how adjuster pay works and what it means for you.",
+    "summary": "Staff, independent, and public adjusters are paid in different ways, and each pay model creates different incentives on your claim. Knowing how the adjuster across from you is compensated helps you read their motives and weigh their estimate."
   },
   "adjuster-pressure-truth": {
     "title": "The Adjuster Caught in the Middle: Why Field Estimates Keep Getting Overridden",
-    "description": "Field adjusters often write thorough estimates that get reduced by desk reviewers, supervisors, or automated systems. Understanding this pattern helps policyholders challenge lowball offers."
+    "description": "Field adjusters often write thorough estimates that get reduced by desk reviewers, supervisors, or automated systems. Understanding this pattern helps policyholders challenge lowball offers.",
+    "summary": "Field adjusters often write fair, thorough estimates that get cut later by desk reviewers, supervisors, or software. When your offer comes in below the field inspection, that gap is the reviewer's doing and is a legitimate target to challenge."
   },
   "adjuster-types": {
     "title": "Types of Insurance Adjusters: Who You're Really Dealing With",
-    "description": "Staff adjusters, independent adjusters, desk adjusters, field adjusters, Public Adjusters — learn who each one works for and how it affects your claim."
+    "description": "Staff adjusters, independent adjusters, desk adjusters, field adjusters, Public Adjusters — learn who each one works for and how it affects your claim.",
+    "summary": "Staff, independent, desk, field, and public adjusters all play different roles, and all but the public adjuster work for the insurer. Knowing who you are dealing with, and who pays them, tells you whose interests they serve."
   },
   "adu-coverage-gaps": {
     "title": "ADU and Garage Conversion Insurance Coverage Gaps in California",
-    "description": "California is pushing ADU construction, but homeowner insurance has not caught up. Learn how HO-3 policies treat ADUs, why Coverage B limits are often grossly inadequate, and what to do before a loss exposes the gap."
+    "description": "California is pushing ADU construction, but homeowner insurance has not caught up. Learn how HO-3 policies treat ADUs, why Coverage B limits are often grossly inadequate, and what to do before a loss exposes the gap.",
+    "summary": "California encourages ADUs, but standard HO-3 policies often treat them as 'other structures' with a Coverage B limit far too small to rebuild. Confirm how your ADU is insured and raise the limit before a loss exposes the gap."
   },
   "adu-granny-flat-insurance-claims": {
     "title": "Insurance Claims on ADUs and Granny Flats: The Coverage Gap Most California Families Don’t Know About",
-    "description": "California’s ADU boom has created a massive insurance coverage gap. Learn how Coverage A vs. Coverage B applies, why the 10% other structures limit is almost never enough, and what happens when your ADU is damaged but your insurer didn’t know it existed."
+    "description": "California’s ADU boom has created a massive insurance coverage gap. Learn how Coverage A vs. Coverage B applies, why the 10% other structures limit is almost never enough, and what happens when your ADU is damaged but your insurer didn’t know it existed.",
+    "summary": "When an ADU or granny flat is damaged, coverage usually falls under the small 'other structures' (Coverage B) limit, typically 10% of the dwelling, which rarely covers a rebuild, especially if the insurer never knew the unit existed. Insure it properly in advance."
   },
   "advance-payments-insurance-claims": {
     "title": "Advance Payments on Insurance Claims: Your Statutory Right to Receive Undisputed Amounts Now",
-    "description": "California law requires insurers to pay undisputed claim amounts promptly, even while disputed portions are still being adjusted. Learn how to demand advance payments, avoid the full-and-final check trap, and protect your rights when accepting partial payments."
+    "description": "California law requires insurers to pay undisputed claim amounts promptly, even while disputed portions are still being adjusted. Learn how to demand advance payments, avoid the full-and-final check trap, and protect your rights when accepting partial payments.",
+    "summary": "California law requires insurers to promptly pay the undisputed portion of a claim even while disputed amounts are still being adjusted. Demand advance payment of what is not in dispute, and avoid 'full and final' checks that try to settle the whole claim."
   },
   "advance-payments-partial-payments": {
     "title": "Advance Payments and Partial Payments: Your Right to Money Before the Claim Is Resolved",
-    "description": "Insurance companies used to issue generous advance payments as a strategic tool. Now they rarely pay anything until a precise amount is calculated. Learn why that shift happened, what the law requires, and how to demand the money you are owed before your claim is fully resolved."
+    "description": "Insurance companies used to issue generous advance payments as a strategic tool. Now they rarely pay anything until a precise amount is calculated. Learn why that shift happened, what the law requires, and how to demand the money you are owed before your claim is fully resolved.",
+    "summary": "Insurers once advanced money freely but now often pay nothing until an exact figure is set. California law still requires prompt payment of undisputed amounts, so you can demand partial payment now and keep adjusting the rest."
   },
   "agreed-value-policies": {
     "title": "Agreed Value vs. Stated Value vs. Replacement Cost: Three Valuation Methods That Are Not the Same",
-    "description": "Agreed value, stated value, and replacement cost are three different insurance valuation methods. Understanding the differences determines whether your claim gets paid in full or reduced at the worst possible time."
+    "description": "Agreed value, stated value, and replacement cost are three different insurance valuation methods. Understanding the differences determines whether your claim gets paid in full or reduced at the worst possible time.",
+    "summary": "Agreed value, stated value, and replacement cost are three different valuation methods. Agreed value fixes the payout in advance, stated value can be capped, and replacement cost pays to rebuild. Which one your policy uses decides whether you are paid in full."
   },
   "ai-claims-handling-policyholder-rights": {
     "title": "Artificial Intelligence in Insurance Claims: What Policyholders Need to Know",
-    "description": "How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, California SB-1120, and policyholder rights to challenge AI-driven decisions."
+    "description": "How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, California SB-1120, and policyholder rights to challenge AI-driven decisions.",
+    "summary": "Insurers increasingly use AI to triage, estimate, and even deny claims. You retain the right to meaningful human review and a real explanation. California SB 1120 and the NAIC framework limit pure-AI decisions, and an automated denial can be challenged."
   },
   "ale-advance-payments": {
     "title": "ALE Advance Payments: The ",
-    "description": "When your insurance company says they will only pay Additional Living Expenses after you spend the money — why that position is often wrong, what California law requires, and how to get advance ALE payments without fronting your own cash."
+    "description": "When your insurance company says they will only pay Additional Living Expenses after you spend the money — why that position is often wrong, what California law requires, and how to get advance ALE payments without fronting your own cash.",
+    "summary": "When an insurer says it will only reimburse Additional Living Expenses after you spend the money, that position is often wrong. California law supports advancing ALE so displaced policyholders are not forced to front their own cash."
   },
   "ale-basics-what-is-covered": {
     "title": "What 'Additional Living Expenses' Covers When You Can't Live at Home",
@@ -87,11 +106,13 @@
   },
   "ale-frv": {
     "title": "Additional Living Expenses & Fair Rental Value",
-    "description": "Understanding your ALE and FRV coverage: what qualifies, how to document expenses, and how to counter common insurer tactics that limit your benefits."
+    "description": "Understanding your ALE and FRV coverage: what qualifies, how to document expenses, and how to counter common insurer tactics that limit your benefits.",
+    "summary": "Additional Living Expenses (ALE) and Fair Rental Value cover the extra cost of living elsewhere, or lost rent, when a covered loss makes a home uninhabitable. Document every expense, and push back on insurer tactics that shrink the benefit period or amounts."
   },
   "animal-pest-damage": {
     "title": "Animal and Pest Damage Insurance Claims: What Is Covered and What Is Not",
-    "description": "How animal and pest damage is handled under homeowner insurance policies in California — the rodent exclusion, raccoon contamination, resulting damage doctrine, and how to fight common denials."
+    "description": "How animal and pest damage is handled under homeowner insurance policies in California — the rodent exclusion, raccoon contamination, resulting damage doctrine, and how to fight common denials.",
+    "summary": "Homeowner policies generally exclude gradual rodent and pest damage but may cover sudden damage from larger animals and 'resulting' damage such as a fire from chewed wiring. The rodent exclusion is the usual battleground; how the loss happened decides coverage."
   },
   "annual-policy-review": {
     "title": "How to Review Your Insurance Policy Before You Need It",
@@ -100,51 +121,63 @@
   },
   "anti-concurrent-causation": {
     "title": "Anti-Concurrent Causation Clauses: What They Are, Why They Matter, and Why California Ignores Them",
-    "description": "Anti-concurrent causation (ACC) clauses let insurers deny claims when any excluded peril contributes to a loss. In California, these clauses are unenforceable under the efficient proximate cause doctrine. Learn how ACC works, which policies contain it, and why your state matters more than your policy language."
+    "description": "Anti-concurrent causation (ACC) clauses let insurers deny claims when any excluded peril contributes to a loss. In California, these clauses are unenforceable under the efficient proximate cause doctrine. Learn how ACC works, which policies contain it, and why your state matters more than your policy language.",
+    "summary": "Anti-concurrent causation clauses try to let insurers deny a loss if any excluded peril contributed. In California these clauses are unenforceable because the efficient proximate cause doctrine controls, so the predominant covered cause governs. Your state matters more than the policy wording."
   },
   "appraisal-mediation-litigation-decision": {
     "title": "Choosing Between Appraisal, Mediation, and Litigation: A Decision Framework",
-    "description": "A comprehensive guide to deciding when appraisal, mediation, or litigation is the right dispute resolution path for your insurance claim — including cost and timeline comparisons, California-specific rules, and practical decision trees."
+    "description": "A comprehensive guide to deciding when appraisal, mediation, or litigation is the right dispute resolution path for your insurance claim — including cost and timeline comparisons, California-specific rules, and practical decision trees.",
+    "summary": "Appraisal resolves disputes over the amount of loss, mediation seeks a negotiated settlement, and litigation addresses coverage and bad faith. Choose based on whether your fight is about price or about coverage, plus cost and timeline. This guide gives a decision framework."
   },
   "appraisal-practitioner-guide": {
     "title": "How and When to Invoke Appraisal in California: A Practitioner&apos;s Guide",
-    "description": "A comprehensive practitioner&apos;s guide to California insurance appraisal — statutory basis, when to demand, panel roles, causation issues, post-award remedies, and what to do when the process goes wrong."
+    "description": "A comprehensive practitioner&apos;s guide to California insurance appraisal — statutory basis, when to demand, panel roles, causation issues, post-award remedies, and what to do when the process goes wrong.",
+    "summary": "California appraisal resolves disagreements over the amount of a loss, not coverage. This practitioner guide covers the statutory basis, when to demand it, the roles of appraisers and umpire, causation limits, and what to do when the process goes off the rails."
   },
   "appraisal-sfp-addition": {
     "title": "When the Standard Fire Policy Strips Away an Insurer&apos;s Appraisal Conditions",
-    "description": "How the Standard Fire Policy sets a minimum standard for appraisal rights that insurers cannot undercut, with key case law from Hart v. State Farm and Haddock v. State Farm."
+    "description": "How the Standard Fire Policy sets a minimum standard for appraisal rights that insurers cannot undercut, with key case law from Hart v. State Farm and Haddock v. State Farm.",
+    "summary": "California's Standard Fire Policy sets a floor for appraisal rights that an insurer's own policy language cannot undercut. Hart v. State Farm and Haddock v. State Farm confirm insurers cannot impose conditions that strip the appraisal rights the SFP guarantees."
   },
   "appraisal-tolling-statute-limitations": {
     "title": "Does Invoking Appraisal Toll the Statute of Limitations?",
-    "description": "The answer is unsettled. Learn both sides of the debate, what California courts have said (Prudential-LMI, Appalachian, Brehm), how Insurance Code § 2071 creates the problem, and the one thing you should always do before starting appraisal: get a written tolling agreement."
+    "description": "The answer is unsettled. Learn both sides of the debate, what California courts have said (Prudential-LMI, Appalachian, Brehm), how Insurance Code § 2071 creates the problem, and the one thing you should always do before starting appraisal: get a written tolling agreement.",
+    "summary": "Whether invoking appraisal pauses the one-year suit deadline is unsettled in California. Because the law is unclear, always get a written tolling agreement before starting appraisal so the clock cannot run out while you wait for the award."
   },
   "appraisal": {
     "title": "Insurance Appraisal in California: The Complete Guide",
-    "description": "How insurance appraisal works in California — the standard fire policy, the arbitration code, key case law (Kacha, Sharma, Devonwood, Lee v. California Capital), and how to protect your rights."
+    "description": "How insurance appraisal works in California — the standard fire policy, the arbitration code, key case law (Kacha, Sharma, Devonwood, Lee v. California Capital), and how to protect your rights.",
+    "summary": "Insurance appraisal is a contractual process to resolve disputes over the amount of loss, using each side's appraiser and a neutral umpire. This guide covers California's standard fire policy, the arbitration code, key case law, and how to protect your rights."
   },
   "asbestos-lead-claims": {
     "title": "Asbestos and Lead Paint in Insurance Claims: How They Increase Repair Costs and Who Pays",
-    "description": "When a covered loss disturbs asbestos or lead paint in older California homes, abatement costs are part of the repair — not betterment. Learn the CA regulations, EPA rules, AQMD requirements, and how to include abatement costs in your insurance claim from day one."
+    "description": "When a covered loss disturbs asbestos or lead paint in older California homes, abatement costs are part of the repair — not betterment. Learn the CA regulations, EPA rules, AQMD requirements, and how to include abatement costs in your insurance claim from day one.",
+    "summary": "When a covered loss disturbs asbestos or lead paint in an older home, the required abatement is part of the cost of repair, not a betterment you must fund. Include abatement in your claim from the start, supported by the applicable safety regulations."
   },
   "assigning-insurance-claims-selling-damaged-property": {
     "title": "Assigning an Insurance Claim When Selling a Damaged Property: What Transfers, What Doesn't, and What Can Go Wrong",
-    "description": "A policyholder's guide to selling property with an open or unresolved insurance claim — assignment of claims, mortgage company complications, and California disclosure requirements."
+    "description": "A policyholder's guide to selling property with an open or unresolved insurance claim — assignment of claims, mortgage company complications, and California disclosure requirements.",
+    "summary": "You can often assign an existing insurance claim when selling a damaged property, but the policy, mortgage company, and California disclosure rules all affect what actually transfers. Clarify who keeps the claim proceeds before closing to avoid disputes."
   },
   "assignment-of-benefits": {
     "title": "Assignment of Benefits: Insurance Claims, Work Authorizations, and Selling a Damaged Home",
-    "description": "Learn how assignment of benefits works in property insurance claims, what work authorization forms really do, and how to handle an insurance claim when selling a damaged home."
+    "description": "Learn how assignment of benefits works in property insurance claims, what work authorization forms really do, and how to handle an insurance claim when selling a damaged home.",
+    "summary": "An assignment of benefits transfers your right to claim payment to a contractor, while a work authorization only approves the work. Know which you are signing, because an AOB hands control of part of your claim to someone else."
   },
   "auto-repair-body-shop-insurance-claims": {
     "title": "Auto Repair and Body Shop Insurance Claims: Customer Vehicles, Paint Booth Fires, and Environmental Liability",
-    "description": "Auto repair shops and body shops face unique insurance exposures from garage keeper's liability for customer vehicles to paint booth fires, environmental contamination, and equipment breakdown. Learn how to protect your shop and your claim."
+    "description": "Auto repair shops and body shops face unique insurance exposures from garage keeper's liability for customer vehicles to paint booth fires, environmental contamination, and equipment breakdown. Learn how to protect your shop and your claim.",
+    "summary": "Auto repair and body shops carry special exposures: garage keeper's liability for customer vehicles, paint booth fires, environmental contamination, and equipment breakdown. Standard policies often leave gaps, so confirm these coverages before a loss."
   },
   "back-to-back-disasters": {
     "title": "Back-to-Back Disasters: Navigating Overlapping Claims When a Second Peril Strikes Before the First Is Resolved",
-    "description": "When a second disaster strikes before the first claim is settled, policyholders face overlapping deductibles, concurrent causation disputes, and carrier arguments about pre-existing damage. Learn how to manage two claims simultaneously and protect your rights under California law."
+    "description": "When a second disaster strikes before the first claim is settled, policyholders face overlapping deductibles, concurrent causation disputes, and carrier arguments about pre-existing damage. Learn how to manage two claims simultaneously and protect your rights under California law.",
+    "summary": "When a second disaster hits before the first claim settles, you face overlapping deductibles, concurrent-causation fights, and 'pre-existing damage' arguments. Keep the two losses documented separately and insist each covered peril be evaluated on its own."
   },
   "bad-faith-damages": {
     "title": "Bad Faith Damages in California: What You Can Actually Recover",
-    "description": "A detailed guide to the damages available when a California insurer acts in bad faith — contract damages, consequential losses, emotional distress, punitive damages, Brandt fees, and elder abuse enhancements."
+    "description": "A detailed guide to the damages available when a California insurer acts in bad faith — contract damages, consequential losses, emotional distress, punitive damages, Brandt fees, and elder abuse enhancements.",
+    "summary": "When a California insurer acts in bad faith, you can recover more than the policy benefit: contract damages, consequential losses, emotional distress, attorney fees under Brandt, and in serious cases punitive damages or elder-abuse enhancements."
   },
   "bad-faith-explained": {
     "title": "What Is ",
@@ -153,11 +186,13 @@
   },
   "bad-faith": {
     "title": "Bad Faith Insurance Practices",
-    "description": "Learn what constitutes bad faith by an insurance company in California, how to document it, the legal standards involved, and why building a paper trail from day one is essential."
+    "description": "Learn what constitutes bad faith by an insurance company in California, how to document it, the legal standards involved, and why building a paper trail from day one is essential.",
+    "summary": "Insurance bad faith is an insurer's unreasonable handling of a valid claim, and in California it can expose the carrier to damages beyond the policy. Document everything from day one, because a paper trail is what proves the conduct was unreasonable."
   },
   "balloon-vs-platform-framing": {
     "title": "Balloon Framing vs. Platform Framing: Why Your Home’s Construction Method Matters for Insurance Claims",
-    "description": "Understanding balloon framing vs. platform framing — how your home’s construction method affects fire spread, water damage, mold growth, and why carriers routinely underestimate damage in balloon-framed homes."
+    "description": "Understanding balloon framing vs. platform framing — how your home’s construction method affects fire spread, water damage, mold growth, and why carriers routinely underestimate damage in balloon-framed homes.",
+    "summary": "Whether your home is balloon-framed or platform-framed changes how fire, water, and mold spread through the structure, and carriers routinely underestimate hidden damage in balloon-framed homes. Knowing your framing helps you argue for the full scope of repair."
   },
   "basement-flooding-coverage": {
     "title": "My Basement Flooded — Is That Covered?",
@@ -166,135 +201,168 @@
   },
   "bedbug-coverage": {
     "title": "Does Homeowner Insurance Cover Bedbugs? Almost Certainly Not — Here Is Why",
-    "description": "Why standard homeowner and renter insurance policies do not cover bedbug infestations, the limited exceptions that may exist, remediation costs, landlord responsibilities in California, and practical steps for affected homeowners."
+    "description": "Why standard homeowner and renter insurance policies do not cover bedbug infestations, the limited exceptions that may exist, remediation costs, landlord responsibilities in California, and practical steps for affected homeowners.",
+    "summary": "Standard homeowner and renter policies almost never cover bedbug infestations, treating them as excluded pests or maintenance. Remediation usually falls on the owner, with limited landlord duties in California. Expect to pay out of pocket in most cases."
   },
   "below-the-deductible-strategies": {
     "title": "When a Claim Is Below the Deductible: Strategies for Capturing the Full Scope of Loss",
-    "description": "How deductibles work in property claims, why carriers have incentives to keep estimates below the deductible, commonly missed items that push claims over the threshold, and when to hire a public adjuster for borderline claims."
+    "description": "How deductibles work in property claims, why carriers have incentives to keep estimates below the deductible, commonly missed items that push claims over the threshold, and when to hire a public adjuster for borderline claims.",
+    "summary": "Carriers have an incentive to keep estimates just under your deductible so nothing is paid. Capture the full scope, including commonly missed items, to push a borderline claim over the threshold; a public adjuster can help on close calls."
   },
   "betterment-and-improvement": {
     "title": "Betterment and Improvement: When Your Insurer Demands You Pay the Difference",
-    "description": "Learn when insurance companies can legitimately apply betterment deductions, when they misuse them to underpay claims, and how California law protects policyholders from improper betterment charges."
+    "description": "Learn when insurance companies can legitimately apply betterment deductions, when they misuse them to underpay claims, and how California law protects policyholders from improper betterment charges.",
+    "summary": "Insurers may deduct for betterment only when a repair genuinely upgrades you beyond pre-loss condition, but they often misuse it to underpay. California law limits improper betterment charges, so make the insurer justify any such deduction."
   },
   "biased-insurance-experts": {
     "title": "Biased Insurance Experts: How to Identify, Challenge, and Defeat the Insurer’s Hired Professionals",
-    "description": "Insurance companies hire engineers, hygienists, and estimators who consistently minimize claims. Learn how the repeat-player system works, how limited assignments pre-load the outcome, the confirmation bias feedback loop, and how to fight back — including licensing board complaints."
+    "description": "Insurance companies hire engineers, hygienists, and estimators who consistently minimize claims. Learn how the repeat-player system works, how limited assignments pre-load the outcome, the confirmation bias feedback loop, and how to fight back — including licensing board complaints.",
+    "summary": "Insurers often hire engineers, hygienists, and estimators who repeatedly minimize claims, helped by narrow assignments that pre-shape the conclusion. Recognize the repeat-player bias, get your own qualified expert, and consider a licensing-board complaint when a report is indefensible."
   },
   "biohazard-drywall-fraud-threat": {
     "title": "When a Death Scene Becomes a Coverage Dispute: How an Insurance Adjuster Tried to Punish a Contractor for Doing the Right Thing",
-    "description": "A real case study: a mitigation contractor removed blood-contaminated drywall from a death scene, and the insurance adjuster threatened to report him for fraud. A certified industrial hygienist proved the adjuster wrong — but the contractor still paid the price."
+    "description": "A real case study: a mitigation contractor removed blood-contaminated drywall from a death scene, and the insurance adjuster threatened to report him for fraud. A certified industrial hygienist proved the adjuster wrong — but the contractor still paid the price.",
+    "summary": "A real case: a mitigation contractor properly removed blood-contaminated drywall from a death scene, and the adjuster threatened to report him for fraud. A certified industrial hygienist proved the removal was justified, but the contractor still paid a price for doing the right thing."
   },
   "biohazard-hazmat-trauma-cleanup": {
     "title": "Biohazard, Hazmat & Trauma Cleanup: The Insurance Coverage Gap Nobody Talks About",
-    "description": "How insurance covers (or denies) biohazard and trauma cleanup after crime scenes, unattended deaths, meth contamination, hoarding, and sewage events. Pollution exclusion disputes, the vandalism theory, California law, predatory cleanup companies, and what policyholders need to know."
+    "description": "How insurance covers (or denies) biohazard and trauma cleanup after crime scenes, unattended deaths, meth contamination, hoarding, and sewage events. Pollution exclusion disputes, the vandalism theory, California law, predatory cleanup companies, and what policyholders need to know.",
+    "summary": "Biohazard and trauma cleanup after deaths, crime scenes, sewage, or contamination is frequently disputed under the pollution exclusion, and coverage often turns on framing the loss correctly. Beware predatory cleanup firms, and know your rights under California law."
   },
   "blanket-vs-scheduled-personal-property": {
     "title": "Blanket vs. Scheduled Personal Property Coverage: When to Schedule and What You Risk If You Do Not",
-    "description": "How blanket personal property coverage works under Coverage C, when scheduling individual items is necessary, the valuation differences between each approach, and California-specific strategies for adequate contents coverage."
+    "description": "How blanket personal property coverage works under Coverage C, when scheduling individual items is necessary, the valuation differences between each approach, and California-specific strategies for adequate contents coverage.",
+    "summary": "Blanket Coverage C insures your belongings as a group with internal sub-limits on categories like jewelry, while scheduling lists high-value items individually for full agreed valuation. Schedule anything whose value exceeds its category sub-limit to avoid a shortfall."
   },
   "blanket-vs-specific-insurance": {
     "title": "Blanket vs. Specific Insurance: How Limits Work Across Multiple Locations",
-    "description": "How blanket and specific insurance limits differ for multi-location businesses, why blanket coverage reduces coinsurance risk, and how to evaluate which structure protects your commercial property best."
+    "description": "How blanket and specific insurance limits differ for multi-location businesses, why blanket coverage reduces coinsurance risk, and how to evaluate which structure protects your commercial property best.",
+    "summary": "Blanket insurance applies one limit across multiple locations or categories, reducing coinsurance risk, while specific insurance fixes a separate limit per location. For multi-location businesses, blanket coverage usually offers more flexible protection."
   },
   "blockage-vs-backup": {
     "title": "Blockage & Overflow vs. Sewer Backup: Why the Distinction Matters",
-    "description": "A plumbing blockage that causes water to overflow from your fixtures is not a sewer backup. Learn the mechanical difference, why it matters for coverage, and what the courts have said."
+    "description": "A plumbing blockage that causes water to overflow from your fixtures is not a sewer backup. Learn the mechanical difference, why it matters for coverage, and what the courts have said.",
+    "summary": "A plumbing blockage that causes a fixture to overflow is not the same as a sewer or drain backup, and the distinction controls coverage. Identify the mechanical cause of the water, because backup coverage and standard water-damage coverage are different."
   },
   "brandt-fees": {
     "title": "Brandt Fees: How California Bad Faith Law Lets You Recover Attorney Fees",
-    "description": "A detailed guide to Brandt fees in California insurance bad faith cases — how attorney fees incurred to obtain wrongfully withheld policy benefits are recoverable as compensatory damages under Brandt v. Superior Court."
+    "description": "A detailed guide to Brandt fees in California insurance bad faith cases — how attorney fees incurred to obtain wrongfully withheld policy benefits are recoverable as compensatory damages under Brandt v. Superior Court.",
+    "summary": "Brandt fees let a California policyholder recover the attorney fees spent to obtain policy benefits the insurer wrongfully withheld, as compensatory damages in a bad-faith case. They cover fees tied to recovering the benefit, not the entire lawsuit."
   },
   "broad-evidence-rule-acv": {
     "title": "The Broad Evidence Rule: Why ACV Is Not Simply Replacement Cost Minus Depreciation",
-    "description": "California courts require insurers to consider all relevant evidence when determining actual cash value &mdash; not just a depreciation formula. Learn how the broad evidence rule works, the case law behind it, and how to use it to fight underpayment."
+    "description": "California courts require insurers to consider all relevant evidence when determining actual cash value &mdash; not just a depreciation formula. Learn how the broad evidence rule works, the case law behind it, and how to use it to fight underpayment.",
+    "summary": "Actual cash value is not just replacement cost minus a depreciation formula. California's broad evidence rule requires insurers to weigh all relevant evidence of value, which often yields a higher ACV. Use it to challenge mechanical depreciation that underpays your loss."
   },
   "broker-agent-liability": {
     "title": "Suing Your Insurance Broker or Agent for Inadequate Coverage",
-    "description": "When your insurance broker or agent fails to procure adequate coverage, you may have a legal claim. Learn the four liability theories, statutes of limitations, and damages available to underinsured policyholders in California."
+    "description": "When your insurance broker or agent fails to procure adequate coverage, you may have a legal claim. Learn the four liability theories, statutes of limitations, and damages available to underinsured policyholders in California.",
+    "summary": "If your broker or agent failed to obtain the coverage you needed, you may be able to sue them. California recognizes specific liability theories for negligent procurement, each with its own deadline and available damages for underinsured policyholders."
   },
   "builders-risk-insurance-claims": {
     "title": "Builder&rsquo;s Risk Insurance Claims: Coverage for Properties Under Construction, Renovation Losses, and Common Disputes",
-    "description": "Builder&rsquo;s risk policies insure properties during construction or major renovation. Learn what these policies cover, how they differ from standard property insurance, and the most common claim disputes including faulty workmanship, soft costs, and delay in completion."
+    "description": "Builder&rsquo;s risk policies insure properties during construction or major renovation. Learn what these policies cover, how they differ from standard property insurance, and the most common claim disputes including faulty workmanship, soft costs, and delay in completion.",
+    "summary": "Builder's risk policies insure a property during construction or major renovation and differ from standard property insurance. Common disputes involve faulty workmanship, soft costs, and delay in completion. Know what your policy covers before a loss on the jobsite."
   },
   "builders-risk": {
     "title": "Builder&rsquo;s Risk Insurance: Coverage for Buildings Under Construction",
-    "description": "Builder&rsquo;s risk insurance covers buildings during construction, renovation, or remodeling. Learn what it covers, what it excludes, how claims work, and why the transition to permanent coverage is critical."
+    "description": "Builder&rsquo;s risk insurance covers buildings during construction, renovation, or remodeling. Learn what it covers, what it excludes, how claims work, and why the transition to permanent coverage is critical.",
+    "summary": "Builder's risk insurance covers a building during construction, renovation, or remodeling. Know what it excludes, how claims work, and especially the critical moment when it must transition to a permanent property policy, because a gap there can leave you uncovered."
   },
   "building-codes-effectiveness-grading": {
     "title": "BCEGS: How Building Code Grading Affects Your Insurance Premiums and Claims",
-    "description": "ISO's Building Code Effectiveness Grading Schedule rates communities on code adoption and enforcement. Learn how BCEGS scores affect property insurance premiums and claim outcomes."
+    "description": "ISO's Building Code Effectiveness Grading Schedule rates communities on code adoption and enforcement. Learn how BCEGS scores affect property insurance premiums and claim outcomes.",
+    "summary": "ISO's Building Code Effectiveness Grading Schedule (BCEGS) scores how well a community adopts and enforces building codes. A better score can lower property premiums and affect claim outcomes, especially on code-upgrade coverage."
   },
   "building-permits-claims": {
     "title": "Building Permits and Insurance Claims: What the Insurer Owes and When",
-    "description": "Building permit fees are part of the cost to repair or rebuild your home after a covered loss. Learn when insurers must pay for permits, how to calculate the cost, and what to do when they refuse."
+    "description": "Building permit fees are part of the cost to repair or rebuild your home after a covered loss. Learn when insurers must pay for permits, how to calculate the cost, and what to do when they refuse.",
+    "summary": "Building permit fees are part of the cost to repair or rebuild after a covered loss, so your insurer generally owes them. Calculate the permit cost and demand it; do not let the carrier treat required permits as your own expense."
   },
   "building-your-claim-file": {
     "title": "How to Build Your Claim File: Documentation That Protects Your Recovery",
-    "description": "A well-documented claim is harder to deny and easier to settle fairly. Learn what to photograph, what to write down, how to organize your file, and the critical discoverability rules that determine what the insurer can access in litigation."
+    "description": "A well-documented claim is harder to deny and easier to settle fairly. Learn what to photograph, what to write down, how to organize your file, and the critical discoverability rules that determine what the insurer can access in litigation.",
+    "summary": "A well-documented claim is harder to deny. Photograph everything, keep written records of every contact, and organize your file from day one. Be aware that what you create may be discoverable in litigation, so document facts, not speculation."
   },
   "business-cyber-liability-insurance": {
     "title": "Cyber Liability Insurance for Businesses: The Coverage Your Property Policy Doesn’t Provide",
-    "description": "Traditional property and CGL policies exclude most cyber losses. Learn how cyber liability insurance works — first-party vs. third-party coverage, ransomware, social engineering fraud, the CGL boundary, CCPA exposure, and what California businesses need to know."
+    "description": "Traditional property and CGL policies exclude most cyber losses. Learn how cyber liability insurance works — first-party vs. third-party coverage, ransomware, social engineering fraud, the CGL boundary, CCPA exposure, and what California businesses need to know.",
+    "summary": "Standard property and CGL policies exclude most cyber losses. Cyber liability insurance fills the gap with first-party and third-party coverage for ransomware, social engineering fraud, and data-breach liability, including California CCPA exposure. Businesses need a separate cyber policy."
   },
   "business-income-documentation-pre-loss": {
     "title": "Business Income Documentation: What You Need Before a Loss Hits",
-    "description": "How to organize tax returns, P&L statements, bank records, and seasonal revenue data before a loss occurs so you can maximize your business interruption insurance recovery."
+    "description": "How to organize tax returns, P&L statements, bank records, and seasonal revenue data before a loss occurs so you can maximize your business interruption insurance recovery.",
+    "summary": "To maximize a future business interruption claim, organize tax returns, profit-and-loss statements, bank records, and seasonal revenue data before a loss happens. Good pre-loss records are what let you prove the income you lost when operations stop."
   },
   "business-income-loss-calculation": {
     "title": "Business Income Loss Calculation: How to Build and Defend Your BI Claim",
-    "description": "A detailed guide to calculating business income losses under commercial property policies. Covers the but-for projection, net income plus continuing expenses formula, seasonal adjustments, growth trends, the CP 15 15 worksheet, and how to counter carrier forensic accountants who minimize your claim."
+    "description": "A detailed guide to calculating business income losses under commercial property policies. Covers the but-for projection, net income plus continuing expenses formula, seasonal adjustments, growth trends, the CP 15 15 worksheet, and how to counter carrier forensic accountants who minimize your claim.",
+    "summary": "A business income claim equals your projected net income plus continuing expenses had the loss not occurred, adjusted for seasonality and growth. Build the but-for projection with solid records and the CP 15 15 worksheet to counter carrier accountants who minimize it."
   },
   "business-income-waiting-period": {
     "title": "The Business Income Waiting Period: The 72 Hours That Could Bankrupt Your Business",
-    "description": "The 72-hour waiting period in business income coverage can cost thousands in uninsured losses. Learn how it works, when it applies, and how to reduce or eliminate it."
+    "description": "The 72-hour waiting period in business income coverage can cost thousands in uninsured losses. Learn how it works, when it applies, and how to reduce or eliminate it.",
+    "summary": "Most business income coverage has a 72-hour waiting period before benefits begin, and that gap can cost thousands in uninsured downtime. Know how it applies and consider an endorsement to shorten or eliminate it."
   },
   "business-interruption": {
     "title": "Business Interruption Insurance Claims: Recovering Lost Income After Property Damage",
-    "description": "Business interruption coverage pays for income you lose when property damage shuts down your operations. Learn how the period of restoration works, how carriers minimize projections, and what California law requires of commercial insurers."
+    "description": "Business interruption coverage pays for income you lose when property damage shuts down your operations. Learn how the period of restoration works, how carriers minimize projections, and what California law requires of commercial insurers.",
+    "summary": "Business interruption coverage replaces income lost while property damage shuts down your operations, for the period of restoration. Carriers often understate that period and your projected income; California law requires fair handling of commercial claims."
   },
   "business-personal-property-claims": {
     "title": "Business Personal Property Claims: What It Is, How It Differs from Inventory, and Why &ldquo;Property of Others&rdquo; Matters",
-    "description": "Business personal property (BPP) covers movable assets like furniture, equipment, and tools under commercial policies. Learn how BPP differs from inventory and stock, how property of others in your care is covered, and how to document and maximize a BPP claim."
+    "description": "Business personal property (BPP) covers movable assets like furniture, equipment, and tools under commercial policies. Learn how BPP differs from inventory and stock, how property of others in your care is covered, and how to document and maximize a BPP claim.",
+    "summary": "Business personal property (BPP) covers movable assets like furniture, equipment, and tools, and differs from inventory and stock. It can also cover property of others in your care. Document and value these items carefully to maximize the claim."
   },
   "caci-jury-instructions-insurance": {
     "title": "CACI Jury Instructions for Insurance Litigation in California",
-    "description": "What CACI jury instructions are, how they relate to case law, whether they have the force of law, and why the Series 2300 insurance litigation instructions matter when policyholders sue their insurance company."
+    "description": "What CACI jury instructions are, how they relate to case law, whether they have the force of law, and why the Series 2300 insurance litigation instructions matter when policyholders sue their insurance company.",
+    "summary": "CACI are California's official civil jury instructions. They restate the law from case law rather than create it, but they carry real weight. The Series 2300 instructions govern insurance bad-faith trials and shape how a jury decides a policyholder's case."
   },
   "california-appraisal-case-law": {
     "title": "California Appraisal Case Law and the Arbitration Code: What Policyholders Need to Know",
-    "description": "Key California case law on insurance appraisal — Sharma, Kacha, Lee, Doan, Lambert, Mahnke — and the California Arbitration Code provisions that apply to every appraisal proceeding in the state."
+    "description": "Key California case law on insurance appraisal — Sharma, Kacha, Lee, Doan, Lambert, Mahnke — and the California Arbitration Code provisions that apply to every appraisal proceeding in the state.",
+    "summary": "California appraisal is shaped by key cases (Sharma, Kacha, Lee, Doan, Lambert, Mahnke) and the state Arbitration Code, which applies to every appraisal. Together they define the scope of appraisal, the umpire's role, and how awards are confirmed or challenged."
   },
   "california-claim-deadlines": {
     "title": "California Insurance Claim Deadlines and Timeframes",
-    "description": "Every deadline your California insurance company must meet — from acknowledging your claim to paying it. Know the rules so you can hold them accountable."
+    "description": "Every deadline your California insurance company must meet — from acknowledging your claim to paying it. Know the rules so you can hold them accountable.",
+    "summary": "California sets specific deadlines your insurer must meet: acknowledge a claim within 15 days, decide within 40 days of receiving proof of loss, and pay promptly once accepted. Knowing the timeline lets you hold the carrier accountable for delay."
   },
   "california-construction-law-claims": {
     "title": "California Construction Law and Insurance Claims: Contract Requirements, Licensing, and Consumer Protections",
-    "description": "California imposes strict requirements on residential construction contracts under Business & Professions Code 7159. Learn how these requirements affect insurance claims, what distinguishes residential from commercial construction law, and how non-compliant contracts can undermine your repair project."
+    "description": "California imposes strict requirements on residential construction contracts under Business & Professions Code 7159. Learn how these requirements affect insurance claims, what distinguishes residential from commercial construction law, and how non-compliant contracts can undermine your repair project.",
+    "summary": "California Business and Professions Code 7159 imposes strict requirements on residential construction contracts. A non-compliant repair contract can undermine your project and your claim, so confirm your contractor and contract meet the law before work begins."
   },
   "california-fair-claims": {
     "title": "California Fair Claims Settlement Practices Regulations (10 CCR 2695)",
-    "description": "A section-by-section analysis of California's Fair Claims Settlement Practices Regulations — every rule your insurer must follow on a property claim, with case law, real-world examples, and how to use each regulation to your advantage."
+    "description": "A section-by-section analysis of California's Fair Claims Settlement Practices Regulations — every rule your insurer must follow on a property claim, with case law, real-world examples, and how to use each regulation to your advantage.",
+    "summary": "California's Fair Claims Settlement Practices Regulations (10 CCR 2695) set out, rule by rule, exactly how an insurer must handle your property claim, from communication deadlines to investigation duties. Each regulation is a standard you can hold the carrier to."
   },
   "california-fair-plan": {
     "title": "The California FAIR Plan: What It Covers, What It Doesn't, and How to Apply",
-    "description": "A complete guide to the California FAIR Plan — the insurer of last resort for homeowners who can't get coverage in the private market."
+    "description": "A complete guide to the California FAIR Plan — the insurer of last resort for homeowners who can't get coverage in the private market.",
+    "summary": "The California FAIR Plan is the insurer of last resort for homeowners who cannot get coverage in the private market. It provides basic, limited fire coverage at higher cost, so you usually need a companion policy to fill the gaps."
   },
   "california-insurance-case-law": {
     "title": "Key California Insurance Case Law: Bad Faith, Coverage, and Appraisal",
-    "description": "A practitioner&apos;s guide to the most important California insurance cases — from Gruenberg and Egan to Garvey and Kacha. Bad faith, coverage, causation, and appraisal law explained."
+    "description": "A practitioner&apos;s guide to the most important California insurance cases — from Gruenberg and Egan to Garvey and Kacha. Bad faith, coverage, causation, and appraisal law explained.",
+    "summary": "California insurance law is built on landmark cases: Gruenberg and Egan on bad faith, Garvey on causation, Kacha on appraisal, and more. This guide explains the decisions that define policyholder rights on coverage, bad faith, and disputes."
   },
   "california-insurance-crisis": {
     "title": "California's Insurance Crisis: What Homeowners Need to Know",
-    "description": "Why California insurers are cancelling policies, leaving the market, and raising rates — and what homeowners can do to protect themselves."
+    "description": "Why California insurers are cancelling policies, leaving the market, and raising rates — and what homeowners can do to protect themselves.",
+    "summary": "California insurers are non-renewing policies, leaving the market, and raising rates because of wildfire risk and regulatory pressure. Homeowners can protect themselves by understanding the FAIR Plan, shopping early, and confirming adequate coverage before a loss."
   },
   "cannabis-cultivation-insurance": {
     "title": "Home Cannabis Cultivation and Insurance: How Legal Growing Can Void Your Coverage",
-    "description": "Cannabis cultivation is legal in California for personal use, but most homeowner policies were not designed for it. Learn how growing cannabis at home can create coverage gaps, trigger exclusions, and jeopardize your insurance."
+    "description": "Cannabis cultivation is legal in California for personal use, but most homeowner policies were not designed for it. Learn how growing cannabis at home can create coverage gaps, trigger exclusions, and jeopardize your insurance.",
+    "summary": "Growing cannabis at home is legal in California, but most homeowner policies were not written for it and may treat it as a business or excluded activity. Cultivation can void coverage or trigger exclusions, so check with your insurer before you grow."
   },
   "carrier-claims-tactics": {
     "title": "How Insurance Carriers Systematically Underpay Claims: The Consulting Industry Behind It",
-    "description": "The documented history of how McKinsey & Company and other consulting firms redesigned insurance claims handling to maximize carrier profits at the expense of policyholders."
+    "description": "The documented history of how McKinsey & Company and other consulting firms redesigned insurance claims handling to maximize carrier profits at the expense of policyholders.",
+    "summary": "Insurers' systematic underpayment is not accidental. Consulting firms like McKinsey redesigned claims handling decades ago to boost carrier profits by squeezing payouts. Understanding that history explains why lowball offers feel routine and why documentation matters."
   },
   "carrier-contractor-admits-failure": {
     "title": "When the Carrier",
@@ -302,55 +370,68 @@
   },
   "carrier-profiles-know-your-carrier": {
     "title": "Know Your Carrier: How Major Insurance Companies Handle Property Claims",
-    "description": "Profiles of major California property insurance carriers &mdash; their tendencies, tactics, and what experienced adjusters know about handling claims with each one."
+    "description": "Profiles of major California property insurance carriers &mdash; their tendencies, tactics, and what experienced adjusters know about handling claims with each one.",
+    "summary": "Major California carriers each have distinct tendencies in how they handle property claims. Knowing your specific insurer's typical tactics and pressure points helps you anticipate their moves and prepare your claim accordingly."
   },
   "cashing-insurance-checks": {
     "title": "Can I Cash This Insurance Check? What You Need to Know Before You Deposit",
-    "description": "The vast majority of insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure."
+    "description": "The vast majority of insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure.",
+    "summary": "The vast majority of insurance checks are ordinary payments with no strings attached and are safe to cash. Learn to spot the rare restrictive endorsement that purports to settle your claim, and pause to verify if any release language appears."
   },
   "catastrophe-claims": {
     "title": "Catastrophe Claims: Why Disaster Claims Are Handled Differently and What It Means for You",
-    "description": "Catastrophe claims are processed faster, by less experienced adjusters, under enormous volume pressure. Learn why CAT claims are chronically underpaid and what you can do about it."
+    "description": "Catastrophe claims are processed faster, by less experienced adjusters, under enormous volume pressure. Learn why CAT claims are chronically underpaid and what you can do about it.",
+    "summary": "After a disaster, claims are processed at high volume by traveling CAT adjusters under speed pressure, which makes them chronically underpaid. Expect errors, document thoroughly, and be ready to challenge a rushed estimate."
   },
   "cause-and-origin-fire-investigations": {
     "title": "Cause and Origin Fire Investigations: What Policyholders Need to Know",
-    "description": "A comprehensive guide to cause and origin (C&O) fire investigations in insurance claims. Covers the critical difference between fire department and insurance company investigators, policyholder rights, scene preservation, spoliation of evidence, NFPA 921 methodology, and how C&O findings can affect your claim."
+    "description": "A comprehensive guide to cause and origin (C&O) fire investigations in insurance claims. Covers the critical difference between fire department and insurance company investigators, policyholder rights, scene preservation, spoliation of evidence, NFPA 921 methodology, and how C&O findings can affect your claim.",
+    "summary": "A cause-and-origin investigation determines how a fire started, and the insurer's investigator is not the fire department's. Preserve the scene, know your rights, and understand NFPA 921 methodology, because C&O findings can make or break coverage."
   },
   "cdi-36-month-ale": {
     "title": "36-Month Additional Living Expenses: What California Law Requires",
-    "description": "After a declared disaster in California, insurers must provide at least 24 months of ALE coverage with a 12-month extension for delays beyond the policyholder's control. The CDI Commissioner's Opinion establishes the effective date and requirements."
+    "description": "After a declared disaster in California, insurers must provide at least 24 months of ALE coverage with a 12-month extension for delays beyond the policyholder's control. The CDI Commissioner's Opinion establishes the effective date and requirements.",
+    "summary": "After a declared disaster in California, insurers must provide at least 24 months of Additional Living Expenses, plus a 12-month extension for delays beyond your control, for up to 36 months total. The CDI Commissioner's Opinion sets the requirements."
   },
   "cdi-advance-payments": {
     "title": "Advance Payments After a Wildfire: What California Law Requires",
-    "description": "California law requires insurers to make advance payments after a total loss in a declared disaster. CDI Bulletin 2025-2 spells out these requirements — here is the full text with practical guidance."
+    "description": "California law requires insurers to make advance payments after a total loss in a declared disaster. CDI Bulletin 2025-2 spells out these requirements — here is the full text with practical guidance.",
+    "summary": "After a total loss in a declared disaster, California law requires insurers to make advance payments. CDI Bulletin 2025-2 spells out what carriers must advance for the dwelling and contents so you can begin recovering immediately."
   },
   "cdi-complaint": {
     "title": "Filing a CDI Complaint",
-    "description": "How to file a complaint with the California Department of Insurance, what it accomplishes, and tips for writing an effective complaint."
+    "description": "How to file a complaint with the California Department of Insurance, what it accomplishes, and tips for writing an effective complaint.",
+    "summary": "You can file a complaint with the California Department of Insurance against your carrier. CDI can investigate and pressure the insurer but cannot order payment. A clear, well-documented complaint is most effective and creates a useful record."
   },
   "cdi-contents-without-inventory": {
     "title": "Personal Property Claims Without a Full Inventory: What California Law Requires",
-    "description": "After a total loss in a declared disaster, California law requires insurers to pay at least 30% of dwelling limits for contents without requiring an itemized inventory. The CDI has repeatedly directed carriers to comply."
+    "description": "After a total loss in a declared disaster, California law requires insurers to pay at least 30% of dwelling limits for contents without requiring an itemized inventory. The CDI has repeatedly directed carriers to comply.",
+    "summary": "After a total loss in a declared disaster, California law requires insurers to pay at least 30% of the dwelling limit for contents without demanding an itemized inventory. The CDI has repeatedly directed carriers to honor this."
   },
   "cdi-flood-mudslide-wildfire": {
     "title": "Flood and Mudslide After Wildfire: Why Your Homeowner Policy Covers It",
-    "description": "When wildfire causes subsequent flooding, mudslides, or earth movement, your homeowner policy covers the damage under California's efficient proximate cause doctrine. CDI Bulletin 2025-3 explains why."
+    "description": "When wildfire causes subsequent flooding, mudslides, or earth movement, your homeowner policy covers the damage under California's efficient proximate cause doctrine. CDI Bulletin 2025-3 explains why.",
+    "summary": "When a wildfire causes later flooding, mudslides, or earth movement, your homeowner policy covers the damage under California's efficient proximate cause doctrine, because the fire was the predominant cause. CDI Bulletin 2025-3 confirms this."
   },
   "cdi-rebuild-new-location": {
     "title": "Rebuilding at a Different Location: Your Rights Under California Law",
-    "description": "California law guarantees that total loss policyholders can rebuild or purchase at a new location without losing benefits. The CDI Commissioner's Opinion on CIC 2051.5(c) answers three critical questions about this right."
+    "description": "California law guarantees that total loss policyholders can rebuild or purchase at a new location without losing benefits. The CDI Commissioner's Opinion on CIC 2051.5(c) answers three critical questions about this right.",
+    "summary": "California law lets total-loss policyholders rebuild or buy at a new location without forfeiting replacement-cost benefits. The CDI Commissioner's Opinion on Insurance Code 2051.5(c) confirms you do not have to rebuild on the same lot to be paid in full."
   },
   "cdi-right-to-claim-documents": {
     "title": "Your Right to Claim Documents: What Insurers Must Provide Under California Law",
-    "description": "California law requires insurers to provide all claim-related documents within 15 days of your request. Most policyholders don"
+    "description": "California law requires insurers to provide all claim-related documents within 15 days of your request. Most policyholders don",
+    "summary": "California law requires insurers to provide all claim-related documents within 15 days of your written request. Most policyholders never ask; requesting the file is a powerful, underused way to see what the carrier actually has."
   },
   "cdi-smoke-damage-coverage": {
     "title": "Smoke Damage Claims in California: CDI Bulletin 2025-7 and Your Rights",
-    "description": "The California Department of Insurance confirmed that smoke damage is covered under homeowner policies. Here is the full text of Bulletin 2025-7 with practical guidance for policyholders filing smoke damage claims."
+    "description": "The California Department of Insurance confirmed that smoke damage is covered under homeowner policies. Here is the full text of Bulletin 2025-7 with practical guidance for policyholders filing smoke damage claims.",
+    "summary": "The California Department of Insurance confirmed in Bulletin 2025-7 that smoke damage is covered under homeowner policies and cannot be brushed off as cosmetic. Use the bulletin to push back when a carrier minimizes a smoke claim."
   },
   "certificates-of-insurance-limitations": {
     "title": "Certificates of Insurance: What They Actually Prove and What They Do Not",
-    "description": "A certificate of insurance is not a contract and does not guarantee coverage. Learn why relying on a COI can leave businesses, property owners, and contractors exposed, and what verification steps actually protect your interests."
+    "description": "A certificate of insurance is not a contract and does not guarantee coverage. Learn why relying on a COI can leave businesses, property owners, and contractors exposed, and what verification steps actually protect your interests.",
+    "summary": "A certificate of insurance proves a policy existed on a date, not that coverage applies to your loss. It is not a contract and grants no rights. Relying on a COI can leave you exposed, so verify actual coverage, not just the certificate."
   },
   "choosing-homeowner-policy": {
     "title": "How to Choose a Homeowner Insurance Policy in California",
@@ -359,15 +440,18 @@
   },
   "choosing-your-contractor": {
     "title": "Choosing Your Contractor After an Insurance Loss",
-    "description": "You have the legal right to choose your own contractor. How to select one, what to watch for, and how to handle the insurance company's preferred vendor pressure."
+    "description": "You have the legal right to choose your own contractor. How to select one, what to watch for, and how to handle the insurance company's preferred vendor pressure.",
+    "summary": "You have the legal right to choose your own contractor after a loss; the insurer cannot force you to use its preferred vendor. Pick a licensed, reputable contractor and resist pressure that serves the carrier's interest over yours."
   },
   "church-nonprofit-insurance-claims": {
     "title": "Church, Nonprofit, and Religious Institution Insurance Claims: Irreplaceable Property, Volunteer Liability, and the Abuse Exclusion",
-    "description": "Churches and nonprofits face insurance challenges that no other policyholder encounters: irreplaceable stained glass, the abuse exclusion, volunteer injury gaps, historic code compliance nightmares, and donated property valuation. Learn how to navigate these unique claims."
+    "description": "Churches and nonprofits face insurance challenges that no other policyholder encounters: irreplaceable stained glass, the abuse exclusion, volunteer injury gaps, historic code compliance nightmares, and donated property valuation. Learn how to navigate these unique claims.",
+    "summary": "Churches and nonprofits face unique claim issues: irreplaceable items like stained glass, the abuse exclusion, volunteer injury gaps, historic code-compliance costs, and valuing donated property. These claims need special handling that standard approaches miss."
   },
   "civil-authority-utility-services": {
     "title": "Civil Authority Coverage, Ingress/Egress, and Utility Services in Commercial Insurance",
-    "description": "Civil authority coverage, ingress/egress endorsements, and utility service endorsements protect businesses when government orders, physical barriers, or utility failures cause income loss — even without damage to your own property. Learn the coverage triggers, ISO form numbers, and how to negotiate broader protection before the next disaster."
+    "description": "Civil authority coverage, ingress/egress endorsements, and utility service endorsements protect businesses when government orders, physical barriers, or utility failures cause income loss — even without damage to your own property. Learn the coverage triggers, ISO form numbers, and how to negotiate broader protection before the next disaster.",
+    "summary": "Civil authority, ingress/egress, and utility service endorsements can pay a business's lost income when a government order, blocked access, or utility failure halts operations, even without damage to your own property. Know the triggers and negotiate broader limits in advance."
   },
   "claim-denied-options": {
     "title": "My Claim Was Denied — What Are My Options?",
@@ -376,23 +460,28 @@
   },
   "claim-negotiation-letters": {
     "title": "How to Write an Effective Insurance Claim Letter",
-    "description": "Your written communications with the insurance company become the record of your claim. Learn how to write letters that protect your rights and move your claim forward."
+    "description": "Your written communications with the insurance company become the record of your claim. Learn how to write letters that protect your rights and move your claim forward.",
+    "summary": "Your written communications become the official record of your claim. Write clear, factual letters that state what you want, cite the relevant policy or regulation, and request a dated response, keeping a copy of everything you send."
   },
   "claims-process": {
     "title": "The Insurance Claims Process Step by Step",
-    "description": "A complete walkthrough of the insurance claims process from filing your first notice of loss through settlement or dispute resolution."
+    "description": "A complete walkthrough of the insurance claims process from filing your first notice of loss through settlement or dispute resolution.",
+    "summary": "The insurance claims process runs from your first notice of loss through investigation, adjustment, and settlement or dispute. Knowing each step, and what the insurer must do at each one, helps you keep your claim moving and spot problems early."
   },
   "class-actions-mass-torts-insurers": {
     "title": "Class Actions and Mass Torts Against Insurance Companies in California: A History",
-    "description": "A history of class action lawsuits and mass tort litigation against insurance companies in California, from Northridge to the Palisades fires, and what policyholders need to know about these legal mechanisms."
+    "description": "A history of class action lawsuits and mass tort litigation against insurance companies in California, from Northridge to the Palisades fires, and what policyholders need to know about these legal mechanisms.",
+    "summary": "Class actions and mass torts let many policyholders challenge an insurer's systemic conduct together, as seen from the Northridge earthquake to the Palisades fires. Know how these mechanisms work and how they may, or may not, affect your individual claim."
   },
   "climate-change-commercial-property-insurance": {
     "title": "Climate Change and Commercial Property Insurance: What’s Already Happening to Your Coverage",
-    "description": "How climate change is already reshaping commercial property insurance through atmospheric rivers, extreme heat, wildfire smoke infiltration, post-wildfire debris flows, PSPS events, and the California insurance availability crisis. Practical strategies for gap-filling coverage."
+    "description": "How climate change is already reshaping commercial property insurance through atmospheric rivers, extreme heat, wildfire smoke infiltration, post-wildfire debris flows, PSPS events, and the California insurance availability crisis. Practical strategies for gap-filling coverage.",
+    "summary": "Climate change is already reshaping commercial property coverage through wildfire smoke, debris flows, extreme heat, atmospheric rivers, and PSPS shutoffs, alongside California's availability crisis. Businesses should identify and fill coverage gaps before the next event."
   },
   "clue-database": {
     "title": "CLUE and A-PLUS: How Your Claims History Follows You",
-    "description": "What the CLUE and A-PLUS databases are, how insurance companies use your claims history against you, your FCRA rights, and how to dispute inaccurate entries that can cost you coverage."
+    "description": "What the CLUE and A-PLUS databases are, how insurance companies use your claims history against you, your FCRA rights, and how to dispute inaccurate entries that can cost you coverage.",
+    "summary": "CLUE and A-PLUS are databases that track your insurance claims history, and carriers use them to set rates or decline coverage. Under the FCRA you can review your file and dispute inaccurate entries that unfairly follow you."
   },
   "code-upgrade-coverage": {
     "title": "Law and Ordinance Coverage: Building Code Upgrades, Zoning, and the Hidden Gap in Your Property Claim",

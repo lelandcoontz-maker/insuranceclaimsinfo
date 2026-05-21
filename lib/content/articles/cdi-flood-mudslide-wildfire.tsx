@@ -6,6 +6,8 @@ export const meta = {
   title: 'Flood and Mudslide After Wildfire: Why Your Homeowner Policy Covers It',
   description:
     'When wildfire causes subsequent flooding, mudslides, or earth movement, your homeowner policy covers the damage under California\'s efficient proximate cause doctrine. CDI Bulletin 2025-3 explains why.',
+  summary:
+    'When a wildfire causes later flooding, mudslides, or earth movement, your homeowner policy covers the damage under California\'s efficient proximate cause doctrine, because the fire was the predominant cause. CDI Bulletin 2025-3 confirms this.',
 }
 
 export default function Content() {
