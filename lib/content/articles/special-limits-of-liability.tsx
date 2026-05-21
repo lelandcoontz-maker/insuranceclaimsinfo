@@ -5,6 +5,8 @@ export const meta = {
   title: 'Special Limits of Liability: The Silent Traps in Every Homeowner Policy',
   description:
     'Your homeowner policy has hidden dollar caps on jewelry, firearms, coins, collectibles, and more. Learn about the sub-limits that silently reduce your claim — and how scheduling overcomes them.',
+  summary:
+    'Your homeowner policy quietly caps payment for categories like jewelry, firearms, coins, and collectibles, often far below their value. Scheduling these items overcomes the sub-limits, so review the special limits before you have a loss.',
 }
 
 export default function Content() {

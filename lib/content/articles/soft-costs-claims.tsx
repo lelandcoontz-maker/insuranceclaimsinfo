@@ -5,6 +5,8 @@ export const meta = {
   title: 'Soft Costs in Insurance Claims: The Hidden Expenses Carriers Strip From Your Estimate',
   description:
     'Soft costs like engineering fees, permits, supervision, and design services can add 15-25% to a claim. Learn what they are, why carriers fight them, and how to recover every dollar you are owed.',
+  summary:
+    'Soft costs, engineering fees, permits, supervision, and design services, can add 15 to 25% to a claim, yet carriers routinely strip them out. They are legitimate parts of the cost to rebuild, so itemize and demand them.',
 }
 
 export default function Content() {

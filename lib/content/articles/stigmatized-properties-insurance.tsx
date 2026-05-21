@@ -5,6 +5,8 @@ export const meta = {
   title: 'Stigmatized Properties and Insurance Claims: When the Damage Is to the Property\'s Reputation',
   description:
     'After a death, violent crime, drug manufacturing, or high-profile contamination event, a property may lose value even after full physical remediation. Learn how stigma affects property insurance claims, disclosure obligations, and what policyholders can do about diminution in value from reputational damage.',
+  summary:
+    'After a death, crime, drug operation, or notorious contamination, a property can lose value even after full physical repair, a stigma or reputational loss. Whether insurance covers this diminution is limited, and disclosure obligations also apply.',
 }
 
 export default function Content() {

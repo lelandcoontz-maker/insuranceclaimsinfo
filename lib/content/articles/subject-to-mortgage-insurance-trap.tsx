@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Insurance Trap in "Subject-To" Real Estate Deals: What Buyers and Sellers Need to Know',
   description:
     'When property changes hands in a subject-to transaction, the seller\'s insurance may be worthless and the buyer may have no coverage at all. Insurable interest, concealment, due-on-sale clauses, and the coverage gap that destroys families.',
+  summary:
+    'In a \'subject-to\' transaction, the buyer takes title but the seller\'s policy may be void and the buyer may have no coverage at all, due to insurable-interest and concealment problems. This gap can leave a family uninsured after a loss; arrange proper coverage at transfer.',
 }
 
 export default function Content() {

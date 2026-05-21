@@ -5,6 +5,8 @@ export const meta = {
   title: 'Electronics, Jewelry & Specialty Item Claims',
   description:
     'How high-value and specialty items are treated in insurance claims, including sublimits, scheduling, and documentation strategies.',
+  summary:
+    'High-value items like electronics, jewelry, and collectibles face sub-limits under standard coverage. Scheduling them and keeping documentation (appraisals, receipts, photos) is how you ensure full payment rather than a capped amount.',
 }
 
 export default function Content() {

@@ -4,6 +4,8 @@ export const meta = {
   title: 'Social Media and Your Insurance Claim: What Policyholders Actually Need to Know',
   description:
     'A nuanced guide to social media during property insurance claims. Covers SIU monitoring, what posts can hurt your claim, what is perfectly fine, ALE and travel, discoverability in litigation, and practical guidance for policyholders.',
+  summary:
+    'During a claim, SIU may monitor your social media, and some posts can undercut your case while most are harmless. Know what can hurt you (contradicting your stated losses), what is fine, and that posts may be discoverable in litigation.',
 }
 
 export default function Content() {

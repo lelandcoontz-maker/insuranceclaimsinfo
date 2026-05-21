@@ -5,6 +5,8 @@ export const meta = {
   title: 'Smoke Taint Claims: When Wildfire Ruins the Vintage Without Touching the Vines',
   description:
     'Wildfire smoke can render an entire vintage worthless without burning a single vine. Learn how smoke taint is detected, which insurance covers it at each stage from vine to barrel, and why most vineyard owners are underinsured for this specific peril.',
+  summary:
+    'Wildfire smoke can ruin an entire vintage without burning a vine, through smoke taint detectable in grapes and wine. Coverage varies by stage from vine to barrel, and most vineyard owners are underinsured for this specific peril.',
 }
 
 export default function Content() {

@@ -6,6 +6,8 @@ export const meta = {
   title: 'When Your Claim Is "Referred to SIU": What Special Investigations Really Means',
   description:
     'A comprehensive guide to Special Investigation Unit (SIU) referrals in California insurance claims. Covers what triggers an SIU investigation, your rights during the process, EUOs, surveillance, regulatory timelines, bad faith implications, and how to respond when your claim is under investigation.',
+  summary:
+    'An SIU referral means the insurer\'s Special Investigations Unit is treating your claim as possible fraud, which can trigger EUOs, surveillance, and delay. You retain rights and the duty to cooperate has limits; know what triggers SIU and how to respond without harming your claim.',
 }
 
 export default function Content() {

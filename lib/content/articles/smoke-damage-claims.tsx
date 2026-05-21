@@ -5,6 +5,8 @@ export const meta = {
   title: 'Smoke Damage Insurance Claims in California',
   description:
     'How to handle a smoke damage insurance claim — testing, remediation standards, coverage, the new Smoke Damage Recovery Act, and common insurer tactics.',
+  summary:
+    'Smoke damage is covered, and California\'s Smoke Damage Recovery Act and CDI guidance confirm carriers cannot dismiss it as merely cosmetic. Insist on proper testing and remediation standards, and document contamination to counter minimizing tactics.',
 }
 
 export default function Content() {

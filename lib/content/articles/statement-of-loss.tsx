@@ -5,6 +5,8 @@ export const meta = {
   title: 'The Statement of Loss: A Forgotten but Essential Claims Document',
   description:
     'What a statement of loss is, how it differs from a proof of loss, and why preparing one helps policyholders, public adjusters, and attorneys organize and understand a claim before taking the next step.',
+  summary:
+    'A statement of loss is a document organizing your claimed damages; unlike a sworn proof of loss, it is a working summary. Preparing one helps you, and your adjuster or attorney, understand and present the claim before the next step.',
 }
 
 export default function Content() {

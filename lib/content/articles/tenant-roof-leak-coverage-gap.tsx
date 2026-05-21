@@ -5,6 +5,8 @@ export const meta = {
   title: 'Roof Leaks in Leased Commercial Space: The Coverage Gap That Destroys Businesses',
   description:
     'When rain enters a leased commercial space through a neglected roof, neither the tenant\'s nor the landlord\'s policy may cover the damage. Learn why this gap exists, what triggers coverage, and how to protect yourself before a loss.',
+  summary:
+    'When rain enters leased commercial space through a neglected roof, neither the tenant\'s nor the landlord\'s policy may cover it, a gap that can destroy a business. Understand the lease and coverage triggers, and address roof responsibility before a loss.',
 }
 
 export default function Content() {

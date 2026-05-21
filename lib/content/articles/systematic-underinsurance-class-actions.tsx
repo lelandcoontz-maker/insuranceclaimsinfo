@@ -5,6 +5,8 @@ export const meta = {
   title: 'Systematic Underinsurance and Class Action Litigation Against Carriers',
   description:
     'How insurers systematically undervalue properties at policy inception, leaving entire classes of policyholders underinsured when losses occur, and the class action litigation that has followed.',
+  summary:
+    'Insurers often undervalue homes at policy inception, leaving whole classes of policyholders underinsured when disaster strikes. This pattern has driven class-action litigation challenging the carriers\' replacement-cost estimating practices.',
 }
 
 export default function Content() {

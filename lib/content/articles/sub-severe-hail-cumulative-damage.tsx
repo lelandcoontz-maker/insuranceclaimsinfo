@@ -4,6 +4,8 @@ export const meta = {
   title: 'Sub-Severe Hail: Why Small Hailstones Cause Big Problems',
   description:
     'IBHS research proves shingles hit by small hail become ten times more vulnerable to future storms. Your insurer cannot dismiss \'too-small\' hail.',
+  summary:
+    'IBHS research shows shingles struck by small, \'sub-severe\' hail become far more vulnerable to future storms, so insurers cannot dismiss smaller hail as harmless. Cumulative impact damage is real and supports a claim.',
 }
 
 export default function Content() {

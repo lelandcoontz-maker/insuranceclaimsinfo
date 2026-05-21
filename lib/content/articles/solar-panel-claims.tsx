@@ -5,6 +5,8 @@ export const meta = {
   title: 'Solar Panel Damage Insurance Claims: Coverage Disputes, Fire Code Setbacks, and Lease Complications',
   description:
     'Solar panels on California homes create unique insurance claim issues — Coverage A vs. B disputes, microinverter compatibility, fire code setback requirements, lease complications, and carrier tactics for underpaying panel damage.',
+  summary:
+    'Solar panel claims raise Coverage A versus B disputes, microinverter compatibility, fire-code setback requirements, and lease complications. Carriers underpay panel damage; know how your system is insured and the code rules that drive the true repair cost.',
 }
 
 export default function Content() {

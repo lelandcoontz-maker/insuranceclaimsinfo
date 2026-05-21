@@ -5,6 +5,8 @@ export const meta = {
   title: 'Smoke Cleanup Protocols: What Your Insurance Company Should Be Paying For',
   description:
     'A technical guide to smoke damage remediation methods, deodorization protocols, and the insurance disputes that arise when carriers underpay cleanup costs.',
+  summary:
+    'Proper smoke remediation follows recognized cleaning and deodorization protocols matched to the contamination, not a quick wipe-down. Carriers underpay by skipping steps; knowing the correct protocols helps you claim the full cost of cleanup.',
 }
 
 export default function Content() {

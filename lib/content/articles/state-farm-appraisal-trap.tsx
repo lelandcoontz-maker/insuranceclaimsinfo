@@ -5,6 +5,8 @@ export const meta = {
   title: "Games Insurers Play: The Appraisal Trap",
   description:
     "How some insurers use procedural objections, umpire selection disputes, and timing delays to undermine the appraisal process — and how policyholders can fight back under California law.",
+  summary:
+    'Some insurers undermine appraisal through procedural objections, umpire-selection fights, and timing delays. Recognize these tactics and use California law on the appraisal process to keep it on track and enforce a fair award.',
 }
 
 export default function Content() {

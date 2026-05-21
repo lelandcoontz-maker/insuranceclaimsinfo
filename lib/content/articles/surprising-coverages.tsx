@@ -5,6 +5,8 @@ export const meta = {
   title: 'Surprising Coverages Most Policyholders Do not Know They Have',
   description:
     'Your homeowner policy covers more than you think — gravestones, college dorm belongings, unlicensed farm vehicles, worker injuries, and more. Learn about the hidden coverages in your HO-3 policy.',
+  summary:
+    'Your HO-3 covers more than most people realize, including things like gravestones, a student\'s dorm belongings, certain volunteer or worker injuries, and more. Knowing these hidden coverages helps you claim everything your policy actually provides.',
 }
 
 export default function Content() {

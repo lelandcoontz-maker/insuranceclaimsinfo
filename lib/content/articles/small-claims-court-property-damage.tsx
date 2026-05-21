@@ -5,6 +5,8 @@ export const meta = {
   title: 'Taking Your Property Damage Dispute to Small Claims Court',
   description:
     'When an insurance dispute involves a manageable dollar amount, small claims court can be an effective and affordable option. Learn jurisdiction limits, preparation, and when to escalate instead.',
+  summary:
+    'For modest insurance disputes, small claims court is a fast, affordable option with no lawyer required, up to the jurisdictional dollar limit. Prepare your evidence carefully, and escalate to regular court when the amount or complexity exceeds small claims.',
 }
 
 export default function Content() {

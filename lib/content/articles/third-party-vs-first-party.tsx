@@ -6,6 +6,8 @@ export const meta = {
     'Third-Party Claim vs. First-Party Claim: Which Strategy Is Right for Your Property Damage?',
   description:
     'When someone else damages your property, should you pursue their insurance or file with your own? A detailed comparison of both strategies — the pros, cons, and when to pivot.',
+  summary:
+    'When someone else damages your property, you can claim against their insurer (third-party) or your own (first-party). First-party is usually faster and you control it; third-party may avoid your deductible and premium impact. Weigh speed, control, and recovery.',
 }
 
 export default function Content() {

@@ -5,6 +5,8 @@ export const meta = {
   title: 'Swimming Pool Damage Insurance Claims: Coverage, Exclusions, and How to Maximize Your Recovery',
   description:
     'How swimming pool damage is covered under homeowners insurance — Coverage B limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.',
+  summary:
+    'Pool damage usually falls under the limited Coverage B and involves disputes over freeze, equipment breakdown, pop-outs, wildfire ash, and earth movement. Scheduling or coverage stacking and the efficient proximate cause doctrine can improve recovery.',
 }
 
 export default function Content() {

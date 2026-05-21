@@ -5,6 +5,8 @@ export const meta = {
   title: 'Filing Supplemental Claims: Getting Paid for What They Missed',
   description:
     'How to file a supplement when the insurance company\'s estimate missed damage, and how to maximize your recovery through the supplement process.',
+  summary:
+    'When the insurer\'s estimate misses damage, you file a supplement for the additional amount. Document each missed or newly discovered item with photos and estimates to maximize recovery; supplements are a standard, legitimate part of the process.',
 }
 
 export default function Content() {

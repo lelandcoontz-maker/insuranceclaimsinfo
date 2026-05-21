@@ -5,6 +5,8 @@ export const meta = {
   title: 'Spoilage Coverage: When Temperature-Sensitive Inventory Is Your Business',
   description:
     'How spoilage coverage protects perishable inventory from power outages and equipment failure, what standard policies exclude, and how to avoid devastating sublimits.',
+  summary:
+    'Spoilage coverage protects perishable inventory from power outages and equipment failure, which standard property policies often exclude. Watch for low sub-limits, because for a temperature-dependent business, an inadequate spoilage limit can be devastating.',
 }
 
 export default function Content() {

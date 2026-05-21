@@ -5,6 +5,8 @@ export const meta = {
   title: 'Theft and Burglary Insurance Claims: What Policyholders Need to Know',
   description:
     'A comprehensive guide to filing theft and burglary claims under homeowner insurance policies. Covers Coverage A, B, and C, sublimits, mysterious disappearance, vacancy exclusions, SIU investigations, and California-specific rules.',
+  summary:
+    'Theft and burglary claims involve Coverage C limits and sub-limits on items like jewelry and cash, the \'mysterious disappearance\' issue, vacancy exclusions, and possible SIU scrutiny. File a police report and document losses to support the claim.',
 }
 
 export default function Content() {

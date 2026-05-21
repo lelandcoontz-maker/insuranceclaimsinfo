@@ -5,6 +5,8 @@ export const meta = {
   title: 'Slab Leak Insurance Claims: Hidden Damage, Fill Dirt, and the Underground Pipe Myth',
   description:
     'Why a slab leak causes far more damage than the surface reveals, why the \'underground pipe\' exclusion usually doesn\'t apply, and how to fight for full coverage on your slab leak insurance claim in California.',
+  summary:
+    'A slab leak causes far more hidden damage than the surface shows, and the \'underground pipe\' exclusion usually does not bar the resulting water damage. Document the full extent and the ensuing damage to fight for complete coverage in California.',
 }
 
 export default function Content() {

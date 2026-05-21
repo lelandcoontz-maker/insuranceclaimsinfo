@@ -5,6 +5,8 @@ export const meta = {
   title: 'Social Media and Insurance Claims: What Policyholders Need to Know',
   description:
     'How insurance companies use social media, satellite imagery, and digital evidence to investigate property claims — and what policyholders should know to protect themselves.',
+  summary:
+    'Insurers mine social media, satellite imagery, and digital evidence to investigate and challenge property claims. Be mindful of what you post during a claim, since photos or comments can be taken out of context to dispute your loss.',
 }
 
 export default function Content() {

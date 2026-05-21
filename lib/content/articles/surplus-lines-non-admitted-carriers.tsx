@@ -5,6 +5,8 @@ export const meta = {
   title: 'Surplus Lines Insurance: The Hidden Risks of Non-Admitted Carriers',
   description:
     'What California homeowners need to know about surplus lines (E&S) insurance — the key differences from admitted carriers, the lack of CIGA guaranty fund protection, higher premiums, coverage gaps, and how to evaluate an E&S policy.',
+  summary:
+    'Surplus lines (E&S) carriers are non-admitted, so they are not backed by the CIGA guaranty fund if they fail and may carry higher premiums and coverage gaps. Know these risks before relying on an E&S policy in California.',
 }
 
 export default function Content() {

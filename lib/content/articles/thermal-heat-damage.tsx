@@ -5,6 +5,8 @@ export const meta = {
   title: 'Thermal and Heat Damage from Nearby Wildfires: The Hidden Damage Your Insurer May Miss',
   description:
     'Your home survived the wildfire — but it may still be damaged. Extreme heat from a nearby fire can warp siding, compromise windows, damage roofing underlayment, and degrade wiring — all without visible flame contact. Learn what to look for.',
+  summary:
+    'A home that survived a nearby wildfire can still be damaged by radiant heat, warped siding, compromised windows, degraded roofing underlayment, and harmed wiring, without ever touching flame. Look for and document this hidden heat damage.',
 }
 
 export default function Content() {

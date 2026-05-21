@@ -5,6 +5,8 @@ export const meta = {
   title: 'Tenant vs. Landlord Insurance Claims: Who Files, Who Pays, and Who Gets Left Out',
   description:
     'Landlord policies and renter’s policies cover different things. When a loss occurs at a rental property, who files for what? Learn the coverage gaps, CA Civil Code duties, and how to avoid being the one left without a check.',
+  summary:
+    'A landlord\'s policy covers the building; a renter\'s policy covers the tenant\'s belongings and liability. When a loss hits a rental, knowing who files for what, plus California Civil Code duties, prevents someone from being left without a check.',
 }
 
 export default function Content() {

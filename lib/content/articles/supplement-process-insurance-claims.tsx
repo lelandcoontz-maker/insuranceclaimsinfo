@@ -4,6 +4,8 @@ export const meta = {
   title: 'The Supplement Process: Why Your First Estimate Is Almost Never the Last',
   description:
     'A comprehensive guide to insurance claim supplements — why they are normal, when they are needed, how carriers resist them, documentation best practices, and the role of public adjusters and contractors in securing full payment for hidden and additional damage.',
+  summary:
+    'Supplements are normal: the first estimate rarely captures hidden or additional damage found during repairs. Document the new items thoroughly and expect carrier resistance; contractors and public adjusters help secure the added payment you are owed.',
 }
 
 export default function Content() {
