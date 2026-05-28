@@ -57,11 +57,13 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is an important distinction. The legal standard for bad faith is
-        not &quot;wrong&quot; — it is &quot;unreasonable.&quot; An insurance company can deny a claim
-        and be wrong without acting in bad faith, as long as their denial was based on a legitimate
-        and reasonable interpretation of the facts or the policy. Under California law — as
-        established in cases like <em>Gruenberg v. Aetna</em> and <em>Chateau Chamberay Homeowners
-        Ass&apos;n v. Associated Int&apos;l Ins. Co.</em> — the question is whether the insurer&apos;s
+        not &quot;wrong&quot; &mdash; it is &quot;unreasonable.&quot; An insurance company can
+        deny a claim and be wrong without acting in bad faith, as long as their denial was
+        based on a legitimate and reasonable interpretation of the facts or the policy. Under
+        California law &mdash; as established in cases like{' '}
+        <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 9 Cal.3d 566 and{' '}
+        <em>Chateau Chamberay Homeowners Ass&apos;n v. Associated International Insurance
+        Co.</em> (2001) 90 Cal.App.4th 335 &mdash; the question is whether the insurer&apos;s
         conduct was unreasonable or without proper cause. For a layperson, bad faith is essentially
         synonymous with unreasonable conduct: the insurer acted without a reasonable basis for its
         position, or it failed to properly investigate before taking that position. The insurer does
@@ -195,13 +197,18 @@ export default function Content() {
         Statutory Violations Are Not Automatically Causes of Action
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance Code § 790.03 defines unfair claims practices, but it{' '}
-        <strong>does not create a direct private right of action</strong>. This is a critical
-        legal point. You cannot sue your insurance company solely for violating § 790.03 — the
-        statute itself does not give you standing to bring a claim in court based on that
-        violation alone. The statute defines the standards, but the cause of action comes from
-        elsewhere — typically the implied covenant of good faith and fair dealing (bad faith) or
-        breach of contract.
+        Insurance Code &sect; 790.03 defines unfair claims practices, but it{' '}
+        <strong>does not create a direct private right of action</strong>. The California
+        Supreme Court held in <em>Moradi-Shalal v. Fireman&apos;s Fund Ins. Co.</em> (1988) 46
+        Cal.3d 287 that insureds cannot sue an insurer solely for violating &sect; 790.03
+        &mdash; the statute itself does not give the insured standing to bring a claim in court
+        based on that violation alone. The Supreme Court later confirmed this rule in{' '}
+        <em>Zhang v. Superior Court</em> (2013) 57 Cal.4th 364, while holding that insureds
+        may pursue separate Unfair Competition Law (UCL) claims based on the same underlying
+        conduct, provided the UCL claim does not depend on a private right of action under
+        &sect; 790.03. The statute defines the standards, but the cause of action comes from
+        elsewhere &mdash; typically the implied covenant of good faith and fair dealing (bad
+        faith) or breach of contract.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This means that even if you can point to specific statutory violations, those violations
@@ -212,14 +219,18 @@ export default function Content() {
         behavior fell below that standard.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While regulatory violations alone do not create a separate lawsuit, they are among the
-        strongest evidence in a bad faith case. A pattern of regulatory violations — missed
-        deadlines, failure to investigate, unreasonably low offers, failure to provide required
-        documentation — builds the factual foundation for a bad faith claim. An experienced
-        attorney will weave these violations into the broader bad faith narrative rather than
-        treating them as isolated incidents. The regulations exist because they define what
-        reasonable claim handling looks like. When an insurer systematically ignores those
-        standards, that pattern tells a story — and it is a story that juries understand.
+        While regulatory violations alone do not create a separate lawsuit &mdash; the
+        <em> Moradi-Shalal</em> rule means an insured cannot sue solely on a &sect; 790.03 or
+        regulatory violation &mdash; a pattern of regulatory violations is often material
+        evidence in a bad faith case. Missed deadlines, inadequate investigation, unreasonably
+        low offers, and failure to provide required documentation, taken together, can build
+        the factual foundation a plaintiff&rsquo;s attorney would use to argue the underlying
+        contract breach was handled in bad faith. Experienced counsel weave these violations
+        into the broader bad faith narrative rather than treating them as isolated incidents.
+        The regulations exist because they define what reasonable claim handling looks like.
+        When an insurer systematically ignores those standards, that pattern can tell a story
+        that juries understand &mdash; with the legal weight depending on the facts of the
+        specific case.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -322,21 +333,43 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Recent Case Example: <em>Aliff v. California FAIR Plan</em> (2025)
+        Recent Example: California FAIR Plan Smoke-Damage Policy Language
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A recent illustration of how coverage disputes and bad faith can intersect is{' '}
-        <em>Aliff v. California FAIR Plan Association</em> (2025). For years the FAIR Plan had
-        limited smoke-damage coverage to damage involving a &ldquo;permanent physical change&rdquo;
-        visible to the unaided eye, and used that language to deny or minimize smoke claims. The
-        court held the restrictive language was narrower than the coverage required by California
-        Insurance Code &sect; 2070 (the Standard Fire Policy). Following <em>Aliff</em>, the FAIR
-        Plan agreed to strike much of the offending language. The decision is significant because
-        it illustrates that coverage interpretations insurers treat as &ldquo;reasonable&rdquo; are
-        not immune from later judicial rejection — and that continuing to apply a coverage theory
-        a court has already rejected may be difficult to defend as reasonable going forward. This
-        is a general illustration, not legal advice; only a licensed California attorney can
-        advise you on how <em>Aliff</em> applies to your specific claim.
+        A recent illustration of how coverage disputes and bad faith can intersect is the
+        California FAIR Plan&rsquo;s &ldquo;permanent physical change&rdquo; smoke-damage
+        restriction. For years the FAIR Plan had limited smoke-damage coverage to damage
+        involving a &ldquo;permanent physical change&rdquo; visible to the unaided eye, and used
+        that language to deny or minimize smoke claims. Two parallel California actions
+        addressed the language in 2025:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
+        <li>
+          <strong>Judicial:</strong> In <em>Aliff v. California FAIR Plan Association</em>
+          (L.A. Super. Ct., June 24, 2025) (Case No. 21STCV20095), the Los Angeles Superior
+          Court granted in part the plaintiff&rsquo;s motion for summary adjudication, holding
+          that the &ldquo;permanent physical change&rdquo; language provided less coverage
+          than is required by California Insurance Code &sect; 2070 (the Standard Fire
+          Policy). The order is a trial-court ruling, not a published appellate decision, so
+          it is persuasive rather than binding statewide. The FAIR Plan publicly indicated it
+          was unlikely to appeal and was in the process of updating its policy language.
+        </li>
+        <li>
+          <strong>Regulatory:</strong> In May 2025, the California Department of Insurance
+          issued a formal legal directive declaring the FAIR Plan&rsquo;s &ldquo;permanent
+          damage&rdquo; policy language unlawful and unenforceable. In July 2025, CDI filed
+          an Order to Show Cause and proposed cease-and-desist order against the FAIR Plan
+          based on its systematic application of the language to deny and limit smoke
+          damage claims.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The example illustrates a broader bad-faith principle: coverage interpretations
+        insurers treat as &ldquo;reasonable&rdquo; are not immune from later judicial
+        rejection or regulatory challenge. Continuing to apply a coverage theory that a
+        court or regulator has rejected may be difficult to defend as reasonable going
+        forward. How any specific policy reading affects a particular claim is a question
+        for a California-licensed attorney.
       </p>
 
       <CalloutBox variant="legal" title="Consult an Attorney">
@@ -398,13 +431,17 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is an important and often overlooked part of a Public Adjuster&apos;s function. The
-        PA is not an attorney and does not file lawsuits. But by doing their job thoroughly —
-        putting everything in writing, tracking deadlines, documenting the insurer&apos;s
-        responses and failures to respond, and preserving the record — the Public Adjuster builds
-        a file that an attorney can use if litigation becomes necessary. Many policyholders who
-        handle claims on their own fail to create this documentation, and when they later consult
-        an attorney, there is little evidence to support their case beyond their own recollection.
-        A Public Adjuster&apos;s file changes that equation entirely.
+        PA is not an attorney and does not file lawsuits &mdash; California Insurance Code{' '}
+        &sect; 15002 expressly provides that the Public Adjuster Act does not authorize the
+        practice of law. The PA&rsquo;s role is to adjust the claim: develop the scope, document
+        the conditions, negotiate the settlement, and create a contemporaneous file of how the
+        insurer actually handled the matter. The documentation that emerges from thorough public-
+        adjusting work is often the foundation an attorney would use if litigation later becomes
+        necessary &mdash; but the litigation itself is the attorney&rsquo;s work, not the
+        PA&rsquo;s. Many policyholders who handle claims on their own fail to create this
+        documentation, and when they later consult an attorney, there is little evidence to
+        support their case beyond their own recollection. A Public Adjuster&apos;s file changes
+        that equation entirely.
       </p>
 
       <CalloutBox variant="tip" title="The PA Builds the Record the Attorney May Need">
@@ -510,21 +547,37 @@ export default function Content() {
         tolerate genuinely unreasonable conduct either.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, bad faith can support an award of punitive damages — damages designed to
-        punish the insurer, not just compensate the policyholder. Punitive damages are not capped
-        in California insurance bad faith cases and can significantly exceed the policy limits.
-        Courts consider the reprehensibility of the insurer&apos;s conduct, the ratio between
-        actual harm and the punitive award, and comparable penalties in similar cases. This is one
-        of the primary reasons that claims involving suspected bad faith should be evaluated by an
-        attorney — the potential recovery in litigation may be many times greater than what can be
-        achieved through negotiation or appraisal alone. An attorney experienced in insurance bad
-        faith can assess whether the insurer&apos;s conduct rises to the level where punitive
-        damages are a realistic possibility and advise accordingly.
+        In California, bad faith can support an award of punitive damages &mdash; damages
+        designed to punish the insurer, not just compensate the policyholder. California has no
+        statutory cap on punitive damages in insurance bad faith cases, but federal due process
+        imposes a meaningful ceiling. The U.S. Supreme Court held in{' '}
+        <em>State Farm Mut. Auto. Ins. Co. v. Campbell</em> (2003) 538 U.S. 408, 425, that
+        &ldquo;few awards exceeding a single-digit ratio between punitive and compensatory
+        damages, to a significant degree, will satisfy due process.&rdquo; The California Supreme
+        Court applied this rule in <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th
+        1159, 1182, observing that ratios significantly greater than 9 or 10 to 1 are suspect.
+        And in <em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686, 719, the California Supreme
+        Court held that where compensatory damages are &ldquo;substantial&rdquo; (and especially
+        where they include a significant noneconomic component), a 1:1 ratio may be the
+        constitutional maximum.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A Public Adjuster can build the factual foundation of a bad faith case — documenting
-        regulatory violations, unreasonable delays, and lowball offers — while an attorney pursues
-        the legal claims.
+        In practice, this means that the realistic punitive damages exposure in California
+        insurance bad faith cases tends to land in the low single digits relative to compensatory
+        damages. Courts evaluate the reprehensibility of the insurer&apos;s conduct, the ratio
+        between actual harm and the punitive award, and comparable penalties in similar cases.
+        Even with the constitutional ceiling, the potential recovery in litigation may exceed
+        what is achievable through negotiation or appraisal alone &mdash; especially in cases
+        with relatively modest compensatory damages but egregious conduct. An attorney
+        experienced in insurance bad faith can evaluate whether punitive damages are a realistic
+        possibility on a specific set of facts.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A Public Adjuster typically develops the factual record &mdash; documenting regulatory
+        compliance issues, delays, and offer history &mdash; in the ordinary course of adjusting
+        the claim. If a bad-faith dispute later emerges, that contemporaneous record is often
+        what an attorney would build a legal case around. The PA&rsquo;s role is the
+        adjusting; the attorney&rsquo;s role is the legal claim.
       </p>
     </>
   )

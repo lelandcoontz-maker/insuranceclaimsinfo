@@ -15,10 +15,11 @@ export default function Content() {
       <CalloutBox variant="legal" title="Legal Disclaimer">
         <p>
           This article is for educational purposes only and does not constitute legal advice.
-          Bad faith litigation is complex and fact-specific. The case law discussed below is
-          provided for general educational context &mdash; it should not be cited in letters to
-          insurance carriers, as doing so may constitute the unauthorized practice of law.
-          Consult a licensed California attorney before pursuing any legal action.
+          Bad faith litigation is complex and fact-specific. A public adjuster&apos;s role is to
+          document the carrier&apos;s conduct and handle the claim; the development of legal
+          arguments, the selection of legal theories, and the conduct of litigation are the work
+          of a California-licensed attorney (Insurance Code &sect; 15002). Consult a licensed
+          California attorney before pursuing any legal action.
         </p>
       </CalloutBox>
 
@@ -160,30 +161,57 @@ export default function Content() {
         its progeny. The reasoning is the same: insurance is purchased for security and peace of
         mind, the insurer knows that its bad faith will cause emotional harm, and that harm is
         therefore a foreseeable consequence of the tort. The <em>Crisci</em> doctrine means that
-        California policyholders do not need to prove physical manifestation of their distress,
-        do not need a psychiatric diagnosis, and do not need independent corroboration &mdash;
-        although all of these strengthen the claim. The policyholder&apos;s own testimony about
-        the impact on their life is sufficient.
+        California courts applying the <em>Crisci</em> doctrine have permitted recovery of
+        emotional distress damages without requiring proof of physical manifestation, a
+        psychiatric diagnosis, or independent corroboration &mdash; though all of these can
+        strengthen the claim. Many plaintiff attorneys have prevailed on the policyholder&rsquo;s
+        own testimony about the impact on their life. Whether testimony alone is sufficient in
+        any specific case depends on the trier of fact.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Practically, emotional distress damages in insurance bad faith cases can be substantial.
-        Juries respond powerfully to testimony about a family losing their home, living in
-        uncertainty for months or years, watching their health decline while the insurer refuses
-        to pay. When combined with the financial devastation of an underpaid or denied claim,
-        emotional distress damages often exceed the contract damages themselves.
+        Practically, emotional distress damages in insurance bad-faith cases can be substantial.
+        In our experience, the human story behind a long, contested claim &mdash; the
+        displacement, the financial pressure, the health effects &mdash; carries real weight at
+        trial when documented well. Where emotional distress is fully developed in the record,
+        it can in some cases approach or exceed contract damages. Outcomes vary widely with the
+        facts.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Punitive Damages
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Punitive damages are available when the insurer&rsquo;s conduct is &ldquo;oppressive,
-        fraudulent, or malicious&rdquo; under California Civil Code &sect;3294.
-        &ldquo;Oppressive&rdquo; means subjecting the policyholder to cruel and unjust hardship
-        in conscious disregard of their rights. &ldquo;Malicious&rdquo; means willful and
-        conscious disregard of the policyholder&rsquo;s rights. &ldquo;Fraudulent&rdquo; means
-        intentional misrepresentation or concealment of material facts.
+        Punitive damages are available where the insurer&rsquo;s conduct meets the standards
+        in California Civil Code &sect;3294. Section 3294(c) provides the statutory definitions:
       </p>
+
+      <CalloutBox variant="legal" title="Cal. Civ. Code § 3294(c) — Definitions">
+        <p className="italic mt-2">
+          (1) &ldquo;Malice&rdquo; means conduct which is intended by the defendant to cause
+          injury to the plaintiff or despicable conduct which is carried on by the defendant
+          with a willful and conscious disregard of the rights or safety of others.
+        </p>
+        <p className="italic mt-2">
+          (2) &ldquo;Oppression&rdquo; means despicable conduct that subjects a person to cruel
+          and unjust hardship in conscious disregard of that person&rsquo;s rights.
+        </p>
+        <p className="italic mt-2">
+          (3) &ldquo;Fraud&rdquo; means an intentional misrepresentation, deceit, or concealment
+          of a material fact known to the defendant with the intention on the part of the
+          defendant of thereby depriving a person of property or legal rights or otherwise
+          causing injury.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="info" title="In plain language">
+        <p>
+          Many plaintiff attorneys read &sect;3294(c) as requiring more than a careless or
+          mistaken denial. The conduct generally must rise to &ldquo;despicable&rdquo; behavior
+          carried out with intent or with conscious disregard for the insured&apos;s rights.
+          Whether specific insurer conduct meets this standard is a fact-intensive legal
+          question for the courts and attorneys involved.
+        </p>
+      </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">
         For educational context, <em>Neal v. Farmers Ins. Exchange</em> (1978) 21 Cal.3d 910
         established the framework for punitive damages in insurance bad faith. The court held
@@ -194,10 +222,16 @@ export default function Content() {
         not cite case law in carrier correspondence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Punitive damages in California are not capped by statute. Courts consider the
-        reprehensibility of the insurer&rsquo;s conduct, the ratio between compensatory and
-        punitive damages, and the insurer&rsquo;s financial condition. Punitive damages
-        regularly exceed compensatory damages, sometimes by a significant multiple.
+        Punitive damages in California are not capped by statute, but federal due-process
+        principles do constrain them. The U.S. Supreme Court&rsquo;s decisions in <em>BMW of
+        North America v. Gore</em> (1996) 517 U.S. 559 and <em>State Farm Mut. Auto. Ins. Co.
+        v. Campbell</em> (2003) 538 U.S. 408 set out three reprehensibility factors and a
+        general guidepost that &ldquo;few awards exceeding a single-digit ratio between
+        punitive and compensatory damages&rdquo; will satisfy due process, with a 4:1 ratio
+        cited as instructive for many cases. California courts apply these federal due-process
+        constraints alongside California&apos;s reprehensibility, ratio, and financial-condition
+        analysis. Punitive awards in insurance bad-faith cases can substantially exceed
+        compensatory damages, but the ratio is a litigated question and outcomes vary widely.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -243,7 +277,7 @@ export default function Content() {
         Prejudgment Interest
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California provides for prejudgment interest under two statutes:
+        California provides for prejudgment interest under several statutes:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -253,35 +287,62 @@ export default function Content() {
         </li>
         <li>
           <strong>Civil Code &sect;3288</strong> &mdash; discretionary interest on uncertain
-          damages such as emotional distress or punitive damages.
+          damages such as emotional distress in tort actions.
+        </li>
+        <li>
+          <strong>Civil Code &sect;3289(b)</strong> &mdash; the 10% per annum rate for breach of
+          contract where the contract does not stipulate a rate.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The legal rate is 10% per year. On a claim wrongfully withheld for years, prejudgment
-        interest alone can add a substantial sum to the recovery.
+        Which rate applies depends on the legal theory. Many plaintiff attorneys argue 10% per
+        annum applies to the contract-component damages under &sect;3289(b); the general 7%
+        legal rate under California Constitution Article XV, Section 1 applies to other
+        categories. Whether and at what rate prejudgment interest applies in a specific case
+        is a legal question for an attorney. On a claim wrongfully withheld for years,
+        prejudgment interest can add a substantial sum to the recovery.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Elder Abuse Enhancement
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the policyholder is 65 or older, or is a dependent adult, Welfare and Institutions
-        Code &sect;15610.30 may unlock additional remedies beyond standard bad faith:
+        When the policyholder is 65 or older, or is a dependent adult, the California Elder
+        Abuse and Dependent Adult Civil Protection Act may unlock additional remedies beyond
+        standard bad faith. The framework spans several Welfare and Institutions Code sections:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Attorney&rsquo;s fees beyond Brandt fees</strong> &mdash; potentially
-          covering the full cost of litigation, not just fees attributable to recovering
-          policy benefits.
+          <strong>&sect;15610.30 (definition).</strong> Defines &ldquo;financial abuse&rdquo; of
+          an elder or dependent adult &mdash; conduct that takes, secretes, appropriates,
+          obtains, or retains real or personal property of the elder for a wrongful use, with
+          intent to defraud, or by undue influence. Many plaintiff attorneys argue that an
+          insurer&apos;s unreasonable retention of policy benefits owed to an elder can fall
+          within this definition.
         </li>
         <li>
-          <strong>Survival actions</strong> &mdash; if the elder dies during the claim, the
-          cause of action survives and can be pursued by the estate.
+          <strong>&sect;15657.5 (financial-abuse remedies).</strong> Where financial abuse is
+          proven by clear and convincing evidence and the defendant acted with recklessness,
+          oppression, fraud, or malice, the court shall award reasonable attorney&rsquo;s fees
+          and costs &mdash; potentially covering the full cost of litigation, not just fees
+          attributable to recovering policy benefits.
         </li>
         <li>
-          <strong>Potentially larger punitive damages</strong> &mdash; courts may view the
-          insurer&rsquo;s conduct as more reprehensible when directed at a vulnerable
-          population.
+          <strong>&sect;15657 (physical-abuse / neglect remedies).</strong> Where physical abuse
+          or neglect is proven by the same standard, the court may award attorney&rsquo;s fees,
+          and certain limitations on pre-death pain-and-suffering damages are lifted.
+        </li>
+        <li>
+          <strong>Survival actions.</strong> If the elder dies during the claim, the cause of
+          action survives under Code Civ. Proc. &sect;377.34 (subject to its limits) and can be
+          pursued by the estate. The interplay between elder-abuse remedies and survival-action
+          limits is a legal question for an attorney.
+        </li>
+        <li>
+          <strong>Potentially larger punitive damages.</strong> Many plaintiff attorneys observe
+          that juries and courts view insurer conduct as more reprehensible when directed at a
+          vulnerable population &mdash; one of the three reprehensibility factors under{' '}
+          <em>BMW v. Gore</em>.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -294,10 +355,11 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Age Matters in Bad Faith Cases">
         <p>
-          If the policyholder is 65 or older, the elder abuse framework can significantly
-          change the calculus of a bad faith case. An attorney should always consider whether
-          this statute applies, as it opens additional avenues of recovery and can substantially
-          increase pressure on the insurer to resolve the case.
+          Where the policyholder is 65 or older, the elder-abuse framework can materially
+          change the calculus of a bad-faith case. Many plaintiff attorneys evaluate whether
+          the Welfare and Institutions Code remedies apply at intake, since they can open
+          additional avenues of recovery and shift settlement leverage. Whether the framework
+          applies in a specific case is a legal evaluation for counsel.
         </p>
       </CalloutBox>
 
@@ -355,7 +417,8 @@ export default function Content() {
             malicious conduct (Civil Code &sect;3294); no statutory cap
           </li>
           <li>
-            <strong>Prejudgment interest:</strong> Up to 10% per year on certain damages
+            <strong>Prejudgment interest:</strong> Up to 10% per year on contract-component
+            damages under Civ. Code &sect;3289(b); 7% on other categories where available
           </li>
           <li>
             <strong>Elder abuse enhancements:</strong> Broader attorney&rsquo;s fees, survival
@@ -468,6 +531,25 @@ export default function Content() {
         of the damages caused, and proof that the two are connected. Build that proof from day
         one.
       </p>
+
+      <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
+        <h3 className="text-lg font-bold text-[#1F3964] mb-2">
+          Concerned About How Your Claim Is Being Handled?
+        </h3>
+        <p className="text-gray-600 text-sm mb-4">
+          A licensed public adjuster can review an insurance claim file to identify underpaid
+          items and may be able to use regulatory violations to support negotiation for a more
+          complete settlement. A public adjuster may also identify issues that warrant
+          consultation with an attorney. Most public adjusters and attorneys will provide a
+          free consultation.
+        </p>
+        <Link
+          href="/contact"
+          className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors"
+        >
+          Request a Free Claim Review &rarr;
+        </Link>
+      </div>
     </>
   )
 }

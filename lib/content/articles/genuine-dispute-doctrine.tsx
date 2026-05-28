@@ -123,24 +123,49 @@ export default function Content() {
         The trial court concluded that AIIC and the HOA had a &ldquo;genuine dispute&rdquo; as to
         what was covered under the policy and the proper amount of the loss, and that AIIC could
         not be found liable in bad faith for its adjustment activities and resulting delayed
-        payment. The Court of Appeal affirmed, but in doing so, it established critical limits
-        on the doctrine. The court held that the genuine dispute defense applies to disputes over
-        both the existence and the amount of coverage. But it also carved out five circumstances
-        where the doctrine will not protect the insurer:
+        payment. The Court of Appeal affirmed summary adjudication for the insurer &mdash; a
+        defense win on the facts. But in doing so, the court extended the doctrine to factual
+        disputes (not just legal-coverage disputes) and identified examples of conduct that
+        could justify submission of the genuine-dispute question to a jury rather than
+        resolution on summary judgment:
       </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
-        <li>The insurer was guilty of <strong>misrepresenting the nature of the investigatory proceedings</strong></li>
-        <li>The insurer&rsquo;s employees <strong>lied during depositions or to the insured</strong></li>
-        <li>The insurer <strong>dishonestly selected its experts</strong></li>
-        <li>The insurer&rsquo;s experts <strong>were unreasonable</strong></li>
-        <li>The insurer <strong>failed to conduct a thorough investigation</strong></li>
-      </ul>
+
+      <CalloutBox variant="legal" title="Chateau Chamberay — Examples of Conduct That Defeats the Genuine Dispute Defense (verbatim)">
+        <p className="italic">
+          Of course, an insurer is not entitled to judgment as a matter of law where, viewing the
+          facts in the light most favorable to the insured, a jury could conclude that the insurer
+          acted unreasonably. For example, a jury could conclude an insurer acted unreasonably if
+          it: (1) misrepresented the nature of the investigatory proceedings; (2) misrepresented
+          the insured&rsquo;s statements; (3) selectively relied on facts that supported denial of
+          the claim; (4) ignored the insured&rsquo;s evidence; or (5) conducted a biased
+          investigation.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
-        These five factors &mdash; often called the <em>Chateau Chamberay</em> exceptions &mdash;
-        form the framework that plaintiff attorneys use to attack the genuine dispute defense to
-        this day. The court&rsquo;s language was explicit: an insurer cannot &ldquo;insulate itself
-        from liability for bad faith conduct by the simple expedient of hiring an expert for the
-        purpose of manufacturing a &lsquo;genuine dispute.&rsquo;&rdquo;
+        Immediately after that list, the court added a footnote that has become one of the most
+        important sentences in California insurance bad-faith law:
+      </p>
+
+      <CalloutBox variant="legal" title="Chateau Chamberay — The Expert-Manufacture Exception (verbatim)">
+        <p className="italic">
+          This list is certainly not intended to be exhaustive of the circumstances that may
+          justify submission to a jury of an insurer&rsquo;s &ldquo;genuine dispute&rdquo;
+          defense to a claim of bad faith. Nor, we must also add, may an insurer insulate itself
+          from liability for bad faith conduct by the simple expedient of hiring an expert for
+          the purpose of manufacturing a &ldquo;genuine dispute.&rdquo;
+        </p>
+      </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        These passages &mdash; combined with the court&rsquo;s acknowledgment that the list is
+        non-exhaustive &mdash; form the framework that plaintiff attorneys use to attack the
+        genuine dispute defense. Subsequent California cases and commentary have added other
+        categories of conduct that defeat the defense (failure to conduct a thorough
+        investigation, dishonest expert selection, employee dishonesty during depositions, and
+        expert opinions that are themselves unreasonable). Those additional categories are real,
+        but the practitioner should cite them to the cases that actually articulate them, not
+        attribute them to <em>Chateau Chamberay</em>&rsquo;s numbered list.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Importantly, <em>Chateau Chamberay</em> extended the doctrine beyond legal questions
@@ -210,6 +235,36 @@ export default function Content() {
         taking a coverage position.
       </p>
 
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Bosetti v. United States Life Insurance Co. (2009) — Objective Reasonableness Controls
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two years after <em>Wilson</em>, the Court of Appeal decided{' '}
+        <em>Bosetti v. United States Life Insurance Co.</em> (2009) 175 Cal.App.4th 1208 &mdash;
+        an important clarification of the post-<em>Wilson</em> landscape. <em>Bosetti</em> held
+        that the question whether the insurer&rsquo;s conduct satisfied the genuine dispute
+        doctrine is governed by an <strong>objective reasonableness</strong> standard &mdash; the
+        insurer&rsquo;s subjective intent (good faith or bad) is not a separate element when the
+        insurer&rsquo;s position is objectively reasonable based on a thorough investigation.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Importantly, <em>Bosetti</em> expressly disagreed with any reading of{' '}
+        <em>Brehm v. 21st Century Ins. Co.</em> (2008) 166 Cal.App.4th 1225 that would impose a
+        separate subjective-good-faith requirement on top of objective reasonableness. The
+        practical result: a fully-developed, unbiased investigation supporting an objectively
+        reasonable position generally satisfies the doctrine, regardless of what the carrier
+        was thinking internally. The plaintiff&rsquo;s attack must focus on the
+        objective inadequacy of the investigation or the unreasonableness of the position
+        reached &mdash; not on subjective intent alone.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Reading <em>Wilson</em>, <em>Brehm</em>, and <em>Bosetti</em> together, the controlling
+        framework is: was the investigation thorough and fair, and was the position reached
+        objectively reasonable in light of all the evidence available? If the answers to both
+        questions are yes, the genuine dispute defense generally applies. If either answer is no,
+        the defense fails.
+      </p>
+
       {/* ── The Expert Safe Harbor ──────────────────────────────── */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -223,14 +278,17 @@ export default function Content() {
         <Link href="/resources/biased-insurance-experts" className="text-blue-700 underline hover:text-blue-900">biased expert</Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The &ldquo;expert safe harbor&rdquo; concept emerged from <em>Fraley v. Allstate
-        Insurance Co.</em> (2000) 81 Cal.App.4th 1282 and its progeny. In <em>Fraley</em>, the
-        Court of Appeal held that the genuine dispute defense applied to factual disputes, and that
-        an insurer did not act unreasonably if it relied upon an expert whose opinion disputed the
-        insured&rsquo;s case. This created what practitioners came to call the &ldquo;expert safe
-        harbor&rdquo; &mdash; a subcategory of the genuine dispute defense meaning that an insurer
-        could effectively eliminate bad faith liability by retaining an expert whose conclusions
-        supported the carrier&rsquo;s position.
+        The line of cases beginning with <em>Fraley v. Allstate Insurance Co.</em> (2000) 81
+        Cal.App.4th 1282 has been the source of one of the doctrine&rsquo;s most-criticized
+        applications. In <em>Fraley</em>, the Court of Appeal held that the genuine dispute
+        defense applied to factual disputes and that an insurer did not necessarily act
+        unreasonably if it relied on an expert whose opinion disputed the insured&rsquo;s case.
+        Plaintiff-bar commentators have labeled this the &ldquo;expert safe harbor&rdquo; &mdash;
+        a critical term, not a phrase the court itself used &mdash; arguing that the holding has
+        been stretched to allow insurers to defeat bad faith liability by retaining a compliant
+        expert whose report supports the carrier&rsquo;s desired outcome. The court&rsquo;s
+        actual holding required that the reliance on the expert be reasonable and in good faith,
+        not that any expert retention automatically eliminates bad faith liability.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Here is how the playbook works: when an insurer wants to deny or underpay a claim, it
@@ -330,14 +388,14 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The defense bar will cite cases like <em>Rappaport-Scott v. Interinsurance Exchange of
-        the Automobile Club</em> (2007) 146 Cal.App.4th 831, which held that &ldquo;if there is
-        a genuine issue as to the insurer&rsquo;s liability under the policy for the claim asserted
-        by the insured, there can be no bad-faith liability imposed on the insurer for advancing
-        its side of that dispute.&rdquo; And that is a correct statement of the law &mdash; as far
-        as it goes. What the defense bar tends to omit is the qualifier: the dispute must be
-        genuine, the investigation must be thorough, and the insurer&rsquo;s position must be
-        objectively reasonable.
+        Defense counsel routinely cite cases like <em>Rappaport-Scott v. Interinsurance
+        Exchange of the Automobile Club</em> (2007) 146 Cal.App.4th 831, which held that
+        &ldquo;if there is a genuine issue as to the insurer&rsquo;s liability under the policy
+        for the claim asserted by the insured, there can be no bad-faith liability imposed on
+        the insurer for advancing its side of that dispute.&rdquo; The full force of that
+        holding depends on the qualifiers California cases consistently recite: the dispute
+        must be genuine, the investigation must be thorough, and the insurer&rsquo;s position
+        must be objectively reasonable in light of all available evidence.
       </p>
 
       {/* ── When It Doesn't Work ────────────────────────────────── */}
@@ -359,9 +417,12 @@ export default function Content() {
         by failing to investigate the claim. In <em>Egan v. Mutual of Omaha Insurance Co.</em>{' '}
         (1979) 24 Cal.3d 809, the California Supreme Court held that it is &ldquo;essential that
         an insurer fully inquire into possible bases that might support the insured&rsquo;s claim
-        before denying it.&rdquo; This duty exists independently of the outcome &mdash; even if
-        the claim turns out to be invalid, the insurer can be liable for bad faith if its
-        investigation was inadequate.
+        before denying it.&rdquo; This duty to investigate exists independently of the outcome
+        on coverage &mdash; an inadequate investigation can support bad-faith liability where
+        the investigation failure caused the claim to be wrongly denied, delayed, or underpaid.
+        The bad-faith claim still requires the insured to show causation and resulting harm
+        from the inadequate investigation; investigation flaws alone, without resulting harm,
+        do not automatically create tort liability.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Wilson</em> reinforced this with unmistakable clarity: &ldquo;The genuine dispute rule
@@ -387,30 +448,37 @@ export default function Content() {
         does not apply.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The <em>Brehm v. 21st Century Insurance Co.</em> decision reinforced this principle. In
-        <em> Brehm</em>, the insured was rear-ended while stopped at a red light and provided
-        medical evidence of serious injury. He demanded $85,000 plus medical expenses. 21st
-        Century offered $5,000, based on its expert&rsquo;s conclusion that the insured suffered
-        merely from a soft-tissue injury. The court held that &ldquo;the genuine dispute doctrine
-        cannot be invoked to protect an insurer&rsquo;s denial or delay in payment of benefits
-        unless the insurer&rsquo;s position was both reasonable and reached in good faith,&rdquo;
-        and that &ldquo;an expert&rsquo;s testimony will not automatically insulate an insurer
-        from a bad faith claim based on a biased investigation.&rdquo;
+        <em>Brehm v. 21st Century Ins. Co.</em> (2008) 166 Cal.App.4th 1225 addressed the
+        genuine dispute doctrine at the demurrer stage. In <em>Brehm</em>, the insured was
+        rear-ended while stopped at a red light and provided medical evidence of serious injury.
+        He demanded $85,000 plus medical expenses; 21st Century offered $5,000 based on its
+        expert&rsquo;s conclusion that the insured suffered merely from a soft-tissue injury.
+        The Court of Appeal held that the genuine dispute issue could not be resolved on
+        demurrer given the plaintiff&rsquo;s allegations of sham and bias &mdash; an expert&rsquo;s
+        testimony does not automatically insulate an insurer from a bad faith claim where bias
+        in the investigation is plausibly alleged. The decision in <em>Bosetti</em> (2009),
+        discussed above, expressly disagreed with any reading of <em>Brehm</em> that would
+        impose a subjective-good-faith requirement separate from objective reasonableness.
+        <em>Brehm</em> is best read narrowly &mdash; as a pleading-stage holding that survived
+        demurrer where bias was alleged, not a merits ruling on the genuine dispute doctrine.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        3. The Insurer Relied on Outdated or Unreliable Expert Reports
+        3. Reasonableness Must Be Assessed in Light of All Available Evidence
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California courts will closely scrutinize the expert evidence underlying a genuine dispute
-        defense. Where the insurer is relying on an outdated expert report &mdash; one that does
-        not account for subsequent developments in the claim, additional damage discovered during
-        repairs, or new evidence submitted by the policyholder &mdash; the genuine dispute defense
-        is unavailable. In <em>Amadeo v. Principal Mutual Life Insurance Co.</em> (9th Cir. 2002)
-        290 F.3d 1152, the Ninth Circuit insisted that the carrier&rsquo;s interpretation of its
-        own policy be &ldquo;reasonable; not simply tenable.&rdquo; A position that might have
-        appeared reasonable at one point can become unreasonable if the insurer fails to
-        reevaluate it in light of new information.
+        California and federal courts have scrutinized the temporal scope and currency of the
+        expert evidence underlying a genuine dispute defense. Where the insurer relies on an
+        early expert report that does not account for subsequent developments in the claim
+        &mdash; additional damage discovered during repairs, new evidence submitted by the
+        policyholder, or changed factual circumstances &mdash; courts have been willing to find
+        a triable issue. A position that appeared reasonable at the time of the initial coverage
+        decision can become unreasonable if the insurer fails to reevaluate it in light of new
+        information. The Ninth Circuit&rsquo;s observation in{' '}
+        <em>Amadeo v. Principal Mutual Life Ins. Co.</em> (9th Cir. 2002) 290 F.3d 1152 is
+        sometimes cited for the broader principle that an insurer&rsquo;s position must be
+        &ldquo;reasonable, not simply tenable&rdquo; &mdash; though <em>Amadeo</em> arose in an
+        ERISA disability context rather than a property-insurance dispute.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -481,10 +549,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         CACI No. 2332 &mdash; the California Civil Jury Instruction for bad faith based on
         failure to properly investigate &mdash; reflects this connection. It requires the
-        plaintiff to prove that the insurer &ldquo;unreasonably failed to properly investigate&rdquo;
-        the claim. The instruction effectively subsumes the genuine dispute premise: if the
-        investigation was unreasonable, there can be no genuine dispute, and the insurer is
-        liable for bad faith.
+        plaintiff to prove that the insurer &ldquo;unreasonably failed to properly
+        investigate&rdquo; the claim AND that the failure caused harm to the insured. The
+        instruction subsumes the genuine dispute premise in the sense that an objectively
+        reasonable investigation generally precludes bad-faith liability under the doctrine;
+        but bad-faith liability is not automatic from an inadequate investigation alone &mdash;
+        causation and resulting harm are still required.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In <em>McCoy v. Progressive West Insurance Co.</em> (2009) 171 Cal.App.4th 785, the
@@ -500,8 +570,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For policyholders and their attorneys, this means the genuine dispute defense is
-        fundamentally a question about the insurer&rsquo;s investigation. Attack the investigation,
-        and the defense collapses.
+        fundamentally a question about the insurer&rsquo;s investigation. When the investigation itself was inadequate, the defense generally does not survive scrutiny.
       </p>
 
       {/* ── How Plaintiff Attorneys Attack It ───────────────────── */}
@@ -510,30 +579,30 @@ export default function Content() {
         How Plaintiff Attorneys Attack the Genuine Dispute Defense
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Defeating the genuine dispute defense requires showing that the insurer&rsquo;s
+        Defeating the genuine dispute defense requires evidence that the insurer&rsquo;s
         position was not genuinely reasonable &mdash; that the &ldquo;dispute&rdquo; was
-        manufactured rather than real. Experienced plaintiff attorneys focus on several lines
-        of attack:
+        manufactured rather than real. The lines of attack that experienced plaintiff attorneys
+        most commonly develop in this kind of litigation include the following.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Expose the Investigation Failures
+        Investigation Failures
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The{' '}
         <Link href="/resources/duty-to-investigate" className="text-blue-700 underline hover:text-blue-900">
           duty to investigate
         </Link>{' '}
-        is the insurer&rsquo;s Achilles&rsquo; heel. If the carrier denied or underpaid the claim
+        is the insurer&rsquo;s most exposed vulnerability. Where the carrier denied or underpaid the claim
         without conducting a thorough, fair, and objective investigation, the genuine dispute
-        defense collapses. Attorneys look for: inspections that were too brief, damage that was
+        defense generally collapses. Plaintiffs&rsquo; counsel typically look for: inspections that were too brief, damage that was
         documented but not addressed in the estimate, relevant evidence that was never requested
         or reviewed, and expert reports that were obtained <em>after</em> the coverage decision
         was already made.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Attack the Expert&rsquo;s Independence and Credibility
+        The Expert&rsquo;s Independence and Credibility
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         An{' '}
@@ -541,8 +610,8 @@ export default function Content() {
           expert witness
         </Link>{' '}
         whose conclusions are the product of financial dependence on the carrier is not a
-        credible basis for a &ldquo;genuine dispute.&rdquo; In litigation, the policyholder&rsquo;s
-        attorney can attack the expert&rsquo;s credibility by establishing:
+        credible basis for a &ldquo;genuine dispute.&rdquo; In litigation, the expert&rsquo;s
+        credibility is typically challenged by evidence of:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
@@ -567,12 +636,12 @@ export default function Content() {
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Obtain and Use Internal Communications
+        Internal Communications
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Discovery in bad faith litigation can reveal internal emails, claim notes, and
         communications between the carrier and its expert that expose the true nature of the
-        relationship. Particularly damaging are communications showing:
+        relationship. Communications most likely to undermine the defense include:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>The carrier communicated its desired outcome to the expert before the inspection</li>
@@ -586,7 +655,7 @@ export default function Content() {
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Demonstrate the Insurer Delayed Articulating Its Reasons
+        Delay in Articulating Reasons
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         An insurer that cannot articulate the basis for its coverage denial until litigation is
@@ -599,7 +668,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Use the Insurer&rsquo;s Own People Against It
+        The Insurer&rsquo;s Own Personnel
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When the insurer&rsquo;s own field adjuster, claims examiner, or internal expert reached
@@ -661,10 +730,10 @@ export default function Content() {
         </li>
         <li>
           <strong>Challenge the expert&rsquo;s report in writing.</strong> When the insurer relies
-          on an expert report to deny or reduce your claim, respond in writing with specific
-          objections. Point out factual errors, methodological shortcomings, and conclusions
-          inconsistent with the physical evidence. Make the insurer respond to your challenges on
-          the record.
+          on an expert report to deny or reduce your claim, a written response identifying factual
+          errors, methodological shortcomings, and conclusions inconsistent with the physical
+          evidence creates a record. A public adjuster can assist with these challenges; an
+          attorney&rsquo;s help is appropriate as the dispute escalates.
         </li>
         <li>
           <strong>Get your own expert.</strong> An independent{' '}
@@ -702,8 +771,9 @@ export default function Content() {
         <li>
           <strong>Consult a bad faith attorney.</strong> If your claim involves significant money
           and the insurer&rsquo;s conduct has been unreasonable, consult an attorney who specializes
-          in insurance bad faith. Many work on contingency, and bad faith damages &mdash; including
-          punitive damages &mdash; can far exceed the original claim value.
+          in insurance bad faith. Many work on contingency, and damages available in a bad faith
+          action may exceed the original claim value (subject to the constitutional limits on
+          punitive damages discussed in our companion articles).
         </li>
       </ul>
 
@@ -727,34 +797,42 @@ export default function Content() {
         The Practical Effect on Policyholders
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The genuine dispute doctrine has a chilling effect on policyholder rights that extends
-        far beyond the courtroom. Because carriers know they can invoke the doctrine to defeat
-        bad faith claims, the financial incentive structure is fundamentally skewed:
+        How the genuine dispute doctrine plays out in practice has long been a subject of
+        criticism from the plaintiff bar and policyholder advocates. The argument goes that the
+        doctrine, as it has been applied in some cases, creates real friction for legitimate
+        bad-faith claims:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>Underpayment becomes risk-free.</strong> If the worst-case outcome for the
-          carrier is paying what it owed in the first place, there is no downside to lowballing.
-          The carrier either saves money on claims that are never challenged, or eventually pays
-          the correct amount on claims that are litigated &mdash; with no penalty either way.
+          <strong>Asymmetric incentives on underpayment.</strong> Critics argue that where the
+          doctrine successfully shields an insurer from bad-faith damages, the carrier&rsquo;s
+          downside on a contested claim is limited to the contract benefit, interest, attorney
+          fees, and any applicable regulatory exposure &mdash; substantial figures, but not the
+          full bad-faith tort exposure that policyholders expect to deter underpayment. This
+          asymmetry can affect how aggressively carriers contest valuations on claims they
+          believe are unlikely to escalate to bad-faith litigation.
         </li>
         <li>
-          <strong>Expert reports become insurance policies for the insurer.</strong> A $3,000
-          expert report can eliminate millions in bad faith exposure. Carriers view expert
-          retention not as an investigative tool but as a litigation defense strategy.
+          <strong>Expert reports as defense infrastructure.</strong> Where carriers retain
+          experts whose findings consistently align with the carrier&rsquo;s position, plaintiff
+          attorneys argue the expert relationship functions less as objective investigation and
+          more as a litigation-defense tool. Defense counsel argue that expert retention is
+          legitimate claim handling. Both perspectives have force; the resolution in any given
+          case turns on the objective reasonableness of the investigation and the expert&rsquo;s
+          methodology.
         </li>
         <li>
-          <strong>Legitimate bad faith claims are routinely defeated.</strong> Policyholders
-          who were genuinely mistreated &mdash; whose claims were underpaid by tens or hundreds of
-          thousands of dollars through biased investigations and compliant experts &mdash; lose
-          their bad faith claims because the carrier can point to an expert report and invoke the
-          doctrine.
+          <strong>Bad-faith liability friction.</strong> Even meritorious bad-faith claims can
+          face significant procedural obstacles in California courts &mdash; from motions to
+          strike, to summary adjudication under the genuine dispute doctrine, to bifurcation of
+          punitive damages. None of this eliminates insurer exposure, but it does shape how
+          policyholders and their counsel evaluate whether to pursue bad-faith remedies.
         </li>
         <li>
-          <strong>The power imbalance grows.</strong> The carrier has unlimited resources to
-          retain experts, hire defense counsel, and litigate for years. The policyholder often
-          cannot afford to fight, and the genuine dispute doctrine makes the fight harder
-          to win.
+          <strong>The asymmetry of resources.</strong> The carrier typically has greater
+          resources to retain experts, hire defense counsel, and litigate for years. The
+          policyholder often must weigh whether to fight, and the genuine dispute doctrine is
+          one factor in that calculus.
         </li>
       </ul>
 
@@ -789,10 +867,11 @@ export default function Content() {
         </p>
         <p className="text-gray-700 leading-relaxed">
           If your insurer is relying on the genuine dispute doctrine to justify its treatment of
-          your claim, the first question to ask is not whether the insurer had a position. It is
-          whether the insurer earned the right to call that position &ldquo;genuine.&rdquo; A
-          dispute manufactured through a sham investigation is no dispute at all &mdash; and California
-          law does not protect it.
+          your claim, the practical question is the same one California courts ask: was the
+          insurer&rsquo;s position reached through a thorough and fair investigation, and was
+          the position itself objectively reasonable? A dispute reached through inadequate
+          investigation, selective evidence review, or biased expert reliance generally does not
+          satisfy the doctrine &mdash; and California law does not protect it.
         </p>
       </div>
 
@@ -808,6 +887,12 @@ export default function Content() {
             Supreme Court. Held that the genuine dispute rule does not relieve an insurer from its
             obligation to thoroughly and fairly investigate, and that a genuine dispute exists only
             where the insurer&rsquo;s position is maintained in good faith and on reasonable grounds.
+          </li>
+          <li>
+            <em>Bosetti v. United States Life Insurance Co.</em> (2009) 175 Cal.App.4th 1208 &mdash;
+            Court of Appeal. Clarified that objective reasonableness controls under the genuine
+            dispute doctrine; subjective intent is not a separate element. Disagreed with any
+            subjective-good-faith reading of <em>Brehm</em>.
           </li>
           <li>
             <em>Chateau Chamberay Homeowners Ass&rsquo;n v. Associated International Insurance

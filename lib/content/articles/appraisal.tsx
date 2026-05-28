@@ -74,19 +74,34 @@ export default function Content() {
         In California, the right to appraisal is not merely a contractual provision — it is
         embedded in state law. California Insurance Code §§ 2070–2071 prescribe the{' '}
         <strong>California Standard Form Fire Insurance Policy</strong>, which every fire
-        insurance policy issued in the state must contain or incorporate. Section 2071 includes a
-        mandatory appraisal provision that reads, in relevant part:
+        insurance policy issued in the state must contain or incorporate. Section 2071 includes
+        a mandatory appraisal provision that reads in full:
       </p>
-      <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;In case the insured and this company shall fail to agree as to the actual cash
-        value or the amount of loss, then, on the written request of either, each shall select a
-        competent and disinterested appraiser and notify the other of the appraiser selected
-        within 20 days of the request. Where the request is accepted, the appraisers shall first
-        select a competent and disinterested umpire; and failing for 15 days to agree upon the
-        umpire, then, on request of the insured or this company, the umpire shall be selected
-        by a judge of a court of record in the state in which the property covered is
-        located.&rdquo;
-      </blockquote>
+
+      <CalloutBox variant="legal" title="Cal. Ins. Code § 2071 — Appraisal Provision">
+        <p className="italic">
+          In case the insured and this company shall fail to agree as to the actual cash value
+          or the amount of loss, then, on the written request of either, each shall select a
+          competent and disinterested appraiser and notify the other of the appraiser selected
+          within 20 days of the request. Where the request is accepted, the appraisers shall
+          first select a competent and disinterested umpire; and failing for 15 days to agree
+          upon the umpire, then, on request of the insured or this company, the umpire shall be
+          selected by a judge of a court of record in the state in which the property covered
+          is located. Appraisal proceedings are informal unless the insured and this company
+          mutually agree otherwise. For purposes of this section, &ldquo;informal&rdquo; means
+          that no formal discovery shall be conducted, including depositions, interrogatories,
+          requests for admission, or other forms of formal civil discovery, no formal rules of
+          evidence shall be applied, and no court reporter shall be used for the proceedings.
+          The appraisers shall then appraise the loss, stating separately actual cash value and
+          loss to each item; and, failing to agree, shall submit their differences, only, to
+          the umpire. An award in writing, so itemized, of any two when filed with this company
+          shall determine the amount of actual cash value and loss. Each appraiser shall be
+          paid by the party selecting him or her and the expenses of appraisal and umpire shall
+          be paid by the parties equally. In the event of a government-declared disaster, as
+          defined in the Government Code, appraisal may be requested by either the insured or
+          this company but shall not be compelled.
+        </p>
+      </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">
         This means every California homeowner, renter, and commercial property policyholder has a
         statutory right to appraisal. The insurer cannot remove it from the policy — it is
@@ -153,10 +168,17 @@ export default function Content() {
           errors. This is a trap for policyholders who do not understand the timeline.
         </li>
         <li>
-          <strong>Grounds for vacating are limited.</strong> Under CCP § 1286.2, an appraisal
-          award can only be vacated on narrow grounds: the award was procured by corruption or
-          fraud, the panel exceeded its authority, the rights of a party were substantially
-          prejudiced by misconduct, or the panel refused to hear material evidence.
+          <strong>Grounds for vacating are limited.</strong> Under CCP § 1286.2(a), a court shall
+          vacate an arbitration (including appraisal) award if it determines: (1) the award was
+          procured by corruption, fraud or other undue means; (2) there was corruption in any of
+          the arbitrators; (3) the rights of the party were substantially prejudiced by
+          misconduct of a neutral arbitrator; (4) the arbitrators exceeded their powers and the
+          award cannot be corrected without affecting the merits; (5) the rights of the party
+          were substantially prejudiced by refusal to postpone the hearing on sufficient cause
+          or refusal to hear material evidence, or other conduct contrary to the arbitration
+          title; or (6) an arbitrator failed to disclose disqualification grounds or failed to
+          disqualify upon demand. These are narrow grounds; an unfavorable award alone is not a
+          basis for vacatur.
         </li>
         <li>
           <strong>Umpires must make neutrality disclosures.</strong> Because the process is
@@ -191,12 +213,24 @@ export default function Content() {
         and you may lose your right to challenge an unfair award.
       </p>
 
-      <CalloutBox variant="warning" title="The 100-Day Trap">
+      <CalloutBox variant="warning" title="The 100-Day Deadline to Challenge an Appraisal Award">
         <p>
-          If you receive an appraisal award you believe is unfair, you have exactly 100 days from
-          service of the award to file a petition to vacate or correct it. After 100 days, the
-          award is final and cannot be challenged — even in a subsequent lawsuit. This deadline is
-          governed by CCP § 1288 and it is strictly enforced. Do not wait.
+          Because appraisal in California is treated as a form of arbitration, the deadline to
+          challenge an award is governed by California Code of Civil Procedure § 1288, which
+          provides:
+        </p>
+        <p className="italic mt-2">
+          A petition to confirm an award shall be served and filed not later than four years
+          after the date of service of a signed copy of the award on the petitioner. A petition
+          to vacate an award or to correct an award shall be served and filed not later than
+          100 days after the date of the service of a signed copy of the award on the
+          petitioner.
+        </p>
+        <p className="mt-2">
+          <strong>In plain language:</strong> once the appraisal award is served, the window
+          to petition a court to vacate or correct it closes at 100 days. Courts apply this
+          deadline strictly. An insured who is considering challenging an award should consult
+          an attorney well before that window closes.
         </p>
       </CalloutBox>
 
@@ -222,20 +256,35 @@ export default function Content() {
         effective invocation, so preserve a clean record of what was demanded and when.
       </p>
 
-      <CalloutBox variant="important" title="Tolling: Appraisal Generally Pauses the Suit-Limitation Clock">
+      <CalloutBox variant="important" title="Suit-Limitation Period: 12 Months — or 24 Months for State-of-Emergency Losses">
         <p>
           California Insurance Code &sect; 2071 &mdash; the Standard Fire Policy &mdash; contains
-          a 12-month suit-limitation clause that requires the insured to file suit within 12
-          months of &ldquo;inception of the loss.&rdquo; Invoking appraisal typically{' '}
-          <strong>tolls</strong> that 12-month clock during the pendency of the appraisal
-          proceeding, because the insured cannot simultaneously be required to litigate and
-          to complete an appraisal the policy authorizes. California courts have applied an
-          equitable tolling analysis in this context (see, e.g., <em>Prudential-LMI Commercial
-          Ins. v. Superior Court</em> (1990) 51 Cal.3d 674, and progeny addressing the
-          interplay between appraisal and the suit limitation period). This is not legal
-          advice &mdash; deadline analysis is fact-specific and tolling has limits. If you are
-          approaching the one-year mark, consult an attorney immediately; only an attorney can
-          tell you whether filing a protective lawsuit is necessary in your particular case.
+          a suit-limitation clause requiring the insured to file suit within{' '}
+          <strong>12 months</strong> after &ldquo;inception of the loss.&rdquo;{' '}
+          <strong>For losses related to a state of emergency, as defined in Government Code
+          &sect; 8558(b), the period extends to 24 months.</strong> Most wildfire and major
+          disaster claims involve a declared state of emergency and therefore fall under the
+          24-month extension. The shorter 12-month period applies to ordinary, non-emergency
+          losses.
+        </p>
+        <p className="mt-3">
+          Because California treats insurance appraisal as a form of contractual arbitration
+          (see <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818), the
+          California Arbitration Act applies to the appraisal process. Under CCP &sect; 1281.4,
+          a court must stay an action pending the outcome of arbitration the parties have
+          agreed to. Many plaintiff attorneys argue that this framework tolls (pauses) the
+          §2071 suit-limitation period during the pendency of an appraisal — an insured cannot
+          reasonably be required to litigate the same loss that is simultaneously being
+          adjudicated by the appraisal panel. California courts have applied equitable-tolling
+          principles in related claims contexts.
+        </p>
+        <p className="mt-3">
+          <strong>That said, whether tolling applies to a specific claim is a legal question
+          for an attorney.</strong> Deadline analysis is fact-specific and tolling has limits.
+          If an insured is approaching either the 12- or 24-month deadline, consulting an
+          attorney about whether a protective lawsuit is necessary is the safer course — and
+          can avoid the worst-case scenario where a missed deadline turns a covered claim into
+          a barred one.
         </p>
       </CalloutBox>
 
@@ -548,9 +597,13 @@ export default function Content() {
         The court made a critical distinction: <strong>the existence of damage to an item and the
         nature of the damaged item are factors that directly bear upon valuation</strong>, and an
         appraisal panel may assign values to items where the extent of damage is disputed.
-        However, an appraisal panel <strong>cannot assign zero value</strong> based on causation
-        disputes, fraud accusations, or determinations that property was undamaged or never
-        existed. Those are coverage and credibility determinations reserved for the courts.
+        However, the <em>Lee</em> court recognized a limit: an appraisal panel may not use a
+        zero-value assignment as a back-door way to decide causation disputes, fraud
+        accusations, or whether covered property ever existed. Those are coverage and
+        credibility determinations many courts treat as reserved for litigation. The line
+        between &ldquo;extent of damage&rdquo; (which the panel can decide) and
+        &ldquo;causation&rdquo; (which generally it cannot) is fact-specific and is exactly
+        where awards get challenged.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Lee</em> also reaffirmed that all fire policies in California must include an
@@ -569,22 +622,29 @@ export default function Content() {
           determine the amount of damage, not questions of coverage or policy interpretation.
         </li>
         <li>
-          <strong><em>Kirkwood v. California State Auto. Assn.</em> (2011) 193 Cal.App.4th 49</strong> —
+          <strong><em>Kirkwood v. California State Automobile Association Inter-Insurance Bureau</em> (2011) 193 Cal.App.4th 49</strong> —
           Held that appraisers have authority &ldquo;to determine only a question of fact, namely
           the actual cash value or amount of loss of a given item,&rdquo; and distinguished
           appraisers from arbitrators who exercise broader judicial functions.
         </li>
         <li>
           <strong><em>Maslo v. Ameriprise Auto &amp; Home Ins.</em> (2014) 227 Cal.App.4th 626</strong> —
-          Established that insurers cannot escape{' '}
+          A UIM (uninsured/underinsured motorist) arbitration case, not a first-party property
+          appraisal. Many plaintiff attorneys cite <em>Maslo</em> by analogy for the proposition
+          that insurers cannot escape{' '}
           <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">bad faith</Link>{' '}
-          liability simply by using the appraisal process. An insurer that lowballs a claim and
-          then demands appraisal is not immunized from bad faith for the pre-appraisal conduct.
+          liability simply by using a dispute-resolution process built into the policy. The
+          analogy is fact-specific and a property appraisal is procedurally distinct from UIM
+          arbitration; whether <em>Maslo</em>&apos;s reasoning extends to a particular property
+          appraisal situation is a question for an attorney.
         </li>
         <li>
           <strong><em>Brehm v. 21st Century Ins. Co.</em> (2008) 166 Cal.App.4th 1225</strong> —
-          Held that the arbitration rights in an appraisal include &ldquo;an implied obligation to
-          honestly assess the claim.&rdquo; Both parties must participate in good faith.
+          A UIM arbitration / bad-faith case, not a first-party property appraisal. Many plaintiff
+          attorneys cite <em>Brehm</em> by analogy for the proposition that arbitration-type
+          dispute-resolution rights in an insurance contract include an implied obligation of
+          good-faith participation. As with <em>Maslo</em>, the analogy to property appraisal
+          is fact-specific.
         </li>
       </ul>
 
@@ -603,12 +663,13 @@ export default function Content() {
         As <em>Kacha</em> (2006) made clear, a valid Sharma waiver requires{' '}
         <strong>clear and convincing evidence</strong> that both parties knowingly agreed to
         expand the panel&apos;s scope. Boilerplate language in an award form does not qualify.
-        The best evidence is a <strong>separate written stipulation</strong>, signed by both
-        parties, that expressly references and waives Insurance Code § 2071 and the{' '}
-        <em>Sharma/Kacha</em> limitations. If you are the policyholder, be very cautious —
-        agreeing to a Sharma waiver allows the panel to make coverage or causation determinations
-        in an informal proceeding with no discovery, no rules of evidence, and limited appellate
-        review. In most cases, the answer should be no.
+        The standard evidence is a <strong>separate written stipulation</strong>, signed by
+        both parties, that expressly references and waives Insurance Code § 2071 and the{' '}
+        <em>Sharma/Kacha</em> limitations. Many plaintiff attorneys advise policyholders to
+        approach a Sharma waiver with significant caution — agreeing to one allows the panel
+        to make coverage or causation determinations in an informal proceeding with no
+        discovery, no rules of evidence, and limited appellate review. Whether to sign a
+        Sharma waiver in a specific case is a legal decision that should involve an attorney.
       </p>
 
       <CalloutBox variant="warning" title="Watch the Award Form Language">
@@ -751,19 +812,21 @@ export default function Content() {
         What the White Waiver Tells You
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When an insurance company presents a White waiver, it is telling you something important —
-        even if it does not intend to. <strong>The White waiver is often a signal that the insurer
-        knows it has underpaid the claim.</strong> Think about it: if the insurer believed its
-        handling of the claim was reasonable and its offer was fair, it would have no reason to
-        fear that offer being used as evidence. The very act of requesting a White waiver suggests
-        the insurer is aware that its conduct or its offer may not withstand scrutiny in a bad
-        faith analysis.
+        Many plaintiff attorneys view a White waiver request as informative on its own — even
+        when the insurer does not intend it that way. The reasoning: an insurer that believes
+        its handling and offer are reasonable has less practical reason to shield those
+        communications from later evidentiary use. A White waiver request can be consistent
+        with a carrier&apos;s routine risk-management practice; it can also be consistent with
+        a carrier&apos;s awareness that its handling may not withstand bad-faith scrutiny.
+        Reasonable people read the signal differently depending on context.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is critical intelligence. Rather than immediately signing the waiver and giving up
-        rights, the smarter tactical move is often to <strong>pause and investigate</strong>. Ask
-        yourself: what does the insurance company realize it has done wrong? What are they
-        underpaying? What aspect of the claim handling are they trying to shield from a jury?
+        Either way, the practical response many plaintiff attorneys recommend is the same:
+        <strong>pause and investigate</strong> before signing. Useful questions include: what
+        does the carrier believe the case is worth, and on what basis? What scope or coverage
+        issues are still open? What part of the claim file would the carrier prefer not to
+        have in front of a jury? Whether to sign a White waiver is a legal decision that
+        warrants attorney input.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Bringing that information to light — through a detailed review of the claim file, the
@@ -953,11 +1016,14 @@ export default function Content() {
         The Government-Declared Disaster Exception
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code § 2071 includes a provision that appraisal{' '}
-        <strong>shall not be compelled in the event of a government-declared disaster</strong>. This
-        provision applies only to <strong>residential</strong> policies — commercial property
-        policies are not covered by this exception. After a wildfire, earthquake, or other declared
-        disaster, the insurer cannot force a residential policyholder into appraisal to resolve a
+        California Insurance Code § 2071 includes a provision that — in the event of a
+        government-declared disaster as defined in the Government Code — appraisal{' '}
+        <strong>may be requested by either party but shall not be compelled</strong>. In
+        practice this ties to a &ldquo;state of emergency&rdquo; declared under Government
+        Code § 8558. The provision applies only to <strong>residential</strong> policies —
+        commercial property policies are not covered by this exception. After a wildfire,
+        earthquake, or other declared disaster affecting a residential policyholder, the
+        insurer cannot force that policyholder into appraisal to resolve a
         valuation dispute. You retain the option to invoke appraisal yourself if you choose, but
         the insurer cannot compel it.
       </p>
@@ -978,10 +1044,10 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="An Untested Theory: Policies That Omit This Provision">
         <p>
-          Many experienced California litigators and trial attorneys believe that when a carrier has{' '}
+          Many California plaintiff-side litigators have argued that when a carrier has{' '}
           <strong>not</strong> adopted the Insurance Code § 2071 government-declared disaster
-          provision into their policy, they are effectively offering a policy{' '}
-          <strong>more generous</strong> than the law requires — one that still allows appraisal even
+          provision into its policy, the carrier may have effectively offered a policy{' '}
+          <strong>more generous</strong> than the statutory floor — one that still allows appraisal even
           in a declared disaster. The reasoning is that the insurer is permitted to offer a policy
           more generous than the statutory minimum, and they are held to the terms they offer. Under
           this theory, if the policy&apos;s appraisal clause does not include the disaster
@@ -1263,13 +1329,14 @@ export default function Content() {
 
       {/* ====== BOTTOM CTA ====== */}
       <div className="bg-[#1F3964] text-white rounded-xl p-6 mt-8">
-        <h3 className="text-xl font-bold mb-2">Need Help With an Appraisal?</h3>
+        <h3 className="text-xl font-bold mb-2">Considering Appraisal?</h3>
         <p className="text-blue-200 text-sm mb-4">
-          Whether you are the one invoking appraisal or your insurance company has demanded it,
-          having an experienced professional on your side makes the difference. As a licensed
-          California Public Adjuster, I serve as the policyholder&apos;s appraiser, prepare
-          detailed Xactimate estimates, and advocate for the full value of your loss through the
-          appraisal process.
+          A licensed California public adjuster can review an insurance claim file to identify
+          underpaid items and may serve as the policyholder&apos;s appraiser, preparing detailed
+          Xactimate estimates and advocating for the full value of the loss through the
+          appraisal process. A public adjuster may also identify issues that warrant
+          consultation with an attorney. Most public adjusters and attorneys will provide a
+          free consultation.
         </p>
         <Link href="/contact" className="btn-gold inline-block">
           Request a Free Appraisal Consultation →

@@ -137,15 +137,19 @@ export default function Content() {
         shows the insurer&apos;s general disregard for doing things correctly.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, the <em>Wilson v. 21st Century Insurance Group</em> (2007) 42 Cal.4th 713
-        &ldquo;genuine dispute&rdquo; doctrine provides insurers with some protection: if there
-        is a genuine dispute about coverage or the amount of loss, and the insurer&apos;s
-        position is fairly debatable, bad faith may not lie. But this protection has limits.
-        In <em>Chateau Chamberay Homeowners Assn. v. Associated International Insurance
-        Co.</em> (2001) 90 Cal.App.4th 335, the court held that the genuine dispute doctrine
-        does not shield an insurer whose investigation was itself unreasonable. An insurer
-        cannot conduct a sloppy or biased investigation, arrive at a low number, and then claim
-        the dispute is &ldquo;genuine.&rdquo;
+        However, the <em>Wilson v. 21st Century Ins. Co.</em> (2007) 42 Cal.4th 713
+        &ldquo;genuine dispute&rdquo; doctrine provides insurers with some protection.{' '}
+        <em>Wilson</em> held that an insurer is not liable in bad faith when it denies or
+        delays benefits due to a genuine dispute as to coverage or the amount payable. But this
+        protection has limits. In <em>Chateau Chamberay Homeowners Assn. v. Associated
+        International Insurance Co.</em> (2001) 90 Cal.App.4th 335, the court held that the
+        genuine dispute doctrine does not relieve an insurer from its obligation to thoroughly
+        and fairly investigate a claim, and that an insurer is not entitled to the
+        doctrine&apos;s protection where the adequacy of its investigation is in dispute. Many
+        plaintiff attorneys argue, based on <em>Chateau Chamberay</em>, that an insurer cannot
+        conduct a sloppy or biased investigation, arrive at a low number, and then invoke the
+        genuine-dispute doctrine to defend it. Whether the doctrine applies in a specific case
+        is a legal question for an attorney.
       </p>
 
       <CalloutBox variant="legal" title="Why Documenting Violations Matters — Even If You Never Sue">
@@ -171,9 +175,13 @@ export default function Content() {
             adjuster significant leverage in settlement negotiations.
           </li>
           <li>
-            <strong>Punitive damages.</strong> Under <em>Egan v. Mutual of Omaha</em> (1979) 24
-            Cal.3d 809, bad faith can support punitive damages. A record of multiple, documented
-            regulatory violations makes the case for punitive damages far stronger.
+            <strong>Punitive damages.</strong> In <em>Egan v. Mutual of Omaha</em> (1979) 24
+            Cal.3d 809, the California Supreme Court held that an insurer&apos;s bad-faith
+            denial of benefits may support tort damages and, where oppression, fraud, or malice
+            is shown, punitive damages. Many plaintiff attorneys treat a documented record of
+            multiple regulatory violations as supportive evidence in any punitive-damages
+            analysis. Whether punitive damages are available in a specific case is a
+            determination for the courts and attorneys involved.
           </li>
         </ul>
       </CalloutBox>
@@ -203,22 +211,35 @@ export default function Content() {
           <em>and</em> &sect;2695.5(b) (the 15-day response requirement).
         </li>
         <li>
-          If you never ask for your claim file, the insurer has no obligation to send it to
-          you proactively. But once you make that request in writing, they must produce it —
-          and any failure or delay is a violation of &sect;2695.3 and &sect;2695.5(b).
+          If an insured never asks the insurer for claim-related documents, the insurer is not
+          required to send them proactively. The Fair Claims regulations give insureds defined
+          rights to specific claim-related materials — for example, &sect;2695.9(d) requires the
+          insurer to supply a copy of any written scope or estimate the settlement is based on,
+          &sect;2695.7(b)(1) requires written denials to state the factual and legal bases, and
+          &sect;2695.4(a) requires affirmative disclosure of coverages. Once a written request
+          for documents within these provisions is made, &sect;2695.5(b) gives the insurer 15
+          calendar days to respond. Failure to respond within that window may be documented as
+          a violation of &sect;2695.5(b).
         </li>
         <li>
-          If you never challenge the insurer&apos;s estimate at all, the insurer has no reason
-          to change its number. But the moment you demand — in writing — the name of a
-          contractor who will do the work for the insurer&apos;s estimated amount under
-          &sect;2695.9(d)(2), the insurer must respond. If they cannot name a contractor, their
-          estimate is rebutted. Silence becomes a violation.
+          If an insured never challenges the insurer&apos;s estimate, the insurer has no
+          operational reason to change its number. But once a written demand is made under{' '}
+          &sect;2695.9(d)(2) for the name of a contractor who will do the work for the
+          insurer&apos;s estimated amount, the regulation requires the insurer to respond. If
+          the insurer cannot name a contractor at that amount, many plaintiff attorneys argue
+          the estimate may not meet the trade-standards and local-market requirements in{' '}
+          &sect;2695.9(d). In practice, this kind of written demand often prompts the carrier
+          to re-evaluate the estimate or schedule a reinspection — which is usually where
+          additional payment shows up.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The principle works like this: your written demand either gets you what you need, or —
-        if the insurer fails to comply — it documents a regulatory violation and potential bad
-        faith. <strong>Either way, you win.</strong> If you do not ask, you get neither.
+        The principle works like this: a written demand either produces a meaningful response
+        from the carrier — sometimes a concession, sometimes a reinspection, sometimes an
+        adjustment to the estimate — or, if the insurer fails to comply, it creates a
+        documented record that may support a CDI complaint or any future bad-faith analysis an
+        attorney conducts. <strong>Either way, the demand serves the insured&apos;s
+        interest.</strong> A request that is never made in writing produces neither result.
       </p>
 
       <CalloutBox variant="tip" title="Every Written Demand Should Cite the Regulation">
@@ -277,12 +298,23 @@ export default function Content() {
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">Real-World Examples</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>The Xactimate defense.</strong> An insurer pays your claim based on an
+          <strong>The Xactimate defense.</strong> An insurer pays a claim based on an
           Xactimate estimate that uses incorrect local pricing, omits line items, or applies
           depreciation to labor. When challenged, the adjuster says &ldquo;that is what
-          Xactimate says.&rdquo; Under &sect;2695.1(g), the insurer bears full responsibility
-          for the accuracy of its third-party tools. &ldquo;Xactimate said so&rdquo; is not
-          a defense.
+          Xactimate says.&rdquo; Section 2695.1(g) provides:
+          <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+            The fact that information, data or statistical methods used or relied upon by a
+            licensee to process or establish the value of insurance claims is obtained through
+            a third party source shall not absolve the licensee of its legal responsibility to
+            comply with these regulations or to effectuate prompt, fair and equitable settlements
+            of claims.
+          </blockquote>
+          <p className="mt-2">
+            <strong>In plain language:</strong> the insurer cannot deflect responsibility for
+            an inaccurate claim valuation by pointing at Xactimate, a third-party vendor, or
+            any software tool. The duty stays with the insurer regardless of which tool
+            produced the number.
+          </p>
         </li>
         <li>
           <strong>Policy language less favorable than the regulations.</strong> Your policy says
@@ -449,38 +481,88 @@ export default function Content() {
         Section 2695.4 — Representation of Policy Provisions and Benefits
       </h2>
 
-      <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
-        <p className="font-semibold text-[#1F3964] mb-2">Regulation Text (Summary):</p>
-        <ul className="list-disc pl-4 space-y-2">
-          <li>
-            <strong>(a)</strong> Every insurer shall <strong>disclose to a first party claimant
-            all benefits, coverage, time limits or other provisions</strong> of the policy that
-            may apply to the claim.
-          </li>
-          <li>
-            <strong>(d)</strong> Except where specified in the policy, no insurer shall require a
-            first party claimant to give notice or proof of claim within a specific time.
-          </li>
-          <li>
-            <strong>(e)</strong> No insurer shall request a release that extends beyond the
-            subject matter of the claim unless the legal effect is disclosed and fully explained
-            in writing. A Civil Code &sect;1542 waiver may be included, but its legal effect
-            must be disclosed and explained in writing before execution.
-          </li>
-          <li>
-            <strong>(f)</strong> No insurer shall issue checks in partial settlement containing
-            release language unless the policy limit has been paid or there is a compromise
-            settlement agreed to by the claimant.
-          </li>
-        </ul>
-      </div>
+      <CalloutBox variant="legal" title="10 CCR §2695.4 — Verbatim Text (Selected Subsections)">
+        <p className="font-semibold mt-2 mb-1">(a)</p>
+        <p className="italic">
+          Every insurer shall disclose to a first party claimant or beneficiary, all benefits,
+          coverage, time limits or other provisions of any insurance policy issued by that
+          insurer that may apply to the claim presented by the claimant. When additional
+          benefits might reasonably be payable under an insured&apos;s policy upon receipt of
+          additional proofs of claim, the insurer shall immediately communicate this fact to
+          the insured and cooperate with and assist the insured in determining the extent of
+          the insurer&apos;s additional liability.
+        </p>
+        <p className="font-semibold mt-3 mb-1">(d)</p>
+        <p className="italic">
+          Except where a time limit is specified in the policy, no insurer shall require a
+          first party claimant under a policy to give notification of a claim or proof of
+          claim within a specified time.
+        </p>
+        <p className="font-semibold mt-3 mb-1">(e)</p>
+        <p className="italic">
+          No insurer shall: (1) request that a claimant sign a release that extends beyond the
+          subject matter which gave rise to the claim payment unless, prior to execution of the
+          release, the legal effect of the release is disclosed and fully explained by the
+          insurer to the claimant in writing. For purposes of this subsection, an insurer shall
+          not be required to provide the above explanation or disclosure to a claimant who is
+          represented by an attorney at the time the release is presented for signature; (2) be
+          precluded from including in any release a provision requiring the claimant to waive
+          the provisions of California Civil Code Section 1542 provided that, prior to
+          execution of the release, the legal effect of the release is disclosed and fully
+          explained by the insurer to the claimant in writing.
+        </p>
+        <p className="font-semibold mt-3 mb-1">(f)</p>
+        <p className="italic">
+          No insurer shall issue checks or drafts in partial settlement of a loss or claim that
+          contain or are accompanied by language releasing the insurer, the insured, or the
+          principal on a surety bond from total liability unless the policy or bond limit has
+          been paid, or there has been a compromise settlement agreed to by the claimant and
+          the insurer as to coverage and amount payable under the insurance policy or bond.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="info" title="In plain language">
+        <p className="mb-2">
+          <strong>(a) Affirmative disclosure.</strong> The duty to identify coverages that may
+          apply rests on the insurer, not on the insured to ask. Many policyholders never learn
+          about coverages such as ordinance or law, debris removal beyond the dwelling, extended
+          replacement cost, or separate Coverage B limits because the insurer never discloses
+          them. The regulation puts that disclosure obligation on the carrier.
+        </p>
+        <p className="mb-2">
+          <strong>(d) Time limits.</strong> The insurer cannot manufacture its own deadlines on
+          the insured. Whatever the policy says about notice or proof of claim controls; the
+          carrier cannot impose shorter or additional deadlines through claims correspondence.
+        </p>
+        <p className="mb-2">
+          <strong>(e) Releases.</strong> If the carrier wants the insured to sign a release that
+          reaches beyond the specific item being paid (or includes a Civil Code §1542 waiver of
+          unknown claims), it must explain in writing what the insured is giving up first —
+          unless the insured is represented by counsel. Many policyholders sign these documents
+          without realizing the scope. The interpretation of any specific release is a legal
+          question for an attorney.
+        </p>
+        <p>
+          <strong>(f) Release language on partial-payment checks.</strong> An insurer cannot
+          print &ldquo;full and final settlement&rdquo; or similar release language on a
+          partial-payment check unless the policy limit is fully paid or both sides have actually
+          agreed to compromise the rest of the claim. Many policyholders worry that endorsing
+          such a check waives the rest of their claim; many plaintiff attorneys take the
+          position that, under this regulation, the release language is not enforceable in the
+          partial-payment context absent the listed conditions. For any release an insured is
+          being asked to sign, consult an attorney.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">Explanation</h3>
       <p className="text-gray-700 leading-relaxed mb-3">
         <strong>Subsection (a) is one of the most important and most frequently violated
-        regulations in the entire code.</strong> The insurer must affirmatively tell you about
-        every coverage that <em>may</em> apply to your claim. The duty is on the insurer to
-        disclose — not on you to ask.
+        regulations in the entire code.</strong> The insurer must affirmatively identify every
+        coverage that <em>may</em> apply to the claim. The duty rests with the insurer; an
+        insured does not have to ask for the carrier to be in compliance. As a practical
+        matter, though, a written request from the insured creates a clear record of what was
+        asked and what the insurer disclosed — which is often what makes any later
+        non-disclosure provable.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
         Subsection (f) prohibits &ldquo;full and final settlement&rdquo; language on partial
@@ -529,9 +611,11 @@ export default function Content() {
         apply to my claim, including but not limited to: Coverage A (dwelling), Coverage B
         (other structures), Coverage C (personal property), Coverage D (loss of use), ordinance
         or law coverage, debris removal, extended replacement cost, and any other applicable
-        endorsements.&rdquo; If the insurer fails to respond or omits coverages, you have a
-        documented violation. If you never ask, the insurer may never volunteer the
-        information — and you leave money on the table.
+        endorsements.&rdquo; If the insurer fails to respond or omits coverages, the written
+        request creates a documented record. The affirmative disclosure duty under §2695.4(a)
+        exists regardless of whether the insured asks; what the written request adds is
+        provability — a clear paper record of what was requested and what the carrier disclosed
+        (or did not).
       </p>
 
       <CalloutBox variant="warning" title="The Duty to Disclose All Coverages">
@@ -580,11 +664,12 @@ export default function Content() {
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">Explanation</h3>
       <p className="text-gray-700 leading-relaxed mb-3">
         The <strong>15-day response rule</strong> (&sect;2695.5(b)) is one of the most
-        frequently violated and most useful regulations. It applies to <em>every</em>{' '}
-        communication that reasonably expects a response. Every email, every letter, every
-        voicemail you send that asks a question, requests information, or submits documentation
-        triggers a 15-calendar-day response obligation. Each day past 15 is a separate
-        regulatory violation.
+        frequently violated and most useful regulations. It applies to <em>every</em>
+        communication from a claimant that reasonably suggests a response is expected. Each
+        email, letter, or voicemail that asks a question, requests information, or submits
+        documentation may trigger the 15-calendar-day response obligation. Continued
+        non-response past the 15-day mark may be treated as an ongoing violation that supports
+        a CDI complaint or future bad-faith analysis.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
         The <strong>15-day acknowledgment deadline</strong> (&sect;2695.5(e)) starts the
@@ -616,16 +701,17 @@ export default function Content() {
         </li>
       </ul>
 
-      <h3 className="text-lg font-bold text-[#1F3964] mb-3">How to Use This</h3>
+      <h3 className="text-lg font-bold text-[#1F3964] mb-3">How Some Policyholders Use This</h3>
       <p className="text-gray-700 leading-relaxed mb-6">
-        <strong>Create a communication log.</strong> Every time you send the insurer something,
-        log the date and what you sent. If 15 calendar days pass without a response, send a
-        follow-up letter: &ldquo;On [date], I sent [description]. Per 10 CCR &sect;2695.5(b),
-        a response was due within 15 calendar days. No response has been received. This
-        constitutes a regulatory violation. Please respond immediately.&rdquo; This
-        accomplishes two things: it gets the insurer&apos;s attention, and it creates a paper
-        trail documenting the violation. Even if the insurer responds the next day, the
-        violation is documented for any future CDI complaint or bad faith claim.
+        <strong>Many policyholders keep a communication log.</strong> Every communication sent
+        to the insurer is logged with the date and what was sent. If 15 calendar days pass
+        without a response, a follow-up letter is one option some policyholders use, along
+        these lines: &ldquo;On [date], I sent [description]. Per 10 CCR &sect;2695.5(b), a
+        response was due within 15 calendar days. No response has been received. This may
+        constitute a regulatory violation. Please respond immediately.&rdquo; In our
+        experience, this approach accomplishes two things: it tends to get the insurer&apos;s
+        attention, and it creates a paper trail that may support a future CDI complaint or any
+        bad-faith analysis an attorney later conducts.
       </p>
 
       {/* ───────── 2695.6 TRAINING AND CERTIFICATION ───────── */}
@@ -752,8 +838,9 @@ export default function Content() {
         </p>
       </div>
       <p className="text-gray-700 leading-relaxed mb-3">
-        <strong>Explanation:</strong> The insurer cannot leave your claim in limbo. Every 30
-        days without a written update is a separate violation.
+        <strong>Explanation:</strong> The insurer cannot leave the claim in limbo. Each 30-day
+        period that passes without a written status update may be treated as a separate
+        violation under §2695.7(c).
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
         <strong>Real-world example:</strong> Your wildfire claim has been open for six months.
@@ -857,12 +944,17 @@ export default function Content() {
         for how the statute of limitations works in insurance disputes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
-        <strong>How to use this:</strong> If you are approaching any deadline — the one-year
-        suit limitation in many policies, the two-year statute under CCP &sect;339(1) — write
-        to your insurer: &ldquo;Per 10 CCR &sect;2695.7(f), please identify any statute of
-        limitation or time period requirement that may apply to my claim and the applicable
-        expiration dates.&rdquo; This forces disclosure and prevents the insurer from later
-        claiming a deadline passed without notice.
+        <strong>How some policyholders use this:</strong> Many policies contain a one-year suit
+        limitation provision, and certain statutes of limitation may also apply depending on
+        the legal theory involved — CCP &sect;339(1) is sometimes cited in this area.{' '}
+        <strong>Identifying which statute(s) of limitation apply to a specific claim is a legal
+        question for an attorney, not a public adjuster.</strong> That said, &sect;2695.7(f)
+        places the disclosure burden on the insurer. Some policyholders write to the carrier
+        with language like: &ldquo;Per 10 CCR &sect;2695.7(f), please identify in writing any
+        statute of limitation or time period requirement that may apply to my claim and the
+        applicable expiration dates.&rdquo; The point is to obtain the carrier&apos;s own
+        written identification of any deadlines it intends to rely on, so the insured and the
+        insured&apos;s attorney can evaluate them.
       </p>
 
       {/* 2695.7(g) */}
@@ -1208,9 +1300,10 @@ export default function Content() {
         Why This Regulation Changes Everything
       </h3>
       <p className="text-gray-700 leading-relaxed mb-3">
-        This is, without exaggeration, the <strong>single most effective regulation for
-        increasing a property insurance settlement</strong>. It works because it forces the
-        insurer to put its money where its estimate is.
+        In our experience, this is <strong>one of the most effective regulations available to
+        property policyholders in California</strong>. It works because it tests whether the
+        insurer&apos;s estimate can survive contact with the actual repair market — by asking
+        the insurer to name a contractor who will perform the work for the estimated amount.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
         Here is how it works in practice: The insurer&apos;s adjuster — or a contractor hired
@@ -1221,34 +1314,36 @@ export default function Content() {
         trade standards for good and workmanlike construction, for $80,000.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
-        <strong>You do not need your own estimate to make this demand.</strong> All you need is
-        the insurer&apos;s estimate. The regulation requires that the insurer&apos;s estimate
-        be &ldquo;of an amount which will restore the damaged property to no less than its
-        condition prior to the loss&rdquo; using &ldquo;accepted trade standards for good and
-        workmanlike construction.&rdquo; If no contractor will do the work for the
-        insurer&apos;s number, the estimate fails that standard on its face.
+        <strong>The §2695.9(d) leverage rests on two independent requirements in the
+        regulation.</strong> The first is in §2695.9(d)&apos;s opening paragraph: the
+        insurer&apos;s estimate itself must be &ldquo;of an amount which will restore the
+        damaged property to no less than its condition prior to the loss&rdquo; using
+        &ldquo;accepted trade standards for good and workmanlike construction,&rdquo; and the
+        insurer must take reasonable steps to verify that repair costs are &ldquo;accurate and
+        representative of costs in the local market area.&rdquo; If no licensed contractor will
+        do the scope for the insurer&apos;s number, many plaintiff attorneys argue the estimate
+        may not meet that standard on its face — and an insured may have grounds to challenge
+        it even without producing a separate written estimate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
-        In the vast majority of cases, <strong>the insurer cannot produce a
-        contractor</strong>. The estimate was generated by an adjuster using software, or by a
-        contractor who wrote it for the carrier but has no intention of actually performing the
-        work. No reputable, licensed contractor will agree to do the repairs for a number that
-        does not reflect the actual cost of construction in your area.
+        The second is the §2695.9(d)(1)–(3) framework, which is triggered when the claimant
+        does submit a written estimate showing higher costs. At that point the carrier has
+        three options: pay the difference, name a contractor who will do the work for the
+        insurer&apos;s number, or reasonably adjust the claimant&apos;s estimate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
-        This is true even when the insurer used a contractor to write the estimate. Just
-        because a contractor wrote the estimate for the insurance company does not mean that
-        contractor — or any contractor — will actually <em>do</em> the work for that amount.
-        Many times the contractor who prepared the estimate for the insurer will say they
-        do not want the job, or their estimate is incomplete on its face — missing line
-        items, using incorrect measurements, or failing to account for code-required upgrades.
-        The insurer still cannot name a contractor who will do the complete scope of work for
-        their number.
+        In our experience, the insurer rarely produces a contractor. The estimate was usually
+        generated by an adjuster using software, or by a contractor who wrote it for the
+        carrier but has no intention of actually performing the work. Reputable licensed
+        contractors do not agree to do repairs for a number that does not reflect actual
+        construction cost in the local area.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the insurer fails to produce a contractor, their own estimate is effectively
-        rebutted — it cannot, by definition, &ldquo;allow for repairs in a manner which meets
-        accepted trade standards&rdquo; if no one will do the work for that amount.
+        When the insurer cannot produce a contractor at its number, many plaintiff attorneys
+        argue the estimate may not satisfy the trade-standards and local-market requirements
+        in §2695.9(d). In practice, this is often the point at which the carrier agrees to a
+        reinspection or to adjust the estimate — which is usually where additional payment
+        shows up.
       </p>
 
       <CalloutBox variant="tip" title="How to Write the Contractor Name Demand Letter">
@@ -1291,20 +1386,23 @@ export default function Content() {
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3 mt-6">Real-World Results</h3>
       <p className="text-gray-700 leading-relaxed mb-3">
-        This regulation is used routinely by experienced Public Adjusters to increase
-        settlements by tens of thousands of dollars — sometimes by six figures on large
-        residential claims. The pattern is consistent: the insurer writes a low estimate, the
-        contractor name demand is sent, the insurer cannot produce a contractor who will do
-        the work for their number, and the settlement increases significantly. Having your own
-        contractor estimates strengthens the demand even further — but it is the written demand
-        itself, not the competing estimate, that creates the leverage.
+        In our experience, this regulation is used routinely by experienced Public Adjusters
+        to support settlement increases — often by tens of thousands of dollars, and on large
+        residential claims sometimes much more. The pattern we see is consistent: the insurer
+        writes a low estimate, the contractor-name demand is sent, the insurer cannot produce a
+        contractor who will do the work at that number, and the carrier often agrees to a
+        reinspection or to adjust the estimate. Having a competing contractor estimate
+        strengthens the demand. In our experience, the written demand itself — backed by the
+        regulation&apos;s trade-standards and local-market requirements — is often what creates
+        the leverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
         The regulation also addresses the insurer&apos;s estimate quality independently. The
         first sentence requires the estimate to be &ldquo;accurate and representative of costs
-        in the local market area.&rdquo; An insurer using Xactimate with default pricing that
-        does not reflect Bay Area, Los Angeles, or any other California local market costs is
-        already in violation of this requirement — even before anyone challenges the estimate.
+        in the local market area.&rdquo; Many plaintiff attorneys argue that an insurer using
+        Xactimate with default pricing that does not reflect Bay Area, Los Angeles, or other
+        California local market costs may not satisfy this requirement — even before anyone
+        challenges the estimate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>Key point:</strong> This regulation requires you to take action. You need to
@@ -1456,11 +1554,13 @@ export default function Content() {
         violations, frame them in terms of these factors.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
-        In litigation, the same factors that make the CDI impose penalties also make a jury
-        award damages. Under <em>Egan v. Mutual of Omaha</em>, bad faith that is oppressive,
-        fraudulent, or malicious can support punitive damages. A record of documented
-        regulatory violations — especially if management was aware — is powerful evidence in
-        that analysis.
+        In litigation, many of the same factors that drive CDI penalty decisions can also
+        influence a jury&apos;s damages analysis. Under <em>Egan v. Mutual of Omaha</em>, the
+        California Supreme Court held that bad-faith conduct that is oppressive, fraudulent, or
+        malicious may support punitive damages. Many plaintiff attorneys treat a documented
+        record of regulatory violations — especially where management was aware — as
+        supportive evidence in any punitive-damages analysis. Whether punitive damages are
+        available in a specific case is a determination for the courts and attorneys involved.
       </p>
 
       {/* ───────── 2695.13–14 ───────── */}
@@ -1483,41 +1583,54 @@ export default function Content() {
         Putting It All Together
       </h2>
       <p className="text-gray-700 leading-relaxed mb-3">
-        These regulations are not abstract legal theory. They are practical tools that you can
-        use today to advance your claim. Here is the framework:
+        These regulations are not abstract legal theory. They are practical tools that
+        policyholders and public adjusters use to advance claims. A common framework looks
+        like this:
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-4">
         <li>
-          <strong>Make written demands, citing the regulation.</strong> The insurer is not going
-          to volunteer compliance. You must ask — in writing, citing the specific section number.
-          Every written demand either gets you what you need or documents a violation.
+          <strong>Written demands, citing the regulation.</strong> Carriers rarely volunteer
+          compliance. Many policyholders make every meaningful request in writing, citing the
+          specific section number. In our experience, a written demand either prompts a
+          substantive response — sometimes a concession, sometimes a reinspection — or it
+          creates a documented record that may support a CDI complaint or any future
+          bad-faith analysis.
         </li>
         <li>
-          <strong>Track every deadline.</strong> From the moment you file, start a log. Compare
-          against the 15-day, 40-day, and 30-day deadlines. Each missed deadline is a separate,
-          documentable violation.
+          <strong>Track every deadline.</strong> From the moment a claim is filed, a simple log
+          tracking dates against the 15-day, 40-day, and 30-day deadlines builds a record. Each
+          missed deadline may be a separately documentable violation.
         </li>
         <li>
-          <strong>Use the contractor name requirement.</strong> The moment the insurer
-          produces an estimate, you can demand the name of a contractor who will do the work
-          for that amount under &sect;2695.9(d)(2). You do not need your own competing
-          estimate — though having one strengthens your position further.
+          <strong>The contractor-name requirement.</strong> Once the insurer produces an
+          estimate, an insured may request — under §2695.9(d)(2) — the name of a contractor
+          who will do the work for that amount. Having a competing contractor estimate
+          strengthens the request, but the trade-standards and local-market requirements in
+          §2695.9(d)&apos;s opening paragraph give an insured independent grounds to challenge
+          the estimate even without one.
         </li>
         <li>
-          <strong>Challenge labor depreciation.</strong> Review the ACV calculation line by
-          line. If labor is depreciated, cite &sect;2695.9(f)(1) and demand correction.
+          <strong>Labor depreciation.</strong> Many insureds review the ACV calculation line by
+          line. Where labor is depreciated, citing §2695.9(f)(1) and requesting correction is a
+          common approach — and the math here is straightforward: labor on field repairs is not
+          subject to depreciation in California.
         </li>
         <li>
-          <strong>Request your claim file.</strong> The file often reveals what the insurer
-          knew and when. Supervisor overrides, internal disagreements, and evidence of
-          predetermined outcomes are all in there.
+          <strong>Documents the insurer is required to provide.</strong> The Fair Claims
+          regulations give insureds specific document rights — for example, §2695.9(d) requires
+          the insurer to supply a copy of any written scope or estimate the settlement is
+          based on; §2695.7(b)(1) requires written denials to state the factual and legal
+          bases. A written request under §2695.5(b) starts the 15-day response clock for these
+          materials.
         </li>
         <li>
-          <strong>Document violations for the future.</strong> Even if a single violation does
-          not constitute bad faith, a <em>pattern</em> of violations — especially with
-          documented written demands that were ignored — builds a compelling case for bad faith
-          under <em>Jordan v. Allstate</em> and potentially punitive damages under{' '}
-          <em>Egan v. Mutual of Omaha</em>.
+          <strong>Document violations for the future.</strong> Even where a single violation
+          does not amount to bad faith, a <em>pattern</em> of violations — especially with
+          documented written demands that went unanswered — is the kind of record many
+          plaintiff attorneys point to under <em>Jordan v. Allstate</em> when evaluating bad
+          faith, and under <em>Egan v. Mutual of Omaha</em> when evaluating potential punitive
+          damages. The real value of this documentation usually shows up later, if the dispute
+          escalates to litigation.
         </li>
         <li>
           <strong>File CDI complaints when warranted.</strong> Cite specific regulation numbers,
@@ -1568,12 +1681,14 @@ export default function Content() {
       {/* ───────── CTA ───────── */}
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
-          Is Your Insurer Violating These Regulations?
+          Concerned About How Your Claim Is Being Handled?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          A licensed Public Adjuster can review your claim file, identify every regulatory
-          violation, and use these regulations to negotiate the settlement you are entitled to.
-          Free consultation, no obligation.
+          A licensed public adjuster can review an insurance claim file to identify underpaid
+          items and may be able to use regulatory violations to support negotiation for a more
+          complete settlement. A public adjuster may also identify issues that warrant
+          consultation with an attorney. Most public adjusters and attorneys will provide a
+          free consultation.
         </p>
         <Link
           href="/contact"

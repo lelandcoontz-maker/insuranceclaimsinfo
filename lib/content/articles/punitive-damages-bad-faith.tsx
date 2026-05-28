@@ -35,9 +35,10 @@ export default function Content() {
         wrongdoer and deter similar conduct in the future. In the insurance context, they serve
         a critical function: they are the mechanism by which juries tell insurance companies
         that certain conduct will not be tolerated, no matter how many premiums the company
-        collects. Without the threat of punitive damages, the economic incentive for an insurer
-        to systematically underpay claims would be overwhelming. The worst that could happen
-        would be paying what it owed in the first place.
+        collects. Without the threat of punitive damages &mdash; on top of contract damages,
+        tort damages, emotional distress, Brandt fees, and prejudgment interest &mdash; the
+        economic incentive for an insurer to systematically underpay claims would be
+        substantially greater.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This article explains when punitive damages are available in California insurance bad
@@ -147,16 +148,24 @@ export default function Content() {
         Just one year after <em>Neal</em>, the California Supreme Court decided{' '}
         <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809 &mdash; arguably
         the most important punitive damages case in California insurance law. Michael Egan
-        was a roofer who fell 12 feet and suffered a severe back injury that required surgery.
-        His doctor declared him totally disabled. He filed a claim under his disability income
-        policy with Mutual of Omaha. The insurer denied the claim, asserting that Egan&rsquo;s
-        back condition was the result of illness rather than an accident and was not a permanent
-        disability.
+        had received disability benefits for three prior back injuries arising out of his
+        employment. When he submitted a fourth claim in May 1970 for an accidental back injury,
+        Mutual of Omaha denied the claim &mdash; asserting that the condition was an illness
+        rather than a permanent disability &mdash; without conducting a fair investigation of
+        the supporting medical evidence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The jury found bad faith and awarded $45,600 in compensatory damages, $78,000 for
-        emotional distress, and $5 million in punitive damages. The Supreme Court upheld the
-        award and established several foundational principles:
+        The jury found bad faith and awarded $45,600 in contract damages, $78,000 in general
+        damages, and $5 million in punitive damages against Mutual of Omaha. The California
+        Supreme Court&rsquo;s actual disposition was nuanced: it affirmed the compensatory
+        damages and the underlying legal holdings on bad-faith liability, but{' '}
+        <strong>reversed the $5 million punitive damages award as excessive as a matter of
+        law</strong> &mdash; finding it more than forty times the compensatory damages and
+        &ldquo;the result of passion and prejudice.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What survives <em>Egan</em> as binding precedent are the legal holdings, not the
+        dollar figure:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
@@ -171,18 +180,29 @@ export default function Content() {
           insurer in a superior bargaining position. Punitive damages help restore balance.
         </li>
         <li>
-          The court addressed the &ldquo;managing agent&rdquo; question for the first time
-          in the insurance context, holding that a claims adjuster who had the authority to
+          The court addressed the &ldquo;managing agent&rdquo; question in the insurance
+          context, holding that a claims adjuster who had the authority to{' '}
           &ldquo;dispose of insureds&rsquo; claims with little if any supervision&rdquo;
-          was acting in a &ldquo;managerial capacity&rdquo; and that his conduct could be
-          imputed to the insurer for purposes of punitive damages.
+          was acting in a &ldquo;managerial capacity&rdquo; under the pre-1980 standard.
+          The California Supreme Court refined this test two decades later in{' '}
+          <em>White v. Ultramar, Inc.</em> (1999) 21 Cal.4th 563, narrowing &ldquo;managing
+          agent&rdquo; under Civil Code &sect; 3294(b) to corporate employees whose
+          decisions &ldquo;ultimately determine corporate policy.&rdquo; Under the modern
+          test, regional claims managers and above are typically the focus, though the
+          analysis remains fact-specific. See our companion article on{' '}
+          <Link href="/resources/managing-agent-punitive-damages" className="text-blue-700 underline hover:text-blue-900">
+            managing agent liability and punitive damages
+          </Link>{' '}
+          for the detailed framework.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Egan</em> remains the starting point for any discussion of punitive damages in
-        California insurance bad faith litigation. Its holding that an insurer&rsquo;s failure
-        to investigate is independently actionable &mdash; and can support punitive damages
-        &mdash; has been cited in hundreds of subsequent decisions.
+        <em>Egan</em> remains the starting point for any discussion of bad-faith liability
+        and punitive damages in California insurance litigation. Its holding that an
+        insurer&rsquo;s failure to investigate is independently actionable has been cited in
+        hundreds of subsequent decisions. The $5 million dollar amount, by contrast, is not
+        precedent for any particular punitive damages ceiling &mdash; that figure was held
+        excessive and reversed.
       </p>
 
       {/* ── The Managing Agent Requirement ────────────────────────── */}
@@ -247,12 +267,14 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Even if the initial wrongful conduct was committed by a low-level adjuster, punitive
         damages can still be available if a managing agent later <strong>ratified</strong>{' '}
-        that conduct. Ratification occurs when a managing agent learns of the conduct and
-        approves it, either explicitly or by failing to take corrective action. In insurance
-        claims, this frequently arises when a supervisor reviews and approves a claim file
-        that contains obvious evidence of bad faith handling. By signing off on the file,
-        the supervisor ratifies the adjuster&rsquo;s conduct, potentially exposing the
-        company to punitive damages.
+        that conduct. Under <em>Cruz v. HomeBase</em> (2000) 83 Cal.App.4th 160, ratification
+        requires that the officer, director, or managing agent had{' '}
+        <strong>actual knowledge</strong> of the misconduct and its malicious character,
+        and either explicitly approved it or failed to repudiate it after learning of it. In
+        the insurance claims context, this requires more than routine supervisory review; the
+        plaintiff must show the managing agent knew the underlying facts that made the
+        adjuster&rsquo;s handling improper. Mere approval of a file in the ordinary course
+        is not, by itself, ratification.
       </p>
 
       {/* ── What Conduct Triggers Punitive Damages ────────────────── */}
@@ -380,9 +402,12 @@ export default function Content() {
         408, the Court went further, holding that &ldquo;in practice, few awards exceeding a
         single-digit ratio between punitive and compensatory damages, to a significant degree,
         will satisfy due process.&rdquo; The case arose from an insurance bad faith dispute
-        in which the jury had awarded $1 million in compensatory damages and $145 million in
-        punitive damages &mdash; a 145:1 ratio. The Court struck down the award as
-        unconstitutionally excessive.
+        in which the jury awarded $2.6 million in compensatory damages and $145 million in
+        punitive damages; the trial court reduced the award by remittitur to $1 million
+        compensatory and $25 million punitive; the Utah Supreme Court then reinstated the
+        $145 million punitive figure against the $1 million remitted compensatory, producing
+        the 145:1 ratio the U.S. Supreme Court ultimately reviewed. The Court struck down
+        the award as unconstitutionally excessive.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The <em>State Farm</em> single-digit guideline is just that &mdash; a guideline, not
@@ -394,13 +419,18 @@ export default function Content() {
         constitutional maximum.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The practical effect: in a case where the compensatory damages are $500,000, a court
-        is likely to sustain a punitive damages award somewhere between $500,000 and
-        $4.5 million (1:1 to 9:1), depending on the egregiousness of the conduct. Where
-        compensatory damages are in the millions, the ratio will be lower. Where they are
-        small &mdash; say, $50,000 in contract damages &mdash; a higher ratio may be
-        permissible because a 1:1 award would not serve the punishment and deterrence
-        functions.
+        The practical effect: in a case where the compensatory damages are $500,000 &mdash;
+        a level California courts treat as &ldquo;substantial&rdquo; under <em>Roby</em>
+        and <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th 1159 &mdash;
+        sustainable punitive damages typically land in the low single digits, often closer
+        to 1:1 where the compensatory award already includes a significant emotional-distress
+        or noneconomic component. Ratios approaching 9:1 are available only where the
+        conduct is particularly egregious; defense counsel will challenge anything close to
+        that ceiling under <em>State Farm</em> and <em>Simon</em>. Where compensatory damages
+        are in the millions, the constitutional ceiling drops further. Where they are small
+        &mdash; say, $50,000 in contract damages &mdash; a higher ratio may be permissible
+        because a 1:1 award would not serve the punishment and deterrence functions, but the
+        award still must survive due-process review.
       </p>
 
       {/* ── The Discovery Fight ──────────────────────────────────── */}
@@ -430,9 +460,13 @@ export default function Content() {
           pretrial discovery of the defendant&rsquo;s financial condition must file a motion
           with the court and demonstrate a &ldquo;substantial probability&rdquo; that the
           punitive damages claim will succeed. The motion must be supported by affidavits
-          and admissible evidence. This is a mini-trial on the merits of the punitive damages
-          claim, and courts take it seriously. If the motion is denied, the plaintiff
-          proceeds to trial without having seen the defendant&rsquo;s financial records.
+          and admissible evidence. By statute, the court&rsquo;s order on a &sect; 3295(c)
+          motion is expressly <em>not</em> a determination on the merits of the punitive
+          damages claim and may not be admitted at trial &mdash; but the showing required to
+          obtain the order is meaningful, and a granted order signals the court&rsquo;s
+          preliminary view that the claim has substance. If the motion is denied, the
+          plaintiff proceeds to trial without having seen the defendant&rsquo;s financial
+          records.
         </li>
         <li>
           <strong>Trial bifurcation (subdivision (d)):</strong> Even if pretrial discovery
@@ -516,17 +550,20 @@ export default function Content() {
         Settlement Leverage: The Real Value of a Viable Punitive Damages Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For policyholders and their attorneys, the single most important thing to understand
-        about punitive damages is this: <strong>a credible punitive damages claim transforms
-        the economics of the entire case</strong>.
+        For policyholders and their attorneys, an important practical point about punitive
+        damages is this: <strong>a credible punitive damages claim materially changes the
+        economics of a case</strong> &mdash; though the constitutional cap discussed above
+        limits the leverage in cases with substantial compensatory damages.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Without punitive damages, the insurer&rsquo;s worst-case exposure at trial is the
-        unpaid policy benefits plus emotional distress damages and attorney fees. With
-        punitive damages on the table, the potential exposure multiplies by a factor of
-        five, nine, or more. An insurer that might rationally refuse to settle a $200,000
-        contract dispute suddenly faces potential exposure of $1 million or more when
-        punitive damages are in play.
+        unpaid policy benefits plus emotional distress damages, Brandt fees (the attorney
+        fees recoverable in bad-faith cases under <em>Brandt v. Superior Court</em> (1985)
+        37 Cal.3d 813), and prejudgment interest &mdash; already a substantial figure. With
+        punitive damages on the table, the potential exposure expands further, subject to
+        the constitutional single-digit ratio (and often lower) discussed above. The exposure
+        increase tends to be largest in cases with relatively small compensatories where
+        higher ratios may be sustainable.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is why the procedural milestones in a punitive damages case matter so much.
@@ -579,10 +616,14 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
           <strong>Document everything.</strong> Punitive damages require evidence of willful,
-          conscious wrongdoing. The best evidence is a paper trail: letters, emails, recorded
-          calls, claim notes, and timelines showing a pattern of unreasonable conduct. Every
-          time the insurer ignores your evidence, misrepresents your policy, delays without
-          explanation, or reverses a prior commitment, document it in writing.
+          conscious wrongdoing. The best evidence is a paper trail: letters, emails, written
+          summaries of phone calls (made immediately after the call), claim notes, and
+          timelines showing a pattern of unreasonable conduct. Every time the insurer ignores
+          your evidence, misrepresents your policy, delays without explanation, or reverses
+          a prior commitment, document it in writing. (Note: California Penal Code &sect; 632
+          generally requires the consent of all parties to record a phone call. Do not
+          record carrier calls without consulting an attorney about the consent requirements
+          and admissibility issues.)
         </li>
         <li>
           <strong>Punitive damages are not a DIY project.</strong> The legal standards,
@@ -614,41 +655,29 @@ export default function Content() {
         What Attorneys Should Focus On
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For attorneys evaluating or litigating a punitive damages claim against an insurer,
-        the following areas of focus are critical:
+        Plaintiffs&rsquo; counsel evaluating or litigating a punitive damages claim against an insurer typically focus on the following areas:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>Identify the managing agent early.</strong> Begin discovery by mapping the
-          insurer&rsquo;s claims-handling hierarchy. Who assigned the adjuster? Who approved
-          the denial or the reserve? Who set the claims-handling guidelines? Depose up the
-          chain. You need to connect the conduct to someone who qualifies as a managing
+          <strong>Identifying the managing agent early.</strong> Discovery in this area typically begins by mapping the insurer&rsquo;s claims-handling hierarchy &mdash; who assigned the adjuster, who approved the denial or the reserve, who set the claims-handling guidelines. The goal is to connect the conduct to someone who qualifies as a managing
           agent under section 3294(b).
         </li>
         <li>
-          <strong>Look for institutional patterns.</strong> Request documents showing how
-          the insurer handles similar claims. Training materials, claims manuals, internal
+          <strong>Looking for institutional patterns.</strong> Discovery in this area typically requests documents showing how the insurer handles similar claims. Training materials, claims manuals, internal
           audits, and performance metrics can reveal whether the bad faith conduct in your
           case is part of a broader corporate practice. Pattern evidence is powerful on
           the punitive damages question.
         </li>
         <li>
-          <strong>Preserve the claim file.</strong> The insurer&rsquo;s own claim file is
-          often the best evidence of bad faith. Internal notes, adjuster emails, reserve
-          entries, and supervisor comments can reveal the insurer&rsquo;s true reasoning
-          &mdash; reasoning that may differ dramatically from what the insurer told the
-          policyholder. Serve a litigation hold notice immediately.
+          <strong>Preserving the claim file.</strong> The insurer&rsquo;s own claim file is often the best evidence of bad faith. Plaintiffs&rsquo; counsel typically serve a litigation hold notice early in the case to preserve internal notes, adjuster emails, reserve entries, and supervisor comments that may reveal the insurer&rsquo;s true reasoning.
         </li>
         <li>
-          <strong>Time the section 3295(c) motion strategically.</strong> The motion for
-          pretrial financial discovery is a high-value event. File it when you have enough
-          evidence to demonstrate a &ldquo;substantial probability&rdquo; of prevailing on
+          <strong>Timing the section 3295(c) motion.</strong> The motion for pretrial financial discovery is a high-value event in the litigation; counsel typically file it when there is enough evidence to demonstrate a &ldquo;substantial probability&rdquo; of prevailing on
           the punitive damages claim. Winning this motion significantly enhances settlement
           leverage.
         </li>
         <li>
-          <strong>Prepare for bifurcation.</strong> Assume the trial will be bifurcated.
-          Structure your case so that the phase one presentation &mdash; liability,
+          <strong>Preparing for bifurcation.</strong> Counsel typically assume the trial will be bifurcated and structure the phase one presentation &mdash; liability,
           compensatory damages, and the malice/oppression/fraud finding &mdash; is as
           compelling as possible standing alone. The phase two presentation on financial
           condition and the appropriate amount of punitive damages should be prepared
@@ -713,13 +742,14 @@ export default function Content() {
             <li>Civil Code &sect; 3295 &mdash; Discovery and evidence of financial condition</li>
             <li>Civil Code &sect; 3295(c) &mdash; Pretrial discovery of financial condition</li>
             <li>Civil Code &sect; 3295(d) &mdash; Trial bifurcation of financial evidence</li>
+            <li>Civil Code &sect; 3295(e) &mdash; Bars stating a specific punitive damages amount in the complaint without prior court order</li>
           </ul>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
           <h4 className="font-bold text-[#1F3964] mb-2">Insurance Code</h4>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
-            <li>Insurance Code &sect; 790.03(h) &mdash; Unfair claims settlement practices</li>
-            <li>10 CCR &sect; 2695.7 &mdash; Fair claims settlement practices regulations</li>
+            <li>Insurance Code &sect; 790.03(h) &mdash; Unfair claims settlement practices (note: under <em>Moradi-Shalal v. Fireman&rsquo;s Fund Ins. Co.</em> (1988) 46 Cal.3d 287, there is no private cause of action under &sect; 790.03(h); it is now used as evidence of the standard of care in common-law bad-faith actions)</li>
+            <li>10 CCR &sect; 2695.7 &mdash; Fair claims settlement practices regulations (same: no private right of action, but used as evidence of the standard of care)</li>
           </ul>
         </div>
       </div>
@@ -790,15 +820,25 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          California Civil Code sections 3294 and 3295 (full text available at{' '}
+          California Civil Code{' '}
           <a
             href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3294.&lawCode=CIV"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-700 underline hover:text-blue-900"
           >
-            California Legislative Information
-          </a>)
+            section 3294
+          </a>{' '}
+          and{' '}
+          <a
+            href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3295.&lawCode=CIV"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            section 3295
+          </a>{' '}
+          (full text at California Legislative Information)
         </li>
         <li>
           Gianelli &amp; Morris, LLP, &ldquo;Punitive Damages for Wrongful Insurance Claim

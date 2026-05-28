@@ -112,14 +112,13 @@ export default function Content() {
         <em>White v. Ultramar, Inc.</em> (1999) 21 Cal.4th 563.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The legislative history provides some guidance. When the Legislature amended section 3294
-        to add subdivision (b) in 1980, Senator Maddy described the &ldquo;managing agent&rdquo;
-        as &ldquo;the lowest level person within a corporation who must be &lsquo;personally
-        guilty of oppression, fraud [or] malice&rsquo; or possess the requisite &lsquo;advance
-        knowledge&rsquo; and &lsquo;authorize or ratify&rsquo; the conduct at issue before
-        punitive damages can be assessed against the corporation.&rdquo; This language reflects
-        a legislative intent to ensure that only misconduct traceable to individuals with genuine
-        policy-making authority can expose a corporation to punitive damages.
+        The 1980 amendment that added subdivision (b) to section 3294 was, as California courts
+        have since recognized, designed to limit corporate punitive damages exposure to
+        misconduct traceable to individuals with genuine policy-making authority. The managing
+        agent requirement functions as a gatekeeping mechanism: only when an officer, director,
+        or managing agent &mdash; not a low-level employee &mdash; is personally guilty of
+        oppression, fraud, or malice, or has knowingly authorized or ratified such conduct, can
+        the corporation itself be exposed to punitive damages.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -127,31 +126,49 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The managing agent concept in insurance bad faith cases traces back to{' '}
-        <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809. Michael Egan, a
-        roofer who fell 12 feet and suffered a disabling back injury requiring surgery, filed a
-        disability insurance claim. Despite being declared totally disabled by his physician,
-        Mutual of Omaha denied his claim, asserting that his back condition was the result of
-        illness rather than a permanent disability.
+        <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809. Michael Egan had
+        received disability benefits for three prior back-related injuries under his Mutual of
+        Omaha disability policy. When he submitted a fourth claim in May 1970 for a back injury
+        suffered during the course of his employment, Mutual of Omaha denied coverage, asserting
+        that his condition was an illness rather than a permanent disability.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Writing for the California Supreme Court, Justice Stanley Mosk addressed whether the
-        conduct of two Mutual of Omaha claims employees &mdash; McEachen and Segal &mdash; could
-        be imputed to the corporation for punitive damages purposes. The court rejected the
-        insurer&rsquo;s argument that liability for punitive damages should turn on any official
-        corporate title. Instead, the court held that the relevant inquiry is whether the
-        employees acted in a &ldquo;managerial capacity,&rdquo; which depends on{' '}
+        conduct of two Mutual of Omaha claims personnel &mdash; agency claims manager McEachen
+        and agency claims adjuster Segal &mdash; could be imputed to the corporation for
+        punitive damages purposes. The court rejected the insurer&rsquo;s argument that
+        liability for punitive damages should turn on any official corporate title. Instead, the
+        court held that the relevant inquiry depends on{' '}
         <strong>&ldquo;the degree of discretion the employees possess in making decisions that
         will ultimately determine corporate policy.&rdquo;</strong>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The record demonstrated that both employees exercised broad discretion in the disposition
-        of Egan&rsquo;s claim. McEachen&rsquo;s own testimony about his responsibilities
-        reflected his exercise of policy-making authority as a &ldquo;managerial employee.&rdquo;
-        Critically, the court found that a claims adjuster who had the authority to &ldquo;dispose
-        of insureds&rsquo; claims with little if any supervision&rdquo; qualified as a managerial
-        employee whose wrongful acts could be imputed to the insurer for punitive damages
-        purposes. The jury had awarded $5 million in punitive damages.
+        The record demonstrated that both individuals exercised broad discretion in the
+        disposition of Egan&rsquo;s claim. The court found that{' '}
+        <em>&ldquo;When employees dispose of insureds&rsquo; claims with little if any
+        supervision, they possess sufficient discretion for the law to impute their actions
+        concerning those claims to the corporation.&rdquo;</em>
       </p>
+
+      <CalloutBox variant="warning" title="What Survives Egan as Precedent">
+        <p>
+          The jury in <em>Egan</em> awarded $5 million in punitive damages against Mutual of
+          Omaha. On appeal, the California Supreme Court{' '}
+          <strong>reversed the punitive damages award as excessive as a matter of law</strong>
+          {' '}&mdash; the award was over forty times the compensatory damages and was deemed{' '}
+          &ldquo;the result of passion and prejudice on the part of the jurors.&rdquo; The
+          compensatory damages award of $123,600 against Mutual was affirmed.
+        </p>
+        <p className="mt-2">
+          What survives <em>Egan</em> as binding precedent is the{' '}
+          <strong>managing-agent analysis</strong> &mdash; the legal holding that employees who
+          dispose of insureds&rsquo; claims with broad discretion qualify as managing agents
+          under Civil Code &sect; 3294(b). Subsequent California decisions, including{' '}
+          <em>White v. Ultramar</em> (1999) 21 Cal.4th 563, have built on <em>Egan</em>&rsquo;s
+          discretion-focused approach while refining the test. The dollar amount of the jury
+          verdict, by contrast, is not precedent for any particular punitive damages ceiling.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         The <em>White v. Ultramar</em> Test (1999)
@@ -284,9 +301,9 @@ export default function Content() {
         Western Home Insurance Company hired Cambridge Integrated Services Group, a third-party
         claims administrator, to handle all claims under Western&rsquo;s policies. The
         plaintiffs&rsquo; home was destroyed by fire, and although Western ultimately paid the
-        full policy limits, the jury found that the company acted in bad faith by unreasonably
-        delaying benefits payments and withholding approximately $30,000 in additional benefits
-        above the policy limits.
+        full policy limits, the jury found that the company acted in bad faith. The verdict
+        included $34,417.52 in unpaid policy benefits, $400,000 for emotional distress, and
+        $646,472 in punitive damages.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The critical question was whether a Cambridge employee &mdash; who served as regional
@@ -330,13 +347,15 @@ export default function Content() {
         <strong>authorized or ratified</strong> the wrongful conduct of a lower-level employee.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Ratification occurs when upper management learns of the employee&rsquo;s conduct and
-        effectively approves it &mdash; whether through affirmative endorsement, failure to
-        repudiate, or adoption of the results. This doctrine recognizes a practical reality
-        of how insurance companies operate: the adjuster who handled the day-to-day interactions
-        with the policyholder may not personally qualify as a managing agent, but the regional
-        claims manager who reviewed the file, approved the denial, and made no effort to correct
-        the adjuster&rsquo;s course of conduct has effectively ratified the bad faith.
+        Ratification occurs when an officer, director, or managing agent acquires{' '}
+        <strong>actual knowledge</strong> of the employee&rsquo;s wrongful conduct &mdash; and
+        of its malicious character &mdash; and approves or adopts it (see <em>Cruz v.
+        HomeBase</em>, discussed below). This doctrine reflects a practical reality of how
+        insurance companies operate: the adjuster who handled day-to-day interactions with the
+        policyholder may not personally qualify as a managing agent, but a regional claims
+        manager who reviews the file, learns of the underlying facts, approves the denial, and
+        makes no effort to correct the course of conduct can be found to have ratified the bad
+        faith.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -422,9 +441,9 @@ export default function Content() {
         Written Discovery: Interrogatories and Document Demands
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The first step is to serve targeted written discovery designed to map the insurer&rsquo;s
+        In a bad faith case, plaintiffs' counsel typically serve targeted written discovery to map the insurer&rsquo;s
         corporate hierarchy and identify every person who was involved in the handling of the
-        claim. Key discovery requests include:
+        claim. Discovery requests in this area typically include:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
@@ -459,10 +478,11 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Form Interrogatory No. 15.1 (seeking information about each denial and affirmative
-        defense) and Form Interrogatory No. 50 (relating to the policy) provide useful baseline
-        information, but they are typically insufficient to fully develop the managing agent
-        theory. Carefully tailored special interrogatories are essential.
+        Judicial Council Form Interrogatory No. 15.1 (seeking the factual basis for each denial
+        and affirmative defense) provides useful baseline information, but it is typically
+        insufficient to fully develop the managing-agent theory on its own. Carefully tailored
+        special interrogatories targeting the corporate hierarchy and the claims-handling chain
+        of command are generally where the substantive managing-agent evidence is developed.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -478,7 +498,7 @@ export default function Content() {
         who are most qualified to testify on its behalf as to those matters.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A well-crafted PMQ deposition notice should include topics such as:
+        A well-crafted PMQ deposition notice typically covers topics such as:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-4">
         <li>
@@ -523,16 +543,16 @@ export default function Content() {
         Individual Depositions of Claims Personnel
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Following the PMQ deposition, targeted depositions of the individuals identified as
-        decision-makers are essential. When deposing insurance company claims personnel, a
-        productive approach is to begin with generally applicable principles &mdash; the duty of
+        Following the PMQ deposition, plaintiffs' counsel typically depose the individuals identified as
+        decision-makers. When plaintiffs' counsel depose insurance company claims personnel, a
+        common approach is to begin with generally applicable principles &mdash; the duty of
         good faith and fair dealing, the obligation to conduct a thorough investigation, the
         requirement to give the insured&rsquo;s interests equal weight with the insurer&rsquo;s
         own &mdash; and then examine the witness about their authority and the specific decisions
         they made or approved.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Key areas to explore include:
+        Common areas of inquiry include:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
@@ -626,15 +646,13 @@ export default function Content() {
         of a claims committee exercises discretionary authority over a significant aspect of the
         decision &mdash; one person controls the reserve, another approves the coverage
         determination, a third authorizes the settlement offer &mdash; each may independently
-        qualify as a managing agent with respect to their area of authority. Discovery should
-        probe the actual decision-making authority of each participant, not simply accept the
+        qualify as a managing agent with respect to their area of authority. Plaintiffs' counsel commonly probe the actual decision-making authority of each participant, not simply accept the
         insurer&rsquo;s characterization of the process as collaborative.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Moreover, someone must have had final authority. Claims committees do not operate without
         leadership, and someone either chairs the committee, has final say when members disagree,
-        or has the authority to override the committee&rsquo;s recommendation. Identifying that
-        person is the objective of discovery.
+        or has the authority to override the committee&rsquo;s recommendation. Identifying that person is generally the discovery objective.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -657,19 +675,24 @@ export default function Content() {
         The{' '}
         <Link href="/resources/genuine-dispute-doctrine" className="text-blue-700 underline hover:text-blue-900">
           genuine dispute doctrine
-        </Link>{' '}
-        is the insurer&rsquo;s primary defense against bad faith liability generally, and it
-        operates independently of the managing agent analysis. Even if a managing agent is
-        identified, the insurer will argue that there was a legitimate basis for the coverage
-        determination and therefore no bad faith occurred. However, if the investigation was
-        inadequate or the denial was pretextual, the genuine dispute defense fails. The quality
-        and good faith of the investigation is what determines whether the defense holds up.
+        </Link>
+        , articulated by the California Supreme Court in{' '}
+        <em>Wilson v. 21st Century Ins. Co.</em> (2007) 42 Cal.4th 713, is the insurer&rsquo;s
+        primary defense against bad faith liability generally. It operates independently of the
+        managing-agent analysis. <em>Wilson</em> holds that an insurer&rsquo;s position
+        constitutes a genuine dispute only where it is &ldquo;maintained in good faith and on
+        reasonable grounds&rdquo; &mdash; the defense does not relieve the insurer of its duty to
+        thoroughly and fairly investigate the claim. Even if a managing agent is identified, the
+        insurer may argue that there was a reasonable basis for the coverage determination; if
+        the investigation was inadequate or the denial was pretextual, many courts have held the
+        defense fails.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that the genuine dispute defense goes to the question of whether bad
-        faith occurred at all &mdash; it does not address the managing agent requirement.
-        Conversely, establishing managing agent status does not establish bad faith. Both elements
-        must be proven. But when both are present, punitive damages become available.
+        The genuine dispute defense addresses whether bad faith occurred at all &mdash; it does
+        not address the managing-agent requirement. Conversely, establishing managing-agent
+        status does not establish bad faith. Both elements must be proven, and punitive damages
+        require clear and convincing evidence of oppression, fraud, or malice under Civil Code
+        &sect; 3294(a).
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -692,8 +715,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, section 425.13 applies <strong>only to health care providers</strong>. It does
-        not apply to insurance bad faith cases. This is a distinction that insurance company
-        defense counsel sometimes attempt to blur, and it is important to understand clearly.
+        not apply to insurance bad faith cases. The distinction is important: in a bad faith
+        action, no &sect; 425.13 motion-to-amend procedure stands between the plaintiff and an
+        original-complaint punitive damages claim.
       </p>
 
       <CalloutBox variant="important" title="CCP Section 425.13 Does Not Apply to Insurance Bad Faith">
@@ -715,14 +739,21 @@ export default function Content() {
         managing agent&rsquo;s identity and conduct from the beginning of the case.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        One important procedural note: under Code of Civil Procedure section 3295, the defendant
-        in a punitive damages case may move to bifurcate the trial so that the jury first
-        determines liability and compensatory damages, and only then (if liability is found)
-        considers the punitive damages question. This bifurcation also limits discovery into the
-        defendant&rsquo;s financial condition until after the liability finding. California&rsquo;s
-        civil jury instructions (CACI Nos. 3943 through 3949) provide the framework for how
-        punitive damages issues &mdash; including managing agent status &mdash; are presented
-        to the jury.
+        One important procedural note: under <strong>Civil Code &sect; 3295</strong>, the
+        defendant in a punitive damages case may move to bifurcate the trial so that the jury
+        first determines liability and compensatory damages, and only then (if liability is
+        found) considers the punitive damages question. Section 3295(d) provides:
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        The court shall, on application of any defendant, preclude the admission of evidence of
+        that defendant&rsquo;s profits or financial condition until after the trier of fact
+        returns a verdict for the plaintiff awarding actual damages and finds that a defendant
+        is guilty of malice, oppression, or fraud in accordance with Section 3294&hellip;
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California&rsquo;s civil jury instructions (CACI Nos. 3943 through 3949) provide the
+        framework for how punitive damages issues &mdash; including managing agent status
+        &mdash; are presented to the jury.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -752,12 +783,13 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>White</em> refined the <em>Egan</em> standard and established the modern two-part
-        test. The employee in question, Salla, managed numerous convenience stores on a daily
-        basis and made significant decisions affecting both store and company policy. Despite
-        the court&rsquo;s clarification that supervision alone is insufficient, it found that
-        Salla qualified as a managing agent because she &ldquo;exercised substantial
-        discretionary authority over decisions that ultimately determined corporate policy in
-        a most crucial aspect of Ultramar&rsquo;s business.&rdquo;
+        test. The employee in question &mdash; Ultramar regional manager Salla &mdash; managed
+        eight convenience stores and had broad discretionary powers to hire and fire employees
+        and to determine the manner in which the stores were run. Despite the court&rsquo;s
+        clarification that supervision alone is insufficient, it found that Salla qualified as
+        a managing agent because she &ldquo;exercised substantial discretionary authority over
+        decisions that ultimately determined corporate policy in a most crucial aspect of
+        Ultramar&rsquo;s business.&rdquo;
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -893,18 +925,49 @@ export default function Content() {
         Without punitive damages, a first-party bad faith case is essentially a contract dispute
         with tort damages: the unpaid policy benefits, consequential damages, emotional distress,
         and attorney fees. These damages, while significant, are bounded. With punitive damages
-        on the table, the insurer faces theoretically unlimited exposure. Punitive damages are
-        not capped in California insurance bad faith cases, and ratios of punitive to compensatory
-        damages of 4:1, 9:1, or even higher have been sustained by California courts in
-        appropriate cases.
+        on the table, the insurer faces substantially expanded exposure &mdash; subject to the
+        federal constitutional limits discussed below.
       </p>
+
+      <CalloutBox variant="legal" title="Constitutional Limits on Punitive Damages">
+        <p>
+          California has no statutory cap on punitive damages in insurance bad faith cases. But
+          federal due process imposes a meaningful ceiling. In{' '}
+          <em>State Farm Mut. Auto. Ins. Co. v. Campbell</em> (2003) 538 U.S. 408, 425, the
+          United States Supreme Court held:
+        </p>
+        <p className="italic mt-2">
+          &ldquo;[F]ew awards exceeding a single-digit ratio between punitive and compensatory
+          damages, to a significant degree, will satisfy due process. Single-digit multipliers
+          are more likely to comport with due process, while still achieving the State&rsquo;s
+          goals of deterrence and retribution, than awards with ratios in range of 500 to 1, or,
+          in this case, of 145 to 1.&rdquo;
+        </p>
+        <p className="mt-2">
+          The California Supreme Court applied this principle in{' '}
+          <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th 1159, 1182, holding
+          that &ldquo;ratios between the punitive damages award and the plaintiff&rsquo;s actual
+          or potential compensatory damages significantly greater than 9 or 10 to 1 are suspect
+          and, absent special justification, cannot survive appellate scrutiny under the due
+          process clause.&rdquo;
+        </p>
+        <p className="mt-2">
+          In practice, this means punitive-to-compensatory ratios in California insurance bad
+          faith cases tend to land in the low single digits, particularly where compensatory
+          damages are themselves substantial. The leverage from a viable punitive damages claim
+          is real, but the &ldquo;unlimited exposure&rdquo; framing should be tempered by the
+          constitutional ceiling.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
-        This dynamic creates measurable settlement leverage. An insurer evaluating its litigation
-        exposure must consider not just the likely compensatory damages verdict but also the risk
-        of a punitive damages award that could dwarf the compensatory damages. As the California
-        Supreme Court has recognized, without the possibility of tort damages, an insurance
-        company could arbitrarily deny a claim, gambling that if it guessed wrong, it would be
-        no worse off than if it had honored the claim in the first place.
+        Even with the constitutional limit, a credible punitive damages claim materially changes
+        the economic calculus of the case. An insurer evaluating its litigation exposure must
+        consider not just the likely compensatory damages verdict but also the risk of a
+        substantial punitive damages award stacked on top. As the California Supreme Court has
+        recognized, without the possibility of tort damages, an insurance company could
+        arbitrarily deny a claim, gambling that if it guessed wrong, it would be no worse off
+        than if it had honored the claim in the first place.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -1025,60 +1088,66 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Practical Checklist: Steps to Establish Managing Agent Liability
+        How Plaintiffs&rsquo; Counsel Typically Build a Managing-Agent Case
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For attorneys and policyholders considering a bad faith action with punitive damages,
-        the following checklist summarizes the essential steps:
+        Litigating a managing-agent theory is attorney work. The roadmap below describes what
+        experienced plaintiffs&rsquo; counsel typically do in a bad faith case where punitive
+        damages are at issue. None of these steps are tasks a public adjuster or pro-se insured
+        should attempt &mdash; pleading, written discovery, depositions, and motion practice are
+        all functions of licensed counsel. The list is presented to help an insured understand
+        what the litigation process looks like when an attorney evaluates and pursues a bad
+        faith claim.
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>Plead punitive damages in the original complaint.</strong> No prior court
-          approval is required in insurance bad faith cases (section 425.13 does not apply).
+          <strong>Pleading.</strong> In a standard insurance bad faith case, counsel typically
+          plead punitive damages in the original complaint &mdash; section 425.13 does not apply,
+          so no prior court approval is required.
         </li>
         <li>
-          <strong>Serve early discovery targeting the corporate hierarchy.</strong> Interrogatories
-          seeking organizational charts, settlement authority limits, and the identity of every
-          person who participated in the claims decision.
+          <strong>Early written discovery.</strong> Counsel typically serve interrogatories and
+          document demands directed at the corporate hierarchy, settlement-authority limits, and
+          the identity of every person who participated in the claims decision.
         </li>
         <li>
-          <strong>Demand the complete claim file,</strong> including all claims diary entries,
-          internal memos, reserve worksheets, and communications between the adjuster and
-          management.
+          <strong>The claim file.</strong> A complete claim file production &mdash; including
+          claims diary entries, internal memos, reserve worksheets, and adjuster-management
+          communications &mdash; is generally requested early.
         </li>
         <li>
-          <strong>Demand the claims-handling manual and training materials.</strong> These
-          documents reveal the insurer&rsquo;s written policies and the standards adjusters are
-          expected to follow.
+          <strong>Manuals and training materials.</strong> The insurer&rsquo;s claims-handling
+          manual, training materials, and best-practices guidelines are typically requested to
+          reveal the standards adjusters are expected to follow.
         </li>
         <li>
-          <strong>Notice a PMQ deposition</strong> on topics relating to the claims hierarchy,
-          settlement authority, and the identity of decision-makers on the plaintiff&rsquo;s
-          claim.
+          <strong>PMQ deposition.</strong> A &sect; 2025.230 deposition of the insurer&rsquo;s
+          person most qualified on topics relating to the claims hierarchy, settlement authority,
+          and decision-maker identity is one of the standard tools for identifying the managing
+          agent.
         </li>
         <li>
-          <strong>Depose the individual decision-makers</strong> identified through written
-          discovery and the PMQ deposition. Focus on their discretionary authority, what they
-          knew, what they reviewed, and what they approved.
+          <strong>Individual depositions.</strong> Once decision-makers are identified, counsel
+          typically depose them on their discretionary authority, what they knew, what they
+          reviewed, and what they approved.
         </li>
         <li>
-          <strong>Analyze claims notes for supervisory involvement.</strong> Look for entries
-          showing when managers reviewed the file, set direction, approved reserves, or
-          authorized coverage determinations.
+          <strong>Claims-notes analysis.</strong> Claims notes are mined for entries showing
+          when managers reviewed the file, set direction, approved reserves, or authorized
+          coverage determinations.
         </li>
         <li>
-          <strong>Preserve ratification evidence.</strong> If the managing agent defends the
-          claims handling at deposition, note this as potential ratification evidence.
+          <strong>Ratification preservation.</strong> When a managing agent defends the claims
+          handling at deposition, that testimony is preserved as potential ratification evidence.
         </li>
         <li>
-          <strong>Prepare for the summary adjudication motion.</strong> The insurer will almost
-          certainly move to dismiss the punitive damages claim. Compile deposition testimony
-          and documents establishing managing agent status and involvement.
+          <strong>Summary adjudication response.</strong> Insurers almost always move to dismiss
+          the punitive damages claim before trial; counsel prepares deposition testimony and
+          documents establishing managing-agent status and involvement to oppose the motion.
         </li>
         <li>
-          <strong>Present the managing agent theory at mediation.</strong> A credible punitive
-          damages case, supported by specific evidence of managing agent conduct, significantly
-          enhances settlement leverage.
+          <strong>Mediation presentation.</strong> A well-documented managing-agent case,
+          supported by specific evidence, typically enhances settlement leverage at mediation.
         </li>
       </ol>
 

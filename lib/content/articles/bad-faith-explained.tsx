@@ -66,9 +66,13 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Unreasonable delay:</strong> Failing to acknowledge claims within 15 days, failing
-          to accept or deny within 40 days, dragging out the process for months or years without
-          legitimate reason
+          <strong>Unreasonable delay:</strong> Missing the regulatory timelines under California&apos;s
+          Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.5 and 2695.7)
+          &mdash; failing to acknowledge a claim within 15 days, failing to accept or deny within
+          40 days after proof of loss, dragging out the process for months or years without
+          legitimate reason. Per <em>Moradi-Shalal</em>, regulatory violations are not
+          independently actionable but are admissible as evidence that the insurer acted
+          unreasonably.
         </li>
         <li>
           <strong>Lowballing without basis:</strong> Offering substantially less than the claim is
@@ -109,9 +113,14 @@ export default function Content() {
           that breach gives rise to tort damages, not just contract damages.
         </li>
         <li>
-          <strong><em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809:</strong> Confirmed
-          that punitive damages are available for bad faith and that insurers occupy a quasi-fiduciary
-          position relative to their insureds.
+          <strong><em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809:</strong>{' '}
+          Recognized the insurer-insured relationship as &ldquo;special&rdquo; and the insurance
+          contract as &ldquo;adhesive&rdquo; with the insurer in a superior bargaining position
+          &mdash; making the implied covenant of good faith and fair dealing especially important.
+          Established the duty to thoroughly investigate as part of the implied covenant. (Note:
+          the jury&apos;s $5 million punitive damages award in <em>Egan</em> was later reversed
+          as excessive; the surviving precedential value is in the legal holdings on bad-faith
+          liability and the investigation duty, not the dollar figure.)
         </li>
         <li>
           <strong><em>Moradi-Shalal v. Fireman&apos;s Fund Ins. Cos.</em> (1988) 46 Cal.3d 287:</strong>{' '}
@@ -129,9 +138,10 @@ export default function Content() {
         What Damages Are Available
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Bad faith is a tort — an actionable wrong — not just a breach of contract. This distinction
-        matters because tort damages are broader than contract damages. In a bad faith case, you can
-        recover:
+        Bad faith is a tort &mdash; an actionable wrong &mdash; not just a breach of contract.
+        This distinction matters because tort damages are broader than contract damages. The
+        categories of damages that California cases have recognized in successful bad-faith
+        actions include:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -146,9 +156,17 @@ export default function Content() {
           suffering caused by the insurer&apos;s bad faith conduct
         </li>
         <li>
-          <strong>Punitive damages:</strong> Available when the insurer&apos;s conduct is malicious,
-          oppressive, or fraudulent (Civil Code Section 3294). These can be a multiple of actual
-          damages and are meant to punish particularly egregious conduct.
+          <strong>Punitive damages:</strong> Available when the insurer&apos;s conduct is
+          malicious, oppressive, or fraudulent &mdash; proven by clear and convincing evidence
+          (Civil Code &sect; 3294). Punitive damages must be proportional to the harm caused.
+          The U.S. Supreme Court in <em>State Farm v. Campbell</em> (2003) 538 U.S. 408 held
+          that &ldquo;few awards exceeding a single-digit ratio between punitive and compensatory
+          damages... will satisfy due process.&rdquo; The California Supreme Court applied this in{' '}
+          <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th 1159 and{' '}
+          <em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686, where it held that a 1:1 ratio
+          may be the constitutional maximum when compensatory damages are substantial. In
+          practice, sustainable punitive ratios in California bad-faith cases tend to land in the
+          low single digits.
         </li>
         <li>
           <strong>Brandt fees:</strong> Attorney fees incurred to recover the policy benefits that
@@ -157,12 +175,16 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="important" title="Brandt Fees Are Separate From Litigation Costs">
+      <CalloutBox variant="important" title="Brandt Fees: Limited to Fees Tied to Recovering Policy Benefits">
         <p>
-          Brandt fees are the attorney fees you incurred to obtain the insurance benefits you were
-          owed. They are recoverable as damages in a bad faith case. This means the insurer pays not
-          just your claim but also what it cost you to force them to pay your claim. This is a
-          significant incentive for attorneys to take bad faith cases.
+          Brandt fees are the attorney fees incurred to obtain the policy benefits that the
+          insurer wrongfully withheld &mdash; specifically the fees attributable to recovering
+          the contractual benefits. The doctrine does <em>not</em> automatically cover all
+          litigation fees in the bad-faith action (for example, fees spent prosecuting the tort
+          claim itself or pursuing punitive damages). Courts apportion the recoverable Brandt
+          fees from the total litigation work. Even so, the rule is a significant incentive:
+          plaintiffs&apos; counsel can recover at least a portion of their fees if the carrier
+          forced the insured to sue to obtain benefits that should have been paid.
         </p>
       </CalloutBox>
 
@@ -214,17 +236,25 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-6">
-        Bad faith is a serious legal claim with serious consequences for the insurer. It exists
-        because the legislature and the courts recognized that insurance companies have enormous
-        power over their policyholders — and that power must have checks. When your insurer acts
-        unreasonably, the law gives you teeth. Use them.
+        Bad faith is a serious legal claim with serious consequences for an insurer. It exists
+        because the California courts and the legislature recognized that insurance companies
+        have substantial power over their policyholders &mdash; and that power must have checks.
+        When the carrier&apos;s conduct crosses from unreasonable into the kind of pattern
+        California law recognizes as bad faith, the remedy can include damages beyond the policy
+        benefits. Whether and how those remedies apply to a specific claim is a question for a
+        licensed attorney.
       </p>
 
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
-        This article is for informational purposes only and does not constitute legal advice. Insurance
-        policies and applicable law vary by state and by policy form. Consult with a licensed
-        professional regarding your specific situation.
+        This article is for informational purposes only and does not constitute legal advice.
+        California Insurance Code &sect; 15002 expressly provides that the Public Adjuster Act
+        does not authorize the practice of law &mdash; whether the facts of a specific claim
+        support a bad-faith action, and what damages may be recoverable, is a question for a
+        licensed California attorney. The public adjuster&apos;s role is to document the
+        carrier&apos;s conduct and assist with claims handling; the attorney&apos;s role is the
+        legal claim. Insurance policies and applicable law vary by state and by policy form;
+        consult with a licensed professional regarding your specific situation.
       </p>
     </>
   )

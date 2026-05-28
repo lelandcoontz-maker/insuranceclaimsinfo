@@ -94,10 +94,16 @@ export default function Content() {
         9 Cal.3d 566. The policyholder owned a cocktail lounge destroyed by fire. His
         insurers refused to pay, conspired with each other to deny coverage, and cooperated
         with criminal arson charges that were ultimately dismissed. The California Supreme
-        Court held that because the insurance relationship involves &ldquo;elements of
-        adhesion and of fiduciary responsibility,&rdquo; an insurer&rsquo;s bad faith breach
-        could support damages for emotional distress &mdash; even without a separate showing
-        of physical injury or outrageous conduct.
+        Court held that the implied covenant of good faith and fair dealing &mdash; given
+        the special relationship between insurer and insured and the bargaining-power
+        imbalance inherent in an adhesive insurance contract &mdash; gives rise to a tort
+        cause of action when breached. The court was careful to ground the rule in
+        contract-law principles applied to the unique insurance relationship; it did not
+        characterize the relationship as fiduciary. (Cf. <em>Vu v. Prudential Property &amp;
+        Casualty Ins. Co.</em> (2001) 26 Cal.4th 1142, expressly holding the relationship
+        is contractual, not fiduciary.) Because of the tort framing, <em>Gruenberg</em>
+        allowed recovery of damages for emotional distress &mdash; even without a separate
+        showing of physical injury or outrageous conduct.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Gruenberg</em> was groundbreaking because it eliminated the traditional barriers
@@ -114,13 +120,18 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809 confirmed that
-        emotional distress damages are a standard element of bad faith tort recovery. The
-        court upheld a substantial award where the insurer had unreasonably withheld
-        disability benefits, emphasizing that the insured&rsquo;s vulnerability at the time
-        of the bad faith conduct made emotional distress a particularly foreseeable
-        consequence. <em>Egan</em> also rejected the argument that emotional distress awards
-        are speculative, holding that juries are well equipped to assess the credibility and
-        severity of such claims.
+        emotional distress damages are a recognized element of bad faith tort recovery in
+        California. The California Supreme Court affirmed the compensatory damages award
+        against Mutual of Omaha &mdash; including the $45,600 contract damages, the
+        $78,000 in general damages, and the inclusion of emotional-distress damages as
+        part of the bad-faith tort recovery. (The $5 million punitive damages portion of
+        the verdict was reversed as excessive, but the underlying holdings on bad-faith
+        liability and emotional-distress damages survive as binding precedent.){' '}
+        <em>Egan</em> emphasized that the insured&rsquo;s vulnerability at the time of
+        the bad faith conduct made emotional distress a particularly foreseeable
+        consequence. The decision also rejected the argument that emotional distress
+        awards are speculative, holding that juries are well equipped to assess the
+        credibility and severity of such claims.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -182,14 +193,28 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the most common pathway, established by <em>Gruenberg</em>. When a
         policyholder proves that the insurer breached the implied covenant, emotional
-        distress is a standard element of recoverable{' '}
+        distress is a recognized element of recoverable{' '}
         <Link href="/resources/bad-faith-damages" className="text-[#2E74B5] hover:underline">
           bad faith damages
         </Link>
-        . The policyholder must show that (1) the insurer acted in bad faith, (2) the
-        policyholder suffered emotional distress, and (3) the bad faith was a substantial
-        factor in causing the distress. There is no requirement to prove outrageous conduct,
-        physical manifestations, or medical treatment.
+        . The policyholder generally must show that (1) the insurer acted in bad faith;
+        (2) the policyholder suffered emotional distress; (3) the bad faith was a
+        substantial factor in causing the distress; AND (4) some actual economic loss
+        attributable to the insurer&apos;s conduct &mdash; per the line of California
+        Court of Appeal cases beginning with{' '}
+        <em>Waters v. United Services Auto. Assn.</em> (1996) 41 Cal.App.4th 1063,
+        which held that emotional distress &ldquo;cannot stand alone&rdquo; and must
+        be predicated on some economic loss attributable to the insurer&rsquo;s conduct.
+        Outrageous conduct, physical manifestations, or medical treatment are not
+        separately required for the bad-faith-tort pathway (those elements belong to
+        IIED), but the economic-loss predicate from <em>Waters</em> is. The threshold
+        is generally easy to meet: <em>Delos v. Farmers Group, Inc.</em> (1979) 93
+        Cal.App.3d 642 held that attorney fees incurred to recover wrongfully withheld
+        policy benefits (later formalized as Brandt fees) themselves constitute
+        sufficient economic loss. And once the economic-loss threshold is met,{' '}
+        <em>Clayton v. United Services Auto. Assn.</em> (1997) 54 Cal.App.4th 1158
+        held that the policyholder may recover for all emotional distress proximately
+        caused by the bad-faith conduct.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -211,11 +236,11 @@ export default function Content() {
         3. Negligent Infliction of Emotional Distress (NIED)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        NIED is less commonly pled in insurance bad faith cases because the bad faith tort
-        itself typically encompasses negligent conduct that causes emotional harm. It may be
-        relevant where the policyholder cannot establish deliberate unreasonableness but can
-        show negligent claims handling caused serious distress. For most cases, the bad faith
-        tort and IIED where applicable are the stronger theories.
+        NIED is rarely pled in insurance bad faith cases. The bad-faith tort generally
+        requires unreasonable conduct, not mere negligence &mdash; so NIED&apos;s utility
+        is limited. For most cases, the bad-faith tort itself (with its economic-loss-
+        predicated emotional-distress recovery under <em>Waters/Delos/Clayton</em>) and
+        IIED where applicable are the stronger theories.
       </p>
 
       <CalloutBox variant="tip" title="Pleading Multiple Theories">
@@ -348,12 +373,18 @@ export default function Content() {
         lacking the stamina to fight a prolonged claims battle.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Elder Abuse Act enhances the analysis in several ways: it allows recovery of
-        attorney&rsquo;s fees, provides for enhanced damages beyond ordinary bad faith
-        theories, and permits survival actions so the estate can pursue damages if the elder
-        policyholder dies during litigation. The only requirement is age &mdash; there is no
-        need to show frailty, cognitive impairment, or dependency. A sharp 67-year-old
-        qualifies just as much as a 90-year-old in assisted living.
+        Where the Elder Abuse Act applies, it provides enhanced remedies under Welfare &amp;
+        Institutions Code &sect; 15657 &mdash; including recovery of attorney&rsquo;s fees,
+        enhanced damages where conduct is proven by clear and convincing evidence to
+        constitute recklessness, oppression, fraud, or malice, and survival actions so the
+        estate can pursue damages if the elder policyholder dies during litigation.{' '}
+        <strong>Age alone, however, is not enough.</strong> The conduct must also fall
+        within one of the statutory categories &mdash; most commonly financial abuse under
+        W&amp;I Code &sect; 15610.30, which generally requires &ldquo;wrongful use&rdquo; of
+        the elder&apos;s property or intent to defraud. For insurance bad-faith conduct
+        directed at an elder, the financial-abuse path is usually the basis for Elder Abuse
+        Act remedies. Whether a particular insurer&apos;s conduct rises to financial abuse
+        is a fact-specific question for an attorney.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -364,18 +395,28 @@ export default function Content() {
         <Link href="/resources/punitive-damages-bad-faith" className="text-[#2E74B5] hover:underline">
           punitive damages
         </Link>{' '}
-        serve different purposes but reinforce each other at trial. Evidence of severe
-        emotional distress makes punitive damages more likely by showing the real human cost
-        of the insurer&rsquo;s conduct. Conversely, evidence that the insurer acted with
-        malice, oppression, or fraud (the standard under California Civil Code Section 3294)
-        makes the emotional distress claim more credible.
+        serve different purposes but often appear together at trial. Punitive damages
+        require clear and convincing proof of the defendant&apos;s malice, oppression, or
+        fraud under Civil Code &sect; 3294 &mdash; not simply the plaintiff&apos;s emotional
+        distress. But the same conduct pattern that supports a finding of unreasonable
+        bad-faith handling (and thus emotional-distress damages) often also supports the
+        higher §3294 standard for punitive damages: a thorough record of the
+        insurer&apos;s deliberate or reckless handling makes both kinds of damages more
+        accessible to the jury.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The size of the compensatory damages award (including emotional distress) also
-        affects the permissible range of punitive damages. The U.S. Supreme Court has held
-        that punitive damages generally should bear a reasonable relationship to compensatory
-        damages, with single-digit multipliers being the norm. A larger emotional distress
-        award therefore supports a larger punitive damages award.
+        affects the constitutional ceiling on punitive damages. In{' '}
+        <em>State Farm Mut. Auto. Ins. Co. v. Campbell</em> (2003) 538 U.S. 408, 425, the
+        U.S. Supreme Court held that &ldquo;few awards exceeding a single-digit ratio
+        between punitive and compensatory damages... will satisfy due process.&rdquo; The
+        California Supreme Court applied this in <em>Simon v. San Paolo U.S. Holding Co.</em>
+        (2005) 35 Cal.4th 1159, 1182, and in <em>Roby v. McKesson Corp.</em> (2009) 47
+        Cal.4th 686, 719, where it held that a 1:1 ratio may be the constitutional maximum
+        when compensatory damages are substantial. A larger emotional distress award does
+        not necessarily support a proportionally larger punitive award; in some cases,
+        substantial compensatories actually compress the constitutionally available punitive
+        ratio toward 1:1.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -420,9 +461,14 @@ export default function Content() {
         <Link href="/resources/genuine-dispute-doctrine" className="text-[#2E74B5] hover:underline">
           genuine dispute doctrine
         </Link>{' '}
-        is a defense to bad faith, not to the emotional distress element specifically. If the
-        jury finds bad faith, the emotional distress flowing from it is compensable regardless
-        of the insurer&rsquo;s claim that the dispute was &ldquo;genuine.&rdquo;
+        is a defense to bad faith itself. If genuine-dispute defeats the bad faith claim,
+        emotional distress recovered as part of the bad-faith tort goes down with it &mdash;
+        the emotional-distress damages are not independent. The doctrine&apos;s practical
+        force depends on whether the insurer maintained the disputed position in good faith
+        and on reasonable grounds, including a thorough investigation (<em>Wilson v. 21st
+        Century Ins. Co.</em> (2007) 42 Cal.4th 713). An insurer cannot defeat the
+        emotional-distress recovery by claiming &ldquo;genuine dispute&rdquo; while the
+        record shows the investigation was inadequate or the position was unreasonable.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -490,13 +536,16 @@ export default function Content() {
         </Link>
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Emotional distress claims require litigation &mdash; insurers do not voluntarily
-        write checks for emotional harm. In California, attorney&rsquo;s fees incurred in
-        pursuing bad faith claims are recoverable under <em>Brandt v. Superior Court</em>{' '}
-        (1985) 37 Cal.3d 813. While <em>Brandt</em> fees technically apply to the contract
-        component, the litigation typically encompasses both contract and tort claims, and
-        the fee recovery helps offset the overall cost. Where the Elder Abuse Act applies,
-        attorney&rsquo;s fees are recoverable under that statute as well.
+        Emotional distress claims typically require litigation &mdash; insurers do not
+        voluntarily write checks for emotional harm. In California, <em>Brandt v. Superior
+        Court</em> (1985) 37 Cal.3d 813 allows the insured to recover attorney fees
+        attributable to recovering policy benefits wrongfully withheld. The doctrine is
+        limited: Brandt fees do NOT automatically cover all litigation fees in the
+        bad-faith action. Courts apportion the recoverable Brandt fees from the broader
+        litigation work (which would include fees prosecuting the tort claim itself or
+        pursuing punitive damages). Where the Elder Abuse Act applies, attorney&rsquo;s
+        fees may be recoverable under W&amp;I Code &sect; 15657 as well, with different
+        statutory standards and scope.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -516,16 +565,16 @@ export default function Content() {
         into a case that commands the insurer&rsquo;s serious attention.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>For attorneys:</strong> Screen for emotional distress at intake &mdash; many
-        clients will not volunteer this information. Instruct clients to begin documentation
-        immediately. Always evaluate the client&rsquo;s age for potential Elder Abuse Act
-        claims. Plead all available theories: emotional distress as an element of the bad
-        faith tort, IIED where the conduct supports it, and elder abuse for qualifying
-        clients. Use the insurer&rsquo;s own claims file against it &mdash; adjuster notes,
-        recorded statements, and internal communications often contain the best evidence of
-        both causation and the insurer&rsquo;s awareness of the harm it was inflicting.
-        Connect emotional distress to the punitive damages case so each theory reinforces
-        the other.
+        <strong>For practitioners:</strong> California plaintiff-side counsel handling
+        bad-faith cases typically screen for emotional distress at intake (clients often
+        do not volunteer this information), evaluate the client&apos;s age for potential
+        Elder Abuse Act claims, and consider which combination of theories (bad-faith-tort
+        emotional distress with the <em>Waters</em> economic-loss predicate, IIED where
+        the conduct supports it, elder abuse for qualifying clients) the facts will
+        support. Adjuster notes, recorded statements, and internal communications in the
+        carrier&apos;s claim file often contain the relevant evidence on causation and
+        the insurer&apos;s awareness of the harm being inflicted. Decisions about pleading
+        theories and litigation strategy belong to the policyholder&apos;s attorney.
       </p>
 
       <CalloutBox variant="tip" title="The Bottom Line">
@@ -546,13 +595,15 @@ export default function Content() {
       <CalloutBox variant="legal" title="Disclaimer">
         <p>
           This article provides general educational information about emotional distress
-          damages in insurance bad faith claims and is not legal advice. The availability
-          and scope of emotional distress damages vary by state, by the specific facts of
-          each case, and by the insurer&rsquo;s conduct. The California case law discussed
-          above is presented for educational context and should not be cited in
-          correspondence with insurance carriers, as doing so may constitute the
-          unauthorized practice of law. Consult with a licensed attorney before pursuing
-          any legal action against your insurer.
+          damages in California insurance bad faith claims and is not legal advice. The
+          availability and scope of emotional distress damages vary by the specific facts
+          of each case, by the insurer&apos;s conduct, and by applicable case law
+          interpretations. A public adjuster&apos;s role is to document the carrier&apos;s
+          conduct and handle the claim; the development of legal arguments, the selection of
+          legal theories, and the conduct of litigation are the work of a
+          California-licensed attorney (see Insurance Code &sect; 15002). If you believe
+          your insurer has acted in bad faith, consult a California-licensed attorney before
+          pursuing legal action.
         </p>
         <p className="mt-2">
           <strong>Author:</strong> Leland Coontz III, Licensed Public Adjuster, CA License #2B53445
@@ -564,11 +615,11 @@ export default function Content() {
           Is Your Insurer&rsquo;s Bad Faith Causing You Emotional Harm?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          You do not have to suffer in silence. A Public Adjuster can fight the claims
-          battle on your behalf, reducing the emotional burden while maximizing your
-          recovery. If the insurer&rsquo;s conduct has crossed the line into bad faith,
-          we can help you connect with attorneys who specialize in holding carriers
-          accountable.
+          A licensed public adjuster can manage the claims handling, document the
+          carrier&apos;s conduct, and reduce the day-to-day emotional burden of a
+          contested claim. If the facts suggest the insurer&apos;s conduct may rise to
+          bad faith, we can help connect policyholders with attorneys who handle
+          carrier-accountability cases.
         </p>
         <Link
           href="/contact"

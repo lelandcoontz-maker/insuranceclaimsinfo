@@ -16,10 +16,27 @@ export default function Content() {
         There was a time in America when an insurance company could deny your claim, drag out its investigation for months or years, lowball your payment, and face no meaningful consequence for any of it. If you were lucky enough to have a lawyer and the resources to fight, the most you could hope to recover was the policy benefit you were owed in the first place &mdash; the money the insurer should have paid you from the beginning. There was no penalty for the delay. No accountability for the suffering the insurer caused while you waited. No mechanism to punish the company for treating your family&rsquo;s financial ruin as an acceptable cost of doing business.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That world ended in California. And it ended largely because of one lawyer, one Irish roofer, and a case that the insurance industry has never forgiven.
+        That world began to end in California, in a sequence of California Supreme Court
+        decisions stretching from 1958 to 1979 &mdash; cases pressed by several plaintiff-side
+        firms, but reaching their most influential expression in the landmark{' '}
+        <em>Egan v. Mutual of Omaha</em> decision litigated by William M. Shernoff.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The tort of bad faith &mdash; the legal principle that an insurance company can be held liable in damages beyond the policy for unreasonably denying, delaying, or mishandling a claim &mdash; did not exist in any meaningful form until a small firm in Claremont, California, forced it into existence. The firm was Shernoff Bidart Echeverria LLP. The lawyer was William M. Shernoff. And the body of law he created has since been adopted in some form in at least twenty-five states, has been cited thousands of times in appellate decisions across the country, and remains the single most powerful legal tool available to policyholders fighting insurance companies that refuse to honor their obligations.
+        The tort of bad faith &mdash; the legal principle that an insurance company can be
+        held liable in damages beyond the policy for unreasonably denying, delaying, or
+        mishandling a claim &mdash; was built by the California Supreme Court case by case
+        over two decades. Each case added a piece: <em>Comunale</em> (1958) established the
+        implied covenant of good faith and fair dealing; <em>Crisci</em> (1967) added
+        emotional-distress damages; <em>Gruenberg</em> (1973) extended the tort framework to
+        first-party claims; <em>Neal</em> (1978) established the punitive-damages framework;
+        and <em>Egan</em> (1979) cemented the duty to investigate and addressed the
+        managing-agent question. William M. Shernoff and his firm Shernoff Bidart Echeverria
+        LLP became influential bad-faith litigators by pressing these doctrines aggressively
+        and successfully &mdash; <em>Egan</em> became one of the most-cited bad-faith
+        decisions in American legal history. The doctrine itself was the work of the
+        California Supreme Court and the lawyers, plaintiff-side and defense-side, who shaped
+        the appellate record. The body of law has since been adopted in some form in at
+        least twenty-five states.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This article traces the history of that legal revolution &mdash; from the first tentative recognition that insurers owe their policyholders something more than a check, through the landmark decisions that transformed bad faith from a theory into a weapon, to the modern reality of how bad faith claims actually play out in litigation. It is a story of genuine legal innovation. It is also a story with a cautionary ending, because the existence of bad faith law and the ability to win a bad faith case are two very different things.
@@ -135,26 +152,79 @@ export default function Content() {
         Shernoff was born in Chicago in 1937 and grew up in Crivitz, Wisconsin, a small town of roughly five hundred people about fifty miles north of Green Bay. His father was the town lawyer. His grandparents were Russian Jewish immigrants who ran pawnshops. He earned his law degree from the University of Wisconsin in 1962, served as a military defense lawyer in the U.S. Army, and then moved to California to practice personal injury law. In 1975, he founded his own firm, which became Shernoff Bidart Echeverria LLP &mdash; a firm that celebrated its fiftieth anniversary in 2025 and that has been called the birthplace of insurance bad faith law.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The case that made Shernoff&rsquo;s reputation &mdash; and that he later described as the moment bad faith law truly came alive &mdash; was <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809.
+        The case that made Shernoff&rsquo;s reputation &mdash; and the most-cited bad-faith
+        decision in California history &mdash; was{' '}
+        <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Michael Egan was an Irish immigrant working as a roofer in Pomona. He fell twelve feet from a ladder and severely injured his back. He held a disability policy with Mutual of Omaha that promised $200 per month in lifetime benefits for total disability caused by an accident. Mutual of Omaha reclassified his injury as &ldquo;sickness&rdquo; rather than &ldquo;accident&rdquo; &mdash; a distinction that reduced his coverage from lifetime benefits to just three months.
+        Michael Egan had received disability benefits from Mutual of Omaha for three prior
+        back-related injuries arising out of his employment. When he submitted a fourth claim
+        in May 1970 for a back injury suffered during the course of his employment, Mutual of
+        Omaha denied coverage &mdash; reclassifying the condition as a non-covered illness
+        rather than a covered accidental injury. The denial was reached without a fair
+        investigation of the supporting medical evidence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        At trial, Shernoff presented testimony from Egan&rsquo;s family describing how adjusters mocked and pressured his client. He obtained the insurer&rsquo;s internal file and proved that the home office had reviewed the claim twenty times &mdash; demolishing the insurer&rsquo;s attempt to characterize the mishandling as mere negligence. The jury saw a pattern of deliberate indifference to a working man&rsquo;s suffering.
+        At trial, Shernoff obtained the insurer&rsquo;s internal claim file and demonstrated
+        the depth of the home office&rsquo;s involvement in the denial &mdash; demolishing
+        any attempt to characterize the mishandling as mere negligence by a rogue adjuster.
+        The jury returned a verdict that included $45,600 in compensatory damages, $78,000 in
+        general damages, and $5 million in punitive damages against Mutual of Omaha.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The verdict was historic: $45,600 in compensatory damages, $78,000 for emotional distress, and <strong>$5.1 million in punitive damages</strong> &mdash; a state record at the time.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In 1979, the California Supreme Court affirmed the verdict and, in doing so, established several principles that remain central to bad faith law:
+        On appeal, the California Supreme Court&rsquo;s disposition was nuanced:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>An insurer can be liable for bad faith based solely on its <strong>failure to adequately investigate</strong> a policyholder&rsquo;s claim. The insurer need not have outright denied the claim &mdash; a biased or shoddy investigation is enough.</li>
-        <li>The court established the &ldquo;managing agent&rdquo; rule for punitive damages, holding that corporate liability for punitive damages does not depend on the official title of the employee who mishandled the claim, but on <strong>the degree of discretion</strong> the employee possessed in making decisions that affected the claim&rsquo;s disposition.</li>
+        <li>
+          <strong>Compensatory damages affirmed.</strong> The Court upheld the bad-faith
+          liability finding and the compensatory and general damages award.
+        </li>
+        <li>
+          <strong>Punitive damages reversed as excessive.</strong> The Court reversed the
+          $5 million punitive damages award as &ldquo;the result of passion and prejudice on
+          the part of the jurors&rdquo; &mdash; the award was more than forty times the
+          compensatory damages and represented over two months of Mutual&rsquo;s entire 1973
+          net income.
+        </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As Shernoff himself put it: &ldquo;There was no bad faith law before the Egan case. You couldn&rsquo;t really fight with insurance companies. You didn&rsquo;t have any tools, so to speak.&rdquo;
+        What survives <em>Egan</em> as binding precedent are the legal holdings, not the
+        $5 million dollar figure:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          An insurer can be liable for bad faith based on its <strong>failure to adequately
+          investigate</strong> a policyholder&rsquo;s claim. The insurer need not have
+          outright denied the claim &mdash; a biased or inadequate investigation can support
+          bad-faith liability where it caused the claim to be wrongly denied, delayed, or
+          underpaid.
+        </li>
+        <li>
+          The court addressed the &ldquo;managing agent&rdquo; question for the insurance
+          context under the pre-1980 Civil Code &sect; 3294. The California Legislature
+          amended &sect; 3294(b) in 1980 to add the express &ldquo;officer, director, or
+          managing agent&rdquo; requirement, and the California Supreme Court in{' '}
+          <em>White v. Ultramar, Inc.</em> (1999) 21 Cal.4th 563 substantially narrowed the
+          test &mdash; requiring the employee to &ldquo;exercise substantial independent
+          authority and judgment in their corporate decisionmaking so that their decisions
+          ultimately determine corporate policy.&rdquo; Today&rsquo;s managing-agent
+          analysis is the <em>White</em> test, not the broader <em>Egan</em> formulation.
+          See our companion article on{' '}
+          <Link href="/resources/managing-agent-punitive-damages" className="text-blue-700 underline hover:text-blue-900">
+            managing agent liability and punitive damages
+          </Link>{' '}
+          for the modern framework.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Shernoff later described the impact of <em>Egan</em> in characteristically
+        dramatic terms: &ldquo;There was no bad faith law before the <em>Egan</em> case. You
+        couldn&rsquo;t really fight with insurance companies.&rdquo; The literal claim is
+        an overstatement &mdash; <em>Comunale</em>, <em>Crisci</em>, <em>Gruenberg</em>, and{' '}
+        <em>Neal</em> all preceded <em>Egan</em> and laid its foundation, as the chronology
+        above reflects. But the practical impact Shernoff was describing is real:{' '}
+        <em>Egan</em> consolidated the doctrine, made the punitive exposure unavoidable, and
+        turned bad-faith litigation from an experimental theory into a working tool.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The <em>Egan</em> decision has been cited approximately eight thousand times in appellate arguments across the United States. Shernoff went on to author or co-author four books, including <em>Insurance Bad Faith Litigation</em> (1984, Matthew Bender) &mdash; which became the definitive legal treatise on the subject &mdash; and <em>Payment Refused</em> (1986, Richardson &amp; Steirman), a consumer-oriented book recounting his landmark cases that is now held by the American Museum of Tort Law.
@@ -195,10 +265,27 @@ export default function Content() {
         The Modern Understanding: Delay Alone Can Constitute Bad Faith
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The most significant evolution is the recognition that <strong>unreasonable delay in payment can constitute bad faith even if the insurer ultimately pays everything it owes</strong>. Money has a time value, and people&rsquo;s lives do not pause while they wait for their insurance company. A homeowner who waits eighteen months for a claim payment that should have been issued in sixty days may lose their home to foreclosure, destroy their credit, exhaust their savings, or suffer severe emotional distress. The fact that the insurer eventually writes the correct check does not undo any of that harm.
+        Modern California cases have recognized that{' '}
+        <strong>unreasonable delay in payment can support bad-faith liability even where the
+        insurer ultimately pays everything it owes</strong>, provided the delay was
+        unreasonable and without proper cause &mdash; not a delay attributable to a genuine
+        dispute or a reasonable ongoing investigation. Money has a time value, and people&rsquo;s
+        lives do not pause while they wait for their insurance company. A homeowner who waits
+        eighteen months for a claim payment that should have been issued in sixty days may
+        lose their home to foreclosure, destroy their credit, exhaust their savings, or
+        suffer severe emotional distress. The fact that the insurer eventually writes the
+        correct check does not undo any of that harm; bad-faith liability fills the gap that
+        contract damages alone cannot.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s Fair Claims Settlement Practices Regulations (Title 10, California Code of Regulations, section 2695.7) impose specific timelines: the insurer must accept or deny the claim within forty days of receiving proof of claim, and payment must follow within thirty days of settlement. Their violation is strong evidence that the insurer acted unreasonably.
+        California&rsquo;s Fair Claims Settlement Practices Regulations (Title 10, California
+        Code of Regulations, &sect; 2695.7) impose specific timelines: the insurer must
+        accept or deny the claim within forty days of receiving proof of claim, and payment
+        must follow within thirty days of settlement. Although <em>Moradi-Shalal v. Fireman&apos;s
+        Fund Ins. Co.</em> (1988) 46 Cal.3d 287 bars insureds from suing directly under
+        Insurance Code &sect; 790.03 or the implementing regulations, violations of those
+        timelines remain admissible as evidence that the insurer&rsquo;s conduct was
+        unreasonable in a common-law bad-faith action.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -237,21 +324,81 @@ export default function Content() {
         Punitive Damages
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the insurer&rsquo;s conduct rises to malice, oppression, or fraud &mdash; proven by clear and convincing evidence &mdash; punitive damages are available under Civil Code section 3294. The <em>Neal</em> three-factor test governs the amount. For elderly or disabled insureds, Civil Code section 3345 authorizes <strong>treble punitive damages</strong>. Punitive damages require proof that bad faith was authorized or ratified by an &ldquo;officer, director, or managing agent&rdquo; per Civil Code section 3294(b).
+        When the insurer&rsquo;s conduct rises to malice, oppression, or fraud &mdash; proven
+        by clear and convincing evidence &mdash; punitive damages are available under Civil
+        Code &sect; 3294. The <em>Neal</em> three-factor test governs the amount, subject to
+        the federal due-process constitutional limits discussed below. Punitive damages
+        against a corporate defendant require proof that the bad-faith conduct was authorized
+        or ratified by an &ldquo;officer, director, or managing agent&rdquo; per Civil Code
+        &sect; 3294(b) and <em>White v. Ultramar</em> (1999) 21 Cal.4th 563.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For claims brought on behalf of senior citizens, disabled persons, or veterans
+        alleging unfair or deceptive practices &mdash; including financial elder-abuse claims
+        under Welfare &amp; Institutions Code &sect; 15600 et seq. and Unfair Competition Law
+        claims under Business &amp; Professions Code &sect; 17200 arising from insurance
+        conduct &mdash; Civil Code &sect; 3345 authorizes the trier of fact to enhance certain
+        statutorily authorized fines, penalties, or other punitive/deterrent remedies up to
+        three times the amount otherwise available. Section 3345 is not a general trebling of
+        common-law punitive damages in standard bad-faith cases; it is an enhancement of
+        statutory punitive remedies in the narrow protected-class context.
+      </p>
+
+      <CalloutBox variant="legal" title="Constitutional Limits on Punitive Damages">
+        <p>
+          California has no statutory cap on punitive damages in insurance bad faith cases,
+          but federal due process imposes a meaningful ceiling. In{' '}
+          <em>State Farm Mut. Auto. Ins. Co. v. Campbell</em> (2003) 538 U.S. 408, 425, the
+          U.S. Supreme Court held that &ldquo;few awards exceeding a single-digit ratio
+          between punitive and compensatory damages, to a significant degree, will satisfy
+          due process.&rdquo; The California Supreme Court applied this in{' '}
+          <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th 1159, 1182 (ratios
+          significantly over 9 or 10 to 1 are &ldquo;suspect&rdquo;) and in{' '}
+          <em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686, 719 (where compensatory
+          damages are &ldquo;substantial,&rdquo; a 1:1 ratio may be the constitutional
+          maximum). In practice, sustainable punitive-to-compensatory ratios in California
+          insurance bad-faith cases tend to land in the low single digits.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Extra-Contractual Damages vs. Bad Faith
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Extra-contractual damages</strong> is the broader term &mdash; any damages beyond the policy benefits. Bad faith is the <em>theory of liability</em> that most commonly produces them. But other theories also apply:
+        <strong>Extra-contractual damages</strong> is the broader term &mdash; any damages
+        beyond the policy benefits. Bad faith is the theory of liability that most commonly
+        produces them, but plaintiff-side counsel sometimes evaluate other theories alongside
+        bad faith depending on the facts:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>Fraud and promissory fraud.</strong> Misrepresentations about coverage can constitute actionable fraud. A fraud theory does not require malice or oppression for punitive damages; fraud itself satisfies Civil Code section 3294.</li>
-        <li><strong>Intentional infliction of emotional distress.</strong> Requires &ldquo;extreme and outrageous&rdquo; conduct &mdash; a higher bar than bad faith, but an additional avenue when the insurer&rsquo;s behavior is sufficiently egregious.</li>
-        <li><strong>Unfair business practices under Business and Professions Code section 17200.</strong> Supports pattern-and-practice discovery, allowing the insured to discover how the insurer handles similar claims company-wide.</li>
-        <li><strong>Violations of Insurance Code section 790.03(h).</strong> No longer an independent cause of action after <em>Moradi-Shalal</em>, but admissible as evidence of bad faith.</li>
+        <li>
+          <strong>Fraud and promissory fraud.</strong> Where the insurer&rsquo;s
+          misrepresentation about coverage rises to the level of actionable fraud, counsel
+          may include a fraud claim. Fraud has its own statutory punitive-damages framework
+          under Civil Code &sect; 3294.
+        </li>
+        <li>
+          <strong>Intentional infliction of emotional distress.</strong> Where the
+          insurer&rsquo;s behavior is sufficiently extreme and outrageous, an IIED claim is
+          sometimes available alongside bad faith. The IIED standard is higher than bad
+          faith.
+        </li>
+        <li>
+          <strong>Unfair Competition Law (Business &amp; Professions Code &sect; 17200).</strong>{' '}
+          UCL claims have been used in some insurance contexts where the conduct
+          constitutes an unfair business practice; whether and how broadly they support
+          company-wide discovery is fact- and judge-specific.
+        </li>
+        <li>
+          <strong>Violations of Insurance Code &sect; 790.03(h).</strong> No longer an
+          independent cause of action after <em>Moradi-Shalal</em>, but admissible as
+          evidence of unreasonable conduct in a common-law bad-faith action.
+        </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Which theories to plead, and in what combination, is a question for the
+        policyholder&rsquo;s attorney based on the specific facts of the case.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Realistic Perspective: Why Bad Faith Is Hard to Win
@@ -267,7 +414,13 @@ export default function Content() {
         The insurer&rsquo;s most potent defense is the <strong>genuine dispute doctrine</strong>, from <em>Opsal v. United Services Automobile Ass&rsquo;n</em> (1991) 2 Cal.App.4th 1197, expanded in <em>Chateau Chamberay Homeowners Ass&rsquo;n v. Associated International Insurance Co.</em> (2001) 90 Cal.App.4th 335. If the insurer maintained a genuine, good-faith dispute over coverage or the facts, it cannot be liable for bad faith &mdash; even if it turns out to be wrong.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The defense is particularly powerful because of the &ldquo;expert safe harbor&rdquo;: if the insurer retains an expert who supports its position, courts have been reluctant to second-guess on summary judgment.
+        Plaintiff-bar commentators have labeled one application of the doctrine the
+        &ldquo;expert safe harbor&rdquo; &mdash; arguing that the rule, as it has sometimes
+        been applied, allows insurers to defeat bad-faith liability simply by retaining an
+        expert whose report supports the carrier&rsquo;s position. The label is critical
+        commentary, not a phrase the California courts have adopted. The actual test
+        continues to require that the insurer&rsquo;s reliance on the expert be both
+        reasonable and in good faith.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The <strong>only California Supreme Court decision</strong> directly addressing the doctrine is <em>Wilson v. 21st Century Insurance Co.</em> (2007) 42 Cal.4th 713, which held: &ldquo;The genuine dispute rule does not relieve an insurer from its obligation to thoroughly and fairly investigate, process and evaluate the insured&rsquo;s claim.&rdquo; An insurer cannot focus only on facts supporting denial while ignoring contradictory evidence.
@@ -277,10 +430,30 @@ export default function Content() {
         What This Means for Policyholders
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>The insurer will fight harder on bad faith than on coverage.</strong> Bad faith exposure dwarfs the policy benefits. Insurers deploy their most experienced counsel.</li>
-        <li><strong>Documentation is everything.</strong> The claim file, correspondence, adjuster notes, and timeline determine whether the claim survives summary judgment.</li>
-        <li><strong>The genuine dispute doctrine can be defeated</strong> by showing the insurer ignored contradictory evidence, relied on biased experts, or failed to investigate thoroughly.</li>
-        <li><strong>Timing matters.</strong> A claim filed while the policyholder is still experiencing the consequences carries more weight.</li>
+        <li>
+          <strong>Bad-faith disputes are heavily defended.</strong> Where the carrier&rsquo;s
+          exposure on a bad-faith theory exceeds the policy benefits, insurers typically
+          deploy experienced coverage counsel.
+        </li>
+        <li>
+          <strong>Documentation matters.</strong> The contemporaneous claim file,
+          correspondence, adjuster notes, and timeline are the materials that frame any
+          later legal analysis &mdash; whether the question is settlement leverage or
+          summary-judgment posture.
+        </li>
+        <li>
+          <strong>The genuine dispute doctrine has limits.</strong> California cases have
+          recognized that the doctrine does not protect an insurer whose investigation was
+          inadequate, whose reliance on experts was unreasonable, or whose conduct ignored
+          contradictory evidence &mdash; though the application is fact-specific and
+          ultimately a question for counsel.
+        </li>
+        <li>
+          <strong>The factual record is built during the claim, not after.</strong>{' '}
+          Plaintiff-side counsel routinely note that the strongest bad-faith records are the
+          ones built in real time, with each unreasonable response or missed deadline
+          captured in writing.
+        </li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -298,7 +471,15 @@ export default function Content() {
         Leverage in Negotiations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a policyholder raises the possibility of a bad faith claim &mdash; supported by evidence of unreasonable delay, inadequate investigation, or lowball offers contradicted by the insurer&rsquo;s own evidence &mdash; the carrier&rsquo;s exposure calculation changes. It is no longer weighing the cost of paying the claim against a breach of contract action. It is weighing the cost against a tort action that could produce damages several times the policy benefits.
+        When a policyholder&rsquo;s attorney raises the possibility of a bad-faith claim
+        &mdash; supported by evidence of unreasonable delay, inadequate investigation, or
+        lowball offers contradicted by the insurer&rsquo;s own evidence &mdash; the
+        carrier&rsquo;s exposure calculation changes. The dispute is no longer weighing the
+        cost of paying the claim against a breach-of-contract action; it includes the
+        potential tort exposure subject to the constitutional ceiling discussed above.
+        Raising the legal theory of bad faith is attorney work, but the factual record
+        supporting it is often built during the claims process by the policyholder, the
+        policyholder&rsquo;s public adjuster, and counsel.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -318,7 +499,14 @@ export default function Content() {
         Today, the implied covenant of good faith and fair dealing, the availability of emotional distress damages, the right to Brandt fees, and the possibility of punitive damages are part of the fabric of insurance law in California and across the country. They exist because a handful of lawyers insisted that insurance companies should be accountable for how they treat the people who trust them.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
-        For homeowners and property owners, the lesson is this: your insurance company&rsquo;s obligation to you goes beyond the dollar amount printed on your policy. The insurer owes you a duty to handle your claim fairly, promptly, and in good faith. If it fails that duty, you may have a legal remedy that extends far beyond the policy benefits. But that remedy is only as strong as the evidence you have built and the realistic assessment you have made of the road ahead.
+        For homeowners and property owners, the lesson is this: an insurance company&rsquo;s
+        obligation to its insured goes beyond the dollar amount printed on the policy. The
+        insurer owes a duty to handle claims fairly, promptly, and in good faith. Where that
+        duty is breached, California law may provide remedies in addition to the policy
+        benefits &mdash; though whether and how those remedies apply to a specific claim is a
+        question for a licensed California attorney. The strength of any such remedy depends
+        on the contemporaneous evidence built during the claims process and the realistic
+        assessment of the road ahead.
       </p>
 
       <CalloutBox variant="tip" title="Key Cases Referenced">
@@ -335,7 +523,14 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-6 mt-6 text-sm italic">
-        This article is for informational purposes only and does not constitute legal advice. Policyholders facing disputed insurance claims should consult with a licensed public adjuster or an attorney experienced in insurance coverage law.
+        This article is for informational purposes only and does not constitute legal advice.
+        California Insurance Code &sect; 15002 expressly provides that the Public Adjuster
+        Act does not authorize the practice of law &mdash; pleading, litigation strategy,
+        choice of legal theories, and bad-faith claim filing are attorney work. A public
+        adjuster&rsquo;s role is to adjust the claim and document the carrier&rsquo;s
+        conduct; an attorney&rsquo;s role is the legal claim. Policyholders facing disputed
+        insurance claims should consult with both a licensed public adjuster and an attorney
+        experienced in insurance coverage law as the situation warrants.
       </p>
     </>
   )

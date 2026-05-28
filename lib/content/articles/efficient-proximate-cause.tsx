@@ -47,9 +47,9 @@ export default function Content() {
         The homeowner filed a first-party claim with her insurance company under her HO-3 Special Form homeowners policy. The insurer&rsquo;s field adjuster came out, inspected the property, and issued an estimate totaling $0.00 &mdash; explicitly excluding every damaged area as &ldquo;ground water.&rdquo; The insurer also verbally capped the claim at a $10,000 sublimit under the policy&rsquo;s water backup endorsement.
       </p>
 
-      <CalloutBox variant="important" title="The Insurer's Logic &mdash; and Why It Fails">
+      <CalloutBox variant="important" title="The Insurer's Logic &mdash; and the Counter-Argument">
         <p>
-          The insurer&rsquo;s position was simple: water entered the home, and the policy excludes ground water and surface water. But this analysis ignores the <em>reason</em> the water entered the home. The drainage system &mdash; which had handled identical rain two weeks earlier &mdash; was destroyed by third-party negligence, a covered peril. The rain was merely the trigger that exposed the damage already done. Under California&rsquo;s efficient proximate cause doctrine, the insurer cannot stop at &ldquo;water entered the home&rdquo; and invoke the exclusion. It must analyze the full causal chain.
+          The carrier&rsquo;s position was simple: water entered the home, and the policy excludes ground water and surface water. But this analysis arguably skips the <em>reason</em> the water entered the home. The drainage system &mdash; which had handled identical rain two weeks earlier &mdash; was destroyed by third-party negligence, a covered cause. The rain was the trigger that revealed damage already done. Many plaintiff attorneys argue that, under California&rsquo;s efficient proximate cause doctrine, an analysis that stops at &ldquo;water entered the home&rdquo; misses the predominating cause; the full causal chain is what controls.
         </p>
       </CalloutBox>
 
@@ -233,10 +233,10 @@ export default function Content() {
         The Standalone Covered Loss Argument
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In cases like our case study, there is an additional argument that operates independently of the efficient proximate cause doctrine. The physical destruction of the drainage infrastructure and sump pump &mdash; by itself, before any rain fell &mdash; was a standalone covered loss. Third-party negligence and vandalism are covered perils under a standard HO-3 policy. The insurer must, at a minimum, cover the direct physical damage to the plumbing and pump, regardless of how it characterizes the subsequent interior water damage.
+        In cases like our case study, there is an additional argument that operates independently of the efficient proximate cause doctrine. The physical destruction of the drainage infrastructure and sump pump &mdash; by itself, before any rain fell &mdash; may be a standalone covered loss. Standard HO-3 dwelling coverage is written on an open-perils basis: damage from third-party negligence or vandalism is covered unless a specific exclusion applies. Many plaintiff attorneys argue that the carrier should, at minimum, cover the direct physical damage to the plumbing and pump, regardless of how it characterizes the subsequent interior water damage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This two-track approach &mdash; arguing both the standalone covered loss <em>and</em> the efficient proximate cause chain &mdash; gives the policyholder multiple paths to recovery and makes it significantly harder for the insurer to maintain a blanket denial.
+        This two-track approach &mdash; pursuing both the standalone covered-loss argument <em>and</em> the efficient proximate cause chain &mdash; gives an insured multiple paths to recovery and tends to make a blanket denial harder for the carrier to sustain. Whether either argument prevails in a specific case is a legal evaluation for counsel.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -246,40 +246,47 @@ export default function Content() {
         In the case study, the insurer attempted to cap the claim at a $10,000 sublimit under a water backup endorsement. These endorsements (commonly called HO-208 or similar) provide limited coverage for losses caused by water that backs up through sewers or drains as a standalone peril. They are designed for routine plumbing failures.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the backup or overflow was itself caused by a separate covered peril &mdash; such as third-party negligence &mdash; the sublimit endorsement should not control. Under the efficient proximate cause analysis, the covered peril predominates, and coverage should be afforded under the main policy up to the full Coverage A dwelling limits, not under a restricted sublimit designed for an entirely different type of loss.
+        Where the backup or overflow was itself caused by a separate covered peril &mdash; such as third-party negligence &mdash; many plaintiff attorneys argue the sublimit endorsement should not control. The argument is that, under an efficient proximate cause analysis, the covered peril predominates, so coverage should attach under the main policy up to the full Coverage A dwelling limits, not under a restricted sublimit designed for routine plumbing failures. Whether a court will apply that analysis in a specific case is fact-intensive and a legal question for an attorney.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What to Do If You Think the Doctrine Applies to Your Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you believe your insurer is denying your claim by focusing on an excluded peril while ignoring the covered peril that started the chain, here are the steps to consider:
+        Where an insured believes the carrier is denying a claim by focusing on an excluded peril while ignoring the covered peril that started the chain, the following steps are commonly taken:
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Document the full causal chain.</strong> Your insurer will focus on the final link (the water, the settling, the earth movement). You need to document what came before. Videos, photographs, contractor invoices, plumbing reports, inspection records &mdash; anything that establishes the covered peril that set the chain in motion.
+          <strong>Document the full causal chain.</strong> Carriers typically focus on the final link (the water, the settling, the earth movement). What often makes the difference is documentation of what came before: videos, photographs, contractor invoices, plumbing reports, inspection records &mdash; anything that establishes the covered peril that set the chain in motion.
         </li>
         <li>
-          <strong>Establish the &ldquo;before and after.&rdquo;</strong> If you can show that your property withstood the same natural conditions before the covered peril occurred (as the homeowner in our case study showed with the October rain), this powerfully demonstrates that the excluded peril alone was not sufficient to cause the loss.
+          <strong>Establish the &ldquo;before and after.&rdquo;</strong> Where the property withstood the same natural conditions before the covered peril occurred (as the homeowner in our case study showed with the October rain), the record can powerfully demonstrate that the excluded peril alone was not sufficient to cause the loss.
         </li>
         <li>
-          <strong>Identify the standalone covered loss.</strong> If the covered peril caused direct physical damage to your property before the excluded peril even arrived (destroyed drainage, broken pipes, damaged equipment), argue this as an independent covered loss in addition to the EPC chain.
+          <strong>Identify any standalone covered loss.</strong> Where the covered peril caused direct physical damage to property before the excluded peril even arrived (destroyed drainage, broken pipes, damaged equipment), many plaintiff attorneys treat this as an independent covered loss in addition to the EPC chain.
         </li>
         <li>
-          <strong>Put your insurer on notice in writing.</strong> Send a formal dispute letter that identifies the efficient proximate cause doctrine, cites the applicable California authorities (<em>Sabella</em>, <em>Garvey</em>, <em>Julian</em>, Insurance Code &sect;&sect; 530 and 532), and demands reinvestigation. See our article on{' '}
+          <strong>Put the carrier on notice in writing.</strong> A formal dispute letter that
+          identifies the efficient proximate cause doctrine is a common step. An insured
+          handling their own claim can reference and rely on the doctrine and the supporting
+          cases in their own correspondence. A public adjuster&apos;s role centers on
+          developing the factual record &mdash; the causal chain, the &ldquo;before and
+          after,&rdquo; the standalone covered loss. Building the legal argument around the
+          doctrine, and any litigation, is the work of a California-licensed attorney. See
+          our article on{' '}
           <Link href="/resources/insurance-code-790" className="text-blue-700 underline hover:text-blue-900">
             Insurance Code 790.03 and the 790 letter
           </Link>{' '}
-          for guidance on putting your insurer on formal notice.
+          for related context.
         </li>
         <li>
-          <strong>Consult with an attorney.</strong> The efficient proximate cause doctrine involves complex legal analysis and fact-specific determinations. An attorney who specializes in California insurance coverage disputes can evaluate your specific facts, review your policy language, and advise you on the best strategy.
+          <strong>Consult with an attorney.</strong> The efficient proximate cause doctrine involves complex legal analysis and fact-specific determinations. An attorney who specializes in California insurance coverage disputes can evaluate the specific facts, review the policy language, and advise on strategy.
         </li>
         <li>
           <strong>Consider a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            Public Adjuster
-          </Link>.</strong> A licensed Public Adjuster can help document the damages, prepare the scope of loss, and negotiate with the insurer on the amount of the claim &mdash; while an attorney handles the coverage dispute.
+            public adjuster
+          </Link>.</strong> A licensed public adjuster can help document the damages, prepare the scope of loss, and negotiate with the carrier on the amount of the claim &mdash; while an attorney handles the coverage dispute.
         </li>
       </ol>
 
@@ -344,6 +351,25 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California is relatively unique in this regard. In many other states, anti-concurrent causation language is enforced as written, and exclusions may control even when a covered peril started the chain. California policyholders have stronger protections than most &mdash; but only if they know about them and are willing to assert them.
       </p>
+
+      <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
+        <h3 className="text-lg font-bold text-[#1F3964] mb-2">
+          Concerned About How Your Claim Is Being Handled?
+        </h3>
+        <p className="text-gray-600 text-sm mb-4">
+          A licensed public adjuster can review an insurance claim file to identify underpaid
+          items and may be able to develop the factual record that supports an efficient
+          proximate cause analysis. A public adjuster may also identify issues that warrant
+          consultation with an attorney. Most public adjusters and attorneys will provide a
+          free consultation.
+        </p>
+        <Link
+          href="/contact"
+          className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors"
+        >
+          Request a Free Claim Review &rarr;
+        </Link>
+      </div>
 
       <CalloutBox variant="legal" title="Consult an Attorney">
         <p>

@@ -14,7 +14,9 @@ export default function Content() {
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
         Every insurance company in California has a legal obligation to conduct a thorough, fair,
-        and objective investigation of every claim. This is not optional — it is mandated
+        and objective investigation appropriate to the claim &mdash; calibrated to the facts, the
+        coverage, and the documentation, but never reduced to a cursory review that fails to
+        develop the facts material to coverage. This is not optional — it is mandated
         by the California Insurance Code, the Fair Claims Settlement Practices Regulations, and
         decades of case law. When an insurer fails to properly investigate and denies or underpays
         your claim as a result, that failure can itself constitute{' '}
@@ -26,35 +28,58 @@ export default function Content() {
         The Legal Foundation
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insurer&apos;s duty to investigate comes from multiple sources:
+        The insurer&apos;s duty to investigate is grounded in several overlapping authorities:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Insurance Code § 790.03(h)(3):</strong> It is an unfair claims settlement practice
-          to fail to adopt and implement reasonable standards for the prompt investigation and
-          processing of claims.
+          <strong>Insurance Code &sect; 790.03(h)(3):</strong> It is an unfair claims settlement
+          practice to fail to adopt and implement reasonable standards for the prompt
+          investigation and processing of claims.
         </li>
         <li>
-          <strong>Insurance Code § 790.03(h)(4):</strong> Failing to affirm or deny coverage within
-          a reasonable time after proof of loss has been completed.
+          <strong>Insurance Code &sect; 790.03(h)(4):</strong> Failing to affirm or deny coverage
+          within a reasonable time after proof of loss has been completed.
         </li>
         <li>
-          <strong>10 CCR § 2695.7(d):</strong> Every insurer shall conduct and diligently pursue
-          a thorough, fair and objective investigation and shall not persist in seeking information
-          not reasonably required for or material to the resolution of a claim dispute.
+          <strong>10 CCR &sect; 2695.7(d):</strong> Every insurer shall conduct and diligently
+          pursue a thorough, fair and objective investigation and shall not persist in seeking
+          information not reasonably required for or material to the resolution of a claim
+          dispute.
         </li>
         <li>
           <strong>The implied covenant of good faith and fair dealing:</strong> Every insurance
           contract includes an implied promise that the insurer will deal fairly with the insured.
-          A shoddy investigation violates that promise.
+          A shoddy investigation can breach that promise.
         </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under <em>Moradi-Shalal v. Fireman&apos;s Fund Ins. Co.</em> (1988) 46 Cal.3d 287, an
+        insured cannot sue directly under &sect; 790.03 or the Fair Claims Settlement Practices
+        Regulations &mdash; those provisions do not create a private cause of action. They inform
+        the standard of care for a common-law bad-faith claim brought under the implied covenant.
+        The duty to investigate, then, is enforced in private litigation through the common-law
+        bad-faith framework that the statutory and regulatory standards help define.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California cases applying these standards add an important balance: under{' '}
+        <em>Wilson v. 21st Century Ins. Co.</em> (2007) 42 Cal.4th 713, an insurer is not liable
+        for bad faith when its position rests on a genuine, good-faith dispute &mdash; but only
+        when the position was reached through a thorough and fair investigation. The duty to
+        investigate is the gateway: if the investigation was inadequate, the genuine-dispute
+        defense generally does not protect the insurer; if the investigation was thorough and the
+        position reached was objectively reasonable, the doctrine often does. The standards below
+        are evaluated in that framework.
+      </p>
 
-      <CalloutBox variant="warning" title="You Can Win a Bad Faith Case on Investigation Alone">
+      <CalloutBox variant="warning" title="Bad-Faith Liability Can Arise From Investigation Failures Alone">
         <p>
-          California courts have held that an insurer can be liable for bad faith based solely on
-          the inadequacy of its investigation — even if the claim might not have been covered after
-          a proper investigation. The duty to investigate is independent of the duty to pay.
+          California cases, beginning with <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24
+          Cal.3d 809, have recognized that an inadequate investigation can support a bad-faith
+          claim independently of whether the underlying claim was ultimately covered &mdash;
+          provided the investigation failure caused the claim to be wrongly denied, delayed, or
+          underpaid. The duty to investigate is independent of the duty to pay, but bad-faith
+          damages still require proof of causation and resulting harm; investigation flaws alone,
+          without causation or harm, generally do not produce tort liability.
         </p>
       </CalloutBox>
 
@@ -82,10 +107,10 @@ export default function Content() {
           evidence submitted.
         </li>
         <li>
-          <strong>Disclose all applicable coverages.</strong> Under 10 CCR § 2695.4(a), the insurer
-          must disclose to the claimant all benefits, coverages, time limits, or other provisions
-          that may apply to the claim. They cannot stay silent about a coverage that might benefit
-          you.
+          <strong>Disclose all applicable coverages.</strong> Under 10 CCR &sect; 2695.4(a), the
+          insurer must disclose to a first-party claimant or beneficiary all benefits, coverages,
+          time limits, or other provisions that may apply to the claim. The insurer cannot stay
+          silent about a coverage that might benefit the policyholder.
         </li>
         <li>
           <strong>Communicate findings.</strong> The insurer must explain what they found, what
@@ -155,14 +180,23 @@ export default function Content() {
           insurer&apos;s adjuster might miss or minimize.
         </li>
         <li>
-          <strong>You can request copies of the insurer&apos;s reports.</strong> Under California
-          law, the insurer must provide copies of all reports, estimates, and documentation
-          related to your claim.
+          <strong>You can request claim file documentation.</strong> California regulations
+          require the insurer to provide certain claim-related documentation upon request &mdash;
+          including the carrier&apos;s estimate, written denials with specific factual and
+          policy bases (10 CCR &sect; 2695.7(b)(1)), and disclosure of applicable coverages
+          (10 CCR &sect; 2695.4(a)). The scope of what the insurer must produce varies; some
+          materials (such as attorney-client communications or work product prepared in
+          anticipation of litigation) may be withheld. Where the insurer refuses to produce
+          documents that should be available, raising the issue in writing &mdash; and, if
+          necessary, in a CDI complaint &mdash; is the standard path.
         </li>
         <li>
-          <strong>You can submit your own evidence at any time.</strong> The insurer must consider
-          evidence you submit. If you get a contractor estimate after the insurer&apos;s initial
-          inspection, submit it and demand they incorporate it into their analysis.
+          <strong>You can submit your own evidence at any time.</strong> The insurer must
+          consider material evidence you submit. If you get a contractor estimate after the
+          insurer&apos;s initial inspection, submit it in writing and request that it be
+          considered as part of the carrier&apos;s analysis. &ldquo;Consider&rdquo; is not the
+          same as &ldquo;adopt&rdquo; &mdash; the insurer is required to evaluate the evidence,
+          not necessarily accept it.
         </li>
       </ul>
 
@@ -186,40 +220,50 @@ export default function Content() {
         </li>
         <li>
           <strong>File a CDI complaint.</strong> A complaint with the California Department of
-          Insurance creates an official record of the insurer&apos;s failure to investigate. See{' '}
+          Insurance creates an official record that the insured raised concerns about the
+          investigation. CDI may investigate and act on systemic issues; the complaint itself
+          documents the allegation rather than proves the failure. See{' '}
           <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
         </li>
         <li>
           <strong>Consider professional representation.</strong> A{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>{' '}
-          can take over the claims process and ensure the investigation is conducted properly. If
-          bad faith is clear, an attorney can pursue damages beyond the policy.
+          can take over the claims process and document any investigation deficiencies in real
+          time. If the facts suggest bad faith, an attorney can evaluate whether the conduct
+          supports a claim for damages beyond the policy benefits.
         </li>
       </ol>
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
-          Insurer Not Taking Your Claim Seriously?
+          Insurer&apos;s Investigation Falling Short?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          An inadequate investigation is one of the most common forms of bad faith. A Public
-          Adjuster can ensure your claim gets the thorough investigation it deserves.
+          Inadequate investigation is one of the most common patterns of insurer conduct that
+          informs bad-faith analysis. A licensed public adjuster can document the gaps in the
+          investigation in real time &mdash; the documentation an attorney would need if the
+          facts later support a legal claim. Many public adjusters provide a free initial
+          consultation.
         </p>
         <Link
           href="/contact"
           className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors"
         >
-          Request a Free Claim Review →
+          Request a Free Claim Review &rarr;
         </Link>
       </div>
 
       <CalloutBox variant="legal" title="Important Notice">
         <p>
           This article is provided for general educational purposes only and does not constitute
-          legal advice. Insurance policies, regulations, and case law can vary significantly based
-          on individual circumstances. Consult a licensed attorney for advice about your specific
-          situation. If you need a referral to an attorney experienced in insurance coverage disputes,
-          a licensed Public Adjuster may be able to assist.
+          legal advice. California Insurance Code &sect; 15002 expressly provides that the Public
+          Adjuster Act does not authorize the practice of law &mdash; whether the facts of a
+          specific claim support a bad-faith action, and what damages may be recoverable, is a
+          question for a licensed California attorney. The public adjuster&apos;s role in this
+          area is to document the carrier&apos;s investigation conduct during the claim; the
+          attorney&apos;s role is the legal claim. Insurance policies, regulations, and case law
+          can vary significantly based on individual circumstances; consult a licensed attorney
+          for advice about your specific situation.
         </p>
       </CalloutBox>
     </>

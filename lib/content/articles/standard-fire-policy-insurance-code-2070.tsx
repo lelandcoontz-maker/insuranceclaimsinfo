@@ -70,8 +70,12 @@ export default function Content() {
         This language is the source of what practitioners call the &ldquo;floor&rdquo; principle.
         The standard fire policy establishes a minimum. Insurers may exceed it &mdash; they may
         provide broader coverage, more favorable conditions, or additional protections. But they
-        may not go below it. Any provision in an insurer&rsquo;s policy that provides less
-        protection than the standard form is unenforceable as a matter of law.
+        may not, taken as a whole, provide fire coverage less favorable than the standard form.
+        Many plaintiff attorneys argue that a specific provision providing less protection than
+        the standard form is unenforceable to that extent, particularly where the deviation is
+        not offset by broader coverage elsewhere in the policy. The statutory test is whether
+        the fire coverage, &ldquo;viewed in its entirety,&rdquo; meets or exceeds the standard
+        form &mdash; a holistic analysis that depends on the policy and the facts of the loss.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -106,8 +110,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Several things are notable about this insuring clause. First, it covers &ldquo;all loss by
         fire&rdquo; &mdash; this is broad, open-peril language for the specific peril of fire. The
-        word &ldquo;all&rdquo; is doing real work here. It means fire damage of every kind,
-        including smoke damage, soot damage, heat damage, and damage from firefighting efforts.
+        word &ldquo;all&rdquo; is doing real work here. The standard form&apos;s &ldquo;all loss
+        by fire&rdquo; language has been read broadly by California courts to encompass smoke
+        damage, soot damage, heat damage, and damage from firefighting efforts. Whether a specific
+        loss falls within the coverage still depends on the policy terms, the cause of the damage,
+        applicable exclusions, and proof.
         When an insurer tries to carve out subcategories of fire damage &mdash; as the California
         FAIR Plan attempted with its restrictive smoke damage definition &mdash; courts have found
         that such carve-outs violate the breadth of coverage the standard form requires.
@@ -261,11 +268,15 @@ export default function Content() {
         Increased Hazard
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insurer is not liable for any loss occurring &ldquo;while the hazard is increased by
-        any means within the control or knowledge of the insured.&rdquo; This condition is narrow:
-        it requires that the insured have both knowledge of and control over the increased hazard.
-        A condition beyond the insured&rsquo;s control &mdash; such as a neighbor&rsquo;s
-        activities or a change in local conditions &mdash; does not trigger this provision.
+        The insurer is not liable for any loss occurring &ldquo;while the hazard is increased
+        by any means within the control or knowledge of the insured.&rdquo; The statute uses
+        &ldquo;or&rdquo; — meaning the insurer can attempt to invoke the provision based on
+        either control or knowledge, not both. As applied, many plaintiff attorneys point out
+        that the increased-hazard exclusion is generally read narrowly by California courts
+        and requires the insurer to prove the elements of the condition with respect to the
+        specific facts of the loss. A condition beyond the insured&rsquo;s control &mdash; such
+        as a neighbor&rsquo;s activities or a change in local conditions &mdash; does not
+        trigger this provision.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -547,7 +558,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But once both conditions are met, the deadline is firm. An insurer that fails to pay
-        within 60 days after both conditions are satisfied is in breach of the policy &mdash; and
+        within 60 days after both conditions are satisfied may be in breach of the policy &mdash; and
         potentially in violation of the{' '}
         <Link
           href="/resources/california-fair-claims"
@@ -638,13 +649,15 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The UCL Has Its Own Deadline">
         <p>
-          In <em>Rosenberg-Wohl v. State Farm Fire &amp; Casualty Co.</em> (2024), the California
-          Supreme Court held that the 12-month suit limitation in the fire policy applies to
-          breach of contract and breach of the implied covenant of good faith and fair dealing, but
-          it does not apply to claims under the Unfair Competition Law (Business &amp; Professions
-          Code Section 17200), which has its own four-year statute of limitations. Policyholders
-          and their attorneys should evaluate all potential causes of action and their respective
-          deadlines.
+          In <em>Rosenberg-Wohl v. State Farm Fire &amp; Casualty Company</em> (2024) 15 Cal.5th
+          1238, the California Supreme Court held that the 12-month suit limitation in the
+          standard fire policy applies to breach of contract and breach of the implied covenant
+          of good faith and fair dealing, but does not apply to claims under the Unfair
+          Competition Law (Business &amp; Professions Code § 17200), which has its own four-year
+          statute of limitations. <em>Rosenberg-Wohl</em> is narrow in remedy: UCL claims provide
+          injunctive and restitutionary relief, not contract damages or bad-faith damages.
+          Identifying which causes of action remain available on a specific claim is a legal
+          question for an attorney.
         </p>
       </CalloutBox>
 
@@ -736,8 +749,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But where an HO-3 or proprietary policy <em>restricts</em> coverage for fire losses
-        below what the standard form provides, the restriction may be unenforceable. This is
-        where the standard fire policy shows its real power: it functions as a one-way ratchet.
+        below what the standard form provides, the restriction may be unenforceable. The
+        statutory framework operates asymmetrically: insurers may provide more than the standard
+        form, but not less. Many plaintiff attorneys describe this as a one-directional protection.
         Insurers can add to it but cannot take away from it.
       </p>
 
@@ -796,17 +810,28 @@ export default function Content() {
         simply refuse to enforce the specific provision that violates the statutory floor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This was the remedy applied in the California FAIR Plan smoke damage case,{' '}
-        <em>Aliff v. California FAIR Plan Association</em> (L.A. Super. Ct. Case No.
-        21STCV20095, Order Granting in Part Plaintiff&rsquo;s Motion for Summary Adjudication,
-        Hon. Stuart M. Rice, June 24, 2025),
-        where the court found that the FAIR Plan&rsquo;s restrictive definition of &ldquo;direct
-        physical loss&rdquo; and its &ldquo;sight and smell&rdquo; standard for smoke damage
-        violated Insurance Code Section 2070. The court declared these provisions unlawful because
-        they provided coverage &ldquo;less favorable than, and not substantially equivalent
-        to,&rdquo; the coverage required by the standard form. The practical effect was that the
-        standard form&rsquo;s broader coverage language controlled, and the FAIR Plan&rsquo;s
-        restrictive definitions were unenforceable.
+        California&apos;s controlling Supreme Court precedent on what counts as
+        &ldquo;direct physical loss or damage&rdquo; is{' '}
+        <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 15
+        Cal.5th 1106, which held that the phrase requires a &ldquo;distinct, demonstrable,
+        physical alteration&rdquo; of the property but does <strong>not</strong> require
+        permanence, and does not require that the alteration be visible to the naked eye.
+        Microscopic or laboratory-detectable alterations can satisfy the standard.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>Another Planet</em> was applied to the FAIR Plan&apos;s post-2017 policy language in
+        a recent Los Angeles Superior Court trial-level ruling,{' '}
+        <em>Aliff v. California FAIR Plan Association</em>{' '}
+        (L.A. Super. Ct. Case No. 21STCV20095, Order Granting in Part Plaintiff&apos;s
+        Motion for Summary Adjudication, Hon. Stuart M. Rice, June 24, 2025).{' '}
+        <strong>The Aliff order is a trial-court ruling and is not binding precedent
+        statewide</strong> — it is, however, a detailed application of <em>Another Planet</em>{' '}
+        to FAIR Plan smoke-damage definitions. In <em>Aliff</em>, the court held the FAIR
+        Plan&apos;s requirement that &ldquo;direct physical loss&rdquo; be {' '}
+        &ldquo;permanent&rdquo; and that smoke damage be &ldquo;visible to the unaided human
+        eye or detected by the unaided human nose&rdquo; violated Insurance Code § 2070
+        because that language provided coverage &ldquo;less favorable than, and not
+        substantially equivalent to,&rdquo; the standard form.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -866,9 +891,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The FAIR Plan is not exempt from Insurance Code Section 2070. Its policies must still
         provide fire coverage that is substantially equivalent to or more favorable than the
-        standard form. As the <em>Aliff</em> case demonstrated, when the FAIR Plan&rsquo;s policy
-        language fails to meet this standard, courts will declare the offending provisions
-        unenforceable &mdash; just as they would for any admitted carrier.
+        standard form. <em>Aliff</em> illustrates how <em>Another Planet</em>&rsquo;s reasoning
+        may be applied to FAIR Plan policy language when that language fails to meet this
+        standard &mdash; just as it would for any admitted carrier.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, the FAIR Plan&rsquo;s policies are intentionally limited in scope. The FAIR Plan
@@ -876,8 +901,10 @@ export default function Content() {
         but does not provide the comprehensive coverage that a standard HO-3 policy offers.
         Policyholders who obtain FAIR Plan coverage typically need a companion policy (called a
         &ldquo;Difference in Conditions&rdquo; or DIC policy) to fill the gaps. The FAIR Plan
-        also imposes coverage limits &mdash; currently $3 million for residential properties
-        &mdash; that may be insufficient for high-value homes. For a comprehensive discussion of
+        imposes coverage limits that are set by regulatory action and change periodically. As of
+        {/* INSERT PUBLICATION DATE */}, the FAIR Plan&apos;s residential coverage limit is $3
+        million. For current limits, the California FAIR Plan website is authoritative.
+        For a comprehensive discussion of
         the FAIR Plan and its limitations, see our{' '}
         <Link href="/resources/california-fair-plan" className="text-[#2E74B5] hover:underline">
           California FAIR Plan guide
@@ -892,57 +919,18 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Broker Liability Is Different with the FAIR Plan
+        Broker Duties and the FAIR Plan
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a policyholder is underinsured and seeks to hold their broker or agent liable for
-        inadequate coverage, the analysis differs meaningfully depending on whether the broker
-        placed the policyholder with an admitted carrier in the voluntary market or with the
-        California FAIR Plan.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        With an admitted carrier, a broker who fails to recommend adequate coverage limits, who
-        neglects to discuss available endorsements, or who places the insured with an inappropriate
-        carrier may face professional liability for negligence. The broker chose to place the
-        insured with that particular carrier, and the broker&rsquo;s duty of care encompasses the
-        selection of an appropriate carrier and adequate coverage.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        With the FAIR Plan, the dynamic shifts. The broker did not &ldquo;choose&rdquo; the FAIR
-        Plan &mdash; the FAIR Plan is where the insured ends up when the voluntary market has
-        declined to offer coverage. The broker&rsquo;s duty is more limited because the
-        broker&rsquo;s role is essentially to facilitate access to the only available option. The
-        broker did not select the carrier from among competing alternatives; the broker placed the
-        insured where the insured could get coverage at all.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This does not mean brokers have no duty when placing FAIR Plan policies. A broker still has
-        a duty to explain the FAIR Plan&rsquo;s coverage limitations, to recommend appropriate
-        coverage limits within the FAIR Plan&rsquo;s parameters, and to advise the insured about
-        the need for a companion DIC policy to fill coverage gaps. But the claim that the broker
-        should have placed the insured with a different, better carrier &mdash; which is the heart
-        of many broker negligence claims in the voluntary market &mdash; is not available when the
-        voluntary market has already declined the risk.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, the FAIR Plan imposes strict coverage limits. When a home is valued at $5
-        million but the FAIR Plan&rsquo;s maximum residential coverage is $3 million, a $2 million
-        gap is inherent in the placement. Whether the broker is liable for that gap depends on
-        whether the broker advised the insured of the shortfall and recommended excess coverage.
-        But the gap itself is a function of the FAIR Plan&rsquo;s structure, not the broker&rsquo;s
-        negligence.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Market constraints are increasingly being recognized as a defense in broker E&amp;O
-        litigation arising from wildfire losses. When adequate coverage was simply not available
-        in the market, the broker&rsquo;s inability to obtain it is not necessarily negligence
-        &mdash; it may reflect market reality. For more on broker and agent liability, see our
-        article on{' '}
-        <Link
-          href="/resources/broker-agent-liability"
-          className="text-[#2E74B5] hover:underline"
-        >
-          suing your insurance broker or agent for inadequate coverage
+        Whether a broker placing a policyholder with the FAIR Plan owes the insured a
+        particular duty to recommend coverage levels or alternative options is a fact-specific
+        question that depends on the broker&apos;s representations, the insured&apos;s
+        instructions, and California&apos;s evolving broker-duty case law. Insureds who
+        believe their broker failed to advise them properly should consult an attorney
+        experienced in broker E&amp;O litigation. The structure and limits of the FAIR Plan
+        program are discussed in our dedicated{' '}
+        <Link href="/resources/california-fair-plan" className="text-[#2E74B5] hover:underline">
+          California FAIR Plan guide
         </Link>.
       </p>
 
@@ -1088,9 +1076,10 @@ export default function Content() {
         <li>
           <strong>Compare your policy to the standard form when coverage is disputed.</strong> If
           your insurer denies or limits a fire claim based on policy language that is more
-          restrictive than the standard form, raise the Section 2070 issue. Ask your insurer to
-          explain how their policy provides fire coverage that is &ldquo;substantially equivalent
-          to or more favorable&rdquo; than the standard form.
+          restrictive than the standard form, many plaintiff attorneys raise a §2070 challenge
+          when the carrier&rsquo;s policy provides less fire coverage than the standard form. Ask
+          your insurer to explain how their policy provides fire coverage that is
+          &ldquo;substantially equivalent to or more favorable&rdquo; than the standard form.
         </li>
         <li>
           <strong>Pay attention to small differences in appraisal language.</strong> If your claim
@@ -1112,9 +1101,10 @@ export default function Content() {
           to pay. Document when both conditions are met so you can enforce this deadline.
         </li>
         <li>
-          <strong>Request a complete copy of your policy.</strong> Under Section 2084, your
-          insurer must provide a complete copy of your policy &mdash; with all endorsements &mdash;
-          within 30 days of a covered loss. You need this document to evaluate your coverage and
+          <strong>Request a complete copy of your policy.</strong> Under Section 2084, after a
+          covered loss the insurer must provide the insured with a complete copy of the policy,
+          including all endorsements, within 30 days of a written request for the policy by the
+          insured. You need this document to evaluate your coverage and
           compare it to the standard form.
         </li>
         <li>
@@ -1142,11 +1132,13 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Plead the Section 2070 violation.</strong> When a fire claim is denied based on
-          policy language that deviates from the standard form, plead that the deviation violates
-          Insurance Code Section 2070 and that the standard form&rsquo;s more protective language
-          controls. This is a statutory argument, not a contractual one &mdash; it does not depend
-          on ambiguity or the reasonable expectations doctrine.
+          <strong>Many plaintiff attorneys plead a §2070 violation in cases where the
+          carrier&rsquo;s policy departs from the standard form on a fire-related provision.</strong>{' '}
+          When a fire claim is denied based on
+          policy language that deviates from the standard form, many plaintiff attorneys plead that
+          the deviation violates Insurance Code Section 2070 and that the standard form&rsquo;s more
+          protective language controls. This is a statutory argument, not a contractual one &mdash;
+          it does not depend on ambiguity or the reasonable expectations doctrine.
         </li>
         <li>
           <strong>Use <em>Century-National</em> for innocent co-insured claims.</strong> When a
@@ -1161,14 +1153,17 @@ export default function Content() {
           confirm &mdash; is vulnerable to a Section 2070 challenge.
         </li>
         <li>
-          <strong>Evaluate whether the appraisal clause deviates.</strong> If your client&rsquo;s
-          policy modifies the appraisal clause in ways that disadvantage the policyholder, argue
-          that the standard fire policy&rsquo;s appraisal language controls under Section 2070.
+          <strong>Evaluate whether the appraisal clause deviates.</strong> If the
+          policy modifies the appraisal clause in ways that disadvantage the policyholder, many
+          plaintiff attorneys argue that the standard fire policy&rsquo;s appraisal language
+          controls when the policy&rsquo;s clause is less favorable.
         </li>
         <li>
-          <strong>Preserve the UCL claim.</strong> Under <em>Rosenberg-Wohl</em>, the 12-month
-          suit limitation does not apply to UCL claims. Evaluate whether the insurer&rsquo;s
-          conduct supports a Section 17200 cause of action with its four-year limitations period.
+          <strong>Where bad-faith and contract claims may be time-barred, attorneys sometimes
+          evaluate whether a UCL claim under §17200 remains available; this is a legal
+          evaluation for counsel.</strong> Under <em>Rosenberg-Wohl</em>, the 12-month
+          suit limitation does not apply to UCL claims, which carry their own four-year
+          limitations period.
         </li>
         <li>
           <strong>Document tolling triggers.</strong> Under <em>Prudential-LMI</em>, the suit
@@ -1207,7 +1202,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard fire policy is also a tool for accountability. When insurers use complex
-        policy language, nested endorsements, and proprietary definitions to obscure the scope of
+        policy language, nested endorsements, and proprietary definitions that limit the scope of
         coverage, the standard form provides a simple benchmark: does this policy, as a whole,
         provide fire coverage at least as good as the standard form? If not, the policyholder is
         entitled to the standard form&rsquo;s protections regardless of what the insurer&rsquo;s
@@ -1222,7 +1217,7 @@ export default function Content() {
           California insurance crisis
         </Link>, the standard fire policy is one of the most powerful &mdash; and most
         underutilized &mdash; tools available. It ensures that the coverage you paid for is the
-        coverage you receive, even when your insurer tries to read the policy differently.
+        coverage you receive, even when your insurer reads the policy differently.
       </p>
 
       {/* ====== SECTION XXI: RELATED STATUTES ====== */}
