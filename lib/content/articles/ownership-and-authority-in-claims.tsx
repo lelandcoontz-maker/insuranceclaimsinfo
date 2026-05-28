@@ -38,6 +38,31 @@ export default function Content() {
         one situation at a time.
       </p>
 
+      <CalloutBox variant="legal" title="What This Article Is, and What It Is Not">
+        <p>
+          This article maps the legal landscape that families, executors, trustees, and their
+          attorneys navigate when an insurance claim arises on property held in non-standard
+          ownership &mdash; Medi-Cal recipients, life estates, inherited property, property in
+          probate. It is a tour of where insurance law meets elder law, estate planning, probate,
+          and real property doctrine.
+        </p>
+        <p className="mt-2">
+          It is <strong>not</strong> legal advice. The author is a Licensed Public Adjuster in
+          California, not an attorney. The substantive legal questions discussed below &mdash;
+          Medi-Cal estate recovery, asset-protection planning, life-tenant-versus-remainderman
+          disputes, executor fiduciary duties &mdash; call for a California-licensed attorney in
+          the relevant field. Where this article describes &ldquo;strategies,&rdquo;
+          &ldquo;options,&rdquo; or &ldquo;arguments,&rdquo; it is describing what attorneys in
+          those fields typically consider, not directing the reader to act.
+        </p>
+        <p className="mt-2">
+          The insurance-claim side of these situations &mdash; documenting the loss, dealing with
+          the carrier, navigating coverage defenses &mdash; is the public adjuster&rsquo;s
+          domain. The elder law, probate, and real property analyses belong to the attorneys. The
+          two have to be coordinated, and that coordination is the practical focus here.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Two Questions That Run Through Every Non-Standard Claim
       </h2>
@@ -169,28 +194,42 @@ export default function Content() {
         beneficiaries.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has adopted the <strong>expanded estate definition</strong>. Under
-        California law, estate recovery is not limited to assets that pass through probate.
-        DHCS can pursue recovery against assets in which the decedent had &ldquo;any legal
-        title or interest&rdquo; at the time of death, including assets held in living trusts,
-        joint tenancy property, and property subject to a life estate. This means that the
-        home itself &mdash; even if held in a revocable trust or a family trust with a retained
-        life estate &mdash; is subject to Medi-Cal recovery after the beneficiary&rsquo;s
-        death.
+        For many years California used the broad &ldquo;expanded estate&rdquo; definition, under
+        which DHCS could pursue recovery against any asset the decedent held &ldquo;any legal
+        title or interest&rdquo; in at death &mdash; including assets in living trusts, joint
+        tenancy, and life estates. <strong>That changed effective January 1, 2017.</strong>{' '}
+        Senate Bill 833 amended Welfare &amp; Institutions Code &sect; 14009.5 so that, for
+        Medi-Cal members who die on or after that date, recovery reaches only the
+        member&rsquo;s <strong>probate estate</strong> &mdash; the assets that pass through
+        probate &mdash; not every asset the member had an interest in.
       </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The practical effect is enormous. A family that carefully set up a living trust to avoid
-        probate may discover that avoiding probate does not avoid Medi-Cal recovery. The trust
-        avoids the probate <em>process</em>, but it does not remove the asset from the expanded
-        &ldquo;estate&rdquo; that DHCS can reach.
-      </p>
+      <CalloutBox variant="legal" title="Current California Rule (Deaths On or After January 1, 2017)">
+        <p>
+          California now applies a <strong>probate-only</strong> estate-recovery rule. As DHCS
+          states it:
+        </p>
+        <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+          Repayment will be limited only to estate assets subject to probate that were owned by
+          the deceased beneficiary at the time of death.
+        </blockquote>
+        <p>
+          In practical terms, property that passes <em>outside</em> probate &mdash; for example,
+          a home held in a properly funded revocable living trust, property held in joint tenancy
+          with right of survivorship, and assets passing by a transfer-on-death or
+          payment-on-death designation &mdash; generally falls outside DHCS&rsquo;s recovery
+          reach for post-2017 deaths. A home held in the decedent&rsquo;s own name, by contrast,
+          typically <em>does</em> pass through probate and can be reached. How a specific asset
+          is characterized is fact-dependent; an elder law attorney should evaluate the
+          particular situation.
+        </p>
+      </CalloutBox>
 
       <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
         What Medi-Cal Can Recover
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California law, DHCS can recover the cost of all Medi-Cal benefits paid on
-        behalf of the individual, including:
+        For deaths on or after January 1, 2017, DHCS recovery is limited (by SB 833) to the
+        cost of a defined set of benefits paid on behalf of the individual &mdash; principally:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Nursing facility services (the largest category by far)</li>
@@ -213,11 +252,13 @@ export default function Content() {
         security that ultimately proves devastating. During the Medi-Cal recipient&rsquo;s
         lifetime, the home is generally an <strong>exempt asset</strong> for Medicaid
         eligibility purposes. Under both federal law (42 U.S.C. &sect; 1396p(f)) and
-        California law, a home is not counted as an available resource when determining
-        whether the individual qualifies for Medi-Cal &mdash; provided the equity in the
-        home does not exceed the state&rsquo;s equity limit (currently $1,071,000 in
-        California, adjusted annually), and provided the individual intends to return home
-        or has a spouse, dependent child, or disabled family member living there.
+        California law, a home is generally not counted as an available resource when
+        determining whether the individual qualifies for Medi-Cal &mdash; provided the equity
+        in the home does not exceed the federally-set home-equity limit that DHCS applies
+        (California applies the federal minimum, which was in the low-$700,000s for 2024 and is
+        adjusted annually; consult current DHCS guidance for the applicable figure), and
+        provided the individual intends to return home or has a spouse, dependent child, or
+        disabled family member living there.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Families hear that the home is &ldquo;exempt&rdquo; and assume it is protected. It is
@@ -262,20 +303,27 @@ export default function Content() {
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the home is destroyed and the insurance check arrives while the Medi-Cal recipient
-        is still alive, the proceeds replace the home as an asset. Under Medicaid rules, when
-        an exempt asset (the home) is converted to a non-exempt asset (cash), the recipient
-        suddenly has a countable resource. If the cash exceeds Medi-Cal&rsquo;s resource limit
-        ($2,000 for an individual, $130,000 for a married couple with a community spouse in
-        California), the recipient may become <strong>ineligible for continued Medi-Cal
-        benefits</strong> until the money is spent down.
+        is still alive, the proceeds replace the home as an asset. Historically, when an exempt
+        asset (the home) was converted to a non-exempt asset (cash), the recipient could lose
+        eligibility if the cash exceeded the Medi-Cal asset limit. <strong>That asset-limit
+        regime has changed in California.</strong> Effective January 1, 2024, under AB 133, DHCS
+        eliminated the asset limit for most Medi-Cal programs, with limited exceptions for
+        certain federally-mandated long-term-care and Medicare Savings Program categories. As
+        DHCS describes the change:
       </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        Beginning January 1, 2024, most Medi-Cal programs will no longer have an asset limit.
+        This means you will not have to report property like bank accounts, cars, or other
+        assets when you apply or renew your Medi-Cal coverage, except in limited cases where
+        federal law still requires an asset limit.
+      </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This creates an immediate crisis: the nursing home costs $10,000 or more per month,
-        the family thought insurance would help them rebuild, and now the state says the cash
-        makes the recipient ineligible for Medi-Cal. The family must either spend the insurance
-        proceeds on the recipient&rsquo;s care (defeating the purpose of the insurance) or find
-        a way to convert the proceeds back into an exempt asset before the next Medi-Cal
-        eligibility review.
+        For most Medi-Cal recipients in 2025, insurance proceeds arriving during the
+        recipient&rsquo;s lifetime should not, by themselves, disqualify the recipient from
+        continued Medi-Cal benefits. For recipients in the narrow categories where federal law
+        still imposes an asset test, a substantial insurance payment can still create
+        eligibility complications &mdash; an elder law attorney should evaluate the specific
+        program category against current DHCS guidance.
       </p>
 
       <CalloutBox variant="tip" title="Rebuilding Can Preserve the Exemption">
@@ -297,9 +345,13 @@ export default function Content() {
         Insurance claims take time. A fire might occur in January, but the insurance company
         may not issue the final payment until six or nine months later &mdash; or longer, if
         the claim is disputed. If the Medi-Cal recipient dies before the proceeds are received,
-        the analysis shifts. The insurance proceeds become an asset of the decedent&rsquo;s
-        estate. Under California&rsquo;s expanded estate definition, DHCS can file a claim
-        against those proceeds as part of its estate recovery.
+        the analysis shifts. Whether DHCS can reach those proceeds now turns on whether they
+        pass through the decedent&rsquo;s <strong>probate estate</strong>. Proceeds payable to
+        the decedent individually (for example, under a policy in the decedent&rsquo;s own name,
+        with no surviving co-owner or named beneficiary) generally become a probate asset DHCS
+        can pursue. Proceeds that flow to a trust, a surviving joint owner, or a named
+        beneficiary generally pass outside probate and are typically beyond recovery for
+        post-2017 deaths.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This scenario is particularly cruel because the family may have been planning to use
@@ -313,12 +365,14 @@ export default function Content() {
         Scenario 3: Loss Occurs After the Recipient&rsquo;s Death
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the Medi-Cal recipient dies and the home is still standing, the home itself becomes
-        subject to estate recovery. If the home then suffers a loss after the recipient&rsquo;s
-        death, the insurance proceeds flow to the estate (or to the trust, if the home was
-        held in trust). DHCS can still pursue its recovery claim against those assets. The
-        timing of the loss relative to the death does not eliminate the state&rsquo;s right
-        to recover &mdash; it changes only the mechanics of the recovery.
+        If the Medi-Cal recipient dies and the home is still standing, whether the home is
+        reachable depends on how it is titled. A home that passes through the decedent&rsquo;s
+        probate estate is subject to recovery; a home that passes by trust, survivorship, or a
+        transfer-on-death deed generally is not (for post-2017 deaths). If the home then suffers
+        a loss after death, the insurance proceeds generally follow the same path as the home
+        itself &mdash; into the probate estate (reachable) or to the trust or surviving owner
+        (generally not reachable). The timing of the loss relative to the death does not change
+        that underlying probate-versus-non-probate analysis.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Note, however, that the insurance claim itself may present independent challenges if
@@ -370,23 +424,28 @@ export default function Content() {
         Expanded-Estate States
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
-        States that have adopted the expanded estate definition can pursue recovery against
-        any asset in which the decedent had a legal interest at the time of death, regardless
-        of how it passes. California, Oregon, Massachusetts, Minnesota, Wisconsin, and
-        several other states have adopted some form of the expanded definition. In these
-        states, placing a home in a revocable living trust does <em>not</em> shield it from
-        Medicaid estate recovery. Joint tenancy does not shield it. A life estate does not
-        shield it. The state can reach the asset because the decedent retained a legal interest
-        in it at the time of death.
+        States that have adopted the expanded estate definition can pursue recovery against any
+        asset in which the decedent had a legal interest at the time of death, regardless of how
+        it passes. In an expanded-estate state, placing a home in a revocable living trust,
+        holding it in joint tenancy, or reserving a life estate does <em>not</em>, by itself,
+        shield it from Medicaid estate recovery. <strong>California used to be such a state
+        &mdash; but no longer.</strong> For deaths on or after January 1, 2017, SB 833 moved
+        California to the narrower probate-only definition, so the non-probate transfers
+        described above generally are beyond recovery here. (A number of other states &mdash;
+        for example, Oregon, Massachusetts, Minnesota, and Wisconsin &mdash; have historically
+        used some form of the expanded definition; families in those states must check their own
+        state&rsquo;s current law.)
       </p>
 
-      <CalloutBox variant="info" title="The Expanded Estate Definition in Practice">
+      <CalloutBox variant="info" title="What This Means in California Today">
         <p>
-          In an expanded-estate state like California, a Medi-Cal recipient who placed her home
-          in a revocable living trust is in substantially the same position, for estate recovery
-          purposes, as if she had kept the home in her own name. The trust avoids probate &mdash;
-          but it does not avoid DHCS. The state&rsquo;s recovery claim attaches to the trust
-          assets just as it would attach to probate assets.
+          Because California switched to the probate-only rule effective January 1, 2017, a
+          Medi-Cal recipient who placed her home in a properly funded revocable living trust is
+          generally in a <em>better</em> position, for estate-recovery purposes, than if she had
+          kept the home in her own name &mdash; the trust keeps the home out of probate, and the
+          probate-only rule keeps DHCS&rsquo;s recovery claim from reaching it. (The trust still
+          does not help with Medi-Cal <em>eligibility</em> during the recipient&rsquo;s lifetime;
+          that is a separate question.)
         </p>
       </CalloutBox>
 
@@ -401,22 +460,26 @@ export default function Content() {
       </p>
 
       <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
-        Revocable Living Trusts: No Protection Against Recovery
+        Revocable Living Trusts: Eligibility vs. Estate Recovery
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
         A <strong>revocable living trust</strong> is one that the grantor (the person who created
         the trust) can modify, revoke, or dissolve at any time during their lifetime. This is
-        the most common trust structure used for basic estate planning. For Medicaid purposes,
-        assets in a revocable trust are treated as <strong>available resources</strong> of the
-        grantor &mdash; because the grantor retains full control. The trust does not help with
-        Medicaid eligibility (the home&rsquo;s exemption comes from its status as a home, not
-        from the trust), and it does not prevent estate recovery after death.
+        the most common trust structure used for basic estate planning. For Medi-Cal{' '}
+        <em>eligibility</em> purposes, assets in a revocable trust are treated as{' '}
+        <strong>available resources</strong> of the grantor &mdash; because the grantor retains
+        full control &mdash; so the trust does not help the recipient qualify for Medi-Cal (the
+        home&rsquo;s exemption comes from its status as a home, not from the trust).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California and other expanded-estate states, DHCS treats revocable trust assets
-        as part of the estate for recovery purposes. The trust&rsquo;s only benefit in this
-        context is avoiding the probate process &mdash; it offers no protection against the
-        state&rsquo;s recovery claim.
+        <em>Estate recovery</em> after death is a different question, and the answer changed in
+        California. Because recovery now reaches only the probate estate (for deaths on or after
+        January 1, 2017), a home held in a properly funded revocable living trust &mdash; which
+        passes to the successor beneficiaries outside probate &mdash; generally falls outside
+        DHCS&rsquo;s recovery reach. The trust&rsquo;s avoidance of probate, which under the old
+        expanded-estate rule provided no protection from recovery, now generally does protect the
+        asset. Whether a particular trust is &ldquo;properly funded&rdquo; (the home actually
+        re-titled into the trust) is a common failure point an elder law attorney should confirm.
       </p>
 
       <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
@@ -480,35 +543,40 @@ export default function Content() {
         while ensuring that the property passes to the heirs outside of probate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For Medicaid estate recovery, however, a retained life estate can be fatal to the
-        protection the family was trying to create. Under the expanded estate definition, the
-        fact that the decedent held a life estate in the property at the time of death means
-        the decedent had a &ldquo;legal interest&rdquo; in the property &mdash; and that
-        interest is subject to estate recovery. In California, DHCS has consistently taken the
-        position that a retained life estate gives the state a basis to pursue recovery against
-        the property.
+        Under California&rsquo;s old expanded-estate rule, a retained life estate could be fatal
+        to the protection the family was trying to create: because the decedent held a
+        &ldquo;legal interest&rdquo; in the property at death, that interest was treated as
+        recoverable. <strong>Under the post-2017 probate-only rule, the analysis is
+        different.</strong> A life estate ordinarily extinguishes at the life tenant&rsquo;s
+        death &mdash; the remainder beneficiaries already hold the future interest, and it simply
+        becomes possessory &mdash; so nothing passes through the decedent&rsquo;s probate estate.
+        On that reasoning, a retained life estate generally falls outside DHCS&rsquo;s
+        probate-only recovery reach today, a reversal of the old result. DHCS&rsquo;s treatment
+        of specific life-estate structures after 2017 is less settled than its treatment of
+        trusts and survivorship, however, so this is a point an elder law attorney should confirm
+        for the particular deed and facts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This creates a direct collision with the insurance analysis. When a homeowner retains
-        only a life estate, their{' '}
+        The retained life estate still matters for the <em>insurance</em> analysis, independent
+        of Medi-Cal. When a homeowner retains only a life estate, their{' '}
         <Link href="/resources/insurable-interest" className="text-[#2E74B5] hover:underline">
           insurable interest
         </Link>{' '}
         may be limited to the actuarial value of that life estate &mdash; potentially far less
-        than the full value of the home. So the family faces a cruel double bind: the life
-        estate is enough of an interest for the <em>state</em> to pursue recovery, but it may
-        be too <em>little</em> of an interest for the insurance company to pay the full claim.
-        The state takes everything; the insurance pays a fraction.
+        than the full value of the home. That insurable-interest limitation can reduce the claim
+        payment regardless of how the Medi-Cal recovery question comes out.
       </p>
 
-      <CalloutBox variant="important" title="The Double Bind of Life Estates">
+      <CalloutBox variant="important" title="Life Estates: Two Separate Questions">
         <p>
-          A retained life estate can simultaneously (1) give Medicaid the right to recover
-          against the property because the decedent held a &ldquo;legal interest&rdquo; at
-          death, and (2) limit the insurance recovery because the policyholder&rsquo;s
-          insurable interest is capped at the value of the life estate, not the full property
-          value. The family gets the worst of both worlds: maximum state recovery, minimum
-          insurance payment.
+          A retained life estate raises two distinct issues that should not be conflated.
+          (1) <strong>Estate recovery:</strong> under the post-2017 probate-only rule, the life
+          estate generally extinguishes at death and passes nothing through probate, so it is
+          typically beyond DHCS&rsquo;s reach (confirm with an elder law attorney for the
+          specific structure). (2) <strong>Insurance:</strong> the life tenant&rsquo;s insurable
+          interest may be capped at the actuarial value of the life estate rather than the full
+          property value, which can reduce the insurance recovery. The insurance limitation can
+          apply even where the Medi-Cal recovery risk does not.
         </p>
       </CalloutBox>
 
@@ -567,25 +635,34 @@ export default function Content() {
         Problem 3: Medi-Cal Estate Recovery
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Medi-Cal has spent $336,000 on Margaret&rsquo;s nursing home care over four years.
-        Whether Margaret is alive when the insurance proceeds are received or has passed away,
-        the state has a claim. If Margaret is alive, the insurance proceeds convert her exempt
-        asset (the home) into a non-exempt asset (cash), potentially disqualifying her from
-        continued Medi-Cal benefits. If Margaret has died, the insurance proceeds are part of
-        her estate, and DHCS will file a claim for the full $336,000 in benefits paid.
+        Medi-Cal has spent $336,000 on Margaret&rsquo;s nursing home care over four years. Under
+        the rule that applied before 2017, the state would have had a strong claim against the
+        home and its insurance proceeds despite the trust. <strong>Under the current
+        probate-only rule, the picture is very different.</strong> Margaret&rsquo;s home is held
+        in a revocable living trust with a retained life estate; on her death the home passes to
+        her children through the trust and the extinguished life estate &mdash; outside probate.
+        For a post-2017 death, that generally puts the home beyond DHCS&rsquo;s recovery reach.
+        The insurance proceeds usually follow the home: if they are paid to the trust (or to the
+        children as successor owners), they generally pass outside probate as well. The principal
+        place the recovery risk re-enters is if the proceeds are paid into Margaret&rsquo;s own
+        name and land in her probate estate &mdash; a reason to coordinate the policy with the
+        trust. (And while Margaret is alive, the 2024 elimination of the asset limit means the
+        proceeds are far less likely to threaten her ongoing eligibility than they once were.)
       </p>
 
       <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
-        The Devastating Outcome
+        The Real Exposure Today
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In the worst-case scenario, the family faces all three problems simultaneously. The
-        insurance pays $240,000 (life estate value, after the insurable interest argument). The
-        state takes all or most of that $240,000 for Medi-Cal recovery. The children &mdash; who
-        were the intended beneficiaries of the trust &mdash; receive little or nothing. Forty-five
-        years of homeownership, decades of premium payments, and an estate plan that cost
-        thousands of dollars in attorney fees produced a result where the family ended up with
-        nothing.
+        Under current law, the family&rsquo;s biggest exposure in this composite is not Medi-Cal
+        recovery &mdash; it is the <em>insurance</em> side. If the carrier succeeds in capping
+        Margaret&rsquo;s insurable interest at the life-estate value, the payout drops from the
+        $380,000 the family expected to roughly $240,000, and the &ldquo;where you reside&rdquo;
+        argument could threaten coverage altogether. The lesson is the same one that makes this
+        intersection worth understanding &mdash; but the dominant threat has shifted from the
+        state&rsquo;s recovery claim to the coverage defenses. The mismatch between a
+        personal-name policy and trust-held property is exactly the kind of problem worth
+        catching before a loss, with both an elder law attorney and a public adjuster involved.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This outcome was entirely preventable with proper planning. But it required the
@@ -606,25 +683,28 @@ export default function Content() {
         <ul className="list-disc pl-6 space-y-3 text-gray-700 text-sm">
           <li>
             <strong>Loss occurs and proceeds received while recipient is alive:</strong>{' '}
-            Insurance proceeds convert exempt asset to non-exempt cash. Recipient may lose
-            Medi-Cal eligibility unless proceeds are used to rebuild the home or otherwise
-            converted to exempt assets within the spend-down rules. If recipient dies before
-            rebuilding, the cash proceeds are part of the estate subject to recovery.
+            Insurance proceeds replace the exempt home with cash. Since the 2024 elimination of
+            the asset limit for most Medi-Cal programs, this is far less likely to threaten the
+            recipient&rsquo;s ongoing eligibility than it once was (narrow federally-mandated
+            categories aside). If the recipient later dies, whether the remaining proceeds are
+            recoverable turns on whether they sit in the probate estate or pass outside probate.
           </li>
           <li>
             <strong>Loss occurs while alive, proceeds received after death:</strong>{' '}
-            The insurance claim was a right that belonged to the decedent (or the trust).
-            The proceeds, when received, become an estate asset subject to recovery. The
-            executor or trustee must account for the state&rsquo;s claim before distributing
-            to beneficiaries.
+            The insurance claim was a right that belonged to the decedent (or the trust). When
+            received, the proceeds are recoverable only to the extent they fall into the
+            decedent&rsquo;s probate estate; proceeds payable to a trust or a surviving owner
+            generally pass outside probate. The executor or trustee must account for any valid
+            DHCS claim against probate assets before distributing them.
           </li>
           <li>
             <strong>Recipient dies, then loss occurs:</strong>{' '}
-            The home was part of the estate at death. The insurance claim arises after death
-            and the proceeds replace the home as an estate asset. DHCS can file against the
-            estate for the value of benefits paid, and the insurance proceeds are available to
-            satisfy that claim. Separately, the insurance claim itself must be handled by the
-            executor or successor trustee, who must navigate{' '}
+            The insurance proceeds generally follow the home&rsquo;s title. If the home was a
+            probate asset, DHCS can file against the estate (and the proceeds are available to
+            satisfy that claim); if the home passed by trust, survivorship, or a
+            transfer-on-death deed, both the home and its proceeds generally fall outside the
+            post-2017 probate-only recovery rule. Separately, the insurance claim itself must be
+            handled by the executor or successor trustee, who must navigate{' '}
             <Link href="/resources/policyholder-death-coverage" className="text-[#2E74B5] hover:underline">
               the coverage issues that arise when the named insured is deceased
             </Link>.
@@ -633,11 +713,13 @@ export default function Content() {
       </div>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In every scenario, the state&rsquo;s recovery claim represents a cloud over the
-        insurance proceeds. The family cannot simply collect the insurance money and walk away
-        &mdash; DHCS will pursue its claim, and the consequences of ignoring it include
-        personal liability for the trustee or executor who distributes assets without
-        satisfying the state&rsquo;s lien.
+        Where the assets pass through the decedent&rsquo;s probate estate, the state&rsquo;s
+        recovery claim represents a real cloud over the insurance proceeds, and a trustee or
+        executor who distributes probate assets without addressing a valid DHCS claim can face
+        personal liability. Where the home and proceeds pass outside probate &mdash; through a
+        funded trust, survivorship, or a beneficiary designation &mdash; the post-2017
+        probate-only rule generally keeps them beyond recovery. Sorting out which path applies is
+        the analysis an elder law attorney performs for the specific facts.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -656,9 +738,13 @@ export default function Content() {
         Under 42 U.S.C. &sect; 1396p(b)(2), no estate recovery is permitted while any of the
         following individuals survive: (1) the recipient&rsquo;s <strong>surviving spouse</strong>;
         (2) a child of the recipient who is <strong>under age 21</strong>; or (3) a child of
-        the recipient who is <strong>blind or permanently and totally disabled</strong>. This
-        is a complete bar to recovery &mdash; not a deferral. As long as any of these individuals
-        are alive, the state cannot pursue estate recovery at all.
+        the recipient who is <strong>blind or permanently and totally disabled</strong>. As long
+        as any of these individuals are alive, the state generally cannot pursue estate recovery.
+        This protection operates as a <strong>deferral</strong> in most cases &mdash; not a
+        permanent bar &mdash; meaning the claim may revive once all protected individuals are
+        deceased, subject to other applicable protections (the hardship waiver, limitations on
+        the state&rsquo;s claim, and the post-2017 probate-only limit on what is recoverable at
+        all).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The surviving spouse protection is the most commonly applicable. If the Medi-Cal
@@ -727,13 +813,24 @@ export default function Content() {
         Asset Protection Strategies That Comply with Medicaid Rules
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The best time to plan for Medicaid estate recovery is <strong>years before
-        Medicaid is needed</strong>. Once a person is already in a nursing home on Medicaid,
-        the options narrow dramatically due to the five-year look-back period. The following
-        strategies are legitimate planning tools recognized under federal and state law &mdash;
-        but each has requirements, limitations, and risks that must be evaluated by a
-        qualified elder law attorney.
+        The best time to plan for Medi-Cal estate recovery is <strong>years before Medi-Cal is
+        needed</strong>. Once a person is already in a nursing home on Medi-Cal, the options
+        narrow dramatically due to the five-year look-back period. The strategies summarized
+        below are the kinds of planning tools elder law attorneys evaluate &mdash; each with
+        requirements, limitations, and risks that a qualified elder law attorney must assess.
       </p>
+      <CalloutBox variant="info" title="Read These Strategies in Light of the Post-2017 Rule">
+        <p>
+          Several of the aggressive options below were essential under California&rsquo;s old
+          expanded-estate rule, when even a revocable living trust failed to stop recovery. Under
+          the current probate-only rule, a properly funded revocable living trust (or other
+          non-probate transfer) often achieves much of the estate-recovery protection by itself,
+          so the more drastic steps &mdash; irrevocable trusts, outright transfers &mdash; are
+          not always necessary for recovery purposes. They may still serve other goals (Medi-Cal{' '}
+          <em>eligibility</em> planning, the look-back period, tax planning). An elder law
+          attorney should weigh which, if any, are warranted for the specific situation.
+        </p>
+      </CalloutBox>
 
       <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
         Strategy 1: Irrevocable Medicaid Asset Protection Trust
@@ -802,8 +899,9 @@ export default function Content() {
         received, using those proceeds to rebuild or repair the home converts the non-exempt
         cash back into an exempt asset (the home). This preserves Medi-Cal eligibility and
         defers the estate recovery question until the recipient&rsquo;s death. At that point,
-        the rebuilt home will be subject to recovery &mdash; but the family at least has a
-        physical home rather than a state claim against cash.
+        the rebuilt home is subject to recovery only if it passes through the
+        decedent&rsquo;s probate estate (for example, a home held in the recipient&rsquo;s own
+        name) &mdash; and the family at least has a physical home rather than cash.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The family should document every dollar spent on rebuilding and work with both an
@@ -1010,11 +1108,14 @@ export default function Content() {
         services</strong> provided to individuals age 55 and older.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        More importantly for families, SB 833 narrowed the types of property subject to
-        recovery. While California still uses the expanded estate definition, the practical
-        scope of recovery was reduced, and certain assets that were previously recoverable
-        may now be excluded. An elder law attorney familiar with the post-SB 833 landscape
-        should evaluate the family&rsquo;s specific situation.
+        More importantly for families, SB 833 narrowed the <em>definition of the estate</em>
+        subject to recovery. California abandoned the broad expanded-estate definition and
+        adopted the <strong>probate-only</strong> definition: for deaths on or after January 1,
+        2017, recovery reaches only assets that pass through the decedent&rsquo;s probate estate.
+        Assets that transfer outside probate &mdash; through a funded living trust, joint tenancy
+        with right of survivorship, or a transfer-on-death or payment-on-death designation
+        &mdash; are generally no longer recoverable. An elder law attorney familiar with the
+        post-SB 833 landscape should evaluate the family&rsquo;s specific situation.
       </p>
 
       <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
@@ -1890,18 +1991,18 @@ export default function Content() {
         What it does <em>not</em> do is guarantee indefinite coverage.
       </p>
 
-      <CalloutBox variant="warning" title="The 30-Day Trap">
+      <CalloutBox variant="warning" title="The Death Clause Is Not a Permanent Solution">
         <p>
-          Many insurers interpret the Death clause as providing only 30 days of continued
-          coverage for the legal representative, drawing from the policy&rsquo;s broader
-          provisions about changes in occupancy and the &ldquo;residence premises&rdquo;
-          definition. After that 30-day window closes, the insurer may take the position that
-          the property no longer qualifies as a &ldquo;residence premises&rdquo; (because no
-          named insured resides there) and that coverage has lapsed. Whether this
-          interpretation is correct is debatable &mdash; but waiting to find out in a claim
-          dispute is a gamble no executor or heir should take. Act within the first week, not
-          the first month. For the broader analysis of the Death clause and how it interacts
-          with insurable interest and trust ownership, see our companion article on{' '}
+          The Death clause provides continued coverage for the legal representative, but how long
+          that coverage continues is policy-specific and sometimes contested. Some insurers
+          interpret the clause narrowly (often pointing to provisions about changes in occupancy
+          and the &ldquo;residence premises&rdquo; definition to argue for a window measured in
+          weeks); others read it more broadly. Many families and their attorneys treat the first
+          30 days as a working window for arranging replacement coverage. Acting promptly to
+          obtain coverage in the estate&rsquo;s, trust&rsquo;s, or occupying heir&rsquo;s name is
+          the safest course, regardless of how a particular carrier reads the Death clause. For
+          the broader analysis of the Death clause and how it interacts with insurable interest
+          and trust ownership, see our companion article on{' '}
           <Link href="/resources/policyholder-death-coverage" className="text-[#2E74B5] hover:underline">
             what happens to insurance when the policyholder dies
           </Link>.
@@ -1957,9 +2058,11 @@ export default function Content() {
         <li>
           <strong>The heirs and beneficiaries</strong> have an expectancy interest &mdash; they
           expect to receive the property once probate is complete. Under California Probate
-          Code &sect; 7001, real property passes to the heirs (in intestacy) or devisees
-          (under a will) at the moment of death, subject to administration. The heirs have a
-          legal interest in the property from the date of death, even before probate begins.
+          Code &sect; 7000, title to a decedent&rsquo;s property passes on death to the devisees
+          under the will or, in the absence of a devise, to the heirs by intestate succession
+          &mdash; subject to the personal representative&rsquo;s possession and the
+          court&rsquo;s control for administration. The heirs hold a legal interest in the
+          property from the date of death, even before probate is formally opened.
         </li>
       </ul>
 
@@ -2344,10 +2447,16 @@ export default function Content() {
         inconsistent with its prior conduct when the other party has relied on that conduct
         to their detriment. An insurer that cashes premium checks while knowing the named
         insured is dead has, by its conduct, represented that coverage continues. It cannot
-        then deny coverage when a loss occurs. In <em>Waller v. Truck Insurance Exchange</em>,
-        11 Cal. 4th 1 (1995), the California Supreme Court recognized that an insurer can
-        waive policy conditions through its conduct, including the acceptance of premiums
-        with knowledge of facts that would otherwise void coverage.
+        then deny coverage when a loss occurs. California law on waiver and estoppel in the
+        insurance context is narrower than many policyholders assume: <em>Waller v. Truck Ins.
+        Exchange</em> (1995) 11 Cal.4th 1, 31&ndash;33, held that the doctrine of waiver cannot
+        be used to <em>expand</em> coverage beyond the terms of the policy &mdash; only to
+        relinquish a defense to coverage that already exists. As <em>Waller</em> put it,
+        &ldquo;waiver is the intentional relinquishment of a known right after knowledge of the
+        facts.&rdquo; Whether the continued acceptance of premiums after the named
+        insured&rsquo;s death amounts to an intentional relinquishment of a defense to existing
+        coverage &mdash; as opposed to an attempt to create coverage the policy does not provide
+        &mdash; is a fact-specific question for an insurance coverage attorney to evaluate.
       </p>
 
       <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
@@ -2358,11 +2467,13 @@ export default function Content() {
         to provide the coverage that a reasonable policyholder would expect. A family that
         continues paying premiums on a parent&rsquo;s policy after the parent&rsquo;s death
         reasonably expects coverage to continue. The insurer&rsquo;s failure to notify the
-        family that coverage is terminating or has terminated reinforces this expectation. In
-        <em> Gray v. Zurich Insurance Co.</em>, 65 Cal. 2d 263 (1966), the California Supreme
-        Court established the reasonable expectations doctrine in California insurance law,
-        holding that the objectively reasonable expectations of the insured guide
-        interpretation of the policy.
+        family that coverage is terminating or has terminated reinforces this expectation.{' '}
+        <em>Gray v. Zurich Insurance Co.</em> (1966) 65 Cal.2d 263 is one of the foundational
+        California cases applying the reasonable-expectations approach to policy interpretation,
+        holding that ambiguities in policy language are construed against the insurer and that
+        the objectively reasonable expectations of the insured guide the interpretation of
+        disputed policy terms. The doctrine as a named, formalized rule developed in later
+        California cases and academic scholarship.
       </p>
 
       <h4 className="text-lg font-semibold text-[#1F3964] mb-2 mt-4">
@@ -2407,10 +2518,10 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Title Vests at Death (Probate Code &sect; 7001).</strong> Real property
+          <strong>Title Vests at Death (Probate Code &sect; 7000).</strong> Real property
           passes to the heirs or devisees at the moment of death, subject to administration.
           Probate does not create the heir&rsquo;s interest &mdash; it confirms it. This is
-          enough to establish insurable interest and to obtain insurance.
+          generally enough to establish insurable interest and to obtain insurance.
         </li>
         <li>
           <strong>Spousal Property Petition (Probate Code &sect;&sect; 13500&ndash;13660).</strong>
@@ -2420,14 +2531,18 @@ export default function Content() {
           spouse to obtain or continue insurance promptly.
         </li>
         <li>
-          <strong>Small Estate Affidavit Thresholds.</strong> For personal property: $208,850
-          for decedents dying on or after April 1, 2025 (Probate Code &sect; 13100); the prior
-          $184,500 threshold applies to deaths between April 1, 2022 and March 31, 2025.
-          Real-property thresholds are separate: Petition to Determine Succession to Primary
-          Residence (&sect; 13151) is $750,000 under AB 2016; other small-value real property
-          (&sect; 13200) is $69,625 (April 1, 2025). The personal-property affidavit can help
-          expedite the transfer of bank accounts, vehicles, and other assets needed to pay
-          insurance premiums and maintain the home during the probate gap.
+          <strong>Small-Estate Thresholds.</strong> The gross-value threshold for the
+          personal-property affidavit (Probate Code &sect; 13100) was $184,500 for deaths
+          between April 1, 2022 and March 31, 2025, and is adjusted every three years by the
+          Judicial Council under &sect; 890. The principal-residence petition (Petition to
+          Determine Succession, &sect; 13151) carries a base cap of $750,000, also adjusted
+          under &sect; 890; the small-value real-property procedure (&sect; 13200) is set by the
+          same adjustment mechanism. Because these figures change on the triennial schedule,
+          confirm the current amounts on the Judicial Council&rsquo;s &ldquo;Dollar
+          Amounts&rdquo; chart at courts.ca.gov before relying on a specific number. The
+          personal-property affidavit can help expedite the transfer of bank accounts, vehicles,
+          and other assets needed to pay insurance premiums and maintain the home during the
+          probate gap.
         </li>
         <li>
           <strong>Proposition 19 and Property Tax.</strong> Effective February 16, 2021, the

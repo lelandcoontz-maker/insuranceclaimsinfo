@@ -4,22 +4,38 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Insurance Code 790.03 and the 790 Letter: How to Put Your Insurer on Notice',
   description:
-    'California Insurance Code 790.03 defines unfair claims settlement practices. Learn what the statute prohibits, how to write a 790 letter putting your insurer on formal notice, and why this letter changes the dynamic of your claim.',
+    'California Insurance Code 790.03 defines unfair claims settlement practices. Learn what the statute prohibits, when a 790 letter (drafted by counsel) is appropriate, and how the statute interacts with common-law bad faith.',
   summary:
-    'California Insurance Code 790.03 lists unfair claims settlement practices. A \'790 letter\' formally puts your insurer on notice that it is violating the statute, which can shift the dynamic of your claim and lay groundwork for a bad-faith case.',
+    'California Insurance Code 790.03 lists unfair claims settlement practices. A 790 letter, typically drafted by counsel, formally puts an insurer on notice of conduct that may violate the statute. Because of Moradi-Shalal, no private right of action exists under §790.03 itself, but the same conduct may evidence common-law bad faith.',
 }
 
 export default function Content() {
   return (
     <>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When your insurance company misrepresents your policy, ignores your communications, refuses
-        to investigate, or offers a settlement that bears no relationship to your actual loss, that
-        conduct is not just frustrating — it may violate California statutory law. Insurance Code
-        Section 790.03 is the statute that defines unfair claims settlement practices in California,
-        and a &ldquo;790 letter&rdquo; is the tool policyholders use to put their insurer on formal
-        notice that specific violations are being documented.
+        When an insurance company misrepresents the policy, ignores communications, refuses to
+        investigate, or offers a settlement that bears no relationship to the actual loss, that
+        conduct may overlap with California&rsquo;s statutory definition of unfair claims
+        settlement practices. Insurance Code Section 790.03 sets out that definition. A
+        &ldquo;790 letter&rdquo; &mdash; a formal written notice citing specific statutory
+        subsections &mdash; is one tool that counsel use to put an insurer on notice that
+        specific conduct is being documented against the statutory standards.
       </p>
+
+      <CalloutBox variant="legal" title="What This Article Is, and What It Is Not">
+        <p>
+          This article explains the framework around California Insurance Code &sect; 790.03 and
+          describes how 790 letters are commonly used by counsel and adjusters as a notice and
+          documentation tool. It is <strong>not</strong> legal advice. Insurance Code &sect; 15002
+          provides that the Public Adjuster Act does not authorize the practice of law. A public
+          adjuster&rsquo;s role in the 790 process centers on developing and documenting the
+          factual record &mdash; the missed responses, the inadequate investigation, the
+          cherry-picked estimate. The construction of formal legal arguments and the conduct of
+          litigation are the work of a California-licensed attorney. (An insured handling their
+          own claim, of course, can reference the statute and regulations directly in their own
+          correspondence.)
+        </p>
+      </CalloutBox>
 
       {/* ====== SECTION I ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -54,128 +70,152 @@ export default function Content() {
         The Prohibited Practices Under 790.03(h)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 790.03(h) lists sixteen specific practices that constitute unfair claims settlement
-        practices when committed by an insurer. Every policyholder should know what these are, because
-        they describe — with remarkable precision — the exact tactics that insurance companies use
-        every day to underpay and deny claims:
+        Section 790.03(h) lists sixteen specific practices that, when committed by an insurer,
+        constitute unfair claims settlement practices &mdash; but only when the acts are committed{' '}
+        <strong>&ldquo;knowingly&rdquo;</strong> or{' '}
+        <strong>&ldquo;with such frequency as to indicate a general business
+        practice.&rdquo;</strong> A single mishandled claim is generally not, by itself, a
+        statutory UIPA violation; the threshold targets knowing conduct or patterns reflecting
+        company-wide practice. Below is the verbatim list of the sixteen prohibited practices
+        from the current statute:
       </p>
 
-      <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
-        <li>
-          <strong>Misrepresenting pertinent facts or insurance policy provisions.</strong> This
-          includes telling you something is not covered when it is, misquoting policy language,
-          or mischaracterizing the facts of your loss to justify a denial or reduced payment.
-        </li>
-        <li>
-          <strong>Failing to acknowledge and act reasonably promptly upon communications.</strong>{' '}
-          When you call, email, or write to your insurance company about your claim, they are
-          required to respond. Ignoring your communications or letting them sit unanswered for weeks
-          is a violation.
-        </li>
-        <li>
-          <strong>Failing to adopt and implement reasonable standards for the prompt investigation
-          of claims.</strong> The insurer must have actual procedures in place to investigate claims
-          promptly. Assigning an adjuster who has 200 open files and cannot get to yours for
-          six weeks is a failure to implement reasonable investigation standards.
-        </li>
-        <li>
-          <strong>Refusing to pay claims without conducting a reasonable investigation.</strong>{' '}
-          An insurer cannot deny your claim, or pay you less than what is owed, without first
-          conducting a thorough and fair investigation of the loss. A desk denial based on satellite
-          imagery when the adjuster never inspected the property is a textbook violation.
-        </li>
-        <li>
-          <strong>Not attempting in good faith to effectuate prompt, fair, and equitable settlements
-          of claims in which liability has become reasonably clear.</strong> This is the big one.
-          When the insurer knows the claim is valid and the amount is reasonably determinable, they
-          must attempt to settle it promptly and fairly — not delay, underpay, or pressure you into accepting less.
-        </li>
-        <li>
-          <strong>Compelling insureds to institute litigation to recover amounts due under an
-          insurance policy by offering substantially less than the amounts ultimately
-          recovered.</strong> If the insurer offers $30,000 on a claim that is ultimately resolved
-          for $120,000, the insurer may have compelled you to litigate to recover what was owed all
-          along.
-        </li>
-        <li>
-          <strong>Attempting to settle a claim on the basis of an application which was altered
-          without notice to, or knowledge or consent of, the insured.</strong>
-        </li>
-        <li>
-          <strong>Attempting to settle claims for less than the amount to which a reasonable person
-          would have believed he or she was entitled by reference to written or printed advertising
-          material accompanying or made part of an application.</strong>
-        </li>
-        <li>
-          <strong>Attempting to settle claims on the basis of an application which was materially
-          altered without notice to, or knowledge or consent of, the insured, his or her
-          representative, or agent.</strong>
-        </li>
-        <li>
-          <strong>Making claims payments to insureds or beneficiaries not accompanied by a
-          statement setting forth the coverage under which payments are being made.</strong> Every
-          check should come with documentation explaining what it covers. A payment with no
-          explanation of what it is for violates the statute.
-        </li>
-        <li>
-          <strong>Making known to insureds or claimants a practice of the insurer of appealing from
-          arbitration awards in favor of insureds or claimants for the purpose of compelling them to
-          accept settlements or compromises less than the amount awarded.</strong> In other words,
-          using the threat of endless appeals to bully policyholders into taking less.
-        </li>
-        <li>
-          <strong>Delaying the investigation or payment of claims by requiring that a claimant
-          submit a preliminary claim report, and then requiring submission of formal proof of loss
-          forms, both of which contain substantially the same information.</strong> Asking for the
-          same documentation repeatedly — or requiring you to fill out redundant forms — to slow
-          down the process is a violation.
-        </li>
-        <li>
-          <strong>Failing to settle claims promptly, where liability has become apparent, under one
-          portion of the insurance policy coverage in order to influence settlements under other
-          portions of the insurance policy coverage.</strong> This is the &ldquo;hold one part
-          hostage&rdquo; tactic. The insurer agrees that your dwelling damage is $80,000 but
-          refuses to pay it until you agree to accept their $15,000 contents offer.
-        </li>
-        <li>
-          <strong>Directly advising a claimant not to obtain the services of an attorney.</strong>{' '}
-          If your adjuster tells you &ldquo;you do not need a lawyer&rdquo; or &ldquo;hiring
-          an attorney will just slow things down,&rdquo; that statement is itself a statutory
-          violation.
-        </li>
-        <li>
-          <strong>Misleading a claimant as to the applicable statute of limitations.</strong> Telling
-          you that you have more time than you actually do — or less time — to protect the
-          insurer&apos;s position is a violation.
-        </li>
-        <li>
-          <strong>Not providing promptly a reasonable explanation of the basis relied on in the
-          insurance policy, in relation to the facts or applicable law, for the denial of a claim or
-          for the offer of a compromise settlement.</strong> If the insurer denies your claim or
-          offers a reduced payment, they must tell you why in writing, with reference to the policy
-          and the facts. A vague denial letter that says &ldquo;not covered&rdquo; without
-          explanation violates the statute.
-        </li>
-      </ol>
-
-      <CalloutBox variant="warning" title="Most Commonly Violated Subsections">
-        <p className="mb-2">
-          In property insurance claims, the subsections most frequently violated are:
+      <CalloutBox variant="legal" title="Cal. Ins. Code § 790.03(h) — Sixteen Prohibited Practices (verbatim)">
+        <p className="italic">
+          Knowingly committing or performing with such frequency as to indicate a general
+          business practice any of the following unfair claims settlement practices:
         </p>
-        <ul className="list-disc pl-4 space-y-1">
-          <li><strong>Subsection (1):</strong> Misrepresenting policy provisions to deny coverage</li>
-          <li><strong>Subsection (2):</strong> Failing to respond to communications</li>
-          <li><strong>Subsection (4):</strong> Denying claims without a reasonable investigation</li>
-          <li><strong>Subsection (5):</strong> Failing to attempt a fair settlement when liability is clear</li>
-          <li><strong>Subsection (12):</strong> Requiring duplicative documentation to delay the claim</li>
-          <li><strong>Subsection (13):</strong> Withholding payment on undisputed portions of the claim</li>
-          <li><strong>Subsection (16):</strong> Failing to provide a written explanation for a denial</li>
-        </ul>
-        <p className="mt-2">
-          If any of these sound familiar, you may be dealing with a statutory violation — and you
-          should put your insurer on notice.
-        </p>
+        <ol className="list-decimal pl-6 mt-2 space-y-2 italic">
+          <li>Misrepresenting to claimants pertinent facts or insurance policy provisions relating to any coverages at issue.</li>
+          <li>Failing to acknowledge and act reasonably promptly upon communications with respect to claims arising under insurance policies.</li>
+          <li>Failing to adopt and implement reasonable standards for the prompt investigation and processing of claims arising under insurance policies.</li>
+          <li>Failing to affirm or deny coverage of claims within a reasonable time after proof of loss requirements have been completed and submitted by the insured.</li>
+          <li>Not attempting in good faith to effectuate prompt, fair, and equitable settlements of claims in which liability has become reasonably clear.</li>
+          <li>Compelling insureds to institute litigation to recover amounts due under an insurance policy by offering substantially less than the amounts ultimately recovered in actions brought by the insureds, when the insureds have made claims for amounts reasonably similar to the amounts ultimately recovered.</li>
+          <li>Attempting to settle a claim by an insured for less than the amount to which a reasonable person would have believed he or she was entitled by reference to written or printed advertising material accompanying or made part of an application.</li>
+          <li>Attempting to settle claims on the basis of an application that was altered without notice to, or knowledge or consent of, the insured, his or her representative, agent, or broker.</li>
+          <li>Failing, after payment of a claim, to inform insureds or beneficiaries, upon request by them, of the coverage under which payment has been made.</li>
+          <li>Making known to insureds or claimants a practice of the insurer of appealing from arbitration awards in favor of insureds or claimants for the purpose of compelling them to accept settlements or compromises less than the amount awarded in arbitration.</li>
+          <li>Delaying the investigation or payment of claims by requiring an insured, claimant, or the physician of either, to submit a preliminary claim report, and then requiring the subsequent submission of formal proof of loss forms, both of which submissions contain substantially the same information.</li>
+          <li>Failing to settle claims promptly, where liability has become apparent, under one portion of the insurance policy coverage in order to influence settlements under other portions of the insurance policy coverage.</li>
+          <li>Failing to provide promptly a reasonable explanation of the basis relied on in the insurance policy, in relation to the facts or applicable law, for the denial of a claim or for the offer of a compromise settlement.</li>
+          <li>Directly advising a claimant not to obtain the services of an attorney.</li>
+          <li>Misleading a claimant as to the applicable statute of limitations.</li>
+          <li>Delaying the payment or provision of hospital, medical, or surgical benefits for services provided with respect to acquired immune deficiency syndrome or AIDS-related complex for more than 60 days after the insurer has received a claim for those benefits, where the delay in claim payment is for the purpose of investigating whether the condition preexisted the coverage.</li>
+        </ol>
       </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Plain English: What the Most Commonly Cited Subsections Mean in Practice
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In property insurance claims, the subsections most frequently cited by plaintiff
+        attorneys are (1), (2), (3), (5), (6), (11), (12), and (13). Plain-language
+        explanations of each (and how they intersect with the duty-to-investigate cases like
+        <em> Egan</em>):
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Subsection (1) &mdash; Misrepresenting policy provisions.</strong> Many
+          plaintiff attorneys argue this covers an adjuster telling an insured something is
+          not covered when it is, misquoting policy language, or mischaracterizing the facts
+          of the loss to justify a denial or reduced payment.
+        </li>
+        <li>
+          <strong>Subsection (2) &mdash; Failing to acknowledge or respond promptly.</strong>{' '}
+          Read alongside 10 CCR &sect;&sect; 2695.5(b) and 2695.5(e), which set specific
+          response and acknowledgment deadlines, this subsection often supports a record of
+          unreasonable delay.
+        </li>
+        <li>
+          <strong>Subsection (3) &mdash; Failing to adopt and implement reasonable
+          investigation standards.</strong> This is the subsection that connects most directly
+          to the duty-to-investigate framework established in{' '}
+          <em>Egan v. Mutual of Omaha</em> (1979) 24 Cal.3d 809. An insurer that denies a
+          claim without a thorough investigation may run afoul of this subsection (and of the
+          common-law duty).
+        </li>
+        <li>
+          <strong>Subsection (5) &mdash; Failing to attempt good-faith settlement when
+          liability is reasonably clear.</strong> The big one for property claims. Note that
+          the statutory threshold is &ldquo;liability has become reasonably clear&rdquo;
+          &mdash; a valuation dispute is not, by itself, a (5) violation.
+        </li>
+        <li>
+          <strong>Subsection (6) &mdash; Compelling litigation by offering substantially
+          less than ultimately recovered.</strong> The statutory trigger is amounts
+          &ldquo;ultimately recovered in actions&rdquo; with claim and recovery amounts
+          &ldquo;reasonably similar.&rdquo; A settlement, appraisal, or supplement that
+          increased the payout does not automatically satisfy the trigger.
+        </li>
+        <li>
+          <strong>Subsection (11) &mdash; Duplicative documentation requests.</strong>{' '}
+          Cycling an insured through preliminary claim reports and then formal proof-of-loss
+          forms requesting the same information.
+        </li>
+        <li>
+          <strong>Subsection (12) &mdash; Holding one coverage portion hostage to influence
+          settlement of another.</strong> The classic &ldquo;we&rsquo;ll pay the agreed
+          dwelling figure when you accept our contents offer&rdquo; tactic.
+        </li>
+        <li>
+          <strong>Subsection (13) &mdash; Failing to provide a reasonable written
+          explanation for denial.</strong> The denial letter must reference the policy and
+          the facts &mdash; a form letter saying &ldquo;not covered&rdquo; without
+          explanation generally falls short.
+        </li>
+      </ul>
+
+      {/* ====== SECTION III-A: Terminology Clarification ====== */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Adjuster Jargon: What &ldquo;790 Letter&rdquo; Usually Means &mdash; and How This Article Uses It
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Before going further, a terminology clarification, because the phrase{' '}
+        &ldquo;790 letter&rdquo; is California adjuster jargon and gets used in more than
+        one way:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
+        <li>
+          <strong>The standard adjuster usage.</strong> In California claims-handling
+          practice, a &ldquo;790 letter&rdquo; is the <strong>initial acknowledgment letter
+          the insurance adjuster sends to the insured at the start of a claim</strong>{' '}
+          &mdash; telling the insured what coverages apply and what their rights are. The
+          carrier sends it because &sect; 790.03 and the Fair Claims Settlement Practices
+          Regulations (10 CCR &sect;&sect; 2695.4 and 2695.5) require the insurer to
+          acknowledge the claim and disclose applicable coverages. That acknowledgment
+          letter is what most adjusters mean when they say &ldquo;the 790 letter went
+          out.&rdquo;
+        </li>
+        <li>
+          <strong>What a denial letter is &mdash; and is not.</strong> A denial letter
+          written to conform with the &sect; 790.03 statute (specifically the
+          reasoned-denial requirement at &sect; 790.03(h)(13) and 10 CCR &sect; 2695.7(b)(1))
+          is a separate, later document. Adjusters do <em>not</em> generally refer to a
+          denial letter as a &ldquo;790 letter,&rdquo; even though it has to comply with
+          the same statute.
+        </li>
+        <li>
+          <strong>How this article uses the term.</strong> In plaintiff-side bad-faith
+          practice, the phrase &ldquo;790 letter&rdquo; is sometimes used differently
+          &mdash; to describe a <em>notice letter the insured or their counsel sends to
+          the carrier</em>, citing specific subsections of &sect; 790.03(h) and documenting
+          conduct that may violate the statute. That is the usage the rest of this article
+          describes. It is a real practice tool, but it is plaintiff-bar shorthand, not the
+          adjuster-side meaning. Where this article says &ldquo;790 letter&rdquo; below, we
+          mean the insured-side notice letter, not the carrier&rsquo;s initial
+          acknowledgment.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The two usages of the same term do create confusion. If you are searching for
+        information about the acknowledgment letter you received from the carrier at the
+        start of your claim, the right reference points are the Fair Claims Settlement
+        Practices Regulations at 10 CCR &sect;&sect; 2695.4 (affirmative disclosure of
+        coverages) and 2695.5(b) (acknowledgment timelines). The rest of this article is
+        about the second usage &mdash; the insured-side notice letter citing
+        &sect; 790.03(h) violations.
+      </p>
 
       {/* ====== SECTION III ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -249,24 +289,24 @@ export default function Content() {
 
       {/* ====== SECTION V ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How to Write an Effective 790 Letter
+        What a Well-Drafted 790 Letter Typically Contains
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A 790 letter is only effective if it is specific, factual, and professional. A vague letter
-        that simply says &ldquo;you are violating the Insurance Code&rdquo; without identifying the
-        specific violations carries very little weight. Here is how to write one that gets results:
+        Effective 790 letters tend to share several characteristics. The summary below describes what counsel typically include &mdash; not a template a non-lawyer should attempt to draft from scratch.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Be Specific About the Violations</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Specificity About the Violations</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Cite the exact subsection(s) of 790.03(h) that apply to the insurer&apos;s conduct. Do not
-        simply say &ldquo;you violated the Insurance Code&rdquo; — say &ldquo;your conduct violates
-        Insurance Code Section 790.03(h)(5) in that you have failed to attempt in good faith to
-        effectuate a prompt, fair, and equitable settlement of this claim despite liability being
-        reasonably clear.&rdquo;
+        A 790 letter drafted by counsel typically cites the exact subsection(s) of 790.03(h)
+        and connects the specific facts to the statutory language. For example, counsel might
+        write: &ldquo;Your conduct appears to violate Insurance Code Section 790.03(h)(5) in
+        that, despite liability having become reasonably clear, you have failed to attempt in
+        good faith to effectuate a prompt, fair, and equitable settlement of this claim.&rdquo;
+        The point of the specificity is to create a record that ties the insurer&rsquo;s
+        conduct to the exact statutory prohibition.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Be Factual</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Factual Detail</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Describe what the insurer did or failed to do, with dates. &ldquo;On March 15, I submitted
         a supplement request with three contractor estimates documenting $47,000 in additional damage.
@@ -274,14 +314,14 @@ export default function Content() {
         constitutes a violation of Insurance Code Section 790.03(h)(2).&rdquo;
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Reference Specific Documents</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Reference to Specific Documents</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Point to the estimate, the denial letter, the adjuster&apos;s email, the inspection report,
         the contractor&apos;s scope — whatever documents support your position. The more specific
         your references, the harder it is for the insurer to dismiss your letter.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Be Professional, Not Emotional</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Professional Tone</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is not the place for anger or frustration. The 790 letter should read like a document
         that could be presented to a judge — because it may be. Be precise, be factual, and let the
@@ -289,7 +329,7 @@ export default function Content() {
         add editorial commentary.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">State What You Expect</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Clear Statement of Remedy Sought</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Tell the insurer specifically what you want them to do: pay the claim, issue the supplement,
         correct the estimate, provide the documentation they are withholding, respond to your
@@ -297,14 +337,14 @@ export default function Content() {
         them a reasonable deadline to respond.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Preserve Your Proof of Delivery</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Proof of Delivery Preservation</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Keep a copy and send the letter by certified mail with return receipt requested, or by email
         with delivery/read confirmation. If you send it by email, consider also sending a hard copy
         by certified mail. The delivery confirmation becomes part of the record.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Consider Multiple Recipients</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Distribution to Multiple Recipients</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Sending the letter to the adjuster alone may not be sufficient. Consider also sending it to
         the adjuster&apos;s supervisor, the claims department manager, or the insurer&apos;s home
@@ -317,10 +357,7 @@ export default function Content() {
           <li>Keep each letter focused on one to three specific violations — a letter citing every subsection looks scattershot</li>
           <li>Include your claim number, policy number, date of loss, and the adjuster&apos;s name in the header</li>
           <li>Attach copies (not originals) of the documents you reference</li>
-          <li>If you are working with a{' '}
-            <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>,
-            they should be drafting or reviewing these letters — this is part of managing the claim
-          </li>
+          <li>If a public adjuster is involved, the PA typically develops the factual record &mdash; documenting missed deadlines, inadequate investigations, communications history &mdash; that supports the statutory analysis; when the matter rises to formal statutory accusation, an attorney typically handles the letter drafting and signs the letter</li>
           <li>A 790 letter can also be sent in conjunction with a{' '}
             <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">CDI complaint</Link>{' '}
             — the complaint addresses the regulatory violation while the 790 letter addresses the statutory violation</li>
@@ -348,7 +385,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Refusing to Pay Undisputed Portions — Subsection (13)
+        Holding One Coverage Portion Hostage — Subsection (12)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Your dwelling claim has $80,000 in damage that both sides agree to, plus $40,000 in
@@ -358,7 +395,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Requiring Duplicative Documentation — Subsection (12)
+        Requiring Duplicative Documentation — Subsection (11)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         You submit a contents inventory. The insurer acknowledges receipt. Three weeks later, a new
@@ -368,7 +405,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Denying Claims Without Investigation — Subsection (4)
+        Denying Claims Without Adequate Investigation — Subsection (3) (and duty-to-investigate case law)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer denies your claim based on a desk review, satellite imagery, or a phone call —
@@ -377,7 +414,7 @@ export default function Content() {
         <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] hover:underline">
           duty to investigate
         </Link>{' '}
-        is not optional, and a denial based on an inadequate investigation violates subsection (4).
+        is not optional, and a denial based on an inadequate investigation may violate subsection (3) and the duty-to-investigate framework in Egan and progeny.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -404,7 +441,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Not Providing Written Denial With Reasons — Subsection (16)
+        Not Providing a Reasonable Written Explanation for Denial — Subsection (13)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer denies your claim or offers a reduced amount but provides no written explanation
@@ -425,19 +462,29 @@ export default function Content() {
         fairly.
       </p>
 
-      <CalloutBox variant="legal" title="Moradi-Shalal: No Private Right of Action Under 790.03">
+      <CalloutBox variant="legal" title="Moradi-Shalal and Zhang: No Private Right of Action Under §790.03">
         <p className="mb-2">
-          In <em>Moradi-Shalal v. Fireman&apos;s Fund Insurance Companies</em> (1988), the
-          California Supreme Court held that Insurance Code Section 790.03 does <strong>not</strong>{' '}
-          create a direct private right of action. This means you cannot sue your insurance company
-          solely for violating 790.03 — the statute itself does not give you standing to bring a
-          claim in court based on that violation alone.
+          In <em>Moradi-Shalal v. Fireman&apos;s Fund Insurance Companies</em> (1988) 46 Cal.3d
+          287, the California Supreme Court held that Insurance Code Section 790.03 does{' '}
+          <strong>not</strong> create a direct private right of action. An insured cannot sue an
+          insurer solely for violating 790.03 &mdash; the statute itself does not give the
+          insured standing to bring a claim in court based on that violation alone. CDI enforces
+          the statute through administrative proceedings.
+        </p>
+        <p className="mb-2">
+          Two decades later, the California Supreme Court in{' '}
+          <em>Zhang v. Superior Court</em> (2013) 57 Cal.4th 364 confirmed{' '}
+          <em>Moradi-Shalal</em>&rsquo;s bar on direct private UIPA enforcement but held that
+          policyholders can pursue Unfair Competition Law (UCL, Bus. &amp; Prof. Code &sect; 17200)
+          claims based on conduct that violates the Insurance Code &mdash; provided the UCL
+          claim does not rely on a private right of action under &sect; 790.03 itself.
         </p>
         <p>
-          However — and this is critical — the conduct described in 790.03(h) <strong>is the same
-          conduct</strong> that constitutes bad faith under the common law. The statute defines what
-          unfair claims practices look like; the cause of action comes from the implied covenant of
-          good faith and fair dealing.
+          The conduct described in 790.03(h) often overlaps with the conduct that may constitute
+          bad faith under the common law. The statute defines what unfair claims practices look
+          like; the common-law cause of action comes from the implied covenant of good faith and
+          fair dealing. A statutory or regulatory violation alone does not automatically equate
+          to bad faith, and bad faith can exist even without a statutory violation.
         </p>
       </CalloutBox>
 
@@ -458,13 +505,13 @@ export default function Content() {
           for a full discussion of this nuance.
         </li>
         <li>
-          It is sometimes possible, in lawsuits filed by insureds against their carriers, to prove
-          that an insurance company had a <strong>pattern and practice</strong> of mistreating
-          numerous homeowners in the same way. The <em>Colonial</em> case in California illustrates
-          how plaintiff attorneys can demand this kind of discovery to show that the insurer&apos;s
-          conduct toward the policyholder was not an isolated incident but part of a company-wide
-          pattern. This is not legal advice — consult an attorney about whether such discovery is
-          appropriate in your case.
+          In litigation, plaintiff counsel sometimes demonstrate that an insurance company had a{' '}
+          <strong>pattern and practice</strong> of mistreating numerous homeowners similarly.{' '}
+          <em>Colonial Life &amp; Accident Insurance Co. v. Superior Court</em> (1982) 31 Cal.3d
+          785 is often cited for the proposition that pattern-and-practice discovery can be
+          available to show that the insurer&rsquo;s conduct toward an individual policyholder
+          was not an isolated incident but part of a company-wide pattern. The scope and
+          availability of such discovery is fact-specific and a question for counsel.
         </li>
         <li>
           The 790 letter documents violations of the exact same standards that courts use to evaluate
@@ -553,17 +600,20 @@ export default function Content() {
       {/* ───────── CTA ───────── */}
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
-          Your Insurer Is not Following the Rules — Now What?
+          Your Insurer Is Not Following the Rules &mdash; Now What?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          A Public Adjuster can identify statutory violations, draft 790 letters, and build the
-          documentation record that protects your rights throughout the claims process.
+          A licensed public adjuster can identify the factual conduct that may overlap with the
+          statutory standards and build the documentation record that supports the analysis.
+          When statutory accusations are appropriate, an attorney is the right person to draft
+          and sign a formal 790 letter. Many public adjusters and attorneys provide a free
+          initial consultation.
         </p>
         <Link
           href="/contact"
           className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors"
         >
-          Request a Free Claim Review →
+          Request a Free Claim Review &rarr;
         </Link>
       </div>
 
