@@ -17,9 +17,9 @@ export default function Content() {
         <p>
           This article is written by a California Licensed Public Adjuster for educational purposes.
           It is not legal advice. Case law referenced in this article is provided for educational
-          context only and should not be cited in correspondence with insurance carriers. Insurance
-          policies and applicable law vary. Consult with a licensed professional regarding your
-          specific situation.
+          context only. Insurance policies and applicable law vary, and developing legal arguments
+          or theories is the work of a California-licensed attorney (Insurance Code &sect; 15002).
+          Consult a licensed attorney regarding your specific situation.
         </p>
       </CalloutBox>
 
@@ -533,8 +533,8 @@ export default function Content() {
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.
         Insurance policies and applicable law vary by state and by policy form. Case law
-        referenced herein is for educational context and should not be cited in correspondence
-        with insurance carriers. Consult with a licensed professional regarding your specific
+        referenced herein is for educational context. Developing and asserting legal theories is
+        the work of a California-licensed attorney; consult one regarding your specific
         situation.
       </p>
     </>

@@ -16,11 +16,11 @@ export default function Content() {
       <CalloutBox variant="legal" title="Legal Disclaimer">
         <p>
           This article is for educational purposes only and does not constitute legal advice.
-          The distinction between fraud and bad faith is legally complex and fact-specific.
-          Real-life case examples are discussed for general educational context &mdash; they
-          should not be cited in letters to insurance carriers, as doing so may constitute the
-          unauthorized practice of law. Consult a licensed California attorney before pursuing
-          any legal action.
+          The distinction between fraud and bad faith is legally complex and fact-specific. A
+          public adjuster&rsquo;s role is to document the carrier&rsquo;s conduct and handle the
+          claim; the development of legal arguments, the selection of legal theories, and the
+          conduct of litigation are the work of a California-licensed attorney (Insurance Code
+          &sect; 15002). Consult a licensed California attorney before pursuing any legal action.
         </p>
       </CalloutBox>
 
@@ -592,11 +592,10 @@ export default function Content() {
       <CalloutBox variant="legal" title="Disclaimer">
         <p>
           This article provides general educational information about insurance fraud and bad
-          faith concepts. It is not legal advice. The case examples discussed are for
-          illustrative purposes and should not be cited in correspondence with insurance
-          carriers. Every claim is different, and the legal analysis applicable to your
-          situation depends on the specific facts. Consult a licensed California attorney for
-          legal advice about your claim.
+          faith concepts. It is not legal advice. Every claim is different, and the legal
+          analysis applicable to your situation depends on the specific facts. Developing and
+          asserting legal theories is the work of a California-licensed attorney; consult one
+          for legal advice about your claim.
         </p>
       </CalloutBox>
 
