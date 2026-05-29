@@ -112,27 +112,32 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="important" title="Emotional Distress for Breach of Contract Alone">
+      <CalloutBox variant="important" title="Emotional Distress Comes Through the Bad-Faith Tort, Not Bare Breach of Contract">
         <p>
           Under ordinary contract law, emotional distress damages are generally not recoverable
-          for breach of contract. But insurance contracts are different. In{' '}
-          <em>Crisci v. Security Insurance Co.</em> (1967) 66 Cal.2d 425, the California Supreme
-          Court held that because insurance contracts are &ldquo;personal&rdquo; in nature &mdash;
-          they protect against the risk of financial catastrophe and directly affect the
-          policyholder&rsquo;s peace of mind and security &mdash; emotional distress damages
-          can be recovered for breach of an insurance contract <em>even without proving bad
-          faith</em>. This means that a policyholder who proves only breach of contract (not
-          the tort of bad faith) may still recover emotional distress damages. This is a
-          significant expansion beyond what is available in most other contract disputes.
+          for breach of contract &mdash; the California Supreme Court reaffirmed this in{' '}
+          <em>Erlich v. Menezes</em> (1999) 21 Cal.4th 543. Insurance is the recognized
+          <em> exception</em>, but the exception runs through the <strong>tort</strong> of bad
+          faith, not through a bare breach-of-contract claim. In{' '}
+          <em>Crisci v. Security Ins. Co.</em> (1967) 66 Cal.2d 425, the California Supreme Court
+          allowed a policyholder to recover for mental suffering because the insurer&rsquo;s
+          refusal to settle breached the implied covenant of good faith and fair dealing &mdash;
+          a tortious wrong, not merely a breach of the policy&rsquo;s express terms. The vehicle
+          for emotional distress in an insurance case is therefore the bad-faith tort itself. A
+          policyholder who establishes <em>only</em> a bare breach of contract, without the
+          unreasonable conduct that makes out bad faith, generally cannot recover emotional
+          distress.
         </p>
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The key point is this: extra-contractual damages do not require proving bad faith. They
-        can be available in a straightforward breach of contract action. If the insurer breached
-        the policy and that breach caused you consequential losses or emotional distress, those
-        damages may be recoverable without ever reaching the question of whether the insurer&rsquo;s
-        conduct was &ldquo;unreasonable&rdquo; in the bad faith sense.
+        The key point is this: <em>some</em> extra-contractual damages do not require proving bad
+        faith. <strong>Consequential economic losses</strong> &mdash; the foreseeable financial
+        harm caused by the insurer&rsquo;s failure to pay &mdash; can be recoverable in a
+        straightforward breach of contract action, without reaching the question of whether the
+        insurer&rsquo;s conduct was &ldquo;unreasonable&rdquo; in the bad faith sense. Emotional
+        distress is different: in California it generally rides on the bad-faith tort, not on a
+        bare breach-of-contract claim (see the box above).
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -167,7 +172,10 @@ export default function Content() {
           the insurer&rsquo;s conduct amounts to malice, oppression, or fraud. Punitive damages
           are designed to punish egregious conduct and deter similar behavior. They are not
           available for breach of contract alone &mdash; they require a tort theory like bad faith.
-          California does not cap punitive damages in insurance bad faith cases.
+          California sets no fixed dollar cap on punitive damages, but federal due process limits
+          them: under <em>State Farm v. Campbell</em> (2003) 538 U.S. 408 and{' '}
+          <em>Simon v. San Paolo</em> (2005) 35 Cal.4th 1159, awards are generally confined to a
+          low single-digit multiple of the compensatory damages.
         </li>
         <li>
           <strong>Brandt fees</strong> &mdash; attorney&rsquo;s fees incurred in recovering the
@@ -207,17 +215,18 @@ export default function Content() {
           &mdash; the type that arises from the tort of bad faith
         </li>
         <li>
-          But extra-contractual damages can also arise from <strong>breach of contract
-          alone</strong>, without any tort theory &mdash; particularly consequential damages
-          and, under <em>Crisci</em>, emotional distress
+          But some extra-contractual damages can also arise from <strong>breach of contract
+          alone</strong>, without any tort theory &mdash; particularly consequential economic
+          damages. (Emotional distress is the exception: in California it generally requires the
+          bad-faith tort, not a bare breach-of-contract claim.)
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Think of it this way: if you drew a circle for &ldquo;extra-contractual damages,&rdquo;
-        bad faith damages would be a circle entirely inside it &mdash; plus some territory that
-        extends beyond it (punitive damages, Brandt fees). The extra-contractual circle also
-        contains territory that bad faith does not occupy &mdash; consequential and emotional
-        distress damages recoverable for breach of contract alone.
+        bad faith damages would be a circle largely inside it &mdash; plus territory that bad
+        faith alone reaches (punitive damages, Brandt fees, emotional distress). The
+        extra-contractual circle also contains territory that does not require bad faith &mdash;
+        the consequential economic losses recoverable for breach of contract.
       </p>
 
       <CalloutBox variant="tip" title="The Practical Distinction">
@@ -233,13 +242,12 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        One additional complication: some extra-contractual damages &mdash; like emotional distress
-        under <em>Crisci</em> &mdash; can be pled under either a contract theory or a tort theory.
-        The choice of theory affects not just what you have to prove, but also which statute of
-        limitations applies. A claim for emotional distress pled as part of a breach of contract
-        action carries the four-year contract statute of limitations. The same claim pled as part
-        of a bad faith tort action carries the two-year tort statute. Same damages, different
-        deadlines, different proof requirements.
+        The choice of theory drives both the proof required and the deadline that applies.
+        Consequential economic losses can be pursued under the four-year contract statute of
+        limitations or as part of a two-year bad-faith tort claim. Emotional distress and the
+        tort-only remedies (punitive damages, Brandt fees), by contrast, depend on establishing
+        bad faith and therefore travel with the two-year tort statute &mdash; one more reason the
+        two theories are usually pled together.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -289,11 +297,14 @@ export default function Content() {
         Elder Abuse as an Alternative Path
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For policyholders who are 65 or older or who qualify as dependent adults, California&rsquo;s
-        Elder Abuse and Dependent Adult Civil Protection Act (Welfare &amp; Institutions Code
-        &sect;15610 et seq.) provides a separate avenue to enhanced damages. An elder abuse claim
-        can unlock attorney&rsquo;s fees, costs of suit, and enhanced remedies through a statutory
-        path that is distinct from both breach of contract and the common-law tort of bad faith.
+        Where the policyholder is 65 or older or a dependent adult, California&rsquo;s Elder Abuse
+        and Dependent Adult Civil Protection Act (Welfare &amp; Institutions Code &sect; 15610
+        et seq.) may provide a separate avenue to enhanced damages &mdash; but age alone is not
+        enough. The claim requires <em>financial abuse</em> as defined in &sect; 15610.30: a
+        taking, secreting, appropriating, or retaining of the elder&rsquo;s property for a
+        wrongful use or by undue influence. Where those elements are met, an elder abuse claim
+        can unlock attorney&rsquo;s fees, costs of suit, and other enhanced remedies through a
+        statutory path distinct from both breach of contract and the common-law tort of bad faith.
         For more on this topic, see our article on{' '}
         <Link href="/resources/elder-abuse-insurance" className="text-[#2E74B5] underline">
           elder abuse in insurance claims
@@ -375,10 +386,10 @@ export default function Content() {
         This is why the distinction between extra-contractual damages and bad faith damages is so
         important strategically. A policyholder whose bad faith claim is defeated by the genuine
         dispute defense has not necessarily lost everything beyond the policy amount. The
-        consequential damages &mdash; the financial harm caused by the insurer&rsquo;s failure to
-        pay when it should have &mdash; may still be recoverable as extra-contractual damages under
-        the breach of contract theory. The emotional distress under <em>Crisci</em> may still be
-        on the table. Only the tort-specific remedies (punitive damages, Brandt fees) are lost.
+        consequential economic damages &mdash; the foreseeable financial harm caused by the
+        insurer&rsquo;s failure to pay when it should have &mdash; may still be recoverable under
+        the surviving breach of contract claim. What is lost along with the bad-faith tort are
+        the tort-only categories: punitive damages, Brandt fees, and emotional distress.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -417,9 +428,11 @@ export default function Content() {
                 Emotional distress
               </td>
               <td className="border border-gray-300 px-4 py-2">
-                Yes (under <em>Crisci</em>)
+                Generally no (requires the bad-faith tort)
               </td>
-              <td className="border border-gray-300 px-4 py-2">Yes</td>
+              <td className="border border-gray-300 px-4 py-2">
+                Yes (<em>Crisci</em>)
+              </td>
             </tr>
             <tr className="bg-gray-50">
               <td className="border border-gray-300 px-4 py-2 font-semibold">Punitive damages</td>
