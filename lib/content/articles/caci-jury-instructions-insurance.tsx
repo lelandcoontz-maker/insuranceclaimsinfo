@@ -150,8 +150,9 @@ export default function Content() {
         <p>
           Technically, no. CACI instructions are not statutes, and they are not case law. They are
           approved by the Judicial Council of California as guidance for trial courts, and California
-          Rule of Court 2.1050 requires judges to use CACI instructions &ldquo;unless the judge
-          finds that a different instruction would more accurately state the law.&rdquo; In practice,
+          Rule of Court 2.1050 strongly encourages judges to use CACI instructions, recommending
+          that a judge use the applicable instruction &ldquo;unless the judge finds that a different
+          instruction would more accurately state the law.&rdquo; In practice,
           CACI instructions carry enormous authority. Appellate courts regularly cite them, attorneys
           rely on them, and departing from an approved CACI instruction can be grounds for reversal
           on appeal. While they do not have the force of law in the way a statute or Supreme Court
