@@ -181,26 +181,38 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        <em>Julian v. Hartford Underwriters</em> (2005): The Final Word on Policy Language
+        <em>Julian v. Hartford Underwriters</em> (2005): The Limit of the Doctrine
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Heavy rains caused a slope failure above the Julians&rsquo; West Hills home, sending
         a tree crashing into their house. Hartford denied the claim, citing exclusions for
-        earth movement, design and construction defects, and weather conditions that
-        contribute to an excluded cause.
+        earth movement, design and construction defects, and weather conditions that combine
+        with an excluded cause. <em>Julian</em> is often described as a policyholder
+        victory &mdash; but it is actually the case that marks the doctrine&rsquo;s outer limit,
+        and the policyholder lost.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Supreme Court confirmed two principles that remain the law today:
+        The California Supreme Court confirmed the core rule on one side and its limit on the
+        other. On one side: where a <strong>covered</strong> peril is the efficient proximate
+        cause, an insurer cannot use policy language to exclude the loss &mdash; the doctrine is
+        rooted in Insurance Code Section 530, and an exclusion is unenforceable to the extent it
+        conflicts with that rule.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        First, insurers <strong>cannot exclude the application of the efficient proximate
-        cause doctrine through policy language</strong>. The doctrine is rooted in Insurance
-        Code Section 530, and policy provisions that attempt to override it are unenforceable.
+        On the other side &mdash; and this is what <em>Julian</em> actually held on its
+        facts &mdash; where the efficient proximate cause is an <strong>excluded</strong> peril,
+        an insurer <em>may</em> enforce the exclusion, including an exclusion written in terms of
+        a relationship between two perils (such as weather conditions that combine with earth
+        movement). The predominant cause of the Julians&rsquo; loss was a rain-induced landslide,
+        an excluded earth-movement peril, so the Court <strong>upheld Hartford&rsquo;s exclusion
+        and the denial of coverage</strong>. The doctrine protects a policyholder when a covered
+        peril predominates; it does not manufacture coverage when the predominant cause is
+        excluded, and it does not void every combined-peril exclusion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Second, the efficient proximate cause determination is a question of fact. Courts must
-        identify the predominant cause based on the evidence, not based on how the insurer
-        characterizes the loss.
+        The Court also confirmed that identifying the efficient proximate cause is generally a{' '}
+        <strong>question of fact</strong> &mdash; decided on the evidence, not on the
+        insurer&rsquo;s preferred characterization of the loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Julian v. Hartford Underwriters Insurance Co.</em>, 35 Cal.4th 747, 110 P.3d 903
@@ -256,9 +268,14 @@ export default function Content() {
         and reflects public policy that parties cannot contractually override.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Julian v. Hartford</em> (2005) confirmed this at the Supreme Court level:
-        &ldquo;policy exclusions are unenforceable to the extent they conflict with&rdquo; the
-        Insurance Code and the efficient proximate cause doctrine.
+        The California Supreme Court has confirmed the underlying principle: a policy exclusion
+        is unenforceable to the extent it conflicts with Insurance Code Section 530 and the
+        efficient proximate cause doctrine. But as <em>Julian v. Hartford</em> (2005) shows, that
+        protection applies when a <em>covered</em> peril is the predominant cause &mdash; it does
+        not bar an exclusion where the predominant cause is itself an excluded peril. The
+        anti-concurrent-causation clause cannot defeat coverage when a covered peril is the
+        efficient proximate cause (<em>Howell</em>); it is not a guarantee of coverage whenever
+        any covered peril happens to be present.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Howell v. State Farm Fire &amp; Casualty Co.</em>, 218 Cal.App.3d 1446, 267
