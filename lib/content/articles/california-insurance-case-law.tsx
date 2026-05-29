@@ -227,9 +227,10 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Jordan</em> addressed one of the most common forms of insurer misconduct: failing to
-        properly investigate a claim before denying or underpaying it. The insured filed a theft
-        claim, and Allstate denied it based on a superficial investigation that ignored
-        substantial evidence supporting the claim.
+        properly investigate a claim before denying or underpaying it. Allstate denied a
+        first-party property claim after an investigation that did not examine all of the bases
+        of the claim, and the court&rsquo;s reasoning reaches any denial built on an incomplete
+        investigation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>The Holding:</strong> The court held that an insurer has an affirmative{' '}
@@ -596,7 +597,7 @@ export default function Content() {
       {/* ───── Devonwood ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         2. <em>Devonwood Condominium Owners Association v. Farmers Insurance Exchange</em> (2008)
-        167 Cal.App.4th 1498
+        162 Cal.App.4th 1498
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Devonwood</em> extended <em>Kacha</em> by addressing how the appraisal panel&rsquo;s
@@ -605,24 +606,24 @@ export default function Content() {
         the scope of the panel&rsquo;s authority and the umpire&rsquo;s conduct.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The Holding:</strong> The court held that the <strong>appraisal panel has
-        authority to determine the scope of damage</strong> that falls within the appraisal
-        &mdash; but only as to <em>amount</em>, consistent with <em>Kacha</em>. The court also
-        emphasized that the <strong>umpire must be neutral and disinterested</strong>. An umpire
-        who exhibits bias toward one party or who exceeds the panel&rsquo;s authority undermines
-        the integrity of the entire process. The court reinforced that appraisal is a
-        quasi-arbitration proceeding subject to the protections of the California Arbitration Act
-        (CCP &sect; 1280 et seq.).
+        <strong>The Holding:</strong> After the panel issued its award &mdash; which segregated
+        the disputed value of interior painting from the other items &mdash; the trial court
+        entered a money judgment for the entire amount. The Court of Appeal <strong>vacated that
+        judgment</strong>, holding that under <strong>Code of Civil Procedure &sect; 1287.4</strong>
+        a judgment confirming an appraisal award must <strong>conform to the award</strong>. The
+        award fixed values but did not resolve liability for the disputed item, so a judgment for
+        the full sum did not match what the panel actually decided. Appraisal remains a
+        quasi-arbitration proceeding reviewed under the California Arbitration Act, but the
+        judgment that enforces an award cannot silently expand it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Significance:</strong> <em>Devonwood</em> matters for two reasons. First, it
-        confirmed that within the scope of &ldquo;amount,&rdquo; the panel has real authority to
-        evaluate the extent of damage &mdash; the insurer cannot artificially narrow the
-        appraisal to only the items it has already agreed to pay. Second, by emphasizing umpire
-        neutrality, <em>Devonwood</em> established that the umpire&rsquo;s role is fundamentally
-        different from the appraisers&rsquo; roles. The appraisers are advocates for their
-        respective sides; the umpire is the neutral tiebreaker. When the umpire acts as an
-        advocate or favors one side, the award is compromised.
+        <strong>Significance:</strong> <em>Devonwood</em> polices the line between the appraisal
+        award and the court judgment that enforces it. An appraisal panel decides the dollar value
+        of the loss; it does not decide coverage or liability. When the award is reduced to a
+        judgment, that judgment must track the award &mdash; it cannot be inflated to resolve a
+        dispute, such as contested liability for a particular item, that the panel did not and
+        could not decide. For policyholders and insurers alike, the precise wording of the award
+        controls what can ultimately be enforced.
       </p>
 
       {/* ───── Lee ───── */}
@@ -634,26 +635,26 @@ export default function Content() {
         party simply ignore it?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The Holding:</strong> The court held that appraisal awards carry a{' '}
-        <strong>strong presumption of finality</strong> and are subject to{' '}
-        <strong>confirmation and enforcement</strong> under the California Arbitration Act. A
-        party seeking to vacate an appraisal award bears a heavy burden and must establish one
-        of the narrow grounds set forth in <strong>CCP &sect; 1286.2</strong>: corruption, fraud,
-        or other undue means; partiality of the umpire; misconduct of the panel that
-        substantially prejudiced a party&rsquo;s rights; the panel exceeding its powers; or the
-        panel&rsquo;s refusal to hear material evidence.
+        <strong>The Holding:</strong> The court addressed the <em>scope</em> of what an appraisal
+        panel can be compelled to value. It held that it was <strong>error to compel the panel to
+        assign a value to every item on the insured&rsquo;s scope of loss</strong> regardless of
+        whether an inspection showed the item was undamaged or never existed. A panel values the
+        loss; it cannot be forced to put a number on items a simple inspection shows were not
+        damaged or were never there. The court also explained that while parties <em>may</em>
+        agree to appraise a loss that involves coverage, causation, or interpretation disputes,
+        the award in that situation should show that the panel decided only the dollar value and
+        did not resolve those legal questions. Like any appraisal award, the result is enforceable
+        under the arbitration framework and subject to vacation only on the narrow grounds in{' '}
+        <strong>CCP &sect; 1286.2</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Significance:</strong> <em>Lee</em> gives appraisal awards real teeth. Without
-        enforceability, appraisal would be an advisory process that either party could disregard.
-        By applying the arbitration framework &mdash; including the strong presumption in favor of
-        the award and the narrow grounds for vacation &mdash; <em>Lee</em> ensures that once the
-        appraisal panel has spoken, the award is binding absent extraordinary circumstances. This
-        also means that the process <em>must</em> be conducted properly, because an award issued
-        through a flawed process can be challenged under CCP &sect; 1286.2. The finality
-        principle cuts both ways: it protects the winning party from having the award relitigated,
-        but it also means that procedural irregularities during the appraisal may be the only
-        basis for challenging an unfavorable result.
+        <strong>Significance:</strong> <em>Lee</em> guards against a misuse of appraisal in both
+        directions: a panel should value what was actually lost, not rubber-stamp a list of items
+        that inspection shows were undamaged or never existed. More broadly, appraisal awards are
+        enforceable under the arbitration framework and, once issued, can be vacated only on the
+        narrow grounds in CCP &sect; 1286.2 &mdash; which is why the process must be conducted
+        properly and why procedural objections should be raised contemporaneously rather than
+        after the award.
       </p>
 
       <CalloutBox variant="warning" title="Appraisal Awards Are Difficult to Overturn">
@@ -677,29 +678,28 @@ export default function Content() {
         obligation to be neutral and the procedural safeguards that apply to arbitration awards.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The Holding:</strong> The court held that the appraisal process is governed by
-        the California Arbitration Act (CCP &sect; 1280 et seq.), which means the umpire in an
-        appraisal proceeding is subject to the <strong>disclosure requirements of CCP
-        &sect; 1281.9</strong>. Those provisions require a neutral arbitrator (or umpire) to
-        disclose any grounds for disqualification, including financial interests, prior
-        relationships with the parties, and any other circumstances that could create an
-        appearance of partiality. The court also held that the appraisal panel exceeded its
-        authority when it made factual determinations about the identity of lost property rather
-        than limiting itself to valuation &mdash; reinforcing the <em>Kacha</em> principle that
-        the panel determines amount, not coverage or factual disputes beyond its scope.
+        <strong>The Holding:</strong> Because of the close similarity between appraisal and
+        arbitration, the court reviewed the appraisal award under the general standards applicable
+        to arbitration awards (CCP &sect; 1280 et seq.). Applying those standards, it held that
+        the appraisal panel <strong>exceeded its authority</strong> when it made factual
+        determinations about the <em>identity</em> of the lost property &mdash; finding that a set
+        of paintings was unmatched and therefore less valuable &mdash; rather than limiting itself
+        to valuation. Whether an insured lost what they claimed to have lost is a question of
+        possible misrepresentation or fraud for the trial court, not a question for the appraisal
+        panel. This reinforces the <em>Kacha</em> principle that the panel determines amount, not
+        coverage or factual disputes beyond its scope.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Significance:</strong> <em>Sharma</em> matters enormously in practice because
-        the insurance appraisal world is small. Umpires who serve regularly may have repeated
-        relationships with insurers, insurer-appointed appraisers, or law firms that represent
-        carriers. Because appraisal is subject to the Arbitration Act, the disclosure
-        requirements of CCP &sect; 1281.9 apply: these relationships must be disclosed before
-        the appraisal begins. If the umpire has been appointed by the same insurer in ten prior
-        appraisals, or if the umpire has a financial relationship with the insurer&rsquo;s
-        appraiser, that must be disclosed. The disclosure obligation protects the integrity of the
-        process by ensuring that both sides have the information they need to evaluate the
-        umpire&rsquo;s neutrality. When the umpire fails to disclose, the resulting award is
-        vulnerable to vacation &mdash; even if the award itself was substantively reasonable.
+        <strong>Significance:</strong> <em>Sharma</em> keeps the appraisal panel in its lane:
+        valuing the loss, not adjudicating what was or was not lost. That line &mdash; between
+        &ldquo;how much is it worth&rdquo; and &ldquo;did this item exist, and what is it&rdquo;
+        &mdash; is exactly where panels overreach. Separately, and as a matter of <em>current</em>
+        law rather than anything decided in 1984, because appraisal is treated like arbitration the
+        neutral umpire today is subject to the disclosure duties the Legislature later adopted for
+        arbitrators (CCP &sect; 1281.9, effective 2002, and the Judicial Council&rsquo;s ethics
+        standards). The appraisal world is small; umpires who serve repeatedly may have
+        relationships with insurers or their appraisers, and those must be disclosed so both sides
+        can evaluate the umpire&rsquo;s neutrality.
       </p>
 
       {/* ───── Lambert ───── */}
@@ -833,22 +833,22 @@ export default function Content() {
           will decide. Coverage questions are for the courts.
         </li>
         <li>
-          <strong>Process (<em>Devonwood</em>):</strong> Within the scope defined by the
-          principals, the panel has real authority to evaluate the extent and value of damage. The
-          insurer cannot artificially narrow the appraisal, and the process is subject to the
-          protections of the California Arbitration Act.
+          <strong>Conformance (<em>Devonwood</em>):</strong> The court judgment that enforces an
+          appraisal award must conform to the award (CCP &sect; 1287.4). A judgment cannot be
+          inflated to resolve liability the panel never decided.
         </li>
         <li>
-          <strong>Finality (<em>Lee</em>):</strong> Appraisal awards carry a strong presumption
-          of finality. Once issued, an award can only be vacated on the narrow grounds set forth
-          in CCP &sect; 1286.2. This makes the <em>process</em> critically important, because a
-          flawed process may be the only basis for challenging an unfavorable result.
+          <strong>Valuation Limits (<em>Lee</em>):</strong> A panel values real, inspectable
+          losses &mdash; it cannot be compelled to assign a value to items that inspection shows
+          were undamaged or never existed. Awards are final, vacated only on the narrow grounds in
+          CCP &sect; 1286.2, so the process must be conducted properly.
         </li>
         <li>
-          <strong>Neutrality (<em>Sharma</em>):</strong> The umpire must be neutral and must
-          disclose all potential conflicts of interest under CCP &sect; 1281.9. Failure to
-          disclose is itself a ground for vacating the award, regardless of whether the
-          undisclosed conflict actually affected the outcome.
+          <strong>Panel Limits &amp; Neutrality (<em>Sharma</em>):</strong> The panel cannot
+          decide the identity or existence of lost property &mdash; that is for the court. And
+          because appraisal is treated like arbitration, the neutral umpire is subject to modern
+          disclosure duties (CCP &sect; 1281.9, adopted in 2002, well after <em>Sharma</em>);
+          failure to disclose can be a ground for vacating the award.
         </li>
         <li>
           <strong>Role Clarity (<em>Lambert</em>):</strong> Party appraisers are advocates; the
@@ -866,11 +866,12 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         These six principles are mutually reinforcing. <em>Kacha</em> defines what the panel
-        can decide (amount, not coverage). <em>Devonwood</em> ensures the panel has real
-        authority within that scope. <em>Lee</em> makes the result binding. <em>Sharma</em>{' '}
-        ensures the neutral is truly neutral. <em>Lambert</em> ensures that everyone
-        understands their role. And <em>Bansal</em> reminds us that appraisal has strategic
-        consequences beyond the amount &mdash; it can foreclose other remedies. When all six
+        can decide (amount, not coverage). <em>Devonwood</em> ensures the judgment conforms to the
+        award. <em>Lee</em> keeps the panel to valuing real losses and makes the award final.{' '}
+        <em>Sharma</em> keeps the panel within its lane and the umpire neutral. <em>Lambert</em>{' '}
+        clarifies that party appraisers advocate while the umpire is the neutral. And{' '}
+        <em>Bansal</em> reminds us that appraisal has strategic consequences beyond the amount
+        &mdash; it can foreclose other remedies. When all six
         principles are respected and understood, appraisal works as intended: a fair, efficient
         process for resolving amount disputes without litigation. When any principle is violated
         or ignored, the process is compromised &mdash; and the resulting award may be
