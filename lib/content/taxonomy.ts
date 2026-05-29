@@ -2912,6 +2912,15 @@ export const CATEGORIES: Category[] = [
         subcategory: 'water-mold',
       },
       {
+        icon: '💧',
+        title: 'The "Continuous or Repeated Seepage" Exclusion: Sudden vs. Gradual',
+        desc: 'Carriers deny water claims by calling a sudden burst "long-term seepage." The insurer bears the burden of proving duration — and Nargizyan v. State Farm (2026) reversed summary judgment on exactly that point.',
+        href: '/resources/water-damage-seepage-exclusion',
+        tag: 'Case Law',
+        tagColor: 'bg-indigo-100 text-indigo-700',
+        subcategory: 'water-mold',
+      },
+      {
         icon: '🌲',
         title: 'Wildfire Claims Guide',
         desc: 'Forest fire vs urban wildfire smoke, contamination testing, coverage, and step-by-step wildfire claims guidance.',

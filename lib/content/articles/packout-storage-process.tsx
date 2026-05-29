@@ -44,10 +44,14 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This is one of the most important and least understood aspects of pack-out claims. You are
         entitled to be indemnified for the <em>value</em> of pack-out, cleaning, and storage
-        services &mdash; but you are not required to actually have those services performed. The
-        key California case on this point is <em>Dome v. State Farm</em>, which established that
-        the insured has the right to receive the monetary value of covered services without being
-        compelled to use them.
+        services &mdash; but you are not required to actually have those services performed, and
+        you cannot be forced to use the insurer&rsquo;s preferred vendor. California&rsquo;s Fair
+        Claims Settlement Practices Regulations bar an insurer from requiring an insured to use a
+        specific company to repair or restore property (10 CCR &sect; 2695.9(b)) and restrict when
+        an insurer may even recommend one (10 CCR &sect; 2695.9(c)). Underneath all of it is the
+        basic purpose of the policy &mdash; indemnity. The carrier owes the insured the value of
+        the covered loss, and that obligation runs to the insured; it does not disappear because
+        the insured chooses not to route the money through a particular cleaning or storage vendor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Consider a practical example. A widow has her deceased husband&rsquo;s outdated clothing
@@ -55,8 +59,8 @@ export default function Content() {
         inventory those items, pack them into boxes, clean the smoke from the fabric, transport
         them to a storage facility, store them for months, and eventually return them. That
         service might cost $3,000 to $5,000. But the widow has no use for the clothing. She does
-        not want it cleaned and returned. Under <em>Dome</em>, she is entitled to be paid the
-        cost of those services and simply not perform them. She can take the cash.
+        not want it cleaned and returned. She is entitled to be paid the value of those services
+        and decline to have them performed. She can take the cash.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is perfectly legal and ethical. The insurance policy owes the insured for the cost
