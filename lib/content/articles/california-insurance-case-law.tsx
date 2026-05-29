@@ -140,36 +140,45 @@ export default function Content() {
         </p>
       </CalloutBox>
 
-      {/* ───── Waller ───── */}
+      {/* ───── Genuine Dispute Doctrine ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        3. <em>Waller v. Truck Insurance Exchange</em> (1995) 11 Cal.4th 1
+        3. The Genuine Dispute Doctrine: <em>Chateau Chamberay</em> (2001) and{' '}
+        <em>Wilson v. 21st Century</em> (2007)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If <em>Gruenberg</em> and <em>Egan</em> are the sword, <em>Waller</em> is the shield.
-        The &ldquo;genuine dispute&rdquo; doctrine &mdash; the most powerful defense available to
-        insurers in bad faith cases &mdash; was established in this decision. The case involved a
-        church that suffered fire damage and disputed the insurer&rsquo;s valuation. When the
-        policyholder sued for bad faith, the insurer argued that the disagreement over the loss
-        amount was genuine and reasonable.
+        If <em>Gruenberg</em> and <em>Egan</em> are the sword, the <strong>genuine dispute
+        doctrine</strong> is the insurer&rsquo;s shield &mdash; the most powerful defense available
+        in a bad faith case. The doctrine originated in federal court (<em>Safeco Ins. Co. v.
+        Guyton</em> (9th Cir. 1982) 692 F.2d 551), was adopted into California law in{' '}
+        <em>Opsal v. United Services Auto. Assn.</em> (1991) 2 Cal.App.4th 1197, and was extended
+        to factual disputes in <em>Chateau Chamberay Homeowners Assn. v. Associated Internat. Ins.
+        Co.</em> (2001) 90 Cal.App.4th 335.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The Holding:</strong> The California Supreme Court held that an insurer is not
-        liable for bad faith when there is a <strong>genuine dispute</strong> as to the
-        insurer&rsquo;s liability or the amount of the loss, so long as the insurer&rsquo;s
-        position is maintained in good faith and on reasonable grounds. In other words, an insurer
+        <strong>The Doctrine:</strong> An insurer is not liable for bad faith when there is a{' '}
+        <strong>genuine dispute</strong> as to coverage or the amount of the loss, so long as the
+        insurer&rsquo;s position is maintained in good faith and on reasonable grounds. An insurer
         that is <em>wrong</em> is not automatically acting in bad faith &mdash; as long as its
-        position was <em>reasonably</em> held.
+        position was <em>reasonably</em> held. A genuine, reasonable disagreement is not bad faith.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Significance:</strong> <em>Waller</em> created a safe harbor for insurers: if the
-        insurer can show that its denial or reduced payment was based on a legitimate, reasonable
-        interpretation of the facts or the policy, it can defeat a bad faith claim even if the
-        denial turns out to be wrong. This doctrine does not require the insurer to be correct
-        &mdash; only reasonable. Insurers rely heavily on this doctrine, and it is why they invest
-        in building detailed claim files, hiring experts, and generating documentation that
-        supports their position. Understanding <em>Waller</em> is essential because it defines
-        what bad faith is <em>not</em>: a simple disagreement is not bad faith if the insurer&rsquo;s
-        position is reasonable.
+        <strong>The Limit &mdash; <em>Wilson</em>:</strong> The doctrine is not a free pass. In{' '}
+        <em>Wilson v. 21st Century Ins. Co.</em> (2007) 42 Cal.4th 713, the California Supreme
+        Court held that the genuine dispute doctrine does <strong>not</strong> shield an insurer
+        whose position rests on an <strong>inadequate or unreasonable investigation</strong>. An
+        insurer cannot manufacture a &ldquo;dispute&rdquo; by failing to investigate, ignoring
+        evidence, or relying on a biased evaluation and then call the dispute genuine. The dispute
+        must be both honestly held and grounded in a thorough, fair investigation.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Significance:</strong> The genuine dispute doctrine defines what bad faith is{' '}
+        <em>not</em>: a reasonable, well-investigated disagreement. It is why insurers invest in
+        detailed claim files and retained experts &mdash; and why <em>Wilson</em> matters so much
+        to policyholders, because it strips the defense away when the investigation behind the
+        &ldquo;dispute&rdquo; was a sham. (Waiver and estoppel are a separate doctrine; the leading
+        California authority there is <em>Waller v. Truck Ins. Exchange</em> (1995) 11 Cal.4th 1,
+        which holds that waiver and estoppel cannot be used to create coverage the policy does not
+        provide.)
       </p>
 
       {/* ───── Brandt ───── */}
@@ -277,43 +286,79 @@ export default function Content() {
         7. <em>McCoy v. Progressive West Insurance Co.</em> (2009) 171 Cal.App.4th 785
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>McCoy</em> addresses a practice that infuriates policyholders: the insurer that
-        withholds payment on the entire claim because it disputes part of the claim.
+        <em>McCoy</em> addresses how the genuine dispute doctrine is presented to a jury &mdash;
+        and confirms that it is not a separate, magic defense.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The Holding:</strong> The court held that when there is no genuine dispute about
-        a portion of the claim, the insurer <strong>must pay the undisputed portion
-        promptly</strong>. The insurer cannot withhold the entire payment simply because it
-        disputes part of the claim. Withholding the undisputed amount is itself evidence of bad
-        faith.
+        <strong>The Holding:</strong> The court held that the genuine dispute doctrine is{' '}
+        <strong>subsumed within the ordinary question of reasonableness</strong> &mdash; it is not
+        a separate legal test, and a trial court need not give a standalone &ldquo;genuine
+        dispute&rdquo; jury instruction. The jury simply decides whether the insurer&rsquo;s
+        conduct was reasonable. The court also held that an insurer is{' '}
+        <strong>not entitled to judgment as a matter of law</strong> where, viewing the facts in
+        the light most favorable to the policyholder, a jury could conclude the insurer acted
+        unreasonably.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Significance:</strong> <em>McCoy</em> is one of the most practically important
-        cases for policyholders and Public Adjusters. In real-world claims, insurers frequently
-        withhold all payment while disputing a portion of the loss. For example, an insurer may
-        agree that a roof has $80,000 in covered damage but refuse to pay anything because it
-        disputes whether an additional $40,000 in interior damage is covered. Under <em>McCoy</em>,
-        the insurer must pay the $80,000 it does not dispute while the $40,000 dispute is
-        resolved. This principle also has strategic implications: when you demand the undisputed
-        portion in writing and the insurer refuses to pay it, you are creating a contemporaneous
-        record of bad faith.
+        <strong>Significance:</strong> <em>McCoy</em> takes some of the air out of the genuine
+        dispute defense. Insurers sometimes treat &ldquo;genuine dispute&rdquo; as a separate
+        shield that defeats bad faith on its own. <em>McCoy</em> says it is just one way of asking
+        the core question &mdash; was the insurer reasonable? &mdash; which a jury, not a judge on
+        summary judgment, usually decides. For policyholders, that means a credible showing of
+        unreasonable claims handling should reach a jury rather than being dismissed under the
+        banner of a &ldquo;genuine dispute.&rdquo;
       </p>
 
-      <CalloutBox variant="tip" title="Demand the Undisputed Amount in Writing">
+      <CalloutBox variant="tip" title="Genuine Dispute Is a Jury Question, Not an Automatic Defense">
         <p>
-          If your insurer agrees that part of your claim is owed but refuses to pay while
-          disputing the rest, send a written demand for the undisputed amount.
-          State the undisputed amount, request immediate payment, and note that withholding
-          undisputed benefits is evidence of bad faith. <em>McCoy v. Progressive West</em>{' '}
-          established this principle &mdash; your attorney can advise on how to reference it
-          in your demand. Even if the insurer ignores the demand,
-          the letter itself becomes part of the claim record.
+          When an insurer invokes the &ldquo;genuine dispute&rdquo; doctrine, remember{' '}
+          <em>McCoy v. Progressive West</em>: the doctrine is folded into the basic
+          reasonableness inquiry, and where the evidence would let a jury find the insurer acted
+          unreasonably, the case generally goes to the jury. A well-documented record of
+          unreasonable conduct is what keeps a bad faith claim alive past summary judgment.
+        </p>
+      </CalloutBox>
+
+      {/* ───── Prompt Payment of Undisputed Amounts ───── */}
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        8. Prompt Payment of Undisputed Amounts (10 CCR &sect; 2695.7(h))
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A practice that infuriates policyholders is the insurer that withholds payment on the
+        entire claim because it disputes part of it. This is governed not by a single case but by
+        the Fair Claims Settlement Practices Regulations.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>The Rule:</strong> Under <strong>10 CCR &sect; 2695.7(h)</strong>, once an insurer
+        accepts a claim &ldquo;in whole or in part,&rdquo; it must tender payment of the accepted
+        amount <strong>immediately, and no later than 30 calendar days</strong>. In plain terms,
+        an insurer cannot sit on the portion of the claim it agrees it owes just because it
+        disputes the rest. The amounts that have been accepted must be paid while the disputed
+        portion is sorted out.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Significance:</strong> This is one of the most practically important rules for
+        policyholders and Public Adjusters. For example, if an insurer agrees a roof has $80,000
+        in covered damage but disputes an additional $40,000 in interior damage, it must pay the
+        $80,000 it does not dispute rather than withhold everything. A failure to pay the
+        undisputed amount can also be evidence of unreasonable conduct supporting a bad faith
+        claim &mdash; and a written request for the undisputed amount, met with silence or refusal,
+        builds a contemporaneous record.
+      </p>
+
+      <CalloutBox variant="tip" title="Request the Undisputed Amount in Writing">
+        <p>
+          If an insurer agrees part of a claim is owed but withholds payment while disputing the
+          rest, a written request for the accepted amount &mdash; citing the 30-day tender
+          requirement of 10 CCR &sect; 2695.7(h) &mdash; puts the obligation on the record. An
+          insured may reference the regulation directly in their own correspondence. Even if the
+          insurer does not respond, the request itself becomes part of the claim file.
         </p>
       </CalloutBox>
 
       {/* ───── Amadeo ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        8. <em>Amadeo v. Principal Mutual Life Insurance Co.</em> (9th Cir. 2003) 290 F.3d 1152
+        9. <em>Amadeo v. Principal Mutual Life Insurance Co.</em> (9th Cir. 2002) 290 F.3d 1152
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Amadeo</em> is a Ninth Circuit case applying California law, and it provides an
@@ -347,7 +392,7 @@ export default function Content() {
 
       {/* ───── Garvey ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        9. <em>Garvey v. State Farm Fire &amp; Casualty Co.</em> (1989) 48 Cal.3d 395
+        10. <em>Garvey v. State Farm Fire &amp; Casualty Co.</em> (1989) 48 Cal.3d 395
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The cases discussed above address how insurers must handle claims and what happens when
@@ -455,29 +500,35 @@ export default function Content() {
         How the Bad Faith and Coverage Cases Fit Together
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        These nine cases form a coherent framework. <em>Gruenberg</em> established the cause of
-        action: the implied covenant and tort liability. <em>Egan</em> set the standard: objective
-        reasonableness. <em>Waller</em> defined the defense: the genuine dispute doctrine.{' '}
-        <em>Brandt</em> addressed the economics: attorney&rsquo;s fees as compensatory damages.{' '}
-        <em>Jordan</em> connected the regulatory framework to the common law: Fair Claims
+        These cases and principles form a coherent framework. <em>Gruenberg</em> established the
+        cause of action: the implied covenant and tort liability. <em>Egan</em> set the standard:
+        objective reasonableness. The <strong>genuine dispute doctrine</strong> (
+        <em>Chateau Chamberay</em>; <em>Wilson v. 21st Century</em>) defined the insurer&rsquo;s
+        defense &mdash; and its limit, since a dispute built on an inadequate investigation is not
+        genuine. <em>Brandt</em> addressed the economics: attorney&rsquo;s fees as compensatory
+        damages. <em>Jordan</em> connected the regulatory framework to the common law: Fair Claims
         Regulation violations as evidence of bad faith. <em>Bock</em> extended liability to
-        individual adjusters. <em>McCoy</em> required payment of undisputed amounts.{' '}
-        <em>Amadeo</em> closed the loophole: manufactured disputes do not qualify as genuine.
-        And <em>Garvey</em> established how causation determines coverage when multiple perils
-        combine: the efficient proximate cause controls.
+        individual adjusters. <em>McCoy</em> confirmed that the genuine dispute defense is
+        subsumed within the ordinary reasonableness question &mdash; usually a jury&rsquo;s call.
+        The Fair Claims Regulations (<strong>10 CCR &sect; 2695.7(h)</strong>) require prompt
+        payment of undisputed amounts. <em>Amadeo</em> reinforced that manufactured disputes do
+        not qualify as genuine. And <em>Garvey</em> established how causation determines coverage
+        when multiple perils combine: the efficient proximate cause controls.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Together, they tell a story: the insurer has a duty to act in good faith (
         <em>Gruenberg</em>), measured by an objective standard (<em>Egan</em>), with a defense
-        available for genuinely reasonable positions (<em>Waller</em>) &mdash; but that defense
-        fails when the insurer manufactures the dispute (<em>Amadeo</em>) or fails to investigate
-        (<em>Jordan</em>). When the insurer breaches this duty, the policyholder can recover
-        extra-contractual damages including attorney&rsquo;s fees (<em>Brandt</em>), and both the
-        company and the individual adjuster may be liable (<em>Bock</em>). Throughout the
-        process, the insurer must pay what it owes when it owes it (<em>McCoy</em>). And when
-        the cause of loss itself is disputed, the efficient proximate cause doctrine (
-        <em>Garvey</em>) ensures that coverage is determined by the predominant cause &mdash;
-        not by whichever contributing cause the insurer finds most convenient to cite.
+        available for genuinely reasonable, well-investigated positions (the genuine dispute
+        doctrine) &mdash; but that defense fails when the insurer manufactures the dispute (
+        <em>Amadeo</em>; <em>Wilson</em>) or fails to investigate (<em>Jordan</em>), and it is
+        ultimately just the reasonableness question a jury decides (<em>McCoy</em>). When the
+        insurer breaches this duty, the policyholder can recover extra-contractual damages
+        including attorney&rsquo;s fees (<em>Brandt</em>), and both the company and the individual
+        adjuster may be liable (<em>Bock</em>). Throughout the process, the insurer must promptly
+        pay the amounts it has accepted (10 CCR &sect; 2695.7(h)). And when the cause of loss
+        itself is disputed, the efficient proximate cause doctrine (<em>Garvey</em>) ensures that
+        coverage is determined by the predominant cause &mdash; not by whichever contributing
+        cause the insurer finds most convenient to cite.
       </p>
 
       {/* ══════════════════════════════════════════════════════════════════
@@ -661,15 +712,17 @@ export default function Content() {
         advocates?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The Holding:</strong> The court held that{' '}
-        <strong>party appraisers are advocates, not neutrals</strong>. Each party&rsquo;s
-        appraiser is expected to represent that party&rsquo;s position on the amount of loss,
-        similar to how a party-appointed arbitrator in a tripartite arbitration panel represents
-        that party&rsquo;s perspective. The <strong>umpire alone is the neutral</strong>. This
-        means that the insurer&rsquo;s appraiser is expected to advocate for the insurer&rsquo;s
-        position, and the policyholder&rsquo;s appraiser is expected to advocate for the
-        policyholder&rsquo;s position. Neither appraiser is required to be &ldquo;disinterested&rdquo;
-        in the sense of being neutral &mdash; their role is inherently partisan.
+        <strong>The Holding:</strong> The court held that an insurance appraisal under Insurance
+        Code &sect; 2071 is a form of <strong>arbitration</strong>, and that a party-appointed
+        appraiser is entitled to <strong>arbitral immunity</strong> from suit for performing that
+        role &mdash; the appraiser&rsquo;s function is quasi-judicial, not that of an ordinary
+        retained expert. (The court drew a line, however, between the appraiser and a separately
+        retained valuation expert: the expert was not shielded by the litigation privilege.) In
+        treating the party appraiser as an arbitration participant rather than a neutral, the
+        decision reflects the practical reality that <strong>party appraisers advocate for the
+        party that appointed them, while the umpire is the neutral</strong> &mdash; the statutory
+        word &ldquo;disinterested&rdquo; bars a personal financial stake in the outcome beyond the
+        appraiser&rsquo;s fee, not vigorous advocacy.
       </p>
 
       <CalloutBox variant="important" title="Appraisers Are Advocates; the Umpire Is Neutral">
@@ -701,8 +754,17 @@ export default function Content() {
 
       {/* ───── Bansal ───── */}
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        6. <em>Bansal v. Nationwide Mutual Insurance Co.</em> (N.D. Cal. 2023) Case No. 23-cv-05527-LB
+        6. <em>Bansal v. Nationwide Mutual Insurance Co.</em> (N.D. Cal. 2025) No. 3:23-cv-05527
       </h3>
+      <CalloutBox variant="info" title="A Note on Bansal's Weight">
+        <p>
+          Unlike the published California Supreme Court and Court of Appeal decisions above,{' '}
+          <em>Bansal</em> is an unpublished federal district-court order applying California law.
+          It is <strong>persuasive only &mdash; not binding precedent</strong>. It is included
+          here because it illustrates a real strategic risk, not because it controls the outcome
+          of any case.
+        </p>
+      </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Holding:</strong> An insurer that participates in the appraisal process and pays the
         resulting award is not liable for bad faith &mdash; even if its initial estimate was far
