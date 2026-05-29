@@ -81,9 +81,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Under <em>Prudential-LMI</em>, the tolling period runs until the insurer{' '}
         <strong>formally denies the claim in writing</strong>. If no written denial or
-        closure letter was ever sent, the argument is that the clock never started running
-        again. The policyholder may be able to file suit years later because, as far as
-        they knew, the claim was still open and under investigation.
+        closure letter was ever sent &mdash; and the claim was not paid &mdash; the
+        policyholder may have a strong argument that tolling continued, because, as far as
+        they knew, the claim was still open and under investigation. As the limits below show,
+        however, that argument is not unlimited: a clear communication that nothing more is
+        owed can end tolling even without a formal letter labeled &ldquo;denial.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer&rsquo;s internal file notes are not a substitute for a written denial.
@@ -93,13 +95,20 @@ export default function Content() {
         that the policyholder never sees does not meet that standard.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Similarly, in <em>Marselis v. Allstate Ins. Co.</em> (2004) 121 Cal.App.4th 925,
-        the court noted that the fact a claim has been internally &ldquo;reopened&rdquo; or
-        &ldquo;closed&rdquo; in the insurer&rsquo;s system needs to be communicated to the
-        insured for it to affect the tolling analysis. A policyholder cannot rely on claim
-        notes obtained in discovery to <em>extend</em> tolling &mdash; but by the same logic,
-        an insurer cannot point to internal closure records the policyholder never saw to
-        <em> start</em> the clock.
+        There is an important limit, though. In <em>Marselis v. Allstate Ins. Co.</em> (2004)
+        121 Cal.App.4th 122, the insured&rsquo;s claim had been <strong>paid in full</strong>,
+        and years later she asked to reopen it. The court rejected the argument that tolling
+        continues indefinitely whenever the insurer never sends a formal written
+        &ldquo;closed&rdquo; letter: once a claim has been paid, the insured is no longer
+        &ldquo;penalized&rdquo; by the insurer&rsquo;s investigation time, and the limitation
+        period is not suspended forever. And in <em>Doheny Park Terrace Homeowners Assn. v.
+        Truck Ins. Exchange</em> (2005) 132 Cal.App.4th 1076, the court held that a written
+        statement that the damage was <em>less than the deductible</em> &mdash; even without the
+        word &ldquo;denial&rdquo; &mdash; was an unequivocal denial that ended tolling. The
+        lesson: a clear communication that nothing (more) is owed can stop the clock even if it
+        is not labeled a &ldquo;denial,&rdquo; so the absence of a formal denial letter is not a
+        guarantee of unlimited time. Whether tolling continues is fact-specific &mdash; which is
+        another reason to put the question to an attorney promptly.
       </p>
 
       <CalloutBox variant="tip" title="Why the Closing Letter Matters So Much">
@@ -539,7 +548,7 @@ export default function Content() {
           denial that stops tolling.
         </li>
         <li>
-          <strong><em>Marselis v. Allstate Ins. Co.</em> (2004) 121 Cal.App.4th 925</strong>{' '}
+          <strong><em>Marselis v. Allstate Ins. Co.</em> (2004) 121 Cal.App.4th 122</strong>{' '}
           &mdash; The equitable tolling rule from <em>Prudential-LMI</em> does not create
           a right to reopen claims indefinitely. Once a claim has been paid and closed,
           the absence of a formal &ldquo;denial&rdquo; letter does not toll the statute
@@ -547,10 +556,11 @@ export default function Content() {
         </li>
         <li>
           <strong><em>Doheny Park Terrace Homeowners Assn. v. Truck Ins. Exchange</em>{' '}
-          (2005) 132 Cal.App.4th 1076</strong> &mdash; Addressed the question of whether
-          tolling continues when no formal written denial was sent. The court examined
-          whether the insurer&rsquo;s communications were sufficiently unequivocal to
-          end the tolling period.
+          (2005) 132 Cal.App.4th 1076</strong> &mdash; A written statement that the damage was
+          less than the deductible was, in practical effect, an unequivocal denial that ended
+          tolling &mdash; even though it did not use the word &ldquo;denial.&rdquo; The absence
+          of a formally labeled denial letter does not, by itself, keep tolling alive
+          indefinitely.
         </li>
         <li>
           <strong><em>Ashou v. Liberty Mutual Fire Ins. Co.</em> (2006) 138 Cal.App.4th
