@@ -253,7 +253,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Doan v. State Farm General Insurance Co. (2011) 198 Cal.App.4th 1377
+        Doan v. State Farm General Insurance Co. (2011) 195 Cal.App.4th 1082
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Doan</em> addressed a question that comes up constantly in practice: does a
@@ -312,28 +312,33 @@ export default function Content() {
         Mahnke v. Superior Court (2009) 180 Cal.App.4th 565
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Mahnke</em> addressed the thorny issue of appraiser and umpire disqualification. The
-        court held that a &ldquo;substantial business relationship&rdquo; between an appraiser
-        (or umpire) and one of the parties constitutes grounds for disqualification. This decision
-        imported the conflict-of-interest standards from arbitration law directly into the
-        appraisal context.
+        <em>Mahnke</em> addressed appraiser disclosure and disqualification &mdash; and it is
+        often cited for more than it actually held. The carrier (California Fair Plan) tried to
+        disqualify the <em>policyholders&rsquo;</em> own party appraiser because he had also
+        served as an expert for another client of the policyholders&rsquo; attorney. The trial
+        court disqualified him; the Court of Appeal <strong>reversed</strong>, holding that this
+        relationship did not create a disqualifying &ldquo;impression of possible bias.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The significance of <em>Mahnke</em> cannot be overstated. In practice, insurance
-        companies frequently appoint appraisers who do regular, repeat work for that carrier.
-        These are not truly &ldquo;disinterested&rdquo; appraisers &mdash; they are professionals
-        whose livelihood depends in part on continuing to receive assignments from the insurer.
-        <em>Mahnke</em> provides a mechanism to challenge these appointments.
+        Two holdings make <em>Mahnke</em> useful. First, the disclosure requirements of CCP
+        &sect; 1281.9 apply not only to the neutral umpire but also to <strong>party-selected
+        appraisers</strong> &mdash; so an insured can expect the carrier&rsquo;s appraiser, like
+        the umpire, to disclose relationships. Second, the <strong>15-day disqualification window
+        of CCP &sect; 1281.91 does not apply to party appraisers</strong> (it governs the
+        neutral). Equally important is what <em>Mahnke</em> did <em>not</em> do: it did not make
+        party appraisers easy to remove. A party appraiser is expected to be a partisan advocate
+        (consistent with <em>Lambert</em>), and an ordinary professional relationship is not, by
+        itself, grounds for disqualification.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>What this means for policyholders:</strong> If the carrier&rsquo;s appraiser has
-        a pattern of performing paid work for that carrier &mdash; handling appraisals, preparing
-        estimates, consulting on claims &mdash; that relationship may be substantial enough to
-        warrant disqualification. The same analysis applies to proposed umpires. An umpire who
-        regularly appears in appraisals appointed by one carrier, or who receives referral work
-        from one side, is not neutral in any meaningful sense. Under <em>Mahnke</em>, you can
-        challenge that person&rsquo;s participation. Ask questions. Request disclosure of prior
-        assignments. Follow the money.
+        <strong>What this means for policyholders:</strong> Disclosure cuts both ways &mdash; the
+        carrier&rsquo;s party appraiser, like the umpire, should disclose relationships under
+        &sect; 1281.9, and an insured is entitled to ask for that disclosure. But do not expect to
+        disqualify the carrier&rsquo;s appraiser simply because that appraiser does repeat work in
+        the industry; party appraisers are advocates, and the bar for removing one is high. The
+        stronger neutrality protections &mdash; disclosure under &sect; 1281.9 and the 15-day
+        challenge under &sect; 1281.91 &mdash; apply to the <strong>umpire</strong>, which is why
+        umpire selection deserves the most scrutiny.
       </p>
 
       <CalloutBox variant="tip" title="Putting the Case Law Together">
@@ -342,9 +347,10 @@ export default function Content() {
           determine coverage, causation, or property identity (<em>Sharma</em>, <em>Kacha</em>,{' '}
           <em>Lee</em>); (2) coverage questions can go straight to court without waiting for
           appraisal (<em>Doan</em>); (3) panel members are immune from personal liability
-          (<em>Lambert</em>); and (4) conflicts of interest are grounds for disqualification
-          (<em>Mahnke</em>). Taken together, they give policyholders a roadmap for both
-          participating in appraisal and challenging an unfair process or result.
+          (<em>Lambert</em>); and (4) party appraisers must disclose relationships, but the umpire
+          is where the neutrality protections truly bite (<em>Mahnke</em>; CCP &sect;&sect; 1281.9,
+          1281.91). Taken together, they give policyholders a roadmap for both participating in
+          appraisal and challenging an unfair process or result.
         </p>
       </CalloutBox>
 
@@ -755,10 +761,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s appraisal provision is rooted in the same statutory framework &mdash;
         Insurance Code Sections 2070 and 2071, which codify the state&rsquo;s Standard Fire Policy.
-        While California courts have developed their own body of appraisal law (including the{' '}
-        <em>Sharma</em> waiver doctrine and the classification of appraisal as contractual arbitration
-        under CCP Sections 1280&ndash;1294.2), the principle is the same: the statutory appraisal
-        provision sets a floor.
+        (<em>Hart</em> and <em>Haddock</em> are Michigan federal district-court decisions &mdash;
+        persuasive, not binding in California &mdash; included here because they apply the same
+        Standard-Fire-Policy &ldquo;floor&rdquo; principle.) While California courts have developed
+        their own body of appraisal law (including the <em>Sharma</em> waiver doctrine and the
+        classification of appraisal as contractual arbitration under CCP Sections 1280&ndash;1294.2),
+        the principle is the same: the statutory appraisal provision sets a floor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When your insurer imposes conditions on the appraisal process that are not found in the statute
@@ -799,12 +807,13 @@ export default function Content() {
           for declaratory relief on coverage interpretation without completing appraisal first.
         </li>
         <li>
-          <strong>Research the proposed umpire.</strong> Under <em>Mahnke</em> and CCP
-          &sect; 1281.9, the umpire must disclose conflicts and can be disqualified for a
-          substantial business relationship with either party. Before agreeing to any umpire, ask
-          for disclosure of all prior appraisals and assignments involving the same carrier. If the
-          umpire has handled 20 appraisals for State Farm in the last three years, that is a
-          substantial relationship.
+          <strong>Research the proposed umpire.</strong> Under CCP &sect;&sect; 1281.9 and
+          1281.91, the umpire must disclose conflicts and may be disqualified within a 15-day
+          window after the disclosures. Under <em>Mahnke</em>, the carrier&rsquo;s <em>party</em>
+          appraiser must also disclose relationships &mdash; though party appraisers are advocates
+          and are harder to remove. Before agreeing to any umpire, ask for disclosure of all prior
+          appraisals and assignments involving the same carrier; a long pattern of repeat work for
+          one side is exactly the kind of fact the disclosure rules exist to surface.
         </li>
         <li>
           <strong>Demand written disclosures.</strong> Do not let the umpire nomination process
