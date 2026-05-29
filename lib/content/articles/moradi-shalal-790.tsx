@@ -115,11 +115,10 @@ export default function Content() {
 
       <CalloutBox variant="important" title="This Has Been the Law for Over 35 Years">
         <p>
-          <em>Moradi-Shalal</em> was decided in 1988 and has never been overturned. Multiple
-          attempts to legislatively restore a private right of action under 790.03 have been
-          introduced in the California Legislature; none have been enacted. The law on this
-          point is well-settled, and any complaint alleging a private cause of action under
-          790.03 will be subject to demurrer and dismissal.
+          <em>Moradi-Shalal</em> was decided in 1988 and has never been overturned. Efforts to
+          legislatively restore a private right of action under 790.03 have not succeeded. The
+          law on this point is well-settled, and a complaint alleging a private cause of action
+          under 790.03 is subject to demurrer and dismissal.
         </p>
       </CalloutBox>
 
@@ -140,14 +139,17 @@ export default function Content() {
           creates a right to sue.
         </li>
         <li>
-          <strong>The &ldquo;790 letter&rdquo; is widely used.</strong> Public adjusters,
-          attorneys, and policyholder advocates routinely send{' '}
+          <strong>The &ldquo;790 letter&rdquo; is widely used.</strong> Attorneys, public
+          adjusters, and policyholder advocates often send a{' '}
           <Link href="/resources/insurance-code-790" className="text-[#2E74B5] underline">
-            790 letters
+            790 letter
           </Link>{' '}
-          citing specific provisions of the statute. This can create the impression that the
-          statute provides a direct legal remedy, when in fact the 790 letter serves a different
-          strategic purpose: documenting the insurer&rsquo;s conduct for a potential common law
+          citing specific provisions of the statute. (In adjuster usage the phrase &ldquo;790
+          letter&rdquo; more often refers to the carrier&rsquo;s initial acknowledgment letter;
+          the insured-side notice letter described here is a separate, plaintiff-side use of the
+          term &mdash; see the companion article.) Either way, sending one can create the
+          impression that the statute provides a direct legal remedy, when in fact it serves a
+          different purpose: documenting the insurer&rsquo;s conduct for a potential common-law
           bad faith claim or CDI complaint.
         </li>
         <li>
@@ -340,26 +342,28 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Document everything.</strong> Keep written records of every communication,
-          every delay, every lowball offer, and every misrepresentation. This documentation
-          forms the foundation of both a CDI complaint and a potential bad faith lawsuit.
+          <strong>Documentation.</strong> Written records of every communication, delay,
+          lowball offer, and misrepresentation form the foundation of both a CDI complaint and a
+          potential bad faith lawsuit.
         </li>
         <li>
-          <strong>Send a 790 letter.</strong> Even though the statute does not provide a private
-          cause of action, a formal letter citing the specific provisions of 790.03 that the
-          insurer is violating puts the insurer on notice, creates a paper trail, and can
-          change the dynamics of the claim.
+          <strong>A 790 letter.</strong> Even though the statute provides no private cause of
+          action, a formal letter citing the specific provisions of 790.03 at issue puts the
+          insurer on notice, creates a paper trail, and can change the dynamics of the claim.
+          (Where the letter rises to a formal statutory accusation, that drafting is typically
+          an attorney&rsquo;s role; a public adjuster&rsquo;s part is developing the factual
+          record behind it.)
         </li>
         <li>
-          <strong>File a CDI complaint.</strong> The administrative remedy creates an official
-          record and may prompt the insurer to reconsider its position.
+          <strong>A CDI complaint.</strong> The administrative remedy creates an official record
+          and may prompt the insurer to reconsider its position.
         </li>
         <li>
-          <strong>Consult an attorney.</strong> If the insurer&rsquo;s conduct is egregious
-          enough to constitute bad faith, the full range of common law remedies &mdash;
-          including compensatory damages, emotional distress, punitive damages, and Brandt
-          fees &mdash; may be available. An experienced insurance bad faith attorney can
-          evaluate the claim and advise on whether litigation is warranted.
+          <strong>Attorney evaluation.</strong> If the insurer&rsquo;s conduct is egregious
+          enough to constitute bad faith, the full range of common-law remedies &mdash;
+          compensatory damages, emotional distress, punitive damages, and Brandt fees &mdash;
+          may be available. An experienced insurance bad faith attorney can evaluate the claim
+          and advise whether litigation is warranted.
         </li>
       </ul>
 
