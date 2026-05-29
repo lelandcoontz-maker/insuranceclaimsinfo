@@ -15,10 +15,11 @@ export default function Content() {
       <CalloutBox variant="legal" title="Legal Disclaimer">
         <p>
           This article is for educational purposes only and does not constitute legal advice.
-          Bad faith litigation and fee recovery are complex, fact-specific areas of law. The case
-          law discussed below is provided for general educational context &mdash; it should not
-          be cited in letters to insurance carriers, as doing so may constitute the unauthorized
-          practice of law. Consult a licensed California attorney before pursuing any legal action.
+          Bad faith litigation and fee recovery are complex, fact-specific areas of law. A public
+          adjuster&rsquo;s role is to document the carrier&rsquo;s conduct and handle the claim;
+          the development of legal arguments, the selection of legal theories, and the conduct of
+          litigation are the work of a California-licensed attorney (Insurance Code &sect; 15002).
+          Consult a licensed California attorney before pursuing any legal action.
         </p>
       </CalloutBox>
 
@@ -98,8 +99,14 @@ export default function Content() {
         In practice, this means that in a case involving both contract benefits and bad faith
         damages, the attorney fees must be allocated between the work performed to obtain policy
         benefits (recoverable as Brandt fees) and the work performed to pursue the tort claim
-        (not separately recoverable). This allocation can be complex, and courts have applied
-        various methods to apportion fees between the two categories.
+        (not separately recoverable). The California Supreme Court set out the method for this
+        allocation in <em>Cassim v. Allstate Ins. Co.</em> (2004) 33 Cal.4th 780. For a
+        contingency-fee case, <em>Cassim</em> directs that Brandt fees be calculated by
+        determining the percentage of the attorney&rsquo;s work attributable to obtaining the
+        policy benefits, then applying that percentage to the total contingency fee &mdash; not
+        by taking a percentage of the entire compensatory award. Courts also retain discretion to
+        disregard fee arrangements that appear designed to manipulate the allocation in the
+        policyholder&rsquo;s favor.
       </p>
 
       {/* ====== Full Bad Faith Damages Framework ====== */}
