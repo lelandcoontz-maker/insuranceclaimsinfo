@@ -104,15 +104,18 @@ export default function Content() {
         it knows would help the claim, the conduct may cross the line into fraud.
       </p>
 
-      <CalloutBox variant="important" title="Fraud Must Be Proven by Clear and Convincing Evidence">
+      <CalloutBox variant="important" title="The Burden of Proof for Fraud in California">
         <p>
-          In California, fraud must be proven by &ldquo;clear and convincing evidence&rdquo;
-          &mdash; a higher standard than the &ldquo;preponderance of the evidence&rdquo;
-          standard that applies to bad faith and breach of contract claims. This means a
-          policyholder alleging fraud must present evidence that is substantially more likely
-          to be true than not, not merely more likely than not. This higher standard reflects
-          the seriousness of a fraud finding and is one of the reasons fraud is harder to prove
-          than bad faith.
+          A common misconception is that civil fraud must be proven by &ldquo;clear and
+          convincing evidence.&rdquo; In California it does not: the California Supreme Court
+          held in <em>Liodas v. Sahadi</em> (1977) 19 Cal.3d 278 that the elements of fraud are
+          proven by the ordinary <strong>preponderance of the evidence</strong> standard
+          &mdash; the same standard that applies to bad faith and breach of contract. What makes
+          fraud harder to establish is its <em>elements</em> &mdash; a knowing (or reckless)
+          falsehood, intent to induce reliance, and justifiable reliance &mdash; not the burden
+          of proof. (A higher &ldquo;clear and convincing&rdquo; standard does apply to a claim
+          for <strong>punitive damages</strong> under Civil Code &sect; 3294, but that governs
+          punitive damages, not proof of the fraud itself.)
         </p>
       </CalloutBox>
 
@@ -263,19 +266,18 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Fabricated Fire Investigation
+        Fabricated or Manufactured Investigations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In a well-known California case (<em>Shade Foods v. Innovative Products Sales &amp;
-        Marketing</em>), a jury found that an insurer fabricated evidence in a fire
-        investigation to deny a major commercial claim. The insurer&apos;s fire investigator
-        concluded the fire was arson without a credible basis, and the insurer relied on that
-        conclusion to deny the claim entirely. The court found that the insurer did not merely
-        make a wrong judgment call &mdash; it actively used a baseless investigation to
-        manufacture a reason to deny coverage. The jury awarded substantial compensatory and
-        punitive damages. The case illustrates the principle that when an insurer does not
-        just fail to investigate, but affirmatively creates false evidence to support a
-        denial, the conduct crosses from bad faith into fraud territory.
+        One recurring fact pattern that pushes conduct from bad faith toward fraud is the
+        manufactured investigation &mdash; where an insurer does not merely investigate poorly,
+        but affirmatively generates a baseless conclusion (for example, an unsupported finding
+        of arson, or a cause-of-loss determination its own file contradicts) and then relies on
+        that conclusion to deny a claim it has reason to know should be paid. Courts treat a
+        failure to investigate as bad faith; but when the insurer goes further and creates false
+        evidence to support a denial, the conduct can cross into fraud, because the denial rests
+        on a knowing falsehood rather than an honest (if mistaken) judgment. The dividing line,
+        as always, is the insurer&rsquo;s knowledge.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -565,7 +567,7 @@ export default function Content() {
         },
         {
           question: 'What is the standard of proof for fraud versus bad faith?',
-          answer: "Fraud must be proven by clear and convincing evidence — a higher standard than the preponderance of the evidence standard that applies to bad faith and breach of contract. Clear and convincing means the evidence is substantially more likely to be true than not, not merely more likely than not. This higher standard reflects the seriousness of a fraud finding and is one of the reasons fraud is harder to prove than bad faith — even when the insurer's conduct seems deceptive, the policyholder must marshal substantially stronger evidence than is needed for a bad faith claim.",
+          answer: "Contrary to a common misconception, civil fraud in California is proven by the ordinary preponderance-of-the-evidence standard — the same standard that applies to bad faith and breach of contract. The California Supreme Court settled this in Liodas v. Sahadi (1977) 19 Cal.3d 278. What makes fraud harder to establish is its elements, not its burden of proof: fraud requires a knowing (or reckless) falsehood, intent to induce reliance, and justifiable reliance, whereas bad faith requires only unreasonable conduct. A separate, higher 'clear and convincing' standard does apply to a claim for punitive damages under Civil Code §3294 — but that governs punitive damages, not proof of the fraud itself.",
         },
         {
           question: 'What is negligent misrepresentation?',
