@@ -104,12 +104,16 @@ export default function Content() {
       <CalloutBox variant="warning" title="The Coverage vs. Amount Distinction">
         <p>
           Carriers frequently argue that a dispute is a &ldquo;coverage question&rdquo;
-          outside the scope of appraisal. But California courts have held that the line
-          between coverage and amount is not always clear, and carriers cannot use this
-          distinction as a blanket excuse to avoid appraisal. In <em>Kirkwood v. California
-          State Automobile Association Inter-Insurance Bureau</em> (2011) 193 Cal.App.4th
-          49, the court held that appraisal may encompass the determination of what items
-          of damage are covered, not just the dollar amount of agreed-upon damage.
+          outside the scope of appraisal. The line is not always obvious, and a carrier
+          cannot use the label alone as a blanket excuse to avoid appraisal &mdash; courts
+          look at what is actually being disputed. But the line itself is real: an appraisal
+          panel decides the <em>amount of loss</em>, not coverage. As the Court of Appeal
+          confirmed in <em>Kirkwood v. California State Automobile Association
+          Inter-Insurance Bureau</em> (2011) 193 Cal.App.4th 49, an appraisal panel may not
+          decide questions of law, coverage, causation, or policy interpretation; its
+          authority is limited to determining the actual cash value or amount of loss.
+          Coverage disputes belong in court (or in another agreed forum) &mdash; not in the
+          appraisal panel.
         </p>
       </CalloutBox>
 
@@ -283,37 +287,46 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong><em>Kacha v. Allstate Insurance Co.</em> (2006) 140 Cal.App.4th 1023</strong>
-          &mdash; The court held that appraisal provisions in insurance policies are enforceable
-          and can be compelled by the court. The insurer&rsquo;s attempt to avoid appraisal by
-          characterizing the dispute as a coverage issue was rejected.
+          &mdash; The Court of Appeal vacated an appraisal award because the panel had made
+          coverage/causation findings (the award&rsquo;s preamble characterized damage as
+          &ldquo;attributable to the fire of October 26, 2003&rdquo;). Appraisal determines
+          amount, not coverage; a panel that strays into causation or coverage exceeds its
+          authority. The flip side, useful for policyholders: an insurer cannot label every
+          dispute a &ldquo;coverage question&rdquo; to escape appraisal where the real
+          disagreement is dollar value.
         </li>
         <li>
           <strong><em>Devonwood Condominium Owners Association v. Farmers Insurance
-          Exchange</em> (2008) 162 Cal.App.4th 1498</strong> &mdash; The court addressed the
-          scope of appraisal and held that an appraisal panel may make factual determinations
-          about the extent and nature of damage, not just assign dollar values to items the
-          insurer has already conceded.
+          Exchange</em> (2008) 162 Cal.App.4th 1498</strong> &mdash; The Court of Appeal
+          vacated a money judgment confirming an appraisal award because the judgment did not
+          conform to the award (CCP &sect; 1287.4). An appraisal panel decides the dollar
+          value of the loss; the judgment that enforces the award cannot silently expand it
+          into a liability or coverage finding the panel never made.
         </li>
         <li>
           <strong><em>Lee v. California Capital Insurance Co.</em> (2015) 237
-          Cal.App.4th 1154</strong> &mdash; The court held that an insurer that refuses to
-          comply with the appraisal process may be subject to bad faith liability. The
-          insurer&rsquo;s obligation to participate in the contractual appraisal mechanism
-          is part of its duty of good faith and fair dealing.
+          Cal.App.4th 1154</strong> &mdash; A panel values real, inspectable losses; it
+          cannot be compelled to assign a value to items that inspection shows were undamaged
+          or never existed. Parties may agree to appraise a loss involving coverage or
+          causation disputes, but the award should show that the panel decided only the
+          dollar value, not those legal questions.
         </li>
         <li>
-          <strong><em>Sharma v. Provident Life &amp; Accident Insurance Co.</em></strong>
-          &mdash; Addressed the interplay between appraisal and the broader claims handling
-          obligations, reinforcing that appraisal is a policy-based right that carriers
-          cannot unilaterally deny or frustrate.
+          <strong><em>Safeco Ins. Co. v. Sharma</em> (1984) 160 Cal.App.3d 1060</strong>
+          &mdash; The foundational California case on the scope of appraisal: appraisers may
+          decide the amount of loss for items submitted to them, but may not decide whether
+          the insured actually lost what was claimed (a question of identity, credibility, or
+          fraud reserved for the court). Reinforces the line between the panel&rsquo;s
+          valuation function and the court&rsquo;s coverage/fact-finding function.
         </li>
       </ul>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        These cases collectively establish that California courts will enforce the appraisal
-        process, will not allow carriers to use procedural objections as an indefinite
-        stalling mechanism, and will hold carriers accountable for obstructing a
-        contractual remedy that exists for the benefit of both parties.
+        These cases collectively define the boundaries of the appraisal process &mdash; what
+        a panel can and cannot decide, how an award is enforced, and where appraisal ends and
+        litigation begins. They do not (with the exception of <em>Brehm</em>) directly address
+        carrier obstruction; that argument runs through California&rsquo;s broader bad-faith
+        framework and the Fair Claims Settlement Practices Regulations.
       </p>
 
       {/* ── Practical Strategies ──────────────────────────────────── */}
