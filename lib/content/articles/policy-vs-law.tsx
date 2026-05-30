@@ -202,17 +202,21 @@ export default function Content() {
           predominating cause. The insurer cannot contract around this doctrine with policy language.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>Bottom line:</strong> Anti-concurrent causation clauses are unenforceable in
-          California to the extent they conflict with &sect; 530 and the efficient proximate cause
-          doctrine. As the Supreme Court stated in <em>Julian v. Hartford Underwriters Insurance
-          Co.</em> (2005) 35 Cal.4th 747: &ldquo;Policy exclusions are unenforceable to the extent
-          that they conflict with section 530 and the efficient proximate cause doctrine.&rdquo; If
-          a covered peril was the predominant cause of your loss, the entire loss should be covered
-          &mdash; regardless of what the ACC clause says. The California Department of Insurance has
-          issued formal notices to insurers on this point in both 2018 (after the Thomas Fire and
-          Montecito mudslides) and again in Bulletin 2025-3 (after the 2025 Los Angeles wildfires),
-          reminding them they may not use ACC clauses to deny coverage when wildfire was the
-          efficient proximate cause.
+          <strong>Bottom line:</strong> Under <em>Garvey</em> and Insurance Code &sect; 530,
+          anti-concurrent causation clauses cannot defeat coverage when a covered peril is the
+          efficient proximate cause of the loss. The California Supreme Court reaffirmed the
+          general rule in <em>Julian v. Hartford Underwriters Insurance Co.</em> (2005) 35 Cal.4th
+          747: &ldquo;Policy exclusions are unenforceable to the extent that they conflict with
+          section 530 and the efficient proximate cause doctrine.&rdquo; (Note: in <em>Julian</em>
+          itself, the Court ultimately enforced the carrier&rsquo;s exclusion because it found the
+          excluded peril &mdash; rain-induced landslide &mdash; was distinct from the covered peril
+          of rain alone. The rule is real but the line between &ldquo;excluding a manifestation of
+          a covered peril&rdquo; and &ldquo;excluding a distinct peril&rdquo; matters.) After the
+          2018 Thomas Fire / Montecito mudslides, the Legislature codified the rule for
+          wildfire-related losses in Insurance Code &sect; 530.5, and the California Department of
+          Insurance has issued formal notices on this point in both 2018 and again in Bulletin
+          2025-3 (February 2025, after the Los Angeles wildfires), reminding insurers they may not
+          use ACC clauses to deny coverage when wildfire was the efficient proximate cause.
         </p>
         <div className="pt-3 border-t border-gray-300">
           <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-1.5">
@@ -468,11 +472,17 @@ export default function Content() {
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the law says:</strong> The California Supreme Court in <em>Another Planet
-          Entertainment LLC v. Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106 established that
-          direct physical loss does not require permanent damage. Property need only be
-          &ldquo;demonstrably altered or changed,&rdquo; and alterations &ldquo;at the microscopic
-          level may meet this threshold.&rdquo; Judge Rice applied this holding directly in the
-          FAIR Plan case.
+          Entertainment LLC v. Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106 set out the
+          California standard for &ldquo;direct physical loss or damage to property&rdquo;: the
+          property must show a &ldquo;distinct, demonstrable, physical alteration,&rdquo; and that
+          alteration &ldquo;need not be visible to the naked eye, nor must it be structural, but it
+          must result in some injury to or impairment of the property as property.&rdquo;
+          Microscopic alterations can satisfy the standard, but only when they impair the property
+          itself. (The Court applied this rule to reject Another Planet&rsquo;s COVID-19
+          business-interruption claim, finding that the virus&rsquo;s presence on premises did not
+          impair the property as property.) Judge Rice applied the same standard in the FAIR Plan
+          case and reached the opposite result: smoke contamination of a home <em>does</em> impair
+          the property as property, even when the alteration is microscopic.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>Bottom line:</strong> If your policy defines &ldquo;direct physical loss&rdquo;
