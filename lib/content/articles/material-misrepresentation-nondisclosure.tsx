@@ -252,12 +252,31 @@ export default function Content() {
         <p>
           If your home was damaged or destroyed by fire, and the insurer is asserting
           misrepresentation or concealment as a basis for rescission, the insurer must prove that
-          you acted <strong>willfully</strong>. An innocent mistake on an application, a failure
-          to update your policy after a life change, or a misunderstanding about what needed to be
-          disclosed is not enough. The insurer must prove you <em>knew</em> the information was
-          false or deliberately chose to withhold it. This is an extraordinarily difficult burden
-          for the insurer to meet, and many rescission attempts fail at this stage when the
-          policyholder pushes back with competent legal representation.
+          you acted <strong>willfully</strong> to void the policy under &sect; 2071. An innocent
+          mistake on an application, a failure to update your policy after a life change, or a
+          misunderstanding about what needed to be disclosed is not enough to meet
+          &sect; 2071&rsquo;s standard.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="warning" title="IC 2071 Is Not an Absolute Shield: The Mitchell Caveat">
+        <p>
+          The willfulness standard discussed above describes how &sect; 2071 operates on its own
+          terms. But California courts have not treated &sect; 2071 as the exclusive remedy. In{' '}
+          <em>Mitchell v. United Nat&rsquo;l Ins. Co.</em> (2005) 127 Cal.App.4th 457, the Court of
+          Appeal held that an insurer may rescind a <strong>fire</strong> insurance policy under
+          Insurance Code &sect;&sect; 331 and 359 for the insured&rsquo;s <strong>negligent or
+          unintentional</strong> misrepresentation of a material fact, <strong>notwithstanding</strong>{' '}
+          &sect; 2071&rsquo;s willfulness clause. Under <em>Mitchell</em>, an insurer can pursue
+          either remedy &mdash; &sect; 2071 (void the policy on willful conduct) or
+          &sect;&sect; 331/359 (rescission for innocent misrep, with the insurer returning
+          premiums). The willfulness language alone is not the absolute shield it is sometimes
+          described as. The California Supreme Court has not squarely resolved the tension. The
+          practical lesson for fire-loss policyholders: do not rely on &sect; 2071&rsquo;s
+          willfulness language alone. A rescission case requires careful analysis of which remedy
+          the insurer is pursuing and what defenses (waiver, estoppel, agent imputation, lack of
+          materiality, the &sect; 330 &ldquo;ought to communicate&rdquo; standard) are available
+          under either framework. Consult an attorney immediately.
         </p>
       </CalloutBox>
 
@@ -283,12 +302,14 @@ export default function Content() {
         important to the insurance transaction.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>LA Sound USA, Inc. v. St. Paul Fire &amp; Marine Insurance Co.</em>, 156
-        Cal. App. 4th 1259 (2007)</strong> considered whether the insured&rsquo;s failure to
-        disclose certain facts constituted concealment. The court evaluated the concealment
-        allegation from the perspective of a reasonable insured, noting that if the fact was not
-        one that an ordinary person would understand to be material to the insurance transaction,
-        the concealment defense is weakened.
+        <strong><em>LA Sound USA, Inc. v. St. Paul Fire &amp; Marine Ins. Co.</em> (2007)
+        156 Cal.App.4th 1259</strong> illustrates how aggressively concealment can be applied:
+        the court affirmed rescission where the insured had failed to disclose its ongoing
+        joint venture and labor interchange with another business on the application. The case
+        reinforces the &sect;&sect; 330&ndash;331 rule that concealment &mdash; intentional or
+        not &mdash; entitles the insurer to rescind a material omission, and underscores that
+        the &ldquo;reasonable insured&rdquo; framing is no defense when the omitted fact was
+        clearly material to the risk.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -313,13 +334,17 @@ export default function Content() {
         policyholder.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Courts have recognized this principle in the insurance context. In{' '}
-        <strong><em>Cummings v. Fire Insurance Exchange</em>, 202 Cal. App. 3d 1407
-        (1988)</strong>, the court addressed the relationship between an insurer&rsquo;s
-        application questions and its concealment arguments, recognizing that an insurer that
-        fails to ask questions about matters it considers material faces a weakened position when
-        later claiming concealment because the applicant did not volunteer the information. The
-        insurer drafted the application. If the information was important, it should have asked.
+        Courts have recognized this principle in the insurance context, though the leading
+        California case on concealment, <em>Cummings v. Fire Ins. Exchange</em> (1988) 202
+        Cal.App.3d 1407, actually went the insurer&rsquo;s way on the facts: there, the insured
+        filed a vandalism claim but concealed that her son &mdash; who lived with her &mdash; had
+        committed the damage, and the court held the concealment was material because the
+        policy excluded intentional acts of the insured. The broader principle still stands as a
+        matter of California concealment doctrine: the insurer drafts the application and bears
+        the consequences of its own failure to ask about matters it now claims are material; a
+        policyholder cannot conceal the answer to a question that was never asked. But the
+        principle is grounded more in the &sect; 330 &ldquo;ought to communicate&rdquo;
+        framework than in any single case making the point cleanly for the policyholder.
       </p>
 
       <CalloutBox variant="tip" title="The Application Controls the Duty">
@@ -809,12 +834,19 @@ export default function Content() {
         Decisions Favoring Insurers
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Mitchell v. United National Insurance Co.</em>, 127 Cal. App. 4th 457
-        (2005):</strong> The court upheld rescission based on innocent misrepresentation in a
-        non-fire policy context. The policyholder&rsquo;s good faith was irrelevant under the
-        general rescission standard because the misrepresentation was material. This case
-        illustrates why the IC 2071 distinction for fire policies is so important &mdash; without
-        it, even honest mistakes can support rescission.
+        <strong><em>Mitchell v. United National Insurance Co.</em>, 127 Cal.App.4th 457
+        (2005):</strong> This is the case every California policyholder facing a rescission
+        threat needs to understand. The court held that &sect;&sect; 331 and 359 permit rescission
+        of a <strong>fire</strong> insurance policy for the insured&rsquo;s negligent or
+        unintentional misrepresentation of a material fact, <strong>notwithstanding</strong> the
+        &ldquo;willfully&rdquo; clause in the standard form policy under &sect; 2071. The court
+        treated &sect; 2071 as creating a separate, more limited &ldquo;void the policy&rdquo;
+        remedy, and held that the insurer&rsquo;s separate right to rescind under
+        &sect;&sect; 331/359 was not displaced by &sect; 2071&rsquo;s willfulness language. The
+        practical lesson: <em>Mitchell</em> shows that IC 2071 is NOT the absolute shield it is
+        sometimes described as. Policyholders cannot rely on the willfulness clause alone
+        without considering how California courts have actually applied &sect;&sect; 331/359 to
+        fire-policy rescissions.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>West Coast Life Insurance Co. v. Ward</em>, 132 Cal. App. 4th 181
@@ -825,16 +857,18 @@ export default function Content() {
         the fire policy context, the standard for rescission is significantly lower.
       </p>
 
-      <CalloutBox variant="legal" title="The IC 2071 Line Is Everything">
+      <CalloutBox variant="legal" title="Which Remedy Is the Insurer Pursuing?">
         <p>
-          The most important question in any California misrepresentation-rescission case is
-          whether the policy includes fire coverage governed by IC 2071. If it does, the insurer
-          must prove willful misrepresentation &mdash; a standard that protects honest
-          policyholders who made innocent mistakes. If the policy does not include fire coverage
-          (for example, an inland marine policy, a liability-only policy, or certain commercial
-          forms), the general rescission standard applies, and even innocent misrepresentations can
-          be fatal. For homeowner policies with fire coverage, IC 2071 is the policyholder&rsquo;s
-          strongest shield.
+          An important early question in any California misrepresentation-rescission case is which
+          remedy the insurer is asserting. Section 2071 (for fire policies) is, on its terms, a
+          willfulness-based remedy: the insurer must prove the insured willfully concealed or
+          misrepresented a material fact. Sections 331/359, by contrast, allow rescission for
+          innocent misrepresentation if the misrep was material. <em>Mitchell</em> (above)
+          confirms that an insurer can pursue the &sect;&sect; 331/359 remedy even on a fire
+          policy, notwithstanding &sect; 2071&rsquo;s willfulness clause &mdash; meaning a
+          policyholder cannot rely on the &ldquo;willfulness only&rdquo; framing as if it were the
+          end of the story. Identifying the remedy the insurer is asserting (and the framework the
+          court will likely apply) is foundational to mounting a defense.
         </p>
       </CalloutBox>
 
