@@ -123,10 +123,10 @@ export default function Content() {
           California Insurance Code Section 2071 &mdash; the standard form fire insurance
           policy that governs every fire policy issued in the state &mdash; contains explicit
           provisions requiring insurers to make claim-related documents available to the insured.
-          The statutory language was amended effective January 1, 2023 (AB 1799), and it requires
-          insurers to (1) <strong>notify claimants that claim-related documents are available
-          upon request</strong>, and (2) <strong>provide copies within 15 calendar days</strong>{' '}
-          of receiving a written request.
+          Under amendments dating to AB 1799 (chaptered 2018) and related reforms, insurers must
+          (1) <strong>notify claimants that claim-related documents are available upon
+          request</strong>, and (2) <strong>provide copies within 15 calendar days</strong>{' '}
+          of receiving a written request (per 10 CCR &sect; 2695.7(d)).
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           The California Code of Regulations reinforces this obligation. Title 10, Section
@@ -422,8 +422,11 @@ export default function Content() {
           alone is generally not sufficient to deny a claim in California. The insurer must
           show it was actually prejudiced by the late notice &mdash; that the delay caused
           a concrete disadvantage in investigating the claim. <em>Shell Oil Co. v. Winterthur
-          Swiss Insurance Co.</em> (1993) 12 Cal.App.4th 715 established that the &ldquo;notice
-          prejudice rule&rdquo; applies to first-party property claims.
+          Swiss Ins. Co.</em> (1993) 12 Cal.App.4th 715 is a leading California case on the
+          notice-prejudice rule in the liability-insurance context, articulating that an
+          insurer asserting late notice as a defense must prove actual, substantial prejudice
+          &mdash; not merely the possibility of prejudice. California courts have applied that
+          framework broadly.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           For a detailed treatment, see our articles on{' '}
@@ -546,16 +549,17 @@ export default function Content() {
           wrote it into the Insurance Code in plain language.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          Outside California, the picture is mixed. A growing number of courts have reached
-          the same conclusion.
-          In <em>Hearn v. Farmers Insurance Exchange</em> (10th Cir. 2019), the court held
-          that depreciating labor was improper when calculating actual cash value. Arkansas,
-          Kentucky, Oklahoma, and other states have adopted this position through case law
-          or regulation. But in many states, insurers are still permitted to depreciate labor,
-          and the issue remains actively litigated. Under California&apos;s broad evidence
-          rule adopted in <em>Cheeks v. California Fair Plan Association</em> (1992), ACV
-          must account for all relevant evidence of value, and there is no logical basis for
-          &ldquo;aging&rdquo; the cost of future labor. For a full discussion, see our article on{' '}
+          Outside California, the picture is mixed. A growing number of states have reached the
+          same conclusion through case law or regulation &mdash; Arkansas, Kentucky, and
+          Oklahoma among them &mdash; though the rule and its scope vary by jurisdiction. In
+          many states, insurers are still permitted to depreciate labor, and the issue remains
+          actively litigated. In California, the leading appellate discussion of ACV measurement
+          is <em>Cheeks v. California Fair Plan Assn.</em> (1998) 61 Cal.App.4th 423, which
+          equated ACV with fair market value (following <em>Jefferson Ins. Co. v. Superior
+          Court</em>) and discussed several methods including the &ldquo;broad evidence
+          rule&rdquo; as alternatives. Whichever measure applies, there is no logical basis for
+          &ldquo;aging&rdquo; the cost of future labor &mdash; and in California, &sect; 2051.5
+          settles the question by statute. For a full discussion, see our article on{' '}
           <Link href="/resources/labor-depreciation" className="text-blue-700 underline hover:text-blue-900">
             labor depreciation
           </Link>{' '}
@@ -861,9 +865,11 @@ export default function Content() {
           value of any particular item.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          California does provide some protection after declared disasters: SB 495 (Insurance
-          Code &sect; 10103.7) requires insurers to pay at least 30% of dwelling limits
-          toward contents without requiring an itemized inventory during the first 100 days.
+          California does provide some protection after declared disasters: Insurance Code
+          &sect; 10103.7 currently requires insurers to pay at least 30% of dwelling limits
+          toward contents (capped at $250,000) without requiring an itemized inventory during
+          the first 100 days. (SB 495, signed in 2025, expands this floor to 60% &mdash; capped
+          at $350,000 &mdash; effective in 2026.)
           But that is a floor, not a ceiling. A thorough home inventory &mdash; photos,
           video walkthroughs, receipts stored off-site or in the cloud &mdash; can mean the
           difference between a $50,000 contents settlement and a $200,000 one. See our
@@ -1044,7 +1050,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">&ldquo;Insure for market value&rdquo;</td>
-              <td className="p-3 text-gray-700">Coverage should match replacement cost, not market value. CIC &sect; 10102 requires insurers to provide RC estimates.</td>
+              <td className="p-3 text-gray-700">Coverage should match replacement cost, not market value. CIC &sect; 10103.4 requires insurers to provide RC estimates at renewal every other year.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;I have full coverage&rdquo;</td>
@@ -1056,7 +1062,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;I don&apos;t need pre-loss documentation&rdquo;</td>
-              <td className="p-3 text-gray-700">SB 495 (CIC &sect; 10103.7) provides a 30% floor, but documentation maximizes recovery. Post-loss recall underestimates 40&ndash;60%.</td>
+              <td className="p-3 text-gray-700">CIC &sect; 10103.7 provides a 30% floor (cap $250K, 100 days); SB 495 (2025) expands to 60% (cap $350K) effective 2026. Documentation still maximizes recovery; post-loss recall underestimates 40&ndash;60%.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">&ldquo;My policy covers earthquakes&rdquo;</td>
@@ -1111,8 +1117,7 @@ export default function Content() {
             <li><em>Prudential-LMI v. Superior Court</em> (1990) 51 Cal.3d 674 (equitable tolling)</li>
             <li><em>Shell Oil Co. v. Winterthur</em> (1993) 12 Cal.App.4th 715 (notice-prejudice rule)</li>
             <li><em>Aydin Corp. v. First State</em> (1998) 18 Cal.4th 1183 (burden of proof on exclusions)</li>
-            <li><em>Cheeks v. California Fair Plan</em> (1992) (broad evidence rule for ACV)</li>
-            <li><em>Hearn v. Farmers Insurance Exchange</em> (10th Cir. 2019) (labor depreciation)</li>
+            <li><em>Cheeks v. California Fair Plan Assn.</em> (1998) 61 Cal.App.4th 423 (ACV synonymous with fair market value; broad evidence rule discussed)</li>
           </ul>
         </div>
       </div>
