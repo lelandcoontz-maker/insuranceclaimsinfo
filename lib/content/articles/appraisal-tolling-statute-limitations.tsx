@@ -358,11 +358,12 @@ export default function Content() {
         <em>Brehm v. 21st Century Ins. Co.</em> (2008) 166 Cal.App.4th 1225
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Brehm</em> held that both parties have an implied obligation to participate
-        honestly and in good faith in the appraisal process. Some courts have drawn on{' '}
-        <em>Brehm</em> to support the idea that the insurer cannot demand good-faith
-        appraisal participation while simultaneously letting the limitations clock run out on
-        the policyholder. If the insurer expects the policyholder to participate fully in
+        <em>Brehm</em> emphasized the <em>insurer&rsquo;s</em> implied obligation to honestly
+        assess the claim and make a reasonable effort to resolve the dispute before invoking
+        appraisal &mdash; and held that the right to demand appraisal does not relieve the
+        insurer of its duty of good faith. Some courts have drawn on <em>Brehm</em> to support
+        the idea that the insurer cannot demand good-faith appraisal participation while
+        simultaneously letting the limitations clock run out on the policyholder. If the insurer expects the policyholder to participate fully in
         appraisal &mdash; to prepare estimates, provide access, submit documentation, and
         cooperate with the panel &mdash; then the insurer should not be permitted to take
         advantage of the time that process consumes.
