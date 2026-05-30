@@ -195,7 +195,8 @@ export default function Content() {
           <strong>What the law says:</strong> California Insurance Code &sect; 530 codifies
           the efficient proximate cause doctrine: &ldquo;An insurer is liable for a loss of which a
           peril insured against was the proximate cause, although a peril not contemplated by the
-          contract may have been a remote cause of the loss.&rdquo; In <em>Garvey v. State Farm
+          contract may have been a remote cause of the loss; but he is not liable for a loss of
+          which the peril insured against was only a remote cause.&rdquo; In <em>Garvey v. State Farm
           Fire &amp; Casualty Co.</em> (1989) 48 Cal.3d 395, the California Supreme Court held that
           when a loss is caused by a combination of covered and excluded perils, the loss is covered
           if the covered peril was the &ldquo;efficient proximate cause&rdquo; &mdash; the
