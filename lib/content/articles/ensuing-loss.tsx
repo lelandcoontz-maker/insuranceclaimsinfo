@@ -231,7 +231,7 @@ export default function Content() {
         Roof Leak Example: How the Analysis Works in California
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A homeowner&rsquo;s roof was improperly installed by a contractor. Rain enters through rift leaks at the joints, runs down the wall cavity, and damages the drywall, flooring, baseboards, and personal property in multiple rooms. The carrier&rsquo;s adjuster concludes the leak was caused by improper installation and denies the claim, citing the faulty workmanship exclusion and the anti-concurrent causation language.
+        A homeowner&rsquo;s roof was improperly installed by a contractor. Rain enters through leaks at the joints, runs down the wall cavity, and damages the drywall, flooring, baseboards, and personal property in multiple rooms. The carrier&rsquo;s adjuster concludes the leak was caused by improper installation and denies the claim, citing the faulty workmanship exclusion and the anti-concurrent causation language.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, this claim should be covered under multiple theories:
@@ -285,7 +285,7 @@ export default function Content() {
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">Florida</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Florida follows the concurrent causation doctrine and is generally policyholder-friendly on ensuing loss. The burden is on the <strong>insurer</strong> to prove that the damage was caused by an excluded peril. If neither the insurer nor the insured can establish the cause of damage, the insurer may be unable to meet its burden, and coverage applies. The Florida Third District Court of Appeal addressed concurrent causation in <em>Sebo v. American Home Assurance Co.</em> (2016) 208 So.3d 694, where rainwater and hurricane winds combined with defective construction to cause damage. The court found no reasonable way to distinguish the proximate cause, and held the loss covered even though one cause was excluded.
+        Florida follows the concurrent causation doctrine and is generally policyholder-friendly on ensuing loss. The burden is on the <strong>insurer</strong> to prove that the damage was caused by an excluded peril. If neither the insurer nor the insured can establish the cause of damage, the insurer may be unable to meet its burden, and coverage applies. The Florida Supreme Court addressed concurrent causation in <em>Sebo v. American Home Assurance Co.</em> (Fla. 2016) 208 So.3d 694, where rainwater and hurricane winds combined with defective construction to cause damage. The court found no reasonable way to distinguish the proximate cause, and held the loss covered even though one cause was excluded.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Key difference from California:</strong> Florida enforces ACC clauses as written. Unlike California, Florida courts have not held that ACC language is categorically unenforceable. However, Florida&rsquo;s burden-of-proof framework &mdash; which places the exclusion burden on the insurer &mdash; can produce similar outcomes in practice, because the insurer must affirmatively prove the excluded peril caused the loss.
