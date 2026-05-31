@@ -458,10 +458,11 @@ export default function Content() {
         principles. In <em>Thompson v. California Fair Plan Association</em> (1990) 221
         Cal.App.3d 760, the court recognized that the broker &ldquo;acted as agent
         for&rdquo; the insured when applying for FAIR Plan insurance &mdash; not as an
-        agent of the FAIR Plan. And in <em>Wexler v. California Fair Plan Association</em>{' '}
-        (2021), the court held that an insurer is &ldquo;not vicariously liable for actions
-        by an agent that are outside the scope of the agency relationship and were performed
-        in the agent&rsquo;s dual role as a broker.&rdquo;
+        agent of the FAIR Plan. Read alongside Insurance Code &sect;&sect; 31, 33, 1623(c),
+        and 1731, the result is that brokers who write FAIR Plan policies are statutorily
+        deemed the insured&rsquo;s agents, not the FAIR Plan&rsquo;s, unless the FAIR Plan
+        has filed a notice of appointment for that licensee (which, as the FAIR Plan itself
+        states, it does not).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This means that if a broker tells a FAIR Plan applicant that the policy covers a
