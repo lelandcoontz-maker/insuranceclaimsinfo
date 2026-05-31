@@ -239,12 +239,17 @@ export default function Content() {
         no obligation until the underlying has actually paid its full limit.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, the law on this point favors policyholders. The California Supreme Court
-        in <em>Community Redevelopment Agency v. Aetna Casualty &amp; Surety Co.</em> (1996) 50
-        Cal.App.4th 329 held that proper exhaustion occurs when the primary insurer has paid or
-        is obligated to pay its policy limits. The underlying limits need not be paid dollar for
-        dollar by the primary carrier &mdash; what matters is that the loss exceeds the primary
-        limits.
+        California law on exhaustion is unsettled and has been evolving. The Court of Appeal in
+        <em> Community Redevelopment Agency v. Aetna Casualty &amp; Surety Co.</em> (1996) 50
+        Cal.App.4th 329 articulated a strict <em>horizontal exhaustion</em> rule &mdash; that an
+        excess policy does not attach until all primary insurance has been exhausted &mdash;
+        which is generally pro-carrier. More recent decisions (including the California Supreme
+        Court&rsquo;s move toward <em>vertical</em> exhaustion in <em>Montrose Chemical Corp. v.
+        Superior Court</em> (2020) 9 Cal.5th 215 and related cases) have softened horizontal
+        exhaustion in certain contexts. Insureds disputing &ldquo;underlying not properly
+        exhausted&rdquo; defenses should look at the most recent California authority for their
+        specific exhaustion scenario (long-tail vs. occurrence, multiple primary policies, etc.)
+        rather than rely on any single older case.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
@@ -401,9 +406,16 @@ export default function Content() {
           <strong>The duty to settle within primary limits.</strong> When the underlying carrier
           has an opportunity to settle within its limits but refuses, and a judgment exceeds the
           primary limits triggering the umbrella, complex equitable contribution and subrogation
-          issues arise between the primary and umbrella carriers. Under <em>Commercial Union
-          Assurance Cos. v. Safeway Stores, Inc.</em> (1980) 26 Cal.3d 912, the excess carrier
-          may have rights against the primary carrier for bad faith failure to settle.
+          issues arise between the primary and umbrella carriers. California recognizes that an
+          excess insurer who has been forced to pay because the primary carrier unreasonably
+          refused to settle within primary limits may have an equitable-subrogation claim against
+          the primary carrier &mdash; the excess steps into the insured&rsquo;s shoes and pursues
+          the primary for breach of its duty to settle. The foundational California authority is
+          <em> Northwestern Mut. Ins. Co. v. Farmers Ins. Group</em> (1978) 76 Cal.App.3d 1031.
+          Note: <em>Commercial Union Assurance Cos. v. Safeway Stores, Inc.</em> (1980) 26 Cal.3d
+          912 addresses a different question and is sometimes confused with this doctrine &mdash;
+          Commercial Union held that the <em>insured</em> owes no implied duty to its excess
+          insurer to accept a settlement offer within primary limits.
         </li>
       </ul>
 
