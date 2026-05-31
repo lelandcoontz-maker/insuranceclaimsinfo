@@ -124,7 +124,7 @@ export default function Content() {
         The Court adopted a formulation that has been cited in hundreds of decisions since:
         &ldquo;In determining whether a loss is within an exception in a policy, where there
         is a concurrence of different causes, the efficient cause &mdash; the one that sets
-        others in motion &mdash; is the cause to which the loss is to be attributed, though
+        others in motion &mdash; is the cause to which the loss is attributed, though
         the other causes may follow it, and operate more immediately in producing the
         disaster.&rdquo;
       </p>
