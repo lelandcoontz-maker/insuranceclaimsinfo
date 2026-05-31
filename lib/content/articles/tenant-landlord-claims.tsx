@@ -120,7 +120,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The DP-3 is significantly better for landlords. Because it is an open-peril form, it does not contain anti-concurrent causation (ACC) language in the way some named-peril forms do. In California, ACC clauses are unenforceable under <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, but the absence of ACC language in a DP-3 means the issue never arises in the first place. For a detailed explanation of why ACC clauses fail in California, see our article on{' '}
+        The DP-3 is significantly better for landlords. Because it is an open-peril form, it does not contain anti-concurrent causation (ACC) language in the way some named-peril forms do. In California, ACC clauses are unenforceable under <em>Howell v. State Farm</em> (1990) 218 Cal.App.3d 1446 and Insurance Code &sect; 530 to the extent they conflict with the efficient proximate cause doctrine, but the absence of ACC language in a DP-3 means the issue never arises in the first place. For a detailed explanation of why ACC clauses fail in California, see our article on{' '}
         <Link href="/resources/anti-concurrent-causation" className="text-blue-700 underline hover:text-blue-900">
           anti-concurrent causation clauses
         </Link>.

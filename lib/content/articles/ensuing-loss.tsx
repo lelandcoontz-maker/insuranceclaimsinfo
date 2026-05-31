@@ -170,7 +170,7 @@ export default function Content() {
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>In California, ACC clauses are unenforceable.</strong> Under <em>Julian v. Hartford Underwriters</em> (2005) 35 Cal.4th 747, the California Supreme Court held that ACC language cannot be used to expand exclusions beyond what the efficient proximate cause analysis allows. This means that even when the ISO form contains ACC language, California policyholders can still invoke both the EPC doctrine and the ensuing loss savings clause.
+          <strong>In California, ACC clauses are unenforceable.</strong> Under <em>Howell v. State Farm</em> (1990) 218 Cal.App.3d 1446 and Insurance Code &sect; 530, ACC language cannot be used to expand exclusions beyond what the efficient proximate cause analysis allows. The California Supreme Court restated the general rule in <em>Julian v. Hartford Underwriters</em> (2005) 35 Cal.4th 747, although on <em>Julian</em>&rsquo;s facts the Court enforced the carrier&rsquo;s exclusion. This means that even when the ISO form contains ACC language, California policyholders can still invoke both the EPC doctrine and the ensuing loss savings clause.
         </li>
         <li>
           <strong>ACC language only precedes specific exclusions.</strong> It does not apply to every exclusion in the policy. If the excluded cause at issue is not one of the eight perils in the first exclusion group, the ACC clause does not apply, and the ensuing loss analysis proceeds normally &mdash; in every state.

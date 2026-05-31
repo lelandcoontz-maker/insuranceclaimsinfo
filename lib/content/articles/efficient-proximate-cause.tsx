@@ -138,13 +138,16 @@ export default function Content() {
         After <em>Garvey</em>, some insurers attempted to circumvent the efficient proximate cause doctrine by adding &ldquo;anti-concurrent causation&rdquo; clauses to their policies &mdash; language stating that damage is excluded &ldquo;regardless of any other cause or event that contributes concurrently or in any sequence to the loss.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Supreme Court addressed this tactic in <em>Julian v. Hartford Underwriters Insurance Co.</em> The Court held:
+        The California Supreme Court restated the general rule in <em>Julian v. Hartford Underwriters Insurance Co.</em>:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
         &ldquo;[P]olicy exclusions are unenforceable to the extent that they conflict with section 530 and the efficient proximate cause doctrine.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In other words, an insurer cannot use policy language to expand the scope of its exclusions beyond what the efficient proximate cause analysis would permit. When a covered peril is the efficient proximate cause of a loss, anti-concurrent causation language cannot be used to deny coverage simply because an excluded peril also contributed. This is a feature of California law that is unique compared to many other states, where anti-concurrent causation language is often enforced as written.
+        <strong>An important caveat about <em>Julian</em>:</strong> the Court actually <em>enforced</em> the carrier&rsquo;s exclusion on the facts of that case, finding that the excluded peril (a rain-induced landslide) was a distinct peril rather than a manifestation of the covered peril of rain alone. So <em>Julian</em>&rsquo;s general rule statement is real, but the Court drew a line between &ldquo;excluding a manifestation of a covered peril&rdquo; (which the ACC clause cannot do) and &ldquo;excluding a distinct peril altogether&rdquo; (which an insurer can still do). The Court of Appeal case that directly held ACC language cannot defeat coverage where a covered peril is the efficient proximate cause is <em>Howell v. State Farm</em>, discussed in the next section.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under <em>Howell</em>, &sect; 530, and the general <em>Julian</em> rule, an insurer cannot use policy language to expand the scope of its exclusions beyond what the efficient proximate cause analysis would permit. When a covered peril is the efficient proximate cause of a loss, anti-concurrent causation language cannot be used to deny coverage simply because an excluded peril also contributed. This is a feature of California law that is unique compared to many other states, where anti-concurrent causation language is often enforced as written.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -320,7 +323,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200">
               <td className="px-4 py-2 font-medium"><em>Julian v. Hartford</em> (2005) 35 Cal.4th 747</td>
-              <td className="px-4 py-2">Anti-concurrent causation clauses are unenforceable to the extent they conflict with the EPC doctrine.</td>
+              <td className="px-4 py-2">Restates the rule: policy exclusions are unenforceable to the extent they conflict with &sect; 530 and the EPC doctrine. (On its facts, the Court enforced the carrier&rsquo;s exclusion as targeting a distinct peril.) <em>Howell</em> above is the case that actually held ACC language unenforceable.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="px-4 py-2 font-medium"><em>Vardanyan v. AMCO</em> (2015) 243 Cal.App.4th 779</td>

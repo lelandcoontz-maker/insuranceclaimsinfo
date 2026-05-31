@@ -343,10 +343,13 @@ export default function Content() {
         </Link>{' '}
         to their policies &mdash; language excluding damage &ldquo;regardless of any other
         cause or event that contributes concurrently or in any sequence to the loss.&rdquo;
-        The California Supreme Court addressed this in <em>Julian v. Hartford Underwriters
-        Insurance Co.</em> (2005) 35 Cal.4th 747, holding that such exclusion language is
-        unenforceable to the extent it conflicts with Insurance Code &sect; 530 and the
-        efficient proximate cause doctrine. In <em>Vardanyan v. AMCO Insurance Co.</em>{' '}
+        The Court of Appeal directly addressed this in <em>Howell v. State Farm Fire &amp; Cas. Co.</em>
+        (1990) 218 Cal.App.3d 1446, holding that an insurer may not exclude coverage when a covered
+        peril is the efficient proximate cause of loss even though an excluded peril contributed.
+        The California Supreme Court restated the general rule in <em>Julian v. Hartford Underwriters
+        Insurance Co.</em> (2005) 35 Cal.4th 747, although <em>Julian</em> itself enforced the
+        carrier&rsquo;s exclusion on the facts. ACC language is unenforceable to the extent it
+        conflicts with Insurance Code &sect; 530 and the efficient proximate cause doctrine. In <em>Vardanyan v. AMCO Insurance Co.</em>{' '}
         (2015) 243 Cal.App.4th 779, the Court of Appeal confirmed that &ldquo;caused only
         by&rdquo; language is similarly unenforceable when used to circumvent the doctrine.
       </p>

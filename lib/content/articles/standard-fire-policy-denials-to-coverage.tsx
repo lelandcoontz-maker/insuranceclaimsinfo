@@ -758,12 +758,16 @@ export default function Content() {
         Policy Exclusions Not Found in the Standard Fire Policy
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Julian v. Hartford Underwriters Insurance Co.</em> (Cal. 2005):</strong>{' '}
-        The California Supreme Court established that &ldquo;policy exclusions are unenforceable
-        to the extent they conflict with the Insurance Code&rdquo; &mdash; specifically, the
-        statutory Standard Fire Policy. This means exclusions that insurers add to their policies
-        for wear and tear, mechanical breakdown, or other causes are unenforceable when applied
-        to fire losses if the Standard Fire Policy does not contain those exclusions.
+        <strong><em>Julian v. Hartford Underwriters Insurance Co.</em> (2005) 35 Cal.4th 747:</strong>{' '}
+        The California Supreme Court restated the general rule that &ldquo;policy exclusions are
+        unenforceable to the extent that they conflict with section 530 and the efficient
+        proximate cause doctrine.&rdquo; (On <em>Julian</em>&rsquo;s facts, the Court actually
+        enforced the carrier&rsquo;s weather-conditions/earth-movement exclusion as targeting a
+        distinct peril.) Read alongside Insurance Code &sect; 2070 (requiring fire policies to be
+        substantially equivalent to or more favorable than the standard form), the practical
+        effect is that exclusions insurers add to their policies for wear and tear, mechanical
+        breakdown, or other causes are unenforceable when applied to fire losses if they make the
+        policy less favorable to the insured than the Standard Fire Policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is a broad and powerful principle: for fire losses, the only exclusions that are

@@ -124,7 +124,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Faulty Workmanship Is Not in the ACC Group">
         <p>
-          In the standard ISO HO-3 form, anti-concurrent causation (ACC) language precedes the first group of eight exclusions (earth movement, water/flood, etc.). The faulty workmanship exclusion is in a <em>separate</em> group of exclusions that is <strong>not</strong> preceded by ACC language. This means even in states that enforce ACC clauses, the ACC language does not apply to construction defect exclusions. In California, where ACC clauses are unenforceable under <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, this distinction is less critical &mdash; but it matters in other states.
+          In the standard ISO HO-3 form, anti-concurrent causation (ACC) language precedes the first group of eight exclusions (earth movement, water/flood, etc.). The faulty workmanship exclusion is in a <em>separate</em> group of exclusions that is <strong>not</strong> preceded by ACC language. This means even in states that enforce ACC clauses, the ACC language does not apply to construction defect exclusions. In California, where ACC clauses are unenforceable under <em>Howell v. State Farm</em> (1990) 218 Cal.App.3d 1446 and Insurance Code &sect; 530, this distinction is less critical &mdash; but it matters in other states.
         </p>
       </CalloutBox>
 
