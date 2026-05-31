@@ -183,6 +183,20 @@ export default function Content() {
         covered &mdash; an award the insurer will then challenge as exceeding the panel&rsquo;s
         authority.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The same principle extends to <strong>methodology</strong> disputes. Under <em>Doan v.
+        State Farm General Ins. Co.</em> (2011) 195 Cal.App.4th 1082, a policyholder is not
+        required to go through appraisal before challenging in court <em>how</em> the insurer is
+        calculating depreciation under Insurance Code &sect; 2051. The Court of Appeal held that
+        a policyholder may seek <strong>declaratory relief</strong> on policy-interpretation
+        questions &mdash; including the methodology used to calculate depreciation &mdash;
+        because an appraiser has no authority to decide whether the insurer&rsquo;s method
+        breaches the contract or violates the statute. The practical distinction: if the dispute
+        is about the amount (how much the loss is worth), it belongs in appraisal; if the dispute
+        is about the method (what formula the insurer used, whether age-only depreciation
+        violates &sect; 2051, whether labor was improperly depreciated), it can go straight to
+        court.
+      </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Submit a Complete Proof of Loss

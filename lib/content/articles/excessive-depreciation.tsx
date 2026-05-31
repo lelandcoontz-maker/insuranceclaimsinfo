@@ -95,8 +95,7 @@ export default function Content() {
         the time of the loss &mdash; not simply how old it is.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Court of Appeal addressed this directly in <em>Doan v. State Farm Fire
-        &amp; Casualty Co.</em> The court held that depreciation must be based on the condition of
+        The California Court of Appeal addressed this directly in <em>Doan v. State Farm General Ins. Co.</em> The court held that depreciation must be based on the condition of
         the property, not merely its age. A 20-year-old roof that was well-maintained, had no
         leaks, and was functioning properly should not be depreciated the same as a 20-year-old
         roof that was falling apart. California Code of Regulations, Title 10, Section 2695.9(f)
@@ -503,7 +502,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Key Case Law</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong><em>Doan v. State Farm Fire &amp; Casualty Co.</em></strong> &mdash;
+          <strong><em>Doan v. State Farm General Ins. Co.</em></strong> &mdash;
           California appellate court held that depreciation must be based on condition, not
           merely age. The insurer cannot use a mechanical formula without considering the actual
           state of the property.

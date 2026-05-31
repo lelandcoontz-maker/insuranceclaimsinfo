@@ -815,9 +815,54 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      {/* ───── Doan ───── */}
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        7. <em>Doan v. State Farm General Ins. Co.</em> (2011) 195 Cal.App.4th 1082
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>Doan</em> answers a question that comes up constantly in practice: does a
+        policyholder have to complete appraisal before going to court over <em>how</em>
+        the insurance company is calculating depreciation? The Court of Appeal answered
+        no.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Procedural holding (binding appellate):</strong> The court held that
+        policyholders may pursue <strong>declaratory relief</strong> on coverage and
+        policy-interpretation questions &mdash; including the methodology used to
+        calculate depreciation under Insurance Code &sect; 2051 &mdash; without first
+        going through appraisal. An appraiser has no authority to decide whether the
+        insurer&rsquo;s method of calculating depreciation breaches the policy or
+        violates the statute. The trial court&rsquo;s order forcing the insured into
+        appraisal was reversed and the methodology challenge was allowed to proceed in
+        court.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Substantive standard (applied at the trial court level on remand, 2016):</strong>{' '}
+        Depreciation of personal property must rest on the actual physical condition of
+        each item at the time of loss &mdash; not on age alone or on undisclosed
+        automatic schedules. The insurer&rsquo;s schedule-driven figures, applied without
+        consideration of each item&rsquo;s individual condition and without written
+        explanation, violated the regulations. The 2016 trial-court ruling is not
+        statewide-binding precedent, but it articulates the correct condition-based
+        standard and is widely cited by California adjusters and PAs.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Why it matters:</strong> <em>Doan</em> works on two levels. The procedural
+        holding gives policyholders a path around appraisal when the real dispute is
+        about <em>how</em> the insurer is calculating the loss (methodology), not <em>how
+        much</em> (amount). The substantive trial ruling supplies the rule that adjusters
+        cannot reduce contents to actual cash value using age-only schedules. For a fuller
+        analysis of how this fits into the California depreciation framework, see our
+        article on{' '}
+        <Link href="/resources/broad-evidence-rule-acv" className="text-[#2E74B5] underline">
+          how depreciation is calculated under California law
+        </Link>
+        .
+      </p>
+
       {/* ───── How Appraisal Cases Interrelate ───── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How the Appraisal Cases Interrelate: Six Core Principles
+        How the Appraisal Cases Interrelate: Seven Core Principles
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The appraisal cases discussed above establish a coherent framework built on six
@@ -862,20 +907,32 @@ export default function Content() {
           appraisal and pays the award may be insulated from bad faith liability for pre-appraisal
           conduct. Policyholders must weigh the strategic tradeoff before invoking appraisal.
         </li>
+        <li>
+          <strong>Methodology vs. Amount (<em>Doan</em>):</strong> Challenges to <em>how</em> the
+          insurer calculates depreciation &mdash; the methodology &mdash; are legal/coverage
+          questions that may be pursued in court via declaratory relief and are not committed to
+          appraisal. The amount dispute belongs in appraisal; the methodology dispute belongs in
+          court. The substantive companion rule, from the <em>Doan</em> trial court on remand,
+          requires depreciation of contents to rest on each item&rsquo;s actual physical condition
+          rather than age-only schedules.
+        </li>
       </ol>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        These six principles are mutually reinforcing. <em>Kacha</em> defines what the panel
+        These seven principles are mutually reinforcing. <em>Kacha</em> defines what the panel
         can decide (amount, not coverage). <em>Devonwood</em> ensures the judgment conforms to the
         award. <em>Lee</em> keeps the panel to valuing real losses and makes the award final.{' '}
         <em>Sharma</em> keeps the panel within its lane and the umpire neutral. <em>Lambert</em>{' '}
-        clarifies that party appraisers advocate while the umpire is the neutral. And{' '}
-        <em>Bansal</em> reminds us that appraisal has strategic consequences beyond the amount
-        &mdash; it can foreclose other remedies. When all six
-        principles are respected and understood, appraisal works as intended: a fair, efficient
-        process for resolving amount disputes without litigation. When any principle is violated
-        or ignored, the process is compromised &mdash; and the resulting award may be
-        unenforceable, or the policyholder may have given up more than they realized.
+        clarifies that party appraisers advocate while the umpire is the neutral. <em>Bansal</em>{' '}
+        reminds us that appraisal has strategic consequences beyond the amount &mdash; it can
+        foreclose other remedies. And <em>Doan</em> reserves methodology challenges for the
+        courts, ensuring the panel is not asked to decide the legal question of whether the
+        insurer&rsquo;s depreciation method itself complies with the policy and the Insurance
+        Code. When all seven principles are respected and understood, appraisal works as
+        intended: a fair, efficient process for resolving amount disputes without litigation.
+        When any principle is violated or ignored, the process is compromised &mdash; and the
+        resulting award may be unenforceable, or the policyholder may have given up more than
+        they realized.
       </p>
 
       {/* ───── Cross-References ───── */}

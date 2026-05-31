@@ -410,7 +410,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        <em>Doan v. State Farm Fire &amp; Casualty Co.</em>
+        <em>Doan v. State Farm General Ins. Co.</em> (2011) 195 Cal.App.4th 1082
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The court held that depreciation must be based on the <em>actual physical condition</em>{' '}
