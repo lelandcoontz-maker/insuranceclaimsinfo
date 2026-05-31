@@ -5,9 +5,9 @@ export const meta = {
   title:
     'Does California Follow the Broad Evidence Rule for Calculating Depreciation?',
   description:
-    'California is not a broad evidence rule state. The Legislature displaced the common-law approach with a statutory formula in Insurance Code § 2051(b) — replacement cost less a fair and reasonable deduction for physical depreciation, with regulatory limits on how depreciation must be calculated.',
+    'California is not a broad evidence rule state. The Legislature displaced the common-law approach with a statutory formula in Insurance Code § 2051(b). This article explains how depreciation must be calculated under California law — including specific scenarios for damaged building materials, partial repairs with matching concerns, and personal property under Doan v. State Farm.',
   summary:
-    'California is not a broad evidence rule state. Insurance Code § 2051(b) fixes ACV by statute as replacement cost less a fair and reasonable deduction for physical depreciation, and 10 CCR § 2695.9(f) regulates how depreciation must be documented and applied. Depreciation cannot be applied to labor, and applies only to components normally subject to repair and replacement.',
+    'California is not a broad evidence rule state. Insurance Code § 2051(b) fixes ACV by statute as replacement cost less a fair and reasonable deduction for physical depreciation, and 10 CCR § 2695.9 regulates how depreciation must be documented and applied. Depreciation cannot be applied to labor, applies only to wear components, and on contents must reflect each item\'s actual physical condition under Doan v. State Farm.',
 }
 
 export default function Content() {
@@ -223,6 +223,187 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        How Depreciation Applies by Loss Type
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The limits above apply across the board, but they play out differently depending on
+        what is being repaired or replaced. Three scenarios recur in practice: replacement
+        of damaged building materials, partial repairs that raise matching concerns, and
+        personal property (contents). They share a common spine &mdash; depreciation
+        reaches only material and never labor, only wear-life components, and must always
+        be itemized, condition-based, and explained in writing. What changes from one
+        scenario to the next is the overlay.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        1. Replacement of Damaged Building Materials
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is the baseline structural scenario under Insurance Code &sect; 2051(b): ACV
+        is the cost to repair, rebuild, or replace, less a fair and reasonable deduction
+        for physical depreciation based on the component&rsquo;s condition at the time of
+        injury. Two limits do most of the work.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        First, depreciation reaches only the <strong>material</strong>. Under 10 CCR
+        &sect; 2695.9(f)(1), the labor necessary to repair, rebuild, or replace is not a
+        component of physical depreciation, except for intrinsic labor already embedded in
+        the cost of manufactured goods. On a material-replacement line item, the material
+        cost is isolated and only that portion is depreciated.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Second, even within the material, depreciation applies only to components{' '}
+        <strong>normally subject to repair and replacement during the structure&rsquo;s
+        useful life.</strong> Wear items such as roofing, paint, flooring, carpet, and
+        water heaters may be depreciated; components expected to last the life of the
+        building, such as framing and foundation, generally are not proper subjects of
+        depreciation at all. The deduction must reflect a measurable difference in market
+        value tied to actual condition and age, itemized to a dollar amount, and explained
+        to the insured in writing.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        2. Partial Repairs and the Matching Requirement
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A partial repair &mdash; for example, replacing a few damaged shingles on a roof
+        slope &mdash; runs through the same &sect; 2051(b) analysis (material only, wear
+        components, condition-based), but it adds a second layer: matching. Under 10 CCR
+        &sect; 2695.9(a)(2), when a loss requires replacement of items and the replaced
+        items do not match in quality, color, or size, the insurer must replace all items
+        in the <strong>damaged area</strong> so as to conform to a reasonably uniform
+        appearance.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Whether matching is triggered turns on whether the damaged material can actually
+        be matched. If the shingle is still in production and the new material will match
+        the existing field, the insurer may repair only the damaged shingles, and
+        depreciation applies only to that replacement material. If the shingle is
+        discontinued, or has weathered so that new material will not match, the matching
+        requirement expands the repair scope to the area needed to restore a reasonably
+        uniform appearance &mdash; which is where the significant dollars lie.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The contested term is &ldquo;the damaged area.&rdquo; Insurers typically argue the
+        area is less than the entire structure &mdash; the immediate area, the slope
+        section, or the line of sight &mdash; while policyholders argue for the scope
+        actually required to achieve uniform appearance, which on a hip roof where all
+        slopes are visible from the ground may be the entire roof. An earlier version of
+        the California regulation expressly referenced the &ldquo;area which encompasses
+        clear line of vision,&rdquo; but that language was abandoned as too subjective;
+        the operative standard today is simply a &ldquo;reasonably uniform appearance&rdquo;
+        within the &ldquo;damaged area.&rdquo; Two structural points bear noting: the
+        matching provision sits in subsection (a), which applies to{' '}
+        <strong>replacement cost</strong> settlements, and subsection (a)(1) separately
+        requires the insurer to include any consequential physical damage incurred in
+        making the repair. For a deeper analysis, see our guide on{' '}
+        <Link href="/resources/matching" className="text-[#2E74B5] underline">
+          matching and uniform appearance
+        </Link>
+        .
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        3. Personal Property (Contents) and <em>Doan v. State Farm</em>
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Contents fall within &sect; 2051(b) as well &mdash; for &ldquo;loss to its
+        contents,&rdquo; ACV is replacement cost less a fair and reasonable deduction for
+        physical depreciation based on condition at the time of injury. The governing
+        California authority is <em>Doan v. State Farm General Ins. Co.</em> (2011) 195
+        Cal.App.4th 1082, but it is worth separating what the published appellate opinion
+        held from what the litigation stands for, because the two are frequently
+        conflated.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The binding appellate holding is <strong>procedural.</strong> State Farm demanded
+        appraisal to fix the amount of loss; the insured asked that appraisal be stayed
+        until a court could determine the proper method for calculating actual cash value;
+        the Court of Appeal sided with the insured and reversed the trial court&rsquo;s
+        dismissal. Its reasoning was that an appraiser has no authority to decide whether
+        the insurer&rsquo;s method of calculating depreciation breaches the contract or
+        violates &sect; 2051 &mdash; so a policyholder may pursue a declaratory relief
+        action challenging depreciation <strong>methodology</strong> in court rather than
+        being forced into appraisal. The opinion reversed the demurrer and allowed the
+        methodology challenge to proceed; it did not itself adjudicate the substantive
+        depreciation standard.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The <strong>substantive</strong> standard &mdash; the proposition the case is best
+        known for among adjusters &mdash; is that depreciation of personal property must
+        rest on the actual physical condition of each item at the time of loss, not on age
+        alone or on undisclosed automatic schedules. That was the core of the
+        insured&rsquo;s claim: that depreciation calculated solely on an item&rsquo;s age
+        violated the policy and the Insurance Code. The insured had submitted his own
+        claim itemizing depreciation for each item based on its actual physical condition,
+        against the insurer&rsquo;s far larger schedule-driven figure. The condition-based
+        standard was ultimately applied at the trial court level in 2016, where the court
+        ruled that insurers must consider the physical condition of personal property at
+        the time of loss and found the insurer had violated the regulations by failing to
+        explain its depreciation in writing. That 2016 ruling is a trial court decision;
+        it articulates the correct standard but is not itself binding statewide precedent.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For contents, then, the accurate stack is: &sect; 2051(b) sets condition-based
+        replacement-cost-less-depreciation; 10 CCR &sect; 2695.9(f) requires the deduction
+        to be itemized, measurable against market value, and explained in writing;{' '}
+        <em>Doan</em> (2011) secures the right to challenge the insurer&rsquo;s
+        methodology in court rather than have it resolved in appraisal; and the{' '}
+        <em>Doan</em> trial ruling applies the individualized-condition standard against
+        schedule-based depreciation.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        Items Replaced Only to Achieve Uniform Appearance
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A recurring question within the matching scenario is whether the insurer may
+        depreciate <strong>undamaged</strong> items that are replaced solely to achieve a
+        reasonably uniform appearance. The better-supported position is that it may not
+        &mdash; though policyholders should understand this as a strong, well-grounded
+        argument rather than a rule settled by California appellate decision.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        First, the matching obligation in 10 CCR &sect; 2695.9(a) exists only in the{' '}
+        <strong>replacement cost</strong> context, and replacement cost coverage by
+        definition pays the cost to replace without deduction for depreciation. The
+        undamaged items drawn in for uniform appearance are part of that replacement-cost
+        recovery and ride along at full replacement cost.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Second, &sect; 2695.9(a)(1) &mdash; which sits immediately above the matching
+        provision &mdash; states that when a loss requires repair or replacement, the
+        insured shall not have to pay for depreciation, nor any other cost, except for the
+        applicable deductible. Compelled matching replacement is, in substance, a cost the
+        insured is required to incur to make the repair; depreciating it would force the
+        insured to pay out of pocket to obtain the uniform appearance the regulation
+        guarantees.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Third, the labor to remove and reinstall the matching material is non-depreciable
+        in any event under &sect; 2695.9(f)(1).
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Fourth, the indemnity principle supports the position: the insured had a
+        functioning, uniform roof before the loss, did not elect to replace good material,
+        and is made whole &mdash; not bettered &mdash; by restoring the pre-loss uniform
+        condition that the property&rsquo;s market value already reflected.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A careful analysis should also acknowledge the countervailing considerations. The
+        &ldquo;no depreciation&rdquo; language in &sect; 2695.9(a)(1) is grammatically
+        tied to the consequential-physical-damage sentence, so an insurer may argue it
+        does not textually extend to matching items under (a)(2); and an insurer may
+        assert that replacing aged but undamaged material new-for-old confers a real
+        betterment. These disputes arise most often in the actual-cash-value holdback
+        calculation and on pure actual-cash-value policies, rather than in the final
+        replacement-cost recovery. On balance, on a replacement cost policy the matching
+        scope is properly recovered at full replacement cost, and the text of &sect;
+        2695.9(a)(1), the non-depreciability of labor, and core indemnity principles weigh
+        against depreciating the compelled matching replacement.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Practical Takeaways for Policyholders
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -247,11 +428,29 @@ export default function Content() {
           market value based on condition and age, as the regulations require.
         </li>
         <li>
+          On partial repairs, evaluate whether the damaged material can actually be matched;
+          where it cannot, press the matching requirement to expand the repair scope to a
+          reasonably uniform appearance, and resist depreciation of undamaged material
+          drawn in solely for matching on a replacement cost policy.
+        </li>
+        <li>
+          On contents, require condition-based, item-by-item depreciation rather than
+          age-only or schedule-driven figures, and remember that a challenge to the
+          insurer&rsquo;s depreciation methodology is a legal question that need not be
+          surrendered to appraisal.
+        </li>
+        <li>
           For replacement cost policies, ensure that withheld depreciation is recoverable
           and that the insurer has honored the statutory minimum time limits to complete
           repairs or replacement.
         </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A depreciation adjustment that cannot be reconciled with &sect; 2051(b) and 10 CCR
+        &sect; 2695.9(f) is vulnerable to challenge, and an insurer&rsquo;s failure to
+        itemize and justify depreciation may itself implicate the Fair Claims Settlement
+        Practices Regulations.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Sources and Authorities
@@ -271,18 +470,37 @@ export default function Content() {
           declared states of emergency).
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.9(f)</strong> (Fair Claims Settlement Practices
-          Regulations) &mdash; documentation, itemization, and written-explanation
-          requirements for betterment, depreciation, and salvage adjustments.
+          <strong>10 CCR &sect; 2695.9(a)(1)</strong> (Fair Claims Settlement Practices
+          Regulations) &mdash; replacement cost settlements; inclusion of consequential
+          physical damage and the rule that the insured shall not have to pay for
+          depreciation or any cost except the applicable deductible.
+        </li>
+        <li>
+          <strong>10 CCR &sect; 2695.9(a)(2)</strong> &mdash; matching requirement: where
+          replaced items do not match in quality, color, or size, the insurer must replace
+          all items in the damaged area to conform to a reasonably uniform appearance.
+        </li>
+        <li>
+          <strong>10 CCR &sect; 2695.9(f)</strong> &mdash; documentation, itemization, and
+          written-explanation requirements for betterment, depreciation, and salvage
+          adjustments.
         </li>
         <li>
           <strong>10 CCR &sect; 2695.9(f)(1)</strong> &mdash; prohibition on depreciating
           labor (except intrinsic labor in manufactured materials or goods).
         </li>
         <li>
+          <em>Doan v. State Farm General Ins. Co.</em> (2011) 195 Cal.App.4th 1082 &mdash;
+          a policyholder&rsquo;s challenge to the insurer&rsquo;s depreciation methodology
+          is a legal/coverage question that may proceed by declaratory relief and is not
+          committed to appraisal; widely cited (together with the 2016 trial ruling) for
+          the principle that ACV depreciation of personal property must reflect each
+          item&rsquo;s actual physical condition rather than age alone.
+        </li>
+        <li>
           <em>Jefferson Insurance Co. of New York v. Superior Court of Alameda County</em>{' '}
-          (1970) 3 Cal.3d 398 &mdash; historical treatment of ACV as a question of fact and
-          the scope of appraisers&rsquo; authority.
+          (1970) 3 Cal.3d 398 &mdash; historical treatment of ACV as a question of fact
+          and the scope of appraisers&rsquo; authority.
         </li>
       </ul>
 
@@ -306,6 +524,11 @@ export default function Content() {
           <li>
             <Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">
               Labor Depreciation: Why Your Insurer Cannot Depreciate Labor Costs
+            </Link>
+          </li>
+          <li>
+            <Link href="/resources/matching" className="text-[#2E74B5] underline">
+              Matching and Uniform Appearance
             </Link>
           </li>
         </ul>
