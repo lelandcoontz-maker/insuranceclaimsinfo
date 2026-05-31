@@ -62,7 +62,7 @@ export default function Content() {
         The known loss doctrine provides that an insurer is not obligated to cover a loss that has already occurred or is substantially certain to occur at the time the insurance policy is purchased or renewed. The doctrine is codified in California Insurance Code &sect;22, which defines insurance as &ldquo;a contract whereby one undertakes to indemnify another against loss, damage, or liability arising from a contingent or unknown event.&rdquo; If the event is neither contingent nor unknown, it falls outside the definition of insurance itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Court of Appeal addressed the known loss doctrine in <em>Montrose Chemical Corp. v. Admiral Insurance Co.</em> (1995) 10 Cal.4th 645, where the Supreme Court examined whether an insured&rsquo;s awareness of potential liability defeated coverage. The court held that the known loss doctrine requires <strong>actual knowledge</strong> that a specific loss has occurred or is substantially certain to occur. General awareness of a risk is not enough. The policyholder must have known, at the time the policy was purchased, that the particular loss in question was already happening or was virtually inevitable.
+        The California Supreme Court addressed the known loss doctrine in <em>Montrose Chemical Corp. v. Admiral Insurance Co.</em> (1995) 10 Cal.4th 645, examining whether an insured&rsquo;s awareness of potential liability defeated coverage. The court held that the known loss doctrine requires <strong>actual knowledge</strong> that a specific loss has occurred or is substantially certain to occur. General awareness of a risk is not enough. The policyholder must have known, at the time the policy was purchased, that the particular loss in question was already happening or was virtually inevitable.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For first-party property claims, the known loss doctrine rarely applies legitimately. A homeowner who purchases a new policy or renews an existing one typically does not know that a pipe is about to burst, that a tree root is undermining the foundation, or that wind damage has compromised the roof. Carriers sometimes invoke the known loss doctrine when the property had a prior claim for similar damage, arguing that the policyholder &ldquo;knew&rdquo; the condition existed. But a prior claim that was repaired does not establish knowledge of a new, different loss.
@@ -164,17 +164,53 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Delgado v. Interinsurance Exchange of the Automobile Club of Southern California (2009)
+        Delgado v. Interinsurance Exchange (2009) and the &ldquo;Accident&rdquo; Boundary
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Delgado</em>, 47 Cal.4th 302, the California Supreme Court examined the &ldquo;expected or intended&rdquo; exclusion in the homeowners insurance context. The court adopted a subjective standard, holding that the exclusion applies only when the insured actually expected or intended the injury. The carrier must prove the insured&rsquo;s subjective state of mind &mdash; objective foreseeability alone does not trigger the exclusion. This decision reinforced the principle that negligent conduct, even grossly negligent conduct, does not defeat coverage under the expected or intended exclusion.
+        <em>Delgado v. Interinsurance Exchange of the Automobile Club of Southern California</em>{' '}
+        (2009) 47 Cal.4th 302 illustrates the <em>limit</em> of the policyholder-friendly
+        subjective standard. Delgado argued that he had acted in subjective self-defense and
+        therefore did not intend the resulting injury. The California Supreme Court rejected the
+        argument and held that an insured&rsquo;s subjective belief in self-defense does not
+        convert a deliberate assault into an &ldquo;accident&rdquo; under the insuring clause:
+        &ldquo;A purposeful and intentional act remains purposeful and intentional regardless of
+        the reason or motivation for the act.&rdquo; The Court resolved the case at the insuring
+        clause and never reached the &ldquo;expected or intended&rdquo; exclusion. It was an
+        insurer win.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Why <em>Delgado</em> matters for property-claim policyholders: it draws a hard line at
+        <strong> deliberate physical acts</strong> &mdash; not at negligence. A homeowner who
+        failed to maintain a water heater did not <em>do</em> anything to the property; an event
+        (the rupture) occurred. <em>Delgado</em> does not apply, because there is no deliberate
+        act by the insured at all. For deliberate acts (an assault, an arson, an intentional
+        encroachment), there is no &ldquo;accident&rdquo; in the first place. For everything
+        else &mdash; aging materials, mechanical failures, weather events, third-party negligence
+        &mdash; the loss remains an accident and the policyholder-protective subjective standard
+        for &ldquo;expected or intended&rdquo; (per <em>Shell Oil</em>) applies.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Fire Insurance Exchange v. Superior Court (Altus) (2010)
+        Fire Insurance Exchange v. Superior Court (2010) and Intentional Conduct
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Fire Insurance Exchange v. Superior Court</em>, 181 Cal.App.4th 388, the Court of Appeal addressed the distinction between accidental and intentional conduct in the context of a homeowners policy. The court confirmed that an insured&rsquo;s negligent or reckless conduct does not transform a loss from accidental to intentional. The &ldquo;accident&rdquo; inquiry focuses on whether the resulting harm was expected or intended by the insured, not on whether the insured&rsquo;s underlying conduct was careless.
+        <em>Fire Insurance Exchange v. Superior Court</em> (2010) 181 Cal.App.4th 388 applies the
+        same boundary. The insured intentionally constructed a building that encroached on a
+        neighbor&rsquo;s property and argued the resulting trespass should be treated as an
+        &ldquo;accident&rdquo; because she did not intend the harm. The Court of Appeal
+        disagreed, holding that &ldquo;an injury-producing event is not an &lsquo;accident&rsquo;
+        within the policy&rsquo;s coverage language when all of the acts, the manner in which
+        they were done, and the objective accomplished occurred as intended by the actor.&rdquo;
+        Characterizing the deliberate construction as &ldquo;negligent&rdquo; or
+        &ldquo;reckless&rdquo; did not change the analysis. Also an insurer win.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Read together with <em>Delgado</em>, this case stands for a narrow but important
+        proposition: <strong>where the insured&rsquo;s relevant conduct is fully deliberate, the
+        loss is not an accident even if the insured did not subjectively intend the resulting
+        harm.</strong> Property-claim policyholders should understand this rule but should also
+        understand its limits &mdash; it applies to deliberate physical acts by the insured, not
+        to passive failures, gradual processes, or third-party events.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
