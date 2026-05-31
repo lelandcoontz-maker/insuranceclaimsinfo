@@ -68,7 +68,7 @@ export default function Content() {
         The Landmark Cases
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Three California Supreme Court decisions form the backbone of this area of law:
+        Several California decisions form the backbone of this area of law &mdash; two California Supreme Court decisions plus the Court of Appeal case that directly addressed anti-concurrent causation language:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21.</strong> This is the foundational case. A builder negligently installed a sewer line, causing the pipe to rupture. Water from the broken sewer, combined with seasonal rain, caused the foundation to settle. The insurer denied the claim under an earth movement exclusion. The California Supreme Court rejected the denial and held that &ldquo;in determining whether a loss is within an exception in a policy, where there is a concurrence of different causes, the efficient cause &mdash; the one that sets others in motion &mdash; is the cause to which the loss is to be attributed.&rdquo; Because the builder&rsquo;s negligence (a covered peril) set the chain in motion, the loss was covered despite the involvement of settling (an excluded peril).
@@ -77,13 +77,19 @@ export default function Content() {
         <strong><em>Garvey v. State Farm Fire &amp; Casualty Co.</em> (1989) 48 Cal.3d 395.</strong> This is the California Supreme Court&rsquo;s definitive first-party property damage decision on efficient proximate cause. The Garvey family discovered structural damage caused by a combination of negligent construction (covered) and earth movement (excluded). State Farm denied the claim. The Supreme Court held that the &ldquo;efficient proximate cause&rdquo; &mdash; the predominating cause that set the others in motion &mdash; controls. If the covered peril predominated, the loss is covered. The Court remanded for a jury determination of which peril predominated.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747.</strong> This is the case that directly addressed anti-concurrent causation clauses. After <em>Garvey</em>, some insurers tried to circumvent the efficient proximate cause doctrine by adding ACC language to their exclusions &mdash; the very language discussed in this article. The California Supreme Court shut the door on that tactic. The Court held:
+        <strong><em>Howell v. State Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446.</strong> This is the California decision that directly addressed anti-concurrent causation language &mdash; the very &ldquo;regardless of any other cause or event contributing concurrently or in any sequence to the loss&rdquo; phrasing at issue in this article. The State Farm policy in <em>Howell</em> contained that ACC language, and the Court of Appeal held that the insurer:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;[P]olicy exclusions are unenforceable to the extent that they conflict with section 530 and the efficient proximate cause doctrine.&rdquo;
+        &ldquo;... may not exclude coverage when a covered peril is the efficient proximate cause of loss even though an excluded peril has contributed to or is necessary for the loss.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In other words, an insurer cannot use contractual language to give its exclusions broader effect than the efficient proximate cause analysis allows. The ACC clause &mdash; &ldquo;regardless of any other cause or event contributing concurrently or in any sequence&rdquo; &mdash; is exactly the kind of language that attempts to do this, and <em>Julian</em> says it does not work in California.
+        That is the holding that controls ACC litigation in California: a contractual ACC clause cannot defeat coverage when a covered peril is the efficient proximate cause.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The California Supreme Court has also stated the general rule. In <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, the Court reaffirmed that &ldquo;policy exclusions are unenforceable to the extent that they conflict with section 530 and the efficient proximate cause doctrine.&rdquo; <strong>One important caveat about <em>Julian</em>:</strong> on the facts of that case, the Court actually <em>enforced</em> the carrier&rsquo;s exclusion, finding that a rain-induced landslide was a distinct excluded peril rather than a manifestation of the covered peril of rain alone. So the line between &ldquo;excluding a manifestation of a covered peril&rdquo; (which the ACC clause cannot do under <em>Howell</em>) and &ldquo;excluding a distinct peril altogether&rdquo; (which the insurer can still do) matters &mdash; and carriers will argue their exclusion falls on the &ldquo;distinct peril&rdquo; side of that line.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Taken together, Insurance Code &sect; 530, <em>Sabella</em>, <em>Garvey</em>, and <em>Howell</em> establish California&rsquo;s rule that a contractual ACC clause cannot defeat coverage when a covered peril is the efficient proximate cause of the loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a comprehensive discussion of these and other key California insurance decisions, see our article on{' '}
@@ -164,7 +170,7 @@ export default function Content() {
         The efficient proximate cause of this loss is the vehicle impact. The vehicle is what set the entire chain of events in motion. Water accumulation on the roof was merely the mechanism through which the damage manifested &mdash; it was not the predominating cause. The vehicle did not need to physically strike the building for the vehicle to be the efficient proximate cause.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under a standard HO-3 policy, vehicle impact is a covered peril. Even though water accumulation contributed to the collapse, the roof damage is covered because the vehicle started the chain. In California, this result holds regardless of whether the policy contains an ACC clause, because ACC clauses are unenforceable under <em>Julian</em>. In states that enforce ACC clauses, the result <em>still</em> likely favors the policyholder here, because the water did not come from a natural source &mdash; it came from a covered peril (vehicle damage to an artificial structure). But the analysis becomes more uncertain when the water issue is closer to an enumerated exclusion.
+        Under a standard HO-3 policy, vehicle impact is a covered peril. Even though water accumulation contributed to the collapse, the roof damage is covered because the vehicle started the chain. In California, this result holds regardless of whether the policy contains an ACC clause, because such clauses are unenforceable under <em>Howell</em> and &sect; 530 to the extent they conflict with the efficient proximate cause doctrine. In states that enforce ACC clauses, the result <em>still</em> likely favors the policyholder here, because the water did not come from a natural source &mdash; it came from a covered peril (vehicle damage to an artificial structure). But the analysis becomes more uncertain when the water issue is closer to an enumerated exclusion.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -187,7 +193,7 @@ export default function Content() {
           <strong>DP-1 or DP-3 policy (any state):</strong> These forms do not contain ACC language. The earth movement exclusion, if it exists at all, stands on its own terms. The policyholder argues that the efficient proximate cause was the vehicle operation &mdash; a covered peril &mdash; and that the earth movement was merely the mechanism through which the vehicle&rsquo;s energy reached the building. Without ACC language, the insurer cannot invoke the &ldquo;regardless of any other cause&rdquo; broadening. The analysis turns on standard causation principles.
         </li>
         <li>
-          <strong>HO-3 policy in California:</strong> Even though the HO-3 contains ACC language, <em>Julian v. Hartford Underwriters</em> says that language is unenforceable to the extent it conflicts with &sect;530 and the efficient proximate cause doctrine. The policyholder argues that the vehicle operation was the efficient proximate cause. If a trier of fact agrees, the loss is covered despite the earth movement exclusion and despite the ACC clause.
+          <strong>HO-3 policy in California:</strong> Even though the HO-3 contains ACC language, <em>Howell v. State Farm</em> and Insurance Code &sect; 530 make that language unenforceable to the extent it conflicts with the efficient proximate cause doctrine. The policyholder argues that the vehicle operation was the efficient proximate cause. If a trier of fact agrees, the loss is covered despite the earth movement exclusion and despite the ACC clause.
         </li>
         <li>
           <strong>HO-3 policy in a state that enforces ACC clauses (e.g., Texas, Florida, New York):</strong> The insurer points to the ACC clause and argues that because earth movement contributed to the loss &mdash; in any sequence &mdash; the entire claim is excluded. In most ACC-enforcing states, the insurer wins this argument. It does not matter that the vehicle was the predominating cause. The ACC clause eliminates the need for the insurer to prove that the excluded peril was the predominant cause &mdash; any involvement of the excluded peril, at any point in the chain, is enough.
@@ -282,7 +288,7 @@ export default function Content() {
             </tr>
             <tr>
               <td className="border border-gray-300 p-3 font-semibold">Is ACC clause enforceable?</td>
-              <td className="border border-gray-300 p-3">No &mdash; conflicts with &sect;530 and <em>Julian</em></td>
+              <td className="border border-gray-300 p-3">No &mdash; conflicts with &sect; 530 and <em>Howell</em></td>
               <td className="border border-gray-300 p-3">Yes &mdash; freedom of contract</td>
             </tr>
             <tr className="bg-gray-50">
@@ -342,7 +348,7 @@ export default function Content() {
           <strong>Document the sequence of events.</strong> Photographs, videos, weather records, contractor reports, engineering assessments &mdash; anything that establishes the causal chain and supports the argument that the covered peril was the predominating cause.
         </li>
         <li>
-          <strong>Know the key authorities.</strong> California courts have consistently upheld the efficient proximate cause doctrine over anti-concurrent causation clauses. As attorney John L. Corbett of Barnes &amp; Thornburg LLP has noted, &ldquo;California courts have repeatedly held that insurers cannot contract around the statutory mandate for efficient proximate cause with an ACC clause.&rdquo; The key authorities are Insurance Code &sect;530, <em>Sabella v. Wisler</em>, <em>Garvey v. State Farm</em>, and <em>Julian v. Hartford Underwriters</em>. If the loss involves a post-wildfire mudslide, CDI Bulletin 2025-3 adds regulatory weight. If your insurer has denied coverage based on an ACC clause, discuss these authorities with your attorney.
+          <strong>Know the key authorities.</strong> California courts have consistently upheld the efficient proximate cause doctrine over anti-concurrent causation clauses. As attorney John L. Corbett of Barnes &amp; Thornburg LLP has put it, &sect; 530 codifies the efficient proximate cause doctrine and California courts have repeatedly held that insurers cannot &ldquo;contract around&rdquo; this statutory mandate with an ACC clause. The key authorities are Insurance Code &sect; 530, <em>Sabella v. Wisler</em>, <em>Garvey v. State Farm</em>, and <em>Howell v. State Farm</em> (the Court of Appeal case that directly held ACC language cannot defeat EPC). <em>Julian v. Hartford Underwriters</em> also restates the general rule, although on its facts the Court enforced the carrier&rsquo;s exclusion. If the loss involves a post-wildfire mudslide, CDI Bulletin 2025-3 adds regulatory weight. If your insurer has denied coverage based on an ACC clause, discuss these authorities with your attorney.
         </li>
         <li>
           <strong>Get help early.</strong> Efficient proximate cause arguments are fact-intensive and often require expert analysis to establish the causal chain. A{' '}
@@ -364,7 +370,7 @@ export default function Content() {
           <strong>Without ACC language</strong> (DP-1, DP-3): The exclusion applies when earth movement is the cause of the loss. If the policyholder can show that the earth movement was itself caused by a covered peril (like a vehicle, construction activity, or fire), the exclusion is analyzed under standard causation principles. The exclusion only bars coverage if the earth movement was the predominating cause.
         </li>
         <li>
-          <strong>With ACC language, in California</strong> (HO-3): The exclusion contains the broadening ACC clause, but the clause is unenforceable under <em>Julian</em>. The analysis is the same as above &mdash; the question is whether the covered peril was the efficient proximate cause.
+          <strong>With ACC language, in California</strong> (HO-3): The exclusion contains the broadening ACC clause, but the clause is unenforceable under <em>Howell</em> and &sect; 530 to the extent it conflicts with the efficient proximate cause doctrine. The analysis is the same as above &mdash; the question is whether the covered peril was the efficient proximate cause.
         </li>
         <li>
           <strong>With ACC language, in an ACC-enforcing state</strong> (HO-3): The exclusion is broadened by the ACC clause. If earth movement contributed to the loss in any way, at any point in the sequence, the exclusion applies and coverage is denied &mdash; even if a covered peril was the predominating cause.
@@ -379,7 +385,7 @@ export default function Content() {
           Anti-concurrent causation clauses are designed to broaden exclusions by eliminating coverage whenever an excluded peril contributes to a loss &ldquo;in any sequence.&rdquo; In most states, they work exactly as intended.
         </li>
         <li>
-          In California, ACC clauses are unenforceable under Insurance Code &sect;530 and the California Supreme Court&rsquo;s decision in <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747. The efficient proximate cause doctrine controls.
+          In California, ACC clauses are unenforceable under Insurance Code &sect; 530 and the Court of Appeal&rsquo;s decision in <em>Howell v. State Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446. The California Supreme Court has also stated the general rule in <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747 (although <em>Julian</em> enforced the carrier&rsquo;s exclusion on the facts). The efficient proximate cause doctrine controls.
         </li>
         <li>
           DP-1 and DP-3 policy forms do not contain ACC language in the first place. If your policy is a DP-1 (like a California FAIR Plan policy) or a DP-3 (like policies sometimes available from surplus lines carriers in fire zones), the exclusions stand on their own terms without the ACC broadening.
