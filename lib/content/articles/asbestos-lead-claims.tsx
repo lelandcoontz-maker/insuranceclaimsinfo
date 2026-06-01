@@ -438,8 +438,9 @@ export default function Content() {
           If your adjuster tells you abatement costs are &ldquo;not covered,&rdquo; ask for the
           denial in writing with specific reference to the policy language they are relying on.
           California&rsquo;s Fair Claims Settlement Practices regulations (10 CCR
-          &sect;2695.7(b)) require insurers to provide a written explanation citing the specific
-          policy provision when denying or limiting coverage.
+          &sect; 2695.7(b)(1)) require insurers to provide a written statement listing all
+          bases for any denial, including the factual and legal bases for each reason given,
+          when denying or limiting coverage.
         </p>
       </CalloutBox>
 

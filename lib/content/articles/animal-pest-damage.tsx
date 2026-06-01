@@ -387,8 +387,9 @@ export default function Content() {
           damage to termites, demand the specific evidence. Which areas show termite damage
           versus water damage? Were live termites found? Was a licensed pest control operator
           involved in the assessment? Under California&rsquo;s Fair Claims Settlement
-          Practices Regulations (10 CCR &sect;2695.7(b)), the insurer must provide a
-          reasonable explanation for any denial, and &ldquo;we think it might be
+          Practices Regulations (10 CCR &sect; 2695.7(b)(1)), the insurer must provide a
+          written statement listing all bases for any denial and the factual and legal bases
+          for each reason given, and &ldquo;we think it might be
           termites&rdquo; is not a reasonable basis when the claimed peril is water intrusion.
         </p>
       </CalloutBox>
@@ -525,9 +526,9 @@ export default function Content() {
         </li>
         <li>
           <strong>Demand a written explanation if denied.</strong> Under California&rsquo;s
-          Fair Claims Settlement Practices Regulations (10 CCR &sect;2695.7(b)), the insurer
-          must provide a written explanation for any denial, citing the specific policy
-          language. If the denial letter cites the wrong exclusion or misidentifies the
+          Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.7(b)(1)), the
+          insurer must provide a written statement listing all bases for any denial,
+          including the factual and legal bases for each reason given. If the denial letter cites the wrong exclusion or misidentifies the
           animal, respond in writing pointing out the error.
         </li>
       </ol>
