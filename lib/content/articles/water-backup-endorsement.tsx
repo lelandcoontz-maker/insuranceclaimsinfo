@@ -46,12 +46,16 @@ export default function Content() {
         What the Water Backup Endorsement Covers
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard water backup endorsement &mdash; most commonly the ISO HO 04 95 or a
-        carrier-proprietary equivalent &mdash; adds limited coverage for water damage caused by
-        water or waterborne material that backs up through sewers or drains, or that overflows
-        or is discharged from a sump, sump pump, or related equipment. Without this endorsement,
-        the standard HO-3 policy <strong>excludes</strong> these events entirely. The endorsement
-        buys back coverage, but typically with significant limitations.
+        The standard water backup endorsement &mdash; most commonly the ISO{' '}
+        <strong>HO 04 95 Limited Water Back-Up and Sump Discharge or Overflow Coverage</strong>{' '}
+        (or carrier-proprietary equivalent) &mdash; adds limited coverage for water damage
+        caused by water or waterborne material that backs up through sewers or drains, or that
+        overflows or is discharged from a sump, sump pump, or related equipment. A broader ISO
+        version, <strong>HO 06 95 Broadened Water Back-Up and Sump Discharge or Overflow
+        Coverage</strong>, exists and is offered by some carriers; it generally removes
+        certain restrictions in the limited form. Without one of these endorsements, the
+        standard HO-3 policy <strong>excludes</strong> water-backup events entirely. The
+        endorsement buys back coverage, but typically with significant limitations.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -201,11 +205,16 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The coverage implications are enormous. A plumbing blockage that causes water to
         overflow from a fixture is, in many cases, an{' '}
-        <Link href="/resources/accidental-discharge-overflow" className="text-[#2E74B5] hover:underline">accidental discharge or overflow of water from within a plumbing system</Link>{' '}
-        &mdash; one of the named perils under the standard HO-3 policy. This peril is part of
-        the base policy. It does not require the water backup endorsement. It is not subject to
-        a $5,000 or $10,000 sub-limit. It is covered under the dwelling&rsquo;s full Coverage A
-        limit, subject only to the standard deductible.
+        <Link href="/resources/accidental-discharge-overflow" className="text-[#2E74B5] hover:underline">accidental discharge or overflow of water from within a plumbing system</Link>
+        . On the standard HO-3, Coverage A (Dwelling) is written on an open-perils basis &mdash;
+        every direct physical loss is covered unless specifically excluded &mdash; and the water
+        exclusion that bars &ldquo;water that backs up through sewers or drains&rdquo; does not
+        bar discharge or overflow that originates from a plumbing system inside the dwelling.
+        Accidental discharge or overflow is also a named peril for Coverage C (Personal
+        Property). Either way, the coverage flows from the base policy. It does not require the
+        water backup endorsement. It is not subject to a $5,000 or $10,000 sub-limit. It is
+        covered under the dwelling&rsquo;s full Coverage A limit (and Coverage C for personal
+        property), subject only to the standard deductible.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The water backup exclusion in the standard HO-3 policy excludes water that &ldquo;backs
@@ -556,16 +565,24 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California&rsquo;s{' '}
         <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">efficient proximate cause</Link>{' '}
-        doctrine, when a covered peril sets in motion a chain of events that includes an
-        excluded or sub-limited peril, coverage is determined by the dominant or efficient
-        cause of the loss. If a covered plumbing system failure (accidental discharge) is the
-        efficient proximate cause of the loss, the backup exclusion or sub-limit may not apply,
-        even if the water exited through a drain in a way that superficially resembles a backup.
-        California Insurance Code Section 530 provides that an insurer is liable for a loss of
-        which the covered peril is the proximate cause, and this statutory rule cannot be
-        overridden by{' '}
+        doctrine &mdash; established in <em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21 and
+        confirmed in the first-party context by <em>Garvey v. State Farm Fire &amp; Casualty
+        Co.</em> (1989) 48 Cal.3d 395 &mdash; when a covered peril sets in motion a chain of
+        events that includes an excluded or sub-limited peril, coverage is determined by the
+        dominant or efficient cause of the loss. If a covered plumbing system failure
+        (accidental discharge) is the efficient proximate cause of the loss, the backup
+        exclusion or sub-limit may not apply, even if the water exited through a drain in a way
+        that superficially resembles a backup. California Insurance Code &sect; 530 codifies the
+        rule that an insurer is liable for a loss of which a covered peril is the proximate
+        cause. And under <em>Howell v. State Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d
+        1446,{' '}
         <Link href="/resources/anti-concurrent-causation" className="text-[#2E74B5] hover:underline">anti-concurrent causation</Link>{' '}
-        clauses in the policy.
+        language cannot be used to expand exclusions beyond what the efficient proximate cause
+        analysis allows. The California Supreme Court restated the general rule in <em>Julian
+        v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, although on the facts of
+        <em>Julian</em> the Court enforced the carrier&rsquo;s exclusion &mdash; so the
+        manifestation-versus-distinct-peril line matters in any specific application. These are
+        legal questions for an attorney to evaluate on the facts of a specific claim.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
