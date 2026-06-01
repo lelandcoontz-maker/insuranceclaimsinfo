@@ -48,16 +48,36 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Ensuing Loss Provision
+        The Freezing Exclusion and the &ldquo;Reasonable Care&rdquo; Exception
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The ensuing loss provision is critical to frozen pipe claims. Standard property policies exclude damage caused by certain conditions &mdash; including freezing of plumbing systems &mdash; but then add a savings clause that preserves coverage for &ldquo;ensuing loss&rdquo; caused by those excluded conditions. The typical policy language reads something like:
+        The standard ISO HO 00 03 form does not use a free-standing ensuing-loss savings
+        clause for frozen pipes. Instead, it pairs a freezing exclusion with a built-in
+        exception keyed to the homeowner&rsquo;s conduct. The actual ISO language reads (in
+        relevant part):
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;We do not insure for loss caused directly or indirectly by [freezing of a plumbing, heating, air conditioning, or automatic fire protective sprinkler system, or of a household appliance, or by discharge, leakage, or overflow from within the system or appliance caused by freezing]. But if [freezing] results in [water damage], we do cover the resulting loss unless the resulting loss is itself a Loss Not Insured.&rdquo;
+        We do not insure, however, for loss &hellip; caused by &hellip; freezing of a plumbing,
+        heating, air conditioning or automatic fire protective sprinkler system or of a
+        household appliance, or by discharge, leakage or overflow from within the system or
+        appliance caused by freezing. This provision does not apply if you have used reasonable
+        care to: (1) Maintain heat in the building; or (2) Shut off the water supply and drain
+        all systems and appliances of water.
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The practical effect of this provision is that the policy excludes the freezing event itself (the mechanical failure of the pipe) but covers the water damage that follows. For policyholders, the ensuing loss provision is the legal foundation of virtually every frozen pipe claim. For a broader discussion of how ensuing loss works, see our article on{' '}
+        The practical effect is binary. If the homeowner used reasonable care to either
+        maintain heat <em>or</em> shut off and drain the water supply, the freezing exclusion
+        does not apply at all &mdash; the pipe failure <em>and</em> the resulting water damage
+        are both covered. If neither precaution was taken, the freezing exclusion applies to
+        the whole event &mdash; the failure <em>and</em> the resulting water damage. The
+        argument turns on the homeowner&rsquo;s &ldquo;reasonable care,&rdquo; not on whether
+        the damage was &ldquo;ensuing.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Some non-ISO carrier forms <em>do</em> use ensuing-loss-style language for freezing
+        rather than the reasonable-care exception, so the policyholder&rsquo;s actual policy
+        wording is what controls. For a broader discussion of how ensuing loss works in
+        property policies generally, see our article on{' '}
         <Link href="/resources/exclusions" className="text-[#2E74B5] underline">policy exclusions</Link>.
       </p>
 
