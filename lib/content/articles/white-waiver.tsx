@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California insurance law as a Licensed Public Adjuster. It is not legal advice.
+          The enforceability and effect of a White waiver depend on the specific waiver
+          language, the circumstances of its presentation, and the statements made by the
+          insurer in connection with it. If your insurer has asked you to sign a White waiver,
+          or if you have already signed one, consult a licensed California attorney who
+          specializes in insurance bad faith.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         The &ldquo;White waiver&rdquo; is a legal concept unique to California insurance claims.
         It is not the same as the Sharma waiver or anything relating to the scope of an
@@ -34,7 +46,7 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Case: <em>White v. Western Title Ins. Co.</em> (1985) 40 Cal.3d 870
+        The Case: <em>White v. Western Title Ins. Co.</em> (1985) 40 Cal.3d 870, 221 Cal.Rptr. 509, 710 P.2d 309
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The White waiver takes its name from a 1985 California Supreme Court decision. The Whites
@@ -55,14 +67,20 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Supreme Court rejected that argument and established a rule that changed
-        California insurance practice permanently:{' '}
+        California insurance practice permanently. The Court drew a critical distinction under
+        Evidence Code &sect; 1152 (the settlement-offer privilege): while an insurer&rsquo;s
+        settlement offers to its own insured remain inadmissible to <em>prove liability for
+        breach of contract</em>,{' '}
         <strong>
-          an insurance company&apos;s lowball settlement offers made to its own policyholder —
-          whether before or during litigation — may be admissible as evidence of bad faith
+          such offers <em>are</em> admissible to prove breach of the implied covenant of good
+          faith and fair dealing &mdash; i.e., bad faith &mdash; whether the offers were made
+          before or during litigation
         </strong>
-        , notwithstanding the settlement privilege. The court held that the contractual
-        relationship between insured and insurer does not end when litigation begins, and that the
-        insurer&apos;s duty of good faith and fair dealing continues throughout.
+        . The Court held that the contractual relationship between insured and insurer does not
+        end when litigation begins, and that the insurer&apos;s duty of good faith and fair
+        dealing continues throughout. The policy reasons behind &sect; 1152 (encouraging
+        settlements between adversaries) do not justify shielding an insurer&rsquo;s bad-faith
+        claims handling toward its own insured from scrutiny.
       </p>
 
       <CalloutBox variant="legal" title="Why White Matters">
