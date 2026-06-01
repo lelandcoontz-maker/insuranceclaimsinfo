@@ -329,13 +329,17 @@ export default function Content() {
         statements may fall outside the waiver&rsquo;s protection.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The distinction drawn in <em>Wimsatt v. Superior Court</em> (2007) 152 Cal.App.4th 137 is
-        instructive, even though that case dealt with mediation confidentiality rather than White
-        waivers specifically. In <em>Wimsatt</em>, the court held that a settlement conversation that
-        occurred during a phone call to schedule depositions was not protected by mediation
-        confidentiality because it was &ldquo;routine discussion, unassociated with mediation that
-        routinely occurs in civil litigation.&rdquo; The principle translates: conversations that
-        happen to occur around the time of settlement discussions but are not themselves settlement
+        California law on mediation confidentiality is instructive on the broader point.{' '}
+        <em>Wimsatt v. Superior Court</em> (2007) 152 Cal.App.4th 137 broadly protects writings
+        and communications &ldquo;prepared for the purpose of, in the course of, or pursuant to
+        a mediation&rdquo; under Evidence Code &sect; 1119. Secondary commentary applying
+        <em> Wimsatt</em>&rsquo;s reasoning has drawn the line at communications that occur in
+        the &ldquo;regular course of litigation&rdquo; outside the mediation process &mdash;
+        ordinary Section 998 offers, reservation-of-rights letters, and routine settlement
+        discussions that are not themselves part of mediation. Those routine litigation
+        communications are generally <em>not</em> shielded by mediation confidentiality. The
+        principle translates to White waiver analysis: conversations that happen to occur around
+        the time of protected settlement discussions but are not themselves settlement
         communications may not be covered by the waiver.
       </p>
 
