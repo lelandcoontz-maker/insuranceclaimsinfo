@@ -12,6 +12,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s
+          interpretation of California insurance law as a Licensed Public Adjuster. It is
+          not legal advice. Coverage always turns on the specific policy language and the
+          facts of the loss. If you have a disputed water damage claim, consult a
+          licensed California attorney who specializes in insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Water damage is the most common type of homeowner&apos;s insurance claim &mdash; and one
         of the most frequently disputed. Whether it is a burst pipe, a failed water heater,
@@ -105,11 +115,30 @@ export default function Content() {
         through the concrete slab foundation develops a leak.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Most policies cover the resulting damage &mdash; the water damage to flooring, cabinets,
-        walls, etc. &mdash; but may not cover the cost of accessing the pipe itself (jackhammering
-        the slab). However, some policies do cover &quot;tearing out and replacing&quot; parts of
-        the building necessary to access the source of the leak. Read your policy carefully on
-        this point, and if in doubt, consult a{' '}
+        Most homeowner policies &mdash; including the standard ISO HO-3 form and most
+        forms derived from it &mdash; cover both the resulting water damage to flooring,
+        cabinets, walls, and contents <strong>and</strong> the cost to tear out and
+        replace any part of the building necessary to access the failed plumbing
+        system. That access coverage includes jackhammering and opening the slab to
+        reach the leak. The pipe itself (the &ldquo;system from which the water
+        escaped&rdquo;) is not covered &mdash; that is treated as a maintenance item
+        &mdash; but everything around it that has to be removed to reach it is.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A minority of policies do limit or exclude the access component &mdash; certain
+        surplus lines forms, some non-standard dwelling fire forms, or carrier
+        endorsements that pare back the ISO HO-3 language. Read your specific form, and
+        if the carrier denies access costs, ask which provision they are relying on.
+        For a deeper analysis of how this coverage is structured and how to apply it to
+        a slab leak, see our article on{' '}
+        <Link href="/resources/slab-leak-claims" className="text-blue-700 underline hover:text-blue-900">
+          slab leak claims
+        </Link>{' '}
+        and on the{' '}
+        <Link href="/resources/accidental-discharge-overflow" className="text-blue-700 underline hover:text-blue-900">
+          accidental discharge or overflow peril
+        </Link>
+        . If in doubt, consult a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>.
@@ -118,6 +147,22 @@ export default function Content() {
         The insured may be entitled to at least the cost of direct repair to the slab &mdash; leak
         detection, opening the slab, excavation, back-filling, and pouring new concrete &mdash; even
         if they chose the more expensive option of rerouting the plumbing.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There are two principal methods for opening a slab to reach a failed pipe:{' '}
+        <strong>saw cutting</strong> (which produces a clean straight cut with minimal
+        vibration but generates respirable crystalline silica dust subject to OSHA
+        controls) and <strong>jackhammering</strong> (which leaves rougher edges that
+        bond better to a concrete patch but transmits vibration that can damage other
+        pipe joints in the slab and is especially risky on{' '}
+        <strong>post-tension slabs</strong>, where cutting a tendon can be
+        catastrophic). Each method has trade-offs that affect cost, collateral risk,
+        and the proper scope of the repair. For the full analysis &mdash; including
+        post-tension slab safety, silica containment requirements, and when rerouting
+        is the better option &mdash; see our article on{' '}
+        <Link href="/resources/slab-leak-claims" className="text-blue-700 underline hover:text-blue-900">
+          slab leak claims
+        </Link>.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Immediate Steps After Water Damage</h2>
