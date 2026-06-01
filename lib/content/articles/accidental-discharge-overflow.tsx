@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California insurance law as a Licensed Public Adjuster. It is not legal advice.
+          Policy language varies by carrier and form, and the application of any specific
+          exclusion or endorsement to a particular claim depends on facts that should be
+          evaluated by a licensed professional. If your insurer has denied or limited an
+          accidental discharge or water-damage claim, consult a licensed California attorney
+          who specializes in insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have water damage in your home, the single most important coverage provision in
         your insurance policy is the &ldquo;accidental discharge or overflow of water or
@@ -210,10 +222,11 @@ export default function Content() {
         </li>
         <li>
           <strong>The carrier must still investigate.</strong> Under California&rsquo;s Fair
-          Claims Settlement Practices regulations (10 CCR &sect; 2695.7(b)), the carrier
-          must conduct a thorough investigation before denying a claim. Simply pointing to
-          staining and declaring &ldquo;this has been going on for more than 14 days&rdquo;
-          is not an investigation &mdash; it is a conclusion in search of evidence.
+          Claims Settlement Practices regulations (10 CCR &sect; 2695.7(d)), the carrier
+          must conduct a thorough, fair, and objective investigation before denying a claim.
+          Simply pointing to staining and declaring &ldquo;this has been going on for more
+          than 14 days&rdquo; is not an investigation &mdash; it is a conclusion in search of
+          evidence.
         </li>
       </ol>
 
@@ -469,8 +482,9 @@ export default function Content() {
         The carrier sends an adjuster who sees staining or mold and declares &ldquo;this has
         been leaking for more than 14 days.&rdquo; No testing, no investigation, no plumber
         consultation &mdash; just a visual observation converted into a denial. Under 10 CCR
-        &sect; 2695.7(b), the carrier must conduct a thorough investigation before denying a
-        claim. A visual guess about leak duration is not an investigation.
+        &sect; 2695.7(d), the carrier must conduct a thorough, fair, and objective
+        investigation before denying a claim. A visual guess about leak duration is not an
+        investigation.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -580,20 +594,26 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>10 CCR &sect; 2695.7(b):</strong> The carrier must accept or deny the
-          claim within 40 days of receiving proof of claim, and must conduct a thorough
-          investigation before issuing a denial. A carrier cannot deny an accidental
-          discharge claim based on a visual impression that the leak &ldquo;looks old&rdquo;
-          without investigating the actual cause, origin, and timeline.
+          claim within 40 days of receiving proof of claim. A carrier cannot stall
+          indefinitely while investigating.
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.7(d):</strong> If the carrier needs more time to
-          investigate, it must notify the policyholder in writing every 30 days, explaining
-          why additional time is needed.
+          <strong>10 CCR &sect; 2695.7(c):</strong> If the carrier needs more time than the
+          40 days allotted in subsection (b) to investigate, it must provide the claimant with
+          written notice within that 40-day window explaining why additional time is needed
+          and providing follow-up updates as the investigation continues.
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.7(b)(1) and (3):</strong> The carrier must provide a written
-          explanation of the basis for any denial, including the specific policy provisions
-          relied upon. If the carrier denies based on the 14-day exclusion, the denial letter
+          <strong>10 CCR &sect; 2695.7(d):</strong> The carrier must &ldquo;conduct and
+          diligently pursue a thorough, fair and objective investigation&rdquo; and may not
+          persist in seeking information not reasonably required for or material to the
+          resolution of a claim dispute. A visual impression that a leak &ldquo;looks
+          old&rdquo; is not an investigation under this standard.
+        </li>
+        <li>
+          <strong>10 CCR &sect; 2695.7(b)(1):</strong> The carrier must provide a written
+          statement listing all bases for any denial and the factual and legal bases for each
+          reason given. If the carrier denies based on the 14-day exclusion, the denial letter
           must cite the specific policy language &mdash; not a general reference to
           &ldquo;gradual damage.&rdquo;
         </li>
