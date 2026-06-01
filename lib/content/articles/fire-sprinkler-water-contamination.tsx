@@ -60,18 +60,41 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Wet-Pipe Systems (Standing Water &mdash; the Common Case)
+        Wet-Pipe Systems Connected to the Municipal Supply (the Common Case)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The overwhelmingly more common residential and commercial fire sprinkler system is a
-        wet-pipe system: water sits in the piping continuously &mdash; sometimes for years or
-        even decades &mdash; under pressure, waiting for a sprinkler head to activate. (Dry-pipe
-        and preaction systems hold pressurized air, but when they discharge they draw on the
-        same supply line that has been sitting; antifreeze loops keep glycol-based fluid
-        permanently in the lines.) The standing water in any of these systems is an entirely
-        different substance from the fresh water that originally filled the system. It is this
-        type of system that produces the foul, black, contaminated water that restoration
-        professionals dread.
+        wet-pipe system that ties into the municipal water supply through a service line and
+        backflow preventer. The riser and supply lines see some water exchange whenever the
+        building&apos;s main is opened, pressure fluctuates, or the system is tested or
+        flushed; but the branch lines and dead-leg arms running out to individual sprinkler
+        heads can sit untouched for years or even decades. That branch water is where the
+        worst contamination develops: stagnant, oxygen-depleted, in contact with corroding
+        steel pipe and biofilm, slowly accumulating heavy metals and bacterial load.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Closed/Isolated Systems Not Connected to Municipal Supply (Worst Case)
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A smaller but important category is sprinkler systems that are <em>not</em> tied to a
+        municipal supply at all. These include tank-fed or gravity-fed systems on rural or
+        off-grid properties, dedicated antifreeze loops (where the entire loop is permanently
+        filled with glycol-based fluid rather than water), and certain dry-pipe and preaction
+        systems whose water source has been isolated from the municipal main. In these closed,
+        isolated systems, nothing ever flows through the piping under normal conditions. The
+        water (or antifreeze) sits undisturbed for the life of the installation, producing the
+        most extreme stagnation conditions and the worst contamination profile. When one of
+        these systems discharges, the water that comes out has had no exchange whatsoever
+        since the system was originally filled. Antifreeze loops add chemical toxicity on top
+        of the biological and corrosion contamination.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Whether the system is municipally connected or fully isolated, the standing water in
+        any of these configurations is an entirely different substance from the fresh water
+        that originally filled the system. It is this type of discharge &mdash; from any
+        standing-water system, but especially from fully closed loops &mdash; that produces
+        the foul, black, contaminated water that restoration professionals dread.
       </p>
 
       <CalloutBox variant="warning" title="The 48-Hour Rule">
