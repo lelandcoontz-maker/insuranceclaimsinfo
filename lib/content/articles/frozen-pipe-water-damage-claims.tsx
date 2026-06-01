@@ -107,18 +107,28 @@ export default function Content() {
         Vacancy provisions are a significant issue in frozen pipe claims because many freeze losses occur in homes that are unoccupied &mdash; second homes, vacation cabins, homes where the owner is traveling, or homes that are between tenants. Most standard homeowners policies contain a vacancy clause that limits or eliminates coverage when the dwelling has been vacant for a specified period, typically 30 or 60 consecutive days.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard ISO vacancy provision reduces coverage in two ways for properties vacant beyond the trigger period:
+        The standard ISO HO 00 03 vacancy provision operates in two ways for properties vacant beyond the trigger period:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Vandalism and certain water damage losses are excluded entirely.</strong> If the home has been vacant for more than 60 consecutive days, the policy does not cover vandalism, sprinkler leakage, or breakage of building glass.
+          <strong>Five specific perils are excluded entirely.</strong> If the dwelling has been vacant for more than 60 consecutive days immediately before a loss, the policy does <em>not</em> cover loss caused by: (1) vandalism or malicious mischief, (2) sprinkler leakage (unless the system has been protected against freezing), (3) building glass breakage, (4) <strong>water damage</strong>, or (5) theft and attempted theft.
         </li>
         <li>
-          <strong>All other covered losses are reduced by 15%.</strong> For perils that remain covered (including water damage from a burst pipe, which is not specifically excluded under the vacancy clause), the policy pays only 85% of the covered loss.
+          <strong>All other covered losses are reduced by 15%.</strong> For perils that remain covered after the vacancy trigger &mdash; principally fire, lightning, wind, and similar &mdash; the policy pays only 85% of the covered loss.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Note that the standard vacancy provision does <em>not</em> entirely exclude water damage from burst pipes in vacant homes &mdash; it reduces the payout by 15%. Carriers sometimes overstate the impact of the vacancy clause, telling policyholders that a frozen pipe claim in a vacant home is completely denied. This is typically incorrect under the standard ISO form, though some non-standard or manuscript policies may contain broader vacancy exclusions.
+        <strong>Water damage from a burst frozen pipe is in the entirely-excluded list.</strong> Under the standard ISO HO 00 03 form, a frozen pipe water-damage claim in a home that has been vacant for more than 60 consecutive days immediately before the loss is generally not covered &mdash; not merely reduced by 15%. This is one of the most consequential coverage gaps for owners of second homes, vacation cabins, and seasonal properties.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two important caveats. First, the exclusion turns on whether the property was{' '}
+        <em>vacant</em> &mdash; not merely unoccupied. See the next callout. Second, the
+        60-day clock runs <em>immediately before</em> the loss, so a property that was
+        briefly occupied (someone stayed there overnight or moved personal property in)
+        before the freeze may not be &ldquo;vacant&rdquo; under the policy. Some
+        non-standard or manuscript policies define vacancy differently or apply
+        different trigger periods (30 days is common). The starting point is always the
+        policy&rsquo;s actual language.
       </p>
 
       <CalloutBox variant="important" title="Vacant vs. Unoccupied: The Distinction Matters">
@@ -259,7 +269,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Merlin Law Group</strong> &mdash; A national policyholder-side property insurance firm whose blog has published detailed analysis of frozen pipe coverage disputes, including discussion of the heat maintenance condition and the ensuing loss provision. As firm founder Chip Merlin has written: &ldquo;Frozen pipe claims should be among the most straightforward in property insurance, yet carriers consistently find ways to complicate what should be simple coverage determinations.&rdquo;
+          <strong>Merlin Law Group</strong> &mdash; A national policyholder-side property insurance firm whose Property Insurance Coverage Law Blog has published detailed analysis of frozen pipe coverage disputes, including discussion of the heat maintenance condition and the ensuing loss provision.
         </li>
         <li>
           <strong>United Policyholders</strong> &mdash; A nonprofit policyholder advocacy organization that provides consumer resources on water damage claims, including frozen pipe scenarios, through its Roadmap to Recovery guides.
