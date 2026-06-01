@@ -210,8 +210,11 @@ export default function Content() {
         every direct physical loss is covered unless specifically excluded &mdash; and the water
         exclusion that bars &ldquo;water that backs up through sewers or drains&rdquo; does not
         bar discharge or overflow that originates from a plumbing system inside the dwelling.
-        Accidental discharge or overflow is also a named peril for Coverage C (Personal
-        Property). Either way, the coverage flows from the base policy. It does not require the
+        Coverage C (Personal Property) is often written on a named-perils basis &mdash; though
+        not always; some carriers upgrade Coverage C to open perils by endorsement, and HO-5
+        forms write both Coverage A and Coverage C on an open-perils basis &mdash; and where
+        Coverage C is named-perils, accidental discharge or overflow is one of the named
+        perils. Either way, the coverage flows from the base policy. It does not require the
         water backup endorsement. It is not subject to a $5,000 or $10,000 sub-limit. It is
         covered under the dwelling&rsquo;s full Coverage A limit (and Coverage C for personal
         property), subject only to the standard deductible.
