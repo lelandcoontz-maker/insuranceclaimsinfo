@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California insurance law as a Licensed Public Adjuster. It is not legal advice.
+          The enforceability of a White waiver, the application of mediation confidentiality
+          statutes, and the available rescission grounds all depend on specific facts that
+          should be evaluated by a licensed California attorney. If your insurer has asked
+          you to sign a White waiver, or if you have already signed one, consult a licensed
+          attorney who specializes in insurance bad faith.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your insurance company has denied your claim or offered you far less than what you believe
         you&rsquo;re owed. Maybe you&rsquo;ve hired an attorney. Maybe you&rsquo;ve filed suit. Now
@@ -278,13 +290,18 @@ export default function Content() {
         statements may fall outside the waiver&rsquo;s protection.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The distinction drawn in <em>Wimsatt v. Superior Court</em> (2007) 152 Cal.App.4th 137 is
-        instructive. The court held that a settlement conversation that occurred during a phone call
-        to schedule depositions was not protected by mediation confidentiality because it was
-        &ldquo;routine discussion, unassociated with mediation that routinely occurs in civil
-        litigation.&rdquo; The principle translates: conversations that happen to occur around the
-        time of settlement discussions but are not themselves settlement communications may not be
-        covered by the waiver.
+        California law on mediation confidentiality is instructive on the broader point.{' '}
+        <em>Wimsatt v. Superior Court</em> (2007) 152 Cal.App.4th 137 broadly protects writings
+        and communications &ldquo;prepared for the purpose of, in the course of, or pursuant to
+        a mediation&rdquo; under Evidence Code &sect; 1119. Secondary commentary applying
+        <em> Wimsatt</em>&rsquo;s reasoning has drawn the line at &ldquo;routine&rdquo;
+        litigation communications that occur outside the mediation process &mdash; ordinary
+        Section 998 offers, reservation-of-rights letters, and the like &mdash; which are
+        generally <em>not</em> shielded by mediation confidentiality. The principle translates
+        to White waiver analysis: conversations that happen to occur around the time of
+        settlement discussions but are not themselves settlement communications may not be
+        covered by the waiver. (For a deeper analysis, see <em>Cassel v. Superior Court</em>
+        (2011) 51 Cal.4th 113 below.)
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -526,6 +543,20 @@ export default function Content() {
         <li>California Civil Code section 1689</li>
         <li>California Insurance Code section 790.03(h)</li>
       </ul>
+
+      <CalloutBox variant="legal" title="Important Notice">
+        <p>
+          This article is provided for general educational purposes only and does not constitute
+          legal advice. The case law and statutes discussed reflect California authority as of
+          the date of publication; outcomes in any individual case will depend on the specific
+          policy language, the facts, and the applicable law. Always consult with a licensed
+          California attorney about your specific situation before signing or declining to sign
+          a White waiver.
+        </p>
+        <p className="mt-2">
+          <strong>Author:</strong> Leland Coontz III, Licensed Public Adjuster, CA License #2B53445
+        </p>
+      </CalloutBox>
     </>
   )
 }
