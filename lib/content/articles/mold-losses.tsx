@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s
+          interpretation of California insurance law as a Licensed Public Adjuster. It
+          is not legal advice. Coverage always turns on the specific policy language and
+          the facts of the loss. If your insurer has applied a mold sublimit improperly
+          or denied a water loss based on the presence of mold, consult a licensed
+          California attorney who specializes in insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Mold and Insurance: It Is Not as Simple as &quot;Excluded&quot;
       </h2>
@@ -74,7 +85,14 @@ export default function Content() {
         the mold limit, they are effectively using a $5,000 or $10,000 cap to deny tens of
         thousands of dollars in legitimate water damage coverage. Your contractor&apos;s estimate
         should clearly separate mold-specific line items from water damage line items, and you
-        should insist that the insurer respect that separation.
+        should insist that the insurer respect that separation. For a deeper analysis of how to
+        allocate costs between water mitigation (under dwelling coverage) and mold remediation
+        (under the sublimit) &mdash; including a worked $21,000 example &mdash; see our article on
+        the{' '}
+        <Link href="/resources/mold-coverage-paradox" className="text-blue-700 underline hover:text-blue-900">
+          mold coverage paradox
+        </Link>
+        .
       </p>
 
       <CalloutBox variant="important" title="Mold Does Not Automatically Mean a Long-Term Loss">
@@ -153,6 +171,14 @@ export default function Content() {
           limit properly.
         </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For the broader framework on water damage claims &mdash; including how the
+        sudden-versus-gradual distinction interacts with mold &mdash; see our overview of{' '}
+        <Link href="/resources/water-damage-claims" className="text-blue-700 underline hover:text-blue-900">
+          water damage insurance claims
+        </Link>
+        .
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Key Takeaway
