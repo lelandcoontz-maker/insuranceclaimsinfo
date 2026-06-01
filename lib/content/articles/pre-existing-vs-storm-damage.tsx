@@ -12,6 +12,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California insurance law as a Licensed Public Adjuster. It is not legal advice. If
+          your insurer has denied a storm-damage claim on pre-existing-condition or wear-and-tear
+          grounds, consult a licensed California attorney who specializes in insurance coverage
+          disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         &ldquo;The damage to your roof is consistent with normal wear and tear, not the reported
         storm event.&rdquo; If you have filed a roof claim, there is a good chance
@@ -263,8 +273,13 @@ export default function Content() {
         </li>
         <li>
           &ldquo;Anti-concurrent causation&rdquo; clauses (which some carriers include to override
-          this doctrine) are unenforceable in California for first-party property claims. The
-          California Supreme Court has repeatedly upheld the efficient proximate cause standard.
+          this doctrine) are unenforceable in California to the extent they conflict with the
+          efficient proximate cause doctrine. The Court of Appeal directly held in <em>Howell v.
+          State Farm</em> (1990) 218 Cal.App.3d 1446 that ACC language cannot be used to deny
+          coverage when a covered peril is the efficient proximate cause. The California Supreme
+          Court has restated the general rule (in <em>Julian v. Hartford Underwriters</em> (2005)
+          35 Cal.4th 747, although on <em>Julian</em>&rsquo;s facts the Court did enforce a
+          carrier&rsquo;s distinct-peril exclusion).
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
