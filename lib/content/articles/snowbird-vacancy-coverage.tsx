@@ -216,14 +216,15 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The strongest argument available to snowbirds is that a person can &ldquo;reside&rdquo;
         at more than one location. Multiple courts have endorsed this principle. In{' '}
-        <em>Craft v. New York Central Mutual Fire Insurance Co.</em> (N.Y. App. Div. 3d
-        Dep&rsquo;t, 2017), the court held that because the policy did not define
-        &ldquo;reside,&rdquo; the term was ambiguous, and specifically noted that{' '}
-        <strong>a person can have more than one residence for insurance purposes</strong>. In{' '}
-        <em>Lamonica v. Hartford Insurance Co. of the Midwest</em>, No. 5:19-cv-78 (N.D. Fla.
-        2020), the court held that the policy &ldquo;does not require the home to be the
-        insured&rsquo;s sole or even primary residence &mdash; &lsquo;any residence will
-        do.&rsquo;&rdquo;
+        <em>Craft v. New York Central Mutual Fire Insurance Co.</em>, 164 A.D.3d 1120 (N.Y.
+        App. Div. 3d Dep&rsquo;t 2018), the court held that the term &ldquo;reside&rdquo; was
+        not defined in the policy and that an insured <strong>may have more than one
+        &ldquo;residence&rdquo; for insurance purposes</strong>, with the property at issue
+        still qualifying as a residence even if not the exclusive or primary home. The
+        Illinois Court of Appeals reached a similar conclusion in <em>Lundquist v. Allstate
+        Insurance Co.</em>, 314 Ill. App. 3d 240 (2000), one of the leading
+        residence-premises cases. The principle is broadly recognized in the case law on
+        residence-premises language for homeowner policies.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For snowbirds, this principle is directly applicable. You reside in Minneapolis in the
@@ -244,9 +245,10 @@ export default function Content() {
         &ldquo;reside&rdquo; can reasonably mean &ldquo;maintain as one of your homes&rdquo;
         rather than &ldquo;physically sleep there every night,&rdquo; the pro-coverage
         interpretation prevails. In <em>Dean v. Tower Insurance Co. of New York</em>, 19
-        N.Y.3d 1 (N.Y. 2012), the New York Court of Appeals reversed summary judgment for the
-        insurer precisely because the term &ldquo;reside&rdquo; was not defined in the policy,
-        creating ambiguity that had to be resolved in the policyholder&rsquo;s favor.
+        N.Y.3d 704 (N.Y. 2012), the New York Court of Appeals reversed summary judgment for
+        the insurer because the insured&rsquo;s alleged misrepresentation about residing at
+        the premises could not be deemed material as a matter of law on the record, with the
+        meaning and application of &ldquo;reside&rdquo; presenting fact-intensive issues.
       </p>
 
       <CalloutBox variant="tip" title="The Estoppel Argument">
@@ -254,11 +256,11 @@ export default function Content() {
           If your insurer knows you are a snowbird &mdash; because you told your agent, because
           you have two policies with the same company, or because they have been insuring both
           properties for years &mdash; and they continue to accept your premiums without
-          disclaiming coverage, a powerful estoppel argument exists. The insurer cannot accept
-          premiums with knowledge of your living arrangement and then deny coverage when it comes
-          time to pay. <em>Lamonica v. Hartford</em> specifically relied on this doctrine, noting
-          that Hartford had accepted premiums while knowing about the policyholder&rsquo;s living
-          arrangement.
+          disclaiming coverage, a powerful estoppel argument exists. An insurer that accepts
+          premiums with knowledge of an insured&rsquo;s living arrangement may be precluded from
+          later denying coverage on the basis of that same arrangement. Estoppel arguments are
+          fact-intensive and depend on what the insurer actually knew and how it acted on that
+          knowledge.
         </p>
       </CalloutBox>
 
@@ -809,29 +811,33 @@ export default function Content() {
         Shank v. Safeco Insurance Co. of America (S.D. W. Va. 2016)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A married couple owned their primary home and a second home inherited from a relative.
-        They used the second home weekly &mdash; cooking, watching TV, using the workshop,
-        collecting mail. A fire destroyed it. Safeco denied the claim based on the &ldquo;residence
-        premises&rdquo; definition. The court ruled that Safeco&rsquo;s &ldquo;residence
-        premises&rdquo; provision was more restrictive than permitted under West Virginia law,
-        which only suspends coverage when a building has been &ldquo;vacant or unoccupied beyond
-        a period of sixty consecutive days.&rdquo; While this case is specific to West Virginia
-        law, the principle &mdash; that a carrier cannot impose residency requirements stricter
-        than the state&rsquo;s Standard Fire Policy allows &mdash; may apply in other states
-        that have Standard Fire Policy conformity requirements.
+        <em>Shank v. Safeco Ins. Co. of Am.</em>, 2016 WL 4534028 (S.D.W. Va. Aug. 30, 2016),
+        is included here for honest balance. A married couple owned their primary home and a
+        second home inherited from a relative; they used the second home weekly. After a fire,
+        Safeco denied the claim under the &ldquo;residence premises&rdquo; definition. The
+        insureds argued that the residence-premises restriction was impermissible under West
+        Virginia&rsquo;s Standard Fire Policy statute. The district court <strong>rejected
+        that argument</strong> and held the residence-premises limitation was a permissible
+        scope-of-coverage restriction that did not conflict with West Virginia&rsquo;s
+        Standard Fire Policy. Coverage was denied. The case is a cautionary tale: the
+        Standard-Fire-Policy-conformity argument does not always succeed, and the
+        residence-premises language can be enforced even in conformity states.
       </p>
 
       <CalloutBox variant="legal" title="Standard Fire Policy Conformity">
         <p>
           Approximately half the states require property insurance policies to conform to a
-          statutory Standard Fire Policy. In these states, a homeowner policy cannot impose
-          conditions or exclusions more restrictive than what the Standard Fire Policy allows.
-          The Standard Fire Policy typically addresses vacancy and unoccupancy but does{' '}
-          <em>not</em> contain a &ldquo;where you reside&rdquo; requirement. If your state has
-          a Standard Fire Policy conformity statute, a &ldquo;residence premises&rdquo; definition
-          that goes beyond the Standard Fire Policy may be unenforceable. This is a technical
-          argument that requires analysis of your state&rsquo;s specific statute, but it is an
-          important tool for snowbirds facing a residency-based denial.
+          statutory Standard Fire Policy. In some states, courts have held that a homeowner
+          policy cannot impose conditions or exclusions more restrictive than what the Standard
+          Fire Policy allows. The Standard Fire Policy typically addresses vacancy and
+          unoccupancy but does <em>not</em> contain a &ldquo;where you reside&rdquo;
+          requirement. However, as <em>Shank</em> illustrates, this argument has been{' '}
+          <strong>rejected by at least one federal court</strong> applying West Virginia law,
+          which treated the residence-premises restriction as a permissible scope-of-coverage
+          limitation rather than an impermissible narrowing of fire coverage. The conformity
+          argument is jurisdiction-specific and outcome-dependent &mdash; it is worth raising
+          in conformity states, but it is not a guaranteed winner. Discuss with a coverage
+          attorney before relying on it.
         </p>
       </CalloutBox>
 
@@ -1020,15 +1026,17 @@ export default function Content() {
         <li>
           <strong>You reside at more than one home.</strong> A person can have multiple
           residences for insurance purposes. Your seasonal home is one of them. Cite{' '}
-          <em>Craft v. New York Central Mutual</em>, <em>Lamonica v. Hartford</em>, and{' '}
-          <em>Epstein v. Hartford Casualty</em> for the principle that a property need not be
-          your sole or primary residence to qualify as a &ldquo;residence premises.&rdquo;
+          <em>Craft v. New York Central Mutual</em> (164 A.D.3d 1120 (3d Dep&rsquo;t 2018)),{' '}
+          <em>Lundquist v. Allstate</em> (314 Ill. App. 3d 240 (2000)), <em>Dean v. Tower</em>{' '}
+          (19 N.Y.3d 704 (2012)), and <em>Durkheimer v. Safeco</em> (D. Or. 2025) for the
+          principle that a property need not be the insured&rsquo;s sole or primary residence
+          to qualify as a &ldquo;residence premises.&rdquo;
         </li>
         <li>
           <strong>&ldquo;Reside&rdquo; is ambiguous.</strong> The policy does not define
           &ldquo;reside,&rdquo; creating ambiguity that must be construed against the insurer
-          under <em>contra proferentem</em>. Cite <em>Dean v. Tower</em> and{' '}
-          <em>Lundquist v. Allstate</em>.
+          under <em>contra proferentem</em>. <em>Dean v. Tower</em> and <em>Lundquist v.
+          Allstate</em> are the leading authorities on this point.
         </li>
         <li>
           <strong>HO 06 48 locks in coverage.</strong> If you were at the property on the
@@ -1137,10 +1145,10 @@ export default function Content() {
         warning from their insurer or their agent.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The law is catching up. The <em>Durkheimer</em> decision in Oregon, the{' '}
-        <em>Lamonica</em> decision in Florida, and the New York line of cases all recognize
-        that a person can reside at more than one home and that the &ldquo;where you
-        reside&rdquo; language should not be weaponized against seasonal occupants. ISO&rsquo;s
+        The law is catching up. The <em>Durkheimer</em> decision in Oregon and the New York
+        line of cases (<em>Dean v. Tower</em>, <em>Craft</em>) recognize that a person can
+        reside at more than one home and that the &ldquo;where you reside&rdquo; language
+        should not be weaponized against seasonal occupants. ISO&rsquo;s
         HO 06 48 and HO 06 49 endorsements represent the industry&rsquo;s acknowledgment that
         the problem exists. But until the standard policy form is rewritten &mdash; or until
         state legislatures mandate clearer disclosure &mdash; the burden falls on the
