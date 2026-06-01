@@ -206,12 +206,12 @@ export default function Content() {
         which is to say almost never.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Similarly, in <em>Abudayya v. Country Mutual Insurance Co.</em>, No. 2023-LA-10 (Ill.
-        Cir. Ct. 2024), an Illinois circuit court held that an arson fire at a building that had
-        been vacant for over six months was a covered fire loss, not excluded vandalism. The court
-        noted that the policy listed fire and vandalism as &ldquo;separate perils&rdquo; with
-        independent meanings, and that the insurer could not collapse them into a single category
-        only when it suited the insurer&rsquo;s interest.
+        The core analytical move in <em>Wells Fargo</em> &mdash; treating arson and vandalism as
+        distinct perils that cannot be collapsed into a single category just because the
+        insurer&rsquo;s vacancy exclusion happens to list vandalism &mdash; has gained traction
+        in policyholder-side commentary. But the question is not settled nationally: as
+        discussed below, courts in other jurisdictions have ruled the other way, and the
+        analysis depends heavily on the specific policy language and applicable state law.
       </p>
 
       <CalloutBox variant="legal" title="Arson and Vacancy: An Evolving Area of Law">
@@ -244,14 +244,24 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Illinois appellate court agreed that the policy language defined the vacancy period
-        retrospectively, counting backward from the date of loss rather than forward from the
-        policy inception date. Under a strict reading of the policy, the prior owner&rsquo;s
-        vacancy period <em>did</em> count. However, the court ultimately ruled that West Bend
-        could not enforce the exclusion. Why? Because West Bend had the opportunity to inspect
-        the property before issuing the policy, could have determined that the building was
-        vacant, and could have either declined to insure it or charged an additional premium.
-        Having chosen to insure a vacant property without investigating, the insurer was estopped
-        from claiming vacancy as a bar to coverage.
+        retrospectively, counting backward from the date of loss. Under a strict reading of the
+        policy, the prior owner&rsquo;s vacancy period <em>did</em> count. New Packing argued
+        that West Bend should be estopped from enforcing the exclusion because it had the
+        opportunity to inspect the property before issuing the policy and could have either
+        declined to insure it or charged an additional premium. The court <strong>rejected</strong>
+        that estoppel argument, holding that an insurer&rsquo;s opportunity to inspect or its
+        knowledge that a building might be vacant does not, by itself, create estoppel or waive
+        a clear vacancy exclusion. The vandalism-at-vacant-building exclusion was enforceable,
+        and coverage was denied.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>The lesson is the opposite of what an insured might hope for:</strong> buying a
+        property that has already been vacant for 60 days under a strict-reading policy can mean
+        the vacancy clock has already run before the new owner ever owns the building. Estoppel
+        arguments based on the insurer&rsquo;s failure to inspect are unlikely to save the claim.
+        Acting immediately to transition the property from vacant to unoccupied &mdash; moving
+        in personal property, requesting a vacancy permit endorsement, notifying the insurer in
+        writing of the property&rsquo;s status &mdash; is the only reliable protection.
       </p>
 
       <CalloutBox variant="important" title="Buying a Vacant Property? Act Immediately">
@@ -390,16 +400,19 @@ export default function Content() {
           &ldquo;vacant&rdquo; is not clearly stated in the policy.
         </li>
         <li>
-          <strong>Arson vs. vandalism:</strong> As discussed above, the Sixth Circuit (applying
-          Ohio law) and Illinois courts have held that arson is not &ldquo;vandalism&rdquo; under
-          the vacancy clause, while other jurisdictions have reached the opposite conclusion. If
-          you are in a state where this question has not been decided, the outcome is uncertain.
+          <strong>Arson vs. vandalism:</strong> As discussed above, the Sixth Circuit in
+          <em> Wells Fargo</em> held that arson is not &ldquo;vandalism&rdquo; under the vacancy
+          clause, while other jurisdictions have reached the opposite conclusion. If you are in a
+          state where this question has not been decided, the outcome is uncertain.
         </li>
         <li>
           <strong>Prior owner vacancy:</strong> The Illinois appellate court in{' '}
-          <em>West Bend Mutual</em> counted prior owner vacancy retrospectively but estopped the
-          insurer from using it. Other states may reach different conclusions depending on their
-          estoppel doctrines and how strictly they interpret the vacancy period.
+          <em>West Bend Mutual</em> counted prior owner vacancy retrospectively <em>and</em>
+          enforced the vacancy/vandalism exclusion against the new owner, rejecting estoppel
+          arguments based on the insurer&rsquo;s failure to inspect. Other states may reach
+          different conclusions depending on their estoppel doctrines and how strictly they
+          interpret the vacancy period &mdash; but policyholders should not assume estoppel will
+          save a claim where prior vacancy has run the clock.
         </li>
         <li>
           <strong>Strict time limits vs. causation requirements:</strong> Texas, following{' '}
@@ -493,10 +506,12 @@ export default function Content() {
           state.
         </li>
         <li>
-          <strong>Did the insurer know the property was vacant when it issued the policy?</strong>{' '}
-          If the insurer insured a property it knew or should have known was vacant &mdash; or
-          failed to inspect when it had the opportunity &mdash; the insurer may be estopped from
-          invoking the vacancy clause, as the Illinois court held in <em>West Bend Mutual</em>.
+          <strong>Did the insurer make affirmative representations about coverage despite knowing
+          of the vacancy?</strong> An insurer&rsquo;s mere opportunity to inspect is usually not
+          enough on its own (<em>West Bend Mutual</em> rejected that argument). But if the
+          insurer made affirmative representations about coverage, accepted premiums after
+          learning of vacancy, or otherwise engaged in conduct inconsistent with reliance on the
+          exclusion, a waiver or estoppel argument may be available. This is highly fact-specific.
         </li>
         <li>
           <strong>Request the insurer&rsquo;s specific basis for the denial in writing.</strong>{' '}
