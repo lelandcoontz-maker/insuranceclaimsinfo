@@ -292,31 +292,29 @@ export default function Content() {
         What Courts Have Accepted as Renovation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <strong>Farbman Group v. Travelers Indemnity Co.</strong>, the court held that
-        demolishing an enclosed walkway connecting two buildings constituted
-        &ldquo;renovation&rdquo; sufficient to avoid the vacancy exclusion. The court reasoned
-        that active demolition work was part of a larger plan to repurpose the property, and
-        that physical alteration of the structure satisfied the renovation exception.
+        In <em>TRB Investments, Inc. v. Fireman&rsquo;s Fund Ins. Co.</em>, 40 Cal. 4th 19
+        (Cal. 2006), the California Supreme Court addressed the &ldquo;under construction&rdquo;
+        exception in the commercial property context and held that it can include{' '}
+        <strong>renovations and additions</strong> &mdash; not just new construction &mdash; if
+        the work requires the substantial and continuous presence of workers at the property.
+        The case stands for the broader proposition that meaningful, ongoing physical
+        construction activity at the building qualifies for the exception even if the work is
+        renovating an existing structure rather than building a new one.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         What Courts Have Rejected as Renovation
       </h3>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Suder-Benore Co. v. Motorists Mutual Insurance Co.</strong> &mdash; Simply
-          reactivating a sprinkler system in an otherwise idle building did not constitute
-          renovation. The court distinguished between routine maintenance or system activation
-          and the kind of substantive physical work that &ldquo;renovation&rdquo; implies.
-        </li>
-        <li>
-          <strong>Martin Belich v. Westfield Insurance</strong> &mdash; Planning or preparing
-          to renovate is insufficient. The insured had concrete plans to renovate the property
-          and had taken preliminary steps, but actual physical renovation work had not yet
-          commenced at the time of loss. The court held that the exception requires renovation
-          to be <em>underway</em>, not merely intended.
-        </li>
-      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The opposite line of cases holds that <em>planning</em> to renovate &mdash; without
+        actual physical work in progress &mdash; does not qualify for the exception. In{' '}
+        <em>City of Cleveland v. Northwood Co.</em>, 2013-Ohio-3959, 995 N.E.2d 1279 (Ohio Ct.
+        App. 2013), the court explained that &ldquo;renovation contemplates something being
+        done at the building, not merely planning to renovate, remodel, or refurbish.&rdquo;
+        The takeaway from the case law generally is consistent: architectural plans, signed
+        contractor agreements, building permits, or even materials staged on site are
+        insufficient if no one has actually started physical work.
+      </p>
 
       <CalloutBox variant="legal" title="The Renovation Exception Requires Active Work">
         <p>
@@ -326,7 +324,9 @@ export default function Content() {
           materials staged on site is likely insufficient if no one has broken ground or picked
           up a hammer. The exception protects buildings that are empty because they are being
           physically transformed &mdash; not buildings that are empty while their owners think
-          about transforming them.
+          about transforming them. <em>TRB Investments</em> (renovations qualify when work is
+          substantial and continuous) and <em>City of Cleveland v. Northwood</em> (planning is
+          not enough) sit on opposite sides of that line.
         </p>
       </CalloutBox>
 
@@ -345,19 +345,26 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Abudayya v. Country Mutual Insurance Co. (Illinois)</strong> &mdash; The court
-          found that the term &ldquo;vandalism&rdquo; in the vacancy clause was ambiguous as
-          applied to arson. Applying the standard rule of construction that ambiguities in
-          insurance policies are resolved in favor of the insured, the court treated the arson
-          fire as &ldquo;fire&rdquo; rather than &ldquo;vandalism,&rdquo; meaning the insured
-          was subject only to the 15% reduction rather than a complete exclusion.
+          <strong>The pro-policyholder reading.</strong> Some jurisdictions have held that the
+          term &ldquo;vandalism&rdquo; in the vacancy clause is ambiguous as applied to arson.
+          Under the standard rule of construction that ambiguities in insurance policies are
+          resolved in favor of the insured, the loss is treated as &ldquo;fire&rdquo; rather
+          than &ldquo;vandalism&rdquo; &mdash; meaning the insured is subject only to the 15%
+          reduction rather than a complete exclusion. Wells Fargo Bank, N.A. v. Allstate
+          Insurance Co. (6th Cir. 2018) reached this result under Ohio law in a residential
+          context (see our article on{' '}
+          <Link href="/resources/vacancy-unoccupancy" className="text-blue-700 underline hover:text-blue-900">
+            vacancy clauses
+          </Link>{' '}
+          for more on Wells Fargo).
         </li>
         <li>
-          <strong>Botee v. Southern Fidelity Insurance Co. (Florida)</strong> &mdash; The court
-          reached the opposite conclusion, holding that arson falls within the plain meaning of
-          &ldquo;vandalism&rdquo; &mdash; the intentional destruction of property. Under this
-          reasoning, an arson fire at a vacant building is excluded entirely, and the insured
-          recovers nothing.
+          <strong>Botee v. Southern Fidelity Insurance Co.</strong>, 2015 WL 477836 (Fla. 5th
+          DCA Feb. 6, 2015) &mdash; The Florida Fifth District Court of Appeal reached the
+          opposite conclusion, holding that arson falls within the plain meaning of
+          &ldquo;vandalism and malicious mischief&rdquo; &mdash; the intentional destruction of
+          property. Under this reasoning, an arson fire at a vacant building is excluded
+          entirely, and the insured recovers nothing.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
