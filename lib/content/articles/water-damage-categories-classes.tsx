@@ -12,8 +12,20 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of the IICRC S500 standard and California claims-handling regulations as a Licensed
+          California Public Adjuster. It is not legal advice. The application of any
+          classification standard or regulatory provision to a particular claim depends on
+          facts and policy language that should be evaluated by a licensed professional. For
+          legal questions about a specific water damage claim, consult a licensed attorney
+          who specializes in insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
-        When water damages your home, one of the first and most consequential decisions in the
+        When water damages a home, one of the first and most consequential decisions in the
         entire claims process is the <strong>classification</strong> of the water and the
         affected environment. This classification &mdash; governed by the Institute of
         Inspection, Cleaning and Restoration Certification (IICRC) S500 Standard &mdash;
@@ -33,8 +45,14 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This article explains the IICRC classification system in detail, walks through the
-        real-world implications of each category and class, and arms you with the knowledge to
-        challenge a classification that does not reflect the actual conditions at your property.
+        real-world implications of each category and class, and arms the insured with the
+        knowledge to challenge a classification that does not reflect the actual conditions at
+        the property. For the broader overview of how water damage claims are handled in
+        California &mdash; including tear-out, slab access, and the regulatory framework &mdash;
+        see our companion article on{' '}
+        <Link href="/resources/water-damage-claims" className="text-[#2E74B5] underline">
+          water damage claims
+        </Link>.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -927,11 +945,12 @@ export default function Content() {
           <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
             Fair Claims Settlement Practices Regulations
           </Link>{' '}
-          (Cal. Code Regs., tit. 10, &sect; 2695.1 et seq.), carriers must conduct a thorough,
-          fair, and objective investigation of the claim. A classification that ignores site
-          conditions, rejects laboratory evidence, or is based solely on source
-          characterization without considering the factors the S500 identifies as relevant to
-          category determination may fall short of this obligation.
+          &mdash; specifically 10 CCR &sect; 2695.7(d), which provides that &ldquo;every
+          insurer shall conduct and diligently pursue a thorough, fair and objective
+          investigation&rdquo; &mdash; carriers must investigate the claim with care. A
+          classification that ignores site conditions, rejects laboratory evidence, or rests
+          solely on source characterization without considering the factors the S500 identifies
+          as relevant to category determination may fall short of this regulatory obligation.
         </li>
         <li>
           <strong>Bad Faith Exposure:</strong> A carrier that knowingly applies the wrong
