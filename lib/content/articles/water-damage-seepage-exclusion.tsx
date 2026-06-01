@@ -107,8 +107,11 @@ export default function Content() {
         In <em>Nargizyan v. State Farm General Insurance Co.</em> (2026) ___ Cal.App.5th ___ (2d
         Dist., Div. 7, No. B342340), the California Court of Appeal addressed exactly this tactic
         &mdash; and reversed summary judgment that had been entered in the insurer&rsquo;s favor.
-        The opinion was certified for publication on May 14, 2026, which means it can be cited as
-        precedent in California.
+        The opinion was originally filed unpublished on April 15, 2026, then certified for
+        publication by a publication order on May 14, 2026, which means it can now be cited as
+        precedent in California. (Any attorney citing the case should confirm its current
+        status, because the California Supreme Court&rsquo;s window for review or depublication
+        runs after the publication order.)
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The homeowner noticed the tile on his kitchen floor was unusually warm, found water leaking
@@ -227,6 +230,13 @@ export default function Content() {
           &mdash; carriers sometimes pair the seepage argument with a claim that the plumbing
           simply wore out. Like seepage, this exclusion is about cause, and the insurer bears the
           burden of proving it.
+        </li>
+        <li>
+          <Link href="/resources/water-damage-claims" className="text-[#2E74B5] hover:underline">
+            Water damage claims (general framework)
+          </Link>{' '}
+          &mdash; the umbrella article on how California water-damage claims are handled,
+          including tear-out, slab access, and the broader regulatory framework.
         </li>
       </ul>
 
