@@ -12,6 +12,20 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s field
+          observations on fire sprinkler discharge losses as a Licensed California Public
+          Adjuster. It is not legal advice and is not a substitute for the technical opinion
+          of a Certified Industrial Hygienist, a fire-protection engineer, or an
+          IICRC-certified restoration professional. The application of any contamination
+          finding to a specific claim depends on lab results, policy language, and facts that
+          should be evaluated by licensed professionals. For legal questions about a specific
+          sprinkler-loss claim, consult a licensed attorney who specializes in insurance
+          coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         When a fire sprinkler discharges inside a home or commercial building, most people assume
         the water is clean &mdash; after all, it comes from the same water supply as the
@@ -33,26 +47,30 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Demand-Type (Pumped) Systems
+        Multipurpose Residential Systems (Integrated with Domestic Water)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Some fire sprinkler systems are connected directly to the municipal water supply and only
-        fill with water when a sprinkler head activates. In these &quot;demand-type&quot; systems,
-        fresh water is pumped from the main supply line at the moment of activation. Because the
-        water has not been sitting in the pipes, it is essentially the same quality as tap water.
-        A loss from this type of system is generally classified as Category 1 (clean water) and
-        the remediation is relatively straightforward.
+        A small subset of residential systems &mdash; NFPA 13D multipurpose systems &mdash; tie
+        the sprinkler piping into the home&apos;s domestic water supply so that water flows
+        through the sprinkler lines whenever a faucet, toilet, or shower is used. Because the
+        water in these lines is regularly exchanged rather than left to sit, the contamination
+        load is generally lower. A loss from this kind of system may be closer to Category 1
+        (clean water), and the remediation is relatively straightforward. Multipurpose systems
+        are the exception, not the rule.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Closed (Stagnant) Systems
+        Wet-Pipe Systems (Standing Water &mdash; the Common Case)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The more common residential and commercial fire sprinkler system is a closed, pressurized
-        system where water sits in the pipes continuously &mdash; sometimes for years or even
-        decades &mdash; waiting for a sprinkler head to activate. This stagnant water is an
-        entirely different substance from the fresh water that originally filled the system. It is
-        this type of system that produces the foul, black, contaminated water that restoration
+        The overwhelmingly more common residential and commercial fire sprinkler system is a
+        wet-pipe system: water sits in the piping continuously &mdash; sometimes for years or
+        even decades &mdash; under pressure, waiting for a sprinkler head to activate. (Dry-pipe
+        and preaction systems hold pressurized air, but when they discharge they draw on the
+        same supply line that has been sitting; antifreeze loops keep glycol-based fluid
+        permanently in the lines.) The standing water in any of these systems is an entirely
+        different substance from the fresh water that originally filled the system. It is this
+        type of system that produces the foul, black, contaminated water that restoration
         professionals dread.
       </p>
 
@@ -80,18 +98,24 @@ export default function Content() {
           respiratory system.
         </li>
         <li>
-          <strong>Anti-freeze compounds:</strong> In some systems, glycol-based or other anti-freeze
-          solutions are added to prevent freezing in unheated spaces. These chemicals are toxic and
-          add to the contamination load.
+          <strong>Anti-freeze compounds:</strong> In dedicated antifreeze loops &mdash; common
+          in mountain-climate or unheated-space sprinkler installations, generally not in
+          city-water-connected urban systems &mdash; glycol-based or other anti-freeze
+          solutions are added to prevent freezing. These chemicals are toxic and add
+          substantially to the contamination load when present.
         </li>
         <li>
           <strong>Oils and lubricants:</strong> Residues from pipe threading, valve assembly, and
           system maintenance collect in the water over time.
         </li>
         <li>
-          <strong>Heavy metals:</strong> As the interior of iron and steel pipes corrode over years
-          of contact with stagnant water, metals leach into the water. This is one reason fire
-          sprinkler discharge is often black or dark brown.
+          <strong>Heavy metals from MIC:</strong> As the interior of iron and steel pipes
+          corrode through{' '}
+          <strong>Microbiologically Influenced Corrosion (MIC)</strong> &mdash; the
+          engineering term for accelerated corrosion driven by biofilm activity, particularly
+          sulfate-reducing and iron-oxidizing bacteria &mdash; metals leach into the water.
+          This is one reason fire sprinkler discharge is often black or dark brown, and why
+          sprinkler-system reliability is itself degraded over time.
         </li>
         <li>
           <strong>Nitrates:</strong> Formed from the breakdown of nitrogen compounds in the stagnant
@@ -119,9 +143,12 @@ export default function Content() {
           State Department of Health.
         </li>
         <li>
-          <strong>Gram-negative rod bacteria (GNR):</strong> A broad category of dangerous bacteria
-          that includes E. coli, salmonella, chlamydia, and the bacteria responsible for meningitis,
-          gonorrhea, and a range of gastrointestinal illnesses.
+          <strong>Gram-negative rod bacteria (GNR):</strong> A broad category of bacteria
+          frequently identified in contaminated water samples, including{' '}
+          <em>E. coli</em>, <em>Salmonella</em>, <em>Pseudomonas</em>, <em>Klebsiella</em>,
+          and <em>Enterobacter</em>. These organisms are associated with a range of
+          gastrointestinal, respiratory, and wound infections, particularly in immunocompromised
+          individuals.
         </li>
         <li>
           <strong>Sulfate-reducing bacteria (SRB):</strong> These are the organisms responsible for
@@ -417,6 +444,16 @@ export default function Content() {
           <li>
             <Link href="/resources/water-damage-claims" className="text-blue-700 underline hover:text-blue-900">
               Water Damage Insurance Claims: A Complete Guide
+            </Link>
+          </li>
+          <li>
+            <Link href="/resources/water-damage-categories-classes" className="text-blue-700 underline hover:text-blue-900">
+              IICRC Water Damage Categories and Classes
+            </Link>
+          </li>
+          <li>
+            <Link href="/resources/mold-losses" className="text-blue-700 underline hover:text-blue-900">
+              Mold Losses (Category 3 sprinkler losses frequently produce mold follow-on)
             </Link>
           </li>
           <li>
