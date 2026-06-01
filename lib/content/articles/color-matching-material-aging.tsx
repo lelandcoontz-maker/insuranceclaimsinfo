@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of insurance matching standards as a Licensed California Public Adjuster. It is not
+          legal advice. Matching regulations and case law vary by state, and the application of
+          any specific rule to a particular claim depends on facts and policy language that
+          should be evaluated by a licensed professional. If your insurer has refused to
+          replace enough material to achieve a reasonably uniform appearance, consult a
+          licensed attorney who specializes in insurance coverage disputes in your state.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         A hailstorm damages the south-facing slope of your roof. Your insurance company agrees to replace the shingles on that slope. The contractor tears off the damaged shingles, installs new ones, and leaves. You walk to the curb and look up.
       </p>
@@ -124,6 +136,13 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>The NAIC Model Regulation:</strong> The National Association of Insurance Commissioners adopted model language stating: &quot;When a loss requires replacement of items and the replaced items do not match in quality, color or size, the insurer shall replace all items in the area so as to conform to a reasonably uniform appearance.&quot;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>California</strong> &mdash; California has adopted the NAIC matching language almost verbatim in its Fair Claims Settlement Practices Regulations. 10 CCR &sect; 2695.9(a)(2) provides: &ldquo;When a loss requires replacement of items and the replaced items do not match in quality, color or size, the insurer shall replace all items in the damaged area so as to conform to a reasonably uniform appearance.&rdquo; The contested term in California practice is &ldquo;the damaged area&rdquo; &mdash; carriers typically argue for a narrower scope (immediate area, slope section, line of sight), while policyholders argue for the scope actually required to achieve uniform appearance. For a deeper analysis of how California depreciation interacts with matching scope &mdash; including the strong (but not appellate-settled) argument that undamaged items replaced solely for matching should not be depreciated on a replacement-cost policy &mdash; see our article on{' '}
+        <Link href="/resources/broad-evidence-rule-acv" className="text-blue-700 underline hover:text-blue-900">
+          how depreciation is calculated under California law
+        </Link>
+        .
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Iowa</strong> &mdash; Iowa Admin. Code r. 191-15.44 adopts a &quot;line of sight&quot; standard requiring insurers to &quot;replace as much of the item as is necessary to result in a reasonably uniform appearance within the same line of sight.&quot;
