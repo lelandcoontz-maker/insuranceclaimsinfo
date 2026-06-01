@@ -716,11 +716,14 @@ export default function Content() {
         &mdash; a serious respiratory hazard regulated by OSHA under 29 CFR 1926.1153.
         The permissible exposure limit (PEL) is just 50 &mu;g/m&sup3; as an 8-hour
         time-weighted average &mdash; a threshold easily exceeded by dry-cutting
-        concrete. OSHA requires handheld power saws cutting concrete to use an
+        concrete. Under OSHA Table 1, employers using the engineering-control
+        compliance option must equip handheld power saws cutting concrete with an
         integrated water delivery system that continuously feeds water to the blade.
-        For indoor cutting, workers must wear a minimum APF 10 respirator regardless
-        of duration, and the work area must be contained with plastic sheeting over
-        doorways and HVAC returns. The silica dust can contaminate the entire home if
+        For indoor or enclosed-area cutting under Table 1, an APF 10 respirator is
+        typically required even on short-duration tasks, with higher APF requirements
+        for longer-duration work. The work area should be contained with plastic
+        sheeting over doorways and HVAC returns. The silica dust can contaminate the
+        entire home if
         containment is inadequate, turning what was a plumbing repair into an
         environmental remediation.
       </p>
@@ -926,12 +929,14 @@ export default function Content() {
         The resulting litigation went in two directions. Lawsuits against the water
         districts failed &mdash; the courts held that the districts were using
         disinfectant levels authorized by the EPA and California standards. But lawsuits
-        against the <em>developers</em> who built the homes were more successful. A $7
-        million settlement was reached against William Lyon Homes on behalf of 444
-        homeowners in Ladera Ranch, providing each home with either a full PEX repipe
-        or epoxy coating. Nearly $2 million was obtained from MBK Builders, and
-        additional litigation targeted Standard Pacific Homes in Talega, potentially
-        affecting over 3,000 homeowners.
+        against the <em>developers</em> who built the homes were more successful.
+        Reported settlements include approximately $7 million against William Lyon
+        Homes for affected homeowners in Ladera Ranch (with the option to elect either
+        a full PEX repipe or epoxy coating), approximately $1.3 million against MBK
+        Builders, and related litigation involving Standard Pacific Homes in Talega
+        affecting a substantial number of additional homeowners. Reported figures vary
+        across sources and only represent the litigation that was made public; many
+        other affected homeowners pursued individual claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you live in an area with known aggressive water chemistry and your copper
