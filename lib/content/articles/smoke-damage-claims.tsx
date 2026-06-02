@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California smoke-damage claims practice as a Licensed California Public Adjuster.
+          It is not legal advice. Coverage on any specific claim depends on the actual policy
+          language, the facts of the loss, and current case law &mdash; which on smoke damage
+          is evolving rapidly. For legal questions about a specific smoke-damage claim,
+          consult a licensed attorney who specializes in insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Smoke damage is one of the most disputed areas in California property insurance. Unlike
         fire damage — which is visible and relatively straightforward to assess — smoke damage is
@@ -79,29 +90,47 @@ export default function Content() {
         Microscopic Soot: The Damage You Cannot See
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        One of the most important developments in smoke damage litigation is the recognition that
-        microscopic soot contamination constitutes real, measurable property damage — even when
-        nothing is visible to the naked eye. In <em>Maxus Metropolitan, LLC v. Travelers
-        Property Casualty Co.</em>, No. 24-1176 (8th Cir. 2025), the Eighth Circuit held that
-        microscopic soot contamination can constitute &ldquo;direct physical loss or
-        damage&rdquo; even when the contamination is not visible to the naked eye. While this
-        is an Eighth Circuit decision applying Missouri law rather than California law, it is a
-        critical precedent for policyholders, because it dismantles the insurer&apos;s favorite
-        argument: &ldquo;we do not see any damage.&rdquo;
+        The binding California authority on this point is{' '}
+        <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 16 Cal.5th
+        ____ (S277893, May 23, 2024). The California Supreme Court held that &ldquo;direct
+        physical loss or damage&rdquo; under a property policy requires a &ldquo;distinct,
+        demonstrable, physical alteration&rdquo; to property, and that the alteration{' '}
+        <strong>&ldquo;need not be visible to the naked eye&rdquo;</strong> and{' '}
+        <strong>need not be structural</strong> &mdash; but it must result in some injury to
+        or impairment of the property as property. While <em>Another Planet</em> itself denied
+        coverage for the specific COVID-19 facts there, its definition of &ldquo;direct
+        physical loss or damage&rdquo; is binding California law and squarely applies to
+        smoke-damage claims where laboratory testing confirms a distinct, demonstrable
+        alteration even though no soot is visible to the eye.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        More recently, in <em>Aliff v. California FAIR Plan Association</em> (2025), a California
-        court addressed the FAIR Plan&apos;s attempt to limit smoke-damage coverage to damage that
-        was &ldquo;permanent physical change&rdquo; visible to the unaided eye. The court held that
-        this restrictive policy language was more narrow than the coverage required by California
-        Insurance Code &sect;&sect; 2070&ndash;2071 (the standard fire policy framework, with the
-        form text codified at &sect; 2071) and therefore unenforceable. Following
-        <em>Aliff</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language
-        that had been used to deny or minimize claims. The ruling has implications well beyond the
-        FAIR Plan — any admitted California carrier that tries to impose similar &ldquo;visible
-        damage&rdquo; limitations on smoke claims is on shaky legal ground. This is general
-        information, not legal advice; consult a licensed California attorney about how the case
-        applies to your specific policy and claim.
+        In <em>Maxus Metropolitan, LLC v. Travelers Property Casualty Co.</em>, No. 24-1176
+        (8th Cir. Aug. 28, 2025), the Eighth Circuit applied Missouri law and held that
+        microscopic soot contamination can constitute &ldquo;direct physical loss or
+        damage&rdquo; <em>if it renders the property uninhabitable</em>. The court affirmed a
+        $27.3 million jury verdict (plus $546,905 in vexatious-refusal damages and attorney
+        fees) against Travelers. This is persuasive authority from the Eighth Circuit applying
+        Missouri law, not California law, but its reasoning aligns with the <em>Another
+        Planet</em> definition and is increasingly cited by policyholder-side counsel.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        At the California trial-court level, <em>Aliff v. California FAIR Plan
+        Association</em> (L.A. Super. Ct. June 2025) (J. Stuart Rice, ruling on motion for
+        summary adjudication) addressed the FAIR Plan&apos;s attempt to limit smoke-damage
+        coverage to damage that was &ldquo;permanent physical change&rdquo; visible to the
+        unaided eye. The court held the restrictive policy language was narrower than the
+        coverage required by California Insurance Code &sect;&sect; 2070&ndash;2071 (the
+        standard fire policy framework, with the form text codified at &sect; 2071) and
+        therefore unenforceable, citing <em>Another Planet</em> for the proposition that
+        physical alteration &ldquo;need not be visible to the naked eye.&rdquo;{' '}
+        <em>Aliff</em> is a Superior Court decision and is not binding appellate precedent
+        &mdash; it is persuasive authority that applies the binding <em>Another Planet</em>
+        rule to a FAIR Plan policy. After the ruling, the FAIR Plan announced it would not
+        appeal and would update its policy language; some reports indicate the Plan has since
+        shifted its denial rationale to argue that smoke damage must be a &ldquo;distinct,
+        demonstrable and physical alteration&rdquo; (the <em>Another Planet</em> language
+        itself), which means policyholders should expect the next round of disputes to focus
+        on whether laboratory testing satisfies that standard.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Wildfire smoke produces extraordinarily fine particulate matter. PM2.5 particles — those
@@ -151,11 +180,12 @@ export default function Content() {
           <strong>Hire an independent environmental testing firm.</strong> Do not rely on the
           insurer&apos;s testing. Hire a Certified Industrial Hygienist (CIH) or environmental
           consultant to perform air quality testing, surface wipe samples, and HVAC inspection.
-          Testing and remediation should follow the IICRC S520 Standard for Professional Mold
-          Remediation and the IICRC S540 Standard for Cleaning and Decontamination of Wildfire
-          Residues — these are the recognized industry standards. If the insurer&apos;s testing
-          company is not following these protocols, that is a red flag. An independent test creates
-          a defensible record.
+          The relevant industry consensus standard for fire-and-smoke restoration is the
+          <strong> ANSI/IICRC S700 Standard for Professional Restoration of Fire and Smoke
+          Damaged Structures and Contents</strong>; if mold has developed as a secondary
+          condition, the ANSI/IICRC S520 mold-remediation standard also applies. If the
+          insurer&apos;s testing company is not following these protocols, that is a red flag.
+          An independent test creates a defensible record.
         </li>
         <li>
           <strong>Test before cleaning.</strong> If you clean before testing, you destroy the
@@ -187,29 +217,46 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>CDI Smoke Claims Task Force.</strong> The California Department of Insurance
-          convened a task force to develop uniform, science-based standards for evaluating and
-          remediating smoke damage. The task force&apos;s report addresses inspection protocols,
-          testing standards, and remediation requirements.
+          <strong>CDI Smoke Claims and Remediation Task Force.</strong> Commissioner Lara
+          convened this task force in May 2025 in response to the January 2025 Los Angeles
+          wildfires (which produced more than 13,000 standing-home smoke-damage claims). The
+          nine-month task force &mdash; comprising public-health experts, fire-safety experts,
+          industrial hygienists, consumer advocates, and industry representatives &mdash;
+          released its report in March 2026 with recommendations for science-based inspection,
+          testing, and remediation standards.
         </li>
         <li>
-          <strong>AB 1795 — The Smoke Damage Recovery Act.</strong> This proposed legislation would
-          create the nation&apos;s first statewide framework for smoke damage claims, including
-          mandatory inspection timelines (30 days from notice), uniform testing and remediation
-          standards, ALE protections during remediation, and mandatory timelines for claim payments.
+          <strong>AB 1795 &mdash; The Smoke Damage Recovery Act</strong> (Asm. Mike Gipson,
+          with Commissioner Ricardo Lara as primary backer). This proposed legislation would
+          create the nation&apos;s first statewide framework for smoke-damage claims,
+          including a 30-day inspection deadline, insurer responsibility for the cost of
+          California EPA-guided sampling and testing, ALE continuation until the property has
+          been cleared, and uniform timelines for claim payments. As of this writing
+          (mid-2026), AB 1795 remains in the legislative process and has not been enacted;
+          confirm the bill&rsquo;s current status before relying on its provisions.
         </li>
         <li>
-          <strong>CDI Bulletin 2025-7.</strong> The Department of Insurance issued guidance requiring
-          insurers to comply with fair claims settlement practices on smoke damage claims, including
-          making good faith efforts to promptly and fairly settle claims.
+          <strong>CDI Bulletin 2025-7</strong> (March 7, 2025). This bulletin directs all
+          California insurers (including the FAIR Plan) to properly investigate and pay
+          legitimate smoke-damage claims, citing the binding <em>Another Planet
+          Entertainment</em> definition of &ldquo;direct physical loss or damage&rdquo; and
+          expressly requiring compliance with Insurance Code &sect; 790.03(h) and 10 CCR
+          &sect; 2695.7(d) (the thorough-investigation duty). The bulletin emphasizes that
+          recent case law &ldquo;does not support the position that smoke damage is never
+          covered as a matter of law.&rdquo;
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="The $5,000 Smoke Damage Cap Is Gone">
+      <CalloutBox variant="tip" title="Smoke Damage Sublimits Are Under Pressure">
         <p>
-          Some older policies included a $5,000 sublimit on smoke damage. California law no longer
-          permits insurers to enforce these caps. If your insurer tries to limit your smoke damage
-          claim to a sublimit, push back — this practice has been prohibited.
+          Some policies historically included low sublimits on smoke damage (often around
+          $5,000). Following the <em>Aliff</em> ruling and the standard-fire-policy framework
+          in Insurance Code &sect;&sect; 2070&ndash;2071, restrictive smoke-damage coverage
+          language that is narrower than the standard form has been challenged successfully
+          on California FAIR Plan policies, and the same arguments apply to any admitted
+          carrier whose smoke-damage limitations fall below what &sect;&sect; 2070&ndash;2071
+          require. The enforceability of any specific sublimit is a fact- and
+          policy-specific legal question for an attorney to evaluate.
         </p>
       </CalloutBox>
 
@@ -428,15 +475,16 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        CDI Smoke Damage Task Force Findings
+        CDI Smoke Claims and Remediation Task Force Findings
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Following the 2017&ndash;2018 California wildfire seasons, the California Department of
-        Insurance (CDI) formed a <strong>Smoke Damage Claims Task Force</strong> to investigate
-        how insurers were handling smoke-only claims &mdash; properties that were not directly
-        burned but sustained smoke contamination from nearby wildfires. The task force&apos;s
-        findings confirmed what policyholders and their advocates had been saying for years:
-        insurers were systematically underpaying and improperly denying smoke damage claims.
+        Following the January 2025 Los Angeles wildfires, Commissioner Lara convened the{' '}
+        <strong>Smoke Claims and Remediation Task Force</strong> in May 2025 to investigate
+        how insurers were handling smoke-only claims &mdash; properties that were not
+        directly burned but sustained smoke contamination from nearby wildfires. The
+        nine-month task-force effort released its report in March 2026. Its findings
+        confirmed what policyholders and their advocates had been saying for years:
+        insurers were systematically underpaying and improperly denying smoke-damage claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Key findings included:
