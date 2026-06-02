@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Commentary on Public Advertising">
+        <p>
+          This article is commentary and criticism of publicly-distributed insurance-industry
+          advertising. It is the author&rsquo;s analysis and opinion as a Licensed California
+          Public Adjuster, drawing on the documented public record of how major carriers&rsquo;
+          claims operations have evolved. It is not legal advice. Every claim is fact-specific,
+          and individual experiences with any carrier may differ from the patterns described
+          here. Consult a licensed attorney about a specific claim.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Promise and the Product
       </h2>

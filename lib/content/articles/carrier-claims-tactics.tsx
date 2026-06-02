@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Commentary on Published Sources">
+        <p>
+          This article is commentary on documented public materials &mdash; the McKinsey
+          consulting documents Allstate produced in discovery, David Berardinelli&rsquo;s
+          book <em>From Good Hands to Boxing Gloves</em>, Professor Jay Feinman&rsquo;s
+          <em> Delay, Deny, Defend</em>, and the public regulatory and judicial record. It is
+          the author&rsquo;s analysis and opinion as a Licensed California Public Adjuster.
+          It is not legal advice and is not a comprehensive empirical study. Every claim is
+          fact-specific. Consult a licensed attorney about a specific claim.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         This Is Not a Conspiracy Theory &mdash; It Is Documented History
       </h2>
