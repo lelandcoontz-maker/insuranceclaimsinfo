@@ -103,10 +103,21 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California Insurance Code Section 2071 and Regulatory Rights
+        Pre-Litigation Regulatory Rights (10 CCR &sect; 2695.7)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California policyholders have a right to certain claim documents under insurance regulations. California Code of Regulations, Title 10, Section 2695.7(d) requires that upon request, the carrier provide copies of all documents that form the basis for a claim decision. This includes inspection reports, expert reports, estimates, photographs, and other materials upon which the carrier relied in reaching its coverage determination. For a detailed discussion of these rights, see the article on the{' '}
+        California policyholders have a right to certain claim documents under the Fair
+        Claims Settlement Practices Regulations. 10 CCR &sect; 2695.7(b)(1) requires the
+        insurer to provide a written denial citing the factual and legal bases for the
+        decision, and &sect; 2695.7(d) requires the insurer to thoroughly and objectively
+        investigate the claim &mdash; producing the documents on which it relied as part of
+        that investigation. The Insurance Commissioner has interpreted these provisions
+        together to support a claimant&rsquo;s right to copies of inspection reports,
+        expert reports, estimates, photographs, and other materials upon which the carrier
+        relied in reaching its coverage determination. (Note: California Insurance Code
+        &sect; 2084 separately requires the insurer to provide a complete copy of the
+        policy, including endorsements, within 30 days of a written request after a covered
+        loss.) For a detailed discussion of these rights, see the article on the{' '}
         <Link href="/resources/cdi-right-to-claim-documents" className="text-[#2E74B5] underline hover:text-blue-900">
           CDI right to claim documents
         </Link>.
@@ -274,6 +285,11 @@ export default function Content() {
           </Link>
         </li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
