@@ -989,6 +989,9 @@ export default function Content() {
           faith, consult a licensed California attorney who specializes in insurance
           coverage litigation.
         </p>
+        <p className="text-sm text-gray-500 italic mt-4">
+          Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+        </p>
       </div>
     </>
   )
