@@ -109,9 +109,12 @@ export default function Content() {
         where a covered and excluded peril act together. In California, ACC clauses are
         unenforceable to the extent they conflict with the efficient proximate cause doctrine
         (Insurance Code Section 530). This has been settled law since <em>Garvey v. State Farm</em>{' '}
-        (1989) 48 Cal.3d 395, confirmed by <em>Julian v. Hartford Underwriters</em> (2005) 35
-        Cal.4th 747, and codified for wildfire-related mudslide losses by Insurance Code Section
-        530.5 (2018). However, insurers continue to include ACC clauses in policies and invoke them
+        (1989) 48 Cal.3d 395, and was applied directly to ACC language by <em>Howell v. State
+        Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446. The California Supreme Court
+        restated the general rule in <em>Julian v. Hartford Underwriters</em> (2005) 35 Cal.4th
+        747 (although on <em>Julian</em>&rsquo;s facts the Court enforced the carrier&rsquo;s
+        exclusion). The Legislature then codified the rule for wildfire-related mudslide losses
+        by enacting Insurance Code Section 530.5 (2018). However, insurers continue to include ACC clauses in policies and invoke them
         in claim denials, so policyholders should be aware of the ongoing tension between what
         policies say and what California law allows. If your denial involves mixed causes, this is
         an area where professional guidance is essential.
