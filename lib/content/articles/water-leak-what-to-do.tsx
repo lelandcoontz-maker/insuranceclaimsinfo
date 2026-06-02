@@ -12,25 +12,39 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s practical
+          guidance on the first hours of a water-loss response as a Licensed California
+          Public Adjuster. It is not legal advice. Coverage on any specific claim depends on
+          the actual policy language and the facts of the loss. If your insurer has denied
+          or limited a water-damage claim, consult a licensed attorney who specializes in
+          insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Water is pouring into your home. Maybe a pipe burst. Maybe the water heater failed. Maybe
         you came back from vacation to a soaked floor and a smell you cannot identify. Whatever
-        happened, you need to act fast. The decisions you make in the next few hours will determine
-        how much damage occurs, whether mold grows, and whether your insurance claim succeeds or
+        happened, you need to act fast. The decisions made in the next few hours will determine
+        how much damage occurs, whether mold grows, and whether the insurance claim succeeds or
         gets denied.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This guide tells you exactly what to do, in order, and explains what your homeowner&rsquo;s
-        insurance covers — and what it does not.
+        This guide explains what to do, in order, and what a standard homeowner&rsquo;s policy
+        covers &mdash; and what it does not.
       </p>
 
-      <CalloutBox variant="warning" title="The 48-Hour Mold Clock Is Real">
+      <CalloutBox variant="warning" title="The Mold Clock Is Real">
         <p>
-          Mold can begin colonizing wet building materials within <strong>48 to 72 hours</strong>.
-          Once mold establishes, your claim becomes exponentially more complex and expensive. Many
-          policies cap mold coverage at $5,000 or $10,000. The single most important thing you can
-          do is get the water extracted and drying equipment running immediately. Every hour counts.
+          Per the EPA&apos;s mold remediation guidance, the action window to dry wet materials
+          and prevent mold growth is <strong>24 to 48 hours</strong>. Visible colonies often
+          form a day or two later, but the colonization process begins within the first
+          24&ndash;48 hours under favorable conditions. Once mold establishes, the claim becomes
+          exponentially more complex and expensive, and many policies cap mold coverage at
+          $5,000 to $10,000. The single most important thing to do is get the water extracted
+          and drying equipment running immediately. Every hour counts.
         </p>
       </CalloutBox>
 
@@ -118,10 +132,18 @@ export default function Content() {
         What Is Covered: Sudden and Accidental vs. Gradual
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Here is the central coverage question for every water leak claim. A standard HO-3 homeowner&rsquo;s
-        policy covers <strong>sudden and accidental</strong> discharge or overflow of water from a
-        plumbing system, appliance, or household fixture. It does not cover <strong>gradual</strong>{' '}
-        leaks — water that has been seeping for weeks or months.
+        This is the central coverage question for every water leak claim. A standard HO-3 covers
+        direct physical loss on an open-perils basis for the dwelling, and lists{' '}
+        <strong>sudden and accidental</strong> discharge or overflow of water from a plumbing
+        system, appliance, or household fixture as a named peril for personal property. What
+        carriers fight over is whether the leak was sudden or <strong>gradual</strong> &mdash;
+        water that has been seeping for weeks or months and is barred by the policy&rsquo;s
+        seepage exclusion. The recent California decision on this fight is discussed in our
+        article on the{' '}
+        <Link href="/resources/water-damage-seepage-exclusion" className="text-[#2E74B5] hover:underline">
+          continuous-or-repeated seepage exclusion
+        </Link>
+        .
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This distinction matters enormously:
@@ -157,25 +179,41 @@ export default function Content() {
         peril, even though it need not pay to repair the excluded condition itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Example: Your slab leak was gradual (excluded). But the resulting damage to your hardwood
-        floors, baseboards, and drywall may be covered — because those items were damaged by the
-        water, and water damage is a covered peril. The insurer does not have to pay to fix the pipe
-        itself, but it must pay for what the water damaged. This is established in cases like{' '}
-        <em>Efficient Proximate Cause</em> analysis under California law. See our guide on{' '}
+        Example: A slab leak was gradual (excluded). But the resulting damage to hardwood
+        floors, baseboards, and drywall may be covered &mdash; because those items were damaged
+        by the water, and water damage is a covered peril. The insurer does not have to pay to
+        fix the pipe itself, but it must pay for what the water damaged. This intersects with
+        California&apos;s efficient proximate cause doctrine (Sabella v. Wisler (1963) 59
+        Cal.2d 21; Garvey v. State Farm Fire &amp; Casualty Co. (1989) 48 Cal.3d 395). For a
+        deeper discussion, see our guide on{' '}
         <Link href="/resources/water-damage-claims" className="text-[#2E74B5] hover:underline">
           water damage claims
         </Link>{' '}
-        for deeper analysis.
+        and the article on{' '}
+        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+          efficient proximate cause
+        </Link>
+        .
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Mold Risk: Why Speed Matters
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Mold spores are everywhere — in the air, on surfaces, in dust. They are harmless until they
-        find moisture and an organic food source (drywall paper, wood, carpet backing). Once
-        conditions are right, visible mold colonies can form in 48 to 72 hours. After that, the
-        problem expands exponentially.
+        Mold spores are everywhere &mdash; in the air, on surfaces, in dust. They are harmless
+        until they find moisture and an organic food source (drywall paper, wood, carpet
+        backing). Once conditions are right, the EPA documents that mold colonization can begin
+        within 24 to 48 hours; visible colonies typically appear a day or two after that, and
+        once growth is established the problem expands quickly. For the underlying science, see
+        our companion articles on the{' '}
+        <Link href="/resources/epa-mold-remediation-guide" className="text-[#2E74B5] hover:underline">
+          EPA mold remediation guide
+        </Link>{' '}
+        and the{' '}
+        <Link href="/resources/mold-growth-prediction-research" className="text-[#2E74B5] hover:underline">
+          VTT mold growth research
+        </Link>
+        .
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Most California homeowner policies either exclude mold entirely or cap coverage at $5,000 to
@@ -319,20 +357,25 @@ export default function Content() {
         When to Get Help
       </h2>
       <p className="text-gray-700 leading-relaxed mb-6">
-        Most straightforward water leak claims — a burst supply line, a failed water heater — resolve
-        without major disputes if you mitigate quickly and document well. But if the insurer denies
-        the claim, calls it &ldquo;gradual,&rdquo; or dramatically underpays the repair estimate, you
-        may need professional help. A{' '}
-        <Link href="/resources/water-damage-claims" className="text-[#2E74B5] hover:underline">
+        Most straightforward water leak claims &mdash; a burst supply line, a failed water
+        heater &mdash; resolve without major disputes if mitigation happens quickly and the
+        documentation is solid. But if the insurer denies the claim, calls it
+        &ldquo;gradual,&rdquo; or dramatically underpays the repair estimate, professional
+        help may be needed. A{' '}
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
           public adjuster
         </Link>{' '}
-        can re-scope the damage and negotiate on your behalf. For coverage denials or bad faith delay,
-        consult an attorney. The{' '}
+        can re-scope the damage and negotiate with the carrier. For coverage denials or
+        bad-faith delay, consult an attorney. The{' '}
         <Link href="/resources/first-72-hours-after-loss" className="text-[#2E74B5] hover:underline">
           first 72 hours
         </Link>{' '}
-        are the most critical — act fast, document everything, and do not let the insurer&rsquo;s
-        delay become your mold problem.
+        are the most critical &mdash; act fast, document everything, and do not let the
+        insurer&rsquo;s delay become a mold problem.
+      </p>
+
+      <p className="text-sm text-gray-500 mt-8 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
