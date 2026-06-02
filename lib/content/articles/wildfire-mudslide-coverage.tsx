@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California&rsquo;s efficient proximate cause doctrine as it applies to post-wildfire
+          mudslide and earth-movement losses, as a Licensed California Public Adjuster. It is
+          not legal advice. The doctrine&rsquo;s application to a specific claim depends on the
+          facts of the loss, the precise policy language, and current California law. For legal
+          questions about a specific post-wildfire claim, consult a licensed California
+          attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         A wildfire burns through the hills above your home. Weeks or months later, the first heavy rain arrives &mdash; and with it, a wall of mud, debris, and boulders. The hillside, stripped of the vegetation that held it together, collapses onto your property. Your home is damaged or destroyed &mdash; not by flame, but by earth movement triggered by the fire that came before it.
       </p>
@@ -62,10 +74,16 @@ export default function Content() {
           <strong><em>Garvey v. State Farm Fire &amp; Casualty Co.</em> (1989) 48 Cal.3d 395:</strong> The California Supreme Court reinforced and refined the doctrine. The court confirmed that the efficient proximate cause analysis applies even when the policy contains an explicit exclusion for one of the concurring causes &mdash; and that insurers cannot use policy language to override this rule.
         </li>
         <li>
+          <strong><em>Howell v. State Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446:</strong> The California Court of Appeal directly applied <em>Sabella</em> and <em>Garvey</em> to post-fire mudslide facts: where rainfall mobilized fire-destabilized soil onto the insured property, the court held the earth-movement exclusion unenforceable because fire was the efficient proximate cause. <em>Howell</em> is the cleanest California authority for the exact factual pattern this article addresses.
+        </li>
+        <li>
           <strong>California Insurance Code &sect; 530:</strong> &ldquo;An insurer is liable for a loss of which a peril insured against was the proximate cause, although a peril not contemplated by the contract may have been a remote cause of the loss; but he is not liable for a loss of which the peril insured against was only a remote cause.&rdquo;
         </li>
         <li>
-          <strong><em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747:</strong> An important clarification. The Supreme Court held that the efficient proximate cause doctrine applies when there is a <strong>single causal chain</strong> &mdash; one peril triggering another. When two truly independent perils operate concurrently, the analysis may differ. This distinction matters because insurers sometimes argue that the rainfall was an &ldquo;independent&rdquo; cause rather than a link in the chain that fire started.
+          <strong>California Insurance Code &sect; 530.5</strong> (added 2018): The Legislature codified the wildfire-as-efficient-proximate-cause rule after the Montecito debris flows. The statute affirms that when a fire is the predominating cause of a subsequent mudslide or other earth movement, the resulting loss is covered.
+        </li>
+        <li>
+          <strong><em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747:</strong> The California Supreme Court restated the general rule that policy exclusions are unenforceable to the extent they conflict with &sect; 530 and the efficient proximate cause doctrine. (Important nuance: on <em>Julian</em>&rsquo;s facts the Court ultimately enforced the carrier&rsquo;s weather-conditions/earth-movement exclusion as targeting a distinct peril; the case is most useful for its statement of the rule, not for its disposition. The directly controlling California case on ACC language in the post-fire-mudslide context is <em>Howell</em>, above.) The single-causal-chain framing remains important because insurers sometimes argue rainfall was an &ldquo;independent&rdquo; cause rather than a link in the chain fire started.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -109,13 +127,13 @@ export default function Content() {
         The CDI&rsquo;s Position: Earth Movement Claims After Wildfire
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Department of Insurance has formally addressed this issue. Following the catastrophic January 2018 Montecito debris flows &mdash; which killed 23 people and destroyed over 100 homes after the December 2017 Thomas Fire denuded the hillsides above the community &mdash; the CDI issued guidance to insurers stating that claims for debris flow and mudslide damage should be evaluated under the efficient proximate cause doctrine. The CDI&rsquo;s position is straightforward: if the Thomas Fire was the efficient proximate cause of the vegetation loss that led to the debris flows, those claims should be covered under the fire and wildfire coverage in the homeowner policy.
+        The California Department of Insurance has formally addressed this issue. Following the catastrophic January 2018 Montecito debris flows &mdash; which killed 23 people and destroyed over 100 homes after the December 2017 Thomas Fire denuded the hillsides above the community &mdash; then-Commissioner Dave Jones issued a Notice in March 2018 directing insurers that claims for debris flow and mudslide damage should be evaluated under the efficient proximate cause doctrine. The CDI&rsquo;s position is straightforward: if the Thomas Fire was the efficient proximate cause of the vegetation loss that led to the debris flows, those claims should be covered under the fire and wildfire coverage in the homeowner policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This was not a novel legal theory. The CDI was articulating what <em>Sabella</em>, <em>Garvey</em>, and Insurance Code &sect; 530 already required. But the formal guidance served an important purpose: it put insurers on notice that the Department expected compliance and that improper denials based on the earth movement exclusion &mdash; when wildfire was the efficient proximate cause &mdash; would be treated as potential violations of the Fair Claims Settlement Practices Regulations.
+        This was not a novel legal theory. The CDI was articulating what <em>Sabella</em>, <em>Garvey</em>, <em>Howell</em>, and Insurance Code &sect; 530 already required. The Legislature then codified the rule for wildfire-related mudslides by enacting Insurance Code &sect; 530.5 in 2018. The formal CDI guidance and the statutory codification together put insurers on notice that improper denials based on the earth movement exclusion &mdash; when wildfire was the efficient proximate cause &mdash; would be treated as potential violations of the Fair Claims Settlement Practices Regulations.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The CDI has reinforced this position after subsequent wildfire seasons. Following the 2018 Camp Fire and Woolsey Fire, the 2020 fire season, and most recently after the January 2025 Palisades and Eaton fires, the Department has reaffirmed that the efficient proximate cause doctrine applies to post-wildfire earth movement claims and that insurers denying these claims on earth movement exclusion grounds face scrutiny under California&rsquo;s unfair claims practices laws.
+        The CDI has reinforced this position after subsequent wildfire seasons. Following the 2018 Camp Fire and Woolsey Fire, the 2020 fire season, and most recently after the January 2025 Palisades and Eaton fires, the Department has reaffirmed that the efficient proximate cause doctrine applies to post-wildfire earth movement claims. Commissioner Ricardo Lara issued <strong>CDI Bulletin 2025-3</strong> on February 4, 2025 (in the immediate aftermath of the LA-area fires), reminding insurers that California&rsquo;s anti-concurrent causation framework cannot be used to defeat coverage where a covered peril (the wildfire) was the efficient proximate cause of the subsequent earth-movement loss. Insurers denying these claims on earth movement exclusion grounds face scrutiny under California&rsquo;s unfair claims practices laws.
       </p>
 
       <CalloutBox variant="tip" title="Insurers Have Largely Followed This Reasoning">
@@ -137,7 +155,7 @@ export default function Content() {
         In states that enforce this language, an insurer could argue that because earth movement was &ldquo;in the sequence&rdquo; of events, the entire loss is excluded &mdash; even though fire started the chain. The ACC clause would override the causal analysis and deny coverage based solely on the presence of an excluded peril somewhere in the sequence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>California does not enforce anti-concurrent causation clauses.</strong> The California Supreme Court in <em>Garvey</em> established that the efficient proximate cause doctrine cannot be overridden by policy language. ACC clauses are unenforceable in California because they conflict with the efficient proximate cause rule established in <em>Sabella</em> and <em>Garvey</em> and codified in Insurance Code &sect; 530. An insurer cannot contractually eliminate the efficient proximate cause analysis by inserting ACC language into the policy.
+        <strong>California does not enforce anti-concurrent causation clauses in a manner that overrides the efficient proximate cause doctrine.</strong> The California Court of Appeal in <em>Howell v. State Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446 directly held that ACC language cannot defeat coverage where a covered peril is the efficient proximate cause of the loss &mdash; on facts essentially identical to a post-fire mudslide claim. The California Supreme Court restated the general rule in <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, although on <em>Julian</em>&rsquo;s specific facts the Court enforced the carrier&rsquo;s exclusion as targeting a distinct peril. Read together, <em>Howell</em> and <em>Julian</em> establish that ACC clauses are unenforceable in California to the extent they conflict with the efficient proximate cause rule established in <em>Sabella</em> and <em>Garvey</em> and codified in Insurance Code &sect;&sect; 530 and 530.5. An insurer cannot contractually eliminate the efficient proximate cause analysis by inserting ACC language into the policy.
       </p>
 
       <CalloutBox variant="important" title="California Does Not Enforce Anti-Concurrent Causation Language">
