@@ -175,7 +175,11 @@ export default function Content() {
           California sets no fixed dollar cap on punitive damages, but federal due process limits
           them: under <em>State Farm v. Campbell</em> (2003) 538 U.S. 408 and{' '}
           <em>Simon v. San Paolo</em> (2005) 35 Cal.4th 1159, awards are generally confined to a
-          low single-digit multiple of the compensatory damages.
+          low single-digit multiple of the compensatory damages. In{' '}
+          <em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686, the California Supreme Court
+          went further, holding that where compensatory damages are &ldquo;substantial&rdquo;
+          (and especially where they include a significant noneconomic component), a 1:1 ratio
+          may be the constitutional maximum.
         </li>
         <li>
           <strong>Brandt fees</strong> &mdash; attorney&rsquo;s fees incurred in recovering the
