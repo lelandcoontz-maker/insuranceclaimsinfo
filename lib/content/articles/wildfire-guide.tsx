@@ -333,7 +333,14 @@ export default function Content() {
         protection, see our{' '}
         <Link href="/resources/california-claim-deadlines" className="text-blue-700 underline hover:text-blue-900">
           California Insurance Claim Deadlines guide
-        </Link>.
+        </Link>
+        . For the statutory framework behind these protections &mdash; how Insurance Code
+        Sections 2070 and 2071 establish a coverage floor that proprietary policies cannot
+        undercut &mdash; see our companion article on the{' '}
+        <Link href="/resources/standard-fire-policy-insurance-code-2070" className="text-blue-700 underline hover:text-blue-900">
+          California Standard Fire Policy and Insurance Code 2070
+        </Link>
+        .
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -391,6 +398,11 @@ export default function Content() {
           a licensed Public Adjuster may be able to assist.
         </p>
       </CalloutBox>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
