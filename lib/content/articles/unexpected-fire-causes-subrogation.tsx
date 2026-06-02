@@ -12,6 +12,19 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on documented fire-cause and product-recall
+          information drawn from public sources (NFPA fire statistics, CPSC recall database,
+          NHTSA recall database, published court findings, and the author&rsquo;s experience as
+          a Licensed California Public Adjuster). The product and vehicle hazards discussed are
+          documented in public regulatory records. The article is not legal advice and is not
+          a substitute for a fire investigation by a qualified C&amp;O investigator or for
+          legal counsel on a specific subrogation claim. For legal questions about a specific
+          fire or subrogation matter, consult a licensed attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Not every fire starts the way you&rsquo;d expect. There&rsquo;s no dramatic moment &mdash; no
         grease splashing on a burner, no candle falling off a nightstand. Some fires start silently,
