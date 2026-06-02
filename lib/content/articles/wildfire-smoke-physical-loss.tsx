@@ -12,6 +12,23 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California physical-loss doctrine as a Licensed California Public Adjuster. It is
+          not legal advice. The case law in this area is evolving and the application of any
+          decision to a specific smoke-damage claim depends on the policy language, the
+          jurisdiction, and the documented facts of contamination. For legal questions about a
+          specific wildfire-smoke claim, consult a licensed California attorney who
+          specializes in insurance coverage disputes. For the broader practical framework on
+          smoke-damage claims handling, see our umbrella article on{' '}
+          <Link href="/resources/smoke-damage-claims" className="text-[#2E74B5] hover:underline">
+            smoke damage insurance claims in California
+          </Link>
+          .
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         A wildfire burns miles away. The flames never reach the property. But the smoke does. It
         penetrates the building envelope, saturates soft furnishings, embeds in HVAC ductwork,
@@ -448,12 +465,14 @@ export default function Content() {
         <Link href="/resources/ale-frv" className="text-blue-700 underline hover:text-blue-900">
           additional living expenses (ALE)
         </Link>{' '}
-        if the home is not safe to occupy. California Insurance Code section 2051.5 provides for
-        ALE coverage when a covered peril renders the home uninhabitable. If environmental testing
-        demonstrates that the indoor air quality exceeds safe exposure levels, or that the
-        contamination presents a health risk to occupants, the policyholder should not remain in
-        the home &mdash; and the insurer should be covering the cost of temporary housing during
-        remediation.
+        if the home is not safe to occupy. ALE is a coverage provided by the policy itself
+        (Coverage D in standard HO-3 forms). California Insurance Code &sect; 2051.5 builds on
+        that by setting minimum ALE durations for losses arising from a state of emergency
+        (24 months, extendable to 36 months under specified circumstances). If environmental
+        testing demonstrates that the indoor air quality exceeds safe exposure levels, or that
+        the contamination presents a health risk to occupants, the policyholder should not
+        remain in the home &mdash; and the insurer should be covering the cost of temporary
+        housing during remediation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurers sometimes refuse ALE on the theory that the underlying smoke damage claim has not
