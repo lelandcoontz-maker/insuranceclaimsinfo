@@ -811,32 +811,34 @@ export default function Content() {
         Shank v. Safeco Insurance Co. of America (S.D. W. Va. 2016)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Shank v. Safeco Ins. Co. of Am.</em>, 2016 WL 4534028 (S.D.W. Va. Aug. 30, 2016),
-        is included here for honest balance. A married couple owned their primary home and a
-        second home inherited from a relative; they used the second home weekly. After a fire,
-        Safeco denied the claim under the &ldquo;residence premises&rdquo; definition. The
-        insureds argued that the residence-premises restriction was impermissible under West
-        Virginia&rsquo;s Standard Fire Policy statute. The district court <strong>rejected
-        that argument</strong> and held the residence-premises limitation was a permissible
-        scope-of-coverage restriction that did not conflict with West Virginia&rsquo;s
-        Standard Fire Policy. Coverage was denied. The case is a cautionary tale: the
-        Standard-Fire-Policy-conformity argument does not always succeed, and the
-        residence-premises language can be enforced even in conformity states.
+        <em>Shank v. Safeco Ins. Co. of Am.</em>, 2016 WL 4534028 (S.D.W. Va. Aug. 30, 2016).
+        A married couple owned their primary home and a second home inherited from a relative;
+        they used the second home weekly. After a fire, Safeco denied the claim under the
+        &ldquo;residence premises&rdquo; definition. The insureds argued that the
+        residence-premises restriction was impermissibly more restrictive than West
+        Virginia&rsquo;s Standard Fire Policy statute. The district court <strong>agreed and
+        held that Safeco&rsquo;s &ldquo;residence premises&rdquo; provision was unlawfully more
+        restrictive</strong> than permitted under West Virginia law. West Virginia requires
+        fire policies to conform to the 1943 New York Standard Fire Policy, which suspends
+        coverage only when a building has been &ldquo;vacant or unoccupied beyond a period of
+        sixty consecutive days.&rdquo; Reading a residence-premises requirement into the policy
+        would, in the court&rsquo;s view, render the 60-day vacancy prong meaningless. Safeco
+        was found to have breached the policy. <em>Shank</em> is a useful authority for
+        snowbirds with multiple properties in Standard-Fire-Policy-conformity states.
       </p>
 
       <CalloutBox variant="legal" title="Standard Fire Policy Conformity">
         <p>
           Approximately half the states require property insurance policies to conform to a
-          statutory Standard Fire Policy. In some states, courts have held that a homeowner
+          statutory Standard Fire Policy. In those states, courts have held that a homeowner
           policy cannot impose conditions or exclusions more restrictive than what the Standard
           Fire Policy allows. The Standard Fire Policy typically addresses vacancy and
           unoccupancy but does <em>not</em> contain a &ldquo;where you reside&rdquo;
-          requirement. However, as <em>Shank</em> illustrates, this argument has been{' '}
-          <strong>rejected by at least one federal court</strong> applying West Virginia law,
-          which treated the residence-premises restriction as a permissible scope-of-coverage
-          limitation rather than an impermissible narrowing of fire coverage. The conformity
-          argument is jurisdiction-specific and outcome-dependent &mdash; it is worth raising
-          in conformity states, but it is not a guaranteed winner. Discuss with a coverage
+          requirement. <em>Shank</em> is one of several federal-court decisions holding that a
+          carrier&rsquo;s residence-premises restriction is unenforceable in a conformity state
+          when it goes beyond what the Standard Fire Policy allows. The conformity argument is
+          jurisdiction-specific &mdash; whether it will succeed depends on the specific state&apos;s
+          conformity statute and how its courts have interpreted it. Discuss with a coverage
           attorney before relying on it.
         </p>
       </CalloutBox>
