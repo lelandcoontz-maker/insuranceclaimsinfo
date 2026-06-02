@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: 'Choosing Between Appraisal, Mediation, and Litigation: A Decision Framework',
@@ -11,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on the strategic choice between appraisal,
+          mediation, and litigation in California insurance disputes, as a Licensed California
+          Public Adjuster. It is not legal advice. The right path for any given claim depends
+          on the policy language, the nature of the dispute, the statutory and contractual
+          deadlines that apply, and current California law. Consult a licensed California
+          attorney before making any decision that turns on legal interpretation or that
+          could affect a statute-of-limitations deadline.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your insurance claim has stalled. The adjuster&apos;s number is too low, the insurer is
         dragging its feet, or the carrier has denied coverage altogether. You know you need to
@@ -477,18 +490,38 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Sharma Waiver Doctrine
+        Waiver of Appraisal Through Litigation Conduct
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        One of the most important California appraisal decisions is <em>Sharma v. Landers</em> (1998),
-        which established that a party can <strong>waive</strong> its right to appraisal through
-        conduct inconsistent with an intent to invoke the process. The Sharma waiver doctrine holds
-        that if a party participates in litigation, takes substantial discovery, or otherwise acts as
-        though it intends to resolve the dispute through court proceedings rather than appraisal, it
-        may be deemed to have waived its right to appraisal.
+        Because California treats insurance appraisal as a form of contractual arbitration (per{' '}
+        <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818), the same
+        general doctrine that governs waiver of the right to arbitrate also governs waiver of
+        the right to appraisal. A party can lose its right to appraisal by acting in a manner
+        inconsistent with an intent to invoke the process &mdash; typically by engaging in
+        substantial litigation activity.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This doctrine has critical strategic implications:
+        The leading California Supreme Court authority is{' '}
+        <em>Saint Agnes Medical Center v. PacifiCare of California</em> (2003) 31 Cal.4th 1187,
+        which set out a multi-factor framework for evaluating waiver of the right to arbitrate.
+        Courts consider, among other things, (1) whether the party&rsquo;s actions are
+        inconsistent with the right to arbitrate, (2) whether &ldquo;the litigation machinery
+        has been substantially invoked,&rdquo; (3) whether arbitration was requested close to
+        the trial date or after long delay, (4) whether a defendant filed a counterclaim
+        without seeking a stay, (5) whether important intervening steps (such as judicial
+        discovery unavailable in arbitration) took place, and (6) whether the delay affected
+        or prejudiced the opposing party.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In 2024, the California Supreme Court further tightened this framework in{' '}
+        <em>Quach v. California Commerce Club, Inc.</em> (2024) 16 Cal.5th 562, which
+        eliminated the prior prejudice requirement &mdash; meaning a party who has substantially
+        engaged in litigation may now lose the right to compel arbitration (or appraisal) even
+        if the opposing party cannot show specific prejudice.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Together, the <em>Saint Agnes</em>/<em>Quach</em> waiver framework creates several
+        critical strategic implications:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -498,22 +531,33 @@ export default function Content() {
           waived it.
         </li>
         <li>
-          <strong>If the insurer tries to invoke appraisal late:</strong> If the insurer ignored your
-          claim for months, conducted extensive discovery, and only invokes appraisal on the eve of
-          trial to delay proceedings, you can argue that the insurer waived its right under Sharma.
-          Courts consider factors such as the length of delay, the extent of litigation conduct, and
-          whether the opposing party would be prejudiced.
+          <strong>If the insurer tries to invoke appraisal late:</strong> If the insurer ignored
+          your claim for months, conducted extensive discovery, and only invokes appraisal on
+          the eve of trial to delay proceedings, the policyholder has a strong waiver argument
+          under <em>Saint Agnes</em> / <em>Quach</em>. Courts consider the length of delay, the
+          extent of litigation conduct, and whether arbitration was requested in good faith.
         </li>
         <li>
-          <strong>Waiver is not automatic:</strong> Courts evaluate waiver on a case-by-case basis.
-          Simply filing a lawsuit does not automatically waive the right to appraisal, especially if
-          the suit includes coverage issues that appraisal cannot resolve.
+          <strong>Waiver is not automatic:</strong> Courts evaluate waiver on a case-by-case
+          basis. Simply filing a lawsuit does not automatically waive the right to appraisal,
+          especially if the suit includes coverage issues that appraisal cannot resolve.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Sharma doctrine creates a &ldquo;use it or lose it&rdquo; dynamic. If you believe
+        The doctrine creates a &ldquo;use it or lose it&rdquo; dynamic. If you believe
         appraisal is the right mechanism for the amount component of your dispute, invoke it
-        promptly. Do not wait to see how litigation develops &mdash; by then, the right may be gone.
+        promptly. Do not wait to see how litigation develops &mdash; by then, the right may
+        be gone.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
+        <strong>Note on terminology:</strong> The term &ldquo;Sharma waiver&rdquo; is sometimes
+        used loosely in informal practice, but in the California appraisal-law literature
+        &ldquo;<em>Sharma</em> waiver&rdquo; usually refers to{' '}
+        <em>Safeco Ins. Co. v. Sharma</em> (1984) 160 Cal.App.3d 1060 &mdash; a separate doctrine
+        about parties waiving the scope-of-appraisal limits to let the panel decide
+        causation or coverage. The waiver-through-litigation-conduct doctrine discussed here
+        is governed by <em>Saint Agnes</em> and <em>Quach</em>, not <em>Safeco v. Sharma</em>.
       </p>
 
       {/* ══════════════════════════════════════════════════════════════════
@@ -923,10 +967,12 @@ export default function Content() {
         Mistake 3: Waiting Too Long to Invoke Appraisal
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Sharma waiver doctrine means that delays in invoking appraisal can cost you the right
-        entirely. Policyholders who negotiate for months, file suit, conduct discovery, and then try
-        to invoke appraisal may find that the court considers the right waived. If you believe
-        appraisal is the right mechanism, invoke it promptly &mdash; ideally before filing suit.
+        The <em>Saint Agnes</em> / <em>Quach</em> waiver framework means delays in invoking
+        appraisal can cost you the right entirely. Policyholders who negotiate for months,
+        file suit, conduct discovery, and then try to invoke appraisal may find that the court
+        considers the right waived &mdash; particularly after <em>Quach</em> eliminated the
+        prejudice requirement. If you believe appraisal is the right mechanism, invoke it
+        promptly &mdash; ideally before filing suit.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -1093,8 +1139,8 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          Evaluate whether the insurer has waived its right under Sharma based on prior litigation
-          conduct.
+          Evaluate whether the insurer has waived its right under <em>Saint Agnes</em>/<em>Quach</em>{' '}
+          based on prior litigation conduct.
         </li>
         <li>
           Consider whether appraisal is actually in your interest. If you have a strong valuation
@@ -1236,6 +1282,11 @@ export default function Content() {
         </Link>{' '}
         for the valuation component, an insurance attorney for the legal strategy, or both working
         together &mdash; make sure you understand your options before you pick a path.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
