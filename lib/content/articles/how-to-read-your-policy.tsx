@@ -411,9 +411,21 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Sets the deadline for filing a lawsuit against the insurer. California Insurance
-        Code &sect;2071 requires at least 12 months from the date of loss for fire policies.
-        Other statutes and doctrines may extend it further. Know this deadline and do not
-        let it expire.
+        Code &sect; 2071&rsquo;s standard form contains a 12-month suit-limitation
+        provision, but for <em>residential</em> property losses, California has statutorily
+        extended that period to 24 months from the inception of loss. The clock is then{' '}
+        <strong>equitably tolled (paused) during the carrier&rsquo;s active investigation and
+        adjustment of the claim</strong> &mdash; the rule from <em>Prudential-LMI Commercial
+        Insurance v. Superior Court</em> (1990) 51 Cal.3d 674. The endpoint of tolling is
+        fact-specific; California courts have looked to when the carrier&rsquo;s position
+        becomes clear and final (a formal written denial, an unequivocal repudiation, or the
+        end of the carrier&rsquo;s adjustment activity), and the precise endpoint depends on
+        the facts of the file. In practical terms, residential claims that remain in active
+        adjustment for many months or years often have an effective suit-limitation period
+        considerably later than 24 months from the inception of loss &mdash; in some cases
+        several years later. Other statutes and doctrines may also apply. Don&rsquo;t assume
+        the clock is running, and don&rsquo;t assume it is still tolled; the precise timing on
+        a specific claim is a question for counsel.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

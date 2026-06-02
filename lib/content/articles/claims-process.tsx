@@ -189,15 +189,30 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="important" title="Do Not Wait Too Long">
+      <CalloutBox variant="important" title="The Deadline Is Often Later Than You Think">
         <p>
-          Statutes of limitation apply to insurance claims. Most California homeowners policies
-          contain a one-year suit limitation clause originating from Insurance Code Section 2071,
-          which requires the policyholder to bring suit within 12 months after the inception of
-          loss. However, California law provides for equitable tolling — the limitations period
-          may be paused while the insurer is actively adjusting the claim. The interplay between
-          the contractual limitation period and equitable tolling is complex and fact-specific.
-          Consult with an insurance coverage attorney well before you approach any deadline.
+          Statutes of limitation apply to insurance claims, but the math is not as simple as it
+          appears on the face of the policy. California homeowners policies contain a
+          suit-limitation clause originating from Insurance Code &sect; 2071. The standard-form
+          12-month limit has been statutorily extended to <strong>24 months for residential
+          property losses</strong>. More importantly, that clock is <strong>equitably tolled
+          (paused) during the carrier&rsquo;s active investigation and adjustment of the
+          claim</strong>, per the California Supreme Court&rsquo;s decision in <em>Prudential-LMI
+          v. Superior Court</em> (1990) 51 Cal.3d 674.
+        </p>
+        <p>
+          The endpoint of tolling is fact-specific. California courts have looked to when the
+          carrier&rsquo;s position becomes clear and final &mdash; a formal written denial, an
+          unequivocal repudiation, or the end of the carrier&rsquo;s adjustment activity may
+          all be relevant indicators. The precise endpoint in any particular claim depends on
+          the file. The practical effect is that policyholders often have considerably longer
+          than the face of the policy suggests &mdash; in some cases several years longer than
+          the inception of loss. With long investigations or extended supplemental claims, the
+          effective deadline can stretch substantially. That said, the interplay of the
+          contractual limitation, the residential extension, and tolling is complex and
+          fact-specific. Do not let a deadline expire on assumption &mdash; consult an
+          insurance-coverage attorney to confirm where the clock actually stands on a specific
+          claim.
         </p>
       </CalloutBox>
 
