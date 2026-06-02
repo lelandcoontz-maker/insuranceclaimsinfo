@@ -8,16 +8,25 @@ export const meta = {
     'NIST\'s investigation of the 2018 Camp Fire, which destroyed over 19,000 structures, documents how wildfire actually damages buildings, evidence that insurers routinely underestimate the true cost to repair fire and smoke damage.',
 }
 
-export default function Content() {
-  return (
-    <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on the National Institute of Standards and
+          Technology&rsquo;s published research on the 2018 Camp Fire as a Licensed California
+          Public Adjuster. It is not legal advice. The application of any specific NIST finding
+          to a particular wildfire claim depends on the facts of the loss, the policy language,
+          and current California law. For legal questions, consult a licensed attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         On November 8, 2018, the Camp Fire swept through Paradise, California and became the
-        deadliest and most destructive wildfire in the state&apos;s history. It killed 86 people,
-        destroyed more than <strong>19,000 structures</strong>, and burned nearly 19,000 acres in
-        a matter of hours. The National Institute of Standards and Technology (NIST) deployed a
-        team of scientists to investigate how the fire spread, how it damaged buildings, and what
-        it revealed about wildfire behavior that the insurance industry has been slow to accept.
+        deadliest and most destructive wildfire in the state&apos;s history. It killed{' '}
+        <strong>85 people</strong>, destroyed over <strong>18,000 structures</strong>, and
+        ultimately burned 153,336 acres. The first 24 hours were extraordinarily fast-moving
+        &mdash; with high winds and long-range spotting up to 3.9 miles into the community.
+        The National Institute of Standards and Technology (NIST) deployed a team of scientists
+        to investigate how the fire spread, how it damaged buildings, and what it revealed
+        about wildfire behavior that the insurance industry has been slow to accept.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Their findings, published as NIST Technical Note 2105, are directly relevant to anyone
@@ -200,12 +209,14 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The findings discussed in this article are based on:{' '}
-        <strong>
-          &ldquo;Camp Fire Preliminary Reconnaissance&rdquo;
-        </strong>{' '}
-        (NIST Technical Note 2105, 2020) by Alexander Maranghides, William Mell, Steven Hawks,
-        Eric D. Link, Christopher U. Brown, William R. Murrill, and Erin Ashley of the National
-        Institute of Standards and Technology.
+        <strong>&ldquo;Camp Fire Preliminary Reconnaissance&rdquo;</strong> (NIST Technical
+        Note 2105, August 2020) by Alexander Maranghides, William Mell, Steven Hawks, Eric D.
+        Link, Christopher U. Brown, Cartier P. Murrill, and Erin Ashley of the National
+        Institute of Standards and Technology. A follow-on case study by the same team was
+        later published as <strong>&ldquo;A Case Study of the Camp Fire &mdash; Fire
+        Progression Timeline&rdquo;</strong> (NIST Technical Note 2135, 2021), which provides
+        a more detailed reconstruction based on interviews with 157 first responders, local
+        officials, and utilities personnel.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         NIST is a non-regulatory federal agency within the U.S. Department of Commerce. Its
@@ -219,6 +230,9 @@ export default function Content() {
         This article is for informational purposes only and does not constitute legal advice. Insurance
         policies and applicable law vary by state and by policy form. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
