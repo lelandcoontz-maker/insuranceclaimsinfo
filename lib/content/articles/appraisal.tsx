@@ -1352,6 +1352,11 @@ export default function Content() {
           a licensed Public Adjuster may be able to assist.
         </p>
       </CalloutBox>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
