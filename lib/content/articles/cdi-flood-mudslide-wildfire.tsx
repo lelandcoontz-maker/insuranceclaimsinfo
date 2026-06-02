@@ -316,6 +316,10 @@ export default function Content() {
           Request a Free Claim Review &rarr;
         </Link>
       </div>
+
+      <p className="text-sm text-gray-500 mt-8 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
