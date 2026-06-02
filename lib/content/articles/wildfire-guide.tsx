@@ -12,6 +12,34 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California wildfire-claims law and practice as a Licensed California Public
+          Adjuster. It is not legal advice. The statutory provisions discussed here are
+          current to the date of writing, but California insurance law evolves rapidly,
+          especially after major fire seasons. For legal questions about a specific wildfire
+          claim, consult a licensed California attorney. For deeper analysis of related
+          topics, see our companion articles on{' '}
+          <Link href="/resources/wildfire-mudslide-coverage" className="text-[#2E74B5] hover:underline">
+            post-wildfire mudslide coverage
+          </Link>
+          ,{' '}
+          <Link href="/resources/smoke-damage-claims" className="text-[#2E74B5] hover:underline">
+            smoke damage claims
+          </Link>
+          ,{' '}
+          <Link href="/resources/wildfire-smoke-physical-loss" className="text-[#2E74B5] hover:underline">
+            wildfire smoke and direct physical loss
+          </Link>
+          , and the{' '}
+          <Link href="/resources/cdi-smoke-damage-coverage" className="text-[#2E74B5] hover:underline">
+            CDI Bulletin 2025-7
+          </Link>{' '}
+          on smoke-damage claims handling.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         California wildfires have become larger, more frequent, and more destructive. Whether you
         were affected by the Palisades fire, the Eaton fire, or another wildfire, the insurance
