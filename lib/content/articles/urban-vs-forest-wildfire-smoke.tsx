@@ -157,7 +157,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Lab reports showing specific contaminants and their concentrations</li>
         <li>Comparison to EPA, OSHA, or other regulatory thresholds for each contaminant</li>
-        <li>IICRC S540 (Standard for the Cleaning and Restoration of HVAC Systems) requirements</li>
+        <li>IICRC S700 (Standard for Professional Restoration of Fire and Smoke Damaged Structures and Contents) requirements, which include HVAC remediation as part of fire/smoke restoration; NADCA ACR (Assessment, Cleaning, and Restoration of HVAC Systems) is the industry standard specifically for HVAC duct cleaning</li>
         <li>Published scientific literature on health effects of identified contaminants</li>
         <li>EPA guidance documents on specific contaminants (arsenic, lead, mercury, etc.)</li>
         <li>OSHA regulations for worker protection during remediation (which establish the hazard level)</li>

@@ -498,9 +498,10 @@ export default function Content() {
         exposure and identifies which materials can be restored and which must be replaced. The IICRC
         S520 Standard for Professional Mold Remediation provides similar guidance for mold-affected
         materials, distinguishing between porous and non-porous substrates and identifying conditions
-        under which cleaning is and is not an appropriate remediation method. The IICRC S540 Standard
-        for Cleaning and Decontamination of Soft Goods addresses the restorability of textiles,
-        upholstery, and other soft materials after various types of contamination.
+        under which cleaning is and is not an appropriate remediation method. The IICRC S700
+        Standard for Professional Restoration of Fire and Smoke Damaged Structures and Contents
+        addresses the restorability of materials &mdash; including textiles, upholstery, and other
+        soft goods &mdash; affected by fire and smoke contamination.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         These are not obscure academic references. They are the industry&rsquo;s own standards
