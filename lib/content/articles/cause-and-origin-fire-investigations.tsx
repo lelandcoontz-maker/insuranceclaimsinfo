@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s experience with
+          cause-and-origin fire investigations as a Licensed California Public Adjuster. It is
+          not legal advice. The development of expert challenges, the legal handling of
+          spoliation claims, the conduct of any litigation, and the analysis of statute-of-
+          limitations issues are the work of a California-licensed attorney (Insurance Code
+          &sect; 15002). For legal questions about a specific fire claim or C&amp;O dispute,
+          consult a licensed attorney experienced in insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         After a fire, one of the first things that happens &mdash; often before you have even
         processed what you have lost &mdash; is a cause and origin investigation. Someone will
@@ -662,13 +674,21 @@ export default function Content() {
         <li>
           <strong>Consult an attorney if the claim is denied or if arson is alleged.</strong> If
           the insurer denies your claim based on C&amp;O findings, or if there is any suggestion
-          of arson or fraud, you need legal counsel immediately. The statute of limitations for
-          suit under a fire policy can be as short as 12 months from the inception of the loss
-          (Insurance Code &sect; 2071), though{' '}
+          of arson or fraud, you need legal counsel immediately. Insurance Code &sect; 2071&rsquo;s
+          standard-form 12-month suit-limitation provision has been statutorily extended to
+          <strong> 24 months for residential property losses</strong>, and that clock is
+          equitably tolled (paused) during the carrier&rsquo;s active investigation and
+          adjustment of the claim under <em>Prudential-LMI Commercial Insurance v. Superior
+          Court</em> (1990) 51 Cal.3d 674 (see our{' '}
           <Link href="/resources/equitable-tolling" className="text-[#2E74B5] underline">
             equitable tolling
           </Link>{' '}
-          may apply. Do not wait.
+          guide). The endpoint of tolling is fact-specific &mdash; California courts have
+          looked to when the carrier&rsquo;s position becomes clear and final (a formal denial,
+          an unequivocal repudiation, or the end of adjustment activity). In residential claims
+          with long C&amp;O investigations, the effective suit-limitation period can run
+          considerably later than the face of the policy suggests. The specific timing is a
+          question for counsel. Do not wait.
         </li>
       </ol>
 
@@ -806,7 +826,21 @@ export default function Content() {
             California Fair Claims Settlement Practices
           </Link>
         </li>
+        <li>
+          <Link href="/resources/fire-claim-denied" className="text-[#2E74B5] underline">
+            Fire Damage Insurance Claim Denied? Here&apos;s What to Do
+          </Link>
+        </li>
+        <li>
+          <Link href="/resources/standard-fire-policy-denials-to-coverage" className="text-[#2E74B5] underline">
+            How the Standard Fire Policy Turns Denials Into Coverage
+          </Link>
+        </li>
       </ul>
+
+      <p className="text-sm text-gray-500 mt-8 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
