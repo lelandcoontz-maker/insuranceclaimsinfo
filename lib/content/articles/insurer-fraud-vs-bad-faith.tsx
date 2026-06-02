@@ -248,12 +248,20 @@ export default function Content() {
         </Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Punitive damages are not capped in California and can be many multiples of the
-        compensatory damages. Courts consider the reprehensibility of the insurer&apos;s
+        California sets no fixed dollar cap on punitive damages, but federal due process
+        does impose meaningful limits. Under <em>State Farm Mut. Auto. Ins. Co. v. Campbell</em>{' '}
+        (2003) 538 U.S. 408, 425, &ldquo;few awards exceeding a single-digit ratio between
+        punitive and compensatory damages, to a significant degree, will satisfy due
+        process.&rdquo; The California Supreme Court applied this rule in{' '}
+        <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th 1159, 1182, and in{' '}
+        <em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686, 719, held that where
+        compensatory damages are &ldquo;substantial,&rdquo; a 1:1 ratio may be the
+        constitutional maximum. Courts evaluate the reprehensibility of the insurer&apos;s
         conduct, the ratio of punitive to compensatory damages, and comparable civil
         penalties. In cases involving fraud &mdash; where the insurer deliberately lied to
         the policyholder &mdash; courts are more likely to find the conduct sufficiently
-        reprehensible to justify a substantial punitive award.
+        reprehensible to justify a punitive award at the higher end of the constitutional
+        range.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -309,12 +317,10 @@ export default function Content() {
         caused significant damage but deliberately misattributed it to flood to avoid paying.
         In several of these cases, juries agreed that the insurers did not merely make a
         judgment call on the cause of loss &mdash; they knowingly misrepresented the cause
-        of damage to avoid their contractual obligations. One Mississippi jury returned a
-        verdict of $2.5 million in compensatory damages and $12.5 million in punitive damages
-        against a major insurer after finding that the company had engaged in fraud by
-        deliberately misclassifying wind damage as flood damage. These cases demonstrate that
-        deliberately misattributing the cause of loss to avoid coverage is not just
-        unreasonable &mdash; it can be fraudulent.
+        of damage to avoid their contractual obligations. Substantial compensatory and
+        punitive awards were entered against major insurers in some of these cases. The
+        broader pattern demonstrates that deliberately misattributing the cause of loss to
+        avoid coverage is not just unreasonable &mdash; it can be fraudulent.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
