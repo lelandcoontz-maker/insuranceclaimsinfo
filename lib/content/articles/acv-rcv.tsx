@@ -43,12 +43,18 @@ export default function Content() {
         However, ACV is <strong>not</strong> the same thing as fair market value, even though the
         terms are sometimes used interchangeably. Fair market value is the price a willing buyer
         would pay a willing seller in an open market &mdash; and that number can be significantly
-        higher or lower than replacement cost minus depreciation. In California, courts apply
-        the &ldquo;broad evidence rule,&rdquo; which holds that all relevant evidence of value should
-        be considered when determining ACV, not just a mechanical depreciation formula. California
-        Insurance Code Section 2051 frames ACV as &ldquo;the amount it would cost the insured to
-        repair, rebuild, or replace the thing lost or injured less a fair and reasonable deduction for
-        physical depreciation.&rdquo; That statutory language focuses on cost to the insured, not on
+        higher or lower than replacement cost minus depreciation. In California, the framework
+        is statutory. Effective January 1, 2020, the Legislature amended Insurance Code
+        &sect; 2051(b) to require a uniform method of determining ACV for both total and partial
+        losses, for both structure and contents: <strong>ACV = replacement cost less a fair and
+        reasonable deduction for physical depreciation.</strong> This was a deliberate move away
+        from the broad-evidence / fair-market-value approach that earlier California cases such
+        as <em>Cheeks v. California Fair Plan Ass&rsquo;n</em> (1998) 61 Cal.App.4th 423 had
+        applied to total losses. The current statutory language reads: &ldquo;the amount it would
+        cost the insured to repair, rebuild, or replace the thing lost or injured less a fair and
+        reasonable deduction for physical depreciation.&rdquo; The statute also expressly
+        provides that labor is not subject to depreciation (except intrinsic labor in
+        manufactured materials). That statutory language focuses on cost to the insured, not on
         what the item might sell for on the open market.
       </p>
 

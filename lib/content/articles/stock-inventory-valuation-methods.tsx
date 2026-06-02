@@ -146,14 +146,17 @@ export default function Content() {
         the business income form, period of restoration, and documentation support it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, ACV is determined by the &ldquo;broad evidence rule,&rdquo; which considers
-        all relevant factors &mdash; not just replacement cost minus depreciation. Under{' '}
-        <em>Cheeks v. California Fair Plan Ass&rsquo;n</em> (1992) and subsequent cases, the trier
-        of fact may consider original cost, replacement cost, condition, age, market value, and any
-        other relevant evidence. For inventory claims, this means the policyholder can argue that
-        ACV should reflect current wholesale replacement cost (which may be higher than original
-        cost due to inflation or supply chain disruptions) rather than the historical acquisition
-        cost the carrier wants to use.
+        In California, ACV is now determined by statute. Effective January 1, 2020, Insurance
+        Code &sect; 2051(b) requires a uniform method &mdash; ACV equals replacement cost less a
+        fair and reasonable deduction for physical depreciation &mdash; for both total and
+        partial losses and for both structure and contents. This superseded the earlier
+        broad-evidence approach articulated in <em>Cheeks v. California Fair Plan Ass&rsquo;n</em>{' '}
+        (1998) 61 Cal.App.4th 423 (which had applied a fair-market-value / broad-evidence
+        framework to total losses). For inventory claims under &sect; 2051(b), the &ldquo;cost
+        to repair, rebuild, or replace&rdquo; is the starting point, and the policyholder can
+        argue that ACV should reflect current wholesale replacement cost (which may be higher
+        than original cost due to inflation or supply chain disruptions) rather than the
+        historical acquisition cost the carrier wants to use.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -411,10 +414,11 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A tax return is one piece of evidence, not a dispositive ceiling on value. Under
-        California&rsquo;s broad evidence rule, the trier of fact considers all relevant factors.
+        California&rsquo;s statutory ACV framework (Insurance Code &sect; 2051(b)) the measure
+        is replacement cost less physical depreciation &mdash; not historical book value.
         Purchase orders, supplier invoices, POS data, physical inventory counts, and industry
-        benchmarks for inventory turn rates are all admissible evidence of inventory value that
-        may exceed what was reported on a tax return.
+        benchmarks for inventory turn rates are all admissible evidence of current replacement
+        cost that may exceed what was reported on a tax return.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -562,11 +566,13 @@ export default function Content() {
         zero depreciation regardless of how long they have been on the shelf.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California law, remember that ACV is determined by the broad evidence rule, not
-        simply by subtracting a depreciation percentage from original cost. If the current market
-        value of your inventory exceeds what you paid for it (due to inflation, supply shortages,
-        or tariff increases), your ACV claim should reflect current market conditions, not
-        historical acquisition cost minus some arbitrary depreciation figure.
+        Under California law, remember that ACV is now defined by statute (Insurance Code
+        &sect; 2051(b)) as replacement cost less a fair and reasonable deduction for physical
+        depreciation &mdash; not as historical acquisition cost minus depreciation. If the
+        current replacement cost of your inventory exceeds what you paid for it (due to
+        inflation, supply shortages, or tariff increases), your ACV claim should reflect current
+        replacement cost, not historical acquisition cost minus some arbitrary depreciation
+        figure.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
