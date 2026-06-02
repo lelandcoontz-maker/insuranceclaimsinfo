@@ -117,10 +117,13 @@ export default function Content() {
         agricultural commodity insured under the policy, and coverage applies while the crop
         is in the field through the end of the insurance period, which for most perennial crops
         like wine grapes is tied to the harvest date specified in the Crop Provisions. California
-        wine grapes have a specific crop insurance policy &mdash; the Actual Revenue History
-        (ARH) plan for grapes, or in some cases the Actual Production History (APH) plan. The
-        crop policy covers the yield and/or revenue loss when the grapes cannot be harvested or
-        are harvested at reduced value due to a covered cause of loss.
+        wine grapes are typically insured under the <strong>Actual Production History (APH)</strong>{' '}
+        plan offered by the RMA, with Catastrophic Risk Protection (CAT) and various coverage
+        enhancements (Yield Adjustment, Yield Cup, Supplemental Coverage Option, and others)
+        available depending on the county. ARH-style revenue plans are used for some specialty
+        crops, but APH is the standard yield-loss plan for California wine grapes. The crop
+        policy covers the yield loss when the grapes cannot be harvested or are harvested at
+        reduced value due to a covered cause of loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Smoke taint on unharvested grapes is a crop insurance claim. The policyholder reports
@@ -266,10 +269,16 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The &ldquo;direct physical loss&rdquo; trigger creates a coverage fight. Is chemical
         contamination of grapes a &ldquo;direct physical loss&rdquo;? The grapes physically
-        exist but are economically worthless. Courts have gone both ways on similar
-        contamination questions in other industries. For smoke taint specifically, the argument
-        is stronger because the volatile phenols represent a measurable physical change in the
-        chemical composition of the grape &mdash; not merely an economic loss.
+        exist but are economically worthless. In California, the controlling authority on
+        what counts as &ldquo;direct physical loss or damage&rdquo; is{' '}
+        <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em>, 548 P.3d 303
+        (Cal. 2024), in which the California Supreme Court held that the phrase requires a{' '}
+        <strong>distinct, demonstrable, physical alteration</strong> of covered property &mdash;
+        not merely a loss of use or economic value. For smoke taint specifically, the argument
+        for coverage is stronger than in the COVID cases the Court addressed, because the
+        volatile phenols represent a measurable change in the chemical composition of the grape
+        and a detectable alteration in the wine produced from it. Whether any given insurer or
+        court accepts that argument is fact-specific.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Reputational harm &mdash; the long-term impact on a winery&rsquo;s brand if it releases
@@ -451,6 +460,9 @@ export default function Content() {
         Smoke taint claims involve interactions between federal crop insurance, commercial
         property insurance, and specialized agricultural coverage. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

@@ -649,8 +649,8 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The UCL Has Its Own Deadline">
         <p>
-          In <em>Rosenberg-Wohl v. State Farm Fire &amp; Casualty Company</em> (2024) 15 Cal.5th
-          1238, the California Supreme Court held that the 12-month suit limitation in the
+          In <em>Rosenberg-Wohl v. State Farm Fire &amp; Casualty Company</em> (2024) 16 Cal.5th
+          520, the California Supreme Court held that the 12-month suit limitation in the
           standard fire policy applies to breach of contract and breach of the implied covenant
           of good faith and fair dealing, but does not apply to claims under the Unfair
           Competition Law (Business &amp; Professions Code § 17200), which has its own four-year
@@ -1001,7 +1001,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        <em>Rosenberg-Wohl v. State Farm Fire &amp; Casualty Co.</em> (2024)
+        <em>Rosenberg-Wohl v. State Farm Fire &amp; Casualty Co.</em> (2024) 16 Cal.5th 520
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Supreme Court held that the standard fire policy&rsquo;s 12-month suit
@@ -1039,10 +1039,10 @@ export default function Content() {
         Section 2084: Your Right to a Complete Copy of Your Policy
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance Code Section 2084 provides that after a covered loss, the insurer must provide
-        the insured with a complete copy of the policy &mdash; including all endorsements and the
-        declarations page &mdash; within 30 days, at no charge. Non-claimants are entitled to one
-        free copy per year upon request.
+        Insurance Code Section 2084 provides that after a covered loss, upon written request the
+        insurer must provide the insured with a complete copy of the policy &mdash; including all
+        endorsements and the declarations page &mdash; within 30 days of receipt of that request,
+        at no charge. Non-claimants are entitled to one free copy per year upon request.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This provision is more important than it might appear. Many policyholders do not have a
