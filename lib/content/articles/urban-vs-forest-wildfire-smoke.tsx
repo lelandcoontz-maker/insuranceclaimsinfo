@@ -12,6 +12,28 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s practical
+          experience with urban-wildfire-smoke claims as a Licensed California Public Adjuster.
+          It is not legal advice and is not a substitute for a Certified Industrial
+          Hygienist&rsquo;s technical opinion on contamination levels at a specific property.
+          For the legal framework on smoke claims, see our companion articles on{' '}
+          <Link href="/resources/smoke-damage-claims" className="text-[#2E74B5] hover:underline">
+            smoke damage insurance claims
+          </Link>
+          ,{' '}
+          <Link href="/resources/wildfire-smoke-physical-loss" className="text-[#2E74B5] hover:underline">
+            wildfire smoke and direct physical loss
+          </Link>
+          , and{' '}
+          <Link href="/resources/cdi-smoke-damage-coverage" className="text-[#2E74B5] hover:underline">
+            CDI Bulletin 2025-7
+          </Link>
+          . For legal questions about a specific claim, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         When the Palisades Fire tore through Los Angeles in January 2025, it didn&apos;t just burn trees. It burned through homes built with synthetic materials, cars filled with motor oil and brake fluid, garages stocked with paint cans and pesticides, swimming pools treated with chlorine, and structures containing decades-old asbestos, lead paint, and treated lumber. The smoke that billowed from Pacific Palisades carried something far more toxic than campfire smoke &mdash; and understanding this distinction is critical to getting a fair insurance settlement.
       </p>
@@ -100,7 +122,10 @@ export default function Content() {
         Why &ldquo;Ordinary Household Cleaning&rdquo; Doesn&apos;t Cut It
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is where the insurance fight begins. Insurance companies &mdash; particularly the California FAIR Plan and Farmers Insurance &mdash; commonly respond to smoke damage claims with some version of: &ldquo;The smoke residue can be cleaned with ordinary household cleaning methods.&rdquo;
+        This is where the insurance fight begins. Many carriers &mdash; including the California
+        FAIR Plan, against which Commissioner Lara took legal action in 2025 for denying smoke
+        damage claims &mdash; commonly respond to smoke damage claims with some version of:
+        &ldquo;The smoke residue can be cleaned with ordinary household cleaning methods.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This argument collapses under scientific scrutiny when the smoke originates from an urban wildfire. Here&apos;s why:
@@ -253,6 +278,10 @@ export default function Content() {
         <p className="text-gray-600 text-sm mb-4">A licensed Public Adjuster can review your situation and explain your options at no cost.</p>
         <Link href="/contact" className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors">Request a Free Claim Review &rarr;</Link>
       </div>
+
+      <p className="text-sm text-gray-500 mt-8 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
