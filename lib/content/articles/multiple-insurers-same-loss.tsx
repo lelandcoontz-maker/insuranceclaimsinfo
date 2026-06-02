@@ -432,11 +432,10 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; The policyholder-side law firm Anderson
-          Kill has published extensively on other insurance disputes, contribution rights,
-          and the practical implications of overlapping coverage for commercial policyholders.
-          Search for their publications on &ldquo;other insurance&rdquo; and contribution
-          disputes.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; The national
+          policyholder-side coverage bar has published extensively on other-insurance
+          disputes, contribution rights, and the practical implications of overlapping
+          coverage for commercial policyholders.
         </li>
         <li>
           <strong>Pillsbury &amp; Coleman, LLP</strong> &mdash; A California policyholder

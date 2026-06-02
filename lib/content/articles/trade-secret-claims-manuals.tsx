@@ -406,10 +406,9 @@ export default function Content() {
           bad faith litigation.
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; The policyholder-side firm Anderson
-          Kill has addressed claims manual discovery in the context of commercial
-          policyholder litigation. Search for their publications on insurance discovery
-          practices.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; Published analyses
+          from the national policyholder-side bar have addressed claims-manual discovery in
+          the context of commercial policyholder litigation.
         </li>
         <li>
           <strong>California Uniform Trade Secrets Act</strong> &mdash; Cal. Civ. Code

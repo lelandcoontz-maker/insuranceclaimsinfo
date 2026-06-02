@@ -411,12 +411,12 @@ export default function Content() {
           and equitable remedies.
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; Anderson Kill&rsquo;s policyholder-side
-          practice has written extensively on defending against carrier efforts to rewrite policy
-          terms after a loss. As the attorneys at Anderson Kill have observed, &lsquo;An insurer
-          that accepted premiums on a policy for years without correction should not be heard to
-          complain that the policy it drafted and issued contains a mistake only after a loss
-          makes that policy expensive.&rsquo;
+          <strong>Policyholder-side coverage commentary</strong> &mdash; The
+          policyholder-side coverage bar has written extensively on defending against
+          carrier efforts to rewrite policy terms after a loss. A common argument advanced
+          is that an insurer that accepted premiums on a policy for years without correction
+          should not be heard to complain that the policy it drafted and issued contains a
+          mistake only after a loss makes that policy expensive.
         </li>
         <li>
           <strong>Barger &amp; Wolen LLP</strong> &mdash; This firm has published analysis on

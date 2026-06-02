@@ -438,9 +438,9 @@ export default function Content() {
           risk&rdquo; on irmi.com.
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; The policyholder-side firm has addressed
-          builder&rsquo;s risk coverage disputes in the commercial construction context.
-          Search for their construction insurance publications.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; Published analyses
+          from the national policyholder-side bar address builder&rsquo;s-risk coverage
+          disputes in the commercial construction context.
         </li>
         <li>
           <strong>FC&amp;S / National Underwriter</strong> &mdash; The insurance industry&rsquo;s

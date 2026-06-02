@@ -469,10 +469,11 @@ export default function Content() {
           practices and fraud-based denials.
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; Anderson Kill&rsquo;s policyholder-side
-          insurance recovery practice has published analysis on the misuse of fraud
+          <strong>Policyholder-side coverage commentary</strong> &mdash; The national
+          policyholder-side coverage bar has published analyses on the misuse of fraud
           investigations as claims-handling tools, including the legal standards governing
-          the burden of proof and the bad faith implications of unsupported fraud allegations.
+          the burden of proof and the bad-faith implications of unsupported fraud
+          allegations.
         </li>
         <li>
           <strong>United Policyholders</strong> &mdash; This nonprofit consumer advocacy

@@ -453,12 +453,13 @@ export default function Content() {
           communications.
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; Anderson Kill has written on the use
-          of reserve evidence in bad faith litigation. As the attorneys at Anderson Kill have
-          noted, &lsquo;The claims reserve is the insurer&rsquo;s confession &mdash; its own
-          contemporaneous assessment of what the claim is worth, prepared by its own people,
-          for its own purposes. When that number vastly exceeds the settlement offer, the
-          inference of bad faith is almost inescapable.&rsquo;
+          <strong>Policyholder-side coverage commentary</strong> &mdash; The
+          policyholder-side coverage bar has written extensively on the use of reserve
+          evidence in bad-faith litigation. The argument frequently advanced is that the
+          claims reserve is the insurer&rsquo;s own contemporaneous assessment of what the
+          claim is worth, prepared by its own people for its own purposes &mdash; so when
+          that number vastly exceeds the settlement offer, the inference of bad faith is
+          difficult to escape.
         </li>
         <li>
           <strong><em>Colonial Life &amp; Accident Insurance Co. v. Superior Court</em></strong>{' '}

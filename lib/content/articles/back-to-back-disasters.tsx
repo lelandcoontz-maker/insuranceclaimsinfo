@@ -364,7 +364,7 @@ export default function Content() {
           <strong>California Department of Insurance</strong> &mdash; CDI bulletins and emergency regulations issued after declared disasters address carrier obligations in overlapping claim scenarios. The post-Thomas Fire guidance on mudslide and debris flow coverage is particularly relevant.
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; A national policyholder-side insurance recovery firm that has published analysis on the concurrent causation doctrine, multiple-occurrence issues, and the coverage challenges that arise when sequential catastrophic events affect the same property.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; National policyholder-side coverage practitioners have published analysis on the concurrent causation doctrine, multiple-occurrence issues, and the coverage challenges that arise when sequential catastrophic events affect the same property.
         </li>
       </ul>
 

@@ -361,10 +361,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, the duty of an insurance broker is well established. A broker who
         fails to procure the coverage requested by the client, or who fails to advise the
-        client of foreseeable coverage deficiencies, may be liable for negligence. Firms such
-        as Anderson Kill and Pillsbury Winthrop Shaw Pittman, both of which maintain
-        significant policyholder-side practices, have written extensively about the
-        obligations of agents and brokers in the coverage placement process.
+        client of foreseeable coverage deficiencies, may be liable for negligence. The
+        policyholder-side coverage bar has written extensively about the obligations of
+        agents and brokers in the coverage-placement process.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Policyholders who discover they were underinsured after a loss should review the
@@ -480,10 +479,10 @@ export default function Content() {
           for their blog at propertyinsurancecoveragelaw.com.
         </li>
         <li>
-          <strong>Anderson Kill, P.C.</strong> &mdash; A policyholder-side firm that has
-          published analysis of broker and agent liability for coverage placement failures,
-          including underinsurance attributable to inadequate replacement cost estimating.
-          Search for Anderson Kill publications on broker liability.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; Published
+          analyses from the national policyholder-side bar address broker and agent
+          liability for coverage-placement failures, including underinsurance attributable
+          to inadequate replacement-cost estimating.
         </li>
         <li>
           <strong>California Department of Insurance</strong> &mdash; The CDI has issued

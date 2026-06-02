@@ -466,10 +466,10 @@ export default function Content() {
           law coverage.
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; The policyholder-side firm has
-          addressed ordinance or law coverage in the context of commercial property claims,
-          including the interaction of building codes and environmental regulations. Search
-          for their construction and insurance publications.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; Published
+          analyses from the national policyholder-side bar address ordinance-or-law
+          coverage in the context of commercial property claims, including the interaction
+          of building codes and environmental regulations.
         </li>
         <li>
           <strong>Merlin Law Group</strong> &mdash; Policyholder attorneys who have written

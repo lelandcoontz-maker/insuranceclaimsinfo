@@ -119,12 +119,12 @@ export default function Content() {
         <em>&ldquo;[W]e cannot and do not decide whether the COVID-19 virus can ever constitute
         direct physical loss or damage to property.&rdquo;</em> The opinion is therefore a
         holding that <em>these particular allegations</em> failed to plead physical alteration,
-        not a categorical rule that contamination cannot satisfy the standard. Attorneys at
-        Hunton Andrews Kurth and Anderson Kill have both analyzed this distinction extensively,
-        noting that <em>Another Planet</em> preserved the contamination-based theory of physical
-        loss while rejecting the government-order-only theory. Opposing counsel will sometimes
-        invoke the court&rsquo;s reservation against COVID virus claims as if it sweeps more
-        broadly; it does not.
+        not a categorical rule that contamination cannot satisfy the standard. Policyholder-side
+        coverage commentary has consistently emphasized this distinction, noting that{' '}
+        <em>Another Planet</em> preserved the contamination-based theory of physical loss while
+        rejecting the government-order-only theory. Opposing counsel will sometimes invoke the
+        court&rsquo;s reservation against COVID virus claims as if it sweeps more broadly; it
+        does not.
       </p>
 
       <CalloutBox variant="legal" title="Key Legal Distinction">
@@ -529,18 +529,12 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Hunton Andrews Kurth LLP</strong> &mdash; The firm&rsquo;s insurance recovery
-          practice has published extensive analysis of the &ldquo;direct physical loss&rdquo;
-          debate following COVID and its implications for contamination-based claims, including
-          wildfire smoke. Search for their coverage analysis on the <em>Another Planet</em>
-          decision and its impact on property contamination claims.
-        </li>
-        <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; Anderson Kill&rsquo;s policyholder-side
-          insurance recovery group has analyzed the split in court decisions on physical loss,
-          with particular attention to how contamination claims differ from government-order
-          claims. Their publications on the post-COVID physical loss landscape are instructive
-          for wildfire smoke claimants.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; National
+          policyholder-side coverage practitioners have extensively analyzed the &ldquo;direct
+          physical loss&rdquo; debate following COVID and its implications for
+          contamination-based claims, including wildfire smoke. The general consensus is that{' '}
+          <em>Another Planet</em> preserved the contamination-based theory of physical loss
+          while rejecting the government-order-only theory.
         </li>
         <li>
           <strong>Shernoff Bidart Echeverria LLP</strong> &mdash; As one of California&rsquo;s

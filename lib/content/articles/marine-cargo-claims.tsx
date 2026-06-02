@@ -146,9 +146,8 @@ export default function Content() {
         practice can mean missing or minimizing coverages available under the policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As Anderson Kill P.C. &mdash; a nationally recognized policyholder-side insurance law
-        firm &mdash; has documented, importers and exporters routinely fail to recover under
-        policy provisions they are entitled to, including:
+        The policyholder-side coverage bar has documented that importers and exporters
+        routinely fail to recover under policy provisions they are entitled to, including:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -541,7 +540,7 @@ export default function Content() {
         <li>California Insurance Code &sect;15007 &mdash; Definition of Public Insurance Adjuster</li>
         <li>California Insurance Code &sect;101 &mdash; Definition of Marine Insurance</li>
         <li>10 CCR &sect;2695 &mdash; California Fair Claims Settlement Practices Regulations</li>
-        <li>Anderson Kill P.C., &ldquo;Understanding Marine Cargo Insurance Policies&rdquo; (2021, updated 2025)</li>
+        <li>Policyholder-side coverage commentary &mdash; published analyses on marine cargo insurance policies</li>
         <li>Roanoke Group, &ldquo;Marine Cargo Claims and Procedures&rdquo; &mdash; industry guidance on cargo claim process and documentation</li>
         <li>Marine Surveyor Marketplace, &ldquo;Are You a Marine Surveyor or an Adjuster?&rdquo; (2023)</li>
         <li>Flexport Insurance Solutions, &ldquo;How Do Ocean Cargo Claims Processes Work?&rdquo; (2023)</li>

@@ -77,14 +77,13 @@ export default function Content() {
 
       <CalloutBox variant="important" title="The Scale of the Problem">
         <p>
-          Attorneys at Anderson Kill, one of the nation&rsquo;s leading policyholder-side
-          insurance coverage firms, have identified underground climate change as a
-          significant emerging issue for property owners and their insurers. As Anderson Kill
-          has observed in their analysis of this topic: &ldquo;The risk of subsidence and
-          foundation damage from changing subsurface conditions is not theoretical &mdash;
-          it is already manifesting in measurable structural damage to buildings across the
-          country, and the insurance industry&rsquo;s response has been to point to exclusions
-          that were never designed to address this kind of loss.&rdquo;
+          Policyholder-side coverage practitioners have identified underground climate change
+          as a significant emerging issue for property owners and their insurers. The
+          consensus in the published policyholder-side coverage commentary is that the risk
+          of subsidence and foundation damage from changing subsurface conditions is not
+          theoretical &mdash; it is already manifesting in measurable structural damage to
+          buildings, and the insurance industry&rsquo;s response has often been to point to
+          exclusions that were never designed to address this kind of loss.
         </p>
       </CalloutBox>
 
@@ -381,10 +380,10 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          Anderson Kill P.C. &mdash; analysis of underground climate change as an
-          emerging insurance coverage issue, including the application of earth movement
-          exclusions to climate-related subsidence (search for Anderson Kill&rsquo;s
-          published articles on underground climate change and insurance coverage)
+          Policyholder-side coverage commentary &mdash; published analyses by national
+          policyholder-side practitioners on underground climate change as an emerging
+          insurance coverage issue, including the application of earth-movement exclusions
+          to climate-related subsidence
         </li>
         <li>
           Alessandro Rotta Loria et al., Northwestern University &mdash; research on

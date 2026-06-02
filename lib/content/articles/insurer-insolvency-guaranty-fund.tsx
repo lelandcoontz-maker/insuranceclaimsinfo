@@ -563,9 +563,9 @@ export default function Content() {
           Information website (leginfo.legislature.ca.gov).
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; The policyholder-side law firm Anderson
-          Kill has published analyses of guaranty fund limitations and their implications for
-          policyholders. Search for their publications on insurer insolvency and guaranty funds.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; The national
+          policyholder-side coverage bar has published analyses of guaranty-fund limitations
+          and their implications for policyholders.
         </li>
         <li>
           <strong>A.M. Best Company</strong> &mdash; Financial strength ratings and insurer
