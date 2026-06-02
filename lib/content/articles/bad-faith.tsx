@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California insurance bad-faith law by a
+          Licensed California Public Adjuster. It is not legal advice. Bad-faith litigation
+          involves complex interactions between contract, tort, and statutory regimes, and the
+          analysis depends on the specific facts of a claim and the policy language. For legal
+          questions about whether to pursue a bad-faith claim, consult a licensed California
+          attorney experienced in insurance coverage and bad-faith litigation.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Implied Covenant of Good Faith and Fair Dealing
       </h2>
@@ -578,6 +589,11 @@ export default function Content() {
         the claim. If a bad-faith dispute later emerges, that contemporaneous record is often
         what an attorney would build a legal case around. The PA&rsquo;s role is the
         adjusting; the attorney&rsquo;s role is the legal claim.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
