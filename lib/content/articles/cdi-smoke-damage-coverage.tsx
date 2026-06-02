@@ -195,6 +195,35 @@ export default function Content() {
         complaint on file gives them a reason to look at your carrier&apos;s practices.
       </p>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Regulatory and Legislative Developments
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Bulletin 2025-7 is part of a broader California response to smoke-damage claims
+        handling failures after the January 2025 Los Angeles wildfires. Two related
+        developments to be aware of:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>CDI Smoke Claims and Remediation Task Force.</strong> Commissioner Lara
+          convened this nine-month task force in May 2025 &mdash; comprising public-health
+          experts, fire-safety experts, industrial hygienists, consumer advocates, and
+          industry representatives &mdash; to develop science-based statewide standards for
+          smoke-damage inspection, testing, and remediation. The task force released its
+          report in March 2026.
+        </li>
+        <li>
+          <strong>AB 1795 &mdash; The Smoke Damage Recovery Act</strong> (Asm. Mike Gipson,
+          backed by Commissioner Lara). This proposed legislation would create the
+          nation&rsquo;s first statewide framework for smoke-damage claims, including a
+          30-day inspection deadline, insurer responsibility for the cost of California EPA-
+          guided sampling and testing, ALE continuation until the property has been cleared,
+          and uniform timelines for claim payments. As of mid-2026 the bill remains in the
+          legislative process and has not been enacted; confirm current status before
+          relying on its provisions.
+        </li>
+      </ul>
+
       <CalloutBox variant="tip" title="Key Takeaways">
         <ul className="list-disc pl-4 space-y-1">
           <li>Smoke damage is coverable — carriers cannot deny it as a blanket rule.</li>
@@ -209,6 +238,16 @@ export default function Content() {
         Related Resources
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <Link href="/resources/smoke-damage-claims" className="text-[#2E74B5] hover:underline">
+            Smoke Damage Insurance Claims in California (umbrella article)
+          </Link>
+        </li>
+        <li>
+          <Link href="/resources/wildfire-smoke-physical-loss" className="text-[#2E74B5] hover:underline">
+            Wildfire Smoke and &ldquo;Direct Physical Loss&rdquo;: The Coverage Debate
+          </Link>
+        </li>
         <li>
           <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] hover:underline">
             The Insurer&apos;s Duty to Investigate
