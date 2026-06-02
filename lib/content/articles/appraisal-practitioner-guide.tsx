@@ -12,6 +12,19 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is a Licensed California Public Adjuster&rsquo;s practitioner-level
+          commentary on California insurance appraisal &mdash; statutory framework, case law,
+          tactical considerations, and post-award remedies. It is not legal advice. The
+          application of any case, statute, or strategy to a specific claim depends on the facts,
+          the policy language, and current California law. For legal questions on a specific
+          appraisal &mdash; including umpire challenges, scope objections, or post-award
+          petitions to vacate &mdash; consult a licensed California attorney experienced in
+          insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance{' '}
         <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
