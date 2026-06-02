@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is plain-language commentary on California insurance bad-faith law by a
+          Licensed California Public Adjuster. It is not legal advice. Whether the facts of a
+          specific claim support a bad-faith action &mdash; and what damages may be recoverable
+          &mdash; is a question for a licensed California attorney. If the conduct described in
+          this article matches what you are experiencing on a claim, document everything and
+          consult counsel.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         You paid your premiums. You filed a claim. And now your insurer is stalling, lowballing, or
         denying without explanation. Something feels wrong — but is it just frustrating, or is it
@@ -255,6 +266,9 @@ export default function Content() {
         carrier&apos;s conduct and assist with claims handling; the attorney&apos;s role is the
         legal claim. Insurance policies and applicable law vary by state and by policy form;
         consult with a licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
