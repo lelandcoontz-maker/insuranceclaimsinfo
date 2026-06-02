@@ -1063,6 +1063,72 @@ export default function Content() {
         </li>
       </ul>
 
+      {/* ── Related Articles on This Site ──────────────────────────── */}
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Related Articles on This Site
+      </h2>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-8">
+        <li>
+          <Link
+            href="/resources/standard-fire-policy-insurance-code-2070"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            The California Standard Fire Policy and Insurance Code &sect;&sect; 2070&ndash;2071
+          </Link>{' '}
+          &mdash; California-specific framework, with deeper analysis of the statutory floor
+        </li>
+        <li>
+          <Link
+            href="/resources/smoke-damage-claims"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            Smoke Damage Insurance Claims in California
+          </Link>{' '}
+          &mdash; Coverage law, testing requirements, CDI Bulletin 2025-7, and the Smoke
+          Damage Recovery Act
+        </li>
+        <li>
+          <Link
+            href="/resources/wildfire-smoke-physical-loss"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            Wildfire Smoke and &ldquo;Direct Physical Loss&rdquo;
+          </Link>{' '}
+          &mdash; Another Planet, Gharibian, Bottega &mdash; the modern physical-loss
+          framework
+        </li>
+        <li>
+          <Link
+            href="/resources/cdi-smoke-damage-coverage"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            CDI Bulletin 2025-7 and Your Rights
+          </Link>{' '}
+          &mdash; Full text of the CDI bulletin with practical guidance
+        </li>
+        <li>
+          <Link
+            href="/resources/california-fair-plan"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            The California FAIR Plan
+          </Link>{' '}
+          &mdash; Background on California&rsquo;s insurer of last resort, including the
+          Aliff context
+        </li>
+        <li>
+          <Link
+            href="/resources/appraisal"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            The Insurance Appraisal Process
+          </Link>{' '}
+          &mdash; How appraisal works, including Standard Fire Policy floor on appraisal
+          procedure (relevant to <em>Hart v. State Farm</em> discussed above)
+        </li>
+      </ul>
+
       {/* ── Additional Resources ───────────────────────────────────── */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -1125,6 +1191,10 @@ export default function Content() {
           <strong>United Policyholders</strong> &mdash; Consumer-advocacy resources on fire claims and California coverage rights (uphelp.org).
         </li>
       </ul>
+
+      <p className="text-sm text-gray-500 mt-8 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
