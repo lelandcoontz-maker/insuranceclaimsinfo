@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California&rsquo;s unsettled law
+          governing whether invoking appraisal tolls the one-year suit limitation, as a
+          Licensed California Public Adjuster. It is not legal advice. Limitations-period
+          questions can be irreversibly costly if missed. If your deadline is approaching,
+          consult a licensed California attorney immediately &mdash; do not rely on this
+          article or any equitable tolling argument as your only protection.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Problem: A Ticking Clock and a Slow Process
       </h2>
@@ -358,15 +369,20 @@ export default function Content() {
         <em>Brehm v. 21st Century Ins. Co.</em> (2008) 166 Cal.App.4th 1225
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Brehm</em> emphasized the <em>insurer&rsquo;s</em> implied obligation to honestly
-        assess the claim and make a reasonable effort to resolve the dispute before invoking
-        appraisal &mdash; and held that the right to demand appraisal does not relieve the
-        insurer of its duty of good faith. Some courts have drawn on <em>Brehm</em> to support
-        the idea that the insurer cannot demand good-faith appraisal participation while
-        simultaneously letting the limitations clock run out on the policyholder. If the insurer expects the policyholder to participate fully in
-        appraisal &mdash; to prepare estimates, provide access, submit documentation, and
-        cooperate with the panel &mdash; then the insurer should not be permitted to take
-        advantage of the time that process consumes.
+        <em>Brehm</em> was an underinsured-motorist arbitration case, not a property
+        appraisal case &mdash; but its reasoning carries over by analogy. The Court of
+        Appeal emphasized the <em>insurer&rsquo;s</em> implied obligation to honestly
+        assess a claim and make a reasonable effort to resolve the dispute before
+        invoking arbitration, and held that the right to demand arbitration does not
+        relieve the insurer of its duty of good faith. Policyholder-side attorneys
+        argue the same principle applies to property appraisal: the insurer cannot
+        demand good-faith appraisal participation while simultaneously letting the
+        limitations clock run out on the policyholder. If the insurer expects the
+        policyholder to participate fully in appraisal &mdash; to prepare estimates,
+        provide access, submit documentation, and cooperate with the panel &mdash; then
+        the insurer should not be permitted to take advantage of the time that process
+        consumes. Whether a court will accept that analogy on a specific record is a
+        question for an attorney.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
