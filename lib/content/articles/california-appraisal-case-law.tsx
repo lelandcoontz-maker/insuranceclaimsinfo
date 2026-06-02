@@ -986,6 +986,11 @@ export default function Content() {
           panel &mdash; a California Licensed Public Adjuster can represent your interests.
         </p>
       </CalloutBox>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
