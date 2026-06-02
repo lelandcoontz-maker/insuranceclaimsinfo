@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s practical
+          guidance on smoke remediation protocols as a Licensed California Public Adjuster. It
+          is not legal advice and is not a substitute for the opinion of a qualified
+          IICRC-certified restoration professional or a Certified Industrial Hygienist on the
+          specific protocols needed for a specific loss. For legal questions about a specific
+          smoke claim, consult a licensed attorney who specializes in insurance coverage
+          disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Smoke remediation is not a single task &mdash; it is a multi-phase process that varies
         dramatically depending on the type of fire, the materials that burned, the surfaces
@@ -347,11 +359,12 @@ export default function Content() {
         One Cleaning vs. Multiple Passes
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Carriers routinely authorize a single cleaning pass when the IICRC S500/S520
-        standards and basic remediation science call for multiple passes. The first pass
-        removes the bulk of surface contamination. The second and third passes address
-        residual contamination that was driven deeper into surfaces by the first cleaning,
-        or that was simply missed. Many smoke-affected homes require three or more cleaning
+        Carriers routinely authorize a single cleaning pass when the ANSI/IICRC S700 Standard
+        for Professional Restoration of Fire and Smoke Damaged Structures and Contents
+        contemplates iterative cleaning based on residue type and surface response. The first
+        pass removes the bulk of surface contamination. The second and third passes address
+        residual contamination that was driven deeper into surfaces by the first cleaning, or
+        that was simply missed. Many smoke-affected homes require three or more cleaning
         passes before surfaces test clean. When the carrier authorizes one pass and calls it
         done, the homeowner is left with a home that still has elevated contamination levels.
       </p>
@@ -437,6 +450,24 @@ export default function Content() {
             Smoke Damage Insurance Claims
           </Link>{' '}
           &mdash; Coverage law, testing requirements, and the Smoke Damage Recovery Act
+        </li>
+        <li>
+          <Link
+            href="/resources/wildfire-smoke-physical-loss"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            Wildfire Smoke and &ldquo;Direct Physical Loss&rdquo;
+          </Link>{' '}
+          &mdash; The Another Planet / Gharibian / Bottega framework for smoke coverage
+        </li>
+        <li>
+          <Link
+            href="/resources/cdi-smoke-damage-coverage"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            CDI Bulletin 2025-7 and Your Rights
+          </Link>{' '}
+          &mdash; The regulatory anchor for smoke-damage claims handling
         </li>
         <li>
           <Link
