@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s practical
+          guidance on the first hours and weeks of a fire-claim response as a Licensed
+          California Public Adjuster. It is not legal advice. Every claim involves unique
+          facts, policy language, and circumstances. For legal questions about a specific
+          fire claim, consult a licensed California attorney who specializes in insurance
+          coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your home has been damaged by fire. You may be standing outside watching firefighters work.
         You may be in a hotel room in shock. Wherever you are right now, this guide will walk you
@@ -23,13 +34,16 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="You Are Entitled to Living Expenses Immediately">
         <p>
-          Your policy includes Additional Living Expenses (ALE) coverage — also called Coverage D or
-          &ldquo;Loss of Use.&rdquo; If your home is uninhabitable, the insurer must pay your
-          reasonable increased living expenses <strong>now</strong>, while the claim is being
-          investigated. You do not have to wait for the claim to be &ldquo;approved.&rdquo; ALE is
-          triggered by the loss of use, not by a final coverage determination. If the insurer refuses
-          to advance ALE while investigating, that is a violation of California&rsquo;s Fair Claims
-          Settlement Practices (10 CCR &sect; 2695.9).
+          Your policy includes Additional Living Expenses (ALE) coverage &mdash; also called
+          Coverage D or &ldquo;Loss of Use.&rdquo; If your home is uninhabitable, the insurer
+          must pay reasonable increased living expenses <strong>now</strong>, while the claim
+          is being investigated. ALE is triggered by the loss of use, not by a final coverage
+          determination. Under 10 CCR &sect; 2695.7(h), insurers must make interim payments for
+          undisputed portions of a claim while investigating disputed portions. Additionally,
+          California Insurance Code &sect; 2051.5(c) provides that on request, an insurer
+          must render an advance payment of no less than four months of living expenses after
+          a total loss. If the insurer refuses to advance ALE while investigating, that may
+          violate the Fair Claims Settlement Practices Regulations and the Insurance Code.
         </p>
       </CalloutBox>
 
@@ -271,12 +285,16 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         Fire claims are large, complex, and long. The insurer has a team of adjusters, engineers,
         and consultants working on your file. You deserve representation too. A public adjuster
-        works exclusively for you — they prepare the claim, negotiate with the insurer, and ensure
-        every covered dollar is recovered. For a{' '}
+        works exclusively for you &mdash; they prepare the claim, negotiate with the insurer,
+        and ensure every covered dollar is recovered. For a{' '}
         <Link href="/resources/fire-claim-denied" className="text-[#2E74B5] hover:underline">fire claim</Link>,
-        professional help often pays for itself many times over. If you suspect bad faith — unreasonable
-        delays, lowball offers, or improper denials — consult an insurance coverage attorney as well.
-        You do not have to navigate this alone.
+        professional help often pays for itself many times over. If you suspect bad faith
+        &mdash; unreasonable delays, lowball offers, or improper denials &mdash; consult an
+        insurance coverage attorney as well. You do not have to navigate this alone.
+      </p>
+
+      <p className="text-sm text-gray-500 mt-8 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
