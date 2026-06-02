@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s practical
+          experience handling fire-claim denials as a Licensed California Public Adjuster. It
+          is not legal advice. Fire-claim denials raise complex legal questions about coverage,
+          causation, exclusions, and statutory limitations periods that depend on the specific
+          facts of the loss and the actual policy language. For legal questions about a
+          denied fire claim, consult a licensed California attorney experienced in insurance
+          coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         You have lost your home or suffered major fire damage, and now the insurance company is
         denying your claim — or offering a fraction of what it will actually cost to rebuild. This
@@ -22,20 +34,28 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Time Is Critical">
         <p>
-          Under the California standard fire policy (Insurance Code Section 2071), a suit must be
-          brought within <strong>12 months from the &ldquo;inception of the loss&rdquo;</strong>
-          &mdash; not from the date of denial. However, the actual limitation language in your
-          policy may differ from the statutory default, so it is important to read your specific
-          policy. California&rsquo;s{' '}
-          <Link href="/resources/equitable-tolling" className="underline font-semibold">equitable tolling</Link>{' '}
-          doctrine means the limitations period may be tolled (paused) while the insurer is actively
-          adjusting the claim. Some policies explain equitable tolling; others do not &mdash; but the
-          doctrine applies regardless of whether the policy mentions it. The practical effect is that
-          the one-year clock typically does not start running until the insurer has finished its
-          investigation and made a final coverage determination, but this is a fact-specific legal
-          analysis. Because the deadline involves complex legal questions about when the clock starts,
-          when it may be tolled, and what your specific policy says, consult an attorney promptly to
-          understand your deadline. Do not sit on a denial &mdash; act immediately.
+          Under the California standard fire policy (Insurance Code &sect; 2071), the
+          baseline suit-limitation period is 12 months from the inception of the loss, but
+          for <strong>residential property losses California has statutorily extended that
+          period to 24 months</strong>. The clock is then equitably tolled (paused) during
+          the carrier&rsquo;s active investigation and adjustment of the claim, per the
+          California Supreme Court&rsquo;s decision in{' '}
+          <em>Prudential-LMI Commercial Insurance v. Superior Court</em> (1990) 51 Cal.3d 674
+          (see our{' '}
+          <Link href="/resources/equitable-tolling" className="underline font-semibold">
+            equitable tolling
+          </Link>{' '}
+          guide). The endpoint of tolling is fact-specific &mdash; California courts have
+          looked to when the carrier&rsquo;s position becomes clear and final (a formal
+          denial, an unequivocal repudiation, or the end of adjustment activity), and the
+          precise endpoint in any particular claim depends on the file. The practical effect
+          is that residential claims in active adjustment for many months or years often have
+          an effective deadline considerably later than 24 months from inception &mdash; in
+          some cases several years later. Other statutes and doctrines may also apply.
+          Because the deadline involves complex legal questions about when the clock starts,
+          when it may be tolled, and what your specific policy says, consult an attorney
+          promptly to understand your deadline. Do not sit on a denial &mdash; act
+          immediately.
         </p>
       </CalloutBox>
 
@@ -132,9 +152,11 @@ export default function Content() {
         </li>
         <li>
           <strong>Read your policy — the actual policy, not the summary.</strong> Obtain a complete
-          copy of your policy (including all endorsements and amendments). The insurer is required
-          to provide this within 15 days of your request. Compare the denial reason to the actual
-          policy language.
+          copy of your policy (including all endorsements and amendments). California Insurance
+          Code &sect; 2084 requires the insurer to provide a complete copy of the policy free of
+          charge within 30 days of a request. (After a declared disaster, the request typically
+          comes up because the insured&rsquo;s copy was destroyed.) Compare the denial reason to
+          the actual policy language.
         </li>
         <li>
           <strong>Document everything.</strong> Keep a log of every communication — dates, times,
