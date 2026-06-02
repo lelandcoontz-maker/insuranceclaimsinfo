@@ -12,26 +12,35 @@ export const meta = {
 export default function Content() {
   return (
     <>
-      <CalloutBox variant="legal" title="Important Notice">
+      <CalloutBox variant="legal" title="Important Notice: Author&rsquo;s Personal Observations and Opinions">
         <p>
-          This article is provided for general educational purposes only and does not constitute
-          legal advice. Insurance policies, regulations, and case law can vary significantly based
-          on individual circumstances. Consult a licensed attorney for advice about your specific
-          situation.
+          This article describes the author&rsquo;s personal observations and opinions formed
+          over years of handling property-insurance claims as a Licensed California Public
+          Adjuster. It is offered as commentary and educational guidance, not as factual
+          allegations against any specific insurance company. Where the article references how
+          a particular carrier &ldquo;tends to&rdquo; behave, that phrasing reflects the
+          author&rsquo;s experience &mdash; not a universal claim about every adjuster, every
+          file, or every interaction with that carrier. Every claim is fact-specific, and
+          individual experiences with any carrier may differ substantially from the patterns
+          described here. This article is not legal advice. Consult a licensed attorney about
+          a specific claim.
         </p>
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not all insurance companies are created equal. After handling hundreds of property
-        insurance claims across every major carrier in California, I&rsquo;ve seen firsthand
-        how each company operates &mdash; their tendencies, their tactics, and the specific
-        games they play when it comes time to pay a claim.
+        Not all insurance companies are created equal. After handling property-insurance claims
+        across major California carriers for many years, the author has formed impressions
+        about how different companies tend to operate &mdash; the patterns that recur, the
+        approaches that adjusters in different organizations tend to take, and the friction
+        points that come up repeatedly with each one.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This guide profiles the major homeowners insurance carriers and what you need to know
-        about how they handle claims. Knowledge is leverage, and knowing what to expect from
-        your carrier can make the difference between a fair settlement and getting shortchanged.
+        This article shares those impressions for educational purposes. It is not a research
+        study, an empirical analysis, or a factual investigation of any specific carrier. It
+        reflects one practitioner&rsquo;s experience. Readers should treat it as a starting
+        point for understanding the dynamics of property-claim negotiation, not as a
+        comprehensive or definitive account of any company&rsquo;s practices.
       </p>
 
       {/* ── State Farm ───────────────────────────────────────────── */}
@@ -53,27 +62,31 @@ export default function Content() {
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>Preferred vendor pressure.</strong> State Farm is notorious for steering
-          policyholders toward their &ldquo;preferred&rdquo; contractors. What most homeowners
-          don&rsquo;t realize is that these preferred vendors often have financial relationships
-          with the adjuster or the office. In some cases, adjusters receive direct financial
-          incentives &mdash; cash payments or referral fees &mdash; for directing work to certain
-          contractors. When a homeowner chooses their own contractor and the claim gets denied or
-          underpaid, the relationship between the adjuster and the preferred vendor is often the
-          real reason.
+          <strong>Preferred-vendor pressure.</strong> In the author&rsquo;s experience, State
+          Farm frequently steers policyholders toward their &ldquo;preferred&rdquo; contractors.
+          California law gives every policyholder the right to choose their own contractor; the
+          preferred-vendor framework can create friction when a homeowner exercises that right.
+          (For the broader dynamic and the inherent conflicts that arise between carriers and
+          their preferred-vendor networks, see our article on{' '}
+          <Link href="/resources/preferred-contractor-conflict-of-interest" className="text-[#2E74B5] hover:underline">
+            preferred-contractor conflicts of interest
+          </Link>
+          .)
         </li>
         <li>
-          <strong>Lowball first offers.</strong> State Farm&rsquo;s initial estimates tend to be
-          on the lower end. They know most homeowners don&rsquo;t understand Xactimate pricing,
-          and they rely on that knowledge gap.
+          <strong>Conservative first offers.</strong> In the author&rsquo;s practice, State
+          Farm&rsquo;s initial estimates often come in at the conservative end of the range.
+          Most homeowners are unfamiliar with Xactimate line-item pricing, which can leave
+          uninformed policyholders accepting offers without comparing them against a thorough
+          independent estimate.
         </li>
         <li>
           <strong>EUO (Examination Under Oath) requests on larger claims.</strong> On claims that
-          reach a certain dollar threshold, State Farm will often require an EUO. They use outside
-          defense counsel who sometimes confuse the process &mdash; calling it a &ldquo;recorded
-          statement&rdquo; when it&rsquo;s actually a formal legal proceeding under the insurance
-          code. Know the difference: a recorded statement is informal; an EUO is a sworn
-          proceeding under California Insurance Code Section 2071.1.
+          reach a certain dollar threshold, State Farm will often require an EUO. Outside
+          defense counsel may invite the insured to a &ldquo;recorded statement&rdquo; when
+          what is actually being scheduled is a formal EUO under California Insurance Code
+          &sect; 2071.1. Know the difference: a recorded statement is informal; an EUO is a
+          sworn proceeding with statutory consequences for refusal or material misstatement.
         </li>
       </ul>
 
@@ -113,10 +126,15 @@ export default function Content() {
           being made by someone who has never seen your home.
         </li>
         <li>
-          <strong>Third-party engineer reports.</strong> AAA frequently hires outside engineers
-          to inspect properties, particularly for water damage and roof claims. These engineers
-          often produce reports that minimize the scope of damage. The key issue: these engineers
-          are hired and paid by the insurance company, creating an inherent bias.
+          <strong>Third-party engineer reports.</strong> AAA frequently retains outside
+          engineering firms to inspect properties, particularly on water-damage and roof claims.
+          When engineering reports are commissioned and paid for by the insurer rather than by
+          a neutral, the inherent structural conflict is well-documented in the property-claim
+          literature and is one a policyholder should be aware of (see our article on{' '}
+          <Link href="/resources/engineering-reports-vs-coverage" className="text-[#2E74B5] hover:underline">
+            engineering reports vs. coverage
+          </Link>
+          ). An independent engineer&rsquo;s report often produces a different conclusion.
         </li>
         <li>
           <strong>Slow-walking supplements.</strong> When additional damage is discovered after
@@ -285,7 +303,7 @@ export default function Content() {
 
       {/* ── Chubb ────────────────────────────────────────────────── */}
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">Chubb (now ACE)</h2>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">Chubb (post-ACE merger)</h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Market position:</strong> The premium &ldquo;high-end&rdquo; carrier, insuring
@@ -293,9 +311,11 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>What to expect:</strong> Chubb&rsquo;s reputation is built on being the Cadillac
-        of insurance companies &mdash; they charge premium prices and promise premium service. In
-        practice, the reality has shifted since ACE acquired Chubb.
+        <strong>What to expect:</strong> Chubb&rsquo;s reputation was built on being the
+        Cadillac of insurance companies &mdash; charging premium prices and promising premium
+        service. (Background: ACE Limited acquired the original Chubb Corporation in 2016 and
+        adopted the Chubb name; the combined entity is Chubb Limited.) Practitioner reports of
+        post-merger claims handling are mixed.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">Common Tactics</h3>
@@ -433,10 +453,10 @@ export default function Content() {
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>Attorney-driven claims handling.</strong> Mercury tends to involve their legal
-          department early and often. On disputed claims, you may find yourself dealing with
-          defense attorneys who are billing hourly &mdash; they&rsquo;re in it for the fees,
-          not for efficient resolution. This creates an incentive to drag claims out.
+          <strong>Attorney-driven claims handling.</strong> Mercury tends to involve outside
+          coverage counsel relatively early in disputed claims. The practical effect for the
+          policyholder is that what might otherwise be an adjuster-level conversation becomes
+          a lawyer-to-lawyer process, which tends to be slower and more procedurally formal.
         </li>
         <li>
           <strong>Aggressive depreciation.</strong> Mercury applies heavy depreciation on
