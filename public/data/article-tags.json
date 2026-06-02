@@ -520,12 +520,12 @@
   },
   "broad-evidence-rule-acv": {
     "audience": [
-      "attorney"
+      "mid-claim"
     ],
     "claimType": [
-      "fire"
+      "contents"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "broker-agent-liability": {
@@ -3254,6 +3254,8 @@
       "mid-claim"
     ],
     "claimType": [
+      "fire",
+      "water",
       "mold"
     ],
     "contentType": "reference",
@@ -5291,6 +5293,17 @@
     ],
     "contentType": "guide",
     "jurisdiction": "california"
+  },
+  "water-damage-seepage-exclusion": {
+    "audience": [
+      "mid-claim"
+    ],
+    "claimType": [
+      "water"
+    ],
+    "contentType": "reference",
+    "jurisdiction": "california",
+    "subcategory": "water-mold"
   },
   "water-leak-what-to-do": {
     "audience": [

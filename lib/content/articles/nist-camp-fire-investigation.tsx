@@ -8,6 +8,9 @@ export const meta = {
     'NIST\'s investigation of the 2018 Camp Fire, which destroyed over 19,000 structures, documents how wildfire actually damages buildings, evidence that insurers routinely underestimate the true cost to repair fire and smoke damage.',
 }
 
+export default function Content() {
+  return (
+    <>
       <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
         <p>
           This article is educational commentary on the National Institute of Standards and

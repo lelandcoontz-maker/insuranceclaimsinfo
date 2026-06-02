@@ -11,6 +11,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on the National Institute of Standards and
+          Technology&rsquo;s published research on the 2007 Witch Fire as a Licensed California
+          Public Adjuster. It is not legal advice. The application of any specific NIST finding
+          to a particular wildfire claim depends on the facts of the loss, the policy language,
+          and current California law. For legal questions, consult a licensed attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         In October 2007, the Witch Fire burned through San Diego County, destroying over 1,100
         homes. The National Institute of Standards and Technology (NIST) saw an opportunity to
@@ -21,10 +31,11 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         NIST researchers studied a single community &mdash; The Trails at Rancho Bernardo &mdash;
-        where <strong>274 homes</strong> faced the same wildfire. Of those, 74 were destroyed.
-        The other 200 survived in various states of damage. By documenting what happened to every
-        single structure, NIST produced the most detailed house-by-house wildfire damage study
-        ever conducted.
+        where <strong>274 homes</strong> faced the same wildfire. Of those homes, 245 fell
+        within the fire perimeter. 74 were completely destroyed and 16 more were partly
+        damaged. The remaining homes survived in various states of exposure. By documenting
+        what happened to every single structure, NIST produced the most detailed house-by-house
+        wildfire damage study ever conducted.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -180,31 +191,37 @@ export default function Content() {
         About This Research
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The findings discussed in this article are based on two NIST publications:{' '}
-        <strong>
-          &ldquo;A Case Study of a Community Affected by the Witch and Guejito
-          Fires&rdquo;
-        </strong>{' '}
-        (NIST Technical Note 1635, 2009) and{' '}
-        <strong>
-          &ldquo;A Case Study of a Community Affected by the Witch and Guejito Wildland
-          Fires&rdquo;
-        </strong>{' '}
-        (NIST Technical Note 1796, 2013), both by Alexander Maranghides and William Mell of
-        the National Institute of Standards and Technology.
+        The findings discussed in this article are based on two NIST publications:
       </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>&ldquo;A Case Study of a Community Affected by the Witch and Guejito
+          Fires&rdquo;</strong> (NIST Technical Note 1635, 2009) by Alexander Maranghides and
+          William E. Mell.
+        </li>
+        <li>
+          <strong>&ldquo;A Case Study of a Community Affected by the Witch and Guejito Fires:
+          Report #2 &mdash; Evaluating the Effects of Hazard Mitigation Actions on Structure
+          Ignitions&rdquo;</strong> (NIST Technical Note 1796, 2013) by Alexander Maranghides,
+          Derek McNamara, William E. Mell, Jason Trook, and Blaza Toman.
+        </li>
+      </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The original study (TN 1635) documented damage patterns across 274 homes using over
         11,000 photographs and detailed field data. The follow-up study (TN 1796) analyzed
         the effectiveness of defensive actions and mitigation efforts by exposure zone. Together,
         these reports represent the most thorough house-by-house wildfire damage analysis ever
-        published by a government agency.
+        published by a government agency. Both reports are part of NIST&rsquo;s Reduced Risk of
+        Fire Spread in Wildland-Urban Interface Communities research program.
       </p>
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice. Insurance
         policies and applicable law vary by state and by policy form. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
