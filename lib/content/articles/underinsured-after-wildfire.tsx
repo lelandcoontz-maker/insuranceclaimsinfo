@@ -12,6 +12,19 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s practical
+          experience handling underinsured wildfire claims as a Licensed California Public
+          Adjuster. It is not legal advice. Claims against agents or brokers for negligence in
+          setting coverage limits, allegations against insurers for bad-faith underinsurance,
+          and analysis of the available statutory protections after a declared disaster are
+          all legal questions that depend on the specific facts of the claim and the actual
+          policy language. For legal questions, consult a licensed California attorney
+          experienced in insurance coverage disputes.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most devastating discoveries after a wildfire is learning that your insurance
         is not enough to rebuild. Your home is gone, and the insurer tells you the policy limit
@@ -90,16 +103,16 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Extended Replacement Cost</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Many California homeowner policies include an extended (or &ldquo;enhanced&rdquo;)
-        replacement cost endorsement that pays an additional 25–50% above your Coverage A limit.
-        Check your{' '}
+        replacement cost endorsement that pays an additional 25&ndash;50% above your Coverage A
+        limit. Check your{' '}
         <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">declarations page</Link>.
         If your Coverage A limit is $500,000 and you have a 50% extended replacement cost
         endorsement, your effective dwelling coverage is $750,000. However:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>You typically must <strong>actually rebuild</strong> to access the extended amount — you cannot take a cash settlement and pocket the extended coverage</li>
-        <li>You must rebuild on the <strong>same premises</strong> (some policies) or within the same area</li>
-        <li>There may be a <strong>time limit</strong> to begin and complete rebuilding</li>
+        <li>You typically must <strong>actually rebuild</strong> to access the extended amount &mdash; you cannot take a cash settlement and pocket the extended coverage</li>
+        <li>Under California Insurance Code &sect; 2051.5(c), after a total loss, you may use replacement-cost coverage to rebuild on the same lot, build on a different lot, or purchase an already-built home elsewhere &mdash; the insurer cannot reduce your payment because you relocate. Older policy language requiring same-premises rebuilding does not control over &sect; 2051.5(c).</li>
+        <li>Under California Insurance Code &sect; 2051.5(b)(1) (as amended by AB 1800), after a state-of-emergency declaration you have <strong>at least 36 months</strong> from the date of your first ACV payment to collect the full replacement cost. Additional six-month extensions are available for good cause. (The pre-2019 minimum of 24 months has been superseded; older policy language and some adjusters still reference the obsolete figure.)</li>
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Ordinance or Law Coverage</h3>
@@ -301,6 +314,9 @@ export default function Content() {
         This article is for informational purposes only and does not constitute legal advice. Insurance
         policies and applicable law vary by state and by policy form. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
