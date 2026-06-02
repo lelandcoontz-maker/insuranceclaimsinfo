@@ -173,14 +173,29 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For years, the FAIR Plan&apos;s policy form limited smoke-damage coverage to damage that
         caused a &ldquo;permanent physical change&rdquo; that was visible to the unaided eye. On
-        that theory, the FAIR Plan routinely denied or minimized smoke claims — even when
-        independent testing confirmed real contamination — because an adjuster could not see soot
-        on a wall. In <em>Aliff v. California FAIR Plan Association</em> (2025), a California court
-        held that this restrictive language was narrower than the coverage required by{' '}
+        that theory, the FAIR Plan routinely denied or minimized smoke claims &mdash; even when
+        independent testing confirmed real contamination &mdash; because an adjuster could not see
+        soot on a wall. In <em>Aliff v. California FAIR Plan Association</em> (L.A. Super. Ct.
+        Case No. 21STCV20095, Hon. Stuart M. Rice, June 24, 2025), the Los Angeles Superior Court
+        granted in part the plaintiff&rsquo;s motion for summary adjudication, holding that the
+        restrictive language was narrower than the coverage required by{' '}
         <strong>California Insurance Code &sect; 2070</strong>, the Standard Fire Policy statute
-        that sets the floor for fire-insurance coverage in this state. An insurer can write broader
-        coverage than &sect; 2070 requires — but it cannot write narrower coverage. Following{' '}
-        <em>Aliff</em>, the FAIR Plan agreed to strike much of the restrictive smoke-damage language.
+        that sets the floor for fire-insurance coverage in this state. The court relied on the
+        California Supreme Court&rsquo;s definition of &ldquo;direct physical loss or damage&rdquo;
+        in <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 548 P.3d
+        303, which held that &ldquo;physical alteration&rdquo; &ldquo;need not be visible to the
+        naked eye.&rdquo; An insurer can write broader coverage than &sect; 2070 requires &mdash;
+        but it cannot write narrower coverage.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Important context: <em>Aliff</em> is a trial-court ruling, not a published appellate
+        decision, so it is persuasive authority rather than binding precedent on other courts.
+        After the ruling, the FAIR Plan announced it would not appeal and would update its
+        policy language; some reports indicate the Plan has since shifted its denial rationale
+        to argue that smoke damage must be a &ldquo;distinct, demonstrable and physical
+        alteration&rdquo; (which is the <em>Another Planet</em> language itself), meaning the
+        next round of disputes will focus on whether laboratory testing satisfies that
+        standard.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         What this means for FAIR Plan policyholders with smoke-damage claims:
