@@ -12,6 +12,29 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational in nature and reflects the author&rsquo;s interpretation
+          of California ash-contamination coverage law as a Licensed California Public Adjuster.
+          It is not legal advice. Contamination claims involve complex environmental science,
+          fact-specific coverage analysis, and rapidly-evolving California case law. For legal
+          questions about a specific contamination claim, consult a licensed California attorney.
+          For related deep-dive analyses, see our companion articles on the{' '}
+          <Link href="/resources/wildfire-smoke-physical-loss" className="text-[#2E74B5] hover:underline">
+            direct physical loss standard for smoke claims
+          </Link>
+          ,{' '}
+          <Link href="/resources/smoke-damage-claims" className="text-[#2E74B5] hover:underline">
+            smoke damage claims
+          </Link>
+          , and{' '}
+          <Link href="/resources/wildfire-mudslide-coverage" className="text-[#2E74B5] hover:underline">
+            post-wildfire mudslide coverage
+          </Link>{' '}
+          (which shares the same efficient-proximate-cause framework discussed below).
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         A wildfire burns through a community. Thousands of structures are destroyed. But for every
         home that burns, dozens more in surrounding areas are blanketed by windblown ash, soot,
@@ -473,21 +496,12 @@ export default function Content() {
           hazardous waste characterization guidance for wildfire ash.
         </li>
         <li>
-          <strong>Anderson Kill P.C.</strong> &mdash; Anderson Kill&rsquo;s policyholder-side
-          insurance recovery team has analyzed how environmental contamination from nearby
-          events triggers coverage under standard property policies, including the
-          intersection of fire coverage and pollution exclusions. As the attorneys at Anderson
-          Kill have observed, &lsquo;The pollution exclusion was designed to address the
-          environmental liabilities of industrial polluters, not to strip coverage from
-          homeowners whose properties were contaminated by a covered fire event.&rsquo;
-        </li>
-        <li>
-          <strong>Hunton Andrews Kurth LLP</strong> &mdash; The firm&rsquo;s insurance
-          recovery practice has published analysis on the application of the &ldquo;direct
-          physical loss&rdquo; standard to contamination claims, including how the
-          <em> Another Planet</em> decision affects claims based on environmental alteration
-          rather than structural destruction. Search for their coverage publications on
-          physical loss and contamination.
+          <strong>Policyholder-side coverage commentary</strong> &mdash; The
+          policyholder-side bar generally argues that the pollution exclusion was historically
+          designed to address industrial-polluter liabilities, not to strip coverage from
+          homeowners whose properties were contaminated by a covered fire event. Courts&rsquo;
+          reception of this argument has varied, and the precise scope depends on the policy
+          language and jurisdiction at issue.
         </li>
         <li>
           <strong>United Policyholders</strong> &mdash; This nonprofit consumer advocacy
