@@ -373,10 +373,15 @@ export default function Content() {
           contamination.
         </li>
         <li>
-          <strong>Determine the system type:</strong> Find out whether your sprinkler system is a
-          demand-type (pumped fresh water) or closed/stagnant system. Ask the building manager,
-          plumber, or fire protection contractor. This is the single most important factor in
-          determining contamination levels.
+          <strong>Determine the system type:</strong> Find out which of the three system
+          configurations applies &mdash; an NFPA 13D multipurpose residential system tied to
+          the domestic water supply (low contamination), a standard wet-pipe system tied to
+          the municipal supply through a backflow preventer (the typical commercial and
+          most-residential case &mdash; moderate to severe stagnation in the branch lines),
+          or a fully closed/isolated system not connected to a municipal supply at all
+          (worst-case stagnation, often plus antifreeze chemistry). Ask the building manager,
+          plumber, or fire-protection contractor. This is the single most important factor
+          in determining contamination levels.
         </li>
         <li>
           <strong>Hire an IICRC-certified restoration company:</strong> Make sure your restoration
@@ -501,6 +506,9 @@ export default function Content() {
         This article is for informational purposes only and does not constitute legal advice. Insurance
         policies and applicable law vary by state and by policy form. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
