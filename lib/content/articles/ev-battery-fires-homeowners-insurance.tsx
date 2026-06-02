@@ -417,6 +417,10 @@ export default function Content() {
           can prevent significant headaches later.
         </p>
       </CalloutBox>
+
+      <p className="text-sm text-gray-500 mt-8 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
