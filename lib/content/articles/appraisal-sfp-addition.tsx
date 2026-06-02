@@ -1,7 +1,8 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When the Standard Fire Policy Strips Away an Insurer&apos;s Appraisal Conditions',
+  title: 'When the Standard Fire Policy Strips Away an Insurer\'s Appraisal Conditions',
   description:
     'How the Standard Fire Policy sets a minimum standard for appraisal rights that insurers cannot undercut, with key case law from Hart v. State Farm and Haddock v. State Farm.',
   summary:
@@ -11,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on Standard Fire Policy floor doctrine and
+          its application to insurer appraisal-clause modifications, as a Licensed California
+          Public Adjuster. It is not legal advice. Whether a particular policy modification
+          is unenforceable depends on the specific policy language, the state&rsquo;s
+          codification of the SFP, and current case law. For legal questions about a
+          specific appraisal dispute, consult a licensed attorney.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         When the Standard Fire Policy Strips Away an Insurer&apos;s Appraisal Conditions
       </h2>
@@ -93,7 +105,27 @@ export default function Content() {
         <li>
           <strong>Property Insurance Coverage Law Blog (Merlin Law Group)</strong> &mdash; Merlin Law Group has published analysis of the appraisal process and the standard fire policy appraisal clause. Search the blog for &ldquo;appraisal&rdquo; and &ldquo;standard fire policy.&rdquo;
         </li>
+        <li>
+          For the California-specific framework &mdash; including the Sharma/Kacha/Lee
+          scope-of-appraisal cases and the application of the California Arbitration Code
+          (CCP &sect;&sect; 1280&ndash;1294.2) to insurance appraisals &mdash; see our companion
+          article on{' '}
+          <Link href="/resources/california-appraisal-case-law" className="text-[#2E74B5] underline">
+            California Appraisal Case Law and the Arbitration Code
+          </Link>
+          . For the broader statutory floor that the SFP creates beyond just appraisal,
+          see our article on the{' '}
+          <Link href="/resources/standard-fire-policy-insurance-code-2070" className="text-[#2E74B5] underline">
+            California Standard Fire Policy and Insurance Code 2070
+          </Link>
+          .
+        </li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

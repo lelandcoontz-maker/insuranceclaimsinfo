@@ -254,15 +254,20 @@ export default function Content() {
         value&rdquo; all along.
       </p>
 
-      <CalloutBox variant="tip" title="Appraisal Does Not Erase Bad Faith">
+      <CalloutBox variant="tip" title="Arbitration / Appraisal Does Not Erase Bad Faith">
         <p>
-          California courts have made clear that participation in appraisal does not waive
-          a policyholder&rsquo;s right to pursue bad faith claims. In <em>Brehm v. 21st
-          Century Insurance Co.</em> (2008) 166 Cal.App.4th 1225, the court held that
-          an insurer&rsquo;s bad faith in handling the claim is a separate issue from the
-          amount determined through appraisal. An insurer that unreasonably delayed,
-          underpaid, or mishandled a claim cannot retroactively cure its bad faith by
-          participating in appraisal after the damage is done.
+          California courts have made clear that participation in a contractual
+          arbitration-style proceeding does not waive a policyholder&rsquo;s right to pursue
+          bad faith claims for the insurer&rsquo;s pre-proceeding conduct. In{' '}
+          <em>Brehm v. 21st Century Insurance Co.</em> (2008) 166 Cal.App.4th 1225 (an
+          underinsured-motorist arbitration case), the Court of Appeal held that an
+          insurer&rsquo;s implied obligation to honestly assess a claim and make a
+          reasonable settlement effort exists independently of the right to demand
+          arbitration. The same principle is applied by analogy in the appraisal context:
+          an insurer that unreasonably delayed, underpaid, or mishandled a claim cannot
+          retroactively cure its bad faith by participating in appraisal after the damage
+          is done. Whether the principle applies on a specific record is a question for an
+          attorney.
         </p>
       </CalloutBox>
 
@@ -550,6 +555,9 @@ export default function Content() {
           believe your insurer is obstructing the appraisal process or acting in bad faith,
           consult a licensed California attorney who specializes in insurance coverage
           disputes.
+        </p>
+        <p className="text-sm text-gray-500 italic mt-4">
+          Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
         </p>
       </div>
     </>
