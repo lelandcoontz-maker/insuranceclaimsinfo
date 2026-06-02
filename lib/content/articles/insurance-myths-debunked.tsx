@@ -553,13 +553,16 @@ export default function Content() {
           same conclusion through case law or regulation &mdash; Arkansas, Kentucky, and
           Oklahoma among them &mdash; though the rule and its scope vary by jurisdiction. In
           many states, insurers are still permitted to depreciate labor, and the issue remains
-          actively litigated. In California, the leading appellate discussion of ACV measurement
-          is <em>Cheeks v. California Fair Plan Assn.</em> (1998) 61 Cal.App.4th 423, which
-          equated ACV with fair market value (following <em>Jefferson Ins. Co. v. Superior
-          Court</em>) and discussed several methods including the &ldquo;broad evidence
-          rule&rdquo; as alternatives. Whichever measure applies, there is no logical basis for
-          &ldquo;aging&rdquo; the cost of future labor &mdash; and in California, &sect; 2051.5
-          settles the question by statute. For a full discussion, see our article on{' '}
+          actively litigated. In California, ACV is now defined by statute: Insurance Code
+          &sect; 2051(b), as amended effective January 1, 2020, prescribes a uniform measure
+          &mdash; replacement cost less a fair and reasonable deduction for physical depreciation
+          &mdash; for both total and partial losses, structure and contents, and expressly
+          provides that labor is not subject to depreciation (except intrinsic labor in
+          manufactured materials). The statute superseded the broad-evidence / fair-market-value
+          approach earlier California cases such as <em>Cheeks v. California Fair Plan Assn.</em>{' '}
+          (1998) 61 Cal.App.4th 423 had applied. California also has &sect; 2051.5 addressing
+          replacement-cost coverage. The point: the labor-depreciation question is settled in
+          California by statute. For a full discussion, see our article on{' '}
           <Link href="/resources/labor-depreciation" className="text-blue-700 underline hover:text-blue-900">
             labor depreciation
           </Link>{' '}
