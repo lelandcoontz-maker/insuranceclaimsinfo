@@ -41,14 +41,14 @@ export default function Content() {
         Before You Start: California&rsquo;s 60% Advance Rule (SB 495)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If your total loss occurred in a state-declared disaster, California Insurance Code
-        &sect;2051.6 (as amended by SB 495) requires your insurer to advance{' '}
-        <strong>60% of your personal property coverage limit</strong> &mdash; up to $350,000
-        &mdash; without requiring you to submit a detailed inventory. You have at least{' '}
-        <strong>100 days</strong> before the insurer can require a complete itemized list. This
-        money is yours to use immediately for clothing, essentials, and furnishing temporary
-        housing. Do not let anyone tell you that you must produce an inventory before receiving
-        this advance.
+        If your total loss occurred in a state-declared state of emergency, California Insurance
+        Code <strong>&sect; 10103.7</strong> (as amended by SB 495, effective January 2026)
+        requires your insurer to advance <strong>60% of your personal property coverage
+        limit</strong> &mdash; up to $350,000 &mdash; without requiring you to submit a detailed
+        inventory. You have at least <strong>100 days</strong> before the insurer can require a
+        complete itemized list. This money is yours to use immediately for clothing, essentials,
+        and furnishing temporary housing. Do not let anyone tell you that you must produce an
+        inventory before receiving this advance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a detailed breakdown of how this law works, see our{' '}
@@ -418,6 +418,11 @@ export default function Content() {
           grace. This is hard. But every item you document is money recovered.
         </p>
       </CalloutBox>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
