@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on how California carriers use construction
+          timeline projections to limit ALE benefits, written by a Licensed California Public
+          Adjuster. It is not legal advice. Whether your carrier&rsquo;s timeline projection
+          is defensible &mdash; and whether their ALE termination violates Insurance Code
+          &sect; 2060(b)(1), &sect; 790.03(h), or the duty of good faith &mdash; depends on
+          the specific facts of your reconstruction. For legal questions about an ALE
+          timeline dispute, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         The Garcias lost their home in a wildfire. Their insurance company approved the claim within weeks and projected a nine-month reconstruction timeline. Based on that projection, the carrier authorized nine months of Additional Living Expenses &mdash; enough, they were told, to cover temporary housing until they could move back in. The Garcias signed a lease on a rental, enrolled their children in a nearby school, and waited for construction to begin.
       </p>
@@ -83,7 +95,7 @@ export default function Content() {
         <li><strong>36-Month Extension:</strong> The insurer must grant an extension of up to 12 additional months (for a total of 36 months) if the insured, acting in good faith and with reasonable diligence, encounters delays beyond the insured&apos;s control.</li>
         <li><strong>Qualifying Delays:</strong> The statute specifically identifies unavoidable construction permit delays, lack of necessary construction materials, and lack of available contractors as circumstances beyond the insured&apos;s control.</li>
         <li><strong>Additional Six-Month Extensions:</strong> Beyond the 36-month period, additional extensions of six months must be provided for good cause.</li>
-        <li>Advance Payment (CDI Bulletin 2025-2): Insurers must provide policyholders with an advance payment of no less than four months of living expenses upon request after a total loss.</li>
+        <li><strong>Advance Payment (Cal. Ins. Code &sect; 2061, added by SB 872 in 2020; see also CDI Bulletin 2025-2):</strong> Insurers must provide policyholders with an advance payment of no less than four months of living expenses upon request after a total loss related to a declared state of emergency.</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         These provisions represent the California Legislature&apos;s recognition that post-disaster reconstruction takes far longer than carriers want to acknowledge. The fact that the Legislature set a 24-month <em>minimum</em> &mdash; with extensions to 36 months and beyond &mdash; tells you everything you need to know about the adequacy of a carrier&apos;s nine-month projection.
@@ -159,9 +171,22 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Key Legal References">
         <p>
-          California Insurance Code Section 2060 (ALE duration and extensions); California Insurance Code Section 2051.5 (replacement cost timelines); California Insurance Code Section 790.03(h) (unfair claims settlement practices); 10 CCR Sections 2695.7 and 2695.9 (Fair Claims Settlement Practices Regulations); CDI Bulletin 2025-2 (Wildfire Consumer Protections); <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 9 Cal.3d 566; <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809.
+          California Insurance Code &sect; 2060(b)(1) (ALE duration and extensions);
+          California Insurance Code &sect; 2061 (4-month ALE advance after total loss
+          related to a declared emergency); California Insurance Code &sect; 2051.5(b)(1)
+          (36-month replacement cost timeline after declared emergency); California Insurance
+          Code &sect; 790.03(h) (unfair claims settlement practices); 10 CCR &sect;&sect;
+          2695.7 and 2695.9 (Fair Claims Settlement Practices Regulations); CDI Bulletin
+          2025-2 (Wildfire Consumer Protections); <em>Gruenberg v. Aetna Insurance Co.</em>{' '}
+          (1973) 9 Cal.3d 566; <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24
+          Cal.3d 809.
         </p>
       </CalloutBox>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
