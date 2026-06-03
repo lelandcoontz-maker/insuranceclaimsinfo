@@ -12,6 +12,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California ACV and Replacement Cost
+          Value rules by a Licensed California Public Adjuster. It is not legal advice.
+          California&rsquo;s ACV framework is statutory (Cal. Ins. Code &sect; 2051(b)),
+          and depreciation disputes are fact-specific. For legal questions, consult a
+          licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Two of the most important terms in your insurance policy are Actual Cash Value (ACV) and
         Replacement Cost Value (RCV). The difference between them directly determines how much money
@@ -115,13 +125,23 @@ export default function Content() {
       <CalloutBox variant="warning" title="Deadlines for Collecting Holdback">
         <p>
           Your policy includes a deadline for completing replacements and collecting the recoverable
-          depreciation. This deadline varies by policy, but in California, Insurance Code Section
-          2051.5(b) sets a statutory minimum of 12 months from the date the <em>ACV payment is
-          made</em> &mdash; not from the date of loss. This distinction matters because there can be
-          months or even years between the date of loss and the date the insurer actually issues the
-          ACV payment. If you need more time, request an extension in writing before the deadline
-          passes. Many policies allow extensions, and some provide longer periods than the statutory
-          minimum.
+          depreciation. This deadline varies by policy, but in California, Insurance Code
+          &sect; 2051.5(b)(1) sets a statutory minimum of <strong>12 months</strong> from the date
+          the <em>ACV payment is made</em> &mdash; not from the date of loss. This distinction
+          matters because there can be months or even years between the date of loss and the date
+          the insurer actually issues the ACV payment.
+        </p>
+        <p className="mt-3">
+          <strong>State-of-emergency extension:</strong> For losses related to a declared state
+          of emergency, &sect; 2051.5(b)(1) (as amended by AB 1800 in 2018) extends the minimum
+          to <strong>36 months</strong> from the first ACV payment, with additional six-month
+          extensions available for good cause. Wildfire and other declared-disaster losses
+          almost always qualify for this longer period.
+        </p>
+        <p className="mt-3">
+          If you need more time even beyond these statutory minimums, request an extension in
+          writing before the deadline passes. Many policies allow extensions, and some provide
+          longer periods than the statutory minimum.
         </p>
       </CalloutBox>
 
@@ -187,6 +207,9 @@ export default function Content() {
         This article is for informational purposes only and does not constitute legal advice. Insurance
         policies and applicable law vary by state and by policy form. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
