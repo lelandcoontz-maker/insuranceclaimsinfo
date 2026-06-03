@@ -12,6 +12,18 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California Additional Living Expenses
+          (ALE) coverage by a Licensed California Public Adjuster. It is not legal advice.
+          Specific ALE rights depend on the policy language and the facts of the loss, and
+          may be enhanced after a declared state of emergency under California Insurance
+          Code &sect; 2060(b). For legal questions about an ALE dispute &mdash; especially
+          around the duration of coverage or the &ldquo;comparable standard of living&rdquo;
+          requirement &mdash; consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your home is damaged. You cannot live there. Now what? Your homeowners policy includes
         coverage called Additional Living Expenses &mdash; ALE &mdash; that pays for the extra
@@ -167,12 +179,17 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The 24-Month Minimum After Declared Disasters">
         <p>
-          In California, after a loss caused by a declared disaster, Insurance Code Section
-          2060(b) requires insurers to provide ALE benefits for at least 24 months from the date
-          of loss. The insurer cannot cut you off earlier just because they think repairs should
-          have been completed sooner. After 24 months, additional extensions of 6 months are
-          available for good cause. This protection exists because large-scale disasters create
-          contractor shortages and permitting delays that push timelines far beyond normal.
+          In California, after a loss related to a declared state of emergency (Government
+          Code &sect; 8558), Insurance Code &sect; 2060(b)(1) requires insurers to provide
+          ALE benefits for at least <strong>24 months</strong> from the inception of the
+          loss. The insurer cannot cut you off earlier just because they think repairs
+          should have been completed sooner. The same statute requires the insurer to
+          grant an additional extension of up to <strong>12 months</strong> for good cause
+          &mdash; for a total of up to <strong>36 months</strong> &mdash; if the insured,
+          acting in good faith and with reasonable diligence, encounters delays beyond
+          their control (such as permitting delays, contractor shortages, or material
+          backlogs). This protection exists precisely because large-scale disasters create
+          exactly those kinds of delays.
         </p>
       </CalloutBox>
 
@@ -229,8 +246,14 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your ALE limit is insufficient, tell your insurer in writing that you are approaching
-        the limit and that the repair timeline requires continued coverage. In some cases,
-        particularly after declared disasters, California Insurance Code §2060(b) extends the ALE coverage period (24 months, with extensions up to 36 months for good cause) for state-of-emergency losses. The statute extends the time of ALE coverage, not the policy dollar limit.
+        the limit and that the repair timeline requires continued coverage. As noted above,
+        for state-of-emergency losses, California Insurance Code &sect; 2060(b)(1) extends
+        the ALE coverage <em>period</em> to a 24-month minimum, with an additional 12-month
+        good-cause extension available (total up to 36 months). Important nuance: the
+        statute extends the <em>time</em> over which ALE may be incurred, not the policy
+        dollar limit. If the dollar cap on Coverage D runs out before the time period does,
+        the statute does not refill the bucket &mdash; that is a question of policy terms
+        and, in extreme cases, attorney consultation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -260,6 +283,11 @@ export default function Content() {
         <Link href="/resources/how-california-claim-works" className="text-blue-700 underline hover:text-blue-900">
           California claims process guide
         </Link>.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
