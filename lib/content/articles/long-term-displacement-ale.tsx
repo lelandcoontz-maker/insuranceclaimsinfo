@@ -13,6 +13,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on long-term post-disaster displacement
+          and its insurance consequences, by a Licensed California Public Adjuster. It is
+          not legal advice. The interplay of ALE, vacancy, residence-premises, and
+          non-renewal rules is fact-specific and statute-specific. For legal questions on
+          any of these issues, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         The January 2025 Los Angeles wildfires destroyed more than 12,000 structures across
         the Palisades, Altadena, and surrounding communities. As of this writing, the vast
@@ -125,9 +135,12 @@ export default function Content() {
         California&rsquo;s 36-Month ALE Requirement for Declared Disasters
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code Section 2051.5, as amended by the 2018 legislation (AB 1800,
-        SB 894, AB 1772), establishes the framework for ALE coverage after a Governor-declared
-        state of emergency. The structure is:
+        <strong>California Insurance Code &sect; 2060(b)(1)</strong> establishes the framework
+        for ALE coverage after a Governor-declared state of emergency. (The 2018 legislation
+        &mdash; AB 1800, SB 894, AB 1772 &mdash; originally placed this rule at former
+        &sect; 2051.5(b)(2); SB 872, Chapter 261, Statutes of 2020, restructured the Insurance
+        Code and moved the same rule to its current home at &sect; 2060(b)(1). The substance
+        of the rule did not change.) The structure is:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -169,7 +182,7 @@ export default function Content() {
           notices at the 24-month mark without evaluating whether the policyholder qualifies
           for the mandatory extension. If you receive a letter stating that your ALE benefits
           will end at 24 months, do not accept it. Respond in writing, cite Insurance Code
-          Section 2051.5(b)(3), document the delays that are beyond your control (permit
+          &sect; 2060(b)(1), document the delays that are beyond your control (permit
           status, contractor timelines, debris removal schedule), and demand the 12-month
           extension. If the carrier refuses, file a complaint with the CDI and consult with
           a{' '}
@@ -530,8 +543,9 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>It extends the ALE period:</strong> Under IC &sect; 2051.5, permit delays
-          are expressly identified as a circumstance beyond the policyholder&rsquo;s control
+          <strong>It extends the ALE period:</strong> Under Cal. Ins. Code &sect; 2060(b)(1),
+          permit delays are expressly identified as a circumstance beyond the policyholder&rsquo;s
+          control
           that triggers the mandatory 12-month extension (and subsequent 6-month extensions
           for good cause). Document every permit submission date, every response from the
           building department, and every delay.
@@ -757,8 +771,9 @@ export default function Content() {
         Maximize Every Available ALE Extension
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Do not accept ALE termination without exhausting every extension available under IC
-        &sect; 2051.5. The 36-month mandatory coverage is the baseline, not the ceiling. The
+        Do not accept ALE termination without exhausting every extension available under
+        Cal. Ins. Code &sect; 2060(b)(1). The 36-month mandatory coverage is the baseline, not
+        the ceiling. The
         statute provides for additional 6-month extensions for good cause, and &ldquo;good
         cause&rdquo; includes permit delays, contractor delays, material shortages, code
         compliance requirements, and any other factor beyond the policyholder&rsquo;s control.
@@ -888,7 +903,7 @@ export default function Content() {
         Do not wait until the 24-month mark to request the 12-month extension. Begin
         documenting the basis for the extension early &mdash; ideally at the 18-month mark
         &mdash; and submit a formal written request well before the initial ALE period
-        expires. Cite Insurance Code Section 2051.5(b)(3), attach documentation of delays
+        expires. Cite Insurance Code &sect; 2060(b)(1), attach documentation of delays
         beyond your control, and request written confirmation that the extension has been
         granted. If the carrier denies or ignores the request, escalate immediately to CDI
         and to a licensed professional.
@@ -1004,9 +1019,20 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Insurance Code &sect; 2051.5:</strong> Establishes the 24-month minimum ALE
-          period, the 12-month mandatory extension, and additional 6-month extensions for
-          good cause after a declared disaster.
+          <strong>Insurance Code &sect; 2060(b)(1):</strong> Establishes the 24-month minimum
+          ALE period, the 12-month mandatory extension, and additional 6-month extensions for
+          good cause after a declared disaster. (Prior to SB 872 in 2020, this rule lived at
+          former &sect; 2051.5(b)(2); the substance is unchanged.)
+        </li>
+        <li>
+          <strong>Insurance Code &sect; 2061:</strong> Requires insurers, upon request, to
+          provide an advance payment of no less than four months of living expenses after a
+          total loss related to a declared state of emergency. Added by SB 872 (2020).
+        </li>
+        <li>
+          <strong>Insurance Code &sect; 2051.5(b)(1):</strong> Establishes the 36-month
+          replacement cost collection timeline (separate from ALE) for state-of-emergency
+          losses, with six-month extensions for good cause.
         </li>
         <li>
           <strong>Insurance Code &sect; 675.1(b):</strong> Prohibits non-renewal for one year
