@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on Additional Living Expenses (ALE) /
+          Coverage D / Loss of Use as a Licensed California Public Adjuster. It is not legal
+          advice. California-specific protections apply after a declared state of emergency
+          under Insurance Code &sect; 2060(b)(1). For legal questions about an ALE dispute
+          &mdash; especially around duration, comparable housing, or extension requests
+          &mdash; consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Coverage D — Loss of Use or Additional Living Expenses (ALE) — is one of the most
         underutilized coverages in a homeowner&apos;s policy. When a covered loss makes your
@@ -58,13 +69,20 @@ export default function Content() {
         continues for 14 months — not the 6 months the insurer estimated.
       </p>
 
-      <CalloutBox variant="legal" title="California Disaster Minimum — 24 Months">
+      <CalloutBox variant="legal" title="California Disaster Minimum — 24 Months (Plus Up to 12 More for Good Cause)">
         <p>
-          After a declared disaster in California, Insurance Code &sect;2051.5(c) guarantees
-          a minimum 24-month ALE period — even if your policy states a shorter limit. This
-          applies to wildfire, earthquake (if you have earthquake coverage), and other
-          declared disasters. The 24 months runs from the date of the disaster declaration,
-          not from when you filed your claim.
+          After a loss related to a declared state of emergency (Government Code &sect; 8558)
+          in California, <strong>Insurance Code &sect; 2060(b)(1)</strong> guarantees a
+          minimum <strong>24-month</strong> ALE period &mdash; even if your policy states a
+          shorter limit. The 24 months runs from the <em>inception of the loss</em> (typically
+          the date of damage), not from the date you filed your claim. The same statute
+          requires the insurer to grant an additional <strong>12-month extension</strong> for
+          good cause &mdash; for a total of up to <strong>36 months</strong> &mdash; if the
+          insured, acting in good faith and with reasonable diligence, encounters delays
+          beyond their control (permit backlogs, contractor unavailability, material
+          shortages). This applies to wildfire and any other declared-emergency loss covered
+          by your policy. (Note: SB 872 in 2020 moved this provision from former
+          &sect; 2051.5(b)(2) to &sect; 2060(b)(1); the rule itself did not change.)
         </p>
       </CalloutBox>
 
@@ -214,6 +232,16 @@ export default function Content() {
         <Link href="/resources/bad-faith" className="text-[#1F3964] underline font-medium">
           bad faith
         </Link>.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with
+        a licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
