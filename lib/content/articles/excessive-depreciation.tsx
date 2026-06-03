@@ -508,9 +508,14 @@ export default function Content() {
           state of the property.
         </li>
         <li>
-          <strong><em>Cheeks v. California FAIR Plan Ass&rsquo;n</em></strong> &mdash;
-          Addressed depreciation methodology and the insurer&rsquo;s obligations under
-          California law.
+          <strong><em>Cheeks v. California FAIR Plan Ass&rsquo;n</em></strong> (1998) 61
+          Cal.App.4th 423 &mdash; Historical interest only. <em>Cheeks</em> applied a
+          fair-market-value / broad-evidence approach to total losses, which the California
+          Legislature subsequently <strong>superseded</strong> by amending Insurance Code
+          &sect; 2051(b) to define ACV as replacement cost less a fair and reasonable
+          deduction for physical depreciation. The amendment (later strengthened by SB 917,
+          effective 1/1/2020) now governs depreciation methodology for both total and
+          partial losses in California.
         </li>
         <li>
           <strong><em>Shelter Mut. Ins. Co. v. Goodner</em></strong> (Arkansas) &mdash;

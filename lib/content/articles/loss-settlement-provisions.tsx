@@ -159,11 +159,28 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="Key California Cases">
+      <CalloutBox variant="tip" title="Key California Cases and Statute">
         <ul className="list-disc pl-4 space-y-1">
-          <li><em>Jefferson Ins. Co. v. Superior Court</em> — fair market value definition for ACV</li>
-          <li><em>Doan v. State Farm</em> — physical condition standard for depreciation</li>
-          <li><em>Cheeks v. California FAIR Plan</em> — depreciation methodology requirements</li>
+          <li>
+            <strong>Cal. Ins. Code &sect; 2051(b)</strong> — the controlling authority:
+            ACV is replacement cost less a fair and reasonable deduction for physical
+            depreciation (statutory, applies to total and partial losses).
+          </li>
+          <li>
+            <em>Doan v. State Farm</em> (2011) 195 Cal.App.4th 1082 — physical condition
+            standard for depreciation; insurer cannot use age-only formula.
+          </li>
+          <li>
+            <em>Jefferson Ins. Co. v. Superior Court</em> (1970) 3 Cal.3d 398 — holds that
+            ACV is a question of law for the court, not appraisers; pre-dates and is
+            consistent with the modern statutory ACV framework in &sect; 2051(b).
+          </li>
+          <li>
+            <em>Cheeks v. California FAIR Plan Ass&rsquo;n</em> (1998) 61 Cal.App.4th 423
+            — historical only. Applied a fair-market-value / broad-evidence approach that
+            the Legislature subsequently <strong>superseded</strong> by codifying ACV in
+            &sect; 2051(b).
+          </li>
         </ul>
       </CalloutBox>
 
