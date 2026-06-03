@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is tactical guidance on building a contents inventory after a loss,
+          by a Licensed California Public Adjuster. It is not legal advice. For California
+          policyholders facing a total loss in a declared state of emergency, the contents
+          advance under Insurance Code &sect; 10103.7 (60% of contents limit / up to $350,000
+          under SB 495) may be available without an itemized inventory for at least 100 days
+          &mdash; use that time to build a complete inventory at a sustainable pace.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         After a major loss, your insurance company will ask you to list every personal item that
         was damaged or destroyed. Everything. The contents of every room, every drawer, every
@@ -317,6 +328,16 @@ export default function Content() {
         thorough inventory and a rushed one can be tens of thousands of dollars. Use every
         technique in this guide. Work in sessions. Mine your digital records. Open every mental
         drawer. The time you invest here pays dollar-for-dollar in your settlement.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with
+        a licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
