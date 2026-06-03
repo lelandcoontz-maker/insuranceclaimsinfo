@@ -12,6 +12,15 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California Senate Bill 495 (effective
+          January 2026) and the 60% / $350,000 / 100-day no-inventory rule for total losses
+          in declared emergencies. It is not legal advice. For specific questions about
+          whether SB 495 applies to your claim, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         California Senate Bill 495 (SB 495) is one of the most significant policyholder protections
         enacted in recent years. Effective in 2026, it requires insurers to automatically pay 60% of
@@ -212,6 +221,9 @@ export default function Content() {
         This article is for informational purposes only and does not constitute legal advice. Insurance
         policies and applicable law vary by state and by policy form. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
