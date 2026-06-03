@@ -13,6 +13,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on blanket vs. scheduled personal property
+          coverage by a Licensed California Public Adjuster. It is not legal advice. Whether
+          a particular item should be scheduled, and how California&rsquo;s contents-advance
+          rules (Ins. Code &sect; 10103.7, amended by SB 495 effective January 2026) apply
+          to a specific claim, depends on the policy language and the facts of the loss.
+          For legal questions, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowners think of their insurance as covering two things: the house and
         everything inside it. The house is covered under Coverage A (Dwelling). Everything
@@ -350,17 +361,17 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Senate Bill 49 (the contents without inventory rule).</strong> Under
-          California Insurance Code Section 2051.5(c), as implemented through SB 49, when
-          a total loss occurs to the dwelling, the carrier must offer the policyholder the
-          option to receive a lump sum payment for personal property without requiring a
-          room-by-room inventory. This provision, which applies to policies issued or renewed
-          after January 1, 2020, was designed to reduce the documentation burden on wildfire
-          survivors. However, the lump sum amount may not equal the full Coverage C limit,
-          and policyholders should carefully evaluate whether the lump sum or a full inventory
-          would result in a higher recovery. See the{' '}
+          <strong>Senate Bill 495 (the contents-without-inventory rule).</strong> Under
+          California Insurance Code &sect; 10103.7 (added by AB 3012, effective July 2021;
+          amended by SB 495, effective January 2026), when a total loss occurs to the
+          dwelling in a declared state of emergency, the carrier must offer an advance
+          payment of at least <strong>60% of the contents coverage limit, up to $350,000</strong>
+          (under SB 495; previously 30% / $250,000 under AB 3012), without requiring a
+          room-by-room inventory for at least 100 days. The advance is not the full Coverage
+          C limit, and policyholders should pursue a complete inventory afterward to recover
+          any remaining amount. See the{' '}
           <Link href="/resources/sb495-contents-rule" className="text-[#2E74B5] underline hover:text-blue-900">
-            SB 49 contents rule article
+            SB 495 contents rule article
           </Link>{' '}
           for a detailed analysis.
         </li>
@@ -374,9 +385,12 @@ export default function Content() {
         <li>
           <strong>Replacement cost recovery timelines.</strong> California law provides
           specific timeframes for policyholders to replace items and collect recoverable
-          depreciation. Under California Insurance Code Section 2051.5, policyholders have at
-          least 180 days after the initial payment to collect the replacement cost holdback,
-          and this period may be extended. Policyholders should be aware of these{' '}
+          depreciation. Under California Insurance Code &sect; 2051.5(b), policyholders
+          have at least <strong>12 months</strong> from the date of the first ACV payment
+          to collect the replacement cost holdback in standard losses, and at least{' '}
+          <strong>36 months</strong> for losses related to a declared state of emergency
+          (with additional six-month extensions available for good cause). Policyholders
+          should be aware of these{' '}
           <Link href="/resources/recoverable-depreciation-deadline" className="text-[#2E74B5] underline hover:text-blue-900">
             depreciation recovery deadlines
           </Link>.
@@ -452,8 +466,8 @@ export default function Content() {
           answer: 'Failing to update scheduled values (an engagement ring appraised at $8,000 ten years ago may be worth $14,000 today — under agreed value, you still only collect the original $8,000). Scheduling the ring but not the collection (the sub-limit still applies in aggregate to any unscheduled jewelry, no matter how much your one scheduled item is worth). Underestimating blanket Coverage C needs across the whole home (decades of accumulated belongings can easily exceed 75% of dwelling coverage). Assuming the carrier tracks your scheduled items (you must notify them of acquisitions, sales, and value changes). Not scheduling items kept off-premises.',
         },
         {
-          question: "How does California's SB 49 affect contents claims?",
-          answer: 'Under Insurance Code §2051.5(c), as implemented through SB 49, when a total loss occurs to the dwelling, the carrier must offer the policyholder the option to receive a lump sum payment for personal property without requiring a room-by-room inventory. The provision applies to policies issued or renewed after January 1, 2020 and was designed to reduce the documentation burden on wildfire survivors. The lump sum may not equal the full Coverage C limit, so carefully evaluate whether the lump-sum option or a full inventory would result in higher recovery for your specific loss.',
+          question: "How does California's SB 495 affect contents claims?",
+          answer: "Under Insurance Code §10103.7 (added by AB 3012 effective July 2021; amended by SB 495 effective January 2026), when a total loss occurs to the dwelling in a declared state of emergency, the carrier must offer an advance payment of at least 60% of the contents coverage limit, up to $350,000 (under SB 495; was 30% / $250,000 under AB 3012), without requiring a room-by-room inventory for at least 100 days. The advance is not the full Coverage C limit — policyholders should pursue a complete inventory afterward to recover any remaining amount within the policy limit.",
         },
         {
           question: 'Why does the documentation burden differ between blanket and scheduled coverage?',
@@ -484,9 +498,10 @@ export default function Content() {
           </li>
           <li>
             <Link href="/resources/sb495-contents-rule" className="text-[#2E74B5] underline hover:text-blue-900">
-              SB 49: Contents Without Inventory
+              SB 495: Contents Without Inventory
             </Link>{' '}
-            &mdash; California&rsquo;s lump sum contents option after a total loss
+            &mdash; California&rsquo;s 60% contents advance after a total loss in a
+            declared emergency
           </li>
         </ul>
       </CalloutBox>
