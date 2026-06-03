@@ -395,6 +395,12 @@ export default function Content() {
           Covers biohazard contamination and the protocols for decontaminating contents exposed
           to biological hazards.
         </li>
+        <li>
+          <strong>IICRC S700 &mdash; Standard for Professional Restoration of Fire and Smoke
+          Damaged Structures and Contents:</strong> The dedicated standard for smoke and soot
+          remediation, including the analysis of when smoke-exposed contents can be cleaned vs.
+          when they should be classified as total loss.
+        </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         These are not government regulations, but they are the consensus standards that the
@@ -462,6 +468,9 @@ export default function Content() {
         This article is for informational purposes only and does not constitute legal, medical, or
         environmental consulting advice. Insurance policies and applicable law vary by state and by
         policy form. Consult with a licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
