@@ -181,8 +181,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If a covered loss makes your home uninhabitable, the insurer must pay your additional
         living expenses (ALE) for as long as it reasonably takes to repair or replace your
-        home. In California after a declared disaster, there is a minimum 24-month ALE period
-        regardless of what your policy says (California Insurance Code &sect;2051.5(c)).
+        home. In California after a declared state of emergency, there is a minimum 24-month
+        ALE period regardless of what your policy says, with up to 12 additional months
+        available for good cause (California Insurance Code &sect; 2060(b)(1)).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         ALE means the difference between your normal living costs and your actual costs while
