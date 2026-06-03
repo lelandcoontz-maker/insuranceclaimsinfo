@@ -12,6 +12,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California ALE advance-payment rules
+          by a Licensed California Public Adjuster. It is not legal advice. California
+          law on ALE advance payments has evolved significantly &mdash; particularly after
+          SB 872 (2020), which added Insurance Code &sect; 2061. For legal questions about
+          a specific ALE dispute, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Problem: You Need a Place to Live Before You Can Spend the Money
       </h2>
@@ -71,17 +81,20 @@ export default function Content() {
       </h2>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        Declared Disasters (CIC &sect;2051.5 and SB 872)
+        Declared Disasters (CIC &sect; 2061, Added by SB 872 in 2020)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        After a declared disaster, California Insurance Code &sect;2051.5 (as amended by SB 872 in
-        2020) requires insurers to advance ALE payments. The insurer cannot wait for receipts &mdash;
-        they must advance funds for temporary housing immediately when the policyholder is displaced
-        by a declared disaster. See our{' '}
+        After a total loss related to a declared state of emergency (Government Code
+        &sect; 8558), <strong>California Insurance Code &sect; 2061</strong> (added by
+        SB 872, 2020) requires insurers, on request, to render an advance payment of no
+        less than <strong>four months</strong> of living expenses, with additional
+        payments to follow upon proper proof. The insurer cannot insist on receipts before
+        making the initial 4-month advance &mdash; the statute makes the advance mandatory
+        on request after a qualifying total loss. See our{' '}
         <Link href="/resources/cdi-advance-payments" className="text-blue-700 underline hover:text-blue-900">
           article on CDI Bulletin 2025-2
         </Link>{' '}
-        for the specific requirements.
+        for the specific requirements and current CDI guidance.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
@@ -294,6 +307,11 @@ export default function Content() {
         scenarios. It is educational and does not constitute legal advice. California law on ALE
         advances has evolved significantly in recent years, particularly for declared disasters.
         For advice on your specific situation, consult a licensed Public Adjuster or attorney.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
