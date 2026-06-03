@@ -881,7 +881,7 @@ export default function Content() {
             how to document a contents inventory
           </Link>{' '}
           and our article on{' '}
-          <Link href="/resources/sb49-contents-rule" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/sb495-contents-rule" className="text-blue-700 underline hover:text-blue-900">
             SB 495 and California&apos;s contents payment rule
           </Link>.
         </p>

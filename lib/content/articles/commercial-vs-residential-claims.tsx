@@ -157,7 +157,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s{' '}
-        <Link href="/resources/sb49-contents-rule" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/sb495-contents-rule" className="text-blue-700 underline hover:text-blue-900">
           SB 495
         </Link>{' '}
         requires residential insurers to advance at least 60% of the personal property coverage

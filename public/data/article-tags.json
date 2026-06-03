@@ -2407,16 +2407,6 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
-  "history-of-bad-faith-insurance-law": {
-    "audience": [
-      "mid-claim"
-    ],
-    "claimType": [
-      "ale"
-    ],
-    "contentType": "case-study",
-    "jurisdiction": "california"
-  },
   "history-of-bad-faith": {
     "audience": [
       "professional"
@@ -4276,7 +4266,7 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
-  "sb49-contents-rule": {
+  "sb495-contents-rule": {
     "audience": [
       "mid-claim"
     ],

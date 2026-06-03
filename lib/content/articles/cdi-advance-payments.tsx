@@ -342,7 +342,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/sb49-contents-rule" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/sb495-contents-rule" className="text-[#2E74B5] hover:underline">
             SB 495: California&apos;s New Contents Payment Rule
           </Link>
         </li>

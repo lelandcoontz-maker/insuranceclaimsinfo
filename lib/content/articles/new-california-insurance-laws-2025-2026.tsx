@@ -59,7 +59,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For a detailed breakdown of how this law works in practice, including how it interacts with
         depreciation and recoverable holdback, see the full article on{' '}
-        <Link href="/resources/sb49-contents-rule" className="text-[#2E74B5] underline">
+        <Link href="/resources/sb495-contents-rule" className="text-[#2E74B5] underline">
           SB 495 and the contents payment rule
         </Link>.
       </p>

@@ -77,15 +77,15 @@
   },
   "ale-advance-payments": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "ale-basics-what-is-covered": {
     "published": "2026-05-16",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "ale-frv": {
     "published": "2026-03-28",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "animal-pest-damage": {
     "published": "2026-05-01",
@@ -313,7 +313,7 @@
   },
   "cdi-36-month-ale": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "cdi-advance-payments": {
     "published": "2026-05-02",
@@ -473,7 +473,7 @@
   },
   "construction-timeline-disputes-ale": {
     "published": "2026-05-03",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "consumer-advocacy-groups": {
     "published": "2026-05-02",
@@ -481,7 +481,7 @@
   },
   "contents-claims": {
     "published": "2026-03-28",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "contents-cleaning-total-loss": {
     "published": "2026-05-02",
@@ -749,7 +749,7 @@
   },
   "excessive-depreciation": {
     "published": "2026-04-08",
-    "modified": "2026-05-31"
+    "modified": "2026-06-02"
   },
   "exclusions": {
     "published": "2026-03-28",
@@ -797,7 +797,7 @@
   },
   "fire-damage-beginners-guide": {
     "published": "2026-05-16",
-    "modified": "2026-06-01"
+    "modified": "2026-06-02"
   },
   "fire-debris-cleanup-without-fire": {
     "published": "2026-05-04",
@@ -931,13 +931,9 @@
     "published": "2026-05-03",
     "modified": "2026-05-21"
   },
-  "history-of-bad-faith-insurance-law": {
-    "published": "2026-05-16",
-    "modified": "2026-05-27"
-  },
   "history-of-bad-faith": {
     "published": "2026-05-03",
-    "modified": "2026-05-27"
+    "modified": "2026-06-02"
   },
   "hoarding-insurance-coverage": {
     "published": "2026-05-03",
@@ -1089,7 +1085,7 @@
   },
   "insurer-documentation-bad-faith": {
     "published": "2026-05-03",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "insurer-duty-to-explain-payment": {
     "published": "2026-05-03",
@@ -1193,7 +1189,7 @@
   },
   "long-term-displacement-ale": {
     "published": "2026-05-03",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "loss-assessment-coverage": {
     "published": "2026-05-01",
@@ -1201,11 +1197,11 @@
   },
   "loss-of-use-maximizing": {
     "published": "2026-04-04",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "loss-settlement-provisions": {
     "published": "2026-04-04",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "lowball-offer-what-to-do": {
     "published": "2026-05-16",
@@ -1217,7 +1213,7 @@
   },
   "managing-agent-punitive-damages": {
     "published": "2026-05-04",
-    "modified": "2026-05-27"
+    "modified": "2026-06-02"
   },
   "manufacturing-industrial-insurance-claims": {
     "published": "2026-05-04",
@@ -1445,7 +1441,7 @@
   },
   "policyholder-rights": {
     "published": "2026-04-04",
-    "modified": "2026-05-21"
+    "modified": "2026-06-02"
   },
   "pollution-exclusion-claims": {
     "published": "2026-05-03",
@@ -1653,10 +1649,6 @@
   },
   "salvage-rights": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
-  },
-  "sb49-contents-rule": {
-    "published": "2026-04-04",
     "modified": "2026-05-21"
   },
   "scheduled-personal-property": {

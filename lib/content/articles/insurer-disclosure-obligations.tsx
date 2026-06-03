@@ -494,7 +494,7 @@ export default function Content() {
           advance payments after a wildfire
         </Link>{' '}
         and{' '}
-        <Link href="/resources/sb49-contents-rule" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/sb495-contents-rule" className="text-blue-700 underline hover:text-blue-900">
           the contents payment rule
         </Link>.
       </p>

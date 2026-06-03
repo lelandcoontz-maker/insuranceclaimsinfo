@@ -52,7 +52,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a detailed breakdown of how this law works, see our{' '}
-        <Link href="/resources/sb49-contents-rule" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/sb495-contents-rule" className="text-blue-700 underline hover:text-blue-900">
           SB 495 Contents Payment Rule
         </Link>{' '}
         article.

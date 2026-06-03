@@ -359,7 +359,7 @@ export default function Content() {
           survivors. However, the lump sum amount may not equal the full Coverage C limit,
           and policyholders should carefully evaluate whether the lump sum or a full inventory
           would result in a higher recovery. See the{' '}
-          <Link href="/resources/sb49-contents-rule" className="text-[#2E74B5] underline hover:text-blue-900">
+          <Link href="/resources/sb495-contents-rule" className="text-[#2E74B5] underline hover:text-blue-900">
             SB 49 contents rule article
           </Link>{' '}
           for a detailed analysis.
@@ -483,7 +483,7 @@ export default function Content() {
             &mdash; Understanding the two valuation methods for personal property
           </li>
           <li>
-            <Link href="/resources/sb49-contents-rule" className="text-[#2E74B5] underline hover:text-blue-900">
+            <Link href="/resources/sb495-contents-rule" className="text-[#2E74B5] underline hover:text-blue-900">
               SB 49: Contents Without Inventory
             </Link>{' '}
             &mdash; California&rsquo;s lump sum contents option after a total loss

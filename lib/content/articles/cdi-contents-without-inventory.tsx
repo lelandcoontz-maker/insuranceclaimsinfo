@@ -31,10 +31,15 @@ export default function Content() {
         inventory is submitted — knowing that many policyholders will never complete one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law (Insurance Code section 10103.7[b]) requires insurers to offer at least 30%
-        of the dwelling policy limit — up to a maximum of $250,000 — for personal property
-        (contents) coverage <strong>without requiring an itemized inventory</strong>. The insurer
-        must also notify you of this option when you file your claim. Many do not.
+        California law (Insurance Code &sect; 10103.7) requires insurers, after a covered total
+        loss in a declared state of emergency, to offer a contents advance payment{' '}
+        <strong>without requiring an itemized inventory</strong>. As of January 2026, under
+        SB 495, the minimum advance is <strong>60% of the contents (personal property) policy
+        limit, up to a maximum of $350,000</strong>. Prior to SB 495, AB 3012 (effective July 1,
+        2021) set the floor at 30% of the dwelling limit, up to $250,000 &mdash; that prior
+        framework is what the 2020 CDI Notice reproduced below addressed. For claims arising
+        from losses on or after January 2026, the current SB 495 percentages and cap apply. The
+        insurer must also notify you of this option when you file your claim. Many do not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Department of Insurance has issued this notice after every major wildfire
@@ -51,12 +56,25 @@ export default function Content() {
         carrier is not offering anything without an inventory, they are violating California law.
       </p>
 
-      <CalloutBox variant="tip" title="Key Numbers to Know">
+      <CalloutBox variant="tip" title="Key Numbers to Know (Current Law)">
         <ul className="list-disc pl-4 space-y-1">
-          <li><strong>30% of dwelling limit</strong> — the minimum the insurer must offer for contents</li>
-          <li><strong>$250,000 maximum</strong> — the cap on the no-inventory advance</li>
-          <li><strong>No inventory required</strong> — you do not need to submit an itemized list</li>
-          <li><strong>You can still file a full inventory later</strong> — this advance does not waive your right to claim the remaining contents coverage</li>
+          <li>
+            <strong>60% of contents coverage limit</strong> &mdash; the minimum advance under
+            SB 495, effective January 2026 (was 30% of the dwelling limit under the prior
+            AB 3012 framework for losses before that date)
+          </li>
+          <li>
+            <strong>$350,000 maximum</strong> &mdash; the cap on the no-inventory advance under
+            SB 495 (was $250,000 under AB 3012)
+          </li>
+          <li>
+            <strong>No itemized inventory required</strong> for at least 100 days after the loss
+            (SB 495 codifies the 100-day breathing room expressly)
+          </li>
+          <li>
+            <strong>You can still file a full inventory later</strong> &mdash; this advance does
+            not waive your right to claim the remaining contents coverage
+          </li>
         </ul>
       </CalloutBox>
 
@@ -147,15 +165,18 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Request the advance in writing immediately.</strong> Cite California Insurance Code
-          section 10103.7(b) by name. State that your primary dwelling was a total loss in a declared
-          disaster, that the residence was furnished, and that you are requesting the contents advance
+          <strong>Request the advance in writing immediately.</strong> Cite California Insurance
+          Code &sect; 10103.7 by name (the section was added by AB 3012 and amended by SB 495).
+          State that your primary dwelling was a total loss in a declared state of emergency,
+          that the residence was furnished, and that you are requesting the contents advance
           payment without an inventory.
         </li>
         <li>
-          <strong>Ask what percentage they will pay.</strong> The legal minimum is 30%, but most
-          carriers have historically paid 75% or more. Ask your insurer directly what percentage they
-          are offering and reference the CDI notice showing that their competitors paid higher amounts.
+          <strong>Ask what percentage they will pay.</strong> The current legal minimum is 60%
+          (SB 495); many carriers have historically paid 75% or more even under the prior
+          framework. Ask your insurer directly what percentage they are offering and reference
+          the CDI&rsquo;s public list showing which carriers paid higher amounts in past
+          disasters.
         </li>
         <li>
           <strong>Confirm they notified you of this option.</strong> The law requires the insurer to
@@ -203,7 +224,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/sb49-contents-rule" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/sb495-contents-rule" className="text-[#2E74B5] hover:underline">
             SB 495: California&apos;s New Contents Payment Rule
           </Link>
         </li>
@@ -230,6 +251,11 @@ export default function Content() {
           Request a Free Claim Review
         </Link>
       </div>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
