@@ -254,10 +254,14 @@ export default function Content() {
           repair or replacement. The insurer cannot treat ACV as the final word.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          Additionally, following a declared disaster in California, insurers must provide
-          advance payments under Insurance Code Section 2051.6. These are not optional. The
-          carrier must make partial payments while the claim is being processed &mdash; the
-          policyholder does not need to wait for a complete estimate. For a complete discussion
+          Additionally, following a declared state of emergency in California, insurers must
+          provide advance payments under specific statutory provisions: Insurance Code
+          &sect; 2061 (added by SB 872, 2020) requires a four-month ALE advance for total
+          losses, and Insurance Code &sect; 10103.7 (added by AB 3012, amended by SB 495)
+          requires a 60% contents advance (up to $350,000) for total losses, effective
+          January 2026. These are not optional. The carrier must make partial payments while
+          the claim is being processed &mdash; the policyholder does not need to wait for a
+          complete estimate. For a complete discussion
           of ACV versus replacement cost, see our article on{' '}
           <Link href="/resources/acv-rcv" className="text-blue-700 underline hover:text-blue-900">
             ACV vs. RCV
@@ -1093,9 +1097,10 @@ export default function Content() {
             <li>California Insurance Code &sect; 790.03 (unfair practices)</li>
             <li>California Insurance Code &sect; 2051.5 (no labor depreciation)</li>
             <li>California Insurance Code &sect; 2071 (standard fire policy)</li>
-            <li>California Insurance Code &sect; 2051.6 (advance payments)</li>
+            <li>California Insurance Code &sect; 2060(b)(1) (24/36-month ALE for declared emergencies, per SB 872)</li>
+            <li>California Insurance Code &sect; 2061 (4-month ALE advance after total loss in declared emergency, per SB 872)</li>
             <li>California Insurance Code &sect; 10103.4 (RC estimates at renewal)</li>
-            <li>California Insurance Code &sect; 10103.7 (SB 495)</li>
+            <li>California Insurance Code &sect; 10103.7 (60% contents advance up to $350,000 per SB 495; formerly 30%/$250,000 per AB 3012)</li>
             <li>California Insurance Code &sect; 15027 (PA contract / insured communication rights)</li>
             <li>California Insurance Code &sect; 1861.02 (Prop 103 rating)</li>
             <li>California Civil Code &sect; 1526 (restrictive endorsements)</li>
