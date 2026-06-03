@@ -12,6 +12,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is a Licensed California Public Adjuster&rsquo;s educational history
+          of California insurance bad-faith law. It is not legal advice. The application of
+          any case or doctrine discussed here to a specific claim is fact-dependent and a
+          question for a California-licensed attorney. Pleading, litigation strategy, and
+          the choice of bad-faith theories are attorney work under Insurance Code &sect; 15002.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         There was a time in America when an insurance company could deny your claim, drag out its
         investigation for months or years, lowball your payment, and face no meaningful consequence
@@ -967,7 +977,7 @@ export default function Content() {
         <li><em>White v. Ultramar, Inc.</em> (1999) 21 Cal.4th 563</li>
         <li><em>Chateau Chamberay Homeowners Ass&apos;n v. Associated International Insurance Co.</em> (2001) 90 Cal.App.4th 335</li>
         <li><em>Wilson v. 21st Century Insurance Co.</em> (2007) 42 Cal.4th 713</li>
-        <li><em>Roby v. McKesson</em> (2010) 47 Cal.4th 686</li>
+        <li><em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686</li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -1002,6 +1012,11 @@ export default function Content() {
           </Link>
         </p>
       </CalloutBox>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

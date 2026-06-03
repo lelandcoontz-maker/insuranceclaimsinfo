@@ -4645,7 +4645,7 @@ export const CATEGORIES: Category[] = [
         icon: '📜',
         title: 'How the Tort of Bad Faith Was Invented',
         desc: 'The history that changed insurance law forever — Comunale, Crisci, Communale, Gruenberg, and the doctrinal arc.',
-        href: '/resources/history-of-bad-faith-insurance-law',
+        href: '/resources/history-of-bad-faith',
         tag: 'Reference',
         tagColor: 'bg-rose-100 text-rose-700',
         subcategory: 'foundational-doctrine',
