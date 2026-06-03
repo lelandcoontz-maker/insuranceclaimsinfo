@@ -12,6 +12,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on Additional Living Expenses and Fair
+          Rental Value coverage by a Licensed California Public Adjuster. It is not legal
+          advice. California-specific ALE rules apply after declared states of emergency
+          (Cal. Ins. Code &sect; 2060(b)(1)). For legal questions about an ALE dispute,
+          consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         When a covered loss makes your home uninhabitable, your insurance policy does more than just
         pay for repairs. It also covers the increased costs you incur while living elsewhere. This
@@ -154,11 +164,26 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="warning" title="ALE Has a Policy Limit">
+      <CalloutBox variant="warning" title="ALE Has a Policy Limit (And a California Floor After Declared Emergencies)">
         <p>
-          ALE coverage is subject to a cap, often 20 to 30 percent of your dwelling coverage or a
-          specific time limit (12 or 24 months). If your displacement is expected to be lengthy,
-          budget carefully and discuss the timeline with your insurer early.
+          ALE coverage is subject to a dollar cap, often 20 to 30 percent of your dwelling
+          coverage. Many policies also impose a time limit (12 or 24 months under the
+          policy terms).
+        </p>
+        <p className="mt-3">
+          <strong>California overrides for state-of-emergency losses:</strong> For a loss
+          related to a declared state of emergency (Gov. Code &sect; 8558), California
+          Insurance Code &sect; 2060(b)(1) requires the insurer to provide ALE benefits
+          for at least <strong>24 months</strong> from the inception of the loss, with an
+          additional <strong>12-month</strong> extension for good cause &mdash; for a
+          total of up to <strong>36 months</strong> &mdash; when delays beyond the
+          insured&apos;s control (permitting, contractor shortages, material backlogs)
+          push the rebuild past 24 months. The statute extends the <em>time</em> period
+          for incurring ALE; it does not enlarge the dollar limit. For a deeper guide,
+          see our{' '}
+          <Link href="/resources/ale-basics-what-is-covered" className="text-blue-700 underline hover:text-blue-900">
+            ALE basics article
+          </Link>.
         </p>
       </CalloutBox>
 
@@ -174,6 +199,9 @@ export default function Content() {
         This article is for informational purposes only and does not constitute legal advice. Insurance
         policies and applicable law vary by state and by policy form. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
