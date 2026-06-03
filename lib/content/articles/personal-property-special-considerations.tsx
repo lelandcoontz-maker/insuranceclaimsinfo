@@ -12,6 +12,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on three commonly mishandled personal-property
+          categories &mdash; electronics, Oriental/Persian rugs, and landscaping &mdash; by a
+          Licensed California Public Adjuster. It is not legal advice. Valuation, sub-limits,
+          and restoration analysis are fact-specific. For legal questions about a contents
+          dispute in these categories, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Most personal property in an insurance claim follows a relatively straightforward path:
         identify the item, determine whether it is cleanable or a total loss, establish replacement
