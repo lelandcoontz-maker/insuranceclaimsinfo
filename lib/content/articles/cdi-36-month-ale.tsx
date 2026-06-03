@@ -22,6 +22,20 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <CalloutBox variant="warning" title="Statutory Citation Update: §2060(b)(1), Not §2051.5(b)(2)">
+        <p>
+          The Commissioner&rsquo;s Opinion reproduced below was issued September 10, 2019 and
+          correctly cites Insurance Code <strong>§2051.5(b)(2)</strong> as it existed at that
+          time. SB 872 (Chapter 261, Statutes of 2020, signed September 29, 2020) restructured
+          the Insurance Code and <strong>moved the 24/36-month ALE rule from §2051.5(b)(2) to{' '}
+          §2060(b)(1)</strong>. The current statutory authority for the same rule is{' '}
+          <strong>California Insurance Code §2060(b)(1)</strong>. Verified against leginfo (2025
+          codification). The substance of the rule did not change &mdash; only the section
+          number. This article uses §2060(b)(1) in its modern narrative and preserves the 2019
+          Opinion verbatim as a historical document.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         ALE Is Where Carriers Cut Corners
       </h2>
@@ -260,11 +274,14 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your insurer denies the 12-month extension or refuses to grant a 6-month good-cause
-        extension, they are violating Insurance Code section 2051.5(b)(2). The statute uses the word
-        &ldquo;shall&rdquo; &mdash; not &ldquo;may.&rdquo; The insurer does not have discretion to
-        deny an extension when the qualifying conditions are met. Document the denial in writing,
-        cite the statute and this Commissioner&apos;s Opinion, and file a complaint with the
-        California Department of Insurance.
+        extension, they are violating <strong>California Insurance Code §2060(b)(1)</strong>{' '}
+        (which is where SB 872 placed the same rule the 2019 Commissioner&rsquo;s Opinion
+        interpreted under the former §2051.5(b)(2) citation). The statute uses the word
+        &ldquo;shall&rdquo; &mdash; not &ldquo;may.&rdquo; The insurer does not have
+        discretion to deny an extension when the qualifying conditions are met. Document the
+        denial in writing, cite the current statutory authority (§2060(b)(1)) along with this
+        Commissioner&apos;s Opinion, and file a complaint with the California Department of
+        Insurance.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -319,6 +336,11 @@ export default function Content() {
           Request a Free Claim Review
         </Link>
       </div>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
