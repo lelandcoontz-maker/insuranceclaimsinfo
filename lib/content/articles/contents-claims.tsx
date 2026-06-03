@@ -12,6 +12,17 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California contents and personal-property
+          claims by a Licensed California Public Adjuster. It is not legal advice. ACV and
+          depreciation rules in California are statutory (Cal. Ins. Code &sect; 2051(b));
+          how those rules apply to a specific item depends on its age, condition, and the
+          policy language. For legal questions about a contents dispute, consult a licensed
+          California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         When your home is damaged, the building itself is only part of the story. Everything inside
         your home, your furniture, clothing, electronics, kitchenware, and personal belongings, falls
@@ -116,15 +127,19 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have a replacement cost value (RCV) policy, contents are paid in two stages. First,
-        the insurer pays the actual cash value (ACV), which is the replacement cost minus
-        depreciation. After you actually replace the item, you submit proof of purchase and the
-        insurer pays the remaining &ldquo;recoverable depreciation&rdquo; or holdback. If you have
-        an ACV-only policy, you receive only the depreciated value and nothing more.
+        the insurer pays the actual cash value (ACV), which under California Insurance Code
+        &sect; 2051(b) is the replacement cost less a fair and reasonable deduction for physical
+        depreciation based on the condition of the property at the time of loss. After you
+        actually replace the item, you submit proof of purchase and the insurer pays the
+        remaining &ldquo;recoverable depreciation&rdquo; or holdback. If you have an ACV-only
+        policy, you receive only the depreciated value and nothing more.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Pay close attention to the depreciation applied to each item. Insurers sometimes
-        over-depreciate items or apply depreciation incorrectly. A five-year-old high-end appliance
-        should not be depreciated the same way as a five-year-old t-shirt.
+        Pay close attention to the depreciation applied to each item. Section 2051(b) requires
+        the deduction to be based on the <em>actual physical condition</em> of the item &mdash;
+        not just its age. Insurers sometimes over-depreciate items or apply depreciation
+        incorrectly. A five-year-old high-end appliance should not be depreciated the same way
+        as a five-year-old t-shirt.
       </p>
 
       <CalloutBox variant="warning" title="Replacement Deadlines">
@@ -177,6 +192,9 @@ export default function Content() {
         This article is for informational purposes only and does not constitute legal advice. Insurance
         policies and applicable law vary by state and by policy form. Consult with a licensed
         professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
