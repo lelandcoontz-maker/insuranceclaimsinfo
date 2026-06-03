@@ -772,10 +772,15 @@ export default function Content() {
         As discussed above, <em>Egan</em> established the foundational principle that
         managing agent status depends on the &ldquo;degree of discretion the employees
         possess in making decisions that will ultimately determine corporate policy,&rdquo;
-        not on official titles. The court upheld $5 million in punitive damages against the
-        insurer based on the conduct of claims employees who exercised broad discretion in
-        disposing of the plaintiff&rsquo;s disability claim with &ldquo;little if any
-        supervision.&rdquo;
+        not on official titles. The Court found that claims employees who exercised broad
+        discretion in disposing of the plaintiff&rsquo;s disability claim with &ldquo;little
+        if any supervision&rdquo; were acting in a managerial capacity for purposes of
+        corporate punitive damages liability. (Note: the jury&rsquo;s $5 million punitive
+        damages award was{' '}<strong>reversed</strong>{' '}as excessive as a matter of law;
+        what survives <em>Egan</em> as binding precedent is the legal analysis on
+        managerial capacity and the duty to investigate, not the dollar figure. The
+        managing-agent test was then substantially narrowed by{' '}
+        <em>White v. Ultramar, Inc.</em> (1999) 21 Cal.4th 563, discussed next.)
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
