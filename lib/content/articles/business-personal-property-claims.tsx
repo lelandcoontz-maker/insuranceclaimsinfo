@@ -13,6 +13,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on commercial business personal property
+          coverage by a Licensed California Public Adjuster. It is not legal advice.
+          Commercial policy forms, endorsements, and valuation methods vary significantly
+          by carrier and broker placement. For legal questions about a commercial property
+          dispute, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         If you own or operate a business and suffer property damage, the
         &ldquo;business personal property&rdquo; portion of your commercial
@@ -889,6 +899,11 @@ export default function Content() {
           ready to present.
         </li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
