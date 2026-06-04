@@ -328,25 +328,42 @@ export default function Content() {
         relationship did not create a disqualifying &ldquo;impression of possible bias.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Two holdings make <em>Mahnke</em> useful. First, the disclosure requirements of CCP
-        &sect; 1281.9 apply not only to the neutral umpire but also to <strong>party-selected
-        appraisers</strong> &mdash; so an insured can expect the carrier&rsquo;s appraiser, like
-        the umpire, to disclose relationships. Second, the <strong>15-day disqualification window
-        of CCP &sect; 1281.91 does not apply to party appraisers</strong> (it governs the
-        neutral). Equally important is what <em>Mahnke</em> did <em>not</em> do: it did not make
-        party appraisers easy to remove. A party appraiser is expected to be a partisan advocate
-        (consistent with <em>Lambert</em>), and an ordinary professional relationship is not, by
-        itself, grounds for disqualification.
+        <em>Mahnke</em> parses how the Arbitration Act&rsquo;s arbitrator-disclosure framework
+        interacts with the appraisal provisions of Insurance Code &sect; 2071. After the 2001
+        amendments to CCP &sect;&sect; 1281.9 and 1281.91, both statutes refer expressly to
+        the &ldquo;proposed neutral arbitrator&rdquo; &mdash; which the court equates with the
+        appraisal umpire. <em>Mahnke</em> holds that the formal statutory disclosure
+        requirements of &sect; 1281.9 and the 15-day automatic disqualification window of
+        &sect; 1281.91 apply <strong>only to the neutral umpire</strong>, not to party-selected
+        appraisers. Earlier authority that had extended &sect; 1281.9 broadly to all
+        appraisers (e.g., <em>Michael v. Aetna Life &amp; Casualty Ins. Co.</em>) is no longer
+        good law on that specific point after the 2001 amendments.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>What this means for policyholders:</strong> Disclosure cuts both ways &mdash; the
-        carrier&rsquo;s party appraiser, like the umpire, should disclose relationships under
-        &sect; 1281.9, and an insured is entitled to ask for that disclosure. But do not expect to
-        disqualify the carrier&rsquo;s appraiser simply because that appraiser does repeat work in
-        the industry; party appraisers are advocates, and the bar for removing one is high. The
-        stronger neutrality protections &mdash; disclosure under &sect; 1281.9 and the 15-day
-        challenge under &sect; 1281.91 &mdash; apply to the <strong>umpire</strong>, which is why
-        umpire selection deserves the most scrutiny.
+        Party-selected appraisers, however, are not unregulated. &sect; 2071 itself requires
+        each side to select a &ldquo;competent and disinterested&rdquo; appraiser, and
+        <em> Mahnke</em> ties this requirement to a judicially-developed
+        <strong> &ldquo;substantial business relationship&rdquo;</strong> standard for
+        disqualification &mdash; drawing on the &ldquo;impression of possible bias&rdquo;
+        framework from <em>Commonwealth Coatings</em> and <em>Gebers v. State Farm</em>. A
+        party appraiser may be disqualified when a substantial business relationship with a
+        party creates an objective impression of possible bias. On the facts of <em>Mahnke</em>,
+        the appraiser&rsquo;s concurrent role as an expert witness for another client of the
+        insureds&rsquo; counsel, in an unrelated matter, was <em>not</em> a substantial
+        business relationship sufficient to disqualify him &mdash; and the Court of Appeal
+        reversed the trial court&rsquo;s disqualification order.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>What this means for policyholders:</strong> The robust statutory
+        neutrality-disclosure regime (CCP &sect; 1281.9 + the 15-day disqualification window
+        in &sect; 1281.91) applies to the <strong>umpire</strong>, not to party appraisers.
+        That is one more reason umpire selection deserves the most scrutiny. Party-appraiser
+        challenges, by contrast, must be raised at the first reasonable opportunity and must
+        show a <em>substantial</em> business relationship between the appraiser and a party
+        &mdash; an ordinary professional relationship, repeat industry work, or even an
+        appraiser&rsquo;s concurrent expert-witness work in an unrelated case will generally
+        not suffice. Practically, this is a high bar to clear in either direction: the carrier
+        cannot easily strip your appraiser, and you cannot easily strip the carrier&rsquo;s.
       </p>
 
       <CalloutBox variant="tip" title="Putting the Case Law Together">
@@ -354,10 +371,13 @@ export default function Content() {
           These six cases establish a clear framework: (1) the panel values &mdash; it does not
           determine coverage, causation, or property identity (<em>Sharma</em>, <em>Kacha</em>,{' '}
           <em>Lee</em>); (2) coverage questions can go straight to court without waiting for
-          appraisal (<em>Doan</em>); (3) panel members are immune from personal liability
-          (<em>Lambert</em>); and (4) party appraisers must disclose relationships, but the umpire
-          is where the neutrality protections truly bite (<em>Mahnke</em>; CCP &sect;&sect; 1281.9,
-          1281.91). Taken together, they give policyholders a roadmap for both participating in
+          appraisal (<em>Doan</em>); (3) panel members performing the quasi-judicial appraisal
+          function enjoy arbitral immunity (<em>Lambert</em>); and (4) the Arbitration Act&rsquo;s
+          formal disclosure and disqualification statutes (CCP &sect;&sect; 1281.9, 1281.91)
+          apply to the neutral <strong>umpire</strong>, while party appraisers are bound by
+          &sect; 2071&rsquo;s &ldquo;competent and disinterested&rdquo; requirement and a
+          &ldquo;substantial business relationship&rdquo; standard (<em>Mahnke</em>). Taken
+          together, these decisions give policyholders a roadmap for both participating in
           appraisal and challenging an unfair process or result.
         </p>
       </CalloutBox>
