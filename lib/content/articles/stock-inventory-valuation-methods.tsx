@@ -809,9 +809,15 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Broad evidence rule for ACV:</strong> California does not limit ACV to
-          &ldquo;replacement cost minus depreciation.&rdquo; All relevant evidence of value is
-          admissible, including market value, income approach, and comparable sales data.
+          <strong>Statutory ACV framework:</strong> Effective January 1, 2020, California
+          Insurance Code &sect; 2051(b) defines ACV as replacement cost less a fair and
+          reasonable deduction for physical depreciation, applied uniformly to both total and
+          partial losses and to both structure and contents. This superseded the
+          broad-evidence / fair-market-value approach of <em>Cheeks v. California Fair Plan
+          Ass&rsquo;n</em> (1998) 61 Cal.App.4th 423. For inventory, this means the starting
+          point is the cost to acquire equivalent goods at the time of loss &mdash; not
+          historical book value &mdash; and only goods that have actually lost value (seasonal,
+          obsolete, perishable) are subject to depreciation.
         </li>
         <li>
           <strong>Contra proferentem:</strong> Ambiguous policy language is construed against the

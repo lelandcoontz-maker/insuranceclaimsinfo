@@ -114,8 +114,8 @@ export default function Content() {
         the most common ways people lose money on replacement cost claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, Insurance Code Section 2051.5(b) establishes a statutory minimum of 12
-        months from the date the actual cash value payment is made. Not from the date of loss.
+        In California, Insurance Code Section 2051.5(b)(1) establishes a statutory minimum of
+        12 months from the date the actual cash value payment is made. Not from the date of loss.
         From the date the check is issued. This distinction can add months to your timeline because
         insurers often take months or even years to investigate and issue the first payment.
       </p>
@@ -231,13 +231,17 @@ export default function Content() {
         </li>
         <li>
           The policyholder has at least 12 months from the ACV payment date to complete repairs
-          and claim the holdback (Section 2051.5(b)).
+          and claim the holdback (Section 2051.5(b)(1)).
         </li>
         <li>
-          After a declared disaster, the minimum period extends to 36 months, with the right to request an additional 6-month extension for good cause (Section 2051.5(b)).
+          After a declared disaster, the minimum period extends to 36 months, with the right
+          to request additional 6-month extensions for good cause (Section 2051.5(b)(1), same
+          subsection).
         </li>
         <li>
-          The policyholder may collect replacement cost for rebuilding at a different location or building a different structure at the same location, subject to certain conditions (Section 2051.5(c)).
+          The policyholder may collect replacement cost for rebuilding at a different location
+          or building a different structure at the same location, subject to certain conditions
+          (Section 2051.5(c)(1), as amended by AB 1800).
         </li>
       </ul>
 
