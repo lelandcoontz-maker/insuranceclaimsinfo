@@ -97,10 +97,17 @@ export default function Content() {
         B. The Relationship to Arbitration Law: CCP &sect; 1280 et seq.
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Appraisal is not formally &ldquo;arbitration,&rdquo; but California courts have
-        consistently held that it is a <strong>quasi-arbitration proceeding</strong> subject to
-        the protections of the California Arbitration Act (Code of Civil Procedure &sect; 1280
-        et seq.). This has several important practical consequences:
+        Appraisal is appraisal &mdash; it is its own dispute resolution mechanism, narrower
+        than a general arbitration and limited to determining the amount of loss. But
+        California has placed insurance appraisal under the <strong>procedural framework</strong>
+        of the California Arbitration Act (Code of Civil Procedure &sect; 1280 et seq.) via
+        the 1961 amendment to &sect; 1280(a) expanding &ldquo;agreement to arbitrate&rdquo;
+        to include &ldquo;agreements providing for valuations, appraisals and similar
+        proceedings.&rdquo; The Arbitration Act supplies the procedural overlay; appraisal
+        supplies the substance. Some California opinions use the shorthand &ldquo;appraisal
+        is arbitration&rdquo; for the procedural treatment, but appraisal remains
+        substantively distinct &mdash; the panel cannot decide coverage, causation, or policy
+        interpretation. The procedural overlay has several important practical consequences:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -117,10 +124,16 @@ export default function Content() {
         <li>
           <strong>Disclosure:</strong> The umpire is subject to the disclosure requirements of
           CCP &sect; 1281.9, which require disclosure of any grounds for disqualification,
-          including financial interests and prior relationships with the parties. As the court
-          recognized in <em>Safeco Ins. Co. v. Sharma</em> (1984) 160 Cal.App.3d 1060, appraisal
-          is a quasi-arbitration proceeding subject to the California Arbitration Act, and failure
-          to make required disclosures is itself a ground for vacating the award.
+          including financial interests and prior relationships with the parties. The
+          umpire-only application of &sect;&sect; 1281.9 and 1281.91 was confirmed in{' '}
+          <em>Mahnke v. Superior Court</em> (2009) 180 Cal.App.4th 565, which held that
+          after the 2001 amendments those statutes apply only to the proposed neutral
+          arbitrator (i.e., the umpire in appraisal), not to party-selected appraisers.
+          The broader proposition that insurance appraisal is procedurally subject to the
+          California Arbitration Act traces to <em>Appalachian Ins. Co. v. Rivcom Corp.</em>{' '}
+          (1982) 130 Cal.App.3d 818 and <em>Klubnikin v. California Fair Plan Assn.</em>{' '}
+          (1978) 84 Cal.App.3d 393. Failure to make required disclosures is itself a ground
+          for vacating the award.
         </li>
         <li>
           <strong>Judicial review:</strong> Courts can intervene to appoint an umpire when the
@@ -398,9 +411,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Court-appointed umpires are often preferable for the policyholder, because the court is
         more likely to select someone who is genuinely neutral rather than someone from the
-        insurer&rsquo;s preferred list. Under <em>Safeco Ins. Co. v. Sharma</em> (1984) 160
-        Cal.App.3d 1060 and CCP &sect; 1281.9, the umpire is subject to disclosure requirements,
-        and a court-appointed umpire who has undisclosed conflicts can be challenged.
+        insurer&rsquo;s preferred list. Under <em>Mahnke v. Superior Court</em> (2009) 180
+        Cal.App.4th 565 and CCP &sect; 1281.9, the umpire is subject to the same disclosure
+        requirements as a neutral arbitrator, and a court-appointed umpire who has undisclosed
+        conflicts can be challenged.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -885,9 +899,10 @@ export default function Content() {
         </li>
         <li>
           <strong>Corruption / evident partiality of the umpire &mdash; (a)(2), (a)(6).</strong>
-          The umpire was biased toward one party. Under <em>Sharma</em>, failure to make required
-          disclosures under CCP &sect; 1281.9 can establish evident partiality even without
-          proof of actual bias.
+          The umpire was biased toward one party. Under <em>Mahnke</em> and the
+          &ldquo;impression of possible bias&rdquo; framework from <em>Commonwealth Coatings</em>,
+          failure to make required disclosures under CCP &sect; 1281.9 can establish evident
+          partiality even without proof of actual bias.
         </li>
         <li>
           <strong>Misconduct substantially prejudicing a party&apos;s rights &mdash; (a)(3),
@@ -967,8 +982,9 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The 100-Day Window Applies to Both Sides">
         <p>
-          Because California treats appraisal as a form of arbitration, the deadline to vacate or
-          correct an award is governed by Code of Civil Procedure &sect; 1288:
+          Because California has placed appraisal under the procedural framework of the
+          California Arbitration Act, the deadline to vacate or correct an award is governed
+          by Code of Civil Procedure &sect; 1288:
         </p>
         <p className="italic mt-2">
           A petition to confirm an award shall be served and filed not later than four years

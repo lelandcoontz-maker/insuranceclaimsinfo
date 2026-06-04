@@ -173,27 +173,31 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        3. Appraisal Is Arbitration Under California Law
+        3. Appraisal Is Governed by the California Arbitration Code for Procedural Purposes
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, insurance appraisal is not merely a contractual process &mdash; it is
-        treated as a form of{' '}
-        <strong>contractual arbitration</strong> governed by the California Arbitration Act,
-        Code of Civil Procedure &sect;&sect; 1280&ndash;1294.2. This was established in{' '}
-        <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818. The court
-        held that an appraisal agreement in a standard fire insurance policy constitutes an
-        &ldquo;agreement&rdquo; within the meaning of CCP &sect; 1280, subdivision (a), and
-        is therefore subject to the statutory contractual arbitration law.
+        Appraisal is appraisal &mdash; it is its own dispute resolution mechanism, narrower
+        than a general arbitration. But California has placed insurance appraisal under the
+        procedural framework of the California Arbitration Act, Code of Civil Procedure
+        &sect;&sect; 1280&ndash;1294.2. The mechanism is a 1961 amendment to CCP &sect; 1280(a)
+        that expanded &ldquo;agreement to arbitrate&rdquo; to include &ldquo;agreements
+        providing for valuations, appraisals and similar proceedings.&rdquo; This was applied
+        to insurance appraisal in <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130
+        Cal.App.3d 818, where the court held that an appraisal agreement in a standard fire
+        insurance policy constitutes an &ldquo;agreement&rdquo; within the meaning of CCP
+        &sect; 1280(a) and is therefore subject to the statutory contractual arbitration law
+        for purposes of enforcement, judicial review, vacatur, and umpire disclosures.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This classification strengthens the tolling argument considerably. If appraisal is
-        arbitration, and both parties are participating in an arbitration proceeding, requiring
-        the policyholder to simultaneously file a lawsuit &mdash; just to preserve the statute
-        of limitations &mdash; creates parallel proceedings addressing the same dispute. Courts
+        This procedural classification strengthens the tolling argument considerably. If
+        appraisal is conducted under the arbitration code &mdash; with both parties
+        participating in a binding proceeding governed by statute &mdash; requiring the
+        policyholder to simultaneously file a lawsuit just to preserve the statute of
+        limitations creates parallel proceedings addressing the same dispute. Courts
         generally disfavor parallel proceedings and the waste they create. The{' '}
-        <em>Appalachian</em> classification gives courts a doctrinal basis for tolling: the
-        policyholder is pursuing the contractual dispute resolution process the policy provides,
-        and that process should not consume the time available for litigation.
+        <em>Appalachian</em> framework gives courts a doctrinal basis for tolling: the
+        policyholder is pursuing the contractual dispute resolution process the policy
+        provides, and that process should not consume the time available for litigation.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -348,21 +352,22 @@ export default function Content() {
         <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Appalachian</em> established that California insurance appraisal is a form of
-        contractual arbitration governed by the California Arbitration Act. This classification
-        has significant implications for the tolling question. If appraisal is arbitration, the
-        policyholder is participating in a quasi-judicial proceeding, not merely a contractual
-        valuation exercise. Requiring the policyholder to simultaneously file a lawsuit to
-        preserve the statute of limitations creates exactly the kind of parallel proceedings
-        that the arbitration code seeks to avoid.
+        <em>Appalachian</em> established that California insurance appraisal is subject to the
+        California Arbitration Act for procedural purposes &mdash; not that appraisal becomes
+        a general arbitration capable of deciding any issue. The classification still has
+        significant implications for the tolling question. Under the arbitration code, the
+        policyholder is participating in a binding statutory proceeding, not merely a
+        contractual valuation exercise. Requiring the policyholder to simultaneously file a
+        lawsuit to preserve the statute of limitations creates exactly the kind of parallel
+        proceedings that the arbitration code seeks to avoid.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Appalachian</em> also means that appraisal awards are treated like arbitration
-        awards under CCP &sect;&sect; 1285&ndash;1288. They can be confirmed by a court and
-        become enforceable judgments. This judicial integration of the appraisal process
-        further supports the argument that participating in appraisal is not fundamentally
-        different from participating in litigation &mdash; and the clock should pause
-        accordingly.
+        <em>Appalachian</em> also means that appraisal awards are subject to confirmation,
+        vacatur, and correction under CCP &sect;&sect; 1285&ndash;1288. They can be confirmed
+        by a court and become enforceable judgments. This judicial integration of the
+        appraisal process further supports the argument that participating in appraisal is
+        not fundamentally different from participating in litigation &mdash; and the clock
+        should pause accordingly.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -869,10 +874,10 @@ export default function Content() {
         </li>
         <li>
           The argument for tolling rests on <em>Prudential-LMI</em> equitable tolling
-          principles, the <em>Appalachian</em> classification of appraisal as arbitration
-          under the California Arbitration Act, the insurer&apos;s active participation in the
-          appraisal process, and the impracticality of requiring simultaneous litigation and
-          appraisal.
+          principles, the <em>Appalachian</em> doctrine placing appraisal under the
+          procedural framework of the California Arbitration Act, the insurer&apos;s active
+          participation in the appraisal process, and the impracticality of requiring
+          simultaneous litigation and appraisal.
         </li>
         <li>
           The argument against tolling rests on the plain language of Insurance Code &sect; 2071, the

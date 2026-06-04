@@ -87,7 +87,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s appraisal provision is rooted in the same statutory framework &mdash; California Insurance Code Sections 2070 and 2071, which codify the state&apos;s Standard Fire Policy. While California courts have developed their own body of appraisal law (including the Sharma waiver doctrine and the classification of appraisal as contractual arbitration under CCP Sections 1280&ndash;1294.2), the principle is the same: the statutory appraisal provision sets a floor.
+        California&apos;s appraisal provision is rooted in the same statutory framework &mdash; California Insurance Code Sections 2070 and 2071, which codify the state&apos;s Standard Fire Policy. While California courts have developed their own body of appraisal law (including the Sharma waiver doctrine and the placement of appraisal under the procedural framework of the California Arbitration Act, CCP Sections 1280&ndash;1294.2), the principle is the same: the statutory appraisal provision sets a floor.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

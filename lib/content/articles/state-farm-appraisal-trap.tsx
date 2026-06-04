@@ -64,8 +64,11 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Code of Civil Procedure &sect; 1281 <em>et seq.</em> also applies to the
-        appraisal process as a form of contractual arbitration. For a comprehensive overview
+        California has also placed the appraisal process under the procedural framework of
+        the California Arbitration Act (Code of Civil Procedure &sect; 1281 <em>et seq.</em>).
+        Appraisal itself is not arbitration &mdash; it is its own narrower process, limited to
+        determining the amount of loss &mdash; but the Arbitration Act supplies the procedural
+        rules for enforcement, judicial review, umpire disclosures, and vacatur. For a comprehensive overview
         of the appraisal process, see the{' '}
         <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
           complete guide to insurance appraisal in California
