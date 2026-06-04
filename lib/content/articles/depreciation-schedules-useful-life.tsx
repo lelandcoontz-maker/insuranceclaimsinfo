@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
@@ -12,6 +13,15 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California depreciation rules by a Licensed
+          California Public Adjuster. It is not legal advice. California&rsquo;s ACV and
+          depreciation framework is statutory (Cal. Ins. Code &sect; 2051(b)), and depreciation
+          disputes are fact-specific. For legal questions, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         When your insurance company processes a property claim, one of the most consequential
         calculations it performs is the depreciation deduction. This deduction &mdash; the difference
@@ -73,22 +83,26 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code &sect; 2051 is the statute that governs how depreciation is
         calculated on property claims in California. It provides the measure of recovery for actual
-        cash value losses and imposes two critical requirements that carriers routinely ignore.
+        cash value losses and imposes three critical requirements that carriers routinely ignore.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2051(b) defines the measure of actual cash value recovery as &quot;the amount which
-        it would cost to repair, rebuild, or replace the thing lost or injured less a fair and
-        reasonable deduction for physical depreciation based upon its condition at the time of the
-        injury or the policy limit, whichever is less.&quot;
+        For a partial loss to the structure or contents, &sect; 2051(b)(2) defines the measure of
+        actual cash value recovery as &quot;the amount it would cost the insured to repair,
+        rebuild, or replace the damaged or destroyed property, less a fair and reasonable
+        deduction for physical depreciation based upon its condition at the time of the injury
+        or the policy limit, whichever is less.&quot; The same subsection then adds two
+        policyholder-protective limits: a deduction for physical depreciation &quot;shall apply
+        only to components of a structure that are normally subject to repair and replacement
+        during the useful life of that structure,&quot; and &mdash; under the language added by
+        AB 188 (Stats. 2018, ch. 627), effective January 1, 2019 &mdash; &quot;the deduction for
+        physical depreciation shall not include any labor costs that would be incurred to repair,
+        rebuild, or replace the damaged or destroyed property.&quot;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2051(b)(2) further provides that &quot;a deduction for physical depreciation shall
-        apply only to components of a structure that are normally subject to repair and replacement
-        during the useful life of that structure.&quot;
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        These two provisions create a legal framework that is far more favorable to policyholders
-        than most carriers acknowledge. Let us examine each.
+        These three provisions &mdash; condition-based depreciation, the restriction to components
+        normally subject to repair and replacement, and the express prohibition on depreciating
+        labor &mdash; create a legal framework that is far more favorable to policyholders than
+        most carriers acknowledge. Let us examine each.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -390,37 +404,35 @@ export default function Content() {
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California&apos;s Position on Labor Depreciation
+        California&apos;s Position: Labor Depreciation Is Prohibited by Statute
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has not definitively resolved the labor depreciation question through statute
-        or binding appellate precedent specific to first-party property claims. However, Insurance
-        Code &sect; 2051 requires that depreciation be &quot;physical depreciation based upon its
-        condition at the time of the injury.&quot; This language arguably limits depreciation to
-        physical materials that can have a &quot;condition&quot; &mdash; labor is a service, not
-        a physical object. It has no &quot;condition&quot; that degrades with time. The
-        &quot;physical depreciation&quot; language in &sect; 2051 supports a strong argument that
-        labor depreciation is improper in California.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Until a California appellate court or the legislature addresses the issue directly, the
-        question remains technically open, and carriers in California continue to depreciate labor
-        on most claims. But the trend across other states is unmistakable, and the argument against
-        labor depreciation is both logical and increasingly supported by legal authority.
+        California has resolved the labor depreciation question directly through statute. AB 188
+        (Stats. 2018, ch. 627), effective January 1, 2019, amended Insurance Code &sect; 2051(b)(2)
+        to add the following sentence: &quot;The deduction for physical depreciation shall not
+        include any labor costs that would be incurred to repair, rebuild, or replace the damaged
+        or destroyed property.&quot; The result is unambiguous: on a California first-party
+        property claim, the carrier may not depreciate the labor component of a repair or
+        replacement estimate at all. The only labor that may be depreciated is labor already
+        embedded in the manufactured material itself (the intrinsic labor that went into producing
+        a shingle, a length of copper pipe, a window unit) &mdash; not the labor an insured will
+        pay a contractor to install or replace the damaged component.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The dollar impact is significant. Labor commonly represents 40 to 60 percent of a
         dwelling repair estimate. On a $50,000 repair estimate where labor comprises $25,000, a
-        carrier that applies 30 percent depreciation to the full estimate (including labor) withholds
-        $7,500 in labor depreciation alone. On larger claims, improper labor depreciation can cost
-        policyholders $15,000 to $30,000 or more.
+        carrier that applies 30 percent depreciation to the full estimate (including labor)
+        withholds $7,500 in labor depreciation alone. On larger claims, depreciating labor in
+        violation of &sect; 2051(b)(2) can cost policyholders $15,000 to $30,000 or more.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Regardless of the legal uncertainty in California, you should challenge labor depreciation
-        on every claim where it is applied. The argument that labor does not physically deteriorate
-        is intuitive and persuasive. Even in states where the law has not caught up, many carriers
-        will reduce or eliminate labor depreciation when challenged, rather than risk a dispute
-        over an increasingly indefensible position.
+        Despite the clear statutory text, some carriers and their estimating software still apply
+        depreciation to combined material-plus-labor line items, which has the practical effect of
+        depreciating labor. On every California claim, an insured should compare the labor portion
+        of each line item to the depreciation applied and confirm that no portion of the labor
+        cost has been depreciated. Where the carrier&apos;s estimate fails to separate labor from
+        materials, an insured can request the breakout in writing &mdash; and cite
+        &sect; 2051(b)(2) as the basis for that request.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -818,10 +830,12 @@ export default function Content() {
           property&apos;s actual condition.
         </li>
         <li>
-          <strong>Address labor depreciation separately.</strong> If the carrier has
-          depreciated labor, raise this as a distinct issue. Note the trend among states
-          toward prohibiting labor depreciation and argue that labor &mdash; the cost of a
-          worker&apos;s time &mdash; has no physical condition that deteriorates with age.
+          <strong>Address labor depreciation separately.</strong> If the carrier has depreciated
+          labor on a California claim, raise this as a distinct issue and cite Insurance Code
+          &sect; 2051(b)(2) directly: &quot;The deduction for physical depreciation shall not
+          include any labor costs that would be incurred to repair, rebuild, or replace the
+          damaged or destroyed property.&quot; This is a statutory prohibition, not merely a
+          policy argument.
         </li>
         <li>
           <strong>Identify components that should not be depreciated at all.</strong> Separately
@@ -962,9 +976,11 @@ export default function Content() {
           candidates.
         </li>
         <li>
-          Challenge labor depreciation on every claim. The argument that labor does not
-          physically deteriorate is strong and increasingly supported by courts and regulators
-          nationwide.
+          On California claims, labor depreciation is prohibited by statute. Insurance Code
+          &sect; 2051(b)(2) (as amended by AB 188, effective January 1, 2019) provides that
+          the deduction for physical depreciation &quot;shall not include any labor costs that
+          would be incurred to repair, rebuild, or replace the damaged or destroyed property.&quot;
+          Challenge any depreciation calculation that touches the labor portion of a line item.
         </li>
         <li>
           On{' '}
@@ -1001,6 +1017,16 @@ export default function Content() {
         more than those who accept the carrier&apos;s numbers without question. Depreciation
         is negotiable. The useful life assignments that drive it are not set in stone. When the
         numbers do not reflect the reality of your property, push back.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

@@ -330,10 +330,18 @@ export default function Content() {
         10 CCR &sect; 2695.9(f) &mdash; Depreciation Standards
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Depreciation must be &ldquo;discernable, measurable, itemized, and specified as to dollar
-        amount.&rdquo; The regulation also explicitly provides that labor costs shall not be subject
-        to depreciation. This means any depreciation deducted from your ACV payment must be
-        calculated properly &mdash; blanket percentages and depreciated labor are violations. See
+        Section 2695.9(f) requires that depreciation adjustments be &ldquo;discernable, measurable,
+        itemized, and specified as to dollar amount,&rdquo; reflect &ldquo;a measurable difference
+        in market value attributable to the condition and age of the property,&rdquo; and apply
+        &ldquo;only to property normally subject to repair and replacement during the useful life
+        of the property.&rdquo; The companion provision at &sect; 2695.9(f)(1) goes further:
+        &ldquo;Except for the intrinsic labor costs that are included in the cost of manufactured
+        materials or goods, the expense of labor necessary to repair, rebuild or replace covered
+        property is not a component of physical depreciation and shall not be subject to
+        depreciation or betterment.&rdquo; That regulatory prohibition runs parallel to the
+        statutory prohibition in Insurance Code &sect; 2051(b)(2) (added by AB 188, eff. Jan. 1,
+        2019). This means any depreciation deducted from an ACV payment must be calculated
+        properly &mdash; blanket percentages and depreciated labor are violations. See
         our guides on{' '}
         <Link href="/resources/excessive-depreciation" className="text-[#2E74B5] hover:underline">
           excessive depreciation

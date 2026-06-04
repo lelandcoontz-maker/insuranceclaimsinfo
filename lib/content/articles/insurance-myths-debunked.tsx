@@ -1037,7 +1037,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;We depreciate labor&rdquo;</td>
-              <td className="p-3 text-gray-700"><strong>California only:</strong> CIC &sect; 2051.5 &mdash; labor &ldquo;shall not be subject to depreciation.&rdquo; Other states may differ.</td>
+              <td className="p-3 text-gray-700"><strong>California:</strong> CIC &sect; 2051(b)(2) (added by AB 188, eff. 1/1/2019) &mdash; the deduction for physical depreciation &ldquo;shall not include any labor costs that would be incurred to repair, rebuild, or replace the damaged or destroyed property.&rdquo; Other states may differ.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">&ldquo;Earth movement exclusion bars your claim&rdquo;</td>
