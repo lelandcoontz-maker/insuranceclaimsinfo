@@ -413,6 +413,9 @@ export default function Content() {
           insurance coverage disputes to evaluate their specific circumstances.
         </p>
       </CalloutBox>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

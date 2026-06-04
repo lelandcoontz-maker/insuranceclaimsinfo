@@ -818,6 +818,9 @@ export default function Content() {
           <strong>Garvey v. State Farm Fire &amp; Cas. Co. (1989) 48 Cal.3d 395</strong> &mdash; The California Supreme Court decision establishing the efficient proximate cause doctrine for first-party property coverage.
         </li>
       </ul>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

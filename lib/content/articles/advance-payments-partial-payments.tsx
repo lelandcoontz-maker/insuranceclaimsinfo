@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: 'Advance Payments and Partial Payments: Your Right to Money Before the Claim Is Resolved',
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         You have a covered loss. Your home is damaged or destroyed. You need money now &mdash; not
         in three months, not after the carrier has completed its investigation, not after six rounds
@@ -982,6 +991,15 @@ export default function Content() {
           <strong>CDI Bulletin 2025-2</strong> &mdash; California Department of Insurance guidance on wildfire consumer protections and advance payments.
         </li>
       </ul>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

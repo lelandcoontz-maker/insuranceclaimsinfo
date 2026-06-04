@@ -29,7 +29,7 @@
   },
   "acv-rcv": {
     "published": "2026-03-28",
-    "modified": "2026-06-01"
+    "modified": "2026-06-03"
   },
   "adding-family-member-deed-insurance": {
     "published": "2026-05-03",
@@ -185,7 +185,7 @@
   },
   "blanket-vs-scheduled-personal-property": {
     "published": "2026-05-16",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "blanket-vs-specific-insurance": {
     "published": "2026-05-03",
@@ -201,7 +201,7 @@
   },
   "broad-evidence-rule-acv": {
     "published": "2026-05-02",
-    "modified": "2026-05-31"
+    "modified": "2026-06-03"
   },
   "broker-agent-liability": {
     "published": "2026-05-02",
@@ -249,7 +249,7 @@
   },
   "business-personal-property-claims": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "caci-jury-instructions-insurance": {
     "published": "2026-04-08",
@@ -317,7 +317,7 @@
   },
   "cdi-advance-payments": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "cdi-complaint": {
     "published": "2026-03-28",
@@ -325,7 +325,7 @@
   },
   "cdi-contents-without-inventory": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "cdi-flood-mudslide-wildfire": {
     "published": "2026-05-02",
@@ -445,7 +445,7 @@
   },
   "commercial-vs-residential-claims": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "common-xactimate-errors": {
     "published": "2026-05-02",
@@ -485,15 +485,15 @@
   },
   "contents-cleaning-total-loss": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "contents-coverage-gaps": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "contents-inventory-guide": {
     "published": "2026-05-01",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "contingent-business-interruption": {
     "published": "2026-05-02",
@@ -597,7 +597,7 @@
   },
   "depreciation-schedules-useful-life": {
     "published": "2026-05-03",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "depublication-hidden-insurance-law": {
     "published": "2026-05-04",
@@ -749,7 +749,7 @@
   },
   "excessive-depreciation": {
     "published": "2026-04-08",
-    "modified": "2026-06-02"
+    "modified": "2026-06-03"
   },
   "exclusions": {
     "published": "2026-03-28",
@@ -1065,7 +1065,7 @@
   },
   "insurance-myths-debunked": {
     "published": "2026-05-02",
-    "modified": "2026-06-01"
+    "modified": "2026-06-03"
   },
   "insurance-offer-now-what": {
     "published": "2026-05-16",
@@ -1081,7 +1081,7 @@
   },
   "insurer-disclosure-obligations": {
     "published": "2026-05-03",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "insurer-documentation-bad-faith": {
     "published": "2026-05-03",
@@ -1149,11 +1149,11 @@
   },
   "labor-depreciation-debate": {
     "published": "2026-05-03",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "labor-depreciation": {
     "published": "2026-04-04",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "landlord-drug-contamination-claims": {
     "published": "2026-05-19",
@@ -1313,7 +1313,7 @@
   },
   "new-california-insurance-laws-2025-2026": {
     "published": "2026-05-03",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "nfip-sandy-claims-underpayment": {
     "published": "2026-04-30",
@@ -1349,7 +1349,7 @@
   },
   "op-depreciation-california": {
     "published": "2026-05-04",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "open-perils-vs-named-perils": {
     "published": "2026-05-16",
@@ -1401,11 +1401,11 @@
   },
   "personal-property-inventory-guide": {
     "published": "2026-05-16",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "personal-property-special-considerations": {
     "published": "2026-04-08",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "pets-animals-coverage": {
     "published": "2026-05-02",
@@ -1549,7 +1549,7 @@
   },
   "recoverable-depreciation-deadline": {
     "published": "2026-05-02",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "release-trap-insurance-claims": {
     "published": "2026-05-03",
@@ -1573,7 +1573,7 @@
   },
   "replacement-cost-vs-guaranteed": {
     "published": "2026-04-30",
-    "modified": "2026-05-31"
+    "modified": "2026-06-03"
   },
   "reservation-of-rights-letter": {
     "published": "2026-05-03",
@@ -1625,7 +1625,7 @@
   },
   "roof-damage": {
     "published": "2026-04-04",
-    "modified": "2026-05-21"
+    "modified": "2026-06-03"
   },
   "roof-leak-storm-damage": {
     "published": "2026-05-16",
@@ -1650,6 +1650,10 @@
   "salvage-rights": {
     "published": "2026-05-02",
     "modified": "2026-05-21"
+  },
+  "sb495-contents-rule": {
+    "published": "2026-04-04",
+    "modified": "2026-06-03"
   },
   "scheduled-personal-property": {
     "published": "2026-05-01",
@@ -2105,7 +2109,7 @@
   },
   "wildfire-smoke-physical-loss": {
     "published": "2026-05-04",
-    "modified": "2026-06-01"
+    "modified": "2026-06-03"
   },
   "wind-damage-claims": {
     "published": "2026-04-04",

@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Debris removal is the coverage nobody thinks about until they&apos;re staring at a pile of rubble where their home used to be. And by the time they do think about it, the insurance company has already written a lowball estimate that ignores the actual cost of demolition, hauling, dump fees, asbestos abatement, hazmat protocols, and environmental compliance.
       </p>
@@ -368,6 +376,15 @@ export default function Content() {
         <p className="text-gray-600 text-sm mb-4">A licensed Public Adjuster can review your situation and explain your options at no cost.</p>
         <Link href="/contact" className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors">Request a Free Claim Review &rarr;</Link>
       </div>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

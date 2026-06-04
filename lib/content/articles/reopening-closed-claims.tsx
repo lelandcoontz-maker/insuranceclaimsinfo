@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: 'Reopening a Closed Claim: Your Right to Supplement After Settlement',
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your insurance claim was settled. The adjuster closed the file. You deposited the check. And then &mdash; during construction, or weeks later, or months later &mdash; you discovered that the damage was far worse than anyone realized. The contractor opened the wall and found rotted framing. The roofer pulled shingles and found compromised decking. Mold appeared behind the cabinets that looked fine from the outside. The plumber traced a slow leak to damaged supply lines that nobody inspected. The repair that was supposed to cost $35,000 is now going to cost $80,000.
       </p>
@@ -521,6 +530,16 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are dealing with a closed claim and additional damage has been discovered, act now. Document the damage. Notify the carrier. Submit your supplement. And if the carrier refuses to cooperate, engage a public adjuster or attorney who can advocate effectively on your behalf. The fact that the claim was closed does not mean you have lost your rights. It means you need to exercise them.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

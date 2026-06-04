@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowners assume that if part of their house collapses, their insurance will pay for it. That assumption is wrong &mdash; or at least, it is far more complicated than it should be. Collapse is not a standard covered peril in a homeowner&rsquo;s policy. It is excluded as a basic loss, then partially added back as an &ldquo;Additional Coverage&rdquo; with a narrow list of qualifying causes and a definition that has been fought over in courts across the country for decades.
       </p>
@@ -557,6 +565,15 @@ export default function Content() {
           <Link href="/resources/exclusions" className="text-[#2E74B5] underline">Understanding Policy Exclusions</Link>
         </p>
       </CalloutBox>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

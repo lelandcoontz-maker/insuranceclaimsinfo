@@ -230,6 +230,15 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The extended period of indemnity endorsement does not prevent the customer loss that occurs during a closure. It cannot bring back the regulars who found a new favorite restaurant, the hotel guests who booked elsewhere, or the clients who engaged other professionals. What it does is buy the business time &mdash; time to market, to rebuild, to re-earn the trust and loyalty that were disrupted by the loss. Without it, the business must fund that recovery period from its own reserves, and for most businesses, those reserves are not deep enough. The endorsement is a small investment in the most critical phase of any business recovery: the months after the doors reopen, when the real fight to survive begins.
       </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

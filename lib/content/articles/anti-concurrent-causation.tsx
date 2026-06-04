@@ -412,6 +412,9 @@ export default function Content() {
       <CalloutBox variant="legal" title="Important Notice">
         <p>This article is provided for general educational purposes only and does not constitute legal advice. Insurance policies, regulations, and case law can vary significantly based on individual circumstances. Consult a licensed attorney for advice about your specific situation.</p>
       </CalloutBox>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         When most Californians hear &ldquo;stucco,&rdquo; they picture the hard, cement-based exterior on nearly every home built in the state since the 1920s. That is traditional stucco &mdash; Portland cement plaster applied in three coats over wire lath. It is the dominant exterior cladding on California residential construction, and it has been for a century.
       </p>
@@ -365,6 +373,16 @@ export default function Content() {
         <li><Link href="/resources/foundation-damage" className="text-[#2E74B5] underline">Foundation Damage Insurance Claims</Link> &mdash; Earth movement, efficient proximate cause, and foundation repair methods</li>
         <li><Link href="/resources/matching" className="text-[#2E74B5] underline">Matching: Achieving a Reasonable Uniform Appearance</Link> &mdash; Why partial repairs that create visible mismatches require broader replacement</li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

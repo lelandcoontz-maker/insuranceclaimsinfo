@@ -275,6 +275,16 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Running a restaurant is hard enough without the added devastation of an uninsured or underinsured loss. The standard commercial property policy was designed for generic commercial operations, and it leaves critical gaps for the specific exposures that restaurants face every day. Closing those gaps requires a deliberate, informed approach to coverage selection &mdash; not the default policy your broker issues when you sign the lease. Review your coverage, understand your exposures, and make sure that when the inevitable loss occurs, your insurance program is ready for it.
       </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

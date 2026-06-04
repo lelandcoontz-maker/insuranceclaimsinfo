@@ -409,6 +409,9 @@ export default function Content() {
         article are based on real events with identifying details changed. This article is for
         informational purposes and does not constitute legal advice.
       </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

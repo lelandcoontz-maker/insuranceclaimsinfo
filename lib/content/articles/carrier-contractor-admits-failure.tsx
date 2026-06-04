@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: "When the Carrier's Own Contractor Says It Can't Be Done: How Admissions of Failure Change Everything",
@@ -10,6 +11,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your insurance company sends a contractor to your home. Not your contractor&mdash;theirs. A preferred vendor, hand-selected from the carrier&apos;s own network, dispatched to assess the damage and perform repairs within the scope the carrier has approved. The contractor walks the property. Examines the roof, the siding, the flooring. And then says something the carrier never wanted you to hear.
       </p>
@@ -384,6 +393,15 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         The law does not require policyholders to accept repairs that their own carrier&apos;s contractor says will not work. The policy promises restoration to pre-loss condition. When the carrier&apos;s own representative confirms that the carrier&apos;s payment is insufficient to achieve that result, the policyholder is entitled to full payment&mdash;and the carrier&apos;s refusal to provide it is indefensible.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

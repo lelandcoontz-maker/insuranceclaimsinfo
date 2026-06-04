@@ -194,6 +194,15 @@ export default function Content() {
           NAIC Unfair Property/Casualty Claims Settlement Practices Model Regulation, Section 9.A(2); Iowa Admin. Code r. 191-15.44; Conn. Gen. Stat. Section 38a-316e; Fla. Stat. Section 626.9744(2); <em>Cedar Bluff Townhome Condo. Ass&apos;n v. American Family Mut. Ins. Co.</em>, 857 N.W.2d 290 (Minn. 2014); <em>Windridge of Naperville Condo. Ass&apos;n v. Philadelphia Indem. Ins. Co.</em>, 932 F.3d 1035 (7th Cir. 2019).
         </p>
       </CalloutBox>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

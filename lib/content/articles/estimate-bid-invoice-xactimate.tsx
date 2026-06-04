@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         A contractor walks through your fire-damaged home, opens Xactimate on a tablet, photographs every room, measures every wall, and produces a forty-page document listing every line item needed to restore your property. The total is $287,000. You sign a contract with that contractor to perform the work at that price. You submit the document to your insurance company.
       </p>
@@ -146,6 +154,15 @@ export default function Content() {
           California Insurance Code Section 790.03(h); 10 CCR 2695.7; 10 CCR 2695.9; CACI 2201; Xactware EULA, Section 12.3; UCC Section 2-205; Gruenberg v. Aetna Insurance Co. (1973) 9 Cal.3d 566; <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809; <em>Quelimane Co. v. Stewart Title Guaranty Co.</em> (1998) 19 Cal.4th 26.
         </p>
       </CalloutBox>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

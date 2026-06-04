@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         You find a property you want to buy. The seller has a mortgage at 3.25% &mdash; a rate that
         no longer exists in today&rsquo;s market. The seller is willing to walk away and let you take
@@ -479,6 +487,16 @@ export default function Content() {
         <li><em>Aetna Insurance Co. v. King</em>, 265 So.2d 716 (Fla. 1st DCA 1972)</li>
         <li><em>Fluor Corp. v. Superior Court</em>, 61 Cal.4th 1175 (2015)</li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

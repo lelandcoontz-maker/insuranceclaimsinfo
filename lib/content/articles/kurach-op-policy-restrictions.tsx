@@ -268,6 +268,15 @@ export default function Content() {
           <strong>Merlin Law Group / Reed Smith LLP</strong> &mdash; Co-authored the United Policyholders amicus brief in Kurach; Chip Merlin publicly characterized the ruling and its consequences for Pennsylvania policyholders.
         </li>
       </ul>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

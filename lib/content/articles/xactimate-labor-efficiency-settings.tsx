@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your insurance company just sent you an estimate for storm damage repairs to your home. The estimate is forty-three pages of codes, quantities, and prices that you have no way to independently verify. But buried inside that estimate &mdash; not in the line items themselves, but in the global settings that control how every line item is priced &mdash; is a single selection that may have reduced the entire estimate by fifteen to thirty percent before a single line item was ever entered.
       </p>
@@ -171,6 +179,15 @@ export default function Content() {
           <strong>Verisk / Xactimate documentation</strong> &mdash; Verisk is the publisher of Xactimate; its published materials describe the labor-efficiency settings and their intended use.
         </li>
       </ul>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

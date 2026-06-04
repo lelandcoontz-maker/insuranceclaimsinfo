@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         You just received the insurance company&apos;s estimate for your fire-damaged kitchen. The adjuster was polite, spent forty-five minutes in your home, and told you the company would &quot;take care of everything.&quot; Two weeks later, an envelope arrives. Inside is a dense, multi-page document full of codes, line items, and numbers that might as well be written in another language. The bottom line says $38,000. Your contractor says the job is $67,000. The gap between those two numbers is not a rounding error &mdash; it is the difference between a proper repair and a half-finished project that leaves your family in a home that was never fully restored.
       </p>
@@ -292,6 +300,15 @@ export default function Content() {
           Cal. Ins. Code Sec. 2051 (Measure of indemnity); Cal. Ins. Code Sec. 790.03(h) (Unfair Claims Settlement Practices); 10 CCR Sec. 2695.7 and 2695.9 (Fair Claims Settlement Practices); <em>Egan v. Mutual of Omaha Ins. Co.</em>, 24 Cal.3d 809 (1979); Xactware EULA, Section 12.3; Verisk White Papers on Overhead and Profit, Labor Efficiencies Design, and Pricing Methodology.
         </p>
       </CalloutBox>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: "Xactimate Price List Dates: Why the Date on Your Estimate Matters More Than You Think",
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>A detailed guide for policyholders, public adjusters, and attorneys on how the price list date in an Xactimate estimate controls every dollar in the repair cost &mdash; and what happens when the carrier locks that date to a month that no longer reflects what repairs actually cost.</em>
       </p>
@@ -439,6 +448,15 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For a complete guide to identifying and challenging every type of Xactimate error, see{' '}
         <Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] underline">How to Challenge an Xactimate Estimate</Link>.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

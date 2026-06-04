@@ -13,6 +13,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Few phrases in insurance claims create more anxiety than &quot;your claim has been referred to our Special Investigations Unit.&quot; The words carry an unmistakable implication: the insurance company suspects something is wrong. For policyholders who have suffered a legitimate loss and are already dealing with the stress of property damage, displacement, or financial hardship, hearing that their claim is now under investigation by SIU can feel like an accusation &mdash; as though the company they have been paying premiums to for years has decided they are a criminal.
       </p>
@@ -608,6 +616,16 @@ export default function Content() {
           answer: "No fixed timeline. Some resolve in weeks; others drag on for months or years. The SIU investigation does not exempt the carrier from California's Fair Claims Settlement Practices Regulations (10 CCR §2695.7) deadlines. The duration depends on claim complexity, scope of investigation, carrier resources, and — candidly — the carrier's motivation to resolve promptly. The investigation itself is often used as pressure: every week without payment is leverage on a financially stressed policyholder.",
         },
       ]} />
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

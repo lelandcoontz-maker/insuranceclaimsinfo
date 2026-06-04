@@ -464,6 +464,15 @@ export default function Content() {
           answer: "Respond to all insurer requests promptly — don't give the insurer a legitimate reason to claim the delay is on your side. Submit documentation proactively rather than waiting to be asked. Put everything in writing and follow phone calls with confirming emails. When the insurer misses a 10 CCR §2695.7 deadline, note it in writing — a polite but firm letter citing the specific regulation sends a clear signal you're paying attention. Request written status updates every 30 days as the regulation requires. File a CDI complaint if regulatory deadlines have been violated. Hire a professional — claims represented by a Public Adjuster or attorney tend to move faster because insurers know professionals will document delays and pursue remedies.",
         },
       ]} />
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

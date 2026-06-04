@@ -555,6 +555,9 @@ export default function Content() {
           licensed insurance professional or attorney for advice specific to your situation.
         </p>
       </CalloutBox>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

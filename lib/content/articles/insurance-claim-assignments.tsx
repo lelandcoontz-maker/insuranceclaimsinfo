@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: 'Assignment of Benefits, Assignment of Claim, Assignment of Rights, and Assignment of Policy: Understanding the Differences',
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         The word &quot;assignment&quot; appears throughout the insurance claims process in ways
         that confuse policyholders, contractors, and even some professionals who should know
@@ -1148,6 +1157,9 @@ export default function Content() {
         on individual circumstances. Consult a licensed attorney for advice about your specific
         situation. If you need a referral to an attorney experienced in insurance coverage
         disputes, a licensed Public Adjuster may be able to assist.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

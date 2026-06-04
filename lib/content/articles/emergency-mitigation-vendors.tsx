@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: "Emergency Mitigation Vendors: When the First Responder Works for the Insurance Company",
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         A pipe bursts at 2:00 a.m. Water is spreading across the first floor of the house. The
         policyholder calls the insurance company&apos;s 24-hour claims line, and within the hour, a
@@ -925,6 +934,15 @@ export default function Content() {
         as a routine service but as a critical juncture in their claim &mdash; are better
         positioned to ensure that the claim reflects the full scope of their loss and that the
         documentation supports, rather than undermines, their right to a fair recovery.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

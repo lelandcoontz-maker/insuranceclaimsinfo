@@ -252,6 +252,15 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Construction insurance is not a single policy &mdash; it is a system of interlocking coverages, each designed to address a specific slice of the risk. The gaps between those slices are where contractors lose money, lose projects, and lose businesses. Understanding how builder&rsquo;s risk, CGL, inland marine, pollution liability, and business income coverages interact &mdash; and where they don&rsquo;t &mdash; is the difference between a construction company that survives a major loss and one that doesn&rsquo;t. Review your program, close the gaps, and make sure your insurance is built as carefully as the structures you build.
       </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

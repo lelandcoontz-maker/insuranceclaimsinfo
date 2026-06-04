@@ -1436,13 +1436,13 @@
   },
   "labor-depreciation-debate": {
     "title": "Labor Depreciation: Can Labor ",
-    "description": "A comprehensive analysis of the labor depreciation debate in insurance claims. Can a service physically deteriorate? States are increasingly saying no. Learn the case law, the arguments, California's position, and how to challenge labor depreciation on your claim.",
-    "summary": "Can a service physically wear out? A growing number of states say no, so labor cannot be depreciated, only materials can. Learn the case law and arguments, California's position, and how to challenge labor depreciation that wrongly cuts your payment."
+    "description": "A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: Cal. Ins. Code §2051(b)(2) (added by AB 188, eff. 1/1/2019) and 10 CCR §2695.9(f)(1) both prohibit labor depreciation. Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.",
+    "summary": "Can a service physically wear out? In California, both the Insurance Code (§2051(b)(2)) and the Fair Claims regulations (10 CCR §2695.9(f)(1)) prohibit depreciating labor. The only narrow exception is intrinsic labor in manufactured materials. Challenge labor depreciation on every California claim where it appears."
   },
   "labor-depreciation": {
     "title": "Labor Depreciation: Why Your Insurance Company Can't Depreciate Work Costs",
-    "description": "A growing number of states have ruled that insurance companies cannot depreciate labor. Learn what labor depreciation is, which states prohibit it, and how to fight it.",
-    "summary": "Many states now hold that insurers cannot depreciate labor, only materials, because work itself does not physically deteriorate. Know whether your state prohibits labor depreciation and challenge it when a carrier applies it to reduce your payout."
+    "description": "In California, labor depreciation is prohibited by both statute (Cal. Ins. Code §2051(b)(2)) and regulation (10 CCR §2695.9(f)(1)). Learn what labor depreciation is, the California prohibition, and how to challenge it on your claim.",
+    "summary": "California prohibits labor depreciation by statute and by regulation. Cal. Ins. Code §2051(b)(2) (added by AB 188, eff. 1/1/2019) and 10 CCR §2695.9(f)(1) both bar carriers from depreciating the labor portion of a repair or replacement estimate. Challenge it on every claim where it appears."
   },
   "landlord-drug-contamination-claims": {
     "title": "Drug Contamination Claims for California Landlords: Meth Labs, Fentanyl, Grow Operations, and the Insurance Path to Recovery",

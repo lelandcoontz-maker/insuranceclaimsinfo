@@ -423,6 +423,9 @@ export default function Content() {
         jurisdictional considerations. Consult a licensed public adjuster or attorney for guidance
         on your specific situation.
       </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

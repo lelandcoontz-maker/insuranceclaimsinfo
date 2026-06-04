@@ -224,6 +224,16 @@ export default function Content() {
         <li><Link href="/resources/esx-file-rights-xactimate" className="text-[#2E74B5] underline">ESX File Rights: Getting the Native Xactimate File</Link></li>
         <li><Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] underline">How to Challenge a Xactimate Estimate</Link></li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

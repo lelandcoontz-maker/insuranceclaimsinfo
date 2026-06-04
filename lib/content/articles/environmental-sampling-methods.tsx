@@ -503,8 +503,7 @@ export default function Content() {
           professional for actual sampling work on your property.
         </p>
         <p className="mt-2">
-          <strong>Author:</strong> Leland Coontz III, Licensed Public Adjuster, CA License
-          #2B53445
+          <strong>Author:</strong> Leland Coontz III, Licensed Public Adjuster, CA License #2B53445
         </p>
       </CalloutBox>
     </>

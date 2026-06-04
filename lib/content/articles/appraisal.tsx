@@ -13,6 +13,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       {/* Lead capture — top of page */}
       <div className="bg-[#1F3964] text-white rounded-xl p-6 mb-8">
         <h2 className="text-xl font-bold mb-2">Do You Have an Insurance Appraisal — in California or Another State?</h2>

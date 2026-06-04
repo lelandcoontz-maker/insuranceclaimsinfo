@@ -652,6 +652,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4 mt-8 text-sm italic">
         Written by Leland Coontz, Licensed Public Adjuster, California Department of Insurance.
       </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

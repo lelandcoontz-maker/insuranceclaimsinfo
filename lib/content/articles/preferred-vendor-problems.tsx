@@ -387,6 +387,9 @@ export default function Content() {
         secondary damage caused by the insurer&apos;s preferred vendor&apos;s incomplete work,
         consult with a licensed attorney or Public Adjuster in your jurisdiction.
       </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

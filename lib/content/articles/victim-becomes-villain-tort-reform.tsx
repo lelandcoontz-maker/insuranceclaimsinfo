@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Everyone knows the story of the woman who spilled McDonald&rsquo;s coffee in her lap and won
         millions. It is one of the most famous lawsuits in American history, a shorthand for
@@ -495,6 +503,15 @@ export default function Content() {
         <li><em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809</li>
         <li><em>Liebeck v. McDonald&rsquo;s Restaurants</em> (1994) No. D-202 CV-93-02419 (N.M. Dist. Ct.)</li>
       </ul>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

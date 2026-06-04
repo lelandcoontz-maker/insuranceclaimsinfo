@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: 'How Insurance Companies Use Time as Their Most Powerful Weapon',
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Imagine this: it is month nine of your property insurance claim. You and your family have been living in a rental house since the fire, and the Additional Living Expenses coverage that pays for that rental is running low. Your adjuster has told you that you have approximately ninety days left before the depreciation holdback deadline passes &mdash; meaning if you do not complete your repairs by then, you lose tens of thousands of dollars permanently. The carrier&apos;s latest offer is thirty percent below what your contractor says the repairs will actually cost. You know the offer is too low. Your contractor knows it is too low. But you are exhausted, your children have changed schools twice, your spouse is asking when this will all be over, and you are starting to wonder whether the difference between what the carrier is offering and what the repairs actually cost is worth another six months of fighting.
       </p>
@@ -483,6 +492,9 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>This article is for informational purposes only and does not constitute legal advice. Policyholders facing disputed insurance claims should consult with a licensed public adjuster or an attorney experienced in insurance coverage law to evaluate their specific circumstances.</em>
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

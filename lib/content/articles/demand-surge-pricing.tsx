@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: "Demand Surge: Why Post-Catastrophe Pricing Changes Everything in Your Insurance Claim",
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>A comprehensive guide for policyholders, public adjusters, and attorneys on demand surge &mdash; the dramatic spike in construction costs that follows every major catastrophe &mdash; and why insurance companies owe the actual post-event cost of repairs, not the price that existed the day before the disaster.</em>
       </p>
@@ -574,6 +583,15 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         For more on the tools and techniques involved in construction cost disputes, explore our detailed guides on <Link href="/resources/xactimate-price-list-dates" className="text-[#2E74B5] underline">Xactimate price list dates</Link>, <Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] underline">how to challenge an Xactimate estimate</Link>, <Link href="/resources/three-bids-myth" className="text-[#2E74B5] underline">the three bids myth</Link>, <Link href="/resources/sub-bids-vs-xactimate-pricing" className="text-[#2E74B5] underline">sub-bids vs. Xactimate pricing</Link>, <Link href="/resources/construction-timeline-disputes-ale" className="text-[#2E74B5] underline">construction timeline disputes and ALE</Link>, and <Link href="/resources/replacement-cost-vs-guaranteed" className="text-[#2E74B5] underline">replacement cost vs. guaranteed replacement cost</Link>.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

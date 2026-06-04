@@ -207,6 +207,15 @@ export default function Content() {
         <li><Link href="/resources/xactimate-pricing-user-responsibility" className="text-[#2E74B5] underline">When Xactimate Estimates Are Low, Blame the User &mdash; Not the Software</Link></li>
         <li><Link href="/resources/sub-bids-vs-xactimate-pricing" className="text-[#2E74B5] underline">When a Contractor&rsquo;s Bid Overrides Xactimate</Link></li>
       </ul>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

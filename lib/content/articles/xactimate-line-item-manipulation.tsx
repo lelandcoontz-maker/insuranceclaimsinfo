@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: 'Xactimate Line Item Manipulation: How "Included" Makes Covered Items Disappear',
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>A detailed guide for policyholders, public adjusters, and attorneys on how Xactimate line items can be manipulated to reduce claim payments &mdash; and how to use Verisk&apos;s own documentation to identify and challenge every variation of this practice.</em>
       </p>
@@ -455,6 +464,15 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Your insurance policy promises to make you whole. That promise is fulfilled &mdash; or broken &mdash; one line item at a time.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

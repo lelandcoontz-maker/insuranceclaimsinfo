@@ -399,6 +399,16 @@ export default function Content() {
         <li>MWL Law, &ldquo;General Contractor Overhead and Profit in First-Party Claims.&rdquo; <a href="https://www.mwl-law.com/general-contractor-overhead-and-profit-first-party-claims/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Link</a></li>
         <li>Carlton Fields, &ldquo;In Overhead and Profit Class Actions, The Third Trade&rsquo;s No Longer The Charm.&rdquo; <a href="https://propertycasualtyfocus.com/overhead-profit-class-actions-third-trades-no-longer-charm/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Link</a></li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

@@ -238,6 +238,15 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A professional services firm&rsquo;s most valuable asset walks out the door every evening &mdash; its people and the client relationships they maintain. But the infrastructure that supports those relationships &mdash; the files, the data, the specialized equipment, the office itself &mdash; is what allows the firm to deliver its expertise. When that infrastructure is destroyed, the firm does not just lose property. It loses time, it loses clients, and it loses revenue that may take years to rebuild. The standard commercial property policy was not designed for this reality. Closing the gaps requires a deliberate, informed approach to coverage selection that accounts for the unique way professional services firms generate revenue and serve their clients.
       </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

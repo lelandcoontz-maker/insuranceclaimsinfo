@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         A tree crashes through your roof at 2 a.m. during a windstorm. A dead eucalyptus limb
         drops onto your fence and crushes the gate. A neighbor&rsquo;s pine topples across your
@@ -406,6 +414,16 @@ export default function Content() {
         requires expertise to identify, scope, and price. What the carrier calls a $12,000 roof
         patch may be a $60,000 structural repair once hidden damage is identified. Getting the
         scope right from the beginning is far easier than fighting to reopen a settled claim.
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

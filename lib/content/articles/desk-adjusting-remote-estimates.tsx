@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: 'Desk Adjusting: When Your Insurance Company Writes an Estimate Without Seeing the Damage',
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Imagine hiring a doctor who diagnoses you by looking at a photograph someone else took of
         your symptoms. No examination. No questions. No stethoscope. Just a photo and a billing
@@ -920,6 +929,15 @@ export default function Content() {
         The carrier chose to write your estimate from a desk. You do not have to accept it from
         that same distance. Get the facts. Get them documented. And hold the carrier to the standard
         its policy &mdash; and the law &mdash; requires.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )

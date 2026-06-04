@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your home sustains fire damage. The repair requires a roofer, an electrician, a plumber, a drywall contractor, and a painter. No single tradesperson can handle this job alone &mdash; it requires a general contractor to coordinate the work, manage the schedule, pull permits, and ensure the repairs meet code.
       </p>
@@ -310,6 +318,16 @@ export default function Content() {
           <strong>United Policyholders</strong> &mdash; Consumer-advocacy resources on overhead and profit and the three-trade rule (uphelp.org).
         </li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
