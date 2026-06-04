@@ -105,13 +105,13 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="California Requires Payment for Consequential Damages">
         <p>
-          Under 10 CCR &sect; 2695.9(d), the insurer must pay for &ldquo;the reasonable cost to
-          repair, rebuild, or replace the thing lost or damaged&rdquo; — which includes consequential
-          damages. The regulations also require that the insurer pay for{' '}
+          Under 10 CCR &sect; 2695.9(a)(1), &ldquo;any consequential physical damage incurred
+          in making the repair or replacement not otherwise excluded by the policy shall be
+          included in the loss.&rdquo; The regulation reaches{' '}
           <strong>undamaged items that are unavoidably damaged during the repair of damaged
-          items</strong>. If removing a baseboard to dry the wall behind it damages the baseboard
-          (which it almost always does — MDF baseboards rarely survive removal intact), the
-          replacement is a consequential cost of the covered repair.
+          items</strong>. If removing a baseboard to dry the wall behind it damages the
+          baseboard (which it almost always does &mdash; MDF baseboards rarely survive removal
+          intact), the replacement is a consequential cost of the covered repair.
         </p>
       </CalloutBox>
 
