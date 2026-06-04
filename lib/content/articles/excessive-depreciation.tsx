@@ -12,6 +12,15 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California depreciation rules by a Licensed
+          California Public Adjuster. It is not legal advice. California&rsquo;s ACV framework
+          is statutory (Cal. Ins. Code &sect; 2051(b)) and regulatory (10 CCR &sect; 2695.9(f)).
+          For legal questions, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Depreciation is the single largest deduction on most insurance claim payments, and it is
         also the area where insurance companies make the most &ldquo;mistakes&rdquo; &mdash; almost
@@ -31,11 +40,12 @@ export default function Content() {
         What Depreciation Is Supposed to Be
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect; 2051, actual cash value (ACV) is defined as the
-        cost to repair, rebuild, or replace the damaged property, less &ldquo;a fair and reasonable
-        deduction for physical depreciation based upon its condition at the time of the
-        loss.&rdquo; That statutory language contains two critical limitations that insurers
-        routinely ignore:
+        Under California Insurance Code &sect; 2051(b)(2), the measure of actual cash value
+        (ACV) recovery for a partial loss to the structure or contents is &ldquo;the amount it
+        would cost the insured to repair, rebuild, or replace the damaged or destroyed property,
+        less a fair and reasonable deduction for physical depreciation based upon its condition
+        at the time of the injury or the policy limit, whichever is less.&rdquo; That statutory
+        language contains three critical limitations that insurers routinely ignore:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -43,8 +53,15 @@ export default function Content() {
           produces the lowest payment.
         </li>
         <li>
-          It must be based on <strong>physical depreciation</strong> &mdash; meaning actual
-          physical deterioration, not abstract age-based formulas.
+          It must be based on <strong>physical depreciation</strong> based on actual
+          <strong> condition at the time of the injury</strong> &mdash; not abstract age-based
+          formulas.
+        </li>
+        <li>
+          The deduction &ldquo;shall not include any labor costs that would be incurred to
+          repair, rebuild, or replace the damaged or destroyed property&rdquo; (added by AB
+          188, Stats. 2018, ch. 627, eff. 1/1/2019) &mdash; depreciating labor is prohibited
+          by statute.
         </li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -131,18 +148,29 @@ export default function Content() {
         current market rates, and it does not physically deteriorate over time.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A growing body of case law across multiple states &mdash; including <em>Shelter Mutual
-        Insurance Co. v. Goodner</em> (Arkansas), <em>Hicks v. State Farm</em> (Kentucky), and
-        <em> Redlin v. Grinnell Mutual</em> (Oklahoma) &mdash; has held that depreciating labor
-        is improper. In California, the regulatory requirement that depreciation be based on the
-        &ldquo;condition&rdquo; of the property supports the same conclusion: labor has no
-        &ldquo;condition&rdquo; because it is not a physical object.
+        In California, the rule is not just analytical &mdash; it is written into both the
+        statute and the Fair Claims regulations. Cal. Ins. Code &sect; 2051(b)(2) (added by
+        AB 188, eff. 1/1/2019) provides: &ldquo;The deduction for physical depreciation shall
+        not include any labor costs that would be incurred to repair, rebuild, or replace the
+        damaged or destroyed property.&rdquo; 10 CCR &sect; 2695.9(f)(1) provides in parallel:
+        &ldquo;Except for the intrinsic labor costs that are included in the cost of
+        manufactured materials or goods, the expense of labor necessary to repair, rebuild or
+        replace covered property is not a component of physical depreciation and shall not be
+        subject to depreciation or betterment.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Despite this, many carriers still apply depreciation to the entire estimate &mdash;
-        materials and labor together &mdash; using a single blanket percentage. When labor
-        represents 40&ndash;50% of a repair estimate, depreciating it can cost the policyholder
-        thousands of dollars. For a deeper discussion, see our article on{' '}
+        Out-of-state courts &mdash; including <em>Shelter Mutual Insurance Co. v. Goodner</em>
+        {' '}(Arkansas), <em>Hicks v. State Farm</em> (Kentucky), and <em>Redlin v. Grinnell
+        Mutual</em> (Oklahoma) &mdash; reached the same conclusion through case law. California
+        skipped the case-law route by writing the prohibition directly into the code.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Despite the clear statutory and regulatory text, many carriers still apply depreciation
+        to the entire estimate &mdash; materials and labor together &mdash; using a single
+        blanket percentage. When labor represents 40&ndash;50% of a repair estimate,
+        depreciating it can cost the policyholder thousands of dollars and is a direct violation
+        of both &sect; 2051(b)(2) and &sect; 2695.9(f)(1). For a deeper discussion, see our
+        article on{' '}
         <Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">
           labor depreciation
         </Link>.
@@ -217,7 +245,7 @@ export default function Content() {
         not insurance adjusters, not contractors, and not most Public Adjusters.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Code of Regulations, Title 10, Section 2695.9(d), when repaired or
+        Under California Code of Regulations, Title 10, Section 2695.9(a)(2), when repaired or
         replaced items do not match adjacent undamaged areas in quality, color, or size, the
         insurer must pay for whatever is necessary to achieve a <strong>reasonable and uniform
         appearance</strong>. This is the{' '}
@@ -412,7 +440,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Recovering the depreciation holdback is not automatic. The policyholder must complete (or
         in some policies, incur) the repairs within a specified time period, then submit
-        documentation to prove it. Under California Insurance Code &sect; 2051.5(b), the
+        documentation to prove it. Under California Insurance Code &sect; 2051.5(b)(1), the
         statutory minimum is 12 months from the date the ACV payment is made &mdash; but the
         policy may provide a longer period. If the policyholder misses the deadline or fails to
         submit adequate documentation, the holdback is forfeited.
@@ -423,15 +451,15 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California has expanded the time policyholders have to rebuild and collect the holdback,
-        particularly after declared disasters. Under &sect; 2051.5, the insurer must grant a
-        reasonable extension if the insured, acting in good faith and with reasonable diligence,
-        encounters a delay in rebuilding that is beyond the insured&rsquo;s control &mdash;
-        including delays caused by contractor shortages, permit backlogs, or community-wide
-        rebuilding efforts. For losses related to a state of emergency, California law generally
-        provides a minimum rebuild period of at least <strong>36 months</strong> (and, for some
-        disaster events, longer windows enacted by the Legislature). Mark the deadline in your
-        calendar, but also document every delay you encounter so you can justify an extension if
-        you need one.
+        particularly after declared disasters. For losses related to a declared state of
+        emergency, &sect; 2051.5(b)(1) (as amended by AB 1800 in 2018) sets the statutory
+        minimum at <strong>36 months</strong> from the date the first ACV payment is made,
+        with additional six-month extensions available for good cause when the insured, acting
+        in good faith and with reasonable diligence, encounters delays beyond their control
+        &mdash; including delays caused by contractor shortages, permit backlogs, or community-
+        wide rebuilding efforts. Some disaster events have triggered longer windows enacted by
+        the Legislature for specific catastrophes. Mark the deadline in your calendar, but also
+        document every delay you encounter so you can justify an extension if you need one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your insurer is refusing to grant a reasonable extension after a declared disaster,
@@ -472,54 +500,73 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Statutes</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Insurance Code &sect; 2051</strong> &mdash; Defines ACV as replacement cost
-          less &ldquo;a fair and reasonable deduction for physical depreciation based upon its
-          condition at the time of the loss.&rdquo; Establishes that depreciation must be fair,
-          reasonable, and condition-based.
+          <strong>Insurance Code &sect; 2051(b)(2)</strong> &mdash; For partial losses to the
+          structure or contents, defines ACV as the amount to repair, rebuild, or replace the
+          damaged or destroyed property less a fair and reasonable deduction for physical
+          depreciation based on its condition at the time of the injury. Limits depreciation
+          to components &ldquo;normally subject to repair and replacement during the useful
+          life of that structure,&rdquo; and (after AB 188, Stats. 2018, ch. 627, eff. 1/1/2019)
+          expressly prohibits depreciating labor.
+        </li>
+        <li>
+          <strong>Insurance Code &sect; 2051(b)(1)</strong> &mdash; For total losses, defines
+          ACV as the policy limit or fair market value, whichever is less.
         </li>
         <li>
           <strong>Insurance Code &sect; 2051.5</strong> &mdash; Governs replacement cost
-          recovery, including the timeline for collecting the holdback and the insurer&rsquo;s
-          obligation to notify the policyholder of the holdback provisions.
+          recovery, including the 12-month minimum holdback collection period
+          (&sect; 2051.5(b)(1)) extended to 36 months for state-of-emergency losses (per AB
+          1800, 2018).
         </li>
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Regulations</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>10 CCR &sect; 2695.9(f)</strong> &mdash; Requires that the insurer&rsquo;s
-          valuation of damaged property consider the property&rsquo;s condition. Reinforces the
-          condition-based depreciation requirement.
+          <strong>10 CCR &sect; 2695.9(f)</strong> &mdash; Requires that any adjustment for
+          betterment, depreciation, or salvage be &ldquo;discernable, measurable, itemized, and
+          specified as to dollar amount,&rdquo; reflect &ldquo;a measurable difference in
+          market value attributable to the condition and age of the property,&rdquo; and apply
+          only to property &ldquo;normally subject to repair and replacement during the useful
+          life of the property.&rdquo;
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.9(d)</strong> &mdash; The matching regulation. Requires
-          payment for achieving a reasonable uniform appearance when replaced items do not match
-          adjacent undamaged areas. The depreciation implication is that undamaged items replaced
-          solely for matching purposes have not deteriorated and should not be depreciated.
+          <strong>10 CCR &sect; 2695.9(f)(1)</strong> &mdash; Expressly prohibits labor
+          depreciation: &ldquo;the expense of labor necessary to repair, rebuild or replace
+          covered property is not a component of physical depreciation and shall not be subject
+          to depreciation or betterment&rdquo; (except for intrinsic labor in manufactured
+          materials).
+        </li>
+        <li>
+          <strong>10 CCR &sect; 2695.9(a)(2)</strong> &mdash; The matching regulation:
+          &ldquo;When a loss requires replacement of items and the replaced items do not match
+          in quality, color or size, the insurer shall replace all items in the damaged area so
+          as to conform to a reasonably uniform appearance.&rdquo; The depreciation implication
+          is that undamaged items replaced solely for matching purposes have not deteriorated
+          and should not be depreciated.
         </li>
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Key Case Law</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong><em>Doan v. State Farm General Ins. Co.</em></strong> &mdash;
-          California appellate court held that depreciation must be based on condition, not
-          merely age. The insurer cannot use a mechanical formula without considering the actual
-          state of the property.
+          <strong><em>Doan v. State Farm General Ins. Co.</em></strong> (2011) 195 Cal.App.4th
+          1082 &mdash; California appellate court held that depreciation must be based on
+          condition, not merely age. The insurer cannot use a mechanical formula without
+          considering the actual state of the property.
         </li>
         <li>
           <strong><em>Cheeks v. California FAIR Plan Ass&rsquo;n</em></strong> (1998) 61
-          Cal.App.4th 423 &mdash; Historical interest only. <em>Cheeks</em> applied a
-          fair-market-value / broad-evidence approach to total losses, which the California
-          Legislature subsequently <strong>superseded</strong> by amending Insurance Code
-          &sect; 2051(b) to define ACV as replacement cost less a fair and reasonable
-          deduction for physical depreciation. The amendment (later strengthened by SB 917,
-          effective 1/1/2020) now governs depreciation methodology for both total and
-          partial losses in California.
+          Cal.App.4th 423 &mdash; Historical interest only. <em>Cheeks</em> applied a broad-
+          evidence approach to total losses, which the California Legislature subsequently
+          <strong> superseded</strong> by AB 188 (Stats. 2019, ch. 59), effective January 1,
+          2020, which amended &sect; 2051(b) to require RC-less-depreciation methodology for
+          both total and partial losses.
         </li>
         <li>
           <strong><em>Shelter Mut. Ins. Co. v. Goodner</em></strong> (Arkansas) &mdash;
-          Leading case holding that labor cannot be depreciated.
+          Out-of-state case holding that labor cannot be depreciated. (In California, the same
+          rule is set by statute and regulation; this case is illustrative only.)
         </li>
         <li>
           <strong><em>Hicks v. State Farm</em></strong> (Kentucky) &mdash; Held that labor
@@ -565,7 +612,7 @@ export default function Content() {
         <li>
           <strong>Separate damaged from undamaged matching areas.</strong> If the estimate
           includes items being replaced for matching, demand separate line items with zero
-          depreciation on the undamaged portions. Cite 10 CCR &sect; 2695.9(d).
+          depreciation on the undamaged portions. Cite 10 CCR &sect; 2695.9(a)(2).
         </li>
         <li>
           <strong>Document actual condition.</strong> Photographs of the property before the loss
@@ -666,6 +713,16 @@ export default function Content() {
         <Link href="/resources/loss-settlement-provisions" className="text-[#2E74B5] underline">
           Loss Settlement Provisions
         </Link>
+      </p>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
