@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { QABlock } from '@/components/content/QABlock'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
@@ -13,6 +14,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on California recoverable-depreciation rules by
+          a Licensed California Public Adjuster. It is not legal advice. The deadline framework
+          is statutory (Cal. Ins. Code &sect; 2051.5(b)(1)), and equitable defenses to a missed
+          deadline are highly fact-specific. For legal questions, consult a licensed California
+          attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have a replacement cost policy, your insurance company pays your property damage claim
         in two stages. The first payment is at actual cash value (ACV) &mdash; the cost to replace
@@ -88,41 +99,49 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The 12-Month Minimum
+        The 12-Month Minimum (Non-Emergency)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2051.5(a) provides that insurers must allow policyholders &quot;no fewer than 12 months
-        from the date of the first actual cash value payment on the claim&quot; to collect the
-        recoverable depreciation. This is a floor, not a ceiling. If your policy provides a longer
-        period &mdash; some policies allow 18 or 24 months &mdash; the longer policy period controls.
-        But if your policy says 180 days or 6 months, the statute overrides that shorter period in
-        California. You get at least 12 months.
+        Section 2051.5(b)(1) provides that, for a non-emergency residential property claim, no time
+        limit of less than 12 months from the date that the first payment toward the actual cash
+        value is made shall be placed upon an insured in order to collect the full replacement cost
+        of the loss, subject to the policy limit. This is a floor, not a ceiling. If your policy
+        provides a longer period &mdash; some policies allow 18 or 24 months &mdash; the longer
+        policy period controls. But if your policy says 180 days or 6 months, the statute overrides
+        that shorter period in California. You get at least 12 months. The statute also requires
+        additional 6-month extensions &ldquo;for good cause.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Note the trigger carefully: &quot;from the date of the first actual cash value payment.&quot;
-        The clock does not start on the date of loss. It does not start when you report the claim. It
-        starts when the carrier actually issues the first ACV payment. This distinction matters
-        enormously and is discussed in detail below.
+        Note the trigger carefully: &quot;the date of the first payment toward the actual cash
+        value.&quot; The clock does not start on the date of loss. It does not start when you
+        report the claim. It starts when the carrier actually issues the first ACV payment. This
+        distinction matters enormously and is discussed in detail below.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         The 36-Month Extended Period for Declared Emergencies
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2051.5(b) provides that for losses related to a &quot;state of emergency as declared
-        by the Governor,&quot; policyholders have at least 36 months from the date of the first actual
-        cash value payment to collect recoverable depreciation. This extended period reflects the
-        reality that major disasters &mdash; wildfires, earthquakes, floods &mdash; create
-        circumstances where repairs take far longer than normal. Contractor shortages, permitting
-        backlogs, material supply chain disruptions, and the sheer volume of damaged properties in the
-        affected area all contribute to extended timelines.
+        Section 2051.5(b)(1) also provides that, in the event of a loss relating to a
+        &ldquo;state of emergency&rdquo; as defined in Government Code &sect;8558, no time limit
+        of less than 36 months from the date that the first payment toward the actual cash value
+        is made shall be placed upon the insured to collect the full replacement cost of the loss,
+        subject to the policy limit. This extended period reflects the reality that major
+        disasters &mdash; wildfires, earthquakes, floods &mdash; create circumstances where
+        repairs take far longer than normal. Contractor shortages, permitting backlogs, material
+        supply chain disruptions, and the sheer volume of damaged properties in the affected area
+        all contribute to extended timelines.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The 36-month period is also a minimum. It can be extended further &quot;for good cause,&quot;
-        which the statute contemplates for situations where circumstances beyond the policyholder&apos;s
-        control prevent timely completion. If you are in a declared disaster area and the construction
-        timeline stretches beyond 36 months due to permitting delays, contractor availability, or
-        supply chain issues, you should be requesting an extension well before the deadline arrives.
+        The 36-month period is also a minimum. The same subsection requires additional 6-month
+        extensions for good cause, which the statute contemplates for situations where
+        circumstances beyond the policyholder&apos;s control prevent timely completion. If you
+        are in a declared disaster area and the construction timeline stretches beyond 36 months
+        due to permitting delays, contractor availability, or supply chain issues, you should be
+        requesting an extension well before the deadline arrives. (Separately, &sect;2051.5(c)(1),
+        as amended by AB 1800, confirms an insured&rsquo;s right to collect full replacement cost
+        whether rebuilding at the current location, rebuilding at a new location, or purchasing
+        an already built home at a new location.)
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -322,8 +341,8 @@ export default function Content() {
         Declared State of Emergency
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, Section 2051.5(b) extends the minimum deadline to 36 months for losses
-        related to a Governor-declared state of emergency. This provision exists because the
+        As discussed above, Section 2051.5(b)(1) extends the minimum deadline to 36 months for
+        losses related to a Governor-declared state of emergency. This provision exists because the
         legislature recognized that catastrophic events create systemic delays that no individual
         policyholder can overcome: entire communities need contractors simultaneously, building
         departments are overwhelmed with permit applications, material supply chains are strained,
@@ -906,7 +925,7 @@ export default function Content() {
         },
         {
           question: 'What deadline does California impose for recovering depreciation?',
-          answer: 'California Insurance Code §2051.5 sets the minimum at no fewer than 12 months from the date of the first actual cash value payment for residential property claims. For losses related to a Governor-declared state of emergency (wildfires, earthquakes, floods), §2051.5(b) extends the minimum to 36 months, with further extensions "for good cause." These statutory minimums override any shorter deadline in your policy — but if your policy provides a longer period (some allow 18 or 24 months for non-emergency claims), the longer policy period controls.',
+          answer: 'California Insurance Code §2051.5(b)(1) sets the minimum at no fewer than 12 months from the date that the first payment toward the actual cash value is made for residential property claims. For losses related to a Governor-declared state of emergency (wildfires, earthquakes, floods), the same subsection extends the minimum to 36 months, with additional 6-month extensions "for good cause." These statutory minimums override any shorter deadline in your policy — but if your policy provides a longer period (some allow 18 or 24 months for non-emergency claims), the longer policy period controls.',
         },
         {
           question: 'When exactly does the depreciation clock start?',
@@ -929,6 +948,16 @@ export default function Content() {
           answer: 'Contents depreciation can be extreme — electronics depreciated at 10–20% per year, clothing at 20–25%, furniture at 5–10%. A five-year-old laptop that cost $1,500 may have an ACV of $300. The funding gap is often worse for contents than dwelling: the ACV on a heavily depreciated contents inventory may be a fraction of the replacement cost. A homeowner needing $80,000 to replace personal property but receiving only $45,000 ACV cannot buy everything before the deadline. The strategy is the same as for dwelling — replace in stages, submit receipts as you go, recover depreciation on purchased items before the deadline expires, and prioritize the highest-depreciation items (furniture, appliances, electronics) where the holdback is largest.',
         },
       ]} />
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }
