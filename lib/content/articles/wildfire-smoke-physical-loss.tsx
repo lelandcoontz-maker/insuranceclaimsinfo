@@ -466,9 +466,12 @@ export default function Content() {
           additional living expenses (ALE)
         </Link>{' '}
         if the home is not safe to occupy. ALE is a coverage provided by the policy itself
-        (Coverage D in standard HO-3 forms). California Insurance Code &sect; 2051.5 builds on
-        that by setting minimum ALE durations for losses arising from a state of emergency
-        (24 months, extendable to 36 months under specified circumstances). If environmental
+        (Coverage D in standard HO-3 forms). California Insurance Code &sect; 2060(b)(1)
+        (formerly placed at &sect; 2051.5(b)(2) before SB 872 restructured the code in 2020)
+        builds on that by setting minimum ALE durations for losses arising from a declared
+        state of emergency: at least 24 months from the inception of the loss, with a
+        mandatory 12-month extension for good cause (for a total of up to 36 months) when
+        rebuild delays are beyond the policyholder&rsquo;s control. If environmental
         testing demonstrates that the indoor air quality exceeds safe exposure levels, or that
         the contamination presents a health risk to occupants, the policyholder should not
         remain in the home &mdash; and the insurer should be covering the cost of temporary
