@@ -642,8 +642,13 @@ export default function Content() {
         </li>
         <li>
           <strong>Measurement and scope standards</strong> &mdash; For first-party
-          residential property claims, the insurer must provide accurate measurements
-          and a detailed scope of damage (10 CCR &sect;2695.9(d)).
+          residential property claims, the insurer must conduct a thorough, fair, and
+          objective investigation of the claim (10 CCR &sect;2695.7(d)), and any
+          estimate prepared by or for the insurer must be of an amount that will
+          restore the damaged property to no less than its pre-loss condition and
+          meet accepted trade standards for good and workmanlike construction (10
+          CCR &sect;2695.9(d)). Together these provisions require accurate
+          measurements and a detailed scope of damage.
         </li>
       </ul>
 
