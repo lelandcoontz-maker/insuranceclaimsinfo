@@ -289,12 +289,16 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This principle is well established in California law. California Insurance Code &sect; 2051
-        provides that the measure of recovery for a partial loss is &quot;the expense it would be to
-        the insured to repair, rebuild, or replace the thing lost or injured.&quot; For losses settled
-        on a replacement cost basis, California Insurance Code &sect; 2051.5 reinforces that the
-        measure of indemnity is the amount it would cost to repair, rebuild, or replace the damaged
-        property without deduction for depreciation. The seminal case <em>Raisin Growers of
+        This principle is well established in California law. California Insurance Code
+        &sect; 2051(b)(2) provides that the measure of recovery for a partial loss is
+        &ldquo;the amount it would cost the insured to repair, rebuild, or replace the damaged
+        or destroyed property, less a fair and reasonable deduction for physical depreciation
+        based upon its condition at the time of the injury or the policy limit, whichever is
+        less.&rdquo; (The phrase &ldquo;damaged or destroyed property&rdquo; replaced the prior
+        &ldquo;thing lost or injured&rdquo; via AB 188, Stats. 2019, ch. 59, effective January 1,
+        2020.) For losses settled on a replacement cost basis, California Insurance Code
+        &sect; 2051.5 reinforces that the measure of indemnity is the amount it would cost to
+        repair, rebuild, or replace the damaged property without deduction for depreciation. The seminal case <em>Raisin Growers of
         California v. Hartford Accident &amp; Indemnity Co.</em> (1922) 188 Cal. 524 confirmed that
         the measure of damages is the amount necessary to restore the property to its condition
         immediately before the loss. When the carrier elects to repair, it is choosing to discharge
@@ -603,12 +607,13 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, section 2695.9(d) provides that when a loss requires replacement of items and
-        the replaced items do not match in quality, color, or size, the carrier must provide for
-        replacement of all items in the damaged area so as to conform to a reasonably uniform
-        appearance. This is the &quot;matching&quot; requirement, and it has significant implications
-        for carrier-managed repairs where the carrier&apos;s contractor may attempt to patch rather
-        than replace, resulting in a visible difference between repaired and unrepaired areas.
+        Additionally, section 2695.9(a)(2) provides that when a loss requires replacement of
+        items and the replaced items do not match in quality, color, or size, the carrier must
+        replace all items in the damaged area so as to conform to a reasonably uniform
+        appearance. This is the &quot;matching&quot; requirement, and it has significant
+        implications for carrier-managed repairs where the carrier&apos;s contractor may attempt
+        to patch rather than replace, resulting in a visible difference between repaired and
+        unrepaired areas.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

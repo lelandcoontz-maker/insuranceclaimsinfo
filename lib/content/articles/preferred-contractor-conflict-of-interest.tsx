@@ -280,11 +280,11 @@ export default function Content() {
       </blockquote>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The regulation goes further. It provides that no insurer shall even &quot;suggest or
-        recommend&quot; that the insured use a specific contractor unless one of two conditions is
-        met: either the insured specifically requests a referral, or the insured is informed in
-        writing of their right to select their own contractor (Cal. Code Regs., tit. 10,
-        &sect;2695.9(b)).
+        The regulation goes further. Section 2695.9(c) provides that no insurer shall even
+        &ldquo;suggest or recommend&rdquo; that the insured use a specific contractor unless
+        one of the &sect; 2695.9(c)(1) conditions is met &mdash; either the insured
+        specifically requests a referral, or the insured is informed in writing of their right
+        to select their own contractor (Cal. Code Regs., tit. 10, &sect; 2695.9(c)(1)).
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -301,8 +301,8 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         If a policyholder does accept the carrier&apos;s preferred vendor recommendation, the
-        regulation imposes additional obligations on the carrier. Under &sect;2695.9(b), when the
-        insured accepts the carrier&apos;s suggestion or recommendation:
+        regulation imposes additional obligations on the carrier. Under &sect; 2695.9(c)(2),
+        when the insured accepts the carrier&apos;s suggestion or recommendation:
       </p>
 
       <blockquote className="border-l-4 border-[#2E74B5] pl-4 italic text-gray-600 mb-6">
@@ -641,7 +641,7 @@ export default function Content() {
         <li>Is the contractor required to adhere to program pricing guidelines?</li>
         <li>
           Will the contractor guarantee the work to pre-loss condition, and will you, the carrier,
-          stand behind that guarantee under &sect;2695.9(b)?
+          stand behind that guarantee under &sect; 2695.9(c)(2)?
         </li>
         <li>
           If I choose my own contractor instead, will you evaluate my contractor&apos;s estimate on

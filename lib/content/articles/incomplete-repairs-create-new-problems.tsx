@@ -99,14 +99,13 @@ export default function Content() {
         The Repair Estimate Standard
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2695.9(b) provides:
+        Section 2695.9(d) provides:
       </p>
       <blockquote className="border-l-4 border-[#2E74B5] pl-4 italic text-gray-600 mb-6">
-        When a claim is submitted for repairs to a home, the estimate prepared by or for the
-        insurer shall be in accordance with applicable policy provisions and shall be of an amount
-        which will restore the damaged property to no less than its condition prior to the loss and
-        which will allow for repairs to be made in a manner which meets accepted trade standards for
-        good and workmanlike construction.
+        The estimate prepared by or for the insurer shall be in accordance with applicable
+        policy provisions, of an amount which will restore the damaged property to no less than
+        its condition prior to the loss and which will allow for repairs to be made in a manner
+        which meets accepted trade standards for good and workmanlike construction.
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         Two phrases carry the weight here. First, &quot;no less than its condition prior to the
@@ -123,8 +122,8 @@ export default function Content() {
         The Preferred Vendor Standard
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2695.9(b)(1) tightens the standard further when the carrier recommends or suggests
-        a contractor:
+        Section 2695.9(c)(2) tightens the standard further when the carrier recommends or
+        suggests a contractor:
       </p>
       <blockquote className="border-l-4 border-[#2E74B5] pl-4 italic text-gray-600 mb-6">
         If the claimant accepts such recommendation or suggestion and the repairs are not completed
@@ -503,7 +502,7 @@ export default function Content() {
         Use the regulatory language. In California, cite 10 CCR 2695.9 and the carrier&apos;s
         obligation to restore the property to &quot;no less than its condition prior to the
         loss.&quot; If the carrier recommended or selected the contractor, cite the carrier&apos;s
-        heightened obligation under Section 2695.9(b)(1) to ensure the repair meets this standard
+        heightened obligation under Section 2695.9(c)(2) to ensure the repair meets this standard
         at no additional cost to the policyholder.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

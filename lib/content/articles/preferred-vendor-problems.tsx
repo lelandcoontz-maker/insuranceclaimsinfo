@@ -353,8 +353,11 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          10 CCR &sect;2695.9(b) prohibits insurers from recommending repairs that do not restore
-          the property to its pre-loss condition
+          10 CCR &sect;2695.9(c)(2) requires that when the claimant accepts the insurer&apos;s
+          recommended vendor, the insurer must cause the property to be restored to no less
+          than its pre-loss condition and repaired in a manner that meets accepted trade
+          standards for good and workmanlike construction, at no additional cost to the
+          claimant
         </li>
         <li>
           10 CCR &sect;2695.7(g) requires the insurer to provide a written explanation for any

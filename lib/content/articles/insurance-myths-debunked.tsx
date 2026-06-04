@@ -189,11 +189,14 @@ export default function Content() {
           California Insurance Code Section 758.5 &mdash; the anti-steering statute &mdash;
           prohibits insurers from requiring policyholders to use a specific repair facility
           and bars them from denying a claim, raising rates, or penalizing a policyholder for
-          choosing a non-preferred contractor. Title 10 of the California Code of Regulations,
-          Section 2695.9(b) further provides that when an insurer elects to repair, restore,
-          or replace damaged property, it must provide a list of at least two contractors.
-          The regulation also states explicitly that policyholders may select their own
-          contractor &mdash; the insurer&apos;s list is a convenience, not a mandate.
+          choosing a non-preferred contractor. The Fair Claims regulations reinforce this:
+          10 CCR &sect; 2695.9(b) provides that &ldquo;no insurer shall require that the
+          insured have the property repaired by a specific individual or entity&rdquo; (the
+          anti-forced-vendor rule), and 10 CCR &sect; 2695.9(d)(2) requires the insurer to
+          provide, on the claimant&apos;s request, the name of at least one repair entity that
+          will perform the work for the insurer&apos;s estimate amount. The insurer&apos;s
+          recommendation is a convenience &mdash; the policyholder may select their own
+          contractor.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           The reason insurers push preferred vendors is financial, not quality-based. Preferred

@@ -562,9 +562,10 @@ export default function Content() {
         directly relevant to sub-bid disputes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>&sect;2695.9(b)</strong> requires that when losses are settled on the basis of a
-        written estimate, the estimate &quot;shall be of an amount which will restore the damaged
-        property to no less than its condition prior to the loss&quot; and that the insurer
+        <strong>&sect;2695.9(d)</strong> requires that when losses are settled on the basis of
+        a written estimate, the estimate &ldquo;shall be of an amount which will restore the
+        damaged property to no less than its condition prior to the loss&rdquo; and that the
+        insurer
         &quot;shall take reasonable steps to verify that the repair or rebuilding costs utilized
         by the insurer or its claims agents are accurate and representative of costs in the local
         market area.&quot;
