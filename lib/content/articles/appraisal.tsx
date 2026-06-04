@@ -146,22 +146,46 @@ export default function Content() {
 
       {/* ====== ARBITRATION CODE ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        California&apos;s Unique Rule: Appraisal as Arbitration
+        The California Rule: Appraisal Is Its Own Process, Governed in Part by the Arbitration
+        Code
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is one of the most important — and least understood — aspects of insurance appraisal
-        in California. Unlike most other states, California courts have held that{' '}
-        <strong>insurance appraisal is a form of contractual arbitration</strong> governed by the
-        California Arbitration Act, Code of Civil Procedure §§ 1280–1294.2.
+        Appraisal is not arbitration. It is its own dispute resolution mechanism, with a narrower
+        function and a more limited scope than a general arbitration. But California has done
+        something most other states have not: it has placed insurance appraisal under the
+        procedural framework of the California Arbitration Act for purposes of enforcement,
+        judicial review, umpire disclosures, and the conduct of the proceeding itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This was established in <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130
-        Cal.App.3d 818, where the court held that an appraisal agreement in a standard fire
-        insurance policy constitutes an &ldquo;agreement&rdquo; within the meaning of CCP § 1280,
-        subdivision (a), and is therefore subject to the statutory contractual arbitration law.
+        The mechanism is a 1961 amendment to the California Arbitration Act. Code of Civil
+        Procedure &sect; 1280(a) was rewritten to expand the definition of an
+        &ldquo;agreement to arbitrate&rdquo; to include &ldquo;agreements providing for
+        valuations, appraisals and similar proceedings.&rdquo; That amendment is what brings
+        insurance appraisal into the arbitration code&rsquo;s procedural reach.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This classification has major practical consequences:
+        The leading California case applying this to insurance appraisal is{' '}
+        <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818, where the
+        court held that an appraisal agreement in a standard fire insurance policy constitutes
+        an &ldquo;agreement&rdquo; within the meaning of CCP &sect; 1280(a) and is therefore
+        subject to the statutory contractual arbitration law. Later cases &mdash;{' '}
+        <em>Klubnikin</em> (1978), <em>Louise Gardens</em> (2000), <em>Lambert</em> (2008), and{' '}
+        <em>Mahnke</em> (2009) &mdash; applied that framework to specific procedural questions:
+        arbitral immunity for appraisers, statutory disclosure requirements for the umpire,
+        judicial confirmation and vacatur deadlines, and the like.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Some of those opinions use the shorthand &ldquo;an appraisal proceeding pursuant to
+        section 2071 is an arbitration.&rdquo; <em>Lambert</em>, for example, uses that exact
+        phrase. Read in context, the shorthand means &ldquo;appraisal is treated as arbitration
+        for purposes of the Arbitration Act&rsquo;s procedural rules&rdquo; &mdash; not that
+        appraisal becomes a full-scope arbitration capable of deciding any issue the parties
+        might want decided. Appraisal remains, in California as elsewhere, a narrower valuation
+        process. The distinction matters for what the panel can and cannot do at the hearing,
+        and for how the award is challenged afterward.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This procedural classification has major practical consequences:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -201,6 +225,78 @@ export default function Content() {
           parties agree otherwise.
         </li>
       </ul>
+
+      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
+        How Appraisal Differs From a General Arbitration
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Even though California treats insurance appraisal as a form of contractual arbitration
+        for procedural purposes, the two processes differ substantively in ways that matter at
+        the hearing and after the award. Calling appraisal &ldquo;arbitration&rdquo; is
+        convenient shorthand for the procedural treatment &mdash; it is not an accurate
+        description of the proceeding itself.
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Scope of the panel&rsquo;s authority.</strong> An appraisal panel determines
+          only the actual cash value or amount of loss for items submitted to it. A general
+          arbitration panel can decide whatever the parties have agreed to submit, including
+          legal questions, coverage questions, contract interpretation, fraud, and bad faith.
+          An appraisal panel cannot decide any of those things &mdash; and an award that tries
+          to is vulnerable to vacatur (<em>Kacha</em>, <em>Lee</em>).
+        </li>
+        <li>
+          <strong>What is being adjudicated.</strong> Appraisal is a valuation process.
+          Arbitration is binding dispute resolution that may include valuation but is not
+          limited to it. An appraisal award answers a single question: how much is the loss
+          worth? An arbitration award can answer questions of liability, coverage, causation,
+          damages, equitable relief, and any combination of those.
+        </li>
+        <li>
+          <strong>Procedure.</strong> Section 2071 declares appraisal proceedings
+          &ldquo;informal&rdquo; by default &mdash; no formal discovery, no formal rules of
+          evidence, no court reporter unless both parties agree. A general arbitration is less
+          formal than litigation but typically involves discovery, structured evidentiary
+          presentation, and a more deliberative hearing process. The two feel different in
+          practice even when experienced professionals are involved.
+        </li>
+        <li>
+          <strong>Panel composition.</strong> An appraisal panel consists of two party-selected
+          appraisers (who are advocates for the appointing parties under &sect; 2071&rsquo;s
+          &ldquo;competent and disinterested&rdquo; standard) and one neutral umpire (who
+          carries the statutory disclosure obligations of a neutral arbitrator under CCP
+          &sect; 1281.9). A general arbitration panel is typically one neutral arbitrator or
+          three neutral arbitrators &mdash; not a mixed advocate/neutral panel.
+        </li>
+        <li>
+          <strong>Decision rule.</strong> Any two of the three appraisal panel members can
+          sign the award (the umpire plus either party appraiser, or both party appraisers
+          agreeing without the umpire). General arbitration decisions are usually unanimous or
+          by majority of a neutral panel.
+        </li>
+        <li>
+          <strong>Statutory source.</strong> The appraisal provision is mandated by Cal. Ins.
+          Code &sect;&sect; 2070&ndash;2071 and is built into every fire insurance policy
+          issued in California. Arbitration is purely contractual &mdash; the parties must
+          have agreed to it, and the terms of that agreement set the scope.
+        </li>
+        <li>
+          <strong>Finality of the award.</strong> An appraisal award determines the amount of
+          loss only; it does not resolve coverage, deductibles, policy limits, or whether the
+          insurer must pay (<em>Devonwood</em>). An arbitration award typically resolves all
+          submitted issues with finality.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The procedural overlay from the arbitration code applies the same way to both
+        proceedings &mdash; enforcement under CCP &sect; 1285, judicial review under
+        &sect; 1286.2, the 100-day vacatur deadline under &sect; 1288, the umpire&rsquo;s
+        disclosure obligations under &sect; 1281.9, and so on. But the substance of what the
+        panel can decide is fundamentally different. Treating those two layers as a single
+        thing &mdash; &ldquo;appraisal is arbitration&rdquo; &mdash; is exactly how
+        policyholders end up surprised by what their appraisal panel cannot do, and by what
+        they still need a court to resolve after the award is signed.
+      </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         How This Differs from Other States

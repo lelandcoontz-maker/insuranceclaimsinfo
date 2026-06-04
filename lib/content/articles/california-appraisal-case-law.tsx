@@ -65,27 +65,52 @@ export default function Content() {
         Why California Treats Appraisal Differently Than Every Other State
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In most states &mdash; Texas, Florida, New York, and the rest &mdash; insurance appraisal
-        is treated as a purely contractual process. The appraisal clause in the policy is the
-        beginning and end of the rules. The state&rsquo;s arbitration statute does not apply. The
-        appraisal panel operates outside the formal legal framework that governs arbitrations, and
-        the procedural protections that come with arbitration law &mdash; disclosure requirements,
-        hearing procedures, statutory deadlines &mdash; do not attach.
+        Appraisal is appraisal. Arbitration is arbitration. They are not the same proceeding,
+        and California courts and treatises consistently treat them as distinct &mdash;
+        appraisal is a narrower, valuation-focused process with limits on what the panel can
+        decide. But the California Legislature has taken a step most other states have not: it
+        has placed insurance appraisal under the <strong>procedural framework</strong> of the
+        California Arbitration Act. That step is what gives California appraisal its
+        distinctive legal structure.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California is fundamentally different. Since <em>Appalachian Ins. Co. v. Rivcom Corp.</em>{' '}
-        (1982) 130 Cal.App.3d 818, California courts have consistently held that insurance
-        appraisal constitutes a form of <strong>statutory contractual arbitration</strong> under
-        the California Arbitration Act, Code of Civil Procedure &sect;&sect; 1280&ndash;1294.2.
-        The appraisal provision in your policy is an &ldquo;agreement&rdquo; within the meaning
-        of CCP &sect; 1280(a), and the full weight of the arbitration code attaches to it.
+        In most states &mdash; Texas, Florida, New York, and the rest &mdash; insurance
+        appraisal is treated as a purely contractual process. The appraisal clause in the
+        policy is the beginning and end of the rules. The state&rsquo;s arbitration statute
+        does not apply. The procedural protections that come with arbitration law &mdash;
+        disclosure requirements, hearing procedures, statutory deadlines, judicial
+        confirmation and vacatur &mdash; do not attach.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This classification is not a technicality. It means that every insurance appraisal
-        conducted in California is governed by the same procedural framework that governs formal
-        commercial arbitrations. The umpire must make the same disclosures required of any
-        arbitrator. The parties have the same rights to challenge the award. The same deadlines
-        apply. The same grounds for vacating an award are available.
+        California is different because of a 1961 amendment to the California Arbitration Act.
+        Code of Civil Procedure &sect; 1280(a) was rewritten to expand the definition of an
+        &ldquo;agreement to arbitrate&rdquo; to include &ldquo;agreements providing for
+        valuations, appraisals and similar proceedings.&rdquo; That amendment brought insurance
+        appraisal under the arbitration code&rsquo;s procedural reach. Since{' '}
+        <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818, California
+        courts have consistently held that the appraisal provision in a fire policy is an
+        &ldquo;agreement&rdquo; within the meaning of CCP &sect; 1280(a), and that the
+        Arbitration Act &mdash; CCP &sect;&sect; 1280&ndash;1294.2 &mdash; governs the
+        procedure.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is procedural, not substantive. Appraisal in California is still appraisal: a
+        narrower process limited to determining the actual cash value or amount of loss, with
+        no authority to decide coverage, causation, or policy interpretation. What the
+        Arbitration Act adds is the procedural overlay &mdash; how the proceeding is
+        conducted, what disclosures are required, how the award is enforced, and how it can
+        be challenged. Every insurance appraisal conducted in California operates under that
+        overlay. The umpire carries the disclosure obligations of a neutral arbitrator. The
+        parties have a 100-day window to petition a court to vacate or correct the award. The
+        award itself can be confirmed as a judgment.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Some California opinions, including <em>Lambert v. Carneghi</em>, use the shorthand
+        &ldquo;an appraisal proceeding pursuant to section 2071 is an arbitration.&rdquo; Read
+        in context, that shorthand means appraisal is treated as arbitration for purposes of
+        the Arbitration Act&rsquo;s procedural rules &mdash; not that the two proceedings
+        collapse into one. Appraisal remains its own creature; the arbitration code simply
+        supplies its procedural framework.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -110,11 +135,12 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        What &ldquo;Appraisal as Arbitration&rdquo; Actually Means in Practice
+        What the Arbitration Code Overlay Actually Means in Practice
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When California courts call appraisal a form of arbitration, the consequences are
-        specific and far-reaching:
+        When California courts use the &ldquo;appraisal as arbitration&rdquo; shorthand,
+        what they actually mean is that the Arbitration Act&rsquo;s procedural rules attach
+        to insurance appraisal. The consequences are specific and far-reaching:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

@@ -493,10 +493,12 @@ export default function Content() {
         Waiver of Appraisal Through Litigation Conduct
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Because California treats insurance appraisal as a form of contractual arbitration (per{' '}
-        <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818), the same
-        general doctrine that governs waiver of the right to arbitrate also governs waiver of
-        the right to appraisal. A party can lose its right to appraisal by acting in a manner
+        Insurance appraisal is its own dispute resolution mechanism, but California has placed
+        it under the procedural framework of the California Arbitration Act (per{' '}
+        <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818, applying CCP
+        &sect; 1280(a)). One consequence of that procedural overlay is that the same general
+        doctrine that governs waiver of the right to arbitrate also governs waiver of the right
+        to invoke appraisal. A party can lose its right to appraisal by acting in a manner
         inconsistent with an intent to invoke the process &mdash; typically by engaging in
         substantial litigation activity.
       </p>
