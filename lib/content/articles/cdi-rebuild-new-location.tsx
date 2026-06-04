@@ -77,6 +77,18 @@ export default function Content() {
         Full Text: CDI Commissioner&apos;s Opinion on CIC 2051.5(c)
       </h2>
 
+      <CalloutBox variant="info" title="Note on Statutory Language">
+        <p>
+          The 2008 Commissioner&apos;s Opinion below quotes &sect; 2051.5 as it read at the time,
+          using the phrase &ldquo;the thing lost or injured.&rdquo; The parallel
+          &sect; 2051(b)(2) framework was later restructured by AB 188 (Stats. 2019, ch. 59),
+          effective January 1, 2020, which replaced &ldquo;the thing lost or injured&rdquo;
+          with &ldquo;the damaged or destroyed property&rdquo; throughout the modern statutory
+          scheme. The Opinion&apos;s substantive analysis of rebuilding at a different location
+          (the actual subject of the Opinion) remains good guidance.
+        </p>
+      </CalloutBox>
+
       <DocumentEmbed
         title="Legal Opinion of the General Counsel Regarding Application of California Insurance Code Section 2051.5(c)"
         source="California Department of Insurance"
@@ -282,6 +294,15 @@ export default function Content() {
           Request a Free Claim Review
         </Link>
       </div>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

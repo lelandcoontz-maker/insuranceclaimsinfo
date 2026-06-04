@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowners believe their insurance policy will fully rebuild their home if it burns
         down or is destroyed. Most are wrong. The phrase &ldquo;replacement cost coverage&rdquo;
@@ -45,10 +53,16 @@ export default function Content() {
         replacement cost policy as:
       </p>
       <blockquote className="border-l-4 border-[#1F3964] pl-4 italic text-gray-600 mb-6">
-        &ldquo;The amount which it would cost the insured to repair, rebuild, or replace the thing
-        lost or injured, without a deduction for physical depreciation, or the policy limit,
-        whichever is less.&rdquo;
+        &ldquo;The amount which it would cost the insured to repair, rebuild, or replace the
+        damaged or destroyed property, without a deduction for physical depreciation, or the
+        policy limit, whichever is less.&rdquo;
       </blockquote>
+      <p className="text-sm text-gray-500 italic mb-6">
+        Cal. Ins. Code &sect; 2051.5(a). The phrase &ldquo;damaged or destroyed property&rdquo;
+        replaced the prior &ldquo;thing lost or injured&rdquo; in the parallel &sect; 2051(b)(2)
+        framework via AB 188 (Stats. 2019, ch. 59), effective January 1, 2020; the related
+        language change is reflected throughout the modern statutory scheme.
+      </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         That last phrase &mdash; <em>&ldquo;or the policy limit, whichever is less&rdquo;</em>{' '}
         &mdash; is the critical limitation. If your home is insured for $600,000 under Coverage A
@@ -602,6 +616,16 @@ export default function Content() {
           disputes, a licensed Public Adjuster may be able to assist.
         </p>
       </CalloutBox>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: "When a Contractor’s Bid Overrides Xactimate: Sub-Bids, Specialty Work, and What the EULA Actually Says",
@@ -11,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>
           A guide for policyholders, public adjusters, and attorneys on why a specialty
@@ -513,10 +522,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code &sect;2051 provides that the measure of recovery is &quot;the
-        cost to the insured of repairing, restoring, or replacing the thing lost or injured to
+        cost to the insured of repairing, restoring, or replacing the damaged or destroyed property to
         its condition prior to the loss.&quot; Under &sect;2051.5, replacement cost coverage
         requires payment of &quot;the amount which it would cost the insured to repair, rebuild,
-        or replace the thing lost or injured&quot; without deduction for depreciation.
+        or replace the damaged or destroyed property&quot; without deduction for depreciation.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -857,6 +866,16 @@ export default function Content() {
           <strong>Verisk / Xactimate documentation</strong> &mdash; Verisk is the publisher of Xactimate; its materials describe how the price list is built and intended to be used.
         </li>
       </ul>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

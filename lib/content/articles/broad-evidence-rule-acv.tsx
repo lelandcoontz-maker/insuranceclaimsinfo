@@ -96,17 +96,20 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Section 2051(a)</strong> provides the baseline rule for fire insurance:
         under an open policy, the measure of indemnity is the expense to the insured of
-        replacing the thing lost or injured in its condition at the time of the injury,
-        computed as of the time the fire began.
+        replacing the damaged or destroyed property in its condition at the time of the
+        injury, computed as of the time the fire began.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Section 2051(b)</strong> supplies the operative ACV formula. As currently
-        written, for an open policy requiring payment of actual cash value, the measure of
-        recovery &ldquo;for either a total or partial loss to the structure or its
-        contents&rdquo; is the amount it would cost the insured to repair, rebuild, or
-        replace the thing lost or injured, less a fair and reasonable deduction for
-        physical depreciation based upon its condition at the time of the injury &mdash;
-        or the policy limit, whichever is less.
+        <strong>Section 2051(b)(2)</strong> supplies the operative ACV formula for partial
+        losses. As currently written, the measure of recovery is the amount it would cost
+        the insured to repair, rebuild, or replace the damaged or destroyed property, less
+        a fair and reasonable deduction for physical depreciation based upon its condition
+        at the time of the injury &mdash; or the policy limit, whichever is less.
+      </p>
+      <p className="text-sm text-gray-500 italic">
+        Cal. Ins. Code &sect; 2051(b)(2). The phrase &ldquo;damaged or destroyed property&rdquo;
+        replaced the prior &ldquo;thing lost or injured&rdquo; via AB 188 (Stats. 2019, ch. 59),
+        effective January 1, 2020.
       </p>
 
       <CalloutBox variant="important" title="This Is Not the Broad Evidence Rule">

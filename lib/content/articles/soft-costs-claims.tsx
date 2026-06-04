@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         When an insurance company writes an estimate to repair or rebuild your home, the
         estimate typically focuses on the &ldquo;hard costs&rdquo; &mdash; the physical
@@ -445,7 +453,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code &sect;2051 establishes that the measure of recovery is the
-        cost to repair, rebuild, or replace the thing lost or injured. Soft costs are part of
+        cost to repair, rebuild, or replace the damaged or destroyed property. Soft costs are part of
         that cost &mdash; you cannot complete a repair without them. The Fair Claims Settlement
         Practices Regulations (10 CCR &sect;2695.7) further require carriers to conduct a
         thorough, fair, and objective investigation and to not deny or reduce claims without a
@@ -540,6 +548,16 @@ export default function Content() {
         &mdash; not just the lumber and the labor, but the engineering, the permits, the
         supervision, and every other soft cost that makes the project possible.
       </blockquote>
+
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

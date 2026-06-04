@@ -60,12 +60,24 @@ export default function Content() {
         reasonable deduction for physical depreciation.</strong> This was a deliberate move away
         from the broad-evidence / fair-market-value approach that earlier California cases such
         as <em>Cheeks v. California Fair Plan Ass&rsquo;n</em> (1998) 61 Cal.App.4th 423 had
-        applied to total losses. The current statutory language reads: &ldquo;the amount it would
-        cost the insured to repair, rebuild, or replace the thing lost or injured less a fair and
-        reasonable deduction for physical depreciation.&rdquo; The statute also expressly
-        provides that labor is not subject to depreciation (except intrinsic labor in
-        manufactured materials). That statutory language focuses on cost to the insured, not on
-        what the item might sell for on the open market.
+        applied to total losses. The current statutory language for &sect; 2051(b)(2) reads:
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 italic text-gray-700 my-4">
+        &ldquo;the amount it would cost the insured to repair, rebuild, or replace the damaged
+        or destroyed property, less a fair and reasonable deduction for physical depreciation
+        based upon its condition at the time of the injury or the policy limit, whichever is
+        less.&rdquo;
+      </blockquote>
+      <p className="text-sm text-gray-500 italic">
+        Cal. Ins. Code &sect; 2051(b)(2). The phrase &ldquo;damaged or destroyed property&rdquo;
+        replaced the prior &ldquo;thing lost or injured&rdquo; via AB 188 (Stats. 2019, ch. 59),
+        effective January 1, 2020. A separate AB 188 (Stats. 2018, ch. 627), effective January 1,
+        2019, added the parallel prohibition on depreciating labor.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The statute also expressly provides that labor is not subject to depreciation (except
+        intrinsic labor in manufactured materials). That statutory language focuses on cost to
+        the insured, not on what the item might sell for on the open market.
       </p>
 
       <CalloutBox variant="important" title="Check Your Policy Type">

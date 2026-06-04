@@ -564,9 +564,15 @@ export default function Content() {
           Fair Claims Settlement Practices Regulations
         </Link>{' '}
         (10 CCR 2695) require insurers to pay claims based on the actual cost of repair.
-        Section 2695.9(d) specifically addresses replacement cost and requires that estimates
-        reflect &ldquo;the amount which it would cost the insured to repair, rebuild, or
-        replace the thing lost or injured.&rdquo;
+        The underlying statutory measure comes from Cal. Ins. Code &sect; 2051(b)(2), which
+        defines the measure of recovery for a partial loss as &ldquo;the amount it would cost
+        the insured to repair, rebuild, or replace the damaged or destroyed property, less a
+        fair and reasonable deduction for physical depreciation.&rdquo;
+      </p>
+      <p className="text-sm text-gray-500 italic">
+        Cal. Ins. Code &sect; 2051(b)(2). The phrase &ldquo;damaged or destroyed property&rdquo;
+        replaced the prior &ldquo;thing lost or injured&rdquo; via AB 188 (Stats. 2019, ch. 59),
+        effective January 1, 2020.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         That phrase &mdash; &ldquo;the amount which it would cost the insured&rdquo; &mdash;
@@ -651,6 +657,15 @@ export default function Content() {
           &mdash; when it makes sense and how the process works
         </li>
       </ul>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
+      </p>
     </>
   )
 }

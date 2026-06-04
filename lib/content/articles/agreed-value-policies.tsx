@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Policyholders and even some insurance professionals use the terms &ldquo;agreed value,&rdquo;
         &ldquo;stated value,&rdquo; and &ldquo;replacement cost&rdquo; interchangeably. They are not
@@ -40,9 +48,12 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code &sect; 2051.5(a) defines this as the amount it would cost the
-        insured to repair, rebuild, or replace the thing lost or injured, without deduction for
-        physical depreciation, or the policy limit, whichever is less. The key phrase is
-        &ldquo;whichever is less.&rdquo; Replacement cost coverage does not mean unlimited coverage.
+        insured to repair, rebuild, or replace the damaged or destroyed property, without
+        deduction for physical depreciation, or the policy limit, whichever is less. (The
+        property-description language &mdash; &ldquo;damaged or destroyed property&rdquo;
+        &mdash; replaced the prior &ldquo;thing lost or injured&rdquo; in the parallel
+        &sect; 2051(b)(2) framework via AB 188, Stats. 2019, ch. 59, effective January 1, 2020.)
+        The key phrase is &ldquo;whichever is less.&rdquo; Replacement cost coverage does not mean unlimited coverage.
         It means the insurer uses the replacement cost method to calculate the loss, but payment is
         still capped at the Coverage A limit on your{' '}
         <Link href="/resources/declarations-page" className="text-[#2E74B5] underline">
@@ -627,6 +638,15 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Know which valuation method your policy uses before a loss occurs. By the time you are
         filing a claim, it is too late to change it.
+      </p>
+      <hr className="my-8 border-gray-300" />
+      <p className="text-sm text-gray-500 italic">
+        This article is for informational purposes only and does not constitute legal advice.
+        Insurance policies and applicable law vary by state and by policy form. Consult with a
+        licensed professional regarding your specific situation.
+      </p>
+      <p className="text-sm text-gray-500 mt-4 italic">
+        Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
   )
