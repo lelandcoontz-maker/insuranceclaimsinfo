@@ -221,7 +221,8 @@ export default function Content() {
             Efficient proximate cause
           </Link>{' '}
           &mdash; when a covered peril sets the chain of events in motion, California law can
-          require coverage even if an excluded peril also contributed.
+          require coverage even if an excluded peril also contributed (see <em>Howell v. State
+          Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446).
         </li>
         <li>
           <Link href="/resources/wear-and-tear-exclusion" className="text-[#2E74B5] hover:underline">

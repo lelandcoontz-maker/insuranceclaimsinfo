@@ -169,10 +169,13 @@ export default function Content() {
         court held that an appraisal agreement in a standard fire insurance policy constitutes
         an &ldquo;agreement&rdquo; within the meaning of CCP &sect; 1280(a) and is therefore
         subject to the statutory contractual arbitration law. Later cases &mdash;{' '}
-        <em>Klubnikin</em> (1978), <em>Louise Gardens</em> (2000), <em>Lambert</em> (2008), and{' '}
-        <em>Mahnke</em> (2009) &mdash; applied that framework to specific procedural questions:
-        arbitral immunity for appraisers, statutory disclosure requirements for the umpire,
-        judicial confirmation and vacatur deadlines, and the like.
+        <em>Klubnikin v. California Fair Plan Assn.</em> (1978) 84 Cal.App.3d 393,{' '}
+        <em>Louise Gardens of Encino Homeowners Assn., Inc. v. Truck Ins. Exchange, Inc.</em>{' '}
+        (2000) 82 Cal.App.4th 648, <em>Lambert v. Carneghi</em> (2008) 158 Cal.App.4th 1120,
+        and <em>Mahnke v. Superior Court</em> (2009) 180 Cal.App.4th 565 &mdash; applied
+        that framework to specific procedural questions: arbitral immunity for appraisers,
+        statutory disclosure requirements for the umpire, judicial confirmation and vacatur
+        deadlines, and the like.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some of those opinions use the shorthand &ldquo;an appraisal proceeding pursuant to
@@ -521,10 +524,15 @@ export default function Content() {
         <li><strong>Legal questions</strong> — any question of law</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As the California Supreme Court stated in <em>Jefferson Ins. Co. v. Superior Court</em>{' '}
-        (1970) 3 Cal.3d 398: &ldquo;The function of appraisers is to determine the amount of
-        damage resulting to the insured from a loss&hellip;It is certainly not their function to
-        resolve questions of coverage and interpret provisions of the policy.&rdquo;
+        This narrow scope traces back to <em>Jefferson Ins. Co. v. Superior Court</em> (1970)
+        3 Cal.3d 398, 403, in which the California Supreme Court limited appraisal to the
+        amount-of-loss inquiry and held that coverage and policy-interpretation questions are
+        not for appraisers. The Court of Appeal more recently summarized the same rule in{' '}
+        <em>Lee v. California Capital Ins. Co.</em> (2015) 237 Cal.App.4th 1154, 1166 (citing{' '}
+        <em>Jefferson</em>): &ldquo;The function of appraisers is to determine the amount of
+        damage resulting to various items submitted for their consideration. It is certainly
+        not their function to resolve questions of coverage and interpret provisions in the
+        policy.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, the line between &ldquo;amount of loss&rdquo; and &ldquo;coverage&rdquo; is not
