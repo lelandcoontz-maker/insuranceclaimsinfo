@@ -442,9 +442,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is an important and often overlooked part of a Public Adjuster&apos;s function. The
-        PA is not an attorney and does not file lawsuits &mdash; California Insurance Code{' '}
-        &sect; 15002 expressly provides that the Public Adjuster Act does not authorize the
-        practice of law. The PA&rsquo;s role is to adjust the claim: develop the scope, document
+        PA is not an attorney and does not file lawsuits &mdash; California&rsquo;s Public
+        Insurance Adjusters Act (Cal. Ins. Code &sect;&sect; 15000&ndash;15062) regulates
+        public adjusters as a specialized claims-handling profession and does not authorize
+        the practice of law. The PA&rsquo;s role is to adjust the claim: develop the scope, document
         the conditions, negotiate the settlement, and create a contemporaneous file of how the
         insurer actually handled the matter. The documentation that emerges from thorough public-
         adjusting work is often the foundation an attorney would use if litigation later becomes

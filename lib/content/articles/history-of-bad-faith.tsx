@@ -1000,9 +1000,10 @@ export default function Content() {
       <CalloutBox variant="info" title="Disclaimer">
         <p>
           This article is for informational purposes only and does not constitute legal advice.
-          California Insurance Code &sect; 15002 expressly provides that the Public Adjuster Act
-          does not authorize the practice of law — pleading, litigation strategy, choice of legal
-          theories, and bad-faith claim filing are attorney work. A public adjuster&apos;s role is
+          California&rsquo;s Public Insurance Adjusters Act (Cal. Ins. Code &sect;&sect;
+          15000&ndash;15062) regulates public adjusters as a specialized claims-handling
+          profession; it does not authorize the practice of law &mdash; pleading, litigation
+          strategy, choice of legal theories, and bad-faith claim filing are attorney work. A public adjuster&apos;s role is
           to adjust the claim and document the carrier&apos;s conduct; an attorney&apos;s role is
           the legal claim. If you believe your insurance company has acted in bad faith, consult
           with an attorney experienced in insurance coverage litigation. If you need a referral to

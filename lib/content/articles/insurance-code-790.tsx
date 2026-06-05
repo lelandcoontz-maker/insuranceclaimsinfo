@@ -26,8 +26,10 @@ export default function Content() {
         <p>
           This article explains the framework around California Insurance Code &sect; 790.03 and
           describes how 790 letters are commonly used by counsel and adjusters as a notice and
-          documentation tool. It is <strong>not</strong> legal advice. Insurance Code &sect; 15002
-          provides that the Public Adjuster Act does not authorize the practice of law. A public
+          documentation tool. It is <strong>not</strong> legal advice. California&rsquo;s Public
+          Insurance Adjusters Act (Cal. Ins. Code &sect;&sect; 15000&ndash;15062) regulates
+          public adjusters as a specialized claims-handling profession and does not authorize
+          the practice of law. A public
           adjuster&rsquo;s role in the 790 process centers on developing and documenting the
           factual record &mdash; the missed responses, the inadequate investigation, the
           cherry-picked estimate. The construction of formal legal arguments and the conduct of
