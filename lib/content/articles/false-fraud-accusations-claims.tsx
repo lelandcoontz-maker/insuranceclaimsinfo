@@ -121,11 +121,16 @@ export default function Content() {
         The Burden of Proof: What the Carrier Must Establish
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the single most important legal principle for policyholders facing fraud
-        accusations: in California, the insurer bears the burden of proving fraud, and the
-        standard of proof is &ldquo;clear and convincing evidence&rdquo; &mdash; a significantly
-        higher threshold than the &ldquo;preponderance of the evidence&rdquo; standard that
-        applies to most civil disputes.
+        This is one of the most important legal principles for policyholders facing fraud
+        accusations: the insurer bears the burden of proving fraud, and the standard of proof
+        in California is <strong>preponderance of the evidence</strong>. The California
+        Supreme Court rejected the higher &ldquo;clear and convincing evidence&rdquo; standard
+        for civil fraud in <em>Liodas v. Sahadi</em> (1977) 19 Cal.3d 278, holding that civil
+        fraud claims (including, by extension, an insurer&rsquo;s fraud or material
+        misrepresentation defense in a first-party property coverage dispute) are governed by
+        the ordinary civil burden &mdash; more likely than not. The burden is still on the
+        insurer to prove the defense; that burden is just not as demanding as some carriers
+        suggest.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California Insurance Code section 2071 and the case law interpreting it, when an
@@ -146,12 +151,13 @@ export default function Content() {
         </li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
-        All three elements must be established by clear and convincing evidence. This is a
-        demanding standard that requires proof producing a &ldquo;reasonable certainty of the
-        truth of the fact asserted.&rdquo; An honest mistake, a faulty recollection, an
-        immaterial discrepancy in dates or amounts, or a misunderstanding of a question during
-        a recorded statement does not constitute fraud under this standard. The insurer must
-        prove deliberate, knowing deception about a matter that actually affected the claim.
+        Each element must be established by a preponderance of the evidence. Even at that
+        standard, an honest mistake, a faulty recollection, an immaterial discrepancy in dates
+        or amounts, or a misunderstanding of a question during a recorded statement does not
+        constitute fraud. The insurer must prove deliberate, knowing deception about a matter
+        that actually affected the claim &mdash; and the materiality and intent elements are
+        where pretextual fraud defenses most often fail, regardless of which evidentiary
+        burden applies.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
