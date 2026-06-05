@@ -269,9 +269,10 @@ export default function Content() {
         </li>
         <li>
           <strong>It establishes the foundation for a bad faith claim.</strong> Under <em>Egan v.
-          Mutual of Omaha</em> (1979) and <em>Jordan v. Allstate</em> (2007), the insurer&apos;s
-          response — or failure to respond — to a 790 letter is relevant to whether the insurer
-          acted in bad faith. An insurer that receives a detailed 790 letter identifying specific
+          Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809 and <em>Jordan v. Allstate Ins.
+          Co.</em> (2007) 148 Cal.App.4th 1062, the insurer&apos;s response &mdash; or failure
+          to respond &mdash; to a 790 letter is relevant to whether the insurer acted in bad
+          faith. An insurer that receives a detailed 790 letter identifying specific
           violations and continues the same conduct has a much harder time claiming its behavior was
           reasonable.
         </li>
