@@ -216,11 +216,16 @@ export default function Content() {
           They must conduct a thorough, fair, and objective investigation (10 CCR §2695.7(d)).
         </li>
         <li>
-          They cannot require unreasonable documentation before paying (Insurance Code §790.03(h)(11)).
+          California Insurance Code &sect; 790.03(h)(11) describes &mdash; as a regulatory
+          standard for the Insurance Commissioner&apos;s enforcement &mdash; the practice of
+          delaying investigation or payment by requiring duplicative documentation (preliminary
+          claim report followed by formal proof of loss containing substantially the same
+          information). Under <em>Moradi-Shalal</em>, &sect; 790.03 does not create a private
+          cause of action; the standard informs what may support a common-law bad-faith claim.
         </li>
         <li>
           They must pay undisputed amounts promptly, even if other amounts remain contested
-          (10 CCR 2695.7(h)).
+          (10 CCR &sect; 2695.7(h)).
         </li>
         <li>
           They must provide written notice of any coverage denial with specific reasons and policy
