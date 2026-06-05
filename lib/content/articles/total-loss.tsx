@@ -59,6 +59,33 @@ export default function Content() {
           demolished — making it a total loss regardless of the physical damage.
         </li>
       </ul>
+      <CalloutBox variant="info" title="The Post-2020 Total-Loss Valuation Framework">
+        <p>
+          California&apos;s actual cash value framework changed materially in 2020. Before
+          AB 188 (Stats. 2019, ch. 59), effective January 1, 2020, Cal. Ins. Code
+          &sect; 2051 treated total losses differently from partial losses: under former
+          &sect; 2051(b)(1), an ACV total-loss recovery was capped at the fair market value
+          of the structure or the policy limit, whichever was less; under former
+          &sect; 2051(b)(2), partial losses were calculated as replacement cost less
+          depreciation. The judicial decision in <em>California FAIR Plan Ass&apos;n v.
+          Garnes</em> (2017) 11 Cal.App.5th 1276 clarified that &ldquo;total loss&rdquo;
+          under &sect; 2051 means physical, not economic loss &mdash; setting the stage
+          for the legislative fix.
+        </p>
+        <p className="mt-2">
+          AB 188 (2019) eliminated the (b)(1)/(b)(2) bifurcation. Current Cal. Ins. Code
+          &sect; 2051(b) applies the same replacement-cost-less-depreciation formula to
+          &ldquo;either a total or partial loss to the structure or its contents,&rdquo;
+          subject to the policy limit. The practical consequence is significant for total
+          losses on ACV policies: insureds whose homes were extensively damaged but not
+          completely destroyed are no longer limited to fair market value as a ceiling on
+          recovery. For replacement-cost policies, the &sect; 2051.5 framework governs;
+          for ACV policies, &sect; 2051(b) does. California&apos;s separate regulatory
+          prohibition on labor depreciation, 10 CCR &sect; 2695.9(f)(1), applies on top
+          of either framework.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         The distinction between a total loss and a partial loss matters for many coverage provisions.
         In a partial loss, you are repairing and restoring. In a total loss, you are starting from
@@ -133,8 +160,10 @@ export default function Content() {
         rebuilding a total loss typically takes 18 months to three years or longer. Coverage D pays
         for temporary housing, increased meal costs, storage fees, laundry, transportation, pet
         boarding, and every other additional expense you incur because you cannot live in your home.
-        California law requires a minimum 24-month ALE period for declared disasters on replacement
-        cost policies, with extensions available when delays are beyond your control.
+        California law (Cal. Ins. Code &sect; 2060(b)(1)) requires a minimum 24-month ALE
+        period for declared-disaster losses on replacement cost policies, with additional
+        extensions available where the insured, acting in good faith and with reasonable
+        diligence, encounters delays beyond their control.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
@@ -228,14 +257,15 @@ export default function Content() {
         that deserves careful analysis.
       </p>
 
-      <CalloutBox variant="tip" title="Tax Implications — Consult a CPA">
+      <CalloutBox variant="tip" title="Tax Implications — Consult a CPA or Tax Attorney">
         <p>
-          Total loss insurance proceeds can have significant tax implications depending on your
-          basis in the property, whether you rebuild, and the amount of proceeds received. Under
-          certain circumstances, insurance proceeds may be excludable from taxable income under
-          IRC Section 1033 (involuntary conversions) if you reinvest in a replacement property
-          within the statutory timeframe. Consult a CPA or tax advisor before making any decisions
-          about rebuilding or cashing out.
+          Total loss insurance proceeds can have significant tax implications depending on
+          basis in the property, whether the insured rebuilds, and the amount of proceeds
+          received. Federal involuntary-conversion treatment under IRC Section 1033 may be
+          available in some circumstances, but whether and how it applies to a specific
+          claim is a question for a CPA or tax attorney &mdash; not for this article and
+          not for the insurer&apos;s claims adjuster. Consult tax counsel before making
+          decisions about rebuilding, replacement property, or cashing out.
         </p>
       </CalloutBox>
 
