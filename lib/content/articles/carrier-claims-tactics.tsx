@@ -313,94 +313,89 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Allstate: The McKinsey Blueprint
+        The McKinsey/Allstate Case Study
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Allstate remains the most thoroughly documented example of consulting-driven
-        claims suppression. The CCPR program institutionalized the &ldquo;boxing
-        gloves&rdquo; approach across every claims office. Adjusters were trained to find
-        reasons to deny rather than reasons to pay. Initial offers were calculated at
-        approximately 80 percent of comparable past claims &mdash; an automatic 20 percent
-        haircut before negotiation even began. Policyholders who accepted were processed
-        quickly. Those who fought were subjected to years of delay and aggressive
-        litigation.
+        The most extensively documented example of consulting-driven claims-handling
+        reform is the Allstate CCPR program described in Berardinelli&rsquo;s book and
+        in the McKinsey documents that surfaced in litigation. The materials describe a
+        framework in which a large majority of claims are resolved quickly through low,
+        rapidly calculated offers, while claims that resist that resolution are routed
+        into more contested adjustment pathways. The publicly available Berardinelli
+        analysis is the most accessible primary source on this history; readers
+        evaluating any specific case should consult the book, the underlying documents,
+        and the published court decisions in which they have been discussed.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        State Farm: The Manager Override System
+        Recurring Patterns Seen in California Litigation and CDI Filings
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        State Farm developed its own approach to achieving similar results. The company
-        uses a system where team managers and centralized review teams override field
-        adjusters&rsquo; assessments. A field adjuster inspects a roof, documents the
-        damage, and recommends replacement. The estimate goes up the chain, and a manager
-        &mdash; who has never set foot on the property &mdash; revises the assessment
-        downward based on the company&rsquo;s internal damage definitions.
+        Beyond the Allstate/McKinsey history, the policyholder bar and the California
+        Department of Insurance have identified several recurring patterns across
+        carriers in published litigation, regulatory orders, and market conduct
+        examinations. These patterns are stated below as observed across the broader
+        industry rather than as categorical claims about any one carrier&rsquo;s
+        present-day practices, because (a) individual carrier conduct varies by year,
+        state, and book of business; (b) categorical accusations risk overstating what
+        the public record actually shows; and (c) the most powerful evidence in any
+        particular dispute is the published opinion, regulatory finding, or settlement
+        on the specific facts at issue, not a generalized characterization.
       </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        These internal definitions are not found in the policy language. State Farm
-        restricts its adjusters from independently deciding when a roof should be replaced,
-        requiring manager approval that applies the company&rsquo;s own criteria rather
-        than industry standards or the plain language of the policy. Communication with
-        policyholders is increasingly done remotely, with explanations attributed to
-        unnamed managers &mdash; &ldquo;the manager said&rdquo; with no name provided and
-        no substantive explanation offered.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        State Farm has also centralized its audit teams for both auto and homeowners
-        claims. These teams review estimates prepared by independent shops, contractors,
-        and even the company&rsquo;s own field adjusters &mdash; cutting line items and
-        reducing payments before the policyholder ever sees a number.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Farmers Insurance: Controlling the Appraisal Process
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Farmers Insurance takes a different but equally effective approach to claims
-        suppression. The company relies heavily on in-house appraisers and preferred
-        vendors whose continued relationship with Farmers depends on producing results
-        that align with the company&rsquo;s interests. When an independent contractor
-        produces an estimate that exceeds the company&rsquo;s figure, Farmers can point
-        to its own appraiser&rsquo;s lower number as justification for the reduced
-        payment.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps more significantly, Farmers has modified its policy language to restrict
-        the appraisal process &mdash; the policyholder&rsquo;s primary contractual remedy
-        for disputing the amount of a claim. Farmers&rsquo; &ldquo;Next Generation&rdquo;
-        homeowner&rsquo;s policy restricts what the appraisal panel can determine
-        regarding overhead and profit and building ordinance coverage, effectively
-        writing the appraisal remedy out of their policies for precisely the categories
-        where the largest disputes arise. When the appraisal process itself is controlled
-        by the carrier, the policyholder&rsquo;s last contractual safeguard becomes
-        meaningless.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        CSAA/AAA: California Wildfire Claims
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        CSAA Insurance Group, which operates under the AAA brand, has drawn particular
-        scrutiny for its handling of California wildfire claims. In{' '}
-        <Link href="/resources/wildfire-guide" className="text-[#2E74B5] underline">
-          wildfire losses
-        </Link>
-        , where entire homes are destroyed, the primary disputes involve replacement cost
-        valuations. CSAA has faced bad faith litigation alleging intentional lowballing of
-        replacement values &mdash; with policyholders documenting differences of several
-        hundred thousand dollars between CSAA&rsquo;s covered replacement values and
-        actual contractor quotes to rebuild.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Investigations have shown that CSAA failed to account for differences in local
-        construction costs when estimating replacement values, failed to regularly update
-        replacement cost estimates as required, and placed the burden on policyholders
-        and their agents to obtain replacement cost information &mdash; rather than
-        fulfilling its own obligation to accurately assess and communicate coverage
-        limits. For wildfire survivors already dealing with the loss of everything they
-        own, these practices compound the devastation.
-      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
+        <li>
+          <strong>Centralized review of field assessments.</strong> Some carriers route
+          field adjusters&rsquo; recommendations through home-office or regional review
+          teams that revise scope and pricing without inspecting the property. Where
+          the revised scope departs from the field record and conflicts with the policy
+          language or applicable trade standards, plaintiffs have argued this constitutes
+          inadequate investigation under Egan and its progeny.
+        </li>
+        <li>
+          <strong>Internal damage criteria not in the policy.</strong> Plaintiffs have
+          challenged carrier-internal damage criteria (for example, criteria for when a
+          roof slope is replaced versus repaired) on the ground that the criteria depart
+          from the &ldquo;like kind and quality&rdquo; standard, from industry practice,
+          and from the policy text itself. These challenges generally succeed or fail
+          on the specific carrier&apos;s specific criteria and the specific evidence in
+          the file.
+        </li>
+        <li>
+          <strong>In-house appraisers and aligned vendors.</strong> The use of carrier-
+          retained appraisers and aligned vendors raises bias-of-the-expert questions
+          that California courts have addressed in cases such as <em>Chateau
+          Chamberay</em> (&ldquo;an insurer cannot insulate itself from bad-faith
+          liability by hiring an expert to manufacture a genuine dispute&rdquo;).
+          Whether a particular carrier&apos;s appraiser-selection practice crosses
+          that line is a fact question for the specific dispute.
+        </li>
+        <li>
+          <strong>Policy-form restrictions on appraisal scope.</strong> Some carriers
+          have modified policy forms to narrow what an appraisal panel may decide
+          (e.g., excluding general contractor overhead and profit or building-code
+          upgrade items). Whether such restrictions are enforceable in California is
+          contested; the appraisal cluster article{' '}
+          <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
+            here
+          </Link>{' '}
+          discusses the framework.
+        </li>
+        <li>
+          <strong>Replacement-cost valuation in wildfire claims.</strong> Wildfire
+          rebuild claims have produced substantial bad-faith litigation against multiple
+          California carriers in which insureds documented large gaps between
+          carrier-set replacement cost values and actual contractor quotes to rebuild.
+          The California Department of Insurance has also issued enforcement actions on
+          related practices &mdash; for example, CDI Stipulation and Order 2023-2
+          (November 30, 2023) adopting a market conduct examination of the California
+          FAIR Plan Association. Readers researching a specific carrier should consult
+          the actual published opinions, CDI press releases, and CDI orders on{' '}
+          <a href="https://www.insurance.ca.gov" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
+            insurance.ca.gov
+          </a>{' '}
+          for the primary record.
+        </li>
+      </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Preferred Vendor and Managed Repair Programs: Suppressing Claim Values by Design
@@ -594,12 +589,15 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR
-        &sect;2695.1 through &sect;2695.12) exist precisely because of the tactics
+        &sect; 2695.1 through &sect; 2695.12) exist precisely because of the tactics
         described in this article. These regulations establish minimum standards for
         claims handling that directly address the consulting-driven playbook. They are
         enforced by the California Department of Insurance under the authority of
-        Insurance Code &sect;790.03(h), which identifies sixteen unfair claims settlement
-        practices.
+        Insurance Code &sect; 790.03(h), which identifies sixteen unfair claims settlement
+        practices. Under <em>Moradi-Shalal v. Fireman&rsquo;s Fund Ins. Cos.</em> (1988)
+        46 Cal.3d 287, &sect; 790.03 does not create a private cause of action for an
+        insured; the standards it sets out are enforced by the Commissioner and serve
+        as evidence of the standard of care in common-law bad-faith claims.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -618,7 +616,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Prompt payment</strong> &mdash; Upon acceptance, the insurer must tender
-          payment within 30 calendar days (10 CCR &sect;2695.7(b)).
+          payment within 30 calendar days (10 CCR &sect; 2695.7(h)).
         </li>
         <li>
           <strong>No forced vendor selection</strong> &mdash; No insurer shall require the

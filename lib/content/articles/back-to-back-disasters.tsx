@@ -325,7 +325,14 @@ export default function Content() {
           require carriers to accept or deny claims within 40 days, pay undisputed amounts promptly, and not delay one coverage while investigating another. These requirements apply independently to each claim, meaning the carrier cannot use the pendency of the second claim as an excuse to delay the first.
         </li>
         <li>
-          <strong>AB 1800 (Extended ALE Protections):</strong> California law provides that policyholders displaced by a declared disaster are entitled to at least 24 months of additional living expenses. When back-to-back disasters extend the displacement period, this statutory minimum provides a floor that the carrier cannot undercut by arguing about which event caused which portion of the displacement.
+          <strong>Cal. Ins. Code &sect; 2060(b)(1) &mdash; 24-month ALE floor:</strong>{' '}
+          California law provides that, for losses related to a declared state of emergency,
+          additional living expenses coverage runs for at least 24 months from the inception
+          of the loss, with extensions available for good cause. (This rule was originally
+          codified at &sect; 2051.5(b)(2) and moved to &sect; 2060(b)(1) by SB 872 (2020).)
+          When back-to-back disasters extend the displacement period, this statutory minimum
+          provides a floor that the carrier cannot undercut by arguing about which event
+          caused which portion of the displacement.
         </li>
       </ul>
 
