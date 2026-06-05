@@ -58,32 +58,46 @@ export default function Content() {
         California&rsquo;s Fee Framework — Statute vs. Custom
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;15027.5 governs the agency relationship between the
-        Public Adjuster and the insured, and requires disclosure of any third-party
-        compensation the PA receives in connection with the claim. The statute does <strong>not</strong> impose
-        a numerical fee cap and does not contain a state-of-emergency 10% cap. The 10% figure
-        commonly seen on catastrophe-disaster contracts is industry contract practice, not
-        statutory law. The contract itself sets the fee, subject to &sect;15027&rsquo;s
-        requirements that the percentage be stated in the written agreement and disclosed up
-        front.
+        California Insurance Code &sect;15027 is the primary statute governing the
+        Public Adjuster&ndash;insured engagement. It requires a written contract on a form
+        approved by the Insurance Commissioner, disclosure of the PA&apos;s fee or other
+        compensation, and restrictions on solicitation (including a prohibition on
+        solicitation during a loss-producing occurrence and a prohibition on contact
+        between 6 p.m. and 8 a.m. unless requested). The statute does <strong>not</strong>{' '}
+        impose a numerical fee cap and does not contain a state-of-emergency 10% cap. The
+        10% figure commonly seen on catastrophe-disaster contracts is industry contract
+        practice, not statutory law. The fee percentage stated in the written contract
+        controls, subject to &sect;15027&apos;s disclosure and form requirements. A narrower
+        provision, &sect;15027.5, addresses compensation-related disclosures &mdash;
+        including disclosure of any third-party compensation the PA receives in connection
+        with the claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Pending legislation (AB 597, 2025–2026 session) would, if enacted, impose a statutory
-        cap on Public Adjuster fees for catastrophic-disaster claims at <strong>15%</strong> of
-        the amount paid by the insurer after the contract date. AB 597 has not been enacted as
-        of this writing; the 15% cap is a proposal, not current law.
+        Pending legislation (AB 597, 2025&ndash;2026 session) would, if enacted, impose a
+        statutory cap on Public Adjuster fees for catastrophic-disaster claims at{' '}
+        <strong>15%</strong> of the amount paid by the insurer after the contract date.
+        AB 597 has not been enacted as of this writing; the 15% cap is a proposal, not
+        current law.
       </p>
 
-      <CalloutBox variant="legal" title="California Insurance Code Section 15027.5 — What It Actually Says">
+      <CalloutBox variant="legal" title="California Insurance Code §§15027 and 15027.5 — What They Actually Say">
         <p>
-          &sect;15027.5 establishes that the Public Adjuster is the agent of the insured, that
-          the PA may not receive fees in excess of the amount or percentage stated in the
-          written contract, and that any third-party compensation the PA receives from a
-          contractor, insurer, or vendor must be disclosed to the insured. The statute does not
-          contain a 10% disaster cap or any other numerical cap; the percentage is whatever the
-          contract specifies. Verify the current text at{' '}
+          &sect;15027 is the primary written-contract and disclosure provision. It requires
+          the PA to enter a written contract on a Commissioner-approved form before acting
+          as a public adjuster in California, requires the contract to disclose the
+          adjuster&apos;s full salary, fee, commission, or other valuable consideration, and
+          restricts solicitation during a loss-producing occurrence and between 6 p.m. and
+          8 a.m. (unless requested by the insured). It does <strong>not</strong> contain a
+          10% disaster cap or any other numerical fee cap; the percentage is whatever the
+          contract specifies.
+        </p>
+        <p className="mt-2">
+          &sect;15027.5 is narrower &mdash; it addresses compensation-related disclosures,
+          including disclosure to the insured of any third-party compensation the PA
+          receives from a contractor, insurer, or vendor in connection with the claim.
+          Verify the current text of either section at{' '}
           <a
-            href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=15027.5"
+            href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=15027."
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#2E74B5] underline"
