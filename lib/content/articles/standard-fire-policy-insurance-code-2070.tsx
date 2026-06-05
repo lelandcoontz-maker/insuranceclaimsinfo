@@ -901,9 +901,9 @@ export default function Content() {
         but does not provide the comprehensive coverage that a standard HO-3 policy offers.
         Policyholders who obtain FAIR Plan coverage typically need a companion policy (called a
         &ldquo;Difference in Conditions&rdquo; or DIC policy) to fill the gaps. The FAIR Plan
-        imposes coverage limits that are set by regulatory action and change periodically. As of
-        {/* INSERT PUBLICATION DATE */}, the FAIR Plan&apos;s residential coverage limit is $3
-        million. For current limits, the California FAIR Plan website is authoritative.
+        imposes coverage limits that are set by regulatory action and change periodically.
+        The California FAIR Plan website is the authoritative source for current
+        residential and commercial coverage limits.
         For a comprehensive discussion of
         the FAIR Plan and its limitations, see our{' '}
         <Link href="/resources/california-fair-plan" className="text-[#2E74B5] hover:underline">
