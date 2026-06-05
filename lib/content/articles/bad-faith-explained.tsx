@@ -170,9 +170,9 @@ export default function Content() {
           <strong>Punitive damages:</strong> Available when the insurer&apos;s conduct is
           malicious, oppressive, or fraudulent &mdash; proven by clear and convincing evidence
           (Civil Code &sect; 3294). Punitive damages must be proportional to the harm caused.
-          The U.S. Supreme Court in <em>State Farm v. Campbell</em> (2003) 538 U.S. 408 held
-          that &ldquo;few awards exceeding a single-digit ratio between punitive and compensatory
-          damages... will satisfy due process.&rdquo; The California Supreme Court applied this in{' '}
+          The U.S. Supreme Court in <em>State Farm v. Campbell</em> (2003) 538 U.S. 408, 425
+          held that &ldquo;few awards exceeding a single-digit ratio between punitive and
+          compensatory damages, to a significant degree, will satisfy due process.&rdquo; The California Supreme Court applied this in{' '}
           <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th 1159 and{' '}
           <em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686, where it held that a 1:1 ratio
           may be the constitutional maximum when compensatory damages are substantial. In

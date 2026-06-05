@@ -518,12 +518,15 @@ export default function Content() {
         6. Systematic Underpayment or Pattern and Practice
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Pattern and practice evidence can overcome the genuine dispute defense. If a policyholder
-        or attorney can demonstrate that the carrier systematically underpays claims of a
-        particular type &mdash; using the same experts, the same methodologies, and the same
-        justifications across hundreds or thousands of claims &mdash; that pattern is evidence
-        that the insurer&rsquo;s position is not a good-faith response to individual claim
-        facts but rather a deliberate strategy to minimize payouts.
+        Plaintiff attorneys frequently argue that pattern-and-practice evidence weakens an
+        insurer&rsquo;s genuine-dispute defense. The theory: if a carrier systematically
+        underpays claims of a particular type &mdash; using the same experts, the same
+        methodologies, and the same justifications across many claims &mdash; that pattern
+        is evidence the position in any individual case is not a good-faith response to the
+        facts of that case but reflects a broader claims-handling strategy. Whether such
+        evidence is admissible or persuasive on the genuine-dispute question is
+        fact-dependent and a matter for the trial court and an attorney to evaluate in a
+        specific case.
       </p>
 
       {/* ── Relationship to Duty to Investigate ─────────────────── */}
