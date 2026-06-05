@@ -30,40 +30,60 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Key Deadlines</h2>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>15 days</strong> &mdash; The carrier must acknowledge receipt of your claim
-          and begin investigation
+          <strong>15 days</strong> &mdash; The carrier must acknowledge receipt of the claim
+          and begin investigation (10 CCR &sect; 2695.5(e)).
+        </li>
+        <li>
+          <strong>15 days</strong> &mdash; The carrier must respond to communications from
+          the insured that reasonably suggest a response is expected (10 CCR
+          &sect; 2695.5(b)).
         </li>
         <li>
           <strong>40 days</strong> &mdash; After receiving a proof of claim, the carrier must
-          accept or deny the claim (or inform you of the need for additional time and the
-          reasons why)
+          accept or deny the claim (or inform the insured of the need for additional time
+          and the reasons why) (10 CCR &sect; 2695.7(b)).
         </li>
         <li>
-          <strong>30 days</strong> &mdash; After reaching agreement on the amount, the carrier
-          must issue payment
+          <strong>30 days</strong> &mdash; The carrier must provide written status updates
+          at least every 30 days while the claim remains open beyond the 40-day decision
+          window (10 CCR &sect; 2695.7(c)).
         </li>
         <li>
-          <strong>30 days</strong> &mdash; The carrier must provide written status updates at
-          least every 30 days while the claim is open
+          <strong>30 days</strong> &mdash; After acceptance of the claim, the carrier must
+          issue payment (10 CCR &sect; 2695.7(h)).
         </li>
         <li>
-          <strong>15 days</strong> &mdash; The carrier must respond to communications from the
-          insured that reasonably suggest a response is expected
+          <strong>60 days</strong> &mdash; Where the contractual or statutory suit limitation
+          period is approaching, the carrier must notify the insured at least 60 days before
+          that deadline (10 CCR &sect; 2695.7(f)).
         </li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Statute of Limitations</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California is unusual in several ways when it comes to the statute of limitations on
-        insurance claims. The standard policy requires suit to be filed within one year of the
-        loss. However, in California the statute of limitations is tolled (paused) during the
-        period the insurance company is investigating. This means the clock is paused while
-        the carrier is actively handling your claim.
+        insurance claims. Under Cal. Ins. Code &sect; 2071, the standard fire policy requires
+        suit to be filed within <strong>12 months from inception of the loss</strong>. For
+        losses related to a declared state of emergency as defined in Government Code
+        &sect; 8558(b), &sect; 2071 extends that period to{' '}
+        <strong>24 months from inception of the loss</strong>. The shorter 12-month period
+        is the default; the 24-month period applies to most wildfire, earthquake, and other
+        declared-disaster losses.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The carrier is required to inform an insured who is not represented by an attorney of
-        their applicable statute of limitations. This is an additional protection unique to
-        California that many adjusters forget about. For more on this topic, see our guide on{' '}
+        California courts also recognize <em>equitable tolling</em> of the suit-limitation
+        period: under <em>Prudential-LMI Commercial Ins. v. Superior Court</em> (1990) 51
+        Cal.3d 674, the limitation clock is paused while the insurer is actively
+        investigating and adjusting the claim, then resumes once the carrier formally
+        denies, closes the claim, or otherwise ceases active investigation. Whether tolling
+        applies to a specific situation is fact-dependent and a question for a California-
+        licensed attorney.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The carrier is required to inform an insured who is not represented by an attorney
+        of the applicable statute of limitations and to do so at least 60 days before the
+        deadline (10 CCR &sect; 2695.7(f)). This is an additional protection unique to
+        California that many adjusters overlook. For more on this topic, see our guide on{' '}
         <Link href="/resources/equitable-tolling" className="text-blue-700 underline hover:text-blue-900">
           equitable tolling
         </Link>.
