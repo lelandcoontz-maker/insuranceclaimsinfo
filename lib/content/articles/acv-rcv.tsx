@@ -144,11 +144,14 @@ export default function Content() {
           the insurer actually issues the ACV payment.
         </p>
         <p className="mt-3">
-          <strong>State-of-emergency extension:</strong> For losses related to a declared state
-          of emergency, &sect; 2051.5(b)(1) (as amended by AB 1800 in 2018) extends the minimum
-          to <strong>36 months</strong> from the first ACV payment, with additional six-month
-          extensions available for good cause. Wildfire and other declared-disaster losses
-          almost always qualify for this longer period.
+          <strong>State-of-emergency extension:</strong> For losses related to a declared
+          state of emergency, &sect; 2051.5(b)(1) extends the minimum period for collecting
+          replacement-cost benefits to <strong>36 months</strong> from the first ACV payment,
+          with additional six-month extensions available for good cause. The 36-month
+          framework was put in place as part of California&rsquo;s post-Tubbs/post-Thomas
+          wildfire legislative package (most notably SB 894 (2018) and companion bills),
+          with later refinements through SB 872, AB 3012, and related measures. Wildfire and
+          other declared-disaster losses almost always qualify for this longer period.
         </p>
         <p className="mt-3">
           If you need more time even beyond these statutory minimums, request an extension in
@@ -167,10 +170,12 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Labor costs:</strong> In several states, courts have ruled that labor does not
-          depreciate. The cost to pay a roofer or painter today is the cost today, period. The age of
-          the materials is irrelevant to the cost of installing new ones. California courts have
-          addressed this issue, and policyholders should challenge labor depreciation when it
-          appears.
+          depreciate. The cost to pay a roofer or painter today is the cost today, period. The age
+          of the materials is irrelevant to the cost of installing new ones. In California, the
+          rule is statutory: Cal. Ins. Code &sect; 2051(b)(2) provides that the value of the
+          labor necessary to repair the damaged or destroyed property is not subject to
+          depreciation. An insured who sees labor depreciation on a California estimate has a
+          basis to dispute it.
         </li>
         <li>
           <strong>Concrete foundations and slabs:</strong> Concrete has an extremely long useful life.
@@ -206,11 +211,12 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Review Every Line">
         <p>
-          When you receive the insurer&rsquo;s estimate, review the depreciation applied to every
-          line item. If you see labor being depreciated, blanket percentages being applied, or
-          numbers that do not make sense, challenge them in writing with a clear explanation of why
-          the depreciation is incorrect. A licensed Public Adjuster can perform this analysis and
-          negotiate corrections on your behalf.
+          When the insurer&rsquo;s estimate arrives, the depreciation applied to every line
+          item is worth reviewing. Labor depreciation, blanket percentage applications, and
+          numbers that do not line up with the actual condition of the property can each be
+          raised in writing with a clear explanation of why the depreciation is incorrect.
+          A licensed Public Adjuster can perform this analysis and negotiate corrections on
+          the insured&rsquo;s behalf.
         </p>
       </CalloutBox>
 
