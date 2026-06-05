@@ -145,13 +145,12 @@ export default function Content() {
         </p>
         <p className="mt-3">
           <strong>State-of-emergency extension:</strong> For losses related to a declared
-          state of emergency, &sect; 2051.5(b)(1) extends the minimum period for collecting
-          replacement-cost benefits to <strong>36 months</strong> from the first ACV payment,
-          with additional six-month extensions available for good cause. The 36-month
-          framework was put in place as part of California&rsquo;s post-Tubbs/post-Thomas
-          wildfire legislative package (most notably SB 894 (2018) and companion bills),
-          with later refinements through SB 872, AB 3012, and related measures. Wildfire and
-          other declared-disaster losses almost always qualify for this longer period.
+          state of emergency, &sect; 2051.5(b)(1) (as amended by AB 1800 in 2018, the
+          last-chaptered bill in California&rsquo;s 2018 wildfire package alongside SB 894
+          and AB 1772) extends the minimum period for collecting replacement-cost benefits
+          to <strong>36 months</strong> from the first ACV payment, with additional
+          six-month extensions available for good cause. Wildfire and other
+          declared-disaster losses almost always qualify for this longer period.
         </p>
         <p className="mt-3">
           If you need more time even beyond these statutory minimums, request an extension in

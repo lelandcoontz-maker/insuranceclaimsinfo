@@ -107,11 +107,12 @@ export default function Content() {
         Comparable Housing Standard
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard is that you are entitled to maintain your normal standard of living. If you
-        lived in a four-bedroom house in a specific school district, you are entitled to comparable
-        temporary housing &mdash; not a studio apartment across town. Temporary housing includes
-        hotels, rental homes, and furnished apartments that reasonably match your pre-loss living
-        situation.
+        The governing standard is comparable housing. An insured displaced by a covered loss
+        is generally entitled, under ALE coverage, to maintain a standard of living
+        reasonably comparable to the pre-loss situation. A four-bedroom house in a specific
+        school district would generally call for comparable temporary housing &mdash; not a
+        studio apartment across town. Temporary housing includes hotels, rental homes, and
+        furnished apartments that reasonably match the pre-loss living situation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -142,15 +143,17 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Pressuring you into cheap housing.</strong> The insurer may push a small apartment
-          or extended-stay hotel that does not match your normal standard of living. You are entitled
-          to comparable housing.
+          <strong>Pressuring you into cheap housing.</strong> The insurer may push a small
+          apartment or extended-stay hotel that does not match the insured&rsquo;s normal
+          standard of living. The governing ALE standard is comparable housing, not the
+          carrier&rsquo;s preferred minimum.
         </li>
         <li>
-          <strong>Cutting ALE off too early.</strong> Some insurers try to end ALE benefits before
-          repairs are actually complete, arguing that the home is &ldquo;livable&rdquo; even when
-          significant work remains. If the home is not fully repaired and safe to occupy, ALE
-          continues.
+          <strong>Cutting ALE off too early.</strong> Some insurers try to end ALE benefits
+          before repairs are actually complete, arguing that the home is
+          &ldquo;livable&rdquo; even when significant work remains. ALE coverage generally
+          continues until the home is restored to a habitable condition; whether a partially
+          repaired home meets that standard is fact-specific and often disputed.
         </li>
         <li>
           <strong>Disputing food expenses.</strong> Insurers sometimes challenge increased food costs
@@ -188,10 +191,15 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        ALE and FRV exist to keep you and your family stable while your home is restored. Do not
-        leave this money on the table. Track every expense, submit documentation regularly, and push
-        back if the insurer tries to shortchange you. A licensed Public Adjuster can help ensure you
-        receive the full ALE or FRV benefit your policy provides.
+        ALE and FRV exist to keep displaced households stable while the home is being
+        restored. These benefits are commonly underutilized: tracking every expense,
+        submitting documentation regularly, and responding in writing when the carrier
+        narrows the benefit are practical steps that preserve the record. A licensed Public
+        Adjuster can develop the documentation and negotiate disputed ALE/FRV calculations.
+        Where a disputed ALE claim raises legal questions &mdash; for example, whether the
+        carrier&rsquo;s habitability determination is reasonable or whether bad-faith
+        damages are available &mdash; consultation with a California-licensed attorney is
+        the appropriate next step.
       </p>
 
       <hr className="my-8 border-gray-300" />
