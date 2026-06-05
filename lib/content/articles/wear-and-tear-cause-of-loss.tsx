@@ -222,10 +222,18 @@ export default function Content() {
           proximate cause, even if an excluded condition contributed.
         </li>
         <li>
-          In <strong><em>Julian v. Hartford Underwriters Ins. Co.</em></strong> (2005) 35 Cal.4th 747,
-          the Court reaffirmed that the efficient proximate cause doctrine applies even when the
-          policy contains anti-concurrent causation language, where a covered peril is the predominant
-          cause.
+          In <strong><em>Howell v. State Farm Fire &amp; Cas. Co.</em></strong> (1990) 218
+          Cal.App.3d 1446, the Court of Appeal held that anti-concurrent causation policy
+          language cannot defeat coverage where a covered peril is the efficient proximate
+          cause of the loss &mdash; the EPC analysis controls over ACC clause text.
+        </li>
+        <li>
+          In <strong><em>Julian v. Hartford Underwriters Ins. Co.</em></strong> (2005) 35
+          Cal.4th 747, the California Supreme Court restated the EPC doctrine but, on the
+          facts before it, <em>enforced</em> the carrier&rsquo;s exclusion &mdash; illustrating
+          that the manifestation-versus-distinct-peril line is fact-specific. <em>Julian</em>
+          is often cited for the general EPC framework, but the case&rsquo;s actual outcome
+          went the carrier&rsquo;s way on its facts.
         </li>
         <li>
           <strong>California Insurance Code &sect; 530</strong> establishes the proximate-cause
