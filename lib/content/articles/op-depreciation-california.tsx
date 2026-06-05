@@ -26,36 +26,45 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Statute: California Insurance Code Section 2051(b)(2)
+        The Statute: California Insurance Code Section 2051(b)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code Section 2051(b)(2) defines how actual cash value is calculated
-        for a partial loss to the structure or contents under an open policy:
+        California Insurance Code Section 2051(b) defines how actual cash value is calculated
+        under an open policy. Following AB 188 (Stats. 2019, ch. 59), effective January 1,
+        2020, the same replacement-cost-less-depreciation formula applies to either a total
+        or partial loss to the structure or its contents:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;In case of a partial loss to the structure, or the contents, the measure of
-        actual cash value recovery is the amount it would cost the insured to repair, rebuild,
-        or replace the damaged or destroyed property, less a fair and reasonable deduction for
-        physical depreciation based upon its condition at the time of the injury or the policy
-        limit, whichever is less. A deduction for physical depreciation shall apply only to
-        components of a structure that are normally subject to repair and replacement during
-        the useful life of that structure. The deduction for physical depreciation shall not
-        include any labor costs that would be incurred to repair, rebuild, or replace the
-        damaged or destroyed property.&rdquo;
+        &ldquo;Under an open policy that requires payment of actual cash value, the measure
+        of the actual cash value recovery, in whole or partial settlement of the claim, for
+        either a total or partial loss to the structure or its contents, shall be the
+        amount it would cost the insured to repair, rebuild, or replace the thing lost or
+        injured less a fair and reasonable deduction for physical depreciation based upon
+        its condition at the time of the injury or the policy limit, whichever is less. A
+        deduction for physical depreciation shall apply only to components of a structure
+        that are normally subject to repair and replacement during the useful life of that
+        structure.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
-        Cal. Ins. Code &sect; 2051(b)(2) (as amended by AB 188, Stats. 2019, Ch. 59,
-        eff. 1/1/2020; labor-depreciation sentence added by the earlier AB 188, Stats. 2018,
-        Ch. 627, eff. 1/1/2019). <a href="https://california.public.law/codes/ca_ins_code_section_2051" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read the statute</a>.
+        Cal. Ins. Code &sect; 2051(b), as amended by AB 188 (Stats. 2019, ch. 59), effective
+        January 1, 2020. AB 188 (2019) eliminated the prior &sect; 2051(b)(1)/(b)(2)
+        bifurcation between total and partial losses.{' '}
+        <a href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=2051." target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read the statute on leginfo</a>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The statute contains four critical limitations on what can be depreciated:
+        California&apos;s prohibition on depreciating labor lives in the parallel regulation,
+        10 CCR &sect; 2695.9(f)(1): &ldquo;Except for the intrinsic labor costs that are
+        included in the cost of manufactured materials or goods, the expense of labor
+        necessary to repair, rebuild or replace covered property is not a component of
+        physical depreciation and shall not be subject to depreciation or betterment.&rdquo;
+        Taken together, the statute and regulation impose four critical limitations on what
+        can be depreciated:
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
-        <li><strong>Physical depreciation only.</strong> The deduction must be for &ldquo;physical depreciation&rdquo; &mdash; not any other kind of reduction.</li>
+        <li><strong>Physical depreciation only.</strong> The statutory deduction must be for &ldquo;physical depreciation&rdquo; &mdash; not any other kind of reduction.</li>
         <li><strong>Based on condition.</strong> The depreciation must be &ldquo;based upon its condition at the time of the injury&rdquo; &mdash; the item must have a measurable physical state that can deteriorate.</li>
         <li><strong>Components of a structure only.</strong> Depreciation applies &ldquo;only to components of a structure that are normally subject to repair and replacement during the useful life of that structure.&rdquo;</li>
-        <li><strong>No labor.</strong> The deduction &ldquo;shall not include any labor costs that would be incurred to repair, rebuild, or replace the damaged or destroyed property.&rdquo;</li>
+        <li><strong>No labor.</strong> Under the regulation, labor (other than intrinsic labor embedded in manufactured materials) &ldquo;is not a component of physical depreciation and shall not be subject to depreciation or betterment.&rdquo;</li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
         Overhead and profit fails the first three tests directly: it is not &ldquo;physical,&rdquo;

@@ -86,17 +86,19 @@ export default function Content() {
         cash value losses and imposes three critical requirements that carriers routinely ignore.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a partial loss to the structure or contents, &sect; 2051(b)(2) defines the measure of
-        actual cash value recovery as &quot;the amount it would cost the insured to repair,
-        rebuild, or replace the damaged or destroyed property, less a fair and reasonable
-        deduction for physical depreciation based upon its condition at the time of the injury
-        or the policy limit, whichever is less.&quot; The same subsection then adds two
-        policyholder-protective limits: a deduction for physical depreciation &quot;shall apply
-        only to components of a structure that are normally subject to repair and replacement
-        during the useful life of that structure,&quot; and &mdash; under the language added by
-        AB 188 (Stats. 2018, ch. 627), effective January 1, 2019 &mdash; &quot;the deduction for
-        physical depreciation shall not include any labor costs that would be incurred to repair,
-        rebuild, or replace the damaged or destroyed property.&quot;
+        For either a total or partial loss to the structure or its contents, &sect; 2051(b)
+        defines the measure of actual cash value recovery as &quot;the amount it would cost
+        the insured to repair, rebuild, or replace the thing lost or injured less a fair and
+        reasonable deduction for physical depreciation based upon its condition at the time
+        of the injury or the policy limit, whichever is less.&quot; The same subsection adds
+        a policyholder-protective limit: a deduction for physical depreciation &quot;shall
+        apply only to components of a structure that are normally subject to repair and
+        replacement during the useful life of that structure.&quot; California&apos;s
+        labor-depreciation prohibition lives in the parallel regulation, 10 CCR
+        &sect; 2695.9(f)(1): &quot;Except for the intrinsic labor costs that are included
+        in the cost of manufactured materials or goods, the expense of labor necessary to
+        repair, rebuild or replace covered property is not a component of physical
+        depreciation and shall not be subject to depreciation or betterment.&quot;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         These three provisions &mdash; condition-based depreciation, the restriction to components
@@ -404,35 +406,37 @@ export default function Content() {
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California&apos;s Position: Labor Depreciation Is Prohibited by Statute
+        California&apos;s Position: Labor Depreciation Is Prohibited by Regulation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has resolved the labor depreciation question directly through statute. AB 188
-        (Stats. 2018, ch. 627), effective January 1, 2019, amended Insurance Code &sect; 2051(b)(2)
-        to add the following sentence: &quot;The deduction for physical depreciation shall not
-        include any labor costs that would be incurred to repair, rebuild, or replace the damaged
-        or destroyed property.&quot; The result is unambiguous: on a California first-party
-        property claim, the carrier may not depreciate the labor component of a repair or
-        replacement estimate at all. The only labor that may be depreciated is labor already
-        embedded in the manufactured material itself (the intrinsic labor that went into producing
-        a shingle, a length of copper pipe, a window unit) &mdash; not the labor an insured will
-        pay a contractor to install or replace the damaged component.
+        California addresses the labor depreciation question through a Fair Claims Settlement
+        Practices regulation. 10 CCR &sect; 2695.9(f)(1) provides that &quot;[e]xcept for
+        the intrinsic labor costs that are included in the cost of manufactured materials or
+        goods, the expense of labor necessary to repair, rebuild or replace covered property
+        is not a component of physical depreciation and shall not be subject to depreciation
+        or betterment.&quot; The result is unambiguous: on a California first-party property
+        claim, the carrier may not depreciate the labor component of a repair or replacement
+        estimate. The only labor that may be depreciated is labor already embedded in the
+        manufactured material itself (the intrinsic labor that went into producing a shingle,
+        a length of copper pipe, a window unit) &mdash; not the labor an insured will pay a
+        contractor to install or replace the damaged component.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The dollar impact is significant. Labor commonly represents 40 to 60 percent of a
-        dwelling repair estimate. On a $50,000 repair estimate where labor comprises $25,000, a
-        carrier that applies 30 percent depreciation to the full estimate (including labor)
-        withholds $7,500 in labor depreciation alone. On larger claims, depreciating labor in
-        violation of &sect; 2051(b)(2) can cost policyholders $15,000 to $30,000 or more.
+        dwelling repair estimate. On a $50,000 repair estimate where labor comprises $25,000,
+        a carrier that applies 30 percent depreciation to the full estimate (including labor)
+        withholds $7,500 in labor depreciation alone. On larger claims, depreciating labor
+        in violation of 10 CCR &sect; 2695.9(f)(1) can cost policyholders $15,000 to $30,000
+        or more.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Despite the clear statutory text, some carriers and their estimating software still apply
-        depreciation to combined material-plus-labor line items, which has the practical effect of
-        depreciating labor. On every California claim, an insured should compare the labor portion
-        of each line item to the depreciation applied and confirm that no portion of the labor
-        cost has been depreciated. Where the carrier&apos;s estimate fails to separate labor from
-        materials, an insured can request the breakout in writing &mdash; and cite
-        &sect; 2051(b)(2) as the basis for that request.
+        Despite the clear regulatory text, some carriers and their estimating software still
+        apply depreciation to combined material-plus-labor line items, which has the practical
+        effect of depreciating labor. On every California claim, an insured should compare
+        the labor portion of each line item to the depreciation applied and confirm that no
+        portion of the labor cost has been depreciated. Where the carrier&apos;s estimate
+        fails to separate labor from materials, an insured can request the breakout in
+        writing &mdash; and cite 10 CCR &sect; 2695.9(f)(1) as the basis for that request.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -831,16 +835,17 @@ export default function Content() {
         </li>
         <li>
           <strong>Address labor depreciation separately.</strong> If the carrier has depreciated
-          labor on a California claim, raise this as a distinct issue and cite Insurance Code
-          &sect; 2051(b)(2) directly: &quot;The deduction for physical depreciation shall not
-          include any labor costs that would be incurred to repair, rebuild, or replace the
-          damaged or destroyed property.&quot; This is a statutory prohibition, not merely a
-          policy argument.
+          labor on a California claim, raise this as a distinct issue and cite 10 CCR
+          &sect; 2695.9(f)(1) directly: &quot;Except for the intrinsic labor costs that are
+          included in the cost of manufactured materials or goods, the expense of labor
+          necessary to repair, rebuild or replace covered property is not a component of
+          physical depreciation and shall not be subject to depreciation or betterment.&quot;
+          This is a regulatory prohibition, not merely a policy argument.
         </li>
         <li>
           <strong>Identify components that should not be depreciated at all.</strong> Separately
           list structural components that are not &quot;normally subject to repair and
-          replacement&quot; and cite &sect; 2051(b)(2) for each.
+          replacement&quot; and cite Cal. Ins. Code &sect; 2051(b) for each.
         </li>
         <li>
           <strong>Escalate if necessary.</strong> If the adjuster refuses to adjust
@@ -972,15 +977,16 @@ export default function Content() {
         </li>
         <li>
           Identify structural components that should not be depreciated at all under
-          &sect; 2051(b)(2). Framing, foundation, embedded plumbing, and wiring are strong
-          candidates.
+          Cal. Ins. Code &sect; 2051(b). Framing, foundation, embedded plumbing, and wiring
+          are strong candidates.
         </li>
         <li>
-          On California claims, labor depreciation is prohibited by statute. Insurance Code
-          &sect; 2051(b)(2) (as amended by AB 188, effective January 1, 2019) provides that
-          the deduction for physical depreciation &quot;shall not include any labor costs that
-          would be incurred to repair, rebuild, or replace the damaged or destroyed property.&quot;
-          Challenge any depreciation calculation that touches the labor portion of a line item.
+          On California claims, labor depreciation is prohibited by regulation. 10 CCR
+          &sect; 2695.9(f)(1) provides that &quot;the expense of labor necessary to repair,
+          rebuild or replace covered property is not a component of physical depreciation
+          and shall not be subject to depreciation or betterment&quot; (with a narrow
+          exception for intrinsic labor in manufactured materials). Challenge any
+          depreciation calculation that touches the labor portion of a line item.
         </li>
         <li>
           On{' '}

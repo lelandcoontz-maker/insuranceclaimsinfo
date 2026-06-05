@@ -2,11 +2,11 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Labor Depreciation: Can Labor "Wear Out"? California Says No — By Statute and Regulation',
+  title: 'Labor Depreciation: Can Labor "Wear Out"? California Says No — By Regulation',
   description:
-    'A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: Cal. Ins. Code §2051(b)(2) (added by AB 188, eff. 1/1/2019) and 10 CCR §2695.9(f)(1) both prohibit labor depreciation. Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.',
+    'A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: 10 CCR §2695.9(f)(1) prohibits labor depreciation in property claims. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.',
   summary:
-    'Can a service physically wear out? In California, both the Insurance Code (§2051(b)(2)) and the Fair Claims regulations (10 CCR §2695.9(f)(1)) prohibit depreciating labor. The only narrow exception is intrinsic labor in manufactured materials. Challenge labor depreciation on every California claim where it appears.',
+    'Can a service physically wear out? In California, the Fair Claims regulation (10 CCR §2695.9(f)(1)) prohibits depreciating labor in property claims. The only narrow exception is intrinsic labor in manufactured materials. The statutory ACV framework is at Cal. Ins. Code §2051(b). Challenge labor depreciation on every California claim where it appears.',
 }
 
 export default function Content() {
@@ -318,47 +318,19 @@ export default function Content() {
         California&apos;s Position: Prohibited by Both Statute and Regulation
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has resolved the labor depreciation question through both statute and
-        regulation, and the two provisions point in the same direction.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Statute: Insurance Code &sect; 2051(b)(2)
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Assembly Bill 188 (Stats. 2018, ch. 627), effective January 1, 2019, amended Insurance
-        Code &sect; 2051(b)(2) to add an express prohibition on depreciating labor. The
-        current statutory text reads:
-      </p>
-
-      <CalloutBox variant="legal" title="Cal. Ins. Code § 2051(b)(2)">
-        <p className="italic">
-          &ldquo;In case of a partial loss to the structure, or the contents, the measure of
-          actual cash value recovery is the amount it would cost the insured to repair, rebuild,
-          or replace the damaged or destroyed property, less a fair and reasonable deduction for
-          physical depreciation based upon its condition at the time of the injury or the policy
-          limit, whichever is less. A deduction for physical depreciation shall apply only to
-          components of a structure that are normally subject to repair and replacement during
-          the useful life of that structure. The deduction for physical depreciation shall not
-          include any labor costs that would be incurred to repair, rebuild, or replace the
-          damaged or destroyed property.&rdquo;
-        </p>
-      </CalloutBox>
-
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The operative sentence is the third one: &ldquo;The deduction for physical depreciation
-        shall not include any labor costs that would be incurred to repair, rebuild, or replace
-        the damaged or destroyed property.&rdquo; That is not a policy argument or an
-        interpretation; it is the statute itself. On a California first-party property claim,
-        the carrier may not depreciate the labor portion of a repair or replacement estimate.
+        California addresses labor depreciation through a Fair Claims Settlement Practices
+        regulation, against the backdrop of the statutory ACV framework. The regulation
+        contains the operative labor-depreciation prohibition; the statute supplies the
+        depreciation framework that the regulation implements.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Regulation: 10 CCR &sect; 2695.9(f)(1)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Fair Claims Settlement Practices Regulations contain a parallel
-        prohibition that predates and reinforces the statutory rule:
+        California&apos;s prohibition on depreciating labor lives in the Fair Claims
+        Settlement Practices Regulations &mdash; the operative regulatory provision is
+        10 CCR &sect; 2695.9(f)(1):
       </p>
 
       <CalloutBox variant="legal" title="10 CCR § 2695.9(f)(1)">
@@ -374,8 +346,21 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        Statutory backdrop: Cal. Ins. Code &sect; 2051(b)
+      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read together, &sect; 2051(b)(2) and &sect; 2695.9(f)(1) establish a clear rule for
+        The regulation operates against the statutory ACV framework in Cal. Ins. Code
+        &sect; 2051(b), as restructured by AB 188 (Stats. 2019, ch. 59), effective January
+        1, 2020. AB 188 (2019) eliminated the prior &sect; 2051(b)(1)/(b)(2) bifurcation
+        between total and partial losses, making the same replacement-cost-less-depreciation
+        formula apply to either. The statute uses &ldquo;thing lost or injured&rdquo; and
+        does not contain a labor-depreciation prohibition itself &mdash; that point is
+        addressed by the regulation above.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Read together, &sect; 2695.9(f)(1) and &sect; 2051(b) establish a clear rule for
         California first-party property claims: the carrier may not depreciate the labor portion
         of a repair or replacement estimate. The only narrow exception is for &ldquo;intrinsic
         labor&rdquo; that is already embedded in the cost of a manufactured material &mdash;

@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Labor Depreciation: Why Your Insurance Company Can\'t Depreciate Work Costs',
   description:
-    'In California, labor depreciation is prohibited by both statute (Cal. Ins. Code §2051(b)(2)) and regulation (10 CCR §2695.9(f)(1)). Learn what labor depreciation is, the California prohibition, and how to challenge it on your claim.',
+    'In California, labor depreciation is prohibited by regulation: 10 CCR §2695.9(f)(1) bars carriers from treating labor as a component of physical depreciation. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn what labor depreciation is, the California prohibition, and how to challenge it on your claim.',
   summary:
-    'California prohibits labor depreciation by statute and by regulation. Cal. Ins. Code §2051(b)(2) (added by AB 188, eff. 1/1/2019) and 10 CCR §2695.9(f)(1) both bar carriers from depreciating the labor portion of a repair or replacement estimate. Challenge it on every claim where it appears.',
+    'California prohibits labor depreciation by regulation. 10 CCR §2695.9(f)(1) bars carriers from depreciating the labor portion of a repair or replacement estimate, except for intrinsic labor in manufactured materials. The statutory ACV framework is at Cal. Ins. Code §2051(b). Challenge labor depreciation on every claim where it appears.',
 }
 
 export default function Content() {
@@ -27,7 +27,7 @@ export default function Content() {
         A roofer charges the same rate whether they are installing shingles on a new home
         or replacing 20-year-old shingles on yours. There is no &quot;depreciated&quot; version
         of a plumber&apos;s hourly rate. And in California, labor depreciation is not just a
-        bad practice &mdash; it is expressly prohibited by both statute and regulation.
+        bad practice &mdash; it is expressly prohibited by regulation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What Is Labor Depreciation?</h2>
@@ -48,18 +48,13 @@ export default function Content() {
         on a typical claim.
       </p>
 
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">California: Prohibited by Statute and Regulation</h2>
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">California: Prohibited by Regulation</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has resolved the labor depreciation question through both statute and
-        regulation, and the two provisions point in the same direction.
+        California addresses labor depreciation through a Fair Claims Settlement Practices
+        regulation, against the backdrop of the statutory ACV framework. The regulation
+        contains the operative prohibition; the statute supplies the depreciation framework
+        that the regulation implements.
       </p>
-
-      <CalloutBox variant="legal" title="Cal. Ins. Code § 2051(b)(2) (added by AB 188, eff. Jan. 1, 2019)">
-        <p className="italic">
-          &ldquo;The deduction for physical depreciation shall not include any labor costs that
-          would be incurred to repair, rebuild, or replace the damaged or destroyed property.&rdquo;
-        </p>
-      </CalloutBox>
 
       <CalloutBox variant="legal" title="10 CCR § 2695.9(f)(1)">
         <p className="italic">
@@ -70,21 +65,35 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <CalloutBox variant="legal" title="Cal. Ins. Code § 2051(b) (statutory ACV framework)">
+        <p className="italic">
+          &ldquo;Under an open policy that requires payment of actual cash value, the measure
+          of the actual cash value recovery, in whole or partial settlement of the claim, for
+          either a total or partial loss to the structure or its contents, shall be the
+          amount it would cost the insured to repair, rebuild, or replace the thing lost or
+          injured less a fair and reasonable deduction for physical depreciation based upon
+          its condition at the time of the injury or the policy limit, whichever is less. A
+          deduction for physical depreciation shall apply only to components of a structure
+          that are normally subject to repair and replacement during the useful life of that
+          structure.&rdquo;
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read together, these two provisions establish a clear rule for California first-party
+        Read together, these provisions establish a clear rule for California first-party
         property claims: the carrier may not depreciate the labor portion of a repair or
-        replacement estimate. The only narrow exception is for &ldquo;intrinsic labor&rdquo; that
-        is already embedded in the cost of a manufactured material &mdash; for example, the
-        factory labor that went into producing a shingle or window unit is part of the material
-        itself. The labor an insured will pay a contractor to install or replace the damaged
-        component is not subject to depreciation, period.
+        replacement estimate. The only narrow exception is for &ldquo;intrinsic labor&rdquo;
+        that is already embedded in the cost of a manufactured material &mdash; for example,
+        the factory labor that went into producing a shingle or window unit is part of the
+        material itself. The labor an insured will pay a contractor to install or replace
+        the damaged component is not subject to depreciation, period.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Despite the clear statutory and regulatory text, some carriers and their estimating
-        software still apply depreciation to combined material-plus-labor line items, which has
-        the practical effect of depreciating labor. Where that happens, the carrier is in
-        violation of both &sect; 2051(b)(2) and &sect; 2695.9(f)(1), and the insured has a
-        direct statutory and regulatory citation for the challenge.
+        Despite the clear regulatory text, some carriers and their estimating software still
+        apply depreciation to combined material-plus-labor line items, which has the practical
+        effect of depreciating labor. Where that happens, the carrier is in violation of
+        &sect; 2695.9(f)(1), and the insured has a direct regulatory citation for the
+        challenge.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Out-of-State Context</h2>
@@ -116,7 +125,7 @@ export default function Content() {
         <li>
           If the carrier applied a blanket depreciation percentage to combined line items,
           request a recalculation that excludes labor from the depreciation base &mdash; citing
-          Cal. Ins. Code &sect; 2051(b)(2) and 10 CCR &sect; 2695.9(f)(1) directly.
+          10 CCR &sect; 2695.9(f)(1) directly.
         </li>
         <li>
           Document the labor-cost portion that the carrier improperly depreciated. The dollar
@@ -124,7 +133,7 @@ export default function Content() {
           and that dollar figure is what the insured is being underpaid.
         </li>
         <li>
-          Put the challenge in writing, with the verbatim statutory and regulatory text quoted.
+          Put the challenge in writing, with the verbatim regulatory text quoted.
           A written record matters because a documented violation may support escalation,
           a complaint to the California Department of Insurance, or an attorney&apos;s later
           bad-faith evaluation.
