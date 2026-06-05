@@ -267,7 +267,7 @@ export default function Content() {
         labor depreciation, the analytical thread is consistent: depreciation is a measure
         of physical wear on tangible property, and labor &mdash; the service of installing
         materials &mdash; does not lend itself to that measure. California&rsquo;s statutory
-        prohibition (Cal. Ins. Code &sect; 2051(b)(2)) and regulatory parallel (10 CCR
+        regulatory prohibition (10 CCR
         &sect; 2695.9(f)(1)) reflect that same reasoning, codified directly rather than
         left to case-by-case interpretation.
       </p>
@@ -376,7 +376,7 @@ export default function Content() {
         Despite the clear statutory and regulatory text, some carriers and their estimating
         software still apply depreciation to combined material-plus-labor line items, which has
         the practical effect of depreciating labor. Where that happens, the carrier is in
-        violation of both &sect; 2051(b)(2) and &sect; 2695.9(f)(1), and the insured has a
+        violation of 10 CCR &sect; 2695.9(f)(1), and the insured has a
         direct statutory and regulatory citation for the challenge. The earlier &ldquo;physical
         depreciation&rdquo; and &ldquo;condition&rdquo; arguments under the pre-2019 version of
         &sect; 2051 are now largely superseded &mdash; the legislature simply wrote the
@@ -667,18 +667,17 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Step 3: Cite the Statute and Regulation Directly
+        Step 3: Cite the Regulation Directly
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Put the challenge in writing and quote the statutory and regulatory prohibitions
-        verbatim. Cal. Ins. Code &sect; 2051(b)(2): &ldquo;The deduction for physical
-        depreciation shall not include any labor costs that would be incurred to repair,
-        rebuild, or replace the damaged or destroyed property.&rdquo; 10 CCR &sect; 2695.9(f)(1):
-        &ldquo;the expense of labor necessary to repair, rebuild or replace covered property is
-        not a component of physical depreciation and shall not be subject to depreciation or
-        betterment.&rdquo; This is not a policy argument or a request for interpretation
-        &mdash; it is a direct citation to a statutory and regulatory prohibition that the
-        carrier is required to follow.
+        Put the challenge in writing and quote the regulatory prohibition verbatim.
+        10 CCR &sect; 2695.9(f)(1): &ldquo;Except for the intrinsic labor costs that are
+        included in the cost of manufactured materials or goods, the expense of labor
+        necessary to repair, rebuild or replace covered property is not a component of
+        physical depreciation and shall not be subject to depreciation or betterment.&rdquo;
+        The statutory ACV framework is at Cal. Ins. Code &sect; 2051(b). This is not a
+        policy argument or a request for interpretation &mdash; it is a direct citation to
+        a regulatory prohibition that the carrier is required to follow.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -960,14 +959,15 @@ export default function Content() {
         &ldquo;No California Court Has Prohibited Labor Depreciation&rdquo;
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        No court ruling is needed. The California legislature itself prohibited the practice
-        when it added the labor-depreciation sentence to Insurance Code &sect; 2051(b)(2)
-        through AB 188, effective January 1, 2019. The statutory text is direct: &ldquo;The
-        deduction for physical depreciation shall not include any labor costs that would be
-        incurred to repair, rebuild, or replace the damaged or destroyed property.&rdquo; The
-        California Department of Insurance reinforced the same rule years earlier through 10
-        CCR &sect; 2695.9(f)(1). When statute and regulation already prohibit the practice,
-        the absence of additional appellate authority is irrelevant.
+        No court ruling is needed. The California Department of Insurance prohibited the
+        practice by regulation through 10 CCR &sect; 2695.9(f)(1): &ldquo;Except for the
+        intrinsic labor costs that are included in the cost of manufactured materials or
+        goods, the expense of labor necessary to repair, rebuild or replace covered
+        property is not a component of physical depreciation and shall not be subject to
+        depreciation or betterment.&rdquo; That regulatory text is direct, and the
+        statutory ACV framework at Cal. Ins. Code &sect; 2051(b) provides the depreciation
+        backbone. When the regulation already prohibits the practice, the absence of
+        additional appellate authority is irrelevant.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -995,11 +995,19 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Statutory:</strong> Cal. Ins. Code &sect; 2051(b)(2) (added by AB 188, eff.
-          1/1/2019) directly prohibits the practice: &ldquo;The deduction for physical
-          depreciation shall not include any labor costs that would be incurred to repair,
-          rebuild, or replace the damaged or destroyed property.&rdquo; This is a statutory
-          prohibition, not an interpretive argument.
+          <strong>Regulatory:</strong> 10 CCR &sect; 2695.9(f)(1) directly prohibits the
+          practice: &ldquo;Except for the intrinsic labor costs that are included in the
+          cost of manufactured materials or goods, the expense of labor necessary to repair,
+          rebuild or replace covered property is not a component of physical depreciation
+          and shall not be subject to depreciation or betterment.&rdquo; This is a
+          regulatory prohibition, not an interpretive argument.
+        </li>
+        <li>
+          <strong>Statutory backdrop:</strong> Cal. Ins. Code &sect; 2051(b) (as
+          restructured by AB 188 (Stats. 2019, ch. 59), eff. Jan. 1, 2020) supplies the
+          ACV framework against which the regulation operates: replacement cost less a
+          fair and reasonable deduction for physical depreciation, applied only to
+          components subject to repair and replacement during useful life.
         </li>
         <li>
           <strong>Regulatory:</strong> 10 CCR &sect; 2695.9(f)(1) provides a parallel
@@ -1052,9 +1060,9 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         For attorneys handling first-party property insurance disputes in California, the
-        labor depreciation issue is well-defined by statute. The framework under Cal. Ins.
-        Code &sect; 2051(b)(2), reinforced by 10 CCR &sect; 2695.9(f)(1), expressly
-        prohibits depreciating labor on a damaged-or-destroyed-property valuation, and
+        labor depreciation issue is well-defined by regulation. 10 CCR &sect; 2695.9(f)(1)
+        expressly prohibits depreciating labor on a covered-property valuation (against the
+        statutory ACV framework at Cal. Ins. Code &sect; 2051(b)), and
         carriers have limited room to argue a contrary &ldquo;reasonable interpretation&rdquo;
         of the unambiguous statutory text (recognizing the narrow &ldquo;intrinsic labor in
         manufactured materials&rdquo; carve-out discussed earlier in this article). The
@@ -1090,13 +1098,12 @@ export default function Content() {
         that could wear, age, or decline.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Every state that has carefully examined this question has reached the same conclusion.
-        The national trend is unmistakable. And in California, the legislature did not stop at
-        the analytical argument &mdash; it wrote the prohibition directly into Insurance Code
-        &sect; 2051(b)(2) through AB 188, effective January 1, 2019. The California Department
-        of Insurance reinforces the same rule through 10 CCR &sect; 2695.9(f)(1). Labor
-        depreciation in California is not just a bad practice; it is a violation of statute and
-        regulation.
+        Among states that have carefully examined this question, the answer has consistently
+        been that labor is not properly subject to depreciation. In California, the
+        Department of Insurance addressed the question through 10 CCR &sect; 2695.9(f)(1),
+        which operates against the statutory ACV framework at Cal. Ins. Code &sect; 2051(b).
+        Labor depreciation in California is not just a bad practice; it is a violation of
+        the Fair Claims Settlement Practices Regulations.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your insurance company has depreciated labor on your claim, do not accept it without

@@ -302,7 +302,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your estimate shows depreciation on structural components that are not normally
-        repaired or replaced, challenge it. Cite Insurance Code &sect; 2051(b)(2) directly and
+        repaired or replaced, challenge it. Cite Insurance Code &sect; 2051(b) directly and
         ask the carrier to explain why they believe that component is &quot;normally subject to
         repair and replacement during the useful life of the structure.&quot;
       </p>
