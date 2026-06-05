@@ -25,7 +25,7 @@ export default function Content() {
         The phrase is Latin for &ldquo;against the drafter.&rdquo; In plain English, it means that when insurance policy language is ambiguous &mdash; when it is capable of more than one reasonable interpretation &mdash; the ambiguity is resolved in favor of the policyholder, not the insurance company. The insurer chose the words. If those words are unclear, that is the insurer&apos;s problem.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is not a technicality or a loophole. It is a foundational principle of contract law that California courts have applied consistently for well over a century. It has determined the outcome of thousands of insurance coverage disputes. And it is a tool that every policyholder should understand.
+        This is not a technicality or a loophole. It is a foundational principle of contract law that California courts have applied consistently for well over a century, and it is codified in California Civil Code &sect; 1654: &ldquo;In cases of uncertainty not removed by the preceding rules, the language of a contract should be interpreted most strongly against the party who caused the uncertainty to exist.&rdquo; That statute, read together with California Insurance Code provisions on contract interpretation (&sect;&sect; 1644, 1646, 1647), supplies the framework California courts apply in insurance coverage disputes. The doctrine has determined the outcome of thousands of coverage cases, and it is a tool every policyholder should understand.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -123,9 +123,6 @@ export default function Content() {
           in California.
         </li>
         <li>
-          <strong><em>Montrose Chemical Corp. v. Admiral Insurance Co.</em> (1995):</strong> The Supreme Court applied contra proferentem to resolve an ambiguity in the definition of &ldquo;occurrence&rdquo; in a CGL policy, holding that the policyholder&apos;s reasonable interpretation controlled.
-        </li>
-        <li>
           <strong><em>State Farm Fire &amp; Casualty Co. v. Superior Court (Watts)</em> (1997):</strong> The court held that the insurer bears the burden of proving that an exclusion applies and that ambiguities in exclusionary language are strictly construed against the insurer.
         </li>
       </ul>
@@ -194,7 +191,14 @@ export default function Content() {
         In Dispute Letters
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When writing a letter disputing a denial or underpayment, the policyholder should identify the specific policy language the insurer relies on, present the policyholder&apos;s reasonable interpretation, and state that the language is ambiguous and must be construed against the insurer under California law. This frames the dispute correctly from the outset and signals to the insurer that the policyholder understands the legal framework. For more on how to write these letters, see our{' '}
+        A common approach in dispute correspondence is to identify the specific policy
+        language the insurer relies on, present the insured&rsquo;s own reasonable
+        interpretation, and note that genuinely ambiguous policy language is construed
+        against the insurer under California law. Framing a dispute this way signals to
+        the carrier that the insured understands the interpretive framework. Whether a
+        specific policy term is &ldquo;ambiguous&rdquo; for legal purposes &mdash; and what
+        legal arguments to actually advance &mdash; is a question for a California-licensed
+        attorney. For more on how these letters are typically structured, see our{' '}
         <Link href="/resources/coverage-disputes" className="text-blue-700 underline hover:text-blue-900">
           coverage disputes guide
         </Link>.
