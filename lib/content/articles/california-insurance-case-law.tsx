@@ -873,7 +873,7 @@ export default function Content() {
         How the Appraisal Cases Interrelate: Seven Core Principles
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The appraisal cases discussed above establish a coherent framework built on six
+        The appraisal cases discussed above establish a coherent framework built on seven
         core principles. Understanding how they fit together is more important than memorizing any
         single holding.
       </p>
