@@ -654,22 +654,25 @@ export default function Content() {
         CDI Has Found Insurers Guilty of Excessive Depreciation
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Department of Insurance has formally documented excessive depreciation
-        practices through market conduct examinations. In November 2023, the CDI issued a
-        Stipulation and Order against the California FAIR Plan Association following a market
-        conduct exam covering October 2020 through September 2023. The examination found that
-        the FAIR Plan had improperly applied depreciation to items not normally subject to
-        repair or replacement during their useful life &mdash; exactly the kind of excessive
-        depreciation described throughout this article.
+        The California Department of Insurance has used its market conduct examination
+        authority to examine FAIR Plan claims-handling practices. CDI&rsquo;s{' '}
+        <strong>Stipulation and Order 2023-2</strong> &mdash; issued November 30, 2023
+        adopting the market conduct examination report of the California FAIR Plan
+        Association &mdash; is one example. The Order and the underlying examination
+        report (both posted on the CDI website) address a range of FAIR Plan claims-handling
+        issues; the underlying examination report and the related corrective-action
+        documentation are the primary sources for the specific depreciation findings
+        and remedial measures that followed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The CDI also found problems with how the FAIR Plan handled personal property
-        depreciation: when policyholders submitted inventories but left condition fields blank,
-        items were defaulted to &ldquo;average&rdquo; condition unless their age indicated
-        they were new. New and perishable items were not depreciated. As part of the corrective
-        action, the FAIR Plan hired internal claim examiners, quality auditors, and trainers,
-        and implemented monthly quality assurance audits of both independent adjuster and
-        internal staff file handling.
+        The corrective-action package the FAIR Plan implemented in connection with the
+        examination reportedly included staffing changes (internal claim examiners, quality
+        auditors, and trainers) and ongoing quality-assurance audits of both independent
+        adjuster and internal staff file handling. Insureds with FAIR Plan claims who
+        encounter depreciation issues are well-served to compare their carrier&rsquo;s
+        approach to the regulatory expectations reflected in this market conduct work.
+        The current Stipulation and Order, market conduct reports, and related public
+        filings are available through CDI&rsquo;s public records.
       </p>
 
       <CalloutBox variant="important" title="CDI Market Conduct Exams Are Public Record">
