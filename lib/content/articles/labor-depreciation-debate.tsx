@@ -252,24 +252,24 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Georgia, Hawaii, and Illinois
+        The Broader National Trend
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Several additional states have weighed in on the labor depreciation question through
-        various means. Georgia courts have addressed the issue in the context of homeowners
-        insurance claims, finding that labor does not depreciate in the same manner as
-        physical materials. Hawaii has taken a position through regulatory guidance that
-        labor should not be included in depreciation calculations. Illinois courts have
-        similarly examined whether labor is subject to depreciation and have ruled against
-        the practice.
+        Beyond the named decisions above, plaintiff-side commentary identifies several other
+        jurisdictions where courts or insurance regulators have weighed in against labor
+        depreciation in various contexts. A practitioner researching the issue outside
+        California should consult primary sources for each jurisdiction rather than relying
+        on summaries: the holdings are fact-specific, sometimes turn on particular policy
+        language, and have evolved over time.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The accumulating weight of authority from these jurisdictions reflects a clear
-        consensus: when courts and regulators carefully analyze what depreciation means and
-        whether it can logically apply to labor, the answer is consistently that it cannot.
-        The states that have prohibited labor depreciation span different regions, different
-        legal traditions, and different regulatory frameworks, but they all arrive at the
-        same conclusion.
+        Among states whose courts or regulators have published opinions or guidance limiting
+        labor depreciation, the analytical thread is consistent: depreciation is a measure
+        of physical wear on tangible property, and labor &mdash; the service of installing
+        materials &mdash; does not lend itself to that measure. California&rsquo;s statutory
+        prohibition (Cal. Ins. Code &sect; 2051(b)(2)) and regulatory parallel (10 CCR
+        &sect; 2695.9(f)(1)) reflect that same reasoning, codified directly rather than
+        left to case-by-case interpretation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -866,14 +866,17 @@ export default function Content() {
         The National Trend: Where This Is Heading
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The clear national trend is toward prohibiting labor depreciation. Over the past
-        decade, the list of states that have addressed and rejected the practice has grown
-        steadily. No state that has specifically examined the question in recent years has
-        concluded that labor depreciation is proper. The decisions all point in one direction:
-        labor is a service, not a physical object, and it cannot depreciate.
+        The general trend among states that have squarely addressed the issue has been
+        toward prohibiting labor depreciation. Over the past decade, the list of
+        jurisdictions whose courts or regulators have rejected the practice has grown.
+        The recurring rationale in those decisions is that labor is a service, not a
+        physical object, and depreciation is a measure of physical wear that does not
+        apply to services. (Outcomes in individual cases continue to depend on policy
+        language, state-specific statutory and regulatory frameworks, and the procedural
+        posture of the dispute.)
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This trend is driven by several factors:
+        Several factors appear to be driving this trend:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -883,8 +886,8 @@ export default function Content() {
         </li>
         <li>
           <strong>Class action litigation:</strong> Labor depreciation has been the subject
-          of numerous class action lawsuits against major carriers. These cases have brought
-          national attention to the practice and have resulted in significant settlements.
+          of class action litigation against various carriers in multiple jurisdictions,
+          which has drawn additional regulatory and public attention to the practice.
         </li>
         <li>
           <strong>Regulatory scrutiny:</strong> State insurance departments are increasingly
@@ -1063,13 +1066,15 @@ export default function Content() {
         A Note for Attorneys
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For attorneys handling first-party property insurance disputes in California, the labor
-        depreciation issue is a clean liability theory. The statutory framework under Cal. Ins.
-        Code &sect; 2051(b)(2), reinforced by 10 CCR &sect; 2695.9(f)(1), expressly prohibits
-        depreciating labor &mdash; there is no &ldquo;reasonable interpretation&rdquo; defense
-        available to a carrier that violates it. The dollar amounts at stake on a single claim
-        often run $5,000 to $15,000 or more, and on a class basis the exposure can be much
-        larger.
+        For attorneys handling first-party property insurance disputes in California, the
+        labor depreciation issue is well-defined by statute. The framework under Cal. Ins.
+        Code &sect; 2051(b)(2), reinforced by 10 CCR &sect; 2695.9(f)(1), expressly
+        prohibits depreciating labor on a damaged-or-destroyed-property valuation, and
+        carriers have limited room to argue a contrary &ldquo;reasonable interpretation&rdquo;
+        of the unambiguous statutory text (recognizing the narrow &ldquo;intrinsic labor in
+        manufactured materials&rdquo; carve-out discussed earlier in this article). The
+        dollar amounts at stake on a single claim often run $5,000 to $15,000 or more, and
+        on a class basis the exposure can be much larger.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Labor depreciation can serve as an independent basis for a bad faith claim when the
