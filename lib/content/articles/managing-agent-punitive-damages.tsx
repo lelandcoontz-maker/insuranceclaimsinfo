@@ -408,10 +408,14 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California courts have made clear that ratification requires actual knowledge, not
-        merely constructive knowledge. As <em>Cruz v. HomeBase</em> (2000) 83 Cal.App.4th 160
-        explained, &ldquo;a corporation is not deemed to ratify misconduct, and thus become
-        liable for punitive damages, unless its officer, director, or managing agent actually
-        knew about the misconduct and its malicious character.&rdquo; This means the plaintiff
+        merely constructive knowledge. <em>Cruz v. HomeBase</em> (2000) 83 Cal.App.4th 160
+        explains that ratification is &ldquo;confirmation and acceptance of a previous
+        act,&rdquo; and that &ldquo;a corporation cannot confirm and accept that which it
+        does not actually know about.&rdquo; Read together with Civil Code &sect; 3294(b)
+        &mdash; which limits corporate punitive exposure to acts committed, authorized, or
+        ratified by an officer, director, or managing agent &mdash; the practical rule is
+        that ratification supporting punitive damages requires a qualifying actor who had
+        actual knowledge both of the conduct and of its wrongful character. The plaintiff
         must establish not only that the managing agent knew of the conduct, but that the
         managing agent understood the wrongful nature of that conduct.
       </p>
