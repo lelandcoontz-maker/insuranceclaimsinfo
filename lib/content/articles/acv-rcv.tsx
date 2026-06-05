@@ -87,6 +87,42 @@ export default function Content() {
         insured, not on what the item might sell for on the open market.
       </p>
 
+      <CalloutBox variant="info" title="&ldquo;Thing Lost or Injured&rdquo; vs. &ldquo;Damaged or Destroyed Property&rdquo;: Why You&rsquo;ll See Both Phrases">
+        <p>
+          California first-party property law uses two different phrases for the same
+          underlying concept, depending on whether the source is the statute or the
+          regulation:
+        </p>
+        <ul className="list-disc pl-6 mt-3 space-y-2">
+          <li>
+            <strong>Cal. Ins. Code &sect; 2051(b) (the statute)</strong> uses{' '}
+            <em>&ldquo;thing lost or injured.&rdquo;</em> This is traditional fire-insurance
+            terminology that has been in the California Insurance Code since the standard
+            fire policy was originally enacted. The phrase was preserved through the AB 188
+            (Stats. 2019, ch. 59) restructuring that eliminated the prior &sect; 2051(b)(1)/
+            (b)(2) total-loss-vs-partial-loss bifurcation. The current statute still uses
+            &ldquo;thing lost or injured.&rdquo;
+          </li>
+          <li>
+            <strong>10 CCR &sect; 2695.9(f)(1) (the regulation)</strong> uses{' '}
+            <em>&ldquo;damaged or destroyed property&rdquo;</em> and{' '}
+            <em>&ldquo;covered property.&rdquo;</em> The California Department of Insurance
+            chose modern terminology when drafting the Fair Claims Settlement Practices
+            Regulations, which include the labor-depreciation prohibition.
+          </li>
+        </ul>
+        <p className="mt-3">
+          Both phrases refer to the same property. The cite-precision matters when quoting
+          authority directly: if the source is the statute, use &ldquo;thing lost or
+          injured&rdquo;; if the source is the regulation, use &ldquo;damaged or destroyed
+          property&rdquo; or &ldquo;covered property.&rdquo; Some secondary sources have
+          inadvertently combined the two &mdash; treating regulatory text as if it were
+          statutory or claiming the statute was amended to adopt regulatory phrasing. Neither
+          is accurate; the terminology distinction is a real one between the two sources of
+          California law.
+        </p>
+      </CalloutBox>
+
       <CalloutBox variant="important" title="Check Your Policy Type">
         <p>
           The single most important thing you can do before a loss occurs is confirm whether your
