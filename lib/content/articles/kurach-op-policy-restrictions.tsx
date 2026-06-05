@@ -100,17 +100,17 @@ export default function Content() {
           California policy, that framing overstates its weight in this jurisdiction.
         </p>
         <p className="mt-3">
-          California Insurance Code &sect; 2051(b)(2) defines actual cash value for a partial
-          loss as &ldquo;the amount it would cost the insured to repair, rebuild, or replace
-          the damaged or destroyed property, less a fair and reasonable deduction for physical
-          depreciation based upon its condition at the time of the injury or the policy limit,
-          whichever is less.&rdquo; (The phrase &ldquo;damaged or destroyed property&rdquo;
-          replaced the prior &ldquo;thing lost or injured&rdquo; via AB 188, Stats. 2019, ch.
-          59, effective January 1, 2020.) Whether General Contractor Overhead and Profit
-          (GCOP) is part of that calculation has been treated differently in California than
-          in Pennsylvania &mdash; the relevant California authority comes from California
-          cases interpreting &sect; 2051(b)(2) and the &ldquo;like kind and quality&rdquo;
-          standard, not from Kurach.
+          California Insurance Code &sect; 2051(b) defines actual cash value for either a
+          total or partial loss as &ldquo;the amount it would cost the insured to repair,
+          rebuild, or replace the thing lost or injured less a fair and reasonable deduction
+          for physical depreciation based upon its condition at the time of the injury or
+          the policy limit, whichever is less.&rdquo; (AB 188 (Stats. 2019, ch. 59),
+          effective January 1, 2020, restructured the section, eliminating the prior
+          &sect; 2051(b)(1)/(b)(2) bifurcation between total and partial losses.) Whether
+          General Contractor Overhead and Profit (GCOP) is part of that calculation has been
+          treated differently in California than in Pennsylvania &mdash; the relevant
+          California authority comes from California cases interpreting &sect; 2051(b) and
+          the &ldquo;like kind and quality&rdquo; standard, not from Kurach.
         </p>
       </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -40,12 +40,13 @@ export default function Content() {
         What Depreciation Is Supposed to Be
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect; 2051(b)(2), the measure of actual cash value
-        (ACV) recovery for a partial loss to the structure or contents is &ldquo;the amount it
-        would cost the insured to repair, rebuild, or replace the damaged or destroyed property,
-        less a fair and reasonable deduction for physical depreciation based upon its condition
-        at the time of the injury or the policy limit, whichever is less.&rdquo; That statutory
-        language contains three critical limitations that insurers routinely ignore:
+        Under California Insurance Code &sect; 2051(b), the measure of actual cash value
+        (ACV) recovery for either a total or partial loss to the structure or its contents
+        is &ldquo;the amount it would cost the insured to repair, rebuild, or replace the
+        thing lost or injured less a fair and reasonable deduction for physical depreciation
+        based upon its condition at the time of the injury or the policy limit, whichever is
+        less.&rdquo; That statutory language contains three critical limitations that
+        insurers routinely ignore:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -148,28 +149,30 @@ export default function Content() {
         current market rates, and it does not physically deteriorate over time.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, the rule is not just analytical &mdash; it is written into both the
-        statute and the Fair Claims regulations. Cal. Ins. Code &sect; 2051(b)(2) (added by
-        AB 188, eff. 1/1/2019) provides: &ldquo;The deduction for physical depreciation shall
-        not include any labor costs that would be incurred to repair, rebuild, or replace the
-        damaged or destroyed property.&rdquo; 10 CCR &sect; 2695.9(f)(1) provides in parallel:
-        &ldquo;Except for the intrinsic labor costs that are included in the cost of
-        manufactured materials or goods, the expense of labor necessary to repair, rebuild or
-        replace covered property is not a component of physical depreciation and shall not be
-        subject to depreciation or betterment.&rdquo;
+        In California, the rule is regulatory: 10 CCR &sect; 2695.9(f)(1) provides that
+        &ldquo;[e]xcept for the intrinsic labor costs that are included in the cost of
+        manufactured materials or goods, the expense of labor necessary to repair, rebuild
+        or replace covered property is not a component of physical depreciation and shall
+        not be subject to depreciation or betterment.&rdquo; Cal. Ins. Code &sect; 2051(b),
+        the underlying statutory ACV provision, supplies the depreciation framework
+        (replacement cost less a fair and reasonable deduction for physical depreciation,
+        limited to components subject to repair and replacement during useful life); the
+        regulation adds the specific labor-depreciation prohibition.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Out-of-state courts &mdash; including <em>Shelter Mutual Insurance Co. v. Goodner</em>
         {' '}(Arkansas), <em>Hicks v. State Farm</em> (Kentucky), and <em>Redlin v. Grinnell
-        Mutual</em> (Oklahoma) &mdash; reached the same conclusion through case law. California
-        skipped the case-law route by writing the prohibition directly into the code.
+        Mutual</em> (Oklahoma) &mdash; reached the same conclusion through case law.
+        California addressed the question through regulation rather than waiting for case
+        law to develop.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Despite the clear statutory and regulatory text, many carriers still apply depreciation
-        to the entire estimate &mdash; materials and labor together &mdash; using a single
-        blanket percentage. When labor represents 40&ndash;50% of a repair estimate,
-        depreciating it can cost the policyholder thousands of dollars and is a direct violation
-        of both &sect; 2051(b)(2) and &sect; 2695.9(f)(1). For a deeper discussion, see our
+        Despite the clear regulatory text, many carriers still apply depreciation to the
+        entire estimate &mdash; materials and labor together &mdash; using a single blanket
+        percentage. When labor represents 40&ndash;50% of a repair estimate, depreciating
+        it can cost the policyholder thousands of dollars and is a direct violation of
+        10 CCR &sect; 2695.9(f)(1) (and inconsistent with &sect; 2051(b)&rsquo;s
+        depreciation framework). For a deeper discussion, see our
         article on{' '}
         <Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">
           labor depreciation
@@ -500,13 +503,16 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Statutes</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Insurance Code &sect; 2051(b)(2)</strong> &mdash; For partial losses to the
-          structure or contents, defines ACV as the amount to repair, rebuild, or replace the
-          damaged or destroyed property less a fair and reasonable deduction for physical
-          depreciation based on its condition at the time of the injury. Limits depreciation
-          to components &ldquo;normally subject to repair and replacement during the useful
-          life of that structure,&rdquo; and (after AB 188, Stats. 2018, ch. 627, eff. 1/1/2019)
-          expressly prohibits depreciating labor.
+          <strong>Insurance Code &sect; 2051(b)</strong> &mdash; Defines ACV for either a
+          total or partial loss to the structure or contents as the amount to repair,
+          rebuild, or replace the thing lost or injured less a fair and reasonable
+          deduction for physical depreciation based on its condition at the time of the
+          injury. Limits depreciation to components &ldquo;normally subject to repair and
+          replacement during the useful life of that structure.&rdquo; (As restructured by
+          AB 188 (Stats. 2019, ch. 59), effective January 1, 2020, eliminating the prior
+          &sect; 2051(b)(1)/(b)(2) bifurcation between total and partial losses. The
+          labor-depreciation prohibition is regulatory; see 10 CCR &sect; 2695.9(f)(1)
+          below.)
         </li>
         <li>
           <strong>Insurance Code &sect; 2051(b)(1)</strong> &mdash; For total losses, defines

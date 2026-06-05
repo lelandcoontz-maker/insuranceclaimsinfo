@@ -485,12 +485,11 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, California Insurance Code &sect;2051(b)(2) and &sect;2051.5 govern the
+        Additionally, California Insurance Code &sect;2051(b) and &sect;2051.5 govern the
         measure of indemnity for property insurance claims. Under these sections, the insurer
-        must pay
-        the amount it would cost to repair, rebuild, or replace the damaged or destroyed property. If
-        the insurer takes a salvage deduction, it must be based on the item&apos;s actual
-        salvage value &mdash; not an arbitrary estimate.
+        must pay the amount it would cost to repair, rebuild, or replace the thing lost or
+        injured. If the insurer takes a salvage deduction, it must be based on the item&apos;s
+        actual salvage value &mdash; not an arbitrary estimate.
       </p>
 
       <CalloutBox variant="tip" title="Request a Detailed Breakdown">

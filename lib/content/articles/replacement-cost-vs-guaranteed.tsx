@@ -58,10 +58,10 @@ export default function Content() {
         policy limit, whichever is less.&rdquo;
       </blockquote>
       <p className="text-sm text-gray-500 italic mb-6">
-        Cal. Ins. Code &sect; 2051.5(a). The phrase &ldquo;damaged or destroyed property&rdquo;
-        replaced the prior &ldquo;thing lost or injured&rdquo; in the parallel &sect; 2051(b)(2)
-        framework via AB 188 (Stats. 2019, ch. 59), effective January 1, 2020; the related
-        language change is reflected throughout the modern statutory scheme.
+        Cal. Ins. Code &sect; 2051.5(a). The parallel &sect; 2051(b) ACV framework was
+        restructured by AB 188 (Stats. 2019, ch. 59), effective January 1, 2020, eliminating
+        the prior &sect; 2051(b)(1)/(b)(2) bifurcation between total and partial losses and
+        making the same replacement-cost-less-depreciation formula apply to either.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         That last phrase &mdash; <em>&ldquo;or the policy limit, whichever is less&rdquo;</em>{' '}
@@ -352,9 +352,9 @@ export default function Content() {
         &ldquo;Except for the intrinsic labor costs that are included in the cost of manufactured
         materials or goods, the expense of labor necessary to repair, rebuild or replace covered
         property is not a component of physical depreciation and shall not be subject to
-        depreciation or betterment.&rdquo; That regulatory prohibition runs parallel to the
-        statutory prohibition in Insurance Code &sect; 2051(b)(2) (added by AB 188, eff. Jan. 1,
-        2019). This means any depreciation deducted from an ACV payment must be calculated
+        depreciation or betterment.&rdquo; That regulatory prohibition operates against the
+        statutory backdrop of Insurance Code &sect; 2051(b)&apos;s ACV framework. This means
+        any depreciation deducted from an ACV payment must be calculated
         properly &mdash; blanket percentages and depreciated labor are violations. See
         our guides on{' '}
         <Link href="/resources/excessive-depreciation" className="text-[#2E74B5] hover:underline">

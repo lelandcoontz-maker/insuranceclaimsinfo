@@ -79,12 +79,14 @@ export default function Content() {
 
       <CalloutBox variant="info" title="Note on Statutory Language">
         <p>
-          The 2008 Commissioner&apos;s Opinion below quotes &sect; 2051.5 as it read at the time,
-          using the phrase &ldquo;the thing lost or injured.&rdquo; The parallel
-          &sect; 2051(b)(2) framework was later restructured by AB 188 (Stats. 2019, ch. 59),
-          effective January 1, 2020, which replaced &ldquo;the thing lost or injured&rdquo;
-          with &ldquo;the damaged or destroyed property&rdquo; throughout the modern statutory
-          scheme. The Opinion&apos;s substantive analysis of rebuilding at a different location
+          The 2008 Commissioner&apos;s Opinion below quotes &sect; 2051.5 as it read at the
+          time, using the phrase &ldquo;the thing lost or injured&rdquo; &mdash; language
+          that remains in the current statute. The parallel &sect; 2051(b) ACV framework
+          was restructured by AB 188 (Stats. 2019, ch. 59), effective January 1, 2020,
+          which eliminated the prior &sect; 2051(b)(1)/(b)(2) bifurcation between total
+          and partial losses and made the same replacement-cost-less-depreciation formula
+          apply to &ldquo;either a total or partial loss to the structure or its contents.&rdquo;
+          The Opinion&apos;s substantive analysis of rebuilding at a different location
           (the actual subject of the Opinion) remains good guidance.
         </p>
       </CalloutBox>

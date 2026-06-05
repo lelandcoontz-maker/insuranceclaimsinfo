@@ -47,13 +47,14 @@ export default function Content() {
         without deduction for depreciation &mdash; up to the policy limit.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 2051.5(a) defines this as the amount it would cost the
-        insured to repair, rebuild, or replace the damaged or destroyed property, without
+        California Insurance Code &sect; 2051.5(a) defines this as the amount it would cost
+        the insured to repair, rebuild, or replace the thing lost or injured, without
         deduction for physical depreciation, or the policy limit, whichever is less. (The
-        property-description language &mdash; &ldquo;damaged or destroyed property&rdquo;
-        &mdash; replaced the prior &ldquo;thing lost or injured&rdquo; in the parallel
-        &sect; 2051(b)(2) framework via AB 188, Stats. 2019, ch. 59, effective January 1, 2020.)
-        The key phrase is &ldquo;whichever is less.&rdquo; Replacement cost coverage does not mean unlimited coverage.
+        parallel &sect; 2051(b) ACV framework was restructured by AB 188 (Stats. 2019, ch.
+        59), effective January 1, 2020, which eliminated the prior &sect; 2051(b)(1)/(b)(2)
+        bifurcation between total and partial losses; both now use the same
+        replacement-cost-less-depreciation formula.) The key phrase is
+        &ldquo;whichever is less.&rdquo; Replacement cost coverage does not mean unlimited coverage.
         It means the insurer uses the replacement cost method to calculate the loss, but payment is
         still capped at the Coverage A limit on your{' '}
         <Link href="/resources/declarations-page" className="text-[#2E74B5] underline">

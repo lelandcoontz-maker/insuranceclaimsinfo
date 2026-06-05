@@ -1040,7 +1040,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;We depreciate labor&rdquo;</td>
-              <td className="p-3 text-gray-700"><strong>California:</strong> CIC &sect; 2051(b)(2) (added by AB 188, eff. 1/1/2019) &mdash; the deduction for physical depreciation &ldquo;shall not include any labor costs that would be incurred to repair, rebuild, or replace the damaged or destroyed property.&rdquo; Other states may differ.</td>
+              <td className="p-3 text-gray-700"><strong>California:</strong> 10 CCR &sect; 2695.9(f)(1) &mdash; &ldquo;[E]xcept for the intrinsic labor costs that are included in the cost of manufactured materials or goods, the expense of labor necessary to repair, rebuild or replace covered property is not a component of physical depreciation and shall not be subject to depreciation or betterment.&rdquo; The statutory ACV framework is at Cal. Ins. Code &sect; 2051(b). Other states may differ.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">&ldquo;Earth movement exclusion bars your claim&rdquo;</td>

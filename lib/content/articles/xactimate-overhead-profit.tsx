@@ -564,15 +564,15 @@ export default function Content() {
           Fair Claims Settlement Practices Regulations
         </Link>{' '}
         (10 CCR 2695) require insurers to pay claims based on the actual cost of repair.
-        The underlying statutory measure comes from Cal. Ins. Code &sect; 2051(b)(2), which
-        defines the measure of recovery for a partial loss as &ldquo;the amount it would cost
-        the insured to repair, rebuild, or replace the damaged or destroyed property, less a
-        fair and reasonable deduction for physical depreciation.&rdquo;
+        The underlying statutory measure comes from Cal. Ins. Code &sect; 2051(b), which
+        defines the measure of recovery for either a total or partial loss as &ldquo;the
+        amount it would cost the insured to repair, rebuild, or replace the thing lost or
+        injured less a fair and reasonable deduction for physical depreciation.&rdquo;
       </p>
       <p className="text-sm text-gray-500 italic">
-        Cal. Ins. Code &sect; 2051(b)(2). The phrase &ldquo;damaged or destroyed property&rdquo;
-        replaced the prior &ldquo;thing lost or injured&rdquo; via AB 188 (Stats. 2019, ch. 59),
-        effective January 1, 2020.
+        Cal. Ins. Code &sect; 2051(b), as amended by AB 188 (Stats. 2019, ch. 59), effective
+        January 1, 2020. AB 188 (2019) eliminated the prior &sect; 2051(b)(1)/(b)(2)
+        bifurcation between total and partial losses.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         That phrase &mdash; &ldquo;the amount which it would cost the insured&rdquo; &mdash;

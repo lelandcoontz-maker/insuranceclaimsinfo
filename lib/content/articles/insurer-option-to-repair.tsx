@@ -290,15 +290,16 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         This principle is well established in California law. California Insurance Code
-        &sect; 2051(b)(2) provides that the measure of recovery for a partial loss is
-        &ldquo;the amount it would cost the insured to repair, rebuild, or replace the damaged
-        or destroyed property, less a fair and reasonable deduction for physical depreciation
-        based upon its condition at the time of the injury or the policy limit, whichever is
-        less.&rdquo; (The phrase &ldquo;damaged or destroyed property&rdquo; replaced the prior
-        &ldquo;thing lost or injured&rdquo; via AB 188, Stats. 2019, ch. 59, effective January 1,
-        2020.) For losses settled on a replacement cost basis, California Insurance Code
-        &sect; 2051.5 reinforces that the measure of indemnity is the amount it would cost to
-        repair, rebuild, or replace the damaged property without deduction for depreciation. The seminal case <em>Raisin Growers of
+        &sect; 2051(b) provides that the measure of recovery for either a total or partial
+        loss is &ldquo;the amount it would cost the insured to repair, rebuild, or replace
+        the thing lost or injured less a fair and reasonable deduction for physical
+        depreciation based upon its condition at the time of the injury or the policy limit,
+        whichever is less.&rdquo; (AB 188 (Stats. 2019, ch. 59), effective January 1, 2020,
+        restructured the section, eliminating the prior &sect; 2051(b)(1)/(b)(2)
+        bifurcation between total and partial losses.) For losses settled on a replacement
+        cost basis, California Insurance Code &sect; 2051.5 reinforces that the measure of
+        indemnity is the amount it would cost to repair, rebuild, or replace the property
+        without deduction for depreciation. The seminal case <em>Raisin Growers of
         California v. Hartford Accident &amp; Indemnity Co.</em> (1922) 188 Cal. 524 confirmed that
         the measure of damages is the amount necessary to restore the property to its condition
         immediately before the loss. When the carrier elects to repair, it is choosing to discharge

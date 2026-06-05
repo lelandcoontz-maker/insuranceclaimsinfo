@@ -60,24 +60,31 @@ export default function Content() {
         reasonable deduction for physical depreciation.</strong> This was a deliberate move away
         from the broad-evidence / fair-market-value approach that earlier California cases such
         as <em>Cheeks v. California Fair Plan Ass&rsquo;n</em> (1998) 61 Cal.App.4th 423 had
-        applied to total losses. The current statutory language for &sect; 2051(b)(2) reads:
+        applied to total losses. The current statutory language for &sect; 2051(b) reads:
       </p>
       <blockquote className="border-l-4 border-gray-300 pl-4 italic text-gray-700 my-4">
-        &ldquo;the amount it would cost the insured to repair, rebuild, or replace the damaged
-        or destroyed property, less a fair and reasonable deduction for physical depreciation
-        based upon its condition at the time of the injury or the policy limit, whichever is
-        less.&rdquo;
+        &ldquo;the amount it would cost the insured to repair, rebuild, or replace the thing
+        lost or injured less a fair and reasonable deduction for physical depreciation based
+        upon its condition at the time of the injury or the policy limit, whichever is less.&rdquo;
       </blockquote>
       <p className="text-sm text-gray-500 italic">
-        Cal. Ins. Code &sect; 2051(b)(2). The phrase &ldquo;damaged or destroyed property&rdquo;
-        replaced the prior &ldquo;thing lost or injured&rdquo; via AB 188 (Stats. 2019, ch. 59),
-        effective January 1, 2020. A separate AB 188 (Stats. 2018, ch. 627), effective January 1,
-        2019, added the parallel prohibition on depreciating labor.
+        Cal. Ins. Code &sect; 2051(b), as amended by AB 188 (Stats. 2019, ch. 59), effective
+        January 1, 2020. AB 188 (2019) eliminated the prior bifurcation between total losses
+        (formerly &sect; 2051(b)(1), valued at fair market value) and partial losses (formerly
+        &sect; 2051(b)(2), repair/rebuild/replace less depreciation), making the same
+        replacement-cost-less-depreciation formula apply to &ldquo;either a total or partial
+        loss to the structure or its contents.&rdquo; The statutory text still uses the
+        traditional phrase &ldquo;thing lost or injured&rdquo;; the alternative phrase
+        &ldquo;damaged or destroyed property&rdquo; appears in the related regulation, 10 CCR
+        &sect; 2695.9(f)(1), not in the statute itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The statute also expressly provides that labor is not subject to depreciation (except
-        intrinsic labor in manufactured materials). That statutory language focuses on cost to
-        the insured, not on what the item might sell for on the open market.
+        California&rsquo;s labor-depreciation prohibition is regulatory. Under 10 CCR
+        &sect; 2695.9(f)(1), &ldquo;the expense of labor necessary to repair, rebuild or
+        replace covered property is not a component of physical depreciation and shall not
+        be subject to depreciation or betterment&rdquo; (with a narrow exception for
+        intrinsic labor in manufactured materials). The framework focuses on cost to the
+        insured, not on what the item might sell for on the open market.
       </p>
 
       <CalloutBox variant="important" title="Check Your Policy Type">
@@ -171,9 +178,11 @@ export default function Content() {
           <strong>Labor costs:</strong> In several states, courts have ruled that labor does not
           depreciate. The cost to pay a roofer or painter today is the cost today, period. The age
           of the materials is irrelevant to the cost of installing new ones. In California, the
-          rule is statutory: Cal. Ins. Code &sect; 2051(b)(2) provides that the value of the
-          labor necessary to repair the damaged or destroyed property is not subject to
-          depreciation. An insured who sees labor depreciation on a California estimate has a
+          rule is regulatory: 10 CCR &sect; 2695.9(f)(1) provides that the expense of labor
+          necessary to repair, rebuild, or replace covered property is not a component of
+          physical depreciation and shall not be subject to depreciation or betterment
+          (with a narrow exception for intrinsic labor in manufactured materials). An
+          insured who sees labor depreciation on a California estimate has a
           basis to dispute it.
         </li>
         <li>

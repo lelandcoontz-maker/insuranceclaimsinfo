@@ -100,16 +100,20 @@ export default function Content() {
         injury, computed as of the time the fire began.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Section 2051(b)(2)</strong> supplies the operative ACV formula for partial
-        losses. As currently written, the measure of recovery is the amount it would cost
-        the insured to repair, rebuild, or replace the damaged or destroyed property, less
+        <strong>Section 2051(b)</strong> supplies the operative ACV formula. As currently
+        written (post-AB 188 (2019) restructure), the measure of recovery for either a total
+        or partial loss is the amount it would cost the insured to repair, rebuild, or
+        replace the thing lost or injured, less
         a fair and reasonable deduction for physical depreciation based upon its condition
         at the time of the injury &mdash; or the policy limit, whichever is less.
       </p>
       <p className="text-sm text-gray-500 italic">
-        Cal. Ins. Code &sect; 2051(b)(2). The phrase &ldquo;damaged or destroyed property&rdquo;
-        replaced the prior &ldquo;thing lost or injured&rdquo; via AB 188 (Stats. 2019, ch. 59),
-        effective January 1, 2020.
+        Cal. Ins. Code &sect; 2051(b), as amended by AB 188 (Stats. 2019, ch. 59), effective
+        January 1, 2020. AB 188 (2019) eliminated the prior &sect; 2051(b)(1)/(b)(2)
+        bifurcation between total-loss and partial-loss valuation. The statute uses the
+        phrase &ldquo;thing lost or injured&rdquo;; the alternative phrase &ldquo;damaged
+        or destroyed property&rdquo; appears in the related regulation, 10 CCR
+        &sect; 2695.9(f)(1).
       </p>
 
       <CalloutBox variant="important" title="This Is Not the Broad Evidence Rule">
