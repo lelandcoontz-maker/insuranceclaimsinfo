@@ -59,10 +59,12 @@ export default function Content() {
           formulas.
         </li>
         <li>
-          The deduction &ldquo;shall not include any labor costs that would be incurred to
-          repair, rebuild, or replace the damaged or destroyed property&rdquo; (added by AB
-          188, Stats. 2018, ch. 627, eff. 1/1/2019) &mdash; depreciating labor is prohibited
-          by statute.
+          California&apos;s Fair Claims Settlement Practices regulation, 10 CCR
+          &sect; 2695.9(f)(1), prohibits depreciating labor: &ldquo;Except for the intrinsic
+          labor costs that are included in the cost of manufactured materials or goods, the
+          expense of labor necessary to repair, rebuild or replace covered property is not
+          a component of physical depreciation and shall not be subject to depreciation or
+          betterment.&rdquo;
         </li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -96,8 +96,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Section 2051(a)</strong> provides the baseline rule for fire insurance:
         under an open policy, the measure of indemnity is the expense to the insured of
-        replacing the damaged or destroyed property in its condition at the time of the
-        injury, computed as of the time the fire began.
+        replacing the thing lost or injured in its condition at the time of the injury,
+        computed as of the time the fire began.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Section 2051(b)</strong> supplies the operative ACV formula. As currently

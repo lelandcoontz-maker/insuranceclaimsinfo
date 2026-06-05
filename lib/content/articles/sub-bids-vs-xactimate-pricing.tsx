@@ -521,11 +521,14 @@ export default function Content() {
         to substitute stock for custom and call it &quot;like kind and quality.&quot;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;2051 provides that the measure of recovery is &quot;the
-        cost to the insured of repairing, restoring, or replacing the damaged or destroyed property to
-        its condition prior to the loss.&quot; Under &sect;2051.5, replacement cost coverage
-        requires payment of &quot;the amount which it would cost the insured to repair, rebuild,
-        or replace the damaged or destroyed property&quot; without deduction for depreciation.
+        California Insurance Code &sect; 2051(b) provides that the measure of recovery is
+        &ldquo;the amount it would cost the insured to repair, rebuild, or replace the thing
+        lost or injured less a fair and reasonable deduction for physical depreciation based
+        upon its condition at the time of the injury or the policy limit, whichever is less.&rdquo;
+        Under &sect; 2051.5(a), replacement cost coverage requires payment of &ldquo;the
+        amount that it would cost the insured to repair, rebuild, or replace the thing lost
+        or injured, without a deduction for physical depreciation, or the policy limit,
+        whichever is less.&rdquo;
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

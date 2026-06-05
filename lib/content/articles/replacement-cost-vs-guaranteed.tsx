@@ -53,9 +53,9 @@ export default function Content() {
         replacement cost policy as:
       </p>
       <blockquote className="border-l-4 border-[#1F3964] pl-4 italic text-gray-600 mb-6">
-        &ldquo;The amount which it would cost the insured to repair, rebuild, or replace the
-        damaged or destroyed property, without a deduction for physical depreciation, or the
-        policy limit, whichever is less.&rdquo;
+        &ldquo;The amount that it would cost the insured to repair, rebuild, or replace the
+        thing lost or injured, without a deduction for physical depreciation, or the policy
+        limit, whichever is less.&rdquo;
       </blockquote>
       <p className="text-sm text-gray-500 italic mb-6">
         Cal. Ins. Code &sect; 2051.5(a). The parallel &sect; 2051(b) ACV framework was
