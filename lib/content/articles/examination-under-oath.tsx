@@ -425,18 +425,24 @@ export default function Content() {
         What Happens If You Refuse the EUO
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you refuse to attend the EUO without good cause, the insurer will deny your claim
-        for failure to comply with the policy&apos;s post-loss conditions. This denial can be
-        very difficult to overcome, because the duty to submit to an EUO is explicitly written
-        into the policy and has been upheld by California courts for over a century.
+        If an insured willfully refuses to attend an EUO without good cause, the insurer
+        will commonly deny the claim for failure to comply with the policy&apos;s post-loss
+        conditions. California law, however, does not treat every non-compliance as
+        automatic forfeiture: to deny coverage on cooperation grounds, the insurer
+        generally must show both a <em>material breach</em> by the insured and{' '}
+        <em>resulting prejudice</em> to the insurer. That said, a denial founded on
+        outright refusal to attend an EUO is one of the more difficult positions for an
+        insured to overcome, because the duty to submit to an EUO is explicitly written
+        into the policy and has been recognized by California courts for over a century.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, the insurer&apos;s demand must be <em>reasonable</em>, and your refusal must
-        be <em>willful</em>. If you failed to appear because of a medical emergency, because the
-        notice was inadequate, or because the scheduling was genuinely unreasonable, those are
-        not willful refusals. If the insurer demands an EUO within 72 hours, insists on a
-        location that is hours from your home, or demands that you produce documents that do not
-        exist &mdash; those are unreasonable demands that do not obligate compliance.
+        The insurer&apos;s demand must also be <em>reasonable</em>, and the refusal must
+        be <em>willful</em>. A failure to appear due to a medical emergency, inadequate
+        notice, or genuinely unreasonable scheduling is not a willful refusal. Demands for
+        an EUO within 72 hours, at a location hours from the insured&apos;s home, or for
+        documents that do not exist may be unreasonable and not obligate compliance &mdash;
+        though whether any particular demand crosses that line is a fact-intensive question
+        best evaluated with counsel.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The safer approach is to comply but protect yourself: attend with your attorney, prepare

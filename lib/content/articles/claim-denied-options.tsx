@@ -193,11 +193,15 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Do not sit on a denial indefinitely. While there is no specific deadline to &quot;appeal&quot;
-        a denial (it is not a formal appeal process like in health insurance), there are statutes of
-        limitation that limit how long you can file a lawsuit. In California, the statute of
-        limitations for breach of contract on an insurance policy is typically governed by the
-        policy&apos;s suit limitation provision — often one or two years from the date of loss. If
-        you miss this deadline, you may lose your right to challenge the denial in court entirely.
+        a denial (it is not a formal appeal process like in health insurance), there are statutory
+        and contractual deadlines that limit how long an insured has to file a lawsuit. In
+        California, residential and commercial property policies subject to Cal. Ins. Code
+        &sect; 2071 generally contain a <strong>12-month suit-limitation period running from
+        inception of the loss</strong>, extended to <strong>24 months for losses related to a
+        state of emergency</strong> as defined in Cal. Gov. Code &sect; 8558(b). Whether a
+        specific policy aligns with the &sect; 2071 baseline, and whether equitable tolling
+        applies, are questions for a California-licensed attorney. Missing the deadline can
+        bar the right to challenge the denial in court.
       </p>
 
       <CalloutBox variant="warning" title="Do Not Let Time Run Out">
