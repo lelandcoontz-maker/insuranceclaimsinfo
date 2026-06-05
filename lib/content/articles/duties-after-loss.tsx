@@ -253,10 +253,13 @@ export default function Content() {
           contractual request.
         </li>
         <li>
-          <strong>Voluntary (strategic) proof of loss:</strong> You submit a sworn proof of loss on your
-          own initiative to trigger a coverage decision. This is a powerful tool for forcing the insurer
-          to accept or deny your claim within a specific timeframe under California&apos;s Fair Claims
-          regulations. See our article on{' '}
+          <strong>Voluntary (strategic) proof of loss:</strong> An insured may submit a sworn proof
+          of loss on their own initiative to trigger a coverage decision. This can be a useful tool
+          for moving a stalled claim toward an accept-or-deny decision within the timeframes under
+          California&rsquo;s Fair Claims regulations. Note that submitting a voluntary proof of loss
+          before the insurer requests one starts the carrier&rsquo;s decision clock; an insured
+          whose claim is still being developed should weigh the benefit of forcing a decision
+          against the risk of a premature denial. See our article on{' '}
           <Link href="/resources/strategic-proof-of-loss" className="text-blue-700 underline hover:text-blue-900">
             the strategic proof of loss
           </Link>{' '}
@@ -457,10 +460,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Comply promptly with all legitimate requests. Respond in writing. Meet deadlines or request
         extensions before they pass. But do so with awareness &mdash; understand what you are required
-        to provide versus what the insurer is <em>hoping</em> you will provide. If a request feels
-        unusually broad, invasive, or unrelated to your claim, you are entitled to push back and ask the
-        insurer to explain its relevance. When in doubt, consult with a Public Adjuster or attorney before
-        responding to unusual requests.
+        to provide versus what the insurer is <em>hoping</em> you will provide. Where a request seems
+        unusually broad, invasive, or unrelated to the claim, an insured may request clarification in
+        writing (for example, asking how the request relates to the loss). Outright refusal carries
+        risk &mdash; carriers sometimes characterize narrowing as non-cooperation, so the question of
+        whether and how to push back is best evaluated with a Public Adjuster or attorney before
+        responding.
       </p>
 
       {/* ── PRACTICAL TIPS ── */}
@@ -494,14 +499,20 @@ export default function Content() {
           request an extension in writing <em>before</em> the deadline &mdash; not after.
         </li>
         <li>
-          <strong>Do not sign blanket authorizations.</strong> If the insurer asks you to sign a release
-          allowing them access to &ldquo;any and all records,&rdquo; narrow it. Provide what is relevant
-          to the claim.
+          <strong>Be cautious with blanket authorizations.</strong> Carriers commonly ask for a
+          release allowing access to &ldquo;any and all records.&rdquo; An insured may request
+          that the authorization be narrowed to records relevant to the claim, though carriers
+          sometimes treat narrowing as non-cooperation. Where the request is broad and the
+          insured is unsure how to respond, this is a sensible point at which to consult an
+          attorney before signing.
         </li>
         <li>
-          <strong>Do not give recorded statements without preparation.</strong> You may be required to
-          cooperate, but you are entitled to schedule the statement at a reasonable time and to prepare.
-          You are also entitled to have your representative present.
+          <strong>Be cautious with recorded statements.</strong> Cooperation may require the
+          insured to give a statement, but the insured can typically schedule it at a
+          reasonable time and prepare beforehand. An insured may request that a representative
+          (a Public Adjuster or, where appropriate, counsel) be present; a carrier may or may
+          not agree. Where fraud is suspected or the loss is significant, consulting an
+          attorney before giving a recorded statement is the safer course.
         </li>
         <li>
           <strong>Separate damaged from undamaged property.</strong> For contents claims, physically

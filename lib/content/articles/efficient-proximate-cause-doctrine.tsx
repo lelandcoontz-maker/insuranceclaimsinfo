@@ -67,7 +67,7 @@ export default function Content() {
       {/* ── California's Framework ───────────────────────────────── */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        California&rsquo;s Framework: The Strongest in the Nation
+        California&rsquo;s Framework: A Statutory and Case-Law-Based Approach
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California has the most developed and policyholder-protective efficient proximate
@@ -374,8 +374,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Under efficient proximate cause analysis, the wind was the dominant cause. It created
         the opening through which the water entered. Without the wind, there would have been
-        no water intrusion. The entire loss &mdash; including the interior water
-        damage &mdash; should be covered.
+        no water intrusion. On those facts, California&rsquo;s EPC framework would typically
+        treat the entire loss &mdash; including the interior water damage &mdash; as covered.
+        How the doctrine applies to any particular policy and set of facts is a question for
+        a California-licensed attorney.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -388,8 +390,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the sudden plumbing failure is the efficient proximate cause &mdash; and the mold
-        is merely the natural consequence of the water exposure &mdash; the mold damage
-        should be covered. The plumbing break set the chain in motion. However, if the
+        is merely the natural consequence of the water exposure &mdash; the mold damage may
+        be covered under the EPC framework. The plumbing break set the chain in motion.
+        However, if the
         &ldquo;plumbing failure&rdquo; is actually a gradual leak that developed over months
         (excluded as maintenance or wear and tear), the analysis changes &mdash; the
         efficient proximate cause may be the gradual deterioration, not a sudden event.
@@ -450,10 +453,11 @@ export default function Content() {
         workmanship.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The negligent workmanship is the efficient proximate cause &mdash; it set in motion
-        the chain that led to the fire. The fire is the mechanism through which the
-        negligence caused the loss. Under all-risk policies, the entire loss should be
-        covered.
+        On those facts, the negligent workmanship is the efficient proximate cause &mdash; it
+        set in motion the chain that led to the fire. The fire is the mechanism through which
+        the negligence caused the loss. Under all-risk policies, California&rsquo;s EPC
+        framework would typically treat the entire loss as covered. Coverage analysis on any
+        specific claim depends on the policy language and the facts.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -466,8 +470,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The storm is the efficient proximate cause &mdash; it created the conditions that
-        made the theft possible. Under the doctrine, both the storm damage and the theft
-        should be covered.
+        made the theft possible. On those facts, California&rsquo;s EPC framework would
+        typically treat both the storm damage and the theft as covered, though application
+        to a particular policy depends on the policy language and the facts.
       </p>
 
       {/* ── How California Courts Determine ──────────────────────── */}
