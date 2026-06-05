@@ -473,14 +473,15 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Shernoff Bidart Echeverria LLP</strong> &mdash; As one of California&rsquo;s
-          leading policyholder-side firms, Shernoff Bidart Echeverria has extensively litigated
-          cases involving pretextual fraud denials and SIU abuse. As the attorneys at Shernoff
-          Bidart Echeverria have observed, &lsquo;The fraud defense is the nuclear option in
-          insurance claims handling, and when it is deployed without adequate factual support,
-          it becomes evidence of the insurer&rsquo;s own bad faith rather than the
-          policyholder&rsquo;s misconduct.&rsquo; Search for their publications on SIU
-          practices and fraud-based denials.
+          <strong>Shernoff Bidart Echeverria LLP</strong> &mdash; One of California&rsquo;s
+          leading policyholder-side bad-faith firms. The firm has extensively litigated cases
+          involving pretextual fraud denials and SIU abuse, and publishes commentary on those
+          practices. The practical observation that runs through this area &mdash; that a
+          fraud defense deployed without adequate factual support tends to become evidence of
+          the insurer&rsquo;s own bad faith rather than evidence of policyholder
+          misconduct &mdash; is consistent with the cases discussed above. Their publications
+          on SIU practices and fraud-based denials are a useful starting point for further
+          reading.
         </li>
         <li>
           <strong>Policyholder-side coverage commentary</strong> &mdash; The national
