@@ -26,16 +26,32 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowners insurance policies in California contain a one-year suit limitation
         provision. This comes from California Insurance Code Section 2071, which sets out the
-        standard fire policy form. The provision states that no suit or action on the policy shall
-        be sustainable unless commenced within twelve months after the inception of the loss.
+        standard fire policy form. The provision states that no suit or action on the policy
+        shall be sustainable unless commenced within twelve months after the inception of the
+        loss.
       </p>
+
+      <CalloutBox variant="important" title="State-of-Emergency Losses: 24-Month Period">
+        <p>
+          California Insurance Code &sect; 2071 was amended to extend the suit-limitation
+          period from 12 months to <strong>24 months from the inception of the loss</strong>{' '}
+          for losses related to a declared state of emergency as defined in Government Code{' '}
+          &sect; 8558(b). This longer window applies to most wildfire, earthquake, and other
+          declared-disaster claims. Equitable tolling under the case law discussed below still
+          applies on top of the statutory deadline, but the underlying period an insured is
+          working from is 24 months rather than 12 in state-of-emergency cases. Whether a
+          specific loss falls within the 24-month rule depends on the timing of the emergency
+          declaration and the loss; an attorney can evaluate that against the insured&rsquo;s
+          specific timeline.
+        </p>
+      </CalloutBox>
 
       <CalloutBox variant="warning" title="If Your Deadline Is Approaching — Act Now">
         <p>
-          If your one-year suit limitation period is approaching, consult an attorney immediately.
-          Do not rely on equitable tolling without legal advice — whether tolling applies to your
-          specific situation is fact-dependent and may need to be litigated. Missing the deadline
-          means losing your right to sue, permanently.
+          If the suit-limitation period is approaching, consult an attorney immediately.
+          Do not rely on equitable tolling without legal advice &mdash; whether tolling
+          applies to a specific situation is fact-dependent and may need to be litigated.
+          Missing the deadline means losing the right to sue, permanently.
         </p>
       </CalloutBox>
 

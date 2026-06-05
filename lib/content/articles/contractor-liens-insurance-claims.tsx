@@ -160,12 +160,22 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California Civil Code &sect;8200, a preliminary notice must generally be served
-        within 20 days of the claimant first furnishing labor, services, equipment, or materials
-        to the work of improvement. The notice must be served on the property owner, the direct
-        contractor (general contractor), and the construction lender, if any. If the claimant
-        has a direct contract with the property owner, the claimant only needs to serve the
-        construction lender.
+        within 20 days of the claimant first furnishing labor, services, equipment, or
+        materials to the work of improvement. The service requirements depend on the
+        claimant&rsquo;s relationship to the owner:
       </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Subcontractors and material suppliers</strong> (claimants without a direct
+          contract with the owner) must serve the preliminary notice on the property owner,
+          the direct contractor (general contractor), and the construction lender (if any).
+        </li>
+        <li>
+          <strong>Direct contractors</strong> (claimants with a direct contract with the
+          owner) generally do not need to serve a preliminary notice on the owner to
+          preserve lien rights, but must serve the construction lender (if any).
+        </li>
+      </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Key points about the preliminary notice:
       </p>
@@ -182,12 +192,6 @@ export default function Content() {
           their lien rights are limited to labor and materials furnished during the 20 days
           immediately preceding the date the notice was served, plus all work performed afterward
           (Civil Code &sect;8204).
-        </li>
-        <li>
-          <strong>Direct contractors generally do not need to serve a preliminary notice on the
-          owner.</strong> If the contractor has a direct contract with the property owner, the
-          contractor preserves lien rights without serving a preliminary notice on the owner.
-          However, the contractor must still serve the construction lender, if any.
         </li>
         <li>
           <strong>It provides valuable information.</strong> The preliminary notice identifies who
