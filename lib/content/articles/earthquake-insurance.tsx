@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Most California homeowners know that their standard homeowner policy does not cover earthquake damage. What most do not know is that they have a real choice in how they buy earthquake coverage &mdash; and that choice can dramatically affect what happens when they file a claim.
       </p>

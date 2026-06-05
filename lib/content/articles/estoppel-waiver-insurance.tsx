@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance companies sometimes deny claims on grounds that, while technically valid
         under the policy language, contradict everything the insurer said and did during the

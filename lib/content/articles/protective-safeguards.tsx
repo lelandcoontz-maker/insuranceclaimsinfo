@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <CalloutBox variant="warning" title="This Endorsement Can Void Your Entire Claim">
         <p>
           A protective safeguards endorsement is one of the most punitive provisions in commercial

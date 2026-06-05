@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most frustrating denials a policyholder can receive is a denial based on
         late notice &mdash; the insurer&rsquo;s argument that the policyholder failed to

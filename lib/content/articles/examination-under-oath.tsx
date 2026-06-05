@@ -12,6 +12,16 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary on EUOs in California by a Licensed
+          California Public Adjuster. It is not legal advice. An EUO is a formal legal
+          proceeding with significant consequences for the claim, and many insureds engage
+          counsel before sitting for one. For legal questions about whether and how to
+          respond to a specific EUO demand, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         You filed an insurance claim. Weeks or months pass. Then you receive a letter from the
         insurance company &mdash; or from an attorney representing the insurance company &mdash;

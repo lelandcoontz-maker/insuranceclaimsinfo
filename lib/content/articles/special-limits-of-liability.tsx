@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Somewhere in your homeowner&rsquo;s policy &mdash; buried in the personal property section that almost nobody reads &mdash; is a list of dollar caps that could reduce your claim by tens of thousands of dollars. They are called <strong>Special Limits of Liability</strong>, and they apply regardless of how much Coverage C (personal property) you carry. You could have $150,000 in contents coverage and still be limited to $200 for your entire coin collection. These are not obscure technicalities. They are policy conditions that affect real claims every single day, and most policyholders never discover them until it is too late.
       </p>

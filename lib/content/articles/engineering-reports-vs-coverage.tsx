@@ -13,6 +13,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Your insurance company sends a forensic engineer to inspect your property after a loss. A few weeks later, you receive a denial letter that leans heavily on the engineer&rsquo;s report. The engineer found a construction deficiency, an installation error, or a pre-existing condition somewhere in the chain of events &mdash; and the insurer has used that finding to deny the entire claim. The message, implicit or explicit, is that the engineer has determined your damage is &ldquo;not covered.&rdquo;
       </p>

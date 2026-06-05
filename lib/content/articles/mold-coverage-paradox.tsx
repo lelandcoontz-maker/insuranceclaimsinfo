@@ -12,6 +12,14 @@ export const meta = {
 export default function Content() {
   return (
     <>
+      <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
+        <p>
+          This article is educational commentary by a Licensed California Public
+          Adjuster. It is not legal advice. For legal questions about your specific
+          situation, consult a licensed California attorney.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Mold is one of the most misunderstood topics in homeowner insurance. Policyholders hear &ldquo;mold is excluded&rdquo; and assume they have no coverage. Insurance companies reinforce that assumption because it saves them money. But the truth is far more nuanced: <strong>mold is simultaneously covered and excluded under most homeowner policies</strong>, depending entirely on what caused it and how the remediation costs are allocated. Understanding this paradox is worth tens of thousands of dollars on a water damage claim where mold is present.
       </p>
