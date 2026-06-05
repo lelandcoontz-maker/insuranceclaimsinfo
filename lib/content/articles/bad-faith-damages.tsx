@@ -18,8 +18,8 @@ export default function Content() {
           Bad faith litigation is complex and fact-specific. A public adjuster&apos;s role is to
           document the carrier&apos;s conduct and handle the claim; the development of legal
           arguments, the selection of legal theories, and the conduct of litigation are the work
-          of a California-licensed attorney (Insurance Code &sect; 15002). Consult a licensed
-          California attorney before pursuing any legal action.
+          of a California-licensed attorney. Consult a licensed California attorney before
+          pursuing any legal action.
         </p>
       </CalloutBox>
 

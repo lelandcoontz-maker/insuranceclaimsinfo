@@ -18,8 +18,8 @@ export default function Content() {
           This article is written by a California Licensed Public Adjuster for educational purposes.
           It is not legal advice. Case law referenced in this article is provided for educational
           context only. Insurance policies and applicable law vary, and developing legal arguments
-          or theories is the work of a California-licensed attorney (Insurance Code &sect; 15002).
-          Consult a licensed attorney regarding your specific situation.
+          or theories is the work of a California-licensed attorney. Consult a licensed
+          attorney regarding your specific situation.
         </p>
       </CalloutBox>
 

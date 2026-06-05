@@ -17,8 +17,8 @@ export default function Content() {
           This article is for educational purposes only and does not constitute legal advice.
           A public adjuster&rsquo;s role is to document the loss and handle the claim; the
           development of legal arguments, the selection of legal theories, and the conduct of
-          litigation are the work of a California-licensed attorney (Insurance Code &sect; 15002).
-          Coverage always turns on the specific policy language and the facts of the loss.
+          litigation are the work of a California-licensed attorney. Coverage always turns on
+          the specific policy language and the facts of the loss.
           Consult a licensed California attorney about a specific situation.
         </p>
       </CalloutBox>

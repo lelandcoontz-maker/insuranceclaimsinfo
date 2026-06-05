@@ -18,7 +18,7 @@ export default function Content() {
           of California insurance bad-faith law. It is not legal advice. The application of
           any case or doctrine discussed here to a specific claim is fact-dependent and a
           question for a California-licensed attorney. Pleading, litigation strategy, and
-          the choice of bad-faith theories are attorney work under Insurance Code &sect; 15002.
+          the choice of bad-faith theories are attorney work.
         </p>
       </CalloutBox>
 

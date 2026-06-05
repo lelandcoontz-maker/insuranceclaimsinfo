@@ -18,9 +18,9 @@ export default function Content() {
           The legal concepts discussed below involve complex areas of California insurance
           litigation. A public adjuster&rsquo;s role is to document the carrier&rsquo;s conduct
           and handle the claim; the development of legal arguments, the selection of legal
-          theories, and the conduct of litigation are the work of a California-licensed attorney
-          (Insurance Code &sect; 15002). Consult a licensed California attorney before pursuing
-          any legal action against your insurer.
+          theories, and the conduct of litigation are the work of a California-licensed attorney.
+          Consult a licensed California attorney before pursuing any legal action against your
+          insurer.
         </p>
       </CalloutBox>
 

@@ -19,8 +19,8 @@ export default function Content() {
           The distinction between fraud and bad faith is legally complex and fact-specific. A
           public adjuster&rsquo;s role is to document the carrier&rsquo;s conduct and handle the
           claim; the development of legal arguments, the selection of legal theories, and the
-          conduct of litigation are the work of a California-licensed attorney (Insurance Code
-          &sect; 15002). Consult a licensed California attorney before pursuing any legal action.
+          conduct of litigation are the work of a California-licensed attorney. Consult a
+          licensed California attorney before pursuing any legal action.
         </p>
       </CalloutBox>
 

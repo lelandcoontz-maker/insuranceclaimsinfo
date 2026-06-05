@@ -18,8 +18,8 @@ export default function Content() {
           cause-and-origin fire investigations as a Licensed California Public Adjuster. It is
           not legal advice. The development of expert challenges, the legal handling of
           spoliation claims, the conduct of any litigation, and the analysis of statute-of-
-          limitations issues are the work of a California-licensed attorney (Insurance Code
-          &sect; 15002). For legal questions about a specific fire claim or C&amp;O dispute,
+          limitations issues are the work of a California-licensed attorney. For legal
+          questions about a specific fire claim or C&amp;O dispute,
           consult a licensed attorney experienced in insurance coverage disputes.
         </p>
       </CalloutBox>

@@ -601,9 +601,8 @@ export default function Content() {
           interpretations. A public adjuster&apos;s role is to document the carrier&apos;s
           conduct and handle the claim; the development of legal arguments, the selection of
           legal theories, and the conduct of litigation are the work of a
-          California-licensed attorney (see Insurance Code &sect; 15002). If you believe
-          your insurer has acted in bad faith, consult a California-licensed attorney before
-          pursuing legal action.
+          California-licensed attorney. If you believe your insurer has acted in bad faith,
+          consult a California-licensed attorney before pursuing legal action.
         </p>
         <p className="mt-2">
           <strong>Author:</strong> Leland Coontz III, Licensed Public Adjuster, CA License #2B53445
