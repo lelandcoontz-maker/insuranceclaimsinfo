@@ -200,14 +200,18 @@ export default function Content() {
         . The policyholder generally must show that (1) the insurer acted in bad faith;
         (2) the policyholder suffered emotional distress; (3) the bad faith was a
         substantial factor in causing the distress; AND (4) some actual economic loss
-        attributable to the insurer&apos;s conduct &mdash; per the line of California
-        Court of Appeal cases beginning with{' '}
-        <em>Waters v. United Services Auto. Assn.</em> (1996) 41 Cal.App.4th 1063,
-        which held that emotional distress &ldquo;cannot stand alone&rdquo; and must
-        be predicated on some economic loss attributable to the insurer&rsquo;s conduct.
-        Outrageous conduct, physical manifestations, or medical treatment are not
-        separately required for the bad-faith-tort pathway (those elements belong to
-        IIED), but the economic-loss predicate from <em>Waters</em> is. The threshold
+        attributable to the insurer&apos;s conduct. The economic-loss predicate traces
+        to the California Supreme Court&rsquo;s decision in <em>Gourley v. State Farm
+        Mut. Auto. Ins. Co.</em> (1991) 53 Cal.3d 121, which held that emotional
+        distress damages in a bad-faith action are recoverable only as parasitic to
+        economic loss caused by the insurer&rsquo;s breach. The Court of Appeal in{' '}
+        <em>Waters v. United Services Auto. Assn.</em> (1996) 41 Cal.App.4th 1063
+        applied that requirement, noting that emotional distress &ldquo;cannot stand
+        alone&rdquo; and must be predicated on some economic loss attributable to the
+        insurer&rsquo;s conduct. Outrageous conduct, physical manifestations, or
+        medical treatment are not separately required for the bad-faith-tort pathway
+        (those elements belong to IIED), but the <em>Gourley</em>/<em>Waters</em>
+        economic-loss predicate is. The threshold
         is generally easy to meet: <em>Delos v. Farmers Group, Inc.</em> (1979) 93
         Cal.App.3d 642 held that attorney fees incurred to recover wrongfully withheld
         policy benefits (later formalized as Brandt fees) themselves constitute
@@ -409,7 +413,8 @@ export default function Content() {
         affects the constitutional ceiling on punitive damages. In{' '}
         <em>State Farm Mut. Auto. Ins. Co. v. Campbell</em> (2003) 538 U.S. 408, 425, the
         U.S. Supreme Court held that &ldquo;few awards exceeding a single-digit ratio
-        between punitive and compensatory damages... will satisfy due process.&rdquo; The
+        between punitive and compensatory damages, to a significant degree, will satisfy
+        due process.&rdquo; The
         California Supreme Court applied this in <em>Simon v. San Paolo U.S. Holding Co.</em>
         (2005) 35 Cal.4th 1159, 1182, and in <em>Roby v. McKesson Corp.</em> (2009) 47
         Cal.4th 686, 719, where it held that a 1:1 ratio may be the constitutional maximum
