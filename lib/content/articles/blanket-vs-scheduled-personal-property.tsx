@@ -385,7 +385,7 @@ export default function Content() {
         <li>
           <strong>Replacement cost recovery timelines.</strong> California law provides
           specific timeframes for policyholders to replace items and collect recoverable
-          depreciation. Under California Insurance Code &sect; 2051.5(b), policyholders
+          depreciation. Under California Insurance Code &sect; 2051.5(b)(1), policyholders
           have at least <strong>12 months</strong> from the date of the first ACV payment
           to collect the replacement cost holdback in standard losses, and at least{' '}
           <strong>36 months</strong> for losses related to a declared state of emergency
