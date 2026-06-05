@@ -73,8 +73,10 @@ export default function Content() {
           <dt className="font-bold text-gray-900">Bad Faith</dt>
           <dd className="text-gray-700">
             When an insurer unreasonably delays, underpays, or denies a claim. In California,
-            bad faith is a tort — you can sue for damages beyond the policy limits, including
-            emotional distress and punitive damages.{' '}
+            bad faith is recognized as a tort, and an insured may be able to recover damages
+            beyond policy limits — potentially including emotional distress and, where the
+            conduct meets the statutory standard, punitive damages. Whether a particular
+            claim supports a bad-faith action is a question for a California-licensed attorney.{' '}
             <Link href="/resources/bad-faith" className="text-[#1F3964] underline text-sm">Read more</Link>
           </dd>
         </div>

@@ -362,7 +362,7 @@ export default function Content() {
         <li><strong>Right to dispute inaccurate information</strong> &mdash; If your report contains errors, you can file a formal dispute. The database operator must investigate within 30 days.</li>
         <li><strong>Right to notification of adverse action</strong> &mdash; If an insurer denies you coverage, raises your premium, or takes other adverse action based on a CLUE or A-PLUS report, they must notify you and tell you which report they used.</li>
         <li><strong>Right to add a consumer statement</strong> &mdash; If a dispute does not resolve in your favor, you can add a 100-word statement to the file explaining your side.</li>
-        <li><strong>Right to sue for violations</strong> &mdash; If LexisNexis or Verisk fails to follow FCRA procedures, you can sue for actual damages, statutory damages (up to $1,000 per violation), and attorney&apos;s fees.</li>
+        <li><strong>Private right of action for FCRA violations</strong> &mdash; The federal Fair Credit Reporting Act (15 U.S.C. &sect;&sect; 1681n, 1681o) provides a private right of action against credit reporting agencies that fail to follow FCRA procedures, with potential recovery including actual damages, statutory damages, and attorney&apos;s fees. Whether a particular situation supports a claim is a question for an attorney.</li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

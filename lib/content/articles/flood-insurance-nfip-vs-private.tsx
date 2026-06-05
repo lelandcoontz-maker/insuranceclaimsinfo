@@ -478,11 +478,14 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Under a private flood policy:</strong> The full range of California{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith remedies</Link>{' '}
-        apply. If the carrier unreasonably delays, lowballs, or denies your claim, you can sue
-        for breach of the implied covenant of good faith and fair dealing. Available damages
-        include emotional distress, consequential damages, and punitive damages where the
-        insurer&rsquo;s conduct is sufficiently egregious. The threat of bad faith liability
-        gives private flood policyholders significantly more leverage in claim negotiations.
+        may be available. Where a carrier unreasonably delays, lowballs, or denies a claim, an
+        insured may have grounds to bring a common-law action for breach of the implied
+        covenant of good faith and fair dealing. Available damages under California case law
+        can include consequential damages, emotional distress, and (where conduct meets the
+        clear-and-convincing standard under Civil Code &sect; 3294) punitive damages. The
+        potential for bad-faith liability gives private flood policyholders significantly
+        more leverage in claim negotiations than NFIP claimants. Whether a particular set of
+        facts supports such a claim is a question for a California-licensed attorney.
       </p>
 
       {/* ───────── Regulatory Protections ───────── */}

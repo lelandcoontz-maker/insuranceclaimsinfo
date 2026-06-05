@@ -282,8 +282,12 @@ export default function Content() {
         </li>
         <li>
           <strong>Deliberate delay:</strong> Some insurers use delay as a settlement tactic,
-          hoping you will accept less just to end the process. This is bad faith, and it is
-          actionable under California Insurance Code Section 790.03(h).
+          hoping you will accept less just to end the process. Conduct of this kind may be
+          evidence of bad faith. California Insurance Code &sect; 790.03(h) describes
+          unreasonable settlement practices, and while &sect; 790.03 itself does not create
+          a private right of action (per <em>Moradi-Shalal v. Fireman&rsquo;s Fund Ins. Co.</em>
+          (1988) 46 Cal.3d 287), those standards inform what may support a common-law
+          bad-faith claim that a California-licensed attorney can evaluate.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-6">
