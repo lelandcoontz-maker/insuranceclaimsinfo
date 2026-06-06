@@ -140,7 +140,7 @@ export default function Content() {
         classify it as &ldquo;mold remediation&rdquo; subject to the policy&rsquo;s mold
         sub-limit (typically $5,000 or $10,000 under the standard HO 04 26 endorsement).
         This allows the carrier to cap a $23,000 remediation scope at $5,000, even though
-        most that work is water mitigation that would need to be performed
+        most of that work is water mitigation that would need to be performed
         regardless of whether mold is present.
       </p>
 

@@ -75,7 +75,7 @@ export default function Content() {
         Electronic Data Coverage and Its Limitations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Modern professional services firms store most their records electronically. Document management systems, practice management software, accounting platforms, CAD files, email archives, and client databases all reside on servers, in cloud storage, or on individual workstations. When a property loss occurs &mdash; fire, water damage, electrical surge &mdash; the electronic data is often the most significant loss, but it is also the most poorly covered.
+        Modern professional services firms store most of their records electronically. Document management systems, practice management software, accounting platforms, CAD files, email archives, and client databases all reside on servers, in cloud storage, or on individual workstations. When a property loss occurs &mdash; fire, water damage, electrical surge &mdash; the electronic data is often the most significant loss, but it is also the most poorly covered.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard ISO commercial property form covers &ldquo;electronic data&rdquo; as a category separate from both personal property and valuable papers. The standard sublimit is typically $2,500 &mdash; a limit so low it is almost meaningless for any professional services firm. Even with enhanced endorsements, the electronic data sublimit is often $25,000 to $100,000, which may be inadequate for a firm that has invested hundreds of thousands of dollars in digital infrastructure, software customization, and data accumulation over years or decades.

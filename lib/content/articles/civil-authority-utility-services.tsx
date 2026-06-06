@@ -184,7 +184,7 @@ export default function Content() {
         <p>
           The COVID-19 pandemic generated thousands of civil authority coverage disputes. Business
           owners across the country argued that government stay-at-home orders and mandatory
-          closures triggered their civil authority coverage. Most these claims were
+          closures triggered their civil authority coverage. Most of these claims were
           denied, and courts overwhelmingly sided with carriers on two grounds: (1) there was no
           &ldquo;direct physical loss of or damage to&rdquo; nearby property, since the virus did
           not constitute physical damage under most policy language, and (2) even where some form of

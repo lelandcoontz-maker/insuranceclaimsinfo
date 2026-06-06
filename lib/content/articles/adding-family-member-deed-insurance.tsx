@@ -373,7 +373,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the child being added to the deed does <em>not</em> intend to use the home as
-        their primary residence &mdash; which is the case in most these
+        their primary residence &mdash; which is the case in most of these
         transfers &mdash; the Proposition 19 exclusion does not apply. The transfer triggers
         a reassessment of the transferred interest to current market value, potentially
         increasing the family&rsquo;s annual property tax bill by thousands of dollars.
