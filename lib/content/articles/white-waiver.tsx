@@ -194,7 +194,7 @@ export default function Content() {
         It is entirely possible — and often tactically advisable — to <strong>set the White waiver
         aside</strong>, continue investigating the claim, and return to the waiver later if and
         when it becomes advantageous to do so. If at some point you determine that signing the
-        waiver will unlock a settlement discussion that genuinely serves your interests, you can
+        waiver will trigger a settlement discussion that genuinely serves your interests, you can
         sign it then. But signing it before you understand the full picture gives up leverage you
         may never get back.
       </p>

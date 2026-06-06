@@ -410,7 +410,7 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Code Upgrades: A Special Case Where &ldquo;Repair First&rdquo; Can Unlock Money
+        Code Upgrades: A Special Case Where &ldquo;Repair First&rdquo; Brings Money
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         There is one category of claim payment where the repair-first versus negotiate-first

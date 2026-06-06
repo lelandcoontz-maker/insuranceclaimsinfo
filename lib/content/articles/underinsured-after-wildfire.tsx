@@ -273,7 +273,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Rebuilding triggers extended replacement cost.</strong> If you have an extended
-          replacement cost endorsement, rebuilding unlocks the additional 25–50%. Cashing out
+          replacement cost endorsement, rebuilding triggers the additional 25–50%. Cashing out
           forfeits this.
         </li>
         <li>

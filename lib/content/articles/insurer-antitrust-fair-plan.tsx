@@ -270,7 +270,7 @@ export default function Content() {
         withdrawal as leverage for regulatory change, the conduct is aggressive but likely
         legal. If carriers communicated about the strategy through any channel &mdash; trade
         associations, reinsurance intermediaries, informal executive discussions &mdash; the
-        analysis changes fundamentally.
+        analysis changes.
       </p>
 
       <CalloutBox variant="important" title="The Policyholders Pay the Price Either Way">

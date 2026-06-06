@@ -208,7 +208,7 @@ export default function Content() {
         This was the moment first-party bad faith became an independent tort in California.
         After <em>Gruenberg</em>, policyholders could sue their own insurer in tort — not just in
         contract — for unreasonably denying, delaying, or mishandling their own claims. The tort
-        framework unlocked the full range of tort remedies: compensatory damages without contract
+        framework triggered the full range of tort remedies: compensatory damages without contract
         limitations, emotional distress, and — critically — punitive damages. Since 1973, at least
         twenty-five other states have adopted some form of first-party bad faith tort, many
         citing <em>Gruenberg</em> directly.

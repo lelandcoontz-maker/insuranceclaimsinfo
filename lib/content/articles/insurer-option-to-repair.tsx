@@ -148,7 +148,7 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the carrier invokes its option to repair, the dynamic of the claim changes fundamentally.
+        When the carrier invokes its option to repair, the dynamic of the claim changes.
         The policyholder is no longer dealing with an insurance claim in the traditional sense &mdash;
         receiving money and managing their own restoration. Instead, the policyholder is living inside
         a construction project managed by the party on the other side of the claim. The implications

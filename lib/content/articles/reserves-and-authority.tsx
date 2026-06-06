@@ -63,7 +63,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Many attorneys and Public Adjusters believe this strongly. They argue that forcing a
         reserve increase &mdash; by presenting strong documentation of higher damages &mdash; is
-        the key to unlocking a fair settlement. Under this theory, submitting a detailed{' '}
+        the key to triggering a fair settlement. Under this theory, submitting a detailed{' '}
         <Link href="/resources/supplemental-claims" className="text-[#2E74B5] hover:underline">
           supplemental claim
         </Link>{' '}

@@ -307,7 +307,7 @@ export default function Content() {
         enough. The claim requires <em>financial abuse</em> as defined in &sect; 15610.30: a
         taking, secreting, appropriating, or retaining of the elder&rsquo;s property for a
         wrongful use or by undue influence. Where those elements are met, an elder abuse claim
-        can unlock attorney&rsquo;s fees, costs of suit, and other enhanced remedies through a
+        can trigger attorney&rsquo;s fees, costs of suit, and other enhanced remedies through a
         statutory path distinct from both breach of contract and the common-law tort of bad faith.
         For more on this topic, see our article on{' '}
         <Link href="/resources/elder-abuse-insurance" className="text-[#2E74B5] underline">

@@ -323,7 +323,7 @@ export default function Content() {
         <a href="https://www.claimspages.com/documents/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
           document library
         </a>{' '}
-        is a gold mine for policyholders as well. Registration is free, and it unlocks hundreds of
+        is a gold mine for policyholders as well. Registration is free, and it opens up hundreds of
         downloadable documents in PDF and Word format covering virtually every type of insurance
         claim imaginable.
       </p>

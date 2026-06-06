@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Elder Abuse Statutes in Insurance Claims: Enhanced Remedies for Elderly and Dependent Adult Policyholders',
   description:
-    'When insurance companies engage in bad faith against elderly or dependent adult policyholders, California\'s Elder Abuse and Dependent Adult Civil Protection Act unlocks enhanced remedies including attorney\'s fees, punitive damages, and survival actions.',
+    'When insurance companies engage in bad faith against elderly or dependent adult policyholders, California\'s Elder Abuse and Dependent Adult Civil Protection Act triggers enhanced remedies including attorney\'s fees, punitive damages, and survival actions.',
   summary:
-    'When an insurer acts in bad faith against an elderly or dependent-adult policyholder, California\'s Elder Abuse Act can unlock enhanced remedies, including attorney\'s fees, punitive damages, and survival actions, on top of normal bad-faith damages.',
+    'When an insurer acts in bad faith against an elderly or dependent-adult policyholder, California\'s Elder Abuse Act can trigger enhanced remedies, including attorney\'s fees, punitive damages, and survival actions, on top of normal bad-faith damages.',
 }
 
 export default function Content() {
@@ -50,7 +50,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Why This Matters">
         <p>
-          Elder abuse claims in the insurance context unlock remedies that are otherwise
+          Elder abuse claims in the insurance context trigger remedies that are otherwise
           difficult or impossible to obtain in standard bad faith litigation &mdash; including
           mandatory attorney&rsquo;s fees, enhanced damages, and the ability for the estate to
           recover damages even if the policyholder dies during litigation. Insurance companies
@@ -521,7 +521,7 @@ export default function Content() {
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
         Each cause of action adds a layer of liability. But it is the elder abuse claim that
-        unlocks the mandatory attorney&rsquo;s fees, the enhanced survival action, and the
+        triggers the mandatory attorney&rsquo;s fees, the enhanced survival action, and the
         additional leverage in settlement negotiations. For cases involving elderly
         policyholders, this fourth cause of action can be the most important one in the
         complaint.

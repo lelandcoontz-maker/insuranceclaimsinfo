@@ -307,7 +307,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         When the policyholder is 65 or older, or is a dependent adult, the California Elder
-        Abuse and Dependent Adult Civil Protection Act may unlock additional remedies beyond
+        Abuse and Dependent Adult Civil Protection Act may trigger additional remedies beyond
         standard bad faith. The framework spans several Welfare and Institutions Code sections:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

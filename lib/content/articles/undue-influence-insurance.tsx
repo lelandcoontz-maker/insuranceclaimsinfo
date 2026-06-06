@@ -313,7 +313,7 @@ export default function Content() {
         The significance of this overlap is the remedy. A simple contract claim to void a
         policy change may restore the status quo, but it does not compensate the victim for
         the abuse itself. An elder abuse claim under &sect;15610.30, combined with the
-        enhanced remedies available under &sect;15657, unlocks:
+        enhanced remedies available under &sect;15657, triggers:
       </p>
       <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
         <li>

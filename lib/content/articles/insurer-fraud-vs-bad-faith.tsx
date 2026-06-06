@@ -41,7 +41,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Understanding the distinction matters. In some cases, what an insurer did is bad enough
         that it crosses the line from bad faith into actual fraud &mdash; and proving fraud can
-        unlock additional remedies and a longer statute of limitations. In other cases,
+        trigger additional remedies and a longer statute of limitations. In other cases,
         policyholders allege fraud when what they really have is a bad faith claim, and the
         fraud allegation fails in court because the elements are not met. Knowing the
         difference helps you and your attorney choose the right legal strategy.
