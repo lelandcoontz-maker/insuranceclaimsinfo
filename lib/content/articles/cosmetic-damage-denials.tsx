@@ -163,10 +163,11 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="California Regulation Supports You">
         <p>
-          Under California&apos;s Fair Claims Settlement Practices (10 CCR § 2695.9), the insurer
-          must repair, rebuild, or replace damaged property so as to &ldquo;restore the property
-          to no less than its condition at the time of the loss.&rdquo; Leaving visible,
-          value-reducing damage unrepaired fails this standard.
+          Under California&apos;s Fair Claims Settlement Practices, 10 CCR &sect;&nbsp;2695.9(a)(2)
+          provides that &ldquo;when a loss requires replacement of items and the replaced items do
+          not match in quality, color or size, the insurer shall replace all items in the damaged
+          area so as to conform to a reasonably uniform appearance.&rdquo; A repair that leaves
+          visible, non-matching damage in the same line of sight does not meet that standard.
         </p>
       </CalloutBox>
 
