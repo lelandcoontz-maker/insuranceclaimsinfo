@@ -668,7 +668,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Also look at whether depreciation is being applied to components that should not be
-        depreciated at all. As mentioned above, labor costs, demolition, and debris removal
+        depreciated at all. Labor costs, demolition, and debris removal
         do not &quot;age&quot; &mdash; these costs are the same regardless of how old the
         damaged item is. Depreciating these costs inflates the depreciation holdback and
         reduces your initial payment.

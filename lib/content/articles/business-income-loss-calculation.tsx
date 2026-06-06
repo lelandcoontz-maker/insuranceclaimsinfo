@@ -1185,7 +1185,7 @@ export default function Content() {
           emotional distress damages, and punitive damages in egregious cases.
         </li>
         <li>
-          <strong>Brandt fees:</strong> As noted above, attorney fees incurred in obtaining
+          <strong>Brandt fees:</strong> Attorney fees incurred in obtaining
           the policy benefits are recoverable as tort damages if the carrier acted in bad
           faith. This removes one of the carrier&rsquo;s primary leverage points &mdash;
           the assumption that litigation costs will erode the policyholder&rsquo;s net

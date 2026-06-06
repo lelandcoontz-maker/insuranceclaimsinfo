@@ -582,7 +582,7 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          <strong>Ask for their license number.</strong> As noted above, California law requires
+          <strong>Ask for their license number.</strong> California law requires
           adjusters to provide their license number in their communications. Ask for it at the
           inspection. Write it down. Verify it on the CDI website. If the adjuster cannot or will
           not provide a license number, document that fact.

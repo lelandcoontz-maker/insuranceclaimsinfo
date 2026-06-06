@@ -547,7 +547,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Labor</strong> &mdash; as noted above, illegal to depreciate in California
+          <strong>Labor</strong> &mdash; illegal to depreciate in California
           and inappropriate in many other states
         </li>
         <li>

@@ -330,7 +330,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>&ldquo;No visible damage.&rdquo;</strong> As noted above, smoke damage is largely
+          <strong>&ldquo;No visible damage.&rdquo;</strong> Smoke damage is largely
           invisible. A visual inspection is meaningless — demand testing.
         </li>
         <li>

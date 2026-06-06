@@ -294,7 +294,6 @@ export default function Content() {
         4. Brandt Fees
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As noted above,{' '}
         <Link href="/resources/brandt-fees" className="text-[#2E74B5] underline">
           Brandt fees
         </Link>{' '}

@@ -246,8 +246,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your ALE limit is insufficient, tell your insurer in writing that you are approaching
-        the limit and that the repair timeline requires continued coverage. As noted above,
-        for state-of-emergency losses, California Insurance Code &sect; 2060(b)(1) extends
+        the limit and that the repair timeline requires continued coverage. For
+        state-of-emergency losses, California Insurance Code &sect; 2060(b)(1) extends
         the ALE coverage <em>period</em> to a 24-month minimum, with an additional 12-month
         good-cause extension available (total up to 36 months). Important nuance: the
         statute extends the <em>time</em> over which ALE may be incurred, not the policy

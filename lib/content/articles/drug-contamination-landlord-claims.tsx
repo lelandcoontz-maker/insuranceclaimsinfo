@@ -454,7 +454,7 @@ export default function Content() {
         Carriers sometimes argue that the tenant&rsquo;s drug activity constituted an
         &ldquo;increase in hazard&rdquo; that the landlord knew or should have known about, which
         voids coverage. This argument requires the carrier to prove that the <em>landlord</em>
-        had knowledge of the increased hazard &mdash; and as noted above, most landlords have no
+        had knowledge of the increased hazard &mdash; and most landlords have no
         idea their tenants are manufacturing drugs. Without evidence that the landlord knew of
         and permitted the drug activity, the increase-in-hazard defense fails.
       </p>

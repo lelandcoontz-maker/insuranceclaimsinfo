@@ -518,7 +518,7 @@ export default function Content() {
         California&rsquo;s Proposition 19 and Property Tax Reassessment
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As noted above, Proposition 19 significantly changed the rules for parent-child
+        Proposition 19 significantly changed the rules for parent-child
         property transfers in California. Before February 2021, parents could transfer a
         primary residence to a child without triggering a property tax reassessment under
         Proposition 58. After Proposition 19, the exclusion only applies if the child uses

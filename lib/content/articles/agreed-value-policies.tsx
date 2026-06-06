@@ -562,7 +562,7 @@ export default function Content() {
         Using Market Value to Reduce Replacement Cost
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As noted above, some adjusters attempt to use market value data &mdash; comparable sales,
+        Some adjusters attempt to use market value data &mdash; comparable sales,
         Zillow estimates, or real estate appraisals &mdash; to argue that the replacement cost or
         agreed value is too high. Market value is not relevant to a property insurance claim.
         Insurance indemnifies the cost to repair or replace the damaged structure, not the price

@@ -236,7 +236,7 @@ export default function Content() {
           covered regardless of how they are characterized.
         </li>
         <li>
-          Assessments arising from <strong>uncovered perils</strong> &mdash; as noted above,
+          Assessments arising from <strong>uncovered perils</strong> &mdash;
           if the underlying loss was caused by a peril excluded from your HO-6, the assessment
           coverage does not respond.
         </li>

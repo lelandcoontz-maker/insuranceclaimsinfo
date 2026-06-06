@@ -267,7 +267,7 @@ export default function Content() {
           the funder &mdash; but the dynamic can create tension.
         </li>
         <li>
-          <strong>Disclosure risks:</strong> As noted above, some policies and jurisdictions
+          <strong>Disclosure risks:</strong> Some policies and jurisdictions
           require disclosure of funding arrangements. Disclosure alerts the insurer that the
           policyholder has resources to litigate, which can be a double-edged sword &mdash;
           it may lead to better settlement offers, or it may cause the insurer to litigate

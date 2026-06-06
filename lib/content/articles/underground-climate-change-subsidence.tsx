@@ -290,7 +290,7 @@ export default function Content() {
         Ambiguity in the Exclusion Language
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As noted above, the earth movement exclusion was drafted to address specific
+        The earth movement exclusion was drafted to address specific
         geological hazards. If the exclusion language is ambiguous as applied to
         thermally-induced soil changes, California law requires that ambiguity to be
         resolved in the policyholder&rsquo;s favor. The insurer bears the burden of

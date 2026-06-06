@@ -715,7 +715,7 @@ export default function Content() {
           the net recovery (claim amount minus deductible) justifies the CLUE entry.
         </li>
         <li>
-          <strong>Do not call your carrier to &ldquo;just ask&rdquo;:</strong> As noted above, some
+          <strong>Do not call your carrier to &ldquo;just ask&rdquo;:</strong> Some
           carriers log phone inquiries as claims or claim inquiries. If you want to understand your
           coverage before filing, read your policy or consult with a public adjuster or insurance
           attorney &mdash; not your carrier&apos;s claims line.

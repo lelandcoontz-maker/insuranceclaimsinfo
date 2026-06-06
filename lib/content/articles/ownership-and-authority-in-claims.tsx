@@ -895,7 +895,7 @@ export default function Content() {
         Strategy 4: Use Proceeds to Rebuild (If Recipient Is Alive)
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As noted above, if the Medi-Cal recipient is still alive when insurance proceeds are
+        If the Medi-Cal recipient is still alive when insurance proceeds are
         received, using those proceeds to rebuild or repair the home converts the non-exempt
         cash back into an exempt asset (the home). This preserves Medi-Cal eligibility and
         defers the estate recovery question until the recipient&rsquo;s death. At that point,
