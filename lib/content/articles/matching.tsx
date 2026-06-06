@@ -84,13 +84,24 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California policyholders have specific regulatory authority for matching claims.{' '}
-        <strong>California Code of Regulations, Title 10, Section 2695.9(a)(2)</strong> provides that
-        when replaced items do not match in quality, color, or size, the insurer must pay for
-        whatever is necessary to achieve a reasonable and uniform appearance. This is not just a
-        general industry principle — it is a binding California regulation that insurers are required
-        to follow. When disputing a matching claim in California, cite this regulation by name and
-        section number in your written correspondence with the insurer. It is the actual legal
-        authority that requires California insurers to pay for matching.
+        <strong>10 CCR &sect;&nbsp;2695.9(a)(2)</strong> provides:
+      </p>
+      <CalloutBox variant="legal" title="10 CCR §2695.9(a)(2)">
+        <p className="italic">
+          When a loss requires replacement of items and the replaced items do not match in
+          quality, color or size, the insurer shall replace all items in the damaged area so
+          as to conform to a reasonably uniform appearance.
+        </p>
+      </CalloutBox>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is not just a general industry principle &mdash; it is a binding California
+        regulation that insurers are required to follow. When disputing a matching claim in
+        California, an insured may want to cite this regulation by name and section number
+        in written correspondence with the insurer. The contested term in practice is
+        &ldquo;damaged area&rdquo; &mdash; insurers tend to read it narrowly (the directly
+        damaged section only), while plaintiff-side practice reads it as the area that has
+        to be replaced for the result to look reasonably uniform (often the full slope, the
+        full elevation, or the full continuous run of flooring).
       </p>
 
       <CalloutBox variant="important" title="Matching Can Dramatically Increase Your Settlement">
