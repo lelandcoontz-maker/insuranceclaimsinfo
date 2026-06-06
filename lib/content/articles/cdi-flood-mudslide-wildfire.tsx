@@ -142,7 +142,7 @@ export default function Content() {
           If it is established that a recent wildfire or another peril covered by the applicable
           policy was the efficient proximate cause of the damage resulting from subsequent mudslides
           and other similar events following the fire, such damage is covered by the policy
-          regardless of any exclusion in the applicable policy. Indeed, in 2018 following the
+          regardless of any exclusion in the applicable policy. In 2018, following the
           Montecito mudslides, the California State Legislature approved and the Governor enacted
           Insurance Code section 530.5 to reinforce this point. As the Senate Floor Analysis for the
           bill provides, the author drafted Senate Bill 917 (Jackson, Chapter 620, Statutes of
