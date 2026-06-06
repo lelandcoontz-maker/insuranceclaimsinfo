@@ -674,12 +674,13 @@ export default function Content() {
         <li>
           <strong>Consult an attorney if the claim is denied or if arson is alleged.</strong> If
           the insurer denies your claim based on C&amp;O findings, or if there is any suggestion
-          of arson or fraud, you need legal counsel immediately. Insurance Code &sect; 2071&rsquo;s
-          standard-form 12-month suit-limitation provision has been statutorily extended to
-          <strong> 24 months for residential property losses</strong>, and that clock is
-          equitably tolled (paused) during the carrier&rsquo;s active investigation and
-          adjustment of the claim under <em>Prudential-LMI Commercial Insurance v. Superior
-          Court</em> (1990) 51 Cal.3d 674 (see our{' '}
+          of arson or fraud, you need legal counsel immediately. Insurance Code &sect; 2071
+          sets a 12-month suit-limitation period, extended to{' '}
+          <strong>24 months when the loss is related to a state of emergency</strong>{' '}
+          as defined in Government Code &sect;&nbsp;8558(b). That clock is also equitably
+          tolled (paused) during the carrier&rsquo;s active investigation and adjustment of
+          the claim under <em>Prudential-LMI Commercial Insurance v. Superior Court</em>{' '}
+          (1990) 51 Cal.3d 674 (see our{' '}
           <Link href="/resources/equitable-tolling" className="text-[#2E74B5] underline">
             equitable tolling
           </Link>{' '}
