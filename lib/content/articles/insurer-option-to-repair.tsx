@@ -70,8 +70,8 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         The clause is permissive, not mandatory. It gives the carrier the right to elect repair
-        instead of cash payment, but it does not require the carrier to do so. In the vast majority
-        of claims, carriers pay cash &mdash; either actual cash value or replacement cost value
+        instead of cash payment, but it does not require the carrier to do so. In most claims,
+        carriers pay cash &mdash; either actual cash value or replacement cost value
         &mdash; and the policyholder arranges their own repairs. The option to repair is an
         alternative method of settlement that exists in the policy but is exercised relatively
         infrequently.

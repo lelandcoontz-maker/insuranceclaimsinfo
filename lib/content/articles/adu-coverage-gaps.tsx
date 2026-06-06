@@ -31,8 +31,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         What the legislature has <em>not</em> done is address how these units interact with
-        homeowner&rsquo;s insurance. The standard HO-3 policy &mdash; the form that covers the
-        vast majority of California homeowners &mdash; was designed for a single-family home with
+        homeowner&rsquo;s insurance. The standard HO-3 policy &mdash; the form that covers most
+        California homeowners &mdash; was designed for a single-family home with
         a detached garage, maybe a shed. It was not designed for a property with a second livable
         dwelling that has its own kitchen, bathroom, electrical panel, and tenant. The coverage
         gaps are real, they are significant, and most homeowners do not discover them until after

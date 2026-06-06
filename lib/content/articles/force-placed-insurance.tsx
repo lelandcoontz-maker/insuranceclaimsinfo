@@ -271,8 +271,8 @@ export default function Content() {
         <ul className="list-disc pl-6 mt-3 space-y-2">
           <li>
             <strong>Federal RESPA / Regulation X (12 CFR &sect;1024.37, above)</strong> applies
-            to most California residential mortgages because the vast majority are
-            federally-related mortgage loans within RESPA&rsquo;s scope. This is the primary
+            to most California residential mortgages because most are federally-related mortgage
+            loans within RESPA&rsquo;s scope. This is the primary
             procedural framework &mdash; the two-notice requirement, the &ldquo;reasonable basis
             to believe&rdquo; standard, the prohibition on force-placing when the borrower has
             coverage, and the 15-day cancellation and refund obligation once coverage is verified

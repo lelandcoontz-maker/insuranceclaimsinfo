@@ -50,8 +50,8 @@ export default function Content() {
         The 31% Threshold: How Commercial Vacancy Is Defined
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under the standard ISO Commercial Property (CP) forms used by the vast majority of
-        commercial insurers, a building is considered <strong>vacant</strong> unless at least
+        Under the standard ISO Commercial Property (CP) forms used by most commercial
+        insurers, a building is considered <strong>vacant</strong> unless at least
         31% of its total square footage meets one of two conditions:
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">

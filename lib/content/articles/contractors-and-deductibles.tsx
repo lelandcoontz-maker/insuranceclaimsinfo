@@ -313,8 +313,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         On a typical insurance claim, the carrier issues an estimate determining the amount of
         the repair. The contractor performs the work in accordance with that determination. Under
-        a plain reading of the exception, the prohibition would not apply to the vast majority of
-        insurance-funded repair work &mdash; which is exactly the scenario the statute purports
+        a plain reading of the exception, the prohibition would not apply to most insurance-funded
+        repair work &mdash; which is exactly the scenario the statute purports
         to regulate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
