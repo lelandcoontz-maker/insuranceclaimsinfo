@@ -35,7 +35,7 @@ export default function Content() {
         exhaustion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        What makes this even more complicated is that the answer may be different for different parts
+        The answer may also be different for different parts
         of the same claim. You might repair the roof immediately to stop ongoing water damage,
         negotiate the kitchen remodel before starting work, and hold off entirely on the landscaping
         until the carrier commits to a number. The strategy is not one decision. It is a series of

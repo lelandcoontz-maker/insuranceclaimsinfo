@@ -37,8 +37,7 @@ export default function Content() {
         is void and unenforceable.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        What makes this particularly fascinating &mdash; and potentially case-changing &mdash;
-        is that the deviations are often subtle. A single word. A slight rewording. The drafters
+        The deviations are often subtle &mdash; and potentially case-changing. A single word. A slight rewording. The drafters
         of either the actual policy or the Standard Fire Policy may not have fully anticipated
         how small differences in phrasing could produce dramatically different outcomes when
         applied to real-world claims. But courts have noticed, and the results have been striking.

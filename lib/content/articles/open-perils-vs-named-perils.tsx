@@ -34,8 +34,8 @@ export default function Content() {
         structural feature of any property insurance policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        What makes this even more consequential is that the most common homeowners policy in
-        America &mdash; the HO-3 &mdash; uses <em>both</em> systems simultaneously. Your
+        The most common homeowners policy in America &mdash; the HO-3 &mdash; uses{' '}
+        <em>both</em> systems simultaneously. Your
         dwelling is covered one way. Your personal property is covered another way. And most
         policyholders have no idea this split exists until they file a claim and discover that
         the same event that is fully covered for their house is not covered for their

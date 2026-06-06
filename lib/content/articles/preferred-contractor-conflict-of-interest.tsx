@@ -732,7 +732,7 @@ export default function Content() {
         that experienced Public Adjusters and attorneys have learned to expect it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        What makes this particularly unfair is the pressure it creates. The homeowner may have
+        The pressure this creates is the unfair part. The homeowner may have
         submitted a perfectly reasonable bid from a contractor they trust, only to be told it is too
         expensive. They feel bullied into accepting less or using a contractor not of their choosing.
         And when the preferred vendor&rsquo;s final cost &mdash; after all the supplements &mdash;
