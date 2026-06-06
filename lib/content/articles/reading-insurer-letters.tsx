@@ -82,13 +82,17 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Why this letter exists:</strong> This letter is <strong>required by California
         regulation</strong>. Under the Fair Claims Settlement Practices Regulations, 10 CCR &sect;
-        2695.5(e), every insurer must acknowledge receipt of a claim within 15 calendar days. An
-        insurer that fails to send this letter is already in violation of the regulations before
-        the claim investigation has even begun. The acknowledgment requirement also appears in
-        California Insurance Code &sect; 790.03(h)(2), which identifies the failure to
-        &ldquo;acknowledge and act reasonably promptly upon communications&rdquo; as an unfair
-        claims practice. This is one of the few letters where the insurer is not protecting itself
-        &mdash; it is complying with a mandatory obligation.
+        2695.5(e), every insurer must acknowledge receipt of a claim within 15 calendar days.
+        An insurer that fails to send this letter is already in violation of the regulations
+        before the claim investigation has even begun. The same conduct also appears in the
+        list of unfair claims settlement practices at California Insurance Code &sect;
+        790.03(h)(2) (failure to &ldquo;acknowledge and act reasonably promptly upon
+        communications&rdquo;). Under <em>Moradi-Shalal v. Fireman&rsquo;s Fund Ins. Cos.</em>
+        (1988) 46 Cal.3d 287, &sect; 790.03 does not create a private cause of action for an
+        insured; the standards it identifies are enforced by the Commissioner and serve as
+        evidence of the standard of care in common-law bad-faith claims. This is one of the
+        few letters where the insurer is not protecting itself &mdash; it is complying with
+        a mandatory regulatory obligation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What it means:</strong> It does not mean the insurer has accepted the claim,

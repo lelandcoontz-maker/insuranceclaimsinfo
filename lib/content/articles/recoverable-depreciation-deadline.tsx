@@ -294,13 +294,14 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Emergency or advance payments.</strong> If the carrier issues an emergency payment
-          or an advance to cover immediate needs &mdash; temporary repairs, debris removal, or
-          emergency lodging &mdash; does that constitute the &quot;first actual cash value
-          payment&quot;? Many policyholders argue it does not, because these payments are not based on
-          a comprehensive ACV calculation of the loss. They are stop-gap measures, not the formal ACV
-          settlement. The carrier, on the other hand, may argue that any payment on the claim starts
-          the clock.
+          <strong>Emergency or advance payments.</strong> If the carrier issues an emergency
+          payment or an advance to cover immediate needs &mdash; temporary repairs, debris
+          removal, or emergency lodging &mdash; does that constitute the &ldquo;first payment
+          toward the actual cash value&rdquo; (the statutory trigger phrasing in
+          &sect; 2051.5(b)(1))? Many policyholders argue it does not, because these payments
+          are not based on a comprehensive ACV calculation of the loss. They are stop-gap
+          measures, not the formal ACV settlement. The carrier, on the other hand, may argue
+          that any payment toward the actual cash value of the claim starts the clock.
         </li>
         <li>
           <strong>Partial payments on undisputed amounts.</strong> If the carrier issues a partial
