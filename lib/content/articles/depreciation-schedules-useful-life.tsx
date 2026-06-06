@@ -124,6 +124,18 @@ export default function Content() {
         and let the system calculate the deduction. The &quot;condition at the time of loss&quot;
         requirement is treated as though it does not exist.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California appellate authority backs the condition-based reading. In{' '}
+        <em>Doan v. State Farm General Insurance Co.</em> (2011) 195 Cal.App.4th 1082, the
+        Court of Appeal held two important things: procedurally, a policyholder may challenge
+        an insurer&apos;s depreciation methodology through a declaratory-relief action and is
+        not forced into appraisal; substantively, depreciation must rest on the actual
+        physical condition of the item at the time of loss, not on age alone or on an
+        undisclosed automatic schedule. <em>Doan</em> is the controlling published case on
+        the procedural side; the more detailed substantive standard came out of the trial
+        court&apos;s 2016 ruling on remand. When citing <em>Doan</em>, it is worth being
+        precise about which layer of the case is being relied on.
+      </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         &quot;Components Normally Subject to Repair and Replacement&quot;
