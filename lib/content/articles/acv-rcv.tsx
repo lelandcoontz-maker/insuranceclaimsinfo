@@ -60,12 +60,15 @@ export default function Content() {
         reasonable deduction for physical depreciation.</strong> This was a deliberate move away
         from the broad-evidence / fair-market-value approach that earlier California cases such
         as <em>Cheeks v. California Fair Plan Ass&rsquo;n</em> (1998) 61 Cal.App.4th 423 had
-        applied to total losses. The current statutory language for &sect; 2051(b) reads:
+        applied to total losses. In operative part, &sect; 2051(b) provides that the measure of
+        the actual cash value recovery, for either a total or partial loss to the structure or
+        its contents, shall be:
       </p>
       <blockquote className="border-l-4 border-gray-300 pl-4 italic text-gray-700 my-4">
-        &ldquo;the amount it would cost the insured to repair, rebuild, or replace the thing
-        lost or injured less a fair and reasonable deduction for physical depreciation based
-        upon its condition at the time of the injury or the policy limit, whichever is less.&rdquo;
+        &ldquo;... the amount it would cost the insured to repair, rebuild, or replace the
+        thing lost or injured less a fair and reasonable deduction for physical depreciation
+        based upon its condition at the time of the injury or the policy limit, whichever is
+        less.&rdquo;
       </blockquote>
       <p className="text-sm text-gray-500 italic">
         Cal. Ins. Code &sect; 2051(b), as amended by AB 188 (Stats. 2019, ch. 59), effective
