@@ -104,6 +104,43 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        When the Strategic Proof of Loss Fits the Claim &mdash; and When It Doesn&rsquo;t
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The strategic proof of loss is a real tool, but it is not a one-size-fits-all
+        technique, and this is an area where reasonable Public Adjusters disagree. Some
+        of my colleagues take an aggressive approach: file early on most claims, force
+        the clock, and put the insurer on the defensive. That approach has merit on
+        relatively self-contained losses where the scope is visible and the dollar amount
+        is reasonably settled &mdash; think a hail-damaged asphalt composition roof, a
+        clean-cut tree-through-the-roof loss, or a contained kitchen fire where the
+        boundaries of damage are clear from day one.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Most of the work I handle does not look like that. The bulk of my caseload is
+        complex interior losses &mdash; water damage that keeps surfacing as walls come
+        out, smoke and char contamination that needs IH testing before the real number
+        can be calculated, contents claims with thousands of small items, mold or
+        microbial growth that develops weeks into the project. In losses like these, the
+        scope and the supportable dollar amount are still moving when the carrier first
+        asks the question. A proof of loss filed early on a moving target locks in a
+        number you cannot fully support, and the 40-day decision clock under 10 CCR
+        &sect; 2695.7(b) starts running on that number. The risk is a denial or partial
+        denial issued against a record that was not yet complete &mdash; and now the
+        insured is litigating against a formal carrier position rather than negotiating
+        an open file.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The honest assessment, then, is this: the strategic proof of loss is most useful
+        when (a) the scope is fully documented, (b) the dollar amounts are supportable
+        with finalized estimates, expert reports, and inventories, and (c) the carrier
+        is either stalling or has gone quiet. On those facts, it is a powerful offensive
+        tool. On a still-developing complex interior loss, it can be the wrong move
+        &mdash; and a competent Public Adjuster or attorney should be evaluating that
+        timing call on each file rather than applying a uniform rule.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Policy Language to Look For
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
