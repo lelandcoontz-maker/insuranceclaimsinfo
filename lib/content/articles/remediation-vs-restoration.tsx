@@ -64,7 +64,7 @@ export default function Content() {
         Certification), specifically the <strong>S500 Standard for Professional Water Damage
         Restoration</strong> and the <strong>S520 Standard for Professional Mold
         Remediation</strong>. These are two separate standards governing two separate scopes
-        of work, and that distinction matters enormously when it comes to how your claim is
+        of work, and that distinction matters enormously for how your claim is
         paid.
       </p>
 

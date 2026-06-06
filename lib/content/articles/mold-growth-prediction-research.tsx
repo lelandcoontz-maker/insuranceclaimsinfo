@@ -125,7 +125,7 @@ export default function Content() {
         Material Susceptibility: Some Surfaces Grow Mold Faster
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not all building materials are equal when it comes to mold. The researchers classified
+        Not all building materials respond equally to mold. The researchers classified
         materials into sensitivity classes based on how quickly they support mold growth:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

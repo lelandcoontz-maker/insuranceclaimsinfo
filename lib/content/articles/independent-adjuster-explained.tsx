@@ -234,7 +234,7 @@ export default function Content() {
         assignments.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is also worth noting that the industry may be moving away from the traditional commission
+        Also note that the industry may be moving away from the traditional commission
         model for catastrophe adjusters. As large national firms consolidate the market, alternative
         compensation structures &mdash; flat fees per claim, hybrid models, or salary-based arrangements
         &mdash; are becoming more common. This shift removes even the theoretical alignment between

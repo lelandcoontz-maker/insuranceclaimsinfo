@@ -325,7 +325,7 @@ export default function Content() {
         initial estimate to determine that damage exceeds the threshold, that estimate may be
         dramatically understated. Getting an independent assessment of the actual repair cost
         &mdash; through a Public Adjuster or a qualified contractor &mdash; can change the
-        calculation entirely. It is also worth noting that the relevant question is whether the
+        calculation entirely. Also note that the relevant question is whether the
         property <em>can</em> be restored, not whether the insurer&rsquo;s initial estimate is
         sufficient to restore it. If the insurance settlement can be negotiated upward (as it
         almost always can), the funds may well be sufficient to fully repair the property, which

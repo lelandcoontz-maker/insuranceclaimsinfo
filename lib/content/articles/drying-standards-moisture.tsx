@@ -38,7 +38,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance companies know these standards exist. They reference them when it suits their
         interests &mdash; for example, to argue that mold growth proves a loss was &ldquo;long-term&rdquo;
-        rather than sudden. But when it comes to paying for the equipment, labor, and time required
+        rather than sudden. But on paying for the equipment, labor, and time required
         to actually meet those same standards, carriers routinely cut corners. Understanding the
         science of drying gives policyholders the knowledge to push back when an insurer tries to
         pull equipment too early or deny charges for proper restoration.

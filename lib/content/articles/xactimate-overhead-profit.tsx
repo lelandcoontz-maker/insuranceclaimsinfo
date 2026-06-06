@@ -206,7 +206,7 @@ export default function Content() {
         person hire a general contractor for this project?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that even in states where some version of the three-trade guideline
+        Note that even in states where some version of the three-trade guideline
         is informally referenced, it is treated as a floor, not a ceiling. If three or more
         trades are involved, O&amp;P should always be included. But fewer than three trades
         does not automatically exclude it. The analysis is always whether a GC is reasonably

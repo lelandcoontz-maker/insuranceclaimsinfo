@@ -449,7 +449,7 @@ export default function Content() {
         of the ground.&rdquo; &mdash; Common carrier endorsement language
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that the standard ISO HO-3 form (HO 00 03) does not contain
+        Note that the standard ISO HO-3 form (HO 00 03) does not contain
         this specific &ldquo;underground&rdquo; limitation within the accidental
         discharge peril. The ISO form has a separate Section I exclusion for
         &ldquo;water below the surface of the ground, including water which exerts

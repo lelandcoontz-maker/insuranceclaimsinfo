@@ -187,7 +187,7 @@ export default function Content() {
         Revocable vs. Irrevocable Trusts: Critically Different Insurance Implications
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The type of trust matters enormously when it comes to insurance claims. Revocable and
+        The type of trust matters enormously for insurance claims. Revocable and
         irrevocable trusts are treated very differently under California law, and the
         distinction has direct consequences for coverage.
       </p>

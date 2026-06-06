@@ -61,7 +61,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Statute of Limitations</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California is unusual in several ways when it comes to the statute of limitations on
+        California is unusual in several ways regarding the statute of limitations on
         insurance claims. Under Cal. Ins. Code &sect; 2071, the standard fire policy requires
         suit to be filed within <strong>12 months from inception of the loss</strong>. For
         losses related to a declared state of emergency as defined in Government Code

@@ -246,7 +246,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What Xactimate&apos;s Own Documentation Says</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that Xactimate &mdash; the software that insurance companies use to generate the very estimates on which they base their payments &mdash; explicitly distinguishes between subcontractor overhead and profit (which is embedded in line-item pricing) and general contractor overhead and profit (which is not).
+        Note that Xactimate &mdash; the software that insurance companies use to generate the very estimates on which they base their payments &mdash; explicitly distinguishes between subcontractor overhead and profit (which is embedded in line-item pricing) and general contractor overhead and profit (which is not).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         General contractor O&amp;P must be added separately through Xactimate&apos;s &quot;Add-Ons&quot; parameters. Xactware&apos;s own white paper on overhead and profit states that &quot;the decision to use general O&amp;P &mdash; and the percentages applied &mdash; are the responsibility of those directly involved in the estimating process.&quot;

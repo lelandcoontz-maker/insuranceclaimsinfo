@@ -570,7 +570,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is also worth noting that a class of California homeowners has filed suit alleging that State
+        Also note that a class of California homeowners has filed suit alleging that State
         Farm maintained a systematic &quot;water protocol&quot; for over a decade, designed to deny
         thousands of slab pipe failure claims using this exclusion &mdash; even after juries repeatedly
         found the denial to be bad faith. (<em>Hernandez et al. v. State Farm General Insurance

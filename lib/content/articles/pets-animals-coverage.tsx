@@ -630,8 +630,8 @@ export default function Content() {
         The Liability Side: When Your Pet Causes Damage
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This article focuses on property coverage for your own animals after a loss. But it is
-        worth noting that your homeowner&rsquo;s policy also provides liability coverage if your
+        This article focuses on property coverage for your own animals after a loss. But
+        note that your homeowner&rsquo;s policy also provides liability coverage if your
         pet injures someone else or damages someone else&rsquo;s property. If your dog bites a
         neighbor, your homeowner&rsquo;s liability coverage (Coverage E) typically responds.
       </p>

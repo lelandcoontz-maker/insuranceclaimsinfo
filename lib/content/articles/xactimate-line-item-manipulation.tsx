@@ -199,7 +199,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This creates a perverse incentive when it comes to category assignment. If an estimate can be structured so that items fall into fewer categories, it becomes easier to argue that overhead and profit are not warranted. The actual work has not changed. The number of tradespeople needed has not changed. But the estimate has been organized to minimize the apparent number of trades involved.
+        This creates a perverse incentive for category assignment. If an estimate can be structured so that items fall into fewer categories, it becomes easier to argue that overhead and profit are not warranted. The actual work has not changed. The number of tradespeople needed has not changed. But the estimate has been organized to minimize the apparent number of trades involved.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Common Category Issues</h3>

@@ -520,7 +520,7 @@ export default function Content() {
         The Emotional Manipulation of Insurance Advertising
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that insurance advertising is specifically designed to engage
+        Note that insurance advertising is specifically designed to engage
         policyholders&apos; emotions &mdash; not their analytical faculties. Ads show
         families standing in front of burned homes being comforted by agents. They show
         checks being handed over with smiles. They show neighbors helping neighbors. The

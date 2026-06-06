@@ -25,7 +25,7 @@ export default function Content() {
         Receiving a notice that your insurance company is dropping you is alarming &mdash;
         especially when you have a mortgage, live in a fire-prone area, or have just been through
         a loss. But California has some of the strongest policyholder protections in the country
-        when it comes to cancellation and non-renewal. Understanding those protections &mdash; and
+        on cancellation and non-renewal. Understanding those protections &mdash; and
         the critical difference between cancellation and non-renewal &mdash; is the first step
         toward protecting yourself.
       </p>

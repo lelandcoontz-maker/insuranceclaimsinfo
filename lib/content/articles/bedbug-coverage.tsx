@@ -52,7 +52,7 @@ export default function Content() {
         and beyond the homeowner&rsquo;s control. Pest infestations, including bedbugs, are
         viewed by the insurance industry as preventable or controllable through proper
         maintenance, inspection, and hygiene practices. Whether that characterization is
-        entirely fair when it comes to bedbugs &mdash; which can be introduced into any home
+        entirely fair on bedbugs &mdash; which can be introduced into any home
         regardless of cleanliness &mdash; is debatable, but it is the industry&rsquo;s
         position and the basis for the exclusion.
       </p>

@@ -88,7 +88,7 @@ export default function Content() {
         final settlement, it will make that intention clear in writing.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is also worth noting that restrictive endorsements on insurance checks are heavily
+        Also note that restrictive endorsements on insurance checks are heavily
         criticized within the industry and by courts. Some jurisdictions have limited or
         eliminated the ability of a party to create an accord and satisfaction through
         endorsement language on a check, particularly when there is no genuine dispute about

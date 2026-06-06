@@ -431,7 +431,7 @@ export default function Content() {
         &mdash; restoration companies that have contractual relationships with the carrier.
         These relationships create an inherent tension: the vendor wants to maintain its
         position on the carrier&apos;s preferred list, and the carrier wants the vendor to
-        keep costs low. When it comes to classification, this tension can manifest in ways
+        keep costs low. On classification, this tension can manifest in ways
         that do not serve the policyholder. A vendor that routinely classifies losses at
         higher categories may find its relationship with the carrier under strain. A vendor
         that consistently classifies at lower categories keeps the carrier&apos;s loss costs

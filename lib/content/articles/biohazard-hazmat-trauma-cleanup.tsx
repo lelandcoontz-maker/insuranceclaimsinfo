@@ -543,7 +543,7 @@ export default function Content() {
         ordinary person would not characterize blood from a crime scene as &ldquo;pollution.&rdquo;
         An ordinary person would not characterize decomposition fluids from an unattended death as
         &ldquo;environmental contamination.&rdquo; The <em>MacKinnon</em> test strongly favors
-        policyholders in biohazard disputes &mdash; though it is worth noting that in{' '}
+        policyholders in biohazard disputes &mdash; though note that in{' '}
         <em>Villa Los Alamos Homeowners Ass&rsquo;n v. State Farm</em>, 198 Cal. App. 4th 522
         (2011), the Court of Appeal distinguished <em>MacKinnon</em> and found that asbestos
         release during remodeling <em>does</em> qualify as environmental pollution because

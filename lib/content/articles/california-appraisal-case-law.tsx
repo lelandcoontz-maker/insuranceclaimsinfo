@@ -698,7 +698,7 @@ export default function Content() {
         State Farm&rsquo;s Modified California Appraisal Clause
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that some carriers have modified their policy&rsquo;s appraisal language
+        Note that some carriers have modified their policy&rsquo;s appraisal language
         to impose additional requirements beyond what &sect; 2071 mandates. State Farm&rsquo;s
         California homeowner policy, for example, includes provisions such as:
       </p>

@@ -452,7 +452,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that because the ESX file is technically a ZIP-compressed archive, a technically proficient person can rename the file extension and extract its contents to view the raw data in XML format. This approach can reveal certain settings &mdash; such as the price list version or labor efficiency selection &mdash; without a full Xactimate license. However, for a comprehensive analysis that includes line-by-line review, scope comparison, and estimate correction, access to Xactimate itself is necessary.
+        Note that because the ESX file is technically a ZIP-compressed archive, a technically proficient person can rename the file extension and extract its contents to view the raw data in XML format. This approach can reveal certain settings &mdash; such as the price list version or labor efficiency selection &mdash; without a full Xactimate license. However, for a comprehensive analysis that includes line-by-line review, scope comparison, and estimate correction, access to Xactimate itself is necessary.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Version Compatibility</h3>

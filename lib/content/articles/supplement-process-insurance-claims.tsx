@@ -585,7 +585,7 @@ export default function Content() {
         that may themselves become a source of dispute.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that the supplement cycle can become self-reinforcing. Delays caused
+        Note that the supplement cycle can become self-reinforcing. Delays caused
         by the carrier&apos;s slow review of supplements push construction timelines further out,
         which in turn can lead to additional supplements for updated pricing &mdash; which then
         require their own review cycle. Policyholders who understand this dynamic from the outset

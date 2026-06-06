@@ -684,7 +684,7 @@ export default function Content() {
         4. Secure Your Smart Home Network
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Prevention is more reliable than insurance when it comes to cyber risks. Change
+        Prevention is more reliable than insurance for cyber risks. Change
         default passwords on all IoT devices. Use a separate network (VLAN or guest network)
         for smart home devices so a compromised camera does not give an attacker access to
         your computer. Enable two-factor authentication wherever possible. Keep firmware

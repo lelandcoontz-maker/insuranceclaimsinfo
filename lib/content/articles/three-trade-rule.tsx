@@ -312,7 +312,7 @@ export default function Content() {
         What Xactimate&rsquo;s Own Documentation Says
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting that{' '}
+        Note that{' '}
         <Link href="/resources/xactimate" className="text-[#2E74B5] underline">Xactimate</Link>
         {' '}&mdash; the software that insurance companies use to generate the very estimates on which they base their payments &mdash; explicitly distinguishes between subcontractor overhead and profit (which is embedded in line-item pricing) and general contractor overhead and profit (which is not).
       </p>

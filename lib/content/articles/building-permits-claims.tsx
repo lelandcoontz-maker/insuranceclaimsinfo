@@ -341,7 +341,7 @@ export default function Content() {
         unfair claims practice.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When it comes to building permit fees, these obligations mean the insurer has a duty to:
+        For building permit fees, these obligations mean the insurer has a duty to:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
