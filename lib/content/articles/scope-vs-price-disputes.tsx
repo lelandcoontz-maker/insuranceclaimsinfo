@@ -340,7 +340,7 @@ export default function Content() {
         frequently means &quot;acknowledged on paper but not actually paid for.&quot; When
         you see &quot;included&quot; next to a line item in a carrier estimate, check
         whether the parent line item&apos;s pricing actually accounts for the additional
-        work. More often than not, it does not.
+        work. Usually, it does not.
       </p>
 
       {/* ====== SCOPE DISPUTES IN PRACTICE ====== */}

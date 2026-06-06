@@ -153,7 +153,7 @@ export default function Content() {
           </li>
           <li>
             If the numbers do not add up, file a formal dispute. The Sandy data proves that
-            challenging a low payment works more often than not.
+            challenging a low payment usually works.
           </li>
         </ul>
       </CalloutBox>
