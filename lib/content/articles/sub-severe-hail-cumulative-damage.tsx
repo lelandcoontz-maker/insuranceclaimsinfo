@@ -158,8 +158,8 @@ export default function Content() {
         The Bigger Picture
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Most of North America&apos;s hail falls in the sub-severe range. The vast majority of
-        hailstorms produce stones smaller than one inch. If this research is correct &mdash; and
+        Most of North America&apos;s hail falls in the sub-severe range. Most hailstorms
+        produce stones smaller than one inch. If this research is correct &mdash; and
         peer review says it is &mdash; then millions of roofs across the country are carrying
         invisible cumulative damage from years of &ldquo;harmless&rdquo; hail. Those roofs are
         time bombs, waiting for one more storm to push them past the breaking point.

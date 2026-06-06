@@ -1964,8 +1964,8 @@ export default function Content() {
         The 30-Day Death Clause: Coverage Is Already Disappearing
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The ISO HO 00 03 (the standard homeowner&rsquo;s policy form used by the vast majority
-        of insurers) contains a condition &mdash; typically labeled &ldquo;Death&rdquo; or
+        The ISO HO 00 03 (the standard homeowner&rsquo;s policy form used by most insurers)
+        contains a condition &mdash; typically labeled &ldquo;Death&rdquo; or
         &ldquo;Condition 9&rdquo; &mdash; that addresses what happens when the named insured
         dies. The standard language reads:
       </p>

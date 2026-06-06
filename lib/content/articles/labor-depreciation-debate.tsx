@@ -410,8 +410,8 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The most powerful counter to the embedded labor argument comes from the insurance
-        industry&apos;s own estimating tool. Xactimate, the software used by the vast majority
-        of insurance carriers to generate repair estimates, separates every line item into
+        industry&apos;s own estimating tool. Xactimate, the software used by most insurance
+        carriers to generate repair estimates, separates every line item into
         distinct labor and material components. When an adjuster prices a line item for
         &ldquo;Remove and replace composition shingles,&rdquo; Xactimate breaks that price
         into a specific dollar amount for materials and a specific dollar amount for labor.

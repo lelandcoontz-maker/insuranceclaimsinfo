@@ -26,9 +26,9 @@ export default function Content() {
         question of <em>what</em> needs to be repaired or replaced &mdash; the list of items
         and work. Price is the question of <em>how much</em> each of those items costs. These
         are fundamentally different arguments, they require different evidence, they are resolved
-        through different mechanisms, and they carry different strategic implications. Yet the
-        vast majority of policyholders &mdash; and a surprising number of professionals &mdash;
-        treat them as though they are the same thing.
+        through different mechanisms, and they carry different strategic implications. Yet most
+        policyholders &mdash; and a surprising number of professionals &mdash; treat them as
+        though they are the same thing.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         That confusion is not accidental. When a policyholder cannot distinguish between a scope

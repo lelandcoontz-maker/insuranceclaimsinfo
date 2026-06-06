@@ -225,8 +225,8 @@ export default function Content() {
         The Incremental Cost Approach: What Is Actually Mold-Specific?
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The policyholder&rsquo;s argument &mdash; and the correct one &mdash; is that the
-        vast majority of the $23,000 remediation scope consists of work that would need to
+        The policyholder&rsquo;s argument &mdash; and the correct one &mdash; is that most of
+        the $23,000 remediation scope consists of work that would need to
         be performed <strong>regardless of whether mold is present</strong>. The water
         damage alone requires this work. Mold or no mold, the following activities are
         necessary to address the water damage:
