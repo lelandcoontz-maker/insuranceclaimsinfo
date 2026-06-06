@@ -230,7 +230,7 @@ export default function Content() {
         human adjuster using the same Xactimate software.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The significance of this technology cannot be overstated. When a policyholder receives an{' '}
+        This technology has changed the claims landscape. When a policyholder receives an{' '}
         <Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] underline">
           Xactimate estimate
         </Link>{' '}

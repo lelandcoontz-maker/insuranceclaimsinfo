@@ -88,8 +88,8 @@ export default function Content() {
 
       <CalloutBox variant="important" title="POA Must Be Created While the Principal Has Capacity">
         <p>
-          This cannot be overstated. A Power of Attorney is only valid if the principal had legal
-          capacity when they signed it. If the policyholder is already incapacitated &mdash;
+          A Power of Attorney is only valid if the principal had legal capacity when they signed
+          it. If the policyholder is already incapacitated &mdash;
           whether from dementia, traumatic brain injury, stroke, or any other condition that
           impairs their ability to understand the document &mdash; a POA cannot be created. The
           family must pursue a conservatorship through the courts. Plan ahead.

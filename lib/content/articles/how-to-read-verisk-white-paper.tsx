@@ -83,7 +83,7 @@ export default function Content() {
         <li><strong>Job Personnel Overhead / Subcontractor O&amp;P</strong>: Labor expenses not related to wage or burden &mdash; vehicle expenses, uniforms, hand tools, and mobile phones. This category is included in the labor overhead portion of each unit price. This is the only overhead category built into Xactimate&apos;s line-item pricing.</li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The significance of this structure cannot be overstated. When a carrier adjuster produces an Xactimate estimate without applying general contractor O&amp;P, the estimate is missing an entire category of cost that Verisk itself says is not included in the unit prices. The adjuster is using the software in a way that contradicts the software vendor&apos;s own documentation.
+        This structure is the heart of the O&amp;P fight. When a carrier adjuster produces an Xactimate estimate without applying general contractor O&amp;P, the estimate is missing an entire category of cost that Verisk itself says is not included in the unit prices. The adjuster is using the software in a way that contradicts the software vendor&apos;s own documentation.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Why This Contradicts the &quot;Three-Trade Rule&quot;</h3>

@@ -503,8 +503,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the single most effective protection against the damage caused by adjuster
-        reassignment, and it cannot be overstated. Every communication with every adjuster should
-        be{' '}
+        reassignment. Every communication with every adjuster should be{' '}
         <Link
           href="/resources/responding-to-insurer-in-writing"
           className="text-[#2E74B5] underline"

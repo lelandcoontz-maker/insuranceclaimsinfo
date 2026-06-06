@@ -375,7 +375,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Xactimate Is a Pricing Tool, Not a Scope Tool">
         <p>
-          This point cannot be overstated. Xactimate prices what you tell it to price. It
+          Xactimate prices what you tell it to price. It
           does not walk through a damaged property and identify what needs to be repaired. It
           does not read your insurance policy and tell you what is covered. It does not know
           the building codes in your jurisdiction. It is a calculator &mdash; an extraordinarily

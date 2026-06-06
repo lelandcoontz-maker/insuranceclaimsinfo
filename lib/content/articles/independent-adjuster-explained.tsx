@@ -302,9 +302,9 @@ export default function Content() {
         Who Pays the Independent Adjuster &mdash; and Why It Matters
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This point cannot be overstated: the insurance company pays the independent adjuster. Whether
-        the payment flows through an IA firm or comes directly from the carrier, the source of the
-        adjuster&apos;s income is the same entity that has a financial interest in paying your claim
+        The insurance company pays the independent adjuster. Whether the payment flows through
+        an IA firm or comes directly from the carrier, the source of the adjuster&apos;s income
+        is the same entity that has a financial interest in paying your claim
         as little as possible. The adjuster&apos;s continued employment depends on satisfying the
         carrier, not the policyholder.
       </p>

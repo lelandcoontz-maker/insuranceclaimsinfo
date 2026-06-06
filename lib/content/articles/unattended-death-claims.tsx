@@ -483,7 +483,7 @@ export default function Content() {
         system configuration, and whether interior doors were open or closed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The emotional difficulty of this component cannot be overstated. The family is being
+        This component is emotionally brutal. The family is being
         asked to inventory and assign values to the possessions of a person they have just lost.
         Some of those items have sentimental value that cannot be captured in a replacement cost
         figure. The process itself &mdash; going through a deceased loved one&rsquo;s belongings,

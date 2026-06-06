@@ -184,7 +184,7 @@ export default function Content() {
         or cleanup costs arising out of or related to PFAS.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The significance of these endorsements cannot be overstated. While the application
+        These endorsements are a real problem for policyholders. While the application
         of the general pollution exclusion to PFAS claims is debatable and varies by
         jurisdiction, a PFAS-specific exclusion leaves little room for argument. If a
         policy contains an endorsement that explicitly excludes losses &ldquo;arising out

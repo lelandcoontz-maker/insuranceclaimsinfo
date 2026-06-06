@@ -75,7 +75,7 @@ export default function Content() {
         The Reserve as Evidence of Claim Value
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The evidentiary significance of a reserve cannot be overstated. When a carrier sets a
+        A reserve carries enormous evidentiary weight. When a carrier sets a
         reserve of $300,000 on a claim but offers the policyholder $120,000 to settle, the gap
         between the reserve and the offer is powerful evidence that the carrier knows the claim
         is worth more than it is willing to pay voluntarily. This gap is directly relevant to

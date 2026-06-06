@@ -898,7 +898,7 @@ export default function Content() {
         XII. Why Recording Matters for Your Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The practical value of recording an inspection cannot be overstated. While an audio
+        Recording an inspection pays off in concrete, practical ways. While an audio
         recording that captures what the inspector <em>says</em> is the gold standard for
         documenting insurance company behavior, even a video recording without audio has
         significant independent value:
