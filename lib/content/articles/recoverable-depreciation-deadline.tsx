@@ -129,7 +129,7 @@ export default function Content() {
         subject to the policy limit. This extended period reflects the reality that major
         disasters &mdash; wildfires, earthquakes, floods &mdash; create circumstances where
         repairs take far longer than normal. Contractor shortages, permitting backlogs, material
-        supply chain disruptions, and the sheer volume of damaged properties in the affected area
+        supply chain disruptions, and the volume of damaged properties in the affected area
         all contribute to extended timelines.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

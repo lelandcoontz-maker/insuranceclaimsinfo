@@ -149,7 +149,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The January 2025 Palisades and Eaton fires in Los Angeles County destroyed over 16,000 structures across some of the most expensive real estate in the country. These fires are projected to be the costliest wildfire event in U.S. history, with insured losses potentially exceeding $30 billion. The demand surge is ongoing and expected to be severe: the sheer volume of high-value homes requiring simultaneous reconstruction in an already-expensive labor market is creating cost pressures that will persist for years.
+        The January 2025 Palisades and Eaton fires in Los Angeles County destroyed over 16,000 structures across some of the most expensive real estate in the country. These fires are projected to be the costliest wildfire event in U.S. history, with insured losses potentially exceeding $30 billion. The demand surge is ongoing and expected to be severe: the volume of high-value homes requiring simultaneous reconstruction in an already-expensive labor market is creating cost pressures that will persist for years.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

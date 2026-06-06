@@ -164,7 +164,7 @@ export default function Content() {
         and under floors is almost never fully identifiable from a surface inspection. It applies
         to roof claims, where damaged decking and underlayment cannot be assessed until the
         roofing material is removed. And it applies to large-loss and catastrophe claims, where
-        the sheer volume of damage makes it virtually impossible to capture everything in a
+        the volume of damage makes it virtually impossible to capture everything in a
         single visit.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -110,7 +110,7 @@ export default function Content() {
         growth stage. Maintaining indoor humidity at 50 to 70 percent in an enclosed room creates
         conditions that are highly conducive to mold growth &mdash; not just on the plants, but on
         the walls, ceilings, flooring, and structural components surrounding the grow space.
-        Condensation on cold surfaces, inadequate ventilation, and the sheer volume of moisture
+        Condensation on cold surfaces, inadequate ventilation, and the volume of moisture
         introduced into the living space can create mold problems that extend well beyond the grow
         room itself. For a detailed discussion of{' '}
         <Link href="/resources/mold-losses" className="text-[#2E74B5] underline">

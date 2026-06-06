@@ -166,7 +166,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Typical timeline:</strong> 12 to 24 months or longer. Wildfire claims in declared
-        disaster areas are the longest and most complex residential claims. The sheer volume of
+        disaster areas are the longest and most complex residential claims. The volume of
         claims filed simultaneously overwhelms insurer resources. Adjusters are stretched thin.
         Contractors are unavailable. Building material costs surge. Permitting backlogs extend
         timelines. And the scope of loss &mdash; often a total loss of the dwelling and all
@@ -449,7 +449,7 @@ export default function Content() {
         },
         {
           question: 'How long does a wildfire claim in a declared disaster area take?',
-          answer: '12 to 24 months or longer, and two-year claims are not unusual. Declared-disaster wildfire claims are the longest residential claims. The sheer volume overwhelms insurer resources. Adjusters are stretched thin, contractors are unavailable, building material costs surge, and permitting backlogs extend timelines. The scope of loss — often total loss of the dwelling and all contents — requires the most extensive documentation of any claim type. Supplemental claims and demand-surge pricing add additional months on top of that baseline.',
+          answer: '12 to 24 months or longer, and two-year claims are not unusual. Declared-disaster wildfire claims are the longest residential claims. The volume overwhelms insurer resources. Adjusters are stretched thin, contractors are unavailable, building material costs surge, and permitting backlogs extend timelines. The scope of loss — often total loss of the dwelling and all contents — requires the most extensive documentation of any claim type. Supplemental claims and demand-surge pricing add additional months on top of that baseline.',
         },
         {
           question: "What's the difference between legitimate delay and deliberate delay?",

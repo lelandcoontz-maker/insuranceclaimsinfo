@@ -52,7 +52,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is not a universal description of every claim at every company. Feinman is careful to acknowledge that many claims are paid without incident. The strategy is most visible &mdash; and most profitable &mdash; on larger claims where the difference between what is owed and what is offered runs into tens or hundreds of thousands of dollars. It is also most visible after catastrophes, when the sheer volume of claims creates pressure to close files quickly and cheaply.
+        This is not a universal description of every claim at every company. Feinman is careful to acknowledge that many claims are paid without incident. The strategy is most visible &mdash; and most profitable &mdash; on larger claims where the difference between what is owed and what is offered runs into tens or hundreds of thousands of dollars. It is also most visible after catastrophes, when the volume of claims creates pressure to close files quickly and cheaply.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

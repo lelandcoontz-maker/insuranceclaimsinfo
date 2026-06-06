@@ -318,7 +318,7 @@ export default function Content() {
         and hallways are blocked by accumulated materials. The fuel load inside the home can be
         many times greater than a typical residence, causing fires to burn hotter and faster.
         Interior collapse risk increases when heavy accumulations compromise structural
-        integrity. And the sheer volume of combustible material means that a fire that might
+        integrity. And the volume of combustible material means that a fire that might
         have been contained to one room in a typical home can rapidly become a total loss in a
         hoarded home.
       </p>

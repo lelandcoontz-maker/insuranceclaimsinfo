@@ -209,7 +209,7 @@ export default function Content() {
         <li>
           <strong>Access and logistics</strong> — After a major wildfire, debris removal costs are
           driven up by demand surge, limited access to affected areas, hauling distances to certified
-          disposal facilities, and the sheer volume of work. These factors make post-wildfire debris
+          disposal facilities, and the volume of work. These factors make post-wildfire debris
           removal far more expensive than routine demolition.
         </li>
       </ul>
