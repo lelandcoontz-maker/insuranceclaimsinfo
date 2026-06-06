@@ -254,7 +254,7 @@ export default function Content() {
         The Sublimit Problem
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most common source of underinsurance in spoilage claims is the sublimit. Many
+        The most common source of underinsurance in spoilage claims is the sublimit. Many
         Business Owners Policies (BOPs) include nominal spoilage coverage &mdash; often just
         $10,000 or $25,000. Business owners see &ldquo;spoilage coverage&rdquo; on their
         declarations page and assume they are adequately protected. They are not.

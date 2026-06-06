@@ -249,7 +249,7 @@ export default function Content() {
         Excluding Items Without Explicitly Denying Coverage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most common pattern. The carrier&apos;s adjuster inspects the
+        This is the most common pattern. The carrier&apos;s adjuster inspects the
         property, writes an estimate, and simply does not include items that a competent
         inspection would have identified. There is no denial letter. There is no explanation
         of what was excluded or why. The estimate just does not include the damaged
@@ -443,7 +443,7 @@ export default function Content() {
         Missing Rooms, Areas, or Components
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most straightforward scope dispute is the one where entire rooms or
+        The most straightforward scope dispute is the one where entire rooms or
         building components are simply absent from the carrier&apos;s estimate. The
         kitchen and living room are included, but the hallway connecting them is not.
         The roof is included, but the gutters and fascia are not. The interior damage is

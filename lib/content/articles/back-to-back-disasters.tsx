@@ -117,7 +117,7 @@ export default function Content() {
         The &ldquo;Pre-Existing Damage&rdquo; Argument
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most predictable carrier tactic in overlapping claims is the argument that damage attributed to the second event was actually pre-existing damage from the first event &mdash; damage that the first claim should have addressed, or that was already accounted for, or that existed before either event and should not be covered at all.
+        The most predictable carrier tactic in overlapping claims is the argument that damage attributed to the second event was actually pre-existing damage from the first event &mdash; damage that the first claim should have addressed, or that was already accounted for, or that existed before either event and should not be covered at all.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This argument works in the carrier&rsquo;s favor regardless of which direction it pushes. If the damage is attributed to the first event, the carrier handling the second claim avoids paying. If the damage is attributed to &ldquo;pre-existing conditions&rdquo; that preceded both events, neither carrier pays. The only party who consistently loses when damage attribution is disputed is the policyholder, who faces the burden of proving which event caused which damage &mdash; often months after the fact, after emergency repairs have obscured the evidence, and after the property has been through multiple inspections by multiple adjusters with conflicting conclusions.

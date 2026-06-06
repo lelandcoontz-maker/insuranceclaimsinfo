@@ -221,7 +221,7 @@ export default function Content() {
         an excluded peril operated later in the sequence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Foundation damage caused by water leaks is perhaps the most common and most compelling
+        Foundation damage caused by water leaks is the most common and most compelling
         application of this doctrine. The causal chain is straightforward:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

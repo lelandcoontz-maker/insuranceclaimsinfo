@@ -153,7 +153,7 @@ export default function Content() {
         &ldquo;Good Hands or Boxing Gloves&rdquo;
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most infamous slide McKinsey prepared for Allstate was entitled
+        The most infamous slide McKinsey prepared for Allstate was entitled
         &ldquo;Good Hands or Boxing Gloves.&rdquo; The strategy co-opted Allstate&rsquo;s
         own marketing slogan. When a policyholder files a claim, McKinsey advised, first
         make a low offer. If the policyholder accepts the low amount, treat the person with

@@ -180,7 +180,7 @@ export default function Content() {
         Delayed Discovery of Hidden Damage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most common scenario is the policyholder who does not discover the
+        The most common scenario is the policyholder who does not discover the
         damage until well after the event that caused it. Water intrusion from a roof
         leak may go unnoticed for months until mold develops or a ceiling stain appears.
         Foundation damage from a plumbing leak beneath the slab may not manifest as

@@ -222,7 +222,7 @@ export default function Content() {
         Automated Xactimate Estimate Generation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most consequential AI application in property claims is the automated generation
+        The most consequential AI application in property claims is the automated generation
         of repair estimates. Several platforms now offer AI systems that can take damage assessment
         data &mdash; whether from photo analysis, aerial imagery, or structured input &mdash; and
         produce complete Xactimate estimates with line items, quantities, pricing, and overhead and
@@ -417,7 +417,7 @@ export default function Content() {
         roofing materials, or in other locations that no photograph can capture.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Water damage is perhaps the most striking example. When a pipe bursts or a roof leaks, the
+        Water damage is the most striking example. When a pipe bursts or a roof leaks, the
         visible damage &mdash; staining on walls and ceilings, warping of flooring, standing water
         &mdash; often represents only a fraction of the total damage. Water migrates through wall
         cavities, saturates insulation, wicks into structural framing, and creates conditions

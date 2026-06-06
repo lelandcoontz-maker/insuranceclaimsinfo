@@ -268,7 +268,7 @@ export default function Content() {
         Not Clearly Communicating the Deadline
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most consequential problem is that many policyholders do not know the deadline
+        The most consequential problem is that many policyholders do not know the deadline
         exists until it is too late. The carrier may mention it in the body of a long letter, buried
         in standard language the policyholder does not read carefully. The carrier may reference it
         only by pointing to a policy section without explaining what it means in practical terms. Some

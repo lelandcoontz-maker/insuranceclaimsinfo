@@ -454,7 +454,7 @@ export default function Content() {
           Myth #8: &ldquo;Overhead and Profit Is Only Owed When Three or More Trades Are Involved&rdquo;
         </h3>
         <p className="text-gray-700 leading-relaxed mb-4">
-          This is perhaps the most widespread carrier myth in the industry. Adjusters routinely
+          This is the most widespread carrier myth in the industry. Adjusters routinely
           strip overhead and profit (O&amp;P) from estimates, citing the so-called &ldquo;three
           trade rule&rdquo; &mdash; the claim that O&amp;P is only owed when a general
           contractor must coordinate three or more subcontractor trades.

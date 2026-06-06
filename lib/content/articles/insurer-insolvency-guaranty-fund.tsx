@@ -307,7 +307,7 @@ export default function Content() {
         The Surplus Lines Gap
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most alarming gap in the guaranty fund system is the complete absence
+        The most alarming gap in the guaranty fund system is the complete absence
         of protection for policyholders with surplus lines coverage. Surplus lines insurers
         &mdash; also called non-admitted insurers or &ldquo;excess and surplus&rdquo; carriers
         &mdash; are not members of CIGA and are not required to participate in any guaranty

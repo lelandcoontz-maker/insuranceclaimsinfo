@@ -634,7 +634,7 @@ export default function Content() {
         section. Total out-of-pocket cost: $340.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most straightforward sue and labor scenario. The policyholder used
+        This is the most straightforward sue and labor scenario. The policyholder used
         reasonable materials, acted promptly, and prevented what could have been tens of thousands
         of dollars in interior water damage. The $340 is recoverable. Note that the policyholder
         should also document the labor they personally performed &mdash; time spent, work done,

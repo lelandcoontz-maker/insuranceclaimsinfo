@@ -230,7 +230,7 @@ export default function Content() {
         The Market Pressure Theory
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most consequential antitrust theory is not about explicit agreements but about
+        The most consequential antitrust theory is not about explicit agreements but about
         strategic market pressure. Consumer Watchdog and other advocacy organizations have argued
         that the coordinated withdrawal pattern was designed to create a regulatory crisis that
         would force the state to grant concessions the industry had been unable to obtain through

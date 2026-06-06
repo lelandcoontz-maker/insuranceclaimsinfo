@@ -182,7 +182,7 @@ export default function Content() {
           uncovers.
         </li>
         <li>
-          <strong>The ad promises good faith.</strong> Perhaps the most consequential
+          <strong>The ad promises good faith.</strong> The most consequential
           representation is the blanket promise of good faith dealing. When a carrier
           advertises itself as treating customers fairly and honestly, it is making a
           representation that goes to the heart of the implied covenant of good faith and fair

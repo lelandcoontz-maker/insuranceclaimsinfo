@@ -227,7 +227,7 @@ export default function Content() {
         Releases That Extinguish Bad Faith Claims
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most consequential element of many broad releases is the waiver of{' '}
+        The most consequential element of many broad releases is the waiver of{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith</Link>{' '}
         claims. If an insurer has engaged in unreasonable delay, denied a claim without proper
         investigation, or systematically reduced field estimates through desk reviews, the

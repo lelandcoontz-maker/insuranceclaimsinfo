@@ -406,7 +406,7 @@ export default function Content() {
         4. Ignoring Abatement in the Estimate Entirely
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most common tactic: the carrier&rsquo;s adjuster writes a repair estimate
+        The most common tactic: the carrier&rsquo;s adjuster writes a repair estimate
         that simply does not include any line items for asbestos or lead abatement. The estimate
         prices the repair as if the home were built yesterday with modern, non-hazardous
         materials. When you submit a contractor&rsquo;s estimate that includes abatement, the

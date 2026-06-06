@@ -225,7 +225,7 @@ export default function Content() {
         No Firsthand Knowledge
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most fundamental problem with desk adjusting is epistemological: the adjuster
+        The most fundamental problem with desk adjusting is epistemological: the adjuster
         making the decisions has no firsthand knowledge of the property or the damage. Everything
         they know is secondhand, filtered through photographs, reports, and descriptions written by
         other people. If those sources are incomplete &mdash; and they almost always are &mdash; the

@@ -110,7 +110,7 @@ export default function Content() {
         Rule #1: Depreciation Must Be Based on Condition, Not Age
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most important and most frequently violated rule. Under California law,
+        This is the most important and most frequently violated rule. Under California law,
         depreciation must reflect the <strong>actual physical condition</strong> of the property at
         the time of the loss &mdash; not simply how old it is.
       </p>

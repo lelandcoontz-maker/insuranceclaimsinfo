@@ -175,7 +175,7 @@ export default function Content() {
         that was never disclosed to the policyholder.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most devastating argument is the unconscionability argument. The Big I posed
+        The most devastating argument is the unconscionability argument. The Big I posed
         a hypothetical that illustrates the problem clearly:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">

@@ -269,7 +269,7 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Silence</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most effective carrier resistance tactic is simply not responding. The policyholder submits a supplement. Nothing happens. They call. They leave a message. Nothing happens. Weeks pass. Months pass. The policyholder, already exhausted from dealing with the original claim, gives up. The carrier knows that every day of delay reduces the likelihood that the policyholder will pursue the supplement, and silence costs the carrier nothing.
+        The most effective carrier resistance tactic is simply not responding. The policyholder submits a supplement. Nothing happens. They call. They leave a message. Nothing happens. Weeks pass. Months pass. The policyholder, already exhausted from dealing with the original claim, gives up. The carrier knows that every day of delay reduces the likelihood that the policyholder will pursue the supplement, and silence costs the carrier nothing.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

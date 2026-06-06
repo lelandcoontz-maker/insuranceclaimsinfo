@@ -386,7 +386,7 @@ export default function Content() {
         Defeating the Carrier&rsquo;s Minimization Strategy
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most valuable function of the CIH report is what it prevents the carrier
+        The most valuable function of the CIH report is what it prevents the carrier
         from doing. Without independent documentation, the carrier&rsquo;s consultant&rsquo;s
         report is the only environmental data in the claim file. The adjuster relies on that
         report to justify a reduced payment or denial. Your CIH report creates a competing

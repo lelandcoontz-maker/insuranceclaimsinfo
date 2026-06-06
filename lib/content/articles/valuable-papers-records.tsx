@@ -265,7 +265,7 @@ export default function Content() {
         &ldquo;The Documents Were Irreplaceable, So We Owe Only Blank Value&rdquo;
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most frustrating dispute in valuable papers claims. The insurer acknowledges that the documents were destroyed. It acknowledges that they were valuable. But because the documents cannot be reconstructed from any source &mdash; the information is truly gone forever &mdash; the insurer invokes the &ldquo;blank value&rdquo; provision and pays only the cost of blank paper and materials.
+        This is the most frustrating dispute in valuable papers claims. The insurer acknowledges that the documents were destroyed. It acknowledges that they were valuable. But because the documents cannot be reconstructed from any source &mdash; the information is truly gone forever &mdash; the insurer invokes the &ldquo;blank value&rdquo; provision and pays only the cost of blank paper and materials.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The policyholder&rsquo;s best response to this argument is twofold. First, challenge whether the documents are truly irreplaceable. Can any portion of the information be reconstructed from other sources &mdash; court records, government filings, third-party copies, email correspondence, digital fragments? Complete irreplaceability is rare. Second, document the actual reconstruction efforts you have undertaken. If you have spent money attempting to reconstruct the information &mdash; even partially &mdash; those costs are covered regardless of whether the reconstruction is complete.

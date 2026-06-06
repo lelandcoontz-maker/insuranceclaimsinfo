@@ -233,7 +233,7 @@ export default function Content() {
         Survival Action: Damages Do Not Die with the Plaintiff
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most significant remedy unique to elder abuse claims. Under
+        This is the most significant remedy unique to elder abuse claims. Under
         California&rsquo;s general survival statute (Code of Civil Procedure &sect;377.34),
         when a plaintiff dies during litigation, the estate can recover only the economic
         damages that the decedent would have been entitled to &mdash; pain and suffering

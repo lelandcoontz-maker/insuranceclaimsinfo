@@ -582,7 +582,7 @@ export default function Content() {
         When the Policyholder Establishes a New Primary Residence
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most legally complex issue in the long-term displacement context.
+        This is the most legally complex issue in the long-term displacement context.
         After 2&ndash;3 years of renting temporary housing, many policyholders have done
         everything that ordinarily constitutes establishing a new &ldquo;residence&rdquo;:
         they have signed a long-term lease, enrolled their children in new schools, changed

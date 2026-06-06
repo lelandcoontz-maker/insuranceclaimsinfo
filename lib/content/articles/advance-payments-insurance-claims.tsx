@@ -310,7 +310,7 @@ export default function Content() {
         ALE Advance Payments: A Special Category
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additional living expense (ALE) payments are perhaps the most time-sensitive of all insurance claim components. When a family is displaced from their home, they need housing immediately &mdash; not in 40 days, not after the carrier completes a rental market survey, not after three levels of management approve the monthly budget.
+        Additional living expense (ALE) payments are the most time-sensitive of all insurance claim components. When a family is displaced from their home, they need housing immediately &mdash; not in 40 days, not after the carrier completes a rental market survey, not after three levels of management approve the monthly budget.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Department of Insurance has specifically addressed carrier obligations regarding{' '}

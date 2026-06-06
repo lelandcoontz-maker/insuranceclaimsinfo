@@ -524,7 +524,7 @@ export default function Content() {
         Deployment and De-Selection
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most powerful control mechanism is the carrier&apos;s ability to choose which
+        The most powerful control mechanism is the carrier&apos;s ability to choose which
         adjusters it deploys and which it does not. Carriers track adjuster performance metrics,
         including average estimate amounts, cycle times, and customer complaints. An adjuster whose
         estimates consistently run higher than the carrier&apos;s expectations &mdash; even if those

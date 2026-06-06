@@ -184,7 +184,7 @@ export default function Content() {
         Stated Reasons vs. Real Reasons
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most damaging evidence in a bad faith case is a disconnect between the reason the carrier gave the policyholder for a denial or reduced payment and the reason that appears in the internal documentation. If the denial letter cites an exclusion, but the internal emails reveal that the real reason for the denial was a desire to avoid setting a precedent for similar claims, or concern about the financial impact on the carrier&rsquo;s loss ratio, this is a textbook bad faith scenario. The carrier did not deny the claim because the exclusion applied &mdash; it denied the claim for financial reasons and used the exclusion as a pretext.
+        The most damaging evidence in a bad faith case is a disconnect between the reason the carrier gave the policyholder for a denial or reduced payment and the reason that appears in the internal documentation. If the denial letter cites an exclusion, but the internal emails reveal that the real reason for the denial was a desire to avoid setting a precedent for similar claims, or concern about the financial impact on the carrier&rsquo;s loss ratio, this is a textbook bad faith scenario. The carrier did not deny the claim because the exclusion applied &mdash; it denied the claim for financial reasons and used the exclusion as a pretext.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

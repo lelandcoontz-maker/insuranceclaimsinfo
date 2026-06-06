@@ -221,7 +221,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most common form of tortious interference in insurance claims occurs when a
+        The most common form of tortious interference in insurance claims occurs when a
         carrier contacts the policyholder&apos;s contractor directly &mdash; bypassing the
         policyholder entirely &mdash; and attempts to negotiate the price down or reduce the scope
         of work. The adjuster calls the contractor and explains that the carrier&apos;s estimate

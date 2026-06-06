@@ -235,7 +235,7 @@ export default function Content() {
         Shifting the Risk to the Insured
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most consequential effect &mdash; and the one least discussed &mdash; is that
+        The most consequential effect &mdash; and the one least discussed &mdash; is that
         the carrier&rsquo;s directed cleaning attempt shifts the financial risk of failure from the
         carrier to the insured. If the carrier had agreed to replacement from the beginning, the
         carrier would have borne the full cost of the correct remedy. By insisting on cleaning first,

@@ -257,7 +257,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most consequential tactic is delay itself. Demand surge is, by its nature, temporary. Eventually, the flood of reconstruction work works its way through the pipeline, the out-of-area contractors go home, material supply chains normalize, and prices moderate. If a carrier can delay resolution of a claim long enough, the demand surge may partially or fully dissipate &mdash; and the carrier can then argue that current prices (which have dropped) prove that the originally quoted prices were unreasonable.
+        The most consequential tactic is delay itself. Demand surge is, by its nature, temporary. Eventually, the flood of reconstruction work works its way through the pipeline, the out-of-area contractors go home, material supply chains normalize, and prices moderate. If a carrier can delay resolution of a claim long enough, the demand surge may partially or fully dissipate &mdash; and the carrier can then argue that current prices (which have dropped) prove that the originally quoted prices were unreasonable.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -676,7 +676,7 @@ export default function Content() {
         Using Coinsurance as Leverage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most insidious tactic is using the <em>threat</em> of a coinsurance penalty as
+        The most insidious tactic is using the <em>threat</em> of a coinsurance penalty as
         negotiating leverage. The carrier may tell the insured: &ldquo;Our appraisal shows your
         building is worth $1.5 million and you only carry $900,000, so there&rsquo;s a significant
         coinsurance penalty &mdash; but we&rsquo;re willing to waive the penalty if you accept our

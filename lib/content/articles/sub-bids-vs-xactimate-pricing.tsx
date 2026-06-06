@@ -253,7 +253,7 @@ export default function Content() {
         Matching Existing Work Is Inherently More Expensive Than New Installation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most important point. Insurance claims do not involve new
+        This is the most important point. Insurance claims do not involve new
         construction. They involve restoration &mdash; returning a property to its pre-loss
         condition. Matching is always more expensive than new installation: it requires sourcing
         specific materials (which may be discontinued or scarce), custom fabrication to match

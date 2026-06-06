@@ -290,7 +290,7 @@ export default function Content() {
         Punitive Damages Are Only Available Through Tort
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most consequential practical difference. Punitive damages under Civil
+        This is the most consequential practical difference. Punitive damages under Civil
         Code &sect;3294 require a finding of malice, oppression, or fraud. They are only available
         in tort actions &mdash; not in breach of contract. If the bad faith tort claim fails or
         is time-barred, punitive damages are off the table entirely, regardless of how much

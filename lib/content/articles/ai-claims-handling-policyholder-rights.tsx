@@ -90,7 +90,7 @@ export default function Content() {
         Settlement Recommendations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most consequential application of AI in claims is the generation of settlement
+        The most consequential application of AI in claims is the generation of settlement
         recommendations. These systems analyze the claim data, comparable claims, policy terms, and
         sometimes even the policyholder&rsquo;s likelihood of hiring a lawyer or filing a complaint,
         to produce a recommended payout amount. The adjuster assigned to the claim may have limited

@@ -369,7 +369,7 @@ export default function Content() {
         Slow-Walking the Review Process
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Perhaps the most common form of supplement resistance is simply taking an unreasonable
+        The most common form of supplement resistance is simply taking an unreasonable
         amount of time to review and respond. Supplements may sit in a queue for weeks or months
         without action. The file may be reassigned to a different adjuster who needs to
         &quot;get up to speed&quot; on the claim. The carrier may request additional information,

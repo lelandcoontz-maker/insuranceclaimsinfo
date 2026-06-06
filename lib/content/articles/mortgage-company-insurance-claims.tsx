@@ -584,7 +584,7 @@ export default function Content() {
         Coverage Allocation Strategy: Getting Unencumbered Money Into Your Hands
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perhaps the most strategically important section of this article, and it is a topic
+        This is the most strategically important section of this article, and it is a topic
         that most policyholders &mdash; and many adjusters &mdash; do not consider. When total damage
         exceeds the dwelling coverage limit, the way the insurance carrier allocates payments across
         coverage lines can determine whether money goes to the mortgage company or directly to you.
