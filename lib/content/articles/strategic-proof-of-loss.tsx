@@ -57,6 +57,17 @@ export default function Content() {
         formal, sworn statement of the loss amount.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
+        Anecdotally: in more than twenty years handling California property claims &mdash; first
+        as a company adjuster, then as a licensed Public Adjuster &mdash; I have seen a
+        carrier actually demand a proof of loss maybe twice. Carriers know that the cooperation-
+        breach framework in California is unforgiving for them, that California courts require a
+        showing of both material breach and prejudice to deny on cooperation grounds, and that an
+        aggressive proof-of-loss demand on a thinly-supported record is not a fight they are
+        eager to pick. That is why the demand almost never comes &mdash; and why the strategic
+        proof of loss exists primarily as an option for the policyholder to invoke, not as a
+        carrier-driven mechanism.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
         This is not necessarily a problem &mdash; but it is a missed opportunity. The absence of a
         formal proof of loss means that a critical contractual trigger never gets pulled. And that
         trigger, as we will see, can be one of the most useful tools in the policyholder&rsquo;s
