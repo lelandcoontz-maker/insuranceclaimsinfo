@@ -49,7 +49,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Xactimate EULA: An Admission Most Adjusters Have Never Read</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        One of the most powerful tools available when challenging an Xactimate estimate is the very document that governs the use of the software itself: the End User License Agreement (EULA).
+        One of the strongest tools available when challenging an Xactimate estimate is the very document that governs the use of the software itself: the End User License Agreement (EULA).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Xactware EULA, published by Verisk at{' '}

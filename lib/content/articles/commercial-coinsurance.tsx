@@ -523,7 +523,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Reporting Forms Punish Mistakes Harshly">
         <p>
-          Value reporting forms are powerful tools for businesses with fluctuating values, but they require disciplined, accurate, and timely reporting. A single missed or late report can cap your recovery at the last reported value &mdash; which may be months old and far below current inventory levels. If your business uses a reporting form, calendar every reporting deadline and assign someone to ensure reports are submitted on time.
+          Value reporting forms are useful tools for businesses with fluctuating values, but they require disciplined, accurate, and timely reporting. A single missed or late report can cap your recovery at the last reported value &mdash; which may be months old and far below current inventory levels. If your business uses a reporting form, calendar every reporting deadline and assign someone to ensure reports are submitted on time.
         </p>
       </CalloutBox>
 

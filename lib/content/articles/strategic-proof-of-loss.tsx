@@ -17,7 +17,7 @@ export default function Content() {
         insurers never ask for one. Under California law, the insurer must actually demand a proof
         of loss before the policyholder has any obligation to submit it &mdash; and the majority of
         carriers simply skip this step, relying instead on their own estimates and settlement offers
-        to control the claim. As a result, one of the most powerful tools available to a policyholder
+        to control the claim. As a result, one of the strongest tools available to a policyholder
         sits unused in nearly every California property claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -277,7 +277,7 @@ export default function Content() {
         Risks and Considerations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The strategic proof of loss is a powerful tool, but it has risks. You should
+        The strategic proof of loss is a useful tool, but it has risks. You should
         understand these before deciding to use it.
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">

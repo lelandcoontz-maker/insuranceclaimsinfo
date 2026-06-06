@@ -493,7 +493,7 @@ export default function Content() {
         Person Most Qualified Depositions (CCP &sect; 2025.230)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The person most qualified (PMQ) deposition is one of the most powerful tools available
+        The person most qualified (PMQ) deposition is one of the strongest tools available
         for identifying the managing agent. Under Code of Civil Procedure section 2025.230, when
         the deponent is an organization rather than a natural person, the deposition notice must
         &ldquo;describe with reasonable particularity the matters on which examination is

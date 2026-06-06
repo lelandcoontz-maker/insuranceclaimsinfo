@@ -119,7 +119,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Documenting the Delays</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If your construction is running beyond the carrier&apos;s projected timeline, documentation is your most powerful tool. Maintain a detailed record of:
+        If your construction is running beyond the carrier&apos;s projected timeline, documentation is your strongest tool. Maintain a detailed record of:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Permit timeline:</strong> Date of application, plan check comments, revision submissions, approval date</li>

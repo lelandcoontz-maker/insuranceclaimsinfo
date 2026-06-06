@@ -1022,7 +1022,7 @@ export default function Content() {
         <li>
           Document everything, especially hidden damage, before it is repaired or concealed.
           Photographs, contractor statements, and building department records are your most
-          powerful tools.
+          useful tools.
         </li>
         <li>
           Submit supplements promptly, completely, and in writing. Include all supporting

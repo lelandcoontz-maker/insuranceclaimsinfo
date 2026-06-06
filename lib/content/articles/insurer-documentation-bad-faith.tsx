@@ -130,7 +130,7 @@ export default function Content() {
         Litigation Discovery
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Once a lawsuit is filed &mdash; whether for breach of contract, bad faith, or both &mdash; the policyholder gains access to the powerful tools of litigation discovery. Through document requests, interrogatories, and depositions, the policyholder&rsquo;s attorney can demand production of the entire claim file, including diary notes, internal emails, reserve history, supervisor approvals, expert referral memos, training materials, claims handling guidelines, and any other documentation related to the claim. For more on the discovery process in insurance litigation, see the article on{' '}
+        Once a lawsuit is filed &mdash; whether for breach of contract, bad faith, or both &mdash; the policyholder gains access to the useful tools of litigation discovery. Through document requests, interrogatories, and depositions, the policyholder&rsquo;s attorney can demand production of the entire claim file, including diary notes, internal emails, reserve history, supervisor approvals, expert referral memos, training materials, claims handling guidelines, and any other documentation related to the claim. For more on the discovery process in insurance litigation, see the article on{' '}
         <Link href="/resources/discovery-insurance-litigation" className="text-[#2E74B5] underline hover:text-blue-900">
           discovery in insurance litigation
         </Link>.

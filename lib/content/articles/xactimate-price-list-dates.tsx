@@ -391,7 +391,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In litigation, the price list date can be a powerful tool for demonstrating systematic underpayment. If the carrier used the same outdated price list date across hundreds or thousands of claims from a single catastrophic event, that pattern suggests a corporate decision to underpay rather than individual adjuster error. Discovery can reveal internal communications about price list directives, and expert testimony can quantify the aggregate impact of the outdated pricing across the carrier&apos;s entire book of claims.
+        In litigation, the price list date can be a useful tool for demonstrating systematic underpayment. If the carrier used the same outdated price list date across hundreds or thousands of claims from a single catastrophic event, that pattern suggests a corporate decision to underpay rather than individual adjuster error. Discovery can reveal internal communications about price list directives, and expert testimony can quantify the aggregate impact of the outdated pricing across the carrier&apos;s entire book of claims.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -381,7 +381,7 @@ export default function Content() {
             that ambiguous policy language must be interpreted against the insurer who drafted it.
           </p>
           <p className="text-gray-700 text-sm">
-            <strong>Why it matters:</strong> Contra proferentem is one of the most powerful tools
+            <strong>Why it matters:</strong> Contra proferentem is one of the strongest tools
             available to policyholders. When the insurer wrote the confusing language and now claims
             it means something unfavorable to you, the court should construe it in your favor.
             Maintaining this doctrine prevents insurers from profiting from their own unclear

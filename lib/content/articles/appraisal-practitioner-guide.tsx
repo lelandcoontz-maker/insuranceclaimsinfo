@@ -30,7 +30,7 @@ export default function Content() {
         <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
           appraisal
         </Link>{' '}
-        is one of the most powerful tools available to a policyholder who has been underpaid on a
+        is one of the strongest tools available to a policyholder who has been underpaid on a
         property insurance claim. But it is also one of the most misunderstood. When should you
         invoke it? What happens if the umpire goes rogue? Can you still sue for bad faith after
         receiving an award? What do you do when the insurer interferes with the process?
@@ -182,7 +182,7 @@ export default function Content() {
         II. Before Invoking Appraisal: Necessary Prerequisites
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Appraisal is a powerful tool, but invoking it at the wrong time &mdash; or without proper
+        Appraisal is a useful tool, but invoking it at the wrong time &mdash; or without proper
         preparation &mdash; can backfire. Before demanding appraisal, several prerequisites should
         be satisfied.
       </p>

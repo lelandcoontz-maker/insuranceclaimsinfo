@@ -449,7 +449,7 @@ export default function Content() {
         A PMK deposition (sometimes called a &ldquo;person most qualified&rdquo; deposition) is a
         deposition noticed under California Code of Civil Procedure &sect; 2025.230. Instead of
         naming a specific individual, the notice identifies topics, and the carrier must designate
-        the person most knowledgeable about each topic. This is a powerful tool because it forces the
+        the person most knowledgeable about each topic. This is a useful tool because it forces the
         carrier to produce a witness who can testify authoritatively about claims-handling procedures,
         training, guidelines, reserve-setting practices, and the specific decisions made on your
         claim. The carrier cannot hide behind &ldquo;I don&rsquo;t know&rdquo; &mdash; the designated

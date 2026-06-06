@@ -99,7 +99,7 @@ export default function Content() {
         standard, the standard controls.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is why the Standard Fire Policy has become such a powerful tool for policyholders
+        This is why the Standard Fire Policy has become such a useful tool for policyholders
         and their attorneys. It provides a second line of analysis &mdash; a statutory backstop
         &mdash; that applies specifically and exclusively to fire losses. A claim that appears
         to be properly denied under the actual policy may nonetheless be covered when the

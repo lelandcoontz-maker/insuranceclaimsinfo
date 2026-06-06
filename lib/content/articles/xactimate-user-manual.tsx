@@ -440,7 +440,7 @@ export default function Content() {
         identify what is missing, correct what is wrong, and prepare a competing estimate
         that reflects the actual cost of restoring your property. That competing estimate
         &mdash; built in the same software, using the same pricing database &mdash; is
-        the most powerful tool a policyholder has in a claim dispute.
+        the strongest tool a policyholder has in a claim dispute.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

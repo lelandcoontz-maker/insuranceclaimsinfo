@@ -363,7 +363,7 @@ export default function Content() {
         Use the Case Law Advantage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you have an ISO form and your claim is disputed, the most powerful tool available to
+        If you have an ISO form and your claim is disputed, the strongest tool available to
         you (or your attorney or Public Adjuster) is the body of case law interpreting that exact
         language. Courts across the country have spent decades defining what each provision means.
         If a California court has already ruled that the ISO water damage exclusion does not apply

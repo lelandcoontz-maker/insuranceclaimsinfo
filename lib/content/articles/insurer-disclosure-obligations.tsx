@@ -711,7 +711,7 @@ export default function Content() {
         a neutral umpire, and the decision of any two of the three is binding.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Appraisal is one of the most powerful tools available to a policyholder who believes
+        Appraisal is one of the strongest tools available to a policyholder who believes
         the insurer&rsquo;s estimate is too low, and it is far less expensive and time-consuming
         than litigation. Yet most homeowners have never heard of it. Adjusters are not in
         the habit of telling policyholders: &ldquo;If you disagree with our number, you can

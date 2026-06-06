@@ -143,7 +143,7 @@ export default function Content() {
         Using the Carrier&apos;s Own Expert Against Them
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Here is where this research becomes a powerful tool for homeowners. When an insurance
+        Here is where this research becomes a useful tool for homeowners. When an insurance
         company hires Haag Engineering to inspect your roof, and the Haag engineer reports that
         the hail was &ldquo;not large enough to cause damage,&rdquo; you can ask a pointed
         question: does that finding align with Haag&apos;s own published damage thresholds?

@@ -127,7 +127,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         When you believe the insurer has underscoped your damage, documentation is your most
-        powerful tool:
+        useful tool:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

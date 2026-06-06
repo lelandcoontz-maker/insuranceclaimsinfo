@@ -390,7 +390,7 @@ export default function Content() {
         <li>The recommended repair scope and methodology</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Do not rely on the carrier&rsquo;s engineer to make your case. The carrier&rsquo;s engineer works for the carrier and is often retained specifically because their conclusions tend to favor denials. Your own engineer&rsquo;s report is your best evidence and your most powerful tool in a collapse dispute.
+        Do not rely on the carrier&rsquo;s engineer to make your case. The carrier&rsquo;s engineer works for the carrier and is often retained specifically because their conclusions tend to favor denials. Your own engineer&rsquo;s report is your best evidence and your strongest tool in a collapse dispute.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

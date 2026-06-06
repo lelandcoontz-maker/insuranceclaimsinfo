@@ -374,7 +374,7 @@ export default function Content() {
           appraisal
         </Link>{' '}
         &mdash; a form of alternative dispute resolution that functions similarly to arbitration
-        in California. This is a powerful tool. Instead of negotiating endlessly with an adjuster
+        in California. This is a useful tool. Instead of negotiating endlessly with an adjuster
         who has authority limits, you move the dispute to a neutral panel that renders a binding
         award. Appraisal is not available when you are dealing with someone else&apos;s insurer.
       </p>

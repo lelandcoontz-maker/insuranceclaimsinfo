@@ -227,7 +227,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California&rsquo;s Contractor Naming Regulation: One of the Most Powerful Tools in Claims
+        California&rsquo;s Contractor Naming Regulation: One of the Strongest Tools in Claims
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Here is where California policyholders have an advantage that policyholders in most other

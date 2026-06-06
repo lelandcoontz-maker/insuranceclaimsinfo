@@ -539,7 +539,7 @@ export default function Content() {
         was not &ldquo;pollution&rdquo; under the exclusion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is a powerful tool for California policyholders facing biohazard claim denials. An
+        This is a useful tool for California policyholders facing biohazard claim denials. An
         ordinary person would not characterize blood from a crime scene as &ldquo;pollution.&rdquo;
         An ordinary person would not characterize decomposition fluids from an unattended death as
         &ldquo;environmental contamination.&rdquo; The <em>MacKinnon</em> test strongly favors

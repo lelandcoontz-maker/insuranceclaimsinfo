@@ -55,7 +55,7 @@ export default function Content() {
         information. Everything else must be produced.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is one of the most powerful tools a policyholder has on a disputed claim. When you
+        This is one of the strongest tools a policyholder has on a disputed claim. When you
         request your claim-related documents, two things happen. First, you get visibility into
         the carrier&apos;s valuation — you can see where they cut corners, where their numbers
         are wrong, and what they left out. Second, the carrier knows you are paying attention.

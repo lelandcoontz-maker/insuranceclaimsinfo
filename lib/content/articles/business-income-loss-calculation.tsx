@@ -387,7 +387,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This is not theoretical. Carriers regularly propose flat averages for seasonal
         businesses, particularly when the loss occurs just before the peak season. The seasonal
-        index is your most powerful tool to defeat this tactic.
+        index is your strongest tool to defeat this tactic.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

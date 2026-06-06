@@ -310,7 +310,7 @@ export default function Content() {
         The Legal Rule: Contra Proferentem
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law provides a powerful tool for policyholders facing ambiguous policy
+        California law provides a useful tool for policyholders facing ambiguous policy
         language. The doctrine of <em>contra proferentem</em> holds that ambiguous terms in a
         contract are construed against the party that drafted the contract. In the insurance
         context, that party is always the insurer.

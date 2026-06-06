@@ -391,7 +391,7 @@ export default function Content() {
         <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause doctrine
         </Link>{' '}
-        is one of the most powerful tools available to policyholders facing a pollution exclusion
+        is one of the strongest tools available to policyholders facing a pollution exclusion
         denial. The doctrine holds that when multiple causes contribute to a loss &mdash; some
         covered, some excluded &mdash; coverage depends on which cause was the
         &ldquo;efficient&rdquo; or &ldquo;predominating&rdquo; cause that set the chain of

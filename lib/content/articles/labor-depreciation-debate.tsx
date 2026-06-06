@@ -617,7 +617,7 @@ export default function Content() {
         <li>Any modifications or overrides to the standard pricing</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Reviewing the ESX file is one of the most powerful tools available for challenging
+        Reviewing the ESX file is one of the strongest tools available for challenging
         depreciation. If the file shows that the adjuster selected &ldquo;L &amp; M&rdquo;
         (labor and materials) depreciation across the estimate, that is concrete evidence
         of labor depreciation that can be challenged using the arguments discussed in this

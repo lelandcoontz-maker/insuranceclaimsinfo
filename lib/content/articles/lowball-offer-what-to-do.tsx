@@ -163,7 +163,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Important: appraisal resolves amount disputes, not coverage disputes. If the insurer says
         the loss is not covered at all, appraisal does not help — you need an attorney. But if
-        they agree it is covered and just will not pay enough, appraisal is a powerful tool. For
+        they agree it is covered and just will not pay enough, appraisal is a useful tool. For
         more, see our{' '}
         <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
           appraisal guide

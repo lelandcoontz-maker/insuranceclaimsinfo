@@ -141,7 +141,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This creates a significant disincentive to file claims: a single claim may increase
         premiums not just with the current insurer, but with every insurer the homeowner
-        approaches for the next five to seven years. It is one of the most powerful tools
+        approaches for the next five to seven years. It is one of the strongest tools
         insurers have to discourage claim filing, and most policyholders do not fully understand
         it until they try to switch carriers and discover their claims history precedes them.
       </p>

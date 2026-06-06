@@ -895,7 +895,7 @@ export default function Content() {
         Before invoking appraisal, separate your scope issues from your price issues.
         Resolve the scope disputes through negotiation or other channels first. Once the
         scope is established and only pricing remains in dispute, appraisal becomes a
-        powerful tool.
+        useful tool.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

@@ -330,7 +330,7 @@ export default function Content() {
         Bad Faith: What the Jury Is Actually Told (CACI 2330&ndash;2337)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The CACI instructions on bad faith are some of the most powerful tools in insurance
+        The CACI instructions on bad faith are some of the strongest tools in insurance
         litigation. They translate the broad concept of{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
           bad faith

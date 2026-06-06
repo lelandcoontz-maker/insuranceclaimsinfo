@@ -259,7 +259,7 @@ export default function Content() {
         Using Smart Home Data Affirmatively in a Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Smart home data is not only a risk &mdash; it can also be a powerful tool for
+        Smart home data is not only a risk &mdash; it can also be a useful tool for
         policyholders. When used affirmatively, IoT data can strengthen a claim in several ways:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

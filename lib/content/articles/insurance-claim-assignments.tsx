@@ -425,7 +425,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        While the assignment of rights is a powerful tool, it comes with important
+        While the assignment of rights is a useful tool, it comes with important
         considerations for both policyholders and contractors. For policyholders, assigning
         your rights under the policy means you are giving up those rights. If you assign your
         contractual rights to a contractor and later disagree with how the contractor handles
@@ -1137,7 +1137,7 @@ export default function Content() {
         Post-loss assignments of benefits, claims, and rights are routine, legally supported,
         and enforceable in California. Anti-assignment clauses do not prohibit them. Insurance
         companies facilitate them every day through their own preferred vendor programs. And
-        the assignment of rights, in particular, is a powerful tool that can level the playing
+        the assignment of rights, in particular, is a useful tool that can level the playing
         field between carriers and the contractors and policyholders who depend on fair claim
         payments to rebuild their homes and their lives.
       </p>

@@ -227,7 +227,7 @@ export default function Content() {
         say cannot &ldquo;create coverage&rdquo; &mdash; promissory estoppel is rooted in
         the law of contracts (Restatement (Second) of Contracts &sect; 90), and its remedy
         is enforcement of the promise itself or damages measured by the promisee&rsquo;s
-        reliance. This makes it a potentially more powerful tool for policyholders in
+        reliance. This makes it a potentially more useful tool for policyholders in
         situations where the carrier&rsquo;s promise goes beyond what the policy provides.
       </p>
 

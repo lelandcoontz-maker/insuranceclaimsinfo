@@ -23,7 +23,7 @@ export default function Content() {
         The short answer in California: <strong>yes &mdash; and there are multiple ways to put
         yourself on solid legal ground</strong>. Many policyholders have successfully recorded
         inspections and used those recordings to get denials overturned, claims paid, and bad
-        faith established. Recording can be one of the most powerful tools available to a
+        faith established. Recording can be one of the strongest tools available to a
         policyholder. But this is also an area with real legal technicalities &mdash; some of
         which are not fully settled by case law &mdash; and getting it wrong can mean your
         evidence is excluded or, worse, that you face civil or criminal liability.

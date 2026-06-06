@@ -304,7 +304,7 @@ export default function Content() {
         Scenario 5: Asking the Insurer How Much Time You Have Left
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law gives unrepresented policyholders a powerful tool: you can ask
+        California law gives unrepresented policyholders a useful tool: you can ask
         the insurance company how much time you have left on your statute of limitations,
         and they are <strong>required to answer</strong>.
       </p>

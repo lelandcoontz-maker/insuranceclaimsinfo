@@ -1181,7 +1181,7 @@ export default function Content() {
         This section contains property-specific standards that supplement the general
         requirements in &sect;2695.7. These are the rules that apply specifically to your
         homeowner, renter, condo, or commercial property insurance claim — and they contain
-        some of the most powerful tools available to policyholders.
+        some of the strongest tools available to policyholders.
       </p>
 
       {/* 2695.9(a) */}
@@ -1272,7 +1272,7 @@ export default function Content() {
 
       {/* ───────── 2695.9(d) THE CONTRACTOR NAME REQUIREMENT ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        &sect;2695.9(d) — The Contractor Name Requirement: The Most Powerful Tool for Property
+        &sect;2695.9(d) — The Contractor Name Requirement: The Strongest Tool for Property
         Policyholders
       </h2>
 

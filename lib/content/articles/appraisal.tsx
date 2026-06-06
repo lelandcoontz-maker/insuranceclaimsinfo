@@ -1081,7 +1081,7 @@ export default function Content() {
       <CalloutBox variant="important" title="Key Takeaway on White Waivers">
         <p>
           A White waiver is not a neutral document — it exists because <em>White v. Western
-          Title</em> gave policyholders a powerful tool, and insurers want to take it back. When
+          Title</em> gave policyholders a useful tool, and insurers want to take it back. When
           an insurer presents a White waiver, it is often a sign they know the claim has been
           underpaid. Rather than signing immediately and giving up rights, investigate what the
           insurer is trying to shield from scrutiny. There is no rush. You can always sign later

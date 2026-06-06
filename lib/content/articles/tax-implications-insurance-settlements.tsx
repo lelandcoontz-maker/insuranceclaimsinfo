@@ -119,7 +119,7 @@ export default function Content() {
         to replace that structure, the gain could be over $300,000.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The good news is that the tax code provides a powerful tool for deferring this gain:
+        The good news is that the tax code provides a useful tool for deferring this gain:
         the involuntary conversion election under IRC &sect;1033, which we will discuss in detail
         below.
       </p>

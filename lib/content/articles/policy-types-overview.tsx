@@ -73,7 +73,7 @@ export default function Content() {
         Understanding this matters because in a coverage dispute, the statutory standard can
         override conflicting policy language. If your carrier&rsquo;s policy form attempts to
         impose a condition or limitation that conflicts with the Standard Fire Policy, the statute
-        controls. This is a powerful tool in the hands of a knowledgeable policyholder or public
+        controls. This is a useful tool in the hands of a knowledgeable policyholder or public
         adjuster.
       </p>
 

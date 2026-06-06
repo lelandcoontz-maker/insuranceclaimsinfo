@@ -109,7 +109,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Start a written log of every interaction with the insurance company from the moment you
-        report the claim. This is your claim diary, and it is one of the most powerful tools in
+        report the claim. This is your claim diary, and it is one of the strongest tools in
         your file.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

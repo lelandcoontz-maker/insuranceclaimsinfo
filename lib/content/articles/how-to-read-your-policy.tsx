@@ -410,7 +410,7 @@ export default function Content() {
         Provides a mechanism for resolving disputes over the <em>amount</em> of loss. Either
         party can demand appraisal. Each side selects an appraiser, the two appraisers
         select an umpire, and any two of the three make a binding determination. Appraisal
-        is a powerful tool, but it only resolves amount disputes &mdash; not coverage
+        is a useful tool, but it only resolves amount disputes &mdash; not coverage
         disputes.
       </p>
 
