@@ -2,11 +2,11 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Understanding Your Insurance Policy',
+  title: 'Understanding and Interpreting Your Insurance Policy',
   description:
-    'A comprehensive guide to reading and understanding your homeowners insurance policy, including declaration pages, endorsements, HO3 vs named peril coverage, and commercial co-insurance clauses.',
+    'A guide to reading the structure of a homeowners policy (declarations, endorsements, HO-3 vs named peril, commercial co-insurance) and to the California doctrines courts use when policy language is in dispute (ambiguity, contra proferentem, narrow construction of exclusions, reasonable expectations).',
   summary:
-    'Reading your policy means understanding the declarations, the insuring agreement, definitions, exclusions, conditions, and endorsements, plus concepts like HO-3 open vs. named perils and commercial coinsurance. This is the foundation for knowing what you can claim.',
+    'Reading the policy means understanding both its structure (declarations, insuring agreement, exclusions, conditions, endorsements) and the California doctrines that govern when the language is contested (clear language controls, ambiguity construed against the insurer, exclusions strictly construed, reasonable expectations within the ambiguity framework).',
 }
 
 export default function Content() {
@@ -189,15 +189,117 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        How California Courts Interpret Policy Language When It Is Disputed
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Reading the policy is only step one. When a coverage dispute actually goes to court
+        in California, the judge resolves the language question using a fairly settled set of
+        interpretive rules. Knowing those rules helps a policyholder evaluate how strong a
+        carrier&apos;s denial really is &mdash; and where the language genuinely cuts the
+        other way.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Step One: Clear and Explicit Language Controls
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under California Civil Code &sect;&nbsp;1638, when policy language is &ldquo;clear and
+        explicit&rdquo; it governs the interpretation. Under &sect;&nbsp;1644, words are taken
+        in their &ldquo;ordinary and popular sense&rdquo; unless the policy gives them a
+        special technical meaning. A court is not free to rewrite the policy or insert
+        coverage that the language does not provide. This is the part of the framework that
+        favors insurers when the policy is genuinely well-drafted.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Step Two: When the Language Is Ambiguous, It Is Construed Against the Insurer
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California Civil Code &sect;&nbsp;1654 codifies the doctrine of{' '}
+        <em>contra proferentem</em>: when policy language is uncertain, the uncertainty is
+        construed against the party that drafted it. Because insurance policies are drafted
+        by the insurer, ambiguity is construed in favor of coverage. The California Supreme
+        Court has applied this framework consistently in <em>AIU Insurance Co. v. Superior
+        Court</em> (1990) 51 Cal.3d 807, <em>Bank of the West v. Superior Court</em> (1992)
+        2 Cal.4th 1254, and <em>Waller v. Truck Insurance Exchange</em> (1995) 11 Cal.4th 1.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The key threshold question is whether the language is{' '}
+        <em>actually ambiguous</em>. Under <em>Waller</em>, ambiguity exists only when the
+        policy language is reasonably susceptible to more than one interpretation in the
+        context of the entire policy. A court will not manufacture ambiguity to find coverage
+        where none exists. Both competing interpretations have to be reasonable readings of
+        the actual words.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Step Three: Exclusions Are Strictly Construed Against the Insurer
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Coverage grants and exclusions are not treated the same way. Coverage grants are
+        construed broadly in favor of the insured; exclusions are construed{' '}
+        <em>narrowly</em> against the insurer. The California Supreme Court reinforced this
+        in <em>TRB Investments, Inc. v. Fireman&apos;s Fund Insurance Co.</em> (2006) 40
+        Cal.4th 19, holding that to be effective an exclusion must be &ldquo;conspicuous,
+        plain and clear.&rdquo; If the carrier wants to take coverage away through an
+        exclusion, the exclusion has to do that work unambiguously on the page.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>MacKinnon v. Truck Insurance Exchange</em> (2003) 31 Cal.4th 635 is the leading
+        modern California application of this principle &mdash; the court held the absolute
+        pollution exclusion ambiguous as applied to a routine pesticide application because
+        the exclusion was not conspicuous, plain and clear in that context. The takeaway is
+        not that every exclusion fails; it is that an exclusion that requires reading and
+        re-reading to figure out what it means is unlikely to survive challenge.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Reasonable Expectations: A Tool Within the Ambiguity Framework, Not Above It
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California recognizes the reasonable-expectations doctrine, but in a more limited
+        form than some other states. In California, reasonable expectations help resolve
+        which of two reasonable readings of <em>ambiguous</em> language should govern. The
+        doctrine does <strong>not</strong> override clear, unambiguous policy language, no
+        matter how surprising the result feels to the insured. See <em>Bank of the West</em>{' '}
+        (1992) 2 Cal.4th 1254; and the discussion in{' '}
+        <Link href="/resources/reasonable-expectations-doctrine" className="text-[#2E74B5] underline">
+          our reasonable expectations doctrine article
+        </Link>{' '}
+        for how this plays out in practice.
+      </p>
+
+      <CalloutBox variant="info" title="How These Rules Stack Up in a Coverage Fight">
+        <p>
+          When evaluating a denial, a useful mental sequence is:{' '}
+          <strong>(1)</strong> Is the policy language actually clear, taken in its ordinary
+          sense, in the context of the whole policy? If yes, that language likely controls.{' '}
+          <strong>(2)</strong> If the language is reasonably susceptible to more than one
+          interpretation, the carrier&apos;s reading is not the only one in the room.{' '}
+          <strong>(3)</strong> If the dispute is over an exclusion, the carrier has to
+          make the exclusion do the work conspicuously, plainly and clearly.{' '}
+          <strong>(4)</strong> If two reasonable readings remain, the one consistent with the
+          insured&apos;s reasonable expectations and with coverage will typically prevail.
+          How that mental sequence applies to a specific dispute is a question for an
+          attorney.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Key Takeaway
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Your insurance policy is only useful if you understand what it says. Request the full policy,
-        read every endorsement, and know whether you have an all-risk or named peril form. If you
-        are dealing with a claim and the policy language is confusing, consider consulting with
-        a <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> or
-        an attorney who specializes in insurance claims. The more you understand your policy, the
-        better positioned you will be to hold your insurance company to its promises.
+        Your insurance policy is only useful if you understand both what it says and how
+        California courts read it when the language is contested. Request the full policy,
+        read every endorsement, and know whether you have an all-risk or named peril form.
+        When a denial turns on policy language, the controlling rules are clear-language-
+        governs, ambiguity-against-the-insurer, and exclusions-strictly-construed. If you
+        are dealing with a claim and the policy language is confusing or the carrier&apos;s
+        interpretation looks strained, consider consulting with a{' '}
+        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link>{' '}
+        or an attorney who specializes in insurance claims. The more you understand your
+        policy and the rules that govern it, the better positioned you will be to hold the
+        insurance company to its promises.
       </p>
 
       <CalloutBox variant="legal" title="Important Notice">
