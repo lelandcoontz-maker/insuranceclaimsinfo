@@ -172,7 +172,7 @@ export default function Content() {
         Selling a Damaged Home: What Happens to the Insurance Claim?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is where assignments become critically important. If you sell a damaged property
+        This is where assignments become important. If you sell a damaged property
         while an insurance claim is still open, the buyer generally has{' '}
         <strong>no right</strong> to pursue that claim unless the seller formally assigns it.
         The insurance policy is a contract between the insurer and the original policyholder.

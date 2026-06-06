@@ -674,7 +674,7 @@ export default function Content() {
         a property when the policyholder has requested an inspection is significant evidence of an
         inadequate investigation. It is also the type of conduct that the CDI takes seriously in
         complaint proceedings. Your written demand and the carrier&apos;s written refusal create a
-        record that may be critically important later if the dispute escalates to appraisal,
+        record that may be important later if the dispute escalates to appraisal,
         mediation, or litigation.
       </p>
 

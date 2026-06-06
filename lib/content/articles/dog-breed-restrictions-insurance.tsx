@@ -270,7 +270,7 @@ export default function Content() {
         dog or the owner&rsquo;s knowledge of such viciousness.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is critically important. In many states, a &ldquo;one-bite rule&rdquo; gives
+        This is important. In many states, a &ldquo;one-bite rule&rdquo; gives
         the owner a defense if the dog had no prior bite history &mdash; the theory being
         that the owner had no reason to know the dog was dangerous. California has rejected
         this approach. Under strict liability, the dog owner is liable for the first bite,

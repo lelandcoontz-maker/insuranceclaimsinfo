@@ -27,7 +27,7 @@ export default function Content() {
         Insurance policies are legal contracts, and like all contracts, they depend on defined
         terms. Your policy has a definitions section &mdash; it tells you what &quot;insured,&quot;
         &quot;dwelling,&quot; &quot;occurrence,&quot; and other key words mean. But for every term
-        the policy defines, there are dozens of critically important words that the policy never
+        the policy defines, there are dozens of important words that the policy never
         defines at all.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

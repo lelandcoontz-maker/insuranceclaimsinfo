@@ -359,7 +359,7 @@ export default function Content() {
           12-month clock starts running. If the borrower does not return to the property within
           12 months, the servicer may declare the loan due and payable based on the occupancy
           requirement &mdash; regardless of whether the property loss triggered the 60% damage
-          threshold. This makes repair timelines critically important for HECM borrowers. Every
+          threshold. This makes repair timelines important for HECM borrowers. Every
           month of delay in the insurance claim process is a month closer to an occupancy
           violation. For more on how the{' '}
           <Link href="/resources/where-you-reside-exclusion" className="text-[#2E74B5] hover:underline">
@@ -734,7 +734,7 @@ export default function Content() {
         value &mdash; not the full loan balance. The FHA insurance covers the difference.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is critically important in a total loss scenario. If the home is destroyed and the
+        This is important in a total loss scenario. If the home is destroyed and the
         insurance proceeds are not sufficient to both repay the HECM and rebuild, the borrower
         cannot be pursued for the deficiency. The servicer can take the property (or the insurance
         proceeds up to the property&rsquo;s value), but the borrower does not owe anything beyond

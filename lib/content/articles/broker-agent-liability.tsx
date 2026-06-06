@@ -78,7 +78,7 @@ export default function Content() {
         court recognized that when an insurance agent holds themselves out as an expert or
         specialist, the agent assumes a heightened duty of care — they must use the degree of skill
         and care that a reasonably prudent specialist in that field would exercise. This is
-        critically important for homeowners in wildfire-prone areas. If your broker marketed
+        important for homeowners in wildfire-prone areas. If your broker marketed
         themselves as a property insurance specialist, a wildfire coverage expert, or a high-value
         home specialist, they assumed a higher standard than a general insurance agent.
       </p>
@@ -285,7 +285,7 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="The Discovery Rule">
         <p>
-          The discovery rule is critically important in broker liability cases. The statute of
+          The discovery rule is important in broker liability cases. The statute of
           limitations does not begin to run until the policyholder discovers, or reasonably
           should have discovered, the injury. For most policyholders, the coverage gap is not
           discoverable until a loss occurs and the insurer pays less than expected. A homeowner

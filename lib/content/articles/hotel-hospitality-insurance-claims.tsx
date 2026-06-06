@@ -458,7 +458,7 @@ export default function Content() {
         </Link>{' '}
         pays for costs above and beyond normal operating expenses that the business incurs to
         continue operations during the period of restoration. For hotels, extra expense coverage
-        is critically important because there are often steps the hotel can take to maintain
+        is important because there are often steps the hotel can take to maintain
         revenue during repairs &mdash; but those steps cost money.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

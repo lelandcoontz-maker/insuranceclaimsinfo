@@ -359,7 +359,7 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Demand surge does not affect only the cost of repairs. It also affects the timeline for completing those repairs &mdash; and when the timeline extends, the policyholder&apos;s Additional Living Expense (ALE) or loss-of-use exposure increases proportionally. This is a critically important and frequently overlooked connection. (For a detailed discussion of construction timeline disputes and their impact on ALE, see <Link href="/resources/construction-timeline-disputes-ale" className="text-[#2E74B5] underline">Construction Timeline Disputes and ALE</Link>.)
+        Demand surge does not affect only the cost of repairs. It also affects the timeline for completing those repairs &mdash; and when the timeline extends, the policyholder&apos;s Additional Living Expense (ALE) or loss-of-use exposure increases proportionally. This is a important and frequently overlooked connection. (For a detailed discussion of construction timeline disputes and their impact on ALE, see <Link href="/resources/construction-timeline-disputes-ale" className="text-[#2E74B5] underline">Construction Timeline Disputes and ALE</Link>.)
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

@@ -168,7 +168,7 @@ export default function Content() {
         The Documentation Nightmare
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Documentation is critically important in any insurance claim. In overlapping claims, it is the difference between getting paid and getting denied. The fundamental challenge is establishing the condition of the property at each point in the sequence: before the first event, after the first event but before the second, and after the second event. Without this evidence, the carrier controls the narrative.
+        Documentation is important in any insurance claim. In overlapping claims, it is the difference between getting paid and getting denied. The fundamental challenge is establishing the condition of the property at each point in the sequence: before the first event, after the first event but before the second, and after the second event. Without this evidence, the carrier controls the narrative.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

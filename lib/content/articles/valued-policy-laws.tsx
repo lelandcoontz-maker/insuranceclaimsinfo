@@ -299,7 +299,7 @@ export default function Content() {
           <Link href="/resources/replacement-cost-vs-guaranteed" className="text-[#2E74B5] underline">
             replacement cost or guaranteed replacement cost
           </Link>{' '}
-          endorsements critically important.
+          endorsements important.
         </p>
       </CalloutBox>
 

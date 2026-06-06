@@ -543,7 +543,7 @@ export default function Content() {
         However, if the bad faith damages include an amount that effectively compensates the
         policyholder for the policy benefits that should have been paid in the first place,
         that component may retain its character as non-taxable indemnification. The allocation
-        of a bad faith settlement or judgment between these categories is critically important
+        of a bad faith settlement or judgment between these categories is important
         and should be carefully structured with the input of both the policyholder&apos;s
         attorney and tax advisor.
       </p>

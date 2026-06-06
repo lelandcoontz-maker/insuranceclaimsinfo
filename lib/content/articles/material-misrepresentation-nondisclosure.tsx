@@ -204,7 +204,7 @@ export default function Content() {
         The Intent Element: Does It Matter Whether the Policyholder Meant to Deceive?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is where California law becomes critically important for policyholders &mdash; and
+        This is where California law becomes important for policyholders &mdash; and
         where the distinction between different types of insurance policies can determine whether
         coverage survives.
       </p>

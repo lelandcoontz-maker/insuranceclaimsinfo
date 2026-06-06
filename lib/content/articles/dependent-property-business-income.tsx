@@ -139,7 +139,7 @@ export default function Content() {
         products, the resulting drop in your income is the coverage trigger.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This category is critically important for businesses with concentrated customer bases.
+        This category is important for businesses with concentrated customer bases.
         If 70 percent of your output goes to a single buyer and that buyer&rsquo;s warehouse
         burns down, you lose 70 percent of your revenue even though your own operations are
         fully functional. Examples include:

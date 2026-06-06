@@ -421,7 +421,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         These are not separate policy types but rather endorsements that modify the loss settlement
-        provisions of an existing policy. They are critically important, and the difference
+        provisions of an existing policy. They are important, and the difference
         between having one and not having one can amount to hundreds of thousands of dollars after
         a major loss.
       </p>

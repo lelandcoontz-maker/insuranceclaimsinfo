@@ -235,7 +235,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the exclusion that carriers rely on most heavily in water damage claims, and
-        it is critically important to understand how it differs from the 14-day discovery
+        it is important to understand how it differs from the 14-day discovery
         endorsement. They are <strong>two different provisions</strong>, and carriers routinely
         conflate them.
       </p>

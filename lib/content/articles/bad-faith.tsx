@@ -406,7 +406,7 @@ export default function Content() {
         </Link>&apos;s
         primary objective is to obtain all the money that is due to the policyholder under the
         insurance contract. That is the job — maximize the contractual recovery. But in the course
-        of doing that job, a skilled Public Adjuster performs another critically important
+        of doing that job, a skilled Public Adjuster performs another important
         function: <strong>documenting the insurer&apos;s conduct</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

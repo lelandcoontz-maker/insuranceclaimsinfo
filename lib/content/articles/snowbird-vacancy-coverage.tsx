@@ -308,7 +308,7 @@ export default function Content() {
           Minneapolis policy renews in February while you are in Scottsdale &mdash; the
           endorsement may not protect you. You were not &ldquo;residing&rdquo; at the
           Minneapolis home on the inception date. This makes the <strong>policy renewal
-          date</strong> critically important for snowbirds. Work with your agent to ensure
+          date</strong> important for snowbirds. Work with your agent to ensure
           your northern home&rsquo;s policy renews during the months you are actually present
           at that home.
         </p>

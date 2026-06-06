@@ -493,7 +493,7 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         The practical effect of <em>Moradi-Shalal</em> is not that 790.03 is meaningless — far from
-        it. The statute remains critically important because:
+        it. The statute remains important because:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

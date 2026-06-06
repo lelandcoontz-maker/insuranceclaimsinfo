@@ -541,7 +541,7 @@ export default function Content() {
         after the 2025 fires.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The permit backlog is critically important for insurance purposes because:
+        The permit backlog is important for insurance purposes because:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
