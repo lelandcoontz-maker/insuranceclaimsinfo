@@ -415,7 +415,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        And yet, when an individual policyholder submits a claim that includes demand surge, the same carrier that modeled for it, priced for it, and reinsured for it may resist paying it on the individual claim. It is worth noting this disconnect in any formal demand or dispute letter. A carrier cannot credibly argue that demand surge is speculative or unsubstantiated when the carrier&apos;s own actuarial models quantify it and the carrier&apos;s own reinsurance treaties price for it.
+        And yet, when an individual policyholder submits a claim that includes demand surge, the same carrier that modeled for it, priced for it, and reinsured for it may resist paying it on the individual claim. Surface this disconnect in any formal demand or dispute letter. A carrier cannot credibly argue that demand surge is speculative or unsubstantiated when the carrier&apos;s own actuarial models quantify it and the carrier&apos;s own reinsurance treaties price for it.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

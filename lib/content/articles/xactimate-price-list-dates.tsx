@@ -257,7 +257,7 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth emphasizing what Verisk itself says about the accuracy of its pricing data, because carriers often treat Xactimate prices as gospel while Verisk itself does not.
+        Carriers often treat Xactimate prices as gospel while Verisk itself does not. What Verisk says about the accuracy of its own pricing data matters here.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -371,7 +371,7 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth noting how the three-bid demand often intersects with carrier{' '}
+        The three-bid demand often intersects with carrier{' '}
         <Link href="/resources/preferred-contractor-conflict-of-interest" className="text-[#2E74B5] underline">
           preferred vendor programs
         </Link>. Here is a pattern that repeats across carriers and claim types: the policyholder

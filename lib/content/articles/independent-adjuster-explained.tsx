@@ -116,7 +116,7 @@ export default function Content() {
         adjuster is your advocate. An independent adjuster is the carrier&apos;s contractor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is worth emphasizing this point because the terminology creates genuine confusion. Many
+        The terminology creates genuine confusion. Many
         policyholders assume that the &ldquo;independent&rdquo; adjuster sent by their insurance
         company is somehow neutral or objective &mdash; a third party who will give a fair assessment.
         Some policyholders even confuse independent adjusters with public adjusters, assuming that
