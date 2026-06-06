@@ -55,9 +55,11 @@ export default function Content() {
         <li>
           <strong>Proposition 103 and rate regulation.</strong> Under Prop 103 (1988), California
           insurers must get prior approval from the Department of Insurance before raising rates.
-          They cannot use catastrophe models to project future losses — they can only base rates on
-          historical loss data. Insurers argue this prevents them from pricing risk accurately in
-          an era of accelerating climate-driven losses.
+          Historically, they could not use catastrophe models to project future losses and had to
+          base rates on historical loss data &mdash; a framework insurers argued prevented them
+          from pricing risk accurately in an era of accelerating climate-driven losses. (Insurance
+          Commissioner Lara&apos;s late-2023 Sustainable Insurance Strategy began relaxing this
+          restriction, but implementation has been gradual; see below.)
         </li>
         <li>
           <strong>Rising construction costs.</strong> Rebuilding costs in California have surged due
