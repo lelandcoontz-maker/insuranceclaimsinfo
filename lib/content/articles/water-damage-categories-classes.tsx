@@ -904,7 +904,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Water that has been sitting in fire sprinkler lines for months or years is not clean
-        water, despite the fact that it entered the system as potable water from the supply
+        water, although it entered the system as potable water from the supply
         line. Stagnant sprinkler water is typically discolored, foul-smelling, and contains
         elevated bacterial counts from the extended period of stagnation in the piping. The
         IICRC S500 specifically addresses this: water from fire sprinkler systems may be

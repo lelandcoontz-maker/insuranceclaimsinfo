@@ -247,7 +247,7 @@ export default function Content() {
         Why Insurance Companies Sometimes Resist
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Despite the fact that assignments are legal and common, insurance companies sometimes
+        Although assignments are legal and common, insurance companies sometimes
         become confused or resistant when a new party appears on the claim after a home sale.
         The adjuster may not be comfortable placing another party&rsquo;s name on the check.
         The company may question the legitimacy of the transaction or create unnecessary
