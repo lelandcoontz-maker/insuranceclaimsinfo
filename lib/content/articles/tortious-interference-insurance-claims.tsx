@@ -697,7 +697,7 @@ export default function Content() {
           insurance bad faith
         </Link>{' '}
         claims. A carrier that deliberately interferes with a policyholder&apos;s contractor
-        relationship in order to reduce its indemnity obligation is, by definition, not acting in
+        relationship to reduce its indemnity obligation is, by definition, not acting in
         good faith toward its insured. The same conduct that supports a tortious interference claim
         often supports a bad faith claim as well, and the two causes of action can reinforce each
         other.

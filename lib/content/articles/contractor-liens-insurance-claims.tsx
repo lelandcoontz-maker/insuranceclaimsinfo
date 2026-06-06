@@ -153,7 +153,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A preliminary notice is <em>not</em> a lien. It is not a threat to file a lien. It is a
-        legally required notification that certain parties must serve in order to preserve their
+        legally required notification that certain parties must serve to preserve their
         right to file a lien later if they are not paid. Think of it as a &ldquo;heads up&rdquo;
         to the property owner that someone is providing labor or materials to the project and
         wants the owner to know they exist.

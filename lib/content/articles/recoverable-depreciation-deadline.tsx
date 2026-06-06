@@ -104,7 +104,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Section 2051.5(b)(1) provides that, for a non-emergency residential property claim, no time
         limit of less than 12 months from the date that the first payment toward the actual cash
-        value is made shall be placed upon an insured in order to collect the full replacement cost
+        value is made shall be placed upon an insured to collect the full replacement cost
         of the loss, subject to the policy limit. This is a floor, not a ceiling. If your policy
         provides a longer period &mdash; some policies allow 18 or 24 months &mdash; the longer
         policy period controls. But if your policy says 180 days or 6 months, the statute overrides

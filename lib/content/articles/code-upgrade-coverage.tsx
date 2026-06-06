@@ -583,7 +583,7 @@ export default function Content() {
           the building department that identifies all code requirements applicable to your repair.
           This written document from a governmental authority is the strongest possible evidence
           that the code upgrades are legally required &mdash; which is exactly what your insurer
-          needs to see in order to approve L&amp;O coverage. An email from the plan checker or
+          needs to see to approve L&amp;O coverage. An email from the plan checker or
           building official confirming code requirements carries more weight than any contractor
           estimate.
         </p>

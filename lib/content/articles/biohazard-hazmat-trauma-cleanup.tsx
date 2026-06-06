@@ -912,7 +912,7 @@ export default function Content() {
         that would be challenged more aggressively in other contexts. When a policyholder is
         grieving the violent death of a family member, they are less likely to scrutinize a
         settlement offer, less likely to retain professional help, and more likely to accept
-        whatever the carrier says in order to make the process end. Carriers know this.
+        whatever the carrier says to make the process end. Carriers know this.
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

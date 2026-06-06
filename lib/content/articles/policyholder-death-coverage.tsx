@@ -584,7 +584,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowner policies require the insured to actually repair or replace the damaged
         property within a specified period &mdash; often 12 or 24 months from the date of the
-        actual cash value payment &mdash; in order to collect the replacement cost holdback.
+        actual cash value payment &mdash; to collect the replacement cost holdback.
         The policyholder&rsquo;s death does not automatically extend this deadline. If the
         estate intends to rebuild or repair the property, the legal representative must ensure
         that work begins and is completed within the policy&rsquo;s timeframe, or request

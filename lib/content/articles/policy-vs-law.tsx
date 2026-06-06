@@ -350,7 +350,7 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the law says:</strong> California Insurance Code &sect; 2051.5 provides that
           &ldquo;a time limit of less than 12 months from the date that the first payment toward the
-          actual cash value is made shall not be placed on an insured in order to collect the full
+          actual cash value is made shall not be placed on an insured to collect the full
           replacement cost of the loss.&rdquo; The insurer must provide additional
           extensions of six months &ldquo;for good cause&rdquo; if the insured, acting in good
           faith and with reasonable diligence, encounters delays beyond their control &mdash;

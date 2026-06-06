@@ -38,7 +38,7 @@ export default function Content() {
         At the statutory level, California Insurance Code &sect;2061(a)(1) requires insurers to advance no less than four months of Additional Living Expenses (ALE) upon the insured&rsquo;s request when a total loss results from a declared state of emergency. The insured does not need to submit receipts first. The insured does not need to prove what they have &ldquo;incurred.&rdquo; The advance is mandatory.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        At the regulatory level, 10 CCR &sect;2695.7(h) prohibits insurers from delaying or failing to pay undisputed amounts in order to influence the settlement of disputed portions of a claim. This rule applies to every line of insurance and every type of loss &mdash; not just declared disasters. If the carrier acknowledges that some amount is owed but disputes how much, the undisputed portion must be paid promptly while the dispute over the remainder continues separately.
+        At the regulatory level, 10 CCR &sect;2695.7(h) prohibits insurers from delaying or failing to pay undisputed amounts to influence the settlement of disputed portions of a claim. This rule applies to every line of insurance and every type of loss &mdash; not just declared disasters. If the carrier acknowledges that some amount is owed but disputes how much, the undisputed portion must be paid promptly while the dispute over the remainder continues separately.
       </p>
 
       <CalloutBox variant="info" title="The Practical Effect">
@@ -54,7 +54,7 @@ export default function Content() {
         California&rsquo;s Fair Claims Settlement Practices Regulations, codified at 10 CCR &sect;2695.7, establish detailed requirements for how insurers must handle claims. Subdivision (h) is the provision most directly relevant to advance and partial payments:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;No insurer shall delay or fail to pay undisputed amounts due to the insured in order to influence or coerce the settlement of a disputed portion of a claim.&rdquo;
+        &ldquo;No insurer shall delay or fail to pay undisputed amounts due to the insured to influence or coerce the settlement of a disputed portion of a claim.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         This regulation does several things simultaneously. It prohibits using the undisputed money as leverage. It requires that the undisputed amount be paid even while the disputed portion is being negotiated. And it establishes that withholding undisputed funds &mdash; for any reason, including the carrier&rsquo;s desire to resolve the entire claim in a single payment &mdash; violates California regulatory law.

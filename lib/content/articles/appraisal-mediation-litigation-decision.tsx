@@ -285,7 +285,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Experienced practitioners know that some carriers have developed a pattern of recasting what
         are really underpayment disputes as &ldquo;coverage&rdquo; or &ldquo;causation&rdquo;
-        disputes in order to avoid the appraisal process. When an insurer claims that damage is
+        disputes to avoid the appraisal process. When an insurer claims that damage is
         &ldquo;pre-existing&rdquo; or &ldquo;not caused by the claimed event&rdquo; but the physical
         evidence clearly shows loss-related damage, the characterization may not hold up under
         scrutiny. This is one reason why documenting the actual condition of the property &mdash;

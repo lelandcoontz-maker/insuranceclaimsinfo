@@ -105,7 +105,7 @@ export default function Content() {
         5. Removal Required for Drying (Consequential Damage)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In most water losses, the baseboards must be removed in order to dry the wall cavity behind
+        In most water losses, the baseboards must be removed to dry the wall cavity behind
         them. You cannot effectively dry a wall with the baseboards in place — the trapped moisture
         behind the baseboard creates conditions for mold growth and ongoing damage. This is where
         California&apos;s Fair Claims Settlement Practices regulations come into play.

@@ -202,7 +202,7 @@ export default function Content() {
         <p>
           <strong>Time Limit to Collect Full Replacement Cost:</strong> After a state of emergency, a
           policyholder will have a minimum of 36 months (from the date that the first actual cash
-          value payment is made) in order to collect the full replacement cost of the loss, subject to
+          value payment is made) to collect the full replacement cost of the loss, subject to
           the policy limits. Additional extensions of six months must be provided to policyholders for
           good cause (Cal. Ins. Code sections 2051.5[b][1] and [2]).
         </p>

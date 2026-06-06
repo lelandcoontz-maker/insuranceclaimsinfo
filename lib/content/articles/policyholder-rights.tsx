@@ -215,7 +215,7 @@ export default function Content() {
         <li>Fail to acknowledge and act promptly on your claim.</li>
         <li>Deny a claim without conducting a reasonable investigation.</li>
         <li>Offer substantially less than the reasonable value and force you to litigate.</li>
-        <li>Delay payment of undisputed amounts in order to influence settlement of disputed amounts.</li>
+        <li>Delay payment of undisputed amounts to influence settlement of disputed amounts.</li>
         <li>Require you to submit to unreasonable examinations or documentation demands.</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">

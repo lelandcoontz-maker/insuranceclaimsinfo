@@ -99,7 +99,7 @@ export default function Content() {
           <li>Failing, after payment of a claim, to inform insureds or beneficiaries, upon request by them, of the coverage under which payment has been made.</li>
           <li>Making known to insureds or claimants a practice of the insurer of appealing from arbitration awards in favor of insureds or claimants for the purpose of compelling them to accept settlements or compromises less than the amount awarded in arbitration.</li>
           <li>Delaying the investigation or payment of claims by requiring an insured, claimant, or the physician of either, to submit a preliminary claim report, and then requiring the subsequent submission of formal proof of loss forms, both of which submissions contain substantially the same information.</li>
-          <li>Failing to settle claims promptly, where liability has become apparent, under one portion of the insurance policy coverage in order to influence settlements under other portions of the insurance policy coverage.</li>
+          <li>Failing to settle claims promptly, where liability has become apparent, under one portion of the insurance policy coverage to influence settlements under other portions of the insurance policy coverage.</li>
           <li>Failing to provide promptly a reasonable explanation of the basis relied on in the insurance policy, in relation to the facts or applicable law, for the denial of a claim or for the offer of a compromise settlement.</li>
           <li>Directly advising a claimant not to obtain the services of an attorney.</li>
           <li>Misleading a claimant as to the applicable statute of limitations.</li>

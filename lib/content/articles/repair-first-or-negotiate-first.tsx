@@ -315,7 +315,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Most replacement cost policies require the policyholder to complete repairs within a
         specified period &mdash; typically twelve to twenty-four months from the date of loss,
-        depending on the policy &mdash; in order to collect the recoverable depreciation. If repairs
+        depending on the policy &mdash; to collect the recoverable depreciation. If repairs
         are not completed within this window, the depreciation holdback is forfeited permanently.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

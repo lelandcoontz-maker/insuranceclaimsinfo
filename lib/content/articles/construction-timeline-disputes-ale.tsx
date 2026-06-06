@@ -103,7 +103,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">California Insurance Code Section 790.03</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 790.03(h) lists 16 specific unfair claims settlement practices, several of which are directly relevant to ALE timeline disputes: failing to acknowledge and act reasonably promptly upon communications; not attempting in good faith to effectuate prompt, fair, and equitable settlements where liability is clear; failing to settle claims promptly under one coverage in order to influence settlements under other coverages; and delaying investigation or payment through duplicative or unnecessary requirements.
+        Section 790.03(h) lists 16 specific unfair claims settlement practices, several of which are directly relevant to ALE timeline disputes: failing to acknowledge and act reasonably promptly upon communications; not attempting in good faith to effectuate prompt, fair, and equitable settlements where liability is clear; failing to settle claims promptly under one coverage to influence settlements under other coverages; and delaying investigation or payment through duplicative or unnecessary requirements.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a carrier projects an unrealistic construction timeline, denies extensions based on that projection, and delays supplemental claim payments that contribute to construction delays, it risks violating multiple provisions of Section 790.03.

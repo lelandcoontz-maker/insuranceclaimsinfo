@@ -47,7 +47,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A week goes by. Maybe two. Then you get an email or a letter: &ldquo;Thank you for your
         submission. After reviewing the materials you provided, we require the following additional
-        documentation in order to continue processing your claim...&rdquo;
+        documentation to continue processing your claim...&rdquo;
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

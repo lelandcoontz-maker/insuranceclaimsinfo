@@ -238,7 +238,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         &ldquo;Moral hazard&rdquo; is the insurance industry&rsquo;s term for the risk that an
-        insured will cause or allow a loss in order to collect insurance proceeds. Insurers
+        insured will cause or allow a loss to collect insurance proceeds. Insurers
         sometimes raise moral hazard arguments in hoarding cases, suggesting that the
         policyholder allowed conditions to deteriorate to the point where a loss was inevitable,
         or that the policyholder had a financial incentive to let the property be destroyed
@@ -608,7 +608,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Hoarding is a condition of the insured, not an intentional act. The insured did not
-        accumulate possessions in order to increase fire risk or create an insurance hazard.
+        accumulate possessions to increase fire risk or create an insurance hazard.
         They accumulated possessions because a psychiatric condition made it impossible for them
         to discard items. Treating hoarding as a coverage-voiding condition is analogous to
         treating a mobility-impaired person&rsquo;s inability to maintain their home as grounds

@@ -225,7 +225,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>&quot;Dear [Adjuster Name], Thank you for providing the Xactimate estimate for Claim No. [number]. In order to fully evaluate the estimate and compare it against the actual scope of repairs, I am requesting the native Xactimate ESX file for this estimate. Please provide the ESX file in its original .esx format, not as a PDF or any other derivative format. This request includes all versions of the estimate, including any supplements, revisions, or internal working copies. Pursuant to California Insurance Code Section 2071 and 10 CCR Section 2695.7, please provide this file within fifteen calendar days of this request. Thank you for your prompt attention to this matter.&quot;</em>
+        <em>&quot;Dear [Adjuster Name], Thank you for providing the Xactimate estimate for Claim No. [number]. To fully evaluate the estimate and compare it against the actual scope of repairs, I am requesting the native Xactimate ESX file for this estimate. Please provide the ESX file in its original .esx format, not as a PDF or any other derivative format. This request includes all versions of the estimate, including any supplements, revisions, or internal working copies. Pursuant to California Insurance Code Section 2071 and 10 CCR Section 2695.7, please provide this file within fifteen calendar days of this request. Thank you for your prompt attention to this matter.&quot;</em>
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

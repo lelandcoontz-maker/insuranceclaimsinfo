@@ -727,7 +727,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Chaney v. Allstate Indemnity Co.</em> (Ill. App. 2017):</strong>{' '}
         Allstate&rsquo;s policy required the insured to repair, replace, or rebuild the dwelling
-        within 180 days of receiving the actual cash value payment in order to recover replacement
+        within 180 days of receiving the actual cash value payment to recover replacement
         cost benefits. The insured missed the deadline.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
