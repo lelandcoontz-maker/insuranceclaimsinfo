@@ -105,8 +105,8 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Catastrophe Claims and Rate Increases Are Different Things">
         <p>
-          It is critical to distinguish between an individual surcharge based on a claim and a
-          general rate increase affecting all policyholders. After a major catastrophe, insurers
+          An individual surcharge based on a claim is different from a general rate increase
+          affecting all policyholders. After a major catastrophe, insurers
           often seek rate increases that affect everyone in a geographic area &mdash; including
           policyholders who did not file claims. These general rate increases reflect the
           insurer&rsquo;s overall loss experience in the area and are separate from individual

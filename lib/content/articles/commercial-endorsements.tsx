@@ -169,10 +169,10 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is critical to understand that CP&nbsp;04&nbsp;15 covers only <em>direct physical
-        damage</em> to covered property. It does <strong>not</strong> cover business income loss or
-        extra expense resulting from the utility interruption. For time element coverage, you need
-        the companion endorsement &mdash; CP&nbsp;15&nbsp;45.
+        CP&nbsp;04&nbsp;15 covers only <em>direct physical damage</em> to covered property.
+        It does <strong>not</strong> cover business income loss or extra expense resulting from
+        the utility interruption. For time element coverage, you need the companion
+        endorsement &mdash; CP&nbsp;15&nbsp;45.
       </p>
 
       {/* ============================================================ */}

@@ -106,8 +106,8 @@ export default function Content() {
         Individual Underinsurance vs. Systematic Underinsurance
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to distinguish between individual underinsurance and the systematic
-        variety. Individual underinsurance results from a specific policyholder&rsquo;s
+        Individual underinsurance is different from systematic underinsurance.
+        Individual underinsurance results from a specific policyholder&rsquo;s
         choices or circumstances &mdash; declining recommended coverage amounts, failing to
         report renovations, or selecting a lower limit to reduce premium. In those situations,
         the policyholder bears meaningful responsibility for the coverage gap.

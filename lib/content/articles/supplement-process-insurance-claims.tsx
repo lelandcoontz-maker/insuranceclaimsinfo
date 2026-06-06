@@ -924,7 +924,7 @@ export default function Content() {
         to limited grounds for challenge in court).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to note that appraisal addresses the amount of loss, not coverage
+        Appraisal addresses the amount of loss, not coverage
         questions. If the carrier is denying a supplement item on coverage grounds &mdash;
         arguing that the damage is not covered by the policy, rather than disputing the cost
         of the repair &mdash; appraisal may not be the appropriate mechanism, and litigation

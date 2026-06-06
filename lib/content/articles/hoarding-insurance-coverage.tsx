@@ -1055,8 +1055,8 @@ export default function Content() {
         The Insurer&rsquo;s Right to Non-Renew: A Different Issue Entirely
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to distinguish between coverage for a loss that has already occurred
-        and the insurer&rsquo;s prospective right to non-renew a policy. An insurer that
+        Coverage for a loss that has already occurred is separate from the insurer&rsquo;s
+        prospective right to non-renew the policy. An insurer that
         discovers hoarding during a claim investigation may choose to non-renew the policy at
         the end of the current policy period. That is the insurer&rsquo;s prerogative &mdash;
         it can decline to continue the relationship going forward. But non-renewal of a future

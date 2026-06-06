@@ -396,8 +396,7 @@ export default function Content() {
         The Limits of the Doctrine in California
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to be honest about what the doctrine cannot do in California. The
-        following situations are ones where the doctrine will likely not help:
+        The doctrine has limits. It will likely not help in these situations:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

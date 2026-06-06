@@ -1238,8 +1238,8 @@ export default function Content() {
         Life Estates vs. Trust Arrangements
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to distinguish a life estate created by deed from a trust arrangement
-        that gives a beneficiary the right to occupy property. In a life estate by deed, the
+        A life estate created by deed is different from a trust arrangement that gives a
+        beneficiary the right to occupy property. In a life estate by deed, the
         life tenant holds legal title to a possessory interest. In a trust, the trust holds
         legal title, and the beneficiary holds an equitable interest. The insurance implications
         are similar but not identical. With a trust, the named insured should generally be the

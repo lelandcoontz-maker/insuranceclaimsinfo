@@ -420,8 +420,7 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to be precise about where the line is. Insurance carriers have legitimate
-        rights in the claims process. A carrier has the right to disagree with the amount of a
+        Insurance carriers have legitimate rights in the claims process. A carrier has the right to disagree with the amount of a
         claim. A carrier has the right to obtain its own estimate. A carrier has the right to
         request documentation supporting the policyholder&apos;s claimed repair costs. A carrier
         has the right to invoke the appraisal clause in the policy if the parties cannot agree on

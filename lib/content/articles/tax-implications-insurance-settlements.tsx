@@ -202,9 +202,8 @@ export default function Content() {
         Business Property Damage vs. Business Income: A Critical Distinction
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is critical to understand that a commercial claim often includes both property damage
-        payments (not taxable up to the adjusted basis) and business income payments (fully
-        taxable). How the settlement is allocated between these categories has major tax
+        A commercial claim often includes both property damage payments (not taxable up to the
+        adjusted basis) and business income payments (fully taxable). How the settlement is allocated between these categories has major tax
         consequences. When a settlement is structured as a lump sum without a clear breakdown,
         it is the policyholder&apos;s responsibility &mdash; ideally with the help of a tax
         professional &mdash; to allocate the proceeds appropriately. Maintaining good records

@@ -96,7 +96,7 @@ export default function Content() {
         vacancy but may reduce the amount payable by 15 percent.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is critical to understand that the vacancy clause does not eliminate <em>all</em> coverage.
+        The vacancy clause does not eliminate <em>all</em> coverage.
         It eliminates coverage for <em>specific perils</em>. Policyholders and adjusters alike
         sometimes mistakenly treat the vacancy clause as a blanket coverage exclusion, but that is
         not how the standard policy form is written. If your home was damaged by a windstorm while

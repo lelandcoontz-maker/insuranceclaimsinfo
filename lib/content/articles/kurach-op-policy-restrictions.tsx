@@ -157,7 +157,7 @@ export default function Content() {
         What Kurach Did <em>Not</em> Do
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is critical to understand what Kurach did not hold:
+        What Kurach did not hold:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Kurach did not overrule Gilderman or Mee.</strong> Both remain good law for policies that are <em>silent</em> on O&amp;P. If your policy does not contain explicit language excluding O&amp;P from ACV payments, the &ldquo;reasonably likely&rdquo; standard still applies in Pennsylvania.</li>

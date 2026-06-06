@@ -190,8 +190,7 @@ export default function Content() {
         Pre-Underwriting vs. Claims Investigation Surveillance
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to distinguish between the two primary contexts in which insurers use
-        aerial surveillance:
+        Insurers use aerial surveillance in two primary contexts:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Pre-underwriting and renewal surveillance</strong> occurs before or during the
