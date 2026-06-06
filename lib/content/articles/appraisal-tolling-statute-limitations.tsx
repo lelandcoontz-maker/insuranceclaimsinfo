@@ -134,10 +134,15 @@ export default function Content() {
         in the insurance context. The California Supreme Court in{' '}
         <em>Prudential-LMI Commercial Ins. v. Superior Court</em> (1990) 51 Cal.3d 674
         established that the one-year suit limitation is tolled while the insurer is actively
-        investigating and adjusting the claim. The rationale is that a policyholder who is
-        cooperating with the insurer&apos;s process should not be penalized because that
-        process consumes time. The insurer should not benefit from time consumed by its own
-        handling of the claim.
+        investigating and adjusting the claim. Subsequent decisions including{' '}
+        <em>Singh v. Allstate Ins. Co.</em> (1998) 63 Cal.App.4th 135,{' '}
+        <em>Marselis v. Allstate Ins. Co.</em> (2004) 121 Cal.App.4th 122,{' '}
+        <em>Doheny Park Terrace Homeowners Assn. v. Truck Ins. Exchange</em> (2005) 132
+        Cal.App.4th 1076, and <em>Ashou v. Liberty Mutual Fire Ins. Co.</em> (2006) 138
+        Cal.App.4th 748 applied and refined the doctrine in the first-party insurance
+        context. The rationale is that a policyholder who is cooperating with the
+        insurer&apos;s process should not be penalized because that process consumes time.
+        The insurer should not benefit from time consumed by its own handling of the claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If equitable tolling applies during the insurer&apos;s investigation, the argument
@@ -146,8 +151,22 @@ export default function Content() {
         policyholder&apos;s perspective, there is no meaningful difference between waiting for
         the insurer to finish investigating the claim and waiting for the appraisal panel to
         issue an award. In both cases, the policyholder is pursuing the remedy the policy
-        provides and should not be penalized for the time it takes.
+        provides and should not be penalized for the time it takes. Whether the case-specific
+        tolling endpoint can be drawn at the close of appraisal rather than the close of
+        adjustment is a question California courts have not squarely resolved.
       </p>
+      <CalloutBox variant="warning" title="Two §2071 Deadlines, Not Just One">
+        <p>
+          A common mistake when running this analysis is to think of &sect;&nbsp;2071 as a
+          flat 12-month clock. For residential losses related to a state of emergency declared
+          by the Governor under Government Code &sect;&nbsp;8558(b), &sect;&nbsp;2071 extends
+          the suit-limitation period from 12 months to <strong>24 months</strong>. The
+          24-month extension lives in &sect;&nbsp;2071 itself, triggered by the &sect;&nbsp;8558(b)
+          declaration. Before assuming the 12-month clock controls, confirm whether the loss
+          is connected to a declared state of emergency &mdash; for the 2025 Los Angeles
+          wildfires and similar events, the longer clock applies.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         2. The Insurer&apos;s Participation Implies Waiver

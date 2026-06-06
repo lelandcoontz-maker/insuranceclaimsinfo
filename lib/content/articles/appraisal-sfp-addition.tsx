@@ -87,16 +87,29 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s appraisal provision is rooted in the same statutory framework &mdash; California Insurance Code Sections 2070 and 2071, which codify the state&apos;s Standard Fire Policy. While California courts have developed their own body of appraisal law (including the Sharma waiver doctrine and the placement of appraisal under the procedural framework of the California Arbitration Act, CCP Sections 1280&ndash;1294.2), the principle is the same: the statutory appraisal provision sets a floor.
+        California&apos;s appraisal provision is rooted in the same statutory framework &mdash; California Insurance Code Sections 2070 and 2071, which codify the state&apos;s Standard Fire Policy. California courts have developed their own body of appraisal law: <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818 and <em>Klubnikin v. California Fair Plan Assn.</em> (1978) 84 Cal.App.3d 393 place insurance appraisal under the procedural framework of the California Arbitration Act (CCP Sections 1280&ndash;1294.2); <em>Safeco Ins. Co. v. Sharma</em> (1984) 160 Cal.App.3d 1060 and <em>Kacha v. Allstate Ins. Co.</em> (2006) 140 Cal.App.4th 1023 set out the scope-of-appraisal waiver doctrine; <em>Lee v. California Capital Ins. Co.</em> (2015) 237 Cal.App.4th 1154 addresses the panel&apos;s authority over extent of damage versus causation. The through-line is consistent: the statutory appraisal provision sets a floor that the insurer&apos;s policy form cannot drop below.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        When your insurer imposes conditions on the appraisal process that are not found in the statute &mdash; documentation prerequisites, restrictions on what can be appraised, procedural hoops designed to delay or discourage the process &mdash; those conditions may be unenforceable if they reduce your appraisal rights below the statutory minimum.
+        When an insurer imposes conditions on the appraisal process that are not found in the statute &mdash; documentation prerequisites, restrictions on what can be appraised, procedural hoops designed to delay or discourage the process &mdash; those conditions may be unenforceable if they reduce appraisal rights below the statutory minimum. Whether a specific policy condition crosses that line is a question for an attorney to evaluate on the specific facts.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The lesson from <em>Hart</em> and <em>Haddock</em> applies broadly: read your policy&apos;s appraisal provision, compare it to the statutory standard, and push back when your insurer adds conditions that the legislature never authorized.
+        The lesson from <em>Hart</em> and <em>Haddock</em> applies broadly, even though both are Michigan federal decisions interpreting Michigan&apos;s SFP statute: read the appraisal provision in the actual policy, compare it to the statutory standard, and where the policy adds conditions the legislature never authorized, those conditions are at least worth questioning. Persuasive authority from another SFP state is not binding on California courts, but the structural logic &mdash; that the statutory floor governs &mdash; is the same.
       </p>
+
+      <CalloutBox variant="warning" title="One Important §2071 Carve-Out">
+        <p>
+          California&apos;s &sect;&nbsp;2071 contains a government-disaster exception that
+          is easy to miss. For residential property losses related to a state of emergency
+          declared by the Governor under Government Code &sect;&nbsp;8558(b), the statute
+          provides that appraisal &ldquo;may be requested by either party but shall not be
+          compelled.&rdquo; In other words, after a declared disaster, neither side can force
+          the other into appraisal; appraisal becomes optional and bilateral. Any analysis of
+          California &sect;&nbsp;2071 appraisal rights in the wildfire or earthquake context
+          should account for this provision.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Sources &amp; Further Reading
