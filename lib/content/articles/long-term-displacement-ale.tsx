@@ -390,11 +390,13 @@ export default function Content() {
           interrupted by the covered loss.
         </li>
         <li>
-          <strong>ISO endorsement HO 06 48:</strong> Since 2015, the mandatory ISO endorsement
-          HO 06 48 evaluates the residency requirement only at the inception of the policy
-          period. If the policyholder was residing at the property when the policy last incepted
-          (before the fire), the residence premises definition is satisfied for that entire
-          policy period.
+          <strong>ISO endorsement HO 06 48:</strong> Since 2015, the widely-adopted ISO
+          endorsement HO 06 48 evaluates the residency requirement only at the inception of
+          the policy period. Where the policy in question incorporates HO 06 48, residency at
+          the time of policy inception (before the fire) satisfies the residence-premises
+          definition for that entire policy period &mdash; but coverage turns on the specific
+          policy language, which an insured should confirm by reading the policy or asking the
+          carrier.
         </li>
         <li>
           <strong>Estoppel:</strong> The insurer has been paying ALE &mdash; which exists solely
