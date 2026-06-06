@@ -219,7 +219,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           A licensed Public Adjuster works for you — not the insurance company and not a
-          contractor. We can help you navigate the claims process, vet contractors, and protect
+          contractor. We can help you handle the claims process, vet contractors, and protect
           you from bad actors.
         </p>
         <Link

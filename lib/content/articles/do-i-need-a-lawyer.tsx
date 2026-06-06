@@ -265,9 +265,6 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Decision Framework
       </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        To summarize:
-      </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Amount dispute, covered claim:</strong> Public Adjuster</li>
         <li><strong>Coverage denial:</strong> Attorney</li>

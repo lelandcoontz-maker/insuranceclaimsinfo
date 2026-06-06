@@ -270,7 +270,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The manufacturer of Colossus was not shy about this feature. Sales literature
-        published by CSC boasted that &ldquo;the program will immediately reduce the size
+        published by CSC advertised that &ldquo;the program will immediately reduce the size
         of bodily injury claims by up to 20 percent.&rdquo; This was not presented as a
         flaw. It was the selling point.
       </p>

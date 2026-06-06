@@ -858,7 +858,7 @@ export default function Content() {
       <p className="text-sm text-gray-500 italic">
         Leland Coontz is a California Licensed Public Adjuster who represents homeowners &mdash; not
         insurance companies &mdash; in property damage claims. If you&rsquo;ve experienced a fire loss
-        and need help navigating the claims process,{' '}
+        and need help handling the claims process,{' '}
         <Link href="/contact" className="text-[#2E74B5] underline">
           contact us
         </Link>{' '}

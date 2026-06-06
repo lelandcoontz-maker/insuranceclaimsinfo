@@ -56,7 +56,7 @@ export default function Content() {
         How Adjuster Reassignment Works in Practice
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a new adjuster takes over a claim, the transition rarely happens seamlessly. The
+        When a new adjuster takes over a claim, the transition usually drops things. The
         outgoing adjuster may or may not provide a detailed handoff. The claim file &mdash; which
         may include hundreds of pages of correspondence, inspection reports, estimates, photographs,
         engineering reports, and notes from phone conversations &mdash; is transferred to someone

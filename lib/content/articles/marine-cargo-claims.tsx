@@ -413,7 +413,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Most Public Adjusters come from a background in residential or commercial property
         damage &mdash; fires, floods, and storm losses. Very few have first-hand operational
-        experience in the world of international trade. A Public Adjuster who has worked as a
+        experience in international trade. A Public Adjuster who has worked as a
         licensed customs broker and freight forwarder brings capabilities that most adjusters
         simply cannot offer:
       </p>

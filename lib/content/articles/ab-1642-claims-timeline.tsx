@@ -33,7 +33,7 @@ export default function Content() {
         information. The result is that claims languish for months or years while policyholders
         wait for responses that should have arrived weeks ago. Understanding the statutory
         timelines &mdash; and holding insurers accountable to them &mdash; is one of the most
-        effective tools available to policyholders navigating the claims process.
+        effective tools available to policyholders handling the claims process.
       </p>
 
       <CalloutBox variant="important" title="These Deadlines Are Enforceable">

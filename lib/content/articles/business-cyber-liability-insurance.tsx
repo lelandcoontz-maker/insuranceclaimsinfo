@@ -495,7 +495,7 @@ export default function Content() {
         <p className="text-blue-100 text-sm mb-4">
           Cyber claims involve time-sensitive notification requirements, forensic preservation
           obligations, and complex coverage questions that carriers exploit to minimize payments.
-          A Licensed Public Adjuster can navigate the claims process, challenge sublimit
+          A Licensed Public Adjuster can handle the claims process, challenge sublimit
           applications, and ensure your business recovers the full protection your cyber policy
           provides.
         </p>
