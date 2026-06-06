@@ -206,7 +206,7 @@ export default function Content() {
           <Link href="/resources/matching" className="text-sky-700 underline hover:text-sky-900">
             complete guide to matching
           </Link>{' '}
-          for a deep dive into how to maximize your claim when partial repairs create a visible
+          for a detailed guide to how to maximize your claim when partial repairs create a visible
           mismatch.
         </p>
       </CalloutBox>

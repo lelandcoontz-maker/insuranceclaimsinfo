@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Roofing Systems and Materials: A Deep Dive for Insurance Claims',
+  title: 'Roofing Systems and Materials: A Detailed Guide for Insurance Claims',
   description:
     'Technical guide to roofing types — TPO, EPDM, metal, asphalt shingles, and wood shake — and the claim issues each creates. California Title 24 cool roof requirements, multiple layers, space decking conversions, and solar panel complications.',
   summary:

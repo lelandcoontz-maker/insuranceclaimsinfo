@@ -1125,7 +1125,7 @@ export default function Content() {
           <Link href="/resources/insurable-interest" className="text-[#2E74B5] underline">
             Insurable Interest and Life Estates
           </Link>{' '}
-          &mdash; Deep dive into insurable interest valuation, including actuarial and
+          &mdash; Detailed guide to insurable interest valuation, including actuarial and
           financial calculations when the named insured holds only a partial interest.
         </li>
         <li>

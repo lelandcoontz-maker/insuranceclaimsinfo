@@ -610,7 +610,7 @@ export default function Content() {
         matters enormously to the policyholder.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a deep dive into the legal and practical dimensions of this issue &mdash; including the
+        For a detailed guide to the legal and practical dimensions of this issue &mdash; including the
         argument that the carrier may have a good faith duty to allocate in the policyholder&apos;s
         favor &mdash; see our detailed article on{' '}
         <Link href="/resources/coverage-allocation-over-limit-claims" className="text-[#2E74B5] underline">

@@ -642,7 +642,7 @@ export default function Content() {
           </li>
           <li>
             <Link href="/resources/commercial-coinsurance" className="text-[#2E74B5] underline hover:text-blue-900">
-              Commercial Coinsurance Deep Dive
+              Commercial Coinsurance Detailed Guide
             </Link>{' '}
             &mdash; How coinsurance penalties reduce claim payments
           </li>

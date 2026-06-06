@@ -753,7 +753,7 @@ export default function Content() {
       {/* ───────── DEEP DIVE: 790 LETTER SCOPE ───────── */}
       <hr className="my-8 border-gray-300" />
       <h2 id="790-letter-scope" className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Deep Dive: Does the &ldquo;790 Letter&rdquo; Apply to Commercial Policies Covering Residential Dwellings?
+        Detailed Guide: Does the &ldquo;790 Letter&rdquo; Apply to Commercial Policies Covering Residential Dwellings?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance Code &sect; 790.034(b) requires every insurer, within 15 calendar days of

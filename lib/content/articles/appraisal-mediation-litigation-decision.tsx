@@ -240,7 +240,7 @@ export default function Content() {
         Before choosing a dispute resolution path, you must first classify your dispute. The most
         important classification in property insurance claims is the distinction
         between <strong>scope disputes</strong> and <strong>price disputes</strong>. This distinction
-        drives the entire decision framework. For a deep dive, see{' '}
+        drives the entire decision framework. For a detailed look, see{' '}
         <Link href="/resources/scope-vs-price-disputes" className="text-[#2E74B5] underline">
           Scope vs. Price Disputes in Insurance Claims
         </Link>.

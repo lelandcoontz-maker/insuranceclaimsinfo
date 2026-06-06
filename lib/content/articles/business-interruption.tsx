@@ -351,7 +351,7 @@ export default function Content() {
             <Link href="/resources/extra-expense-coverage" className="text-[#2E74B5] underline hover:text-blue-900">
               Extra Expense Coverage
             </Link>{' '}
-            &mdash; deep dive into extra expense provisions, CP 00 30 vs. CP 00 50, and expediting expenses
+            &mdash; detailed guide to extra expense provisions, CP 00 30 vs. CP 00 50, and expediting expenses
           </li>
           <li>
             <Link href="/resources/commercial-coinsurance" className="text-[#2E74B5] underline hover:text-blue-900">

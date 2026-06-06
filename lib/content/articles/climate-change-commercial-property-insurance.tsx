@@ -121,7 +121,7 @@ export default function Content() {
           resulting from&rdquo; mechanical breakdown, contamination, or power outage. The
           key question is whether the heat event itself triggers coverage, or whether it only
           triggers coverage when it causes a secondary mechanical failure (e.g., an overwhelmed
-          HVAC unit). For a deep dive, see our article on{' '}
+          HVAC unit). For a detailed look, see our article on{' '}
           <Link href="/resources/spoilage-coverage" className="text-blue-700 underline hover:text-blue-900">
             spoilage coverage
           </Link>.

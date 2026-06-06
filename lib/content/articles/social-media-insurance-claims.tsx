@@ -78,7 +78,7 @@ export default function Content() {
         Not every claim triggers a social media investigation. Carriers have limited SIU resources and
         generally reserve in-depth social media reviews for claims that have already been flagged for
         investigation based on other factors. A routine roof claim or a straightforward kitchen fire
-        typically does not generate an SIU social media deep dive. Claims more likely to involve social
+        typically does not generate an SIU social media detailed look. Claims more likely to involve social
         media monitoring include:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
