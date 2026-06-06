@@ -406,7 +406,7 @@ export default function Content() {
         met current code is a separate question from whether the sink had water &mdash; and it did.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Moreover, many policies include ordinance or law coverage that specifically addresses the
+        Many policies include ordinance or law coverage that specifically addresses the
         cost of bringing the property into compliance with current building codes during a covered
         repair. If the carrier&apos;s repair must comply with current code, and current code
         requires a different routing, the carrier owes the cost of code-compliant routing that also

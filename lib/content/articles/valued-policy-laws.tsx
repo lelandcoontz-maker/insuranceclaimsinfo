@@ -343,7 +343,7 @@ export default function Content() {
         Proponents of VPLs counter that the moral hazard argument is overstated. The insurer sets
         or approves the coverage amount, conducts inspections, and uses replacement cost estimators
         to determine the appropriate coverage level. If the insurer over-insured the property, the
-        insurer itself contributed to the problem. Furthermore, arson and insurance fraud are
+        insurer itself contributed to the problem. Arson and insurance fraud are
         criminal offenses with severe penalties, and the vast majority of total losses result from
         genuine catastrophes &mdash; particularly wildfires, hurricanes, and tornadoes &mdash;
         that are plainly outside the policyholder&rsquo;s control.

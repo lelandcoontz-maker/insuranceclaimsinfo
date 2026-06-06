@@ -1247,7 +1247,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Under Business and Professions Code &sect;7031, an unlicensed contractor cannot recover
         compensation for work performed. This effectively bars the contractor from enforcing a
-        mechanics lien. Moreover, the property owner may be entitled to disgorgement &mdash;
+        mechanics lien. The property owner may be entitled to disgorgement &mdash;
         the return of all compensation already paid to the unlicensed contractor. This is a
         powerful defense and potential counterclaim.
       </p>

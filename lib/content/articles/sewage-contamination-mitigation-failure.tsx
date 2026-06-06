@@ -97,7 +97,7 @@ export default function Content() {
           which meets accepted trade standards for good and workmanlike construction.&quot;
           An adjuster who instructs a mitigation contractor to leave contaminated materials in
           place is not meeting accepted trade standards &mdash; the adjuster is creating a
-          health hazard to save money. Furthermore, under{' '}
+          health hazard to save money. Under{' '}
           <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
             California Fair Claims regulations Section 2695.9(b)
           </Link>, no insurer shall require that the insured have the property repaired by a

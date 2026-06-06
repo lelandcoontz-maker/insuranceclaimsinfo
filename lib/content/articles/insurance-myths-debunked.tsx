@@ -425,7 +425,7 @@ export default function Content() {
           be paid.&rdquo;
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          Furthermore, prompt notice provisions are not strict filing deadlines. Late notice
+          Prompt notice provisions are not strict filing deadlines. Late notice
           alone is generally not sufficient to deny a claim in California. The insurer must
           show it was actually prejudiced by the late notice &mdash; that the delay caused
           a concrete disadvantage in investigating the claim. <em>Shell Oil Co. v. Winterthur

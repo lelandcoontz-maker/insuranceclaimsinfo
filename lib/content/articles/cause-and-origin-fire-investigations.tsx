@@ -485,7 +485,7 @@ export default function Content() {
         to delay.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Moreover, under 10 CCR &sect; 2695.7(h), the insurer must continue to make interim payments
+        Under 10 CCR &sect; 2695.7(h), the insurer must continue to make interim payments
         for undisputed portions of the claim while investigating disputed issues. If the cause of
         the fire is in dispute but the existence and extent of the damage are not, the insurer should
         be making payments for the undisputed damage, additional living expenses, and contents losses

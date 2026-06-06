@@ -257,7 +257,7 @@ export default function Content() {
         assassination dressed up as an underwriting concern.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Furthermore, if the insurer is genuinely concerned about moral hazard, it had the right
+        If the insurer is genuinely concerned about moral hazard, it had the right
         to inspect the property at any time during the policy period. Most homeowner policies
         contain a provision allowing the insurer to inspect the premises. If the insurer never
         exercised that right, it cannot complain after a loss that conditions existed that it
@@ -1028,7 +1028,7 @@ export default function Content() {
         In California, the efficient proximate cause analysis again favors the policyholder:
         the covered peril (sudden and accidental discharge of water) is the efficient proximate
         cause of the loss. The hoarding condition contributed to the extent of the damage, but
-        not to the cause. Moreover, the insurer&rsquo;s own policy language typically covers
+        not to the cause. The insurer&rsquo;s own policy language typically covers
         &ldquo;resulting damage&rdquo; from water discharge events &mdash; the resulting
         damage is what it is, regardless of why it took longer to discover.
       </p>

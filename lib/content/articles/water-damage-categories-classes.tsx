@@ -815,7 +815,7 @@ export default function Content() {
         water into a space with pre-existing microbial contamination makes the contamination
         worse, and the water that contacted those organisms is no longer Category 1. The
         remediation protocol must address the conditions as they exist after the loss, not as
-        the carrier wishes they existed. Moreover, a hygienist can often distinguish between
+        the carrier wishes they existed. A hygienist can often distinguish between
         old growth and new amplification through species analysis and growth patterns, providing
         evidence that the current conditions resulted from the covered water event.
       </p>

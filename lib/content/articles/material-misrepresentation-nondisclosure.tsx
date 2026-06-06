@@ -507,7 +507,7 @@ export default function Content() {
         there. The same person pays the premiums. The same person maintains the property. The
         only thing that changed is the name on the deed &mdash; and if the insurer never asked
         about trust ownership on the application or at renewal, the concealment argument is
-        weak. Moreover, if the policyholder retained a life estate, they retain an insurable
+        weak. If the policyholder retained a life estate, they retain an insurable
         interest in the property for the value of that life estate at minimum.
       </p>
 

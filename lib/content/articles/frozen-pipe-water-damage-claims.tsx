@@ -117,7 +117,7 @@ export default function Content() {
         Separate from the heat maintenance condition, carriers sometimes invoke the general neglect exclusion. This exclusion typically states that the policy does not cover loss caused by the insured&rsquo;s &ldquo;neglect&rdquo; to use all reasonable means to save and preserve property at and after a loss. In frozen pipe cases, the carrier argues that the homeowner neglected to winterize the property, failed to insulate exposed pipes, or left the home unattended during freezing temperatures without taking appropriate precautions.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The neglect exclusion requires more than the mere occurrence of a freeze. The carrier must prove a conscious disregard of a known risk. A homeowner who was unaware that temperatures would drop below freezing, or who took reasonable but ultimately insufficient precautions, has not acted with &ldquo;neglect&rdquo; as the term is used in insurance law. Furthermore, under California law, the insurer&rsquo;s burden is to show that the neglect was the proximate cause of the loss &mdash; not merely a contributing factor.
+        The neglect exclusion requires more than the mere occurrence of a freeze. The carrier must prove a conscious disregard of a known risk. A homeowner who was unaware that temperatures would drop below freezing, or who took reasonable but ultimately insufficient precautions, has not acted with &ldquo;neglect&rdquo; as the term is used in insurance law. Under California law, the insurer&rsquo;s burden is to show that the neglect was the proximate cause of the loss &mdash; not merely a contributing factor.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

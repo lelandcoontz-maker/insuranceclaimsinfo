@@ -654,7 +654,7 @@ export default function Content() {
         insurer&rsquo;s characterization of the process as collaborative.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Moreover, someone must have had final authority. Claims committees do not operate without
+        Someone must have had final authority. Claims committees do not operate without
         leadership, and someone either chairs the committee, has final say when members disagree,
         or has the authority to override the committee&rsquo;s recommendation. Identifying that person is generally the discovery objective.
       </p>

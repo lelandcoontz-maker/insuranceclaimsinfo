@@ -404,7 +404,7 @@ export default function Content() {
         weapon against one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Moreover, the mitigation doctrine requires that the insured&rsquo;s mitigation efforts be
+        The mitigation doctrine requires that the insured&rsquo;s mitigation efforts be
         <em> reasonable</em>. An insured who objects to a cleaning attempt &mdash; who identifies
         specific, articulable reasons why cleaning will not work &mdash; is exercising reasonable
         judgment, not failing to mitigate. It is the carrier that is being unreasonable, by insisting

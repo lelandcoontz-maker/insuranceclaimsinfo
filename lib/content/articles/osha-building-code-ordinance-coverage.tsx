@@ -301,7 +301,7 @@ export default function Content() {
         governing construction and repair as the building code itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Moreover, some requirements bridge both categories. Cal/OSHA&rsquo;s asbestos
+        Some requirements bridge both categories. Cal/OSHA&rsquo;s asbestos
         regulations, for example, are workplace safety rules that also function as
         environmental regulations and interact with building permit requirements.
         Attempting to draw a line between &ldquo;building code&rdquo; and &ldquo;workplace

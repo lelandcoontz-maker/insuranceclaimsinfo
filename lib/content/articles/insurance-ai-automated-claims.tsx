@@ -353,7 +353,7 @@ export default function Content() {
         of how sophisticated the technology may be.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Moreover, the Fair Claims Settlement Practices Regulations require carriers to inform
+        The Fair Claims Settlement Practices Regulations require carriers to inform
         policyholders of the basis for any denial or reduced payment. When an AI makes or
         substantially influences these decisions, the carrier may struggle to explain &mdash; in
         terms the policyholder can understand &mdash; why the algorithm reached the conclusion it
