@@ -124,7 +124,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Cal/OSHA Asbestos Standard (8 CCR &sect;1529)
+        Cal/OSHA Asbestos Standard (8 CCR &sect; 1529)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s occupational safety regulation governing asbestos exposure applies to
@@ -174,7 +174,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Cal/OSHA Lead Standard (8 CCR &sect;1532.1)
+        Cal/OSHA Lead Standard (8 CCR &sect; 1532.1)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s occupational safety standard for lead exposure applies to any
@@ -190,7 +190,7 @@ export default function Content() {
         <li>Proper containment, cleanup, and disposal of lead-contaminated debris</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Compliance with 8 CCR &sect;1532.1 is mandatory for any contractor performing repair
+        Compliance with 8 CCR &sect; 1532.1 is mandatory for any contractor performing repair
         work that disturbs lead-based paint. These costs flow directly into the price of the
         repair.
       </p>
@@ -305,8 +305,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A contractor cannot legally rip out asbestos-containing ceiling texture without following
-        Cal/OSHA &sect;1529 and SCAQMD Rule 1403. A painter cannot legally sand lead-based paint
-        off window trim without following the EPA RRP Rule and 8 CCR &sect;1532.1. These are
+        Cal/OSHA &sect; 1529 and SCAQMD Rule 1403. A painter cannot legally sand lead-based paint
+        off window trim without following the EPA RRP Rule and 8 CCR &sect; 1532.1. These are
         not upgrades. They are not improvements. They are the legally mandated minimum standard
         for performing the repair work that the covered loss requires.
       </p>
@@ -479,8 +479,8 @@ export default function Content() {
         </li>
         <li>
           <strong>Cite the specific regulations.</strong> In your correspondence with the
-          insurer, reference the applicable regulations: Cal/OSHA 8 CCR &sect;1529 (asbestos),
-          8 CCR &sect;1532.1 (lead), SCAQMD Rule 1403 (if applicable), and EPA RRP Rule 40 CFR
+          insurer, reference the applicable regulations: Cal/OSHA 8 CCR &sect; 1529 (asbestos),
+          8 CCR &sect; 1532.1 (lead), SCAQMD Rule 1403 (if applicable), and EPA RRP Rule 40 CFR
           Part 745 (lead). This puts the carrier on notice that these are mandatory requirements,
           not discretionary costs.
         </li>

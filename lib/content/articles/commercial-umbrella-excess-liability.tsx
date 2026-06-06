@@ -289,7 +289,7 @@ export default function Content() {
         practicable&rdquo; of any occurrence that <em>may</em> give rise to a claim under the
         umbrella &mdash; not just occurrences that clearly exceed the underlying limits. In
         California, the late notice defense has been significantly limited by California Insurance
-        Code &sect;554, which requires the insurer to demonstrate actual prejudice from the late
+        Code &sect; 554, which requires the insurer to demonstrate actual prejudice from the late
         notice before it can disclaim coverage. However, the prejudice requirement does not apply
         to all policy types, and umbrella carriers will still raise the defense.
       </p>
@@ -384,7 +384,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Prejudice requirement for late notice.</strong> Under California Insurance Code
-          &sect;554 and the holding in <em>Shell Oil Co. v. Winterthur Swiss Insurance Co.</em>
+          &sect; 554 and the holding in <em>Shell Oil Co. v. Winterthur Swiss Insurance Co.</em>
           (1993) 12 Cal.App.4th 715, an insurer must demonstrate actual prejudice from late
           notice before disclaiming coverage. This significantly limits the late-notice defense
           for umbrella carriers.

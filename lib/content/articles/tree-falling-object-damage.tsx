@@ -267,7 +267,7 @@ export default function Content() {
         or a storm pushed it over. The <strong>proximate cause</strong> &mdash; the efficient
         cause that set the damage in motion &mdash; is the windstorm, not the tree&rsquo;s
         condition. California follows the efficient proximate cause doctrine. Under Insurance
-        Code &sect;530, an insurer is liable for loss proximately caused by a covered peril.
+        Code &sect; 530, an insurer is liable for loss proximately caused by a covered peril.
         The wind is the efficient proximate cause. The tree&rsquo;s condition is a contributing
         factor, not the cause.
       </p>

@@ -43,17 +43,17 @@ export default function Content() {
         The Regulatory Framework
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect;2695 et seq.)
+        California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695 et seq.)
         impose specific disclosure obligations on every insurer doing business in California. Three
         provisions are especially important for policyholders trying to understand how their claim
         was calculated.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        10 CCR &sect;2695.7(b)(1): The Duty to Explain Denials
+        10 CCR &sect; 2695.7(b)(1): The Duty to Explain Denials
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the carrier denies a claim in whole or in part, &sect;2695.7(b) requires that the
+        When the carrier denies a claim in whole or in part, &sect; 2695.7(b) requires that the
         denial be in writing, listing <strong>all bases</strong> for the denial with the factual
         and legal basis for each reason, citing the specific policy provisions relied upon. This
         applies to partial denials as well &mdash; if the carrier pays $200,000 on a claim the
@@ -64,7 +64,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        10 CCR &sect;2695.9(d): The Insurer Must Share Its Estimate
+        10 CCR &sect; 2695.9(d): The Insurer Must Share Its Estimate
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is one of the most powerful provisions in the California regulations for property
@@ -76,7 +76,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        10 CCR &sect;2695.4(a): The Duty to Disclose All Coverages
+        10 CCR &sect; 2695.4(a): The Duty to Disclose All Coverages
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The carrier must affirmatively disclose to the insured <strong>all benefits, coverage,
@@ -203,8 +203,8 @@ export default function Content() {
         The Right to Request Your Claim File
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Beyond the specific regulatory requirements of &sect;2695.7, the insured has broader rights
-        to request copies of documents in the claim file. California Insurance Code &sect;2071 and
+        Beyond the specific regulatory requirements of &sect; 2695.7, the insured has broader rights
+        to request copies of documents in the claim file. California Insurance Code &sect; 2071 and
         the Fair Claims Settlement Practices Regulations establish that the insured is entitled to
         examine the documents that relate to the handling of the claim.
       </p>
@@ -221,8 +221,8 @@ export default function Content() {
       <CalloutBox variant="tip" title="How to Request Your Claim File">
         <p>
           Send a written request &mdash; email is fine &mdash; specifically citing 10 CCR
-          &sect;2695.9(d) (requirement to share estimates and scope documents) and
-          &sect;2695.7(b)(1) (requirement to explain all bases for any denial), and requesting
+          &sect; 2695.9(d) (requirement to share estimates and scope documents) and
+          &sect; 2695.7(b)(1) (requirement to explain all bases for any denial), and requesting
           the complete claim file, including all estimates, reports, depreciation schedules,
           adjuster notes, and correspondence. Be specific about what you want. The carrier must
           respond within a reasonable time as specified in the regulations. If it does not,
@@ -292,8 +292,8 @@ export default function Content() {
         </li>
         <li>
           <strong>Cite the regulations.</strong> Include specific references to 10 CCR
-          &sect;2695.9(d) (estimate disclosure), &sect;2695.7(b)(1) (denial explanation), and
-          &sect;2695.4(a) (duty to disclose all coverages). This signals to the carrier that you
+          &sect; 2695.9(d) (estimate disclosure), &sect; 2695.7(b)(1) (denial explanation), and
+          &sect; 2695.4(a) (duty to disclose all coverages). This signals to the carrier that you
           know your rights and that you are creating a record for potential regulatory action.
         </li>
         <li>

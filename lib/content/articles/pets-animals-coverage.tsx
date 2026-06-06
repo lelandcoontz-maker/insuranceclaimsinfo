@@ -348,7 +348,7 @@ export default function Content() {
           animals as more than mere property.
         </li>
         <li>
-          <strong>Civil Code &sect;3340 (Exemplary Damages for Animal Harm).</strong> California
+          <strong>Civil Code &sect; 3340 (Exemplary Damages for Animal Harm).</strong> California
           Civil Code section 3340 allows the owner of an animal killed or injured by the
           wrongful act of another to recover the value of the animal plus exemplary damages where
           the act was willful or malicious. This does not apply to insurance claims directly, but

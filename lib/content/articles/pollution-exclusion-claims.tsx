@@ -666,7 +666,7 @@ export default function Content() {
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
           <strong>Get the denial in writing.</strong> California&rsquo;s Fair Claims Settlement
-          Practices regulations (10 CCR &sect;2695.7(b)) require your insurer to provide a
+          Practices regulations (10 CCR &sect; 2695.7(b)) require your insurer to provide a
           written explanation citing the specific policy language they are relying on to deny
           coverage. If you received a verbal denial, request it in writing immediately. Do not
           engage in substantive discussions about coverage until you have the insurer&rsquo;s

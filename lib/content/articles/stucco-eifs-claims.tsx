@@ -155,7 +155,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Construction Defects Have Their Own Remedies">
         <p>
-          If your stucco failure is truly a construction defect, you may have remedies outside your insurance policy. California&rsquo;s Right to Repair Act (Civil Code &sect;895 et seq.) establishes a prelitigation process for residential construction defect claims against the builder. The statute of limitations for construction defect claims is separate from your insurance claim deadlines. See <Link href="/resources/construction-defect-claims" className="text-[#2E74B5] underline">Construction Defects and Insurance Claims</Link> for a detailed explanation.
+          If your stucco failure is truly a construction defect, you may have remedies outside your insurance policy. California&rsquo;s Right to Repair Act (Civil Code &sect; 895 et seq.) establishes a prelitigation process for residential construction defect claims against the builder. The statute of limitations for construction defect claims is separate from your insurance claim deadlines. See <Link href="/resources/construction-defect-claims" className="text-[#2E74B5] underline">Construction Defects and Insurance Claims</Link> for a detailed explanation.
         </p>
       </CalloutBox>
 
@@ -201,7 +201,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Demand Testing Before the Carrier Denies">
         <p>
-          If you suspect water intrusion behind your stucco, request moisture testing before the carrier finalizes their position. Under 10 CCR &sect;2695.7(d), the insurer may not deny a claim without conducting a thorough investigation. If the visible stucco damage suggests water intrusion &mdash; staining, bubbling, efflorescence, soft spots &mdash; and the carrier denies without testing behind the wall, that denial may be premature. A qualified building envelope consultant can perform invasive testing and provide documentation that supports your claim.
+          If you suspect water intrusion behind your stucco, request moisture testing before the carrier finalizes their position. Under 10 CCR &sect; 2695.7(d), the insurer may not deny a claim without conducting a thorough investigation. If the visible stucco damage suggests water intrusion &mdash; staining, bubbling, efflorescence, soft spots &mdash; and the carrier denies without testing behind the wall, that denial may be premature. A qualified building envelope consultant can perform invasive testing and provide documentation that supports your claim.
         </p>
       </CalloutBox>
 
@@ -270,7 +270,7 @@ export default function Content() {
           <strong>&ldquo;We&rsquo;ll patch it.&rdquo;</strong> The carrier writes an estimate for a small patch when the proper repair is a wall-section or full-elevation replacement. Challenge this with documentation of matching issues, the extent of hidden damage revealed by testing, and the impracticality of a patch repair that leaves you with a patchwork exterior.
         </li>
         <li>
-          <strong>Denying without testing behind the wall.</strong> The carrier&rsquo;s adjuster looks at the exterior surface, notes some cracks, calls it settling, and denies. No moisture testing is performed. No core samples are taken. No one looks behind the stucco. Under California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect;2695.7), the insurer must conduct a thorough investigation before denying a claim. A visual-only exterior inspection when the complaint involves water intrusion is not thorough.
+          <strong>Denying without testing behind the wall.</strong> The carrier&rsquo;s adjuster looks at the exterior surface, notes some cracks, calls it settling, and denies. No moisture testing is performed. No core samples are taken. No one looks behind the stucco. Under California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.7), the insurer must conduct a thorough investigation before denying a claim. A visual-only exterior inspection when the complaint involves water intrusion is not thorough.
         </li>
       </ol>
 

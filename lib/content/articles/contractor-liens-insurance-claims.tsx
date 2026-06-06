@@ -56,7 +56,7 @@ export default function Content() {
         A mechanics lien (sometimes spelled &ldquo;mechanic&apos;s lien&rdquo;) is a legal claim
         against real property that secures payment for labor, materials, equipment, or services
         furnished in connection with a work of improvement. In California, mechanics liens are
-        governed by Civil Code &sect;8000 et seq., which replaced older lien statutes effective
+        governed by Civil Code &sect; 8000 et seq., which replaced older lien statutes effective
         July 1, 2012.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -149,7 +149,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Preliminary Notice (Civil Code &sect;8200&ndash;8216)
+        The Preliminary Notice (Civil Code &sect; 8200&ndash;8216)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A preliminary notice is <em>not</em> a lien. It is not a threat to file a lien. It is a
@@ -159,7 +159,7 @@ export default function Content() {
         wants the owner to know they exist.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Civil Code &sect;8200, a preliminary notice must generally be served
+        Under California Civil Code &sect; 8200, a preliminary notice must generally be served
         within 20 days of the claimant first furnishing labor, services, equipment, or
         materials to the work of improvement. The service requirements depend on the
         claimant&rsquo;s relationship to the owner:
@@ -191,7 +191,7 @@ export default function Content() {
           the preliminary notice late (more than 20 days after first furnishing labor or materials),
           their lien rights are limited to labor and materials furnished during the 20 days
           immediately preceding the date the notice was served, plus all work performed afterward
-          (Civil Code &sect;8204).
+          (Civil Code &sect; 8204).
         </li>
         <li>
           <strong>It provides valuable information.</strong> The preliminary notice identifies who
@@ -202,7 +202,7 @@ export default function Content() {
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Recorded Claim of Lien (Civil Code &sect;8410&ndash;8424)
+        The Recorded Claim of Lien (Civil Code &sect; 8410&ndash;8424)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The actual mechanics lien is a document recorded with the county recorder&apos;s office
@@ -219,24 +219,24 @@ export default function Content() {
           <strong>Direct contractors</strong> must record their claim of lien after completing
           the direct contract, and before the earlier of: (a) 90 days after completion of the
           work of improvement, or (b) 60 days after the property owner records a notice of
-          completion or cessation (Civil Code &sect;8412).
+          completion or cessation (Civil Code &sect; 8412).
         </li>
         <li>
           <strong>Subcontractors and suppliers</strong> must record their claim of lien before
           the earlier of: (a) 90 days after completion of the work of improvement, or (b) 30 days
-          after the property owner records a notice of completion or cessation (Civil Code &sect;8414).
+          after the property owner records a notice of completion or cessation (Civil Code &sect; 8414).
         </li>
         <li>
           <strong>Foreclosure deadline:</strong> After recording a mechanics lien, the claimant
           must commence a foreclosure action (lawsuit) within 90 days of recording the lien. If
           the claimant fails to file suit within 90 days, the lien expires and is unenforceable
-          (Civil Code &sect;8460).
+          (Civil Code &sect; 8460).
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Practical takeaway for property owners:</strong> If a contractor records a lien
         and then fails to file a foreclosure lawsuit within 90 days, the lien expires by
-        operation of law. You can petition the court for a release order under Civil Code &sect;8480
+        operation of law. You can petition the court for a release order under Civil Code &sect; 8480
         to formally clear the lien from your title. However, you should not simply wait and hope
         the contractor misses the deadline &mdash; consult with an attorney immediately upon
         learning that a lien has been recorded.
@@ -248,7 +248,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Property owners have a strategic tool available to them: the <strong>notice of
         completion</strong>. By recording a notice of completion with the county recorder&apos;s
-        office within 15 days after the work of improvement is completed (Civil Code &sect;8182),
+        office within 15 days after the work of improvement is completed (Civil Code &sect; 8182),
         the property owner shortens the time that subcontractors and suppliers have to record a
         mechanics lien &mdash; from 90 days down to 30 days. The direct contractor&apos;s deadline
         is shortened from 90 days to 60 days.
@@ -346,7 +346,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Request lien waivers with each payment.</strong> California Civil Code
-          &sect;8132&ndash;8138 provides standardized lien waiver forms. Before making progress
+          &sect; 8132&ndash;8138 provides standardized lien waiver forms. Before making progress
           payments, request conditional lien waivers from the general contractor and all
           subcontractors and suppliers. A conditional waiver becomes effective upon payment. An
           unconditional waiver is effective immediately. Use the correct form for the situation.
@@ -368,10 +368,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Licensing Requirement: Business and Professions Code &sect;7031
+        The Licensing Requirement: Business and Professions Code &sect; 7031
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Business and Professions Code &sect;7031 is one of the most powerful consumer
+        California Business and Professions Code &sect; 7031 is one of the most powerful consumer
         protection statutes on the books. It provides, in relevant part, that no person engaged
         in the business or acting in the capacity of a contractor may bring or maintain any
         action, or recover in law or equity in any action, for compensation for the performance
@@ -388,7 +388,7 @@ export default function Content() {
         contract).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        But &sect;7031 goes even further. Subsection (b) provides the &ldquo;sword&rdquo; in
+        But &sect; 7031 goes even further. Subsection (b) provides the &ldquo;sword&rdquo; in
         addition to the &ldquo;shield&rdquo;: a property owner who utilizes the services of an
         unlicensed contractor may bring an action to <em>recover all compensation paid</em> to
         the unlicensed contractor for performance of any act or contract. In other words, not
@@ -396,7 +396,7 @@ export default function Content() {
         sue to get back every dollar already paid. This is known as &ldquo;disgorgement.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        There is a narrow &ldquo;substantial compliance&rdquo; exception under &sect;7031(e),
+        There is a narrow &ldquo;substantial compliance&rdquo; exception under &sect; 7031(e),
         but it requires the contractor to prove they had been duly licensed prior to the
         performance, acted reasonably and in good faith to maintain licensure, and acted
         promptly to remedy the lapse upon learning of it. This exception does not apply if
@@ -446,7 +446,7 @@ export default function Content() {
         Workers&apos; Compensation Insurance
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Labor Code &sect;3700, every employer must secure workers&apos;
+        Under California Labor Code &sect; 3700, every employer must secure workers&apos;
         compensation insurance for their employees. For licensed contractors, this requirement
         is enforced through the CSLB. A contractor who has employees but lacks workers&apos;
         compensation insurance is operating illegally, and this fact can undermine the
@@ -455,14 +455,14 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A contractor who fails to maintain workers&apos; compensation insurance when required
         can be considered &ldquo;unlicensed&rdquo; for purposes of Business and Professions
-        Code &sect;7031, even if the contractor holds a CSLB license number. The CSLB can
+        Code &sect; 7031, even if the contractor holds a CSLB license number. The CSLB can
         suspend or revoke the contractor&apos;s license for failure to maintain required
         insurance, and the contractor may not be able to enforce lien rights during any period
         of non-compliance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Also, the penalties for operating without workers&apos; compensation insurance
-        are severe: Labor Code &sect;3700.5 makes it a misdemeanor punishable by a fine of not
+        are severe: Labor Code &sect; 3700.5 makes it a misdemeanor punishable by a fine of not
         less than $10,000 or imprisonment in the county jail for up to one year, or both.
         The Division of Labor Standards Enforcement can issue a stop order prohibiting the
         use of employee labor until coverage is obtained. These enforcement mechanisms provide
@@ -510,10 +510,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Willful Exaggeration Penalty: Civil Code &sect;8422
+        The Willful Exaggeration Penalty: Civil Code &sect; 8422
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law takes a hard line on inflated liens. Civil Code &sect;8422 provides that
+        California law takes a hard line on inflated liens. Civil Code &sect; 8422 provides that
         any person who willfully includes in a claim of lien labor, services, equipment, or
         materials not furnished for the property described in the claim shall <strong>forfeit
         their right to the lien entirely</strong>.
@@ -533,7 +533,7 @@ export default function Content() {
         not just the inflated portion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Note that Civil Code &sect;8422 also addresses erroneous information in a lien more
+        Note that Civil Code &sect; 8422 also addresses erroneous information in a lien more
         broadly. Errors in the lien relating to the claimant&apos;s demand, credits and offsets,
         the work provided, or the property description do <em>not</em> automatically invalidate
         the lien &mdash; unless the court finds that the errors were made with intent to defraud.
@@ -575,7 +575,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Consult an attorney.</strong> If you believe the lien includes willfully
-          exaggerated amounts, discuss the forfeiture provision under Civil Code &sect;8422 with
+          exaggerated amounts, discuss the forfeiture provision under Civil Code &sect; 8422 with
           your attorney. This is a defense that can eliminate the lien entirely.
         </li>
       </ul>
@@ -703,10 +703,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Petition for Release Order (Civil Code &sect;8480&ndash;8488)
+        Petition for Release Order (Civil Code &sect; 8480&ndash;8488)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under Civil Code &sect;8480, the property owner (or any person with an interest in the
+        Under Civil Code &sect; 8480, the property owner (or any person with an interest in the
         property) may petition the court for an order to release the lien if the claimant has
         not commenced a foreclosure action within the time required by law, if the lien was
         not properly created, or for other grounds specified by statute.
@@ -714,7 +714,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The petition process is relatively streamlined compared to a full trial. The court
         holds a hearing, and if the property owner meets the burden of proving that the lien
-        is invalid, the court orders it released. Under Civil Code &sect;8488, the{' '}
+        is invalid, the court orders it released. Under Civil Code &sect; 8488, the{' '}
         <strong>prevailing party is entitled to reasonable attorney&apos;s fees</strong>. This
         is an important provision &mdash; it means that if the property owner successfully
         petitions to remove an improper lien, the contractor must pay the property owner&apos;s
@@ -729,12 +729,12 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Lien Release Bond (Civil Code &sect;8424)
+        Lien Release Bond (Civil Code &sect; 8424)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you need to clear the lien from your property&apos;s title quickly &mdash; for
         example, because you are trying to sell or refinance the property &mdash; you can
-        record a lien release bond under Civil Code &sect;8424. The bond must be in an amount
+        record a lien release bond under Civil Code &sect; 8424. The bond must be in an amount
         equal to 125% of the lien amount. Once the bond is recorded, the lien is released from
         the property and transferred to the bond. The contractor&apos;s claim is then against
         the bond, not against the property.
@@ -752,7 +752,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In extreme cases involving fraud, forged documents, or completely fabricated claims,
         the filing of a false instrument with the county recorder may constitute a felony
-        under California Penal Code &sect;115, punishable by up to three years in state prison.
+        under California Penal Code &sect; 115, punishable by up to three years in state prison.
         While criminal prosecution is rare in ordinary contractor disputes, it is available as
         a remedy in cases involving truly fraudulent liens &mdash; and the existence of this
         statute can provide additional motivation for a contractor to voluntarily release an
@@ -774,7 +774,7 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (California Code of Regulations, Title 10, &sect;2695.1 et seq.) impose specific
+        (California Code of Regulations, Title 10, &sect; 2695.1 et seq.) impose specific
         obligations on insurance companies regarding the timing of claim payments. Under these
         regulations, once an insurer has determined that a claim is payable, the insurer must
         tender payment within 30 days. The insurer cannot simply sit on a payment indefinitely
@@ -830,7 +830,7 @@ export default function Content() {
         Check the contractor&apos;s license status, license classification,
         workers&apos; compensation insurance, and bond. If the contractor was unlicensed at any
         point during the work, the lien may be unenforceable under Business and Professions Code
-        &sect;7031. If the contractor performed work outside their license classification, the
+        &sect; 7031. If the contractor performed work outside their license classification, the
         lien may be partially or wholly invalid.
       </p>
 
@@ -986,7 +986,7 @@ export default function Content() {
           <strong>Use lien waivers consistently.</strong> Request conditional lien waivers with
           every progress payment. This creates a clear paper trail showing what has been paid and
           what lien rights have been waived. Use the statutory forms provided in Civil Code
-          &sect;8132&ndash;8138.
+          &sect; 8132&ndash;8138.
         </li>
       </ul>
 
@@ -1000,45 +1000,45 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Civil Code &sect;8000 et seq.</strong> &mdash; The comprehensive statutory
+          <strong>Civil Code &sect; 8000 et seq.</strong> &mdash; The comprehensive statutory
           framework governing mechanics liens, stop payment notices, and payment bonds for
           private works of improvement.
         </li>
         <li>
-          <strong>Civil Code &sect;8200&ndash;8216</strong> &mdash; Preliminary notice
+          <strong>Civil Code &sect; 8200&ndash;8216</strong> &mdash; Preliminary notice
           requirements, including who must serve them, when, and on whom.
         </li>
         <li>
-          <strong>Civil Code &sect;8410&ndash;8424</strong> &mdash; Conditions to enforcing a
+          <strong>Civil Code &sect; 8410&ndash;8424</strong> &mdash; Conditions to enforcing a
           mechanics lien, including the claim of lien requirements, deadlines, and the willful
           exaggeration forfeiture penalty.
         </li>
         <li>
-          <strong>Civil Code &sect;8460</strong> &mdash; The 90-day deadline for commencing a
+          <strong>Civil Code &sect; 8460</strong> &mdash; The 90-day deadline for commencing a
           lien foreclosure action after recording the claim of lien.
         </li>
         <li>
-          <strong>Civil Code &sect;8480&ndash;8488</strong> &mdash; The petition for release
+          <strong>Civil Code &sect; 8480&ndash;8488</strong> &mdash; The petition for release
           order process, including the attorney&apos;s fees provision for the prevailing party.
         </li>
         <li>
-          <strong>Civil Code &sect;8132&ndash;8138</strong> &mdash; Statutory lien waiver forms
+          <strong>Civil Code &sect; 8132&ndash;8138</strong> &mdash; Statutory lien waiver forms
           (conditional and unconditional, progress and final).
         </li>
         <li>
-          <strong>Civil Code &sect;8182</strong> &mdash; Notice of completion, which shortens
+          <strong>Civil Code &sect; 8182</strong> &mdash; Notice of completion, which shortens
           the lien recording deadlines for subcontractors and suppliers.
         </li>
         <li>
-          <strong>Business and Professions Code &sect;7031</strong> &mdash; The prohibition on
+          <strong>Business and Professions Code &sect; 7031</strong> &mdash; The prohibition on
           unlicensed contractors recovering compensation, including the disgorgement remedy.
         </li>
         <li>
-          <strong>Labor Code &sect;3700</strong> &mdash; The requirement that employers secure
+          <strong>Labor Code &sect; 3700</strong> &mdash; The requirement that employers secure
           workers&apos; compensation insurance.
         </li>
         <li>
-          <strong>Penal Code &sect;115</strong> &mdash; Criminal liability for filing a false
+          <strong>Penal Code &sect; 115</strong> &mdash; Criminal liability for filing a false
           or forged instrument with the county recorder.
         </li>
       </ul>
@@ -1236,16 +1236,16 @@ export default function Content() {
         A recorded mechanics lien is enforceable for 90 days from the date it was recorded.
         Within that 90-day period, the claimant must file a lawsuit to foreclose the lien. If
         no lawsuit is filed within 90 days, the lien expires by operation of law and is no
-        longer enforceable (Civil Code &sect;8460). However, the expired lien may still appear
+        longer enforceable (Civil Code &sect; 8460). However, the expired lien may still appear
         on the property&apos;s title record. The property owner can petition the court under
-        Civil Code &sect;8480 for an order releasing the expired lien.
+        Civil Code &sect; 8480 for an order releasing the expired lien.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         What if the contractor who filed the lien was not licensed?
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under Business and Professions Code &sect;7031, an unlicensed contractor cannot recover
+        Under Business and Professions Code &sect; 7031, an unlicensed contractor cannot recover
         compensation for work performed. This effectively bars the contractor from enforcing a
         mechanics lien. The property owner may be entitled to disgorgement &mdash;
         the return of all compensation already paid to the unlicensed contractor. This is a

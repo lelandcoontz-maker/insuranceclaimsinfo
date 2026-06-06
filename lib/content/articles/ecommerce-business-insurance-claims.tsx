@@ -105,7 +105,7 @@ export default function Content() {
         because they assume their homeowner&rsquo;s policy is sufficient.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, Insurance Code &sect;790.03(h) prohibits unfair claims practices, but
+        In California, Insurance Code &sect; 790.03(h) prohibits unfair claims practices, but
         this protection only applies when you actually have a valid policy covering the loss. If
         your homeowner&rsquo;s policy legitimately excludes business property and business
         liability, there is no bad faith claim when the insurer denies your business loss. The
@@ -344,10 +344,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Every e-commerce business collects customer data &mdash; names, addresses, email
         addresses, and often payment information. Under the California Consumer Privacy Act
-        (CCPA, Civil Code &sect;1798.100 et seq.) and its successor, the California Privacy
+        (CCPA, Civil Code &sect; 1798.100 et seq.) and its successor, the California Privacy
         Rights Act (CPRA), California consumers have specific rights regarding their personal
         information, and businesses that suffer data breaches face statutory damages of
-        $100&ndash;$750 per consumer per incident under Civil Code &sect;1798.150.
+        $100&ndash;$750 per consumer per incident under Civil Code &sect; 1798.150.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A{' '}
@@ -414,7 +414,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under the Uniform Commercial Code (UCC), adopted in California as Cal. Com. Code
-        &sect;2319, the terms of sale determine when risk of loss passes from seller to buyer.
+        &sect; 2319, the terms of sale determine when risk of loss passes from seller to buyer.
         For shipment contracts (&ldquo;FOB origin&rdquo; or &ldquo;FOB shipping point&rdquo;),
         risk passes when the seller delivers the goods to the carrier. For destination contracts
         (&ldquo;FOB destination&rdquo;), risk remains with the seller until the goods arrive at
@@ -448,7 +448,7 @@ export default function Content() {
         <li>
           <strong>Workers&rsquo; compensation:</strong> If you have employees &mdash; including
           warehouse packers, customer service representatives, or even part-time helpers &mdash;
-          California Labor Code &sect;3700 requires workers&rsquo; compensation insurance. There
+          California Labor Code &sect; 3700 requires workers&rsquo; compensation insurance. There
           is no exception for small businesses. A single employee triggers the requirement.
           Independent contractors may also require coverage depending on the ABC test under
           <em> Dynamex Operations West, Inc. v. Superior Court</em> (2018) 4 Cal.5th 903.
@@ -460,14 +460,14 @@ export default function Content() {
         </li>
         <li>
           <strong>Sales tax and nexus:</strong> Under California Revenue &amp; Taxation Code
-          &sect;6203, economic nexus rules require out-of-state sellers to collect California
+          &sect; 6203, economic nexus rules require out-of-state sellers to collect California
           sales tax if they exceed $500,000 in California sales. For in-state e-commerce sellers,
           California sales tax obligations apply to all taxable sales. Tax disputes can create
           financial exposure that insurance does not cover.
         </li>
         <li>
           <strong>California&rsquo;s Proposition 65:</strong> If you sell products in California
-          that contain chemicals listed under Prop 65 (Health &amp; Safety Code &sect;25249.5
+          that contain chemicals listed under Prop 65 (Health &amp; Safety Code &sect; 25249.5
           et seq.), you must provide warnings. Failure to warn can result in lawsuits with
           statutory penalties of up to $2,500 per day per violation. Product liability insurance
           may or may not cover Prop 65 claims depending on the policy language.

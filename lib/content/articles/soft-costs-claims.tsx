@@ -452,10 +452,10 @@ export default function Content() {
         The Legal Basis for Soft Cost Recovery
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;2051 establishes that the measure of recovery is
+        California Insurance Code &sect; 2051 establishes that the measure of recovery is
         the cost to repair, rebuild, or replace the thing lost or injured. Soft costs are
         part of that cost &mdash; you cannot complete a repair without them. The Fair Claims Settlement
-        Practices Regulations (10 CCR &sect;2695.7) further require carriers to conduct a
+        Practices Regulations (10 CCR &sect; 2695.7) further require carriers to conduct a
         thorough, fair, and objective investigation and to not deny or reduce claims without a
         reasonable basis.
       </p>

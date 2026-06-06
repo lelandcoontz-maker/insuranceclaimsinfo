@@ -71,16 +71,16 @@ export default function Content() {
         and the notice requirements are not the same.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For <strong>cancellation based on non-payment of premium</strong>, Insurance Code &sect;677.2
+        For <strong>cancellation based on non-payment of premium</strong>, Insurance Code &sect; 677.2
         requires the insurer to deliver or mail written notice of cancellation at least{' '}
         <strong>10 days</strong> before the effective date of the cancellation. The notice must
         state the effective date and the reason for cancellation. If the insurer is asserting that
-        your policy was cancelled for non-payment, ask in writing for proof that the &sect;677.2
+        your policy was cancelled for non-payment, ask in writing for proof that the &sect; 677.2
         10-day notice was actually delivered to you and that the timing met the statute.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For <strong>non-renewal</strong> (the insurer declines to offer a new policy when the
-        current term ends, rather than terminating mid-term), Insurance Code &sect;678 requires
+        current term ends, rather than terminating mid-term), Insurance Code &sect; 678 requires
         at least 45 days&apos; written notice before policy expiration, or 75 days for residential
         property policies expiring on or after July 1, 2020. Non-renewal is a different mechanism
         from cancellation &mdash; if the insurer is treating a non-payment situation as a

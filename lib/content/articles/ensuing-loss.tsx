@@ -74,7 +74,7 @@ export default function Content() {
           <strong>The ensuing loss savings clause in the policy itself.</strong> This is a contractual provision. Even in states that enforce policy language strictly, the ensuing loss clause preserves coverage for resulting damage caused by a non-excluded peril. It is part of the contract the insurer wrote.
         </li>
         <li>
-          <strong>The efficient proximate cause doctrine.</strong> Under California Insurance Code &sect;530 and the line of cases from <em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21 through <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395, the question in every multi-peril loss is: which peril was the predominating cause that set the others in motion? If the covered peril predominated, the entire loss is covered. This goes further than ensuing loss, which only covers the resulting damage from the covered peril.
+          <strong>The efficient proximate cause doctrine.</strong> Under California Insurance Code &sect; 530 and the line of cases from <em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21 through <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395, the question in every multi-peril loss is: which peril was the predominating cause that set the others in motion? If the covered peril predominated, the entire loss is covered. This goes further than ensuing loss, which only covers the resulting damage from the covered peril.
         </li>
         <li>
           <strong>The unenforceability of anti-concurrent causation clauses.</strong> In <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, the California Supreme Court held that &ldquo;policy exclusions are unenforceable to the extent that they conflict with section 530 and the efficient proximate cause doctrine.&rdquo; This means the ACC language that precedes certain exclusions in the ISO forms cannot be used to override the EPC analysis. The policy language designed to eliminate these doctrines does not work in California.
@@ -104,36 +104,36 @@ export default function Content() {
         California&rsquo;s approach to multi-peril losses is grounded in two provisions of the Insurance Code:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Insurance Code &sect;530:</strong>
+        <strong>Insurance Code &sect; 530:</strong>
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
         &ldquo;An insurer is liable for a loss of which a peril insured against was the proximate cause, although a peril not contemplated by the contract may have been a remote cause of the loss; but he is not liable for a loss of which the peril insured against was only a remote cause.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Insurance Code &sect;532:</strong>
+        <strong>Insurance Code &sect; 532:</strong>
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
         &ldquo;If a peril is specially excepted in a contract of insurance and there is a loss which would not have occurred but for such peril, such loss is thereby excepted even though the immediate cause of the loss was a peril which was not excepted.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read together, these sections establish that the critical question is always: <em>which cause was the proximate, predominating cause, and which was merely remote?</em> If the covered peril was the proximate cause and the excluded peril was remote, coverage exists under &sect;530. If the excluded peril was the proximate cause and the covered peril was remote, coverage is denied under &sect;532.
+        Read together, these sections establish that the critical question is always: <em>which cause was the proximate, predominating cause, and which was merely remote?</em> If the covered peril was the proximate cause and the excluded peril was remote, coverage exists under &sect; 530. If the excluded peril was the proximate cause and the covered peril was remote, coverage is denied under &sect; 532.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This statutory framework provides the foundation for both the EPC doctrine and the ensuing loss analysis in California. When a pipe corrodes (excluded) and the resulting water (covered) damages the interior, &sect;530 supports coverage because the covered peril &mdash; water &mdash; was the proximate cause of the damage being claimed. The corrosion was a remote cause.
+        This statutory framework provides the foundation for both the EPC doctrine and the ensuing loss analysis in California. When a pipe corrodes (excluded) and the resulting water (covered) damages the interior, &sect; 530 supports coverage because the covered peril &mdash; water &mdash; was the proximate cause of the damage being claimed. The corrosion was a remote cause.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The California Fair Claims Settlement Practices Regulations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a carrier issues a denial letter that quotes an exclusion but omits the ensuing loss savings clause that follows it, the carrier may be violating California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect;2695.1 et seq.):
+        When a carrier issues a denial letter that quotes an exclusion but omits the ensuing loss savings clause that follows it, the carrier may be violating California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.1 et seq.):
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>10 CCR &sect;2695.7(b)(1):</strong> Requires that any denial of a claim be in writing and include &ldquo;a statement of the reasons for such denial&rdquo; and &ldquo;reference to the specific policy provisions on which the denial is based.&rdquo; A denial that references an exclusion while omitting the ensuing loss savings clause that modifies that exclusion is arguably an incomplete statement of the policy provisions.
+          <strong>10 CCR &sect; 2695.7(b)(1):</strong> Requires that any denial of a claim be in writing and include &ldquo;a statement of the reasons for such denial&rdquo; and &ldquo;reference to the specific policy provisions on which the denial is based.&rdquo; A denial that references an exclusion while omitting the ensuing loss savings clause that modifies that exclusion is arguably an incomplete statement of the policy provisions.
         </li>
         <li>
-          <strong>10 CCR &sect;2695.7(d):</strong> Prohibits misrepresenting pertinent facts or policy provisions relating to coverages at issue. Omitting the savings clause from a denial could constitute a misrepresentation of the policy provisions.
+          <strong>10 CCR &sect; 2695.7(d):</strong> Prohibits misrepresenting pertinent facts or policy provisions relating to coverages at issue. Omitting the savings clause from a denial could constitute a misrepresentation of the policy provisions.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -200,7 +200,7 @@ export default function Content() {
         <li><strong>Timing:</strong> Two perils combine in a chain &mdash; one sets the other in motion.</li>
         <li><strong>Key question:</strong> Which peril was the <strong>predominant cause</strong> that initiated the chain?</li>
         <li><strong>What the insurer owes:</strong> If the covered peril was the efficient cause, the <em>entire</em> loss is covered. If the excluded peril was the efficient cause, there is no coverage.</li>
-        <li><strong>California authority:</strong> <em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21; <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395; Insurance Code &sect;530.</li>
+        <li><strong>California authority:</strong> <em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21; <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395; Insurance Code &sect; 530.</li>
         <li>
           <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
             Read the full article on efficient proximate cause &rarr;
@@ -241,7 +241,7 @@ export default function Content() {
           <strong>Ensuing loss:</strong> The claim is not for the roof repair. The claim is for the interior water damage. The water damage ensued from rain &mdash; a covered peril. The faulty workmanship is excluded, but the ensuing loss savings clause preserves coverage for the resulting damage.
         </li>
         <li>
-          <strong>Efficient proximate cause:</strong> Under Insurance Code &sect;530, the question is which peril was the proximate cause of the claimed damage. The claimed damage is water damage to the interior. The proximate cause of that damage is rain &mdash; a covered peril. The faulty workmanship was a remote cause (it created the <em>condition</em> that allowed the rain to enter, but the rain caused the actual damage).
+          <strong>Efficient proximate cause:</strong> Under Insurance Code &sect; 530, the question is which peril was the proximate cause of the claimed damage. The claimed damage is water damage to the interior. The proximate cause of that damage is rain &mdash; a covered peril. The faulty workmanship was a remote cause (it created the <em>condition</em> that allowed the rain to enter, but the rain caused the actual damage).
         </li>
         <li>
           <strong>ACC clause inapplicable:</strong> Even if the carrier points to ACC language, faulty workmanship is not in the first group of eight perils that ACC language precedes in the standard ISO form. ACC does not apply to this exclusion.
@@ -257,7 +257,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Omitting the savings clause from the denial letter.</strong> The carrier quotes the exclusion in the coverage determination letter and leaves out the &ldquo;however, any ensuing loss&rdquo; sentence that immediately follows. In California, this may violate 10 CCR &sect;2695.7(b)(1), which requires the denial to reference the specific policy provisions at issue, and &sect;2695.7(d), which prohibits misrepresenting policy provisions.
+          <strong>Omitting the savings clause from the denial letter.</strong> The carrier quotes the exclusion in the coverage determination letter and leaves out the &ldquo;however, any ensuing loss&rdquo; sentence that immediately follows. In California, this may violate 10 CCR &sect; 2695.7(b)(1), which requires the denial to reference the specific policy provisions at issue, and &sect; 2695.7(d), which prohibits misrepresenting policy provisions.
         </li>
         <li>
           <strong>Framing the excluded peril as the &ldquo;direct or indirect&rdquo; cause of all damage.</strong> The carrier invokes ACC-style language to sweep the ensuing damage in with the excluded cause. In California, this tactic fails under <em>Julian</em>. In other states, the response is to identify whether ACC language actually applies to the specific exclusion at issue.
@@ -362,7 +362,7 @@ export default function Content() {
             </tr>
             <tr className="bg-gray-50">
               <td className="border border-gray-300 p-3 font-semibold">ACC clauses enforceable?</td>
-              <td className="border border-gray-300 p-3">No &mdash; <em>Julian</em> / &sect;530</td>
+              <td className="border border-gray-300 p-3">No &mdash; <em>Julian</em> / &sect; 530</td>
               <td className="border border-gray-300 p-3">Yes</td>
               <td className="border border-gray-300 p-3">Yes</td>
             </tr>
@@ -374,7 +374,7 @@ export default function Content() {
             </tr>
             <tr className="bg-gray-50">
               <td className="border border-gray-300 p-3 font-semibold">EPC doctrine recognized?</td>
-              <td className="border border-gray-300 p-3">Yes &mdash; statutory (&sect;530)</td>
+              <td className="border border-gray-300 p-3">Yes &mdash; statutory (&sect; 530)</td>
               <td className="border border-gray-300 p-3">Yes &mdash; case law (<em>Sebo</em>)</td>
               <td className="border border-gray-300 p-3">Limited &mdash; ACC overrides when applicable</td>
             </tr>
@@ -472,7 +472,7 @@ export default function Content() {
         <li>Read your actual policy. Find the exclusion the carrier cited. Read everything that follows it.</li>
         <li>Determine whether the damage you are claiming is separate and distinct from the excluded cause. Are you claiming the pipe or the water damage? The roof or the interior?</li>
         <li>Identify the covered peril that caused the damage you are actually claiming.</li>
-        <li>Respond in writing, noting that the carrier&rsquo;s coverage determination did not address the ensuing loss provision in the same section of the policy they quoted. In California, note that 10 CCR &sect;2695.7(b)(1) requires the denial to reference the specific policy provisions at issue &mdash; including provisions that limit the scope of the exclusion.</li>
+        <li>Respond in writing, noting that the carrier&rsquo;s coverage determination did not address the ensuing loss provision in the same section of the policy they quoted. In California, note that 10 CCR &sect; 2695.7(b)(1) requires the denial to reference the specific policy provisions at issue &mdash; including provisions that limit the scope of the exclusion.</li>
         <li>If the carrier does not respond or reaffirms the denial, consider engaging a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
             Public Adjuster

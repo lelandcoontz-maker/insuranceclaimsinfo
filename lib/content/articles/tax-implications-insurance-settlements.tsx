@@ -61,7 +61,7 @@ export default function Content() {
         have the money to get a roof again. The IRS generally does not treat that as income.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under IRC &sect;61, gross income includes &ldquo;all income from whatever source
+        Under IRC &sect; 61, gross income includes &ldquo;all income from whatever source
         derived,&rdquo; but insurance proceeds that merely compensate for a loss of capital are
         not considered income because they represent a return of capital, not a gain. The
         policyholder&apos;s property was damaged, the insurance payment makes up for that damage,
@@ -120,7 +120,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The good news is that the tax code provides a useful tool for deferring this gain:
-        the involuntary conversion election under IRC &sect;1033, which we will discuss in detail
+        the involuntary conversion election under IRC &sect; 1033, which we will discuss in detail
         below.
       </p>
 
@@ -162,9 +162,9 @@ export default function Content() {
         individual bases (typically what you paid for them).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This distinction also matters for the &sect;1033 involuntary conversion election.
+        This distinction also matters for the &sect; 1033 involuntary conversion election.
         Proceeds from the dwelling and proceeds from personal property are treated as separate
-        conversions, which means you may elect &sect;1033 treatment for one category but not
+        conversions, which means you may elect &sect; 1033 treatment for one category but not
         the other. We will return to this point shortly.
       </p>
 
@@ -253,7 +253,7 @@ export default function Content() {
         The Section 1033 Involuntary Conversion Election
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        IRC &sect;1033 is one of the most important tax provisions for policyholders who receive
+        IRC &sect; 1033 is one of the most important tax provisions for policyholders who receive
         insurance proceeds exceeding their adjusted basis in destroyed or damaged property. It
         allows a policyholder to <strong>defer</strong> the recognition of gain from an
         involuntary conversion &mdash; which includes destruction by fire, storm, theft, and
@@ -261,7 +261,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        How &sect;1033 Works
+        How &sect; 1033 Works
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The basic mechanics are as follows: when property is involuntarily converted (destroyed
@@ -293,7 +293,7 @@ export default function Content() {
         For real property held for productive use or investment that is involuntarily converted
         as a result of a federally declared disaster, the replacement period is extended to four
         years. And for a principal residence destroyed in a federally declared disaster area,
-        special rules under &sect;1033(h) can provide additional flexibility, including the
+        special rules under &sect; 1033(h) can provide additional flexibility, including the
         option to treat the proceeds as received for a single property even if the settlement
         covers both the dwelling and contents.
       </p>
@@ -313,19 +313,19 @@ export default function Content() {
         The replacement property must be similar or related in service or use to the converted
         property. For owner-occupied homes, this means the replacement property must also be
         used as the taxpayer&apos;s personal residence. For rental property, the replacement
-        must be rental property. A policyholder cannot use &sect;1033 to defer gain on a
+        must be rental property. A policyholder cannot use &sect; 1033 to defer gain on a
         destroyed personal residence by purchasing a commercial building, or vice versa.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, for real property held for productive use or investment that is condemned (or
-        threatened with condemnation), &sect;1033(g) provides a more relaxed &ldquo;like-kind&rdquo;
+        threatened with condemnation), &sect; 1033(g) provides a more relaxed &ldquo;like-kind&rdquo;
         standard rather than the stricter &ldquo;similar or related in service or use&rdquo; test.
         This broader standard generally applies to condemnations and not to casualty losses, but
         taxpayers and their advisors should be aware of the distinction.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Making the &sect;1033 Election
+        Making the &sect; 1033 Election
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The election is made on the tax return for the year in which the gain is realized. If
@@ -343,10 +343,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        &sect;1033 and the Decision Not to Rebuild
+        &sect; 1033 and the Decision Not to Rebuild
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The &sect;1033 election is particularly significant for policyholders who are{' '}
+        The &sect; 1033 election is particularly significant for policyholders who are{' '}
         <Link href="/resources/deciding-not-to-rebuild" className="text-[#2E74B5] underline">
           deciding whether or not to rebuild
         </Link>
@@ -358,11 +358,11 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For those who decide not to rebuild at the same location but do purchase a replacement
-        home elsewhere, &sect;1033 can still apply as long as the replacement qualifies.
-        Also, for a principal residence, the &sect;121 exclusion for gain on the sale
+        home elsewhere, &sect; 1033 can still apply as long as the replacement qualifies.
+        Also, for a principal residence, the &sect; 121 exclusion for gain on the sale
         of a principal residence ($250,000 for single filers, $500,000 for married filing
         jointly) may also apply to exclude some or all of the gain. The interaction between
-        &sect;1033 and &sect;121 is complex and is another reason to involve a tax professional.
+        &sect; 1033 and &sect; 121 is complex and is another reason to involve a tax professional.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -515,7 +515,7 @@ export default function Content() {
         the type of claim that generated them. This is true even if the underlying claim
         involved tax-free property damage indemnification. The IRS treats punitive damages as
         income because they are a windfall &mdash; a punishment imposed on the defendant, not
-        compensation for the plaintiff&apos;s loss. IRC &sect;104(a) explicitly excludes
+        compensation for the plaintiff&apos;s loss. IRC &sect; 104(a) explicitly excludes
         punitive damages from the exclusion for damages received on account of personal
         physical injuries or sickness.
       </p>
@@ -585,7 +585,7 @@ export default function Content() {
         Some policyholders are surprised to learn that even though the property damage payment
         itself is not taxable, the interest or penalty they received for the insurer&apos;s
         delay in paying it is fully taxable. This is a direct consequence of the general rule
-        that interest income is always included in gross income under IRC &sect;61(a)(4).
+        that interest income is always included in gross income under IRC &sect; 61(a)(4).
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -601,7 +601,7 @@ export default function Content() {
         policyholder.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This timing issue is particularly important for &sect;1033 elections, where the
+        This timing issue is particularly important for &sect; 1033 elections, where the
         replacement period begins when the gain is &ldquo;realized.&rdquo; Policyholders
         who are fighting with their mortgage company to release insurance funds should be
         aware that the tax clock may already be running.
@@ -612,7 +612,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California generally conforms to federal tax treatment of insurance proceeds, including
-        the &sect;1033 involuntary conversion election. However, California has its own rules
+        the &sect; 1033 involuntary conversion election. However, California has its own rules
         and sometimes diverges from federal law in important ways. For example, California may
         have different conformity dates and may not automatically adopt every federal change.
       </p>
@@ -667,7 +667,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Consider &sect;1033 Before Making Rebuilding Decisions
+        Consider &sect; 1033 Before Making Rebuilding Decisions
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The decision to rebuild or not has direct tax consequences. If you are leaning toward
@@ -718,7 +718,7 @@ export default function Content() {
         separately under the applicable rules. The personal-use portion follows the rules for
         personal residences, and the business-use portion follows the rules for business
         property. This allocation affects the availability of casualty loss deductions, the
-        &sect;1033 replacement period, and the taxability of business income payments.
+        &sect; 1033 replacement period, and the taxability of business income payments.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -775,13 +775,13 @@ export default function Content() {
           tax-free can lead to a significant underpayment penalty.
         </li>
         <li>
-          <strong>Failing to elect &sect;1033 treatment.</strong> The involuntary conversion
+          <strong>Failing to elect &sect; 1033 treatment.</strong> The involuntary conversion
           deferral is an election &mdash; it does not happen automatically. If you do not
-          affirmatively elect &sect;1033 on your tax return, the gain is taxable. Missing this
+          affirmatively elect &sect; 1033 on your tax return, the gain is taxable. Missing this
           election is an expensive mistake.
         </li>
         <li>
-          <strong>Missing the replacement period deadline.</strong> The &sect;1033 replacement
+          <strong>Missing the replacement period deadline.</strong> The &sect; 1033 replacement
           period has firm deadlines. If you need more time, you must request an extension from
           the IRS before the period expires. Do not assume the deadline will be extended
           automatically.
@@ -805,7 +805,7 @@ export default function Content() {
         <li>
           <strong>Filing a tax return without consulting a professional.</strong> Insurance
           claim tax issues are complex, and the stakes are high. A qualified CPA, enrolled
-          agent, or tax attorney can identify opportunities (like &sect;1033 elections and
+          agent, or tax attorney can identify opportunities (like &sect; 1033 elections and
           casualty loss deductions) and avoid pitfalls (like unreported taxable income) that
           a general return preparer might miss.
         </li>
@@ -852,7 +852,7 @@ export default function Content() {
             IRS Publication 544
           </a>{' '}
           &mdash; Sales and Other Dispositions of Assets: covers involuntary conversions
-          under &sect;1033
+          under &sect; 1033
         </li>
         <li>
           <a
@@ -925,7 +925,7 @@ export default function Content() {
         client counseling from day one. A client who receives a $1 million settlement may net
         significantly different amounts depending on how the proceeds are allocated and whether
         available elections and deductions are utilized. Failing to advise a client about
-        &sect;1033 elections, casualty loss deductions, or the taxability of punitive damages
+        &sect; 1033 elections, casualty loss deductions, or the taxability of punitive damages
         is a disservice &mdash; and in some cases, could give rise to a malpractice claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

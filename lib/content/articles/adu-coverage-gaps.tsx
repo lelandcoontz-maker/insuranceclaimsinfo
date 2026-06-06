@@ -141,17 +141,17 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        California Insurance Code &sect;533 and the Illegality Defense
+        California Insurance Code &sect; 533 and the Illegality Defense
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;533 states that &ldquo;an insurer is not liable for a loss
+        California Insurance Code &sect; 533 states that &ldquo;an insurer is not liable for a loss
         caused by the willful act of the insured.&rdquo; Some carriers have tried to use this
         provision to deny claims on unpermitted structures, arguing that building without a permit
         is an illegal act and therefore excluded.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This argument is much weaker than carriers sometimes suggest. The illegality defense under
-        &sect;533 is narrow. California courts have generally held that &sect;533 applies to
+        &sect; 533 is narrow. California courts have generally held that &sect; 533 applies to
         intentional, willful acts that <em>cause</em> the loss &mdash; not to building code
         violations that merely exist at the time of loss. Building a garage conversion without a
         permit is a code violation, but the lack of a permit does not <em>cause</em> the fire, the
@@ -168,7 +168,7 @@ export default function Content() {
         <p>
           If you have an unpermitted garage conversion that suffers a covered loss, do not assume
           your claim is dead. The carrier must still evaluate the loss under the terms of the
-          policy. The illegality defense under Insurance Code &sect;533 is narrow and typically
+          policy. The illegality defense under Insurance Code &sect; 533 is narrow and typically
           requires the illegal act to be the <em>cause</em> of the loss. Consult a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
             licensed Public Adjuster
@@ -350,7 +350,7 @@ export default function Content() {
         Many homeowners build ADUs without notifying their insurance carrier. The carrier&rsquo;s
         adjuster discovers the ADU during the claims inspection, and the carrier argues the
         homeowner failed to disclose a material change in the risk. Under California Insurance
-        Code &sect;338, a policy can be rescinded for concealment or misrepresentation of a
+        Code &sect; 338, a policy can be rescinded for concealment or misrepresentation of a
         material fact. Carriers regularly take the position that an unreported habitable
         structure &mdash; especially one being rented &mdash; is material. Even without
         rescission, the carrier may deny coverage for the ADU itself, limit the claim to the

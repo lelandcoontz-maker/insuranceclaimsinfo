@@ -96,12 +96,12 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        &sect;1033 Involuntary Conversion: How to Defer the Gain
+        &sect; 1033 Involuntary Conversion: How to Defer the Gain
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The tax code provides relief for gains that arise from involuntary conversions &mdash;
         situations where your property is destroyed, stolen, or condemned, and you receive insurance
-        proceeds or other compensation. Under Internal Revenue Code &sect;1033, you can <strong>defer
+        proceeds or other compensation. Under Internal Revenue Code &sect; 1033, you can <strong>defer
         the taxable gain</strong> if you reinvest the proceeds into &ldquo;similar or related&rdquo;
         replacement property within the required time period.
       </p>
@@ -144,7 +144,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Rebuilding vs. Buying">
         <p>
-          Whether you rebuild on your existing lot or purchase a different home, &sect;1033 can
+          Whether you rebuild on your existing lot or purchase a different home, &sect; 1033 can
           apply either way. The key is that you reinvest the proceeds into property that serves the
           same use (personal residence replaces personal residence, rental replaces rental) and that
           you do so within the time limit. If you are considering cashing out rather than replacing
@@ -367,8 +367,8 @@ export default function Content() {
           qualifies for any California-specific relief.
         </li>
         <li>
-          <strong>&sect;1033 involuntary conversions:</strong> California generally conforms to the
-          federal &sect;1033 rules, allowing gain deferral on involuntary conversions when proceeds
+          <strong>&sect; 1033 involuntary conversions:</strong> California generally conforms to the
+          federal &sect; 1033 rules, allowing gain deferral on involuntary conversions when proceeds
           are reinvested in replacement property. However, there can be differences in the details
           &mdash; particularly regarding the definition of qualifying replacement property and
           available time extensions.
@@ -424,13 +424,13 @@ export default function Content() {
           loss of rents, debris removal, interest, and so on. The tax treatment varies by category.
         </li>
         <li>
-          <strong>Understand the &sect;1033 deadlines.</strong> If you have a taxable gain, you need
+          <strong>Understand the &sect; 1033 deadlines.</strong> If you have a taxable gain, you need
           to know when the clock starts and when it expires for reinvesting proceeds. Missing the
           deadline means the gain becomes taxable in the year realized.
         </li>
         <li>
           <strong>Keep receipts for replacement property.</strong> If you are deferring gain under
-          &sect;1033, you will need to prove you reinvested the proceeds into qualifying replacement
+          &sect; 1033, you will need to prove you reinvested the proceeds into qualifying replacement
           property. Save every receipt, closing statement, and contract.
         </li>
         <li>
@@ -470,7 +470,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Property damage proceeds exceeding basis:</strong> Taxable gain, unless deferred
-          under &sect;1033
+          under &sect; 1033
         </li>
         <li>
           <strong>ALE for owner-occupied home:</strong> Generally not taxable

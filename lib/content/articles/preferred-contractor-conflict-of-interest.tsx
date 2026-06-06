@@ -271,7 +271,7 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s Fair Claims Settlement Practices Regulations address this directly. Title
-        10, California Code of Regulations, &sect;2695.9(b) provides:
+        10, California Code of Regulations, &sect; 2695.9(b) provides:
       </p>
 
       <blockquote className="border-l-4 border-[#2E74B5] pl-4 italic text-gray-600 mb-6">
@@ -336,7 +336,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;790.03(h) defines unfair claims settlement practices,
+        California Insurance Code &sect; 790.03(h) defines unfair claims settlement practices,
         including not attempting in good faith to effectuate prompt, fair, and equitable settlements,
         and compelling insureds to institute litigation by offering substantially less than amounts
         ultimately recovered. A carrier that systematically underpays claims where the policyholder
@@ -346,7 +346,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        &sect;2695.9(d) of the regulations requires that repair and rebuilding cost estimates used by
+        &sect; 2695.9(d) of the regulations requires that repair and rebuilding cost estimates used by
         the insurer be &quot;accurate and representative of costs in the local market area.&quot;
         When the insured&apos;s independent contractor submits a bid that reflects actual market
         conditions, the carrier must engage with that bid on its merits. The carrier cannot simply
@@ -520,7 +520,7 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         California law requires a written home improvement contract for any project exceeding $500
-        (Bus. &amp; Prof. Code &sect;7159). A contractor who begins work without a signed contract is
+        (Bus. &amp; Prof. Code &sect; 7159). A contractor who begins work without a signed contract is
         not only violating the law &mdash; they are creating a situation in which the homeowner has
         limited recourse if the work is substandard, the price escalates, or the scope is incomplete.
         If a preferred vendor begins demolition or repairs before you have signed anything, stop them
@@ -607,7 +607,7 @@ export default function Content() {
         estimate, particularly when the insured has presented a legitimate contractor&apos;s bid that
         reflects higher actual costs. California&apos;s regulations require that repair cost
         estimates be &quot;accurate and representative of costs in the local market area&quot; (10
-        CCR &sect;2695.9(d)). A preferred vendor&apos;s estimate produced under program pricing
+        CCR &sect; 2695.9(d)). A preferred vendor&apos;s estimate produced under program pricing
         constraints may not meet this standard.
       </p>
 
@@ -778,7 +778,7 @@ export default function Content() {
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          California Insurance Code &sect;790.03(h) &mdash; Unfair Claims Settlement Practices.{' '}
+          California Insurance Code &sect; 790.03(h) &mdash; Unfair Claims Settlement Practices.{' '}
           <a
             href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=790.03.&lawCode=INS"
             target="_blank"
@@ -789,7 +789,7 @@ export default function Content() {
           </a>
         </li>
         <li>
-          10 CCR &sect;2695.9 &mdash; Additional Standards Applicable to First Party Residential and
+          10 CCR &sect; 2695.9 &mdash; Additional Standards Applicable to First Party Residential and
           Commercial Property Insurance Policies (policyholder right to choose contractor, carrier
           guarantee when preferred vendor is used, cost estimate accuracy requirements).{' '}
           <a
@@ -802,7 +802,7 @@ export default function Content() {
           </a>
         </li>
         <li>
-          10 CCR &sect;2695.7 &mdash; Standards for Prompt, Fair and Equitable Settlements.{' '}
+          10 CCR &sect; 2695.7 &mdash; Standards for Prompt, Fair and Equitable Settlements.{' '}
           <a
             href="https://www.law.cornell.edu/regulations/california/10-CCR-2695.7"
             target="_blank"
@@ -813,7 +813,7 @@ export default function Content() {
           </a>
         </li>
         <li>
-          California Business and Professions Code &sect;7159 &mdash; Home Improvement Contracts
+          California Business and Professions Code &sect; 7159 &mdash; Home Improvement Contracts
           (written contract requirement for projects exceeding $500).{' '}
           <a
             href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7159.&lawCode=BPC"

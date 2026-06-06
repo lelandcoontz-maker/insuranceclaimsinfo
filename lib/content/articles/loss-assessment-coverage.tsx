@@ -53,7 +53,7 @@ export default function Content() {
         But master policies have limits and deductibles, just like any other insurance policy.
         When the cost of the loss exceeds what the master policy pays, the association must come
         up with the difference. Under most CC&amp;Rs and under California&rsquo;s Davis-Stirling
-        Common Interest Development Act (Civil Code &sect;&sect;4000&ndash;6150), the association
+        Common Interest Development Act (Civil Code &sect;&sect; 4000&ndash;6150), the association
         has the authority to levy a <strong>special assessment</strong> against all unit owners to
         cover that shortfall.
       </p>
@@ -297,7 +297,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="You Have a Right to See the Master Policy">
         <p>
-          Under California Civil Code &sect;5200, every member of a common interest development
+          Under California Civil Code &sect; 5200, every member of a common interest development
           has the right to inspect and copy the association&rsquo;s records, including insurance
           policies. You do not need to give a reason. Request a complete copy of the master
           policy &mdash; not just the declarations page, but the full policy including all
@@ -316,26 +316,26 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Civil Code &sect;5605:</strong> The board may impose special assessments
+          <strong>Civil Code &sect; 5605:</strong> The board may impose special assessments
           subject to member approval requirements. Assessments that exceed 5 percent of the
           association&rsquo;s budgeted gross expenses for the current fiscal year generally
           require a member vote, unless the board determines that an emergency exists &mdash;
           which is typically the case after a major property loss.
         </li>
         <li>
-          <strong>Civil Code &sect;5610:</strong> Defines &ldquo;emergency&rdquo; assessments
+          <strong>Civil Code &sect; 5610:</strong> Defines &ldquo;emergency&rdquo; assessments
           that the board can levy without a member vote, including assessments necessary to
           address an immediate threat to personal safety or structural integrity, or to comply
           with a court order.
         </li>
         <li>
-          <strong>Civil Code &sect;5300:</strong> Requires the association to distribute an
+          <strong>Civil Code &sect; 5300:</strong> Requires the association to distribute an
           annual budget report that includes a summary of the association&rsquo;s insurance
           coverage. This report should identify the master policy limits, deductibles, and any
           excluded perils. Review this document annually to assess your loss assessment exposure.
         </li>
         <li>
-          <strong>Civil Code &sect;5810:</strong> Allows the association to impose assessments
+          <strong>Civil Code &sect; 5810:</strong> Allows the association to impose assessments
           to fund litigation, subject to member approval requirements. If the association is
           involved in construction defect litigation or other legal disputes, these assessments
           may trigger loss assessment coverage if the underlying claim involves a covered peril.
@@ -442,8 +442,8 @@ export default function Content() {
         </li>
         <li>
           <strong>Follow up in writing.</strong> If the carrier denies or delays, respond in
-          writing. Under California Insurance Code &sect;790.03(h) and California Code of
-          Regulations &sect;2695.7, the carrier must acknowledge your claim within 15 days,
+          writing. Under California Insurance Code &sect; 790.03(h) and California Code of
+          Regulations &sect; 2695.7, the carrier must acknowledge your claim within 15 days,
           accept or deny within 40 days, and provide a written explanation for any denial.
         </li>
       </ol>
@@ -458,7 +458,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Request and review the HOA master policy.</strong> You have a legal right to
-          see it under Civil Code &sect;5200. Do not accept a summary &mdash; request the full
+          see it under Civil Code &sect; 5200. Do not accept a summary &mdash; request the full
           policy with all endorsements and exclusions. Pay particular attention to the
           deductible, the coverage limits, and whether earthquake and flood are included.
         </li>
@@ -483,7 +483,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Attend board meetings and review the annual budget report.</strong> The
-          association&rsquo;s annual budget report (required under Civil Code &sect;5300) includes
+          association&rsquo;s annual budget report (required under Civil Code &sect; 5300) includes
           an insurance summary. Review it every year. If the master policy deductible has
           increased or coverage has been dropped, adjust your individual coverage accordingly.
         </li>
@@ -535,7 +535,7 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (Cal. Code Regs. tit. 10, &sect;2695.7), the carrier must provide a written explanation
+        (Cal. Code Regs. tit. 10, &sect; 2695.7), the carrier must provide a written explanation
         for any denial, including the specific policy provisions and factual basis on which the
         denial rests. A vague denial letter that simply states &ldquo;not a covered loss&rdquo;
         without identifying the specific exclusion or coverage limitation does not satisfy the

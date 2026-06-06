@@ -81,7 +81,7 @@ export default function Content() {
         should understand that the carrier is, at best, oversimplifying the law. The interplay
         between no-assignment clauses and post-loss assignment in California is governed by two
         California Supreme Court decisions and one long-standing statute. Insurance Code
-        &sect;520, on the books since 1872, provides that &ldquo;an agreement not to transfer
+        &sect; 520, on the books since 1872, provides that &ldquo;an agreement not to transfer
         the claim of the insured against the insurer after a loss has happened, is void if made
         before the loss.&rdquo; In <em>Henkel Corp. v. Hartford Accident &amp; Indemnity Co.</em>{' '}
         (2003) 29 Cal.4th 934, the California Supreme Court initially read no-assignment clauses
@@ -89,15 +89,15 @@ export default function Content() {
         that consent was still required unless the loss had been reduced to a &ldquo;sum
         due&rdquo; &mdash; a restrictive rule that disadvantaged policyholders whose claims were
         not yet liquidated. Twelve years later, in <em>Fluor Corp. v. Superior Court</em> (2015)
-        61 Cal.4th 1175, the same court revisited the issue and held that &sect;520 invalidates
+        61 Cal.4th 1175, the same court revisited the issue and held that &sect; 520 invalidates
         no-assignment clauses for occurrence-based liability claims once the loss has occurred
         &mdash; effectively limiting <em>Henkel</em> and aligning California with the majority
         rule that post-loss assignments cannot be barred by a clause in the original policy.
-        Critically, &sect;520 was on the books in 1872 &mdash; more than a century before
+        Critically, &sect; 520 was on the books in 1872 &mdash; more than a century before
         <em> Henkel</em> was decided &mdash; but the <em>Henkel</em> court did not apply it.
         <em> Fluor</em> is therefore better understood as the Supreme Court finally applying a
         long-existing statute that <em>Henkel</em> had overlooked, not as a pure overruling of
-        <em> Henkel</em>. The substantive rule for a reader to apply is that &sect;520 makes
+        <em> Henkel</em>. The substantive rule for a reader to apply is that &sect; 520 makes
         pre-loss anti-assignment provisions void as to post-loss transfers once the covered
         loss (the injury or property damage giving rise to potentially covered liability) has
         occurred &mdash; not merely once a claim has been reduced to a fixed-dollar judgment.
@@ -736,11 +736,11 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California Insurance Code &sect;520
+        California Insurance Code &sect; 520
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;520 provides that &quot;an agreement not to transfer
+        California Insurance Code &sect; 520 provides that &quot;an agreement not to transfer
         the claim of the insured against the insurer after a loss has occurred is void as
         against public policy.&quot; This statute codifies the principle that post-loss
         assignments cannot be prohibited by contract. Even if the policy contains an
@@ -767,25 +767,25 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         In <em>Fluor Corp. v. Superior Court</em> (2015) 61 Cal.4th 1175, the California Supreme
-        Court substantially limited <em>Henkel</em>. Applying Insurance Code &sect;520 &mdash;
+        Court substantially limited <em>Henkel</em>. Applying Insurance Code &sect; 520 &mdash;
         which has been on the books since 1872 and provides that &ldquo;an agreement not to
         transfer the claim of the insured against the insurer after a loss has happened, is void
         if made before the loss&rdquo; &mdash; the <em>Fluor</em> court held that no-assignment
         clauses are unenforceable for occurrence-based liability claims once the underlying loss
-        has occurred. The court read &sect;520 to mean what it says: the pre-loss agreement
+        has occurred. The court read &sect; 520 to mean what it says: the pre-loss agreement
         purporting to bar post-loss transfer of the claim is void by statute.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>The current rule in California, after <em>Fluor</em>:</strong> For liability
         policies covering pre-assignment occurrences, no-assignment clauses cannot be enforced
-        against post-loss assignments &mdash; <em>Fluor</em>, applying &sect;520, controls. For
+        against post-loss assignments &mdash; <em>Fluor</em>, applying &sect; 520, controls. For
         first-party property claims, <em>Henkel</em>&rsquo;s restrictive &ldquo;sum due&rdquo;
-        rule has not been formally overruled, but <em>Fluor</em>&rsquo;s reading of &sect;520
+        rule has not been formally overruled, but <em>Fluor</em>&rsquo;s reading of &sect; 520
         &mdash; that pre-loss restrictions on post-loss transfer are void by statute &mdash;
         provides strong policyholder-side authority that the same protection should extend.
         Policyholders and contractors facing a carrier&rsquo;s no-assignment defense should cite
-        &sect;520 directly and rely on <em>Fluor</em> as the controlling Supreme Court
+        &sect; 520 directly and rely on <em>Fluor</em> as the controlling Supreme Court
         interpretation of the statute.
       </p>
 
@@ -798,7 +798,7 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (California Code of Regulations, Title 10, &sect;2695.1 et seq.) impose obligations on
+        (California Code of Regulations, Title 10, &sect; 2695.1 et seq.) impose obligations on
         insurers regarding how they handle claims. While these regulations do not specifically
         address assignments, they require carriers to act in good faith and deal fairly with
         claimants. A carrier that refuses to honor a valid post-loss assignment &mdash; or that
@@ -951,7 +951,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Carriers will routinely raise the anti-assignment clause as a defense to any lawsuit
         brought by a contractor-assignee. Be prepared to address this head-on. California
-        Insurance Code &sect;520 and <em>Henkel v. Hartford</em> provide the foundation for
+        Insurance Code &sect; 520 and <em>Henkel v. Hartford</em> provide the foundation for
         the argument that post-loss assignments are enforceable regardless of anti-assignment
         clauses. This is well-settled law, but carriers continue to raise the defense, often
         successfully when opposing counsel is unfamiliar with the distinction between pre-loss
@@ -979,7 +979,7 @@ export default function Content() {
           <strong>&quot;My policy prohibits all assignments.&quot;</strong> No. Anti-assignment
           clauses prohibit the assignment of the policy itself &mdash; a pre-loss transfer of
           the contract. They do not prohibit post-loss assignments of claims, benefits, or
-          rights. California Insurance Code &sect;520 makes this explicit.
+          rights. California Insurance Code &sect; 520 makes this explicit.
         </li>
         <li>
           <strong>&quot;An AOB and an assignment of rights are the same thing.&quot;</strong> They
@@ -1104,7 +1104,7 @@ export default function Content() {
           at face value.</strong> Ask them to specify exactly what they believe is prohibited
           and under what authority. If they cite the anti-assignment clause, ask them whether
           they are aware of the distinction between pre-loss policy assignments and post-loss
-          claim assignments, and whether they are aware of California Insurance Code &sect;520.
+          claim assignments, and whether they are aware of California Insurance Code &sect; 520.
         </li>
         <li>
           <strong>Get professional advice.</strong> If a significant amount of money is at

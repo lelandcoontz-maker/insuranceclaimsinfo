@@ -169,7 +169,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         In 2023, Cal/OSHA adopted an emergency temporary standard (ETS) for respirable crystalline
-        silica. In 2025, that standard became permanent under Title 8 CCR &sect;5204 &mdash; with
+        silica. In 2025, that standard became permanent under Title 8 CCR &sect; 5204 &mdash; with
         no sunset clause, no grace period, and no excuses. The California standard goes beyond
         federal OSHA in several important ways:
       </p>
@@ -400,7 +400,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Reference the OSHA standard directly.</strong> Cite 29 CFR 1926.1153 (federal)
-          and Title 8 CCR &sect;5204 (California) in your correspondence with the insurer. These
+          and Title 8 CCR &sect; 5204 (California) in your correspondence with the insurer. These
           are not suggestions &mdash; they are enforceable regulations with real penalties.
         </li>
         <li>
@@ -431,7 +431,7 @@ export default function Content() {
         The Eight Core Employer Duties Under California&apos;s Permanent Silica Standard
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s permanent silica standard (Title 8 CCR &sect;5204) imposes eight core
+        California&apos;s permanent silica standard (Title 8 CCR &sect; 5204) imposes eight core
         duties on any employer whose workers may be exposed to respirable crystalline silica:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">

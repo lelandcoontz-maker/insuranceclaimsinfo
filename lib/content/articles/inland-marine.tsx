@@ -385,24 +385,24 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Inland marine claims in California are subject to the same Fair Claims Settlement
-        Practices Regulations (California Code of Regulations, Title 10, &sect;2695.1 et seq.)
+        Practices Regulations (California Code of Regulations, Title 10, &sect; 2695.1 et seq.)
         that govern all property insurance claims:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           The insurer must acknowledge your claim within 15 days and begin its investigation
-          immediately (Cal. Code Regs., tit. 10, &sect;2695.5(e))
+          immediately (Cal. Code Regs., tit. 10, &sect; 2695.5(e))
         </li>
         <li>
           The insurer must accept or deny the claim within 40 days of receiving proof of claim
-          (&sect;2695.7(b))
+          (&sect; 2695.7(b))
         </li>
         <li>
-          The insurer cannot lowball the valuation without a reasonable basis (&sect;2695.7(g))
+          The insurer cannot lowball the valuation without a reasonable basis (&sect; 2695.7(g))
         </li>
         <li>
           A denial must include a written explanation referencing specific policy language
-          (&sect;2695.7(b)(1))
+          (&sect; 2695.7(b)(1))
         </li>
         <li>
           You can file a complaint with the California Department of Insurance &mdash; see our
@@ -420,7 +420,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Inland marine claims are property claims &mdash; they fall squarely within the scope of
         what a California-licensed public adjuster is authorized to handle under California
-        Insurance Code &sect;15007. A public adjuster represents the policyholder, not the
+        Insurance Code &sect; 15007. A public adjuster represents the policyholder, not the
         insurance company, in preparing, presenting, and negotiating the claim.
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

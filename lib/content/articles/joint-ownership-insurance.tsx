@@ -619,25 +619,25 @@ export default function Content() {
         <p>
           The controlling California Supreme Court authority on innocent co-insured rights in
           residential fire insurance is <em>Century-National Ins. Co. v. Garcia</em> (2011) 51
-          Cal.4th 564. The holding does not rest on &sect;533 alone &mdash; it rests on the
+          Cal.4th 564. The holding does not rest on &sect; 533 alone &mdash; it rests on the
           mandatory standard fire policy framework. Under <strong>Insurance Code
-          &sect;&sect;2070&ndash;2071</strong>, California fire policies must use the &sect;2071
+          &sect;&sect; 2070&ndash;2071</strong>, California fire policies must use the &sect; 2071
           standard form (or provide coverage &ldquo;substantially equivalent&rdquo; to it). The
-          &sect;2071 standard form uses &ldquo;the insured&rdquo; (severable, singular) in its
+          &sect; 2071 standard form uses &ldquo;the insured&rdquo; (severable, singular) in its
           willful-act exclusion language, consistent with <strong>Insurance Code
-          &sect;533</strong>&rsquo;s public-policy framing. A privately drafted policy exclusion
+          &sect; 533</strong>&rsquo;s public-policy framing. A privately drafted policy exclusion
           that broadens this to &ldquo;any insured&rdquo; (collective) provides materially less
           coverage than the standard form requires &mdash; and is therefore invalid as to
           innocent co-insureds. The practical result: the innocent co-insured can recover
           regardless of another insured&rsquo;s willful conduct.
         </p>
         <p className="mt-3">
-          The operative statutory mechanism is the &sect;2071 standard-form floor, not &sect;533
-          standing alone. &sect;533 supplies the public-policy framing that the standard form
-          incorporates; the &sect;2071 standard-form floor is what invalidates a broader
+          The operative statutory mechanism is the &sect; 2071 standard-form floor, not &sect; 533
+          standing alone. &sect; 533 supplies the public-policy framing that the standard form
+          incorporates; the &sect; 2071 standard-form floor is what invalidates a broader
           privately drafted exclusion. For commercial co-ownership situations (business partners,
           LLCs), the innocent co-insured analysis relies on common law and the specific policy
-          language &mdash; the mandatory &sect;&sect;2070&ndash;2071 standard form applies to
+          language &mdash; the mandatory &sect;&sect; 2070&ndash;2071 standard form applies to
           fire insurance on real property, not to commercial policies generally. If your
           co-ownership involves commercial property, consult with an attorney who can analyze
           the specific policy provisions.

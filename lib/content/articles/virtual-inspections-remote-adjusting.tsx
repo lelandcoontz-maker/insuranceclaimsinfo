@@ -231,7 +231,7 @@ export default function Content() {
         California&rsquo;s Reasonable Investigation Requirement
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under the Fair Claims Settlement Practices Regulations (10 CCR &sect;2695.7(b)),
+        Under the Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.7(b)),
         insurers must conduct a &ldquo;reasonable investigation&rdquo; of every claim. What
         constitutes a &ldquo;reasonable investigation&rdquo; depends on the nature and
         complexity of the claim. For a minor claim with limited, visible damage, a remote
@@ -239,7 +239,7 @@ export default function Content() {
         damage, a desk review is unlikely to satisfy the regulatory standard.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;790.03(h)(3) prohibits insurers from &ldquo;failing
+        California Insurance Code &sect; 790.03(h)(3) prohibits insurers from &ldquo;failing
         to adopt and implement reasonable standards for the prompt investigation of claims.&rdquo;
         If the carrier&rsquo;s &ldquo;standard&rdquo; for investigating a major property loss
         is a desk review based on satellite photos, that standard may not be reasonable within
@@ -413,7 +413,7 @@ export default function Content() {
         </li>
         <li>
           <strong>California Department of Insurance</strong> &mdash; Regulatory guidance on
-          claims handling standards and investigation requirements under 10 CCR &sect;2695
+          claims handling standards and investigation requirements under 10 CCR &sect; 2695
           et seq. Available at insurance.ca.gov.
         </li>
         <li>
@@ -423,7 +423,7 @@ export default function Content() {
           inspections.
         </li>
         <li>
-          <strong>California Insurance Code &sect;790.03(h)</strong> &mdash; Statutory
+          <strong>California Insurance Code &sect; 790.03(h)</strong> &mdash; Statutory
           prohibitions on unfair claims settlement practices, including the duty to adopt
           reasonable investigation standards. Available through leginfo.legislature.ca.gov.
         </li>

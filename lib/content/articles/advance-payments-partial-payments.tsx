@@ -219,7 +219,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        10 CCR &sect;2695.7(h): The Undisputed-Amount Rule
+        10 CCR &sect; 2695.7(h): The Undisputed-Amount Rule
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Section 2695.7(h) of the California Code of Regulations (Title 10) is one of the most
@@ -270,7 +270,7 @@ export default function Content() {
           own number immediately, while reserving your right to dispute the difference.
         </li>
         <li>
-          <strong>Cite the regulation by number.</strong> Reference 10 CCR &sect;2695.7(h) specifically
+          <strong>Cite the regulation by number.</strong> Reference 10 CCR &sect; 2695.7(h) specifically
           in your written demand. This puts the carrier on notice that you know the rule and that any
           continued withholding may constitute an unfair claims practice.
         </li>
@@ -378,7 +378,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California has addressed the ALE advance issue directly for declared disasters. Under
-        California Insurance Code &sect;2061(a), when a total loss results from a declared state of
+        California Insurance Code &sect; 2061(a), when a total loss results from a declared state of
         emergency, the insurer must advance no less than four months of ALE upon the insured&apos;s
         request. The insured does not need to submit receipts first. The insured does not need to
         prove what they have &ldquo;incurred.&rdquo; The advance is mandatory.
@@ -531,7 +531,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Put every request in writing.</strong> Demand the advance in a letter or email that
-          specifically cites 10 CCR &sect;2695.7(h) and explains why the amount is undisputed. Keep
+          specifically cites 10 CCR &sect; 2695.7(h) and explains why the amount is undisputed. Keep
           a copy. See our article on{' '}
           <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
             California Fair Claims regulations
@@ -742,7 +742,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Do not wait for the carrier to volunteer an advance. The moment you have a covered loss that
         will require significant spending before the claim is resolved, send a written demand for an
-        advance. Cite your policy, cite 10 CCR &sect;2695.7(h), and explain specifically what you
+        advance. Cite your policy, cite 10 CCR &sect; 2695.7(h), and explain specifically what you
         need the money for. The written demand starts the clock and creates a record.
       </p>
 
@@ -775,7 +775,7 @@ export default function Content() {
         frame your request as a demand for the undisputed amount, you are invoking a specific
         regulatory obligation that the carrier knows it must comply with. Do not ask for
         &ldquo;some money&rdquo; or an &ldquo;advance.&rdquo; Ask for &ldquo;the undisputed
-        amount, as required by 10 CCR &sect;2695.7(h).&rdquo;
+        amount, as required by 10 CCR &sect; 2695.7(h).&rdquo;
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -924,7 +924,7 @@ export default function Content() {
           and the result is that policyholders now wait much longer for any payment at all.
         </li>
         <li>
-          California law (10 CCR &sect;2695.7[h]) requires carriers to pay undisputed amounts
+          California law (10 CCR &sect; 2695.7[h]) requires carriers to pay undisputed amounts
           promptly, even while disputed amounts are being negotiated. This effectively creates a
           mandatory advance payment mechanism in most claims.
         </li>

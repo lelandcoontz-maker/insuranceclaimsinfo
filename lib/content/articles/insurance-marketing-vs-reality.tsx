@@ -406,7 +406,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         California Regulation: Misleading Pre-Loss Replacement Cost Estimates (10 CCR
-        &sect;2695.183)
+        &sect; 2695.183)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The disconnect between insurance marketing and reality is not limited to television
@@ -452,7 +452,7 @@ export default function Content() {
           can be rebuilt for $450,000, and the actual rebuilding cost after a loss is
           $700,000, the carrier has effectively misrepresented the value of the product it
           sold you. You paid premiums for a policy limit that the carrier&apos;s own tools
-          told you was adequate. Under 10 CCR &sect;2695.183, the carrier has a regulatory
+          told you was adequate. Under 10 CCR &sect; 2695.183, the carrier has a regulatory
           obligation to ensure those estimates are reasonably accurate. When they are not,
           the carrier bears responsibility for the resulting underinsurance &mdash; not the
           policyholder who relied on the carrier&apos;s own numbers.
@@ -641,7 +641,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Unfair Competition Law (Business and Professions Code &sect;17200)
+        The Unfair Competition Law (Business and Professions Code &sect; 17200)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Unlike Section 790.03, California&apos;s Unfair Competition Law allows individual

@@ -92,7 +92,7 @@ export default function Content() {
         California Insurance Code Section 2051.5: The Statutory Framework
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;2051.5 is the statute that governs recoverable depreciation
+        California Insurance Code &sect; 2051.5 is the statute that governs recoverable depreciation
         deadlines for residential property claims in California. It establishes minimum timeframes
         that override any shorter deadline in your policy, and it provides extended protections for
         losses related to declared states of emergency.
@@ -123,7 +123,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Section 2051.5(b)(1) also provides that, in the event of a loss relating to a
-        &ldquo;state of emergency&rdquo; as defined in Government Code &sect;8558, no time limit
+        &ldquo;state of emergency&rdquo; as defined in Government Code &sect; 8558, no time limit
         of less than 36 months from the date that the first payment toward the actual cash value
         is made shall be placed upon the insured to collect the full replacement cost of the loss,
         subject to the policy limit. This extended period reflects the reality that major
@@ -138,7 +138,7 @@ export default function Content() {
         circumstances beyond the policyholder&apos;s control prevent timely completion. If you
         are in a declared disaster area and the construction timeline stretches beyond 36 months
         due to permitting delays, contractor availability, or supply chain issues, you should be
-        requesting an extension well before the deadline arrives. (Separately, &sect;2051.5(c)(1),
+        requesting an extension well before the deadline arrives. (Separately, &sect; 2051.5(c)(1),
         as amended by AB 1800, confirms an insured&rsquo;s right to collect full replacement cost
         whether rebuilding at the current location, rebuilding at a new location, or purchasing
         an already built home at a new location.)
@@ -288,7 +288,7 @@ export default function Content() {
         When the Clock Starts: What &quot;First Actual Cash Value Payment&quot; Means
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;2051.5 starts the clock from &quot;the date of the first
+        California Insurance Code &sect; 2051.5 starts the clock from &quot;the date of the first
         actual cash value payment on the claim.&quot; This language seems straightforward, but disputes
         arise about what constitutes the &quot;first&quot; payment:
       </p>

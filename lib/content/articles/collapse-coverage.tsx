@@ -172,7 +172,7 @@ export default function Content() {
         Interpreting Ambiguity Against the Insurer
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;1649, incorporating Civil Code &sect;1654, requires that ambiguous policy language be interpreted against the party that drafted it &mdash; which is always the insurer. If the definition of &ldquo;collapse&rdquo; in your policy is ambiguous, or if the policy does not define the term at all, California courts will construe that ambiguity in favor of coverage. This is a bedrock principle of California insurance law, and it applies with full force in collapse disputes.
+        California Insurance Code &sect; 1649, incorporating Civil Code &sect; 1654, requires that ambiguous policy language be interpreted against the party that drafted it &mdash; which is always the insurer. If the definition of &ldquo;collapse&rdquo; in your policy is ambiguous, or if the policy does not define the term at all, California courts will construe that ambiguity in favor of coverage. This is a bedrock principle of California insurance law, and it applies with full force in collapse disputes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The argument is straightforward: the word &ldquo;collapse&rdquo; has multiple reasonable meanings. A layperson would reasonably understand &ldquo;collapse&rdquo; to include a structure that is so severely compromised that it is unsafe and unusable, even if it has not yet physically fallen. If the carrier wanted to limit coverage to only literal falling down, it had the ability to write clearer language. Its failure to do so creates an ambiguity that is resolved in favor of the policyholder.
@@ -182,7 +182,7 @@ export default function Content() {
         The Efficient Proximate Cause Doctrine
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s efficient proximate cause doctrine, codified in Insurance Code &sect;530, can play a significant role in collapse claims. When multiple causes contribute to a collapse, California law looks to the <strong>predominating cause</strong> &mdash; the cause that set the others in motion &mdash; to determine coverage.
+        California&rsquo;s efficient proximate cause doctrine, codified in Insurance Code &sect; 530, can play a significant role in collapse claims. When multiple causes contribute to a collapse, California law looks to the <strong>predominating cause</strong> &mdash; the cause that set the others in motion &mdash; to determine coverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For example, consider a home where negligent construction (a covered cause under the Additional Coverage provision, if the collapse occurs during construction) combines with earth movement (an excluded peril) to cause a foundation collapse. Under the efficient proximate cause doctrine, a California court would look to which cause predominated. If the construction defect set the chain of events in motion, coverage may exist even though earth movement also contributed to the collapse. For a detailed discussion of this doctrine, see our article on{' '}
@@ -200,10 +200,10 @@ export default function Content() {
         California Fair Claims Settlement Practices Regulations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Code of Regulations, Title 10, &sect;2695.7(b) requires carriers to provide a written explanation of the basis for any denial. When a carrier denies a collapse claim, the denial letter must specifically identify the policy language relied upon, the facts that support the denial, and the reasoning connecting the two. A vague denial that simply says &ldquo;this is not a collapse&rdquo; without explaining <em>why</em> the carrier concluded the damage does not meet the definition is a regulatory violation.
+        California Code of Regulations, Title 10, &sect; 2695.7(b) requires carriers to provide a written explanation of the basis for any denial. When a carrier denies a collapse claim, the denial letter must specifically identify the policy language relied upon, the facts that support the denial, and the reasoning connecting the two. A vague denial that simply says &ldquo;this is not a collapse&rdquo; without explaining <em>why</em> the carrier concluded the damage does not meet the definition is a regulatory violation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Also, &sect;2695.7(d) prohibits carriers from denying a claim without conducting a thorough investigation. If the carrier denied your collapse claim without sending a structural engineer, without reviewing the evidence of hidden decay or hidden insect damage, or without examining the qualifying causes, that denial may violate California&rsquo;s Fair Claims Settlement Practices Regulations. If you believe the carrier has violated these regulations, you can file a complaint with the California Department of Insurance &mdash; see our article on{' '}
+        Also, &sect; 2695.7(d) prohibits carriers from denying a claim without conducting a thorough investigation. If the carrier denied your collapse claim without sending a structural engineer, without reviewing the evidence of hidden decay or hidden insect damage, or without examining the qualifying causes, that denial may violate California&rsquo;s Fair Claims Settlement Practices Regulations. If you believe the carrier has violated these regulations, you can file a complaint with the California Department of Insurance &mdash; see our article on{' '}
         <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">filing a CDI complaint</Link>.
       </p>
 
@@ -469,7 +469,7 @@ export default function Content() {
         Review the Denial Letter Carefully
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Code of Regulations &sect;2695.7(b), the carrier must provide a written explanation of the basis for any claim denial. The denial letter should identify the specific policy language, the specific facts, and the specific reasoning that support the denial. Read it carefully and identify exactly what the carrier is arguing:
+        Under California Code of Regulations &sect; 2695.7(b), the carrier must provide a written explanation of the basis for any claim denial. The denial letter should identify the specific policy language, the specific facts, and the specific reasoning that support the denial. Read it carefully and identify exactly what the carrier is arguing:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Are they arguing the damage does not constitute a &ldquo;collapse&rdquo;?</li>

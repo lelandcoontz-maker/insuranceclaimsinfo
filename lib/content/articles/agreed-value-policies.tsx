@@ -116,12 +116,12 @@ export default function Content() {
       <CalloutBox variant="important" title="Where Agreed Value Shows Up in California">
         <p>
           Agreed value on a building under a fire policy is statutorily permitted in California:
-          Insurance Code &sect;2052 sets out a procedure where the insurer examines the structure
+          Insurance Code &sect; 2052 sets out a procedure where the insurer examines the structure
           and the parties fix the value of the insured&rsquo;s interest at that time, with the cost
           of the examination paid by the insured. In practice, this procedure is rarely invoked for
           standard residential dwellings &mdash; the default California homeowner policy is an
           &ldquo;open policy&rdquo; governed by the measure-of-indemnity rules in Insurance Code
-          &sect;2051 and the replacement cost framework in &sect;2051.5, not by a pre-agreed figure.
+          &sect; 2051 and the replacement cost framework in &sect; 2051.5, not by a pre-agreed figure.
           Agreed value coverage in California is therefore most often encountered in four contexts:
           commercial property (where an agreed value endorsement is used to suspend the coinsurance
           clause), scheduled personal property under a personal articles floater or inland marine
@@ -129,8 +129,8 @@ export default function Content() {
           cars through specialty carriers like Hagerty or Grundy, and high-net-worth homeowner
           programs from carriers like Chubb, AIG, or PURE. If you have a standard ISO HO-3 or HO-5
           policy on your primary residence, your dwelling is almost certainly being valued under
-          the open-policy framework of &sect;2051 and the replacement cost provisions of
-          &sect;2051.5, not on an agreed value basis.
+          the open-policy framework of &sect; 2051 and the replacement cost provisions of
+          &sect; 2051.5, not on an agreed value basis.
         </p>
       </CalloutBox>
 

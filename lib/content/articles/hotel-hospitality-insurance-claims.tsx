@@ -211,16 +211,16 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Hotels have a unique legal relationship with their guests that creates specific insurance
-        implications. Under California Civil Code &sect;1859 et seq. (the innkeeper&rsquo;s
+        implications. Under California Civil Code &sect; 1859 et seq. (the innkeeper&rsquo;s
         liability statutes), a hotel or inn has a duty of care with respect to guest property.
-        California Civil Code &sect;1860 provides that an innkeeper has a lien on the baggage
-        and property of guests, and &sect;1859 establishes that the innkeeper is liable for loss
+        California Civil Code &sect; 1860 provides that an innkeeper has a lien on the baggage
+        and property of guests, and &sect; 1859 establishes that the innkeeper is liable for loss
         of or injury to personal property of guests.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, California Civil Code &sect;1860 also provides for <strong>limited
+        However, California Civil Code &sect; 1860 also provides for <strong>limited
         liability</strong>. If the hotel maintains a fireproof safe or vault and posts the
-        required notice (California Civil Code &sect;1860), the hotel&rsquo;s liability for
+        required notice (California Civil Code &sect; 1860), the hotel&rsquo;s liability for
         property not deposited in the safe is limited to $500 per guest (or the actual value,
         whichever is less, for certain categories of property). This limited liability statute
         is a critical protection, but it only applies if the hotel strictly complies with the
@@ -238,9 +238,9 @@ export default function Content() {
 
       <CalloutBox variant="important" title="The Safe Deposit Notice Requirement">
         <p>
-          California&rsquo;s limited liability protection for hotels under Civil Code &sect;1860
+          California&rsquo;s limited liability protection for hotels under Civil Code &sect; 1860
           requires strict compliance with notice requirements. The hotel must post a copy of
-          &sect;&sect;1859&ndash;1860 in a conspicuous place in the office or check-in area
+          &sect;&sect; 1859&ndash;1860 in a conspicuous place in the office or check-in area
           and in every guest room. Failure to post the required notice can eliminate the liability
           cap entirely, exposing the hotel to full value claims for all guest property. After a
           major loss, verify that your pre-loss compliance with these posting requirements is
@@ -307,11 +307,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Hotels that serve alcohol &mdash; through restaurants, bars, room service, banquet
         events, or minibars &mdash; face liquor liability exposure. Under California Business
-        and Professions Code &sect;25602, a person who sells, furnishes, gives, or causes to
+        and Professions Code &sect; 25602, a person who sells, furnishes, gives, or causes to
         be sold, furnished, or given away any alcoholic beverage to a habitually intoxicated
         person or to an obviously intoxicated person is not civilly liable for injuries caused
         by that person (California adopted a general rule of non-liability through Civil Code
-        &sect;1714(c)). However, this protection has exceptions, and the practical reality is
+        &sect; 1714(c)). However, this protection has exceptions, and the practical reality is
         that hotels are routinely sued when intoxicated guests cause injuries.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

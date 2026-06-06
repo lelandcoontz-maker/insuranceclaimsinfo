@@ -212,7 +212,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         You choose the roofer. The insurer cannot force you to use their &ldquo;preferred&rdquo;
-        vendor, their &ldquo;network contractor,&rdquo; or anyone else. Under California law, you have the right to hire any licensed contractor you wish (10 CCR &sect;2695.9(b)).
+        vendor, their &ldquo;network contractor,&rdquo; or anyone else. Under California law, you have the right to hire any licensed contractor you wish (10 CCR &sect; 2695.9(b)).
         See our guide on{' '}
         <Link href="/resources/choosing-your-contractor" className="text-[#2E74B5] hover:underline">
           choosing your contractor

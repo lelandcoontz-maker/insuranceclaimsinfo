@@ -457,7 +457,7 @@ export default function Content() {
         cabinetry built by a specific shop, there may be only one or two shops in the market
         capable of matching that work. Requiring three bids for work that only a handful of
         contractors can perform is a delay tactic, not a good-faith claims handling practice. In
-        California, 10 Cal. Code Regs. &sect;2695.9(d) places the burden on the insurer, not the
+        California, 10 Cal. Code Regs. &sect; 2695.9(d) places the burden on the insurer, not the
         insured: the insurer must either pay the difference or provide a contractor who will do
         the work at the insurer&apos;s price.
       </p>
@@ -498,7 +498,7 @@ export default function Content() {
         had custom cherry cabinets before the loss, the policy requires custom cherry cabinets.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, 10 Cal. Code Regs. &sect;2695.9(d) addresses this directly. If the
+        In California, 10 Cal. Code Regs. &sect; 2695.9(d) addresses this directly. If the
         insurer wants to avoid paying the claimant&apos;s higher estimate, the insurer must
         &quot;provide the claimant with the name of at least one repair individual or entity that
         will make the repairs for the amount of the written estimate.&quot; The repairs &mdash;
@@ -560,12 +560,12 @@ export default function Content() {
           className="text-[#2E74B5] underline"
         >
           Fair Claims Settlement Practices Regulations
-        </a>, codified at 10 Cal. Code Regs. &sect;&sect;2695.1 through 2695.17, impose specific
+        </a>, codified at 10 Cal. Code Regs. &sect;&sect; 2695.1 through 2695.17, impose specific
         obligations on insurers in the handling of property claims. Several provisions are
         directly relevant to sub-bid disputes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>&sect;2695.9(d)</strong> requires that when losses are settled on the basis of
+        <strong>&sect; 2695.9(d)</strong> requires that when losses are settled on the basis of
         a written estimate, the estimate &ldquo;shall be of an amount which will restore the
         damaged property to no less than its condition prior to the loss&rdquo; and that the
         insurer
@@ -574,7 +574,7 @@ export default function Content() {
         market area.&quot;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>&sect;2695.9(d)</strong> provides that when the claimant contends that repairs
+        <strong>&sect; 2695.9(d)</strong> provides that when the claimant contends that repairs
         will exceed the insurer&apos;s estimate, the insurer must either pay the difference or
         provide a contractor who will do the work at the insurer&apos;s price. When a specialty
         contractor&apos;s bid exceeds the Xactimate estimate, the carrier cannot simply stand on
@@ -588,7 +588,7 @@ export default function Content() {
           rel="noopener noreferrer"
           className="text-[#2E74B5] underline"
         >
-          &sect;790.03(h)
+          &sect; 790.03(h)
         </a></strong> prohibits unfair claims settlement practices, including &quot;not
         attempting in good faith to effectuate prompt, fair and equitable settlements&quot; and
         &quot;compelling insureds to institute litigation to recover amounts due under an
@@ -789,7 +789,7 @@ export default function Content() {
           (10 CCR 2695.1&ndash;2695.17)
         </li>
         <li>
-          Cal. Code Regs. tit. 10, &sect;2695.9 &mdash;{' '}
+          Cal. Code Regs. tit. 10, &sect; 2695.9 &mdash;{' '}
           <a
             href="https://www.law.cornell.edu/regulations/california/10-CCR-2695.9"
             target="_blank"
@@ -800,7 +800,7 @@ export default function Content() {
           </a>
         </li>
         <li>
-          Cal. Ins. Code &sect;790.03 &mdash;{' '}
+          Cal. Ins. Code &sect; 790.03 &mdash;{' '}
           <a
             href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=790.03.&lawCode=INS"
             target="_blank"

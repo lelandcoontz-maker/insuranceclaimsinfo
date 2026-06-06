@@ -40,7 +40,7 @@ export default function Content() {
           This article works best if you have your actual policy in front of you. If you
           only have a declarations page, contact your insurer and request a complete copy,
           including all endorsements. You are entitled to it under California Insurance
-          Code &sect;381 and &sect;2071.
+          Code &sect; 381 and &sect; 2071.
         </p>
       </CalloutBox>
 

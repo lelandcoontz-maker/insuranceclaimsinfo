@@ -199,7 +199,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is not a hypothetical concern. In states with valued policy laws &mdash; including
-        Florida (Fla. Stat. &sect;627.702) &mdash; the insurer is required to pay the full
+        Florida (Fla. Stat. &sect; 627.702) &mdash; the insurer is required to pay the full
         policy limit on a total loss from a covered peril. If the carrier subtracts the
         deductible from the limit on a total loss, the payment is less than the limit, which
         directly contradicts the valued policy statute. The deductible must be absorbed into the
@@ -228,7 +228,7 @@ export default function Content() {
           <strong>Valued policy laws.</strong> In states like Florida, California, and others with
           valued policy statutes, the insurer must pay the full policy limit on a covered total
           loss. Subtracting the deductible from the limit on a total loss violates that statutory
-          mandate. Florida&rsquo;s valued policy law (Fla. Stat. &sect;627.702) is the most
+          mandate. Florida&rsquo;s valued policy law (Fla. Stat. &sect; 627.702) is the most
           frequently cited, and Florida practitioners and commentators &mdash; including
           Chip Merlin of the Property Insurance Coverage Law Blog &mdash; have argued that
           deductible absorption is required to avoid contradicting the valued policy statute.
@@ -522,7 +522,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Request a complete copy of your claim file.</strong> Under California Insurance
-          Code &sect;2071 and the{' '}
+          Code &sect; 2071 and the{' '}
           <Link href="/resources/cdi-right-to-claim-documents" className="text-blue-700 underline hover:text-blue-900">
             CDI&rsquo;s claim document rules
           </Link>,

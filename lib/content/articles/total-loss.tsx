@@ -430,17 +430,17 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          <strong>Insurance Code &sect;675.1(a)(2)&ndash;(a)(3) &mdash; Insurer must renew your
+          <strong>Insurance Code &sect; 675.1(a)(2)&ndash;(a)(3) &mdash; Insurer must renew your
           policy during rebuild.</strong> After a total loss from a declared disaster (where the
           loss was not due to your negligence), the insurer must renew your homeowners policy
           for at least the next two annual renewal periods, but no less than 24 months of
-          coverage from the date of the loss (&sect;675.1(a)(3)). They cannot cancel the policy
+          coverage from the date of the loss (&sect; 675.1(a)(3)). They cannot cancel the policy
           between renewal periods while you are rebuilding, except for fraud or misrepresentation
-          (&sect;675.1(a)(2)). At renewal, the insurer must consult with you and adjust coverage
+          (&sect; 675.1(a)(2)). At renewal, the insurer must consult with you and adjust coverage
           to reflect the changed risk exposure during reconstruction.
         </li>
         <li>
-          <strong>Insurance Code &sect;2051.5(b)(1) (as amended by AB 1800, effective 2019)
+          <strong>Insurance Code &sect; 2051.5(b)(1) (as amended by AB 1800, effective 2019)
           &mdash; Minimum rebuild period.</strong> For declared state-of-emergency losses, you
           have a minimum <strong>36-month</strong> period to repair, rebuild, or replace your
           home (commencing from the first ACV payment), with mandatory additional 6-month

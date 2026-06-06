@@ -470,14 +470,14 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s Fair Claims Settlement Practices Regulations (Cal. Code Regs.,
-        tit. 10, &sect;2695.1 et seq.) apply to commercial claims with the same force as
+        tit. 10, &sect; 2695.1 et seq.) apply to commercial claims with the same force as
         residential claims. Carriers handling large commercial losses must still:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Acknowledge and begin investigating within 15 days of notice (&sect;2695.5(e))</li>
-        <li>Accept or deny within 40 days after receiving proof of claim (&sect;2695.7(b))</li>
-        <li>Provide a written explanation for any denial or reduction (&sect;2695.7(b)(1))</li>
-        <li>Not require documentation that is not reasonably necessary (&sect;2695.7(d))</li>
+        <li>Acknowledge and begin investigating within 15 days of notice (&sect; 2695.5(e))</li>
+        <li>Accept or deny within 40 days after receiving proof of claim (&sect; 2695.7(b))</li>
+        <li>Provide a written explanation for any denial or reduction (&sect; 2695.7(b)(1))</li>
+        <li>Not require documentation that is not reasonably necessary (&sect; 2695.7(d))</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Despite these requirements, large commercial claims are frequently delayed and

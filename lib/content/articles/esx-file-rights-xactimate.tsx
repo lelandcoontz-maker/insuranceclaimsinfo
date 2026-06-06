@@ -162,17 +162,17 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Your Right to the ESX File</h2>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Insurance Code &sect;2071 &mdash; Claim-Related Documents</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Insurance Code &sect; 2071 &mdash; Claim-Related Documents</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code Section 2071 requires insurers to notify every claimant that they may obtain, upon request, copies of claim-related documents. The statute defines &quot;claim-related documents&quot; broadly to include all documents that relate to the evaluation of damages, including repair and replacement estimates, appraisals, scopes of loss, drawings, plans, reports, third-party findings on the amount of loss, and all other valuation, measurement, and loss adjustment calculations.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The ESX file is, by any reasonable interpretation, a claim-related document. It is the repair estimate itself &mdash; the PDF is merely a printout of it. Under &sect;2071, the insurer must provide copies of claim-related documents within fifteen calendar days of the policyholder&apos;s request.
+        The ESX file is, by any reasonable interpretation, a claim-related document. It is the repair estimate itself &mdash; the PDF is merely a printout of it. Under &sect; 2071, the insurer must provide copies of claim-related documents within fifteen calendar days of the policyholder&apos;s request.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">10 CCR &sect;2695.7(d) &mdash; Duty to Provide Documentation</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">10 CCR &sect; 2695.7(d) &mdash; Duty to Provide Documentation</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s Fair Claims Settlement Practices Regulations, codified at Title 10, California Code of Regulations, Section 2695.7(d), impose additional obligations on insurers. These regulations require that every insurer that issues a written denial of a claim or part of a claim must provide the policyholder with the factual and legal bases for the denial. More broadly, the fair claims settlement framework requires insurers to conduct thorough and fair investigations, to provide policyholders with the documentation necessary to understand how the claim was evaluated, and to act in good faith throughout the process.
@@ -257,7 +257,7 @@ export default function Content() {
       </p>
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>File a complaint with your state&apos;s Department of Insurance.</strong> The complaint should describe the request, the refusal, and the specific regulatory provisions you believe the refusal violates. In California, complaints can be filed with the California Department of Insurance. Reference Insurance Code &sect;2071 and 10 CCR &sect;2695.7.</li>
+        <li><strong>File a complaint with your state&apos;s Department of Insurance.</strong> The complaint should describe the request, the refusal, and the specific regulatory provisions you believe the refusal violates. In California, complaints can be filed with the California Department of Insurance. Reference Insurance Code &sect; 2071 and 10 CCR &sect; 2695.7.</li>
         <li><strong>Engage a public adjuster.</strong> Public adjusters are licensed professionals who represent policyholders in the claims process. They work with Xactimate daily and know how to obtain and interpret ESX files. Their involvement often changes the dynamic of the carrier&apos;s response to documentation requests.</li>
         <li><strong>Consult an attorney.</strong> An attorney experienced in insurance coverage disputes can send a demand letter that carries legal weight. If the matter proceeds to litigation, the ESX file will be obtained through formal discovery.</li>
         <li><strong>Request through your state&apos;s appraisal process.</strong> If your policy contains an appraisal clause, invoking appraisal creates a framework in which both parties exchange estimating documentation. The ESX file is a standard document exchanged in appraisal proceedings.</li>

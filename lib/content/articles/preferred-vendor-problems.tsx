@@ -45,7 +45,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the first thing to understand: <strong>you have the right to choose your own
         contractor.</strong> The insurance company can recommend, but they cannot require you to use
-        their preferred vendor. California Insurance Code &sect;2071 and the Fair Claims Settlement
+        their preferred vendor. California Insurance Code &sect; 2071 and the Fair Claims Settlement
         Practices Regulations do not give insurers the authority to dictate which vendors you hire.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -361,18 +361,18 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          10 CCR &sect;2695.9(c)(2) requires that when the claimant accepts the insurer&apos;s
+          10 CCR &sect; 2695.9(c)(2) requires that when the claimant accepts the insurer&apos;s
           recommended vendor, the insurer must cause the property to be restored to no less
           than its pre-loss condition and repaired in a manner that meets accepted trade
           standards for good and workmanlike construction, at no additional cost to the
           claimant
         </li>
         <li>
-          10 CCR &sect;2695.7(g) requires the insurer to provide a written explanation for any
+          10 CCR &sect; 2695.7(g) requires the insurer to provide a written explanation for any
           denial or limitation of benefits
         </li>
         <li>
-          Insurance Code &sect;790.03(h)(5) prohibits failing to affirm or deny coverage within a
+          Insurance Code &sect; 790.03(h)(5) prohibits failing to affirm or deny coverage within a
           reasonable time after completing investigation
         </li>
       </ul>

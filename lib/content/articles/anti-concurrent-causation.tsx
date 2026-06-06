@@ -54,7 +54,7 @@ export default function Content() {
         California Law: ACC Clauses Are Unenforceable
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California is one of a small number of states where anti-concurrent causation clauses simply do not work. The reason is statutory: California Insurance Code &sect;530, which has been on the books for over a century, establishes the proximate cause rule for insurance:
+        California is one of a small number of states where anti-concurrent causation clauses simply do not work. The reason is statutory: California Insurance Code &sect; 530, which has been on the books for over a century, establishes the proximate cause rule for insurance:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
         &ldquo;An insurer is liable for a loss of which a peril insured against was the proximate cause, although a peril not contemplated by the contract may have been a remote cause of the loss; but he is not liable for a loss of which the peril insured against was only a remote cause.&rdquo;
@@ -240,7 +240,7 @@ export default function Content() {
         States That Refuse to Enforce ACC Clauses
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A small number of states have statutes or court decisions that prevent insurers from contracting around the proximate cause rule through ACC language. California is the most prominent, based on Insurance Code &sect;530 and the <em>Julian</em> decision. Other states in this category include North Dakota, Washington, and West Virginia, where courts have held that ACC clauses violate public policy or conflict with state insurance statutes.
+        A small number of states have statutes or court decisions that prevent insurers from contracting around the proximate cause rule through ACC language. California is the most prominent, based on Insurance Code &sect; 530 and the <em>Julian</em> decision. Other states in this category include North Dakota, Washington, and West Virginia, where courts have held that ACC clauses violate public policy or conflict with state insurance statutes.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -313,7 +313,7 @@ export default function Content() {
         Misconception 1: &ldquo;If my policy says it&rsquo;s excluded, it&rsquo;s excluded.&rdquo;
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the most dangerous misconception. In California, the policy language is the starting point, not the final word. Insurance Code &sect;530 is a mandatory rule of California insurance law. Insurers cannot contract around it. When the policy language conflicts with &sect;530, the statute controls. The ACC clause is a contractual provision that attempts to override a statutory rule &mdash; and in California, the statute wins.
+        This is the most dangerous misconception. In California, the policy language is the starting point, not the final word. Insurance Code &sect; 530 is a mandatory rule of California insurance law. Insurers cannot contract around it. When the policy language conflicts with &sect; 530, the statute controls. The ACC clause is a contractual provision that attempts to override a statutory rule &mdash; and in California, the statute wins.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">

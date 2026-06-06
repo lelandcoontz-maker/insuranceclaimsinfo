@@ -424,7 +424,7 @@ export default function Content() {
         changed formulations, or where the specific product has been discontinued.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Code of Regulations, Title 10, &sect;2695.9(a)(2), insurers are required
+        Under California Code of Regulations, Title 10, &sect; 2695.9(a)(2), insurers are required
         to pay enough to achieve a &ldquo;reasonable and uniform appearance&rdquo; when replaced
         items do not match in quality, color, or size. If replacing one window in a bank of five
         results in one visibly different window, the carrier may owe for all five to achieve
@@ -610,22 +610,22 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>10 CCR &sect;2695.9(a)(2) &mdash; Matching:</strong> When replaced items do not
+          <strong>10 CCR &sect; 2695.9(a)(2) &mdash; Matching:</strong> When replaced items do not
           match in quality, color, or size, the insurer must pay for whatever is necessary to
           achieve a reasonable and uniform appearance.
         </li>
         <li>
-          <strong>10 CCR &sect;2695.9(b) &mdash; Replacement cost:</strong> The insurer must
+          <strong>10 CCR &sect; 2695.9(b) &mdash; Replacement cost:</strong> The insurer must
           calculate replacement cost without deduction for depreciation, using competent evidence
           of actual repair or replacement costs.
         </li>
         <li>
-          <strong>10 CCR &sect;2695.7(g) &mdash; Explanation of coverage:</strong> When the
+          <strong>10 CCR &sect; 2695.7(g) &mdash; Explanation of coverage:</strong> When the
           insurer denies or limits a glass claim, it must provide a written explanation of the
           specific policy provision and the factual basis for its decision.
         </li>
         <li>
-          <strong>California Insurance Code &sect;790.03(h) &mdash; Unfair practices:</strong>{' '}
+          <strong>California Insurance Code &sect; 790.03(h) &mdash; Unfair practices:</strong>{' '}
           Failing to accept or deny coverage within a reasonable time, failing to provide a
           reasonable explanation for a denial, or offering substantially less than a reasonable
           settlement is an unfair claims practice.
@@ -664,7 +664,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Argue matching</strong> if the replacement glass does not match adjacent windows.
-          Cite 10 CCR &sect;2695.9(a)(2) and request that the carrier pay for enough replacements
+          Cite 10 CCR &sect; 2695.9(a)(2) and request that the carrier pay for enough replacements
           to achieve a uniform appearance.
         </li>
         <li>

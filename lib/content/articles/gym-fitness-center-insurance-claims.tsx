@@ -277,7 +277,7 @@ export default function Content() {
         <li>
           <strong>Independent contractor trainers:</strong> If trainers are 1099 independent
           contractors, the gym may argue it is not vicariously liable for the trainer&rsquo;s
-          negligence. But California&rsquo;s ABC test (Labor Code &sect;2775, codifying
+          negligence. But California&rsquo;s ABC test (Labor Code &sect; 2775, codifying
           <em> Dynamex Operations West, Inc. v. Superior Court</em>, 4 Cal.5th 903 (2018))
           makes it very difficult to classify trainers as independent contractors if they train
           clients at the gym, during gym hours, using gym equipment. If the trainer is
@@ -445,7 +445,7 @@ export default function Content() {
         <li>
           <strong>Cyber liability:</strong> Gyms collect credit card information, personal health
           information, and contact data for thousands of members. A data breach triggers
-          notification requirements under California Civil Code &sect;1798.82.
+          notification requirements under California Civil Code &sect; 1798.82.
         </li>
         <li>
           <strong>Workers&rsquo; compensation:</strong> Required for all employees in California.

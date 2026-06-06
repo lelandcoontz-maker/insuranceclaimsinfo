@@ -24,7 +24,7 @@ export default function Content() {
         California has some of the strongest policyholder protections in the country. Your
         insurance company has specific obligations under the policy contract, under the
         California Insurance Code, and under the Fair Claims Settlement Practices Regulations
-        (10 CCR &sect;2695). When the carrier violates those obligations, you have remedies.
+        (10 CCR &sect; 2695). When the carrier violates those obligations, you have remedies.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This article covers the rights that matter most when you are in the middle of a
@@ -65,7 +65,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If the insurance company denies any part of your claim — or pays less than you
         claimed — they must provide a written explanation citing the specific policy
-        provision, statute, or factual basis for the denial (10 CCR &sect;2695.7(b)(1)).
+        provision, statute, or factual basis for the denial (10 CCR &sect; 2695.7(b)(1)).
         A verbal &ldquo;no&rdquo; over the phone is not sufficient. If the adjuster tells
         you something is not covered but will not put it in writing, that itself is a
         regulatory violation.
@@ -83,7 +83,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurance company cannot force you to use their preferred vendor or managed repair
-        program. Under 10 CCR &sect;2695.9(b), the carrier cannot require that the insured have
+        program. Under 10 CCR &sect; 2695.9(b), the carrier cannot require that the insured have
         the property repaired by a specific individual or entity. The insurer cannot reduce your
         payment because you chose a different contractor. They owe you the reasonable cost of
         repair, regardless of who performs the work.
@@ -99,7 +99,7 @@ export default function Content() {
         Your Right to Know How Your Payment Was Calculated
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under 10 CCR &sect;2695.9, when the insurer makes a payment, they must provide
+        Under 10 CCR &sect; 2695.9, when the insurer makes a payment, they must provide
         documentation showing how the amount was determined. For structural damage, this means
         an itemized estimate showing exactly what was scoped, what was priced, and how
         depreciation was applied. For personal property, this means a line-by-line inventory
@@ -206,8 +206,8 @@ export default function Content() {
         Your Right to Fair Claims Handling
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;790.03 and the implementing regulations (10 CCR
-        &sect;2695) define specific practices that constitute unfair claims handling. The
+        California Insurance Code &sect; 790.03 and the implementing regulations (10 CCR
+        &sect; 2695) define specific practices that constitute unfair claims handling. The
         insurer may not:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">

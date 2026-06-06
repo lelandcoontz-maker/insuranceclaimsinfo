@@ -59,7 +59,7 @@ export default function Content() {
         The Known Loss Doctrine
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The known loss doctrine provides that an insurer is not obligated to cover a loss that has already occurred or is substantially certain to occur at the time the insurance policy is purchased or renewed. The doctrine is codified in California Insurance Code &sect;22, which defines insurance as &ldquo;a contract whereby one undertakes to indemnify another against loss, damage, or liability arising from a contingent or unknown event.&rdquo; If the event is neither contingent nor unknown, it falls outside the definition of insurance itself.
+        The known loss doctrine provides that an insurer is not obligated to cover a loss that has already occurred or is substantially certain to occur at the time the insurance policy is purchased or renewed. The doctrine is codified in California Insurance Code &sect; 22, which defines insurance as &ldquo;a contract whereby one undertakes to indemnify another against loss, damage, or liability arising from a contingent or unknown event.&rdquo; If the event is neither contingent nor unknown, it falls outside the definition of insurance itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Supreme Court addressed the known loss doctrine in <em>Montrose Chemical Corp. v. Admiral Insurance Co.</em> (1995) 10 Cal.4th 645, examining whether an insured&rsquo;s awareness of potential liability defeated coverage. The court held that the known loss doctrine requires <strong>actual knowledge</strong> that a specific loss has occurred or is substantially certain to occur. General awareness of a risk is not enough. The policyholder must have known, at the time the policy was purchased, that the particular loss in question was already happening or was virtually inevitable.
@@ -328,7 +328,7 @@ export default function Content() {
           <strong>Merlin Law Group</strong> &mdash; A policyholder-side firm whose blog and publications frequently address fortuity issues in first-party property claims, including the distinction between negligence and intent.
         </li>
         <li>
-          <strong>California Insurance Code &sect;22</strong> &mdash; The statutory definition of insurance, which establishes that the contract covers &ldquo;contingent or unknown&rdquo; events, forming the statutory foundation for the fortuity requirement.
+          <strong>California Insurance Code &sect; 22</strong> &mdash; The statutory definition of insurance, which establishes that the contract covers &ldquo;contingent or unknown&rdquo; events, forming the statutory foundation for the fortuity requirement.
         </li>
         <li>
           <strong>Witkin, Summary of California Law</strong> &mdash; The insurance chapters of Witkin&rsquo;s treatise provide comprehensive analysis of the fortuity doctrine, the known loss defense, and the expected or intended exclusion under California law.

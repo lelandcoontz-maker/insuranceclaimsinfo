@@ -180,7 +180,7 @@ export default function Content() {
         The Restatement Standard: Cognitive and Motivational Tests
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California courts also look to the Restatement (Second) of Contracts &sect;15, which
+        California courts also look to the Restatement (Second) of Contracts &sect; 15, which
         provides two alternative tests for contractual incapacity. Under the <strong>cognitive
         test</strong>, a person lacks capacity if they are unable to understand in a reasonable
         manner the nature and consequences of the transaction. Under the <strong>motivational
@@ -214,7 +214,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A transaction is <strong>void</strong> if the person was &ldquo;entirely without
-        understanding&rdquo; at the time of the transaction (Civil Code &sect;38) or if a
+        understanding&rdquo; at the time of the transaction (Civil Code &sect; 38) or if a
         conservator has been appointed and the transaction was outside the scope of the
         conservatee&rsquo;s authority. A void transaction is a legal nullity &mdash; it never
         happened. In the insurance context, if a policyholder who was entirely without
@@ -235,7 +235,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A transaction is <strong>voidable</strong> when the person was &ldquo;of unsound
-        mind, but not entirely without understanding&rdquo; (Civil Code &sect;39). Most
+        mind, but not entirely without understanding&rdquo; (Civil Code &sect; 39). Most
         insurance transactions involving cognitively impaired policyholders fall into this
         category &mdash; the person has some understanding but lacks the capacity to appreciate
         the full consequences of the decision. Voidable transactions remain valid until
@@ -443,8 +443,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the policyholder lacked capacity at the time of the cancellation request, the
-        cancellation is voidable (Civil Code &sect;39) or, if the person was entirely without
-        understanding, void (Civil Code &sect;38). The family or legal representative should
+        cancellation is voidable (Civil Code &sect; 39) or, if the person was entirely without
+        understanding, void (Civil Code &sect; 38). The family or legal representative should
         immediately demand reinstatement of the policy and tender any unpaid premiums. If the
         insurer refuses, the transaction must be challenged through the California Department
         of Insurance or litigation.
@@ -474,7 +474,7 @@ export default function Content() {
         <p>
           California law and most insurance policies provide a grace period for premium
           payment &mdash; typically 30 days for property and casualty policies, and 31 days
-          for life insurance policies (Insurance Code &sect;10113.71 for life insurance).
+          for life insurance policies (Insurance Code &sect; 10113.71 for life insurance).
           During the grace period, the policy remains in force even if the premium has not
           been paid. For life insurance, California Insurance Code Section 10113.72 requires
           insurers to provide a written notification of pending lapse or termination to both
@@ -582,13 +582,13 @@ export default function Content() {
         <Link href="/resources/elder-abuse-insurance" className="text-blue-700 underline hover:text-blue-900">
           Elder Abuse and Dependent Adult Civil Protection Act
         </Link>{' '}
-        (Welfare &amp; Institutions Code &sect;15600 et seq.). This statute provides enhanced
+        (Welfare &amp; Institutions Code &sect; 15600 et seq.). This statute provides enhanced
         remedies &mdash; including mandatory attorney&rsquo;s fees, enhanced damages, and
         survival actions &mdash; that are not available in ordinary bad faith litigation.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Financial Elder Abuse: Welfare &amp; Institutions Code &sect;15610.30
+        Financial Elder Abuse: Welfare &amp; Institutions Code &sect; 15610.30
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Financial abuse of an elder or dependent adult occurs when a person or entity takes,
@@ -636,7 +636,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
         <li>
-          <strong>Mandatory attorney&rsquo;s fees</strong> (W&amp;I Code &sect;15657) &mdash;
+          <strong>Mandatory attorney&rsquo;s fees</strong> (W&amp;I Code &sect; 15657) &mdash;
           the court <em>shall</em> award reasonable attorney&rsquo;s fees and costs to the
           prevailing plaintiff.
         </li>
@@ -645,7 +645,7 @@ export default function Content() {
           damages.
         </li>
         <li>
-          <strong>Survival action</strong> (W&amp;I Code &sect;15657) &mdash; if the
+          <strong>Survival action</strong> (W&amp;I Code &sect; 15657) &mdash; if the
           policyholder dies during litigation, the estate can recover all damages including
           pain and suffering, removing the insurer&rsquo;s incentive to delay until the
           policyholder passes away.
@@ -814,7 +814,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Life Insurance: The Lapse Notification Act (Insurance Code &sect;&sect;10113.71&ndash;10113.72)
+        Life Insurance: The Lapse Notification Act (Insurance Code &sect;&sect; 10113.71&ndash;10113.72)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code Sections 10113.71 and 10113.72, enacted in 2013 and
@@ -841,7 +841,7 @@ export default function Content() {
         cancellation of property and casualty policies. An insurer must provide written notice
         of cancellation, and the notice must be sent by a method that provides proof of
         mailing. For nonpayment of premium, at least 10 days&rsquo; notice is required
-        (Insurance Code &sect;677.2). For other cancellations, including mid-term cancellations
+        (Insurance Code &sect; 677.2). For other cancellations, including mid-term cancellations
         by the insurer, at least 30 days&rsquo; notice is generally required, with longer
         periods for certain types of policies.
       </p>
@@ -1044,7 +1044,7 @@ export default function Content() {
         Step 5: Designate a Secondary Addressee for Life Insurance
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law (Insurance Code &sect;10113.72) allows
+        California law (Insurance Code &sect; 10113.72) allows
         policyholders to designate a secondary addressee to receive copies of lapse notices
         on life insurance policies. This is a critical protection that takes minutes to
         establish. Contact the life insurance company and request the designation form.
@@ -1263,7 +1263,7 @@ export default function Content() {
         <li>
           <strong>Plead the Elder Abuse Act from the outset</strong> &mdash; If the
           policyholder is 65 or older, plead the Elder Abuse and Dependent Adult Civil
-          Protection Act (W&amp;I Code &sect;15600 et seq.) alongside the bad faith,
+          Protection Act (W&amp;I Code &sect; 15600 et seq.) alongside the bad faith,
           breach of contract, and regulatory violation causes of action. The enhanced
           remedies &mdash; particularly mandatory attorney&rsquo;s fees and the survival
           action &mdash; change the economics of the case.
@@ -1304,7 +1304,7 @@ export default function Content() {
           </Link>{' '}
           and{' '}
           <Link href="/resources/insurance-code-790" className="text-blue-700 underline hover:text-blue-900">
-            Insurance Code &sect;790.03
+            Insurance Code &sect; 790.03
           </Link>{' '}
           is evidence supporting both the bad faith claim and the elder abuse claim. A
           pattern of regulatory violations directed at a cognitively impaired elder

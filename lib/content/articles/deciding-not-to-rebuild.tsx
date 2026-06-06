@@ -71,7 +71,7 @@ export default function Content() {
         financial consequence of the decision not to rebuild.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;2051.5 gives policyholders in declared disasters 36 months
+        California Insurance Code &sect; 2051.5 gives policyholders in declared disasters 36 months
         to complete repairs and claim the holdback, with six-month extensions available for good
         cause. That is a meaningful window &mdash; and it means you do not have to make the
         rebuild-or-not decision on day one. You can take time to evaluate your options while
@@ -91,7 +91,7 @@ export default function Content() {
         <p>
           Many homeowners assume that deciding not to rebuild on the original lot means
           forfeiting the depreciation holdback entirely. In California, that is not necessarily
-          true. California Insurance Code &sect;2051.5(c) provides that the insured may recover
+          true. California Insurance Code &sect; 2051.5(c) provides that the insured may recover
           the full replacement cost by replacing the dwelling <strong>at another
           location</strong>. This means you may be able to purchase or build a home in a
           different city &mdash; or even a different part of the state &mdash; and still recover
@@ -123,7 +123,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California provides important protections here, but they depend on the type of loan.
         Purchase money mortgages &mdash; the original loan you took out to buy the home &mdash;
-        are generally non-recourse under California Code of Civil Procedure &sect;580b. That means
+        are generally non-recourse under California Code of Civil Procedure &sect; 580b. That means
         the lender cannot pursue you personally for a deficiency after foreclosure or when the
         collateral is destroyed. However, if you refinanced the mortgage or took out a home equity
         line of credit, those loans may be recourse debt, and the lender may have the right to
@@ -244,7 +244,7 @@ export default function Content() {
         the decision not to rebuild can determine whether that gain becomes due.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Internal Revenue Code &sect;1033 allows you to defer the gain by reinvesting the proceeds
+        Internal Revenue Code &sect; 1033 allows you to defer the gain by reinvesting the proceeds
         in a &ldquo;replacement property&rdquo; within two years of the end of the tax year in
         which the gain is realized. For federally declared disasters, that reinvestment period
         extends to four years. If you purchase or build a replacement home within that window,
@@ -262,7 +262,7 @@ export default function Content() {
           proceeds, paying off a mortgage, and selling or retaining a lot after a total loss
           depend on your specific financial circumstances. Consult a qualified tax professional
           before making final decisions about rebuilding, reinvestment, or property disposition.
-          The IRC &sect;1033 deferral in particular has strict timing requirements that must be
+          The IRC &sect; 1033 deferral in particular has strict timing requirements that must be
           understood before you commit to a course of action.
         </p>
       </CalloutBox>
@@ -331,7 +331,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Consider whether you can rebuild somewhere else and still claim RCV.</strong>{' '}
-          California Insurance Code &sect;2051.5(c) allows recovery of the full replacement
+          California Insurance Code &sect; 2051.5(c) allows recovery of the full replacement
           cost if you replace the dwelling at another location. This is a significant
           protection &mdash; it means you may be able to buy or build a home in a different
           city and still recover the depreciation holdback. Read your policy and the statute
@@ -345,7 +345,7 @@ export default function Content() {
           you let the lender apply all proceeds to the balance.
         </li>
         <li>
-          <strong>Consult a tax professional about IRC &sect;1033 deferral.</strong> Before
+          <strong>Consult a tax professional about IRC &sect; 1033 deferral.</strong> Before
           making final decisions about how to use your insurance proceeds, understand the tax
           consequences. The four-year reinvestment window for federally declared disasters may
           give you time to purchase a replacement property and defer any taxable gain &mdash;
@@ -359,7 +359,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Don&rsquo;t rush the decision.</strong> You have 36 months under
-          &sect;2051.5 to complete repairs and claim the holdback, with extensions available.
+          &sect; 2051.5 to complete repairs and claim the holdback, with extensions available.
           Use that time. You can pursue the ACV claim and the contents claim now while keeping
           the rebuild option open. There is no reason to make a final decision under pressure.
         </li>

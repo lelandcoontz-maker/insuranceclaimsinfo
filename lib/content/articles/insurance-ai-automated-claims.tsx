@@ -316,8 +316,8 @@ export default function Content() {
         <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] underline">
           thorough, fair, and objective investigation
         </Link>{' '}
-        of every claim. California Insurance Code &sect;790.03(h) and California Code of Regulations,
-        Title 10, &sect;2695.7 require carriers to conduct a complete investigation before denying or
+        of every claim. California Insurance Code &sect; 790.03(h) and California Code of Regulations,
+        Title 10, &sect; 2695.7 require carriers to conduct a complete investigation before denying or
         underpaying a claim. The{' '}
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           Fair Claims Settlement Practices Regulations
@@ -659,13 +659,13 @@ export default function Content() {
         the carrier uses human adjusters, AI systems, or some combination of both.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;790.03(h)(3) prohibits carriers from failing to adopt and
+        California Insurance Code &sect; 790.03(h)(3) prohibits carriers from failing to adopt and
         implement reasonable standards for the prompt investigation of claims. An investigation
         conducted entirely by AI, without human review, without physical inspection of the
         property, and without the exercise of professional judgment, may well fall short of
-        &quot;reasonable standards.&quot; Similarly, &sect;790.03(h)(5) prohibits failing to affirm
+        &quot;reasonable standards.&quot; Similarly, &sect; 790.03(h)(5) prohibits failing to affirm
         or deny coverage within a reasonable time after proof of loss is submitted, and
-        &sect;790.03(h)(13) prohibits failing to provide a reasonable explanation for a denial or
+        &sect; 790.03(h)(13) prohibits failing to provide a reasonable explanation for a denial or
         reduced payment. AI-driven claims handling raises questions under both provisions.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

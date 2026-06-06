@@ -100,7 +100,7 @@ export default function Content() {
         <p>
           Video-only recording of an inspection of your own property is generally permissible in
           California. Audio recording is different: California is an all-party consent state under
-          Penal Code &sect;632, and the rules differ depending on whether you are recording an
+          Penal Code &sect; 632, and the rules differ depending on whether you are recording an
           in-person inspection, a phone call, or an Examination Under Oath. Before you record any
           conversation with the insurer&rsquo;s representative, read{' '}
           <Link href="/resources/recording-insurance-inspections" className="text-[#1F3964] underline font-medium">

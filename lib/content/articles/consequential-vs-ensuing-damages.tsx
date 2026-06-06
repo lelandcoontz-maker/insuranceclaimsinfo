@@ -232,7 +232,7 @@ export default function Content() {
         <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause doctrine
         </Link>{' '}
-        comes in. In California, you often argue both ensuing loss and EPC together &mdash; the ensuing loss clause is the contractual argument, and EPC is the statutory argument under Insurance Code &sect;530. Both support coverage. Both are raised during claims handling, before litigation.
+        comes in. In California, you often argue both ensuing loss and EPC together &mdash; the ensuing loss clause is the contractual argument, and EPC is the statutory argument under Insurance Code &sect; 530. Both support coverage. Both are raised during claims handling, before litigation.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">In Litigation: Consequential Damages Arguments</h3>

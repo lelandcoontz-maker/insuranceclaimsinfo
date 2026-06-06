@@ -197,7 +197,7 @@ export default function Content() {
         payment.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>California Insurance Code &sect;663.5(b)</strong> adds a specific protection:
+        <strong>California Insurance Code &sect; 663.5(b)</strong> adds a specific protection:
         no insurer shall fail to renew a policy <em>solely</em> on the grounds that a claim is
         pending under the policy. The word &ldquo;solely&rdquo; is the operative qualifier
         &mdash; the carrier can non-renew for other legitimate underwriting reasons (overall
@@ -229,7 +229,7 @@ export default function Content() {
         climate where the policyholder feels pressured to accept a quick, low settlement before
         losing coverage entirely. If you find yourself in this position, document every
         communication carefully. If you believe the non-renewal is retaliatory &mdash; a
-        consequence of filing the claim &mdash; file a complaint with CDI citing &sect;663.5(b).
+        consequence of filing the claim &mdash; file a complaint with CDI citing &sect; 663.5(b).
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

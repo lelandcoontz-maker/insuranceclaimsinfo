@@ -588,7 +588,7 @@ export default function Content() {
         fundamental problem: the insurer accepted the appraisal, agreed to the value, and collected
         premiums based on that value for years. The insurer had the opportunity to require an
         updated appraisal at any renewal and chose not to. The agreed value is the agreed value.
-        California Insurance Code &sect;2051.5 reinforces that when a policy includes an agreed
+        California Insurance Code &sect; 2051.5 reinforces that when a policy includes an agreed
         value, the insurer cannot pay less than that amount on a total loss unless it can
         demonstrate fraud or material misrepresentation by the policyholder.
       </p>
@@ -652,7 +652,7 @@ export default function Content() {
       <CalloutBox variant="warning" title="California Fair Claims Regulations Apply">
         <p>
           All of these carrier tactics are subject to California&rsquo;s Fair Claims Settlement
-          Practices Regulations (10 CCR &sect;2695.1 et seq.). Insurers must conduct thorough
+          Practices Regulations (10 CCR &sect; 2695.1 et seq.). Insurers must conduct thorough
           investigations, provide reasonable explanations for their positions, and cannot deny or
           reduce claims without a documented, policy-based justification. An insurer that accepted
           premiums for years based on an agreed value and then refuses to pay that value at claim

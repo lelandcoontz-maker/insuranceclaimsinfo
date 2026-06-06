@@ -38,7 +38,7 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="California Regulatory Deadlines — Know the Clock">
         <p className="mb-2">
-          Under the Fair Claims Settlement Practices Regulations (10 CCR &sect;2695), the
+          Under the Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695), the
           insurance company must meet these deadlines from the moment you file:
         </p>
         <ul className="list-disc pl-4 space-y-1 text-sm">

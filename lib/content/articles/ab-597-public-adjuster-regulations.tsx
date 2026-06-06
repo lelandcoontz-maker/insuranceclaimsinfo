@@ -67,7 +67,7 @@ export default function Content() {
         Current California Law (Not AB 597)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Public adjuster contracts remain governed by California Insurance Code &sect;15027 and
+        Public adjuster contracts remain governed by California Insurance Code &sect; 15027 and
         related sections. There is <strong>no statutory percentage cap</strong> on PA fees
         under current law &mdash; the percentage is whatever the written contract specifies.
         Common contract practice in catastrophe contexts is 10%, but that is industry custom,

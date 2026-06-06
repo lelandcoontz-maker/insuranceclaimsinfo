@@ -324,7 +324,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           Pool barrier fencing meeting current height and self-closing/self-latching gate
-          requirements (California Building Code &sect;3109)
+          requirements (California Building Code &sect; 3109)
         </li>
         <li>Anti-entrapment drain covers compliant with the Virginia Graeme Baker Act</li>
         <li>GFCI protection for all electrical circuits within the required distance of the pool</li>

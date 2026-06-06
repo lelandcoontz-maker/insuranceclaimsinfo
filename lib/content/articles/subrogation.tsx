@@ -95,7 +95,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Deductible Recovery Comes First">
         <p>
           Under California&apos;s Fair Claims Settlement Practices Regulations (10 CCR
-          &sect;2695.7(q)), every insurer that makes a subrogation demand must include the
+          &sect; 2695.7(q)), every insurer that makes a subrogation demand must include the
           insured&apos;s deductible in that demand, and must share subrogation recoveries on a
           proportionate basis with the insured. In plain English: your deductible gets recovered
           alongside the insurer&apos;s money &mdash; the insurer cannot keep the entire recovery
@@ -117,7 +117,7 @@ export default function Content() {
         to pursue subrogation. This is not optional. It is a binding regulatory requirement.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The regulation is 10 CCR &sect;2695.7, subsection (p):
+        The regulation is 10 CCR &sect; 2695.7, subsection (p):
       </p>
       <blockquote className="border-l-4 border-[#1F3964] pl-4 italic text-gray-600 mb-6">
         &ldquo;Every insurer shall provide written notification to a first party claimant as to
@@ -168,8 +168,8 @@ export default function Content() {
         </Link>
         &mdash; a deadline after which you lose the right to sue. In California, the statute of
         limitations for property damage caused by negligence is generally three years from the
-        date of injury (California Code of Civil Procedure &sect;338(b)). For breach of contract,
-        it can be four years (CCP &sect;337).
+        date of injury (California Code of Civil Procedure &sect; 338(b)). For breach of contract,
+        it can be four years (CCP &sect; 337).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your insurer tells you it is handling subrogation, you have no reason to hire your own
@@ -226,7 +226,7 @@ export default function Content() {
         in the first place &mdash; because the insurer never told them.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That homeowner just lost $50,000. And the insurer violated 10 CCR &sect;2695.7(p).
+        That homeowner just lost $50,000. And the insurer violated 10 CCR &sect; 2695.7(p).
       </p>
 
       {/* ───────── Economic Decision ───────── */}
@@ -253,7 +253,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         And here is the uncomfortable truth: the insurer has the right to make that economic
         decision. No regulation requires them to pursue subrogation at a financial loss. But
-        10 CCR &sect;2695.7(p) absolutely requires them to <strong>tell you</strong> they are
+        10 CCR &sect; 2695.7(p) absolutely requires them to <strong>tell you</strong> they are
         not pursuing it, so that <strong>you</strong> can pursue the contractor on your own and
         potentially recover your $50,000 deductible.
       </p>
@@ -443,7 +443,7 @@ export default function Content() {
       </p>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-6 text-sm text-gray-700 leading-relaxed">
         <p>
-          &ldquo;Per 10 CCR &sect;2695.7(p), please advise in writing whether you intend to
+          &ldquo;Per 10 CCR &sect; 2695.7(p), please advise in writing whether you intend to
           pursue subrogation against [responsible party]. If you do not intend to pursue
           subrogation, please confirm in writing that any recovery is my responsibility so that
           I may take timely action to preserve my rights.&rdquo;
@@ -463,8 +463,8 @@ export default function Content() {
           deadlines
         </Link>.
         In California, the statute of limitations for property damage caused by negligence is
-        generally three years (CCP &sect;338(b)). For breach of a written contract, it is four
-        years (CCP &sect;337). Do not rely on the insurer to track these deadlines for you. If
+        generally three years (CCP &sect; 338(b)). For breach of a written contract, it is four
+        years (CCP &sect; 337). Do not rely on the insurer to track these deadlines for you. If
         the insurer says it is subrogating, follow up periodically to confirm it is actually
         doing something.
       </p>
@@ -673,7 +673,7 @@ export default function Content() {
           your loss. It is also typically the only way to get your deductible back.
         </li>
         <li>
-          Under 10 CCR &sect;2695.7(p), your insurer <strong>must</strong> notify you in writing
+          Under 10 CCR &sect; 2695.7(p), your insurer <strong>must</strong> notify you in writing
           whether it intends to subrogate &mdash; and if it chooses not to, it must tell you that
           recovery is your responsibility.
         </li>
@@ -682,7 +682,7 @@ export default function Content() {
           decision so you can protect yourself.
         </li>
         <li>
-          Under 10 CCR &sect;2695.7(q), the insurer must include your deductible in any
+          Under 10 CCR &sect; 2695.7(q), the insurer must include your deductible in any
           subrogation demand and share recoveries with you proportionately.
         </li>
         <li>

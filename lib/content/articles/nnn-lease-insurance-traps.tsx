@@ -208,9 +208,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California law does not prohibit NNN leases or regulate the allocation of insurance
         obligations between commercial landlord and tenant. Unlike residential leases, where
-        California Civil Code &sect;1941 imposes non-waivable habitability duties, commercial
+        California Civil Code &sect; 1941 imposes non-waivable habitability duties, commercial
         leases are treated as arm&rsquo;s-length agreements between sophisticated parties. Cal.
-        Civ. Code &sect;1938 does require landlords of commercial properties to disclose whether
+        Civ. Code &sect; 1938 does require landlords of commercial properties to disclose whether
         the property has undergone inspection for accessibility compliance under disability
         access laws, but there is no equivalent mandate requiring disclosure of insurance
         arrangements.
@@ -220,7 +220,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Insurable interest:</strong> California Insurance Code &sect;281 defines
+          <strong>Insurable interest:</strong> California Insurance Code &sect; 281 defines
           insurable interest in property as &ldquo;every interest in property, or any
           relation thereto, or liability in respect thereof, of such a nature that a
           contemplated peril might directly damnify the insured.&rdquo; A NNN tenant has an
@@ -242,7 +242,7 @@ export default function Content() {
           vulnerable.
         </li>
         <li>
-          <strong>California Fair Claims Settlement Practices (10 CCR &sect;2695.1 et
+          <strong>California Fair Claims Settlement Practices (10 CCR &sect; 2695.1 et
           seq.):</strong> When a claim is filed, the carrier must handle it in compliance with
           California&rsquo;s fair claims regulations regardless of the lease structure. The
           fact that the tenant &mdash; rather than the building owner &mdash; is the named

@@ -125,7 +125,7 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
           California Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (10 CCR &sect;2695.1 et seq.) apply to <em>all</em> insurance claims in California &mdash;
+        (10 CCR &sect; 2695.1 et seq.) apply to <em>all</em> insurance claims in California &mdash;
         residential and commercial. Carriers must acknowledge claims within 15 days, begin
         investigation within 15 days of receiving proof of claim, accept or deny within 40 days,
         and pay undisputed amounts promptly. Despite this, some commercial carriers handle claims

@@ -451,32 +451,32 @@ export default function Content() {
         California-Specific Rules About Salvage
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s Fair Claims Settlement Practices Regulations (10 CCR &sect;2695 et
+        California&apos;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695 et
         seq.) do not contain a standalone section dedicated exclusively to salvage, but several
         provisions bear directly on how salvage must be handled:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>10 CCR &sect;2695.7(b):</strong> Requires the insurer to disclose all
+          <strong>10 CCR &sect; 2695.7(b):</strong> Requires the insurer to disclose all
           benefits, coverage, time limits, or other provisions of the policy that may apply to
           the claim. If salvage provisions in the policy affect the settlement calculation, the
           insurer must disclose them.
         </li>
         <li>
-          <strong>10 CCR &sect;2695.7(g):</strong> Requires that no insurer shall attempt to
+          <strong>10 CCR &sect; 2695.7(g):</strong> Requires that no insurer shall attempt to
           settle a claim by making a settlement offer that is unreasonably low. An inflated
           salvage deduction that reduces the settlement below what the policyholder is owed would
           violate this provision.
         </li>
         <li>
-          <strong>10 CCR &sect;2695.9(b):</strong> For residential property claims, the insurer
+          <strong>10 CCR &sect; 2695.9(b):</strong> For residential property claims, the insurer
           must provide a written estimate of the amount for which the loss can be repaired or the
           property replaced, and must include in its settlement offer the applicable measure of
           damages under the policy. Any salvage deduction should be transparently documented as
           part of this calculation.
         </li>
         <li>
-          <strong>10 CCR &sect;2695.9(d):</strong> When an insurer elects to repair, restore,
+          <strong>10 CCR &sect; 2695.9(d):</strong> When an insurer elects to repair, restore,
           or replace damaged property, the insurer must restore the property to at least its
           condition immediately before the loss. This is relevant because if the insurer claims
           an item has been &ldquo;restored&rdquo; through cleaning but the policyholder believes
@@ -485,7 +485,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Also, California Insurance Code &sect;2051(b) and &sect;2051.5 govern the
+        Also, California Insurance Code &sect; 2051(b) and &sect; 2051.5 govern the
         measure of indemnity for property insurance claims. Under these sections, the insurer
         must pay the amount it would cost to repair, rebuild, or replace the thing lost or
         injured. If the insurer takes a salvage deduction, it must be based on the item&apos;s

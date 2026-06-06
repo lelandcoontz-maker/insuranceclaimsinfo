@@ -159,31 +159,31 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (10 CCR &sect;2695 et seq.) require insurers to conduct reasonable investigations
+        (10 CCR &sect; 2695 et seq.) require insurers to conduct reasonable investigations
         and to attempt in good faith to effectuate prompt, fair, and equitable settlements
-        of claims in which liability has become reasonably clear (10 CCR &sect;2695.7(b)).
+        of claims in which liability has become reasonably clear (10 CCR &sect; 2695.7(b)).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;790.03(h) prohibits a range of unfair claims
+        California Insurance Code &sect; 790.03(h) prohibits a range of unfair claims
         practices, including:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           Misrepresenting pertinent facts or insurance policy provisions relating to
-          coverages at issue (&sect;790.03(h)(1))
+          coverages at issue (&sect; 790.03(h)(1))
         </li>
         <li>
           Failing to adopt and implement reasonable standards for the prompt investigation
-          of claims arising under insurance policies (&sect;790.03(h)(3))
+          of claims arising under insurance policies (&sect; 790.03(h)(3))
         </li>
         <li>
           Not attempting in good faith to effectuate prompt, fair, and equitable settlements
-          of claims in which liability has become reasonably clear (&sect;790.03(h)(5))
+          of claims in which liability has become reasonably clear (&sect; 790.03(h)(5))
         </li>
         <li>
           Compelling insureds to institute litigation to recover amounts due under an insurance
           policy by offering substantially less than the amounts ultimately recovered
-          (&sect;790.03(h)(6))
+          (&sect; 790.03(h)(6))
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -330,7 +330,7 @@ export default function Content() {
         <li>
           <strong>Request the adjuster&rsquo;s notes and photographs</strong> &mdash;
           Under California law, you are entitled to copies of all information in your
-          claim file that pertains to the claim (10 CCR &sect;2695.7(d)). This includes
+          claim file that pertains to the claim (10 CCR &sect; 2695.7(d)). This includes
           the adjuster&rsquo;s notes and photographs.
         </li>
       </ul>
@@ -444,12 +444,12 @@ export default function Content() {
           discussion of these issues.
         </li>
         <li>
-          <strong>California Insurance Code &sect;790.03</strong> &mdash; The statutory
+          <strong>California Insurance Code &sect; 790.03</strong> &mdash; The statutory
           framework for unfair claims settlement practices in California, available through
           the California Legislative Information website (leginfo.legislature.ca.gov).
         </li>
         <li>
-          <strong>California Code of Regulations, Title 10, &sect;2695 et seq.</strong>
+          <strong>California Code of Regulations, Title 10, &sect; 2695 et seq.</strong>
           &mdash; The Fair Claims Settlement Practices Regulations, available through the
           California Department of Insurance website (insurance.ca.gov).
         </li>

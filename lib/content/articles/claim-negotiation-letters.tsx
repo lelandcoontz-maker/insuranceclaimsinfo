@@ -69,7 +69,7 @@ export default function Content() {
 
       <h3 className="text-xl font-bold text-gray-900 mb-3">3. Demand for Payment of Undisputed Amounts</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under 10 CCR &sect;2695.7(h), the insurer must pay undisputed amounts within 30 days
+        Under 10 CCR &sect; 2695.7(h), the insurer must pay undisputed amounts within 30 days
         of reaching agreement. If they agree they owe you money but do not pay, write a
         letter citing this regulation, stating the amount agreed upon, the date agreement
         was reached, and demanding payment within the regulatory timeframe.
@@ -121,7 +121,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Citation of authority.</strong> Reference the specific policy provision,
-          regulation (10 CCR &sect;2695.X), or statute (California Insurance Code &sect;XXX)
+          regulation (10 CCR &sect; 2695.X), or statute (California Insurance Code &sect;XXX)
           that supports your position.
         </li>
         <li>
@@ -158,7 +158,7 @@ export default function Content() {
         Certain language signals to the insurer that you know your rights:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>&ldquo;Per 10 CCR &sect;2695.7(b), you are required to...&rdquo;</li>
+        <li>&ldquo;Per 10 CCR &sect; 2695.7(b), you are required to...&rdquo;</li>
         <li>&ldquo;This constitutes a violation of the California Fair Claims Settlement Practices Regulations.&rdquo;</li>
         <li>&ldquo;Please provide the specific policy language you are relying upon for this denial.&rdquo;</li>
         <li>&ldquo;I am formally invoking the appraisal clause set forth in [section] of my policy.&rdquo;</li>

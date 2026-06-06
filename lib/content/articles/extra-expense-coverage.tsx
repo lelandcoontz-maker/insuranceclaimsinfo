@@ -593,7 +593,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Fair Claims Settlement Practices.</strong> California&apos;s Unfair Claims
-          Settlement Practices Regulations (10 CCR &sect;2695.1 et seq.) apply to all insurance
+          Settlement Practices Regulations (10 CCR &sect; 2695.1 et seq.) apply to all insurance
           claims in California, including commercial extra expense claims. The carrier must
           investigate thoroughly, respond within the required timeframes, and provide written
           explanations for any denial or reduction.
@@ -608,7 +608,7 @@ export default function Content() {
         <li>
           <strong>Bad faith exposure.</strong> If a carrier unreasonably denies or delays extra
           expense payments, the policyholder may have a bad faith cause of action under
-          California Insurance Code &sect;790.03 and the common law. Extra expense claims are
+          California Insurance Code &sect; 790.03 and the common law. Extra expense claims are
           particularly susceptible to bad faith when the carrier delays payments and forces the
           business to fund temporary operations out of pocket &mdash; effectively shifting the
           cost of the carrier&apos;s delay onto the policyholder.

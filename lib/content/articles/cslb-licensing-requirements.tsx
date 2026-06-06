@@ -35,7 +35,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The CSLB is the state agency that licenses and regulates contractors in California. It
         operates under the Department of Consumer Affairs and is governed by Business and
-        Professions Code &sect;7000 et seq. The CSLB issues licenses, investigates complaints,
+        Professions Code &sect; 7000 et seq. The CSLB issues licenses, investigates complaints,
         and disciplines contractors who violate the law. The California Attorney General acts as
         the prosecutor for CSLB enforcement actions, which means violations are taken seriously
         and can result in criminal prosecution, not just administrative penalties.
@@ -65,11 +65,11 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Business and Professions Code &sect;7031: No License, No Payment
+        Business and Professions Code &sect; 7031: No License, No Payment
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the single most important statute in California contractor law, and every
-        homeowner should understand it. Business and Professions Code &sect;7031 provides
+        homeowner should understand it. Business and Professions Code &sect; 7031 provides
         two absolute rules:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
@@ -81,7 +81,7 @@ export default function Content() {
           contractor simply cannot collect.
         </li>
         <li>
-          <strong>The homeowner can recover all money already paid.</strong> Under &sect;7031(b),
+          <strong>The homeowner can recover all money already paid.</strong> Under &sect; 7031(b),
           the person who paid an unlicensed contractor can bring an action to recover
           <em> all</em> compensation paid &mdash; the full amount, not just a portion. The
           contractor gets nothing.
@@ -90,12 +90,12 @@ export default function Content() {
 
       <CalloutBox variant="important" title="This Rule Is Absolute">
         <p>
-          The courts have made clear that &sect;7031 operates as a complete bar, regardless
+          The courts have made clear that &sect; 7031 operates as a complete bar, regardless
           of the equities. In <em>Hydrotech Systems, Ltd. v. Oasis Waterpark</em> (1991),
           the California Supreme Court held that the licensing requirement is designed to
           protect the public and must be strictly enforced &mdash; even when the unlicensed
           contractor performed the work competently. In <em>MW Erectors, Inc. v. Niederhauser
-          Ornamental and Metal Works Co.</em> (2005), the court reaffirmed that &sect;7031
+          Ornamental and Metal Works Co.</em> (2005), the court reaffirmed that &sect; 7031
           applies without exception. There is no &ldquo;substantial compliance&rdquo; defense,
           no &ldquo;the work was good&rdquo; defense, and no equitable exception. If the
           license was not valid at the time the work was performed, the contractor loses
@@ -116,7 +116,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Every contractor with employees is required to carry workers&rsquo; compensation
         insurance. This is not just a good idea &mdash; it is a legal requirement under
-        California Labor Code &sect;3700. And here is the part that catches many people off
+        California Labor Code &sect; 3700. And here is the part that catches many people off
         guard: <strong>a contractor whose workers&rsquo; compensation insurance lapses or is
         cancelled has their license automatically suspended by operation of law.</strong>
       </p>
@@ -126,14 +126,14 @@ export default function Content() {
         is no grace period. There is no notice requirement to the homeowner. The moment the
         WC coverage lapses, the license is suspended, and any work performed during that
         suspension is unlicensed work &mdash; triggering all of the consequences under
-        &sect;7031.
+        &sect; 7031.
       </p>
 
       <CalloutBox variant="warning" title="Homeowner Liability for Worker Injuries">
         <p>
           If you hire a contractor who does not carry workers&rsquo; compensation insurance
           and one of their workers is injured on your property, <strong>you could be held
-          liable for those injuries.</strong> Under California Labor Code &sect;2750.5, a
+          liable for those injuries.</strong> Under California Labor Code &sect; 2750.5, a
           person who hires an unlicensed contractor is considered the employer of the
           contractor&rsquo;s workers for purposes of workers&rsquo; compensation. That means
           you &mdash; the homeowner &mdash; could be on the hook for medical bills, lost
@@ -152,7 +152,7 @@ export default function Content() {
         The Three-Day Right of Rescission
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under Business and Professions Code &sect;7159, every home improvement contract
+        Under Business and Professions Code &sect; 7159, every home improvement contract
         must include a notice informing the homeowner of their right to cancel the contract
         within three business days without any penalty or obligation. This is commonly
         referred to as the &ldquo;three-day right of rescission&rdquo; or the
@@ -182,7 +182,7 @@ export default function Content() {
         Home Improvement Contract Requirements
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Business and Professions Code &sect;7159 sets out detailed requirements for home
+        Business and Professions Code &sect; 7159 sets out detailed requirements for home
         improvement contracts. A contract that fails to comply with these requirements may
         be voidable, and the contractor may face CSLB discipline. Every home improvement
         contract must include:
@@ -232,7 +232,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But &ldquo;insurance proceeds&rdquo; language is technically illegal under
-        &sect;7159. The statute requires a specific dollar amount. More importantly, this
+        &sect; 7159. The statute requires a specific dollar amount. More importantly, this
         language creates real problems:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -252,7 +252,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Voidable contract:</strong> Because the contract does not comply with
-          &sect;7159, the homeowner may have grounds to void it entirely.
+          &sect; 7159, the homeowner may have grounds to void it entirely.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -277,7 +277,7 @@ export default function Content() {
         individuals flood the affected area offering construction services. They may have
         business cards, a truck with a logo, and a convincing sales pitch, but no license.
         Working without a license is a misdemeanor in California (Business and Professions
-        Code &sect;7028), punishable by fines and jail time. And the
+        Code &sect; 7028), punishable by fines and jail time. And the
         unlicensed contractor has no legal right to be paid. For more on recognizing these
         operators, see our article on{' '}
         <Link href="/resources/post-disaster-scams" className="text-[#2E74B5] hover:underline">
@@ -294,7 +294,7 @@ export default function Content() {
         cannot rewire your electrical panel. A C-36 (Plumbing) contractor cannot install
         your HVAC system. When a specialty contractor performs work outside their
         classification, they are considered unlicensed for that work &mdash; with all of
-        the &sect;7031 consequences that entails. This is common in insurance restoration
+        the &sect; 7031 consequences that entails. This is common in insurance restoration
         when a contractor tries to handle an entire project but only holds a specialty
         license.
       </p>
@@ -305,7 +305,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California law limits the initial down payment on a home improvement contract to
         <strong> $1,000 or 10% of the contract price, whichever is less</strong> (Business
-        and Professions Code &sect;7159.5). Any contractor who asks for more than this is
+        and Professions Code &sect; 7159.5). Any contractor who asks for more than this is
         violating the law. After a disaster, it is especially common for contractors to
         demand large up-front payments &mdash; $10,000, $20,000, or more &mdash; claiming
         they need the money for materials. This is illegal, and it is one of the biggest
@@ -347,7 +347,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Diversion of funds occurs when a contractor takes money intended for your project
         and uses it on a different job or for personal expenses. Under Business and
-        Professions Code &sect;7108, willful diversion is a cause for disciplinary action
+        Professions Code &sect; 7108, willful diversion is a cause for disciplinary action
         and can be prosecuted criminally. This is disturbingly common with contractors
         juggling multiple insurance restoration projects simultaneously.
       </p>
@@ -458,7 +458,7 @@ export default function Content() {
         <Link href="/resources/right-to-repair" className="text-[#2E74B5] hover:underline">
           Right to Repair Act
         </Link>{' '}
-        (Civil Code &sect;895 et seq.), your legal remedies for construction defects are
+        (Civil Code &sect; 895 et seq.), your legal remedies for construction defects are
         significantly more complicated &mdash; and in some cases impossible &mdash; when the
         work was performed by an unlicensed contractor.
       </p>
@@ -481,7 +481,7 @@ export default function Content() {
           it is on file with the CSLB.
         </li>
         <li>
-          <strong>Demand a written contract</strong> that complies with &sect;7159 &mdash;
+          <strong>Demand a written contract</strong> that complies with &sect; 7159 &mdash;
           specific dollar amount, scope of work, start and completion dates, license
           number, and the three-day rescission notice.
         </li>

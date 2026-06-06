@@ -69,13 +69,13 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Recording the Inspection — Read the Detailed Guide First">
         <p>
-          California is an all-party consent state under Penal Code &sect;632 — but the statute
+          California is an all-party consent state under Penal Code &sect; 632 — but the statute
           only reaches the audio capture of &ldquo;confidential communications,&rdquo; and the
           analysis depends on the scenario. Four cases come up, and they are not the same:
         </p>
         <ul className="list-disc pl-6 space-y-1 mt-2 mb-2">
           <li>
-            <strong>Phone calls — audio:</strong> &sect;632 squarely applies. Do not record a
+            <strong>Phone calls — audio:</strong> &sect; 632 squarely applies. Do not record a
             phone call with the adjuster unless they have been told and consent.
           </li>
           <li>
@@ -89,12 +89,12 @@ export default function Content() {
           </li>
           <li>
             <strong>In-person inspection — video only (no audio):</strong> does not trigger
-            &sect;632 at all. Video-only documentation of your own property is generally
+            &sect; 632 at all. Video-only documentation of your own property is generally
             permissible.
           </li>
           <li>
             <strong>Examinations Under Oath (EUOs):</strong> different rule. Your right to record
-            an EUO in its entirety is settled under Ins. Code &sect;2071.1(a)(4) and{' '}
+            an EUO in its entirety is settled under Ins. Code &sect; 2071.1(a)(4) and{' '}
             <em>Myasnyankin v. Nationwide Mutual Ins. Co.</em> (2024) 99 Cal.App.5th 283.
           </li>
         </ul>

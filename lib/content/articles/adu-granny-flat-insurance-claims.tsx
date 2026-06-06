@@ -90,9 +90,9 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The governing statute for ADU construction is California Government Code &sect;65852.2, which
+        The governing statute for ADU construction is California Government Code &sect; 65852.2, which
         sets the statewide standards that local agencies must follow. For JADUs, the governing statute
-        is Government Code &sect;65852.22.
+        is Government Code &sect; 65852.22.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The result of this legislative push has been extraordinary. According to the California
@@ -291,13 +291,13 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
         <li>
-          <strong>California Insurance Code &sect;336:</strong> The concealment of material
+          <strong>California Insurance Code &sect; 336:</strong> The concealment of material
           information must be <em>willful</em> to void the policy. A homeowner who simply forgot
           to call the insurer, or who didn&rsquo;t understand the obligation, has not engaged in
           willful concealment.
         </li>
         <li>
-          <strong>California Insurance Code &sect;338:</strong> An insurer seeking to rescind a
+          <strong>California Insurance Code &sect; 338:</strong> An insurer seeking to rescind a
           policy based on concealment must show that the concealment was of a material fact,
           and that it was done with intent to deceive or that the insurer would not have issued
           the policy (or would have issued it on different terms) had the truth been known.
@@ -505,7 +505,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A <strong>Junior ADU (JADU)</strong> is a specific category of accessory dwelling unit
-        defined under California Government Code &sect;65852.22. A JADU must be no more than
+        defined under California Government Code &sect; 65852.22. A JADU must be no more than
         500 square feet in size and must be created within the existing footprint of a
         single-family residence. It may include a basic cooking facility (an efficiency kitchen)
         and must include a separate entrance. JADUs may share a bathroom with the primary
@@ -529,7 +529,7 @@ export default function Content() {
           Coverage A limit may still be adequate, but it should be reviewed.
         </li>
         <li>
-          <strong>Owner-occupancy:</strong> Government Code &sect;65852.22(a)(1) requires that
+          <strong>Owner-occupancy:</strong> Government Code &sect; 65852.22(a)(1) requires that
           the owner occupy either the primary dwelling or the JADU as their principal residence.
           This means the JADU is always on an owner-occupied property, which is consistent with
           standard homeowner policy requirements.
@@ -600,7 +600,7 @@ export default function Content() {
         There is one scenario where the permit status becomes more problematic: if the insurer can
         show that it specifically asked about structures on the property during the application
         process and the homeowner failed to disclose the unpermitted ADU. This brings the
-        concealment and misrepresentation statutes into play (Insurance Code &sect;&sect;331&ndash;338).
+        concealment and misrepresentation statutes into play (Insurance Code &sect;&sect; 331&ndash;338).
         But even here, the insurer must show that the concealment was of a <em>material</em> fact
         and, for rescission, that it was willful.
       </p>
@@ -660,7 +660,7 @@ export default function Content() {
           Coverage B limit, particularly if the agent was aware of the ADU.
         </li>
         <li>
-          <strong>Concealment requires willfulness.</strong> Under Insurance Code &sect;336, the
+          <strong>Concealment requires willfulness.</strong> Under Insurance Code &sect; 336, the
           concealment must be willful to void the policy. A homeowner who did not understand the
           obligation to report the ADU, or who believed the existing policy covered it, has not
           engaged in willful concealment. The insurer must prove intent, not mere negligence or

@@ -147,14 +147,14 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California&rsquo;s Standard: Sargon and Evidence Code &sect;801&ndash;802
+        California&rsquo;s Standard: Sargon and Evidence Code &sect; 801&ndash;802
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California does not follow <em>Daubert</em> directly. For novel scientific evidence,
         California uses the <em>Kelly/Frye</em> standard, which asks whether the scientific
         technique is &ldquo;generally accepted&rdquo; in the relevant scientific community. But
-        for general expert qualifications and reliability, California Evidence Code &sect;801
-        and &sect;802 govern: an expert may testify only if their opinion is &ldquo;based on
+        for general expert qualifications and reliability, California Evidence Code &sect; 801
+        and &sect; 802 govern: an expert may testify only if their opinion is &ldquo;based on
         matter &hellip; that is of a type that reasonably may be relied upon by an expert in
         forming an opinion upon the subject.&rdquo;
       </p>
@@ -423,7 +423,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="California Recording Rights">
         <p>
-          California is a two-party consent state for audio recording (Penal Code &sect;632), but
+          California is a two-party consent state for audio recording (Penal Code &sect; 632), but
           you are generally permitted to take photographs and video of your own property during
           an insurance inspection. Document the carrier expert&rsquo;s inspection thoroughly with
           photos and written notes. If you want to audio-record the inspection, inform all parties

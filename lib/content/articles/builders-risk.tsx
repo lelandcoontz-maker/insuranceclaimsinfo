@@ -453,7 +453,7 @@ export default function Content() {
         Contractor Licensing Requirements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Business and Professions Code &sect;7031 requires that anyone performing
+        California Business and Professions Code &sect; 7031 requires that anyone performing
         construction work valued at $500 or more must hold a valid license from the
         Contractors State License Board (CSLB). This requirement is directly relevant to
         builder&rsquo;s risk claims because an unlicensed contractor cannot legally enforce

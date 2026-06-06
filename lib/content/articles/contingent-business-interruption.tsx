@@ -361,7 +361,7 @@ export default function Content() {
         Fair Claims Settlement Practices
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;790.03 and the implementing regulations (California Code of Regulations, Title 10, &sect;2695.1 et seq.) impose affirmative duties on insurers to investigate claims promptly and fairly, communicate coverage positions in writing, and not misrepresent policy provisions. These requirements apply equally to CBI claims. A carrier that delays investigation of a CBI claim for months while the insured&apos;s business suffers ongoing losses may be in violation of California&apos;s fair claims settlement practices.
+        California Insurance Code &sect; 790.03 and the implementing regulations (California Code of Regulations, Title 10, &sect; 2695.1 et seq.) impose affirmative duties on insurers to investigate claims promptly and fairly, communicate coverage positions in writing, and not misrepresent policy provisions. These requirements apply equally to CBI claims. A carrier that delays investigation of a CBI claim for months while the insured&apos;s business suffers ongoing losses may be in violation of California&apos;s fair claims settlement practices.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">

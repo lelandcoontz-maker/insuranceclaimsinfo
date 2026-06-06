@@ -826,7 +826,7 @@ export default function Content() {
         </li>
         <li>
           <strong>California Fair Claims Settlement Practices Regulations</strong> (10 CCR
-          &sect;2695.1 et seq.): Carriers must provide a written explanation of the basis for
+          &sect; 2695.1 et seq.): Carriers must provide a written explanation of the basis for
           any claim denial or underpayment. If the carrier is using cost valuation, it must
           explain why and cite the policy provision. Failure to do so is a regulatory violation.
           See our{' '}
@@ -839,7 +839,7 @@ export default function Content() {
           for detail on these regulations.
         </li>
         <li>
-          <strong>Insurance Code &sect;790.03(h):</strong> Unfair claims settlement practices
+          <strong>Insurance Code &sect; 790.03(h):</strong> Unfair claims settlement practices
           include &ldquo;not attempting in good faith to effectuate prompt, fair, and equitable
           settlements of claims in which liability has become reasonably clear.&rdquo; Applying
           the wrong valuation method to reduce payments arguably violates this provision.

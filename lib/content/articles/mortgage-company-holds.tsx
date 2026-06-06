@@ -505,7 +505,7 @@ export default function Content() {
         If the proceeds are less than the outstanding balance, whether you owe the deficiency
         depends on the type of loan. Purchase money mortgages &mdash; the original loan you took
         out to buy the home &mdash; are generally non-recourse under California Code of Civil
-        Procedure &sect;580b. Refinanced mortgages and home equity lines of credit may be recourse
+        Procedure &sect; 580b. Refinanced mortgages and home equity lines of credit may be recourse
         debt. For a full discussion of the financial implications of not rebuilding, see our
         article on{' '}
         <Link href="/resources/deciding-not-to-rebuild" className="text-blue-700 underline hover:text-blue-900">

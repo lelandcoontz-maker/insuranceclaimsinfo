@@ -293,7 +293,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Timing matters. 10 CCR &sect;2695.7(b) requires insurers to accept or
+        Timing matters. 10 CCR &sect; 2695.7(b) requires insurers to accept or
         deny a claim within 40 days of receiving proof of claim. But when two carriers are
         involved, each may wait on the other to determine its own liability. You need to push
         both carriers simultaneously and document your communications with each.
@@ -313,7 +313,7 @@ export default function Content() {
         The most common tactic. The FAIR Plan says the damage should be covered by the DIC. The DIC
         carrier says it should be covered by the FAIR Plan. The policyholder is caught in the
         middle while both carriers delay. Under California&rsquo;s Fair Claims Settlement Practices
-        Regulations (10 CCR &sect;2695.7(g)), an insurer must not force a policyholder to file
+        Regulations (10 CCR &sect; 2695.7(g)), an insurer must not force a policyholder to file
         with another carrier before accepting or denying a claim. Each carrier must independently
         evaluate its own coverage obligations.
       </p>
@@ -333,7 +333,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When two carriers are involved, delays compound. The FAIR Plan adjuster needs to inspect
         before the DIC adjuster will evaluate. The DIC carrier wants to see the FAIR Plan payment
-        before determining its own obligation. Months pass. Under 10 CCR &sect;2695.7(c), if an
+        before determining its own obligation. Months pass. Under 10 CCR &sect; 2695.7(c), if an
         insurer needs additional time, it must provide written notice every 30 days explaining the
         reasons for the delay. Demand those notices in writing and escalate to the California
         Department of Insurance if they are not provided.

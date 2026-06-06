@@ -195,9 +195,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Workers&rsquo; compensation does not cover volunteers.</strong> Workers&rsquo; comp
         is an employer-employee system. Volunteers are not employees. In California, Labor Code
-        &sect;3351 defines &ldquo;employee&rdquo; for workers&rsquo; comp purposes, and unpaid
+        &sect; 3351 defines &ldquo;employee&rdquo; for workers&rsquo; comp purposes, and unpaid
         volunteers generally do not qualify unless the organization has specifically elected to
-        include them (which is permitted under Labor Code &sect;3363.6 for certain nonprofit
+        include them (which is permitted under Labor Code &sect; 3363.6 for certain nonprofit
         corporations). Most churches and nonprofits have not made this election because it increases
         their workers&rsquo; comp premium.
       </p>
@@ -256,7 +256,7 @@ export default function Content() {
         Even with these safeguards in place, SAM coverage limits are often modest &mdash;
         $500,000 to $2 million per occurrence is common &mdash; and the policy may contain
         per-claim deductibles of $25,000 to $100,000. California Code of Civil Procedure
-        &sect;340.1 provides a lengthy statute of limitations for childhood sexual abuse claims
+        &sect; 340.1 provides a lengthy statute of limitations for childhood sexual abuse claims
         (action may be commenced within 22 years of the age of majority, or within 5 years of
         discovering that an injury was caused by childhood sexual abuse), meaning claims can
         surface decades after the abuse occurred.
@@ -336,7 +336,7 @@ export default function Content() {
         Tax-Exempt Status and Insurance Implications
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Churches and qualifying nonprofits are exempt from federal income tax under IRC &sect;501(c)(3)
+        Churches and qualifying nonprofits are exempt from federal income tax under IRC &sect; 501(c)(3)
         and typically exempt from state and local property taxes. This tax-exempt status creates
         several unique insurance implications:
       </p>
@@ -382,7 +382,7 @@ export default function Content() {
         <li>
           <strong>Foodborne illness:</strong> If someone becomes ill from food served or
           distributed by the organization, a bodily injury claim follows. California&rsquo;s
-          Good Samaritan Food Donation Act (Health &amp; Safety Code &sect;114432) provides some
+          Good Samaritan Food Donation Act (Health &amp; Safety Code &sect; 114432) provides some
           liability protection for good-faith food donations, but it does not provide blanket
           immunity, particularly if the organization was negligent in food handling or storage.
         </li>
@@ -397,7 +397,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Health department compliance:</strong> Commercial food operations must comply
-          with California Retail Food Code (Health &amp; Safety Code &sect;113700 et seq.). A
+          with California Retail Food Code (Health &amp; Safety Code &sect; 113700 et seq.). A
           health department closure after a loss (contamination, flood, fire) triggers a business
           income loss for the food program and may prevent the organization from serving the
           community even if the rest of the building is operational.
@@ -409,7 +409,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Americans with Disabilities Act provides a limited exemption for religious organizations
-        (42 U.S.C. &sect;12187 exempts religious organizations from Title III public accommodation
+        (42 U.S.C. &sect; 12187 exempts religious organizations from Title III public accommodation
         requirements). However, this exemption is narrower than most churches realize. If the
         church operates a daycare, school, or community program that is open to the general public,
         those programs may be subject to ADA requirements even if the church itself is exempt.
@@ -457,7 +457,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Corporations Code &sect;5047.5 provides qualified immunity for volunteer
+        California Corporations Code &sect; 5047.5 provides qualified immunity for volunteer
         directors and officers of nonprofit corporations, but this immunity has exceptions for
         fraud, self-dealing, and acts outside the scope of the director&rsquo;s duties. D&amp;O
         insurance fills the gap that statutory immunity leaves open.

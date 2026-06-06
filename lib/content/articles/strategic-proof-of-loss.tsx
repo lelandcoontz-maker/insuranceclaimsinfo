@@ -42,7 +42,7 @@ export default function Content() {
         California Law on Proof of Loss
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Standard Fire Policy, codified at Insurance Code &sect;2071, permits the
+        The California Standard Fire Policy, codified at Insurance Code &sect; 2071, permits the
         insurer to require a signed, sworn proof of loss within 60 days after a loss. This is a
         conditional requirement &mdash; the insurer <em>can</em> require it, but it is not automatic.
         California courts have consistently held that the insurer must actually demand the proof of
@@ -366,7 +366,7 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
           California Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (10 CCR &sect;2695.7, which independently requires the insurer to accept or deny a claim
+        (10 CCR &sect; 2695.7, which independently requires the insurer to accept or deny a claim
         within 40 days after receiving proof of claim), the case for unreasonable delay becomes
         very strong.
       </p>
@@ -380,7 +380,7 @@ export default function Content() {
       <CalloutBox variant="important" title="Two Clocks, One Goal">
         <p>
           A strategic proof of loss triggers the policy&rsquo;s contractual payment deadline. The
-          Fair Claims Regulations (10 CCR &sect;2695.7) independently require the insurer to accept
+          Fair Claims Regulations (10 CCR &sect; 2695.7) independently require the insurer to accept
           or deny within 40 days of receiving proof of claim. When both deadlines pass without
           action, you have documented evidence of delay from two separate sources &mdash; the
           policy and the regulations. For a full breakdown of every applicable deadline, see our

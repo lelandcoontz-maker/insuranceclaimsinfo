@@ -364,7 +364,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In California &mdash; and in most states &mdash; you have the absolute right to use any
         licensed contractor you choose. The insurance company cannot require you to use their
-        preferred vendor. Period. 10 CCR &sect;2695.9 specifically prohibits insurers from
+        preferred vendor. Period. 10 CCR &sect; 2695.9 specifically prohibits insurers from
         recommending repair contractors without informing you that you have the right to choose
         your own.
       </p>

@@ -410,7 +410,7 @@ export default function Content() {
         <li>
           <strong>Franklin v. Lexington Insurance (Missouri)</strong> &mdash; Whether insurers can
           depreciate labor costs. UP argued that labor does not physically deteriorate and cannot be
-          depreciated. California already prohibits labor depreciation under &sect;2695.9(f)(1), but
+          depreciated. California already prohibits labor depreciation under &sect; 2695.9(f)(1), but
           this brief supports the principle nationally.
         </li>
         <li>

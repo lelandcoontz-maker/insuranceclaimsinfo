@@ -72,7 +72,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="California Rejects Anti-Concurrent Causation Clauses">
         <p>
-          In California, insurers cannot use anti-concurrent causation language to override the efficient proximate cause doctrine. If a covered peril set the chain of events in motion and was the predominant cause of the loss, the earth movement exclusion does not bar coverage &mdash; regardless of what the ACC clause says. This is established law under California Insurance Code &sect;530 and has been upheld by the California Supreme Court.
+          In California, insurers cannot use anti-concurrent causation language to override the efficient proximate cause doctrine. If a covered peril set the chain of events in motion and was the predominant cause of the loss, the earth movement exclusion does not bar coverage &mdash; regardless of what the ACC clause says. This is established law under California Insurance Code &sect; 530 and has been upheld by the California Supreme Court.
         </p>
       </CalloutBox>
 
@@ -83,7 +83,7 @@ export default function Content() {
         The efficient proximate cause doctrine is the single most important legal principle for any California policyholder whose claim involves earth movement. Under this doctrine, when a <strong>covered peril</strong> sets in motion a chain of events that ultimately produces a loss through an <strong>excluded peril</strong>, the loss is covered. The key question is not what happened last in the causal chain. The question is: <em>what was the predominant, moving cause &mdash; the event that set everything else in motion?</em>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;530 establishes the statutory foundation:
+        California Insurance Code &sect; 530 establishes the statutory foundation:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
         &ldquo;An insurer is liable for a loss of which a peril insured against was the proximate cause, although a peril not contemplated by the contract may have been a remote cause of the loss; but he is not liable for a loss of which the peril insured against was only a remote cause.&rdquo;
@@ -265,7 +265,7 @@ export default function Content() {
         Sinkholes are explicitly listed in the earth movement exclusion. However, some states have enacted specific sinkhole legislation that modifies or overrides the standard policy language.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Florida</strong> is the most prominent example. Florida law requires insurers to cover &ldquo;catastrophic ground cover collapse&rdquo; in all homeowner policies and gives policyholders the option to purchase sinkhole coverage. The statute (Fla. Stat. &sect;627.706) defines both terms and establishes specific investigation and payment procedures.
+        <strong>Florida</strong> is the most prominent example. Florida law requires insurers to cover &ldquo;catastrophic ground cover collapse&rdquo; in all homeowner policies and gives policyholders the option to purchase sinkhole coverage. The statute (Fla. Stat. &sect; 627.706) defines both terms and establishes specific investigation and payment procedures.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>California</strong> does not have specific sinkhole legislation. Sinkholes in California are excluded under the standard earth movement exclusion unless a covered peril caused the sinkhole (for example, a burst water main washing away underground soil and creating a void that collapses). Sinkholes can occur in California in areas with historical mining activity, karst terrain, or significant groundwater withdrawal &mdash; but they are far less common than in Florida.
@@ -282,7 +282,7 @@ export default function Content() {
         Ignoring the Covered Peril That Started the Chain
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the most common tactic. The insurer looks only at the final event &mdash; earth movement &mdash; and ignores the covered peril that caused the earth to move. The denial letter says the loss is excluded as earth movement without any analysis of what caused the earth movement. In California, this approach violates the efficient proximate cause doctrine and the California Fair Claims Settlement Practices Regulations (Cal. Code Regs. tit. 10, &sect;2695.7), which require the insurer to conduct a thorough investigation of the cause of loss.
+        This is the most common tactic. The insurer looks only at the final event &mdash; earth movement &mdash; and ignores the covered peril that caused the earth to move. The denial letter says the loss is excluded as earth movement without any analysis of what caused the earth movement. In California, this approach violates the efficient proximate cause doctrine and the California Fair Claims Settlement Practices Regulations (Cal. Code Regs. tit. 10, &sect; 2695.7), which require the insurer to conduct a thorough investigation of the cause of loss.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -343,7 +343,7 @@ export default function Content() {
           <strong>File promptly and characterize the loss correctly.</strong> When you file the claim, identify the covered peril as the cause of loss. Do not describe the loss as &ldquo;a landslide&rdquo; or &ldquo;earth movement.&rdquo; Describe it as &ldquo;damage resulting from [wildfire/vehicle impact/plumbing failure] that caused earth movement.&rdquo; The initial characterization matters.
         </li>
         <li>
-          <strong>Challenge improper denials.</strong> If the insurer denies based on the earth movement exclusion without addressing the covered peril that started the chain, respond in writing citing the efficient proximate cause doctrine and California Insurance Code &sect;530. Request that the insurer explain why the covered peril is not the predominant cause. If the insurer refuses to reconsider, file a complaint with the California Department of Insurance.
+          <strong>Challenge improper denials.</strong> If the insurer denies based on the earth movement exclusion without addressing the covered peril that started the chain, respond in writing citing the efficient proximate cause doctrine and California Insurance Code &sect; 530. Request that the insurer explain why the covered peril is not the predominant cause. If the insurer refuses to reconsider, file a complaint with the California Department of Insurance.
         </li>
         <li>
           <strong>Consider hiring a public adjuster or attorney.</strong> Earth movement claims are among the most complex in property insurance. The interplay between the exclusion, the efficient proximate cause doctrine, the ACC clause, and the factual causation evidence requires expertise. A licensed public adjuster can manage the claim, retain experts, and negotiate with the insurer. If bad faith is involved, an insurance coverage attorney may be appropriate.
@@ -400,7 +400,7 @@ export default function Content() {
           <strong>But earth movement is covered when a covered peril caused it.</strong> Under the efficient proximate cause doctrine, if a covered peril &mdash; wildfire, vehicle impact, accidental discharge of water, explosion, or any other insured cause &mdash; set the chain of events in motion and was the predominant cause, the earth movement exclusion does not bar coverage.
         </li>
         <li>
-          <strong>Anti-concurrent causation clauses do not change this result in California.</strong> Insurers cannot use ACC language to override the efficient proximate cause doctrine. California Insurance Code &sect;530 and California Supreme Court precedent make this clear.
+          <strong>Anti-concurrent causation clauses do not change this result in California.</strong> Insurers cannot use ACC language to override the efficient proximate cause doctrine. California Insurance Code &sect; 530 and California Supreme Court precedent make this clear.
         </li>
         <li>
           <strong>The burden is on the insurer</strong> to prove the exclusion applies. Under an open-perils policy, the insurer must demonstrate that the earth movement exclusion bars coverage. The policyholder does not need to prove coverage exists &mdash; only that a loss occurred.

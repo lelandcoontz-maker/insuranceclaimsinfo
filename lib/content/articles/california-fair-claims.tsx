@@ -214,29 +214,29 @@ export default function Content() {
         <li>
           If you never request the name of a contractor who can do the repairs for the
           insurer&apos;s estimate, the insurer has no obligation to provide one. But if you
-          make that request in writing citing &sect;2695.9(d)(2), and they fail to respond
-          within 15 days, you now have a documented violation of both &sect;2695.9(d)(2){' '}
-          <em>and</em> &sect;2695.5(b) (the 15-day response requirement).
+          make that request in writing citing &sect; 2695.9(d)(2), and they fail to respond
+          within 15 days, you now have a documented violation of both &sect; 2695.9(d)(2){' '}
+          <em>and</em> &sect; 2695.5(b) (the 15-day response requirement).
         </li>
         <li>
           If an insured never asks the insurer for claim-related documents, the insurer is not
           required to send them proactively. The Fair Claims regulations give insureds defined
-          rights to specific claim-related materials — for example, &sect;2695.9(d) requires the
+          rights to specific claim-related materials — for example, &sect; 2695.9(d) requires the
           insurer to supply a copy of any written scope or estimate the settlement is based on,
-          &sect;2695.7(b)(1) requires written denials to state the factual and legal bases, and
-          &sect;2695.4(a) requires affirmative disclosure of coverages. Once a written request
-          for documents within these provisions is made, &sect;2695.5(b) gives the insurer 15
+          &sect; 2695.7(b)(1) requires written denials to state the factual and legal bases, and
+          &sect; 2695.4(a) requires affirmative disclosure of coverages. Once a written request
+          for documents within these provisions is made, &sect; 2695.5(b) gives the insurer 15
           calendar days to respond. Failure to respond within that window may be documented as
-          a violation of &sect;2695.5(b).
+          a violation of &sect; 2695.5(b).
         </li>
         <li>
           If an insured never challenges the insurer&apos;s estimate, the insurer has no
           operational reason to change its number. But once a written demand is made under{' '}
-          &sect;2695.9(d)(2) for the name of a contractor who will do the work for the
+          &sect; 2695.9(d)(2) for the name of a contractor who will do the work for the
           insurer&apos;s estimated amount, the regulation requires the insurer to respond. If
           the insurer cannot name a contractor at that amount, many plaintiff attorneys argue
           the estimate may not meet the trade-standards and local-market requirements in{' '}
-          &sect;2695.9(d). In practice, this kind of written demand often prompts the carrier
+          &sect; 2695.9(d). In practice, this kind of written demand often prompts the carrier
           to re-evaluate the estimate or schedule a reinspection — which is usually where
           additional payment shows up.
         </li>
@@ -253,7 +253,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Every Written Demand Should Cite the Regulation">
         <p>
           When you make a request, cite the specific regulation number. &ldquo;Per 10 CCR
-          &sect;2695.9(d)(2), I am requesting the name of a contractor who will perform the
+          &sect; 2695.9(d)(2), I am requesting the name of a contractor who will perform the
           repairs for the amount of your estimate&rdquo; is far more effective than
           &ldquo;please send me a contractor name.&rdquo; The regulation citation signals
           that you know the rules, you are creating a paper trail, and any failure to
@@ -281,7 +281,7 @@ export default function Content() {
         <p className="mb-2">
           These regulations are not the exclusive definition of unfair claims settlement
           practices. Other acts not specifically listed may also violate Insurance Code
-          &sect;790.03(h). The regulations apply to all claims except: workers&apos;
+          &sect; 790.03(h). The regulations apply to all claims except: workers&apos;
           compensation, medical malpractice liability, bona fide ERISA plans not covered by
           insurance, and other lawful self-funded plans.
         </p>
@@ -335,7 +335,7 @@ export default function Content() {
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">How to Use This</h3>
       <p className="text-gray-700 leading-relaxed mb-6">
         When the insurer cites Xactimate, a third-party valuation service, or any external
-        tool to justify a low estimate, respond in writing: &ldquo;Per 10 CCR &sect;2695.1(g),
+        tool to justify a low estimate, respond in writing: &ldquo;Per 10 CCR &sect; 2695.1(g),
         the use of a third-party source does not absolve you of your obligation to effectuate a
         prompt, fair and equitable settlement. Your estimate does not reflect actual local
         repair costs for the following reasons&hellip;&rdquo; Then list the specific
@@ -365,7 +365,7 @@ export default function Content() {
             <strong>&ldquo;Insurer&rdquo;</strong> — broadly defined to include admitted and
             non-admitted carriers, the California FAIR Plan, the California Earthquake
             Authority, home protection companies, and any entity subject to Insurance Code
-            &sect;790.03(h). Does <em>not</em> include agents and brokers.
+            &sect; 790.03(h). Does <em>not</em> include agents and brokers.
           </li>
           <li>
             <strong>&ldquo;Knowingly committed&rdquo;</strong> — includes actual, implied, or
@@ -385,7 +385,7 @@ export default function Content() {
         The definitions section contains several terms with major practical significance.
         The definition of <strong>&ldquo;proof of claim&rdquo;</strong> is critical: it
         includes evidence the insurer already has from its own investigation. This means the
-        40-day clock to accept or deny your claim (in &sect;2695.7) can start ticking based on
+        40-day clock to accept or deny your claim (in &sect; 2695.7) can start ticking based on
         the insurer&apos;s own adjuster&apos;s report — the insurer cannot stall by claiming
         it is &ldquo;waiting for proof of claim&rdquo; when its own files contain the evidence.
       </p>
@@ -428,10 +428,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         If the insurer is stalling by demanding additional documentation when it already has
         enough information to make a decision, write: &ldquo;Per the definition of
-        &lsquo;proof of claim&rsquo; in 10 CCR &sect;2695.2(s), proof of claim includes
+        &lsquo;proof of claim&rsquo; in 10 CCR &sect; 2695.2(s), proof of claim includes
         evidence obtained by the insurer during its own investigation. Your adjuster inspected
         my property on [date] and prepared an estimate. The 40-day deadline under
-        &sect;2695.7(b) commenced no later than that date.&rdquo;
+        &sect; 2695.7(b) commenced no later than that date.&rdquo;
       </p>
 
       {/* ───────── 2695.3 FILE AND RECORD DOCUMENTATION ───────── */}
@@ -475,10 +475,10 @@ export default function Content() {
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">How to Use This</h3>
       <p className="text-gray-700 leading-relaxed mb-6">
-        <strong>Request your complete claim file in writing.</strong> Cite &sect;2695.3 and
+        <strong>Request your complete claim file in writing.</strong> Cite &sect; 2695.3 and
         request all documents, notes, work papers, correspondence, internal emails, adjuster
         reports, supervisor notes, estimates (all versions), and photographs. The insurer must
-        respond within 15 days under &sect;2695.5(b). If they produce an incomplete file —
+        respond within 15 days under &sect; 2695.5(b). If they produce an incomplete file —
         missing internal notes or supervisor communications — that itself may be a violation.
         The claim file is the single most valuable discovery tool available to a policyholder
         short of litigation.
@@ -588,7 +588,7 @@ export default function Content() {
           <Link href="/resources/debris-removal" className="text-[#2E74B5] hover:underline">debris removal coverage</Link>{' '}
           beyond the basic dwelling limit, extended replacement cost, or the separate Coverage B
           (other structures) limit. Months later you discover these coverages existed.
-          The insurer violated &sect;2695.4(a) from day one. In a bad faith context, failing to
+          The insurer violated &sect; 2695.4(a) from day one. In a bad faith context, failing to
           tell you about coverages you are paying for is precisely the kind of conduct{' '}
           <em>Gruenberg</em> addresses — the insurer placed its financial interest above its
           duty to the policyholder.
@@ -597,15 +597,15 @@ export default function Content() {
           <strong>Broad release on a partial payment.</strong> You settle the dwelling
           portion of your claim for $200,000, but the insurer&apos;s release form says you
           are releasing &ldquo;any and all claims arising from the loss.&rdquo; You still have
-          an open contents claim and an ALE claim. Under &sect;2695.4(e), the insurer must
+          an open contents claim and an ALE claim. Under &sect; 2695.4(e), the insurer must
           explain the legal effect of this broad release in writing before you sign. And under
-          &sect;2695.4(f), release language on a partial settlement check is unenforceable if
+          &sect; 2695.4(f), release language on a partial settlement check is unenforceable if
           you did not agree to compromise the remaining coverages.
         </li>
         <li>
           <strong>The &ldquo;full and final&rdquo; check.</strong> You receive a check for
           $75,000 with &ldquo;full and final payment&rdquo; printed on it, but you believe your
-          claim is worth $150,000 and you never agreed to settle. This violates &sect;2695.4(f).
+          claim is worth $150,000 and you never agreed to settle. This violates &sect; 2695.4(f).
           See our guide on{' '}
           <Link href="/resources/insurance-checks" className="text-[#2E74B5] hover:underline">insurance checks</Link>{' '}
           for what to do.
@@ -614,7 +614,7 @@ export default function Content() {
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">How to Use This</h3>
       <p className="text-gray-700 leading-relaxed mb-6">
-        Early in your claim, send a written request: &ldquo;Per 10 CCR &sect;2695.4(a),
+        Early in your claim, send a written request: &ldquo;Per 10 CCR &sect; 2695.4(a),
         please identify all benefits, coverages, time limits, and policy provisions that may
         apply to my claim, including but not limited to: Coverage A (dwelling), Coverage B
         (other structures), Coverage C (personal property), Coverage D (loss of use), ordinance
@@ -632,7 +632,7 @@ export default function Content() {
           replacement cost, debris removal beyond the dwelling, or the additional contents
           coverage available under some policies. If your insurer never mentioned a coverage and
           you later discover you were entitled to it, their failure to disclose is a regulatory
-          violation under &sect;2695.4(a) — and potentially evidence of bad faith. The insured
+          violation under &sect; 2695.4(a) — and potentially evidence of bad faith. The insured
           who asks in writing forces the insurer to either disclose everything or create a
           documented violation.
         </p>
@@ -671,7 +671,7 @@ export default function Content() {
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">Explanation</h3>
       <p className="text-gray-700 leading-relaxed mb-3">
-        The <strong>15-day response rule</strong> (&sect;2695.5(b)) is one of the most
+        The <strong>15-day response rule</strong> (&sect; 2695.5(b)) is one of the most
         frequently violated and most useful regulations. It applies to <em>every</em>
         communication from a claimant that reasonably suggests a response is expected. Each
         email, letter, or voicemail that asks a question, requests information, or submits
@@ -680,7 +680,7 @@ export default function Content() {
         a CDI complaint or future bad-faith analysis.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
-        The <strong>15-day acknowledgment deadline</strong> (&sect;2695.5(e)) starts the
+        The <strong>15-day acknowledgment deadline</strong> (&sect; 2695.5(e)) starts the
         moment you file your claim. The insurer has 15 days to acknowledge it, tell you what
         they need, and begin investigating. An insurer that takes three weeks to assign an
         adjuster has already violated this regulation.
@@ -691,7 +691,7 @@ export default function Content() {
         <li>
           <strong>The silent adjuster.</strong> You send your contractor&apos;s estimate to the
           adjuster by email on March 1. By March 20, you have received no response. That is a
-          violation of &sect;2695.5(b). You send a follow-up on March 21 noting the missed
+          violation of &sect; 2695.5(b). You send a follow-up on March 21 noting the missed
           deadline. By April 5, still no response — that is now a <em>second</em> violation
           (of the follow-up communication). Each unanswered communication is a separate,
           documentable violation.
@@ -704,7 +704,7 @@ export default function Content() {
         <li>
           <strong>Agent delay imputed to insurer.</strong> You report a fire loss to your
           insurance agent on Monday. The agent does not transmit the claim to the carrier
-          until the following Friday. Under &sect;2695.5(e)(1), the agent&apos;s delay is
+          until the following Friday. Under &sect; 2695.5(e)(1), the agent&apos;s delay is
           imputed to the insurer — the 15-day clock started Monday, not Friday.
         </li>
       </ul>
@@ -714,7 +714,7 @@ export default function Content() {
         <strong>Many policyholders keep a communication log.</strong> Every communication sent
         to the insurer is logged with the date and what was sent. If 15 calendar days pass
         without a response, a follow-up letter is one option some policyholders use, along
-        these lines: &ldquo;On [date], I sent [description]. Per 10 CCR &sect;2695.5(b), a
+        these lines: &ldquo;On [date], I sent [description]. Per 10 CCR &sect; 2695.5(b), a
         response was due within 15 calendar days. No response has been received. This may
         constitute a regulatory violation. Please respond immediately.&rdquo; In our
         experience, this approach accomplishes two things: it tends to get the insurer&apos;s
@@ -747,7 +747,7 @@ export default function Content() {
         &ldquo;that is not how it works in California,&rdquo; they are either violating
         this regulation (by being insufficiently trained) or they are knowingly
         misrepresenting the regulations to you (which is itself a violation of
-        &sect;790.03(h)(1) — misrepresenting policy provisions). After a major wildfire,
+        &sect; 790.03(h)(1) — misrepresenting policy provisions). After a major wildfire,
         when carriers bring in hundreds of out-of-state adjusters, this regulation is
         particularly relevant. &ldquo;My adjuster did not know the rule&rdquo; is not a
         defense — it is a separate violation.
@@ -765,7 +765,7 @@ export default function Content() {
 
       {/* 2695.7(a) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3 mt-8">
-        &sect;2695.7(a) — Anti-Discrimination
+        &sect; 2695.7(a) — Anti-Discrimination
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -791,7 +791,7 @@ export default function Content() {
 
       {/* 2695.7(b) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(b) — 40-Day Accept/Deny Deadline
+        &sect; 2695.7(b) — 40-Day Accept/Deny Deadline
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p className="mb-2">
@@ -816,7 +816,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-3">
         <strong>Real-world example:</strong> Your insurer denies your water damage claim with a
         one-paragraph letter stating: &ldquo;After review, we have determined this loss is not
-        covered under your policy.&rdquo; This denial violates &sect;2695.7(b)(1) in multiple
+        covered under your policy.&rdquo; This denial violates &sect; 2695.7(b)(1) in multiple
         ways: it does not list all bases for denial, does not cite the specific exclusion,
         does not provide the factual basis, and does not include CDI contact information. In{' '}
         <em>Brizuela v. CalFarm Ins. Co.</em> (2004) 116 Cal.App.4th 578, the court found
@@ -825,17 +825,17 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If you receive a deficient denial, respond in writing:
-        &ldquo;Your denial letter of [date] does not comply with 10 CCR &sect;2695.7(b)(1).
+        &ldquo;Your denial letter of [date] does not comply with 10 CCR &sect; 2695.7(b)(1).
         It fails to identify the specific policy provision, condition, or exclusion relied upon;
         fails to provide the factual basis for each reason; and fails to include CDI contact
         information. Please provide a compliant denial letter within 15 days per
-        &sect;2695.5(b).&rdquo; This either forces a proper explanation (which may reveal the
+        &sect; 2695.5(b).&rdquo; This either forces a proper explanation (which may reveal the
         denial is weak) or creates another documented violation.
       </p>
 
       {/* 2695.7(c) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(c) — 30-Day Written Status Updates
+        &sect; 2695.7(c) — 30-Day Written Status Updates
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -858,7 +858,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> After 30 days without an update, write: &ldquo;Per
-        10 CCR &sect;2695.7(c)(1), you are required to provide written status updates every
+        10 CCR &sect; 2695.7(c)(1), you are required to provide written status updates every
         30 calendar days. The last written status was dated [date], more than 30 days ago.
         Please provide a written status update immediately, including any additional
         information you require and the reasons for the continued delay.&rdquo;
@@ -866,7 +866,7 @@ export default function Content() {
 
       {/* 2695.7(d) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(d) — Thorough, Fair and Objective Investigation
+        &sect; 2695.7(d) — Thorough, Fair and Objective Investigation
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -900,14 +900,14 @@ export default function Content() {
         <strong>How to use this:</strong> When the insurer&apos;s investigation is
         superficial, document the deficiencies in writing: &ldquo;Your adjuster spent
         approximately [X] minutes on the property and did not inspect [list areas]. Per 10 CCR
-        &sect;2695.7(d), you are required to conduct a thorough, fair and objective
+        &sect; 2695.7(d), you are required to conduct a thorough, fair and objective
         investigation. The following areas of damage were not inspected: [list]. I request a
         reinspection that includes all damaged areas.&rdquo;
       </p>
 
       {/* 2695.7(e) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(e) — No Delay Based on Other Parties
+        &sect; 2695.7(e) — No Delay Based on Other Parties
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -924,14 +924,14 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If your insurer says &ldquo;you should file a claim
         against your neighbor&apos;s insurance,&rdquo; respond: &ldquo;Per 10 CCR
-        &sect;2695.7(e), you may not delay or deny settlement of my first party claim on the
+        &sect; 2695.7(e), you may not delay or deny settlement of my first party claim on the
         basis that responsibility should be assumed by others. I am filing this claim under my
         own policy. Please process it accordingly.&rdquo;
       </p>
 
       {/* 2695.7(f) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(f) — Statute of Limitations Notice
+        &sect; 2695.7(f) — Statute of Limitations Notice
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -954,11 +954,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How some policyholders use this:</strong> Many policies contain a one-year suit
         limitation provision, and certain statutes of limitation may also apply depending on
-        the legal theory involved — CCP &sect;339(1) is sometimes cited in this area.{' '}
+        the legal theory involved — CCP &sect; 339(1) is sometimes cited in this area.{' '}
         <strong>Identifying which statute(s) of limitation apply to a specific claim is a legal
-        question for an attorney, not a public adjuster.</strong> That said, &sect;2695.7(f)
+        question for an attorney, not a public adjuster.</strong> That said, &sect; 2695.7(f)
         places the disclosure burden on the insurer. Some policyholders write to the carrier
-        with language like: &ldquo;Per 10 CCR &sect;2695.7(f), please identify in writing any
+        with language like: &ldquo;Per 10 CCR &sect; 2695.7(f), please identify in writing any
         statute of limitation or time period requirement that may apply to my claim and the
         applicable expiration dates.&rdquo; The point is to obtain the carrier&apos;s own
         written identification of any deadlines it intends to rely on, so the insured and the
@@ -967,7 +967,7 @@ export default function Content() {
 
       {/* 2695.7(g) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(g) — Prohibition on Unreasonably Low Offers
+        &sect; 2695.7(g) — Prohibition on Unreasonably Low Offers
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p className="mb-2">
@@ -984,18 +984,18 @@ export default function Content() {
         <Link href="/resources/first-offer-lowball" className="text-[#2E74B5] hover:underline">lowball offers</Link>.
         The standard is objective: would &ldquo;a reasonable person with knowledge of the facts
         and circumstances&rdquo; have offered this amount? Under Insurance Code
-        &sect;790.03(h)(5), failing to attempt in good faith to effectuate a prompt, fair
+        &sect; 790.03(h)(5), failing to attempt in good faith to effectuate a prompt, fair
         settlement when liability is reasonably clear is a statutory violation. Under
-        &sect;790.03(h)(6), compelling the insured to institute litigation by offering
+        &sect; 790.03(h)(6), compelling the insured to institute litigation by offering
         substantially less than the amount ultimately recovered is also prohibited. Together
-        with &sect;2695.7(g), these provisions create a powerful framework against lowball
+        with &sect; 2695.7(g), these provisions create a powerful framework against lowball
         tactics.
       </p>
       <p className="text-gray-700 leading-relaxed mb-3">
         <strong>Real-world example:</strong> You submit a contractor estimate for $175,000. The
         insurer offers $65,000 with no explanation of why your contractor&apos;s estimate is
         wrong — no competing line items, no analysis, just a lower number from their software.
-        Under &sect;2695.7(g), the Commissioner would look at whether the insurer considered
+        Under &sect; 2695.7(g), the Commissioner would look at whether the insurer considered
         your evidence (it ignored your contractor&apos;s estimate) and whether the procedures
         used were reasonable (running Xactimate with below-market pricing is not a reasonable
         procedure when local contractors are bidding 2.5x higher).
@@ -1003,7 +1003,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> When you receive a lowball offer, respond in writing
         with your competing evidence: &ldquo;Your settlement offer of $[X] is unreasonably low
-        under 10 CCR &sect;2695.7(g). I have submitted written estimates from [number]
+        under 10 CCR &sect; 2695.7(g). I have submitted written estimates from [number]
         licensed contractors totaling $[Y]. Your offer does not address or rebut the specific
         line items in my contractors&apos; estimates. A reasonable person with knowledge of
         local repair costs would not have offered $[X] for this scope of damage.&rdquo;
@@ -1011,7 +1011,7 @@ export default function Content() {
 
       {/* 2695.7(h) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(h) — 30-Day Payment Deadline After Acceptance
+        &sect; 2695.7(h) — 30-Day Payment Deadline After Acceptance
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -1030,25 +1030,25 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If the insurer has accepted all or part of your claim
         and 30 days pass without payment, write: &ldquo;On [date], you accepted my [coverage]
-        claim in the amount of $[X]. Per 10 CCR &sect;2695.7(h), payment was due within 30
+        claim in the amount of $[X]. Per 10 CCR &sect; 2695.7(h), payment was due within 30
         calendar days. [X] days have elapsed without payment. Please tender payment
         immediately.&rdquo;
       </p>
 
       <CalloutBox variant="legal" title="The Complete Timeline at a Glance">
         <ul className="list-disc pl-4 space-y-1 text-sm">
-          <li><strong>15 days</strong> — Acknowledge claim, provide forms, begin investigation (&sect;2695.5(e))</li>
-          <li><strong>15 days</strong> — Respond to any claimant communication (&sect;2695.5(b))</li>
-          <li><strong>40 days</strong> — Accept or deny claim after receiving proof of claim (&sect;2695.7(b))</li>
-          <li><strong>30 days</strong> — Pay undisputed amounts after acceptance (&sect;2695.7(h))</li>
-          <li><strong>Every 30 days</strong> — Written status updates if claim remains open (&sect;2695.7(c))</li>
-          <li><strong>60 days</strong> — Notice before any time-bar deadline (&sect;2695.7(f))</li>
+          <li><strong>15 days</strong> — Acknowledge claim, provide forms, begin investigation (&sect; 2695.5(e))</li>
+          <li><strong>15 days</strong> — Respond to any claimant communication (&sect; 2695.5(b))</li>
+          <li><strong>40 days</strong> — Accept or deny claim after receiving proof of claim (&sect; 2695.7(b))</li>
+          <li><strong>30 days</strong> — Pay undisputed amounts after acceptance (&sect; 2695.7(h))</li>
+          <li><strong>Every 30 days</strong> — Written status updates if claim remains open (&sect; 2695.7(c))</li>
+          <li><strong>60 days</strong> — Notice before any time-bar deadline (&sect; 2695.7(f))</li>
         </ul>
       </CalloutBox>
 
       {/* 2695.7(i) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3 mt-8">
-        &sect;2695.7(i) — No False Urgency on Forms
+        &sect; 2695.7(i) — No False Urgency on Forms
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -1065,7 +1065,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If the insurer imposes an artificial deadline on a
-        release or form, respond: &ldquo;Per 10 CCR &sect;2695.7(i), you may not inform me
+        release or form, respond: &ldquo;Per 10 CCR &sect; 2695.7(i), you may not inform me
         that my rights will be impaired if this form is not completed by [date] unless that
         deadline is based on an applicable statute of limitations or policy provision. Please
         identify the specific statute or policy provision that establishes this deadline.&rdquo;
@@ -1073,14 +1073,14 @@ export default function Content() {
 
       {/* 2695.7(k) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(k) — Extended Timeline for Suspected Fraud
+        &sect; 2695.7(k) — Extended Timeline for Suspected Fraud
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
           Where there is a reasonable basis, supported by specific information available for
           CDI review, for belief that the claim is fraudulent, the 40-day deadline may be
           increased to <strong>80 calendar days</strong>, or suspended entirely if the insurer
-          has filed a fraud report under Insurance Code &sect;1872.4 and can demonstrate
+          has filed a fraud report under Insurance Code &sect; 1872.4 and can demonstrate
           diligent investigation.
         </p>
       </div>
@@ -1094,21 +1094,21 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If your claim is sent to SIU without apparent
         justification, write: &ldquo;I understand my claim has been referred to your Special
-        Investigations Unit. Per 10 CCR &sect;2695.7(k), extension of the 40-day deadline
+        Investigations Unit. Per 10 CCR &sect; 2695.7(k), extension of the 40-day deadline
         requires a reasonable basis supported by specific information. Please identify the
         specific information that supports a fraud investigation, or confirm that the 40-day
-        deadline in &sect;2695.7(b) remains in effect.&rdquo;
+        deadline in &sect; 2695.7(b) remains in effect.&rdquo;
       </p>
 
       {/* 2695.7(l) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(l) — Denials Must Be Based on Documented Evidence
+        &sect; 2695.7(l) — Denials Must Be Based on Documented Evidence
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
           No insurer shall deny a claim based upon information obtained in a telephone
           conversation or personal interview unless that conversation is documented in the
-          claim file per &sect;2695.3.
+          claim file per &sect; 2695.3.
         </p>
       </div>
       <p className="text-gray-700 leading-relaxed mb-3">
@@ -1120,14 +1120,14 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> When the insurer cites verbal information in a
         denial, request documentation: &ldquo;Your denial references information obtained from
-        [source]. Per 10 CCR &sect;2695.7(l), this information must be documented in the claim
+        [source]. Per 10 CCR &sect; 2695.7(l), this information must be documented in the claim
         file. Please provide a copy of the documentation, including the date of the
         communication and the identity of the source.&rdquo;
       </p>
 
       {/* 2695.7(o) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(o) — No Retaliation for CDI Complaints
+        &sect; 2695.7(o) — No Retaliation for CDI Complaints
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -1145,7 +1145,7 @@ export default function Content() {
 
       {/* 2695.7(p)-(q) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.7(p)&ndash;(q) — Subrogation and Deductible Recovery
+        &sect; 2695.7(p)&ndash;(q) — Subrogation and Deductible Recovery
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p className="mb-2">
@@ -1167,7 +1167,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If a third party caused your loss, write: &ldquo;Per
-        10 CCR &sect;2695.7(p), please advise in writing whether you intend to pursue
+        10 CCR &sect; 2695.7(p), please advise in writing whether you intend to pursue
         subrogation against [responsible party]. If you do not intend to pursue subrogation,
         please confirm that any recovery is my responsibility so that I may take appropriate
         action to recover my deductible and uninsured losses.&rdquo;
@@ -1179,14 +1179,14 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4 italic">
         This section contains property-specific standards that supplement the general
-        requirements in &sect;2695.7. These are the rules that apply specifically to your
+        requirements in &sect; 2695.7. These are the rules that apply specifically to your
         homeowner, renter, condo, or commercial property insurance claim — and they contain
         some of the strongest tools available to policyholders.
       </p>
 
       {/* 2695.9(a) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3 mt-8">
-        &sect;2695.9(a) — Replacement Cost and Matching
+        &sect; 2695.9(a) — Replacement Cost and Matching
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <ul className="list-disc pl-4 space-y-2">
@@ -1215,13 +1215,13 @@ export default function Content() {
         <strong>Real-world example:</strong> Your kitchen has hardwood flooring throughout. A
         water loss damages 30% of the floor. The insurer replaces the damaged section, but the
         new wood does not match the existing floor in color or grain pattern — even after
-        staining. Under &sect;2695.9(a)(2), the insurer must replace the entire kitchen floor
+        staining. Under &sect; 2695.9(a)(2), the insurer must replace the entire kitchen floor
         to achieve a reasonably uniform appearance. See our guide on{' '}
         <Link href="/resources/matching" className="text-[#2E74B5] hover:underline">matching disputes</Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> When the insurer proposes a partial repair that
-        will not match, write: &ldquo;Per 10 CCR &sect;2695.9(a)(2), when replaced items do
+        will not match, write: &ldquo;Per 10 CCR &sect; 2695.9(a)(2), when replaced items do
         not match the existing items in quality, color, or size, you are required to replace
         all items in the damaged area to conform to a reasonably uniform appearance. The
         proposed partial replacement of [describe] will not match the existing [describe] in
@@ -1231,7 +1231,7 @@ export default function Content() {
 
       {/* 2695.9(b)-(c) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.9(b)&ndash;(c) — Right to Choose Your Own Contractor
+        &sect; 2695.9(b)&ndash;(c) — Right to Choose Your Own Contractor
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p className="mb-2">
@@ -1256,7 +1256,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-3">
         <strong>Real-world example:</strong> Your insurer says: &ldquo;We have a preferred
         vendor network. We can only guarantee payment if you use one of our contractors.&rdquo;
-        This is a violation of &sect;2695.9(b). The insurer cannot require you to use a
+        This is a violation of &sect; 2695.9(b). The insurer cannot require you to use a
         specific contractor, and implying that payment depends on using their vendor is
         coercive. See our guides on{' '}
         <Link href="/resources/choosing-your-contractor" className="text-[#2E74B5] hover:underline">choosing your contractor</Link>{' '}
@@ -1265,14 +1265,14 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If the insurer pressures you to use their
-        contractor, write: &ldquo;Per 10 CCR &sect;2695.9(b), you may not require me to have
+        contractor, write: &ldquo;Per 10 CCR &sect; 2695.9(b), you may not require me to have
         my property repaired by a specific individual or entity. I will be selecting my own
         licensed contractor. Please process my claim accordingly.&rdquo;
       </p>
 
       {/* ───────── 2695.9(d) THE CONTRACTOR NAME REQUIREMENT ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        &sect;2695.9(d) — The Contractor Name Requirement: The Strongest Tool for Property
+        &sect; 2695.9(d) — The Contractor Name Requirement: The Strongest Tool for Property
         Policyholders
       </h2>
 
@@ -1317,7 +1317,7 @@ export default function Content() {
         Here is how it works in practice: The insurer&apos;s adjuster — or a contractor hired
         by the insurer — writes an estimate for $80,000 to repair your fire-damaged home. You
         look at that estimate and you know the work cannot be done for that amount. You send a
-        written demand: &ldquo;Per 10 CCR &sect;2695.9(d)(2), provide me with the name of a
+        written demand: &ldquo;Per 10 CCR &sect; 2695.9(d)(2), provide me with the name of a
         licensed contractor who will perform the repairs described in your estimate, to accepted
         trade standards for good and workmanlike construction, for $80,000.&rdquo;
       </p>
@@ -1360,7 +1360,7 @@ export default function Content() {
         </p>
         <ol className="list-decimal pl-4 space-y-1 text-sm">
           <li>
-            Cite <strong>10 CCR &sect;2695.9(d)(2)</strong> by number.
+            Cite <strong>10 CCR &sect; 2695.9(d)(2)</strong> by number.
           </li>
           <li>
             Reference the insurer&apos;s estimate by date and amount.
@@ -1379,14 +1379,14 @@ export default function Content() {
             additional cost to you beyond the deductible.
           </li>
           <li>
-            Request a response within 15 calendar days per &sect;2695.5(b).
+            Request a response within 15 calendar days per &sect; 2695.5(b).
           </li>
         </ol>
         <p className="mt-2 text-sm">
           You do not need to have your own competing estimate to make this demand. The
           insurer&apos;s own estimate is the trigger. If the insurer fails to respond within 15
           days, you now have two documented violations: the failure to comply with
-          &sect;2695.9(d)(2) and the failure to respond within 15 days under &sect;2695.5(b).
+          &sect; 2695.9(d)(2) and the failure to respond within 15 days under &sect; 2695.5(b).
           If they respond but cannot name a contractor, their estimate is rebutted on the
           merits. <strong>Either way, the demand letter advances your claim.</strong>
         </p>
@@ -1424,7 +1424,7 @@ export default function Content() {
 
       {/* 2695.9(e) */}
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        &sect;2695.9(e) — Appraisal Process Limitations
+        &sect; 2695.9(e) — Appraisal Process Limitations
       </h3>
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
         <p>
@@ -1436,7 +1436,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-3">
         <strong>Explanation:</strong> The{' '}
         <Link href="/resources/appraisal" className="text-[#2E74B5] hover:underline">appraisal process</Link>{' '}
-        follows Insurance Code &sect;2071 — nothing more, nothing less. The insurer cannot
+        follows Insurance Code &sect; 2071 — nothing more, nothing less. The insurer cannot
         inject additional procedures like demanding an{' '}
         <Link href="/resources/examination-under-oath" className="text-[#2E74B5] hover:underline">EUO</Link>{' '}
         as a prerequisite. You retain the right to pursue separate legal action on coverage
@@ -1444,7 +1444,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If the insurer attempts to delay or condition
-        appraisal on additional proceedings, write: &ldquo;Per 10 CCR &sect;2695.9(e), the
+        appraisal on additional proceedings, write: &ldquo;Per 10 CCR &sect; 2695.9(e), the
         appraisal process shall not include any legal proceeding or procedure not specified
         under Insurance Code Section 2071. Your requirement of [describe additional procedure]
         is not authorized under the appraisal provision. Please proceed with appraisal as
@@ -1453,7 +1453,7 @@ export default function Content() {
 
       {/* 2695.9(f) — LABOR DEPRECIATION */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        &sect;2695.9(f) — Depreciation Standards and the Labor Depreciation Prohibition
+        &sect; 2695.9(f) — Depreciation Standards and the Labor Depreciation Prohibition
       </h2>
 
       <div className="bg-gray-50 border-l-4 border-[#1F3964] p-4 mb-4 text-sm text-gray-700 leading-relaxed">
@@ -1499,7 +1499,7 @@ export default function Content() {
         ACV (actual cash value) payment depreciates the total by 25%, paying you $150,000 as
         the initial check. But buried in the depreciation calculation, the insurer applied
         25% depreciation to <em>everything</em> — including $80,000 in labor costs (demolition,
-        framing, roofing installation, painting, cleanup). Under &sect;2695.9(f)(1), the
+        framing, roofing installation, painting, cleanup). Under &sect; 2695.9(f)(1), the
         $80,000 in labor should not have been depreciated at all. The correct ACV depreciation
         should have been applied only to the $120,000 in materials, producing an ACV payment
         of $170,000 — a $20,000 difference.
@@ -1513,7 +1513,7 @@ export default function Content() {
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">How to Use This</h3>
       <p className="text-gray-700 leading-relaxed mb-6">
         Review the insurer&apos;s ACV estimate line by line. Identify every line item where
-        depreciation is applied to labor. Then write: &ldquo;Per 10 CCR &sect;2695.9(f)(1),
+        depreciation is applied to labor. Then write: &ldquo;Per 10 CCR &sect; 2695.9(f)(1),
         the expense of labor necessary to repair, rebuild or replace covered property is not a
         component of physical depreciation and shall not be subject to depreciation or
         betterment. Your ACV calculation applies depreciation to the following labor costs:
@@ -1527,7 +1527,7 @@ export default function Content() {
           separating labor. This is a violation, but the insurer will not correct it unless you
           challenge it. If you accept the ACV payment without reviewing the depreciation
           calculation, you leave money on the table. If you challenge it in writing citing
-          &sect;2695.9(f)(1), the insurer must either correct the calculation or explain in
+          &sect; 2695.9(f)(1), the insurer must either correct the calculation or explain in
           writing why they believe labor depreciation is appropriate — which they cannot do
           under this regulation.
         </p>
@@ -1576,11 +1576,11 @@ export default function Content() {
         Sections 2695.13–2695.14 — Severability and Compliance
       </h2>
       <p className="text-gray-700 leading-relaxed mb-3">
-        <strong>&sect;2695.13 (Severability):</strong> If one section is struck down, the rest
+        <strong>&sect; 2695.13 (Severability):</strong> If one section is struck down, the rest
         remain in force.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
-        <strong>&sect;2695.14 (Compliance Date):</strong> Insurers have 90 days to comply with
+        <strong>&sect; 2695.14 (Compliance Date):</strong> Insurers have 90 days to comply with
         amendments. The regulations apply to all claims handling after the compliance date —
         not just claims filed after that date. If you have an existing claim and the regulations
         are amended, your insurer must comply with the new requirements on your existing claim.
@@ -1643,7 +1643,7 @@ export default function Content() {
         <li>
           <strong>File CDI complaints when warranted.</strong> Cite specific regulation numbers,
           dates, and facts. A complaint that references &ldquo;violation of 10 CCR
-          &sect;2695.7(b) — failure to accept or deny within 40 days of proof of claim
+          &sect; 2695.7(b) — failure to accept or deny within 40 days of proof of claim
           submitted on [date]&rdquo; carries far more weight than &ldquo;my insurer is being
           unfair.&rdquo; See our guide on{' '}
           <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.

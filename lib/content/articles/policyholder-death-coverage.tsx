@@ -410,14 +410,14 @@ export default function Content() {
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
         For estates where the total value of the decedent&rsquo;s personal property does not
-        exceed the Probate Code &sect;13100 threshold, California allows a successor in interest
+        exceed the Probate Code &sect; 13100 threshold, California allows a successor in interest
         to collect estate assets &mdash; including insurance proceeds &mdash; by filing a small
         estate affidavit rather than opening a full probate proceeding. The threshold depends on
         the decedent&rsquo;s date of death (not the date the affidavit is executed):
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          For decedents dying on or after April 1, 2025, the &sect;13100 threshold is{' '}
+          For decedents dying on or after April 1, 2025, the &sect; 13100 threshold is{' '}
           <strong>$208,850</strong>.
         </li>
         <li>
@@ -426,19 +426,19 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The &sect;13100 threshold is adjusted triennially on April 1 under Probate Code
-        &sect;890; consult Judicial Council form DE-300 for the figure applicable to a specific
+        The &sect; 13100 threshold is adjusted triennially on April 1 under Probate Code
+        &sect; 890; consult Judicial Council form DE-300 for the figure applicable to a specific
         date of death. The small estate affidavit process can significantly speed up
         establishing authority to continue the claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The &sect;13100 procedure covers personal property only. Real property is handled
-        separately. Primary residences are now handled under Probate Code &sect;13151 (Petition
+        The &sect; 13100 procedure covers personal property only. Real property is handled
+        separately. Primary residences are now handled under Probate Code &sect; 13151 (Petition
         to Determine Succession to Primary Residence), with the threshold raised by AB 2016
         (effective 2025) to <strong>$750,000</strong>. Other small-value real property may use
-        the affidavit procedure under &sect;13200 (current threshold $69,625, effective April 1,
-        2025). Note that AB 2016&rsquo;s substantive change was specifically to &sect;13151
-        &mdash; the &sect;13100 personal-property threshold was updated on the regular triennial
+        the affidavit procedure under &sect; 13200 (current threshold $69,625, effective April 1,
+        2025). Note that AB 2016&rsquo;s substantive change was specifically to &sect; 13151
+        &mdash; the &sect; 13100 personal-property threshold was updated on the regular triennial
         CPI cycle, not by AB 2016.
       </p>
 

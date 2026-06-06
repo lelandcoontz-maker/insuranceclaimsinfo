@@ -109,7 +109,7 @@ export default function Content() {
         California Insurance Code Section 2051.5 governs the recovery of depreciation in replacement cost policies. The statute provides that insurers may not impose a deadline of less than twelve months from the date of the first ACV payment for the policyholder to complete repairs and claim the recoverable depreciation. This twelve-month minimum is a floor, not a ceiling &mdash; some policies may provide longer windows, but no California policy may provide a shorter one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For losses arising from a declared state of emergency, the timeline is extended. An insurer must grant an extension of up to twelve additional months &mdash; for a total of thirty-six months from the date of first ACV payment &mdash; if the policyholder, acting in good faith and with reasonable diligence, encounters delays in the reconstruction process due to circumstances beyond the policyholder&apos;s control. The statute specifically identifies unavoidable construction permit delays, lack of necessary construction materials, and lack of available contractors as qualifying circumstances (Cal. Ins. Code &sect;2051.5(b)(3)).
+        For losses arising from a declared state of emergency, the timeline is extended. An insurer must grant an extension of up to twelve additional months &mdash; for a total of thirty-six months from the date of first ACV payment &mdash; if the policyholder, acting in good faith and with reasonable diligence, encounters delays in the reconstruction process due to circumstances beyond the policyholder&apos;s control. The statute specifically identifies unavoidable construction permit delays, lack of necessary construction materials, and lack of available contractors as qualifying circumstances (Cal. Ins. Code &sect; 2051.5(b)(3)).
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -150,7 +150,7 @@ export default function Content() {
         Statute of Limitations: The Clock the Carrier Controls
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Every property insurance policy includes a suit limitation provision &mdash; a contractual deadline by which the policyholder must file a lawsuit against the carrier or lose the right to do so permanently. In California, the standard fire insurance policy form prescribed by California Insurance Code Section 2071 provides that no suit on the policy shall be sustainable unless commenced within twelve months after inception of the loss. For losses related to a declared state of emergency under Government Code &sect;8558(b), this period is extended to twenty-four months.
+        Every property insurance policy includes a suit limitation provision &mdash; a contractual deadline by which the policyholder must file a lawsuit against the carrier or lose the right to do so permanently. In California, the standard fire insurance policy form prescribed by California Insurance Code Section 2071 provides that no suit on the policy shall be sustainable unless commenced within twelve months after inception of the loss. For losses related to a declared state of emergency under Government Code &sect; 8558(b), this period is extended to twenty-four months.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -307,19 +307,19 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>15 calendar days</strong> to acknowledge receipt of a claim, begin investigation, and provide necessary forms and instructions (10 CCR &sect;2695.5(e)).
+          <strong>15 calendar days</strong> to acknowledge receipt of a claim, begin investigation, and provide necessary forms and instructions (10 CCR &sect; 2695.5(e)).
         </li>
         <li>
-          <strong>15 calendar days</strong> to respond to any communication from the policyholder that reasonably suggests a response is expected (10 CCR &sect;2695.5(b)).
+          <strong>15 calendar days</strong> to respond to any communication from the policyholder that reasonably suggests a response is expected (10 CCR &sect; 2695.5(b)).
         </li>
         <li>
-          <strong>40 calendar days</strong> from receipt of proof of claim to accept or deny the claim, in whole or in part (10 CCR &sect;2695.7(b)). The carrier may request one extension of up to thirty additional days, but only if the delay is due to circumstances beyond the carrier&apos;s control, and only if the carrier provides written notice explaining the reasons for the delay.
+          <strong>40 calendar days</strong> from receipt of proof of claim to accept or deny the claim, in whole or in part (10 CCR &sect; 2695.7(b)). The carrier may request one extension of up to thirty additional days, but only if the delay is due to circumstances beyond the carrier&apos;s control, and only if the carrier provides written notice explaining the reasons for the delay.
         </li>
         <li>
-          <strong>30 calendar days</strong> from acceptance of the claim (in whole or in part) to tender payment (10 CCR &sect;2695.7(b)).
+          <strong>30 calendar days</strong> from acceptance of the claim (in whole or in part) to tender payment (10 CCR &sect; 2695.7(b)).
         </li>
         <li>
-          <strong>Every 30 calendar days</strong>, the carrier must provide a written status update on any open claim (10 CCR &sect;2695.7(c)(1)).
+          <strong>Every 30 calendar days</strong>, the carrier must provide a written status update on any open claim (10 CCR &sect; 2695.7(c)(1)).
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -343,7 +343,7 @@ export default function Content() {
         The California Department of Insurance accepts complaints from policyholders regarding claims handling practices, including unreasonable delay. Filing a CDI complaint does not directly resolve the claim, but it creates a regulatory record, prompts the carrier to respond to the CDI, and can result in fines of up to $10,000 per violation. Perhaps more importantly, CDI complaints signal to the carrier that the policyholder is aware of their regulatory rights and is willing to escalate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Policyholders can file complaints online at <a href="https://www.insurance.ca.gov" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">insurance.ca.gov</a> or by calling the CDI consumer hotline at 1-800-927-HELP (4357). Complaints should be specific, referencing the applicable regulation (e.g., the 40-day acceptance/denial deadline under 10 CCR &sect;2695.7(b)) and documenting the carrier&apos;s failure to comply.
+        Policyholders can file complaints online at <a href="https://www.insurance.ca.gov" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">insurance.ca.gov</a> or by calling the CDI consumer hotline at 1-800-927-HELP (4357). Complaints should be specific, referencing the applicable regulation (e.g., the 40-day acceptance/denial deadline under 10 CCR &sect; 2695.7(b)) and documenting the carrier&apos;s failure to comply.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -471,16 +471,16 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>California Insurance Code &sect;2051.5</strong> &mdash; Recoverable depreciation timelines; twelve-month minimum from first ACV payment; thirty-six-month extension for declared emergencies.
+          <strong>California Insurance Code &sect; 2051.5</strong> &mdash; Recoverable depreciation timelines; twelve-month minimum from first ACV payment; thirty-six-month extension for declared emergencies.
         </li>
         <li>
-          <strong>California Insurance Code &sect;2071</strong> &mdash; Twelve-month suit limitation for fire insurance policies; twenty-four-month extension for declared states of emergency.
+          <strong>California Insurance Code &sect; 2071</strong> &mdash; Twelve-month suit limitation for fire insurance policies; twenty-four-month extension for declared states of emergency.
         </li>
         <li>
-          <strong>California Insurance Code &sect;10103.7</strong> &mdash; Combined dwelling/other-structures payments and contents pay-out without itemized inventory (no less than 60% of the contents policy limit) in state-of-emergency claims.
+          <strong>California Insurance Code &sect; 10103.7</strong> &mdash; Combined dwelling/other-structures payments and contents pay-out without itemized inventory (no less than 60% of the contents policy limit) in state-of-emergency claims.
         </li>
         <li>
-          <strong>10 CCR &sect;&sect;2695.1&ndash;2695.12</strong> &mdash; Fair Claims Settlement Practices Regulations; specific deadlines for acknowledgment (fifteen days), acceptance/denial (forty days), payment (thirty days), and status updates (every thirty days).
+          <strong>10 CCR &sect;&sect; 2695.1&ndash;2695.12</strong> &mdash; Fair Claims Settlement Practices Regulations; specific deadlines for acknowledgment (fifteen days), acceptance/denial (forty days), payment (thirty days), and status updates (every thirty days).
         </li>
         <li>
           <strong><em>Prudential-LMI Commercial Insurance v. Superior Court</em> (1990) 51 Cal.3d 674</strong> &mdash; Established equitable tolling of the suit limitation period from notice of loss to formal written denial.

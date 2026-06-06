@@ -182,7 +182,7 @@ export default function Content() {
       <CalloutBox variant="important" title="California&rsquo;s Efficient Proximate Cause Doctrine">
         <p>
           In California, the efficient proximate cause doctrine is established by statute
-          (Insurance Code &sect;530 and &sect;532) and case law. Anti-concurrent causation
+          (Insurance Code &sect; 530 and &sect; 532) and case law. Anti-concurrent causation
           clauses that attempt to override this doctrine are generally unenforceable in
           California. This means that if wind is the efficient proximate cause of a loss, the
           fact that flood also contributed does not automatically negate coverage. However,

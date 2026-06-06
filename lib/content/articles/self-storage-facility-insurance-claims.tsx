@@ -135,7 +135,7 @@ export default function Content() {
         Under California law, a contractual limitation of liability is generally enforceable
         when both parties freely agreed to it, the limitation was conspicuous, and the loss was
         not caused by the facility&rsquo;s <strong>gross negligence or willful
-        misconduct</strong>. California Civil Code &sect;1668 provides that contracts that
+        misconduct</strong>. California Civil Code &sect; 1668 provides that contracts that
         exempt a party from responsibility for fraud, willful injury, or violation of law
         are &ldquo;against the policy of the law.&rdquo;
       </p>
@@ -448,7 +448,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Self-storage facilities regularly deal with delinquent tenants who stop paying rent.
         Under the California Self-Service Storage Facility Act (Business &amp; Professions
-        Code &sect;&sect;21700&ndash;21716), a facility operator may sell the contents of a
+        Code &sect;&sect; 21700&ndash;21716), a facility operator may sell the contents of a
         delinquent unit at a public auction after providing proper notice and following
         specific statutory procedures. The Act requires at least 14 days&rsquo; written notice
         to the customer at their last known address before a lien sale can occur.

@@ -256,7 +256,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Federal Protections — and the Limits of California-Specific Law">
         <p>
           The strongest procedural protections for borrowers in force-placed insurance situations
-          come from federal law. <strong>12 CFR &sect;1024.37</strong> (Regulation X, implementing
+          come from federal law. <strong>12 CFR &sect; 1024.37</strong> (Regulation X, implementing
           RESPA as amended by the Dodd-Frank Act) requires mortgage servicers to send borrowers two
           written notices before force-placing insurance and to provide a reasonable opportunity to
           obtain replacement coverage. Once the borrower provides proof of acceptable coverage, the
@@ -270,7 +270,7 @@ export default function Content() {
         </p>
         <ul className="list-disc pl-6 mt-3 space-y-2">
           <li>
-            <strong>Federal RESPA / Regulation X (12 CFR &sect;1024.37, above)</strong> applies
+            <strong>Federal RESPA / Regulation X (12 CFR &sect; 1024.37, above)</strong> applies
             to most California residential mortgages because most are federally-related mortgage
             loans within RESPA&rsquo;s scope. This is the primary
             procedural framework &mdash; the two-notice requirement, the &ldquo;reasonable basis
@@ -279,7 +279,7 @@ export default function Content() {
             all come from federal law.
           </li>
           <li>
-            <strong>CDI rate regulation under Insurance Code &sect;1861 et seq. (Proposition
+            <strong>CDI rate regulation under Insurance Code &sect; 1861 et seq. (Proposition
             103).</strong> The California Department of Insurance has authority over rate
             filings by force-placed insurers. In 2012, then-Commissioner Dave Jones required the
             ten largest force-placed insurance providers in California to submit new rate filings
@@ -287,20 +287,20 @@ export default function Content() {
             now generally filed under Prop 103&rsquo;s prior-approval regime.
           </li>
           <li>
-            <strong>The Unfair Insurance Practices Act (Insurance Code &sect;790.03)</strong>
+            <strong>The Unfair Insurance Practices Act (Insurance Code &sect; 790.03)</strong>
             &mdash; particularly the unfair claim settlement practices and misrepresentation
             provisions &mdash; applies to market-conduct issues, including tying arrangements
             between mortgage servicers and affiliated insurers.
           </li>
           <li>
             <strong>Civil litigation theories.</strong> Business &amp; Professions Code
-            &sect;17200 (Unfair Competition Law), Civil Code &sect;1788 et seq. (Rosenthal Fair
+            &sect; 17200 (Unfair Competition Law), Civil Code &sect; 1788 et seq. (Rosenthal Fair
             Debt Collection Practices Act, where collection of force-placed premiums is
             challenged), and common-law breach of the implied covenant of good faith and fair
             dealing.
           </li>
           <li>
-            <strong>Civil Code &sect;2954.5.</strong> California has a separate notice requirement
+            <strong>Civil Code &sect; 2954.5.</strong> California has a separate notice requirement
             for changes in a mortgage payment amount that can apply when force-placed premiums
             are added to a borrower&rsquo;s payment &mdash; though it is not a force-placed-
             insurance-specific statute.
@@ -308,13 +308,13 @@ export default function Content() {
         </ul>
         <p className="mt-3">
           AB 1603 (Feuer, 2011&ndash;2012) would have added a dedicated California force-placed-
-          insurance procedural framework via Civil Code &sect;&sect;2946 et seq., but the bill
+          insurance procedural framework via Civil Code &sect;&sect; 2946 et seq., but the bill
           died in committee and those sections do not exist. The absence of a single integrated
           California statute does not mean force-placed insurance is unregulated in California
           &mdash; it means the regulatory framework is distributed across federal RESPA, CDI rate
           authority, the Unfair Practices Act, and civil-litigation theories. If your lender
           force-placed insurance without following the federal procedures, the federal-law
-          analysis under 12 CFR &sect;1024.37 is generally where to start, supplemented by the
+          analysis under 12 CFR &sect; 1024.37 is generally where to start, supplemented by the
           California-side authorities above.
         </p>
         <p className="mt-3">

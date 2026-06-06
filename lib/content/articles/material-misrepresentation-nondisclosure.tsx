@@ -179,13 +179,13 @@ export default function Content() {
         &ldquo;Materiality is to be determined not by the event, but solely by the probable and
         reasonable influence of the facts upon the party to whom the communication is due, in
         forming his estimate of the disadvantages of the proposed contract, or in making his
-        inquiries.&rdquo; The &sect;334 standard is forward-looking and recipient-oriented
+        inquiries.&rdquo; The &sect; 334 standard is forward-looking and recipient-oriented
         &mdash; it asks whether the undisclosed fact would have reasonably influenced the
         insurer&rsquo;s underwriting decision at the time the policy was being formed, not
         whether the omission turned out to matter to the eventual loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read together, &sect;&sect;332 and 334 create the &ldquo;increase the risk&rdquo;
+        Read together, &sect;&sect; 332 and 334 create the &ldquo;increase the risk&rdquo;
         framework: did the undisclosed fact actually increase the risk the insurer was assuming? If a policyholder failed to disclose a fact that had no bearing on
         the probability or severity of loss, the argument for rescission is significantly
         weakened.

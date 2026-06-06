@@ -569,7 +569,7 @@ export default function Content() {
         others&rsquo; data &mdash; including home-based business operators.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Civil Code &sect;1798.150 provides a private right of action for consumers
+        California Civil Code &sect; 1798.150 provides a private right of action for consumers
         whose nonencrypted or nonredacted personal information is stolen in a data breach
         resulting from a business&rsquo;s failure to implement reasonable security measures.
         Statutory damages range from $100 to $750 per consumer per incident. If you operate a
@@ -578,8 +578,8 @@ export default function Content() {
         homeowner policy due to the business pursuits exclusion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;790.03 and the California Fair Claims Settlement
-        Practices Regulations (10 CCR &sect;2695.1 et seq.) require insurers to fairly and
+        California Insurance Code &sect; 790.03 and the California Fair Claims Settlement
+        Practices Regulations (10 CCR &sect; 2695.1 et seq.) require insurers to fairly and
         promptly investigate all claims, including claims that implicate cyber risks. If you
         submit a claim for physical damage caused by a cyber event (such as a smart home
         hack that causes a fire), the insurer must investigate the claim rather than
@@ -588,7 +588,7 @@ export default function Content() {
         with the California Department of Insurance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Also, California&rsquo;s identity theft laws (Penal Code &sect;530.5 et seq.)
+        Also, California&rsquo;s identity theft laws (Penal Code &sect; 530.5 et seq.)
         provide criminal penalties for identity theft and establish procedures for victims to
         clear their records. While these laws do not create insurance coverage, they establish
         a legal framework that supports the recovery process &mdash; and the expenses incurred

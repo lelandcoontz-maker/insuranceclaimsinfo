@@ -181,7 +181,7 @@ export default function Content() {
         Contractor Licensing and Insurance Requirements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Business and Professions Code &sect;7125 requires licensed contractors to maintain workers&rsquo; compensation insurance (unless they have no employees and file an exemption). The CSLB tracks workers&rsquo; compensation status, and a contractor&rsquo;s license can be suspended if coverage lapses. This provides a level of verification for workers&rsquo; compensation that does not exist for other coverage types.
+        California Business and Professions Code &sect; 7125 requires licensed contractors to maintain workers&rsquo; compensation insurance (unless they have no employees and file an exemption). The CSLB tracks workers&rsquo; compensation status, and a contractor&rsquo;s license can be suspended if coverage lapses. This provides a level of verification for workers&rsquo; compensation that does not exist for other coverage types.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, California does not require contractors to carry general liability insurance. Many do, and many contracts require it, but there is no licensing requirement. A certificate showing general liability coverage for a contractor is not backed by the same regulatory framework that supports the workers&rsquo; compensation requirement.
@@ -199,10 +199,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California Insurance Code &sect;384
+        California Insurance Code &sect; 384
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;384 addresses certificates of insurance and provides that a certificate &ldquo;shall not be construed to amend, extend, or alter the terms of any insurance policy.&rdquo; This codifies what the ACORD disclaimer already says &mdash; the certificate is informational only. The statute reinforces that no party should rely on a certificate as a substitute for reviewing the actual policy and confirming endorsements.
+        California Insurance Code &sect; 384 addresses certificates of insurance and provides that a certificate &ldquo;shall not be construed to amend, extend, or alter the terms of any insurance policy.&rdquo; This codifies what the ACORD disclaimer already says &mdash; the certificate is informational only. The statute reinforces that no party should rely on a certificate as a substitute for reviewing the actual policy and confirming endorsements.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

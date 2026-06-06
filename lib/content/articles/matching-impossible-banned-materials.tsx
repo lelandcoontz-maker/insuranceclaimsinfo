@@ -42,7 +42,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s Fair Claims regulations require the insurer to restore your property to a
-        &ldquo;reasonable uniform appearance&rdquo; under 10 CCR &sect;2695.9(a)(2). When partial
+        &ldquo;reasonable uniform appearance&rdquo; under 10 CCR &sect; 2695.9(a)(2). When partial
         repair cannot achieve that appearance because the existing materials cannot be matched, the
         scope expands to include whatever additional work is necessary to create uniformity. The
         regulation does not say &ldquo;get as close as you can and walk away.&rdquo;
@@ -78,7 +78,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>VOC-exceeding stains and finishes</strong> &mdash; California Air Resources Board
-          regulations (17 CCR &sect;94500 et seq.) limit volatile organic compounds in architectural
+          regulations (17 CCR &sect; 94500 et seq.) limit volatile organic compounds in architectural
           coatings. Stains and lacquers commonly used on pre-1990s woodwork exceeded current limits.
           The original finish cannot be legally replicated.
         </li>
@@ -279,7 +279,7 @@ export default function Content() {
           that prohibits its use. The carrier cannot legally instruct you to violate the law.
         </li>
         <li>
-          <strong>Cite the matching regulation.</strong> Reference 10 CCR &sect;2695.9(a)(2) and the
+          <strong>Cite the matching regulation.</strong> Reference 10 CCR &sect; 2695.9(a)(2) and the
           requirement for &ldquo;reasonable uniform appearance.&rdquo; Frame your demand around the
           regulation, not around preference.
         </li>
@@ -305,7 +305,7 @@ export default function Content() {
         to its value before the loss, or (2) pay the difference between the actual cash value of
         the property before the loss and after the loss. When replacement of one component reduces
         the value of the whole, the policy itself recognizes the reduction-in-value problem. The
-        general fair-claims principle in 10 CCR &sect;2695.9(a)(2) reinforces this with the
+        general fair-claims principle in 10 CCR &sect; 2695.9(a)(2) reinforces this with the
         broader requirement of restoration to a reasonably uniform appearance. A home whose
         selling point was uniform custom woodwork loses value when one room has obviously
         different cabinets.

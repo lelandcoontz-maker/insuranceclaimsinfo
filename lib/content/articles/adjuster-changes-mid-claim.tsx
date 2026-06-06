@@ -589,7 +589,7 @@ export default function Content() {
         Hold the Carrier to Regulatory Deadlines
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        10 CCR &sect;2695.7(b) requires the carrier to accept or deny a claim,
+        10 CCR &sect; 2695.7(b) requires the carrier to accept or deny a claim,
         in whole or in part, within 40 calendar days after receiving proof of claim. This deadline
         belongs to the carrier, not to the individual adjuster, and it does not reset when the
         adjuster changes. If you submitted proof of claim to the first adjuster 30 days ago and the
@@ -598,7 +598,7 @@ export default function Content() {
         to meet this deadline, because adjuster reassignment is within the carrier&apos;s control.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Similarly, the 15-day deadline to respond to communications (&sect;2695.5(b)) continues to
+        Similarly, the 15-day deadline to respond to communications (&sect; 2695.5(b)) continues to
         run during the transition period. If you sent a letter to the prior adjuster that has gone
         unanswered, the carrier does not get a fresh 15-day clock because a new adjuster was
         assigned. Put the carrier on notice of these deadlines in writing. Reference the specific
@@ -647,7 +647,7 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (California Code of Regulations, Title 10, &sect;2695.1 et seq.) impose specific deadlines
+        (California Code of Regulations, Title 10, &sect; 2695.1 et seq.) impose specific deadlines
         on insurance companies that do not reset when an adjuster changes. These are obligations
         of the carrier, not of the individual adjuster, and the carrier cannot use internal
         staffing changes as an excuse for failing to meet them.
@@ -663,23 +663,23 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>15 calendar days</strong> to acknowledge receipt of a claim after notice is
-          provided (&sect;2695.5(e)).
+          provided (&sect; 2695.5(e)).
         </li>
         <li>
           <strong>15 calendar days</strong> to respond to any communication from the policyholder
-          that reasonably suggests a response is expected (&sect;2695.5(b)). If a new adjuster
+          that reasonably suggests a response is expected (&sect; 2695.5(b)). If a new adjuster
           takes three weeks to &quot;review the file&quot; before responding to a pending
           communication, the carrier has likely already violated this deadline.
         </li>
         <li>
           <strong>40 calendar days</strong> to accept or deny a claim, in whole or in part, after
-          receiving proof of claim (&sect;2695.7(b)). The carrier may request one 30-day extension
+          receiving proof of claim (&sect; 2695.7(b)). The carrier may request one 30-day extension
           if the delay is beyond its control and it provides a written explanation &mdash; but
           internal adjuster reassignment is within the carrier&apos;s control.
         </li>
         <li>
           <strong>30 calendar days</strong> to tender payment after accepting a claim, in whole
-          or in part (&sect;2695.7(h)).
+          or in part (&sect; 2695.7(h)).
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -692,11 +692,11 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California Insurance Code &sect;790.03(h)
+        California Insurance Code &sect; 790.03(h)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Beyond the Fair Claims Settlement Practices Regulations, California Insurance Code
-        &sect;790.03(h) identifies specific unfair claims settlement practices that are prohibited
+        &sect; 790.03(h) identifies specific unfair claims settlement practices that are prohibited
         when committed knowingly or with such frequency as to indicate a general business practice.
         Several of these prohibitions are directly relevant to adjuster reassignment patterns:
       </p>
@@ -722,7 +722,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When serial adjuster reassignment produces patterns that match these prohibited practices
         &mdash; delayed responses, shifting coverage positions, failure to settle claims where
-        liability is clear &mdash; the practice may constitute a violation of &sect;790.03(h)
+        liability is clear &mdash; the practice may constitute a violation of &sect; 790.03(h)
         independent of any violation of the Fair Claims Settlement Practices Regulations.
       </p>
 

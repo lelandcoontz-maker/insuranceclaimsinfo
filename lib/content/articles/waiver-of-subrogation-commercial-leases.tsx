@@ -212,7 +212,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California courts have consistently upheld waiver of subrogation clauses in commercial
         leases. Unlike some consumer contracts where exculpatory clauses may be
-        unenforceable under California Civil Code &sect;1668 (which voids contracts that exempt
+        unenforceable under California Civil Code &sect; 1668 (which voids contracts that exempt
         a party from liability for fraud, willful injury, or violation of law), commercial lease
         waivers of subrogation are generally treated as valid, negotiated agreements between
         sophisticated parties.
@@ -240,7 +240,7 @@ export default function Content() {
           party may still be liable. The specific language of the waiver controls.
         </li>
         <li>
-          <strong>Willful misconduct is an exception.</strong> Under Civil Code &sect;1668,
+          <strong>Willful misconduct is an exception.</strong> Under Civil Code &sect; 1668,
           a clause that purports to exempt a party from liability for willful misconduct,
           fraud, or intentional harm is void as against public policy. A waiver of subrogation
           covering only negligence-caused losses does not implicate this prohibition. But a

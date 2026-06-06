@@ -156,7 +156,7 @@ export default function Content() {
           <strong>More flexible loss-of-use coverage:</strong> CEA caps loss of use at $100,000. Private policies may offer higher limits and broader definitions of covered expenses.
         </li>
         <li>
-          <strong>Standard regulatory protections:</strong> Private earthquake policies are regulated under the California Insurance Code and the <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">Fair Claims Settlement Practices Regulations</Link> (10 CCR &sect;2695 et seq.), just like any other insurance product. CEA policies are also subject to fair claims practices, but the CEA operates under its own statutory framework (Insurance Code &sect;10089 et seq.) with its own claims manual and procedures.
+          <strong>Standard regulatory protections:</strong> Private earthquake policies are regulated under the California Insurance Code and the <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">Fair Claims Settlement Practices Regulations</Link> (10 CCR &sect; 2695 et seq.), just like any other insurance product. CEA policies are also subject to fair claims practices, but the CEA operates under its own statutory framework (Insurance Code &sect; 10089 et seq.) with its own claims manual and procedures.
         </li>
       </ul>
 
@@ -189,7 +189,7 @@ export default function Content() {
         Here is the scenario: an earthquake strikes, ruptures a gas line in your home, and the escaping gas ignites. The resulting fire destroys your home. You have a standard homeowner policy (which covers fire) but no earthquake policy (which would cover earthquake damage). Is the loss covered?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California law, the answer depends on which peril is the <em>efficient proximate cause</em> &mdash; the predominant cause that set the chain of events in motion. California Insurance Code &sect;&sect;530 and 532 establish that when a covered peril (fire) is the proximate cause of the loss, the insurer is liable regardless of whether an excluded peril (earthquake/earth movement) contributed to the chain. If the fire is what destroyed the home, fire is the cause that matters for coverage purposes.
+        Under California law, the answer depends on which peril is the <em>efficient proximate cause</em> &mdash; the predominant cause that set the chain of events in motion. California Insurance Code &sect;&sect; 530 and 532 establish that when a covered peril (fire) is the proximate cause of the loss, the insurer is liable regardless of whether an excluded peril (earthquake/earth movement) contributed to the chain. If the fire is what destroyed the home, fire is the cause that matters for coverage purposes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This means that even without earthquake insurance, fire damage caused by an earthquake-triggered gas line break may be covered by your standard homeowner policy. The key is which peril directly caused the destruction. The earthquake broke the pipe, but the fire burned the house.

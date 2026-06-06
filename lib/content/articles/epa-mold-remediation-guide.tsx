@@ -109,7 +109,7 @@ export default function Content() {
         remediation. If a carrier&apos;s proposed scope of work does not match the EPA&apos;s
         recommendations for the contamination level present, the insured has a strong basis to
         challenge the scope &mdash; especially when paired with California&apos;s claims-handling
-        duty under 10 CCR &sect;2695.7(d), which requires every insurer to conduct a
+        duty under 10 CCR &sect; 2695.7(d), which requires every insurer to conduct a
         &ldquo;thorough, fair and objective investigation.&rdquo; An investigation that ignores
         the widely-accepted federal guidance for the contamination level present may fall short
         of that regulatory standard.

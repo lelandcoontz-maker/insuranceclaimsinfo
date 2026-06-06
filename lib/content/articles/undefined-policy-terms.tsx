@@ -334,7 +334,7 @@ export default function Content() {
         basis, and the policyholder has no ability to negotiate the language.
       </p>
 
-      <CalloutBox variant="legal" title="California Insurance Code &sect;11580.2">
+      <CalloutBox variant="legal" title="California Insurance Code &sect; 11580.2">
         <p>
           California courts consistently apply the rule that insurance policies are interpreted
           broadly in favor of coverage and narrowly against exclusions. Ambiguous terms are

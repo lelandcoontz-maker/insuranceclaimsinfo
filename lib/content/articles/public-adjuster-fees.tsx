@@ -58,7 +58,7 @@ export default function Content() {
         California&rsquo;s Fee Framework — Statute vs. Custom
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;15027 is the primary statute governing the
+        California Insurance Code &sect; 15027 is the primary statute governing the
         Public Adjuster&ndash;insured engagement. It requires a written contract on a form
         approved by the Insurance Commissioner, disclosure of the PA&apos;s fee or other
         compensation, and restrictions on solicitation (including a prohibition on
@@ -67,8 +67,8 @@ export default function Content() {
         impose a numerical fee cap and does not contain a state-of-emergency 10% cap. The
         10% figure commonly seen on catastrophe-disaster contracts is industry contract
         practice, not statutory law. The fee percentage stated in the written contract
-        controls, subject to &sect;15027&apos;s disclosure and form requirements. A narrower
-        provision, &sect;15027.5, addresses compensation-related disclosures &mdash;
+        controls, subject to &sect; 15027&apos;s disclosure and form requirements. A narrower
+        provision, &sect; 15027.5, addresses compensation-related disclosures &mdash;
         including disclosure of any third-party compensation the PA receives in connection
         with the claim.
       </p>
@@ -82,7 +82,7 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="California Insurance Code §§15027 and 15027.5 — What They Actually Say">
         <p>
-          &sect;15027 is the primary written-contract and disclosure provision. It requires
+          &sect; 15027 is the primary written-contract and disclosure provision. It requires
           the PA to enter a written contract on a Commissioner-approved form before acting
           as a public adjuster in California, requires the contract to disclose the
           adjuster&apos;s full salary, fee, commission, or other valuable consideration, and
@@ -92,7 +92,7 @@ export default function Content() {
           contract specifies.
         </p>
         <p className="mt-2">
-          &sect;15027.5 is narrower &mdash; it addresses compensation-related disclosures,
+          &sect; 15027.5 is narrower &mdash; it addresses compensation-related disclosures,
           including disclosure to the insured of any third-party compensation the PA
           receives from a contractor, insurer, or vendor in connection with the claim.
           Verify the current text of either section at{' '}

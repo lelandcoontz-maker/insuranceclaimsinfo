@@ -290,7 +290,7 @@ export default function Content() {
         faith reliance on a power of attorney is not liable to the principal or any other party
         for so acting, provided the POA is presented by the named attorney-in-fact, appears valid
         on its face, and includes a notary&rsquo;s certificate of acknowledgment or two witness
-        signatures. The legislative point of &sect;4303 is to remove the third party&rsquo;s
+        signatures. The legislative point of &sect; 4303 is to remove the third party&rsquo;s
         liability risk &mdash; it encourages acceptance by protecting the insurer from being sued
         later if the POA turns out to have a defect the insurer could not reasonably have known
         about.
@@ -298,7 +298,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Section 4406</strong> is the <em>duty to accept</em>, and it is the provision with
         teeth. It applies specifically to <strong>statutory form</strong> powers of attorney
-        executed under Probate Code &sect;4401. Section 4406 provides that a third party
+        executed under Probate Code &sect; 4401. Section 4406 provides that a third party
         presented with a properly executed statutory form POA may be <strong>compelled by court
         order</strong> to honor the agent&rsquo;s authority, and &mdash; critically &mdash; the
         court <em>shall</em> award attorney&rsquo;s fees to the agent if it finds that the third
@@ -307,21 +307,21 @@ export default function Content() {
         where state or federal law authorizes the refusal.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a <em>custom (non-statutory) durable</em> POA, the &sect;4406 compulsion mechanism
+        For a <em>custom (non-statutory) durable</em> POA, the &sect; 4406 compulsion mechanism
         does not apply by its terms. The duty-to-accept analysis there rests on general agency
-        principles and the &sect;4303 safe harbor &mdash; meaning the practical leverage is
+        principles and the &sect; 4303 safe harbor &mdash; meaning the practical leverage is
         weaker. If the POA was drafted by the principal&rsquo;s attorney rather than using the
         statutory form, agents have fewer enforcement tools, and the carrier&rsquo;s incentive to
-        accept rests primarily on the &sect;4303 safe harbor encouraging cooperation.
+        accept rests primarily on the &sect; 4303 safe harbor encouraging cooperation.
       </p>
 
       <CalloutBox variant="legal" title="Check Whether You Have a Statutory Form POA">
         <p>
           If your power of attorney was drafted using the California statutory form (Probate Code
-          &sect;4401), &sect;4406 gives you the right to petition the court to compel acceptance
+          &sect; 4401), &sect; 4406 gives you the right to petition the court to compel acceptance
           and obtain attorney&rsquo;s fees against an unreasonably-refusing third party. If you
-          have a custom-drafted durable POA, the &sect;4303 safe harbor still encourages
-          acceptance, but the &sect;4406 attorney&rsquo;s-fees remedy may not be available by
+          have a custom-drafted durable POA, the &sect; 4303 safe harbor still encourages
+          acceptance, but the &sect; 4406 attorney&rsquo;s-fees remedy may not be available by
           its terms. Either way, when an insurer refuses to deal with your POA agent, document
           the refusal in writing and consult counsel &mdash; the right enforcement tool depends
           on which kind of POA the principal executed.

@@ -63,7 +63,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer&apos;s right to demand an EUO comes from the insurance policy itself.
-        California Insurance Code &sect;2071 sets forth the standard fire policy, which includes
+        California Insurance Code &sect; 2071 sets forth the standard fire policy, which includes
         the condition that the insured &ldquo;shall submit to examinations under oath by any
         person named by this Company.&rdquo; This language has been part of California&apos;s
         standard fire policy for over a century, and virtually every homeowner&apos;s policy
@@ -84,7 +84,7 @@ export default function Content() {
         However, the insurer&apos;s right to demand an EUO is not unlimited. The demand must be
         reasonable in scope, timing, and purpose. An insurer cannot use an EUO as a weapon to
         harass the policyholder, create a pretext for denial, or indefinitely delay the claim.
-        California&apos;s Fair Claims Settlement Practices regulations (10 CCR &sect;2695.7(b))
+        California&apos;s Fair Claims Settlement Practices regulations (10 CCR &sect; 2695.7(b))
         require the insurer to accept or deny a claim within 40 days of receiving proof of claim.
         An EUO demand does not automatically suspend this obligation &mdash; the insurer must
         still act with reasonable diligence.
@@ -129,8 +129,8 @@ export default function Content() {
             </tr>
             <tr className="bg-white">
               <td className="border border-gray-300 px-4 py-2 font-semibold">Legal authority</td>
-              <td className="border border-gray-300 px-4 py-2">Policy contract (&sect;2071)</td>
-              <td className="border border-gray-300 px-4 py-2">Code of Civil Procedure &sect;&sect;2025.010&ndash;2025.620</td>
+              <td className="border border-gray-300 px-4 py-2">Policy contract (&sect; 2071)</td>
+              <td className="border border-gray-300 px-4 py-2">Code of Civil Procedure &sect;&sect; 2025.010&ndash;2025.620</td>
             </tr>
             <tr className="bg-gray-50">
               <td className="border border-gray-300 px-4 py-2 font-semibold">Consequence of refusal</td>

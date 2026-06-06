@@ -172,13 +172,13 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California law imposes specific obligations on landlords regarding habitability. Under
-        California Civil Code &sect;1941, landlords are required to maintain rental properties
+        California Civil Code &sect; 1941, landlords are required to maintain rental properties
         in a condition fit for human habitation. A bedbug infestation that renders a rental
         unit uninhabitable or substantially impairs the tenant&rsquo;s use and enjoyment of
         the premises can constitute a breach of the implied warranty of habitability.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Civil Code &sect;1942.5 prohibits landlords from retaliating against
+        California Civil Code &sect; 1942.5 prohibits landlords from retaliating against
         tenants who report habitability issues, including pest infestations. A landlord who
         refuses to address a bedbug infestation, or who attempts to evict a tenant for
         reporting one, may face liability for breach of the warranty of habitability,

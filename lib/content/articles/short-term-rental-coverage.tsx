@@ -133,7 +133,7 @@ export default function Content() {
           or landlord policy. It is a platform guarantee with its own terms, exclusions, and
           claims process. You have no contractual right to challenge Airbnb&rsquo;s coverage
           decisions the way you can challenge your insurance carrier under California Insurance
-          Code &sect;790.03 (Unfair Claims Settlement Practices Act).
+          Code &sect; 790.03 (Unfair Claims Settlement Practices Act).
         </p>
       </CalloutBox>
 
@@ -343,7 +343,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some STR hosts require guests to sign liability waivers. In California, these have
-        limited effectiveness. Civil Code &sect;1668 voids contracts that exempt a party from
+        limited effectiveness. Civil Code &sect; 1668 voids contracts that exempt a party from
         responsibility for fraud, willful injury, or violation of law. Courts have extended
         this principle to invalidate residential liability waivers, particularly where there is
         unequal bargaining power &mdash; and a guest presented with a waiver at check-in is not

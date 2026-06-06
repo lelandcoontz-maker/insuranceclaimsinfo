@@ -182,7 +182,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Punitive damages are available where the insurer&rsquo;s conduct meets the standards
-        in California Civil Code &sect;3294. Section 3294(c) provides the statutory definitions:
+        in California Civil Code &sect; 3294. Section 3294(c) provides the statutory definitions:
       </p>
 
       <CalloutBox variant="legal" title="Cal. Civ. Code § 3294(c) — Definitions">
@@ -205,7 +205,7 @@ export default function Content() {
 
       <CalloutBox variant="info" title="In plain language">
         <p>
-          Many plaintiff attorneys read &sect;3294(c) as requiring more than a careless or
+          Many plaintiff attorneys read &sect; 3294(c) as requiring more than a careless or
           mistaken denial. The conduct generally must rise to &ldquo;despicable&rdquo; behavior
           carried out with intent or with conscious disregard for the insured&apos;s rights.
           Whether specific insurer conduct meets this standard is a fact-intensive legal
@@ -280,22 +280,22 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Civil Code &sect;3287(a)</strong> &mdash; interest as a matter of right on
+          <strong>Civil Code &sect; 3287(a)</strong> &mdash; interest as a matter of right on
           damages that are &ldquo;certain, or capable of being made certain by calculation.&rdquo;
           Unpaid policy benefits typically qualify.
         </li>
         <li>
-          <strong>Civil Code &sect;3288</strong> &mdash; discretionary interest on uncertain
+          <strong>Civil Code &sect; 3288</strong> &mdash; discretionary interest on uncertain
           damages such as emotional distress in tort actions.
         </li>
         <li>
-          <strong>Civil Code &sect;3289(b)</strong> &mdash; the 10% per annum rate for breach of
+          <strong>Civil Code &sect; 3289(b)</strong> &mdash; the 10% per annum rate for breach of
           contract where the contract does not stipulate a rate.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Which rate applies depends on the legal theory. Many plaintiff attorneys argue 10% per
-        annum applies to the contract-component damages under &sect;3289(b); the general 7%
+        annum applies to the contract-component damages under &sect; 3289(b); the general 7%
         legal rate under California Constitution Article XV, Section 1 applies to other
         categories. Whether and at what rate prejudgment interest applies in a specific case
         is a legal question for an attorney. On a claim wrongfully withheld for years,
@@ -312,7 +312,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>&sect;15610.30 (definition).</strong> Defines &ldquo;financial abuse&rdquo; of
+          <strong>&sect; 15610.30 (definition).</strong> Defines &ldquo;financial abuse&rdquo; of
           an elder or dependent adult &mdash; conduct that takes, secretes, appropriates,
           obtains, or retains real or personal property of the elder for a wrongful use, with
           intent to defraud, or by undue influence. Many plaintiff attorneys argue that an
@@ -320,20 +320,20 @@ export default function Content() {
           within this definition.
         </li>
         <li>
-          <strong>&sect;15657.5 (financial-abuse remedies).</strong> Where financial abuse is
+          <strong>&sect; 15657.5 (financial-abuse remedies).</strong> Where financial abuse is
           proven by clear and convincing evidence and the defendant acted with recklessness,
           oppression, fraud, or malice, the court shall award reasonable attorney&rsquo;s fees
           and costs &mdash; potentially covering the full cost of litigation, not just fees
           attributable to recovering policy benefits.
         </li>
         <li>
-          <strong>&sect;15657 (physical-abuse / neglect remedies).</strong> Where physical abuse
+          <strong>&sect; 15657 (physical-abuse / neglect remedies).</strong> Where physical abuse
           or neglect is proven by the same standard, the court may award attorney&rsquo;s fees,
           and certain limitations on pre-death pain-and-suffering damages are lifted.
         </li>
         <li>
           <strong>Survival actions.</strong> If the elder dies during the claim, the cause of
-          action survives under Code Civ. Proc. &sect;377.34 (subject to its limits) and can be
+          action survives under Code Civ. Proc. &sect; 377.34 (subject to its limits) and can be
           pursued by the estate. The interplay between elder-abuse remedies and survival-action
           limits is a legal question for an attorney.
         </li>
@@ -413,11 +413,11 @@ export default function Content() {
           </li>
           <li>
             <strong>Punitive damages:</strong> Available for oppressive, fraudulent, or
-            malicious conduct (Civil Code &sect;3294); no statutory cap
+            malicious conduct (Civil Code &sect; 3294); no statutory cap
           </li>
           <li>
             <strong>Prejudgment interest:</strong> Up to 10% per year on contract-component
-            damages under Civ. Code &sect;3289(b); 7% on other categories where available
+            damages under Civ. Code &sect; 3289(b); 7% on other categories where available
           </li>
           <li>
             <strong>Elder abuse enhancements:</strong> Broader attorney&rsquo;s fees, survival
@@ -505,7 +505,7 @@ export default function Content() {
         <li>
           Learn about{' '}
           <Link href="/resources/insurance-code-790" className="text-blue-700 underline hover:text-blue-900">
-            Insurance Code &sect;790.03
+            Insurance Code &sect; 790.03
           </Link>{' '}
           and the statutory violations that may support your case.
         </li>

@@ -168,7 +168,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Punitive damages</strong> &mdash; available under Civil Code &sect;3294 when
+          <strong>Punitive damages</strong> &mdash; available under Civil Code &sect; 3294 when
           the insurer&rsquo;s conduct amounts to malice, oppression, or fraud. Punitive damages
           are designed to punish egregious conduct and deter similar behavior. They are not
           available for breach of contract alone &mdash; they require a tort theory like bad faith.
@@ -268,8 +268,8 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, breach of contract claims carry a <strong>four-year</strong> statute of
-        limitations (Code of Civil Procedure &sect;337). Bad faith tort claims carry a{' '}
-        <strong>two-year</strong> statute (Code of Civil Procedure &sect;339). This means a
+        limitations (Code of Civil Procedure &sect; 337). Bad faith tort claims carry a{' '}
+        <strong>two-year</strong> statute (Code of Civil Procedure &sect; 339). This means a
         policyholder who waits too long may lose the ability to bring the bad faith tort
         claim &mdash; and with it, the right to seek punitive damages and Brandt fees &mdash;
         while the breach of contract claim (and its extra-contractual damages) may still be viable.
@@ -291,7 +291,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the most consequential practical difference. Punitive damages under Civil
-        Code &sect;3294 require a finding of malice, oppression, or fraud. They are only available
+        Code &sect; 3294 require a finding of malice, oppression, or fraud. They are only available
         in tort actions &mdash; not in breach of contract. If the bad faith tort claim fails or
         is time-barred, punitive damages are off the table entirely, regardless of how much
         extra-contractual damage the policyholder suffered.
@@ -442,7 +442,7 @@ export default function Content() {
               <td className="border border-gray-300 px-4 py-2 font-semibold">Punitive damages</td>
               <td className="border border-gray-300 px-4 py-2">No</td>
               <td className="border border-gray-300 px-4 py-2">
-                Yes (Civ. Code &sect;3294)
+                Yes (Civ. Code &sect; 3294)
               </td>
             </tr>
             <tr>

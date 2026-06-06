@@ -310,9 +310,9 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California&rsquo;s Fair Claims Settlement Practices regulations, you have the right
-        to know how your claim was calculated. Under 10 CCR &sect;2695.9(d), if losses are
+        to know how your claim was calculated. Under 10 CCR &sect; 2695.9(d), if losses are
         settled on the basis of a written scope and/or estimate prepared by or for the insurer,
-        the insurer must supply the claimant with a copy. Under &sect;2695.7(b)(1), when a claim
+        the insurer must supply the claimant with a copy. Under &sect; 2695.7(b)(1), when a claim
         is denied in whole or in part, the carrier must provide a written explanation listing all
         bases for the denial with the factual and legal basis for each reason.
       </p>
@@ -322,7 +322,7 @@ export default function Content() {
         are entitled to this document.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Also, under 10 CCR &sect;2695.4(a), the carrier must affirmatively disclose all
+        Also, under 10 CCR &sect; 2695.4(a), the carrier must affirmatively disclose all
         benefits, coverage, time limits, and other provisions that may apply to the claim. If the
         carrier is relying on an internal statement of loss to calculate your payments but has not
         shared it with you, that is a problem under California law.

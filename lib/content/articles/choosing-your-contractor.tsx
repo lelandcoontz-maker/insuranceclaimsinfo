@@ -32,7 +32,7 @@ export default function Content() {
         Your Right to Choose
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect;758.5, if the insurer refers you to a
+        Under California Insurance Code &sect; 758.5, if the insurer refers you to a
         contractor, they must provide a written disclosure that you are not required to
         use that contractor. The law is clear: you choose who repairs your home. The
         insurance company cannot:

@@ -54,17 +54,17 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Home Improvement Contract: Business &amp; Professions Code &sect;7159
+        The Home Improvement Contract: Business &amp; Professions Code &sect; 7159
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Business &amp; Professions Code &sect;7159 is the central statute governing residential
+        Business &amp; Professions Code &sect; 7159 is the central statute governing residential
         construction contracts in California. It applies to any &ldquo;home improvement
         contract&rdquo; &mdash; meaning a contract between a contractor and a homeowner (or
         tenant) for work on residential property where the aggregate contract price exceeds
         $500. This includes virtually all insurance repair work on homes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The requirements under &sect;7159 are not suggestions. They are mandatory. A contractor
+        The requirements under &sect; 7159 are not suggestions. They are mandatory. A contractor
         who fails to comply with these requirements faces potential discipline from the
         Contractors State License Board (CSLB), and more importantly, may not be able to
         enforce the contract against the homeowner. That enforceability issue is what makes
@@ -85,14 +85,14 @@ export default function Content() {
         The written contract must be legible, in a minimum 10-point type, and must be presented
         to the homeowner in a language in which the contractor negotiated the contract. If the
         contract was negotiated in Spanish, for example, the written contract must be provided
-        in Spanish (Civil Code &sect;1632).
+        in Spanish (Civil Code &sect; 1632).
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Required Contract Contents
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A compliant home improvement contract under B&amp;P Code &sect;7159 must include all of
+        A compliant home improvement contract under B&amp;P Code &sect; 7159 must include all of
         the following:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
@@ -100,7 +100,7 @@ export default function Content() {
           <strong>Contract price stated in dollars and cents.</strong> The total price of the
           project must be clearly stated. &ldquo;Time and materials&rdquo; contracts are
           permitted only under limited circumstances and have their own requirements under
-          &sect;7159(d)(5).
+          &sect; 7159(d)(5).
         </li>
         <li>
           <strong>Contractor&apos;s name, address, and license number.</strong> The contract must
@@ -144,7 +144,7 @@ export default function Content() {
       <CalloutBox variant="warning" title="Non-Compliant Contracts May Be Unenforceable">
         <p>
           If a contractor&apos;s contract does not substantially comply with B&amp;P Code
-          &sect;7159, the contractor may not be able to enforce it in court. This means that if a
+          &sect; 7159, the contractor may not be able to enforce it in court. This means that if a
           dispute arises over payment, scope, or quality of work, the contractor may be unable to
           sue the homeowner for payment or to enforce any arbitration clause. For insurance claims,
           this cuts both ways &mdash; it protects you from a bad contractor, but it can also create
@@ -157,7 +157,7 @@ export default function Content() {
         The Three-Day Right of Rescission
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under B&amp;P Code &sect;7159(e), the homeowner has three business days after signing a
+        Under B&amp;P Code &sect; 7159(e), the homeowner has three business days after signing a
         home improvement contract to cancel it without penalty. This right cannot be waived by
         the homeowner. The contractor must provide a &ldquo;Notice of the Three-Day Right to
         Cancel&rdquo; as a separate, easily detachable form that is part of the contract.
@@ -203,7 +203,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California law strictly limits how much a contractor can collect as a down payment
-        before work begins. Under B&amp;P Code &sect;7159.5, the maximum down payment a
+        before work begins. Under B&amp;P Code &sect; 7159.5, the maximum down payment a
         contractor may request or accept is the lesser of $1,000 or 10% of the contract price.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -251,7 +251,7 @@ export default function Content() {
         California law requires that any person who solicits, sells, negotiates, or executes
         contracts for home improvement on behalf of a contractor must be registered with the
         CSLB as a Home Improvement Salesperson (HIS). This requirement is found in B&amp;P
-        Code &sect;7152.
+        Code &sect; 7152.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The HIS registration is relevant to insurance claims because after a disaster, many
@@ -286,8 +286,8 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Not all work on a residential property is a &ldquo;home improvement.&rdquo; California
-        law distinguishes between a home improvement contract (governed by &sect;7159) and a
-        service and repair contract (governed by &sect;7159.14). The distinction matters because
+        law distinguishes between a home improvement contract (governed by &sect; 7159) and a
+        service and repair contract (governed by &sect; 7159.14). The distinction matters because
         service and repair contracts have somewhat less onerous requirements.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -309,7 +309,7 @@ export default function Content() {
         For most insurance repair work, the contract price will far exceed $750, and the work
         will involve improvement or restoration of the home rather than simple maintenance.
         This means that in most insurance claim situations, the full
-        requirements of &sect;7159 apply, not the lighter requirements of &sect;7159.14.
+        requirements of &sect; 7159 apply, not the lighter requirements of &sect; 7159.14.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, some small repairs &mdash; such as a plumber fixing a single leaking pipe, or
@@ -328,7 +328,7 @@ export default function Content() {
         days to begin work could cause further loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        B&amp;P Code &sect;7159.14 provides a limited exception for emergency work. Under this
+        B&amp;P Code &sect; 7159.14 provides a limited exception for emergency work. Under this
         exception:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -355,7 +355,7 @@ export default function Content() {
         board-up, tarping, or debris removal to prevent further damage. Those emergency
         measures can proceed without the full contract formalities. But once the emergency is
         stabilized, the permanent reconstruction contract must comply with all requirements of
-        &sect;7159 &mdash; including the three-day rescission right.
+        &sect; 7159 &mdash; including the three-day rescission right.
       </p>
 
       <CalloutBox variant="tip" title="Separate Emergency and Permanent Repair Contracts">
@@ -363,7 +363,7 @@ export default function Content() {
           Best practice after a disaster: have one contract for emergency mitigation work
           (board-up, tarping, debris removal, water extraction) and a separate contract for the
           permanent repair work. The emergency contract can proceed immediately. The permanent
-          repair contract should comply with all &sect;7159 requirements, including the three-day
+          repair contract should comply with all &sect; 7159 requirements, including the three-day
           right to cancel. This separation also aligns with how insurance companies typically
           handle claims &mdash; emergency mitigation and permanent repairs are often treated as
           separate line items or even separate claim payments.
@@ -408,9 +408,9 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Commercial construction contracts are not required to follow the rigid format of
-        &sect;7159. While they still must be in writing for amounts exceeding $500 (Civil Code
-        &sect;1624, the Statute of Frauds), the specific disclosure requirements, notice
-        provisions, and formatting rules of &sect;7159 do not apply. Commercial parties are
+        &sect; 7159. While they still must be in writing for amounts exceeding $500 (Civil Code
+        &sect; 1624, the Statute of Frauds), the specific disclosure requirements, notice
+        provisions, and formatting rules of &sect; 7159 do not apply. Commercial parties are
         expected to negotiate contract terms appropriate to their circumstances.
       </p>
 
@@ -425,7 +425,7 @@ export default function Content() {
         who bears the risk if something goes wrong during repairs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Civil Code &sect;2782 places some limits on indemnification in construction
+        California Civil Code &sect; 2782 places some limits on indemnification in construction
         contracts &mdash; a contractor cannot be required to indemnify the property owner for
         the owner&apos;s own active negligence. But beyond that statutory floor, indemnification
         terms in commercial contracts are largely negotiable.
@@ -472,7 +472,7 @@ export default function Content() {
         California requires that any person or entity performing construction work valued at
         $500 or more in combined labor and materials must hold a valid contractor&apos;s
         license issued by the Contractors State License Board (CSLB). This requirement is found
-        in B&amp;P Code &sect;7028.
+        in B&amp;P Code &sect; 7028.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The licensing requirement is absolute. There is no exception for insurance work, no
@@ -482,19 +482,19 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>No right to sue for payment.</strong> Under B&amp;P Code &sect;7031, an
+          <strong>No right to sue for payment.</strong> Under B&amp;P Code &sect; 7031, an
           unlicensed contractor cannot bring an action to collect compensation for any work
           requiring a license. The contract is void as against public policy.
         </li>
         <li>
-          <strong>Disgorgement.</strong> Under &sect;7031(b), the person who paid an unlicensed
+          <strong>Disgorgement.</strong> Under &sect; 7031(b), the person who paid an unlicensed
           contractor may recover all compensation paid, regardless of whether the work was
           satisfactory. This is a complete disgorgement &mdash; the unlicensed contractor must
           return everything.
         </li>
         <li>
           <strong>Criminal penalties.</strong> Performing work without a license is a
-          misdemeanor under B&amp;P Code &sect;7028, punishable by fine and/or imprisonment.
+          misdemeanor under B&amp;P Code &sect; 7028, punishable by fine and/or imprisonment.
         </li>
         <li>
           <strong>No insurance coverage implications.</strong> If an unlicensed contractor
@@ -576,13 +576,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, you have the absolute right to choose your own contractor for insurance
         repairs. The insurance company cannot require you to use their preferred vendor or
-        managed repair network. California Insurance Code &sect;2071 and California Code of
-        Regulations, Title 10, &sect;2695.9(d) make clear that the insurer cannot condition
+        managed repair network. California Insurance Code &sect; 2071 and California Code of
+        Regulations, Title 10, &sect; 2695.9(d) make clear that the insurer cannot condition
         payment on the policyholder&apos;s use of a particular contractor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, the insurer can dispute the reasonableness of your contractor&apos;s pricing.
-        This is where having a compliant contract under &sect;7159 becomes strategically
+        This is where having a compliant contract under &sect; 7159 becomes strategically
         important &mdash; a fully compliant contract from a properly licensed contractor is
         much harder for the insurer to dismiss than a handshake deal or a one-page estimate
         that lacks required disclosures.
@@ -599,7 +599,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is a tactic some insurance adjusters use: if your contractor provides a contract
-        or estimate that does not comply with &sect;7159, the adjuster may argue that the
+        or estimate that does not comply with &sect; 7159, the adjuster may argue that the
         contractor is &ldquo;not legitimate,&rdquo; that the pricing is unreliable, or that the
         contract cannot be used as evidence of repair costs. While this argument has limited
         legal merit (the insurer owes for reasonable repair costs regardless of contract
@@ -607,7 +607,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The best defense is to ensure your contractor provides a fully compliant contract from
-        the beginning. A detailed, &sect;7159-compliant contract with itemized pricing,
+        the beginning. A detailed, &sect; 7159-compliant contract with itemized pricing,
         proper disclosures, and all required elements is much harder for an insurer to
         challenge than a one-page bid with a lump-sum price.
       </p>
@@ -663,18 +663,18 @@ export default function Content() {
         failed to pay their subcontractors.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Civil Code &sect;8400 et seq. governs mechanics liens. Key points for
+        California Civil Code &sect; 8400 et seq. governs mechanics liens. Key points for
         insurance claims:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           Subcontractors and suppliers must serve a &ldquo;preliminary notice&rdquo; within 20
           days of first furnishing labor or materials to preserve their lien rights (Civil Code
-          &sect;8200)
+          &sect; 8200)
         </li>
         <li>
           A mechanics lien must be recorded within 90 days of completion of the work (Civil
-          Code &sect;8412)
+          Code &sect; 8412)
         </li>
         <li>
           The property owner can protect themselves by requiring lien releases from all
@@ -887,7 +887,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Price gouging laws.</strong> California Penal Code &sect;396 prohibits
+          <strong>Price gouging laws.</strong> California Penal Code &sect; 396 prohibits
           contractors from charging more than 10% above the pre-disaster price for repair
           services. This applies for 30 days after the disaster declaration (and can be
           extended by proclamation).
@@ -908,7 +908,7 @@ export default function Content() {
           deadlines.
         </li>
         <li>
-          <strong>Insurance company obligations.</strong> California Insurance Code &sect;790.03
+          <strong>Insurance company obligations.</strong> California Insurance Code &sect; 790.03
           and the Fair Claims Settlement Practices Regulations impose additional obligations on
           insurers after declared disasters, including accelerated claim handling timelines and
           advance payments.

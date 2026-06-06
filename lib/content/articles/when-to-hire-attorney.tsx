@@ -47,7 +47,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A <strong>Public Adjuster</strong> is licensed by the California Department of Insurance
-        under California Insurance Code &sect;15007 et seq. to represent the insured in the
+        under California Insurance Code &sect; 15007 et seq. to represent the insured in the
         adjustment of first-party insurance claims. The PA&rsquo;s job is to document your loss,
         prepare the claim, negotiate with the carrier, and obtain the maximum recovery under the
         policy contract. A Public Adjuster cannot practice law, cannot file lawsuits, cannot
@@ -157,7 +157,7 @@ export default function Content() {
         <li>
           <strong>The statute of limitations is approaching</strong> and the claim is not
           resolved. California&rsquo;s standard fire policy includes a one-year suit limitation
-          period from the date of loss (Insurance Code &sect;2071), which may be subject to{' '}
+          period from the date of loss (Insurance Code &sect; 2071), which may be subject to{' '}
           <Link href="/resources/equitable-tolling" className="text-blue-700 underline hover:text-blue-900">
             equitable tolling
           </Link>{' '}
@@ -315,7 +315,7 @@ export default function Content() {
           <strong>File a lawsuit.</strong> Only an attorney can initiate litigation against the
           carrier. Under California law, a non-attorney who files legal claims on behalf of
           another person is engaging in the unauthorized practice of law (Business &amp;
-          Professions Code &sect;6125).
+          Professions Code &sect; 6125).
         </li>
         <li>
           <strong>Provide legal advice.</strong> An attorney can advise you on whether your
@@ -334,7 +334,7 @@ export default function Content() {
             elder abuse enhancements
           </Link>{' '}
           under the Elder Abuse and Dependent Adult Civil Protection Act (Welfare &amp;
-          Institutions Code &sect;15600 et seq.) are legal remedies only available through
+          Institutions Code &sect; 15600 et seq.) are legal remedies only available through
           litigation.
         </li>
         <li>
@@ -397,7 +397,7 @@ export default function Content() {
           <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
             Fair Claims Settlement Practices Regulations
           </Link>{' '}
-          (10 CCR &sect;2695 et seq.).
+          (10 CCR &sect; 2695 et seq.).
         </li>
       </ul>
 
@@ -410,7 +410,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Public Adjusters work on contingency &mdash; a percentage of the insurance recovery,
-        typically 10&ndash;15% in California. California Insurance Code &sect;15027.5 governs
+        typically 10&ndash;15% in California. California Insurance Code &sect; 15027.5 governs
         the agency relationship between the PA and the insured and requires disclosure of any
         third-party compensation the PA receives in connection with the claim; it does{' '}
         <strong>not</strong> impose a statutory 10% disaster cap. The 10% figure commonly seen
@@ -577,7 +577,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Public Adjusters</strong> are licensed under California Insurance Code
-          &sect;15007 et seq. and regulated by the California Department of Insurance. The PA
+          &sect; 15007 et seq. and regulated by the California Department of Insurance. The PA
           license authorizes them to represent insureds in the adjustment of first-party
           insurance claims. PAs are required to carry a surety bond and maintain Errors &amp;
           Omissions insurance.
@@ -586,7 +586,7 @@ export default function Content() {
           <strong>Attorneys</strong> are licensed by the California State Bar and regulated
           under the Business &amp; Professions Code and the Rules of Professional Conduct.
           Practicing law without a license is a misdemeanor under Business &amp; Professions
-          Code &sect;6126.
+          Code &sect; 6126.
         </li>
         <li>
           <strong>Unlicensed claim negotiators</strong> &mdash; contractors, &ldquo;claim

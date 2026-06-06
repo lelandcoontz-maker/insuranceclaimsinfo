@@ -274,7 +274,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>36-month replacement cost deadline (IC &sect;2051.5(b)(1), as amended by AB 1800
+          <strong>36-month replacement cost deadline (IC &sect; 2051.5(b)(1), as amended by AB 1800
           effective 2019):</strong> After a declared disaster, you have at least 36 months from
           the date of your first ACV payment to collect the full replacement cost of your loss.
           Additional six-month extensions must be granted for good cause. (Prior to AB 1800, the
@@ -283,7 +283,7 @@ export default function Content() {
           than 36 months after a declared disaster, they are wrong.
         </li>
         <li>
-          <strong>24-month ALE period (IC &sect;2060(b)(1)):</strong> Additional Living Expenses
+          <strong>24-month ALE period (IC &sect; 2060(b)(1)):</strong> Additional Living Expenses
           coverage extends for at least 24 months after a declared disaster from the inception of
           the loss, regardless of the shorter period in your policy. The insurer must grant up to
           12 additional months for good cause &mdash; total of up to 36 months &mdash; where the
@@ -291,37 +291,37 @@ export default function Content() {
           dollar limit; it extends the period over which you can use it.
         </li>
         <li>
-          <strong>Right to rebuild at a new location (IC &sect;2051.5(c)):</strong> After a total
+          <strong>Right to rebuild at a new location (IC &sect; 2051.5(c)):</strong> After a total
           loss, you may use your replacement cost coverage to rebuild on the same lot, build on a
           different lot, or purchase an already-built home elsewhere. The insurer cannot reduce your
           payment because you choose to relocate. If your policy includes extended or guaranteed
           replacement cost, it applies at the new location too.
         </li>
         <li>
-          <strong>Appraisal cannot be compelled (IC &sect;2071):</strong> After a government-declared
+          <strong>Appraisal cannot be compelled (IC &sect; 2071):</strong> After a government-declared
           disaster, neither you nor the insurer can force the other into appraisal. This prevents
           insurers from using appraisal to cap damages before all damage is discovered.
         </li>
         <li>
-          <strong>Policy copy within 30 days (IC &sect;2084):</strong> The insurer must provide a
+          <strong>Policy copy within 30 days (IC &sect; 2084):</strong> The insurer must provide a
           complete copy of your policy free of charge within 30 days of your request. Your copy
           burned &mdash; request a new one immediately.
         </li>
         <li>
-          <strong>No cancellation during rebuilding (IC &sect;675.1(a)(2)):</strong> The insurer
+          <strong>No cancellation during rebuilding (IC &sect; 675.1(a)(2)):</strong> The insurer
           cannot cancel your coverage while your home is being rebuilt (except for the limited
-          reasons in &sect;676, such as fraud or material misrepresentation), and cannot use the
+          reasons in &sect; 676, such as fraud or material misrepresentation), and cannot use the
           damaged condition of the home as a basis for cancellation.
         </li>
         <li>
-          <strong>Mandatory renewal after a declared disaster (IC &sect;675.1(a)(3)):</strong> If
+          <strong>Mandatory renewal after a declared disaster (IC &sect; 675.1(a)(3)):</strong> If
           your total loss was caused by a declared disaster and not your own negligence, the
           insurer must offer to renew your policy for at least the next two annual renewal
           periods, but no less than 24 months of coverage from the date of the loss.
         </li>
         <li>
-          <strong>Wildfire-zip moratorium (IC &sect;675.1(b)):</strong> Separately from the
-          post-total-loss renewal protections above, &sect;675.1(b) prohibits insurers from
+          <strong>Wildfire-zip moratorium (IC &sect; 675.1(b)):</strong> Separately from the
+          post-total-loss renewal protections above, &sect; 675.1(b) prohibits insurers from
           cancelling or non-renewing a residential property policy for one year after a declared
           state of emergency, based solely on the fact that the property is located within or
           adjacent to the perimeter of the declared wildfire. This protection applies to every

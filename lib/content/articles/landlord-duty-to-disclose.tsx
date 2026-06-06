@@ -48,8 +48,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California law treats residential and commercial disclosure requirements differently.
         Residential landlords face extensive statutory disclosure obligations under Civil Code
-        &sect;1102 et seq., which requires a Transfer Disclosure Statement covering a long
-        list of property conditions. Commercial landlords are not subject to &sect;1102. But
+        &sect; 1102 et seq., which requires a Transfer Disclosure Statement covering a long
+        list of property conditions. Commercial landlords are not subject to &sect; 1102. But
         the absence of a comprehensive commercial disclosure statute does not mean commercial
         landlords have no disclosure duties.
       </p>
@@ -58,7 +58,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>California Civil Code &sect;1938 (Disability Access):</strong> Requires
+          <strong>California Civil Code &sect; 1938 (Disability Access):</strong> Requires
           commercial property owners to disclose whether the property has undergone inspection
           by a Certified Access Specialist (CASp) and, if so, whether the property meets
           applicable construction-related accessibility standards. This is a narrow but
@@ -110,7 +110,7 @@ export default function Content() {
           that information to tenants and employers whose employees may be exposed.
         </li>
         <li>
-          <strong>Cal/OSHA (8 CCR &sect;1529):</strong> California&rsquo;s asbestos standard
+          <strong>Cal/OSHA (8 CCR &sect; 1529):</strong> California&rsquo;s asbestos standard
           for construction and general industry requires building and facility owners to
           inform employers and employees about the presence, location, and quantity of ACM
           and presumed asbestos-containing materials (PACM) in buildings. This regulation
@@ -118,7 +118,7 @@ export default function Content() {
           whose employees will work in the building.
         </li>
         <li>
-          <strong>California Health &amp; Safety Code &sect;25915 et seq.:</strong> Requires
+          <strong>California Health &amp; Safety Code &sect; 25915 et seq.:</strong> Requires
           building owners to notify tenants and employees when asbestos-related work
           (including surveys) has been performed, and to maintain records of known ACM
           locations. Notice must be provided within the scope specified by the statute.
@@ -155,7 +155,7 @@ export default function Content() {
         Lead Paint Disclosure
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The federal Residential Lead-Based Paint Hazard Reduction Act (42 U.S.C. &sect;4852d),
+        The federal Residential Lead-Based Paint Hazard Reduction Act (42 U.S.C. &sect; 4852d),
         commonly known as Title X, requires disclosure of known lead-based paint and lead-based
         paint hazards in housing built before 1978. This federal requirement applies to{' '}
         <em>residential</em> properties and does not directly apply to commercial-only
@@ -172,13 +172,13 @@ export default function Content() {
         </li>
         <li>
           <strong>California Proposition 65:</strong> Cal. Health &amp; Safety Code
-          &sect;25249.6 requires businesses to provide warnings when people may be exposed to
+          &sect; 25249.6 requires businesses to provide warnings when people may be exposed to
           chemicals known to cause cancer or reproductive harm. Lead is a listed chemical. A
           commercial building owner who knows lead paint is present may have Proposition 65
           obligations to employees and visitors.
         </li>
         <li>
-          <strong>Cal/OSHA lead standards (8 CCR &sect;1532.1):</strong> Applies to any
+          <strong>Cal/OSHA lead standards (8 CCR &sect; 1532.1):</strong> Applies to any
           construction or maintenance work that may disturb lead-containing materials. If the
           landlord knows lead paint is present in a pre-1978 commercial building, Cal/OSHA
           regulations effectively require that information be communicated to any employer
@@ -194,7 +194,7 @@ export default function Content() {
         California does not have a specific statute requiring commercial landlords to disclose
         mold contamination or prior water damage history. Senate Bill 655 (2001) directed the
         California Department of Health Services (now CDPH) to develop mold standards, resulting
-        in Health &amp; Safety Code &sect;26100 et seq. These provisions address mold assessment
+        in Health &amp; Safety Code &sect; 26100 et seq. These provisions address mold assessment
         and remediation standards but do not create an explicit commercial lease disclosure
         mandate.
       </p>
@@ -346,7 +346,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Fraud and intentional concealment (Cal. Civ. Code &sect;1572, &sect;1710):</strong>
+          <strong>Fraud and intentional concealment (Cal. Civ. Code &sect; 1572, &sect; 1710):</strong>
           {' '}If the landlord knew about a defect, had a duty to disclose it, and intentionally
           concealed it to induce the tenant to enter the lease, the tenant may recover actual
           damages plus, in appropriate cases, punitive damages. Fraud requires proof of
@@ -363,7 +363,7 @@ export default function Content() {
           <strong>Breach of the implied covenant of good faith and fair dealing:</strong>
           Every California contract includes an implied covenant of good faith and fair
           dealing &mdash; a long-standing common-law doctrine (it is not codified at Civil
-          Code &sect;1654, which addresses contract ambiguity construction). A landlord who
+          Code &sect; 1654, which addresses contract ambiguity construction). A landlord who
           conceals known defects that undermine the tenant&rsquo;s ability to benefit from the
           lease may breach this covenant.
         </li>

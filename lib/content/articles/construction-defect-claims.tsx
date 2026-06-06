@@ -32,7 +32,7 @@ export default function Content() {
         What Constitutes a Construction Defect
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A construction defect is any condition in a building that results from defective design, defective materials, or defective workmanship that reduces the value or useful life of the property or causes damage. California Civil Code &sect;896 establishes specific performance standards for residential construction, covering:
+        A construction defect is any condition in a building that results from defective design, defective materials, or defective workmanship that reduces the value or useful life of the property or causes damage. California Civil Code &sect; 896 establishes specific performance standards for residential construction, covering:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Water intrusion:</strong> Windows, doors, roofing, exterior wall assemblies, balconies, and decks must be designed and built to prevent unintended water intrusion</li>
@@ -48,19 +48,19 @@ export default function Content() {
         California&rsquo;s Right to Repair Act (SB 800)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Civil Code &sect;895 et seq., commonly known as the Right to Repair Act or SB 800, was enacted in 2002 and applies to residential construction where the original purchase agreement was signed on or after January 1, 2003. The Act establishes a mandatory prelitigation process that homeowners must follow before filing a construction defect lawsuit against the builder.
+        California Civil Code &sect; 895 et seq., commonly known as the Right to Repair Act or SB 800, was enacted in 2002 and applies to residential construction where the original purchase agreement was signed on or after January 1, 2003. The Act establishes a mandatory prelitigation process that homeowners must follow before filing a construction defect lawsuit against the builder.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">The Prelitigation Process</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Before a homeowner can file a lawsuit for construction defects, they must comply with the following steps under Civil Code &sect;910&ndash;938:
+        Before a homeowner can file a lawsuit for construction defects, they must comply with the following steps under Civil Code &sect; 910&ndash;938:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>Written notice to the builder.</strong> The homeowner must provide the builder with written notice of the claimed defects, describing them in reasonable detail (Civil Code &sect;910).</li>
-        <li><strong>Builder&rsquo;s acknowledgment.</strong> Within 14 days, the builder must acknowledge receipt of the notice (Civil Code &sect;913).</li>
-        <li><strong>Builder&rsquo;s election.</strong> Within 30 days of acknowledgment, the builder may elect to inspect the property. If the builder elects to inspect, the inspection must be completed within a specified timeframe (Civil Code &sect;916).</li>
-        <li><strong>Builder&rsquo;s offer to repair.</strong> If the builder chooses to make an offer, it must include a detailed description of the repairs the builder is willing to perform, a timetable for completion, and any monetary compensation offered (Civil Code &sect;917).</li>
-        <li><strong>Homeowner&rsquo;s response.</strong> The homeowner may accept, reject, or negotiate the offer. If the homeowner rejects, the homeowner may proceed with filing a lawsuit (Civil Code &sect;921).</li>
+        <li><strong>Written notice to the builder.</strong> The homeowner must provide the builder with written notice of the claimed defects, describing them in reasonable detail (Civil Code &sect; 910).</li>
+        <li><strong>Builder&rsquo;s acknowledgment.</strong> Within 14 days, the builder must acknowledge receipt of the notice (Civil Code &sect; 913).</li>
+        <li><strong>Builder&rsquo;s election.</strong> Within 30 days of acknowledgment, the builder may elect to inspect the property. If the builder elects to inspect, the inspection must be completed within a specified timeframe (Civil Code &sect; 916).</li>
+        <li><strong>Builder&rsquo;s offer to repair.</strong> If the builder chooses to make an offer, it must include a detailed description of the repairs the builder is willing to perform, a timetable for completion, and any monetary compensation offered (Civil Code &sect; 917).</li>
+        <li><strong>Homeowner&rsquo;s response.</strong> The homeowner may accept, reject, or negotiate the offer. If the homeowner rejects, the homeowner may proceed with filing a lawsuit (Civil Code &sect; 921).</li>
       </ol>
 
       <CalloutBox variant="warning" title="Do Not Skip the Prelitigation Process">
@@ -74,7 +74,7 @@ export default function Content() {
         The Act imposes specific obligations on builders, including:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Meeting the construction standards set forth in Civil Code &sect;896</li>
+        <li>Meeting the construction standards set forth in Civil Code &sect; 896</li>
         <li>Providing a written limited warranty to the original purchaser</li>
         <li>Participating in the prelitigation process in good faith</li>
         <li>If the builder elects to repair, completing the repairs within the timeframe specified in the offer</li>
@@ -116,7 +116,7 @@ export default function Content() {
         In California, the analysis goes further. Under the efficient proximate cause (EPC) doctrine, the question is: what was the predominating cause of the damage? If a construction defect created a <em>condition</em> that allowed a covered peril to cause damage, the covered peril &mdash; not the defect &mdash; may be the proximate cause of the loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Example: A contractor improperly waterproofs a shower pan. Over time, water migrates through the defect and damages the subfloor, framing, and the ceiling of the room below. The defective waterproofing created a <em>condition</em>. The water caused the <em>damage</em>. Under California Insurance Code &sect;530 and the EPC doctrine, the water is the proximate cause of the claimed damage. The faulty workmanship is a remote cause. For the full EPC framework, see our article on{' '}
+        Example: A contractor improperly waterproofs a shower pan. Over time, water migrates through the defect and damages the subfloor, framing, and the ceiling of the room below. The defective waterproofing created a <em>condition</em>. The water caused the <em>damage</em>. Under California Insurance Code &sect; 530 and the EPC doctrine, the water is the proximate cause of the claimed damage. The faulty workmanship is a remote cause. For the full EPC framework, see our article on{' '}
         <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
           the efficient proximate cause doctrine
         </Link>.
@@ -181,13 +181,13 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Patent defects &mdash; CCP &sect;337.1:</strong> Four years from substantial completion of the improvement. A patent defect is one that is apparent or discoverable through reasonable inspection. If you can see the cracked stucco, the uneven foundation, or the improperly installed windows, the clock is running.
+          <strong>Patent defects &mdash; CCP &sect; 337.1:</strong> Four years from substantial completion of the improvement. A patent defect is one that is apparent or discoverable through reasonable inspection. If you can see the cracked stucco, the uneven foundation, or the improperly installed windows, the clock is running.
         </li>
         <li>
-          <strong>Latent defects &mdash; CCP &sect;337.15:</strong> Ten years from substantial completion of the improvement. A latent defect is one that is hidden &mdash; not discoverable through reasonable inspection. Defective plumbing inside walls, inadequate waterproofing beneath the slab, and improper structural connections hidden by finishes are latent defects. The ten-year period is an outside limit; the actual statute of limitations begins to run when the defect is discovered or should have been discovered.
+          <strong>Latent defects &mdash; CCP &sect; 337.15:</strong> Ten years from substantial completion of the improvement. A latent defect is one that is hidden &mdash; not discoverable through reasonable inspection. Defective plumbing inside walls, inadequate waterproofing beneath the slab, and improper structural connections hidden by finishes are latent defects. The ten-year period is an outside limit; the actual statute of limitations begins to run when the defect is discovered or should have been discovered.
         </li>
         <li>
-          <strong>SB 800 standards &mdash; Civil Code &sect;896:</strong> The Right to Repair Act establishes its own limitation periods for each category of defect. For example, water intrusion claims must be brought within five years of close of escrow, while structural claims may have a ten-year window. These may differ from the CCP periods, and the more specific SB 800 deadlines typically control for residential construction subject to the Act.
+          <strong>SB 800 standards &mdash; Civil Code &sect; 896:</strong> The Right to Repair Act establishes its own limitation periods for each category of defect. For example, water intrusion claims must be brought within five years of close of escrow, while structural claims may have a ten-year window. These may differ from the CCP periods, and the more specific SB 800 deadlines typically control for residential construction subject to the Act.
         </li>
       </ul>
 

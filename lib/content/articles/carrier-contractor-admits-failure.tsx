@@ -100,7 +100,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Admissions by a Party-Opponent</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The contractor&apos;s statement also carries significant weight under the rules of evidence. Under California Evidence Code &sect;1222, a statement made by a person authorized by a party to make statements on the party&apos;s behalf, concerning the subject matter of the statement, is admissible against that party as an exception to the hearsay rule. The key question is whether the carrier&apos;s preferred vendor was authorized to make statements about the feasibility of repairs.
+        The contractor&apos;s statement also carries significant weight under the rules of evidence. Under California Evidence Code &sect; 1222, a statement made by a person authorized by a party to make statements on the party&apos;s behalf, concerning the subject matter of the statement, is admissible against that party as an exception to the hearsay rule. The key question is whether the carrier&apos;s preferred vendor was authorized to make statements about the feasibility of repairs.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -138,7 +138,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s Fair Claims Settlement Practices Regulations add another layer. Under 10 CCR &sect;2695.9(c)(2), when the claimant accepts the insurer&apos;s recommended contractor, the insurer must cause the property to be &quot;restored to no less than its condition prior to the loss&quot; and &quot;repaired in a manner which meets accepted trade standards for good and workmanlike construction at no additional cost to the claimant.&quot; The regulation contemplates that when the insurer steers the claimant to a particular vendor, the insurer assumes responsibility for the result. If the vendor cannot achieve the result, the insurer cannot disclaim responsibility by pointing to the vendor&apos;s independence.
+        California&apos;s Fair Claims Settlement Practices Regulations add another layer. Under 10 CCR &sect; 2695.9(c)(2), when the claimant accepts the insurer&apos;s recommended contractor, the insurer must cause the property to be &quot;restored to no less than its condition prior to the loss&quot; and &quot;repaired in a manner which meets accepted trade standards for good and workmanlike construction at no additional cost to the claimant.&quot; The regulation contemplates that when the insurer steers the claimant to a particular vendor, the insurer assumes responsibility for the result. If the vendor cannot achieve the result, the insurer cannot disclaim responsibility by pointing to the vendor&apos;s independence.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Common Situations Where Contractor Admissions Arise</h2>
@@ -214,13 +214,13 @@ export default function Content() {
       </blockquote>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is a well-established technique in litigation practice. If the contractor does not respond to correct the characterization, the email serves as evidence that the statement was made and that the contractor did not dispute it. Under California Evidence Code &sect;1221, if a party or a party&apos;s agent is presented with a statement and adopts it by failing to deny it, the adoption may be treated as an admission.
+        This is a well-established technique in litigation practice. If the contractor does not respond to correct the characterization, the email serves as evidence that the statement was made and that the contractor did not dispute it. Under California Evidence Code &sect; 1221, if a party or a party&apos;s agent is presented with a statement and adopts it by failing to deny it, the adoption may be treated as an admission.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Recording the Conversation</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, recording a conversation without the consent of all parties is a crime under Penal Code &sect;632, which requires the consent of all parties to a confidential communication. California is a two-party consent state. If you want to record your conversation with the carrier&apos;s contractor, you must inform the contractor that you are recording. A simple statement at the beginning of the conversation is sufficient: &quot;I&apos;m going to record this conversation for my records. Is that all right?&quot;
+        In California, recording a conversation without the consent of all parties is a crime under Penal Code &sect; 632, which requires the consent of all parties to a confidential communication. California is a two-party consent state. If you want to record your conversation with the carrier&apos;s contractor, you must inform the contractor that you are recording. A simple statement at the beginning of the conversation is sufficient: &quot;I&apos;m going to record this conversation for my records. Is that all right?&quot;
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -284,7 +284,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California&apos;s Fair Claims Settlement Practices Regulations</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s Fair Claims Settlement Practices Regulations, codified at 10 CCR &sect;&sect;2695.1 through 2695.13, establish minimum standards for the handling of insurance claims. Several provisions are directly relevant when the carrier&apos;s contractor admits the repair scope is inadequate.
+        California&apos;s Fair Claims Settlement Practices Regulations, codified at 10 CCR &sect;&sect; 2695.1 through 2695.13, establish minimum standards for the handling of insurance claims. Several provisions are directly relevant when the carrier&apos;s contractor admits the repair scope is inadequate.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -307,7 +307,7 @@ export default function Content() {
         Violations of the Fair Claims Settlement Practices Regulations do not create a private right of action on their own, but they are admissible as evidence of bad faith in a breach of the implied covenant action. <em>Rattan v. United Services Auto. Ass&apos;n</em> (2001) 84 Cal.App.4th 715 held that an insurer&apos;s violation of the regulations is relevant to whether the insurer breached the covenant of good faith and fair dealing.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Insurance Code &sect;790.03</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Insurance Code &sect; 790.03</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Section 790.03(h) of the California Insurance Code prohibits unfair claims settlement practices, including: not attempting in good faith to effectuate prompt, fair, and equitable settlements of claims in which liability has become reasonably clear (subdivision (h)(5)); compelling insureds to institute litigation to recover amounts due under an insurance policy by offering substantially less than the amounts ultimately recovered in actions brought by such insureds (subdivision (h)(6)); and failing to promptly provide a reasonable explanation of the basis in the insurance policy, in relation to the facts or applicable law, for the denial of a claim or offer of a compromise settlement (subdivision (h)(13)).

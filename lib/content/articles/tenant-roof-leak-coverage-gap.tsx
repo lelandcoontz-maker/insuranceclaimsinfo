@@ -314,7 +314,7 @@ export default function Content() {
         When rain damages a tenant&rsquo;s property because the landlord failed to maintain
         the roof, the tenant may have a negligence claim against the landlord. This is
         separate from the insurance coverage question. The landlord has a duty &mdash; both
-        under the lease and under California Civil Code &sect;1941 &mdash; to maintain the
+        under the lease and under California Civil Code &sect; 1941 &mdash; to maintain the
         property in a habitable and tenantable condition. A leaking roof that damages a
         commercial tenant&rsquo;s property may give rise to a claim for breach of the lease,
         negligence, or both.

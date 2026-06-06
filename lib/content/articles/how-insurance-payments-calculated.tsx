@@ -246,7 +246,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This is especially important in California, where the estimate, scope, or report
         underlying a payment is a claim-related document that the carrier is required to provide
-        under California Code of Regulations, title 10, &sect;2695.7(d). You cannot evaluate
+        under California Code of Regulations, title 10, &sect; 2695.7(d). You cannot evaluate
         whether a payment is correct if you do not know how it was calculated. Requesting the
         supporting documentation is not adversarial &mdash; it is a basic step in understanding
         your own claim.

@@ -69,7 +69,7 @@ export default function Content() {
       <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
         <li>
           <strong>Elders:</strong> Any person who is 65 years of age or older (Welfare &amp;
-          Institutions Code &sect;15610.27). There is no requirement that the person be frail,
+          Institutions Code &sect; 15610.27). There is no requirement that the person be frail,
           cognitively impaired, or dependent on others. A sharp, independent 68-year-old
           policyholder qualifies just as much as a 90-year-old in assisted living. The only
           criterion is age.
@@ -79,7 +79,7 @@ export default function Content() {
           physical or mental limitations that restrict their ability to carry out normal
           activities or to protect their rights, including persons who have physical or
           developmental disabilities or whose physical or mental abilities have diminished
-          because of age (Welfare &amp; Institutions Code &sect;15610.23). This includes
+          because of age (Welfare &amp; Institutions Code &sect; 15610.23). This includes
           individuals admitted to hospitals, assisted living facilities, or other care
           facilities.
         </li>
@@ -104,13 +104,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The Elder Abuse Act covers several forms of abuse, but the most relevant to insurance
         claims are <strong>financial abuse</strong> (Welfare &amp; Institutions Code
-        &sect;15610.30) and <strong>neglect</strong> (Welfare &amp; Institutions Code
-        &sect;15610.57). In the insurance context, these concepts map directly onto common
+        &sect; 15610.30) and <strong>neglect</strong> (Welfare &amp; Institutions Code
+        &sect; 15610.57). In the insurance context, these concepts map directly onto common
         bad faith practices:
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Financial Abuse (&sect;15610.30)
+        Financial Abuse (&sect; 15610.30)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Financial abuse of an elder or dependent adult occurs when a person or entity takes,
@@ -194,7 +194,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Mandatory Attorney&rsquo;s Fees (W&amp;I Code &sect;15657)
+        Mandatory Attorney&rsquo;s Fees (W&amp;I Code &sect; 15657)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In a successful elder abuse action, the court <strong>shall</strong> award reasonable
@@ -234,11 +234,11 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the most significant remedy unique to elder abuse claims. Under
-        California&rsquo;s general survival statute (Code of Civil Procedure &sect;377.34),
+        California&rsquo;s general survival statute (Code of Civil Procedure &sect; 377.34),
         when a plaintiff dies during litigation, the estate can recover only the economic
         damages that the decedent would have been entitled to &mdash; pain and suffering
         damages generally die with the plaintiff. But under the Elder Abuse Act (Welfare &amp;
-        Institutions Code &sect;15657), if the plaintiff proves the elder abuse by clear and
+        Institutions Code &sect; 15657), if the plaintiff proves the elder abuse by clear and
         convincing evidence, the decedent&rsquo;s estate can recover <strong>all damages
         that the decedent would have been entitled to</strong>, including pain and suffering
         and punitive damages.
@@ -270,9 +270,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         To recover the enhanced remedies under the Elder Abuse Act, the plaintiff must prove
         that the defendant acted with &ldquo;recklessness, oppression, fraud, or
-        malice&rdquo; (Welfare &amp; Institutions Code &sect;15657). This is a higher
+        malice&rdquo; (Welfare &amp; Institutions Code &sect; 15657). This is a higher
         standard than ordinary negligence &mdash; but it is lower than the standard for
-        punitive damages under Civil Code &sect;3294, and it is a standard that systematic
+        punitive damages under Civil Code &sect; 3294, and it is a standard that systematic
         insurance company bad faith conduct frequently meets.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -323,7 +323,7 @@ export default function Content() {
         For enhanced remedies against a corporate defendant like an insurance company, the
         plaintiff must show that an officer, director, or managing agent of the corporation
         was involved in the abuse, authorized or ratified it, or was personally guilty of
-        oppression, fraud, or malice (Civil Code &sect;3294(b)). In practice, this means
+        oppression, fraud, or malice (Civil Code &sect; 3294(b)). In practice, this means
         establishing that the claims handling decisions were made or approved at a supervisory
         level &mdash; which is often demonstrable when the insurer has company-wide policies
         or practices that systematically disadvantage elderly claimants.
@@ -344,7 +344,7 @@ export default function Content() {
         Financial Abuse in the Insurance Context
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The financial abuse provision of the Elder Abuse Act (&sect;15610.30) has been applied
+        The financial abuse provision of the Elder Abuse Act (&sect; 15610.30) has been applied
         in contexts analogous to insurance claims handling. In <em>Paslay v. State Farm General
         Ins. Co.</em> (2016) 248 Cal.App.4th 639, the court addressed elder abuse claims in
         the insurance context, ultimately applying the genuine dispute doctrine to the bad faith
@@ -357,7 +357,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Also, in <em>Das v. Bank of America, N.A.</em> (2010) 186 Cal.App.4th 727,
         the court provided guidance on what constitutes &ldquo;taking&rdquo; property for a
-        &ldquo;wrongful use&rdquo; under &sect;15610.30 &mdash; holding that the statute
+        &ldquo;wrongful use&rdquo; under &sect; 15610.30 &mdash; holding that the statute
         encompasses situations where a fiduciary or someone in a position of trust
         wrongfully retains money belonging to an elder. While this case involved a bank
         rather than an insurer, the principle applies equally: an insurance company that
@@ -402,9 +402,9 @@ export default function Content() {
           demand letter
         </Link>{' '}
         on behalf of an elderly policyholder, specifically reference the Elder Abuse and
-        Dependent Adult Civil Protection Act (Welfare &amp; Institutions Code &sect;15600
+        Dependent Adult Civil Protection Act (Welfare &amp; Institutions Code &sect; 15600
         et seq.) and identify the specific conduct that may constitute elder financial abuse
-        under &sect;15610.30. Cite the enhanced remedies available under &sect;15657, including
+        under &sect; 15610.30. Cite the enhanced remedies available under &sect; 15657, including
         attorney&rsquo;s fees and the survival action. Make the insurer&rsquo;s claims
         department and legal team confront the enhanced exposure in writing.
       </p>
@@ -447,7 +447,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California{' '}
         <Link href="/resources/insurance-code-790" className="text-blue-700 underline hover:text-blue-900">
-          Insurance Code &sect;790.03
+          Insurance Code &sect; 790.03
         </Link>{' '}
         prohibits a range of unfair claims settlement
         practices, including misrepresenting policy provisions, failing to acknowledge
@@ -510,12 +510,12 @@ export default function Content() {
           The delay, lowballing, and pressure tactics were unreasonable.
         </li>
         <li>
-          <strong>Violation of Insurance Code &sect;790.03</strong> &mdash; The insurer violated
+          <strong>Violation of Insurance Code &sect; 790.03</strong> &mdash; The insurer violated
           multiple unfair claims practices statutes.
         </li>
         <li>
           <strong>Elder financial abuse under Welfare &amp; Institutions Code
-          &sect;15610.30</strong> &mdash; The insurer withheld benefits and used pressure tactics
+          &sect; 15610.30</strong> &mdash; The insurer withheld benefits and used pressure tactics
           against an elderly policyholder with reckless disregard for the harm caused.
         </li>
       </ol>

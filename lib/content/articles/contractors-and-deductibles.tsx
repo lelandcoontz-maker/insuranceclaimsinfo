@@ -43,7 +43,7 @@ export default function Content() {
         Texas: What the Statutes Actually Say
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Texas has two statutes that work together. <strong>Insurance Code &sect;707.002</strong>{' '}
+        Texas has two statutes that work together. <strong>Insurance Code &sect; 707.002</strong>{' '}
         is one sentence: <em>&ldquo;A person insured under a property insurance policy shall pay
         any deductible applicable to a first-party claim made under the policy.&rdquo;</em>{' '}
         That is the insured&rsquo;s obligation &mdash; applicable to the <em>claim</em>, not to
@@ -51,7 +51,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The contractor-facing prohibition is in <strong>Business &amp; Commerce Code
-        &sect;27.02(c)</strong>, which makes it an offense for a seller of goods or services to,{' '}
+        &sect; 27.02(c)</strong>, which makes it an offense for a seller of goods or services to,{' '}
         <em>without the insurer&rsquo;s consent</em>: (1) pay, waive, absorb, or decline to
         collect the deductible; (2) provide a rebate or credit that offsets the deductible; or
         (3) &ldquo;in any other manner assist the insured person&rsquo;s failure to pay&rdquo;
@@ -59,7 +59,7 @@ export default function Content() {
         fine.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Insurance Code &sect;707.004</strong> gives carriers an enforcement mechanism:{' '}
+        <strong>Insurance Code &sect; 707.004</strong> gives carriers an enforcement mechanism:{' '}
         <em>&ldquo;An insurer that issues a property insurance policy with replacement cost
         coverage may refuse to pay a claim for withheld recoverable depreciation or a
         replacement cost holdback under the policy until the insurer receives reasonable proof of
@@ -68,7 +68,7 @@ export default function Content() {
         executed installment plan.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        &sect;27.02(b) also requires contracts over $1,000 for goods or services expected to be
+        &sect; 27.02(b) also requires contracts over $1,000 for goods or services expected to be
         paid from insurance proceeds to include a disclosure in 12-point bold type: <em>&ldquo;Texas
         law requires a person insured under a property insurance policy to pay any deductible
         applicable to a claim made under the policy. It is a violation of Texas law for a seller
@@ -105,14 +105,14 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This was not actually new law. A deductible waiver prohibition had existed in Texas since
-        1989 in Business &amp; Commerce Code &sect;27.02. But the original statute only prohibited
+        1989 in Business &amp; Commerce Code &sect; 27.02. But the original statute only prohibited
         &ldquo;paying&rdquo; the deductible &mdash; and contractors argued that &ldquo;waiving&rdquo;
         or &ldquo;absorbing&rdquo; a deductible was not the same as &ldquo;paying&rdquo; it. Attorney
         General Jim Mattox issued Opinion JM-1154 in 1990 trying to clarify, but the narrow
         wording made the law essentially unenforceable for 30 years. HB 2102 broadened the
         prohibited conduct to include waiving, absorbing, rebating, crediting, offsetting, and
         the catch-all &ldquo;in any other manner assist.&rdquo; It also added the
-        depreciation-withholding enforcement mechanism in &sect;707.004 and the mandatory
+        depreciation-withholding enforcement mechanism in &sect; 707.004 and the mandatory
         contract disclosures.
       </p>
 
@@ -132,10 +132,10 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The &sect;707.004 Enforcement Gap
+        The &sect; 707.004 Enforcement Gap
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read &sect;707.004 again carefully. It says an insurer that issues a policy{' '}
+        Read &sect; 707.004 again carefully. It says an insurer that issues a policy{' '}
         <em>&ldquo;with replacement cost coverage&rdquo;</em> may withhold{' '}
         <em>&ldquo;recoverable depreciation or a replacement cost holdback.&rdquo;</em> This
         enforcement mechanism only works when all of the following are true: the policy has
@@ -160,7 +160,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The 88th Texas Legislature (2023) partially acknowledged this problem. SB 1268 amended
-        &sect;707.004 to make the depreciation withholding <em>mandatory</em> rather than
+        &sect; 707.004 to make the depreciation withholding <em>mandatory</em> rather than
         optional &mdash; recognizing that insurers were not consistently using the tool. But
         SB 1268 did not fix the structural gap: the enforcement mechanism still only works on
         replacement cost policies with claims below the limit. Nobody in the published legal
@@ -176,7 +176,7 @@ export default function Content() {
         Where the Texas Language Gets Complicated
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read &sect;707.002 again: the insured must pay the deductible &ldquo;applicable to a
+        Read &sect; 707.002 again: the insured must pay the deductible &ldquo;applicable to a
         first-party claim.&rdquo; Singular claim, singular deductible. Now apply that language to
         common situations:
       </p>
@@ -205,7 +205,7 @@ export default function Content() {
           direction of payment so the carrier issues the $100,000 check jointly to the
           homeowner and the contractor, is the homeowner supposed to write a separate $1,000
           &ldquo;deductible&rdquo; check on top of the $20,000 they already owe for the
-          overage? The $1,000 is already inside the $20,000. Under &sect;707.004, the
+          overage? The $1,000 is already inside the $20,000. Under &sect; 707.004, the
           carrier&rsquo;s enforcement mechanism is withholding recoverable depreciation &mdash;
           but in an over-limit loss, the carrier has already paid the full limit. There is no
           depreciation holdback to withhold. The enforcement tool does not even apply.
@@ -230,7 +230,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Note also the phrase <em>&ldquo;without the insurer&rsquo;s consent&rdquo;</em> in
-        &sect;27.02(c). If the insurer consents to a deductible arrangement, there is no
+        &sect; 27.02(c). If the insurer consents to a deductible arrangement, there is no
         violation at all. And the catch-all language &mdash; &ldquo;in any other manner assist
         the insured person&rsquo;s failure to pay&rdquo; &mdash; is vague enough that it could
         theoretically sweep in a contractor who simply charges less than the estimate amount,
@@ -274,11 +274,11 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        California: Penal Code &sect;551(b)
+        California: Penal Code &sect; 551(b)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California has its own statute, less well-known than the Texas law. <strong>Penal Code
-        &sect;551(b)</strong> provides, in relevant part: <em>&ldquo;Except in cases in which
+        &sect; 551(b)</strong> provides, in relevant part: <em>&ldquo;Except in cases in which
         the amount of the repair or replacement claim has been determined by the insurer and the
         repair or replacement services are performed in accordance with that determination or in
         accordance with provided estimates that are accepted by the insurer, it is unlawful for
@@ -291,7 +291,7 @@ export default function Content() {
         The Exception That May Swallow the Rule
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The exception at the beginning of &sect;551(b) is so broad that it may gut the
+        The exception at the beginning of &sect; 551(b) is so broad that it may gut the
         prohibition entirely. In plain terms: the statute says contractors cannot offer discounts
         to offset deductibles &mdash; but then immediately carves out an exception for situations
         where the insurer has already determined the claim amount and the contractor performs the
@@ -302,7 +302,7 @@ export default function Content() {
         * In legal writing, when an exception is so broad that it undermines the rule it is
         attached to, lawyers and courts describe it as &ldquo;the exception that swallows the
         rule.&rdquo; That phrase appears frequently in appellate opinions across every area of
-        law. Here, the &sect;551(b) exception arguably does exactly that.
+        law. Here, the &sect; 551(b) exception arguably does exactly that.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Read the exception again: the prohibition does not apply when &ldquo;the amount of the
@@ -375,7 +375,7 @@ export default function Content() {
         not the California Department of Insurance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In practice, criminal prosecution of contractors under &sect;551(b) appears to be
+        In practice, criminal prosecution of contractors under &sect; 551(b) appears to be
         exceedingly rare. There are no published appellate decisions interpreting the statute in
         the property insurance context. This means the ambiguities in the exception clause, the
         meaning of &ldquo;in accordance with that determination,&rdquo; and the application to
@@ -397,7 +397,7 @@ export default function Content() {
         Florida
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Florida (Fla. Stat. &sect;489.147) prohibits contractors from advertising or promising
+        Florida (Fla. Stat. &sect; 489.147) prohibits contractors from advertising or promising
         to pay or waive deductibles as an inducement, with a particular focus on roof claims.
         Florida&rsquo;s statute is narrower in some respects than the Texas law &mdash; it
         targets the <em>advertising</em> and <em>promising</em> rather than the act of
@@ -414,7 +414,7 @@ export default function Content() {
         Colorado and Other States
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Colorado (C.R.S. &sect;6-22-105) has a similar prohibition specific to roofing
+        Colorado (C.R.S. &sect; 6-22-105) has a similar prohibition specific to roofing
         contractors. Most other states address the issue through general insurance fraud statutes
         rather than contractor-specific deductible laws. The absence of a specific deductible
         waiver statute does not mean the practice is legal &mdash; it may still constitute

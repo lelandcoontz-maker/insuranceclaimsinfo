@@ -98,7 +98,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        Fair Claims Regulations (10 CCR &sect;2695.7(h))
+        Fair Claims Regulations (10 CCR &sect; 2695.7(h))
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Outside of declared disasters, the Fair Claims regulations still require the insurer to pay
@@ -127,7 +127,7 @@ export default function Content() {
           <strong>Demand the advance in writing, citing the regulation.</strong> Write to your
           adjuster: &ldquo;My home is uninhabitable. ALE is owed under Coverage D. I am requesting
           an advance of [X months] of ALE to secure temporary housing. Please respond within 15 days
-          per 10 CCR &sect;2695.5(b).&rdquo;
+          per 10 CCR &sect; 2695.5(b).&rdquo;
         </li>
         <li>
           <strong>Provide a lease or hotel estimate.</strong> Attach a lease offer, rental listing, or

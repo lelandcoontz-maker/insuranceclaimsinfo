@@ -42,9 +42,9 @@ export default function Content() {
         Every condominium association is required to carry a <strong>master insurance policy</strong> that
         covers the building structure and common areas. This is not optional &mdash; it is a legal
         requirement in every state. In California, it is governed by the Davis-Stirling Common Interest
-        Development Act (California Civil Code &sect;&sect;4000&ndash;6150). In Florida, it falls under
-        Fla. Stat. &sect;718.111(11). In Texas, it is the Uniform Condominium Act, Tex. Prop. Code
-        &sect;82.111.
+        Development Act (California Civil Code &sect;&sect; 4000&ndash;6150). In Florida, it falls under
+        Fla. Stat. &sect; 718.111(11). In Texas, it is the Uniform Condominium Act, Tex. Prop. Code
+        &sect; 82.111.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In addition to the master policy, each unit owner should carry an <strong>HO-6 policy</strong> (ISO
@@ -121,7 +121,7 @@ export default function Content() {
         insurance policies &mdash; determine which building components are covered by which
         policy</strong>. In California, the CC&amp;Rs (Covenants, Conditions, and Restrictions) are
         the controlling document. In New York, it is typically the bylaws and proprietary lease. In
-        Florida, the statute itself (Fla. Stat. &sect;718.111) largely dictates the split, though
+        Florida, the statute itself (Fla. Stat. &sect; 718.111) largely dictates the split, though
         the declaration can modify some provisions.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -133,7 +133,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="California Default Under Civil Code 4775">
         <p>
-          Unless the CC&amp;Rs say otherwise, California Civil Code &sect;4775 provides default rules:
+          Unless the CC&amp;Rs say otherwise, California Civil Code &sect; 4775 provides default rules:
           the interior surfaces of perimeter walls, floors, ceilings, windows, doors, and outlets
           within a unit are part of the &ldquo;separate interest&rdquo; (the unit owner&rsquo;s
           responsibility). But the sheetrock itself, the subfloor, the insulation, and the framing are
@@ -329,7 +329,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Use Internal Dispute Resolution (IDR).</strong> In California, Civil Code
-          &sect;5900&ndash;5920 requires HOAs to offer an IDR process. Use it. It creates a paper
+          &sect; 5900&ndash;5920 requires HOAs to offer an IDR process. Use it. It creates a paper
           trail showing you attempted to resolve the matter before taking action.
         </li>
         <li>
@@ -366,13 +366,13 @@ export default function Content() {
         California
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Davis-Stirling Act (Civil Code &sect;&sect;4000&ndash;6150) governs condominium
+        The Davis-Stirling Act (Civil Code &sect;&sect; 4000&ndash;6150) governs condominium
         associations. The <strong>CC&amp;Rs</strong> are the primary document controlling which
-        building components are covered by which policy. Civil Code &sect;4775 provides default
+        building components are covered by which policy. Civil Code &sect; 4775 provides default
         maintenance, repair, and replacement rules: the association maintains common areas, and the
         owner maintains the separate interest and exclusive use common areas. But CC&amp;Rs can
         override these defaults. California also has dispute resolution requirements under
-        Civil Code &sect;&sect;5900&ndash;5965, including mandatory IDR before litigation in many
+        Civil Code &sect;&sect; 5900&ndash;5965, including mandatory IDR before litigation in many
         cases.
       </p>
 
@@ -380,7 +380,7 @@ export default function Content() {
         Florida
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Florida is unusually specific. Fla. Stat. &sect;718.111(11) requires the association&rsquo;s
+        Florida is unusually specific. Fla. Stat. &sect; 718.111(11) requires the association&rsquo;s
         master policy to provide primary coverage for &ldquo;all portions of the condominium property
         as originally installed or replacement of like kind and quality, in accordance with the
         original plans and specifications.&rdquo; But the statute explicitly excludes items
@@ -408,7 +408,7 @@ export default function Content() {
         Texas
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under the Uniform Condominium Act (Tex. Prop. Code &sect;82.111), the association must insure
+        Under the Uniform Condominium Act (Tex. Prop. Code &sect; 82.111), the association must insure
         common elements and units for at least 80% of replacement cost (100% is standard practice).
         Unit owners are responsible for insuring &ldquo;all wall and floor coverings, appliances, and
         all parts of the unit which are not common elements.&rdquo; Texas also allows the association
@@ -554,7 +554,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Know your dispute resolution rights.</strong> In California, use the IDR process
-          (Civil Code &sect;5900) and consider filing a complaint with the Department of Real Estate
+          (Civil Code &sect; 5900) and consider filing a complaint with the Department of Real Estate
           if the HOA is failing its fiduciary duties. Other states have comparable remedies.
         </li>
       </ol>

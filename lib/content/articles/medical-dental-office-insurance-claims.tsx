@@ -222,7 +222,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         If a property loss results in the exposure or destruction of PHI, HIPAA&rsquo;s Breach
-        Notification Rule (45 CFR &sect;&sect;164.400&ndash;414) requires the practice to notify
+        Notification Rule (45 CFR &sect;&sect; 164.400&ndash;414) requires the practice to notify
         affected individuals without unreasonable delay and no later than 60 days after discovery.
         If the breach affects more than 500 individuals, the practice must also notify the
         Department of Health and Human Services and prominent media outlets. The cost of these

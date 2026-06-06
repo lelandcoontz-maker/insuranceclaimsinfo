@@ -472,7 +472,7 @@ export default function Content() {
           disputes. Search for their insurance coverage publications.
         </li>
         <li>
-          <strong>California Insurance Code &sect;11580 et seq.</strong> &mdash; California&rsquo;s
+          <strong>California Insurance Code &sect; 11580 et seq.</strong> &mdash; California&rsquo;s
           statutory framework for insurance policy requirements, available through the California
           Legislative Information website (leginfo.legislature.ca.gov).
         </li>

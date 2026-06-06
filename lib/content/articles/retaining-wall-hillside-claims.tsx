@@ -227,7 +227,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, ACC clauses are unenforceable when a covered peril is the efficient
-        proximate cause of the loss. California Insurance Code &sect;530 provides that an insurer
+        proximate cause of the loss. California Insurance Code &sect; 530 provides that an insurer
         is liable for a loss of which the covered peril is the proximate cause, even though the
         excluded peril may have been a remote cause. Courts have consistently held that
         contractual ACC language cannot override this statutory rule. This is a critical
@@ -516,7 +516,7 @@ export default function Content() {
           issues a denial letter citing the earth movement exclusion without ever investigating
           what caused the earth to move. This is the most common tactic and the most problematic.
           California&rsquo;s fair claims settlement practices (Cal. Code Regs., tit. 10,
-          &sect;2695.7(d)) require the carrier to conduct a thorough investigation before denying
+          &sect; 2695.7(d)) require the carrier to conduct a thorough investigation before denying
           a claim. A denial based on the earth movement exclusion without investigating the cause
           of the earth movement is arguably a violation of these regulations.
         </li>

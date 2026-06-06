@@ -104,8 +104,8 @@ export default function Content() {
         Knob-and-Tube: Cannot Be Buried in Insulation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        NEC &sect;394.12 prohibits new K&amp;T installations entirely. More critically for
-        claims purposes, NEC &sect;394.12(B) prohibits K&amp;T wiring in hollow spaces where
+        NEC &sect; 394.12 prohibits new K&amp;T installations entirely. More critically for
+        claims purposes, NEC &sect; 394.12(B) prohibits K&amp;T wiring in hollow spaces where
         it is &ldquo;concealed by insulation,&rdquo; and the California Electrical Code
         enforces this provision. When a fire or water loss requires replacing insulation in
         walls or attic spaces where K&amp;T wiring is present, the wiring must be replaced
@@ -323,7 +323,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Cite the specific code provisions.</strong> Reference the California
-          Electrical Code (Title 24, Part 3), NEC &sect;394.12 (prohibition on K&amp;T in
+          Electrical Code (Title 24, Part 3), NEC &sect; 394.12 (prohibition on K&amp;T in
           insulated spaces), and any local amendments. This puts the carrier on notice that
           the requirements are mandatory, not discretionary.
         </li>
@@ -331,7 +331,7 @@ export default function Content() {
           <strong>Request the carrier&rsquo;s denial in writing.</strong> If the adjuster
           verbally tells you the rewiring is &ldquo;not covered,&rdquo; demand a written
           denial citing the specific policy language they rely on. California&rsquo;s Fair
-          Claims Settlement Practices regulations (10 CCR &sect;2695.7(b)) require written
+          Claims Settlement Practices regulations (10 CCR &sect; 2695.7(b)) require written
           explanations for coverage denials or limitations.
         </li>
       </ul>
@@ -358,7 +358,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Arc-Fault Circuit Interrupter (AFCI) protection</strong> &mdash; NEC
-          &sect;210.12 requires AFCI protection on virtually all 15- and 20-ampere branch
+          &sect; 210.12 requires AFCI protection on virtually all 15- and 20-ampere branch
           circuits in dwelling units. If circuits are being replaced or significantly altered,
           AFCI breakers or outlets will likely be required.
         </li>
@@ -381,7 +381,7 @@ export default function Content() {
           system may need upgrading.
         </li>
         <li>
-          <strong>Tamper-resistant receptacles</strong> &mdash; NEC &sect;406.12 requires
+          <strong>Tamper-resistant receptacles</strong> &mdash; NEC &sect; 406.12 requires
           tamper-resistant receptacles in all dwelling unit locations. Any new receptacles
           installed as part of the rewiring must be tamper-resistant.
         </li>

@@ -97,7 +97,7 @@ export default function Content() {
           <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">
             Fair Claims Settlement Practices
           </Link>{' '}
-          (10 CCR &sect;2695.7(d)), the insurer must provide the basis for its coverage
+          (10 CCR &sect; 2695.7(d)), the insurer must provide the basis for its coverage
           decision, including expert reports and the documents relied upon. If the assignment
           letter limited the scope of the investigation, that limitation is itself evidence of
           a biased process.
@@ -411,7 +411,7 @@ export default function Content() {
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
           <strong>Get the full report.</strong> The insurer must provide you a copy of the expert&apos;s
-          report. Under California&apos;s Fair Claims Settlement Practices (10 CCR &sect;2695.7(d)),
+          report. Under California&apos;s Fair Claims Settlement Practices (10 CCR &sect; 2695.7(d)),
           the insurer must provide the basis for any denial, including expert reports relied upon.
           Request all photos, measurements, field notes, the assignment letter, and any
           pre-inspection communications &mdash; not just the summary letter.

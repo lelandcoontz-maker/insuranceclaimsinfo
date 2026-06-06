@@ -137,13 +137,13 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="California Law on Post-Loss Assignments">
         <p>
-          California Insurance Code &sect;520 is actually a sword for the seller, not a shield
+          California Insurance Code &sect; 520 is actually a sword for the seller, not a shield
           for the carrier. It provides: &ldquo;An agreement not to transfer the claim of the
           insured against the insurer after a loss has happened, is void if made before the
           loss.&rdquo; In plain language: pre-loss anti-assignment clauses in the policy cannot
           be enforced to block post-loss transfers of the claim. Post-loss assignment of the
           right to proceeds is treated as assignment of a chose in action under California
-          Civil Code &sect;954, which permits free transferability. The carrier&apos;s consent
+          Civil Code &sect; 954, which permits free transferability. The carrier&apos;s consent
           is not required for a post-loss assignment.
         </p>
       </CalloutBox>
@@ -282,7 +282,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California law requires sellers to disclose known material defects and conditions that
         affect the property. The Transfer Disclosure Statement (TDS), required under California
-        Civil Code &sect;1102, asks sellers to disclose known defects, alterations, and other
+        Civil Code &sect; 1102, asks sellers to disclose known defects, alterations, and other
         conditions. A pending insurance claim for property damage is exactly the kind of
         information that must be disclosed.
       </p>
@@ -306,11 +306,11 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="California Disclosure Law">
         <p>
-          Under California Civil Code &sect;1102.6, the Transfer Disclosure Statement requires
+          Under California Civil Code &sect; 1102.6, the Transfer Disclosure Statement requires
           the seller to disclose &ldquo;any significant defects/malfunctions&rdquo; in
           specified systems and to disclose other known material facts. A pending insurance
           claim for property damage is a material fact. Also, California Civil Code
-          &sect;1102.13 specifically asks whether the seller is aware of any insurance claims
+          &sect; 1102.13 specifically asks whether the seller is aware of any insurance claims
           filed within the past five years. Failing to disclose is not a viable strategy
           &mdash; it creates liability that far exceeds any benefit.
         </p>

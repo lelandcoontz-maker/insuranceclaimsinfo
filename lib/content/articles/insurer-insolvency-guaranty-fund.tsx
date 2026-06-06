@@ -67,10 +67,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When the Insurance Commissioner determines that an insurer cannot be rehabilitated,
         the Commissioner petitions the court for an order of liquidation under California
-        Insurance Code &sect;1016. The court appoints the Commissioner as liquidator. All
+        Insurance Code &sect; 1016. The court appoints the Commissioner as liquidator. All
         policies issued by the insolvent insurer are cancelled &mdash; typically with 30
         days&rsquo; notice &mdash; and the company&rsquo;s remaining assets are marshalled
-        to pay claims in a priority order established by statute (Insurance Code &sect;1033).
+        to pay claims in a priority order established by statute (Insurance Code &sect; 1033).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In practice, the insolvent insurer&rsquo;s remaining assets rarely cover all
@@ -93,7 +93,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Insurance Guarantee Association was established under the California
-        Insurance Guarantee Association Act (Insurance Code &sect;1063 et seq.) to provide
+        Insurance Guarantee Association Act (Insurance Code &sect; 1063 et seq.) to provide
         a limited safety net for policyholders when their property and casualty insurer
         becomes insolvent. CIGA is not a government agency and is not funded by taxpayer
         dollars. It is a nonprofit association funded by assessments on all admitted property
@@ -110,7 +110,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         CIGA&rsquo;s maximum obligation per covered claim is $500,000 (Insurance Code
-        &sect;1063.1(c)(1)). This cap applies to the total amount payable on a claim,
+        &sect; 1063.1(c)(1)). This cap applies to the total amount payable on a claim,
         including all coverages under the policy. For many homeowners, this cap is adequate.
         But for policyholders with high-value homes, significant personal property, or
         large additional living expense needs, the $500,000 cap can leave a substantial gap.
@@ -136,7 +136,7 @@ export default function Content() {
         What CIGA Covers
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        CIGA covers &ldquo;covered claims&rdquo; as defined in Insurance Code &sect;1063.1.
+        CIGA covers &ldquo;covered claims&rdquo; as defined in Insurance Code &sect; 1063.1.
         A covered claim must meet several requirements:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -253,7 +253,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Also, CIGA has broad discretion in how it handles covered claims, including
         the ability to settle claims for amounts it deems appropriate within the statutory
-        framework. The Fair Claims Settlement Practices Regulations (10 CCR &sect;2695 et seq.)
+        framework. The Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695 et seq.)
         apply to CIGA&rsquo;s claims handling, but the practical reality is that disputing
         CIGA&rsquo;s decisions can be more difficult than disputing a regular insurer&rsquo;s
         decisions.
@@ -566,7 +566,7 @@ export default function Content() {
           consumer guidance on insurer insolvency.
         </li>
         <li>
-          <strong>California Insurance Code &sect;1063 et seq.</strong> &mdash; The California
+          <strong>California Insurance Code &sect; 1063 et seq.</strong> &mdash; The California
           Insurance Guarantee Association Act, available through the California Legislative
           Information website (leginfo.legislature.ca.gov).
         </li>

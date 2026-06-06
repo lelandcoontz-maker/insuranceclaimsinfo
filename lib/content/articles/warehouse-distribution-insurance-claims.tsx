@@ -120,8 +120,8 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         California law imposes specific duties on warehouse operators (&ldquo;warehousemen&rdquo;)
-        under the California Commercial Code, Division 7, Part 2 (commencing with &sect;7201).
-        Under &sect;7204, a warehouse operator is liable for loss of or injury to goods caused
+        under the California Commercial Code, Division 7, Part 2 (commencing with &sect; 7201).
+        Under &sect; 7204, a warehouse operator is liable for loss of or injury to goods caused
         by the operator&rsquo;s failure to exercise the care that a reasonably careful person
         would exercise in regard to similar goods under similar circumstances. This is a
         negligence standard &mdash; the operator is not an absolute insurer of the goods. But
@@ -183,7 +183,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Warehouse receipts</strong> &mdash; under California Commercial Code
-          &sect;7202, a warehouse operator must issue a warehouse receipt for goods received
+          &sect; 7202, a warehouse operator must issue a warehouse receipt for goods received
           for storage. This receipt describes the goods, their quantity, and the conditions of
           storage. The warehouse receipt is the primary legal document establishing what goods
           were in the facility.

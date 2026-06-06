@@ -36,10 +36,10 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Insurance agent (California Insurance Code &sect;31):</strong> An insurance agent is appointed by and represents the insurance company. The agent acts as the carrier&rsquo;s representative in soliciting, negotiating, and selling policies. The agent&rsquo;s primary loyalty is to the carrier, though the agent also owes duties to the policyholder.
+          <strong>Insurance agent (California Insurance Code &sect; 31):</strong> An insurance agent is appointed by and represents the insurance company. The agent acts as the carrier&rsquo;s representative in soliciting, negotiating, and selling policies. The agent&rsquo;s primary loyalty is to the carrier, though the agent also owes duties to the policyholder.
         </li>
         <li>
-          <strong>Insurance broker (California Insurance Code &sect;33):</strong> An insurance broker acts on behalf of the policyholder, not the carrier. The broker&rsquo;s role is to find appropriate coverage for the client by shopping among multiple carriers. Because the broker represents the policyholder&rsquo;s interests, the broker&rsquo;s duty of care is generally considered higher than that of a captive agent.
+          <strong>Insurance broker (California Insurance Code &sect; 33):</strong> An insurance broker acts on behalf of the policyholder, not the carrier. The broker&rsquo;s role is to find appropriate coverage for the client by shopping among multiple carriers. Because the broker represents the policyholder&rsquo;s interests, the broker&rsquo;s duty of care is generally considered higher than that of a captive agent.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -164,7 +164,7 @@ export default function Content() {
         Statute of Limitations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, the statute of limitations for a professional negligence claim against an insurance agent or broker is governed by California Code of Civil Procedure &sect;339, which provides a <strong>two-year</strong> limitations period for actions based on a liability &ldquo;not founded upon an instrument in writing.&rdquo; Most courts have applied the two-year statute to agent and broker negligence claims.
+        In California, the statute of limitations for a professional negligence claim against an insurance agent or broker is governed by California Code of Civil Procedure &sect; 339, which provides a <strong>two-year</strong> limitations period for actions based on a liability &ldquo;not founded upon an instrument in writing.&rdquo; Most courts have applied the two-year statute to agent and broker negligence claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The critical question is when the limitations period begins to run. Under the &ldquo;discovery rule,&rdquo; the statute does not begin until the policyholder discovers, or through reasonable diligence should have discovered, the facts constituting the wrongful act. In underinsurance cases, this typically means the limitations period starts when the policyholder learns that their coverage is inadequate &mdash; usually when the claim is filed and the coverage gap becomes apparent.
@@ -223,16 +223,16 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Licensing requirements (Insurance Code &sect;1631 et seq.):</strong> All persons soliciting, negotiating, or selling insurance in California must hold the appropriate license. An unlicensed individual who places insurance and the client is later underinsured faces additional liability exposure.
+          <strong>Licensing requirements (Insurance Code &sect; 1631 et seq.):</strong> All persons soliciting, negotiating, or selling insurance in California must hold the appropriate license. An unlicensed individual who places insurance and the client is later underinsured faces additional liability exposure.
         </li>
         <li>
-          <strong>Continuing education (Insurance Code &sect;1749):</strong> California requires licensed agents and brokers to complete continuing education requirements as a condition of license renewal. Failure to maintain competency through continuing education may be evidence of negligence.
+          <strong>Continuing education (Insurance Code &sect; 1749):</strong> California requires licensed agents and brokers to complete continuing education requirements as a condition of license renewal. Failure to maintain competency through continuing education may be evidence of negligence.
         </li>
         <li>
-          <strong>Record keeping (California Code of Regulations, Title 10, &sect;2190 et seq.):</strong> Agents and brokers are required to maintain records of insurance transactions. These records may be critical evidence in establishing what the agent recommended, what the client requested, and what coverage was ultimately procured.
+          <strong>Record keeping (California Code of Regulations, Title 10, &sect; 2190 et seq.):</strong> Agents and brokers are required to maintain records of insurance transactions. These records may be critical evidence in establishing what the agent recommended, what the client requested, and what coverage was ultimately procured.
         </li>
         <li>
-          <strong>Disclosure obligations:</strong> California Insurance Code &sect;1724.5 requires insurance agents and brokers to disclose their role (agent vs. broker) and who they represent. This disclosure is relevant to determining whether the heightened duty associated with a broker&rsquo;s fiduciary-like role applies.
+          <strong>Disclosure obligations:</strong> California Insurance Code &sect; 1724.5 requires insurance agents and brokers to disclose their role (agent vs. broker) and who they represent. This disclosure is relevant to determining whether the heightened duty associated with a broker&rsquo;s fiduciary-like role applies.
         </li>
       </ul>
 

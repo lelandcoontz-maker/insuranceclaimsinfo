@@ -286,7 +286,7 @@ export default function Content() {
           <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
             Fair Claims Settlement Practices Regulations
           </Link>{' '}
-          (10 CCR &sect;2695.7(b)), the insurer must still accept or deny the claim within 40
+          (10 CCR &sect; 2695.7(b)), the insurer must still accept or deny the claim within 40
           calendar days after receiving proof of claim &mdash; unless the investigation cannot
           reasonably be completed in that time, in which case the insurer must provide written
           notice every 30 days explaining why and specifying what additional information is needed.
@@ -299,7 +299,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most misunderstood aspects of reservation of rights letters is their
-        relationship to the coverage determination timeline under 10 CCR &sect;2695.7(b). Some
+        relationship to the coverage determination timeline under 10 CCR &sect; 2695.7(b). Some
         carriers treat the ROR letter as if it suspends all deadlines indefinitely. It does not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -370,7 +370,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Monitor the timeline:</strong> Track the 40-day acceptance/denial deadline under
-          10 CCR &sect;2695.7(b) and the 30-day status update requirement. If the carrier goes
+          10 CCR &sect; 2695.7(b) and the 30-day status update requirement. If the carrier goes
           silent, send a written demand for a status update citing the regulation.
         </li>
       </ol>
@@ -423,7 +423,7 @@ export default function Content() {
           carrier&rsquo;s right to contest coverage while the claim continues.
         </li>
         <li>
-          The carrier must still comply with all regulatory timelines under 10 CCR &sect;2695.7(b),
+          The carrier must still comply with all regulatory timelines under 10 CCR &sect; 2695.7(b),
           including the 40-day acceptance/denial deadline and 30-day status updates.
         </li>
         <li>

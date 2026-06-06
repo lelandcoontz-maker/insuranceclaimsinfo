@@ -422,7 +422,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="You Have the Right to Choose Your Own Contractor">
         <p>
           In California, no insurer shall require that the insured have the property
-          repaired by a specific individual or entity (10 CCR &sect;2695.9(b)). Your
+          repaired by a specific individual or entity (10 CCR &sect; 2695.9(b)). Your
           carrier may recommend its preferred vendors, but it cannot force you to use
           them. Read more about{' '}
           <Link href="/resources/choosing-your-contractor" className="text-[#2E74B5] underline">
@@ -607,12 +607,12 @@ export default function Content() {
         <li>
           <strong>Timely communication</strong> &mdash; Insurers must acknowledge receipt
           of a claim within 15 calendar days and begin investigation immediately (10 CCR
-          &sect;2695.5(e)).
+          &sect; 2695.5(e)).
         </li>
         <li>
           <strong>Prompt acceptance or denial</strong> &mdash; Upon receiving proof of
           claim, the insurer must accept or deny the claim within 40 calendar days (10 CCR
-          &sect;2695.7(b)).
+          &sect; 2695.7(b)).
         </li>
         <li>
           <strong>Prompt payment</strong> &mdash; Upon acceptance, the insurer must tender
@@ -621,31 +621,31 @@ export default function Content() {
         <li>
           <strong>No forced vendor selection</strong> &mdash; No insurer shall require the
           insured to have property repaired by a specific individual or entity (10 CCR
-          &sect;2695.9(b)).
+          &sect; 2695.9(b)).
         </li>
         <li>
           <strong>Fair investigation</strong> &mdash; The insurer must conduct a thorough,
           fair, and objective investigation sufficient to determine coverage (10 CCR
-          &sect;2695.7(d)).
+          &sect; 2695.7(d)).
         </li>
         <li>
           <strong>Written explanation required</strong> &mdash; Any denial or partial
           denial must include a written explanation of every basis for the decision, with
-          reference to the specific policy provisions (10 CCR &sect;2695.7(b)(1)).
+          reference to the specific policy provisions (10 CCR &sect; 2695.7(b)(1)).
         </li>
         <li>
           <strong>No misrepresentation of policy provisions</strong> &mdash; The insurer
           shall not misrepresent pertinent facts or policy provisions relating to coverage
-          at issue (10 CCR &sect;2695.4).
+          at issue (10 CCR &sect; 2695.4).
         </li>
         <li>
           <strong>Measurement and scope standards</strong> &mdash; For first-party
           residential property claims, the insurer must conduct a thorough, fair, and
-          objective investigation of the claim (10 CCR &sect;2695.7(d)), and any
+          objective investigation of the claim (10 CCR &sect; 2695.7(d)), and any
           estimate prepared by or for the insurer must be of an amount that will
           restore the damaged property to no less than its pre-loss condition and
           meet accepted trade standards for good and workmanlike construction (10
-          CCR &sect;2695.9(d)). Together these provisions require accurate
+          CCR &sect; 2695.9(d)). Together these provisions require accurate
           measurements and a detailed scope of damage.
         </li>
       </ul>
@@ -727,7 +727,7 @@ export default function Content() {
           impose specific obligations on the carrier. Cite them. When the carrier misses
           the 40-day acceptance deadline, say so in writing. When the carrier fails to
           provide a written explanation for a denial, demand one with a citation to 10 CCR
-          &sect;2695.7(b)(1).
+          &sect; 2695.7(b)(1).
         </li>
         <li>
           <strong>Get your own estimate</strong> &mdash; Do not rely on the

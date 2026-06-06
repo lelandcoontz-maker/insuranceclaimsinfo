@@ -110,7 +110,7 @@ export default function Content() {
         undisturbed, they do not necessarily pose a hazard and can remain in place
         indefinitely. But when a covered loss requires that asbestos-containing materials
         be disturbed, removed, or repaired, OSHA regulations (29 CFR 1926.1101) and
-        Cal/OSHA regulations (Cal. Code Regs., tit. 8, &sect;1529) require that the
+        Cal/OSHA regulations (Cal. Code Regs., tit. 8, &sect; 1529) require that the
         work be performed by licensed asbestos abatement contractors using specific
         containment, removal, and disposal procedures.
       </p>
@@ -320,7 +320,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Hazardous materials surveys:</strong> California Health and Safety Code
-          &sect;25915 et seq. may require a hazardous materials survey before demolition or
+          &sect; 25915 et seq. may require a hazardous materials survey before demolition or
           renovation work begins. The survey identifies asbestos, lead, and other regulated
           materials, and the results determine the scope of required abatement work under
           both Cal/OSHA and environmental regulations.
@@ -334,7 +334,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Structural safety:</strong> Cal/OSHA&rsquo;s construction safety orders
-          (Cal. Code Regs., tit. 8, &sect;1500 et seq.) impose requirements for structural
+          (Cal. Code Regs., tit. 8, &sect; 1500 et seq.) impose requirements for structural
           shoring, bracing, and protection during repair work that overlap with the
           California Building Code&rsquo;s structural requirements for the finished repair.
         </li>

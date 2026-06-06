@@ -67,7 +67,7 @@ export default function Content() {
           <strong>Hazmat response:</strong> If the fire involves hazardous materials &mdash;
           chemicals, fuel, asbestos disturbance, or other regulated substances &mdash; the fire
           department&rsquo;s hazmat team response is often billed separately, regardless of
-          jurisdiction. California Health &amp; Safety Code &sect;25354 authorizes cost recovery
+          jurisdiction. California Health &amp; Safety Code &sect; 25354 authorizes cost recovery
           for hazardous substance emergency responses.
         </li>
         <li>
@@ -159,24 +159,24 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California law gives local jurisdictions broad authority to order the repair or demolition
         of unsafe buildings. The primary statutory framework is found in California Health &amp;
-        Safety Code &sect;17920 et seq., which defines &ldquo;substandard buildings&rdquo; and
+        Safety Code &sect; 17920 et seq., which defines &ldquo;substandard buildings&rdquo; and
         authorizes local enforcement agencies to order abatement, repair, or demolition. Key
         provisions include:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Health &amp; Safety Code &sect;17920.3:</strong> Defines the conditions that
+          <strong>Health &amp; Safety Code &sect; 17920.3:</strong> Defines the conditions that
           render a building &ldquo;substandard,&rdquo; including structural hazards, inadequate
           sanitation, fire hazards, and conditions that endanger the life, health, or safety of
           the public or occupants.
         </li>
         <li>
-          <strong>Health &amp; Safety Code &sect;17980:</strong> Authorizes the enforcement agency
+          <strong>Health &amp; Safety Code &sect; 17980:</strong> Authorizes the enforcement agency
           to issue notices to repair or demolish substandard buildings and to institute court
           proceedings if the owner does not comply.
         </li>
         <li>
-          <strong>Government Code &sect;25845 (counties) and &sect;38773 (cities):</strong> Provide
+          <strong>Government Code &sect; 25845 (counties) and &sect; 38773 (cities):</strong> Provide
           additional authority for local governments to order the removal or demolition of dangerous
           buildings and to recover the cost from the property owner if the owner fails to comply.
         </li>
@@ -395,7 +395,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="California Regulations Require Prompt Investigation">
         <p>
-          Under California Code of Regulations, Title 10, &sect;2695.7(b), the carrier must
+          Under California Code of Regulations, Title 10, &sect; 2695.7(b), the carrier must
           accept or deny a claim within 40 calendar days after receiving proof of claim. When a
           government demolition order imposes a shorter deadline, you have a strong argument that
           the carrier must expedite its investigation to accommodate the government timeline. If

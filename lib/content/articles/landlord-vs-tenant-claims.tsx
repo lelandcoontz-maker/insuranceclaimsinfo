@@ -465,7 +465,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Fair claims regulations.</strong> California&rsquo;s Fair Claims Settlement
-          Practices Regulations (California Code of Regulations, Title 10, &sect;2695.1 et seq.)
+          Practices Regulations (California Code of Regulations, Title 10, &sect; 2695.1 et seq.)
           apply to both the landlord&rsquo;s and tenant&rsquo;s claims. Insurers must acknowledge
           claims promptly, investigate thoroughly, and pay undisputed amounts without delay &mdash;
           regardless of whether the policyholder is a landlord or a tenant.

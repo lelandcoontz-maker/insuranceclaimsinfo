@@ -148,7 +148,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Northridge litigation was so consequential that the California Legislature enacted Code
-        of Civil Procedure &sect;340.9 in 2000, which revived Northridge earthquake insurance claims
+        of Civil Procedure &sect; 340.9 in 2000, which revived Northridge earthquake insurance claims
         that had been barred by the statute of limitations. Attorneys recovered over $250 million in
         total settlements related to Northridge earthquake bad faith claims.
       </p>
@@ -587,7 +587,7 @@ export default function Content() {
           because CDI has historically scrutinized such provisions during the rate approval process.
         </li>
         <li>
-          California Insurance Code &sect;11580.2 mandates arbitration for certain uninsured
+          California Insurance Code &sect; 11580.2 mandates arbitration for certain uninsured
           motorist disputes but does not extend that mandate to property insurance claims.
         </li>
       </ul>

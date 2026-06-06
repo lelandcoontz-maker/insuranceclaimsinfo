@@ -224,7 +224,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A medical spa (medspa) occupies a regulatory and insurance no-man&rsquo;s-land between a
         traditional day spa and a medical clinic. In California, medical spas must operate under
-        the supervision of a licensed physician (Business &amp; Professions Code &sect;2052 prohibits
+        the supervision of a licensed physician (Business &amp; Professions Code &sect; 2052 prohibits
         the practice of medicine without a license). The physician may be an owner, medical
         director, or supervising physician, but medical procedures &mdash; including laser
         treatments, injectables, prescription-strength chemical peels, and any procedure that
@@ -371,7 +371,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The problem is California&rsquo;s <strong>ABC test</strong> (Labor Code &sect;2775), which
+        The problem is California&rsquo;s <strong>ABC test</strong> (Labor Code &sect; 2775), which
         presumes all workers are employees unless the hiring entity demonstrates all three prongs:
         (A) the worker is free from the control and direction of the hiring entity, (B) the worker
         performs work outside the usual course of the hiring entity&rsquo;s business, and (C) the
@@ -395,7 +395,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Nail salons in particular face significant OSHA chemical safety requirements. Cal/OSHA
         regulates workplace chemical exposure under Title 8, California Code of Regulations,
-        &sect;5155 (Airborne Contaminants) and the Hazard Communication Standard (&sect;5194).
+        &sect; 5155 (Airborne Contaminants) and the Hazard Communication Standard (&sect; 5194).
         Salon owners are required to:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -418,7 +418,7 @@ export default function Content() {
         California Board of Barbering and Cosmetology Licensing
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Business &amp; Professions Code &sect;7316 et seq. establishes licensing
+        California Business &amp; Professions Code &sect; 7316 et seq. establishes licensing
         requirements for barbers, cosmetologists, estheticians, manicurists, and establishments.
         The California Board of Barbering and Cosmetology (BBC) inspects salons for health and
         safety compliance. Insurance implications of BBC requirements include:
@@ -438,7 +438,7 @@ export default function Content() {
           practice.
         </li>
         <li>
-          <strong>Sanitation requirements:</strong> BBC regulations (Title 16, CCR &sect;977
+          <strong>Sanitation requirements:</strong> BBC regulations (Title 16, CCR &sect; 977
           et seq.) require specific sanitation procedures for tools, equipment, and workstations.
           Failure to comply can result in citations, fines, and temporary closure. A
           contamination event (such as a client contracting a fungal or bacterial infection from
@@ -521,7 +521,7 @@ export default function Content() {
         <li>
           <strong>Cyber liability:</strong> Salons collect client payment information, contact
           details, and (in medical spas) health information. A data breach triggers notification
-          requirements under California Civil Code &sect;1798.82 and potential HIPAA implications
+          requirements under California Civil Code &sect; 1798.82 and potential HIPAA implications
           for medical spas.
         </li>
         <li>

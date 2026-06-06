@@ -58,9 +58,9 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Most California homeowners policies contain a one-year suit limitation derived from
-        California Insurance Code &sect;2071. Some policies provide two years (and losses
+        California Insurance Code &sect; 2071. Some policies provide two years (and losses
         related to a declared state of emergency automatically get 24 months under the
-        current version of &sect;2071). Either way, equitable tolling applies the same way:
+        current version of &sect; 2071). Either way, equitable tolling applies the same way:
         the clock is <strong>paused</strong> during the insurer&rsquo;s active investigation
         and <strong>resumes</strong> when the insurer formally denies the claim in writing.
         The remaining time &mdash; however much was left when tolling began &mdash; is what
@@ -180,7 +180,7 @@ export default function Content() {
         situation where an insurer <strong>expressly agrees to reopen the claim and
         conducts a new investigation</strong>. In <em>Ashou</em>, Liberty Mutual had
         settled a Northridge earthquake claim in 1994 for $52,000. When the insured later
-        sought reconsideration under a special statute (CCP &sect;340.9), Liberty Mutual
+        sought reconsideration under a special statute (CCP &sect; 340.9), Liberty Mutual
         agreed to reopen the claim and conducted a new investigation &mdash; it did not just
         rubber-stamp the old denial. The court held that equitable tolling applied during
         this new investigation period because the insurer&rsquo;s conduct demonstrated it
@@ -214,7 +214,7 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">
           Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (10 CCR &sect;2695.7(c)), an insurer that cannot accept or deny a claim within 40 days
+        (10 CCR &sect; 2695.7(c)), an insurer that cannot accept or deny a claim within 40 days
         must send the policyholder a written status letter every 30 days explaining why
         additional time is needed. These status letters have significant implications for
         equitable tolling.
@@ -309,7 +309,7 @@ export default function Content() {
         and they are <strong>required to answer</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under 10 CCR &sect;2695.7(f), every insurer must provide written notice of any
+        Under 10 CCR &sect; 2695.7(f), every insurer must provide written notice of any
         statute of limitation or other time-period requirement upon which the insurer
         may rely to deny a claim. This notice must be given to the claimant not less
         than 60 days before the expiration date. If the insurer receives the claim within
@@ -329,7 +329,7 @@ export default function Content() {
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
           If you are considering hiring an attorney but have not yet done so, consider
           sending a written request to the insurer asking for a clear statement of when
-          your statute of limitations expires. Under 10 CCR &sect;2695.7(f), they must
+          your statute of limitations expires. Under 10 CCR &sect; 2695.7(f), they must
           answer you as an unrepresented claimant.
         </p>
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
@@ -358,7 +358,7 @@ export default function Content() {
         expires and then take additional time to serve it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Code of Civil Procedure &sect;583.210 gives the plaintiff three years
+        California Code of Civil Procedure &sect; 583.210 gives the plaintiff three years
         after filing to serve the summons and complaint. This means an attorney who is
         uncertain about the deadline, or who needs more time to negotiate, can file the
         complaint to stop the clock and then continue settlement discussions with the
@@ -463,11 +463,11 @@ export default function Content() {
         Policy Variations: One Year vs. Two Years
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While the standard California fire policy under Insurance Code &sect;2071 provides a
+        While the standard California fire policy under Insurance Code &sect; 2071 provides a
         one-year suit limitation, many homeowners policies actually provide <strong>two years
         </strong> from the date of loss. This is common in broader-form HO-3 and HO-5 policies.
-        Also, under the current version of &sect;2071, any loss related to a
-        &ldquo;state of emergency&rdquo; as defined in Government Code &sect;8558(b) &mdash;
+        Also, under the current version of &sect; 2071, any loss related to a
+        &ldquo;state of emergency&rdquo; as defined in Government Code &sect; 8558(b) &mdash;
         which includes conditions of disaster or extreme peril caused by fire &mdash;
         automatically receives a 24-month limitation period.
       </p>
@@ -607,13 +607,13 @@ export default function Content() {
         </li>
         <li>
           <strong>Ask the insurer about your deadline while you are still unrepresented.</strong>{' '}
-          Under 10 CCR &sect;2695.7(f), they must answer. Once you hire an attorney, they
+          Under 10 CCR &sect; 2695.7(f), they must answer. Once you hire an attorney, they
           do not have to.
         </li>
         <li>
           <strong>If you are near the deadline, your attorney can file suit without
           serving</strong> to preserve the statute. This gives you up to three years to
-          serve under CCP &sect;583.210.
+          serve under CCP &sect; 583.210.
         </li>
         <li>
           <strong>If a claim closes and reopens, assume time ran during the closed
@@ -623,7 +623,7 @@ export default function Content() {
         <li>
           <strong>Check whether your policy gives one year or two.</strong> Many
           policies provide two years, and state-of-emergency losses get 24 months under
-          Insurance Code &sect;2071. More time is better, but equitable tolling still
+          Insurance Code &sect; 2071. More time is better, but equitable tolling still
           applies either way.
         </li>
       </ul>

@@ -39,27 +39,27 @@ export default function Content() {
             <tr className="bg-white">
               <td className="p-3 font-bold text-[#1F3964]">15 days</td>
               <td className="p-3">Acknowledge receipt of your claim in writing</td>
-              <td className="p-3 text-gray-500">10 CCR &sect;2695.5(e)</td>
+              <td className="p-3 text-gray-500">10 CCR &sect; 2695.5(e)</td>
             </tr>
             <tr className="bg-gray-50">
               <td className="p-3 font-bold text-[#1F3964]">15 days</td>
               <td className="p-3">Begin investigation of the claim</td>
-              <td className="p-3 text-gray-500">10 CCR &sect;2695.7(a)</td>
+              <td className="p-3 text-gray-500">10 CCR &sect; 2695.7(a)</td>
             </tr>
             <tr className="bg-white">
               <td className="p-3 font-bold text-[#1F3964]">40 days</td>
               <td className="p-3">Accept or deny the claim (after receiving proof of claim)</td>
-              <td className="p-3 text-gray-500">10 CCR &sect;2695.7(b)</td>
+              <td className="p-3 text-gray-500">10 CCR &sect; 2695.7(b)</td>
             </tr>
             <tr className="bg-gray-50">
               <td className="p-3 font-bold text-[#1F3964]">30 days</td>
               <td className="p-3">Pay undisputed amounts after agreement is reached</td>
-              <td className="p-3 text-gray-500">10 CCR &sect;2695.7(h)</td>
+              <td className="p-3 text-gray-500">10 CCR &sect; 2695.7(h)</td>
             </tr>
             <tr className="bg-white">
               <td className="p-3 font-bold text-[#1F3964]">Every 30 days</td>
               <td className="p-3">Provide written status update if claim remains open</td>
-              <td className="p-3 text-gray-500">10 CCR &sect;2695.7(c)(1)</td>
+              <td className="p-3 text-gray-500">10 CCR &sect; 2695.7(c)(1)</td>
             </tr>
           </tbody>
         </table>
@@ -88,7 +88,7 @@ export default function Content() {
       <h3 className="text-xl font-bold text-gray-900 mb-3">During Investigation</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Conduct a reasonable and thorough investigation.</li>
-        <li>Not deny a claim without first conducting an adequate investigation (10 CCR &sect;2695.7(d)).</li>
+        <li>Not deny a claim without first conducting an adequate investigation (10 CCR &sect; 2695.7(d)).</li>
         <li>Not request documentation that is irrelevant to the claim.</li>
         <li>Provide written status updates every 30 days if investigation is ongoing.</li>
         <li>Complete the investigation and accept or deny within 40 days of receiving your proof of claim.</li>
@@ -96,17 +96,17 @@ export default function Content() {
 
       <h3 className="text-xl font-bold text-gray-900 mb-3">When They Make a Decision</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>If denied: provide a written denial citing the specific policy provision, statute, or factual basis (10 CCR &sect;2695.7(b)(1)).</li>
+        <li>If denied: provide a written denial citing the specific policy provision, statute, or factual basis (10 CCR &sect; 2695.7(b)(1)).</li>
         <li>If partially denied: pay the undisputed portion immediately and explain in writing why the rest is disputed.</li>
         <li>If accepted: pay undisputed amounts within 30 days of agreement.</li>
-        <li>Explain in writing how the payment amount was calculated (10 CCR &sect;2695.9).</li>
+        <li>Explain in writing how the payment amount was calculated (10 CCR &sect; 2695.9).</li>
       </ul>
 
       <h3 className="text-xl font-bold text-gray-900 mb-3">When They Pay</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Provide itemized documentation showing how the amount was determined.</li>
         <li>Not condition payment on release of the entire claim if amounts remain in dispute.</li>
-        <li>Not delay payment of undisputed amounts to pressure you on disputed amounts (Insurance Code &sect;790.03(h)(5); 10 CCR &sect;2695.7(h)).</li>
+        <li>Not delay payment of undisputed amounts to pressure you on disputed amounts (Insurance Code &sect; 790.03(h)(5); 10 CCR &sect; 2695.7(h)).</li>
         <li>On replacement cost policies: pay ACV promptly, then pay the depreciation holdback after repairs are completed.</li>
       </ul>
 
@@ -114,7 +114,7 @@ export default function Content() {
         What They Are Prohibited From Doing
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect;790.03 and 10 CCR &sect;2695, the insurer
+        Under California Insurance Code &sect; 790.03 and 10 CCR &sect; 2695, the insurer
         may not:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -165,9 +165,9 @@ export default function Content() {
         After a state or federal disaster declaration, additional requirements apply:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Minimum 24-month ALE period for state-of-emergency losses (Insurance Code &sect;2060(b)(1)).</li>
+        <li>Minimum 24-month ALE period for state-of-emergency losses (Insurance Code &sect; 2060(b)(1)).</li>
         <li>Cannot impose policy-deadline restrictions on collecting the depreciation holdback that are shorter than the statutory minimums in Insurance Code §2051.5 (12 months standard; 36 months for state-of-emergency losses, with 6-month extensions for good cause). Whether the insurer can also condition the holdback on a signed construction contract is policy-language specific — consult an attorney if your carrier insists on a contract you have not yet signed.</li>
-        <li>Must offer a contents payment of at least 30% of the dwelling limit (up to $250,000) without requiring an itemized claim after a total loss from a state of emergency (Insurance Code &sect;10103.7).</li>
+        <li>Must offer a contents payment of at least 30% of the dwelling limit (up to $250,000) without requiring an itemized claim after a total loss from a state of emergency (Insurance Code &sect; 10103.7).</li>
         <li>Must provide an advance payment of at least 4 months of living expenses upon request after a total loss (CDI Bulletin 2025-2).</li>
       </ul>
 

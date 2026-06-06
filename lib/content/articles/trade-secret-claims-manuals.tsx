@@ -153,8 +153,8 @@ export default function Content() {
         This objection is often weak on its face. Insurance claims handling is one of the most
         heavily regulated activities in the industry. Carriers are required by law to follow
         specific claims handling procedures, including those established by California&rsquo;s
-        Fair Claims Settlement Practices Regulations (Cal. Code Regs., tit. 10, &sect;2695.1
-        et seq.) and the Unfair Insurance Practices Act (Cal. Ins. Code &sect;790.03). A
+        Fair Claims Settlement Practices Regulations (Cal. Code Regs., tit. 10, &sect; 2695.1
+        et seq.) and the Unfair Insurance Practices Act (Cal. Ins. Code &sect; 790.03). A
         manual that instructs adjusters to comply with these legal requirements contains nothing
         that could legitimately be called a trade secret &mdash; it is simply a restatement of
         regulatory obligations.
@@ -164,7 +164,7 @@ export default function Content() {
         California&rsquo;s Uniform Trade Secrets Act
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s Uniform Trade Secrets Act (Cal. Civ. Code &sect;3426 et seq.)
+        California&rsquo;s Uniform Trade Secrets Act (Cal. Civ. Code &sect; 3426 et seq.)
         defines a trade secret as information that derives independent economic value from
         not being generally known to the public or to other persons who can obtain economic
         value from its disclosure or use, and that is the subject of efforts that are
@@ -228,7 +228,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, discovery is broadly permitted under Code of Civil Procedure
-        &sect;2017.010, which allows discovery of any matter &ldquo;not privileged&rdquo; that
+        &sect; 2017.010, which allows discovery of any matter &ldquo;not privileged&rdquo; that
         is &ldquo;relevant to the subject matter&rdquo; of the action or &ldquo;reasonably
         calculated to lead to the discovery of admissible evidence.&rdquo; Claims manuals
         satisfy this standard in virtually any insurance coverage or bad faith case.
@@ -420,11 +420,11 @@ export default function Content() {
         </li>
         <li>
           <strong>California Uniform Trade Secrets Act</strong> &mdash; Cal. Civ. Code
-          &sect;3426 et seq., available through the California Legislative Information
+          &sect; 3426 et seq., available through the California Legislative Information
           website (leginfo.legislature.ca.gov).
         </li>
         <li>
-          <strong>California Code of Civil Procedure &sect;2017.010 et seq.</strong> &mdash;
+          <strong>California Code of Civil Procedure &sect; 2017.010 et seq.</strong> &mdash;
           California&rsquo;s civil discovery statutes, available through the California
           Legislative Information website.
         </li>

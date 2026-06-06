@@ -53,32 +53,32 @@ export default function Content() {
             <tr className="hover:bg-gray-50">
               <td className="px-4 py-3 text-gray-700">Acknowledge your claim</td>
               <td className="px-4 py-3 text-gray-900 font-medium">15 days</td>
-              <td className="px-4 py-3 text-gray-500">&sect;2695.5(e)</td>
+              <td className="px-4 py-3 text-gray-500">&sect; 2695.5(e)</td>
             </tr>
             <tr className="hover:bg-gray-50">
               <td className="px-4 py-3 text-gray-700">Begin investigation</td>
               <td className="px-4 py-3 text-gray-900 font-medium">15 days</td>
-              <td className="px-4 py-3 text-gray-500">&sect;2695.7(a)</td>
+              <td className="px-4 py-3 text-gray-500">&sect; 2695.7(a)</td>
             </tr>
             <tr className="hover:bg-gray-50">
               <td className="px-4 py-3 text-gray-700">Accept or deny your claim</td>
               <td className="px-4 py-3 text-gray-900 font-medium">40 days</td>
-              <td className="px-4 py-3 text-gray-500">&sect;2695.7(b)</td>
+              <td className="px-4 py-3 text-gray-500">&sect; 2695.7(b)</td>
             </tr>
             <tr className="hover:bg-gray-50">
               <td className="px-4 py-3 text-gray-700">Pay undisputed amounts after proof of claim</td>
               <td className="px-4 py-3 text-gray-900 font-medium">30 days</td>
-              <td className="px-4 py-3 text-gray-500">&sect;2695.7(h)</td>
+              <td className="px-4 py-3 text-gray-500">&sect; 2695.7(h)</td>
             </tr>
             <tr className="hover:bg-gray-50">
               <td className="px-4 py-3 text-gray-700">Respond to your communications</td>
               <td className="px-4 py-3 text-gray-900 font-medium">15 days</td>
-              <td className="px-4 py-3 text-gray-500">&sect;2695.5(b)</td>
+              <td className="px-4 py-3 text-gray-500">&sect; 2695.5(b)</td>
             </tr>
             <tr className="hover:bg-gray-50">
               <td className="px-4 py-3 text-gray-700">Provide written status if they need more time</td>
               <td className="px-4 py-3 text-gray-900 font-medium">Every 30 days</td>
-              <td className="px-4 py-3 text-gray-500">&sect;2695.7(c)(1)</td>
+              <td className="px-4 py-3 text-gray-500">&sect; 2695.7(c)(1)</td>
             </tr>
           </tbody>
         </table>
@@ -102,12 +102,12 @@ export default function Content() {
         <li>
           <strong>Cannot require you to use their contractor.</strong> You have the right to choose
           your own repair contractor. If you choose your own, the insurer must pay the reasonable
-          cost of those repairs &mdash; or offer the three-option procedure under &sect;2695.9(d).
+          cost of those repairs &mdash; or offer the three-option procedure under &sect; 2695.9(d).
         </li>
         <li>
           <strong>Cannot condition payment on a release.</strong> The insurer cannot refuse to pay
           undisputed amounts unless you sign a release waiving your right to claim additional money
-          later (&sect;2695.7(h)).
+          later (&sect; 2695.7(h)).
         </li>
         <li>
           <strong>Cannot pay less than their own estimate without explanation.</strong> If the
@@ -122,7 +122,7 @@ export default function Content() {
         <li>
           <strong>Cannot deny without a written explanation.</strong> Every denial or limitation must
           be in writing, must specify the policy language relied upon, and must state the factual
-          basis (&sect;2695.7(b)(1)).
+          basis (&sect; 2695.7(b)(1)).
         </li>
         <li>
           <strong>Cannot force you to accept their valuation to get paid.</strong> If you disagree
@@ -147,7 +147,7 @@ export default function Content() {
           not simply insist their number is correct.
         </li>
         <li>
-          <strong>Cannot depreciate labor in California.</strong> Under &sect;2695.9(f)(1), the
+          <strong>Cannot depreciate labor in California.</strong> Under &sect; 2695.9(f)(1), the
           insurer cannot withhold depreciation on labor costs. Depreciation applies to materials
           (which physically wear out), not labor (which does not age). If your insurer deducted
           depreciation from labor line items, that is a violation.
@@ -173,7 +173,7 @@ export default function Content() {
           their estimate exceeds the insurer&apos;s, the insurer must either: (1) pay your
           contractor&apos;s reasonable amount, (2) have the work done by their own contractor at no
           additional cost to you, or (3) if you haven&apos;t started repairs, pay based on a
-          competitively bid estimate using comparable materials (&sect;2695.9(d)).
+          competitively bid estimate using comparable materials (&sect; 2695.9(d)).
         </li>
         <li>
           <strong>Your choice of contractor.</strong> The insurer cannot require you to use their
@@ -224,7 +224,7 @@ export default function Content() {
         <li>
           <strong>Document every violation in writing.</strong> Send an email to the adjuster:
           &ldquo;It has been [X] days since I submitted [documentation]. Under 10 CCR
-          &sect;2695.7(b), you were required to accept or deny my claim within 40 days. Please
+          &sect; 2695.7(b), you were required to accept or deny my claim within 40 days. Please
           respond immediately.&rdquo;
         </li>
         <li>

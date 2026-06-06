@@ -76,7 +76,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Welfare and Institutions Code &sect;15610.70
+        Welfare and Institutions Code &sect; 15610.70
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Elder Abuse and Dependent Adult Civil Protection Act defines undue influence as
@@ -132,10 +132,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Probate Code &sect;86 and the Presumption of Undue Influence
+        Probate Code &sect; 86 and the Presumption of Undue Influence
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Probate Code &sect;86 defines &ldquo;undue influence&rdquo; by
+        California Probate Code &sect; 86 defines &ldquo;undue influence&rdquo; by
         incorporating the Welfare and Institutions Code definition for cases involving
         elders and dependent adults. But the Probate Code also preserves common law
         principles that apply broadly to transactions involving confidential relationships.
@@ -293,7 +293,7 @@ export default function Content() {
         <Link href="/resources/elder-abuse-insurance" className="text-[#2E74B5] hover:underline">
           financial elder abuse
         </Link>{' '}
-        under California law. Welfare and Institutions Code &sect;15610.30 defines financial
+        under California law. Welfare and Institutions Code &sect; 15610.30 defines financial
         abuse of an elder or dependent adult as occurring when a person or entity
         &ldquo;takes, secretes, appropriates, obtains, or retains real or personal property
         of an elder or dependent adult for a wrongful use or with intent to defraud, or
@@ -312,8 +312,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The significance of this overlap is the remedy. A simple contract claim to void a
         policy change may restore the status quo, but it does not compensate the victim for
-        the abuse itself. An elder abuse claim under &sect;15610.30, combined with the
-        enhanced remedies available under &sect;15657, triggers:
+        the abuse itself. An elder abuse claim under &sect; 15610.30, combined with the
+        enhanced remedies available under &sect; 15657, triggers:
       </p>
       <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
         <li>
@@ -340,7 +340,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Financial elder abuse is both a civil wrong and a criminal offense in California.
-        Penal Code &sect;368 makes it a crime to commit theft, embezzlement, forgery,
+        Penal Code &sect; 368 makes it a crime to commit theft, embezzlement, forgery,
         fraud, or identity theft against a person who is 65 years of age or older.
         Depending on the amount involved and the circumstances, criminal elder abuse can
         be charged as a misdemeanor or a felony, with felony penalties including up to four
@@ -474,15 +474,15 @@ export default function Content() {
         </li>
         <li>
           <strong>Aiding and abetting financial elder abuse</strong> &mdash; Under
-          Welfare and Institutions Code &sect;15610.30(a)(3), financial abuse includes
+          Welfare and Institutions Code &sect; 15610.30(a)(3), financial abuse includes
           situations where a person &ldquo;assists in&rdquo; the taking, secreting, or
           appropriation of an elder&rsquo;s property. An insurer that knowingly processes
           a tainted policy change may be found to have assisted in the financial abuse.
         </li>
         <li>
           <strong>Violation of the Unfair Insurance Practices Act</strong> &mdash;
-          Insurance Code &sect;790.03(h) prohibits unfair claims settlement practices,
-          and the broader framework of &sect;790.03 prohibits unfair and deceptive acts
+          Insurance Code &sect; 790.03(h) prohibits unfair claims settlement practices,
+          and the broader framework of &sect; 790.03 prohibits unfair and deceptive acts
           in the business of insurance. Processing policy changes procured by undue
           influence, when the insurer has reason to know of the taint, may constitute
           an unfair practice.
@@ -509,7 +509,7 @@ export default function Content() {
         The Agent&rsquo;s Fiduciary and Ethical Obligations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under general fiduciary duty principles and California Insurance Code &sect;790.03
+        Under general fiduciary duty principles and California Insurance Code &sect; 790.03
         &mdash; which prohibits unfair and deceptive acts in the business of insurance
         &mdash; insurance agents and brokers are expected to act in good faith in their
         insurance transactions. While the scope of an agent&rsquo;s fiduciary duty is
@@ -579,7 +579,7 @@ export default function Content() {
         The Statutory Framework
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Welfare and Institutions Code &sect;15630 establishes mandatory reporting
+        Welfare and Institutions Code &sect; 15630 establishes mandatory reporting
         obligations for specific categories of persons. Subsection (a) applies to
         &ldquo;care custodians,&rdquo; health practitioners, and employees of specified
         institutions. Subsection (b) applies more broadly to any person who has assumed
@@ -587,7 +587,7 @@ export default function Content() {
         dependent adult.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Welfare and Institutions Code &sect;15630.1 specifically addresses financial
+        Welfare and Institutions Code &sect; 15630.1 specifically addresses financial
         institutions. It requires &ldquo;mandated reporters of suspected financial abuse
         of an elder or dependent adult&rdquo; to report known or suspected financial
         abuse when the reporter &ldquo;has observed or has knowledge of behavior or
@@ -596,7 +596,7 @@ export default function Content() {
         that elder or dependent adult financial abuse has occurred or is occurring.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The term &ldquo;financial institution&rdquo; is defined in &sect;15610.40 to
+        The term &ldquo;financial institution&rdquo; is defined in &sect; 15610.40 to
         include banks, savings associations, credit unions, trust companies, and similar
         entities. Insurance companies are not explicitly listed as &ldquo;financial
         institutions&rdquo; under this specific section. However, the broader mandatory
@@ -615,7 +615,7 @@ export default function Content() {
       <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
         <li>
           <strong>Any person may report</strong> &mdash; Welfare and Institutions Code
-          &sect;15631 provides that &ldquo;any person who is not a mandated reporter&rdquo;
+          &sect; 15631 provides that &ldquo;any person who is not a mandated reporter&rdquo;
           may report known or suspected elder abuse. Voluntary reporters receive the same
           legal protections as mandated reporters.
         </li>
@@ -647,7 +647,7 @@ export default function Content() {
           insurance professionals. Even in states where insurance agents are not yet
           technically mandated reporters, the practical and ethical case for reporting
           suspected abuse is overwhelming. An agent who reports suspected abuse in good
-          faith is protected from liability under Welfare and Institutions Code &sect;15634.
+          faith is protected from liability under Welfare and Institutions Code &sect; 15634.
           An agent who fails to report and the abuse continues has no comparable protection.
         </p>
       </CalloutBox>
@@ -741,7 +741,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Lintz v. Lintz</em> (2014) 222 Cal.App.4th 1346:</strong> The Court
-        of Appeal applied the &sect;15610.70 factors in evaluating a claim of financial
+        of Appeal applied the &sect; 15610.70 factors in evaluating a claim of financial
         elder abuse through undue influence, noting that the statutory definition was
         intended to provide courts with a &ldquo;practical framework&rdquo; for evaluating
         whether excessive persuasion occurred. The court emphasized that the analysis is
@@ -749,7 +749,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Keading v. Keading</em> (2021) 60 Cal.App.5th 1115:</strong> The
-        Court of Appeal provided extensive analysis of the &sect;15610.70 undue influence
+        Court of Appeal provided extensive analysis of the &sect; 15610.70 undue influence
         factors in the context of a trust amendment, finding that evidence of the elder&rsquo;s
         vulnerability, the influencer&rsquo;s authority as a family member and caretaker,
         the tactics of isolation and control, and the inequitable result supported the
@@ -801,7 +801,7 @@ export default function Content() {
         influence claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect;10172, a life insurance beneficiary change
+        Under California Insurance Code &sect; 10172, a life insurance beneficiary change
         must comply with the terms of the policy. If the change was procured through undue
         influence, it fails as a matter of contract law because the policyholder&rsquo;s
         &ldquo;consent&rdquo; was not freely given. The original beneficiary designation
@@ -916,7 +916,7 @@ export default function Content() {
         <li>File a petition for a conservatorship if the elder lacks capacity to manage
             their own affairs</li>
         <li>Seek an emergency restraining order under Welfare and Institutions Code
-            &sect;15657.03 to prevent the suspected influencer from further contact with
+            &sect; 15657.03 to prevent the suspected influencer from further contact with
             the elder or further changes to the elder&rsquo;s financial accounts and
             insurance policies</li>
         <li>Demand that the insurer freeze the elder&rsquo;s policies pending
@@ -957,7 +957,7 @@ export default function Content() {
         Through the attorney or through a properly authorized representative, request
         complete copies of all insurance policies, all change requests and endorsements,
         all correspondence related to the policies, and all recorded communications. Under
-        California Insurance Code &sect;791.13 and the{' '}
+        California Insurance Code &sect; 791.13 and the{' '}
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">
           Fair Claims Settlement Practices Regulations
         </Link>
@@ -993,7 +993,7 @@ export default function Content() {
         early-stage dementia or mild cognitive impairment may technically retain legal
         capacity &mdash; the ability to understand the nature and consequences of a
         transaction &mdash; but their diminished cognitive abilities make them far more
-        susceptible to manipulation. The &sect;15610.70 framework explicitly recognizes
+        susceptible to manipulation. The &sect; 15610.70 framework explicitly recognizes
         this by listing &ldquo;impaired cognitive function&rdquo; as a factor in the
         vulnerability analysis.
       </p>
@@ -1030,7 +1030,7 @@ export default function Content() {
         under it is voidable. Under general California law, a power of attorney &mdash;
         like any instrument requiring consent &mdash; is voidable if the principal lacked
         capacity at the time of execution or if the execution was procured by undue
-        influence, fraud, or duress. (California Probate Code &sect;4303 addresses
+        influence, fraud, or duress. (California Probate Code &sect; 4303 addresses
         third-party liability protection for those who rely on a power of attorney in good
         faith, but the underlying validity of the POA is governed by capacity and consent
         requirements.) If the DPOA falls, so does every insurance transaction conducted
@@ -1052,7 +1052,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         An agent under a power of attorney has a fiduciary duty to act in the
-        principal&rsquo;s best interest. California Probate Code &sect;4232 requires the
+        principal&rsquo;s best interest. California Probate Code &sect; 4232 requires the
         agent to act &ldquo;in the best interest of the principal&rdquo; and to avoid
         conflicts of interest. An agent who uses the DPOA to change insurance beneficiaries
         to themselves, reduce coverage to benefit themselves, or settle a claim for less
@@ -1067,7 +1067,7 @@ export default function Content() {
           they stand to inherit, or settling claims and diverting the proceeds &mdash; this
           is self-dealing. It violates the fiduciary duty owed to the principal. It
           constitutes financial elder abuse if the principal is an elder or dependent adult.
-          And it may constitute criminal elder theft under Penal Code &sect;368. The fact
+          And it may constitute criminal elder theft under Penal Code &sect; 368. The fact
           that the agent had &ldquo;legal authority&rdquo; to make the change under the
           DPOA does not insulate them from liability when they exercise that authority for
           their own benefit at the principal&rsquo;s expense.

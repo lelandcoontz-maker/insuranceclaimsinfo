@@ -56,7 +56,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;14021 et seq. governs adjuster licensing. An individual who
+        California Insurance Code &sect; 14021 et seq. governs adjuster licensing. An individual who
         adjusts claims in California without a proper license is operating illegally. The insurance
         company that hires them is also potentially in violation for using unlicensed personnel to
         handle claims.

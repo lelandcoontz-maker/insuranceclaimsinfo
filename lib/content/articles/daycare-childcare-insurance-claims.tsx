@@ -174,7 +174,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s mandatory reporter laws (Penal Code &sect;11164 et seq.) require
+        California&rsquo;s mandatory reporter laws (Penal Code &sect; 11164 et seq.) require
         childcare workers to report suspected abuse or neglect. The interaction between the
         duty to report and insurance is complex: an operator who reports suspected abuse triggers
         an investigation that may lead to claims; an operator who fails to report faces criminal
@@ -256,7 +256,7 @@ export default function Content() {
         Employee Screening and Its Insurance Implications
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law (Health &amp; Safety Code &sect;1596.871) requires criminal background
+        California law (Health &amp; Safety Code &sect; 1596.871) requires criminal background
         checks for all childcare facility employees, volunteers, and any adults residing in a
         family childcare home. The Department of Justice and FBI fingerprint checks must be
         completed before the individual has any contact with children. Insurance policies for
@@ -293,7 +293,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Health department permits.</strong> Food preparation facilities must comply
-          with California Retail Food Code (Health &amp; Safety Code &sect;113700 et seq.) and
+          with California Retail Food Code (Health &amp; Safety Code &sect; 113700 et seq.) and
           obtain the applicable health permits. After a property loss, the health department
           must re-inspect and re-permit food preparation areas before meals can be served.
         </li>

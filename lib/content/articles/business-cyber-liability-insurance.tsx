@@ -335,7 +335,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>California Consumer Privacy Act (CCPA) / CPRA.</strong> The CCPA (Civil Code
-          &sect;1798.100 et seq.) and its successor, the California Privacy Rights Act (CPRA),
+          &sect; 1798.100 et seq.) and its successor, the California Privacy Rights Act (CPRA),
           grant California consumers extensive rights over their personal information and create a
           private right of action for certain data breaches. Statutory damages under CCPA range
           from $100 to $750 per consumer per incident &mdash; which, for a breach affecting
@@ -343,7 +343,7 @@ export default function Content() {
           damages alone, before actual damages and attorney fees.
         </li>
         <li>
-          <strong>Data breach notification (Civil Code &sect;1798.82).</strong> California
+          <strong>Data breach notification (Civil Code &sect; 1798.82).</strong> California
           requires notification to affected individuals &ldquo;in the most expedient time
           possible and without unreasonable delay.&rdquo; Notification must include specific
           information about the breach, the types of data compromised, and steps the individual
@@ -358,7 +358,7 @@ export default function Content() {
         <li>
           <strong>Healthcare and financial data.</strong> Businesses handling protected health
           information (PHI) face additional exposure under California&rsquo;s Confidentiality
-          of Medical Information Act (CMIA, Civil Code &sect;56 et seq.), and those handling
+          of Medical Information Act (CMIA, Civil Code &sect; 56 et seq.), and those handling
           financial data face exposure under the California Financial Information Privacy Act.
           These California-specific statutes create liability beyond what federal laws like
           HIPAA and GLBA impose.

@@ -154,13 +154,13 @@ export default function Content() {
         The Landlord&rsquo;s Duty to Maintain Habitable Premises
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Civil Code &sect;1941 imposes an affirmative duty on landlords to maintain rental properties in a condition &ldquo;fit for the occupation of human beings.&rdquo; This duty is non-waivable &mdash; a tenant cannot agree to waive it in the lease. Under Civil Code &sect;1942, if the landlord fails to make repairs within a reasonable time after notice, the tenant may make the repairs and deduct the cost from rent (up to one month&rsquo;s rent), or may vacate the premises.
+        California Civil Code &sect; 1941 imposes an affirmative duty on landlords to maintain rental properties in a condition &ldquo;fit for the occupation of human beings.&rdquo; This duty is non-waivable &mdash; a tenant cannot agree to waive it in the lease. Under Civil Code &sect; 1942, if the landlord fails to make repairs within a reasonable time after notice, the tenant may make the repairs and deduct the cost from rent (up to one month&rsquo;s rent), or may vacate the premises.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Civil Code &sect;1942.4 prohibits a landlord from demanding or collecting rent when the dwelling substantially lacks certain habitability standards &mdash; including adequate weatherproofing, plumbing, heating, and electrical systems &mdash; after the landlord has been notified and has had a reasonable opportunity to correct the condition.
+        Civil Code &sect; 1942.4 prohibits a landlord from demanding or collecting rent when the dwelling substantially lacks certain habitability standards &mdash; including adequate weatherproofing, plumbing, heating, and electrical systems &mdash; after the landlord has been notified and has had a reasonable opportunity to correct the condition.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Civil Code &sect;1942.5 provides anti-retaliation protections. A landlord may not retaliate against a tenant for exercising rights under these sections, including by raising rent, decreasing services, or initiating eviction proceedings.
+        Civil Code &sect; 1942.5 provides anti-retaliation protections. A landlord may not retaliate against a tenant for exercising rights under these sections, including by raising rent, decreasing services, or initiating eviction proceedings.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         How does this intersect with insurance? If a landlord fails to maintain the property and that failure causes or contributes to a loss &mdash; for example, a deferred plumbing repair that eventually causes a burst pipe and water damage &mdash; the landlord&rsquo;s carrier may argue that the loss resulted from the landlord&rsquo;s neglect. The tenant, meanwhile, may have a claim against the landlord personally for breach of the habitability duty, independent of any insurance claim.
@@ -170,13 +170,13 @@ export default function Content() {
         CA Insurance Code and Landlord Policies
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;&sect;2070-2071 govern the standard fire policy form (&sect;2070 requires policies to conform; &sect;2071 contains the actual form text including required coverages). The California Fair Claims Settlement Practices Regulations (10 CCR &sect;2695.1 et seq.) apply to all property insurance claims in California, including landlord dwelling fire policies. This means:
+        California Insurance Code &sect;&sect; 2070-2071 govern the standard fire policy form (&sect; 2070 requires policies to conform; &sect; 2071 contains the actual form text including required coverages). The California Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.1 et seq.) apply to all property insurance claims in California, including landlord dwelling fire policies. This means:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>The carrier must acknowledge receipt of the claim within 15 days (10 CCR &sect;2695.5(e)).</li>
-        <li>The carrier must accept or deny the claim within 40 days of receiving proof of claim (10 CCR &sect;2695.7(b)).</li>
-        <li>The carrier cannot misrepresent pertinent policy provisions (10 CCR &sect;2695.7(d)).</li>
-        <li>Any denial must be in writing, must state the reasons for the denial, and must reference the specific policy provisions relied upon (10 CCR &sect;2695.7(b)(1)).</li>
+        <li>The carrier must acknowledge receipt of the claim within 15 days (10 CCR &sect; 2695.5(e)).</li>
+        <li>The carrier must accept or deny the claim within 40 days of receiving proof of claim (10 CCR &sect; 2695.7(b)).</li>
+        <li>The carrier cannot misrepresent pertinent policy provisions (10 CCR &sect; 2695.7(d)).</li>
+        <li>Any denial must be in writing, must state the reasons for the denial, and must reference the specific policy provisions relied upon (10 CCR &sect; 2695.7(b)(1)).</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a full breakdown of these regulations and how to enforce them, see our article on the{' '}

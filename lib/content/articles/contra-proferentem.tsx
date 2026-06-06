@@ -208,7 +208,7 @@ export default function Content() {
         In CDI Complaints
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When filing a complaint with the California Department of Insurance, the policyholder can reference the ambiguous language and explain that the insurer&apos;s interpretation violates the Fair Claims Settlement Practices Regulations. Specifically, California Insurance Code &sect;790.03(h) prohibits unfair claim practices, and applying an unreasonably narrow interpretation of policy language to deny a valid claim can support a complaint. While CDI does not formally apply contra proferentem in its regulatory process, it does evaluate whether the insurer&apos;s claim handling was reasonable &mdash; and an insurer that ignores a reasonable alternative reading of its own policy language is on shaky ground.
+        When filing a complaint with the California Department of Insurance, the policyholder can reference the ambiguous language and explain that the insurer&apos;s interpretation violates the Fair Claims Settlement Practices Regulations. Specifically, California Insurance Code &sect; 790.03(h) prohibits unfair claim practices, and applying an unreasonably narrow interpretation of policy language to deny a valid claim can support a complaint. While CDI does not formally apply contra proferentem in its regulatory process, it does evaluate whether the insurer&apos;s claim handling was reasonable &mdash; and an insurer that ignores a reasonable alternative reading of its own policy language is on shaky ground.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -327,14 +327,14 @@ export default function Content() {
         Insurance Code Section 530
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;530 provides that an insurer is liable for losses that are the &ldquo;proximate result&rdquo; of a covered peril, even if the loss would not have occurred without the existence of a pre-existing condition. When an insurer argues that a pre-existing condition &mdash; rather than the covered peril &mdash; caused the loss, contra proferentem can reinforce the policyholder&apos;s position if the policy language defining the covered peril or the scope of the pre-existing condition is ambiguous.
+        California Insurance Code &sect; 530 provides that an insurer is liable for losses that are the &ldquo;proximate result&rdquo; of a covered peril, even if the loss would not have occurred without the existence of a pre-existing condition. When an insurer argues that a pre-existing condition &mdash; rather than the covered peril &mdash; caused the loss, contra proferentem can reinforce the policyholder&apos;s position if the policy language defining the covered peril or the scope of the pre-existing condition is ambiguous.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         The Combined Effect
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        These doctrines work together as a system. A policyholder disputing a denial can argue that the exclusion should be strictly construed, that ambiguous language must be resolved against the insurer under contra proferentem, that the efficient proximate cause was a covered peril, and that Insurance Code &sect;530 makes the insurer liable for the proximate result of the covered peril. Each argument reinforces the others. An insurer facing all four arguments simultaneously must overcome each one &mdash; and the burden of proving the exclusion applies rests entirely on the insurer.
+        These doctrines work together as a system. A policyholder disputing a denial can argue that the exclusion should be strictly construed, that ambiguous language must be resolved against the insurer under contra proferentem, that the efficient proximate cause was a covered peril, and that Insurance Code &sect; 530 makes the insurer liable for the proximate result of the covered peril. Each argument reinforces the others. An insurer facing all four arguments simultaneously must overcome each one &mdash; and the burden of proving the exclusion applies rests entirely on the insurer.
       </p>
 
       <CalloutBox variant="tip" title="Building Your Argument">

@@ -299,7 +299,7 @@ export default function Content() {
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Mutual mistake of fact.</strong> Under California Civil Code &sect;1577, a contract may be rescinded if both parties were operating under a mistake of fact that was material to the agreement. If neither you nor the carrier knew about the hidden damage at the time the release was signed, the release was based on a mutual mistake about the extent of the damage. This is one of the strongest grounds for challenging a release in the context of a reopened claim.
+          <strong>Mutual mistake of fact.</strong> Under California Civil Code &sect; 1577, a contract may be rescinded if both parties were operating under a mistake of fact that was material to the agreement. If neither you nor the carrier knew about the hidden damage at the time the release was signed, the release was based on a mutual mistake about the extent of the damage. This is one of the strongest grounds for challenging a release in the context of a reopened claim.
         </li>
         <li>
           <strong>Unilateral mistake with inequitable result.</strong> Even if only the policyholder was unaware of the hidden damage, California courts can set aside a release when enforcing it would produce an unconscionable or inequitable result. This is particularly strong when the carrier&apos;s own adjuster failed to inspect the areas where the hidden damage was later found.

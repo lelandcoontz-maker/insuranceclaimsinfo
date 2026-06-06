@@ -36,7 +36,7 @@ export default function Content() {
         law requires.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s standard fire policy form (Insurance Code &sect;2071) sets the baseline duties
+        California&apos;s standard fire policy form (Insurance Code &sect; 2071) sets the baseline duties
         for residential property claims, and most homeowners and commercial property policies incorporate
         these same requirements. The duties described below apply broadly across property insurance, though
         your specific policy language controls.
@@ -137,7 +137,7 @@ export default function Content() {
         discovering the damage is the safest practice.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect;2071 requires notice &ldquo;without unnecessary delay.&rdquo;
+        California Insurance Code &sect; 2071 requires notice &ldquo;without unnecessary delay.&rdquo;
         Under California law, late notice alone cannot defeat a claim &mdash; the insurer must prove that
         the delay actually <strong>prejudiced</strong> their ability to investigate or adjust the loss.
         A report filed two weeks late for a fire loss where the scene is still intact causes no prejudice.
@@ -169,7 +169,7 @@ export default function Content() {
         3. Duty to Exhibit Damages (Allow Inspection)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        You must allow the insurance company to inspect the damaged property. Under &sect;2071, the
+        You must allow the insurance company to inspect the damaged property. Under &sect; 2071, the
         insured must &ldquo;exhibit to any person designated by this company all that remains of any
         property herein described.&rdquo; In practice, this means granting their adjuster, engineer,
         or contractor reasonable access to the damaged areas.
@@ -240,7 +240,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A proof of loss is a formal, sworn statement that documents the facts of the loss, the property
-        damaged or destroyed, and the amount claimed. Under &sect;2071, the insurer has the right to
+        damaged or destroyed, and the amount claimed. Under &sect; 2071, the insurer has the right to
         require a signed, sworn proof of loss within 60 days after the insurer&apos;s request.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -305,7 +305,7 @@ export default function Content() {
         7. Duty to Submit to Examination Under Oath (EUO)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under &sect;2071, the insurer has the right to require you to submit to an examination under oath
+        Under &sect; 2071, the insurer has the right to require you to submit to an examination under oath
         (EUO) &mdash; essentially a recorded, sworn interview conducted by the insurer&apos;s attorney.
         The EUO is more formal than a recorded statement but less formal than a deposition. It is not
         cross-examination in a courtroom, but it is transcribed and your answers are given under oath.
@@ -359,7 +359,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The duties-after-loss section of your policy creates obligations that run in one direction &mdash;
         from you to the insurer. But California law creates reciprocal obligations that run in the other
-        direction. Under the Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect;2695.1
+        direction. Under the Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.1
         et seq.), the insurance company must:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -610,7 +610,7 @@ export default function Content() {
           <strong>Fraud or material misrepresentation</strong> (falsifying a proof of loss, inflating
           values, concealing relevant facts): This is a different category entirely. Intentional
           misrepresentation in a sworn proof of loss can void the entire policy &mdash; not just the
-          claim at issue. This is governed by Insurance Code &sect;2071 and California&apos;s concealment
+          claim at issue. This is governed by Insurance Code &sect; 2071 and California&apos;s concealment
           and misrepresentation statutes.
         </li>
       </ul>

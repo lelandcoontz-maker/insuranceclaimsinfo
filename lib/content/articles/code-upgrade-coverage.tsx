@@ -391,7 +391,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Pool barrier fencing &mdash; Health &amp; Safety Code &sect;&sect;115922&ndash;115929:</strong>{' '}
+          <strong>Pool barrier fencing &mdash; Health &amp; Safety Code &sect;&sect; 115922&ndash;115929:</strong>{' '}
           California law requires pools and spas to have approved safety barriers. If your pool
           fencing, gates, or barriers are damaged or destroyed, replacements must comply with current
           requirements &mdash; including self-closing, self-latching gates that open away from the
@@ -602,7 +602,7 @@ export default function Content() {
         <li>
           <strong>Code citation:</strong> Identify the specific code section that mandates the
           upgrade (e.g., Title 24, Part 6, Section 150.0(m); NEC Article 680; Health &amp; Safety
-          Code &sect;115922). A code citation from a regulatory body is the strongest possible
+          Code &sect; 115922). A code citation from a regulatory body is the strongest possible
           evidence that the upgrade is legally required.
         </li>
         <li>

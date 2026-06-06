@@ -152,7 +152,7 @@ export default function Content() {
         pull.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect;2051.5, for total losses, an insurer cannot limit or
+        Under California Insurance Code &sect; 2051.5, for total losses, an insurer cannot limit or
         deny payment of the replacement cost (including building code upgrade costs) on the basis
         that the insured has decided to rebuild at a new location or purchase a built home elsewhere.
         If the insurer cannot condition payment on where you rebuild, it certainly should not be able
@@ -165,7 +165,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer has a duty and good-faith obligation under California law to calculate what the
-        permit fees probably are and pay that amount. Under California Insurance Code &sect;790.03(h)(5),
+        permit fees probably are and pay that amount. Under California Insurance Code &sect; 790.03(h)(5),
         it is an unfair claims practice to fail to attempt in good faith to effectuate prompt, fair,
         and equitable settlements of claims in which liability has become reasonably clear. When
         permit fees are a known component of the cost to repair, the insurer should not pay zero
@@ -334,9 +334,9 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR
-        &sect;2695.7(d)), every insurer must &ldquo;conduct and diligently pursue a thorough, fair
-        and objective investigation.&rdquo; Under 10 CCR &sect;2695.7(g), insurers cannot make
-        unreasonably low settlement offers. And under California Insurance Code &sect;790.03(h)(5),
+        &sect; 2695.7(d)), every insurer must &ldquo;conduct and diligently pursue a thorough, fair
+        and objective investigation.&rdquo; Under 10 CCR &sect; 2695.7(g), insurers cannot make
+        unreasonably low settlement offers. And under California Insurance Code &sect; 790.03(h)(5),
         failing to attempt in good faith to effectuate prompt, fair, and equitable settlements is an
         unfair claims practice.
       </p>
@@ -396,7 +396,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Cite the insurer&rsquo;s obligation.</strong> Reference the insurer&rsquo;s duty
-          under 10 CCR &sect;2695.7 to conduct a thorough and fair investigation and to make
+          under 10 CCR &sect; 2695.7 to conduct a thorough and fair investigation and to make
           reasonable settlement offers. An offer that excludes a known, calculable cost component is
           not a fair offer.
         </li>
