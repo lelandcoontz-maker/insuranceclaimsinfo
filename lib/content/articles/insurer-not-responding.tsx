@@ -36,7 +36,7 @@ export default function Content() {
         The Law: California&rsquo;s 15-Day Response Requirement
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under 10 CCR 2695.5(b) (California&rsquo;s Fair Claims Settlement Practices Regulations),
+        Under 10 CCR &sect;&nbsp;2695.5(b) (California&rsquo;s Fair Claims Settlement Practices Regulations),
         every insurer must acknowledge and respond to communications from a claimant within 15
         calendar days. This is not a suggestion. It is a regulatory mandate. When your insurer
         ignores your calls and emails for more than 15 days, they are violating California law.
@@ -46,7 +46,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>15 days:</strong> Insurer must acknowledge receipt of your claim (10 CCR 2695.5(e)).
+          <strong>15 days:</strong> Insurer must acknowledge receipt of your claim (10 CCR &sect;&nbsp;2695.5(e)).
         </li>
         <li>
           40 days: Insurer must accept or deny your claim after receiving proof of loss (10 CCR §2695.7(b)).
@@ -56,7 +56,7 @@ export default function Content() {
         </li>
         <li>
           <strong>15 days:</strong> Insurer must respond to each communication regarding a claim
-          (10 CCR 2695.5(b)).
+          (10 CCR &sect;&nbsp;2695.5(b)).
         </li>
       </ul>
 
@@ -108,7 +108,7 @@ export default function Content() {
         <li>Your policy number, claim number, and date of loss.</li>
         <li>A chronological list of every unanswered communication with dates.</li>
         <li>
-          A citation to 10 CCR 2695.5(b) and the 15-day response requirement.
+          A citation to 10 CCR &sect;&nbsp;2695.5(b) and the 15-day response requirement.
         </li>
         <li>
           A statement that the insurer&rsquo;s failure to respond constitutes a violation of
@@ -229,7 +229,7 @@ export default function Content() {
         </li>
         <li>
           They must provide written notice of any coverage denial with specific reasons and policy
-          provisions (10 CCR 2695.7(b)(1)).
+          provisions (10 CCR &sect;&nbsp;2695.7(b)(1)).
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
