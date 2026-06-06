@@ -21,7 +21,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>A detailed guide for policyholders, public adjusters, and attorneys on how the price list date in an Xactimate estimate controls every dollar in the repair cost &mdash; and what happens when the carrier locks that date to a month that no longer reflects what repairs actually cost.</em>
+        <em>A detailed guide for policyholders, Public Adjusters, and attorneys on how the price list date in an Xactimate estimate controls every dollar in the repair cost &mdash; and what happens when the carrier locks that date to a month that no longer reflects what repairs actually cost.</em>
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

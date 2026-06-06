@@ -833,7 +833,7 @@ export default function Content() {
         coverage means no claim payment at all.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster can help you understand your policy&rsquo;s insured provisions and
+        A Public Adjuster can help you understand your policy&rsquo;s insured provisions and
         present your claim effectively. If the dispute escalates to a coverage denial, an
         insurance coverage attorney may be necessary to enforce your rights. In California,
         an insurer that unreasonably denies coverage based on a misreading of the insured

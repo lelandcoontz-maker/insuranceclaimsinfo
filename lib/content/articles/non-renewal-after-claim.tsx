@@ -717,7 +717,7 @@ export default function Content() {
         <li>
           <strong>Do not call your carrier to &ldquo;just ask&rdquo;:</strong> Some
           carriers log phone inquiries as claims or claim inquiries. If you want to understand your
-          coverage before filing, read your policy or consult with a public adjuster or insurance
+          coverage before filing, read your policy or consult with a Public Adjuster or insurance
           attorney &mdash; not your carrier&apos;s claims line.
         </li>
         <li>
@@ -921,7 +921,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Retaliatory non-renewal:</strong> If the carrier non-renews you specifically
-          because you hired a public adjuster, retained an attorney, invoked appraisal, or filed a
+          because you hired a Public Adjuster, retained an attorney, invoked appraisal, or filed a
           complaint with CDI, that retaliation may constitute bad faith.
         </li>
         <li>
@@ -1032,7 +1032,7 @@ export default function Content() {
         consequences prevent you from pursuing the full settlement you are owed today. If you
         need help navigating a claim or dealing with a non-renewal, consult with a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         or an attorney experienced in insurance coverage disputes.
       </p>

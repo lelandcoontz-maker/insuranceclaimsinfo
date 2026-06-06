@@ -382,7 +382,7 @@ export default function Content() {
         The best time to select a mitigation vendor is before a loss occurs. Policyholders who
         have identified a reputable, independent restoration company in advance can call that
         company directly when an emergency happens, rather than relying on whoever the carrier
-        dispatches. A good public adjuster or insurance attorney can often recommend independent
+        dispatches. A good Public Adjuster or insurance attorney can often recommend independent
         restoration companies that are not tied to carrier referral networks. Keeping the contact
         information for an independent restoration company readily available &mdash; programmed
         into a phone, posted on a refrigerator, stored with other emergency contacts &mdash; can
@@ -740,7 +740,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           Identify an independent restoration company in your area that is not primarily dependent
-          on carrier referrals. Ask a public adjuster, an insurance attorney, or a trusted
+          on carrier referrals. Ask a Public Adjuster, an insurance attorney, or a trusted
           contractor for recommendations. Save their contact information where you can access it
           during an emergency.
         </li>
@@ -817,7 +817,7 @@ export default function Content() {
           damage.
         </li>
         <li>
-          <strong>Have the invoice reviewed independently.</strong> A public adjuster or
+          <strong>Have the invoice reviewed independently.</strong> A Public Adjuster or
           restoration consultant can identify charges that are excessive, duplicative, or
           unsupported by the documented conditions.
         </li>

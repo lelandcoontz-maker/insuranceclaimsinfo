@@ -546,7 +546,7 @@ export default function Content() {
           scope of loss, and repair proposal &mdash; whether produced by the carrier, your
           contractor, or your{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           &mdash; should be preserved. If the carrier revises an estimate, save both the original and
           the revision. The changes between versions are often evidence of underpayment.
@@ -596,10 +596,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are still in the claims process and have not yet filed a lawsuit, working with a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         can build the factual foundation and contemporaneous record that an attorney will need if
-        litigation becomes necessary. A public adjuster documents the insurer&rsquo;s conduct in
+        litigation becomes necessary. A Public Adjuster documents the insurer&rsquo;s conduct in
         real time &mdash; missed deadlines, lowball offers, unreasonable positions, and regulatory
         violations &mdash; all in the normal course of handling the claim. That record becomes
         invaluable evidence if the case moves to litigation and discovery.

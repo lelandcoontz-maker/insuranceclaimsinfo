@@ -965,7 +965,7 @@ export default function Content() {
           policy, find the form number (HO-3, HO-5, HO-6, HO-8, DP-3, etc.), and read the
           coverages and exclusions now. If you find gaps, talk to your agent about endorsements
           or supplemental policies before you need them. If you need help understanding what you
-          have, a licensed public adjuster can review your policy and explain the coverage in
+          have, a licensed Public Adjuster can review your policy and explain the coverage in
           plain English.
         </p>
       </CalloutBox>
@@ -1095,7 +1095,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are unsure what type of policy you have, or if you suspect your coverage is
-        inadequate, consult a licensed public adjuster or an independent insurance agent who can
+        inadequate, consult a licensed Public Adjuster or an independent insurance agent who can
         review your policy and identify gaps before a loss occurs. The time to fix coverage
         problems is before you need to file a claim &mdash; not after.
       </p>

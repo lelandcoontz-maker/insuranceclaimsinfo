@@ -350,9 +350,9 @@ export default function Content() {
         <li>
           <strong>Consult a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
-          or policyholder attorney.</strong> A licensed public adjuster can advocate for favorable
+          or policyholder attorney.</strong> A licensed Public Adjuster can advocate for favorable
           allocation as part of the overall claim negotiation. If the carrier refuses to allocate
           reasonably, a policyholder attorney can evaluate whether the refusal constitutes{' '}
           <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">
@@ -436,7 +436,7 @@ export default function Content() {
           allocated payments in a way that disadvantages you, consult with a licensed California
           attorney who specializes in insurance coverage disputes or a licensed{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           who can evaluate your specific situation.
         </p>

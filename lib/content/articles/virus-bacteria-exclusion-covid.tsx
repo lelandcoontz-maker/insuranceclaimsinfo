@@ -513,7 +513,7 @@ export default function Content() {
           exclusion and COVID-19 business interruption claims. It does not constitute legal or
           insurance advice. The legal landscape for pandemic-related claims continues to evolve
           as appellate decisions are issued and new policy forms are introduced. Consult your
-          insurance professional, a licensed public adjuster, or an attorney for guidance
+          insurance professional, a licensed Public Adjuster, or an attorney for guidance
           specific to your situation.
         </p>
       </CalloutBox>

@@ -332,7 +332,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         Basement flooding claims sit at the intersection of multiple coverages and exclusions. If
         your insurer denies your claim or characterizes the water source in a way that triggers an
-        exclusion you believe is wrong, get professional help. A public adjuster or attorney
+        exclusion you believe is wrong, get professional help. A Public Adjuster or attorney
         experienced in water damage claims can analyze the loss, challenge the insurer&rsquo;s
         characterization, and fight for coverage under the correct provision. The difference between
         &ldquo;surface water&rdquo; (excluded) and &ldquo;sewer backup&rdquo; (covered under

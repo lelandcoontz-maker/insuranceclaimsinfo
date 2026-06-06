@@ -781,7 +781,7 @@ export default function Content() {
         </li>
         <li>
           <strong><em>Gesten v. American Strategic Ins. Corp.</em> (Fla. 4th DCA, 2022):</strong>{' '}
-          This case went further &mdash; the insured&rsquo;s public adjuster informed the
+          This case went further &mdash; the insured&rsquo;s Public Adjuster informed the
           carrier that the inspection would be recorded. The carrier sent its attorney, its
           adjuster, and an independent expert to the property, and the carrier&rsquo;s attorney
           objected to the recording on site. The inspection was never completed. The court held

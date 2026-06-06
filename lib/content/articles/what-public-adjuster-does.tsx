@@ -6,7 +6,7 @@ export const meta = {
   description:
     'A plain-language explanation of what a Public Adjuster is, how they work, what they cost, and when hiring one makes sense for your insurance claim.',
   summary:
-    'A public adjuster is the only licensed adjuster who works for you, not the insurer, documenting your loss, valuing the claim, and negotiating the settlement, usually for a percentage of the recovery. Hiring one makes sense for large, complex, denied, or underpaid claims.',
+    'A Public Adjuster is the only licensed adjuster who works for you, not the insurer, documenting your loss, valuing the claim, and negotiating the settlement, usually for a percentage of the recovery. Hiring one makes sense for large, complex, denied, or underpaid claims.',
 }
 
 export default function Content() {
@@ -83,7 +83,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Public Adjusters work on contingency. They charge a percentage of the claim
         settlement — typically 10% on standard claims, 8-10% on large losses, and 10-15%
-        on supplemental work. After a declared emergency, contracts commonly cap the fee at 10%. Insurance Code &sect; 15027 governs the required form of the public adjuster contract; the 10% figure is industry convention, not a statutory cap. Pending legislation (AB 597) would impose a statutory 15% cap on catastrophic-disaster claims.
+        on supplemental work. After a declared emergency, contracts commonly cap the fee at 10%. Insurance Code &sect; 15027 governs the required form of the Public Adjuster contract; the 10% figure is industry convention, not a statutory cap. Pending legislation (AB 597) would impose a statutory 15% cap on catastrophic-disaster claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         There is no upfront cost. If the claim pays nothing, the PA earns nothing. The

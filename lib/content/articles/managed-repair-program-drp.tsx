@@ -759,7 +759,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Can I get an independent assessment of the damage?</strong> You have the right to
-          retain your own contractor, public adjuster, or other expert to evaluate the damage and
+          retain your own contractor, Public Adjuster, or other expert to evaluate the damage and
           prepare a competing estimate. The carrier may not refuse to consider this estimate or
           penalize you for obtaining one.
         </li>

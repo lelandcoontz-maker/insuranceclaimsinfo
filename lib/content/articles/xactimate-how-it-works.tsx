@@ -52,7 +52,7 @@ export default function Content() {
         Xactimate is estimating software made by Verisk, a data analytics company that was
         formerly known as Xactware. It has been the dominant tool in the property insurance
         industry for over two decades. Virtually every insurance carrier in the United States
-        uses Xactimate to write estimates. So do most independent adjusters, public adjusters,
+        uses Xactimate to write estimates. So do most independent adjusters, Public Adjusters,
         and a growing number of contractors.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -393,7 +393,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Once you have the ESX file, you will need someone with Xactimate software to open and
-        review it. A public adjuster, independent estimator, or knowledgeable contractor can do
+        review it. A Public Adjuster, independent estimator, or knowledgeable contractor can do
         this. The file cannot be opened in a standard program like Word or Excel &mdash; it
         requires the Xactimate application itself.
       </p>
@@ -509,12 +509,12 @@ export default function Content() {
           a documented gap.
         </li>
         <li>
-          <strong>Hire a public adjuster or independent estimator.</strong> A professional who
+          <strong>Hire a Public Adjuster or independent estimator.</strong> A professional who
           works in Xactimate daily can review the carrier&apos;s estimate line by line, identify
           what was omitted, verify the settings, and prepare a competing estimate that reflects
           the actual scope and cost of repair. This is what{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjusters
+            Public Adjusters
           </Link>{' '}
           do.
         </li>

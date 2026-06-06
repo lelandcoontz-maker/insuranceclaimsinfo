@@ -17,7 +17,7 @@ export default function Content() {
           This article is educational in nature and reflects the author&rsquo;s interpretation of
           commercial insurance policy provisions. It is not legal advice. Coinsurance calculations
           involve policy-specific language and fact-specific valuations. Consult with a licensed
-          attorney or public adjuster for questions about your specific policy.
+          attorney or Public Adjuster for questions about your specific policy.
         </p>
       </CalloutBox>
 

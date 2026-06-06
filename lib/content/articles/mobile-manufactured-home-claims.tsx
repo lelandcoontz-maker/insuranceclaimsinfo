@@ -479,7 +479,7 @@ export default function Content() {
           was accurately calculated (using manufactured-home-specific pricing, not site-built
           pricing that may be different). And remember: the policyholder is not required to accept
           the insurer&rsquo;s first total loss valuation. If the numbers do not add up, challenge
-          them &mdash; and consider engaging a public adjuster or{' '}
+          them &mdash; and consider engaging a Public Adjuster or{' '}
           <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] underline">
             attorney
           </Link>{' '}

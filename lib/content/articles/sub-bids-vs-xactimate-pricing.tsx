@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: "When a Contractor’s Bid Overrides Xactimate: Sub-Bids, Specialty Work, and What the EULA Actually Says",
   description:
-    "A guide for policyholders, public adjusters, and attorneys on why a specialty sub-contractor’s actual bid should control over Xactimate line-item pricing and how to make that argument stick.",
+    "A guide for policyholders, Public Adjusters, and attorneys on why a specialty sub-contractor’s actual bid should control over Xactimate line-item pricing and how to make that argument stick.",
   summary:
     'When a specialty subcontractor\'s actual bid exceeds Xactimate\'s line-item price, the real bid should control, because Xactimate is a pricing estimate, not a binding cost. Document the sub-bid to override understated software pricing.',
 }
@@ -22,7 +22,7 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>
-          A guide for policyholders, public adjusters, and attorneys on why a specialty
+          A guide for policyholders, Public Adjusters, and attorneys on why a specialty
           sub-contractor&apos;s actual bid should control over Xactimate line-item pricing
           &mdash; and how to make that argument stick.
         </em>
@@ -712,7 +712,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>
           The information in this article is intended for educational purposes and does not
-          constitute legal advice. Policyholders and public adjusters should consult with a
+          constitute legal advice. Policyholders and Public Adjusters should consult with a
           qualified attorney regarding specific claims disputes.
         </em>
       </p>

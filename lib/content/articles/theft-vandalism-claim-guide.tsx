@@ -305,7 +305,7 @@ export default function Content() {
         Most straightforward theft claims — documented items, clear evidence of break-in, values
         within policy limits — resolve without major battles. But if the insurer refers you to SIU,
         requests an EUO, denies based on &ldquo;no evidence of forced entry,&rdquo; or dramatically
-        underpays your contents, you need professional help. A public adjuster can help prepare and
+        underpays your contents, you need professional help. A Public Adjuster can help prepare and
         negotiate the claim. An attorney is essential if fraud allegations are raised or if the
         insurer demands an EUO. Do not face SIU alone. For more on the{' '}
         <Link href="/resources/first-72-hours-after-loss" className="text-[#2E74B5] hover:underline">

@@ -1051,7 +1051,7 @@ export default function Content() {
           the bad faith implications of the carrier&apos;s position
         </li>
         <li>
-          Engaging a public adjuster who understands the IICRC standards and can advocate for
+          Engaging a Public Adjuster who understands the IICRC standards and can advocate for
           the correct classification and scope on your behalf
         </li>
       </ul>

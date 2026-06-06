@@ -1033,7 +1033,7 @@ export default function Content() {
           In a commercial tenant improvement claim, timing matters more than in almost any other
           property claim. The decision about whether to repair, the landlord&apos;s decision
           about whether to terminate the lease, and the classification of the loss under the
-          three scenarios all interact. Engage a public adjuster or coverage attorney immediately
+          three scenarios all interact. Engage a Public Adjuster or coverage attorney immediately
           to preserve your options before decisions are made that lock you into a less favorable
           outcome.
         </p>

@@ -804,7 +804,7 @@ export default function Content() {
         don&rsquo;t accept it quietly. Get a second opinion from an independent fire investigator.
         Talk to a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         who has handled fire claims. Consult with an attorney if the insurer is denying the claim or
         alleging fraud.

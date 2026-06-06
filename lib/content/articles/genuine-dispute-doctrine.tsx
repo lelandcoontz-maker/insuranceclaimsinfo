@@ -735,7 +735,7 @@ export default function Content() {
           <strong>Challenge the expert&rsquo;s report in writing.</strong> When the insurer relies
           on an expert report to deny or reduce your claim, a written response identifying factual
           errors, methodological shortcomings, and conclusions inconsistent with the physical
-          evidence creates a record. A public adjuster can assist with these challenges; an
+          evidence creates a record. A Public Adjuster can assist with these challenges; an
           attorney&rsquo;s help is appropriate as the dispute escalates.
         </li>
         <li>

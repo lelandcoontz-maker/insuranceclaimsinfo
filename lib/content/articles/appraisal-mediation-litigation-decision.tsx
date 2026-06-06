@@ -156,7 +156,7 @@ export default function Content() {
         <li>Coverage disputes &mdash; the mediator can help each side evaluate the strength of their
           coverage position and find a middle ground</li>
         <li>Mixed disputes &mdash; where coverage and amount are both in play</li>
-        <li>Multi-party disputes &mdash; where a mortgage company, contractor, or public adjuster
+        <li>Multi-party disputes &mdash; where a mortgage company, contractor, or Public Adjuster
           also has a stake</li>
         <li>Relationship repair &mdash; sometimes the dispute is as much about communication
           breakdown as dollars</li>

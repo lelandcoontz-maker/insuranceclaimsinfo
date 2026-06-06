@@ -738,7 +738,7 @@ export default function Content() {
           carrier&rsquo;s estimate of the damage. The carrier&rsquo;s estimate may be limited
           to the sub-limit amount, which gives them no incentive to scope the full extent of
           the damage. A{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>{' '}
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>{' '}
           can prepare a complete estimate of the actual damage, which is necessary to
           demonstrate the full financial impact if you need to dispute the carrier&rsquo;s
           characterization.

@@ -284,7 +284,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-6">
         Fire claims are large, complex, and long. The insurer has a team of adjusters, engineers,
-        and consultants working on your file. You deserve representation too. A public adjuster
+        and consultants working on your file. You deserve representation too. A Public Adjuster
         works exclusively for you &mdash; they prepare the claim, negotiate with the insurer,
         and ensure every covered dollar is recovered. For a{' '}
         <Link href="/resources/fire-claim-denied" className="text-[#2E74B5] hover:underline">fire claim</Link>,

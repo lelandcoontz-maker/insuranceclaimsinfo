@@ -248,7 +248,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is a trap that catches policyholders, public adjusters, and even attorneys who are not paying close attention. They see the SFIP form, assume federal law applies, and either panic about compliance or, conversely, assume the federal framework&apos;s limitations on bad faith claims apply to their private-carrier dispute. Neither assumption may be correct.
+        This is a trap that catches policyholders, Public Adjusters, and even attorneys who are not paying close attention. They see the SFIP form, assume federal law applies, and either panic about compliance or, conversely, assume the federal framework&apos;s limitations on bad faith claims apply to their private-carrier dispute. Neither assumption may be correct.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -310,7 +310,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Retain a public adjuster or an attorney before signing a proof of loss</strong> whenever:
+        <strong>Retain a Public Adjuster or an attorney before signing a proof of loss</strong> whenever:
       </p>
 
       <ul className="list-disc pl-6 mb-4 space-y-2">

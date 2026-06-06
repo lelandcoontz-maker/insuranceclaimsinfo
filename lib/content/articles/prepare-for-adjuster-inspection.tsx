@@ -197,7 +197,7 @@ export default function Content() {
           review. You have the right to read any document before signing. Any form that limits your
           rights or locks in a scope of repairs should be reviewed carefully, and ideally by a{' '}
           <Link href="/resources/dealing-with-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or attorney, before you sign.
         </p>

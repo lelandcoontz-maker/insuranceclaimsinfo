@@ -757,7 +757,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Commission your own damage assessment from a qualified professional &mdash; a licensed
-        public adjuster, a contractor experienced in insurance restoration work, or an engineer,
+        Public Adjuster, a contractor experienced in insurance restoration work, or an engineer,
         as appropriate for the type of damage. Ensure the assessment includes a thorough physical
         inspection with attention to concealed damage, moisture testing, and other evaluations
         that no AI system can perform. The gap between the AI-generated assessment and the
@@ -932,7 +932,7 @@ export default function Content() {
         If you believe your insurance claim has been undervalued by automated systems, take action.
         Request disclosure of the carrier&apos;s use of AI. Demand a physical inspection. Obtain
         an independent assessment. Challenge the estimate line by line. And if the carrier refuses
-        to conduct a proper investigation, consult with a licensed public adjuster or an attorney
+        to conduct a proper investigation, consult with a licensed Public Adjuster or an attorney
         who can advocate for the coverage you paid for and the investigation you are legally
         entitled to receive.
       </p>

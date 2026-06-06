@@ -1012,7 +1012,7 @@ export default function Content() {
           This article is for general educational purposes only and does not constitute legal
           advice. Protective safeguards endorsement law varies by jurisdiction and by the specific
           policy language at issue. If your claim has been denied based on a protective safeguards
-          endorsement, consult with a licensed public adjuster or an attorney experienced in
+          endorsement, consult with a licensed Public Adjuster or an attorney experienced in
           insurance coverage disputes in your state. The case law cited in this article reflects
           holdings in specific jurisdictions and may not apply in all states.
         </p>
@@ -1028,7 +1028,7 @@ export default function Content() {
         <p className="text-gray-600 text-sm mb-4">
           If your commercial property claim has been denied because a sprinkler, alarm, or
           security service was not maintained, you may have grounds to challenge the denial &mdash;
-          especially if the safeguard had nothing to do with your loss. A licensed public adjuster
+          especially if the safeguard had nothing to do with your loss. A licensed Public Adjuster
           can review your policy language, the denial, and the facts to determine your options.
         </p>
         <Link

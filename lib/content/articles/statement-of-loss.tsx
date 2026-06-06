@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'The Statement of Loss: A Forgotten but Essential Claims Document',
   description:
-    'What a statement of loss is, how it differs from a proof of loss, and why preparing one helps policyholders, public adjusters, and attorneys organize and understand a claim before taking the next step.',
+    'What a statement of loss is, how it differs from a proof of loss, and why preparing one helps policyholders, Public Adjusters, and attorneys organize and understand a claim before taking the next step.',
   summary:
     'A statement of loss is a document organizing your claimed damages; unlike a sworn proof of loss, it is a working summary. Preparing one helps you, and your adjuster or attorney, understand and present the claim before the next step.',
 }
@@ -257,7 +257,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Traditionally, the statement of loss was prepared by the claims adjuster handling the
         file &mdash; whether that was the insurance company&rsquo;s adjuster, an independent
-        adjuster, or a public adjuster representing the policyholder. But there is no rule that
+        adjuster, or a Public Adjuster representing the policyholder. But there is no rule that
         limits who can prepare one. A policyholder can absolutely prepare their own statement of
         loss, and doing so can be enormously helpful in understanding and managing their claim.
       </p>

@@ -603,7 +603,7 @@ export default function Content() {
           damages in California insurance bad faith claims and is not legal advice. The
           availability and scope of emotional distress damages vary by the specific facts
           of each case, by the insurer&apos;s conduct, and by applicable case law
-          interpretations. A public adjuster&apos;s role is to document the carrier&apos;s
+          interpretations. A Public Adjuster&apos;s role is to document the carrier&apos;s
           conduct and handle the claim; the development of legal arguments, the selection of
           legal theories, and the conduct of litigation are the work of a
           California-licensed attorney. If you believe your insurer has acted in bad faith,
@@ -619,7 +619,7 @@ export default function Content() {
           Is Your Insurer&rsquo;s Bad Faith Causing You Emotional Harm?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          A licensed public adjuster can manage the claims handling, document the
+          A licensed Public Adjuster can manage the claims handling, document the
           carrier&apos;s conduct, and reduce the day-to-day emotional burden of a
           contested claim. If the facts suggest the insurer&apos;s conduct may rise to
           bad faith, we can help connect policyholders with attorneys who handle

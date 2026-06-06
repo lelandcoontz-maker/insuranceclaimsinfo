@@ -569,14 +569,14 @@ export default function Content() {
         If you have suffered a significant loss from an off-premises utility failure &mdash; whether
         you have the utility services endorsement or not &mdash; consider engaging a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         to handle the claim on your behalf. Utility services claims involve nuanced policy
         interpretation, careful documentation of both direct damage and time element losses, and
         often contentious disputes over the cause and scope of the loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster works exclusively for the policyholder &mdash; not the insurance company
+        A Public Adjuster works exclusively for the policyholder &mdash; not the insurance company
         &mdash; and can identify coverage that the carrier&rsquo;s adjuster may overlook, challenge
         improper denials, and maximize the recovery under all applicable policy provisions.
       </p>
@@ -616,7 +616,7 @@ export default function Content() {
           </Link>{' '}
           involving off-premises utility services, consult with a licensed{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or an attorney who specializes in insurance coverage.
         </p>

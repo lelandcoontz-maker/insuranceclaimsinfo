@@ -28,7 +28,7 @@ export default function Content() {
           and California regulations. It is not legal advice. Every claim involves unique facts,
           policy language, and circumstances. Policyholders who believe their claim is being
           unreasonably delayed should consult with a licensed attorney or{' '}
-          <Link href="/resources/public-adjuster" className="underline font-semibold">public adjuster</Link>.
+          <Link href="/resources/public-adjuster" className="underline font-semibold">Public Adjuster</Link>.
         </p>
       </CalloutBox>
 
@@ -409,7 +409,7 @@ export default function Content() {
         <li>
           <strong>Hire a professional.</strong> Claims represented by a{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or attorney tend to move faster because insurers know that professionals will document
           delays, cite regulations, and pursue remedies when the insurer stalls.

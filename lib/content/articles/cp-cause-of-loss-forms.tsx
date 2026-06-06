@@ -612,7 +612,7 @@ export default function Content() {
           This article is for general educational purposes only and does not constitute legal
           advice. Policy language varies between carriers and editions. Some carriers use
           proprietary cause of loss forms with different terms. Always read the specific form
-          attached to your policy and consult with a licensed public adjuster or attorney for
+          attached to your policy and consult with a licensed Public Adjuster or attorney for
           questions about your coverage.
         </p>
         <p className="mt-2">
@@ -626,7 +626,7 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           If you have a commercial property claim and are unsure whether your policy covers the
-          cause of your loss, a licensed public adjuster can review your policy, identify your
+          cause of your loss, a licensed Public Adjuster can review your policy, identify your
           cause of loss form, and determine your coverage options.
         </p>
         <Link

@@ -57,7 +57,7 @@ export default function Content() {
         <li><strong>&quot;Sidestepping Extreme Pricing Shifts in Property Preservation&quot;</strong> &mdash; guidance on pricing variability</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Each of these documents is written by Verisk&apos;s own team, published under the Verisk brand, and intended to explain how the software and its pricing data actually work. They are not advocacy pieces written by plaintiff attorneys or public adjusters. They are manufacturer documentation. And that is precisely what makes them so powerful.
+        Each of these documents is written by Verisk&apos;s own team, published under the Verisk brand, and intended to explain how the software and its pricing data actually work. They are not advocacy pieces written by plaintiff attorneys or Public Adjusters. They are manufacturer documentation. And that is precisely what makes them so powerful.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Overhead and Profit White Paper</h2>
@@ -329,7 +329,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">A Practical Checklist</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For policyholders, public adjusters, and attorneys handling a property insurance claim dispute, here is a practical checklist for using Verisk&apos;s documentation:
+        For policyholders, Public Adjusters, and attorneys handling a property insurance claim dispute, here is a practical checklist for using Verisk&apos;s documentation:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>1. Obtain the key documents.</strong> Download the O&amp;P white paper, labor efficiency white paper, labor productivity white paper, and pricing methodology documentation from Verisk&apos;s website. Save copies &mdash; URLs can change, and you want permanent records.
@@ -365,7 +365,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4 italic">
-        This article is intended for informational purposes only and does not constitute legal advice. Policyholders with disputed claims should consult with a licensed public adjuster or an attorney experienced in insurance coverage law.
+        This article is intended for informational purposes only and does not constitute legal advice. Policyholders with disputed claims should consult with a licensed Public Adjuster or an attorney experienced in insurance coverage law.
       </p>
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">

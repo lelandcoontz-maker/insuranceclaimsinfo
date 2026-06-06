@@ -1442,11 +1442,11 @@ export default function Content() {
       <div className="bg-[#1F3964] text-white rounded-xl p-6 mt-8">
         <h3 className="text-xl font-bold mb-2">Considering Appraisal?</h3>
         <p className="text-blue-200 text-sm mb-4">
-          A licensed California public adjuster can review an insurance claim file to identify
+          A licensed California Public Adjuster can review an insurance claim file to identify
           underpaid items and may serve as the policyholder&apos;s appraiser, preparing detailed
           Xactimate estimates and advocating for the full value of the loss through the
-          appraisal process. A public adjuster may also identify issues that warrant
-          consultation with an attorney. Most public adjusters and attorneys will provide a
+          appraisal process. A Public Adjuster may also identify issues that warrant
+          consultation with an attorney. Most Public Adjusters and attorneys will provide a
           free consultation.
         </p>
         <Link href="/contact" className="btn-gold inline-block">

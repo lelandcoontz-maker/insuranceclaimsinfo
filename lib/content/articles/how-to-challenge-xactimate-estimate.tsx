@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'How to Challenge an Xactimate Estimate: A Step-by-Step Guide',
   description:
-    'A practical guide for policyholders, public adjusters, and attorneys on identifying errors in an insurance carrier\'s Xactimate estimate and building an effective challenge.',
+    'A practical guide for policyholders, Public Adjusters, and attorneys on identifying errors in an insurance carrier\'s Xactimate estimate and building an effective challenge.',
   summary:
     'To challenge a carrier\'s Xactimate estimate, compare it line by line against the actual scope, flag missing items, low quantities, wrong depreciation, and omitted overhead and profit, and document each correction. Build the challenge on specifics, not generalities.',
 }
@@ -32,7 +32,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What Xactimate Is &mdash; and What It Is Not</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Xactimate is estimating software. It is a program that allows a user to input measurements, select materials, choose labor categories, and generate a cost estimate for construction and repair work. It is used by insurance carriers, independent adjusters, public adjusters, contractors, and restoration companies across the country.
+        Xactimate is estimating software. It is a program that allows a user to input measurements, select materials, choose labor categories, and generate a cost estimate for construction and repair work. It is used by insurance carriers, independent adjusters, Public Adjusters, contractors, and restoration companies across the country.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         What Xactimate is <em>not</em> is an oracle. It does not independently determine the cost of your repair. It does not assess damage. It does not interpret your insurance policy. It does not decide what is owed. Every single number on an Xactimate estimate is the product of choices made by the person who created it &mdash; the adjuster, the desk reviewer, or the estimator sitting in a cubicle who may never have set foot on your property.
@@ -108,7 +108,7 @@ export default function Content() {
         <li>Leaving out temporary housing or additional living expenses during repairs</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>What to do:</strong> Walk the property with a qualified contractor or public adjuster and create a comprehensive scope. Compare it line by line against the carrier&apos;s estimate. Every missing item should be documented and included in your supplemental demand.
+        <strong>What to do:</strong> Walk the property with a qualified contractor or Public Adjuster and create a comprehensive scope. Compare it line by line against the carrier&apos;s estimate. Every missing item should be documented and included in your supplemental demand.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">3. Wrong Measurements</h2>
@@ -219,7 +219,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Step 2: Conduct a Line-by-Line Comparison</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Once you have the carrier&apos;s ESX file, import it into your own copy of Xactimate (or have your public adjuster or estimator do so). Then create your own estimate of the same loss and compare the two line by line. For each discrepancy, document the specific line item code, the carrier&apos;s quantity and unit price versus yours, the reason for the discrepancy, and the dollar impact.
+        Once you have the carrier&apos;s ESX file, import it into your own copy of Xactimate (or have your Public Adjuster or estimator do so). Then create your own estimate of the same loss and compare the two line by line. For each discrepancy, document the specific line item code, the carrier&apos;s quantity and unit price versus yours, the reason for the discrepancy, and the dollar impact.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Step 3: Document Market Pricing</h2>
@@ -271,7 +271,7 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Practical Tips for Policyholders</h2>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Do not accept the first estimate without review.</strong> The carrier&apos;s initial estimate is a starting point, not a final offer &mdash; even if the carrier presents it as one.</li>
-        <li><strong>Hire a public adjuster or an attorney early.</strong> If the gap between the carrier&apos;s estimate and actual repair costs is significant, professional representation often pays for itself many times over.</li>
+        <li><strong>Hire a Public Adjuster or an attorney early.</strong> If the gap between the carrier&apos;s estimate and actual repair costs is significant, professional representation often pays for itself many times over.</li>
         <li><strong>Document everything.</strong> Photograph damage before any repairs. Keep every communication with the carrier. Save every version of every estimate.</li>
         <li><strong>Do not sign a release or accept a &quot;final&quot; payment without understanding what you are giving up.</strong> Some carriers will issue a payment with language suggesting it is &quot;full and final settlement.&quot;</li>
         <li><strong>Understand recoverable depreciation.</strong> If you have a replacement cost policy, the carrier&apos;s initial payment is typically actual cash value. You are entitled to recover the depreciation once repairs are completed.</li>

@@ -6,7 +6,7 @@ export const meta = {
   description:
     'Staff adjusters, independent adjusters, and Public Adjusters are all paid differently — and those compensation models create different incentives on your claim. Learn how adjuster pay works and what it means for you.',
   summary:
-    'Staff, independent, and public adjusters are paid in different ways, and each pay model creates different incentives on your claim. Knowing how the adjuster across from you is compensated helps you read their motives and weigh their estimate.',
+    'Staff, independent, and Public Adjusters are paid in different ways, and each pay model creates different incentives on your claim. Knowing how the adjuster across from you is compensated helps you read their motives and weigh their estimate.',
 }
 
 export default function Content() {

@@ -57,7 +57,7 @@ export default function Content() {
         </p>
         <p className="mt-2">
           The insurance-claim side of these situations &mdash; documenting the loss, dealing with
-          the carrier, navigating coverage defenses &mdash; is the public adjuster&rsquo;s
+          the carrier, navigating coverage defenses &mdash; is the Public Adjuster&rsquo;s
           domain. The elder law, probate, and real property analyses belong to the attorneys. The
           two have to be coordinated, and that coordination is the practical focus here.
         </p>
@@ -662,7 +662,7 @@ export default function Content() {
         intersection worth understanding &mdash; but the dominant threat has shifted from the
         state&rsquo;s recovery claim to the coverage defenses. The mismatch between a
         personal-name policy and trust-held property is exactly the kind of problem worth
-        catching before a loss, with both an elder law attorney and a public adjuster involved.
+        catching before a loss, with both an elder law attorney and a Public Adjuster involved.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This outcome was entirely preventable with proper planning. But it required the
@@ -1859,7 +1859,7 @@ export default function Content() {
         <li>
           <strong>Hire the right professionals.</strong> You will likely need an actuary (for
           life expectancy), a real estate appraiser (for rental value), and an economist or
-          CPA (for present-value calculations). A public adjuster experienced in these
+          CPA (for present-value calculations). A Public Adjuster experienced in these
           disputes can coordinate the claim and the experts.
         </li>
         <li>

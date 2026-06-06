@@ -210,7 +210,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Because the honest contractors who keep losing work don&rsquo;t want to make accusations
         publicly. The insurance industry is small, and people have long memories. A contractor who
-        raises a stink might get blacklisted from future claims work. A public adjuster who points
+        raises a stink might get blacklisted from future claims work. A Public Adjuster who points
         fingers might find their clients&rsquo; claims getting extra scrutiny.
       </p>
 
@@ -405,7 +405,7 @@ export default function Content() {
         5. Consider Professional Representation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A licensed public adjuster represents you, not the carrier. When a PA is on the claim, the
+        A licensed Public Adjuster represents you, not the carrier. When a PA is on the claim, the
         dynamic changes. Adjusters tend to be more careful about their recommendations when they
         know a licensed professional is watching and documenting everything. The steering becomes a
         lot harder to do when someone&rsquo;s taking notes.

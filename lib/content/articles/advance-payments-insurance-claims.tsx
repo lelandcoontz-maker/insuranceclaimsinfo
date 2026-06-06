@@ -354,9 +354,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         While policyholders can and should demand advance payments on their own, carriers respond differently to represented and unrepresented claimants. A demand from a policyholder citing 10 CCR &sect; 2695.7(h) carries weight. A demand from a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
-        citing the same regulation, accompanied by a detailed estimate of the undisputed amount and a deadline for compliance, carries substantially more. The carrier knows that a public adjuster understands the process, will follow through on escalation, and will document every failure to comply.
+        citing the same regulation, accompanied by a detailed estimate of the undisputed amount and a deadline for compliance, carries substantially more. The carrier knows that a Public Adjuster understands the process, will follow through on escalation, and will document every failure to comply.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When advance payment disputes involve potential{' '}

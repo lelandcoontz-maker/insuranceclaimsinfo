@@ -132,7 +132,7 @@ export default function Content() {
         The reasoning went like this: a policyholder who receives a significant advance early in the
         claim process feels relieved. The immediate financial pressure is reduced. The policyholder
         feels that the insurance company is taking care of them. That sense of goodwill and relief
-        makes the insured far less likely to hire a public adjuster or an attorney. The policyholder
+        makes the insured far less likely to hire a Public Adjuster or an attorney. The policyholder
         thinks, &ldquo;They sent me a check right away &mdash; they must be handling this
         fairly.&rdquo;
       </p>
@@ -192,7 +192,7 @@ export default function Content() {
         analysis, saved money in the long run. One possible explanation is that the rise of
         professional representation &mdash;{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjusters
+          Public Adjusters
         </Link>{' '}
         and policyholder attorneys &mdash; has changed the calculus. If advances no longer prevent
         policyholders from hiring professionals (because more policyholders now know to hire
@@ -796,7 +796,7 @@ export default function Content() {
         received early money were less likely to hire professionals. The inverse is also true.
         Policyholders who hire a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         or attorney are more likely to receive advance payments, because the professional knows how
         to demand them effectively and the carrier knows that refusing a professional&apos;s request
@@ -953,7 +953,7 @@ export default function Content() {
         <li>
           Hiring a{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or attorney significantly increases your chances of receiving advance payments, because
           professionals know how to demand them and carriers know the consequences of refusing.

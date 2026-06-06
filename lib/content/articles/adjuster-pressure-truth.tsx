@@ -248,7 +248,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Regardless of what the field estimate says, policyholders benefit from obtaining their own
-        independent estimate from a licensed contractor or public adjuster. The{' '}
+        independent estimate from a licensed contractor or Public Adjuster. The{' '}
         <Link href="/resources/first-offer-lowball" className="text-[#2E74B5] hover:underline">initial offer</Link>{' '}
         from the insurer &mdash; whether it reflects the field estimate or a reduced version &mdash;
         is the insurer&apos;s assessment of what the claim is worth. An independent estimate
@@ -289,7 +289,7 @@ export default function Content() {
           This article provides general information about insurance claims practices and is not
           legal advice. The reporting and data cited reflect publicly available sources as of the
           date of publication. Policyholders who believe their claim has been improperly reduced
-          should consult with a licensed public adjuster or attorney in their jurisdiction.
+          should consult with a licensed Public Adjuster or attorney in their jurisdiction.
         </p>
       </CalloutBox>
       <hr className="my-8 border-gray-300" />

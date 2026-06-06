@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'The Innocent Co-Insured Doctrine: When One Spouse Commits Arson, Should the Other Lose Everything?',
   description:
-    'When one insured commits arson or insurance fraud, the innocent co-insured may still be entitled to recover. Learn how the innocent co-insured doctrine works, which states allow recovery, how policy language affects the outcome, and what attorneys and public adjusters need to know to protect the innocent spouse.',
+    'When one insured commits arson or insurance fraud, the innocent co-insured may still be entitled to recover. Learn how the innocent co-insured doctrine works, which states allow recovery, how policy language affects the outcome, and what attorneys and Public Adjusters need to know to protect the innocent spouse.',
   summary:
     'When one insured commits arson or fraud, the innocent co-insured, often a spouse, may still recover under the innocent co-insured doctrine. Whether they can depends on the state and the policy\'s wording, so the policy language is decisive.',
 }

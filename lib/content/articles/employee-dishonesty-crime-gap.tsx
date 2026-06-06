@@ -383,7 +383,7 @@ export default function Content() {
         established, or that conditions precedent like timely notice were not met. If your
         claim is denied or underpaid, you have options. A{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         can help organize documentation and present the claim effectively. For{' '}
         <Link href="/resources/coverage-disputes" className="text-blue-700 underline hover:text-blue-900">
@@ -401,7 +401,7 @@ export default function Content() {
         <p>
           This article is for general educational purposes only and does not constitute legal
           or insurance advice. Coverage terms vary by policy, carrier, and jurisdiction.
-          Consult your insurance policy, a licensed public adjuster, or an attorney for
+          Consult your insurance policy, a licensed Public Adjuster, or an attorney for
           guidance specific to your situation.
         </p>
       </CalloutBox>

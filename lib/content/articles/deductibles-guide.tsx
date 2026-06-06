@@ -540,9 +540,9 @@ export default function Content() {
           will order the carrier to correct it.
         </li>
         <li>
-          <strong>Hire a public adjuster.</strong> A{' '}
+          <strong>Hire a Public Adjuster.</strong> A{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            licensed public adjuster
+            licensed Public Adjuster
           </Link>{' '}
           can review the carrier&rsquo;s estimate, identify deductible errors, and negotiate for
           corrected payment on your behalf. This is particularly valuable when the deductible

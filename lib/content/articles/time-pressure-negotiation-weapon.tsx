@@ -434,7 +434,7 @@ export default function Content() {
         Public adjusters and insurance coverage attorneys exist precisely because the claims process is designed in a way that individual policyholders &mdash; people with jobs, families, and lives to manage &mdash; are structurally disadvantaged. Hiring a professional does not mean your claim is complicated or that you have done something wrong. It means you are recognizing the asymmetry of the process and bringing in someone whose sole focus is protecting your interests.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster can manage the day-to-day burden of the claim &mdash; the documentation, the inspections, the negotiations &mdash; relieving the policyholder of the practical and emotional weight that drives claim fatigue. An attorney can monitor legal deadlines, file suit when necessary, and pursue bad faith claims when the carrier&apos;s conduct crosses the line.
+        A Public Adjuster can manage the day-to-day burden of the claim &mdash; the documentation, the inspections, the negotiations &mdash; relieving the policyholder of the practical and emotional weight that drives claim fatigue. An attorney can monitor legal deadlines, file suit when necessary, and pursue bad faith claims when the carrier&apos;s conduct crosses the line.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The carrier has a team of professionals working on your claim. There is no reason you should not have one as well.
@@ -491,7 +491,7 @@ export default function Content() {
       </ul>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>This article is for informational purposes only and does not constitute legal advice. Policyholders facing disputed insurance claims should consult with a licensed public adjuster or an attorney experienced in insurance coverage law to evaluate their specific circumstances.</em>
+        <em>This article is for informational purposes only and does not constitute legal advice. Policyholders facing disputed insurance claims should consult with a licensed Public Adjuster or an attorney experienced in insurance coverage law to evaluate their specific circumstances.</em>
       </p>
       <p className="text-sm text-gray-500 mt-4 italic">
         Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.

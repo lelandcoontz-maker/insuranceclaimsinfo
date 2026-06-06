@@ -1337,10 +1337,10 @@ export default function Content() {
         Step 5: Consider Hiring a Public Adjuster or Insurance Attorney
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster or insurance coverage attorney can serve as a neutral claims
+        A Public Adjuster or insurance coverage attorney can serve as a neutral claims
         professional who manages the insurance claim on behalf of both spouses. This is
         particularly valuable when the spouses cannot cooperate with each other but both need
-        the claim to be handled competently. The public adjuster works for the policyholders
+        the claim to be handled competently. The Public Adjuster works for the policyholders
         &mdash; not the insurer &mdash; and can ensure that the claim is properly documented,
         negotiated, and settled while the divorce proceeds on a separate track.
       </p>
@@ -1354,7 +1354,7 @@ export default function Content() {
         contract is four years under California Code of Civil Procedure &sect; 337), and some
         are set by the insurer as part of the claims process. During a divorce, it is easy for
         these deadlines to slip. Create a tracking document. Share it with your family law
-        attorney, your insurance attorney (if you have one), and your public adjuster (if you
+        attorney, your insurance attorney (if you have one), and your Public Adjuster (if you
         have one). Do not assume that anyone else is tracking the deadlines for you.
       </p>
 

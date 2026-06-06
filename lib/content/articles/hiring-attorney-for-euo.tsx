@@ -688,7 +688,7 @@ export default function Content() {
         The EUO &ldquo;For Sport&rdquo; Question: A Diplomatic Discussion
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Among California policyholder-side attorneys, public adjusters, and consumer
+        Among California policyholder-side attorneys, Public Adjusters, and consumer
         advocates, there is a widely held view that EUOs are not always invoked in service
         of a realistic, good-faith investigation. Many practitioners believe &mdash; and a
         number of carrier defense attorneys, when pressed in candid moments, do not
@@ -744,10 +744,10 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Ask a public adjuster.</strong> Public adjusters in Southern California
+          <strong>Ask a Public Adjuster.</strong> Public adjusters in Southern California
           regularly work alongside policyholder-side insurance attorneys and can usually
           recommend two or three names appropriate for the scale and complexity of your
-          claim. If you are already working with a public adjuster on the underlying claim,
+          claim. If you are already working with a Public Adjuster on the underlying claim,
           this is the most efficient referral source.
         </li>
         <li>

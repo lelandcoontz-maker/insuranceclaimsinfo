@@ -15,7 +15,7 @@ export default function Content() {
       <CalloutBox variant="legal" title="What This Article Is, and What It Is Not">
         <p>
           This article is for educational purposes only and does not constitute legal advice.
-          A public adjuster&rsquo;s role is to document the loss and handle the claim; the
+          A Public Adjuster&rsquo;s role is to document the loss and handle the claim; the
           development of legal arguments, the selection of legal theories, and the conduct of
           litigation are the work of a California-licensed attorney. Coverage always turns on
           the specific policy language and the facts of the loss.
@@ -203,7 +203,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Developing this factual record is squarely within a public adjuster&rsquo;s role. Where a
+        Developing this factual record is squarely within a Public Adjuster&rsquo;s role. Where a
         denial turns into a dispute over legal theories or litigation, that is the point to involve
         a California-licensed attorney.
       </p>

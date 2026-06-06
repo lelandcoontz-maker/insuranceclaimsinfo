@@ -482,12 +482,12 @@ export default function Content() {
         <strong>Status:</strong> Held in committee (status uncertain)
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        AB 597 would cap public adjuster fees at 15% of insurance payouts for claims arising from
-        declared disasters and prohibit public adjuster solicitation while emergency conditions are
+        AB 597 would cap Public Adjuster fees at 15% of insurance payouts for claims arising from
+        declared disasters and prohibit Public Adjuster solicitation while emergency conditions are
         present. It also includes a right to rescind contracts solicited during prohibited periods.
         For more on this bill, see the full article on{' '}
         <Link href="/resources/ab-597-public-adjuster-regulations" className="text-[#2E74B5] underline">
-          AB 597 and public adjuster regulations
+          AB 597 and Public Adjuster regulations
         </Link>.
       </p>
 

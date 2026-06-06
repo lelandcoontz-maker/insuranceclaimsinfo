@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Do I Need a Lawyer for My Insurance Claim?',
   description:
-    'A decision framework for California policyholders: when a public adjuster is enough, when you need an attorney, how fees work, and what to look for when hiring.',
+    'A decision framework for California policyholders: when a Public Adjuster is enough, when you need an attorney, how fees work, and what to look for when hiring.',
   summary:
-    'A public adjuster is often enough for valuation and negotiation disputes, but you need an attorney when the insurer acts in bad faith, denies the claim outright, or litigation looms. Attorneys typically work on contingency for these claims, so cost is rarely a barrier.',
+    'A Public Adjuster is often enough for valuation and negotiation disputes, but you need an attorney when the insurer acts in bad faith, denies the claim outright, or litigation looms. Attorneys typically work on contingency for these claims, so cost is rarely a barrier.',
 }
 
 export default function Content() {
@@ -21,7 +21,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not every insurance claim needs a lawyer. Some need a public adjuster. Some you can handle
+        Not every insurance claim needs a lawyer. Some need a Public Adjuster. Some you can handle
         yourself. But some absolutely require legal representation — and the cost of getting that
         decision wrong can be enormous. This guide gives you a clear framework for deciding who to
         hire and when.
@@ -56,7 +56,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A{' '}
         <Link href="/resources/what-public-adjuster-does" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         (PA) is a licensed professional who represents policyholders in insurance claims. PAs are
         experts in documenting damage, preparing estimates, reading policies, and negotiating with
@@ -275,9 +275,9 @@ export default function Content() {
       </ul>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        For more on what a public adjuster does, see our{' '}
+        For more on what a Public Adjuster does, see our{' '}
         <Link href="/resources/what-public-adjuster-does" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster guide
+          Public Adjuster guide
         </Link>. For more on{' '}
         <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
           the appraisal process

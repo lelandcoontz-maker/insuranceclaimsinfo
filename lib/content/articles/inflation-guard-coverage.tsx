@@ -328,7 +328,7 @@ export default function Content() {
         <li>
           <strong>Compare the current policy limit to an independent replacement cost estimate.</strong>{' '}
           Request a replacement cost estimate from the insurer, or better yet, obtain one from an
-          independent source such as a contractor or a licensed public adjuster. Compare this figure
+          independent source such as a contractor or a licensed Public Adjuster. Compare this figure
           to the current dwelling limit shown on the{' '}
           <Link href="/resources/declarations-page" className="text-[#2E74B5] underline">
             declarations page

@@ -820,7 +820,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Business personal property claims are more complex than residential contents
-        claims, and the stakes are typically higher. A public adjuster can add
+        claims, and the stakes are typically higher. A Public Adjuster can add
         significant value in the following situations:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

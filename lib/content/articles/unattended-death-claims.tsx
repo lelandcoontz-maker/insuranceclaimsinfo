@@ -497,7 +497,7 @@ export default function Content() {
         the principle that documentation requirements should be reasonable given the circumstances
         applies. A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         can handle much of the{' '}
         <Link href="/resources/contents-claims" className="text-[#2E74B5] hover:underline">
@@ -781,10 +781,10 @@ export default function Content() {
           another independent CIH perform clearance testing.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster.</strong> Unattended death claims are among
+          <strong>Consider hiring a Public Adjuster.</strong> Unattended death claims are among
           the most complex and emotionally taxing property insurance claims. A{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           handles the insurance process on your behalf &mdash; they read and respond to the
           carrier&rsquo;s letters, coordinate with the CIH and remediation company, document

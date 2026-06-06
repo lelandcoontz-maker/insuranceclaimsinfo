@@ -380,9 +380,9 @@ export default function Content() {
           statement.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster to review the statement.</strong> A licensed{' '}
+          <strong>Consider hiring a Public Adjuster to review the statement.</strong> A licensed{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           reviews these documents for a living and can quickly identify errors that a policyholder
           might miss &mdash; particularly in how depreciation, limits, and sublimits were applied.

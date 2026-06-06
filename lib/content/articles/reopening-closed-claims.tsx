@@ -65,7 +65,7 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          <strong>Original scope inadequacy discovered by a second professional.</strong> A public adjuster, independent contractor, or engineer reviews the original estimate and identifies items that were missed entirely &mdash; not hidden damage, but damage that was there to be found and simply was not documented. This is particularly common in{' '}
+          <strong>Original scope inadequacy discovered by a second professional.</strong> A Public Adjuster, independent contractor, or engineer reviews the original estimate and identifies items that were missed entirely &mdash; not hidden damage, but damage that was there to be found and simply was not documented. This is particularly common in{' '}
           <Link href="/resources/scope-of-loss" className="text-[#2E74B5] underline">
             scope of loss disputes
           </Link>.
@@ -163,7 +163,7 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Prepare a Detailed Supplement Estimate</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A supplement request is only as strong as the estimate supporting it. Have your contractor or public adjuster prepare a detailed, itemized estimate of the additional work needed. If possible, present it in Xactimate format, which is the industry standard that carriers use internally. A supplement written in the carrier&apos;s own estimating software is far more difficult to dismiss than a handwritten number on a contractor&apos;s letterhead. For more on the supplement submission process, see our comprehensive{' '}
+        A supplement request is only as strong as the estimate supporting it. Have your contractor or Public Adjuster prepare a detailed, itemized estimate of the additional work needed. If possible, present it in Xactimate format, which is the industry standard that carriers use internally. A supplement written in the carrier&apos;s own estimating software is far more difficult to dismiss than a handwritten number on a contractor&apos;s letterhead. For more on the supplement submission process, see our comprehensive{' '}
         <Link href="/resources/supplement-process-insurance-claims" className="text-[#2E74B5] underline">
           supplement process guide
         </Link>.
@@ -441,7 +441,7 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Public Adjusters</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster represents the policyholder &mdash; not the insurance company. Public adjusters are licensed professionals who specialize in preparing, documenting, and negotiating insurance claims. They are particularly valuable in supplement and reopening situations because they understand what documentation the carrier needs, how to present it persuasively, and how to counter the carrier&apos;s resistance tactics. A public adjuster can prepare a professional-grade supplement estimate, coordinate with contractors and engineers, and negotiate directly with the carrier on the policyholder&apos;s behalf.
+        A Public Adjuster represents the policyholder &mdash; not the insurance company. Public adjusters are licensed professionals who specialize in preparing, documenting, and negotiating insurance claims. They are particularly valuable in supplement and reopening situations because they understand what documentation the carrier needs, how to present it persuasively, and how to counter the carrier&apos;s resistance tactics. A Public Adjuster can prepare a professional-grade supplement estimate, coordinate with contractors and engineers, and negotiate directly with the carrier on the policyholder&apos;s behalf.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Contractors</h3>
@@ -529,7 +529,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you are dealing with a closed claim and additional damage has been discovered, act now. Document the damage. Notify the carrier. Submit your supplement. And if the carrier refuses to cooperate, engage a public adjuster or attorney who can advocate effectively on your behalf. The fact that the claim was closed does not mean you have lost your rights. It means you need to exercise them.
+        If you are dealing with a closed claim and additional damage has been discovered, act now. Document the damage. Notify the carrier. Submit your supplement. And if the carrier refuses to cooperate, engage a Public Adjuster or attorney who can advocate effectively on your behalf. The fact that the claim was closed does not mean you have lost your rights. It means you need to exercise them.
       </p>
 
       <hr className="my-8 border-gray-300" />

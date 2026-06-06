@@ -705,7 +705,7 @@ export default function Content() {
           conservation or liquidation, having your own records will be essential.
         </li>
         <li>
-          <strong>Consider consulting a public adjuster or attorney.</strong> If you have an
+          <strong>Consider consulting a Public Adjuster or attorney.</strong> If you have an
           open claim with a carrier you suspect may be heading toward insolvency, professional
           assistance can help ensure your claim is properly documented and positioned before
           the transition to CIGA.
@@ -907,7 +907,7 @@ export default function Content() {
           not constitute legal or professional advice. Insurance law is complex and
           fact-specific. If your insurance company has been placed in conservation or
           liquidation, or if you have concerns about your carrier&rsquo;s financial health,
-          consult a licensed attorney or public adjuster who can evaluate your specific
+          consult a licensed attorney or Public Adjuster who can evaluate your specific
           circumstances. Nothing in this article creates an attorney-client or
           professional-client relationship.
         </p>

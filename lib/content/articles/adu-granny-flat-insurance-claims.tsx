@@ -875,7 +875,7 @@ export default function Content() {
         Do not rely on the insurer&rsquo;s replacement cost estimator for the ADU. These tools
         are designed for main dwellings and often fail to accurately capture the cost of a small,
         standalone structure with full residential systems. Get an independent estimate of the
-        ADU&rsquo;s replacement cost from a licensed contractor or a public adjuster. This number
+        ADU&rsquo;s replacement cost from a licensed contractor or a Public Adjuster. This number
         is what your Coverage B limit (or your Coverage A limit, if the ADU is attached) needs
         to cover.
       </p>
@@ -1001,7 +1001,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A licensed public adjuster can prepare a detailed, standalone replacement cost estimate for
+        A licensed Public Adjuster can prepare a detailed, standalone replacement cost estimate for
         the ADU, negotiate the coverage classification, and present the legal arguments for maximum
         coverage. An attorney experienced in insurance coverage can handle formal disputes,
         including bad faith claims if the insurer&rsquo;s conduct warrants it. For an overview of

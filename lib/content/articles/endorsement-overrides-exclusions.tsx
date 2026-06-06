@@ -319,7 +319,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Keep It Factual">
         <p>
-          Your letter does not need to cite case law or make legal arguments. You are a policyholder (or a public adjuster representing one), not a lawyer. Stick to the policy language, the endorsement language, and the factual basis for why the endorsement provides coverage. The strength of this argument comes from the documents themselves, not from legal citations.
+          Your letter does not need to cite case law or make legal arguments. You are a policyholder (or a Public Adjuster representing one), not a lawyer. Stick to the policy language, the endorsement language, and the factual basis for why the endorsement provides coverage. The strength of this argument comes from the documents themselves, not from legal citations.
         </p>
       </CalloutBox>
 
@@ -336,7 +336,7 @@ export default function Content() {
         But some insurers will simply reassert the denial without addressing the endorsement at all. The second denial letter will repeat the same base form exclusion language and ignore the endorsement entirely, as if you had never raised it. If that happens, the insurer has a serious problem. Ignoring a policy provision that a policyholder has specifically identified and quoted is difficult to defend as a good-faith claims handling practice. California Insurance Code &sect; 790.03(h)(5) makes it an unfair claims practice to fail to affirm or deny coverage within a reasonable time after the insurer has completed its investigation. An investigation that ignores an endorsement the policyholder has identified is not a complete investigation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        At that point, the policyholder should consider filing a complaint with the California Department of Insurance, retaining a public adjuster to handle the claim, or consulting with an attorney about the insurer&apos;s obligations under the California Fair Claims Settlement Practices Regulations. An insurer that collects a premium for an endorsement and then refuses to acknowledge it when a claim arises is not handling the claim in good faith.
+        At that point, the policyholder should consider filing a complaint with the California Department of Insurance, retaining a Public Adjuster to handle the claim, or consulting with an attorney about the insurer&apos;s obligations under the California Fair Claims Settlement Practices Regulations. An insurer that collects a premium for an endorsement and then refuses to acknowledge it when a claim arises is not handling the claim in good faith.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">

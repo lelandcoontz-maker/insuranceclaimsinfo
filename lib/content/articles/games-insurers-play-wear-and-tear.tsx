@@ -327,7 +327,7 @@ export default function Content() {
         2. Get an independent inspection
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Hire your own contractor, engineer, or public adjuster to evaluate the damage and identify
+        Hire your own contractor, engineer, or Public Adjuster to evaluate the damage and identify
         the actual cause of loss. Their report will carry weight, especially if the insurance
         company&rsquo;s inspection was superficial.
       </p>

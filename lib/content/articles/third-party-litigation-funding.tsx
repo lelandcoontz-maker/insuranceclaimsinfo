@@ -354,8 +354,8 @@ export default function Content() {
         </li>
         <li>
           <strong>Public adjuster representation:</strong> For many first-party property
-          claims, hiring a licensed public adjuster can resolve the dispute without
-          litigation altogether. A public adjuster works directly with the insurance company
+          claims, hiring a licensed Public Adjuster can resolve the dispute without
+          litigation altogether. A Public Adjuster works directly with the insurance company
           to negotiate a fair settlement and charges a fee based on the recovery. If the
           claim can be resolved through negotiation, appraisal, or other pre-litigation
           methods, the cost is substantially less than litigation &mdash; funded or otherwise.

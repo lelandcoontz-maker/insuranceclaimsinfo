@@ -153,7 +153,7 @@ export default function Content() {
         <li><strong>Assess timing.</strong> Are repairs complete? Are ALE costs still accruing? Is there any possibility of additional damage being discovered?</li>
         <li><strong>Propose carve-outs.</strong> Draft carve-out language for items that are not yet resolved.</li>
         <li><strong>Get modifications in writing.</strong> Ensure carve-outs are incorporated into the release document itself.</li>
-        <li><strong>Consult a professional.</strong> Consider consulting a licensed public adjuster or an attorney before signing any release on a significant claim.</li>
+        <li><strong>Consult a professional.</strong> Consider consulting a licensed Public Adjuster or an attorney before signing any release on a significant claim.</li>
         <li><strong>Preserve your objection.</strong> If you refuse to sign and the carrier withholds payment, document everything in writing.</li>
       </ol>
 

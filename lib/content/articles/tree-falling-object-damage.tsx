@@ -410,7 +410,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If a tree has caused significant structural damage &mdash; not just missing shingles but
         penetration of the roof deck, damaged trusses, or displaced walls &mdash; consider
-        engaging a licensed public adjuster early. Tree impact claims involve hidden damage that
+        engaging a licensed Public Adjuster early. Tree impact claims involve hidden damage that
         requires expertise to identify, scope, and price. What the carrier calls a $12,000 roof
         patch may be a $60,000 structural repair once hidden damage is identified. Getting the
         scope right from the beginning is far easier than fighting to reopen a settled claim.

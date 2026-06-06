@@ -228,7 +228,7 @@ export default function Content() {
           policyholder should challenge any coinsurance penalty. The carrier should not be
           permitted to penalize a policyholder for relying on the carrier&rsquo;s own
           inadequate estimate. Policyholders facing this situation should consult with a
-          public adjuster or coverage attorney immediately.
+          Public Adjuster or coverage attorney immediately.
         </p>
       </CalloutBox>
 
@@ -287,7 +287,7 @@ export default function Content() {
         <li>
           <strong>Obtain an independent replacement cost estimate.</strong> Do not rely
           solely on the carrier&rsquo;s valuation tool. Hire a licensed contractor, appraiser,
-          or public adjuster to provide an independent estimate of what it would cost to
+          or Public Adjuster to provide an independent estimate of what it would cost to
           rebuild the structure from the ground up, including demolition, debris removal,
           foundation work, and construction to current code. Compare that figure to the
           Coverage A limit on the declarations page.
@@ -408,12 +408,12 @@ export default function Content() {
           provide additional funds beyond the stated Coverage A limit.
         </li>
         <li>
-          <strong>Consult with a public adjuster and an attorney.</strong> Underinsurance
+          <strong>Consult with a Public Adjuster and an attorney.</strong> Underinsurance
           claims involve both{' '}
           <Link href="/resources/scope-of-loss" className="text-[#2E74B5] underline hover:text-blue-900">
             scope and valuation disputes
           </Link>{' '}
-          (where a public adjuster can help maximize recovery within the policy limits) and
+          (where a Public Adjuster can help maximize recovery within the policy limits) and
           potential coverage or bad faith claims (where an attorney may be needed to pursue
           recovery beyond the limits).
         </li>
@@ -516,7 +516,7 @@ export default function Content() {
           and applicable law vary by state and by policy form. The class action cases referenced
           are illustrative of the types of claims that have been brought; this article does not
           represent that any particular outcome was reached or that similar claims will succeed
-          in all circumstances. Consult a licensed attorney or public adjuster for advice on your
+          in all circumstances. Consult a licensed attorney or Public Adjuster for advice on your
           specific situation.
         </p>
         <p className="mt-2">

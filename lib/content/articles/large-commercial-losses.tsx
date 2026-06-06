@@ -424,7 +424,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A large commercial loss is not a do-it-yourself claim. The carrier has adjusters,
         forensic accountants, engineers, and attorneys all working to manage its exposure.
-        The policyholder needs equivalent representation. A licensed public adjuster on a
+        The policyholder needs equivalent representation. A licensed Public Adjuster on a
         large commercial loss serves several critical functions:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -458,7 +458,7 @@ export default function Content() {
           Public adjuster fees on large commercial losses typically range from 5% to 10%
           of the recovery. The additional recovery achieved through proper scoping, soft
           cost documentation, ordinance or law claims, and business income analysis
-          routinely exceeds the fee by a substantial margin. A public adjuster who
+          routinely exceeds the fee by a substantial margin. A Public Adjuster who
           recovers an additional $800,000 in soft costs and ordinance or law on a $3
           million claim has more than justified a $200,000 fee. The policyholder nets
           more money with representation than without it.
@@ -499,7 +499,7 @@ export default function Content() {
           the name of every person you speak with.
         </li>
         <li>
-          <strong>Engage a licensed public adjuster before the carrier&rsquo;s team
+          <strong>Engage a licensed Public Adjuster before the carrier&rsquo;s team
           arrives.</strong> The earlier you have representation, the better positioned
           you are to control the claim narrative.
         </li>
@@ -510,7 +510,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Do not give recorded statements without preparation.</strong> Review
-          the scope of any statement request with your public adjuster or attorney first.
+          the scope of any statement request with your Public Adjuster or attorney first.
         </li>
         <li>
           <strong>Document every communication with the carrier.</strong> Keep a log of

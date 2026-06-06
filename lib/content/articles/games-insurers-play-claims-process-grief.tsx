@@ -436,7 +436,7 @@ export default function Content() {
         <li>
           A{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           reads the reservation of rights letters, responds to documentation demands, coordinates
           with the remediation company, and documents the full scope of the loss. The family does
@@ -473,7 +473,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="What This Looks Like in Practice">
         <p>
-          When a family retains a public adjuster on a trauma claim, the adjuster becomes the point
+          When a family retains a Public Adjuster on a trauma claim, the adjuster becomes the point
           of contact for the carrier. The adjuster receives the letters, responds to the deadlines,
           coordinates the experts, and builds the claim. The family&rsquo;s only role is to approve
           decisions and sign documents. Everything else &mdash; every phone call, every form, every
@@ -568,7 +568,7 @@ export default function Content() {
         If you are a family going through this right now, the single most important thing you can
         do is get someone between you and the process. A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-          public adjuster
+          Public Adjuster
         </Link>. An attorney. Someone who can read the letters, respond to the deadlines, and fight
         the coverage battles while you take care of your family. The process will not slow down
         for you. It will not soften its language. It will not wait until you are ready.

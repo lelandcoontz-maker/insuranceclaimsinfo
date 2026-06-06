@@ -245,14 +245,14 @@ export default function Content() {
         Liebeck into a punchline has trained the American public to be suspicious of anyone who
         challenges a corporation. When a policyholder fights for full payment on a fire claim, the
         insurer&rsquo;s narrative writes itself: the homeowner is exaggerating. The contractor is
-        gouging. The public adjuster is inflating the claim. The lawsuit is frivolous.
+        gouging. The Public Adjuster is inflating the claim. The lawsuit is frivolous.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This narrative operates at every level of the insurance claim process:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>In the claims department</strong>, policyholders who push back on underpayment are
-        flagged as difficult or adversarial. Those who hire public adjusters or attorneys are
+        flagged as difficult or adversarial. Those who hire Public Adjusters or attorneys are
         sometimes referred to Special Investigative Units &mdash; not because there is evidence of
         fraud, but because the act of hiring representation is treated as a red flag.
       </p>
@@ -466,7 +466,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If they fight, the tort reform narrative is waiting for them. They are the greedy plaintiff.
-        Their contractor is the gouging vendor. Their public adjuster is the ambulance chaser. Their
+        Their contractor is the gouging vendor. Their Public Adjuster is the ambulance chaser. Their
         lawsuit is the frivolous claim. The entire apparatus of tort reform &mdash; the think tanks,
         the lobbying groups, the judicial election campaigns, the &ldquo;lawsuit abuse&rdquo; talking
         points &mdash; exists to make sure that when a policyholder walks into a courtroom, the jury

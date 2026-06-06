@@ -97,7 +97,7 @@ export default function Content() {
           different city &mdash; or even a different part of the state &mdash; and still recover
           the holdback that would otherwise be lost. The replacement dwelling does not need to be
           identical, but it must be a functional replacement. Read your policy language and the
-          statute carefully, and consult with a licensed public adjuster or attorney about whether
+          statute carefully, and consult with a licensed Public Adjuster or attorney about whether
           this option applies to your situation.
         </p>
       </CalloutBox>
@@ -314,7 +314,7 @@ export default function Content() {
           regardless of what you do with the money. Make sure the scope of loss is complete,
           the pricing is accurate, and every component of the dwelling is accounted for. A{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           can help ensure the ACV calculation is fair.
         </li>
@@ -378,7 +378,7 @@ export default function Content() {
           </Link>{' '}
           &mdash; regardless of your rebuilding intentions. A{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            licensed public adjuster
+            licensed Public Adjuster
           </Link>{' '}
           or attorney can help you maximize your recovery whether you rebuild or not.
         </p>

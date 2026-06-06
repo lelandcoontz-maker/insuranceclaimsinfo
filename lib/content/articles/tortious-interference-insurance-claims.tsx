@@ -870,7 +870,7 @@ export default function Content() {
           <strong>Instruct your contractor not to negotiate with the carrier.</strong> Tell your
           contractor in writing that they should not discuss pricing, scope, or scheduling with the
           carrier without your express permission. If the carrier contacts the contractor directly,
-          the contractor should refer the carrier back to you (or your public adjuster or attorney).
+          the contractor should refer the carrier back to you (or your Public Adjuster or attorney).
           This instruction creates a clear record that any direct contact between the carrier and
           the contractor was unauthorized.
         </li>
@@ -906,7 +906,7 @@ export default function Content() {
           indefensible position on the record creates discoverable evidence.
         </li>
         <li>
-          <strong>Engage a public adjuster or attorney early.</strong> If you see signs of
+          <strong>Engage a Public Adjuster or attorney early.</strong> If you see signs of
           interference &mdash; direct contact with your contractor, suggestions to use a preferred
           vendor, unexplained delays in payment &mdash; consider engaging a licensed public
           adjuster or an attorney who handles insurance disputes. These professionals can identify

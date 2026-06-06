@@ -88,7 +88,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Consider the common pattern. The property owner hires a contractor. The contractor
         submits an estimate or bid. The insurance company&apos;s adjuster reviews the estimate
-        and disputes many of the line items. The property owner&apos;s public adjuster or
+        and disputes many of the line items. The property owner&apos;s Public Adjuster or
         attorney submits a{' '}
         <Link href="/resources/supplement-process-insurance-claims" className="text-[#2E74B5] underline">
           supplement
@@ -120,7 +120,7 @@ export default function Content() {
         that a politely worded supplement request does not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Some experienced public adjusters and attorneys recognize this dynamic and factor it into
+        Some experienced Public Adjusters and attorneys recognize this dynamic and factor it into
         their strategy. A carrier that has been sitting on a{' '}
         <Link href="/resources/supplement-process-insurance-claims" className="text-[#2E74B5] underline">
           supplement
@@ -797,7 +797,7 @@ export default function Content() {
           supplements
         </Link>{' '}
         should be aware that the longer the carrier takes to pay, the greater the risk that
-        contractor liens will follow. This is another reason why having a public adjuster or
+        contractor liens will follow. This is another reason why having a Public Adjuster or
         attorney involved early in the process can be critical &mdash; not just for negotiating
         the claim amount, but for keeping pressure on the carrier to pay within the regulatory
         timelines.
@@ -873,7 +873,7 @@ export default function Content() {
         If you also have a dispute with your insurance company, you may need both a construction
         attorney (for the lien issues) and an insurance coverage attorney (for the claim dispute).
         In some cases, one attorney may handle both. In other cases, you may need specialists in
-        each area. Your public adjuster can help coordinate these different aspects of the
+        each area. Your Public Adjuster can help coordinate these different aspects of the
         situation.
       </p>
 
@@ -1124,7 +1124,7 @@ export default function Content() {
           and the insurance estimate format
         </li>
         <li>
-          Willingness to work with the property owner and the public adjuster or attorney during
+          Willingness to work with the property owner and the Public Adjuster or attorney during
           the supplement process
         </li>
         <li>

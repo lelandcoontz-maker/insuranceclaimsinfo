@@ -275,7 +275,7 @@ export default function Content() {
         <strong>Get a contractor&apos;s estimate.</strong> Obtain one or more written estimates from licensed general contractors. If every contractor who bids the job includes overhead and profit, that is powerful evidence that O&amp;P is a real cost of the repair.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
-        <strong>Consult a public adjuster or attorney.</strong> O&amp;P disputes can involve significant amounts of money &mdash; 20% of the entire repair estimate. A qualified public adjuster or policyholder attorney can evaluate your specific situation, review your policy language, and determine the best path forward.
+        <strong>Consult a Public Adjuster or attorney.</strong> O&amp;P disputes can involve significant amounts of money &mdash; 20% of the entire repair estimate. A qualified Public Adjuster or policyholder attorney can evaluate your specific situation, review your policy language, and determine the best path forward.
       </p>
 
       <CalloutBox variant="tip" title="The Dollar Impact of O&amp;P">

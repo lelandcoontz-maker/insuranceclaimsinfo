@@ -267,7 +267,7 @@ export default function Content() {
         <li>
           <strong>Proof of loss is always required.</strong> Even in a total loss scenario, the
           policyholder must document and prove the replacement cost. This typically requires a
-          detailed estimate prepared by a contractor, a public adjuster, or an estimating
+          detailed estimate prepared by a contractor, a Public Adjuster, or an estimating
           professional using tools like Xactimate. The insurer will prepare its own estimate, and
           the two sides will negotiate.
         </li>

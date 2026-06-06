@@ -160,7 +160,7 @@ export default function Content() {
         If the ROR raises genuine coverage questions on a significant claim, this is the point
         where consulting an attorney or{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         becomes important.
       </p>
@@ -327,7 +327,7 @@ export default function Content() {
         <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
           CDI complaint
         </Link>
-        , consultation with an attorney, or engagement of a public adjuster to prepare a formal
+        , consultation with an attorney, or engagement of a Public Adjuster to prepare a formal
         response.
       </p>
 
@@ -373,7 +373,7 @@ export default function Content() {
         release contains language stating that the payment is &ldquo;in full and final settlement&rdquo;
         of the claim, endorsing it could be construed as acceptance of the full settlement. Cross
         out the restrictive language and write &ldquo;accepted as partial payment only&rdquo;
-        before endorsing. Better yet, have an attorney or public adjuster review the payment
+        before endorsing. Better yet, have an attorney or Public Adjuster review the payment
         terms before you deposit the check.
       </p>
 

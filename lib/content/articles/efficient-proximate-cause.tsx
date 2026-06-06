@@ -272,7 +272,7 @@ export default function Content() {
           <strong>Put the carrier on notice in writing.</strong> A formal dispute letter that
           identifies the efficient proximate cause doctrine is a common step. An insured
           handling their own claim can reference and rely on the doctrine and the supporting
-          cases in their own correspondence. A public adjuster&apos;s role centers on
+          cases in their own correspondence. A Public Adjuster&apos;s role centers on
           developing the factual record &mdash; the causal chain, the &ldquo;before and
           after,&rdquo; the standalone covered loss. Building the legal argument around the
           doctrine, and any litigation, is the work of a California-licensed attorney. See
@@ -288,8 +288,8 @@ export default function Content() {
         <li>
           <strong>Consider a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
-          </Link>.</strong> A licensed public adjuster can help document the damages, prepare the scope of loss, and negotiate with the carrier on the amount of the claim &mdash; while an attorney handles the coverage dispute.
+            Public Adjuster
+          </Link>.</strong> A licensed Public Adjuster can help document the damages, prepare the scope of loss, and negotiate with the carrier on the amount of the claim &mdash; while an attorney handles the coverage dispute.
         </li>
       </ol>
 
@@ -360,10 +360,10 @@ export default function Content() {
           Concerned About How Your Claim Is Being Handled?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          A licensed public adjuster can review an insurance claim file to identify underpaid
+          A licensed Public Adjuster can review an insurance claim file to identify underpaid
           items and may be able to develop the factual record that supports an efficient
-          proximate cause analysis. A public adjuster may also identify issues that warrant
-          consultation with an attorney. Most public adjusters and attorneys will provide a
+          proximate cause analysis. A Public Adjuster may also identify issues that warrant
+          consultation with an attorney. Most Public Adjusters and attorneys will provide a
           free consultation.
         </p>
         <Link

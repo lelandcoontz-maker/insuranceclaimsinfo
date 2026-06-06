@@ -18,7 +18,7 @@ export default function Content() {
           Adjuster. Xactimate is a proprietary product of Verisk. The information here reflects
           general industry knowledge about how Xactimate estimates are structured and read. If
           you have a dispute with your insurance company about the contents of an estimate,
-          consult a licensed public adjuster or attorney.
+          consult a licensed Public Adjuster or attorney.
         </p>
       </CalloutBox>
 
@@ -418,7 +418,7 @@ export default function Content() {
         <Link href="/resources/scope-of-loss" className="text-blue-700 underline hover:text-blue-900">
           properly scoped estimate
         </Link>{' '}
-        from a licensed public adjuster or qualified contractor can document what the carrier
+        from a licensed Public Adjuster or qualified contractor can document what the carrier
         missed. The supplement should be written in Xactimate using the same pricing database
         so the comparison is apples-to-apples.
       </p>
@@ -432,7 +432,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Get Your Own Estimate">
         <p>
           You are not required to accept the carrier&rsquo;s estimate at face value. A licensed
-          public adjuster can write an independent Xactimate estimate, identify what the carrier
+          Public Adjuster can write an independent Xactimate estimate, identify what the carrier
           missed, and negotiate on your behalf. If estimates cannot be reconciled, the dispute
           may proceed to{' '}
           <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">

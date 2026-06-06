@@ -274,7 +274,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         You may also have your own{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         or forensic expert present during inspections. Having your own expert observe the insurance
         company&apos;s C&amp;O investigation &mdash; examining the same evidence, taking independent
@@ -632,7 +632,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Be present during the insurer&apos;s inspection.</strong> You have the right to
-          be present (and to have your attorney, public adjuster, or own expert present) when the
+          be present (and to have your attorney, Public Adjuster, or own expert present) when the
           insurance company&apos;s C&amp;O investigator examines the scene. Observe what the
           investigator looks at, what samples or items they collect, and what questions they ask.
           Take your own photographs during the inspection.

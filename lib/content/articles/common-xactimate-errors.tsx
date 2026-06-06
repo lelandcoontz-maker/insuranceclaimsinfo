@@ -914,7 +914,7 @@ export default function Content() {
         <li>
           <strong>Escalate if needed</strong> &mdash; if legitimate errors are not being
           corrected, you have options including requesting a supervisor review, hiring a
-          public adjuster, invoking the appraisal clause, or filing a complaint with your
+          Public Adjuster, invoking the appraisal clause, or filing a complaint with your
           state&apos;s department of insurance
         </li>
       </ol>
@@ -950,7 +950,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some errors are straightforward enough for a homeowner to identify and dispute. Others
-        require professional expertise. Consider hiring a licensed public adjuster or an
+        require professional expertise. Consider hiring a licensed Public Adjuster or an
         independent Xactimate estimator when:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -1049,7 +1049,7 @@ export default function Content() {
         oversight &mdash; a simple supplement request may not be enough. The adjuster may
         lack authority to override company guidelines, even when those guidelines produce an
         incomplete estimate. In this situation, you may need to escalate: request a supervisor
-        review, hire a public adjuster, invoke appraisal, or file a department of insurance
+        review, hire a Public Adjuster, invoke appraisal, or file a department of insurance
         complaint. The approach is different because the problem is different.
       </p>
 

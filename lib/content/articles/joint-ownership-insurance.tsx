@@ -255,7 +255,7 @@ export default function Content() {
         insureds, particularly when accompanied by an explanation of why the other insured cannot
         or will not sign. But others will insist on all signatures. If you are in this situation,
         document your efforts to obtain the co-owner&rsquo;s signature, put your request in writing,
-        and consult with a public adjuster or attorney about how to proceed.
+        and consult with a Public Adjuster or attorney about how to proceed.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -401,7 +401,7 @@ export default function Content() {
           bare ownership percentage. Conversely, a co-owner who has never lived in the property, has
           never contributed to its maintenance, and has no financial exposure if it is destroyed may
           have a weaker claim to insurable interest. The analysis is fact-specific, and a qualified
-          public adjuster or attorney should evaluate the specific circumstances.
+          Public Adjuster or attorney should evaluate the specific circumstances.
         </p>
       </CalloutBox>
 
@@ -898,7 +898,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When co-owners have conflicting interests, a single representative cannot adequately
-        represent both. One co-owner should not assume that the public adjuster or attorney hired
+        represent both. One co-owner should not assume that the Public Adjuster or attorney hired
         by the other co-owner is looking out for their interests. If you have a significant
         ownership stake and the claim is substantial, retain your own professional. The cost of
         independent representation is far less than the cost of being marginalized in a claim that

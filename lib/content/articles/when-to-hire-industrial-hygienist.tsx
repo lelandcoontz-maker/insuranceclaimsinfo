@@ -464,7 +464,7 @@ export default function Content() {
         $20,000 remediation claim is a sound investment. The CIH&rsquo;s documentation
         frequently recovers multiples of its cost by establishing the true scope of
         contamination that the carrier was prepared to minimize. In the author&rsquo;s
-        experience as a public adjuster, the return on a CIH engagement is among the
+        experience as a Public Adjuster, the return on a CIH engagement is among the
         highest of any claim-related expenditure.
       </p>
 
@@ -477,7 +477,7 @@ export default function Content() {
           may be recoverable from the carrier if you prevail in a bad faith action. Even
           outside of litigation, CIH fees can be included as a claim-related expense in
           your proof of loss. Discuss recoverability with your{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>{' '}
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>{' '}
           or attorney.
         </p>
       </CalloutBox>
@@ -543,7 +543,7 @@ export default function Content() {
         Check References and Review Sample Reports
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Ask for references from attorneys, public adjusters, or other professionals who
+        Ask for references from attorneys, Public Adjusters, or other professionals who
         have used the CIH&rsquo;s services on insurance claims. Request a sample report
         (with identifying information redacted) to evaluate the thoroughness of their
         documentation. A quality CIH report should include a detailed description of
@@ -557,7 +557,7 @@ export default function Content() {
           The ABIH website offers a searchable directory of Certified Industrial Hygienists.
           The American Industrial Hygiene Association (AIHA) also maintains a consultant
           directory. Your{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>{' '}
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>{' '}
           or insurance attorney may also have established relationships with CIHs who
           regularly support insurance claims in your area.
         </p>

@@ -263,7 +263,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The policyholder&rsquo;s team &mdash; whether that includes a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>
         , attorney, or both &mdash; should coordinate strategy across both claims. Representations made in one claim can affect the other. If the policyholder tells the first carrier that the roof was intact before the second event, that statement will be used in the second claim. Ensure that every statement made in either claim is consistent, accurate, and strategically considered.
       </p>
@@ -345,13 +345,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         can coordinate the documentation strategy across both claims, ensure that representations in one claim do not undermine the other, push the carrier for prompt inspections and advance payments, and retain the appropriate experts to establish damage attribution. When coverage disputes arise &mdash; as they almost inevitably do in overlapping claims &mdash; an experienced{' '}
         <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] underline">
           insurance coverage attorney
         </Link>{' '}
-        can address the legal issues that public adjusters are not licensed to handle.
+        can address the legal issues that Public Adjusters are not licensed to handle.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

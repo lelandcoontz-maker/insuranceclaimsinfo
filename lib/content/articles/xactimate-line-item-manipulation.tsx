@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Xactimate Line Item Manipulation: How "Included" Makes Covered Items Disappear',
   description:
-    'A detailed guide for policyholders, public adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the "included" designation and wrong codes to minimum charge suppression and missing items — and how to identify and challenge every tactic using Verisk\'s own documentation.',
+    'A detailed guide for policyholders, Public Adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the "included" designation and wrong codes to minimum charge suppression and missing items — and how to identify and challenge every tactic using Verisk\'s own documentation.',
   summary:
     'Carriers manipulate Xactimate estimates by omitting line items, using low waste factors, wrong labor settings, and stale pricing to shrink the total. Knowing these tactics lets you spot and correct a manipulated estimate line by line.',
 }
@@ -21,7 +21,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>A detailed guide for policyholders, public adjusters, and attorneys on how Xactimate line items can be manipulated to reduce claim payments &mdash; and how to use Verisk&apos;s own documentation to identify and challenge every variation of this practice.</em>
+        <em>A detailed guide for policyholders, Public Adjusters, and attorneys on how Xactimate line items can be manipulated to reduce claim payments &mdash; and how to use Verisk&apos;s own documentation to identify and challenge every variation of this practice.</em>
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -37,7 +37,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This article explains the most common forms of line item manipulation in Xactimate estimates, how each one works, why it reduces your payment, and how to challenge it using <Link href="/resources/how-to-read-verisk-white-paper" className="text-[#2E74B5] underline">Verisk&apos;s own documentation</Link>. If you are a policyholder trying to understand your estimate, a public adjuster building a supplement, or an attorney evaluating an underpayment claim, this is the reference you need.
+        This article explains the most common forms of line item manipulation in Xactimate estimates, how each one works, why it reduces your payment, and how to challenge it using <Link href="/resources/how-to-read-verisk-white-paper" className="text-[#2E74B5] underline">Verisk&apos;s own documentation</Link>. If you are a policyholder trying to understand your estimate, a Public Adjuster building a supplement, or an attorney evaluating an underpayment claim, this is the reference you need.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The &quot;Included&quot; Designation: When Items Disappear Without a Denial</h2>
@@ -437,7 +437,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        If your claim involves significant damage &mdash; and especially if the gap between the carrier&apos;s estimate and your contractor&apos;s estimate is large &mdash; consider engaging a <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">licensed public adjuster</Link> who can conduct a forensic review of the carrier&apos;s ESX file, identify every instance of line item manipulation, and prepare a properly documented supplement. Public adjusters who specialize in Xactimate work will have their own subscriptions to the software, access to Verisk&apos;s documentation, and the ability to produce a corrected estimate that stands up to scrutiny.
+        If your claim involves significant damage &mdash; and especially if the gap between the carrier&apos;s estimate and your contractor&apos;s estimate is large &mdash; consider engaging a <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">licensed Public Adjuster</Link> who can conduct a forensic review of the carrier&apos;s ESX file, identify every instance of line item manipulation, and prepare a properly documented supplement. Public adjusters who specialize in Xactimate work will have their own subscriptions to the software, access to Verisk&apos;s documentation, and the ability to produce a corrected estimate that stands up to scrutiny.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

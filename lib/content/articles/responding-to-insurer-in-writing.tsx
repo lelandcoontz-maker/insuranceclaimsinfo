@@ -332,7 +332,7 @@ export default function Content() {
         of my policy. The damage to my property was caused by a broken water main, not earth
         movement. I do not agree that this exclusion applies to my claim.&rdquo; If you are not
         sure whether the cited provisions apply, say you are reviewing the letter with your
-        public adjuster or attorney and will respond substantively within a stated timeframe.
+        Public Adjuster or attorney and will respond substantively within a stated timeframe.
         Do not ignore the letter and do not concede any of the cited provisions through silence.
       </p>
 

@@ -689,13 +689,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have a water damage claim and the carrier is invoking the 14-day exclusion,
         denying tear-out coverage, limiting the scope to visible damage, or blaming
-        maintenance, you should consider hiring a licensed public adjuster. Water damage
+        maintenance, you should consider hiring a licensed Public Adjuster. Water damage
         claims involve complex coverage questions, hidden damage that requires expertise
         to identify and document, and carrier tactics that are specifically designed to
         minimize payment.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster works for you &mdash; not the insurance company &mdash; and has the
+        A Public Adjuster works for you &mdash; not the insurance company &mdash; and has the
         expertise to read the policy language, challenge improper denials, scope the full
         extent of the damage, and negotiate a fair settlement. On accidental discharge claims
         in particular, the difference between a carrier&rsquo;s initial offer and a properly

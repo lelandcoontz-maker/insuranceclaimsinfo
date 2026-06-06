@@ -486,7 +486,7 @@ export default function Content() {
           verdict.
         </li>
         <li>
-          <strong>Consider who else is in the room.</strong> If your public adjuster, contractor, or
+          <strong>Consider who else is in the room.</strong> If your Public Adjuster, contractor, or
           other professional is present during settlement discussions, they are not bound by a White
           waiver they did not sign. Their observations may remain available as evidence regardless of
           the waiver.

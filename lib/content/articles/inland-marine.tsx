@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Inland Marine Insurance Claims: What It Covers and Why the Name Is Misleading',
   description:
-    'Inland marine insurance has nothing to do with water. Learn what it actually covers, how it differs from ocean marine, the major policy types, and how a public adjuster handles these specialized claims.',
+    'Inland marine insurance has nothing to do with water. Learn what it actually covers, how it differs from ocean marine, the major policy types, and how a Public Adjuster handles these specialized claims.',
   summary:
     'Inland marine insurance has nothing to do with water; it covers movable or specialized property like tools, equipment, and goods in transit. Knowing what it covers and how it differs from standard property coverage matters on specialized claims.',
 }
@@ -419,25 +419,25 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Inland marine claims are property claims &mdash; they fall squarely within the scope of
-        what a California-licensed public adjuster is authorized to handle under California
-        Insurance Code &sect; 15007. A public adjuster represents the policyholder, not the
+        what a California-licensed Public Adjuster is authorized to handle under California
+        Insurance Code &sect; 15007. A Public Adjuster represents the policyholder, not the
         insurance company, in preparing, presenting, and negotiating the claim.
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Specialized valuation:</strong> Construction equipment, fine art, musical
           instruments, and technology systems require specialized knowledge to value accurately.
-          A public adjuster knows how to obtain and present the right appraisals, market
+          A Public Adjuster knows how to obtain and present the right appraisals, market
           comparables, and replacement cost data.
         </li>
         <li>
           <strong>Policy interpretation:</strong> Unlike standard homeowner policies that use ISO
           bureau forms, many inland marine policies are manuscript forms with unique terms. A
-          public adjuster reads the actual policy language to identify all available coverage.
+          Public Adjuster reads the actual policy language to identify all available coverage.
         </li>
         <li>
           <strong>Documentation assembly:</strong> Equipment schedules, appraisals, transit
-          records, and data restoration estimates can be overwhelming. A public adjuster manages
+          records, and data restoration estimates can be overwhelming. A Public Adjuster manages
           this process and ensures the claim package is complete and persuasive.
         </li>
         <li>
@@ -447,7 +447,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Appraisal and dispute resolution:</strong> Most inland marine policies contain
-          an appraisal clause. A public adjuster can guide the policyholder through the{' '}
+          an appraisal clause. A Public Adjuster can guide the policyholder through the{' '}
           <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
             appraisal process
           </Link>{' '}
@@ -485,8 +485,8 @@ export default function Content() {
           as they do to any other property claim.
         </li>
         <li>
-          <strong>A public adjuster can handle these claims.</strong> Inland marine claims are
-          property claims, and a licensed public adjuster has full authority to represent you.
+          <strong>A Public Adjuster can handle these claims.</strong> Inland marine claims are
+          property claims, and a licensed Public Adjuster has full authority to represent you.
         </li>
       </ol>
 
@@ -495,7 +495,7 @@ export default function Content() {
         damaged on a job site, a valuable piece of art destroyed in a fire, or a shipment of
         goods lost in transit &mdash; understanding your policy and documenting your loss are the
         two most important steps you can take. And if the stakes are significant, working with a
-        public adjuster who understands these specialized policies can make the difference between
+        Public Adjuster who understands these specialized policies can make the difference between
         an adequate settlement and a full recovery.
       </p>
       <hr className="my-8 border-gray-300" />

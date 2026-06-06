@@ -158,7 +158,7 @@ export default function Content() {
           <strong>Public Adjuster:</strong> Best for amount disputes — when the insurer accepts
           coverage but underpays. A{' '}
           <Link href="/resources/what-public-adjuster-does" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           works on your behalf to document, estimate, and negotiate the claim. Licensed by the state.
           Typically works on a percentage of the recovery.

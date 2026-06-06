@@ -168,7 +168,7 @@ export default function Content() {
           deny your claim. Ignoring the letter, failing to respond, or assuming it is a formality
           can cost you. Read the letter carefully, identify the specific coverage issues the insurer
           has raised, and take steps to protect your interests &mdash; including consulting with a
-          public adjuster or an attorney experienced in{' '}
+          Public Adjuster or an attorney experienced in{' '}
           <Link href="/resources/coverage-disputes" className="text-[#2E74B5] underline">
             coverage disputes
           </Link>.
@@ -601,7 +601,7 @@ export default function Content() {
         A reservation of rights letter is one of the clearest signals that a claim has become
         adversarial, even if the insurer insists it is simply &ldquo;preserving its options.&rdquo;
         At this stage, the policyholder should seriously consider retaining a licensed public
-        adjuster, a coverage attorney, or both. A public adjuster can help prepare and document the
+        adjuster, a coverage attorney, or both. A Public Adjuster can help prepare and document the
         claim to address the coverage concerns the insurer has raised. An attorney can evaluate the
         legal merits of the insurer&apos;s coverage position and advise on the policyholder&apos;s
         rights, including the right to Cumis counsel in liability claims, the potential for{' '}
@@ -838,7 +838,7 @@ export default function Content() {
           claim becomes necessary
         </li>
         <li>
-          Retaining professional assistance &mdash; a public adjuster for claim preparation and
+          Retaining professional assistance &mdash; a Public Adjuster for claim preparation and
           documentation, an attorney for coverage analysis and legal strategy
         </li>
       </ul>

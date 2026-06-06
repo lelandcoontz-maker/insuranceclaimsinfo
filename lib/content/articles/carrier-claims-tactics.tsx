@@ -671,7 +671,7 @@ export default function Content() {
         The obvious question is: if these tactics are documented, exposed, and regulated
         against, why do they continue? The answer is economics. The consulting-driven
         claims model is highly profitable. For every policyholder who fights back,
-        hires a public adjuster, or files a bad faith lawsuit, there are dozens who accept
+        hires a Public Adjuster, or files a bad faith lawsuit, there are dozens who accept
         the lowball offer, give up on the supplement, or walk away from money they are
         owed.
       </p>
@@ -737,11 +737,11 @@ export default function Content() {
           underpayment.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster</strong> &mdash; The
+          <strong>Consider hiring a Public Adjuster</strong> &mdash; The
           carrier has an entire team of adjusters, engineers, and consultants working to
           minimize your claim. A{' '}
           <Link href="/resources/dealing-with-adjuster" className="text-[#2E74B5] underline">
-            licensed public adjuster
+            licensed Public Adjuster
           </Link>{' '}
           works exclusively for you, knows the same estimating tools and regulations the
           carrier uses, and can level the playing field.

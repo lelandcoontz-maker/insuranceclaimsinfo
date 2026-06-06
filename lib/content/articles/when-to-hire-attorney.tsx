@@ -7,7 +7,7 @@ export const meta = {
   description:
     "Not every insurance claim needs a lawyer, but some absolutely do. Learn the fundamental difference between attorneys and Public Adjusters, when you need one or both, how their fees work, and how the PA-to-attorney pipeline maximizes your recovery.",
   summary:
-    'Not every claim needs a lawyer, but bad faith, outright denial, or litigation does. A public adjuster handles valuation and negotiation; an attorney handles legal disputes. They can work together, with the PA-to-attorney pipeline maximizing recovery.',
+    'Not every claim needs a lawyer, but bad faith, outright denial, or litigation does. A Public Adjuster handles valuation and negotiation; an attorney handles legal disputes. They can work together, with the PA-to-attorney pipeline maximizing recovery.',
 }
 
 export default function Content() {

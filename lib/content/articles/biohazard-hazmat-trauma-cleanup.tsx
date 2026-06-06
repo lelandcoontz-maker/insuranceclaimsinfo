@@ -295,7 +295,7 @@ export default function Content() {
         or different exclusions applying to each. Your cleanup company&rsquo;s invoicing should
         clearly separate remediation work from restoration work, and a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         can help ensure this categorization is done correctly from the start.
       </p>
@@ -898,7 +898,7 @@ export default function Content() {
           urgency, and presenting themselves as the only option. Take a breath. Call a trusted
           friend or family member who can help you evaluate options. If you have a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>, call them &mdash; they can help you find a reputable company and ensure the
           work is properly documented for the insurance claim.
         </p>
@@ -1126,12 +1126,12 @@ export default function Content() {
           the scientific documentation that supports the necessity and scope of the claim.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster.</strong> Biohazard claims are among the
+          <strong>Consider hiring a Public Adjuster.</strong> Biohazard claims are among the
           most complex property insurance claims. How the loss is initially described to the
           carrier, how the documentation is structured, and how the claim is categorized can
           determine whether coverage applies. A{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           works for you &mdash; not the insurance company &mdash; and can help navigate the
           coverage questions, coordinate with the remediation company and CIH, and advocate
@@ -1181,7 +1181,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are facing one of these situations, you do not have to face it alone. There are
-        licensed professionals &mdash; public adjusters, attorneys, and certified remediation
+        licensed professionals &mdash; Public Adjusters, attorneys, and certified remediation
         companies &mdash; who handle these claims regularly and can help you navigate the process.
         Your policy likely provides more coverage than the carrier is initially willing to
         acknowledge. The law, particularly in California, provides tools to hold insurers

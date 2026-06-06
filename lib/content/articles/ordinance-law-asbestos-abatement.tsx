@@ -524,7 +524,7 @@ export default function Content() {
         </li>
         <li>
           <strong>If a loss occurs, hire experienced professionals immediately.</strong> Retain
-          a public adjuster experienced in commercial property claims, a certified asbestos
+          a Public Adjuster experienced in commercial property claims, a certified asbestos
           consultant, and &mdash; if the carrier disputes coverage &mdash; an attorney who
           handles insurance coverage litigation. The intersection of ordinance or law coverage
           and the pollution exclusion is a specialized area where general knowledge is not

@@ -457,7 +457,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Challenging depreciation requires documentation, research, and persistence. The following
         strategies are the most effective approaches, whether you handle the claim yourself or
-        work with a public adjuster or attorney.
+        work with a Public Adjuster or attorney.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -864,7 +864,7 @@ export default function Content() {
           depreciation, escalate to a supervisor or the carrier&apos;s complaint department.
           If the carrier will not move, consider filing a complaint with the California
           Department of Insurance, invoking the appraisal clause in your policy, or retaining
-          a public adjuster or attorney to advocate on your behalf.
+          a Public Adjuster or attorney to advocate on your behalf.
         </li>
       </ol>
 
@@ -944,7 +944,7 @@ export default function Content() {
         in many organizations, by indemnity spend.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is not a speculative concern. It is a pattern that public adjusters, plaintiff
+        This is not a speculative concern. It is a pattern that Public Adjusters, plaintiff
         attorneys, and consumer advocates encounter routinely. The depreciation schedules built
         into carrier systems consistently favor the carrier, and the burden falls on the
         policyholder to identify the error and challenge it. The carriers have spent decades
@@ -1020,7 +1020,7 @@ export default function Content() {
         </li>
         <li>
           For significant claims, retain an expert. A roofing consultant, materials engineer,
-          or experienced public adjuster can provide the independent assessment needed to
+          or experienced Public Adjuster can provide the independent assessment needed to
           overcome a carrier&apos;s depreciation schedule.
         </li>
         <li>

@@ -600,7 +600,7 @@ export default function Content() {
         because they involve hundreds of individual claimants, property the facility never
         documented, and coverage structures that few general adjusters have experience
         handling. If your facility has experienced any of the following, consider engaging
-        a licensed public adjuster or attorney who specializes in commercial property
+        a licensed Public Adjuster or attorney who specializes in commercial property
         claims:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

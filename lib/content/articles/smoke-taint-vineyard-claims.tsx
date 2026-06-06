@@ -17,7 +17,7 @@ export default function Content() {
           This article is educational in nature and reflects the author&rsquo;s interpretation of
           insurance coverage as a Licensed Public Adjuster. It is not legal advice. Smoke taint
           claims involve complex interactions between crop insurance, property insurance, and
-          commercial coverage. Consult with a licensed attorney or public adjuster who understands
+          commercial coverage. Consult with a licensed attorney or Public Adjuster who understands
           agricultural insurance for questions about your specific situation.
         </p>
       </CalloutBox>

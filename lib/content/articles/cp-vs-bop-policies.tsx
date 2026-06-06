@@ -432,7 +432,7 @@ export default function Content() {
           or insurance advice. BOP eligibility criteria and coverage provisions vary significantly
           between carriers. Some carriers use proprietary BOP forms that differ from the ISO
           BP 00 03. Always review your specific policy and consult with your broker or a licensed
-          public adjuster for questions about your coverage.
+          Public Adjuster for questions about your coverage.
         </p>
         <p className="mt-2">
           <strong>Author:</strong> Leland Coontz III, Licensed Public Adjuster, CA License #2B53445
@@ -444,7 +444,7 @@ export default function Content() {
           Commercial Property Claim?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          Whether you have a BOP or a monoline CP policy, a licensed public adjuster can review
+          Whether you have a BOP or a monoline CP policy, a licensed Public Adjuster can review
           your coverage, identify missed endorsements, and make sure your claim captures
           everything you are owed.
         </p>

@@ -327,7 +327,7 @@ export default function Content() {
         <li>
           <strong>Obtain independent estimates.</strong> Do not rely solely on the insurer&rsquo;s
           damage assessment. Obtain independent contractor estimates or, for larger claims, retain
-          a licensed public adjuster to prepare an independent scope and estimate.
+          a licensed Public Adjuster to prepare an independent scope and estimate.
         </li>
         <li>
           <strong>Document the discrepancy.</strong> If the insurer&rsquo;s AI-generated estimate

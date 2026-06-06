@@ -181,7 +181,7 @@ export default function Content() {
         facing a claim involving code upgrades on a commercial property, read the endorsement.
         Then read it again. If the language is ambiguous, consult a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         or an attorney who handles insurance coverage disputes.
       </p>
@@ -578,7 +578,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a comprehensive discussion of how coverage disputes are handled, including the
-        burden of proof, the duty to read the policy, and the role of public adjusters and
+        burden of proof, the duty to read the policy, and the role of Public Adjusters and
         attorneys, see our{' '}
         <Link href="/resources/coverage-disputes" className="text-blue-700 underline hover:text-blue-900">
           coverage disputes article
@@ -660,13 +660,13 @@ export default function Content() {
           will be invaluable in substantiating an Ordinance or Law claim.
         </li>
         <li>
-          <strong>Engage a public adjuster early.</strong> Ordinance or Law claims on
+          <strong>Engage a Public Adjuster early.</strong> Ordinance or Law claims on
           commercial properties are among the most complex claims in property insurance. The
           interaction of municipal codes, policy language, coverage limits, and demolition
           requirements creates a landscape where experienced representation can make the
           difference between a fully covered claim and a devastating gap. A{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            licensed public adjuster
+            licensed Public Adjuster
           </Link>{' '}
           represents the policyholder &mdash; not the insurance company &mdash; and can
           navigate these complexities on your behalf.
@@ -760,7 +760,7 @@ export default function Content() {
           policy. The information presented here reflects general principles and common policy
           structures, but your specific policy may contain language that differs materially
           from the examples discussed. Always read your actual policy language and consult
-          with a licensed public adjuster or attorney for guidance on your specific situation.
+          with a licensed Public Adjuster or attorney for guidance on your specific situation.
         </p>
       </CalloutBox>
       <hr className="my-8 border-gray-300" />

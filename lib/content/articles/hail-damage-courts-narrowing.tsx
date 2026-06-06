@@ -277,7 +277,7 @@ export default function Content() {
           trends. It is not legal advice. The enforceability of cosmetic damage exclusions and the
           definition of &ldquo;direct physical loss&rdquo; vary by jurisdiction and depend on
           specific policy language. Policyholders with denied or reduced hail claims should consult
-          with an attorney or licensed public adjuster in their state.
+          with an attorney or licensed Public Adjuster in their state.
         </p>
       </CalloutBox>
       <hr className="my-8 border-gray-300" />

@@ -985,7 +985,7 @@ export default function Content() {
             single coverage oversight.
           </li>
           <li>
-            <strong>Consult a professional.</strong> A licensed public adjuster or an
+            <strong>Consult a professional.</strong> A licensed Public Adjuster or an
             insurance coverage attorney can review your policy, identify which coverages
             were overlooked, and pursue the full value of your claim. If the insurer&rsquo;s
             failure to disclose resulted in measurable harm &mdash; for example, you missed

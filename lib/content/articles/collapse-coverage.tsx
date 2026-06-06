@@ -520,7 +520,7 @@ export default function Content() {
         Hire a Public Adjuster or Attorney
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Collapse claims are among the most complex and heavily disputed claims in residential insurance. The interplay between the exclusion, the Additional Coverage, the qualifying causes, and the definition of collapse creates multiple points of contention that carriers exploit aggressively. A licensed public adjuster can handle the claim negotiation, engage independent experts, and build the evidence needed to overcome a denial. If the dispute escalates to{' '}
+        Collapse claims are among the most complex and heavily disputed claims in residential insurance. The interplay between the exclusion, the Additional Coverage, the qualifying causes, and the definition of collapse creates multiple points of contention that carriers exploit aggressively. A licensed Public Adjuster can handle the claim negotiation, engage independent experts, and build the evidence needed to overcome a denial. If the dispute escalates to{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">bad faith</Link>, an attorney specializing in insurance coverage litigation may be necessary.
       </p>
 

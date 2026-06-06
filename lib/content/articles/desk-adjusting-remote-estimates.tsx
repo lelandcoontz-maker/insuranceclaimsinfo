@@ -723,7 +723,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most effective ways to challenge a desk-adjusted estimate is to obtain your own
         estimate from a professional who has physically inspected the property. This may be a
-        licensed public adjuster, a qualified contractor, or another estimating professional. The
+        licensed Public Adjuster, a qualified contractor, or another estimating professional. The
         key is that the person writing the estimate has actually seen the damage firsthand.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -876,7 +876,7 @@ export default function Content() {
           and demonstrate what the desk adjuster missed.
         </li>
         <li>
-          <strong>Engage a professional.</strong> A licensed public adjuster or qualified contractor
+          <strong>Engage a professional.</strong> A licensed Public Adjuster or qualified contractor
           who physically inspects your property can provide an independent assessment and estimate
           that serves as a counterweight to the carrier&apos;s desk-adjusted figure. This
           professional opinion, based on firsthand observation, carries significantly more weight

@@ -36,7 +36,7 @@ export default function Content() {
         differences between them are not academic. They determine who gets paid, who can sue,
         and who holds the legal leverage in a dispute. Understanding these distinctions is
         essential for policyholders trying to protect their interests and for the contractors and
-        public adjusters who represent them.
+        Public Adjusters who represent them.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -183,7 +183,7 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         A policyholder who understands this dynamic is better positioned to evaluate the
-        assignment documents that other service providers &mdash; contractors, public adjusters,
+        assignment documents that other service providers &mdash; contractors, Public Adjusters,
         restoration companies &mdash; may present later in the claim. If the insurance company
         accepts assignments from its own preferred vendors without objection, a blanket refusal
         to honor assignments from the policyholder&apos;s chosen representatives raises
@@ -259,9 +259,9 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Public adjuster agreements in California include a form of assignment as well. When a
-        policyholder hires a licensed public adjuster, the contract &mdash; which is promulgated
+        policyholder hires a licensed Public Adjuster, the contract &mdash; which is promulgated
         by the State of California in a format that matches the language in the governing
-        statute &mdash; includes an assignment of the public adjuster&apos;s fee. The fee is
+        statute &mdash; includes an assignment of the Public Adjuster&apos;s fee. The fee is
         typically a percentage of the claim recovery, and the assignment ensures that the public
         adjuster&apos;s compensation is paid from the insurance proceeds rather than out of the
         policyholder&apos;s pocket directly.
@@ -271,8 +271,8 @@ export default function Content() {
         This is another example of how assignment is a routine, regulated, and legally recognized
         mechanism in the insurance claims process. The State of California does not merely
         permit this assignment &mdash; it built the assignment into the official contract form
-        that public adjusters are required to use. If assignments were inherently problematic,
-        the state would not have codified one into the mandatory public adjuster agreement.
+        that Public Adjusters are required to use. If assignments were inherently problematic,
+        the state would not have codified one into the mandatory Public Adjuster agreement.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -567,11 +567,11 @@ export default function Content() {
           including the right to pursue the claim amount.
         </li>
         <li>
-          <strong>Who typically uses it:</strong> Restoration contractors, public adjusters
+          <strong>Who typically uses it:</strong> Restoration contractors, Public Adjusters
           (for their fee assignment).
         </li>
         <li>
-          <strong>How it arises:</strong> Through contractor agreements, public adjuster
+          <strong>How it arises:</strong> Through contractor agreements, Public Adjuster
           contracts, or standalone assignment documents.
         </li>
         <li>
@@ -990,7 +990,7 @@ export default function Content() {
         <li>
           <strong>&quot;Assignments are unusual or suspicious.&quot;</strong> Assignments are
           routine. Insurance companies facilitate them every day through their preferred vendor
-          programs. Mitigation contractors, restoration companies, and public adjusters all
+          programs. Mitigation contractors, restoration companies, and Public Adjusters all
           use assignments as a standard part of the claims process.
         </li>
         <li>

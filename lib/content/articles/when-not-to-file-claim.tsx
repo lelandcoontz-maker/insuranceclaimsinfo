@@ -134,7 +134,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         can evaluate the damage, read your policy, and give you an informed opinion about
         whether a claim is worth filing &mdash; including the coverage analysis, the deductible
@@ -190,7 +190,7 @@ export default function Content() {
       <CalloutBox variant="important" title="Get a Second Opinion on Coverage">
         <p>
           If your agent tells you a loss is not covered or not worth filing, and the damage is
-          significant, consider getting a second opinion from a public adjuster or policyholder
+          significant, consider getting a second opinion from a Public Adjuster or policyholder
           attorney before accepting that advice. The coverage analysis may be correct &mdash; but
           it may not be. A professional whose compensation is aligned with your recovery, rather
           than the carrier&rsquo;s loss ratio, may see the situation differently.
@@ -257,7 +257,7 @@ export default function Content() {
         },
         {
           question: 'What if my loss is not covered by the policy?',
-          answer: "Filing a claim for an unambiguously excluded loss produces a denial — and the denial still appears in your CLUE record. The challenge is that coverage analysis is genuinely difficult; what looks excluded may be covered under an exception, and what looks covered may be defeated by an endorsement on page 47. A public adjuster or policyholder attorney can read the policy before you decide.",
+          answer: "Filing a claim for an unambiguously excluded loss produces a denial — and the denial still appears in your CLUE record. The challenge is that coverage analysis is genuinely difficult; what looks excluded may be covered under an exception, and what looks covered may be defeated by an endorsement on page 47. A Public Adjuster or policyholder attorney can read the policy before you decide.",
         },
         {
           question: 'Can filing a small claim hurt me later?',
@@ -265,7 +265,7 @@ export default function Content() {
         },
         {
           question: "Should I trust my insurance agent's advice about whether to file?",
-          answer: "Carefully. Agents are experts in coverage selection and underwriting, not necessarily in claims handling. Many agencies also receive contingent commissions from carriers — supplemental payments tied to the agency's book of business loss ratio. A lower loss ratio means higher contingent payments. That does not mean every agent gives self-interested advice, but it is a structural reality worth knowing. If the loss is significant and the agent tells you not to file, get a second opinion from a public adjuster or policyholder attorney.",
+          answer: "Carefully. Agents are experts in coverage selection and underwriting, not necessarily in claims handling. Many agencies also receive contingent commissions from carriers — supplemental payments tied to the agency's book of business loss ratio. A lower loss ratio means higher contingent payments. That does not mean every agent gives self-interested advice, but it is a structural reality worth knowing. If the loss is significant and the agent tells you not to file, get a second opinion from a Public Adjuster or policyholder attorney.",
         },
         {
           question: 'When SHOULD I file?',

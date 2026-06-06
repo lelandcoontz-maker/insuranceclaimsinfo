@@ -210,7 +210,7 @@ export default function Content() {
         and obtaining a detailed settlement breakdown from the insurer is essential.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Attorneys and public adjusters handling commercial claims should always push for a
+        Attorneys and Public Adjusters handling commercial claims should always push for a
         line-item settlement that clearly separates property damage proceeds from business
         income proceeds, additional expenses, and any other payment categories. An ambiguous
         lump-sum payment creates headaches at tax time and may lead to the IRS treating the

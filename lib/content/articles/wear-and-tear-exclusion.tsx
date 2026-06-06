@@ -54,7 +54,7 @@ export default function Content() {
         The Core Principle: Condition Is Not Causation
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the principle that every policyholder, every public adjuster, and every attorney handling a wear and tear dispute must understand at its core: <strong>the presence of a condition at the time of a loss does not make that condition the cause of the loss</strong>.
+        This is the principle that every policyholder, every Public Adjuster, and every attorney handling a wear and tear dispute must understand at its core: <strong>the presence of a condition at the time of a loss does not make that condition the cause of the loss</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A condition is a state of being. It describes what something <em>is</em>. A cause is a force or event. It describes what <em>happened</em>. The shingles were worn &mdash; that is a condition. The wind tore them off &mdash; that is a cause. The pipe was corroded &mdash; that is a condition. The pressure surge ruptured it &mdash; that is a cause. The foundation was old &mdash; that is a condition. The earthquake cracked it &mdash; that is a cause.

@@ -835,10 +835,10 @@ export default function Content() {
           evidence a court will evaluate if the tolling question is ever litigated.
         </li>
         <li>
-          <strong>If you are represented by a public adjuster, make sure they understand
-          the deadline issue.</strong> A public adjuster cannot provide legal advice about
+          <strong>If you are represented by a Public Adjuster, make sure they understand
+          the deadline issue.</strong> A Public Adjuster cannot provide legal advice about
           statutes of limitations, but they should be aware of the issue and recommend that
-          you consult an attorney if the deadline is approaching. If your public adjuster
+          you consult an attorney if the deadline is approaching. If your Public Adjuster
           invokes appraisal without addressing the tolling question, ask them about it.
         </li>
         <li>

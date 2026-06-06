@@ -56,7 +56,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a policyholder submits an estimate &mdash; whether it is an Xactimate estimate prepared
-        by a public adjuster or a bid from a general contractor &mdash; the carrier&rsquo;s response
+        by a Public Adjuster or a bid from a general contractor &mdash; the carrier&rsquo;s response
         is predictable. The carrier will challenge line items. The carrier will dispute unit prices.
         The carrier will argue that the scope is inflated, the materials are excessive, the labor
         rates are above market. The carrier will counter with its own estimate, and the result is two
@@ -341,7 +341,7 @@ export default function Content() {
         estimates &mdash; the carrier&rsquo;s estimate, the policyholder&rsquo;s estimate, and
         possibly a contractor&rsquo;s bid. Estimates are predictions, not facts. The carrier&rsquo;s
         adjuster will argue that the policyholder&rsquo;s estimate overstates the scope. The
-        policyholder&rsquo;s public adjuster or contractor will argue the reverse. Without completed
+        policyholder&rsquo;s Public Adjuster or contractor will argue the reverse. Without completed
         work to point to, neither side has the definitive evidence that an invoice provides.
       </p>
 

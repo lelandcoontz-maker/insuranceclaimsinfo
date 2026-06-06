@@ -318,14 +318,14 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster.</strong> A licensed public adjuster can review
+          <strong>Consider hiring a Public Adjuster.</strong> A licensed Public Adjuster can review
           the carrier&rsquo;s documents, identify errors in the estimate and depreciation schedule,
           and negotiate on your behalf. See our guide on{' '}
           <Link
             href="/resources/public-adjuster"
             className="text-blue-700 underline hover:text-blue-900"
           >
-            what a public adjuster does and when to hire one
+            what a Public Adjuster does and when to hire one
           </Link>.
         </li>
       </ol>
@@ -395,7 +395,7 @@ export default function Content() {
           This article is for general informational purposes only and does not constitute legal
           advice. Insurance claims involve complex legal and factual issues. If you need legal advice,
           consult a licensed attorney. If you need help with the adjustment of your claim, consider
-          hiring a licensed public adjuster.
+          hiring a licensed Public Adjuster.
         </p>
       </CalloutBox>
       <p className="text-sm text-gray-500 mt-4 italic">

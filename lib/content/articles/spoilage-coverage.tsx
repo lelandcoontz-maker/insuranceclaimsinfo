@@ -397,7 +397,7 @@ export default function Content() {
           href="/resources/public-adjuster"
           className="text-blue-700 underline hover:text-blue-900"
         >
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         who can properly document the loss, navigate the coverage dispute, and advocate for the
         policyholder&rsquo;s full contractual recovery.

@@ -161,7 +161,7 @@ export default function Content() {
         <li><strong>Respond to every carrier communication in writing.</strong> Reference the policy language, California Insurance Code Section 2060, and any applicable CDI bulletins.</li>
         <li><strong>Request the carrier&apos;s timeline analysis.</strong> Ask the carrier to provide the specific assumptions it made about permitting, materials, inspections, and contractor availability.</li>
         <li><strong>File a complaint with the CDI.</strong> The California Department of Insurance has enforcement authority and has been particularly active in protecting policyholders after declared disasters.</li>
-        <li><strong>Consult with a public adjuster or attorney.</strong> ALE timeline disputes can involve significant amounts of money &mdash; months or years of housing costs.</li>
+        <li><strong>Consult with a Public Adjuster or attorney.</strong> ALE timeline disputes can involve significant amounts of money &mdash; months or years of housing costs.</li>
       </ol>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Conclusion</h2>

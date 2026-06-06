@@ -136,7 +136,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> Research current construction costs in the area. Local
-        contractors, builders, and public adjusters can provide per-square-foot benchmarks.
+        contractors, builders, and Public Adjusters can provide per-square-foot benchmarks.
         If the dwelling limit falls significantly below those benchmarks, increase coverage.
       </p>
 
@@ -318,7 +318,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Get a professional replacement cost estimate.</strong> A licensed contractor,
-          qualified estimator, or public adjuster can provide a current estimate of what it
+          qualified estimator, or Public Adjuster can provide a current estimate of what it
           would cost to rebuild the home.
         </li>
         <li>

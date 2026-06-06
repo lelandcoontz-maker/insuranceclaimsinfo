@@ -188,7 +188,7 @@ export default function Content() {
         <li><strong>Document the physical connection.</strong> Photograph and document every point of connection between the disputed structure and the main dwelling. Obtain building plans or permits that show the structure as part of the dwelling.</li>
         <li><strong>Review the building permits.</strong> The original building permits may describe the structure as part of the dwelling or as an addition to the dwelling, supporting Coverage A classification.</li>
         <li><strong>Challenge the reclassification in writing.</strong> Send the carrier a written objection explaining why the structure is covered under Coverage A, citing the policy language, the dwelling valuation, the physical connection, and any applicable case law.</li>
-        <li><strong>Engage a public adjuster or attorney.</strong> If the reclassification involves a significant dollar amount, professional representation is warranted. A public adjuster can help document and present the coverage argument. An attorney can evaluate whether the reclassification constitutes a breach of contract or bad faith.</li>
+        <li><strong>Engage a Public Adjuster or attorney.</strong> If the reclassification involves a significant dollar amount, professional representation is warranted. A Public Adjuster can help document and present the coverage argument. An attorney can evaluate whether the reclassification constitutes a breach of contract or bad faith.</li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'When a Claim Is Below the Deductible: Strategies for Capturing the Full Scope of Loss',
   description:
-    'How deductibles work in property claims, why carriers have incentives to keep estimates below the deductible, commonly missed items that push claims over the threshold, and when to hire a public adjuster for borderline claims.',
+    'How deductibles work in property claims, why carriers have incentives to keep estimates below the deductible, commonly missed items that push claims over the threshold, and when to hire a Public Adjuster for borderline claims.',
   summary:
-    'Carriers have an incentive to keep estimates just under your deductible so nothing is paid. Capture the full scope, including commonly missed items, to push a borderline claim over the threshold; a public adjuster can help on close calls.',
+    'Carriers have an incentive to keep estimates just under your deductible so nothing is paid. Capture the full scope, including commonly missed items, to push a borderline claim over the threshold; a Public Adjuster can help on close calls.',
 }
 
 export default function Content() {
@@ -331,17 +331,17 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Policyholders often assume that{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline hover:text-blue-900">
-          public adjusters
+          Public Adjusters
         </Link>{' '}
         are only worth engaging on large claims. In reality, borderline deductible claims are
-        among the situations where a public adjuster can add the most value relative to cost.
-        A public adjuster brings the expertise to identify damage the carrier&rsquo;s adjuster
+        among the situations where a Public Adjuster can add the most value relative to cost.
+        A Public Adjuster brings the expertise to identify damage the carrier&rsquo;s adjuster
         missed, the knowledge to include line items (overhead and profit, code upgrades,
         matching) that push the claim above the deductible, and the advocacy perspective to
         challenge an inadequate scope.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Consider engaging a public adjuster when:
+        Consider engaging a Public Adjuster when:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -457,9 +457,9 @@ export default function Content() {
         </li>
         <li>
           <strong>National Association of Public Insurance Adjusters (NAPIA)</strong> &mdash;
-          The professional association for public adjusters, which has published educational
+          The professional association for Public Adjusters, which has published educational
           materials on proper claim scoping, the importance of thorough inspections, and the
-          role of public adjusters in borderline claims.
+          role of Public Adjusters in borderline claims.
         </li>
         <li>
           <strong>American Policyholder Association</strong> &mdash; Has published resources

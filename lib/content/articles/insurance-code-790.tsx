@@ -28,7 +28,7 @@ export default function Content() {
           describes how 790 letters are commonly used by counsel and adjusters as a notice and
           documentation tool. It is <strong>not</strong> legal advice. California&rsquo;s Public
           Insurance Adjusters Act (Cal. Ins. Code &sect;&sect; 15000&ndash;15062) regulates
-          public adjusters as a specialized claims-handling profession and does not authorize
+          Public Adjusters as a specialized claims-handling profession and does not authorize
           the practice of law. A public
           adjuster&rsquo;s role in the 790 process centers on developing and documenting the
           factual record &mdash; the missed responses, the inadequate investigation, the
@@ -360,7 +360,7 @@ export default function Content() {
           <li>Keep each letter focused on one to three specific violations — a letter citing every subsection looks scattershot</li>
           <li>Include your claim number, policy number, date of loss, and the adjuster&apos;s name in the header</li>
           <li>Attach copies (not originals) of the documents you reference</li>
-          <li>If a public adjuster is involved, the PA typically develops the factual record &mdash; documenting missed deadlines, inadequate investigations, communications history &mdash; that supports the statutory analysis; when the matter rises to formal statutory accusation, an attorney typically handles the letter drafting and signs the letter</li>
+          <li>If a Public Adjuster is involved, the PA typically develops the factual record &mdash; documenting missed deadlines, inadequate investigations, communications history &mdash; that supports the statutory analysis; when the matter rises to formal statutory accusation, an attorney typically handles the letter drafting and signs the letter</li>
           <li>A 790 letter can also be sent in conjunction with a{' '}
             <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">CDI complaint</Link>{' '}
             — the complaint addresses the regulatory violation while the 790 letter addresses the statutory violation</li>
@@ -606,10 +606,10 @@ export default function Content() {
           Your Insurer Is Not Following the Rules &mdash; Now What?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          A licensed public adjuster can identify the factual conduct that may overlap with the
+          A licensed Public Adjuster can identify the factual conduct that may overlap with the
           statutory standards and build the documentation record that supports the analysis.
           When statutory accusations are appropriate, an attorney is the right person to draft
-          and sign a formal 790 letter. Many public adjusters and attorneys provide a free
+          and sign a formal 790 letter. Many Public Adjusters and attorneys provide a free
           initial consultation.
         </p>
         <Link

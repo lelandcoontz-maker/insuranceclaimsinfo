@@ -40,7 +40,7 @@ export default function Content() {
         recovery.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you are a business owner preparing a BI claim, a public adjuster building a proof of
+        If you are a business owner preparing a BI claim, a Public Adjuster building a proof of
         loss, or an attorney evaluating damages for litigation, this is the technical framework you
         need. The concepts here apply to all business income claims under ISO-based commercial
         property policies, with California-specific regulatory requirements noted where applicable.
@@ -960,7 +960,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Carriers sometimes argue that expenses incurred during the shutdown &mdash; such as
-        legal fees to fight the carrier, public adjuster fees, or costs to secure the damaged
+        legal fees to fight the carrier, Public Adjuster fees, or costs to secure the damaged
         property &mdash; are not &ldquo;normal operating expenses&rdquo; and therefore not
         covered under the business income form. These arguments have some merit for truly
         extraordinary expenses, but carriers overreach by applying the exclusion to routine
@@ -1086,7 +1086,7 @@ export default function Content() {
         Practical Steps for Building Your BI Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Whether you are a business owner, public adjuster, or attorney, the following steps
+        Whether you are a business owner, Public Adjuster, or attorney, the following steps
         provide a framework for building a defensible BI claim:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">

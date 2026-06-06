@@ -112,7 +112,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The articles on this site are written by Leland Coontz III, a licensed California
-        Public Adjuster (License #2B53445). A public adjuster works exclusively for
+        Public Adjuster (License #2B53445). A Public Adjuster works exclusively for
         policyholders — never for insurance companies. Everything here is written from that
         perspective. For more about the author and this site, see the{' '}
         <Link href="/about" className="text-[#1F3964] underline font-medium">About page</Link>.

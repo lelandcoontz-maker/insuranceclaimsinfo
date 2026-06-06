@@ -15,7 +15,7 @@ export default function Content() {
       <CalloutBox variant="legal" title="Legal Disclaimer">
         <p>
           This article is for educational purposes only and does not constitute legal advice.
-          Bad faith litigation is complex and fact-specific. A public adjuster&apos;s role is to
+          Bad faith litigation is complex and fact-specific. A Public Adjuster&apos;s role is to
           document the carrier&apos;s conduct and handle the claim; the development of legal
           arguments, the selection of legal theories, and the conduct of litigation are the work
           of a California-licensed attorney. Consult a licensed California attorney before
@@ -430,7 +430,7 @@ export default function Content() {
         The Public Adjuster&rsquo;s Role vs. the Attorney&rsquo;s Role
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster handles the insurance claim &mdash; documenting the loss, preparing
+        A Public Adjuster handles the insurance claim &mdash; documenting the loss, preparing
         estimates, negotiating with the insurer, and maximizing the contractual recovery under
         the policy. An attorney handles the bad faith lawsuit. These roles are complementary.
         The PA&rsquo;s contemporaneous records of the insurer&rsquo;s conduct are among the
@@ -447,7 +447,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="The PA Builds the Claim; the Attorney Pursues the Lawsuit">
         <p>
-          A public adjuster cannot file a bad faith lawsuit and an attorney generally does not
+          A Public Adjuster cannot file a bad faith lawsuit and an attorney generally does not
           handle the day-to-day claims process. The PA&rsquo;s job is to get every dollar owed
           under the policy. If the insurer&rsquo;s conduct constitutes bad faith, the
           documentation the PA created becomes the foundation of the attorney&rsquo;s case.
@@ -471,7 +471,7 @@ export default function Content() {
           <strong>Documentation is everything.</strong> The policyholder who kept meticulous
           records &mdash; or whose{' '}
           <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           did &mdash; is in a fundamentally different position than one who relies on memory.
         </li>
@@ -536,10 +536,10 @@ export default function Content() {
           Concerned About How Your Claim Is Being Handled?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          A licensed public adjuster can review an insurance claim file to identify underpaid
+          A licensed Public Adjuster can review an insurance claim file to identify underpaid
           items and may be able to use regulatory violations to support negotiation for a more
-          complete settlement. A public adjuster may also identify issues that warrant
-          consultation with an attorney. Most public adjusters and attorneys will provide a
+          complete settlement. A Public Adjuster may also identify issues that warrant
+          consultation with an attorney. Most Public Adjusters and attorneys will provide a
           free consultation.
         </p>
         <Link

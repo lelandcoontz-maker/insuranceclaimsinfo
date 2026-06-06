@@ -36,7 +36,7 @@ export default function Content() {
         <p>
           This article is for educational purposes only and does not constitute legal or insurance
           advice. FAIR Plan policies, coverage terms, and regulatory requirements are subject to
-          change. For guidance on a specific FAIR Plan claim, consult a licensed public adjuster or
+          change. For guidance on a specific FAIR Plan claim, consult a licensed Public Adjuster or
           attorney experienced in California property insurance.
         </p>
       </CalloutBox>

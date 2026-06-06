@@ -7,7 +7,7 @@ export const meta = {
   description:
     'How Public Adjuster fees work in California — contingency percentages, the statutory framework under §15027.5, when hiring a PA is worth it, and questions to ask before signing.',
   summary:
-    'California public adjusters work on contingency, a percentage of the recovery, governed by Insurance Code 15027.5. A PA is usually worth it on large, complex, or disputed claims; ask about the fee and scope before signing.',
+    'California Public Adjusters work on contingency, a percentage of the recovery, governed by Insurance Code 15027.5. A PA is usually worth it on large, complex, or disputed claims; ask about the fee and scope before signing.',
 }
 
 export default function Content() {
@@ -84,7 +84,7 @@ export default function Content() {
         <p>
           &sect; 15027 is the primary written-contract and disclosure provision. It requires
           the PA to enter a written contract on a Commissioner-approved form before acting
-          as a public adjuster in California, requires the contract to disclose the
+          as a Public Adjuster in California, requires the contract to disclose the
           adjuster&apos;s full salary, fee, commission, or other valuable consideration, and
           restricts solicitation during a loss-producing occurrence and between 6 p.m. and
           8 a.m. (unless requested by the insured). It does <strong>not</strong> contain a

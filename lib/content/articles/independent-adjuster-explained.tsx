@@ -39,7 +39,7 @@ export default function Content() {
         are compensated, and why understanding these details matters when your claim is on the line.
         It also draws the critical distinctions between independent adjusters, staff adjusters, and{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjusters
+          Public Adjusters
         </Link>{' '}
         &mdash; the only type of adjuster who actually works for the policyholder.
       </p>
@@ -107,7 +107,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         is the only type of adjuster who works exclusively for the policyholder. Public adjusters are
         licensed separately from company adjusters. They are retained and paid by the homeowner or
@@ -119,7 +119,7 @@ export default function Content() {
         The terminology creates genuine confusion. Many
         policyholders assume that the &ldquo;independent&rdquo; adjuster sent by their insurance
         company is somehow neutral or objective &mdash; a third party who will give a fair assessment.
-        Some policyholders even confuse independent adjusters with public adjusters, assuming that
+        Some policyholders even confuse independent adjusters with Public Adjusters, assuming that
         anyone not directly employed by the insurance company must be working in their interest. This
         misunderstanding can be costly.
       </p>
@@ -188,7 +188,7 @@ export default function Content() {
         the attention to items that require careful evaluation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is why experienced public adjusters and attorneys routinely find damage that the
+        This is why experienced Public Adjusters and attorneys routinely find damage that the
         carrier&apos;s initial adjuster missed. It is not always that the adjuster was dishonest or
         incompetent. Sometimes they simply did not have the time &mdash; or the economic incentive
         &mdash; to look more carefully. When you understand the per-claim model, the pattern of
@@ -354,7 +354,7 @@ export default function Content() {
         >
           California Department of Insurance
         </a>{' '}
-        has issued notices about this requirement. The same rule applies to public adjusters &mdash;
+        has issued notices about this requirement. The same rule applies to Public Adjusters &mdash;
         we are required to display our license number on our emails and other written communications
         as well.
       </p>
@@ -653,7 +653,7 @@ export default function Content() {
         &mdash; the structural incentives of the independent adjusting model create a real risk of
         underpayment. This is when having someone on your side becomes critical. A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         works for you, is paid by you, and has a financial interest in maximizing your recovery
         rather than minimizing the carrier&apos;s payout. An{' '}
@@ -732,7 +732,7 @@ export default function Content() {
         your claim properly, you have options. You can request a reinspection by a more experienced
         adjuster. You can hire a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         to conduct an independent evaluation. And you can document the gaps in the adjuster&apos;s
         inspection to support a supplement or dispute.
@@ -796,7 +796,7 @@ export default function Content() {
         <li>
           A{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           is the only type of adjuster who works for you. If your claim is significant, complex, or
           being underpaid, consider retaining one.

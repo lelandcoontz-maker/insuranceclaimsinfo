@@ -440,7 +440,7 @@ export default function Content() {
           negotiation process
         </Link>{' '}
         for a historic home claim is inherently more complex than a standard claim, and professional
-        assistance from a public adjuster or attorney experienced in historic property claims can be
+        assistance from a Public Adjuster or attorney experienced in historic property claims can be
         invaluable in achieving a fair outcome.
       </p>
       <hr className="my-8 border-gray-300" />

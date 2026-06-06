@@ -384,7 +384,7 @@ export default function Content() {
         If someone arrives at your property claiming to have been sent by your insurance company, you
         are under no obligation to grant them access. You can verify their identity, confirm with the
         carrier that they were authorized, and schedule the inspection for a time when you &mdash; or
-        your public adjuster, attorney, or contractor &mdash; can be present.
+        your Public Adjuster, attorney, or contractor &mdash; can be present.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -524,7 +524,7 @@ export default function Content() {
         not only violating the law &mdash; they are creating a situation in which the homeowner has
         limited recourse if the work is substandard, the price escalates, or the scope is incomplete.
         If a preferred vendor begins demolition or repairs before you have signed anything, stop them
-        and consult with an attorney or a licensed public adjuster.
+        and consult with an attorney or a licensed Public Adjuster.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -562,7 +562,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If a preferred vendor or any contractor presents a contract, authorization form, or direction
         to pay at the property during an inspection, do not sign it on the spot. Take the document
-        home. Read it carefully. Have your attorney or public adjuster review it. Understand what you
+        home. Read it carefully. Have your attorney or Public Adjuster review it. Understand what you
         are agreeing to before you agree.
       </p>
 

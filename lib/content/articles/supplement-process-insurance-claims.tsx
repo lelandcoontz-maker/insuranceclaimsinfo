@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'The Supplement Process: Why Your First Estimate Is Almost Never the Last',
   description:
-    'A guide to insurance claim supplements — why they are normal, when they are needed, how carriers resist them, documentation best practices, and the role of public adjusters and contractors in securing full payment for hidden and additional damage.',
+    'A guide to insurance claim supplements — why they are normal, when they are needed, how carriers resist them, documentation best practices, and the role of Public Adjusters and contractors in securing full payment for hidden and additional damage.',
   summary:
-    'Supplements are normal: the first estimate rarely captures hidden or additional damage found during repairs. Document the new items thoroughly and expect carrier resistance; contractors and public adjusters help secure the added payment you are owed.',
+    'Supplements are normal: the first estimate rarely captures hidden or additional damage found during repairs. Document the new items thoroughly and expect carrier resistance; contractors and Public Adjusters help secure the added payment you are owed.',
 }
 
 export default function Content() {
@@ -119,7 +119,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Supplements are not unusual, adversarial, or a sign
         that something went wrong. They are a standard, anticipated part of the claims and
-        construction process. Every experienced adjuster, contractor, and public adjuster knows
+        construction process. Every experienced adjuster, contractor, and Public Adjuster knows
         that the first estimate on a significant claim is a starting point, not a final number.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -398,7 +398,7 @@ export default function Content() {
         streamline the process in theory, in practice these requirements can create barriers.
         Portals may have upload size limits that make it difficult to include the full
         photographic documentation. Required formats may not accommodate the way a contractor or
-        public adjuster prepares their estimates. And portal submissions may lack the ability to
+        Public Adjuster prepares their estimates. And portal submissions may lack the ability to
         include narrative explanations that are critical to understanding why the supplement is
         warranted.
       </p>
@@ -689,7 +689,7 @@ export default function Content() {
         with repairs. A contractor who closes up a wall cavity without photographing the damage
         inside has eliminated the best evidence for the supplement. Establish a protocol at the
         beginning of the project: when additional damage is found, stop work in that area,
-        photograph and document the damage, notify the policyholder or their public adjuster,
+        photograph and document the damage, notify the policyholder or their Public Adjuster,
         and do not proceed until the documentation is complete.
       </p>
 
@@ -765,7 +765,7 @@ export default function Content() {
         The supplement process is one of the areas where having professional representation
         provides the most significant benefit. Public adjusters are licensed professionals who
         represent the policyholder &mdash; not the insurance company &mdash; in the claims
-        process. In the context of supplements, a public adjuster brings several important
+        process. In the context of supplements, a Public Adjuster brings several important
         capabilities:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -777,7 +777,7 @@ export default function Content() {
           grounds.
         </li>
         <li>
-          <strong>Knowledge of what to include.</strong> An experienced public adjuster knows
+          <strong>Knowledge of what to include.</strong> An experienced Public Adjuster knows
           what items are commonly missed and what the carrier is obligated to pay for. They can
           identify supplemental items that a homeowner or general contractor might not think to
           include &mdash; trade supervision, debris removal, general conditions, content
@@ -1037,9 +1037,9 @@ export default function Content() {
           resolved through different mechanisms, and conflating them can lead to delays.
         </li>
         <li>
-          Consider professional representation. A public adjuster who handles supplements
+          Consider professional representation. A Public Adjuster who handles supplements
           daily can often recover significantly more than the policyholder could on their own,
-          even after accounting for the public adjuster&apos;s fee.
+          even after accounting for the Public Adjuster&apos;s fee.
         </li>
         <li>
           Know your regulatory rights. Carriers are required to acknowledge and respond to

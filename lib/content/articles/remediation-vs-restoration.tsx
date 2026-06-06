@@ -358,7 +358,7 @@ export default function Content() {
         <li>
           <strong>Comparative estimate</strong> &mdash; The adjuster (or the
           policyholder&rsquo;s{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>)
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>)
           prepares two estimates: one showing what the remediation would cost for the water
           damage alone (no mold), and one showing the actual cost with mold present. The
           difference between the two is the incremental mold cost. Everything else is water
@@ -588,7 +588,7 @@ export default function Content() {
           courts have reached different conclusions on nearly identical issues. If you have a
           claim involving viral contamination, this is an area where professional guidance
           &mdash; from both a{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>{' '}
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>{' '}
           and an attorney &mdash; is essential.
         </p>
       </CalloutBox>
@@ -776,11 +776,11 @@ export default function Content() {
           outside the sub-limit.
         </li>
         <li>
-          <strong>Hire a public adjuster who understands cost allocation</strong> &mdash;{' '}
+          <strong>Hire a Public Adjuster who understands cost allocation</strong> &mdash;{' '}
           The remediation-vs-restoration distinction and the mold cost allocation issue
           are technical subjects that most policyholders are not equipped to navigate alone.
           A{' '}
-          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">public adjuster</Link>{' '}
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>{' '}
           with experience in{' '}
           <Link href="/resources/water-damage-claims" className="text-[#2E74B5] hover:underline">water damage claims</Link>{' '}
           can ensure that remediation costs are properly allocated and that the carrier does

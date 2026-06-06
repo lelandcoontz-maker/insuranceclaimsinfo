@@ -504,7 +504,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The specifics of what to disclose and how to frame the disclosure are questions for a real
-        estate attorney. This is not an area where a public adjuster, a contractor, or the
+        estate attorney. This is not an area where a Public Adjuster, a contractor, or the
         seller&rsquo;s best judgment should substitute for legal counsel. The stakes are too high
         &mdash; a seller who fails to disclose a material defect faces potential liability for fraud,
         negligent misrepresentation, and rescission of the sale.
@@ -582,7 +582,7 @@ export default function Content() {
         value to account for risk. The seller&rsquo;s goal is to present the claim in a way that
         maximizes the buyer&rsquo;s confidence in the recovery &mdash; which means having organized
         documentation, clear records of what has been paid and disputed, and ideally a professional
-        assessment of the claim&rsquo;s value from a public adjuster or attorney.
+        assessment of the claim&rsquo;s value from a Public Adjuster or attorney.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -717,7 +717,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         Policyholders who are considering selling a damaged property should not make this decision
-        in a vacuum. Talk to your public adjuster about the claim&rsquo;s value. Talk to your
+        in a vacuum. Talk to your Public Adjuster about the claim&rsquo;s value. Talk to your
         attorney about the assignment. Talk to your mortgage company about what they will and will
         not allow. And make the decision with full information &mdash; because once the property is
         sold and the claim is assigned, getting it back is not an option.

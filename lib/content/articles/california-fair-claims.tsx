@@ -956,7 +956,7 @@ export default function Content() {
         limitation provision, and certain statutes of limitation may also apply depending on
         the legal theory involved — CCP &sect; 339(1) is sometimes cited in this area.{' '}
         <strong>Identifying which statute(s) of limitation apply to a specific claim is a legal
-        question for an attorney, not a public adjuster.</strong> That said, &sect; 2695.7(f)
+        question for an attorney, not a Public Adjuster.</strong> That said, &sect; 2695.7(f)
         places the disclosure burden on the insurer. Some policyholders write to the carrier
         with language like: &ldquo;Per 10 CCR &sect; 2695.7(f), please identify in writing any
         statute of limitation or time period requirement that may apply to my claim and the
@@ -1592,7 +1592,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-3">
         These regulations are not abstract legal theory. They are practical tools that
-        policyholders and public adjusters use to advance claims. A common framework looks
+        policyholders and Public Adjusters use to advance claims. A common framework looks
         like this:
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-4">
@@ -1692,10 +1692,10 @@ export default function Content() {
           Concerned About How Your Claim Is Being Handled?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          A licensed public adjuster can review an insurance claim file to identify underpaid
+          A licensed Public Adjuster can review an insurance claim file to identify underpaid
           items and may be able to use regulatory violations to support negotiation for a more
-          complete settlement. A public adjuster may also identify issues that warrant
-          consultation with an attorney. Most public adjusters and attorneys will provide a
+          complete settlement. A Public Adjuster may also identify issues that warrant
+          consultation with an attorney. Most Public Adjusters and attorneys will provide a
           free consultation.
         </p>
         <Link

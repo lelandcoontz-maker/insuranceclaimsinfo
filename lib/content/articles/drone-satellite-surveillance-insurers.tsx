@@ -32,7 +32,7 @@ export default function Content() {
           This article provides general information about how insurers use aerial surveillance
           technology. It is not legal advice. Insurance regulations regarding surveillance and
           non-renewal vary by state. If aerial imagery has been used to deny a claim or non-renew
-          a policy, consult with a licensed attorney or public adjuster in the applicable
+          a policy, consult with a licensed attorney or Public Adjuster in the applicable
           jurisdiction.
         </p>
       </CalloutBox>
@@ -343,7 +343,7 @@ export default function Content() {
           whether the insurer must identify the data sources it relied upon.
         </li>
         <li>
-          <strong>Consider consulting a licensed public adjuster or attorney.</strong> If an
+          <strong>Consider consulting a licensed Public Adjuster or attorney.</strong> If an
           aerial assessment is being used to deny a claim or non-renew a policy, professional
           help can make a significant difference in the outcome.
         </li>

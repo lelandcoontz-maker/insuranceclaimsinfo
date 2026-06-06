@@ -31,7 +31,7 @@ export default function Content() {
           This article provides general educational information about the intersection of electric
           vehicle battery fires and homeowner insurance coverage. It is not legal advice. Coverage
           determinations depend on specific policy language, the facts of the loss, and applicable
-          state law. Consult a licensed attorney or public adjuster for guidance on a specific claim.
+          state law. Consult a licensed attorney or Public Adjuster for guidance on a specific claim.
         </p>
       </CalloutBox>
 
@@ -402,7 +402,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Any denial following an EV garage fire should be reviewed by a professional &mdash; a
-        licensed public adjuster, an insurance coverage attorney, or both. The interplay between
+        licensed Public Adjuster, an insurance coverage attorney, or both. The interplay between
         the homeowner policy, the auto policy, product liability, and building code compliance
         creates complexity that benefits from expert analysis.
       </p>

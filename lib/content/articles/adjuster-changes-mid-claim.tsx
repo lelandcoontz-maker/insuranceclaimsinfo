@@ -923,27 +923,27 @@ export default function Content() {
         One of the most significant but often overlooked advantages of hiring a licensed public
         adjuster is the continuity they provide when the carrier&apos;s side of the claim is a
         revolving door. While the carrier may cycle through three, four, or five adjusters over
-        the life of a complex claim, the public adjuster remains constant. They are the
+        the life of a complex claim, the Public Adjuster remains constant. They are the
         policyholder&apos;s consistent representative from the beginning of the claim to its
         resolution, regardless of how many times the carrier changes its personnel.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This continuity matters in several practical ways. The public adjuster maintains a complete
+        This continuity matters in several practical ways. The Public Adjuster maintains a complete
         record of every communication, commitment, and negotiation throughout the claim. When a new
         carrier adjuster takes over and claims to have no knowledge of prior discussions, the public
         adjuster can produce the documentation. When the new adjuster takes a harder line on items
-        the prior adjuster approved, the public adjuster can point to the record showing the
+        the prior adjuster approved, the Public Adjuster can point to the record showing the
         carrier&apos;s prior position. When the new adjuster wants to start the claim from scratch,
-        the public adjuster can insist on picking up where things left off, backed by a comprehensive
+        the Public Adjuster can insist on picking up where things left off, backed by a comprehensive
         paper trail.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The dynamic changes fundamentally when a public adjuster is involved. Without representation,
+        The dynamic changes fundamentally when a Public Adjuster is involved. Without representation,
         the policyholder is at the mercy of the carrier&apos;s staffing decisions. Each new adjuster
         brings a fresh set of eyes that have not seen the damage, have not heard the policyholder&apos;s
-        account, and have no relationship with the policyholder. With a public adjuster, the
+        account, and have no relationship with the policyholder. With a Public Adjuster, the
         carrier&apos;s adjuster changes become the carrier&apos;s problem rather than the
-        policyholder&apos;s problem. The public adjuster does not need to rebuild rapport or
+        policyholder&apos;s problem. The Public Adjuster does not need to rebuild rapport or
         re-explain the claim. They simply present the file to the new adjuster, establish the
         status of negotiations, and continue pressing for resolution.
       </p>
@@ -952,7 +952,7 @@ export default function Content() {
         experience recognizing the patterns described in this article. A policyholder going through
         their first major claim may not realize that the timing of a reassignment is suspicious, or
         that the new adjuster&apos;s demand for a re-inspection is unnecessary, or that the
-        carrier&apos;s regulatory deadlines have been violated. A public adjuster who handles claims
+        carrier&apos;s regulatory deadlines have been violated. A Public Adjuster who handles claims
         professionally recognizes these patterns immediately and can respond in real time &mdash;
         pushing back on unnecessary delays, documenting regulatory violations, and ensuring that the
         carrier&apos;s internal staffing decisions do not become the policyholder&apos;s burden.

@@ -447,7 +447,7 @@ export default function Content() {
           <strong>Do not accept a premature settlement.</strong> Loss of rents claims should not be finalized until the restoration is complete and the re-tenanting timeline is established. Settling early means accepting the carrier&rsquo;s optimistic projection of when the building will be generating rental income again.
         </li>
         <li>
-          <strong>Engage professional help.</strong> On any significant commercial loss of rents claim, a public adjuster experienced in commercial property claims can materially improve the outcome. A forensic accountant may also be necessary to prepare the financial analysis, particularly if percentage rent, growth projections, or complex CAM allocations are involved.
+          <strong>Engage professional help.</strong> On any significant commercial loss of rents claim, a Public Adjuster experienced in commercial property claims can materially improve the outcome. A forensic accountant may also be necessary to prepare the financial analysis, particularly if percentage rent, growth projections, or complex CAM allocations are involved.
         </li>
       </ol>
 

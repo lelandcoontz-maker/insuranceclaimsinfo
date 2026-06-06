@@ -420,7 +420,7 @@ export default function Content() {
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal or
         professional advice. Every insurance claim involves unique facts, policy language, and
-        jurisdictional considerations. Consult a licensed public adjuster or attorney for guidance
+        jurisdictional considerations. Consult a licensed Public Adjuster or attorney for guidance
         on your specific situation.
       </p>
       <p className="text-sm text-gray-500 mt-4 italic">

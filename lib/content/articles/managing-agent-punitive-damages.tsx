@@ -1102,7 +1102,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Litigating a managing-agent theory is attorney work. The roadmap below describes what
         experienced plaintiffs&rsquo; counsel typically do in a bad faith case where punitive
-        damages are at issue. None of these steps are tasks a public adjuster or pro-se insured
+        damages are at issue. None of these steps are tasks a Public Adjuster or pro-se insured
         should attempt &mdash; pleading, written discovery, depositions, and motion practice are
         all functions of licensed counsel. The list is presented to help an insured understand
         what the litigation process looks like when an attorney evaluates and pursues a bad

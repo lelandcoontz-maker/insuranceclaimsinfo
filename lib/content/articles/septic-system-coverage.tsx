@@ -419,7 +419,7 @@ export default function Content() {
         it is relying on. Review the policy for any endorsements that may provide coverage.
         Consider whether the interior damage (as distinct from the septic system itself) may
         be covered under the &ldquo;sudden and accidental&rdquo; exception. And if the claim
-        is significant, consult with a public adjuster or attorney who can evaluate the specific
+        is significant, consult with a Public Adjuster or attorney who can evaluate the specific
         facts and policy language. Many policyholders receive partial or full coverage for
         septic-related losses that were initially denied, simply because they challenged the
         denial and forced the insurer to analyze the coverage question more carefully.
@@ -434,7 +434,7 @@ export default function Content() {
           <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] underline">
             licensed attorney
           </Link>{' '}
-          or a public adjuster who has experience with these types of claims. The coverage
+          or a Public Adjuster who has experience with these types of claims. The coverage
           analysis for septic claims often requires a detailed reading of multiple policy
           provisions, endorsements, and exclusions that interact in ways that are not obvious
           from a casual reading.

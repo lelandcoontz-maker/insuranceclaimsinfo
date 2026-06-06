@@ -21,7 +21,7 @@ export default function Content() {
             href="/resources/public-adjuster"
             className="text-blue-700 underline hover:text-blue-900"
           >
-            licensed public adjuster
+            licensed Public Adjuster
           </Link>{' '}
           in your state.
         </p>
@@ -289,7 +289,7 @@ export default function Content() {
             href="/resources/public-adjuster"
             className="text-blue-700 underline hover:text-blue-900"
           >
-            licensed public adjuster
+            licensed Public Adjuster
           </Link>{' '}
           can tell you what the claim is actually worth. You cannot evaluate whether an
           accommodation payment is fair if you do not know the real number. The carrier knows the
@@ -391,7 +391,7 @@ export default function Content() {
             href="/resources/public-adjuster"
             className="text-blue-700 underline hover:text-blue-900"
           >
-            licensed public adjuster
+            licensed Public Adjuster
           </Link>{' '}
           in your state for advice specific to your situation.
         </p>

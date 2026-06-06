@@ -3,7 +3,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title: "Your Right to the Xactimate ESX File: Why the PDF Is Not Enough",
-  description: "A guide for policyholders, public adjusters, and attorneys on why you should demand the native Xactimate ESX file — not just the PDF printout — and what critical estimate data the ESX file reveals that the PDF conceals.",
+  description: "A guide for policyholders, Public Adjusters, and attorneys on why you should demand the native Xactimate ESX file — not just the PDF printout — and what critical estimate data the ESX file reveals that the PDF conceals.",
   summary:
     'Demand the native Xactimate ESX file, not just the PDF. The ESX reveals pricing settings, depreciation, and hidden adjustments the printout conceals, which is essential for spotting how the carrier built, and shaved, the estimate.',
 }
@@ -20,7 +20,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>A guide for policyholders, public adjusters, and attorneys on why the native Xactimate ESX file &mdash; not the PDF printout &mdash; is the document that matters, what it reveals that the PDF conceals, and how to obtain it.</em>
+        <em>A guide for policyholders, Public Adjusters, and attorneys on why the native Xactimate ESX file &mdash; not the PDF printout &mdash; is the document that matters, what it reveals that the PDF conceals, and how to obtain it.</em>
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -79,7 +79,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Every experienced public adjuster and every insurance litigation attorney who handles property claims understands this distinction. The PDF is useful for a quick overview of what the carrier is proposing. The ESX file is essential for determining whether the carrier&apos;s proposal is fair, accurate, and consistent with the actual conditions of the loss.
+        Every experienced Public Adjuster and every insurance litigation attorney who handles property claims understands this distinction. The PDF is useful for a quick overview of what the carrier is proposing. The ESX file is essential for determining whether the carrier&apos;s proposal is fair, accurate, and consistent with the actual conditions of the loss.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Why the PDF Is Not Enough</h2>
@@ -153,7 +153,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The ESX file, in other words, is the evidence. The PDF is the presentation. Policyholders, public adjusters, and plaintiff attorneys are better served by the evidence.
+        The ESX file, in other words, is the evidence. The PDF is the presentation. Policyholders, Public Adjusters, and plaintiff attorneys are better served by the evidence.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -229,7 +229,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Send this request via email so that you have a timestamped record of the request and any response. If you are working with a public adjuster, they will typically make this request on your behalf as part of their standard claims handling process.
+        Send this request via email so that you have a timestamped record of the request and any response. If you are working with a Public Adjuster, they will typically make this request on your behalf as part of their standard claims handling process.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">When the Request Is Ignored or Refused</h3>
@@ -247,7 +247,7 @@ export default function Content() {
         <li><strong>&quot;The ESX file is proprietary.&quot;</strong> &mdash; The Xactimate software is proprietary. The estimate data is not. The carrier does not own the data about your property any more than a doctor owns your medical records. The data was generated in the performance of the carrier&apos;s contractual obligations to you.</li>
         <li><strong>&quot;We are not required to provide the file in that format.&quot;</strong> &mdash; Whether the carrier is &quot;required&quot; to provide a specific file format is a separate question from whether the carrier is required to provide transparency regarding its claim evaluation. Fair claims settlement practices require that the carrier provide the policyholder with the information necessary to evaluate the claim determination. If the ESX file contains information that the PDF does not, then the PDF alone does not satisfy that obligation.</li>
         <li><strong>&quot;Our system does not allow us to export ESX files.&quot;</strong> &mdash; This is technically false. Xactimate has always supported ESX file export. If the carrier&apos;s internal claims management system does not permit easy ESX export, that is a limitation the carrier chose to implement. The limitation does not extinguish the policyholder&apos;s right to the data.</li>
-        <li><strong>&quot;You don&apos;t have Xactimate, so the file would be useless to you.&quot;</strong> &mdash; Whether the policyholder personally owns Xactimate is irrelevant. The policyholder may have retained a public adjuster, an attorney, or a contractor who does have Xactimate. The insurer does not get to decide what the policyholder is or is not capable of doing with the documents to which they are legally entitled.</li>
+        <li><strong>&quot;You don&apos;t have Xactimate, so the file would be useless to you.&quot;</strong> &mdash; Whether the policyholder personally owns Xactimate is irrelevant. The policyholder may have retained a Public Adjuster, an attorney, or a contractor who does have Xactimate. The insurer does not get to decide what the policyholder is or is not capable of doing with the documents to which they are legally entitled.</li>
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Escalation Options</h3>
@@ -258,7 +258,7 @@ export default function Content() {
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>File a complaint with your state&apos;s Department of Insurance.</strong> The complaint should describe the request, the refusal, and the specific regulatory provisions you believe the refusal violates. In California, complaints can be filed with the California Department of Insurance. Reference Insurance Code &sect; 2071 and 10 CCR &sect; 2695.7.</li>
-        <li><strong>Engage a public adjuster.</strong> Public adjusters are licensed professionals who represent policyholders in the claims process. They work with Xactimate daily and know how to obtain and interpret ESX files. Their involvement often changes the dynamic of the carrier&apos;s response to documentation requests.</li>
+        <li><strong>Engage a Public Adjuster.</strong> Public adjusters are licensed professionals who represent policyholders in the claims process. They work with Xactimate daily and know how to obtain and interpret ESX files. Their involvement often changes the dynamic of the carrier&apos;s response to documentation requests.</li>
         <li><strong>Consult an attorney.</strong> An attorney experienced in insurance coverage disputes can send a demand letter that carries legal weight. If the matter proceeds to litigation, the ESX file will be obtained through formal discovery.</li>
         <li><strong>Request through your state&apos;s appraisal process.</strong> If your policy contains an appraisal clause, invoking appraisal creates a framework in which both parties exchange estimating documentation. The ESX file is a standard document exchanged in appraisal proceedings.</li>
       </ul>
@@ -266,7 +266,7 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What to Look for Once You Have the ESX File</h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Obtaining the ESX file is only the first step. The file is a data container, and you need to know what to look for inside it. The following are the most important parameters to review. If you are not comfortable working with Xactimate directly, a public adjuster or an estimating consultant who has a current Xactimate license can perform this analysis for you.
+        Obtaining the ESX file is only the first step. The file is a data container, and you need to know what to look for inside it. The following are the most important parameters to review. If you are not comfortable working with Xactimate directly, a Public Adjuster or an estimating consultant who has a current Xactimate license can perform this analysis for you.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Price List Date and Version</h3>
@@ -310,7 +310,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Line Item Codes and Selections</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Review the specific Xactimate line item codes used in the estimate and compare them against the actual conditions of the loss. This requires knowledge of the Xactimate database, which contains thousands of line items organized by trade and activity. A public adjuster or experienced estimator can review the codes and identify situations where a lower-priced code was selected when a higher-priced code was appropriate, or where necessary work items were omitted entirely.
+        Review the specific Xactimate line item codes used in the estimate and compare them against the actual conditions of the loss. This requires knowledge of the Xactimate database, which contains thousands of line items organized by trade and activity. A Public Adjuster or experienced estimator can review the codes and identify situations where a lower-priced code was selected when a higher-priced code was appropriate, or where necessary work items were omitted entirely.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -354,15 +354,15 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">The Public Adjuster&apos;s Workflow</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a public adjuster, the carrier&apos;s ESX file is the starting point of every claim analysis. When a policyholder hires a public adjuster after receiving an estimate they believe is too low, the first thing the public adjuster does is request the ESX file.
+        For a Public Adjuster, the carrier&apos;s ESX file is the starting point of every claim analysis. When a policyholder hires a Public Adjuster after receiving an estimate they believe is too low, the first thing the Public Adjuster does is request the ESX file.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        With the ESX file in hand, the public adjuster can import it into their own copy of Xactimate and perform a line-by-line comparison. They can identify every setting that was used, every line item that was included or omitted, every price that was modified, and every assumption that affected the total. They can then create their own estimate using the same software, the correct settings, the current price list, and the full scope of repairs &mdash; and present a side-by-side comparison that quantifies the exact dollar impact of every discrepancy.
+        With the ESX file in hand, the Public Adjuster can import it into their own copy of Xactimate and perform a line-by-line comparison. They can identify every setting that was used, every line item that was included or omitted, every price that was modified, and every assumption that affected the total. They can then create their own estimate using the same software, the correct settings, the current price list, and the full scope of repairs &mdash; and present a side-by-side comparison that quantifies the exact dollar impact of every discrepancy.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is far more effective than simply submitting a competing estimate and arguing over the bottom line. When a public adjuster can point to the specific settings and decisions that caused the underpayment &mdash; &quot;Your adjuster used rebuild labor efficiency on a restoration project, which reduced every labor line item by approximately twenty percent&quot; &mdash; the carrier&apos;s adjuster is no longer defending a number. They are defending a choice. And when the choice is indefensible, the negotiation moves in the policyholder&apos;s favor.
+        This is far more effective than simply submitting a competing estimate and arguing over the bottom line. When a Public Adjuster can point to the specific settings and decisions that caused the underpayment &mdash; &quot;Your adjuster used rebuild labor efficiency on a restoration project, which reduced every labor line item by approximately twenty percent&quot; &mdash; the carrier&apos;s adjuster is no longer defending a number. They are defending a choice. And when the choice is indefensible, the negotiation moves in the policyholder&apos;s favor.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -418,7 +418,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Xactimate Was Designed for File Sharing</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Verisk has not taken the position that ESX files cannot be shared with policyholders or their representatives. To the contrary, Xactimate is designed to facilitate the exchange of estimating data between parties. The ability to import and export ESX files is a core feature of the software, not an afterthought. The platform was built with the expectation that estimates would be shared, reviewed, and compared by multiple parties &mdash; carriers, independent adjusters, public adjusters, contractors, and appraisers all exchange ESX files as a routine part of the claims process.
+        Verisk has not taken the position that ESX files cannot be shared with policyholders or their representatives. To the contrary, Xactimate is designed to facilitate the exchange of estimating data between parties. The ability to import and export ESX files is a core feature of the software, not an afterthought. The platform was built with the expectation that estimates would be shared, reviewed, and compared by multiple parties &mdash; carriers, independent adjusters, Public Adjusters, contractors, and appraisers all exchange ESX files as a routine part of the claims process.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -444,7 +444,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">You Need Xactimate to Open the File</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        An ESX file can only be fully analyzed in Xactimate. The software is available through subscription from Verisk, and it is not inexpensive. Most individual policyholders do not have Xactimate and should not need to purchase it for a single claim. This is one of the primary reasons to work with a public adjuster or an estimating consultant who has a current Xactimate license and the expertise to analyze the file.
+        An ESX file can only be fully analyzed in Xactimate. The software is available through subscription from Verisk, and it is not inexpensive. Most individual policyholders do not have Xactimate and should not need to purchase it for a single claim. This is one of the primary reasons to work with a Public Adjuster or an estimating consultant who has a current Xactimate license and the expertise to analyze the file.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -476,7 +476,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Request the ESX file in writing immediately.</strong> Use the sample language provided above. Be specific about what you are requesting. Send the request by email and keep a copy of everything.</li>
         <li><strong>Do not accept the estimate at face value.</strong> A PDF estimate is a starting point for evaluation, not a final determination. Until you or your representative have reviewed the ESX file and verified the settings, the estimate has not been fully evaluated.</li>
-        <li><strong>Engage a professional.</strong> If you believe the estimate is too low, consult a public adjuster or an attorney experienced in insurance claims. They have the tools, the expertise, and the leverage to obtain and analyze the ESX file and to <Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] underline">challenge the estimate</Link> based on what they find.</li>
+        <li><strong>Engage a professional.</strong> If you believe the estimate is too low, consult a Public Adjuster or an attorney experienced in insurance claims. They have the tools, the expertise, and the leverage to obtain and analyze the ESX file and to <Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] underline">challenge the estimate</Link> based on what they find.</li>
         <li><strong>Document everything.</strong> Keep records of every communication with the carrier. If the carrier delays or refuses your request for the ESX file, those records become evidence of how the claim was handled.</li>
         <li><strong>Know your rights.</strong> You are not asking for a favor. You are asking for a document that was created using your property information, under your insurance policy, to evaluate your claim. The carrier has an obligation to provide the documentation necessary for you to evaluate the fairness of its determination.</li>
       </ul>

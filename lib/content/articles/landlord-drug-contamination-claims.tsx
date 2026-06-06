@@ -747,7 +747,7 @@ export default function Content() {
           or assets that surface during discovery.
         </li>
         <li>
-          <strong>Engage a public adjuster or insurance attorney if the claim is significant.</strong>
+          <strong>Engage a Public Adjuster or insurance attorney if the claim is significant.</strong>
           A claim that runs into five figures, let alone six, justifies professional
           claim representation. The carrier&rsquo;s coverage analysis on a drug-contamination
           claim is contested ground; you should not navigate it alone.
@@ -835,7 +835,7 @@ export default function Content() {
         had occupants. The carrier&rsquo;s first instinct may be a denial; the landlord&rsquo;s
         first instinct should be to assemble the documentation that turns that denial
         around. The earlier in the process the landlord engages a competent industrial
-        hygienist, a knowledgeable public adjuster, or an insurance attorney, the better the
+        hygienist, a knowledgeable Public Adjuster, or an insurance attorney, the better the
         outcome of the claim is likely to be.
       </p>
 

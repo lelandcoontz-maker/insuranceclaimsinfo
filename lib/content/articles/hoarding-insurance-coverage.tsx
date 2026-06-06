@@ -303,7 +303,7 @@ export default function Content() {
           condition of the property, this is a sign that they are building a coverage defense.
           Consider retaining a{' '}
           <Link href="/resources/claims-process" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or attorney before providing further statements.
         </p>
@@ -456,7 +456,7 @@ export default function Content() {
           Rather than listing every individual book in a home with thousands of books, the
           inventory can estimate the number of books by room, the average cost per book, and the
           total value. This approach is legitimate and can be supported by industry pricing
-          databases. A skilled public adjuster knows how to present category-based inventories
+          databases. A skilled Public Adjuster knows how to present category-based inventories
           in a way that insurers will accept.
         </li>
         <li>
@@ -475,7 +475,7 @@ export default function Content() {
         <li>
           <strong>Expert assistance:</strong> A licensed{' '}
           <Link href="/resources/claims-process" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           experienced in large contents claims can help organize the inventory, establish
           values, and present the claim in a format that maximizes recovery. In hoarding
@@ -580,7 +580,7 @@ export default function Content() {
         insurer&rsquo;s reasonable inspection requests &mdash; refusing access can be grounds
         for claim denial under the cooperation clause. However, cooperation does not mean
         allowing the insurer unlimited and unsupervised access. The policyholder has the right
-        to have their public adjuster or attorney present during any inspection. The
+        to have their Public Adjuster or attorney present during any inspection. The
         policyholder&rsquo;s representative should also take their own photographs and notes
         during the inspection to ensure a complete record exists. If the insurer&rsquo;s
         inspection appears designed to build a coverage defense rather than to evaluate the
@@ -857,11 +857,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Hoarding claims are among the most complex insurance claims that exist. They involve
         coverage questions, documentation challenges, valuation disputes, and potential
-        adversarial proceedings (EUOs, SIU investigations). A licensed public adjuster can
+        adversarial proceedings (EUOs, SIU investigations). A licensed Public Adjuster can
         manage the claim from the policyholder&rsquo;s side &mdash; handling the inventory,
         the documentation, the negotiations, and the correspondence with the insurer. If the
         insurer raises coverage defenses, an attorney experienced in insurance coverage disputes
-        should be brought in as well. The combination of a public adjuster (managing the claim
+        should be brought in as well. The combination of a Public Adjuster (managing the claim
         logistics) and an attorney (addressing the coverage law) gives the policyholder the
         strongest possible position.
       </p>
@@ -908,7 +908,7 @@ export default function Content() {
         from the policyholder. In a hoarding claim, this recorded statement will be used to
         elicit admissions about the condition of the home, the policyholder&rsquo;s awareness
         of the hoarding, and other facts relevant to coverage defenses. The policyholder should
-        not provide a recorded statement without having their public adjuster or attorney
+        not provide a recorded statement without having their Public Adjuster or attorney
         present and prepared. In California, the policyholder has the right to have counsel
         present during a recorded statement, and the insurer cannot condition claim processing
         on the policyholder waiving that right.

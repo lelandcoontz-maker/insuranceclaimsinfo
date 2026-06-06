@@ -113,7 +113,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Understanding this does not make the process less frustrating. But it changes what you do about it. You document. You put things in writing. You track deadlines. You hire professionals &mdash; public adjusters, attorneys &mdash; who understand the system and can navigate it on your behalf. You stop treating the insurance company as a partner in your recovery and start treating it as what the system has made it: an adversary with a financial incentive to pay you less than what you are owed.
+        Understanding this does not make the process less frustrating. But it changes what you do about it. You document. You put things in writing. You track deadlines. You hire professionals &mdash; Public Adjusters, attorneys &mdash; who understand the system and can navigate it on your behalf. You stop treating the insurance company as a partner in your recovery and start treating it as what the system has made it: an adversary with a financial incentive to pay you less than what you are owed.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Who Should Read This Book</h2>

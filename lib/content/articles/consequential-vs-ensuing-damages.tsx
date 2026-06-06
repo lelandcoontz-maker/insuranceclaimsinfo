@@ -168,7 +168,7 @@ export default function Content() {
             </tr>
             <tr>
               <td className="border border-gray-300 p-3 font-semibold">Who raises it?</td>
-              <td className="border border-gray-300 p-3">Policyholder or public adjuster during the claim</td>
+              <td className="border border-gray-300 p-3">Policyholder or Public Adjuster during the claim</td>
               <td className="border border-gray-300 p-3">Attorney in a lawsuit</td>
             </tr>
           </tbody>

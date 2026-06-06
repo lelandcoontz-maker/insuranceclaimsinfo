@@ -860,7 +860,7 @@ export default function Content() {
         If you are dealing with a claim that involves cyber-related issues &mdash; a smart
         home device failure, a dispute over whether digital assets qualify as personal
         property, or an insurer denying a claim based on a cyber exclusion &mdash; consider
-        consulting with a public adjuster or insurance attorney who can evaluate your specific
+        consulting with a Public Adjuster or insurance attorney who can evaluate your specific
         policy language and help you navigate the{' '}
         <Link href="/resources/surprising-coverages" className="text-[#2E74B5] hover:underline">
           sometimes surprising ways

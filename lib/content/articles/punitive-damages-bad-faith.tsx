@@ -331,7 +331,7 @@ export default function Content() {
           <strong>Retaliating against policyholders:</strong> Taking adverse action &mdash;
           such as canceling a policy or referring the claim to the Special Investigations
           Unit without a good-faith basis &mdash; in response to the policyholder asserting
-          their rights, hiring a public adjuster, or retaining an attorney.
+          their rights, hiring a Public Adjuster, or retaining an attorney.
         </li>
         <li>
           <strong>Using &ldquo;cherry-picked&rdquo; data:</strong> Relying on selectively

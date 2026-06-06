@@ -565,7 +565,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4 italic">
         This article is for informational purposes only and does not constitute legal advice.
         Insurance claims involve fact-specific analysis, and policyholders facing disputes with
-        their carriers should consult with a licensed public adjuster or an attorney experienced in
+        their carriers should consult with a licensed Public Adjuster or an attorney experienced in
         insurance coverage litigation.
       </p>
       <p className="text-sm text-gray-500 mt-4 italic">

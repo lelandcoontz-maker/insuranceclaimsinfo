@@ -758,7 +758,7 @@ export default function Content() {
         unreasonable). Those additional categories are real, but the practitioner should cite them
         to the cases that articulate them, not attribute them to <em>Chateau Chamberay</em>&apos;s
         list. Proving any of these requires substantial evidence and litigation that is generally
-        beyond what a public adjuster can do unsupported.
+        beyond what a Public Adjuster can do unsupported.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The <strong>only California Supreme Court decision</strong> directly addressing the genuine
@@ -858,7 +858,7 @@ export default function Content() {
         paying the claim against a breach-of-contract action; it includes the potential tort
         exposure subject to the constitutional ceiling discussed above. Raising the legal theory of
         bad faith is attorney work, but the factual record supporting it is often built during the
-        claims process by the policyholder, the policyholder&apos;s public adjuster, and counsel.
+        claims process by the policyholder, the policyholder&apos;s Public Adjuster, and counsel.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The factual record is most powerful when carefully documented during the claim. A detailed
@@ -1001,13 +1001,13 @@ export default function Content() {
         <p>
           This article is for informational purposes only and does not constitute legal advice.
           California&rsquo;s Public Insurance Adjusters Act (Cal. Ins. Code &sect;&sect;
-          15000&ndash;15062) regulates public adjusters as a specialized claims-handling
+          15000&ndash;15062) regulates Public Adjusters as a specialized claims-handling
           profession; it does not authorize the practice of law &mdash; pleading, litigation
-          strategy, choice of legal theories, and bad-faith claim filing are attorney work. A public adjuster&apos;s role is
+          strategy, choice of legal theories, and bad-faith claim filing are attorney work. A Public Adjuster&apos;s role is
           to adjust the claim and document the carrier&apos;s conduct; an attorney&apos;s role is
           the legal claim. If you believe your insurance company has acted in bad faith, consult
           with an attorney experienced in insurance coverage litigation. If you need a referral to
-          such an attorney, a licensed public adjuster may be able to assist.{' '}
+          such an attorney, a licensed Public Adjuster may be able to assist.{' '}
           <Link href="/contact" className="text-blue-700 underline hover:text-blue-900">
             Contact us here.
           </Link>

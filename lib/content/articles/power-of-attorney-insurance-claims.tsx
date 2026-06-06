@@ -1462,7 +1462,7 @@ export default function Content() {
           conservatee&rsquo;s property
         </li>
         <li>
-          <strong>Hiring professionals</strong> &mdash; retaining public adjusters, attorneys,
+          <strong>Hiring professionals</strong> &mdash; retaining Public Adjusters, attorneys,
           contractors, engineers, and other experts to assist with the claim
         </li>
         <li>
@@ -1832,7 +1832,7 @@ export default function Content() {
           complex cases, the conservatorship attorney and the insurance attorney (or bad
           faith litigation attorney) may be different people. The probate attorney ensures
           the conservator has proper legal authority and that all court requirements are met.
-          The insurance attorney or public adjuster handles the substance of the claim. When
+          The insurance attorney or Public Adjuster handles the substance of the claim. When
           settlements are reached, both need to coordinate on the petition for court approval.
         </li>
       </ul>
@@ -1872,7 +1872,7 @@ export default function Content() {
           action.
         </li>
         <li>
-          <strong>Consult an insurance professional</strong> &mdash; a public adjuster or
+          <strong>Consult an insurance professional</strong> &mdash; a Public Adjuster or
           insurance attorney &mdash; to begin building the claim file in parallel with the
           conservatorship proceeding.
         </li>

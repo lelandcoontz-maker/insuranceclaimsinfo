@@ -90,7 +90,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The provisions that follow are drawn directly from Section 2071. Understanding them is
-        essential for any policyholder, public adjuster, or attorney involved in a fire insurance
+        essential for any policyholder, Public Adjuster, or attorney involved in a fire insurance
         claim in California.
       </p>
 
@@ -1322,7 +1322,7 @@ export default function Content() {
           >
             Appraisal Practitioner Guide
           </Link>{' '}
-          &mdash; tactical guidance for appraisals, for public adjusters and attorneys
+          &mdash; tactical guidance for appraisals, for Public Adjusters and attorneys
         </li>
         <li>
           <Link

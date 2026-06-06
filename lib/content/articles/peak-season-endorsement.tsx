@@ -549,7 +549,7 @@ export default function Content() {
           This article provides general educational information about peak season coverage
           endorsements. It does not constitute legal or insurance advice. Policy language,
           endorsement availability, and coverage terms vary by insurer and jurisdiction. Consult
-          your insurance professional, a licensed public adjuster, or an attorney for guidance
+          your insurance professional, a licensed Public Adjuster, or an attorney for guidance
           specific to your situation.
         </p>
       </CalloutBox>

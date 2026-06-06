@@ -374,7 +374,7 @@ export default function Content() {
         that the policyholder&rsquo;s appraiser is expected to represent the policyholder&rsquo;s
         position on the amount of loss while the umpire serves as the neutral. A licensed{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         is often selected as party appraiser because the role combines loss valuation expertise
         with advocacy experience.
@@ -1350,8 +1350,8 @@ export default function Content() {
             reach out
           </Link>
           . For policyholders considering whether appraisal is the right next step on a claim,
-          a licensed public adjuster can help develop the factual record, prepare the appraisal
-          memorandum, and serve as party appraiser. Most public adjusters and attorneys will
+          a licensed Public Adjuster can help develop the factual record, prepare the appraisal
+          memorandum, and serve as party appraiser. Most Public Adjusters and attorneys will
           provide a free initial consultation.
         </p>
       </div>

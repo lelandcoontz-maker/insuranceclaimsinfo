@@ -553,7 +553,7 @@ export default function Content() {
           href="/resources/public-adjuster"
           className="text-blue-700 underline hover:text-blue-900"
         >
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         to document and present the claim. These endorsements involve
         valuation questions that require both insurance expertise and an
@@ -615,7 +615,7 @@ export default function Content() {
           (CP 04 04 and CP 04 07) are standard forms, but your policy may
           use modified or proprietary language. Always review your specific
           policy language with a qualified insurance professional. If you
-          have a claim dispute, consult with a licensed public adjuster or an
+          have a claim dispute, consult with a licensed Public Adjuster or an
           attorney experienced in insurance coverage litigation.
         </p>
       </CalloutBox>

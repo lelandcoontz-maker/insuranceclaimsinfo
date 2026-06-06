@@ -809,7 +809,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The most reliable way to classify your dispute is to do a side-by-side comparison
         of the carrier&apos;s estimate and an independent estimate prepared by a qualified
-        contractor or public adjuster. For each line item, ask:
+        contractor or Public Adjuster. For each line item, ask:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -909,7 +909,7 @@ export default function Content() {
         line by line against the carrier&apos;s Xactimate estimate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Even better, have your own Xactimate estimate prepared by a public adjuster or
+        Even better, have your own Xactimate estimate prepared by a Public Adjuster or
         qualified estimator. When both estimates are in the same format and use the same
         line items, the price comparisons become transparent and the scope differences
         become obvious. And do not let the carrier tell you that you need{' '}
@@ -1029,9 +1029,9 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Public Adjusters</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A licensed public adjuster handles both scope and price disputes on your behalf.
+        A licensed Public Adjuster handles both scope and price disputes on your behalf.
         They inspect the property, document the damage, prepare an independent Xactimate
-        estimate, and negotiate with the carrier. A good public adjuster will begin by
+        estimate, and negotiate with the carrier. A good Public Adjuster will begin by
         evaluating whether the carrier&apos;s scope is complete before turning to pricing
         &mdash; because getting the scope right is the foundation for everything that
         follows.
@@ -1040,7 +1040,7 @@ export default function Content() {
         Public adjusters also serve as appraisers in the{' '}
         <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
           appraisal process
-        </Link>. If your claim reaches the appraisal stage, your public adjuster can
+        </Link>. If your claim reaches the appraisal stage, your Public Adjuster can
         represent your interests as your designated appraiser, presenting detailed
         pricing evidence to the panel.
       </p>
@@ -1058,7 +1058,7 @@ export default function Content() {
         faith exposure, and file suit when necessary.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Attorneys and public adjusters often work together on complex claims: the public
+        Attorneys and Public Adjusters often work together on complex claims: the public
         adjuster handles the scope and pricing, while the attorney handles the legal and
         coverage issues. This division of labor is effective because it matches each
         type of dispute with the professional best equipped to handle it.

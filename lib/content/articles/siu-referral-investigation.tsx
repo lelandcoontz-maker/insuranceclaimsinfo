@@ -59,7 +59,7 @@ export default function Content() {
           <strong>Loss occurs during financial hardship.</strong> If the policyholder is behind on mortgage payments, facing bankruptcy, going through a divorce, or experiencing other financial difficulty, many carriers will flag the claim for SIU review. The assumption is that financial pressure creates a motive for fabricating or exaggerating a claim. The obvious problem with this logic is that genuine losses do not discriminate based on the policyholder&apos;s financial condition &mdash; and people in financial distress are the ones who most need their insurance to work.
         </li>
         <li>
-          <strong>Policyholder is &quot;too knowledgeable&quot; about the claims process.</strong> This is one of the more troubling triggers. A policyholder who uses industry terminology, cites policy provisions, or demonstrates familiarity with the claims process may be flagged on the theory that such knowledge suggests involvement in prior fraudulent claims or coaching by someone with an improper motive. The reality, of course, is that informed consumers are simply informed. Reading your own policy, hiring a public adjuster, or consulting an attorney are not indicators of fraud &mdash; they are indicators of a policyholder who understands their rights.
+          <strong>Policyholder is &quot;too knowledgeable&quot; about the claims process.</strong> This is one of the more troubling triggers. A policyholder who uses industry terminology, cites policy provisions, or demonstrates familiarity with the claims process may be flagged on the theory that such knowledge suggests involvement in prior fraudulent claims or coaching by someone with an improper motive. The reality, of course, is that informed consumers are simply informed. Reading your own policy, hiring a Public Adjuster, or consulting an attorney are not indicators of fraud &mdash; they are indicators of a policyholder who understands their rights.
         </li>
         <li>
           <strong>Inconsistencies in the policyholder&apos;s statements.</strong> If the adjuster identifies discrepancies between the policyholder&apos;s account of the loss and the physical evidence, statements to different people, or documented facts, the claim may be referred to SIU. Genuine inconsistencies can arise from stress, trauma, confusion about dates and timelines, or the simple imperfection of human memory &mdash; particularly after a significant loss event.
@@ -163,7 +163,7 @@ export default function Content() {
         SIU investigators frequently interview neighbors, family members, friends, contractors, and anyone else who may have information about the loss, the policyholder&apos;s lifestyle, or the condition of the property before the loss. These interviews can cover topics ranging from the policyholder&apos;s daily routine to their financial situation to their relationship with other household members.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Policyholders should be aware that statements made by third parties &mdash; even if inaccurate or motivated by personal animosity &mdash; can become part of the claim file and may be used to support a denial. If you learn that the SIU investigator has contacted your neighbors, family, or friends, inform your attorney or public adjuster immediately.
+        Policyholders should be aware that statements made by third parties &mdash; even if inaccurate or motivated by personal animosity &mdash; can become part of the claim file and may be used to support a denial. If you learn that the SIU investigator has contacted your neighbors, family, or friends, inform your attorney or Public Adjuster immediately.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -240,12 +240,12 @@ export default function Content() {
         <Link href="/resources/time-pressure-negotiation-weapon" className="text-[#2E74B5] underline">
           a pressure tool
         </Link>{' '}
-        &mdash; is well documented in the insurance industry. It is one of the reasons why experienced attorneys and public adjusters urge policyholders not to capitulate under the weight of an SIU investigation. The investigation is designed, at least in part, to test your resolve. Understanding that dynamic changes how you respond to it.
+        &mdash; is well documented in the insurance industry. It is one of the reasons why experienced attorneys and Public Adjusters urge policyholders not to capitulate under the weight of an SIU investigation. The investigation is designed, at least in part, to test your resolve. Understanding that dynamic changes how you respond to it.
       </p>
 
       <CalloutBox variant="warning" title="Do Not Settle Under Pressure">
         <p>
-          If you are being pressured to accept a reduced settlement during an SIU investigation, recognize the tactic for what it is. The insurer benefits from your exhaustion and financial stress. Retaining counsel or a licensed public adjuster ensures that someone is advocating for the full value of your claim while you focus on rebuilding your life.
+          If you are being pressured to accept a reduced settlement during an SIU investigation, recognize the tactic for what it is. The insurer benefits from your exhaustion and financial stress. Retaining counsel or a licensed Public Adjuster ensures that someone is advocating for the full value of your claim while you focus on rebuilding your life.
         </p>
       </CalloutBox>
 
@@ -432,7 +432,7 @@ export default function Content() {
         2. Retain an Attorney or Licensed Public Adjuster
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the most important step you can take. An experienced insurance attorney or licensed public adjuster understands the SIU process, knows the carrier&apos;s playbook, and can protect your rights while ensuring you satisfy your cooperation obligations. The cost of representation is a fraction of what you risk by navigating the process alone. Many insurance attorneys work on contingency, meaning they do not charge fees unless you recover on your claim.
+        This is the most important step you can take. An experienced insurance attorney or licensed Public Adjuster understands the SIU process, knows the carrier&apos;s playbook, and can protect your rights while ensuring you satisfy your cooperation obligations. The cost of representation is a fraction of what you risk by navigating the process alone. Many insurance attorneys work on contingency, meaning they do not charge fees unless you recover on your claim.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -442,7 +442,7 @@ export default function Content() {
         If the SIU investigator contacts you and requests a{' '}
         <Link href="/resources/recorded-statements-siu" className="text-[#2E74B5] underline">
           recorded statement
-        </Link>, do not agree to give one on the spot. You have the right to schedule the statement at a mutually convenient time and to have your attorney or public adjuster present. Providing an unrehearsed recorded statement to an SIU investigator is one of the most common mistakes policyholders make, and it can create problems that are difficult to undo.
+        </Link>, do not agree to give one on the spot. You have the right to schedule the statement at a mutually convenient time and to have your attorney or Public Adjuster present. Providing an unrehearsed recorded statement to an SIU investigator is one of the most common mistakes policyholders make, and it can create problems that are difficult to undo.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -570,7 +570,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>An SIU referral is not an accusation. It is an investigation.</li>
-        <li>Retain counsel or a licensed public adjuster as early as possible.</li>
+        <li>Retain counsel or a licensed Public Adjuster as early as possible.</li>
         <li>Cooperate with reasonable requests, but do so strategically and through your representative.</li>
         <li>Document every interaction, every deadline, and every communication.</li>
         <li>Hold the insurer to its regulatory obligations &mdash; the{' '}

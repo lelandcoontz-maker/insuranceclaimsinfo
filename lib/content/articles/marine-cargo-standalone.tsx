@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Marine Cargo Insurance: Why Importers Should Purchase Their Own Coverage',
   description:
-    'Practical purchasing and claims advice for marine cargo insurance. Learn why importers should buy their own policy, how trade terms affect risk, warehouse coverage duration, and how public adjusters handle cargo claims.',
+    'Practical purchasing and claims advice for marine cargo insurance. Learn why importers should buy their own policy, how trade terms affect risk, warehouse coverage duration, and how Public Adjusters handle cargo claims.',
   summary:
     'Importers should buy their own marine cargo policy rather than rely on a seller\'s or carrier\'s coverage, because trade terms shift risk and gaps appear in transit and storage. Knowing the trade terms is key to being protected.',
 }
@@ -435,7 +435,7 @@ export default function Content() {
         has always involved marine surveyors working for the insurer, with the cargo owner
         navigating the process alone. But there is nothing in insurance law that limits public
         adjusters to homeowner or commercial property claims. Cargo is personal property, and
-        a public adjuster is licensed to represent insureds on any personal property insurance
+        a Public Adjuster is licensed to represent insureds on any personal property insurance
         claim.
       </p>
 
@@ -443,9 +443,9 @@ export default function Content() {
         What a Public Adjuster Brings to a Cargo Claim
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster with experience in trade and logistics offers cargo owners something
+        A Public Adjuster with experience in trade and logistics offers cargo owners something
         no marine surveyor provides &mdash; advocacy. The surveyor works for the insurer. The
-        public adjuster works for you. Specifically, a PA on a cargo claim will:
+        Public Adjuster works for you. Specifically, a PA on a cargo claim will:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -477,13 +477,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A marine surveyor inspects and reports. They measure the physical damage, identify
         probable cause, and estimate loss. They do not interpret policy language, negotiate
-        coverage, or advocate for the insured. A public adjuster does all of those things.
+        coverage, or advocate for the insured. A Public Adjuster does all of those things.
         The surveyor&apos;s report becomes one piece of evidence in the claim file &mdash; the
         PA uses that report (and challenges it when needed) as part of a comprehensive claim
         strategy aimed at maximizing recovery.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For context on the broader role of public adjusters across all property claim types,
+        For context on the broader role of Public Adjusters across all property claim types,
         see our overview on{' '}
         <Link href="/resources/inland-marine" className="text-[#2E74B5] hover:underline">
           inland marine insurance claims
@@ -689,7 +689,7 @@ export default function Content() {
         alone.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster with trade and logistics expertise represents you in exactly the
+        A Public Adjuster with trade and logistics expertise represents you in exactly the
         same way an attorney represents you in court &mdash; except in the insurance claim
         arena rather than the legal arena. The insurer has trained professionals working their
         side. You should have trained professionals working yours.

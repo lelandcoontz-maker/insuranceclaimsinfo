@@ -1153,7 +1153,7 @@ export default function Content() {
           presented is based on California law as of the date of publication and may not
           reflect subsequent legislative or judicial developments. Policyholders who hold
           property in a trust should consult a licensed estate-planning attorney regarding
-          the trust structure and a licensed insurance coverage attorney or public adjuster
+          the trust structure and a licensed insurance coverage attorney or Public Adjuster
           regarding any insurance-related concerns.
         </p>
       </div>

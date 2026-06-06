@@ -186,15 +186,15 @@ export default function Content() {
         Because the bank is the insured on the force-placed policy, the bank has every right
         to hire a licensed{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         to represent its interests on the claim. Under California Insurance Code &sect; 15007, a
-        public adjuster represents &ldquo;an insured&rdquo; &mdash; and on the force-placed
+        Public Adjuster represents &ldquo;an insured&rdquo; &mdash; and on the force-placed
         policy, the bank qualifies. This is the one scenario where a mortgage company can
-        legitimately engage a public adjuster. For more on this distinction and a real-world
+        legitimately engage a Public Adjuster. For more on this distinction and a real-world
         case study, see our article on{' '}
         <Link href="/resources/mortgage-company-public-adjuster" className="text-[#2E74B5] hover:underline">
-          when a mortgage company tries to hire a public adjuster
+          when a mortgage company tries to hire a Public Adjuster
         </Link>.
       </p>
 

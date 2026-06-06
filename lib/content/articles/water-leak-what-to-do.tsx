@@ -363,7 +363,7 @@ export default function Content() {
         &ldquo;gradual,&rdquo; or dramatically underpays the repair estimate, professional
         help may be needed. A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         can re-scope the damage and negotiate with the carrier. For coverage denials or
         bad-faith delay, consult an attorney. The{' '}

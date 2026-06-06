@@ -28,7 +28,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is not a theoretical argument. It is established law in California and other states. And it has produced outcomes that lenders never anticipated, including situations where a public adjuster convinced a bank to rescind its own foreclosure because the bank realized — too late — that it had bid away its right to the insurance money.
+        This is not a theoretical argument. It is established law in California and other states. And it has produced outcomes that lenders never anticipated, including situations where a Public Adjuster convinced a bank to rescind its own foreclosure because the bank realized — too late — that it had bid away its right to the insurance money.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What Is a Full Credit Bid?</h2>
@@ -184,7 +184,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In this situation, a sophisticated public adjuster or attorney representing the insured can approach the bank with a proposal: rescind the foreclosure. Let the borrower keep the property. Work out the loan — modify it, reduce the principal, extend the term, whatever makes the math work. The borrower stays in the home, continues making payments on a modified loan, collects the insurance proceeds, repairs the property, and the bank&apos;s collateral is restored to full value.
+        In this situation, a sophisticated Public Adjuster or attorney representing the insured can approach the bank with a proposal: rescind the foreclosure. Let the borrower keep the property. Work out the loan — modify it, reduce the principal, extend the term, whatever makes the math work. The borrower stays in the home, continues making payments on a modified loan, collects the insurance proceeds, repairs the property, and the bank&apos;s collateral is restored to full value.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -235,7 +235,7 @@ export default function Content() {
         <li><strong>Do not assume the bank automatically gets the insurance money.</strong> The bank&apos;s right to insurance proceeds depends on its lien existing at the time it seeks to collect. A full credit bid can extinguish that lien.</li>
         <li><strong>Monitor the foreclosure sale.</strong> Find out what the bank bid. If it made a full credit bid, document that fact immediately.</li>
         <li><strong>Continue prosecuting your insurance claim.</strong> The claim belongs to you as the insured. The <Link href="/resources/mortgage-company-holds" className="text-[#2E74B5] underline">mortgage clause</Link> gives the lender certain rights, but those rights can be extinguished by the lender&apos;s own actions at the foreclosure sale.</li>
-        <li><strong>Consult a public adjuster and an attorney who understand both insurance law and foreclosure law.</strong> This intersection is highly specialized. Most foreclosure attorneys don&apos;t think about insurance implications, and most insurance professionals don&apos;t think about foreclosure bidding strategy. You need someone who understands both.</li>
+        <li><strong>Consult a Public Adjuster and an attorney who understand both insurance law and foreclosure law.</strong> This intersection is highly specialized. Most foreclosure attorneys don&apos;t think about insurance implications, and most insurance professionals don&apos;t think about foreclosure bidding strategy. You need someone who understands both.</li>
         <li><strong>Consider the loan workout approach.</strong> If the bank has already made a full credit bid, it may be in everyone&apos;s interest to unwind the foreclosure. The bank may not realize what it has done until someone explains it to them. That explanation, backed by case law, can be the beginning of a negotiation that keeps you in your home.</li>
       </ol>
 

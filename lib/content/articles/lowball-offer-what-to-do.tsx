@@ -86,7 +86,7 @@ export default function Content() {
           Not all contractors understand insurance work. Look for one who has experience with
           insurance claims, can write a detailed scope, and understands that the estimate needs to
           document why each item is necessary — not just list prices. A contractor who has worked with
-          public adjusters or insurance attorneys will produce a more useful estimate.
+          Public Adjusters or insurance attorneys will produce a more useful estimate.
         </p>
       </CalloutBox>
 

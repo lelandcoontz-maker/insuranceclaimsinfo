@@ -21,7 +21,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>A guide for policyholders, public adjusters, and attorneys on demand surge &mdash; the dramatic spike in construction costs that follows every major catastrophe &mdash; and why insurance companies owe the actual post-event cost of repairs, not the price that existed the day before the disaster.</em>
+        <em>A guide for policyholders, Public Adjusters, and attorneys on demand surge &mdash; the dramatic spike in construction costs that follows every major catastrophe &mdash; and why insurance companies owe the actual post-event cost of repairs, not the price that existed the day before the disaster.</em>
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -531,7 +531,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Demand surge disputes are among the most complex and consequential issues in catastrophe claims. The amounts at stake are often significant &mdash; tens of thousands of dollars on a single residential claim, potentially hundreds of thousands on a large or complex property. A public adjuster can prepare a comprehensive estimate and demand that documents and quantifies demand surge, and can negotiate with the carrier on the policyholder&apos;s behalf. An attorney can pursue the claim through litigation or appraisal if negotiation is unsuccessful, and can pursue bad faith claims if the carrier&apos;s conduct warrants it. Do not wait until you have exhausted your patience and your options to bring in professional help &mdash; early engagement almost always produces better results.
+        Demand surge disputes are among the most complex and consequential issues in catastrophe claims. The amounts at stake are often significant &mdash; tens of thousands of dollars on a single residential claim, potentially hundreds of thousands on a large or complex property. A Public Adjuster can prepare a comprehensive estimate and demand that documents and quantifies demand surge, and can negotiate with the carrier on the policyholder&apos;s behalf. An attorney can pursue the claim through litigation or appraisal if negotiation is unsuccessful, and can pursue bad faith claims if the carrier&apos;s conduct warrants it. Do not wait until you have exhausted your patience and your options to bring in professional help &mdash; early engagement almost always produces better results.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -578,7 +578,7 @@ export default function Content() {
         <li><strong>Demand surge affects ALE exposure:</strong> When construction timelines extend due to the same factors that cause demand surge, ALE obligations extend as well. Carriers that fight demand surge on the structural side often increase their total exposure on the ALE side.</li>
         <li><strong>The insurance industry acknowledges demand surge at every level except individual claims:</strong> Catastrophe models, reinsurance treaties, and loss reserves all incorporate demand surge. The disconnect between institutional acknowledgment and individual claim handling is a powerful argument in any dispute.</li>
         <li><strong>Push back on carrier tactics:</strong> The &ldquo;three bids&rdquo; demand, the &ldquo;unreasonable pricing&rdquo; objection, and strategic delay are claims-handling tactics, not policy requirements. Recognize them for what they are and respond accordingly.</li>
-        <li><strong>Get professional help early:</strong> A public adjuster or attorney experienced in catastrophe claims can document, quantify, and recover demand surge costs that you may not be able to recover on your own.</li>
+        <li><strong>Get professional help early:</strong> A Public Adjuster or attorney experienced in catastrophe claims can document, quantify, and recover demand surge costs that you may not be able to recover on your own.</li>
       </ul>
 
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -212,7 +212,7 @@ export default function Content() {
         The time to explore these options is <em>before</em> a loss, during the underwriting and
         renewal process. If your agent or broker never discussed the waiting period with you,
         that may itself be a basis for an errors and omissions claim against the agent &mdash;
-        though that is a question for an attorney, not a public adjuster.
+        though that is a question for an attorney, not a Public Adjuster.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -371,9 +371,9 @@ export default function Content() {
         <li>
           <strong>Consider hiring a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>.</strong> Business income claims are among the most complex in commercial
-          insurance. A public adjuster specializing in commercial losses can navigate waiting
+          insurance. A Public Adjuster specializing in commercial losses can navigate waiting
           period issues and negotiate with the carrier on your behalf.
         </li>
       </ol>
@@ -414,7 +414,7 @@ export default function Content() {
           different language or coverage structures. Always read your actual policy. For
           claim-specific advice, consult with a licensed{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or an attorney experienced in commercial insurance disputes.
         </p>

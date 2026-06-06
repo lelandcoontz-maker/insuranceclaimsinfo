@@ -313,7 +313,7 @@ export default function Content() {
         <li>
           <strong>Consider hiring a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>.</strong>{' '}
           Multi-tenant sprinkler claims involve complex coverage questions, contamination
           disputes, multiple responsible parties, and business income losses that benefit
@@ -443,7 +443,7 @@ export default function Content() {
           facts of the loss, and applicable state law. If you are involved in a multi-tenant
           sprinkler damage claim, consult with a licensed{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or an attorney who specializes in insurance coverage.
         </p>

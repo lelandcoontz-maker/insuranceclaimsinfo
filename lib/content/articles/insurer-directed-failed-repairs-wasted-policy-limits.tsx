@@ -834,7 +834,7 @@ export default function Content() {
         If the carrier refuses to restore the wasted cleaning costs to the insured&rsquo;s available
         benefits &mdash; if the carrier takes the position that the policy limit has been reduced by
         the failed cleaning and the insured must absorb the shortfall &mdash; the insured should
-        retain a public adjuster or an attorney experienced in insurance bad faith.
+        retain a Public Adjuster or an attorney experienced in insurance bad faith.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is not a simple coverage dispute. It is a situation where the carrier&rsquo;s directed
@@ -846,7 +846,7 @@ export default function Content() {
         attempt create a compelling record.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster can quantify the full scope of necessary repairs, demonstrate the
+        A Public Adjuster can quantify the full scope of necessary repairs, demonstrate the
         inadequacy of the carrier&rsquo;s post-cleaning position, and negotiate for a settlement
         that accounts for the wasted expenditure. An attorney can evaluate whether the carrier&rsquo;s
         conduct supports a bad faith claim &mdash; which, in California, can include damages for
@@ -982,7 +982,7 @@ export default function Content() {
         benefits.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It will say the insured should have hired a public adjuster or attorney before the cleaning.
+        It will say the insured should have hired a Public Adjuster or attorney before the cleaning.
         But the insured is not required to retain professional representation to protect against
         their own insurance company&rsquo;s directives. The carrier has its own duty to handle the
         claim fairly.
@@ -1026,7 +1026,7 @@ export default function Content() {
         cleaning attempt. Request the carrier&rsquo;s directive in writing. Ask for a written
         agreement that failed-attempt costs will not reduce available benefits. Document the failure
         when it occurs. Retain an independent expert. And if the carrier refuses to make the insured
-        whole, retain a professional advocate &mdash; a public adjuster or an attorney &mdash; who
+        whole, retain a professional advocate &mdash; a Public Adjuster or an attorney &mdash; who
         understands that the money the carrier wasted was the insured&rsquo;s money, and the carrier
         should not be allowed to pretend otherwise.
       </p>

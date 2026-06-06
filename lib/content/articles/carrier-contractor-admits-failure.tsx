@@ -364,11 +364,11 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Step Five: Involve a Public Adjuster or Attorney</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the carrier refuses to revise its scope after its own contractor has confirmed the inadequacy, the policyholder should consider retaining a public adjuster or an attorney who handles insurance bad faith claims. The contractor&apos;s admission significantly strengthens the policyholder&apos;s position in any negotiation, appraisal, or litigation. A professional advocate will know how to use this evidence to maximum effect.
+        If the carrier refuses to revise its scope after its own contractor has confirmed the inadequacy, the policyholder should consider retaining a Public Adjuster or an attorney who handles insurance bad faith claims. The contractor&apos;s admission significantly strengthens the policyholder&apos;s position in any negotiation, appraisal, or litigation. A professional advocate will know how to use this evidence to maximum effect.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The public adjuster can document the claim, prepare a comprehensive estimate reflecting the true scope of repairs, and negotiate directly with the carrier. An attorney can evaluate whether the carrier&apos;s conduct rises to the level of bad faith, and whether the policyholder has a viable claim for damages beyond the policy benefits&mdash;including emotional distress and, in appropriate cases, punitive damages.
+        The Public Adjuster can document the claim, prepare a comprehensive estimate reflecting the true scope of repairs, and negotiate directly with the carrier. An attorney can evaluate whether the carrier&apos;s conduct rises to the level of bad faith, and whether the policyholder has a viable claim for damages beyond the policy benefits&mdash;including emotional distress and, in appropriate cases, punitive damages.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Step Six: Preserve Everything</h3>

@@ -905,7 +905,7 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         If the carrier&apos;s repair is inadequate and the carrier will not correct the deficiencies,
-        the policyholder should seek professional assistance. A licensed public adjuster can evaluate
+        the policyholder should seek professional assistance. A licensed Public Adjuster can evaluate
         the repair, identify deficiencies, and advocate on the policyholder&apos;s behalf. An
         attorney experienced in insurance coverage disputes can advise on the policyholder&apos;s
         legal rights and remedies, including bad faith claims. The sooner professional help is

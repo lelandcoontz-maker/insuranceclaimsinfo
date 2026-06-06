@@ -6,7 +6,7 @@ export const meta = {
   description:
     'Staff adjusters, independent adjusters, desk adjusters, field adjusters, Public Adjusters — learn who each one works for and how it affects your claim.',
   summary:
-    'Staff, independent, desk, field, and public adjusters all play different roles, and all but the public adjuster work for the insurer. Knowing who you are dealing with, and who pays them, tells you whose interests they serve.',
+    'Staff, independent, desk, field, and Public Adjusters all play different roles, and all but the Public Adjuster work for the insurer. Knowing who you are dealing with, and who pays them, tells you whose interests they serve.',
 }
 
 export default function Content() {

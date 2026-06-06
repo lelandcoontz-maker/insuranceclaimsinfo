@@ -313,7 +313,7 @@ export default function Content() {
         This creates a practical consideration for both sides. Insurers who want the protection of a
         White waiver should be aware that the presence of non-signatory witnesses can undermine it.
         Insureds and their counsel, conversely, should think carefully about who is in the room when
-        settlement discussions occur. If a public adjuster or other professional is present during
+        settlement discussions occur. If a Public Adjuster or other professional is present during
         the discussion and does not sign the waiver, that person&rsquo;s observations may remain
         available as evidence.
       </p>
@@ -777,7 +777,7 @@ export default function Content() {
         Surrendering that right should be a deliberate, informed decision &mdash; not a formality.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>5. Consider who else is in the room.</strong> If your public adjuster, contractor, or
+        <strong>5. Consider who else is in the room.</strong> If your Public Adjuster, contractor, or
         other professional is present during settlement discussions, they are not bound by a White
         waiver they did not sign. Their observations may remain available as evidence regardless of
         the waiver.

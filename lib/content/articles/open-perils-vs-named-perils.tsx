@@ -799,7 +799,7 @@ export default function Content() {
           is denying your contents claim by recharacterizing the cause of loss or arguing
           you have not met your burden of proof, consider consulting a{' '}
           <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or an attorney who specializes in insurance coverage. The open perils vs. named
           perils distinction is well-understood in claims practice, and a knowledgeable

@@ -248,7 +248,7 @@ export default function Content() {
           support a carrier argument against replacement cost or betterment
         </li>
         <li>
-          Discussions about hiring a public adjuster or attorney &mdash; while hiring professionals
+          Discussions about hiring a Public Adjuster or attorney &mdash; while hiring professionals
           is your right, posting about it publicly before the carrier knows can change the dynamic
           of the investigation
         </li>
@@ -631,7 +631,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the single most important rule. Do not post about your insurance claim, your
-        settlement, your adjuster, your public adjuster, your attorney, the carrier, or any aspect
+        settlement, your adjuster, your Public Adjuster, your attorney, the carrier, or any aspect
         of the claims process. Do not vent about the carrier&apos;s handling. Do not celebrate a
         payment. Do not discuss strategy. Do not post about depositions, mediations, or appraisals.
         Every word you post about the claim is a potential exhibit in litigation. Keep all claim-related
@@ -644,7 +644,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Avoid posting photos of your property &mdash; damaged or repaired &mdash; on social media
         during the claims process. Photos of the property should be shared only with your adjuster,
-        public adjuster, contractor, or attorney. A photo you post to show progress on repairs could
+        Public Adjuster, contractor, or attorney. A photo you post to show progress on repairs could
         be used by the carrier to argue that certain areas were not damaged, that repairs are
         complete (and therefore ALE should end), or that the scope of work exceeds what was covered.
         Document your property extensively, but keep that documentation in the claim file, not on
@@ -735,7 +735,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Your attorney or public adjuster may recommend downloading and preserving your entire social
+        Your attorney or Public Adjuster may recommend downloading and preserving your entire social
         media history early in the claims process. This preserves potentially helpful evidence and
         ensures compliance with preservation obligations if litigation becomes necessary.
       </p>
@@ -829,7 +829,7 @@ export default function Content() {
         If you are preparing for an EUO, review your social media accounts beforehand with your
         attorney or{' '}
         <Link href="/resources/examination-under-oath" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>. Know what you have posted, and be prepared to explain any posts that could be taken
         out of context. Honesty is essential &mdash; if you are asked whether you posted about the
         loss, saying &ldquo;no&rdquo; when you did is a material misrepresentation under oath. It
@@ -935,7 +935,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have questions about how social media may affect your claim, or if a carrier is using
-        social media evidence to challenge your claim, consult with a licensed public adjuster or an
+        social media evidence to challenge your claim, consult with a licensed Public Adjuster or an
         attorney experienced in insurance coverage disputes. Understanding the line between legitimate
         investigation and overreaching can make the difference between a fair resolution and an
         unnecessary fight.

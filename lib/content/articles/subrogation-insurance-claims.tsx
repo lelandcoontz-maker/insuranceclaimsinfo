@@ -340,7 +340,7 @@ export default function Content() {
         picture. This is another situation where having your own representation &mdash;
         whether a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          public adjuster
+          Public Adjuster
         </Link>{' '}
         or an attorney &mdash; is important.
       </p>
@@ -805,7 +805,7 @@ export default function Content() {
         If you are dealing with a subrogation issue on your insurance claim, consider
         consulting with a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
-          licensed public adjuster
+          licensed Public Adjuster
         </Link>{' '}
         who can help you understand your policy&rsquo;s subrogation provisions, or an
         attorney who specializes in insurance coverage disputes. Subrogation intersects

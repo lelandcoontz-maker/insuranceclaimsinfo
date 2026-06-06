@@ -17,7 +17,7 @@ export default function Content() {
         <p>
           This article is for educational purposes only and does not constitute legal advice.
           The distinction between fraud and bad faith is legally complex and fact-specific. A
-          public adjuster&rsquo;s role is to document the carrier&rsquo;s conduct and handle the
+          Public Adjuster&rsquo;s role is to document the carrier&rsquo;s conduct and handle the
           claim; the development of legal arguments, the selection of legal theories, and the
           conduct of litigation are the work of a California-licensed attorney. Consult a
           licensed California attorney before pursuing any legal action.
@@ -500,7 +500,7 @@ export default function Content() {
           <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] hover:underline">
             qualified professional
           </Link>{' '}
-          such as a public adjuster or licensed contractor. A wide gap between the insurer&apos;s
+          such as a Public Adjuster or licensed contractor. A wide gap between the insurer&apos;s
           number and independent assessments is evidence of unreasonable conduct.
         </li>
         <li>
@@ -548,7 +548,7 @@ export default function Content() {
         including depositions, subpoenas of internal company documents, and expert testimony.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster can build the foundation for these claims by documenting the
+        A Public Adjuster can build the foundation for these claims by documenting the
         insurer&apos;s conduct, preserving communications, and identifying discrepancies
         between what the insurer says and what the policy and the evidence actually show. But
         only a licensed attorney can pursue the legal claims, file a lawsuit, and argue fraud

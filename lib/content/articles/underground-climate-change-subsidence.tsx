@@ -357,7 +357,7 @@ export default function Content() {
           <strong>Review the policy carefully.</strong> Not all earth movement exclusions
           are identical. Some are broader, some are narrower, and the presence or absence
           of an ensuing loss provision can be decisive. Policyholders should review their
-          specific policy language &mdash; or have an attorney or public adjuster review
+          specific policy language &mdash; or have an attorney or Public Adjuster review
           it &mdash; before accepting a coverage denial.
         </li>
         <li>

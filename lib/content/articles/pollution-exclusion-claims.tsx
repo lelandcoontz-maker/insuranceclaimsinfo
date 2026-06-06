@@ -632,7 +632,7 @@ export default function Content() {
         accepted by courts, but it is an additional avenue worth exploring with your attorney
         or{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-          public adjuster
+          Public Adjuster
         </Link>
         .
       </p>

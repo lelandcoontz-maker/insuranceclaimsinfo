@@ -350,7 +350,7 @@ export default function Content() {
           <strong>Consult a professional before sharing data that may be adverse.</strong> If
           smart home data could be interpreted unfavorably &mdash; for example, sensor logs
           that show conditions existed before the homeowner noticed them &mdash; consult with
-          a public adjuster or attorney before voluntarily providing the data to the insurer.
+          a Public Adjuster or attorney before voluntarily providing the data to the insurer.
           Understanding the implications of the data before sharing it allows for informed
           decision-making.
         </li>

@@ -148,7 +148,7 @@ export default function Content() {
         policyholder to obtain any contractor estimates at all. The policyholder&apos;s duty is to
         prove the loss &mdash; to demonstrate that covered damage occurred and to document its
         extent. How the policyholder does that is left to the policyholder. A detailed contractor
-        estimate is one way. A public adjuster&apos;s estimate is another. Photographs, expert
+        estimate is one way. A Public Adjuster&apos;s estimate is another. Photographs, expert
         reports, invoices for emergency work already performed &mdash; all of these can establish
         the scope and cost of the loss.
       </p>
@@ -701,16 +701,16 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The three-bid demand is most effective against unrepresented policyholders &mdash; people
         who do not know that the requirement is fictitious and do not have anyone to advise them
-        otherwise. When a policyholder is represented by a licensed public adjuster or an
+        otherwise. When a policyholder is represented by a licensed Public Adjuster or an
         attorney, the dynamic changes immediately.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        A public adjuster will prepare their own estimate &mdash; typically using the same
+        A Public Adjuster will prepare their own estimate &mdash; typically using the same
         Xactimate software the carrier uses &mdash; and will negotiate the scope and pricing on
-        the policyholder&apos;s behalf. The public adjuster has no reason to obtain three bids
-        because the public adjuster understands that the obligation does not exist. When the
-        carrier makes the demand, the public adjuster responds with the regulatory and
+        the policyholder&apos;s behalf. The Public Adjuster has no reason to obtain three bids
+        because the Public Adjuster understands that the obligation does not exist. When the
+        carrier makes the demand, the Public Adjuster responds with the regulatory and
         contractual analysis described above.
       </p>
 

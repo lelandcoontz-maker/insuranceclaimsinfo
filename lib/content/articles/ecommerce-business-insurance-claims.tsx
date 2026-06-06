@@ -557,7 +557,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are an e-commerce business owner dealing with any of the following situations,
-        consider consulting a licensed public adjuster or an attorney who handles commercial
+        consider consulting a licensed Public Adjuster or an attorney who handles commercial
         insurance disputes:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

@@ -16,7 +16,7 @@ export default function Content() {
         <p>
           This article is for educational purposes only and does not constitute legal advice.
           The case law and statutes discussed below are provided for general educational
-          context. A public adjuster&rsquo;s role is to document the carrier&rsquo;s conduct and
+          context. A Public Adjuster&rsquo;s role is to document the carrier&rsquo;s conduct and
           handle the claim; the development of legal arguments and the conduct of litigation are
           the work of a California-licensed attorney. Consult a licensed California attorney
           before pursuing any legal action.
@@ -350,7 +350,7 @@ export default function Content() {
           action, a formal letter citing the specific provisions of 790.03 at issue puts the
           insurer on notice, creates a paper trail, and can change the dynamics of the claim.
           (Where the letter rises to a formal statutory accusation, that drafting is typically
-          an attorney&rsquo;s role; a public adjuster&rsquo;s part is developing the factual
+          an attorney&rsquo;s role; a Public Adjuster&rsquo;s part is developing the factual
           record behind it.)
         </li>
         <li>

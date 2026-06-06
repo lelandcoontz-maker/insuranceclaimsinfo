@@ -329,10 +329,10 @@ export default function Content() {
           reissuance.
         </li>
         <li>
-          <strong>The lender cannot hire a public adjuster on its own behalf</strong> to adjust
+          <strong>The lender cannot hire a Public Adjuster on its own behalf</strong> to adjust
           the insured&rsquo;s claim. For more on this issue, see our article on{' '}
           <Link href="/resources/mortgage-company-public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            whether a mortgage company can hire a public adjuster
+            whether a mortgage company can hire a Public Adjuster
           </Link>.
         </li>
         <li>
@@ -424,7 +424,7 @@ export default function Content() {
           with the bank on its interest does not resolve your claim as the insured. Consult
           with a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
-            public adjuster
+            Public Adjuster
           </Link>{' '}
           or policyholder attorney to ensure your interests are protected independently of
           the lender&rsquo;s.

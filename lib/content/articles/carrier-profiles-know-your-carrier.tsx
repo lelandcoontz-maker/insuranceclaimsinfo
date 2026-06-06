@@ -589,7 +589,7 @@ export default function Content() {
           practices.
         </li>
         <li>
-          <strong>Get professional help when needed.</strong> A licensed public adjuster works
+          <strong>Get professional help when needed.</strong> A licensed Public Adjuster works
           for you &mdash; not the insurance company. On complex or high-value claims,
           professional representation consistently produces better outcomes than going it alone.
         </li>

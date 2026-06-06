@@ -672,7 +672,7 @@ export default function Content() {
           essential under the combined form and persuasive even under the standalone form.
         </li>
         <li>
-          <strong>Engage professional help early.</strong> A public adjuster experienced in
+          <strong>Engage professional help early.</strong> A Public Adjuster experienced in
           commercial claims can help structure the extra expense documentation, negotiate with
           the carrier, and ensure that expenses are properly classified and supported. A forensic
           accountant can quantify the BI-versus-extra-expense interaction.
@@ -792,7 +792,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Document why each expense was necessary and reasonable. Show what alternatives you considered
         and why you chose the option you did. Demonstrate that the expense avoided a larger BI loss.
-        If the carrier is being unreasonable, consider engaging a public adjuster or coverage
+        If the carrier is being unreasonable, consider engaging a Public Adjuster or coverage
         attorney who can advocate for the full recovery.
       </p>
 

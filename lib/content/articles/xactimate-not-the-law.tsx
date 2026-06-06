@@ -180,7 +180,7 @@ export default function Content() {
         <li><strong>Check the price list date.</strong> Xactimate pricing is tied to a specific price list, updated monthly or quarterly. If the carrier used a price list from before your loss date or from a period when prices have since increased, the estimate may be based on stale data.</li>
         <li><strong>Verify labor rates.</strong> Compare the Xactimate labor rates against what contractors in your area actually charge. In many markets, Xactimate&rsquo;s default labor rates are significantly below prevailing wages.</li>
         <li><strong>Check for missing line items.</strong> A <Link href="/resources/xactimate-line-item-manipulation" className="text-[#2E74B5] underline">common carrier tactic</Link> is to omit line items that are necessary for the repair. Permits, content manipulation, temporary protection, equipment rental, and cleanup are frequently left out.</li>
-        <li><strong>Engage a professional.</strong> A <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">licensed public adjuster</Link> or an attorney experienced in insurance claims can build a competing Xactimate estimate using the correct inputs and challenge the carrier&rsquo;s estimate line by line.</li>
+        <li><strong>Engage a professional.</strong> A <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">licensed Public Adjuster</Link> or an attorney experienced in insurance claims can build a competing Xactimate estimate using the correct inputs and challenge the carrier&rsquo;s estimate line by line.</li>
       </ol>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

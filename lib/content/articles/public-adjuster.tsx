@@ -7,7 +7,7 @@ export const meta = {
   description:
     'Understand what a Public Adjuster does, how their fees work, when to hire one vs an attorney or contractor, and how to choose the right Public Adjuster for your insurance claim.',
   summary:
-    'A public adjuster is the only licensed adjuster who works for you, documenting and negotiating your claim for a contingency fee. Know when a PA fits versus an attorney or contractor, and how to choose a reputable one.',
+    'A Public Adjuster is the only licensed adjuster who works for you, documenting and negotiating your claim for a contingency fee. Know when a PA fits versus an attorney or contractor, and how to choose a reputable one.',
 }
 
 export default function Content() {

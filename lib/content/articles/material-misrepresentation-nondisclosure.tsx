@@ -948,7 +948,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>If the insurer raises misrepresentation or concealment, retain an attorney
-          immediately.</strong> This is not a claim dispute that a public adjuster can resolve
+          immediately.</strong> This is not a claim dispute that a Public Adjuster can resolve
           alone. Rescission is a legal action that requires legal defense. A{' '}
           <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
             bad faith
@@ -1045,7 +1045,7 @@ export default function Content() {
         For Practitioners: Key Strategic Considerations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Attorneys and public adjusters handling misrepresentation disputes should consider the
+        Attorneys and Public Adjusters handling misrepresentation disputes should consider the
         following strategic points:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

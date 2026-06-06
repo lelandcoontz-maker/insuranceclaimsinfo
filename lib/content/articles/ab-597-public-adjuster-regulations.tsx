@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'AB 597 (Pending): Proposed Public Adjuster Regulations in California',
   description:
-    'California AB 597 is a pending bill that would cap public adjuster fees at 15% for catastrophic-disaster claims and impose new contract and solicitation requirements. Currently held in Senate Appropriations as of August 2025.',
+    'California AB 597 is a pending bill that would cap Public Adjuster fees at 15% for catastrophic-disaster claims and impose new contract and solicitation requirements. Currently held in Senate Appropriations as of August 2025.',
   summary:
-    'AB 597 is a pending California bill that would cap public adjuster fees at 15% on catastrophic-disaster claims and add new contract and solicitation rules. As of August 2025 it is held in Senate Appropriations and is not yet law.',
+    'AB 597 is a pending California bill that would cap Public Adjuster fees at 15% on catastrophic-disaster claims and add new contract and solicitation rules. As of August 2025 it is held in Senate Appropriations and is not yet law.',
 }
 
 export default function Content() {
@@ -32,7 +32,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This page describes a bill that has been introduced in the California Legislature but
         has not become law. Until AB 597 is enacted, none of the provisions described below
-        are enforceable, and current law continues to govern public adjuster contracts and
+        are enforceable, and current law continues to govern Public Adjuster contracts and
         fees.
       </p>
 
@@ -41,7 +41,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          Cap public adjuster fees at <strong>15%</strong> of insurer payments received after
+          Cap Public Adjuster fees at <strong>15%</strong> of insurer payments received after
           the contract date, for claims arising from a catastrophic disaster or declared state
           of emergency.
         </li>
@@ -73,7 +73,7 @@ export default function Content() {
         Common contract practice in catastrophe contexts is 10%, but that is industry custom,
         not statutory law. For current-law guidance see{' '}
         <Link href="/resources/public-adjuster-fees" className="text-[#2E74B5] underline">
-          public adjuster fees
+          Public Adjuster fees
         </Link>{' '}
         and{' '}
         <Link href="/resources/what-public-adjuster-does" className="text-[#2E74B5] underline">

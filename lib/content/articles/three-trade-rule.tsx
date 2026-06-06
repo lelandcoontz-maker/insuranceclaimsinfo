@@ -348,8 +348,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Consult a{' '}
-        <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">public adjuster</Link>
-        {' '}or attorney.</strong> O&amp;P disputes can involve significant amounts of money &mdash; 20% of the entire repair estimate. A qualified public adjuster or policyholder attorney can evaluate your specific situation, review your policy language, and determine the best path forward.
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">Public Adjuster</Link>
+        {' '}or attorney.</strong> O&amp;P disputes can involve significant amounts of money &mdash; 20% of the entire repair estimate. A qualified Public Adjuster or policyholder attorney can evaluate your specific situation, review your policy language, and determine the best path forward.
       </p>
 
       <hr className="my-8 border-gray-300" />

@@ -346,7 +346,7 @@ export default function Content() {
           <strong>Challenge improper denials.</strong> If the insurer denies based on the earth movement exclusion without addressing the covered peril that started the chain, respond in writing citing the efficient proximate cause doctrine and California Insurance Code &sect; 530. Request that the insurer explain why the covered peril is not the predominant cause. If the insurer refuses to reconsider, file a complaint with the California Department of Insurance.
         </li>
         <li>
-          <strong>Consider hiring a public adjuster or attorney.</strong> Earth movement claims are among the most complex in property insurance. The interplay between the exclusion, the efficient proximate cause doctrine, the ACC clause, and the factual causation evidence requires expertise. A licensed public adjuster can manage the claim, retain experts, and negotiate with the insurer. If bad faith is involved, an insurance coverage attorney may be appropriate.
+          <strong>Consider hiring a Public Adjuster or attorney.</strong> Earth movement claims are among the most complex in property insurance. The interplay between the exclusion, the efficient proximate cause doctrine, the ACC clause, and the factual causation evidence requires expertise. A licensed Public Adjuster can manage the claim, retain experts, and negotiate with the insurer. If bad faith is involved, an insurance coverage attorney may be appropriate.
         </li>
       </ol>
 
@@ -412,7 +412,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Know When to Get Help">
         <p>
-          Earth movement claims are technically and legally complex. If your claim has been denied under the earth movement exclusion and you believe a covered peril caused the earth to move, consider hiring a licensed public adjuster to manage the claim or a coverage attorney to review the denial. The efficient proximate cause argument is well-established in California, but winning the argument requires evidence, expertise, and persistence.
+          Earth movement claims are technically and legally complex. If your claim has been denied under the earth movement exclusion and you believe a covered peril caused the earth to move, consider hiring a licensed Public Adjuster to manage the claim or a coverage attorney to review the denial. The efficient proximate cause argument is well-established in California, but winning the argument requires evidence, expertise, and persistence.
         </p>
       </CalloutBox>
       <hr className="my-8 border-gray-300" />

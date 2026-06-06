@@ -215,7 +215,7 @@ export default function Content() {
         </Link>. If the carrier knows that its hypothetical timeline is unrealistic, ignores its own role in causing delays, or relies on a construction expert who has provided a timeline that no reasonable person would accept, the carrier&rsquo;s conduct may support a bad faith claim. This is particularly true when the carrier continues to collect the same premium for BI or ALE coverage while refusing to honor the coverage for the period the policyholder reasonably needs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Policyholders who believe their period of restoration is being unreasonably shortened should consider engaging both a public adjuster and an attorney early in the process. A public adjuster can help document and present the actual timeline. An attorney can evaluate whether the carrier&rsquo;s position crosses the line from a reasonable dispute into bad faith.
+        Policyholders who believe their period of restoration is being unreasonably shortened should consider engaging both a Public Adjuster and an attorney early in the process. A Public Adjuster can help document and present the actual timeline. An attorney can evaluate whether the carrier&rsquo;s position crosses the line from a reasonable dispute into bad faith.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

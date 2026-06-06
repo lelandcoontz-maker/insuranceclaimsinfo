@@ -610,7 +610,7 @@ export default function Content() {
           This article provides general educational information about business income documentation
           and preparation. It does not constitute legal, accounting, or insurance advice. Business
           income calculations and documentation requirements vary by policy form, industry, and
-          jurisdiction. Consult your CPA, insurance professional, a licensed public adjuster, or
+          jurisdiction. Consult your CPA, insurance professional, a licensed Public Adjuster, or
           an attorney for guidance specific to your situation.
         </p>
       </CalloutBox>

@@ -503,7 +503,7 @@ export default function Content() {
           <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">
             bad faith attorney
           </Link>{' '}
-          or public adjuster. Professionals who work insurance claims often know about active class
+          or Public Adjuster. Professionals who work insurance claims often know about active class
           actions before they are widely publicized.
         </li>
       </ul>
@@ -617,7 +617,7 @@ export default function Content() {
         For individual policyholders, the most important takeaway is this: if your insurer is
         treating you poorly, they are probably treating other policyholders the same way. You are
         not alone, and you have options. Whether that means joining a class, filing an individual
-        bad faith action, or hiring a public adjuster to fight for the full value of your claim,
+        bad faith action, or hiring a Public Adjuster to fight for the full value of your claim,
         the first step is always the same &mdash; document everything and know your rights under
         the{' '}
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">

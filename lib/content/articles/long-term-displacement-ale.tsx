@@ -232,7 +232,7 @@ export default function Content() {
         Does the Policy Still Cover the Property?
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the question that keeps public adjusters and coverage attorneys busy after
+        This is the question that keeps Public Adjusters and coverage attorneys busy after
         every major fire. The property is insured. The premiums are being paid. But no one
         lives there. Is it still covered?
       </p>

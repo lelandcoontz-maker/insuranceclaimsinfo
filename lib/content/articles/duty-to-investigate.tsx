@@ -248,9 +248,9 @@ export default function Content() {
         </h3>
         <p className="text-gray-600 text-sm mb-4">
           Inadequate investigation is one of the most common patterns of insurer conduct that
-          informs bad-faith analysis. A licensed public adjuster can document the gaps in the
+          informs bad-faith analysis. A licensed Public Adjuster can document the gaps in the
           investigation in real time &mdash; the documentation an attorney would need if the
-          facts later support a legal claim. Many public adjusters provide a free initial
+          facts later support a legal claim. Many Public Adjusters provide a free initial
           consultation.
         </p>
         <Link
@@ -265,10 +265,10 @@ export default function Content() {
         <p>
           This article is provided for general educational purposes only and does not constitute
           legal advice. California&rsquo;s Public Insurance Adjusters Act (Cal. Ins. Code
-          &sect;&sect; 15000&ndash;15062) regulates public adjusters as a specialized
+          &sect;&sect; 15000&ndash;15062) regulates Public Adjusters as a specialized
           claims-handling profession; it does not authorize the practice of law. Whether the
           facts of a specific claim support a bad-faith action, and what damages may be
-          recoverable, is a question for a licensed California attorney. The public adjuster&apos;s role in this
+          recoverable, is a question for a licensed California attorney. The Public Adjuster&apos;s role in this
           area is to document the carrier&apos;s investigation conduct during the claim; the
           attorney&apos;s role is the legal claim. Insurance policies, regulations, and case law
           can vary significantly based on individual circumstances; consult a licensed attorney

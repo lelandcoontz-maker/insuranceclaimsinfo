@@ -336,7 +336,7 @@ export default function Content() {
           any expert, consider their background and typical clientele. An expert whose style and
           methodology are unknown to you is a gamble &mdash; and an expert who has a business
           practice of assisting insurance companies in creating denials is worse than no expert at
-          all. Do your research. Ask your public adjuster or attorney whether they have experience
+          all. Do your research. Ask your Public Adjuster or attorney whether they have experience
           with the expert and what kind of reports they typically produce. The last thing you want
           is to pay for an &ldquo;independent&rdquo; opinion that reads like it was written for
           the insurance company.

@@ -210,7 +210,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A CDI complaint does not replace your other options. You can file a CDI complaint AND hire a
-        public adjuster or attorney. You can file a CDI complaint AND invoke appraisal. These
+        Public Adjuster or attorney. You can file a CDI complaint AND invoke appraisal. These
         processes run in parallel, not in sequence. Use every available tool. For more on your
         insurer&apos;s obligations, see our{' '}
         <Link href="/resources/insurer-obligations-cheat-sheet" className="text-blue-700 underline hover:text-blue-900">
