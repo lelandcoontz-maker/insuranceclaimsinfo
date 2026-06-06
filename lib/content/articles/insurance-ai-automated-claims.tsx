@@ -394,7 +394,7 @@ export default function Content() {
         serve the carrier&apos;s interests, not the policyholder&apos;s rights.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The AI then reproduces these patterns with remarkable consistency and at enormous scale. Where
+        The AI then reproduces these patterns with striking consistency and at enormous scale. Where
         a human adjuster might occasionally recognize that a particular situation warranted a more
         generous assessment &mdash; perhaps because the damage was more severe than typical, or
         because the policyholder presented compelling evidence &mdash; the AI applies the same
@@ -896,7 +896,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Get professional help early.</strong> The complexity of challenging AI-driven
-          claims decisions underscores the value of professional representation. A licensed public
+          claims decisions shows the value of professional representation. A licensed public
           adjuster can conduct the physical inspection the carrier&apos;s AI omitted, prepare a
           comprehensive scope of loss, and negotiate on your behalf. An attorney experienced in
           insurance coverage disputes can evaluate whether the carrier&apos;s use of AI constituted

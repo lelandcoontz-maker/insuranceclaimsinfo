@@ -333,7 +333,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance carriers have developed a consistent playbook for reducing inventory claim
         payments. Understanding these tactics is the first step toward defeating them. The
-        following patterns appear across carriers and across claim types with remarkable
+        following patterns appear across carriers and across claim types with notable
         consistency &mdash; not because individual adjusters are dishonest, but because the
         claims handling systems, training materials, and economic incentives all point in the
         same direction.

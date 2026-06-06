@@ -46,7 +46,7 @@ export default function Content() {
         <strong>Valuable Papers and Records Coverage (CP 04 07)</strong>.
         These are not exotic or unusual coverages. They are standard ISO
         endorsements available on virtually any commercial property policy.
-        Yet a remarkable number of businesses &mdash; including businesses
+        Yet a striking number of businesses &mdash; including businesses
         whose entire value resides in their records &mdash; carry neither
         one.
       </p>

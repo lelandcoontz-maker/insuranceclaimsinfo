@@ -329,7 +329,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        The Breadth Is Remarkable
+        The Breadth Is Notable
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is not just a collection of generic automobile release forms. Claims Pages has specialized

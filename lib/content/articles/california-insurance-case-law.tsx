@@ -390,7 +390,7 @@ export default function Content() {
         based on a &ldquo;genuine dispute.&rdquo; <em>Amadeo</em> says that this is not enough:
         the insurer&rsquo;s investigation must be objectively reasonable, and the dispute must
         arise from a genuine evaluation of the evidence &mdash; not from an investigation designed
-        to reach a predetermined conclusion. For Public Adjusters, <em>Amadeo</em> underscores
+        to reach a predetermined conclusion. For Public Adjusters, <em>Amadeo</em> shows
         the importance of documenting{' '}
         <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] underline">
           biased insurance experts

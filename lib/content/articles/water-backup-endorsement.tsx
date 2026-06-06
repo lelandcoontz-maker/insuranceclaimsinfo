@@ -133,7 +133,7 @@ export default function Content() {
         The Critical Distinction: True Backup vs. Blockage and Overflow
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the section that can save your claim. A remarkable number of losses that
+        This is the section that can save your claim. A striking number of losses that
         insurance adjusters label as &ldquo;sewer backups&rdquo; are not actually sewer backups
         in any mechanical or technical sense. They are plumbing blockages that cause water to
         overflow from fixtures inside the home. The two events have completely different causes,

@@ -315,7 +315,7 @@ export default function Content() {
         the court affirmed rescission where the insured had failed to disclose its ongoing
         joint venture and labor interchange with another business on the application. The case
         reinforces the &sect;&sect; 330&ndash;331 rule that concealment &mdash; intentional or
-        not &mdash; entitles the insurer to rescind a material omission, and underscores that
+        not &mdash; entitles the insurer to rescind a material omission, and shows that
         the &ldquo;reasonable insured&rdquo; framing is no defense when the omitted fact was
         clearly material to the risk.
       </p>

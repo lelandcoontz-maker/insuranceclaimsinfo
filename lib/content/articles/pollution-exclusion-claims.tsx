@@ -371,7 +371,7 @@ export default function Content() {
         and the limitations of narrow pollution exclusions in California. Their commentary
         highlights that even with a narrow pollution exclusion &mdash; one that arguably would
         not reach asbestos &mdash; the Villa Los Alamos court still denied the condo
-        association&rsquo;s property claim for asbestos cleanup costs. This underscores how
+        association&rsquo;s property claim for asbestos cleanup costs. This shows how
         difficult pollution exclusion cases can be when the underlying facts involve deliberate
         construction activity rather than a covered peril.
       </p>

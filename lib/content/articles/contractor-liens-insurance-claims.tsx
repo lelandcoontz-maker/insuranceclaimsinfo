@@ -724,7 +724,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         However, the attorney&apos;s fees provision cuts both ways. If the property owner
         files a petition and loses, the contractor may recover their attorney&apos;s fees from
-        the property owner. This underscores the importance of consulting with an experienced
+        the property owner. This shows the importance of consulting with an experienced
         construction attorney before filing a petition to release a mechanics lien.
       </p>
 

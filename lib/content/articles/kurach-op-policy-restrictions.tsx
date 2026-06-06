@@ -179,7 +179,7 @@ export default function Content() {
         The Farmers Next Generation policy was not only challenged in Pennsylvania. A national class action led by the firm Nix Patterson resulted in a <strong>$794 million settlement</strong> covering over 1.8 million Farmers policyholders who filed structural loss claims and had O&amp;P withheld. The settlement was one of the largest in insurance class action history.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The existence of this massive settlement underscores the scale of the practice. Farmers did not withhold O&amp;P from a handful of claims. The company built a policy form that systematically excluded O&amp;P from ACV payments across its entire book of business. Millions of policyholders were affected.
+        The existence of this massive settlement shows the scale of the practice. Farmers did not withhold O&amp;P from a handful of claims. The company built a policy form that systematically excluded O&amp;P from ACV payments across its entire book of business. Millions of policyholders were affected.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         <a href="https://nixlaw.com/ourresults/farmers-overhead-and-profit-litigation/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Nix Patterson &mdash; Farmers Overhead and Profit Litigation</a>.

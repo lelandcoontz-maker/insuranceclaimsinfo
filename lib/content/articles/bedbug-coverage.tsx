@@ -241,7 +241,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         These costs are borne entirely by the homeowner in most cases, as insurance coverage
-        is unavailable. This financial reality underscores the importance of early detection,
+        is unavailable. This financial reality shows the importance of early detection,
         prompt treatment, and aggressive pursuit of any available third-party remedies.
       </p>
 

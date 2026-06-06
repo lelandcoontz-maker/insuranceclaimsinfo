@@ -346,7 +346,7 @@ export default function Content() {
         that tax bill can easily exceed $100,000.
       </p>
 
-      <CalloutBox variant="tip" title="The Tax Trap Underscores the Insurance Problem">
+      <CalloutBox variant="tip" title="The Tax Trap Shows the Insurance Problem">
         <p>
           The tax consequences of adding a child to the deed are well documented and widely
           understood by estate planning professionals. But the insurance consequences &mdash;

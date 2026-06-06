@@ -21,7 +21,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Between 2023 and 2025, a remarkable pattern unfolded in California&rsquo;s property
+        Between 2023 and 2025, a notable pattern unfolded in California&rsquo;s property
         insurance market. State Farm announced it would stop accepting new homeowner applications
         in California. Allstate had already quietly paused new policies. Farmers Insurance began
         non-renewing tens of thousands of existing policies. USAA reduced its California footprint.

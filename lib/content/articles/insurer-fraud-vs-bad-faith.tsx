@@ -429,7 +429,7 @@ export default function Content() {
         legal department had reached its interpretation in good faith (even though the court
         ultimately disagreed with that interpretation), and that there was no evidence anyone
         at the insurer knew the interpretation was wrong. The fraud claim failed entirely.
-        This case underscores a fundamental principle: an insurer&apos;s legal interpretation
+        This case shows a fundamental principle: an insurer&apos;s legal interpretation
         of ambiguous policy language is almost never fraud, even when a court ultimately
         rejects that interpretation, because there is no knowing falsehood involved.
       </p>

@@ -697,7 +697,7 @@ export default function Content() {
         argument succeeds will depend on the specific facts &mdash; including whether the
         representation was specific enough, whether the policyholder&rsquo;s reliance was
         reasonable, and whether the policyholder can prove the representation was made
-        (which underscores the importance of documenting all communications with the
+        (which shows the importance of documenting all communications with the
         insurer in writing).
       </p>
 

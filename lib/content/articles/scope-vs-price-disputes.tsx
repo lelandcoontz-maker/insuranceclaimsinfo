@@ -348,7 +348,7 @@ export default function Content() {
         Scope Disputes in Practice
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Scope disputes take many forms, but several patterns appear with remarkable
+        Scope disputes take many forms, but several patterns appear with notable
         consistency across different types of claims and different carriers. Recognizing
         these patterns is the first step toward addressing them effectively.
       </p>
