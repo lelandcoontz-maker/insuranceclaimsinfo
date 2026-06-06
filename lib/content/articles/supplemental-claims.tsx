@@ -23,8 +23,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurance company&apos;s first estimate is rarely the last word. As repairs proceed,
         additional damage is often discovered that was not visible during the initial inspection.
-        A supplemental claim &mdash; or &quot;supplement&quot; &mdash; is your request for additional
-        payment to cover damage or repair costs that were not included in the original estimate.
+        A supplemental claim &mdash; or &quot;supplement&quot; &mdash; is the policyholder&apos;s
+        request for additional payment to cover damage or repair costs that were not included
+        in the original estimate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Filing supplements is a normal and expected part of the claims process. Experienced
@@ -32,6 +33,40 @@ export default function Content() {
         like you are asking for a favor &mdash; you are exercising your right to full
         indemnification under your policy.
       </p>
+
+      <CalloutBox variant="info" title="A Word on Terminology">
+        <p>
+          In strict usage, a &ldquo;supplement&rdquo; means the insured is supplementing the
+          insured&apos;s own prior estimate &mdash; for example, the insured submitted a scope
+          at one number and is adding to it because more was found. That is the cleanest case.
+          Three other categories often get filed under the same label even though they are not
+          really supplements in the strict sense, and the distinction can matter:
+        </p>
+        <ul className="list-disc pl-6 space-y-2 mt-3">
+          <li>
+            <strong>Hidden damage discovered during demolition.</strong> Part of the original
+            loss that simply was not visible at first inspection &mdash; usually handled as
+            continuing claim work on an open claim, not as a true supplement.
+          </li>
+          <li>
+            <strong>Items the adjuster missed.</strong> Damage that was part of the original
+            loss but was overlooked in the carrier&apos;s initial scope. This is the
+            carrier&apos;s estimate being incomplete, not the insured&apos;s.
+          </li>
+          <li>
+            <strong>Reopening a closed claim.</strong> If the prior settlement was signed with
+            a release or paid on a &ldquo;payment in full&rdquo; basis, simply filing a
+            &ldquo;supplement&rdquo; may not be enough. The release language and California
+            Civil Code &sect;&nbsp;1526(b) (the safe harbors for cashing &ldquo;payment in
+            full&rdquo; checks) need to be evaluated first.
+          </li>
+        </ul>
+        <p className="mt-3">
+          This guide uses &ldquo;supplement&rdquo; in the broad practical sense the industry
+          uses it. But where the distinction is load-bearing for a specific claim, it is worth
+          getting precise &mdash; especially before any prior release has been signed.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">When to File a Supplement</h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
