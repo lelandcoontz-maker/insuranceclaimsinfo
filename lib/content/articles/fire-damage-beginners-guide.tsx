@@ -93,17 +93,18 @@ export default function Content() {
         Each has its own coverage, its own process, and its own potential disputes:
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Track 1: Dwelling (Coverage A)</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Track 1: The Dwelling</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This covers the physical repair or rebuilding of your home. It includes the structure itself,
-        attached fixtures, built-in appliances, and related structures covered under Coverage A. If
-        the home is a total loss, this is your rebuild. If it is a partial loss, this covers all
-        necessary repairs to return the home to its pre-loss condition. Dwelling claims involve
-        detailed repair estimates — line-by-line in software like Xactimate — and are often the
-        largest dollar amount in the claim.
+        This covers the physical repair or rebuilding of your home &mdash; the structure itself,
+        attached fixtures, and built-in appliances. Detached structures like fences, sheds, and
+        detached garages are covered separately under Other Structures, which is a related but
+        different coverage with its own limit. If the home is a total loss, this is your rebuild.
+        If it is a partial loss, this covers all necessary repairs to return the home to its
+        pre-loss condition. Dwelling claims involve detailed repair estimates &mdash; line-by-line
+        in software like Xactimate &mdash; and are often the largest dollar amount in the claim.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Track 2: Contents (Coverage C)</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Track 2: Contents</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This covers your personal property — furniture, clothing, electronics, kitchen items, books,
         tools, everything you own that is not part of the building itself. After a fire,{' '}
@@ -115,7 +116,7 @@ export default function Content() {
         by smoke, heat, or water from firefighting.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Track 3: Additional Living Expenses (Coverage D)</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Track 3: Additional Living Expenses (ALE)</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <Link href="/resources/ale-frv" className="text-[#2E74B5] hover:underline">ALE</Link> covers
         the increased cost of living while your home is uninhabitable. This includes temporary
