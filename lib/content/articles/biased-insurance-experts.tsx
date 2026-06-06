@@ -41,13 +41,12 @@ export default function Content() {
         Those who do not, get dropped from the roster.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This creates <strong>selection bias</strong> &mdash; over time, the insurer&apos;s expert roster
-        is populated almost exclusively by professionals who reliably produce claim-minimizing
-        results. Many of these professionals are not engineers or hygienists who also take
-        insurance assignments on the side. They have dedicated their entire careers to writing
-        reports for insurance companies. They do not design buildings, consult on construction
-        projects, or serve the general public. Their sole source of income is producing opinions
-        that the insurance company finds useful &mdash; opinions that, by their nature, tend to
+        This creates a <strong>selection-bias dynamic</strong>. Over time, the insurer&apos;s
+        expert roster tends to be populated by professionals whose work product the carrier finds
+        useful. Many of these professionals are not engineers or hygienists who take insurance
+        assignments occasionally as part of a broader practice. Some have built their professional
+        practice largely around insurance work and may derive most or all of their income from
+        carrier-side assignments. That posture, by its nature, tends to produce opinions that
         support denial or reduction of claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -59,11 +58,12 @@ export default function Content() {
         <a href="https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/examining-the-insurance-industrys-claims-practices-following-recent-natural-disasters/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
           U.S. Senate Subcommittee on Disaster Management
         </a>{' '}
-        held further hearings on insurer claims practices following recent natural disasters, where
-        witnesses from Pilot Catastrophe Services testified about Allstate altering field
-        estimates. A forensic engineer confirmed that over 90% of his causation reports were altered
-        through a so-called &ldquo;peer review&rdquo; process at the home office, which reversed
-        his field findings to align with the insurer&apos;s denial strategy.
+        held further hearings on insurer claims practices following recent natural disasters.
+        According to the testimony presented, witnesses from Pilot Catastrophe Services alleged
+        that field estimates on Allstate-handled claims were modified after submission. A forensic
+        engineer testified that over 90% of his causation reports had been altered through a
+        so-called &ldquo;peer review&rdquo; process at the home office that, in his account,
+        reversed his field findings.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
