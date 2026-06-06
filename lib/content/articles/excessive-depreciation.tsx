@@ -517,14 +517,10 @@ export default function Content() {
           below.)
         </li>
         <li>
-          <strong>Insurance Code &sect; 2051(b)(1)</strong> &mdash; For total losses, defines
-          ACV as the policy limit or fair market value, whichever is less.
-        </li>
-        <li>
           <strong>Insurance Code &sect; 2051.5</strong> &mdash; Governs replacement cost
           recovery, including the 12-month minimum holdback collection period
-          (&sect; 2051.5(b)(1)) extended to 36 months for state-of-emergency losses (per AB
-          1800, 2018).
+          (&sect;&nbsp;2051.5(b)(1)) extended to 36 months for state-of-emergency losses
+          (per AB&nbsp;1800, 2018).
         </li>
       </ul>
 
