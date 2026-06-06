@@ -325,8 +325,8 @@ export default function Content() {
         Unfavorable Case Law
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not every court has accepted the vandalism theory, and it is important to understand the
-        unfavorable decisions so you can distinguish them:
+        Not every court has accepted the vandalism theory. The unfavorable decisions are
+        worth knowing so you can distinguish them:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Kaiser v. Allstate Insurance Co.</strong> (Neb. Ct. App. 2020) &mdash; The

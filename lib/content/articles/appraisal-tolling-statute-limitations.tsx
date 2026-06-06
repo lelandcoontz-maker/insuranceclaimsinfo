@@ -553,7 +553,7 @@ export default function Content() {
         <Link href="/resources/equitable-tolling" className="text-[#2E74B5] underline">
           equitable tolling in California insurance claims
         </Link>
-        , but it is important to understand that they are related but distinct concepts.
+        , but they are related but distinct concepts.
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>

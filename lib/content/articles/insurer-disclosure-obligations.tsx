@@ -50,9 +50,8 @@ export default function Content() {
         The Core Regulation: 10 CCR &sect; 2695.4(a) &mdash; The Affirmative Disclosure Duty
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Before discussing individual disclosure obligations, it is important to understand
-        the regulation that underlies all of them. California Code of Regulations, Title 10,
-        Section 2695.4(a) states:
+        Individual disclosure obligations all trace back to one regulation. California Code
+        of Regulations, Title 10, Section 2695.4(a) states:
       </p>
       <blockquote className="border-l-4 border-[#1F3964] pl-6 py-2 mb-6 bg-slate-50 rounded-r-lg">
         <p className="text-gray-700 italic leading-relaxed">

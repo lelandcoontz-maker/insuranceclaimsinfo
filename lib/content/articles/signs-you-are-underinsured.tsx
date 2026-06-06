@@ -290,7 +290,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Underinsurance Is the Policyholder&rsquo;s Problem, Not the Insurer&rsquo;s">
         <p>
-          It is important to understand that the insurer has no obligation to ensure that the
+          The insurer has no obligation to ensure that the
           policyholder carries adequate coverage. While agents may have some duty to advise,
           the policyholder is ultimately responsible for selecting coverage limits. If the
           dwelling limit is too low, the insurer will pay up to the policy limit and no more

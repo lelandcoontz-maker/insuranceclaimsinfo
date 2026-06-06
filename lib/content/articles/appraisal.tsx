@@ -1145,7 +1145,7 @@ export default function Content() {
         dispute resolution process while they are still in crisis.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to understand what &quot;shall not be compelled&quot; does and does not mean.
+        What &quot;shall not be compelled&quot; does and does not mean.
         It does not mean appraisal cannot happen at all. If the homeowner requests appraisal, the
         carrier may well agree to participate — and in many cases, the carrier may actually{' '}
         <em>prefer</em> appraisal over the alternative, which is the policyholder going straight to a

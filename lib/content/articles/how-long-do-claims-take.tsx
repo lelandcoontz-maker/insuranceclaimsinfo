@@ -36,10 +36,10 @@ export default function Content() {
         California Regulatory Deadlines: The Minimums
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Before examining realistic timelines by claim type, it is important to understand the
-        regulatory deadlines that California law imposes on insurers. Under the Fair Claims
-        Settlement Practices Regulations (10 CCR &sect;2695.7), insurance companies operating in
-        California must meet the following deadlines:
+        Realistic timelines sit on top of the regulatory deadlines California law imposes on
+        insurers. Under the Fair Claims Settlement Practices Regulations (10 CCR
+        &sect;&nbsp;2695.7), insurance companies operating in California must meet the
+        following deadlines:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

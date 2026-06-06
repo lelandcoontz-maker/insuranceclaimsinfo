@@ -337,7 +337,7 @@ export default function Content() {
         The Majority of States Enforce ACC Clauses
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to understand that most states do enforce anti-concurrent causation
+        Most states do enforce anti-concurrent causation
         clauses under freedom-of-contract principles. States that have upheld ACC clauses
         include Alabama, Alaska, Arizona, Colorado, Delaware, Florida, Georgia, Idaho,
         Illinois, Indiana, Louisiana, Maryland, Massachusetts, New Jersey, New York, North

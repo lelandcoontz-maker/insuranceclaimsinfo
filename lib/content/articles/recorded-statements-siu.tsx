@@ -222,7 +222,7 @@ export default function Content() {
         If an SIU investigation develops evidence of potential fraud, the insurer may refer the matter to the California Department of Insurance Fraud Division or to local law enforcement. A fraud referral is a serious escalation with potential criminal consequences.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to understand that an SIU referral and a fraud referral are different things. Most SIU referrals do not result in fraud referrals. The SIU investigates; if the investigation resolves the insurer&rsquo;s concerns, the claim proceeds. Only when the investigation develops evidence of intentional misrepresentation, concealment, or fabrication does the matter escalate to a fraud referral. Policyholders with legitimate claims who cooperate with the investigation and provide truthful, accurate information should not face fraud referrals.
+        An SIU referral and a fraud referral are different things. Most SIU referrals do not result in fraud referrals. The SIU investigates; if the investigation resolves the insurer&rsquo;s concerns, the claim proceeds. Only when the investigation develops evidence of intentional misrepresentation, concealment, or fabrication does the matter escalate to a fraud referral. Policyholders with legitimate claims who cooperate with the investigation and provide truthful, accurate information should not face fraud referrals.
       </p>
 
       <CalloutBox variant="warning" title="Do Not Confuse an SIU Referral with a Fraud Accusation">

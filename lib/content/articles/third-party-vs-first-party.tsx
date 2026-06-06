@@ -63,10 +63,11 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Before diving into the advantages and disadvantages, it is important to understand what
-        each claim type actually is &mdash; because the distinction is not just procedural. It
-        is structural. The two paths operate under entirely different legal frameworks, and that
-        difference affects everything from the protections you receive to the amount you recover.
+        Before the advantages and disadvantages, the question of what each claim type
+        actually is comes first &mdash; because the distinction is not just procedural. It
+        is structural. The two paths operate under entirely different legal frameworks, and
+        that difference affects everything from the protections you receive to the amount
+        you recover.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

@@ -262,7 +262,7 @@ export default function Content() {
         Understand the Difference Between &ldquo;No Damage&rdquo; and &ldquo;No Covered Damage&rdquo;
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When an insurer denies a hail claim, it is important to understand whether the denial is
+        When an insurer denies a hail claim, ask whether the denial is
         based on a finding that no hail damage exists (a factual determination) or a finding that
         the hail damage does not meet the policy&apos;s definition of covered damage (a coverage
         determination). These are very different arguments and require different responses. A

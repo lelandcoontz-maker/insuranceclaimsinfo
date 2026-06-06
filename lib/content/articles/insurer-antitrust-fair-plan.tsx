@@ -63,8 +63,8 @@ export default function Content() {
         The Pattern of Withdrawal
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        To understand why antitrust questions arise, it is important to understand what happened
-        and how it happened. Insurance company market exits do not typically follow this pattern.
+        Why antitrust questions arise is a story of what happened and how it happened.
+        Insurance company market exits do not typically follow this pattern.
         Individual carriers exit individual markets periodically based on their own loss experience,
         pricing constraints, and strategic decisions. What occurred in California was different in
         several respects:

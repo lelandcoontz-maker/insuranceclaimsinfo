@@ -159,7 +159,7 @@ export default function Content() {
         payment directly.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to understand what CP 12 19 does <em>not</em> do:
+        What CP 12 19 does <em>not</em> do:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

@@ -120,7 +120,7 @@ export default function Content() {
         Policies Without ACC Language: DP-1 and DP-3 Forms
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not all property insurance policies contain anti-concurrent causation clauses. Two common dwelling fire policy forms &mdash; the DP-1 (Basic Form) and the DP-3 (Special Form) &mdash; do not include ACC language. This is a significant advantage for policyholders insured under these forms, and it is important to understand why.
+        Not all property insurance policies contain anti-concurrent causation clauses. Two common dwelling fire policy forms &mdash; the DP-1 (Basic Form) and the DP-3 (Special Form) &mdash; do not include ACC language. This is a significant advantage for policyholders insured under these forms. The reason matters.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">

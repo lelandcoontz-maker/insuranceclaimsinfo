@@ -117,7 +117,7 @@ export default function Content() {
         Why Supplements Are Normal and Expected
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to understand that supplements are not unusual, adversarial, or a sign
+        Supplements are not unusual, adversarial, or a sign
         that something went wrong. They are a standard, anticipated part of the claims and
         construction process. Every experienced adjuster, contractor, and public adjuster knows
         that the first estimate on a significant claim is a starting point, not a final number.
@@ -697,7 +697,7 @@ export default function Content() {
         When Supplements Become Scope Disputes vs. Price Disputes
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not all supplement disagreements are the same. It is important to understand whether the
+        Not all supplement disagreements are the same. Ask whether the
         carrier is disputing the{' '}
         <Link href="/resources/scope-vs-price-disputes" className="text-[#2E74B5] underline">
           scope of the additional work or the price

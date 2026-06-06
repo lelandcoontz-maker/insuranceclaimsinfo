@@ -32,8 +32,8 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurance company&rsquo;s adjuster is a professional whose job is to evaluate and resolve
-        your claim. While many adjusters are fair and competent, it is important to understand the
-        structural incentives at play. The adjuster works for the insurance company. Their
+        your claim. Many adjusters are fair and competent, but the structural incentives at
+        play matter. The adjuster works for the insurance company. Their
         performance is often measured in part by how efficiently they close claims and how well they
         control costs. This does not mean every adjuster is acting against your interests, but it does mean
         their interests are not perfectly aligned with yours.

@@ -211,7 +211,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is important to understand what this document is and what it is not.
+        What this document is and what it is not.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

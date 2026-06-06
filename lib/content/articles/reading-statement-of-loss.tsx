@@ -57,7 +57,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The statement may also show sublimits, policy limits, and how those caps affected the
-        payment. It is important to understand that this is <strong>not</strong> the Xactimate
+        payment. This is <strong>not</strong> the Xactimate
         estimate. The Xactimate estimate is the detailed line-by-line repair cost document. The
         statement of loss is the financial summary that sits on top of the estimate &mdash; it
         applies the policy provisions (depreciation, deductible, limits) to the estimate totals and

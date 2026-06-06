@@ -798,7 +798,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="In California, This Question Remains Open">
         <p>
-          It is important to understand that no California court has issued a comparable ruling.
+          No California court has issued a comparable ruling.
           The question of whether an insurance adjuster, engineer, or other carrier-hired expert
           has a reasonable expectation of privacy while inspecting a policyholder&rsquo;s home
           has not been squarely decided under California&rsquo;s Penal Code &sect; 632. The

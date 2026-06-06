@@ -976,9 +976,9 @@ export default function Content() {
         Honest Mistakes vs. Systematic Underpayment
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not every error in an insurance estimate is intentional. It is important to understand
-        the difference between a genuine mistake and a pattern of systematic underpayment,
-        both for your own perspective and for how you choose to respond.
+        Not every error in an insurance estimate is intentional. The difference between a
+        genuine mistake and a pattern of systematic underpayment matters &mdash; both for
+        your own perspective and for how you choose to respond.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
