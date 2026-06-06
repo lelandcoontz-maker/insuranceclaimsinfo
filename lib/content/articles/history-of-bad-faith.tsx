@@ -824,7 +824,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Despite the challenges of winning a bad faith case in litigation, the existence of bad faith
-        law profoundly benefits every policyholder — including those who never file a lawsuit.
+        law deeply benefits every policyholder — including those who never file a lawsuit.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

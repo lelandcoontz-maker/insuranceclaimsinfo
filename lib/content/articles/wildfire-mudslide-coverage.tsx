@@ -104,7 +104,7 @@ export default function Content() {
           <strong>Wildfire burns through hillside terrain.</strong> The fire destroys vegetation, root systems, and organic material that hold soil in place. Intense heat can also create a hydrophobic (water-repellent) layer in the soil, which prevents water from absorbing into the ground as it normally would.
         </li>
         <li>
-          <strong>The hillside becomes unstable.</strong> Without vegetation to anchor the soil and with a hydrophobic layer preventing water infiltration, the burn scar area becomes extraordinarily vulnerable to erosion and mass movement.
+          <strong>The hillside becomes unstable.</strong> Without vegetation to anchor the soil and with a hydrophobic layer preventing water infiltration, the burn scar area becomes highly vulnerable to erosion and mass movement.
         </li>
         <li>
           <strong>Rainfall arrives.</strong> Precipitation that the hillside would have absorbed before the fire now runs off the surface, picking up soil, rock, and debris as it moves downhill.

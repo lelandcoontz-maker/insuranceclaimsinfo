@@ -548,7 +548,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         To recover contents depreciation, you must replace the items and submit proof of purchase.
-        This can be extraordinarily burdensome on a large loss. A homeowner who lost everything in a
+        This can be highly burdensome on a large loss. A homeowner who lost everything in a
         fire may have 500 or more items on their{' '}
         <Link href="/resources/contents-claims" className="text-[#2E74B5] underline">
           contents inventory

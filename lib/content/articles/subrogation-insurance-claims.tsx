@@ -71,7 +71,7 @@ export default function Content() {
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         That clause sounds simple enough. But buried within those few sentences are obligations,
-        rights, and tensions that can profoundly affect how your claim is handled.
+        rights, and tensions that can deeply affect how your claim is handled.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

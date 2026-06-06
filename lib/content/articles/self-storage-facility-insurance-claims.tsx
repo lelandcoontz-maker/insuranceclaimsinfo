@@ -188,7 +188,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The adjusting process for a self-storage loss involving hundreds of units is
-        extraordinarily labor-intensive:
+        highly labor-intensive:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

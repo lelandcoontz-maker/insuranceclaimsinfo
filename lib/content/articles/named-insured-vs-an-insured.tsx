@@ -506,7 +506,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a property is held in a trust, the question of who is &ldquo;you&rdquo;
-        and who is &ldquo;an insured&rdquo; can become extraordinarily complex. If the
+        and who is &ldquo;an insured&rdquo; can become highly complex. If the
         trust is the named insured, the individual trustors may not be &ldquo;you&rdquo;
         under the policy &mdash; they may only qualify as insureds through the
         resident-relative provision or through a specific endorsement. This affects

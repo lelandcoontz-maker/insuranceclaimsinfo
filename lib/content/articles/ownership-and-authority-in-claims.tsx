@@ -1742,7 +1742,7 @@ export default function Content() {
         loan terms. In addition, when the life tenant (borrower) dies or permanently moves
         out, the reverse mortgage becomes due, and the remaindermen must either repay the
         loan or surrender the property. The interaction between a reverse mortgage, a life
-        estate, and a property insurance claim after a loss is extraordinarily complex and
+        estate, and a property insurance claim after a loss is highly complex and
         almost always requires both legal and insurance expertise.
       </p>
 

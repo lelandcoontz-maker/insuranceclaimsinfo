@@ -670,7 +670,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The obvious question is: if these tactics are documented, exposed, and regulated
         against, why do they continue? The answer is economics. The consulting-driven
-        claims model is extraordinarily profitable. For every policyholder who fights back,
+        claims model is highly profitable. For every policyholder who fights back,
         hires a public adjuster, or files a bad faith lawsuit, there are dozens who accept
         the lowball offer, give up on the supplement, or walk away from money they are
         owed.

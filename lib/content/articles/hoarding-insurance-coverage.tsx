@@ -251,7 +251,7 @@ export default function Content() {
         They accumulate possessions because they have a psychiatric condition that makes
         discarding possessions intensely distressing. The suggestion that a person with a
         recognized mental health condition is engaged in some form of insurance scheme is both
-        factually baseless and profoundly insulting. Unless the insurer has actual evidence of
+        factually baseless and deeply insulting. Unless the insurer has actual evidence of
         intentional conduct &mdash; evidence of arson, evidence of a deliberate scheme to
         create a loss &mdash; the moral hazard argument is nothing more than character
         assassination dressed up as an underwriting concern.
@@ -281,7 +281,7 @@ export default function Content() {
         void homeowner insurance coverage. The standard HO-3 policy does not contain a blanket
         exclusion for losses occurring in properties with code violations. If it did, a
         significant percentage of all residential properties in America would be uninsured,
-        since minor code violations are extraordinarily common. The insurer must point to a
+        since minor code violations are highly common. The insurer must point to a
         specific policy provision that is triggered by the code violation, and it must establish
         that the violation was causally related to the loss. A hoarded home with blocked egress
         does not mean the fire started <em>because</em> of the hoarding &mdash; it may mean the

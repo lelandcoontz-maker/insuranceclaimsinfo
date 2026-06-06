@@ -44,7 +44,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         PFAS are a class of thousands of synthetic chemicals characterized by strong
-        carbon-fluorine bonds that make them extraordinarily resistant to degradation. This
+        carbon-fluorine bonds that make them highly resistant to degradation. This
         chemical stability is what made them useful in manufacturing &mdash; and what makes
         them an environmental disaster. PFAS do not break down through natural processes.
         They accumulate in water, soil, and living organisms over time, earning the

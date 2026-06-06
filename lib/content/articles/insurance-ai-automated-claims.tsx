@@ -913,7 +913,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Artificial intelligence is transforming insurance claims handling in ways that are often
-        invisible to policyholders but profoundly affect their claim outcomes. The technology
+        invisible to policyholders but deeply affect their claim outcomes. The technology
         offers genuine capabilities, but it also introduces systematic risks &mdash; training data
         bias, hidden damage blindness, accountability gaps, and optimization for carrier interests
         &mdash; that consistently operate to the detriment of the policyholder.

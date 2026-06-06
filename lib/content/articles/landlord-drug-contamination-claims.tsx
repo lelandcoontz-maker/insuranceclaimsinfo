@@ -122,7 +122,7 @@ export default function Content() {
           fentanyl residue, no one &mdash; not the landlord, not a property manager, not a
           contractor on a routine visit, not a friend or family member &mdash; should
           enter the property without proper personal protective equipment and trained
-          guidance. Fentanyl is lethal at extraordinarily small doses. Skin contact and
+          guidance. Fentanyl is lethal at highly small doses. Skin contact and
           inhalation of disturbed dust are both established exposure routes. People have
           died from accidental exposure to fentanyl residue in contaminated environments.
           Wait for law enforcement, hazmat-qualified contractors, or an industrial

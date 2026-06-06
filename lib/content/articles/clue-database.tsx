@@ -218,7 +218,7 @@ export default function Content() {
         appear that the homeowner received millions in claim payments when they actually received
         a fraction of that amount. These inflated CLUE reports made it extremely difficult for
         those policyholders to obtain new insurance, because every prospective carrier saw what
-        appeared to be an extraordinarily expensive claims history.
+        appeared to be an highly expensive claims history.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Other common inaccuracies include claims attributed to the wrong person or property,

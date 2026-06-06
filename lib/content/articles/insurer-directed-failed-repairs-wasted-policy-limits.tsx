@@ -643,7 +643,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         And if the carrier insists on a full-scale cleaning attempt after the test cleaning has
-        already demonstrated failure, the carrier&rsquo;s position becomes extraordinarily difficult
+        already demonstrated failure, the carrier&rsquo;s position becomes highly difficult
         to defend. The insured now has documented proof &mdash; from a physical test on the actual
         materials in the actual property &mdash; that the carrier&rsquo;s proposed method does not
         work. The carrier is no longer asking the insured to &ldquo;try&rdquo; something that might

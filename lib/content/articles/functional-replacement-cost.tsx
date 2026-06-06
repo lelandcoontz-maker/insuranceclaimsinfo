@@ -110,7 +110,7 @@ export default function Content() {
         Durability and Lifespan
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Plaster walls are extraordinarily durable. Properly applied lime-based plaster can last
+        Plaster walls are highly durable. Properly applied lime-based plaster can last
         100 years or more &mdash; there are plaster walls in homes built in the 1800s that remain
         in excellent condition today. Drywall, by contrast, has a practical lifespan of roughly
         30 to 50 years before it begins to deteriorate, develop cracks, or suffer moisture damage

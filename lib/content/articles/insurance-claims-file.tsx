@@ -314,7 +314,7 @@ export default function Content() {
         is the insurance company&apos;s internal estimate of what the claim will ultimately cost.
         It is set by the adjuster (or the claims management system) and adjusted as the claim
         develops. Reserve amounts are not communicated to the policyholder during the normal
-        claims process &mdash; but they can be extraordinarily revealing in a dispute.
+        claims process &mdash; but they can be highly revealing in a dispute.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the carrier reserved $150,000 for your claim but offered you $60,000, that gap raises

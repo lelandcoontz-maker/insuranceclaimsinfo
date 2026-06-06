@@ -234,7 +234,7 @@ export default function Content() {
         the funds for that purpose and the property will be restored to at least its pre-loss
         condition. But &ldquo;supposed to&rdquo; and &ldquo;actually does&rdquo; are two different
         things. HECM servicers routinely impose conditions, delays, and obstacles that make it
-        extraordinarily difficult for elderly borrowers to access their own insurance money for
+        highly difficult for elderly borrowers to access their own insurance money for
         repairs.
       </p>
 

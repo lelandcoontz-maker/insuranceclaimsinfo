@@ -138,7 +138,7 @@ export default function Content() {
         laboratory testing satisfies that standard.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Wildfire smoke produces extraordinarily fine particulate matter. PM2.5 particles — those
+        Wildfire smoke produces highly fine particulate matter. PM2.5 particles — those
         2.5 microns or smaller — are roughly 30 times smaller than the width of a human hair.
         These particles do not sit conveniently on surfaces waiting to be wiped up. They penetrate
         deep into HVAC systems, settle in ductwork joints and duct liner, embed in porous soft

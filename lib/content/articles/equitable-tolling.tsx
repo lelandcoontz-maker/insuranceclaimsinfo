@@ -59,7 +59,7 @@ export default function Content() {
         On its face, this seems straightforward: you have one year from the date of loss to file a
         lawsuit. But the actual deadline is <strong>not</strong> as simple as it appears. California
         courts have long recognized that enforcing the one-year limitation rigidly — starting from
-        the date of loss regardless of what the insurer is doing — would produce profoundly unfair
+        the date of loss regardless of what the insurer is doing — would produce deeply unfair
         results. The statute of limitations is equitably tolled during the period the insurer is
         actively investigating the claim.
       </p>

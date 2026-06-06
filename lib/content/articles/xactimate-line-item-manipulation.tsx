@@ -33,7 +33,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        These are not random errors. They are patterns. And they are possible because Xactimate is an extraordinarily flexible estimating tool that gives the user enormous discretion over how to structure an estimate. The same damage can be estimated at wildly different totals depending on the choices the estimator makes &mdash; and most policyholders will never know what choices were made or whether those choices were defensible.
+        These are not random errors. They are patterns. And they are possible because Xactimate is an highly flexible estimating tool that gives the user enormous discretion over how to structure an estimate. The same damage can be estimated at wildly different totals depending on the choices the estimator makes &mdash; and most policyholders will never know what choices were made or whether those choices were defensible.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
