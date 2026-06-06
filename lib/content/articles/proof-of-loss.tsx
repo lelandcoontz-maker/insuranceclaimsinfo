@@ -62,20 +62,26 @@ export default function Content() {
         conflicts with California law.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In practice, California courts apply the <strong>notice-prejudice rule</strong>, which means
-        an insurer generally cannot deny a claim solely because the proof of loss was submitted late
-        unless the insurer can demonstrate it was actually prejudiced by the delay. This is a
-        significant protection for policyholders, but it is not a reason to be careless with
-        deadlines &mdash; proving the insurer suffered no prejudice requires time, expense, and
-        potentially litigation.
+        In practice, California courts apply a <strong>material-breach-plus-prejudice</strong>{' '}
+        framework to cooperation-clause defenses, including failures to submit a timely proof
+        of loss. To deny a claim on that basis, an insurer must generally show both that the
+        insured&rsquo;s late or missing proof was a <em>material</em> breach of the policy
+        condition and that the insurer was <em>actually prejudiced</em> by the breach. Either
+        element alone is not enough. A short delay that did not impede the insurer&rsquo;s
+        investigation typically will not support a denial, but the precise application is
+        fact-specific, and proving no prejudice in litigation requires time and expense.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While a proof of loss is not always technically required, it is generally advisable to submit
-        one when the insurer requests it. The legal right to refuse is rarely worth the time and
-        expense of proving it. If you need more time, request an extension in writing before the
-        deadline passes, and get written confirmation that the extension has been granted.
-        Policyholders should check their specific policy and consult with a professional if there is
-        any uncertainty about the applicable deadline.
+        A proof of loss is not always technically required, but ignoring a written request is
+        rarely wise. An insured generally should comply with a proper proof-of-loss request,
+        request an extension in writing before the deadline passes if more time is needed,
+        and get the extension confirmed in writing. There is, however, a timing consideration
+        worth flagging: under 10 CCR &sect; 2695.7(b), the insurer&rsquo;s 40-day window to
+        accept or deny a claim runs from receipt of a completed proof of loss. Voluntarily
+        submitting a proof of loss before the insurer requests one therefore starts that
+        clock; for an insured whose claim is still being developed, weighing the benefit of
+        forcing a decision against the risk of a premature denial is a useful exercise, and
+        a Public Adjuster or attorney can help evaluate the timing in a specific situation.
       </p>
 
       <CalloutBox variant="warning" title="Do Not Ignore the Request">
