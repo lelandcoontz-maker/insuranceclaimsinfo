@@ -104,33 +104,38 @@ export default function Content() {
         alteration even though no soot is visible to the eye.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Maxus Metropolitan, LLC v. Travelers Property Casualty Co.</em>, No. 24-1176
-        (8th Cir. Aug. 28, 2025), the Eighth Circuit applied Missouri law and held that
-        microscopic soot contamination can constitute &ldquo;direct physical loss or
-        damage&rdquo; <em>if it renders the property uninhabitable</em>. The court affirmed a
+        In <em>Maxus Metropolitan, LLC v. Travelers Property Casualty Co. of America</em>,
+        No. 24-1176 (8th Cir. Nov. 17, 2025) (opinion originally issued Aug. 28, 2025), the
+        Eighth Circuit applied Missouri law and held that microscopic soot contamination can
+        constitute &ldquo;direct physical loss or damage&rdquo;{' '}
+        <em>if it renders the property uninhabitable</em>. The court affirmed a roughly
         $27.3 million jury verdict (plus $546,905 in vexatious-refusal damages and attorney
-        fees) against Travelers. This is persuasive authority from the Eighth Circuit applying
-        Missouri law, not California law, but its reasoning aligns with the <em>Another
-        Planet</em> definition and is increasingly cited by policyholder-side counsel.
+        fees) against Travelers, remanding only the prejudgment-interest recalculation.
+        This is persuasive authority from the Eighth Circuit applying Missouri law, not
+        California law, but its reasoning aligns with the <em>Another Planet</em> definition
+        and is increasingly cited by policyholder-side counsel.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         At the California trial-court level, <em>Aliff v. California FAIR Plan
-        Association</em> (L.A. Super. Ct. June 2025) (J. Stuart Rice, ruling on motion for
-        summary adjudication) addressed the FAIR Plan&apos;s attempt to limit smoke-damage
-        coverage to damage that was &ldquo;permanent physical change&rdquo; visible to the
-        unaided eye. The court held the restrictive policy language was narrower than the
-        coverage required by California Insurance Code &sect;&sect; 2070&ndash;2071 (the
-        standard fire policy framework, with the form text codified at &sect; 2071) and
-        therefore unenforceable, citing <em>Another Planet</em> for the proposition that
-        physical alteration &ldquo;need not be visible to the naked eye.&rdquo;{' '}
-        <em>Aliff</em> is a Superior Court decision and is not binding appellate precedent
-        &mdash; it is persuasive authority that applies the binding <em>Another Planet</em>
-        rule to a FAIR Plan policy. After the ruling, the FAIR Plan announced it would not
-        appeal and would update its policy language; some reports indicate the Plan has since
-        shifted its denial rationale to argue that smoke damage must be a &ldquo;distinct,
-        demonstrable and physical alteration&rdquo; (the <em>Another Planet</em> language
-        itself), which means policyholders should expect the next round of disputes to focus
-        on whether laboratory testing satisfies that standard.
+        Association</em>, Case No. 21STCV20095 (L.A. Super. Ct.), in a June 2025
+        summary-adjudication ruling by Judge Stuart M. Rice, addressed the FAIR Plan&apos;s
+        attempt to limit smoke-damage coverage to damage that was a &ldquo;permanent physical
+        change&rdquo; visible to the unaided eye. The court held the restrictive policy
+        language was narrower than the coverage required by California Insurance Code
+        &sect;&sect; 2070&ndash;2071 (the standard fire policy framework, with the form text
+        codified at &sect; 2071) and therefore unenforceable, citing <em>Another Planet</em>
+        for the proposition that physical alteration &ldquo;need not be visible to the naked
+        eye.&rdquo; <em>Aliff</em> is a Superior Court decision and is not binding appellate
+        precedent &mdash; it is persuasive authority that applies the binding{' '}
+        <em>Another Planet</em> rule to a FAIR Plan policy. After the ruling, secondary
+        sources have reported that the FAIR Plan has begun revising the affected policy
+        language and does not appear to be pursuing an appeal, though no formal non-appeal
+        statement is evident in the public record. Plaintiff-side commentary has also
+        suggested that FAIR Plan adjusters have begun arguing smoke damage must amount to a
+        &ldquo;distinct, demonstrable and physical alteration&rdquo; (the <em>Another
+        Planet</em> language itself, which CDI Bulletin 2025-7 directs all carriers to
+        apply) &mdash; meaning the next round of disputes is likely to focus on whether
+        laboratory testing satisfies that standard.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Wildfire smoke produces extraordinarily fine particulate matter. PM2.5 particles — those
