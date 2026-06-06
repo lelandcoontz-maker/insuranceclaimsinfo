@@ -106,7 +106,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Existing common law remedies.</strong> The Court noted that policyholders
-          already had robust remedies through common law bad faith (breach of the implied
+          already had remedies through common law bad faith (breach of the implied
           covenant of good faith and fair dealing), which provided compensatory damages,
           emotional distress, and punitive damages &mdash; making a statutory private right
           of action unnecessary to protect policyholders.

@@ -197,7 +197,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         An Assignment of Benefits gives the assignee the right to receive payment. It does not
         necessarily give the assignee the right to file a lawsuit against the insurance company.
-        This is a crucial limitation. If the carrier underpays the mitigation invoice or refuses
+        This is a limitation. If the carrier underpays the mitigation invoice or refuses
         to pay it at all, a contractor who holds only an AOB may not have standing to sue the
         carrier directly. The contractor can collect from the insurance proceeds, but if there
         is a dispute about the amount, the contractor&apos;s recourse may be limited to going

@@ -443,7 +443,7 @@ export default function Content() {
         <strong>Evidence Code Sections 1115&ndash;1128</strong> govern mediation confidentiality.
         Section 1119 provides broad protection for communications made &ldquo;for the purpose of, in
         the course of, or pursuant to, a mediation.&rdquo; This is a statutory protection, not a
-        contractual one, and it is in some respects more robust than a White waiver.
+        contractual one, and it is in some respects stronger than a White waiver.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Insurance Code Section 790.03(h)</strong> defines unfair claims settlement practices,

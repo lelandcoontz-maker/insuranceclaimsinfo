@@ -323,8 +323,8 @@ export default function Content() {
         have been paid for but not yet shipped, items pulled for shipping but not yet in transit,
         and backordered items committed to customers all potentially qualify as &ldquo;sold but
         not delivered.&rdquo; The documentation challenge is proving the existence of these
-        commitments at the time of loss &mdash; which is why robust order management systems and
-        regular data backups are essential.
+        commitments at the time of loss &mdash; which is why order management systems and
+        regular data backups matter.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

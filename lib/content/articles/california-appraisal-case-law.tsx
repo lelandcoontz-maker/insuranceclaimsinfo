@@ -380,7 +380,7 @@ export default function Content() {
         reversed the trial court&rsquo;s disqualification order.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>What this means for policyholders:</strong> The robust statutory
+        <strong>What this means for policyholders:</strong> The statutory
         neutrality-disclosure regime (CCP &sect; 1281.9 + the 15-day disqualification window
         in &sect; 1281.91) applies to the <strong>umpire</strong>, not to party appraisers.
         That is one more reason umpire selection deserves the most scrutiny. Party-appraiser

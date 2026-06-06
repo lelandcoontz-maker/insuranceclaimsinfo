@@ -1182,7 +1182,7 @@ export default function Content() {
         Undue influence over an elderly policyholder&rsquo;s insurance decisions is a form
         of financial elder abuse. It can strip decades of coverage from a vulnerable person,
         redirect life insurance proceeds to a manipulator, and leave families with nothing
-        when they thought they were protected. California law provides robust remedies
+        when they thought they were protected. California law provides remedies
         &mdash; the ability to void tainted transactions, the presumption of undue
         influence in confidential relationships, enhanced damages under the Elder Abuse
         Act, and criminal penalties for the perpetrator &mdash; but these remedies are

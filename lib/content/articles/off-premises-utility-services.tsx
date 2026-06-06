@@ -6,7 +6,7 @@ export const meta = {
   description:
     'Standard commercial property policies exclude losses from off-premises utility failures. Learn how the utility services endorsement closes this devastating coverage gap for restaurants and businesses with perishable inventory.',
   summary:
-    'Standard commercial policies exclude losses from off-premises utility failures, so a power outage miles away can spoil inventory with no coverage. A utility services endorsement closes this gap, vital for restaurants and businesses with perishables.',
+    'Standard commercial policies exclude losses from off-premises utility failures, so a power outage miles away can spoil inventory with no coverage. A utility services endorsement closes this gap, important for restaurants and businesses with perishables.',
 }
 
 export default function Content() {

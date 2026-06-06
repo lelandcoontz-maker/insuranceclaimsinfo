@@ -41,7 +41,7 @@ export default function Content() {
         understood what they were signing.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law provides robust protections for individuals who lack the mental capacity
+        California law provides protections for individuals who lack the mental capacity
         to enter into contracts or make binding decisions about their property. But these
         protections are meaningful only if someone &mdash; a family member, an attorney, a
         Public Adjuster, or another advocate &mdash; identifies the problem and acts before

@@ -126,7 +126,7 @@ export default function Content() {
         Coverage C can include costs for excavation, foundations, pilings, and underground
         systems when those elements must be upgraded to meet current code requirements. If a
         building was constructed in 1975 with a foundation that met the seismic standards of that
-        era, and current codes require a significantly more robust foundation, the additional
+        era, and current codes require a significantly stronger foundation, the additional
         cost of the upgraded foundation falls under Coverage C.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

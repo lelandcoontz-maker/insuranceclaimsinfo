@@ -325,8 +325,8 @@ export default function Content() {
         The HO-8 solves the insurer&rsquo;s problem (avoiding paying replacement cost that exceeds
         market value) but does not solve the homeowner&rsquo;s problem (obtaining enough insurance
         proceeds to actually restore the historic property). Historic homeowners should avoid the
-        HO-8 and instead seek a standard HO-3 with adequate replacement cost coverage and robust
-        ordinance or law limits.
+        HO-8 and instead seek a standard HO-3 with adequate replacement cost coverage and
+        adequate ordinance or law limits.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

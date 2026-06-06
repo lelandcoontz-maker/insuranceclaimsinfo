@@ -235,7 +235,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, the statute of limitations for a reformation claim is <strong>three years
         from the date of discovery</strong> of the mistake &mdash; not from the date the policy was
-        issued. This is a crucial distinction. You do not lose your right to seek reformation simply
+        issued. This is a distinction that matters. You do not lose your right to seek reformation simply
         because the policy was issued years ago. The clock starts when you actually discover (or
         reasonably should have discovered) that the policy does not match what was represented.
       </p>

@@ -401,7 +401,7 @@ export default function Content() {
         to pay or waive deductibles as an inducement, with a particular focus on roof claims.
         Florida&rsquo;s statute is narrower in some respects than the Texas law &mdash; it
         targets the <em>advertising</em> and <em>promising</em> rather than the act of
-        ultimately not collecting the money &mdash; but Florida also has robust insurance fraud
+        ultimately not collecting the money &mdash; but Florida also has insurance fraud
         statutes that can sweep in deductible-related conduct. The Florida legislature has been
         particularly active in this area following the{' '}
         <Link href="/resources/assignment-of-benefits" className="text-blue-700 underline hover:text-blue-900">

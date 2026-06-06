@@ -1480,7 +1480,7 @@ export default function Content() {
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">Explanation</h3>
       <p className="text-gray-700 leading-relaxed mb-3">
-        This section contains two crucial requirements. First, every depreciation deduction must
+        This section contains two requirements. First, every depreciation deduction must
         be <strong>individually justified</strong> — not applied as a blanket percentage. The
         insurer cannot say &ldquo;we depreciated everything 30%.&rdquo; Each item must be
         depreciated separately, specified as a dollar amount, and explained in writing.

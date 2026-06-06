@@ -681,7 +681,7 @@ export default function Content() {
         <strong>Evidence Code Sections 1115&ndash;1128</strong> govern mediation confidentiality.
         Section 1119 provides broad protection for communications made &ldquo;for the purpose of, in
         the course of, or pursuant to, a mediation.&rdquo; This is a statutory protection, not a
-        contractual one, and it is in some respects more robust than a White waiver. However, as the
+        contractual one, and it is in some respects stronger than a White waiver. However, as the
         court noted in <em>Wimsatt v. Superior Court</em> (2007) 152 Cal.App.4th 137, communications
         that occur in &ldquo;the regular course of litigation&rdquo; &mdash; even during the same
         time period as a mediation &mdash; may not qualify for mediation confidentiality. And section

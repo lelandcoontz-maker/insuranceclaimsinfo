@@ -371,7 +371,7 @@ export default function Content() {
         building components are covered by which policy. Civil Code &sect;4775 provides default
         maintenance, repair, and replacement rules: the association maintains common areas, and the
         owner maintains the separate interest and exclusive use common areas. But CC&amp;Rs can
-        override these defaults. California also has robust dispute resolution requirements under
+        override these defaults. California also has dispute resolution requirements under
         Civil Code &sect;&sect;5900&ndash;5965, including mandatory IDR before litigation in many
         cases.
       </p>

@@ -412,7 +412,7 @@ export default function Content() {
           CP 01 40 &mdash; is essential for evaluating your total exposure.
         </li>
         <li>
-          <strong>Maintain robust business continuity plans.</strong> Insurance is one component
+          <strong>Maintain business continuity plans.</strong> Insurance is one component
           of business resilience. Businesses that had contingency plans &mdash; remote work
           capabilities, alternative revenue streams, cash reserves &mdash; survived the pandemic
           better than those that relied solely on insurance recovery.
