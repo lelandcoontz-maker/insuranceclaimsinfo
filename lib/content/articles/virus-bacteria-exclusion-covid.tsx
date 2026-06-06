@@ -454,8 +454,8 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         ISO CP 01 40 accomplished exactly what the insurance industry designed it to do: it
-        eliminated coverage for virus and bacteria-related losses across the vast majority of
-        commercial property policies in the country. When COVID-19 arrived, the exclusion &mdash;
+        eliminated coverage for virus and bacteria-related losses across most commercial
+        property policies in the country. When COVID-19 arrived, the exclusion &mdash;
         combined with the &ldquo;direct physical loss or damage&rdquo; requirement &mdash;
         blocked recovery for millions of businesses. The courts largely upheld these barriers,
         and legislative efforts to override them were unsuccessful.
