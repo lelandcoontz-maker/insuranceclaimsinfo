@@ -916,13 +916,21 @@ export default function Content() {
         Step 5: What Is Your Statute of Limitations Situation?
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Time pressure affects your choice of mechanism. If the statute of limitations is approaching,
-        you may need to file suit immediately to preserve your rights &mdash; even if you also want
-        to invoke appraisal or pursue mediation. In California, the general statute of limitations
-        for a breach of insurance contract claim is four years (CCP &sect; 337), but many policies
-        contain shorter contractual limitations periods (often one or two years from the date of
-        loss). Equitable tolling may apply during the appraisal process, but this area of law is not
-        settled, and relying on tolling without legal advice is risky.
+        Time pressure affects your choice of mechanism. If the statute of limitations is
+        approaching, you may need to file suit immediately to preserve your rights &mdash; even
+        if you also want to invoke appraisal or pursue mediation. In California, the general
+        statute of limitations for a breach of insurance contract claim is four years (CCP{' '}
+        &sect;&nbsp;337), but most homeowner and fire policies are subject to a much shorter
+        contractual suit limitation written into the policy itself. The Standard Fire Policy
+        provisions in Cal. Ins. Code &sect;&nbsp;2071 require suit to be brought within{' '}
+        <strong>12 months</strong> after inception of the loss, extended to{' '}
+        <strong>24 months</strong> when the loss is related to a state of emergency as defined
+        in Government Code &sect;&nbsp;8558(b). That &sect;&nbsp;2071 deadline is the operative
+        clock for most California homeowner and fire claims &mdash; not CCP &sect;&nbsp;337.
+        Equitable tolling under <em>Prudential-LMI Commercial Insurance v. Superior Court</em>{' '}
+        (1990) 51 Cal.3d 674 may pause the clock during the insurer&apos;s active investigation
+        and adjustment, but the timing is fact-specific and relying on tolling without legal
+        advice is risky.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When the limitations period is tight, the safest approach is to file suit to preserve your

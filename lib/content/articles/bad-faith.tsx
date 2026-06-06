@@ -71,15 +71,16 @@ export default function Content() {
         not &quot;wrong&quot; &mdash; it is &quot;unreasonable.&quot; An insurance company can
         deny a claim and be wrong without acting in bad faith, as long as their denial was
         based on a legitimate and reasonable interpretation of the facts or the policy. Under
-        California law &mdash; as established in cases like{' '}
-        <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 9 Cal.3d 566 and{' '}
-        <em>Chateau Chamberay Homeowners Ass&apos;n v. Associated International Insurance
-        Co.</em> (2001) 90 Cal.App.4th 335 &mdash; the question is whether the insurer&apos;s
-        conduct was unreasonable or without proper cause. For a layperson, bad faith is essentially
-        synonymous with unreasonable conduct: the insurer acted without a reasonable basis for its
-        position, or it failed to properly investigate before taking that position. The insurer does
-        not get the benefit of the doubt simply because it can construct an after-the-fact
-        justification — if the conduct was unreasonable at the time, that can establish bad faith.
+        California law &mdash; established in <em>Gruenberg v. Aetna Insurance Co.</em>{' '}
+        (1973) 9 Cal.3d 566, refined in <em>Wilson v. 21st Century Ins. Co.</em> (2007) 42
+        Cal.4th 713, and applied to claims handling in <em>Chateau Chamberay Homeowners
+        Ass&apos;n v. Associated International Insurance Co.</em> (2001) 90 Cal.App.4th 335
+        &mdash; the question is whether the insurer&apos;s conduct was unreasonable or without
+        proper cause. For a layperson, bad faith is essentially synonymous with unreasonable
+        conduct: the insurer acted without a reasonable basis for its position, or it failed
+        to properly investigate before taking that position. The insurer does not get the
+        benefit of the doubt simply because it can construct an after-the-fact justification
+        &mdash; if the conduct was unreasonable at the time, that can establish bad faith.
       </p>
 
       <CalloutBox variant="important" title="The Genuine Dispute Doctrine Is the Insurer's Defense">
@@ -553,10 +554,12 @@ export default function Content() {
         If you believe your insurance company is acting in bad faith, consult with a
         Public Adjuster to evaluate your claim and, if necessary, an attorney who specializes in
         insurance bad faith litigation. Bad faith claims can potentially recover not only the
-        original insurance benefits owed, but also consequential damages, emotional distress damages,
-        and in egregious cases, punitive damages. However, these cases require strong evidence and
-        experienced legal representation. Do not make bad faith accusations lightly, but do not
-        tolerate genuinely unreasonable conduct either.
+        original insurance benefits owed, but also consequential damages, emotional distress
+        damages, attorney fees attributable to recovering the policy benefits (so-called
+        &ldquo;Brandt fees&rdquo; under <em>Brandt v. Superior Court</em> (1985) 37 Cal.3d
+        813), and in egregious cases, punitive damages. However, these cases require strong
+        evidence and experienced legal representation. Do not make bad faith accusations
+        lightly, but do not tolerate genuinely unreasonable conduct either.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, bad faith can support an award of punitive damages &mdash; damages
