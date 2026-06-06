@@ -211,7 +211,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        What this document is and what it is not.
+        Pause on what this document is &mdash; and what it is not.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

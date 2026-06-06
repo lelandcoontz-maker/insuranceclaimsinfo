@@ -32,7 +32,7 @@ export default function Content() {
         negotiate directly with the insurance company to reach a fair settlement.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The distinction between the different types of adjusters. The
+        The different types of adjusters work for different parties. The
         adjuster your insurance company sends works for them — their job is to adjust the claim on
         the insurer&apos;s behalf. An independent adjuster is hired by the insurance company as a
         contractor but still works at the insurer&apos;s direction. A Public Adjuster is the only

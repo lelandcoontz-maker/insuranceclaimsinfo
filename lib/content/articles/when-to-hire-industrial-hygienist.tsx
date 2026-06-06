@@ -75,8 +75,8 @@ export default function Content() {
         CIH vs. State Licensing: They Are Not the Same
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The distinction between ABIH board certification and
-        state-level licensing or registration. Not every state requires industrial hygienists
+        ABIH board certification is separate from state-level licensing or registration.
+        Not every state requires industrial hygienists
         to hold a license. California, for example, does not have a state licensing requirement
         specifically for industrial hygienists, though professionals performing certain types of
         environmental work may need to comply with registration requirements through the
