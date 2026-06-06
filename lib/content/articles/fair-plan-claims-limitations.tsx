@@ -244,9 +244,8 @@ export default function Content() {
         has transformed the FAIR Plan from a niche product into a necessity for hundreds of
         thousands of families. This rapid growth has strained the FAIR Plan&rsquo;s administrative
         capacity, its claims handling infrastructure, and its financial reserves. Policyholders who
-        file claims during catastrophic events may face longer wait times, less experienced
-        adjusters, and more aggressive claims handling as the organization struggles to manage an
-        unprecedented volume of losses.
+        file claims during catastrophic events may face longer wait times and less experienced
+        adjusters as the organization works through an unprecedented volume of losses.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
