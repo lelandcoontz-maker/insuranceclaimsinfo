@@ -1062,7 +1062,7 @@ export default function Content() {
         with the standard or through a deliberate effort to control costs, the policyholder
         pays the price through inadequate remediation, secondary damage, and an underpaid
         claim. Understanding the IICRC framework, documenting actual site conditions, and
-        leveraging the objectivity of laboratory analysis through a certified hygienist gives
+        using objective laboratory analysis from a certified hygienist gives
         you the tools to ensure the classification reflects reality rather than the
         carrier&apos;s preferred outcome.
       </p>

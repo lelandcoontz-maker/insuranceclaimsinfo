@@ -947,7 +947,7 @@ export default function Content() {
           performing a pre-existing contractual obligation lacks independent consideration. As
           insurance attorney Chip Merlin has documented extensively, placing accord and
           satisfaction language on claim checks is itself an unfair claims practice in many
-          jurisdictions &mdash; the insurer is attempting to extract a release by leveraging
+          jurisdictions &mdash; the insurer is attempting to extract a release by exploiting
           the policyholder&apos;s need for funds that are already owed.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">

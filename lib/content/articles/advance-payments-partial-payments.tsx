@@ -227,7 +227,7 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           California&apos;s Fair Claims Settlement Practices regulations
         </Link>
-        . It provides, in essence, that when a claim has both disputed and undisputed components,
+        . It provides that when a claim has both disputed and undisputed components,
         the insurer must pay the undisputed amount without delay, even if the disputed portion is
         still being negotiated.
       </p>
@@ -469,7 +469,7 @@ export default function Content() {
         This is why the historical shift matters so much. Carriers did not stop issuing advances
         because they discovered it was the wrong thing to do. They stopped because the environment
         changed, and the old strategy of buying compliance through generosity was replaced with a
-        new strategy of leveraging delay. The machinery changed; the goal did not.
+        new strategy of weaponizing delay. The tactics changed; the goal did not.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

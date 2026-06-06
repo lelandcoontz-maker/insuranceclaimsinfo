@@ -46,8 +46,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The White waiver takes its name from{' '}
         <em>White v. Western Title Insurance Co.</em> (1985) 40 Cal.3d 870, a landmark California
-        Supreme Court decision that fundamentally changed the landscape of insurance bad faith
-        litigation.
+        Supreme Court decision that fundamentally changed how California insurance bad faith
+        litigation works.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Brian and Helen White purchased a property in Mendocino County and obtained a title insurance

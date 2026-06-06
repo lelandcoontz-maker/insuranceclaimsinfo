@@ -263,7 +263,7 @@ export default function Content() {
         The Role of the Insurance Agent or Broker
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In many reformation disputes, the insurance agent or broker plays a pivotal role. The
+        The insurance agent or broker is often at the center of reformation disputes. The
         agent is the intermediary between the policyholder and the carrier. The agent helps the
         policyholder select coverage, conveys coverage needs to the underwriter, and delivers
         the issued policy. When the carrier claims a &ldquo;mistake&rdquo; occurred, the

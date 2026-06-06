@@ -162,7 +162,7 @@ export default function Content() {
         Your insurance company has a duty to pay what it owes under the policy. That duty exists independently of any release. A release does not create the obligation to pay &mdash; the policy does. A release extinguishes the obligation. These are fundamentally different things.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a carrier conditions payment of an undisputed amount on the execution of a release, the carrier is not fulfilling its duty &mdash; it is leveraging the policyholder&apos;s need for money to purchase something the policyholder has no obligation to sell.
+        When a carrier conditions payment of an undisputed amount on the execution of a release, the carrier is not fulfilling its duty &mdash; it is exploiting the policyholder&apos;s need for money to twist their arm into agreeing to a release the insurance policy does not require.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code section 790.03(h)(12) specifically prohibits failing to settle claims promptly under one portion of coverage in order to influence settlements under other portions. The Fair Claims Settlement Practices Regulations require prompt payment upon acceptance of a claim. The implied covenant of good faith and fair dealing obligates the carrier to deal fairly with its insured at every stage of the claim.

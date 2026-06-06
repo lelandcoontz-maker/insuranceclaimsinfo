@@ -23,7 +23,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Imagine hiring a doctor who diagnoses you by looking at a photograph someone else took of
         your symptoms. No examination. No questions. No stethoscope. Just a photo and a billing
-        code. That is, in essence, what happens when an insurance company &quot;desk adjusts&quot;
+        code. That is what happens when an insurance company &quot;desk adjusts&quot;
         your property damage claim. The adjuster assigned to evaluate your loss never visits your
         property, never walks through the damaged rooms, never touches the warped flooring or smells
         the smoke trapped in the insulation. Instead, they sit at a desk &mdash; sometimes hundreds

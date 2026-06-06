@@ -67,9 +67,9 @@ export default function Content() {
         I. Two-Party Consent vs. One-Party Consent States
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Before diving into California&rsquo;s specific rules, it is important to understand the
-        national landscape, because insurance claims frequently involve adjusters, engineers, and
-        experts from other states.
+        Insurance claims frequently involve adjusters, engineers, and experts from other states,
+        so the national landscape on recording matters before turning to California&rsquo;s
+        specific rules.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">

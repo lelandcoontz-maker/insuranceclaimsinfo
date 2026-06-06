@@ -388,7 +388,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is why policyholders must be prepared. The contractor&apos;s moment of candor may be brief. It may be offhand. It may come during a casual conversation while the contractor is packing up tools. But it is one of the most consequential moments in the life of the claim, and the policyholder who captures it has fundamentally changed the trajectory of the dispute.
+        This is why policyholders must be prepared. The contractor&apos;s moment of candor may be brief. It may be offhand. It may come during a casual conversation while the contractor is packing up tools. But it is one of the most consequential moments in the life of the claim, and the policyholder who captures it has shifted the dispute.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

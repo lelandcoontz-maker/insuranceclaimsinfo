@@ -276,7 +276,7 @@ export default function Content() {
         unique version of the earth movement exclusion with different wording, the existing case
         law on the ISO version may not apply. This creates genuine uncertainty. The policyholder
         does not know how a court will interpret the proprietary language, and neither does the
-        carrier &mdash; which can sometimes be leveraged in negotiations, but can also mean an
+        carrier &mdash; which can sometimes give you leverage in negotiations, but can also mean an
         unpredictable outcome if the dispute reaches litigation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

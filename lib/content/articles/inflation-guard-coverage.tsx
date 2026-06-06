@@ -278,7 +278,7 @@ export default function Content() {
         Inflation Guard vs. Guaranteed and Extended Replacement Cost
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        It is essential to understand the difference between inflation guard and{' '}
+        Understand the difference between inflation guard and{' '}
         <Link href="/resources/replacement-cost-vs-guaranteed" className="text-[#2E74B5] underline">
           guaranteed or extended replacement cost
         </Link>{' '}

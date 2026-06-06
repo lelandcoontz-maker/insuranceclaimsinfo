@@ -44,7 +44,7 @@ export default function Content() {
         company informing the policyholder that the insurer will continue to investigate, adjust,
         or defend the claim, but is reserving its right to later deny coverage or limit its
         obligations based on specific policy provisions, exclusions, or conditions. The letter
-        does not deny the claim. Instead, it says, in essence: &ldquo;We are not saying your claim
+        does not deny the claim. Instead, it says: &ldquo;We are not saying your claim
         is denied, but we are not confirming full coverage either. We will proceed with the
         investigation, but we want you to know that we may later take the position that some or all
         of the loss is not covered.&rdquo;

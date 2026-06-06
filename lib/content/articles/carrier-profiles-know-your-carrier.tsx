@@ -107,7 +107,7 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Market position:</strong> A major California carrier, leveraging strong brand
+        <strong>Market position:</strong> A major California carrier with strong brand
         loyalty from the roadside assistance side of the business.
       </p>
 
