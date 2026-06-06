@@ -26,8 +26,19 @@ export default function Content() {
         you wait passively for the insurance company to tell you what to do, you lose control.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Here is what actually happens in the first week — and what you should be doing.
+        Here is what actually happens in the first week &mdash; and what you should be doing.
       </p>
+
+      <CalloutBox variant="info" title="Still in the First 72 Hours?">
+        <p>
+          If the loss just happened, start with{' '}
+          <Link href="/resources/first-72-hours-after-loss" className="text-[#1F3964] underline font-medium">
+            What to Do in the First 72 Hours After a Loss
+          </Link>{' '}
+          first &mdash; safety, mitigation, and documentation before cleanup. This guide
+          picks up after the claim has been reported.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Days 1–2: Claim Acknowledgment

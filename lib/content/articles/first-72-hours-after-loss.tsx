@@ -201,14 +201,29 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="The Clock Is Running">
         <p>
-          Under California&apos;s Fair Claims Settlement Practices Regulations, your insurer
-          has 15 days to acknowledge your claim and begin investigating. If they miss that
-          deadline, document it. Every missed deadline is evidence you may need later. See{' '}
+          Under 10 CCR &sect;&nbsp;2695.5(b) (California&apos;s Fair Claims Settlement
+          Practices Regulations), the insurer has 15 calendar days to acknowledge the claim
+          and begin investigating. If a deadline is missed, document it &mdash; every missed
+          deadline is evidence that may be useful later. See{' '}
           <Link href="/resources/insurer-obligations-cheat-sheet" className="text-[#1F3964] underline font-medium">
             What Your Insurance Company Is Required to Do
           </Link>.
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        What Comes Next
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Once the first 72 hours are behind you and the claim is reported, the focus shifts to
+        the carrier&apos;s response &mdash; adjuster assignment, the first inspection, and
+        early documentation requests. See{' '}
+        <Link href="/resources/first-week-of-claim" className="text-[#2E74B5] underline">
+          What to Expect in the First Week of Your Claim
+        </Link>{' '}
+        for a day-by-day walkthrough of that phase.
+      </p>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.
