@@ -346,7 +346,7 @@ export default function Content() {
           temporary and emergency repairs
         </Link>{' '}
         &mdash; the insured is not merely permitted to make emergency repairs after a loss, the
-        policy <em>requires</em> it. Importantly, reasonable costs incurred in protecting the
+        policy <em>requires</em> it. Reasonable costs incurred in protecting the
         property from further damage are covered expenses under the policy.
       </p>
 

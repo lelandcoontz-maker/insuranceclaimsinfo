@@ -157,7 +157,7 @@ export default function Content() {
         <p>
           Also, after receiving the advance payment for contents, the policyholder may recover
           additional amounts up to the policy limit for contents coverage by filing a claim pursuant
-          to the terms of the policy. Importantly, when a policyholder files a claim relating to a
+          to the terms of the policy. When a policyholder files a claim relating to a
           state of emergency, the insurer is required to notify the policyholder of the option to
           receive this advance payment for loss of contents and of the policyholder&apos;s option to
           subsequently file a full itemized claim. Some policyholders we spoke to at my workshops

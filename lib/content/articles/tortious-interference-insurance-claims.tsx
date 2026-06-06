@@ -177,7 +177,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The interference must have actually disrupted the relationship. The contractor must have
         walked away, reduced scope, lowered price, or otherwise changed the terms of the
-        relationship in a way that harmed the policyholder. Importantly, California law does not
+        relationship in a way that harmed the policyholder. California law does not
         require a complete breach of the contract. Making the plaintiff&apos;s performance
         &quot;more costly or more burdensome&quot; can satisfy this element. If the carrier&apos;s
         conduct caused delays, increased costs, or forced the policyholder to expend time and

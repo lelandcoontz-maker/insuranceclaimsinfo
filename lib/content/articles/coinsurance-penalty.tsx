@@ -6,7 +6,7 @@ export const meta = {
   description:
     'What coinsurance is, how the penalty works, and why it usually doesn\'t apply to total losses — even though some adjusters apply it anyway.',
   summary:
-    'A coinsurance penalty reduces your payout if you insured the property for less than the required percentage of its value. Importantly, it usually does not apply to a total loss, even though some adjusters wrongly try to impose it.',
+    'A coinsurance penalty reduces your payout if you insured the property for less than the required percentage of its value. It usually does not apply to a total loss, even though some adjusters wrongly try to impose it.',
 }
 
 export default function Content() {

@@ -530,7 +530,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This matters for insurance claims because the character of the property at the time of
-        the loss determines the character of the proceeds. Importantly, simply adding a spouse
+        the loss determines the character of the proceeds. Simply adding a spouse
         to the title deed does <em>not</em> automatically constitute a transmutation. The
         writing must contain an &ldquo;express declaration&rdquo; that is &ldquo;made, joined
         in, consented to, or accepted by the spouse whose interest in the property is
