@@ -543,20 +543,20 @@ export default function Content() {
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
         The statutory suit limitation period under Insurance Code &sect; 2071 runs from the
-        inception of the loss, not from the date of the policyholder&rsquo;s death. The
-        baseline limit in the &sect; 2071 form is 12 months, but for residential property
-        losses California has extended that period to 24 months by statutory amendment to
-        &sect; 2071. Under the California Supreme Court&rsquo;s decision in <em>Prudential-LMI
-        Commercial Insurance v. Superior Court</em> (1990) 51 Cal.3d 674, the clock is then{' '}
-        <strong>equitably tolled (paused)</strong> during the period the insurer is actively
-        investigating and adjusting the claim. The endpoint of tolling is fact-specific
-        &mdash; California cases have looked to when the carrier&rsquo;s position becomes
-        clear and final (for example, a formal written denial, an unequivocal repudiation, or
-        the end of the carrier&rsquo;s adjustment activity), and the precise endpoint in any
-        particular claim depends on the facts of the file. The practical effect is significant:
-        in claims that remain in active adjustment for many months or years, the effective
-        suit-limitation period can run considerably later than 24 months from inception of
-        loss. When a policyholder dies during an open claim, succession issues can compress
+        inception of the loss, not from the date of the policyholder&rsquo;s death.
+        &sect;&nbsp;2071 sets a 12-month suit-limitation period, extended to 24 months when
+        the loss is related to a state of emergency as defined in Government Code
+        &sect;&nbsp;8558(b). Under the California Supreme Court&rsquo;s decision in{' '}
+        <em>Prudential-LMI Commercial Insurance v. Superior Court</em> (1990) 51 Cal.3d 674,
+        that clock is then <strong>equitably tolled (paused)</strong> during the period the
+        insurer is actively investigating and adjusting the claim. The endpoint of tolling is
+        fact-specific &mdash; California cases have looked to when the carrier&rsquo;s
+        position becomes clear and final (for example, a formal written denial, an
+        unequivocal repudiation, or the end of the carrier&rsquo;s adjustment activity), and
+        the precise endpoint in any particular claim depends on the facts of the file. The
+        practical effect is significant: in claims that remain in active adjustment for many
+        months or years, the effective suit-limitation period can run considerably later than
+        the face of the policy suggests. When a policyholder dies during an open claim, succession issues can compress
         the time available to the estate. Do not assume the clock is still tolled, and consult
         an attorney promptly. California Code of Civil
         Procedure Section 366.2 provides that if a person entitled to bring an action dies before

@@ -34,12 +34,12 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Time Is Critical">
         <p>
-          Under the California standard fire policy (Insurance Code &sect; 2071), the
-          baseline suit-limitation period is 12 months from the inception of the loss, but
-          for <strong>residential property losses California has statutorily extended that
-          period to 24 months</strong>. The clock is then equitably tolled (paused) during
-          the carrier&rsquo;s active investigation and adjustment of the claim, per the
-          California Supreme Court&rsquo;s decision in{' '}
+          Under the California standard fire policy (Insurance Code &sect;&nbsp;2071), the
+          baseline suit-limitation period is 12 months from the inception of the loss,
+          extended to <strong>24 months when the loss is related to a state of emergency</strong>{' '}
+          as defined in Government Code &sect;&nbsp;8558(b). That clock is then equitably
+          tolled (paused) during the carrier&rsquo;s active investigation and adjustment of
+          the claim, per the California Supreme Court&rsquo;s decision in{' '}
           <em>Prudential-LMI Commercial Insurance v. Superior Court</em> (1990) 51 Cal.3d 674
           (see our{' '}
           <Link href="/resources/equitable-tolling" className="underline font-semibold">
@@ -49,9 +49,9 @@ export default function Content() {
           looked to when the carrier&rsquo;s position becomes clear and final (a formal
           denial, an unequivocal repudiation, or the end of adjustment activity), and the
           precise endpoint in any particular claim depends on the file. The practical effect
-          is that residential claims in active adjustment for many months or years often have
-          an effective deadline considerably later than 24 months from inception &mdash; in
-          some cases several years later. Other statutes and doctrines may also apply.
+          is that claims in active adjustment for many months or years often have an
+          effective deadline considerably later than the face of the policy suggests &mdash;
+          in some cases several years later. Other statutes and doctrines may also apply.
           Because the deadline involves complex legal questions about when the clock starts,
           when it may be tolled, and what your specific policy says, consult an attorney
           promptly to understand your deadline. Do not sit on a denial &mdash; act

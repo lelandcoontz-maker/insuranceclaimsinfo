@@ -193,12 +193,13 @@ export default function Content() {
         <p>
           Statutes of limitation apply to insurance claims, but the math is not as simple as it
           appears on the face of the policy. California homeowners policies contain a
-          suit-limitation clause originating from Insurance Code &sect; 2071. The standard-form
-          12-month limit has been statutorily extended to <strong>24 months for residential
-          property losses</strong>. More importantly, that clock is <strong>equitably tolled
+          suit-limitation clause originating from Insurance Code &sect;&nbsp;2071. The
+          standard-form 12-month limit is <strong>extended to 24 months when the loss is
+          related to a state of emergency</strong> as defined in Government Code
+          &sect;&nbsp;8558(b). More importantly, that clock is <strong>equitably tolled
           (paused) during the carrier&rsquo;s active investigation and adjustment of the
-          claim</strong>, per the California Supreme Court&rsquo;s decision in <em>Prudential-LMI
-          v. Superior Court</em> (1990) 51 Cal.3d 674.
+          claim</strong>, per the California Supreme Court&rsquo;s decision in{' '}
+          <em>Prudential-LMI v. Superior Court</em> (1990) 51 Cal.3d 674.
         </p>
         <p>
           The endpoint of tolling is fact-specific. California courts have looked to when the
@@ -209,10 +210,10 @@ export default function Content() {
           than the face of the policy suggests &mdash; in some cases several years longer than
           the inception of loss. With long investigations or extended supplemental claims, the
           effective deadline can stretch substantially. That said, the interplay of the
-          contractual limitation, the residential extension, and tolling is complex and
-          fact-specific. Do not let a deadline expire on assumption &mdash; consult an
-          insurance-coverage attorney to confirm where the clock actually stands on a specific
-          claim.
+          contractual limitation, the state-of-emergency extension, and tolling is complex
+          and fact-specific. Do not let a deadline expire on assumption &mdash; consult an
+          insurance-coverage attorney to confirm where the clock actually stands on a
+          specific claim.
         </p>
       </CalloutBox>
 
