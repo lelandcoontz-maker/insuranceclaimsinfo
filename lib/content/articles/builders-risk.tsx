@@ -476,7 +476,7 @@ export default function Content() {
         California requires building permits for virtually all construction, renovation, and
         remodeling work beyond minor cosmetic changes. After a builder&rsquo;s risk loss, the
         repair work will require new permits, and the cost of those permits is part of the
-        covered loss. Additionally, if the original construction was not properly permitted,
+        covered loss. Also, if the original construction was not properly permitted,
         the carrier may argue that the unpermitted work was not insurable or that it must be
         brought to current code as part of the repair &mdash; which can significantly increase
         the cost and complexity of the claim. For more on permit costs in claims, see our

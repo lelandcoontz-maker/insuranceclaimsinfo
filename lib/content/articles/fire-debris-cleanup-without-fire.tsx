@@ -222,7 +222,7 @@ export default function Content() {
         The efficient proximate cause is fire &mdash; a covered peril.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, many policies contain a hostile fire exception to the pollution exclusion,
+        Also, many policies contain a hostile fire exception to the pollution exclusion,
         which restores coverage for damage arising from heat, smoke, or fumes from a hostile fire.
         A wildfire is by definition a hostile fire. Ash and soot from that wildfire are products
         of smoke and combustion. The hostile fire exception, where present, should override the

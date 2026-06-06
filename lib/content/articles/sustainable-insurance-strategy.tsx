@@ -60,7 +60,7 @@ export default function Content() {
         interface expansion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, California did not allow insurers to include the cost of reinsurance (the
+        Also, California did not allow insurers to include the cost of reinsurance (the
         insurance that insurers buy to protect themselves against catastrophic losses) in their rate
         calculations. Since reinsurance costs have skyrocketed due to global catastrophe losses,
         this meant California rates did not reflect one of the largest cost drivers in the industry.

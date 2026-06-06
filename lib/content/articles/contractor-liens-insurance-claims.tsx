@@ -461,7 +461,7 @@ export default function Content() {
         of non-compliance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, the penalties for operating without workers&apos; compensation insurance
+        Also, the penalties for operating without workers&apos; compensation insurance
         are severe: Labor Code &sect;3700.5 makes it a misdemeanor punishable by a fine of not
         less than $10,000 or imprisonment in the county jail for up to one year, or both.
         The Division of Labor Standards Enforcement can issue a stop order prohibiting the

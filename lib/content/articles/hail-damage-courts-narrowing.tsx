@@ -204,7 +204,7 @@ export default function Content() {
         differs from many other states in important ways. California&apos;s regulatory framework
         includes strong consumer protection provisions, and the state&apos;s courts have generally
         interpreted &ldquo;direct physical loss&rdquo; more broadly than courts in some
-        hail-belt states. Additionally, California&apos;s Fair Claims Settlement Practices
+        hail-belt states. Also, California&apos;s Fair Claims Settlement Practices
         Regulations require insurers to conduct thorough investigations before denying claims
         &mdash; a blanket denial based solely on a cosmetic damage exclusion without investigating
         whether functional impairment also occurred may violate these regulations.

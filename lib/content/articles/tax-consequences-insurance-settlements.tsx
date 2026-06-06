@@ -203,7 +203,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         However, there is a distinction for rental property owners. If you own a rental property and
         are receiving ALE-type payments because you had to relocate tenants or cover their expenses,
-        the tax treatment may differ. Additionally, if ALE payments exceed the actual additional costs
+        the tax treatment may differ. Also, if ALE payments exceed the actual additional costs
         you incurred &mdash; which is unusual but possible &mdash; the excess could be taxable. For
         more on maximizing this coverage, see our{' '}
         <Link href="/resources/loss-of-use-maximizing" className="text-[#2E74B5] underline">

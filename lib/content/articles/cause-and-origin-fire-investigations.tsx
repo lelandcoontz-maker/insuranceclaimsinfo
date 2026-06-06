@@ -289,7 +289,7 @@ export default function Content() {
         Under California&apos;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.7(d)),
         you have the right to receive a written explanation of the basis for any claim decision. If the
         insurer is relying on its C&amp;O investigation to deny, delay, or limit your claim, you are
-        entitled to know what the investigation found. Additionally, under 10 CCR &sect; 2695.7(b),
+        entitled to know what the investigation found. Also, under 10 CCR &sect; 2695.7(b),
         the insurer must provide, upon request, all documents related to the evaluation of the claim,
         including expert reports. The insurer may resist providing the full C&amp;O report, but under
         California law, you are entitled to the information the insurer relied on in making its

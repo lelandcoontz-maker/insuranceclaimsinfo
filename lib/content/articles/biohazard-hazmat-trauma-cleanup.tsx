@@ -374,7 +374,7 @@ export default function Content() {
         <p>
           Before hiring any biohazard cleanup company in California, verify that they hold a
           current Trauma Scene Waste Management Practitioner permit through the CDPH. The
-          registered practitioners list is publicly available on the CDPH website. Additionally,
+          registered practitioners list is publicly available on the CDPH website. Also,
           confirm that they maintain OSHA BBP compliance and carry adequate liability insurance.
           A legitimate company will provide this documentation without hesitation.
         </p>

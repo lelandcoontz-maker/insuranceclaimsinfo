@@ -834,7 +834,7 @@ export default function Content() {
         Trap: Ignoring the Tax and Lien Implications
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The interest earned on loss draft escrow accounts may have tax implications. Additionally, if
+        The interest earned on loss draft escrow accounts may have tax implications. Also, if
         your contractor files a mechanic&apos;s lien because they have not been paid &mdash; because
         the mortgage company has not released the funds &mdash; you now have a lien on your property
         that creates additional complications with the mortgage company. Keep your contractor informed

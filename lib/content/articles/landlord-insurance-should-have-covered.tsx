@@ -160,7 +160,7 @@ export default function Content() {
         retained areas can give rise to liability for resulting tenant losses.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, many commercial leases impose explicit maintenance obligations on the
+        Also, many commercial leases impose explicit maintenance obligations on the
         landlord &mdash; roof maintenance, HVAC systems, structural repairs. When the landlord
         breaches these lease obligations and the breach causes damage, the tenant has both a
         contract claim (breach of the lease) and potentially a negligence claim. For more on

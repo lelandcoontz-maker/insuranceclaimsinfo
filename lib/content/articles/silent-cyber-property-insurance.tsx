@@ -325,7 +325,7 @@ export default function Content() {
         argument under California law.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, California&rsquo;s rules of policy interpretation require that exclusions be
+        Also, California&rsquo;s rules of policy interpretation require that exclusions be
         conspicuous, plain, and clear. A cyber exclusion buried in an endorsement that uses
         technical jargon unfamiliar to the average policyholder may not meet this standard. And
         California&rsquo;s contra proferentem rule requires that any ambiguity in the exclusion be

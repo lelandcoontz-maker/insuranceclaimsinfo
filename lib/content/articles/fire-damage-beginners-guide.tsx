@@ -39,7 +39,7 @@ export default function Content() {
           must pay reasonable increased living expenses <strong>now</strong>, while the claim
           is being investigated. ALE is triggered by the loss of use, not by a final coverage
           determination. Under 10 CCR &sect; 2695.7(h), insurers must make interim payments for
-          undisputed portions of a claim while investigating disputed portions. Additionally,
+          undisputed portions of a claim while investigating disputed portions. Also,
           California Insurance Code &sect; 2061 (added by SB 872, 2020) provides that on
           request, an insurer must render an advance payment of no less than four months
           of living expenses after a total loss related to a declared state of emergency. If the insurer refuses to advance ALE while investigating, that may

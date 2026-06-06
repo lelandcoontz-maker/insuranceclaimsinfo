@@ -362,7 +362,7 @@ export default function Content() {
           of emergency, the minimum is 36 months. And even those periods must be extended for good
           cause. If your insurer says your replacement cost deadline has passed but you have been
           diligently trying to rebuild and encountered delays, the statute may protect you.
-          Additionally, &sect; 2051.5 prohibits any provision that limits or denies replacement cost
+          Also, &sect; 2051.5 prohibits any provision that limits or denies replacement cost
           payment because you chose to rebuild at a different location or purchase an already-built
           home elsewhere.
         </p>
@@ -396,7 +396,7 @@ export default function Content() {
           2695.9(b) is explicit: &ldquo;No insurer shall require that the insured have the property
           repaired by a specific individual or entity.&rdquo; The insurer must inform the
           policyholder in writing that they have the right to choose their own repair professional.
-          Additionally, preferred vendor programs that systematically pay less than the reasonable
+          Also, preferred vendor programs that systematically pay less than the reasonable
           and necessary cost of repairs raise compliance issues under Insurance Code &sect; 2051
           (measure of indemnity) and 10 CCR &sect; 2695.7(g) (which prohibits unreasonably low
           settlement offers).

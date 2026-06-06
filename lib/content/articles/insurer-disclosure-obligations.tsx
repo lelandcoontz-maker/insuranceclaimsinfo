@@ -315,7 +315,7 @@ export default function Content() {
         information.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, Section 2071 entitles every policyholder to a complete, current copy of
+        Also, Section 2071 entitles every policyholder to a complete, current copy of
         their policy &mdash; free of charge &mdash; within 30 calendar days of a written
         request after a covered loss. Even without a loss, policyholders are entitled to one
         free copy of their complete policy per year. If you have never seen the full text of

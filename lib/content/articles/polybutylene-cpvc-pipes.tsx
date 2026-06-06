@@ -237,7 +237,7 @@ export default function Content() {
         However, there are practical angles. If the repair to the failed section requires
         opening walls or ceilings that expose additional PB pipe, and if local code requires
         that any exposed non-compliant pipe be brought up to current standards, then the scope
-        of the code upgrade expands. Additionally, if the matching doctrine applies to the
+        of the code upgrade expands. Also, if the matching doctrine applies to the
         affected area &mdash; for example, if you cannot reasonably transition from PEX back
         to PB mid-wall &mdash; the replacement scope may extend beyond the literal point of
         failure. These arguments are fact-specific and require careful documentation.

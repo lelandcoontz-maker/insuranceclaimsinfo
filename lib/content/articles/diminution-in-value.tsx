@@ -117,7 +117,7 @@ export default function Content() {
         Commercial Policies and Diminution in Value
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Commercial property policies may offer broader avenues for DIV recovery than residential policies, depending on the policy language. Some commercial forms include &ldquo;loss in value&rdquo; provisions or use valuation methods that incorporate market value rather than strictly replacement cost. Additionally, commercial policyholders may have more leverage to negotiate manuscript policy language that explicitly addresses DIV.
+        Commercial property policies may offer broader avenues for DIV recovery than residential policies, depending on the policy language. Some commercial forms include &ldquo;loss in value&rdquo; provisions or use valuation methods that incorporate market value rather than strictly replacement cost. Also, commercial policyholders may have more leverage to negotiate manuscript policy language that explicitly addresses DIV.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Commercial policyholders whose properties suffer permanent value reductions after a loss should carefully review their policy language with an attorney. The analysis is highly policy-specific and depends on the exact valuation provisions, the loss settlement clause, and any endorsements that modify the standard coverage.

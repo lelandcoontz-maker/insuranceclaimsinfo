@@ -466,7 +466,7 @@ export default function Content() {
         While the standard California fire policy under Insurance Code &sect;2071 provides a
         one-year suit limitation, many homeowners policies actually provide <strong>two years
         </strong> from the date of loss. This is common in broader-form HO-3 and HO-5 policies.
-        Additionally, under the current version of &sect;2071, any loss related to a
+        Also, under the current version of &sect;2071, any loss related to a
         &ldquo;state of emergency&rdquo; as defined in Government Code &sect;8558(b) &mdash;
         which includes conditions of disaster or extreme peril caused by fire &mdash;
         automatically receives a 24-month limitation period.

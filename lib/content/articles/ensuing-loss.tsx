@@ -93,7 +93,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Why Ensuing Loss Still Matters in California">
         <p>
-          If California&rsquo;s EPC doctrine and ACC unenforceability already provide broad protection, why does the ensuing loss savings clause matter? Because it is a <em>contractual</em> argument, not just a statutory or doctrinal one. Even if a carrier disputes the applicability of the EPC doctrine to specific facts, the ensuing loss clause is part of the policy the insurer drafted. It is harder for a carrier to argue against its own contract language. Additionally, the ensuing loss analysis is sometimes simpler and more straightforward than a full EPC chain-of-causation argument &mdash; which can be valuable in claims handling before litigation.
+          If California&rsquo;s EPC doctrine and ACC unenforceability already provide broad protection, why does the ensuing loss savings clause matter? Because it is a <em>contractual</em> argument, not just a statutory or doctrinal one. Even if a carrier disputes the applicability of the EPC doctrine to specific facts, the ensuing loss clause is part of the policy the insurer drafted. It is harder for a carrier to argue against its own contract language. Also, the ensuing loss analysis is sometimes simpler and more straightforward than a full EPC chain-of-causation argument &mdash; which can be valuable in claims handling before litigation.
         </p>
       </CalloutBox>
 

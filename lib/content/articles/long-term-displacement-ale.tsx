@@ -459,7 +459,7 @@ export default function Content() {
         in declared disaster areas.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, CDI Bulletin 2019-8 and subsequent bulletins have established the
+        Also, CDI Bulletin 2019-8 and subsequent bulletins have established the
         expectation that insurers will not non-renew policyholders while a claim from the
         declared disaster remains open. The regulatory position is that it is unfair and
         potentially a violation of the{' '}

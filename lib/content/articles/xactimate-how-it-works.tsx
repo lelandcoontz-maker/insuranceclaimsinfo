@@ -475,7 +475,7 @@ export default function Content() {
         writing the most thorough estimate possible.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, many insurance companies use desk adjusters who never visit the property.
+        Also, many insurance companies use desk adjusters who never visit the property.
         They write estimates based on photos, sometimes taken by the homeowner and sometimes by
         a field inspector who has no estimating training. Writing an estimate from photos without
         physically inspecting the damage almost guarantees that scope will be missed. Damage

@@ -232,7 +232,7 @@ export default function Content() {
         window can cost $3,000 to $10,000 or more depending on size, type (tempered, laminated,
         insulated), and the cost of emergency boarding while waiting for the replacement. Retailers
         with extensive glass should verify whether their policy provides broad glass coverage or
-        whether they need a separate plate glass endorsement. Additionally, the cost of temporary
+        whether they need a separate plate glass endorsement. Also, the cost of temporary
         boarding and security during the replacement period should be accounted for in the claim.
       </p>
 

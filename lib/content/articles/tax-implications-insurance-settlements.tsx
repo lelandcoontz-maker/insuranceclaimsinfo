@@ -360,7 +360,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For those who decide not to rebuild at the same location but do purchase a replacement
         home elsewhere, &sect;1033 can still apply as long as the replacement qualifies.
-        Additionally, for a principal residence, the &sect;121 exclusion for gain on the sale
+        Also, for a principal residence, the &sect;121 exclusion for gain on the sale
         of a principal residence ($250,000 for single filers, $500,000 for married filing
         jointly) may also apply to exclude some or all of the gain. The interaction between
         &sect;1033 and &sect;121 is complex and is another reason to involve a tax professional.
@@ -423,7 +423,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, for federally declared disasters, the taxpayer can elect to claim the
+        Also, for federally declared disasters, the taxpayer can elect to claim the
         loss on the return for the preceding tax year (the year before the disaster occurred).
         This can be advantageous because it generates an immediate refund, providing cash flow
         when the policyholder needs it most.

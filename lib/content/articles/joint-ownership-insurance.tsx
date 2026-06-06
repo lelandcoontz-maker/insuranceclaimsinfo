@@ -720,7 +720,7 @@ export default function Content() {
         guilty spouse&rsquo;s share is forfeited under the intentional loss exclusion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, the innocent spouse may have family law remedies. Under Family Code
+        Also, the innocent spouse may have family law remedies. Under Family Code
         &sect; 1101(h), a spouse who intentionally destroys community property is liable for a
         penalty equal to the value of the destroyed asset. This means the guilty spouse may owe the
         innocent spouse <em>more</em> than the insurance proceeds &mdash; they may owe the full

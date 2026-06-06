@@ -584,7 +584,7 @@ export default function Content() {
         standard replacement cost loss settlement provision states that the insurer will pay the
         cost to repair or replace with materials of &ldquo;like kind and quality&rdquo; &mdash;
         not with depreciated materials. The policy contemplates that depreciation is a timing
-        mechanism (the holdback), not a permanent reduction in value. Additionally, industry
+        mechanism (the holdback), not a permanent reduction in value. Also, industry
         estimating standards &mdash; including Xactimate&rsquo;s own documentation &mdash;
         distinguish between depreciable and non-depreciable line items. When the insurer&rsquo;s
         own estimating software provides for zero depreciation on labor and general conditions,

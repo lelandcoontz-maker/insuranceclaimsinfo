@@ -454,7 +454,7 @@ export default function Content() {
         If you have a mortgage, your lender is typically named on the insurance claim check
         and generally requires licensed contractors and proper permits. An unlicensed
         contractor can cause the lender to refuse to endorse the check or withhold funds.
-        Additionally, under California&rsquo;s{' '}
+        Also, under California&rsquo;s{' '}
         <Link href="/resources/right-to-repair" className="text-[#2E74B5] hover:underline">
           Right to Repair Act
         </Link>{' '}

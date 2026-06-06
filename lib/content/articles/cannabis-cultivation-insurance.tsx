@@ -279,7 +279,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Landlords face a dual risk. If a tenant cultivates cannabis and causes damage to the
         property (fire, water, mold, structural), the landlord&rsquo;s insurance policy may deny
-        coverage on many of the same grounds discussed above. Additionally, the landlord may face
+        coverage on many of the same grounds discussed above. Also, the landlord may face
         difficulty recovering from the tenant, who may lack renter&rsquo;s insurance or the
         financial resources to pay for the damage. California law permits landlords to prohibit
         smoking or vaping cannabis on the premises (Civil Code Section 1947.5), but does not

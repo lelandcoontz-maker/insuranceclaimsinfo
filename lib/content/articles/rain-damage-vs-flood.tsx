@@ -139,7 +139,7 @@ export default function Content() {
         for the resulting water damage to be covered.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, some policies in hurricane-prone regions include specific wind-driven
+        Also, some policies in hurricane-prone regions include specific wind-driven
         rain exclusions or require a separate windstorm deductible. Policyholders in coastal
         areas should review their policy language carefully to understand how wind-driven
         rain is treated.

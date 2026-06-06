@@ -309,7 +309,7 @@ export default function Content() {
           Under California Civil Code &sect;1102.6, the Transfer Disclosure Statement requires
           the seller to disclose &ldquo;any significant defects/malfunctions&rdquo; in
           specified systems and to disclose other known material facts. A pending insurance
-          claim for property damage is a material fact. Additionally, California Civil Code
+          claim for property damage is a material fact. Also, California Civil Code
           &sect;1102.13 specifically asks whether the seller is aware of any insurance claims
           filed within the past five years. Failing to disclose is not a viable strategy
           &mdash; it creates liability that far exceeds any benefit.

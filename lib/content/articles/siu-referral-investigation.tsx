@@ -538,7 +538,7 @@ export default function Content() {
         Policyholders who believe they are being subjected to an unreasonable SIU investigation can file a complaint with the CDI. While the CDI does not adjudicate individual claims, a complaint creates an official record and may prompt the CDI to review the insurer&apos;s claims handling practices. In some cases, CDI involvement accelerates the resolution of stalled claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, California Insurance Code &sect; 790.03(h) &mdash; the Unfair Claims Settlement Practices Act &mdash; prohibits a range of unfair practices that may occur in the SIU context, including failing to acknowledge communications promptly, failing to adopt and implement reasonable standards for investigation, and failing to attempt in good faith to effectuate prompt, fair, and equitable settlements of claims in which liability has become reasonably clear. Violations of this statute can support a bad faith cause of action in private litigation.
+        Also, California Insurance Code &sect; 790.03(h) &mdash; the Unfair Claims Settlement Practices Act &mdash; prohibits a range of unfair practices that may occur in the SIU context, including failing to acknowledge communications promptly, failing to adopt and implement reasonable standards for investigation, and failing to attempt in good faith to effectuate prompt, fair, and equitable settlements of claims in which liability has become reasonably clear. Violations of this statute can support a bad faith cause of action in private litigation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

@@ -463,7 +463,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Code of Regulations, Title 10, &sect; 2695.9 addresses the insurer&apos;s obligations regarding repair estimates and payments. The regulation requires that the insurer&apos;s estimate of the cost of repair reflect the actual cost of the repair. An estimate that ignores demand surge and uses pre-event pricing does not reflect the actual cost of repair. Additionally, &sect; 2695.7(g) prohibits carriers from making unreasonably low settlement offers. An offer based on pre-surge pricing when the market has demonstrably moved higher may constitute an unreasonably low offer under this regulation.
+        California Code of Regulations, Title 10, &sect; 2695.9 addresses the insurer&apos;s obligations regarding repair estimates and payments. The regulation requires that the insurer&apos;s estimate of the cost of repair reflect the actual cost of the repair. An estimate that ignores demand surge and uses pre-event pricing does not reflect the actual cost of repair. Also, &sect; 2695.7(g) prohibits carriers from making unreasonably low settlement offers. An offer based on pre-surge pricing when the market has demonstrably moved higher may constitute an unreasonably low offer under this regulation.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

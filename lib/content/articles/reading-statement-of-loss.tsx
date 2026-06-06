@@ -322,7 +322,7 @@ export default function Content() {
         are entitled to this document.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, under 10 CCR &sect;2695.4(a), the carrier must affirmatively disclose all
+        Also, under 10 CCR &sect;2695.4(a), the carrier must affirmatively disclose all
         benefits, coverage, time limits, and other provisions that may apply to the claim. If the
         carrier is relying on an internal statement of loss to calculate your payments but has not
         shared it with you, that is a problem under California law.

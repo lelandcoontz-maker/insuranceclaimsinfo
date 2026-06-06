@@ -355,7 +355,7 @@ export default function Content() {
         elderly and vulnerable &mdash; the conduct can constitute financial abuse under the Act.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, in <em>Das v. Bank of America, N.A.</em> (2010) 186 Cal.App.4th 727,
+        Also, in <em>Das v. Bank of America, N.A.</em> (2010) 186 Cal.App.4th 727,
         the court provided guidance on what constitutes &ldquo;taking&rdquo; property for a
         &ldquo;wrongful use&rdquo; under &sect;15610.30 &mdash; holding that the statute
         encompasses situations where a fiduciary or someone in a position of trust

@@ -577,7 +577,7 @@ export default function Content() {
         fee that reduces the effective interest on held proceeds below 2% is now illegal.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, under Fannie Mae servicing guidelines, the servicer may seek reimbursement from
+        Also, under Fannie Mae servicing guidelines, the servicer may seek reimbursement from
         Fannie Mae &mdash; not the borrower &mdash; for insured loss repair inspection costs. If
         your mortgage is a Fannie Mae loan, the servicer should not be passing inspection fees on to
         you.

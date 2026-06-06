@@ -588,7 +588,7 @@ export default function Content() {
         with the California Department of Insurance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, California&rsquo;s identity theft laws (Penal Code &sect;530.5 et seq.)
+        Also, California&rsquo;s identity theft laws (Penal Code &sect;530.5 et seq.)
         provide criminal penalties for identity theft and establish procedures for victims to
         clear their records. While these laws do not create insurance coverage, they establish
         a legal framework that supports the recovery process &mdash; and the expenses incurred

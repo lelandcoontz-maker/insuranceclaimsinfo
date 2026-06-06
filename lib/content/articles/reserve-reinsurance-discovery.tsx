@@ -122,7 +122,7 @@ export default function Content() {
         faith settlement effort.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, reserve manipulation &mdash; artificially lowering the reserve to
+        Also, reserve manipulation &mdash; artificially lowering the reserve to
         constrain settlement authority or to make the claims file look better during internal
         audits &mdash; is itself evidence of bad faith claims handling. When reserve reductions
         coincide with events unrelated to claim value (the policyholder hiring representation,

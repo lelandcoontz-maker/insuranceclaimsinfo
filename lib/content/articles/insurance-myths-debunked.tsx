@@ -257,7 +257,7 @@ export default function Content() {
           repair or replacement. The insurer cannot treat ACV as the final word.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          Additionally, following a declared state of emergency in California, insurers must
+          Also, following a declared state of emergency in California, insurers must
           provide advance payments under specific statutory provisions: Insurance Code
           &sect; 2061 (added by SB 872, 2020) requires a four-month ALE advance for total
           losses, and Insurance Code &sect; 10103.7 (added by AB 3012, amended by SB 495)
@@ -805,7 +805,7 @@ export default function Content() {
           personal property unless you have an HO-5 policy.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          Additionally, every policy has sub-limits &mdash; hidden dollar caps on specific
+          Also, every policy has sub-limits &mdash; hidden dollar caps on specific
           categories of property like jewelry ($1,500 typical), firearms ($2,500), cash
           ($200), and silverware ($2,500). These caps apply regardless of your overall
           Coverage C limit. See our article on{' '}

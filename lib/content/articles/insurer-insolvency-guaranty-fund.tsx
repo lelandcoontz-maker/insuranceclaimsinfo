@@ -251,7 +251,7 @@ export default function Content() {
         company.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, CIGA has broad discretion in how it handles covered claims, including
+        Also, CIGA has broad discretion in how it handles covered claims, including
         the ability to settle claims for amounts it deems appropriate within the statutory
         framework. The Fair Claims Settlement Practices Regulations (10 CCR &sect;2695 et seq.)
         apply to CIGA&rsquo;s claims handling, but the practical reality is that disputing

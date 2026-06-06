@@ -236,7 +236,7 @@ export default function Content() {
         certainly qualifies.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, the &ldquo;Concealment or Fraud&rdquo; condition in the HO-3 provides
+        Also, the &ldquo;Concealment or Fraud&rdquo; condition in the HO-3 provides
         that the entire policy is void if the insured has intentionally concealed or
         misrepresented any material fact relating to the insurance. An insurer could argue
         that an unreported change in ownership is a material misrepresentation &mdash;
@@ -618,7 +618,7 @@ export default function Content() {
         their insurable interest may be limited or nonexistent.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, if the trust is <em>irrevocable</em> &mdash; meaning the parent cannot
+        Also, if the trust is <em>irrevocable</em> &mdash; meaning the parent cannot
         take the property back &mdash; the analysis changes significantly. With an
         irrevocable trust, the parent typically retains only a life estate, and their
         insurable interest is limited to the actuarial value of that life estate. This is the

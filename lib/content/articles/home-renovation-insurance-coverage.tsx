@@ -368,7 +368,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         From an insurance perspective, work performed by an unlicensed contractor may be considered
         unpermitted (since permits typically require a licensed contractor), which triggers the
-        permit-related coverage concerns discussed above. Additionally, if the unlicensed contractor
+        permit-related coverage concerns discussed above. Also, if the unlicensed contractor
         causes damage, the contractor is unlikely to carry proper insurance, leaving the homeowner
         with no viable source of recovery other than the homeowner&rsquo;s own policy &mdash; which
         may deny the claim based on the homeowner&rsquo;s negligence in hiring an unlicensed

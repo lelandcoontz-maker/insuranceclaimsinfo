@@ -882,7 +882,7 @@ export default function Content() {
         through or beneath the slab, contacting soil, decomposing organic matter, and
         potentially sewage lines before surfacing inside the home. By the time the water
         manifests as damp carpet or flooring, it has almost certainly migrated beyond
-        Category 1. Additionally, slab leaks often go undetected for weeks or months,
+        Category 1. Also, slab leaks often go undetected for weeks or months,
         creating extended dwell times that virtually guarantee category migration.
       </p>
 

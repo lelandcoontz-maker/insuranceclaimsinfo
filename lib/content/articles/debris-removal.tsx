@@ -220,7 +220,7 @@ export default function Content() {
           your debris removal costs — but it does not eliminate your insurance coverage for debris
           removal. Any costs not covered by the government program remain insured. Do not let your
           insurer use a government program as a reason to deny or reduce your debris removal claim.
-          Additionally, government programs typically only address structural debris on the lot —
+          Also, government programs typically only address structural debris on the lot —
           they do not cover tree removal, personal property debris, or environmental remediation
           beyond the program&rsquo;s defined scope.
         </p>

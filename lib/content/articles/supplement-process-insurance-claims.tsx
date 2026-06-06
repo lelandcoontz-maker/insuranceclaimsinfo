@@ -298,7 +298,7 @@ export default function Content() {
         required to acknowledge it and begin its review within this timeframe.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, 10 CCR &sect; 2695.7(b) provides that every insurer must accept or deny a
+        Also, 10 CCR &sect; 2695.7(b) provides that every insurer must accept or deny a
         claim within 40 calendar days after receiving proof of claim. While the regulation
         addresses initial claims, the same principles apply to supplemental submissions &mdash;
         the carrier cannot simply ignore a supplement or let it sit indefinitely without action.

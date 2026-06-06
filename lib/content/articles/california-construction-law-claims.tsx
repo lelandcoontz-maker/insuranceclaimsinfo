@@ -815,7 +815,7 @@ export default function Content() {
           the contractor&apos;s license but does not directly award you money damages (except
           through the bond claim process). If your losses exceed the bond amount ($25,000),
           you may need to pursue a separate civil lawsuit. However, a CSLB finding of violation
-          can be powerful evidence in a subsequent civil action. Additionally, the CSLB&apos;s
+          can be powerful evidence in a subsequent civil action. Also, the CSLB&apos;s
           investigation file can provide documentation and an independent assessment of
           whether the contractor&apos;s work was deficient.
         </p>

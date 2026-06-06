@@ -289,7 +289,7 @@ export default function Content() {
         Some items cannot be replaced at any price &mdash; family photos, heirlooms, children&rsquo;s
         artwork, handwritten letters. While you cannot recover their sentimental value, you can
         and should include them on your inventory at their replacement cost (for physical items
-        like frames, albums, and storage boxes) and note their nature. Additionally, document the
+        like frames, albums, and storage boxes) and note their nature. Also, document the
         cost of replacing important papers:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

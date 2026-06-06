@@ -608,7 +608,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, section 2695.9(a)(2) provides that when a loss requires replacement of
+        Also, section 2695.9(a)(2) provides that when a loss requires replacement of
         items and the replaced items do not match in quality, color, or size, the carrier must
         replace all items in the damaged area so as to conform to a reasonably uniform
         appearance. This is the &quot;matching&quot; requirement, and it has significant

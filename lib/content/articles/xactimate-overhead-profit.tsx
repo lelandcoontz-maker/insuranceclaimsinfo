@@ -582,7 +582,7 @@ export default function Content() {
         and profit for a general contractor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, 10 CCR 2695.7(g) prohibits insurers from recommending or suggesting
+        Also, 10 CCR 2695.7(g) prohibits insurers from recommending or suggesting
         that the claimant &ldquo;not submit a claim or not pursue a claim based upon
         insufficient information.&rdquo; When a carrier tells you O&amp;P is not owed without
         providing a legitimate basis, they are discouraging you from pursuing money you are

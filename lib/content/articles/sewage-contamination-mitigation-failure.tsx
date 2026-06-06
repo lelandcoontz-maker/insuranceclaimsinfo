@@ -168,7 +168,7 @@ export default function Content() {
         <p>
           The IICRC S500 standard requires that Category 3 water losses be handled with
           specific protocols &mdash; including the removal of all porous materials that came
-          in contact with the contaminated water. Additionally, OSHA and California regulations
+          in contact with the contaminated water. Also, OSHA and California regulations
           require asbestos and lead testing before demolition work begins in older homes. When
           a mitigation contractor skips these steps &mdash; because the insurance adjuster told
           them to keep it simple &mdash; the result can be cross-contamination that turns a

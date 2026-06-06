@@ -369,7 +369,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, the valuation method matters. Under a replacement cost policy, the insurer owes
+        Also, the valuation method matters. Under a replacement cost policy, the insurer owes
         what it costs to replace the pair or set at current prices. Under an{' '}
         <Link href="/resources/acv-rcv" className="text-[#2E74B5] hover:underline">
           actual cash value

@@ -222,7 +222,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard is &quot;reasonable uniform appearance,&quot; not &quot;identical.&quot; Minor
         differences that are not readily apparent to a reasonable person may not trigger a matching
-        obligation. Additionally, matching generally applies to areas that are visible together — if
+        obligation. Also, matching generally applies to areas that are visible together — if
         the repaired area is on the back of the house and the unmatched area is on the front, the
         argument is weaker because they are not viewed at the same time.
       </p>

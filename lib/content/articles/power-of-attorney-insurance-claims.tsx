@@ -518,7 +518,7 @@ export default function Content() {
         said so.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additionally, the Restatement (Third) of Agency &sect; 3.02 provides that an agent has
+        Also, the Restatement (Third) of Agency &sect; 3.02 provides that an agent has
         authority to take actions that are &ldquo;incidental to&rdquo; or &ldquo;reasonably
         necessary&rdquo; to accomplish the authorized objective. If the agent is authorized to
         manage and settle insurance claims, signing the proof of loss is incidental to that

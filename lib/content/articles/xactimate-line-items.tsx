@@ -172,7 +172,7 @@ export default function Content() {
           drywall, cabinets, paint, flooring &mdash; that is a red flag. Brand-new carpet
           should not depreciate at the same rate as a 25-year-old roof. Each item should be
           depreciated individually based on age, condition, and expected useful life.
-          Additionally, in California, labor generally should not be depreciated &mdash; only
+          Also, in California, labor generally should not be depreciated &mdash; only
           materials.
         </p>
       </CalloutBox>
