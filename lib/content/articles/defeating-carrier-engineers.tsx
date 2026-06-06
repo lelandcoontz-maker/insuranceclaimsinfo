@@ -25,7 +25,7 @@ export default function Content() {
           This Guide Has Been Updated
         </h2>
         <p className="text-gray-700 leading-relaxed mb-6">
-          The content from this article has been consolidated into our comprehensive guide on
+          The content from this article has been consolidated into our guide on
           insurance company experts &mdash; covering all expert types, the repeat-player
           problem, limited assignments, the confirmation bias feedback loop, common report
           flaws, how to challenge expert reports, licensing board complaints, and when biased

@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Subrogation in Insurance Claims: What Policyholders Need to Know',
   description:
-    'A comprehensive guide to subrogation in property insurance claims — the made whole doctrine, duty to cooperate, anti-subrogation rule, deductible recovery, and how subrogation investigations affect your claim timeline and settlement.',
+    'A guide to subrogation in property insurance claims — the made whole doctrine, duty to cooperate, anti-subrogation rule, deductible recovery, and how subrogation investigations affect your claim timeline and settlement.',
   summary:
     'Subrogation is your insurer\'s right to recover from the party that caused your loss after paying you. The made-whole doctrine, your duty to cooperate, and deductible recovery all affect you, and a subrogation investigation can lengthen your timeline.',
 }

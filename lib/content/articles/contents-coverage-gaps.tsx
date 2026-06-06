@@ -567,7 +567,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a comprehensive guide to your rights when a claim is denied, see our article on{' '}
+        For a guide to your rights when a claim is denied, see our article on{' '}
         <Link href="/resources/contents-claims" className="text-blue-700 underline hover:text-blue-900">
           personal property and contents claims
         </Link>.

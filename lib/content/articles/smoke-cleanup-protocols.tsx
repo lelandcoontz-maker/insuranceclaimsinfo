@@ -494,7 +494,7 @@ export default function Content() {
           >
             Wildfire Claims Guide
           </Link>{' '}
-          &mdash; Comprehensive guide to wildfire property damage claims
+          &mdash; Guide to wildfire property damage claims
         </li>
         <li>
           <Link

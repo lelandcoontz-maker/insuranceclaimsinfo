@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'New California Insurance Laws 2025–2026: What Every Policyholder Needs to Know',
   description:
-    'A comprehensive guide to California insurance laws enacted and pending in 2025–2026: SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), SB 876 (disaster recovery reform), SB 877 (claims transparency), SB 878 (20% payment penalties), AB 1680 (FAIR Plan overhaul), SB 1301 (180-day nonrenewal notice), and more.',
+    'A guide to California insurance laws enacted and pending in 2025–2026: SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), SB 876 (disaster recovery reform), SB 877 (claims transparency), SB 878 (20% payment penalties), AB 1680 (FAIR Plan overhaul), SB 1301 (180-day nonrenewal notice), and more.',
   summary:
     'California enacted and proposed major insurance laws in 2025-2026, including SB 495 (contents), SB 547 (non-renewal), AB 1680 and AB 226 (FAIR Plan), and SB 876-878 (disaster recovery, transparency, payment penalties). Know the ones that affect your claim.',
 }

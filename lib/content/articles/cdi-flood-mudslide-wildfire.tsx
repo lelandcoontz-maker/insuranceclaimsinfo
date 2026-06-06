@@ -267,7 +267,7 @@ export default function Content() {
           <Link href="/resources/wildfire-mudslide-coverage" className="text-blue-700 underline hover:text-blue-900">
             Mudslide After Wildfire: Why Earth Movement Is Covered When Fire Is the Cause
           </Link>{' '}
-          &mdash; Our comprehensive guide to the efficient proximate cause doctrine in post-wildfire
+          &mdash; Our guide to the efficient proximate cause doctrine in post-wildfire
           earth movement claims, including the full causal chain analysis, anti-concurrent causation
           clauses, and the Montecito example.
         </li>

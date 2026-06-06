@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Tax Consequences of Insurance Claim Settlements',
   description:
-    'A comprehensive guide to the tax implications of insurance claim proceeds — when payouts are taxable, when they are not, involuntary conversion rules, business income, casualty loss deductions, and California-specific considerations.',
+    'A guide to the tax implications of insurance claim proceeds — when payouts are taxable, when they are not, involuntary conversion rules, business income, casualty loss deductions, and California-specific considerations.',
   summary:
     'Insurance proceeds are sometimes taxable and sometimes not. Involuntary-conversion rules can defer gain on a destroyed home, business income payouts are taxable, and casualty-loss deductions may apply. Know the rules, and consult a tax professional.',
 }

@@ -21,7 +21,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>A comprehensive guide for policyholders, public adjusters, and attorneys on demand surge &mdash; the dramatic spike in construction costs that follows every major catastrophe &mdash; and why insurance companies owe the actual post-event cost of repairs, not the price that existed the day before the disaster.</em>
+        <em>A guide for policyholders, public adjusters, and attorneys on demand surge &mdash; the dramatic spike in construction costs that follows every major catastrophe &mdash; and why insurance companies owe the actual post-event cost of repairs, not the price that existed the day before the disaster.</em>
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

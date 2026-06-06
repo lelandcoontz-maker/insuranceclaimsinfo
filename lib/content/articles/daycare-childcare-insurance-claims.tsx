@@ -243,7 +243,7 @@ export default function Content() {
         a 365-day extension if the carrier will offer it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a comprehensive guide to business income claims, see our article on{' '}
+        For a guide to business income claims, see our article on{' '}
         <Link
           href="/resources/business-interruption"
           className="text-blue-700 underline hover:text-blue-900"
@@ -513,7 +513,7 @@ export default function Content() {
             >
               Business Interruption Insurance Claims
             </Link>{' '}
-            &mdash; comprehensive guide to business income claims and carrier tactics
+            &mdash; guide to business income claims and carrier tactics
           </li>
           <li>
             <Link

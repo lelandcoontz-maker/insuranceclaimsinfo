@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'California Wildfire Claims: A Complete Guide',
   description:
-    'A comprehensive guide to California wildfire insurance claims — from immediate steps after a fire to understanding smoke contamination, coverage details, and common insurer tactics.',
+    'A guide to California wildfire insurance claims — from immediate steps after a fire to understanding smoke contamination, coverage details, and common insurer tactics.',
   summary:
     'A California wildfire claim spans immediate post-fire steps, smoke and ash contamination, ALE, dwelling and contents coverage, and common carrier tactics. This guide walks the whole process so you can pursue every coverage a wildfire triggers.',
 }

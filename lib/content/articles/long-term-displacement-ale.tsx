@@ -171,7 +171,7 @@ export default function Content() {
         policyholder&rsquo;s fault. For a detailed analysis of the 36-month rule and the
         CDI&rsquo;s position, see our{' '}
         <Link href="/resources/cdi-36-month-ale" className="text-[#2E74B5] hover:underline">
-          comprehensive guide to the 36-month ALE requirement
+          guide to the 36-month ALE requirement
         </Link>
         .
       </p>

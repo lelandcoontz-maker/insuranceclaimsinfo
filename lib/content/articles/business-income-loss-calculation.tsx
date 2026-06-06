@@ -892,7 +892,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a comprehensive guide to assembling this documentation proactively, before a loss
+        For a guide to assembling this documentation proactively, before a loss
         occurs, see our article on{' '}
         <Link
           href="/resources/business-income-documentation-pre-loss"

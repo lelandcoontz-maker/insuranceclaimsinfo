@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Duties After Loss: What Your Policy Requires You to Do',
   description:
-    'Comprehensive guide to policyholder obligations after an insurance claim — mitigation, notice, proof of loss, examination under oath, cooperation, and how California law limits the insurer\'s ability to deny claims for non-compliance.',
+    'Guide to policyholder obligations after an insurance claim — mitigation, notice, proof of loss, examination under oath, cooperation, and how California law limits the insurer\'s ability to deny claims for non-compliance.',
   summary:
     'Your policy requires you to mitigate damage, give prompt notice, submit a proof of loss, sit for an examination under oath if asked, and cooperate. California law limits an insurer\'s ability to deny for technical non-compliance unless it was actually prejudiced.',
 }

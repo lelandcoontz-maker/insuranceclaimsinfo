@@ -5,7 +5,7 @@ export const meta = {
   title:
     'California’s Standard Fire Policy: What Insurance Code 2070 Actually Says and Why It Matters',
   description:
-    'A comprehensive guide to California Insurance Code 2070 and the standard fire policy set forth in Section 2071. Learn how this statutory floor protects policyholders, what happens when insurers deviate from the standard form, and why key provisions like the appraisal clause, suit limitation, and 60-day payment rule remain critical to every fire claim in California.',
+    'A guide to California Insurance Code 2070 and the standard fire policy set forth in Section 2071. Learn how this statutory floor protects policyholders, what happens when insurers deviate from the standard form, and why key provisions like the appraisal clause, suit limitation, and 60-day payment rule remain critical to every fire claim in California.',
   summary:
     'California Insurance Code 2070 requires fire policies to provide at least the protection of the standard form in Section 2071. Any policy term weaker than that statutory floor is unenforceable, preserving rights like appraisal, the suit-limitation terms, and prompt payment.',
 }
@@ -1264,7 +1264,7 @@ export default function Content() {
             href="/resources/insurance-code-790"
             className="text-[#2E74B5] hover:underline"
           >
-            comprehensive guide to Section 790.03
+            guide to Section 790.03
           </Link>.
         </li>
         <li>

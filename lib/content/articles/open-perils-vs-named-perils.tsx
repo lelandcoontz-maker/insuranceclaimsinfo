@@ -127,7 +127,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a detailed discussion of how exclusions work and the legal principles that limit
-        their application, see our comprehensive guide on{' '}
+        their application, see our guide on{' '}
         <Link href="/resources/exclusions" className="text-[#2E74B5] hover:underline">
           policy exclusions
         </Link>.

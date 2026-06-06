@@ -190,7 +190,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a comprehensive guide to building your contents inventory, see{' '}
+        For a guide to building your contents inventory, see{' '}
         <Link href="/resources/contents-inventory-guide" className="text-[#2E74B5] underline">
           Contents Inventory Guide
         </Link>{' '}

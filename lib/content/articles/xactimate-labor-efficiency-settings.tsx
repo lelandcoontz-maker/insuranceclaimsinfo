@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Xactimate Labor Efficiency Settings: How Restoration vs. Rebuild Changes Every Line Item on Your Estimate',
   description:
-    "A comprehensive guide on how Xactimate's labor efficiency settings affect every labor line item in an insurance estimate and how the wrong setting can systematically underpay an entire claim by thousands of dollars.",
+    "A guide on how Xactimate's labor efficiency settings affect every labor line item in an insurance estimate and how the wrong setting can systematically underpay an entire claim by thousands of dollars.",
   summary:
     'Xactimate\'s labor efficiency setting, restoration versus new construction (rebuild), changes the labor price on every line item. Carriers often use the cheaper \'new construction\' setting on repair work; the correct setting can substantially raise a fair estimate.',
 }

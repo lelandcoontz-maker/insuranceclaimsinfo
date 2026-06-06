@@ -470,7 +470,7 @@ export default function Content() {
           >
             Smoke Damage Claims
           </Link>{' '}
-          &mdash; Comprehensive guide to smoke and soot damage claims
+          &mdash; Guide to smoke and soot damage claims
         </li>
         <li>
           <Link

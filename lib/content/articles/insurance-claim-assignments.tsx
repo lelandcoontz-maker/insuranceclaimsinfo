@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Assignment of Benefits, Assignment of Claim, Assignment of Rights, and Assignment of Policy: Understanding the Differences',
   description:
-    'A comprehensive guide to the four types of insurance claim assignments — assignment of benefits, assignment of claim, assignment of rights, and assignment of policy — and why the distinctions matter for policyholders, contractors, and attorneys.',
+    'A guide to the four types of insurance claim assignments — assignment of benefits, assignment of claim, assignment of rights, and assignment of policy — and why the distinctions matter for policyholders, contractors, and attorneys.',
   summary:
     'There are four distinct assignments, of benefits, of claim, of rights, and of policy, and the differences matter. Each transfers something different to a contractor or third party, so know exactly what you are signing away.',
 }

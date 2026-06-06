@@ -5,7 +5,7 @@ import { QABlock } from '@/components/content/QABlock'
 export const meta = {
   title: 'When Your Claim Is "Referred to SIU": What Special Investigations Really Means',
   description:
-    'A comprehensive guide to Special Investigation Unit (SIU) referrals in California insurance claims. Covers what triggers an SIU investigation, your rights during the process, EUOs, surveillance, regulatory timelines, bad faith implications, and how to respond when your claim is under investigation.',
+    'A guide to Special Investigation Unit (SIU) referrals in California insurance claims. Covers what triggers an SIU investigation, your rights during the process, EUOs, surveillance, regulatory timelines, bad faith implications, and how to respond when your claim is under investigation.',
   summary:
     'An SIU referral means the insurer\'s Special Investigations Unit is treating your claim as possible fraud, which can trigger EUOs, surveillance, and delay. You retain rights and the duty to cooperate has limits; know what triggers SIU and how to respond without harming your claim.',
 }
@@ -104,7 +104,7 @@ export default function Content() {
         EUOs in SIU investigations tend to be more adversarial and more extensive than EUOs conducted in routine claims. The insurer&apos;s attorney may spend hours questioning the policyholder about their financial history, personal relationships, daily habits, whereabouts at the time of the loss, insurance history, and the specifics of the claimed damage. The questioning is designed not only to gather information but to test the policyholder&apos;s credibility and lock them into a sworn narrative that cannot be changed later.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a detailed discussion of EUOs &mdash; including preparation strategies, your rights during the process, and common pitfalls &mdash; see our comprehensive guide to{' '}
+        For a detailed discussion of EUOs &mdash; including preparation strategies, your rights during the process, and common pitfalls &mdash; see our guide to{' '}
         <Link href="/resources/examination-under-oath" className="text-[#2E74B5] underline">
           Examinations Under Oath
         </Link>.

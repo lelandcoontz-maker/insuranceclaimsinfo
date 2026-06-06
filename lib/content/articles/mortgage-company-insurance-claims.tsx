@@ -669,7 +669,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s Fair Claims Settlement Practices Regulations (Cal. Code Regs. tit. 10,
         &sect; 2695.1 et seq.) impose strict timelines on insurance companies for handling claims.
-        For a comprehensive guide to these regulations, see our article on{' '}
+        For a guide to these regulations, see our article on{' '}
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           California fair claims settlement practices
         </Link>

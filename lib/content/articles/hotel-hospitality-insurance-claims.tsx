@@ -605,7 +605,7 @@ export default function Content() {
           <Link href="/resources/business-interruption" className="text-blue-700 underline hover:text-blue-900">
             Business Interruption Coverage
           </Link>{' '}
-          &mdash; A comprehensive guide to business income claims, including calculation
+          &mdash; A guide to business income claims, including calculation
           methodology and common insurer tactics.
         </li>
         <li>
