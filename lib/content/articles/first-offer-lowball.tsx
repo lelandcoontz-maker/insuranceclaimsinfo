@@ -194,22 +194,31 @@ export default function Content() {
             equitable settlements of claims in which liability has become reasonably clear.&rdquo;
           </li>
           <li>
-            <strong>Insurance Code &sect; 790.03(h)(7)</strong> &mdash; specifically prohibits
-            &ldquo;compelling insureds to institute litigation to recover amounts due under an
-            insurance policy by offering substantially less than the amounts ultimately recovered
-            in actions brought by the insureds.&rdquo; This is the classic lowball statute.
+            <strong>Insurance Code &sect;&nbsp;790.03(h)(7)</strong> &mdash; specifically defines as
+            an unfair claims practice &ldquo;compelling insureds to institute litigation to
+            recover amounts due under an insurance policy by offering substantially less than
+            the amounts ultimately recovered in actions brought by the insureds.&rdquo; This is
+            the classic lowball provision in the regulatory standard. Under{' '}
+            <em>Moradi-Shalal v. Fireman&apos;s Fund Ins. Co.</em> (1988) 46 Cal.3d 287,{' '}
+            &sect;&nbsp;790.03 itself does not create a private cause of action; it sets the
+            standard the Department of Insurance enforces and informs what common-law bad-faith
+            analysis looks like.
           </li>
           <li>
-            <strong>10 CCR &sect; 2695.7(g)</strong> &mdash; the Fair Claims Settlement Practices
-            Regulations parallel the statute, barring low offers made to force litigation.
+            <strong>10 CCR &sect;&nbsp;2695.7(g)</strong> &mdash; the Fair Claims Settlement
+            Practices Regulations parallel the statute, barring low offers made to force
+            litigation.
           </li>
           <li>
             <strong>Case law.</strong> California courts have long held that unreasonably low
-            offers can constitute bad faith. See <em>Gruenberg v. Aetna Ins. Co.</em> (1973) 9
-            Cal.3d 566; <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809;{' '}
+            offers can constitute bad faith under the implied covenant. See{' '}
+            <em>Gruenberg v. Aetna Ins. Co.</em> (1973) 9 Cal.3d 566;{' '}
+            <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809;{' '}
             <em>Neal v. Farmers Ins. Exchange</em> (1978) 21 Cal.3d 910. These cases establish
             that the implied covenant of good faith requires the insurer to give{' '}
-            <em>at least as much consideration to the insured&apos;s interests as to its own</em>.
+            <em>at least as much consideration to the insured&apos;s interests as to its own</em>{' '}
+            &mdash; and a common-law bad-faith action is the operative private remedy, not
+            &sect;&nbsp;790.03 directly.
           </li>
         </ul>
         <p className="mb-3">
@@ -218,9 +227,9 @@ export default function Content() {
           if you believe the insurer is acting in bad faith.
         </p>
         <p className="italic text-sm">
-          This is not legal advice. Whether a specific offer rises to the level of statutory bad
-          faith or compensable under &sect; 790.03(h) requires case-specific analysis. Only an
-          attorney can advise you on a bad-faith claim.
+          This is not legal advice. Whether a specific offer rises to the level of common-law
+          bad faith (informed by &sect;&nbsp;790.03(h)) requires case-specific analysis. Only
+          an attorney can advise you on a bad-faith claim.
         </p>
       </CalloutBox>
 
