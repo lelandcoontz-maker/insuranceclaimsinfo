@@ -126,7 +126,7 @@ export default function Content() {
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Palomar Specialty:</strong> Offers an &agrave; la carte product where you select exact coverage amounts for other structures, contents, loss of use, and loss assessments. Notably, Palomar covers pools, patios, fences, and retaining walls under the Other Structures limit with no sub-limit. Available limits go up to $15 million total insured value. Accepts a wider range of construction types, including unreinforced masonry (subject to underwriting review).
+          <strong>Palomar Specialty:</strong> Offers an &agrave; la carte product where you select exact coverage amounts for other structures, contents, loss of use, and loss assessments. Palomar covers pools, patios, fences, and retaining walls under the Other Structures limit with no sub-limit. Available limits go up to $15 million total insured value. Accepts a wider range of construction types, including unreinforced masonry (subject to underwriting review).
         </li>
         <li>
           <strong>GeoVera:</strong> One of the oldest standalone earthquake insurers in California. Rated A (Excellent) by AM Best. Offers deductibles as low as 2.5% and a comprehensive single-limit product. Covers other structures and offers flexible contents and loss-of-use limits.
