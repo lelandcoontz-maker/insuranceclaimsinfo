@@ -488,8 +488,7 @@ export default function Content() {
         shall not increase our limit of liability for any one &lsquo;occurrence.&rsquo;&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        What this means is that the policy should be read as if each named insured has a separate
-        policy. The acts, omissions, and conduct of one insured are not automatically attributed to
+        The policy should be read as if each named insured has a separate policy. The acts, omissions, and conduct of one insured are not automatically attributed to
         the other. If co-owner A commits fraud &mdash; inflating the claim, misrepresenting damage,
         or submitting false documents &mdash; the severability clause means that co-owner B&rsquo;s
         coverage should not be voided by co-owner A&rsquo;s misconduct, provided co-owner B was not
