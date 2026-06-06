@@ -352,7 +352,7 @@ export default function Content() {
         When to Seek Professional Help
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While policyholders can and should demand advance payments on their own, the reality is that carriers respond differently to represented and unrepresented claimants. A demand from a policyholder citing 10 CCR &sect;2695.7(h) carries weight. A demand from a{' '}
+        While policyholders can and should demand advance payments on their own, carriers respond differently to represented and unrepresented claimants. A demand from a policyholder citing 10 CCR &sect;2695.7(h) carries weight. A demand from a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
           licensed public adjuster
         </Link>{' '}

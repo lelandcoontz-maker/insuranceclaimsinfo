@@ -443,8 +443,8 @@ export default function Content() {
         step in virtually every body repair, the shop cannot complete any jobs and cannot
         bill for completed work. The insurer may argue that the shop was only
         &ldquo;partially&rdquo; shut down because the non-painting operations continued.
-        The reality is that the shop&rsquo;s revenue dropped to near zero because no jobs
-        could be completed and delivered.
+        But the shop&rsquo;s revenue dropped to near zero because no jobs could be completed
+        and delivered.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The policyholder&rsquo;s argument is that the business income loss should be

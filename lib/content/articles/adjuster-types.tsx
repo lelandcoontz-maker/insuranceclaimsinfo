@@ -28,9 +28,9 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Staff Adjusters</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Staff adjusters are employees of the insurance company. They receive a salary, benefits,
-        and job security from the carrier. Their loyalty is to their employer. While many staff
-        adjusters are honest professionals, the reality is that adjusters who consistently write
-        generous estimates do not last long at insurance companies.
+        and job security from the carrier. Their loyalty is to their employer. Many staff
+        adjusters are honest professionals, but adjusters who consistently write generous
+        estimates do not last long at insurance companies.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Independent Adjusters (IAs)</h2>
