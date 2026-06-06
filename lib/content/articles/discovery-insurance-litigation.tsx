@@ -308,8 +308,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In <em>Colonial Life</em>, the policyholder (Louise Perry) sued the carrier for bad faith.
         She sought discovery of the names, addresses, and records of other claimants whose claims
-        were handled by the same adjuster &mdash; an adjuster named Sharkey &mdash; in order to
-        establish a pattern of unfair settlement practices. Colonial resisted, arguing that the
+        were handled by the same adjuster &mdash; an adjuster named Sharkey &mdash; to establish
+        a pattern of unfair settlement practices. Colonial resisted, arguing that the
         information was irrelevant and that disclosing other insureds&rsquo; information would violate
         their privacy.
       </p>
