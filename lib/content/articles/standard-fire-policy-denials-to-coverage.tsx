@@ -763,8 +763,8 @@ export default function Content() {
         unenforceable to the extent that they conflict with section 530 and the efficient
         proximate cause doctrine.&rdquo; (On <em>Julian</em>&rsquo;s facts, the Court actually
         enforced the carrier&rsquo;s weather-conditions/earth-movement exclusion as targeting a
-        distinct peril.) Read alongside Insurance Code &sect; 2070 (requiring fire policies to be
-        substantially equivalent to or more favorable than the standard form), the practical
+        distinct peril.) Read alongside Insurance Code &sect; 2070 (requiring fire policies to
+        provide coverage no less favorable than the standard form), the practical
         effect is that exclusions insurers add to their policies for wear and tear, mechanical
         breakdown, or other causes are unenforceable when applied to fire losses if they make the
         policy less favorable to the insured than the Standard Fire Policy.

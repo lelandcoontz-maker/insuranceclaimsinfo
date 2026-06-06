@@ -147,11 +147,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The FAIR Plan is backed by all admitted property/casualty insurers in California on a
         proportional basis. If the FAIR Plan&apos;s losses exceed its reserves, it can assess
-        member companies to cover the shortfall. After the 2025 LA fires, questions arose about
-        whether the FAIR Plan&apos;s exposure (estimated at nearly $5 billion) could trigger assessments
-        that ripple through the entire insurance market. The Legislature has considered various
-        backstop mechanisms, but as of now, the assessment model remains the primary funding
-        mechanism.
+        member companies to cover the shortfall. After the 2025 LA fires, questions arose
+        about whether the FAIR Plan&apos;s exposure (reported in industry coverage at
+        multi-billion-dollar scale) could trigger assessments that ripple through the
+        broader California property-insurance market. The Legislature has considered various
+        backstop mechanisms, but as of now the assessment model remains the primary funding
+        mechanism. Current exposure and reserve figures are best verified through CDI
+        filings and the FAIR Plan&apos;s own public reports.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -179,16 +181,17 @@ export default function Content() {
         Aliff v. California FAIR Plan (2025): Smoke-Damage Limitations Struck Down
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For years, the FAIR Plan&apos;s policy form limited smoke-damage coverage to damage that
-        caused a &ldquo;permanent physical change&rdquo; that was visible to the unaided eye. On
-        that theory, the FAIR Plan routinely denied or minimized smoke claims &mdash; even when
-        independent testing confirmed real contamination &mdash; because an adjuster could not see
-        soot on a wall. In <em>Aliff v. California FAIR Plan Association</em> (L.A. Super. Ct.
-        Case No. 21STCV20095, Hon. Stuart M. Rice, June 24, 2025), the Los Angeles Superior Court
-        granted in part the plaintiff&rsquo;s motion for summary adjudication, holding that the
-        restrictive language was narrower than the coverage required by{' '}
-        <strong>California Insurance Code &sect; 2070</strong>, the Standard Fire Policy statute
-        that sets the floor for fire-insurance coverage in this state. The court relied on the
+        The FAIR Plan&apos;s policy form has limited smoke-damage coverage to damage that
+        caused a &ldquo;permanent physical change&rdquo; visible to the unaided eye.
+        Plaintiffs have alleged in California litigation that this language was applied to
+        deny or minimize smoke claims even where independent testing confirmed contamination,
+        on the theory that the contamination was not visible on the surface. In{' '}
+        <em>Aliff v. California FAIR Plan Association</em> (L.A. Super. Ct. Case No.
+        21STCV20095, Hon. Stuart M. Rice, June 24, 2025), the Los Angeles Superior Court
+        granted in part the plaintiff&rsquo;s motion for summary adjudication, holding that
+        the restrictive language was narrower than the coverage required by{' '}
+        <strong>California Insurance Code &sect; 2070</strong>, the Standard Fire Policy
+        statute that sets the floor for fire-insurance coverage in this state. The court relied on the
         California Supreme Court&rsquo;s definition of &ldquo;direct physical loss or damage&rdquo;
         in <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 548 P.3d
         303, which held that &ldquo;physical alteration&rdquo; &ldquo;need not be visible to the
@@ -197,13 +200,14 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Important context: <em>Aliff</em> is a trial-court ruling, not a published appellate
-        decision, so it is persuasive authority rather than binding precedent on other courts.
-        After the ruling, the FAIR Plan announced it would not appeal and would update its
-        policy language; some reports indicate the Plan has since shifted its denial rationale
-        to argue that smoke damage must be a &ldquo;distinct, demonstrable and physical
-        alteration&rdquo; (which is the <em>Another Planet</em> language itself), meaning the
-        next round of disputes will focus on whether laboratory testing satisfies that
-        standard.
+        decision, so it is persuasive authority rather than binding precedent on other
+        courts. Reports following the ruling indicate the FAIR Plan has been updating its
+        policy language and that some subsequent denial rationales rely on the{' '}
+        <em>Another Planet</em> &ldquo;distinct, demonstrable and physical alteration&rdquo;
+        standard itself, meaning the next round of disputes is likely to focus on whether
+        laboratory testing satisfies that standard. The current status of any specific
+        FAIR Plan response, including any appeal and policy-form revisions, is best
+        confirmed through CDI press releases and FAIR Plan public filings.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         What this means for FAIR Plan policyholders with smoke-damage claims:
