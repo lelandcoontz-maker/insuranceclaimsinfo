@@ -13,3 +13,10 @@ tsconfig.tsbuildinfo
 # Local-only safety snapshots taken before bulk audit/consolidation passes
 *.BACKUP-*
 **/articles.BACKUP-*/
+
+# Local-only scratch scripts and batch state (accidentally committed in 74a5cc9)
+_polish_batch.py
+_polish_batch_uz.py
+scripts/_batch.json
+scripts/debug_check.js
+scripts/polish_abc.js
