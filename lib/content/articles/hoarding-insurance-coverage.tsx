@@ -281,7 +281,7 @@ export default function Content() {
         void homeowner insurance coverage. The standard HO-3 policy does not contain a blanket
         exclusion for losses occurring in properties with code violations. If it did, a
         significant percentage of all residential properties in America would be uninsured,
-        since minor code violations are highly common. The insurer must point to a
+        since minor code violations are extremely common. The insurer must point to a
         specific policy provision that is triggered by the code violation, and it must establish
         that the violation was causally related to the loss. A hoarded home with blocked egress
         does not mean the fire started <em>because</em> of the hoarding &mdash; it may mean the

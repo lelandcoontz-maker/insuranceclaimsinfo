@@ -25,7 +25,7 @@ export default function Content() {
         On November 8, 2018, the Camp Fire swept through Paradise, California and became the
         deadliest and most destructive wildfire in the state&apos;s history. It killed{' '}
         <strong>85 people</strong>, destroyed over <strong>18,000 structures</strong>, and
-        ultimately burned 153,336 acres. The first 24 hours were highly fast-moving
+        ultimately burned 153,336 acres. The first 24 hours were extremely fast-moving
         &mdash; with high winds and long-range spotting up to 3.9 miles into the community.
         The National Institute of Standards and Technology (NIST) deployed a team of scientists
         to investigate how the fire spread, how it damaged buildings, and what it revealed
