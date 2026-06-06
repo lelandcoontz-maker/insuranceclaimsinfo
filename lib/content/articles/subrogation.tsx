@@ -315,6 +315,37 @@ export default function Content() {
         limits, any uncovered damages &mdash; all of that comes out of the recovery first, before
         the insurer gets a dollar.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        One important nuance worth flagging: the made-whole rule operates as a default
+        equitable principle that policy language can address. The <em>Sapiano</em> quote
+        above expressly begins &ldquo;absent an agreement to the contrary,&rdquo; meaning
+        a policy can include language that modifies how the made-whole doctrine applies.
+        For any specific dispute, the policy language &mdash; and how California courts have
+        construed similar language &mdash; is the starting point. This is an area where an
+        attorney&apos;s read of the actual policy matters.
+      </p>
+
+      {/* ───────── Antisubrogation Rule ───────── */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Antisubrogation Rule: Insurers Cannot Subrogate Against Their Own Insured
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A separate but related California rule limits subrogation in a different direction.
+        Under the antisubrogation rule, an insurer generally cannot pursue subrogation against
+        its own insured for a loss covered by the policy. See <em>Allstate Insurance Co. v.
+        Loo</em> (1996) 46 Cal.App.4th 1794. The rationale is straightforward: an insurer
+        cannot accept premiums to cover a risk and then turn around and sue the same
+        policyholder to recover what it paid out on that very risk.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In practice, this means subrogation is generally not available against household
+        members, named insureds, additional insureds, employees acting in the scope of
+        employment, and similar persons whose conduct is covered under the same policy.
+        Exactly who qualifies as a co-insured for antisubrogation purposes depends on the
+        policy definitions and the facts &mdash; if the responsible party is someone close
+        to the insured household, an attorney should evaluate whether antisubrogation bars
+        the claim before the insured spends time and money pursuing it.
+      </p>
 
       {/* ───────── Sharing Recovery ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
