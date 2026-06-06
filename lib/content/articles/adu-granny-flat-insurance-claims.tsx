@@ -99,7 +99,7 @@ export default function Content() {
         Department of Housing and Community Development, ADU permit applications surged from
         approximately 6,000 in 2018 to over 20,000 per year by 2022. In Los Angeles County alone,
         ADUs have become the single largest category of new housing construction. These are not
-        speculative investments by developers &mdash; the vast majority are built by homeowners, on
+        speculative investments by developers &mdash; most are built by homeowners, on
         their own property, often for family members.
       </p>
 

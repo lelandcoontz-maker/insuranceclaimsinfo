@@ -117,7 +117,7 @@ export default function Content() {
         sewage backup &mdash; where a home may need full Category 3 contamination remediation,
         demolition of affected materials, antimicrobial treatment, and rebuild &mdash; the
         actual costs can easily reach $30,000 to $80,000 or more. A $5,000 sub-limit on that
-        loss is functionally a denial of coverage for the vast majority of the damage.
+        loss is functionally a denial of coverage for most the damage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is why the characterization of the loss matters so much. If a loss is a true sewer

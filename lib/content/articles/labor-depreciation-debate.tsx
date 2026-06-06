@@ -549,7 +549,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Understanding how Xactimate handles depreciation is essential because this software
-        generates the vast majority of property damage estimates in the United States. If
+        generates most property damage estimates in the United States. If
         your claim involves Xactimate &mdash; and it almost certainly does &mdash; the
         depreciation decisions were made within this platform.
       </p>
@@ -784,7 +784,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Painting:</strong> Paint is relatively inexpensive. The labor to prep
-          surfaces, prime, and apply multiple coats represents the vast majority of the
+          surfaces, prime, and apply multiple coats represents most the
           cost &mdash; often 70 to 85 percent. Labor depreciation on painting line items
           eliminates most of the ACV payment.
         </li>

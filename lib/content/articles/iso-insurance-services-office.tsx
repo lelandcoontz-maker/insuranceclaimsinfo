@@ -22,7 +22,7 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Most policyholders assume their insurance company wrote the policy they purchased. That
-        assumption is usually wrong. The language in the vast majority of homeowners, renters,
+        assumption is usually wrong. The language in most homeowners, renters,
         condo, and commercial property policies in the United States was not drafted by the carrier
         that sold the policy. It was drafted by a single organization called the Insurance Services
         Office &mdash; ISO &mdash; which is now a division of Verisk Analytics. Understanding what

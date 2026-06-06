@@ -384,7 +384,7 @@ export default function Content() {
         </h2>
         <p className="text-gray-700 leading-relaxed mb-4">
           Do not let fear of a release prevent you from depositing insurance payments you
-          are owed. In the vast majority of claims, cashing the check has no legal
+          are owed. In most claims, cashing the check has no legal
           consequence beyond receiving money the insurer was obligated to pay. If you are
           worried, ask the adjuster in writing to confirm. If you see actual release language
           on a check or are asked to sign a separate release agreement, consult an attorney.

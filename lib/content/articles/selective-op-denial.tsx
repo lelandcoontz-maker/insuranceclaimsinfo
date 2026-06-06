@@ -132,7 +132,7 @@ export default function Content() {
         The contractor offered to settle for just the $33,321.80 unpaid balance, waiving attorneys&rsquo; fees and interest. Allstate refused. The contractor then filed a bad faith lawsuit using an Assignment of Insurance Rights (AOR) &mdash; a document that transferred the policyholder&rsquo;s right to sue the carrier directly.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        At deposition, a <strong>retired Allstate Property Claim Manager with 35 years of tenure</strong> testified that Allstate paid O&amp;P on the vast majority of fire losses he managed throughout his career, and that Allstate&rsquo;s refusal to pay O&amp;P on this claim constituted bad faith.
+        At deposition, a <strong>retired Allstate Property Claim Manager with 35 years of tenure</strong> testified that Allstate paid O&amp;P on most fire losses he managed throughout his career, and that Allstate&rsquo;s refusal to pay O&amp;P on this claim constituted bad faith.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Allstate settled for $335,000 before trial.

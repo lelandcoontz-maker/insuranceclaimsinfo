@@ -398,13 +398,13 @@ export default function Content() {
         What a Fraud Referral Actually Means
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A fraud referral to CDI is not the same as a criminal charge. It is a report by the insurance company that the company suspects fraud. CDI&apos;s Fraud Division reviews the referral and decides whether to investigate further. If CDI determines that the evidence warrants prosecution, it refers the matter to the local District Attorney, who decides whether to file criminal charges. At every stage of this process, there is a screening function &mdash; the vast majority of fraud referrals do not result in criminal prosecution.
+        A fraud referral to CDI is not the same as a criminal charge. It is a report by the insurance company that the company suspects fraud. CDI&apos;s Fraud Division reviews the referral and decides whether to investigate further. If CDI determines that the evidence warrants prosecution, it refers the matter to the local District Attorney, who decides whether to file criminal charges. At every stage of this process, there is a screening function &mdash; most fraud referrals do not result in criminal prosecution.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance fraud is a serious crime in California. California Penal Code &sect; 550 makes it a felony to knowingly present a false or fraudulent claim for insurance benefits. Conviction can result in imprisonment, fines, and restitution. These are real consequences, and any policyholder who has actually committed fraud should retain a criminal defense attorney immediately.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        But for the vast majority of policyholders facing SIU investigations, the fraud referral threat is just that &mdash; a threat. Legitimate claims that are aggressively valued are not fraudulent. Disputes over the scope of damage, the cost of repair, or the interpretation of policy language are not fraud. A policyholder who believes their kitchen sustained $80,000 in damage when the carrier&apos;s adjuster estimates $40,000 has a valuation dispute, not a fraud problem.
+        But for most policyholders facing SIU investigations, the fraud referral threat is just that &mdash; a threat. Legitimate claims that are aggressively valued are not fraudulent. Disputes over the scope of damage, the cost of repair, or the interpretation of policy language are not fraud. A policyholder who believes their kitchen sustained $80,000 in damage when the carrier&apos;s adjuster estimates $40,000 has a valuation dispute, not a fraud problem.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

@@ -308,7 +308,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For most insurance repair work, the contract price will far exceed $750, and the work
         will involve improvement or restoration of the home rather than simple maintenance.
-        This means that in the vast majority of insurance claim situations, the full
+        This means that in most insurance claim situations, the full
         requirements of &sect;7159 apply, not the lighter requirements of &sect;7159.14.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

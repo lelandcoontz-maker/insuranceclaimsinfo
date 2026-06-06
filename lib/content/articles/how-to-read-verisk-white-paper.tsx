@@ -245,7 +245,7 @@ export default function Content() {
         <li><strong>Note the publication source</strong>: Indicate that the document is available on Verisk&apos;s own website and provide the URL</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This level of specificity accomplishes two things. First, it demonstrates that you have actually read and understood the documentation &mdash; which immediately distinguishes you from the vast majority of claimants and, candidly, from many adjusters. Second, it makes it very difficult for the carrier to argue that the document is not authoritative. The carrier cannot claim that Xactimate pricing is definitive while simultaneously dismissing the Xactimate vendor&apos;s own guidance on how that pricing should be understood.
+        This level of specificity accomplishes two things. First, it demonstrates that you have actually read and understood the documentation &mdash; which immediately distinguishes you from most claimants and, candidly, from many adjusters. Second, it makes it very difficult for the carrier to argue that the document is not authoritative. The carrier cannot claim that Xactimate pricing is definitive while simultaneously dismissing the Xactimate vendor&apos;s own guidance on how that pricing should be understood.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">In Demand Letters</h3>
@@ -301,7 +301,7 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">The Tension</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        There is an underlying dynamic that explains, at least in part, why carrier training programs may not emphasize Verisk&apos;s documentation. Consider what happens when an adjuster reads Verisk&apos;s O&amp;P white paper and learns that unit prices do not include general contractor overhead and profit. Or when an adjuster reads the labor efficiency documentation and learns that Restoration/Remodel settings are appropriate for the vast majority of insurance repair jobs. Or when an adjuster reads the EULA and learns that Verisk does not warrant the accuracy of its pricing data.
+        There is an underlying dynamic that explains, at least in part, why carrier training programs may not emphasize Verisk&apos;s documentation. Consider what happens when an adjuster reads Verisk&apos;s O&amp;P white paper and learns that unit prices do not include general contractor overhead and profit. Or when an adjuster reads the labor efficiency documentation and learns that Restoration/Remodel settings are appropriate for most insurance repair jobs. Or when an adjuster reads the EULA and learns that Verisk does not warrant the accuracy of its pricing data.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Each of these discoveries, if applied consistently, would tend to produce higher estimates. Higher estimates mean higher claim payments. Higher claim payments affect loss ratios, which affect profitability.

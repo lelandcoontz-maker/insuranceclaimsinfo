@@ -345,7 +345,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That means the vast majority of people writing Xactimate estimates &mdash; including
+        That means most people writing Xactimate estimates &mdash; including
         the adjusters writing estimates for insurance carriers &mdash; have never been formally
         certified on the software. They learned on the job, from coworkers who also learned on
         the job, in an environment where speed is rewarded over accuracy.

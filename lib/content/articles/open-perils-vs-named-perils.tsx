@@ -208,7 +208,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the most important section of this article, and it describes the coverage
-        structure that applies to the vast majority of homeowners in the United States.
+        structure that applies to most homeowners in the United States.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The <strong>HO-3</strong> (Special Form) is the most common homeowners insurance

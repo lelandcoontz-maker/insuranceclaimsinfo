@@ -232,7 +232,7 @@ export default function Content() {
         still being negotiated.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Here is why this matters: in the vast majority of first-party property claims, there is
+        Here is why this matters: in most first-party property claims, there is
         some amount that is clearly owed even if the total is in dispute. The carrier and the
         policyholder may disagree about whether the claim is worth $80,000 or $120,000, but neither
         side disputes that it is worth at least $80,000. Under Section 2695.7(h), the carrier must

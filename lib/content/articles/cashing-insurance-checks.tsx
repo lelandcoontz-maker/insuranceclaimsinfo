@@ -5,9 +5,9 @@ import { QABlock } from '@/components/content/QABlock'
 export const meta = {
   title: 'Can I Cash This Insurance Check? What You Need to Know Before You Deposit',
   description:
-    'The vast majority of insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure.',
+    'Most insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure.',
   summary:
-    'The vast majority of insurance checks are ordinary payments with no strings attached and are safe to cash. Learn to spot the rare restrictive endorsement that purports to settle your claim, and pause to verify if any release language appears.',
+    'Most insurance checks are ordinary payments with no strings attached and are safe to cash. Learn to spot the rare restrictive endorsement that purports to settle your claim, and pause to verify if any release language appears.',
 }
 
 export default function Content() {
@@ -144,7 +144,7 @@ export default function Content() {
           <strong>Ask the carrier directly.</strong> Call or write your adjuster and ask a
           simple question: &ldquo;If I cash this check, does it create a settlement? Will I
           still be able to submit supplemental claims and have them considered and paid?&rdquo;
-          In the vast majority of cases, the answer will be yes &mdash; cashing the check does
+          In most cases, the answer will be yes &mdash; cashing the check does
           not affect your rights. Get the answer in writing (email is fine) so you have
           documentation.
         </li>
@@ -201,7 +201,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="The Bottom Line">
         <p>
-          The vast majority of insurance checks are exactly what they appear to be: payments on
+          Most insurance checks are exactly what they appear to be: payments on
           your claim. Cash them. Use the money to begin repairs. If you have additional damage,
           file a supplement. If the carrier underpaid, dispute the amount. Cashing an ordinary
           claim check does not prevent any of that. The rare exceptions involve obvious
@@ -218,7 +218,7 @@ export default function Content() {
       <QABlock pairs={[
         {
           question: 'Is it safe to cash an insurance check?',
-          answer: "In the overwhelming majority of cases, yes — cash the check. The vast majority of insurance checks are ordinary partial or interim payments. Cashing one does not waive your right to file supplements, dispute the amount, or continue negotiating. Restrictive endorsements are rare and, when they appear, are usually obvious and accompanied by a separate letter.",
+          answer: "In the overwhelming majority of cases, yes — cash the check. Most insurance checks are ordinary partial or interim payments. Cashing one does not waive your right to file supplements, dispute the amount, or continue negotiating. Restrictive endorsements are rare and, when they appear, are usually obvious and accompanied by a separate letter.",
         },
         {
           question: 'What does a restrictive endorsement look like?',

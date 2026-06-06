@@ -84,7 +84,7 @@ export default function Content() {
         The key settings include:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>Restoration/Service/Remodel:</strong> This setting reflects the reality of repair work &mdash; jobs that involve drive time, mobilization costs, material delivery to an occupied structure, reduced productivity due to working around existing finishes and contents, and the inherent inefficiency of restoration and remodeling work. This is the appropriate setting for the vast majority of insurance repair claims.</li>
+        <li><strong>Restoration/Service/Remodel:</strong> This setting reflects the reality of repair work &mdash; jobs that involve drive time, mobilization costs, material delivery to an occupied structure, reduced productivity due to working around existing finishes and contents, and the inherent inefficiency of restoration and remodeling work. This is the appropriate setting for most insurance repair claims.</li>
         <li><strong>Large Restoration/Remodel:</strong> A newer setting introduced by Verisk, positioned between the standard Restoration/Remodel and Total Rebuild settings. This setting reduces labor pricing by approximately 5-10% compared to the standard Restoration/Remodel setting.</li>
         <li><strong>Total Rebuild or Similar:</strong> This setting reflects new construction efficiency &mdash; large-scale work on unoccupied structures where crews have unrestricted access. This setting produces the lowest labor costs.</li>
       </ul>

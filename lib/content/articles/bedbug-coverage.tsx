@@ -20,7 +20,7 @@ export default function Content() {
         resulting property damage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The short answer, in the vast majority of cases, is no. Standard homeowner insurance
+        The short answer, in most cases, is no. Standard homeowner insurance
         policies do not cover bedbug infestations. Understanding why &mdash; and knowing the
         limited exceptions that may exist &mdash; helps homeowners plan their response and
         explore other remedies.

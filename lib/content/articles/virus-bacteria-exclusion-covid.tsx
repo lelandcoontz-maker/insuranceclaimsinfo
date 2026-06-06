@@ -39,7 +39,7 @@ export default function Content() {
         like exactly the kind of catastrophe that insurance was supposed to cover.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For the vast majority of policyholders, the answer was no. A single endorsement &mdash;
+        For most policyholders, the answer was no. A single endorsement &mdash;
         ISO form CP 01 40, the &ldquo;Exclusion of Loss Due to Virus or Bacteria&rdquo; &mdash;
         stood between millions of business owners and their insurance coverage. This endorsement,
         quietly added to most commercial property policies beginning in 2006, was specifically

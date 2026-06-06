@@ -433,7 +433,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Xactimate offers certification levels for its users, ranging from basic familiarity to
         advanced proficiency. Only an estimated 1% to 2% of all Xactimate users hold Level 1 or
-        Level 2 certification. The vast majority of insurance adjusters writing estimates have
+        Level 2 certification. Most insurance adjusters writing estimates have
         never demonstrated proficiency through the software&apos;s own certification program.
         This means the people writing your estimate may not fully understand the tool they are
         using.

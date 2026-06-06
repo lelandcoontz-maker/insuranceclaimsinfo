@@ -25,7 +25,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Xactimate is the insurance industry&apos;s standard estimating software, developed by
-        Verisk Analytics (formerly Xactware). It is used by the vast majority of insurance
+        Verisk Analytics (formerly Xactware). It is used by most insurance
         companies, independent adjusters, contractors, and Public Adjusters to prepare repair
         estimates for property damage claims. Xactimate contains a database of localized pricing for
         labor and materials, updated regularly to reflect current market conditions in each

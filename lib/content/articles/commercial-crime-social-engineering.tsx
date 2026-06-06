@@ -297,7 +297,7 @@ export default function Content() {
           executing any wire transfer, the initiating employee must call the person who
           supposedly requested it &mdash; using a known phone number, not one provided in
           the email &mdash; and verbally confirm the instruction. This single step prevents
-          the vast majority of BEC losses.
+          most BEC losses.
         </li>
         <li>
           <strong>Dual authorization for transfers above a threshold.</strong> Require two

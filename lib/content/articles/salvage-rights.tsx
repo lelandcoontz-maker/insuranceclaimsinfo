@@ -130,7 +130,7 @@ export default function Content() {
           declared a total loss have little or no resale value once damaged. Smoke-damaged
           clothing, water-damaged books, broken electronics &mdash; these items go in the trash.
           The insurer is not going to send a truck to collect your water-stained paperbacks. For
-          the vast majority of contents items, salvage is a non-issue because the damaged goods
+          most contents items, salvage is a non-issue because the damaged goods
           are worthless.
         </li>
         <li>

@@ -130,7 +130,7 @@ export default function Content() {
         Of all the misconceptions surrounding releases, none is more pervasive than the belief that cashing an insurance check automatically constitutes acceptance of the amount as full and final payment. This fear causes policyholders to leave checks sitting on their kitchen counters for weeks, to call their attorneys in a panic, and sometimes to refuse payments they desperately need.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>In the vast majority of cases, depositing a partial payment check from your insurance company does not create a release and does not prevent you from seeking additional payments on the claim.</strong>
+        <strong>In most cases, depositing a partial payment check from your insurance company does not create a release and does not prevent you from seeking additional payments on the claim.</strong>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California Commercial Code section 3311, a check creates an accord and satisfaction only when: (1) a bona fide dispute exists about the amount owed; (2) the person sending the check tenders it in good faith as full satisfaction; (3) the check or an accompanying written communication contains a <strong>conspicuous</strong> statement that the instrument is tendered as full satisfaction; and (4) the claimant obtains payment. A standard insurance payment check that says &quot;Payment for: Dwelling - ACV&quot; or &quot;Partial payment - Claim #12345&quot; does not meet this standard.

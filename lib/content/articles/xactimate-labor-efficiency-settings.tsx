@@ -48,7 +48,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">1. Restoration/Service/Remodel</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the default setting for the vast majority of insurance repair work. Verisk&apos;s own documentation describes this option as being &quot;for jobs other than total losses or new construction.&quot;
+        This is the default setting for most insurance repair work. Verisk&apos;s own documentation describes this option as being &quot;for jobs other than total losses or new construction.&quot;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Restoration/Service/Remodel setting accounts for all the real-world inefficiencies of working in an existing, typically occupied structure:

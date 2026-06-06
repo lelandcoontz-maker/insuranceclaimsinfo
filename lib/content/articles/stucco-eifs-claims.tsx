@@ -45,7 +45,7 @@ export default function Content() {
         Behind the lath, a weather-resistant barrier &mdash; historically building paper, now often a synthetic housewrap &mdash; provides a secondary drainage plane. When properly installed, traditional stucco is a durable, long-lasting cladding system with an expected service life exceeding fifty years. It is breathable, fire-resistant, and well-suited to California&rsquo;s climate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Traditional stucco is overwhelmingly the standard on California residential construction. From tract homes in the Inland Empire to custom homes in Los Angeles, from the Central Valley to San Diego, the vast majority of stucco-clad homes in California have traditional three-coat Portland cement plaster.
+        Traditional stucco is overwhelmingly the standard on California residential construction. From tract homes in the Inland Empire to custom homes in Los Angeles, from the Central Valley to San Diego, most stucco-clad homes in California have traditional three-coat Portland cement plaster.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

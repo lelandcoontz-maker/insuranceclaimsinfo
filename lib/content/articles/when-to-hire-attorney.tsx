@@ -62,7 +62,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The reason this distinction matters is that most insurance claims are resolved without
-        litigation. The vast majority of underpayment disputes are won or lost on the technical
+        litigation. Most underpayment disputes are won or lost on the technical
         merits &mdash; the estimate, the scope, the depreciation, the policy interpretation
         &mdash; not in a courtroom. Public Adjusters specialize in exactly this work. Attorneys
         specialize in the legal work that becomes necessary when the technical process fails or

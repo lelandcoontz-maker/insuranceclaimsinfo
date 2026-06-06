@@ -147,7 +147,7 @@ export default function Content() {
         employees for whom workers&rsquo; compensation coverage is required. If you hire a
         full-time gardener or housekeeper as an employee (not an independent contractor), their
         on-the-job injuries must be covered through workers&rsquo; compensation, not your
-        homeowner&rsquo;s policy. But the vast majority of people who work on residential
+        homeowner&rsquo;s policy. But most people who work on residential
         properties are independent contractors, not employees, and Coverage F applies to them.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

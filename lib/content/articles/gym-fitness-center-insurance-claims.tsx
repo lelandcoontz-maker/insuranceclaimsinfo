@@ -31,7 +31,7 @@ export default function Content() {
         &mdash; rubber, suspended hardwood, synthetic turf, sprung dance floors &mdash; can cost
         $200,000 to $500,000 to replace. The business model depends on monthly memberships that
         evaporate the moment the doors close, because members cancel and join competitors rather
-        than waiting for reconstruction. And the vast majority of gyms operate in leased commercial
+        than waiting for reconstruction. And most gyms operate in leased commercial
         space, meaning the buildout &mdash; which often costs more than the equipment &mdash; is
         a tenant improvement that creates its own insurance puzzle.
       </p>
@@ -328,7 +328,7 @@ export default function Content() {
         The Tenant Buildout Problem
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The vast majority of gyms operate in leased commercial space. The gym&rsquo;s{' '}
+        Most gyms operate in leased commercial space. The gym&rsquo;s{' '}
         <Link href="/resources/tenant-improvements-betterments" className="text-blue-700 underline hover:text-blue-900">
           tenant improvements and betterments
         </Link>{' '}

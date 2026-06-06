@@ -50,7 +50,7 @@ export default function Content() {
         policyholder is under no obligation to provide one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In practice, this means that the vast majority of California homeowner claims proceed without
+        In practice, this means that most California homeowner claims proceed without
         a formal proof of loss ever being filed. The insurer sends its adjuster, prepares its own
         estimate, and makes a settlement offer. The policyholder either accepts, negotiates, or
         disputes the amount. The entire process happens without the policyholder ever submitting a
