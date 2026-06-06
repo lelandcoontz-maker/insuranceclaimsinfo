@@ -250,7 +250,7 @@ export default function Content() {
         </li>
         <li>
           <strong>The wealth of the defendant</strong> — &quot;the wealthier the wrongdoing
-          defendant, the larger the award of exemplary damages need be to accomplish the
+          defendant, the larger the award of exemplary damages need be in order to accomplish the
           statutory objective.&quot;
         </li>
       </ul>
