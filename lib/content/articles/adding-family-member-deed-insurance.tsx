@@ -717,7 +717,7 @@ export default function Content() {
         Counterarguments for the Policyholder
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the insurer raises these defenses, the policyholder is not without arguments.
+        When the insurer raises these defenses, the policyholder has arguments.
         Attorneys and public adjusters handling these claims should consider the following:
       </p>
 

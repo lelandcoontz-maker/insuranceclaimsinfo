@@ -310,7 +310,7 @@ export default function Content() {
         4. The Policyholder Has a Protective Alternative
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Courts declining to toll often note that the policyholder is not without options. The
+        Courts declining to toll often note that the policyholder has options. The
         policyholder can file a lawsuit before the limitations period expires and then request
         a stay of the litigation pending the outcome of appraisal. This &ldquo;file and
         stay&rdquo; approach preserves the right to sue without disrupting the appraisal

@@ -443,7 +443,7 @@ export default function Content() {
       </h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The first-party path is not without its drawbacks. Here is what you should consider:
+        The first-party path has its drawbacks. Here is what you should consider:
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

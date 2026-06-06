@@ -624,7 +624,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code section 2071 sets forth the standard form of fire insurance policy,
         and the loss settlement provisions therein give the carrier the option to repair. However,
-        California courts have recognized that this option is not without limits. The carrier must
+        California courts have recognized that this option has limits. The carrier must
         exercise the option in good faith and may not use it as a mechanism to deprive the
         policyholder of a fair settlement.
       </p>

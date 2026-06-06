@@ -247,7 +247,7 @@ export default function Content() {
         The Disadvantages and Risks
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Litigation funding is not without costs and risks. A policyholder considering this
+        Litigation funding has costs and risks. A policyholder considering this
         option should weigh the following carefully:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

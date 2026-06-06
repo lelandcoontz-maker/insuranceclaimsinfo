@@ -277,7 +277,7 @@ export default function Content() {
         Risks and Considerations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The strategic proof of loss is a powerful tool, but it is not without risks. You should
+        The strategic proof of loss is a powerful tool, but it has risks. You should
         understand these before deciding to use it.
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">

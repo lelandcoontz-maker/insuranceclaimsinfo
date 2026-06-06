@@ -1935,7 +1935,7 @@ export default function Content() {
         And if the window has already closed &mdash; if no POA was executed and capacity is
         already gone &mdash; the conservatorship path is still available. It is more
         expensive, slower, and more invasive than a POA would have been, but it works. The
-        family is not without options. Begin protective measures immediately, file the
+        family has options. Begin protective measures immediately, file the
         conservatorship petition (with a temporary petition if there is an emergency), and
         position the conservator to manage the claim once Letters of Conservatorship issue.
         The court&rsquo;s involvement is not an obstacle &mdash; it is a check that protects
