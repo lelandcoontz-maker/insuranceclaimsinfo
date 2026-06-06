@@ -352,7 +352,7 @@ export default function Content() {
           unconditional waiver is effective immediately. Use the correct form for the situation.
         </li>
         <li>
-          <strong>Record a notice of completion promptly.</strong> As discussed above, this
+          <strong>Record a notice of completion promptly.</strong> This
           shortens the window for subcontractor liens from 90 days to 30 days.
         </li>
       </ul>
@@ -827,7 +827,7 @@ export default function Content() {
         Step 2: Verify the Contractor&apos;s Credentials
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, check the contractor&apos;s license status, license classification,
+        Check the contractor&apos;s license status, license classification,
         workers&apos; compensation insurance, and bond. If the contractor was unlicensed at any
         point during the work, the lien may be unenforceable under Business and Professions Code
         &sect;7031. If the contractor performed work outside their license classification, the

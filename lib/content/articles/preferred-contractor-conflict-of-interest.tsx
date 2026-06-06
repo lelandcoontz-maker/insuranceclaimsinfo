@@ -597,7 +597,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The carrier may present the preferred vendor&apos;s estimate as though it settles the
         question of what the repairs should cost. It does not. The preferred vendor&apos;s estimate is
-        one data point &mdash; and as discussed above, it may be a data point produced under
+        one data point &mdash; and it may be a data point produced under
         conditions that systematically favor the carrier&apos;s financial interest over yours.
       </p>
 

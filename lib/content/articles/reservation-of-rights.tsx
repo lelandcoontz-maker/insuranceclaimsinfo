@@ -259,7 +259,7 @@ export default function Content() {
           <strong>Boilerplate ROR letters:</strong> The carrier sends a letter that cites every
           conceivable exclusion and policy provision rather than the specific ones that actually
           apply to your claim. This suggests the carrier is using the ROR as a blanket shield
-          rather than conducting a genuine investigation. As discussed above, many courts hold
+          rather than conducting a genuine investigation. Many courts hold
           that a nonspecific ROR is legally ineffective &mdash; meaning the carrier may have
           waived the very defenses it purported to reserve.
         </li>

@@ -342,7 +342,7 @@ export default function Content() {
         Declared State of Emergency
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, Section 2051.5(b)(1) extends the minimum deadline to 36 months for
+        Section 2051.5(b)(1) extends the minimum deadline to 36 months for
         losses related to a Governor-declared state of emergency. This provision exists because the
         legislature recognized that catastrophic events create systemic delays that no individual
         policyholder can overcome: entire communities need contractors simultaneously, building

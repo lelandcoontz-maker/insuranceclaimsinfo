@@ -345,7 +345,7 @@ export default function Content() {
           claims, and the landlord receives notice if the tenant cancels the policy.
         </li>
         <li>
-          <strong>Waiver of subrogation.</strong> As discussed above, this clause prevents either
+          <strong>Waiver of subrogation.</strong> This clause prevents either
           party&rsquo;s insurer from suing the other party for covered losses. Without it,
           subrogation is on the table.
         </li>

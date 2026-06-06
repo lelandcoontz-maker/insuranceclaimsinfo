@@ -411,7 +411,7 @@ export default function Content() {
         The Monthly Update Lag
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, Xactimate updates its pricing monthly. After a disaster, actual
+        Xactimate updates its pricing monthly. After a disaster, actual
         costs rise immediately due to demand surges. The price list may not reflect reality for
         weeks or months. Every estimate written during that lag period uses outdated numbers.
       </p>

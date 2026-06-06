@@ -788,7 +788,7 @@ export default function Content() {
         Insurance Exchange</em>, 446 S.W.3d 761 (Tex. 2014), treated the vacancy clause as a
         hard deadline with no causation requirement &mdash; once the 60 days pass, coverage for
         excluded perils simply ends. This strict interpretation is less favorable for snowbirds.
-        However, as discussed above, the vacancy clause applies to <em>vacancy</em>, not
+        However, the vacancy clause applies to <em>vacancy</em>, not
         unoccupancy, and a furnished seasonal home should not trigger it regardless of the
         jurisdiction.
       </p>

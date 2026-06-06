@@ -791,7 +791,7 @@ export default function Content() {
           ALE components
         </Link>{' '}
         attract social media scrutiny focused on the policyholder&apos;s living situation during
-        displacement. As discussed above, travel and lifestyle posts are not inherently problematic.
+        displacement. Travel and lifestyle posts are not inherently problematic.
         But posts suggesting lavish spending, extended luxury travel significantly exceeding the
         comparable housing budget, or statements suggesting the policyholder is deliberately prolonging
         the displacement could be used against the claim. The distinction remains: living well during

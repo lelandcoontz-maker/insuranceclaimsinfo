@@ -1035,9 +1035,8 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above,{' '}
         <Link href="/resources/preferred-contractor-conflict-of-interest" className="text-[#2E74B5] underline">
-          preferred vendor programs
+          Preferred vendor programs
         </Link>{' '}
         routinely involve AOBs. The carrier&apos;s preferred mitigation vendor uses AOB and
         Direction to Pay language in its work authorization. The carrier knows about this

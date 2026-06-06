@@ -773,7 +773,7 @@ export default function Content() {
         <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, <em>Egan</em> established the foundational principle that
+        <em>Egan</em> established the foundational principle that
         managing agent status depends on the &ldquo;degree of discretion the employees
         possess in making decisions that will ultimately determine corporate policy,&rdquo;
         not on official titles. The Court found that claims employees who exercised broad
@@ -805,7 +805,7 @@ export default function Content() {
         <em>Major v. Western Home Ins. Co.</em> (2009) 169 Cal.App.4th 1197
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, <em>Major</em> extended the managing agent concept to third-party
+        <em>Major</em> extended the managing agent concept to third-party
         claims administrators. The court affirmed $646,472 in punitive damages based on the
         conduct of a regional claims administrator employed by a TPA, holding that claims
         managers who exercise substantial discretionary authority to pay or deny claims exercise

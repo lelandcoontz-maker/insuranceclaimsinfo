@@ -134,7 +134,7 @@ export default function Content() {
         2. Brandt Fees (Attorney Fees to Obtain Policy Benefits)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, the attorney fees incurred to compel the insurer to pay the
+        The attorney fees incurred to compel the insurer to pay the
         withheld contract benefits. These are compensatory damages, awarded by the trier of fact,
         and are recoverable only if bad faith is established.
       </p>

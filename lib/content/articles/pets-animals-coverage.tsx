@@ -441,7 +441,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Smoke inhalation and burns.</strong> Animals that survive a fire may have
-          serious injuries requiring emergency veterinary care. As discussed above, the
+          serious injuries requiring emergency veterinary care. The
           homeowner&rsquo;s policy covers the animal&rsquo;s market value, not the cost of
           treatment. Pet insurance or personal funds cover the veterinary bills.
         </li>

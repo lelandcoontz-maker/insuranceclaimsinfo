@@ -232,7 +232,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>The policy itself.</strong> As discussed above, the policy is a personal contract.
+          <strong>The policy itself.</strong> The policy is a personal contract.
           The assignment of a post-loss claim does not transfer the policy to the buyer. The buyer
           does not become the insured under the seller&rsquo;s policy. The buyer acquires rights to
           the specific claim arising from the specific loss &mdash; nothing more.

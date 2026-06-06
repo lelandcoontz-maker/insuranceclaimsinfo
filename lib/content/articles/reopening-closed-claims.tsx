@@ -236,7 +236,7 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">&quot;The Claim Is Closed&quot;</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the most common initial response, and it is the least meaningful. As discussed above, &quot;closed&quot; is an administrative status, not a legal determination. The adjuster is telling you about the status of their file, not about your contractual rights. When you hear this, respond by acknowledging the file status and reiterating that you are submitting a supplement for additional covered damage that was not included in the original scope. Do not argue about whether the claim is &quot;closed&quot; &mdash; that concedes the framing. Instead, assert your right to a supplement and ask the carrier to reopen the file for investigation.
+        This is the most common initial response, and it is the least meaningful. &quot;Closed&quot; is an administrative status, not a legal determination. The adjuster is telling you about the status of their file, not about your contractual rights. When you hear this, respond by acknowledging the file status and reiterating that you are submitting a supplement for additional covered damage that was not included in the original scope. Do not argue about whether the claim is &quot;closed&quot; &mdash; that concedes the framing. Instead, assert your right to a supplement and ask the carrier to reopen the file for investigation.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">&quot;You Already Accepted the Settlement&quot;</h3>

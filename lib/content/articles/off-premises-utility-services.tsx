@@ -375,7 +375,7 @@ export default function Content() {
           failure may have an on-premises component that takes it outside the exclusion.
         </li>
         <li>
-          <strong>Check for the spoilage endorsement:</strong> As discussed above, some policies
+          <strong>Check for the spoilage endorsement:</strong> Some policies
           include the spoilage endorsement (CP 04 40), which may cover spoiled inventory from a
           power outage regardless of where the outage originated.
         </li>

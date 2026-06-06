@@ -312,7 +312,7 @@ export default function Content() {
         No Intent (Fire Policies Under IC 2071)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, fire policies require proof of intentional misrepresentation. A
+        Fire policies require proof of intentional misrepresentation. A
         policyholder who made an honest mistake on an application &mdash; misremembering a date,
         not understanding a question, or relying on incomplete information &mdash; can defeat
         rescission of a fire policy by showing the misrepresentation was not intentional.

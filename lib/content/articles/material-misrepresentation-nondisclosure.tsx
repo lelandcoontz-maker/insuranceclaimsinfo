@@ -740,7 +740,7 @@ export default function Content() {
         Lack of Materiality
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, the insurer must prove the misrepresentation or concealment was
+        The insurer must prove the misrepresentation or concealment was
         material. The policyholder can challenge materiality by showing that the insurer would
         have issued the policy anyway &mdash; perhaps with an adjusted premium or an additional
         endorsement, but not a declination. If the insurer&rsquo;s own underwriting guidelines

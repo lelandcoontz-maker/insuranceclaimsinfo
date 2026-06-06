@@ -574,7 +574,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Retain your own fire investigation expert.</strong> As discussed above, you have
+          <strong>Retain your own fire investigation expert.</strong> You have
           the right to hire an independent fire investigator or forensic engineer to review the
           evidence and reach independent conclusions. Your expert should have qualifications that
           meet or exceed NFPA 1033 standards and should follow NFPA 921 methodology.

@@ -670,7 +670,7 @@ export default function Content() {
         sampling. The hygienist should be truly independent &mdash; not affiliated with the
         carrier, the carrier&apos;s preferred vendor, or the restoration company performing
         the work. The hygienist&apos;s report, based on laboratory analysis, provides the
-        objective data needed to establish the correct category. As discussed above, the lab
+        objective data needed to establish the correct category. The lab
         results from actual site sampling will override any theoretical textbook classification
         based on source alone.
       </p>

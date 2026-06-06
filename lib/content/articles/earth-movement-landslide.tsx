@@ -289,7 +289,7 @@ export default function Content() {
         Relying on the Anti-Concurrent Causation Clause
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When confronted with the efficient proximate cause argument, some insurers fall back on the ACC clause. They argue that the policy language specifically says earth movement is excluded &ldquo;regardless of any other cause or event contributing concurrently or in any sequence to the loss.&rdquo; As discussed above, this clause is unenforceable in California. An insurer that relies solely on the ACC clause to deny a claim where a covered peril was the efficient proximate cause is making a denial that cannot be sustained under California law.
+        When confronted with the efficient proximate cause argument, some insurers fall back on the ACC clause. They argue that the policy language specifically says earth movement is excluded &ldquo;regardless of any other cause or event contributing concurrently or in any sequence to the loss.&rdquo; This clause is unenforceable in California. An insurer that relies solely on the ACC clause to deny a claim where a covered peril was the efficient proximate cause is making a denial that cannot be sustained under California law.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

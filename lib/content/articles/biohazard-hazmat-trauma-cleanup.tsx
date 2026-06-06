@@ -698,7 +698,7 @@ export default function Content() {
         The <em>MacKinnon</em> Common Understanding Test
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, the California Supreme Court&rsquo;s <em>MacKinnon</em> decision
+        The California Supreme Court&rsquo;s <em>MacKinnon</em> decision
         limits the pollution exclusion to events &ldquo;commonly regarded as environmental
         pollution.&rdquo; Blood from a crime scene and decomposition fluids from an unattended
         death are not &ldquo;environmental pollution&rdquo; under any reasonable common

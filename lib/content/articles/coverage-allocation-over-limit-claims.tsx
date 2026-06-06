@@ -396,7 +396,7 @@ export default function Content() {
           directly to the insured. The mortgage company has no interest in these funds.
         </li>
         <li>
-          <strong>Fair Rental Value:</strong> As discussed above, FRV payments go directly to the
+          <strong>Fair Rental Value:</strong> FRV payments go directly to the
           insured.
         </li>
         <li>

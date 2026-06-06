@@ -277,7 +277,7 @@ export default function Content() {
         individuals flood the affected area offering construction services. They may have
         business cards, a truck with a logo, and a convincing sales pitch, but no license.
         Working without a license is a misdemeanor in California (Business and Professions
-        Code &sect;7028), punishable by fines and jail time. And as discussed above, the
+        Code &sect;7028), punishable by fines and jail time. And the
         unlicensed contractor has no legal right to be paid. For more on recognizing these
         operators, see our article on{' '}
         <Link href="/resources/post-disaster-scams" className="text-[#2E74B5] hover:underline">
@@ -356,7 +356,7 @@ export default function Content() {
         7. Working Without Workers&rsquo; Compensation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, contractors with employees must carry workers&rsquo;
+        Contractors with employees must carry workers&rsquo;
         compensation insurance. Operating without it automatically suspends the
         contractor&rsquo;s license and exposes the homeowner to liability for worker
         injuries. This violation is particularly dangerous because it is invisible

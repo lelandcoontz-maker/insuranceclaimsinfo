@@ -716,7 +716,7 @@ export default function Content() {
         Approving Fewer Air Movers Than Required
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, carriers routinely authorize fewer air movers than the IICRC
+        Carriers routinely authorize fewer air movers than the IICRC
         classification requires. Their internal guidelines may specify a maximum number of units per
         room or per square foot that is lower than what S500 calls for. When challenged, they may
         argue that &ldquo;three air movers is sufficient for a bedroom&rdquo; without any reference

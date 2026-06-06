@@ -1044,7 +1044,7 @@ export default function Content() {
         Step 5: Designate a Secondary Addressee for Life Insurance
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, California law (Insurance Code &sect;10113.72) allows
+        California law (Insurance Code &sect;10113.72) allows
         policyholders to designate a secondary addressee to receive copies of lapse notices
         on life insurance policies. This is a critical protection that takes minutes to
         establish. Contact the life insurance company and request the designation form.
@@ -1213,7 +1213,7 @@ export default function Content() {
         Settlement Negotiations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, an insurer that presents a settlement offer directly to a
+        An insurer that presents a settlement offer directly to a
         cognitively impaired policyholder &mdash; bypassing the authorized representative
         &mdash; is engaging in conduct that may constitute bad faith and elder abuse. All
         settlement negotiations should be conducted through the authorized representative,

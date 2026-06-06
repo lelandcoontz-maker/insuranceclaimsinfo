@@ -451,7 +451,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        You will absorb your deductible on the front end. However, as discussed above, if your
+        You will absorb your deductible on the front end. However, if your
         carrier successfully subrogate against the liable party, your deductible may be recovered
         later. The deductible is a real cost, but it is often a temporary one &mdash; and the
         additional recovery you gain through replacement cost, matching, and supplements

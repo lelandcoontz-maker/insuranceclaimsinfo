@@ -709,7 +709,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Labor efficiency settings:</strong> As discussed above, these settings can
+          <strong>Labor efficiency settings:</strong> These settings can
           reduce labor costs across the estimate without any visible indication on the PDF.
         </li>
         <li>
@@ -906,7 +906,7 @@ export default function Content() {
         Request the ESX File
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, the ESX file contains information that is not visible on the PDF.
+        The ESX file contains information that is not visible on the PDF.
         Requesting the{' '}
         <Link href="/resources/esx-file-rights-xactimate" className="text-[#2E74B5] underline">
           ESX file

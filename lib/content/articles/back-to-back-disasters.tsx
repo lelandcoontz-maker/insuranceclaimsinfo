@@ -308,7 +308,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Efficient Proximate Cause Doctrine:</strong> As discussed above, California&rsquo;s rejection of anti-concurrent causation clauses means that when a covered peril sets a chain of events in motion that leads to damage from an excluded peril, coverage exists. This is the most important protection for policyholders dealing with wildfire-mudslide and similar sequential loss patterns.
+          <strong>Efficient Proximate Cause Doctrine:</strong> California&rsquo;s rejection of anti-concurrent causation clauses means that when a covered peril sets a chain of events in motion that leads to damage from an excluded peril, coverage exists. This is the most important protection for policyholders dealing with wildfire-mudslide and similar sequential loss patterns.
         </li>
         <li>
           <strong>CDI Emergency Regulations:</strong> After major catastrophes, the California Department of Insurance (CDI) frequently issues emergency regulations and bulletins that address specific claims-handling issues. Following the 2017&ndash;2018 wildfire-mudslide sequence, CDI issued guidance on{' '}

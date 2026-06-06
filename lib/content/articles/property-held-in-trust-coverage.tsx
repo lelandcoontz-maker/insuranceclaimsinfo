@@ -397,7 +397,7 @@ export default function Content() {
         This is the scenario that creates problems. The policy names only the individual. The
         trust is not mentioned anywhere in the policy documents. The carrier argues that it
         insured an individual, not a trust, and that the trust&rsquo;s interest in the
-        property is not covered. As discussed above, this argument is weak for revocable
+        property is not covered. This argument is weak for revocable
         trusts but potentially valid for irrevocable trusts.
       </p>
 
@@ -726,7 +726,7 @@ export default function Content() {
         The Trust Is Not a Separate Entity During the Trustor&rsquo;s Lifetime
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, California Probate Code &sect;&sect; 15800 and 18100.5 establish
+        California Probate Code &sect;&sect; 15800 and 18100.5 establish
         that a revocable trust is not a separate legal entity from the trustor during the
         trustor&rsquo;s lifetime. This is the single most important statutory provision for
         policyholders facing the trust mismatch argument. If the trust is not a separate

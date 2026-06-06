@@ -139,7 +139,7 @@ export default function Content() {
         <li>
           <strong>Cosmetic-only classification.</strong> The adjuster acknowledges hail hit the
           roof but characterizes all damage as cosmetic, denying that it affects the roof&apos;s
-          performance. As discussed above, this classification is often incorrect &mdash; granule
+          performance. This classification is often incorrect &mdash; granule
           loss from hail impact shortens roof life and constitutes functional damage.
         </li>
         <li>

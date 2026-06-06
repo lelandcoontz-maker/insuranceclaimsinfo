@@ -770,7 +770,7 @@ export default function Content() {
         already submitted, conducts a new investigation as though no prior investigation occurred,
         and treats regulatory deadlines as running from their date of assignment rather than from
         the original claim submission. This effective reset of the claims timeline can extend the
-        process by months. As discussed above, the regulatory deadlines do not reset with
+        process by months. The regulatory deadlines do not reset with
         reassignment &mdash; they are obligations of the carrier, not the individual adjuster.
         When the carrier acts as though the clock has restarted, it is a red flag that merits
         documentation and, in persistent cases, a regulatory complaint.

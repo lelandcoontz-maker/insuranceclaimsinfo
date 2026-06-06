@@ -175,7 +175,7 @@ export default function Content() {
         The &ldquo;Increase in Hazard&rdquo; Condition
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, cannabis cultivation introduces fire, water, mold, and structural risks
+        Cannabis cultivation introduces fire, water, mold, and structural risks
         that the insurer did not underwrite. An insurer may argue that cultivation constitutes a
         material increase in hazard that the policyholder failed to disclose, voiding or limiting
         coverage for related losses. The strength of this argument depends on the scale of the

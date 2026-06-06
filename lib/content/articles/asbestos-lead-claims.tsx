@@ -422,7 +422,7 @@ export default function Content() {
         5. Claiming Betterment
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, some carriers deduct abatement costs as{' '}
+        Some carriers deduct abatement costs as{' '}
         <Link href="/resources/betterment-and-improvement" className="text-blue-700 underline hover:text-blue-900">
           betterment
         </Link>

@@ -408,7 +408,7 @@ export default function Content() {
           &ldquo;vacant&rdquo; is not clearly stated in the policy.
         </li>
         <li>
-          <strong>Arson vs. vandalism:</strong> As discussed above, the Sixth Circuit in
+          <strong>Arson vs. vandalism:</strong> The Sixth Circuit in
           <em> Wells Fargo</em> held that arson is not &ldquo;vandalism&rdquo; under the vacancy
           clause, while other jurisdictions have reached the opposite conclusion. If you are in a
           state where this question has not been decided, the outcome is uncertain.

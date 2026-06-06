@@ -348,7 +348,7 @@ export default function Content() {
         Mutual Waiver of Subrogation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed above, the lease should include a mutual waiver of subrogation applicable
+        The lease should include a mutual waiver of subrogation applicable
         to property losses. Both parties agree to look to their own insurance first and release
         the other from liability for covered property damage.
       </p>

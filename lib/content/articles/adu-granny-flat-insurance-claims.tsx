@@ -681,7 +681,7 @@ export default function Content() {
           risk existed creates equitable arguments.
         </li>
         <li>
-          <strong>Increase in hazard is a narrow defense.</strong> As discussed above, building a
+          <strong>Increase in hazard is a narrow defense.</strong> Building a
           code-compliant dwelling unit is not the type of hazard increase that this provision
           targets. The insurer must prove a causal connection between the alleged increase in
           hazard and the specific loss that occurred.

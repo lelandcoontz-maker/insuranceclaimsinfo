@@ -802,7 +802,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Accidental discharge coverage</strong> &mdash; As discussed above, accidental
+          <strong>Accidental discharge coverage</strong> &mdash; Accidental
           discharge or overflow from a plumbing system is a base policy peril. If the loss is
           properly characterized as accidental discharge, the backup endorsement and its
           sub-limit do not come into play. See our detailed guide on{' '}

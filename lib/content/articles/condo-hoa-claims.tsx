@@ -512,7 +512,7 @@ export default function Content() {
           responsibility.
         </li>
         <li>
-          <strong>Detach and reset costs:</strong> As discussed above, who pays to remove the unit
+          <strong>Detach and reset costs:</strong> Who pays to remove the unit
           owner&rsquo;s property to access HOA-covered components behind it.
         </li>
       </ul>
