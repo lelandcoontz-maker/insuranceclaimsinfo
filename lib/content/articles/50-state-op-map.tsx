@@ -106,7 +106,7 @@ export default function Content() {
         <strong>Key Authority:</strong> <em>Salesin v. State Farm Fire &amp; Cas. Co.</em>, 581 N.W.2d 781 (Mich. Ct. App. 1998).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The court held that replacement cost used to ascertain ACV is an estimate of all costs &ldquo;likely and reasonably expected to be incurred,&rdquo; and that GC expenses cannot be deducted unless such services are not likely required. Notably, the court held that O&amp;P was owed even though the policyholder would &ldquo;almost certainly&rdquo; not incur that expense.
+        The court held that replacement cost used to ascertain ACV is an estimate of all costs &ldquo;likely and reasonably expected to be incurred,&rdquo; and that GC expenses cannot be deducted unless such services are not likely required. The court held that O&amp;P was owed even though the policyholder would &ldquo;almost certainly&rdquo; not incur that expense.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         <a href="https://caselaw.findlaw.com/court/mi-court-of-appeals/1178083.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read on FindLaw</a>.

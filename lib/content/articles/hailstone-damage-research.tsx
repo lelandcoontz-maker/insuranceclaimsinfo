@@ -282,7 +282,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         IBHS is a nonprofit research organization funded by property insurers and reinsurers.
-        Notably, this research was funded by the insurance industry itself &mdash; which makes
+        This research was funded by the insurance industry itself &mdash; which makes
         its findings particularly difficult for insurers to dismiss when they contradict the
         simplistic arguments used in claim denials.
       </p>

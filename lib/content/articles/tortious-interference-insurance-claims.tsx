@@ -162,7 +162,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Notably, for interference with a fixed-term contract &mdash; which most homeowner-contractor
+        For interference with a fixed-term contract &mdash; which most homeowner-contractor
         repair agreements are &mdash; the independently wrongful act requirement may not apply. In
         <em> Quelimane Co. v. Stewart Title Guaranty Co.</em> (1998) 19 Cal.4th 26, the California
         Supreme Court did not impose this requirement for the existing contract tort. This

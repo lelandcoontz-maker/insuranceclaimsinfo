@@ -50,7 +50,7 @@ export default function Content() {
         <li><strong>Earth sinking, rising, or shifting:</strong> A catch-all provision covering any vertical or lateral movement of ground that does not fit neatly into the categories above.</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The exclusion also typically includes volcanic eruption, though some policies list that separately. Notably, volcanic eruption is a named peril under Coverage C (personal property) of most HO-3 policies, creating a situation where your personal property may be covered for volcanic damage even though your dwelling is not &mdash; unless the ensuing loss or fire provisions apply.
+        The exclusion also typically includes volcanic eruption, though some policies list that separately. Volcanic eruption is a named peril under Coverage C (personal property) of most HO-3 policies, creating a situation where your personal property may be covered for volcanic damage even though your dwelling is not &mdash; unless the ensuing loss or fire provisions apply.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

@@ -231,7 +231,7 @@ export default function Content() {
         <li>
           Landscaping coverage is limited to specific named perils even under the open-perils
           HO-3 &mdash; fire, lightning, explosion, riot, aircraft, vehicles, and vandalism.
-          Notably, <strong>windstorm is not included</strong>. If wind blew a tree over and it
+          <strong>windstorm is not included</strong>. If wind blew a tree over and it
           destroyed your landscaping, the landscaping may not be covered even though the
           structural damage is fully covered.
         </li>

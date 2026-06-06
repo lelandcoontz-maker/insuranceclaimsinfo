@@ -249,7 +249,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        As discussed in detail in <Link href="/resources/three-bids-myth" className="text-[#2E74B5] underline">The &ldquo;Three Bids&rdquo; Myth</Link>, there is no policy provision, statute, or regulation in California that requires a policyholder to obtain multiple bids. The demand for three bids is a claims-handling tactic, not a contractual obligation. In a post-catastrophe environment, it is also a delay tactic &mdash; because obtaining multiple bids from overbooked contractors takes time, and the carrier benefits from that delay. Notably, the inability to obtain multiple bids is itself evidence of demand surge: if contractors are too busy to even provide quotes, the labor market is clearly overwhelmed.
+        As discussed in detail in <Link href="/resources/three-bids-myth" className="text-[#2E74B5] underline">The &ldquo;Three Bids&rdquo; Myth</Link>, there is no policy provision, statute, or regulation in California that requires a policyholder to obtain multiple bids. The demand for three bids is a claims-handling tactic, not a contractual obligation. In a post-catastrophe environment, it is also a delay tactic &mdash; because obtaining multiple bids from overbooked contractors takes time, and the carrier benefits from that delay. The inability to obtain multiple bids is itself evidence of demand surge: if contractors are too busy to even provide quotes, the labor market is clearly overwhelmed.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
