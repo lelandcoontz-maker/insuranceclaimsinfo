@@ -44,9 +44,12 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Public Adjusters typically work on a contingency fee basis, meaning they are paid a
-        percentage of the insurance settlement they help you recover. In California, this percentage
+        percentage of the insurance settlement they help recover. In California, this percentage
         is usually between 10% and 15% of the claim proceeds, depending on the size and complexity
-        of the claim. California law caps Public Adjuster fees in certain disaster situations.
+        of the claim. California has no statutory percentage cap on Public Adjuster fees &mdash;
+        the contract sets the fee, subject to the written-disclosure requirements of Cal. Ins.
+        Code &sect;&nbsp;15027. AB&nbsp;597 (2025&ndash;2026 session) would impose a 15% cap on
+        catastrophic-disaster claims if enacted, but it has not been enacted.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The contingency model means there is no upfront cost to you — the Public Adjuster only gets
