@@ -113,7 +113,7 @@ export default function Content() {
           <strong><em>AIU Insurance Co. v. Superior Court</em> (1990) 51 Cal.3d 807:</strong> The California Supreme Court held that insurance policies must be interpreted to fulfill the objectively reasonable expectations of the insured and that ambiguous terms are resolved against the insurer as the drafter of the policy. <em>AIU</em> also articulated the &ldquo;negotiated policy&rdquo; exception to contra proferentem &mdash; an exception that has <em>stacked requirements</em>: the rule may relax only when the insured is itself a sophisticated party with bargaining power AND the policy language at issue was actually negotiated and jointly drafted. Sophistication alone is not enough.
         </li>
         <li>
-          <strong><em>Bank of the West v. Superior Court</em> (1992):</strong> The court reiterated that insurance contracts are adhesion contracts and must be construed broadly in favor of coverage. Coverage-granting provisions are interpreted as broadly as their language allows, while exclusions are interpreted as narrowly as their language requires.
+          <strong><em>Bank of the West v. Superior Court</em> (1992) 2 Cal.4th 1254:</strong> The California Supreme Court&apos;s modern statement of the interpretive framework for insurance contracts. The decision&apos;s actual holding addressed whether a CGL policy&apos;s &ldquo;advertising injury&rdquo; coverage extended to restitution and disgorgement under Bus. &amp; Prof. Code &sect; 17200 (it did not). In setting up that analysis, the Court restated the long-standing California rules: policies are interpreted to give effect to the parties&apos; mutual intent, ambiguities are resolved in favor of the insured, coverage-granting provisions are interpreted broadly, and exclusions are interpreted narrowly. Those interpretive rules are routinely cited from <em>Bank of the West</em> in subsequent California coverage litigation.
         </li>
         <li>
           <strong><em>MacKinnon v. Truck Insurance Exchange</em> (2003):</strong> This case established the burden-shifting framework for open-peril policies: the policyholder shows a loss occurred, the insurer must prove an exclusion applies, and ambiguities at any stage are resolved against the insurer. This decision is central to how{' '}
@@ -123,7 +123,7 @@ export default function Content() {
           in California.
         </li>
         <li>
-          <strong><em>State Farm Fire &amp; Casualty Co. v. Superior Court (Watts)</em> (1997):</strong> The court held that the insurer bears the burden of proving that an exclusion applies and that ambiguities in exclusionary language are strictly construed against the insurer.
+          <strong><em>Aydin Corp. v. First State Ins. Co.</em> (1998) 18 Cal.4th 1183:</strong> The California Supreme Court confirmed that once the insured establishes that a claim falls within the basic coverage grant, the burden shifts to the insurer to prove an exclusion applies. Aydin is one of the canonical CA Supreme Court authorities for insurer-burden allocation on exclusions and remains routinely cited in CGL and first-party coverage disputes.
         </li>
         <li>
           <strong><em>Yahoo Inc. v. National Union Fire Ins. Co. of Pittsburgh, PA</em> (2022) 14 Cal.5th 58:</strong> The California Supreme Court&apos;s modern refinement of <em>AIU</em>. The Court held that contra proferentem continues to apply even when an endorsement is labeled a &ldquo;manuscript&rdquo; endorsement, so long as the language is standard insurer-drafted text that the insured did not actually negotiate. Crucially, the Court treated the insured&apos;s act of <em>selecting</em> among insurer-authored endorsement options as something different from <em>drafting</em> the ambiguous language. Selection is not drafting. <em>Yahoo</em> forecloses the common carrier argument that any sophisticated commercial insured with a placed-and-manuscripted policy automatically loses the benefit of the doctrine.
@@ -280,10 +280,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        &ldquo;Sudden and Accidental&rdquo; Pollution Exclusion
+        &ldquo;Pollution Exclusion&rdquo; Applied Beyond Industrial Pollution
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Supreme Court famously applied contra proferentem to the &ldquo;sudden and accidental&rdquo; exception in the pollution exclusion. The insurer argued &ldquo;sudden&rdquo; meant &ldquo;abrupt&rdquo; and excluded gradual pollution. The policyholder argued &ldquo;sudden&rdquo; meant &ldquo;unexpected.&rdquo; Because the word was susceptible to both reasonable interpretations, the court construed it against the insurer and in favor of the meaning that preserved coverage.
+        In <em>MacKinnon v. Truck Insurance Exchange</em> (2003) 31 Cal.4th 635, the California Supreme Court applied contra proferentem to the absolute pollution exclusion in a CGL policy. The insurer argued the exclusion barred coverage for tenant claims arising from a building owner&apos;s pesticide application. The Court held the exclusion was ambiguous as applied to ordinary, non-industrial pesticide use, construed the ambiguity against the insurer, and found coverage. <em>MacKinnon</em> is the canonical California decision narrowing the absolute pollution exclusion through contra proferentem.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -350,7 +350,7 @@ export default function Content() {
         Insurance Code Section 530
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 530 provides that an insurer is liable for losses that are the &ldquo;proximate result&rdquo; of a covered peril, even if the loss would not have occurred without the existence of a pre-existing condition. When an insurer argues that a pre-existing condition &mdash; rather than the covered peril &mdash; caused the loss, contra proferentem can reinforce the policyholder&apos;s position if the policy language defining the covered peril or the scope of the pre-existing condition is ambiguous.
+        California Insurance Code &sect; 530 is a proximate-cause statute. It provides: &ldquo;An insurer is liable for a loss of which a peril insured against was the proximate cause, although a peril not contemplated by the contract may have been a remote cause of the loss; but he is not liable for a loss of which the peril insured against was only a remote cause.&rdquo; In coverage disputes where the insurer argues a chain of events involved both insured and uninsured perils, &sect; 530 places liability on the insurer when the insured peril was the proximate cause of the loss. Contra proferentem reinforces the policyholder&apos;s position when the policy language defining the covered peril, the scope of an exclusion, or the causal chain is ambiguous. (Note that the related but distinct doctrine addressing pre-existing conditions and concurrent causation in California is the efficient-proximate-cause rule developed in <em>Sabella v. Wisler</em> and <em>Garvey v. State Farm Fire &amp; Casualty Co.</em>, discussed in the section above.)
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
