@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Pets & Animals in Property Insurance Claims',
   description:
-    'How homeowner insurance policies handle pets and animals after a disaster &mdash; Coverage C classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim.',
+    'How homeowner insurance policies handle pets and animals after a disaster &mdash; personal property classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim.',
   summary:
     'Homeowner policies treat pets oddly: they are not \'property\' you can claim for, but ALE may cover added pet costs while displaced, and livestock is often excluded. Know the limits and plan for evacuation costs to protect your animals.',
 }
@@ -37,7 +37,7 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Pets as Personal Property Under Coverage C
+        Pets as Personal Property
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A standard HO-3 homeowner&rsquo;s policy divides coverage into separate categories
@@ -186,7 +186,7 @@ export default function Content() {
         Livestock, Horses, and Animals Used for Business
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While household pets generally fall under Coverage C as personal property, livestock and
+        While household pets generally fall under personal property coverage, livestock and
         animals used for business purposes are treated very differently. Most standard HO-3
         policies contain exclusions or severe limitations for animals kept for commercial
         purposes.
@@ -196,14 +196,14 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Household pets (Coverage C).</strong> Dogs, cats, birds, fish, small mammals,
-          and other animals kept solely as companions are personal property under Coverage C,
+          <strong>Household pets.</strong> Dogs, cats, birds, fish, small mammals,
+          and other animals kept solely as companions are personal property,
           subject to the overall contents limit.
         </li>
         <li>
           <strong>Livestock on residential property.</strong> If you keep chickens, goats, or a
           horse on your residential property for personal use, coverage can be ambiguous. Some
-          policies include them under Coverage C. Others exclude or limit coverage for
+          policies include them as personal property. Others exclude or limit coverage for
           &ldquo;animals&rdquo; beyond traditional household pets. Read your policy language
           carefully.
         </li>
@@ -311,7 +311,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Homeowner&rsquo;s insurance (Coverage C):</strong> Covers the market value of
+          <strong>Homeowner&rsquo;s insurance (personal property):</strong> Covers the market value of
           the animal as personal property if the animal is killed or injured in a covered peril
           (fire, windstorm, etc.). Does not cover illness, routine veterinary care, or accidents
           unrelated to a property loss.
@@ -473,7 +473,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under a standard homeowner&rsquo;s policy, service animals and ESAs are still classified
-        as personal property under Coverage C. Their special legal status under disability and
+        as personal property. Their special legal status under disability and
         housing law does not change how the property insurance policy values them. However, the
         cost to replace a trained service animal can be very high &mdash; $15,000 to $50,000 or
         more for a fully trained service dog &mdash; and this replacement cost should be reflected
@@ -633,7 +633,7 @@ export default function Content() {
         This article focuses on property coverage for your own animals after a loss. But
         note that your homeowner&rsquo;s policy also provides liability coverage if your
         pet injures someone else or damages someone else&rsquo;s property. If your dog bites a
-        neighbor, your homeowner&rsquo;s liability coverage (Coverage E) typically responds.
+        neighbor, your homeowner&rsquo;s liability coverage (personal liability coverage) typically responds.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, many policies exclude certain dog breeds or impose breed-specific restrictions.
@@ -648,7 +648,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          Pets are personal property under Coverage C of your homeowner&rsquo;s policy. They are
+          Pets are personal property as personal property of your homeowner&rsquo;s policy. They are
           valued at market value, not sentimental value.
         </li>
         <li>
