@@ -77,7 +77,7 @@ export default function Content() {
         <li>
           <strong>Keep all receipts.</strong> Every dollar you spend as a result of the
           displacement — hotels, meals, clothing, transportation, storage — is potentially
-          reimbursable under Coverage D (Additional Living Expenses). Save every receipt from day
+          reimbursable under Loss of Use coverage. Save every receipt from day
           one.
         </li>
         <li>
@@ -179,8 +179,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A <strong>total loss</strong> means the structure is completely destroyed or damaged beyond
-        repair. The claim will involve full dwelling replacement under Coverage A, complete contents
-        replacement under Coverage C, extended displacement under Coverage D, and potentially
+        repair. The claim will involve full dwelling replacement, complete contents
+        replacement under personal property coverage, extended displacement under Loss of Use coverage, and potentially
         significant Ordinance or Law costs for rebuilding to current codes. Total loss claims are
         the most complex and highest-value claims most homeowners will ever file.
       </p>
@@ -200,15 +200,15 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A (Dwelling):</strong> Pays to repair or rebuild your home. In a total
+          <strong>Dwelling:</strong> Pays to repair or rebuild your home. In a total
           loss, this is the full cost to rebuild to the same square footage and quality.
         </li>
         <li>
-          <strong>Coverage B (Other Structures):</strong> Covers detached structures — fences,
+          <strong>Other Structures:</strong> Covers detached structures — fences,
           sheds, detached garages, retaining walls, and driveways.
         </li>
         <li>
-          <strong>Coverage C (Personal Property):</strong> Covers the replacement of all personal
+          <strong>Personal Property:</strong> Covers the replacement of all personal
           belongings destroyed in the fire. Documenting your contents is one of the most
           time-consuming parts of a wildfire claim.
         </li>
@@ -229,7 +229,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Debris removal:</strong> The cost of removing fire debris, ash, and destroyed
-          materials from your property — often 5 percent of Coverage A as additional coverage
+          materials from your property — often 5 percent of the dwelling limit as additional coverage
         </li>
         <li>
           <strong>Ordinance or Law (code upgrades):</strong> The increased cost of rebuilding to
@@ -246,7 +246,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Trees, shrubs, and landscaping:</strong> Coverage for destroyed landscaping,
-          typically capped at 5 percent of Coverage A
+          typically capped at 5 percent of the dwelling limit
         </li>
       </ul>
 
