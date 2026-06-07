@@ -221,7 +221,7 @@ export default function Content() {
         Use Personal Property Money to Get Construction Moving
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you received a personal property settlement (personal property), those checks do <strong>not
+        If you received a personal property settlement, those checks do <strong>not
         </strong> have the mortgage company&apos;s name on them. That money is yours to use as you
         see fit. While it was paid for your damaged belongings, nothing prevents you from using it
         strategically to get construction started:

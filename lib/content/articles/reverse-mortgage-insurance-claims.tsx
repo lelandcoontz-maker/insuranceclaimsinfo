@@ -928,7 +928,7 @@ export default function Content() {
         The ALE / Loss of Use Issue
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additional Living Expense (ALE) or loss of use coverage (Loss of Use) payments should
+        Additional Living Expense (ALE) or Loss of Use coverage payments should
         <strong> not</strong> have the HECM servicer&rsquo;s name on them. ALE covers the
         policyholder&rsquo;s increased living expenses during displacement &mdash; hotel bills,
         rental costs, meals, and other necessities. The HECM servicer has no interest in the
