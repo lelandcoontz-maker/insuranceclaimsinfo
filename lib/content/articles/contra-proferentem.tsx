@@ -25,7 +25,7 @@ export default function Content() {
         The phrase is Latin for &ldquo;against the drafter.&rdquo; In plain English, it means that when insurance policy language is ambiguous &mdash; when it is capable of more than one reasonable interpretation &mdash; the ambiguity is resolved in favor of the policyholder, not the insurance company. The insurer chose the words. If those words are unclear, that is the insurer&apos;s problem.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is not a technicality or a loophole. It is a foundational principle of contract law that California courts have applied consistently for well over a century, and it is codified in California Civil Code &sect; 1654: &ldquo;In cases of uncertainty not removed by the preceding rules, the language of a contract should be interpreted most strongly against the party who caused the uncertainty to exist.&rdquo; That statute, read together with California Insurance Code provisions on contract interpretation (&sect;&sect; 1644, 1646, 1647), supplies the framework California courts apply in insurance coverage disputes. The doctrine has determined the outcome of thousands of coverage cases, and it is a tool every policyholder should understand.
+        This is not a technicality or a loophole. It is a foundational principle of contract law that California courts have applied consistently for well over a century, and it is codified in California Civil Code &sect; 1654: &ldquo;In cases of uncertainty not removed by the preceding rules, the language of a contract should be interpreted most strongly against the party who caused the uncertainty to exist.&rdquo; The statute&apos;s opening phrase &mdash; <em>uncertainty not removed by the preceding rules</em> &mdash; is important: contra proferentem is a rule of last resort. It applies only after a court has worked through the ordinary tools of interpretation (the plain or ordinary meaning of the words under Civ. Code &sect; 1644, the policy read as a whole, the insured&apos;s objectively reasonable expectations, and any admissible extrinsic evidence of the parties&apos; intent under Civ. Code &sect; 1647), found that those tools do not resolve the ambiguity, and then construed the residual uncertainty against the drafter. Civ. Code &sect;&sect; 1635&ndash;1663 supply the broader interpretive framework California courts apply to insurance contracts. The doctrine has determined the outcome of thousands of coverage cases, and it is a tool every policyholder should understand.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -110,7 +110,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong><em>AIU Insurance Co. v. Superior Court</em> (1990):</strong> The California Supreme Court held that insurance policies must be interpreted to fulfill the objectively reasonable expectations of the insured. The court emphasized that ambiguous terms in insurance contracts are resolved against the insurer as the drafter of the policy.
+          <strong><em>AIU Insurance Co. v. Superior Court</em> (1990) 51 Cal.3d 807:</strong> The California Supreme Court held that insurance policies must be interpreted to fulfill the objectively reasonable expectations of the insured and that ambiguous terms are resolved against the insurer as the drafter of the policy. <em>AIU</em> also articulated the &ldquo;negotiated policy&rdquo; exception to contra proferentem &mdash; an exception that has <em>stacked requirements</em>: the rule may relax only when the insured is itself a sophisticated party with bargaining power AND the policy language at issue was actually negotiated and jointly drafted. Sophistication alone is not enough.
         </li>
         <li>
           <strong><em>Bank of the West v. Superior Court</em> (1992):</strong> The court reiterated that insurance contracts are adhesion contracts and must be construed broadly in favor of coverage. Coverage-granting provisions are interpreted as broadly as their language allows, while exclusions are interpreted as narrowly as their language requires.
@@ -124,6 +124,9 @@ export default function Content() {
         </li>
         <li>
           <strong><em>State Farm Fire &amp; Casualty Co. v. Superior Court (Watts)</em> (1997):</strong> The court held that the insurer bears the burden of proving that an exclusion applies and that ambiguities in exclusionary language are strictly construed against the insurer.
+        </li>
+        <li>
+          <strong><em>Yahoo Inc. v. National Union Fire Ins. Co. of Pittsburgh, PA</em> (2022) 14 Cal.5th 58:</strong> The California Supreme Court&apos;s modern refinement of <em>AIU</em>. The Court held that contra proferentem continues to apply even when an endorsement is labeled a &ldquo;manuscript&rdquo; endorsement, so long as the language is standard insurer-drafted text that the insured did not actually negotiate. Crucially, the Court treated the insured&apos;s act of <em>selecting</em> among insurer-authored endorsement options as something different from <em>drafting</em> the ambiguous language. Selection is not drafting. <em>Yahoo</em> forecloses the common carrier argument that any sophisticated commercial insured with a placed-and-manuscripted policy automatically loses the benefit of the doctrine.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -145,10 +148,30 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Policyholder-Drafted Language
+        Policyholder-Drafted (&ldquo;Manuscript&rdquo; or &ldquo;Negotiated&rdquo;) Language
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In rare cases, the policyholder or the policyholder&apos;s broker may have drafted specific policy language &mdash; such as a manuscript endorsement in a large commercial policy. When the policyholder participated in drafting the language, contra proferentem may not apply to that specific provision. This situation is uncommon in personal lines insurance, where the policy forms are entirely standardized.
+        In rare cases, the policyholder or the policyholder&apos;s broker may have actually drafted specific policy language &mdash; for example, a true manuscript endorsement on a large commercial program. When the policyholder authored the disputed wording, contra proferentem may not apply to that specific provision. This situation is uncommon in personal lines insurance, where the policy forms are entirely standardized. In commercial lines, it is more frequent &mdash; but far less frequent than carriers and their counsel often imply.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California law sets a high bar for this exception. Under <em>AIU Insurance Co. v. Superior Court</em> (1990) 51 Cal.3d 807, the manuscript / negotiated-policy exception applies only where two requirements are <em>both</em> met: the insured is itself a sophisticated party with meaningful bargaining power, AND the policy language at issue was actually negotiated and jointly drafted. There is no blanket &ldquo;sophisticated insured&rdquo; exception in California. A large corporate insured that simply purchased a standard form policy is still entitled to contra proferentem on ambiguous standard language.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The California Supreme Court&apos;s decision in <em>Yahoo Inc. v. National Union Fire Insurance Co.</em> (2022) 14 Cal.5th 58 sharpened the test further. Even when an insured&apos;s policy is structured as a &ldquo;manuscript&rdquo; policy and the insured selected among various endorsement options the insurer offered, the Court held that contra proferentem continues to apply to insurer-drafted standard language. The key distinction <em>Yahoo</em> drew is between <em>selecting</em> coverage options the insurer prepared and <em>drafting</em> the actual ambiguous text. Selection is not drafting. The carrier must show that the insured&apos;s hand was on the specific ambiguous wording at issue, not merely that the insured chose from a menu the insurer wrote.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practical effect: when a carrier raises a &ldquo;negotiated policy&rdquo; or &ldquo;manuscript&rdquo; defense to contra proferentem, the carrier bears a real factual burden. They must point to specific evidence that the insured actually authored or shaped the disputed clause. The underwriting file and broker file commonly show the opposite &mdash; that the carrier supplied the form language and the insured took it as offered. An insured pursuing a coverage dispute should consider requesting these files; if discovery confirms the carrier wrote the wording, the manuscript-exception defense collapses.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For a deeper discussion of the underlying policy-form architecture this issue interacts with, see{' '}
+        <Link href="/resources/commercial-policy-explained" className="text-blue-700 underline hover:text-blue-900">
+          Understanding Your Commercial Property Policy
+        </Link>{' '}
+        (on manuscript and surplus lines forms) and{' '}
+        <Link href="/resources/coverage-lettering-explained" className="text-blue-700 underline hover:text-blue-900">
+          Coverage A, B, C, D Explained
+        </Link>{' '}
+        (on standard form text and carrier-manuscripted variations).
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
