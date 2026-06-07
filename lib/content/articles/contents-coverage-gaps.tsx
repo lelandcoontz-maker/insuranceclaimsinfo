@@ -6,9 +6,9 @@ export const meta = {
   title:
     'When the Building Is Covered but Your Personal Property Is Not: Understanding Contents Coverage Gaps',
   description:
-    'The standard HO-3 homeowner policy covers your dwelling on an open-perils basis but limits personal property to named perils only. Learn where the Coverage A vs. Coverage C gap creates uncovered losses and how to protect yourself.',
+    'The standard HO-3 homeowner policy covers your dwelling on an open-perils basis but limits personal property to named perils only. Learn where the dwelling vs. personal property gap creates uncovered losses and how to protect yourself.',
   summary:
-    'A standard HO-3 covers the dwelling on an open-perils basis but limits personal property to named perils, so some belongings losses fall through the gap. Know where Coverage A and Coverage C diverge and consider broader contents coverage.',
+    'A standard HO-3 covers the dwelling on an open-perils basis but limits personal property to named perils, so some belongings losses fall through the gap. Know where dwelling and personal property coverage diverge and consider broader contents coverage.',
 }
 
 export default function Content() {
@@ -38,7 +38,7 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Fundamental Coverage A vs. Coverage C Peril Difference
+        The Fundamental Dwelling vs. Personal Property Peril Difference
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The HO-3 policy form is sometimes called a &ldquo;special form&rdquo; or &ldquo;all
@@ -47,28 +47,30 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Coverage A &mdash; Dwelling (Open Perils)
+        Dwelling (Open Perils)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage A on a standard HO-3 is written on an <strong>open-perils</strong> basis. This
-        means it covers <em>every</em> cause of loss <em>except</em> those specifically excluded in
-        the policy. If the cause of loss is not listed in the exclusions section, the building damage
-        is covered. The burden is on the insurer to prove an exclusion applies. This is the broadest
-        form of property coverage available on a standard residential policy.
+        The dwelling coverage on a standard HO-3 is written on an <strong>open-perils</strong>
+        basis. This means it covers <em>every</em> cause of loss <em>except</em> those
+        specifically excluded in the policy. If the cause of loss is not listed in the
+        exclusions section, the building damage is covered. The burden is on the insurer to
+        prove an exclusion applies. This is the broadest form of property coverage available
+        on a standard residential policy.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Coverage C &mdash; Personal Property (Named Perils Only)
+        Personal Property (Named Perils Only)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage C on the same HO-3 policy is written on a <strong>named-perils</strong> basis.
-        This means it covers personal property <em>only</em> when the damage is caused by one of
-        the 16 perils specifically listed in the policy. If the cause of loss is not one of those 16
-        perils, the contents are not covered &mdash; period. The burden is on the policyholder to
-        prove the loss was caused by one of the named perils.
+        The personal property coverage on the same HO-3 policy is written on a
+        <strong> named-perils</strong> basis. This means it covers personal property
+        <em> only</em> when the damage is caused by one of the 16 perils specifically listed
+        in the policy. If the cause of loss is not one of those 16 perils, the contents are
+        not covered &mdash; period. The burden is on the policyholder to prove the loss was
+        caused by one of the named perils.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The 16 named perils under Coverage C of the standard HO-3 are:
+        The 16 named perils for personal property under the standard HO-3 are:
       </p>
       <ol className="list-decimal pl-6 space-y-1 text-gray-700 mb-6">
         <li>Fire or lightning</li>
@@ -91,8 +93,8 @@ export default function Content() {
 
       <CalloutBox variant="important" title="The Burden of Proof Shifts">
         <p>
-          Under Coverage A (open perils), the <strong>insurer</strong> must prove an exclusion
-          applies to deny the claim. Under Coverage C (named perils), the{' '}
+          For the dwelling (open perils), the <strong>insurer</strong> must prove an exclusion
+          applies to deny the claim. For personal property (named perils), the{' '}
           <strong>policyholder</strong> must prove the loss was caused by one of the 16 listed
           perils. This is a fundamental shift in who carries the burden &mdash; and it matters
           enormously in ambiguous losses.
@@ -102,7 +104,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This dual structure means there is an entire category of losses where the building damage is
         covered but the contents damage is not. Any cause of loss that is not excluded under
-        Coverage A <em>and</em> is not one of the 16 named perils under Coverage C falls into this
+        the dwelling coverage <em>and</em> is not one of the 16 named perils under personal property coverage falls into this
         gap. That is not a theoretical problem &mdash; it happens in real claims constantly.
       </p>
 
@@ -110,7 +112,7 @@ export default function Content() {
         Real-World Examples of the Gap
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Coverage A/Coverage C peril gap is not an abstract concept. Here are situations where
+        The dwelling vs. personal property peril gap is not an abstract concept. Here are situations where
         policyholders discover the hard way that their building is covered but their personal
         property is not.
       </p>
@@ -121,7 +123,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A washing machine supply hose fails at the wall connection, and water flows across the
         laundry room floor for hours before being discovered. The water damages the flooring,
-        subfloor, baseboards, and drywall. Under Coverage A (open perils), the building damage is
+        subfloor, baseboards, and drywall. Under the dwelling coverage (open perils), the building damage is
         covered &mdash; water damage from a defective connection is not excluded. But the personal
         property damaged by that same water &mdash; shoes in a nearby closet, boxes of clothing on
         the floor, a rug &mdash; is only covered if the water qualifies as an &ldquo;accidental
@@ -157,8 +159,8 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A homeowner discovers that a piece of jewelry is missing from a bedroom dresser. Under
-        Coverage A (open perils), if there were signs of a break-in &mdash; a forced lock, a broken
-        window &mdash; the structural damage to the building is covered. But under Coverage C
+        the dwelling coverage (open perils), if there were signs of a break-in &mdash; a forced lock, a broken
+        window &mdash; the structural damage to the building is covered. But under personal property coverage
         (named perils), the &ldquo;theft&rdquo; peril requires evidence of theft, not just that
         something is gone. If there is no evidence of forced entry and the policyholder simply
         cannot find the item, the insurer can deny the contents portion of the claim on the grounds
@@ -179,7 +181,7 @@ export default function Content() {
         movement in motion, the building damage may be covered even though earth movement itself is
         excluded. But the personal property damaged by the settling &mdash; cracked china in a
         display cabinet, items that fell from shelves, a television knocked off a stand &mdash; may
-        not be covered because earth movement is not one of the 16 named perils under Coverage C.
+        not be covered because earth movement is not one of the 16 named perils under personal property coverage.
         The &ldquo;falling objects&rdquo; peril requires that the object fall from outside the
         building, not that items inside the home topple due to structural movement.
       </p>
@@ -188,13 +190,13 @@ export default function Content() {
         Vermin and Animal Damage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Raccoons enter an attic and tear through insulation, ductwork, and drywall. Under Coverage A
+        Raccoons enter an attic and tear through insulation, ductwork, and drywall. Under the dwelling coverage
         (open perils), animal damage to the building is not universally excluded &mdash; many
         policies exclude damage by birds, rodents, insects, and vermin, but raccoons may not qualify
         as &ldquo;vermin&rdquo; under the policy language. If the building damage is covered, the
         personal property destroyed by the same animals &mdash; holiday decorations stored in the
         attic, clothing, stored documents &mdash; must still fit one of the 16 named perils to be
-        covered. Animal damage is not a named peril under Coverage C.
+        covered. Animal damage is not a named peril under personal property coverage.
       </p>
 
       <CalloutBox variant="warning" title="Same Water, Same Event, Different Answers">
@@ -211,7 +213,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The HO-5 policy form &mdash; sometimes called a &ldquo;comprehensive form&rdquo; &mdash;
-        solves the Coverage A/Coverage C peril gap by providing <strong>open-perils coverage for
+        solves the dwelling vs. personal property peril gap by providing <strong>open-perils coverage for
         both the dwelling and personal property</strong>. Under an HO-5, your contents are covered
         for every cause of loss except those specifically excluded, just like your building.
       </p>
@@ -225,7 +227,7 @@ export default function Content() {
           a named peril.
         </li>
         <li>
-          Ambiguous or unusual losses that would be denied under Coverage C named perils are covered
+          Ambiguous or unusual losses that would be denied under personal property coverage named perils are covered
           unless specifically excluded.
         </li>
         <li>
@@ -386,7 +388,7 @@ export default function Content() {
         Even after you confirm that your contents loss is covered under a named peril and calculate
         the depreciation, there is one more layer that can reduce your recovery: sub-limits. The
         standard HO-3 policy imposes internal dollar caps on certain categories of personal
-        property. These caps apply per occurrence, regardless of how much total Coverage C you
+        property. These caps apply per occurrence, regardless of how much total personal property coverage you
         carry.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -489,7 +491,7 @@ export default function Content() {
         How to Protect Yourself
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Coverage A/Coverage C peril gap is a design feature of the HO-3, not a bug. It exists
+        The dwelling vs. personal property peril gap is a design feature of the HO-3, not a bug. It exists
         because insurers charge less for named-perils coverage than open-perils coverage &mdash; and
         the HO-3&rsquo;s lower premium reflects the narrower contents protection. But understanding
         the gap gives you options.
@@ -502,7 +504,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Add an open-perils contents endorsement.</strong> Some carriers offer an
-          endorsement that upgrades Coverage C from named perils to open perils without changing the
+          endorsement that upgrades personal property coverage from named perils to open perils without changing the
           entire policy form. Ask your agent if this is available.
         </li>
         <li>
@@ -515,8 +517,8 @@ export default function Content() {
           <Link href="/resources/exclusions" className="text-blue-700 underline hover:text-blue-900">
             exclusions
           </Link>{' '}
-          section carefully.</strong> Know what is excluded under Coverage A and what perils are
-          listed under Coverage C. You cannot protect yourself from gaps you do not know exist.
+          section carefully.</strong> Know what is excluded under the dwelling coverage and what perils are
+          listed under personal property coverage. You cannot protect yourself from gaps you do not know exist.
         </li>
         <li>
           <strong>Document your personal property now.</strong> Use our{' '}
@@ -548,7 +550,7 @@ export default function Content() {
           coverage.
         </li>
         <li>
-          Does your policy have an endorsement that modifies the Coverage C peril list? Some
+          Does your policy have an endorsement that modifies the personal property coverage peril list? Some
           endorsements add perils or broaden coverage in ways the base policy does not.
         </li>
         <li>
@@ -598,19 +600,19 @@ export default function Content() {
       <QABlock pairs={[
         {
           question: 'What is the fundamental difference between dwelling and contents coverage on a standard policy?',
-          answer: 'On the standard HO-3, Coverage A (Dwelling) is open perils — it covers every cause of loss except those specifically excluded, and the insurer bears the burden of proving an exclusion applies. Coverage C (Personal Property) is named perils — it covers personal property only when the damage is caused by one of 16 specifically listed perils, and the policyholder bears the burden of proving the loss matches one of those perils. The HO-3 is sometimes called an "all risk" policy, but that\'s only half true: it\'s all-risk for the building, not for the contents.',
+          answer: 'On the standard HO-3, the dwelling coverage (Dwelling) is open perils — it covers every cause of loss except those specifically excluded, and the insurer bears the burden of proving an exclusion applies. personal property coverage (Personal Property) is named perils — it covers personal property only when the damage is caused by one of 16 specifically listed perils, and the policyholder bears the burden of proving the loss matches one of those perils. The HO-3 is sometimes called an "all risk" policy, but that\'s only half true: it\'s all-risk for the building, not for the contents.',
         },
         {
           question: 'What are the 16 named perils for personal property under an HO-3?',
-          answer: "Fire or lightning; windstorm or hail; explosion; riot or civil commotion; aircraft; vehicles; smoke; vandalism or malicious mischief; theft; falling objects; weight of ice, snow, or sleet; accidental discharge or overflow of water or steam; sudden and accidental tearing apart, cracking, burning, or bulging of a heating, AC, or sprinkler system; freezing of plumbing, heating, AC, or sprinkler systems; sudden and accidental damage from artificially generated electrical current; and volcanic eruption (other than earthquake or land shock waves). Any cause of loss not on that list is not covered under Coverage C — even if the same event causes covered damage to the building.",
+          answer: "Fire or lightning; windstorm or hail; explosion; riot or civil commotion; aircraft; vehicles; smoke; vandalism or malicious mischief; theft; falling objects; weight of ice, snow, or sleet; accidental discharge or overflow of water or steam; sudden and accidental tearing apart, cracking, burning, or bulging of a heating, AC, or sprinkler system; freezing of plumbing, heating, AC, or sprinkler systems; sudden and accidental damage from artificially generated electrical current; and volcanic eruption (other than earthquake or land shock waves). Any cause of loss not on that list is not covered under personal property coverage — even if the same event causes covered damage to the building.",
         },
         {
           question: "What's an example of building covered but contents not covered?",
-          answer: 'Several common scenarios. A washing machine supply hose leak — building damage covered under open-perils Coverage A, but shoes and clothing damaged by the same water may be denied if the insurer argues the leak was gradual rather than "sudden" or that the hose was not part of a "plumbing system." Earth movement triggered by a covered peril — under efficient proximate cause the building damage is covered, but cracked china that fell from a shelf is not covered because earth movement isn\'t a named peril. Raccoon damage to attic — building damage often covered, but holiday decorations stored in the attic aren\'t, because animal damage isn\'t a named peril. Mysterious disappearance of jewelry without forced entry — even if the building shows damage, the contents loss isn\'t covered because "theft" requires evidence of theft, not just that something is gone.',
+          answer: 'Several common scenarios. A washing machine supply hose leak — building damage covered under open-perils the dwelling coverage, but shoes and clothing damaged by the same water may be denied if the insurer argues the leak was gradual rather than "sudden" or that the hose was not part of a "plumbing system." Earth movement triggered by a covered peril — under efficient proximate cause the building damage is covered, but cracked china that fell from a shelf is not covered because earth movement isn\'t a named peril. Raccoon damage to attic — building damage often covered, but holiday decorations stored in the attic aren\'t, because animal damage isn\'t a named peril. Mysterious disappearance of jewelry without forced entry — even if the building shows damage, the contents loss isn\'t covered because "theft" requires evidence of theft, not just that something is gone.',
         },
         {
           question: 'How does the HO-5 policy form close this gap?',
-          answer: "An HO-5 (sometimes called a comprehensive form) provides open-perils coverage for both the dwelling and personal property — so the burden of proof stays on the insurer for both, and ambiguous or unusual contents losses that would be denied under the HO-3's 16 named perils are covered unless specifically excluded. HO-5 typically costs 5–15% more in premium, but the broader contents coverage can be worth thousands in a single claim. Check your declarations page: \"HO 00 03\" is the standard HO-3 with the peril gap; \"HO 00 05\" is the comprehensive form without it. Some carriers also offer an endorsement that upgrades Coverage C to open perils without changing the entire policy form.",
+          answer: "An HO-5 (sometimes called a comprehensive form) provides open-perils coverage for both the dwelling and personal property — so the burden of proof stays on the insurer for both, and ambiguous or unusual contents losses that would be denied under the HO-3's 16 named perils are covered unless specifically excluded. HO-5 typically costs 5–15% more in premium, but the broader contents coverage can be worth thousands in a single claim. Check your declarations page: \"HO 00 03\" is the standard HO-3 with the peril gap; \"HO 00 05\" is the comprehensive form without it. Some carriers also offer an endorsement that upgrades personal property coverage to open perils without changing the entire policy form.",
         },
         {
           question: "Why shouldn't labor be depreciated on contents claims?",
@@ -618,7 +620,7 @@ export default function Content() {
         },
         {
           question: 'What should I do if my contents claim is denied but the building claim is paid?',
-          answer: "Don't accept the denial without examining the specific basis. The insurer must provide a written explanation identifying which peril they contend does not apply and why. Review the denial against the actual policy language — not a summary or brochure. Ask: does the loss actually fall within one of the 16 named perils even if the insurer characterized it differently (insurers sometimes misclassify the cause to avoid coverage)? Does your policy have an endorsement that modifies the Coverage C peril list? Is there an efficient proximate cause argument — did a covered peril set in motion the chain of events leading to the contents loss? Did the insurer actually investigate before denying, or rely on assumption (a denial based on assumption may violate California's Fair Claims Settlement Practices Regulations)?",
+          answer: "Don't accept the denial without examining the specific basis. The insurer must provide a written explanation identifying which peril they contend does not apply and why. Review the denial against the actual policy language — not a summary or brochure. Ask: does the loss actually fall within one of the 16 named perils even if the insurer characterized it differently (insurers sometimes misclassify the cause to avoid coverage)? Does your policy have an endorsement that modifies the personal property coverage peril list? Is there an efficient proximate cause argument — did a covered peril set in motion the chain of events leading to the contents loss? Did the insurer actually investigate before denying, or rely on assumption (a denial based on assumption may violate California's Fair Claims Settlement Practices Regulations)?",
         },
       ]} />
 
