@@ -304,7 +304,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Violations of the Fair Claims Settlement Practices Regulations do not create a private right of action on their own, but they are admissible as evidence of bad faith in a breach of the implied covenant action. <em>Rattan v. United Services Auto. Ass&apos;n</em> (2001) 84 Cal.App.4th 715 held that an insurer&apos;s violation of the regulations is relevant to whether the insurer breached the covenant of good faith and fair dealing.
+        Violations of the Fair Claims Settlement Practices Regulations do not create a private right of action on their own, but they are admissible as evidence of bad faith in a breach of the implied covenant action. <em>Rattan v. United Services Auto. Ass&apos;n</em> (2000) 84 Cal.App.4th 715 held that an insurer&apos;s violation of the regulations is relevant to whether the insurer breached the covenant of good faith and fair dealing.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California Insurance Code &sect; 790.03</h3>
