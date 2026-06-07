@@ -203,12 +203,13 @@ export default function Content() {
         Step One: Clear and Explicit Language Controls
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Civil Code &sect;&nbsp;1638, when policy language is &ldquo;clear and
-        explicit&rdquo; it governs the interpretation. Under &sect;&nbsp;1644, words are taken
-        in their &ldquo;ordinary and popular sense&rdquo; unless the policy gives them a
-        special technical meaning. A court is not free to rewrite the policy or insert
-        coverage that the language does not provide. This is the part of the framework that
-        favors insurers when the policy is genuinely well-drafted.
+        Under California Civil Code &sect;&nbsp;1638, &ldquo;the language of a contract is to
+        govern its interpretation, if the language is clear and explicit, and does not
+        involve an absurdity.&rdquo; Under &sect;&nbsp;1644, words are taken in their
+        &ldquo;ordinary and popular sense&rdquo; unless the policy gives them a special
+        technical meaning. A court is not free to rewrite the policy or insert coverage that
+        the language does not provide. This is the part of the framework that favors
+        insurers when the policy is genuinely well-drafted.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -238,11 +239,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Coverage grants and exclusions are not treated the same way. Coverage grants are
         construed broadly in favor of the insured; exclusions are construed{' '}
-        <em>narrowly</em> against the insurer. The California Supreme Court reinforced this
-        in <em>TRB Investments, Inc. v. Fireman&apos;s Fund Insurance Co.</em> (2006) 40
-        Cal.4th 19, holding that to be effective an exclusion must be &ldquo;conspicuous,
-        plain and clear.&rdquo; If the carrier wants to take coverage away through an
-        exclusion, the exclusion has to do that work unambiguously on the page.
+        <em>narrowly</em> against the insurer. The canonical California Supreme Court
+        statement of this rule is <em>Haynes v. Farmers Insurance Exchange</em> (2004) 32
+        Cal.4th 1198, which holds that to be effective an exclusion must be
+        &ldquo;conspicuous, plain and clear.&rdquo; If the carrier wants to take coverage
+        away through an exclusion, the exclusion has to do that work unambiguously on the
+        page.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>MacKinnon v. Truck Insurance Exchange</em> (2003) 31 Cal.4th 635 is the leading
