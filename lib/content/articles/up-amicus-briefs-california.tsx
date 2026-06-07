@@ -273,7 +273,7 @@ export default function Content() {
 
         <div className="bg-white border border-gray-200 rounded-lg p-4">
           <p className="font-bold text-gray-900 mb-1">
-            Myasnyankin v. Nationwide Insurance (2023)
+            Myasnyankin v. Nationwide Mutual Ins. Co. (2024) 99 Cal.App.5th 283
           </p>
           <p className="text-sm text-gray-600 mb-2">California Court of Appeal</p>
           <p className="text-gray-700 text-sm mb-2">
