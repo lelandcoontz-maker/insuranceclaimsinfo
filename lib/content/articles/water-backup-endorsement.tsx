@@ -206,17 +206,17 @@ export default function Content() {
         The coverage implications are enormous. A plumbing blockage that causes water to
         overflow from a fixture is, in many cases, an{' '}
         <Link href="/resources/accidental-discharge-overflow" className="text-[#2E74B5] hover:underline">accidental discharge or overflow of water from within a plumbing system</Link>
-        . On the standard HO-3, Coverage A (Dwelling) is written on an open-perils basis &mdash;
+        . On the standard HO-3, the dwelling coverage is written on an open-perils basis &mdash;
         every direct physical loss is covered unless specifically excluded &mdash; and the water
         exclusion that bars &ldquo;water that backs up through sewers or drains&rdquo; does not
         bar discharge or overflow that originates from a plumbing system inside the dwelling.
-        Coverage C (Personal Property) is often written on a named-perils basis &mdash; though
-        not always; some carriers upgrade Coverage C to open perils by endorsement, and HO-5
-        forms write both Coverage A and Coverage C on an open-perils basis &mdash; and where
-        Coverage C is named-perils, accidental discharge or overflow is one of the named
+        Personal property coverage is often written on a named-perils basis &mdash; though
+        not always; some carriers upgrade personal property coverage to open perils by endorsement, and HO-5
+        forms write both the dwelling and personal property coverages on an open-perils basis &mdash; and where
+        the named-perils form applies to personal property, accidental discharge or overflow is one of the named
         perils. Either way, the coverage flows from the base policy. It does not require the
         water backup endorsement. It is not subject to a $5,000 or $10,000 sub-limit. It is
-        covered under the dwelling&rsquo;s full dwelling limit (and Coverage C for personal
+        covered under the dwelling&rsquo;s full dwelling limit (and personal property coverage for personal
         property), subject only to the standard deductible.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -832,9 +832,9 @@ export default function Content() {
           <strong>Additional living expenses</strong> &mdash; If the backup renders your home
           uninhabitable, the question is whether your{' '}
           <Link href="/resources/loss-of-use-maximizing" className="text-[#2E74B5] hover:underline">loss of use</Link>{' '}
-          (Coverage D) is subject to the backup sub-limit or covered separately. Some
+          (Loss of Use coverage) is subject to the backup sub-limit or covered separately. Some
           endorsements include ALE within the sub-limit; others are silent on ALE, which may
-          mean it is covered under the standard Coverage D provision without a sub-limit cap.
+          mean it is covered under the standard Loss of Use provision without a sub-limit cap.
           Read your endorsement carefully.
         </li>
       </ul>
