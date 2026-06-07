@@ -50,7 +50,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Construction costs have risen substantially in recent years. Between material cost
         inflation, labor shortages, and supply chain disruptions, the cost to rebuild a home
-        today is significantly higher than it was even three years ago. If the Coverage A
+        today is significantly higher than it was even three years ago. If the dwelling
         dwelling limit on the{' '}
         <Link href="/resources/declarations-page" className="text-[#2E74B5] underline">
           declarations page
@@ -96,7 +96,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is one of the most fundamental misunderstandings in homeowner insurance. The
-        dwelling limit (Coverage A) should be based on the <em>replacement cost</em> of the
+        dwelling limit should be based on the <em>replacement cost</em> of the
         structure &mdash; what it would cost to rebuild the home from the ground up using
         similar materials and construction methods. It should not be based on the purchase
         price, the assessed value, or the current market value.
@@ -124,7 +124,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In many parts of California and other high-cost states, rebuilding a home to current
         standards costs $300 to $500 or more per square foot &mdash; and in some areas, well
-        above $500. Policyholders can perform a rough check by dividing their Coverage A dwelling
+        above $500. Policyholders can perform a rough check by dividing their dwelling
         limit by their home&rsquo;s square footage. If the result is below $300 per square foot
         in a high-cost area, the home is likely underinsured.
       </p>
@@ -170,7 +170,7 @@ export default function Content() {
         Sign 6: The Personal Property Limit Seems Low for the Household
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage C (personal property) is typically set at a percentage of the dwelling limit,
+        Personal property coverage is typically set at a percentage of the dwelling limit,
         often 50 to 75 percent. For a home with a $500,000 dwelling limit, personal property
         coverage might be $250,000 to $375,000. That may sound like a lot, but the total
         replacement cost of everything inside a typical home &mdash; furniture, clothing,
@@ -201,7 +201,7 @@ export default function Content() {
         Sign 7: The ALE Limit Would Not Cover 12 or More Months of Alternative Housing
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage D &mdash; Additional Living Expenses (ALE), also called Loss of Use &mdash;
+        Loss of Use coverage (Additional Living Expenses, or ALE) &mdash;
         pays for temporary housing and increased living expenses when a covered loss makes the
         home uninhabitable. Most policies set the ALE limit at a percentage of the dwelling
         limit, often 20 to 30 percent.
@@ -232,10 +232,10 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Sign 8: Having a Pool, ADU, or Detached Structures Without Reviewing Coverage B
+        Sign 8: Having a Pool, ADU, or Detached Structures Without Reviewing Other Structures
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage B (Other Structures) covers detached structures on the property &mdash;
+        Other Structures coverage covers detached structures on the property &mdash;
         garages, sheds, fences, retaining walls, pools, pool houses, guesthouses, and
         accessory dwelling units (ADUs). The standard Other Structures limit is 10 percent of the
         dwelling limit. For a home insured at $600,000, that provides $60,000 for all other
@@ -251,7 +251,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> List all detached structures on the property and estimate
         the replacement cost of each. If the total exceeds the Other Structures limit, request an
-        increase. ADUs in particular should prompt a careful Coverage B review.
+        increase. ADUs in particular should prompt a careful Other Structures review.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
