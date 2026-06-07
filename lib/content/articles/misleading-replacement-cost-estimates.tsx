@@ -634,7 +634,7 @@ export default function Content() {
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
           <strong>Maximize every coverage separately.</strong> Ensure that debris removal,
-          ordinance or law, other structures (Coverage B), personal property (Coverage C), and
+          ordinance or law, other structures, personal property, and
           additional living expenses (Coverage D) are all being claimed and paid from their own
           sublimits &mdash; not from Coverage A. Every dollar that comes from a separate
           sublimit preserves your dwelling limit for actual construction.

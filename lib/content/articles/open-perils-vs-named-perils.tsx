@@ -291,10 +291,10 @@ export default function Content() {
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
         You are moving a piece of furniture and accidentally slam it into a large picture
-        window. The window shatters. The window is part of the dwelling (Coverage A).
+        window. The window shatters. The window is part of the dwelling.
         Accidental breakage is not excluded, so the window repair is likely covered. Now
         suppose the same impact also destroyed a flat-screen television sitting near the
-        window. The TV is personal property (Coverage C). Accidental breakage is not a
+        window. The TV is personal property. Accidental breakage is not a
         named peril. No coverage for the television.
       </p>
 
@@ -334,8 +334,8 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The <strong>HO-5</strong> (Comprehensive Form) eliminates the HO-3&rsquo;s split.
-        Under an HO-5 policy, <em>both</em> the dwelling (Coverage A) and personal property
-        (Coverage C) are insured on an open perils basis. This means your belongings get the
+        Under an HO-5 policy, <em>both</em> the dwelling and personal property are insured on
+        an open perils basis. This means your belongings get the
         same &ldquo;covered unless excluded&rdquo; treatment as your house.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

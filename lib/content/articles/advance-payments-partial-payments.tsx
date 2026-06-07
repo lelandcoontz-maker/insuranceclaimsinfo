@@ -595,7 +595,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Dwelling (Coverage A):</strong> Once the carrier has completed its building
+          <strong>Dwelling:</strong> Once the carrier has completed its building
           estimate, the actual cash value of the building damage is due promptly &mdash; less the
           deductible and any{' '}
           <Link href="/resources/recoverable-depreciation-deadline" className="text-[#2E74B5] underline">
@@ -604,7 +604,7 @@ export default function Content() {
           . The carrier cannot delay this payment because it is still working on contents or ALE.
         </li>
         <li>
-          <strong>Personal Property (Coverage C):</strong> The carrier must pay undisputed contents
+          <strong>Personal Property:</strong> The carrier must pay undisputed contents
           amounts as they are determined. If the insured has submitted a partial inventory covering
           half their belongings, the carrier should pay on those items while the inventory continues.
           Waiting for a &ldquo;complete&rdquo; inventory before paying anything on contents is a

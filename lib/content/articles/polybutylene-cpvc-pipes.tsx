@@ -210,7 +210,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Check Your Law and Ordinance Coverage">
         <p>
           Many California homeowner&rsquo;s policies include some amount of law and ordinance
-          coverage, often 10% of Coverage A. On a PB or CPVC claim, this coverage can be
+          coverage, often 10% of the dwelling limit. On a PB or CPVC claim, this coverage can be
           substantial &mdash; especially if a repipe requires upgrading to copper or PEX
           throughout the affected area. Do not let the carrier call this betterment. It is a
           code-mandated upgrade.

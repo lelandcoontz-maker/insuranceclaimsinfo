@@ -183,7 +183,7 @@ export default function Content() {
         <strong>What it costs:</strong> Ordinance or law endorsements typically add 5% to 15%
         to the dwelling premium for 25% to 50% additional coverage. Some carriers offer it as
         an included feature on higher-tier policies, though the included percentages may be
-        modest (10% of Coverage A).
+        modest (10% of the dwelling limit).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What happens without it:</strong> A fire damages 60% of your 1985 ranch home.

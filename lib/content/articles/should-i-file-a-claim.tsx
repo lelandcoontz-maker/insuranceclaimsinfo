@@ -122,7 +122,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some policies — especially earthquake and wind/hail policies — have percentage
-        deductibles: 5%, 10%, or even 15% of Coverage A. On a home insured for $500,000,
+        deductibles: 5%, 10%, or even 15% of the dwelling limit. On a home insured for $500,000,
         a 5% deductible is $25,000. You must sustain that much damage before the insurer
         pays anything.
       </p>

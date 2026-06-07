@@ -50,7 +50,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Personal property (Coverage C)</strong> &mdash; furniture, clothing, electronics, kitchenware, and everything the tenant owns</li>
-        <li><strong>Additional Living Expenses / Loss of Use (Coverage D)</strong> &mdash; the tenant&rsquo;s increased costs when displaced from the rental, including temporary housing, increased food costs, and other expenses above normal spending</li>
+        <li><strong>Additional Living Expenses / Loss of Use</strong> &mdash; the tenant&rsquo;s increased costs when displaced from the rental, including temporary housing, increased food costs, and other expenses above normal spending</li>
         <li><strong>Tenant&rsquo;s improvements and betterments</strong> &mdash; upgrades the tenant paid for, such as custom flooring, built-in shelving, or upgraded fixtures (often subject to a sublimit)</li>
         <li><strong>Personal liability (Coverage E)</strong> &mdash; if the tenant causes damage to the building or injures someone</li>
       </ul>

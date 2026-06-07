@@ -87,7 +87,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Lightning</strong> is a named peril on standard homeowner&apos;s policies (HO-3,
         HO-5, and similar forms). Damage caused by lightning is covered under both the dwelling
-        (Coverage A) and personal property (Coverage C) sections. There is typically no sublimit
+        and personal property sections. There is typically no sublimit
         &mdash; your full policy limits apply.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

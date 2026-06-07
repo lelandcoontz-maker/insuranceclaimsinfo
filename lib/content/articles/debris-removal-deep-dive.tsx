@@ -155,7 +155,7 @@ export default function Content() {
         Coverage B / Coverage C Debris Removal
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Debris removal also applies to other structures (Coverage B) and personal property (Coverage C). The cost of hauling away destroyed personal property &mdash; furniture, appliances, clothing, electronics &mdash; is a debris removal expense, not a contents valuation issue.
+        Debris removal also applies to other structures and personal property. The cost of hauling away destroyed personal property &mdash; furniture, appliances, clothing, electronics &mdash; is a debris removal expense, not a contents valuation issue.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Think about what happens after a fire: everything that&apos;s destroyed needs to be inventoried (for the contents claim), then physically removed from the property, loaded into trucks, hauled to the dump, and disposed of. The cost of that physical removal and disposal is a debris removal expense that&apos;s separate from the value of the items themselves.

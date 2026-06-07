@@ -873,7 +873,7 @@ export default function Content() {
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Know the 10% sublimit.</strong> If your HO-4 provides 10% of Coverage C for
+          <strong>Know the 10% sublimit.</strong> If your HO-4 provides 10% of the personal property limit for
           improvements, calculate whether that is enough for what you have installed. If not,
           ask your insurer about increasing it.
         </li>

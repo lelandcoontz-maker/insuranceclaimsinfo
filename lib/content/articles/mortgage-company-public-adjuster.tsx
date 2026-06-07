@@ -102,7 +102,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Important limitation:</strong> This applies only to Coverage A (Dwelling) and
         Coverage B (Other Structures). The mortgage company is <strong>not</strong> entitled to be a
-        payee on personal property (Coverage C) or additional living expense / temporary housing
+        payee on personal property or additional living expense / temporary housing
         (Coverage D) payments. Those coverages are for the insured&apos;s personal benefit and have
         nothing to do with the lender&apos;s collateral interest.
       </p>
@@ -216,7 +216,7 @@ export default function Content() {
         <strong>legitimate interests</strong> in the claim:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Being included as a payee on dwelling (Coverage A) and other structures (Coverage B) checks</li>
+        <li>Being included as a payee on dwelling and other structures checks</li>
         <li>Receiving copies of dwelling repair estimates and invoices</li>
         <li>Receiving accounting of dwelling-related payments</li>
         <li>Being notified of any denial or cancellation</li>

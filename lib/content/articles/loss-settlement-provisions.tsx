@@ -90,7 +90,7 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Dwelling (Coverage A) Settlement
+        Dwelling Settlement
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         For dwelling damage, the loss settlement provision typically states that the insurer will
@@ -110,7 +110,7 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Personal Property (Coverage C) Settlement
+        Personal Property Settlement
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Contents claims follow the same two-step process but with some important differences:

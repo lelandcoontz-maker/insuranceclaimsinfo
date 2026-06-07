@@ -311,7 +311,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some carriers classify permanently installed solar systems as
-        personal property (Coverage C) instead of building property (Coverage A). This reduces
+        personal property instead of building property (Coverage A). This reduces
         limits and applies depreciation. A roof-mounted, permanently wired solar system is a
         building component. Challenge any Coverage C classification.
       </p>

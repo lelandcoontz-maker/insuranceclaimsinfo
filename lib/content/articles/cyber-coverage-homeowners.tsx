@@ -308,8 +308,8 @@ export default function Content() {
         </Link>{' '}
         or part of the dwelling? The answer depends on how the device is installed. A
         smart thermostat that is hardwired into the HVAC system and attached to the wall
-        is likely part of the dwelling (Coverage A). A portable smart speaker that sits on
-        a shelf is personal property (Coverage C). A video doorbell that replaces a
+        is likely part of the dwelling. A portable smart speaker that sits on
+        a shelf is personal property. A video doorbell that replaces a
         standard doorbell and is wired into the home&rsquo;s electrical system occupies
         a gray area &mdash; it is both a consumer electronic device and a building component.
       </p>

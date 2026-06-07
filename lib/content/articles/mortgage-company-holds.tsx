@@ -46,7 +46,7 @@ export default function Content() {
         make sure the property (their collateral) gets rebuilt. The insurance policy&apos;s mortgage
         clause (California Insurance Code Section 2071) then requires the insurer to name the
         mortgagee on any dwelling payment. As a result, any insurance payment for dwelling damage
-        (Coverage A) or other structures (Coverage B) is typically made payable to both you and the
+        (Coverage A) or other structures is typically made payable to both you and the
         lender.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -41,8 +41,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard HO-3 homeowner policy contains an exclusion for damage caused by
         &ldquo;birds, vermin, rodents, or insects.&rdquo; This exclusion is found in the
-        Losses Not Insured section of the policy, and it applies to damage to the dwelling
-        (Coverage A), other structures (Coverage B), and personal property (Coverage C). A
+        Losses Not Insured section of the policy, and it applies to damage to the dwelling,
+        other structures, and personal property. A
         bedbug infestation falls squarely within this exclusion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

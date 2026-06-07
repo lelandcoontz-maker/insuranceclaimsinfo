@@ -75,7 +75,7 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How the Clause Works for Personal Property (Coverage C)
+        How the Clause Works for Personal Property
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The pair and set clause is most commonly invoked for personal property claims under

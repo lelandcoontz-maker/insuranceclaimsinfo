@@ -44,12 +44,11 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard ISO HO-3 homeowner&rsquo;s policy is an &ldquo;open perils&rdquo; form for
-        the dwelling (Coverage A) and &ldquo;named perils&rdquo; for personal property
-        (Coverage C). For Coverage A, accidental discharge does not need to be listed as a
-        named peril because Coverage A covers all risks of direct physical loss unless
-        specifically excluded. The real importance of the named peril language is for
-        Coverage C &mdash; your personal property &mdash; where it appears as one of the 16
-        named perils.
+        the dwelling and &ldquo;named perils&rdquo; for personal property. For the dwelling,
+        accidental discharge does not need to be listed as a named peril because the dwelling
+        coverage covers all risks of direct physical loss unless specifically excluded. The
+        real importance of the named peril language is for personal property &mdash; where it
+        appears as one of the 16 named perils.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The ISO HO-3 describes this peril as:

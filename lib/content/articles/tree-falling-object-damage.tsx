@@ -40,7 +40,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under the standard HO-3 homeowner&rsquo;s policy, falling objects are covered in two
-        ways. The dwelling (Coverage A) is written on an open-perils basis, meaning all risks of
+        ways. The dwelling is written on an open-perils basis, meaning all risks of
         direct physical loss are covered unless specifically excluded. Falling trees, branches,
         and other objects are not excluded, so damage to your dwelling is covered.
       </p>
@@ -139,7 +139,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Fences, detached garages, sheds, and carports are covered under Coverage B (typically
-        10% of Coverage A). Fencing damage from falling trees is one of the most commonly
+        10% of the dwelling limit). Fencing damage from falling trees is one of the most commonly
         underpaid items &mdash; carriers estimate a short section of repair when the entire run
         may need replacement for structural integrity and matching.
       </p>

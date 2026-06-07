@@ -31,8 +31,8 @@ export default function Content() {
         The HO-3 Split
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard HO-3 homeowners policy covers your dwelling (Coverage A) on an
-        &ldquo;open perils&rdquo; basis and your personal property (Coverage C) on a
+        The standard HO-3 homeowners policy covers your dwelling on an
+        &ldquo;open perils&rdquo; basis and your personal property on a
         &ldquo;named perils&rdquo; basis. These are fundamentally different approaches to
         coverage, and the difference can determine whether your claim is paid or denied.
       </p>
@@ -70,7 +70,7 @@ export default function Content() {
         it is not covered.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under a standard HO-3, the named perils for personal property (Coverage C) are:
+        Under a standard HO-3, the named perils for personal property are:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>Fire or lightning</li>

@@ -233,7 +233,7 @@ export default function Content() {
         <p>
           If you have installed flooring, fixtures, shelving, or any other improvements in your
           rental, photograph them, keep receipts, and check whether your HO-4 improvements limit
-          is adequate. If you have invested more than 10% of your Coverage C limit, contact your
+          is adequate. If you have invested more than 10% of your personal property limit limit, contact your
           agent about increasing the coverage.
         </p>
       </CalloutBox>

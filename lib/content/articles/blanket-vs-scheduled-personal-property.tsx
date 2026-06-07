@@ -451,7 +451,7 @@ export default function Content() {
       <QABlock pairs={[
         {
           question: 'What is the difference between blanket and scheduled personal property coverage?',
-          answer: 'Blanket (unscheduled) Coverage C is the standard contents coverage that comes with every homeowners policy — a single aggregate limit (typically 50–75% of Coverage A) that applies to all your personal property, subject to special sub-limits for certain categories and to depreciation. Scheduled personal property is a separate endorsement (also called a personal articles floater) that lists specific items individually at agreed values. Scheduled items get agreed-value coverage, no sub-limits, broader "open perils" rather than named-perils, often no deductible, and worldwide coverage — at the cost of additional premium.',
+          answer: 'Blanket (unscheduled) Coverage C is the standard contents coverage that comes with every homeowners policy — a single aggregate limit (typically 50–75% of the dwelling limit) that applies to all your personal property, subject to special sub-limits for certain categories and to depreciation. Scheduled personal property is a separate endorsement (also called a personal articles floater) that lists specific items individually at agreed values. Scheduled items get agreed-value coverage, no sub-limits, broader "open perils" rather than named-perils, often no deductible, and worldwide coverage — at the cost of additional premium.',
         },
         {
           question: 'What are the standard sub-limits I should know about?',

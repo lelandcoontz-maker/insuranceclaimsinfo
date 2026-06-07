@@ -85,7 +85,7 @@ export default function Content() {
         <p>
           A theft from your home is covered up to the full Coverage C limit (subject to sublimits on
           specific categories). A theft that occurs away from home &mdash; from your car, a storage
-          unit, a hotel room, or anywhere else &mdash; is limited to 10% of Coverage C. Always
+          unit, a hotel room, or anywhere else &mdash; is limited to 10% of the personal property limit. Always
           identify where the theft occurred, because this determines the available coverage limit.
         </p>
       </CalloutBox>

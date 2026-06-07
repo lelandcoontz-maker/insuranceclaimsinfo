@@ -48,7 +48,7 @@ export default function Content() {
         to detached garages, fences, retaining walls, and sheds. Coverage B is an open-peril
         coverage &mdash; it covers all causes of loss unless a specific exclusion removes
         coverage &mdash; but it comes with a significant limitation: the default limit is
-        only <strong>10% of your Coverage A (dwelling) limit</strong>.
+        only <strong>10% of your dwelling limit (dwelling) limit</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         That means if your dwelling is insured for $600,000, your total Coverage B limit for
@@ -94,7 +94,7 @@ export default function Content() {
         <p>
           On most policies, if a pool is separately scheduled for a specific dollar amount,
           the total available coverage for that pool may be the <strong>scheduled amount
-          plus</strong> up to 10% of Coverage A from the general Coverage B allocation. You can
+          plus</strong> up to 10% of the dwelling limit from the general Coverage B allocation. You can
           pull from both lines. Here is an example:
         </p>
         <ul className="list-disc pl-6 space-y-2 mt-3">
@@ -372,8 +372,8 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A pool leak creates an unusual coverage situation: the pool itself is covered under
-        Coverage B, but the water from the leak may damage the dwelling (Coverage A) and
-        personal property (Coverage C). When a pool supply line bursts underground and water
+        Coverage B, but the water from the leak may damage the dwelling and
+        personal property. When a pool supply line bursts underground and water
         migrates under the foundation, causing settlement, cracking, and interior damage,
         you may have a claim under multiple coverages simultaneously.
       </p>

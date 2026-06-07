@@ -43,7 +43,7 @@ export default function Content() {
         Homeowner&rsquo;s Policies Are Package Deals
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A standard HO-3 bundles everything into one package: dwelling (Coverage A), other
+        A standard HO-3 bundles everything into one package: dwelling, other
         structures (B), personal property (C), loss of use (D), personal liability (E), and
         medical payments (F). The coverages are linked &mdash; personal property is automatically
         set at a percentage of the dwelling limit, and loss of use is included without a separate
@@ -262,7 +262,7 @@ export default function Content() {
         <Link href="/resources/business-interruption" className="text-blue-700 underline hover:text-blue-900">
           Business income coverage
         </Link>{' '}
-        is the commercial equivalent of a homeowner&rsquo;s loss of use (Coverage D) &mdash; but
+        is the commercial equivalent of a homeowner&rsquo;s loss of use &mdash; but
         orders of magnitude more complex and more aggressively contested. If building damage is the
         visible wound, business income loss is the hemorrhage happening underneath.
       </p>

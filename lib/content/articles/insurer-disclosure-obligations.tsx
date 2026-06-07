@@ -205,7 +205,7 @@ export default function Content() {
         </h3>
         <ul className="list-disc pl-6 space-y-3 text-gray-700">
           <li>
-            <strong>Additional Living Expenses (ALE) / Loss of Use (Coverage D):</strong>{' '}
+            <strong>Additional Living Expenses (ALE) / Loss of Use:</strong>{' '}
             One of the most commonly overlooked coverages. If your home is uninhabitable or
             under repair, you are entitled to temporary housing, meals above your normal cost,
             storage, pet boarding, additional commuting costs, and other expenses necessary to
@@ -255,7 +255,7 @@ export default function Content() {
           <li>
             <strong>Coverage B (Other Structures):</strong>{' '}
             Fences, detached garages, sheds, retaining walls, driveways, patios, and pool
-            equipment are covered under a separate limit &mdash; typically 10% of Coverage A
+            equipment are covered under a separate limit &mdash; typically 10% of the dwelling limit
             &mdash; that many policyholders never hear about. In declared disasters, California
             Insurance Code &sect; 10103.7 allows policyholders to combine Coverage A and
             Coverage B limits toward rebuilding the primary dwelling if the dwelling limits

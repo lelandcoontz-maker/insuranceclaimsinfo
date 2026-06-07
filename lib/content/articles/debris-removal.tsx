@@ -50,7 +50,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="The 5% Only Kicks In When You Need It">
         <p>
-          The additional 5% of Coverage A for debris removal only activates when the combined cost
+          The additional 5% of the dwelling limit for debris removal only activates when the combined cost
           of the dwelling loss plus debris removal exceeds the Coverage A limit. If the total loss
           stays within Coverage A, debris removal is simply paid from within that limit. This is an
           important distinction — the 5% is not automatically available on every claim. It is a
@@ -76,7 +76,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        1. Dwelling (Coverage A)
+        1. Dwelling
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is what most people think of when they hear &quot;debris removal&quot; — the cost of
@@ -87,7 +87,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        2. Other Structures (Coverage B)
+        2. Other Structures
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Detached structures on your property each generate their own debris removal costs. This
@@ -103,7 +103,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowners policies include a separate coverage for trees, shrubs, and other plants —
-        often up to $500 per tree or plant, with a total cap of around 5% of Coverage A. When
+        often up to $500 per tree or plant, with a total cap of around 5% of the dwelling limit. When
         covered trees and landscaping are destroyed by a covered peril, the cost of removing them is
         a debris removal expense. This is not just cutting down a burned tree trunk. It includes
         stump grinding, root removal, hauling the biomass, and disposing of it properly. For
@@ -112,7 +112,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        4. Personal Property (Coverage C)
+        4. Personal Property
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When personal property is destroyed — especially in a total loss — the cost of removing,

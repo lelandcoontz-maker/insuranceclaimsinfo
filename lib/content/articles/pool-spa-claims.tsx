@@ -43,7 +43,7 @@ export default function Content() {
         classified as an <strong>&ldquo;other structure&rdquo;</strong> under Coverage B. This is
         the same coverage that applies to detached garages, fences, retaining walls, and sheds.
         Coverage B is open-peril &mdash; it covers all causes of loss unless a specific exclusion
-        applies &mdash; but the default limit is only <strong>10% of your Coverage A dwelling
+        applies &mdash; but the default limit is only <strong>10% of your dwelling limit dwelling
         limit</strong>. That 10% must cover every other structure on the property, not just
         the pool.
       </p>

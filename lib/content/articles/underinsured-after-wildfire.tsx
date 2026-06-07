@@ -126,7 +126,7 @@ export default function Content() {
         <li>The value of the undamaged portion that must be demolished</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        O&amp;L limits are often 10–25% of Coverage A. If your O&amp;L is 10% on a $500,000
+        O&amp;L limits are often 10–25% of the dwelling limit. If your O&amp;L is 10% on a $500,000
         policy, that is only $50,000 for code upgrades — which may not be enough. Review your{' '}
         <Link href="/resources/ordinance-law" className="text-[#2E74B5] hover:underline">O&amp;L coverage guide</Link>{' '}
         for details.

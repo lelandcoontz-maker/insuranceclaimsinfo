@@ -479,7 +479,7 @@ export default function Content() {
         <li>
           <strong>Allocating all demolition to debris removal:</strong> The carrier may try to
           allocate all demolition and removal costs to the debris removal additional coverage
-          (typically limited to 5% of Coverage A), rather than properly splitting costs between
+          (typically limited to 5% of the dwelling limit), rather than properly splitting costs between
           Coverage A (damaged portion) and Ordinance or Law (undamaged portion). This
           dramatically underpays the claim.
         </li>
