@@ -73,7 +73,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Earthquake deductibles are the most significant percentage deductibles California
         policyholders encounter. The California Earthquake Authority (CEA) offers deductible
-        options of 5%, 10%, 15%, 20%, or 25% of the Coverage A dwelling limit. At a 15%
+        options of 5%, 10%, 15%, 20%, or 25% of the dwelling limit. At a 15%
         deductible on a home insured for $700,000, you are responsible for the first $105,000 of
         earthquake damage out of your own pocket.
       </p>
@@ -88,9 +88,9 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="CEA Deductible Applies to Dwelling Only">
         <p>
-          The CEA percentage deductible applies to Coverage A (Dwelling) only. If you purchased
-          optional Coverage C (Personal Property), it has its own separate deductible &mdash;
-          typically a flat dollar amount between $2,500 and $25,000. Coverage D (Loss of Use) has
+          The CEA percentage deductible applies to the dwelling coverage only. If you purchased
+          optional personal property coverage, it has its own separate deductible &mdash;
+          typically a flat dollar amount between $2,500 and $25,000. Loss of Use coverage has
           <strong> no deductible</strong> at all.
         </p>
       </CalloutBox>
@@ -112,7 +112,7 @@ export default function Content() {
         In coastal and hurricane-prone states &mdash; Florida, Texas, Louisiana, the Carolinas,
         and others &mdash; wind or hurricane deductibles of 2% to 10% of the dwelling value are
         common. These function the same way as earthquake percentage deductibles: the deductible
-        is calculated as a percentage of Coverage A, and the policyholder absorbs that amount
+        is calculated as a percentage of the dwelling limit, and the policyholder absorbs that amount
         before the carrier pays anything.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -139,7 +139,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is not a misapplication &mdash; it is how percentage deductibles work by design.
-        The deductible is set at a percentage of Coverage A to keep premiums affordable for
+        The deductible is set at a percentage of the dwelling limit to keep premiums affordable for
         catastrophic peril coverage. But it means that anything less than catastrophic damage
         to a well-insured home may produce zero recovery. Before filing an earthquake claim,
         calculate whether the damage exceeds your deductible. If it does not, filing the claim
@@ -367,15 +367,15 @@ export default function Content() {
         Applying the Deductible to the Wrong Coverage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Your homeowner policy has multiple coverage parts: Coverage A (Dwelling), Coverage B
-        (Other Structures), Coverage C (Personal Property), and Coverage D (Loss of Use). The
-        standard deductible typically applies to property damage coverages (A, B, and C) but
-        does <strong>not</strong> apply to Loss of Use / Additional Living
-        Expenses. If a carrier subtracts the deductible from your ALE payment, that is an error.
+        Your homeowner policy has multiple coverage parts: dwelling, Other Structures,
+        personal property, and Loss of Use. The
+        standard deductible typically applies to the property damage coverages (dwelling,
+        Other Structures, and personal property) but does <strong>not</strong> apply to
+        Loss of Use / Additional Living Expenses. If a carrier subtracts the deductible from your ALE payment, that is an error.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Similarly, some carriers incorrectly apply the property deductible to a liability claim
-        under Coverage E, or apply a dwelling deductible to a Contents-only claim where a
+        under personal liability, or apply a dwelling deductible to a Contents-only claim where a
         separate contents deductible should apply. Always check which coverage part the deductible
         is being applied to and whether that matches your policy language.
       </p>
