@@ -94,7 +94,7 @@ export default function Content() {
         Where the Deductible Gets Subtracted
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        By tradition, the deductible is typically subtracted from the Coverage A (Dwelling)
+        By tradition, the deductible is typically subtracted from the dwelling
         payment. This is the standard practice on most homeowner claims because the dwelling
         is usually the largest component of the loss. But there is no hard rule in most policies
         requiring the deductible to be subtracted from a specific coverage part. The deductible
@@ -102,9 +102,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This matters in practice. Consider a scenario where a tree falls and crushes a detached
-        garage but does not damage the main dwelling. There is no Coverage A (Dwelling) payment
-        in that scenario &mdash; the entire claim is under Coverage B (Other Structures). The
-        deductible gets subtracted from the Coverage B payment because that is the only coverage
+        garage but does not damage the main dwelling. There is no dwelling payment
+        in that scenario &mdash; the entire claim is under Other Structures coverage. The
+        deductible gets subtracted from the Other Structures payment because that is the only coverage
         involved.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -113,8 +113,8 @@ export default function Content() {
         <Link href="/resources/statement-of-loss" className="text-blue-700 underline hover:text-blue-900">
           statement of loss
         </Link>{' '}
-        might change &mdash; the carrier might shift the deductible to the Coverage A dwelling
-        payment instead of the Coverage B other structures payment, or they might simply leave
+        might change &mdash; the carrier might shift the deductible to the dwelling
+        payment instead of the Other Structures payment, or they might simply leave
         the calculation the way it was initially done. Either way, the deductible is applied
         once per occurrence, not once per coverage part. For more on this distinction, see our{' '}
         <Link href="/resources/deductibles-guide" className="text-blue-700 underline hover:text-blue-900">
@@ -126,19 +126,18 @@ export default function Content() {
         Multi-Coverage Claims
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Many losses involve more than one coverage part. A fire might produce a Coverage A
-        (Dwelling) payment, a Coverage B (Other Structures) payment for a damaged shed, a
-        Coverage C (Personal Property) payment for destroyed contents, and a Coverage D (Loss
-        of Use) payment for temporary housing while the home is repaired. Each coverage part
-        has its own limit shown on the{' '}
+        Many losses involve more than one coverage part. A fire might produce a dwelling
+        payment, an Other Structures payment for a damaged shed, a personal property payment
+        for destroyed contents, and a Loss of Use payment for temporary housing while the home
+        is repaired. Each coverage part has its own limit shown on the{' '}
         <Link href="/resources/declarations-page" className="text-blue-700 underline hover:text-blue-900">
           declarations page
         </Link>,
         and each is calculated separately.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The deductible applies only once to the entire occurrence. Coverage D (Loss of Use /
-        Additional Living Expenses) has <strong>no deductible</strong> at all on most homeowner
+        The deductible applies only once to the entire occurrence. Loss of Use coverage
+        (Additional Living Expenses) has <strong>no deductible</strong> at all on most homeowner
         policies. If the carrier subtracts the deductible from your ALE payment, that is
         typically an error.
       </p>
@@ -285,7 +284,7 @@ export default function Content() {
         <li><strong>Initial dwelling payment: $105,500</strong></li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-2">
-        <strong>Coverage C &mdash; Contents:</strong>
+        <strong>Personal Property:</strong>
       </p>
       <ul className="list-disc pl-6 space-y-1 text-gray-700 mb-4">
         <li>RCV: $35,000</li>
@@ -295,7 +294,7 @@ export default function Content() {
         <li><strong>Initial contents payment: $28,000</strong></li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-2">
-        <strong>Coverage D &mdash; Additional Living Expenses:</strong>
+        <strong>Additional Living Expenses:</strong>
       </p>
       <ul className="list-disc pl-6 space-y-1 text-gray-700 mb-4">
         <li>Hotel, meals, and increased costs during repairs: $18,000</li>
