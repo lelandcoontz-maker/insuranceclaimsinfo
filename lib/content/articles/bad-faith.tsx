@@ -367,12 +367,13 @@ export default function Content() {
           was unlikely to appeal and was in the process of updating its policy language.
         </li>
         <li>
-          <strong>Regulatory:</strong> In May 2025, the California Department of Insurance
-          issued a formal legal directive declaring the FAIR Plan&rsquo;s &ldquo;permanent
-          damage&rdquo; policy language unlawful and unenforceable. In July 2025, CDI filed
-          an Order to Show Cause and proposed cease-and-desist order against the FAIR Plan
-          based on its systematic application of the language to deny and limit smoke
-          damage claims.
+          <strong>Regulatory:</strong> The California Department of Insurance has publicly
+          taken the position that the FAIR Plan&rsquo;s &ldquo;permanent damage&rdquo;
+          smoke-restriction language does not comply with California law, and the FAIR Plan
+          has indicated it is in the process of revising the language. The specific
+          regulatory actions and any formal CDI directive or enforcement order should be
+          confirmed against current CDI publications before relied on in litigation; the
+          article is not citing a specific docket here.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -568,13 +569,14 @@ export default function Content() {
         imposes a meaningful ceiling. The U.S. Supreme Court held in{' '}
         <em>State Farm Mut. Auto. Ins. Co. v. Campbell</em> (2003) 538 U.S. 408, 425, that
         &ldquo;few awards exceeding a single-digit ratio between punitive and compensatory
-        damages, to a significant degree, will satisfy due process.&rdquo; The California Supreme
-        Court applied this rule in <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th
-        1159, 1182, observing that ratios significantly greater than 9 or 10 to 1 are suspect.
-        And in <em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686, 719, the California Supreme
-        Court held that where compensatory damages are &ldquo;substantial&rdquo; (and especially
-        where they include a significant noneconomic component), a 1:1 ratio may be the
-        constitutional maximum.
+        damages, to a significant degree, will satisfy due process.&rdquo; The California
+        Supreme Court applied this guidance in <em>Simon v. San Paolo U.S. Holding Co.</em>
+        (2005) 35 Cal.4th 1159, reducing a 10:1 punitive award to a 1:1 ratio in the
+        circumstances of that case and treating double-digit ratios as constitutionally
+        problematic outside narrow circumstances. And in <em>Roby v. McKesson Corp.</em> (2009)
+        47 Cal.4th 686, 719, the California Supreme Court held that where compensatory damages
+        are &ldquo;substantial&rdquo; (and especially where they include a significant
+        noneconomic component), a 1:1 ratio may be the constitutional maximum.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In practice, this means that the realistic punitive damages exposure in California
