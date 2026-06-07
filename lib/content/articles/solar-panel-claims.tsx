@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Solar Panel Damage Insurance Claims: Coverage Disputes, Fire Code Setbacks, and Lease Complications',
   description:
-    'Solar panels on California homes create unique insurance claim issues — Coverage A vs. B disputes, microinverter compatibility, fire code setback requirements, lease complications, and carrier tactics for underpaying panel damage.',
+    'Solar panels on California homes create unique insurance claim issues — Dwelling vs. Other Structures disputes, microinverter compatibility, fire code setback requirements, lease complications, and carrier tactics for underpaying panel damage.',
   summary:
-    'Solar panel claims raise Coverage A versus B disputes, microinverter compatibility, fire-code setback requirements, and lease complications. Carriers underpay panel damage; know how your system is insured and the code rules that drive the true repair cost.',
+    'Solar panel claims raise Dwelling versus Other Structures disputes, microinverter compatibility, fire-code setback requirements, and lease complications. Carriers underpay panel damage; know how your system is insured and the code rules that drive the true repair cost.',
 }
 
 export default function Content() {
@@ -39,14 +39,14 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Coverage A vs. Coverage B: Are Solar Panels Part of the Dwelling?
+        Dwelling vs. Other Structures: Are Solar Panels Part of the Dwelling?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The first coverage question in any solar panel claim is classification. Under a standard
-        HO-3 policy, Coverage A insures the dwelling and &ldquo;structures attached to the
-        dwelling.&rdquo; Coverage B insures other structures &mdash; detached garages, sheds,
+        HO-3 policy, the dwelling coverage insures the dwelling and &ldquo;structures attached to the
+        dwelling.&rdquo; Other Structures coverage insures other structures &mdash; detached garages, sheds,
         fences, and similar items &mdash; typically at 10% of the dwelling limit. The
-        distinction matters because Coverage B has a lower limit, and some policies apply
+        distinction matters because Other Structures coverage has a lower limit, and some policies apply
         different deductibles or exclusions to other structures.
       </p>
 
@@ -65,7 +65,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Ground-mounted solar arrays &mdash; installed on posts or frames in the yard, separate
         from the dwelling structure &mdash; are properly classified as other structures under
-        Coverage B. They are not attached to the dwelling. The 10% Other Structures limit may be
+        Other Structures coverage. They are not attached to the dwelling. The 10% Other Structures limit may be
         adequate for a small array, but larger ground-mounted systems can easily exceed that
         limit. If you have a ground-mounted system, check your Other Structures limit and consider an
         endorsement to increase it.
@@ -73,13 +73,13 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The Personal Property Trick">
         <p>
-          Some carriers attempt to classify solar panels as <strong>personal property</strong>{' '}
-          under Coverage C, which typically has lower limits and applies actual cash value (ACV)
+          Some carriers attempt to classify solar panels as <strong>personal property</strong>,
+          which typically has lower limits and applies actual cash value (ACV)
           depreciation rather than replacement cost. This is wrong for any permanently installed
           system. Solar panels bolted to your roof or cemented into the ground are not personal
           property any more than your furnace or water heater is personal property. They are
           permanently installed building components. If your carrier classifies your solar system
-          under Coverage C, challenge it &mdash; this classification significantly reduces your
+          as personal property, challenge it &mdash; this classification significantly reduces your
           recovery.
         </p>
       </CalloutBox>
@@ -148,7 +148,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Whether this is covered depends on your policy language and the nature of the loss. If
-        you are displaced and receiving additional living expenses (ALE) under Coverage D, the
+        you are displaced and receiving additional living expenses (ALE) under Loss of Use coverage, the
         lost energy production is arguably irrelevant because you are not living in the home
         and not paying the utility bill. But if you remain in the home while the roof is
         repaired and the solar system is disconnected, your utility costs increase &mdash; and
@@ -188,7 +188,7 @@ export default function Content() {
         reinstallation work. These companies charge a premium for R&amp;R services, and the
         homeowner has no ability to shop for a lower price. The R&amp;R cost is part of the
         repair cost caused by the covered loss and should be included in the claim under
-        Coverage A.
+        the dwelling coverage.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -311,9 +311,9 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some carriers classify permanently installed solar systems as
-        personal property instead of building property (Coverage A). This reduces
+        personal property instead of building property. This reduces
         limits and applies depreciation. A roof-mounted, permanently wired solar system is a
-        building component. Challenge any Coverage C classification.
+        building component. Challenge any personal-property classification.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
