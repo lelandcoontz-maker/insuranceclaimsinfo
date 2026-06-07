@@ -34,7 +34,7 @@ export default function Content() {
         Gravestones and Burial Markers at Off-Site Cemetery Plots
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage C (Personal Property) in a standard homeowner&rsquo;s policy covers your personal
+        Personal property coverage in a standard homeowner&rsquo;s policy covers your personal
         property <em>wherever it is located in the world</em>. This includes property that has
         never been inside your home and never will be. One of the most overlooked applications of
         this principle is coverage for gravestones, headstones, and burial markers at off-site
@@ -71,7 +71,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most practically valuable &mdash; and widely unknown &mdash; features of the
-        homeowner&rsquo;s policy is its extension of Coverage C to the personal property of
+        homeowner&rsquo;s policy is its extension of personal property coverage to the personal property of
         resident family members who are temporarily away from home. For millions of families, this
         means that a college student&rsquo;s belongings in a campus dormitory are covered under
         the parents&rsquo; homeowner&rsquo;s policy.
@@ -89,9 +89,9 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard HO-3 policy extends Coverage C to cover the personal property of an insured
+        The standard HO-3 policy extends personal property coverage to cover the personal property of an insured
         while it is anywhere in the world, subject to an off-premises sublimit &mdash; typically
-        10 percent of the total personal property limit. If your policy provides $100,000 in Coverage C,
+        10 percent of the total personal property limit. If your policy provides $100,000 in personal property coverage,
         that means up to $10,000 in coverage for your student&rsquo;s belongings at school. For
         most students, this is more than adequate.
       </p>
@@ -118,7 +118,7 @@ export default function Content() {
         Medical Payments to Workers Injured on the Property
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage F (Medical Payments to Others) is one of the least understood provisions in the
+        Medical Payments to Others is one of the least understood provisions in the
         homeowner&rsquo;s policy, and one of the most useful. It pays the medical expenses of
         people who are injured on your property or as a result of your activities &mdash;
         <strong> regardless of whether you were at fault</strong>. This is not liability coverage
@@ -132,31 +132,32 @@ export default function Content() {
         electricians, roofers, tree trimmers, delivery drivers, mail carriers, house cleaners,
         and other independent contractors regularly set foot on your property. If any of these
         workers is injured while on your premises &mdash; a landscaper trips on a garden hose,
-        a painter falls from a ladder, a plumber slips on a wet floor &mdash; Coverage F provides
+        a painter falls from a ladder, a plumber slips on a wet floor &mdash; Medical Payments provides
         medical expense coverage for that injury.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Typical Coverage F limits range from $1,000 to $5,000 per person per occurrence. While
+        Typical Medical Payments limits range from $1,000 to $5,000 per person per occurrence. While
         these limits are modest, they are often sufficient to cover emergency room visits, X-rays,
         and initial treatment. More importantly, the no-fault nature of the coverage means the
         injured worker does not need to hire a lawyer, prove negligence, or file a lawsuit to
         receive payment. The claim is paid simply because the injury happened on your property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The workers&rsquo; compensation exception:</strong> Coverage F does not apply to
+        <strong>The workers&rsquo; compensation exception:</strong> Medical Payments does not apply to
         employees for whom workers&rsquo; compensation coverage is required. If you hire a
         full-time gardener or housekeeper as an employee (not an independent contractor), their
         on-the-job injuries must be covered through workers&rsquo; compensation, not your
         homeowner&rsquo;s policy. But most people who work on residential
-        properties are independent contractors, not employees, and Coverage F applies to them.
+        properties are independent contractors, not employees, and Medical Payments applies to them.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For more serious injuries or situations involving potential negligence, Coverage E
-        (Personal Liability) provides broader protection. Coverage E defends you against tort
-        claims and pays damages if you are found liable for injuring someone or damaging their
-        property. Where Coverage F pays small medical bills regardless of fault, Coverage E
-        responds to lawsuits and significant liability exposure. Together, Coverages E and F
-        provide a comprehensive safety net for injuries occurring on your property.
+        For more serious injuries or situations involving potential negligence, Personal
+        Liability coverage provides broader protection. It defends you against tort claims
+        and pays damages if you are found liable for injuring someone or damaging their
+        property. Where Medical Payments coverage pays small medical bills regardless of
+        fault, Personal Liability coverage responds to lawsuits and significant liability
+        exposure. Together, Personal Liability and Medical Payments coverages provide a
+        safety net for injuries occurring on your property.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -264,7 +265,7 @@ export default function Content() {
         Libel and Slander Defense Costs
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage E (Personal Liability) extends beyond physical injuries and property damage. It
+        Personal Liability coverage extends beyond physical injuries and property damage. It
         also covers certain personal injury offenses, including libel, slander, defamation, and
         invasion of privacy. If you are sued for something you said or wrote &mdash; including
         statements made on social media, in online reviews, or in community disputes &mdash; your
