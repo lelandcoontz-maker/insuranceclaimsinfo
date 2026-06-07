@@ -347,9 +347,9 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Even where a grow operation exclusion exists, California&rsquo;s innocent insured doctrine
-        may protect the landlord. In <em>Century-National Insurance Co. v. Garcia</em> (2011), the
-        California Court of Appeal held that an innocent co-insured cannot be denied coverage based
-        on the criminal or intentional acts of another insured or occupant. If the landlord had no
+        may protect the landlord. In <em>Century-National Insurance Co. v. Garcia</em> (2011) 51
+        Cal.4th 564, the California Supreme Court held that an innocent co-insured cannot be denied
+        coverage based on the criminal or intentional acts of another insured or occupant. If the landlord had no
         knowledge of the grow operation and did not participate in or authorize the illegal
         activity, the landlord is an &ldquo;innocent insured&rdquo; who should not be penalized
         for the tenant&rsquo;s conduct.
