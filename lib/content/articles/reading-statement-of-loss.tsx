@@ -39,9 +39,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The statement of loss is the carrier&rsquo;s accounting document showing how it arrived at
         the payment amounts on your claim. It breaks the claim into coverage lines &mdash;{' '}
-        <strong>Coverage A (Dwelling)</strong>, <strong>Coverage B (Other Structures)</strong>,{' '}
-        <strong>Coverage C (Personal Property)</strong>, and{' '}
-        <strong>Coverage D (Additional Living Expenses / Fair Rental Value)</strong> &mdash; and
+        <strong>Dwelling</strong>, <strong>Other Structures</strong>,{' '}
+        <strong>Personal Property</strong>, and{' '}
+        <strong>Loss of Use (ALE / Fair Rental Value)</strong> &mdash; and
         shows the math for each one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -102,13 +102,13 @@ export default function Content() {
         <li><strong>Replacement Cost Value (RCV):</strong> $25,000</li>
         <li><strong>Less Depreciation:</strong> ($3,750)</li>
         <li><strong>Actual Cash Value (ACV):</strong> $21,250</li>
-        <li><strong>Less Deductible:</strong> ($0) &mdash; deductible already applied to Coverage A</li>
+        <li><strong>Less Deductible:</strong> ($0) &mdash; deductible already applied to the dwelling coverage</li>
         <li><strong>Net ACV Payment:</strong> $21,250</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Other Structures coverage covers detached structures &mdash; fences, sheds, detached garages, retaining
         walls. Notice that the deductible is $0 on this line. That is because the deductible was
-        already applied in full to Coverage A. The deductible is applied only once per claim, and
+        already applied in full to the dwelling coverage. The deductible is applied only once per claim, and
         this is one of the most important details on the statement.
       </p>
 
@@ -119,7 +119,7 @@ export default function Content() {
         <li><strong>Replacement Cost Value (RCV):</strong> $85,000</li>
         <li><strong>Less Depreciation:</strong> ($25,500) &mdash; 30%</li>
         <li><strong>Actual Cash Value (ACV):</strong> $59,500</li>
-        <li><strong>Less Deductible:</strong> ($0) &mdash; deductible already applied to Coverage A</li>
+        <li><strong>Less Deductible:</strong> ($0) &mdash; deductible already applied to the dwelling coverage</li>
         <li><strong>Net ACV Payment:</strong> $59,500</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -127,11 +127,11 @@ export default function Content() {
         and everything else you own inside the home. Note the higher depreciation rate here. Personal
         property is often depreciated more aggressively than the dwelling structure, particularly for
         items like electronics and clothing that carriers consider to have shorter useful lives.
-        Again, no deductible is applied because it was already fully satisfied under Coverage A.
+        Again, no deductible is applied because it was already fully satisfied under the dwelling coverage.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Coverage D &mdash; Additional Living Expenses (ALE)
+        Loss of Use &mdash; Additional Living Expenses (ALE)
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Expenses Incurred:</strong> $18,000</li>
@@ -139,7 +139,7 @@ export default function Content() {
         <li><strong>Net ALE Payment:</strong> $15,000</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage D works differently from the other coverages. There is no depreciation and no
+        Loss of Use coverage works differently from the other coverages. There is no depreciation and no
         deductible. Instead, the carrier calculates the total living expenses you incurred while
         displaced and subtracts the &ldquo;normal living expenses&rdquo; you would have had anyway
         &mdash; things like your regular mortgage payment, utilities, and groceries at your normal
@@ -155,15 +155,15 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The deductible is subtracted only once per claim, from the first coverage that gets paid.
-        On most homeowner claims, that means it is applied to Coverage A. But where the carrier
+        On most homeowner claims, that means it is applied to the dwelling coverage. But where the carrier
         places the deductible can have practical consequences beyond the math.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the deductible is applied to Coverage A, it reduces the dwelling check &mdash; and on
+        When the deductible is applied to the dwelling coverage, it reduces the dwelling check &mdash; and on
         most mortgaged properties, the dwelling check has the mortgage company&rsquo;s name on it.
         That means the deductible effectively comes out of the check that is subject to{' '}
         <strong>mortgage company oversight</strong>, which can complicate your access to those funds.
-        If the deductible had been applied to a different coverage &mdash; say, Coverage C (personal
+        If the deductible had been applied to a different coverage &mdash; say, personal property coverage (personal
         property) &mdash; it would reduce a check that typically does not have the mortgage company
         on it.
       </p>
@@ -229,15 +229,15 @@ export default function Content() {
         </li>
         <li>
           <strong>The deductible applied more than once.</strong> The deductible should be
-          subtracted only once per claim. If you see a deductible line on Coverage A and another
-          deductible line on Coverage C, something is wrong.
+          subtracted only once per claim. If you see a deductible line on the dwelling coverage and another
+          deductible line on personal property coverage, something is wrong.
         </li>
         <li>
           <strong>Coverage limits applied incorrectly.</strong> Watch for sublimits being applied
           to items that should not be sublimited, or policy limits being understated.
         </li>
         <li>
-          <strong>Missing coverages.</strong> Is Coverage B accounted for? Was ALE included?
+          <strong>Missing coverages.</strong> Are the Other Structures coverages accounted for? Was ALE included?
           Some statements simply omit coverages that should have been addressed, either because
           the adjuster overlooked them or because the carrier chose not to include them.
         </li>
