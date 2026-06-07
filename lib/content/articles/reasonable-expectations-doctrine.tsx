@@ -142,17 +142,17 @@ export default function Content() {
         unambiguous, it controls &mdash; the court enforces it as written, and the doctrine of
         reasonable expectations does not come into play. If the language is ambiguous, the court
         then considers the policyholder&apos;s reasonable expectations as part of resolving the
-        ambiguity. This framework was laid out in <em>AIU Insurance Co. v. Superior Court</em>
-        and has been followed consistently since.
+        ambiguity. This framework was laid out in <em>AIU Insurance Co. v. Superior Court</em>{' '}
+        (1990) 51 Cal.3d 807 and has been followed consistently since.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Bank of the West v. Superior Court</em>, the California Supreme Court confirmed
-        that the reasonable expectations doctrine is part of California law but emphasized that it
-        operates within the broader framework of contract interpretation. The court held that
-        coverage clauses are interpreted broadly to protect the insured&apos;s reasonable
-        expectations, while exclusion clauses are interpreted narrowly against the insurer. But the
-        court did not adopt the strong form &mdash; it did not say that reasonable expectations can
-        override unambiguous policy language.
+        In <em>Bank of the West v. Superior Court</em> (1992) 2 Cal.4th 1254, the California
+        Supreme Court reiterated that the reasonable expectations doctrine is part of California
+        law but emphasized that it operates within the broader framework of contract
+        interpretation. The Court restated that coverage clauses are interpreted broadly to protect
+        the insured&apos;s reasonable expectations, while exclusion clauses are interpreted narrowly
+        against the insurer. But the Court did not adopt the strong form &mdash; it did not say
+        that reasonable expectations can override unambiguous policy language.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This means that in California, the doctrine is most useful when the policy language is
@@ -447,20 +447,40 @@ export default function Content() {
         </li>
         <li>
           <strong>Arizona:</strong> Arizona adopted a strong version of the doctrine in
-          <em> Darner Motor Sales v. Universal Underwriters</em>, holding that an insured&apos;s
-          reasonable expectations can prevail over boilerplate exclusions that were not
-          bargained for.
+          <em> Darner Motor Sales, Inc. v. Universal Underwriters Ins. Co.</em> (1984) 140 Ariz.
+          383, 682 P.2d 388, holding that an insured&apos;s reasonable expectations can prevail
+          over boilerplate exclusions that were not bargained for, especially where the term is
+          unusual or not adequately brought to the insured&apos;s attention.
         </li>
         <li>
           <strong>Hawaii:</strong> Hawaii has applied the doctrine broadly, particularly in
           cases involving complex or technical policy language that consumers cannot be expected
-          to understand.
+          to understand. Typically conditioned on adhesion-contract circumstances and lack of
+          fair notice.
         </li>
         <li>
-          <strong>Iowa, Montana, and several others:</strong> Various states have applied the
-          doctrine in its strong form in specific contexts, though the scope varies.
+          <strong>Montana:</strong> Montana courts have invalidated or limited clear policy
+          provisions in particular fact patterns where they defeat the reasonable expectations of
+          insureds in adhesion contracts &mdash; especially where the provision is obscure,
+          unexpected, or significantly erodes apparent coverage.
+        </li>
+        <li>
+          <strong>Iowa (with significant caveats):</strong> Iowa is sometimes characterized as
+          strong-form, but the picture is more nuanced. Iowa courts have allowed reasonable
+          expectations to prevail over clear text in some circumstances &mdash; typically where
+          the term is bizarre or where the insurer&apos;s conduct induced the expectation &mdash;
+          but later authority emphasizes the doctrine&apos;s exceptional nature and cautions
+          against routine use to nullify unambiguous language.
         </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Even in these strong-form jurisdictions, the doctrine does not give every policyholder
+        a free pass to invoke whatever expectation they want. The override is generally cabined
+        to specific fairness conditions: an adhesion contract, a provision the insured was not
+        on fair notice of, an unexpected or harsh result, or insurer conduct that induced a
+        particular expectation. A casual &ldquo;I expected more coverage&rdquo; argument is not
+        enough even in the most policyholder-friendly states.
+      </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         States that have explicitly rejected the doctrine or limited it to the weak form include
         California (weak form only), New York (generally skeptical), and several others that
