@@ -213,8 +213,9 @@ export default function Content() {
         The two usages of the same term do create confusion. If you are searching for
         information about the acknowledgment letter you received from the carrier at the
         start of your claim, the right reference points are the Fair Claims Settlement
-        Practices Regulations at 10 CCR &sect;&sect; 2695.4 (affirmative disclosure of
-        coverages) and 2695.5(e) (acknowledgment timelines). The rest of this article is
+        Practices Regulations at 10 CCR &sect;&sect; 2695.4 (representation of policy
+        provisions and benefits &mdash; the affirmative-disclosure duty in (a)) and
+        2695.5(e) (acknowledgment timelines). The rest of this article is
         about the second usage &mdash; the insured-side notice letter citing
         &sect; 790.03(h) violations.
       </p>
@@ -268,13 +269,18 @@ export default function Content() {
           the law requires and is tracking the insurer&apos;s compliance.
         </li>
         <li>
-          <strong>It establishes the foundation for a bad faith claim.</strong> Under <em>Egan v.
-          Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809 and <em>Jordan v. Allstate Ins.
-          Co.</em> (2007) 148 Cal.App.4th 1062, the insurer&apos;s response &mdash; or failure
-          to respond &mdash; to a 790 letter is relevant to whether the insurer acted in bad
-          faith. An insurer that receives a detailed 790 letter identifying specific
-          violations and continues the same conduct has a much harder time claiming its behavior was
-          reasonable.
+          <strong>It establishes the foundation for a bad faith claim.</strong> Under{' '}
+          <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d 809 and the broader
+          California bad-faith case law, an insurer&apos;s knowledge of specific conduct
+          alleged to violate &sect; 790.03(h) &mdash; and its decision to continue that conduct
+          anyway &mdash; can be powerful evidence of unreasonableness. An insurer that receives
+          a detailed 790 letter identifying specific violations and continues the same conduct
+          has a much harder time claiming at deposition or trial that it was acting reasonably.
+          <em>Jordan v. Allstate Ins. Co.</em> (2007) 148 Cal.App.4th 1062, though more often
+          cited for the proposition that <em>Moradi-Shalal</em> does not bar common-law bad
+          faith or UCL claims based on the same conduct that would violate &sect; 790.03(h),
+          is part of the case-law landscape in which a documented record of the carrier&apos;s
+          conduct matters.
         </li>
         <li>
           <strong>It escalates the claim internally.</strong> A 790 letter typically gets escalated
