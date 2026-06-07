@@ -115,7 +115,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         In practice, this means the dwelling coverage must be sufficient to restore the property.
-        A policy with a Coverage A limit far below the replacement cost of the home will not
+        A policy with a dwelling limit far below the replacement cost of the home will not
         satisfy the HECM requirement &mdash; and the servicer can and will{' '}
         <Link href="/resources/force-placed-insurance" className="text-[#2E74B5] hover:underline">
           force-place insurance

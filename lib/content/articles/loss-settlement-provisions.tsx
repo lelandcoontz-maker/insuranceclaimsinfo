@@ -212,7 +212,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Many California policies include an extended replacement cost endorsement (sometimes
         called &ldquo;enhanced&rdquo; or &ldquo;guaranteed&rdquo; replacement cost) that pays an
-        additional 25–50% above your Coverage A limit if the actual rebuild cost exceeds your limit.
+        additional 25–50% above your dwelling limit if the actual rebuild cost exceeds your limit.
         This endorsement typically requires that you actually rebuild to access the extended amount.
         Check your{' '}
         <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">dec page</Link>{' '}

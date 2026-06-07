@@ -76,7 +76,7 @@ export default function Content() {
           &ldquo;replacement cost coverage&rdquo; means the insurer will pay whatever it costs to
           rebuild. It does not. Replacement cost coverage means the insurer uses the replacement
           cost method to calculate the loss &mdash; without deducting depreciation &mdash; but
-          payment is still capped at your Coverage A limit unless you have an extended or guaranteed
+          payment is still capped at your dwelling limit unless you have an extended or guaranteed
           replacement cost endorsement.
         </p>
       </CalloutBox>
@@ -86,7 +86,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Extended replacement cost is a policy endorsement that provides a buffer above your
-        Coverage A limit &mdash; typically 25 percent or 50 percent. If your dwelling limit is
+        dwelling limit &mdash; typically 25 percent or 50 percent. If your dwelling limit is
         $600,000 and you have a 50 percent extended replacement cost endorsement, the maximum
         payout for dwelling repairs is $900,000.
       </p>
@@ -158,7 +158,7 @@ export default function Content() {
           <tbody className="text-gray-700">
             <tr className="border-b">
               <td className="px-4 py-3 font-medium">Maximum payout</td>
-              <td className="px-4 py-3">Coverage A limit</td>
+              <td className="px-4 py-3">dwelling limit</td>
               <td className="px-4 py-3">Coverage A + 25&ndash;50%</td>
               <td className="px-4 py-3">Full rebuild cost (no cap)</td>
             </tr>
@@ -373,7 +373,7 @@ export default function Content() {
         This regulation &mdash; upheld by the California Supreme Court in <em>Association of
         California Insurance Companies v. Jones</em> (2017) 2 Cal.5th 376 &mdash; requires that
         if an insurer communicates a replacement cost estimate to a homeowner (for example, when
-        setting the Coverage A limit at the time of purchase or renewal), that estimate must
+        setting the dwelling limit at the time of purchase or renewal), that estimate must
         include the full cost of rebuilding, including labor, materials, overhead and profit,
         demolition and debris removal, permits, architect&rsquo;s plans, and all components and
         features of the structure.
@@ -426,7 +426,7 @@ export default function Content() {
         <strong>Why it matters:</strong> This case illustrates the critical distinction between
         policy features that <em>increase</em> your limit over time (inflation guard) and
         endorsements that <em>eliminate</em> the limit entirely (guaranteed replacement cost). An
-        inflation guard adjusts your Coverage A limit annually &mdash; but if construction costs
+        inflation guard adjusts your dwelling limit annually &mdash; but if construction costs
         spike 50 percent overnight after a disaster, the inflation guard will not have kept pace.
         Only guaranteed replacement cost protects against that scenario.
       </p>
@@ -513,7 +513,7 @@ export default function Content() {
         </li>
         <li>
           <strong>The inflation guard endorsement.</strong> If you have one, this automatically
-          increases your Coverage A limit periodically &mdash; but it is <em>not</em> the same as
+          increases your dwelling limit periodically &mdash; but it is <em>not</em> the same as
           guaranteed replacement cost. It is a limit adjuster, not a limit eliminator.
         </li>
       </ol>

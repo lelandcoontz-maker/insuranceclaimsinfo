@@ -372,7 +372,7 @@ export default function Content() {
         was going to cause $50,000 in damage to a non-hoarded home but caused a total loss to a
         hoarded home, the insurer may argue that its exposure should be limited to $50,000 &mdash;
         the damage that would have occurred absent the hoarding. But this argument ignores the
-        policy structure. The insurer agreed to insure the dwelling up to the Coverage A limit.
+        policy structure. The insurer agreed to insure the dwelling up to the dwelling limit.
         The dwelling was destroyed. The policy does not contain a provision that reduces coverage
         based on the <em>hypothetical</em> damage that would have occurred under different
         conditions. The dwelling is either a total loss or it is not.

@@ -66,7 +66,7 @@ export default function Content() {
         These tools take basic inputs &mdash; square footage, year built, number of stories,
         construction type, roof material, number of bathrooms, garage type &mdash; and produce
         a per-square-foot replacement cost estimate. The agent or insurer then uses this estimate
-        to set the Coverage A limit on your policy.
+        to set the dwelling limit on your policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The problem is that these tools consistently produce estimates that are too low. This is
@@ -157,7 +157,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Even if the estimator was reasonably accurate when you bought your policy five years ago,
         the annual inflation guard adjustment (typically 2 to 4 percent per year) has not kept
-        pace with actual construction cost increases. The gap between your Coverage A limit and
+        pace with actual construction cost increases. The gap between your dwelling limit and
         the real cost to rebuild widens every year.
       </p>
 
@@ -171,7 +171,7 @@ export default function Content() {
         20 to 50 percent or more. This is a known and predictable phenomenon, yet the pre-loss
         estimate does not account for it. The insurer knows demand surge will occur after a
         wildfire. It is baked into their catastrophe models and reinsurance pricing. But it is
-        not reflected in your Coverage A limit.
+        not reflected in your dwelling limit.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -188,7 +188,7 @@ export default function Content() {
         <Link href="/resources/ordinance-law" className="text-[#2E74B5] hover:underline">
           ordinance or law endorsement
         </Link>
-        , not your Coverage A limit &mdash; but many policyholders do not realize this
+        , not your dwelling limit &mdash; but many policyholders do not realize this
         until after a loss.
       </p>
 
@@ -393,7 +393,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A claim against the agent or broker is separate from your insurance claim. Your insurance
-        policy pays up to the Coverage A limit regardless of who set that limit. But if the agent
+        policy pays up to the dwelling limit regardless of who set that limit. But if the agent
         negligently set the limit too low, you may have a professional liability (errors and
         omissions) claim against the agent for the gap between the policy limit and the actual
         replacement cost. This is typically pursued through the agent&apos;s E&amp;O insurance
@@ -531,12 +531,12 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Extended replacement cost (25% or 50%):</strong> Provides a buffer above the
-          Coverage A limit but is still capped. If the estimate is off by 60 percent, a 25 percent
+          dwelling limit but is still capped. If the estimate is off by 60 percent, a 25 percent
           extension is not nearly enough.
         </li>
         <li>
           <strong>Guaranteed (100%) replacement cost:</strong> Pays whatever it actually costs to
-          rebuild, regardless of the Coverage A limit. This is the only coverage type that fully
+          rebuild, regardless of the dwelling limit. This is the only coverage type that fully
           protects against misleading estimates. However, most California carriers stopped offering
           guaranteed replacement cost after the 2003 fires, and by 2025 it was extremely rare.
         </li>
@@ -569,13 +569,13 @@ export default function Content() {
           <strong>Do not rely on the insurer&apos;s automated estimate.</strong> Treat the
           insurer&apos;s estimate as a starting point, not a final answer. The automated tools
           have a documented history of underestimation. If the independent estimate exceeds the
-          insurer&apos;s estimate by 20 percent or more, increase your Coverage A limit
+          insurer&apos;s estimate by 20 percent or more, increase your dwelling limit
           accordingly.
         </li>
         <li>
           <strong>Review your coverage at every renewal.</strong> Construction costs change
           every year. Do not simply accept the renewal notice with the same coverage limits.
-          Ask your agent whether the Coverage A limit still reflects current rebuild costs.
+          Ask your agent whether the dwelling limit still reflects current rebuild costs.
           Ask specifically what tool they are using and whether it accounts for recent
           construction cost increases in your area.
         </li>
@@ -598,7 +598,7 @@ export default function Content() {
           <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">
             declarations page
           </Link>{' '}
-          carefully.</strong> Confirm your Coverage A limit, check for an extended or guaranteed
+          carefully.</strong> Confirm your dwelling limit, check for an extended or guaranteed
           replacement cost endorsement, and verify your ordinance or law sublimit. If any of
           these are absent or inadequate, contact your agent.
         </li>
@@ -616,7 +616,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="The $500 Estimate That Could Save You $300,000">
         <p>
           An independent replacement cost estimate from a licensed contractor typically costs
-          $300 to $1,500. If it reveals that your Coverage A limit is $300,000 too low and you
+          $300 to $1,500. If it reveals that your dwelling limit is $300,000 too low and you
           increase your coverage accordingly, the additional annual premium might be $500 to
           $1,000. That is a small price to pay for adequate coverage. If it confirms your
           current limit is accurate, you have peace of mind. Either way, the investment is
@@ -628,7 +628,7 @@ export default function Content() {
         What to Do If You Are Already Underinsured After a Loss
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you have already suffered a total loss and discovered that your Coverage A limit is
+        If you have already suffered a total loss and discovered that your dwelling limit is
         insufficient to rebuild, the following steps may help maximize your recovery:
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">

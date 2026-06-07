@@ -56,7 +56,7 @@ export default function Content() {
         replacement-cost-less-depreciation formula.) The key phrase is
         &ldquo;whichever is less.&rdquo; Replacement cost coverage does not mean unlimited coverage.
         It means the insurer uses the replacement cost method to calculate the loss, but payment is
-        still capped at the Coverage A limit on your{' '}
+        still capped at the dwelling limit on your{' '}
         <Link href="/resources/declarations-page" className="text-[#2E74B5] underline">
           declarations page
         </Link>.

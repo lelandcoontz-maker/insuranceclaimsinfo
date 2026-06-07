@@ -72,7 +72,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What it is:</strong> Your base policy insures your dwelling for a stated amount
-        &mdash; your Coverage A limit &mdash; which represents the carrier&rsquo;s estimate of
+        &mdash; your dwelling limit &mdash; which represents the carrier&rsquo;s estimate of
         what it would cost to rebuild your home. An{' '}
         <Link href="/resources/replacement-cost-vs-guaranteed" className="text-[#2E74B5] hover:underline">
           extended replacement cost
@@ -91,7 +91,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What happens without it:</strong> After a total loss &mdash; a fire that
-        destroys the home to the foundation &mdash; you learn that your Coverage A limit of
+        destroys the home to the foundation &mdash; you learn that your dwelling limit of
         $450,000 is not enough. Lumber prices have surged. Labor is scarce because every
         contractor in the area is rebuilding after the same disaster. The actual cost to rebuild
         your home is $580,000. Without extended or guaranteed replacement cost, the carrier
@@ -433,7 +433,7 @@ export default function Content() {
         <p>
           If your home is currently underinsured, adding inflation guard does not fix the
           problem. Inflation guard prevents future erosion of an adequate limit &mdash; it
-          does not correct an existing shortfall. If your Coverage A limit is already below
+          does not correct an existing shortfall. If your dwelling limit is already below
           actual replacement cost, you need to increase the limit now and then add inflation
           guard to maintain it going forward. For more on this issue, see our article on{' '}
           <Link href="/resources/signs-you-are-underinsured" className="text-[#2E74B5] hover:underline">
@@ -586,7 +586,7 @@ export default function Content() {
           listed, you do not have it.
         </li>
         <li>
-          <strong>Check your Coverage A limit</strong> &mdash; Is it based on the actual
+          <strong>Check your dwelling limit</strong> &mdash; Is it based on the actual
           cost to rebuild your home today, or is it a number that was set years ago and
           has not been updated? If you are unsure, get a replacement cost estimate from a
           local general contractor &mdash; not from the carrier&rsquo;s automated

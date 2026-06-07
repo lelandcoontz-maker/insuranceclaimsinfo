@@ -50,7 +50,7 @@ export default function Content() {
         and e2Value. These tools take property characteristics &mdash; square footage, year
         built, construction type, number of stories, roof type, and similar features &mdash;
         and produce an estimated replacement cost that becomes the basis for the policy&rsquo;s
-        Coverage A limit.
+        dwelling limit.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The fundamental problem is that these tools are only as accurate as the data entered
@@ -290,7 +290,7 @@ export default function Content() {
           or Public Adjuster to provide an independent estimate of what it would cost to
           rebuild the structure from the ground up, including demolition, debris removal,
           foundation work, and construction to current code. Compare that figure to the
-          Coverage A limit on the declarations page.
+          dwelling limit on the declarations page.
         </li>
         <li>
           <strong>Review the carrier&rsquo;s estimate in detail.</strong> Under California
@@ -332,7 +332,7 @@ export default function Content() {
           guaranteed replacement cost endorsement
         </Link>
         . This endorsement obligates the carrier to pay whatever it actually costs to rebuild
-        the structure, even if that amount exceeds the Coverage A limit on the declarations
+        the structure, even if that amount exceeds the dwelling limit on the declarations
         page. The policyholder is protected against estimation errors, construction cost
         inflation, demand surge, and code upgrade costs.
       </p>
@@ -405,7 +405,7 @@ export default function Content() {
         <li>
           <strong>Review all available endorsements.</strong> Check whether the policy includes
           extended replacement cost, ordinance or law coverage, or other endorsements that may
-          provide additional funds beyond the stated Coverage A limit.
+          provide additional funds beyond the stated dwelling limit.
         </li>
         <li>
           <strong>Consult with a Public Adjuster and an attorney.</strong> Underinsurance

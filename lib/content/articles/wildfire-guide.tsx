@@ -241,7 +241,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Extended replacement cost:</strong> An additional 25 to 50 percent above your
-          Coverage A limit if reconstruction costs exceed the stated amount — critical when
+          dwelling limit if reconstruction costs exceed the stated amount — critical when
           post-disaster construction costs spike due to demand
         </li>
         <li>

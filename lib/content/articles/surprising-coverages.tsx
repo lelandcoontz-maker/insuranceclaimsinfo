@@ -91,7 +91,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard HO-3 policy extends Coverage C to cover the personal property of an insured
         while it is anywhere in the world, subject to an off-premises sublimit &mdash; typically
-        10 percent of the total Coverage C limit. If your policy provides $100,000 in Coverage C,
+        10 percent of the total personal property limit. If your policy provides $100,000 in Coverage C,
         that means up to $10,000 in coverage for your student&rsquo;s belongings at school. For
         most students, this is more than adequate.
       </p>

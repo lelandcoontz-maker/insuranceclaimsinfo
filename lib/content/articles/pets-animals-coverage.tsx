@@ -264,7 +264,7 @@ export default function Content() {
         Exotic Animals, Show Animals, and Breeding Stock
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Standard Coverage C limits are inadequate for high-value animals. If you own exotic pets
+        Standard personal property limits are inadequate for high-value animals. If you own exotic pets
         (parrots, reptiles, rare fish), show animals (AKC-registered dogs, show cats), or
         breeding stock, the market value of these animals may far exceed what a standard
         homeowner&rsquo;s policy will pay without specific scheduling.
@@ -297,7 +297,7 @@ export default function Content() {
           Some homeowner&rsquo;s policies impose special limits of liability on certain categories
           of personal property. While animals are not always subject to a specific sublimit, check
           your policy&rsquo;s special limits section. If your pets have significant value, confirm
-          that Coverage C limits are adequate or add a scheduled endorsement.
+          that personal property limits are adequate or add a scheduled endorsement.
         </p>
       </CalloutBox>
 

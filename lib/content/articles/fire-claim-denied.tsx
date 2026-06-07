@@ -136,7 +136,7 @@ export default function Content() {
         This is not technically a &ldquo;denial&rdquo; — but it is the most common source
         of underpayment. The insurer pays up to your policy limit, but your limit is far below actual
         rebuild cost. If you have an extended replacement cost endorsement, you may be entitled to
-        an additional 25–50% above your Coverage A limit, but you must actually begin rebuilding
+        an additional 25–50% above your dwelling limit, but you must actually begin rebuilding
         to access it.
       </p>
 

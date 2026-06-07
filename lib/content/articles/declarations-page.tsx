@@ -131,7 +131,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Your policy imposes special sub-limits on certain categories of personal property. These
         limits cap the amount the insurer will pay for specific types of items, regardless of your
-        overall Coverage C limit:
+        overall personal property limit:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -185,7 +185,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Extended replacement cost:</strong> Many policies include an extension of 25 to
-          50 percent above your Coverage A limit if reconstruction costs exceed the stated amount —
+          50 percent above your dwelling limit if reconstruction costs exceed the stated amount —
           this can add $125,000 to $250,000 on a $500,000 policy
         </li>
         <li>

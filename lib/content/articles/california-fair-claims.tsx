@@ -534,7 +534,7 @@ export default function Content() {
           <strong>(a) Affirmative disclosure.</strong> The duty to identify coverages that may
           apply rests on the insurer, not on the insured to ask. Many policyholders never learn
           about coverages such as ordinance or law, debris removal beyond the dwelling, extended
-          replacement cost, or separate Coverage B limits because the insurer never discloses
+          replacement cost, or separate Other Structures limits because the insurer never discloses
           them. The regulation puts that disclosure obligation on the carrier.
         </p>
         <p className="mb-2">

@@ -54,7 +54,7 @@ export default function Content() {
         Percentage-Based Deductibles
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A percentage-based deductible is calculated as a percentage of your Coverage A dwelling
+        A percentage-based deductible is calculated as a percentage of your dwelling
         limit rather than a fixed dollar amount. If your dwelling is insured for $800,000 and your
         deductible is 5%, your deductible is $40,000 &mdash; not $2,500. This distinction matters
         enormously, and many policyholders do not realize they have a percentage deductible until
@@ -436,14 +436,14 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         An important and often misunderstood point: the deductible does <strong>not</strong>{' '}
-        reduce your Coverage A limit. If your dwelling is insured for $500,000 with a $5,000
+        reduce your dwelling limit. If your dwelling is insured for $500,000 with a $5,000
         deductible, the maximum the carrier will pay on a dwelling claim is $495,000 &mdash; but
         your home is still insured &ldquo;up to&rdquo; $500,000. The deductible is your share of
         the loss, not a reduction in available coverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This distinction matters most on total loss claims where the damage equals or exceeds the
-        Coverage A limit. On a total loss, the carrier pays the full limit minus the deductible.
+        dwelling limit. On a total loss, the carrier pays the full limit minus the deductible.
         On a partial loss, the carrier pays the cost to repair minus the deductible (up to the
         limit). In either case, the deductible represents the policyholder&rsquo;s retained risk
         &mdash; the amount you agreed to absorb when you selected that deductible level.

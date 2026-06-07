@@ -93,7 +93,7 @@ export default function Content() {
           <Link href="/resources/ale-frv" className="text-[#2E74B5] underline">
             additional living expenses
           </Link>{' '}
-          approaching the Coverage D limit because the insurer&rsquo;s delay extended the displacement
+          approaching the Loss of Use limit because the insurer&rsquo;s delay extended the displacement
           period, or damage to personal property in categories where the policyholder has already
           exhausted sublimits. When the harm crosses into territory the policy does not fully cover,
           the insurer&rsquo;s exposure to extracontractual damages increases.
@@ -109,7 +109,7 @@ export default function Content() {
           displaced since [date]. Without ALE advance payment, we will be forced to use personal
           savings and credit to cover housing costs, creating financial hardship that compounds
           with each week of delay. The current monthly cost of comparable temporary housing is
-          $[amount], which will consume our Coverage D limit by [date] if the restoration timeline
+          $[amount], which will consume our Loss of Use limit by [date] if the restoration timeline
           is not accelerated.&rdquo;
         </li>
         <li>

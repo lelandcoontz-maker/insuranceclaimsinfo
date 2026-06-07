@@ -241,7 +241,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Underinsurance discovery at claim time.</strong> Many homeowners discover they are
-          underinsured only after a total loss. If your Coverage A limit is $400,000 but it costs
+          underinsured only after a total loss. If your dwelling limit is $400,000 but it costs
           $700,000 to rebuild, you have a $300,000 gap. California&apos;s extended replacement cost
           endorsement (if you have it) may cover an additional 25–50% above your limit, but even
           that may not be enough.

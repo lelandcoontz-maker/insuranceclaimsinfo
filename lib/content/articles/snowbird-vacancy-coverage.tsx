@@ -688,7 +688,7 @@ export default function Content() {
           HO-3 policy may provide some coverage for personal property &ldquo;anywhere in the
           world,&rdquo; but this coverage is typically limited to 10 percent of the Coverage C
           limit. If you keep $100,000 worth of personal property at your Arizona home, and your
-          California policy has a $200,000 Coverage C limit, you may have only $20,000 of coverage
+          California policy has a $200,000 personal property limit, you may have only $20,000 of coverage
           for that Arizona personal property under the California policy. The Arizona DP-3 may
           provide its own personal property coverage, but you need to verify this.
         </li>

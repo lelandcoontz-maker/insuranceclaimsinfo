@@ -239,7 +239,7 @@ export default function Content() {
         <Link href="/resources/declarations-page" className="text-blue-700 underline hover:text-blue-900">
           declarations page
         </Link>{' '}
-        for your Coverage D limit. It is typically 20 to 30 percent of your Coverage A dwelling
+        for your Loss of Use limit. It is typically 20 to 30 percent of your dwelling
         limit. On a $500,000 dwelling policy, that gives you $100,000 to $150,000 for living
         expenses. That sounds generous, but at $8,000 per month for a rental plus food, storage,
         and transportation increases, an 18-month rebuild can exhaust even a large ALE limit.

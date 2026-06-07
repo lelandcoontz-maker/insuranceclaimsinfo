@@ -228,7 +228,7 @@ export default function Content() {
           </li>
           <li>
             <strong>Debris Removal:</strong>{' '}
-            A separate coverage that provides an additional 5% of the Coverage A limit when
+            A separate coverage that provides an additional 5% of the dwelling limit when
             the cost of direct damage plus debris removal exceeds the dwelling limit. This is
             particularly significant in total loss and wildfire claims where debris removal
             costs can exceed $100,000. See{' '}
@@ -258,7 +258,7 @@ export default function Content() {
             equipment are covered under a separate limit &mdash; typically 10% of the dwelling limit
             &mdash; that many policyholders never hear about. In declared disasters, California
             Insurance Code &sect; 10103.7 allows policyholders to combine Coverage A and
-            Coverage B limits toward rebuilding the primary dwelling if the dwelling limits
+            Other Structures limits toward rebuilding the primary dwelling if the dwelling limits
             are insufficient.
           </li>
           <li>

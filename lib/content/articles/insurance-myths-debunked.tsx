@@ -808,7 +808,7 @@ export default function Content() {
           Also, every policy has sub-limits &mdash; hidden dollar caps on specific
           categories of property like jewelry ($1,500 typical), firearms ($2,500), cash
           ($200), and silverware ($2,500). These caps apply regardless of your overall
-          Coverage C limit. See our article on{' '}
+          personal property limit. See our article on{' '}
           <Link href="/resources/special-limits-of-liability" className="text-blue-700 underline hover:text-blue-900">
             special limits of liability
           </Link>{' '}

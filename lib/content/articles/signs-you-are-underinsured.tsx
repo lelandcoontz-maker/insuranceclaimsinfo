@@ -190,7 +190,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> Take a mental or physical walk through the home, room by
         room, and estimate what it would cost to replace everything. If the total seems close
-        to or above the Coverage C limit, consider increasing it. For high-value items, a{' '}
+        to or above the personal property limit, consider increasing it. For high-value items, a{' '}
         <Link href="/resources/scheduled-personal-property" className="text-[#2E74B5] underline">
           scheduled personal property endorsement
         </Link>{' '}
@@ -217,7 +217,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> Calculate the monthly cost of renting a comparable home
         in the area and multiply by at least 12 months (18 to 24 for total loss scenarios).
-        Compare that figure to the Coverage D limit on the declarations page. If the limit
+        Compare that figure to the Loss of Use limit on the declarations page. If the limit
         is insufficient, request an increase.
       </p>
 
@@ -237,7 +237,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Coverage B (Other Structures) covers detached structures on the property &mdash;
         garages, sheds, fences, retaining walls, pools, pool houses, guesthouses, and
-        accessory dwelling units (ADUs). The standard Coverage B limit is 10 percent of the
+        accessory dwelling units (ADUs). The standard Other Structures limit is 10 percent of the
         dwelling limit. For a home insured at $600,000, that provides $60,000 for all other
         structures combined.
       </p>
@@ -246,11 +246,11 @@ export default function Content() {
         can cost $50,000 to $100,000 or more to replace. An ADU or guesthouse can cost
         $150,000 to $300,000 or more. A property with a pool, a detached garage, and
         significant hardscaping can easily have $200,000 or more in other structures value
-        that far exceeds a $60,000 Coverage B limit.
+        that far exceeds a $60,000 Other Structures limit.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> List all detached structures on the property and estimate
-        the replacement cost of each. If the total exceeds the Coverage B limit, request an
+        the replacement cost of each. If the total exceeds the Other Structures limit, request an
         increase. ADUs in particular should prompt a careful Coverage B review.
       </p>
 
@@ -323,7 +323,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Inventory personal property.</strong> Even a rough room-by-room estimate
-          provides a useful benchmark against the Coverage C limit.
+          provides a useful benchmark against the personal property limit.
         </li>
         <li>
           <strong>Evaluate ALE realistically.</strong> Calculate the actual monthly cost of

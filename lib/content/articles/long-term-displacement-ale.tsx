@@ -689,7 +689,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A limits:</strong> The dwelling coverage limit may have been set
+          <strong>dwelling limits:</strong> The dwelling coverage limit may have been set
           based on the completed home&rsquo;s value. During construction, the actual value
           of the structure increases incrementally. The carrier may argue over the value of
           the partially completed work.

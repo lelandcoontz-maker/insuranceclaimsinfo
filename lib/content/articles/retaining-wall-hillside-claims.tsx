@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Retaining Wall and Hillside Damage Insurance Claims in California',
   description:
-    'California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Coverage B limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim.',
+    'California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Other Structures limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim.',
   summary:
     'Retaining-wall and hillside failures spark complex disputes over the limited Coverage B, the earth-movement exclusion, and engineering causation. California\'s efficient proximate cause doctrine can restore coverage when a covered peril triggered the failure.',
 }
@@ -54,7 +54,7 @@ export default function Content() {
         construction, accessibility, and the engineering required. A 6-foot-tall, 80-foot-long
         concrete block retaining wall supporting a hillside driveway in the Hollywood Hills,
         with limited equipment access and a need for caissons drilled into bedrock, can easily
-        cost $200,000 to $400,000 to replace. The 10% Coverage B limit is grossly inadequate
+        cost $200,000 to $400,000 to replace. The 10% Other Structures limit is grossly inadequate
         for these losses.
       </p>
 
@@ -62,7 +62,7 @@ export default function Content() {
         <p>
           If your property has a retaining wall &mdash; particularly one that supports a
           driveway, a portion of the structure, or a significant elevation change &mdash; review
-          your Coverage B limits immediately. Many carriers allow you to increase Coverage B
+          your Other Structures limits immediately. Many carriers allow you to increase Coverage B
           above the standard 10%. Some also offer endorsements that extend Coverage A to include
           retaining walls that are structurally integral to the dwelling. The time to increase
           these limits is before a loss, not after.
@@ -78,7 +78,7 @@ export default function Content() {
         the hillside, a foundation wall that serves a dual purpose, or a wall that is physically
         attached to and supports the structure may be considered part of the dwelling and covered
         under Coverage A rather than Coverage B. This distinction matters enormously because
-        Coverage A limits are typically 10 to 20 times higher than Coverage B limits.
+        dwelling limits are typically 10 to 20 times higher than Other Structures limits.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The classification depends on the specific wall, its structural relationship to the
@@ -414,7 +414,7 @@ export default function Content() {
           is covered under Ordinance or Law coverage, not Coverage B. These are code-mandated
           costs that would not exist if the wall could simply be rebuilt to its original (often
           un-engineered) standard. Make sure these costs are separately documented and claimed
-          under L&amp;O, not crammed into the Coverage B limit. See our{' '}
+          under L&amp;O, not crammed into the Other Structures limit. See our{' '}
           <Link href="/resources/code-upgrade-coverage" className="text-blue-700 underline hover:text-blue-900">
             code upgrade coverage guide
           </Link>{' '}
@@ -488,7 +488,7 @@ export default function Content() {
         wall damage and Ordinance or Law coverage for the increased cost of rebuilding to
         current code. Do not let the carrier evaluate the claim only under Coverage B. The
         engineering, permits, drainage, and seismic design costs required by current code are
-        separate L&amp;O costs that should not erode your Coverage B limit.
+        separate L&amp;O costs that should not erode your Other Structures limit.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -501,7 +501,7 @@ export default function Content() {
         </Link>, document and claim the foundation damage separately under Coverage A. The
         retaining wall and the foundation are different structures under different coverage parts
         with different limits. Keeping them separate prevents the carrier from using the lower
-        Coverage B limit to cap your entire recovery.
+        Other Structures limit to cap your entire recovery.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

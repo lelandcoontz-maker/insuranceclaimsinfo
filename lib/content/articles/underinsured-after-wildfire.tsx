@@ -88,7 +88,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The Insurer Set Your Limit — Not You">
         <p>
-          In many cases, the insurer recommended or set the Coverage A limit based on their own
+          In many cases, the insurer recommended or set the dwelling limit based on their own
           valuation tool. If that tool underestimated rebuild costs, there is an argument that the
           insurer bears responsibility for the gap. This does not automatically mean you&apos;ll
           recover more than your policy limit, but it is an important factor in potential bad
@@ -106,7 +106,7 @@ export default function Content() {
         replacement cost endorsement that pays an additional 25&ndash;50% above your Coverage A
         limit. Check your{' '}
         <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">declarations page</Link>.
-        If your Coverage A limit is $500,000 and you have a 50% extended replacement cost
+        If your dwelling limit is $500,000 and you have a 50% extended replacement cost
         endorsement, your effective dwelling coverage is $750,000. However:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -251,7 +251,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Investigate agent or insurer liability.</strong> If the insurer or agent set your
-          Coverage A limit based on their valuation tool and that tool was materially wrong, consult
+          dwelling limit based on their valuation tool and that tool was materially wrong, consult
           an attorney about a potential negligence claim. This is separate from your insurance claim
           and can potentially recover the gap.
         </li>

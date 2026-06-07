@@ -364,7 +364,7 @@ export default function Content() {
           <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">
             declarations page
           </Link>{' '}
-          shows your Coverage C limit, but the sub-limits buried in the policy conditions may be far
+          shows your personal property limit, but the sub-limits buried in the policy conditions may be far
           more restrictive.
         </li>
       </ul>

@@ -73,9 +73,9 @@ export default function Content() {
         <p>
           If your rural property is insured on a standard homeowners policy rather than a farm and
           ranch form, your outbuildings are almost certainly underinsured. A standard HO-3&rsquo;s
-          10% Coverage B limit was designed for a detached garage and a garden shed &mdash; not for
+          10% Other Structures limit was designed for a detached garage and a garden shed &mdash; not for
           a 3,000 square foot barn. Review your policy now. If your outbuildings are on a blanket
-          Coverage B limit that would not rebuild the most expensive structure alone, you have a
+          Other Structures limit that would not rebuild the most expensive structure alone, you have a
           coverage gap.
         </p>
       </CalloutBox>
@@ -466,7 +466,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Outbuildings on a standard HO-3:</strong> The 10% Coverage B limit is catastrophically
+          <strong>Outbuildings on a standard HO-3:</strong> The 10% Other Structures limit is catastrophically
           inadequate for properties with barns, stables, or equipment buildings.
         </li>
         <li>

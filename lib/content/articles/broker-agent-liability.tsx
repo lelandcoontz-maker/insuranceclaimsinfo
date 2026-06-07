@@ -390,7 +390,7 @@ export default function Content() {
         <li>
           <strong>Get an independent replacement cost estimate.</strong> Hire a qualified
           construction estimator or appraiser to determine the actual cost to rebuild your home.
-          This establishes what your Coverage A limit should have been.
+          This establishes what your dwelling limit should have been.
         </li>
         <li>
           <strong>Consult an attorney experienced in broker liability.</strong> Not all insurance

@@ -228,7 +228,7 @@ export default function Content() {
         mortgage debt. The lender cannot claim more than what it is owed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Real-world example:</strong> A home is destroyed with a $600,000 Coverage A limit.
+        <strong>Real-world example:</strong> A home is destroyed with a $600,000 dwelling limit.
         The outstanding mortgage balance is $200,000. The lender&rsquo;s interest &mdash; and the
         maximum it can claim under the endorsement &mdash; is $200,000. The remaining $400,000
         belongs to the insured. The lender has no right to hold, control, or benefit from the

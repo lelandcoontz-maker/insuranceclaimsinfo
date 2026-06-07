@@ -109,7 +109,7 @@ export default function Content() {
         The full policy limit on your dwelling coverage typically applies. This is the cost to
         rebuild your home to the same size, quality, and features as what was destroyed. If you carry
         extended replacement cost — and you should — that endorsement adds an additional 25 to 50
-        percent above the Coverage A limit to account for the reality that rebuilding after a
+        percent above the dwelling limit to account for the reality that rebuilding after a
         disaster almost always costs more than what was estimated when the policy was written.
         Post-disaster labor shortages, material price spikes, and permitting delays all drive costs
         upward.
@@ -379,7 +379,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some insurers attempt to deduct the land value from the dwelling coverage — arguing that the
-        Coverage A limit includes the land. This is wrong. Coverage A insures the structure, not the
+        dwelling limit includes the land. This is wrong. Coverage A insures the structure, not the
         land. The land still exists after a total loss. Any attempt to reduce your dwelling recovery
         by the value of the land should be challenged immediately.
       </p>

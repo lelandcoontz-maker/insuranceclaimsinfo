@@ -28,13 +28,13 @@ export default function Content() {
         Understanding Sub-Limits of Liability
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The ISO HO-3 &mdash; the most widely used homeowner policy form in the United States &mdash; contains a section under Coverage C titled &ldquo;Special Limits of Liability.&rdquo; These are internal caps that apply to specific categories of personal property on a per-occurrence basis, regardless of the total Coverage C limit shown on your declarations page.
+        The ISO HO-3 &mdash; the most widely used homeowner policy form in the United States &mdash; contains a section under Coverage C titled &ldquo;Special Limits of Liability.&rdquo; These are internal caps that apply to specific categories of personal property on a per-occurrence basis, regardless of the total personal property limit shown on your declarations page.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is an important distinction: <strong>sub-limits are conditions within the insuring agreement, not exclusions.</strong> The property is covered. It is not excluded. But the amount the insurer will pay for that category is capped at the sub-limit amount, no matter what the items are actually worth. The insurer does not need to deny coverage to invoke a sub-limit &mdash; the limit is built into the coverage grant itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Consider what this means in practice: you carry $150,000 in Coverage C, believing your personal property is well-protected. You suffer a theft, and your coin collection &mdash; appraised at $12,000 &mdash; is taken. You file a claim. The insurer pays you $200. Not because coins are excluded, but because $200 is the special limit for money, coins, and bank notes. Your $150,000 Coverage C limit is irrelevant for that category.
+        Consider what this means in practice: you carry $150,000 in Coverage C, believing your personal property is well-protected. You suffer a theft, and your coin collection &mdash; appraised at $12,000 &mdash; is taken. You file a claim. The insurer pays you $200. Not because coins are excluded, but because $200 is the special limit for money, coins, and bank notes. Your $150,000 personal property limit is irrelevant for that category.
       </p>
 
       <CalloutBox variant="important" title="$150,000 in Coverage C — $200 for Your Coins">
@@ -123,7 +123,7 @@ export default function Content() {
         Furs: The Asymmetry Between Theft and Fire
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The $1,500 sub-limit on furs applies specifically to <strong>theft losses</strong>. This creates an asymmetry that catches many policyholders off guard. If your fur coat is stolen, the sub-limit caps your recovery at $1,500 regardless of the coat&rsquo;s value. But if the same fur coat is destroyed in a house fire, the theft sub-limit does not apply &mdash; the loss is covered up to your full Coverage C limit (subject to depreciation and other policy conditions).
+        The $1,500 sub-limit on furs applies specifically to <strong>theft losses</strong>. This creates an asymmetry that catches many policyholders off guard. If your fur coat is stolen, the sub-limit caps your recovery at $1,500 regardless of the coat&rsquo;s value. But if the same fur coat is destroyed in a house fire, the theft sub-limit does not apply &mdash; the loss is covered up to your full personal property limit (subject to depreciation and other policy conditions).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This distinction matters because the cause of loss determines which sub-limit, if any, applies. Policyholders who own expensive furs &mdash; and a quality mink or sable coat can easily run $10,000 to $50,000 &mdash; should understand that their exposure is primarily on the theft side. If theft is a realistic concern, scheduling is essential. If the primary risk is fire, the standard Coverage C may provide adequate protection, though scheduling still offers broader coverage and eliminates the deductible.
@@ -155,7 +155,7 @@ export default function Content() {
         A serious firearm collection can easily represent $50,000 to $500,000 in value. The $2,500 sub-limit makes the standard homeowner policy almost meaningless for theft protection of firearms. And theft is the primary risk: firearms are high-value, portable, and specifically targeted by burglars. The combination of high theft risk and a low theft sub-limit makes firearms one of the most important categories to schedule.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Like furs, the $2,500 limit applies to <strong>theft</strong> specifically. Firearms destroyed in a fire are covered up to the full Coverage C limit. But theft &mdash; the scenario most gun owners worry about &mdash; triggers the sub-limit.
+        Like furs, the $2,500 limit applies to <strong>theft</strong> specifically. Firearms destroyed in a fire are covered up to the full personal property limit. But theft &mdash; the scenario most gun owners worry about &mdash; triggers the sub-limit.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

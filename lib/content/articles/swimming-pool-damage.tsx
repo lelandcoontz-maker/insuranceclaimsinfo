@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Swimming Pool Damage Insurance Claims: Coverage, Exclusions, and How to Maximize Your Recovery',
   description:
-    'How swimming pool damage is covered under homeowners insurance — Coverage B limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.',
+    'How swimming pool damage is covered under homeowners insurance — Other Structures limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.',
   summary:
     'Pool damage usually falls under the limited Coverage B and involves disputes over freeze, equipment breakdown, pop-outs, wildfire ash, and earth movement. Scheduling or coverage stacking and the efficient proximate cause doctrine can improve recovery.',
 }
@@ -25,7 +25,7 @@ export default function Content() {
         When a pool is damaged &mdash; whether by a wildfire, a freeze, earth movement, or the
         homeowner&apos;s own decision to drain it at the wrong time &mdash; the insurance claim
         that follows is often more complicated than the damage itself. Pool claims involve
-        Coverage B limits, scheduled endorsements, equipment breakdown questions, and exclusions
+        Other Structures limits, scheduled endorsements, equipment breakdown questions, and exclusions
         that many policyholders have never read. This guide explains how pool damage coverage
         actually works, the most common types of pool damage claims, and how to get the full
         recovery you are owed.
@@ -51,15 +51,15 @@ export default function Content() {
         only <strong>10% of your dwelling limit (dwelling) limit</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That means if your dwelling is insured for $600,000, your total Coverage B limit for
+        That means if your dwelling is insured for $600,000, your total Other Structures limit for
         all other structures combined is typically $60,000. That $60,000 has to cover the pool,
         the fence, the detached garage, the retaining walls, and any other structures on the
         property. For a homeowner with a $75,000 pool and a detached garage, the default
-        Coverage B limit is almost certainly inadequate. Check your{' '}
+        Other Structures limit is almost certainly inadequate. Check your{' '}
         <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">
           declarations page
         </Link>{' '}
-        to see your current Coverage B limit.
+        to see your current Other Structures limit.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -69,7 +69,7 @@ export default function Content() {
         Pool equipment that is physically attached to the dwelling &mdash; for example, a pool
         heater, pump, or filtration system housed in a utility room that shares a wall with the
         house &mdash; may fall under Coverage A (dwelling) rather than Coverage B. This distinction
-        matters because Coverage A limits are much higher. If your pool pump is bolted to the
+        matters because dwelling limits are much higher. If your pool pump is bolted to the
         side of the house or located in an attached equipment room, make sure the adjuster is not
         automatically lumping it into Coverage B.
       </p>
@@ -581,7 +581,7 @@ export default function Content() {
           Pool Damage Claim Denied or Underpaid?
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          Swimming pool claims involve Coverage B limits, scheduled endorsements, equipment
+          Swimming pool claims involve Other Structures limits, scheduled endorsements, equipment
           breakdown questions, and exclusions that require expert analysis. We review pool
           damage claims at no cost and help policyholders recover the full amount they are owed.
         </p>

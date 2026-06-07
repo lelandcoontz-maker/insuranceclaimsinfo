@@ -34,13 +34,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Under the standard HO-3 homeowners policy, debris removal is covered as part of the claim.
         The cost to remove debris from a covered loss is paid from within your Coverage A (Dwelling)
-        limit. This means that if you have a $500,000 Coverage A limit and your dwelling damage is
+        limit. This means that if you have a $500,000 dwelling limit and your dwelling damage is
         $400,000 with $50,000 in debris removal costs, the total $450,000 is paid from within your
-        Coverage A limit — no issue.
+        dwelling limit — no issue.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But here is where it gets important: if the total of the dwelling damage plus debris removal
-        costs exceeds the Coverage A limit, the policy typically provides up to an additional 5% of
+        costs exceeds the dwelling limit, the policy typically provides up to an additional 5% of
         Coverage A specifically for debris removal. Using the same $500,000 limit example, if your
         dwelling damage is $480,000 and debris removal costs are $60,000, the combined $540,000
         exceeds your $500,000 limit. In that scenario, the additional 5% provision kicks in,
@@ -51,7 +51,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="The 5% Only Kicks In When You Need It">
         <p>
           The additional 5% of the dwelling limit for debris removal only activates when the combined cost
-          of the dwelling loss plus debris removal exceeds the Coverage A limit. If the total loss
+          of the dwelling loss plus debris removal exceeds the dwelling limit. If the total loss
           stays within Coverage A, debris removal is simply paid from within that limit. This is an
           important distinction — the 5% is not automatically available on every claim. It is a
           safety net for when the combined costs push past your dwelling limit.
@@ -252,7 +252,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Remember the additional 5% provision.</strong> If your dwelling loss plus debris
-          removal costs are approaching or exceeding your Coverage A limit, make sure the additional
+          removal costs are approaching or exceeding your dwelling limit, make sure the additional
           5% is accounted for in your settlement.
         </li>
         <li>

@@ -113,7 +113,7 @@ export default function Content() {
         <li>
           <strong>Coverage B (Other Structures)</strong> &mdash; Open perils. Covers detached
           structures like garages, fences, sheds, and retaining walls. Typically set at 10% of
-          your Coverage A limit.
+          your dwelling limit.
         </li>
         <li>
           <strong>Coverage C (Personal Property)</strong> &mdash; Named perils only. Your

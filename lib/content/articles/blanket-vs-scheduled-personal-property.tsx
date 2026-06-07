@@ -32,7 +32,7 @@ export default function Content() {
         for every item in the home up to the policy limit. It is a complex coverage with
         internal restrictions, sub-limits, and valuation
         rules that can leave significant categories of personal property dramatically
-        underinsured &mdash; even when the overall Coverage C limit appears adequate.
+        underinsured &mdash; even when the overall personal property limit appears adequate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The distinction between blanket (unscheduled) personal property coverage and scheduled
@@ -49,7 +49,7 @@ export default function Content() {
         Blanket personal property coverage &mdash; the standard Coverage C that comes with
         every homeowners policy &mdash; provides a single aggregate limit that applies to all
         of the policyholder&rsquo;s personal property, subject to the policy&rsquo;s terms,
-        conditions, and exclusions. On most HO-3 policies, the Coverage C limit is set at a
+        conditions, and exclusions. On most HO-3 policies, the personal property limit is set at a
         percentage of the Coverage A (Dwelling) limit, typically 50 to 75 percent. A home
         insured for $500,000 under Coverage A might carry $250,000 to $375,000 in Coverage C.
       </p>
@@ -68,7 +68,7 @@ export default function Content() {
           special limits of liability
         </Link>{' '}
         that cap the amount the policy will pay for specific categories of personal property,
-        regardless of the overall Coverage C limit. These sub-limits are often shockingly low
+        regardless of the overall personal property limit. These sub-limits are often shockingly low
         relative to the value of the items they restrict. Common sub-limits on a standard ISO
         HO-3 policy include:
       </p>
@@ -412,7 +412,7 @@ export default function Content() {
           <strong>Conduct a personal property audit.</strong> Walk through every room in the
           home &mdash; including the garage, attic, basement, and storage areas &mdash; and
           estimate the total replacement cost of the contents. Compare that figure to the
-          Coverage C limit. If the actual value exceeds the limit, increase the Coverage C
+          personal property limit. If the actual value exceeds the limit, increase the Coverage C
           amount.
         </li>
         <li>
@@ -455,7 +455,7 @@ export default function Content() {
         },
         {
           question: 'What are the standard sub-limits I should know about?',
-          answer: 'Common ISO HO-3 sub-limits: $1,500 for jewelry, watches, furs, and precious stones (combined, not per item — a single engagement ring can blow through this); $2,500 for firearms and related equipment; $2,500 for silverware/goldware/pewterware; $1,500 for theft of cash and coins (including collector coins); $2,500 for business property on the residence premises ($500 away from premises); $1,000 for watercraft and equipment. These sub-limits vary by carrier but the pattern is consistent: the categories that tend to be most valuable are the ones most tightly restricted under blanket coverage. The $300,000 Coverage C limit on the declarations page is irrelevant for items subject to sub-limits.',
+          answer: 'Common ISO HO-3 sub-limits: $1,500 for jewelry, watches, furs, and precious stones (combined, not per item — a single engagement ring can blow through this); $2,500 for firearms and related equipment; $2,500 for silverware/goldware/pewterware; $1,500 for theft of cash and coins (including collector coins); $2,500 for business property on the residence premises ($500 away from premises); $1,000 for watercraft and equipment. These sub-limits vary by carrier but the pattern is consistent: the categories that tend to be most valuable are the ones most tightly restricted under blanket coverage. The $300,000 personal property limit on the declarations page is irrelevant for items subject to sub-limits.',
         },
         {
           question: 'When should I schedule an item rather than relying on blanket coverage?',
@@ -467,7 +467,7 @@ export default function Content() {
         },
         {
           question: "How does California's SB 495 affect contents claims?",
-          answer: "Under Insurance Code §10103.7 (added by AB 3012 effective July 2021; amended by SB 495 effective January 2026), when a total loss occurs to the dwelling in a declared state of emergency, the carrier must offer an advance payment of at least 60% of the contents coverage limit, up to $350,000 (under SB 495; was 30% / $250,000 under AB 3012), without requiring a room-by-room inventory for at least 100 days. The advance is not the full Coverage C limit — policyholders should pursue a complete inventory afterward to recover any remaining amount within the policy limit.",
+          answer: "Under Insurance Code §10103.7 (added by AB 3012 effective July 2021; amended by SB 495 effective January 2026), when a total loss occurs to the dwelling in a declared state of emergency, the carrier must offer an advance payment of at least 60% of the contents coverage limit, up to $350,000 (under SB 495; was 30% / $250,000 under AB 3012), without requiring a room-by-room inventory for at least 100 days. The advance is not the full personal property limit — policyholders should pursue a complete inventory afterward to recover any remaining amount within the policy limit.",
         },
         {
           question: 'Why does the documentation burden differ between blanket and scheduled coverage?',

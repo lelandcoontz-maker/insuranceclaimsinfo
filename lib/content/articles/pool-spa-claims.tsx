@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Swimming Pool and Spa Insurance Claims: Coverage, Exclusions, and Common Disputes',
   description:
-    'How swimming pools and spas are covered under homeowners insurance in California — Coverage B limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine.',
+    'How swimming pools and spas are covered under homeowners insurance in California — Other Structures limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine.',
   summary:
     'Pools and spas fall under the limited Coverage B \'other structures,\' and claims often involve equipment breakdown, freeze damage, earth movement, and resurfacing disputes. The efficient proximate cause doctrine can restore coverage when a covered peril is the real cause.',
 }
@@ -26,7 +26,7 @@ export default function Content() {
         and among the most frustrating to insure. A typical in-ground pool costs $50,000 to
         $150,000 to build, a quality spa runs $15,000 to $40,000, and both come with complex
         mechanical systems that are expensive to repair or replace. When a covered loss damages
-        your pool or spa, the insurance claim that follows involves Coverage B limits, equipment
+        your pool or spa, the insurance claim that follows involves Other Structures limits, equipment
         breakdown questions, earth movement exclusions, code upgrade requirements, and cost
         disputes that can drag on for months.
       </p>
@@ -48,11 +48,11 @@ export default function Content() {
         the pool.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If your dwelling is insured for $700,000, your Coverage B limit is $70,000 &mdash; for
+        If your dwelling is insured for $700,000, your Other Structures limit is $70,000 &mdash; for
         the pool, the spa, the fence, the detached garage, the retaining walls, and anything else
         that qualifies as an other structure. For homeowners with a pool <em>and</em> a spa
         <em> and</em> a detached garage, the default limit is almost certainly inadequate. Check
-        your declarations page and consider increasing your Coverage B limit or scheduling the
+        your declarations page and consider increasing your Other Structures limit or scheduling the
         pool separately.
       </p>
 
@@ -365,7 +365,7 @@ export default function Content() {
           damaged components and provide proper repair costs.
         </li>
         <li>
-          <strong>Check your Coverage B limit.</strong> Know whether it is adequate to cover the
+          <strong>Check your Other Structures limit.</strong> Know whether it is adequate to cover the
           pool, spa, and all other structures on the property. If it is not, discuss coverage
           stacking options with your adjuster or Public Adjuster.
         </li>

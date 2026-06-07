@@ -6,7 +6,7 @@ export const meta = {
   description:
     'A guide to filing theft and burglary claims under homeowner insurance policies. Covers Coverage A, B, and C, sublimits, mysterious disappearance, vacancy exclusions, SIU investigations, and California-specific rules.',
   summary:
-    'Theft and burglary claims involve Coverage C limits and sub-limits on items like jewelry and cash, the \'mysterious disappearance\' issue, vacancy exclusions, and possible SIU scrutiny. File a police report and document losses to support the claim.',
+    'Theft and burglary claims involve personal property limits and sub-limits on items like jewelry and cash, the \'mysterious disappearance\' issue, vacancy exclusions, and possible SIU scrutiny. File a police report and document losses to support the claim.',
 }
 
 export default function Content() {
@@ -75,7 +75,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, off-premises theft &mdash; theft that occurs away from the insured premises &mdash;
-        is typically limited to 10% of the Coverage C limit. If your Coverage C limit is $150,000,
+        is typically limited to 10% of the personal property limit. If your personal property limit is $150,000,
         off-premises theft coverage is capped at $15,000. This is a policy limitation, not a
         sublimit, and it applies to the total of all personal property stolen off-premises, not per
         item or per occurrence.
@@ -83,7 +83,7 @@ export default function Content() {
 
       <CalloutBox variant="info" title="On-Premises vs. Off-Premises Theft">
         <p>
-          A theft from your home is covered up to the full Coverage C limit (subject to sublimits on
+          A theft from your home is covered up to the full personal property limit (subject to sublimits on
           specific categories). A theft that occurs away from home &mdash; from your car, a storage
           unit, a hotel room, or anywhere else &mdash; is limited to 10% of the personal property limit. Always
           identify where the theft occurred, because this determines the available coverage limit.

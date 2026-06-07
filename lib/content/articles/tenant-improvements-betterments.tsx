@@ -343,7 +343,7 @@ export default function Content() {
           filing a claim and being told the master policy will not cover their interior damage.
           Read them now. Look for the section on insurance responsibility and maintenance
           obligations. If it says &ldquo;studs out&rdquo; or &ldquo;bare walls,&rdquo; your
-          Coverage A limit needs to be high enough to rebuild the entire interior of your unit
+          dwelling limit needs to be high enough to rebuild the entire interior of your unit
           from scratch.
         </p>
       </CalloutBox>
@@ -547,7 +547,7 @@ export default function Content() {
         extension</strong> for alterations, appliances, fixtures, and improvements that are
         part of the building and that the tenant acquired or made at their own expense. Under
         Coverage C &mdash; Additional Coverages, this extension typically provides a sublimit
-        of <strong>10% of the Coverage C limit</strong> for such improvements.
+        of <strong>10% of the personal property limit</strong> for such improvements.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If a tenant carries $30,000 in personal property coverage, this means up to $3,000 for
@@ -573,7 +573,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The most important question for a renter is whether an installed item can be removed
         without damaging the building. This determines whether it is covered as personal
-        property under the full Coverage C limit or falls under the improvement sublimit:
+        property under the full personal property limit or falls under the improvement sublimit:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

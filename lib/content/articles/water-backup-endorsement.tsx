@@ -216,7 +216,7 @@ export default function Content() {
         Coverage C is named-perils, accidental discharge or overflow is one of the named
         perils. Either way, the coverage flows from the base policy. It does not require the
         water backup endorsement. It is not subject to a $5,000 or $10,000 sub-limit. It is
-        covered under the dwelling&rsquo;s full Coverage A limit (and Coverage C for personal
+        covered under the dwelling&rsquo;s full dwelling limit (and Coverage C for personal
         property), subject only to the standard deductible.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

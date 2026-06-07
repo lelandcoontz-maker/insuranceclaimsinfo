@@ -323,7 +323,7 @@ export default function Content() {
         Coverage A and Coverage C. If a smart home hub that controls your entire automation
         system is classified as personal property, it is subject to depreciation and
         sub-limits. If it is classified as part of the dwelling, it is covered at
-        replacement cost with the full Coverage A limit.
+        replacement cost with the full dwelling limit.
       </p>
 
       <CalloutBox variant="tip" title="Document How Smart Devices Are Installed">

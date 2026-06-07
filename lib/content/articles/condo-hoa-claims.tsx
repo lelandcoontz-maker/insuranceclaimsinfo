@@ -433,9 +433,9 @@ export default function Content() {
           Before filing a condo claim, obtain: (1) your CC&amp;Rs, declaration, or bylaws &mdash;
           specifically the insurance and maintenance provisions; (2) a certificate of insurance for
           the HOA&rsquo;s master policy showing the policy type (bare walls, single entity, or
-          all-in); and (3) your own HO-6 policy, including the Coverage A dwelling language. If
-          you cannot determine the split between the two policies from these documents, a public
-          adjuster or HOA attorney can help.
+          all-in); and (3) your own HO-6 policy, including the dwelling coverage language. If
+          you cannot determine the split between the two policies from these documents, a Public
+          Adjuster or HOA attorney can help.
         </p>
       </CalloutBox>
 

@@ -45,7 +45,7 @@ export default function Content() {
         The first coverage question in any solar panel claim is classification. Under a standard
         HO-3 policy, Coverage A insures the dwelling and &ldquo;structures attached to the
         dwelling.&rdquo; Coverage B insures other structures &mdash; detached garages, sheds,
-        fences, and similar items &mdash; typically at 10% of the Coverage A limit. The
+        fences, and similar items &mdash; typically at 10% of the dwelling limit. The
         distinction matters because Coverage B has a lower limit, and some policies apply
         different deductibles or exclusions to other structures.
       </p>
@@ -65,9 +65,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Ground-mounted solar arrays &mdash; installed on posts or frames in the yard, separate
         from the dwelling structure &mdash; are properly classified as other structures under
-        Coverage B. They are not attached to the dwelling. The 10% Coverage B limit may be
+        Coverage B. They are not attached to the dwelling. The 10% Other Structures limit may be
         adequate for a small array, but larger ground-mounted systems can easily exceed that
-        limit. If you have a ground-mounted system, check your Coverage B limit and consider an
+        limit. If you have a ground-mounted system, check your Other Structures limit and consider an
         endorsement to increase it.
       </p>
 

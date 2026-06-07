@@ -159,7 +159,7 @@ export default function Content() {
         Extended Replacement Cost
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        An extended replacement cost endorsement increases your Coverage A limit by a set
+        An extended replacement cost endorsement increases your dwelling limit by a set
         percentage &mdash; typically 25 or 50 percent &mdash; if the actual cost to rebuild
         exceeds your policy limit. If your dwelling limit is $400,000 and you have a 25 percent
         extended replacement cost endorsement, the insurer will pay up to $500,000 to rebuild
@@ -180,7 +180,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Guaranteed replacement cost goes further. It promises to pay whatever it actually costs to
-        rebuild your home, even if that amount exceeds your Coverage A limit by any amount. There
+        rebuild your home, even if that amount exceeds your dwelling limit by any amount. There
         is no cap and no percentage ceiling. If your home is insured for $400,000 but rebuilding
         costs $600,000, the insurer pays $600,000.
       </p>
