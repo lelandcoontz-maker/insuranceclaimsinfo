@@ -376,9 +376,32 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         If the insurer refuses to sign a tolling agreement, that refusal itself may be relevant
-        to a bad faith analysis — and it is a strong signal that you should file a protective
-        lawsuit before the limitations period expires. Consult with an attorney if the insurer
-        will not agree to toll.
+        to a bad faith analysis. It is also a signal that an insured may want to consult with
+        counsel about filing a lawsuit before the limitations period expires &mdash; what
+        California practitioners commonly call &ldquo;filing to protect the statute&rdquo; or
+        &ldquo;filing to preserve the statute.&rdquo; Under California Code of Civil Procedure
+        &sect; 583.210(a), the summons and complaint must be served within three years after
+        the action is commenced (filed). Because filing the complaint stops the statute of
+        limitations from running, and service can be effected later within that statutory
+        window, a complaint can be filed close to the suit-limitation deadline while
+        negotiations continue. The California Courts self-help materials explain the
+        underlying principle that the statute of limitations is the deadline to{' '}
+        <a
+          href="https://selfhelp.courts.ca.gov/civil-lawsuit/statute-limitations"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#2E74B5] underline"
+        >
+          sue someone (file a lawsuit)
+        </a>
+        , not the deadline to serve the defendant. The lawsuit must be filed in good faith and
+        on a non-frivolous claim; the timing of service is then governed by the separate
+        delay-in-service rules in CCP &sect;&sect; 583.210&ndash;583.250.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Whether to use this approach in a specific situation, when to file, and how long to
+        delay service are litigation strategy questions and should be evaluated by a licensed
+        California attorney. The discussion above is educational, not legal advice.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
