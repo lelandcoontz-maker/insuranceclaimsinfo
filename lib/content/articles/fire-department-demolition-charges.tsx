@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Fire Department Charges and Government-Ordered Demolition: Who Pays After a Loss?',
   description:
-    'Fire response billing, red-tag demolition orders, and how California property insurance handles government-imposed charges after a covered loss. Coverage A, ordinance or law, debris removal, and the timing problems that catch policyholders off guard.',
+    'Fire response billing, red-tag demolition orders, and how California property insurance handles government-imposed charges after a covered loss. Dwelling coverage, ordinance or law, debris removal, and the timing problems that catch policyholders off guard.',
   summary:
-    'After a covered loss, fire-response billing and government-ordered (red-tag) demolition can hit you unexpectedly. Coverage A, ordinance or law, and debris removal may pay these charges, but timing gaps can catch policyholders off guard.',
+    'After a covered loss, fire-response billing and government-ordered (red-tag) demolition can hit you unexpectedly. Dwelling coverage, ordinance or law, and debris removal may pay these charges, but timing gaps can catch policyholders off guard.',
 }
 
 export default function Content() {
@@ -190,11 +190,11 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        B. Coverage A vs. Ordinance or Law Coverage
+        B. Dwelling Coverage vs. Ordinance or Law Coverage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Government-ordered demolition raises one of the most important coverage distinctions in
-        property insurance: the line between Coverage A (dwelling damage) and{' '}
+        property insurance: the line between the dwelling coverage (dwelling damage) and{' '}
         <Link href="/resources/ordinance-law" className="text-blue-700 underline hover:text-blue-900">
           Ordinance or Law coverage
         </Link>. Understanding this distinction can mean the difference between full recovery and
@@ -257,8 +257,8 @@ export default function Content() {
         <Link href="/resources/debris-removal" className="text-blue-700 underline hover:text-blue-900">
           debris removal coverage
         </Link>{' '}
-        as an additional coverage, typically capped at 5% of the Coverage A dwelling limit. On a
-        $500,000 Coverage A policy, that is $25,000 for debris removal. For a minor loss, this is
+        as an additional coverage, typically capped at 5% of the dwelling limit. On a
+        $500,000 dwelling policy, that is $25,000 for debris removal. For a minor loss, this is
         usually adequate. For a government-ordered demolition, it is almost never enough.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -298,7 +298,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When these costs are added together, a government-ordered demolition of a single-family
         home can easily exceed $50,000 to $100,000 &mdash; far beyond the typical 5% debris
-        removal limit. The excess must come from somewhere: Coverage A, Ordinance or Law coverage,
+        removal limit. The excess must come from somewhere: the dwelling coverage, Ordinance or Law coverage,
         or out of the policyholder&rsquo;s pocket. Proper allocation across these coverages is
         critical.
       </p>
@@ -427,8 +427,8 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Work with your contractor to break down demolition and removal costs into the appropriate
-        coverage categories: damaged-portion demolition (Coverage A), undamaged-portion demolition
-        (Ordinance or Law), debris hauling and disposal (debris removal additional coverage), and
+        coverage categories: damaged-portion demolition (the dwelling coverage),
+        undamaged-portion demolition (Ordinance or Law), debris hauling and disposal (debris removal additional coverage), and
         hazmat abatement (allocated based on which materials are in the damaged vs. undamaged
         portions). Proper allocation maximizes your total recovery across all available coverages.
       </p>
@@ -464,7 +464,7 @@ export default function Content() {
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
-        can help you navigate the interplay between Coverage A, Ordinance or Law, debris removal,
+        can help you navigate the interplay between dwelling coverage, Ordinance or Law, debris removal,
         and any applicable endorsements. The cost allocation decisions made early in the claim
         can affect your total recovery by tens of thousands of dollars.
       </p>
@@ -480,7 +480,7 @@ export default function Content() {
           <strong>Allocating all demolition to debris removal:</strong> The carrier may try to
           allocate all demolition and removal costs to the debris removal additional coverage
           (typically limited to 5% of the dwelling limit), rather than properly splitting costs between
-          Coverage A (damaged portion) and Ordinance or Law (undamaged portion). This
+          the dwelling coverage (damaged portion) and Ordinance or Law (undamaged portion). This
           dramatically underpays the claim.
         </li>
         <li>
