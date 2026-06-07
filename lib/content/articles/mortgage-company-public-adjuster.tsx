@@ -89,7 +89,7 @@ export default function Content() {
       </h3>
       <CalloutBox variant="legal" title="Policy Language">
         <p>
-          &ldquo;If a mortgagee is named in this policy, any loss payable under Coverage A or B will
+          &ldquo;If a mortgagee is named in this policy, any loss payable under the dwelling or Other Structures coverage will
           be paid to the mortgagee and you, as interests appear.&rdquo;
         </p>
       </CalloutBox>
@@ -100,10 +100,10 @@ export default function Content() {
         the mortgage balance goes to the insured alone.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Important limitation:</strong> This applies only to Coverage A (Dwelling) and
-        Coverage B (Other Structures). The mortgage company is <strong>not</strong> entitled to be a
+        <strong>Important limitation:</strong> This applies only to dwelling and
+        Other Structures coverage. The mortgage company is <strong>not</strong> entitled to be a
         payee on personal property or additional living expense / temporary housing
-        (Coverage D) payments. Those coverages are for the insured&apos;s personal benefit and have
+        (Loss of Use) payments. Those coverages are for the insured&apos;s personal benefit and have
         nothing to do with the lender&apos;s collateral interest.
       </p>
 
@@ -228,12 +228,12 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>The insured&apos;s personal property claim (Coverage C)</strong> &mdash; this
+          <strong>The insured&apos;s personal property claim</strong> &mdash; this
           includes inventories of personal belongings, credit card statements, purchase receipts, and
           total loss reports
         </li>
         <li>
-          <strong>The insured&apos;s additional living expense claim (Coverage D)</strong> &mdash;
+          <strong>The insured&apos;s additional living expense claim</strong> &mdash;
           this includes temporary housing costs, restaurant meals, mileage, and all the intimate
           details of how a displaced family is managing to survive
         </li>

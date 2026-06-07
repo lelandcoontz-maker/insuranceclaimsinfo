@@ -43,10 +43,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Dwelling Coverage (Coverage A) &mdash; Open Perils
+        Dwelling Coverage &mdash; Open Perils
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under Coverage A of the HO-3, the dwelling is covered on an open-perils (all-risk) basis.
+        Under the dwelling coverage of the HO-3, the dwelling is covered on an open-perils (all-risk) basis.
         This means glass that is part of the building structure &mdash; windows, sliding glass
         doors, skylights, storm doors, fixed glass panels &mdash; is covered for any cause of loss
         unless the policy specifically excludes it. The burden is on the insurer to prove an
@@ -55,10 +55,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Personal Property Coverage (Coverage C) &mdash; Named Perils
+        Personal Property Coverage &mdash; Named Perils
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage C of the HO-3 covers personal property on a named-perils basis. One of those
+        Personal property coverage on the HO-3 covers personal property on a named-perils basis. One of those
         named perils is &ldquo;breakage of glass or safety glazing.&rdquo; This peril applies
         to glass items that are personal property rather than part of the building &mdash; glass
         tabletops, mirrors (if freestanding or wall-hung but not built-in), glass shelving, and
@@ -266,7 +266,7 @@ export default function Content() {
         replacement of glass with &ldquo;safety glazing materials when required by ordinance
         or law.&rdquo; If your policy includes this language, the insurer owes for tempered
         glass as part of the glass replacement &mdash; <strong>even if the policy does not
-        include a separate Ordinance or Law (Coverage E) endorsement</strong>.
+        include a separate Ordinance or Law endorsement</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is significant. Many carriers will deny the cost of tempered glass replacement on
@@ -323,7 +323,7 @@ export default function Content() {
           the crack is caused by a covered peril &mdash; not wear and tear.
         </li>
         <li>
-          <strong>Open-perils dwelling coverage:</strong> Under Coverage A of the HO-3, the dwelling
+          <strong>Open-perils dwelling coverage:</strong> Under the dwelling coverage of the HO-3, the dwelling
           is covered on an open-perils basis. A thermal stress crack is a direct physical loss. Unless
           the carrier can affirmatively prove that the crack falls within an exclusion &mdash; such as
           wear and tear, inherent vice, or latent defect &mdash; it is covered. The burden is on the

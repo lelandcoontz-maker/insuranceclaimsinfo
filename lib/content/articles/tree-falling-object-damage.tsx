@@ -45,11 +45,11 @@ export default function Content() {
         and other objects are not excluded, so damage to your dwelling is covered.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Personal property (Coverage C) is written on a named-perils basis under the HO-3, and
+        Personal property coverage is written on a named-perils basis under the HO-3, and
         &ldquo;falling objects&rdquo; is one of the specifically listed covered perils. Other
-        structures (Coverage B) &mdash; fences, detached garages, sheds, pergolas &mdash; are
+        structures &mdash; fences, detached garages, sheds, pergolas &mdash; are
         also covered on an open-perils basis. A tree that falls on your fence or crushes your
-        detached garage is a covered loss under Coverage B.
+        detached garage is a covered loss under Other Structures coverage.
       </p>
 
       <CalloutBox variant="info" title="What Counts as a Falling Object?">
@@ -222,7 +222,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           Total coverage for trees, shrubs, and plants is limited to <strong>5% of
-          Coverage A</strong>. On a $500,000 policy, that is $25,000 total.
+          the dwelling coverage</strong>. On a $500,000 policy, that is $25,000 total.
         </li>
         <li>
           Each individual item is capped at <strong>$500</strong>. A mature specimen tree worth
@@ -249,7 +249,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For dwelling coverage under the open-perils HO-3, this is largely academic &mdash; both
-        wind and falling objects are covered. But for Coverage C claims and landscaping, the
+        wind and falling objects are covered. But for personal property claims and landscaping, the
         classification can determine whether a particular element is covered at all.
       </p>
 
@@ -294,7 +294,7 @@ export default function Content() {
         without warning &mdash; a phenomenon called &ldquo;sudden branch drop.&rdquo; This can
         occur on calm days with no wind at all. When a eucalyptus branch falls without a storm,
         carriers sometimes argue there was no covered peril. However, the peril is &ldquo;falling
-        objects,&rdquo; not &ldquo;windstorm.&rdquo; Under open-perils Coverage A, the burden is
+        objects,&rdquo; not &ldquo;windstorm.&rdquo; Under the open-perils dwelling coverage, the burden is
         on the carrier to prove an exclusion applies, and there is no exclusion for gravity.
       </p>
 

@@ -214,8 +214,8 @@ export default function Content() {
         insurer on your Minneapolis policy may argue that you do not &ldquo;reside&rdquo; at the
         Minneapolis home during the winter months. Under a proscriptive reading of the policy
         language, this would mean the Minneapolis home is not a &ldquo;residence premises&rdquo;
-        during the period you are away &mdash; and without that designation, Coverage A through
-        Coverage F all fail.
+        during the period you are away &mdash; and without that designation, dwelling through
+        medical-payments coverages all fail.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -530,7 +530,7 @@ export default function Content() {
         </li>
         <li>
           <strong>No personal liability coverage (potential gap):</strong> The DP-3 does not
-          include personal liability (Coverage E) or medical payments (Coverage F) coverage. If
+          include personal liability or medical payments coverage. If
           someone is injured at the seasonal property, you would need a separate{' '}
           <strong>personal liability policy</strong> or an <strong>umbrella policy</strong> to
           be covered. Your primary home&rsquo;s HO-3 policy may extend some liability coverage
@@ -538,7 +538,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Loss of use may be limited (potential gap):</strong> Loss of use coverage
-          (Coverage D) on a DP-3 may be more limited than on an HO-3, or may not be available at
+          (Loss of Use) on a DP-3 may be more limited than on an HO-3, or may not be available at
           all for a property where you do not reside.
         </li>
         <li>
@@ -686,7 +686,7 @@ export default function Content() {
         <li>
           <strong>Personal property coverage at the other home:</strong> Your California
           HO-3 policy may provide some coverage for personal property &ldquo;anywhere in the
-          world,&rdquo; but this coverage is typically limited to 10 percent of the Coverage C
+          world,&rdquo; but this coverage is typically limited to 10 percent of the personal property limit
           limit. If you keep $100,000 worth of personal property at your Arizona home, and your
           California policy has a $200,000 personal property limit, you may have only $20,000 of coverage
           for that Arizona personal property under the California policy. The Arizona DP-3 may
@@ -694,7 +694,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Liability coverage:</strong> Your California HO-3&rsquo;s personal liability
-          coverage (Coverage E) generally follows you and applies regardless of where the
+          personal liability coverage generally follows you and applies regardless of where the
           incident occurs. If someone is injured at your Arizona home, your California
           policy&rsquo;s liability coverage may respond. But if you have a DP-3 on the Arizona
           home instead of an HO-3, the Arizona policy does not include liability coverage, and

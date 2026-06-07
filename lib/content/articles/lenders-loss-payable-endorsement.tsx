@@ -281,7 +281,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Receive joint payment</strong> on dwelling and other structures claims. Checks
-          for structural damage (Coverage A and Coverage B) will typically be issued jointly to
+          for structural damage (dwelling and Other Structures) will typically be issued jointly to
           the insured and the lender.
         </li>
         <li>
@@ -357,17 +357,17 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A (Dwelling)</strong> and <strong>Coverage B (Other Structures)</strong>{' '}
+          <strong>Dwelling</strong> and <strong>Other Structures</strong>{' '}
           checks will have the lender&rsquo;s name. These are the coverages the endorsement
           applies to, because these are the coverages that protect the lender&rsquo;s collateral.
         </li>
         <li>
-          <strong>Coverage C (Personal Property / Contents)</strong> checks should{' '}
+          <strong>Personal Property</strong> checks should{' '}
           <strong>not</strong> have the lender&rsquo;s name. Your personal belongings are not the
           lender&rsquo;s collateral. The endorsement does not extend to contents.
         </li>
         <li>
-          <strong>Coverage D (Additional Living Expenses / Fair Rental Value)</strong> checks
+          <strong>Loss of Use (ALE / Fair Rental Value)</strong> checks
           should <strong>not</strong> have the lender&rsquo;s name. ALE and FRV payments
           compensate the insured for living expenses and lost income &mdash; they have nothing
           to do with the lender&rsquo;s security interest in the structure.
@@ -493,8 +493,8 @@ export default function Content() {
             above that amount belong to you.
           </li>
           <li>
-            The endorsement applies to structural coverages (Coverage A and B) &mdash; not to
-            contents (Coverage C) or additional living expenses (Coverage D). If the lender&rsquo;s
+            The endorsement applies to structural coverages (dwelling and Other Structures) &mdash; not to
+            contents (personal property) or additional living expenses (Loss of Use). If the lender&rsquo;s
             name appears on a contents or ALE check, demand reissuance.
           </li>
           <li>
