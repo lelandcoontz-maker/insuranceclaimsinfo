@@ -225,13 +225,13 @@ export default function Content() {
       </p>
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
         <p className="text-gray-700 text-sm leading-relaxed mb-2">
-          <strong>Coverage A &mdash; Building:</strong> $1,200,000
+          <strong>Building:</strong> $1,200,000
         </p>
         <p className="text-gray-700 text-sm leading-relaxed mb-2">
-          <strong>Coverage B &mdash; Business Personal Property:</strong> $350,000
+          <strong>Business Personal Property:</strong> $350,000
         </p>
         <p className="text-gray-700 text-sm leading-relaxed mb-0">
-          <strong>Coverage B &mdash; Stock:</strong> $500,000
+          <strong>Stock:</strong> $500,000
         </p>
       </div>
       <p className="text-gray-700 leading-relaxed mb-4">

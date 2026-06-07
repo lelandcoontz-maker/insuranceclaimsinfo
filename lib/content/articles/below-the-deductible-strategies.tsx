@@ -236,7 +236,7 @@ export default function Content() {
         <li>Ceiling and wall damage from water intrusion</li>
         <li>Damaged light fixtures, electrical outlets, or wiring exposed to moisture</li>
         <li>Carpet, padding, or flooring damaged by water tracking down interior walls</li>
-        <li>Personal property damage from water intrusion (covered under Coverage C)</li>
+        <li>Personal property damage from water intrusion</li>
         <li>Paint damage, staining, or texture damage that requires repainting entire rooms
           to maintain a uniform appearance</li>
         <li>HVAC ductwork contamination if water enters the system</li>

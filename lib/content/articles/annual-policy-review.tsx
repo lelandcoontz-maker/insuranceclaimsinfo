@@ -50,24 +50,29 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A (Dwelling):</strong> Does this reflect the current cost to rebuild your
-          home from the ground up? Not the market value — the reconstruction cost. Get a rebuild
-          estimate from a licensed contractor if you are unsure.
+          <strong>Dwelling:</strong> Does this reflect the current cost to rebuild your
+          home from the ground up? Not the market value &mdash; the reconstruction cost. Get a
+          rebuild estimate from a licensed contractor if you are unsure.
         </li>
         <li>
-          <strong>Coverage B (Other Structures):</strong> Do you have a detached garage, pool house,
-          fence, or ADU? Is the standard 10 percent of Coverage A enough?
+          <strong>Other Structures:</strong> Do you have a detached garage, pool house,
+          fence, or ADU? Is the standard 10 percent of the dwelling limit enough?
         </li>
         <li>
-          <strong>Coverage C (Personal Property):</strong> Have you made major purchases this year?
-          New furniture, electronics, jewelry, art? Is the contents limit still adequate?
+          <strong>Personal Property:</strong> Have you made major purchases this year?
+          New furniture, electronics, jewelry, art? Is the personal property limit still adequate?
         </li>
         <li>
-          <strong>Coverage D (Loss of Use):</strong> If you had to rent a comparable home in your
-          area for 12 to 24 months while yours is rebuilt, would this limit cover it? Check rental
-          prices in your neighborhood.
+          <strong>Loss of Use:</strong> If you had to rent a comparable home in your
+          area for 12 to 24 months while yours is rebuilt, would this limit cover it? Check
+          rental prices in your neighborhood.
         </li>
       </ul>
+      <p className="text-sm text-gray-600 italic mb-4">
+        Note: standard HO-3 policies label these as Coverage A, B, C, and D respectively. DP-1
+        named-peril policies, the California FAIR Plan, and other policy forms may use different
+        nomenclature.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Check for Replacement Cost vs. Actual Cash Value

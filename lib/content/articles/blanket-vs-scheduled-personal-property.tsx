@@ -288,10 +288,10 @@ export default function Content() {
           that $6,000 is still subject to the $1,500 sub-limit.
         </li>
         <li>
-          <strong>Underestimating blanket Coverage C needs.</strong> The standard Coverage C
-          percentage (50 to 75 percent of Coverage A) may be adequate for a minimally
-          furnished home, but many households contain far more personal property than they
-          realize. A family with decades of accumulated belongings, holiday decorations, tools
+          <strong>Underestimating blanket personal property needs.</strong> The standard
+          personal property percentage (50 to 75 percent of the dwelling limit) may be adequate
+          for a minimally furnished home, but many households contain far more personal property
+          than they realize. A family with decades of accumulated belongings, holiday decorations, tools
           in the garage, clothing for four family members, and a well-stocked kitchen can
           easily exceed 75 percent of their dwelling coverage in actual contents value.
         </li>
