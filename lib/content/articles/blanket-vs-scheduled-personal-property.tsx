@@ -5,9 +5,9 @@ import { QABlock } from '@/components/content/QABlock'
 export const meta = {
   title: 'Blanket vs. Scheduled Personal Property Coverage: When to Schedule and What You Risk If You Do Not',
   description:
-    'How blanket personal property coverage works under Coverage C, when scheduling individual items is necessary, the valuation differences between each approach, and California-specific strategies for adequate contents coverage.',
+    'How blanket personal property coverage works under personal property, when scheduling individual items is necessary, the valuation differences between each approach, and California-specific strategies for adequate contents coverage.',
   summary:
-    'Blanket Coverage C insures your belongings as a group with internal sub-limits on categories like jewelry, while scheduling lists high-value items individually for full agreed valuation. Schedule anything whose value exceeds its category sub-limit to avoid a shortfall.',
+    'Blanket personal property coverage insures your belongings as a group with internal sub-limits on categories like jewelry, while scheduling lists high-value items individually for full agreed valuation. Schedule anything whose value exceeds its category sub-limit to avoid a shortfall.',
 }
 
 export default function Content() {
@@ -46,15 +46,15 @@ export default function Content() {
         How Blanket Personal Property Coverage Works
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Blanket personal property coverage &mdash; the standard Coverage C that comes with
+        Blanket personal property coverage &mdash; the standard personal property coverage that comes with
         every homeowners policy &mdash; provides a single aggregate limit that applies to all
         of the policyholder&rsquo;s personal property, subject to the policy&rsquo;s terms,
         conditions, and exclusions. On most HO-3 policies, the personal property limit is set at a
-        percentage of the Coverage A (Dwelling) limit, typically 50 to 75 percent. A home
-        insured for $500,000 under Coverage A might carry $250,000 to $375,000 in Coverage C.
+        percentage of the dwelling limit, typically 50 to 75 percent. A home
+        insured for $500,000 under the dwelling coverage might carry $250,000 to $375,000 in personal property coverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        At first glance, these figures may appear generous. But blanket Coverage C operates
+        At first glance, these figures may appear generous. But blanket personal property coverage operates
         under constraints that significantly reduce the amount actually available for many
         categories of property:
       </p>
@@ -108,7 +108,7 @@ export default function Content() {
         categories most tightly restricted under blanket coverage.
       </p>
 
-      <CalloutBox variant="warning" title="Sub-Limits Apply Regardless of Your Coverage C Limit">
+      <CalloutBox variant="warning" title="Sub-Limits Apply Regardless of Your Personal Property Limit">
         <p>
           A policyholder with $300,000 in blanket personal property coverage is still limited
           to $1,500 for jewelry under the standard sub-limit. The $300,000 limit is
@@ -188,7 +188,7 @@ export default function Content() {
         <li>
           <strong>Broader perils.</strong> Scheduled personal property endorsements typically
           provide &ldquo;open perils&rdquo; (all risk) coverage, meaning the item is covered
-          for any cause of loss unless specifically excluded. Standard blanket Coverage C on
+          for any cause of loss unless specifically excluded. Standard blanket personal property coverage on
           an HO-3 policy only covers named perils for personal property. This means accidental
           breakage, mysterious disappearance, and other losses that would not be covered under
           blanket coverage may be covered when the item is scheduled.
@@ -213,7 +213,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The decision of whether to schedule an item should be based on three factors: whether
         the item&rsquo;s value exceeds the applicable sub-limit, whether the item requires
-        broader peril coverage than blanket Coverage C provides, and whether the certainty
+        broader peril coverage than blanket personal property coverage provides, and whether the certainty
         of agreed value coverage justifies the additional premium. As a general rule,
         scheduling is advisable for:
       </p>
@@ -305,7 +305,7 @@ export default function Content() {
         <li>
           <strong>Not scheduling items kept off-premises.</strong> Items stored in a safety
           deposit box, a vacation home, or a storage unit may have limited or no coverage
-          under blanket Coverage C. Scheduling ensures those items are covered wherever they
+          under blanket personal property coverage. Scheduling ensures those items are covered wherever they
           are located.
         </li>
       </ol>
@@ -412,7 +412,7 @@ export default function Content() {
           <strong>Conduct a personal property audit.</strong> Walk through every room in the
           home &mdash; including the garage, attic, basement, and storage areas &mdash; and
           estimate the total replacement cost of the contents. Compare that figure to the
-          personal property limit. If the actual value exceeds the limit, increase the Coverage C
+          personal property limit. If the actual value exceeds the limit, increase the personal property
           amount.
         </li>
         <li>
@@ -451,7 +451,7 @@ export default function Content() {
       <QABlock pairs={[
         {
           question: 'What is the difference between blanket and scheduled personal property coverage?',
-          answer: 'Blanket (unscheduled) Coverage C is the standard contents coverage that comes with every homeowners policy — a single aggregate limit (typically 50–75% of the dwelling limit) that applies to all your personal property, subject to special sub-limits for certain categories and to depreciation. Scheduled personal property is a separate endorsement (also called a personal articles floater) that lists specific items individually at agreed values. Scheduled items get agreed-value coverage, no sub-limits, broader "open perils" rather than named-perils, often no deductible, and worldwide coverage — at the cost of additional premium.',
+          answer: 'Blanket (unscheduled) personal property coverage is the standard contents coverage that comes with every homeowners policy — a single aggregate limit (typically 50–75% of the dwelling limit) that applies to all your personal property, subject to special sub-limits for certain categories and to depreciation. Scheduled personal property is a separate endorsement (also called a personal articles floater) that lists specific items individually at agreed values. Scheduled items get agreed-value coverage, no sub-limits, broader "open perils" rather than named-perils, often no deductible, and worldwide coverage — at the cost of additional premium.',
         },
         {
           question: 'What are the standard sub-limits I should know about?',
@@ -459,11 +459,11 @@ export default function Content() {
         },
         {
           question: 'When should I schedule an item rather than relying on blanket coverage?',
-          answer: "When the item's value exceeds the applicable sub-limit (individually or in aggregate across the category), when you need broader peril coverage than named-perils blanket Coverage C provides, or when the certainty of agreed-value coverage justifies the additional premium. Typical candidates: jewelry and watches above $1,500; fine art and collectibles whose value can't be determined by simple retail replacement; musical instruments (especially vintage or professional-grade); firearms collections above $2,500; appreciated wine and spirits; professional camera and photography equipment; business-use electronics; furs and luxury items.",
+          answer: "When the item's value exceeds the applicable sub-limit (individually or in aggregate across the category), when you need broader peril coverage than named-perils blanket personal property coverage provides, or when the certainty of agreed-value coverage justifies the additional premium. Typical candidates: jewelry and watches above $1,500; fine art and collectibles whose value can't be determined by simple retail replacement; musical instruments (especially vintage or professional-grade); firearms collections above $2,500; appreciated wine and spirits; professional camera and photography equipment; business-use electronics; furs and luxury items.",
         },
         {
           question: 'What are common mistakes that leave policyholders underinsured even with scheduling?',
-          answer: 'Failing to update scheduled values (an engagement ring appraised at $8,000 ten years ago may be worth $14,000 today — under agreed value, you still only collect the original $8,000). Scheduling the ring but not the collection (the sub-limit still applies in aggregate to any unscheduled jewelry, no matter how much your one scheduled item is worth). Underestimating blanket Coverage C needs across the whole home (decades of accumulated belongings can easily exceed 75% of dwelling coverage). Assuming the carrier tracks your scheduled items (you must notify them of acquisitions, sales, and value changes). Not scheduling items kept off-premises.',
+          answer: 'Failing to update scheduled values (an engagement ring appraised at $8,000 ten years ago may be worth $14,000 today — under agreed value, you still only collect the original $8,000). Scheduling the ring but not the collection (the sub-limit still applies in aggregate to any unscheduled jewelry, no matter how much your one scheduled item is worth). Underestimating blanket personal property needs across the whole home (decades of accumulated belongings can easily exceed 75% of dwelling coverage). Assuming the carrier tracks your scheduled items (you must notify them of acquisitions, sales, and value changes). Not scheduling items kept off-premises.',
         },
         {
           question: "How does California's SB 495 affect contents claims?",
