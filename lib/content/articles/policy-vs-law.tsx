@@ -64,7 +64,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         In <em>Aliff v. California FAIR Plan Association</em> (Los Angeles Superior Court, Case No.
-        21STCV20095, decided June 25, 2025), Judge Stuart M. Rice ruled that the California FAIR
+        21STCV20095, decided June 2025), Judge Stuart M. Rice ruled that the California FAIR
         Plan&rsquo;s fire insurance policy &ldquo;unlawfully limited coverage in a stricter manner
         than the &sect; 2071 standard form.&rdquo; The ruling found that the FAIR Plan violated
         California Insurance Code &sect; 2071 in several specific ways.
@@ -132,14 +132,11 @@ export default function Content() {
           The <em>Aliff</em> ruling was issued by a Superior Court judge. It is not published
           appellate authority, which means it does not create binding precedent for other courts.
           Other homeowners with the same FAIR Plan policy and the same smoke damage issues may have
-          to sue and relitigate the same arguments &mdash; and by all accounts, they are doing so
-          and winning. The FAIR Plan has indicated it does not expect to appeal and has been working
-          with the California Department of Insurance to update its policy language. But with FAIR
-          Plan enrollment surging from under 250,000 in 2021 to 556,000 by March 2025, the number
-          of policyholders potentially affected by the same unlawful language is enormous. A CDI
-          examination had already documented 418 violations between January 2017 and March 2021,
-          including issuing noncompliant fire policies and inadequately investigating over 200
-          smoke damage claims.
+          to sue and relitigate the same arguments. The FAIR Plan has indicated it has been working
+          with the California Department of Insurance to update its policy language. With FAIR
+          Plan enrollment having grown substantially in recent years as admitted carriers have
+          withdrawn from high-wildfire-exposure zones, the number of policyholders potentially
+          affected by the same restrictive language is large.
         </p>
       </CalloutBox>
 
@@ -215,17 +212,24 @@ export default function Content() {
           anti-concurrent causation clauses cannot defeat coverage when a covered peril is the
           efficient proximate cause of the loss. The California Supreme Court reaffirmed the
           general rule in <em>Julian v. Hartford Underwriters Insurance Co.</em> (2005) 35 Cal.4th
-          747: &ldquo;Policy exclusions are unenforceable to the extent that they conflict with
-          section 530 and the efficient proximate cause doctrine.&rdquo; (Note: in <em>Julian</em>
-          itself, the Court ultimately enforced the carrier&rsquo;s exclusion because it found the
-          excluded peril &mdash; rain-induced landslide &mdash; was distinct from the covered peril
-          of rain alone. The rule is real but the line between &ldquo;excluding a manifestation of
-          a covered peril&rdquo; and &ldquo;excluding a distinct peril&rdquo; matters.) After the
-          2018 Thomas Fire / Montecito mudslides, the Legislature codified the rule for
-          wildfire-related losses in Insurance Code &sect; 530.5, and the California Department of
-          Insurance has issued formal notices on this point in both 2018 and again in Bulletin
-          2025-3 (February 2025, after the Los Angeles wildfires), reminding insurers they may not
-          use ACC clauses to deny coverage when wildfire was the efficient proximate cause.
+          747 &mdash; though it is important to read <em>Julian</em> carefully: the Court
+          ultimately enforced the carrier&rsquo;s exclusion because it found the excluded peril
+          (rain-induced landslide) was distinct from the covered peril (rain alone). The
+          efficient-proximate-cause rule is real, but the line between &ldquo;excluding a
+          manifestation of a covered peril&rdquo; and &ldquo;excluding a distinct peril&rdquo;
+          matters and often decides the case.
+        </p>
+        <p className="text-gray-700 leading-relaxed mb-4">
+          In 2018, after the Thomas Fire and the Montecito mudslides that followed, the
+          Legislature enacted <strong>Insurance Code &sect; 530.5</strong> (SB 917, effective
+          January 1, 2019) addressing concurrent-peril claims involving post-fire debris flow.
+          Section 530.5 provides: &ldquo;If a loss or damage results from a combination of perils,
+          one of which is a landslide, mudslide, mudflow, or debris flow, coverage shall be
+          provided if an insured peril is the efficient proximate cause of the loss or damage and
+          coverage would otherwise be provided for the insured peril.&rdquo; The statute is
+          framed around the landslide/mudslide side of the chain rather than wildfire itself, but
+          its practical effect is to prevent insurers from using ACC clauses to deny coverage for
+          mudslide and debris-flow damage that follows a covered wildfire.
         </p>
         <div className="pt-3 border-t border-gray-300">
           <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-1.5">
@@ -239,7 +243,10 @@ export default function Content() {
               Garvey v. State Farm (1989) 48 Cal.3d 395
             </span>
             <span className="inline-block bg-[#1F3964]/10 text-[#1F3964] text-xs font-medium px-3 py-1 rounded-full">
-              CDI Formal Notice (2018)
+              Insurance Code &sect; 530.5 (SB 917, 2018)
+            </span>
+            <span className="inline-block bg-[#1F3964]/10 text-[#1F3964] text-xs font-medium px-3 py-1 rounded-full">
+              Julian v. Hartford (2005) 35 Cal.4th 747
             </span>
           </div>
         </div>
@@ -348,23 +355,23 @@ export default function Content() {
           are stuck with the depreciated value.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>What the law says:</strong> California Insurance Code &sect; 2051.5 provides that
-          &ldquo;a time limit of less than 12 months from the date that the first payment toward the
-          actual cash value is made shall not be placed on an insured in order to collect the full
-          replacement cost of the loss.&rdquo; The insurer must provide additional
-          extensions of six months &ldquo;for good cause&rdquo; if the insured, acting in good
+          <strong>What the law says:</strong> California Insurance Code &sect; 2051.5(b) provides
+          that an insured has a minimum of 12 months from the date the insurer makes the first
+          actual-cash-value payment to collect the full replacement cost of the loss. For losses
+          related to a declared state of emergency, the minimum is 36 months. The insurer must
+          grant additional six-month extensions for good cause when the insured, acting in good
           faith and with reasonable diligence, encounters delays beyond their control &mdash;
           including permit delays, lack of construction materials, or unavailability of contractors.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>Bottom line:</strong> Any policy provision giving you less than 12 months to
-          collect replacement cost violates &sect; 2051.5. For losses related to a declared state
-          of emergency, the minimum is 36 months. And even those periods must be extended for good
-          cause. If your insurer says your replacement cost deadline has passed but you have been
-          diligently trying to rebuild and encountered delays, the statute may protect you.
-          Also, &sect; 2051.5 prohibits any provision that limits or denies replacement cost
-          payment because you chose to rebuild at a different location or purchase an already-built
-          home elsewhere.
+          <strong>Bottom line:</strong> Any policy provision giving an insured less than 12 months
+          (or, for declared-emergency losses, less than 36 months) to collect replacement cost
+          violates &sect; 2051.5. If an insurer claims a replacement cost deadline has passed but
+          the insured has been diligently trying to rebuild and encountered delays, the statute
+          may protect against the cutoff. Section 2051.5(c) also protects the insured&apos;s
+          option to rebuild at a different location: a policy cannot deny or limit replacement
+          cost coverage simply because the insured chose to rebuild elsewhere &mdash; though the
+          measure of indemnity is capped at what replacement at the original location would cost.
         </p>
         <div className="pt-3 border-t border-gray-200">
           <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-1.5">
