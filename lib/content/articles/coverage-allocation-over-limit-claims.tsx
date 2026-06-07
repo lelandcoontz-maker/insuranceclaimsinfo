@@ -29,7 +29,7 @@ export default function Content() {
         </Link>{' '}
         claims and other policies where total damage exceeds the dwelling coverage limit. The
         question is deceptively simple: when the carrier has discretion in how to allocate payments
-        across coverage lines, should it maximize the amount paid under Coverage A &mdash; where the
+        across coverage lines, should it maximize the amount paid under the dwelling coverage &mdash; where the
         mortgage company&rsquo;s name will be on the check &mdash; or should it maximize the amount
         paid under other coverages like Fair Rental Value, where the check goes directly to the
         insured?
@@ -48,21 +48,21 @@ export default function Content() {
         Consider a homeowner with a California FAIR Plan policy:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>Coverage A (Dwelling):</strong> $500,000</li>
+        <li><strong>Dwelling:</strong> $500,000</li>
         <li><strong>Fair Rental Value (FRV):</strong> $50,000 (included at 10% of dwelling limit)</li>
         <li><strong>Total damage:</strong> $600,000 (clearly exceeds the dwelling limit)</li>
-        <li><strong>Mortgage:</strong> Yes &mdash; the lender&rsquo;s name goes on all Coverage A checks</li>
+        <li><strong>Mortgage:</strong> Yes &mdash; the lender&rsquo;s name goes on all dwelling-coverage checks</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The total damage exceeds Coverage A by $100,000. The carrier must decide how to allocate
+        The total damage exceeds the dwelling limit by $100,000. The carrier must decide how to allocate
         the payment across the available coverage lines. There are two ways to handle this:
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Option 1: Maximize Coverage A
+        Option 1: Maximize the dwelling coverage
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Pay <strong>$500,000</strong> under Coverage A (check includes the mortgage company&rsquo;s name)</li>
+        <li>Pay <strong>$500,000</strong> under the dwelling coverage (check includes the mortgage company&rsquo;s name)</li>
         <li>Pay <strong>$0</strong> under FRV</li>
         <li>
           <strong>Result:</strong> ALL of the money requires mortgage company endorsement. The
@@ -75,7 +75,7 @@ export default function Content() {
         Option 2: Allocate to Maximize the Insured&rsquo;s Access
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Pay <strong>$450,000</strong> under Coverage A (check includes the mortgage company&rsquo;s name)</li>
+        <li>Pay <strong>$450,000</strong> under the dwelling coverage (check includes the mortgage company&rsquo;s name)</li>
         <li>Pay <strong>$50,000</strong> under FRV (check goes <strong>directly to the insured</strong>, no mortgage company)</li>
         <li>
           <strong>Result:</strong> The insured has $50,000 in unencumbered funds immediately. They
@@ -127,7 +127,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         And consider this: if the mortgage balance exceeds $450,000, the insured might not see
-        any of the dwelling money at all. The lender may apply every dollar of Coverage A to the
+        any of the dwelling money at all. The lender may apply every dollar of the dwelling coverage to the
         loan balance. In that scenario, the FRV allocation is not just convenient &mdash; it may be
         the only money the insured actually receives. That makes the allocation question critical.
       </p>
@@ -216,7 +216,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         On an over-limit claim, there is genuine flexibility in how to characterize the damage
-        across coverage lines. Both Coverage A and Fair Rental Value are legitimate coverage lines
+        across coverage lines. Both dwelling coverage and Fair Rental Value are legitimate coverage lines
         that respond to the loss. FRV covers the fair rental value of the property while it is
         uninhabitable due to a covered peril &mdash; and on any claim where the property is
         uninhabitable, FRV is triggered. The carrier has discretion in how much of the total loss
@@ -224,7 +224,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is not a case where the policy language mandates one specific allocation. The policy
-        does not say &ldquo;maximize Coverage A first, and only pay FRV after Coverage A is
+        does not say &ldquo;maximize the dwelling coverage first, and only pay FRV after the dwelling coverage is
         exhausted.&rdquo; The carrier is making a discretionary choice. And it is precisely when the
         insurer exercises discretion that the good faith duty becomes most relevant.
       </p>
@@ -233,7 +233,7 @@ export default function Content() {
         Exercising Discretion Against the Insured&rsquo;s Interest
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When the carrier routes all money through Coverage A &mdash; where the mortgage company
+        When the carrier routes all money through the dwelling coverage &mdash; where the mortgage company
         controls it &mdash; and allocates nothing to FRV &mdash; where the insured would receive it
         directly &mdash; the carrier is making a discretionary choice that disadvantages the insured.
         The insured loses immediate access to funds. The insured is subjected to the mortgage
@@ -291,7 +291,7 @@ export default function Content() {
         FAIR Plan claims frequently involve total losses or near-total losses. The FAIR Plan is the
         insurer of last resort &mdash; the properties it covers are typically in high-risk areas
         where catastrophic loss is more likely. Wildfire losses in particular tend to be total losses,
-        and total losses are precisely the scenario where damage exceeds Coverage A and the allocation
+        and total losses are precisely the scenario where damage exceeds the dwelling limit and the allocation
         question arises.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -343,7 +343,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Document any refusal.</strong> If the carrier refuses to allocate in your favor,
-          or if it insists on maximizing Coverage A, ask for the refusal in writing with an
+          or if it insists on maximizing the dwelling coverage, ask for the refusal in writing with an
           explanation of the carrier&rsquo;s reasoning. This documentation becomes critical if the
           dispute escalates.
         </li>
@@ -388,11 +388,11 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage C (Personal Property):</strong> Checks for personal property losses do
+          <strong>Personal Property:</strong> Checks for personal property losses do
           not include the mortgage company&rsquo;s name. The insured receives these directly.
         </li>
         <li>
-          <strong>Coverage D (Additional Living Expenses / Loss of Use):</strong> ALE payments go
+          <strong>Loss of Use (ALE):</strong> ALE payments go
           directly to the insured. The mortgage company has no interest in these funds.
         </li>
         <li>
@@ -400,13 +400,13 @@ export default function Content() {
           insured.
         </li>
         <li>
-          <strong>Coverage B (Other Structures):</strong> Depending on the loss, Other Structures
+          <strong>Other Structures:</strong> Depending on the loss, Other Structures
           payments may also be available and may be subject to different allocation considerations.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        On a total loss where damage clearly exceeds Coverage A, every dollar the carrier allocates
-        to Coverage C, Coverage D, FRV, or other non-dwelling coverages is a dollar the insured
+        On a total loss where damage clearly exceeds the dwelling limit, every dollar the carrier allocates
+        to personal property, Loss of Use, FRV, or other non-dwelling coverages is a dollar the insured
         receives directly. The carrier&rsquo;s allocation across these lines determines the
         insured&rsquo;s liquidity, their ability to start the rebuild, and their practical access to
         the policy benefits they paid for. Understanding{' '}
