@@ -42,11 +42,10 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The ISO HO-3 was designed around the concept of physical loss &mdash; tangible damage to
-        tangible property. The policy&rsquo;s Coverage A (Dwelling) and Coverage B (Other
-        Structures) protect physical buildings. Coverage C (Personal Property) protects physical
-        belongings. Coverage D (Loss of Use) covers the inability to live in a physically damaged
-        home. Coverages E and F handle liability and medical payments for physical injuries and
-        physical property damage caused to others.
+        tangible property. Dwelling and Other Structures coverages protect physical buildings.
+        Personal property coverage protects physical belongings. Loss of Use coverage covers
+        the inability to live in a physically damaged home. The liability and medical-payments
+        sections handle injuries and property damage caused to others.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Notice the pattern: <strong>physical, physical, physical.</strong> The entire policy
@@ -320,7 +319,7 @@ export default function Content() {
         </Link>{' '}
         apply differently to contents than to dwelling components, and because the loss
         settlement provisions (replacement cost vs. actual cash value) may differ between
-        Coverage A and Coverage C. If a smart home hub that controls your entire automation
+        the dwelling coverage and personal property coverage. If a smart home hub that controls your entire automation
         system is classified as personal property, it is subject to depreciation and
         sub-limits. If it is classified as part of the dwelling, it is covered at
         replacement cost with the full dwelling limit.
@@ -331,7 +330,7 @@ export default function Content() {
           Photograph the installation of hardwired smart home devices such as thermostats,
           security panels, doorbell cameras, and built-in speakers. If these devices are
           permanently attached to the dwelling&rsquo;s electrical or data wiring, they are
-          more likely to be classified under Coverage A (Dwelling) rather than Coverage C
+          more likely to be classified under the dwelling coverage rather than personal property coverage
           (Contents), which typically means better loss settlement terms.
         </p>
       </CalloutBox>
@@ -380,8 +379,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The answer is genuinely uncertain and will likely require litigation to resolve. Under
-        a favorable reading for the policyholder, the HO-3&rsquo;s open-peril Coverage A
-        structure covers all risks of physical loss unless specifically excluded. A cyber
+        a favorable reading for the policyholder, the HO-3&rsquo;s open-peril dwelling coverage
+        covers all risks of physical loss unless specifically excluded. A cyber
         intrusion is not a named exclusion in the standard HO-3. If the cyber attack causes
         a fire, and fire is a covered peril, the loss should be covered regardless of what
         caused the fire.
@@ -604,7 +603,7 @@ export default function Content() {
         cryptocurrency, or other digital assets. The short answer is: probably not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The HO-3&rsquo;s Coverage C provides coverage for theft of personal property.
+        The HO-3&rsquo;s personal property coverage provides coverage for theft of personal property.
         Historically, &ldquo;personal property&rdquo; in the insurance context means
         tangible property &mdash; things you can hold, move, and see. Digital files,
         passwords, and cryptocurrency are intangible assets. While courts in some
@@ -628,7 +627,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Hardware wallets &mdash; physical devices that store cryptocurrency keys &mdash; add
         a twist. If the physical device is stolen in a traditional burglary, there is a
-        stronger argument that the theft of a tangible item triggers Coverage C. But the value
+        stronger argument that the theft of a tangible item triggers personal property coverage. But the value
         of the device itself is minimal ($50 to $200); the value is in the cryptocurrency it
         controls. Whether an insurer would pay the value of the cryptocurrency stored on a
         stolen hardware wallet is an unsettled question that would likely require litigation
@@ -702,8 +701,8 @@ export default function Content() {
         </Link>
         , inventory all smart home devices, their installation method (portable vs. hardwired),
         purchase price, and model numbers. If a loss occurs, this documentation will help
-        establish whether each device should be classified under Coverage A (Dwelling) or
-        Coverage C (Contents), which affects both valuation and loss settlement terms.
+        establish whether each device should be classified under the dwelling coverage or
+        personal property coverage, which affects both valuation and loss settlement terms.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
