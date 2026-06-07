@@ -370,7 +370,7 @@ export default function Content() {
         Your homeowner policy has multiple coverage parts: Coverage A (Dwelling), Coverage B
         (Other Structures), Coverage C (Personal Property), and Coverage D (Loss of Use). The
         standard deductible typically applies to property damage coverages (A, B, and C) but
-        does <strong>not</strong> apply to Coverage D &mdash; Loss of Use / Additional Living
+        does <strong>not</strong> apply to Loss of Use / Additional Living
         Expenses. If a carrier subtracts the deductible from your ALE payment, that is an error.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

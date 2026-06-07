@@ -63,7 +63,7 @@ export default function Content() {
         Valuable Papers in Homeowner Policies
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under the standard ISO HO-3 homeowner policy, valuable papers fall under Coverage C &mdash; Personal Property. However, they are subject to one of the{' '}
+        Under the standard ISO HO-3 homeowner policy, valuable papers fall under Personal Property. However, they are subject to one of the{' '}
         <Link href="/resources/special-limits-of-liability" className="text-[#2E74B5] underline hover:text-blue-900">
           Special Limits of Liability
         </Link>

@@ -275,7 +275,7 @@ export default function Content() {
         claim on a replacement cost homeowner policy with a $2,500 deductible:
       </p>
       <p className="text-gray-700 leading-relaxed mb-2">
-        <strong>Coverage A &mdash; Dwelling:</strong>
+        <strong>Dwelling:</strong>
       </p>
       <ul className="list-disc pl-6 space-y-1 text-gray-700 mb-4">
         <li>RCV: $120,000</li>

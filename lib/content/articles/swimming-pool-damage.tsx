@@ -40,7 +40,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Coverage B &mdash; Other Structures
+        Other Structures
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         On a standard HO-3 policy, an in-ground swimming pool is typically classified as an

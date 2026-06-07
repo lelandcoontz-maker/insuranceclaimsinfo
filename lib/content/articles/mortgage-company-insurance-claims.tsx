@@ -100,7 +100,7 @@ export default function Content() {
           insurer immediately and request reissuance.
         </li>
         <li>
-          <strong>Coverage D (Loss of Use / ALE):</strong> These checks should <strong>not</strong>{' '}
+          <strong>Loss of Use (ALE):</strong> These checks should <strong>not</strong>{' '}
           include the mortgage company&apos;s name. Additional living expense payments compensate you
           for the cost of living elsewhere while your home is being repaired. The lender has no
           interest in your hotel bills or rental expenses.

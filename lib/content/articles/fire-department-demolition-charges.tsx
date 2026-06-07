@@ -238,8 +238,8 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a government demolition order results in a complete teardown and rebuild, Ordinance
-        or Law coverage provides three critical components. L&amp;O Coverage A covers the loss
-        in value of the undamaged portion that must be demolished. L&amp;O Coverage B covers the
+        or Law coverage provides three critical components. L&amp;O Dwelling coverage covers the loss
+        in value of the undamaged portion that must be demolished. L&amp;O Other Structures coverage covers the
         cost of demolishing the undamaged portion. And L&amp;O Coverage C &mdash; the Increased
         Cost of Construction &mdash; covers the additional cost of rebuilding to current codes
         rather than the codes in effect when the home was originally built. As explained in our{' '}

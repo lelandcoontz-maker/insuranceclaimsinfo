@@ -213,7 +213,7 @@ export default function Content() {
           time-consuming parts of a wildfire claim.
         </li>
         <li>
-          <strong>Coverage D (Loss of Use / ALE):</strong> Pays for additional living expenses
+          <strong>Loss of Use (ALE):</strong> Pays for additional living expenses
           while your home is uninhabitable. This includes temporary housing, increased food costs,
           storage, and other necessary expenses.
         </li>

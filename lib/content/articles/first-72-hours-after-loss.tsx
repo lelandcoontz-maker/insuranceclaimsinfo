@@ -151,7 +151,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Arrange temporary housing if needed.</strong> If your home is uninhabitable,
-          your policy&apos;s Coverage D pays for a comparable place to live. See{' '}
+          your policy&apos;s Loss of Use coverage pays for a comparable place to live. See{' '}
           <Link href="/resources/ale-frv" className="text-[#1F3964] underline font-medium">
             Additional Living Expenses
           </Link>.

@@ -174,9 +174,9 @@ export default function Content() {
         </Link>{' '}
         pays for the additional costs of rebuilding to comply with current building codes when
         those codes have changed since your home was originally built. It typically has three
-        components: Coverage A pays for the loss in value of the undamaged portion of a building
-        that must be demolished to comply with code; Coverage B pays for the cost of demolishing
-        the undamaged portion; and Coverage C pays for the increased cost of construction to
+        components: Dwelling coverage pays for the loss in value of the undamaged portion of a building
+        that must be demolished to comply with code; Other Structures coverage pays for the cost of demolishing
+        the undamaged portion; and Personal property coverage pays for the increased cost of construction to
         bring the entire structure up to current code.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

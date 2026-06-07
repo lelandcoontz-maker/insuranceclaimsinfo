@@ -51,13 +51,13 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A &mdash; Dwelling:</strong> Covers structural damage to the home and attached structures (such as an attached garage). The limit matches the dwelling limit on your homeowner policy. This is the only coverage included by default &mdash; the other two must be selected and added.
+          <strong>Dwelling:</strong> Covers structural damage to the home and attached structures (such as an attached garage). The limit matches the dwelling limit on your homeowner policy. This is the only coverage included by default &mdash; the other two must be selected and added.
         </li>
         <li>
-          <strong>Coverage C &mdash; Personal Property:</strong> Covers damage to personal belongings like furniture, electronics, and clothing. The maximum limit was reduced from $200,000 to $25,000 effective in 2023, and the minimum is $5,000. This coverage has its own separate deductible.
+          <strong>Personal Property:</strong> Covers damage to personal belongings like furniture, electronics, and clothing. The maximum limit was reduced from $200,000 to $25,000 effective in 2023, and the minimum is $5,000. This coverage has its own separate deductible.
         </li>
         <li>
-          <strong>Coverage D &mdash; Loss of Use:</strong> Covers additional living expenses if you cannot live in your home during repairs. The maximum is $100,000, and this coverage has <strong>no deductible</strong>.
+          <strong>Loss of Use:</strong> Covers additional living expenses if you cannot live in your home during repairs. The maximum is $100,000, and this coverage has <strong>no deductible</strong>.
         </li>
       </ul>
 

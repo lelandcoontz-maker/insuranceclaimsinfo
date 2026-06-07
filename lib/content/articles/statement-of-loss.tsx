@@ -149,7 +149,7 @@ export default function Content() {
         loss form, consider what the dwelling section might look like on a complex claim:
       </p>
       <div className="bg-gray-50 border border-gray-200 rounded-lg p-5 mb-6 font-mono text-sm text-gray-700">
-        <p className="font-bold mb-2">Coverage A &mdash; Dwelling (Limit: $650,000)</p>
+        <p className="font-bold mb-2">Dwelling (Limit: $650,000)</p>
         <ul className="space-y-1 pl-4">
           <li>Emergency board-up and tarping &mdash; $4,200</li>
           <li>Water extraction and structural drying &mdash; $12,800</li>

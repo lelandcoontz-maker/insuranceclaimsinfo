@@ -398,7 +398,7 @@ export default function Content() {
           <Link href="/resources/contents-claims" className="text-[#2E74B5] hover:underline">contents claims guide</Link>.
         </li>
         <li>
-          <strong>Coverage D (ALE).</strong> If your home is not habitable due to smoke contamination,
+          <strong>Loss of Use (ALE).</strong> If your home is not habitable due to smoke contamination,
           you are entitled to{' '}
           <Link href="/resources/ale-frv" className="text-[#2E74B5] hover:underline">additional living expenses</Link>{' '}
           while remediation is performed.

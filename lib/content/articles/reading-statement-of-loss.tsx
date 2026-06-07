@@ -74,7 +74,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Coverage A &mdash; Dwelling
+        Dwelling
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Replacement Cost Value (RCV):</strong> $350,000</li>
@@ -96,7 +96,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Coverage B &mdash; Other Structures
+        Other Structures
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Replacement Cost Value (RCV):</strong> $25,000</li>
@@ -106,14 +106,14 @@ export default function Content() {
         <li><strong>Net ACV Payment:</strong> $21,250</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage B covers detached structures &mdash; fences, sheds, detached garages, retaining
+        Other Structures coverage covers detached structures &mdash; fences, sheds, detached garages, retaining
         walls. Notice that the deductible is $0 on this line. That is because the deductible was
         already applied in full to Coverage A. The deductible is applied only once per claim, and
         this is one of the most important details on the statement.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Coverage C &mdash; Personal Property
+        Personal Property
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>Replacement Cost Value (RCV):</strong> $85,000</li>
@@ -123,7 +123,7 @@ export default function Content() {
         <li><strong>Net ACV Payment:</strong> $59,500</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage C covers personal property &mdash; furniture, clothing, electronics, appliances,
+        Personal property coverage covers personal property &mdash; furniture, clothing, electronics, appliances,
         and everything else you own inside the home. Note the higher depreciation rate here. Personal
         property is often depreciated more aggressively than the dwelling structure, particularly for
         items like electronics and clothing that carriers consider to have shorter useful lives.

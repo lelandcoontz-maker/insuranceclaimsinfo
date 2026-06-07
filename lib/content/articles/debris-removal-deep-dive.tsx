@@ -142,7 +142,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Coverage A &mdash; Dwelling Debris Removal
+        Dwelling Debris Removal
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowners policies include debris removal as part of the dwelling coverage. Typically, the policy allocates a percentage &mdash; often 5% &mdash; of Coverage A for debris removal. So if your dwelling coverage limit is $500,000, you have $25,000 specifically earmarked for debris removal.

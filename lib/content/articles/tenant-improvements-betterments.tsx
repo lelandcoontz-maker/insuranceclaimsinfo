@@ -326,7 +326,7 @@ export default function Content() {
           <strong>&ldquo;Studs in&rdquo; (single entity or original spec):</strong> The master
           policy covers the building <em>including</em> all original fixtures, finishes, and
           improvements as they were when the unit was first sold. The unit owner&apos;s HO-6
-          Coverage A covers only upgrades and modifications made after the original purchase.
+          Dwelling coverage covers only upgrades and modifications made after the original purchase.
           If you never remodeled, your Coverage A exposure is minimal.
         </li>
         <li>
@@ -361,7 +361,7 @@ export default function Content() {
           countertops as they were originally installed. But what about the $30,000 kitchen
           remodel the owner did in 2019? That upgrade is the owner&apos;s HO-6 claim. The
           master policy pays to restore the original-grade cabinets; the owner&apos;s
-          Coverage A pays the difference to restore the upgraded version.
+          Dwelling coverage pays the difference to restore the upgraded version.
         </li>
         <li>
           <strong>Flooring:</strong> Original carpet was replaced with hardwood five years ago.
