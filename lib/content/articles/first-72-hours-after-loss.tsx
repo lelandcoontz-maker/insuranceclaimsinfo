@@ -201,7 +201,7 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="The Clock Is Running">
         <p>
-          Under 10 CCR &sect;&nbsp;2695.5(b) (California&apos;s Fair Claims Settlement
+          Under 10 CCR &sect;&nbsp;2695.5(e) (California&apos;s Fair Claims Settlement
           Practices Regulations), the insurer has 15 calendar days to acknowledge the claim
           and begin investigating. If a deadline is missed, document it &mdash; every missed
           deadline is evidence that may be useful later. See{' '}

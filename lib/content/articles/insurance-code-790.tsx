@@ -214,7 +214,7 @@ export default function Content() {
         information about the acknowledgment letter you received from the carrier at the
         start of your claim, the right reference points are the Fair Claims Settlement
         Practices Regulations at 10 CCR &sect;&sect; 2695.4 (affirmative disclosure of
-        coverages) and 2695.5(b) (acknowledgment timelines). The rest of this article is
+        coverages) and 2695.5(e) (acknowledgment timelines). The rest of this article is
         about the second usage &mdash; the insured-side notice letter citing
         &sect; 790.03(h) violations.
       </p>
