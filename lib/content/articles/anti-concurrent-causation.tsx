@@ -240,7 +240,7 @@ export default function Content() {
         States That Refuse to Enforce ACC Clauses
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A small number of states have statutes or court decisions that prevent insurers from contracting around the proximate cause rule through ACC language. California is the most prominent, based on Insurance Code &sect; 530 and the <em>Julian</em> decision. Other states in this category include North Dakota, Washington, and West Virginia, where courts have held that ACC clauses violate public policy or conflict with state insurance statutes.
+        A small number of states have statutes or court decisions that prevent insurers from contracting around the proximate cause rule through ACC language. California is the most prominent, based on Insurance Code &sect; 530 and the Court of Appeal&rsquo;s holding in <em>Howell v. State Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446 that ACC language cannot defeat coverage when a covered peril is the efficient proximate cause. The California Supreme Court restated the general rule in <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, although on <em>Julian</em>&rsquo;s facts the Court enforced the carrier&rsquo;s exclusion. Other states in this category include North Dakota, Washington, and West Virginia, where courts have held that ACC clauses violate public policy or conflict with state insurance statutes.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">

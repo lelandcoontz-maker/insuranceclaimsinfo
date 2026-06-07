@@ -156,6 +156,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Court of Appeal confirmed and extended <em>Julian</em> in <em>Vardanyan v. AMCO Insurance Co.</em> The insurer&rsquo;s policy contained language requiring that losses be &ldquo;caused only by&rdquo; certain listed perils. The Court of Appeal held that to the extent this language could be construed to mean that <em>any</em> contribution by an unlisted or excluded peril would bar coverage, the provision was &ldquo;an unenforceable attempt to contract around the efficient proximate cause doctrine.&rdquo; The court reversed and remanded for retrial, including the policyholder&rsquo;s bad faith cause of action.
       </p>
+      <p className="text-sm text-gray-500 italic mb-4">
+        Citation note: <em>Vardanyan</em> was filed December 17, 2015 and is cited here by year of decision (the convention of the California Style Manual). The official Cal.App.4th reporter volume is dated 2016, and Westlaw and Lexis cite the case as (2016) 243 Cal.App.4th 779. Both forms are correct.
+      </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
         <em>Howell v. State Farm</em> (1990) 218 Cal.App.3d 1446 &mdash; When a Covered Peril Destroys a Defense System
