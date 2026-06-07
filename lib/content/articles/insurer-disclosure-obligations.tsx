@@ -818,7 +818,7 @@ export default function Content() {
         15. The Prohibition on Requiring Duplicative Proofs of Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        10 CCR &sect; 2695.4(c) provides that no insurer shall require a first party
+        10 CCR &sect; 2695.4(g) provides that no insurer shall require a first party
         claimant to submit duplicate proofs of claim where coverage may exist under more
         than one policy issued by that insurer. If you have both a homeowner policy and a
         separate scheduled personal property policy with the same carrier, the insurer
@@ -833,7 +833,7 @@ export default function Content() {
         16. The Prohibition on Misleading Releases
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under 10 CCR &sect; 2695.4(d), no insurer shall issue checks or drafts in partial
+        Under 10 CCR &sect; 2695.4(f), no insurer shall issue checks or drafts in partial
         settlement that contain or are accompanied by language releasing the insurer from
         total liability unless the policy limit has been paid or there has been a compromise
         settlement agreed to by the claimant. This means your insurer cannot slip release
