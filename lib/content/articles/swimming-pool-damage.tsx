@@ -6,7 +6,7 @@ export const meta = {
   description:
     'How swimming pool damage is covered under homeowners insurance — Other Structures limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.',
   summary:
-    'Pool damage usually falls under the limited Coverage B and involves disputes over freeze, equipment breakdown, pop-outs, wildfire ash, and earth movement. Scheduling or coverage stacking and the efficient proximate cause doctrine can improve recovery.',
+    'Pool damage usually falls under the limited Other Structures and involves disputes over freeze, equipment breakdown, pop-outs, wildfire ash, and earth movement. Scheduling or coverage stacking and the efficient proximate cause doctrine can improve recovery.',
 }
 
 export default function Content() {
@@ -44,8 +44,8 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         On a standard HO-3 policy, an in-ground swimming pool is typically classified as an
-        &ldquo;other structure&rdquo; under Coverage B. This is the same coverage that applies
-        to detached garages, fences, retaining walls, and sheds. Coverage B is an open-peril
+        &ldquo;other structure&rdquo; under Other Structures. This is the same coverage that applies
+        to detached garages, fences, retaining walls, and sheds. Other Structures is an open-peril
         coverage &mdash; it covers all causes of loss unless a specific exclusion removes
         coverage &mdash; but it comes with a significant limitation: the default limit is
         only <strong>10% of your dwelling limit (dwelling) limit</strong>.
@@ -63,19 +63,19 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Coverage A &mdash; Attached Pool Equipment
+        Dwelling Coverage &mdash; Attached Pool Equipment
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Pool equipment that is physically attached to the dwelling &mdash; for example, a pool
         heater, pump, or filtration system housed in a utility room that shares a wall with the
-        house &mdash; may fall under Coverage A (dwelling) rather than Coverage B. This distinction
-        matters because dwelling limits are much higher. If your pool pump is bolted to the
-        side of the house or located in an attached equipment room, make sure the adjuster is not
-        automatically lumping it into Coverage B.
+        house &mdash; may fall under the dwelling coverage rather than Other Structures. This
+        distinction matters because dwelling limits are much higher. If your pool pump is bolted
+        to the side of the house or located in an attached equipment room, make sure the adjuster
+        is not automatically lumping it into Other Structures.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Detached pool equipment &mdash; a freestanding pump house, a separate equipment pad, or
-        a standalone heater &mdash; falls under Coverage B along with the pool itself.
+        a standalone heater &mdash; falls under Other Structures along with the pool itself.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -90,25 +90,25 @@ export default function Content() {
         and the fence for the same 10% pot of money.
       </p>
 
-      <CalloutBox variant="tip" title="Coverage Stacking: Scheduled Amount Plus Coverage B">
+      <CalloutBox variant="tip" title="Coverage Stacking: Scheduled Amount Plus Other Structures">
         <p>
           On most policies, if a pool is separately scheduled for a specific dollar amount,
           the total available coverage for that pool may be the <strong>scheduled amount
-          plus</strong> up to 10% of the dwelling limit from the general Coverage B allocation. You can
+          plus</strong> up to 10% of the dwelling limit from the general Other Structures allocation. You can
           pull from both lines. Here is an example:
         </p>
         <ul className="list-disc pl-6 space-y-2 mt-3">
-          <li>Coverage A (dwelling): $500,000</li>
-          <li>Coverage B (other structures, 10% of A): $50,000</li>
+          <li>Dwelling limit: $500,000</li>
+          <li>Other Structures limit (10% of dwelling): $50,000</li>
           <li>Pool scheduled endorsement: $80,000</li>
-          <li><strong>Total available for the pool: up to $130,000</strong> ($80,000 scheduled + $50,000 from Coverage B)</li>
+          <li><strong>Total available for the pool: up to $130,000</strong> ($80,000 scheduled + $50,000 from Other Structures)</li>
         </ul>
         <p className="mt-3">
           This stacking principle is important on large losses. If the pool rebuild costs
           $110,000, the scheduled endorsement alone would fall short &mdash; but adding the
-          Coverage B allocation covers the full amount. Review your policy language carefully,
+          Other Structures allocation covers the full amount. Review your policy language carefully,
           and if the adjuster treats the scheduled limit as a hard cap, push back. Check the
-          endorsement language and the base Coverage B provisions to confirm whether stacking
+          endorsement language and the base Other Structures provisions to confirm whether stacking
           applies to your policy.
         </p>
       </CalloutBox>
@@ -372,7 +372,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A pool leak creates an unusual coverage situation: the pool itself is covered under
-        Coverage B, but the water from the leak may damage the dwelling and
+        Other Structures, but the water from the leak may damage the dwelling and
         personal property. When a pool supply line bursts underground and water
         migrates under the foundation, causing settlement, cracking, and interior damage,
         you may have a claim under multiple coverages simultaneously.
@@ -417,13 +417,13 @@ export default function Content() {
           <tbody>
             <tr>
               <td className="border border-gray-300 px-4 py-2">Equipment attached to house (pump in attached utility room)</td>
-              <td className="border border-gray-300 px-4 py-2">Coverage A</td>
+              <td className="border border-gray-300 px-4 py-2">Dwelling</td>
               <td className="border border-gray-300 px-4 py-2">Higher limits; same coverage as dwelling</td>
             </tr>
             <tr className="bg-gray-50">
               <td className="border border-gray-300 px-4 py-2">Detached equipment pad or pump house</td>
-              <td className="border border-gray-300 px-4 py-2">Coverage B</td>
-              <td className="border border-gray-300 px-4 py-2">Subject to 10% limit unless scheduled</td>
+              <td className="border border-gray-300 px-4 py-2">Other Structures</td>
+              <td className="border border-gray-300 px-4 py-2">Subject to 10% of dwelling limit unless scheduled</td>
             </tr>
             <tr>
               <td className="border border-gray-300 px-4 py-2">Lightning strike destroys pump motor</td>
@@ -473,10 +473,10 @@ export default function Content() {
           the pool does not eliminate coverage.
         </li>
         <li>
-          <strong>&ldquo;Coverage B is exhausted.&rdquo;</strong> If the adjuster tells you
-          there is no money left in Coverage B because it was used for other structures, check
+          <strong>&ldquo;Other Structures is exhausted.&rdquo;</strong> If the adjuster tells you
+          there is no money left in Other Structures because it was used for other structures, check
           whether your pool is separately scheduled. If it is, the scheduled amount is
-          <em> in addition to</em> the base Coverage B, not deducted from it.
+          <em> in addition to</em> the base Other Structures, not deducted from it.
         </li>
         <li>
           <strong>&ldquo;Earth movement exclusion applies.&rdquo;</strong> The earth movement

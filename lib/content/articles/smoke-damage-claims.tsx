@@ -91,8 +91,8 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The binding California authority on this point is{' '}
-        <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 16 Cal.5th
-        ____ (S277893, May 23, 2024). The California Supreme Court held that &ldquo;direct
+        <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 15 Cal.5th
+        1106 (S277893, May 23, 2024). The California Supreme Court held that &ldquo;direct
         physical loss or damage&rdquo; under a property policy requires a &ldquo;distinct,
         demonstrable, physical alteration&rdquo; to property, and that the alteration{' '}
         <strong>&ldquo;need not be visible to the naked eye&rdquo;</strong> and{' '}
