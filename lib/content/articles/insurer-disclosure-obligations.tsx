@@ -253,11 +253,11 @@ export default function Content() {
             </Link>.
           </li>
           <li>
-            <strong>Coverage B (Other Structures):</strong>{' '}
+            <strong>Other Structures:</strong>{' '}
             Fences, detached garages, sheds, retaining walls, driveways, patios, and pool
             equipment are covered under a separate limit &mdash; typically 10% of the dwelling limit
             &mdash; that many policyholders never hear about. In declared disasters, California
-            Insurance Code &sect; 10103.7 allows policyholders to combine Coverage A and
+            Insurance Code &sect; 10103.7 allows policyholders to combine dwelling and Other Structures limits
             Other Structures limits toward rebuilding the primary dwelling if the dwelling limits
             are insufficient.
           </li>
@@ -504,7 +504,7 @@ export default function Content() {
         6. The Duty to Advise You of Temporary Housing Benefits
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage D &mdash; Additional Living Expenses &mdash; is one of the most valuable
+        Loss of Use coverage &mdash; Additional Living Expenses &mdash; is one of the most valuable
         coverages in a homeowner policy, and one of the most frequently left unexplained.
         When your home is uninhabitable due to a covered loss, the insurer owes the
         reasonable additional costs you incur to maintain your household while repairs are
@@ -544,7 +544,7 @@ export default function Content() {
         where the home is partially damaged and the policyholder could arguably remain during
         repairs &mdash; but would be living in an active construction zone with no kitchen,
         with dust and noise, or with safety hazards. Under the duty to explain all applicable
-        benefits, the adjuster should be proactively informing you of Coverage D and its
+        benefits, the adjuster should be proactively informing you of Loss of Use coverage and its
         full scope. If they did not, that is a regulatory violation. See our articles on{' '}
         <Link href="/resources/ale-frv" className="text-blue-700 underline hover:text-blue-900">
           additional living expenses and fair rental value
@@ -625,9 +625,9 @@ export default function Content() {
         9. The Duty to Explain Debris Removal Coverage
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under the standard homeowners form, debris removal is included in the Coverage A
+        Under the standard homeowners form, debris removal is included in the dwelling
         limit of liability. But here is the critical detail many policyholders miss: if the
-        total of direct physical damage plus debris removal costs exceeds the Coverage A
+        total of direct physical damage plus debris removal costs exceeds the dwelling limit
         limit, an additional 5% of the dwelling limit becomes available specifically for
         debris removal. In a total loss where the dwelling limit is $500,000, that is an
         additional $25,000 above the policy limit.
@@ -1093,7 +1093,7 @@ export default function Content() {
               <td className="p-3 text-gray-700">10 CCR &sect; 2695.4(d)</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
-              <td className="p-3 text-gray-700">Combination of Coverage A and B limits toward dwelling (declared disaster)</td>
+              <td className="p-3 text-gray-700">Combination of dwelling and Other Structures limits toward dwelling (declared disaster)</td>
               <td className="p-3 text-gray-700">CIC &sect; 10103.7</td>
             </tr>
           </tbody>

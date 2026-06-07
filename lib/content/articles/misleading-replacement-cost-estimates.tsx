@@ -23,7 +23,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Before you bought your homeowners insurance policy, the insurer or agent ran a replacement
         cost estimator on your home. The tool produced a number &mdash; say, $550,000 &mdash; and
-        that became your Coverage A dwelling limit. You paid premiums based on that number. You
+        that became your dwelling limit. You paid premiums based on that number. You
         trusted that it was accurate. You had no reason not to. Then your home burned down, and
         contractors quoted $850,000 to rebuild. You are $300,000 short, and the insurer says
         that is your problem.
@@ -439,7 +439,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Initial reports from affected homeowners indicated underinsurance gaps of 40 to 60
-        percent or more. Homes insured for $800,000 in Coverage A were producing rebuild
+        percent or more. Homes insured for $800,000 in dwelling coverage were producing rebuild
         estimates of $1.3 million or higher. The pattern was identical to every prior disaster:
         insurers had used automated tools to set limits that were far below actual rebuild costs,
         policyholders had relied on those limits, and the gap only became visible after the loss.
@@ -521,7 +521,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The misleading replacement cost estimate problem is most devastating for policyholders
-        with standard replacement cost coverage, where the payout is capped at the Coverage A
+        with standard replacement cost coverage, where the payout is capped at the dwelling limit
         limit. Policyholders with{' '}
         <Link href="/resources/replacement-cost-vs-guaranteed" className="text-[#2E74B5] hover:underline">
           guaranteed or extended replacement cost endorsements
@@ -581,7 +581,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Ask for extended or guaranteed replacement cost.</strong> If your carrier
-          offers extended replacement cost (25% or 50% above Coverage A), add it. If guaranteed
+          offers extended replacement cost (25% or 50% above the dwelling limit), add it. If guaranteed
           replacement cost is available (rare in California but worth asking), consider it. The
           additional premium is modest compared to the risk of being 40 percent underinsured
           after a total loss.
@@ -603,7 +603,7 @@ export default function Content() {
           these are absent or inadequate, contact your agent.
         </li>
         <li>
-          <strong>Understand your ordinance or law coverage.</strong> Even if your Coverage A
+          <strong>Understand your ordinance or law coverage.</strong> Even if your dwelling limit
           limit is adequate for the structure itself, code upgrade costs can add tens of
           thousands of dollars. Make sure your{' '}
           <Link href="/resources/ordinance-law" className="text-[#2E74B5] hover:underline">
@@ -635,8 +635,8 @@ export default function Content() {
         <li>
           <strong>Maximize every coverage separately.</strong> Ensure that debris removal,
           ordinance or law, other structures, personal property, and
-          additional living expenses (Coverage D) are all being claimed and paid from their own
-          sublimits &mdash; not from Coverage A. Every dollar that comes from a separate
+          additional living expenses (Loss of Use) are all being claimed and paid from their own
+          sublimits &mdash; not from the dwelling coverage. Every dollar that comes from a separate
           sublimit preserves your dwelling limit for actual construction.
         </li>
         <li>

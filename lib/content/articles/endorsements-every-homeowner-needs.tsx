@@ -107,7 +107,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Who needs it most:</strong> Every homeowner, but especially those in
         disaster-prone areas where demand surge is a factor &mdash; wildfire zones, hurricane
-        corridors, tornado alley. If your home was built more than 15 years ago, your Coverage A
+        corridors, tornado alley. If your home was built more than 15 years ago, your dwelling limit
         limit may not reflect current construction costs even in normal market conditions.
       </p>
 
@@ -215,9 +215,9 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What it is:</strong> Your base policy provides personal property coverage
-        (Coverage C), but it imposes sub-limits on certain categories of high-value items.
+        (personal property), but it imposes sub-limits on certain categories of high-value items.
         Jewelry is typically capped at $1,500 for theft losses. Firearms at $2,500. Silverware
-        at $2,500. Cash at $200. These sub-limits apply regardless of the total Coverage C
+        at $2,500. Cash at $200. These sub-limits apply regardless of the total personal property
         amount. A{' '}
         <Link href="/resources/scheduled-personal-property" className="text-[#2E74B5] hover:underline">
           scheduled personal property endorsement
@@ -397,7 +397,7 @@ export default function Content() {
         <Link href="/resources/inflation-guard-coverage" className="text-[#2E74B5] hover:underline">
           inflation guard endorsement
         </Link>{' '}
-        automatically increases your Coverage A (dwelling) limit at each renewal &mdash;
+        automatically increases your dwelling limit at each renewal &mdash;
         or continuously throughout the policy period &mdash; to keep pace with rising
         construction costs. Without it, your dwelling limit stays fixed at the amount
         set when you bought the policy (or last manually adjusted it), while actual
@@ -413,14 +413,14 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What happens without it:</strong> You buy a home in 2018 and insure it
-        for $350,000 in Coverage A &mdash; the estimated replacement cost at the time.
+        for $350,000 in dwelling coverage &mdash; the estimated replacement cost at the time.
         Over the next six years, construction costs rise 35% to 50% due to lumber price
         spikes, labor shortages, and building code changes. In 2024, a fire destroys the
         home. The actual replacement cost is now $500,000. Without inflation guard, your
-        policy still shows $350,000 in Coverage A. You are $150,000 short. Even with
+        policy still shows $350,000 in dwelling coverage. You are $150,000 short. Even with
         extended replacement cost at 25%, you reach only $437,500 &mdash; still more than
         $60,000 below actual cost. The inflation guard endorsement would have automatically
-        increased your Coverage A each year, narrowing or eliminating this gap.
+        increased your dwelling limit each year, narrowing or eliminating this gap.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Who needs it most:</strong> Every homeowner, but check whether your policy
