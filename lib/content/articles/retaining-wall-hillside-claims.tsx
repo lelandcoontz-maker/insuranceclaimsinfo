@@ -6,7 +6,7 @@ export const meta = {
   description:
     'California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Other Structures limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim.',
   summary:
-    'Retaining-wall and hillside failures spark complex disputes over the limited Coverage B, the earth-movement exclusion, and engineering causation. California\'s efficient proximate cause doctrine can restore coverage when a covered peril triggered the failure.',
+    'Retaining-wall and hillside failures spark complex disputes over the limited Other Structures coverage, the earth-movement exclusion, and engineering causation. California\'s efficient proximate cause doctrine can restore coverage when a covered peril triggered the failure.',
 }
 
 export default function Content() {
@@ -38,7 +38,7 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        I. Coverage B: Other Structures and the Limit Problem
+        I. Other Structures and the Limit Problem
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under a standard HO-3 homeowner policy, retaining walls are classified as &ldquo;other
@@ -58,12 +58,12 @@ export default function Content() {
         for these losses.
       </p>
 
-      <CalloutBox variant="important" title="Review Your Coverage B Limits Now">
+      <CalloutBox variant="important" title="Review Your Other Structures Limits Now">
         <p>
           If your property has a retaining wall &mdash; particularly one that supports a
           driveway, a portion of the structure, or a significant elevation change &mdash; review
-          your Other Structures limits immediately. Many carriers allow you to increase Coverage B
-          above the standard 10%. Some also offer endorsements that extend Coverage A to include
+          your Other Structures limits immediately. Many carriers allow you to increase the Other Structures limit
+          above the standard 10%. Some also offer endorsements that extend the dwelling coverage to include
           retaining walls that are structurally integral to the dwelling. The time to increase
           these limits is before a loss, not after.
         </p>
@@ -77,7 +77,7 @@ export default function Content() {
         but is structurally integrated with the dwelling itself. A basement wall that also retains
         the hillside, a foundation wall that serves a dual purpose, or a wall that is physically
         attached to and supports the structure may be considered part of the dwelling and covered
-        under Coverage A rather than Coverage B. This distinction matters enormously because
+        under the dwelling coverage rather than Other Structures coverage. This distinction matters enormously because
         dwelling limits are typically 10 to 20 times higher than Other Structures limits.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -245,7 +245,7 @@ export default function Content() {
         <Link href="/resources/foundation-damage" className="text-blue-700 underline hover:text-blue-900">
           foundation
         </Link>. These are different structures covered under different parts of the policy
-        (retaining wall under Coverage B, foundation under Coverage A), but they are damaged
+        (retaining wall as Other Structures, foundation as dwelling), but they are damaged
         by the same event. The coverage analysis is the same &mdash; efficient proximate cause
         determines coverage for both &mdash; but the limits and deductibles may differ.
       </p>
@@ -411,7 +411,7 @@ export default function Content() {
         <p>
           The increased cost of replacing a retaining wall to current code &mdash; including
           engineering, permits, drainage, geotechnical investigation, and seismic design &mdash;
-          is covered under Ordinance or Law coverage, not Coverage B. These are code-mandated
+          is covered under Ordinance or Law coverage, not Other Structures coverage. These are code-mandated
           costs that would not exist if the wall could simply be rebuilt to its original (often
           un-engineered) standard. Make sure these costs are separately documented and claimed
           under L&amp;O, not crammed into the Other Structures limit. See our{' '}
@@ -484,9 +484,9 @@ export default function Content() {
         5. File Under Both Property Damage and Ordinance or Law
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When you file the claim, explicitly invoke both Coverage B (Other Structures) for the
+        When you file the claim, explicitly invoke both Other Structures coverage for the
         wall damage and Ordinance or Law coverage for the increased cost of rebuilding to
-        current code. Do not let the carrier evaluate the claim only under Coverage B. The
+        current code. Do not let the carrier evaluate the claim only under Other Structures coverage. The
         engineering, permits, drainage, and seismic design costs required by current code are
         separate L&amp;O costs that should not erode your Other Structures limit.
       </p>
@@ -498,7 +498,7 @@ export default function Content() {
         If the same event that damaged the retaining wall also damaged the dwelling&rsquo;s{' '}
         <Link href="/resources/foundation-damage" className="text-blue-700 underline hover:text-blue-900">
           foundation
-        </Link>, document and claim the foundation damage separately under Coverage A. The
+        </Link>, document and claim the foundation damage separately under the dwelling coverage. The
         retaining wall and the foundation are different structures under different coverage parts
         with different limits. Keeping them separate prevents the carrier from using the lower
         Other Structures limit to cap your entire recovery.
@@ -545,7 +545,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Ignoring Ordinance or Law coverage entirely:</strong> The carrier evaluates
-          the claim only under Coverage B and ignores the policyholder&rsquo;s Ordinance or Law
+          the claim only under Other Structures coverage and ignores the policyholder&rsquo;s Ordinance or Law
           coverage. If the policyholder does not specifically invoke L&amp;O, the carrier may
           never evaluate it. Always invoke every potentially applicable coverage in your claim
           submission.
