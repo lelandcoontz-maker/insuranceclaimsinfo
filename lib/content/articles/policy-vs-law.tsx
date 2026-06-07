@@ -570,7 +570,7 @@ export default function Content() {
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the law says:</strong> California&rsquo;s Fair Claims Settlement Practices
-          Regulations (10 CCR &sect;&sect; 2695.1&ndash;2695.17) create a comprehensive set of
+          Regulations (10 CCR &sect;&sect; 2695.1&ndash;2695.14) create a comprehensive set of
           obligations that apply to every insurer regardless of what the policy says. Among other
           requirements: the insurer must acknowledge receipt of a claim within 15 days; accept or
           deny the claim within 40 days of receiving proof of loss; respond to policyholder
@@ -594,7 +594,7 @@ export default function Content() {
           </p>
           <div className="flex flex-wrap gap-2">
             <span className="inline-block bg-[#1F3964]/10 text-[#1F3964] text-xs font-medium px-3 py-1 rounded-full">
-              10 CCR &sect;&sect; 2695.1&ndash;2695.17
+              10 CCR &sect;&sect; 2695.1&ndash;2695.14
             </span>
             <span className="inline-block bg-[#1F3964]/10 text-[#1F3964] text-xs font-medium px-3 py-1 rounded-full">
               Insurance Code &sect; 790.03
@@ -710,7 +710,7 @@ export default function Content() {
             <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[#1F3964] text-white flex items-center justify-center font-bold text-sm">3</span>
             <div>
               <p className="font-bold text-[#1F3964]">Regulations (California Code of Regulations)</p>
-              <p className="text-gray-600 text-sm">Rules adopted by the Insurance Commissioner under statutory authority. This includes the Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.1&ndash;2695.17).</p>
+              <p className="text-gray-600 text-sm">Rules adopted by the Insurance Commissioner under statutory authority. This includes the Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.1&ndash;2695.14).</p>
             </div>
           </li>
           <li className="flex gap-3">

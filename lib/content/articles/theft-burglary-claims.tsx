@@ -369,7 +369,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Fair Claims Settlement Practices Regulations (Cal. Code Regs., tit. 10,
-        &sect;&sect; 2695.1&ndash;2695.12) impose strict requirements on how insurers handle theft
+        &sect;&sect; 2695.1&ndash;2695.14) impose strict requirements on how insurers handle theft
         claims:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

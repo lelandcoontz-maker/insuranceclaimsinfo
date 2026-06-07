@@ -284,7 +284,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">California&apos;s Fair Claims Settlement Practices Regulations</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s Fair Claims Settlement Practices Regulations, codified at 10 CCR &sect;&sect; 2695.1 through 2695.13, establish minimum standards for the handling of insurance claims. Several provisions are directly relevant when the carrier&apos;s contractor admits the repair scope is inadequate.
+        California&apos;s Fair Claims Settlement Practices Regulations, codified at 10 CCR &sect;&sect; 2695.1 through 2695.14, establish minimum standards for the handling of insurance claims. Several provisions are directly relevant when the carrier&apos;s contractor admits the repair scope is inadequate.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -175,7 +175,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>The carrier must acknowledge receipt of the claim within 15 days (10 CCR &sect; 2695.5(e)).</li>
         <li>The carrier must accept or deny the claim within 40 days of receiving proof of claim (10 CCR &sect; 2695.7(b)).</li>
-        <li>The carrier cannot misrepresent pertinent policy provisions (10 CCR &sect; 2695.7(d)).</li>
+        <li>The carrier cannot misrepresent pertinent policy provisions (Cal. Ins. Code &sect; 790.03(h)(1)).</li>
         <li>Any denial must be in writing, must state the reasons for the denial, and must reference the specific policy provisions relied upon (10 CCR &sect; 2695.7(b)(1)).</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">

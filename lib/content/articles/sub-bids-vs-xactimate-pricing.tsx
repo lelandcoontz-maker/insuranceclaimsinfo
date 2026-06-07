@@ -560,7 +560,7 @@ export default function Content() {
           className="text-[#2E74B5] underline"
         >
           Fair Claims Settlement Practices Regulations
-        </a>, codified at 10 Cal. Code Regs. &sect;&sect; 2695.1 through 2695.17, impose specific
+        </a>, codified at 10 Cal. Code Regs. &sect;&sect; 2695.1 through 2695.14, impose specific
         obligations on insurers in the handling of property claims. Several provisions are
         directly relevant to sub-bid disputes.
       </p>
@@ -786,7 +786,7 @@ export default function Content() {
           >
             <em>Fair Claims Settlement Practices Regulations</em>
           </a>{' '}
-          (10 CCR 2695.1&ndash;2695.17)
+          (10 CCR 2695.1&ndash;2695.14)
         </li>
         <li>
           Cal. Code Regs. tit. 10, &sect; 2695.9 &mdash;{' '}

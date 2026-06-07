@@ -258,7 +258,7 @@ export default function Content() {
         10 CCR &sect; 2695.7(d) requires that every insurer conduct a thorough,
         fair, and objective investigation sufficient to determine its liability under the policy.
         The California Fair Claims Settlement Practices Regulations (Cal. Code Regs., tit. 10,
-        &sect;&sect; 2695.1&ndash;2695.17) further elaborate on what constitutes an adequate
+        &sect;&sect; 2695.1&ndash;2695.14) further elaborate on what constitutes an adequate
         investigation. The{' '}
         <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] underline">
           duty to investigate

@@ -186,7 +186,7 @@ export default function Content() {
       <CalloutBox variant="legal" title="This Is a Violation, Not a Strategy">
         <p>
           The California Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect;
-          2695.1&ndash;2695.17) impose specific obligations on insurers during the claims
+          2695.1&ndash;2695.14) impose specific obligations on insurers during the claims
           process. Insurers must conduct thorough and reasonable investigations (10 CCR
           &sect; 2695.7(d)); they must not misrepresent pertinent facts or policy
           provisions (Cal. Ins. Code &sect; 790.03(h)(1)); and they must document material

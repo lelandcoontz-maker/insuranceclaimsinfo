@@ -324,7 +324,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s Fair Claims Settlement Practices Regulations, codified at 10 CCR sections
-        2695.1 through 2695.13, provide specific regulatory standards that bear directly on this
+        2695.1 through 2695.14, provide specific regulatory standards that bear directly on this
         problem.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

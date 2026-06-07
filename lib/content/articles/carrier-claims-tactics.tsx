@@ -589,7 +589,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR
-        &sect; 2695.1 through &sect; 2695.12) exist precisely because of the tactics
+        &sect; 2695.1 through &sect; 2695.14) exist precisely because of the tactics
         described in this article. These regulations establish minimum standards for
         claims handling that directly address the consulting-driven playbook. They are
         enforced by the California Department of Insurance under the authority of

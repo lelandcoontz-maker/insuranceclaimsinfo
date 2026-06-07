@@ -303,7 +303,7 @@ export default function Content() {
         The Fair Claims Settlement Practices Regulations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s Fair Claims Settlement Practices Regulations, codified at Title 10, California Code of Regulations, Sections 2695.1 through 2695.12, establish specific deadlines for every phase of the claims process:
+        California&apos;s Fair Claims Settlement Practices Regulations, codified at Title 10, California Code of Regulations, Sections 2695.1 through 2695.14, establish specific deadlines for every phase of the claims process:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -480,7 +480,7 @@ export default function Content() {
           <strong>California Insurance Code &sect; 10103.7</strong> &mdash; Combined dwelling/other-structures payments and contents pay-out without itemized inventory (no less than 60% of the contents policy limit) in state-of-emergency claims.
         </li>
         <li>
-          <strong>10 CCR &sect;&sect; 2695.1&ndash;2695.12</strong> &mdash; Fair Claims Settlement Practices Regulations; specific deadlines for acknowledgment (fifteen days), acceptance/denial (forty days), payment (thirty days), and status updates (every thirty days).
+          <strong>10 CCR &sect;&sect; 2695.1&ndash;2695.14</strong> &mdash; Fair Claims Settlement Practices Regulations; specific deadlines for acknowledgment (fifteen days), acceptance/denial (forty days), payment (thirty days), and status updates (every thirty days).
         </li>
         <li>
           <strong><em>Prudential-LMI Commercial Insurance v. Superior Court</em> (1990) 51 Cal.3d 674</strong> &mdash; Established equitable tolling of the suit limitation period from notice of loss to formal written denial.

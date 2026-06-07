@@ -203,7 +203,7 @@ export default function Content() {
         How Insurers Must Apply Exclusions Under California Law
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.1&ndash;2695.17) impose specific requirements on how insurers communicate exclusion-based denials:
+        California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.1&ndash;2695.14) impose specific requirements on how insurers communicate exclusion-based denials:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>

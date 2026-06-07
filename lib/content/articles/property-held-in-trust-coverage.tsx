@@ -794,7 +794,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s Fair Claims Settlement Practices Regulations (California Code of
-        Regulations, Title 10, &sect;&sect; 2695.1&ndash;2695.17) impose specific obligations
+        Regulations, Title 10, &sect;&sect; 2695.1&ndash;2695.14) impose specific obligations
         on insurers during the claims process. Carriers must conduct thorough investigations
         before denying claims, must not misrepresent policy provisions, and must not create
         unreasonable barriers to the claims process. A carrier that seizes on the trust

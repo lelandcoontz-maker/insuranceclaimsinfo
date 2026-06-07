@@ -505,7 +505,7 @@ export default function Content() {
         </li>
         <li>
           <strong>California Department of Insurance</strong> &mdash; The CDI&rsquo;s Fair
-          Claims Settlement Practices regulations (10 CCR sections 2695.1&ndash;2695.17) and
+          Claims Settlement Practices regulations (10 CCR sections 2695.1&ndash;2695.14) and
           enforcement actions provide the regulatory framework governing insurer conduct during
           investigations. Search the CDI&rsquo;s enforcement records for actions related to
           unfair investigation practices.
