@@ -293,7 +293,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong><em>Hughes v. Potomac Insurance Co.</em> (1962) 199 Cal.App.2d 511:</strong>{' '}
+          <strong><em>Hughes v. Potomac Insurance Co.</em> (1962) 199 Cal.App.2d 239:</strong>{' '}
           A foundational California case establishing that &ldquo;physical loss&rdquo; includes
           loss of use and habitability, not just structural destruction. The court held that a home
           rendered uninhabitable by a landslide had suffered a &ldquo;direct physical loss&rdquo;
