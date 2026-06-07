@@ -35,7 +35,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The answer depends on your policy language, your state&rsquo;s regulations, and whether the
-        damaged property falls under Coverage A (dwelling) or Coverage C (personal property). This
+        damaged property falls under dwelling or personal property. This
         article breaks down how the pair and set clause works in both contexts, what the standard
         policy language actually says, and how California&rsquo;s matching regulation changes the
         analysis for building components.
@@ -79,7 +79,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The pair and set clause is most commonly invoked for personal property claims under
-        Coverage C. This is where the classic examples arise:
+        personal property coverage. This is where the classic examples arise:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -150,7 +150,7 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How the Clause Applies to Building Components (Coverage A)
+        How the Clause Applies to Building Components
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The pair and set clause was originally written with personal property in mind &mdash; earrings,
@@ -180,7 +180,7 @@ export default function Content() {
         uses the generic term &ldquo;property&rdquo; without limiting it to personal property. Some
         adjusters and commentators have argued that building elements like a set of shutters, a set of
         matching cabinets, or a coordinated set of windows can reasonably be treated as a
-        &ldquo;set&rdquo; under the clause. Others argue the clause was intended only for Coverage C
+        &ldquo;set&rdquo; under the clause. Others argue the clause was intended only for personal property coverage
         items and that dwelling matching is governed by separate policy language and state regulations.
       </p>
 
@@ -335,27 +335,27 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Coverage A vs. Coverage C: Why It Matters
+        Dwelling vs. Personal Property: Why It Matters
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Whether the damaged property falls under Coverage A (dwelling) or Coverage C (personal
-        property) significantly affects how the pair and set issue plays out:
+        Whether the damaged property falls under dwelling or personal property
+        significantly affects how the pair and set issue plays out:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A &mdash; Dwelling:</strong> Building components like cabinets, flooring,
+          <strong>Dwelling:</strong> Building components like cabinets, flooring,
           windows, siding, and roofing are part of the dwelling. For these items, the pair and set
           clause is often secondary to state matching regulations, which may require the insurer to
-          replace all items in the damaged area to achieve a uniform appearance. Coverage A is
-          typically written on a replacement cost basis, which means the insurer must pay what it
+          replace all items in the damaged area to achieve a uniform appearance. Dwelling coverage
+          is typically written on a replacement cost basis, which means the insurer must pay what it
           actually costs to replace the damaged property with equivalent materials &mdash; and if
           the equivalent requires replacing adjacent undamaged components to match, that cost may be
           covered.
         </li>
         <li>
-          <strong>Coverage C &mdash; Personal Property:</strong> Contents like furniture, jewelry,
-          electronics, and collectibles fall under Coverage C. The pair and set clause applies
-          directly to these items. However, Coverage C has its own complications. Many categories of
+          <strong>Personal Property:</strong> Contents like furniture, jewelry,
+          electronics, and collectibles are personal property. The pair and set clause applies
+          directly to these items. However, personal property coverage has its own complications. Many categories of
           personal property are subject to{' '}
           <Link href="/resources/special-limits-of-liability" className="text-[#2E74B5] hover:underline">
             special limits of liability
