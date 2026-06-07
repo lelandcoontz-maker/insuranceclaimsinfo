@@ -168,7 +168,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard HO-3 homeowners policy provides named perils coverage for personal
-        property (Coverage C). The 16 perils listed are:
+        property. The 16 perils listed are:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>Fire or lightning</li>
@@ -217,12 +217,12 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A (Dwelling) and Coverage B (Other Structures)</strong> &mdash;{' '}
+          <strong>Dwelling and Other Structures</strong> &mdash;{' '}
           Insured on an <strong>open perils</strong> basis. Your house and detached
           structures are covered against all causes of loss unless specifically excluded.
         </li>
         <li>
-          <strong>Coverage C (Personal Property / Contents)</strong> &mdash; Insured on a{' '}
+          <strong>Personal Property</strong> &mdash; Insured on a{' '}
           <strong>named perils</strong> basis. Your belongings are covered only against the
           16 specific perils listed in the policy.
         </li>
@@ -278,10 +278,10 @@ export default function Content() {
       </h4>
       <p className="text-gray-700 leading-relaxed mb-4">
         Your dog chews through a section of drywall while you are at work. The drywall is
-        part of the dwelling (Coverage A, open perils). Damage caused by a pet is not an
+        part of the dwelling (open perils). Damage caused by a pet is not an
         excluded peril under the standard HO-3 dwelling coverage, so the drywall repair
         may be covered. Now suppose the dog also destroyed a leather couch. The couch is
-        personal property (Coverage C, named perils). Pet damage is not one of the 16 named
+        personal property (named perils). Pet damage is not one of the 16 named
         perils. No coverage for the couch. Same dog, same day, same event &mdash; different
         result for the wall versus the furniture.
       </p>
@@ -304,11 +304,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         You come home to find water staining on your ceiling and damage to the roof
         structure. A contractor inspects and confirms structural damage, but the cause
-        cannot be definitively determined. Under Coverage A (open perils), the dwelling
+        cannot be definitively determined. Under the dwelling coverage (open perils), the dwelling
         damage is covered unless the insurer can identify a specific exclusion that applies.
         The burden is on the insurer to prove what caused the damage and that the cause is
         excluded. But if the same unknown cause also damaged your stored belongings in the
-        attic (Coverage C, named perils), you bear the burden of proving the cause was one
+        attic (personal property, named perils), you bear the burden of proving the cause was one
         of the 16 named perils. If you cannot identify the cause, you cannot meet your
         burden. The dwelling claim may succeed while the contents claim fails.
       </p>

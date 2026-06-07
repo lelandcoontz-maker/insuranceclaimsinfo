@@ -65,7 +65,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         That last phrase &mdash; <em>&ldquo;or the policy limit, whichever is less&rdquo;</em>{' '}
-        &mdash; is the critical limitation. If your home is insured for $600,000 under Coverage A
+        &mdash; is the critical limitation. If your home is insured for $600,000 under the dwelling coverage
         but it actually costs $850,000 to rebuild after a disaster, a standard replacement cost
         policy pays $600,000. You are responsible for the remaining $250,000.
       </p>
@@ -159,7 +159,7 @@ export default function Content() {
             <tr className="border-b">
               <td className="px-4 py-3 font-medium">Maximum payout</td>
               <td className="px-4 py-3">dwelling limit</td>
-              <td className="px-4 py-3">Coverage A + 25&ndash;50%</td>
+              <td className="px-4 py-3">Dwelling + 25&ndash;50%</td>
               <td className="px-4 py-3">Full rebuild cost (no cap)</td>
             </tr>
             <tr className="border-b bg-gray-50">
@@ -490,7 +490,7 @@ export default function Content() {
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Your declarations page.</strong> This shows your Coverage A (dwelling) limit.
+          <strong>Your declarations page.</strong> This shows your dwelling limit.
           Under a standard replacement cost policy, this is your maximum payout for dwelling damage.
           See our guide on{' '}
           <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">
@@ -501,7 +501,7 @@ export default function Content() {
           <strong>Your endorsements.</strong> Look for endorsements titled &ldquo;Extended
           Replacement Cost,&rdquo; &ldquo;Guaranteed Replacement Cost,&rdquo; &ldquo;100%
           Replacement Cost,&rdquo; or similar language. The endorsement will specify the percentage
-          above Coverage A (for extended) or confirm unlimited coverage (for guaranteed).
+          above the dwelling limit (for extended) or confirm unlimited coverage (for guaranteed).
         </li>
         <li>
           <strong>The loss settlement provision.</strong> This is in the body of your policy and
@@ -543,9 +543,9 @@ export default function Content() {
           representations and consult an attorney.
         </li>
         <li>
-          <strong>Maximize every other coverage.</strong> Even if your Coverage A is exhausted,
-          you may have untapped coverage under Coverage B (other structures), Coverage C (personal
-          property), Coverage D (
+          <strong>Maximize every other coverage.</strong> Even if your dwelling coverage is exhausted,
+          you may have untapped coverage under Other Structures coverage, personal
+          property coverage, Loss of Use coverage (
           <Link href="/resources/ale-frv" className="text-[#2E74B5] hover:underline">
             additional living expenses
           </Link>

@@ -116,7 +116,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Identify excluded categories.</strong> If there are specific categories of coverage that are not addressed in the proof of loss, list them. Be explicit: &quot;This proof of loss does not include any claim for Coverage B (Other Structures), Coverage D (Loss of Use), law and ordinance costs under the Ordinance or Law endorsement, or trees, shrubs, plants, and landscaping under Coverage A.&quot; The more specific you are about what is not included, the harder it is for the carrier to later argue that your silence on those items constituted a waiver.
+        <strong>Identify excluded categories.</strong> If there are specific categories of coverage that are not addressed in the proof of loss, list them. Be explicit: &quot;This proof of loss does not include any claim for Other Structures, Loss of Use, law and ordinance costs under the Ordinance or Law endorsement, or trees, shrubs, plants, and landscaping under the dwelling coverage.&quot; The more specific you are about what is not included, the harder it is for the carrier to later argue that your silence on those items constituted a waiver.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Why This Is Better Than Refusing to Sign</h3>
@@ -278,23 +278,23 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Trees, Shrubs, Plants, and Landscaping</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage for trees, shrubs, and other landscaping is typically provided under Coverage A (Dwelling) or as a separate coverage provision, subject to per-item and aggregate limits. This coverage is almost never included in the carrier&apos;s initial estimate or the carrier&apos;s pre-filled proof of loss. If the insured&apos;s landscaping was damaged&mdash;particularly in fire, wind, or flood losses&mdash;and the insured signs a proof of loss that does not reference landscaping, the carrier has an argument that the insured did not claim it.
+        Coverage for trees, shrubs, and other landscaping is typically provided under the dwelling coverage or as a separate coverage provision, subject to per-item and aggregate limits. This coverage is almost never included in the carrier&apos;s initial estimate or the carrier&apos;s pre-filled proof of loss. If the insured&apos;s landscaping was damaged&mdash;particularly in fire, wind, or flood losses&mdash;and the insured signs a proof of loss that does not reference landscaping, the carrier has an argument that the insured did not claim it.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Additional Living Expenses (Coverage D)</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Additional Living Expenses (Loss of Use)</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the insured is displaced and incurring additional living expenses&mdash;hotel costs, restaurant meals, storage, increased commuting costs&mdash;those expenses are ongoing. They cannot be fully quantified at the time the carrier demands the initial proof of loss, because they are still accruing. A proof of loss that includes only the dwelling damage (Coverage A) and does not address ALE (Coverage D) can be read as a waiver of the ALE claim.
+        If the insured is displaced and incurring additional living expenses&mdash;hotel costs, restaurant meals, storage, increased commuting costs&mdash;those expenses are ongoing. They cannot be fully quantified at the time the carrier demands the initial proof of loss, because they are still accruing. A proof of loss that includes only the dwelling damage and does not address ALE can be read as a waiver of the ALE claim.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The partial proof of loss resolves this problem. Submit the dwelling claim as a partial proof of loss. Note explicitly that Coverage D expenses are ongoing and will be submitted separately as they are incurred and documented.
+        The partial proof of loss resolves this problem. Submit the dwelling claim as a partial proof of loss. Note explicitly that ALE expenses are ongoing and will be submitted separately as they are incurred and documented.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Contents (Coverage C)</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Personal Property</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Preparing a complete contents inventory after a total or near-total loss takes months. The insured must reconstruct a list of every item in the home, estimate its value, and document as much as possible. This process cannot be completed within the 60-day proof of loss window on most significant losses. If the carrier&apos;s pre-filled proof of loss includes only the dwelling damage, signing it without noting that the contents claim is forthcoming risks waiving Coverage C.
+        Preparing a complete contents inventory after a total or near-total loss takes months. The insured must reconstruct a list of every item in the home, estimate its value, and document as much as possible. This process cannot be completed within the 60-day proof of loss window on most significant losses. If the carrier&apos;s pre-filled proof of loss includes only the dwelling damage, signing it without noting that the contents claim is forthcoming risks waiving the personal property claim.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Debris Removal</h3>
