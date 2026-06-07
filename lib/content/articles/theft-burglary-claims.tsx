@@ -343,8 +343,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Burglars rarely leave a property undisturbed. Broken doors, shattered windows, damaged walls,
         and overturned furniture can equal or exceed the value of the stolen items. This damage is
-        covered under Coverage A (vandalism or malicious mischief under the open-perils form) and is
-        not subject to Coverage C sublimits. Always document and claim structural damage separately
+        covered as a dwelling loss (vandalism or malicious mischief under the open-perils form) and is
+        not subject to personal property sublimits. Always document and claim structural damage separately
         from stolen property &mdash; failing to separate them can result in the insurer applying the
         wrong limits. For more, see our{' '}
         <Link href="/resources/vandalism-claims" className="text-[#2E74B5] underline">
@@ -524,8 +524,8 @@ export default function Content() {
           doubt. You do not need to identify the thief.
         </li>
         <li>
-          Structural damage from a burglary is covered under Coverage A, not subject to Coverage C
-          sublimits. Always claim it separately.
+          Structural damage from a burglary is covered as a dwelling loss, not subject to personal
+          property sublimits. Always claim it separately.
         </li>
       </ul>
 

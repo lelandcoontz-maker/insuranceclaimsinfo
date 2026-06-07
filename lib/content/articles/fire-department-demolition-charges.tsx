@@ -202,9 +202,9 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Demolition of the damaged portion &mdash; Coverage A:</strong> The cost to
+          <strong>Demolition of the damaged portion:</strong> The cost to
           demolish the portion of the building that was actually damaged by the covered loss is
-          part of the direct physical loss. It is covered under Coverage A (dwelling coverage)
+          part of the direct physical loss. It is covered under the dwelling coverage
           as part of the cost of repairing or replacing the damaged structure. Tearing down
           fire-damaged walls, removing collapsed framing, hauling away burned materials &mdash;
           these are all direct loss costs.

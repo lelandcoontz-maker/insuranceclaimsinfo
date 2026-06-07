@@ -530,7 +530,7 @@ export default function Content() {
         items that belong to the tenant and that the tenant can take when they leave. Once an
         improvement becomes permanently attached to the building (and therefore legally becomes
         part of the landlord&apos;s real property), it no longer fits the definition of personal
-        property. Under a strict reading, those improvements are not covered under Coverage C.
+        property. Under a strict reading, those improvements are not covered as personal property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This creates a gap. The tenant paid for the improvement. The landlord&apos;s policy

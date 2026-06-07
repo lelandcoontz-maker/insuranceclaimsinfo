@@ -472,9 +472,9 @@ export default function Content() {
           <strong>Account for hardscape damage:</strong> Patios, walkways, retaining walls,
           planters, garden walls, decorative stonework, and other hardscape features are not
           &ldquo;plants&rdquo; and should not be subject to the landscaping sub-limit. These are
-          typically covered under Coverage A (if attached to the dwelling) or Coverage B (other
-          structures). Do not let the insurer lump hardscape losses into the landscaping category
-          to keep them under the sub-limit.
+          typically covered as part of the dwelling (if physically attached) or as other
+          structures (if separated by clear space). Do not let the insurer lump hardscape losses
+          into the landscaping category to keep them under the sub-limit.
         </li>
         <li>
           <strong>Soil remediation:</strong> After a fire or chemical contamination, the soil

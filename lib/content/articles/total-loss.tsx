@@ -119,8 +119,8 @@ export default function Content() {
         Coverage B — Other Structures
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Every detached structure on your property is covered under Coverage B — typically set at 10
-        percent of your Coverage A limit. This includes fences, sheds, detached garages, pools,
+        Every detached structure on your property falls under Other Structures coverage —
+        typically set at 10 percent of your dwelling limit. This includes fences, sheds, detached garages, pools,
         spas, retaining walls, driveways, walkways, gazebos, and any other structure not physically
         attached to the dwelling. This coverage is frequently overlooked or undervalued. On a
         property with significant hardscaping, fencing, a pool, and detached structures, the

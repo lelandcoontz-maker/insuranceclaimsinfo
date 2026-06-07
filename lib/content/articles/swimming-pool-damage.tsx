@@ -381,7 +381,7 @@ export default function Content() {
         The key distinction is whether the leak was <strong>sudden and accidental</strong> or
         <strong> gradual</strong>. A sudden pipe failure &mdash; a supply line that bursts or
         a fitting that fails catastrophically &mdash; is a covered cause of loss. The
-        resulting water damage to the house is covered under Coverage A. However, a pool
+        resulting water damage to the house is covered as a dwelling loss. However, a pool
         that has been slowly leaking for months, saturating the soil and causing gradual
         foundation movement, is likely to be denied as a maintenance issue. Insurers will
         argue the leak was &ldquo;gradual&rdquo; and therefore excluded, and they will argue

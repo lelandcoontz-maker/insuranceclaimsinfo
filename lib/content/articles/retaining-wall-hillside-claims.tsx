@@ -42,11 +42,11 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under a standard HO-3 homeowner policy, retaining walls are classified as &ldquo;other
-        structures&rdquo; and covered under Coverage B. Coverage B is typically set at 10% of
-        the Coverage A (dwelling) limit. On a $600,000 Coverage A policy, that gives you $60,000
-        of Coverage B for all other structures on the property combined &mdash; the retaining
-        wall, the detached garage, the fence, the shed, the pool house, and anything else that
-        is not the primary dwelling.
+        structures&rdquo; and covered under the Other Structures category. The Other Structures
+        limit is typically set at 10% of the dwelling limit. On a $600,000 dwelling policy,
+        that gives you $60,000 of Other Structures coverage for everything on the property
+        combined &mdash; the retaining wall, the detached garage, the fence, the shed, the
+        pool house, and anything else that is not the primary dwelling.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The problem is immediately apparent: a major retaining wall failure can cost $50,000 to

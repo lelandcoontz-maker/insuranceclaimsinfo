@@ -866,7 +866,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When an elderly parent moves into the named insured&rsquo;s home, that
         parent becomes a resident relative and qualifies as &ldquo;an insured.&rdquo;
-        Their personal belongings are covered under Coverage C. They have liability
+        Their personal belongings are covered as personal property. They have liability
         protection under Section II. But the named insured should be aware that the
         parent&rsquo;s actions can now trigger exclusions or conditions that affect
         the entire household&rsquo;s coverage. If the parent has cognitive

@@ -177,18 +177,18 @@ export default function Content() {
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A (Dwelling):</strong> Pays for the removal and replacement of
+          <strong>Dwelling:</strong> Pays for the removal and replacement of
           contaminated structural materials &mdash; flooring, subfloor, drywall, baseboards,
           insulation, and in severe cases, framing members. This is the primary coverage for
           remediation and restoration costs.
         </li>
         <li>
-          <strong>Coverage B (Other Structures):</strong> If the death occurred in a detached
-          structure covered under Coverage B (a guest house, detached garage apartment, or
-          similar), the same analysis applies.
+          <strong>Other Structures:</strong> If the death occurred in a detached
+          structure (a guest house, detached garage apartment, or similar), the same analysis
+          applies.
         </li>
         <li>
-          <strong>Coverage C (Personal Property):</strong> Soft goods, furnishings, clothing,
+          <strong>Personal Property:</strong> Soft goods, furnishings, clothing,
           bedding, and other personal property in the contaminated area may be unsalvageable.
           Decomposition gases penetrate fabric, leather, and other porous materials. Items that
           cannot be professionally decontaminated should be claimed as losses under Coverage C.

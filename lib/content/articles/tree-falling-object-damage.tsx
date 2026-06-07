@@ -98,8 +98,8 @@ export default function Content() {
         Dwelling Damage: The Hidden Scope Problem
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a tree strikes your home, dwelling damage is covered under Coverage A with no
-        sublimit &mdash; your full policy limit applies. The critical issue is
+        When a tree strikes your home, dwelling damage is covered with no
+        sublimit &mdash; your full dwelling limit applies. The critical issue is
         <strong> scope</strong>. A tree does not simply punch a hole in the roof and stop. A
         mature tree can weigh 10,000 to 30,000 pounds. When that weight lands on a residential
         structure, the forces are enormous and produce damage well beyond the impact point:
@@ -138,13 +138,13 @@ export default function Content() {
         Other Structures and Personal Property
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Fences, detached garages, sheds, and carports are covered under Coverage B (typically
-        10% of the dwelling limit). Fencing damage from falling trees is one of the most commonly
+        Fences, detached garages, sheds, and carports fall under Other Structures coverage
+        (typically 10% of the dwelling limit). Fencing damage from falling trees is one of the most commonly
         underpaid items &mdash; carriers estimate a short section of repair when the entire run
         may need replacement for structural integrity and matching.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Personal property damaged by falling objects is covered under Coverage C. Do not overlook
+        Personal property damaged by falling objects is covered. Do not overlook
         consequential damage: when a tree opens a hole in the roof, rain and debris enter the
         home. Water damage to flooring, furniture, and belongings on every level below the breach
         is part of the same loss event.

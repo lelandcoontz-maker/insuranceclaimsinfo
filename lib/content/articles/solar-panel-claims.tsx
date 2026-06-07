@@ -58,7 +58,7 @@ export default function Content() {
         exterior wall to the electrical panel. The inverter or microinverters are permanently
         wired into the home&rsquo;s electrical system. These are not portable items sitting on
         the roof &mdash; they are integrated building components. Roof-mounted solar systems
-        should be covered under Coverage A.
+        should be covered as part of the dwelling.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">Ground-Mounted Systems</h3>

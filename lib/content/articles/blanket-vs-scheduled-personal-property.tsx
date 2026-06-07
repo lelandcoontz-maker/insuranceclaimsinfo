@@ -26,11 +26,11 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Most homeowners think of their insurance as covering two things: the house and
-        everything inside it. The house is covered under Coverage A (Dwelling). Everything
-        inside is covered under Coverage C (Personal Property), sometimes called contents
-        coverage. But what many policyholders do not realize is that Coverage C is not a
-        single, unlimited pool of money that pays for every item in the home up to the policy
-        limit. It is a complex coverage with internal restrictions, sub-limits, and valuation
+        everything inside it. The house is the dwelling. Everything inside is personal
+        property, sometimes called contents coverage. But what many policyholders do not
+        realize is that personal property is not a single, unlimited pool of money that pays
+        for every item in the home up to the policy limit. It is a complex coverage with
+        internal restrictions, sub-limits, and valuation
         rules that can leave significant categories of personal property dramatically
         underinsured &mdash; even when the overall Coverage C limit appears adequate.
       </p>

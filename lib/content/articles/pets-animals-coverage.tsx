@@ -40,10 +40,10 @@ export default function Content() {
         Pets as Personal Property Under Coverage C
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A standard HO-3 homeowner&rsquo;s policy divides coverage into several sections. Your
-        dwelling is covered under Coverage A, other structures under Coverage B, and your personal
-        property under Coverage C. Pets fall under Coverage C. They are personal property, just
-        like your clothing, electronics, and kitchenware. For a deeper look at how contents claims
+        A standard HO-3 homeowner&rsquo;s policy divides coverage into separate categories
+        for the dwelling, other structures, and personal property. Pets fall under personal
+        property. They are personal property, just like your clothing, electronics, and
+        kitchenware. For a deeper look at how contents claims
         work, see our{' '}
         <Link href="/resources/contents-claims" className="text-[#2E74B5] underline hover:text-blue-900">
           guide to personal property and contents claims

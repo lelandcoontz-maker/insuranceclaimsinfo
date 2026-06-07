@@ -162,7 +162,7 @@ export default function Content() {
         Collectibles: Baseball Cards, Pokemon Cards, and Sports Memorabilia
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Collectibles occupy an uncomfortable space in homeowner policies. They are personal property, so they are covered under Coverage C. But depending on their nature, they may fall under one or more sub-limits &mdash; or they may not have a specific sub-limit but still face inadequate coverage due to depreciation and valuation challenges.
+        Collectibles occupy an uncomfortable space in homeowner policies. They are personal property, so they are covered as such. But depending on their nature, they may fall under one or more sub-limits &mdash; or they may not have a specific sub-limit but still face inadequate coverage due to depreciation and valuation challenges.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The collectibles market has exploded in value, and the numbers are staggering:
