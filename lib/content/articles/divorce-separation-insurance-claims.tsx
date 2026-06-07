@@ -1182,7 +1182,7 @@ export default function Content() {
         claim to conclusion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, there are complications. If the claim involves dwelling damage (Coverage A),
+        However, there are complications. If the claim involves dwelling damage (dwelling),
         the insurer may argue that the policyholders no longer have an insurable interest in the
         property because they sold it. This argument is generally wrong &mdash; the insurable
         interest is measured at the time of loss, not at the time of settlement &mdash; but it

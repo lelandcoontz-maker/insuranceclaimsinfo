@@ -77,7 +77,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The exclusion goes deeper than property. The homeowner&rsquo;s liability coverage
-        (Coverage E) excludes bodily injury or property damage &ldquo;arising out of or in
+        (personal liability) excludes bodily injury or property damage &ldquo;arising out of or in
         connection with a business.&rdquo; If a product you sell from your home injures a
         customer, your homeowner&rsquo;s policy will not defend you. If a delivery driver trips
         on your front steps while picking up a shipment, your homeowner&rsquo;s liability

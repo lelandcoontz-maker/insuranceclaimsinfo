@@ -528,7 +528,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200">
               <td className="px-4 py-3 font-medium">Loss of income</td>
-              <td className="px-4 py-3">ALE (Coverage D) &mdash; additional living expenses</td>
+              <td className="px-4 py-3">ALE (Loss of Use) &mdash; additional living expenses</td>
               <td className="px-4 py-3">Business Income + Extra Expense &mdash; separate forms</td>
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">

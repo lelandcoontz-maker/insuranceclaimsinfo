@@ -2150,7 +2150,7 @@ export default function Content() {
         be written in the estate&rsquo;s name; available from most standard carriers and
         surplus lines markets. <strong>Disadvantages:</strong> DP-1 provides only named-perils
         coverage, narrower than the open-perils HO-3; may not include personal liability
-        coverage (Coverage E) or medical payments (Coverage F); premiums may be higher,
+        coverage (personal liability) or medical payments (Medical Payments); premiums may be higher,
         especially for vacant properties; some carriers impose stricter inspection and
         maintenance requirements.
       </p>
@@ -2358,7 +2358,7 @@ export default function Content() {
         property. If a trespasser is injured on the vacant property, if a tree falls and
         damages a neighbor&rsquo;s home, if a visitor slips on an unmaintained walkway &mdash;
         the estate and, potentially, the executor personally can be held liable. The standard
-        HO-3 includes personal liability coverage (Coverage E) and medical payments (Coverage
+        HO-3 includes personal liability coverage (personal liability) and medical payments (Coverage
         F), but after the named insured&rsquo;s death the scope of this liability coverage
         becomes uncertain. Dwelling fire policies (DP-1 and DP-3) typically do <em>not</em>
         include liability coverage at all. The executor should request liability coverage as

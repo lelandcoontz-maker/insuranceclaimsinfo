@@ -280,7 +280,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If a failed septic system contaminates a neighbor&rsquo;s property or a shared water
         source, the homeowner may face liability claims. The liability section of the homeowner
-        policy (Coverage E) may provide defense and indemnity for third-party claims arising
+        policy (personal liability) may provide defense and indemnity for third-party claims arising
         from the septic failure &mdash; but the pollution exclusion in the liability section
         may also apply. This creates a dangerous gap: the homeowner is potentially liable for
         contamination damage to neighbors, but the policy may exclude the very contamination

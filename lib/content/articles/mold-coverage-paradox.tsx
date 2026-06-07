@@ -128,7 +128,7 @@ export default function Content() {
         This is the most important section of this article. The difference between a $5,000 claim payment and a $19,000 claim payment often comes down to a single question: <strong>how are the remediation costs allocated between dwelling coverage and the mold sublimit?</strong>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The governing rule is straightforward: <strong>work that would be performed on a wet structure regardless of whether mold is present is water damage mitigation, not mold remediation.</strong> That work belongs under dwelling coverage (Coverage A), not the mold sublimit. Only work that is specifically and exclusively attributable to the presence of mold should count against the mold sublimit.
+        The governing rule is straightforward: <strong>work that would be performed on a wet structure regardless of whether mold is present is water damage mitigation, not mold remediation.</strong> That work belongs under dwelling coverage (dwelling), not the mold sublimit. Only work that is specifically and exclusively attributable to the presence of mold should count against the mold sublimit.
       </p>
 
       <CalloutBox variant="important" title="The Allocation Rule That Saves Thousands">

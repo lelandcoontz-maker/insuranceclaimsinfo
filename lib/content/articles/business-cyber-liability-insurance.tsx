@@ -71,7 +71,7 @@ export default function Content() {
           &ldquo;bodily injury&rdquo; and &ldquo;property damage&rdquo; caused by an
           &ldquo;occurrence.&rdquo; Electronic data is not &ldquo;tangible property,&rdquo; so
           its loss or corruption does not constitute &ldquo;property damage&rdquo; under the CGL.
-          The &ldquo;personal and advertising injury&rdquo; coverage (Coverage B) includes
+          The &ldquo;personal and advertising injury&rdquo; coverage (Other Structures) includes
           offenses like &ldquo;oral or written publication of material that violates a
           person&rsquo;s right of privacy,&rdquo; which some policyholders have argued covers
           data breaches. Courts have largely rejected this argument, and ISO added exclusion

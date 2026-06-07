@@ -142,8 +142,8 @@ export default function Content() {
         insurance responds becomes complicated quickly.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The homeowner&rsquo;s policy provides personal liability coverage (Coverage E) and medical
-        payments to others (Coverage F), but these coverages were designed for typical residential
+        The homeowner&rsquo;s policy provides personal liability coverage (personal liability) and medical
+        payments to others (Medical Payments), but these coverages were designed for typical residential
         liability scenarios &mdash; a guest slipping on a wet floor, a child injured on a
         trampoline, a dog bite. Whether these coverages extend to construction-related injuries
         depends on the specific facts and policy language. Some policies contain exclusions for
@@ -166,8 +166,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The answer depends on the contractual arrangement and the specific policy language. Under the
         homeowner&rsquo;s policy, building materials that have not yet been installed are generally
-        not part of the &ldquo;dwelling&rdquo; (Coverage A). They may be considered personal
-        property (Coverage C), but personal property coverage under an HO-3 is named-peril, not
+        not part of the &ldquo;dwelling&rdquo; (dwelling). They may be considered personal
+        property (personal property), but personal property coverage under an HO-3 is named-peril, not
         open-peril, and there may be questions about whether materials purchased for installation
         qualify as the insured&rsquo;s &ldquo;personal property.&rdquo; If the contractor purchased
         the materials and has not yet been paid, title may still rest with the contractor, meaning

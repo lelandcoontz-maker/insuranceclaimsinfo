@@ -509,7 +509,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Recoverable depreciation on your dwelling and your personal property or contents
-        (Coverage C) involves fundamentally different processes, different documentation requirements,
+        (personal property) involves fundamentally different processes, different documentation requirements,
         and often dramatically different depreciation amounts. Understanding the distinction is
         critical.
       </p>

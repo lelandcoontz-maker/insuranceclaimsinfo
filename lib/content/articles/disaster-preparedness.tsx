@@ -378,18 +378,18 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Dwelling coverage limit (Coverage A):</strong> Does this reflect the actual
+          <strong>Dwelling coverage limit (dwelling):</strong> Does this reflect the actual
           cost to rebuild your home at today&rsquo;s construction prices? Not the market value,
           not the purchase price, but the actual cost to rebuild from the ground up with
           equivalent materials and finishes.
         </li>
         <li>
-          <strong>Personal property coverage (Coverage C):</strong> Is the percentage of
+          <strong>Personal property coverage (personal property):</strong> Is the percentage of
           Coverage A adequate for your actual contents? The standard 50&ndash;75% may not be
           enough for households with extensive furnishings, collections, or high-value items.
         </li>
         <li>
-          <strong>Additional Living Expenses (Coverage D):</strong> What is the limit, and how
+          <strong>Additional Living Expenses (Loss of Use):</strong> What is the limit, and how
           long does it last? If you are displaced for 18 months while your home is rebuilt, will
           this coverage sustain you?
         </li>

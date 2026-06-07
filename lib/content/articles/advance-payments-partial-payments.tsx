@@ -611,7 +611,7 @@ export default function Content() {
           common tactic that violates the undisputed-amount rule.
         </li>
         <li>
-          <strong>ALE (Coverage D):</strong> ALE is inherently a coverage that
+          <strong>ALE (Loss of Use):</strong> ALE is inherently a coverage that
           requires timely payment. The carrier cannot wait for the construction to be complete before
           paying for the housing the insured needs during construction.
         </li>

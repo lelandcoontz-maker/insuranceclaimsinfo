@@ -77,7 +77,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">4. Missing Coverages</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The first offer frequently addresses only the most obvious coverage — dwelling damage
-        (Coverage A). But your policy likely includes several additional coverages that the insurer
+        (dwelling). But your policy likely includes several additional coverages that the insurer
         will not volunteer:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

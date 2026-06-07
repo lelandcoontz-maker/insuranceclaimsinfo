@@ -224,7 +224,7 @@ export default function Content() {
         The Dwelling Coverage Arguments
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under regular dwelling coverage (Coverage A), several arguments support sheathing replacement:
+        Under regular dwelling coverage (dwelling), several arguments support sheathing replacement:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -292,7 +292,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         There is another scenario where the L&O pivot is not just a fallback — it is essential. On
         larger losses, you may have already reached or approached your dwelling coverage limit
-        (Coverage A) or your other structures limit (Coverage B). If you have exhausted the
+        (dwelling) or your other structures limit (Other Structures). If you have exhausted the
         available dwelling coverage, there is no more money under Coverage A to pay for the
         sheathing — no matter how strong your consequential damage argument is.
       </p>

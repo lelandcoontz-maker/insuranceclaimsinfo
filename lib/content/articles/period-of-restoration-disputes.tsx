@@ -141,7 +141,7 @@ export default function Content() {
         California courts have generally rejected this argument. Loss of rents coverage is designed to replace the rental income the property <em>would have earned</em> during the period of restoration. If the landlord can demonstrate that the property would have been rented but for the loss &mdash; by showing prior rental history, comparable rental rates in the area, marketing efforts, or lease negotiations in progress &mdash; the coverage applies even if the building happened to be between tenants at the moment of loss. The period of restoration for loss of rents claims begins when the loss occurs and ends when the property should be repaired and ready for re-tenanting.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For residential policyholders, loss of use coverage (Coverage D) functions similarly. A homeowner displaced by a covered loss is entitled to ALE for the reasonable time necessary to repair or rebuild, regardless of whether the home was partially or fully occupied at the time of loss. For more on ALE recovery strategies, see the article on{' '}
+        For residential policyholders, loss of use coverage (Loss of Use) functions similarly. A homeowner displaced by a covered loss is entitled to ALE for the reasonable time necessary to repair or rebuild, regardless of whether the home was partially or fully occupied at the time of loss. For more on ALE recovery strategies, see the article on{' '}
         <Link href="/resources/ale-frv" className="text-[#2E74B5] underline hover:text-blue-900">
           additional living expenses and fair rental value
         </Link>.

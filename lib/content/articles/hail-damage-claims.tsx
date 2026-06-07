@@ -215,7 +215,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Other structures (Coverage B):</strong> Fences, sheds, detached garages, pergolas,
+          <strong>Other structures (Other Structures):</strong> Fences, sheds, detached garages, pergolas,
           outdoor lighting, and garden features. See our guide to{' '}
           <Link href="/resources/debris-removal" className="text-blue-700 underline hover:text-blue-900">
             other structures and debris removal

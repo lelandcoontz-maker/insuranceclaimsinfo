@@ -928,7 +928,7 @@ export default function Content() {
         The ALE / Loss of Use Issue
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Additional Living Expense (ALE) or loss of use coverage (Coverage D) payments should
+        Additional Living Expense (ALE) or loss of use coverage (Loss of Use) payments should
         <strong> not</strong> have the HECM servicer&rsquo;s name on them. ALE covers the
         policyholder&rsquo;s increased living expenses during displacement &mdash; hotel bills,
         rental costs, meals, and other necessities. The HECM servicer has no interest in the
@@ -942,7 +942,7 @@ export default function Content() {
         Personal Property Is Yours
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Similarly, personal property payments (Coverage C) should not include the HECM servicer
+        Similarly, personal property payments (personal property) should not include the HECM servicer
         as a payee. The servicer&rsquo;s mortgage interest is in the dwelling &mdash; the
         structure &mdash; not in your furniture, clothing, electronics, or personal belongings.
         If the insurer issues a personal property check with the servicer&rsquo;s name on it,

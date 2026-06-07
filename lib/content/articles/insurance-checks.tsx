@@ -107,7 +107,7 @@ export default function Content() {
         for details.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Important:</strong> Personal property checks (Coverage C) and ALE checks (Coverage
+        <strong>Important:</strong> Personal property checks (personal property) and ALE checks (Coverage
         D) should <em>not</em> have the mortgage company&apos;s name on them. The lender has no
         interest in your furniture or living expenses. If these checks include the lender&apos;s
         name, contact your insurer and request reissuance.

@@ -46,7 +46,7 @@ export default function Content() {
         make sure the property (their collateral) gets rebuilt. The insurance policy&apos;s mortgage
         clause (California Insurance Code Section 2071) then requires the insurer to name the
         mortgagee on any dwelling payment. As a result, any insurance payment for dwelling damage
-        (Coverage A) or other structures is typically made payable to both you and the
+        (dwelling) or other structures is typically made payable to both you and the
         lender.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -57,7 +57,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Not All Checks Should Have the Lender&apos;s Name">
         <p>
-          Personal property checks (Coverage C) and Additional Living Expense checks (Coverage D /
+          Personal property checks (personal property) and Additional Living Expense checks (Coverage D /
           ALE) should <strong>not</strong> have the mortgage company&apos;s name on them. The lender
           has no interest in your furniture, clothing, or hotel bills. If your insurer puts the
           lender&apos;s name on a contents or ALE check, contact the insurer immediately and request
@@ -221,7 +221,7 @@ export default function Content() {
         Use Personal Property Money to Get Construction Moving
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you received a personal property settlement (Coverage C), those checks do <strong>not
+        If you received a personal property settlement (personal property), those checks do <strong>not
         </strong> have the mortgage company&apos;s name on them. That money is yours to use as you
         see fit. While it was paid for your damaged belongings, nothing prevents you from using it
         strategically to get construction started:

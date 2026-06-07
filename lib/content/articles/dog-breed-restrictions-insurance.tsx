@@ -215,7 +215,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard homeowner policy provides $100,000 to $300,000 in personal liability
-        coverage (Coverage E). For a serious dog bite claim, that may not be sufficient. An
+        coverage (personal liability). For a serious dog bite claim, that may not be sufficient. An
         umbrella policy can extend liability coverage to $1 million or more &mdash; but many
         umbrella policies contain the same breed restrictions as the underlying homeowner
         policy. If the umbrella excludes the breed or requires the homeowner policy to cover

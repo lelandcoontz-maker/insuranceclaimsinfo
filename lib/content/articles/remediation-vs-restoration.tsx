@@ -82,7 +82,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In most policies, restoration costs are covered under the dwelling coverage
-        (Coverage A) or personal property coverage (Coverage C), subject to the applicable
+        (dwelling) or personal property coverage (personal property), subject to the applicable
         deductible and policy limits. Restoration is rarely controversial from a coverage
         standpoint because the insurer has already acknowledged the covered loss. The
         disputes about restoration tend to be about the <em>amount</em> owed &mdash; line
@@ -273,7 +273,7 @@ export default function Content() {
         All of the above work is <strong>water mitigation</strong>. It would appear on the
         remediation contractor&rsquo;s invoice whether the property had mold or not. These
         costs are covered under the water damage portion of the claim &mdash; under dwelling
-        coverage (Coverage A) &mdash; and they should <strong>not</strong> be counted against
+        coverage (dwelling) &mdash; and they should <strong>not</strong> be counted against
         the mold sub-limit.
       </p>
 

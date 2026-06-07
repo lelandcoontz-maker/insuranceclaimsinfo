@@ -46,10 +46,10 @@ export default function Content() {
         policy form in the United States &mdash; defines &ldquo;residence premises&rdquo; as the
         one-family dwelling <strong>&ldquo;where you reside&rdquo;</strong> and which is shown as
         the &ldquo;described location&rdquo; on the declarations page. This definition is the
-        gateway to virtually all coverage under the policy. Your dwelling coverage (Coverage A),
-        other structures coverage (Coverage B), personal property coverage (Coverage C), loss of
-        use coverage (Coverage D), personal liability coverage (Coverage E), and medical payments
-        coverage (Coverage F) all flow through the &ldquo;residence premises&rdquo; definition.
+        gateway to virtually all coverage under the policy. Your dwelling coverage (dwelling),
+        other structures coverage (Other Structures), personal property coverage (personal property), loss of
+        use coverage (Loss of Use), personal liability coverage (personal liability), and medical payments
+        coverage (Medical Payments) all flow through the &ldquo;residence premises&rdquo; definition.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         What makes this language so dangerous is what it does <em>not</em> say. There is no

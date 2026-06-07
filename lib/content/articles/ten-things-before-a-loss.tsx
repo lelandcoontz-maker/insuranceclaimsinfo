@@ -72,7 +72,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Your policy has separate limits for different categories: dwelling, other
-        structures (Coverage B), personal property, and loss of use. Each
+        structures (Other Structures), personal property, and loss of use. Each
         one is a ceiling — the maximum the insurer will pay for that category. You need to know these
         numbers. If your dwelling limit is $400,000 but rebuilding your home would cost $650,000,
         you have a serious problem that needs to be fixed before a loss occurs, not after.

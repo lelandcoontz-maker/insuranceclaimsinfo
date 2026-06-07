@@ -137,7 +137,7 @@ export default function Content() {
         <Link href="/resources/third-party-vs-first-party" className="text-[#2E74B5] underline">
           third-party claim
         </Link>{' '}
-        against the neighbor&rsquo;s homeowner liability coverage (Coverage E). The neighbor&rsquo;s
+        against the neighbor&rsquo;s homeowner liability coverage (personal liability). The neighbor&rsquo;s
         insurer evaluates whether the neighbor was negligent. If negligence is established, the
         neighbor&rsquo;s liability coverage pays the claim (up to the policy limits). If the
         neighbor&rsquo;s insurer disputes negligence, the matter may proceed to litigation.

@@ -708,7 +708,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Code Upgrades Are a Separate Coverage">
         <p>
-          Code upgrade items should not come out of your dwelling coverage (Coverage A) limit. They
+          Code upgrade items should not come out of your dwelling coverage (dwelling) limit. They
           are payable under Law and Ordinance coverage, which is a separate line on your
           declarations page with its own limit — typically 10% of dwelling coverage. If your
           adjuster is not writing code upgrade items, you are leaving that entire coverage
