@@ -103,7 +103,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        Coverage A — Dwelling
+        Dwelling
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The full policy limit on your dwelling coverage typically applies. This is the cost to
@@ -116,7 +116,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        Coverage B — Other Structures
+        Other Structures
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Every detached structure on your property falls under Other Structures coverage —
@@ -124,7 +124,7 @@ export default function Content() {
         spas, retaining walls, driveways, walkways, gazebos, and any other structure not physically
         attached to the dwelling. This coverage is frequently overlooked or undervalued. On a
         property with significant hardscaping, fencing, a pool, and detached structures, the
-        Coverage B claim alone can be tens of thousands of dollars.
+        Other Structures claim alone can be tens of thousands of dollars.
       </p>
 
       <CalloutBox variant="tip" title="Do Not Overlook Other Structures">
@@ -132,12 +132,12 @@ export default function Content() {
           Walk your entire property — mentally or physically — and list every man-made structure
           that is not attached to the house. Retaining walls, garden walls, pavers, built-in
           barbecues, pergolas, play structures, mailboxes, light posts, and irrigation systems all
-          fall under Coverage B. Insurers rarely volunteer to pay for items you do not claim.
+          fall under Other Structures coverage. Insurers rarely volunteer to pay for items you do not claim.
         </p>
       </CalloutBox>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        Coverage C — Contents / Personal Property
+        Personal Property
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In a total loss, you have lost everything you owned. Every piece of furniture, every
@@ -153,11 +153,11 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">
-        Coverage D — Additional Living Expenses (ALE) / Fair Rental Value (FRV)
+        Additional Living Expenses (ALE) / Fair Rental Value (FRV)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A total loss means full displacement. You cannot live in your home while it is rebuilt — and
-        rebuilding a total loss typically takes 18 months to three years or longer. Coverage D pays
+        rebuilding a total loss typically takes 18 months to three years or longer. Loss of Use coverage pays
         for temporary housing, increased meal costs, storage fees, laundry, transportation, pet
         boarding, and every other additional expense you incur because you cannot live in your home.
         California law (Cal. Ins. Code &sect; 2060(b)(1)) requires a minimum 24-month ALE
@@ -174,7 +174,7 @@ export default function Content() {
         wildfire total losses, depending on the size of the structure, the presence of hazardous
         materials (asbestos, lead paint, contaminated soil), and access conditions. Most policies
         provide debris removal as an additional coverage beyond the dwelling limit, often 5 percent
-        of Coverage A. Debris removal applies not just to the dwelling but also to other structures,
+        of the dwelling limit. Debris removal applies not just to the dwelling but also to other structures,
         trees, and personal property on the premises. For a detailed breakdown, see our guide to{' '}
         <Link href="/resources/debris-removal" className="text-blue-700 underline hover:text-blue-900">
           debris removal coverage
@@ -201,7 +201,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Your policy provides separate coverage for trees, shrubs, and other plants — typically up to
-        $500 per item, with a total cap of 5 percent of Coverage A. In a total loss, especially from
+        $500 per item, with a total cap of 5 percent of the dwelling limit. In a total loss, especially from
         wildfire, mature trees and established landscaping are often completely destroyed. While the
         per-item and aggregate caps limit this coverage, it is still real money that should be
         claimed.
@@ -379,7 +379,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some insurers attempt to deduct the land value from the dwelling coverage — arguing that the
-        dwelling limit includes the land. This is wrong. Coverage A insures the structure, not the
+        dwelling limit includes the land. This is wrong. Dwelling coverage insures the structure, not the
         land. The land still exists after a total loss. Any attempt to reduce your dwelling recovery
         by the value of the land should be challenged immediately.
       </p>
