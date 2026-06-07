@@ -455,17 +455,19 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        The 30% Contents Advance (Insurance Code &sect; 10103.7)
+        The 60% Contents Advance (Insurance Code &sect; 10103.7(b)(1))
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a furnished primary dwelling suffers a covered total loss in a declared
         emergency, the insurer must offer a payment under the contents (personal property)
-        coverage in an amount no less than <strong>30% of the policy limit applicable to the
-        covered dwelling structure</strong>, up to a maximum of $250,000, without requiring
-        the insured to file an itemized inventory. This provision exists because the
-        Legislature recognized that policyholders who have lost everything cannot reasonably
-        be expected to produce a room-by-room inventory before receiving any money for
-        personal property.
+        coverage in an amount no less than <strong>60% of the policy limit applicable to the
+        personal property covered under the policy</strong>, up to a maximum of $350,000,
+        without requiring the insured to file an itemized inventory. (These thresholds were
+        raised from 30% / $250,000 to 60% / $350,000 by SB 495, Stats. 2025, ch. 542,
+        effective January 1, 2026, with policy forms required to comply by July 1, 2026.)
+        This provision exists because the Legislature recognized that policyholders who have
+        lost everything cannot reasonably be expected to produce a room-by-room inventory
+        before receiving any money for personal property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Many policyholders are never told this. They spend weeks or months compiling a
@@ -1053,8 +1055,8 @@ export default function Content() {
               <td className="p-3 text-gray-700">10 CCR &sect; 2695.7(c)(1)</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
-              <td className="p-3 text-gray-700">30% contents advance without inventory (declared disaster, total loss)</td>
-              <td className="p-3 text-gray-700">CIC &sect; 10103.7</td>
+              <td className="p-3 text-gray-700">60% contents advance without inventory (declared disaster, total loss), up to $350,000</td>
+              <td className="p-3 text-gray-700">CIC &sect; 10103.7(b)(1)</td>
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">Four-month ALE advance (declared disaster, total loss)</td>

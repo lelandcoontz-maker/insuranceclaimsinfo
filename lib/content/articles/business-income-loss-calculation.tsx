@@ -758,8 +758,8 @@ export default function Content() {
           package. Once submitted, the 40-day clock starts.
         </li>
         <li>
-          <strong>Cal. Ins. Code &sect; 790.03(h)(5)</strong> prohibits carriers from
-          &ldquo;not affirming or denying coverage of claims within a reasonable time after
+          <strong>Cal. Ins. Code &sect; 790.03(h)(4)</strong> prohibits carriers from
+          &ldquo;failing to affirm or deny coverage of claims within a reasonable time after
           proof of loss requirements have been completed and submitted by the insured.&rdquo;
         </li>
         <li>

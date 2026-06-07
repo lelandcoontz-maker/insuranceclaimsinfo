@@ -167,7 +167,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Minimum 24-month ALE period for state-of-emergency losses (Insurance Code &sect; 2060(b)(1)).</li>
         <li>Cannot impose policy-deadline restrictions on collecting the depreciation holdback that are shorter than the statutory minimums in Insurance Code §2051.5 (12 months standard; 36 months for state-of-emergency losses, with 6-month extensions for good cause). Whether the insurer can also condition the holdback on a signed construction contract is policy-language specific — consult an attorney if your carrier insists on a contract you have not yet signed.</li>
-        <li>Must offer a contents payment of at least 30% of the dwelling limit (up to $250,000) without requiring an itemized claim after a total loss from a state of emergency (Insurance Code &sect; 10103.7).</li>
+        <li>Must offer a contents payment of at least 60% of the personal property policy limit (up to $350,000) without requiring an itemized claim after a total loss from a state of emergency (Insurance Code &sect; 10103.7(b)(1), as amended by SB 495 effective January 1, 2026; previously 30% / $250,000 under AB 3012).</li>
         <li>Must provide an advance payment of at least 4 months of living expenses upon request after a total loss (CDI Bulletin 2025-2).</li>
       </ul>
 

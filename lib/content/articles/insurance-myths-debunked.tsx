@@ -876,10 +876,11 @@ export default function Content() {
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           California does provide some protection after declared disasters: Insurance Code
-          &sect; 10103.7 currently requires insurers to pay at least 30% of dwelling limits
-          toward contents (capped at $250,000) without requiring an itemized inventory during
-          the first 100 days. (SB 495, signed in 2025, expands this floor to 60% &mdash; capped
-          at $350,000 &mdash; effective in 2026.)
+          &sect; 10103.7(b)(1) requires insurers to pay at least 60% of the personal property
+          policy limit toward contents (capped at $350,000) without requiring an itemized
+          inventory during the first 100 days. (SB 495, Stats. 2025, ch. 542, raised the
+          floor from the prior 30% / $250,000 figure under AB 3012, effective January 1,
+          2026, with policy forms required to comply by July 1, 2026.)
           But that is a floor, not a ceiling. A thorough home inventory &mdash; photos,
           video walkthroughs, receipts stored off-site or in the cloud &mdash; can mean the
           difference between a $50,000 contents settlement and a $200,000 one. See our
@@ -1072,7 +1073,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;I don&apos;t need pre-loss documentation&rdquo;</td>
-              <td className="p-3 text-gray-700">CIC &sect; 10103.7 provides a 30% floor (cap $250K, 100 days); SB 495 (2025) expands to 60% (cap $350K) effective 2026. Documentation still maximizes recovery; post-loss recall underestimates 40&ndash;60%.</td>
+              <td className="p-3 text-gray-700">CIC &sect; 10103.7(b)(1) provides a 60% floor (cap $350K, 100 days) effective January 1, 2026 per SB 495 (formerly 30% / $250K under AB 3012). Documentation still maximizes recovery; post-loss recall underestimates 40&ndash;60%.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">&ldquo;My policy covers earthquakes&rdquo;</td>

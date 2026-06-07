@@ -49,10 +49,12 @@ export default function Content() {
           emergency.
         </li>
         <li>
-          <strong>Contents without inventory (CIC 10103.7[b]):</strong> The insurer must offer at
-          least 30% of the dwelling limit for personal property — up to $250,000 — without requiring
-          a detailed inventory. The insurer is also required to notify the policyholder of this
-          option.
+          <strong>Contents without inventory (CIC 10103.7(b)(1)):</strong> The insurer must offer
+          at least 60% of the contents policy limit for personal property &mdash; up to $350,000
+          &mdash; without requiring a detailed inventory. The insurer is also required to notify
+          the policyholder of this option. (These thresholds were raised from 30% / $250,000 to
+          60% / $350,000 by SB 495, Stats. 2025, ch. 542, effective January 1, 2026, with policy
+          forms required to comply by July 1, 2026.)
         </li>
         <li>
           <strong>Rebuild at a new location (CIC 2051.5[c]):</strong> If you choose to rebuild or
@@ -146,13 +148,16 @@ export default function Content() {
           no less than four months of Fair Rental Value also applies to the FAIR Plan&apos;s policies.
         </p>
         <p>
-          <strong>Payment of Contents Without Inventory:</strong> (Cal. Ins. Code section 10103.7[b])
-          In the event of a covered total loss of a primary dwelling under a residential property
-          insurance policy resulting from a state of emergency, if the residence was furnished at the
-          time of the loss, the insurance company shall offer a payment under the contents (personal
-          property) coverage in an amount no less than 30 percent of the policy limit applicable to
-          the covered dwelling structure, up to a maximum of two hundred fifty thousand dollars
-          ($250,000), without requiring the policyholder to file an itemized claim.
+          <strong>Payment of Contents Without Inventory:</strong> (Cal. Ins. Code section
+          10103.7(b)(1)) In the event of a covered total loss of a primary dwelling under a
+          residential property insurance policy resulting from a state of emergency, if the
+          residence was furnished at the time of the loss, the insurance company shall offer a
+          payment under the contents (personal property) coverage in an amount no less than 60
+          percent of the policy limit applicable to the personal property covered under the
+          policy, up to a maximum of three hundred fifty thousand dollars ($350,000), without
+          requiring the insured to file an itemized claim. (The previous floor was 30 percent /
+          $250,000 under AB 3012; raised by SB 495, Stats. 2025, ch. 542, effective January 1,
+          2026, with policy forms required to comply by July 1, 2026.)
         </p>
         <p>
           Also, after receiving the advance payment for contents, the policyholder may recover
@@ -248,8 +253,9 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Put your request in writing.</strong> Send a written request (email is fine)
-          specifically referencing California Insurance Code sections 2061(a) and 10103.7(b). State
-          that you are requesting the four-month ALE advance and the 30% contents advance. Do not
+          specifically referencing California Insurance Code sections 2061(a) and 10103.7(b)(1).
+          State that you are requesting the four-month ALE advance and the 60% contents advance.
+          Do not
           call — get it in writing so there is a record.
         </li>
         <li>
