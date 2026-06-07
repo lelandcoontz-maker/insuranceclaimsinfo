@@ -59,7 +59,7 @@ export default function Content() {
         you to maintain hazard insurance on the property with the lender named as loss payee. The
         insurance policy then implements that requirement through a standard mortgage clause &mdash;
         codified in California at Insurance Code &sect; 2071. The result is that any insurance payment
-        for structural damage (Coverage A for the dwelling, Coverage B for other structures) is made
+        for structural damage (under dwelling or Other Structures coverage) is made
         payable to both you and the mortgage company.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -89,12 +89,12 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A (Dwelling) and Coverage B (Other Structures):</strong> These checks will
+          <strong>Dwelling and Other Structures:</strong> These checks will
           include the mortgage company&apos;s name. This is correct &mdash; the lender has a direct
           interest in the structures securing the loan.
         </li>
         <li>
-          <strong>Coverage C (Personal Property / Contents):</strong> These checks should{' '}
+          <strong>Personal Property:</strong> These checks should{' '}
           <strong>not</strong> include the mortgage company&apos;s name. The lender has no interest in
           your personal belongings. If these checks arrive with the lender&apos;s name, contact your
           insurer immediately and request reissuance.
@@ -590,13 +590,13 @@ export default function Content() {
         coverage lines can determine whether money goes to the mortgage company or directly to you.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Consider a simplified example: a homeowner has $300,000 in Coverage A (dwelling), $50,000 in
-        Coverage C (personal property), and $30,000 in Coverage D (loss of use). The home is a total
+        Consider a simplified example: a homeowner has $300,000 in dwelling coverage, $50,000 in personal property coverage,
+        and $30,000 in Loss of Use coverage. The home is a total
         loss. The actual dwelling damage is $350,000. The personal property loss is $45,000. ALE
         expenses are $25,000.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the carrier maximizes Coverage A, it pays $300,000 under dwelling (the full limit) &mdash;
+        If the carrier maximizes the dwelling coverage, it pays $300,000 under dwelling (the full limit) &mdash;
         all of which goes to the mortgage company&apos;s loss draft department. The $45,000 in
         personal property and $25,000 in ALE go directly to the policyholder, for a total of $70,000
         in unencumbered funds.
@@ -627,17 +627,17 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Money allocated to Coverage A or B</strong> goes to the mortgage company&apos;s loss
+          <strong>Money allocated to dwelling or Other Structures</strong> goes to the mortgage company&apos;s loss
           draft department. You will get it back &mdash; eventually &mdash; but only through the draw
           process, with inspections, documentation requirements, and delays.
         </li>
         <li>
-          <strong>Money allocated to Coverage C</strong> goes directly to you. No mortgage company
+          <strong>Money allocated to personal property</strong> goes directly to you. No mortgage company
           involvement. No loss draft department. No inspections. You can deposit the check and use the
           money immediately.
         </li>
         <li>
-          <strong>Money allocated to Coverage D or Fair Rental Value</strong> goes directly to you.
+          <strong>Money allocated to Loss of Use or Fair Rental Value</strong> goes directly to you.
           Same as personal property &mdash; the mortgage company has no interest in your living
           expenses.
         </li>
