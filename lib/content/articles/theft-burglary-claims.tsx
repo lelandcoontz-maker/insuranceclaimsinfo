@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Theft and Burglary Insurance Claims: What Policyholders Need to Know',
   description:
-    'A guide to filing theft and burglary claims under homeowner insurance policies. Covers Coverage A, B, and C, sublimits, mysterious disappearance, vacancy exclusions, SIU investigations, and California-specific rules.',
+    'A guide to filing theft and burglary claims under homeowner insurance policies. Covers dwelling, other structures, and personal property, sublimits, mysterious disappearance, vacancy exclusions, SIU investigations, and California-specific rules.',
   summary:
     'Theft and burglary claims involve personal property limits and sub-limits on items like jewelry and cash, the \'mysterious disappearance\' issue, vacancy exclusions, and possible SIU scrutiny. File a police report and document losses to support the claim.',
 }
@@ -40,10 +40,10 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Coverage A (Dwelling) and Coverage B (Other Structures)
+        Dwelling and Other Structures
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverages A and B of the HO-3 are open-perils forms, meaning they cover all risks of
+        The dwelling and Other Structures coverages on the HO-3 are open-perils forms, meaning they cover all risks of
         physical loss unless specifically excluded. Theft itself is not excluded, so damage to the
         dwelling or other structures caused during a theft is covered &mdash; broken doors, smashed
         windows, damaged locks, kicked-in door frames, and pried-open garage doors. In many
@@ -53,7 +53,7 @@ export default function Content() {
         electronics.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The structural damage is handled under Coverage A (or Coverage B for detached structures)
+        The structural damage is handled under the dwelling coverage (or Other Structures for detached structures)
         and is <strong>not subject to the personal property sublimits</strong> discussed below.
         This is a distinction policyholders often overlook. For more on vandalism-related damage
         that accompanies theft, see our{' '}
@@ -63,15 +63,15 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Coverage C (Personal Property)
+        Personal Property
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Coverage C covers personal property &mdash; your belongings &mdash; against theft. Under
-        the HO-3, Coverage C is a named-perils form, and theft is one of the listed perils. Coverage
-        C applies to personal property stolen from your home, from your vehicle, or from virtually
-        any location. If your laptop is stolen from a hotel room, your bicycle is taken from a park,
-        or your luggage is stolen at the airport, Coverage C of your homeowner policy may cover the
-        loss.
+        Personal property coverage protects your belongings &mdash; against theft. Under
+        the HO-3, personal property coverage is a named-perils form, and theft is one of the
+        listed perils. It applies to personal property stolen from your home, from your vehicle,
+        or from virtually any location. If your laptop is stolen from a hotel room, your bicycle
+        is taken from a park, or your luggage is stolen at the airport, personal property
+        coverage on your homeowner policy may cover the loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, off-premises theft &mdash; theft that occurs away from the insured premises &mdash;
@@ -501,8 +501,8 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          Theft is covered across Coverage A (structural damage), Coverage B (other structures), and
-          Coverage C (personal property) &mdash; each with different limits and conditions.
+          Theft is covered across the dwelling coverage (structural damage), Other Structures, and
+          personal property coverage &mdash; each with different limits and conditions.
         </li>
         <li>
           Sublimits on jewelry ($1,500), cash ($200), firearms ($2,500), and other categories can
