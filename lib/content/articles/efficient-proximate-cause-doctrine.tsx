@@ -121,12 +121,12 @@ export default function Content() {
         excluded peril was merely the means by which the damage manifested.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Court adopted a formulation that has been cited in hundreds of decisions since:
-        &ldquo;In determining whether a loss is within an exception in a policy, where there
-        is a concurrence of different causes, the efficient cause &mdash; the one that sets
-        others in motion &mdash; is the cause to which the loss is attributed, though
-        the other causes may follow it, and operate more immediately in producing the
-        disaster.&rdquo;
+        The Court adopted a formulation (quoting 6 Couch, Insurance (1930) &sect; 1466) that has
+        been cited in hundreds of decisions since: &ldquo;[I]n determining whether a loss is
+        within an exception in a policy, where there is a concurrence of different causes, the
+        efficient cause &mdash; the one that sets others in motion &mdash; is the cause to
+        which the loss is to be attributed, though the other causes may follow it, and operate
+        more immediately in producing the disaster.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Sabella v. Wisler</em>, 59 Cal.2d 21, 377 P.2d 889 (1963).{' '}
@@ -157,9 +157,13 @@ export default function Content() {
         doctrine &mdash; not concurrent causation &mdash; governs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        &ldquo;When a loss is caused by a combination of a covered risk and a specifically
-        excluded risk, the loss is covered <strong>only if</strong> the covered risk was the
-        efficient proximate cause of the loss.&rdquo;
+        The rule the Court announced (later quoted authoritatively in <em>State Farm Fire &amp;
+        Casualty Co. v. Von Der Lieth</em> (1991) 54 Cal.3d 1123, 1131&ndash;1132, and in{' '}
+        <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, 750):
+        &ldquo;[W]hen a loss is caused by a combination of a covered and specifically excluded
+        risks, the loss is covered if the covered risk was the efficient proximate cause of the
+        loss, but the loss is not covered if the covered risk was only a remote cause of the
+        loss, or the excluded risk was the efficient proximate, or predominate cause.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This distinction matters. Concurrent causation (which applies only to third-party
