@@ -138,11 +138,13 @@ export default function Content() {
         insurance bad faith case in California.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Jordan v. Allstate Insurance Co.</em> (2007) 148 Cal.App.4th 1062, the court
-        confirmed that Fair Claims regulation violations are relevant and admissible evidence of
-        bad faith. The regulations define the standard of conduct insurers must meet, and
-        failure to meet that standard — even if it does not automatically equal bad faith —
-        shows the insurer&apos;s general disregard for doing things correctly.
+        In <em>Rattan v. United Services Automobile Assn.</em> (2000) 84 Cal.App.4th 715, 724,
+        the Court of Appeal held that the Fair Claims regulations &ldquo;may be used by a jury
+        to infer a lack of reasonableness&rdquo; on the insurer&apos;s part &mdash; though
+        violation of the regulations is not automatically a breach of contract or per se bad
+        faith. The regulations define the standard of conduct insurers are expected to meet,
+        and failure to meet that standard, even where it does not automatically equal bad faith,
+        is the kind of evidence that supports an inference of unreasonableness.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, the <em>Wilson v. 21st Century Ins. Co.</em> (2007) 42 Cal.4th 713
@@ -818,10 +820,11 @@ export default function Content() {
         one-paragraph letter stating: &ldquo;After review, we have determined this loss is not
         covered under your policy.&rdquo; This denial violates &sect; 2695.7(b)(1) in multiple
         ways: it does not list all bases for denial, does not cite the specific exclusion,
-        does not provide the factual basis, and does not include CDI contact information. In{' '}
-        <em>Brizuela v. CalFarm Ins. Co.</em> (2004) 116 Cal.App.4th 578, the court found
-        that an insurer&apos;s failure to adequately explain a denial was relevant evidence of
-        bad faith.
+        does not provide the factual basis, and does not include CDI contact information. It
+        also implicates Insurance Code &sect; 790.03(h)(13), which prohibits &ldquo;[f]ailing
+        to provide promptly a reasonable explanation of the basis relied on in the insurance
+        policy, in relation to the facts or applicable law, for the denial of a claim or for
+        the offer of a compromise settlement.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">
         <strong>How to use this:</strong> If you receive a deficient denial, respond in writing:
