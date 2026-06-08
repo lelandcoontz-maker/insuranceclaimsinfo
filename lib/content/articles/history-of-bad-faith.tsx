@@ -674,6 +674,38 @@ export default function Content() {
         attorneys need to understand all of them.
       </p>
 
+      <CalloutBox variant="info" title="When Bad Faith Claims Win, When They Lose (California Practice)">
+        <p className="mb-2">
+          <strong>Most likely to succeed when:</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1 mb-3">
+          <li>The claim file shows the insurer&apos;s denial was reached without a thorough or fair investigation &mdash; the kind of record that <em>Wilson v. 21st Century</em> said the genuine dispute doctrine cannot insulate</li>
+          <li>The insurer selectively used evidence supporting denial while ignoring the insured&apos;s contradictory evidence</li>
+          <li>There is a documented pattern of regulatory violations woven into the claim handling (missed deadlines, failure to disclose coverages, inadequate investigation)</li>
+          <li>The factual record was built contemporaneously during the claim, with each unreasonable response captured in writing as it happened</li>
+          <li>The insurer&apos;s conduct rises to &ldquo;despicable&rdquo; behavior with intent or conscious disregard, supporting punitive damages under Civil Code &sect; 3294(c)</li>
+          <li>The insured was financially vulnerable, elderly, or in another way more exposed to harm from the insurer&apos;s conduct &mdash; one of the reprehensibility factors that increases the realistic punitive exposure</li>
+        </ul>
+        <p className="mb-2">
+          <strong>Most likely to lose at summary judgment when:</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1 mb-3">
+          <li>The insurer can show a genuine, good-faith dispute over coverage or valuation (the <em>Chateau Chamberay</em> defense, the primary mechanism that defeats most bad-faith claims pre-trial)</li>
+          <li>The insurer retained an expert whose opinion supports denial &mdash; the so-called &ldquo;expert safe harbor&rdquo; tends to favor the insurer on summary judgment, even when plaintiff-side counsel argue the expert is biased</li>
+          <li>The factual record was built after the fact rather than contemporaneously during the claim</li>
+          <li>The insurer&apos;s conduct, however frustrating, falls short of unreasonable on the merits &mdash; being wrong is not the same as acting in bad faith</li>
+          <li>The case relies on bare regulatory or statutory violations without tying them to coverage owed or consequential harm</li>
+          <li>The corporate punitive damages claim cannot identify a qualifying &ldquo;officer, director, or managing agent&rdquo; under Civ. Code &sect; 3294(b) and <em>White v. Ultramar</em> / <em>Roby v. McKesson</em></li>
+        </ul>
+        <p className="mt-3 text-sm italic">
+          The genuine dispute doctrine and the motion for summary judgment together are the
+          primary mechanisms that defeat most bad-faith claims before they reach a jury. Many
+          claims that look strong on paper do not survive to trial. Whether a specific claim has
+          the evidence to survive is a question for an attorney experienced in California
+          insurance bad-faith litigation.
+        </p>
+      </CalloutBox>
+
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         The Motion for Summary Judgment: The Insurer&apos;s Most Powerful Weapon
       </h3>
