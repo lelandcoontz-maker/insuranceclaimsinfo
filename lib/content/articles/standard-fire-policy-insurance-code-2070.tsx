@@ -160,12 +160,12 @@ export default function Content() {
         It uses the phrase &ldquo;the insured,&rdquo; not &ldquo;any insured&rdquo; or &ldquo;an
         insured.&rdquo; This distinction has enormous legal consequences. The California Supreme
         Court addressed it directly in{' '}
-        <em>Century-National Insurance Co. v. Garcia</em> (2011) 51 Cal.4th 564, holding that the
-        standard fire policy&rsquo;s consistent use of &ldquo;the insured&rdquo; throughout the
-        form indicates an intent to provide &ldquo;several&rdquo; or &ldquo;independent&rdquo;
-        obligations as to each insured. Under this reading, the wrongful actions of one insured
-        defeat the policy rights of <em>that insured only</em> &mdash; not the rights of innocent
-        co-insureds.
+        <em>Century-National Insurance Co. v. Garcia</em> (2011) 51 Cal.4th 564, holding that
+        &ldquo;the provisions set forth in section 2071 uniformly indicate that provisions
+        barring insurer liability or excluding coverage are to operate severally&rdquo; &mdash;
+        that is, on an insured-by-insured basis. Under this reading, the wrongful actions of one
+        insured defeat the policy rights of <em>that insured only</em> &mdash; not the rights of
+        innocent co-insureds.
       </p>
 
       <CalloutBox variant="tip" title="Why &ldquo;The Insured&rdquo; vs. &ldquo;Any Insured&rdquo; Matters">
@@ -625,20 +625,25 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        The Insurer&rsquo;s Notice Obligation Under Section 2070.1
+        The Insurer&rsquo;s SOL-Notice Obligation Under 10 CCR &sect; 2695.7(f)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance Code Section 2070.1 adds an important layer of protection. It requires that any
-        insurer whose insured has made a claim under a residential fire or property insurance
-        policy must, at least 30 days before the expiration of the applicable statute of
-        limitation, notify the insured in writing of the limitations deadline. If the insurer
-        fails to provide this notice, the failure tolls the limitations period for 30 days from
-        the date written notice is actually given.
+        Separate from the standard fire policy itself, the California Fair Claims Settlement
+        Practices Regulations impose a written-notice obligation on insurers regarding the
+        suit-limitation deadline. Under 10 CCR &sect; 2695.7(f), insurers must provide written
+        notice of any statute of limitation or other time period requirement upon which the
+        insurer may rely to deny a claim, not less than sixty (60) days before the expiration
+        date. If the claim notice is received within that 60-day window, notice must be given
+        immediately. For uninsured motorist claims, a shorter 30-day notice period applies.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This provision is waived if the insured is represented by legal counsel. But for
-        unrepresented policyholders, it provides a critical safeguard against unknowingly losing
-        the right to sue. For a comprehensive discussion of all applicable deadlines, see our{' '}
+        This regulatory notice obligation does not apply when the claimant is represented by
+        counsel on the claim matter. For unrepresented policyholders, it provides a critical
+        safeguard against unknowingly losing the right to sue. (Insurance Code Section 2070.1
+        imposes a similar but much narrower written-notice obligation, applicable only to
+        residential fire or property insurance claims for loss due, in whole or in part, to
+        corrosive soils &mdash; not to fire and other property claims generally.) For a
+        comprehensive discussion of all applicable deadlines, see our{' '}
         <Link
           href="/resources/california-claim-deadlines"
           className="text-[#2E74B5] hover:underline"
@@ -838,10 +843,10 @@ export default function Content() {
         Section 2083: The Deviation Is a Misdemeanor &mdash; But Still Binding on the Insurer
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance Code Section 2083 provides that &ldquo;it is a misdemeanor for any insurer or
-        any agent to countersign or issue a fire policy covering in whole or in part property in
-        this state and varying from the California standard form of policy otherwise than as
-        provided by this article.&rdquo; But the statute adds a critical proviso: &ldquo;any
+        Insurance Code Section 2083 provides that &ldquo;[i]t is a misdemeanor for any insurer
+        or any agent to countersign or issue a fire policy covering in whole or in part property
+        in California and varying from the California standard form of policy otherwise than as
+        provided by this article.&rdquo; But the statute adds a critical proviso: &ldquo;[a]ny
         policy so issued shall, notwithstanding, be binding upon the issuing insurer.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
