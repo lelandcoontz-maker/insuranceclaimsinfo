@@ -64,20 +64,28 @@ export default function Content() {
         California is unusual in several ways regarding the statute of limitations on
         insurance claims. Under Cal. Ins. Code &sect; 2071, the standard fire policy requires
         suit to be filed within <strong>12 months from inception of the loss</strong>. For
-        losses related to a declared state of emergency as defined in Government Code
-        &sect; 8558(b), &sect; 2071 extends that period to{' '}
-        <strong>24 months from inception of the loss</strong>. The shorter 12-month period
-        is the default; the 24-month period applies to most wildfire, earthquake, and other
-        declared-disaster losses.
+        <strong> residential</strong> losses related to a state of emergency declared under
+        Government Code &sect; 8558(b), &sect; 2071 extends that period to{' '}
+        <strong>24 months from inception of the loss</strong>. The extension is built into
+        &sect; 2071 itself and applies to policies covering loss or damage to residential
+        property; it is not a generic rule for all losses. The 12-month period remains the
+        default outside the residential-disaster context; the 24-month period applies to
+        most residential wildfire, earthquake, and other declared-disaster losses.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California courts also recognize <em>equitable tolling</em> of the suit-limitation
         period: under <em>Prudential-LMI Commercial Ins. v. Superior Court</em> (1990) 51
-        Cal.3d 674, the limitation clock is paused while the insurer is actively
-        investigating and adjusting the claim, then resumes once the carrier formally
-        denies, closes the claim, or otherwise ceases active investigation. Whether tolling
-        applies to a specific situation is fact-dependent and a question for a California-
-        licensed attorney.
+        Cal.3d 674, the limitation clock is &ldquo;equitably tolled from the time the insured
+        files a timely notice, pursuant to policy notice provisions, to the time the insurer
+        formally denies the claim in writing.&rdquo; Subsequent published California Court of
+        Appeal authority &mdash; <em>Singh v. Allstate Ins. Co.</em> (1998) 63 Cal.App.4th 135,{' '}
+        <em>Marselis v. Allstate Ins. Co.</em> (2004) 121 Cal.App.4th 122, and{' '}
+        <em>Doheny Park Terrace Homeowners Assn. v. Truck Ins. Exchange</em> (2005) 132
+        Cal.App.4th 1076 &mdash; has consistently declined to extend tolling beyond that
+        notice-to-denial window. A formal written denial, or a clear written communication
+        equivalent to denial (such as a finding that damage is less than the deductible),
+        ends tolling. Whether tolling applies and how much remaining time the insured has is
+        fact-dependent and a question for a California-licensed attorney.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The carrier is required to inform an insured who is not represented by an attorney
