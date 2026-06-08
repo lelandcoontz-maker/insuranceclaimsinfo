@@ -116,8 +116,8 @@ export default function Content() {
           <strong>Be specific and factual.</strong> State exactly what happened, when it happened, and
           which regulation or law you believe was violated. Avoid vague language like &ldquo;they are
           being unfair.&rdquo; Instead, say &ldquo;the insurer failed to respond to my written
-          communication dated January 15 within the 15-day period required by CCR Section
-          2695.5(e).&rdquo;
+          communication dated January 15 within the 15-day period required by 10 CCR &sect;
+          2695.5(b).&rdquo;
         </li>
         <li>
           <strong>Include a timeline.</strong> Present events in chronological order with specific
@@ -130,7 +130,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Cite the specific regulation.</strong> If you know which section of the Fair Claims
-          Settlement Practices Act the insurer has violated, reference it by number. This
+          Settlement Practices Regulations the insurer has violated, reference it by number. This
           demonstrates that your complaint is grounded in actual regulatory requirements, not just
           frustration.
         </li>
