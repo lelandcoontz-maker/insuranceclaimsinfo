@@ -2,11 +2,11 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Does Invoking Appraisal Toll the Statute of Limitations?',
+  title: 'Does Invoking Appraisal Toll the Statute of Limitations? (In California, the Safer Assumption Is No.)',
   description:
-    'The answer is unsettled. Learn both sides of the debate, what California courts have said (Prudential-LMI, Appalachian, Brehm), how Insurance Code § 2071 creates the problem, and the one thing you should always do before starting appraisal: get a written tolling agreement.',
+    'Invoking appraisal does not toll the one-year suit limitation in California. Prudential-LMI tolls during the insurer’s investigation, but Singh, Marselis, and Doheny show courts have refused to extend tolling beyond that. Protect yourself: file a protective lawsuit and request a stay pending appraisal.',
   summary:
-    'Whether invoking appraisal pauses the one-year suit deadline is unsettled in California. Because the law is unclear, always get a written tolling agreement before starting appraisal so the clock cannot run out while you wait for the award.',
+    'In California, the safer assumption is that invoking appraisal does NOT toll the one-year suit limitation. Prudential-LMI tolling stops when the insurer denies the claim; courts have repeatedly refused to extend tolling further. The practical fix: file a protective lawsuit before the deadline and request a stay pending appraisal.',
 }
 
 export default function Content() {
@@ -53,20 +53,30 @@ export default function Content() {
         <strong>toll</strong> &mdash; meaning pause &mdash; the statute of limitations?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The answer, as of 2025, is that no one can say with certainty. The California Supreme
-        Court has never squarely addressed the question, and lower courts have reached
-        inconsistent results. This article presents both sides of the argument, discusses the
-        relevant case law, and explains the steps every policyholder should take to protect
-        themselves regardless of how a court might eventually rule.
+        The safer answer in California is that invoking appraisal does <strong>not</strong> toll
+        the suit limitation. There is no California Supreme Court decision squarely on point, but
+        the published Court of Appeal authority that does address tolling outside the insurer&apos;s
+        active investigation has consistently <em>refused</em> to extend the doctrine. The pattern
+        from <em>Singh</em>, <em>Marselis</em>, and <em>Doheny Park Terrace</em> is one of courts
+        limiting tolling, not expanding it. Experienced California insurance litigators reflect
+        this in practice: they treat appraisal as <em>not</em> tolling, and they protect the
+        deadline by filing a protective lawsuit and requesting a stay. This article explains why
+        the rule comes out that way, the policyholder-side arguments that have nonetheless been
+        raised, and the steps every policyholder should take to make sure the suit clock cannot
+        quietly run out during a months-long appraisal.
       </p>
 
-      <CalloutBox variant="warning" title="This Is Unsettled Law">
+      <CalloutBox variant="warning" title="The Working Rule in California: Appraisal Does Not Toll">
         <p>
-          There is no definitive California Supreme Court ruling that conclusively answers
-          whether invoking appraisal tolls the suit limitation period. Lower courts have gone
-          both ways. The safest approach &mdash; and the one this article recommends &mdash; is
-          to assume the clock keeps running unless you have a written tolling agreement from the
-          carrier. If your deadline is approaching, consult an{' '}
+          The safer assumption &mdash; and the one experienced insurance litigators operate
+          under &mdash; is that invoking appraisal does <strong>not</strong> toll the one-year
+          suit limitation in California. <em>Prudential-LMI</em> tolls the clock while the
+          insurer is actively investigating, but that tolling ends when the insurer denies the
+          claim, and California courts have repeatedly declined to extend it further. The
+          practical protection is to <strong>file a protective lawsuit before the deadline and
+          request a stay pending appraisal</strong>. A written tolling agreement from the carrier
+          is a useful supplement but is not a substitute for filing &mdash; many carriers will
+          refuse. If your deadline is approaching, consult an{' '}
           <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] underline">
             attorney
           </Link>{' '}
@@ -113,48 +123,118 @@ export default function Content() {
         the silence persists &mdash; and policyholders bear the risk.
       </p>
 
-      {/* ====== ARGUMENT FOR TOLLING ====== */}
+      {/* ====== WHY COURTS HAVE REFUSED TO EXTEND TOLLING ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Argument That Appraisal Does Toll the Statute of Limitations
+        Why California Courts Have Refused to Extend Tolling Beyond the Investigation Phase
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        There is a credible legal argument that invoking appraisal should toll the one-year
-        suit limitation. It rests on several well-established principles that, taken together,
-        create a persuasive case.
+        The starting point is{' '}
+        <em>Prudential-LMI Commercial Ins. v. Superior Court</em> (1990) 51 Cal.3d 674. The
+        California Supreme Court held that the one-year suit limitation in standard fire
+        insurance policies is{' '}
+        <Link href="/resources/equitable-tolling" className="text-[#2E74B5] underline">
+          equitably tolled
+        </Link>{' '}
+        &ldquo;from the time the insured files a timely notice [of his claim], pursuant to
+        policy notice provisions, to the time the insurer formally denies the claim in
+        writing.&rdquo; The rationale was specific and narrow: the policyholder should not be
+        penalized for the time consumed by the insurer&apos;s investigation, but the central
+        idea of the limitation provision &mdash; that the insured will only have twelve months
+        to institute suit &mdash; is preserved by ending the tolling at denial.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The published Court of Appeal decisions that have addressed extending <em>Prudential-LMI</em>
+        beyond the notice-to-denial window have consistently <strong>refused</strong> to extend it.
+        That pattern matters because it is the doctrinal foundation any pro-tolling argument has to
+        get past.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        1. Equitable Tolling Principles Apply
+        <em>Singh v. Allstate Ins. Co.</em> (1998) 63 Cal.App.4th 135 &mdash; Reconsideration Requests Do Not Extend Tolling
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California courts have long recognized{' '}
-        <Link href="/resources/equitable-tolling" className="text-[#2E74B5] underline">
-          equitable tolling
-        </Link>{' '}
-        in the insurance context. The California Supreme Court in{' '}
-        <em>Prudential-LMI Commercial Ins. v. Superior Court</em> (1990) 51 Cal.3d 674
-        established that the one-year suit limitation is tolled while the insurer is actively
-        investigating and adjusting the claim. Subsequent decisions including{' '}
-        <em>Singh v. Allstate Ins. Co.</em> (1998) 63 Cal.App.4th 135,{' '}
-        <em>Marselis v. Allstate Ins. Co.</em> (2004) 121 Cal.App.4th 122,{' '}
-        <em>Doheny Park Terrace Homeowners Assn. v. Truck Ins. Exchange</em> (2005) 132
-        Cal.App.4th 1076, and <em>Ashou v. Liberty Mutual Fire Ins. Co.</em> (2006) 138
-        Cal.App.4th 748 applied and refined the doctrine in the first-party insurance
-        context. The rationale is that a policyholder who is cooperating with the
-        insurer&apos;s process should not be penalized because that process consumes time.
-        The insurer should not benefit from time consumed by its own handling of the claim.
+        In <em>Singh</em>, after the insurer issued an unequivocal denial, the insureds asked
+        the carrier to reconsider. The Court of Appeal held that the reconsideration request
+        did <em>not</em> re-engage the tolling period. &ldquo;The justifications for equitable
+        tolling are absent, once the carrier has initially denied the claim,&rdquo; the court
+        wrote, because by that point the insured has the information needed to file suit. The
+        court framed an unequivocal denial as the &ldquo;definitive demarcation point for
+        limitations purposes&rdquo; &mdash; tolling stops, and the clock runs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If equitable tolling applies during the insurer&apos;s investigation, the argument
-        goes, it should apply equally during appraisal &mdash; another process that the policy
-        itself authorizes and that both parties are actively participating in. From the
-        policyholder&apos;s perspective, there is no meaningful difference between waiting for
-        the insurer to finish investigating the claim and waiting for the appraisal panel to
-        issue an award. In both cases, the policyholder is pursuing the remedy the policy
-        provides and should not be penalized for the time it takes. Whether the case-specific
-        tolling endpoint can be drawn at the close of appraisal rather than the close of
-        adjustment is a question California courts have not squarely resolved.
+        <em>Singh</em> has been applied repeatedly to reject attempts to push <em>Prudential-LMI</em>
+        beyond its narrow scope. Federal courts applying California law continue to cite it for
+        the rule that &ldquo;once an unequivocal denial has been made, the insured&apos;s later
+        requests for reconsideration ... do not extend the period of equitable tolling.&rdquo;
+        See, e.g., <em>Barbey v. State Farm Gen. Ins. Co.</em> (9th Cir. Dec. 9, 2025, No.
+        24-5424) (mem.).
       </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        <em>Marselis v. Allstate Ins. Co.</em> (2004) 121 Cal.App.4th 122 &mdash; The Court Rejected an Effort to Extend Tolling
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>Marselis</em> is even more direct on the question of whether <em>Prudential-LMI</em>
+        should be expanded. The insured argued the limitation period should be tolled even after
+        the insurer paid the claim, on the theory that no unequivocal written denial had ever
+        issued. The Court of Appeal rejected the argument and affirmed judgment for Allstate,
+        writing: &ldquo;Nothing justifies judicial extension of the equitable tolling rule to
+        create a right to reopen claims that have been paid.&rdquo; The court explained that
+        the existing tolling during investigation already gives the insured &ldquo;ample
+        opportunity to press a further claim,&rdquo; and that the limitations provision&apos;s
+        twelve-month purpose must be respected.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>Marselis</em> is the published California authority closest to an explicit
+        instruction not to invent new tolling categories. That instruction applies just as
+        much to a proposed &ldquo;tolling during appraisal&rdquo; category as it did to the
+        proposed post-payment category the <em>Marselis</em> court rejected.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        <em>Doheny Park Terrace Homeowners Assn. v. Truck Ins. Exchange</em> (2005) 132 Cal.App.4th 1076 &mdash; Equitable Tolling Rejected on the Facts
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>Doheny Park</em> is often cited as a pro-policyholder case because the Court of
+        Appeal reinstated a Northridge earthquake claim on equitable <em>estoppel</em> grounds.
+        But on the equitable <em>tolling</em> question &mdash; which is what matters for the
+        appraisal-tolling analysis &mdash; the court ruled the other way. It held that equitable
+        tolling could <em>not</em> apply once the insurer had made an unequivocal denial.
+        Equitable estoppel and equitable tolling are different doctrines that require different
+        proof: tolling pauses the clock during a defined period (notice to denial); estoppel
+        prevents the insurer from raising the limitation defense because of conduct the insured
+        reasonably relied on.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For appraisal tolling, the takeaway is that <em>Doheny Park</em>, like <em>Singh</em>
+        and <em>Marselis</em>, treats <em>Prudential-LMI</em>&apos;s tolling rule as having
+        fixed endpoints &mdash; it does not get re-engaged by later events.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        <em>Ashou v. Liberty Mutual Fire Ins. Co.</em> (2006) 138 Cal.App.4th 748 &mdash; A Narrow Exception When the Insurer Reopens the File
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <em>Ashou</em> is the case policyholder-side attorneys most often invoke when arguing
+        that tolling should re-engage after denial. It does extend tolling in one specific
+        situation: when the insurer affirmatively agrees to reopen the file and actively
+        reinvestigates the claim, the insured may reasonably expect the claim is again under
+        active consideration, and that period can be tolled. But <em>Ashou</em> is careful to
+        limit the rule. The court emphasized that &ldquo;a mere request does not automatically
+        reopen the claim, nor does it impose an obligation on the insurer to respond.&rdquo;
+        The insurer&apos;s conduct &mdash; not the insured&apos;s &mdash; is what triggers
+        renewed tolling.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Importantly, invoking appraisal is not the same as the insurer agreeing to reopen the
+        file. Appraisal is a discrete, statutory dispute-resolution mechanism for valuation;
+        it does not by its terms put the underlying coverage determination back into active
+        reinvestigation. Treating appraisal as triggering a new <em>Ashou</em>-style tolling
+        period would require extending <em>Ashou</em> well beyond its facts &mdash; in a
+        direction <em>Singh</em>, <em>Marselis</em>, and <em>Doheny Park</em> all counsel
+        against.
+      </p>
+
       <CalloutBox variant="warning" title="Two §2071 Deadlines, Not Just One">
         <p>
           A common mistake when running this analysis is to think of &sect;&nbsp;2071 as a
@@ -168,266 +248,196 @@ export default function Content() {
         </p>
       </CalloutBox>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        2. The Insurer&apos;s Participation Implies Waiver
-      </h3>
+      {/* ====== POLICYHOLDER ARGUMENTS THAT HAVE BEEN RAISED ====== */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Policyholder Arguments That Have Been Raised (And Why They Have Not Prevailed)
+      </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When an insurer participates in appraisal &mdash; selects an appraiser, cooperates on
-        umpire selection, submits its own evidence to the panel, and engages throughout the
-        process &mdash; it is engaging in a dispute resolution mechanism that the policy
-        itself provides. Some courts have found that the insurer&apos;s active participation
-        in appraisal is inconsistent with simultaneously insisting that the policyholder&apos;s
-        right to sue is expiring. The insurer cannot have it both ways: it cannot participate
-        in a contractual resolution process while the clock runs out on the policyholder&apos;s
-        alternative remedy.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This argument is particularly strong when the insurer is the party that invoked
-        appraisal. If the carrier demands appraisal, the policyholder is effectively being
-        told: &ldquo;We want to resolve this through appraisal rather than negotiation.&rdquo;
-        For the carrier to then argue that the suit limitation was running the entire time
-        would be, in many courts&apos; view, fundamentally unfair &mdash; the carrier would
-        be using a policy provision to delay the policyholder while another policy provision
-        silently eliminated the policyholder&apos;s fallback rights.
+        Policyholder-side attorneys have constructed several arguments for tolling during
+        appraisal. They are not frivolous. But none has produced a published California
+        appellate decision squarely adopting them, and the existing <em>Singh / Marselis /
+        Doheny Park</em> line of authority cuts against them. The arguments worth knowing
+        about &mdash; mainly so an insured can recognize them if an attorney evaluates them
+        on specific facts &mdash; are:
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        3. Appraisal Is Governed by the California Arbitration Code for Procedural Purposes
+        1. Extending <em>Prudential-LMI</em>&apos;s Equitable Logic to Appraisal
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Appraisal is appraisal &mdash; it is its own dispute resolution mechanism, narrower
-        than a general arbitration. But California has placed insurance appraisal under the
-        procedural framework of the California Arbitration Act, Code of Civil Procedure
-        &sect;&sect; 1280&ndash;1294.2. The mechanism is a 1961 amendment to CCP &sect; 1280(a)
-        that expanded &ldquo;agreement to arbitrate&rdquo; to include &ldquo;agreements
-        providing for valuations, appraisals and similar proceedings.&rdquo; This was applied
-        to insurance appraisal in <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130
-        Cal.App.3d 818, where the court held that an appraisal agreement in a standard fire
-        insurance policy constitutes an &ldquo;agreement&rdquo; within the meaning of CCP
-        &sect; 1280(a) and is therefore subject to the statutory contractual arbitration law
-        for purposes of enforcement, judicial review, vacatur, and umpire disclosures.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This procedural classification strengthens the tolling argument considerably. If
-        appraisal is conducted under the arbitration code &mdash; with both parties
-        participating in a binding proceeding governed by statute &mdash; requiring the
-        policyholder to simultaneously file a lawsuit just to preserve the statute of
-        limitations creates parallel proceedings addressing the same dispute. Courts
-        generally disfavor parallel proceedings and the waste they create. The{' '}
-        <em>Appalachian</em> framework gives courts a doctrinal basis for tolling: the
-        policyholder is pursuing the contractual dispute resolution process the policy
-        provides, and that process should not consume the time available for litigation.
+        The argument runs that if the policyholder should not be penalized for time consumed by
+        the insurer&apos;s investigation, the policyholder should also not be penalized for
+        time consumed by appraisal &mdash; another policy-authorized process both parties are
+        participating in. The weakness is that <em>Marselis</em> rejected exactly this kind of
+        &ldquo;extension by analogy&rdquo; reasoning, holding that the existing tolling rule
+        already balances the insured&apos;s interests against the limitation provision&apos;s
+        twelve-month purpose, and that judicial extension is not justified.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        4. The Impossibility of Simultaneous Proceedings
+        2. Implied Waiver from the Insurer&apos;s Participation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A policyholder who has invoked appraisal is pursuing the contractual remedy the policy
-        provides. Requiring that policyholder to simultaneously file a lawsuit &mdash; at
-        significant expense &mdash; just to preserve the statute of limitations, while a
-        contractual remedy is still pending, produces exactly the kind of absurd, duplicative
-        result that equitable tolling is designed to prevent. Courts applying this logic have
-        noted that the policyholder is being asked to pursue two tracks simultaneously, each
-        of which is designed to resolve the same dispute, because of a gap in the policy
-        language that the insurer drafted.
+        Some policyholder briefs argue that an insurer that demands appraisal &mdash; or that
+        actively participates in one the insured demanded &mdash; cannot consistently insist
+        that the suit-limitation clock continued to run. This is a fairness argument, not a
+        doctrinal one. It has more traction where the insurer was the party that invoked
+        appraisal, and even more if the insurer also made statements that could be argued to
+        induce reliance (which would more naturally be framed as equitable estoppel under
+        <em> Doheny Park</em>). On a clean record, however, mere participation in an appraisal
+        the policy authorizes is unlikely to be treated as a waiver of the suit-limitation
+        defense.
       </p>
 
-      <CalloutBox variant="info" title="California Is Unique">
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        3. Appraisal&apos;s Procedural Classification Under the Arbitration Code
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California places insurance appraisal under the procedural framework of the California
+        Arbitration Act, CCP &sect;&sect; 1280&ndash;1294.2. The mechanism is a 1961 amendment
+        to CCP &sect; 1280(a) that expanded &ldquo;agreement to arbitrate&rdquo; to include
+        &ldquo;agreements providing for valuations, appraisals and similar proceedings,&rdquo;
+        applied to insurance appraisal in <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982)
+        130 Cal.App.3d 818. Policyholder-side attorneys sometimes argue that this classification
+        supports tolling by analogy to arbitration. The weakness is that the <em>Appalachian</em>
+        framework concerns procedural rules for enforcing and confirming appraisal awards
+        &mdash; it does not by its terms create a tolling rule, and no published decision has
+        used it to override the <em>Singh / Marselis</em> limits.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        4. The Impracticality of Parallel Proceedings
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The remaining argument is policy-based: requiring a policyholder to file a protective
+        lawsuit while appraisal is pending creates duplicative work and expense. This is true.
+        But California courts have not treated impracticality as a sufficient reason to invent
+        a new tolling category &mdash; the answer the case law actually gives is the
+        file-and-stay procedure discussed later in this article. Filing a protective complaint
+        and immediately requesting a stay is the established mechanism for avoiding the
+        duplicative proceedings.
+      </p>
+
+      <CalloutBox variant="important" title="The Bottom Line on the Pro-Tolling Arguments">
         <p>
-          California&apos;s treatment of appraisal as arbitration under the California
-          Arbitration Act makes the tolling argument stronger here than in most other states.
-          In states like Texas, Florida, and New York, appraisal is treated as a purely
-          contractual process, not as arbitration. The arbitration code&apos;s procedural
-          framework &mdash; including the policy favoring completion of arbitration proceedings
-          &mdash; is not available to support a tolling argument in those states. If you have
-          a claim outside California, the analysis may be very different.
+          These arguments are sometimes raised by policyholder-side counsel as additional
+          protection layered on top of a protective filing. As the standalone basis for missing
+          a deadline, they are weak. <strong>Do not bet a claim on equitable tolling during
+          appraisal in California.</strong> The published authority points the other way, and
+          the cost of a protective lawsuit is small compared to losing the right to sue.
         </p>
       </CalloutBox>
 
-      {/* ====== ARGUMENT AGAINST TOLLING ====== */}
+      {/* ====== WHY THE RULE COMES OUT THIS WAY ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Argument That Appraisal Does Not Toll the Statute of Limitations
+        Why the Rule Comes Out This Way: Statute, Policy, and Doctrine All Align
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        There is an equally credible argument on the other side &mdash; and this is the
-        argument that insurance companies will make when it suits them.
+        The case-law pattern in <em>Singh / Marselis / Doheny Park</em> is not an accident. It
+        reflects how California treats statutes of limitations, equitable tolling, and the
+        relationship between contractual dispute resolution and the right to sue.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        1. Appraisal Is Contractual, Not Litigation
+        Appraisal Is Not &ldquo;Suit&rdquo;
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The policy&apos;s suit limitation provision says the insured must commence suit within
-        twelve months. Appraisal is not suit. It is a contractual process for determining the
-        amount of loss &mdash; not a substitute for filing a lawsuit. The argument is that the
-        suit limitation means exactly what it says: you must file a lawsuit within the time
-        allowed, regardless of whether you have also invoked appraisal. Invoking a contractual
-        dispute resolution process does not relieve the policyholder of the obligation to
-        protect the right to sue within the contractual deadline.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Proponents of this view point out that Insurance Code &sect; 2071 contains both the appraisal
-        provision and the suit limitation provision in the same statutory policy. The
-        legislature could have included language tolling the suit limitation during appraisal
-        but did not. The absence of tolling language is meaningful &mdash; it suggests the
-        legislature intended the suit limitation to run continuously, regardless of whether
-        appraisal is pending.
+        The policy&apos;s suit-limitation provision &mdash; which comes directly from Insurance
+        Code &sect;&nbsp;2071 &mdash; requires the insured to commence suit within twelve months.
+        Appraisal is not suit. It is a statutory dispute-resolution mechanism for determining
+        the amount of loss. Invoking it does not commence an action, does not stop the
+        limitations clock by its own force, and does not relieve the insured of the obligation
+        to file a complaint within the limitations window.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        2. The Policy Does Not Expressly Toll for Appraisal
+        Insurance Code &sect; 2071 Is Silent on Tolling During Appraisal
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Most insurance policies do not contain any language stating that the suit limitation is
-        tolled during appraisal. The appraisal provision and the suit limitation provision sit
-        side by side in the same policy without any express connection between them. If the
-        drafters intended for appraisal to toll the limitations period, the argument goes, they
-        would have said so. The absence of tolling language means the clock keeps running.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This argument has additional force when the insurer did not draft the language &mdash;
-        the standard fire policy language comes from the statute, not from the insurer. Contra
-        proferentem (interpreting ambiguous policy language against the drafter) does not apply
-        to statutory language.
+        Both the appraisal provision and the suit-limitation provision are set out in the same
+        statutory standard fire policy in &sect;&nbsp;2071. The Legislature could have included
+        express language tolling the suit limitation during appraisal. It did not. California
+        courts have not treated that silence as ambiguity inviting them to read tolling in.
+        Contra proferentem does not apply &mdash; the language comes from the statute, not the
+        insurer&apos;s drafting.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        3. Equitable Tolling Is Not Guaranteed
+        Equitable Tolling Is Discretionary and Narrowly Drawn
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Equitable tolling is a discretionary doctrine. Courts apply it when the facts justify
-        it, but they are not required to apply it in every case. A court might find that
-        equitable tolling applies during the insurer&apos;s investigation of the claim
-        but <em>not</em> during appraisal, particularly if the policyholder invoked appraisal
-        late in the limitations period. The distinction matters: equitable tolling during the
-        insurer&apos;s investigation is well-established in California following{' '}
-        <em>Prudential-LMI</em>. Equitable tolling during appraisal is a related but separate
-        question with considerably less definitive authority.
+        Equitable tolling is a discretionary doctrine. Even where it has been recognized, the
+        California Supreme Court in <em>Prudential-LMI</em> defined it narrowly &mdash; from
+        notice of claim to denial &mdash; and tied that to a specific rationale (the
+        policyholder should not be penalized for time consumed by the insurer&apos;s
+        investigation). Extending the doctrine to appraisal requires expanding both the
+        endpoints and the rationale, which is exactly what <em>Marselis</em> said California
+        courts will not do.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        4. The Policyholder Has a Protective Alternative
+        The File-and-Stay Procedure Is the Built-In Answer
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Courts declining to toll often note that the policyholder has options. The
-        policyholder can file a lawsuit before the limitations period expires and then request
-        a stay of the litigation pending the outcome of appraisal. This &ldquo;file and
-        stay&rdquo; approach preserves the right to sue without disrupting the appraisal
-        process. Courts that decline tolling view this option as an adequate alternative &mdash;
-        the policyholder is not trapped, just required to take an additional step to protect
-        their rights.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The counterargument, of course, is that requiring the policyholder to hire an attorney,
-        draft a complaint, pay filing fees, and file a lawsuit &mdash; all while a contractual
-        resolution process is pending &mdash; is expensive, wasteful, and fundamentally unfair.
-        But courts on this side of the debate view it as the policyholder&apos;s responsibility.
+        California courts that have addressed the question note that the policyholder is not
+        trapped &mdash; the policyholder can file a protective lawsuit and request a stay
+        pending appraisal. That option, discussed in detail below, is the established mechanism
+        for avoiding the cost and waste of parallel proceedings while preserving the right to
+        sue. The availability of file-and-stay weakens any argument that equitable tolling is
+        necessary to avoid unfairness.
       </p>
 
-      <CalloutBox variant="important" title="The Key Takeaway From Both Sides">
+      <CalloutBox variant="important" title="The Bottom Line">
         <p>
-          Reasonable courts have reached opposite conclusions on this question. That means you
-          cannot predict with confidence how a court will rule in your case. The only safe
-          assumption is that the clock <strong>keeps running</strong> unless you have something
-          in writing that says otherwise. This is why a tolling agreement is so important.
+          California courts have consistently declined to extend equitable tolling beyond the
+          notice-to-denial window <em>Prudential-LMI</em> defined. Treat appraisal as <strong>not</strong>
+          tolling the suit limitation. Protect the deadline by filing a protective lawsuit and
+          requesting a stay pending appraisal &mdash; the procedure California courts treat as
+          the answer to this problem. Do not rely on equitable tolling as your only protection.
         </p>
       </CalloutBox>
 
-      {/* ====== CASE LAW ====== */}
+      {/* ====== ADDITIONAL CASE-LAW CONTEXT ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        California Case Law: What the Courts Have Said
+        Additional Case-Law Context: Appraisal&apos;s Limited Scope and the Arbitration Overlay
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California case law on the intersection of appraisal and the statute of limitations is
-        fragmented. There is no single, dispositive appellate decision that settles the
-        question for all cases. What follows is a summary of the key decisions that inform
-        the analysis.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        <em>Prudential-LMI Commercial Ins. v. Superior Court</em> (1990) 51 Cal.3d 674
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This is the foundational California Supreme Court case on equitable tolling of the
-        one-year suit limitation during the insurer&apos;s claim handling process. The Court
-        established that the one-year limitations period is tolled while the insurer is
-        actively investigating and adjusting the claim. The rationale: it would be
-        unconscionable for an insurer to benefit from a limitations defense when its own
-        conduct &mdash; investigating and adjusting the claim &mdash; consumed the time
-        available to the policyholder.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        While <em>Prudential-LMI</em> did not specifically address the appraisal context, its
-        principles are the foundation for the argument that appraisal should toll the clock.
-        Every court that has found tolling during appraisal relies heavily on this decision.
-        The logic is straightforward: if the insurer&apos;s investigation tolls the clock
-        because the policyholder is cooperating with the process, the same principle should
-        apply when the policyholder is cooperating with the appraisal process &mdash; which
-        is also a process the policy provides and that the insurer is participating in.
+        Several other California cases come up in this analysis, mostly because they define
+        what appraisal is and how it relates to the rest of the claim. They do not change the
+        core rule from <em>Singh / Marselis / Doheny Park</em> &mdash; appraisal does not toll
+        the suit limitation in California &mdash; but they are worth understanding because
+        attorneys evaluating these claims will reference them.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Appalachian</em> established that California insurance appraisal is subject to the
-        California Arbitration Act for procedural purposes &mdash; not that appraisal becomes
-        a general arbitration capable of deciding any issue. The classification still has
-        significant implications for the tolling question. Under the arbitration code, the
-        policyholder is participating in a binding statutory proceeding, not merely a
-        contractual valuation exercise. Requiring the policyholder to simultaneously file a
-        lawsuit to preserve the statute of limitations creates exactly the kind of parallel
-        proceedings that the arbitration code seeks to avoid.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Appalachian</em> also means that appraisal awards are subject to confirmation,
-        vacatur, and correction under CCP &sect;&sect; 1285&ndash;1288. They can be confirmed
-        by a court and become enforceable judgments. This judicial integration of the
-        appraisal process further supports the argument that participating in appraisal is
-        not fundamentally different from participating in litigation &mdash; and the clock
-        should pause accordingly.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        <em>Brehm v. 21st Century Ins. Co.</em> (2008) 166 Cal.App.4th 1225
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Brehm</em> was an underinsured-motorist arbitration case, not a property
-        appraisal case &mdash; but its reasoning carries over by analogy. The Court of
-        Appeal emphasized the <em>insurer&rsquo;s</em> implied obligation to honestly
-        assess a claim and make a reasonable effort to resolve the dispute before
-        invoking arbitration, and held that the right to demand arbitration does not
-        relieve the insurer of its duty of good faith. Policyholder-side attorneys
-        argue the same principle applies to property appraisal: the insurer cannot
-        demand good-faith appraisal participation while simultaneously letting the
-        limitations clock run out on the policyholder. If the insurer expects the
-        policyholder to participate fully in appraisal &mdash; to prepare estimates,
-        provide access, submit documentation, and cooperate with the panel &mdash; then
-        the insurer should not be permitted to take advantage of the time that process
-        consumes. Whether a court will accept that analogy on a specific record is a
-        question for an attorney.
+        <em>Appalachian</em> placed California insurance appraisal under the procedural
+        framework of the California Arbitration Act &mdash; not as a general arbitration
+        capable of deciding coverage, but as a statutory proceeding governed by CCP
+        &sect;&sect; 1280&ndash;1294.2 for purposes of enforcement, judicial review, vacatur,
+        and umpire disclosures. Appraisal awards are subject to confirmation, vacatur, and
+        correction under CCP &sect;&sect; 1285&ndash;1288. This procedural overlay is sometimes
+        invoked by policyholder-side attorneys as supporting a tolling-by-analogy argument, but
+        no published decision has used <em>Appalachian</em> to override the <em>Singh /
+        Marselis</em> limits on equitable tolling.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         <em>Safeco Ins. Co. of America v. Sharma</em> (1984) 160 Cal.App.3d 1060
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Sharma</em> is primarily known for defining the scope of appraisal &mdash;
-        establishing that appraisers determine the <em>amount</em> of loss but cannot resolve
-        coverage questions. However, <em>Sharma</em> is also relevant to the tolling question
-        because it reinforces the nature of appraisal as a limited, valuation-only proceeding.
-        If the appraisal process is narrowly limited to determining the dollar amount of loss,
-        and the policyholder&apos;s potential lawsuit involves broader issues (coverage,
-        causation, bad faith), then the two proceedings address different questions. The
-        policyholder may need the appraisal to resolve the amount before knowing whether
-        litigation is necessary &mdash; which creates a sequential dependency that supports
-        tolling the suit limitation until the appraisal is complete.
+        <em>Sharma</em> defines the scope of appraisal: appraisers determine the <em>amount</em>
+        of loss and cannot resolve coverage questions. That matters for the tolling analysis
+        only indirectly &mdash; because appraisal is narrowly limited to valuation, a
+        policyholder with broader claims (coverage disputes, causation issues, bad faith)
+        cannot rely on appraisal to substitute for litigation on those issues. The
+        right-to-sue clock still has to be preserved for the broader claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For a full discussion of the{' '}
-        <em>Sharma</em> decision and its implications for appraisal scope, see our article
-        on{' '}
+        For a full discussion of <em>Sharma</em> and the scope of appraisal generally, see
+        our article on{' '}
         <Link href="/resources/california-appraisal-case-law" className="text-[#2E74B5] underline">
           California appraisal case law
         </Link>.
@@ -437,57 +447,39 @@ export default function Content() {
         <em>Kacha v. Allstate Ins. Co.</em> (2006) 140 Cal.App.4th 1023
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Kacha</em> addressed the scope of appraisers&apos; authority, holding that
-        appraisers may not make causation determinations absent a clear and convincing
-        stipulation by both parties. The decision is relevant to the tolling question for the
-        same reason as <em>Sharma</em>: it reinforces that appraisal is a limited proceeding
-        that resolves only the dollar value of loss. If a policyholder needs the appraisal
-        award to determine whether the insurer&apos;s payment was adequate before deciding
-        whether to file suit for breach of contract or{' '}
-        <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
-          bad faith
-        </Link>
-        , the policyholder has a legitimate reason for waiting until the appraisal is resolved
-        before pursuing litigation. This sequential dependency supports the tolling argument.
+        <em>Kacha</em> reinforces <em>Sharma</em>: appraisers may not make causation
+        determinations absent a clear and convincing showing that both parties stipulated to
+        expand the appraisal&apos;s scope. The case also illustrates the practical complexity
+        of contested appraisal proceedings &mdash; the <em>Kacha</em> appraisal arose from a
+        Cedar Fire claim and required panel selection, umpire appointment, property
+        inspection, and contested estimate evaluation. The longer the appraisal takes, the
+        more important it becomes to have already filed protectively, because the limitations
+        clock is still running.
       </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        <em>Brehm v. 21st Century Ins. Co.</em> (2008) 166 Cal.App.4th 1225
+      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Kacha</em> also illustrates the practical complexity of appraisal proceedings.
-        The <em>Kacha</em> appraisal involved a contested Cedar Fire claim, required panel
-        selection, umpire appointment, property inspection, and the preparation and evaluation
-        of estimates &mdash; a process that consumed significant time. The longer the appraisal
-        takes, the more the tolling question matters.
+        <em>Brehm</em> was an underinsured-motorist arbitration case, not a property appraisal
+        case. It addressed the insurer&apos;s good-faith duties during arbitration but did not
+        decide a suit-limitation tolling question. Policyholder-side attorneys sometimes argue
+        <em>Brehm</em>&apos;s good-faith framework supports a fairness argument that appraisal
+        should toll the limitations period, but the analogy is contested and <em>Brehm</em>
+        has not been cited by any published California decision to extend tolling to appraisal.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Trial Court Decisions
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Various California trial courts have addressed the tolling question directly, reaching
-        inconsistent results. Some have granted motions to dismiss based on the expired suit
-        limitation despite pending appraisal. Others have found tolling applied, particularly
-        when the insurer was the party that invoked appraisal. Because trial court rulings are
-        not published, they do not create binding precedent &mdash; but they demonstrate the
-        uncertainty practitioners face.
+        Trial courts have addressed the tolling question in individual cases, and outcomes
+        have varied with the facts. Because trial-court rulings are not published, they do
+        not create binding precedent. The reliable guidance comes from the published Court of
+        Appeal authority &mdash; which, as discussed above, has been consistent in declining
+        to extend <em>Prudential-LMI</em>&apos;s tolling rule beyond the notice-to-denial
+        window.
       </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Experienced insurance litigation attorneys report seeing trial courts go both ways on
-        this issue within the same courthouse. The outcome often depends on the specific facts:
-        who invoked appraisal, how much time remained on the limitations period when appraisal
-        was invoked, whether the carrier made any representations about the deadline, and
-        whether the policyholder was represented by counsel.
-      </p>
-
-      <CalloutBox variant="info" title="Why No Definitive Appellate Ruling?">
-        <p>
-          One reason the tolling question remains unsettled is that the cases most likely to
-          produce definitive appellate authority are exactly the cases that settle. When a
-          carrier has a strong statute-of-limitations defense and the policyholder has a
-          strong equitable tolling argument, both sides have an incentive to negotiate a
-          settlement rather than risk an appellate ruling that could go against them. The
-          result is that the question keeps coming up at the trial level without producing
-          published appellate opinions that definitively resolve it.
-        </p>
-      </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         For a deeper discussion of how equitable tolling works in the insurance context
@@ -546,80 +538,119 @@ export default function Content() {
 
       {/* ====== EQUITABLE TOLLING VS. APPRAISAL TOLLING ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Equitable Tolling vs. Appraisal Tolling: Related but Distinct
+        Equitable Tolling, Appraisal Tolling, and Contractual Tolling: Three Different Things
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The appraisal tolling question is part of the broader framework of{' '}
+        The broader framework of{' '}
         <Link href="/resources/equitable-tolling" className="text-[#2E74B5] underline">
           equitable tolling in California insurance claims
-        </Link>
-        , but they are related but distinct concepts.
+        </Link>{' '}
+        has three distinct pieces. Conflating them is how policyholders lose deadlines.
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Equitable tolling during investigation</strong> is well-established under{' '}
-          <em>Prudential-LMI</em>. The clock is paused while the insurer is actively
-          investigating and adjusting the claim. This principle is broadly accepted by
-          California courts and is applied routinely.
+          <strong>Equitable tolling during the insurer&apos;s investigation</strong> is the
+          rule from <em>Prudential-LMI</em>. The clock is tolled from timely notice of claim to
+          the insurer&apos;s formal written denial. This much is well-established and applied
+          routinely &mdash; but it has clear endpoints.
         </li>
         <li>
-          <strong>Tolling during appraisal</strong> is an extension of equitable tolling
-          principles to a specific contractual dispute resolution process. It is supported by
-          the same logic &mdash; the policyholder should not be penalized for participating in
-          a process the policy provides &mdash; but it has less definitive appellate authority.
-          A court could accept equitable tolling during the insurer&apos;s investigation but
-          decline to apply it during appraisal, particularly if the policyholder had time to
-          file suit before invoking appraisal.
+          <strong>&ldquo;Tolling during appraisal&rdquo;</strong> is not an established
+          California rule. Published Court of Appeal authority has gone the other way &mdash;
+          <em>Singh</em>, <em>Marselis</em>, and <em>Doheny Park Terrace</em> all declined to
+          extend <em>Prudential-LMI</em>&apos;s tolling beyond its notice-to-denial window.
+          Treating appraisal as tolling is a litigation argument with weak support, not a
+          rule an insured can plan around.
         </li>
         <li>
-          <strong>Contractual tolling</strong> is different from both. A written tolling
-          agreement is a contract between the parties that expressly pauses the limitations
-          period. It does not depend on judicial discretion or equitable principles &mdash; it
-          is enforceable as a matter of contract law. This is why a tolling agreement is the
-          gold standard.
+          <strong>Contractual tolling</strong> &mdash; a written tolling agreement signed by
+          the carrier &mdash; is different from both. It pauses the limitations period by
+          contract, not by judicial discretion. Where the carrier will sign one, it solves the
+          problem. But many carriers will refuse, so an insured cannot rely on getting one.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The practical lesson is that equitable tolling during the insurer&apos;s investigation
-        gives policyholders more time than the raw twelve-month calculation suggests, but that
-        additional time is not guaranteed to extend through appraisal. The gap between
-        &ldquo;well-established tolling during investigation&rdquo; and &ldquo;less certain
-        tolling during appraisal&rdquo; is precisely where policyholders are at risk. A tolling
-        agreement closes that gap.
+        The practical takeaway: <em>Prudential-LMI</em> tolling during the insurer&apos;s
+        investigation gives more time than the raw twelve months suggests, but that extra time
+        ends at the formal written denial. Nothing in current California law guarantees more
+        tolling after that. The protective move is to file a complaint and request a stay
+        &mdash; the procedure California courts treat as the answer.
       </p>
 
-      {/* ====== TOLLING AGREEMENT ====== */}
+      {/* ====== FILE AND STAY (PRIMARY RECOMMENDATION) ====== */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Safe Course: Get a Written Tolling Agreement
+        The Primary Protection: File a Protective Lawsuit and Request a Stay
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Given the uncertainty in the law, the safest course of action is clear:{' '}
-        <strong>
-          assume the suit limitation does not toll during appraisal unless you have a written
-          tolling agreement from the carrier
-        </strong>. A tolling agreement removes the uncertainty entirely. It is a written
-        contract in which the insurer agrees to pause the limitations clock for a specified
-        period &mdash; typically for the duration of the appraisal process plus a reasonable
-        period afterward to evaluate the award and decide whether to file suit.
+        Because California courts have not extended equitable tolling to appraisal, the
+        established protective measure is to file a complaint before the limitations period
+        expires and ask the court to stay the case pending the outcome of appraisal. Many
+        experienced insurance litigators do this as a matter of course whenever appraisal is
+        pending and the suit-limitation deadline is approaching &mdash; they do not wait for a
+        tolling agreement and they do not rely on equitable tolling.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A tolling agreement benefits both sides. The policyholder preserves the right to sue
-        without incurring the expense of filing a protective lawsuit. The insurer gets the
-        opportunity to resolve the dispute through appraisal without the pressure of active
-        litigation. Most carriers will agree to a tolling agreement when asked, because the
-        alternative &mdash; the policyholder filing a lawsuit just to preserve the deadline &mdash;
-        is worse for everyone.
+        The mechanics are straightforward. Counsel files a complaint alleging breach of the
+        insurance contract (and potentially bad faith, depending on the facts). At the same
+        time &mdash; often in the same filing &mdash; counsel requests that the court stay all
+        proceedings pending completion of the appraisal. Courts routinely grant these stays.
+        The appraisal was invoked under the policy, both parties are participating, and there
+        is no reason to proceed with litigation discovery until the panel has determined the
+        amount of loss. The lawsuit does not need to advance to discovery, depositions, or
+        trial while appraisal is pending &mdash; the court puts everything on hold.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Once the appraisal award is issued, the parties evaluate whether the lawsuit needs to
+        continue. If the appraisal award resolves the dispute, the case can be dismissed. If
+        issues remain &mdash; coverage disputes, bad-faith claims, disputes over the appraisal
+        process itself &mdash; the lawsuit is already filed and the stay can be lifted. The
+        cost of filing a protective complaint is trivial compared to losing the right to sue
+        entirely.
+      </p>
+
+      <CalloutBox variant="tip" title="File and Stay Is the Default for Experienced Counsel">
+        <p>
+          Many California insurance litigators file a protective lawsuit as a matter of course
+          whenever appraisal is invoked and the suit limitation is within a year of expiring.
+          They do not wait to see if the carrier will agree to a tolling agreement. They do not
+          rely on equitable tolling. They file the complaint, request the stay, and then focus
+          on the appraisal. This eliminates the tolling question entirely and costs relatively
+          little. If an attorney handling an insured&apos;s claim is <em>not</em> doing this
+          and is instead relying on equitable tolling or a verbal understanding with the
+          carrier, that is a question worth raising with the attorney directly.
+        </p>
+      </CalloutBox>
+
+      {/* ====== TOLLING AGREEMENT (SECONDARY PROTECTION) ====== */}
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Supplemental Protection: A Written Tolling Agreement
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A written tolling agreement from the carrier is a useful supplement to a protective
+        filing &mdash; not a substitute for it. A tolling agreement is a contract in which the
+        insurer agrees in writing to pause the limitations clock for a specified period
+        (typically through the appraisal process plus a reasonable window afterward, often
+        ninety days, to evaluate the award and decide whether to push forward with
+        litigation).
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Where the carrier will sign one, a tolling agreement removes the deadline pressure on
+        the appraisal without requiring an immediate complaint. Some carriers will sign;
+        others have blanket policies against signing them. An insured cannot count on getting
+        a tolling agreement, which is why the protective lawsuit is the primary protection
+        and the tolling agreement is the supplement.
       </p>
 
       <CalloutBox variant="tip" title="When to Request a Tolling Agreement">
         <p>
           Request the tolling agreement <strong>before or at the time appraisal is
-          invoked</strong>. Do not wait until the process is underway or until the limitations
-          period is almost up. If you are the one invoking appraisal, include the tolling
-          agreement request in your appraisal demand letter. If the insurer invokes appraisal,
-          respond with your appraiser selection and a request for a tolling agreement in the
-          same communication. Making it part of the initial correspondence signals that you are
-          organized, informed, and protecting your rights from day one.
+          invoked</strong>. If the insured is the party invoking appraisal, include the
+          request in the appraisal demand letter. If the insurer invokes appraisal, respond
+          with the appraiser selection and a tolling-agreement request in the same
+          communication. Making it part of the initial correspondence signals that the
+          insured is organized, informed, and protecting rights from day one &mdash; and
+          starts the clock on the carrier&apos;s response so the insured can decide whether
+          to file a protective complaint instead.
         </p>
       </CalloutBox>
 
@@ -645,7 +676,7 @@ export default function Content() {
         <li>
           Propose specific terms: the limitations period is tolled from the date of the
           appraisal demand through a specified number of days after the appraisal award is
-          issued (90 days is common and reasonable).
+          issued (ninety days is common and reasonable).
         </li>
         <li>
           Request that the tolling agreement be signed by someone with binding authority
@@ -657,7 +688,7 @@ export default function Content() {
         Keep the request matter-of-fact. You are not accusing the carrier of anything. You are
         proposing a reasonable administrative arrangement that allows both sides to focus on
         appraisal without the policyholder being forced to file a protective lawsuit. Frame it
-        as mutually beneficial &mdash; because it is.
+        as mutually beneficial.
       </p>
 
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
@@ -675,91 +706,20 @@ export default function Content() {
         </p>
         <p className="text-gray-700 text-sm leading-relaxed italic">
           Note: This is sample language for general reference only. Consult an attorney to
-          draft or review any tolling agreement specific to your claim.
+          draft or review any tolling agreement specific to a claim.
         </p>
       </div>
 
-      {/* ====== CARRIER REFUSES ====== */}
-      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What If the Carrier Refuses?
-      </h2>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Most carriers will agree to a tolling agreement because the alternative is worse for
-        them. But some carriers will refuse &mdash; either because their legal department has
-        a blanket policy against tolling agreements, or because they are tactically counting on
-        the limitations period to run out.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        If the carrier refuses, you have two practical options:
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Option 1: File a Protective Lawsuit and Stay Pending Appraisal
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This is the approach many experienced insurance attorneys recommend as the default
-        protective measure, regardless of whether a tolling agreement is available. File a
-        lawsuit before the limitations period expires, then ask the court to stay the case
-        pending completion of the appraisal.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The mechanics are straightforward. The attorney files a complaint alleging breach of
-        the insurance contract (and potentially bad faith, depending on the facts). At the
-        same time &mdash; often in the same filing &mdash; the attorney requests that the court
-        stay all proceedings pending the outcome of the appraisal. Courts routinely grant
-        these stays. The appraisal was invoked pursuant to the policy, both parties are
-        participating, and there is no reason to proceed with litigation discovery until the
-        appraisal panel has determined the amount of loss. The lawsuit does not need to proceed
-        to discovery, depositions, or trial while appraisal is pending &mdash; the court puts
-        everything on hold.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Once the appraisal award is issued, the parties evaluate whether the lawsuit needs to
-        continue. If the appraisal award resolves the dispute, the case can be dismissed. If
-        issues remain &mdash; coverage disputes, bad faith claims, disputes over the
-        appraisal process itself &mdash; the lawsuit is already filed and the stay can be
-        lifted. The cost of filing is trivial compared to losing the right to sue entirely.
-      </p>
-
-      <CalloutBox variant="tip" title="File and Stay Is Standard Practice">
+      <CalloutBox variant="warning" title="If the Carrier Refuses, File Promptly">
         <p>
-          Many insurance litigation attorneys file a protective lawsuit as a matter of course
-          whenever appraisal is invoked and the suit limitation is within a year of expiring.
-          They do not wait to see if the carrier will agree to a tolling agreement. They do not
-          rely on equitable tolling. They file the complaint, request the stay, and then focus
-          on the appraisal. This eliminates the tolling question entirely and costs relatively
-          little.
-        </p>
-      </CalloutBox>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Option 2: Document the Refusal and Rely on Equitable Tolling
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        If filing suit is not practical for financial or strategic reasons, the fallback is to
-        document the carrier&apos;s refusal and rely on equitable tolling. The carrier&apos;s
-        refusal to toll while simultaneously participating in appraisal strengthens the
-        equitable tolling argument. A court evaluating whether to apply equitable tolling may
-        consider the carrier&apos;s refusal as evidence that the carrier was counting on the
-        limitations period to run out while the policyholder was diverted by the appraisal
-        process.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        However, this is the riskier option. Equitable tolling is discretionary, fact-specific,
-        and may itself need to be litigated. If the court declines to apply tolling, the
-        policyholder&apos;s claim is time-barred &mdash; permanently.
-      </p>
-
-      <CalloutBox variant="warning" title="Do Not Gamble With Your Deadline">
-        <p>
-          If the carrier refuses a tolling agreement and your suit limitation period is within
-          a few months of expiring, file a protective lawsuit. Do not rely on equitable tolling
-          alone. The cost of filing suit is a fraction of the cost of losing your right to sue.
-          Consult an{' '}
+          Most carriers will refuse or simply not respond within the time the insured has to
+          spare. If a signed tolling agreement is not in hand and the deadline is approaching,
+          do not wait. File the protective complaint and request a stay. The cost of filing is
+          a fraction of the cost of losing the right to sue. Consult an{' '}
           <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] underline">
             attorney experienced in insurance litigation
           </Link>{' '}
-          to file the complaint and request a stay.
+          to file the complaint and request the stay.
         </p>
       </CalloutBox>
 
@@ -802,51 +762,54 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Calculate your suit limitation deadline.</strong> Start with the date of loss
-          and count forward twelve months. Then apply any equitable tolling for the
-          insurer&apos;s investigation period. If you are unsure how to calculate the tolled
-          period, consult an attorney. The calculation is not always straightforward &mdash;
-          gaps in the insurer&apos;s investigation may affect the tolled period.
+          <strong>Calculate the suit-limitation deadline.</strong> Start with the date of loss
+          and count forward twelve months &mdash; or twenty-four months if the loss is related
+          to a Governor-declared state of emergency under &sect;&nbsp;2071. Then apply
+          <em>Prudential-LMI</em> tolling for the period from timely notice of claim to formal
+          written denial. The calculation is not always straightforward; consult an attorney
+          for the specific tolled deadline.
         </li>
         <li>
-          <strong>Request a written tolling agreement immediately.</strong> Include the request
-          in your appraisal demand letter or in your response to the insurer&apos;s demand. Do
-          not wait.
+          <strong>Plan to file a protective lawsuit before the deadline.</strong> Consult an
+          attorney well in advance &mdash; not in the final weeks. The attorney can file a
+          complaint and request a stay pending appraisal. This is the protection California
+          case law actually supports.
         </li>
         <li>
-          <strong>Follow up in writing if the carrier does not respond.</strong> If you do not
-          receive a signed tolling agreement within 15 days, follow up. Document every request
-          and every non-response.
+          <strong>Also request a written tolling agreement.</strong> A signed tolling agreement
+          is useful supplemental protection where the carrier will sign one. Request it in
+          writing at the time appraisal is invoked. But do not wait for it &mdash; if it does
+          not come, file the protective complaint.
         </li>
         <li>
-          <strong>If the carrier refuses, consult an attorney about filing a protective
-          lawsuit.</strong> Do this well before the limitations period expires &mdash; not in
-          the final weeks. An attorney can file a complaint and request a stay pending
-          appraisal.
+          <strong>Document every request and non-response.</strong> If the carrier refuses or
+          ignores a tolling-agreement request, preserve the documentation. It may be relevant
+          to bad-faith analysis later.
         </li>
         <li>
-          <strong>Do not assume equitable tolling will save you.</strong> It might. It might
-          not. The only guarantee is a written agreement or a filed lawsuit.
+          <strong>Do not rely on equitable tolling to extend through appraisal.</strong> The
+          published California authority is against extending <em>Prudential-LMI</em> tolling
+          beyond the notice-to-denial window. A protective filing is the reliable protection.
         </li>
         <li>
-          <strong>Keep a detailed timeline.</strong> Document the date of loss, the date the
-          claim was filed, the date of the appraisal demand, every communication about the
-          tolling agreement, and every step in the appraisal process. This timeline is the
-          evidence a court will evaluate if the tolling question is ever litigated.
+          <strong>Keep a detailed timeline.</strong> Date of loss, claim filing, denial,
+          appraisal demand, every communication about tolling, every step in the appraisal
+          process. The timeline matters both for calculating the deadline and as evidence in
+          any later litigation.
         </li>
         <li>
-          <strong>If you are represented by a Public Adjuster, make sure they understand
-          the deadline issue.</strong> A Public Adjuster cannot provide legal advice about
-          statutes of limitations, but they should be aware of the issue and recommend that
-          you consult an attorney if the deadline is approaching. If your Public Adjuster
-          invokes appraisal without addressing the tolling question, ask them about it.
+          <strong>If a Public Adjuster is handling the claim, raise the deadline issue
+          directly.</strong> A Public Adjuster cannot provide legal advice about statutes of
+          limitations but should be aware of the issue and able to refer to an attorney if the
+          deadline is approaching. If a Public Adjuster invokes appraisal without addressing
+          the tolling question, ask about it.
         </li>
         <li>
-          <strong>If you are represented by an attorney, confirm that they are tracking
-          the deadline.</strong> Experienced insurance attorneys handle the tolling question
-          as a matter of course. But if you retained an attorney after appraisal was already
-          underway, make sure they are aware of when the limitations period expires and
-          whether any tolling agreement is in place.
+          <strong>If an attorney is handling the claim, confirm the deadline plan.</strong>
+          Experienced insurance attorneys handle the protective-filing question as a matter
+          of course. If an attorney was retained after appraisal was already underway, confirm
+          they are tracking the limitations deadline and have a plan for the protective
+          complaint.
         </li>
       </ul>
 
@@ -866,14 +829,19 @@ export default function Content() {
           arguably ends here &mdash; equitable tolling may stop.
         </p>
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
-          <strong>July 1:</strong> You invoke appraisal. Does the clock pause again? Maybe.
-          Maybe not. This is the unsettled question.
+          <strong>July 1:</strong> You invoke appraisal. Under the published California
+          authority discussed above, the clock does <em>not</em> pause again &mdash; appraisal
+          is not within the <em>Prudential-LMI</em> tolling window, and <em>Singh</em>,
+          <em> Marselis</em>, and <em>Doheny Park</em> have declined to extend tolling further.
+          Plan as if the clock is running.
         </p>
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
           <strong>October 15:</strong> The appraisal panel has been selected and is scheduling
           the inspection. Meanwhile, the raw twelve-month deadline (January 10 of the following
-          year) is approaching. If equitable tolling stopped on June 1 and did not resume for
-          appraisal, you may have less time than you think.
+          year) is approaching. Because tolling stopped on June 1 and did not resume for
+          appraisal, the remaining time is roughly the difference between January 10 and the
+          calendar &mdash; not whatever the appraisal-completion date turns out to be. This is
+          when a protective complaint should already be filed or in preparation.
         </p>
         <p className="text-gray-700 text-sm leading-relaxed italic">
           This example is simplified. The exact tolling calculation depends on the specific
@@ -887,47 +855,55 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          Whether invoking appraisal tolls the one-year suit limitation in California is an
-          unsettled legal question. The California Supreme Court has not ruled on it directly,
-          and lower courts have reached inconsistent results.
+          <strong>The working rule in California is that invoking appraisal does not toll the
+          one-year suit limitation.</strong> The California Supreme Court has not issued a
+          decision squarely on point, but the published Court of Appeal authority
+          (<em>Singh</em>, <em>Marselis</em>, <em>Doheny Park</em>) has consistently declined
+          to extend <em>Prudential-LMI</em>&apos;s tolling rule beyond the notice-to-denial
+          window. Experienced California insurance litigators operate under the rule that
+          appraisal does not toll.
         </li>
         <li>
-          The argument for tolling rests on <em>Prudential-LMI</em> equitable tolling
-          principles, the <em>Appalachian</em> doctrine placing appraisal under the
-          procedural framework of the California Arbitration Act, the insurer&apos;s active
-          participation in the appraisal process, and the impracticality of requiring
-          simultaneous litigation and appraisal.
+          <em>Prudential-LMI</em> tolls the suit limitation from timely notice of claim to
+          formal written denial. That window is well-established. Anything beyond it &mdash;
+          tolling for reconsideration requests, tolling for settlement disputes, tolling for
+          appraisal &mdash; has been rejected by published California authority.
         </li>
         <li>
-          The argument against tolling rests on the plain language of Insurance Code &sect; 2071, the
-          absence of express tolling provisions in either the statute or the policy, the
-          discretionary nature of equitable tolling, and the availability of the &ldquo;file
-          and stay&rdquo; alternative.
+          For losses related to a Governor-declared state of emergency under Gov. Code
+          &sect;&nbsp;8558(b), Ins. Code &sect;&nbsp;2071 extends the suit-limitation period
+          from twelve months to twenty-four months. Confirm whether the longer clock applies
+          before any deadline calculation.
         </li>
         <li>
-          The safest course is always to get a written tolling agreement from the carrier
-          before or at the start of appraisal. Most carriers will agree when asked.
+          <strong>The primary protection is to file a protective lawsuit before the deadline
+          and request a stay pending appraisal.</strong> This is standard practice among
+          experienced insurance litigators. It eliminates the tolling question entirely and
+          costs relatively little compared to losing the right to sue.
         </li>
         <li>
-          If the carrier refuses a tolling agreement and the limitations period is approaching,
-          file a protective lawsuit and request a stay pending appraisal. This is standard
-          practice among experienced insurance litigation attorneys.
+          A written tolling agreement signed by the carrier is useful supplemental protection
+          where available. Request it at the time appraisal is invoked. But many carriers
+          will refuse or not respond, so do not rely on getting one &mdash; file the
+          protective complaint if the agreement does not come.
+        </li>
+        <li>
+          The policyholder-side arguments for tolling during appraisal &mdash; analogy to
+          <em>Prudential-LMI</em>, implied waiver from insurer participation, the
+          <em>Appalachian</em> arbitration-overlay framework, the impracticality of parallel
+          proceedings &mdash; are not frivolous, but no published California decision has
+          adopted them. They are litigation positions, not deadline planning.
         </li>
         <li>
           A carrier&apos;s refusal to enter into a tolling agreement while participating in
-          appraisal may itself be evidence of unreasonable claims handling under the Fair
-          Claims Settlement Practices Regulations.
+          appraisal does not change the deadline analysis &mdash; the protective filing is
+          still the answer &mdash; but the refusal may be relevant to a later bad-faith
+          analysis.
         </li>
         <li>
-          Other states may analyze this question differently. California&apos;s classification
-          of appraisal as arbitration makes the tolling argument stronger here than in most
-          other jurisdictions.
-        </li>
-        <li>
-          Equitable tolling during the insurer&apos;s investigation (well-established) and
-          equitable tolling during appraisal (less certain) are related but distinct questions.
-          Do not assume that tolling during investigation automatically extends through
-          appraisal.
+          Other states analyze this differently. California&apos;s case law pattern is
+          consistent in declining to extend tolling, but if the claim is in another state,
+          consult counsel familiar with that state&apos;s rules.
         </li>
       </ul>
 
