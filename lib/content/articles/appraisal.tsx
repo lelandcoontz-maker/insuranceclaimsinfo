@@ -531,7 +531,7 @@ export default function Content() {
         <em>Lee v. California Capital Ins. Co.</em> (2015) 237 Cal.App.4th 1154, 1166 (citing{' '}
         <em>Jefferson</em>): &ldquo;The function of appraisers is to determine the amount of
         damage resulting to various items submitted for their consideration. It is certainly
-        not their function to resolve questions of coverage and interpret provisions in the
+        not their function to resolve questions of coverage and interpret provisions of the
         policy.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
