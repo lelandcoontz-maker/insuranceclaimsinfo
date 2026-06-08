@@ -389,13 +389,19 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Defense counsel routinely cite cases like <em>Rappaport-Scott v. Interinsurance
-        Exchange of the Automobile Club</em> (2007) 146 Cal.App.4th 831, which held that
-        &ldquo;if there is a genuine issue as to the insurer&rsquo;s liability under the policy
-        for the claim asserted by the insured, there can be no bad-faith liability imposed on
-        the insurer for advancing its side of that dispute.&rdquo; The full force of that
-        holding depends on the qualifiers California cases consistently recite: the dispute
-        must be genuine, the investigation must be thorough, and the insurer&rsquo;s position
-        must be objectively reasonable in light of all available evidence.
+        Exchange of the Automobile Club</em> (2007) 146 Cal.App.4th 831, where the Court of
+        Appeal upheld a summary disposition for the insurer in an underinsured motorist (UIM)
+        bad-faith case based on the genuine dispute doctrine. The court&apos;s
+        attention-getting holding looked at the disparity between the insured&apos;s claimed
+        losses ($346,732.34) and the arbitrator&apos;s award ($63,000), concluding that the
+        gap &mdash; standing alone &mdash; demonstrated as a matter of law that a
+        &ldquo;genuine dispute&rdquo; existed as to the amount payable on the claim. Defense
+        counsel often cite that holding for the broader proposition that no bad-faith
+        liability attaches when an insurer is advancing its side of a genuine valuation
+        dispute. The full force of any such proposition depends on the qualifiers California
+        cases consistently recite: the dispute must be genuine, the investigation must be
+        thorough, and the insurer&rsquo;s position must be objectively reasonable in light of
+        all available evidence.
       </p>
 
       {/* ── When It Doesn't Work ────────────────────────────────── */}
@@ -415,14 +421,16 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the most important limitation. An insurer cannot create a &ldquo;genuine dispute&rdquo;
         by failing to investigate the claim. In <em>Egan v. Mutual of Omaha Insurance Co.</em>{' '}
-        (1979) 24 Cal.3d 809, the California Supreme Court held that it is &ldquo;essential that
-        an insurer fully inquire into possible bases that might support the insured&rsquo;s claim
-        before denying it.&rdquo; This duty to investigate exists independently of the outcome
-        on coverage &mdash; an inadequate investigation can support bad-faith liability where
-        the investigation failure caused the claim to be wrongly denied, delayed, or underpaid.
-        The bad-faith claim still requires the insured to show causation and resulting harm
-        from the inadequate investigation; investigation flaws alone, without resulting harm,
-        do not automatically create tort liability.
+        (1979) 24 Cal.3d 809 at 819, the California Supreme Court held that &ldquo;it is essential
+        that an insurer fully inquire into possible bases that might support the insured&rsquo;s
+        claim,&rdquo; and that &ldquo;an insurer cannot reasonably and in good faith deny payments
+        to its insured without thoroughly investigating the foundation for its denial.&rdquo; This
+        duty to investigate exists independently of the outcome on coverage &mdash; an inadequate
+        investigation can support bad-faith liability where the investigation failure caused the
+        claim to be wrongly denied, delayed, or underpaid. The bad-faith claim still requires the
+        insured to show causation and resulting harm from the inadequate investigation;
+        investigation flaws alone, without resulting harm, do not automatically create tort
+        liability.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Wilson</em> reinforced this with unmistakable clarity: &ldquo;The genuine dispute rule
