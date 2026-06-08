@@ -172,10 +172,28 @@ export default function Content() {
         Interpreting Ambiguity Against the Insurer
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 1649, incorporating Civil Code &sect; 1654, requires that ambiguous policy language be interpreted against the party that drafted it &mdash; which is always the insurer. If the definition of &ldquo;collapse&rdquo; in your policy is ambiguous, or if the policy does not define the term at all, California courts will construe that ambiguity in favor of coverage. This is a bedrock principle of California insurance law, and it applies with full force in collapse disputes.
+        California Civil Code &sect;&sect; 1649 and 1654 supply the contract-interpretation
+        rules that California courts apply to insurance policies. Section 1649 requires that
+        ambiguous terms be interpreted in the sense the drafter believed the other party
+        understood them at the time of formation, while &sect; 1654 provides that ambiguity is
+        construed against the party who caused the uncertainty &mdash; in an insurance
+        contract, the insurer. The California Supreme Court applied these rules to insurance
+        contracts in <em>AIU Insurance Co. v. Superior Court</em> (1990) 51 Cal.3d 807, 822,
+        and reaffirmed the framework in <em>MacKinnon v. Truck Insurance Exchange</em> (2003)
+        31 Cal.4th 635 and subsequent decisions, holding that ambiguous insurance-policy
+        language is construed against the insurer to protect the objectively reasonable
+        expectations of the insured. If the definition of &ldquo;collapse&rdquo; in your
+        policy is ambiguous, or if the policy does not define the term at all, California
+        courts will construe that ambiguity in favor of coverage. This is a bedrock principle
+        of California insurance law, and it applies with full force in collapse disputes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The argument is straightforward: the word &ldquo;collapse&rdquo; has multiple reasonable meanings. A layperson would reasonably understand &ldquo;collapse&rdquo; to include a structure that is so severely compromised that it is unsafe and unusable, even if it has not yet physically fallen. If the carrier wanted to limit coverage to only literal falling down, it had the ability to write clearer language. Its failure to do so creates an ambiguity that is resolved in favor of the policyholder.
+        The argument is straightforward: the word &ldquo;collapse&rdquo; has multiple
+        reasonable meanings. A layperson would reasonably understand &ldquo;collapse&rdquo; to
+        include a structure that is so severely compromised that it is unsafe and unusable,
+        even if it has not yet physically fallen. If the carrier wanted to limit coverage to
+        only literal falling down, it had the ability to write clearer language. Its failure
+        to do so creates an ambiguity that is resolved in favor of the policyholder.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
