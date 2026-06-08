@@ -89,7 +89,7 @@ export default function Content() {
         The California Supreme Court rejected the denial. It held that the efficient proximate cause of the loss was the ruptured sewer line attributable to the builder&rsquo;s negligence &mdash; a covered peril &mdash; not the settling. The Court stated the governing rule:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;[I]n determining whether a loss is within an exception in a policy, where there is a concurrence of different causes, the efficient cause &mdash; the one that sets others in motion &mdash; is the cause to which the loss is attributed, though the other causes may follow it, and operate more immediately in producing the disaster.&rdquo;
+        &ldquo;[I]n determining whether a loss is within an exception in a policy, where there is a concurrence of different causes, the efficient cause &mdash; the one that sets others in motion &mdash; is the cause to which the loss is to be attributed, though the other causes may follow it, and operate more immediately in producing the disaster.&rdquo; (Sabella v. Wisler, 59 Cal.2d at 31&ndash;32, quoting 6 Couch, Insurance (1930) &sect;&nbsp;1466.)
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         Notice how closely these facts mirror our case study above: third-party negligence destroys part of a home&rsquo;s plumbing and drainage infrastructure, water accumulates (aggravated by rain), and the home is damaged. The insurer blames the water or settling instead of the negligence that started the chain. <em>Sabella</em> says the negligence is what matters.
