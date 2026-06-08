@@ -58,9 +58,11 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Most California homeowners policies contain a one-year suit limitation derived from
-        California Insurance Code &sect; 2071. Some policies provide two years (and losses
-        related to a declared state of emergency automatically get 24 months under the
-        current version of &sect; 2071). Either way, equitable tolling applies the same way:
+        California Insurance Code &sect; 2071. Some policies provide two years, and residential
+        losses related to a state of emergency declared under Government Code &sect; 8558(b)
+        get 24 months under the current version of &sect; 2071 (the extension applies to
+        policies covering loss or damage to residential property, not to all losses). Either
+        way, equitable tolling applies the same way:
         the clock is <strong>paused</strong> during the insurer&rsquo;s active investigation
         and <strong>resumes</strong> when the insurer formally denies the claim in writing.
         The remaining time &mdash; however much was left when tolling began &mdash; is what
@@ -466,10 +468,12 @@ export default function Content() {
         While the standard California fire policy under Insurance Code &sect; 2071 provides a
         one-year suit limitation, many homeowners policies actually provide <strong>two years
         </strong> from the date of loss. This is common in broader-form HO-3 and HO-5 policies.
-        Also, under the current version of &sect; 2071, any loss related to a
-        &ldquo;state of emergency&rdquo; as defined in Government Code &sect; 8558(b) &mdash;
-        which includes conditions of disaster or extreme peril caused by fire &mdash;
-        automatically receives a 24-month limitation period.
+        Also, under the current version of &sect; 2071, a <strong>residential</strong> loss
+        related to a &ldquo;state of emergency&rdquo; as defined in Government Code
+        &sect; 8558(b) &mdash; which includes conditions of disaster or extreme peril caused
+        by fire &mdash; automatically receives a 24-month limitation period. The 24-month
+        extension is built into &sect; 2071 itself and applies to policies covering loss or
+        damage to residential property; it is not a generic rule for all losses.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The important point is that <strong>equitable tolling applies regardless of the
@@ -622,9 +626,9 @@ export default function Content() {
         </li>
         <li>
           <strong>Check whether your policy gives one year or two.</strong> Many
-          policies provide two years, and state-of-emergency losses get 24 months under
-          Insurance Code &sect; 2071. More time is better, but equitable tolling still
-          applies either way.
+          policies provide two years, and <strong>residential</strong> losses related to a
+          declared state of emergency get 24 months under the current Insurance Code
+          &sect; 2071. More time is better, but equitable tolling still applies either way.
         </li>
       </ul>
 
