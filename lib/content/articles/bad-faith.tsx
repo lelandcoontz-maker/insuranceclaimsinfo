@@ -367,13 +367,15 @@ export default function Content() {
           was unlikely to appeal and was in the process of updating its policy language.
         </li>
         <li>
-          <strong>Regulatory:</strong> The California Department of Insurance has publicly
-          taken the position that the FAIR Plan&rsquo;s &ldquo;permanent damage&rdquo;
-          smoke-restriction language does not comply with California law, and the FAIR Plan
-          has indicated it is in the process of revising the language. The specific
-          regulatory actions and any formal CDI directive or enforcement order should be
-          confirmed against current CDI publications before relied on in litigation; the
-          article is not citing a specific docket here.
+          <strong>Regulatory:</strong> In <strong>March 2025</strong>, the California Department
+          of Insurance issued Bulletin 2025-7 directing all insurers (including the FAIR Plan)
+          to properly investigate and pay legitimate smoke-damage claims. In <strong>May 2025</strong>,
+          Commissioner Lara sent a formal legal directive deeming the FAIR Plan&rsquo;s
+          &ldquo;permanent damage&rdquo; policy language unlawful and unenforceable. On{' '}
+          <strong>July 31, 2025</strong>, the Department filed an Order to Show Cause and proposed
+          cease-and-desist order with potential penalties of up to $10,000 per violation against
+          the FAIR Plan based on its systematic application of the restrictive language to deny
+          and limit smoke-damage claims (CDI Press Release No. 054-2025).
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">

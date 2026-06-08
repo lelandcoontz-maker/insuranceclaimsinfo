@@ -127,16 +127,23 @@ export default function Content() {
         loss&rdquo; under California law.
       </p>
 
-      <CalloutBox variant="warning" title="The Precedent Problem">
+      <CalloutBox variant="warning" title="The Precedent Problem &mdash; And Where the Regulator Has Stepped In">
         <p>
           The <em>Aliff</em> ruling was issued by a Superior Court judge. It is not published
           appellate authority, which means it does not create binding precedent for other courts.
-          Other homeowners with the same FAIR Plan policy and the same smoke damage issues may have
-          to sue and relitigate the same arguments. The FAIR Plan has indicated it has been working
-          with the California Department of Insurance to update its policy language. With FAIR
-          Plan enrollment having grown substantially in recent years as admitted carriers have
-          withdrawn from high-wildfire-exposure zones, the number of policyholders potentially
-          affected by the same restrictive language is large.
+          Other homeowners with the same FAIR Plan policy and the same smoke-damage issues may
+          have to sue and relitigate the same arguments. The California Department of Insurance,
+          however, has stepped in independently: in <strong>May 2025</strong> Commissioner Lara
+          sent a formal legal directive deeming the FAIR Plan&apos;s &ldquo;permanent damage&rdquo;
+          smoke-restriction language unlawful and unenforceable, and on <strong>July 31, 2025</strong>
+          the Department filed an Order to Show Cause and proposed cease-and-desist order, with
+          potential penalties of up to $10,000 per violation. The Department&apos;s underlying
+          market-conduct examination of FAIR Plan claim handling from January 2017 through March
+          2021 had documented <strong>418 violations</strong> of California consumer-protection
+          law (CDI Press Release No. 054-2025, July 31, 2025; LA Times, Aug. 7, 2025). With FAIR
+          Plan enrollment having grown substantially as admitted carriers have withdrawn from
+          high-wildfire-exposure zones, the number of policyholders potentially affected is
+          large.
         </p>
       </CalloutBox>
 
@@ -229,7 +236,11 @@ export default function Content() {
           coverage would otherwise be provided for the insured peril.&rdquo; The statute is
           framed around the landslide/mudslide side of the chain rather than wildfire itself, but
           its practical effect is to prevent insurers from using ACC clauses to deny coverage for
-          mudslide and debris-flow damage that follows a covered wildfire.
+          mudslide and debris-flow damage that follows a covered wildfire. The California
+          Department of Insurance issued a Formal Notice on Proximate Cause in 2018 and, after
+          the January 2025 Los Angeles wildfires, issued <strong>Bulletin 2025-3</strong>
+          (February 4, 2025) reminding insurers of their obligations under the efficient-
+          proximate-cause doctrine and &sect; 530.5.
         </p>
         <div className="pt-3 border-t border-gray-300">
           <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-1.5">
@@ -247,6 +258,9 @@ export default function Content() {
             </span>
             <span className="inline-block bg-[#1F3964]/10 text-[#1F3964] text-xs font-medium px-3 py-1 rounded-full">
               Julian v. Hartford (2005) 35 Cal.4th 747
+            </span>
+            <span className="inline-block bg-[#1F3964]/10 text-[#1F3964] text-xs font-medium px-3 py-1 rounded-full">
+              CDI 2018 Formal Notice; Bulletin 2025-3
             </span>
           </div>
         </div>
