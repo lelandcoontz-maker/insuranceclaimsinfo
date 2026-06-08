@@ -95,12 +95,15 @@ export default function Content() {
           Always request the expert&apos;s assignment letter or scope of work from the insurer.
           Under California&apos;s{' '}
           <Link href="/resources/california-fair-claims" className="text-[#2E74B5] hover:underline">
-            Fair Claims Settlement Practices
-          </Link>{' '}
-          (10 CCR &sect; 2695.7(d)), the insurer must provide the basis for its coverage
-          decision, including expert reports and the documents relied upon. If the assignment
-          letter limited the scope of the investigation, that limitation is itself evidence of
-          a biased process.
+            Fair Claims Settlement Practices Regulations
+          </Link>, when a claim is denied, 10 CCR &sect; 2695.7(b)(1) requires the insurer to
+          provide a written denial listing all bases and the factual and legal bases for each
+          reason, with citation to the specific policy provisions or law relied upon. The
+          insurer&apos;s claim file must also document the materials it relied upon under
+          10 CCR &sect; 2695.3, including expert reports. If the assignment letter limited the
+          scope of the investigation, that limitation is itself evidence of a biased process
+          relevant to the thorough/fair/objective investigation standard in 10 CCR
+          &sect; 2695.7(d).
         </p>
       </CalloutBox>
 
@@ -372,12 +375,18 @@ export default function Content() {
         The Demer Framework for Assessing Expert Bias
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Demer v. IBM Corp. LTD Plan</em> (9th Circuit, 2016), the court established a
-        framework for evaluating whether an insurer&apos;s expert is biased. While the case arose
-        in the ERISA context, California state courts have begun applying similar principles to
-        property insurance disputes. The <em>Bagramyan v. Government Employees Insurance Co.</em>
-        decision was one of the first California appellate cases to recognize an &ldquo;inference of
-        bias&rdquo; standard.
+        In <em>Demer v. IBM Corp. LTD Plan</em> (9th Cir. 2016) 835 F.3d 893, the court
+        established a framework for evaluating whether an insurer&apos;s expert is biased.
+        While the case arose in the ERISA context, commentators have argued that the same
+        framework should apply to non-ERISA insurance disputes. In{' '}
+        <em>Bagramyan v. Government Employees Ins. Co.</em> (Cal. Ct. App., July 20, 2023,
+        No. B315018) 2023 WL 4636118, a California appellate panel touched on the
+        &ldquo;inference of bias&rdquo; standard in the property-insurance context.{' '}
+        <strong>Important caveat:</strong> <em>Bagramyan</em> is an unpublished decision and
+        therefore generally cannot be cited or relied on as binding precedent under California
+        Rules of Court, rule 8.1115. Whether the <em>Demer</em> paradigm controls in
+        California state-court property-insurance litigation is, as of this writing, an open
+        question.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Demer framework looks at four factors:
@@ -410,11 +419,14 @@ export default function Content() {
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Get the full report.</strong> The insurer must provide you a copy of the expert&apos;s
-          report. Under California&apos;s Fair Claims Settlement Practices (10 CCR &sect; 2695.7(d)),
-          the insurer must provide the basis for any denial, including expert reports relied upon.
-          Request all photos, measurements, field notes, the assignment letter, and any
-          pre-inspection communications &mdash; not just the summary letter.
+          <strong>Get the full report.</strong> When a claim is denied, 10 CCR &sect; 2695.7(b)(1)
+          requires the insurer to provide a written denial listing all bases and the factual
+          and legal bases for each reason, with citation to the specific policy provisions or
+          law relied upon &mdash; which in practice means producing the expert reports the denial
+          is based on. The insurer&apos;s claim file must also document the materials it relied
+          upon under 10 CCR &sect; 2695.3. Request all photos, measurements, field notes, the
+          assignment letter, and any pre-inspection communications &mdash; not just the summary
+          letter.
         </li>
         <li>
           <strong>Hire your own independent expert.</strong> This is the most important step. Get
