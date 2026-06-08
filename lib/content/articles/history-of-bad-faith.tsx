@@ -310,10 +310,16 @@ export default function Content() {
           finding and the compensatory and general damages award.
         </li>
         <li>
-          <strong>Punitive damages reversed as excessive.</strong> The Court reversed the $5 million
-          punitive damages award as &ldquo;the result of passion and prejudice on the part of the
-          jurors&rdquo; — the award was more than forty times the compensatory damages and
-          represented over two months of Mutual&apos;s entire 1973 net income.
+          <strong>Punitive damages reversed as excessive.</strong> The Court agreed the $5 million
+          punitive award was excessive — it represented more than forty times the compensatory
+          and general damages combined and over two months of Mutual&apos;s entire 1973 net
+          income. Mutual had argued the amount was so grossly excessive that it must have been
+          the result of passion and prejudice. The Court did not fully adopt that framing: it
+          specifically said it did not find that the amount necessarily reflected such
+          &ldquo;passion and prejudice on the part of the jurors&rdquo; as to require a
+          complete new trial on all issues, and instead ordered a new trial limited to the
+          issue of punitive damages unless the plaintiff consented to a remittitur reducing
+          the award.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
