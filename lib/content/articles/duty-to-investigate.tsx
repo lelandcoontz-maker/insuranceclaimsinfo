@@ -24,12 +24,14 @@ export default function Content() {
         Every insurance company in California has a legal obligation to conduct a thorough, fair,
         and objective investigation appropriate to the claim &mdash; calibrated to the facts, the
         coverage, and the documentation, but never reduced to a cursory review that fails to
-        develop the facts material to coverage. This is not optional — it is mandated
+        develop the facts material to coverage. This is not optional &mdash; it is mandated
         by the California Insurance Code, the Fair Claims Settlement Practices Regulations, and
-        decades of case law. When an insurer fails to properly investigate and denies or underpays
-        your claim as a result, that failure can itself constitute{' '}
+        decades of case law. When an insurer fails to properly investigate and denies or
+        underpays a covered claim as a result, that investigation failure can itself support
+        a finding of{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith</Link>{' '}
-        — regardless of whether the claim would ultimately have been covered.
+        &mdash; whether the insured can prevail on bad-faith damages, however, depends on
+        coverage, causation, and the rules discussed below.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -79,15 +81,22 @@ export default function Content() {
         are evaluated in that framework.
       </p>
 
-      <CalloutBox variant="warning" title="Bad-Faith Liability Can Arise From Investigation Failures Alone">
+      <CalloutBox variant="warning" title="An Inadequate Investigation Can Itself Support a Bad-Faith Claim &mdash; But Coverage Is Still Required">
         <p>
           California cases, beginning with <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24
-          Cal.3d 809, have recognized that an inadequate investigation can support a bad-faith
-          claim independently of whether the underlying claim was ultimately covered &mdash;
-          provided the investigation failure caused the claim to be wrongly denied, delayed, or
-          underpaid. The duty to investigate is independent of the duty to pay, but bad-faith
-          damages still require proof of causation and resulting harm; investigation flaws alone,
-          without causation or harm, generally do not produce tort liability.
+          Cal.3d 809, 819, recognize that the insurer cannot &ldquo;reasonably and in good faith
+          deny [benefits] to its insured without thoroughly investigating the foundation for its
+          denial,&rdquo; and that an inadequate investigation can itself support a bad-faith
+          claim where the investigation failure caused wrongful denial, delay, or underpayment.
+          But California courts have been clear that this remains a coverage-dependent claim:
+          as <em>Jordan v. Allstate Ins. Co.</em> (2007) 148 Cal.App.4th 1062, 1080 put it, an
+          insurer&apos;s failure to investigate &ldquo;is <em>not</em> separately actionable if
+          there is no coverage. If there is no coverage, then any failure...to properly
+          investigate would not have caused [the insured] any damage.&rdquo; (See also{' '}
+          <em>Waller v. Truck Ins. Exchange, Inc.</em> (1995) 11 Cal.4th 1; <em>McMillin Scripps
+          North Partnership v. Royal Ins. Co.</em> (1993) 19 Cal.App.4th 1215, 1222.) The duty
+          to investigate is independent of the duty to pay, but bad-faith damages still require
+          coverage, causation, and resulting harm.
         </p>
       </CalloutBox>
 
