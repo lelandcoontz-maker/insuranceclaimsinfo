@@ -245,10 +245,12 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s efficient proximate cause doctrine, codified in California Insurance
-        Code Section 530.5 and developed through case law including <em>Garvey v. State Farm
-        Fire &amp; Casualty Co.</em> (1989) 48 Cal.3d 395 and <em>State Farm Fire &amp;
-        Casualty Co. v. Von Der Lieth</em> (1991) 54 Cal.3d 1123, provides the analytical
-        framework for resolving the conflict between Coverage B and the pollution exclusion.
+        Code Section 530 (with the 2018 addition at Section 530.5 specifically addressing
+        concurrent-peril claims involving landslide, mudslide, mudflow, or debris flow) and
+        developed through case law including <em>Garvey v. State Farm Fire &amp; Casualty
+        Co.</em> (1989) 48 Cal.3d 395 and <em>State Farm Fire &amp; Casualty Co. v. Von Der
+        Lieth</em> (1991) 54 Cal.3d 1123, provides the analytical framework for resolving the
+        conflict between Coverage B and the pollution exclusion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The doctrine holds that when a loss results from a chain of causation involving both

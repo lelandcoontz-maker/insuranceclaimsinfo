@@ -121,8 +121,11 @@ export default function Content() {
         Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446. The California Supreme Court
         restated the general rule in <em>Julian v. Hartford Underwriters</em> (2005) 35 Cal.4th
         747 (although on <em>Julian</em>&rsquo;s facts the Court enforced the carrier&rsquo;s
-        exclusion). The Legislature then codified the rule for wildfire-related mudslide losses
-        by enacting Insurance Code Section 530.5 (2018). However, insurers continue to include ACC clauses in policies and invoke them
+        exclusion). In 2018 the Legislature enacted Insurance Code Section 530.5 (effective
+        Jan. 1, 2019) addressing concurrent-peril claims where one of the perils is a
+        landslide, mudslide, mudflow, or debris flow &mdash; the statute&rsquo;s practical
+        effect is to protect post-wildfire mudslide and debris-flow claims, among others.
+        However, insurers continue to include ACC clauses in policies and invoke them
         in claim denials, so policyholders should be aware of the ongoing tension between what
         policies say and what California law allows. If your denial involves mixed causes, this is
         an area where professional guidance is essential.
