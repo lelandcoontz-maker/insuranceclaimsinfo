@@ -126,14 +126,17 @@ export default function Content() {
         The California Fair Claims Settlement Practices Regulations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a carrier issues a denial letter that quotes an exclusion but omits the ensuing loss savings clause that follows it, the carrier may be violating California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.1 et seq.):
+        When a carrier issues a denial letter that quotes an exclusion but omits the ensuing loss savings clause that follows it, the carrier may be violating California&rsquo;s claim-handling rules:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>10 CCR &sect; 2695.7(b)(1):</strong> Requires that any denial of a claim be in writing and include &ldquo;a statement of the reasons for such denial&rdquo; and &ldquo;reference to the specific policy provisions on which the denial is based.&rdquo; A denial that references an exclusion while omitting the ensuing loss savings clause that modifies that exclusion is arguably an incomplete statement of the policy provisions.
+          <strong>10 CCR &sect; 2695.7(b)(1):</strong> When an insurer denies or rejects a first-party claim, it must do so in writing and provide a statement &ldquo;listing all bases for such rejection or denial and the factual and legal bases for each reason given for such rejection or denial which is then within the insurer&rsquo;s knowledge.&rdquo; A denial that references an exclusion while omitting the ensuing loss savings clause that modifies that exclusion is arguably an incomplete statement of the bases for denial.
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.7(d):</strong> Prohibits misrepresenting pertinent facts or policy provisions relating to coverages at issue. Omitting the savings clause from a denial could constitute a misrepresentation of the policy provisions.
+          <strong>10 CCR &sect; 2695.4(a):</strong> Requires the insurer to disclose to a first-party claimant all benefits, coverage, time limits or other provisions of the policy that may apply to the claim. The ensuing loss savings clause is a policy provision that may apply &mdash; selectively quoting only the exclusion arguably fails this disclosure duty.
+        </li>
+        <li>
+          <strong>Cal. Ins. Code &sect; 790.03(h)(1):</strong> Lists &ldquo;[m]isrepresenting to claimants pertinent facts or insurance policy provisions relating to any coverages at issue&rdquo; as a prohibited unfair claims practice. Omitting the savings clause from a denial that quotes the exclusion could be characterized as a misrepresentation of policy provisions.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -257,7 +260,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Omitting the savings clause from the denial letter.</strong> The carrier quotes the exclusion in the coverage determination letter and leaves out the &ldquo;however, any ensuing loss&rdquo; sentence that immediately follows. In California, this may violate 10 CCR &sect; 2695.7(b)(1), which requires the denial to reference the specific policy provisions at issue, and &sect; 2695.7(d), which prohibits misrepresenting policy provisions.
+          <strong>Omitting the savings clause from the denial letter.</strong> The carrier quotes the exclusion in the coverage determination letter and leaves out the &ldquo;however, any ensuing loss&rdquo; sentence that immediately follows. In California, this may violate 10 CCR &sect; 2695.7(b)(1), which requires the denial to list all bases with the factual and legal bases for each; 10 CCR &sect; 2695.4(a), which requires affirmative disclosure of policy provisions that may apply; and Cal. Ins. Code &sect; 790.03(h)(1), which prohibits misrepresenting pertinent facts or policy provisions.
         </li>
         <li>
           <strong>Framing the excluded peril as the &ldquo;direct or indirect&rdquo; cause of all damage.</strong> The carrier invokes ACC-style language to sweep the ensuing damage in with the excluded cause. In California, this tactic fails under <em>Julian</em>. In other states, the response is to identify whether ACC language actually applies to the specific exclusion at issue.
