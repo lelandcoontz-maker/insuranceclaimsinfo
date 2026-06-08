@@ -224,13 +224,21 @@ export default function Content() {
         Punitive damages in California are not capped by statute, but federal due-process
         principles do constrain them. The U.S. Supreme Court&rsquo;s decisions in <em>BMW of
         North America v. Gore</em> (1996) 517 U.S. 559 and <em>State Farm Mut. Auto. Ins. Co.
-        v. Campbell</em> (2003) 538 U.S. 408, 425 set out three reprehensibility factors and
-        the guidepost that &ldquo;few awards exceeding a single-digit ratio between punitive
-        and compensatory damages, to a significant degree, will satisfy due process,&rdquo;
-        with a 4:1 ratio sometimes cited as instructive. California courts apply these federal due-process
-        constraints alongside California&apos;s reprehensibility, ratio, and financial-condition
-        analysis. Punitive awards in insurance bad-faith cases can substantially exceed
-        compensatory damages, but the ratio is a litigated question and outcomes vary widely.
+        v. Campbell</em> (2003) 538 U.S. 408, 425 set out three constitutional guideposts for
+        reviewing punitive awards: (1) the degree of reprehensibility of the defendant&rsquo;s
+        conduct; (2) the ratio between punitive damages and the actual or potential harm; and
+        (3) a comparison between the punitive award and civil or criminal penalties for
+        comparable conduct. Within the first guidepost, reprehensibility is itself evaluated
+        through a set of sub-factors (physical vs. economic harm, indifference or reckless
+        disregard for health or safety, financial vulnerability of the target, repeated conduct
+        vs. an isolated incident, and intentional malice or trickery vs. mere accident). On the
+        ratio guidepost, the Supreme Court in <em>Campbell</em> said that &ldquo;few awards
+        exceeding a single-digit ratio between punitive and compensatory damages, to a
+        significant degree, will satisfy due process,&rdquo; with a 4:1 ratio sometimes cited
+        as instructive. California courts apply these federal due-process constraints alongside
+        California&apos;s reprehensibility, ratio, and financial-condition analysis. Punitive
+        awards in insurance bad-faith cases can substantially exceed compensatory damages, but
+        the ratio is a litigated question and outcomes vary widely.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
