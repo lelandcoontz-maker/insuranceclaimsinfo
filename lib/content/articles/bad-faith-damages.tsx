@@ -370,6 +370,36 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <CalloutBox variant="info" title="Which Damage Categories Are Most Robust, Which Get Cut">
+        <p className="mb-2">
+          The damage categories above are not equally easy to recover. Once bad faith is
+          established, the categories sort into a rough hierarchy of practical recoverability:
+        </p>
+        <p className="mb-2">
+          <strong>Most reliably recoverable:</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1 mb-3">
+          <li><strong>Contract damages</strong> &mdash; the unpaid policy benefits, with prejudgment interest. The foundation that other categories build on.</li>
+          <li><strong>Brandt fees</strong> &mdash; attorney&apos;s fees attributable to recovering wrongfully withheld policy benefits. Hard to deny once liability is established.</li>
+          <li><strong>Documented consequential economic losses</strong> &mdash; out-of-pocket costs, loan interest, lost rent, credit damage &mdash; when causation is clearly proven.</li>
+        </ul>
+        <p className="mb-2">
+          <strong>Available but fact-dependent (often disputed or reduced):</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1 mb-3">
+          <li><strong>Emotional distress damages</strong> &mdash; recoverable in California without proof of physical injury, but the amount is highly fact-dependent. The strongest awards rest on substantial contemporaneous evidence of the impact on the policyholder&apos;s life (medical records, family member testimony, missed work, sleep and stress documentation).</li>
+          <li><strong>Consequential damages where causation is debatable</strong> &mdash; losses claimed as consequential require proof that the insurer&apos;s conduct (not pre-existing conditions or other factors) caused them.</li>
+        </ul>
+        <p className="mb-2">
+          <strong>Highest-stakes but hardest to sustain:</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1">
+          <li><strong>Punitive damages</strong> &mdash; require <em>clear and convincing</em> evidence of &ldquo;despicable&rdquo; conduct under Civ. Code &sect; 3294(c). Even when awarded by a jury, federal due process and California reviewing courts routinely reduce the ratio. Sustainable punitive-to-compensatory ratios in California bad-faith cases typically land in the low single digits, and where compensatory damages are &ldquo;substantial&rdquo; a 1:1 ratio may be the constitutional maximum (<em>Roby v. McKesson</em>).</li>
+          <li><strong>Corporate punitive damages</strong> &mdash; require identifying a qualifying &ldquo;officer, director, or managing agent&rdquo; under Civ. Code &sect; 3294(b) and the narrowed <em>White v. Ultramar</em> / <em>Roby v. McKesson</em> test. Many otherwise-strong punitive cases fail at this threshold because the bad conduct cannot be traced to a corporate decision-maker with the requisite authority.</li>
+          <li><strong>Elder-abuse enhancements</strong> &mdash; available when the policyholder qualifies, but require proof by clear and convincing evidence of recklessness, oppression, fraud, or malice for the enhanced remedies.</li>
+        </ul>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What Does NOT Count as Bad Faith Damages
       </h2>

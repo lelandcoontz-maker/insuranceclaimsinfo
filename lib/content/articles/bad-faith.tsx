@@ -114,6 +114,30 @@ export default function Content() {
         the insurer to hide behind the genuine dispute defense.
       </p>
 
+      <CalloutBox variant="info" title="When Bad Faith Claims Win, When They Lose">
+        <p className="mb-2">
+          <strong>Most likely to succeed when:</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1 mb-3">
+          <li>The claim file shows the denial was reached without a thorough or fair investigation</li>
+          <li>The insurer selectively used evidence supporting denial and ignored the insured&apos;s contradictory evidence</li>
+          <li>There is a documented pattern of regulatory violations woven into the claim handling</li>
+          <li>The factual record was built contemporaneously during the claim, captured in writing as the conduct happened</li>
+          <li>The insurer&apos;s conduct rises to &ldquo;despicable&rdquo; with intent or conscious disregard, supporting punitive damages</li>
+          <li>The insured was financially vulnerable, elderly, or otherwise especially exposed to harm</li>
+        </ul>
+        <p className="mb-2">
+          <strong>Most likely to lose at summary judgment when:</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1">
+          <li>The insurer can show a genuine, good-faith dispute over coverage or valuation (the primary defense that defeats most bad-faith claims pre-trial)</li>
+          <li>The insurer retained an expert whose opinion supports denial &mdash; the so-called &ldquo;expert safe harbor&rdquo;</li>
+          <li>The factual record was built after the fact rather than contemporaneously during the claim</li>
+          <li>The insurer&apos;s conduct, however frustrating, falls short of unreasonable on the merits</li>
+          <li>The case relies on bare regulatory or statutory violations without tying them to coverage owed or actual harm</li>
+        </ul>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Insurance Code Section 790.03
       </h2>
