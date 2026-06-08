@@ -95,18 +95,18 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The key case is <em>Prudential-LMI Commercial Ins. v. Superior Court</em> (1990) 51 Cal.3d
-        674. In <em>Prudential-LMI</em>, the California Supreme Court established important
-        equitable principles governing insurance limitations periods, including the
-        notice-prejudice rule and the broader principle that contractual limitations periods in
-        insurance policies are subject to equitable tolling. The Court recognized that insurers
-        should not benefit from limitations defenses when their own conduct — investigating and
-        adjusting the claim — consumed the time available to the policyholder.
+        674. The California Supreme Court held that the one-year suit limitation in the standard
+        fire policy is &ldquo;equitably tolled from the time the insured files a timely notice,
+        pursuant to policy notice provisions, to the time the insurer formally denies the claim
+        in writing.&rdquo; The Court&apos;s rationale was specific: the policyholder should not
+        be penalized for time consumed by the insurer&apos;s investigation, but the central
+        idea of the limitation provision &mdash; that the insured will only have twelve months
+        to institute suit &mdash; is preserved by ending the tolling at denial.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The practical effect of equitable tolling is significant: the one-year suit limitation
-        period effectively runs from when the insurer closes the claim or issues a final denial,
-        not simply from the date of loss. The time during which the insurer was actively handling
-        the claim does not count against the policyholder.
+        The practical effect is significant: the time during which the insurer is actively
+        investigating the claim, from timely notice to formal written denial, does not count
+        against the policyholder.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -191,40 +191,77 @@ export default function Content() {
       </div>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Important Caveats
+        Important Caveats: Tolling Has Endpoints
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Equitable tolling is a powerful protection for policyholders, but it is not a blank check.
-        There are important limitations and uncertainties that every policyholder should understand:
+        Equitable tolling is a protection for policyholders, but it is narrowly defined. The
+        published California Court of Appeal authority has consistently <em>refused</em> to
+        extend <em>Prudential-LMI</em> beyond its notice-to-denial window. The limits matter
+        every bit as much as the rule itself:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Equitable tolling is not automatic.</strong> It is a doctrine applied by courts
-          based on the specific facts of each case. A court must find that the circumstances
-          justify tolling — it is not simply assumed.
+          <strong>An unequivocal written denial ends tolling.</strong> In{' '}
+          <em>Singh v. Allstate Ins. Co.</em> (1998) 63 Cal.App.4th 135, the Court of Appeal
+          held that &ldquo;the justifications for equitable tolling are absent, once the carrier
+          has initially denied the claim.&rdquo; Federal courts applying California law continue
+          to cite <em>Singh</em> for this rule. Once the insurer issues a formal written denial,
+          the clock resumes.
         </li>
         <li>
-          <strong>The policyholder must act reasonably.</strong> Equitable tolling generally
-          protects policyholders who are acting in good faith and cooperating with the claims
-          process. A policyholder who sits on their rights, fails to respond to the insurer, or
-          unreasonably delays their own actions may not receive the benefit of tolling.
+          <strong>Reconsideration requests do not re-engage tolling.</strong> Also from{' '}
+          <em>Singh</em>: a request to the carrier to reconsider a denial does not pause the
+          clock again. The insured has the information needed to file suit once an unequivocal
+          denial issues.
         </li>
         <li>
-          <strong>Once the claim is denied or closed, the clock starts running again.</strong> When
-          the insurer issues a final denial, makes a final payment, or otherwise signals that the
-          claim is closed, the remaining limitations period resumes. The policyholder should not
-          assume they have unlimited time after a denial.
+          <strong>Payment of a claim can end tolling.</strong> In{' '}
+          <em>Marselis v. Allstate Ins. Co.</em> (2004) 121 Cal.App.4th 122, the Court of Appeal
+          rejected an effort to extend <em>Prudential-LMI</em> tolling past the insurer&apos;s
+          payment of a claim, holding: &ldquo;Nothing justifies judicial extension of the
+          equitable tolling rule to create a right to reopen claims that have been paid.&rdquo;
         </li>
         <li>
-          <strong>Gaps in investigation may affect tolling.</strong> If the insurer stops actively
-          investigating for a period — for example, if the claim goes dormant for several months
-          — a court may find that tolling was interrupted during that gap.
+          <strong>Equitable tolling does NOT extend through appraisal.</strong> Although no
+          California Supreme Court decision is squarely on point, the published Court of Appeal
+          authority &mdash; <em>Singh</em>, <em>Marselis</em>, and{' '}
+          <em>Doheny Park Terrace Homeowners Assn. v. Truck Ins. Exchange</em> (2005) 132
+          Cal.App.4th 1076 &mdash; has consistently declined to extend <em>Prudential-LMI</em>{' '}
+          beyond the notice-to-denial window. Experienced California insurance litigators
+          operate under the rule that appraisal does not toll the suit limitation and protect
+          the deadline by filing a protective lawsuit and requesting a stay pending appraisal.
+          See our detailed article on{' '}
+          <Link
+            href="/resources/appraisal-tolling-statute-limitations"
+            className="text-[#2E74B5] underline"
+          >
+            appraisal and the statute of limitations
+          </Link>.
         </li>
         <li>
-          <strong>The exact calculation is fact-specific.</strong> There is no simple formula.
-          The precise amount of tolled time depends on when the insurer began investigating, when
-          it stopped, whether there were pauses, and what the insurer was actually doing during
-          the claimed investigation period.
+          <strong>Narrow exception: insurer-initiated reopening.</strong> In{' '}
+          <em>Ashou v. Liberty Mutual Fire Ins. Co.</em> (2006) 138 Cal.App.4th 748, the Court
+          of Appeal applied a second period of tolling where the insurer affirmatively agreed to
+          reopen the claim and actively reinvestigated. But the court was careful to limit the
+          rule &mdash; &ldquo;a mere request does not automatically reopen the claim, nor does
+          it impose an obligation on the insurer to respond.&rdquo; The insurer&apos;s conduct,
+          not the insured&apos;s, is what triggers renewed tolling.
+        </li>
+        <li>
+          <strong>Tolling is discretionary, not automatic.</strong> Within the recognized
+          notice-to-denial window, tolling generally applies, but courts evaluate facts. A
+          policyholder who fails to cooperate or sits on their rights may not receive the
+          benefit.
+        </li>
+        <li>
+          <strong>Gaps in investigation may affect tolling.</strong> If the insurer&apos;s
+          investigation goes dormant, a court may find tolling was interrupted during that gap.
+        </li>
+        <li>
+          <strong>The exact calculation is fact-specific.</strong> Precise tolled time depends
+          on when the insurer began investigating, when it formally denied, whether there were
+          pauses, and what the insurer was actually doing during the claimed investigation
+          period.
         </li>
       </ul>
 
