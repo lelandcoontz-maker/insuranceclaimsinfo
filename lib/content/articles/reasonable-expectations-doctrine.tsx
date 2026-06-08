@@ -41,6 +41,20 @@ export default function Content() {
         is that the doctrine exists and courts use it, but in a more limited way than some
         policyholders might hope.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It is also a doctrine to be careful about overselling. Reasonable expectations is, at its
+        strongest, a fundamentally <strong>liberal</strong> rule &mdash; it lets a reasonable
+        insured&apos;s understanding of coverage override even clear, unambiguous policy text. A
+        number of states have rejected that strong form outright, and many others &mdash;
+        California included &mdash; have adopted a deliberately limited version that uses the
+        doctrine only to resolve genuine ambiguity, not to rewrite clear policy language.
+        Insurer-side counsel routinely argue that reasonable expectations cannot save a coverage
+        theory the policy plainly excludes, and in California that argument usually prevails.
+        Policyholders and their counsel who plead reasonable expectations as a standalone
+        trump-card theory in California typically lose; the doctrine is most useful as{' '}
+        <em>support</em> for a contra proferentem or ambiguity argument once the threshold of
+        ambiguity has been crossed.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         The Origin: Professor Keeton and the 1970 Article
@@ -161,6 +175,42 @@ export default function Content() {
         deciding which reading prevails. But if the exclusion is plainly written and clearly
         applicable to the facts, the doctrine will not save you.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practitioner reality is sharper still. Reasonable expectations rarely carries a
+        California coverage dispute on its own. The doctrine functions as a tiebreaker once
+        ambiguity has been established, helping the court choose the reading aligned with what a
+        reasonable insured would have understood the policy to provide. It is most powerful when
+        paired with contra proferentem, exclusion-strict-construction arguments, and concrete
+        evidence of insurer-induced expectation (marketing materials, agent representations,
+        application-process inconsistencies). Pleaded as a standalone &ldquo;the policy should
+        cover this because that is what I expected&rdquo; theory &mdash; without first
+        establishing that the policy language is reasonably susceptible to more than one
+        interpretation &mdash; reasonable expectations arguments face long odds in California
+        courts.
+      </p>
+
+      <CalloutBox variant="info" title="When This Doctrine Wins, When It Loses (California Practice)">
+        <p className="mb-2">
+          <strong>Most likely to help when:</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1 mb-3">
+          <li>The policy language is genuinely ambiguous &mdash; the threshold the doctrine needs to operate at all</li>
+          <li>An exclusion is buried, obscure, or contradicts what marketing materials or the agent represented</li>
+          <li>The application process implied coverage for a risk the issued policy then excluded</li>
+          <li>The insured is a typical consumer dealing with a standardized take-it-or-leave-it (adhesion) policy</li>
+          <li>The argument is paired with contra proferentem and exclusion-strict-construction, not pleaded alone</li>
+        </ul>
+        <p className="mb-2">
+          <strong>Most likely to lose when:</strong>
+        </p>
+        <ul className="list-disc pl-6 space-y-1">
+          <li>The exclusion or limitation is clear and unambiguous on its face</li>
+          <li>The argument tries to create coverage the policy never purported to provide</li>
+          <li>The insured had actual knowledge of the exclusion (because the agent explained it, because they read the policy, or because they had a prior claim involving the same exclusion)</li>
+          <li>The insured is a sophisticated commercial entity with risk managers, brokers, and counsel</li>
+          <li>The doctrine is pleaded as a standalone trump card without first establishing ambiguity</li>
+        </ul>
+      </CalloutBox>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         How It Works Alongside Contra Proferentem
@@ -270,11 +320,16 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Real Examples Where the Doctrine Changed Outcomes
+        Patterns Where the Doctrine Has Influenced Outcomes
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The doctrine of reasonable expectations has produced meaningful results in real cases
-        across the country. Here are some patterns where the doctrine has made a difference:
+        The doctrine of reasonable expectations has produced meaningful results in cases across
+        the country, though wins in the strong-form jurisdictions (New Jersey, Arizona, Hawaii,
+        and certain Montana and Iowa fact patterns) are easier to come by than wins in
+        California&apos;s weak-form regime. The patterns below show situations where the doctrine
+        has historically influenced outcomes. <strong>In California, each of these typically
+        requires first establishing that the policy language is ambiguous, with reasonable
+        expectations resolving which reading prevails.</strong>
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
