@@ -115,12 +115,31 @@ export default function Content() {
         the time of the loss &mdash; not simply how old it is.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Court of Appeal addressed this directly in <em>Doan v. State Farm General Ins. Co.</em> The court held that depreciation must be based on the condition of
-        the property, not merely its age. A 20-year-old roof that was well-maintained, had no
-        leaks, and was functioning properly should not be depreciated the same as a 20-year-old
-        roof that was falling apart. California Code of Regulations, Title 10, Section 2695.9(f)
-        reinforces this principle by requiring that the insurer&rsquo;s valuation consider the
-        &ldquo;condition&rdquo; of the damaged property.
+        The California authority on this is <em>Doan v. State Farm General Ins. Co.</em>
+        (2011) 195 Cal.App.4th 1082, but the case has two layers and they are often
+        conflated. The <strong>binding appellate holding</strong> is procedural: a
+        policyholder may challenge the insurer&rsquo;s depreciation methodology in court
+        through declaratory relief, and is not forced into appraisal &mdash; because an
+        appraiser has no authority to decide whether the insurer&rsquo;s method of
+        calculating depreciation breaches the contract or violates &sect; 2051. The
+        <strong> substantive</strong> condition-not-age rule that the case is best known
+        for came from the <em>Doan</em> trial court&rsquo;s 2016 ruling on remand, which
+        held that contents depreciation must rest on the actual physical condition of
+        each item at the time of loss rather than on age alone or undisclosed automatic
+        schedules. That 2016 trial-court ruling is the right articulation of the standard
+        but is not itself binding statewide precedent.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For primary authority on the condition-not-age rule itself, Cal. Ins. Code
+        &sect; 2051(b) supplies the controlling text &mdash; ACV is a &ldquo;fair and
+        reasonable deduction for physical depreciation <em>based upon its condition at the
+        time of the injury</em>&rdquo; (emphasis added) &mdash; and 10 CCR &sect; 2695.9(f)
+        adds the documentation, itemization, and written-explanation requirements that
+        force the insurer to actually justify the deduction based on condition. A
+        20-year-old roof that was well-maintained, had no leaks, and was functioning
+        properly should not be depreciated the same as a 20-year-old roof that was falling
+        apart &mdash; that is what the statute and regulation require, and what the
+        <em> Doan</em> trial-court ruling articulates.
       </p>
 
       <CalloutBox variant="important" title="This Applies to Personal Property Too">
@@ -555,9 +574,15 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong><em>Doan v. State Farm General Ins. Co.</em></strong> (2011) 195 Cal.App.4th
-          1082 &mdash; California appellate court held that depreciation must be based on
-          condition, not merely age. The insurer cannot use a mechanical formula without
-          considering the actual state of the property.
+          1082 &mdash; Two layers. The binding appellate holding is procedural: a
+          policyholder may challenge the insurer&rsquo;s depreciation methodology in court
+          through declaratory relief rather than being forced into appraisal, because an
+          appraiser has no authority to decide whether the insurer&rsquo;s method of
+          calculating depreciation breaches the contract or violates &sect; 2051. The
+          substantive condition-not-age rule the case is best known for came from the 2016
+          trial-court ruling on remand &mdash; correct standard, not statewide-binding
+          precedent. Pair with &sect; 2051(b) and 10 CCR &sect; 2695.9(f) for primary
+          authority.
         </li>
         <li>
           <strong><em>Cheeks v. California FAIR Plan Ass&rsquo;n</em></strong> (1998) 61
@@ -621,9 +646,9 @@ export default function Content() {
         <li>
           <strong>Document actual condition.</strong> Photographs of the property before the loss
           (if available), maintenance records, and contractor assessments of the pre-loss
-          condition all support a lower depreciation rate. Under <em>Doan</em>, condition is
-          what matters, and evidence of good condition directly undermines the insurer&rsquo;s
-          depreciation.
+          condition all support a lower depreciation rate. Under &sect; 2051(b) and the
+          <em>Doan</em> trial-court ruling, condition is what matters, and evidence of good
+          condition directly undermines the insurer&rsquo;s depreciation.
         </li>
         <li>
           <strong>Put it in writing.</strong> All depreciation challenges should be made in a
