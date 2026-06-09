@@ -241,7 +241,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A central component of the McKinsey strategy was the adoption of computer software
         to remove individual adjuster discretion from the claims valuation process. The
-        program was called <strong>Colossus</strong>, developed by Computer Services
+        program was called <strong>Colossus</strong>, developed by Computer Sciences
         Corporation (CSC). McKinsey recommended Colossus specifically for its ability to
         &ldquo;establish a new fair market value&rdquo; for claims &mdash; which in
         practice meant generating artificially low valuations that would replace the
@@ -363,11 +363,15 @@ export default function Content() {
         <li>
           <strong>In-house appraisers and aligned vendors.</strong> The use of carrier-
           retained appraisers and aligned vendors raises bias-of-the-expert questions
-          that California courts have addressed in cases such as <em>Chateau
-          Chamberay</em> (&ldquo;an insurer cannot insulate itself from bad-faith
-          liability by hiring an expert to manufacture a genuine dispute&rdquo;).
-          Whether a particular carrier&apos;s appraiser-selection practice crosses
-          that line is a fact question for the specific dispute.
+          that California courts have addressed in cases such as <em>Chateau Chamberay
+          Homeowners Assn. v. Associated Internat. Ins. Co.</em> (2001) 90 Cal.App.4th
+          335, where the court held that &ldquo;an insurer may not insulate itself from
+          a bad faith claim by relying on an expert&rsquo;s conclusions if those
+          conclusions are reached unreasonably,&rdquo; and that an insurer cannot avoid
+          bad-faith liability by hiring an expert whose opinion &ldquo;is not itself
+          reasonable or is the product of an inadequate investigation.&rdquo; Whether a
+          particular carrier&apos;s appraiser-selection practice crosses that line is a
+          fact question for the specific dispute.
         </li>
         <li>
           <strong>Policy-form restrictions on appraisal scope.</strong> Some carriers
@@ -381,15 +385,18 @@ export default function Content() {
           discusses the framework.
         </li>
         <li>
-          <strong>Replacement-cost valuation in wildfire claims.</strong> Wildfire
-          rebuild claims have produced substantial bad-faith litigation against multiple
-          California carriers in which insureds documented large gaps between
+          <strong>Replacement-cost valuation and wildfire-related claims.</strong>{' '}
+          Wildfire rebuild claims have produced substantial bad-faith litigation against
+          multiple California carriers in which insureds documented large gaps between
           carrier-set replacement cost values and actual contractor quotes to rebuild.
           The California Department of Insurance has also issued enforcement actions on
-          related practices &mdash; for example, CDI Stipulation and Order 2023-2
-          (November 30, 2023) adopting a market conduct examination of the California
-          FAIR Plan Association. Readers researching a specific carrier should consult
-          the actual published opinions, CDI press releases, and CDI orders on{' '}
+          related practices &mdash; for example, the July 31, 2025 Order to Show Cause
+          and cease-and-desist against the California FAIR Plan Association (CDI Press
+          Release No. 054-2025), based on a market conduct examination that documented
+          418 violations of California consumer-protection law in FAIR Plan claim
+          handling from January 1, 2017 through March 16, 2021. Readers researching a
+          specific carrier should consult the actual published opinions, CDI press
+          releases, and CDI orders on{' '}
           <a href="https://www.insurance.ca.gov" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
             insurance.ca.gov
           </a>{' '}
@@ -596,8 +603,9 @@ export default function Content() {
         Insurance Code &sect; 790.03(h), which identifies sixteen unfair claims settlement
         practices. Under <em>Moradi-Shalal v. Fireman&rsquo;s Fund Ins. Cos.</em> (1988)
         46 Cal.3d 287, &sect; 790.03 does not create a private cause of action for an
-        insured; the standards it sets out are enforced by the Commissioner and serve
-        as evidence of the standard of care in common-law bad-faith claims.
+        insured. Subsequent California case law has held, however, that regulatory
+        violations may be raised as evidence of unreasonable conduct in a common-law
+        bad-faith action.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -635,8 +643,10 @@ export default function Content() {
         </li>
         <li>
           <strong>No misrepresentation of policy provisions</strong> &mdash; The insurer
-          shall not misrepresent pertinent facts or policy provisions relating to coverage
-          at issue (10 CCR &sect; 2695.4).
+          shall not misrepresent pertinent facts or insurance policy provisions relating
+          to any coverages at issue (Cal. Ins. Code &sect; 790.03(h)(1)). The insurer is
+          also affirmatively obligated to disclose all benefits, coverage, time limits,
+          and other policy provisions that may apply to the claim (10 CCR &sect; 2695.4(a)).
         </li>
         <li>
           <strong>Measurement and scope standards</strong> &mdash; For first-party
