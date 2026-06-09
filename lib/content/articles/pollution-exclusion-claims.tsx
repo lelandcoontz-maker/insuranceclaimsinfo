@@ -428,10 +428,12 @@ export default function Content() {
         that attempts to deny coverage whenever an excluded peril contributes to the loss
         &ldquo;in any sequence.&rdquo; These clauses are a direct attempt to contractually
         override the efficient proximate cause doctrine. In California, they are
-        unenforceable. California is one of only four states that refuse to enforce ACC clauses,
-        because the efficient proximate cause doctrine is grounded in statute (Insurance Code
-        &sect;&sect; 530 and 532), not merely in common law. For a detailed discussion, see our
-        article on{' '}
+        unenforceable. California is one of a small minority of states (alongside Washington
+        and a few others, though state-by-state lineups have shifted over time as
+        legislatures amend statutes and courts revisit older holdings) that refuse to enforce
+        ACC clauses, because California&rsquo;s efficient proximate cause doctrine is
+        grounded in statute (Insurance Code &sect;&sect; 530 and 532), not merely in common
+        law. For a detailed discussion, see our article on{' '}
         <Link href="/resources/anti-concurrent-causation" className="text-blue-700 underline hover:text-blue-900">
           anti-concurrent causation clauses
         </Link>
