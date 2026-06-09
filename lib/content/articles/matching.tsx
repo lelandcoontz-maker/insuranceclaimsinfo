@@ -61,22 +61,32 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Legal Basis: The Model Fair Claims Act
+        The Legal Basis: The NAIC Property/Casualty Model Regulation
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Some people argue that &quot;matching&quot; is not the correct term or that it is not
-        addressed in insurance regulations. This is incorrect. In approximately 30 states that have
-        adopted the National Association of Insurance Commissioners (NAIC) Model Unfair Claims
-        Settlement Practices Act — commonly known as the Model Fair Claims Act — insurers are
-        explicitly required to pay enough to achieve a &quot;reasonable uniform appearance.&quot;
-        The word &quot;matching&quot; does in fact appear in some state regulations implementing
-        these provisions.
+        addressed in insurance regulations. This is incorrect. The National Association of
+        Insurance Commissioners (NAIC) adopted the <em>Unfair Property/Casualty Claims
+        Settlement Practices Model Regulation</em> in 1990. That model regulation contains the
+        matching language &mdash; it requires insurers to &ldquo;replace all such items in the
+        area so as to conform to a reasonable uniform appearance&rdquo; when items replaced
+        after a loss do not match the surrounding undamaged items.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is a separate NAIC document from the broader NAIC <em>Unfair Claims Settlement
+        Practices Act</em>, which addresses claim-handling standards generally but does not by
+        itself contain matching language. A growing number of states have adopted versions of
+        the property/casualty matching regulation &mdash; the exact count varies by source and
+        by year, but it sits in the mid-teens to low twenties as of recent reporting. California
+        is one of those states; the operative California matching authority is the regulation
+        discussed in the next section.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The requirement is straightforward: if a partial repair leaves your home looking visibly
-        inconsistent, the insurer must pay for the additional work needed to make the repaired area
-        blend with the undamaged area. This may mean replacing an entire roof slope, an entire
-        room&rsquo;s flooring, or an entire elevation of siding — not just the damaged section.
+        inconsistent, the insurer must pay for the additional work needed to make the repaired
+        area blend with the undamaged area. This may mean replacing an entire roof slope, an
+        entire room&rsquo;s flooring, or an entire elevation of siding &mdash; not just the
+        damaged section.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
