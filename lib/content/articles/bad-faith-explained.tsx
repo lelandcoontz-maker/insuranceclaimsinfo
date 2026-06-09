@@ -81,9 +81,10 @@ export default function Content() {
           Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.5 and 2695.7)
           &mdash; failing to acknowledge a claim within 15 days, failing to accept or deny within
           40 days after proof of loss, dragging out the process for months or years without
-          legitimate reason. Per <em>Moradi-Shalal</em>, regulatory violations are not
-          independently actionable but are admissible as evidence that the insurer acted
-          unreasonably.
+          legitimate reason. Under <em>Moradi-Shalal</em>, regulatory violations are not
+          independently actionable as a private cause of action; however, California case law
+          permits them to be raised as evidence of unreasonable conduct in a common-law bad-faith
+          action.
         </li>
         <li>
           <strong>Lowballing without basis:</strong> Offering substantially less than the claim is
