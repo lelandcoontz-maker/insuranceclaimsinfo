@@ -143,54 +143,54 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Can the Insurer Depreciate the Undamaged Items Replaced for Matching?
+        Depreciation on Undamaged Items Replaced for Matching: The Regulation Answers This
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A recurring question within matching disputes is whether the insurer may apply
         depreciation to the <strong>undamaged</strong> items that are replaced solely to
         achieve a reasonably uniform appearance. For example, if matching requires replacing
         an entire roof when only one slope was damaged, can the insurer depreciate the
-        material on the slopes that were not directly hit? The better-supported position is
-        that it may not &mdash; though policyholders should understand this as a strong,
-        well-grounded argument rather than a rule settled by California appellate decision.
+        material on the slopes that were not directly hit? <strong>The California Fair
+        Claims Settlement Practices Regulations answer this directly: no.</strong>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Four points support that position. <strong>First,</strong> the matching obligation in
-        10 CCR &sect; 2695.9(a) exists only in the <strong>replacement cost</strong> context,
-        and replacement cost coverage by definition pays the cost to replace without
-        deduction for depreciation. The undamaged items drawn in for uniform appearance are
-        part of the replacement-cost recovery and ride along at full replacement cost.{' '}
-        <strong>Second,</strong> 10 CCR &sect; 2695.9(a)(1) &mdash; which sits immediately
-        above the matching provision &mdash; states that when a loss requires repair or
-        replacement, the insured shall not have to pay for depreciation, nor any other cost,
-        except for the applicable deductible. Compelled matching replacement is, in
-        substance, a cost the insured is required to incur to make the repair; depreciating
-        it would force the insured to pay out of pocket to obtain the uniform appearance the
-        regulation guarantees. <strong>Third,</strong> the labor to remove and reinstall the
-        matching material is non-depreciable in any event under 10 CCR &sect; 2695.9(f)(1).{' '}
-        <strong>Fourth,</strong> the indemnity principle supports the position: the insured
-        had a functioning, uniform roof (or siding, or floor) before the loss, did not elect
-        to replace good material, and is made whole &mdash; not bettered &mdash; by
-        restoring the pre-loss uniform condition that the property&rsquo;s market value
-        already reflected.
+        10 CCR &sect; 2695.9(a) opens by announcing that &ldquo;when a residential or
+        commercial property insurance policy provides for the adjustment and settlement of
+        first party losses based on replacement cost, the following standards apply.&rdquo;
+        Subsection (a)(1) then states that &ldquo;the insured shall not have to pay for
+        depreciation nor any other cost except for the applicable deductible.&rdquo; And
+        subsection (a)(2) is the matching standard itself &mdash; the insurer must replace
+        all items in the damaged area to conform to a reasonably uniform appearance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A careful analysis should acknowledge the countervailing considerations. The &ldquo;no
-        depreciation&rdquo; language in &sect; 2695.9(a)(1) is grammatically tied to the
-        consequential-physical-damage sentence, so an insurer may argue it does not textually
-        extend to matching items under (a)(2); and an insurer may assert that replacing aged
-        but undamaged material new-for-old confers a real betterment. These disputes arise
-        most often in the actual-cash-value holdback calculation and on pure actual-cash-value
-        policies, rather than in the final replacement-cost recovery. On balance, on a
-        replacement cost policy the matching scope is properly recovered at full replacement
-        cost, and the text of &sect; 2695.9(a)(1), the non-depreciability of labor, and core
-        indemnity principles weigh against depreciating the compelled matching replacement.
-        For a fuller treatment of how depreciation works under California law, see our
-        article on{' '}
-        <Link href="/resources/broad-evidence-rule-acv" className="text-[#2E74B5] underline">
-          how depreciation is calculated under California law
-        </Link>
-        .
+        Read together, the structure is straightforward. Both (a)(1) and (a)(2) are
+        &ldquo;standards&rdquo; the regulation imposes on replacement-cost-policy losses
+        under the (a) preamble. The (a)(1) rule that the insured pays only the deductible is
+        a flat, stand-alone limit. The (a)(2) matching obligation requires replacement of
+        undamaged items in the same damaged area to achieve uniform appearance. When the
+        insurer is compelled by (a)(2) to replace items, the insured is not required to
+        absorb depreciation on those replacements &mdash; (a)(1) says so. Depreciating
+        compelled matching replacements would force the insured to pay out of pocket to
+        obtain the uniform appearance the regulation guarantees.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two reinforcing points strengthen the conclusion. <strong>First,</strong> the labor
+        to remove and reinstall the matching material is non-depreciable in any event under
+        10 CCR &sect; 2695.9(f)(1). <strong>Second,</strong> the indemnity principle
+        supports the result: the insured had a functioning, uniform roof (or siding, or
+        floor) before the loss, did not elect to replace good material, and is made whole
+        &mdash; not bettered &mdash; by restoring the pre-loss uniform condition.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Insurers occasionally argue that (a)(1)&rsquo;s &ldquo;no depreciation&rdquo;
+        sentence is grammatically tethered to the preceding consequential-damage sentence
+        and does not reach (a)(2) matching items, or that replacing aged-but-undamaged
+        material new-for-old confers a real betterment. These arguments cut against the
+        natural structure of the regulation. They surface most often in actual-cash-value
+        holdback calculations and on pure actual-cash-value policies rather than in
+        final replacement-cost recoveries. On a replacement-cost policy, the matching scope
+        is properly recovered at full replacement cost, period &mdash; the regulation does
+        not contemplate the insured underwriting a cost the regulation itself compelled.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
