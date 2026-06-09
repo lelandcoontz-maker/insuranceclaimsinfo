@@ -79,11 +79,8 @@ export default function Content() {
         The Regulation: 10 CCR 2695.9(f)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s Fair Claims Settlement Practices Regulations reinforce the statutory framework. Title 10, California Code of Regulations, Section 2695.9(f) requires:
+        California&rsquo;s Fair Claims Settlement Practices Regulations reinforce the statutory framework. Title 10, California Code of Regulations, Section 2695.9(f) requires depreciation adjustments to be &ldquo;discernable, measurable, itemized, and specified as to dollar amount,&rdquo; to reflect a &ldquo;measurable difference in market value attributable to the condition and age of the property,&rdquo; and to apply only to property &ldquo;normally subject to repair and replacement during the useful life of the property.&rdquo;
       </p>
-      <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;Any adjustments for betterment or depreciation shall reflect a measurable difference in market value attributable to the condition and age of the property and apply only to property normally subject to repair and replacement during the useful life of the property.&rdquo;
-      </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         And subsection (f)(1) explicitly addresses service costs:
       </p>
@@ -146,10 +143,18 @@ export default function Content() {
         Illinois: Sproull v. State Farm (2021)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While not California law, the Illinois Supreme Court&rsquo;s reasoning in <em>Sproull v. State Farm Fire &amp; Casualty Co.</em> is persuasive. The court held that &ldquo;labor is a fixed cost that is not subject to wear and tear, deterioration, or obsolescence&rdquo; and that &ldquo;only the property structure and materials are subject to a reasonable deduction for depreciation.&rdquo; State Farm subsequently settled for approximately $50.25 million, refunding 100% of non-material depreciation and a portion of O&amp;P depreciation from ACV payments.
+        While not California law, the Illinois Supreme Court&rsquo;s reasoning in{' '}
+        <em>Sproull v. State Farm Fire &amp; Casualty Co.</em> is persuasive. Under the
+        Illinois insurance regulation defining ACV as &ldquo;replacement cost of property
+        at time of loss less depreciation, if any,&rdquo; and absent a policy definition
+        of &ldquo;actual cash value,&rdquo; the court held that &ldquo;only the property
+        structure and materials are subject to a reasonable deduction for depreciation,
+        and depreciation may not be applied to the intangible labor component.&rdquo; The
+        court reached this conclusion by finding the policy language ambiguous and
+        construing the ambiguity against the insurer.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
-        Sproull v. State Farm Fire &amp; Cas. Co., 2021 IL 126446 (Ill. 2021). <a href="https://caselaw.findlaw.com/court/il-supreme-court/2146418.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read on FindLaw</a>.
+        Sproull v. State Farm Fire &amp; Cas. Co., 2021 IL 126446 (Ill. 2021). <a href="https://law.justia.com/cases/illinois/supreme-court/2021/126446.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read on Justia</a>.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
