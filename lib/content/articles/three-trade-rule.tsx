@@ -197,20 +197,16 @@ export default function Content() {
         New York: Replacement Cost Is Inherently Hypothetical
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Mazzocki v. State Farm</em> (2003), the New York Appellate Division addressed the carrier&rsquo;s argument that O&amp;P should not be paid because the policyholder had not yet hired a general contractor. The court rejected this reasoning with an observation that cuts to the heart of the issue:
+        In <em>Mazzocki v. State Farm</em> (2003), the New York Appellate Division, Third Department addressed the carrier&rsquo;s argument that O&amp;P should not be paid because the policyholder had not yet hired a general contractor. The court rejected that argument, holding that State Farm was obligated to include general contractor overhead and profit in replacement cost calculations &mdash; and therefore in actual cash value &mdash; whenever a contractor was reasonably likely to be needed for the repair or replacement.
       </p>
-      <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;A replacement cost estimate is equally hypothetical or contingent as to all materials, labor and contractor services.&rdquo;
-      </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The point is simple. Every component of a replacement cost estimate is prospective &mdash; the materials have not been purchased, the labor has not been performed, the contractors have not been hired. If the hypothetical nature of the cost were grounds for exclusion, the insurer would owe nothing at all.
+        The reasoning is straightforward. Every component of a replacement cost estimate is prospective &mdash; the materials have not been purchased, the labor has not been performed, the contractors have not been hired. If the hypothetical nature of the cost were grounds for exclusion, the insurer would owe nothing at all. The need for a general contractor is no more or less hypothetical than the need for shingles, drywall, or paint.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
-        1 A.D.3d 9 (N.Y. App. Div., 3d Dept. 2003). See also Merlin Law Group,{' '}
+        1 A.D.3d 9, 766 N.Y.S.2d 719 (N.Y. App. Div., 3d Dept. 2003). See discussion in Merlin Law Group,{' '}
         <a href="https://www.propertyinsurancecoveragelaw.com/2017/12/articles/class-action/entitlement-to-overhead-and-profit-on-an-actual-cash-value-estimate/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
           &ldquo;Entitlement to Overhead and Profit on an Actual Cash Value Estimate&rdquo;
-        </a>
-        {' '}(discussing <em>Mazzocki</em> and related authority).
+        </a>.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -261,17 +257,35 @@ export default function Content() {
         <strong>Colorado</strong> &mdash; DORA Bulletin B-5.1 (1998) prohibits insurers from deducting contractors&rsquo; overhead and profit in addition to depreciation when policyholders do not repair or replace the structure. No dollar threshold or complexity requirement.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>California</strong> &mdash; While California has not issued a bulletin specifically naming O&amp;P, the{' '}
+        <strong>California</strong> &mdash; California presents a different picture from the states surveyed above. There is <strong>no published California appellate or Supreme Court decision</strong> that directly adopts the &ldquo;reasonably likely&rdquo; standard or the three-trade rule, and the California Department of Insurance has not issued a bulletin specifically naming O&amp;P. That gap is worth acknowledging honestly.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What California does provide is the{' '}
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">Fair Claims Settlement Practices regulations</Link>
-        {' '}(10 CCR 2695.9) require that insurer estimates reflect costs that will &ldquo;restore the damaged property to no less than its condition prior to the loss&rdquo; using &ldquo;accepted trade standards for good and workmanlike construction&rdquo; at costs &ldquo;accurate and representative of costs in the local market area.&rdquo; When repairs of that scope require a general contractor, the estimate must include the cost of one.
+        {' '}(10 CCR &sect; 2695.9), which require that insurer estimates reflect costs that will &ldquo;restore the damaged property to no less than its condition prior to the loss&rdquo; using &ldquo;accepted trade standards for good and workmanlike construction&rdquo; at costs &ldquo;accurate and representative of costs in the local market area.&rdquo; When repairs of that scope require a general contractor, the regulation supports the position that the estimate must include the cost of one. The out-of-state authority above is persuasive, not binding, in California courts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         <a href="https://www.law.cornell.edu/regulations/california/10-CCR-2695.9" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
           Read California&rsquo;s regulation at Cornell LII.
         </a>
       </p>
+
+      <CalloutBox variant="info" title="California vs. Texas: Where the Authority Comes From">
+        <p>
+          California and Texas land in similar places on O&amp;P, but for very different reasons.
+        </p>
+        <p className="mt-3">
+          <strong>Texas:</strong> No Texas Supreme Court or Texas state appellate decision has adopted the &ldquo;reasonably likely&rdquo; standard. The authority comes from (1) the Texas Department of Insurance Commissioner&rsquo;s Bulletin B-0045-98, which characterized withholding O&amp;P as an &ldquo;illegal windfall,&rdquo; and (2) federal district court decisions applying Texas law, principally <em>Ghoman v. New Hampshire Insurance Co.</em> A defense attorney could argue the federal cases are persuasive only and that the bulletin is not binding law &mdash; but the practical effect is that Texas insurers generally pay O&amp;P or face exposure.
+        </p>
+        <p className="mt-3">
+          <strong>California:</strong> No comparable bulletin and no appellate case law directly on point. The leverage comes from 10 CCR &sect; 2695.9&rsquo;s requirement that estimates reflect &ldquo;accepted trade standards&rdquo; and &ldquo;local market&rdquo; costs, combined with the persuasive weight of <em>Gilderman</em>, <em>Mee</em>, <em>Trinidad</em>, and the other authorities above. The argument is sound; it just has not been tested in a California appellate court.
+        </p>
+        <p className="mt-3">
+          The practical takeaway for California insureds: O&amp;P should be claimed on multi-trade losses, the regulation supports the claim, and out-of-state authority is persuasive &mdash; but no one should represent that a California appellate court has ruled on the issue, because none has.
+        </p>
+      </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Tennessee</strong> &mdash; The state Board of Licensing Contractors requires a licensed contractor on any project exceeding $25,000 or involving more than one subcontractor. This means that under Tennessee law, two trades &mdash; not three &mdash; can trigger the contractor requirement that supports an O&amp;P obligation.
+        <strong>Tennessee</strong> &mdash; Tenn. Code Ann. &sect; 62-6-102(3)(A) defines a &ldquo;contractor&rdquo; as a person who undertakes construction work when the total cost of the project is $25,000 or more. Subcontractors performing electrical, mechanical, plumbing, or HVAC work must hold their own licenses at the same threshold. The dollar threshold &mdash; not a count of trades &mdash; is what triggers Tennessee&rsquo;s licensing requirement, but on most multi-trade losses involving structural repair, the project will exceed $25,000 and a licensed general contractor will be required.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A comprehensive state-by-state chart of O&amp;P requirements, compiled by Matthiesen, Wickert &amp; Lehrer, is available as a reference document.
@@ -364,7 +378,7 @@ export default function Content() {
         <li><em>Tritschler v. Allstate Insurance Co.</em>, 213 Ariz. 505, 144 P.3d 519 (Ariz. Ct. App. 2006). <a href="https://caselaw.findlaw.com/court/az-court-of-appeals/1285810.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">FindLaw</a></li>
         <li><em>Ghoman v. New Hampshire Insurance Co.</em>, 159 F. Supp. 2d 928 (N.D. Tex. 2001). <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/159/928/2384313/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Justia</a></li>
         <li><em>Burgess v. Farmers Insurance Co.</em>, 151 P.3d 92, 2006 OK 66 (Okla. 2006). <a href="https://law.justia.com/cases/oklahoma/supreme-court/2006/448123.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Justia</a></li>
-        <li><em>Mazzocki v. State Farm</em>, 1 A.D.3d 9 (N.Y. App. Div., 3d Dept. 2003). <a href="https://www.propertyinsurancecoveragelaw.com/2017/12/articles/class-action/entitlement-to-overhead-and-profit-on-an-actual-cash-value-estimate/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Merlin Law Group analysis</a></li>
+        <li><em>Mazzocki v. State Farm Fire &amp; Cas. Corp.</em>, 1 A.D.3d 9, 766 N.Y.S.2d 719 (N.Y. App. Div., 3d Dept. 2003). <a href="https://www.propertyinsurancecoveragelaw.com/2017/12/articles/class-action/entitlement-to-overhead-and-profit-on-an-actual-cash-value-estimate/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Merlin Law Group analysis</a></li>
         <li><em>Windridge of Naperville Condo. Ass&rsquo;n v. Philadelphia Indemnity Ins. Co.</em>, 932 F.3d 1035 (7th Cir. 2019). <a href="https://law.justia.com/cases/federal/appellate-courts/ca7/18-2103/18-2103-2019-08-07.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Justia</a></li>
         <li><em>Kurach v. Truck Insurance Exchange</em>, 235 A.3d 1106 (Pa. 2020). <a href="https://law.justia.com/cases/pennsylvania/supreme-court/2020/12-eap-2019-0.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Justia</a></li>
       </ul>
