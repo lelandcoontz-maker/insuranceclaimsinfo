@@ -102,13 +102,14 @@ export default function Content() {
         The 12-Month Minimum (Non-Emergency)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2051.5(b)(1) provides that, for a non-emergency residential property claim, no time
-        limit of less than 12 months from the date that the first payment toward the actual cash
-        value is made shall be placed upon an insured to collect the full replacement cost
-        of the loss, subject to the policy limit. This is a floor, not a ceiling. If your policy
-        provides a longer period &mdash; some policies allow 18 or 24 months &mdash; the longer
-        policy period controls. But if your policy says 180 days or 6 months, the statute overrides
-        that shorter period in California. You get at least 12 months. The statute also requires
+        Section 2051.5(b)(1)(A) provides that, for a non-emergency residential property claim,
+        no time limit of less than 12 months from the date that the first payment toward the
+        actual cash value is made shall be placed upon an insured to collect the full
+        replacement cost of the loss, subject to the policy limit. This is a floor, not a
+        ceiling. If your policy provides a longer period &mdash; some policies allow 18 or
+        24 months &mdash; the longer policy period controls. But if your policy says 180 days
+        or 6 months, the statute overrides that shorter period in California. You get at least
+        12 months. A separate subsection, &sect; 2051.5(b)(2), requires the insurer to provide
         additional 6-month extensions &ldquo;for good cause.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -122,26 +123,27 @@ export default function Content() {
         The 36-Month Extended Period for Declared Emergencies
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2051.5(b)(1) also provides that, in the event of a loss relating to a
-        &ldquo;state of emergency&rdquo; as defined in Government Code &sect; 8558, no time limit
-        of less than 36 months from the date that the first payment toward the actual cash value
-        is made shall be placed upon the insured to collect the full replacement cost of the loss,
-        subject to the policy limit. This extended period reflects the reality that major
-        disasters &mdash; wildfires, earthquakes, floods &mdash; create circumstances where
-        repairs take far longer than normal. Contractor shortages, permitting backlogs, material
-        supply chain disruptions, and the volume of damaged properties in the affected area
-        all contribute to extended timelines.
+        Section 2051.5(b)(1)(B) provides that, in the event of a loss relating to a
+        &ldquo;state of emergency&rdquo; as defined in Government Code &sect; 8558, no time
+        limit of less than 36 months from the date that the first payment toward the actual
+        cash value is made shall be placed upon the insured to collect the full replacement
+        cost of the loss, subject to the policy limit. This extended period reflects the
+        reality that major disasters &mdash; wildfires, earthquakes, floods &mdash; create
+        circumstances where repairs take far longer than normal. Contractor shortages,
+        permitting backlogs, material supply chain disruptions, and the volume of damaged
+        properties in the affected area all contribute to extended timelines.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The 36-month period is also a minimum. The same subsection requires additional 6-month
-        extensions for good cause, which the statute contemplates for situations where
-        circumstances beyond the policyholder&apos;s control prevent timely completion. If you
-        are in a declared disaster area and the construction timeline stretches beyond 36 months
-        due to permitting delays, contractor availability, or supply chain issues, you should be
-        requesting an extension well before the deadline arrives. (Separately, &sect; 2051.5(c)(1),
-        as amended by AB 1800, confirms an insured&rsquo;s right to collect full replacement cost
-        whether rebuilding at the current location, rebuilding at a new location, or purchasing
-        an already built home at a new location.)
+        The 36-month period is also a minimum. Section 2051.5(b)(2) requires the insurer to
+        provide additional 6-month extensions for good cause, which the statute contemplates
+        for situations where circumstances beyond the policyholder&apos;s control prevent
+        timely completion. If you are in a declared disaster area and the construction
+        timeline stretches beyond 36 months due to permitting delays, contractor availability,
+        or supply chain issues, you should be requesting an extension well before the deadline
+        arrives. (Separately, &sect; 2051.5(c)(1), as amended by AB 1800, confirms an
+        insured&rsquo;s right to collect full replacement cost whether rebuilding at the
+        current location, rebuilding at a new location, or purchasing an already built home
+        at a new location.)
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -342,7 +344,7 @@ export default function Content() {
         Declared State of Emergency
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2051.5(b)(1) extends the minimum deadline to 36 months for
+        Section 2051.5(b)(1)(B) extends the minimum deadline to 36 months for
         losses related to a Governor-declared state of emergency. This provision exists because the
         legislature recognized that catastrophic events create systemic delays that no individual
         policyholder can overcome: entire communities need contractors simultaneously, building
@@ -926,7 +928,7 @@ export default function Content() {
         },
         {
           question: 'What deadline does California impose for recovering depreciation?',
-          answer: 'California Insurance Code §2051.5(b)(1) sets the minimum at no fewer than 12 months from the date that the first payment toward the actual cash value is made for residential property claims. For losses related to a Governor-declared state of emergency (wildfires, earthquakes, floods), the same subsection extends the minimum to 36 months, with additional 6-month extensions "for good cause." These statutory minimums override any shorter deadline in your policy — but if your policy provides a longer period (some allow 18 or 24 months for non-emergency claims), the longer policy period controls.',
+          answer: 'California Insurance Code §2051.5(b)(1)(A) sets the minimum at no fewer than 12 months from the date that the first payment toward the actual cash value is made for residential property claims. For losses related to a Governor-declared state of emergency (wildfires, earthquakes, floods), §2051.5(b)(1)(B) extends the minimum to 36 months, and a separate subsection — §2051.5(b)(2) — requires the insurer to grant additional 6-month extensions "for good cause." These statutory minimums override any shorter deadline in your policy — but if your policy provides a longer period (some allow 18 or 24 months for non-emergency claims), the longer policy period controls.',
         },
         {
           question: 'When exactly does the depreciation clock start?',
