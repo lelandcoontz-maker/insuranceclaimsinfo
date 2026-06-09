@@ -44,7 +44,7 @@ export default function Content() {
             <tr className="bg-gray-50">
               <td className="p-3 font-bold text-[#1F3964]">15 days</td>
               <td className="p-3">Begin investigation of the claim</td>
-              <td className="p-3 text-gray-500">10 CCR &sect; 2695.7(a)</td>
+              <td className="p-3 text-gray-500">10 CCR &sect; 2695.5(e)(3)</td>
             </tr>
             <tr className="bg-white">
               <td className="p-3 font-bold text-[#1F3964]">40 days</td>
@@ -99,14 +99,14 @@ export default function Content() {
         <li>If denied: provide a written denial citing the specific policy provision, statute, or factual basis (10 CCR &sect; 2695.7(b)(1)).</li>
         <li>If partially denied: pay the undisputed portion immediately and explain in writing why the rest is disputed.</li>
         <li>If accepted: pay undisputed amounts within 30 days of agreement.</li>
-        <li>Explain in writing how the payment amount was calculated (10 CCR &sect; 2695.9).</li>
+        <li>Provide a written scope and estimate showing how the payment amount was calculated (10 CCR &sect; 2695.9(d)).</li>
       </ul>
 
       <h3 className="text-xl font-bold text-gray-900 mb-3">When They Pay</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Provide itemized documentation showing how the amount was determined.</li>
         <li>Not condition payment on release of the entire claim if amounts remain in dispute.</li>
-        <li>Not delay payment of undisputed amounts to pressure you on disputed amounts (Insurance Code &sect; 790.03(h)(5); 10 CCR &sect; 2695.7(h)).</li>
+        <li>Not delay payment of undisputed amounts to pressure you on disputed amounts (Insurance Code &sect; 790.03(h)(12); 10 CCR &sect; 2695.7(h)).</li>
         <li>On replacement cost policies: pay ACV promptly, then pay the depreciation holdback after repairs are completed.</li>
       </ul>
 
