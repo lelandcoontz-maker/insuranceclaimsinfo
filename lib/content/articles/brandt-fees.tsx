@@ -314,11 +314,14 @@ export default function Content() {
           without bad faith, does not support Brandt fee recovery.
         </li>
         <li>
-          <strong>&ldquo;Brandt fees are awarded by the court.&rdquo;</strong> Technically
-          incorrect. Because Brandt fees are compensatory damages, they are determined by the
-          trier of fact (jury or judge in a bench trial), not awarded by the court as a
-          post-judgment fee motion. This is different from statutory fee-shifting, where the
-          court typically determines the fee amount after judgment.
+          <strong>&ldquo;Brandt fees are awarded by the court.&rdquo;</strong> Partially
+          incorrect. By default under <em>Brandt</em>, Brandt fees are determined by the trier
+          of fact (jury or judge in a bench trial) as an element of compensatory damages
+          &mdash; not awarded by the court as a post-judgment fee motion under a statutory
+          fee-shifting analysis. <em>Brandt</em> does permit the parties to stipulate that the
+          court will determine the Brandt fee amount post-trial, and that stipulated procedure
+          is commonly used in practice. But absent stipulation, the default rule is that the
+          jury decides the amount.
         </li>
         <li>
           <strong>&ldquo;Brandt fees only matter in large cases.&rdquo;</strong> Incorrect. In
