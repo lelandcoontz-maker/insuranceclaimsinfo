@@ -313,7 +313,9 @@ export default function Content() {
           asbestos-containing material (RACM) be removed before demolition or renovation that
           would disturb it. The building owner must provide written notice to the EPA or
           delegated agency at least 10 working days before demolition begins. Failure to comply
-          is a federal violation carrying penalties of up to $37,500 per day.
+          is a federal violation carrying substantial civil penalties under Clean Air Act
+          &sect; 113(b) &mdash; over $124,000 per day per violation as of EPA&rsquo;s January
+          2025 inflation adjustment, and adjusted annually thereafter.
         </li>
         <li>
           <strong>Cal/OSHA (Title 8, Section 1529).</strong> California&rsquo;s asbestos
