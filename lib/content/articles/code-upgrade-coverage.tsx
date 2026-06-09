@@ -230,19 +230,20 @@ export default function Content() {
           refrigerant lines.
         </li>
         <li>
-          <strong>Duct system replacement &mdash; Title 24, Part 6, Section 150.0(m):</strong> This
-          is one of the most frequently missed code triggers in L&amp;O claims. When any HVAC
-          equipment is altered or replaced &mdash; including the air handler, furnace, coil, or any
-          modification to connected ducting &mdash; the <em>entire duct system</em> must be brought
-          into compliance with current code. This means R-8 insulation on all accessible ducts,
-          SMACNA-compliant mechanical fastening at all joints, and mandatory HERS (Home Energy Rating
-          System) verification of duct leakage performance. Existing ductwork in older homes cannot
-          pass the mandatory HERS leakage test through partial repair alone &mdash; the joints, seams,
-          connections, and duct liner have deteriorated too far. The practical result is that full
-          duct system replacement is required whenever the HVAC equipment is replaced after a covered
-          loss. This single code section can add <strong>$10,000 to $30,000 or more</strong> to a
-          claim, and insurers routinely pay only for duct &ldquo;cleaning&rdquo; rather than the
-          code-required replacement.
+          <strong>Duct system standards &mdash; Title 24, Part 6, Section 150.0(m):</strong>{' '}
+          This is one of the most frequently missed code triggers in L&amp;O claims. When new
+          or altered duct sections are installed &mdash; including in connection with HVAC
+          equipment change-outs that involve duct modification &mdash; the affected duct
+          system must meet current code: R-8 insulation on ducts in unconditioned spaces,
+          sealed joints, and mandatory HERS (Home Energy Rating System) verification of duct
+          leakage performance in the applicable climate zones. Existing ductwork in older
+          homes frequently fails the HERS leakage test because the joints, seams, and duct
+          liner have deteriorated over time. The practical result is that significant duct
+          sealing, repair, or partial-to-full duct replacement is commonly required to pass
+          the verification &mdash; and the cost of that work, depending on scope, can add
+          <strong> $10,000 to $30,000 or more</strong> to a claim. Insurers routinely pay only
+          for duct &ldquo;cleaning&rdquo; rather than the code-required sealing, retesting,
+          and any replacement work needed to achieve compliance.
         </li>
         <li>
           <strong>Heat pump water heaters:</strong> California is aggressively mandating heat pump
@@ -316,11 +317,12 @@ export default function Content() {
         </li>
         <li>
           <strong>Low-flow fixtures:</strong> Current California code requires low-flow toilets
-          (1.28 gallons per flush or less), low-flow showerheads (2.0 GPM or less), and low-flow
-          faucets. If your repair involves replacing plumbing fixtures, the replacements must meet
-          current flow-rate requirements. While individual fixture costs may be modest, the
-          aggregate cost across a full-house renovation can be significant, particularly when
-          older toilets require different rough-in dimensions.
+          (1.28 gallons per flush or less), low-flow showerheads (1.8 GPM or less at 80 psi
+          under Title 20 &sect; 1605.1 Tier 2, effective July 2018), and low-flow faucets. If
+          your repair involves replacing plumbing fixtures, the replacements must meet current
+          flow-rate requirements. While individual fixture costs may be modest, the aggregate
+          cost across a full-house renovation can be significant, particularly when older
+          toilets require different rough-in dimensions.
         </li>
         <li>
           <strong>Anti-scald valves (thermostatic mixing valves):</strong> Current code requires
@@ -475,12 +477,16 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="Rebuilding Rights After Disaster">
         <p>
-          California law provides some protections for homeowners rebuilding after a declared
-          disaster. Government Code Section 65852.25 and related provisions may allow rebuilding
-          of a non-conforming structure to its pre-loss condition in certain disaster situations.
-          However, these protections are not absolute, vary by jurisdiction, and may not apply to
-          all types of non-conformity. Consult with your local planning department and an attorney
-          to understand your specific rights.
+          California law provides some protections for property owners rebuilding after a
+          declared disaster, but the specific authority varies by structure type and
+          jurisdiction. For multifamily dwellings, Government Code &sect; 65852.25 limits local
+          ordinances that would prohibit rebuilding to predamaged size and unit count after fire
+          or catastrophic damage, subject to health-and-safety exceptions. For single-family
+          and other property types, post-disaster rebuilding rights typically derive from a
+          combination of state statutes, local ordinances, and the local zoning code&rsquo;s
+          treatment of non-conforming uses. These protections are not absolute and vary by
+          jurisdiction. Consult with the local planning department and an attorney to
+          understand the rights that apply to a specific situation.
         </p>
       </CalloutBox>
 
