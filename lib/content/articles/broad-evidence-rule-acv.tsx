@@ -368,20 +368,35 @@ export default function Content() {
         A recurring question within the matching scenario is whether the insurer may
         depreciate <strong>undamaged</strong> items that are replaced solely to achieve a
         reasonably uniform appearance. The California Fair Claims Settlement Practices
-        Regulations answer this directly: <strong>no.</strong>
+        Regulations answer this directly: <strong>no.</strong> The full operative text:
       </p>
+      <CalloutBox variant="legal" title="10 CCR § 2695.9(a) — Full Text">
+        <p className="italic">
+          (a) When a residential or commercial property insurance policy provides for the
+          adjustment and settlement of first party losses based on replacement cost, the
+          following standards apply:
+        </p>
+        <p className="italic mt-3">
+          (1) When a loss requires repair or replacement of an item or part, any consequential
+          physical damage incurred in making the repair or replacement not otherwise excluded
+          by the policy shall be included in the loss. The insured shall not have to pay for
+          depreciation nor any other cost except for the applicable deductible.
+        </p>
+        <p className="italic mt-3">
+          (2) When a loss requires replacement of items and the replaced items do not match in
+          quality, color or size, the insurer shall replace all items in the damaged area so
+          as to conform to a reasonably uniform appearance.
+        </p>
+      </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">
-        10 CCR &sect; 2695.9(a) opens by announcing that &ldquo;when a residential or
-        commercial property insurance policy provides for the adjustment and settlement of
-        first party losses based on replacement cost, the following standards apply.&rdquo;
-        Subsection (a)(1) then provides that &ldquo;the insured shall not have to pay for
-        depreciation nor any other cost except for the applicable deductible.&rdquo; And
-        subsection (a)(2) is the matching standard itself &mdash; the insurer must replace
-        all items in the damaged area to conform to a reasonably uniform appearance. Both
-        (a)(1) and (a)(2) are &ldquo;standards&rdquo; the regulation imposes on
-        replacement-cost-policy losses under the (a) preamble. The (a)(1) limit that the
-        insured pays only the deductible applies across the (a) framework, including to
-        items the insurer must replace under (a)(2) to achieve uniform appearance.
+        The structure is plain on the face of the regulation. Both (a)(1) and (a)(2) are
+        &ldquo;standards&rdquo; the regulation imposes on replacement-cost-policy losses
+        under the (a) preamble. The (a)(1) rule that the insured pays only the deductible
+        is a stand-alone sentence &mdash; it is not limited to the consequential-damage rule
+        in the preceding sentence; it states an independent limit on what the insured pays.
+        The (a)(2) matching obligation requires replacement of items in the damaged area to
+        achieve uniform appearance. When the insurer is compelled by (a)(2) to replace
+        items, the insured pays only the deductible &mdash; (a)(1) says so.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Two reinforcing points strengthen the conclusion. <strong>First,</strong> the labor
