@@ -151,48 +151,30 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Kentucky: <em>Estes v. State Farm Fire &amp; Casualty Co.</em>
+        Kentucky: <em>Hicks v. State Farm Fire &amp; Casualty Co.</em>
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Estes v. State Farm Fire &amp; Casualty Co.</em>, the Kentucky court examined
-        whether State Farm could depreciate both labor and materials when determining ACV on a
-        property damage claim. The policyholder argued that labor is a cost of restoration, not
-        a physical component of the damaged property, and therefore cannot depreciate.
+        The Sixth Circuit addressed labor depreciation under Kentucky law in{' '}
+        <em>Hicks v. State Farm Fire &amp; Cas. Co.</em>, No. 18-5104, 2018 WL 4961391 (6th
+        Cir. Oct. 15, 2018). State Farm calculated ACV by depreciating both materials and
+        labor. The Kentucky ACV regulation defined ACV as &ldquo;replacement cost minus
+        depreciation&rdquo; but did not itself define &ldquo;depreciation.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The court agreed. It held that depreciation reflects the physical deterioration of
-        tangible materials over time. Labor, as a service, does not physically deteriorate.
-        The court found that State Farm&apos;s depreciation of labor was improper and that
-        ACV should be calculated by depreciating only the materials, not the labor required
-        to install them.
+        A two-judge panel held the regulation ambiguous because a layperson could reasonably
+        interpret depreciation to include only materials. Because the policy and regulation
+        were ambiguous, they had to be construed in favor of the insured to prohibit labor
+        depreciation from being deducted from actual cash value payments. The court
+        affirmed the district court&apos;s holding that &ldquo;depreciation of labor in
+        calculating ACV is improper&rdquo; and that &ldquo;depreciated labor costs would
+        result in underindemnification.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The <em>Estes</em> decision is frequently cited in labor depreciation disputes
-        because it directly confronts the logical impossibility of depreciating a service.
-        The court&apos;s reasoning is straightforward: you cannot wear out the act of
-        installing something.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Oklahoma: <em>Redcorn v. State Farm Fire &amp; Casualty Co.</em>
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Oklahoma addressed the issue in <em>Redcorn v. State Farm Fire &amp; Casualty Co.</em>,
-        a case involving hail damage where State Farm depreciated both labor and materials in
-        calculating ACV. The policyholder challenged the labor depreciation component.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The court examined the ordinary meaning of &ldquo;depreciation&rdquo; and concluded
-        that the term refers to a loss in value due to physical wear and deterioration.
-        Because labor is a service, not a physical component of the property, it does not
-        experience physical wear and deterioration. The court prohibited the practice of
-        depreciating labor, holding that ACV calculations must depreciate only the materials
-        that have actually lost value due to physical aging.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The <em>Redcorn</em> decision is notable for the clarity of its reasoning. The court
-        did not find the question to be close or ambiguous. Labor does not wear out. The
-        analysis was as simple as that.
+        <em>Hicks</em> rescued labor-depreciation class actions against insurers in Kentucky
+        and is frequently cited in disputes elsewhere, though its precedential reach outside
+        Kentucky is limited and other federal courts (including the Northern District of
+        Ohio in <em>Perry v. Allstate Indem. Co.</em>) have declined to follow its
+        reasoning.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -216,20 +198,26 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Michigan: <em>Liss v. Homeowners Choice</em>
+        Michigan: DIFS Bulletin 2024-18-INS
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Michigan courts have addressed the labor depreciation question in <em>Liss v.
-        Homeowners Choice</em>, where the insurer depreciated both labor and materials on a
-        property damage claim. The policyholder argued that labor cannot &ldquo;wear out&rdquo;
-        and should not be subject to depreciation.
+        Michigan addressed labor depreciation through regulatory action rather than
+        litigation. In July 2024, the Michigan Department of Insurance and Financial
+        Services (DIFS) issued <strong>Bulletin 2024-18-INS</strong>,{' '}
+        <em>Depreciation of Nontangible Items</em>, which prohibits personal lines
+        homeowners and dwelling insurers from depreciating labor or other nontangible
+        costs when determining actual cash value, absent a standalone endorsement
+        delineating the nontangible items subject to depreciation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The court examined the nature of labor as a service performed at a specific point in
-        time. Unlike a shingle or a pipe that degrades over years of exposure to the elements,
-        the service of installing that shingle or pipe does not continue to exist in a form
-        that can deteriorate. The court found that depreciating labor was improper because
-        labor simply does not have the physical characteristics that allow for depreciation.
+        Michigan&rsquo;s 2024 bulletin reflects a growing trend among state insurance
+        regulators to address labor depreciation directly through administrative action.
+        Other states with similar recent regulatory action include Alaska (Division of
+        Insurance bulletin, May 2024) and Wyoming (Commissioner of Insurance bulletin,
+        April 2023), both prohibiting depreciation of labor costs in ACV calculations.
+        The regulatory route has the advantage of producing a uniform rule that applies
+        to all insurers in the state without requiring each policyholder to litigate
+        the issue.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -306,12 +294,22 @@ export default function Content() {
         that it does not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Texas and Mississippi are among the states where courts have been more receptive to
-        the insurance industry&apos;s position on labor depreciation. In Texas, the <em>Lam
-        v. United Property &amp; Casualty Insurance Co.</em> line of cases allowed depreciation
-        of embedded labor, though the reasoning has drawn criticism from legal commentators.
-        These decisions focus heavily on the policy language and less on the nature of
-        depreciation itself.
+        Texas and Mississippi are among the states where courts have historically been more
+        receptive to the insurance industry&apos;s position on labor depreciation, though
+        Texas authority is actually split. <em>Tolar v. Allstate Texas Lloyd&apos;s Co.</em>,
+        772 F. Supp. 2d 825 (N.D. Tex. 2011) is the canonical pro-depreciation Texas
+        federal decision, treating the policy&apos;s use of &ldquo;depreciation&rdquo;
+        without express labor carve-out as unambiguously permitting depreciation of the
+        whole. More recently, however, <em>Sims v. Allstate Fire &amp; Cas. Ins. Co.</em>
+        (W.D. Tex. Jan. 11, 2023) reached the opposite conclusion on similar policy
+        language, holding the undefined &ldquo;actual cash value&rdquo; ambiguous and
+        construing it against the insurer to prohibit labor depreciation. <em>Sims</em>
+        is a non-binding trial-court decision but reflects the current split in Texas
+        federal courts. The Oklahoma Supreme Court&apos;s 2002 decision in <em>Redcorn
+        v. State Farm Fire &amp; Cas. Co.</em>, 55 P.3d 1017 is another leading
+        pro-depreciation decision &mdash; it applied the broad evidence rule to allow
+        depreciation of the whole installed product including labor, drawing a sharp
+        dissent that became influential in later cases going the other way.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -697,14 +695,19 @@ export default function Content() {
         Step 5: Out-of-State Authority Is Background, Not Required
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Because California has its own express statutory prohibition, out-of-state cases are
-        not strictly necessary to make the challenge. They are useful as background &mdash; they
-        show that courts and regulators in Arkansas (<em>Adams v. Cameron Mutual</em>), Kentucky
-        (<em>Estes v. State Farm</em>), Oklahoma (<em>Redcorn v. State Farm</em>), and others
-        all reached the same conclusion as the California legislature. If the carrier pushes
-        back, cite the California statute and regulation first; the out-of-state authority can
-        be brought in to reinforce the conclusion that the national consensus aligns with the
-        California rule.
+        Because California has its own express regulatory prohibition, out-of-state cases
+        are not strictly necessary to make the challenge. They are useful as background
+        &mdash; they show that courts and regulators in Arkansas (<em>Adams v. Cameron
+        Mutual</em> (2013); <em>Shelter Mut. Ins. Co. v. Goodner</em> (2015)), Kentucky
+        (<em>Hicks v. State Farm Fire &amp; Cas. Co.</em> (6th Cir. 2018)), Michigan
+        (DIFS Bulletin 2024-18-INS), Alaska, Wyoming, and others have reached the same
+        conclusion the California regulation already states. Note also that authority is
+        not uniform: Oklahoma (<em>Redcorn v. State Farm</em> (2002)), Nebraska (<em>Henn
+        v. American Family</em> (2017)), Pennsylvania, and Indiana have gone the other
+        way under the broad evidence rule. If the carrier pushes back, cite the
+        California regulation first; the out-of-state authority can be brought in to
+        reinforce the conclusion that California&apos;s rule reflects the better-reasoned
+        national trend.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
