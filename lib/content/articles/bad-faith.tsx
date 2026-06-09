@@ -331,12 +331,12 @@ export default function Content() {
             delay.
           </li>
           <li>
-            <strong>Statutory violation as evidence of bad faith:</strong> The insurer fails to
-            conduct a reasonable investigation (§ 790.03(h)(3)), writes a scope that ignores three
-            damaged rooms, and offers $15,000 on a $60,000 loss. The statutory violation (failure
-            to investigate) is not independently actionable, but it is powerful evidence that the
-            insurer acted in bad faith — the inadequate investigation explains <em>why</em> the
-            offer is unreasonably low.
+            <strong>Regulatory violation as evidence of bad faith:</strong> The insurer fails to
+            conduct a thorough, fair, and objective investigation (10 CCR &sect; 2695.7(d)),
+            writes a scope that ignores three damaged rooms, and offers $15,000 on a $60,000
+            loss. The regulatory violation is not independently actionable, but it is powerful
+            evidence that the insurer acted in bad faith &mdash; the inadequate investigation
+            explains <em>why</em> the offer is unreasonably low.
           </li>
           <li>
             <strong>Regulatory violation supporting bad faith:</strong> The insurer violates
@@ -597,12 +597,14 @@ export default function Content() {
         &ldquo;few awards exceeding a single-digit ratio between punitive and compensatory
         damages, to a significant degree, will satisfy due process.&rdquo; The California
         Supreme Court applied this guidance in <em>Simon v. San Paolo U.S. Holding Co.</em>
-        (2005) 35 Cal.4th 1159, reducing a 10:1 punitive award to a 1:1 ratio in the
-        circumstances of that case and treating double-digit ratios as constitutionally
-        problematic outside narrow circumstances. And in <em>Roby v. McKesson Corp.</em> (2009)
-        47 Cal.4th 686, 719, the California Supreme Court held that where compensatory damages
-        are &ldquo;substantial&rdquo; (and especially where they include a significant
-        noneconomic component), a 1:1 ratio may be the constitutional maximum.
+        (2005) 35 Cal.4th 1159, where the jury had awarded $1.7 million in punitive damages
+        against approximately $5,000 in compensatory damages &mdash; a ratio of roughly
+        340-to-1. The Court reduced the punitive award to $50,000 (a 10-to-1 ratio), which
+        it identified as the constitutional ceiling on the facts of that case. And in{' '}
+        <em>Roby v. McKesson Corp.</em> (2009) 47 Cal.4th 686, 719, the California Supreme
+        Court held that where compensatory damages are &ldquo;substantial&rdquo; (and
+        especially where they include a significant noneconomic component), a 1-to-1 ratio
+        may be the constitutional maximum.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In practice, this means that the realistic punitive damages exposure in California
