@@ -170,24 +170,36 @@ export default function Content() {
       <CalloutBox variant="tip" title="Key California Cases and Statute">
         <ul className="list-disc pl-4 space-y-1">
           <li>
-            <strong>Cal. Ins. Code &sect; 2051(b)</strong> — the controlling authority:
-            ACV is replacement cost less a fair and reasonable deduction for physical
-            depreciation (statutory, applies to total and partial losses).
+            <strong>Cal. Ins. Code &sect; 2051(b)</strong> &mdash; the controlling
+            authority: ACV is replacement cost less a fair and reasonable deduction for
+            physical depreciation (statutory, applies to total and partial losses).
           </li>
           <li>
-            <em>Doan v. State Farm</em> (2011) 195 Cal.App.4th 1082 — physical condition
-            standard for depreciation; insurer cannot use age-only formula.
+            <em>Doan v. State Farm General Ins. Co.</em> (2011) 195 Cal.App.4th 1082 &mdash;
+            two layers. The binding appellate holding is procedural: a policyholder may
+            challenge the insurer&rsquo;s depreciation methodology in court through
+            declaratory relief, rather than being forced into appraisal, because an
+            appraiser has no authority to decide whether the insurer&rsquo;s method of
+            calculating depreciation breaches the contract or violates &sect; 2051. The
+            substantive condition-not-age rule the case is best known for came from the
+            2016 trial-court ruling on remand &mdash; the correct standard, but not
+            statewide-binding precedent.
           </li>
           <li>
-            <em>Jefferson Ins. Co. v. Superior Court</em> (1970) 3 Cal.3d 398 — holds that
-            ACV is a question of law for the court, not appraisers; pre-dates and is
-            consistent with the modern statutory ACV framework in &sect; 2051(b).
+            <em>Jefferson Ins. Co. v. Superior Court</em> (1970) 3 Cal.3d 398 &mdash;
+            appraisers decide the amount of loss as a question of fact, but an appraisal
+            award must be vacated if based on a misinterpretation of &ldquo;actual cash
+            value&rdquo; (a question of law). The historical <em>Jefferson</em> definition
+            of ACV as fair market value has been superseded by &sect; 2051(b), but
+            <em> Jefferson</em>&rsquo;s line between appraisers&rsquo; fact-finding
+            authority and the court&rsquo;s legal-interpretation authority remains
+            controlling.
           </li>
           <li>
             <em>Cheeks v. California FAIR Plan Ass&rsquo;n</em> (1998) 61 Cal.App.4th 423
-            — historical only. Applied a fair-market-value / broad-evidence approach that
-            the Legislature subsequently <strong>superseded</strong> by codifying ACV in
-            &sect; 2051(b).
+            &mdash; historical only. Applied a fair-market-value / broad-evidence approach
+            that the Legislature subsequently <strong>superseded</strong> by codifying ACV
+            in &sect; 2051(b).
           </li>
         </ul>
       </CalloutBox>
