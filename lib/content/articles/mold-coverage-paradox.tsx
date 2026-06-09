@@ -241,7 +241,20 @@ export default function Content() {
         Mold coverage regulation varies significantly by state. Some states mandate that insurers offer mold coverage, while others leave it entirely to the market. Understanding your state&rsquo;s regulatory framework helps you know what protections are available and what additional coverage to purchase.
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>New Jersey:</strong> NJ Department of Banking and Insurance Bulletin 02-14 (August 2002) rejects total mold exclusions and requires carriers to offer mold/fungi coverage at a <strong>minimum $10,000 aggregate limit</strong>, with optional higher limits of $25,000 and $50,000 to be made available. The $10,000 minimum must cover loss to property caused by mold, removal costs, tear-out and replacement to gain access, and testing to confirm presence or absence. Coverage applies only when the mold loss results from a covered peril.</li>
+        <li><strong>New Jersey:</strong> NJ Department of Banking and Insurance Bulletin
+        03-24 (September 11, 2003), which replaced and updated the earlier Bulletin 02-14
+        (July 8, 2002), provides guidelines for mold/fungus coverage offered by New Jersey
+        property and casualty insurers. Under the framework, mold coverage should be offered
+        at a <strong>minimum $10,000 annual aggregate limit</strong> on the property side,
+        with optional higher limits of $25,000 and $50,000 made available. The $10,000
+        aggregate must include loss to property caused by mold, fungi, wet or dry rot, or
+        bacteria; the cost to remove those substances; the cost to tear out and replace any
+        part of the building as needed to gain access; and the cost of testing to confirm
+        the presence, absence, or level of mold, fungi, wet or dry rot, or bacteria.
+        Coverage applies only when the mold loss results from a peril insured against, and
+        the limitation does not apply to losses due to fire and lightning. On the liability
+        side, coverage should apply up to at least $50,000 aggregate, with optional higher
+        limits up to $100,000.</li>
         <li><strong>Texas:</strong> After the early-2000s mold litigation wave, Texas restructured its homeowner forms and moved to company-filed forms. Insurers must file mold endorsements and disclosures with the Texas Department of Insurance, and many carriers offer mold sublimits commonly starting at $5,000. <strong>There is no TDI regulation mandating a specific minimum mold limit</strong> on every policy &mdash; the $5,000 figure reflects common market practice, not a regulatory floor. Texas policyholders should ask their carrier about available mold endorsements and confirm the specific sublimit on the declarations page.</li>
         <li><strong>California:</strong> The California Department of Insurance has emphasized clear disclosure of mold-related limits and exclusions and fair claims handling on water and mold losses under the Unfair Insurance Practices Act and the Fair Claims Settlement Practices Regulations. <strong>California has not adopted a numeric statewide minimum mold coverage requirement</strong> &mdash; unlike New Jersey&rsquo;s $10,000 floor. Most California carriers offer a default mold sublimit (commonly $5,000) with endorsements to increase that amount to $10,000, $25,000, or higher.</li>
       </ul>
