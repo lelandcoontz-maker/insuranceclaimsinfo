@@ -98,6 +98,20 @@ export default function Content() {
         The lesson from <em>Hart</em> and <em>Haddock</em> applies broadly, even though both are Michigan federal decisions interpreting Michigan&apos;s SFP statute: read the appraisal provision in the actual policy, compare it to the statutory standard, and where the policy adds conditions the legislature never authorized, those conditions are at least worth questioning. Persuasive authority from another SFP state is not binding on California courts, but the structural logic &mdash; that the statutory floor governs &mdash; is the same.
       </p>
 
+      <CalloutBox variant="important" title="Legally Correct ≠ Practically Wise">
+        <p>
+          Identifying an unenforceable insurer-added prerequisite is not the same as a license
+          to ignore it. If the policyholder refuses to comply with a condition that the SFP
+          floor doesn&rsquo;t authorize, the practical consequence is usually denial &mdash;
+          followed by litigation to prove the condition was unenforceable. Most policyholders
+          do not want that fight. The safer path is generally to comply under protest,
+          preserve the objection in writing, and let the legal argument be raised in
+          negotiation or later if needed. Whether a specific prerequisite is worth challenging
+          and how to do so are decisions for an attorney evaluating the specific facts and
+          policy language.
+        </p>
+      </CalloutBox>
+
       <CalloutBox variant="warning" title="One Important §2071 Carve-Out">
         <p>
           California&apos;s &sect;&nbsp;2071 contains a government-disaster exception to
