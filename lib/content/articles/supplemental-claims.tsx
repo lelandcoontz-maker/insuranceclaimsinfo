@@ -175,15 +175,20 @@ export default function Content() {
         <ul className="list-disc pl-6 space-y-2">
           <li>
             <strong><em>Campbell v. Allstate Ins. Co.</em></strong> (1963) 60 Cal.2d 303 &mdash;
-            The California Supreme Court established that strict compliance with proof of loss
-            deadlines is not required. Substantial compliance is sufficient, and the insurer
-            must show actual prejudice before denying a claim for late filing.
+            The California Supreme Court established the general rule that an insurer cannot
+            rely on an insured&rsquo;s breach of a policy condition (the case itself involved
+            the cooperation clause) unless the insurer was substantially prejudiced by the
+            breach. The burden of proving prejudice falls on the insurer. Campbell is the
+            foundational California authority for the notice-prejudice rule as applied to
+            policy conditions generally.
           </li>
           <li>
             <strong><em>Henderson v. Farmers Group, Inc.</em></strong> (1992) 6 Cal.App.4th
-            1404 &mdash; Reinforced that insurers must demonstrate actual prejudice resulting
-            from late notice or a late proof of loss. The burden of proving prejudice falls
-            squarely on the insurer.
+            1404 &mdash; The Court of Appeal applied the same prejudice requirement
+            specifically to <em>proof of loss</em> provisions in first-party property claims.
+            Henderson is the principal California decision holding that late or imperfect
+            proof of loss does not forfeit coverage absent a showing of actual prejudice to
+            the insurer.
           </li>
         </ul>
       </CalloutBox>
