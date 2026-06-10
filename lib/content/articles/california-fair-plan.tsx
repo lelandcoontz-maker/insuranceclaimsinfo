@@ -193,9 +193,9 @@ export default function Content() {
         <strong>California Insurance Code &sect; 2070</strong>, the Standard Fire Policy
         statute that sets the floor for fire-insurance coverage in this state. The court relied on the
         California Supreme Court&rsquo;s definition of &ldquo;direct physical loss or damage&rdquo;
-        in <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 548 P.3d
-        303, which held that &ldquo;physical alteration&rdquo; &ldquo;need not be visible to the
-        naked eye.&rdquo; An insurer can write broader coverage than &sect; 2070 requires &mdash;
+        in <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 15
+        Cal.5th 1106, 548 P.3d 303, which held that &ldquo;physical alteration&rdquo;
+        &ldquo;need not be visible to the naked eye.&rdquo; An insurer can write broader coverage than &sect; 2070 requires &mdash;
         but it cannot write narrower coverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
