@@ -91,9 +91,20 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Do Not Ignore the Request">
         <p>
-          Even though California law limits the insurer&rsquo;s ability to deny a claim solely for
-          failure to submit a proof of loss, ignoring the request creates unnecessary friction. Treat
-          it as an important step in the process and complete it promptly.
+          Even though California law limits the insurer&rsquo;s ability to deny a claim solely
+          for failure to submit a proof of loss, ignoring the request creates unnecessary
+          friction. Treat it as an important step in the process and complete it promptly.
+        </p>
+        <p className="mt-3">
+          <strong>Legally correct is not always practically wise.</strong> Knowing that the
+          prejudice rule may protect the insured is not the same as a license to skip the
+          proof-of-loss request. If the insurer denies on procedural grounds, vindicating the
+          insured&rsquo;s position usually means litigation &mdash; expensive, slow, and not
+          assured of success. The safer path is to comply on time (or request an extension in
+          writing before the deadline) and let the prejudice analysis be raised only if the
+          insurer actually relies on the timing for denial. The specific deadline and procedural
+          requirements are policy-dependent &mdash; read the actual policy in addition to the
+          &sect; 2071 statutory floor.
         </p>
       </CalloutBox>
 

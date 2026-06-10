@@ -270,11 +270,21 @@ export default function Content() {
       <CalloutBox variant="important" title="Why This Matters After a Fire">
         <p>
           If your home was damaged or destroyed by fire, and the insurer is asserting
-          misrepresentation or concealment as a basis for rescission, the insurer must prove that
-          you acted <strong>willfully</strong> to void the policy under &sect; 2071. An innocent
-          mistake on an application, a failure to update your policy after a life change, or a
-          misunderstanding about what needed to be disclosed is not enough to meet
-          &sect; 2071&rsquo;s standard.
+          misrepresentation or concealment as a basis for rescission, the insurer must prove
+          that you acted <strong>willfully</strong> to void the policy under &sect; 2071. An
+          innocent mistake on an application, a failure to update your policy after a life
+          change, or a misunderstanding about what needed to be disclosed is not enough to
+          meet &sect; 2071&rsquo;s standard.
+        </p>
+        <p className="mt-3">
+          <strong>Policy language matters here.</strong> As <em>Sogomonian</em> shows, whether
+          the heightened willfulness standard applies in a specific case turns on the
+          contractual fraud clause in the actual policy, not on &sect; 2071 alone. Most HO-3
+          forms contain &sect; 2071-patterned willfulness language, but the policy you hold
+          controls. Read the &ldquo;Concealment or Fraud&rdquo; provision in your specific
+          policy form to confirm the standard the insurer must meet. And remember: even with
+          the heightened standard, mounting a defense is litigation, not self-help. Consult
+          counsel immediately if the insurer raises rescission.
         </p>
       </CalloutBox>
 

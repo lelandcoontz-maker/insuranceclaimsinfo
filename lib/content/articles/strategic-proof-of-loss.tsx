@@ -325,9 +325,24 @@ export default function Content() {
       <CalloutBox variant="warning" title="Accuracy Is Non-Negotiable">
         <p>
           Because a proof of loss is a sworn statement, every dollar amount must be supportable
-          with documentation. Do not inflate numbers, do not guess, and do not include amounts you
-          cannot substantiate. An inaccurate proof of loss does not just weaken your claim &mdash;
-          it can be used against you.
+          with documentation. Do not inflate numbers, do not guess, and do not include amounts
+          you cannot substantiate. An inaccurate proof of loss does not just weaken your claim
+          &mdash; it can be used against you.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="important" title="Legally Permitted Is Not Always Tactically Sound">
+        <p>
+          Nothing in California law prevents a policyholder from voluntarily filing a proof of
+          loss to start the contractual payment clock. But &ldquo;legally permitted&rdquo; is
+          not the same as &ldquo;tactically sound for this specific claim.&rdquo; Voluntarily
+          filing a sworn proof of loss before the claim is fully developed can lock in a
+          number, trigger the 40-day decision clock against an incomplete record, prompt an
+          EUO demand, or invite a procedural denial that requires litigation to overturn. The
+          right move depends on the specific policy language (which payment-deadline trigger
+          applies), the maturity of the claim record, and the carrier&rsquo;s posture. A
+          Public Adjuster or attorney evaluating the file in real time is the right judge of
+          whether and when to file &mdash; not a uniform &ldquo;always do this&rdquo; rule.
         </p>
       </CalloutBox>
 

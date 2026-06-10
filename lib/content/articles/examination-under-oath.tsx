@@ -462,6 +462,30 @@ export default function Content() {
         back to the merits of the claim.
       </p>
 
+      <CalloutBox variant="important" title="Two Practical Caveats">
+        <p>
+          <strong>The specific EUO language is in your policy.</strong> The discussion above
+          describes the &sect; 2071 statutory floor and the case-law framework California courts
+          apply. Your actual policy may impose somewhat different EUO requirements &mdash;
+          notice procedures, who can be examined, document-production scope, time limits. Read
+          the policy&apos;s &ldquo;Duties After Loss&rdquo; or &ldquo;Conditions&rdquo; section
+          for the specific EUO provision that applies to your claim.
+        </p>
+        <p className="mt-3">
+          <strong>Legally correct is not always practically wise.</strong> Identifying a
+          potentially improper EUO demand is not the same as a license to refuse it. If the
+          insured refuses on the theory that the demand is unreasonable, the practical
+          consequence is usually denial &mdash; followed by litigation to prove the demand
+          was improper. Under <em>Brizuela</em>, that litigation can be expensive and not
+          assured of success because a willful refusal of a properly noticed EUO is treated
+          as a condition-precedent failure, not subject to the general prejudice rule. The
+          safer path is generally to comply with the demand, preserve any objection in
+          writing, and let the legal argument be raised in negotiation or later if needed.
+          Decisions about how to respond should be made with counsel evaluating the specific
+          facts.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         When the EUO Demand Itself Is Bad Faith
       </h2>

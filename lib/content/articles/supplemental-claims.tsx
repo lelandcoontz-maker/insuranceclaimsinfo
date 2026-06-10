@@ -221,9 +221,9 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The Proof of Loss Deadline Trap">
         <p className="mb-2">
-          Carriers routinely send proof of loss forms with short deadlines as a strategic move.
-          The goal is to create a procedural basis for denial when the real reason they want to
-          deny the supplement is the dollar amount. Here is what to watch for:
+          Carriers routinely send proof of loss forms with short deadlines as a strategic
+          move. The goal is to create a procedural basis for denial when the real reason
+          they want to deny the supplement is the dollar amount. Here is what to watch for:
         </p>
         <ul className="list-disc pl-6 space-y-2">
           <li>
@@ -235,14 +235,25 @@ export default function Content() {
             repairs are even complete
           </li>
           <li>
-            If the deadline passes, the carrier issues a denial citing &quot;failure to comply
-            with policy conditions&quot;
+            If the deadline passes, the carrier issues a denial citing &quot;failure to
+            comply with policy conditions&quot;
           </li>
         </ul>
         <p className="mt-2">
           If this happens to you, do not assume the claim is lost. In California, missing a
           proof of loss deadline does <strong>not</strong> automatically bar your claim. The
           burden is on the insurer to prove it was actually prejudiced by the late filing.
+        </p>
+        <p className="mt-3">
+          <strong>Two practical caveats.</strong> First, the specific deadline and procedural
+          requirements are in your policy &mdash; the &sect; 2071 standard form sets a
+          baseline, but individual policies may give more time, less time, or different
+          notice procedures. Read the policy. Second, the prejudice rule is a litigation
+          protection, not a license to skip the deadline. If the insured relies on the rule
+          to miss the deadline, the practical consequence is denial &mdash; followed by
+          litigation to prove no prejudice. The safer path is generally to comply on time
+          (or request a written extension before the deadline), and let the prejudice
+          analysis be raised only if the insurer actually relies on the timing for denial.
         </p>
       </CalloutBox>
 

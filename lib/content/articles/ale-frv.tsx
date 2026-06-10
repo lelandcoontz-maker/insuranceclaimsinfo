@@ -206,6 +206,18 @@ export default function Content() {
         the appropriate next step.
       </p>
 
+      <CalloutBox variant="important" title="Your Policy May Be More Generous Than the Statutory Floor">
+        <p>
+          The &sect; 2060(b)(1) framework discussed above sets the statutory <em>minimum</em>{' '}
+          for state-of-emergency residential ALE in California. Many policies provide more
+          favorable terms &mdash; higher dollar limits, broader categories of reimbursable
+          expense, or fewer documentation requirements. Read the &ldquo;Additional Living
+          Expense&rdquo; or &ldquo;Loss of Use&rdquo; provision in your specific policy to
+          identify the contractual terms that actually govern. Where the policy gives more
+          than the statute requires, the policy controls.
+        </p>
+      </CalloutBox>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice. Insurance

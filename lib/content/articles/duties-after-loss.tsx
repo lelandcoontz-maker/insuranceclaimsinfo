@@ -414,11 +414,36 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="The Burden Is on the Insurer">
         <p>
-          In California, the burden of proving prejudice rests on the <strong>insurer</strong>, not
-          the policyholder. The insurance company must demonstrate that your non-compliance actually
-          caused them a material disadvantage. If they cannot make that showing, they cannot use your
-          non-compliance as a basis for denial. This is the opposite of many other states, where
-          policy conditions may be strictly enforced regardless of prejudice.
+          In California, the burden of proving prejudice rests on the <strong>insurer</strong>,
+          not the policyholder. The insurance company must demonstrate that your non-compliance
+          actually caused them a material disadvantage. If they cannot make that showing, they
+          cannot use your non-compliance as a basis for denial. This is the opposite of many
+          other states, where policy conditions may be strictly enforced regardless of
+          prejudice.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="important" title="Two Caveats: Policy Specifics + Practical Reality">
+        <p>
+          <strong>Your policy may differ from the statutory floor.</strong> The duties
+          described in this article are drawn from California&rsquo;s standard fire policy
+          (&sect; 2071) and the case-law framework California courts apply. Individual policies
+          may impose different deadlines, additional duties, or modified procedures &mdash; and
+          some give the insured more time or more flexibility than the statute requires. The
+          policy you actually hold controls. Always read the &ldquo;Duties After Loss&rdquo; or
+          &ldquo;Conditions&rdquo; section of your specific policy.
+        </p>
+        <p className="mt-3">
+          <strong>Legally correct is not always practically wise.</strong> California&rsquo;s
+          prejudice requirement is real and protective, but it is a litigation defense, not a
+          green light to skip duties. If an insured relies on the prejudice rule to miss a
+          deadline or refuse a request, the typical consequence is denial &mdash; followed by
+          litigation to prove the insurer suffered no prejudice. That litigation can be
+          expensive, slow, and not assured of success. The safer path is generally to comply
+          on time (or request an extension in writing before the deadline) and let the
+          prejudice analysis be raised only if the insurer relies on the alleged breach.
+          Compliance under protest, with the objection preserved in writing, often achieves
+          the same legal protection without forcing a courtroom fight.
         </p>
       </CalloutBox>
 
