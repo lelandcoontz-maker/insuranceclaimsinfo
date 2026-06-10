@@ -103,7 +103,21 @@ export default function Content() {
 
       <CalloutBox variant="important" title="California Does Not Enforce Anti-Concurrent Causation Language">
         <p>
-          California courts have held that anti-concurrent causation clauses are <strong>unenforceable as against public policy</strong> because they conflict with the efficient proximate cause doctrine established in <em>Sabella</em> and <em>Garvey</em> and with California Insurance Code &sect; 530. In California, insurers cannot use ACC language to override the efficient proximate cause analysis. The predominant cause of the loss controls &mdash; period. If a covered peril was the predominant cause, the claim is covered, regardless of what the ACC clause says.
+          California courts have held that anti-concurrent causation clauses are unenforceable
+          to the extent they conflict with the efficient proximate cause doctrine. The Court of
+          Appeal addressed ACC language directly in <em>Howell v. State Farm Fire &amp; Cas.
+          Co.</em> (1990) 218 Cal.App.3d 1446, holding that &ldquo;a property insurer may not
+          limit its liability&rdquo; through ACC language &ldquo;since the statutory and
+          judicial law of this state make the insurer liable whenever a covered peril is the
+          &lsquo;efficient proximate cause&rsquo; of the loss, regardless of other contributing
+          causes.&rdquo; This rests on the doctrine established in <em>Sabella</em> and{' '}
+          <em>Garvey</em> and codified in Insurance Code &sect; 530. The California Supreme
+          Court restated the general rule in <em>Julian v. Hartford Underwriters Ins. Co.</em>
+          (2005) 35 Cal.4th 747, although on <em>Julian</em>&rsquo;s facts the Court enforced
+          the carrier&rsquo;s exclusion as targeting a distinct excluded peril. The bottom
+          line: insurers cannot use ACC language to override the EPC analysis. If a covered
+          peril was the predominant cause, the claim is covered, regardless of what the ACC
+          clause says.
         </p>
       </CalloutBox>
 
@@ -235,7 +249,18 @@ export default function Content() {
         7. Evaluate the Adequacy of the Insurer&rsquo;s Investigation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Finally, consider whether the insurer&rsquo;s overall investigation was adequate. Under <em>Jordan v. Allstate Ins. Co.</em> (2007) 148 Cal.App.4th 1062, California insurers have a duty to conduct a thorough, fair, and objective investigation. Under 10 CCR &sect; 2695, insurers must investigate claims in good faith and must not rely on biased or incomplete investigations to deny coverage. An investigation that consists entirely of hiring an engineer with a known tendency to attribute damage to non-covered causes, accepting that engineer&rsquo;s conclusions without independent analysis, and converting those conclusions into a denial letter is not a thorough or fair investigation &mdash; it is an outcome-driven process dressed up as due diligence.
+        Finally, consider whether the insurer&rsquo;s overall investigation was adequate. The
+        California Supreme Court in <em>Egan v. Mutual of Omaha Ins. Co.</em> (1979) 24 Cal.3d
+        809 recognized the duty to investigate as part of the implied covenant of good faith
+        and fair dealing, and in <em>Wilson v. 21st Century Ins. Co.</em> (2007) 42 Cal.4th
+        713 the Court held that failure to conduct a thorough investigation can defeat an
+        insurer&rsquo;s genuine-dispute defense. The Fair Claims Settlement Practices
+        Regulations independently require investigation to be &ldquo;thorough, fair, and
+        objective&rdquo; (10 CCR &sect; 2695.7(d)). An investigation that consists entirely
+        of hiring an engineer with a known tendency to attribute damage to non-covered causes,
+        accepting that engineer&rsquo;s conclusions without independent analysis, and
+        converting those conclusions into a denial letter is not a thorough or fair
+        investigation &mdash; it is an outcome-driven process dressed up as due diligence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For more on the insurer&rsquo;s investigative obligations, see our guides on the{' '}
