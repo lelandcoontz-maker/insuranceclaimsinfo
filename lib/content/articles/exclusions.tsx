@@ -81,7 +81,7 @@ export default function Content() {
         </Link>, see our detailed guide.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Exclusions must be conspicuous, plain, and clear.</strong> The California Supreme Court&apos;s canonical statement of this rule is <em>Haynes v. Farmers Insurance Exchange</em> (2004) 32 Cal.4th 1198. An exclusion that is buried in dense policy language or written in a way that a reasonable policyholder would not understand may not be enforceable. The insurer cannot rely on language that the policyholder could not reasonably have been expected to notice or comprehend at the time they purchased the policy.
+        <strong>Exclusions must be conspicuous, plain, and clear.</strong> The California Supreme Court&apos;s formulation that an exclusion &ldquo;must be conspicuous, plain and clear&rdquo; traces to <em>State Farm Mut. Auto. Ins. Co. v. Jacober</em> (1973) 10 Cal.3d 193, which placed the burden on the insurer to phrase exceptions and exclusions in clear and unmistakable language. The Court&apos;s leading modern restatement and application of the rule is <em>Haynes v. Farmers Insurance Exchange</em> (2004) 32 Cal.4th 1198. An exclusion that is buried in dense policy language or written in a way that a reasonable policyholder would not understand may not be enforceable. The insurer cannot rely on language that the policyholder could not reasonably have been expected to notice or comprehend at the time they purchased the policy.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
