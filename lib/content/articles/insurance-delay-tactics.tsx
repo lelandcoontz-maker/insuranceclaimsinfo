@@ -54,13 +54,17 @@ export default function Content() {
         cycling through customer service representatives, managers, and adjusters so that each
         transition effectively restarts the claim process. In one case presented during 2025 Senate
         hearings, a homeowner testified that after more than 120 days and multiple personnel changes,
-        the insurer had not begun repairs and was refusing to reimburse living expenses &mdash; despite the
-        county declaring the home unsafe. Under California Insurance Code Section 14047 (enacted by
-        SB 240 in 2019), when a <em>residential property claim arising from a
-        declared state of emergency</em> has had three or more adjusters assigned within a six-month
-        period, the policyholder can request a special written status report from the insurance
-        company. Note that this requirement applies specifically to emergency-declared losses, not to
-        all claims. It is a separate requirement from the regular monthly status reports.
+        the insurer had not begun repairs and was refusing to reimburse living expenses &mdash;
+        despite the county declaring the home unsafe. Under California Insurance Code Section
+        14047 (enacted by SB 240 in 2019), when a <em>residential property claim arising from a
+        declared state of emergency</em> has had three or more adjusters assigned within a
+        six-month period, the insurer must provide the insured with a written status report,
+        establish a primary point of contact, and provide one or more direct means of
+        communication with that contact. The obligation is on the insurer to provide these
+        items in a timely manner &mdash; though in practice, a written request from the
+        insured citing the statute often gets the response moving. Note that this requirement
+        applies specifically to emergency-declared losses, not to all claims, and is separate
+        from the regular monthly status reports.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What &quot;Proof of Claim&quot; Really Means</h2>
