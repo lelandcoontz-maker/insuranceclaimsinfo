@@ -120,6 +120,24 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <CalloutBox variant="info" title="A Note on Terminology: &ldquo;Force-Placed&rdquo; vs. &ldquo;Lender-Placed&rdquo;">
+        <p>
+          The correct term is <strong>&ldquo;force-placed insurance&rdquo;</strong> (with the
+          &ldquo;-ed&rdquo; on <em>place</em>), not &ldquo;forced-placed.&rdquo; The CFPB&apos;s
+          mortgage-servicing rule defines the term this way at 12 C.F.R. &sect; 1024.37, and that is
+          the controlling federal terminology. As a verb, the action is typically written as
+          &ldquo;to force-place insurance&rdquo; or, more formally, &ldquo;to obtain force-placed
+          insurance.&rdquo;
+        </p>
+        <p className="mt-3">
+          You will also see <strong>&ldquo;lender-placed insurance&rdquo;</strong> used as a
+          synonym. Fannie Mae and Freddie Mac use this term in their servicing guides, and many
+          modern servicers prefer it because it sounds less pejorative. Both terms refer to the
+          same thing: hazard insurance that the mortgage servicer obtains on the borrower&apos;s
+          behalf when the borrower fails to maintain required coverage.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The DIC Policy: Making the FAIR Plan Work
       </h2>
