@@ -348,8 +348,9 @@ export default function Content() {
         <li>
           <strong>Potentially larger punitive damages.</strong> Many plaintiff attorneys observe
           that juries and courts view insurer conduct as more reprehensible when directed at a
-          vulnerable population &mdash; one of the three reprehensibility factors under{' '}
-          <em>BMW v. Gore</em>.
+          vulnerable population &mdash; financial vulnerability of the target is one of the five
+          sub-factors that California and federal courts consider in evaluating the first
+          guidepost (reprehensibility) of the <em>BMW v. Gore</em> framework.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
