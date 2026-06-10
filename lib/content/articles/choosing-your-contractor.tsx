@@ -32,10 +32,19 @@ export default function Content() {
         Your Right to Choose
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect; 758.5, if the insurer refers you to a
-        contractor, they must provide a written disclosure that you are not required to
-        use that contractor. The law is clear: you choose who repairs your home. The
-        insurance company cannot:
+        California&apos;s Fair Claims Settlement Practices Regulations are clear on this
+        point. <strong>10 CCR &sect; 2695.9(b)</strong> states: &ldquo;No insurer shall
+        require that the insured have the property repaired by a specific individual or
+        entity.&rdquo; And under <strong>10 CCR &sect; 2695.9(c)</strong>, an insurer that
+        recommends a specific repair entity must either be responding to the
+        claimant&apos;s express request or have informed the claimant in writing of the
+        right to select their own repair entity. If the claimant accepts the
+        insurer&apos;s recommendation, &sect; 2695.9(c)(2) makes the insurer responsible
+        for restoring the damaged property to no less than its pre-loss condition at no
+        additional cost to the claimant.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under this framework, the insurance company cannot:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Require you to use their preferred vendor.</li>
@@ -44,9 +53,10 @@ export default function Content() {
         <li>Condition claim approval on using a specific repair company.</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insurer owes you the reasonable and necessary cost to restore your property.
-        If your chosen licensed contractor charges more than the insurer&apos;s network
-        vendor — and the price is reasonable for your market — the insurer must pay it.
+        The insurer owes the reasonable and necessary cost to restore your property. If
+        your chosen licensed contractor charges more than the insurer&apos;s network
+        vendor &mdash; and the price is reasonable for your market &mdash; the insurer
+        must pay it.
       </p>
 
       <CalloutBox variant="warning" title="Why Insurer-Preferred Vendors Can Be a Problem">
