@@ -63,11 +63,14 @@ export default function Content() {
         The Case That Said It Out Loud: <em>Aliff v. California FAIR Plan</em>
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Aliff v. California FAIR Plan Association</em> (Los Angeles Superior Court, Case No.
-        21STCV20095, decided June 2025), Judge Stuart M. Rice ruled that the California FAIR
-        Plan&rsquo;s fire insurance policy &ldquo;unlawfully limited coverage in a stricter manner
-        than the &sect; 2071 standard form.&rdquo; The ruling found that the FAIR Plan violated
-        California Insurance Code &sect; 2071 in several specific ways.
+        In <em>Aliff v. California FAIR Plan Association</em> (Los Angeles Superior Court, Case
+        No. 21STCV20095, decided June 2025), Judge Stuart M. Rice ruled that the California
+        FAIR Plan&rsquo;s fire insurance policy unlawfully restricted coverage compared to the
+        standard fire policy mandated by Insurance Code &sect; 2071. The order concluded that
+        the FAIR Plan&rsquo;s &ldquo;permanent physical changes&rdquo; smoke-damage requirement
+        offers less coverage than the &ldquo;loss by fire&rdquo; coverage in the standard form
+        and limits coverage reasonably expected by the insured, in violation of
+        &sect;&sect; 2070&ndash;2071.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -82,22 +85,27 @@ export default function Content() {
         had no coverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Judge Rice rejected this definition as unlawful. The court found that &ldquo;direct physical
-        damage &hellip; need not be visible to the naked eye&rdquo; and that &ldquo;alterations at
-        the microscopic level may meet this threshold.&rdquo; The court also noted that
-        &ldquo;physical loss does not require property damage be permanent &mdash; only that the
-        property be demonstrably altered or changed.&rdquo;
+        Judge Rice rejected this definition as unlawful. Drawing on the California Supreme
+        Court&rsquo;s analysis of &ldquo;direct physical loss&rdquo; in <em>Another Planet
+        Entertainment LLC v. Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106, the court
+        explained that physical damage need not be visible to the naked eye, that microscopic
+        alterations can satisfy the standard when they impair the property itself, and that
+        physical loss does not require the damage to be permanent &mdash; the property must
+        simply be demonstrably altered or impaired.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Perhaps most strikingly, Judge Rice pointed out the absurdity of the FAIR Plan&rsquo;s
-        standard: &ldquo;Being unable to resort to their own senses or laboratory tests, it is
-        entirely unclear how an insured could determine whether a particular loss is covered or
-        not.&rdquo; The policy had created a coverage test that was literally impossible for
-        policyholders to apply.
+        standard, writing that &ldquo;[b]eing unable to resort to their own senses or laboratory
+        tests, it is entirely unclear how an insured could determine whether a particular loss
+        is covered or not.&rdquo; The policy had created a coverage test that was literally
+        impossible for policyholders to apply.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The court further ruled that &ldquo;this language limits coverage reasonably expected by an
-        insured in a manner which is not conspicuous, plain and clear.&rdquo;
+        The court further found that the FAIR Plan&rsquo;s smoke-damage language limited
+        coverage reasonably expected by the insured &mdash; the standard of <em>Steven v.
+        Fidelity &amp; Casualty Co.</em> and its progeny &mdash; and was therefore not
+        enforceable under California&rsquo;s &ldquo;conspicuous, plain and clear&rdquo;
+        requirement for restrictive policy language.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -326,13 +334,12 @@ export default function Content() {
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the law says:</strong> In <em>Prudential-LMI Commercial Insurance v.
-          Superior Court</em> (1990) 51 Cal.3d 674, the California Supreme Court established that
-          the one-year suit limitation is equitably tolled &mdash; paused &mdash; &ldquo;from the
-          time the insured files a timely notice, pursuant to policy notice provisions, to the time
-          the insurer formally denies the claim in writing.&rdquo; The clock stops while the insurer
-          investigates. The policyholder&rsquo;s one-year period effectively runs from the date the
-          insurer closes its investigation or issues a formal written denial, not from the date of
-          loss.
+          Superior Court</em> (1990) 51 Cal.3d 674, the California Supreme Court established
+          that the standard policy&rsquo;s one-year suit limitation is equitably tolled
+          &mdash; paused &mdash; for the period from the insured&rsquo;s timely notice of loss
+          until the insurer formally denies the claim in writing. The clock stops while the
+          insurer investigates. The policyholder&rsquo;s one-year period effectively runs from
+          the date the insurer issues a formal written denial, not from the date of loss.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>Bottom line:</strong> If your insurer takes 14 months to investigate your claim
@@ -503,16 +510,16 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the law says:</strong> The California Supreme Court in <em>Another Planet
           Entertainment LLC v. Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106 set out the
-          California standard for &ldquo;direct physical loss or damage to property&rdquo;: the
-          property must show a &ldquo;distinct, demonstrable, physical alteration,&rdquo; and that
-          alteration &ldquo;need not be visible to the naked eye, nor must it be structural, but it
-          must result in some injury to or impairment of the property as property.&rdquo;
-          Microscopic alterations can satisfy the standard, but only when they impair the property
-          itself. (The Court applied this rule to reject Another Planet&rsquo;s COVID-19
-          business-interruption claim, finding that the virus&rsquo;s presence on premises did not
-          impair the property as property.) Judge Rice applied the same standard in the FAIR Plan
-          case and reached the opposite result: smoke contamination of a home <em>does</em> impair
-          the property as property, even when the alteration is microscopic.
+          California standard for &ldquo;direct physical loss or damage to property.&rdquo; The
+          Court framed direct physical damage as a distinct, demonstrable physical alteration
+          of property that need not be visible to the naked eye, nor must it be structural, but
+          must result in injury to or impairment of the property as property. Microscopic
+          alterations can satisfy the standard, but only when they impair the property itself.
+          (The Court applied this rule to reject Another Planet&rsquo;s COVID-19 business-
+          interruption claim, finding that the virus&rsquo;s presence on premises did not
+          impair the property as property.) Judge Rice applied the same standard in the FAIR
+          Plan case and reached the opposite result: smoke contamination of a home <em>does</em>
+          impair the property as property, even when the alteration is microscopic.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>Bottom line:</strong> If your policy defines &ldquo;direct physical loss&rdquo;
