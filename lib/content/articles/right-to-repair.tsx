@@ -76,13 +76,32 @@ export default function Content() {
         </li>
       </ol>
 
-      <CalloutBox variant="tip" title="Your Right to Choose">
+      <CalloutBox variant="legal" title="California Right to Choose — 10 CCR § 2695.9">
         <p>
-          In most states, even if the policy has a right-to-repair clause, you have legal
-          protections. If the carrier&apos;s contractor does substandard work, you have
-          recourse. And if you cancel the carrier&apos;s contractor, make sure you have a
-          legitimate reason and consult with an attorney first &mdash; cancelling without
-          cause could put you in breach of your policy.
+          In California, two provisions of the Fair Claims Settlement Practices Regulations
+          control how carrier-directed repairs work:
+        </p>
+        <p className="mt-3">
+          <strong>10 CCR &sect; 2695.9(b)</strong> &mdash; &ldquo;No insurer shall require that
+          the insured have the property repaired by a specific individual or entity.&rdquo; The
+          carrier may recommend a preferred vendor, but it cannot force the insured to use
+          that vendor.
+        </p>
+        <p className="mt-3">
+          <strong>10 CCR &sect; 2695.9(c)(2)</strong> &mdash; If the insured accepts the
+          insurer&rsquo;s recommendation, the insurer shall cause the damaged property to be
+          &ldquo;restored to no less than its condition prior to the loss and repaired in a
+          manner which meets accepted trade standards for good and workmanlike construction at
+          no additional cost to the claimant.&rdquo; In other words, if a homeowner accepts the
+          carrier&rsquo;s preferred contractor and the work falls short, the responsibility is
+          the carrier&rsquo;s &mdash; not the homeowner&rsquo;s.
+        </p>
+        <p className="mt-3">
+          If the carrier&apos;s contractor does substandard work, those provisions support a
+          push for redo, supplement, or cash settlement. And if a homeowner cancels the
+          carrier&rsquo;s contractor without cause, the carrier may argue the cancellation
+          itself breaches the policy or the regulation&rsquo;s framework &mdash; consult an
+          attorney before terminating a carrier-engaged contractor.
         </p>
       </CalloutBox>
 
