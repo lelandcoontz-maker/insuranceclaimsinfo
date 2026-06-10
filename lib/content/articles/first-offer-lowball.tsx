@@ -194,8 +194,8 @@ export default function Content() {
             equitable settlements of claims in which liability has become reasonably clear.&rdquo;
           </li>
           <li>
-            <strong>Insurance Code &sect;&nbsp;790.03(h)(7)</strong> &mdash; specifically defines as
-            an unfair claims practice &ldquo;compelling insureds to institute litigation to
+            <strong>Insurance Code &sect;&nbsp;790.03(h)(6)</strong> &mdash; specifically defines
+            as an unfair claims practice &ldquo;compelling insureds to institute litigation to
             recover amounts due under an insurance policy by offering substantially less than
             the amounts ultimately recovered in actions brought by the insureds.&rdquo; This is
             the classic lowball provision in the regulatory standard. Under{' '}
