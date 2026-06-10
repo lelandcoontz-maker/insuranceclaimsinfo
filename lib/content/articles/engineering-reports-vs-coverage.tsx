@@ -254,13 +254,17 @@ export default function Content() {
         809 recognized the duty to investigate as part of the implied covenant of good faith
         and fair dealing, and in <em>Wilson v. 21st Century Ins. Co.</em> (2007) 42 Cal.4th
         713 the Court held that failure to conduct a thorough investigation can defeat an
-        insurer&rsquo;s genuine-dispute defense. The Fair Claims Settlement Practices
-        Regulations independently require investigation to be &ldquo;thorough, fair, and
-        objective&rdquo; (10 CCR &sect; 2695.7(d)). An investigation that consists entirely
-        of hiring an engineer with a known tendency to attribute damage to non-covered causes,
-        accepting that engineer&rsquo;s conclusions without independent analysis, and
-        converting those conclusions into a denial letter is not a thorough or fair
-        investigation &mdash; it is an outcome-driven process dressed up as due diligence.
+        insurer&rsquo;s genuine-dispute defense. The Court of Appeal in <em>Jordan v. Allstate
+        Ins. Co.</em> (2007) 148 Cal.App.4th 1062, 1072 added that even a reasonable policy
+        interpretation does not justify a denial &ldquo;in the absence of a full, fair and
+        thorough investigation of all of the bases of the claim.&rdquo; The Fair Claims
+        Settlement Practices Regulations independently require investigation to be
+        &ldquo;thorough, fair, and objective&rdquo; (10 CCR &sect; 2695.7(d)). An
+        investigation that consists entirely of hiring an engineer with a known tendency to
+        attribute damage to non-covered causes, accepting that engineer&rsquo;s conclusions
+        without independent analysis, and converting those conclusions into a denial letter is
+        not a thorough or fair investigation &mdash; it is an outcome-driven process dressed
+        up as due diligence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For more on the insurer&rsquo;s investigative obligations, see our guides on the{' '}
