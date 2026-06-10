@@ -105,30 +105,34 @@ export default function Content() {
         Concurrent Causation in California
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California recognizes the concurrent causation doctrine, which is particularly relevant in
-        coverage disputes. Under this doctrine, if a loss is caused by a combination of covered and
-        excluded perils, and the covered peril is a contributing cause, the loss may still be
-        covered. For example, if wind (covered) and flood (excluded) both contribute to damage, the
-        loss caused by wind should be covered even though flood damage is excluded.
+        When a loss results from a combination of covered and excluded perils, California
+        applies the <strong>efficient proximate cause doctrine</strong>. Under this rule, the
+        question is which peril was the predominant cause &mdash; the one that set the chain of
+        events in motion. If the predominant cause is a covered peril, the entire loss is
+        covered, even if an excluded peril also contributed. If the predominant cause is an
+        excluded peril, the loss is excluded. This doctrine is codified at Insurance Code
+        &sect; 530 and has been California Supreme Court law since <em>Garvey v. State Farm</em>{' '}
+        (1989) 48 Cal.3d 395. The covered peril must be the predominant cause, not merely a
+        contributing factor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurers are aware of this doctrine and have responded by adding &quot;anti-concurrent
-        causation&quot; (ACC) clauses to many policies. These clauses attempt to exclude losses
-        where a covered and excluded peril act together. In California, ACC clauses are
-        unenforceable to the extent they conflict with the efficient proximate cause doctrine
-        (Insurance Code Section 530). This has been settled law since <em>Garvey v. State Farm</em>{' '}
-        (1989) 48 Cal.3d 395, and was applied directly to ACC language by <em>Howell v. State
-        Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446. The California Supreme Court
-        restated the general rule in <em>Julian v. Hartford Underwriters</em> (2005) 35 Cal.4th
-        747 (although on <em>Julian</em>&rsquo;s facts the Court enforced the carrier&rsquo;s
-        exclusion). In 2018 the Legislature enacted Insurance Code Section 530.5 (effective
-        Jan. 1, 2019) addressing concurrent-peril claims where one of the perils is a
-        landslide, mudslide, mudflow, or debris flow &mdash; the statute&rsquo;s practical
-        effect is to protect post-wildfire mudslide and debris-flow claims, among others.
-        However, insurers continue to include ACC clauses in policies and invoke them
-        in claim denials, so policyholders should be aware of the ongoing tension between what
-        policies say and what California law allows. If your denial involves mixed causes, this is
-        an area where professional guidance is essential.
+        Insurers have responded to this rule by adding &ldquo;anti-concurrent causation&rdquo;
+        (ACC) clauses to many policies. These clauses purport to exclude any loss to which an
+        excluded peril contributed &ldquo;in any sequence,&rdquo; regardless of whether the
+        covered peril was the predominant cause. In California, ACC clauses are unenforceable
+        to the extent they conflict with the efficient proximate cause doctrine. The Court of
+        Appeal applied this directly to ACC language in <em>Howell v. State Farm Fire &amp;
+        Cas. Co.</em> (1990) 218 Cal.App.3d 1446. The California Supreme Court restated the
+        general rule in <em>Julian v. Hartford Underwriters</em> (2005) 35 Cal.4th 747
+        (although on <em>Julian</em>&rsquo;s facts the Court enforced the carrier&rsquo;s
+        exclusion as targeting a distinct peril). In 2018 the Legislature enacted Insurance
+        Code Section 530.5 (effective Jan. 1, 2019) addressing concurrent-peril claims where
+        one of the perils is a landslide, mudslide, mudflow, or debris flow &mdash; the
+        statute&rsquo;s practical effect is to protect post-wildfire mudslide and debris-flow
+        claims, among others. However, insurers continue to include ACC clauses in policies
+        and invoke them in claim denials, so policyholders should be aware of the ongoing
+        tension between what policies say and what California law allows. If your denial
+        involves mixed causes, this is an area where professional guidance is essential.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
