@@ -100,14 +100,16 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="One Important §2071 Carve-Out">
         <p>
-          California&apos;s &sect;&nbsp;2071 contains a government-disaster exception that
-          is easy to miss. For residential property losses related to a state of emergency
-          declared by the Governor under Government Code &sect;&nbsp;8558(b), the statute
-          provides that appraisal &ldquo;may be requested by either party but shall not be
-          compelled.&rdquo; In other words, after a declared disaster, neither side can force
-          the other into appraisal; appraisal becomes optional and bilateral. Any analysis of
-          California &sect;&nbsp;2071 appraisal rights in the wildfire or earthquake context
-          should account for this provision.
+          California&apos;s &sect;&nbsp;2071 contains a government-disaster exception to
+          appraisal that is easy to miss. The statute provides that &ldquo;in the event of a
+          government-declared disaster, as defined in the Government Code, appraisal may be
+          requested by either the insured or this company but shall not be compelled.&rdquo;
+          In other words, after a declared disaster, neither side can force the other into
+          appraisal; appraisal becomes optional and bilateral. Any analysis of California
+          &sect;&nbsp;2071 appraisal rights in the wildfire or earthquake context should
+          account for this provision. (Note: the &sect;&nbsp;2071 references to Gov. Code
+          &sect;&nbsp;8558(b) appear in the separate suit-limitation extension, not in the
+          appraisal provision.)
         </p>
       </CalloutBox>
 
