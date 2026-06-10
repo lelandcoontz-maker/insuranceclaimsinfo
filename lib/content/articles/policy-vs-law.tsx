@@ -508,17 +508,18 @@ export default function Content() {
           with the naked eye would not qualify as a &ldquo;loss.&rdquo;
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>What the law says:</strong> The California Supreme Court in <em>Another Planet
-          Entertainment LLC v. Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106 set out the
-          California standard for &ldquo;direct physical loss or damage to property.&rdquo; The
-          Court framed direct physical damage as a distinct, demonstrable physical alteration
-          of property that need not be visible to the naked eye, nor must it be structural, but
-          must result in injury to or impairment of the property as property. Microscopic
-          alterations can satisfy the standard, but only when they impair the property itself.
-          (The Court applied this rule to reject Another Planet&rsquo;s COVID-19 business-
-          interruption claim, finding that the virus&rsquo;s presence on premises did not
-          impair the property as property.) Judge Rice applied the same standard in the FAIR
-          Plan case and reached the opposite result: smoke contamination of a home <em>does</em>
+          <strong>What the law says:</strong> The California Supreme Court in <em>Another
+          Planet Entertainment LLC v. Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106 set
+          out the California standard for &ldquo;direct physical loss or damage to property&rdquo;:
+          the property must show a &ldquo;distinct, demonstrable, physical alteration,&rdquo;
+          and that alteration &ldquo;need not be visible to the naked eye, nor must it be
+          structural, but it must result in some injury to or impairment of the property as
+          property.&rdquo; Microscopic alterations can satisfy the standard, but only when
+          they impair the property itself. (The Court applied this rule to reject Another
+          Planet&rsquo;s COVID-19 business-interruption claim, finding that the virus&rsquo;s
+          presence on premises did not impair the property as property.) Judge Rice applied
+          the same <em>Another Planet</em> standard in the FAIR Plan case and reached the
+          opposite result on the smoke-damage facts: smoke contamination of a home <em>does</em>
           impair the property as property, even when the alteration is microscopic.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
