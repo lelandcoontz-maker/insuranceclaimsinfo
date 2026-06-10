@@ -177,13 +177,17 @@ export default function Content() {
           <strong>California overrides for state-of-emergency losses:</strong> For a loss
           related to a declared state of emergency (Gov. Code &sect; 8558), California
           Insurance Code &sect; 2060(b)(1) requires the insurer to provide ALE benefits
-          for at least <strong>24 months</strong> from the inception of the loss, with an
-          additional <strong>12-month</strong> extension for good cause &mdash; for a
-          total of up to <strong>36 months</strong> &mdash; when delays beyond the
-          insured&apos;s control (permitting, contractor shortages, material backlogs)
-          push the rebuild past 24 months. The statute extends the <em>time</em> period
-          for incurring ALE; it does not enlarge the dollar limit. For a deeper guide,
-          see our{' '}
+          for at least <strong>24 months</strong> from the inception of the loss. The
+          statute then requires the insurer to grant an extension of up to{' '}
+          <strong>12 additional months</strong> &mdash; for a total of{' '}
+          <strong>36 months</strong> &mdash; when an insured acting in good faith and
+          with reasonable diligence encounters reconstruction delays beyond the
+          insured&apos;s control (permitting, contractor shortages, material backlogs).
+          After that, additional <strong>six-month extensions</strong> must be granted
+          for <strong>good cause</strong>, so coverage can extend beyond 36 months where
+          the insured continues to make diligent rebuilding progress. The statute extends
+          the <em>time</em> period for incurring ALE; it does not enlarge the dollar
+          limit. For a deeper guide, see our{' '}
           <Link href="/resources/ale-basics-what-is-covered" className="text-blue-700 underline hover:text-blue-900">
             ALE basics article
           </Link>.
