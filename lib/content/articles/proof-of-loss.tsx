@@ -54,11 +54,14 @@ export default function Content() {
         Deadlines
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The proof of loss deadline depends on your specific policy language and the applicable law.
-        Under the California Standard Fire Policy (Insurance Code Section 2071), the policyholder
-        must submit a signed, sworn proof of loss within 60 days after the loss. However, individual
-        policies may specify a different deadline &mdash; and some policies provide more time than
-        the statute requires. Always check your specific policy language, which controls unless it
+        The proof of loss deadline depends on your specific policy language and the applicable
+        law. Under the California Standard Fire Policy (Insurance Code &sect; 2071), the
+        statutory clock for the sworn proof of loss runs from when the insurer provides the
+        form, not from the date of the loss itself. The standard form language requires the
+        insured to submit a signed and sworn proof of loss &ldquo;within 60 days after we
+        provide you with a blank proof of loss form.&rdquo; Individual policies may specify a
+        different deadline &mdash; and some policies provide more time than the statute
+        requires. Always check your specific policy language, which controls unless it
         conflicts with California law.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -76,12 +79,14 @@ export default function Content() {
         rarely wise. An insured generally should comply with a proper proof-of-loss request,
         request an extension in writing before the deadline passes if more time is needed,
         and get the extension confirmed in writing. There is, however, a timing consideration
-        worth flagging: under 10 CCR &sect; 2695.7(b), the insurer&rsquo;s 40-day window to
-        accept or deny a claim runs from receipt of a completed proof of loss. Voluntarily
-        submitting a proof of loss before the insurer requests one therefore starts that
-        clock; for an insured whose claim is still being developed, weighing the benefit of
-        forcing a decision against the risk of a premature denial is a useful exercise, and
-        a Public Adjuster or attorney can help evaluate the timing in a specific situation.
+        worth flagging. Under 10 CCR &sect; 2695.7(b), the insurer&rsquo;s 40-day window to
+        accept or deny the claim runs from receipt of &ldquo;proof of claim,&rdquo; a broader
+        regulatory term defined at 10 CCR &sect; 2695.2(s) that can include but does not
+        require a formal sworn proof of loss. In many property losses, a completed sworn proof
+        of loss will function as the proof of claim that starts that 40-day clock; submitting
+        a sworn proof of loss while the claim is still being developed therefore tends to
+        force the insurer&rsquo;s hand, which can cut both ways. A Public Adjuster or
+        attorney can help evaluate the timing in a specific situation.
       </p>
 
       <CalloutBox variant="warning" title="Do Not Ignore the Request">
