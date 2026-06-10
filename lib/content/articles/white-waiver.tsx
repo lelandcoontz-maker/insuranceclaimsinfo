@@ -49,13 +49,17 @@ export default function Content() {
         The Case: <em>White v. Western Title Ins. Co.</em> (1985) 40 Cal.3d 870, 221 Cal.Rptr. 509, 710 P.2d 309
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The White waiver takes its name from a 1985 California Supreme Court decision. The Whites
-        purchased property and obtained a title insurance policy from Western Title. The policy
-        failed to disclose a recorded water easement on the property. When the Whites discovered
-        the easement and filed a claim, Western Title retained an appraiser who estimated the
-        loss at $2,000. Based on that estimate, Western offered to settle for $3,000 — and later
-        $5,000 — without ever providing the Whites with a copy of the appraisal supporting those
-        figures.
+        The White waiver takes its name from a 1985 California Supreme Court decision. The
+        Whites purchased property and obtained a title insurance policy from Western Title.
+        The policy failed to disclose a recorded water easement burdening the property. When
+        the Whites discovered the easement and filed a claim, Western Title retained an
+        appraiser, Hoskins, who testified that the easement reduced the property&rsquo;s value
+        from $107,500 to a range between $75,000 and $80,000 &mdash; a diminution of roughly
+        $27,500 to $32,500. Western Title nonetheless offered the Whites just $1,000 in June
+        1977. After the Whites sued, Western increased the offer to $5,000 plus costs and
+        attorneys&rsquo; fees in September 1978, and then to $10,000 plus costs and
+        attorneys&rsquo; fees in March 1980 &mdash; all well below the loss Western&rsquo;s
+        own appraiser had described.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Whites sued for breach of contract and bad faith. At trial, the jury found bad faith
