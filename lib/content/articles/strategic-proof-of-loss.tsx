@@ -42,9 +42,12 @@ export default function Content() {
         California Law on Proof of Loss
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Standard Fire Policy, codified at Insurance Code &sect; 2071, permits the
-        insurer to require a signed, sworn proof of loss within 60 days after a loss. This is a
-        conditional requirement &mdash; the insurer <em>can</em> require it, but it is not automatic.
+        The California Standard Fire Policy, codified at Insurance Code &sect; 2071, permits
+        the insurer to require a signed, sworn proof of loss within 60 days after the insurer
+        provides a blank proof-of-loss form to the insured. The statutory clock runs from the
+        insurer&rsquo;s delivery of the form, not from the date of the loss itself. This is a
+        conditional requirement &mdash; the insurer <em>can</em> require it, but it is not
+        automatic.
         California courts have consistently held that the insurer must actually demand the proof of
         loss before any obligation to submit one arises. If the insurer does not demand it, the
         policyholder is under no obligation to provide one.
