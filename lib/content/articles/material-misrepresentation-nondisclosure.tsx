@@ -135,13 +135,17 @@ export default function Content() {
         The Materiality Test: Would It Have Changed the Insurer&rsquo;s Decision?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Neither concealment nor misrepresentation justifies rescission unless the undisclosed or
-        misrepresented fact was <strong>material</strong>. Materiality is the gatekeeper that
-        separates rescission-worthy conduct from harmless inaccuracy. California courts apply an
-        objective test articulated in <strong><em>Thompson v. Occidental Life Insurance Co.</em>,
-        9 Cal. 3d 904 (1973)</strong>: a fact is material if a reasonably careful insurer would
-        have considered it significant in deciding whether to issue the policy, what premium to
-        charge, or what terms to impose.
+        Neither concealment nor misrepresentation justifies rescission unless the undisclosed
+        or misrepresented fact was <strong>material</strong>. Materiality is the gatekeeper
+        that separates rescission-worthy conduct from harmless inaccuracy. The materiality
+        test is codified at Insurance Code &sect; 334: &ldquo;Materiality is to be determined
+        not by the event, but solely by the probable and reasonable influence of the facts
+        upon the party to whom the communication is due, in forming his estimate of the
+        disadvantages of the proposed contract, or in making his inquiries.&rdquo; California
+        courts have applied this standard for over a century, including in life and disability
+        insurance cases such as <em>Thompson v. Occidental Life Insurance Co.</em> (1973) 9
+        Cal.3d 904, which cites &sect; 334 in evaluating the materiality of medical-history
+        omissions.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The materiality standard is not met by showing that the insurer would have been
@@ -246,14 +250,21 @@ export default function Content() {
         disclose &mdash; none of these satisfy the willfulness standard under IC 2071.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This protection extends to the standard homeowner&rsquo;s policy. The HO-3 form is a
-        multi-peril policy that includes fire coverage. California courts have consistently held
-        that the IC 2071 standard governs the fire coverage component of a homeowner&rsquo;s
-        policy, meaning that rescission of a homeowner policy for misrepresentation on a fire
-        loss requires proof of willful conduct. <strong><em>Imperial Casualty &amp; Indemnity Co.
-        v. Sogomonian</em>, 198 Cal. App. 3d 169 (1988)</strong> established that the IC 2071
-        protections apply broadly to policies that include fire coverage, not just to standalone
-        fire policies.
+        In practice, this protection often extends to the standard homeowner&rsquo;s policy
+        because most HO-3 forms include a fraud clause patterned on &sect; 2071&rsquo;s
+        willfulness language. <strong><em>Imperial Casualty &amp; Indemnity Co. v.
+        Sogomonian</em>, 198 Cal.App.3d 169 (1988)</strong> held that &ldquo;where, as here,
+        an insurance policy contains a clause providing that the policy is void if the insured
+        has willfully concealed or misrepresented any material fact or circumstance concerning
+        the insurance, that clause will be given effect so that intentional or fraudulent
+        conduct is required for the insurer to rescind the policy or defend on the basis of
+        nondisclosure or misrepresentation.&rdquo; The Court of Appeal applied this analysis
+        to a homeowner&rsquo;s policy with &sect; 2071-patterned fraud language. Importantly,
+        though &mdash; on the facts &mdash; Sogomonian <em>affirmed</em> rescission, finding
+        the misrepresentations intentional enough to satisfy the heightened contractual
+        standard. The case is the foundational California authority for the contractual
+        willfulness/intent standard on HO-3-type policies, but it is not a per se policyholder
+        win.
       </p>
 
       <CalloutBox variant="important" title="Why This Matters After a Fire">
@@ -808,12 +819,15 @@ export default function Content() {
         Decisions Protecting Policyholders
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Imperial Casualty &amp; Indemnity Co. v. Sogomonian</em>, 198 Cal. App. 3d
-        169 (1988):</strong> The court held that the IC 2071 standard requiring willful
-        misrepresentation applies to multi-peril homeowner policies that include fire coverage.
-        This means the heightened intent requirement is not limited to standalone fire policies
-        &mdash; it extends to the standard HO-3 form that most California homeowners carry. The
-        insurer must prove the misrepresentation was not merely inaccurate but deliberate.
+        <strong><em>Imperial Casualty &amp; Indemnity Co. v. Sogomonian</em>, 198 Cal.App.3d
+        169 (1988):</strong> A homeowner&apos;s-policy case establishing that where the policy
+        itself contains a &sect; 2071-patterned willfulness clause for fraud, that contractual
+        clause controls and supersedes the &sect;&sect; 331/359 default of innocent rescission
+        for that policy. This means the heightened intent requirement of typical HO-3 fraud
+        clauses is given effect, not just the statutory floor. Important caveat: on the facts
+        of <em>Sogomonian</em> itself the Court of Appeal <em>affirmed</em> rescission &mdash;
+        the case is the foundational authority for the contractual-willfulness analysis, but
+        it is not a per se policyholder win.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Cummings v. Fire Insurance Exchange</em>, 202 Cal. App. 3d 1407
@@ -823,12 +837,13 @@ export default function Content() {
         own failure to inquire.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Thompson v. Occidental Life Insurance Co.</em>, 9 Cal. 3d 904 (1973):</strong>{' '}
-        The California Supreme Court established the objective materiality test: would a
-        reasonably careful insurer have considered the information significant? This standard
-        protects policyholders against after-the-fact claims by insurers who, facing a large
-        loss, suddenly discover that application information they never questioned was
-        &ldquo;material.&rdquo;
+        <strong><em>Thompson v. Occidental Life Insurance Co.</em>, 9 Cal.3d 904 (1973):</strong>{' '}
+        A California Supreme Court life-insurance contract-formation case that applies the
+        materiality standard codified at Insurance Code &sect; 334 &mdash; materiality is
+        determined by &ldquo;the probable and reasonable effect which truthful answers would
+        have had upon the insurer.&rdquo; Thompson is commonly cited for the proposition that
+        the materiality analysis is objective and tied to underwriting decisions, not to
+        whether the omission turned out to matter to the eventual loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>California agency law principles:</strong> Under general California agency law,
