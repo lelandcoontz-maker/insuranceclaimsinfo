@@ -832,11 +832,12 @@ export default function Content() {
         <strong>The Aliff order is a trial-court ruling and is not binding precedent
         statewide</strong> — it is, however, a detailed application of <em>Another Planet</em>{' '}
         to FAIR Plan smoke-damage definitions. In <em>Aliff</em>, the court held the FAIR
-        Plan&apos;s requirement that &ldquo;direct physical loss&rdquo; be {' '}
-        &ldquo;permanent&rdquo; and that smoke damage be &ldquo;visible to the unaided human
-        eye or detected by the unaided human nose&rdquo; violated Insurance Code § 2070
-        because that language provided coverage &ldquo;less favorable than, and not
-        substantially equivalent to,&rdquo; the standard form.
+        Plan&apos;s requirement that &ldquo;direct physical loss&rdquo; be &ldquo;permanent&rdquo;
+        and that smoke damage be &ldquo;visible to the unaided human eye or detected by the
+        unaided human nose&rdquo; violated Insurance Code &sect; 2070 because that language
+        provided less coverage than the standard form&rsquo;s &ldquo;all loss by fire&rdquo;
+        language &mdash; failing &sect; 2070&rsquo;s requirement that the policy be
+        substantially equivalent to or more favorable than the standard form.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -983,14 +984,15 @@ export default function Content() {
         <em>Aliff v. California FAIR Plan Association</em> (L.A. Super. Ct. 2025)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Los Angeles Superior Court held that the FAIR Plan&rsquo;s restrictive definition of
-        &ldquo;direct physical loss&rdquo; and its requirement that smoke damage be &ldquo;visible
-        to the unaided human eye or detected by the unaided human nose of an average
-        person&rdquo; violated Insurance Code Section 2070. The court found these provisions
-        provided coverage &ldquo;less favorable than, and not substantially equivalent to,&rdquo;
-        the standard form&rsquo;s broad &ldquo;all loss by fire&rdquo; language. The court
-        dismantled the &ldquo;visible damage only&rdquo; limitation and confirmed that laboratory
-        testing is valid evidence of smoke damage.
+        The Los Angeles Superior Court held that the FAIR Plan&rsquo;s restrictive definition
+        of &ldquo;direct physical loss&rdquo; and its requirement that smoke damage be
+        &ldquo;visible to the unaided human eye or detected by the unaided human nose of an
+        average person&rdquo; violated Insurance Code Section 2070. The court found these
+        provisions provided less coverage than the standard form&rsquo;s broad &ldquo;all loss
+        by fire&rdquo; language &mdash; failing &sect; 2070&rsquo;s requirement that the
+        policy be substantially equivalent to or more favorable than the standard form. The
+        court dismantled the &ldquo;visible damage only&rdquo; limitation and confirmed that
+        laboratory testing is valid evidence of smoke damage.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
