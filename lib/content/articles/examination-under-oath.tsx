@@ -426,14 +426,25 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If an insured willfully refuses to attend an EUO without good cause, the insurer
-        will commonly deny the claim for failure to comply with the policy&apos;s post-loss
-        conditions. California law, however, does not treat every non-compliance as
-        automatic forfeiture: to deny coverage on cooperation grounds, the insurer
-        generally must show both a <em>material breach</em> by the insured and{' '}
-        <em>resulting prejudice</em> to the insurer. That said, a denial founded on
-        outright refusal to attend an EUO is one of the more difficult positions for an
-        insured to overcome, because the duty to submit to an EUO is explicitly written
-        into the policy and has been recognized by California courts for over a century.
+        will deny the claim &mdash; and California law treats this denial harshly.
+        California courts treat the EUO requirement in &sect; 2071 as a <em>condition
+        precedent to coverage</em>. Under <em>Brizuela v. CalFarm Ins. Co.</em> (2004)
+        116 Cal.App.4th 578 and the older California Supreme Court decision in{' '}
+        <em>Hickman v. London Assurance Corp.</em> (1920) 184 Cal. 524, a willful refusal
+        to attend a properly noticed EUO bars recovery as a failure of that condition
+        precedent. Notably, the insurer is <em>not</em> required to prove that it suffered
+        any independent prejudice from the refusal &mdash; the unsatisfied condition is
+        itself enough.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For other types of cooperation-clause breaches that fall short of an outright EUO
+        refusal &mdash; for example, an insured who attends but is uncooperative on some
+        topics, or who is late in producing documents &mdash; California&rsquo;s general
+        cooperation-clause rule from cases like <em>Campbell v. Allstate</em> (1963) 60
+        Cal.2d 303 and <em>Clemmer v. Hartford Insurance Co.</em> (1978) 22 Cal.3d 865
+        requires the insurer to show both a <em>material breach</em> and <em>resulting
+        prejudice</em>. But that protection does not extend to a flat-out refusal to sit
+        for an EUO that the insurer has properly demanded.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The insurer&apos;s demand must also be <em>reasonable</em>, and the refusal must
