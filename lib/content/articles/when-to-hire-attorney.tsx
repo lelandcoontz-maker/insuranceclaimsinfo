@@ -47,7 +47,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A <strong>Public Adjuster</strong> is licensed by the California Department of Insurance
-        under California Insurance Code &sect; 15007 et seq. to represent the insured in the
+        under California Insurance Code &sect; 15000 et seq. to represent the insured in the
         adjustment of first-party insurance claims. The PA&rsquo;s job is to document your loss,
         prepare the claim, negotiate with the carrier, and obtain the maximum recovery under the
         policy contract. A Public Adjuster cannot practice law, cannot file lawsuits, cannot
@@ -577,7 +577,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Public Adjusters</strong> are licensed under California Insurance Code
-          &sect; 15007 et seq. and regulated by the California Department of Insurance. The PA
+          &sect; 15000 et seq. and regulated by the California Department of Insurance. The PA
           license authorizes them to represent insureds in the adjustment of first-party
           insurance claims. PAs are required to carry a surety bond and maintain Errors &amp;
           Omissions insurance.
@@ -635,7 +635,7 @@ export default function Content() {
       <QABlock pairs={[
         {
           question: 'What is the difference between a Public Adjuster and an insurance attorney?',
-          answer: 'A Public Adjuster is licensed under California Insurance Code §15007 et seq. to represent the insured in adjusting first-party claims — documenting the loss, preparing the claim, negotiating with the carrier. A PA cannot practice law, file lawsuits, or pursue extra-contractual remedies. An attorney is licensed by the California State Bar and can do everything a PA can do plus file lawsuits, pursue bad faith and punitive damages, represent you in depositions and at trial, and provide legal advice on coverage disputes.',
+          answer: 'A Public Adjuster is licensed under California Insurance Code §15000 et seq. to represent the insured in adjusting first-party claims — documenting the loss, preparing the claim, negotiating with the carrier. A PA cannot practice law, file lawsuits, or pursue extra-contractual remedies. An attorney is licensed by the California State Bar and can do everything a PA can do plus file lawsuits, pursue bad faith and punitive damages, represent you in depositions and at trial, and provide legal advice on coverage disputes.',
         },
         {
           question: 'When do I need a Public Adjuster?',
