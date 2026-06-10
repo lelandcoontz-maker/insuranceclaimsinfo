@@ -105,10 +105,11 @@ export default function Content() {
         </li>
         <li>
           <strong>You have the right to a copy of the adjuster&rsquo;s estimate and all
-          claim-related documents.</strong> Under 10 CCR 2695.7(d), the insurer must provide a written
-          explanation for any denial or partial payment. The California Department of Insurance (CDI)
-          notice of rights also requires that you be told what additional documentation, if any, is
-          needed and what your rights are under the policy.
+          claim-related documents.</strong> Under 10 CCR &sect; 2695.7(b)(1), any denial or
+          partial denial must include a written explanation identifying the specific policy
+          provision, statute, or factual basis for the decision. The California Department of
+          Insurance (CDI) notice of rights also requires that you be told what additional
+          documentation, if any, is needed and what your rights are under the policy.
         </li>
         <li>
           <strong>You do NOT have to accept their first offer.</strong> The initial estimate is a
@@ -305,11 +306,11 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="Your Right to the Estimate">
         <p>
-          Under 10 CCR 2695.7(d), when the insurer denies or partially denies a claim, they must
-          provide a written explanation citing the specific policy provisions or factual basis for
-          the decision. You are also entitled to copies of all claim-related documents. If the
-          insurer refuses to provide their estimate or explain their numbers, that itself is a
-          regulatory violation you can cite in a CDI complaint.
+          Under 10 CCR &sect; 2695.7(b)(1), when the insurer denies or partially denies a
+          claim, they must provide a written explanation citing the specific policy provisions
+          or factual basis for the decision. You are also entitled to copies of all
+          claim-related documents. If the insurer refuses to provide their estimate or explain
+          their numbers, that itself is a regulatory violation you can cite in a CDI complaint.
         </p>
       </CalloutBox>
 
