@@ -330,14 +330,17 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In <em>Covenant Care, Inc. v. Superior Court</em> (2004) 32 Cal.4th 771, the
-        California Supreme Court further refined the standard, holding that to obtain enhanced
-        remedies under the Elder Abuse Act, a plaintiff must allege facts establishing that
-        the defendant was &ldquo;responsible for meeting the basic needs of the elder or
-        dependent adult&rdquo; and &ldquo;knew of conditions that made the elder or dependent
-        adult unable to provide for his or her own basic needs.&rdquo; In the insurance
-        context, when an insurer knows the policyholder is elderly and displaced from their
-        home, and the insurer controls the funds needed for the policyholder to secure
-        housing and rebuild, this relationship of dependency can be established.
+        California Supreme Court analyzed the &ldquo;neglect&rdquo; theory of elder abuse
+        under W&amp;I Code &sect; 15610.57, distinguishing it from professional negligence
+        and discussing the standard for enhanced &sect; 15657 remedies in a custodial-care
+        context. The &ldquo;responsible for meeting basic needs&rdquo; formulation that
+        appears in <em>Covenant Care</em> tracks the statutory definition of <em>neglect</em>
+        in &sect; 15610.57 specifically &mdash; it is not a universal element of every elder
+        abuse claim. <em>Financial</em> abuse claims under &sect; 15610.30 follow that
+        statute&rsquo;s separate elements (taking, secreting, appropriating, obtaining, or
+        retaining property for a wrongful use or with intent to defraud), and do not require
+        proof that the defendant was responsible for the elder&rsquo;s basic needs in the
+        custodial sense.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -355,14 +358,19 @@ export default function Content() {
         elderly and vulnerable &mdash; the conduct can constitute financial abuse under the Act.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Also, in <em>Das v. Bank of America, N.A.</em> (2010) 186 Cal.App.4th 727,
-        the court provided guidance on what constitutes &ldquo;taking&rdquo; property for a
-        &ldquo;wrongful use&rdquo; under &sect; 15610.30 &mdash; holding that the statute
-        encompasses situations where a fiduciary or someone in a position of trust
-        wrongfully retains money belonging to an elder. While this case involved a bank
-        rather than an insurer, the principle applies equally: an insurance company that
-        retains policy benefits it knows are owed to an elderly policyholder is engaging in
-        the type of conduct the statute was designed to prevent.
+        In <em>Das v. Bank of America, N.A.</em> (2010) 186 Cal.App.4th 727, the court
+        addressed what constitutes &ldquo;wrongful use&rdquo; under &sect; 15610.30. <em>Das</em>
+        is a defense-oriented decision that <em>limits</em> financial elder abuse liability for
+        neutral financial intermediaries: it held that routine, authorized banking transactions
+        do not constitute &ldquo;wrongful use&rdquo; absent evidence that the defendant
+        <em> knew or should have known</em> the transactions were wrongful as to the elder.
+        The principle that follows from <em>Das</em> for the insurance context is the converse
+        of how it cuts against banks: where an insurer <em>knows</em> benefits are owed and
+        nonetheless retains them, the knowledge element <em>Das</em> identified is satisfied.
+        That is essentially the same knowledge element a bad-faith claim already requires.
+        <em> Das</em> therefore does not lower the bar for elder financial abuse against
+        insurers &mdash; it reinforces that the plaintiff must prove the insurer knew or
+        should have known its conduct was wrongful as to the elder.
       </p>
 
       {/* ───────── When to Assert Elder Abuse ───────── */}
@@ -612,16 +620,18 @@ export default function Content() {
           , ensure the policyholder is represented and prepared.
         </li>
         <li>
-          <strong>Act promptly</strong> &mdash; The statute of limitations differs depending
-          on the type of elder abuse. For <em>financial</em> elder abuse, the limitations period
-          is four years under Welfare &amp; Institutions Code Section 15657.7, with the clock
-          starting from the date of discovery or when the abuse reasonably should have been
-          discovered through reasonable diligence. For <em>physical abuse and neglect</em>, the
-          limitations period is two years under Code of Civil Procedure Section 335.1. Other
-          deadlines &mdash; including policy suit limitation clauses &mdash; may apply to the
-          underlying insurance claim as well. Statutes of limitations are subject to change and
-          involve complex legal analysis. Consult a licensed attorney to determine the applicable
-          deadline for your specific situation. Do not wait.
+          <strong>Act promptly</strong> &mdash; Statutes of limitations for elder abuse
+          claims depend on the theory pled. The Elder Abuse Act&rsquo;s own four-year
+          limitations period at W&amp;I Code &sect; 15657.7 applies to actions for damages
+          under &sect;&sect; 15657.5 (financial abuse) and 15657.6 (physical abuse and
+          neglect in custodial care), running from when the plaintiff discovered or should
+          have discovered the facts constituting the abuse. For physical-injury or
+          wrongful-death theories not pled under the Elder Abuse Act&rsquo;s enhanced-remedy
+          provisions, the general two-year personal-injury statute at Code of Civil Procedure
+          Section 335.1 may apply instead. Other deadlines &mdash; including policy
+          suit-limitation clauses on the underlying insurance claim &mdash; may also apply.
+          Statutes of limitations involve complex legal analysis. Consult a licensed
+          attorney to determine the applicable deadline. Do not wait.
         </li>
       </ul>
 
