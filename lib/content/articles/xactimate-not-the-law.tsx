@@ -73,7 +73,16 @@ export default function Content() {
         Who Owns Xactimate &mdash; and Why It Matters
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Understanding Xactimate&rsquo;s ownership structure helps explain why its pricing defaults may not reflect actual repair costs. Xactimate is developed by Xactware Solutions, which is a subsidiary of Verisk Analytics. Verisk was formed in 1971 as the Insurance Services Office (ISO) &mdash; an organization created by and for the insurance industry to provide data, analytics, and risk assessment tools. Verisk acquired Xactware in 2006 and went public in 2009.
+        Understanding Xactimate&rsquo;s ownership structure helps explain why its pricing
+        defaults may not reflect actual repair costs. Xactimate is developed by Xactware
+        Solutions, which is a subsidiary of Verisk Analytics. The Insurance Services Office
+        (ISO) &mdash; Verisk&rsquo;s principal predecessor &mdash; was founded as a
+        not-for-profit consortium on April 1, 1971, consolidating various property/casualty
+        rating bureaus into a single information provider for the insurance industry. ISO
+        transitioned to for-profit status in 1997, and Verisk Analytics was established in
+        2008 to serve as ISO&rsquo;s parent holding company. Verisk acquired Xactware in
+        2006 (before forming the Verisk holding entity) and went public in October 2009 in
+        what was then the largest U.S. IPO of the year.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Verisk&rsquo;s primary customers are insurance companies. Its revenue depends on selling products and services to the insurance industry. While Verisk maintains that its pricing data is objective and market-based, the reality is that the company&rsquo;s financial incentives are aligned with the interests of carriers, not policyholders. When Xactimate&rsquo;s default pricing consistently comes in below what contractors actually charge, that is not a coincidence &mdash; it is a feature that makes the product attractive to its paying customers.
