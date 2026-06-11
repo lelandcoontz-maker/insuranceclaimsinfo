@@ -14,12 +14,15 @@ export default function Content() {
     <>
       <CalloutBox variant="legal" title="This Article Is Not Legal Advice">
         <p>
-          This article is educational commentary on California&rsquo;s unsettled law
-          governing whether invoking appraisal tolls the one-year suit limitation, as a
-          Licensed California Public Adjuster. It is not legal advice. Limitations-period
-          questions can be irreversibly costly if missed. If your deadline is approaching,
-          consult a licensed California attorney immediately &mdash; do not rely on this
-          article or any equitable tolling argument as your only protection.
+          This article is educational commentary by a Licensed California Public Adjuster on
+          how California courts have treated the question of whether invoking appraisal tolls
+          the one-year suit limitation. It is not legal advice. The California Supreme Court
+          has not issued a decision squarely on point, but the published Court of Appeal
+          authority has consistently declined to extend tolling beyond the
+          notice-to-denial window. Limitations-period questions can be irreversibly costly
+          if missed. If your deadline is approaching, consult a licensed California attorney
+          immediately &mdash; do not rely on this article or any equitable tolling argument
+          as your only protection.
         </p>
       </CalloutBox>
 
