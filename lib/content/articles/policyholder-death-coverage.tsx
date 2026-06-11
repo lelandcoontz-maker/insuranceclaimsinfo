@@ -316,16 +316,29 @@ export default function Content() {
         <li>
           <strong>Section 377.34:</strong> In an action by a decedent&rsquo;s personal
           representative or successor in interest on the decedent&rsquo;s cause of action,
-          damages may be recovered that the decedent would have been entitled to recover had
-          the decedent lived.
+          damages may be recovered that the decedent sustained or incurred before death,
+          including any penalties or punitive damages the decedent would have been entitled
+          to. <strong>However, pre-death pain, suffering, or disfigurement damages are
+          generally NOT recoverable</strong> &mdash; that limitation is the long-standing
+          California rule. SB 447 (Stats. 2021) temporarily allowed recovery of pre-death
+          pain-and-suffering damages for survival actions filed January 1, 2022 through
+          December 31, 2025, but that window has closed and &sect; 377.34 has reverted to
+          its prior scope. An important exception remains under the Elder Abuse Act (Welf.
+          &amp; Inst. Code &sect; 15657), which authorizes pre-death pain-and-suffering and
+          punitive damages in elder-abuse survival actions where the conduct rises to
+          recklessness/oppression/fraud/malice.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The practical effect of these statutes is straightforward: the person who steps into the
-        deceased policyholder&rsquo;s shoes &mdash; whether that is a personal representative
-        appointed by the probate court or a successor in interest &mdash; has the full legal
-        right to continue the claim and recover every dollar the policyholder would have been
-        entitled to.
+        The practical effect of these statutes is that the person who steps into the
+        deceased policyholder&rsquo;s shoes &mdash; whether a personal representative
+        appointed by the probate court or a successor in interest &mdash; has the legal
+        right to continue the contract and economic-damages claim. Recovery of pre-death
+        pain-and-suffering, however, generally requires an elder-abuse predicate; for that
+        framework see our article on{' '}
+        <Link href="/resources/elder-abuse-insurance" className="text-[#2E74B5] underline">
+          elder abuse and insurance claims
+        </Link>.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -504,10 +517,13 @@ export default function Content() {
           If the insurer was acting in bad faith before the policyholder died &mdash; unreasonably
           delaying, lowballing, or denying the claim &mdash; that bad faith conduct does not get
           a fresh start because the policyholder passed away. The estate&rsquo;s legal
-          representative inherits the right to pursue a bad faith claim based on the insurer&rsquo;s
-          pre-death conduct, as well as any bad faith that continues after death. Under California
-          Code of Civil Procedure Section 377.34, the estate can recover the same damages the
-          policyholder would have recovered.
+          representative inherits the right to pursue a bad faith claim based on the
+          insurer&rsquo;s pre-death conduct, as well as any bad faith that continues after
+          death. Under California Code of Civil Procedure Section 377.34, the estate can
+          recover the policyholder&rsquo;s economic damages and, in certain circumstances,
+          punitive damages &mdash; though pre-death pain-and-suffering generally requires an
+          elder-abuse predicate (Welf. &amp; Inst. Code &sect; 15657) following the December
+          31, 2025 sunset of the SB 447 expansion.
         </p>
       </CalloutBox>
 
@@ -666,10 +682,24 @@ export default function Content() {
           allow time for substitution of the party.
         </li>
         <li>
-          <strong>Bad faith and punitive damages.</strong> Under CCP Section 377.34, as amended
-          effective January 1, 2022, the decedent&rsquo;s successor in interest may recover
-          damages that are recoverable under Section 377.34, including, in certain circumstances,
-          punitive damages.
+          <strong>Bad faith and damages after death.</strong> SB 447 (Stats. 2021)
+          temporarily amended CCP &sect; 377.34 to allow the decedent&rsquo;s successor in
+          interest to recover pre-death pain, suffering, and disfigurement damages in
+          survival actions filed between January 1, 2022 and December 31, 2025. That window
+          has now closed (SB 29 would have extended it but died in the Legislature), and as
+          of January 1, 2026 &sect; 377.34 has reverted to its longstanding rule: in a
+          standard survival action, the estate can recover the decedent&rsquo;s economic
+          damages and, in certain circumstances, punitive damages, but not pre-death
+          pain-and-suffering. There is an important exception &mdash; if the decedent
+          qualifies as an elder or dependent adult and the conduct rises to the
+          recklessness/oppression/fraud/malice threshold under the Elder Abuse Act, Welfare
+          &amp; Institutions Code &sect; 15657 authorizes recovery of all damages the
+          decedent would have been entitled to, including pre-death pain and suffering. See
+          our article on{' '}
+          <Link href="/resources/elder-abuse-insurance" className="text-[#2E74B5] underline">
+            elder abuse and insurance claims
+          </Link>{' '}
+          for the full framework.
         </li>
         <li>
           <strong>The insurer cannot leverage the death.</strong> The insurer cannot use the
