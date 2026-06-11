@@ -371,15 +371,17 @@ export default function Content() {
         Why the Practice Continues Despite the Clear Rule
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Despite the clear statutory and regulatory text, some carriers and their estimating
-        software still apply depreciation to combined material-plus-labor line items, which has
-        the practical effect of depreciating labor. Where that happens, the carrier is in
-        violation of 10 CCR &sect; 2695.9(f)(1), and the insured has a
-        direct statutory and regulatory citation for the challenge. The earlier &ldquo;physical
-        depreciation&rdquo; and &ldquo;condition&rdquo; arguments under the pre-2019 version of
-        &sect; 2051 are now largely superseded &mdash; the legislature simply wrote the
-        prohibition directly into the statute, leaving no interpretive ambiguity. For a detailed
-        overview of California&apos;s{' '}
+        Despite the clear regulatory text, some carriers and their estimating software still
+        apply depreciation to combined material-plus-labor line items, which has the practical
+        effect of depreciating labor. Where that happens, the carrier is in violation of 10
+        CCR &sect; 2695.9(f)(1), and the insured has a direct regulatory citation for the
+        challenge &mdash; with &sect; 2051(b) supplying the statutory backdrop that the
+        regulation implements. In California, then, the litigated &ldquo;ambiguity vs.
+        broad-evidence&rdquo; debate that consumes other states is largely beside the point:
+        the California Department of Insurance addressed the labor-depreciation question
+        directly through &sect; 2695.9(f)(1), and the statute supplies the depreciation
+        framework against which the regulation operates. For a detailed overview of
+        California&apos;s{' '}
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           Fair Claims Settlement Practices
         </Link>
