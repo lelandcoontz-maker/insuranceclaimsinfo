@@ -166,7 +166,12 @@ export default function Content() {
           An insurance company could violate numerous regulations on a claim that is ultimately
           <em> not covered</em> by the policy at all — and if there is no coverage, there is generally
           no bad faith, regardless of how many procedural rules were broken. Bad faith is about
-          unreasonable conduct in handling a claim the insurer owed in the first place.
+          unreasonable conduct in handling a claim the insurer owed in the first place. The leading
+          California authorities are <em>Waller v. Truck Insurance Exchange</em> (1995) 11 Cal.4th
+          1 and <em>Jordan v. Allstate Insurance Co.</em> (2007) 148 Cal.App.4th 1062. As the
+          Court of Appeal put it in <em>McMillin Scripps North Partnership v. Royal Ins. Co.</em>
+          (1993) 19 Cal.App.4th 1215, &ldquo;a bad faith claim based on failure to investigate
+          cannot be maintained unless there is coverage.&rdquo;
         </p>
         <p className="mb-2">
           <strong>2. Bad faith can exist even without any regulatory or statutory violation.</strong>
