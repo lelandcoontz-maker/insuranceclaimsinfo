@@ -415,11 +415,12 @@ export default function Content() {
         third-party compensation the PA receives in connection with the claim; it does{' '}
         <strong>not</strong> impose a statutory 10% disaster cap. The 10% figure commonly seen
         on catastrophe-disaster contracts is industry contract practice, not statutory law.
-        Pending legislation (AB 597, 2025&ndash;2026 session) would, if enacted, cap PA fees at
-        15% for catastrophic-disaster claims; AB 597 is currently held under submission in the
-        Senate Appropriations suspense file (as of August 29, 2025) and has not become law. The
-        PA only gets paid when you get paid, aligning their financial interest with yours. For
-        more detail, see our guide on{' '}
+        Proposed legislation (AB 597, 2025&ndash;2026 session) would, if enacted, cap PA fees
+        at 15% for catastrophic-disaster claims; as of the last status update available to us
+        (August 29, 2025), AB 597 was held under submission in the Senate Appropriations
+        suspense file and had not become law. Readers should check the California Legislature
+        website for the bill&rsquo;s current status. The PA only gets paid when you get paid,
+        aligning their financial interest with yours. For more detail, see our guide on{' '}
         <Link href="/resources/public-adjuster-fees" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster fees
         </Link>.
