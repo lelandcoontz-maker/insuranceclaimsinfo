@@ -35,16 +35,38 @@ export default function Content() {
         Verisk&rsquo;s Own Disclaimer: The EULA That Carriers Ignore
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Every user of Xactimate agrees to an End User License Agreement (EULA) before using the software. Section 12.3 of the Xactimate EULA contains a critical disclaimer that insurance companies rarely mention to policyholders:
+        Every user of Xactimate agrees to an End User License Agreement (EULA) before using
+        the software. Section 12.3 of the current Xactware EULA contains a disclaimer that
+        insurance companies rarely mention to policyholders: Xactware &ldquo;do[es] not
+        warrant the accuracy of pricing information in the Price Data,&rdquo; and Price Data
+        &ldquo;is intended to represent historical information and should be used as a
+        baseline or place to begin creation of an estimate.&rdquo; The EULA goes on to say
+        Verisk provides Price Data for informational purposes only and that users must
+        ensure that estimates reflect actual materials, equipment, and labor pricing &mdash;
+        not just the software default. The full EULA is published on Verisk&rsquo;s site;
+        the EULA was last broadly updated in April 2024, and the substance of this
+        no-warranty-on-pricing disclaimer has been the subject of high-profile
+        Restoration Industry Association advocacy and reporting.
       </p>
-      <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;Pricing data provided by Xactware is intended as a baseline to begin the estimation process. Xactware does not guarantee the accuracy, reliability, or completeness of pricing data for any particular geographic area or project. Users are responsible for verifying that pricing is accurate and representative of actual costs in the applicable market.&rdquo;
-      </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read that carefully. The company that makes Xactimate tells its own users that the pricing is a &ldquo;baseline to begin the estimation process.&rdquo; It does not guarantee accuracy. It does not guarantee reliability. It does not guarantee completeness. And it places the burden of verification squarely on the user &mdash; which, in an insurance claim, is the carrier&rsquo;s adjuster.
+        Read that carefully. The company that makes Xactimate tells its own users that
+        Price Data is a historical baseline and disclaims any warranty of pricing
+        accuracy. It places the burden of verifying actual local market pricing squarely on
+        the user &mdash; which, in an insurance claim, is the carrier&rsquo;s adjuster.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When an insurance company presents a Xactimate estimate as the final determination of what your repairs cost, it is treating as authoritative a tool that its own manufacturer says is merely a starting point. The carrier has agreed, by accepting the EULA, that the pricing must be verified against actual local market conditions. When the carrier skips that verification and simply pays the Xactimate default, it is not following the software manufacturer&rsquo;s own instructions.
+        When an insurance company presents a Xactimate estimate as the final determination
+        of what your repairs cost, it is treating as authoritative a tool that its own
+        manufacturer disclaims warranty over. The carrier has agreed, by accepting the
+        EULA, that pricing should be verified against actual conditions. When the carrier
+        skips that verification and simply pays the Xactimate default, it is not following
+        the software manufacturer&rsquo;s own instructions.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
+        The current Xactware EULA is published at{' '}
+        <a href="https://www.verisk.com/privacy-policies/xactware-eula/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">verisk.com/privacy-policies/xactware-eula/</a>.
+        Verify the current text directly before relying on a specific phrasing, as Verisk
+        periodically updates the agreement.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -84,48 +106,67 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Courts Have Spoken: Xactimate Is Not Determinative
+        How Courts Have Treated Xactimate
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Multiple federal courts have addressed the role of Xactimate in insurance disputes, and the consensus is clear: a Xactimate estimate is evidence of repair cost, but it is not determinative. Courts have consistently held that Xactimate output does not bind policyholders, does not establish the actual cost of repair, and does not relieve insurers of their obligation to pay what repairs actually cost.
+        Reported decisions involving Xactimate are not uniformly favorable to either side,
+        and policyholder counsel should be careful about generalizing. Several recent rulings
+        have, in fact, gone <em>against</em> homeowners who tried to challenge a carrier
+        for using Xactimate, holding that insurers are not contractually required to use any
+        particular estimating method. See, for example, <em>Belotti v. State Farm Fire
+        &amp; Cas. Co.</em>, 2025 U.S. Dist. LEXIS 54471 (M.D. Pa. Mar. 2025) (dismissing
+        proposed class action where State Farm used Xactimate&apos;s &ldquo;new
+        construction&rdquo; pricing), and <em>Sheahan v. State Farm Gen. Ins. Co.</em>,
+        442 F. Supp. 3d 1178 (N.D. Cal. 2020) (dismissing wildfire victims&apos; antitrust
+        and California UCL claims related to Xactimate pricing, with prejudice). These
+        decisions are not a holding that Xactimate is correct &mdash; they decided
+        narrower contract and antitrust questions &mdash; but the article would mislead a
+        reader who took them as authority that Xactimate cannot be the carrier&rsquo;s
+        starting point.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The earlier Katrina-era class action <em>Schafer v. State Farm Fire &amp; Cas.
+        Co.</em>, 507 F. Supp. 2d 587 (E.D. La. 2007), examined plaintiffs&apos;
+        allegations that State Farm pressured adjusters to use deflated Xactware
+        pricing after the storm; the case is most useful as background for the policy
+        critique of standardized pricing in disaster markets rather than as a
+        substantive holding that Xactimate output is invalid.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The more defensible policyholder argument is not &ldquo;the courts have rejected
+        Xactimate.&rdquo; It is the argument the software manufacturer itself makes in the
+        EULA: the Price Data is a baseline that must be verified against the actual local
+        market, and a printed Xactimate page is only as good as the inputs the adjuster
+        selected. Where carriers run defaults and treat the output as final, the criticism
+        is not that the case law has banned Xactimate &mdash; it is that the carrier has
+        not satisfied its own software vendor&apos;s instructions for using the tool.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Belotti v. Allstate Fire &amp; Casualty Insurance Co. (M.D. Pa. 2025)
+        The ESX File: What the Native Output Reveals
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The court rejected Allstate&rsquo;s argument that its Xactimate estimate represented the actual cost of repair. The court found that a software-generated estimate, standing alone, does not establish what it actually costs to repair damaged property in a specific location. The policyholder&rsquo;s contractor bids and testimony about actual market conditions were relevant evidence that the jury could consider.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Schafer v. State Farm Fire &amp; Casualty Co. (E.D. La. 2007)
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In this post-Hurricane Katrina case, the court questioned the reliability of Xactimate estimates in a market where labor and material costs had been dramatically affected by the catastrophe. The court recognized that standardized software pricing may not reflect the actual cost environment following a disaster &mdash; precisely the situation where accurate cost estimation matters most.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Sheahan v. CSAA Insurance Exchange (N.D. Cal. 2020)
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The court addressed whether a Xactimate estimate could serve as the definitive measure of replacement cost. The court found that the insurer could not rely solely on its Xactimate output to establish the cost of repair when the policyholder presented contrary evidence of what repairs actually cost in the local market.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Skender v. Auto-Owners Insurance Co. (S.D. Ind. 2024)
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The court rejected the carrier&rsquo;s reliance on Xactimate as the sole basis for its valuation. The decision reinforced the principle that software-generated estimates are one form of evidence among many, and that actual contractor costs, local market conditions, and the specific circumstances of the repair are all relevant to determining what a loss actually costs to repair.
-      </p>
-
-      <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        The ESX File and Judge Varholak&rsquo;s Ruling
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In a landmark discovery ruling, Magistrate Judge Michael E. Varholak of the District of Colorado held that policyholders are entitled to the underlying <Link href="/resources/esx-file-rights-xactimate" className="text-[#2E74B5] underline">ESX file</Link> &mdash; the native Xactimate file &mdash; from the carrier&rsquo;s estimate. The ESX file contains all the inputs, settings, price list selections, and adjustments (or lack thereof) that produced the final number. Judge Varholak&rsquo;s ruling recognized that a printed Xactimate estimate does not tell the full story. To evaluate whether the estimate is accurate, you need to see how it was built.
+        Separate from the case-law debate, the discovery question of whether a
+        policyholder is entitled to the carrier&rsquo;s native Xactimate{' '}
+        <Link href="/resources/esx-file-rights-xactimate" className="text-[#2E74B5] underline">ESX file</Link>{' '}
+        has been actively litigated, with at least some federal magistrates ordering
+        production of the native file rather than a flattened PDF. The ESX file contains
+        all of the inputs, settings, price list selections, and adjustments (or lack
+        thereof) that produced the final number. The exact ruling that controls in any
+        specific case is jurisdiction-specific; before relying on a particular ESX-file
+        order, an insured&apos;s attorney should verify it against the controlling
+        precedent in the relevant district. For more on the practical mechanics of
+        getting the native file, see our companion article.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This ruling is significant because it treats Xactimate estimates as what they are: user-generated outputs that depend on the choices made by the person who created them. If the adjuster selected an outdated price list, used default waste factors instead of site-specific ones, omitted applicable line items, or failed to include <Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">overhead and profit</Link>, all of that is visible in the ESX file.
+        The ESX-file analysis matters because a printed Xactimate estimate does not tell
+        the full story. To evaluate whether the estimate is accurate, you need to see how
+        it was built. If the adjuster selected an outdated price list, used default waste
+        factors instead of site-specific ones, omitted applicable line items, or failed
+        to include{' '}
+        <Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">
+          overhead and profit
+        </Link>, all of that is visible in the ESX file.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
