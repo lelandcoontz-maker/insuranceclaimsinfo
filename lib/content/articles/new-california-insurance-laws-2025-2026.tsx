@@ -259,9 +259,15 @@ export default function Content() {
         SB 876: The Disaster Recovery Reform Act
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Status:</strong> Recommended &ldquo;do pass as amended&rdquo; by Senate Insurance
-        Committee (May 14, 2026); currently on the Senate Appropriations suspense file. Not yet
-        enacted.
+        <strong>Author:</strong> Senator Steve Padilla (D-San Diego), Chair, Senate
+        Insurance Committee &mdash; in partnership with Insurance Commissioner Ricardo Lara.
+        <br />
+        <strong>Status (last update available to us):</strong> Passed the Senate (30&ndash;9)
+        and advanced to the Assembly; in the Assembly Appropriations Committee as of June
+        2026. Not yet enacted. Verify current status at{' '}
+        <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB876" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
+          leginfo.legislature.ca.gov
+        </a>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         SB 876 would impose new requirements on insurers to plan for and respond to large-scale
@@ -306,12 +312,17 @@ export default function Content() {
 
       {/* ====== SB 877 ====== */}
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        SB 877: Fair Claims Practices and Transparency Act
+        SB 877: Residential Property Insurance: Loss Estimate Transparency
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Author:</strong> Senator Sasha Renee Perez (D-Pasadena)
+        <strong>Author:</strong> Senator Sasha Ren&eacute;e P&eacute;rez (D-Pasadena)
         <br />
-        <strong>Status:</strong> Passed Senate Insurance Committee (April 2026); now in Senate Appropriations
+        <strong>Status (last update available to us):</strong> Passed Senate Insurance
+        Committee (April 2026); in Senate Appropriations as of mid-2026. Verify current
+        status at{' '}
+        <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB877" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
+          leginfo.legislature.ca.gov
+        </a>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         SB 877 targets the opacity of the claims adjustment process. If enacted, it would require insurers to:
@@ -339,12 +350,17 @@ export default function Content() {
 
       {/* ====== SB 878 ====== */}
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        SB 878: Insurance Payment Accountability Act
+        SB 878: Insurance Business Practices (Payment Accountability Act)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Author:</strong> Senator Sasha Renee Perez
+        <strong>Author:</strong> Senator Sasha Ren&eacute;e P&eacute;rez
         <br />
-        <strong>Status:</strong> Passed Senate (as amended), April 22, 2026; now in Senate Appropriations
+        <strong>Status (last update available to us):</strong> Recommended &ldquo;do pass
+        as amended&rdquo; by committee (4&ndash;2) on April 22, 2026; re-referred to Senate
+        Appropriations. Verify current status at{' '}
+        <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB878" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
+          leginfo.legislature.ca.gov
+        </a>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This bill gives California&rsquo;s claims handling deadlines real financial consequences:
@@ -379,7 +395,12 @@ export default function Content() {
         <br />
         <strong>Sponsor:</strong> Insurance Commissioner Ricardo Lara
         <br />
-        <strong>Status:</strong> Passed Assembly Insurance Committee (14-1), April 2026; now in Assembly Appropriations
+        <strong>Status (last update available to us):</strong> Passed the Assembly
+        Third Reading 62&ndash;8 on May 21, 2026 and has moved to the Senate. Verify
+        current status at{' '}
+        <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1680" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
+          leginfo.legislature.ca.gov
+        </a>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The FAIR Plan currently offers bare-bones fire coverage. Policyholders who need water damage
