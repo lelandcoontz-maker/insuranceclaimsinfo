@@ -324,9 +324,12 @@ export default function Content() {
         >
           Restoration Industry Association (RIA)
         </a>, which successfully pressed Verisk to restore and strengthen this language after a
-        2024 EULA revision temporarily weakened it. Aaron Brunko, President of Xactware, publicly
-        acknowledged that the language was necessary to ensure that Xactimate tools &quot;deliver
-        on restorers&apos; operational needs&quot; and adhere to fair pricing principles.
+        2024 EULA revision temporarily weakened it. Aaron Brunko, President of Property
+        Estimating Solutions at Verisk (the business unit that owns Xactware and Xactimate),
+        publicly acknowledged at the 2024 RIA Convention Town Hall that the language was
+        necessary to ensure that Xactimate tools &quot;deliver on restorers&apos;
+        operational needs&quot; and adhere to industry-standard pricing research and
+        publication methods.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
