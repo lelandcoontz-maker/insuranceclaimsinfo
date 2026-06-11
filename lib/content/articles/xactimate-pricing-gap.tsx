@@ -417,10 +417,12 @@ export default function Content() {
         Request Your ESX File
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code Section 2071 and 10 CCR 2695.7(d), you have the right
-        to request the underlying ESX file &mdash; the actual Xactimate project file, not just
-        the PDF summary. The carrier has 15 days to provide it once you make the request in
-        writing.
+        California Insurance Code Section 2071 (the Standard Form Fire Insurance Policy),
+        10 CCR 2695.9(d) (the written-scope-of-loss requirement), and 10 CCR 2695.3 (file
+        and record documentation) provide the framework for requesting the underlying ESX
+        file &mdash; the actual Xactimate project file, not just the PDF summary. Under
+        10 CCR 2695.5(b), an insurer generally has 15 calendar days to respond to a
+        written communication from the claimant, which includes a written ESX request.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The ESX file allows a qualified estimator to see exactly what settings, pricing, and

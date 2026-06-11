@@ -582,18 +582,19 @@ export default function Content() {
         and profit for a general contractor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Also, 10 CCR 2695.7(g) prohibits insurers from recommending or suggesting
-        that the claimant &ldquo;not submit a claim or not pursue a claim based upon
-        insufficient information.&rdquo; When a carrier tells you O&amp;P is not owed without
-        providing a legitimate basis, they are discouraging you from pursuing money you are
-        entitled to.
+        Separately, 10 CCR 2695.7(d) requires an insurer&apos;s claim investigation to be
+        thorough, fair, and objective. When a carrier asserts that O&amp;P is not owed
+        without providing a documented, fact-specific basis, that conclusory position is
+        difficult to square with a thorough, fair, and objective investigation under (d).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California also requires insurers under 10 CCR 2695.9(b) to provide a written estimate
-        that is &ldquo;reasonable in amount and scope.&rdquo; An estimate that systematically
-        excludes a legitimate cost component &mdash; one that the carrier&apos;s own software
-        recognizes as separate from line item pricing &mdash; is not reasonable. It is an
-        estimate designed to underpay.
+        California also requires insurers under 10 CCR 2695.9(d) to supply a written scope
+        of loss and/or written estimate to the claimant. The regulation contemplates that
+        the insurer&apos;s estimate will reflect what is reasonably necessary to restore the
+        property to its pre-loss condition consistent with accepted trade standards. An
+        estimate that systematically excludes a legitimate cost component &mdash; one that
+        the carrier&apos;s own software treats as separate from line-item pricing &mdash; is
+        difficult to reconcile with that obligation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
