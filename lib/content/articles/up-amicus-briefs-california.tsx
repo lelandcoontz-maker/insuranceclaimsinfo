@@ -141,7 +141,7 @@ export default function Content() {
 
         <div className="bg-white border border-gray-200 rounded-lg p-4">
           <p className="font-bold text-gray-900 mb-1">
-            Nargizyan v. State Farm General Insurance Co. (2025)
+            Nargizyan v. State Farm General Insurance Co. (2026)
           </p>
           <p className="text-sm text-gray-600 mb-2">California Court of Appeal</p>
           <p className="text-gray-700 text-sm mb-2">
