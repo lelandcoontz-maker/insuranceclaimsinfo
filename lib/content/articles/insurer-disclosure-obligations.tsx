@@ -580,12 +580,17 @@ export default function Content() {
         is done properly.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code Section 758.5, the anti-steering statute, reinforces
-        this protection by prohibiting insurers from requiring use of a specific repair
-        facility or penalizing policyholders who choose someone else. The insurer must tell
-        you that you have a choice. If they did not, and you ended up using their preferred
-        vendor without knowing you had an alternative, the insurer failed its disclosure
-        obligation. See our articles on{' '}
+        On residential property claims, the controlling source for this protection is the
+        Fair Claims Settlement Practices Regulations. 10 CCR &sect; 2695.9(b) prohibits an
+        insurer from requiring the insured to have the property repaired by a specific
+        entity, and &sect; 2695.9(c) limits an insurer&apos;s ability to suggest or recommend
+        a particular repairer absent the claimant&apos;s express request or a written
+        disclosure of the right to choose. (California Insurance Code Section 758.5 is the
+        analogous anti-steering statute on the auto-insurance side; it applies to automotive
+        repair dealers, not residential property contractors.) The insurer must tell the
+        insured that there is a choice. If the insurer did not, and the insured ended up
+        using a preferred vendor without knowing an alternative existed, the insurer may
+        have failed its disclosure obligation. See our articles on{' '}
         <Link href="/resources/choosing-your-contractor" className="text-blue-700 underline hover:text-blue-900">
           choosing your own contractor
         </Link>{' '}
