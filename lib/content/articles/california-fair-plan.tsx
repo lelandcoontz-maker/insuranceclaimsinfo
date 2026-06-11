@@ -22,11 +22,14 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         The California FAIR Plan (Fair Access to Insurance Requirements) was created in 1968 as a
-        last-resort option for property owners who cannot obtain fire insurance through the private
-        market. Originally designed for a small number of high-risk properties, the FAIR Plan has
-        ballooned to over 680,000 policies as major carriers have pulled back from California. If
-        you have been non-renewed or denied coverage, the FAIR Plan may be your most realistic
-        option — but you need to understand exactly what it does and does not cover.
+        last-resort option for property owners who cannot obtain fire insurance through the
+        private market. Originally designed for a small number of high-risk properties, the FAIR
+        Plan grew to approximately 555,000 residential policies by March 2025 and has continued
+        to expand rapidly as major carriers have pulled back from California &mdash; particularly
+        after the January 2025 Los Angeles wildfires. Current totals are reported through CDI
+        filings and FAIR Plan public reports. If you have been non-renewed or denied coverage,
+        the FAIR Plan may be your most realistic option &mdash; but you need to understand
+        exactly what it does and does not cover.
       </p>
 
       <CalloutBox variant="warning" title="FAIR Plan ≠ Full Homeowner Coverage">
@@ -223,8 +226,16 @@ export default function Content() {
         policy language and that some subsequent denial rationales rely on the{' '}
         <em>Another Planet</em> &ldquo;distinct, demonstrable and physical alteration&rdquo;
         standard itself, meaning the next round of disputes is likely to focus on whether
-        laboratory testing satisfies that standard. The current status of any specific
-        FAIR Plan response, including any appeal and policy-form revisions, is best
+        laboratory testing satisfies that standard.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The regulator has also weighed in. On July 31, 2025, the California Department of
+        Insurance issued an Order to Show Cause and cease-and-desist against the FAIR Plan
+        (CDI Press Release No. 054-2025), based on a market conduct examination that
+        documented 418 violations of California consumer-protection law in FAIR Plan claim
+        handling. The OSC focuses on the same smoke-damage denial pattern <em>Aliff</em>
+        addressed. The current status of any specific FAIR Plan response, including the OSC
+        proceedings, any appeal of <em>Aliff</em>, and policy-form revisions, is best
         confirmed through CDI press releases and FAIR Plan public filings.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
