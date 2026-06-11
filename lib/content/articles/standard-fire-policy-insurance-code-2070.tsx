@@ -1247,9 +1247,13 @@ export default function Content() {
           coverage without depreciation, when the policy includes a replacement cost provision.
         </li>
         <li>
-          <strong>Insurance Code Section 2070.1:</strong> Requires insurers to notify the insured
-          of the applicable statute of limitation at least 30 days before expiration, with tolling
-          consequences for failure to provide notice.
+          <strong>Insurance Code Section 2070.1:</strong> Requires insurers to notify the
+          insured of the applicable statute of limitation at least 30 days before expiration
+          &mdash; but <strong>only for residential fire or property insurance claims for loss
+          due, in whole or in part, to corrosive soils</strong>, not for fire and other
+          property claims generally. The broader 60-day SOL notice requirement applicable to
+          all property claims lives in 10 CCR &sect; 2695.7(f) of the Fair Claims Settlement
+          Practices Regulations &mdash; not in &sect; 2070.1.
         </li>
         <li>
           <strong>Insurance Code Section 2071:</strong> Sets forth the complete text of the
