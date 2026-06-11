@@ -22,10 +22,14 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="AB 597 Status: Pending — Not Enacted">
         <p>
-          AB 597 (Harabedian, &ldquo;The Insurance Payment Protection Act&rdquo;) is a pending
-          California bill. It is <strong>not law</strong>. The bill has been held under
-          submission in the California Senate Appropriations Committee suspense file since
-          August 29, 2025, and has not been signed by the Governor.
+          AB 597 (Assemblymember John Harabedian, D-Pasadena, &ldquo;The Insurance Payment
+          Protection Act,&rdquo; sponsored by the California Department of Insurance) is a
+          pending California bill. It is <strong>not law</strong>. As of the last status
+          update available to us (August 29, 2025), the bill was held under submission in the
+          California Senate Appropriations Committee suspense file and had not been signed by
+          the Governor. The 2025&ndash;2026 legislative session continues through September
+          2026, so the status may have changed. Verify current status at the legislature
+          link below before relying on this snapshot.
         </p>
       </CalloutBox>
 
@@ -54,8 +58,9 @@ export default function Content() {
           addressed.
         </li>
         <li>
-          Extend the post-signing cancellation window to <strong>five calendar days</strong>{' '}
-          during a state of emergency.
+          Extend the existing five-calendar-day post-signing cancellation window (which
+          currently applies only to catastrophic-disaster-area losses) to also cover losses
+          in a declared state-of-emergency area.
         </li>
         <li>
           Restrict solicitation during active loss-producing occurrences and between 6 p.m.
