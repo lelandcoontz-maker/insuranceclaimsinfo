@@ -172,14 +172,28 @@ export default function Content() {
         The ESX file is, by any reasonable interpretation, a claim-related document. It is the repair estimate itself &mdash; the PDF is merely a printout of it. Under &sect; 2071, the insurer must provide copies of claim-related documents within fifteen calendar days of the policyholder&apos;s request.
       </p>
 
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">10 CCR &sect; 2695.7(d) &mdash; Duty to Provide Documentation</h3>
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">10 CCR &sect; 2695.7(b)(1) and &sect; 2695.7(d) &mdash; The Documentation and Investigation Duties</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s Fair Claims Settlement Practices Regulations, codified at Title 10, California Code of Regulations, Section 2695.7(d), impose additional obligations on insurers. These regulations require that every insurer that issues a written denial of a claim or part of a claim must provide the policyholder with the factual and legal bases for the denial. More broadly, the fair claims settlement framework requires insurers to conduct thorough and fair investigations, to provide policyholders with the documentation necessary to understand how the claim was evaluated, and to act in good faith throughout the process.
+        California&apos;s Fair Claims Settlement Practices Regulations impose two
+        overlapping obligations relevant here. Under <strong>10 CCR &sect;
+        2695.7(b)(1)</strong>, every insurer that issues a written denial of a claim or
+        part of a claim must provide the policyholder with the factual and legal bases for
+        the denial &mdash; including the policy provision the insurer is relying on. Under
+        <strong> 10 CCR &sect; 2695.7(d)</strong>, every insurer must conduct a thorough,
+        fair, and objective investigation of the claim. Read together, the regulations
+        require insurers to provide policyholders with the documentation necessary to
+        understand how the claim was evaluated and to act in good faith throughout the
+        process.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2695.7(b) further requires that every insurer disclose to the claimant all benefits, coverage, time limits, or other provisions of any insurance policy that may apply. When the basis of the insurer&apos;s valuation is embedded in a file it refuses to share, the insurer is effectively concealing the methodology behind its payment &mdash; which is inconsistent with these regulatory requirements.
+        <strong>10 CCR &sect; 2695.4(a)</strong> further requires that every insurer
+        disclose to the claimant all benefits, coverage, time limits, or other provisions
+        of any insurance policy that may apply. When the basis of the insurer&apos;s
+        valuation is embedded in a file it refuses to share, the insurer is effectively
+        concealing the methodology behind its payment &mdash; which is inconsistent with
+        these regulatory requirements.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">The ESX File Is Part of the Claim File</h3>
