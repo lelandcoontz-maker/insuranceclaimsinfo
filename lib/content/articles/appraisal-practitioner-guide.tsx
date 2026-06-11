@@ -367,17 +367,22 @@ export default function Content() {
         <Link href="/resources/california-insurance-case-law" className="text-[#2E74B5] underline">
           <em>Lambert v. Carneghi</em>
         </Link>{' '}
-        (2008) 158 Cal.App.4th 1120 &mdash; a malpractice action against a party
-        appraiser &mdash; the Court of Appeal addressed the role distinction between party
-        appraisers and the umpire, characterizing the party appraiser as an <strong>advocate</strong>
-        rather than a neutral. Practitioners commonly cite <em>Lambert</em> for the proposition
-        that the policyholder&rsquo;s appraiser is expected to represent the policyholder&rsquo;s
-        position on the amount of loss while the umpire serves as the neutral. A licensed{' '}
+        (2008) 158 Cal.App.4th 1120 &mdash; a malpractice action by an insured against
+        the party appraiser they had hired &mdash; the Court of Appeal held that an appraisal
+        proceeding under &sect; 2071 <strong>is an arbitration as a matter of law</strong> and
+        that the party-selected appraiser was entitled to <strong>arbitral immunity</strong>
+        from the insured&rsquo;s claim. The court specifically <em>rejected</em> the insureds&rsquo;
+        argument that their appraiser&rsquo;s role was that of a party-appointed advocate
+        analogous to an attorney, noting that &sect; 2071 itself requires each appraiser to
+        be &ldquo;competent and disinterested&rdquo; and that the Legislature has made
+        appraiser impartiality a statutory requirement. The practical reality in California
+        is that party appraisers commonly take positions favorable to the party that selected
+        them, but the statutory standard remains impartiality &mdash; not advocacy. A licensed{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
           Public Adjuster
         </Link>{' '}
-        is often selected as party appraiser because the role combines loss valuation expertise
-        with advocacy experience.
+        is often selected as party appraiser because the role calls for loss-valuation
+        expertise applied within that statutory framework.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -1113,10 +1118,12 @@ export default function Content() {
         D. Carrier Appraiser Tactics to Watch For
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The insurer&rsquo;s appraiser is an advocate for the insurer&rsquo;s position &mdash;
-        that is established by <em>Lambert v. Carneghi</em>. But advocacy is one thing; the
-        following tactics cross the line into gamesmanship that can distort the process and
-        produce an unfair result. Recognizing them is the first step to countering them.
+        Although &sect; 2071 requires each party appraiser to be &ldquo;competent and
+        disinterested,&rdquo; the practical reality is that the insurer&rsquo;s appraiser
+        almost always takes positions favorable to the insurer. Some carrier-side appraisers
+        push that practical reality past the statutory line and into gamesmanship that can
+        distort the process. The tactics below are the most common patterns to recognize and
+        counter.
       </p>
       <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
         <li>
