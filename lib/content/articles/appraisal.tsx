@@ -265,11 +265,12 @@ export default function Content() {
         </li>
         <li>
           <strong>Panel composition.</strong> An appraisal panel consists of two party-selected
-          appraisers (who are advocates for the appointing parties under &sect; 2071&rsquo;s
-          &ldquo;competent and disinterested&rdquo; standard) and one neutral umpire (who
-          carries the statutory disclosure obligations of a neutral arbitrator under CCP
-          &sect; 1281.9). A general arbitration panel is typically one neutral arbitrator or
-          three neutral arbitrators &mdash; not a mixed advocate/neutral panel.
+          appraisers (each required by &sect; 2071 to be &ldquo;competent and disinterested,&rdquo;
+          although in practice each commonly advances the position of the selecting party) and
+          one neutral umpire (who carries the statutory disclosure obligations of a neutral
+          arbitrator under CCP &sect; 1281.9). A general arbitration panel is typically one
+          neutral arbitrator or three neutral arbitrators &mdash; not the party-appointed /
+          neutral hybrid that &sect; 2071 prescribes.
         </li>
         <li>
           <strong>Decision rule.</strong> Any two of the three appraisal panel members can

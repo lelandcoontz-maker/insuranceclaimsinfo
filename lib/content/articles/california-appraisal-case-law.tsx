@@ -863,11 +863,14 @@ export default function Content() {
         <li>
           <strong>Research the proposed umpire.</strong> Under CCP &sect;&sect; 1281.9 and
           1281.91, the umpire must disclose conflicts and may be disqualified within a 15-day
-          window after the disclosures. Under <em>Mahnke</em>, the carrier&rsquo;s <em>party</em>
-          appraiser must also disclose relationships &mdash; though party appraisers are advocates
-          and are harder to remove. Before agreeing to any umpire, ask for disclosure of all prior
-          appraisals and assignments involving the same carrier; a long pattern of repeat work for
-          one side is exactly the kind of fact the disclosure rules exist to surface.
+          window after the disclosures. <em>Mahnke</em> confirmed that these statutory
+          disclosure-and-disqualification provisions apply only to the <em>umpire</em>, not
+          to party appraisers. The carrier&rsquo;s party appraiser is subject instead to
+          &sect; 2071&rsquo;s &ldquo;competent and disinterested&rdquo; requirement and a
+          judicially-developed &ldquo;substantial business relationship&rdquo; standard, which
+          is harder to invoke. Before agreeing to any umpire, ask for disclosure of all prior
+          appraisals and assignments involving the same carrier; a long pattern of repeat work
+          for one side is exactly the kind of fact the disclosure rules exist to surface.
         </li>
         <li>
           <strong>Demand written disclosures.</strong> Do not let the umpire nomination process
