@@ -1098,9 +1098,13 @@ export default function Content() {
         <li>
           <strong>Know your deadlines &mdash; and know your protections.</strong> The standard
           form establishes a 12-month suit limitation (24 months for state-of-emergency losses),
-          but the limitations period is subject to delayed discovery and equitable tolling. If your
-          insurer has not notified you of the upcoming deadline under Section 2070.1, the deadline
-          may be tolled.
+          but the limitations period is subject to delayed discovery and equitable tolling. The
+          insurer also has an affirmative obligation to notify the insured of an impending statute
+          of limitations under 10 CCR &sect; 2695.7(f) (no later than 60 days before expiration);
+          a separate, much narrower notice obligation lives in Insurance Code &sect; 2070.1 for
+          residential corrosive-soils claims (no later than 30 days before expiration). If the
+          insurer has not notified the insured of an upcoming deadline as required, that failure
+          may support tolling or estoppel arguments.
         </li>
         <li>
           <strong>The 60-day payment rule has teeth.</strong> Once you have submitted a compliant
