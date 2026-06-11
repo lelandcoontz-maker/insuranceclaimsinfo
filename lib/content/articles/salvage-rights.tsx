@@ -457,31 +457,34 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>10 CCR &sect; 2695.7(b):</strong> Requires the insurer to disclose all
-          benefits, coverage, time limits, or other provisions of the policy that may apply to
-          the claim. If salvage provisions in the policy affect the settlement calculation, the
-          insurer must disclose them.
+          <strong>10 CCR &sect; 2695.4(a):</strong> Requires the insurer to disclose all
+          benefits, coverage, time limits, and other provisions of any insurance policy
+          issued by that insurer that may apply to the claim. If salvage provisions in the
+          policy affect the settlement calculation, the insurer must disclose them.
         </li>
         <li>
           <strong>10 CCR &sect; 2695.7(g):</strong> Requires that no insurer shall attempt to
           settle a claim by making a settlement offer that is unreasonably low. An inflated
-          salvage deduction that reduces the settlement below what the policyholder is owed would
-          violate this provision.
+          salvage deduction that reduces the settlement below what the policyholder is owed
+          would violate this provision.
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.9(b):</strong> For residential property claims, the insurer
-          must provide a written estimate of the amount for which the loss can be repaired or the
-          property replaced, and must include in its settlement offer the applicable measure of
-          damages under the policy. Any salvage deduction should be transparently documented as
-          part of this calculation.
+          <strong>10 CCR &sect; 2695.9(d):</strong> For first-party residential property
+          claims, the insurer must supply the claimant with a written scope of repair and
+          estimate of damage, of an amount that will restore the damaged property to no less
+          than its pre-loss condition and meet accepted trade standards for good and
+          workmanlike construction. Any salvage deduction should be transparently documented
+          as part of this calculation, and a deduction that prevents the estimate from
+          restoring the property to pre-loss condition raises issues under this provision.
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.9(d):</strong> When an insurer elects to repair, restore,
-          or replace damaged property, the insurer must restore the property to at least its
-          condition immediately before the loss. This is relevant because if the insurer claims
-          an item has been &ldquo;restored&rdquo; through cleaning but the policyholder believes
-          it has not been adequately restored, the salvage question re-emerges: is the item a
-          total loss (triggering replacement and potential salvage), or was it properly repaired?
+          <strong>10 CCR &sect; 2695.9(c)(2):</strong> If the insured accepts the insurer&apos;s
+          recommendation of a specific repair entity, the insurer must cause the damaged
+          property to be restored to no less than its pre-loss condition at no additional
+          cost to the claimant. If the insurer claims an item has been &ldquo;restored&rdquo;
+          through cleaning but the policyholder believes it has not been adequately restored,
+          the salvage question re-emerges: is the item a total loss (triggering replacement
+          and potential salvage), or was it properly repaired?
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
