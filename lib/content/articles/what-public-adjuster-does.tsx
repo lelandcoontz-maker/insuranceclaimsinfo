@@ -138,8 +138,11 @@ export default function Content() {
         </li>
         <li>
           <strong>Attorney:</strong> Handles legal disputes — bad faith claims, coverage
-          denials, litigation. Can sue the insurer. Works on contingency (typically 33-40%
-          of recovery above what was offered).
+          denials, litigation. Can sue the insurer. Most insurance bad-faith attorneys work
+          on contingency, typically 33&ndash;40% of the recovery. If the case succeeds on a
+          bad-faith theory, the court may award <em>Brandt</em> fees &mdash; the attorney
+          fees attributable to recovering the wrongfully withheld policy benefits &mdash;
+          shifting that portion of the fee to the carrier.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
