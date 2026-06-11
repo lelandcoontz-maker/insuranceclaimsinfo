@@ -908,10 +908,16 @@ export default function Content() {
           failure to disclose can be a ground for vacating the award.
         </li>
         <li>
-          <strong>Role Clarity (<em>Lambert</em>):</strong> Party appraisers are advocates; the
-          umpire is the neutral. Each participant has a defined role, and the process works only
-          when everyone stays in their lane. A policyholder&rsquo;s appraiser who advocates
-          vigorously is doing their job. An umpire who advocates for one side is violating theirs.
+          <strong>Role Clarity (<em>Lambert</em>):</strong> <em>Lambert</em> confirmed that
+          California &sect; 2071 appraisal is arbitration and extended arbitral immunity to
+          party-appointed appraisers, but it did so on the express premise that &sect; 2071
+          requires each appraiser to be &ldquo;competent and disinterested&rdquo; and that the
+          Legislature has made appraiser impartiality a statutory requirement. In
+          industry practice, party appraisers commonly take positions favorable to the side that
+          selected them &mdash; but that is a practice norm, not the holding of <em>Lambert</em>,
+          which expressly rejected the &ldquo;party appraiser as advocate&rdquo; characterization.
+          The umpire is the neutral. Each participant still has a defined role, and the process
+          works only when everyone stays in their lane.
         </li>
         <li>
           <strong>Strategic Consequence (<em>Bansal</em>):</strong> Appraisal resolves the amount
@@ -935,7 +941,9 @@ export default function Content() {
         can decide (amount, not coverage). <em>Devonwood</em> ensures the judgment conforms to the
         award. <em>Lee</em> keeps the panel to valuing real losses and makes the award final.{' '}
         <em>Sharma</em> keeps the panel within its lane and the umpire neutral. <em>Lambert</em>{' '}
-        clarifies that party appraisers advocate while the umpire is the neutral. <em>Bansal</em>{' '}
+        confirms appraisal is arbitration under CCP &sect; 1280, extends arbitral immunity to
+        party appraisers, and rests on &sect; 2071&rsquo;s statutory impartiality requirement
+        for all panel members. <em>Bansal</em>{' '}
         reminds us that appraisal has strategic consequences beyond the amount &mdash; it can
         foreclose other remedies. And <em>Doan</em> reserves methodology challenges for the
         courts, ensuring the panel is not asked to decide the legal question of whether the
