@@ -300,10 +300,12 @@ export default function Content() {
             dealing.
           </li>
           <li>
-            <strong>Civil Code &sect; 2954.5.</strong> California has a separate notice requirement
-            for changes in a mortgage payment amount that can apply when force-placed premiums
-            are added to a borrower&rsquo;s payment &mdash; though it is not a force-placed-
-            insurance-specific statute.
+            <strong>Civil Code &sect; 2954.5.</strong> California requires a lender to provide
+            written notice (or ongoing billing notice) before assessing a late payment charge on
+            a delinquent payment of a loan secured by real property. This can become relevant
+            indirectly in the force-placement context when an inflated force-placed premium
+            causes a mortgage payment to increase and the borrower then misses a payment
+            &mdash; but &sect; 2954.5 is not a force-placed-insurance-specific statute.
           </li>
         </ul>
         <p className="mt-3">
