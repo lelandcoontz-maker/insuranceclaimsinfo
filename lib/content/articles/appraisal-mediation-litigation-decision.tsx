@@ -571,7 +571,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The timing of an appraisal demand is one of the most consequential strategic decisions in
         an insurance dispute. Invoke it too early and you may forfeit leverage. Invoke it too late
-        and you may lose the right entirely under Sharma.
+        and you may lose the right entirely under the <em>Saint Agnes</em> / <em>Quach</em>
+        litigation-conduct waiver framework.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -591,8 +592,8 @@ export default function Content() {
           need to litigate on other issues, you will have resolved the amount question efficiently.
         </li>
         <li>
-          <strong>Preserving the right:</strong> Invoking appraisal early eliminates any Sharma
-          waiver risk.
+          <strong>Preserving the right:</strong> Invoking appraisal early eliminates any
+          litigation-conduct waiver risk under <em>Saint Agnes</em> / <em>Quach</em>.
         </li>
         <li>
           <strong>Building the bad faith record:</strong> If the appraisal award significantly
@@ -623,17 +624,19 @@ export default function Content() {
         </li>
         <li>
           <strong>The insurer invokes appraisal:</strong> Sometimes the insurer demands appraisal
-          mid-litigation. Carefully evaluate whether the insurer has waived its right under Sharma.
-          If not, consider whether appraisal might actually be in your client&apos;s interest &mdash;
-          it often is, even when the insurer is the one demanding it.
+          mid-litigation. Carefully evaluate whether the insurer has waived its right under the
+          <em> Saint Agnes</em> / <em>Quach</em> framework. If not, consider whether appraisal
+          might actually be in your client&apos;s interest &mdash; it often is, even when the
+          insurer is the one demanding it.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The key risk of post-litigation appraisal is Sharma waiver. If you have already taken
-        extensive discovery on the amount of loss &mdash; deposing the insurer&apos;s adjuster,
-        retaining your own experts, conducting site inspections through the litigation process &mdash;
-        a court may conclude that you elected to resolve the amount dispute through litigation and
-        waived your appraisal right.
+        The key risk of post-litigation appraisal is litigation-conduct waiver under
+        <em> Saint Agnes</em> / <em>Quach</em>. If you have already taken extensive discovery on
+        the amount of loss &mdash; deposing the insurer&apos;s adjuster, retaining your own
+        experts, conducting site inspections through the litigation process &mdash; a court may
+        conclude that you elected to resolve the amount dispute through litigation and waived
+        your appraisal right.
       </p>
 
       {/* ══════════════════════════════════════════════════════════════════
@@ -721,9 +724,10 @@ export default function Content() {
         In claims with both significant underpayment and bad faith issues, some practitioners file
         suit and invoke appraisal simultaneously. The appraisal resolves the amount question while
         the litigation proceeds on the coverage and bad faith claims. This parallel approach avoids
-        the Sharma waiver risk, resolves the amount dispute quickly, and keeps the bad faith
-        litigation on track. However, it requires careful coordination between the appraiser and the
-        litigation team to avoid inconsistencies.
+        the <em>Saint Agnes</em> / <em>Quach</em> litigation-conduct waiver risk, resolves the
+        amount dispute quickly, and keeps the bad faith litigation on track. However, it requires
+        careful coordination between the appraiser and the litigation team to avoid
+        inconsistencies.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
