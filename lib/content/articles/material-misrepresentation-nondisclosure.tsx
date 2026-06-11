@@ -165,6 +165,19 @@ export default function Content() {
         underwriting decision. Courts are increasingly skeptical of self-serving testimony from
         underwriters who claim, after a loss, that they would have rejected the application.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The applicable burden of proof on a misrepresentation defense is{' '}
+        <strong>preponderance of the evidence</strong>, not clear and convincing evidence.
+        <em> Liodas v. Sahadi</em> (1977) 19 Cal.3d 278 establishes that fraud in a civil
+        action need only be proved by a preponderance, and California courts and pattern
+        instructions apply that ordinary civil standard to an insurer&rsquo;s
+        misrepresentation or concealment defense (see CACI 2308). The clear-and-convincing
+        standard is reserved for separate doctrines &mdash; such as punitive damages under
+        Civil Code &sect; 3294 &mdash; and does not apply to the misrepresentation defense
+        itself. An insurer that frames its defense as if it must meet a heightened standard
+        is overstating its obligation; an insurer that demands the policyholder meet a
+        heightened standard to overcome the defense is also overstating the rule.
+      </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         The &ldquo;Increase the Risk&rdquo; Standard
