@@ -195,13 +195,16 @@ export default function Content() {
       <CalloutBox variant="tip" title="A Good Public Adjuster Pays for Themselves">
         <p>
           Independent data supports the value of Public Adjuster representation. A 2010 Florida
-          government study (OPPAGA Report 10-01) found that PA-represented claims settled for
-          substantially more than unrepresented claims — though the study did not control for claim
-          size or complexity, and results vary widely from one claim to the next. What is clear is
-          that Public Adjusters bring expertise in policy language, damage documentation, and
-          negotiation that most policyholders lack. The increased settlement amount typically
-          far exceeds the fee — in other words, you often end up with more money in your pocket
-          even after paying the Public Adjuster than you would have received on your own.
+          government study (OPPAGA Report 10-06, on PA regulation in Florida) found that
+          PA-represented Citizens Property Insurance claims from the 2004&ndash;2005 hurricane
+          period settled for substantially more than unrepresented claims &mdash; though the
+          study did not control for claim size or complexity, and the headline-grabbing 747%
+          higher-payment figure for 2005 hurricane claims has been contested by industry
+          analysts. Results vary widely from one claim to the next. What is clear is that
+          Public Adjusters bring expertise in policy language, damage documentation, and
+          negotiation that most policyholders lack. The increased settlement amount often far
+          exceeds the fee &mdash; meaning policyholders frequently end up with more money in
+          their pocket even after paying the PA than they would have received on their own.
         </p>
       </CalloutBox>
 
@@ -302,12 +305,6 @@ export default function Content() {
         },
       ]} />
 
-      <hr className="my-8 border-gray-300" />
-      <p className="text-sm text-gray-500 italic">
-        This article is for informational purposes only and does not constitute legal advice. Insurance
-        policies and applicable law vary by state and by policy form. Consult with a licensed
-        professional regarding your specific situation.
-      </p>
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.
