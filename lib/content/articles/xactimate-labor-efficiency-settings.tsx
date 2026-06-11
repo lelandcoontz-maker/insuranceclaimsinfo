@@ -120,13 +120,13 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Litigation Landscape</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Mitchell v. State Farm Fire and Casualty Co.</em> (6th Cir.)</strong> &mdash; Involved State Farm&apos;s calculation of labor costs in Xactimate that led to the underpayment of 65,575 policyholders in Kentucky. The U.S. Court of Appeals for the Sixth Circuit approved class certification. The plaintiffs&apos; attorneys demonstrated that the error could have been corrected by simply changing a setting &mdash; State Farm needed only to &quot;unclick&quot; one box to generate correct values.
+        A note on related litigation: <strong><em>Hicks v. State Farm Fire &amp; Casualty Co.</em>, 965 F.3d 452 (6th Cir. 2020)</strong> involved a different Xactimate configuration issue &mdash; labor depreciation in ACV calculations for a class of approximately 65,575 Kentucky policyholders. The Sixth Circuit affirmed class certification, and plaintiffs&apos; counsel highlighted that State Farm could have corrected the practice by changing a single Xactimate setting. Hicks is not a labor-efficiency-setting case, but it illustrates how Xactimate configuration choices can have systemic, class-wide consequences.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Young v. State Farm Fire and Casualty Co.</em> (S.D. Miss. 2024)</strong> &mdash; Directly challenged State Farm&apos;s use of the &quot;New Construction Labor Efficiency&quot; setting on partial-loss claims. The court ultimately ruled in favor of State Farm, concluding that the insurance policies did not impose an obligation to use a specific Xactimate setting. The judge found that the question was whether the payout was sufficient to cover repairs, not which methodology produced the figure.
+        <strong><em>Young v. State Farm Fire and Casualty Co.</em>, No. 2:23-cv-00175 (S.D. Miss. 2024)</strong> &mdash; Directly challenged State Farm&apos;s use of the &ldquo;New Construction Labor Efficiency&rdquo; setting on partial-loss claims. The court ruled in favor of State Farm, concluding that the insurance policies did not impose an obligation to use a specific Xactimate setting. The court framed the question as whether the payout was sufficient to cover repairs, not which methodology produced the figure.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Muenzenmay v. State Farm Fire and Casualty Co.</em> (S.D. Miss. 2026)</strong> &mdash; Filed in February 2026, this is among the most recent class actions challenging State Farm&apos;s use of the New Construction labor efficiency setting. The case is in its early stages.
+        <strong><em>Muenzenmay v. State Farm Fire &amp; Casualty Co.</em>, No. 3:26-cv-00119 (S.D. Miss. 2026)</strong> &mdash; Filed in 2026, this is among the more recent actions challenging State Farm&apos;s use of the New Construction labor efficiency setting. The case is in its early stages and no merits ruling has been entered as of this writing.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         As policyholder attorney Chip Merlin has observed, lawsuits challenging the use of the New Construction Xactimate setting &quot;are starting to be filed on a more regular basis.&quot; The legal landscape is still developing.
@@ -164,7 +164,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Sources and References">
         <p>
-          Verisk, <em>Labor Productivity in Xactimate Pricing</em>; Verisk, <em>Labor Efficiencies Design</em>; Verisk, <em>Pricing Methodology Summary</em>; <em>Young v. State Farm Fire and Casualty Co.</em>, No. 2:23-cv-00175 (S.D. Miss. 2024); <em>Muenzenmay v. State Farm Fire &amp; Casualty Co.</em>, No. 3:26-cv-00119 (S.D. Miss. 2026); <em>Mitchell v. State Farm Fire and Casualty Co.</em> (6th Cir.).
+          Verisk, <em>Labor Productivity in Xactimate Pricing</em>; Verisk, <em>Labor Efficiencies Design</em>; Verisk, <em>Pricing Methodology Summary</em>; <em>Young v. State Farm Fire and Casualty Co.</em>, No. 2:23-cv-00175 (S.D. Miss. 2024); <em>Muenzenmay v. State Farm Fire &amp; Casualty Co.</em>, No. 3:26-cv-00119 (S.D. Miss. 2026); <em>Hicks v. State Farm Fire &amp; Cas. Co.</em>, 965 F.3d 452 (6th Cir. 2020) (related Xactimate labor-depreciation class action; distinct issue).
         </p>
       </CalloutBox>
 
