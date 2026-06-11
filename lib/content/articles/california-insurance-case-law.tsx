@@ -720,44 +720,48 @@ export default function Content() {
         advocates?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>The Holding:</strong> The court held that an insurance appraisal under Insurance
-        Code &sect; 2071 is a form of <strong>arbitration</strong>, and that a party-appointed
-        appraiser is entitled to <strong>arbitral immunity</strong> from suit for performing that
-        role &mdash; the appraiser&rsquo;s function is quasi-judicial, not that of an ordinary
-        retained expert. (The court drew a line, however, between the appraiser and a separately
-        retained valuation expert: the expert was not shielded by the litigation privilege.) In
-        treating the party appraiser as an arbitration participant rather than a neutral, the
-        decision reflects the practical reality that <strong>party appraisers advocate for the
-        party that appointed them, while the umpire is the neutral</strong> &mdash; the statutory
-        word &ldquo;disinterested&rdquo; bars a personal financial stake in the outcome beyond the
-        appraiser&rsquo;s fee, not vigorous advocacy.
+        <strong>The Holding:</strong> The court held that an insurance appraisal under
+        Insurance Code &sect; 2071 is a form of <strong>arbitration as a matter of
+        law</strong>, and that a party-appointed appraiser is entitled to{' '}
+        <strong>arbitral immunity</strong> from suit for performing that role &mdash; the
+        appraiser&rsquo;s function is quasi-judicial, not that of an ordinary retained
+        expert. (The court drew a line, however, between the appraiser and a separately
+        retained valuation expert: the expert was not shielded by the litigation privilege.)
+        Critically, the <em>Lambert</em> court <strong>rejected</strong> the appellants&rsquo;
+        argument that the party appraiser&rsquo;s role was that of a party-appointed advocate
+        analogous to an attorney; the court instead noted that &sect; 2071 itself requires
+        each appraiser to be &ldquo;competent and disinterested&rdquo; and that{' '}
+        <strong>the Legislature has made appraiser impartiality a statutory
+        requirement</strong>.
       </p>
 
-      <CalloutBox variant="important" title="Appraisers Are Advocates; the Umpire Is Neutral">
+      <CalloutBox variant="important" title="Lambert: Statutory Impartiality Standard, Industry Advocacy Practice">
         <p>
-          <em>Lambert</em> clarified a point of widespread confusion. Despite the statutory
-          language referring to &ldquo;competent and disinterested&rdquo; appraisers, the court
-          held that party appraisers function as advocates. The word &ldquo;disinterested&rdquo;
-          does not mean the appraiser must be neutral &mdash; it means the appraiser should not
-          have a <em>personal financial interest</em> in the outcome beyond the appraiser&rsquo;s
-          fee. A Public Adjuster serving as the policyholder&rsquo;s appraiser is not disqualified
-          simply because they advocate vigorously for the policyholder &mdash; that is exactly
-          what the role requires.
+          <em>Lambert</em> is widely cited for the proposition that party appraisers
+          &ldquo;are advocates,&rdquo; but that framing reverses what the case actually
+          holds. The opinion rejected the appellants&rsquo; advocate-analogous-to-attorney
+          argument and reaffirmed the &sect; 2071 statutory standard: the party appraiser
+          must be &ldquo;competent and disinterested.&rdquo; The practical reality in
+          California appraisal practice is that party appraisers commonly advance the
+          position of the party that selected them, but that practice does not change the
+          statutory standard. A Public Adjuster serving as a party appraiser is bound by
+          the statutory impartiality requirement.
         </p>
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Significance:</strong> <em>Lambert</em> is critical for Public Adjusters who
-        serve as party appraisers. Before <em>Lambert</em>, insurers sometimes argued that a
-        policyholder&rsquo;s appraiser was &ldquo;biased&rdquo; or &ldquo;not disinterested&rdquo;
-        because the appraiser advocated strongly for the policyholder. <em>Lambert</em> rejected
-        this argument. The appraiser is <em>supposed</em> to advocate. The neutrality requirement
-        applies only to the umpire. This role clarity is essential: the policyholder&rsquo;s
-        appraiser fights for the policyholder&rsquo;s number, the insurer&rsquo;s appraiser
-        fights for the insurer&rsquo;s number, and the umpire decides where the truth lies. When
-        everyone understands their role, the process works. When roles are confused &mdash;
-        particularly when the umpire acts as an advocate rather than a neutral &mdash; the process
-        breaks down.
+        serve as party appraisers, primarily for the arbitral-immunity holding &mdash; the
+        case provides meaningful protection from suit for valuation work performed in the
+        appraisal role. Insurers sometimes argue that a policyholder&rsquo;s appraiser is
+        &ldquo;biased&rdquo; or &ldquo;not disinterested&rdquo; because the appraiser
+        vigorously advances the policyholder&rsquo;s number; the better response is that
+        the statutory standard is impartiality, not invisibility, and that vigorous
+        development of the case for the loss amount is consistent with &mdash; not contrary
+        to &mdash; the &ldquo;competent and disinterested&rdquo; standard, so long as the
+        appraiser has no personal financial stake in the outcome beyond the appraiser&rsquo;s
+        fee. When roles in the panel are confused &mdash; particularly when the umpire acts
+        as an advocate rather than the neutral &mdash; the process breaks down.
       </p>
 
       {/* ───── Bansal ───── */}
