@@ -201,7 +201,20 @@ export default function Content() {
         The Daily Journal Weighs In
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In an April 2026 article published in the <em>Daily Journal</em>, attorneys George Karnikian and Armen Alexander examined the growing legal challenge to Xactimate&rsquo;s role in insurance claims. The article analyzed recent case law, regulatory enforcement actions, and the fundamental tension between standardized software pricing and the legal obligation to pay what repairs actually cost. The authors concluded that treating Xactimate as determinative is legally indefensible and that policyholders and their advocates should challenge carrier estimates that rely on unverified software defaults.
+        On April 15, 2026, the <em>Daily Journal</em> published an article by attorneys{' '}
+        <strong>Shant A. Karnikian</strong> (Managing Partner of Kabateck LLP) and{' '}
+        <strong>Barret Alexander</strong> titled &ldquo;Xactimate is not the law: How
+        insurers use one software program to underpay wildfire claims.&rdquo; The article
+        examined the growing legal challenge to Xactimate&rsquo;s role in California
+        wildfire claims, analyzing how insurers rely on the software &mdash; often using
+        outdated data and adjustable inputs &mdash; to undervalue repair costs. The
+        authors concluded that policyholder counsel should ground their challenges in
+        actual market conditions and policy terms, rather than letting the carrier&rsquo;s
+        Xactimate output stand unchallenged.{' '}
+        <a href="https://www.dailyjournal.com/articles/390846-xactimate-is-not-the-law-how-insurers-use-one-software-program-to-underpay-wildfire-claims" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
+          Read the Daily Journal article
+        </a>{' '}
+        (subscription required).
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
