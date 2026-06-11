@@ -120,12 +120,16 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This interpretation is supported by the doctrine of <em>contra proferentem</em>, which
         requires that ambiguous policy language be construed against the insurer who drafted it.
-        If &ldquo;where you reside&rdquo; can reasonably be read as either a description or a
-        condition, California law &mdash; and the law of most states &mdash; requires that the
-        interpretation favoring coverage prevail. The insurer drafted the policy. If it intended
-        &ldquo;where you reside&rdquo; to be a condition of coverage, it could have said so
-        explicitly: &ldquo;Coverage applies only while you are physically residing at the
-        described premises.&rdquo; It did not.
+        In California, that doctrine is statutory: Civil Code &sect;&sect; 1649 and 1654 supply
+        the rule, and the California Supreme Court applied it to insurance policies in{' '}
+        <em>AIU Insurance Co. v. Superior Court</em> (1990) 51 Cal.3d 807 and{' '}
+        <em>MacKinnon v. Truck Insurance Exchange</em> (2003) 31 Cal.4th 635. If &ldquo;where
+        you reside&rdquo; can reasonably be read as either a description or a condition,
+        California law &mdash; and the law of most states &mdash; requires that the
+        interpretation favoring coverage prevail. The insurer drafted the policy. If it
+        intended &ldquo;where you reside&rdquo; to be a condition of coverage, it could have
+        said so explicitly: &ldquo;Coverage applies only while you are physically residing at
+        the described premises.&rdquo; It did not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Multiple courts have also recognized that a person can &ldquo;reside&rdquo; in more than
@@ -155,16 +159,13 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Big I has made several powerful arguments for why coverage should exist in this
-        scenario. Their analysis deserves to be quoted at length, because it captures the scope
-        of the problem:
+        The Big I has advanced several arguments for why coverage should exist in this scenario.
+        Summarized, the core argument is that the &ldquo;where you reside&rdquo; requirement is
+        not set forth clearly and conspicuously as an exclusion or condition &mdash; it sits
+        inside a definition &mdash; and that a policyholder has no reasonable expectation that
+        an involuntary move to a care facility will void coverage on a home insured for
+        decades.
       </p>
-      <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        The &ldquo;where you reside&rdquo; requirement is not set forth clearly and conspicuously
-        as an exclusion or condition &mdash; it is buried in a definition. The policyholder had
-        no reasonable expectation that moving to a care facility would void all coverage on the
-        home she had insured for decades.
-      </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Big I further argued that the &ldquo;where you reside&rdquo; language should be
         understood as establishing <em>eligibility</em> for the policy at inception, not as a
@@ -175,21 +176,19 @@ export default function Content() {
         that was never disclosed to the policyholder.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The most devastating argument is the unconscionability argument. The Big I posed
-        a hypothetical that illustrates the problem clearly:
+        The most pointed argument is the unconscionability angle. The Big I&rsquo;s analysis
+        develops a hypothetical that exposes the problem: under the proscriptive reading, an
+        insurer could deny coverage to the elderly homeowner whose home burns while she is in
+        a nursing home, while remaining liable for the same fire if the home were being used
+        as a clandestine drug operation by squatters. The named insured loses coverage in the
+        nursing-home scenario because she no longer &ldquo;resides&rdquo; at the property; in
+        the squatter scenario the named insured is still arguably a resident, even if she is
+        unaware of the criminal use, and the property is still the &ldquo;described
+        location.&rdquo; The result &mdash; insurer pays in the criminal-use scenario but
+        retains decades of premiums and pays nothing in the nursing-home scenario &mdash; is
+        the kind of outcome that supports unconscionability and reasonable-expectations
+        arguments in court.
       </p>
-      <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        Under the proscriptive reading, an insurer could deny coverage to the elderly homeowner
-        whose home burns while she is in a nursing home &mdash; but would be required to cover
-        the identical home if it were being used as a meth lab by squatters. In the meth lab
-        scenario, the property is still the &ldquo;described location&rdquo; on the declarations
-        page; the only question is whether the named insured &ldquo;resides&rdquo; there. The
-        meth lab operator has no coverage because he is not the named insured. But the named
-        insured has no coverage either, because she is no longer residing there. The home burns
-        either way. In one scenario (the nursing home), the insurer pockets 30 years of premiums
-        and pays nothing. In the other (the meth lab), the insurer would be obligated to pay.
-        The result is absurd, and unconscionable.
-      </blockquote>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Case Law: A Genuine Split Across Jurisdictions
@@ -345,12 +344,16 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Heniser v. Frankenmuth Mutual Ins. Co.</em>, 534 N.W.2d 502, 449 Mich. 155
-        (Mich. 1995):</strong> The Michigan Supreme Court found the policy unambiguous and denied
-        coverage for a vacation home where the insured admitted he did not live at the property
-        and did not intend to live there. This case is now frequently cited in Michigan insurance
-        law. The dissent is notable: the dissenting justice argued that &ldquo;dwelling used
-        principally for dwelling purposes&rdquo; language was &ldquo;not clear and explicit enough
-        to create a warranty.&rdquo;
+        (Mich. 1995):</strong> The insured had purchased a Honor, Michigan vacation home with
+        his wife, retained possession after a divorce, and in November 1988{' '}
+        <strong>sold the property on a land contract</strong>. The home was destroyed by fire
+        in January 1989, after the sale. The insured nonetheless filed a claim under the
+        homeowner policy that was still in force. The Michigan Supreme Court found the policy
+        unambiguous and denied coverage, holding that the insured could not satisfy a residency
+        requirement at a property he had already sold. The case is frequently cited in
+        Michigan insurance law, but its facts &mdash; a completed sale on land contract
+        &mdash; are well outside the ordinary nursing-home or temporary-absence pattern that
+        drives the modern debate.
       </p>
 
       <CalloutBox variant="info" title="The Pattern in Denial Decisions">
