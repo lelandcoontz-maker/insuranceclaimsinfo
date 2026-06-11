@@ -237,11 +237,15 @@ export default function Content() {
         California&rsquo;s general survival statute (Code of Civil Procedure &sect; 377.34),
         when a plaintiff dies during litigation, the estate can recover only the economic
         damages that the decedent would have been entitled to &mdash; pain and suffering
-        damages generally die with the plaintiff. But under the Elder Abuse Act (Welfare &amp;
-        Institutions Code &sect; 15657), if the plaintiff proves the elder abuse by clear and
-        convincing evidence, the decedent&rsquo;s estate can recover <strong>all damages
-        that the decedent would have been entitled to</strong>, including pain and suffering
-        and punitive damages.
+        damages generally die with the plaintiff. (SB 447 temporarily allowed pre-death
+        pain-and-suffering recovery in general survival actions for cases filed January 1,
+        2022 through December 31, 2025, but that window has now closed and &sect; 377.34
+        has reverted to its longstanding economic-damages-only rule.) But under the Elder
+        Abuse Act (Welfare &amp; Institutions Code &sect; 15657), if the plaintiff proves
+        the elder abuse by clear and convincing evidence, the decedent&rsquo;s estate can
+        recover <strong>all damages that the decedent would have been entitled to</strong>,
+        including pain and suffering and punitive damages &mdash; making the &sect; 15657
+        survival advantage materially more valuable now that the SB 447 window has expired.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance companies understand the significance of this provision. In standard bad
