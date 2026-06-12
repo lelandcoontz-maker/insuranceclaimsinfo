@@ -239,24 +239,25 @@ export default function Content() {
         California-Specific: Disclosure Requirements
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 15011 requires{' '}
+        California Insurance Code &sect; 15027 requires{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjusters
         </Link>{' '}
-        to disclose their fee arrangement in writing to the policyholder before commencing
+        to enter into a written contract on a Commissioner-approved form before commencing
         work. The contract must state the percentage or fee the Public Adjuster will charge,
-        and the policyholder must sign it. This is a consumer protection measure &mdash; you
-        know exactly how your Public Adjuster is being compensated and can evaluate whether
-        their incentives align with yours.
+        and the policyholder must sign it. Section 15027.5 separately requires the PA to
+        disclose any third-party compensation received from a contractor, insurer, or vendor
+        in connection with the claim. These provisions are consumer protection measures
+        &mdash; you know exactly how your Public Adjuster is being compensated and can
+        evaluate whether their incentives align with yours.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         There is no equivalent California statute requiring a carrier-side adjuster &mdash;
         whether staff or independent &mdash; to disclose how they are personally compensated.
-        The carrier must identify the adjuster and provide their license information (10 CCR
-        &sect; 2695.4(a)), but the adjuster&rsquo;s pay structure is considered an internal
-        business matter. This asymmetry is itself telling: the law requires transparency from
-        the adjuster who works for you, but not from the adjuster who works for the company
-        deciding how much to pay you.
+        The adjuster&rsquo;s pay structure is considered an internal business matter. This
+        asymmetry is itself telling: the law requires transparency from the adjuster who
+        works for you, but not from the adjuster who works for the company deciding how much
+        to pay you.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -269,11 +270,15 @@ export default function Content() {
         </Link>{' '}
         is paid a percentage of the claim recovery &mdash; typically{' '}
         <Link href="/resources/public-adjuster-fees" className="text-blue-700 underline hover:text-blue-900">
-          10% in California
-        </Link>{' '}
-        (the statutory maximum under Insurance Code &sect; 15027 for disaster-declared losses).
-        This model is percentage-based, like the historical IA CAT model, but the incentive
-        runs in the opposite direction. The carrier-side adjuster on a percentage model earns
+          10&ndash;15% in California
+        </Link>
+        , depending on claim size and complexity. California has <strong>no statutory
+        percentage cap</strong> on Public Adjuster fees; the percentage is whatever the
+        written contract specifies, subject to &sect; 15027&rsquo;s disclosure requirements.
+        The commonly cited 10% catastrophe figure is industry contract practice, not statutory
+        law. (Pending legislation AB 597 would impose a 15% cap on catastrophic-disaster
+        claims if enacted, but it has not been enacted.) This model is percentage-based, like
+        the historical IA CAT model, but the incentive runs in the opposite direction. The carrier-side adjuster on a percentage model earns
         more by closing claims faster. The Public Adjuster earns more by recovering more money
         for the policyholder. The Public Adjuster&rsquo;s financial interest is aligned
         directly with yours: they make more when you get more.
