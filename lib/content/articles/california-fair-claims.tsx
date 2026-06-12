@@ -588,8 +588,8 @@ export default function Content() {
           processes your dwelling claim but never mentions{' '}
           <Link href="/resources/ordinance-law" className="text-[#2E74B5] hover:underline">ordinance or law coverage</Link>,{' '}
           <Link href="/resources/debris-removal" className="text-[#2E74B5] hover:underline">debris removal coverage</Link>{' '}
-          beyond the basic dwelling limit, extended replacement cost, or the separate Coverage B
-          (other structures) limit. Months later you discover these coverages existed.
+          beyond the basic dwelling limit, extended replacement cost, or the separate
+          Other Structures limit. Months later you discover these coverages existed.
           The insurer violated &sect; 2695.4(a) from day one. In a bad faith context, failing to
           tell you about coverages you are paying for is precisely the kind of conduct{' '}
           <em>Gruenberg</em> addresses — the insurer placed its financial interest above its
@@ -618,10 +618,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-6">
         Early in your claim, send a written request: &ldquo;Per 10 CCR &sect; 2695.4(a),
         please identify all benefits, coverages, time limits, and policy provisions that may
-        apply to my claim, including but not limited to: Coverage A (dwelling), Coverage B
-        (other structures), Coverage C (personal property), Coverage D (loss of use), ordinance
-        or law coverage, debris removal, extended replacement cost, and any other applicable
-        endorsements.&rdquo; If the insurer fails to respond or omits coverages, the written
+        apply to my claim, including but not limited to: Dwelling, Other Structures, Personal
+        Property, Loss of Use, ordinance or law coverage, debris removal, extended replacement
+        cost, and any other applicable endorsements.&rdquo; If the insurer fails to respond or omits coverages, the written
         request creates a documented record. The affirmative disclosure duty under §2695.4(a)
         exists regardless of whether the insured asks; what the written request adds is
         provability — a clear paper record of what was requested and what the carrier disclosed
