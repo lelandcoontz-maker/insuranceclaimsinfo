@@ -140,7 +140,7 @@ export default function Content() {
       </CalloutBox>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Replacement Cost Collection &mdash; Insurance Code &sect; 2051.5(b)(1)
+        Replacement Cost Collection &mdash; Insurance Code &sect; 2051.5(b)(1)(B)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under normal (non-disaster) circumstances, no policy may impose a replacement cost
@@ -152,7 +152,7 @@ export default function Content() {
         also voluntarily allow more time.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The 36-month figure is recent. As originally enacted, &sect; 2051.5(b)(1) set the
+        The 36-month figure is recent. As originally enacted, &sect; 2051.5(b)(1)(B) set the
         post-emergency minimum at 24 months. Assembly Bill 1800 (Levine, 2018) extended it to
         36 months, effective January 1, 2019, in response to the 2017&ndash;2018 wildfires that
         demonstrated 24 months was not enough time for displaced homeowners to permit, contract,
@@ -174,24 +174,27 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Additional Living Expenses (ALE) &mdash; Insurance Code &sect; 2060
+        Additional Living Expenses (ALE) &mdash; Insurance Code &sect; 2060(b)(1)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         After a declared state of emergency, ALE coverage must extend for at least{' '}
         <strong>24 months</strong> from the inception of the loss, regardless of the shorter
         period stated in the policy. The insurer must grant up to 12 additional months
-        &mdash; for a total of <strong>36 months</strong> &mdash; where the insured encounters
-        delays in reconstruction beyond their control. The extended time does not increase the
-        ALE dollar limit; it extends the period over which you can use the coverage that was
-        already in place at the time of the loss. For more detail on maximizing this coverage,
-        see our guide on{' '}
+        &mdash; for a total of <strong>36 months</strong> &mdash; where an insured acting in
+        good faith and with reasonable diligence encounters reconstruction delays that are the
+        result of circumstances beyond the insured&rsquo;s control. After that 36-month period,
+        recurring <strong>six-month extensions</strong> must be granted for good cause, so
+        coverage can extend beyond 36 months when the rebuild is still incomplete. The extended
+        time does not increase the ALE dollar limit; it extends the period over which you can
+        use the coverage that was already in place at the time of the loss. For more detail on
+        maximizing this coverage, see our guide on{' '}
         <Link href="/resources/loss-of-use-maximizing" className="text-blue-700 underline hover:text-blue-900">
           maximizing your ALE claim
         </Link>.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Right to Rebuild at a New Location &mdash; Insurance Code &sect; 2051.5(c)
+        Right to Rebuild at a New Location &mdash; Insurance Code &sect; 2051.5(c)(1)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         After a total loss, California law gives you three options for using your replacement cost
@@ -213,26 +216,28 @@ export default function Content() {
       <CalloutBox variant="important" title="This Is Law, Not a Policy Option">
         <p>
           Some adjusters treat the right to relocate as something the carrier can approve or deny.
-          It is not. Insurance Code &sect; 2051.5(c) is a statutory right. If an adjuster tells you
+          It is not. Insurance Code &sect; 2051.5(c)(1) is a statutory right. If an adjuster tells you
           that you must rebuild on the same lot to collect your full replacement cost, they are
           misrepresenting California law.
         </p>
       </CalloutBox>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Changing Adjusters &mdash; Insurance Code &sect; 2071
+        Changing Adjusters &mdash; Insurance Code &sect; 14047
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the carrier assigns a third or subsequent adjuster to your claim within a six-month
-        period, they must provide you with a <strong>written status report</strong>. That report
-        must include a summary of all decisions and actions substantially related to the claim
-        &mdash; including amounts of loss to structures and contents, any design or construction
-        professionals retained, the amount of coverage, and all items in dispute. This prevents
-        your claim from being shuffled between adjusters without accountability.
+        For a claim under a residential property insurance policy arising from a declared state
+        of emergency, if the carrier assigns a third or subsequent first-party adjuster to be
+        primarily responsible for the claim within a six-month period, the insurer must provide
+        the insured with a <strong>written status report</strong>. That report must summarize
+        all decisions and actions substantially related to the claim &mdash; including amounts
+        of loss to structures and contents, any design or construction professionals retained,
+        the amount of coverage, and all items in dispute. This prevents your claim from being
+        shuffled between adjusters without accountability.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Appraisal Cannot Be Compelled After a Disaster &mdash; Insurance Code &sect; 2071
+        Appraisal Cannot Be Compelled After a Disaster &mdash; Insurance Code &sect; 2071(b)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In the event of a government-declared disaster, <strong>appraisal may be requested by either
@@ -274,14 +279,15 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is distinct from a separate &mdash; and often confused &mdash; protection in the
-        same statute. <strong>Insurance Code &sect; 675.1(b)</strong> prohibits an insurer from
-        cancelling or non-renewing a residential property policy for one year after a declared
-        state of emergency, based solely on the fact that the property is located within or
-        adjacent to the perimeter of the declared wildfire. The two provisions overlap in
-        spirit but apply differently: &sect; 675.1(a)(2) is keyed to <em>your specific total
-        loss and rebuild</em>, while &sect; 675.1(b) is a <em>geographic moratorium</em> that
-        protects every policyholder in an affected zip code regardless of whether they had a
-        claim.
+        same statute. <strong>Insurance Code &sect; 675.1(b)(1)</strong> prohibits an insurer
+        from cancelling or refusing to renew a residential property policy for any property
+        located in any ZIP Code within or adjacent to the fire perimeter, for one year after
+        the declaration of a state of emergency, based solely on the fact that the insured
+        structure is located in an area in which a wildfire has occurred. The two provisions
+        overlap in spirit but apply differently: &sect; 675.1(a)(2) is keyed to <em>your
+        specific total loss and rebuild</em>, while &sect; 675.1(b)(1) is a <em>geographic
+        moratorium</em> that protects every policyholder in an affected ZIP Code regardless
+        of whether they had a claim.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -312,15 +318,15 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="Summary: Disaster-Specific Deadlines at a Glance">
         <ul className="list-disc pl-5 space-y-2">
-          <li><strong>Replacement cost collection:</strong> 36 months minimum after declared disaster (IC &sect; 2051.5(b)(1), as amended by AB 1800 effective 2019), with 6-month good-cause extensions</li>
-          <li><strong>ALE coverage period:</strong> 24 months minimum after declared disaster, extendable up to 36 months for good cause (IC &sect; 2060)</li>
-          <li><strong>Rebuild at new location:</strong> Statutory right after total loss (IC &sect; 2051.5(c))</li>
-          <li><strong>Appraisal:</strong> Cannot be compelled after government-declared disaster (IC &sect; 2071)</li>
+          <li><strong>Replacement cost collection:</strong> 36 months minimum after declared disaster (IC &sect; 2051.5(b)(1)(B), as amended by AB 1800 effective 2019), with 6-month good-cause extensions</li>
+          <li><strong>ALE coverage period:</strong> 24 months minimum after declared disaster, extendable up to 36 months for delays beyond the insured&rsquo;s control, with recurring 6-month good-cause extensions beyond 36 months (IC &sect; 2060(b)(1))</li>
+          <li><strong>Rebuild at new location:</strong> Statutory right after total loss (IC &sect; 2051.5(c)(1))</li>
+          <li><strong>Appraisal:</strong> Cannot be compelled after government-declared disaster (IC &sect; 2071(b))</li>
           <li><strong>Policy copy:</strong> Within 30 days of request (IC &sect; 2084)</li>
-          <li><strong>Adjuster change status report:</strong> Required when third adjuster assigned within 6 months (IC &sect; 2071)</li>
+          <li><strong>Adjuster change status report:</strong> Required when third adjuster assigned within 6 months on residential disaster claims (IC &sect; 14047)</li>
           <li><strong>Cancellation during rebuild:</strong> Prohibited except for fraud (IC &sect; 675.1(a)(2))</li>
           <li><strong>Post-disaster renewal:</strong> At least two annual renewal periods, no less than 24 months of coverage from date of loss (IC &sect; 675.1(a)(3))</li>
-          <li><strong>Wildfire-zip moratorium:</strong> One-year prohibition on non-renewal for zip codes within/adjacent to declared wildfire perimeter (IC &sect; 675.1(b))</li>
+          <li><strong>Wildfire-zip moratorium:</strong> One-year prohibition on cancellation or non-renewal for any property in a ZIP Code within or adjacent to the fire perimeter (IC &sect; 675.1(b)(1))</li>
         </ul>
       </CalloutBox>
 
