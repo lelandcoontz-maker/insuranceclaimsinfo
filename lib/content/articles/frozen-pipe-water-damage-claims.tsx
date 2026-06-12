@@ -124,31 +124,34 @@ export default function Content() {
         Vacancy and Unoccupancy Provisions
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Vacancy provisions are a significant issue in frozen pipe claims because many freeze losses occur in homes that are unoccupied &mdash; second homes, vacation cabins, homes where the owner is traveling, or homes that are between tenants. Most standard homeowners policies contain a vacancy clause that limits or eliminates coverage when the dwelling has been vacant for a specified period, typically 30 or 60 consecutive days.
+        Vacancy provisions are a significant issue in frozen pipe claims because many freeze losses occur in homes that are unoccupied &mdash; second homes, vacation cabins, homes where the owner is traveling, or homes that are between tenants. The way vacancy interacts with a homeowners policy is, however, very different from the way it interacts with a commercial property policy &mdash; and the standard ISO HO 00 03 homeowners form does <em>not</em> contain the same broad CP-style vacancy clause that some carriers and consumer articles describe.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard ISO HO 00 03 vacancy provision operates in two ways for properties vacant beyond the trigger period:
+        The standard ISO HO 00 03 form does not have a dedicated &ldquo;Vacancy&rdquo; condition parallel to the one in the ISO CP 00 10 commercial property form. The HO 00 03 handles vacancy through a narrower combination of provisions:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Five specific perils are excluded entirely.</strong> If the dwelling has been vacant for more than 60 consecutive days immediately before a loss, the policy does <em>not</em> cover loss caused by: (1) vandalism or malicious mischief, (2) sprinkler leakage (unless the system has been protected against freezing), (3) building glass breakage, (4) <strong>water damage</strong>, or (5) theft and attempted theft.
+          <strong>Two specific peril exclusions are triggered after 60 days of vacancy.</strong> Under Section I &mdash; Perils Insured Against, if the dwelling has been <em>vacant</em> for more than 60 consecutive days immediately before the loss, the policy does not cover (1) vandalism or malicious mischief or (2) certain glass breakage.
         </li>
         <li>
-          <strong>All other covered losses are reduced by 15%.</strong> For perils that remain covered after the vacancy trigger &mdash; principally fire, lightning, wind, and similar &mdash; the policy pays only 85% of the covered loss.
+          <strong>The Neglect exclusion can apply.</strong> Section I &mdash; Exclusions includes a Neglect provision barring loss resulting from the insured&rsquo;s failure to use all reasonable means to save and preserve property at and after the time of a loss. A vacant home where heat was not maintained and water was not shut off can implicate this exclusion separately from any &ldquo;vacancy&rdquo; clause.
+        </li>
+        <li>
+          <strong>The &ldquo;residence premises&rdquo; / &ldquo;where you reside&rdquo; condition.</strong> The HO 00 03 is written for an owner-occupied dwelling used as the insured&rsquo;s residence. A truly vacant home that is no longer the insured&rsquo;s residence may, depending on the facts, fall outside the policy&rsquo;s residence-premises definition altogether &mdash; a separate occupancy issue, not part of a labeled vacancy clause.
+        </li>
+        <li>
+          <strong>In some jurisdictions, the Standard Fire Policy can overlay the HO 00 03.</strong> Statutory fire-policy provisions in some states impose vacancy/unoccupancy conditions on the fire portion of the coverage even though the unendorsed HO 00 03 does not contain one. The California Standard Fire Policy (Cal. Ins. Code &sect; 2071) is the touchstone in California.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Water damage from a burst frozen pipe is in the entirely-excluded list.</strong> Under the standard ISO HO 00 03 form, a frozen pipe water-damage claim in a home that has been vacant for more than 60 consecutive days immediately before the loss is generally not covered &mdash; not merely reduced by 15%. This is one of the most consequential coverage gaps for owners of second homes, vacation cabins, and seasonal properties.
+        <strong>Water damage from a burst frozen pipe is <em>not</em> placed on a vacancy exclusion list by the standard HO 00 03 form.</strong> The principal coverage risk for a freeze loss in a vacant home is not a CP-style vacancy clause &mdash; it is the freezing exclusion&rsquo;s reasonable-care exception (discussed above) and the Neglect exclusion. Whether a frozen pipe water-damage claim survives in a vacant home generally turns on those provisions, the residence-premises definition, and any state-specific Standard Fire Policy conditions &mdash; not on a 5-peril vacancy list or a 15% reduction. The 5-peril/15%-reduction structure some articles describe is the ISO CP 00 10 commercial property form, not the HO 00 03 homeowners form.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Two important caveats. First, the exclusion turns on whether the property was{' '}
-        <em>vacant</em> &mdash; not merely unoccupied. See the next callout. Second, the
-        60-day clock runs <em>immediately before</em> the loss, so a property that was
-        briefly occupied (someone stayed there overnight or moved personal property in)
-        before the freeze may not be &ldquo;vacant&rdquo; under the policy. Some
-        non-standard or manuscript policies define vacancy differently or apply
-        different trigger periods (30 days is common). The starting point is always the
-        policy&rsquo;s actual language.
+        Two important caveats. First, vacancy provisions turn on whether the property was{' '}
+        <em>vacant</em> &mdash; not merely unoccupied. See the next callout. Second, some
+        non-standard or carrier-specific homeowners forms (and many landlord / dwelling
+        fire forms such as the DP-3) do impose a broader vacancy clause than the unendorsed
+        HO 00 03. The starting point is always the specific policy&rsquo;s actual language.
       </p>
 
       <CalloutBox variant="important" title="Vacant vs. Unoccupied: The Distinction Matters">
