@@ -111,9 +111,10 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A 2010 Florida government study (OPPAGA Report 10-01) found that PA-represented
-        hurricane claims settled for substantially more than unrepresented claims &mdash; though
-        the study did not control for claim complexity, and results vary from claim to claim.
+        A 2010 Florida government study (OPPAGA Report 10-06, on PA regulation in Florida)
+        found that PA-represented hurricane claims settled for substantially more than
+        unrepresented claims &mdash; though the study did not control for claim complexity,
+        and results vary from claim to claim.
         What the data consistently shows is that professional representation on the technical
         side of the claim leads to better-documented, more thoroughly negotiated outcomes.
       </p>
