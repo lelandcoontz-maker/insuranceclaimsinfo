@@ -191,10 +191,10 @@ export default function Content() {
           <strong>Personal Property:</strong> Soft goods, furnishings, clothing,
           bedding, and other personal property in the contaminated area may be unsalvageable.
           Decomposition gases penetrate fabric, leather, and other porous materials. Items that
-          cannot be professionally decontaminated should be claimed as losses under Coverage C.
+          cannot be professionally decontaminated should be claimed as Personal Property losses.
         </li>
         <li>
-          <strong>Coverage D (Additional Living Expenses):</strong> When the contamination
+          <strong>Loss of Use (Additional Living Expenses):</strong> When the contamination
           renders the home uninhabitable &mdash; which it will in most cases involving
           decomposition beyond a few days &mdash; the policyholder is entitled to{' '}
           <Link href="/resources/ale-frv" className="text-[#2E74B5] hover:underline">
@@ -512,7 +512,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When an unattended death renders a home uninhabitable &mdash; which will be the case in
         most situations involving more than a few days of decomposition &mdash; the policyholder
-        is entitled to Additional Living Expenses (ALE) under Coverage D. ALE covers the
+        is entitled to Additional Living Expenses (ALE) under the Loss of Use coverage. ALE covers the
         increased cost of maintaining your household while the property is being remediated and
         restored. This includes hotel or temporary rental housing, increased meal costs (the
         difference between eating at home and eating out), pet boarding, storage for personal
