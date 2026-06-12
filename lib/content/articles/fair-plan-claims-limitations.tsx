@@ -288,12 +288,13 @@ export default function Content() {
       </h2>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        AB 1680: The Make It FAIR Act
+        AB 1680: The Make It FAIR Act (pending)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Assembly Bill 1680, known as the Make It FAIR Act, represents a significant effort to reform
-        the FAIR Plan and expand its coverage options. The legislation addresses several of the most
-        critical gaps in FAIR Plan coverage, including:
+        Assembly Bill 1680, known as the Make It FAIR Act and authored by Assemblymember Lisa
+        Calderon (D-Whittier) with Commissioner Ricardo Lara as sponsor, represents a significant
+        effort to reform the FAIR Plan and expand its coverage options. The legislation would
+        address several of the most critical gaps in FAIR Plan coverage, including:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -311,23 +312,32 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If enacted as proposed, AB 1680 would fundamentally change the FAIR Plan from a bare-bones
-        fire policy into something closer to actual homeowner insurance. This would reduce (though
-        not eliminate) the need for a separate DIC policy and would provide meaningful additional
-        protection for the hundreds of thousands of families currently relying on the FAIR Plan as
-        their only fire coverage.
+        As of mid-2026, AB 1680 remains in the Assembly Appropriations suspense file and has not
+        been enacted. If enacted as proposed, AB 1680 would fundamentally change the FAIR Plan
+        from a bare-bones fire policy into something closer to actual homeowner insurance. This
+        would reduce (though not eliminate) the need for a separate DIC policy and would provide
+        meaningful additional protection for the hundreds of thousands of families currently
+        relying on the FAIR Plan as their only fire coverage. Verify the bill&rsquo;s current
+        status at the California Legislature website before relying on its provisions.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        AB 226
+        AB 226: The FAIR Plan Stabilization Act (enacted)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Assembly Bill 226 addresses FAIR Plan reforms from a different angle, focusing on the
-        financial structure of the FAIR Plan, its assessment authority (how it charges admitted
-        carriers for losses that exceed its reserves), and its rate-setting process. AB 226 is
-        particularly relevant to the question of how the FAIR Plan will fund its growing obligations
-        without imposing unsustainable rate increases on policyholders or destabilizing the admitted
-        insurance market through excessive assessments.
+        Assembly Bill 226, the FAIR Plan Stabilization Act, was authored by Assemblymembers
+        Lisa Calderon and David Alvarez and was enacted as <strong>Chapter 473, Statutes of
+        2025</strong> (chaptered October 9, 2025). Unlike AB 1680, AB 226 does not change FAIR
+        Plan coverage forms or consumer rate-setting rules. Instead, it gives the FAIR Plan
+        new financial tools to manage catastrophe losses: the bill authorizes the FAIR Plan
+        to access bonds, loans, and lines of credit (including bond financing through the
+        California Infrastructure and Economic Development Bank, or IBank), with CDI approval,
+        and to levy special bond-payment assessments on member insurers over time rather than
+        the current 30-day assessment-payment requirement. The practical effect is to give the
+        FAIR Plan an immediate cash infusion mechanism for paying claims after large
+        catastrophes without forcing admitted insurers to absorb the entire assessment in 30
+        days &mdash; a structural protection against the cascade risk that catastrophic FAIR
+        Plan losses could trigger insurer insolvencies.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -432,8 +442,11 @@ export default function Content() {
           documenting and pursuing their claims.
         </li>
         <li>
-          AB 1680 and AB 226 may bring meaningful reforms, but legislation takes time. Current
-          policyholders must plan based on the FAIR Plan as it exists today.
+          AB 226 (FAIR Plan Stabilization Act) was enacted in October 2025 and provides the FAIR
+          Plan with bond financing and longer assessment timelines, but it does not change
+          consumer coverage forms. AB 1680 (Make It FAIR Act), which would expand coverage
+          options, remains pending. Current policyholders must plan based on the FAIR Plan as
+          it exists today, not on what reforms may eventually bring.
         </li>
         <li>
           A DIC policy is not optional. Without one, a FAIR Plan policyholder has coverage gaps that
