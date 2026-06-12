@@ -446,11 +446,12 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California has enacted some of the strongest non-renewal protections in the country for
-        policyholders affected by declared disasters. California Insurance Code Section
-        675.1(b) prohibits insurers from non-renewing a residential property insurance policy
-        for one year after a declared state of emergency if the insured property is located in
-        the area covered by the declaration. This moratorium applies regardless of the
-        property&rsquo;s condition.
+        policyholders affected by declared disasters. California Insurance Code &sect; 675.1(b)(1)
+        prohibits insurers from cancelling or non-renewing a residential property insurance
+        policy for any property in a ZIP Code within or adjacent to the fire perimeter for one
+        year after the declaration of a state of emergency, based solely on the fact that the
+        insured structure is located in an area in which a wildfire has occurred. This
+        moratorium applies regardless of the property&rsquo;s condition.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         After the 2025 LA fires, Insurance Commissioner Ricardo Lara issued emergency orders
@@ -472,13 +473,14 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="The Statutory Protection">
         <p>
-          California Insurance Code &sect; 675.1(b): &ldquo;No insurer that has issued a
-          policy of residential property insurance shall, within one year of a wildfire
-          disaster or within one year of a declaration of a state of emergency, as declared
-          by the Governor, not renew the policy of a policyholder who resides in a county, or
-          in a county adjacent to a county, in which the wildfire disaster or the events
-          giving rise to the state of emergency occurred.&rdquo; Violations are subject to
-          CDI enforcement action, fines, and potential bad faith liability.
+          California Insurance Code &sect; 675.1(b)(1) (verbatim, as amended by SB 894,
+          effective January 1, 2019): &ldquo;An insurer shall not cancel or refuse to renew a
+          policy of residential property insurance for a property located in any ZIP Code
+          within or adjacent to the fire perimeter, for one year after the declaration of a
+          state of emergency, as defined in Section 8558 of the Government Code, based solely
+          on the fact that the insured structure is located in an area in which a wildfire has
+          occurred.&rdquo; Violations are subject to CDI enforcement action, fines, and
+          potential bad faith liability.
         </p>
       </CalloutBox>
 
@@ -679,10 +681,10 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In theory, the homeowner policy &mdash; if it remains in force &mdash; provides
-        Coverage A (dwelling) protection that should extend to the structure during
-        reconstruction. The dwelling coverage insures the &ldquo;dwelling on the residence
-        premises,&rdquo; and if the residence premises status is maintained, the structure
-        under construction should be covered.
+        Dwelling coverage that should extend to the structure during reconstruction. The
+        Dwelling coverage insures the &ldquo;dwelling on the residence premises,&rdquo; and
+        if the residence premises status is maintained, the structure under construction
+        should be covered.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In practice, there are complications:
@@ -1032,17 +1034,20 @@ export default function Content() {
           total loss related to a declared state of emergency. Added by SB 872 (2020).
         </li>
         <li>
-          <strong>Insurance Code &sect; 2051.5(b)(1):</strong> Establishes the 36-month
+          <strong>Insurance Code &sect; 2051.5(b)(1)(B):</strong> Establishes the 36-month
           replacement cost collection timeline (separate from ALE) for state-of-emergency
           losses, with six-month extensions for good cause.
         </li>
         <li>
-          <strong>Insurance Code &sect; 675.1(b):</strong> Prohibits non-renewal for one year
-          after a declared state of emergency for policyholders in the affected area.
+          <strong>Insurance Code &sect; 675.1(b)(1):</strong> Prohibits cancellation or
+          non-renewal for one year after a declared state of emergency for any residential
+          property in a ZIP Code within or adjacent to the fire perimeter, based solely on
+          wildfire-area location.
         </li>
         <li>
-          <strong>Insurance Code &sect; 678:</strong> Requires 75 days&rsquo; written notice
-          for non-renewal of a homeowner policy.
+          <strong>Insurance Code &sect; 678(c)(1):</strong> Requires 75 days&rsquo; written
+          notice for non-renewal of a residential property insurance policy (for policies
+          expiring on or after July 1, 2020; the prior rule was 45 days).
         </li>
         <li>
           <strong>Insurance Code &sect; 790.03(h):</strong> The Unfair Claims Settlement
