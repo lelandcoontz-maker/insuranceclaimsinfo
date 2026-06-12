@@ -33,9 +33,13 @@ export default function Content() {
         The result was predictable: hundreds of thousands of California homeowners were pushed into
         the California FAIR Plan, the state&rsquo;s insurer of last resort. The FAIR Plan &mdash;
         designed as a temporary safety net for property owners who cannot obtain coverage in the
-        voluntary market &mdash; saw its policy count surge from roughly 272,000 in 2023 to over
-        450,000 by early 2026. Its total exposure exceeded $450 billion, raising questions about
-        whether the plan itself could survive a major catastrophic event.
+        voluntary market &mdash; saw its residential policy count surge from roughly 272,000 in
+        2023 to approximately 555,000 by March 2025 and more than 610,000 by late 2025, with
+        total insured exposure reported in the hundreds of billions of dollars. The growth has
+        raised serious questions about whether the plan itself could survive a major catastrophic
+        event without triggering large assessments against admitted insurers &mdash; the very
+        carriers whose withdrawals drove the FAIR Plan&rsquo;s growth in the first place. Current
+        figures are best verified through CDI filings and FAIR Plan public reports.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This article examines whether the pattern of insurer withdrawals raises legitimate antitrust
