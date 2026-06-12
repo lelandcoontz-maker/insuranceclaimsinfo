@@ -385,16 +385,16 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A (Dwelling).</strong> Structural remediation — duct cleaning or
+          <strong>Dwelling.</strong> Structural remediation &mdash; duct cleaning or
           replacement, drywall sealing or replacement, insulation replacement, repainting.
         </li>
         <li>
-          <strong>Coverage B (Other Structures).</strong> Detached garages, sheds, fences if
+          <strong>Other Structures.</strong> Detached garages, sheds, fences if
           contaminated.
         </li>
         <li>
-          <strong>Coverage C (Personal Property).</strong> Cleaning or replacement of contaminated
-          contents — clothing, furniture, electronics, kitchenware. See our{' '}
+          <strong>Personal Property.</strong> Cleaning or replacement of contaminated
+          personal property &mdash; clothing, furniture, electronics, kitchenware. See our{' '}
           <Link href="/resources/contents-claims" className="text-[#2E74B5] hover:underline">contents claims guide</Link>.
         </li>
         <li>
