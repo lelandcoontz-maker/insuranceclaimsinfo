@@ -1133,10 +1133,11 @@ export default function Content() {
         government-declared disaster as defined in the Government Code — appraisal{' '}
         <strong>may be requested by either party but shall not be compelled</strong>. In
         practice this ties to a &ldquo;state of emergency&rdquo; declared under Government
-        Code § 8558. The provision applies only to <strong>residential</strong> policies —
-        commercial property policies are not covered by this exception. After a wildfire,
-        earthquake, or other declared disaster affecting a residential policyholder, the
-        insurer cannot force that policyholder into appraisal to resolve a
+        Code § 8558. The provision is part of the §2071 standard fire policy form and applies
+        to fire policies subject to that form &mdash; both residential and commercial &mdash;
+        unless a specific carve-out under §2070 removes a particular policy from the standard
+        form&rsquo;s reach. After a wildfire, earthquake, or other declared disaster affecting
+        a policyholder, the insurer cannot force that policyholder into appraisal to resolve a
         valuation dispute. You retain the option to invoke appraisal yourself if you choose, but
         the insurer cannot compel it.
       </p>
