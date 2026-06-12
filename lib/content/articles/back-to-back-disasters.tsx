@@ -328,11 +328,14 @@ export default function Content() {
           <strong>Cal. Ins. Code &sect; 2060(b)(1) &mdash; 24-month ALE floor:</strong>{' '}
           California law provides that, for losses related to a declared state of emergency,
           additional living expenses coverage runs for at least 24 months from the inception
-          of the loss, with extensions available for good cause. (This rule was originally
-          codified at &sect; 2051.5(b)(2) and moved to &sect; 2060(b)(1) by SB 872 (2020).)
-          When back-to-back disasters extend the displacement period, this statutory minimum
-          provides a floor that the carrier cannot undercut by arguing about which event
-          caused which portion of the displacement.
+          of the loss, with a mandatory 12-month extension &mdash; for a total of up to
+          36 months &mdash; when an insured acting in good faith and with reasonable
+          diligence encounters reconstruction delays beyond the insured&rsquo;s control,
+          and recurring six-month extensions for good cause beyond that. (This rule was
+          originally codified at &sect; 2051.5(b)(2) and moved to &sect; 2060(b)(1) by SB
+          872 (2020).) When back-to-back disasters extend the displacement period, this
+          statutory minimum provides a floor that the carrier cannot undercut by arguing
+          about which event caused which portion of the displacement.
         </li>
       </ul>
 
