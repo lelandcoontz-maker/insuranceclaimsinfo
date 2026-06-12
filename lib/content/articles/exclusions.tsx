@@ -43,7 +43,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="HO-3 Policies Are Not Entirely Open-Peril">
         <p>
-          The standard HO-3 policy is open-peril for the dwelling and other structures, but <strong>named-peril for personal property</strong> (personal property). This means that contents losses must be caused by one of the 16 named perils listed in the policy to be covered, even though building damage from the same event may be covered under the broader open-peril provisions. Policyholders who assume their contents coverage is as broad as their dwelling coverage are often surprised when a contents claim is denied for a peril that would have been covered if it had damaged the structure instead.
+          The standard HO-3 policy is open-peril for the dwelling and other structures, but <strong>named-peril for personal property</strong>. This means that contents losses must be caused by one of the 16 named perils listed in the policy to be covered, even though building damage from the same event may be covered under the broader open-peril provisions. Policyholders who assume their contents coverage is as broad as their dwelling coverage are often surprised when a contents claim is denied for a peril that would have been covered if it had damaged the structure instead.
         </p>
       </CalloutBox>
 
