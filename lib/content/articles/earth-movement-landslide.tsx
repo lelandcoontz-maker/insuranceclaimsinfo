@@ -122,6 +122,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Department of Insurance has taken this position formally. After the 2018 Montecito debris flow (which followed the Thomas Fire), the 2020 and 2021 post-fire mudslides, and most recently after the 2025 Palisades and Eaton fires, CDI has consistently maintained that earth movement caused by wildfire is a covered loss under the efficient proximate cause doctrine.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The Legislature reinforced this result in 2018 by enacting <strong>Insurance Code &sect; 530.5</strong> (SB 917, effective January 1, 2019), which specifically addresses concurrent-peril losses where one of the perils is a landslide, mudslide, mudflow, or debris flow. Under &sect; 530.5, coverage applies in those concurrent-peril situations if a covered peril is the efficient proximate cause and coverage would otherwise be provided for the covered peril. The statute is framed around the landslide/mudslide/debris-flow side rather than singling out wildfire, but its practical effect is to confirm by statute that ACC clauses cannot defeat coverage for mudslide and debris-flow damage that follows a covered wildfire.
+      </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         2. Earth Movement Resulting from Vehicle Impact
