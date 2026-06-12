@@ -626,16 +626,16 @@ export default function Content() {
         <li>
           <strong>Act promptly</strong> &mdash; Statutes of limitations for elder abuse
           claims depend on the theory pled. The Elder Abuse Act&rsquo;s own four-year
-          limitations period at W&amp;I Code &sect; 15657.7 applies to actions for damages
-          under &sect;&sect; 15657.5 (financial abuse) and 15657.6 (physical abuse and
-          neglect in custodial care), running from when the plaintiff discovered or should
-          have discovered the facts constituting the abuse. For physical-injury or
-          wrongful-death theories not pled under the Elder Abuse Act&rsquo;s enhanced-remedy
-          provisions, the general two-year personal-injury statute at Code of Civil Procedure
-          Section 335.1 may apply instead. Other deadlines &mdash; including policy
-          suit-limitation clauses on the underlying insurance claim &mdash; may also apply.
-          Statutes of limitations involve complex legal analysis. Consult a licensed
-          attorney to determine the applicable deadline. Do not wait.
+          limitations period at W&amp;I Code &sect; 15657.7 applies specifically to
+          actions for damages under &sect; 15657.5 (financial abuse), running from when the
+          plaintiff discovered or should have discovered the facts constituting the abuse.
+          Physical abuse and neglect claims under &sect; 15657.6 are not governed by
+          &sect; 15657.7 &mdash; they are typically subject to the general two-year
+          personal-injury statute at Code of Civil Procedure &sect; 335.1, or MICRA&rsquo;s
+          special rules in the medical-malpractice context. Other deadlines &mdash;
+          including policy suit-limitation clauses on the underlying insurance claim &mdash;
+          may also apply. Statutes of limitations involve complex legal analysis. Consult a
+          licensed attorney to determine the applicable deadline. Do not wait.
         </li>
       </ul>
 
