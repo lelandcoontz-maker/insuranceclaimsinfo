@@ -27,9 +27,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Your home is damaged. You cannot live there. Now what? Your homeowners policy includes
         coverage called Additional Living Expenses &mdash; ALE &mdash; that pays for the extra
-        costs of living somewhere else while your home is repaired. This is Coverage D on your
-        policy. It exists so a covered loss does not financially destroy your daily life on top
-        of destroying your home.
+        costs of living somewhere else while your home is repaired. ALE sits inside your Loss of
+        Use coverage. It exists so a covered loss does not financially destroy your daily life on
+        top of destroying your home.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         ALE is one of the most valuable coverages in your policy during a major loss. It is also
@@ -184,12 +184,14 @@ export default function Content() {
           ALE benefits for at least <strong>24 months</strong> from the inception of the
           loss. The insurer cannot cut you off earlier just because they think repairs
           should have been completed sooner. The same statute requires the insurer to
-          grant an additional extension of up to <strong>12 months</strong> for good cause
-          &mdash; for a total of up to <strong>36 months</strong> &mdash; if the insured,
-          acting in good faith and with reasonable diligence, encounters delays beyond
-          their control (such as permitting delays, contractor shortages, or material
-          backlogs). This protection exists precisely because large-scale disasters create
-          exactly those kinds of delays.
+          grant an additional extension of up to <strong>12 months</strong> &mdash; for a
+          total of up to <strong>36 months</strong> &mdash; if the insured, acting in good
+          faith and with reasonable diligence, encounters delays in the reconstruction
+          process that are the result of circumstances beyond the insured&rsquo;s control
+          (such as permitting delays, contractor shortages, or material backlogs). After
+          that 36-month period, the statute requires <strong>recurring six-month
+          extensions</strong> for good cause, so coverage can extend beyond 36 months
+          when the rebuild is still incomplete.
         </p>
       </CalloutBox>
 
@@ -249,11 +251,12 @@ export default function Content() {
         the limit and that the repair timeline requires continued coverage. For
         state-of-emergency losses, California Insurance Code &sect; 2060(b)(1) extends
         the ALE coverage <em>period</em> to a 24-month minimum, with an additional 12-month
-        good-cause extension available (total up to 36 months). Important nuance: the
-        statute extends the <em>time</em> over which ALE may be incurred, not the policy
-        dollar limit. If the dollar cap on Coverage D runs out before the time period does,
-        the statute does not refill the bucket &mdash; that is a question of policy terms
-        and, in extreme cases, attorney consultation.
+        extension required for circumstances beyond the insured&rsquo;s control (total up to
+        36 months), and recurring six-month good-cause extensions beyond that. Important
+        nuance: the statute extends the <em>time</em> over which ALE may be incurred, not the
+        policy dollar limit. If the dollar cap on Loss of Use runs out before the time period
+        does, the statute does not refill the bucket &mdash; that is a question of policy
+        terms and, in extreme cases, attorney consultation.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
