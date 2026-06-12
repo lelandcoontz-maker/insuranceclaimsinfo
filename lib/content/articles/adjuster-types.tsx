@@ -59,9 +59,9 @@ export default function Content() {
         .
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, adjusters must be individually licensed under the Insurance Code and are
-        required to include their license number (or their supervising adjuster&apos;s license
-        number) on all written communications &mdash; see 10 CCR &sect; 2695.4(a).
+        In California, independent adjusters must be individually licensed under the Insurance
+        Code (Cal. Ins. Code &sect; 14021 et seq.) and are subject to the Fair Claims Settlement
+        Practices Regulations (10 CCR &sect; 2695 et seq.) when handling first-party claims.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Desk vs. Field &mdash; A Setting, Not a Separate Type</h2>
