@@ -259,7 +259,7 @@ export default function Content() {
         <li><strong>Hire an industrial hygienist.</strong> Get professional testing before the carrier&apos;s adjuster visits. Your own test results give you control of the narrative.</li>
         <li><strong>Document the smoke exposure.</strong> Photograph ash deposits, discoloration, and residue. Note any odors. Keep a log of symptoms experienced by household members.</li>
         <li><strong>Don&apos;t accept the carrier&apos;s &ldquo;cleaning only&rdquo; offer.</strong> If testing reveals toxic contaminants, cleaning may be insufficient. Demand a remediation protocol from a qualified professional.</li>
-        <li><strong>Understand your Coverage D rights.</strong> If your home is uninhabitable due to smoke contamination, you are entitled to Additional Living Expenses (ALE) while remediation is completed. Don&apos;t let the carrier tell you it&apos;s &ldquo;livable&rdquo; when there are carcinogenic contaminants on your surfaces.</li>
+        <li><strong>Understand your Loss of Use rights.</strong> If your home is uninhabitable due to smoke contamination, you are entitled to Additional Living Expenses (ALE) under your Loss of Use coverage while remediation is completed. Don&apos;t let the carrier tell you it&apos;s &ldquo;livable&rdquo; when there are carcinogenic contaminants on your surfaces.</li>
         <li><strong>Consider professional representation.</strong> Urban wildfire smoke claims are complex, technical, and heavily disputed. A licensed Public Adjuster or an experienced insurance attorney can level the playing field.</li>
       </ol>
 
