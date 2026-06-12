@@ -82,13 +82,16 @@ export default function Content() {
         </Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        With a <strong>named peril policy</strong> (such as an HO-1 or a DP-1 — the form commonly
-        issued by state programs like the California FAIR Plan), the policyholder must prove that the
-        loss was caused by one of the specific perils listed in the policy. The burden of proving
-        coverage rests with you from the start. Even a DP-3 form, while broader than a DP-1,
-        provides named peril coverage for the dwelling structure. If you are unsure which form you
-        have, check your declarations page — the policy form number tells you whether your coverage
-        is open peril or named peril.
+        With a <strong>named peril policy</strong> (such as an HO-1 or a DP-1 — the form
+        commonly issued by basic state programs like the California FAIR Plan), the
+        policyholder must prove that the loss was caused by one of the specific perils
+        listed in the policy. The burden of proving coverage rests with you from the start.
+        DP-2 (Broad Form) is also named-peril, but with a longer list of covered perils than
+        DP-1. The DP-3 (Special Form) is different: it provides open-peril coverage for the
+        dwelling and other structures (with personal property still on a named-peril basis,
+        much like the HO-3 structure). If you are unsure which form you have, check your
+        declarations page — the policy form number tells you whether your coverage is open
+        peril or named peril.
       </p>
 
       <CalloutBox variant="warning" title="Do Not Accept a Denial Without Understanding Why">
