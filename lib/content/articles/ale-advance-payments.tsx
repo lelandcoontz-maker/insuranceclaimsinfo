@@ -59,10 +59,10 @@ export default function Content() {
         What the Policy Actually Says
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard Coverage D (Loss of Use) language in an HO-3 policy pays the &ldquo;necessary
-        increase in living expenses incurred by you so that your household can maintain its normal
-        standard of living.&rdquo; Carriers fixate on the word &ldquo;incurred&rdquo; to argue that
-        no payment is due until you produce receipts.
+        The standard Loss of Use language in an HO-3 policy pays the &ldquo;necessary increase
+        in living expenses incurred by you so that your household can maintain its normal
+        standard of living.&rdquo; Carriers fixate on the word &ldquo;incurred&rdquo; to argue
+        that no payment is due until you produce receipts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But &ldquo;incurred&rdquo; does not necessarily mean &ldquo;already paid.&rdquo; An expense
@@ -125,7 +125,7 @@ export default function Content() {
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
           <strong>Demand the advance in writing, citing the regulation.</strong> Write to your
-          adjuster: &ldquo;My home is uninhabitable. ALE is owed under Coverage D. I am requesting
+          adjuster: &ldquo;My home is uninhabitable. ALE is owed under my Loss of Use coverage. I am requesting
           an advance of [X months] of ALE to secure temporary housing. Please respond within 15 days
           per 10 CCR &sect; 2695.5(b).&rdquo;
         </li>
