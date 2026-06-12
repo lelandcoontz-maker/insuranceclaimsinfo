@@ -441,10 +441,11 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Second, fire and the resulting smoke are standard covered perils under homeowner policies.
-        The standard HO-3 policy covers fire as a named peril under Coverage A (dwelling) and as
-        an open-peril risk under the policy&rsquo;s general structure. Smoke from a hostile fire
-        is a natural and expected consequence of the fire peril. An exclusion for &ldquo;smog&rdquo;
-        cannot be read to override the express coverage grant for fire and its consequences.
+        The standard HO-3 form provides open-perils coverage on the Dwelling and named-perils
+        coverage on Personal Property, with fire listed as a named peril in both. Smoke from a
+        hostile fire is a natural and expected consequence of the fire peril. An exclusion for
+        &ldquo;smog&rdquo; cannot be read to override the express coverage grant for fire and its
+        consequences.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Third, under the doctrine of{' '}
@@ -465,17 +466,19 @@ export default function Content() {
         <Link href="/resources/ale-frv" className="text-blue-700 underline hover:text-blue-900">
           additional living expenses (ALE)
         </Link>{' '}
-        if the home is not safe to occupy. ALE is a coverage provided by the policy itself
-        (Coverage D in standard HO-3 forms). California Insurance Code &sect; 2060(b)(1)
-        (formerly placed at &sect; 2051.5(b)(2) before SB 872 restructured the code in 2020)
-        builds on that by setting minimum ALE durations for losses arising from a declared
-        state of emergency: at least 24 months from the inception of the loss, with a
-        mandatory 12-month extension for good cause (for a total of up to 36 months) when
-        rebuild delays are beyond the policyholder&rsquo;s control. If environmental
-        testing demonstrates that the indoor air quality exceeds safe exposure levels, or that
-        the contamination presents a health risk to occupants, the policyholder should not
-        remain in the home &mdash; and the insurer should be covering the cost of temporary
-        housing during remediation.
+        if the home is not safe to occupy. ALE is the Loss of Use coverage provided by the
+        policy itself. California Insurance Code &sect; 2060(b)(1) (formerly placed at
+        &sect; 2051.5(b)(2) before SB 872 restructured the code in 2020) builds on that by
+        setting minimum ALE durations for losses arising from a declared state of emergency:
+        at least 24 months from the inception of the loss, with a mandatory 12-month extension
+        &mdash; for a total of up to 36 months &mdash; when an insured acting in good faith and
+        with reasonable diligence encounters reconstruction delays that are the result of
+        circumstances beyond the insured&rsquo;s control. After that, recurring six-month
+        extensions must be provided for good cause, so coverage can extend beyond 36 months.
+        If environmental testing demonstrates that the indoor air quality exceeds safe exposure
+        levels, or that the contamination presents a health risk to occupants, the policyholder
+        should not remain in the home &mdash; and the insurer should be covering the cost of
+        temporary housing during remediation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurers sometimes refuse ALE on the theory that the underlying smoke damage claim has not
