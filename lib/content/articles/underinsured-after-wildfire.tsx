@@ -59,8 +59,8 @@ export default function Content() {
         </li>
         <li>
           <strong>Inflation guard is not enough.</strong> Many policies include an &ldquo;
-          inflation guard&rdquo; that automatically increases Coverage A by 2–4% annually. But
-          actual construction cost increases have far outpaced this adjustment.
+          inflation guard&rdquo; that automatically increases the Dwelling limit by 2&ndash;4%
+          annually. But actual construction cost increases have far outpaced this adjustment.
         </li>
         <li>
           <strong>Demand surge after a disaster.</strong> After a major wildfire, thousands of homes
@@ -111,8 +111,8 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>You typically must <strong>actually rebuild</strong> to access the extended amount &mdash; you cannot take a cash settlement and pocket the extended coverage</li>
-        <li>Under California Insurance Code &sect; 2051.5(c), after a total loss, you may use replacement-cost coverage to rebuild on the same lot, build on a different lot, or purchase an already-built home elsewhere &mdash; the insurer cannot reduce your payment because you relocate. Older policy language requiring same-premises rebuilding does not control over &sect; 2051.5(c).</li>
-        <li>Under California Insurance Code &sect; 2051.5(b)(1) (as amended by AB 1800), after a state-of-emergency declaration you have <strong>at least 36 months</strong> from the date of your first ACV payment to collect the full replacement cost. Additional six-month extensions are available for good cause. (The pre-2019 minimum of 24 months has been superseded; older policy language and some adjusters still reference the obsolete figure.)</li>
+        <li>Under California Insurance Code &sect; 2051.5(c)(1), after a total loss, you may use replacement-cost coverage to rebuild on the same lot, build on a different lot, or purchase an already-built home elsewhere &mdash; the insurer cannot reduce your payment because you relocate. Older policy language requiring same-premises rebuilding does not control over &sect; 2051.5(c)(1).</li>
+        <li>Under California Insurance Code &sect; 2051.5(b)(1)(B) (as amended by AB 1800), after a state-of-emergency declaration you have <strong>at least 36 months</strong> from the date of your first ACV payment to collect the full replacement cost. Additional six-month extensions are available for good cause. (The pre-2019 minimum of 24 months has been superseded; older policy language and some adjusters still reference the obsolete figure.)</li>
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Ordinance or Law Coverage</h3>
@@ -226,8 +226,8 @@ export default function Content() {
           <strong>Claim every applicable coverage separately.</strong> Ensure that debris removal,
           O&amp;L, other structures, landscaping, and{' '}
           <Link href="/resources/ale-frv" className="text-[#2E74B5] hover:underline">ALE</Link>{' '}
-          are all claimed and paid from their own sublimits — not from Coverage A. Every dollar
-          that comes from a sublimit rather than Coverage A preserves your dwelling limit for
+          are all claimed and paid from their own sublimits &mdash; not from the Dwelling limit.
+          Every dollar that comes from a sublimit rather than the Dwelling limit preserves it for
           actual construction.
         </li>
         <li>
