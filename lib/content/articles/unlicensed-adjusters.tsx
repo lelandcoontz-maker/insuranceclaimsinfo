@@ -167,21 +167,19 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Department of Insurance has a statutory duty to enforce adjuster licensing
         requirements. This is not discretionary &mdash; it is a mandatory obligation. Despite this,
-        CDI has historically failed to enforce licensing requirements against insurers who deploy
-        unlicensed adjusters during catastrophes.
+        consumer-advocacy organizations and policyholder-side practitioners have long maintained
+        that CDI has been inconsistent in enforcing licensing requirements against insurers who
+        deploy unlicensed adjusters during catastrophes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Eisenberg v. Jones</em>, a lawsuit was filed against CDI arguing that the Department
-        had a mandatory duty to act against the widespread use of unlicensed adjusters and had failed
-        to do so for years. The complaint alleged that CDI&apos;s failure to enforce licensing
-        requirements was not a matter of prosecutorial discretion but a dereliction of a mandatory
-        statutory duty. The use of out-of-state independent contractors was described as &ldquo;rife
-        with problems for insureds.&rdquo;
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        This lawsuit highlighted a systemic problem: the regulatory agency charged with protecting
-        policyholders was allowing insurers to use unqualified, unaccountable personnel to handle
-        claims worth hundreds of thousands or millions of dollars.
+        Policyholder advocates have argued in various forums that CDI&rsquo;s failure to consistently
+        enforce licensing requirements is not a matter of prosecutorial discretion but a dereliction
+        of a mandatory statutory duty, and that the widespread use of out-of-state independent
+        contractors after declared disasters produces systemic problems for insureds &mdash;
+        underpayment, missed coverage, and a lack of accountability when the deployment ends. The
+        regulatory agency charged with protecting policyholders is allowing insurers to use
+        unqualified, unaccountable personnel to handle claims worth hundreds of thousands or
+        millions of dollars.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
