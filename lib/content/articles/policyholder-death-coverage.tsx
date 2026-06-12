@@ -234,9 +234,11 @@ export default function Content() {
         Document your ALE expenses meticulously. Keep every receipt for temporary housing,
         increased food costs, storage, and other displacement expenses. California Insurance Code
         &sect; 2060(b)(1) requires that ALE coverage be available for at least 24 months after a
-        declared state of emergency, and the insurer must grant up to 12 additional months for
-        good cause &mdash; for a total of up to 36 months &mdash; where the insured encounters
-        delays in reconstruction beyond their control. For more on this, see our guide on{' '}
+        declared state of emergency, with a mandatory 12-month extension &mdash; for a total of
+        up to 36 months &mdash; where an insured acting in good faith and with reasonable
+        diligence encounters reconstruction delays beyond the insured&rsquo;s control. After
+        that, recurring six-month extensions must be granted for good cause, so coverage can
+        extend beyond 36 months. For more on this, see our guide on{' '}
         <Link href="/resources/california-claim-deadlines" className="text-blue-700 underline hover:text-blue-900">
           California claim deadlines
         </Link>.
@@ -1028,7 +1030,9 @@ export default function Content() {
           </li>
           <li>
             <strong>Ins. Code &sect; 2060(b)(1):</strong> ALE for at least 24 months after a
-            declared state of emergency, with up to 12 additional months for good cause
+            declared state of emergency, with a 12-month extension for delays beyond the
+            insured&rsquo;s control (total of up to 36 months), plus recurring 6-month
+            good-cause extensions beyond that
           </li>
           <li>
             <strong>Ins. Code &sect; 2071:</strong> Standard fire policy (proof of loss and suit
