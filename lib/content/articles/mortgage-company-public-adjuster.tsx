@@ -348,7 +348,9 @@ export default function Content() {
           including: the title &ldquo;Public Adjuster Contract,&rdquo; the licensee&apos;s name and
           license number, the insured&apos;s name and address, a description of the loss, the insurer
           and policy number, the fee structure, signatures of both the licensee and the insured, a
-          surety bond disclosure, and a three-day cancellation notice.
+          surety bond disclosure, and a written cancellation right &mdash; three business days for
+          ordinary losses (&sect; 15027(b)(13), (f)(1)) and five calendar days for losses arising
+          from a catastrophic disaster as defined in &sect; 15001 (&sect; 15027(y)).
         </li>
         <li>
           <strong>The contract must be between the licensee and the insured.</strong> A &ldquo;designee
