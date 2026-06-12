@@ -184,14 +184,14 @@ export default function Content() {
         <p>
           Your policy includes a deadline for completing replacements and collecting the recoverable
           depreciation. This deadline varies by policy, but in California, Insurance Code
-          &sect; 2051.5(b)(1) sets a statutory minimum of <strong>12 months</strong> from the date
+          &sect; 2051.5(b)(1)(A) sets a statutory minimum of <strong>12 months</strong> from the date
           the <em>ACV payment is made</em> &mdash; not from the date of loss. This distinction
           matters because there can be months or even years between the date of loss and the date
           the insurer actually issues the ACV payment.
         </p>
         <p className="mt-3">
           <strong>State-of-emergency extension:</strong> For losses related to a declared
-          state of emergency, &sect; 2051.5(b)(1) (as amended by AB 1800 in 2018, the
+          state of emergency, &sect; 2051.5(b)(1)(B) (as amended by AB 1800 in 2018, the
           last-chaptered bill in California&rsquo;s 2018 wildfire package alongside SB 894
           and AB 1772) extends the minimum period for collecting replacement-cost benefits
           to <strong>36 months</strong> from the first ACV payment, with additional

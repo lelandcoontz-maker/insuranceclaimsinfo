@@ -306,11 +306,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Most policies impose a time limit to complete or incur repairs and collect the holdback
         &mdash; typically 180 days to 2 years after the loss or after the ACV payment, depending
-        on the policy language. Under California Insurance Code &sect; 2051.5(b)(1), the
+        on the policy language. Under California Insurance Code &sect; 2051.5(b)(1)(A), the
         statutory minimum is 12 months from the date the ACV payment is made &mdash; not from the date of
         loss. This distinction matters because there can be months or even years between the date
-        of loss and the date the insurer actually issues the ACV payment. After a declared disaster
-        in California, these deadlines may be extended. If you are approaching a deadline and
+        of loss and the date the insurer actually issues the ACV payment. After a declared
+        state of emergency, &sect; 2051.5(b)(1)(B) extends the minimum to 36 months, with
+        additional six-month good-cause extensions. If you are approaching a deadline and
         have not completed or incurred repairs, notify the insurer in writing and request an
         extension before the deadline passes.
       </p>

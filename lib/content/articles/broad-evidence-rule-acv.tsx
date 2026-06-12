@@ -163,13 +163,13 @@ export default function Content() {
         Where the policy conditions full replacement cost on actually repairing or replacing
         the property, the insurer pays the actual cash value (as defined in &sect; 2051)
         first, and then pays the difference between that ACV payment and the full
-        replacement cost once the work is done. Section 2051.5(b)(1) protects the
+        replacement cost once the work is done. Section 2051.5(b)(1)(A) protects the
         insured&rsquo;s ability to collect this withheld &ldquo;recoverable
         depreciation&rdquo; by prohibiting time limits shorter than 12 months from the
         first ACV payment to complete replacement &mdash; extended to no less than{' '}
-        <strong>36 months</strong> when the loss relates to a declared state of emergency
-        (per AB 1800, signed September 21, 2018), with additional six-month extensions
-        available for good cause.
+        <strong>36 months</strong> under &sect; 2051.5(b)(1)(B) when the loss relates to a
+        declared state of emergency (per AB 1800, signed September 21, 2018), with
+        additional six-month extensions available for good cause.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -481,9 +481,9 @@ export default function Content() {
         <li>
           <strong>California Insurance Code &sect; 2051.5(b)(1)</strong> &mdash; replacement
           cost coverage; payment of ACV pending repair/replacement, recovery of withheld
-          depreciation, and minimum time limits (12 months generally; <strong>36 months
-          for declared states of emergency per AB 1800 (2018)</strong>, with additional
-          six-month good-cause extensions).
+          depreciation, and minimum time limits (12 months under (b)(1)(A);{' '}
+          <strong>36 months under (b)(1)(B) for declared states of emergency per AB 1800
+          (2018)</strong>, with additional six-month good-cause extensions).
         </li>
         <li>
           <strong>10 CCR &sect; 2695.9(a)(1)</strong> (Fair Claims Settlement Practices

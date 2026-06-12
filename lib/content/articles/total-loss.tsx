@@ -441,13 +441,13 @@ export default function Content() {
         </li>
         <li>
           <strong>Insurance Code &sect; 2051.5(b)(1) (as amended by AB 1800, effective 2019)
-          &mdash; Minimum rebuild period.</strong> For declared state-of-emergency losses, you
-          have a minimum <strong>36-month</strong> period to repair, rebuild, or replace your
-          home (commencing from the first ACV payment), with mandatory additional 6-month
-          extensions for good cause where the insured, acting in good faith and with reasonable
-          diligence, encounters delays beyond their control. For non-catastrophic losses, the
-          minimum is 12 months. You may also rebuild or replace at a different location after a
-          total loss.
+          &mdash; Minimum rebuild period.</strong> For declared state-of-emergency losses,
+          &sect; 2051.5(b)(1)(B) sets a minimum <strong>36-month</strong> period to repair,
+          rebuild, or replace your home (commencing from the first ACV payment), with mandatory
+          additional 6-month extensions for good cause where the insured, acting in good faith
+          and with reasonable diligence, encounters delays beyond their control. For
+          non-catastrophic losses, &sect; 2051.5(b)(1)(A) sets the minimum at 12 months. You
+          may also rebuild or replace at a different location after a total loss.
         </li>
         <li>
           <strong>SB 1855 — Underinsurance disclosure.</strong> Insurers must include a disclosure

@@ -464,7 +464,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Recovering the depreciation holdback is not automatic. The policyholder must complete (or
         in some policies, incur) the repairs within a specified time period, then submit
-        documentation to prove it. Under California Insurance Code &sect; 2051.5(b)(1), the
+        documentation to prove it. Under California Insurance Code &sect; 2051.5(b)(1)(A), the
         statutory minimum is 12 months from the date the ACV payment is made &mdash; but the
         policy may provide a longer period. If the policyholder misses the deadline or fails to
         submit adequate documentation, the holdback is forfeited.
@@ -476,7 +476,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California has expanded the time policyholders have to rebuild and collect the holdback,
         particularly after declared disasters. For losses related to a declared state of
-        emergency, &sect; 2051.5(b)(1) (as amended by AB 1800 in 2018) sets the statutory
+        emergency, &sect; 2051.5(b)(1)(B) (as amended by AB 1800 in 2018) sets the statutory
         minimum at <strong>36 months</strong> from the date the first ACV payment is made,
         with additional six-month extensions available for good cause when the insured, acting
         in good faith and with reasonable diligence, encounters delays beyond their control
@@ -538,8 +538,8 @@ export default function Content() {
         <li>
           <strong>Insurance Code &sect; 2051.5</strong> &mdash; Governs replacement cost
           recovery, including the 12-month minimum holdback collection period
-          (&sect;&nbsp;2051.5(b)(1)) extended to 36 months for state-of-emergency losses
-          (per AB&nbsp;1800, 2018).
+          (&sect;&nbsp;2051.5(b)(1)(A)) extended to 36 months for state-of-emergency losses
+          (&sect;&nbsp;2051.5(b)(1)(B), per AB&nbsp;1800, 2018).
         </li>
       </ul>
 
