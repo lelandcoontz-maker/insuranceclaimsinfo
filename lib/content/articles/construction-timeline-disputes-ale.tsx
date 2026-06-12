@@ -173,7 +173,7 @@ export default function Content() {
         <p>
           California Insurance Code &sect; 2060(b)(1) (ALE duration and extensions);
           California Insurance Code &sect; 2061 (4-month ALE advance after total loss
-          related to a declared emergency); California Insurance Code &sect; 2051.5(b)(1)
+          related to a declared emergency); California Insurance Code &sect; 2051.5(b)(1)(B)
           (36-month replacement cost timeline after declared emergency); California Insurance
           Code &sect; 790.03(h) (unfair claims settlement practices); 10 CCR &sect;&sect;
           2695.7 and 2695.9 (Fair Claims Settlement Practices Regulations); CDI Bulletin
