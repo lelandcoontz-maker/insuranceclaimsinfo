@@ -344,9 +344,13 @@ export default function Content() {
         </li>
         <li>
           <strong>Look for waiver of subrogation requirements.</strong> NNN leases frequently
-          require both parties to waive subrogation rights against each other. This requires
-          a specific endorsement (CP 12 18 for property, CG 24 04 for liability). See our
-          article on{' '}
+          require both parties to waive subrogation rights against each other. On the liability
+          side, this is accomplished by the CG 24 04 endorsement (Waiver of Transfer of Rights
+          of Recovery Against Others to Us). On the commercial property side, there is no
+          standalone &ldquo;CP 24 04&rdquo; equivalent &mdash; the waiver works through the
+          lease language itself, permitted by the CP 00 90 (Commercial Property Conditions)
+          provision that allows the insured to waive rights against another party in writing
+          before a loss occurs. See our article on{' '}
           <Link href="/resources/waiver-of-subrogation-commercial-leases" className="text-blue-700 underline hover:text-blue-900">
             Waiver of Subrogation in Commercial Leases
           </Link>.
