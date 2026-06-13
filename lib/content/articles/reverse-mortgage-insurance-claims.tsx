@@ -701,12 +701,15 @@ export default function Content() {
         HUD&rsquo;s Pre-Approval Requirement for Due-and-Payable
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A HECM servicer cannot simply declare the loan due and payable on its own. Under 24 CFR
-        &sect; 206.125, the servicer must request approval from HUD before calling the loan.
-        This means there is a process &mdash; and a window of time &mdash; during which the
-        borrower can present their case to HUD. If the borrower can demonstrate that the property
-        can be restored using insurance proceeds and that the borrower intends to return, HUD may
-        deny the servicer&rsquo;s request.
+        A HECM servicer cannot simply declare the loan due and payable on its own in many
+        circumstances. The due-and-payable triggers themselves are set out in 24 CFR
+        &sect; 206.27(c), and 24 CFR &sect; 206.125 governs the procedures the mortgagee must
+        follow once a loan becomes due and payable &mdash; including notice to HUD, the acquisition
+        and sale process, and HUD&rsquo;s role in approving certain actions before foreclosure can
+        proceed. This means there is a process &mdash; and a window of time &mdash; during which
+        the borrower can present their case to HUD. If the borrower can demonstrate that the
+        property can be restored using insurance proceeds and that the borrower intends to return,
+        HUD may deny the servicer&rsquo;s request to proceed.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -942,11 +945,11 @@ export default function Content() {
         Personal Property Is Yours
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Similarly, personal property payments (personal property) should not include the HECM servicer
-        as a payee. The servicer&rsquo;s mortgage interest is in the dwelling &mdash; the
-        structure &mdash; not in your furniture, clothing, electronics, or personal belongings.
-        If the insurer issues a personal property check with the servicer&rsquo;s name on it,
-        this is an error that must be corrected. Contact the insurer and request reissuance.
+        Similarly, personal property payments should not include the HECM servicer as a payee. The
+        servicer&rsquo;s mortgage interest is in the dwelling &mdash; the structure &mdash; not in
+        your furniture, clothing, electronics, or personal belongings. If the insurer issues a
+        personal property check with the servicer&rsquo;s name on it, this is an error that must be
+        corrected. Contact the insurer and request reissuance.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -1021,8 +1024,9 @@ export default function Content() {
           borrowers
         </li>
         <li>
-          <strong>24 CFR &sect; 206.125</strong> &mdash; Conditions for calling a HECM due and
-          payable; HUD pre-approval requirement
+          <strong>24 CFR &sect; 206.125</strong> &mdash; Acquisition and sale procedures after a
+          HECM becomes due and payable, including notice to HUD and required steps before
+          foreclosure
         </li>
         <li>
           <strong>12 USC &sect; 1715z-20(j)</strong> &mdash; Non-recourse provision prohibiting
@@ -1045,8 +1049,15 @@ export default function Content() {
           interest on insurance proceeds held in loss draft accounts; fee restrictions
         </li>
         <li>
-          <strong>California Civil Code Section 2924.7</strong> &mdash; 30-day release requirement
-          upon written demand with documentation
+          <strong>California Civil Code Section 2924.7</strong> &mdash; Validates the lender&rsquo;s
+          contractual right to receive and control disbursement of fire/flood/hazard insurance
+          proceeds; contains no statutory release deadline (release timing is governed by the
+          implied covenant of good faith and fair dealing per <em>Schoolcraft</em>)
+        </li>
+        <li>
+          <strong>24 CFR &sect; 206.27(c)</strong> &mdash; Due-and-payable triggers for HECM loans
+          (death, sale, non-occupancy as principal residence, default on property charges, failure
+          to maintain the property)
         </li>
         <li>
           <strong><em>Schoolcraft v. Ross</em></strong>, 81 Cal. App. 3d 75 (1978) &mdash; Lender
