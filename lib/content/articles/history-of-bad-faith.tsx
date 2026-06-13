@@ -156,10 +156,9 @@ export default function Content() {
         In <em>Crisci v. Security Insurance Co.</em> (1967) 66 Cal.2d 425, the California Supreme
         Court affirmed the $91,000 excess judgment against Security and then went further. The court
         awarded Crisci <strong>$25,000 for mental suffering</strong>. The reasoning was direct:
-        among the considerations in purchasing liability insurance is &quot;the peace of mind and
-        security it will provide in the event of an accidental loss.&quot; When the insurer destroys
-        that peace of mind through unreasonable conduct, emotional distress damages are a natural
-        consequence.
+        among the considerations in purchasing liability insurance is the peace of mind and security
+        that the protection itself provides, and when the insurer destroys that peace of mind through
+        unreasonable conduct, emotional distress damages are a natural consequence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Legal scholars would later describe <em>Crisci</em> as marking &quot;the dawn of the modern
@@ -199,10 +198,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Supreme Court held that the insured had stated a cause of action{' '}
         <strong>in tort</strong> against the insurance companies for breach of their implied duty of
-        good faith and fair dealing. The court explicitly stated that the duty of an insurer to act
-        in good faith in handling third-party claims against the insured, and the duty in handling
-        its own insured&apos;s first-party claim, were merely &quot;two different aspects of the
-        same duty.&quot;
+        good faith and fair dealing. The court treated the duty of an insurer to act in good faith
+        in handling third-party claims against the insured and the duty in handling its own
+        insured&rsquo;s first-party claim as flowing from the same implied covenant, not as
+        distinct obligations.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This was the moment first-party bad faith became an independent tort in California.
@@ -404,11 +403,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Nine years later, in <em>Moradi-Shalal v. Fireman&apos;s Fund Insurance Companies</em>{' '}
-        (1988) 46 Cal.3d 287, the court reversed course. It overruled <em>Royal Globe</em>,
-        concluding that the decision &quot;was incorrectly decided, and that it has generated and
-        will continue to produce inequitable results, costly multiple litigation, and unnecessary
-        confusion unless overruled.&quot; Section 790.03(h) does not create a private cause of
-        action.
+        (1988) 46 Cal.3d 287, the court reversed course. The Court concluded that{' '}
+        &ldquo;<em>Royal Globe</em> was incorrectly decided and should be overruled,&rdquo; finding
+        that the decision had &ldquo;generated unnecessary confusion and multiple litigation.&rdquo;
+        Section 790.03(h) does not create a private cause of action.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         After <em>Moradi-Shalal</em>, the primary vehicle for bad faith claims returned to the
@@ -755,40 +753,36 @@ export default function Content() {
         misapplication is contested between the plaintiff and defense bars.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The leading formulation of the doctrine, from <em>Chateau Chamberay</em>, states it
-        bluntly: &quot;the existence of a genuine dispute means no liability for bad faith even
-        though the insurer might be liable for breach of contract.&quot; That decision — which has
-        been cited many hundreds of times — did articulate examples of conduct that could justify
-        submission to a jury rather than dismissal on summary judgment:
+        <em>Chateau Chamberay</em> formulates the doctrine in substance as follows: an insurer
+        denying or delaying the payment of policy benefits due to the existence of a genuine
+        dispute with its insured as to the existence of coverage liability or the amount of the
+        insured&rsquo;s coverage claim is not liable in bad faith even though it might be liable
+        for breach of contract. That decision &mdash; which has been cited many hundreds of times
+        &mdash; articulated examples of conduct that could justify submission to a jury rather
+        than dismissal on summary judgment:
       </p>
 
-      <CalloutBox variant="legal" title="Chateau Chamberay — Examples of Conduct That Defeats the Genuine Dispute Defense (verbatim)">
+      <CalloutBox variant="legal" title="Chateau Chamberay — Examples of Conduct That Can Defeat the Genuine Dispute Defense (verbatim)">
         <p className="italic">
-          Of course, an insurer is not entitled to judgment as a matter of law where, viewing the
-          facts in the light most favorable to the insured, a jury could conclude that the insurer
-          acted unreasonably. For example, a jury could conclude an insurer acted unreasonably if
-          it: (1) misrepresented the nature of the investigatory proceedings; (2) misrepresented
-          the insured&rsquo;s statements; (3) selectively relied on facts that supported denial of
-          the claim; (4) ignored the insured&rsquo;s evidence; or (5) conducted a biased
-          investigation.
+          On the other hand, an insurer is not entitled to judgment as a matter of law where,
+          viewing the facts in the light most favorable to the plaintiff, a jury could conclude
+          that the insurer acted unreasonably. For example, a jury could conclude that an insurer
+          acted unreasonably if it failed to conduct a thorough investigation, or if it: (1)
+          misrepresented the nature of investigatory proceedings; (2) misrepresented the
+          insured&rsquo;s statements; (3) relied on an incomplete investigation; or (4)
+          unreasonably failed to consider the insured&rsquo;s evidence.
         </p>
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Immediately after that list, the court added a footnote that has become one of the most
-        important sentences in California insurance bad-faith law:
+        important passages in California insurance bad-faith law &mdash; cautioning that the
+        examples it gave were not exhaustive and that an insurer cannot escape bad-faith liability
+        simply by relying on an expert whose opinion is not reasonable, is not based on a full or
+        fair investigation, or is otherwise not fairly arrived at. The widely circulating
+        &ldquo;manufacturing a genuine dispute&rdquo; phrasing does not appear in the opinion
+        itself; it is a later commentator&rsquo;s shorthand for the court&rsquo;s reasoning.
       </p>
-
-      <CalloutBox variant="legal" title="Chateau Chamberay — The Expert-Manufacture Exception (verbatim)">
-        <p className="italic">
-          This list is certainly not intended to be exhaustive of the circumstances that may
-          justify submission to a jury of an insurer&rsquo;s &ldquo;genuine dispute&rdquo; defense
-          to a claim of bad faith. Nor, we must also add, may an insurer insulate itself from
-          liability for bad faith conduct by the simple expedient of hiring an expert for the
-          purpose of manufacturing a &ldquo;genuine dispute.&rdquo;
-        </p>
-      </CalloutBox>
-
       <p className="text-gray-700 leading-relaxed mb-4">
         Subsequent California cases and commentary have added other categories of conduct that
         defeat the defense (failure to conduct a thorough investigation, dishonest expert
