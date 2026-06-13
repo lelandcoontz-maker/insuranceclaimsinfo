@@ -91,13 +91,13 @@ export default function Content() {
       <CalloutBox variant="important" title="Section 3294(b) Punishes the Corporation, Not Just the Employee">
         <p>
           A critical point often missed: Civil Code section 3294, subdivision (b), does not
-          authorize an award of punitive damages against an employer for the employee&rsquo;s
-          wrongful conduct. It authorizes an award of punitive damages against the employer for
-          the <em>employer&rsquo;s own</em> wrongful conduct &mdash; as manifested through the
-          actions of its officers, directors, or managing agents. This distinction was clarified
+          impose punitive damages on an employer vicariously for an employee&rsquo;s wrongful
+          conduct. It conditions corporate punitive exposure on the corporation&rsquo;s own
+          wrongful conduct &mdash; as manifested through the actions, authorization, or
+          ratification of its officers, directors, or managing agents. This principle is reflected
           in <em>Weeks v. Baker &amp; McKenzie</em> (1998) 63 Cal.App.4th 1128. The managing
-          agent&rsquo;s conduct <em>is</em> the corporation&rsquo;s conduct for punitive damages
-          purposes.
+          agent&rsquo;s conduct is treated as the corporation&rsquo;s conduct for punitive
+          damages purposes.
         </p>
       </CalloutBox>
 
@@ -830,13 +830,13 @@ export default function Content() {
         <em>Downey Savings &amp; Loan Assn. v. Ohio Casualty Ins. Co.</em> (1987) 189 Cal.App.3d 1072
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Downey Savings</em>, the jury found that Ohio Casualty Insurance Company &ldquo;acted
-        maliciously, with an intent to oppress, and in conscious disregard of the rights of its
-        insured&rdquo; and awarded $5 million in punitive damages (in addition to $152,983 in
-        compensatory damages). The court upheld the punitive award, finding substantial evidence
-        that the insurer&rsquo;s conduct &mdash; through its officers, directors, or managing
-        agents &mdash; rose to the level of oppression, fraud, or malice required for punitive
-        damages.
+        <em>Downey Savings</em> is a leading California Court of Appeal punitive-damages decision
+        in the insurance bad-faith context. The court affirmed a punitive damages award against
+        Ohio Casualty Insurance Company on substantial evidence that the insurer&rsquo;s conduct
+        &mdash; through its officers, directors, or managing agents &mdash; rose to the level of
+        oppression, fraud, or malice required for punitive damages under Civil Code &sect; 3294.
+        The decision is frequently cited for its treatment of the institutional dimension of
+        insurer punitive liability.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -844,13 +844,13 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Although arising in a sexual harassment context, <em>Weeks</em> contains important
-        language about the nature of corporate punitive damages liability. The court affirmed
-        $3.5 million in punitive damages against the law firm and clarified that section 3294(b)
-        &ldquo;does not authorize an award of punitive damages against an employer for the
-        employee&rsquo;s wrongful conduct. It authorizes an award of punitive damages against
-        an employer for the employer&rsquo;s own wrongful conduct.&rdquo; This principle is
-        directly applicable to insurance bad faith cases: the managing agent&rsquo;s conduct is
-        the insurer&rsquo;s conduct.
+        reasoning about the nature of corporate punitive damages liability. The court affirmed a
+        $3.5 million punitive damages award against the law firm and explained that section
+        3294(b) ties corporate punitive exposure to the employer&rsquo;s own wrongful conduct
+        &mdash; through authorization, ratification, or advance knowledge of an unfit employee
+        &mdash; rather than imposing vicarious liability for the employee&rsquo;s malice. This
+        principle is directly applicable to insurance bad faith cases: the managing agent&rsquo;s
+        conduct is treated as the insurer&rsquo;s conduct.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -943,22 +943,15 @@ export default function Content() {
           California has no statutory cap on punitive damages in insurance bad faith cases. But
           federal due process imposes a meaningful ceiling. In{' '}
           <em>State Farm Mut. Auto. Ins. Co. v. Campbell</em> (2003) 538 U.S. 408, 425, the
-          United States Supreme Court held:
-        </p>
-        <p className="italic mt-2">
-          &ldquo;[F]ew awards exceeding a single-digit ratio between punitive and compensatory
-          damages, to a significant degree, will satisfy due process. Single-digit multipliers
-          are more likely to comport with due process, while still achieving the State&rsquo;s
-          goals of deterrence and retribution, than awards with ratios in range of 500 to 1, or,
-          in this case, of 145 to 1.&rdquo;
+          United States Supreme Court held that &ldquo;few awards exceeding a single-digit ratio
+          between punitive and compensatory damages, to a significant degree, will satisfy due
+          process.&rdquo;
         </p>
         <p className="mt-2">
           The California Supreme Court applied this principle in{' '}
-          <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th 1159, 1182, holding
-          that &ldquo;ratios between the punitive damages award and the plaintiff&rsquo;s actual
-          or potential compensatory damages significantly greater than 9 or 10 to 1 are suspect
-          and, absent special justification, cannot survive appellate scrutiny under the due
-          process clause.&rdquo;
+          <em>Simon v. San Paolo U.S. Holding Co.</em> (2005) 35 Cal.4th 1159, 1182, treating
+          ratios significantly greater than 9 or 10 to 1 as suspect under federal due process
+          absent special justification.
         </p>
         <p className="mt-2">
           In practice, this means punitive-to-compensatory ratios in California insurance bad
