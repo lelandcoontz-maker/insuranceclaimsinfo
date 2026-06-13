@@ -466,12 +466,11 @@ export default function Content() {
         <li>
           <strong>Saxe Doernberger &amp; Vita, P.C.</strong> &mdash; A policyholder-side
           insurance coverage law firm that has published analyses of ordinance or law
-          coverage disputes, including the scope of &ldquo;increased cost of construction&rdquo;
-          coverage and the types of regulations that trigger the coverage. As the firm has
-          explained, &ldquo;ordinance or law coverage exists precisely because the cost of
-          complying with current laws during repair almost always exceeds the cost of simply
-          replacing what was damaged.&rdquo; Search for their publications on ordinance or
-          law coverage.
+          coverage disputes, including the scope of increased cost of construction coverage
+          and the types of regulations that trigger the coverage. Their publications address
+          the practical reality that compliance with current laws during repair frequently
+          exceeds the cost of simply replacing what was damaged. Search for their
+          publications on ordinance or law coverage.
         </li>
         <li>
           <strong>Policyholder-side coverage commentary</strong> &mdash; Published
