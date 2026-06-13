@@ -117,44 +117,56 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The ISO Endorsement: CP 12 18
+        How the Waiver Is Actually Implemented: CP 00 90 and CG 24 04
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        ISO (Insurance Services Office) publishes a standard endorsement for commercial property
-        policies that implements the waiver of subrogation: <strong>CP 12 18 &mdash; Loss
-        Payable Provisions</strong>, specifically Option D, which is the &ldquo;Waiver of
-        Rights of Recovery&rdquo; provision. Some carriers also use a standalone endorsement
-        titled &ldquo;Waiver of Rights of Recovery (Waiver of Subrogation)&rdquo; referenced
-        as <strong>CP 12 18</strong> or proprietary equivalents.
+        On the general liability side, ISO provides a standard standalone endorsement &mdash;{' '}
+        <strong>CG 24 04 (Waiver of Transfer of Rights of Recovery Against Others to Us)</strong>{' '}
+        &mdash; that can be attached to the CGL policy to waive subrogation against a designated
+        party.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The endorsement typically states that the insurer will not exercise its right of recovery
-        against a party designated in the endorsement schedule. The key requirements are:
+        On the commercial property side, there is no equivalent standalone ISO endorsement
+        (no &ldquo;CP 24 04&rdquo; exists). Instead, the mechanism lives inside the policy&rsquo;s
+        Commercial Property Conditions form &mdash; <strong>CP 00 90</strong> &mdash; which
+        includes a condition titled &ldquo;Transfer of Rights of Recovery Against Others to Us.&rdquo;
+        That condition states that the insured may waive its rights of recovery against another
+        party <strong>in writing before a loss occurs</strong>. In practice, the lease itself is
+        the writing that effects the waiver &mdash; the lease provision that says &ldquo;each
+        party waives its right of recovery against the other&rdquo; is the waiver, and it must
+        be in place before a loss happens.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Some carriers also offer proprietary &ldquo;waiver of rights of recovery&rdquo;
+        endorsements that explicitly identify the designated party on the policy schedule. These
+        endorsements are useful documentation but are not strictly required when the lease
+        language already satisfies the CP 00 90 pre-loss-written-waiver requirement.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Key requirements:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>The endorsement must be in place before the loss.</strong> An insurer is not
-          obligated to honor a waiver of subrogation that was not part of the policy at the
-          time of the loss. If the tenant signed a lease requiring a waiver but never asked
-          the agent to add the endorsement, the insurer&rsquo;s subrogation rights remain
-          intact &mdash; and the tenant may be in breach of the lease.
+          <strong>The waiver must be in writing and executed before the loss.</strong> A waiver
+          executed after a loss is generally unenforceable because the insurer&rsquo;s
+          subrogation rights vest at the time of loss.
         </li>
         <li>
-          <strong>The designated party must be specifically identified.</strong> The
-          endorsement schedule should name the landlord (or the lease, by reference). A
-          blanket waiver may not satisfy all carrier requirements.
+          <strong>The waiver should specifically identify the protected party.</strong> The lease
+          language should clearly name the landlord (and any related parties to be protected,
+          such as the property manager or lender). Ambiguous language may not protect all
+          intended parties.
         </li>
         <li>
-          <strong>The endorsement may carry an additional premium.</strong> Because the
-          insurer is giving up its recovery rights, waiver of subrogation endorsements
-          typically add a small percentage to the property insurance premium. This cost is
-          part of the tenant&rsquo;s lease obligation.
+          <strong>Confirm the carrier permits pre-loss waivers.</strong> Most standard ISO
+          commercial property forms permit pre-loss waivers through CP 00 90. Some non-standard
+          or surplus lines forms restrict or prohibit them. Get written confirmation from the
+          carrier or broker.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        On the general liability side, the equivalent endorsement is <strong>CG 24 04</strong>
-        &mdash; Waiver of Transfer of Rights of Recovery Against Others to Us. Leases
-        frequently require both property and liability waivers, so both endorsements may be
+        Leases frequently require both property and liability waivers, so both the lease language
+        (for property, satisfying CP 00 90) and the CG 24 04 endorsement (for liability) may be
         needed. For more on how these endorsements fit into the broader commercial lease
         insurance framework, see our article on{' '}
         <Link href="/resources/commercial-endorsements" className="text-blue-700 underline hover:text-blue-900">
@@ -320,13 +332,17 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A lease that requires the tenant to name the landlord as an additional insured on the
         CGL policy <em>and</em> provide a waiver of subrogation on the property policy is
-        asking for two different things. The additional insured endorsement (e.g., CG 20 11)
-        goes on the liability policy. The waiver of subrogation endorsement (CP 12 18 for
-        property, CG 24 04 for liability) goes on the respective policy. For a complete
+        asking for two different things. For a complete
         breakdown of additional insured mechanics, see our article on{' '}
         <Link href="/resources/named-vs-additional-insured" className="text-blue-700 underline hover:text-blue-900">
           Named Insured vs. Additional Insured
         </Link>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Mechanically, the additional insured endorsement (e.g., CG 20 11) goes on the liability
+        policy. The waiver of subrogation on the property side is implemented by the lease
+        language pursuant to CP 00 90 (no standalone ISO property endorsement exists). The
+        liability waiver is implemented by the CG 24 04 endorsement on the CGL policy.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
