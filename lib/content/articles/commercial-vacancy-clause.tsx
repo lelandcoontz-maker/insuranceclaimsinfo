@@ -315,13 +315,13 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The opposite line of cases holds that <em>planning</em> to renovate &mdash; without
-        actual physical work in progress &mdash; does not qualify for the exception. In{' '}
-        <em>City of Cleveland v. Northwood Co.</em>, 2013-Ohio-3959, 995 N.E.2d 1279 (Ohio Ct.
-        App. 2013), the court explained that &ldquo;renovation contemplates something being
-        done at the building, not merely planning to renovate, remodel, or refurbish.&rdquo;
-        The takeaway from the case law generally is consistent: architectural plans, signed
-        contractor agreements, building permits, or even materials staged on site are
-        insufficient if no one has actually started physical work.
+        actual physical work in progress &mdash; does not qualify for the exception. <em>City
+        of Cleveland v. Northwood Co.</em>, 2013-Ohio-3959, 995 N.E.2d 1279 (Ohio Ct. App.
+        2013), reflects the view that renovation requires something actually being done at the
+        building rather than mere planning to renovate, remodel, or refurbish. The takeaway from
+        the case law generally is consistent: architectural plans, signed contractor agreements,
+        building permits, or even materials staged on site are insufficient if no one has
+        actually started physical work.
       </p>
 
       <CalloutBox variant="legal" title="The Renovation Exception Requires Active Work">
@@ -367,12 +367,14 @@ export default function Content() {
           for more on Wells Fargo).
         </li>
         <li>
-          <strong>Botee v. Southern Fidelity Insurance Co.</strong>, 2015 WL 477836 (Fla. 5th
-          DCA Feb. 6, 2015) &mdash; The Florida Fifth District Court of Appeal reached the
-          opposite conclusion, holding that arson falls within the plain meaning of
-          &ldquo;vandalism and malicious mischief&rdquo; &mdash; the intentional destruction of
-          property. Under this reasoning, an arson fire at a vacant building is excluded
-          entirely, and the insured recovers nothing.
+          <strong>Botee v. Southern Fidelity Insurance Co.</strong>, 162 So. 3d 183 (Fla. 5th
+          DCA 2015) &mdash; The Florida Fifth District Court of Appeal reached the opposite
+          conclusion, holding that arson falls within the plain meaning of &ldquo;vandalism and
+          malicious mischief&rdquo; &mdash; the intentional destruction of property. Under this
+          reasoning, an arson fire at a vacant property is excluded entirely, and the insured
+          recovers nothing. <em>Botee</em> involved a residential policy with a 30-day vacancy
+          clause, but the doctrinal point about how to classify arson under a vacancy provision
+          transfers to the commercial 60-day framework.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
