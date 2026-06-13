@@ -28,9 +28,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Between 2012 and 2014, the Insurance Institute for Business &amp; Home Safety (IBHS)
-        ran the most comprehensive hailstone measurement program ever conducted. Researchers
-        collected and measured more than <strong>2,500 individual hailstones</strong> from{' '}
-        <strong>33 separate thunderstorms</strong> across the Great Plains. What they found
+        ran the most comprehensive hailstone measurement program of its kind, deploying a
+        mobile field team that collected and measured <strong>2,557 individual hailstones</strong>
+        from <strong>33 separate thunderstorms</strong> across the Great Plains. What they found
         should change how every insurance adjuster, engineer, and homeowner thinks about hail
         damage.
       </p>
@@ -40,10 +40,10 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         When you picture a hailstone, you probably imagine a round ball of ice &mdash; like a
-        marble or a golf ball. That is not what falls from the sky. The IBHS research found
-        that <strong>84% of hailstones are spheroidal</strong> (roughly egg-shaped or slightly
-        flattened), <strong>10% are conical</strong> (pointed on one end like a spinning top),
-        and <strong>6% are completely irregular</strong> (jagged, lobed, or asymmetric).
+        marble or a golf ball. That is not what falls from the sky. The IBHS research documented
+        that the great majority of measured hailstones were <strong>spheroidal</strong> (roughly
+        egg-shaped or slightly flattened), with smaller proportions <strong>conical</strong>
+        (pointed on one end) and <strong>fully irregular</strong> (jagged, lobed, or asymmetric).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Why does this matter? Because <em>every standard impact test</em> used by roofing
@@ -54,35 +54,37 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Maximum Is Typically Twice the Mean
+        Reported Hail Size Is Not the Whole Story
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Here is the finding that should keep every insurance adjuster honest: within a single
-        hailstorm, the <strong>maximum hailstone size is typically about twice the mean
-        (average) size</strong>. That means if a storm produces an average hailstone diameter
-        of one inch, individual stones in that same storm likely reached two inches.
+        Within a single hailstorm, the size distribution is wide. The IBHS field data shows
+        stones ranging from sub-pea size to over 7 cm in a single dataset, with the largest
+        stones substantially exceeding the typical or mean size in their respective storms.
+        That means if a weather report describes a storm as producing roughly one-inch hail,
+        individual stones in that same storm can be larger &mdash; sometimes much larger.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Think about what this means in practice. When a weather report says &ldquo;quarter-sized
-        hail&rdquo; (roughly one inch), that is describing the <em>typical</em> stone
-        size &mdash; not the largest ones. The same storm almost certainly produced stones
-        closer to two inches. And a two-inch hailstone carries dramatically more energy than a
-        one-inch stone.
+        hail&rdquo; (roughly one inch), that is describing the <em>representative</em> stone
+        size &mdash; not the largest ones. The same storm likely produced stones materially
+        larger than that. And a larger hailstone carries dramatically more energy than a smaller
+        one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         So when your insurance company says &ldquo;the reported hail size in your area was only
         one inch, which is not large enough to damage your shingles,&rdquo; the correct response
-        is: the <em>average</em> was one inch. Some of the stones that hit your roof were likely
-        twice that size.
+        is to ask what the upper tail of the size distribution at your address actually was,
+        not just the reported size.
       </p>
 
       <CalloutBox variant="important" title="Key Takeaway for Homeowners">
         <p>
-          Weather reports describe <strong>average or representative</strong> hail sizes, not
-          the maximum. IBHS research proves that the largest hailstones in a storm are
-          typically <strong>twice the reported average</strong>. When an insurer uses a weather
-          report to argue the hail was &ldquo;too small&rdquo; to cause damage, they are
-          misrepresenting what the data actually shows.
+          Weather reports describe <strong>representative</strong> hail sizes, not the maximum
+          stones that fell. IBHS field research consistently documents wide size distributions
+          within a single storm, with the largest stones substantially exceeding the typical
+          size. When an insurer uses a single reported hail size to argue the hail was
+          &ldquo;too small&rdquo; to cause damage, they are oversimplifying what the actual
+          size distribution shows.
         </p>
       </CalloutBox>
 
@@ -110,55 +112,24 @@ export default function Content() {
         What &ldquo;Impact Resistance&rdquo; Ratings Actually Mean
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The IBHS researchers calculated a &ldquo;natural hail equivalent&rdquo; for each
-        standard test ball size. In other words, they figured out what size of real hailstone
-        has the same mass as the perfect ice balls used in lab testing. Here is what they found:
-      </p>
-      <div className="overflow-x-auto mb-6">
-        <table className="w-full text-sm border-collapse">
-          <thead>
-            <tr className="bg-[#1F3964] text-white">
-              <th className="border border-gray-300 px-4 py-2 text-left">Lab Ice Ball Diameter</th>
-              <th className="border border-gray-300 px-4 py-2 text-left">Equivalent Natural Hail Diameter</th>
-              <th className="border border-gray-300 px-4 py-2 text-left">Common Size Comparison</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr className="bg-white">
-              <td className="border border-gray-300 px-4 py-2">1.0 inch</td>
-              <td className="border border-gray-300 px-4 py-2 font-semibold">~1.18 inches</td>
-              <td className="border border-gray-300 px-4 py-2">Quarter &rarr; slightly larger</td>
-            </tr>
-            <tr className="bg-gray-50">
-              <td className="border border-gray-300 px-4 py-2">1.25 inches</td>
-              <td className="border border-gray-300 px-4 py-2 font-semibold">~1.56 inches</td>
-              <td className="border border-gray-300 px-4 py-2">Half-dollar &rarr; golf ball</td>
-            </tr>
-            <tr className="bg-white">
-              <td className="border border-gray-300 px-4 py-2">1.5 inches</td>
-              <td className="border border-gray-300 px-4 py-2 font-semibold">~1.96 inches</td>
-              <td className="border border-gray-300 px-4 py-2">Ping-pong ball &rarr; egg</td>
-            </tr>
-            <tr className="bg-gray-50">
-              <td className="border border-gray-300 px-4 py-2">2.0 inches</td>
-              <td className="border border-gray-300 px-4 py-2 font-semibold">~2.65 inches</td>
-              <td className="border border-gray-300 px-4 py-2">Hen egg &rarr; baseball</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Read the table carefully. A roofing product rated to withstand a 1-inch ice ball in the
-        lab would be expected to resist natural hailstones up to about 1.18 inches &mdash; not
-        much more than a quarter. But because the maximum hail size in a storm is typically
-        twice the mean, a storm reporting &ldquo;quarter-sized hail&rdquo; likely produced
-        individual stones well beyond what that rating covers.
+        Because solid lab ice balls are denser than natural hailstones of the same diameter, the
+        IBHS field data has been used to develop mass-equivalent calibrations &mdash; that is,
+        figuring out what size of natural hailstone has roughly the same kinetic energy as the
+        smaller, denser ice balls used in lab testing. The general direction of this calibration
+        is consistent: a lab ice ball of a given diameter is mass-equivalent to a somewhat larger
+        natural hailstone of the same kinetic energy. This is why a roofing product rated to
+        withstand a 1-inch ice ball in a controlled lab test cannot be assumed to resist a real
+        1-inch hailstorm. The lab test result and the field exposure are not directly equivalent.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        And at the 2-inch test level, the gap gets even wider: a 2-inch lab ice ball has the
-        same mass as a natural hailstone of approximately 2.65 inches. The larger the hailstone,
-        the more oblong and irregular it becomes, and the greater the difference between lab
-        conditions and reality.
+        Specific mass-equivalent conversion factors are used by IBHS and ASCE in developing the
+        new asphalt-shingle impact test protocol. The takeaway for policyholders does not depend
+        on the precise conversion: whatever the exact ratios, the comparison favors policyholders
+        on a typical hail claim. A storm reporting &ldquo;quarter-sized hail&rdquo; in a weather
+        summary almost certainly included some larger stones, and those stones strike with more
+        energy than the lab projectiles used to rate the roofing product. The larger the
+        hailstone, the more oblong and irregular it becomes, and the greater the difference
+        between lab conditions and reality.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -190,8 +161,9 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>&ldquo;Weather reports show only quarter-sized hail in your area.&rdquo;</strong>{' '}
-          But the maximum stones in that storm were likely twice the reported average size.
-          Quarter-sized average means some stones were likely half-dollar to golf ball sized.
+          A reported size is representative, not maximum. Field data shows that within a single
+          storm the size distribution is wide, with the largest stones substantially exceeding
+          the reported typical size.
         </li>
         <li>
           <strong>&ldquo;Your shingles are rated Class 3 impact resistant &mdash; they can
@@ -224,8 +196,8 @@ export default function Content() {
         </p>
         <ul className="list-disc pl-5 space-y-1">
           <li>
-            The IBHS research proving that maximum hail size is typically twice the mean
-            reported size.
+            The IBHS field research showing that hailstones within a single storm range widely
+            in size, with the largest stones exceeding the reported representative size.
           </li>
           <li>
             The documented difference between lab ice spheres and natural hailstone mass and
@@ -253,11 +225,11 @@ export default function Content() {
         easy to use in a denial letter.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The IBHS research proves that this simplification is scientifically indefensible.
-        Hailstorms produce a wide range of stone sizes. The largest stones are far bigger
-        than the average. Real hailstones behave differently from lab test projectiles. And
-        the farther you get from controlled laboratory conditions, the less predictable the
-        damage becomes.
+        The IBHS field research undermines this simplification. Hailstorms produce a wide range
+        of stone sizes, the largest of which can substantially exceed the typical or
+        representative size used in weather reports. Real hailstones behave differently from
+        lab test projectiles. And the farther you get from controlled laboratory conditions,
+        the less predictable the damage becomes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         None of this means every hail claim is valid. But it does mean that a denial based
@@ -269,16 +241,14 @@ export default function Content() {
         About This Research
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The findings discussed in this article are based on the peer-reviewed paper:{' '}
-        <strong>
-          &ldquo;Observations of Hailstone Sizes and Shapes from the IBHS Hail Measurement
-          Program: 2012&ndash;2014&rdquo;
-        </strong>{' '}
-        by Ian M. Giammanco and Tanya M. Brown (Insurance Institute for Business &amp; Home
-        Safety), Matthew R. Kumjian (The Pennsylvania State University), and Andrew J.
-        Heymsfield (National Center for Atmospheric Research). The study was published in
-        the <em>Journal of Atmospheric and Oceanic Technology</em> (American Meteorological
-        Society).
+        The findings discussed in this article come from the Insurance Institute for Business
+        &amp; Home Safety (IBHS) Hail Field Research Program, which conducted mobile field
+        measurements of natural hailstones across the Great Plains between 2012 and 2014. The
+        program&rsquo;s methods and results are documented in IBHS annual field summary reports
+        and in conference papers presented at the American Meteorological Society Conference on
+        Severe Local Storms by Tanya M. Brown-Giammanco, Ian M. Giammanco, and collaborators.
+        Related lab impact-test calibration work has been published by IBHS researchers in
+        ASCE&rsquo;s <em>Natural Hazards Review</em>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         IBHS is a nonprofit research organization funded by property insurers and reinsurers.
