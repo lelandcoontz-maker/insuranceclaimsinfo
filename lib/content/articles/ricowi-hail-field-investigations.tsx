@@ -38,8 +38,8 @@ export default function Content() {
         and industry organizations. It is <strong>not</strong> a consumer advocacy group. It is
         not funded by trial lawyers or Public Adjusters. RICOWI exists to objectively document
         how roofing materials perform in real weather events. Its members include some of the
-        largest roofing manufacturers in the world, along with organizations like Oak Ridge
-        National Laboratory and Texas A&amp;M University.
+        largest roofing manufacturers in the world, along with research organizations such as
+        Oak Ridge National Laboratory.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This matters because when you cite a RICOWI report in a claim dispute, your insurer
@@ -75,26 +75,22 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>North Texas Hail Investigation (2016)</strong> &mdash; Following severe
-          hailstorms that caused billions of dollars in damage across the Dallas&ndash;Fort
-          Worth metropolitan area. Documented damage patterns across asphalt shingles, metal
-          roofing, tile, and single-ply membranes.
+          <strong>North Texas Hail Investigation (April 11, 2016)</strong> &mdash; Following
+          severe hailstorms that caused widespread damage across the northern portion of the
+          Dallas&ndash;Fort Worth metropolitan area. Documented damage patterns across asphalt
+          shingles, metal roofing, tile, and single-ply membranes.
         </li>
         <li>
-          <strong>Dallas&ndash;Fort Worth Investigation (2011)</strong> &mdash; Covered the
-          widespread hail events that produced golf ball to baseball-sized hail across North
-          Texas. Detailed photographic documentation of damage to residential and commercial
-          roofing materials.
+          <strong>Dallas&ndash;Fort Worth Investigation (May 24, 2011)</strong> &mdash; Covered
+          the widespread hail events of that date with detailed photographic documentation of
+          damage to residential and commercial roofing materials. Six investigation teams were
+          deployed to the affected areas.
         </li>
         <li>
           <strong>Oklahoma City Investigation (2004)</strong> &mdash; One of the earlier
           comprehensive RICOWI field studies, documenting hail damage from severe storms in the
-          Oklahoma City metropolitan area.
-        </li>
-        <li>
-          <strong>Texas A&amp;M Collaborative Research (2025)</strong> &mdash; Ongoing research
-          collaboration between RICOWI and Texas A&amp;M University expanding the body of
-          field data on hail damage to roofing systems.
+          Oklahoma City metropolitan area. The final report was released at a RICOWI roofing
+          seminar in Norman, Oklahoma in October 2005.
         </li>
       </ul>
 
@@ -208,11 +204,10 @@ export default function Content() {
         researchers throughout the roofing and insurance industries.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Major RICOWI hail investigation reports include the North Texas (2016),
-        Dallas&ndash;Fort Worth (2011), and Oklahoma City (2004) studies, along with ongoing
-        collaborative research with Texas A&amp;M University. These reports represent some of
-        the most comprehensive real-world documentation of hail damage to roofing materials
-        available anywhere.
+        Major RICOWI hail investigation reports include the North Texas (April 2016),
+        Dallas&ndash;Fort Worth (May 2011), and Oklahoma City (2004) studies. These reports
+        represent some of the most comprehensive real-world documentation of hail damage to
+        roofing materials available anywhere.
       </p>
 
       <hr className="my-8 border-gray-300" />
