@@ -32,7 +32,14 @@ export default function Content() {
         What Is the Special Investigations Unit?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Every insurance company doing business in California is required to maintain a Special Investigations Unit. California Insurance Code &sect; 1875.24 mandates that each insurer establish and maintain an SIU to investigate suspected fraudulent claims. The statute reflects a public policy goal &mdash; reducing insurance fraud &mdash; that few would dispute. Fraud increases costs for all policyholders, and an insurer&apos;s duty to investigate potentially fraudulent claims is well recognized in law.
+        Every insurance company doing business in California is required to maintain a Special
+        Investigations Unit. California Insurance Code &sect;&sect; 1875.20&ndash;1875.24,
+        together with 10 CCR &sect;&sect; 2698.30&ndash;2698.43, mandate that each insurer
+        establish and maintain an SIU to identify and refer suspected fraudulent claims. The
+        statutory framework reflects a public policy goal &mdash; reducing insurance fraud
+        &mdash; that few would dispute. Fraud increases costs for all policyholders, and an
+        insurer&apos;s duty to investigate potentially fraudulent claims is well recognized in
+        law.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         SIU departments vary in structure. Some carriers operate fully internal SIU teams staffed by former law enforcement officers, private investigators, and experienced adjusters. Others outsource all or part of the function to third-party investigation firms. Regardless of structure, the SIU operates as a separate function from the regular claims department. When a claim is &quot;referred to SIU,&quot; it typically means the file is being transferred from the field adjuster or desk adjuster handling the claim to a specialized investigator who will take over or supplement the investigation.
@@ -220,7 +227,14 @@ export default function Content() {
         An SIU investigation is a civil investigation conducted by a private company. It is not a criminal investigation, and the SIU investigator is not a law enforcement officer. The SIU investigator has no authority to arrest, subpoena, compel testimony, or impose legal consequences. The only leverage the insurer has is the threat of denying the claim for breach of the cooperation clause.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, California Insurance Code &sect; 1875.24 requires insurers to report suspected fraudulent claims to the California Department of Insurance (CDI) Fraud Division. If the SIU investigation uncovers what the insurer believes to be evidence of fraud, the insurer is required to file a referral with CDI, which may then investigate and refer the matter to the local District Attorney for prosecution. This statutory obligation blurs the line between civil investigation and criminal exposure, which is why counsel is so important.
+        However, California&apos;s SIU framework (CIC &sect;&sect; 1875.20&ndash;1875.24 and
+        10 CCR &sect;&sect; 2698.30&ndash;2698.43) requires insurers to refer suspected
+        fraudulent claims to the California Department of Insurance (CDI) Fraud Division. If the
+        SIU investigation uncovers what the insurer believes to be evidence of fraud, the
+        insurer is required to file a referral with CDI, which may then investigate and refer
+        the matter to the local District Attorney for prosecution. This statutory obligation
+        blurs the line between civil investigation and criminal exposure, which is why counsel
+        is so important.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -371,7 +385,15 @@ export default function Content() {
         Failing to Pay Undisputed Amounts
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 790.03(h)(12) prohibits an insurer from failing to settle claims promptly where liability has become reasonably clear. An SIU investigation into potential fraud on one component of a claim does not entitle the insurer to withhold payment on the entire claim. If the SIU investigation concerns the cause of a fire, for example, the insurer may still have an obligation to advance living expenses under the additional living expense coverage while the investigation is pending. An insurer that withholds all payments pending completion of the SIU investigation &mdash; including undisputed components &mdash; is potentially acting in bad faith.
+        California Insurance Code &sect; 790.03(h)(5) prohibits an insurer from &ldquo;not
+        attempting in good faith to effectuate prompt, fair, and equitable settlements of claims
+        in which liability has become reasonably clear.&rdquo; An SIU investigation into
+        potential fraud on one component of a claim does not entitle the insurer to withhold
+        payment on the entire claim. If the SIU investigation concerns the cause of a fire, for
+        example, the insurer may still have an obligation to advance living expenses under the
+        additional living expense coverage while the investigation is pending. An insurer that
+        withholds all payments pending completion of the SIU investigation &mdash; including
+        undisputed components &mdash; is potentially acting in bad faith.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -391,7 +413,13 @@ export default function Content() {
         The &quot;Fraud Referral&quot; Threat
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        One of the most intimidating aspects of an SIU investigation is the specter of a criminal fraud referral. Insurers are required by California Insurance Code &sect; 1875.24 to report suspected fraudulent claims to the California Department of Insurance Fraud Division. Some carriers use this obligation &mdash; explicitly or implicitly &mdash; as leverage against policyholders. The message, whether stated outright or communicated through tone and context, is clear: cooperate, or face criminal prosecution.
+        One of the most intimidating aspects of an SIU investigation is the specter of a
+        criminal fraud referral. California&apos;s SIU framework (CIC &sect;&sect;
+        1875.20&ndash;1875.24 and 10 CCR &sect;&sect; 2698.30&ndash;2698.43) requires insurers
+        to refer suspected fraudulent claims to the California Department of Insurance Fraud
+        Division. Some carriers use this obligation &mdash; explicitly or implicitly &mdash; as
+        leverage against policyholders. The message, whether stated outright or communicated
+        through tone and context, is clear: cooperate, or face criminal prosecution.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -593,7 +621,7 @@ export default function Content() {
       <QABlock pairs={[
         {
           question: 'What is the Special Investigations Unit?',
-          answer: "Every California insurer is required by Insurance Code §1875.24 to maintain a Special Investigations Unit to investigate suspected fraudulent claims. The SIU operates as a separate function from the regular claims department. It serves a legitimate fraud-detection purpose, but it is also an investigative arm of a company whose financial interest lies in paying as little as possible on claims. The investigation is not a neutral fact-finding process.",
+          answer: "Every California insurer is required by Insurance Code §§ 1875.20–1875.24 and 10 CCR §§ 2698.30–2698.43 to establish and maintain a Special Investigations Unit to identify and refer suspected fraudulent claims. The SIU operates as a separate function from the regular claims department. It serves a legitimate fraud-detection purpose, but it is also an investigative arm of a company whose financial interest lies in paying as little as possible on claims. The investigation is not a neutral fact-finding process.",
         },
         {
           question: 'What triggers an SIU referral?',
