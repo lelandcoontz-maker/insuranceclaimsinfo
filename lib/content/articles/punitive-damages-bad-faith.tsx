@@ -291,19 +291,18 @@ export default function Content() {
         <li>
           <strong>Systematic denial patterns:</strong> Institutionalized practices designed
           to underpay or deny claims as a matter of corporate policy, rather than based on
-          individual claim evaluation. As noted in <em>Mock v. Michigan Millers Mutual
-          Insurance Co.</em> (1992) 4 Cal.App.4th 306, there is &ldquo;a greater chance for
-          an award of punitive damages where there are established policies or practices
-          in claims handling which are harmful to insureds.&rdquo;
+          individual claim evaluation. <em>Mock v. Michigan Millers Mutual Insurance
+          Co.</em> (1992) 4 Cal.App.4th 306 stands for the proposition that established
+          institutional claims-handling policies or practices harmful to insureds significantly
+          increase the likelihood of a punitive damages award.
         </li>
         <li>
-          <strong>Ignoring evidence that supports the claim:</strong> Selectively relying
-          on facts that support denial while disregarding facts that support coverage. As the
-          Court of Appeal stated in <em>Mazik</em>, &ldquo;An insurer is not permitted to
-          rely selectively on facts that support its position and ignore those facts that
-          support a claim. Doing so may constitute bad faith. When sufficiently egregious,
-          an insurer&rsquo;s intentional disregard of facts supporting a claim also meets
-          the standard for punitive damages.&rdquo;
+          <strong>Ignoring evidence that supports the claim:</strong> Selectively relying on
+          facts that support denial while disregarding facts that support coverage.{' '}
+          <em>Mazik</em> recognizes that an insurer&rsquo;s selective reliance on
+          denial-supporting facts while disregarding evidence supporting the claim can
+          constitute bad faith, and that when sufficiently egregious, intentional disregard of
+          evidence supporting the claim can support punitive damages as well.
         </li>
         <li>
           <strong>Failure to investigate:</strong> Denying a claim without conducting a
@@ -807,9 +806,12 @@ export default function Content() {
         </li>
         <li>
           <em>Jordan v. Allstate Insurance Co.</em> (2007) 148 Cal.App.4th 1062 &mdash;
-          Held that an insurer&rsquo;s failure to conduct a full, fair, and thorough
-          investigation can support bad faith and punitive damages even where the
-          coverage interpretation was reasonable
+          Addressed the interaction between <em>Moradi-Shalal</em> and Business &amp;
+          Professions Code &sect; 17200; held that a Unfair Competition Law claim cannot be
+          based solely on alleged Insurance Code &sect; 790.03(h) violations, so policyholders
+          cannot bootstrap UIPA violations into a UCL claim to avoid the
+          no-private-right-of-action rule. Relevant to bad-faith pleading strategy, not
+          directly to the failure-to-investigate standard
         </li>
       </ul>
 
