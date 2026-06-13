@@ -251,16 +251,14 @@ export default function Content() {
         Co.</em>, 164 A.D.3d 1120 (N.Y. App. Div. 3d Dep&rsquo;t 2018), the court held that
         &ldquo;reside&rdquo; was not defined in the policy and that an insured <strong>may have
         more than one &ldquo;residence&rdquo; for insurance purposes</strong>, with the property
-        at issue still qualifying as a residence even if not the exclusive or primary home.
-        Snowbirds should be aware that the case law cuts both ways. The Illinois Appellate
-        Court in <em>Lundquist v. Allstate Insurance Co.</em>, 314 Ill. App. 3d 240 (2000),
-        denied coverage where the insureds had moved out of the insured property and no longer
-        lived there at the time of the loss &mdash; treating residency as requiring physical
-        presence plus intent to remain. <em>Lundquist</em> is helpful authority for an insurer
-        who can show the insured had relocated, but it is distinguishable from a snowbird who
-        maintains a furnished home and returns to it seasonally. The fact-intensive nature of
-        the residency inquiry is itself a reason to develop and document the snowbird&rsquo;s
-        continuing ties to the property.
+        at issue still qualifying as a residence even if not the exclusive or primary home. The
+        Illinois First District Appellate Court in <em>Lundquist v. Allstate Insurance Co.</em>,
+        314 Ill. App. 3d 240 (Ill. App. Ct. 1st Dist. 2000), is widely cited for the related
+        proposition that while physical presence is a necessary component of residence, a
+        temporary absence does not by itself defeat residency &mdash; an authority directly
+        useful to a snowbird who maintains a furnished home and returns to it seasonally. The
+        fact-intensive nature of the residency inquiry is itself a reason to develop and
+        document the snowbird&rsquo;s continuing ties to the property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For snowbirds, this principle is directly applicable. You reside in Minneapolis in the
@@ -1079,19 +1077,18 @@ export default function Content() {
         <li>
           <strong>You reside at more than one home.</strong> A person can have multiple
           residences for insurance purposes. Your seasonal home is one of them. <em>Craft v.
-          New York Central Mutual</em>, 164 A.D.3d 1120 (3d Dep&rsquo;t 2018), and <em>Dean v.
-          Tower</em>, 19 N.Y.3d 704 (2012), support the principle that a property need not be
-          the insured&rsquo;s sole or primary residence to qualify as a &ldquo;residence
-          premises.&rdquo; Be cautious citing decisions like <em>Lundquist v. Allstate</em>,
-          314 Ill. App. 3d 240 (2000) &mdash; that case denied coverage where the insureds had
-          moved out and is helpful to the insurer, not the snowbird who returns seasonally to a
-          furnished home.
+          New York Central Mutual</em>, 164 A.D.3d 1120 (3d Dep&rsquo;t 2018), <em>Dean v.
+          Tower</em>, 19 N.Y.3d 704 (2012), and <em>Lundquist v. Allstate</em>, 314 Ill. App.
+          3d 240 (1st Dist. 2000), all support the principle that a property need not be the
+          insured&rsquo;s sole or primary residence to qualify as a &ldquo;residence
+          premises&rdquo; and that temporary absence does not by itself defeat residency.
         </li>
         <li>
           <strong>&ldquo;Reside&rdquo; is ambiguous.</strong> The policy does not define
           &ldquo;reside,&rdquo; creating ambiguity that must be construed against the insurer
-          under <em>contra proferentem</em>. <em>Dean v. Tower</em>, 19 N.Y.3d 704 (2012), is
-          a leading authority on this point in the residence-premises context.
+          under <em>contra proferentem</em>. <em>Dean v. Tower</em>, 19 N.Y.3d 704 (2012), and
+          <em>Lundquist v. Allstate</em>, 314 Ill. App. 3d 240 (1st Dist. 2000), are leading
+          authorities on this point in the residence-premises context.
         </li>
         <li>
           <strong>HO 06 48 locks in coverage.</strong> If you were at the property on the

@@ -46,10 +46,10 @@ export default function Content() {
         policy form in the United States &mdash; defines &ldquo;residence premises&rdquo; as the
         one-family dwelling <strong>&ldquo;where you reside&rdquo;</strong> and which is shown as
         the &ldquo;described location&rdquo; on the declarations page. This definition is the
-        gateway to virtually all coverage under the policy. Your dwelling coverage (dwelling),
-        other structures coverage (Other Structures), personal property coverage (personal property), loss of
-        use coverage (Loss of Use), personal liability coverage (personal liability), and medical payments
-        coverage (Medical Payments) all flow through the &ldquo;residence premises&rdquo; definition.
+        gateway to virtually all coverage under the policy. Your dwelling coverage, other
+        structures coverage, personal property coverage, loss of use coverage, personal liability
+        coverage, and medical payments coverage all flow through the &ldquo;residence
+        premises&rdquo; definition.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         What makes this language so dangerous is what it does <em>not</em> say. There is no
@@ -207,33 +207,38 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Durkheimer v. Safeco</em> (D. Or. 2025):</strong> The Durkheimers owned
-        homes in Portland, on the Oregon coast, and in Carmel, California, all insured by Safeco.
-        During the January 2024 freeze, their Portland home suffered hundreds of thousands of
-        dollars in water damage from burst pipes. Safeco raised an affirmative defense that the
-        Durkheimers did not &ldquo;reside&rdquo; at the Portland home. On February 12, 2025,
-        Magistrate Judge Stacie Beckerman recommended striking Safeco&rsquo;s affirmative defense,
-        finding the &ldquo;residence premises&rdquo; language was <strong>intended to identify the
-        property, not to create a coverage condition</strong>. On April 1, 2025, Judge Michael
-        Simon adopted the recommendation and struck the defense as insufficient as a matter of law.
+        <strong><em>Durkheimer v. Safeco Ins. Co. of Illinois</em>, No. 3:24-cv-1333-SB (D. Or.
+        2025):</strong> The Durkheimers owned homes in Portland, on the Oregon coast, and in
+        Carmel, California, all insured by Safeco. During the January 2024 freeze, their Portland
+        home suffered hundreds of thousands of dollars in water damage from burst pipes. Safeco
+        raised an affirmative defense that the Durkheimers did not &ldquo;reside&rdquo; at the
+        Portland home. On February 14, 2025, Magistrate Judge Stacie Beckerman issued Findings
+        and Recommendation concluding that the &ldquo;residence premises&rdquo; definition was
+        <strong> ambiguous</strong> and that under Oregon law a homeowner is entitled to specific
+        and unequivocal notice in the policy that coverage will be forfeited if the insured does
+        not reside at the home. On April 1, 2025, District Judge Michael H. Simon adopted the
+        Findings and Recommendation and granted the motion to strike, agreeing the policy was
+        ambiguous and did not put the Durkheimers on notice that coverage would be forfeited if
+        they did not reside at the property.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Lamonica v. Hartford Insurance Co. of the Midwest</em>, No. 5:19-cv-78
-        (N.D. Fla. 2020):</strong> The plaintiff inherited his mother&rsquo;s home. He did not
-        live there full-time but routinely returned, stayed at the house, and regarded it as the
-        family homestead. Hartford denied a property claim, arguing the home was not his
+        (N.D. Fla. June 15, 2021):</strong> The plaintiff inherited his mother&rsquo;s home. He
+        did not live there full-time but routinely returned, stayed at the house, and regarded it
+        as the family homestead. Hartford denied a property claim, arguing the home was not his
         &ldquo;residence premises.&rdquo; The court denied Hartford&rsquo;s motion for summary
-        judgment, holding that the policy does not require the home to be the insured&rsquo;s sole
-        or even primary residence &mdash; &ldquo;any residence will do.&rdquo; The court
+        judgment, holding that the policy does not require the home to be the insured&rsquo;s
+        sole or even primary residence &mdash; &ldquo;any residence will do.&rdquo; The court
         distinguished this from cases where the insured rented out the property, noting that
-        Lamonica never used it inconsistently with treating it as a permanent residence. The court
-        also emphasized that Hartford had accepted premiums while knowing about the
-        policyholder&rsquo;s living arrangement, invoking the doctrines of estoppel and waiver.
+        Lamonica never used it inconsistently with treating it as a permanent residence. The
+        court declined to find that Hartford was estopped from raising the residence-premises
+        defense on the record before it, but the underlying coverage holding remains a leading
+        federal authority for the &ldquo;any residence will do&rdquo; framing.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Dean v. Tower Insurance Co. of New York</em>, 19 N.Y.3d 1
+        <strong><em>Dean v. Tower Insurance Co. of New York</em>, 19 N.Y.3d 704
         (N.Y. 2012):</strong> In this decision from New York&rsquo;s highest court, the Deans
         purchased a home and obtained a homeowner policy but had not yet moved in when damage
         occurred during renovations. Tower denied coverage because the Deans did not
@@ -245,12 +250,13 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Craft v. New York Central Mutual Fire Insurance Co.</em> (N.Y. App. Div.
-        3d Dep&rsquo;t, 2017):</strong> The plaintiff and her husband built their home in 1967.
-        When the home was damaged by fire in 2014, the plaintiff&rsquo;s daughter-in-law was
-        residing in the premises, but not the named insured. The court held that because the
-        policy did not define &ldquo;reside,&rdquo; the term was ambiguous, and noted that
-        <strong>a person can have more than one residence for insurance purposes</strong>.
+        <strong><em>Craft v. New York Central Mutual Fire Insurance Co.</em>, 164 A.D.3d 1120
+        (N.Y. App. Div. 3d Dep&rsquo;t 2018):</strong> The plaintiff and her husband built their
+        home in 1967. When the home was damaged by fire in 2014, the plaintiff&rsquo;s
+        daughter-in-law was residing in the premises, but not the named insured. The court held
+        that because the policy did not define &ldquo;reside,&rdquo; the term was ambiguous, and
+        noted that <strong>a person can have more than one residence for insurance
+        purposes</strong>.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -267,14 +273,15 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Lundquist v. Allstate Insurance Co.</em>, No. 2-99-0863 (Ill. App. 2d
-        Dist. 2000):</strong> The Lundquists moved to Oregon but had not completed the sale of
-        their Rockford, Illinois, home when a loss occurred. The policy defined &ldquo;dwelling&rdquo;
-        as the structure &ldquo;where you reside.&rdquo; The Illinois Appellate Court held that
-        while physical presence is a component of residence, the degree of presence required was
-        unclear, making the provision <strong>subject to more than one reasonable interpretation
-        and therefore ambiguous</strong>. Allstate could not deny coverage based on its definition
-        of &ldquo;reside.&rdquo;
+        <strong><em>Lundquist v. Allstate Insurance Co.</em>, 314 Ill. App. 3d 240 (Ill. App.
+        Ct. 1st Dist. 2000):</strong> The First District Illinois Appellate Court treated
+        residency as a flexible concept under which a person can remain a resident of a dwelling
+        despite a temporary absence. Later Illinois decisions, including <em>Dardar v. Farmers
+        Auto. Ins. Ass&rsquo;n</em> (5th Dist. 2023), cite <em>Lundquist</em> for the proposition
+        that while physical presence is a necessary component of residence, the degree of
+        presence required is fact-intensive, with temporary absences not automatically defeating
+        coverage. The decision is widely cited as a pro-coverage ambiguity authority on the
+        residence-premises requirement.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -299,12 +306,17 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Pour v. Liberty Mutual Personal Insurance Co.</em>, No. 24-1824 (8th Cir.
-        2025):</strong> The Eighth Circuit held that the &ldquo;where you reside&rdquo; language
-        was a condition of coverage. The policyholder had relocated from Minnesota to Georgia,
-        establishing a new primary residence in another state while maintaining the insured
-        property. The court found that &ldquo;reside&rdquo; required physical presence and an
-        intent to remain, and the claim was denied.
+        <strong><em>Pour v. Liberty Mutual Personal Insurance Co.</em>, No. 24-1824, 2025 WL
+        3440993 (8th Cir. Dec. 1, 2025):</strong> The Eighth Circuit affirmed summary judgment
+        for Liberty Mutual on a homeowner&rsquo;s claim arising from a fire at a Champlin,
+        Minnesota home. The named insured Pour Sr. had moved from Minnesota to Georgia in 2019,
+        updated all formal records to reflect Georgia residency, and visited the Minnesota home
+        only briefly thereafter, staying elsewhere during those visits. The court held the phrase
+        &ldquo;where you reside&rdquo; was unambiguous and required actual residence at the
+        property, not merely ownership. The court further held that Pour Sr.&rsquo;s adult
+        children who continued to live in the Minnesota home were not &ldquo;residents of
+        [Pour Sr.&rsquo;s] household&rdquo; for purposes of insured status, because they did not
+        live under the same roof as the named insured.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -328,11 +340,13 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Adkisson v. Safeco Insurance Co. of Indiana</em>, No. 6:23-cv-00146
-        (E.D. Tex. 2024):</strong> Adkisson owned a home in Longview, Texas, which suffered water
-        damage during a historic freeze. He primarily lived in Godley, Texas, closer to his
-        workplace. The Longview home was largely unfurnished &mdash; an air mattress, a TV, and
-        minimal appliances. Utility usage was minimal. The court ruled for Safeco, finding
-        Adkisson did not &ldquo;reside&rdquo; at the Longview property.
+        (E.D. Tex. Nov. 15, 2024):</strong> Adkisson owned a home in Longview, Texas, which
+        suffered water damage during the February 2021 Texas freeze. He primarily lived in a
+        home he had purchased in Godley, Texas, closer to his workplace as an essential worker
+        during the COVID-19 pandemic. The Longview home showed limited furnishings and minimal
+        utility usage. The court ruled for Safeco, finding the limited evidence of occupancy
+        insufficient to establish that the Longview property was Adkisson&rsquo;s residence
+        premises under the policy.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
