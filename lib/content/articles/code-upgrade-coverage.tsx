@@ -318,7 +318,7 @@ export default function Content() {
         <li>
           <strong>Low-flow fixtures:</strong> Current California code requires low-flow toilets
           (1.28 gallons per flush or less), low-flow showerheads (1.8 GPM or less at 80 psi
-          under Title 20 &sect; 1605.1 Tier 2, effective July 2018), and low-flow faucets. If
+          under Title 20 &sect; 1605.3 Tier 2, effective July 2018), and low-flow faucets. If
           your repair involves replacing plumbing fixtures, the replacements must meet current
           flow-rate requirements. While individual fixture costs may be modest, the aggregate
           cost across a full-house renovation can be significant, particularly when older
@@ -409,11 +409,12 @@ export default function Content() {
           need to be brought to current NEC Article 680 standards &mdash; a significant cost.
         </li>
         <li>
-          <strong>Variable speed pool pump &mdash; Title 20, Section 1605.3(g)(4):</strong>{' '}
-          California energy efficiency regulations now require variable speed pool pumps for all
-          replacement installations. Single-speed pumps &mdash; which were standard for decades &mdash;
-          can no longer be installed. A variable speed pump costs substantially more than a
-          single-speed replacement, and the cost difference is a legitimate L&amp;O item.
+          <strong>Variable speed pool pump &mdash; Title 20, Section 1605.3(g)(5) and (g)(6):</strong>{' '}
+          California energy efficiency regulations now require multi-speed/variable-speed pool pumps for
+          all replacement installations of qualifying motors. Single-speed pumps &mdash; which were
+          standard for decades &mdash; can no longer be installed. A variable-speed pump costs
+          substantially more than a single-speed replacement, and the cost difference is a
+          legitimate L&amp;O item.
         </li>
         <li>
           <strong>Defensible space and fire-resistant landscaping:</strong> In fire zones, properties
