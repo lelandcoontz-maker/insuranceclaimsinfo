@@ -324,13 +324,26 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Key Takeaways">
         <ul className="list-disc pl-4 space-y-1">
-          <li>Four months ALE advance is mandatory upon request after a total loss in a declared disaster.</li>
-          <li>30% of dwelling limit for contents must be offered without an inventory.</li>
-          <li>The insurer must notify you of these options — many are not doing so.</li>
-          <li>Full replacement cost benefits apply even if you rebuild at a new location.</li>
-          <li>36 months minimum to collect replacement cost after a declared disaster.</li>
+          <li>Four months ALE advance is mandatory upon request after a total loss in a declared disaster (CIC &sect; 2061(a)).</li>
+          <li>60% of the contents (personal property) limit, up to $350,000, must be offered without an inventory under SB 495 effective January 1, 2026; the prior floor was 30% / $250,000 under AB 3012 (CIC &sect; 10103.7(b)(1)).</li>
+          <li>The insurer must notify you of these options &mdash; many are not doing so.</li>
+          <li>Full replacement cost benefits apply even if you rebuild at a new location (CIC &sect; 2051.5(c)(1)) and no deduction for land value at the new location (CIC &sect; 2051.5(c)(2)).</li>
+          <li>36 months minimum to collect replacement cost after a declared disaster, with additional six-month good-cause extensions (CIC &sect; 2051.5(b)(1)(B) and (b)(2)).</li>
           <li>These rules apply to all carriers including the California FAIR Plan.</li>
         </ul>
+      </CalloutBox>
+
+      <CalloutBox variant="info" title="A Note on the § 675.1 Renewal Citation">
+        <p>
+          The bulletin text reproduced above cites &ldquo;Cal. Ins. Code section 675.1[a][3]&rdquo;
+          for the two-year renewal mandate after a disaster total loss. In the current codified
+          version of &sect; 675.1, that mandate is at <strong>&sect; 675.1(a)(1)</strong>: the
+          insurer must offer to renew the policy for at least the next two annual renewal
+          periods or 24 months, whichever is greater, after a disaster total loss not caused by
+          the insured&rsquo;s negligence. The substantive right is unchanged. The Department&apos;s
+          subsection reference appears to reflect an earlier draft or amended version of the
+          statute. The codified subsection number is &sect; 675.1(a)(1) for current claims.
+        </p>
       </CalloutBox>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
