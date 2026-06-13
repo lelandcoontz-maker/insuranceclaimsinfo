@@ -50,12 +50,13 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Every insurance company has a legal right &mdash; and under California Insurance Code
-        section 1875.24, a statutory obligation &mdash; to investigate claims that present
-        legitimate indicators of fraud. This right is not disputed. Actual insurance fraud exists
-        and imposes real costs on the system. The problem arises when the fraud investigation
-        process is deployed not because genuine indicators of fraud exist, but because the claim
-        is large, the policyholder has pushed back on a lowball offer, or the carrier simply
-        wants to create a pretext for denial.
+        sections 1875.20&ndash;1875.24, together with 10 CCR &sect;&sect; 2698.30&ndash;2698.43,
+        a statutory obligation &mdash; to maintain a Special Investigative Unit (SIU) and to
+        investigate and refer claims that present legitimate indicators of fraud. This right
+        is not disputed. Actual insurance fraud exists and imposes real costs on the system.
+        The problem arises when the fraud investigation process is deployed not because genuine
+        indicators of fraud exist, but because the claim is large, the policyholder has pushed
+        back on a lowball offer, or the carrier simply wants to create a pretext for denial.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Distinguishing between a legitimate investigation and a pretextual one requires looking
@@ -310,14 +311,14 @@ export default function Content() {
         Fair Claims Settlement Practices Regulations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The California Fair Claims Settlement Practices regulations (10 CCR sections 2695.1
-        through 2695.17) apply to all claims, including those under investigation. An SIU
-        referral does not suspend the insurer&rsquo;s regulatory obligations. The carrier
-        must still acknowledge the claim within 15 days of receipt, communicate with the
-        policyholder within prescribed timeframes, and either accept or deny the claim within
-        40 days of receiving proof of loss &mdash; or provide a written explanation of why
-        additional time is needed. Policyholders who believe their carrier is using the SIU
-        process to indefinitely delay a claim decision can file a complaint with the{' '}
+        The California Fair Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.1
+        et seq.) apply to all claims, including those under investigation. An SIU referral does
+        not suspend the insurer&rsquo;s regulatory obligations. The carrier must still
+        acknowledge the claim within 15 days of receipt, communicate with the policyholder
+        within prescribed timeframes, and either accept or deny the claim within 40 days of
+        receiving proof of claim &mdash; or provide a written explanation of why additional
+        time is needed. Policyholders who believe their carrier is using the SIU process to
+        indefinitely delay a claim decision can file a complaint with the{' '}
         <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
           California Department of Insurance
         </Link>.
@@ -505,7 +506,7 @@ export default function Content() {
         </li>
         <li>
           <strong>California Department of Insurance</strong> &mdash; The CDI&rsquo;s Fair
-          Claims Settlement Practices regulations (10 CCR sections 2695.1&ndash;2695.14) and
+          Claims Settlement Practices Regulations (10 CCR &sect;&sect; 2695.1 et seq.) and
           enforcement actions provide the regulatory framework governing insurer conduct during
           investigations. Search the CDI&rsquo;s enforcement records for actions related to
           unfair investigation practices.
