@@ -5,9 +5,9 @@ import { DocumentEmbed } from '@/components/content/DocumentEmbed'
 export const meta = {
   title: 'Personal Property Claims Without a Full Inventory: What California Law Requires',
   description:
-    'After a total loss in a declared disaster, California law requires insurers to pay at least 30% of dwelling limits for contents without requiring an itemized inventory. The CDI has repeatedly directed carriers to comply.',
+    'After a total loss in a declared disaster, California law requires insurers to pay at least 60% of the contents (personal property) limit, up to $350,000, without requiring an itemized inventory (SB 495, eff. Jan 1, 2026). The CDI has repeatedly directed carriers to comply.',
   summary:
-    'After a total loss in a declared disaster, California law requires insurers to pay at least 30% of the dwelling limit for contents without demanding an itemized inventory. The CDI has repeatedly directed carriers to honor this.',
+    'After a total loss in a declared disaster, California law requires insurers to pay at least 60% of the contents limit, up to $350,000, without demanding an itemized inventory under SB 495 (eff. Jan 1, 2026). The CDI has repeatedly directed carriers to honor this.',
 }
 
 export default function Content() {
@@ -68,8 +68,13 @@ export default function Content() {
             SB 495 (was $250,000 under AB 3012)
           </li>
           <li>
-            <strong>No itemized inventory required</strong> for at least 100 days after the loss
-            (SB 495 codifies the 100-day breathing room expressly)
+            <strong>No itemized inventory required for the advance</strong> &mdash; SB 495
+            allows the insurer to require a one-page attestation that the residence was
+            furnished, but cannot demand a full inventory before paying the 60% / $350,000
+            advance. Separately, Insurance Code &sect; 2051.5(b)(3) prohibits the insurer from
+            requiring proof of loss less than <strong>100 days after the loss</strong> for any
+            claim related to a state of emergency &mdash; with one or more three-month good-cause
+            extensions available.
           </li>
           <li>
             <strong>You can still file a full inventory later</strong> &mdash; this advance does
@@ -200,12 +205,12 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="You Should Still Do Your Inventory">
         <p>
-          The 30% advance (or whatever percentage your carrier agrees to pay) is the minimum — not
-          your maximum recovery. Most homeowners have far more than 30% of their dwelling limit in
-          personal property. A typical household contains $60,000 to $150,000 or more in contents at
-          replacement cost, and larger homes can easily exceed $200,000. You are entitled to claim up
-          to your full contents policy limit by filing a detailed inventory later. Do not leave money
-          on the table by treating the advance as your final payment.
+          The 60% / $350,000 advance under SB 495 (or whatever percentage your carrier agrees
+          to pay) is the minimum &mdash; not your maximum recovery. Most homeowners have far
+          more than 60% of their contents limit in personal property at replacement cost, and a
+          large household can easily exceed $200,000. You are entitled to claim up to your full
+          contents policy limit by filing a detailed inventory later, subject to the policy
+          terms. Do not leave money on the table by treating the advance as your final payment.
         </p>
       </CalloutBox>
 
