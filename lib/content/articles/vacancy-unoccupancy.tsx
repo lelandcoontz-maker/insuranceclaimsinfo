@@ -79,28 +79,57 @@ export default function Content() {
         What the Vacancy Clause Actually Does
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard ISO HO-3 homeowner&rsquo;s policy &mdash; the most common homeowner policy in
-        the United States &mdash; suspends coverage for certain perils if the dwelling has been
-        &ldquo;vacant&rdquo; for more than 60 consecutive days before the loss. Some policies use a
-        30-day threshold instead. The specific perils affected typically include:
+        The vacancy structure differs materially across the three ISO base forms most relevant
+        to property insurance, and the differences matter. Popular insurance writing routinely
+        collapses them together, which is how policyholders end up with the wrong expectations
+        about what their own policy says.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Standard ISO HO 00 03 (homeowners) &mdash; narrow vacancy.</strong> The
+        unendorsed HO 00 03 form contains only two vacancy-triggered exclusions, both keyed to a
+        60-day vacancy threshold under Section I &mdash; Perils Insured Against:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Vandalism and malicious mischief</li>
-        <li>Building glass breakage</li>
-        <li>Water damage (burst pipes, leaking appliances, etc.)</li>
-        <li>Theft or attempted theft</li>
+        <li>Certain glass breakage</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For losses caused by perils <em>not</em> on this list &mdash; such as windstorm, hail, or
-        fire from a natural cause &mdash; the standard policy does not eliminate coverage for
-        vacancy but may reduce the amount payable by 15 percent.
+        That is the entire vacancy-exclusion list in the unendorsed homeowners form. Water damage,
+        theft, and freezing of plumbing are <em>not</em> on the HO 00 03 vacancy list, and the
+        homeowners form does not impose a 15 percent reduction on remaining covered losses.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The vacancy clause does not eliminate <em>all</em> coverage.
-        It eliminates coverage for <em>specific perils</em>. Policyholders and adjusters alike
-        sometimes mistakenly treat the vacancy clause as a blanket coverage exclusion, but that is
-        not how the standard policy form is written. If your home was damaged by a windstorm while
-        vacant, you still have coverage &mdash; just 15 percent less of it.
+        <strong>ISO DP 00 03 (dwelling fire, often used for landlord and non-owner-occupied
+        properties) &mdash; broader vacancy.</strong> The DP 00 03 vacancy provision is broader
+        than HO 00 03, sweeping in additional perils after the policy&rsquo;s vacancy threshold.
+        Rental and seasonal-residence risks are often written on DP-3 rather than HO-3, which is
+        why vacancy comes up so often in landlord and second-home claims.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>ISO CP 00 10 (commercial property) &mdash; broadest vacancy.</strong> The CP 00 10
+        form is the source of the structure that consumer-side articles routinely
+        mis-attribute to homeowners. The CP 00 10 vacancy provision, after the policy&rsquo;s
+        vacancy threshold, excludes loss from a defined list of perils that includes vandalism,
+        sprinkler leakage, building glass breakage, water damage, and theft or attempted theft,
+        and reduces the amount payable on remaining covered losses by 15 percent. That structure
+        belongs to commercial property risks. It is not the standard ISO HO 00 03 vacancy clause.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Carrier-manuscript endorsements.</strong> Some carriers add manuscript vacancy
+        endorsements to homeowner policies &mdash; particularly on second-home, seasonal, or
+        vacant-property risks &mdash; that broaden the base HO 00 03 vacancy provisions. The
+        endorsement controls. A homeowner reading a generic explanation that lists water damage
+        and theft under the vacancy exclusion may be reading a description of the commercial CP
+        form, not of their actual policy. The only reliable way to know what vacancy clause
+        applies to a particular policy is to pull the declarations page and read every endorsement
+        attached to it.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The vacancy clause, whatever form it takes, does not eliminate <em>all</em> coverage. It
+        eliminates coverage for <em>specific perils</em>. Policyholders and adjusters alike
+        sometimes mistakenly treat the vacancy clause as a blanket coverage exclusion, but that
+        is not how the standard policy forms are written. If a windstorm damages a vacant home
+        insured under an unendorsed HO 00 03, the vacancy clause does not reach the loss at all.
       </p>
 
       <CalloutBox variant="tip" title="Read Your Policy Carefully">
@@ -146,10 +175,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The court held the property was <strong>vacant</strong> despite the presence of these items.
-        It reasoned that the &ldquo;sparse inventory of chairs, mattress, and step ladder did not
-        advance the approximation to an inhabited abode,&rdquo; and that midday renovation work
-        did not convey the appearance of residential living. The items were incidental to
-        renovation &mdash; they did not make the property a functioning household.
+        It reasoned that the sparse inventory of chairs, mattress, and step ladder did not
+        approximate an inhabited dwelling, and that midday renovation work did not convey the
+        appearance of residential living. The items were incidental to renovation &mdash; they did
+        not make the property a functioning household.
       </p>
 
       <CalloutBox variant="warning" title="Furnishings Must Indicate Habitation">
@@ -507,11 +536,14 @@ export default function Content() {
         </li>
         <li>
           <strong>Does the excluded peril actually apply?</strong> The vacancy clause only
-          excludes specific perils. If your loss was caused by a peril not on the exclusion list
-          (such as windstorm, lightning, or fire from a natural cause), the vacancy clause may
-          reduce your payout by 15 percent but should not eliminate coverage entirely. If the
-          insurer is claiming arson is &ldquo;vandalism,&rdquo; research the case law in your
-          state.
+          excludes specific perils. On an unendorsed ISO HO 00 03, only vandalism/malicious
+          mischief and certain glass breakage are reached by the vacancy clause &mdash; a loss
+          caused by windstorm, lightning, or a natural-cause fire is not affected by vacancy at
+          all. On a DP 00 03, a CP 00 10 commercial form, or an HO-3 with a manuscript vacancy
+          endorsement, the list is broader and may include a 15 percent reduction on remaining
+          covered losses. Identify which form your policy actually uses before accepting the
+          insurer&rsquo;s framing of what the vacancy clause does. If the insurer is claiming
+          arson is &ldquo;vandalism,&rdquo; research the case law in your state.
         </li>
         <li>
           <strong>Did the insurer make affirmative representations about coverage despite knowing
@@ -594,10 +626,14 @@ export default function Content() {
           should not apply to a home that still contains personal property and furnishings.
         </li>
         <li>
-          <strong>The vacancy clause only excludes specific perils.</strong> Vandalism, glass
-          breakage, water damage, and theft are typically excluded during vacancy. Other perils
-          like fire from natural causes and windstorm are subject to a 15 percent reduction, not
-          a total exclusion.
+          <strong>The vacancy clause only excludes specific perils, and the list depends on the
+          form.</strong> The unendorsed ISO HO 00 03 homeowners form excludes only vandalism and
+          certain glass breakage after 60 days. The ISO CP 00 10 commercial form &mdash; not the
+          homeowners form &mdash; is the source of the broader 5-peril vacancy exclusion (adding
+          sprinkler leakage, water damage, and theft) and the 15 percent reduction on remaining
+          covered losses. DP-3 dwelling fire policies and some carrier-manuscript homeowner
+          endorsements sit somewhere in between. Identify the form before accepting the
+          insurer&rsquo;s description of the vacancy clause.
         </li>
         <li>
           <strong>The vacancy period may extend to a prior owner.</strong> If you purchase a
