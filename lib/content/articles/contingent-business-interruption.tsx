@@ -223,10 +223,10 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          In 2019, a fire at Meridian Magnesium Products in Eaton Rapids, Michigan &mdash; a supplier of magnesium die-cast components to Ford, Fiat Chrysler, GM, and others &mdash; disrupted production at multiple auto assembly plants. Ford was forced to reduce production of the F-150, its most profitable vehicle, because Meridian was the sole supplier of specific instrument panel components.
+          In May 2018, a fire at Meridian Magnesium Products in Eaton Rapids, Michigan &mdash; a supplier of magnesium die-cast components to Ford, Fiat Chrysler, GM, and others &mdash; disrupted production at multiple auto assembly plants. Ford was forced to reduce production of the F-150, its most profitable vehicle, because Meridian was the sole supplier of specific instrument panel components.
         </li>
         <li>
-          In 2012, a fire and explosion at an SK Hynix semiconductor fabrication facility in Wuxi, China disrupted global DRAM memory chip supplies. The facility produced approximately 10 percent of the world&apos;s DRAM, and the loss sent memory prices surging, creating downstream CBI exposure for computer and smartphone manufacturers.
+          In September 2013, a fire and explosion at an SK Hynix semiconductor fabrication facility in Wuxi, China disrupted global DRAM memory chip supplies. The facility produced approximately 10 percent of the world&apos;s DRAM, and the loss sent memory prices surging, creating downstream CBI exposure for computer and smartphone manufacturers.
         </li>
         <li>
           In 1997, a fire at the Aisin Seiki brake valve factory in Kariya, Japan halted Toyota&apos;s entire Japanese production &mdash; 18 plants producing 14,000 vehicles per day &mdash; because Aisin was the sole supplier of a critical proportioning valve. The shutdown lasted only about a week due to extraordinary supplier network coordination, but the estimated cost exceeded $300 million.
