@@ -186,11 +186,11 @@ export default function Content() {
         own.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Morgan v. American Security Insurance Co.</em> (Fla. 1988), Dorothy Morgan maintained
-        a homeowner&rsquo;s policy on a property she had deeded to her ex-husband in a divorce
-        settlement. When the home burned, the insurer denied her claim. The court agreed: the insured
-        must have insurable interest at the time of loss, and Morgan had transferred hers before the
-        fire. She recovered nothing.
+        In <em>Morgan v. American Security Insurance Co.</em>, 522 So. 2d 454 (Fla. 1st DCA 1988),
+        Dorothy Morgan maintained a homeowner&rsquo;s policy on a property she had deeded to her
+        ex-husband in a divorce settlement. When the home burned, the insurer denied her claim. The
+        court agreed: the insured must have insurable interest at the time of loss, and Morgan had
+        transferred hers before the fire. She recovered nothing.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -302,10 +302,14 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Standard Fire Policy, codified in Insurance Code Section 2071, reinforces
-        this by requiring the insured to disclose &ldquo;any changes in the title, use, occupation,
-        location, possession or exposures&rdquo; of the insured property. A transfer of ownership is
-        precisely the kind of change that must be disclosed &mdash; and that, once disclosed,
-        unravels the entire subject-to arrangement.
+        this through several separate provisions: the change-of-interest clause voids the policy if
+        any change takes place in the interest, title, or possession of the subject of insurance
+        (other than by the death of an insured); the increase-of-hazard clause suspends coverage
+        while the hazard is increased by any means within the control or knowledge of the insured;
+        and the concealment/fraud clause voids the policy if the insured willfully conceals or
+        misrepresents any material fact or circumstance concerning the insurance or the interest of
+        the insured. A transfer of ownership is precisely the kind of change that must be disclosed
+        &mdash; and that, once disclosed, unravels the entire subject-to arrangement.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -482,7 +486,7 @@ export default function Content() {
         Cases Cited
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><em>Morgan v. American Security Insurance Co.</em> (Fla. 1988)</li>
+        <li><em>Morgan v. American Security Insurance Co.</em>, 522 So. 2d 454 (Fla. 1st DCA 1988)</li>
         <li><em>State Farm Fire &amp; Casualty Co. v. Dubrovsky</em>, 2018 IL App (1st) 170282</li>
         <li><em>Aetna Insurance Co. v. King</em>, 265 So.2d 716 (Fla. 1st DCA 1972)</li>
         <li><em>Fluor Corp. v. Superior Court</em>, 61 Cal.4th 1175 (2015)</li>
