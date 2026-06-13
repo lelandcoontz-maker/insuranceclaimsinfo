@@ -57,13 +57,13 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Not All Checks Should Have the Lender&apos;s Name">
         <p>
-          Personal property checks (personal property) and Additional Living Expense checks (Coverage D /
-          ALE) should <strong>not</strong> have the mortgage company&apos;s name on them. The lender
-          has no interest in your furniture, clothing, or hotel bills. If your insurer puts the
-          lender&apos;s name on a contents or ALE check, contact the insurer immediately and request
-          reissuance with only your name. This is a common error &mdash; and an important one,
-          because those personal property funds can be a lifeline while the mortgage company holds
-          your dwelling money (more on that below).
+          Personal Property checks and Loss of Use (ALE) checks should <strong>not</strong> have the
+          mortgage company&apos;s name on them. The lender has no interest in your furniture,
+          clothing, or hotel bills. If your insurer puts the lender&apos;s name on a personal
+          property or ALE check, contact the insurer immediately and request reissuance with only
+          your name. This is a common error &mdash; and an important one, because those personal
+          property funds can be a lifeline while the mortgage company holds your dwelling money
+          (more on that below).
         </p>
       </CalloutBox>
 
@@ -643,9 +643,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> Contact your insurer and request reissuance. The lender has no
         insurable interest in your personal property or living expenses. If the insurer pushes back,
-        cite the specific coverage (Coverage C or Coverage D) and point out that the lender is named
-        as mortgagee on the dwelling, not on contents or ALE. For more on what the mortgage
-        company is and is not entitled to, see our article on{' '}
+        cite the specific coverage (Personal Property or Loss of Use) and point out that the lender
+        is named as mortgagee on the dwelling, not on personal property or ALE. For more on what
+        the mortgage company is and is not entitled to, see our article on{' '}
         <Link
           href="/resources/mortgage-company-public-adjuster"
           className="text-blue-700 underline"
