@@ -49,17 +49,22 @@ export default function Content() {
         Why Rain Through a Neglected Roof Is Not Covered
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard ISO commercial property form (CP 00 10) and the Business Owners Policy
-        (BOP) both exclude damage caused by rain, snow, sleet, ice, or dust &mdash; but only
-        when these elements enter the building through an opening that was not caused by a
-        covered peril. The typical exclusion language reads something like:
+        Commercial property policies built on the ISO Building and Personal Property Coverage
+        Form (CP 00 10) work in combination with a Causes of Loss form &mdash; usually the
+        Special Form (CP 10 30) on broad commercial policies, or analogous language built into
+        a Business Owners Policy (BOP). The Causes of Loss form contains a limitation that
+        excludes damage caused by rain, snow, sleet, ice, sand, or dust &mdash; but only when
+        these elements enter the building through an opening that was not first created by a
+        covered peril. The standard ISO Special Form limitation reads substantially as follows:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;We will not pay for loss or damage caused by or resulting from rain, snow,
-        sleet, ice, sand or dust, whether driven by wind or not, to the interior of any
-        building or structure, or to personal property inside the building or structure,
-        unless the building or structure first sustains damage by a Covered Cause of Loss
-        to its roof or walls through which the rain, snow, sleet, ice, sand or dust enters.&rdquo;
+        &ldquo;We will not pay for loss of or damage to the interior of any building or
+        structure, or to personal property in the building or structure, caused by or resulting
+        from rain, snow, sleet, ice, sand or dust, whether driven by wind or not, unless: (a)
+        the building or structure first sustains damage by a Covered Cause of Loss to its roof
+        or walls through which the rain, snow, sleet, ice, sand or dust enters; or (b) the loss
+        or damage is caused by or results from thawing of snow, sleet or ice on the building or
+        structure.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         Read that carefully. Rain damage to your interior property is covered &mdash; but
@@ -313,11 +318,17 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When rain damages a tenant&rsquo;s property because the landlord failed to maintain
         the roof, the tenant may have a negligence claim against the landlord. This is
-        separate from the insurance coverage question. The landlord has a duty &mdash; both
-        under the lease and under California Civil Code &sect; 1941 &mdash; to maintain the
-        property in a habitable and tenantable condition. A leaking roof that damages a
-        commercial tenant&rsquo;s property may give rise to a claim for breach of the lease,
-        negligence, or both.
+        separate from the insurance coverage question. Unlike residential tenancies &mdash;
+        which carry a statutory implied warranty of habitability under Civil Code &sect;&sect;
+        1941&ndash;1942.4 &mdash; commercial leases in California are governed primarily by
+        the lease terms themselves plus background common-law duties. The landlord&rsquo;s
+        maintenance and repair obligations on a commercial roof typically come from the lease
+        (e.g., a NNN, gross, or modified gross structure), from any express covenant to
+        repair, and from common-law negligence principles when the landlord retains control
+        of the roof. A leaking roof that damages a commercial tenant&rsquo;s property may
+        give rise to a claim for breach of the lease, negligence, or both &mdash; but the
+        analysis runs through the lease and common law, not through the residential
+        habitability statute.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The landlord&rsquo;s <strong>commercial general liability (CGL) policy</strong> may
