@@ -137,34 +137,57 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The ISO HO-3 Vacancy Conditions and the 60-Day Rule
+        Which Form Are You On? The Vacancy Rules Differ Sharply
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard ISO HO-3 homeowner&rsquo;s policy &mdash; the most widely sold form in the
-        United States &mdash; contains a vacancy provision that suspends or reduces coverage when
-        the dwelling has been &ldquo;vacant&rdquo; for more than 60 consecutive days before a
-        loss. The specific consequences are:
+        The vacancy clause does not look the same across the three forms a snowbird is most
+        likely to be on. Mixing them up is the most common error in popular insurance writing
+        about seasonal occupancy.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>ISO HO 00 03 (standard homeowners) &mdash; narrow vacancy.</strong> The
+        unendorsed HO 00 03 form contains a 60-day vacancy exclusion that reaches only two
+        perils under Section I &mdash; Perils Insured Against:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Complete exclusion</strong> of coverage for vandalism, malicious mischief,
-          building glass breakage, water damage (including burst pipes and leaking appliances),
-          and theft.
-        </li>
-        <li>
-          <strong>15 percent reduction</strong> in the amount payable for all other covered
-          perils, including fire from natural causes and windstorm.
-        </li>
+        <li>Vandalism and malicious mischief</li>
+        <li>Certain glass breakage</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Note what the vacancy clause does <em>not</em> do: it does not eliminate all coverage.
-        It eliminates coverage for specific perils and reduces it for others. A fire caused by
-        lightning at a vacant home is still a covered loss &mdash; just reduced by 15 percent.
-        Policyholders and adjusters sometimes treat the vacancy clause as a blanket exclusion,
-        but that misreads the standard policy form.
+        That is the entire vacancy-exclusion list on an unendorsed HO 00 03. Water damage,
+        theft, and freezing of plumbing are <em>not</em> on the homeowners form&rsquo;s vacancy
+        list, and there is no 15 percent reduction in the homeowners form. A separate Neglect
+        exclusion and the &ldquo;residence premises&rdquo; / &ldquo;where you reside&rdquo;
+        condition do more of the work on vacant homeowner properties than the vacancy clause
+        itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Some policies use a 30-day threshold instead of 60 days, and non-standard policy forms
+        <strong>ISO DP 00 03 (dwelling fire) &mdash; broader vacancy.</strong> The DP-3 is the
+        form many seasonal and rental properties end up on. Its vacancy provision is broader
+        than the HO 00 03 list. Snowbirds who switch to a DP-3 to solve the
+        &ldquo;residence&rdquo; problem (discussed below) trade a residency requirement for a
+        broader vacancy clause &mdash; not a perfect substitute.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>ISO CP 00 10 (commercial property) &mdash; broadest vacancy.</strong> The
+        commercial form is the source of the structure that consumer-side articles routinely
+        attribute to homeowners: a 60-day trigger, a multi-peril exclusion list that includes
+        vandalism, sprinkler leakage, building glass breakage, water damage, and theft or
+        attempted theft, and a 15 percent reduction on remaining covered losses. That structure
+        belongs to commercial property risks. It is not the standard ISO HO 00 03 vacancy clause,
+        and a snowbird&rsquo;s homeowner policy does not contain it absent a manuscript endorsement
+        that says so.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Carrier-manuscript endorsements.</strong> Some carriers bolt manuscript vacancy
+        endorsements onto homeowner policies &mdash; especially on second-home and
+        seasonal-property risks &mdash; that broaden the HO 00 03 vacancy provisions. The
+        endorsement controls. The only reliable way to know which vacancy clause applies to a
+        snowbird&rsquo;s policy is to read the declarations page and every endorsement attached
+        to it.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Some policies use a 30-day threshold instead of 60 days, and non-standard forms
         &mdash; particularly{' '}
         <Link href="/resources/california-fair-plan" className="text-[#2E74B5] hover:underline">
           FAIR Plan policies
@@ -186,12 +209,13 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Courts have been remarkably consistent on this point. In <em>Langill v. Vermont Mutual
-        Insurance Co.</em>, 268 F.3d 46 (1st Cir. 2001), the First Circuit noted that the
-        &ldquo;sparse inventory of chairs, mattress, and step ladder did not advance the
-        approximation to an inhabited abode.&rdquo; But a fully furnished vacation home is the
-        polar opposite of the <em>Langill</em> scenario. A seasonal home with complete household
-        furnishings throughout is precisely the kind of property that courts classify as
-        unoccupied rather than vacant.
+        Insurance Co.</em>, 268 F.3d 46 (1st Cir. 2001), the First Circuit found a rental
+        property &ldquo;vacant&rdquo; where the only contents were a renovating worker&rsquo;s
+        tools, a step ladder, two chairs, a mattress, and an ashtray &mdash; reasoning that the
+        sparse inventory did not approximate an inhabited dwelling. But a fully furnished
+        vacation home is the polar opposite of the <em>Langill</em> scenario. A seasonal home
+        with complete household furnishings throughout is precisely the kind of property that
+        courts classify as unoccupied rather than vacant.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -223,16 +247,20 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The strongest argument available to snowbirds is that a person can &ldquo;reside&rdquo;
-        at more than one location. Multiple courts have endorsed this principle. In{' '}
-        <em>Craft v. New York Central Mutual Fire Insurance Co.</em>, 164 A.D.3d 1120 (N.Y.
-        App. Div. 3d Dep&rsquo;t 2018), the court held that the term &ldquo;reside&rdquo; was
-        not defined in the policy and that an insured <strong>may have more than one
-        &ldquo;residence&rdquo; for insurance purposes</strong>, with the property at issue
-        still qualifying as a residence even if not the exclusive or primary home. The
-        Illinois Court of Appeals reached a similar conclusion in <em>Lundquist v. Allstate
-        Insurance Co.</em>, 314 Ill. App. 3d 240 (2000), one of the leading
-        residence-premises cases. The principle is broadly recognized in the case law on
-        residence-premises language for homeowner policies.
+        at more than one location. In <em>Craft v. New York Central Mutual Fire Insurance
+        Co.</em>, 164 A.D.3d 1120 (N.Y. App. Div. 3d Dep&rsquo;t 2018), the court held that
+        &ldquo;reside&rdquo; was not defined in the policy and that an insured <strong>may have
+        more than one &ldquo;residence&rdquo; for insurance purposes</strong>, with the property
+        at issue still qualifying as a residence even if not the exclusive or primary home.
+        Snowbirds should be aware that the case law cuts both ways. The Illinois Appellate
+        Court in <em>Lundquist v. Allstate Insurance Co.</em>, 314 Ill. App. 3d 240 (2000),
+        denied coverage where the insureds had moved out of the insured property and no longer
+        lived there at the time of the loss &mdash; treating residency as requiring physical
+        presence plus intent to remain. <em>Lundquist</em> is helpful authority for an insurer
+        who can show the insured had relocated, but it is distinguishable from a snowbird who
+        maintains a furnished home and returns to it seasonally. The fact-intensive nature of
+        the residency inquiry is itself a reason to develop and document the snowbird&rsquo;s
+        continuing ties to the property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For snowbirds, this principle is directly applicable. You reside in Minneapolis in the
@@ -357,10 +385,13 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Vacancy exclusion:</strong> The insurer argues the home was &ldquo;vacant&rdquo;
-          for more than 60 days, and water damage is one of the specifically excluded perils during
-          vacancy. If the home was truly vacant (stripped of contents), this argument has teeth. If
-          the home was merely unoccupied (furnished and maintained), the vacancy clause should not
-          apply.
+          for more than 60 days. Whether this matters for a water-damage loss depends on the form.
+          On an unendorsed ISO HO 00 03, water damage is <em>not</em> on the vacancy-exclusion
+          list at all &mdash; the vacancy clause does not reach a burst-pipe loss on the standard
+          homeowners form. On a DP-3 dwelling fire policy, a CP 00 10 commercial form, or an HO-3
+          with a manuscript vacancy endorsement that names water damage, the analysis is
+          different. Either way, if the home was merely unoccupied (furnished and maintained), the
+          vacancy clause should not apply at all because the home was not &ldquo;vacant.&rdquo;
         </li>
         <li>
           <strong>Failure to maintain heat:</strong> Many policies contain a provision requiring the
@@ -684,22 +715,22 @@ export default function Content() {
           in one state but covers property in another.
         </li>
         <li>
-          <strong>Personal property coverage at the other home:</strong> Your California
-          HO-3 policy may provide some coverage for personal property &ldquo;anywhere in the
-          world,&rdquo; but this coverage is typically limited to 10 percent of the personal property limit
-          limit. If you keep $100,000 worth of personal property at your Arizona home, and your
-          California policy has a $200,000 personal property limit, you may have only $20,000 of coverage
-          for that Arizona personal property under the California policy. The Arizona DP-3 may
-          provide its own personal property coverage, but you need to verify this.
+          <strong>Personal property coverage at the other home:</strong> Your California HO-3
+          policy may provide some coverage for personal property &ldquo;anywhere in the
+          world,&rdquo; but this coverage is typically limited to 10 percent of the personal
+          property limit. If you keep $100,000 worth of personal property at your Arizona home
+          and your California policy has a $200,000 personal property limit, you may have only
+          $20,000 of coverage for that Arizona personal property under the California policy. The
+          Arizona DP-3 may provide its own personal property coverage, but you need to verify this.
         </li>
         <li>
           <strong>Liability coverage:</strong> Your California HO-3&rsquo;s personal liability
-          personal liability coverage generally follows you and applies regardless of where the
-          incident occurs. If someone is injured at your Arizona home, your California
-          policy&rsquo;s liability coverage may respond. But if you have a DP-3 on the Arizona
-          home instead of an HO-3, the Arizona policy does not include liability coverage, and
-          you are relying entirely on the California policy&rsquo;s coverage &mdash; or on an
-          umbrella policy &mdash; for liability at the Arizona location.
+          coverage generally follows you and applies regardless of where the incident occurs. If
+          someone is injured at your Arizona home, your California policy&rsquo;s liability
+          coverage may respond. But if you have a DP-3 on the Arizona home instead of an HO-3,
+          the Arizona policy does not include liability coverage, and you are relying entirely
+          on the California policy&rsquo;s coverage &mdash; or on an umbrella policy &mdash; for
+          liability at the Arizona location.
         </li>
         <li>
           <strong>Domicile for regulatory purposes:</strong> Your legal domicile &mdash; the state
@@ -773,11 +804,12 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         New York has been more favorable to policyholders. In <em>Dean v. Tower Insurance Co.
-        of New York</em>, 19 N.Y.3d 1 (N.Y. 2012), the Court of Appeals held that
+        of New York</em>, 19 N.Y.3d 704 (N.Y. 2012), the Court of Appeals held that
         &ldquo;reside&rdquo; was ambiguous where not defined in the policy. In <em>Craft v.
-        New York Central Mutual Fire Insurance Co.</em> (N.Y. App. Div. 3d Dep&rsquo;t, 2017),
-        the court affirmed that a person can have more than one residence. Snowbirds with
-        properties in New York have stronger precedent to rely on if coverage is disputed.
+        New York Central Mutual Fire Insurance Co.</em>, 164 A.D.3d 1120 (N.Y. App. Div. 3d
+        Dep&rsquo;t 2018), the court treated &ldquo;reside&rdquo; as a fact-intensive concept
+        that can encompass more than one residence. Snowbirds with properties in New York have
+        stronger precedent to rely on if coverage is disputed.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -798,21 +830,32 @@ export default function Content() {
       </h2>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Durkheimer v. Safeco (D. Or. 2025)
+        Durkheimer v. Safeco Ins. Co. of Illinois (D. Or. 2025)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the most directly relevant recent case for snowbirds. The Durkheimers owned homes
-        in Portland, on the Oregon coast, and in Carmel, California &mdash; all insured by Safeco.
-        During the January 2024 freeze, their Portland home suffered hundreds of thousands of
-        dollars in water damage from burst pipes. Safeco raised the &ldquo;where you
-        reside&rdquo; defense, arguing the Durkheimers did not reside at the Portland home.
+        This is the most directly relevant recent decision for snowbirds. <em>Durkheimer v.
+        Safeco Ins. Co. of Illinois</em>, No. 3:24-cv-1333-SB (D. Or. 2025). The Durkheimers
+        owned homes in Portland, on the Oregon coast, and in Carmel, California, all insured by
+        Safeco. During the January 2024 freeze, their Portland home suffered hundreds of
+        thousands of dollars in water damage from burst pipes. Safeco partially paid and then,
+        in its sixth affirmative defense, asserted that the policy limited dwelling coverage to
+        the &ldquo;residence premises&rdquo; and that to the extent the Durkheimers did not
+        reside at the Portland home when the loss occurred, the policy did not cover the loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Magistrate Judge Stacie Beckerman recommended striking Safeco&rsquo;s affirmative defense,
-        finding the &ldquo;residence premises&rdquo; language was <strong>intended to identify the
-        property, not to create a coverage condition</strong>. Judge Michael Simon adopted the
-        recommendation and struck the defense as insufficient as a matter of law. This case is a
-        powerful precedent for any snowbird with multiple properties insured by the same carrier.
+        The Durkheimers moved under Rule 12(f) to strike the affirmative defense as insufficient
+        as a matter of Oregon law. In a Findings and Recommendation dated February 14, 2025,
+        Magistrate Judge Stacie Beckerman concluded that the policy&rsquo;s definition of
+        &ldquo;residence premises&rdquo; was <strong>ambiguous</strong>, and that under Oregon
+        law a homeowner &ldquo;is entitled to be given specific and unequivocal notice in the
+        insurance policy that his coverage will be forfeited&rdquo; if he does not reside at the
+        home. The policy&rsquo;s definitional language did not provide that explicit and
+        unambiguous notice. On April 1, 2025, District Judge Michael H. Simon adopted the
+        Findings and Recommendation and granted the motion to strike, agreeing the policy was
+        ambiguous and did not put the Durkheimers on notice that coverage would be forfeited if
+        they did not reside at the property. The decision is a powerful authority for snowbirds
+        with multiple homes whose carrier tries to convert a residence-premises definition into
+        a backdoor coverage exclusion.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -933,8 +976,8 @@ export default function Content() {
         If you are leaving a home in a cold climate, you must either maintain heat at a level
         sufficient to prevent pipe freezing (at least 55&deg;F, preferably 65&deg;F) or have
         the plumbing system professionally drained. Do one or the other &mdash; but do not do
-        neither. Document what you did: keep the thermostat setting photograph, the plumber&rsquo;s
-        invoice, or the winterization records.
+        neither. Document what you did: a thermostat-setting photograph, the plumber&rsquo;s
+        invoice, or winterization records.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -1035,18 +1078,20 @@ export default function Content() {
         </li>
         <li>
           <strong>You reside at more than one home.</strong> A person can have multiple
-          residences for insurance purposes. Your seasonal home is one of them. Cite{' '}
-          <em>Craft v. New York Central Mutual</em> (164 A.D.3d 1120 (3d Dep&rsquo;t 2018)),{' '}
-          <em>Lundquist v. Allstate</em> (314 Ill. App. 3d 240 (2000)), <em>Dean v. Tower</em>{' '}
-          (19 N.Y.3d 704 (2012)), and <em>Durkheimer v. Safeco</em> (D. Or. 2025) for the
-          principle that a property need not be the insured&rsquo;s sole or primary residence
-          to qualify as a &ldquo;residence premises.&rdquo;
+          residences for insurance purposes. Your seasonal home is one of them. <em>Craft v.
+          New York Central Mutual</em>, 164 A.D.3d 1120 (3d Dep&rsquo;t 2018), and <em>Dean v.
+          Tower</em>, 19 N.Y.3d 704 (2012), support the principle that a property need not be
+          the insured&rsquo;s sole or primary residence to qualify as a &ldquo;residence
+          premises.&rdquo; Be cautious citing decisions like <em>Lundquist v. Allstate</em>,
+          314 Ill. App. 3d 240 (2000) &mdash; that case denied coverage where the insureds had
+          moved out and is helpful to the insurer, not the snowbird who returns seasonally to a
+          furnished home.
         </li>
         <li>
           <strong>&ldquo;Reside&rdquo; is ambiguous.</strong> The policy does not define
           &ldquo;reside,&rdquo; creating ambiguity that must be construed against the insurer
-          under <em>contra proferentem</em>. <em>Dean v. Tower</em> and <em>Lundquist v.
-          Allstate</em> are the leading authorities on this point.
+          under <em>contra proferentem</em>. <em>Dean v. Tower</em>, 19 N.Y.3d 704 (2012), is
+          a leading authority on this point in the residence-premises context.
         </li>
         <li>
           <strong>HO 06 48 locks in coverage.</strong> If you were at the property on the
@@ -1155,15 +1200,15 @@ export default function Content() {
         warning from their insurer or their agent.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The law is catching up. The <em>Durkheimer</em> decision in Oregon and the New York
-        line of cases (<em>Dean v. Tower</em>, <em>Craft</em>) recognize that a person can
-        reside at more than one home and that the &ldquo;where you reside&rdquo; language
-        should not be weaponized against seasonal occupants. ISO&rsquo;s
-        HO 06 48 and HO 06 49 endorsements represent the industry&rsquo;s acknowledgment that
-        the problem exists. But until the standard policy form is rewritten &mdash; or until
-        state legislatures mandate clearer disclosure &mdash; the burden falls on the
-        policyholder to understand the risks and take affirmative steps to protect their
-        coverage.
+        The law is catching up. The New York line of cases (<em>Dean v. Tower</em>,{' '}
+        <em>Craft</em>) recognizes that a person can reside at more than one home and that
+        &ldquo;reside&rdquo; in the residence-premises definition is ambiguous. The <em>Durkheimer</em>{' '}
+        decision in Oregon refuses to let a carrier convert a definition into a backdoor
+        forfeiture without specific and unequivocal notice in the policy. ISO&rsquo;s HO 06 48
+        and HO 06 49 endorsements represent the industry&rsquo;s acknowledgment that the problem
+        exists. But until the standard policy form is rewritten &mdash; or until state
+        legislatures mandate clearer disclosure &mdash; the burden falls on the policyholder to
+        understand the risks and take affirmative steps to protect their coverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The good news is that those steps work. Disclose your seasonal occupancy. Verify your
