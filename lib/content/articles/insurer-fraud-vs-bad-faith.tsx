@@ -608,9 +608,6 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-sm text-gray-500 mt-8 italic">
-        Written by Leland Coontz, California Licensed Public Adjuster
-      </p>
-      <p className="text-sm text-gray-500 mt-4 italic">
         Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
     </>
