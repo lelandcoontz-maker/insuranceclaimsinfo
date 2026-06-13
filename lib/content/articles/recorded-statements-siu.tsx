@@ -206,7 +206,16 @@ export default function Content() {
         SIU investigations vary in duration depending on the complexity of the claim. A straightforward investigation involving a recorded statement and a background check may be completed in two to four weeks. A complex investigation involving multiple statements, surveillance, financial record reviews, expert consultations, and document analysis can extend for several months.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.7) require insurers to accept or deny a claim within 40 calendar days after receiving proof of loss. If additional time is needed, the insurer must notify the policyholder in writing every 30 days, explaining the reasons for the delay and the additional information needed. SIU investigations do not exempt the insurer from these timeline requirements. An insurer that uses an SIU investigation to indefinitely delay claim resolution without providing required status updates is in violation of the regulations and may be subject to a complaint with the California Department of Insurance.
+        California&rsquo;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.7(b))
+        require insurers to accept or deny a claim within 40 calendar days after receiving
+        proof of claim (the term defined at 10 CCR &sect; 2695.2(s), which is distinct from the
+        sworn proof of loss under Insurance Code &sect; 2071). If additional time is needed, the
+        insurer must notify the policyholder in writing every 30 days, explaining the reasons
+        for the delay and the additional information needed. SIU investigations do not exempt
+        the insurer from these timeline requirements. An insurer that uses an SIU investigation
+        to indefinitely delay claim resolution without providing required status updates is in
+        violation of the regulations and may be subject to a complaint with the California
+        Department of Insurance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a deeper discussion of these regulatory timelines, see our article on{' '}
