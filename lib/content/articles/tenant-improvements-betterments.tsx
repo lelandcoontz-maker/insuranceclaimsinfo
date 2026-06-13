@@ -425,42 +425,43 @@ export default function Content() {
         How the NFIP Handles Improvements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under an NFIP policy, building property coverage (Coverage A for residential, the
-        building coverage for commercial) can include improvements and betterments that a
-        tenant has made to the building. Specifically, the NFIP Standard Flood Insurance
-        Policy defines covered building property to include &ldquo;alterations, fixtures,
-        and improvements that are a part of the insured building&rdquo; &mdash; and this
-        applies whether the policyholder is an owner or a tenant.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        For residential tenants, improvements and betterments to the unit (such as installed
-        flooring, built-in bookcases, or upgraded kitchen installations) may be covered under
-        the building coverage portion of the policy. However, there are limits specific to
-        tenant-occupied properties.
+        Under an NFIP policy, the building owner&apos;s building coverage can include
+        improvements and betterments that have become part of the insured building. However,
+        the NFIP treats residential and non-residential (commercial) tenant improvements very
+        differently &mdash; and the rules are narrower than many policyholders expect.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Coverage Limits for Tenant Improvements Under NFIP
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The NFIP imposes different maximum coverage amounts depending on occupancy:
+        The NFIP&rsquo;s framework for tenants and unit owners breaks down as follows:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Residential condominium unit owners:</strong> Up to $250,000 in building
-          coverage (which includes additions and alterations within the unit) under the
-          Residential Condominium Building Association Policy (RCBAP) or individual unit
-          owner policies.
+          coverage under the NFIP Dwelling Form, which includes coverage for additions and
+          alterations within the unit. The Residential Condominium Building Association Policy
+          (RCBAP) provides separate master-policy coverage to the association for the building.
         </li>
         <li>
-          <strong>Residential tenants:</strong> A residential tenant can purchase up to $100,000
-          in building coverage for improvements and betterments to their unit. This is separate
-          from the $100,000 maximum in contents coverage.
+          <strong>Residential tenants:</strong> A residential renter generally cannot purchase
+          NFIP <em>building</em> coverage on a property they do not own &mdash; that coverage is
+          for the building owner. Renters typically purchase only NFIP contents/personal
+          property coverage, up to $100,000 under the Dwelling Form. Tenant-installed
+          improvements that have become part of the building are usually not separately covered
+          under a renter&apos;s NFIP policy; they may be covered (or not) as part of the
+          building owner&apos;s NFIP policy depending on policy terms and ownership of the
+          improvements under the lease.
         </li>
         <li>
-          <strong>Commercial tenants:</strong> A non-residential tenant can purchase up to
-          $500,000 in building coverage for improvements and betterments to the commercial
-          space, separate from the $500,000 maximum for contents (business personal property).
+          <strong>Commercial (non-residential) tenants:</strong> Under the NFIP General Property
+          Form, a non-residential tenant can purchase contents coverage (up to $500,000 for
+          business personal property), and FEMA&rsquo;s guidance allows tenant improvements
+          and betterments to be insured as an extension typically capped at <strong>10% of
+          contents coverage</strong>. This is materially narrower than the $500,000 standalone
+          building-coverage figure sometimes assumed. The building owner&apos;s NFIP policy
+          remains the primary source of NFIP building coverage on the structure itself.
         </li>
       </ul>
 
@@ -479,19 +480,20 @@ export default function Content() {
         NFIP Valuation of Improvements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The NFIP values all building property &mdash; including tenant improvements &mdash; at
-        <strong> Replacement Cost Value (RCV)</strong> for single-family dwellings that are the
-        insured&apos;s principal residence. For all other buildings (including commercial
-        properties and non-primary residences), the valuation is <strong>Actual Cash Value
-        (ACV)</strong>, which means replacement cost minus depreciation.
+        The NFIP values building property at <strong>Replacement Cost Value (RCV)</strong> only
+        for single-family dwellings that are the insured&apos;s principal residence. For all
+        other buildings (including commercial properties and non-primary residences), the
+        valuation is <strong>Actual Cash Value (ACV)</strong>, which means replacement cost
+        minus depreciation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is important: a commercial tenant&apos;s flood-damaged improvements will be valued
-        at ACV under the NFIP, with depreciation applied. A commercial tenant who installed a
-        $200,000 buildout five years ago will not receive the full replacement cost from NFIP
-        &mdash; they will receive the depreciated value. This is different from the commercial
-        property policy&apos;s &ldquo;actual cost of repair&rdquo; valuation when the tenant
-        actually makes the repairs.
+        This is important: a commercial tenant&apos;s flood-damaged improvements covered under
+        the General Property Form will be valued at ACV under the NFIP, with depreciation
+        applied. A commercial tenant who installed a $200,000 buildout five years ago will not
+        receive the full replacement cost from NFIP &mdash; they will receive the depreciated
+        value, and only up to the 10%-of-contents sublimit described above. This is materially
+        different from the commercial property policy&apos;s &ldquo;actual cost of repair&rdquo;
+        valuation when the tenant actually makes the repairs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For more detail on NFIP policies and how they interact with private flood coverage,
@@ -928,9 +930,9 @@ export default function Content() {
             </tr>
             <tr>
               <td className="border border-gray-300 p-3">NFIP (Flood)</td>
-              <td className="border border-gray-300 p-3">Building Coverage (improvements)</td>
+              <td className="border border-gray-300 p-3">General Property Form &mdash; improvements sublimit</td>
               <td className="border border-gray-300 p-3">RCV for owner-occupied primary; ACV otherwise</td>
-              <td className="border border-gray-300 p-3">Separate limits for tenants; often overlooked</td>
+              <td className="border border-gray-300 p-3">Commercial tenant improvements typically capped at 10% of contents; residential renters cannot buy NFIP building coverage on a unit they do not own</td>
             </tr>
             <tr className="bg-gray-50">
               <td className="border border-gray-300 p-3">HO-4 (Renters)</td>
