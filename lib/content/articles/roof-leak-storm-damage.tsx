@@ -149,12 +149,17 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Anti-Concurrent Causation Clauses">
         <p>
-          Some policies contain &ldquo;anti-concurrent causation&rdquo; (ACC) language attempting to
-          override EPC. These clauses say that if an excluded cause contributes to the loss in any
-          way, the loss is excluded — even if a covered cause also contributed. California courts
-          have not fully resolved whether ACC clauses can override the EPC doctrine established in
-          Garvey, and the enforceability of these clauses remains disputed. If your insurer cites an
-          ACC clause, consult an attorney — this is a live legal issue.
+          Some policies contain &ldquo;anti-concurrent causation&rdquo; (ACC) language attempting
+          to override EPC. These clauses say that if an excluded cause contributes to the loss in
+          any way, the loss is excluded &mdash; even if a covered cause also contributed. Under{' '}
+          <em>Howell v. State Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446 and
+          Insurance Code &sect; 530, ACC language cannot be used to expand exclusions beyond
+          what the efficient proximate cause analysis allows in California. The California
+          Supreme Court restated the general rule in <em>Julian</em>, although on the facts of
+          that case it enforced the carrier&rsquo;s exclusion. If your insurer cites an ACC
+          clause to deny a roof claim where wind or another covered peril is the efficient
+          proximate cause, consult an attorney &mdash; the doctrine is well-developed in
+          California and favors the policyholder.
         </p>
       </CalloutBox>
 
