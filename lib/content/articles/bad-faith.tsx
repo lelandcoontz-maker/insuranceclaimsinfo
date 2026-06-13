@@ -168,10 +168,10 @@ export default function Content() {
           no bad faith, regardless of how many procedural rules were broken. Bad faith is about
           unreasonable conduct in handling a claim the insurer owed in the first place. The leading
           California authorities are <em>Waller v. Truck Insurance Exchange</em> (1995) 11 Cal.4th
-          1 and <em>Jordan v. Allstate Insurance Co.</em> (2007) 148 Cal.App.4th 1062. As the
-          Court of Appeal put it in <em>McMillin Scripps North Partnership v. Royal Ins. Co.</em>
-          (1993) 19 Cal.App.4th 1215, &ldquo;a bad faith claim based on failure to investigate
-          cannot be maintained unless there is coverage.&rdquo;
+          1, <em>Jordan v. Allstate Insurance Co.</em> (2007) 148 Cal.App.4th 1062, and{' '}
+          <em>McMillin Scripps North Partnership v. Royal Ins. Co.</em> (1993) 19 Cal.App.4th
+          1215, all holding that a first-party bad faith claim premised on inadequate
+          investigation cannot stand where the underlying loss was not covered in the first place.
         </p>
         <p className="mb-2">
           <strong>2. Bad faith can exist even without any regulatory or statutory violation.</strong>
