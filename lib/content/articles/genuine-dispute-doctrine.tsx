@@ -130,51 +130,47 @@ export default function Content() {
         resolution on summary judgment:
       </p>
 
-      <CalloutBox variant="legal" title="Chateau Chamberay — Examples of Conduct That Defeats the Genuine Dispute Defense (verbatim)">
+      <CalloutBox variant="legal" title="Chateau Chamberay — Examples of Conduct That Can Defeat the Genuine Dispute Defense (verbatim)">
         <p className="italic">
-          Of course, an insurer is not entitled to judgment as a matter of law where, viewing the
-          facts in the light most favorable to the insured, a jury could conclude that the insurer
-          acted unreasonably. For example, a jury could conclude an insurer acted unreasonably if
-          it: (1) misrepresented the nature of the investigatory proceedings; (2) misrepresented
-          the insured&rsquo;s statements; (3) selectively relied on facts that supported denial of
-          the claim; (4) ignored the insured&rsquo;s evidence; or (5) conducted a biased
-          investigation.
+          On the other hand, an insurer is not entitled to judgment as a matter of law where,
+          viewing the facts in the light most favorable to the plaintiff, a jury could conclude
+          that the insurer acted unreasonably. For example, a jury could conclude that an insurer
+          acted unreasonably if it failed to conduct a thorough investigation, or if it: (1)
+          misrepresented the nature of investigatory proceedings; (2) misrepresented the
+          insured&rsquo;s statements; (3) relied on an incomplete investigation; or (4)
+          unreasonably failed to consider the insured&rsquo;s evidence.
         </p>
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Immediately after that list, the court added a footnote that has become one of the most
-        important sentences in California insurance bad-faith law:
+        important passages in California insurance bad-faith law &mdash; cautioning that the
+        examples it gave were not exhaustive and that an insurer cannot escape bad-faith liability
+        simply by relying on an expert whose opinion is not reasonable, is not based on a full or
+        fair investigation, or is otherwise not fairly arrived at. The widely circulating
+        &ldquo;manufacturing a genuine dispute&rdquo; phrasing does not appear in the opinion
+        itself; it is a later commentator&rsquo;s shorthand for the court&rsquo;s reasoning.
       </p>
-
-      <CalloutBox variant="legal" title="Chateau Chamberay — The Expert-Manufacture Exception (verbatim)">
-        <p className="italic">
-          This list is certainly not intended to be exhaustive of the circumstances that may
-          justify submission to a jury of an insurer&rsquo;s &ldquo;genuine dispute&rdquo;
-          defense to a claim of bad faith. Nor, we must also add, may an insurer insulate itself
-          from liability for bad faith conduct by the simple expedient of hiring an expert for
-          the purpose of manufacturing a &ldquo;genuine dispute.&rdquo;
-        </p>
-      </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
         These passages &mdash; combined with the court&rsquo;s acknowledgment that the list is
         non-exhaustive &mdash; form the framework that plaintiff attorneys use to attack the
         genuine dispute defense. Subsequent California cases and commentary have added other
-        categories of conduct that defeat the defense (failure to conduct a thorough
-        investigation, dishonest expert selection, employee dishonesty during depositions, and
-        expert opinions that are themselves unreasonable). Those additional categories are real,
-        but the practitioner should cite them to the cases that actually articulate them, not
-        attribute them to <em>Chateau Chamberay</em>&rsquo;s numbered list.
+        categories of conduct that defeat the defense (dishonest expert selection, employee
+        dishonesty during depositions, and expert opinions that are themselves unreasonable).
+        Those additional categories are real, but the practitioner should cite them to the cases
+        that actually articulate them, not attribute them to <em>Chateau Chamberay</em>&rsquo;s
+        list.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Importantly, <em>Chateau Chamberay</em> extended the doctrine beyond legal questions
         (disputes about what the policy means) to factual questions (disputes about the amount
-        of loss). The court stated: &ldquo;We see no reason why the genuine dispute doctrine
-        should be limited to legal issues.&rdquo; This expansion was significant because it
-        allowed insurers to invoke the doctrine on virtually any claim &mdash; not just those
-        involving genuinely ambiguous policy language, but also garden-variety disputes about how
-        much the damage cost to repair.
+        of loss). The court reasoned that the genuine dispute defense should not be limited to
+        legal-coverage disputes; reasonable factual disagreements supported by a fair
+        investigation can equally negate bad-faith liability. This expansion was significant
+        because it allowed insurers to invoke the doctrine on virtually any claim &mdash; not
+        just those involving genuinely ambiguous policy language, but also garden-variety
+        disputes about how much the damage cost to repair.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -421,11 +417,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         This is the most important limitation. An insurer cannot create a &ldquo;genuine dispute&rdquo;
         by failing to investigate the claim. In <em>Egan v. Mutual of Omaha Insurance Co.</em>{' '}
-        (1979) 24 Cal.3d 809 at 819, the California Supreme Court held that &ldquo;it is essential
-        that an insurer fully inquire into possible bases that might support the insured&rsquo;s
-        claim,&rdquo; and that &ldquo;an insurer cannot reasonably and in good faith deny payments
-        to its insured without thoroughly investigating the foundation for its denial.&rdquo; This
-        duty to investigate exists independently of the outcome on coverage &mdash; an inadequate
+        (1979) 24 Cal.3d 809, 819, the California Supreme Court held that the implied covenant
+        obligates the insurer to investigate the claim thoroughly and in good faith and that
+        &ldquo;[a]n insurer cannot reasonably and in good faith deny payments to its insured
+        without thoroughly investigating the foundation for its denial.&rdquo; This duty to
+        investigate exists independently of the outcome on coverage &mdash; an inadequate
         investigation can support bad-faith liability where the investigation failure caused the
         claim to be wrongly denied, delayed, or underpaid. The bad-faith claim still requires the
         insured to show causation and resulting harm from the inadequate investigation;
@@ -449,11 +445,11 @@ export default function Content() {
         2. The Insurer Manufactured the Dispute Through Biased Experts
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Chateau Chamberay</em> stated it plainly: an insurer cannot &ldquo;insulate itself from
-        liability for bad faith conduct by the simple expedient of hiring an expert for the purpose
-        of manufacturing a &lsquo;genuine dispute.&rsquo;&rdquo; When an insurer dishonestly
-        selects its experts, or when the expert&rsquo;s conclusions are unreasonable, the doctrine
-        does not apply.
+        <em>Chateau Chamberay</em>&rsquo;s footnote made the same point in substance: an insurer
+        cannot escape bad-faith liability by relying on an expert whose opinion is not reasonable,
+        is not based on a full or fair investigation, or is otherwise not fairly arrived at. When
+        an insurer dishonestly selects its experts, or when the expert&rsquo;s conclusions are
+        unreasonable, the doctrine does not apply.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Brehm v. 21st Century Ins. Co.</em> (2008) 166 Cal.App.4th 1225 addressed the
@@ -574,10 +570,11 @@ export default function Content() {
         based on <em>Chateau Chamberay</em>. The trial court refused, finding the genuine dispute
         concept was already subsumed within the reasonableness test of CACI 2331 (bad faith
         failure or delay in payment) and CACI 2332 (failure to properly investigate). The Court
-        of Appeal affirmed: &ldquo;the genuine dispute doctrine is subsumed within the test of
-        reasonableness or proper cause, and no specific instruction on the doctrine need be
-        given.&rdquo; After <em>McCoy</em>, it would be error for a trial court to give a separate
-        genuine dispute jury instruction.
+        of Appeal affirmed, treating the genuine dispute doctrine as a branch of the
+        reasonable/proper-cause test rather than a separate defense, and holding that a separate
+        jury instruction on the doctrine was unnecessary where the jury was properly instructed on
+        reasonableness. After <em>McCoy</em>, a separately worded genuine-dispute instruction is
+        generally not required.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For policyholders and their attorneys, this means the genuine dispute defense is
@@ -907,9 +904,12 @@ export default function Content() {
           </li>
           <li>
             <em>Chateau Chamberay Homeowners Ass&rsquo;n v. Associated International Insurance
-            Co.</em> (2001) 90 Cal.App.4th 335 &mdash; Court of Appeal. Extended the genuine dispute
-            doctrine to factual disputes and established five exceptions where the doctrine will not
-            protect the insurer.
+            Co.</em> (2001) 90 Cal.App.4th 335 &mdash; Court of Appeal. Extended the genuine
+            dispute doctrine to factual disputes and identified examples of conduct that can
+            defeat the defense (misrepresentation, reliance on an incomplete investigation,
+            unreasonable failure to consider evidence, failure to conduct a thorough
+            investigation, and reliance on an expert whose opinion is not reasonable or fairly
+            arrived at).
           </li>
           <li>
             <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809 &mdash; California
