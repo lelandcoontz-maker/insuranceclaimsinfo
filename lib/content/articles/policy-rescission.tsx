@@ -153,10 +153,15 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A related standard asks whether the concealed or misrepresented fact &ldquo;increased the
-        risk of loss.&rdquo; This is particularly relevant under Insurance Code Section 332, which
-        provides that materiality is determined by whether the information would have been relevant
-        to the insurer&rsquo;s assessment of risk. If the undisclosed fact did not actually increase
-        the risk the insurer was taking on, the argument for rescission is substantially weakened.
+        risk of loss.&rdquo; Insurance Code Section 332 establishes the duty to communicate facts
+        within a party&rsquo;s knowledge that are material to the contract, while Insurance Code
+        Section 334 supplies the materiality test itself: &ldquo;Materiality is to be determined
+        not by the event, but solely by the probable and reasonable influence of the facts upon
+        the party to whom the communication is due, in forming his estimate of the disadvantages
+        of the proposed contract, or in making his inquiries.&rdquo; Read together, these
+        provisions ask whether the undisclosed fact actually increased the risk the insurer was
+        taking on at policy formation. If it did not, the argument for rescission is
+        substantially weakened.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For example, if a policyholder failed to disclose that the property had a previous water
@@ -186,11 +191,10 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Fire Policy vs. General Rescission Standards">
         <p>
-          For fire insurance policies under IC 2071, the insurer must prove <strong>intentional</strong>{' '}
-          misrepresentation or concealment. For other types of policies under the general rescission
-          provisions (IC 331, 359), even innocent misrepresentations can support rescission if
-          material. This distinction can be the difference between keeping and losing coverage after
-          a wildfire claim.
+          On its terms, IC 2071&rsquo;s &ldquo;willfully&rdquo; clause requires the insurer to
+          prove <strong>intentional</strong> misrepresentation or concealment for a fire policy.
+          For other types of policies, the general rescission provisions (IC 331, 359) allow
+          rescission even for innocent misrepresentations if material.
         </p>
       </CalloutBox>
 
@@ -201,6 +205,27 @@ export default function Content() {
         rescission based on innocent mistakes in applications would leave homeowners exposed to
         catastrophic, uninsured losses through no intentional fault of their own.
       </p>
+
+      <CalloutBox variant="warning" title="IC 2071 Is Not an Absolute Shield: The Mitchell Caveat">
+        <p>
+          California courts have not treated &sect; 2071 as the exclusive remedy on fire policies.
+          In <em>Mitchell v. United Nat&rsquo;l Ins. Co.</em> (2005) 127 Cal.App.4th 457, the
+          Court of Appeal held that an insurer may rescind a fire insurance policy under Insurance
+          Code &sect;&sect; 331 and 359 for the insured&rsquo;s <strong>negligent or
+          unintentional</strong> misrepresentation of a material fact, <strong>notwithstanding</strong>{' '}
+          &sect; 2071&rsquo;s willfulness clause. Under <em>Mitchell</em>, an insurer can pursue
+          either remedy &mdash; &sect; 2071 (void the policy on willful conduct) or
+          &sect;&sect; 331/359 (rescission for innocent misrep). Fire-loss policyholders cannot
+          rely on &sect; 2071&rsquo;s willfulness language alone as a complete shield. A
+          rescission defense requires careful analysis of which remedy the insurer is pursuing
+          and what defenses (waiver, estoppel, agent imputation, lack of materiality) are
+          available under either framework. See our companion article on{' '}
+          <Link href="/resources/material-misrepresentation-nondisclosure" className="text-[#2E74B5] underline">
+            material misrepresentation
+          </Link>{' '}
+          for a fuller discussion.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Premium Return Requirement
