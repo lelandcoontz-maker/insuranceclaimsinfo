@@ -457,11 +457,16 @@ export default function Content() {
         <li>
           <strong>Commercial (non-residential) tenants:</strong> Under the NFIP General Property
           Form, a non-residential tenant can purchase contents coverage (up to $500,000 for
-          business personal property), and FEMA&rsquo;s guidance allows tenant improvements
-          and betterments to be insured as an extension typically capped at <strong>10% of
-          contents coverage</strong>. This is materially narrower than the $500,000 standalone
-          building-coverage figure sometimes assumed. The building owner&apos;s NFIP policy
-          remains the primary source of NFIP building coverage on the structure itself.
+          business personal property under Coverage B). FEMA&rsquo;s General Property Form
+          (Section III.B paragraphs 7&ndash;9) and Bulletin W-14059 treat tenant improvements
+          and betterments as part of the tenant&apos;s contents coverage &mdash; not as a
+          separate building coverage &mdash; subject to a sublimit of <strong>up to 10% of the
+          Coverage B (contents) limit</strong>. Critically, that 10% is taken <em>out of</em>
+          the contents limit, not added on top of it: using the improvements sublimit reduces
+          the dollars available for actual business personal property. This is materially
+          narrower than the $500,000 standalone building-coverage figure sometimes assumed.
+          The building owner&apos;s NFIP policy remains the primary source of NFIP building
+          coverage on the structure itself.
         </li>
       </ul>
 
@@ -491,9 +496,10 @@ export default function Content() {
         the General Property Form will be valued at ACV under the NFIP, with depreciation
         applied. A commercial tenant who installed a $200,000 buildout five years ago will not
         receive the full replacement cost from NFIP &mdash; they will receive the depreciated
-        value, and only up to the 10%-of-contents sublimit described above. This is materially
-        different from the commercial property policy&apos;s &ldquo;actual cost of repair&rdquo;
-        valuation when the tenant actually makes the repairs.
+        value, and only up to the 10%-of-contents-limit sublimit described above (which itself
+        reduces the contents limit available for actual business personal property). This is
+        materially different from the commercial property policy&apos;s &ldquo;actual cost of
+        repair&rdquo; valuation when the tenant actually makes the repairs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For more detail on NFIP policies and how they interact with private flood coverage,
