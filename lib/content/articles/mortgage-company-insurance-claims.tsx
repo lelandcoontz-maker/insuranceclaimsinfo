@@ -378,21 +378,32 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        State Protections: California Civil Code &sect; 2924.7
+        State Protections: California Civil Code &sect; 2924.7 and the Good-Faith Standard
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In addition to federal protections, California provides specific statutory requirements for
-        lenders holding insurance proceeds. California Civil Code &sect; 2924.7 requires a lender to
-        release insurance proceeds within <strong>30 days</strong> of receiving a written request from
-        the borrower along with documentation of repairs and costs. This statute gives California
-        homeowners a concrete timeline to cite when the loss draft department is dragging its feet.
+        California Civil Code &sect; 2924.7 addresses the lender&apos;s control over insurance
+        proceeds. It validates the lender&apos;s contractual right under the deed of trust to
+        receive and control the disbursement of fire, flood, and other hazard insurance proceeds,
+        and provides that such provisions are enforceable &ldquo;whether or not impairment of the
+        security interest in the property has resulted.&rdquo; Importantly, &sect; 2924.7 does{' '}
+        <em>not</em> contain a specific statutory release deadline. California has no statute that
+        sets a fixed number of days within which a lender must release insurance proceeds.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Combined with Civil Code &sect; 2954.85 (the 2% interest requirement on held proceeds), these
-        statutes provide meaningful leverage. When you write to the loss draft department demanding
-        release of funds, citing both the 30-day requirement under &sect; 2924.7 and the interest
-        obligation under &sect; 2954.85 signals that you know the legal framework &mdash; and that
-        delays have a cost.
+        Release timing is instead governed by the implied covenant of good faith and fair dealing
+        established in <em>Schoolcraft v. Ross</em>, 81 Cal. App. 3d 75 (1978). Under{' '}
+        <em>Schoolcraft</em>, a lender holding insurance proceeds must release them in good faith
+        when its security is not impaired &mdash; that is, when the estimated value of the rebuilt
+        property exceeds the outstanding debt. A lender that ignores a documented written demand for
+        release exposes itself to bad-faith claims and regulatory complaints, even though no
+        specific number-of-days deadline applies.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Combined with Civil Code &sect; 2954.85 (the 2% interest requirement on held proceeds),
+        these authorities provide meaningful leverage. When you write to the loss draft department
+        demanding release of funds, citing the <em>Schoolcraft</em> good-faith standard, the
+        interest obligation under &sect; 2954.85, and a reasonable 30-day customary response window
+        signals that you know the legal framework &mdash; and that delays have a cost.
       </p>
 
       {/* ────────────────── CARRIER PAYMENT STRUCTURE ────────────────── */}
@@ -554,9 +565,11 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Written demand citing California Civil Code &sect; 2924.7:</strong> Send a formal
-          letter demanding release within 30 days, accompanied by documentation of repairs and costs.
-          Send it certified mail, return receipt requested.
+          <strong>Written demand citing the <em>Schoolcraft</em> good-faith standard:</strong> Send
+          a formal letter demanding release in good faith because the lender&apos;s security is not
+          impaired, accompanied by documentation of repairs and costs. Request a response within 30
+          days as a customary expectation (no statutory deadline applies in California). Send
+          certified mail, return receipt requested.
         </li>
         <li>
           <strong>Qualified Written Request under RESPA:</strong> File a QWR demanding a full
@@ -681,11 +694,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The Fair Claims Regulations require that when an insurer accepts or denies a claim, it must do
         so promptly and communicate the decision to the policyholder. Cal. Code Regs. tit. 10,
-        &sect; 2695.7(b) requires payment within 30 days of a proof of claim being received. But
-        &ldquo;payment&rdquo; in this context means issuing the check &mdash; not ensuring the
-        homeowner receives the proceeds. The carrier satisfies its obligation by issuing the check,
-        even if the homeowner then spends months trying to get it through the mortgage company&apos;s
-        loss draft process.
+        &sect; 2695.7(b) requires the insurer to accept or deny within 40 calendar days of receiving
+        a proof of claim, and &sect; 2695.7(h) requires payment within 30 calendar days after
+        acceptance. But &ldquo;payment&rdquo; in this context means issuing the check &mdash; not
+        ensuring the homeowner receives the proceeds. The carrier satisfies its obligation by
+        issuing the check, even if the homeowner then spends months trying to get it through the
+        mortgage company&apos;s loss draft process.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is one more reason coverage allocation matters. The carrier cannot control the mortgage
