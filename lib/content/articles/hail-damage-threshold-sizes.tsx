@@ -39,17 +39,20 @@ export default function Content() {
         The Damage Thresholds
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In 2002, Haag Engineering researchers presented their findings at the 21st American
-        Meteorological Society Conference on Severe Local Storms. They tested and documented the
-        minimum hail sizes required to cause <strong>functional damage</strong> &mdash; meaning
-        damage that compromises the material&apos;s ability to do its job &mdash; for the most
-        common roofing and siding materials in North America.
+        In 2002, Haag Engineering researchers presented their findings on common roofing materials
+        at the 21st American Meteorological Society Conference on Severe Local Storms. Their
+        roofing testing was later complemented by separate Haag research on exterior cladding
+        (vinyl, aluminum, and steel siding) presented to the International Institute of Building
+        Enclosure Consultants in 2012. Together, these studies document the minimum hail sizes
+        required to cause <strong>functional damage</strong> &mdash; damage that compromises the
+        material&apos;s ability to do its job &mdash; for the most common roofing and siding
+        materials in North America.
       </p>
       <div className="overflow-x-auto mb-6">
         <table className="w-full text-sm border-collapse">
           <thead>
             <tr className="bg-[#1F3964] text-white">
-              <th className="border border-gray-300 px-4 py-2 text-left">Roofing Material</th>
+              <th className="border border-gray-300 px-4 py-2 text-left">Material</th>
               <th className="border border-gray-300 px-4 py-2 text-left">Minimum Damaging Hail Size</th>
               <th className="border border-gray-300 px-4 py-2 text-left">Common Size Comparison</th>
             </tr>
@@ -66,7 +69,7 @@ export default function Content() {
               <td className="border border-gray-300 px-4 py-2">Half-dollar</td>
             </tr>
             <tr className="bg-white">
-              <td className="border border-gray-300 px-4 py-2">Wood Shakes</td>
+              <td className="border border-gray-300 px-4 py-2">Wood Shingles / Shakes</td>
               <td className="border border-gray-300 px-4 py-2 font-semibold">1.25 &ndash; 1.5 inches</td>
               <td className="border border-gray-300 px-4 py-2">Half-dollar to ping-pong ball</td>
             </tr>
@@ -77,17 +80,25 @@ export default function Content() {
             </tr>
             <tr className="bg-white">
               <td className="border border-gray-300 px-4 py-2">Vinyl Siding</td>
-              <td className="border border-gray-300 px-4 py-2 font-semibold">1.25 inches</td>
-              <td className="border border-gray-300 px-4 py-2">Half-dollar</td>
+              <td className="border border-gray-300 px-4 py-2 font-semibold">~0.75 inch</td>
+              <td className="border border-gray-300 px-4 py-2">Penny</td>
             </tr>
             <tr className="bg-gray-50">
               <td className="border border-gray-300 px-4 py-2">Aluminum Siding</td>
-              <td className="border border-gray-300 px-4 py-2 font-semibold">0.75 &ndash; 1 inch</td>
-              <td className="border border-gray-300 px-4 py-2">Penny to quarter</td>
+              <td className="border border-gray-300 px-4 py-2 font-semibold">~0.75 inch</td>
+              <td className="border border-gray-300 px-4 py-2">Penny</td>
             </tr>
           </tbody>
         </table>
       </div>
+      <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
+        Source: Roofing thresholds from Marshall, Herzog, Morrison &amp; Smith, <em>Hail Damage
+        Threshold Sizes for Common Roofing Materials</em> (Haag Engineering, presented at 21st
+        AMS Conference on Severe Local Storms, 2002). Siding thresholds from Herzog, Morrison,
+        Patnode &amp; Green, <em>Ice Ball Impact Testing of Siding</em> (Haag Engineering,
+        presented to IIBEC, 2012). These are controlled-test threshold sizes; real-world damage
+        can occur from smaller hail on aged, weathered, or angle-struck materials.
+      </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Look at the first row. Standard 3-tab asphalt shingles &mdash; the most common roofing
         material in America &mdash; can sustain functional damage from hail as small as{' '}
@@ -212,18 +223,24 @@ export default function Content() {
         About This Research
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The findings discussed in this article are based on the paper:{' '}
+        The roofing thresholds discussed in this article are based on the paper{' '}
         <strong>
-          &ldquo;Hail Damage Threshold Sizes for Common Roofing and Siding Materials&rdquo;
+          &ldquo;Hail Damage Threshold Sizes for Common Roofing Materials&rdquo;
         </strong>{' '}
         by Timothy P. Marshall, Richard F. Herzog, Scott J. Morrison, and Steven R. Smith (Haag
-        Engineering Co., Dallas, Texas). The paper was presented at the{' '}
-        <em>21st Conference on Severe Local Storms</em>, hosted by the American Meteorological
-        Society, in 2002.
+        Engineering Co.), presented as paper P3.2 at the <em>21st Conference on Severe Local
+        Storms</em>, hosted by the American Meteorological Society, in 2002.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Haag Engineering has been providing forensic engineering services to the property
-        insurance industry since 1924. Their damage threshold research remains one of the most
+        The siding thresholds come from a separate Haag study, <strong>&ldquo;Ice Ball Impact
+        Testing of Siding,&rdquo;</strong> by Herzog, Morrison, Patnode, and Green, presented to
+        the International Institute of Building Enclosure Consultants (IIBEC, formerly RCI) in
+        2012. That paper documents a threshold ice-ball diameter of approximately 0.75 inch for
+        vinyl, aluminum, and steel siding under controlled test conditions.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Haag Engineering is a Dallas-based forensic engineering firm with a long history of
+        property-insurance-related work. Its damage threshold research remains among the most
         widely referenced studies in hail damage assessment and is used by engineers, adjusters,
         and attorneys on both sides of claim disputes.
       </p>
