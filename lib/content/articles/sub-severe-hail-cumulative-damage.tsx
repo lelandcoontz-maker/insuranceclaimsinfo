@@ -178,9 +178,9 @@ export default function Content() {
           &ldquo;Sub-severe hail: the missing piece in assessing asphalt shingle risk in North
           America&rdquo;
         </strong>{' '}
-        by Michael Meisenzahl, Ian M. Giammanco, and Saman Hedayati (Insurance Institute for
+        by Brenna Meisenzahl, Ian Giammanco, and Faraz Hedayati (Insurance Institute for
         Business &amp; Home Safety). The study was published in{' '}
-        <em>Frontiers in Materials</em> in 2025.
+        <em>Frontiers in Materials</em> in 2025 (article ID 1603074).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         IBHS is a nonprofit research organization funded by property insurers and reinsurers.
