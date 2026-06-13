@@ -234,7 +234,7 @@ export default function Content() {
         Business interruption coverage requires a &ldquo;direct physical loss of or damage to&rdquo; the covered property. This means the business income loss must result from physical damage to the property &mdash; not from a general economic downturn, loss of a key customer, or other non-physical causes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This trigger became the central issue in COVID-19 business interruption litigation. Thousands of businesses filed BI claims after government shutdown orders forced them to close. The overwhelming majority of courts held that government-ordered closures without physical damage to the insured property did not satisfy the &ldquo;direct physical loss&rdquo; requirement. In California, the California Supreme Court granted review of this issue but the practical outcome for most COVID BI claims has been denial.
+        This trigger became the central issue in COVID-19 business interruption litigation. Thousands of businesses filed BI claims after government shutdown orders forced them to close. The overwhelming majority of courts held that government-ordered closures without physical damage to the insured property did not satisfy the &ldquo;direct physical loss&rdquo; requirement. In California, the Supreme Court resolved the question in <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 15 Cal.5th 1106, holding that &ldquo;direct physical loss of or damage to&rdquo; property requires a distinct, demonstrable physical alteration of the property &mdash; which may be microscopic and need not be visible or structural, but cannot be satisfied by pure loss of use. COVID-19-related closures and the presence or threat of the virus, without evidence of physical alteration, do not qualify.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Outside the COVID context, the &ldquo;direct physical loss&rdquo; requirement is rarely disputed. A fire, flood, vehicle impact, burst pipe, or any other event that physically damages the property and forces a business closure clearly satisfies the trigger.
@@ -305,7 +305,7 @@ export default function Content() {
         <li>The carrier must accept or deny the claim within 40 calendar days of receiving proof of claim (10 CCR &sect; 2695.7(b)).</li>
         <li>The carrier must not misrepresent pertinent facts or policy provisions (Cal. Ins. Code &sect; 790.03(h)(1)).</li>
         <li>The carrier must provide a written explanation for any denial, referencing the specific policy provisions relied upon (10 CCR &sect; 2695.7(b)(1)).</li>
-        <li>The carrier must not attempt to settle a claim for less than the amount to which a reasonable person would believe they are entitled by reference to written or printed advertising material (10 CCR &sect; 2695.7(g)).</li>
+        <li>The carrier must not attempt to settle a claim for less than the amount to which a reasonable person would believe they are entitled by reference to written or printed advertising material (Cal. Ins. Code &sect; 790.03(h)(7)).</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Carriers handling BI claims sometimes act as if these regulations do not apply to commercial losses. They do. For a comprehensive analysis of these regulations, see our article on the{' '}
