@@ -588,9 +588,9 @@ export default function Content() {
         fundamental problem: the insurer accepted the appraisal, agreed to the value, and collected
         premiums based on that value for years. The insurer had the opportunity to require an
         updated appraisal at any renewal and chose not to. The agreed value is the agreed value.
-        California Insurance Code &sect; 2051.5 reinforces that when a policy includes an agreed
-        value, the insurer cannot pay less than that amount on a total loss unless it can
-        demonstrate fraud or material misrepresentation by the policyholder.
+        Under general California contract principles, an insurer that issued a policy with a
+        stated agreed value and collected premiums on that value cannot unilaterally reduce the
+        payout at claim time absent fraud or material misrepresentation by the policyholder.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
