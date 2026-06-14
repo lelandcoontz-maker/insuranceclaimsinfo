@@ -385,14 +385,17 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The legal principle underlying most of these insurance problems is the doctrine of
         insurable interest. California Insurance Code &sect; 281 defines an insurable
-        interest in property as &ldquo;any lawful and substantial economic interest in the
-        safety or preservation of property from loss, destruction, or pecuniary
-        damage.&rdquo; The key principle: <strong>an insurer&rsquo;s obligation is limited to
-        the named insured&rsquo;s insurable interest, not the full value of the
-        property.</strong>
+        interest as &ldquo;[e]very interest in property, or any relation thereto, or
+        liability in respect thereof, of such a nature that a contemplated peril might
+        directly damnify the insured.&rdquo; Section 282 then provides that an insurable
+        interest in property may consist of an existing interest, an inchoate interest
+        founded on an existing interest, or an expectancy coupled with an existing interest
+        in that out of which the expectancy arises. The key principle: <strong>an
+        insurer&rsquo;s obligation is limited to the named insured&rsquo;s insurable
+        interest, not the full value of the property.</strong>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under <strong>California Insurance Code Section 281</strong>, multiple parties can have
+        Under California Insurance Code &sect;&sect; 281&ndash;284, multiple parties can have
         simultaneous insurable interests in the same property, but each party&rsquo;s
         recovery is limited to the value of their own interest. In the context of co-ownership
         after a deed change, this means the parent can recover only their share, and the
@@ -505,13 +508,15 @@ export default function Content() {
         California Insurance Code &sect; 281 &mdash; Insurable Interest
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California defines insurable interest broadly: &ldquo;any lawful and substantial
-        economic interest in the safety or preservation of property from loss, destruction,
-        or pecuniary damage.&rdquo; This is a broader definition than some states, which may
-        require legal title. Under California law, the parent who transferred a 50% interest
-        still has an insurable interest in their remaining 50% &mdash; there is no question
-        about that. The issue is that their interest is <em>partial</em>, not <em>full</em>,
-        and the policy may only pay up to the value of that partial interest.
+        California defines insurable interest broadly under &sect; 281: every interest in
+        property, or any relation thereto, or liability in respect thereof, of such a nature
+        that a contemplated peril might directly damnify the insured is an insurable
+        interest. This does not require strict legal title &mdash; an existing economic
+        relationship to the property is sufficient. Under California law, the parent who
+        transferred a 50% interest still has an insurable interest in their remaining 50%
+        &mdash; there is no question about that. The issue is that their interest is
+        <em> partial</em>, not <em>full</em>, and the policy may only pay up to the value of
+        that partial interest.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -727,12 +732,18 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If the insurer continued to accept premiums after the deed change &mdash; especially
         if the insurer had actual or constructive knowledge of the change &mdash; the doctrine
-        of estoppel may bar the insurer from denying coverage based on the ownership change.
-        In California, an insurer that accepts premiums with knowledge of a policy violation
-        may be estopped from relying on that violation to deny a claim. <strong><em>Waller v.
-        Truck Insurance Exchange, Inc.</em>, 11 Cal. 4th 1 (1995)</strong> established that
-        an insurer owes a duty of good faith and fair dealing, and cannot retain premiums
-        while secretly preserving defenses based on known facts.
+        of waiver or estoppel may bar the insurer from denying coverage based on the
+        ownership change. In California, an insurer with knowledge of a policy violation
+        that continues to accept premiums may waive the defense or be estopped from later
+        asserting it. The general principles are well established in California insurance
+        law (see, e.g., <em>Intel Corp. v. Hartford Accident &amp; Indem. Co.</em> (9th Cir.
+        1991) 952 F.2d 1551, applying California law to waiver of policy defenses; and the
+        line of CA cases on insurer waiver of denials), though it is important to note that
+        California courts will not allow waiver or estoppel to <em>create</em> coverage that
+        does not exist under the policy (see <em>Waller v. Truck Insurance Exchange, Inc.</em>
+        (1995) 11 Cal.4th 1). The argument is most powerful when the issue is a policy
+        condition or defense that the insurer knew of and slept on, rather than an attempt
+        to extend coverage to a wholly uncovered risk.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -781,15 +792,16 @@ export default function Content() {
         Materiality of the Misrepresentation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect; 359, a misrepresentation does not void a
-        policy unless it is &ldquo;material&rdquo; &mdash; meaning the insurer would not
-        have issued the policy or would have issued it on different terms had it known the
-        truth. Adding a child to the deed of an owner-occupied home does not change the risk
-        profile of the property. The house is the same house. The risk of fire, theft, or
-        weather damage is the same. The insurer would have issued the same policy at the same
-        premium regardless of whether one person or two people were on the deed. If the
-        misrepresentation is not material, it cannot be used to void the policy or reduce
-        coverage.
+        Under California Insurance Code &sect; 334 (materiality test) and &sect; 359
+        (effect of misrepresentation in negotiation), a misrepresentation does not entitle
+        the insurer to rescind unless it is &ldquo;material&rdquo; &mdash; with materiality
+        judged by the probable and reasonable influence of the facts on the insurer&rsquo;s
+        decision whether to accept the risk and on what terms. Adding a child to the deed of
+        an owner-occupied home does not change the risk profile of the property. The house
+        is the same house. The risk of fire, theft, or weather damage is the same. The
+        insurer would have issued the same policy at the same premium regardless of whether
+        one person or two people were on the deed. If the misrepresentation is not material,
+        it cannot be used to void the policy or reduce coverage.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
