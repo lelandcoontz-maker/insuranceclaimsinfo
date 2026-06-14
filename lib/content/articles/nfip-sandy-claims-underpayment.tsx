@@ -39,27 +39,29 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Department of Homeland Security&apos;s Office of Inspector General (DHS OIG)
-        investigated the Sandy claims review process and published its findings in a 2018
-        report:{' '}
-        <strong>
-          &ldquo;Unsupported Payments Made to Policyholders Who Participated in the NFIP Sandy
-          Claims Review&rdquo; (OIG-18-38)
-        </strong>
-        . The report examined what happened when homeowners challenged their initial claim
-        payments through the review process.
+        investigated the FEMA Sandy Claims Review Process (SCRP) and issued a 2018 audit report
+        identified as <strong>OIG-18-38</strong>, finding among other things that the review
+        process produced unsupported additional payments, lacked sufficient internal controls,
+        and incurred over $150 million in excess costs relative to estimates.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The key finding was staggering.
+        The headline finding from the broader Sandy claims reopening process &mdash; documented
+        in FEMA&apos;s own data and reported by news outlets including PBS Frontline &mdash; was
+        staggering.
       </p>
 
-      <CalloutBox variant="important" title="The 80% Statistic">
+      <CalloutBox variant="important" title="The Reopening Statistics">
         <p>
-          Nearly <strong>80% of NFIP Sandy claims that went through the appeals and review
-          process resulted in additional payments</strong> to homeowners. That is not a
-          rounding error. That is not a few squeaky wheels getting extra grease. When four out
-          of five reviewed claims resulted in more money, it means the initial claim assessments
-          were <strong>systematically low</strong>. The insurance companies handling these
-          claims were not making occasional mistakes &mdash; they were underpaying as a pattern.
+          Across the reopened Sandy claims, the overwhelming majority of homeowners who pushed
+          back received additional payments. Public reporting from PBS Frontline indicates that
+          roughly 89% of reopened claims were closed with more than 14,500 homeowners receiving
+          additional compensation, and consumer-advocacy summaries widely report that about 80%
+          of appeals produced additional money. The OIG audit (OIG-18-38) confirmed in substance
+          that the review process resulted in significant additional payments to policyholders.
+          Whichever percentage you use, the point is the same: when reviewed, the initial
+          payments were <strong>systematically low</strong>. The insurance companies handling
+          these claims were not making occasional mistakes &mdash; they were underpaying as a
+          pattern.
         </p>
       </CalloutBox>
 
@@ -179,33 +181,18 @@ export default function Content() {
         About This Report
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The findings discussed in this article are based on the{' '}
-        <strong>
-          Department of Homeland Security, Office of Inspector General report
-          &ldquo;Unsupported Payments Made to Policyholders Who Participated in the NFIP
-          Sandy Claims Review&rdquo; (OIG-18-38)
-        </strong>
-        , published in 2018. The DHS OIG is an independent oversight body within the Department
-        of Homeland Security responsible for investigating fraud, waste, and abuse in DHS
-        programs, including FEMA and the National Flood Insurance Program.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The report is publicly available from oig.dhs.gov. It provides detailed findings on
-        the Sandy claims review process, including the cost overruns and internal control
-        deficiencies that plagued the program.
+        The audit findings discussed in this article are drawn from the <strong>Department of
+        Homeland Security, Office of Inspector General report OIG-18-38</strong>, published in
+        2018, addressing FEMA&apos;s Sandy Claims Review Process. The DHS OIG is an independent
+        oversight body within the Department of Homeland Security responsible for investigating
+        fraud, waste, and abuse in DHS programs, including FEMA and the National Flood Insurance
+        Program. The reopening-statistics figures (roughly 89% of reopened claims closed with
+        additional compensation, and consumer-advocacy summaries reporting ~80% of appeals
+        producing additional money) come from FEMA program data and news reporting (including
+        PBS Frontline), not directly from the OIG audit. The OIG report is publicly available
+        from oig.dhs.gov.
       </p>
       <hr className="my-8 border-gray-300" />
-      <p className="text-sm text-gray-500 italic">
-        This article is for informational purposes only and does not constitute legal advice. Insurance
-        policies and applicable law vary by state and by policy form. Consult with a licensed
-        professional regarding your specific situation.
-      </p>
-      <hr className="my-8 border-gray-300" />
-      <p className="text-sm text-gray-500 italic">
-        This article is for informational purposes only and does not constitute legal advice.
-        Insurance policies and applicable law vary by state and by policy form. Consult with a
-        licensed professional regarding your specific situation.
-      </p>
       <p className="text-sm text-gray-500 mt-4 italic">
         Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>
