@@ -173,11 +173,16 @@ export default function Content() {
           Ordinance or law coverage
         </Link>{' '}
         pays for the additional costs of rebuilding to comply with current building codes when
-        those codes have changed since your home was originally built. It typically has three
-        components: Dwelling coverage pays for the loss in value of the undamaged portion of a building
-        that must be demolished to comply with code; Other Structures coverage pays for the cost of demolishing
-        the undamaged portion; and Personal property coverage pays for the increased cost of construction to
-        bring the entire structure up to current code.
+        those codes have changed since your home was originally built. Under the standard ISO
+        endorsement (HO 04 77 for homeowners, CP 04 05 for commercial), the coverage has three
+        components: <strong>Coverage A (Loss to the Undamaged Portion of the Building)</strong>
+        pays for the loss in value of the undamaged portion of a building that must be
+        demolished to comply with code; <strong>Coverage B (Demolition Cost)</strong> pays for
+        the cost of demolishing the undamaged portion; and <strong>Coverage C (Increased Cost
+        of Construction)</strong> pays for the increased cost of construction to bring the
+        entire structure up to current code. These are sub-coverages within the ordinance or
+        law endorsement &mdash; they are not the same as the Coverage A/B/C structure on the
+        main homeowner policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What it costs:</strong> Ordinance or law endorsements typically add 5% to 15%
