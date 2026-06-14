@@ -297,13 +297,16 @@ export default function Content() {
         intend to make drugs. But the damage is an inevitable consequence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Cochran v. State Farm Fire &amp; Casualty Co.</strong> (Ga. Ct. App. 2018)
-        &mdash; The Georgia Court of Appeals found that the question of whether meth
-        contamination constitutes vandalism was ambiguous enough to require resolution by a jury.
-        The court denied the insurer&rsquo;s motion for summary judgment, holding that a
-        reasonable jury could find that the tenant&rsquo;s drug activity constituted vandalism.
-        Where there is ambiguity, the policyholder wins &mdash; because ambiguities in insurance
-        policies are construed against the insurer that drafted them.
+        <strong>Cochran v. State Farm Fire &amp; Cas. Co.</strong>, No. 1:17-cv-00984 (N.D. Ga.
+        Aug. 22, 2018) &mdash; The federal district court for the Northern District of Georgia
+        found that the policy&rsquo;s contamination provision was ambiguous and that the question
+        of whether the meth-related loss was covered required resolution by a jury. The court
+        denied the insurer&rsquo;s motion for summary judgment, holding that a reasonable jury
+        could find for the policyholder on the coverage question. Where there is ambiguity,
+        the policyholder typically wins &mdash; because ambiguities in insurance policies are
+        construed against the insurer that drafted them. This is a federal district court
+        decision, not binding Georgia appellate precedent, but it is persuasive on the
+        ambiguity analysis.
       </p>
 
       <CalloutBox variant="important" title="The Critical Distinction: Manufacturing vs. Personal Use">
@@ -329,8 +332,8 @@ export default function Content() {
         worth knowing so you can distinguish them:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Kaiser v. Allstate Insurance Co.</strong> (Neb. Ct. App. 2020) &mdash; The
-        Nebraska court held that the{' '}
+        <strong>Kaiser v. Allstate Indem. Co.</strong>, 307 Neb. 562, 949 N.W.2d 621 (2020)
+        &mdash; The Nebraska Supreme Court held that the{' '}
         <Link
           href="/resources/pollution-exclusion-claims"
           className="text-[#2E74B5] hover:underline"
@@ -343,11 +346,12 @@ export default function Content() {
         states like California where pollution exclusions have been more narrowly construed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>K.V.G. Properties, Inc. v. Westfield Insurance Co.</strong> (Mich. Ct. App.
-        2017) &mdash; The Michigan court rejected the vandalism theory for marijuana grow
-        operation damage, finding that the tenant&rsquo;s primary intent was to grow marijuana,
-        not to damage the property, and that the damage was a byproduct rather than vandalism.
-        This reasoning has been criticized by other courts and contradicts the <em>Herod</em>
+        <strong>K.V.G. Properties, Inc. v. Westfield Ins. Co.</strong>, 900 F.3d 818 (6th Cir.
+        2018) &mdash; The Sixth Circuit (applying Michigan law) affirmed summary judgment for the
+        insurer in a marijuana grow operation case, primarily on the criminal-acts exclusion.
+        The court treated the tenant&rsquo;s intentional drug activity as falling within the
+        policy&rsquo;s exclusion for illegal acts rather than within vandalism coverage. The
+        reasoning has been criticized by other courts and is at odds with the <em>Herod</em>
         principle that intent to damage can be inferred from the act.
       </p>
 
