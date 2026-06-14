@@ -125,11 +125,17 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This argument has prevailed in a number of federal circuit court decisions. In
-        <em> Medidata Solutions, Inc. v. Federal Insurance Co.</em> (2d Cir. 2018), however,
-        the Second Circuit reached the opposite conclusion, finding that a spoofed email that
-        caused an employee to authorize a fraudulent transfer did constitute a &ldquo;computer
-        fraud&rdquo; loss. The split among circuits means that coverage under the computer fraud
-        insuring agreement depends heavily on jurisdiction and the specific facts of the loss.
+        <em> Medidata Solutions, Inc. v. Federal Insurance Co.</em>, 729 F. App&rsquo;x 117 (2d
+        Cir. 2018) (summary order), however, the Second Circuit reached the opposite conclusion,
+        affirming summary judgment for the policyholder and holding that a spoofed email that
+        caused an employee to authorize a fraudulent $4.8 million wire transfer constituted a
+        &ldquo;computer fraud&rdquo; loss under the policy. The court reasoned that the spoofing
+        code altered a data element in the email system and that the policyholder&rsquo;s loss was
+        &ldquo;directly&rdquo; caused by the use of a computer because the spoofed emails were
+        the proximate cause of the transfer. <em>Medidata</em> is a summary order rather than a
+        precedential opinion, so its persuasive authority is limited even within the Second
+        Circuit. The split among circuits means that coverage under the computer fraud insuring
+        agreement depends heavily on jurisdiction and the specific facts of the loss.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -424,10 +430,12 @@ export default function Content() {
           email compromise and other cyber-facilitated fraud schemes. Available through ic3.gov.
         </li>
         <li>
-          <strong><em>Medidata Solutions, Inc. v. Federal Insurance Co.</em></strong> &mdash;
-          Second Circuit, 2018. A significant appellate decision finding that a social
-          engineering loss could constitute a &ldquo;computer fraud&rdquo; covered under a
-          crime policy. Available through federal case law databases.
+          <strong><em>Medidata Solutions, Inc. v. Federal Insurance Co.</em>, 729 F. App&rsquo;x
+          117 (2d Cir. 2018) (summary order)</strong>, affirming 268 F. Supp. 3d 471 (S.D.N.Y.
+          2017). A widely discussed appellate decision finding that a social engineering loss
+          constituted &ldquo;computer fraud&rdquo; covered under a crime policy. Because the
+          Second Circuit affirmance is a summary order, its precedential value is limited.
+          Available through federal case law databases.
         </li>
       </ul>
 
