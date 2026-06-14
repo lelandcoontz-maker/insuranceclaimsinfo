@@ -291,12 +291,16 @@ export default function Content() {
         cannot subrogate against the tenant because you cannot subrogate against your own insured.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California takes a <strong>case-by-case approach</strong>. Courts look at the specific
-        language of the lease to determine whether the parties intended the tenant to be
-        responsible for negligent damage. If the lease is silent about insurance and makes the
-        tenant responsible for property damage, California courts may find that the Sutton doctrine
-        does not apply &mdash; and the landlord&rsquo;s insurer is free to subrogate against
-        the tenant.
+        California takes a <strong>case-by-case approach</strong> anchored on the lease and the
+        parties&rsquo; intent regarding insurance. The leading authority is{' '}
+        <em>Fire Insurance Exchange v. Hammond</em> (2000) 83 Cal.App.4th 313, which held that
+        when the lease and surrounding circumstances show the landlord&rsquo;s fire insurance was
+        intended to benefit both landlord and tenant, the tenant is an <strong>implied
+        co-insured</strong> and the carrier cannot subrogate against the tenant for negligently
+        caused fire damage. But where the lease shifts responsibility for property damage to the
+        tenant or otherwise rebuts that mutual-benefit intent, California courts allow
+        subrogation. The outcome turns on the specific lease language &mdash; not on a fixed
+        rule.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
