@@ -37,7 +37,7 @@ export default function Content() {
         The California Earthquake Authority (CEA): How It Works
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The CEA is a publicly managed, privately funded, not-for-profit organization created by the California legislature in 1996. It is not a state agency and receives no taxpayer money. Instead, it is funded entirely by policyholder premiums and has over $18 billion in claim-paying capacity. Its five-member Governing Board includes the Governor, the Insurance Commissioner, and the State Treasurer as voting members.
+        The CEA is a publicly managed, privately funded, not-for-profit organization created by the California legislature in 1996. It is not a state agency and receives no taxpayer money. Instead, it is funded entirely by policyholder premiums, reinsurance, and revenue bonds, and maintains substantial claim-paying capacity that is updated annually in CEA&rsquo;s public financial reports. Its five-member Governing Board includes the Governor, the Insurance Commissioner, and the State Treasurer as voting members.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The CEA does not sell policies directly. Instead, it works through roughly two dozen &ldquo;participating insurers&rdquo; &mdash; companies like State Farm, Allstate, CSAA, Farmers, and others &mdash; that sell and service CEA earthquake policies alongside their own homeowner products. The <Link href="/resources/california-fair-plan" className="text-[#2E74B5] hover:underline">California FAIR Plan</Link> is also a CEA participating insurer, meaning FAIR Plan policyholders can purchase CEA earthquake coverage as a companion policy.
@@ -54,16 +54,16 @@ export default function Content() {
           <strong>Dwelling:</strong> Covers structural damage to the home and attached structures (such as an attached garage). The limit matches the dwelling limit on your homeowner policy. This is the only coverage included by default &mdash; the other two must be selected and added.
         </li>
         <li>
-          <strong>Personal Property:</strong> Covers damage to personal belongings like furniture, electronics, and clothing. The maximum limit was reduced from $200,000 to $25,000 effective in 2023, and the minimum is $5,000. This coverage has its own separate deductible.
+          <strong>Personal Property:</strong> Covers damage to personal belongings like furniture, electronics, and clothing. CEA&rsquo;s current personal property options are <strong>$5,000 or $25,000</strong> (maximum). Historically CEA offered higher personal property limits; the program has been significantly tightened in recent years and the current $25,000 cap is materially lower than many policyholders expect. This coverage has its own separate deductible.
         </li>
         <li>
           <strong>Loss of Use:</strong> Covers additional living expenses if you cannot live in your home during repairs. The maximum is $100,000, and this coverage has <strong>no deductible</strong>.
         </li>
       </ul>
 
-      <CalloutBox variant="important" title="CEA Personal Property Limits Were Dramatically Reduced">
+      <CalloutBox variant="important" title="CEA Personal Property Limits Are Capped at $25,000">
         <p>
-          Before 2023, CEA policyholders could carry up to $200,000 in personal property coverage. Due to rising reinsurance costs, the CEA cut the maximum to $25,000. If you have a CEA policy, check your <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">declarations page</Link> to confirm your current contents limit &mdash; it may be far lower than you expect.
+          CEA&rsquo;s current homeowners, condo, and renters policies all offer personal property coverage at only two options: <strong>$5,000 or $25,000</strong>. Historically CEA offered higher personal property limits, but the current $25,000 cap is materially lower than many policyholders assume. If you have a CEA policy, check your <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">declarations page</Link> to confirm your current contents limit &mdash; it may be far lower than you expect.
         </p>
       </CalloutBox>
 
@@ -71,14 +71,10 @@ export default function Content() {
         CEA Deductibles: Much Higher Than You Think
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        CEA deductibles are a percentage of the dwelling coverage limit &mdash; not a flat dollar amount like the $1,000 or $2,500 deductible on a standard homeowner policy. The available deductible options are 5%, 10%, 15%, 20%, and 25%, with two important exceptions:
+        CEA deductibles are a percentage of the dwelling coverage limit &mdash; not a flat dollar amount like the $1,000 or $2,500 deductible on a standard homeowner policy. The standard available deductible options are <strong>5%, 10%, 15%, 20%, and 25%</strong>. Higher-value homes and older homes on raised foundations that have not been seismically retrofitted may be restricted to higher deductible options under the participating insurer&rsquo;s underwriting rules &mdash; confirm the specific options your insurer makes available for your home.
       </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Homes valued over $1 million: the lowest available deductible is 15%.</li>
-        <li>Homes built before 1980 on a raised (non-slab) foundation that have not been seismically retrofitted: the lowest available deductible is also 15%.</li>
-      </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        To put this in perspective: on a home insured for $800,000, a 15% deductible means you pay the first <strong>$120,000</strong> out of pocket before CEA pays a dime. On a $1.2 million home, a 15% deductible is <strong>$180,000</strong>. Many homeowners who buy CEA coverage do not fully appreciate the size of this deductible until they file a claim.
+        To put the percentage deductible in perspective: on a home insured for $800,000, a 15% deductible means you pay the first <strong>$120,000</strong> out of pocket before CEA pays a dime. On a $1.2 million home, a 15% deductible is <strong>$180,000</strong>. Many homeowners who buy CEA coverage do not fully appreciate the size of this deductible until they file a claim.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -212,7 +208,7 @@ export default function Content() {
           <strong>Homeowners with limited savings:</strong> If you could not afford to rebuild or make major structural repairs out of pocket, earthquake insurance provides a financial backstop &mdash; even with the high deductible.
         </li>
         <li>
-          <strong>Owners of older homes:</strong> Pre-1980 homes on raised foundations are particularly vulnerable to earthquake damage. These homes also face the highest CEA deductibles (15% minimum) unless they have been seismically retrofitted.
+          <strong>Owners of older homes:</strong> Pre-1980 homes on raised foundations are particularly vulnerable to earthquake damage. CEA promotes seismic retrofitting through the Earthquake Brace + Bolt program for pre-1980 raised-foundation homes, and some participating insurers may restrict deductible options for unretrofitted older homes &mdash; check with your insurer for the specific underwriting rules.
         </li>
         <li>
           <strong>Homes with masonry, chimneys, or hillside construction:</strong> Brick, stone veneer, unreinforced chimneys, and hillside homes are disproportionately affected by seismic shaking.
@@ -278,7 +274,7 @@ export default function Content() {
           <strong>Claims handling:</strong> Who will actually handle your claim? A major carrier, the FAIR Plan, or a private earthquake insurer?
         </li>
         <li>
-          <strong>Financial stability:</strong> Check the carrier&rsquo;s AM Best rating. The CEA has over $18 billion in claim-paying capacity. GeoVera is rated A (Excellent) by AM Best.
+          <strong>Financial stability:</strong> Check the carrier&rsquo;s AM Best rating. CEA publishes annual financial statements and claim-paying capacity figures on its website. GeoVera is rated A (Excellent) by AM Best.
         </li>
       </ul>
 
