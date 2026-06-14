@@ -230,9 +230,10 @@ export default function Content() {
           If other experts were retained, requests the full set of reports from each.
         </li>
         <li>
-          Cites 10 CCR &sect; 2695.5(b) (timely response to communications) and 10 CCR
-          &sect; 2695.7(b) (the duty to provide a written basis for any denial or partial
-          denial) as the regulatory framework for the request.
+          Cites 10 CCR &sect; 2695.5(e) (15-day acknowledgment and response to claim
+          communications) and 10 CCR &sect; 2695.7(b)(1) (the duty to provide a written
+          basis for any denial or partial denial) as the regulatory framework for the
+          request.
         </li>
         <li>
           Notes that the request is being made under the carrier&rsquo;s duty to conduct a
