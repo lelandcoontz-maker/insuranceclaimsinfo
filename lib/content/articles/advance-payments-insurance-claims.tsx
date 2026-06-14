@@ -38,7 +38,7 @@ export default function Content() {
         At the statutory level, California Insurance Code &sect; 2061(a)(1) requires insurers to advance no less than four months of Additional Living Expenses (ALE) upon the insured&rsquo;s request when a total loss results from a declared state of emergency. The insured does not need to submit receipts first. The insured does not need to prove what they have &ldquo;incurred.&rdquo; The advance is mandatory.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        At the regulatory level, 10 CCR &sect; 2695.7(h) prohibits insurers from delaying or failing to pay undisputed amounts to influence the settlement of disputed portions of a claim. This rule applies to every line of insurance and every type of loss &mdash; not just declared disasters. If the carrier acknowledges that some amount is owed but disputes how much, the undisputed portion must be paid promptly while the dispute over the remainder continues separately.
+        At the regulatory level, 10 CCR &sect; 2695.7(k) prohibits insurers from delaying or failing to pay undisputed portions of first-party claims in order to influence settlements of disputed portions. This rule applies to every line of insurance and every type of loss &mdash; not just declared disasters. If the carrier acknowledges that some amount is owed but disputes how much, the undisputed portion must be paid promptly while the dispute over the remainder continues separately. (Subsection (h) of the same regulation imposes a parallel deadline by requiring insurers to tender payment within 30 calendar days of accepting a claim in whole or in part.)
       </p>
 
       <CalloutBox variant="info" title="The Practical Effect">
@@ -51,10 +51,10 @@ export default function Content() {
         The Regulatory Framework: Fair Claims Settlement Practices
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s Fair Claims Settlement Practices Regulations, codified at 10 CCR &sect; 2695.7, establish detailed requirements for how insurers must handle claims. Subdivision (h) is the provision most directly relevant to advance and partial payments:
+        California&rsquo;s Fair Claims Settlement Practices Regulations, codified at 10 CCR &sect; 2695.7, establish detailed requirements for how insurers must handle claims. Subdivision (k) is the provision most directly relevant to advance and partial payments:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;No insurer shall delay or fail to pay undisputed amounts due to the insured in order to influence or coerce the settlement of a disputed portion of a claim.&rdquo;
+        &ldquo;No insurer shall delay or fail to pay undisputed portions of first party claims, in order to influence settlements of disputed portions of the claim.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         This regulation does several things simultaneously. It prohibits using the undisputed money as leverage. It requires that the undisputed amount be paid even while the disputed portion is being negotiated. And it establishes that withholding undisputed funds &mdash; for any reason, including the carrier&rsquo;s desire to resolve the entire claim in a single payment &mdash; violates California regulatory law.
@@ -155,10 +155,10 @@ export default function Content() {
         <Link href="/resources/accord-and-satisfaction-checks" className="text-[#2E74B5] underline">
           accord and satisfaction
         </Link>{' '}
-        &mdash; a legally binding settlement &mdash; depends on the circumstances. Under California Civil Code &sect; 1526, a creditor who receives a check tendered as full satisfaction of a disputed claim can avoid the accord-and-satisfaction effect by doing one of the following within 90 days: returning the payment, or writing a statement on the check indicating it is accepted as partial payment only.
+        &mdash; a legally binding settlement &mdash; depends on the circumstances. California Civil Code &sect; 1526(a) provides a strike-out remedy: a creditor who receives a check tendered in full discharge of a disputed claim with &ldquo;payment in full&rdquo; (or similar) notation avoids accord and satisfaction if the creditor strikes out or otherwise deletes that notation, or if acceptance was inadvertent.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Commercial Code &sect; 3311 provides additional protections. An accord and satisfaction generally requires that the amount be in dispute, that the check be tendered in good faith as full payment, and that the claimant actually knows the check is tendered as full satisfaction. When a carrier buries &ldquo;full and final&rdquo; language on the back of a check that it labels as an &ldquo;advance payment&rdquo; in its cover letter, the argument that the policyholder knowingly accepted a settlement becomes weaker.
+        California Commercial Code &sect; 3311, the state&rsquo;s adoption of UCC &sect; 3-311 (enacted 1992), addresses the same situation from a different angle and is generally treated as superseding &sect; 1526 in the check context. Under &sect; 3311, where a claim is unliquidated or subject to a bona fide dispute and the debtor in good faith tenders a check containing a conspicuous statement that it is in full satisfaction, the claim is discharged upon payment of the instrument &mdash; regardless of whether the creditor strikes out the language. The creditor&rsquo;s remedy is to tender repayment of the amount within 90 days. When a carrier buries &ldquo;full and final&rdquo; language on the back of a check that it labels as an &ldquo;advance payment&rdquo; in its cover letter, the argument that the &ldquo;conspicuous statement&rdquo; and &ldquo;good faith full satisfaction&rdquo; elements of &sect; 3311 are met becomes weaker.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -231,14 +231,14 @@ export default function Content() {
         1. Quantify the Undisputed Amount in Writing
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The most effective demand letter identifies a specific dollar amount and explains why that amount is undisputed. Do not simply ask for &ldquo;an advance.&rdquo; Instead, calculate the minimum amount the carrier clearly owes and demand that specific figure. For example: &ldquo;Your own adjuster&rsquo;s initial estimate shows $180,000 in dwelling damage. Even if supplemental inspections adjust that figure, at least $120,000 represents damage that is clearly documented and not in dispute. Pursuant to 10 CCR &sect; 2695.7(h), I demand immediate payment of the undisputed amount of $120,000, less the applicable deductible.&rdquo;
+        The most effective demand letter identifies a specific dollar amount and explains why that amount is undisputed. Do not simply ask for &ldquo;an advance.&rdquo; Instead, calculate the minimum amount the carrier clearly owes and demand that specific figure. For example: &ldquo;Your own adjuster&rsquo;s initial estimate shows $180,000 in dwelling damage. Even if supplemental inspections adjust that figure, at least $120,000 represents damage that is clearly documented and not in dispute. Pursuant to 10 CCR &sect; 2695.7(k), I demand immediate payment of the undisputed portion of $120,000, less the applicable deductible.&rdquo;
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         2. Cite the Specific Statutory and Regulatory Authority
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Every written demand for advance or partial payment should cite the applicable law: 10 CCR &sect; 2695.7(h) (the undisputed-amount rule, applicable to all claims), Insurance Code &sect; 790.03(h) (unfair claims practices), and &mdash; for total losses in declared disasters &mdash; Insurance Code &sect; 2061(a)(1) (mandatory four-month ALE advance). This serves two purposes: it tells the carrier that the policyholder knows the law, and it creates a record for a potential{' '}
+        Every written demand for advance or partial payment should cite the applicable law: 10 CCR &sect; 2695.7(k) (the undisputed-portions rule, applicable to all first-party claims), 10 CCR &sect; 2695.7(h) (30-day payment after acceptance), Insurance Code &sect; 790.03(h) (unfair claims practices), and &mdash; for total losses in declared disasters &mdash; Insurance Code &sect; 2061(a)(1) (mandatory four-month ALE advance). This serves two purposes: it tells the carrier that the policyholder knows the law, and it creates a record for a potential{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
           bad faith
         </Link>{' '}
@@ -289,7 +289,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>&ldquo;The investigation is not complete.&rdquo;</strong> The carrier claims it cannot determine the undisputed amount until the investigation is finished. But 10 CCR &sect; 2695.7(h) does not require a completed investigation &mdash; it requires payment of amounts that are not in dispute. If the carrier acknowledges that the home burned down and that coverage applies, some amount is undisputed right now, regardless of where the investigation stands.
+          <strong>&ldquo;The investigation is not complete.&rdquo;</strong> The carrier claims it cannot determine the undisputed amount until the investigation is finished. But 10 CCR &sect; 2695.7(k) does not require a completed investigation &mdash; it requires payment of portions that are not in dispute. If the carrier acknowledges that the home burned down and that coverage applies, some amount is undisputed right now, regardless of where the investigation stands.
         </li>
         <li>
           <strong>&ldquo;We need to coordinate with the mortgage company.&rdquo;</strong> The carrier points to the joint-payee requirement and argues it cannot issue payment until the{' '}
@@ -352,7 +352,7 @@ export default function Content() {
         When to Seek Professional Help
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While policyholders can and should demand advance payments on their own, carriers respond differently to represented and unrepresented claimants. A demand from a policyholder citing 10 CCR &sect; 2695.7(h) carries weight. A demand from a{' '}
+        While policyholders can and should demand advance payments on their own, carriers respond differently to represented and unrepresented claimants. A demand from a policyholder citing 10 CCR &sect; 2695.7(k) carries weight. A demand from a{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
           licensed Public Adjuster
         </Link>{' '}
