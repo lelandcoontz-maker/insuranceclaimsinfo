@@ -76,9 +76,9 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">4. Missing Coverages</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The first offer frequently addresses only the most obvious coverage — dwelling damage
-        (dwelling). But your policy likely includes several additional coverages that the insurer
-        will not volunteer:
+        The first offer frequently addresses only the most obvious coverage &mdash; dwelling damage.
+        But your policy likely includes several additional coverages that the insurer will not
+        volunteer:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -157,9 +157,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         There is no universal formula, but it is common for the final settlement to exceed
         the first offer by 30–100% or more — especially on total losses and complex claims.
-        A 2010 Florida government study (OPPAGA Report 10-01) found that PA-represented hurricane
-        claims settled for substantially more than unrepresented claims, though the study did not
-        control for claim complexity and the gap varies widely depending on the facts of each loss.
+        A January 2010 Florida government study (OPPAGA Report 10-06) found that
+        PA-represented Citizens Property Insurance Corporation claims settled for substantially
+        more than unrepresented claims, though the study did not control for claim complexity and
+        the gap varies widely depending on the facts of each loss.
         Net benefit is also lower after Public Adjuster fees.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
