@@ -198,12 +198,16 @@ export default function Content() {
         absorption, that limit is a fiction.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is not a hypothetical concern. In states with valued policy laws &mdash; including
-        Florida (Fla. Stat. &sect; 627.702) &mdash; the insurer is required to pay the full
-        policy limit on a total loss from a covered peril. If the carrier subtracts the
-        deductible from the limit on a total loss, the payment is less than the limit, which
-        directly contradicts the valued policy statute. The deductible must be absorbed into the
-        loss that exceeds the limit, not subtracted from the limit itself.
+        This is not a hypothetical concern. In states with a general valued policy law &mdash;
+        Florida (Fla. Stat. &sect; 627.702) is the canonical example &mdash; the insurer is
+        required to pay the full policy limit on a total loss from a covered peril. If the
+        carrier subtracts the deductible from the limit on a total loss, the payment is less
+        than the limit, which directly contradicts the valued policy statute. The deductible
+        must be absorbed into the loss that exceeds the limit, not subtracted from the limit
+        itself. California does not have a Florida-style valued policy law for standard
+        homeowner policies (see the &ldquo;Valued policy laws&rdquo; bullet below for the CA
+        framework), so the absorption argument in California rests on illusory coverage,
+        contra proferentem, and trade standard grounds rather than on a valued-policy statute.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -225,13 +229,21 @@ export default function Content() {
           same problem.
         </li>
         <li>
-          <strong>Valued policy laws.</strong> In states like Florida, California, and others with
-          valued policy statutes, the insurer must pay the full policy limit on a covered total
-          loss. Subtracting the deductible from the limit on a total loss violates that statutory
-          mandate. Florida&rsquo;s valued policy law (Fla. Stat. &sect; 627.702) is the most
-          frequently cited, and Florida practitioners and commentators &mdash; including
-          Chip Merlin of the Property Insurance Coverage Law Blog &mdash; have argued that
-          deductible absorption is required to avoid contradicting the valued policy statute.
+          <strong>Valued policy laws (in states that have one).</strong> In states with a
+          general valued policy law applicable to fire/homeowner insurance &mdash; Florida is
+          the canonical example (Fla. Stat. &sect; 627.702) &mdash; the insurer must pay the
+          full policy limit on a covered total loss. Subtracting the deductible from the limit
+          on a total loss directly contradicts that statutory mandate. Florida practitioners and
+          commentators &mdash; including Chip Merlin of the Property Insurance Coverage Law
+          Blog &mdash; have argued that deductible absorption is required to avoid contradicting
+          the valued policy statute. California is <em>not</em> a Florida-style valued policy
+          state for standard homeowner policies; California&rsquo;s valued-policy regime
+          (Cal. Ins. Code &sect;&sect; 412, 2052&ndash;2058) applies only to policies expressly
+          drafted as &ldquo;valued policies&rdquo; (agreed-value contracts). For ordinary CA
+          open-form policies, &sect; 2051(b) caps recovery at policy limit or fair market value
+          (if ACV), whichever is less &mdash; so the valued-policy argument is not available in
+          California on a standard HO-3, and the absorption argument has to rest on the illusory
+          coverage, contra proferentem, and trade standard grounds discussed in this list.
         </li>
         <li>
           <strong>Contra proferentem.</strong> To the extent the policy language is ambiguous about
