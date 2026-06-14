@@ -365,13 +365,14 @@ export default function Content() {
           retained appraisers and aligned vendors raises bias-of-the-expert questions
           that California courts have addressed in cases such as <em>Chateau Chamberay
           Homeowners Assn. v. Associated Internat. Ins. Co.</em> (2001) 90 Cal.App.4th
-          335, where the court held that &ldquo;an insurer may not insulate itself from
-          a bad faith claim by relying on an expert&rsquo;s conclusions if those
-          conclusions are reached unreasonably,&rdquo; and that an insurer cannot avoid
-          bad-faith liability by hiring an expert whose opinion &ldquo;is not itself
-          reasonable or is the product of an inadequate investigation.&rdquo; Whether a
-          particular carrier&apos;s appraiser-selection practice crosses that line is a
-          fact question for the specific dispute.
+          335. The court there held, in substance, that summary judgment cannot be based
+          on the genuine dispute doctrine when the insurer dishonestly selects its
+          experts, the experts are themselves unreasonable, or the insurer fails to
+          conduct a thorough investigation &mdash; i.e., expert reliance is not a
+          safe harbor if the expert opinion is unreasonable or the underlying
+          investigation is inadequate. Whether a particular carrier&apos;s
+          appraiser-selection practice crosses that line is a fact question for the
+          specific dispute.
         </li>
         <li>
           <strong>Policy-form restrictions on appraisal scope.</strong> Some carriers
