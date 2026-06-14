@@ -287,8 +287,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Not all work on a residential property is a &ldquo;home improvement.&rdquo; California
         law distinguishes between a home improvement contract (governed by &sect; 7159) and a
-        service and repair contract (governed by &sect; 7159.14). The distinction matters because
-        service and repair contracts have somewhat less onerous requirements.
+        service and repair contract (governed by &sect;&sect; 7159.10 through 7159.14). The
+        distinction matters because service and repair contracts have somewhat less onerous
+        requirements.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A &ldquo;service and repair&rdquo; contract covers work where:
@@ -328,8 +329,8 @@ export default function Content() {
         days to begin work could cause further loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        B&amp;P Code &sect; 7159.14 provides a limited exception for emergency work. Under this
-        exception:
+        B&amp;P Code &sect;&sect; 7159.10 through 7159.14 provide a limited service-and-repair
+        framework that can apply to emergency work. Under this framework:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -576,9 +577,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, you have the absolute right to choose your own contractor for insurance
         repairs. The insurance company cannot require you to use their preferred vendor or
-        managed repair network. California Insurance Code &sect; 2071 and California Code of
-        Regulations, Title 10, &sect; 2695.9(d) make clear that the insurer cannot condition
-        payment on the policyholder&apos;s use of a particular contractor.
+        managed repair network. 10 CCR &sect; 2695.9(b) provides that no insurer shall require
+        the insured to have the property repaired by a specific individual or entity, and
+        &sect; 2695.9(c)(2) requires the insurer to disclose in writing when it recommends a
+        specific repair person and to remain responsible for restoring the property to its
+        pre-loss condition if the claimant accepts that recommendation. The insurer cannot
+        condition payment on the policyholder&apos;s use of a particular contractor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, the insurer can dispute the reasonableness of your contractor&apos;s pricing.
