@@ -141,11 +141,20 @@ export default function Content() {
         The problem with the insurer&apos;s position is obvious once you think about it. The policyholder purchased a flood endorsement specifically to cover flood damage. A flood caused the sewer system to back up into the home. The damage was caused by the flood &mdash; the flood was the efficient proximate cause. Applying the base form sewer exclusion to deny this claim would render the flood endorsement meaningless for one of the most common consequences of flooding. You cannot sell someone coverage for flood damage and then refuse to pay when the flood causes the exact type of damage that floods cause.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Courts have recognized this repeatedly. In cases like Rozumek v. Allstate, courts found that the flood endorsement controlled over the base form sewer exclusion because the endorsement was the more specific provision and because applying the exclusion would defeat the reasonable expectations of the insured. Similar reasoning appeared in Blumberg v. USAA, where the court held that a flood policy endorsement that covered &ldquo;direct physical loss caused by flood&rdquo; encompassed sewer intrusion caused by floodwaters because the sewer backup was a direct and inevitable consequence of the covered flood. The reasoning across these decisions is consistent: endorsements override conflicting base form language, and{' '}
+        Courts addressing the flood-endorsement vs. sewer-backup-exclusion pattern have
+        generally reached the same conclusion: where the policyholder paid an additional
+        premium for flood coverage and the flood caused the sewer system to back up into the
+        home, the flood endorsement (the more specific, more recent expression of the
+        parties&apos; agreement) controls over the base-form sewer-backup exclusion, and
+        denying the claim would defeat the insured&apos;s reasonable expectations. The
+        consistent reasoning is that endorsements override conflicting base form language,
+        and{' '}
         <Link href="/resources/exclusions" className="text-blue-700 underline hover:text-blue-900">
           exclusions are construed narrowly
         </Link>{' '}
-        against the insurer.
+        against the insurer. For a specific case in your jurisdiction with directly
+        analogous facts, consult a licensed attorney &mdash; case-specific precedent on this
+        intersection is fact-sensitive and varies by state.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The logic extends beyond the specific facts of each case. When a policyholder pays an additional premium for a flood endorsement, the policyholder&apos;s reasonable expectation is that flood damage will be covered &mdash; including the types of interior damage that floods routinely cause. Sewage intrusion through drains and toilets is one of the most predictable consequences of severe flooding. An insurer that sells a flood endorsement knowing that floods cause sewer intrusion, and then denies sewer intrusion claims under the base form exclusion, is taking the premium with one hand and denying the coverage with the other. Courts have consistently rejected that approach.
@@ -333,7 +342,7 @@ export default function Content() {
         Others will argue that the endorsement does not apply to the specific facts of your loss, or that the endorsement has its own exclusions or limitations that bar coverage. These are legitimate coverage questions that require careful analysis of the endorsement language and the facts of the loss. An endorsement that provides coverage for &ldquo;direct physical loss caused by flood&rdquo; may not cover gradual seepage. An equipment breakdown endorsement may exclude losses caused by lack of maintenance. These are fact-specific determinations, and the insurer is entitled to raise them.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        But some insurers will simply reassert the denial without addressing the endorsement at all. The second denial letter will repeat the same base form exclusion language and ignore the endorsement entirely, as if you had never raised it. If that happens, the insurer has a serious problem. Ignoring a policy provision that a policyholder has specifically identified and quoted is difficult to defend as a good-faith claims handling practice. California Insurance Code &sect; 790.03(h)(5) makes it an unfair claims practice to fail to affirm or deny coverage within a reasonable time after the insurer has completed its investigation. An investigation that ignores an endorsement the policyholder has identified is not a complete investigation.
+        But some insurers will simply reassert the denial without addressing the endorsement at all. The second denial letter will repeat the same base form exclusion language and ignore the endorsement entirely, as if you had never raised it. If that happens, the insurer has a serious problem. Ignoring a policy provision that a policyholder has specifically identified and quoted is difficult to defend as a good-faith claims handling practice. California Insurance Code &sect; 790.03(h)(4) makes it an unfair claims practice to fail to affirm or deny coverage of a claim within a reasonable time after proof of loss requirements have been completed and submitted by the insured. An investigation that ignores an endorsement the policyholder has identified is not a complete investigation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         At that point, the policyholder should consider filing a complaint with the California Department of Insurance, retaining a Public Adjuster to handle the claim, or consulting with an attorney about the insurer&apos;s obligations under the California Fair Claims Settlement Practices Regulations. An insurer that collects a premium for an endorsement and then refuses to acknowledge it when a claim arises is not handling the claim in good faith.
