@@ -286,14 +286,15 @@ export default function Content() {
         Right to Obtain the Investigation Report
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California&apos;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.7(d)),
-        you have the right to receive a written explanation of the basis for any claim decision. If the
-        insurer is relying on its C&amp;O investigation to deny, delay, or limit your claim, you are
-        entitled to know what the investigation found. Also, under 10 CCR &sect; 2695.7(b),
-        the insurer must provide, upon request, all documents related to the evaluation of the claim,
-        including expert reports. The insurer may resist providing the full C&amp;O report, but under
-        California law, you are entitled to the information the insurer relied on in making its
-        coverage determination.
+        Under California&apos;s Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.7(b)(1)),
+        a written denial must list all bases for the denial and the factual and legal grounds for each
+        reason given. If the insurer is relying on its C&amp;O investigation to deny, delay, or limit
+        your claim, the denial letter must identify what the investigation found and why that supports
+        the carrier&apos;s position. The carrier&apos;s file documentation obligations under 10 CCR
+        &sect; 2695.3 also require the insurer to maintain records of the documents it relied on in
+        its evaluation, including any C&amp;O reports. The insurer may resist providing the full
+        report voluntarily, but in litigation the report becomes producible through standard
+        discovery.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a broader discussion of your right to see the documents in your claim file, see our
@@ -410,11 +411,11 @@ export default function Content() {
           cases, terminating sanctions (striking pleadings or entering default).
         </li>
         <li>
-          <strong>Separate tort against third parties.</strong> While California does not recognize
-          a spoliation tort against litigation parties, third-party spoliation remains actionable
-          under certain circumstances. If a non-party to the litigation destroys evidence, the
-          affected party may have a claim for intentional interference with prospective economic
-          advantage or negligence.
+          <strong>No separate spoliation tort.</strong> California has refused to recognize an
+          independent tort for spoliation in both the first-party context (<em>Cedars-Sinai</em>) and
+          the third-party context (<em>Temple Community</em>, plus subsequent Court of Appeal
+          decisions extending the no-tort rule to negligent third-party spoliation). Remedies for
+          spoliation are therefore evidentiary and discovery-based rather than tort-based.
         </li>
       </ul>
 
