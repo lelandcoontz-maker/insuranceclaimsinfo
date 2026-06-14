@@ -79,11 +79,12 @@ export default function Content() {
           discussed in detail below.
         </li>
         <li>
-          <strong>Negligent misrepresentation:</strong> Under <em>B.L.M. v. Sabo &amp;
-          Deitsch</em> (1997) 55 Cal.App.4th 823, a landlord who makes affirmative
-          representations about the condition of the property &mdash; even without intent to
-          deceive &mdash; can be liable if the representations are false and the tenant
-          reasonably relies on them.
+          <strong>Negligent misrepresentation:</strong> Under California common law (see CACI
+          1903), a landlord who makes affirmative representations about the condition of the
+          property &mdash; even without intent to deceive &mdash; can be liable for negligent
+          misrepresentation if the statements were made without reasonable grounds for believing
+          them to be true and the tenant justifiably relied on them. This is distinct from
+          fraud, which requires actual knowledge of falsity or intent to deceive.
         </li>
       </ul>
 
@@ -414,9 +415,11 @@ export default function Content() {
           leases include an &ldquo;as is&rdquo; acceptance clause. While this may limit the
           tenant&rsquo;s claims for patent (visible) defects, California courts have held
           that an &ldquo;as is&rdquo; clause does not shield a landlord who actively conceals
-          or fails to disclose known latent defects. <em>Loughrin v. Superior Court</em>
-          (1993) 15 Cal.App.4th 1188 established that an &ldquo;as is&rdquo; clause does not
-          protect against fraud.
+          or fails to disclose known latent defects. <em>Lingsch v. Savage</em> (above) is the
+          foundational authority, and <em>Karoutas v. HomeFed Bank</em> (1991) 232 Cal.App.3d
+          767 reinforced the rule in the &ldquo;as is&rdquo; foreclosure-sale context &mdash;
+          the seller&apos;s knowledge of latent, material defects is not immunized by
+          &ldquo;as is&rdquo; language.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
