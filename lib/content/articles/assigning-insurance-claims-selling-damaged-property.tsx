@@ -128,10 +128,11 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, the right to assign a post-loss claim is particularly well protected.
-        California Insurance Code Section 520 provides that an insurance policy may be assigned after
-        a loss. California courts have repeatedly affirmed that anti-assignment clauses do not
-        prevent the assignment of rights that have already vested &mdash; that is, rights arising
-        from a loss that has already occurred.
+        California Insurance Code Section 520 provides that &ldquo;an agreement not to transfer
+        the claim of the insured against the insurer after a loss has happened, is void if made
+        before the loss.&rdquo; The California Supreme Court applied &sect; 520 in <em>Fluor Corp.
+        v. Superior Court</em> (2015) 61 Cal.4th 1175, holding that anti-assignment clauses
+        cannot bar the post-loss transfer of a claim that has already accrued.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
