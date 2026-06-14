@@ -740,12 +740,12 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 520 provides that &quot;an agreement not to transfer
-        the claim of the insured against the insurer after a loss has occurred is void as
-        against public policy.&quot; This statute codifies the principle that post-loss
-        assignments cannot be prohibited by contract. Even if the policy contains an
-        anti-assignment clause, that clause cannot prevent the policyholder from assigning
-        a claim that has already arisen.
+        California Insurance Code &sect; 520 provides that &ldquo;an agreement not to transfer
+        the claim of the insured against the insurer after a loss has happened, is void if made
+        before the loss.&rdquo; This statute, on the books since 1872, codifies the principle
+        that post-loss assignments cannot be barred by a pre-loss contractual restriction. Even
+        if the policy contains an anti-assignment clause, that clause cannot prevent the
+        policyholder from assigning a claim that has already arisen.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -951,11 +951,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Carriers will routinely raise the anti-assignment clause as a defense to any lawsuit
         brought by a contractor-assignee. Be prepared to address this head-on. California
-        Insurance Code &sect; 520 and <em>Henkel v. Hartford</em> provide the foundation for
-        the argument that post-loss assignments are enforceable regardless of anti-assignment
-        clauses. This is well-settled law, but carriers continue to raise the defense, often
-        successfully when opposing counsel is unfamiliar with the distinction between pre-loss
-        and post-loss assignments.
+        Insurance Code &sect; 520 and <em>Fluor Corp. v. Superior Court</em> (2015) 61 Cal.4th
+        1175 provide the foundation for the argument that post-loss assignments are enforceable
+        regardless of anti-assignment clauses. (<em>Henkel</em> reached the opposite result, but
+        <em> Fluor</em> applied &sect; 520 to disapprove <em>Henkel</em> to the extent
+        inconsistent.) Carriers continue to raise the defense, often successfully when opposing
+        counsel is unfamiliar with the distinction between pre-loss and post-loss assignments or
+        with the post-<em>Fluor</em> reading of &sect; 520.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
