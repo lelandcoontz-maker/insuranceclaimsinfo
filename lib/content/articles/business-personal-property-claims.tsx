@@ -186,10 +186,14 @@ export default function Content() {
           means the insurer owes the wholesale cost, not the retail price.
         </li>
         <li>
-          <strong>At selling price:</strong> Some policies, particularly those endorsed
-          for retailers, value stock at selling price. This gives the business the full
-          retail value, accounting for the lost profit margin. The selling price
-          endorsement (CP 99 30) provides this coverage.
+          <strong>At selling price:</strong> Some policies value stock at selling price,
+          giving the business the full sale value and accounting for the lost profit
+          margin. The ISO Manufacturer&apos;s Selling Price &mdash; Finished &ldquo;Stock&rdquo;
+          Only endorsement (CP 99 30) provides this for finished stock that the insured
+          actually manufactures. For retailers and wholesalers (who do not manufacture
+          the goods they sell), selling-price valuation is typically obtained through a
+          carrier&apos;s proprietary endorsement rather than a standard ISO form, and
+          terms vary by carrier.
         </li>
         <li>
           <strong>Work in progress:</strong> WIP is typically valued at the cost of raw
