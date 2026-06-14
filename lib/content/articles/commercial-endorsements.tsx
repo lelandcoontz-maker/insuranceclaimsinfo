@@ -121,22 +121,22 @@ export default function Content() {
       </p>
 
       {/* ============================================================ */}
-      {/* CP 04 15 — UTILITY SERVICES (DIRECT DAMAGE) */}
+      {/* CP 04 17 — UTILITY SERVICES (DIRECT DAMAGE) */}
       {/* ============================================================ */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        CP&nbsp;04&nbsp;15 &mdash; Utility Services (Direct Damage)
+        CP&nbsp;04&nbsp;17 &mdash; Utility Services (Direct Damage)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The base commercial property form covers direct physical loss to covered property on the
         insured premises. But what happens when a utility failure <em>off</em> the premises causes
         damage to property <em>on</em> the premises? A power surge from an off-site transformer
         destroys HVAC equipment. A water main break three blocks away causes pressure loss that
-        damages a cooling system. Without CP&nbsp;04&nbsp;15, these losses fall into a coverage gap
+        damages a cooling system. Without CP&nbsp;04&nbsp;17, these losses fall into a coverage gap
         because the peril originated off-premises.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        CP&nbsp;04&nbsp;15 closes that gap by extending direct damage coverage to losses caused by
+        CP&nbsp;04&nbsp;17 closes that gap by extending direct damage coverage to losses caused by
         the interruption of utility services originating away from the described premises. However,
         the endorsement is not a blanket grant of coverage &mdash; it is highly modular, and the
         insured must specifically elect which utility services are covered:
@@ -158,7 +158,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Overhead Transmission Lines Must Be Specifically Elected">
         <p>
-          This is a trap that catches businesses every wildfire and storm season. CP&nbsp;04&nbsp;15
+          This is a trap that catches businesses every wildfire and storm season. CP&nbsp;04&nbsp;17
           contains a separate checkbox for overhead transmission lines. If that option is not
           specifically selected, losses caused by downed power lines, fallen communication cables, or
           other overhead transmission line failures are <strong>not covered</strong> &mdash; even if
@@ -169,7 +169,7 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        CP&nbsp;04&nbsp;15 covers only <em>direct physical damage</em> to covered property.
+        CP&nbsp;04&nbsp;17 covers only <em>direct physical damage</em> to covered property.
         It does <strong>not</strong> cover business income loss or extra expense resulting from
         the utility interruption. For time element coverage, you need the companion
         endorsement &mdash; CP&nbsp;15&nbsp;45.
@@ -183,21 +183,21 @@ export default function Content() {
         CP&nbsp;15&nbsp;45 &mdash; Utility Services (Time Element)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        CP&nbsp;15&nbsp;45 is the time element counterpart to CP&nbsp;04&nbsp;15. Where
-        CP&nbsp;04&nbsp;15 covers physical damage caused by off-premises utility failure,
+        CP&nbsp;15&nbsp;45 is the time element counterpart to CP&nbsp;04&nbsp;17. Where
+        CP&nbsp;04&nbsp;17 covers physical damage caused by off-premises utility failure,
         CP&nbsp;15&nbsp;45 extends business income and extra expense coverage to losses sustained
         when utility service interruptions shut down or impair business operations &mdash; even when
         there is no direct physical damage to the insured&rsquo;s own property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The structure mirrors CP&nbsp;04&nbsp;15 exactly. The insured must elect which services are
+        The structure mirrors CP&nbsp;04&nbsp;17 exactly. The insured must elect which services are
         covered (water, power, communication) and must separately elect overhead transmission line
-        coverage. The same gaps that exist under CP&nbsp;04&nbsp;15 exist here &mdash; if overhead
+        coverage. The same gaps that exist under CP&nbsp;04&nbsp;17 exist here &mdash; if overhead
         lines are not checked, a windstorm that topples power lines and closes a business for a week
         produces zero business income recovery under this endorsement.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Best practice:</strong> CP&nbsp;04&nbsp;15 and CP&nbsp;15&nbsp;45 should always be
+        <strong>Best practice:</strong> CP&nbsp;04&nbsp;17 and CP&nbsp;15&nbsp;45 should always be
         purchased together with identical service elections. Buying direct damage coverage without
         time element coverage (or vice versa) leaves a gap that only becomes apparent mid-claim.
         A business that suffers $20,000 in equipment damage from a power surge but $200,000 in lost
@@ -498,7 +498,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         For endorsements that require specific elections (CP&nbsp;04&nbsp;05 Coverages A/B/C,
-        CP&nbsp;04&nbsp;15 and CP&nbsp;15&nbsp;45 service selections, CP&nbsp;14&nbsp;40 sign
+        CP&nbsp;04&nbsp;17 and CP&nbsp;15&nbsp;45 service selections, CP&nbsp;14&nbsp;40 sign
         schedules), check the declarations page and the endorsement itself to confirm every
         selection was made. Blank checkboxes and missing limits mean the coverage was not elected
         &mdash; even if you asked for it and even if you are paying premium for it.
@@ -517,7 +517,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Does the business depend on utility services?</strong> You need
-          CP&nbsp;04&nbsp;15 and CP&nbsp;15&nbsp;45 with all relevant services elected, including
+          CP&nbsp;04&nbsp;17 and CP&nbsp;15&nbsp;45 with all relevant services elected, including
           overhead transmission lines.
         </li>
         <li>
@@ -551,7 +551,7 @@ export default function Content() {
           A, B, and C &mdash; elected with separate limits?&rdquo;
         </li>
         <li>
-          &ldquo;Are utility services endorsements (CP&nbsp;04&nbsp;15 and CP&nbsp;15&nbsp;45)
+          &ldquo;Are utility services endorsements (CP&nbsp;04&nbsp;17 and CP&nbsp;15&nbsp;45)
           included, and do they cover overhead transmission lines?&rdquo;
         </li>
         <li>

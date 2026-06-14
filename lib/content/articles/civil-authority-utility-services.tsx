@@ -372,7 +372,7 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
-        Utility Services &mdash; Direct Damage (CP 04 15)
+        Utility Services &mdash; Direct Damage (CP 04 17)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The standard ISO Special Form (CP 10 30) <strong>excludes</strong> loss caused by utility
@@ -380,15 +380,15 @@ export default function Content() {
         failure originates at the utility company&rsquo;s facility or on a transmission line miles
         from your building, and that failure causes physical damage to your property, the base
         policy does not cover it. The{' '}
-        <strong>Utility Services &mdash; Direct Damage endorsement (CP 04 15)</strong> buys back
+        <strong>Utility Services &mdash; Direct Damage endorsement (CP 04 17)</strong> buys back
         this excluded coverage.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        What CP 04 15 Covers
+        What CP 04 17 Covers
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        CP 04 15 covers <strong>direct physical damage</strong> to the insured&rsquo;s property
+        CP 04 17 covers <strong>direct physical damage</strong> to the insured&rsquo;s property
         resulting from the interruption of utility services that originate off-premises. The key
         word is <em>direct damage</em> &mdash; actual physical harm to insured property caused by
         the utility interruption, not lost income.
@@ -416,7 +416,7 @@ export default function Content() {
         Selecting Your Utility Services
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        CP 04 15 is not a blanket endorsement. You must <strong>specifically elect</strong> which
+        CP 04 17 is not a blanket endorsement. You must <strong>specifically elect</strong> which
         utility services you want covered. The endorsement schedule requires you to select from:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
@@ -442,7 +442,7 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Overhead Transmission Lines: The Hidden Exclusion">
         <p>
-          Even when you elect power supply services under CP 04 15, the endorsement{' '}
+          Even when you elect power supply services under CP 04 17, the endorsement{' '}
           <strong>excludes overhead transmission lines by default</strong> unless you specifically
           elect coverage for them. This is a separate election on the endorsement schedule. If a
           windstorm knocks down overhead power lines serving your building and the resulting power
@@ -457,9 +457,9 @@ export default function Content() {
         Utility Services &mdash; Time Element (CP 15 45)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While CP 04 15 covers direct physical damage from utility interruptions, the{' '}
+        While CP 04 17 covers direct physical damage from utility interruptions, the{' '}
         <strong>Utility Services &mdash; Time Element endorsement (CP 15 45)</strong> covers the
-        business income and extra expenses you incur during the interruption. Where CP 04 15 pays
+        business income and extra expenses you incur during the interruption. Where CP 04 17 pays
         for the spoiled inventory, CP 15 45 pays for the revenue you lose while the power is out
         and you cannot operate.
       </p>
@@ -470,7 +470,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         CP 15 45 covers <strong>lost business income</strong> and{' '}
         <strong>extra expenses</strong> resulting from the interruption of utility services
-        originating off-premises. The structure mirrors CP 04 15 &mdash; you must select which
+        originating off-premises. The structure mirrors CP 04 17 &mdash; you must select which
         utility services you want covered (water, communication, power) and must separately elect
         coverage for overhead transmission lines.
       </p>
@@ -490,12 +490,12 @@ export default function Content() {
         Why You Need Both Endorsements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        CP 04 15 and CP 15 45 cover different types of losses from the same event. Using the
+        CP 04 17 and CP 15 45 cover different types of losses from the same event. Using the
         refrigeration example:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>CP 04 15 (Direct Damage)</strong> covers the value of the spoiled food inventory
+          <strong>CP 04 17 (Direct Damage)</strong> covers the value of the spoiled food inventory
           &mdash; the physical property that was destroyed because the power went out.
         </li>
         <li>
@@ -505,7 +505,7 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Without CP 04 15, the spoiled inventory is uninsured. Without CP 15 45, the lost revenue
+        Without CP 04 17, the spoiled inventory is uninsured. Without CP 15 45, the lost revenue
         during the outage is uninsured. A complete utility services protection strategy requires
         both endorsements with all relevant services elected, including overhead transmission
         lines.
@@ -555,7 +555,7 @@ export default function Content() {
 
       <CalloutBox variant="info" title="What the Endorsements Buy Back">
         <p>
-          CP 04 15 and CP 15 45 do not create new coverage out of thin air. They{' '}
+          CP 04 17 and CP 15 45 do not create new coverage out of thin air. They{' '}
           <strong>buy back</strong> coverage that the base Special Form (CP 10 30) specifically
           excludes. Think of them as removing the off-premises utility exclusion for the services
           you elect. Without the endorsements, any utility failure that does not originate inside
@@ -606,8 +606,8 @@ export default function Content() {
         premises. You can still physically access your building &mdash; you just have no power.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Utility service endorsements (CP 04 15 and CP 15 45) are your coverage.</strong>
-        {' '}If you have both endorsements with power supply services elected, CP 04 15 covers the
+        <strong>Utility service endorsements (CP 04 17 and CP 15 45) are your coverage.</strong>
+        {' '}If you have both endorsements with power supply services elected, CP 04 17 covers the
         spoiled inventory (direct damage) and CP 15 45 covers the four days of lost business income
         (time element). But only if you also elected coverage for overhead transmission lines, since
         the shutoff is implemented by de-energizing the transmission and distribution system.
@@ -682,7 +682,7 @@ export default function Content() {
           just &ldquo;complete prevention.&rdquo;
         </li>
         <li>
-          <strong>Purchase both utility service endorsements.</strong> Add CP 04 15 (Direct Damage)
+          <strong>Purchase both utility service endorsements.</strong> Add CP 04 17 (Direct Damage)
           and CP 15 45 (Time Element). These are not expensive relative to the coverage they
           provide.
         </li>
@@ -753,7 +753,7 @@ export default function Content() {
             </tr>
             <tr>
               <td className="border border-gray-300 px-4 py-2">Off-premises utility failure damages your property</td>
-              <td className="border border-gray-300 px-4 py-2">Utility Services &mdash; Direct Damage (CP 04 15)</td>
+              <td className="border border-gray-300 px-4 py-2">Utility Services &mdash; Direct Damage (CP 04 17)</td>
               <td className="border border-gray-300 px-4 py-2">Endorsement required</td>
             </tr>
             <tr className="bg-gray-50">
@@ -763,7 +763,7 @@ export default function Content() {
             </tr>
             <tr>
               <td className="border border-gray-300 px-4 py-2">PSPS power shutoff spoils inventory and shuts down operations</td>
-              <td className="border border-gray-300 px-4 py-2">CP 04 15 + CP 15 45 (both needed)</td>
+              <td className="border border-gray-300 px-4 py-2">CP 04 17 + CP 15 45 (both needed)</td>
               <td className="border border-gray-300 px-4 py-2">Both endorsements required</td>
             </tr>
           </tbody>
