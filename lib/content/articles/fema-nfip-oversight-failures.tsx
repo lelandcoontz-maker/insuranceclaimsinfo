@@ -40,12 +40,9 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         In 2016, the Department of Homeland Security&apos;s Office of Inspector General (DHS
-        OIG) published a report titled{' '}
-        <strong>
-          &ldquo;FEMA Does Not Provide Adequate Oversight of Its National Flood Insurance
-          Write Your Own Program&rdquo; (OIG-16-47)
-        </strong>
-        . The title alone tells you the conclusion. But the details are even more concerning.
+        OIG) published report <strong>OIG-16-47</strong>, which examined FEMA&apos;s oversight
+        of the National Flood Insurance Program&apos;s Write Your Own (WYO) program and
+        concluded that the oversight is inadequate. The report&apos;s findings tell the story.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Inspector General investigated whether FEMA had adequate controls in place to
@@ -201,13 +198,10 @@ export default function Content() {
         About This Report
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The findings discussed in this article are based on the{' '}
-        <strong>
-          Department of Homeland Security, Office of Inspector General report &ldquo;FEMA
-          Does Not Provide Adequate Oversight of Its National Flood Insurance Write Your Own
-          Program&rdquo; (OIG-16-47)
-        </strong>
-        , published in 2016. The DHS OIG is an independent oversight body responsible for
+        The findings discussed in this article are based on the <strong>Department of Homeland
+        Security, Office of Inspector General report OIG-16-47</strong>, published in 2016 and
+        addressing FEMA&apos;s oversight of the National Flood Insurance Program&apos;s Write
+        Your Own (WYO) program. The DHS OIG is an independent oversight body responsible for
         investigating fraud, waste, and abuse in DHS programs, including FEMA and the National
         Flood Insurance Program.
       </p>
