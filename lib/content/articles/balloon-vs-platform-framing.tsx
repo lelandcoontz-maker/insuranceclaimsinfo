@@ -208,8 +208,8 @@ export default function Content() {
       <CalloutBox variant="tip" title="Check Your Ordinance or Law Limits">
         <p>
           Many homeowners policies include Ordinance or Law coverage, but the limits vary. Some
-          policies include it as a percentage of Coverage A (dwelling coverage), while others
-          require it to be purchased separately. If your home is balloon-framed, the cost of
+          policies include it as a percentage of the Dwelling limit, while others require it to be
+          purchased separately. If your home is balloon-framed, the cost of
           adding fireblocks throughout the structure during a major repair can be substantial.
           Review your{' '}
           <Link href="/resources/code-upgrade-coverage" className="text-blue-700 underline hover:text-blue-900">
