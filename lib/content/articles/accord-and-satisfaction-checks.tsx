@@ -148,45 +148,56 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3 mt-6">
-        California Civil Code &sect; 1526
+        California Civil Code &sect; 1526 and Commercial Code &sect; 3311
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Civil Code &sect; 1526 directly addresses restrictive endorsements on
-        checks. The statute gives the payee a clear path to cash a check marked
-        &ldquo;payment in full&rdquo; (or similar) without giving up further recovery on the
-        underlying dispute. Under &sect; 1526(b), an insured can preserve the claim by
-        either:
-      </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
-        <li>
-          <strong>Striking out the restrictive language</strong> before depositing the
-          check (for example, drawing a line through &ldquo;payment in full&rdquo; on the
-          face or back of the check before endorsing); or
-        </li>
-        <li>
-          <strong>Sending the obligor (the insurer) written notice within a reasonable
-          time</strong> stating that the payment was not accepted as full settlement and
-          identifying the claim being preserved. (Practitioners commonly recommend sending
-          the notice promptly &mdash; ideally before depositing the check, and at the
-          latest within a short, defined window after deposit &mdash; to avoid disputes
-          over what counts as &ldquo;reasonable.&rdquo;)
-        </li>
-      </ul>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        These two paths are statutory safe harbors: when either is satisfied, the act of
-        cashing the check does not by itself create an accord and satisfaction under
-        California law. Whether a particular factual situation falls inside one of these
-        safe harbors &mdash; and whether the dispute itself is the kind of bona fide
-        dispute the common-law accord doctrine requires &mdash; can be fact-specific and
-        is a question for a California-licensed attorney where the stakes are significant.
+        Two California statutes address restrictive endorsements on checks, and they do
+        not say the same thing. Both should be on a policyholder&apos;s radar.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The practical effect: even if the insurer prints restrictive language on the check,
-        depositing it does not automatically bar further recovery under California law,
-        provided the insured uses one of the &sect; 1526(b) safe harbors. The remaining
-        questions in any dispute typically focus on whether the safe harbor was properly
-        invoked and whether the underlying dispute meets the common-law bona fide dispute
-        requirement.
+        <strong>California Civil Code &sect; 1526(a)</strong> provides that when a check
+        is tendered in full discharge of a disputed or unliquidated claim with
+        &ldquo;payment in full&rdquo; (or similar) notation, the acceptance of the check
+        does <em>not</em> constitute an accord and satisfaction if the creditor
+        &ldquo;protests against accepting the tender in full payment by striking out or
+        otherwise deleting that notation&rdquo; or if the acceptance was inadvertent or
+        without knowledge of the notation. The strike-out remedy is the statute&apos;s
+        core protection. (Subdivisions (b) and (c) of &sect; 1526 carve out narrow
+        exceptions for creditor composition or extension agreements and for checks issued
+        in conjunction with a release &mdash; situations that do not typically apply to
+        ordinary insurance claim payments.)
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>California Commercial Code &sect; 3311</strong> &mdash; California&apos;s
+        adoption of UCC &sect; 3-311 &mdash; was enacted in 1992 and addresses the same
+        issue from a different direction. Under &sect; 3311, where there is a bona fide
+        dispute over an unliquidated claim and the debtor tenders a check in good faith
+        with a conspicuous statement that it is in full satisfaction of the claim, the
+        claim is discharged when the creditor obtains payment of the check &mdash;
+        regardless of whether the creditor strikes out the &ldquo;payment in full&rdquo;
+        notation. The creditor&apos;s remedy under &sect; 3311 is to <em>tender
+        repayment</em> of the amount of the check within 90 days, in which case there is
+        no accord and satisfaction.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        These two statutes are in tension. Courts and practitioners have generally
+        treated &sect; 3311 as the operative framework for accord-and-satisfaction by
+        check, on the theory that the later, more specific Commercial Code provision
+        supersedes &sect; 1526 in that context. The conservative practice for a
+        policyholder confronted with a check bearing restrictive language is therefore
+        to <em>not deposit it</em> until either the language is removed or counsel has
+        evaluated whether striking it out, tendering repayment within 90 days, or
+        rejecting the check outright is the appropriate response.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two threshold elements still constrain the application of either statute: the
+        underlying claim must be <strong>disputed or unliquidated</strong>, and the
+        check must contain a <strong>conspicuous statement</strong> that it is tendered
+        in full satisfaction. Routine partial-payment checks on an undisputed claim
+        do not meet these elements and do not create an accord and satisfaction under
+        either statute, no matter what generic language appears on the back. That is
+        why ordinary claim checks &mdash; ACV advances, ALE reimbursements, undisputed
+        partial payments &mdash; can almost always be deposited safely.
       </p>
 
       {/* ── Why It's Rare ─────────────────────────────────────────── */}
@@ -362,7 +373,8 @@ export default function Content() {
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
           <h4 className="font-bold text-[#1F3964] mb-2">Statutes</h4>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
-            <li>California Civil Code &sect; 1526 (accord and satisfaction / restrictive endorsements)</li>
+            <li>California Civil Code &sect; 1526 (strike-out remedy for restrictive endorsements)</li>
+            <li>California Commercial Code &sect; 3311 (UCC 3-311 accord and satisfaction by instrument; 90-day repayment)</li>
             <li>California Insurance Code &sect; 790.03(h) (unfair claims settlement practices)</li>
             <li>California Insurance Code &sect; 2071 (standard fire policy)</li>
           </ul>
