@@ -336,9 +336,10 @@ export default function Content() {
           Superior Court, where jury trials are available and state procedural rules apply
         </li>
         <li>
-          <strong>Attorney&rsquo;s fees</strong> &mdash; available in certain circumstances
-          under state law, including Insurance Code &sect; 11580 for certain unreasonable
-          denials
+          <strong>Attorney&rsquo;s fees</strong> &mdash; under <em>Brandt v. Superior Court</em>
+          (1985) 37 Cal.3d 813, attorney&rsquo;s fees incurred to obtain the policy benefits
+          wrongfully withheld by the insurer are recoverable as a component of tort damages in a
+          first-party bad-faith case
         </li>
         <li>
           <strong>Contra proferentem</strong> &mdash; California courts construe ambiguous
