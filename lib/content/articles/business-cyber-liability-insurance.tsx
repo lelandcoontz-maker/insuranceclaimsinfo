@@ -69,15 +69,16 @@ export default function Content() {
         <li>
           <strong>Commercial General Liability (CGL) policies.</strong> The CGL covers
           &ldquo;bodily injury&rdquo; and &ldquo;property damage&rdquo; caused by an
-          &ldquo;occurrence.&rdquo; Electronic data is not &ldquo;tangible property,&rdquo; so
-          its loss or corruption does not constitute &ldquo;property damage&rdquo; under the CGL.
-          The &ldquo;personal and advertising injury&rdquo; coverage (Other Structures) includes
-          offenses like &ldquo;oral or written publication of material that violates a
-          person&rsquo;s right of privacy,&rdquo; which some policyholders have argued covers
-          data breaches. Courts have largely rejected this argument, and ISO added exclusion
-          <strong> CG 21 06</strong> (Exclusion &mdash; Access or Disclosure of Confidential or
-          Personal Information) and <strong>CG 21 07</strong> (Exclusion &mdash; Recording and
-          Distribution of Material or Information in Violation of Law) to eliminate any ambiguity.
+          &ldquo;occurrence&rdquo; under Coverage A. Electronic data is not &ldquo;tangible
+          property,&rdquo; so its loss or corruption does not constitute &ldquo;property
+          damage&rdquo; under the CGL. The CGL&rsquo;s Coverage B &mdash; &ldquo;Personal and
+          Advertising Injury&rdquo; &mdash; includes offenses like &ldquo;oral or written
+          publication, in any manner, of material that violates a person&rsquo;s right of
+          privacy,&rdquo; which some policyholders have argued covers data breaches. Courts
+          have largely rejected this argument, and ISO added exclusion <strong>CG 21 06</strong>
+          (Exclusion &mdash; Access or Disclosure of Confidential or Personal Information) and{' '}
+          <strong>CG 21 07</strong> (Exclusion &mdash; Recording and Distribution of Material
+          or Information in Violation of Law) to eliminate any ambiguity.
         </li>
         <li>
           <strong>Business income coverage.</strong> Even if a network outage causes a complete
