@@ -180,8 +180,8 @@ export default function Content() {
         find that the same aerial data has been shared with or independently obtained by other
         insurers, making it difficult to find replacement coverage at any price. The alternative
         may be the{' '}
-        <Link href="/resources/recording-insurance-inspections" className="text-[#2E74B5] underline">
-          FAIR Plan
+        <Link href="/resources/california-fair-plan" className="text-[#2E74B5] underline">
+          California FAIR Plan
         </Link>{' '}
         or other market of last resort, at significantly higher premiums with reduced coverage.
       </p>
@@ -290,10 +290,16 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Non-renewal notice requirements.</strong> California law requires insurers to
-          provide advance notice of non-renewal (typically 75 days for standard non-renewals and
-          45 days for certain wildfire-related situations). The non-renewal notice must state the
-          reasons for the decision, giving the policyholder an opportunity to respond.
+          <strong>Non-renewal notice requirements.</strong> California Insurance Code &sect;
+          678(c)(1) requires the insurer to give at least 75 days&rsquo; advance written notice
+          of non-renewal for residential property insurance policies expiring on or after July 1,
+          2020. The non-renewal notice must state the reasons for the decision, giving the
+          policyholder an opportunity to respond. Wildfire-related non-renewals do not have a
+          separate (shorter) notice rule &mdash; they are governed by the moratorium framework
+          in Insurance Code &sect; 675.1, which prohibits cancellation or non-renewal for one
+          year on residential policies for properties within or adjacent to a fire perimeter
+          after a Governor-declared state of emergency, and requires insurers to offer renewal
+          for at least two annual renewal periods after a total loss from a declared disaster.
         </li>
         <li>
           <strong>Right to request inspection.</strong> Policyholders who receive non-renewal
