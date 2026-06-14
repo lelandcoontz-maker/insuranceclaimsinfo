@@ -219,31 +219,34 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        10 CCR &sect; 2695.7(h): The Undisputed-Amount Rule
+        10 CCR &sect; 2695.7(b) and (h): The Partial-Payment Mechanism
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 2695.7(h) of the California Code of Regulations (Title 10) is one of the most
-        important and most frequently violated provisions in{' '}
+        Two subsections of{' '}
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           California&apos;s Fair Claims Settlement Practices regulations
-        </Link>
-        . It provides that when a claim has both disputed and undisputed components,
-        the insurer must pay the undisputed amount without delay, even if the disputed portion is
-        still being negotiated.
+        </Link>{' '}
+        work together to create what is functionally a mandatory partial-payment mechanism.
+        Section 2695.7(b) requires the insurer to accept or deny a claim &ldquo;in whole or in
+        part&rdquo; within 40 calendar days of receiving proof of claim. Section 2695.7(h) then
+        requires the insurer to tender payment of the accepted portion within 30 calendar days of
+        that acceptance. Read together, the two provisions mean a carrier cannot withhold payment
+        of the portion it has accepted while it continues to investigate or dispute the remainder.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Here is why this matters: in most first-party property claims, there is
         some amount that is clearly owed even if the total is in dispute. The carrier and the
         policyholder may disagree about whether the claim is worth $80,000 or $120,000, but neither
-        side disputes that it is worth at least $80,000. Under Section 2695.7(h), the carrier must
-        pay that $80,000 promptly &mdash; it cannot hold the entire payment hostage while it
-        negotiates about the remaining $40,000.
+        side disputes that it is worth at least $80,000. Under &sect; 2695.7(b)&apos;s in-whole-or-in-part
+        framework, the carrier can accept the $80,000 portion now and continue investigating the
+        remainder. Under &sect; 2695.7(h), once that partial acceptance is made, payment must follow
+        within 30 days.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This rule creates what is functionally an advance payment mechanism, even in situations where
-        the carrier is not voluntarily issuing advances. The carrier does not have the option to
-        withhold all payment until it has resolved every dispute. If any portion of the claim is
-        undisputed, that portion must be paid now.
+        The practical effect is an advance-payment obligation that operates even when the carrier
+        is not voluntarily issuing advances. The carrier does not have the option to withhold all
+        payment until it has resolved every dispute. If any portion of the claim is acknowledged as
+        owed, the regulation requires acceptance of that portion and tender of payment promptly.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In practice, carriers violate this requirement constantly. They present a take-it-or-leave-it
@@ -270,9 +273,11 @@ export default function Content() {
           own number immediately, while reserving your right to dispute the difference.
         </li>
         <li>
-          <strong>Cite the regulation by number.</strong> Reference 10 CCR &sect; 2695.7(h) specifically
-          in your written demand. This puts the carrier on notice that you know the rule and that any
-          continued withholding may constitute an unfair claims practice.
+          <strong>Cite the regulations by number.</strong> Reference 10 CCR &sect; 2695.7(b) and (h)
+          specifically in your written demand &mdash; (b) for the in-whole-or-in-part acceptance
+          framework, (h) for the 30-day tender deadline once acceptance is made. This puts the
+          carrier on notice that you know the rule and that any continued withholding may constitute
+          an unfair claims practice.
         </li>
         <li>
           <strong>Make clear that accepting payment is not accepting the total.</strong> State
@@ -531,8 +536,8 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Put every request in writing.</strong> Demand the advance in a letter or email that
-          specifically cites 10 CCR &sect; 2695.7(h) and explains why the amount is undisputed. Keep
-          a copy. See our article on{' '}
+          specifically cites 10 CCR &sect; 2695.7(b) and (h) and explains why the carrier can accept
+          a portion now. Keep a copy. See our article on{' '}
           <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
             California Fair Claims regulations
           </Link>{' '}
@@ -568,13 +573,13 @@ export default function Content() {
         until every coverage has been resolved.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In a typical homeowner&apos;s claim, there are multiple coverages at play: Coverage A
-        (dwelling), Coverage B (other structures), Coverage C (personal property), and Coverage D
-        (ALE). Each coverage is separate. The carrier may have completed its investigation of the
-        building damage and arrived at a Coverage A number, while still investigating the contents
-        claim or the ALE. Under the undisputed-amount rule, the carrier must pay the completed
-        coverages promptly. It cannot hold the dwelling payment hostage until the contents inventory
-        is finalized.
+        In a typical homeowner&apos;s claim, there are multiple coverages at play: Dwelling, Other
+        Structures, Personal Property, and Loss of Use (ALE). Each coverage is separate. The carrier
+        may have completed its investigation of the building damage and arrived at a Dwelling
+        number, while still investigating the Personal Property claim or the ALE. Under
+        &sect; 2695.7(b) and (h), the carrier must accept the completed coverages in part and
+        tender payment promptly. It cannot hold the Dwelling payment hostage until the Personal
+        Property inventory is finalized.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Yet carriers routinely do exactly that. They hold back the building payment &ldquo;until the
@@ -742,8 +747,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Do not wait for the carrier to volunteer an advance. The moment you have a covered loss that
         will require significant spending before the claim is resolved, send a written demand for an
-        advance. Cite your policy, cite 10 CCR &sect; 2695.7(h), and explain specifically what you
-        need the money for. The written demand starts the clock and creates a record.
+        advance. Cite your policy, cite 10 CCR &sect; 2695.7(b) and (h), and explain specifically
+        what you need the money for. The written demand starts the clock and creates a record.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -771,11 +776,12 @@ export default function Content() {
         4. Frame Every Request in Terms of the Undisputed Amount
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The phrase &ldquo;undisputed amount&rdquo; carries legal weight in California. When you
-        frame your request as a demand for the undisputed amount, you are invoking a specific
-        regulatory obligation that the carrier knows it must comply with. Do not ask for
-        &ldquo;some money&rdquo; or an &ldquo;advance.&rdquo; Ask for &ldquo;the undisputed
-        amount, as required by 10 CCR &sect; 2695.7(h).&rdquo;
+        The phrase &ldquo;accepted in part&rdquo; carries legal weight in California. When you
+        frame your request as a demand for partial acceptance and tender of the accepted amount,
+        you are invoking a specific regulatory obligation that the carrier must comply with. Do not
+        ask for &ldquo;some money&rdquo; or an &ldquo;advance.&rdquo; Ask for &ldquo;partial
+        acceptance and tender of the accepted portion, as required by 10 CCR &sect; 2695.7(b) and
+        (h).&rdquo;
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -924,9 +930,10 @@ export default function Content() {
           and the result is that policyholders now wait much longer for any payment at all.
         </li>
         <li>
-          California law (10 CCR &sect; 2695.7[h]) requires carriers to pay undisputed amounts
-          promptly, even while disputed amounts are being negotiated. This effectively creates a
-          mandatory advance payment mechanism in most claims.
+          California law (10 CCR &sect; 2695.7(b) and (h)) requires carriers to accept claims
+          &ldquo;in whole or in part&rdquo; within 40 days and to tender payment of any accepted
+          portion within 30 days. This effectively creates a mandatory partial-payment mechanism
+          in most claims, even while disputed portions remain under investigation.
         </li>
         <li>
           The carrier&apos;s refusal to advance ALE payments can constitute bad faith when the
