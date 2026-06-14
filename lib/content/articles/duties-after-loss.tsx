@@ -363,10 +363,10 @@ export default function Content() {
         et seq.), the insurance company must:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Acknowledge your claim within 15 days</li>
-        <li>Begin investigation within 15 days of receiving your proof of claim</li>
-        <li>Accept or deny coverage within 40 days of receiving your proof of claim</li>
-        <li>Provide a written explanation if they need more time</li>
+        <li>Acknowledge your notice of claim within 15 days (&sect; 2695.5(e))</li>
+        <li>Begin investigation within 15 days of receiving notice of the claim (&sect; 2695.5(e))</li>
+        <li>Accept or deny coverage within 40 days of receiving your proof of claim (&sect; 2695.7(b))</li>
+        <li>Provide a written explanation if they need more time, and follow up every 30 days (&sect; 2695.7(c))</li>
         <li>Pay undisputed amounts promptly, even if other portions remain in dispute</li>
         <li>Not condition payment on a release of other claims</li>
         <li>Not require unnecessary documentation that duplicates what they already have</li>
