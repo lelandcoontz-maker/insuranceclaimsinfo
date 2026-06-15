@@ -22,8 +22,8 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In October 2007, the Witch Fire burned through San Diego County, destroying over 1,100
-        homes. The National Institute of Standards and Technology (NIST) saw an opportunity to
+        In October 2007, the Witch Fire burned through San Diego County, destroying more than
+        1,265 residences. The National Institute of Standards and Technology (NIST) saw an opportunity to
         answer a question that matters to every wildfire insurance claim: why do some houses
         survive while their neighbors burn? The answer, documented in two detailed technical
         reports, contradicts the simplistic explanations insurance companies use to deny and
