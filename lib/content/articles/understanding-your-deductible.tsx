@@ -161,7 +161,9 @@ export default function Content() {
         </li>
         <li>
           <strong>Declared disasters:</strong> After some declared disasters, insurers may waive
-          deductibles as a goodwill measure or because state regulators require it.
+          deductibles as a goodwill measure or in response to a request from state regulators.
+          California does not impose a blanket regulatory mandate that carriers waive deductibles
+          after every state of emergency &mdash; check your policy and ask the carrier directly.
         </li>
         <li>
           <strong>Large losses:</strong> On a total loss where the claim exceeds your policy
