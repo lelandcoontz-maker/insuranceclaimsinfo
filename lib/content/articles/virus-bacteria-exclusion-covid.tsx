@@ -168,11 +168,24 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
+          <strong><em>Another Planet Entertainment, LLC v. Vigilant Ins. Co.</em></strong>{' '}
+          (2024) 15 Cal.5th 1106 &mdash; the controlling California Supreme Court decision.
+          Answering a certified question from the Ninth Circuit, the Court held that the actual
+          or potential presence of COVID-19 on the insured&rsquo;s premises generally does not
+          constitute &ldquo;direct physical loss of or damage to&rdquo; property. The Court read
+          that phrase to require a &ldquo;distinct, demonstrable physical alteration&rdquo; to
+          property &mdash; not mere loss of use, and not the temporary presence of a virus that
+          can be removed by cleaning. This holding is the definitive California authority on
+          COVID business-interruption coverage and effectively resolves the direct-physical-loss
+          question in California.
+        </li>
+        <li>
           <strong><em>Inns-by-the-Sea v. California Mutual Ins. Co.</em></strong> (2021) 71
-          Cal.App.5th 688 &mdash; The California Court of Appeal held that government closure
-          orders did not constitute &ldquo;direct physical loss of or damage to&rdquo; property.
-          The court found that the policyholders did not allege any physical alteration to their
-          property and that loss of use alone did not satisfy the coverage trigger.
+          Cal.App.5th 688 &mdash; an earlier California Court of Appeal decision (predating
+          <em> Another Planet</em>) holding that government closure orders did not constitute
+          &ldquo;direct physical loss of or damage to&rdquo; property. The court found that the
+          policyholders did not allege any physical alteration to their property and that loss
+          of use alone did not satisfy the coverage trigger.
         </li>
         <li>
           <strong><em>United Talent Agency v. Vigilant Ins. Co.</em></strong> (2022) 77
