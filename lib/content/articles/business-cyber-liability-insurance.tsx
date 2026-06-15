@@ -55,9 +55,9 @@ export default function Content() {
           <strong>Commercial property policies.</strong> The ISO CP 00 10 (Building and Personal
           Property Coverage Form) defines Covered Property to include your building and business
           personal property, but electronic data is specifically excluded from the definition of
-          personal property. ISO endorsement <strong>CP 04 37</strong> (Exclusion of Loss Due to
-          Virus or Bacteria) and the electronic data exclusion in the causes of loss forms
-          eliminate most cyber-related property claims. For more on what property policies
+          personal property. ISO endorsement <strong>CP 01 40</strong> (Exclusion of Loss Due to
+          Virus or Bacteria, Ed. 07 06) and the electronic data exclusion in the causes of loss
+          forms eliminate most cyber-related property claims. For more on what property policies
           exclude, see our article on{' '}
           <Link
             href="/resources/silent-cyber-property-insurance"
