@@ -34,16 +34,19 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="You Are Entitled to Living Expenses Immediately">
         <p>
-          Your policy includes Additional Living Expenses (ALE) coverage &mdash; also called
-          Coverage D or &ldquo;Loss of Use.&rdquo; If your home is uninhabitable, the insurer
-          must pay reasonable increased living expenses <strong>now</strong>, while the claim
-          is being investigated. ALE is triggered by the loss of use, not by a final coverage
-          determination. Under 10 CCR &sect; 2695.7(h), insurers must make interim payments for
-          undisputed portions of a claim while investigating disputed portions. Also,
-          California Insurance Code &sect; 2061 (added by SB 872, 2020) provides that on
-          request, an insurer must render an advance payment of no less than four months
-          of living expenses after a total loss related to a declared state of emergency. If the insurer refuses to advance ALE while investigating, that may
-          violate the Fair Claims Settlement Practices Regulations and the Insurance Code.
+          Your policy includes Additional Living Expenses (ALE) / Loss of Use coverage. If your
+          home is uninhabitable, the insurer must pay reasonable increased living expenses
+          <strong>now</strong>, while the claim is being investigated. ALE is triggered by the loss
+          of use, not by a final coverage determination. Under California&rsquo;s Fair Claims
+          Regulations, once an insurer accepts a claim in whole or in part (10 CCR &sect;
+          2695.7(b)), payment of the accepted portion must be tendered within 30 days (10 CCR
+          &sect; 2695.7(h)) &mdash; so an insurer cannot withhold ALE on the theory that it is
+          still investigating other parts of the claim. In addition, California Insurance Code
+          &sect; 2061 (added by SB 872, 2020) provides that on request, an insurer must render an
+          advance payment of no less than four months of living expenses after a total loss
+          related to a declared state of emergency. If the insurer refuses to advance ALE while
+          investigating, that may violate the Fair Claims Settlement Practices Regulations and
+          the Insurance Code.
         </p>
       </CalloutBox>
 
