@@ -256,10 +256,13 @@ export default function Content() {
         Even with these safeguards in place, SAM coverage limits are often modest &mdash;
         $500,000 to $2 million per occurrence is common &mdash; and the policy may contain
         per-claim deductibles of $25,000 to $100,000. California Code of Civil Procedure
-        &sect; 340.1 provides a lengthy statute of limitations for childhood sexual abuse claims
-        (action may be commenced within 22 years of the age of majority, or within 5 years of
-        discovering that an injury was caused by childhood sexual abuse), meaning claims can
-        surface decades after the abuse occurred.
+        &sect; 340.1, as amended by AB 218 (2019), provides one of the nation&rsquo;s longest
+        statutes of limitations for childhood sexual assault claims: an action may be commenced
+        up to the plaintiff&rsquo;s 40th birthday (22 years from the age of majority), or within
+        5 years of discovering that a psychological injury or illness was caused by the abuse,
+        <em>whichever is later</em>. AB 218 also opened a three-year revival window for
+        otherwise time-barred claims that closed December 31, 2022. The practical effect is
+        that claims can surface decades after the abuse occurred.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -382,9 +385,13 @@ export default function Content() {
         <li>
           <strong>Foodborne illness:</strong> If someone becomes ill from food served or
           distributed by the organization, a bodily injury claim follows. California&rsquo;s
-          Good Samaritan Food Donation Act (Health &amp; Safety Code &sect; 114432) provides some
-          liability protection for good-faith food donations, but it does not provide blanket
-          immunity, particularly if the organization was negligent in food handling or storage.
+          Good Samaritan Food Donation Act (AB 1219, 2017) amended Health &amp; Safety Code
+          &sect;&sect; 114432&ndash;114433 to provide civil and criminal liability protection
+          for good-faith food donations (&sect; 114432 authorizes the donations; &sect; 114433
+          supplies the immunity). The protection is not absolute &mdash; it does not extend to
+          injuries caused by the organization&rsquo;s own gross negligence or intentional
+          misconduct in food handling or storage, and it does not cover food prepared and
+          served on-site (as opposed to donated).
         </li>
         <li>
           <strong>Commercial kitchen equipment:</strong> Walk-in coolers, commercial ovens, deep
