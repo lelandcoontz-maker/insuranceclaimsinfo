@@ -453,13 +453,17 @@ export default function Content() {
         Contractor Licensing Requirements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Business and Professions Code &sect; 7031 requires that anyone performing
-        construction work valued at $500 or more must hold a valid license from the
-        Contractors State License Board (CSLB). This requirement is directly relevant to
-        builder&rsquo;s risk claims because an unlicensed contractor cannot legally enforce
-        a construction contract in California, and the involvement of an unlicensed contractor
-        can create complications in the claims process &mdash; particularly when determining
-        the value of completed work and the cost to complete the project.
+        California Business and Professions Code &sect; 7028 prohibits anyone from engaging in
+        the business or acting in the capacity of a contractor without a license from the
+        Contractors State License Board (CSLB). The &sect; 7048 minor-work exemption was
+        historically set at $500 but was raised to $1,000 in combined labor-plus-materials
+        value by AB 2622 (2024). Even more consequential for claims handling is &sect; 7031:
+        an unlicensed contractor cannot &ldquo;bring or maintain any action&rdquo; to collect
+        compensation for work that required a license, and a customer who paid an unlicensed
+        contractor may recover the money paid as disgorgement under &sect; 7031(b). The
+        involvement of an unlicensed contractor can therefore create significant complications
+        in builder&rsquo;s risk claims &mdash; particularly when determining the value of
+        completed work and the cost to complete the project.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When filing a builder&rsquo;s risk claim, carriers will often verify that the general
