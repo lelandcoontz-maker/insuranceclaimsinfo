@@ -378,23 +378,26 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Current Federal Rules (Post-TCJA)
+        The Current Federal Rules (Post-TCJA, Post-OBBB)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Tax Cuts and Jobs Act (TCJA) of 2017 dramatically changed the casualty loss
         deduction for individuals. Before the TCJA, individuals could deduct personal casualty
         losses (after reducing by $100 per event and by 10% of adjusted gross income) as an
         itemized deduction on Schedule A. The TCJA suspended this general personal casualty
-        loss deduction for tax years 2018 through 2025.
+        loss deduction for tax years 2018 through 2025, with an exception preserving the
+        deduction for losses in <strong>federally declared disaster areas</strong>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>However, there is a critical exception:</strong> the TCJA preserved the
-        casualty loss deduction for losses attributable to a <strong>federally declared
-        disaster</strong>. This means that if your loss occurred in an area that received a
-        federal disaster declaration from the President, you can still deduct your unreimbursed
-        casualty loss even under current law. For California wildfire victims, hurricane
-        survivors, and policyholders affected by other major disasters, this exception is
-        enormously important.
+        <strong>The 2025 reconciliation legislation (P.L. 119-21, sometimes called the One
+        Big Beautiful Bill Act / OBBB) made the disaster-only limitation permanent</strong> rather
+        than letting it expire. The general personal casualty loss deduction is now gone for the
+        foreseeable future; only losses in qualifying disaster areas are deductible. Effective
+        for tax years beginning on or after January 1, 2026, however, P.L. 119-21 expanded the
+        eligible category to include <strong>state-declared disasters</strong> in addition to
+        federally declared disasters. This is meaningful for California policyholders because
+        the Governor declares state emergencies for many events that do not rise to a
+        Presidential disaster declaration.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under the federally declared disaster exception, the casualty loss deduction works
@@ -464,20 +467,24 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        After 2025: The Potential Return of the General Casualty Loss Deduction
+        The 2026 Expansion to State-Declared Disasters
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The TCJA&apos;s suspension of the general personal casualty loss deduction is currently
-        set to expire after December 31, 2025. If Congress does not extend or make permanent
-        the TCJA provisions, the general casualty loss deduction would return for the 2026 tax
-        year and beyond. This would mean that personal casualty losses from <em>any</em> event
-        &mdash; not just federally declared disasters &mdash; would once again be deductible,
-        subject to the $100 per-event floor and 10% AGI threshold.
+        Before P.L. 119-21, only losses in <em>federally</em> declared disaster areas qualified
+        for the casualty loss deduction. Many California events &mdash; localized fires, smaller
+        floods, regional emergencies declared by the Governor under California Government Code
+        &sect; 8625 et seq. &mdash; were excluded from the deduction even when they caused
+        substantial unreimbursed losses, because no Presidential disaster declaration ever
+        issued.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Whether this actually happens is, of course, a matter of ongoing legislative debate.
-        Policyholders and their advisors should monitor the status of these provisions closely
-        as Congress considers the future of the TCJA.
+        For tax years beginning on or after January 1, 2026, P.L. 119-21 expanded the deduction
+        to cover losses in <strong>state-declared disasters</strong> as well. California
+        policyholders whose loss is tied to a Governor-declared emergency may now claim the
+        casualty loss deduction even if no federal declaration follows. This is a substantial
+        practical change for events that historically fell into the gap between the two
+        declaration systems. Confirm with a CPA or tax attorney whether the specific event
+        underlying your claim qualifies under your state&rsquo;s declaration regime.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
