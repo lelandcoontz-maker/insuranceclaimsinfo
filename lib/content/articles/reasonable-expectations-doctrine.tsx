@@ -220,11 +220,12 @@ export default function Content() {
         <Link href="/resources/contra-proferentem" className="text-blue-700 underline hover:text-blue-900">
           contra proferentem
         </Link>{' '}
-        together as complementary tools. Both doctrines require ambiguity as a threshold. Once
-        ambiguity is found, contra proferentem says the ambiguity is construed against the insurer
-        (because the insurer drafted the policy), and the doctrine of reasonable expectations says
-        the ambiguity is resolved in favor of the coverage the policyholder reasonably believed
-        existed.
+        (codified in California at Civ. Code &sect;&sect; 1649 and 1654 &mdash; not in the
+        Insurance Code) together as complementary tools. Both doctrines require ambiguity as a
+        threshold. Once ambiguity is found, contra proferentem says the ambiguity is construed
+        against the insurer (because the insurer drafted the policy), and the doctrine of
+        reasonable expectations says the ambiguity is resolved in favor of the coverage the
+        policyholder reasonably believed existed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In practice, these two doctrines usually point in the same direction. But the reasonable
