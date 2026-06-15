@@ -232,23 +232,23 @@ export default function Content() {
         S700: Standard for Professional Fire and Smoke Damage Restoration
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The S700 is a standard currently in development by the IICRC. It will address fire and
-        smoke damage restoration &mdash; the protocols for assessing, cleaning, and restoring
-        properties affected by fire and its byproducts. This standard is being developed by a
-        committee of industry professionals, and when published, it will provide the same kind
-        of consensus-based technical framework for{' '}
+        The ANSI/IICRC S700 was published as a first edition in 2025 after multiple rounds of
+        public review. It addresses fire and smoke damage restoration &mdash; the protocols for
+        assessing, cleaning, and restoring properties affected by fire and its byproducts &mdash;
+        and provides the same kind of consensus-based technical framework for{' '}
         <Link href="/resources/smoke-damage-claims" className="text-blue-700 underline hover:text-blue-900">
           fire and smoke damage
         </Link>{' '}
-        that the S500 provides for water damage.
+        that the S500 provides for water damage. A revision is already underway (call for
+        committee members issued December 2025) to add wildfire-specific principles, methods,
+        and processes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The absence of a published S700 has been a gap in the industry for years. Fire and smoke
-        restoration has relied on a patchwork of manufacturer guidelines and informal practices
-        rather than a single consensus standard. This gap has allowed carriers to dismiss
-        restoration approaches by arguing there is &ldquo;no standard requiring it.&rdquo; When
-        the S700 is published, it should provide policyholders with a citable authority for fire
-        and smoke remediation scope.
+        Before the S700 was published, fire and smoke restoration relied on a patchwork of
+        manufacturer guidelines and informal practices rather than a single consensus standard,
+        which let carriers dismiss restoration approaches by arguing there was &ldquo;no
+        standard requiring it.&rdquo; The 2025 publication closes that gap. The S700 now gives
+        policyholders a citable ANSI-accredited authority for fire and smoke remediation scope.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
