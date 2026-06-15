@@ -52,11 +52,11 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Is Wind Damage Covered?</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        On a standard HO-3 policy, wind is a covered peril for both the dwelling (Coverage A,
-        open perils) and personal property (Coverage C, named perils — and wind/hail is
-        specifically named). Wind damage is covered unless your policy contains a specific
-        wind or hurricane exclusion, which is uncommon in California but exists in coastal
-        areas of some states.
+        On a standard HO-3 policy, wind is a covered peril for both the dwelling (open
+        perils) and personal property (named perils &mdash; wind/hail is specifically named).
+        Wind damage is covered unless your policy contains a specific wind or hurricane
+        exclusion, which is uncommon in California but exists in coastal areas of some
+        states.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The coverage question in wind claims is rarely whether wind is covered. It is whether
@@ -143,7 +143,7 @@ export default function Content() {
           appeared after the storm. This consequential damage is also covered.
         </li>
         <li>
-          <strong>Inspect Coverage B structures.</strong> Fences, sheds, detached garages,
+          <strong>Inspect Other Structures.</strong> Fences, sheds, detached garages,
           patio covers. These are often damaged in the same event and should be claimed
           together.
         </li>
