@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'NIST Camp Fire Investigation: What Government Scientists Found',
   description:
-    'NIST’s investigation of the 2018 Camp Fire — which destroyed over 19,000 structures — reveals how wildfire damages buildings and why insurers underestimate repair costs.',
+    'NIST’s investigation of the 2018 Camp Fire — which destroyed more than 18,800 structures — reveals how wildfire damages buildings and why insurers underestimate repair costs.',
   summary:
-    'NIST\'s investigation of the 2018 Camp Fire, which destroyed over 19,000 structures, documents how wildfire actually damages buildings, evidence that insurers routinely underestimate the true cost to repair fire and smoke damage.',
+    'NIST\'s investigation of the 2018 Camp Fire, which destroyed more than 18,800 structures, documents how wildfire actually damages buildings, evidence that insurers routinely underestimate the true cost to repair fire and smoke damage.',
 }
 
 export default function Content() {
@@ -24,7 +24,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         On November 8, 2018, the Camp Fire swept through Paradise, California and became the
         deadliest and most destructive wildfire in the state&apos;s history. It killed{' '}
-        <strong>85 people</strong>, destroyed over <strong>18,000 structures</strong>, and
+        <strong>85 people</strong>, destroyed more than <strong>18,800 structures</strong>, and
         ultimately burned 153,336 acres. The first 24 hours were extremely fast-moving
         &mdash; with high winds and long-range spotting up to 3.9 miles into the community.
         The National Institute of Standards and Technology (NIST) deployed a team of scientists
