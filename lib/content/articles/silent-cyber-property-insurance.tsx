@@ -316,20 +316,23 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s insurance regulatory framework provides several protections that may be
-        relevant in cyber-related coverage disputes. The reasonable expectations doctrine holds that
-        ambiguous policy language should be interpreted in favor of the policyholder&rsquo;s
-        reasonable expectations. If a homeowner purchases a property policy expecting it to cover
-        fire damage, and a fire is caused by a cyber event, the homeowner&rsquo;s reasonable
-        expectation is that the fire damage is covered regardless of its digital origin. An insurer
-        seeking to deny this expectation through a broadly worded cyber exclusion faces an uphill
-        argument under California law.
+        relevant in cyber-related coverage disputes. Under <em>Bank of the West v. Superior Court</em>
+        (1992) 2 Cal.4th 1254 and <em>AIU Insurance v. Superior Court</em> (1990) 51 Cal.3d 807,
+        ambiguous policy language is resolved against the insurer and in favor of the
+        policyholder&rsquo;s objectively reasonable expectations of coverage. If a homeowner
+        purchases a property policy expecting it to cover fire damage, and a fire is caused by a
+        cyber event, the objectively reasonable expectation is that the fire damage is covered
+        regardless of its digital origin. An insurer seeking to deny this expectation through a
+        broadly worded cyber exclusion faces an uphill argument under California law.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Also, California&rsquo;s rules of policy interpretation require that exclusions be
-        conspicuous, plain, and clear. A cyber exclusion buried in an endorsement that uses
-        technical jargon unfamiliar to the average policyholder may not meet this standard. And
-        California&rsquo;s contra proferentem rule requires that any ambiguity in the exclusion be
-        resolved in favor of coverage.
+        conspicuous, plain, and clear (<em>Haynes v. Farmers Ins. Exch.</em> (2004) 32 Cal.4th
+        1198). A cyber exclusion buried in an endorsement that uses technical jargon unfamiliar
+        to the average policyholder may not meet this standard. And California&rsquo;s rules of
+        contractual interpretation (Civ. Code &sect;&sect; 1649 and 1654; <em>MacKinnon v. Truck
+        Ins. Exch.</em> (2003) 31 Cal.4th 635) require that any remaining ambiguity in the
+        exclusion be resolved in favor of coverage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         These consumer protection principles do not guarantee coverage for cyber-caused physical
