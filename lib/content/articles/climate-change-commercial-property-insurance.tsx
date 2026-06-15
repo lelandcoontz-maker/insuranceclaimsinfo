@@ -157,10 +157,12 @@ export default function Content() {
         <li>
           <strong>Smoke is a covered peril.</strong> The standard commercial property Special
           Form does not exclude smoke. Fire and its byproducts (including smoke) are covered
-          causes of loss. The carrier cannot invoke the fire exclusion (there is none) and
-          the pollution exclusion generally does not apply to smoke from a hostile fire.
-          California courts have been clear that smoke from a wildfire is not
-          &ldquo;pollution&rdquo; within the meaning of the standard pollution exclusion. For
+          causes of loss. The carrier cannot invoke a fire exclusion (there is none) and the
+          pollution exclusion generally does not apply to smoke from a hostile fire.
+          California reads pollution exclusions to reach only &ldquo;traditional environmental
+          pollution&rdquo; rather than ordinary incidents involving harmful substances
+          (<em>MacKinnon v. Truck Ins. Exch.</em> (2003) 31 Cal.4th 635), which supports the
+          argument that wildfire-driven smoke infiltration is not excluded pollution. For
           more on smoke damage claims, see our article on{' '}
           <Link href="/resources/smoke-damage-claims" className="text-blue-700 underline hover:text-blue-900">
             smoke damage coverage
@@ -219,12 +221,16 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Efficient proximate cause.</strong> Under California&rsquo;s efficient
-          proximate cause doctrine, when a covered peril (fire) sets in motion a chain of
-          events that includes an excluded peril (earth movement or flood), and the covered
-          peril is the &ldquo;efficient proximate cause&rdquo; of the loss, the entire loss
-          is covered. The argument: but for the wildfire denuding the hillside, the debris
-          flow would not have occurred. Fire is the efficient proximate cause.
+          <strong>Efficient proximate cause.</strong> California&rsquo;s efficient proximate
+          cause doctrine is anchored in Cal. Insurance Code &sect; 530 (with companion
+          &sect;&sect; 532 and 530.5) and developed through <em>Sabella v. Wisler</em> (1963)
+          59 Cal.2d 21, <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395, and <em>Howell v.
+          State Farm</em> (1990) 218 Cal.App.3d 1446. When a covered peril (fire) sets in
+          motion a chain of events that includes an excluded peril (earth movement or flood),
+          and the covered peril is the &ldquo;efficient proximate cause&rdquo; (i.e., the
+          predominant cause) of the loss, the entire loss is covered. The argument: but for
+          the wildfire denuding the hillside, the debris flow would not have occurred. Fire
+          is the efficient proximate cause.
         </li>
         <li>
           <strong>Ensuing loss provisions.</strong> Many commercial property policies contain
@@ -236,9 +242,11 @@ export default function Content() {
         <li>
           <strong>Anti-concurrent causation clause limitations.</strong> Carriers rely on
           anti-concurrent causation clauses to argue that any involvement of an excluded peril
-          bars coverage. California courts have been skeptical of these clauses when applied
-          to defeat the efficient proximate cause doctrine &mdash; a judicially created rule
-          that predates and may override the contractual clause.
+          bars coverage. Under <em>Howell</em> and <em>Julian v. Hartford Underwriters</em>
+          (2005) 35 Cal.4th 747, such clauses are unenforceable in California to the extent
+          they conflict with &sect; 530 and the efficient proximate cause doctrine &mdash;
+          carriers can define and exclude perils, but they cannot contract around the
+          statutory causation rule.
         </li>
       </ul>
 
