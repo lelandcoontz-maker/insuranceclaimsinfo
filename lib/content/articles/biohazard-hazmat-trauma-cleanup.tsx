@@ -406,7 +406,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Crime scene cleanup</strong> (homicide, suicide, accidental death) &mdash;
-          as direct physical loss to the dwelling under Coverage A
+          as direct physical loss to the Dwelling
         </li>
         <li>
           <strong>Unattended death with decomposition damage</strong> &mdash; same analysis;
@@ -417,13 +417,13 @@ export default function Content() {
           remediation (flooring, carpet, drywall, subfloor, baseboards, insulation)
         </li>
         <li>
-          <strong>Additional Living Expenses (ALE)</strong> under Coverage D when the home is
-          uninhabitable during remediation and restoration &mdash; typically 20&ndash;30% of
-          dwelling coverage or &ldquo;actual loss sustained&rdquo;
+          <strong>Additional Living Expenses (ALE)</strong> under Loss of Use coverage when the
+          home is uninhabitable during remediation and restoration &mdash; typically 20&ndash;30%
+          of the Dwelling limit or &ldquo;actual loss sustained&rdquo;
         </li>
         <li>
-          <strong>Personal property contamination</strong> under Coverage C for soft goods,
-          furnishings, and other items that cannot be decontaminated
+          <strong>Personal property contamination</strong> for soft goods, furnishings, and other
+          items that cannot be decontaminated
         </li>
         <li>
           <strong>Vandalism-related contamination</strong> in certain jurisdictions, as
@@ -468,7 +468,7 @@ export default function Content() {
           <Link href="/resources/ale-frv" className="text-blue-700 underline hover:text-blue-900">
             Additional Living Expenses (ALE)
           </Link>{' '}
-          under Coverage D while the property is being remediated and restored. This covers
+          under Loss of Use coverage while the property is being remediated and restored. This covers
           temporary housing, meals above normal costs, pet boarding, transportation, and storage.
           Insurers often fail to proactively inform policyholders of this coverage, and
           policyholders in crisis often do not think to ask. If your home is uninhabitable due

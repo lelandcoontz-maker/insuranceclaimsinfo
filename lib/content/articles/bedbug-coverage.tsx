@@ -89,8 +89,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         There is one narrow area where a coverage argument &mdash; though far from
         certain &mdash; may exist. Some homeowner policies provide open-peril (all-risk)
-        coverage for personal property under Coverage C, rather than the more common
-        named-peril coverage found in the standard HO-3 form. Under open-peril contents
+        coverage for Personal Property, rather than the more common named-peril coverage
+        found in the standard HO-3 form. Under open-peril contents
         coverage, all causes of loss are covered unless specifically excluded.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

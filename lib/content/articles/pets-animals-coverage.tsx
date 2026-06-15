@@ -648,7 +648,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          Pets are personal property as personal property of your homeowner&rsquo;s policy. They are
+          Pets are classified as personal property under your homeowner&rsquo;s policy. They are
           valued at market value, not sentimental value.
         </li>
         <li>
@@ -678,12 +678,6 @@ export default function Content() {
         </li>
       </ul>
 
-      <hr className="my-8 border-gray-300" />
-      <p className="text-sm text-gray-500 italic">
-        This article is for informational purposes only and does not constitute legal advice.
-        Insurance policies and applicable law vary by state and by policy form. Consult with a
-        licensed professional regarding your specific situation.
-      </p>
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.

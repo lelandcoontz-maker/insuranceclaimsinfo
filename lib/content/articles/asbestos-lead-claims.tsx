@@ -350,8 +350,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Even without a separate O&amp;L endorsement, a strong argument exists that abatement
-        costs are simply part of the covered repair cost under Coverage A. The repair cannot
-        legally be performed without abatement. You cannot separate the two. The cost to repair
+        costs are simply part of the covered Dwelling repair cost. The repair cannot legally be
+        performed without abatement. You cannot separate the two. The cost to repair
         the dwelling <em>is</em> the cost that includes regulatory compliance. But having
         O&amp;L coverage gives you a second, independent basis for recovery and removes any
         ambiguity.
