@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Artificial Intelligence in Insurance Claims: What Policyholders Need to Know',
   description:
-    'How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, California SB-1120, and policyholder rights to challenge AI-driven decisions.',
+    'How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, and policyholder rights to challenge AI-driven decisions.',
   summary:
-    'Insurers increasingly use AI to triage, estimate, and even deny claims. You retain the right to meaningful human review and a real explanation. California SB 1120 and the NAIC framework limit pure-AI decisions, and an automated denial can be challenged.',
+    'Insurers increasingly use AI to triage, estimate, and even deny claims. The NAIC framework limits pure-AI decisions and existing unfair claims practices law applies to algorithmic ones. An automated denial can be challenged, and you can demand a real explanation.',
 }
 
 export default function Content() {
@@ -204,22 +204,33 @@ export default function Content() {
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        California SB-1120: A Model for AI Accountability
+        California SB 1120: Health Insurance Only (For Now)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California has been at the forefront of AI regulation in insurance. SB-1120, signed into
-        law as part of the state&rsquo;s broader consumer protection framework, establishes that
-        artificial intelligence cannot be the sole decision-maker in certain insurance contexts.
-        The law requires meaningful human review of AI-generated decisions that adversely affect
-        policyholders, including claim denials, significant coverage reductions, and policy
-        non-renewals.
+        California enacted SB 1120 (the &ldquo;Physicians Make Decisions Act&rdquo;) in 2024,
+        signed September 28, 2024 and effective January 1, 2025. The statute requires that
+        utilization-review decisions about medical necessity be made by a licensed physician or
+        other qualified licensed health professional &mdash; not by an AI system &mdash; and that
+        any AI used to assist those decisions be based on the patient&rsquo;s individual clinical
+        circumstances rather than generalized datasets alone. It is enforced by the California
+        Department of Insurance and the Department of Managed Health Care.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is a critical protection. It means that when an insurer denies a claim or offers a
-        significantly reduced settlement, a human being must review the AI&rsquo;s recommendation
-        before the decision is communicated to the policyholder. The human reviewer must have
-        sufficient expertise and authority to override the algorithm&rsquo;s output. A rubber-stamp
-        review that simply approves whatever the AI recommends does not satisfy the requirement.
+        SB 1120 is important to understand correctly: it applies <em>only</em> to health care
+        service plans and disability insurers performing utilization review of medical-necessity
+        determinations. It does <strong>not</strong> apply to property/casualty insurance claims
+        handling. A homeowner whose fire claim is denied based on an algorithmic damage estimate
+        cannot directly invoke SB 1120 against the carrier. The statute is, however, an
+        instructive policy model: California has signaled that AI cannot substitute for qualified
+        human judgment in consequential coverage decisions, and similar requirements may be
+        extended to property/casualty lines in future legislation or regulation.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For property and casualty policyholders, the operative protections are the long-standing
+        Fair Claims Settlement Practices Regulations (10 CCR &sect; 2695.1 et seq.) and Cal. Ins.
+        Code &sect; 790.03(h) &mdash; both of which apply with full force to AI-driven claims
+        decisions. The NAIC Model Bulletin reinforces this principle: existing claims-handling
+        law does not exempt automated systems.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -292,15 +303,19 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Right to Human Review
+        The Right to Demand Meaningful Human Review
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California and an increasing number of other jurisdictions, policyholders have the right
-        to request that a qualified human adjuster review any AI-generated claims decision. This
-        is not a request for a second opinion from the same algorithm &mdash; it is a request for
-        a human being with subject matter expertise to independently evaluate the claim. If the
-        human reviewer simply defers to the AI output without conducting an independent analysis,
-        the review is inadequate and may support a{' '}
+        Although no California statute currently requires human review of AI-driven property and
+        casualty claims decisions (SB 1120, discussed above, is health-insurance only), the
+        Fair Claims Settlement Practices Regulations require the carrier to conduct a
+        &ldquo;thorough, fair and objective investigation&rdquo; under 10 CCR &sect; 2695.7(d) and
+        to provide a written explanation of the factual and legal bases for any denial under
+        &sect; 2695.7(b)(1). A purely algorithmic denial with no human evaluation is hard to
+        reconcile with those requirements. Policyholders should request that a qualified human
+        adjuster independently review the claim, document that request in writing, and treat any
+        rubber-stamp human &ldquo;review&rdquo; that simply approves the AI output as evidence
+        supporting a{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">bad faith</Link>{' '}
         claim.
       </p>
@@ -377,8 +392,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The regulatory response is still catching up. The NAIC framework and state-level
-        legislation like California&rsquo;s SB-1120 are important steps, but enforcement remains
-        uneven. Policyholders cannot assume that regulators are monitoring every AI-driven claims
+        health-insurance legislation like California&rsquo;s SB 1120 are important steps, but
+        property and casualty AI regulation lags behind, and enforcement remains uneven. Policyholders cannot assume that regulators are monitoring every AI-driven claims
         decision. The most effective protection remains the same as it has always been:
         documentation, independent evidence, persistence, and a willingness to escalate when an
         insurer&rsquo;s position is unreasonable.
