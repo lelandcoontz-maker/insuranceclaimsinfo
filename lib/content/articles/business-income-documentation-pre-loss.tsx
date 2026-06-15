@@ -269,10 +269,10 @@ export default function Content() {
         The Business Income Worksheet
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        ISO provides a Business Income Report/Worksheet that insurers use to evaluate business
-        income exposure and claims. While this worksheet is typically completed at policy inception
-        or renewal to help set coverage limits, completing it annually serves a dual purpose: it
-        helps ensure your{' '}
+        ISO provides a Business Income Report/Worksheet (form CP 15 15) that insurers use to
+        evaluate business income exposure and claims. While this worksheet is typically completed
+        at policy inception or renewal to help set coverage limits, completing it annually serves a
+        dual purpose: it helps ensure your{' '}
         <Link
           href="/resources/business-interruption"
           className="text-blue-700 underline hover:text-blue-900"
