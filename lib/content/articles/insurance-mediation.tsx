@@ -141,9 +141,10 @@ export default function Content() {
         California&apos;s Free CDI Mediation Program
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under Senate Bill 64 (2003), the California Department of Insurance operates the{' '}
-        <strong>Residential Property and Earthquake Claims Mediation Program</strong> — a free,
-        informal alternative to private mediation or litigation. Key features:
+        Under Senate Bill 64 (2003), codified at California Insurance Code &sect;&sect;
+        10089.70&ndash;10089.94, the California Department of Insurance operates the{' '}
+        <strong>Residential Property and Earthquake Claims Mediation Program</strong> &mdash; a
+        free, informal alternative to private mediation or litigation. Key features:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -244,9 +245,14 @@ export default function Content() {
           parties. It is binding and enforceable. Payment typically follows within 30 days.
         </li>
         <li>
-          <strong>If you do not settle:</strong> Nothing said in mediation can be used against
-          you in court. Your legal rights are fully preserved. You can proceed with appraisal,
-          CDI complaint, or litigation.
+          <strong>If you do not settle:</strong> Communications in mediation are generally
+          confidential under California Evidence Code &sect;&sect; 1115&ndash;1128, so what is
+          said in the session cannot be used against you if the dispute later goes to court.
+          You can proceed with appraisal, a CDI complaint, or litigation. One caveat that
+          mediation does <em>not</em> change: limitations periods (including the &sect; 2071
+          one-year suit-limitation clock) continue to run during mediation unless the parties
+          enter a written tolling agreement, so it is worth confirming your timeline with an
+          attorney before relying on mediation as a long pause.
         </li>
         <li>
           <strong>Partial resolution:</strong> Sometimes mediation resolves some issues but not
