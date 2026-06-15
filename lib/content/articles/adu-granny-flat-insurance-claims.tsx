@@ -291,21 +291,29 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
         <li>
-          <strong>California Insurance Code &sect; 336:</strong> The concealment of material
-          information must be <em>willful</em> to void the policy. A homeowner who simply forgot
-          to call the insurer, or who didn&rsquo;t understand the obligation, has not engaged in
-          willful concealment.
+          <strong>Materiality must be proven.</strong> Under California Insurance Code &sect; 331,
+          concealment &ldquo;whether intentional or unintentional&rdquo; can support rescission,
+          but only if the concealed fact was material. Materiality is defined in &sect; 336 by
+          the probable and reasonable influence of the fact on the insurer in forming its
+          estimate of the risk &mdash; not by what actually happened later. The insurer must
+          prove that knowing about the ADU would have changed its underwriting decision in a
+          specific way.
         </li>
         <li>
-          <strong>California Insurance Code &sect; 338:</strong> An insurer seeking to rescind a
-          policy based on concealment must show that the concealment was of a material fact,
-          and that it was done with intent to deceive or that the insurer would not have issued
-          the policy (or would have issued it on different terms) had the truth been known.
+          <strong>The duty to disclose typically arises at application or renewal.</strong>
+          California concealment law (Ins. Code &sect;&sect; 330&ndash;336) is built around the
+          insured&rsquo;s duty to communicate material facts &ldquo;in good faith&rdquo; during
+          the contract-formation process. Most homeowners policies do not contain a specific
+          provision requiring the policyholder to affirmatively notify the insurer of every
+          construction or improvement during the policy period.
         </li>
         <li>
-          Many homeowners policies do not contain a specific provision requiring the policyholder
-          to notify the insurer of construction or improvements during the policy period. The duty
-          to disclose typically arises at the time of application and renewal, not continuously.
+          <strong>Waiver and estoppel through acceptance of premiums.</strong> If the insurer
+          renewed the policy and collected premiums after the ADU was built &mdash; particularly
+          where aerial imagery, county-assessor data, or other underwriting sources would have
+          disclosed the ADU &mdash; the insurer may have waived the right to assert
+          concealment, or be estopped from doing so, even if statutory rescission is otherwise
+          available.
         </li>
       </ul>
 
@@ -600,9 +608,12 @@ export default function Content() {
         There is one scenario where the permit status becomes more problematic: if the insurer can
         show that it specifically asked about structures on the property during the application
         process and the homeowner failed to disclose the unpermitted ADU. This brings the
-        concealment and misrepresentation statutes into play (Insurance Code &sect;&sect; 331&ndash;338).
-        But even here, the insurer must show that the concealment was of a <em>material</em> fact
-        and, for rescission, that it was willful.
+        concealment and misrepresentation statutes into play (Insurance Code &sect;&sect; 330&ndash;339
+        for concealment; &sect;&sect; 350&ndash;361 for representations). The insurer must show
+        that the concealed or misrepresented fact was <em>material</em> under the &sect; 336
+        standard &mdash; that knowing it would have probably and reasonably influenced the
+        insurer&rsquo;s decision to write the policy, decline it, or write it on different
+        terms.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -660,11 +671,14 @@ export default function Content() {
           Coverage B limit, particularly if the agent was aware of the ADU.
         </li>
         <li>
-          <strong>Concealment requires willfulness.</strong> Under Insurance Code &sect; 336, the
-          concealment must be willful to void the policy. A homeowner who did not understand the
-          obligation to report the ADU, or who believed the existing policy covered it, has not
-          engaged in willful concealment. The insurer must prove intent, not mere negligence or
-          oversight.
+          <strong>Concealment requires materiality, not just an omission.</strong> Under
+          Insurance Code &sect; 331 concealment supports rescission &ldquo;whether intentional
+          or unintentional,&rdquo; but only if the concealed fact was material. Section 336
+          defines materiality by the probable and reasonable influence of the fact on the
+          insurer&rsquo;s underwriting decision. The insurer cannot rescind merely because the
+          ADU was not reported &mdash; it must affirmatively prove that knowing about the ADU
+          would have probably and reasonably changed its decision to write the policy or the
+          terms on which it would have written it.
         </li>
         <li>
           <strong>The insurer had constructive knowledge.</strong> If the insurer (or its agent)
