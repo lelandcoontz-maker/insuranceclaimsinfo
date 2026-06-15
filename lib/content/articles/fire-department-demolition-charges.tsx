@@ -214,7 +214,7 @@ export default function Content() {
           government order requires demolition of the undamaged portion of the building because
           the structure cannot be partially repaired to current code, the cost of demolishing that
           undamaged portion is covered under Ordinance or Law coverage. This is the classic trigger
-          for L&amp;O Coverage B (Demolition Cost), as described in our{' '}
+          for the Demolition Cost component, as described in our{' '}
           <Link href="/resources/code-upgrade-coverage" className="text-blue-700 underline hover:text-blue-900">
             code upgrade coverage article
           </Link>.
@@ -238,10 +238,11 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a government demolition order results in a complete teardown and rebuild, Ordinance
-        or Law coverage provides three critical components. L&amp;O Dwelling coverage covers the loss
-        in value of the undamaged portion that must be demolished. L&amp;O Other Structures coverage covers the
-        cost of demolishing the undamaged portion. And L&amp;O Coverage C &mdash; the Increased
-        Cost of Construction &mdash; covers the additional cost of rebuilding to current codes
+        or Law coverage provides three components on most endorsements. The Loss to Undamaged
+        Portion component covers the loss in value of the undamaged portion that must be
+        demolished. The Demolition Cost component covers the cost of demolishing that undamaged
+        portion. And the Increased Cost of Construction component covers the additional cost of
+        rebuilding to current codes
         rather than the codes in effect when the home was originally built. As explained in our{' '}
         <Link href="/resources/code-upgrade-coverage" className="text-blue-700 underline hover:text-blue-900">
           code upgrade coverage guide
