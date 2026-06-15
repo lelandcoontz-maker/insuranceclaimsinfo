@@ -288,11 +288,11 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Section 2695.7(b)</strong> requires that no insurer shall deny or reject a claim, in whole or in part, without conducting a thorough, fair, and objective investigation sufficient to determine liability. When the carrier&apos;s own contractor has provided information indicating that the approved scope is insufficient, continuing to pay based on the original scope without addressing that information is a failure to conduct a thorough and fair investigation. The carrier has received evidence&mdash;from its own representative&mdash;and has chosen to ignore it.
+        <strong>Section 2695.7(d)</strong> requires every insurer to conduct and diligently pursue a thorough, fair, and objective investigation, and not to persist in seeking information not reasonably required for or material to the resolution of the claim dispute. When the carrier&apos;s own contractor has provided information indicating that the approved scope is insufficient, continuing to pay based on the original scope without addressing that information is a failure to conduct a thorough and fair investigation. The carrier has received evidence&mdash;from its own representative&mdash;and has chosen to ignore it.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Section 2695.7(d)</strong> provides that every insurer must provide, upon request, a written explanation of the basis for the insurer&apos;s claims settlement offer. When the carrier&apos;s own contractor has said the approved repair will not restore the property, the carrier&apos;s explanation for its settlement offer must address this evidence. If the carrier&apos;s explanation ignores the contractor&apos;s admission, the explanation is incomplete and misleading.
+        <strong>Section 2695.7(b)(1)</strong> requires that when an insurer denies or rejects a first-party claim, in whole or in part, it must do so in writing with a statement listing all bases for such denial and the factual and legal bases for each reason. When the carrier&apos;s own contractor has said the approved repair will not restore the property, the carrier&apos;s explanation for any denial or rejection of the contractor&apos;s additional scope must address this evidence. If the carrier&apos;s explanation ignores the contractor&apos;s admission, the explanation is incomplete and misleading.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
