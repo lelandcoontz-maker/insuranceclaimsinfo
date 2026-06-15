@@ -745,11 +745,11 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>California Insurance Code &sect; 790.03(h)</strong> prohibits unfair claims
-          settlement practices, including &ldquo;not attempting in good faith to effectuate
-          prompt, fair and equitable settlements of claims in which liability has become
-          reasonably clear.&rdquo; A carrier that sits on a BI claim for months while the
-          business hemorrhages money may be violating this provision.
+          <strong>California Insurance Code &sect; 790.03(h)(5)</strong> prohibits insurers from
+          &ldquo;not attempting in good faith to effectuate prompt, fair, and equitable
+          settlements of claims in which liability has become reasonably clear.&rdquo; A carrier
+          that sits on a BI claim for months while the business hemorrhages money may be
+          violating this provision.
         </li>
         <li>
           <strong>California Code of Regulations, Title 10, &sect; 2695.7(b)</strong> requires
