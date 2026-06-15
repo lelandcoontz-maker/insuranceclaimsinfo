@@ -682,11 +682,17 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          <strong>Cancellation notice requirements.</strong> California Insurance Code &sect; 677
-          requires that cancellation notices be sent to the named insured at their last known
-          address. For homeowner policies, the insurer must provide at least 30 days&rsquo; written
-          notice for non-payment cancellations and at least 45 days for other cancellations
-          (Insurance Code &sect; 675).
+          <strong>Cancellation and nonrenewal notice requirements.</strong> Cancellation and
+          nonrenewal notices on residential property policies must be delivered to the named
+          insured. For mid-term cancellation on permissible grounds, California Insurance Code
+          &sect; 677.4 generally requires at least 20 calendar days&rsquo; written notice; a
+          shorter window applies for cancellation based on nonpayment of premium. For
+          <em> nonrenewal</em> of policies that expire on or after July 1, 2020, &sect; 678
+          requires at least 75 days&rsquo; notice &mdash; and if the insurer misses that
+          deadline, the existing policy stays in force on the same terms for 75 days from the
+          date the notice is actually delivered. (Older policies were under a 45-day nonrenewal
+          notice.) These deadlines run to the named insured; additional insureds typically have
+          no independent right to direct notice.
         </li>
         <li>
           <strong>Fair Claims Settlement Practices.</strong> The California Fair Claims Settlement
