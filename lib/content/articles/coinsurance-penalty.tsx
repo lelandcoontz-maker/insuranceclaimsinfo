@@ -121,11 +121,13 @@ export default function Content() {
           carefully.
         </li>
         <li>
-          <strong>Agreed value or stated value endorsements:</strong> Some commercial policies
-          offer an &quot;agreed value&quot; endorsement that suspends the coinsurance clause. If
-          you and the insurer agree to a stated value at the time the policy is written (usually
+          <strong>Agreed value endorsements:</strong> Some commercial policies offer an
+          &ldquo;agreed value&rdquo; endorsement that suspends the coinsurance clause. If you
+          and the insurer agree to an agreed value at the time the policy is written (usually
           supported by a recent appraisal), the coinsurance penalty does not apply during the
-          policy period. This endorsement typically must be renewed annually.
+          policy period. This endorsement typically must be renewed annually. Note that
+          &ldquo;agreed value&rdquo; is not the same as &ldquo;stated value&rdquo; or
+          &ldquo;stated amount&rdquo;; only the agreed-value option suspends coinsurance.
         </li>
       </ul>
 
