@@ -73,12 +73,16 @@ export default function Content() {
         California&rsquo;s Notice-Prejudice Rule
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California follows the notice-prejudice rule, which holds that an insurer cannot
-        deny a claim solely because the policyholder provided late notice. Instead, the
-        insurer must demonstrate that it was actually prejudiced &mdash; meaning it
-        suffered real, tangible harm &mdash; as a result of the delay. If the insurer
-        cannot show prejudice, the late notice defense fails, and the claim must be
-        evaluated on its merits.
+        California follows the notice-prejudice rule. The rule was established by the
+        California Supreme Court in <em>Campbell v. Allstate Ins. Co.</em> (1963) 60
+        Cal.2d 303, and Court of Appeal cases have applied it to first-party insurance
+        contexts &mdash; see, e.g.,{' '}
+        <em>Tradewinds Escrow, Inc. v. Truck Ins. Exchange</em> (2002) 97 Cal.App.4th 704.
+        Under the rule, an insurer cannot deny a claim solely because the policyholder
+        provided late notice. The insurer must demonstrate that it was actually prejudiced
+        &mdash; meaning it suffered real, tangible harm &mdash; as a result of the delay.
+        If the insurer cannot show prejudice, the late-notice defense fails, and the claim
+        must be evaluated on its merits.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This rule reflects a fundamental fairness principle. A policyholder who paid
