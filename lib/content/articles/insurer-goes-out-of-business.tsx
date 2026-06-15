@@ -33,7 +33,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         CIGA — the California Insurance Guarantee Association — is a statutory entity created under
-        California Insurance Code Sections 1063 through 1063.19. It is not an insurance company. It
+        California Insurance Code Sections 1063 et seq. It is not an insurance company. It
         is a safety net funded by assessments on all admitted insurers doing business in California.
         When an admitted insurer is declared insolvent by a court and placed into liquidation, CIGA
         assumes responsibility for paying covered claims up to statutory limits.
@@ -108,8 +108,8 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         CIGA operates under the same regulatory deadlines as any insurer — it must acknowledge claims
-        within 15 days and accept or deny within 40 days once it has all needed information (Cal.
-        Code Regs., tit. 10, Section 2695.7). In practice, the transition period creates delays.
+        within 15 days of notice (10 CCR &sect; 2695.5(e)) and accept or deny the claim within 40 days
+        once it has all needed information (10 CCR &sect; 2695.7(b)). In practice, the transition period creates delays.
         There is typically a gap between when the insurer stops paying claims and when CIGA is fully
         operational on the file. This gap can last weeks to months.
       </p>
