@@ -304,14 +304,24 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        4. Know the regulatory deadlines
+        4. Know the regulatory deadlines &mdash; and the statute that bans the loop itself
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, the insurance company must acknowledge your claim within 15 days, begin
         investigation within 15 days, and accept or deny your claim within 40 days of receiving
         proof of claim. If they&rsquo;re blowing past these deadlines, say so explicitly in your
-        communications. Cite 10 CCR 2695.5 and 2695.7. Put them on notice that you&rsquo;re tracking
-        the timeline.
+        communications. Cite 10 CCR &sect;&sect; 2695.5 and 2695.7. Put them on notice that
+        you&rsquo;re tracking the timeline.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The documentation-loop tactic itself is independently prohibited by California Insurance
+        Code &sect; 790.03(h)(11), which forbids &ldquo;delaying the investigation or payment of
+        claims by requiring an insured, claimant, or the physician of either, to submit a
+        preliminary claim report, and then requiring the subsequent submission of formal proof of
+        loss forms, both of which submissions contain substantially the same information.&rdquo;
+        Many plaintiff attorneys read this statute as directly aimed at the &ldquo;ask again,
+        differently&rdquo; pattern; citing it in writing to the carrier puts them on notice that
+        the loop is not just slow, it is unlawful.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
