@@ -350,11 +350,15 @@ export default function Content() {
         Many homeowners build ADUs without notifying their insurance carrier. The carrier&rsquo;s
         adjuster discovers the ADU during the claims inspection, and the carrier argues the
         homeowner failed to disclose a material change in the risk. Under California Insurance
-        Code &sect; 338, a policy can be rescinded for concealment or misrepresentation of a
-        material fact. Carriers regularly take the position that an unreported habitable
-        structure &mdash; especially one being rented &mdash; is material. Even without
-        rescission, the carrier may deny coverage for the ADU itself, limit the claim to the
-        inadequate Coverage B amount, or apply a coinsurance penalty.
+        Code &sect;&sect; 331 and 359 &mdash; the general concealment and misrepresentation
+        rescission provisions &mdash; a policy can be rescinded when an insured fails to
+        communicate, or misrepresents, a fact material to the risk. Materiality is determined
+        under &sect; 334 by the probable and reasonable influence of the fact on the insurer in
+        forming the contract or estimating the risk. Carriers regularly take the position that
+        an unreported habitable structure &mdash; especially one being rented &mdash; is
+        material. Even without rescission, the carrier may deny coverage for the ADU itself,
+        limit the claim to the inadequate Other Structures amount, or apply a coinsurance
+        penalty.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
