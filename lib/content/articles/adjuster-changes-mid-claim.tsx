@@ -654,6 +654,25 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Cal. Ins. Code &sect; 14047: The Written Status Report Rule
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California has a statute aimed directly at the serial-reassignment problem in disaster
+        claims. Cal. Ins. Code &sect; 14047 requires that when a residential property claim
+        arising from a state-of-emergency loss is assigned to a third or later adjuster within
+        six months, the insurer must provide the insured with a written status report
+        identifying the status of the claim, the new adjuster, and the documents and information
+        the new adjuster will need from the insured to continue the claim. The purpose is to
+        prevent the very harm this article describes: each new adjuster starting from zero, the
+        insured being asked to resubmit documents already provided, and the cumulative delay
+        running against ALE and other deadlines. If your residential property claim arose from
+        a declared disaster and you are on your third adjuster within six months, demand the
+        written status report &sect; 14047 requires &mdash; in writing. The carrier&apos;s
+        failure to provide it is a documented regulatory violation that strengthens any later
+        bad-faith argument.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Deadlines That Do Not Reset
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
