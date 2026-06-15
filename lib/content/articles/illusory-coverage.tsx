@@ -419,11 +419,11 @@ export default function Content() {
         exclusions. In litigation following major hailstorms, policyholders argued that
         endorsements excluding &ldquo;cosmetic damage&rdquo; to roofing rendered the hail
         coverage illusory, because hail damage to shingles is almost always cosmetic in nature
-        before it becomes functional. A Texas federal court in <em>Fiess v. State Farm Lloyds</em>
-        found that a residential exclusion for cosmetic hail damage to metal roofs was enforceable
-        but noted that if the exclusion effectively eliminated all coverage for the stated peril,
-        it could be challenged as illusory. The case prompted significant industry attention to
-        how cosmetic damage endorsements are drafted and disclosed.
+        before it becomes functional. Texas federal courts have generally enforced cosmetic
+        damage exclusions where the policy language is clear, while leaving open the argument
+        that an exclusion which effectively eliminates <em>all</em> coverage for a stated peril
+        can be challenged as illusory. The pattern has prompted significant industry attention
+        to how cosmetic damage endorsements are drafted and disclosed.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
