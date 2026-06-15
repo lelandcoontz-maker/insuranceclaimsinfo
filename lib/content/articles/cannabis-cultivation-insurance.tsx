@@ -42,11 +42,14 @@ export default function Content() {
         The Legal Landscape in California
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Health and Safety Code Section 11362.2, adults 21 and older may cultivate
-        up to six living cannabis plants per residence for personal use. The plants must be grown
-        in a locked space that is not visible from a public place. Local jurisdictions retain the
-        authority to regulate or prohibit outdoor cultivation but cannot prohibit indoor cultivation
-        of up to six plants within a private residence.
+        Under California Health and Safety Code &sect; 11362.1(a)(3), adults 21 and older may
+        possess, plant, cultivate, harvest, dry, or process up to six living cannabis plants and
+        possess the cannabis the plants produce. Section 11362.2 sets the personal-cultivation
+        ground rules: under &sect; 11362.2(a)(2), the plants must be kept within a private
+        residence or within a locked space and may not be visible by normal unaided vision from
+        a public place. Local jurisdictions retain the authority to regulate or prohibit outdoor
+        cultivation but cannot prohibit indoor cultivation of up to six plants within a private
+        residence.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This legal framework means that a California homeowner growing a small number of plants
