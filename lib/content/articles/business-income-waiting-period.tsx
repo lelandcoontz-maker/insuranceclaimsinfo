@@ -54,11 +54,21 @@ export default function Content() {
         on the Declarations page. The most common waiting period is 72 hours, though policies
         may specify shorter or longer periods depending on the insurer and endorsements purchased.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The 72-hour rule lives in the form&rsquo;s definition of &ldquo;period of restoration&rdquo;:
+      </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;We will only pay for loss of Business Income that occurs during the &apos;period of
-        restoration&apos; that begins 72 hours after the time of direct physical loss or damage
-        caused by or resulting from a Covered Cause of Loss at the described premises.&rdquo;
+        &ldquo;&apos;Period of Restoration&apos; means the period of time that: a. Begins: (1) 72
+        hours after the time of direct physical loss or damage <em>for Business Income coverage</em>;
+        or (2) Immediately after the time of direct physical loss or damage <em>for Extra Expense
+        coverage</em>; caused by or resulting from any Covered Cause of Loss at the described
+        premises&rdquo; (CP 00 30 10 12).
       </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Note the structural point this language makes explicit: the 72-hour waiting period attaches
+        only to Business Income coverage. Extra Expense coverage begins immediately. We return to
+        that distinction below.
+      </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Several critical details in this language deserve attention:
       </p>
@@ -122,7 +132,7 @@ export default function Content() {
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
         &ldquo;Extra Expense means necessary expenses you incur during the &apos;period of
         restoration&apos; that you would not have incurred if there had been no direct physical
-        loss or damage to property at the described premises.&rdquo;
+        loss or damage to property caused by or resulting from a Covered Cause of Loss.&rdquo;
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         Notice that the extra expense definition references the &ldquo;period of restoration&rdquo;
