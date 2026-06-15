@@ -64,15 +64,34 @@ export default function Content() {
         been leaking for a long time &mdash; this is a gradual leak, not a covered loss.&quot;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The reality is more nuanced. A pipe can corrode gradually but fail suddenly. The
-        corrosion is the condition, but the failure &mdash; the moment the pipe actually
-        starts leaking water into your home &mdash; is the event. Many adjusters confuse
-        the condition of the pipe with the onset of the damage.
+        California courts have addressed this dispute directly. In{' '}
+        <em>Brown v. Mid-Century Ins. Co.</em> (2013) 215 Cal.App.4th 841, the Court of
+        Appeal rejected the argument that a leak is &ldquo;sudden&rdquo; just because the
+        pipe failed at a discrete moment (the &ldquo;metaphysical moment&rdquo; theory).
+        Where the discharge of water occurred over an extended period, the court held that
+        as a matter of law it was not &ldquo;sudden&rdquo; under the policy &mdash; even if
+        the underlying pipe failure happened in an instant. The temporal component matters.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Courts in many states have held that if the policyholder did not know about the
-        leak and the resulting damage was not reasonably discoverable, the loss can still be
-        considered &quot;sudden&quot; from the policyholder&apos;s perspective.
+        That sounds like bad news for policyholders, and for years it was. The more recent
+        California decision in{' '}
+        <em>Nargizyan v. State Farm Gen. Ins. Co.</em> (2026) (Court of Appeal, 2d Dist.,
+        Div. 7, certified for publication May 14, 2026) shifted the analytical center of
+        gravity: the insurer bears the burden of proving that the seepage/gradual exclusion
+        applies. Where the evidence of how long the discharge actually went on is unclear
+        or contested, summary judgment for the carrier is improper, and the question of
+        duration is a triable issue. Many plaintiff attorneys read{' '}
+        <em>Nargizyan</em> as a meaningful corrective to the &ldquo;reflex denial&rdquo;
+        pattern where carriers invoke the seepage exclusion without investigating the
+        actual timeline.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practical takeaway: do not concede the timeline. If the carrier says &ldquo;this
+        leaked for weeks,&rdquo; ask for the evidence. Plumbers&rsquo; observations,
+        moisture-meter readings, drywall staining patterns, and your own knowledge of when
+        you first noticed signs all bear on the duration question. Under{' '}
+        <em>Nargizyan</em>, the carrier &mdash; not you &mdash; has to prove the exclusion
+        applies.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
