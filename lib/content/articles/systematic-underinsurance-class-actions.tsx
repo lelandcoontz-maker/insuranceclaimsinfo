@@ -242,35 +242,48 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>California Insurance Code Section 10101.</strong> This statute requires
-          carriers writing homeowners insurance to provide a replacement cost estimate to
-          the applicant at the time of initial policy issuance and upon any request by the
-          insured. The estimate must be based on information collected about the specific
-          property.
+          <strong>California Insurance Code &sect; 10101.</strong> This statute prohibits
+          the issuance or renewal of a residential property insurance policy unless the
+          insurer delivers the standardized California Residential Property Insurance
+          Disclosure (the form mandated by &sect; 10102) and the California Residential
+          Property Insurance Bill of Rights (described in &sect; 10103.5). It is a
+          disclosure-delivery requirement, not a replacement-cost-estimate requirement.
         </li>
         <li>
-          <strong>California Insurance Code Section 10102.</strong> This provision requires
-          carriers to disclose to applicants that the replacement cost estimate may not
-          reflect the actual cost to rebuild and to inform the policyholder that they have
-          the right to obtain an independent estimate.
+          <strong>California Insurance Code &sect; 10102.</strong> This section mandates
+          the content of the standardized Residential Property Insurance Disclosure form,
+          which describes the principal residential dwelling coverage types &mdash; Actual
+          Cash Value, Replacement Cost, Extended Replacement Cost, and Guaranteed
+          Replacement Cost &mdash; and warns consumers that the form is not part of the
+          policy and that only the policy controls coverage and amounts payable.
         </li>
         <li>
-          <strong>California Insurance Code Section 10103.</strong> This section addresses
-          the carrier&rsquo;s obligation to provide information about available coverage
-          options, including guaranteed replacement cost coverage and extended replacement
-          cost endorsements.
+          <strong>California Insurance Code &sect; 10103.4 (AB 1797).</strong> This is the
+          provision most directly relevant to the systematic-underinsurance problem. When
+          the insurer provides replacement cost coverage under &sect; 10102, the insurer
+          must, at least every other year at renewal, either (1) provide an updated estimate
+          of the cost to rebuild or replace the dwelling that complies with 10 CCR
+          &sect;&sect; 2695.180&ndash;2695.183, or (2) offer renewal coverage limits based
+          on an inflation factor reflecting construction costs in the insured&rsquo;s area.
         </li>
         <li>
-          <strong>CDI Regulations on Replacement Cost Estimates.</strong> The California
-          Department of Insurance has issued guidance emphasizing that carriers must use
-          reasonable methodologies when estimating replacement costs and must update those
-          estimates to reflect current construction market conditions.
+          <strong>10 CCR &sect;&sect; 2695.180&ndash;2695.183 (CDI Replacement Cost
+          Estimate Regulations).</strong> These regulations define what counts as a
+          replacement cost estimate, specify the factors that must be considered, prohibit
+          misleading or incomplete estimates, and impose documentation requirements. This
+          is where the substantive duty to use reasonable methodologies and current
+          construction-market data lives.
         </li>
         <li>
-          <strong>Post-Wildfire Legislation.</strong> Following major wildfire events,
-          California enacted additional consumer protections including AB 2756, which
-          strengthened requirements for carriers to assist policyholders in understanding
-          and verifying their coverage limits.
+          <strong>AB 2756 (2018) and &sect; 2051.5.</strong> Following major wildfire
+          events, California enacted AB 2756 (Dodd), which strengthened post-disaster
+          consumer protections. The statute works alongside Cal. Ins. Code &sect; 2051.5
+          to reinforce the insured&rsquo;s rights to use replacement cost benefits to
+          rebuild or to purchase a replacement home at a different location, to access
+          extensions including ordinance-or-law and extended replacement cost, and to
+          receive meaningful insurer assistance during the rebuild-or-relocate decision.
+          AB 2756 does not create the periodic-estimate requirement; that lives in
+          &sect; 10103.4.
         </li>
       </ul>
 
@@ -293,12 +306,12 @@ export default function Content() {
           dwelling limit on the declarations page.
         </li>
         <li>
-          <strong>Review the carrier&rsquo;s estimate in detail.</strong> Under California
-          Insurance Code Section 10101, policyholders have the right to request a copy of
-          the replacement cost estimate the carrier used to set their coverage limit. Review
-          that estimate for accuracy &mdash; check whether the correct square footage,
-          construction type, number of bathrooms, roof material, and interior finish levels
-          are reflected.
+          <strong>Review the carrier&rsquo;s estimate in detail.</strong> Under Cal. Ins.
+          Code &sect; 10103.4 and 10 CCR &sect;&sect; 2695.180&ndash;2695.183, policyholders
+          should receive periodic updated replacement cost estimates and have the right to
+          documentation supporting those estimates. Review the estimate for accuracy
+          &mdash; check whether the correct square footage, construction type, number of
+          bathrooms, roof material, and interior finish levels are reflected.
         </li>
         <li>
           <strong>Account for code upgrade costs.</strong> Replacement cost means rebuilding
@@ -500,9 +513,11 @@ export default function Content() {
           at insurance.ca.gov.
         </li>
         <li>
-          <strong>California Insurance Code Sections 10101&ndash;10103</strong> &mdash;
-          The statutory framework governing replacement cost estimation disclosure
-          requirements for residential property insurers in California. Available through
+          <strong>California Insurance Code &sect;&sect; 10101&ndash;10103.5 and
+          &sect; 10103.4</strong> &mdash; The disclosure-delivery framework and the
+          periodic replacement-cost-estimate requirement for residential property insurers
+          in California. The substantive estimate methodology requirements appear in 10
+          CCR &sect;&sect; 2695.180&ndash;2695.183. Available through
           leginfo.legislature.ca.gov.
         </li>
       </ul>
