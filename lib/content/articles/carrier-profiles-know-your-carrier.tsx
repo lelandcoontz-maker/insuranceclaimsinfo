@@ -274,20 +274,22 @@ export default function Content() {
           estimate.
         </li>
         <li>
-          <strong>Low contractor estimates by design.</strong> The contractors who write estimates
-          for Liberty Mutual know they&rsquo;re probably not getting the actual repair job. So
-          they write low estimates &mdash; they have no incentive to be thorough since they
-          won&rsquo;t be the ones doing the work. Then Liberty Mutual uses this artificially low
-          estimate as their basis for payment.
+          <strong>Estimating contractors don&rsquo;t bid the work.</strong> In the author&rsquo;s
+          experience, the contractors who write estimates for Liberty Mutual generally do not
+          expect to perform the repair work themselves. Estimates produced under those conditions
+          tend to be more conservative than those from contractors actually bidding for the
+          repair contract, and Liberty Mutual frequently relies on those conservative estimates
+          as the basis for payment.
         </li>
         <li>
-          <strong>&ldquo;Sign a contract first&rdquo; game.</strong> Liberty Mutual will
+          <strong>&ldquo;Sign a contract first&rdquo; sequence.</strong> Liberty Mutual will
           sometimes send their preferred contractor to write an estimate, then tell the homeowner
-          to sign a contract with that contractor before receiving payment. When a legitimate
-          independent contractor provides a higher estimate, Liberty Mutual challenges it. But if
-          you push back and go to appraisal, the award almost always comes in at or above the
-          independent contractor&rsquo;s number &mdash; proving the Liberty Mutual estimate was
-          artificially deflated.
+          to sign a contract with that contractor before receiving payment. When an independent
+          contractor provides a higher estimate, Liberty Mutual frequently challenges it. In the
+          author&rsquo;s experience, when policyholders push back and go to appraisal, the award
+          tends to come in at or above the independent contractor&rsquo;s number &mdash; which
+          many plaintiff attorneys read as confirmation that the original estimate was
+          conservative.
         </li>
       </ul>
 
