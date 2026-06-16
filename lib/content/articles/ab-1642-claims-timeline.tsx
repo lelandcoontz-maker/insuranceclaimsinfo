@@ -2,11 +2,11 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'AB 1642 and California Claims Handling Timelines: The Deadlines Your Insurer Must Meet',
+  title: 'California Claims Handling Timelines: The Deadlines Your Insurer Must Meet',
   description:
-    'California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. AB 1642 and the California Insurance Code establish specific timelines that policyholders can enforce.',
+    'California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. The Insurance Code and Fair Claims Settlement Practices Regulations establish specific timelines that policyholders can enforce.',
   summary:
-    'California law sets enforceable deadlines on insurers: acknowledge a claim within 15 days, accept or deny within 40 days of receiving proof of loss, and pay promptly once accepted. AB 1642 and the Insurance Code make these timelines mandatory, not courtesies.',
+    'California law sets enforceable deadlines on insurers: acknowledge a claim within 15 days, accept or deny within 40 days of receiving proof of loss, and pay promptly once accepted. The Insurance Code, Fair Claims Settlement Practices Regulations, and state-of-emergency statutes make these timelines mandatory, not courtesies.',
 }
 
 export default function Content() {
@@ -58,11 +58,16 @@ export default function Content() {
         that governs every aspect of how insurers must handle claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Assembly Bill 1642, signed into law in 2023, strengthened several of these requirements,
-        particularly in the context of catastrophic losses. AB 1642 amended portions of the
-        Insurance Code to impose additional obligations on insurers handling claims arising from
-        declared emergencies, including stricter timeline enforcement, enhanced communication
-        requirements, and expanded advance payment obligations.
+        A series of post-wildfire legislative reforms has strengthened these requirements,
+        particularly for losses arising from a Governor-declared state of emergency. SB 824
+        (2018) imposed a one-year moratorium on cancellation and nonrenewal for residential
+        policyholders in declared-emergency areas. SB 240 (2019) added Cal. Ins. Code &sect;
+        14047, which requires a written status report when a third or later adjuster is
+        assigned to a residential disaster claim within six months. SB 872 (2020) added Cal.
+        Ins. Code &sect;&sect; 2060 and 2061, extending residential ALE to 24 months (with a
+        12-month extension for delays beyond the insured&rsquo;s control and recurring 6-month
+        good-cause extensions) and requiring a 4-month advance payment of ALE on request after a
+        total loss in a declared emergency.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -233,36 +238,39 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        AB 1642: Enhanced Requirements for Catastrophic Claims
+        Enhanced Requirements for Catastrophic and Declared-Emergency Claims
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Assembly Bill 1642, which took effect January 1, 2024, added additional requirements
-        for claims arising from declared emergencies and catastrophic events. The legislation
-        was a direct response to the widespread complaints about insurer delays following
-        California&rsquo;s devastating wildfire seasons and reflects the legislature&rsquo;s
-        recognition that the existing timeline framework, while sound in principle, was being
-        routinely violated in practice. Key provisions include:
+        California&rsquo;s legislature has responded to widespread complaints about insurer
+        delays following the state&rsquo;s devastating wildfire seasons with a series of
+        targeted statutes that overlay the general claims-handling framework with extra
+        protections when the loss arises from a Governor-declared state of emergency. The
+        most important of these are SB 824 (2018), SB 240 (2019), and SB 872 (2020). Together
+        they impose timeline, communication, and advance-payment obligations that go beyond
+        what 10 CCR &sect; 2695 alone requires.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         Advance Payment Requirements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For claims arising from declared disasters, AB 1642 strengthened the requirement that
-        insurers make advance payments for immediate needs. The legislation codified the CDI&rsquo;s
-        prior guidance that advance payments should be issued promptly and should not be conditioned
-        on the policyholder&rsquo;s submission of complete documentation. Policyholders displaced
-        by catastrophic events need immediate funds for housing, food, clothing, and other
-        necessities &mdash; they should not have to wait for the full claims process to play out
-        before receiving assistance.
+        For residential claims arising from a declared emergency, Cal. Ins. Code &sect; 2061
+        (added by SB 872) requires the insurer, on request, to render an advance payment of
+        no less than four months of additional living expenses after a total loss. The same
+        statute prohibits insurers from requiring company-specific inventory forms and allows
+        grouped inventory categories rather than item-by-item lists for impractical items.
+        Policyholders displaced by catastrophic events need immediate funds for housing,
+        food, clothing, and other necessities &mdash; they should not have to wait for the
+        full claims process to play out before receiving assistance.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         Communication Requirements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        AB 1642 requires insurers to provide clear, written explanations of every coverage
-        determination, including:
+        California&rsquo;s Fair Claims Settlement Practices Regulations and Insurance Code
+        &sect; 790.03(h) together require insurers to provide clear, written explanations of
+        every coverage determination, including:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -283,21 +291,23 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This requirement addresses the common insurer practice of issuing vague denial letters
+        These requirements address the common insurer practice of issuing vague denial letters
         that cite general policy language without explaining how that language applies to the
-        specific claim. Under AB 1642, the insurer must show its work.
+        specific claim. 10 CCR &sect; 2695.7(b)(1) requires the insurer to identify &ldquo;all
+        bases&rdquo; for the denial in writing &mdash; the insurer must show its work.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         Claims Handling Personnel Requirements
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        AB 1642 also addressed the staffing crisis that has plagued catastrophe claims handling.
-        Following major disasters, insurers often reassign adjusters, merge claim files, or
-        otherwise disrupt the continuity of claims handling in ways that delay resolution. The
-        legislation requires insurers to maintain adequate staffing levels for catastrophe
-        claims handling and to provide policyholders with updated contact information when
-        adjusters are reassigned. For more on adjuster reassignment issues, see{' '}
+        SB 240 (2019) added Cal. Ins. Code &sect; 14047 to address the staffing problem in
+        catastrophe claims handling. Following major disasters, insurers often reassign
+        adjusters, merge claim files, or otherwise disrupt the continuity of claims handling
+        in ways that delay resolution. Section 14047 requires the insurer to provide a
+        written status report when a <em>third or later</em> adjuster is assigned to a
+        residential disaster claim within six months, naming the new adjuster and summarizing
+        the status of the file. For more on adjuster reassignment issues, see{' '}
         <Link href="/resources/adjuster-changes-mid-claim" className="text-blue-700 underline hover:text-blue-900">
           adjuster changes mid-claim
         </Link>.
@@ -380,12 +390,12 @@ export default function Content() {
               </td>
             </tr>
             <tr className="bg-gray-50">
-              <td className="border border-gray-300 px-4 py-2 font-semibold">Promptly</td>
+              <td className="border border-gray-300 px-4 py-2 font-semibold">On request</td>
               <td className="border border-gray-300 px-4 py-2">
-                Advance payments for catastrophe claims (AB 1642)
+                4-month ALE advance for declared-emergency total losses
               </td>
               <td className="border border-gray-300 px-4 py-2">
-                Ins. Code &sect; 790.03(h) as amended
+                Ins. Code &sect; 2061 (SB 872, 2020)
               </td>
             </tr>
           </tbody>
@@ -594,8 +604,9 @@ export default function Content() {
           framework, including the specific prohibitions on claims handling delays.
         </li>
         <li>
-          <strong>Assembly Bill 1642 (2023)</strong> &mdash; The full text of the legislation
-          and its legislative history are available through the California Legislative
+          <strong>SB 824 (2018), SB 240 (2019), SB 872 (2020)</strong> &mdash; The post-wildfire
+          legislative package strengthening claims handling for declared-emergency residential
+          losses. Full text and legislative history available through the California Legislative
           Information website (leginfo.legislature.ca.gov).
         </li>
       </ul>
