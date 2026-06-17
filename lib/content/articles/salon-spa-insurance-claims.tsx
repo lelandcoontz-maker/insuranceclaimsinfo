@@ -418,8 +418,9 @@ export default function Content() {
         California Board of Barbering and Cosmetology Licensing
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Business &amp; Professions Code &sect; 7316 et seq. establishes licensing
-        requirements for barbers, cosmetologists, estheticians, manicurists, and establishments.
+        California Business &amp; Professions Code &sect; 7300 et seq. (the Barbering and
+        Cosmetology Act, Division 3, Chapter 10) establishes licensing requirements for barbers,
+        cosmetologists, estheticians, manicurists, and establishments.
         The California Board of Barbering and Cosmetology (BBC) inspects salons for health and
         safety compliance. Insurance implications of BBC requirements include:
       </p>
