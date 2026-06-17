@@ -399,9 +399,11 @@ export default function Content() {
           standard coverage disputes.
         </li>
         <li>
-          <strong>Do not discuss the broker claim with your insurer.</strong> Your claim against
-          your broker is separate from your insurance claim. The insurer does not need to know
-          about it, and discussing it could complicate both claims.
+          <strong>Keep the broker claim and the insurance claim on separate tracks.</strong> A
+          claim against your broker is legally distinct from your claim against the insurer.
+          How and when to disclose a broker claim to your insurer (or vice versa) is a strategy
+          question that often turns on policy language, timing, and jurisdiction &mdash; consult
+          your attorney before discussing one with the other.
         </li>
       </ol>
 
