@@ -31,11 +31,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Surplus lines insurance has always existed as a niche market for unusual or hard-to-place
         risks. What is new is the scale: surplus lines transaction volume in California increased
-        by approximately 119% in the first half of 2025 compared to the same period two years
-        earlier, and more than 300,000 California homeowners now have their primary property
-        coverage through a surplus lines carrier. For many of these homeowners, it is the only
-        option &mdash; but the differences between admitted and non-admitted coverage are
-        significant, and not all of them are obvious.
+        by approximately 119% in the first half of 2025 compared to the same period in 2024 (per
+        Surplus Line Association of California reporting), and more than 300,000 California
+        homeowners now have their primary property coverage through a surplus lines carrier. For
+        many of these homeowners, it is the only option &mdash; but the differences between
+        admitted and non-admitted coverage are significant, and not all of them are obvious.
       </p>
 
       <CalloutBox variant="warning" title="The Most Important Difference">
@@ -62,7 +62,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Non-admitted carriers are not licensed by the CDI, but they must be listed on the
-        California Surplus Line Association&rsquo;s (CSLA) List of Approved Surplus Line Insurers.
+        Surplus Line Association of California&rsquo;s (SLA) List of Approved Surplus Line Insurers.
         To be listed, a carrier must meet minimum financial requirements and be domiciled in a
         jurisdiction with adequate regulatory oversight. However, the level of regulatory scrutiny
         is fundamentally different from what admitted carriers face.
@@ -125,7 +125,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Surplus lines carriers operate under a reduced regulatory framework. While they are not
-        entirely unregulated &mdash; the CSLA provides some oversight, and basic fraud prohibitions
+        entirely unregulated &mdash; the SLA provides some oversight, and basic fraud prohibitions
         still apply &mdash; the CDI has significantly less authority over surplus lines claims
         handling practices. A policyholder with a claims dispute against a surplus lines carrier
         has fewer administrative remedies and may need to resort to litigation more quickly.
@@ -136,7 +136,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Surplus lines policies are subject to a 3% surplus lines tax, plus a stamping fee
-        charged by the CSLA. This tax is passed through to the policyholder and adds to the
+        charged by the SLA. This tax is passed through to the policyholder and adds to the
         already higher premium. Admitted carrier premiums are not subject to this additional tax.
       </p>
 
@@ -148,7 +148,7 @@ export default function Content() {
         standard insurance agent cannot place surplus lines coverage unless the agent also holds
         a surplus lines broker license. The broker has a statutory obligation to conduct the
         diligent search of the admitted market before placing coverage with a non-admitted carrier
-        and to ensure the carrier meets the CSLA&rsquo;s listing requirements.
+        and to ensure the carrier meets the SLA&rsquo;s listing requirements.
       </p>
 
       {/* ====== Why So Many Homeowners Are on Surplus Lines ====== */}
@@ -243,9 +243,9 @@ export default function Content() {
           scrutiny.
         </li>
         <li>
-          <strong>Verify CSLA listing.</strong> Confirm the carrier is on the California Surplus
-          Line Association&rsquo;s current list of approved surplus line insurers. The list is
-          available on the CSLA&rsquo;s website.
+          <strong>Verify SLA listing.</strong> Confirm the carrier is on the Surplus Line
+          Association of California&rsquo;s current list of approved surplus line insurers. The
+          list is available on the SLA&rsquo;s website.
         </li>
         <li>
           <strong>Review the carrier&rsquo;s California exposure.</strong> A carrier with heavy
@@ -331,7 +331,7 @@ export default function Content() {
           not standardized.
         </li>
         <li>
-          Always check the carrier&rsquo;s AM Best rating (A- or higher preferred), CSLA
+          Always check the carrier&rsquo;s AM Best rating (A- or higher preferred), SLA
           listing, and financial strength before purchasing a surplus lines policy.
         </li>
         <li>
