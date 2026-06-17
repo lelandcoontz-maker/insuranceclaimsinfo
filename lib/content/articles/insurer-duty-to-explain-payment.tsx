@@ -203,10 +203,12 @@ export default function Content() {
         The Right to Request Your Claim File
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Beyond the specific regulatory requirements of &sect; 2695.7, the insured has broader rights
-        to request copies of documents in the claim file. California Insurance Code &sect; 2071 and
-        the Fair Claims Settlement Practices Regulations establish that the insured is entitled to
-        examine the documents that relate to the handling of the claim.
+        Beyond the specific regulatory requirements of &sect; 2695.7, the insured has additional
+        regulatory entitlements to request copies of documents in the claim file. The Fair Claims
+        Settlement Practices Regulations (particularly 10 CCR &sect; 2695.9(d) on written scope
+        and estimate procedures), together with CDI guidance &mdash; including the Department&rsquo;s
+        notice on access to claim-related documents &mdash; establish that the insured is entitled
+        to examine the documents that relate to the handling of the claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a detailed guide on this right, see our article on{' '}
