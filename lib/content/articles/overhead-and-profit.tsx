@@ -90,8 +90,13 @@ export default function Content() {
           more trades listed but no O&amp;P, point out the inconsistency.
         </li>
         <li>
-          Cite your state&apos;s fair claims regulations. In California, the insurer must pay
-          the reasonable cost of repair &mdash; and O&amp;P is a reasonable cost when a GC is needed.
+          Cite your state&apos;s fair claims regulations. In California, 10 CCR &sect; 2695.9
+          requires that estimates reflect costs to restore the property using accepted trade
+          standards at amounts representative of the local market &mdash; which arguably
+          requires O&amp;P when a GC is reasonably needed. (No California appellate court has
+          yet ruled directly on the three-trade rule or the &ldquo;reasonably likely&rdquo; O&amp;P
+          standard; the argument anchors in the regulation plus persuasive out-of-state authority
+          from PA, FL, AZ, OK, NY, and the Seventh Circuit.)
         </li>
         <li>
           Put your demand in writing. Explain why O&amp;P is appropriate and ask the carrier
