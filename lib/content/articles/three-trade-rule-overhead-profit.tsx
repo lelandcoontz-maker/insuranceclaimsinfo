@@ -161,13 +161,19 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">New York: Replacement Cost Is Inherently Hypothetical</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Mazzocki v. State Farm</em> (2003), the New York Appellate Division addressed the carrier&apos;s argument that O&amp;P should not be paid because the policyholder had not yet hired a general contractor. The court rejected this reasoning with an observation that cuts to the heart of the issue:
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4 italic">
-        &quot;A replacement cost estimate is equally hypothetical or contingent as to all materials, labor and contractor services.&quot;
+        In <em>Mazzocki v. State Farm</em> (2003), the New York Appellate Division, Third
+        Department addressed the carrier&rsquo;s argument that O&amp;P should not be paid because
+        the policyholder had not yet hired a general contractor. The court rejected that argument
+        and held that State Farm was obligated to include general contractor overhead and profit
+        in replacement cost calculations &mdash; and therefore in actual cash value &mdash;
+        whenever a contractor was reasonably likely to be needed for the repair or replacement.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The point is simple. Every component of a replacement cost estimate is prospective &mdash; the materials have not been purchased, the labor has not been performed, the contractors have not been hired. If the hypothetical nature of the cost were grounds for exclusion, the insurer would owe nothing at all.
+        The reasoning is straightforward. Every component of a replacement cost estimate is
+        prospective &mdash; the materials have not been purchased, the labor has not been
+        performed, the contractors have not been hired. If the hypothetical nature of the cost
+        were grounds for exclusion, the insurer would owe nothing at all. The need for a general
+        contractor is no more or less hypothetical than the need for shingles, drywall, or paint.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>1 A.D.3d 9 (N.Y. App. Div., 3d Dept. 2003).</em>
