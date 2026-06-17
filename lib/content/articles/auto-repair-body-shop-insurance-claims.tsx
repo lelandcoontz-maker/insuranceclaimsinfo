@@ -361,9 +361,10 @@ export default function Content() {
         </Link>{' '}
         problem is acute for shops that underinsure their business personal property. If the
         policy has an 80% coinsurance clause and the shop carries $150,000 in BPP coverage
-        but the actual replacement cost value is $400,000, the shop is only insured to
-        37.5% of value. In a partial loss of $100,000, the coinsurance penalty reduces the
-        payment to $37,500 ($150,000 / $320,000 x $100,000). The shop absorbs $62,500 of
+        but the actual replacement cost value is $400,000, the policy requires $320,000 of
+        coverage (80% of $400,000) to avoid a penalty. In a partial loss of $100,000, the
+        coinsurance penalty reduces the payment to approximately $46,875 (carried / required
+        &times; loss = $150,000 / $320,000 &times; $100,000). The shop absorbs $53,125 of
         the loss out of pocket &mdash; not because the loss exceeded the policy limit, but
         because the coverage was inadequate relative to the total value at risk.
       </p>
