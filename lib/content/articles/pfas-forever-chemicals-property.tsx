@@ -131,13 +131,15 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, the pollution exclusion has been the subject of extensive litigation, and
-        courts in many states have limited its application. Some jurisdictions have held that
-        the pollution exclusion was designed to address traditional industrial pollution
-        events &mdash; not the gradual accumulation of chemicals that a property owner did
-        not release. The argument that a homeowner whose drinking water was contaminated by
-        a distant manufacturing facility should be barred from coverage under a
-        &ldquo;pollution exclusion&rdquo; is one that some courts have found unpersuasive.
-        But the outcome varies significantly by state and by the specific policy language.
+        courts in many states have limited its application. In California, the controlling
+        case is <em>MacKinnon v. Truck Ins. Exchange</em> (2003) 31 Cal.4th 635, in which the
+        California Supreme Court held that the absolute pollution exclusion is ambiguous when
+        applied to substances beyond traditional environmental pollution and must be construed
+        in favor of coverage where a reasonable insured would not anticipate the exclusion
+        applies. The argument that a homeowner whose drinking water was contaminated by a
+        distant manufacturing facility should be barred from coverage under a &ldquo;pollution
+        exclusion&rdquo; is one that many policyholder attorneys read MacKinnon as foreclosing.
+        Outside California, results vary by state and by specific policy language.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
