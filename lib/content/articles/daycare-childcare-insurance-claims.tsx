@@ -236,11 +236,13 @@ export default function Content() {
         restoration</strong> &mdash; the time it takes to repair the physical damage. But the
         true financial impact extends far beyond the repair period. The ramp-up period &mdash;
         the time it takes to rebuild enrollment to pre-loss levels &mdash; can be six months to
-        a year or more. The ISO <strong>Extended Business Income</strong> endorsement
-        (CP 15 15) provides coverage for a specified number of days after the restoration is
-        complete, typically 30 to 60 days. For a daycare, 30 to 60 days is woefully inadequate.
-        Negotiate the longest extended business income period available, and consider requesting
-        a 365-day extension if the carrier will offer it.
+        a year or more. The ISO Business Income Coverage Form (CP 00 30) includes an
+        <strong> Extended Business Income</strong> additional coverage providing 60 consecutive
+        days after operations resume. For a daycare, 60 days is woefully inadequate. The same
+        form&rsquo;s <strong>Extended Period of Indemnity</strong> optional coverage replaces
+        that 60-day period with a longer one (typical selectable options run 90, 120, 180, 365,
+        540, or 730 days). For most childcare operations, 365 days should be the floor &mdash;
+        and longer if your enrollment recovery realistically takes more than a year.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a guide to business income claims, see our article on{' '}
