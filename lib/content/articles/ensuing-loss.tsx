@@ -41,7 +41,7 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Two Purposes of the Ensuing Loss Clause</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Federal courts have identified two purposes that the ensuing loss clause serves:
+        Courts and treatise authorities interpreting ensuing-loss provisions generally identify two purposes that the clause serves:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>
