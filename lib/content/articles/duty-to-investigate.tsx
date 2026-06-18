@@ -89,10 +89,10 @@ export default function Content() {
           denial,&rdquo; and that an inadequate investigation can itself support a bad-faith
           claim where the investigation failure caused wrongful denial, delay, or underpayment.
           But California courts have been clear that this remains a coverage-dependent claim:
-          as <em>Jordan v. Allstate Ins. Co.</em> (2007) 148 Cal.App.4th 1062, 1080 put it, an
-          insurer&apos;s failure to investigate &ldquo;is <em>not</em> separately actionable if
-          there is no coverage. If there is no coverage, then any failure...to properly
-          investigate would not have caused [the insured] any damage.&rdquo; (See also{' '}
+          as <em>Jordan v. Allstate Ins. Co.</em> (2007) 148 Cal.App.4th 1062, 1078 put it,
+          &ldquo;[a]n insurer&apos;s failure to investigate &hellip; is not separately actionable
+          if there is no coverage.&rdquo; Where there is no coverage in the first place, an
+          investigation failure cannot itself have caused the insured any damage. (See also{' '}
           <em>Waller v. Truck Ins. Exchange, Inc.</em> (1995) 11 Cal.4th 1; <em>McMillin Scripps
           North Partnership v. Royal Ins. Co.</em> (1993) 19 Cal.App.4th 1215, 1222.) The duty
           to investigate is independent of the duty to pay, but bad-faith damages still require
