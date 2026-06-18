@@ -377,14 +377,17 @@ export default function Content() {
         </p>
         <p className="mt-3">
           Because California treats insurance appraisal as a form of contractual arbitration
-          (see <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130 Cal.App.3d 818), the
-          California Arbitration Act applies to the appraisal process. Under CCP &sect; 1281.4,
-          a court must stay an action pending the outcome of arbitration the parties have
-          agreed to. Many plaintiff attorneys argue that this framework tolls (pauses) the
-          §2071 suit-limitation period during the pendency of an appraisal — an insured cannot
-          reasonably be required to litigate the same loss that is simultaneously being
-          adjudicated by the appraisal panel. California courts have applied equitable-tolling
-          principles in related claims contexts.
+          for procedural purposes (see <em>Appalachian Ins. Co. v. Rivcom Corp.</em> (1982) 130
+          Cal.App.3d 818), the California Arbitration Act&rsquo;s procedural overlay applies to
+          appraisal. Under CCP &sect; 1281.4, a court must stay an action pending the outcome of
+          a related arbitration. The published California Court of Appeal authority, however, is
+          consistent in <em>declining</em> to extend equitable tolling beyond the
+          notice-to-formal-denial window recognized in <em>Prudential-LMI Commercial Ins. v.
+          Superior Court</em> (1990) 51 Cal.3d 674. See <em>Singh v. Allstate</em> (1998) 63
+          Cal.App.4th 135; <em>Marselis v. Allstate</em> (2004) 121 Cal.App.4th 122; <em>Doheny
+          Park Terrace HOA v. Truck Ins.</em> (2005) 132 Cal.App.4th 1076. The safer working
+          assumption is that invoking appraisal does NOT toll the &sect; 2071 suit-limitation
+          period.
         </p>
         <p className="mt-3">
           <strong>That said, whether tolling applies to a specific claim is a legal question
@@ -401,12 +404,13 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Once appraisal is invoked, each side selects a &ldquo;competent and disinterested&rdquo;
-        appraiser and notifies the other party within 20 days. Despite the statutory requirement
-        of &ldquo;disinterested,&rdquo; in practice each appraiser is selected by and advocates
-        for the party that appointed them. Your appraiser represents your interests. The
-        insurer&apos;s appraiser represents theirs. You want someone experienced in your specific
-        type of loss — a licensed Public Adjuster, a contractor with Xactimate expertise, or
-        another qualified professional.
+        appraiser and notifies the other party within 20 days. The &sect; 2071 standard is
+        impartiality, and the <em>Lambert v. Carneghi</em> court (2008) 158 Cal.App.4th 1120
+        reaffirmed it. In practice, party-appointed appraisers commonly take positions favorable
+        to the side that appointed them, and the appraiser&rsquo;s familiarity with your
+        position will materially affect the award. You want someone experienced in your specific
+        type of loss &mdash; a licensed Public Adjuster, a contractor with Xactimate expertise,
+        or another qualified professional.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
