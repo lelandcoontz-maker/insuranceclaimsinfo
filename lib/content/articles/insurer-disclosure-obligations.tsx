@@ -257,8 +257,8 @@ export default function Content() {
             Fences, detached garages, sheds, retaining walls, driveways, patios, and pool
             equipment are covered under a separate limit &mdash; typically 10% of the dwelling limit
             &mdash; that many policyholders never hear about. In declared disasters, California
-            Insurance Code &sect; 10103.7 allows policyholders to combine dwelling and Other Structures limits
-            Other Structures limits toward rebuilding the primary dwelling if the dwelling limits
+            Insurance Code &sect; 10103.7(a) allows policyholders to combine dwelling and Other
+            Structures limits toward rebuilding the primary dwelling if the dwelling limits
             are insufficient.
           </li>
           <li>

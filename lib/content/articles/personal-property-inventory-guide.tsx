@@ -17,7 +17,7 @@ export default function Content() {
           This article is tactical guidance on building a contents inventory after a loss,
           by a Licensed California Public Adjuster. It is not legal advice. For California
           policyholders facing a total loss in a declared state of emergency, the contents
-          advance under Insurance Code &sect; 10103.7 (60% of contents limit / up to $350,000
+          advance under Insurance Code &sect; 10103.7(b)(1) (60% of contents limit / up to $350,000
           under SB 495) may be available without an itemized inventory for at least 100 days
           &mdash; use that time to build a complete inventory at a sustainable pace.
         </p>

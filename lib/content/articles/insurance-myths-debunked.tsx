@@ -1110,7 +1110,7 @@ export default function Content() {
             <li>California Insurance Code &sect; 2060(b)(1) (24/36-month ALE for declared emergencies, per SB 872)</li>
             <li>California Insurance Code &sect; 2061 (4-month ALE advance after total loss in declared emergency, per SB 872)</li>
             <li>California Insurance Code &sect; 10103.4 (RC estimates at renewal)</li>
-            <li>California Insurance Code &sect; 10103.7 (60% contents advance up to $350,000 per SB 495; formerly 30%/$250,000 per AB 3012)</li>
+            <li>California Insurance Code &sect; 10103.7(b)(1) (60% contents advance up to $350,000 per SB 495; formerly 30%/$250,000 per AB 3012)</li>
             <li>California Insurance Code &sect; 15027 (PA contract / insured communication rights)</li>
             <li>California Insurance Code &sect; 1861.02 (Prop 103 rating)</li>
             <li>California Civil Code &sect; 1526 (restrictive endorsements)</li>
