@@ -1076,9 +1076,11 @@ export default function Content() {
           <strong>Blurring the lines between principal and appraiser:</strong> The insurer
           directs its appraiser on specific positions to take, prevents the appraiser from
           negotiating in good faith, or treats the appraiser as an employee rather than an
-          independent panel member. While the appraiser is an advocate for the insurer&rsquo;s
-          position (per <em>Lambert</em>), the appraiser must still exercise independent
-          judgment as a member of the panel.
+          independent panel member. While party appraisers in practice commonly take
+          positions favorable to the side that appointed them, the &sect; 2071 standard is
+          &ldquo;competent and disinterested&rdquo; (reaffirmed in <em>Lambert v. Carneghi</em>
+          (2008) 158 Cal.App.4th 1120), and the appraiser must exercise independent judgment
+          as a panel member.
         </li>
         <li>
           <strong>Withholding information:</strong> The insurer refuses to share its claim file,
@@ -1261,9 +1263,12 @@ export default function Content() {
           those items to the panel. They do not appraise the loss themselves.
         </li>
         <li>
-          The <strong>party appraisers</strong> are advocates. They evaluate the loss, prepare
-          estimates, and negotiate with each other. They do not decide coverage. They do not
-          act as neutrals.
+          The <strong>party appraisers</strong> evaluate the loss, prepare estimates, and
+          negotiate with each other. In practice each one commonly takes positions favorable to
+          the side that appointed them, but the &sect; 2071 statutory standard is
+          &ldquo;competent and disinterested&rdquo; (the <em>Lambert</em> court reaffirmed this
+          and rejected the &ldquo;party appraiser as advocate&rdquo; characterization as a legal
+          matter). They do not decide coverage. They do not act as neutrals either.
         </li>
         <li>
           The <strong>umpire</strong> is the neutral tiebreaker. The umpire resolves the

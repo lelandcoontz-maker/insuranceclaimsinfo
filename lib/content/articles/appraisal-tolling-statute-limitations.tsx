@@ -954,13 +954,13 @@ export default function Content() {
       <CalloutBox variant="legal" title="Legal Disclaimer">
         <p>
           This article is provided for general educational purposes only and does not
-          constitute legal advice. The interplay between appraisal and the statute of
-          limitations involves complex and unsettled legal questions that depend on the specific
-          facts of your claim, the language of your policy, and the current state of California
-          case law. Consult a licensed attorney experienced in California insurance litigation
-          for advice about your specific situation. If your suit limitation deadline is
-          approaching, seek legal counsel immediately &mdash; missing the deadline is
-          irreversible.
+          constitute legal advice. While the published California Court of Appeal authority is
+          consistent in declining to extend equitable tolling beyond the Prudential-LMI
+          notice-to-denial window, application to any specific claim still depends on the facts,
+          the policy language, and the procedural posture. Consult a licensed attorney
+          experienced in California insurance litigation for advice about your specific
+          situation. If your suit limitation deadline is approaching, seek legal counsel
+          immediately &mdash; missing the deadline is irreversible.
         </p>
       </CalloutBox>
 
