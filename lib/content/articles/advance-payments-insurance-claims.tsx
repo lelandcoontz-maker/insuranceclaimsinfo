@@ -249,7 +249,7 @@ export default function Content() {
         3. Demand Coverage-by-Coverage Payments
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A standard homeowner policy provides multiple coverages: Coverage A (dwelling), Coverage B (other structures), Coverage C (personal property), and Coverage D (additional living expenses). Each coverage creates a separate payment obligation. If the carrier has completed its assessment of the dwelling damage but is still working on the contents inventory, the dwelling payment should not be held up. Demand separate payment for each coverage as it becomes undisputed, rather than allowing the carrier to withhold everything until every coverage is finalized.
+        A standard homeowner policy provides multiple coverages: Dwelling, Other Structures, Personal Property, and Loss of Use (ALE). Each coverage creates a separate payment obligation. If the carrier has completed its assessment of the dwelling damage but is still working on the contents inventory, the dwelling payment should not be held up. Demand separate payment for each coverage as it becomes undisputed, rather than allowing the carrier to withhold everything until every coverage is finalized.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
