@@ -315,7 +315,9 @@ export default function Content() {
         California has recognized that a large number of existing ADUs were built without permits.
         Several jurisdictions have created amnesty or legalization programs that allow homeowners
         to bring unpermitted ADUs into compliance, often with reduced fees and relaxed code
-        requirements. SB 897 (2022) and AB 1033 (2023) further streamlined the process.
+        requirements. SB 897 (2022, eff. Jan. 1, 2023) further restricted local agencies from
+        denying ADU permits based on nonconforming zoning conditions or unpermitted structures
+        that do not present a health or safety threat.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         How does permit legalization interact with insurance? In several important ways:

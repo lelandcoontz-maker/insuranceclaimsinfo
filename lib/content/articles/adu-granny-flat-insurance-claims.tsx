@@ -80,8 +80,10 @@ export default function Content() {
         </li>
         <li>
           <strong>AB 881 (2019):</strong> Further limited local government&rsquo;s ability to impose
-          barriers on ADU construction, including removing owner-occupancy requirements for new ADUs
-          (through January 1, 2025) and restricting lot coverage limitations.
+          barriers on ADU construction, including a temporary moratorium on owner-occupancy
+          requirements for new ADUs (originally set to sunset on January 1, 2025) and restricting
+          lot coverage limitations. AB 976 (2023, eff. Jan. 1, 2024) then made the prohibition on
+          owner-occupancy requirements permanent, eliminating the AB 881 sunset.
         </li>
         <li>
           <strong>AB 1033 (2023):</strong> Allowed local jurisdictions to permit ADUs to be sold
