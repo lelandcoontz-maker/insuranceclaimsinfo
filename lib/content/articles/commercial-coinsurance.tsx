@@ -279,12 +279,12 @@ export default function Content() {
         The CP 15 15: Business Income Report/Worksheet
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The CP 15 15 endorsement requires the insured to submit periodic reports of business income
-        values to the insurer, typically quarterly or annually. It serves two purposes: it documents
-        the insured&rsquo;s BI exposure for coinsurance compliance, and it provides the insurer
-        with data to adjust the premium. When combined with an agreed value endorsement, the
-        CP 15 15 worksheet is the document that establishes the agreed-upon BI value that suspends
-        the coinsurance provision.
+        The CP 15 15 is a report/worksheet form on which the insured submits business income values
+        to the insurer, typically on an annual basis. It serves two purposes: it documents the
+        insured&rsquo;s BI exposure for coinsurance compliance, and it provides the insurer with
+        data to adjust the premium. When the Agreed Value option is in effect, the CP 15 15
+        worksheet is the document that establishes the agreed-upon BI value that suspends the
+        coinsurance provision.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Filing an accurate CP 15 15 is critical. If the reported values are too low, the insured
@@ -300,10 +300,14 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The single most effective protection against a coinsurance penalty is the <strong>Agreed
-        Value</strong> endorsement (CP 00 30 for BI; the building/BPP agreed value is typically
-        built into the policy conditions or added via endorsement). When agreed value is in effect,
-        the coinsurance condition is <em>suspended</em>. The insurer agrees that the stated limit
-        satisfies the coinsurance requirement for the policy period, regardless of actual value.
+        Value</strong> option. For Business Income, Agreed Value is an option selected on the
+        Declarations Page within the CP 00 30 (or CP 00 32) form itself &mdash; not a separate
+        endorsement. For Building and Business Personal Property, the Agreed Value option is
+        likewise selected on the Declarations Page and references a Statement of Values the insured
+        submits at policy inception. Some carriers offer it on proprietary non-ISO forms. When
+        Agreed Value is in effect, the coinsurance condition is <em>suspended</em> and the insurer
+        agrees that the stated limit satisfies the coinsurance requirement for the policy period,
+        regardless of actual value at the time of loss.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
