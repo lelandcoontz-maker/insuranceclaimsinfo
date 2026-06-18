@@ -42,7 +42,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your total loss occurred in a state-declared state of emergency, California Insurance
-        Code <strong>&sect; 10103.7</strong> (as amended by SB 495, effective January 2026)
+        Code <strong>&sect; 10103.7(b)(1)</strong> (as amended by SB 495, effective January 2026)
         requires your insurer to advance <strong>60% of your personal property coverage
         limit</strong> &mdash; up to $350,000 &mdash; without requiring you to submit a detailed
         inventory. You have at least <strong>100 days</strong> before the insurer can require a

@@ -525,7 +525,7 @@ export default function Content() {
           and remediation protocols</li>
         <li><strong>Contaminated refrigerator decontamination</strong> — a refrigerator that lost
           power during a fire develops H2S gas from rotting food. Opening it requires an acid gas
-          respirator. The contents require hazmat disposal. California Penal Code 402(b) requires
+          respirator. The contents require hazmat disposal. California Penal Code &sect; 402b requires
           removal of doors/latches from abandoned refrigerators</li>
         <li><strong>Front and back porch cleaning</strong> — porches get scuff marks from
           firefighter hose drag, soot tracking, and water damage. These areas should be drawn in
