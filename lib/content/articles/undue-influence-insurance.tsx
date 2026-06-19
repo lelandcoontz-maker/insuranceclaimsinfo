@@ -76,6 +76,21 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Civil Code &sect; 1575 (the Foundational Definition)
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Outside the elder context, the foundational California definition of undue influence is
+        in <strong>Civil Code &sect; 1575</strong>: undue influence consists of (1) the use, by
+        one in whom a confidence is reposed by another or who holds a real or apparent authority
+        over them, of such confidence or authority for the purpose of obtaining an unfair
+        advantage; (2) taking an unfair advantage of another&rsquo;s weakness of mind; or
+        (3) taking a grossly oppressive and unfair advantage of another&rsquo;s necessities or
+        distress. This general definition applies to any insurance-policy-change challenge,
+        whether or not the policyholder is an elder. The elder-specific Welfare and Institutions
+        Code framework below builds on, rather than replaces, &sect; 1575.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Welfare and Institutions Code &sect; 15610.70
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
