@@ -222,13 +222,19 @@ export default function Content() {
 
       <CalloutBox variant="legal" title="Severability in Practice">
         <p>
-          In <em>Fireman&rsquo;s Fund Insurance Co. v. Morse</em> (1989, unpublished but widely
-          cited in secondary sources), the court addressed a situation where one spouse set fire
-          to the marital home. The insurer denied the entire claim based on the intentional act
-          exclusion. The court held that the severability clause required the policy to be read as
-          if each insured had a separate policy. The innocent spouse was entitled to recover her
-          share of the loss. This principle has been reaffirmed in numerous California decisions.
-          See also California Insurance Code &sect; 533 and the standard ISO severability language.
+          The leading California Supreme Court authority on the innocent co-insured doctrine is{' '}
+          <em>Century-National Insurance Co. v. Garcia</em> (2011) 51 Cal.4th 564, which
+          rejected a blanket bar to the innocent co-insured&rsquo;s recovery and held that
+          California Insurance Code &sect; 533 does not automatically exclude an innocent co-
+          insured&rsquo;s claim merely because another insured intentionally caused the loss.
+          Read alongside the standard ISO severability-of-interests clause, &sect; 533&rsquo;s
+          use of the singular &ldquo;the insured&rdquo; means each insured&rsquo;s rights are
+          evaluated independently. The innocent spouse is generally entitled to recover their
+          share of the loss notwithstanding the intentional-act exclusion. See also our companion
+          guide on the{' '}
+          <Link href="/resources/innocent-co-insured-doctrine" className="text-[#2E74B5] underline">
+            innocent co-insured doctrine
+          </Link>.
         </p>
       </CalloutBox>
 
