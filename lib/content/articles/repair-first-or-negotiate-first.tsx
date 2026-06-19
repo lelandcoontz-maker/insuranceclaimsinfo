@@ -234,20 +234,21 @@ export default function Content() {
         states do not.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Code of Regulations, title 10, section 2695.9, subdivision (b), provides:
+        California Code of Regulations, title 10, section 2695.9, subdivision (c), provides:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 italic">
-        &ldquo;No insurer shall require that the claimant have the property repaired by a specific
+        &ldquo;No insurer shall require that the insured have the property repaired by a specific
         individual or entity.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        But the regulation goes further. When the carrier&rsquo;s estimate is lower than the
-        policyholder&rsquo;s estimate, and the parties cannot agree on the cost of repairs:
+        And subdivision (d)(2) goes further. When the carrier&rsquo;s estimate is lower than the
+        policyholder&rsquo;s estimate, and the parties cannot agree on the cost of repairs, the
+        insurer must:
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 italic">
-        &ldquo;The insurer shall provide the claimant with the name of at least one repair
-        individual or entity that will make the repairs for the amount of the insurer&rsquo;s
-        estimate.&rdquo;
+        &ldquo;if requested by the claimant, promptly provide the claimant with the name of at
+        least one repair individual or entity that will make the repairs for the amount of the
+        written estimate.&rdquo;
       </p>
 
       <CalloutBox variant="tip" title="The Contractor-Naming Regulation">
