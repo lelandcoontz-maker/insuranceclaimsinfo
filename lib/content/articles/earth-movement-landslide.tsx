@@ -377,7 +377,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>California Earthquake Authority (CEA):</strong> A publicly managed, privately funded organization that offers earthquake insurance through participating insurers. CEA policies have high deductibles (typically 5%, 10%, 15%, or 25% of the dwelling limit), limited personal property coverage ($5,000&ndash;$200,000), and limited loss of use coverage ($1,500&ndash;$100,000). Coverage is more affordable than private alternatives but significantly more restrictive.
+          <strong>California Earthquake Authority (CEA):</strong> A publicly managed, privately funded organization that offers earthquake insurance through participating insurers. CEA policies have high deductibles (5%, 10%, 15%, 20%, or 25% of the dwelling limit), limited personal property coverage ($5,000 or $25,000 only), and limited loss of use coverage with seven selectable limits from $1,500 to $100,000 (no deductible on loss of use). Coverage is more affordable than private alternatives but significantly more restrictive.
         </li>
         <li>
           <strong>Difference in Conditions (DIC) policies:</strong> Private market earthquake and flood policies that fill the gap between what the standard homeowner policy covers and what it excludes. DIC policies typically offer lower deductibles and broader coverage than CEA but at a higher premium. They are particularly popular for high-value homes where the CEA&rsquo;s coverage limits are inadequate.
