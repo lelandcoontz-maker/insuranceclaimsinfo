@@ -90,13 +90,15 @@ export default function Content() {
           inland marine policies
         </Link>{' '}
         rather than on the farm policy itself. Inland marine covers mobile property and property
-        that moves between locations, which describes most farm equipment. The key advantage is
-        that inland marine policies are typically written on an open-perils (all-risk) basis with
-        agreed-value coverage, meaning there is no{' '}
+        that moves between locations, which describes most farm equipment. A key advantage is
+        that inland marine policies are typically written on an open-perils (all-risk) basis,
+        and when paired with agreed-value coverage they avoid the{' '}
         <Link href="/resources/coinsurance-penalty" className="text-[#2E74B5] underline">
           coinsurance penalty
         </Link>{' '}
-        and no depreciation dispute at claim time.
+        and the depreciation dispute at claim time. (Inland marine forms <em>can</em> include
+        coinsurance when written on specific-perils or non-agreed-value terms; the agreed-value
+        / open-perils combination is the typical farm-equipment placement.)
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The catch is that inland marine requires accurate scheduling. Each piece of equipment must
