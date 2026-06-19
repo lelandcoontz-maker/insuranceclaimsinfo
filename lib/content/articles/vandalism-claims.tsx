@@ -297,18 +297,20 @@ export default function Content() {
         extensive, structural, and expensive to remediate.
       </p>
 
-      <CalloutBox variant="legal" title="Bowers v. Farmers Insurance Exchange (2000)">
+      <CalloutBox variant="legal" title="Bowers v. Farmers Insurance Exchange (Wash. 2000) — Persuasive Authority Only">
         <p>
-          In <em>Bowers v. Farmers Insurance Exchange</em> (2000) 991 P.2d 734, the court
-          addressed whether damage caused by a tenant&rsquo;s marijuana grow operation constituted
-          vandalism under the landlord&rsquo;s insurance policy. The court held that the
-          tenant&rsquo;s deliberate acts &mdash; modifying the plumbing, altering the electrical
-          system, cutting holes in the structure, and creating conditions that led to pervasive
-          mold growth &mdash; constituted vandalism or malicious mischief within the ordinary
-          meaning of those terms. The court further held that the resulting mold damage was an
-          ensuing loss from the covered vandalism, and therefore also covered. This decision
-          established that grow operation damage is not &ldquo;wear and tear&rdquo; &mdash; it is
-          the result of intentional, destructive acts that satisfy the vandalism definition.
+          In <em>Bowers v. Farmers Insurance Exchange</em> (Wash. Ct. App. 2000) 991 P.2d 734,
+          a Washington appellate court addressed whether damage caused by a tenant&rsquo;s
+          marijuana grow operation constituted vandalism under the landlord&rsquo;s insurance
+          policy. The court held that the tenant&rsquo;s deliberate acts &mdash; modifying the
+          plumbing, altering the electrical system, cutting holes in the structure, and creating
+          conditions that led to pervasive mold growth &mdash; constituted vandalism or malicious
+          mischief within the ordinary meaning of those terms. The court further held that the
+          resulting mold damage was an ensuing loss from the covered vandalism, and therefore also
+          covered. This decision is <strong>persuasive authority only in California</strong>; no
+          published California appellate decision is directly on point, and California courts are
+          not bound to follow it. The reasoning, however, is widely cited and tracks the ordinary
+          intent-required vandalism analysis under California law as well.
         </p>
       </CalloutBox>
 

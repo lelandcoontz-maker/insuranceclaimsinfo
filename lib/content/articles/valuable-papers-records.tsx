@@ -31,7 +31,7 @@ export default function Content() {
         What Are &ldquo;Valuable Papers and Records&rdquo;?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The term &ldquo;valuable papers and records&rdquo; has a specific meaning in insurance. It refers to documents and records that have intrinsic value because of the information they contain &mdash; not because of the physical medium on which they are recorded. The ISO definition, used in the standard commercial Valuable Papers and Records Coverage Form (CP 00 40), defines valuable papers and records as:
+        The term &ldquo;valuable papers and records&rdquo; has a specific meaning in insurance. It refers to documents and records that have intrinsic value because of the information they contain &mdash; not because of the physical medium on which they are recorded. The ISO definition, used in the standard commercial Valuable Papers and Records Coverage Form (CM 00 67, on the Commercial Inland Marine line), defines valuable papers and records as:
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
         &ldquo;Inscribed, printed or written documents, manuscripts or records, including abstracts, books, deeds, drawings, films, maps or mortgages. But &lsquo;valuable papers and records&rsquo; does not mean money or securities.&rdquo;
@@ -97,7 +97,7 @@ export default function Content() {
         Commercial Valuable Papers and Records Coverage
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In the commercial insurance world, valuable papers and records coverage is a well-established coverage form. The ISO Valuable Papers and Records Coverage Form (CP 00 40) provides dedicated coverage for the cost of researching and reconstructing documents destroyed by a covered cause of loss, and ISO publishes a Valuable Papers and Records (Cost of Research) endorsement (CP 04 60) that can modify or add cost-of-research coverage for valuable papers and records.
+        In the commercial insurance world, valuable papers and records coverage is a well-established coverage form. The ISO Valuable Papers and Records Coverage Form is <strong>CM 00 67</strong>, written on the Commercial Inland Marine line; it provides dedicated coverage for the cost of researching and reconstructing documents destroyed by a covered cause of loss. Limited Valuable Papers and Records coverage also appears as an extension within the ISO Commercial Property Building and Personal Property Coverage Form (CP 00 10) and within the ISO Businessowners Coverage Form (BP 00 03), typically with a modest sublimit. (The CP 00 40 form name sometimes gets cited in this context by mistake &mdash; CP 00 40 is the Commercial Property <em>Legal Liability</em> Coverage Form, an unrelated form covering an insured&rsquo;s liability for damage to property of others in their care, custody, or control.)
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The commercial form is fundamentally different from a homeowner sub-limit in several important ways:
@@ -106,7 +106,7 @@ export default function Content() {
         <li><strong>Dedicated limit:</strong> The form provides its own coverage limit, separate from the building and business personal property limits. A business can carry $100,000, $500,000, or more in valuable papers coverage depending on its needs.</li>
         <li><strong>Cost of reconstruction:</strong> The coverage pays the actual cost to research, replace, or restore the lost information &mdash; including hiring researchers, obtaining copies from third parties, re-creating drawings and calculations, and re-entering data.</li>
         <li><strong>Blank value for irreplaceable items:</strong> If documents truly cannot be reconstructed &mdash; because the information is unique and no other source exists &mdash; the form pays the &ldquo;blank value&rdquo; of the physical materials (the cost of blank paper, binders, and media). This is a significant limitation that policyholders should understand.</li>
-        <li><strong>All-risk basis:</strong> The CP 00 40 form typically provides coverage on a &ldquo;special&rdquo; (all-risk) basis, meaning any cause of loss not specifically excluded is covered. This includes fire, water damage, theft, vandalism, and accidental destruction.</li>
+        <li><strong>All-risk basis:</strong> The CM 00 67 form typically provides coverage on a &ldquo;special&rdquo; (all-risk) basis, meaning any cause of loss not specifically excluded is covered. This includes fire, water damage, theft, vandalism, and accidental destruction.</li>
       </ul>
 
       <CalloutBox variant="warning" title="Irreplaceable Means Irreplaceable">
@@ -457,7 +457,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>The value of a document is the cost of the <em>information</em> it contains, not the cost of the paper it is printed on. Coverage responds to the cost of researching and reconstructing lost information.</li>
         <li>Homeowner policies provide minimal coverage for manuscripts and similar items &mdash; typically $1,500 under the standard HO-3 sub-limits. Homeowners with significant document collections need endorsements or separate coverage.</li>
-        <li>Commercial valuable papers coverage (ISO CP 00 40 form, or cost-of-research endorsement CP 04 60) provides dedicated limits and pays the actual cost of reconstruction &mdash; but it pays only blank value for truly irreplaceable documents.</li>
+        <li>Commercial valuable papers coverage (ISO CM 00 67 form, or limited extensions within CP 00 10 / BP 00 03) provides dedicated limits and pays the actual cost of reconstruction &mdash; but it pays only blank value for truly irreplaceable documents.</li>
         <li>Electronic data is <em>not</em> the same as valuable papers under most policy forms. The transition from paper to digital records can create coverage gaps if the electronic data coverage does not match the valuable papers coverage that was replaced.</li>
         <li>Digital backup is essential but not sufficient. Backups must be tested, updated, stored offsite, and maintained in accessible formats.</li>
         <li>Pre-loss documentation &mdash; photographing your files, inventorying your records, and maintaining a list of what exists and where &mdash; dramatically improves your ability to file a complete and credible claim.</li>
