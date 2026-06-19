@@ -102,9 +102,13 @@ export default function Content() {
           and conditions for the next policy period.
         </li>
         <li>
-          <strong>120 days after declared disaster:</strong> Following a declared disaster,
-          recent California legislation has extended the non-renewal notice period to 120 days in
-          affected areas, giving policyholders additional time to find replacement coverage.
+          <strong>One-year moratorium after declared wildfire emergency:</strong> Under Cal. Ins.
+          Code &sect; 675.1(b) (added by SB 824, 2018), an insurer cannot cancel or refuse to
+          renew residential property policies in ZIP codes within or adjacent to the fire
+          perimeter for one year after a state-of-emergency declaration, based solely on the
+          property&rsquo;s location. The 75-day pre-expiration notice rule remains; the moratorium
+          stacks on top of it, so a notice cannot validly be sent until the one-year window has
+          passed.
         </li>
         <li>
           <strong>Reason must be stated:</strong> The non-renewal notice must include the actual
