@@ -176,7 +176,7 @@ export default function Content() {
         Fair Rental Value Sublimits Differ by Form
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under the standard ISO DP-1, Coverage D (Fair Rental Value) is typically limited to <strong>10% of the Coverage A dwelling limit</strong>. Under the DP-2 and DP-3, that sublimit is typically <strong>20% of Coverage A</strong>. The exact percentage and whether it is &ldquo;additional&rdquo; insurance or part of the dwelling limit can vary by carrier and form edition, so the policy declarations and form text should be the controlling reference.
+        Under the standard ISO DP-1, Coverage D (Fair Rental Value) is typically limited to <strong>10% of the Coverage A dwelling limit</strong>. Under the standard ISO DP-2 (DP 00 02) and DP-3 (DP 00 03), <strong>Coverage D (Fair Rental Value) and Coverage E (Additional Living Expense) share a combined limit of 20% of Coverage A</strong> &mdash; it is one 20% pot allocated between FRV and ALE, not 20% each. The exact percentage and whether it is &ldquo;additional&rdquo; insurance or part of the dwelling limit can vary by carrier and form edition, so the policy declarations and form text should be the controlling reference.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

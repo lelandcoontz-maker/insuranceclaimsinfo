@@ -82,9 +82,11 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         This covers your belongings — furniture, clothing, electronics, appliances, and everything
-        else inside your home. Coverage C is typically set at 50 to 75 percent of Coverage A. For
-        a $500,000 dwelling limit, your contents coverage might be $250,000 to $375,000. For more
-        on contents claims, see our guide to{' '}
+        else inside your home. Under the standard ISO HO 00 03 form, Coverage C defaults to 50% of
+        Coverage A; some carriers offer higher Coverage C percentages by endorsement or proprietary
+        form. For a $500,000 dwelling limit, your contents coverage at the 50% default would be
+        $250,000 — check the declarations page for your actual limit. For more on contents claims,
+        see our guide to{' '}
         <Link href="/resources/contents-claims" className="text-blue-700 underline hover:text-blue-900">
           contents claims
         </Link>.
