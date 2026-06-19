@@ -97,11 +97,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The facts of <em>White</em> illustrated exactly the kind of insurer behavior this rule was
         designed to expose. Western Title denied coverage for a recorded easement without reasonable
-        basis. It offered paltry settlement amounts &mdash; $3,000 and then $5,000 &mdash; without
-        ever conducting an appraisal of the plaintiff&rsquo;s loss. Even after the court found in
-        the Whites&rsquo; favor on the liability question, the insurer made no serious attempt to
-        settle. The &ldquo;entire pattern of conduct,&rdquo; the court found, demonstrated an attempt
-        to avoid responsibility for obvious coverage failures.
+        basis. It obtained an appraisal valuing the loss at roughly $2,000 and then offered paltry
+        settlement amounts &mdash; $3,000 in May 1980 and $5,000 in June 1980 &mdash; both well
+        below what the easement actually cost the Whites. Even after the court entered an
+        interlocutory judgment finding Western Title liable on the coverage question, the insurer
+        followed up only with a $15,000 offer in August 1981 &mdash; still inadequate. The
+        &ldquo;entire pattern of conduct,&rdquo; the court found, demonstrated an attempt to avoid
+        responsibility for obvious coverage failures.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The dissent &mdash; Justices Lucas and Kaus &mdash; warned that this rule would chill

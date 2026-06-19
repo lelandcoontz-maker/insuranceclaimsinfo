@@ -52,14 +52,15 @@ export default function Content() {
         The White waiver takes its name from a 1985 California Supreme Court decision. The
         Whites purchased property and obtained a title insurance policy from Western Title.
         The policy failed to disclose a recorded water easement burdening the property. When
-        the Whites discovered the easement and filed a claim, Western Title retained an
-        appraiser, Hoskins, who testified that the easement reduced the property&rsquo;s value
-        from $107,500 to a range between $75,000 and $80,000 &mdash; a diminution of roughly
-        $27,500 to $32,500. Western Title nonetheless offered the Whites just $1,000 in June
-        1977. After the Whites sued, Western increased the offer to $5,000 plus costs and
-        attorneys&rsquo; fees in September 1978, and then to $10,000 plus costs and
-        attorneys&rsquo; fees in March 1980 &mdash; all well below the loss Western&rsquo;s
-        own appraiser had described.
+        the Whites discovered the easement and sued, Western Title obtained an appraisal
+        valuing the plaintiffs&rsquo; loss at roughly $2,000 and, in May 1980, offered to
+        settle the case for $3,000. In June 1980 Western Title served a written Code of Civil
+        Procedure &sect; 998 offer to compromise for $5,000. After the trial court entered an
+        interlocutory judgment finding liability, Western Title filed a new offer in August
+        1981 for $15,000 &mdash; still far below the actual loss the Whites contended they had
+        suffered. The jury ultimately returned a special verdict of $8,400 for breach of
+        contract and negligence, plus $20,000 for breach of the implied covenant of good faith
+        and fair dealing.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Whites sued for breach of contract and bad faith. At trial, the jury found bad faith

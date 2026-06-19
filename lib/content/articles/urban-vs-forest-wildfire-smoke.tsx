@@ -123,9 +123,10 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is where the insurance fight begins. Many carriers &mdash; including the California
-        FAIR Plan, against which Commissioner Lara took legal action in 2025 for denying smoke
-        damage claims &mdash; commonly respond to smoke damage claims with some version of:
-        &ldquo;The smoke residue can be cleaned with ordinary household cleaning methods.&rdquo;
+        FAIR Plan, the subject of CDI regulatory bulletins (notably CDI Bulletin 2025-7) and an
+        Order to Show Cause from Commissioner Lara&rsquo;s office regarding smoke-damage denial
+        practices &mdash; commonly respond to smoke damage claims with some version of: &ldquo;The
+        smoke residue can be cleaned with ordinary household cleaning methods.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This argument collapses under scientific scrutiny when the smoke originates from an urban wildfire. Here&apos;s why:
