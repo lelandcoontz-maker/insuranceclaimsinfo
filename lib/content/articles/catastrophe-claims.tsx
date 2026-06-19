@@ -243,25 +243,47 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Extended deadlines:</strong> Carriers may be given extended timelines to
-          acknowledge and process claims (recognizing the volume), but they are also held to
-          specific performance benchmarks to prevent indefinite delay.
+          <strong>Extended deadlines + primary point of contact:</strong> When a third or later
+          adjuster is assigned to a residential disaster claim within six months, Cal. Ins. Code
+          &sect; 14047 (added by SB 240, 2019) requires a written status report and a designated
+          primary point of contact.
         </li>
         <li>
-          <strong>Advance payments:</strong> Insurers may be required to issue advance payments
-          for ALE and undisputed portions of the dwelling claim within shortened timeframes.
+          <strong>Mandatory four-month ALE advance:</strong> Under Cal. Ins. Code &sect; 2061
+          (added by SB 872, 2020), an insurer must offer at least four months of ALE upfront, in
+          a lump sum, on request after a total loss in a declared state of emergency &mdash;
+          without requiring an itemized list.
         </li>
         <li>
-          <strong>Non-renewal moratoriums:</strong> CDI routinely imposes moratoriums on
-          cancellations and non-renewals in disaster-affected ZIP codes for one year or more after
-          the event, preventing carriers from dropping policyholders while they are rebuilding.
+          <strong>Three-tier ALE timeline:</strong> Cal. Ins. Code &sect; 2060(b)(1) (SB 872,
+          2020) sets a 24-month minimum ALE coverage period for declared-emergency residential
+          losses, with up to 12 additional months for delays beyond the insured&rsquo;s control
+          and successive six-month good-cause extensions thereafter.
         </li>
         <li>
-          <strong>Expanded replacement cost options:</strong> After major wildfires, California
-          law has been amended to give policyholders extended time (up to 36 months, sometimes
-          longer with extensions) to collect replacement cost benefits and, in some cases, the
-          right to use replacement cost funds at a different location if they choose not to rebuild
-          in the disaster area.
+          <strong>Combined-coverage flexibility:</strong> Under Cal. Ins. Code &sect; 10103.7(a),
+          an insured may combine the dwelling and Other Structures limits to rebuild the primary
+          dwelling when the dwelling limit alone is insufficient.
+        </li>
+        <li>
+          <strong>60% / \$350,000 contents advance:</strong> Cal. Ins. Code &sect; 10103.7(b)(1)
+          (as amended by SB 495, effective January 2026) requires insurers to advance at least
+          60% of the personal property limit, up to \$350,000, without an itemized inventory.
+        </li>
+        <li>
+          <strong>Non-renewal moratoriums:</strong> Cal. Ins. Code &sect; 675.1(b) (added by SB
+          824, 2018) prohibits cancellation or non-renewal of residential property policies in
+          ZIP codes within or adjacent to a wildfire perimeter for one year after a state-of-
+          emergency declaration. After a total loss, &sect; 675.1(a)(3) requires the insurer to
+          offer at least 24 months of continued coverage.
+        </li>
+        <li>
+          <strong>Expanded replacement cost options:</strong> Cal. Ins. Code &sect; 2051.5(b)(1)(B)
+          gives policyholders at least 36 months from the first ACV payment to collect full
+          replacement cost on losses related to a declared state of emergency, with additional
+          six-month good-cause extensions under &sect; 2051.5(b)(2). Cal. Ins. Code &sect; 2051.5(c)
+          confirms the right to rebuild at a different location and still recover the full
+          replacement cost (capped at what it would have cost to rebuild on the original site).
         </li>
       </ul>
 

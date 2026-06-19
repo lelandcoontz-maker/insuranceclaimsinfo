@@ -89,12 +89,15 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Also note that restrictive endorsements on insurance checks are heavily
-        criticized within the industry and by courts. Some jurisdictions have limited or
-        eliminated the ability of a party to create an accord and satisfaction through
-        endorsement language on a check, particularly when there is no genuine dispute about
-        whether the debt is owed &mdash; only a dispute about the amount. The legal
-        effectiveness of restrictive endorsement language varies by state and by the specific
-        facts. Its mere presence on a check does not automatically mean it is enforceable.
+        criticized within the industry and by courts. California addresses this directly:
+        under <strong>Cal. Civ. Code &sect; 1526(a)</strong>, a creditor may strike out or
+        otherwise remove the restrictive language and deposit the check without it operating
+        as an accord and satisfaction. <strong>Cal. Civ. Code &sect; 1526(b)</strong> provides
+        a related safe harbor when the creditor protests in writing, reserving rights. The
+        UCC accord-and-satisfaction rule lives in <strong>Cal. Com. Code &sect; 3311</strong>
+        and is narrower than many carriers seem to assume. The legal effectiveness of
+        restrictive endorsement language is fact-specific, and its mere presence on a check
+        does not automatically create a binding settlement in California.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
