@@ -287,23 +287,23 @@ export default function Content() {
         <Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">
           California Fair Claims Settlement Practices Regulations
         </Link>{' '}
-        (10 CCR &sect; 2695.7) establish clear timeframes and requirements that apply to every
-        communication from a policyholder, including supplements.
+        (10 CCR &sect;&sect; 2695.5 and 2695.7) establish clear timeframes and requirements that
+        apply to every communication from a policyholder, including supplements.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Specifically, 10 CCR &sect; 2695.7(b) requires that upon receiving any communication
-        regarding a claim, the insurer must immediately, but in no event more than 15 calendar
-        days later, acknowledge receipt of the communication and provide the insured with
-        necessary forms and instructions. When a supplement is submitted, the carrier is
-        required to acknowledge it and begin its review within this timeframe.
+        Specifically, 10 CCR &sect; 2695.5(e) requires that upon receiving notice of a claim,
+        the insurer must immediately, but in no event more than 15 calendar days later,
+        acknowledge receipt, provide the insured with necessary forms and instructions, and
+        begin any necessary investigation. When a supplement is submitted, the carrier is
+        required to acknowledge it and begin its review within this 15-day timeframe.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Also, 10 CCR &sect; 2695.7(b) provides that every insurer must accept or deny a
-        claim within 40 calendar days after receiving proof of claim. While the regulation
-        addresses initial claims, the same principles apply to supplemental submissions &mdash;
-        the carrier cannot simply ignore a supplement or let it sit indefinitely without action.
-        A supplement is supported documentation of additional covered damage, and the carrier has
-        the same duty to investigate and respond that it has with the original claim.
+        And 10 CCR &sect; 2695.7(b) provides that every insurer must accept or deny a claim
+        within 40 calendar days after receiving proof of claim. While the regulation addresses
+        initial claims, the same principles apply to supplemental submissions &mdash; the
+        carrier cannot simply ignore a supplement or let it sit indefinitely without action.
+        A supplement is supported documentation of additional covered damage, and the carrier
+        has the same duty to investigate and respond that it has with the original claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a carrier fails to acknowledge, investigate, or respond to a supplement within
@@ -667,11 +667,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         After submitting a supplement, follow up in writing &mdash; by email &mdash; to confirm
         that the carrier received it and to request a timeline for review. If the carrier does
-        not respond within 15 days, send a second written follow-up referencing the original
-        submission date and reminding the carrier of its regulatory obligations under 10 CCR
-        &sect; 2695.7. Keep a log of every submission date, follow-up date, and response (or
-        non-response) from the carrier. This log becomes critical evidence if the dispute
-        escalates.
+        not respond within 15 days (the response-to-claimant-communication window under 10 CCR
+        &sect; 2695.5(b)), send a second written follow-up referencing the original submission
+        date and reminding the carrier of its regulatory obligations. Keep a log of every
+        submission date, follow-up date, and response (or non-response) from the carrier. This
+        log becomes critical evidence if the dispute escalates.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Phone calls are fine for checking in, but they do not create the paper trail that
