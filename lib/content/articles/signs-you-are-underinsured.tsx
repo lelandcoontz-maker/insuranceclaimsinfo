@@ -224,10 +224,11 @@ export default function Content() {
       <CalloutBox variant="info" title="California ALE Protections for Declared Disasters">
         <p>
           For losses arising from a declared state of emergency in California, the minimum ALE
-          period is 24 months, and may be extended to 36 months under certain circumstances
-          (California Insurance Code &sect; 2060). This extended timeline makes adequate ALE
-          limits even more critical for homeowners in wildfire-prone and other disaster-prone
-          areas.
+          period is 24 months under California Insurance Code &sect; 2060(b)(1), with up to an
+          additional 12 months for delays beyond the insured&apos;s control (for a 36-month
+          ceiling on the initial period) and successive six-month good-cause extensions
+          thereafter. This extended timeline makes adequate ALE limits even more critical for
+          homeowners in wildfire-prone and other disaster-prone areas.
         </p>
       </CalloutBox>
 
