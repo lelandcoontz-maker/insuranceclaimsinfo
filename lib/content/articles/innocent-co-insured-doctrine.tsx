@@ -370,8 +370,12 @@ export default function Content() {
         California courts have reinforced innocent co-insured protection through judicial
         interpretation of Insurance Code &sect; 533 &mdash; which bars coverage for willful acts
         of &ldquo;the insured&rdquo; (singular) &mdash; read alongside the severability clauses
-        found in standard homeowner policies. This judicial framework effectively supports the
-        innocent co-insured doctrine for fire insurance and homeowner policies in California,
+        found in standard homeowner policies. The California Supreme Court&rsquo;s leading decision
+        on the point is <em>Century-National Insurance Co. v. Garcia</em> (2011) 51 Cal.4th 564,
+        which rejected a blanket bar to the innocent co-insured&rsquo;s recovery and held that
+        &sect; 533 does not automatically exclude an innocent co-insured&rsquo;s claim merely
+        because another insured intentionally caused the loss. This judicial framework supports
+        the innocent co-insured doctrine for fire insurance and homeowner policies in California,
         eliminating the argument that the intentional-acts exclusion or fraud provision bars the
         innocent co-insured&rsquo;s claim merely because another insured caused the loss. Insurance
         Code &sect; 530, by contrast, is the proximate-cause statute and does not address willful
@@ -912,10 +916,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The majority of states that have considered the issue recognize this fundamental
         unfairness and allow the innocent co-insured to recover a proportional share of the
-        loss. California goes further, with statutory protections in Insurance Code &sect;&sect;
-        530 and 533 that California courts have interpreted to protect the innocent co-insured. The severability of
-        interests clause &mdash; present in most homeowner policies &mdash; provides the
-        contractual foundation for recovery.
+        loss. California goes further, with statutory protection in Insurance Code &sect; 533
+        as construed by <em>Century-National v. Garcia</em> (2011) 51 Cal.4th 564 to protect
+        the innocent co-insured. The severability of interests clause &mdash; present in most
+        homeowner policies &mdash; provides the contractual foundation for recovery.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But the path to recovery is not automatic. The innocent co-insured must prove their
