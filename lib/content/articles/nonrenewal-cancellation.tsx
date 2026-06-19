@@ -304,8 +304,10 @@ export default function Content() {
         <li>
           <strong>Verify the notice period.</strong> Count the days from when the notice was
           mailed (not received) to your policy expiration. If the insurer did not provide at
-          least 75 days&rsquo; notice (or 120 days in a disaster area), the non-renewal may be
-          invalid and the policy may automatically renew.
+          least 75 days&rsquo; notice under Cal. Ins. Code &sect; 678(c)(1), the non-renewal may
+          be invalid and the policy may automatically renew. If a one-year wildfire-emergency
+          moratorium under &sect; 675.1(b) is in effect for the property&rsquo;s ZIP code, the
+          notice may also be prohibited entirely until the moratorium passes.
         </li>
         <li>
           <strong>Check for active moratoriums.</strong> Visit the CDI website to determine
