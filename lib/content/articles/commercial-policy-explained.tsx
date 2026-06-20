@@ -276,7 +276,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s Standard Form Fire Insurance Policy at{' '}
-        <Link href="/resources/california-standard-fire-policy" className="text-[#2E74B5] underline hover:text-blue-900">
+        <Link href="/resources/standard-fire-policy-insurance-code-2070" className="text-[#2E74B5] underline hover:text-blue-900">
           Cal. Ins. Code &sect;2071
         </Link>{' '}
         sets a statutory baseline for residential fire policies. There is no parallel statutorily mandated commercial fire policy form. Commercial property policies in California are written on ISO and carrier-proprietary forms, subject to California&apos;s claims-handling regulations and minimum coverage standards but not to a single state-prescribed commercial form. The California Department of Insurance&apos;s commercial insurance guide explicitly notes that commercial property contracts are highly manuscripted and that policyholders must read declarations and endorsements carefully.
