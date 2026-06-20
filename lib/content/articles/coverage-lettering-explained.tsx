@@ -198,7 +198,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California statutory standard fire policy at{' '}
-        <Link href="/resources/california-standard-fire-policy" className="text-[#2E74B5] underline hover:text-blue-900">
+        <Link href="/resources/standard-fire-policy-insurance-code-2070" className="text-[#2E74B5] underline hover:text-blue-900">
           Cal. Ins. Code &sect;2071
         </Link>{' '}
         is the legal baseline that property forms in California incorporate by reference for the basic fire insuring agreement. The &sect;2071 statutory text itself does not use the A/B/C/D shorthand &mdash; it uses functional language like &ldquo;the property described&rdquo; and &ldquo;the insured.&rdquo; The Coverage A/B/C/D structure is a layer built on top of &sect;2071 by the HO and DP form architecture, not by the statute itself.
