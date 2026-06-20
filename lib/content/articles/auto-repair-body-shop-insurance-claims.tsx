@@ -566,6 +566,47 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        California&rsquo;s Anti-Steering Rule for Auto Body Repairs: Insurance Code &sect; 758.5
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Body shops and their customers both have rights under California&rsquo;s auto-body
+        anti-steering statute, Insurance Code &sect; 758.5 (Article 5.1, &ldquo;Automotive
+        Repair&rdquo;). The statute restricts what a carrier can do to channel a claimant&rsquo;s
+        repair business toward a specific shop. The two practical effects matter for any auto
+        repair or body shop operator:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
+        <li>
+          <strong>No mandatory shop assignment.</strong> A carrier cannot require an insured or
+          claimant to use a specific automotive repair dealer as a condition of paying the claim.
+          A claimant always has the right to select the shop of their choice.
+        </li>
+        <li>
+          <strong>No disparaging another shop.</strong> A carrier cannot suggest or recommend a
+          specific shop in a way that disparages, or causes the claimant to disregard, the
+          claimant&rsquo;s chosen shop. The recommendation rules require written disclosure of
+          the claimant&rsquo;s right to choose.
+        </li>
+        <li>
+          <strong>Independent shops have standing to push back.</strong> When a carrier short-pays
+          a claimant&rsquo;s preferred shop using DRP (Direct Repair Program) rates from a network
+          competitor, the independent shop can press the carrier (on the insured&rsquo;s
+          assignment of benefits or as an explanatory matter) to pay prevailing-rate labor for
+          the claimant&rsquo;s actual chosen shop &mdash; not the discounted rate the network shop
+          accepts in exchange for steered volume.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The statute is auto-body-specific (Article 5.1 uses the defined terms
+        &ldquo;automobile&rdquo; and &ldquo;automotive repair dealer&rdquo;); it does not apply
+        to residential property contractor steering, which is governed instead by 10 CCR
+        &sect;&sect; 2695.9(b) and 2695.9(c)(2) (and by case law on insurer-directed repair). For
+        a body shop fighting a DRP-rate dispute, &sect; 758.5 is the threshold statute to cite
+        in any letter to a carrier or in any complaint to the California Bureau of Automotive
+        Repair (BAR) and the California Department of Insurance (CDI).
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Bottom Line: Your Biggest Risk Is Sitting in Your Parking Lot
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
