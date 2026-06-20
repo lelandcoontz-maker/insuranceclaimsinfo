@@ -69,9 +69,7 @@ export default function Content() {
         The Standard Exclusion: What Your Policy Actually Says
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The standard ISO Commercial Property Coverage Form (CP 00 10) and the Business Owners Policy
-        (BOP) both contain an exclusion for the failure of utility services. The exclusion applies to
-        the failure of power, communication, water, or other utility service supplied to the insured
+        On a standard ISO commercial property policy, the Building and Personal Property Coverage Form (CP 00 10) is paired with a Causes of Loss form (CP 10 30 Special, CP 10 20 Broad, or CP 10 10 Basic), and the Causes of Loss form contains an exclusion for the failure of utility services. The Business Owners Policy (BP 00 03) contains a parallel exclusion in its own perils section. The exclusion applies to the failure of power, communication, water, or other utility service supplied to the insured
         premises &mdash; when the failure originates <em>away from</em> the described premises.
       </p>
       <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">

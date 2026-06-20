@@ -181,8 +181,10 @@ export default function Content() {
         because the entire $5 million production line sits idle without it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Standard commercial property coverage (ISO CP 00 10) does not cover
-        mechanical or electrical breakdown of equipment. If the CNC machine
+        Standard commercial property coverage &mdash; the ISO CP 00 10 coverage form paired with a
+        Causes of Loss form (CP 10 30 Special, CP 10 20 Broad, or CP 10 10 Basic) &mdash; does not
+        cover mechanical or electrical breakdown of equipment. The mechanical breakdown exclusion
+        lives in the Causes of Loss form, not in CP 00 10 itself. If the CNC machine
         fails due to an internal electrical fault, bearing failure, or
         control system malfunction, the property policy will deny the claim
         because there is no external &ldquo;covered cause of loss.&rdquo;
