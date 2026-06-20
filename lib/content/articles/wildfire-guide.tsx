@@ -190,7 +190,7 @@ export default function Content() {
         intense disputes about the scope of damage, the extent of smoke penetration, and whether
         items can be cleaned or must be replaced. For more on smoke damage specifically, see our
         guide to{' '}
-        <Link href="/types-of-claims/smoke" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/smoke-damage-claims" className="text-blue-700 underline hover:text-blue-900">
           smoke damage claims
         </Link>.
       </p>
@@ -387,7 +387,7 @@ export default function Content() {
         who specializes in wildfire claims can manage the entire process on your behalf, ensuring
         that every applicable coverage is identified and every dollar you are owed is pursued. For
         more on{' '}
-        <Link href="/types-of-claims/fire" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/fire-damage-beginners-guide" className="text-blue-700 underline hover:text-blue-900">
           fire damage claims
         </Link>{' '}
         generally, see our dedicated guide.
