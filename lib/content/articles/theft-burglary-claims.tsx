@@ -483,7 +483,10 @@ export default function Content() {
         </li>
         <li>
           <strong>&ldquo;Insufficient documentation&rdquo;:</strong> Provide additional documentation
-          and cite the insurer&rsquo;s obligation under &sect; 2695.7(d) to accept reasonable proof.
+          and cite the insurer&rsquo;s obligation under 10 CCR &sect; 2695.7(d) to conduct a
+          thorough, fair, and objective investigation &mdash; including the regulation&rsquo;s
+          express prohibition on persisting in seeking information not reasonably required for or
+          material to the resolution of the claim.
         </li>
         <li>
           <strong>&ldquo;Theft by household member&rdquo;:</strong> Demand the evidence supporting
