@@ -375,9 +375,16 @@ export default function Content() {
         </li>
         <li>
           <strong>Indemnification scope.</strong> Negotiate to exclude the landlord&rsquo;s own
-          negligence from the tenant&rsquo;s indemnification obligation. California Civil Code
-          Section 1668 voids provisions that attempt to exempt a party from responsibility for
-          their own fraud, willful injury, or violation of law.
+          negligence from the tenant&rsquo;s indemnification obligation. Under California Civil
+          Code &sect; 1668, a contract cannot exempt a party from its own fraud, willful injury,
+          or violation of law (whether willful or negligent), so any landlord clause purporting
+          to indemnify the landlord for fraud or willful misconduct is unenforceable. Indemnity
+          for the landlord&rsquo;s ordinary negligence is a separate question governed by Civil
+          Code &sect; 2782 et seq. and the common-law strict-construction rule under <em>Crawford
+          v. Weather Shield Mfg., Inc.</em> (2008) 44 Cal.4th 541: a clause must clearly and
+          explicitly cover the indemnitee&rsquo;s own negligence to do so. The tenant&rsquo;s
+          leverage is to insist on that carve-out at the negotiation stage rather than litigate
+          it later.
         </li>
         <li>
           <strong>Waiver of subrogation direction.</strong> Insist on mutual waivers. If the

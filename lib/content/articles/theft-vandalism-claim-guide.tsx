@@ -32,8 +32,10 @@ export default function Content() {
         Step 1: Call the Police
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        File a police report immediately. This is not optional. Your insurance policy requires a
-        police report for theft claims. Without one, the insurer will likely deny your claim. Call
+        File a police report immediately. Most homeowner policies require notification to police
+        as part of the duties-after-loss clause for theft, and many carriers ask for a copy of
+        the report before paying the claim. Even where the policy does not strictly require a
+        report, the absence of one gives the insurer a ready basis to question the loss. Call
         the non-emergency line (or 911 if the intruder may still be present) and file a report.
         Get the report number and the name of the responding officer.
       </p>
