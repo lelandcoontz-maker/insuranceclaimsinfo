@@ -79,12 +79,20 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">3. &ldquo;Like Kind and Quality&rdquo; Means Appearance Matters</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The loss settlement provision requires the insurer to restore your property with materials
-        of &ldquo;like kind and quality.&rdquo; Courts have interpreted this to include aesthetic
-        qualities — not just functional performance. In a D.C. case, <em>National Presbyterian
-        Church, Inc. v. Maryland Casualty Co.</em>, the court held that restoration to pre-loss
-        condition includes matching the appearance of repaired and unrepaired areas. While this
-        is not California authority, the principle is consistent with California&rsquo;s own
-        matching requirement under 10 CCR &sect; 2695.9(a)(2).
+        of &ldquo;like kind and quality.&rdquo; In California, the controlling authority on
+        cosmetic-matching is regulatory rather than judicial: 10 CCR &sect; 2695.9(a)(2) provides
+        that when replacement of items results in a non-match in quality, color or size, the
+        insurer must &ldquo;replace all items in the damaged area so as to conform to a reasonably
+        uniform appearance.&rdquo; No published California Court of Appeal or Supreme Court
+        decision has yet construed the matching regulation in a residential property dispute, so
+        the regulation&rsquo;s text and the implementing Fair Claims Settlement Practices
+        framework are the strongest direct authority in California. Out-of-state decisions
+        construing &ldquo;like kind and quality&rdquo; to include appearance &mdash; including
+        the District of Columbia&rsquo;s <em>National Presbyterian Church, Inc. v. Maryland
+        Casualty Co.</em> &mdash; are persuasive but not binding. The combination of the
+        regulatory text, the contractual &ldquo;like kind and quality&rdquo; promise, and the
+        general California principle that replacement-cost coverage is intended to restore the
+        insured substantially to pre-loss condition is what carries the matching argument.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">4. Cosmetic Damage Often Masks Functional Damage</h3>
