@@ -5,9 +5,9 @@ export const meta = {
   title:
     'Peak Season Endorsement: Protecting Seasonal Inventory Spikes That Standard Limits Miss',
   description:
-    'How the ISO CP 12 11 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.',
+    'How the ISO CP 12 30 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.',
   summary:
-    'The ISO CP 12 11 Peak Season endorsement temporarily raises business personal property limits during high-inventory months. Without it, seasonal businesses are dangerously underinsured exactly when they have the most stock at risk.',
+    'The ISO CP 12 30 Peak Season endorsement temporarily raises business personal property limits during high-inventory months. Without it, seasonal businesses are dangerously underinsured exactly when they have the most stock at risk.',
 }
 
 export default function Content() {
@@ -41,7 +41,7 @@ export default function Content() {
         limit is not enough. The shortfall can be catastrophic.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Peak Season Limit of Insurance endorsement &mdash; ISO form CP 12 11 &mdash; exists to
+        The Peak Season Limit of Insurance endorsement &mdash; ISO form CP 12 30 &mdash; exists to
         solve this problem. It allows a business to increase its BPP limit during specific periods
         of the year when inventory predictably spikes. Despite being widely available and relatively
         inexpensive, most business owners have never heard of it. Their agents may not have
@@ -94,10 +94,10 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What the ISO CP 12 11 Peak Season Endorsement Does
+        What the ISO CP 12 30 Peak Season Endorsement Does
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Peak Season Limit of Insurance endorsement (ISO CP 12 11) modifies the BPP coverage
+        The Peak Season Limit of Insurance endorsement (ISO CP 12 30) modifies the BPP coverage
         on a commercial property policy by increasing the limit of insurance during specified
         periods. The endorsement allows the policyholder and insurer to define:
       </p>
@@ -416,7 +416,7 @@ export default function Content() {
           period.
         </li>
         <li>
-          <strong>Ask for the endorsement by form number.</strong> Request ISO CP 12 11
+          <strong>Ask for the endorsement by form number.</strong> Request ISO CP 12 30
           specifically, or the carrier&rsquo;s equivalent. Some carriers use proprietary forms
           that serve the same function. Verify that the endorsement actually increases the BPP
           limit during the specified period and that it interacts properly with coinsurance.
@@ -498,7 +498,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A business that carries seasonal inventory is not adequately insured by a flat, year-round
-        BPP limit. The ISO CP 12 11 Peak Season endorsement is a targeted, cost-effective solution
+        BPP limit. The ISO CP 12 30 Peak Season endorsement is a targeted, cost-effective solution
         that increases the BPP limit during the exact months when inventory &mdash; and financial
         exposure &mdash; is at its highest. Without it, a loss during peak season creates a
         coverage gap that can reach into the hundreds of thousands of dollars, compounded by
