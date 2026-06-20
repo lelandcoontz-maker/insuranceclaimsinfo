@@ -159,12 +159,15 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California law, the distinction between a lease and a license also
-        affects the parties&rsquo; insurance obligations. A tenant under a lease
-        has obligations under California Civil Code &sect; 1941&ndash;1942.5
-        regarding habitability and repair. A licensee under a co-working
-        membership agreement typically has only the contractual rights spelled
-        out in the membership agreement itself &mdash; and those agreements are
-        drafted by the operator, not negotiated like a commercial lease.
+        affects the parties&rsquo; insurance obligations. A residential tenant under a lease
+        has habitability and repair <em>remedies</em> against the landlord under California
+        Civil Code &sect;&sect; 1941&ndash;1942.5 (landlord&rsquo;s implied duty to maintain
+        the premises, tenant&rsquo;s repair-and-deduct right, and anti-retaliation protection).
+        Those statutory protections do not apply to commercial leases at all, and they
+        certainly do not apply to a licensee under a co-working membership agreement, who
+        typically has only the contractual rights spelled out in the membership agreement
+        itself &mdash; an agreement drafted by the operator, not negotiated like a commercial
+        lease.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
