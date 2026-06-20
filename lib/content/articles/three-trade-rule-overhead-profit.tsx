@@ -223,7 +223,7 @@ export default function Content() {
         <a href="https://www.law.cornell.edu/regulations/california/10-CCR-2695.9" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">Read California&apos;s regulation at Cornell LII.</a>
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Tennessee</strong> &mdash; The state Board of Licensing Contractors requires a licensed contractor on any project exceeding $25,000 or involving more than one subcontractor. This means that under Tennessee law, two trades &mdash; not three &mdash; can trigger the contractor requirement that supports an O&amp;P obligation.
+        <strong>Tennessee</strong> &mdash; The state Board of Licensing Contractors requires a licensed contractor on any project where the total cost exceeds $25,000 (Tenn. Code Ann. &sect; 62-6-102(3)(A)). The statute uses a flat dollar threshold; there is no separate &ldquo;more than one subcontractor&rdquo; trigger. Once the licensure threshold is crossed, the licensed GC requirement supports an O&amp;P obligation on any covered loss whose repair cost meets the threshold.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A comprehensive state-by-state chart of O&amp;P requirements, compiled by Matthiesen, Wickert &amp; Lehrer, is available as a reference document.
