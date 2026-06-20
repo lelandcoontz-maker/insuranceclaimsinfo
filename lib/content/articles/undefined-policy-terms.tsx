@@ -334,14 +334,19 @@ export default function Content() {
         basis, and the policyholder has no ability to negotiate the language.
       </p>
 
-      <CalloutBox variant="legal" title="California Insurance Code &sect; 11580.2">
+      <CalloutBox variant="legal" title="California Civil Code &sect;&sect; 1649 &amp; 1654">
         <p>
           California courts consistently apply the rule that insurance policies are interpreted
           broadly in favor of coverage and narrowly against exclusions. Ambiguous terms are
-          resolved in favor of the insured. This principle applies to both the insuring agreement
-          and the exclusions. If an exclusion is ambiguous, it is construed narrowly &mdash;
-          meaning it excludes less, not more. For a comprehensive overview of how policy language
-          is interpreted, see our{' '}
+          resolved in favor of the insured. The statutory foundation is Civil Code &sect; 1649
+          (terms construed in the sense the promisee understood them) and Civil Code &sect; 1654
+          (contracts construed against the party who caused the uncertainty). The Supreme Court
+          has applied these principles to insurance in <em>AIU Insurance Co. v. Superior Court</em>
+          (1990) 51 Cal.3d 807, <em>Bank of the West v. Superior Court</em> (1992) 2 Cal.4th 1254,
+          and <em>MacKinnon v. Truck Insurance Exchange</em> (2003) 31 Cal.4th 635. This principle
+          applies to both the insuring agreement and the exclusions. If an exclusion is ambiguous,
+          it is construed narrowly &mdash; meaning it excludes less, not more. For a comprehensive
+          overview of how policy language is interpreted, see our{' '}
           <Link href="/resources/policy-interpretation" className="text-blue-700 underline hover:text-blue-900">
             policy interpretation guide
           </Link>.
