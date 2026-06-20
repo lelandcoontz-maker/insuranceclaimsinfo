@@ -99,7 +99,7 @@ export default function Content() {
           inventory values; the reported values establish the basis for recovery.
         </li>
         <li>
-          <strong>CP 12 11 &mdash; Peak Season Endorsement:</strong> Increases the BPP limit
+          <strong>CP 12 30 &mdash; Peak Season Endorsement:</strong> Increases the BPP limit
           during specified high-inventory periods. See our{' '}
           <Link
             href="/resources/peak-season-endorsement"
