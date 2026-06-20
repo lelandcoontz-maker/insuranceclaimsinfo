@@ -789,12 +789,17 @@ export default function Content() {
         States like Michigan, Minnesota, Wisconsin, and the Dakotas have large snowbird
         populations &mdash; homeowners who flee the severe winters for warmer climates. These
         states also have the highest incidence of frozen pipe claims. Michigan courts have been
-        notably strict in interpreting vacancy and residency requirements. In{' '}
-        <em>Heniser v. Frankenmuth Mutual Ins. Co.</em>, 534 N.W.2d 502 (Mich. 1995), the
-        Michigan Supreme Court found the policy language unambiguous and denied coverage for a
-        vacation home where the insured did not live. Snowbirds in these states face a less
-        favorable legal landscape and should be especially diligent about obtaining appropriate
-        endorsements or converting to a DP-3.
+        notably strict in interpreting vacancy and residency requirements, though the leading
+        Michigan case is narrower than it is sometimes described. In{' '}
+        <em>Heniser v. Frankenmuth Mutual Ins. Co.</em>, 534 N.W.2d 502 (Mich. 1995), the insured
+        had already <strong>sold the property on a land contract</strong> in November 1988; the
+        fire occurred in January 1989, after the sale. The Michigan Supreme Court found the policy
+        language unambiguous and denied coverage where the insured no longer owned or resided at
+        the property. <em>Heniser</em> is therefore a sold-property decision rather than a pure
+        snowbird precedent, and should not be cited for the broader proposition that a temporary
+        absence alone defeats coverage. Even so, snowbirds in these states face a less favorable
+        legal landscape and should be especially diligent about obtaining appropriate endorsements
+        or converting to a DP-3.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
