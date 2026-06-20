@@ -486,7 +486,7 @@ export default function Content() {
         <li>
           <strong>Flood exclusion:</strong> Rural properties in valley and river locations are flood-prone,
           but flood coverage requires a separate{' '}
-          <Link href="/claim-types/flood" className="text-[#2E74B5] underline">
+          <Link href="/resources/flood-insurance-nfip-vs-private" className="text-[#2E74B5] underline">
             NFIP or private flood policy
           </Link>.
         </li>
