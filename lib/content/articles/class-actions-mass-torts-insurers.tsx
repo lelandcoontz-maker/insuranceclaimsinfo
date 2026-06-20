@@ -129,17 +129,27 @@ export default function Content() {
         underpayment quickly emerged.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Allstate:</strong> Shernoff Bidart Echeverria filed a class action alleging that
-        Allstate adjusters had altered engineering reports and construction estimates to minimize
-        claimants&rsquo; damages. Allstate ultimately agreed to reopen approximately 9,000
-        Northridge claims and allow independent inspections of policyholders&rsquo; homes.
+        <strong>Allstate:</strong> Shernoff Bidart &amp; Echeverria filed <em>Sherman v. Allstate
+        Insurance Company</em>, a Los Angeles Superior Court class action alleging that Allstate
+        adjusters had altered engineering reports and construction estimates to minimize
+        claimants&rsquo; damages. Under the 1999 settlement, Allstate agreed to contact every
+        Allstate Northridge claimant through independent notice; on request, those claimants
+        would receive a re-opening and review of their claim and an independent engineering
+        review; and Allstate would pay any additional amounts found necessary under that review,
+        with a panel of retired judges overseeing disputes (terms as summarized by Consumer
+        Watchdog/FTCR&rsquo;s contemporaneous review of the related <em>Lowe &amp; Proposition 103
+        Enforcement Project v. Allstate</em>, No. BC178734).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>State Farm:</strong> State Farm paid $100 million to settle a lawsuit brought by
-        homeowners who alleged the company had eliminated earthquake coverage endorsements from
-        certain policies without clearly notifying policyholders. Over 100 homeowners had discovered
-        &mdash; only after the earthquake struck &mdash; that their earthquake coverage had been
-        reduced or removed years earlier.
+        <strong>State Farm:</strong> In <em>Allegro v. State Farm Insurance Co.</em> (L.A. Super.
+        Ct. 1998), State Farm paid approximately $100 million to settle a representative action
+        by approximately 117 homeowners who alleged that State Farm had reduced earthquake
+        coverage on their policies in 1985 without clear notification, leaving them with
+        diminished or no earthquake coverage when the 1994 quake struck. The settlement was
+        confidential, but its existence and amount were confirmed by parties to the litigation
+        and reported in the <em>Los Angeles Times</em>, &ldquo;State Farm Pays $100 Million to
+        Settle Quake Suit&rdquo; (June 11, 1998) and the <em>Chicago Tribune</em>, &ldquo;$100
+        Million State Farm Settlement&rdquo; (June 12, 1998).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>21st Century Insurance:</strong> In <em>Basurco v. 21st Century Insurance
@@ -177,9 +187,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In 2005, a class action was filed in Miller County Court in Texarkana, Arkansas, alleging
         civil conspiracy, breach of contract, breach of fiduciary duty, unjust enrichment, and
-        fraud in connection with Colossus. In 2010, Allstate paid $10 million to settle a
-        multi-state investigation by 41 state attorneys general concerning its use of Colossus
-        software.
+        fraud in connection with Colossus. In October 2010, Allstate agreed to pay $10 million
+        to resolve an 18-month NAIC-coordinated multi-state market conduct examination of its
+        bodily-injury claims handling and use of Colossus. The settlement involved 45 participating
+        states, with Ohio serving as the formal NAIC lead state for the consent order. (See Ohio
+        Department of Insurance, <em>In re Allstate Multi-State Consent Order</em>; reported in
+        Insurance Journal, &ldquo;Allstate Settles Claims Software Complaint with States for
+        $10M&rdquo; (Oct. 19, 2010).)
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>State Farm and &ldquo;Fire ACE&rdquo;:</strong> State Farm purchased a similar
@@ -211,20 +225,27 @@ export default function Content() {
         storm surge/flooding (excluded).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>State Farm and engineering report manipulation:</strong> State Farm was found to have
-        changed damage reports to attribute homeowner damage to flooding rather than wind, allowing
-        the company to deny wind-damage claims. In 2022, State Farm agreed to pay the federal
-        government $100 million to settle allegations that it defrauded the United States through its
-        handling of Katrina claims. State Farm also settled with the Mississippi Attorney
-        General&rsquo;s office for $12 million in 2021.
+        <strong>State Farm and engineering report manipulation:</strong> State Farm was alleged
+        to have attributed homeowner damage to flooding rather than wind, shifting cost to the
+        federal National Flood Insurance Program (NFIP) and away from State Farm&rsquo;s own
+        wind coverage. In 2022, State Farm agreed to pay the federal government $100 million to
+        resolve the long-running False Claims Act qui tam action <em>United States ex rel. Rigsby
+        v. State Farm Fire &amp; Casualty Co.</em> (S.D. Miss.), the procedural history of which
+        produced the U.S. Supreme Court decision at 580 U.S. 39 (2016). The parties announced the
+        settlement on August 19, 2022. State Farm separately paid Mississippi $12 million in
+        February 2021 to settle the state Attorney General&rsquo;s parallel wind-vs.-water case.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>USAA bad faith verdict:</strong> In <em>Minor v. USAA</em>, the Mississippi Supreme
-        Court affirmed a $10.5 million punitive damage verdict against USAA for bad faith denial of
-        a Katrina claim. Evidence revealed that USAA concealed engineering reports that supported the
-        family&rsquo;s claims, intentionally delayed payments, and refused to pay amounts that
-        USAA&rsquo;s own internal documents indicated were owed. The case was filed in 2008 and
-        litigated for over 15 years before final resolution.
+        <strong>USAA bad faith verdict:</strong> In <em>United Services Automobile Association v.
+        Estate of Minor</em>, No. 2023-CA-00049-SCT (Miss. Dec. 5, 2024), the Mississippi Supreme
+        Court affirmed a $10 million punitive damages award (and $457,858.89 in extra-contractual
+        damages) against USAA for bad-faith denial of a Hurricane Katrina claim, and on appeal
+        added $4.5 million in attorney&rsquo;s fees plus post-judgment interest. Evidence revealed
+        that USAA concealed engineering reports that supported the family&rsquo;s claims,
+        intentionally delayed payments, and refused to pay amounts that USAA&rsquo;s own internal
+        documents indicated were owed. The civil action was filed in 2008 and litigated through
+        a 2013 jury verdict, multiple appeals, and the December 2024 Supreme Court affirmance;
+        rehearing was denied in October 2025.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Katrina cases demonstrated a tactic California policyholders should be aware of:
@@ -248,9 +269,11 @@ export default function Content() {
         Bernstein against Southern California Edison, alleging that SCE knowingly violated safety
         procedures that led to the fire and resulting mudslides. The cases were consolidated into
         a coordinated proceeding in Los Angeles County Superior Court. In September 2020, SCE
-        reached a $1.16 billion settlement with insurance companies for subrogation claims.
-        Individual plaintiffs&rsquo; cases were resolved through a damages-only adjudication
-        protocol established as part of the JCCP.
+        reached a $1.16 billion settlement with the insurance subrogation plaintiffs in the
+        Thomas, Koenigstein and Montecito litigation, paid at $0.555 per dollar of pre-settlement
+        claims (per Edison International, Form 8-K, filed Sept. 22, 2020; SCE press release of
+        Sept. 23, 2020). Individual plaintiffs&rsquo; cases were resolved through a damages-only
+        adjudication protocol established as part of the JCCP.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         While most of this litigation targeted the utility rather than the insurance companies
@@ -272,9 +295,13 @@ export default function Content() {
         No class action was certified in the Camp Fire litigation. Instead, individual lawsuits were
         coordinated into JCCP No. 4955 in San Francisco County Superior Court. Each claimant filed
         a separate case, retained their own attorney, and calculated their own damages. When PG&amp;E
-        filed for bankruptcy in 2019, the civil lawsuits were automatically stayed, and all claims
-        were incorporated into the bankruptcy proceedings. PG&amp;E emerged from bankruptcy in 2020
-        after agreeing to a $13.5 billion settlement with fire victims.
+        filed for bankruptcy in January 2019, the civil lawsuits were automatically stayed, and all
+        claims were incorporated into the bankruptcy proceedings (<em>In re PG&amp;E Corporation
+        and Pacific Gas and Electric Company, Debtors</em>, Case No. 19-30088 (DM), Bankr. N.D. Cal.).
+        Under the confirmed Plan of Reorganization (June 20, 2020), PG&amp;E funded the Fire Victim
+        Trust with $6.75 billion in cash and $6.75 billion in PG&amp;E stock &mdash; a $13.5 billion
+        aggregate settlement covering the 2018 Camp Fire, 2017 North Bay Fires (including Tubbs),
+        2015 Butte Fire, and 2016 Ghost Ship Fire. PG&amp;E emerged from Chapter 11 on July 1, 2020.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Camp Fire litigation is a good example of why many wildfire cases proceed as mass torts
