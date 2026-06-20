@@ -178,7 +178,7 @@ export default function Content() {
         </li>
         <li><strong>Xactware eService Center</strong>: The eService Center at <a href="https://eservice.xactware.com" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">eservice.xactware.com</a> hosts copies of white papers and technical documents, often organized by publication year.</li>
         <li><strong>The Xactware EULA</strong>: The End User License Agreement is published at <a href="https://www.verisk.com/privacy-policies/xactware-eula/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">verisk.com/privacy-policies/xactware-eula</a>. Section 12.3 contains the critical pricing accuracy disclaimer.</li>
-        <li><strong>Xactware Help Documentation</strong>: The help portal at <a href="https://xactware.helpdocs.io" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">xactware.helpdocs.io</a> and <a href="https://xactprm.xactware.help" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">xactprm.xactware.help</a> contain user-facing documentation on settings, features, and pricing methodology.</li>
+        <li><strong>Xactware Help Documentation</strong>: The help portal at <a href="https://xactware.helpdocs.io" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">xactware.helpdocs.io</a> contains user-facing documentation on settings, features, and pricing methodology across Xactimate Online, Desktop, Mobile, and the related Xactware tools.</li>
       </ol>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">What to Search For</h3>
