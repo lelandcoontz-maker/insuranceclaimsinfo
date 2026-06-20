@@ -91,8 +91,15 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        These are not allegations from disgruntled homeowners. These problems were documented by
-        the federal government&apos;s own investigators.
+        These are not allegations from disgruntled homeowners. The altered-engineering-report
+        practice was documented in discovery in the Eastern District of New York Hurricane Sandy
+        multidistrict litigation (<em>In re Hurricane Sandy Cases</em>, MDL 14-MC-41, E.D.N.Y.),
+        where Magistrate Judge Brown issued discovery findings on the practice. The systemic
+        underpayment pattern was acknowledged by FEMA itself when it opened the Sandy Claims
+        Review Process and ultimately paid additional money on the vast majority of reopened
+        claims; the OIG&rsquo;s subsequent audit of that review process (OIG-18-38) found cost
+        and controls problems with the remediation, not with the underpayment finding it was
+        designed to address.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
