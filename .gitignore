@@ -20,3 +20,6 @@ _polish_batch_uz.py
 scripts/_batch.json
 scripts/debug_check.js
 scripts/polish_abc.js
+
+# Accessibility audit output (regenerate with `npm run a11y`)
+a11y-report.md

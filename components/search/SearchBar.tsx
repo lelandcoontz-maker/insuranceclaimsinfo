@@ -238,7 +238,9 @@ export function SearchBar() {
               if (results.length > 0) setIsOpen(true)
             }}
             placeholder="Search 542 articles..."
+            role="combobox"
             aria-label="Search articles"
+            aria-autocomplete="list"
             aria-expanded={isOpen}
             aria-controls="search-results"
             aria-activedescendant={
