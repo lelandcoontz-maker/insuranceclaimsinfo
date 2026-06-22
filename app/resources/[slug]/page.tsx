@@ -10,7 +10,7 @@ import articleDates from '@/public/data/article-dates.json'
 import articleRegistry from '@/public/data/article-registry.json'
 import articleTags from '@/public/data/article-tags.json'
 
-const registry = articleRegistry as Record<string, { title: string; description: string; summary?: string; seoTitle?: string }>
+const registry = articleRegistry as Record<string, { title: string; description: string; summary?: string; seoTitle?: string; seoDescription?: string }>
 const tagData = articleTags as Record<string, { subcategory?: string }>
 
 interface Props { params: Promise<{ slug: string }> }
@@ -31,8 +31,27 @@ function buildSeoTitle(meta: { title: string; seoTitle?: string }, max = 60): st
   if (source.length <= max) return source
   const sub = source.slice(0, max)
   const lastSpace = sub.lastIndexOf(' ')
-  // Cut at word boundary if reasonable; otherwise hard cut + ellipsis
   return lastSpace > max * 0.6 ? sub.slice(0, lastSpace) : sub.slice(0, max - 1) + '…'
+}
+
+/**
+ * Build the SERP meta description for a given article.
+ *
+ * Priority:
+ *   1. meta.seoDescription (hand-crafted, optimized for click-through)
+ *   2. meta.description truncated at sentence/word boundary to ~155 chars
+ */
+function buildSeoDescription(meta: { description: string; seoDescription?: string }, max = 155): string {
+  if (meta.seoDescription && meta.seoDescription.length <= max) return meta.seoDescription
+  const source = meta.seoDescription || meta.description
+  if (source.length <= max) return source
+  const sub = source.slice(0, max)
+  // Prefer a sentence boundary if one falls in the back half of the slice
+  const lastSentence = Math.max(sub.lastIndexOf('. '), sub.lastIndexOf('! '), sub.lastIndexOf('? '))
+  if (lastSentence > max * 0.6) return sub.slice(0, lastSentence + 1)
+  // Otherwise fall back to word boundary with an ellipsis
+  const lastSpace = sub.lastIndexOf(' ')
+  return lastSpace > max * 0.6 ? sub.slice(0, lastSpace) + '…' : sub.slice(0, max - 1) + '…'
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -41,12 +60,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!meta) return { title: 'Resource Article' }
   const url = `https://insuranceclaimsinfo.com/resources/${slug}`
   const seoTitle = buildSeoTitle(meta)
+  const seoDescription = buildSeoDescription(meta)
   return {
     title: { absolute: seoTitle },
-    description: meta.description,
+    description: seoDescription,
     openGraph: {
       title: seoTitle,
-      description: meta.description,
+      description: seoDescription,
       url,
       type: 'article',
       siteName: 'InsuranceClaimsInfo.com',
@@ -62,7 +82,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     twitter: {
       card: 'summary',
       title: seoTitle,
-      description: meta.description,
+      description: seoDescription,
       images: ['https://insuranceclaimsinfo.com/images/leland-coontz-headshot.png'],
     },
     alternates: {

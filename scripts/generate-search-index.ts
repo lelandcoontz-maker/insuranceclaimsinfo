@@ -21,6 +21,7 @@ interface ArticleMeta {
   description: string
   summary?: string
   seoTitle?: string
+  seoDescription?: string
 }
 
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -39,7 +40,8 @@ for (const file of files) {
 
   const titleMatch = content.match(/(?<![a-zA-Z])title:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
   const seoTitleMatch = content.match(/seoTitle:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
-  const descMatch = content.match(/description:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
+  const descMatch = content.match(/(?<![a-zA-Z])description:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
+  const seoDescMatch = content.match(/seoDescription:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
   const summaryMatch = content.match(/summary:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
 
   if (!titleMatch) {
@@ -52,12 +54,14 @@ for (const file of files) {
   const title = unescape(titleMatch[1])
   const seoTitle = seoTitleMatch ? unescape(seoTitleMatch[1]) : undefined
   const description = descMatch ? unescape(descMatch[1]) : ''
+  const seoDescription = seoDescMatch ? unescape(seoDescMatch[1]) : undefined
   const summary = summaryMatch ? unescape(summaryMatch[1]) : undefined
 
   searchEntries.push({ slug, title, description })
   const entry: ArticleMeta = { title, description }
   if (summary) entry.summary = summary
   if (seoTitle) entry.seoTitle = seoTitle
+  if (seoDescription) entry.seoDescription = seoDescription
   registry[slug] = entry
 }
 
