@@ -20,6 +20,7 @@ interface ArticleMeta {
   title: string
   description: string
   summary?: string
+  seoTitle?: string
 }
 
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -36,7 +37,8 @@ for (const file of files) {
   const filePath = path.join(ARTICLES_DIR, file)
   const content = fs.readFileSync(filePath, 'utf-8')
 
-  const titleMatch = content.match(/title:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
+  const titleMatch = content.match(/(?<![a-zA-Z])title:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
+  const seoTitleMatch = content.match(/seoTitle:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
   const descMatch = content.match(/description:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
   const summaryMatch = content.match(/summary:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
 
@@ -45,16 +47,18 @@ for (const file of files) {
     continue
   }
 
-  const title = titleMatch[1].replace(/\\'/g, "'").replace(/\\"/g, '"')
-  const description = descMatch
-    ? descMatch[1].replace(/\\'/g, "'").replace(/\\"/g, '"')
-    : ''
-  const summary = summaryMatch
-    ? summaryMatch[1].replace(/\\'/g, "'").replace(/\\"/g, '"')
-    : undefined
+  const unescape = (s: string) => s.replace(/\\'/g, "'").replace(/\\"/g, '"')
+
+  const title = unescape(titleMatch[1])
+  const seoTitle = seoTitleMatch ? unescape(seoTitleMatch[1]) : undefined
+  const description = descMatch ? unescape(descMatch[1]) : ''
+  const summary = summaryMatch ? unescape(summaryMatch[1]) : undefined
 
   searchEntries.push({ slug, title, description })
-  registry[slug] = summary ? { title, description, summary } : { title, description }
+  const entry: ArticleMeta = { title, description }
+  if (summary) entry.summary = summary
+  if (seoTitle) entry.seoTitle = seoTitle
+  registry[slug] = entry
 }
 
 searchEntries.sort((a, b) => a.slug.localeCompare(b.slug))

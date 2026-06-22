@@ -5,14 +5,14 @@
     "summary": "Whether your insurer must pay general contractor overhead and profit (O&P) depends on your state. Most states require it whenever repairs need a GC to coordinate multiple trades; a minority let insurers withhold it until actually incurred. This guide maps the rule, regulators, and case law state by state."
   },
   "ab-1642-claims-timeline": {
-    "title": "AB 1642 and California Claims Handling Timelines: The Deadlines Your Insurer Must Meet",
-    "description": "California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. AB 1642 and the California Insurance Code establish specific timelines that policyholders can enforce.",
-    "summary": "California law sets enforceable deadlines on insurers: acknowledge a claim within 15 days, accept or deny within 40 days of receiving proof of loss, and pay promptly once accepted. AB 1642 and the Insurance Code make these timelines mandatory, not courtesies."
+    "title": "California Claims Handling Timelines: The Deadlines Your Insurer Must Meet",
+    "description": "California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. The Insurance Code and Fair Claims Settlement Practices Regulations establish specific timelines that policyholders can enforce.",
+    "summary": "California law sets enforceable deadlines on insurers: acknowledge a claim within 15 days, accept or deny within 40 days of receiving proof of loss, and pay promptly once accepted. The Insurance Code, Fair Claims Settlement Practices Regulations, and state-of-emergency statutes make these timelines mandatory, not courtesies."
   },
   "ab-597-public-adjuster-regulations": {
     "title": "AB 597 (Pending): Proposed Public Adjuster Regulations in California",
-    "description": "California AB 597 is a pending bill that would cap public adjuster fees at 15% for catastrophic-disaster claims and impose new contract and solicitation requirements. Currently held in Senate Appropriations as of August 2025.",
-    "summary": "AB 597 is a pending California bill that would cap public adjuster fees at 15% on catastrophic-disaster claims and add new contract and solicitation rules. As of August 2025 it is held in Senate Appropriations and is not yet law."
+    "description": "California AB 597 is a pending bill that would cap Public Adjuster fees at 15% for catastrophic-disaster claims and impose new contract and solicitation requirements. Currently held in Senate Appropriations as of August 2025.",
+    "summary": "AB 597 is a pending California bill that would cap Public Adjuster fees at 15% on catastrophic-disaster claims and add new contract and solicitation rules. As of August 2025 it is held in Senate Appropriations and is not yet law."
   },
   "accidental-discharge-overflow": {
     "title": "Accidental Discharge or Overflow: The Most Important Water Damage Peril in Your Policy",
@@ -52,7 +52,7 @@
   "adjuster-compensation": {
     "title": "How Insurance Adjusters Get Paid: Compensation Models and Why They Matter for Your Claim",
     "description": "Staff adjusters, independent adjusters, and Public Adjusters are all paid differently — and those compensation models create different incentives on your claim. Learn how adjuster pay works and what it means for you.",
-    "summary": "Staff, independent, and public adjusters are paid in different ways, and each pay model creates different incentives on your claim. Knowing how the adjuster across from you is compensated helps you read their motives and weigh their estimate."
+    "summary": "Staff, independent, and Public Adjusters are paid in different ways, and each pay model creates different incentives on your claim. Knowing how the adjuster across from you is compensated helps you read their motives and weigh their estimate."
   },
   "adjuster-pressure-truth": {
     "title": "The Adjuster Caught in the Middle: Why Field Estimates Keep Getting Overridden",
@@ -62,7 +62,7 @@
   "adjuster-types": {
     "title": "Types of Insurance Adjusters: Who You're Really Dealing With",
     "description": "Staff adjusters, independent adjusters, desk adjusters, field adjusters, Public Adjusters — learn who each one works for and how it affects your claim.",
-    "summary": "Staff, independent, desk, field, and public adjusters all play different roles, and all but the public adjuster work for the insurer. Knowing who you are dealing with, and who pays them, tells you whose interests they serve."
+    "summary": "Staff, independent, desk, field, and Public Adjusters all play different roles, and all but the Public Adjuster work for the insurer. Knowing who you are dealing with, and who pays them, tells you whose interests they serve."
   },
   "adu-coverage-gaps": {
     "title": "ADU and Garage Conversion Insurance Coverage Gaps in California",
@@ -91,8 +91,8 @@
   },
   "ai-claims-handling-policyholder-rights": {
     "title": "Artificial Intelligence in Insurance Claims: What Policyholders Need to Know",
-    "description": "How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, California SB-1120, and policyholder rights to challenge AI-driven decisions.",
-    "summary": "Insurers increasingly use AI to triage, estimate, and even deny claims. You retain the right to meaningful human review and a real explanation. California SB 1120 and the NAIC framework limit pure-AI decisions, and an automated denial can be challenged."
+    "description": "How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, and policyholder rights to challenge AI-driven decisions.",
+    "summary": "Insurers increasingly use AI to triage, estimate, and even deny claims. The NAIC framework limits pure-AI decisions and existing unfair claims practices law applies to algorithmic ones. An automated denial can be challenged, and you can demand a real explanation."
   },
   "ale-advance-payments": {
     "title": "ALE Advance Payments: The ",
@@ -126,7 +126,7 @@
   },
   "appraisal-mediation-litigation-decision": {
     "title": "Choosing Between Appraisal, Mediation, and Litigation: A Decision Framework",
-    "description": "A comprehensive guide to deciding when appraisal, mediation, or litigation is the right dispute resolution path for your insurance claim — including cost and timeline comparisons, California-specific rules, and practical decision trees.",
+    "description": "A guide to deciding when appraisal, mediation, or litigation is the right dispute resolution path for your insurance claim — including cost and timeline comparisons, California-specific rules, and practical decision trees.",
     "summary": "Appraisal resolves disputes over the amount of loss, mediation seeks a negotiated settlement, and litigation addresses coverage and bad faith. Choose based on whether your fight is about price or about coverage, plus cost and timeline. This guide gives a decision framework."
   },
   "appraisal-practitioner-guide": {
@@ -140,9 +140,9 @@
     "summary": "California's Standard Fire Policy sets a floor for appraisal rights that an insurer's own policy language cannot undercut. Hart v. State Farm and Haddock v. State Farm confirm insurers cannot impose conditions that strip the appraisal rights the SFP guarantees."
   },
   "appraisal-tolling-statute-limitations": {
-    "title": "Does Invoking Appraisal Toll the Statute of Limitations?",
-    "description": "The answer is unsettled. Learn both sides of the debate, what California courts have said (Prudential-LMI, Appalachian, Brehm), how Insurance Code § 2071 creates the problem, and the one thing you should always do before starting appraisal: get a written tolling agreement.",
-    "summary": "Whether invoking appraisal pauses the one-year suit deadline is unsettled in California. Because the law is unclear, always get a written tolling agreement before starting appraisal so the clock cannot run out while you wait for the award."
+    "title": "Does Invoking Appraisal Toll the Statute of Limitations? (In California, the Safer Assumption Is No.)",
+    "description": "Invoking appraisal does not toll the one-year suit limitation in California. Prudential-LMI tolls during the insurer’s investigation, but Singh, Marselis, and Doheny show courts have refused to extend tolling beyond that. Protect yourself: file a protective lawsuit and request a stay pending appraisal.",
+    "summary": "In California, the safer assumption is that invoking appraisal does NOT toll the one-year suit limitation. Prudential-LMI tolling stops when the insurer denies the claim; courts have repeatedly refused to extend tolling further. The practical fix: file a protective lawsuit before the deadline and request a stay pending appraisal."
   },
   "appraisal": {
     "title": "Insurance Appraisal in California: The Complete Guide",
@@ -206,8 +206,8 @@
   },
   "below-the-deductible-strategies": {
     "title": "When a Claim Is Below the Deductible: Strategies for Capturing the Full Scope of Loss",
-    "description": "How deductibles work in property claims, why carriers have incentives to keep estimates below the deductible, commonly missed items that push claims over the threshold, and when to hire a public adjuster for borderline claims.",
-    "summary": "Carriers have an incentive to keep estimates just under your deductible so nothing is paid. Capture the full scope, including commonly missed items, to push a borderline claim over the threshold; a public adjuster can help on close calls."
+    "description": "How deductibles work in property claims, why carriers have incentives to keep estimates below the deductible, commonly missed items that push claims over the threshold, and when to hire a Public Adjuster for borderline claims.",
+    "summary": "Carriers have an incentive to keep estimates just under your deductible so nothing is paid. Capture the full scope, including commonly missed items, to push a borderline claim over the threshold; a Public Adjuster can help on close calls."
   },
   "betterment-and-improvement": {
     "title": "Betterment and Improvement: When Your Insurer Demands You Pay the Difference",
@@ -231,8 +231,8 @@
   },
   "blanket-vs-scheduled-personal-property": {
     "title": "Blanket vs. Scheduled Personal Property Coverage: When to Schedule and What You Risk If You Do Not",
-    "description": "How blanket personal property coverage works under Coverage C, when scheduling individual items is necessary, the valuation differences between each approach, and California-specific strategies for adequate contents coverage.",
-    "summary": "Blanket Coverage C insures your belongings as a group with internal sub-limits on categories like jewelry, while scheduling lists high-value items individually for full agreed valuation. Schedule anything whose value exceeds its category sub-limit to avoid a shortfall."
+    "description": "How blanket personal property coverage works under personal property, when scheduling individual items is necessary, the valuation differences between each approach, and California-specific strategies for adequate contents coverage.",
+    "summary": "Blanket personal property coverage insures your belongings as a group with internal sub-limits on categories like jewelry, while scheduling lists high-value items individually for full agreed valuation. Schedule anything whose value exceeds its category sub-limit to avoid a shortfall."
   },
   "blanket-vs-specific-insurance": {
     "title": "Blanket vs. Specific Insurance: How Limits Work Across Multiple Locations",
@@ -334,15 +334,15 @@
     "description": "California imposes strict requirements on residential construction contracts under Business & Professions Code 7159. Learn how these requirements affect insurance claims, what distinguishes residential from commercial construction law, and how non-compliant contracts can undermine your repair project.",
     "summary": "California Business and Professions Code 7159 imposes strict requirements on residential construction contracts. A non-compliant repair contract can undermine your project and your claim, so confirm your contractor and contract meet the law before work begins."
   },
+  "california-fair-claims-regulations-full-text": {
+    "title": "California Fair Claims Settlement Practices Regulations — Verbatim Text (Property Provisions) and Practical Guide",
+    "description": "The verbatim text of the property-relevant provisions of 10 CCR §§ 2695.1–2695.14, the California Fair Claims Settlement Practices Regulations, with history, enforcement, interplay with the Standard Fire Policy, and how practitioners use them. A reference for policyholders, Public Adjusters, and attorneys.",
+    "summary": "A practitioner reference to California's Fair Claims Settlement Practices Regulations (10 CCR §§ 2695.1–2695.14), with the verbatim text of the property-relevant provisions and the history, enforcement framework, and case law context behind them. The automobile-specific sections (§§ 2695.8, 2695.8.1, 2695.8.2, 2695.8.5) are outside the scope of this property-focused site and are linked to the CDI primary source."
+  },
   "california-fair-claims": {
     "title": "California Fair Claims Settlement Practices Regulations (10 CCR 2695)",
     "description": "A section-by-section analysis of California's Fair Claims Settlement Practices Regulations — every rule your insurer must follow on a property claim, with case law, real-world examples, and how to use each regulation to your advantage.",
     "summary": "California's Fair Claims Settlement Practices Regulations (10 CCR 2695) set out, rule by rule, exactly how an insurer must handle your property claim, from communication deadlines to investigation duties. Each regulation is a standard you can hold the carrier to."
-  },
-  "california-fair-claims-regulations-full-text": {
-    "title": "California Fair Claims Settlement Practices Regulations — Verbatim Full Text and Practical Guide",
-    "description": "The full text of 10 CCR §§ 2695.1–2695.14, the California Fair Claims Settlement Practices Regulations, with history, enforcement, interplay with the Standard Fire Policy, and how practitioners use them. A reference for policyholders, Public Adjusters, and attorneys.",
-    "summary": "A complete reference to California's Fair Claims Settlement Practices Regulations (10 CCR §§ 2695.1–2695.14). Includes the verbatim text of every section, the history behind the regulations, how they relate to the Standard Fire Policy, who enforces them, and how Public Adjusters and plaintiff attorneys cite them in practice. Citations should be verified against the CDI primary source because subsection letters drift over time."
   },
   "california-fair-plan": {
     "title": "The California FAIR Plan: What It Covers, What It Doesn't, and How to Apply",
@@ -381,8 +381,8 @@
   },
   "cashing-insurance-checks": {
     "title": "Can I Cash This Insurance Check? What You Need to Know Before You Deposit",
-    "description": "The vast majority of insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure.",
-    "summary": "The vast majority of insurance checks are ordinary payments with no strings attached and are safe to cash. Learn to spot the rare restrictive endorsement that purports to settle your claim, and pause to verify if any release language appears."
+    "description": "Most insurance checks are ordinary payments with no strings attached. Learn when it is safe to cash your check, how to spot the rare restrictive endorsement, and what to do if you are unsure.",
+    "summary": "Most insurance checks are ordinary payments with no strings attached and are safe to cash. Learn to spot the rare restrictive endorsement that purports to settle your claim, and pause to verify if any release language appears."
   },
   "catastrophe-claims": {
     "title": "Catastrophe Claims: Why Disaster Claims Are Handled Differently and What It Means for You",
@@ -391,7 +391,7 @@
   },
   "cause-and-origin-fire-investigations": {
     "title": "Cause and Origin Fire Investigations: What Policyholders Need to Know",
-    "description": "A comprehensive guide to cause and origin (C&O) fire investigations in insurance claims. Covers the critical difference between fire department and insurance company investigators, policyholder rights, scene preservation, spoliation of evidence, NFPA 921 methodology, and how C&O findings can affect your claim.",
+    "description": "A guide to cause and origin (C&O) fire investigations in insurance claims. Covers the critical difference between fire department and insurance company investigators, policyholder rights, scene preservation, spoliation of evidence, NFPA 921 methodology, and how C&O findings can affect your claim.",
     "summary": "A cause-and-origin investigation determines how a fire started, and the insurer's investigator is not the fire department's. Preserve the scene, know your rights, and understand NFPA 921 methodology, because C&O findings can make or break coverage."
   },
   "cdi-36-month-ale": {
@@ -411,8 +411,8 @@
   },
   "cdi-contents-without-inventory": {
     "title": "Personal Property Claims Without a Full Inventory: What California Law Requires",
-    "description": "After a total loss in a declared disaster, California law requires insurers to pay at least 30% of dwelling limits for contents without requiring an itemized inventory. The CDI has repeatedly directed carriers to comply.",
-    "summary": "After a total loss in a declared disaster, California law requires insurers to pay at least 30% of the dwelling limit for contents without demanding an itemized inventory. The CDI has repeatedly directed carriers to honor this."
+    "description": "After a total loss in a declared disaster, California law requires insurers to pay at least 60% of the contents (personal property) limit, up to $350,000, without requiring an itemized inventory (SB 495, eff. Jan 1, 2026). The CDI has repeatedly directed carriers to comply.",
+    "summary": "After a total loss in a declared disaster, California law requires insurers to pay at least 60% of the contents limit, up to $350,000, without demanding an itemized inventory under SB 495 (eff. Jan 1, 2026). The CDI has repeatedly directed carriers to honor this."
   },
   "cdi-flood-mudslide-wildfire": {
     "title": "Flood and Mudslide After Wildfire: Why Your Homeowner Policy Covers It",
@@ -502,7 +502,7 @@
   "coinsurance-penalty": {
     "title": "Coinsurance Penalties: When Being Underinsured Costs You Extra",
     "description": "What coinsurance is, how the penalty works, and why it usually doesn't apply to total losses — even though some adjusters apply it anyway.",
-    "summary": "A coinsurance penalty reduces your payout if you insured the property for less than the required percentage of its value. Importantly, it usually does not apply to a total loss, even though some adjusters wrongly try to impose it."
+    "summary": "A coinsurance penalty reduces your payout if you insured the property for less than the required percentage of its value. It usually does not apply to a total loss, even though some adjusters wrongly try to impose it."
   },
   "collapse-coverage": {
     "title": "Collapse Coverage in Homeowner Insurance: The Hidden Additional Coverage Carriers Hope You Overlook",
@@ -516,7 +516,7 @@
   },
   "commercial-coinsurance": {
     "title": "Commercial Coinsurance: The Penalty That Can Devastate Your Claim Payment",
-    "description": "Deep dive into commercial coinsurance for building, BPP, and business income coverage. Understand the penalty formula, agreed value endorsements, monthly limitation of indemnity, and how carriers weaponize coinsurance after a loss.",
+    "description": "Detailed guide to commercial coinsurance for building, BPP, and business income coverage. Understand the penalty formula, agreed value endorsements, monthly limitation of indemnity, and how carriers weaponize coinsurance after a loss.",
     "summary": "Commercial coinsurance penalizes underinsured building, BPP, and business income coverage using a strict formula, and carriers often weaponize it after a loss. Agreed-value endorsements and proper limits avoid the penalty; understand the math before you are hit with it."
   },
   "commercial-crime-social-engineering": {
@@ -526,7 +526,7 @@
   },
   "commercial-endorsements": {
     "title": "Critical Commercial Property Endorsements Every Business Owner Should Know",
-    "description": "A comprehensive guide to essential commercial property endorsements — Ordinance or Law, Utility Services, Spoilage, Virus/Bacteria Exclusion, Peak Season, and more. Learn which endorsements your policy needs and how gaps can devastate a claim.",
+    "description": "A guide to essential commercial property endorsements — Ordinance or Law, Utility Services, Spoilage, Virus/Bacteria Exclusion, Peak Season, and more. Learn which endorsements your policy needs and how gaps can devastate a claim.",
     "summary": "Key commercial property endorsements, Ordinance or Law, Utility Services, Spoilage, Peak Season, and others, fill gaps the base policy leaves open. Review which your operation needs, because a missing endorsement can devastate an otherwise covered claim."
   },
   "commercial-lease-insurance-checklist": {
@@ -548,6 +548,11 @@
     "title": "Ordinance or Law Coverage in Commercial Property Insurance: When Code Upgrades Can Double Your Claim",
     "description": "How ordinance or law coverage works in commercial property policies. The three ISO coverages, policy variations, demolition thresholds, and gaps that can cost building owners hundreds of thousands.",
     "summary": "Ordinance or law coverage in commercial policies pays for code-required upgrades, demolition, and the increased cost of construction after a loss, split across three ISO coverages. Gaps and low limits can cost building owners hundreds of thousands."
+  },
+  "commercial-policy-explained": {
+    "title": "Understanding Your Commercial Property Policy: The CP and BOP Forms Explained",
+    "description": "Commercial property policies do not use the Coverage A/B/C/D shorthand from homeowner policies. They use functional names — Building, Business Personal Property, Business Income, Extra Expense — across the ISO Commercial Property (CP) and Businessowners (BOP) form families. Here is what each form does and where the traps live in California claims.",
+    "summary": "Commercial property uses ISO CP forms (Building / BPP / Business Income) or the packaged BOP for smaller businesses. Different forms, different traps — coinsurance, 72-hour Business Income waiting periods, FAIR Plan limitations, and Prop 103 dynamics all shape California commercial claims."
   },
   "commercial-umbrella-excess-liability": {
     "title": "Commercial Umbrella and Excess Liability Insurance: What Happens When Your Primary Policy Runs Out",
@@ -616,8 +621,8 @@
   },
   "contents-coverage-gaps": {
     "title": "When the Building Is Covered but Your Personal Property Is Not: Understanding Contents Coverage Gaps",
-    "description": "The standard HO-3 homeowner policy covers your dwelling on an open-perils basis but limits personal property to named perils only. Learn where the Coverage A vs. Coverage C gap creates uncovered losses and how to protect yourself.",
-    "summary": "A standard HO-3 covers the dwelling on an open-perils basis but limits personal property to named perils, so some belongings losses fall through the gap. Know where Coverage A and Coverage C diverge and consider broader contents coverage."
+    "description": "The standard HO-3 homeowner policy covers your dwelling on an open-perils basis but limits personal property to named perils only. Learn where the dwelling vs. personal property gap creates uncovered losses and how to protect yourself.",
+    "summary": "A standard HO-3 covers the dwelling on an open-perils basis but limits personal property to named perils, so some belongings losses fall through the gap. Know where dwelling and personal property coverage diverge and consider broader contents coverage."
   },
   "contents-inventory-guide": {
     "title": "How to Document a Contents Inventory After a Total Loss",
@@ -631,7 +636,7 @@
   },
   "contra-proferentem": {
     "title": "Contra Proferentem: Why Ambiguous Insurance Policy Language Is Construed Against the Insurer",
-    "description": "A comprehensive guide to the contra proferentem doctrine in California insurance law. Covers the two-step ambiguity analysis, key court decisions, limits of the rule, its relationship to the doctrine of reasonable expectations, and how policyholders can invoke it in coverage disputes.",
+    "description": "A guide to the contra proferentem doctrine in California insurance law. Covers the two-step ambiguity analysis, key court decisions, limits of the rule, its relationship to the doctrine of reasonable expectations, and how policyholders can invoke it in coverage disputes.",
     "summary": "Contra proferentem means ambiguous policy language is construed against the insurer that wrote it. California uses a two-step ambiguity analysis tied to the insured's reasonable expectations. When wording is genuinely unclear, this doctrine favors coverage."
   },
   "contractor-liens-insurance-claims": {
@@ -664,6 +669,11 @@
     "description": "Understanding coverage disputes — the most fundamental question in any insurance claim. Learn how to respond to denials, who bears the burden of proof, and when to escalate.",
     "summary": "A coverage dispute asks the most basic question: is your loss covered at all? Learn how to respond to a denial, who bears the burden of proof on coverage versus exclusions, and when to escalate the fight."
   },
+  "coverage-lettering-explained": {
+    "title": "Coverage A, B, C, D: How Property Insurance Lettering Works (and Where Forms Differ)",
+    "description": "The Coverage A/B/C/D system most readers see on a declarations page comes from the standard ISO Homeowners form. Other policy forms — Dwelling Fire (DP), condo (HO-6), renters (HO-4), commercial — handle the letters differently. Here is what each form actually means, especially in California.",
+    "summary": "Coverage A/B/C/D is shorthand from ISO Homeowners forms. Dwelling Fire policies split Loss of Use into separate Coverage D and Coverage E. Condo, renters, and commercial policies use different schemes. Knowing which form you are on changes how a claim gets calculated."
+  },
   "coworking-space-insurance-claims": {
     "title": "Co-Working Space Insurance Claims: When 50 Businesses Share One Building and Nobody Knows Who’s Covered",
     "description": "Who insures what when dozens of businesses share a co-working space? Understanding the three-layer insurance problem between building owners, co-working operators, and individual members — and how to avoid devastating coverage gaps.",
@@ -682,7 +692,7 @@
   "crop-agricultural-insurance": {
     "title": "Crop and Agricultural Insurance Claims in California",
     "description": "How crop and agricultural insurance claims work in California — federal MPCI, revenue protection, smoke taint, livestock mortality, and why a Public Adjuster matters on high-value farm losses.",
-    "summary": "California crop and agricultural claims involve federal multi-peril crop insurance, revenue protection, smoke taint, and livestock mortality. On high-value farm losses the rules are complex, and a public adjuster can materially improve the recovery."
+    "summary": "California crop and agricultural claims involve federal multi-peril crop insurance, revenue protection, smoke taint, and livestock mortality. On high-value farm losses the rules are complex, and a Public Adjuster can materially improve the recovery."
   },
   "cslb-licensing-requirements": {
     "title": "California Contractor Licensing and Insurance Claims: What Happens When Your Contractor Isn't Licensed",
@@ -786,13 +796,13 @@
   },
   "divorce-separation-insurance-claims": {
     "title": "Marital Property and Insurance Claims in California: Divorce, Separation, Community Property, and Spousal Authority",
-    "description": "A comprehensive guide to the California rules that govern insurance claims on marital property — community property and separate property, the mortgage/named-insured mismatch, the innocent co-insured doctrine and spousal arson, what happens when the named insured dies, the rights of domestic partners and unmarried couples, and the practical steps to keep a claim alive when a marriage is ending.",
+    "description": "A guide to the California rules that govern insurance claims on marital property — community property and separate property, the mortgage/named-insured mismatch, the innocent co-insured doctrine and spousal arson, what happens when the named insured dies, the rights of domestic partners and unmarried couples, and the practical steps to keep a claim alive when a marriage is ending.",
     "summary": "Divorce and separation complicate property claims through community vs. separate property rules, named-insured mismatches, and the innocent co-insured doctrine. California law offers ways to keep a claim alive when a marriage is ending; act to protect your interest."
   },
   "do-i-need-a-lawyer": {
     "title": "Do I Need a Lawyer for My Insurance Claim?",
-    "description": "A decision framework for California policyholders: when a public adjuster is enough, when you need an attorney, how fees work, and what to look for when hiring.",
-    "summary": "A public adjuster is often enough for valuation and negotiation disputes, but you need an attorney when the insurer acts in bad faith, denies the claim outright, or litigation looms. Attorneys typically work on contingency for these claims, so cost is rarely a barrier."
+    "description": "A decision framework for California policyholders: when a Public Adjuster is enough, when you need an attorney, how fees work, and what to look for when hiring.",
+    "summary": "A Public Adjuster is often enough for valuation and negotiation disputes, but you need an attorney when the insurer acts in bad faith, denies the claim outright, or litigation looms. Attorneys typically work on contingency for these claims, so cost is rarely a barrier."
   },
   "dog-breed-restrictions-insurance": {
     "title": "Dog Breed Restrictions and Home Insurance: When Your Pet Puts Your Coverage at Risk",
@@ -816,7 +826,7 @@
   },
   "duties-after-loss": {
     "title": "Duties After Loss: What Your Policy Requires You to Do",
-    "description": "Comprehensive guide to policyholder obligations after an insurance claim — mitigation, notice, proof of loss, examination under oath, cooperation, and how California law limits the insurer's ability to deny claims for non-compliance.",
+    "description": "Guide to policyholder obligations after an insurance claim — mitigation, notice, proof of loss, examination under oath, cooperation, and how California law limits the insurer's ability to deny claims for non-compliance.",
     "summary": "Your policy requires you to mitigate damage, give prompt notice, submit a proof of loss, sit for an examination under oath if asked, and cooperate. California law limits an insurer's ability to deny for technical non-compliance unless it was actually prejudiced."
   },
   "duty-to-investigate": {
@@ -851,8 +861,8 @@
   },
   "elder-abuse-insurance": {
     "title": "Elder Abuse Statutes in Insurance Claims: Enhanced Remedies for Elderly and Dependent Adult Policyholders",
-    "description": "When insurance companies engage in bad faith against elderly or dependent adult policyholders, California's Elder Abuse and Dependent Adult Civil Protection Act unlocks enhanced remedies including attorney's fees, punitive damages, and survival actions.",
-    "summary": "When an insurer acts in bad faith against an elderly or dependent-adult policyholder, California's Elder Abuse Act can unlock enhanced remedies, including attorney's fees, punitive damages, and survival actions, on top of normal bad-faith damages."
+    "description": "When insurance companies engage in bad faith against elderly or dependent adult policyholders, California's Elder Abuse and Dependent Adult Civil Protection Act triggers enhanced remedies including attorney's fees, punitive damages, and survival actions.",
+    "summary": "When an insurer acts in bad faith against an elderly or dependent-adult policyholder, California's Elder Abuse Act can trigger enhanced remedies, including attorney's fees, punitive damages, and survival actions, on top of normal bad-faith damages."
   },
   "emergency-mitigation-vendors": {
     "title": "Emergency Mitigation Vendors: When the First Responder Works for the Insurance Company",
@@ -906,7 +916,7 @@
   },
   "equitable-tolling-nuances": {
     "title": "Equitable Tolling Edge Cases: When the Statute of Limitations Gets Complicated",
-    "description": "A deep dive into the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue.",
+    "description": "A detailed guide to the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue.",
     "summary": "Equitable tolling of the one-year suit deadline gets complicated in edge cases: files closed without notice, partial closures, and reopened claims. Knowing how the clock is calculated in these situations protects your right to sue."
   },
   "equitable-tolling": {
@@ -926,7 +936,7 @@
   },
   "esx-file-rights-xactimate": {
     "title": "Your Right to the Xactimate ESX File: Why the PDF Is Not Enough",
-    "description": "A comprehensive guide for policyholders, public adjusters, and attorneys on why you should demand the native Xactimate ESX file — not just the PDF printout — and what critical estimate data the ESX file reveals that the PDF conceals.",
+    "description": "A guide for policyholders, Public Adjusters, and attorneys on why you should demand the native Xactimate ESX file — not just the PDF printout — and what critical estimate data the ESX file reveals that the PDF conceals.",
     "summary": "Demand the native Xactimate ESX file, not just the PDF. The ESX reveals pricing settings, depreciation, and hidden adjustments the printout conceals, which is essential for spotting how the carrier built, and shaved, the estimate."
   },
   "ev-battery-fires-homeowners-insurance": {
@@ -946,7 +956,7 @@
   },
   "exclusions": {
     "title": "Policy Exclusions in California Homeowner Insurance: What They Mean, When They Apply, and When They Do Not",
-    "description": "A comprehensive guide to insurance policy exclusions in California homeowner policies. Covers open-peril vs. named-peril policies, burden of proof, strict construction, anti-concurrent causation clauses, the ensuing loss doctrine, and the most common exclusions in HO-3 and FAIR Plan policies.",
+    "description": "A guide to insurance policy exclusions in California homeowner policies. Covers open-peril vs. named-peril policies, burden of proof, strict construction, anti-concurrent causation clauses, the ensuing loss doctrine, and the most common exclusions in HO-3 and FAIR Plan policies.",
     "summary": "Policy exclusions define what is not covered, but they are construed strictly against the insurer, who bears the burden of proving one applies. In California, the ensuing loss doctrine and efficient proximate cause can restore coverage despite an exclusion."
   },
   "expert-witnesses-insurance-litigation": {
@@ -1011,8 +1021,8 @@
   },
   "fire-department-demolition-charges": {
     "title": "Fire Department Charges and Government-Ordered Demolition: Who Pays After a Loss?",
-    "description": "Fire response billing, red-tag demolition orders, and how California property insurance handles government-imposed charges after a covered loss. Coverage A, ordinance or law, debris removal, and the timing problems that catch policyholders off guard.",
-    "summary": "After a covered loss, fire-response billing and government-ordered (red-tag) demolition can hit you unexpectedly. Coverage A, ordinance or law, and debris removal may pay these charges, but timing gaps can catch policyholders off guard."
+    "description": "Fire response billing, red-tag demolition orders, and how California property insurance handles government-imposed charges after a covered loss. Dwelling coverage, ordinance or law, debris removal, and the timing problems that catch policyholders off guard.",
+    "summary": "After a covered loss, fire-response billing and government-ordered (red-tag) demolition can hit you unexpectedly. Dwelling coverage, ordinance or law, and debris removal may pay these charges, but timing gaps can catch policyholders off guard."
   },
   "fire-sprinkler-water-contamination": {
     "title": "Fire Sprinkler Water Damage: Why It's Worse Than You Think",
@@ -1086,8 +1096,8 @@
   },
   "games-insurers-play-adjuster-musical-chairs": {
     "title": "Games Insurers Play: Musical Chairs With Adjusters — The Hidden Cost of Constant Reassignment",
-    "description": "On long-duration California claims — particularly urban wildfire smoke claims — it is not unusual for ten or more adjusters to cycle through a single file over a year or more. Each reassignment resets context, drops continuity, repeats document requests, and pushes back the resolution date. California has specific statutory remedies: Insurance Code § 2071 requires a written status report when three or more adjusters are assigned to a single property claim within a six-month period, and Insurance Code § 14047 (added by SB 240 in 2019) layers an additional primary-point-of-contact requirement on top for residential claims arising from a declared state of emergency. Most policyholders never hear about either rule, and most carriers never invoke them voluntarily.",
-    "summary": "On long claims, insurers may cycle many adjusters through your file, resetting context and delaying resolution. California Insurance Code 2071 requires a written status report when three or more adjusters are assigned within six months, and 14047 adds a point-of-contact rule for disaster claims."
+    "description": "On long-duration California claims — particularly urban wildfire smoke claims — it is not unusual for many adjusters to cycle through a single file over a year or more. Each reassignment resets context, drops continuity, repeats document requests, and pushes back the resolution date. For residential property claims arising from a declared state of emergency, California Insurance Code § 14047 requires the insurer, in a timely manner, to provide a written status report when a third or subsequent first-party property claims adjuster is assigned within a six-month period. Most policyholders never hear about the rule, and most carriers never invoke it voluntarily.",
+    "summary": "On long claims, insurers may cycle many adjusters through your file, resetting context and delaying resolution. For residential claims arising from a declared state of emergency, California Insurance Code § 14047 requires a written status report when a third or subsequent adjuster is assigned within a six-month period."
   },
   "games-insurers-play-claims-process-grief": {
     "title": "Games Insurers Play: When the Claims Process Meets the Worst Day of Your Life",
@@ -1211,7 +1221,7 @@
   },
   "how-to-challenge-xactimate-estimate": {
     "title": "How to Challenge an Xactimate Estimate: A Step-by-Step Guide",
-    "description": "A practical guide for policyholders, public adjusters, and attorneys on identifying errors in an insurance carrier's Xactimate estimate and building an effective challenge.",
+    "description": "A practical guide for policyholders, Public Adjusters, and attorneys on identifying errors in an insurance carrier's Xactimate estimate and building an effective challenge.",
     "summary": "To challenge a carrier's Xactimate estimate, compare it line by line against the actual scope, flag missing items, low quantities, wrong depreciation, and omitted overhead and profit, and document each correction. Build the challenge on specifics, not generalities."
   },
   "how-to-document-damage": {
@@ -1276,12 +1286,12 @@
   },
   "inland-marine": {
     "title": "Inland Marine Insurance Claims: What It Covers and Why the Name Is Misleading",
-    "description": "Inland marine insurance has nothing to do with water. Learn what it actually covers, how it differs from ocean marine, the major policy types, and how a public adjuster handles these specialized claims.",
+    "description": "Inland marine insurance has nothing to do with water. Learn what it actually covers, how it differs from ocean marine, the major policy types, and how a Public Adjuster handles these specialized claims.",
     "summary": "Inland marine insurance has nothing to do with water; it covers movable or specialized property like tools, equipment, and goods in transit. Knowing what it covers and how it differs from standard property coverage matters on specialized claims."
   },
   "innocent-co-insured-doctrine": {
     "title": "The Innocent Co-Insured Doctrine: When One Spouse Commits Arson, Should the Other Lose Everything?",
-    "description": "When one insured commits arson or insurance fraud, the innocent co-insured may still be entitled to recover. Learn how the innocent co-insured doctrine works, which states allow recovery, how policy language affects the outcome, and what attorneys and public adjusters need to know to protect the innocent spouse.",
+    "description": "When one insured commits arson or insurance fraud, the innocent co-insured may still be entitled to recover. Learn how the innocent co-insured doctrine works, which states allow recovery, how policy language affects the outcome, and what attorneys and Public Adjusters need to know to protect the innocent spouse.",
     "summary": "When one insured commits arson or fraud, the innocent co-insured, often a spouse, may still recover under the innocent co-insured doctrine. Whether they can depends on the state and the policy's wording, so the policy language is decisive."
   },
   "insurable-interest": {
@@ -1301,7 +1311,7 @@
   },
   "insurance-claim-assignments": {
     "title": "Assignment of Benefits, Assignment of Claim, Assignment of Rights, and Assignment of Policy: Understanding the Differences",
-    "description": "A comprehensive guide to the four types of insurance claim assignments — assignment of benefits, assignment of claim, assignment of rights, and assignment of policy — and why the distinctions matter for policyholders, contractors, and attorneys.",
+    "description": "A guide to the four types of insurance claim assignments — assignment of benefits, assignment of claim, assignment of rights, and assignment of policy — and why the distinctions matter for policyholders, contractors, and attorneys.",
     "summary": "There are four distinct assignments, of benefits, of claim, of rights, and of policy, and the differences matter. Each transfers something different to a contractor or third party, so know exactly what you are signing away."
   },
   "insurance-claim-glossary": {
@@ -1381,7 +1391,7 @@
   },
   "insurer-insolvency-ciga": {
     "title": "When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know",
-    "description": "What happens when your California insurance company is declared insolvent. How the California Insurance Guarantee Association (CIGA) works, coverage caps, surplus lines gaps, the claims process, and how to protect yourself in today’s volatile insurance market.",
+    "description": "What happens when your California insurance company is declared insolvent. How the California Insurance Guarantee Association (CIGA) works, coverage caps, surplus lines gaps, the claims process, and how to protect yourself in the current California market.",
     "summary": "If your California insurer becomes insolvent, the California Insurance Guarantee Association (CIGA) pays covered claims, subject to caps and excluding surplus lines carriers. Confirm your carrier is admitted, and know the limits before relying on this safety net."
   },
   "insurer-insolvency-guaranty-fund": {
@@ -1441,13 +1451,13 @@
   },
   "labor-depreciation-debate": {
     "title": "Labor Depreciation: Can Labor ",
-    "description": "A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: Cal. Ins. Code §2051(b)(2) (added by AB 188, eff. 1/1/2019) and 10 CCR §2695.9(f)(1) both prohibit labor depreciation. Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.",
-    "summary": "Can a service physically wear out? In California, both the Insurance Code (§2051(b)(2)) and the Fair Claims regulations (10 CCR §2695.9(f)(1)) prohibit depreciating labor. The only narrow exception is intrinsic labor in manufactured materials. Challenge labor depreciation on every California claim where it appears."
+    "description": "A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: 10 CCR §2695.9(f)(1) prohibits labor depreciation in property claims. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.",
+    "summary": "Can a service physically wear out? In California, the Fair Claims regulation (10 CCR §2695.9(f)(1)) prohibits depreciating labor in property claims. The only narrow exception is intrinsic labor in manufactured materials. The statutory ACV framework is at Cal. Ins. Code §2051(b). Challenge labor depreciation on every California claim where it appears."
   },
   "labor-depreciation": {
     "title": "Labor Depreciation: Why Your Insurance Company Can't Depreciate Work Costs",
-    "description": "In California, labor depreciation is prohibited by both statute (Cal. Ins. Code §2051(b)(2)) and regulation (10 CCR §2695.9(f)(1)). Learn what labor depreciation is, the California prohibition, and how to challenge it on your claim.",
-    "summary": "California prohibits labor depreciation by statute and by regulation. Cal. Ins. Code §2051(b)(2) (added by AB 188, eff. 1/1/2019) and 10 CCR §2695.9(f)(1) both bar carriers from depreciating the labor portion of a repair or replacement estimate. Challenge it on every claim where it appears."
+    "description": "In California, labor depreciation is prohibited by regulation: 10 CCR §2695.9(f)(1) bars carriers from treating labor as a component of physical depreciation. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn what labor depreciation is, the California prohibition, and how to challenge it on your claim.",
+    "summary": "California prohibits labor depreciation by regulation. 10 CCR §2695.9(f)(1) bars carriers from depreciating the labor portion of a repair or replacement estimate, except for intrinsic labor in manufactured materials. The statutory ACV framework is at Cal. Ins. Code §2051(b). Challenge labor depreciation on every claim where it appears."
   },
   "landlord-drug-contamination-claims": {
     "title": "Drug Contamination Claims for California Landlords: Meth Labs, Fentanyl, Grow Operations, and the Insurance Path to Recovery",
@@ -1501,7 +1511,7 @@
   },
   "loss-of-use-maximizing": {
     "title": "Maximizing Your Loss of Use (ALE) Claim",
-    "description": "Coverage D pays your additional living expenses when you can't live in your home. Most policyholders leave thousands on the table. Here's how to claim what you're owed.",
+    "description": "Loss of Use coverage pays your additional living expenses when you can't live in your home. Most policyholders leave thousands on the table. Here's how to claim what you're owed.",
     "summary": "Coverage D (loss of use / ALE) pays your additional living expenses when you cannot live at home, and most people under-claim it. Track every increased cost, rent, meals, storage, mileage, to claim the full amount you are owed."
   },
   "loss-settlement-provisions": {
@@ -1521,7 +1531,7 @@
   },
   "managing-agent-punitive-damages": {
     "title": "How to Plead and Prove Managing Agent Liability in California Insurance Bad Faith Cases",
-    "description": "A comprehensive guide to identifying managing agents under Civil Code section 3294(b), the White v. Ultramar test, discovery strategies, ratification doctrine, and how managing agent liability creates settlement leverage in California insurance bad faith litigation.",
+    "description": "A guide to identifying managing agents under Civil Code section 3294(b), the White v. Ultramar test, discovery strategies, ratification doctrine, and how managing agent liability creates settlement leverage in California insurance bad faith litigation.",
     "summary": "Punitive damages against an insurer require proving a 'managing agent' acted with malice or oppression under Civil Code 3294(b) and the White v. Ultramar test. Identifying the right managing agent, and ratification, creates real settlement leverage."
   },
   "manufacturing-industrial-insurance-claims": {
@@ -1532,11 +1542,11 @@
   "marine-cargo-claims": {
     "title": "Marine Cargo Insurance Claims: Why Importers and Exporters Need a Public Adjuster",
     "description": "Marine cargo claims are among the most complex in property insurance. Learn about carrier liability, marine surveyors, General Average, COGSA, and why a Public Adjuster with trade expertise changes outcomes.",
-    "summary": "Marine cargo claims are highly complex, involving carrier liability, marine surveyors, General Average, and COGSA. A public adjuster with trade expertise can materially change the outcome on a significant cargo loss."
+    "summary": "Marine cargo claims are highly complex, involving carrier liability, marine surveyors, General Average, and COGSA. A Public Adjuster with trade expertise can materially change the outcome on a significant cargo loss."
   },
   "marine-cargo-standalone": {
     "title": "Marine Cargo Insurance: Why Importers Should Purchase Their Own Coverage",
-    "description": "Practical purchasing and claims advice for marine cargo insurance. Learn why importers should buy their own policy, how trade terms affect risk, warehouse coverage duration, and how public adjusters handle cargo claims.",
+    "description": "Practical purchasing and claims advice for marine cargo insurance. Learn why importers should buy their own policy, how trade terms affect risk, warehouse coverage duration, and how Public Adjusters handle cargo claims.",
     "summary": "Importers should buy their own marine cargo policy rather than rely on a seller's or carrier's coverage, because trade terms shift risk and gaps appear in transit and storage. Knowing the trade terms is key to being protected."
   },
   "matching-impossible-banned-materials": {
@@ -1546,8 +1556,7 @@
   },
   "matching": {
     "title": "Matching: Achieving a Reasonable Uniform Appearance",
-    "description": "Learn why your insurance company may be required to pay for matching undamaged areas when partial repairs create a visibly different appearance, and how to argue matching in your claim.",
-    "summary": "When a partial repair leaves a visibly mismatched appearance, your insurer may be required to pay to achieve a reasonably uniform look, including replacing undamaged adjacent areas. Argue matching using the line-of-sight standard and applicable regulations."
+    "description": "When a partial repair leaves a visibly mismatched appearance, your insurer may be required to pay to achieve a reasonably uniform look, including replacing undamaged adjacent areas. In California, the controlling phrase is &ldquo;the damaged area&rdquo; under 10 CCR &sect; 2695.9(a)(2); &ldquo;line of sight&rdquo; is the standard adopted in other states (Iowa, Texas), not California."
   },
   "material-misrepresentation-nondisclosure": {
     "title": "Material Misrepresentation vs. Innocent Nondisclosure: When Your Insurer Tries to Void Your Policy for What You Didn’t Say",
@@ -1556,7 +1565,7 @@
   },
   "medical-dental-office-insurance-claims": {
     "title": "Medical and Dental Office Insurance Claims: Equipment, Contamination, and the Patient Retention Problem",
-    "description": "Medical and dental offices face unique insurance challenges — expensive specialized equipment, sterilization requirements after water damage, HIPAA-protected records, and the devastating patient retention problem during closures. A California public adjuster explains the coverage gaps that sink healthcare practice recoveries.",
+    "description": "Medical and dental offices face unique insurance challenges — expensive specialized equipment, sterilization requirements after water damage, HIPAA-protected records, and the devastating patient retention problem during closures. A California Public Adjuster explains the coverage gaps that sink healthcare practice recoveries.",
     "summary": "Medical and dental offices face specialized exposures: costly equipment, sterilization requirements after water damage, HIPAA-protected records, and patient loss during closures. These coverage gaps, especially patient retention, can sink a practice's recovery."
   },
   "misleading-replacement-cost-estimates": {
@@ -1602,7 +1611,7 @@
   "mortgage-company-public-adjuster": {
     "title": "When a Mortgage Company Tries to Hire a Public Adjuster: Understanding the Legal Boundaries",
     "description": "The lender's loss payable endorsement, mortgagee rights, privacy laws, and why a mortgage company cannot hire a Public Adjuster unless it is an insured. A real-world case study.",
-    "summary": "A mortgage company generally cannot hire a public adjuster on your claim unless it is itself an insured, because of the limits of the loss-payable endorsement, mortgagee rights, and privacy law. Understand these boundaries if a lender tries."
+    "summary": "A mortgage company generally cannot hire a Public Adjuster on your claim unless it is itself an insured, because of the limits of the loss-payable endorsement, mortgagee rights, and privacy law. Understand these boundaries if a lender tries."
   },
   "multiple-insurers-same-loss": {
     "title": "Multiple Insurance Policies Covering the Same Loss: Other Insurance Clauses, Stacking, and Maximizing Recovery",
@@ -1646,7 +1655,7 @@
   },
   "new-california-insurance-laws-2025-2026": {
     "title": "New California Insurance Laws 2025–2026: What Every Policyholder Needs to Know",
-    "description": "A comprehensive guide to California insurance laws enacted and pending in 2025–2026: SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), SB 876 (disaster recovery reform), SB 877 (claims transparency), SB 878 (20% payment penalties), AB 1680 (FAIR Plan overhaul), SB 1301 (180-day nonrenewal notice), and more.",
+    "description": "A guide to California insurance laws enacted and pending in 2025–2026: SB 495 (contents payments), SB 547 (non-renewal protections), AB 226 (FAIR Plan bonding), SB 876 (disaster recovery reform), SB 877 (claims transparency), SB 878 (20% payment penalties), AB 1680 (FAIR Plan overhaul), SB 1301 (180-day nonrenewal notice), and more.",
     "summary": "California enacted and proposed major insurance laws in 2025-2026, including SB 495 (contents), SB 547 (non-renewal), AB 1680 and AB 226 (FAIR Plan), and SB 876-878 (disaster recovery, transparency, payment penalties). Know the ones that affect your claim."
   },
   "nfip-sandy-claims-underpayment": {
@@ -1656,8 +1665,8 @@
   },
   "nist-camp-fire-investigation": {
     "title": "NIST Camp Fire Investigation: What Government Scientists Found",
-    "description": "NIST’s investigation of the 2018 Camp Fire — which destroyed over 19,000 structures — reveals how wildfire damages buildings and why insurers underestimate repair costs.",
-    "summary": "NIST's investigation of the 2018 Camp Fire, which destroyed over 19,000 structures, documents how wildfire actually damages buildings, evidence that insurers routinely underestimate the true cost to repair fire and smoke damage."
+    "description": "NIST’s investigation of the 2018 Camp Fire — which destroyed more than 18,800 structures — reveals how wildfire damages buildings and why insurers underestimate repair costs.",
+    "summary": "NIST's investigation of the 2018 Camp Fire, which destroyed more than 18,800 structures, documents how wildfire actually damages buildings, evidence that insurers routinely underestimate the true cost to repair fire and smoke damage."
   },
   "nist-witch-fire-case-study": {
     "title": "NIST Witch Fire Study: House-by-House Wildfire Damage Analysis",
@@ -1687,7 +1696,7 @@
   "off-premises-utility-services": {
     "title": "Off-Premises Utility Services: When a Power Failure Miles Away Destroys Your Business",
     "description": "Standard commercial property policies exclude losses from off-premises utility failures. Learn how the utility services endorsement closes this devastating coverage gap for restaurants and businesses with perishable inventory.",
-    "summary": "Standard commercial policies exclude losses from off-premises utility failures, so a power outage miles away can spoil inventory with no coverage. A utility services endorsement closes this gap, vital for restaurants and businesses with perishables."
+    "summary": "Standard commercial policies exclude losses from off-premises utility failures, so a power outage miles away can spoil inventory with no coverage. A utility services endorsement closes this gap, important for restaurants and businesses with perishables."
   },
   "op-depreciation-california": {
     "title": "Can California Insurers Depreciate Overhead & Profit? No — Here’s Why",
@@ -1721,7 +1730,7 @@
   },
   "ownership-and-authority-in-claims": {
     "title": "Ownership and Authority in Insurance Claims: Non-Standard Property Situations",
-    "description": "When property ownership is non-standard — a Medicaid/Medi-Cal recipient on the title, a life estate, probate-pending status, inherited property — coverage defenses multiply and authority over the claim gets murky. The comprehensive guide to navigating the intersection of property ownership, estate law, and California insurance claims.",
+    "description": "When property ownership is non-standard — a Medicaid/Medi-Cal recipient on the title, a life estate, probate-pending status, inherited property — coverage defenses multiply and authority over the claim gets murky. The guide to navigating the intersection of property ownership, estate law, and California insurance claims.",
     "summary": "When ownership is non-standard, a Medicaid recipient on title, a life estate, probate-pending, or inherited property, coverage defenses multiply and authority over the claim gets murky. This guide navigates property ownership, estate law, and California insurance claims."
   },
   "packout-storage-process": {
@@ -1746,8 +1755,8 @@
   },
   "peak-season-endorsement": {
     "title": "Peak Season Endorsement: Protecting Seasonal Inventory Spikes That Standard Limits Miss",
-    "description": "How the ISO CP 12 11 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.",
-    "summary": "The ISO CP 12 11 Peak Season endorsement temporarily raises business personal property limits during high-inventory months. Without it, seasonal businesses are dangerously underinsured exactly when they have the most stock at risk."
+    "description": "How the ISO CP 12 30 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.",
+    "summary": "The ISO CP 12 30 Peak Season endorsement temporarily raises business personal property limits during high-inventory months. Without it, seasonal businesses are dangerously underinsured exactly when they have the most stock at risk."
   },
   "period-of-restoration-disputes": {
     "title": "Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?",
@@ -1766,7 +1775,7 @@
   },
   "pets-animals-coverage": {
     "title": "Pets & Animals in Property Insurance Claims",
-    "description": "How homeowner insurance policies handle pets and animals after a disaster &mdash; Coverage C classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim.",
+    "description": "How homeowner insurance policies handle pets and animals after a disaster &mdash; personal property classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim.",
     "summary": "Homeowner policies treat pets oddly: they are not 'property' you can claim for, but ALE may cover added pet costs while displaced, and livestock is often excluded. Know the limits and plan for evacuation costs to protect your animals."
   },
   "pfas-forever-chemicals-property": {
@@ -1775,9 +1784,9 @@
     "summary": "PFAS 'forever chemicals' contamination can hurt property value, and insurers are adding PFAS exclusions to policies while EPA reporting rules expand. Property owners should know whether their policy now excludes PFAS and document any contamination."
   },
   "policy-interpretation": {
-    "title": "Understanding Your Insurance Policy",
-    "description": "A comprehensive guide to reading and understanding your homeowners insurance policy, including declaration pages, endorsements, HO3 vs named peril coverage, and commercial co-insurance clauses.",
-    "summary": "Reading your policy means understanding the declarations, the insuring agreement, definitions, exclusions, conditions, and endorsements, plus concepts like HO-3 open vs. named perils and commercial coinsurance. This is the foundation for knowing what you can claim."
+    "title": "Understanding and Interpreting Your Insurance Policy",
+    "description": "A guide to reading the structure of a homeowners policy (declarations, endorsements, HO-3 vs named peril, commercial co-insurance) and to the California doctrines courts use when policy language is in dispute (ambiguity, contra proferentem, narrow construction of exclusions, reasonable expectations).",
+    "summary": "Reading the policy means understanding both its structure (declarations, insuring agreement, exclusions, conditions, endorsements) and the California doctrines that govern when the language is contested (clear language controls, ambiguity construed against the insurer, exclusions strictly construed, reasonable expectations within the ambiguity framework)."
   },
   "policy-reformation": {
     "title": "Insurance Policy Reformation: When the Policy Doesn't Match What You Were Sold",
@@ -1821,7 +1830,7 @@
   },
   "pool-spa-claims": {
     "title": "Swimming Pool and Spa Insurance Claims: Coverage, Exclusions, and Common Disputes",
-    "description": "How swimming pools and spas are covered under homeowners insurance in California — Coverage B limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine.",
+    "description": "How swimming pools and spas are covered under homeowners insurance in California — Other Structures limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine.",
     "summary": "Pools and spas fall under the limited Coverage B 'other structures,' and claims often involve equipment breakdown, freeze damage, earth movement, and resurfacing disputes. The efficient proximate cause doctrine can restore coverage when a covered peril is the real cause."
   },
   "post-disaster-scams": {
@@ -1881,13 +1890,13 @@
   },
   "public-adjuster-fees": {
     "title": "Public Adjuster Fees — What They Cost and When They're Worth It",
-    "description": "How Public Adjuster fees work in California — contingency percentages, the statutory framework under §15027.5, when hiring a PA is worth it, and questions to ask before signing.",
-    "summary": "California public adjusters work on contingency, a percentage of the recovery, governed by Insurance Code 15027.5. A PA is usually worth it on large, complex, or disputed claims; ask about the fee and scope before signing."
+    "description": "How Public Adjuster fees work in California — contingency percentages, the statutory framework under Cal. Ins. Code §15027 and §15027.5, when hiring a PA is worth it, and questions to ask before signing.",
+    "summary": "California Public Adjusters work on contingency, a percentage of the recovery, governed by Cal. Ins. Code §15027 (written contract + disclosure) and §15027.5 (agency + compensation rules). A PA is usually worth it on large, complex, or disputed claims; ask about the fee and scope before signing."
   },
   "public-adjuster": {
     "title": "Working With a Public Adjuster",
     "description": "Understand what a Public Adjuster does, how their fees work, when to hire one vs an attorney or contractor, and how to choose the right Public Adjuster for your insurance claim.",
-    "summary": "A public adjuster is the only licensed adjuster who works for you, documenting and negotiating your claim for a contingency fee. Know when a PA fits versus an attorney or contractor, and how to choose a reputable one."
+    "summary": "A Public Adjuster is the only licensed adjuster who works for you, documenting and negotiating your claim for a contingency fee. Know when a PA fits versus an attorney or contractor, and how to choose a reputable one."
   },
   "punitive-damages-bad-faith": {
     "title": "Punitive Damages in California Insurance Bad Faith Cases",
@@ -1921,7 +1930,7 @@
   },
   "reasonable-expectations-doctrine": {
     "title": "The Doctrine of Reasonable Expectations in Insurance: What It Is and How California Applies It",
-    "description": "A deep dive into the doctrine of reasonable expectations in insurance law. Covers the origin of the doctrine, how California courts apply it as an interpretive tool, the difference between the strong and weak forms, and practical strategies for policyholders dealing with coverage disputes.",
+    "description": "A detailed guide to the doctrine of reasonable expectations in insurance law. Covers the origin of the doctrine, how California courts apply it as an interpretive tool, the difference between the strong and weak forms, and practical strategies for policyholders dealing with coverage disputes.",
     "summary": "The doctrine of reasonable expectations interprets ambiguous policies to honor what a reasonable policyholder would expect to be covered. California applies it as an interpretive tool, especially where fine print would defeat the coverage a buyer reasonably believed they had."
   },
   "recorded-statement-preparation": {
@@ -1931,7 +1940,7 @@
   },
   "recorded-statements-siu": {
     "title": "Recorded Statements and SIU Investigations: What California Policyholders Need to Know",
-    "description": "A comprehensive guide to recorded statements, Examinations Under Oath (EUOs), and Special Investigation Unit (SIU) referrals in California insurance claims. Covers the duty to cooperate, policyholder rights, SIU triggers, investigation timelines, and how to prepare.",
+    "description": "A guide to recorded statements, Examinations Under Oath (EUOs), and Special Investigation Unit (SIU) referrals in California insurance claims. Covers the duty to cooperate, policyholder rights, SIU triggers, investigation timelines, and how to prepare.",
     "summary": "Recorded statements, EUOs, and SIU (fraud unit) referrals carry a duty to cooperate but also rights. Know what triggers an SIU referral, how to prepare, and that cooperation does not mean answering carelessly or without representation when stakes are high."
   },
   "recording-insurance-inspections": {
@@ -1976,7 +1985,7 @@
   },
   "reservation-of-rights-letter": {
     "title": "The Reservation of Rights Letter: What It Means and What to Do",
-    "description": "A comprehensive guide to reservation of rights (ROR) letters in California insurance claims. Learn what an ROR letter means, how it differs from a denial, the duty to defend, Cumis counsel, waiver and estoppel, and what policyholders should do when they receive one.",
+    "description": "A guide to reservation of rights (ROR) letters in California insurance claims. Learn what an ROR letter means, how it differs from a denial, the duty to defend, Cumis counsel, waiver and estoppel, and what policyholders should do when they receive one.",
     "summary": "A reservation of rights letter says the insurer will handle the claim while reserving the right to later deny coverage. It is not a denial. It can trigger a duty to defend and, in liability cases, your right to independent (Cumis) counsel; respond carefully."
   },
   "reservation-of-rights": {
@@ -2006,13 +2015,13 @@
   },
   "retail-store-insurance-claims": {
     "title": "Retail Store Insurance Claims: Inventory Nightmares, Seasonal Exposure, and the Gaps That Sink Recoveries",
-    "description": "Retail stores face unique insurance challenges — from proving destroyed inventory to seasonal fluctuations, employee dishonesty gaps, and business income during buildout. A California public adjuster explains what retailers get wrong and how to protect your recovery.",
+    "description": "Retail stores face unique insurance challenges — from proving destroyed inventory to seasonal fluctuations, employee dishonesty gaps, and business income during buildout. A California Public Adjuster explains what retailers get wrong and how to protect your recovery.",
     "summary": "Retail claims hinge on proving destroyed inventory, handling seasonal value swings, employee-dishonesty gaps, and business income during build-out. Strong inventory records and the right coverage are what keep a retail recovery from falling short."
   },
   "retaining-wall-hillside-claims": {
     "title": "Retaining Wall and Hillside Damage Insurance Claims in California",
-    "description": "California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Coverage B limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim.",
-    "summary": "Retaining-wall and hillside failures spark complex disputes over the limited Coverage B, the earth-movement exclusion, and engineering causation. California's efficient proximate cause doctrine can restore coverage when a covered peril triggered the failure."
+    "description": "California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Other Structures limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim.",
+    "summary": "Retaining-wall and hillside failures spark complex disputes over the limited Other Structures coverage, the earth-movement exclusion, and engineering causation. California's efficient proximate cause doctrine can restore coverage when a covered peril triggered the failure."
   },
   "reverse-mortgage-insurance-claims": {
     "title": "Reverse Mortgages and Insurance Claims: The Three-Way Trap That Can Cost You Your Home",
@@ -2050,7 +2059,7 @@
     "summary": "Every roof job wastes material on cuts around hips, valleys, ridges, and penetrations, so estimates need an adequate waste factor. Carrier estimates routinely set it too low; know how Xactimate handles waste so you are paid for the materials actually needed."
   },
   "roofing-systems-claims": {
-    "title": "Roofing Systems and Materials: A Deep Dive for Insurance Claims",
+    "title": "Roofing Systems and Materials: A Detailed Guide for Insurance Claims",
     "description": "Technical guide to roofing types — TPO, EPDM, metal, asphalt shingles, and wood shake — and the claim issues each creates. California Title 24 cool roof requirements, multiple layers, space decking conversions, and solar panel complications.",
     "summary": "Different roof systems, TPO, EPDM, metal, asphalt, wood shake, each raise distinct claim issues, plus California Title 24 cool-roof rules, layer removal, decking, and solar complications. Knowing your roof type sharpens the scope and the dispute."
   },
@@ -2156,7 +2165,7 @@
   },
   "siu-referral-investigation": {
     "title": "When Your Claim Is ",
-    "description": "A comprehensive guide to Special Investigation Unit (SIU) referrals in California insurance claims. Covers what triggers an SIU investigation, your rights during the process, EUOs, surveillance, regulatory timelines, bad faith implications, and how to respond when your claim is under investigation.",
+    "description": "A guide to Special Investigation Unit (SIU) referrals in California insurance claims. Covers what triggers an SIU investigation, your rights during the process, EUOs, surveillance, regulatory timelines, bad faith implications, and how to respond when your claim is under investigation.",
     "summary": "An SIU referral means the insurer's Special Investigations Unit is treating your claim as possible fraud, which can trigger EUOs, surveillance, and delay. You retain rights and the duty to cooperate has limits; know what triggers SIU and how to respond without harming your claim."
   },
   "slab-leak-claims": {
@@ -2177,7 +2186,7 @@
   "smoke-damage-claims": {
     "title": "Smoke Damage Insurance Claims in California",
     "description": "How to handle a smoke damage insurance claim — testing, remediation standards, coverage, the new Smoke Damage Recovery Act, and common insurer tactics.",
-    "summary": "Smoke damage is covered, and California's Smoke Damage Recovery Act and CDI guidance confirm carriers cannot dismiss it as merely cosmetic. Insist on proper testing and remediation standards, and document contamination to counter minimizing tactics."
+    "summary": "Smoke damage is covered. CDI Bulletin 2025-7 and the CDI Smoke Claims Task Force findings (plus the pending Smoke Damage Recovery Act, AB 1795) confirm carriers cannot dismiss it as merely cosmetic. Insist on proper testing and remediation standards, and document contamination to counter minimizing tactics."
   },
   "smoke-taint-vineyard-claims": {
     "title": "Smoke Taint Claims: When Wildfire Ruins the Vintage Without Touching the Vines",
@@ -2206,8 +2215,8 @@
   },
   "solar-panel-claims": {
     "title": "Solar Panel Damage Insurance Claims: Coverage Disputes, Fire Code Setbacks, and Lease Complications",
-    "description": "Solar panels on California homes create unique insurance claim issues — Coverage A vs. B disputes, microinverter compatibility, fire code setback requirements, lease complications, and carrier tactics for underpaying panel damage.",
-    "summary": "Solar panel claims raise Coverage A versus B disputes, microinverter compatibility, fire-code setback requirements, and lease complications. Carriers underpay panel damage; know how your system is insured and the code rules that drive the true repair cost."
+    "description": "Solar panels on California homes create unique insurance claim issues — Dwelling vs. Other Structures disputes, microinverter compatibility, fire code setback requirements, lease complications, and carrier tactics for underpaying panel damage.",
+    "summary": "Solar panel claims raise Dwelling versus Other Structures disputes, microinverter compatibility, fire-code setback requirements, and lease complications. Carriers underpay panel damage; know how your system is insured and the code rules that drive the true repair cost."
   },
   "special-limits-of-liability": {
     "title": "Special Limits of Liability: The Silent Traps in Every Homeowner Policy",
@@ -2231,7 +2240,7 @@
   },
   "standard-fire-policy-insurance-code-2070": {
     "title": "California’s Standard Fire Policy: What Insurance Code 2070 Actually Says and Why It Matters",
-    "description": "A comprehensive guide to California Insurance Code 2070 and the standard fire policy set forth in Section 2071. Learn how this statutory floor protects policyholders, what happens when insurers deviate from the standard form, and why key provisions like the appraisal clause, suit limitation, and 60-day payment rule remain critical to every fire claim in California.",
+    "description": "A guide to California Insurance Code 2070 and the standard fire policy set forth in Section 2071. Learn how this statutory floor protects policyholders, what happens when insurers deviate from the standard form, and why key provisions like the appraisal clause, suit limitation, and 60-day payment rule remain critical to every fire claim in California.",
     "summary": "California Insurance Code 2070 requires fire policies to provide at least the protection of the standard form in Section 2071. Any policy term weaker than that statutory floor is unenforceable, preserving rights like appraisal, the suit-limitation terms, and prompt payment."
   },
   "state-farm-appraisal-trap": {
@@ -2241,7 +2250,7 @@
   },
   "statement-of-loss": {
     "title": "The Statement of Loss: A Forgotten but Essential Claims Document",
-    "description": "What a statement of loss is, how it differs from a proof of loss, and why preparing one helps policyholders, public adjusters, and attorneys organize and understand a claim before taking the next step.",
+    "description": "What a statement of loss is, how it differs from a proof of loss, and why preparing one helps policyholders, Public Adjusters, and attorneys organize and understand a claim before taking the next step.",
     "summary": "A statement of loss is a document organizing your claimed damages; unlike a sworn proof of loss, it is a working summary. Preparing one helps you, and your adjuster or attorney, understand and present the claim before the next step."
   },
   "stigmatized-properties-insurance": {
@@ -2266,7 +2275,7 @@
   },
   "sub-bids-vs-xactimate-pricing": {
     "title": "When a Contractor’s Bid Overrides Xactimate: Sub-Bids, Specialty Work, and What the EULA Actually Says",
-    "description": "A guide for policyholders, public adjusters, and attorneys on why a specialty sub-contractor’s actual bid should control over Xactimate line-item pricing and how to make that argument stick.",
+    "description": "A guide for policyholders, Public Adjusters, and attorneys on why a specialty sub-contractor’s actual bid should control over Xactimate line-item pricing and how to make that argument stick.",
     "summary": "When a specialty subcontractor's actual bid exceeds Xactimate's line-item price, the real bid should control, because Xactimate is a pricing estimate, not a binding cost. Document the sub-bid to override understated software pricing."
   },
   "sub-severe-hail-cumulative-damage": {
@@ -2281,7 +2290,7 @@
   },
   "subrogation-insurance-claims": {
     "title": "Subrogation in Insurance Claims: What Policyholders Need to Know",
-    "description": "A comprehensive guide to subrogation in property insurance claims — the made whole doctrine, duty to cooperate, anti-subrogation rule, deductible recovery, and how subrogation investigations affect your claim timeline and settlement.",
+    "description": "A guide to subrogation in property insurance claims — the made whole doctrine, duty to cooperate, anti-subrogation rule, deductible recovery, and how subrogation investigations affect your claim timeline and settlement.",
     "summary": "Subrogation is your insurer's right to recover from the party that caused your loss after paying you. The made-whole doctrine, your duty to cooperate, and deductible recovery all affect you, and a subrogation investigation can lengthen your timeline."
   },
   "subrogation": {
@@ -2296,8 +2305,8 @@
   },
   "supplement-process-insurance-claims": {
     "title": "The Supplement Process: Why Your First Estimate Is Almost Never the Last",
-    "description": "A comprehensive guide to insurance claim supplements — why they are normal, when they are needed, how carriers resist them, documentation best practices, and the role of public adjusters and contractors in securing full payment for hidden and additional damage.",
-    "summary": "Supplements are normal: the first estimate rarely captures hidden or additional damage found during repairs. Document the new items thoroughly and expect carrier resistance; contractors and public adjusters help secure the added payment you are owed."
+    "description": "A guide to insurance claim supplements — why they are normal, when they are needed, how carriers resist them, documentation best practices, and the role of Public Adjusters and contractors in securing full payment for hidden and additional damage.",
+    "summary": "Supplements are normal: the first estimate rarely captures hidden or additional damage found during repairs. Document the new items thoroughly and expect carrier resistance; contractors and Public Adjusters help secure the added payment you are owed."
   },
   "supplemental-claims": {
     "title": "Filing Supplemental Claims: Getting Paid for What They Missed",
@@ -2321,8 +2330,8 @@
   },
   "swimming-pool-damage": {
     "title": "Swimming Pool Damage Insurance Claims: Coverage, Exclusions, and How to Maximize Your Recovery",
-    "description": "How swimming pool damage is covered under homeowners insurance — Coverage B limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.",
-    "summary": "Pool damage usually falls under the limited Coverage B and involves disputes over freeze, equipment breakdown, pop-outs, wildfire ash, and earth movement. Scheduling or coverage stacking and the efficient proximate cause doctrine can improve recovery."
+    "description": "How swimming pool damage is covered under homeowners insurance — Other Structures limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.",
+    "summary": "Pool damage usually falls under the limited Other Structures and involves disputes over freeze, equipment breakdown, pop-outs, wildfire ash, and earth movement. Scheduling or coverage stacking and the efficient proximate cause doctrine can improve recovery."
   },
   "systematic-underinsurance-class-actions": {
     "title": "Systematic Underinsurance and Class Action Litigation Against Carriers",
@@ -2331,17 +2340,17 @@
   },
   "tax-consequences-insurance-settlements": {
     "title": "Tax Consequences of Insurance Claim Settlements",
-    "description": "A comprehensive guide to the tax implications of insurance claim proceeds — when payouts are taxable, when they are not, involuntary conversion rules, business income, casualty loss deductions, and California-specific considerations.",
+    "description": "A guide to the tax implications of insurance claim proceeds — when payouts are taxable, when they are not, involuntary conversion rules, business income, casualty loss deductions, and California-specific considerations.",
     "summary": "Insurance proceeds are sometimes taxable and sometimes not. Involuntary-conversion rules can defer gain on a destroyed home, business income payouts are taxable, and casualty-loss deductions may apply. Know the rules, and consult a tax professional."
   },
   "tax-implications-insurance-settlements": {
     "title": "Tax Implications of Insurance Claim Settlements",
-    "description": "A comprehensive guide to the tax treatment of insurance claim proceeds — what is taxable, what is not, how to defer gains, and how to deduct unreimbursed casualty losses. Written for policyholders and the attorneys who represent them.",
+    "description": "A guide to the tax treatment of insurance claim proceeds — what is taxable, what is not, how to defer gains, and how to deduct unreimbursed casualty losses. Written for policyholders and the attorneys who represent them.",
     "summary": "Whether insurance proceeds are taxable depends on the type: rebuilding a destroyed home can defer gain, business-income payments are taxable, and unreimbursed casualty losses may be deductible. Plan for the tax treatment before spending the money."
   },
   "temporary-emergency-repairs": {
     "title": "Temporary and Emergency Repairs: The Duty to Mitigate and the Duty to Preserve Evidence",
-    "description": "A comprehensive guide to emergency repairs after a property loss in California. Covers the duty to mitigate, the duty to preserve evidence, how to balance both obligations, what is considered reasonable, documentation requirements, and common emergency repair scenarios.",
+    "description": "A guide to emergency repairs after a property loss in California. Covers the duty to mitigate, the duty to preserve evidence, how to balance both obligations, what is considered reasonable, documentation requirements, and common emergency repair scenarios.",
     "summary": "After a loss you must both mitigate further damage and preserve evidence of what happened, two duties that can conflict. Make reasonable emergency repairs, but document thoroughly first, with photos and retained materials, so mitigation does not destroy proof."
   },
   "ten-things-before-a-loss": {
@@ -2351,7 +2360,7 @@
   },
   "tenant-improvements-betterments": {
     "title": "Tenant Improvements and Betterments: Coverage Across Commercial, Condo, Flood, and Renters Policies",
-    "description": "A comprehensive guide to tenant improvements and betterments coverage across commercial property policies (ISO CP 00 10), HO-6 condo policies, NFIP flood insurance, and HO-4 renters insurance &mdash; including valuation methods, common disputes, and how to protect your interest before a loss occurs.",
+    "description": "A guide to tenant improvements and betterments coverage across commercial property policies (ISO CP 00 10), HO-6 condo policies, NFIP flood insurance, and HO-4 renters insurance &mdash; including valuation methods, common disputes, and how to protect your interest before a loss occurs.",
     "summary": "Tenant improvements and betterments, the upgrades a tenant adds to leased space, are covered differently across commercial (ISO CP 00 10), HO-6 condo, NFIP flood, and HO-4 renters policies. Know who insures them and how they are valued before a loss."
   },
   "tenant-landlord-claims": {
@@ -2366,8 +2375,8 @@
   },
   "theft-burglary-claims": {
     "title": "Theft and Burglary Insurance Claims: What Policyholders Need to Know",
-    "description": "A comprehensive guide to filing theft and burglary claims under homeowner insurance policies. Covers Coverage A, B, and C, sublimits, mysterious disappearance, vacancy exclusions, SIU investigations, and California-specific rules.",
-    "summary": "Theft and burglary claims involve Coverage C limits and sub-limits on items like jewelry and cash, the 'mysterious disappearance' issue, vacancy exclusions, and possible SIU scrutiny. File a police report and document losses to support the claim."
+    "description": "A guide to filing theft and burglary claims under homeowner insurance policies. Covers dwelling, other structures, and personal property, sublimits, mysterious disappearance, vacancy exclusions, SIU investigations, and California-specific rules.",
+    "summary": "Theft and burglary claims involve personal property limits and sub-limits on items like jewelry and cash, the 'mysterious disappearance' issue, vacancy exclusions, and possible SIU scrutiny. File a police report and document losses to support the claim."
   },
   "theft-vandalism-claim-guide": {
     "title": "Someone Broke Into My House — Filing a Vandalism or Theft Claim",
@@ -2416,7 +2425,7 @@
   },
   "total-loss": {
     "title": "Total Loss Insurance Claims — When Your Home Is a Complete Loss",
-    "description": "A comprehensive guide to total loss insurance claims in California — every coverage that activates, rebuilding vs. cashing out, contents claims, common problems, and California-specific protections.",
+    "description": "A guide to total loss insurance claims in California — every coverage that activates, rebuilding vs. cashing out, contents claims, common problems, and California-specific protections.",
     "summary": "A total loss activates every coverage: dwelling (often at policy limits), contents, ALE, and code upgrades. Decide between rebuilding and cashing out, knowing California protections like extended replacement cost and the right to rebuild elsewhere. Claim each coverage fully."
   },
   "trade-secret-claims-manuals": {
@@ -2546,7 +2555,7 @@
   },
   "water-damage-categories-classes": {
     "title": "Water Damage Categories and Classes: Why IICRC Classification Matters for Your Claim",
-    "description": "A comprehensive guide to IICRC S500 water damage categories (1-3) and classes (1-4), how classification drives the scope and cost of remediation, how carriers downgrade categories to underpay claims, and why a certified hygienist&apos;s lab results can override a textbook classification.",
+    "description": "A guide to IICRC S500 water damage categories (1-3) and classes (1-4), how classification drives the scope and cost of remediation, how carriers downgrade categories to underpay claims, and why a certified hygienist&apos;s lab results can override a textbook classification.",
     "summary": "IICRC S500 grades water by category (1 clean to 3 grossly contaminated) and class (extent of saturation), which drives the scope and cost of remediation. Carriers downgrade the category to underpay; a hygienist's lab results can override a textbook call."
   },
   "water-damage-claims": {
@@ -2587,7 +2596,7 @@
   "what-public-adjuster-does": {
     "title": "What a Public Adjuster Does — And When You Might Want One",
     "description": "A plain-language explanation of what a Public Adjuster is, how they work, what they cost, and when hiring one makes sense for your insurance claim.",
-    "summary": "A public adjuster is the only licensed adjuster who works for you, not the insurer, documenting your loss, valuing the claim, and negotiating the settlement, usually for a percentage of the recovery. Hiring one makes sense for large, complex, denied, or underpaid claims."
+    "summary": "A Public Adjuster is the only licensed adjuster who works for you, not the insurer, documenting your loss, valuing the claim, and negotiating the settlement, usually for a percentage of the recovery. Hiring one makes sense for large, complex, denied, or underpaid claims."
   },
   "what-to-say-adjuster-calls": {
     "title": "Your Insurance Company Just Called — What to Say and What Not to Say",
@@ -2602,7 +2611,7 @@
   "when-to-hire-attorney": {
     "title": "When to Hire an Insurance Claim Attorney — And How Attorneys and Public Adjusters Work Together",
     "description": "Not every insurance claim needs a lawyer, but some absolutely do. Learn the fundamental difference between attorneys and Public Adjusters, when you need one or both, how their fees work, and how the PA-to-attorney pipeline maximizes your recovery.",
-    "summary": "Not every claim needs a lawyer, but bad faith, outright denial, or litigation does. A public adjuster handles valuation and negotiation; an attorney handles legal disputes. They can work together, with the PA-to-attorney pipeline maximizing recovery."
+    "summary": "Not every claim needs a lawyer, but bad faith, outright denial, or litigation does. A Public Adjuster handles valuation and negotiation; an attorney handles legal disputes. They can work together, with the PA-to-attorney pipeline maximizing recovery."
   },
   "when-to-hire-industrial-hygienist": {
     "title": "When to Hire an Industrial Hygienist (CIH) for Your Insurance Claim",
@@ -2613,11 +2622,6 @@
     "title": "Where You Reside: The Hidden Killer Exclusion in Your Homeowner Policy",
     "description": "The three words ",
     "summary": "The phrase 'where you reside' can quietly limit coverage to your primary residence, leaving a second home, a vacated home, or a rental uncovered under a homeowner policy. Confirm your policy fits how the property is actually used."
-  },
-  "white-waiver-insurance-settlement-confidentiality": {
-    "title": "The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret",
-    "description": "What a White waiver is, why insurers ask you to sign one, what rights you surrender, and how to protect yourself. California law on settlement confidentiality in insurance bad faith disputes.",
-    "summary": "A White waiver asks you to keep settlement communications confidential, surrendering the right to use them as evidence of bad faith. Understand what you give up before signing, and how California settlement-privilege law applies."
   },
   "white-waiver-settlement-confidentiality": {
     "title": "The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret",
@@ -2631,7 +2635,7 @@
   },
   "wildfire-guide": {
     "title": "California Wildfire Claims: A Complete Guide",
-    "description": "A comprehensive guide to California wildfire insurance claims — from immediate steps after a fire to understanding smoke contamination, coverage details, and common insurer tactics.",
+    "description": "A guide to California wildfire insurance claims — from immediate steps after a fire to understanding smoke contamination, coverage details, and common insurer tactics.",
     "summary": "A California wildfire claim spans immediate post-fire steps, smoke and ash contamination, ALE, dwelling and contents coverage, and common carrier tactics. This guide walks the whole process so you can pursue every coverage a wildfire triggers."
   },
   "wildfire-mudslide-coverage": {
@@ -2661,12 +2665,12 @@
   },
   "xactimate-labor-efficiency-settings": {
     "title": "Xactimate Labor Efficiency Settings: How Restoration vs. Rebuild Changes Every Line Item on Your Estimate",
-    "description": "A comprehensive guide on how Xactimate",
+    "description": "A guide on how Xactimate",
     "summary": "Xactimate's labor efficiency setting, restoration versus new construction (rebuild), changes the labor price on every line item. Carriers often use the cheaper 'new construction' setting on repair work; the correct setting can substantially raise a fair estimate."
   },
   "xactimate-line-item-manipulation": {
     "title": "Xactimate Line Item Manipulation: How ",
-    "description": "A detailed guide for policyholders, public adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the ",
+    "description": "A detailed guide for policyholders, Public Adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the ",
     "summary": "Carriers manipulate Xactimate estimates by omitting line items, using low waste factors, wrong labor settings, and stale pricing to shrink the total. Knowing these tactics lets you spot and correct a manipulated estimate line by line."
   },
   "xactimate-line-items": {

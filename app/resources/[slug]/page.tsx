@@ -10,21 +10,42 @@ import articleDates from '@/public/data/article-dates.json'
 import articleRegistry from '@/public/data/article-registry.json'
 import articleTags from '@/public/data/article-tags.json'
 
-const registry = articleRegistry as Record<string, { title: string; description: string; summary?: string }>
+const registry = articleRegistry as Record<string, { title: string; description: string; summary?: string; seoTitle?: string }>
 const tagData = articleTags as Record<string, { subcategory?: string }>
 
 interface Props { params: Promise<{ slug: string }> }
+
+/**
+ * Build the HTML <title> for a given article.
+ *
+ * Priority:
+ *   1. meta.seoTitle (hand-crafted short title for SERP)
+ *   2. meta.title truncated at word boundary to ~60 chars
+ *
+ * Returned as `absolute` so the layout's '%s | InsuranceClaimsInfo.com'
+ * template does NOT add ~26 chars of suffix on top of an already-long title.
+ */
+function buildSeoTitle(meta: { title: string; seoTitle?: string }, max = 60): string {
+  if (meta.seoTitle && meta.seoTitle.length <= max) return meta.seoTitle
+  const source = meta.seoTitle || meta.title
+  if (source.length <= max) return source
+  const sub = source.slice(0, max)
+  const lastSpace = sub.lastIndexOf(' ')
+  // Cut at word boundary if reasonable; otherwise hard cut + ellipsis
+  return lastSpace > max * 0.6 ? sub.slice(0, lastSpace) : sub.slice(0, max - 1) + '…'
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
   const meta = registry[slug]
   if (!meta) return { title: 'Resource Article' }
   const url = `https://insuranceclaimsinfo.com/resources/${slug}`
+  const seoTitle = buildSeoTitle(meta)
   return {
-    title: meta.title,
+    title: { absolute: seoTitle },
     description: meta.description,
     openGraph: {
-      title: meta.title,
+      title: seoTitle,
       description: meta.description,
       url,
       type: 'article',
@@ -40,7 +61,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: 'summary',
-      title: meta.title,
+      title: seoTitle,
       description: meta.description,
       images: ['https://insuranceclaimsinfo.com/images/leland-coontz-headshot.png'],
     },
