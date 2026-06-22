@@ -23,3 +23,6 @@ scripts/polish_abc.js
 
 # Accessibility audit output (regenerate with `npm run a11y`)
 a11y-report.md
+
+# SEO audit output (regenerate with `npm run seo`)
+seo-audit-report.md

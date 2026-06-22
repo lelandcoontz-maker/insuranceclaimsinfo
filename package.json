@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "a11y": "tsx scripts/a11y-audit.ts"
+    "a11y": "tsx scripts/a11y-audit.ts",
+    "seo": "tsx scripts/seo-audit.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",

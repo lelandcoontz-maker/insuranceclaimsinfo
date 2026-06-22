@@ -31,11 +31,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: 'InsuranceClaimsInfo.com',
       locale: 'en_US',
       authors: ['Leland Coontz III'],
+      images: [
+        {
+          url: 'https://insuranceclaimsinfo.com/images/leland-coontz-headshot.png',
+          alt: 'Leland Coontz III, California Licensed Public Adjuster (#2B53445)',
+        },
+      ],
     },
     twitter: {
       card: 'summary',
       title: meta.title,
       description: meta.description,
+      images: ['https://insuranceclaimsinfo.com/images/leland-coontz-headshot.png'],
     },
     alternates: {
       canonical: url,
