@@ -4838,7 +4838,7 @@ export const CATEGORIES: Category[] = [
         icon: '🤐',
         title: 'The White Waiver',
         desc: 'When your insurance company asks you to keep settlement talks confidential — recognizing the trap and what to do.',
-        href: '/resources/white-waiver-insurance-settlement-confidentiality',
+        href: '/resources/white-waiver-settlement-confidentiality',
         tag: 'Tactic',
         tagColor: 'bg-rose-100 text-rose-700',
         subcategory: 'documentation-proof',

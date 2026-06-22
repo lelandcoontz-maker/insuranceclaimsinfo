@@ -47,6 +47,11 @@ const nextConfig = {
       destination: '/resources/property-held-in-trust-coverage',
       permanent: true,
     },
+    {
+      source: '/resources/white-waiver-insurance-settlement-confidentiality',
+      destination: '/resources/white-waiver-settlement-confidentiality',
+      permanent: true,
+    },
   ],
   headers: async () => [
     {
