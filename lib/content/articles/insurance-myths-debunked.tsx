@@ -1100,7 +1100,7 @@ export default function Content() {
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-2">Statutes</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">Statutes</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li>California Insurance Code &sect; 530 (proximate cause)</li>
             <li>California Insurance Code &sect; 758.5 (anti-steering)</li>
@@ -1117,7 +1117,7 @@ export default function Content() {
           </ul>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-2">Regulations</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">Regulations</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li>10 CCR &sect; 2695.7(b) (investigation standards)</li>
             <li>10 CCR &sect; 2695.7(d) (claim-related documents)</li>
@@ -1128,7 +1128,7 @@ export default function Content() {
           </ul>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 md:col-span-2">
-          <h4 className="font-bold text-[#1F3964] mb-2">Case Law</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">Case Law</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li><em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21 (efficient proximate cause)</li>
             <li><em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395 (EPC cannot be overridden by policy language)</li>

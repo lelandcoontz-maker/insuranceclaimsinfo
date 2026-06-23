@@ -660,7 +660,7 @@ export default function Content() {
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-2">California Supreme Court</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">California Supreme Court</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li>
               <em>Sabella v. Wisler</em>, 59 Cal.2d 21, 377 P.2d 889 (1963) &mdash;{' '}
@@ -685,7 +685,7 @@ export default function Content() {
           </ul>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-2">California Court of Appeal</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">California Court of Appeal</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li>
               <em>Howell v. State Farm Fire &amp; Casualty Co.</em>, 218 Cal.App.3d 1446, 267 Cal.Rptr. 708 (1990) &mdash;{' '}
@@ -703,7 +703,7 @@ export default function Content() {
         </div>
       </div>
       <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-8">
-        <h4 className="font-bold text-[#1F3964] mb-2">Other Jurisdictions</h4>
+        <h3 className="font-bold text-[#1F3964] mb-2">Other Jurisdictions</h3>
         <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
           <li>
             <em>Safeco Insurance Co. v. Hirschmann</em>, 773 P.2d 413 (Wash. 1989) &mdash;{' '}

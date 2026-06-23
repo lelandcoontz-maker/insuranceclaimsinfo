@@ -154,7 +154,7 @@ export default function Content() {
       </ul>
 
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">Worked Example: Inflation Guard and Coinsurance</h4>
+        <h3 className="font-bold text-[#1F3964] mb-3">Worked Example: Inflation Guard and Coinsurance</h3>
         <ul className="list-disc pl-6 space-y-2 text-gray-700 text-sm">
           <li>Home actual replacement cost: $600,000</li>
           <li>Policy dwelling limit after inflation guard: $700,000</li>
@@ -178,7 +178,7 @@ export default function Content() {
       </p>
 
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">Worked Example: Inflation Guard Falls Behind</h4>
+        <h3 className="font-bold text-[#1F3964] mb-3">Worked Example: Inflation Guard Falls Behind</h3>
         <ul className="list-disc pl-6 space-y-2 text-gray-700 text-sm">
           <li>Home actual replacement cost: $800,000 (increased due to demand surge and material costs)</li>
           <li>Policy dwelling limit after inflation guard: $600,000</li>

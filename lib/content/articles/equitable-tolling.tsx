@@ -165,7 +165,7 @@ export default function Content() {
       </ul>
 
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">Example: Fire Claim With Eight-Month Investigation</h4>
+        <h3 className="font-bold text-[#1F3964] mb-3">Example: Fire Claim With Eight-Month Investigation</h3>
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
           A fire occurs on <strong>January 1</strong>. The policyholder files a claim on
           January 5. The insurer acknowledges the claim, assigns adjusters, and begins

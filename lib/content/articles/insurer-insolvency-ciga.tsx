@@ -805,7 +805,7 @@ export default function Content() {
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-2">Statutes</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">Statutes</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li>California Insurance Code &sect;&sect; 1063&ndash;1063.16 (California Insurance Guarantee Association Act)</li>
             <li>California Insurance Code &sect; 1063.1 (covered claim definition and caps)</li>
@@ -815,7 +815,7 @@ export default function Content() {
           </ul>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-2">Key Resources</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">Key Resources</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li>
               <a

@@ -734,7 +734,7 @@ export default function Content() {
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-2">Civil Code</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">Civil Code</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li>Civil Code &sect; 3294 &mdash; Punitive damages: malice, oppression, or fraud</li>
             <li>Civil Code &sect; 3294(b) &mdash; Managing agent requirement for corporate defendants</li>
@@ -745,7 +745,7 @@ export default function Content() {
           </ul>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-2">Insurance Code</h4>
+          <h3 className="font-bold text-[#1F3964] mb-2">Insurance Code</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
             <li>Insurance Code &sect; 790.03(h) &mdash; Unfair claims settlement practices (note: under <em>Moradi-Shalal v. Fireman&rsquo;s Fund Ins. Co.</em> (1988) 46 Cal.3d 287, there is no private cause of action under &sect; 790.03(h); it is now used as evidence of the standard of care in common-law bad-faith actions)</li>
             <li>10 CCR &sect; 2695.7 &mdash; Fair claims settlement practices regulations (same: no private right of action, but used as evidence of the standard of care)</li>

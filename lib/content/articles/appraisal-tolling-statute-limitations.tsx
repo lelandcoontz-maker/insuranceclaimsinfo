@@ -695,7 +695,7 @@ export default function Content() {
       </p>
 
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">Sample Tolling Agreement Request Language</h4>
+        <h3 className="font-bold text-[#1F3964] mb-3">Sample Tolling Agreement Request Language</h3>
         <p className="text-gray-700 text-sm leading-relaxed mb-3 italic">
           &ldquo;In connection with the appraisal proceeding currently pending under the
           above-referenced policy, the insured requests that [Carrier Name] enter into a
@@ -817,7 +817,7 @@ export default function Content() {
       </ul>
 
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">Timeline Example: How the Deadline Can Sneak Up on You</h4>
+        <h3 className="font-bold text-[#1F3964] mb-3">Timeline Example: How the Deadline Can Sneak Up on You</h3>
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
           <strong>January 10:</strong> Fire damages your home. The one-year suit limitation
           clock starts running.

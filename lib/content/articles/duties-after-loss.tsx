@@ -102,9 +102,9 @@ export default function Content() {
         </p>
       </CalloutBox>
 
-      <h4 className="text-base font-bold text-[#1F3964] mb-2 mt-6">
+      <h3 className="text-base font-bold text-[#1F3964] mb-2 mt-6">
         What &ldquo;Reasonable&rdquo; Actually Means
-      </h4>
+      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Reasonableness is judged by what a prudent person in your situation would do with the
         information available at the time &mdash; not with the benefit of hindsight. A 70-year-old
@@ -145,9 +145,9 @@ export default function Content() {
         documentation exists may.
       </p>
 
-      <h4 className="text-base font-bold text-[#1F3964] mb-2 mt-6">
+      <h3 className="text-base font-bold text-[#1F3964] mb-2 mt-6">
         How to Give Notice
-      </h4>
+      </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           Call the carrier&apos;s claims reporting line (the number on your declarations page)
@@ -281,9 +281,9 @@ export default function Content() {
         </p>
       </CalloutBox>
 
-      <h4 className="text-base font-bold text-[#1F3964] mb-2 mt-6">
+      <h3 className="text-base font-bold text-[#1F3964] mb-2 mt-6">
         California&apos;s Treatment of the Proof of Loss
-      </h4>
+      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California law treats the proof of loss as a procedural requirement, not a condition precedent to
         recovery. California courts have consistently held that failure to submit a proof of loss does not
@@ -456,9 +456,9 @@ export default function Content() {
         spectrum is a practical skill:
       </p>
 
-      <h4 className="text-base font-bold text-[#1F3964] mb-2">
+      <h3 className="text-base font-bold text-[#1F3964] mb-2">
         Under-Compliance (Risky)
-      </h4>
+      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Ignoring legitimate requests, refusing inspections, missing deadlines without explanation, or
         being combative with the adjuster. Even with California&apos;s prejudice requirement protecting
@@ -467,9 +467,9 @@ export default function Content() {
         litigation.
       </p>
 
-      <h4 className="text-base font-bold text-[#1F3964] mb-2">
+      <h3 className="text-base font-bold text-[#1F3964] mb-2">
         Over-Compliance (Also Risky)
-      </h4>
+      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Providing every document the insurer requests without question, submitting to repeated EUOs,
         giving recorded statements without preparation, or signing blanket authorizations for financial
@@ -479,9 +479,9 @@ export default function Content() {
         testimony.
       </p>
 
-      <h4 className="text-base font-bold text-[#1F3964] mb-2">
+      <h3 className="text-base font-bold text-[#1F3964] mb-2">
         The Right Approach
-      </h4>
+      </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Comply promptly with all legitimate requests. Respond in writing. Meet deadlines or request
         extensions before they pass. But do so with awareness &mdash; understand what you are required

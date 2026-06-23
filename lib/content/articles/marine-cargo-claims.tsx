@@ -420,7 +420,7 @@ export default function Content() {
 
       <div className="space-y-4 mb-8">
         <div className="bg-gray-50 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-1">Customs and Import Valuation</h4>
+          <h3 className="font-bold text-[#1F3964] mb-1">Customs and Import Valuation</h3>
           <p className="text-sm text-gray-700">
             Understanding how goods are valued for customs purposes &mdash; transaction value,
             computed value, deductive value &mdash; is critical to establishing the correct basis
@@ -429,7 +429,7 @@ export default function Content() {
           </p>
         </div>
         <div className="bg-gray-50 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-1">Bill of Lading Literacy</h4>
+          <h3 className="font-bold text-[#1F3964] mb-1">Bill of Lading Literacy</h3>
           <p className="text-sm text-gray-700">
             The bill of lading is simultaneously the cargo receipt, the title document, and the
             contract of carriage. An adjuster who can read, interpret, and use a bill of lading
@@ -438,7 +438,7 @@ export default function Content() {
           </p>
         </div>
         <div className="bg-gray-50 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-1">Carrier Liability Limits Under COGSA</h4>
+          <h3 className="font-bold text-[#1F3964] mb-1">Carrier Liability Limits Under COGSA</h3>
           <p className="text-sm text-gray-700">
             The Carriage of Goods by Sea Act limits ocean carrier liability to $500 per package
             unless a higher value was declared &mdash; meaning the carrier may owe far less than
@@ -448,7 +448,7 @@ export default function Content() {
           </p>
         </div>
         <div className="bg-gray-50 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-1">Incoterms and Risk Transfer</h4>
+          <h3 className="font-bold text-[#1F3964] mb-1">Incoterms and Risk Transfer</h3>
           <p className="text-sm text-gray-700">
             Whether a shipment moves on FOB, CIF, DAP, or other terms determines at exactly what
             point the risk of loss shifted from seller to buyer. This affects who has insurable
@@ -458,7 +458,7 @@ export default function Content() {
           </p>
         </div>
         <div className="bg-gray-50 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-1">Supply Chain Knowledge</h4>
+          <h3 className="font-bold text-[#1F3964] mb-1">Supply Chain Knowledge</h3>
           <p className="text-sm text-gray-700">
             Understanding how cargo moves from factory floor to final destination &mdash; through
             export packing, inland trucking, port handling, vessel loading, ocean transit, port
@@ -468,7 +468,7 @@ export default function Content() {
           </p>
         </div>
         <div className="bg-gray-50 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-1">General Average and Salvage Navigation</h4>
+          <h3 className="font-bold text-[#1F3964] mb-1">General Average and Salvage Navigation</h3>
           <p className="text-sm text-gray-700">
             A combined marine and trade background positions the adjuster to guide cargo owners
             through General Average declarations, security deposits, and the eventual General
@@ -477,7 +477,7 @@ export default function Content() {
           </p>
         </div>
         <div className="bg-gray-50 rounded-lg p-4">
-          <h4 className="font-bold text-[#1F3964] mb-1">Documentation Standards</h4>
+          <h3 className="font-bold text-[#1F3964] mb-1">Documentation Standards</h3>
           <p className="text-sm text-gray-700">
             An adjuster who understands what a commercial invoice, packing list, certificate of
             origin, fumigation certificate, phytosanitary certificate, and customs entry look

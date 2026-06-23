@@ -38,11 +38,15 @@ for (const file of files) {
   const filePath = path.join(ARTICLES_DIR, file)
   const content = fs.readFileSync(filePath, 'utf-8')
 
-  const titleMatch = content.match(/(?<![a-zA-Z])title:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
-  const seoTitleMatch = content.match(/seoTitle:\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
-  const descMatch = content.match(/(?<![a-zA-Z])description:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
-  const seoDescMatch = content.match(/seoDescription:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
-  const summaryMatch = content.match(/summary:\s*\n?\s*['"`]((?:[^'"`\\]|\\.)*)['"`]/)
+  // Quote-aware extraction: capture the opening quote, then match anything except
+  // that exact quote (and except backslash, which we allow as an escape). This
+  // prevents apostrophes inside double-quoted strings (and vice versa) from
+  // terminating the match early.
+  const titleMatch = content.match(/(?<![a-zA-Z])title:\s*(['"`])((?:(?!\1)[^\\]|\\.)*)\1/)
+  const seoTitleMatch = content.match(/seoTitle:\s*(['"`])((?:(?!\1)[^\\]|\\.)*)\1/)
+  const descMatch = content.match(/(?<![a-zA-Z])description:\s*\n?\s*(['"`])((?:(?!\1)[^\\]|\\.)*)\1/)
+  const seoDescMatch = content.match(/seoDescription:\s*\n?\s*(['"`])((?:(?!\1)[^\\]|\\.)*)\1/)
+  const summaryMatch = content.match(/summary:\s*\n?\s*(['"`])((?:(?!\1)[^\\]|\\.)*)\1/)
 
   if (!titleMatch) {
     console.warn(`WARNING: No title found in ${file}`)
@@ -51,11 +55,13 @@ for (const file of files) {
 
   const unescape = (s: string) => s.replace(/\\'/g, "'").replace(/\\"/g, '"')
 
-  const title = unescape(titleMatch[1])
-  const seoTitle = seoTitleMatch ? unescape(seoTitleMatch[1]) : undefined
-  const description = descMatch ? unescape(descMatch[1]) : ''
-  const seoDescription = seoDescMatch ? unescape(seoDescMatch[1]) : undefined
-  const summary = summaryMatch ? unescape(summaryMatch[1]) : undefined
+  // Note: index [2] because the new quote-aware regex captures the opening
+  // quote in group 1 and the body in group 2.
+  const title = unescape(titleMatch[2])
+  const seoTitle = seoTitleMatch ? unescape(seoTitleMatch[2]) : undefined
+  const description = descMatch ? unescape(descMatch[2]) : ''
+  const seoDescription = seoDescMatch ? unescape(seoDescMatch[2]) : undefined
+  const summary = summaryMatch ? unescape(summaryMatch[2]) : undefined
 
   searchEntries.push({ slug, title, description })
   const entry: ArticleMeta = { title, description }

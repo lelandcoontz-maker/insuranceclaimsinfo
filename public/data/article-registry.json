@@ -20,7 +20,7 @@
     "summary": "Accidental discharge or overflow is the homeowner policy peril covering sudden water escaping from plumbing or appliances. Watch the 14-day endorsement trap and tear-out limits, and push back when a carrier recharacterizes a covered sudden leak as long-term seepage."
   },
   "accommodation-payments": {
-    "title": "Accommodation Payments: When the Insurance Company Pays What It Claims It Doesn",
+    "title": "Accommodation Payments: When the Insurance Company Pays What It Claims It Doesn't Owe",
     "description": "An accommodation payment is one of the most calculated moves in the insurance playbook. The carrier pays money while simultaneously disclaiming coverage — creating a paper trail that protects the carrier, not you.",
     "summary": "An accommodation payment is money the carrier pays while expressly disclaiming coverage, designed to build a record that protects the insurer rather than you. Understand exactly what you are accepting before you take one, because it can undercut your claim later."
   },
@@ -95,7 +95,7 @@
     "summary": "Insurers increasingly use AI to triage, estimate, and even deny claims. The NAIC framework limits pure-AI decisions and existing unfair claims practices law applies to algorithmic ones. An automated denial can be challenged, and you can demand a real explanation."
   },
   "ale-advance-payments": {
-    "title": "ALE Advance Payments: The ",
+    "title": "ALE Advance Payments: The \"Incurred Cost\" Trap",
     "description": "When your insurance company says they will only pay Additional Living Expenses after you spend the money — why that position is often wrong, what California law requires, and how to get advance ALE payments without fronting your own cash.",
     "summary": "When an insurer says it will only reimburse Additional Living Expenses after you spend the money, that position is often wrong. California law supports advancing ALE so displaced policyholders are not forced to front their own cash."
   },
@@ -130,8 +130,8 @@
     "summary": "Appraisal resolves disputes over the amount of loss, mediation seeks a negotiated settlement, and litigation addresses coverage and bad faith. Choose based on whether your fight is about price or about coverage, plus cost and timeline. This guide gives a decision framework."
   },
   "appraisal-practitioner-guide": {
-    "title": "How and When to Invoke Appraisal in California: A Practitioner",
-    "description": "A comprehensive practitioner",
+    "title": "How and When to Invoke Appraisal in California: A Practitioner's Guide",
+    "description": "A comprehensive practitioner's guide to California insurance appraisal — statutory basis, when to demand, panel roles, causation issues, post-award remedies, and what to do when the process goes wrong.",
     "summary": "California appraisal resolves disagreements over the amount of a loss, not coverage. This practitioner guide covers the statutory basis, when to demand it, the roles of appraisers and umpire, causation limits, and what to do when the process goes off the rails."
   },
   "appraisal-sfp-addition": {
@@ -180,7 +180,7 @@
     "summary": "When a California insurer acts in bad faith, you can recover more than the policy benefit: contract damages, consequential losses, emotional distress, attorney fees under Brandt, and in serious cases punitive damages or elder-abuse enhancements."
   },
   "bad-faith-explained": {
-    "title": "What Is ",
+    "title": "What Is \"Bad Faith\" and How Do I Know If My Insurer Is Doing It?",
     "description": "A plain-language primer on insurance bad faith in California: what it means, how to recognize it, key case law, available damages, and when to call a lawyer.",
     "summary": "Insurance bad faith is when an insurer unreasonably denies, delays, or underpays a valid claim. In California it can expose the insurer to damages beyond the policy limit. Recognize the patterns, document them, and consult a lawyer when the conduct is serious."
   },
@@ -370,8 +370,8 @@
     "summary": "Insurers' systematic underpayment is not accidental. Consulting firms like McKinsey redesigned claims handling decades ago to boost carrier profits by squeezing payouts. Understanding that history explains why lowball offers feel routine and why documentation matters."
   },
   "carrier-contractor-admits-failure": {
-    "title": "When the Carrier",
-    "description": "When an insurance carrier",
+    "title": "When the Carrier's Own Contractor Says It Can't Be Done: How Admissions of Failure Change Everything",
+    "description": "When an insurance carrier's preferred vendor admits the approved repair scope is inadequate, policyholders gain powerful leverage. Learn how to capture, document, and deploy these admissions to overcome underpayment and bad faith.",
     "summary": "When the insurer's own preferred contractor admits the approved repair cannot be done or cannot match existing materials, that admission is powerful leverage. Capture it in writing, because it contradicts the carrier's underpayment and can support a bad-faith argument."
   },
   "carrier-profiles-know-your-carrier": {
@@ -426,7 +426,7 @@
   },
   "cdi-right-to-claim-documents": {
     "title": "Your Right to Claim Documents: What Insurers Must Provide Under California Law",
-    "description": "California law requires insurers to provide all claim-related documents within 15 days of your request. Most policyholders don",
+    "description": "California law requires insurers to provide all claim-related documents within 15 days of your request. Most policyholders don't know this right exists. Here is the CDI's official notice explaining what you're entitled to.",
     "summary": "California law requires insurers to provide all claim-related documents within 15 days of your written request. Most policyholders never ask; requesting the file is a powerful, underused way to see what the carrier actually has."
   },
   "cdi-smoke-damage-coverage": {
@@ -645,13 +645,13 @@
     "summary": "When your insurer delays payment and a contractor files a mechanics lien on your home, you are caught in the middle. Know California's lien rules, preliminary notice requirements, and defenses to inflated liens to protect your property."
   },
   "contractors-and-deductibles": {
-    "title": "Contractors and Deductibles: Not as Simple as ",
+    "title": "Contractors and Deductibles: Not as Simple as \"It's the Law\"",
     "description": "An in-depth analysis of contractor deductible waiver laws in Texas, California, Florida, and other states — what the statutes actually say, where they break down on real claims, and why the confident declarations about deductible law often collapse under scrutiny.",
     "summary": "Contractor deductible-waiver laws vary by state and are widely misunderstood. Many confident claims about waiving your deductible collapse under the actual statutes, and a contractor absorbing your deductible can be illegal or insurance fraud. Know your state's real rule."
   },
   "cosmetic-damage-denials": {
     "title": "Cosmetic Damage Denials: When Insurers Refuse to Fix What They Broke",
-    "description": "Insurance companies increasingly deny claims for ",
+    "description": "Insurance companies increasingly deny claims for \"cosmetic\" damage — dents, discoloration, mismatched repairs. Learn why this argument often fails and what you can do.",
     "summary": "Insurers increasingly deny 'cosmetic' damage, claiming dented metal roofs, siding, or fixtures still function. But cosmetic damage is often still covered physical damage, and denials hinge on policy exclusions and matching, which you can challenge."
   },
   "coverage-a-vs-coverage-b": {
@@ -845,7 +845,7 @@
     "summary": "California earthquake coverage comes from the CEA or private carriers like Palomar and GeoVera, each with high deductibles and different claims handling. The efficient proximate cause doctrine can affect related losses, so understand your structure before a quake."
   },
   "ecommerce-business-insurance-claims": {
-    "title": "E-Commerce Business Insurance Claims: When Your Property Is Digital, Your Warehouse Is Rented, and Your Policy Wasn",
+    "title": "E-Commerce Business Insurance Claims: When Your Property Is Digital, Your Warehouse Is Rented, and Your Policy Wasn't Designed for This",
     "description": "E-commerce businesses fall through traditional insurance gaps: the home-based business exclusion, electronic data sublimits, off-premises inventory, and business income when your website goes down. Learn how to identify and close the coverage gaps before a loss exposes them.",
     "summary": "E-commerce sellers fall through standard insurance gaps: the home-based business exclusion, low electronic-data sublimits, off-premises inventory, and business income when the website goes down. Identify and close these gaps before a loss exposes them."
   },
@@ -875,7 +875,7 @@
     "summary": "Because of the special relationship between insurer and insured, California allows emotional distress damages in bad-faith cases, as Gruenberg and Egan established. Documenting the human toll of the carrier's misconduct supports this recovery."
   },
   "employee-dishonesty-crime-gap": {
-    "title": "Employee Dishonesty and the Crime Policy Gap: When ",
+    "title": "Employee Dishonesty and the Crime Policy Gap: When \"Theft\" Doesn’t Mean What You Think",
     "description": "Learn why your business property policy won’t cover employee theft, how crime policy sublimits leave businesses exposed, and what standalone coverage you actually need.",
     "summary": "Your business property policy generally will not cover employee theft, and crime-policy sublimits often leave a gap. To be protected, you usually need standalone employee dishonesty or commercial crime coverage with adequate limits."
   },
@@ -926,7 +926,7 @@
   },
   "estimate-bid-invoice-xactimate": {
     "title": "The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice",
-    "description": "An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier",
+    "description": "An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier's preferred vendor estimate is not a competing bid, and how to challenge underpayments based on uncommitted numbers.",
     "summary": "The same Xactimate document can function as an estimate, a bid, or an invoice, and the distinction matters legally and financially. Understanding which role a document plays helps you read the carrier's number correctly and respond appropriately."
   },
   "estoppel-waiver-insurance": {
@@ -961,7 +961,7 @@
   },
   "expert-witnesses-insurance-litigation": {
     "title": "Expert Witnesses in Insurance Claim Litigation: Daubert Challenges, Claims Handling Experts, and Demolishing Carrier Experts",
-    "description": "How expert witnesses are used in insurance property litigation, how to challenge the carrier",
+    "description": "How expert witnesses are used in insurance property litigation, how to challenge the carrier's biased experts through Daubert and Sargon motions, and why claims handling experts are the policyholder's most powerful weapon at trial.",
     "summary": "In insurance litigation, expert witnesses on causation and claims handling can make or break the case. Daubert challenges can exclude unreliable carrier experts, and a strong claims-handling expert can expose bad faith. Choosing and challenging experts is pivotal."
   },
   "extended-period-of-indemnity": {
@@ -991,7 +991,7 @@
   },
   "farmers-closing-ratio": {
     "title": "Closing Ratios: The Hidden Metric That May Be Driving Your Claim Outcome",
-    "description": "How insurance company ",
+    "description": "How insurance company \"closing ratios\" create perverse incentives for adjusters to underpay claims, what California policyholders should watch for, and how to document potential adjuster bias.",
     "summary": "A closing ratio measures how quickly and cheaply an adjuster resolves claims, and incentives tied to it can quietly pressure your settlement downward. Understanding this hidden metric explains why some adjusters push fast, low resolutions."
   },
   "fema-nfip-oversight-failures": {
@@ -1010,7 +1010,7 @@
     "summary": "If your fire claim is denied or underpaid, read the denial reason, gather evidence that rebuts it, and appeal in writing, escalating to a CDI complaint or professional help. Many fire denials rest on contestable causation or exclusion arguments you can challenge."
   },
   "fire-damage-beginners-guide": {
-    "title": "My House Was Damaged by Fire — A Beginner",
+    "title": "My House Was Damaged by Fire — A Beginner's Guide",
     "description": "A complete beginner's guide to fire damage insurance claims: the first 72 hours, ALE coverage, contents, smoke damage, timelines, and how to navigate the parallel tracks of dwelling, contents, and living expenses.",
     "summary": "A fire claim runs on three parallel tracks: dwelling repairs, contents replacement, and living expenses (ALE), which the insurer must advance while you are displaced. Document everything, do not discard damaged items before they are recorded, and expect the process to take months."
   },
@@ -1066,7 +1066,7 @@
   },
   "foreclosure-insurance-claims": {
     "title": "Insurance Claims on Properties in Foreclosure: Full Credit Bids and What They Mean for Your Money",
-    "description": "What happens to your insurance claim when your property is in foreclosure? How full credit bids can extinguish the lender",
+    "description": "What happens to your insurance claim when your property is in foreclosure? How full credit bids can extinguish the lender's right to your insurance proceeds — and how underbids preserve it.",
     "summary": "When a property is in foreclosure, a lender's full credit bid at the sale can extinguish its claim to your insurance proceeds, potentially freeing those funds. How the claim and the foreclosure interact determines who gets the money."
   },
   "fortuity-doctrine-insurance": {
@@ -1090,8 +1090,8 @@
     "summary": "If your lender makes a full credit bid at a California foreclosure sale, it may have extinguished its own right to your insurance proceeds, which can leave the funds available to you. Established case law supports this; a loan workout strategy can help."
   },
   "functional-replacement-cost": {
-    "title": "Functional Replacement Cost: When Your Insurer Pays for ",
-    "description": "Functional replacement cost policies let insurers substitute cheaper materials that serve the same ",
+    "title": "Functional Replacement Cost: When Your Insurer Pays for \"Function\" Instead of Quality",
+    "description": "Functional replacement cost policies let insurers substitute cheaper materials that serve the same \"function\" as the original. Learn why plaster-to-drywall is not a true functional equivalent, which states use these policies, and how to fight back.",
     "summary": "A functional replacement cost policy lets the insurer pay to restore function using cheaper, modern materials rather than matching the original, which can shortchange you on older or custom homes. Know if you have this instead of true replacement cost."
   },
   "games-insurers-play-adjuster-musical-chairs": {
@@ -1101,7 +1101,7 @@
   },
   "games-insurers-play-claims-process-grief": {
     "title": "Games Insurers Play: When the Claims Process Meets the Worst Day of Your Life",
-    "description": "How the insurance claims machine produces outcomes that compound trauma — not through malice, but through a system that wasn",
+    "description": "How the insurance claims machine produces outcomes that compound trauma — not through malice, but through a system that wasn't designed for grief. What happens when a routine claims process meets a family in crisis.",
     "summary": "The claims process often compounds trauma, not through malice but through a system not designed for grieving people. Recognizing the pattern helps you protect yourself and insist on humane, lawful handling during the worst time of your life."
   },
   "games-insurers-play-documentation-loop": {
@@ -1111,7 +1111,7 @@
   },
   "games-insurers-play-expert-capture": {
     "title": "Games Insurers Play: How Carriers Capture, Limit, and Selectively Disclose Their Own Experts",
-    "description": "Insurance companies retain ",
+    "description": "Insurance companies retain \"independent\" experts — engineers, industrial hygienists, contractors — to evaluate claims. Two recurring patterns shape what those experts actually produce: scope-limiting instructions kept secret from the insured, and selective disclosure when a first expert produces a report the carrier does not want to use. Both practices are widely observed, both violate the California Fair Claims Settlement Practices Regulations in many cases, and both have specific procedural remedies the policyholder can invoke.",
     "summary": "Insurers retain experts, then narrow their assignments and selectively disclose their findings to shape the outcome. Demand the full file, including any earlier report versions, and treat a suppressed or scope-limited expert report as a red flag."
   },
   "games-insurers-play-preferred-vendor": {
@@ -1271,7 +1271,7 @@
   },
   "independent-adjuster-explained": {
     "title": "The Independent Adjuster: Who They Actually Work For",
-    "description": "Independent adjusters are hired by insurance companies, not policyholders. Learn how IA firms operate, how adjusters are compensated, why ",
+    "description": "Independent adjusters are hired by insurance companies, not policyholders. Learn how IA firms operate, how adjusters are compensated, why \"independent\" is misleading, and what this means for your claim.",
     "summary": "Independent adjusters are hired and paid by the insurer, not by you, despite the 'independent' label. They work the carrier's file under its instructions, so treat their findings as the insurer's position, not a neutral one."
   },
   "inflation-guard-coinsurance-weapon": {
@@ -1345,7 +1345,7 @@
     "summary": "Mediation can resolve a claim dispute faster and cheaper than litigation, using a neutral to broker a settlement. It works best when both sides want resolution; prepare with documentation and a clear bottom line for a strong outcome."
   },
   "insurance-myths-debunked": {
-    "title": "Insurance Myths Exposed: What Your Adjuster Won",
+    "title": "Insurance Myths Exposed: What Your Adjuster Won't Correct and What You Believe That Isn't True",
     "description": "Common property insurance myths debunked with California case law, statutes, and regulations. From carrier misinformation to policyholder misunderstandings — what the law actually says.",
     "summary": "Many common beliefs about property insurance are wrong. This guide corrects frequent myths, from both carriers and policyholders, using California statutes, regulations, and case law to show what the law actually requires."
   },
@@ -1370,12 +1370,12 @@
     "summary": "California law requires insurers to proactively tell you certain things about your claim and your rights, but most never do. Knowing these affirmative disclosure duties lets you demand the information the carrier conveniently omits."
   },
   "insurer-documentation-bad-faith": {
-    "title": "Log Notes, Emails, and Bad Faith: How an Insurer",
-    "description": "An insurer",
+    "title": "Log Notes, Emails, and Bad Faith: How an Insurer's Own Records Can Win Your Case",
+    "description": "An insurer's internal claim file — adjuster diary notes, emails, reserve changes, and supervisor directives — can reveal the real reasons behind a denial or underpayment. Learn how to obtain these records, what to look for, and how they support bad faith claims.",
     "summary": "An insurer's own log notes, emails, and claim diary can prove bad faith, revealing what it really thought while telling you something else. Requesting the claims file can expose this internal record."
   },
   "insurer-duty-to-explain-payment": {
-    "title": "Your Right to Know How Your Claim Was Calculated: The Insurer",
+    "title": "Your Right to Know How Your Claim Was Calculated: The Insurer's Duty to Explain Every Payment",
     "description": "California law requires your insurance company to explain the basis of every payment and share the documents it relied on. Most policyholders never exercise these rights. Here is how to use them.",
     "summary": "California law requires your insurer to explain the basis of every payment and share the documents it relied on. Most policyholders never ask; demanding this explanation reveals how the number was built and where it falls short."
   },
@@ -1410,8 +1410,8 @@
     "summary": "California sets firm deadlines your insurer must meet: acknowledge the claim, begin investigating, accept or deny in writing, and pay promptly once liability is reasonably clear. Missing these deadlines violates the Fair Claims Settlement Practices Regulations."
   },
   "insurer-option-to-repair": {
-    "title": "The Insurer",
-    "description": "Understanding the insurance carrier",
+    "title": "The Insurer's Option to Repair: When the Carrier Wants to Fix It Instead of Pay You",
+    "description": "Understanding the insurance carrier's contractual option to repair, rebuild, or replace damaged property instead of paying cash — what it means for policyholders, how carriers use it strategically, and how California law limits its abuse.",
     "summary": "Many policies give the insurer the option to repair rather than pay cash. If your carrier elects to repair, it takes on responsibility for a proper, complete restoration, and remains liable if its chosen repair falls short."
   },
   "insurer-reformation-policy": {
@@ -1450,7 +1450,7 @@
     "summary": "In Kurach v. Truck Insurance Exchange (Pa. 2020), the court upheld policy language withholding general contractor overhead and profit until the policyholder actually pays for it. Check whether your own policy contains a similar O&P restriction."
   },
   "labor-depreciation-debate": {
-    "title": "Labor Depreciation: Can Labor ",
+    "title": "Labor Depreciation: Can Labor \"Wear Out\"? California Says No — By Regulation",
     "description": "A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: 10 CCR §2695.9(f)(1) prohibits labor depreciation in property claims. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.",
     "summary": "Can a service physically wear out? In California, the Fair Claims regulation (10 CCR §2695.9(f)(1)) prohibits depreciating labor in property claims. The only narrow exception is intrinsic labor in manufactured materials. The statutory ACV framework is at Cal. Ins. Code §2051(b). Challenge labor depreciation on every California claim where it appears."
   },
@@ -1624,8 +1624,8 @@
     "summary": "Do not argue just one reason an item must be replaced when you have several. If even one of multiple valid reasons holds, replacement is owed, so present every applicable argument rather than betting on a single one."
   },
   "named-insured-vs-an-insured": {
-    "title": "The Named Insured vs. ",
-    "description": "Your insurance policy draws a sharp line between ",
+    "title": "The Named Insured vs. \"An Insured\" — Why the Distinction Matters More Than You Think",
+    "description": "Your insurance policy draws a sharp line between \"you\" (the named insured) and \"an insured\" (resident relatives, spouses, and others). This distinction controls who has rights, who triggers exclusions, and who can recover after a loss. Learn why it matters and how to protect yourself.",
     "summary": "Your policy distinguishes the 'named insured' from 'an insured,' and the difference controls who has rights and duties. The named insured has the broadest rights; knowing which category you fall in matters when you file a claim."
   },
   "named-perils-vs-open-perils": {
@@ -1779,7 +1779,7 @@
     "summary": "Homeowner policies treat pets oddly: they are not 'property' you can claim for, but ALE may cover added pet costs while displaced, and livestock is often excluded. Know the limits and plan for evacuation costs to protect your animals."
   },
   "pfas-forever-chemicals-property": {
-    "title": "PFAS ",
+    "title": "PFAS 'Forever Chemicals' and Property Insurance: An Emerging Coverage Crisis",
     "description": "How PFAS contamination affects property values and insurance coverage, the new ISO PFAS exclusions appearing on policies, EPA reporting requirements, and what property owners should do to protect themselves.",
     "summary": "PFAS 'forever chemicals' contamination can hurt property value, and insurers are adding PFAS exclusions to policies while EPA reporting rules expand. Property owners should know whether their policy now excludes PFAS and document any contamination."
   },
@@ -1805,7 +1805,7 @@
   },
   "policy-vs-law": {
     "title": "Is Your Insurance Policy Illegal? When Policy Language Conflicts with California Law",
-    "description": "A California court ruled the FAIR Plan's fire policy ",
+    "description": "A California court ruled the FAIR Plan's fire policy \"unlawful.\" But the problem goes far beyond one insurer. Here are the ways your policy may conflict with California statutes, case law, and regulations — and why the law wins.",
     "summary": "When policy language conflicts with California law, the law controls and the offending policy term is unenforceable, as courts have held even against FAIR Plan provisions. An illegal clause cannot be used to deny what the law guarantees."
   },
   "policyholder-death-coverage": {
@@ -1844,7 +1844,7 @@
     "summary": "If a policyholder becomes incapacitated, a durable Power of Attorney lets someone manage the claim; without one, a court conservatorship is required under California Probate Code. Insurers resist both, so set up a POA before incapacity strikes."
   },
   "pre-existing-vs-storm-damage": {
-    "title": "Pre-Existing Damage vs. Storm Damage: Fighting the ",
+    "title": "Pre-Existing Damage vs. Storm Damage: Fighting the \"Wear and Tear\" Denial",
     "description": "Insurance companies routinely attribute storm damage to pre-existing conditions. Learn how to distinguish legitimate storm damage from wear and tear, build your evidence, and defeat the most common denial tactic in property insurance.",
     "summary": "Insurers routinely blame storm damage on pre-existing wear and tear to deny claims. Counter it by documenting the storm event, the condition before and after, and the mechanism of damage, distinguishing sudden storm harm from gradual deterioration."
   },
@@ -1870,7 +1870,7 @@
   },
   "proof-of-loss-signing-strategy": {
     "title": "The Proof of Loss: What You Are Really Signing and How to Protect Yourself",
-    "description": "A proof of loss is a sworn statement that can lock you into the carrier",
+    "description": "A proof of loss is a sworn statement that can lock you into the carrier's numbers and waive coverages you didn't intend to surrender. Learn about partial proofs of loss, how to modify the carrier's form, state-by-state rules, and why NFIP flood claims demand special care.",
     "summary": "A proof of loss is a sworn statement that can lock you into a number and waive amounts you omit. Prepare it carefully, value the claim fully, and reserve the right to supplement, because signing prematurely can cap your recovery."
   },
   "proof-of-loss": {
@@ -1920,7 +1920,7 @@
   },
   "reading-statement-of-loss": {
     "title": "How to Read Your Insurance Statement of Loss: The Document That Shows Where Your Money Went",
-    "description": "The statement of loss is the carrier",
+    "description": "The statement of loss is the carrier's accounting of your entire claim — what it calculated, what it deducted, and what it paid on each coverage. Learning to read it is the first step to identifying underpayment.",
     "summary": "The statement of loss is the carrier's accounting of your claim, showing replacement cost, depreciation, deductible, and what was actually paid. Reading it line by line reveals where your money went and where the carrier shorted you."
   },
   "real-negotiation-case-studies": {
@@ -1954,8 +1954,8 @@
     "summary": "Under California Insurance Code 2051.5, depreciation held back from your payment is recoverable only if you complete repairs within the deadline. Missing it forfeits the holdback, so track the clock, request extensions when needed, and document completion."
   },
   "release-trap-insurance-claims": {
-    "title": "The Release Trap: What You",
-    "description": "Understand what insurance claim releases actually do, why carriers push them aggressively, and how to protect yourself from signing away rights you didn",
+    "title": "The Release Trap: What You're Really Signing When the Insurance Company Sends a Check",
+    "description": "Understand what insurance claim releases actually do, why carriers push them aggressively, and how to protect yourself from signing away rights you didn't know you had.",
     "summary": "A release signed during a claim can extinguish rights you did not mean to give up, including supplemental and bad-faith claims. Carriers push releases aggressively; read every release, narrow its scope, and never sign away unresolved parts of your claim."
   },
   "remediation-vs-restoration": {
@@ -2005,7 +2005,7 @@
   },
   "responding-to-insurer-in-writing": {
     "title": "How to Respond to Your Insurance Company in Writing: Tone, Strategy, and What Never to Say",
-    "description": "A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase ",
+    "description": "A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase \"bad faith\" and how framing requests around harm creates a stronger claim file.",
     "summary": "Written correspondence with your insurer is strategy: respond to ROR, cure, denial, and lowball letters in writing, state facts and requests clearly, and avoid careless phrasing. A calm, documented paper trail protects your rights and your claim."
   },
   "restaurant-insurance-claims": {
@@ -2110,7 +2110,7 @@
   },
   "self-storage-facility-insurance-claims": {
     "title": "Self-Storage Facility Insurance Claims: Thousands of Customers, Unknown Contents, and the Documentation Nightmare",
-    "description": "Self-storage facilities face unique insurance challenges from bailee coverage for thousands of customers",
+    "description": "Self-storage facilities face unique insurance challenges from bailee coverage for thousands of customers' property to climate-controlled unit failures, cascading water damage, and the impossible task of documenting unknown contents after a loss.",
     "summary": "Self-storage operators face bailee exposure for thousands of customers' unknown contents, plus a documentation nightmare proving what was stored. Understanding bailee coverage and tenant insurance requirements is key to handling these claims."
   },
   "selling-property-pending-claim": {
@@ -2164,7 +2164,7 @@
     "summary": "Crystalline silica released when cutting concrete, tile, or masonry during repairs is an OSHA-regulated hazard requiring controlled handling. Your insurer should pay for proper silica remediation and safe work practices as part of the covered repair."
   },
   "siu-referral-investigation": {
-    "title": "When Your Claim Is ",
+    "title": "When Your Claim Is \"Referred to SIU\": What Special Investigations Really Means",
     "description": "A guide to Special Investigation Unit (SIU) referrals in California insurance claims. Covers what triggers an SIU investigation, your rights during the process, EUOs, surveillance, regulatory timelines, bad faith implications, and how to respond when your claim is under investigation.",
     "summary": "An SIU referral means the insurer's Special Investigations Unit is treating your claim as possible fraud, which can trigger EUOs, surveillance, and delay. You retain rights and the duty to cooperate has limits; know what triggers SIU and how to respond without harming your claim."
   },
@@ -2195,7 +2195,7 @@
   },
   "snowbird-vacancy-coverage": {
     "title": "Seasonal and Snowbird Properties: The Six-Month Vacancy Problem",
-    "description": "Retirees who split time between two homes face unique insurance traps: vacancy exclusions, the ",
+    "description": "Retirees who split time between two homes face unique insurance traps: vacancy exclusions, the \"where you reside\" definition, frozen pipe denials, and mismatched policy types. Learn how the six-month vacancy problem works, what endorsements exist, and how to protect your seasonal property.",
     "summary": "Owners who split time between two homes risk vacancy and unoccupancy exclusions that can gut coverage when a home sits empty for months. Know your policy's vacancy rules and consider an endorsement to protect a seasonal or snowbird property."
   },
   "social-media-claims": {
@@ -2235,7 +2235,7 @@
   },
   "standard-fire-policy-denials-to-coverage": {
     "title": "When Two Words Change Everything: How the Standard Fire Policy Turns Denials Into Coverage",
-    "description": "In roughly 30 states, the Standard Fire Policy acts as a statutory floor for fire insurance. When your insurer",
+    "description": "In roughly 30 states, the Standard Fire Policy acts as a statutory floor for fire insurance. When your insurer's policy deviates from the standard in ways less favorable to you, courts have consistently reformed the policy — turning denials into coverage.",
     "summary": "In about 30 states, the Standard Fire Policy is a statutory floor for fire insurance that a carrier's policy cannot fall below. When your insurer's denial rests on language weaker than the SFP, the SFP can convert that denial into coverage."
   },
   "standard-fire-policy-insurance-code-2070": {
@@ -2284,7 +2284,7 @@
     "summary": "IBHS research shows shingles struck by small, 'sub-severe' hail become far more vulnerable to future storms, so insurers cannot dismiss smaller hail as harmless. Cumulative impact damage is real and supports a claim."
   },
   "subject-to-mortgage-insurance-trap": {
-    "title": "The Insurance Trap in ",
+    "title": "The Insurance Trap in \"Subject-To\" Real Estate Deals: What Buyers and Sellers Need to Know",
     "description": "When property changes hands in a subject-to transaction, the seller's insurance may be worthless and the buyer may have no coverage at all. Insurable interest, concealment, due-on-sale clauses, and the coverage gap that destroys families.",
     "summary": "In a 'subject-to' transaction, the buyer takes title but the seller's policy may be void and the buyer may have no coverage at all, due to insurable-interest and concealment problems. This gap can leave a family uninsured after a loss; arrange proper coverage at transfer."
   },
@@ -2514,7 +2514,7 @@
     "summary": "In valued-policy-law states, a total loss pays the full policy limit automatically. California is NOT a valued-policy state, so even in total destruction you must prove your actual loss, which makes documentation and adequate limits essential."
   },
   "vandalism-claims": {
-    "title": "Vandalism Claims: When Insurers Call It ",
+    "title": "Vandalism Claims: When Insurers Call It \"Wear and Tear\"",
     "description": "How to handle vandalism insurance claims, push back when insurers mischaracterize vandalism as wear and tear, and document damage from break-ins, marijuana grows, and tenant destruction. Includes policy language analysis, the intent requirement, Bowers case law, burden of proof, and practical steps for policyholders.",
     "summary": "Insurers often relabel vandalism as excluded wear and tear or dispute the required intent. Vandalism, including from break-ins, grow operations, or tenant destruction, is covered; document the willful damage and use the intent standard and case law to defeat mischaracterization."
   },
@@ -2544,12 +2544,12 @@
     "summary": "When your commercial lease requires a waiver of subrogation, your insurer cannot recover from the landlord even if the landlord's negligence caused your loss. Watch the deductible trap and negotiate the lease language carefully before signing."
   },
   "warehouse-distribution-insurance-claims": {
-    "title": "Warehouse and Distribution Insurance Claims: When You",
+    "title": "Warehouse and Distribution Insurance Claims: When You're Holding Everyone Else's Property",
     "description": "Warehouse and distribution facilities face unique insurance challenges from bailee coverage for customer goods to spoilage, sprinkler requirements, and the coinsurance problem with fluctuating inventory. Learn how to protect your operation and your claim.",
     "summary": "Warehouses face bailee exposure for customers' goods, spoilage, sprinkler requirements, and coinsurance problems from fluctuating inventory. Matching coverage to actual stock levels and documenting third-party goods are key to a full recovery."
   },
   "water-backup-endorsement": {
-    "title": "Water Backup Endorsement: What It Actually Covers, What It Does Not, and Why Many ",
+    "title": "Water Backup Endorsement: What It Actually Covers, What It Does Not, and Why Many \"Backup\" Claims Are Not Backups at All",
     "description": "A detailed guide to the water backup endorsement — what it covers, how sub-limits work, the critical mechanical difference between a true sewer backup and a plumbing blockage with overflow, common carrier denial tactics, and how to fight for proper coverage on water-from-drain claims.",
     "summary": "A water backup endorsement covers sewer or drain backup and sump overflow, subject to a sub-limit, but a plumbing blockage with overflow is mechanically different and may fall under standard coverage. Identify the true cause to claim under the right provision."
   },
@@ -2564,9 +2564,9 @@
     "summary": "Water claims turn on the sudden-versus-gradual distinction: sudden accidental discharge is generally covered, while long-term seepage often is not. Respond fast, document the source, and counter carrier attempts to recharacterize a covered sudden loss as excluded gradual damage."
   },
   "water-damage-seepage-exclusion": {
-    "title": "Water Damage and the ",
-    "description": "California insurers routinely deny water-damage claims under the ",
-    "summary": "The "
+    "title": "Water Damage and the \"Continuous or Repeated Seepage\" Exclusion: Sudden vs. Gradual",
+    "description": "California insurers routinely deny water-damage claims under the \"continuous or repeated seepage or leakage\" exclusion. Learn the sudden-versus-gradual distinction, who bears the burden of proof, and how the 2026 published decision Nargizyan v. State Farm limits this tactic.",
+    "summary": "The \"continuous or repeated seepage or leakage\" exclusion bars coverage for gradual, long-term water intrusion, not a sudden burst. The insurer bears the burden of proving the exclusion applies, and the 2026 published decision Nargizyan v. State Farm held that an after-the-fact \"it must have been leaking a long time\" opinion, with no proof of duration, does not establish the exclusion."
   },
   "water-leak-what-to-do": {
     "title": "I Had a Water Leak — What Do I Do Right Now?",
@@ -2580,7 +2580,7 @@
   },
   "wear-and-tear-exclusion": {
     "title": "The Wear and Tear Exclusion: When Insurance Companies Confuse Condition with Causation",
-    "description": "The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why ",
+    "description": "The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why \"condition is not causation,\" how California's efficient proximate cause doctrine protects policyholders with older property, and how to fight improper wear and tear denials.",
     "summary": "The wear and tear exclusion bars losses caused by wear and tear, not losses to property that merely shows wear. Insurers confuse condition with causation to deny; if a covered peril caused the damage, an old or worn component is still payable."
   },
   "what-does-homeowner-policy-cover": {
@@ -2620,7 +2620,7 @@
   },
   "where-you-reside-exclusion": {
     "title": "Where You Reside: The Hidden Killer Exclusion in Your Homeowner Policy",
-    "description": "The three words ",
+    "description": "The three words \"where you reside\" in your homeowner policy definition can eliminate your coverage entirely — especially if you move to a nursing home. Learn how this hidden exclusion works, what courts in different states have ruled, and how to protect yourself.",
     "summary": "The phrase 'where you reside' can quietly limit coverage to your primary residence, leaving a second home, a vacated home, or a rental uncovered under a homeowner policy. Confirm your policy fits how the property is actually used."
   },
   "white-waiver-settlement-confidentiality": {
@@ -2644,7 +2644,7 @@
     "summary": "When a wildfire strips vegetation and the next rain triggers a mudslide, the earth-movement exclusion does not apply, because fire is the efficient proximate cause. California's doctrine and the CDI confirm the resulting mudslide damage is covered."
   },
   "wildfire-smoke-physical-loss": {
-    "title": "Wildfire Smoke and ",
+    "title": "Wildfire Smoke and \"Direct Physical Loss\": The Coverage Debate in California",
     "description": "When wildfire smoke infiltrates a home without flames ever reaching it, does the contamination constitute direct physical loss under a homeowner policy? California courts are split, but the science and the law favor policyholders.",
     "summary": "When wildfire smoke contaminates a home without flames reaching it, the question is whether that contamination is 'direct physical loss.' California courts are split, but the science of pervasive toxic residue and the law favor coverage for policyholders."
   },
@@ -2659,18 +2659,18 @@
     "summary": "An effective letter to your insurer is dated, factual, and specific: state what you want, reference your policy and claim number, cite the relevant regulation or deadline, and request a written response by a set date. Keep a copy of everything you send."
   },
   "xactimate-how-it-works": {
-    "title": "How Xactimate Works: A Policyholder",
+    "title": "How Xactimate Works: A Policyholder's Guide to Insurance Estimates",
     "description": "Xactimate is the software insurance companies use to price your claim. Understanding how it works — regional pricing databases, line items, labor settings, and its limitations — is the first step to getting paid fairly.",
     "summary": "Xactimate is the software insurers use to price your claim, built on regional pricing databases, line items, and labor settings. Understanding how it works, and its limitations, is the first step to recognizing and correcting an estimate that underpays."
   },
   "xactimate-labor-efficiency-settings": {
     "title": "Xactimate Labor Efficiency Settings: How Restoration vs. Rebuild Changes Every Line Item on Your Estimate",
-    "description": "A guide on how Xactimate",
+    "description": "A guide on how Xactimate's labor efficiency settings affect every labor line item in an insurance estimate and how the wrong setting can systematically underpay an entire claim by thousands of dollars.",
     "summary": "Xactimate's labor efficiency setting, restoration versus new construction (rebuild), changes the labor price on every line item. Carriers often use the cheaper 'new construction' setting on repair work; the correct setting can substantially raise a fair estimate."
   },
   "xactimate-line-item-manipulation": {
-    "title": "Xactimate Line Item Manipulation: How ",
-    "description": "A detailed guide for policyholders, Public Adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the ",
+    "title": "Xactimate Line Item Manipulation: How \"Included\" Makes Covered Items Disappear",
+    "description": "A detailed guide for policyholders, Public Adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the \"included\" designation and wrong codes to minimum charge suppression and missing items — and how to identify and challenge every tactic using Verisk's own documentation.",
     "summary": "Carriers manipulate Xactimate estimates by omitting line items, using low waste factors, wrong labor settings, and stale pricing to shrink the total. Knowing these tactics lets you spot and correct a manipulated estimate line by line."
   },
   "xactimate-line-items": {
@@ -2699,7 +2699,7 @@
     "summary": "Xactimate price lists update regularly, and carriers sometimes use an outdated list to underpay at stale prices. Check the price-list date on your estimate, and challenge any estimate built on pricing that does not reflect current costs."
   },
   "xactimate-pricing-gap": {
-    "title": "Why Your Insurance Estimate Is Lower Than Your Contractor",
+    "title": "Why Your Insurance Estimate Is Lower Than Your Contractor's Quote",
     "description": "Xactimate estimates are often 30% or more below actual repair costs. The software itself disclaims pricing accuracy. Here is why the gap exists and what you can do about it.",
     "summary": "Xactimate estimates often run 30% or more below actual repair costs, and the software itself disclaims pricing accuracy. Knowing why this gap exists lets you document real market costs and demand an estimate that reflects them."
   },

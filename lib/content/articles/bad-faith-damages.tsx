@@ -432,7 +432,7 @@ export default function Content() {
         Putting It All Together
       </h2>
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">Summary of Recoverable Bad Faith Damages</h4>
+        <h3 className="font-bold text-[#1F3964] mb-3">Summary of Recoverable Bad Faith Damages</h3>
         <ul className="list-disc pl-6 space-y-2 text-gray-700 text-sm">
           <li>
             <strong>Contract damages:</strong> Unpaid policy benefits (dwelling, contents, ALE,

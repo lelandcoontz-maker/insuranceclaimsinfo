@@ -306,9 +306,9 @@ export default function Content() {
         business income figure and the maximum probable period of restoration.
       </p>
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">
+        <h3 className="font-bold text-[#1F3964] mb-3">
           Example: Restaurant Business Income Exposure
-        </h4>
+        </h3>
         <ul className="list-disc pl-6 space-y-2 text-gray-700 text-sm">
           <li>Annual net income before taxes: $180,000</li>
           <li>Annual payroll (to be continued during shutdown): $320,000</li>

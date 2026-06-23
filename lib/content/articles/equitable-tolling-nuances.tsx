@@ -325,9 +325,9 @@ export default function Content() {
       </p>
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">
+        <h3 className="font-bold text-[#1F3964] mb-3">
           Strategic Consideration: Ask Before You Hire
-        </h4>
+        </h3>
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
           If you are considering hiring an attorney but have not yet done so, consider
           sending a written request to the insurer asking for a clear statement of when
@@ -398,7 +398,7 @@ export default function Content() {
       </p>
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">Example: Close and Reopen</h4>
+        <h3 className="font-bold text-[#1F3964] mb-3">Example: Close and Reopen</h3>
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
           A fire occurs on <strong>January 1</strong>. The insured reports it the same day.
           The insurer investigates for nine months and sends a written denial letter on{' '}

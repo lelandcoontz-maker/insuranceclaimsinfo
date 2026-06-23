@@ -68,7 +68,7 @@ export default function Content() {
           Where &quot;Amount of Insurance Required&quot; = Replacement Cost of the Building
           &times; Coinsurance Percentage
         </p>
-        <h4 className="font-bold text-[#1F3964] mb-3">Worked Example</h4>
+        <h3 className="font-bold text-[#1F3964] mb-3">Worked Example</h3>
         <ul className="list-disc pl-6 space-y-2 text-gray-700 text-sm">
           <li>Building replacement cost: $1,000,000</li>
           <li>Coinsurance requirement: 80%</li>

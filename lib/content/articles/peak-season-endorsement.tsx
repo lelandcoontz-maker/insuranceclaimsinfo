@@ -200,9 +200,9 @@ export default function Content() {
         business. Consider a specialty gift retailer:
       </p>
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
-        <h4 className="font-bold text-[#1F3964] mb-3">
+        <h3 className="font-bold text-[#1F3964] mb-3">
           Example: Specialty Gift Retailer Without Peak Season Endorsement
-        </h4>
+        </h3>
         <ul className="list-disc pl-6 space-y-2 text-gray-700 text-sm">
           <li>Normal inventory (January&ndash;October): $180,000</li>
           <li>BPP limit on policy: $225,000</li>
