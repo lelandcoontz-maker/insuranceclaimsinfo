@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "next lint",
     "a11y": "tsx scripts/a11y-audit.ts",
-    "seo": "tsx scripts/seo-audit.ts"
+    "seo": "tsx scripts/seo-audit.ts",
+    "audit": "npm run a11y && npm run seo"
   },
   "dependencies": {
     "clsx": "^2.1.1",
