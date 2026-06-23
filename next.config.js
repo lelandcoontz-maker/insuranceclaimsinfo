@@ -52,6 +52,11 @@ const nextConfig = {
       destination: '/resources/white-waiver-settlement-confidentiality',
       permanent: true,
     },
+    {
+      source: '/resources/three-trade-rule-overhead-profit',
+      destination: '/resources/three-trade-rule',
+      permanent: true,
+    },
   ],
   headers: async () => [
     {

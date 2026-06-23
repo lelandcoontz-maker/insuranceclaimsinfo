@@ -134,7 +134,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to do:</strong> If the carrier&apos;s estimate omits O&amp;P and your repair involves multiple trades or any significant complexity, demand that O&amp;P be added. Cite Verisk&apos;s own documentation acknowledging that general overhead is not included in line-item pricing. Provide your general contractor&apos;s bid showing O&amp;P as a separate line item. For a detailed discussion of this issue, see our article on the{' '}
-        <Link href="/resources/three-trade-rule-overhead-profit" className="text-blue-700 underline hover:text-blue-900">three-trade rule and overhead and profit</Link>.
+        <Link href="/resources/three-trade-rule" className="text-blue-700 underline hover:text-blue-900">three-trade rule and overhead and profit</Link>.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">5. Incorrect Material Specifications</h2>
