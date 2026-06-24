@@ -82,7 +82,7 @@ export default function Content() {
         source="California Department of Insurance"
         date="March 7, 2025"
         type="bulletin"
-        sourceUrl="https://insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Bulletin-2025-7-Insurance-Coverage-for-Smoke-Damage-and-Guidance-for-Proper-Handling-of-Smoke-Damage-Claims-for-Properties-Located-in-or-near-California-Wildfire-Areas.pdf"
+        sourceUrl="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Bulletin-2025-7-Insurance-Coverage-for-Smoke-Damage-and-Guidance-for-Proper-Handling-of-Smoke-Damage-Claims-for-Properties-Located-in-or-near-California-Wildfire-Areas.pdf"
       >
         <p><strong>BULLETIN 2025-7</strong></p>
         <p>

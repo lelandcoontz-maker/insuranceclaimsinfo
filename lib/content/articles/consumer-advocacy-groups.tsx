@@ -231,7 +231,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Website:</strong>{' '}
-        <a href="https://napia.com" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+        <a href="https://www.napia.com" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
           napia.com
         </a>
       </p>
@@ -292,7 +292,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Website:</strong>{' '}
-        <a href="https://naic.org" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
+        <a href="https://content.naic.org" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline hover:text-blue-900">
           naic.org
         </a>
       </p>

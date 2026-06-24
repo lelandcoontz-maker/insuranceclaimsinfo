@@ -99,7 +99,7 @@ export default function Content() {
           Before hiring an industrial hygienist &mdash; and when evaluating the credentials
           of the carrier&rsquo;s assigned consultant &mdash; verify the CIH designation
           directly through the{' '}
-          <a href="https://www.abih.org" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
+          <a href="https://gobgc.org/redirect-abih/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] hover:underline">
             American Board of Industrial Hygiene (ABIH)
           </a>{' '}
           website. The ABIH maintains a public directory of certified professionals. If the

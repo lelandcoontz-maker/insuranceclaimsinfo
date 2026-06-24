@@ -863,7 +863,7 @@ export default function Content() {
         <li>
           Chip Merlin,{' '}
           <a
-            href="https://www.propertyinsurancecoveragelaw.com/2021/04/articles/insurance/should-policyholders-sign-a-white-waiver-agreement/"
+            href="https://www.propertyinsurancecoveragelaw.com/blog/should-policyholders-sign-a-white-waiver-agreement/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-700 underline hover:text-blue-900"
@@ -875,7 +875,7 @@ export default function Content() {
         <li>
           Scott M. Seaman,{' '}
           <a
-            href="https://btlaw.com/insights/blogs/policyholder-protection/2016/insurer-asks-for-a-white-waiver-as-a-condition-to-talking-settlement-should-you-do-it"
+            href="https://btlaw.com/en/insights/blogs/insurer-asks-for-a-white-waiver-as-a-condition-to-talking-settlement-should-you-do-it"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-700 underline hover:text-blue-900"

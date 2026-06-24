@@ -76,7 +76,7 @@ export default function Content() {
         source="California Department of Insurance"
         date="January 23, 2025"
         type="bulletin"
-        sourceUrl="https://insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Bulletin-2025-2-Wildfire-Consumer-Protections-and-Advanced-Payments.pdf"
+        sourceUrl="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Bulletin-2025-2-Wildfire-Consumer-Protections-and-Advanced-Payments.pdf"
       >
         <p><strong>BULLETIN 2025-2</strong></p>
         <p>

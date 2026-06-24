@@ -81,7 +81,7 @@ export default function Content() {
         source="California Department of Insurance"
         date="September 9, 2016"
         type="notice"
-        sourceUrl="https://insurance.ca.gov/01-consumers/140-catastrophes/upload/ClaimRelatedDocumentsNotice.pdf"
+        sourceUrl="https://www.insurance.ca.gov/01-consumers/140-catastrophes/upload/ClaimRelatedDocumentsNotice.pdf"
       >
         <p><strong>STATE OF CALIFORNIA</strong></p>
         <p><strong>DEPARTMENT OF INSURANCE</strong></p>

@@ -96,7 +96,7 @@ export default function Content() {
         source="California Department of Insurance"
         date="April 3, 2008"
         type="opinion"
-        sourceUrl="https://insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/435314CICSection2015.pdf"
+        sourceUrl="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/435314CICSection2015.pdf"
       >
         <p><strong>STATE OF CALIFORNIA</strong></p>
         <p><strong>DEPARTMENT OF INSURANCE</strong></p>

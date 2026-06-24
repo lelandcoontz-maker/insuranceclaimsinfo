@@ -69,7 +69,7 @@ export default function Content() {
         source="California Department of Insurance"
         date="February 4, 2025"
         type="bulletin"
-        sourceUrl="https://insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Bulletin-2025-3-Coverage-of-Flood-Mudslide-and-Earth-Movement-Claims-Relating-to-Recent-Wildfires.pdf"
+        sourceUrl="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Bulletin-2025-3-Coverage-of-Flood-Mudslide-and-Earth-Movement-Claims-Relating-to-Recent-Wildfires.pdf"
       >
         <p><strong>BULLETIN 2025-3</strong></p>
         <p>

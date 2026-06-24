@@ -91,7 +91,7 @@ export default function Content() {
         structure.&quot; The company that maintains the database concedes that its prices may not
         be appropriate for any given contractor, repair, or structure. This is Verisk&apos;s own{' '}
         <a
-          href="https://www.verisk.com/4a2266/siteassets/media/downloads/property-estimating/pricing-research-methodology.pdf"
+          href="https://www.verisk.com/49c07f/siteassets/media/downloads/property-estimating/pricing-research-methodology.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#2E74B5] underline"
@@ -738,7 +738,7 @@ export default function Content() {
         <li>
           Verisk,{' '}
           <a
-            href="https://www.verisk.com/4a2266/siteassets/media/downloads/property-estimating/pricing-research-methodology.pdf"
+            href="https://www.verisk.com/49c07f/siteassets/media/downloads/property-estimating/pricing-research-methodology.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#2E74B5] underline"

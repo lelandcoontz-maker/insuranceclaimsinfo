@@ -92,7 +92,7 @@ export default function Content() {
         source="California Department of Insurance"
         date="October 2, 2020"
         type="notice"
-        sourceUrl="https://insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Notice-Personal-Property-Contents-Coverage-for-Wildfire-Claims.pdf"
+        sourceUrl="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Notice-Personal-Property-Contents-Coverage-for-Wildfire-Claims.pdf"
       >
         <p>
           Due to the large scale of the 2020 California wildfires, many policyholders are overwhelmed

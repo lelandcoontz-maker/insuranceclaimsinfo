@@ -671,7 +671,7 @@ export default function Content() {
         For broader strategic guidance on how policyholders should approach EUO preparation,
         the{' '}
         <a
-          href="https://www.merlinlawgroup.com/blog/"
+          href="https://www.propertyinsurancecoveragelaw.com/"
           rel="nofollow noopener"
           className="text-[#2E74B5] hover:underline"
         >

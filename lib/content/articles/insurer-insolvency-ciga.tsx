@@ -945,7 +945,7 @@ export default function Content() {
         <li>
           California Insurance Guarantee Association (CIGA), &ldquo;How We Work,&rdquo;{' '}
           <a
-            href="https://www.ciga.org/consumers_claims.html"
+            href="https://www.ciga.org/how-we-work"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-700 underline hover:text-blue-900"

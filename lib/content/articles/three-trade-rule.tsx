@@ -204,7 +204,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         1 A.D.3d 9, 766 N.Y.S.2d 719 (N.Y. App. Div., 3d Dept. 2003). See discussion in Merlin Law Group,{' '}
-        <a href="https://www.propertyinsurancecoveragelaw.com/2017/12/articles/class-action/entitlement-to-overhead-and-profit-on-an-actual-cash-value-estimate/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
+        <a href="https://www.propertyinsurancecoveragelaw.com/blog/entitlement-to-overhead-and-profit-on-an-actual-cash-value-estimate/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">
           &ldquo;Entitlement to Overhead and Profit on an Actual Cash Value Estimate&rdquo;
         </a>.
       </p>
@@ -378,7 +378,7 @@ export default function Content() {
         <li><em>Tritschler v. Allstate Insurance Co.</em>, 213 Ariz. 505, 144 P.3d 519 (Ariz. Ct. App. 2006). <a href="https://caselaw.findlaw.com/court/az-court-of-appeals/1285810.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">FindLaw</a></li>
         <li><em>Ghoman v. New Hampshire Insurance Co.</em>, 159 F. Supp. 2d 928 (N.D. Tex. 2001). <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/159/928/2384313/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Justia</a></li>
         <li><em>Burgess v. Farmers Insurance Co.</em>, 151 P.3d 92, 2006 OK 66 (Okla. 2006). <a href="https://law.justia.com/cases/oklahoma/supreme-court/2006/448123.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Justia</a></li>
-        <li><em>Mazzocki v. State Farm Fire &amp; Cas. Corp.</em>, 1 A.D.3d 9, 766 N.Y.S.2d 719 (N.Y. App. Div., 3d Dept. 2003). <a href="https://www.propertyinsurancecoveragelaw.com/2017/12/articles/class-action/entitlement-to-overhead-and-profit-on-an-actual-cash-value-estimate/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Merlin Law Group analysis</a></li>
+        <li><em>Mazzocki v. State Farm Fire &amp; Cas. Corp.</em>, 1 A.D.3d 9, 766 N.Y.S.2d 719 (N.Y. App. Div., 3d Dept. 2003). <a href="https://www.propertyinsurancecoveragelaw.com/blog/entitlement-to-overhead-and-profit-on-an-actual-cash-value-estimate/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Merlin Law Group analysis</a></li>
         <li><em>Windridge of Naperville Condo. Ass&rsquo;n v. Philadelphia Indemnity Ins. Co.</em>, 932 F.3d 1035 (7th Cir. 2019). <a href="https://law.justia.com/cases/federal/appellate-courts/ca7/18-2103/18-2103-2019-08-07.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Justia</a></li>
         <li><em>Kurach v. Truck Insurance Exchange</em>, 235 A.3d 1106 (Pa. 2020). <a href="https://law.justia.com/cases/pennsylvania/supreme-court/2020/12-eap-2019-0.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Justia</a></li>
       </ul>

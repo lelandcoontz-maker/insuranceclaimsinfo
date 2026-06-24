@@ -92,7 +92,7 @@ export default function Content() {
         source="California Department of Insurance"
         date="September 10, 2019"
         type="opinion"
-        sourceUrl="https://insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/GeneralCounsel-sLegalOpinonRegardingEffectiveDateOf36MonthAdditionalLivingExpensesRequirement.pdf"
+        sourceUrl="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/GeneralCounsel-sLegalOpinonRegardingEffectiveDateOf36MonthAdditionalLivingExpensesRequirement.pdf"
       >
         <p><strong>CALIFORNIA DEPARTMENT OF INSURANCE</strong></p>
         <p><strong>September 10, 2019</strong></p>
