@@ -29,3 +29,6 @@ seo-audit-report.md
 
 # External link audit output (regenerate with `npm run links`)
 link-audit-report.md
+
+# Internal link audit output (regenerate with `npm run internal-links`)
+internal-link-report.md

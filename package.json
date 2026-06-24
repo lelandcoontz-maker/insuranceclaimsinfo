@@ -11,7 +11,8 @@
     "a11y": "tsx scripts/a11y-audit.ts",
     "seo": "tsx scripts/seo-audit.ts",
     "links": "tsx scripts/link-audit.ts",
-    "audit": "npm run a11y && npm run seo"
+    "internal-links": "tsx scripts/internal-link-audit.ts",
+    "audit": "npm run a11y && npm run seo && npm run internal-links"
   },
   "dependencies": {
     "clsx": "^2.1.1",
