@@ -599,179 +599,42 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Step 8: Transferring the Home Into a Trust &mdash; Estate Planning Meets Insurance
-      </h3>
-
-      <CalloutBox variant="warning" title="This Is a Complex Area Requiring Attorney Guidance">
-        <p>
-          The intersection of estate planning trusts and property insurance involves questions of
-          property law, insurance coverage, insurable interest, and tax consequences that vary
-          significantly by state. The discussion below is intended to identify the issues that
-          families and practitioners need to be aware of &mdash; not to provide estate planning
-          or legal advice. <strong>An attorney experienced in both estate planning and insurance
-          coverage should be involved any time a home is being transferred into or out of a
-          trust.</strong> The insurance agent must also be part of the conversation, because the
-          policy must be updated to reflect the new ownership structure. Getting the estate plan
-          right but the insurance wrong can be just as devastating as having no plan at all.
-        </p>
-      </CalloutBox>
-
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Many families place an elderly parent&rsquo;s home into a trust as part of estate
-        planning &mdash; often long before a nursing home placement becomes necessary. A common
-        arrangement is a <strong>family trust</strong> or <strong>revocable living trust</strong>
-        where the home is transferred to the trust, the original homeowner retains a{' '}
-        <strong>life estate</strong> (the right to live in the property or receive rental income
-        from it during their lifetime), and the remainder interest passes to the heirs upon the
-        homeowner&rsquo;s death. This is a well-established estate planning tool that can help
-        avoid probate, facilitate the orderly transfer of assets, and &mdash; in certain trust
-        structures &mdash; assist with Medicaid planning.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        But the estate plan and the insurance policy exist in different universes, and a trust
-        that works perfectly as an inheritance vehicle can create serious insurance problems if
-        the policy is not updated to match.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Insurable Interest Trap
+        Step 8: If the Home Is Held in a Trust
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the issue that catches the most families off guard. When a homeowner transfers
-        their property into a trust but retains a life estate, something fundamental changes:
-        <strong> the original homeowner no longer owns the property outright</strong>. They own a
-        life estate &mdash; the right to use or occupy the property for the remainder of their
-        lifetime. The trust (and ultimately the remainder beneficiaries &mdash; typically the
-        heirs) holds the remainder interest. Together, the life estate and the remainder interest
-        make up full ownership. Separately, neither one represents the full value of the home.
+        When a home is transferred into a revocable living trust or any other ownership
+        entity, the homeowner policy needs to be updated to reflect the new ownership. A
+        policy that still names the individual after the trust takes title is open to a
+        coverage defense based on the mismatch between the named insured and the titleholder,
+        and the &ldquo;where you reside&rdquo; analysis interacts with the trust ownership in
+        ways that can compound the problem (for example, a trust does not &ldquo;reside&rdquo;
+        anywhere, so a carrier may argue the residence-premises requirement cannot be
+        satisfied by a trust-owned property without an individual co-named insured living
+        there).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This matters enormously for insurance, because an insurer is only obligated to pay based
-        on the named insured&rsquo;s <strong>insurable interest</strong> in the property. If
-        the policy still names the original homeowner as the sole named insured, and a total loss
-        occurs, the insurer may argue that the named insured&rsquo;s insurable interest is
-        limited to the value of the life estate &mdash; not the full replacement cost of the
-        dwelling. The value of a life estate is calculated actuarially, based on the life
-        expectant&rsquo;s age. For an 85-year-old in a nursing home, the value of a life estate
-        can be a small fraction of the property&rsquo;s full value.
+        The detail of how to insure trust-owned property &mdash; how to name the trust, who to
+        add as additional named insureds, and the arguments that defeat a mismatch defense
+        after a loss &mdash; is its own topic. See our article on{' '}
+        <Link href="/resources/property-held-in-trust-coverage" className="text-[#2E74B5] hover:underline">
+          trust-owned property and insurance claims
+        </Link>
+        . For the insurable-interest mechanics when only a partial interest (like a retained
+        life estate) is involved, see our article on{' '}
+        <Link href="/resources/insurable-interest" className="text-[#2E74B5] hover:underline">
+          insurable interest
+        </Link>
+        .
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The result: the family set up a trust to preserve the home for the heirs, kept paying
-        premiums on the homeowner policy, and then discovered after a fire that the policy would
-        only pay the actuarial value of the life estate &mdash; potentially tens or hundreds of
-        thousands of dollars less than the cost to rebuild.
+        The trust-administration side &mdash; how the trust was set up, who the trustees are,
+        what happens at the settlor&rsquo;s death, how distributions to beneficiaries work
+        &mdash; is a California estate planning or trust attorney&rsquo;s territory, not the
+        insurance carrier&rsquo;s and not the Public Adjuster&rsquo;s. Whenever the home is
+        being moved into or out of a trust, the estate planning attorney and the insurance
+        broker both need to be in the conversation; getting the estate plan right but the
+        insurance wrong can be just as devastating as the reverse.
       </p>
-
-      <CalloutBox variant="important" title="The Solution: Name the Trust as the Insured">
-        <p>
-          When a home is transferred into a trust, the <strong>trust must be named as the insured
-          on the policy</strong> &mdash; not just the individual who used to own it. The trust
-          holds the full ownership interest in the property (subject to the life estate), and
-          the policy must reflect that. The named insured should be listed as something like
-          &ldquo;Jane Doe, Trustee of the Jane Doe Family Trust&rdquo; or the trust entity
-          itself, depending on the insurer&rsquo;s requirements. Both the life estate holder
-          and the trust should have coverage &mdash; the specific structuring depends on the
-          carrier and the policy form, which is why the insurance agent and the estate planning
-          attorney need to coordinate. If only the individual is listed, the insurer has a
-          textbook argument to limit recovery to the life estate value.
-        </p>
-      </CalloutBox>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Trust Types and Their Insurance Implications
-      </h3>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Revocable living trust:</strong> The most common estate planning trust. The
-        original homeowner (as grantor) can modify or revoke the trust at any time during their
-        lifetime. Because the grantor retains control, most insurers will continue the homeowner
-        policy with the trustee listed as the named insured. However, the &ldquo;where you
-        reside&rdquo; problem still applies &mdash; the trust does not eliminate the residency
-        requirement from a homeowner policy. If the grantor enters a nursing home and no one
-        resides at the property, the same coverage gap exists regardless of the trust structure.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Irrevocable trust (including trusts with a retained life estate):</strong> This
-        is where the insurable interest issue is most acute. The original homeowner has
-        permanently transferred ownership to the trust and cannot take it back. If they retained
-        a life estate, their interest in the property is limited to the right to use it during
-        their lifetime &mdash; an interest that diminishes with age. The trust holds the
-        remainder. <strong>The insurance must be rewritten with the trust as the named insured</strong>,
-        and the policy type should reflect the actual occupancy status. If no one resides at the
-        property, a dwelling fire policy (DP-1 or DP-3) naming the trust is the appropriate
-        coverage. If a family member resides at the property, a homeowner policy naming the
-        trust (with the residing family member as an insured) may work. This requires
-        coordination between the elder law attorney and the insurance agent.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>In either case:</strong> When a property is transferred into a trust, the
-        insurance agent must be notified immediately so the policy can be updated. If the
-        policy still lists the individual as the named insured after the trust becomes the
-        legal owner, the insurer may deny a claim on the basis that the named insured no
-        longer has an insurable interest &mdash; or has only a limited one. This is a
-        separate and additional coverage trap that compounds the &ldquo;where you reside&rdquo;
-        problem.
-      </p>
-
-      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Practical Steps When a Home Is in a Trust
-      </h3>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>
-          <strong>Update the named insured on the policy to reflect the trust.</strong> This
-          should happen at the time of the trust transfer, not after a loss.
-        </li>
-        <li>
-          <strong>If the original homeowner enters a care facility and no one will reside at
-          the property:</strong> Convert to a dwelling fire policy with the trust as the named
-          insured. This eliminates both the residency problem and the insurable interest problem
-          in one step.
-        </li>
-        <li>
-          <strong>If a successor trustee or family member will reside at the property:</strong>{' '}
-          The insurer may allow a homeowner policy with the trust as the named insured and the
-          residing family member as an additional insured. This satisfies the residency
-          requirement while preserving the trust&rsquo;s full insurable interest.
-        </li>
-        <li>
-          <strong>If the property will be rented out:</strong> A landlord or dwelling fire
-          policy naming the trust as the insured is the correct product. Do not maintain a
-          homeowner policy on a trust-owned rental property.
-        </li>
-        <li>
-          <strong>Review the policy at every change in circumstance:</strong> Trust creation,
-          nursing home admission, change of trustee, decision to rent, decision to leave the
-          property vacant &mdash; each of these is a trigger to review and potentially restructure
-          the insurance.
-        </li>
-        <li>
-          <strong>Expect the insurer to request a copy of the trust document.</strong> This is
-          normal and routine. When an insurer learns that a property is held in a trust &mdash;
-          whether at the time of policy issuance, at renewal, or after a claim is filed &mdash;
-          it will typically request a complete copy of the trust instrument. The insurer needs to
-          verify who holds legal title, who the trustees and beneficiaries are, whether the trust
-          is revocable or irrevocable, and what interest (if any) the original homeowner retained.
-          All of this affects how the policy should be written and, after a loss, how the claim
-          should be paid. Families should not be alarmed by this request, but they should be
-          prepared for it &mdash; and they should understand that providing the trust document
-          gives the insurer the information it needs to evaluate the insurable interest question.
-          If there are concerns about the trust&rsquo;s terms or how they may affect coverage,
-          have the estate planning attorney review the trust document with the insurance
-          implications in mind <em>before</em> it is submitted.
-        </li>
-      </ul>
-
-      <CalloutBox variant="info" title="The Bottom Line on Trusts">
-        <p>
-          A trust is an ownership structure, not an insurance product. It determines <em>who
-          owns</em> the property, but the insurance policy determines <em>how the property is
-          covered</em> and <em>whose interest is protected</em>. When these two are not
-          coordinated, the family can end up with an estate plan that successfully avoids probate
-          but an insurance policy that pays a fraction of the loss &mdash; or nothing at all.
-          Every trust transfer should trigger a conversation between the estate planning attorney
-          and the insurance agent, and the policy should be reviewed and updated before the
-          transfer is finalized.
-        </p>
-      </CalloutBox>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Additional Arguments for Practitioners
