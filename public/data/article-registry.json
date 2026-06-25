@@ -89,11 +89,6 @@
     "description": "Agreed value, stated value, and replacement cost are three different insurance valuation methods. Understanding the differences determines whether your claim gets paid in full or reduced at the worst possible time.",
     "summary": "Agreed value, stated value, and replacement cost are three different valuation methods. Agreed value fixes the payout in advance, stated value can be capped, and replacement cost pays to rebuild. Which one your policy uses decides whether you are paid in full."
   },
-  "ai-claims-handling-policyholder-rights": {
-    "title": "Artificial Intelligence in Insurance Claims: What Policyholders Need to Know",
-    "description": "How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, and policyholder rights to challenge AI-driven decisions.",
-    "summary": "Insurers increasingly use AI to triage, estimate, and even deny claims. The NAIC framework limits pure-AI decisions and existing unfair claims practices law applies to algorithmic ones. An automated denial can be challenged, and you can demand a real explanation."
-  },
   "ale-advance-payments": {
     "title": "ALE Advance Payments: The \"Incurred Cost\" Trap",
     "description": "When your insurance company says they will only pay Additional Living Expenses after you spend the money — why that position is often wrong, what California law requires, and how to get advance ALE payments without fronting your own cash.",
@@ -403,11 +398,6 @@
     "title": "Advance Payments After a Wildfire: What California Law Requires",
     "description": "California law requires insurers to make advance payments after a total loss in a declared disaster. CDI Bulletin 2025-2 spells out these requirements — here is the full text with practical guidance.",
     "summary": "After a total loss in a declared disaster, California law requires insurers to make advance payments. CDI Bulletin 2025-2 spells out what carriers must advance for the dwelling and contents so you can begin recovering immediately."
-  },
-  "cdi-complaint": {
-    "title": "Filing a CDI Complaint",
-    "description": "How to file a complaint with the California Department of Insurance, what it accomplishes, and tips for writing an effective complaint.",
-    "summary": "You can file a complaint with the California Department of Insurance against your carrier. CDI can investigate and pressure the insurer but cannot order payment. A clear, well-documented complaint is most effective and creates a useful record."
   },
   "cdi-contents-without-inventory": {
     "title": "Personal Property Claims Without a Full Inventory: What California Law Requires",
@@ -853,11 +843,6 @@
     "title": "The Efficient Proximate Cause Doctrine: When the Real Cause of Your Loss Is Covered",
     "description": "When multiple perils combine to cause a loss, the efficient proximate cause doctrine looks at the predominant cause. If it is covered, the entire loss is covered. Here is how the doctrine works, what California law requires, and how insurers try to get around it.",
     "summary": "When several perils combine to cause a loss, the efficient proximate cause doctrine asks which one predominated. If that predominant cause is covered, the entire loss is covered. California law mandates this, and insurers try to evade it by blaming an excluded contributor."
-  },
-  "efficient-proximate-cause": {
-    "title": "The Efficient Proximate Cause Doctrine: When Your Insurer Blames an Excluded Cause for a Covered Loss",
-    "description": "California's efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study.",
-    "summary": "California's efficient proximate cause doctrine requires coverage when a covered peril set the chain of events in motion, even if an excluded peril contributed. Landmark cases and the Insurance Code make the predominant covered cause control the outcome."
   },
   "elder-abuse-insurance": {
     "title": "Elder Abuse Statutes in Insurance Claims: Enhanced Remedies for Elderly and Dependent Adult Policyholders",
@@ -1454,16 +1439,6 @@
     "description": "A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: 10 CCR §2695.9(f)(1) prohibits labor depreciation in property claims. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.",
     "summary": "Can a service physically wear out? In California, the Fair Claims regulation (10 CCR §2695.9(f)(1)) prohibits depreciating labor in property claims. The only narrow exception is intrinsic labor in manufactured materials. The statutory ACV framework is at Cal. Ins. Code §2051(b). Challenge labor depreciation on every California claim where it appears."
   },
-  "labor-depreciation": {
-    "title": "Labor Depreciation: Why Your Insurance Company Can't Depreciate Work Costs",
-    "description": "In California, labor depreciation is prohibited by regulation: 10 CCR §2695.9(f)(1) bars carriers from treating labor as a component of physical depreciation. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn what labor depreciation is, the California prohibition, and how to challenge it on your claim.",
-    "summary": "California prohibits labor depreciation by regulation. 10 CCR §2695.9(f)(1) bars carriers from depreciating the labor portion of a repair or replacement estimate, except for intrinsic labor in manufactured materials. The statutory ACV framework is at Cal. Ins. Code §2051(b). Challenge labor depreciation on every claim where it appears."
-  },
-  "landlord-drug-contamination-claims": {
-    "title": "Drug Contamination Claims for California Landlords: Meth Labs, Fentanyl, Grow Operations, and the Insurance Path to Recovery",
-    "description": "When a tenant turns your rental property into a meth lab, a fentanyl-handling site, or an illegal cannabis grow operation, the cost to remediate routinely exceeds five figures and sometimes six. The path to insurance coverage runs through vandalism coverage, the innocent-landlord doctrine, and California’s Methamphetamine Contaminated Properties Cleanup Act. Here is how the analysis works, what an industrial hygienist actually does in these claims, what disclosure obligations attach going forward, and how to keep the carrier from defaulting to denial.",
-    "summary": "When a tenant turns your California rental into a meth lab, fentanyl site, or grow operation, remediation can run into six figures. Coverage usually runs through vandalism coverage, the innocent-landlord doctrine, and the Methamphetamine Contaminated Properties Cleanup Act."
-  },
   "landlord-duty-to-disclose": {
     "title": "Landlord's Duty to Disclose Building Conditions to Commercial Tenants",
     "description": "Asbestos, lead paint, mold history, prior water damage, roof age — what California landlords must disclose to commercial tenants, and how failure to disclose affects insurance claims and negligence actions.",
@@ -1828,11 +1803,6 @@
     "description": "Polybutylene and CPVC pipes fail without warning, causing catastrophic water damage. Learn how these pipe types affect insurance claims in California — coverage analysis, ensuing loss, code upgrades, and the sudden vs. gradual dispute.",
     "summary": "Polybutylene and CPVC pipes can fail suddenly, causing major water damage. Coverage turns on the sudden-versus-gradual distinction and the ensuing loss doctrine; document the abrupt failure, and code upgrades during repair may also be owed."
   },
-  "pool-spa-claims": {
-    "title": "Swimming Pool and Spa Insurance Claims: Coverage, Exclusions, and Common Disputes",
-    "description": "How swimming pools and spas are covered under homeowners insurance in California — Other Structures limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine.",
-    "summary": "Pools and spas fall under the limited Coverage B 'other structures,' and claims often involve equipment breakdown, freeze damage, earth movement, and resurfacing disputes. The efficient proximate cause doctrine can restore coverage when a covered peril is the real cause."
-  },
   "post-disaster-scams": {
     "title": "Post-Disaster Fraud and Scams: Protecting Yourself After a Loss",
     "description": "After a disaster, scammers target vulnerable homeowners. Learn how to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other common scams — and how to protect yourself.",
@@ -1987,11 +1957,6 @@
     "title": "The Reservation of Rights Letter: What It Means and What to Do",
     "description": "A guide to reservation of rights (ROR) letters in California insurance claims. Learn what an ROR letter means, how it differs from a denial, the duty to defend, Cumis counsel, waiver and estoppel, and what policyholders should do when they receive one.",
     "summary": "A reservation of rights letter says the insurer will handle the claim while reserving the right to later deny coverage. It is not a denial. It can trigger a duty to defend and, in liability cases, your right to independent (Cumis) counsel; respond carefully."
-  },
-  "reservation-of-rights": {
-    "title": "Reservation of Rights Letters: What They Mean and How to Respond",
-    "description": "What a reservation of rights letter means for your insurance claim, why carriers send them, how to respond, and when an ROR letter signals potential bad faith under California law.",
-    "summary": "A reservation of rights letter lets the carrier investigate while preserving the right to deny later. Know why they send it, how to respond, and that an improper or pretextual ROR can itself signal bad faith under California law."
   },
   "reserve-reinsurance-discovery": {
     "title": "Discovering Claim Reserves and Reinsurance Arrangements in Insurance Litigation",
@@ -2198,11 +2163,6 @@
     "description": "Retirees who split time between two homes face unique insurance traps: vacancy exclusions, the \"where you reside\" definition, frozen pipe denials, and mismatched policy types. Learn how the six-month vacancy problem works, what endorsements exist, and how to protect your seasonal property.",
     "summary": "Owners who split time between two homes risk vacancy and unoccupancy exclusions that can gut coverage when a home sits empty for months. Know your policy's vacancy rules and consider an endorsement to protect a seasonal or snowbird property."
   },
-  "social-media-claims": {
-    "title": "Social Media and Insurance Claims: What Policyholders Need to Know",
-    "description": "How insurance companies use social media, satellite imagery, and digital evidence to investigate property claims — and what policyholders should know to protect themselves.",
-    "summary": "Insurers mine social media, satellite imagery, and digital evidence to investigate and challenge property claims. Be mindful of what you post during a claim, since photos or comments can be taken out of context to dispute your loss."
-  },
   "social-media-insurance-claims": {
     "title": "Social Media and Your Insurance Claim: What Policyholders Actually Need to Know",
     "description": "A nuanced guide to social media during property insurance claims. Covers SIU monitoring, what posts can hurt your claim, what is perfectly fine, ALE and travel, discoverability in litigation, and practical guidance for policyholders.",
@@ -2288,11 +2248,6 @@
     "description": "When property changes hands in a subject-to transaction, the seller's insurance may be worthless and the buyer may have no coverage at all. Insurable interest, concealment, due-on-sale clauses, and the coverage gap that destroys families.",
     "summary": "In a 'subject-to' transaction, the buyer takes title but the seller's policy may be void and the buyer may have no coverage at all, due to insurable-interest and concealment problems. This gap can leave a family uninsured after a loss; arrange proper coverage at transfer."
   },
-  "subrogation-insurance-claims": {
-    "title": "Subrogation in Insurance Claims: What Policyholders Need to Know",
-    "description": "A guide to subrogation in property insurance claims — the made whole doctrine, duty to cooperate, anti-subrogation rule, deductible recovery, and how subrogation investigations affect your claim timeline and settlement.",
-    "summary": "Subrogation is your insurer's right to recover from the party that caused your loss after paying you. The made-whole doctrine, your duty to cooperate, and deductible recovery all affect you, and a subrogation investigation can lengthen your timeline."
-  },
   "subrogation": {
     "title": "Subrogation in Property Insurance: Your Right to Recover What the Insurer Won’t",
     "description": "How subrogation works in California property insurance claims, your insurer’s duty to notify you, deductible recovery, the made-whole doctrine, and what happens when the insurance company sits on its hands.",
@@ -2338,11 +2293,6 @@
     "description": "How insurers systematically undervalue properties at policy inception, leaving entire classes of policyholders underinsured when losses occur, and the class action litigation that has followed.",
     "summary": "Insurers often undervalue homes at policy inception, leaving whole classes of policyholders underinsured when disaster strikes. This pattern has driven class-action litigation challenging the carriers' replacement-cost estimating practices."
   },
-  "tax-consequences-insurance-settlements": {
-    "title": "Tax Consequences of Insurance Claim Settlements",
-    "description": "A guide to the tax implications of insurance claim proceeds — when payouts are taxable, when they are not, involuntary conversion rules, business income, casualty loss deductions, and California-specific considerations.",
-    "summary": "Insurance proceeds are sometimes taxable and sometimes not. Involuntary-conversion rules can defer gain on a destroyed home, business income payouts are taxable, and casualty-loss deductions may apply. Know the rules, and consult a tax professional."
-  },
   "tax-implications-insurance-settlements": {
     "title": "Tax Implications of Insurance Claim Settlements",
     "description": "A guide to the tax treatment of insurance claim proceeds — what is taxable, what is not, how to defer gains, and how to deduct unreimbursed casualty losses. Written for policyholders and the attorneys who represent them.",
@@ -2362,11 +2312,6 @@
     "title": "Tenant Improvements and Betterments: Coverage Across Commercial, Condo, Flood, and Renters Policies",
     "description": "A guide to tenant improvements and betterments coverage across commercial property policies (ISO CP 00 10), HO-6 condo policies, NFIP flood insurance, and HO-4 renters insurance &mdash; including valuation methods, common disputes, and how to protect your interest before a loss occurs.",
     "summary": "Tenant improvements and betterments, the upgrades a tenant adds to leased space, are covered differently across commercial (ISO CP 00 10), HO-6 condo, NFIP flood, and HO-4 renters policies. Know who insures them and how they are valued before a loss."
-  },
-  "tenant-landlord-claims": {
-    "title": "Tenant vs. Landlord Insurance Claims: Who Files, Who Pays, and Who Gets Left Out",
-    "description": "Landlord policies and renter’s policies cover different things. When a loss occurs at a rental property, who files for what? Learn the coverage gaps, CA Civil Code duties, and how to avoid being the one left without a check.",
-    "summary": "A landlord's policy covers the building; a renter's policy covers the tenant's belongings and liability. When a loss hits a rental, knowing who files for what, plus California Civil Code duties, prevents someone from being left without a check."
   },
   "tenant-roof-leak-coverage-gap": {
     "title": "Roof Leaks in Leased Commercial Space: The Coverage Gap That Destroys Businesses",
@@ -2523,11 +2468,6 @@
     "description": "How the insurance industry spent hundreds of millions turning injured people into villains — and how that narrative directly undermines your insurance claim today. The real story of Stella Liebeck, the funding behind tort reform, and what it means for policyholders.",
     "summary": "A decades-long, well-funded tort-reform campaign reframed injured claimants as greedy villains (the misrepresented Stella Liebeck case is the classic example). That narrative quietly biases adjusters and juries against your legitimate claim today."
   },
-  "virtual-inspections-remote-adjusting": {
-    "title": "Virtual Inspections and Remote Adjusting: How Desk Claims Affect Your Payout",
-    "description": "How the shift to virtual inspections, desk adjusting, and remote claim handling affects property insurance claim outcomes — and what policyholders can do to protect their interests.",
-    "summary": "Virtual inspections and desk adjusting let carriers assess damage without visiting, which often misses or understates damage. Insist on a thorough inspection, supply your own detailed photos and documentation, and challenge a payout based on remote review."
-  },
   "virus-bacteria-exclusion-covid": {
     "title": "The Virus and Bacteria Exclusion: How ISO CP 01 40 Killed Most COVID Business Interruption Claims",
     "description": "History and analysis of the ISO CP 01 40 virus and bacteria exclusion, its role in COVID-19 business interruption claim denials, key court decisions, the direct physical loss debate, and lessons for future pandemic planning.",
@@ -2622,11 +2562,6 @@
     "title": "The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret",
     "description": "What a White waiver is, why insurers ask you to sign one, whether you should, and how to protect yourself — based on the landmark California Supreme Court decision White v. Western Title Insurance Co.",
     "summary": "Insurers sometimes ask you to sign a White waiver to keep settlement talks secret, which can waive your ability to cite those communications in a bad-faith case. Based on White v. Western Title, weigh carefully whether to sign."
-  },
-  "white-waiver": {
-    "title": "The White Waiver: California's Settlement-Privilege Waiver Explained",
-    "description": "What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.",
-    "summary": "The White waiver, from White v. Western Title (1985), waives California's settlement-communication privilege so settlement talks can be used as evidence. Insurers request it for their protection; know what you are giving up before agreeing."
   },
   "wildfire-guide": {
     "title": "California Wildfire Claims: A Complete Guide",

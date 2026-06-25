@@ -57,6 +57,72 @@ const nextConfig = {
       destination: '/resources/three-trade-rule',
       permanent: true,
     },
+    // Tier 1 cannibalization cleanup (2026-06-24): 13 near-duplicate merges
+    {
+      source: '/resources/efficient-proximate-cause',
+      destination: '/resources/efficient-proximate-cause-doctrine',
+      permanent: true,
+    },
+    {
+      source: '/resources/tenant-landlord-claims',
+      destination: '/resources/landlord-vs-tenant-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/virtual-inspections-remote-adjusting',
+      destination: '/resources/desk-adjusting-remote-estimates',
+      permanent: true,
+    },
+    {
+      source: '/resources/ai-claims-handling-policyholder-rights',
+      destination: '/resources/insurance-ai-automated-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/white-waiver',
+      destination: '/resources/white-waiver-settlement-confidentiality',
+      permanent: true,
+    },
+    {
+      source: '/resources/landlord-drug-contamination-claims',
+      destination: '/resources/drug-contamination-landlord-claims',
+      permanent: true,
+    },
+    {
+      source: '/resources/pool-spa-claims',
+      destination: '/resources/swimming-pool-damage',
+      permanent: true,
+    },
+    {
+      source: '/resources/labor-depreciation',
+      destination: '/resources/labor-depreciation-debate',
+      permanent: true,
+    },
+    {
+      source: '/resources/subrogation-insurance-claims',
+      destination: '/resources/subrogation',
+      permanent: true,
+    },
+    {
+      source: '/resources/reservation-of-rights',
+      destination: '/resources/reservation-of-rights-letter',
+      permanent: true,
+    },
+    {
+      source: '/resources/cdi-complaint',
+      destination: '/resources/file-cdi-complaint-guide',
+      permanent: true,
+    },
+    {
+      source: '/resources/tax-consequences-insurance-settlements',
+      destination: '/resources/tax-implications-insurance-settlements',
+      permanent: true,
+    },
+    {
+      source: '/resources/social-media-claims',
+      destination: '/resources/social-media-insurance-claims',
+      permanent: true,
+    },
   ],
   headers: async () => [
     {
