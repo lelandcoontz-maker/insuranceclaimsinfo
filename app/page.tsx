@@ -138,23 +138,26 @@ export default function HomePage() {
   return (
     <>
       {/* ── Hero ──────────────────────────────────────────────────────────── */}
-      <section className="bg-[#1F3964] text-white py-20 px-4">
+      <section className="bg-[#1F3964] text-white py-14 px-4">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-block bg-[#C9A84C] text-white text-xs font-bold px-3 py-1 rounded-full mb-6 tracking-wider uppercase">
             California Insurance Claim Help
           </div>
-          <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-6">
+          <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-5">
             Everything Your Insurance Company<br className="hidden sm:block" />
             <span className="text-[#C9A84C]">Hopes You Never Learn</span>
           </h1>
-          <p className="text-xl text-blue-200 max-w-2xl mx-auto mb-10 leading-relaxed">
+          <p className="text-xl text-blue-200 max-w-2xl mx-auto mb-8 leading-relaxed">
             Free tools, plain-English guides, and licensed professional help for California
             homeowners and business owners navigating insurance claims after fire, vandalism,
             theft, smoke damage, or other disaster.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap">
             <Link href="/inventory" className="btn-gold text-base px-8 py-4">
-              Build My Personal Property (Contents) Inventory — Free
+              Build My Free Inventory
+            </Link>
+            <Link href="/resources" className="btn-secondary border-white text-white hover:bg-white/10 text-base px-8 py-4">
+              Browse 500+ Claim Guides
             </Link>
             <Link href="/contact" className="btn-secondary border-white text-white hover:bg-white/10 text-base px-8 py-4">
               Talk to a Public Adjuster
@@ -185,7 +188,7 @@ export default function HomePage() {
       </section>
 
       {/* ── What's Your Situation? ────────────────────────────────────────── */}
-      <section className="py-14 px-4">
+      <section className="py-10 px-4">
         <div className="max-w-5xl mx-auto">
           <h2 className="section-heading text-center">What&apos;s Your Situation?</h2>
           <p className="text-center text-gray-500 mb-8 max-w-xl mx-auto">
