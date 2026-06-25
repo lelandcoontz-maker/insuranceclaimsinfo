@@ -20,6 +20,7 @@ import type { ContentRoom, ItemDetail } from '@/lib/types'
 import { useInventory } from '@/lib/hooks/useInventory'
 import { LeadGateModal } from './LeadGateModal'
 import { exportToExcel } from '@/lib/utils/excel-export'
+import { trackEvent } from '@/lib/analytics'
 
 interface Props {
   rooms: ContentRoom[]
@@ -193,10 +194,15 @@ export function InventoryTool({ rooms }: Props) {
   const handleDownload = useCallback(() => {
     if (leadCaptured) {
       exportToExcel(rooms, state, leadCaptured.name)
+      trackEvent('inventory_download', {
+        checked_items: totalChecked,
+        estimated_value: totalValue,
+        returning_lead: true,
+      })
     } else {
       setShowLeadGate(true)
     }
-  }, [leadCaptured, rooms, state])
+  }, [leadCaptured, rooms, state, totalChecked, totalValue])
 
   const handleLeadSubmit = useCallback(async (firstName: string, email: string, wantsReview: boolean) => {
     try {
@@ -219,6 +225,17 @@ export function InventoryTool({ rooms }: Props) {
     setLeadCaptured({ name: firstName, email })
     setShowLeadGate(false)
     exportToExcel(rooms, state, firstName)
+    trackEvent('generate_lead', {
+      source: 'inventory-tool',
+      wants_review: wantsReview,
+      checked_items: totalChecked,
+      estimated_value: totalValue,
+    })
+    trackEvent('inventory_download', {
+      checked_items: totalChecked,
+      estimated_value: totalValue,
+      returning_lead: false,
+    })
   }, [rooms, state, totalChecked, totalValue])
 
   return (

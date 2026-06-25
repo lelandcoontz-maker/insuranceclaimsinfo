@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import { CheckCircle2, BadgeCheck, Banknote, CalendarDays, Lock, MapPin, Globe, Briefcase, Clock, Navigation } from 'lucide-react'
+import { trackEvent } from '@/lib/analytics'
 
 const US_STATES = [
   'Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware',
@@ -54,6 +55,11 @@ export default function ContactPage() {
           message: form.message,
           timestamp: new Date().toISOString(),
         }),
+      })
+      trackEvent('generate_lead', {
+        source: 'contact-form',
+        claim_state: form.state || 'unspecified',
+        claim_type: form.claimType || 'unspecified',
       })
       setSubmitted(true)
     } catch {
