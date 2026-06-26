@@ -120,7 +120,7 @@ export default function Content() {
         dozen or more, drawn from every level of government &mdash; city, county, state, and
         federal &mdash; all converging on the same conclusion: porous building materials
         saturated with human blood and decomposition fluids must be removed. There is no
-        &ldquo;clean and seal&rdquo; option. There is no shortcut.
+        reliable clean-and-seal option for porous materials saturated with biological fluids.
       </p>
 
       <CalloutBox variant="important" title="The Science Is Clear">
@@ -171,10 +171,9 @@ export default function Content() {
         2. Accusations of Fraud Are Used as Leverage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The fraud threat was not based on evidence of dishonest intent. It was based on the
-        adjuster&rsquo;s disagreement with the scope of work. When an insurance company accuses
-        a contractor or policyholder of fraud, it often has less to do with actual fraud and
-        more to do with the company&rsquo;s desire to reduce what it pays.
+        In this matter the fraud threat was not based on evidence of dishonest intent. It was
+        based on the adjuster&rsquo;s disagreement with the scope of work. The earlier callout
+        on this dynamic captures the broader pattern; this is a concrete example of it.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -213,11 +212,12 @@ export default function Content() {
       </p>
 
       <CalloutBox variant="tip" title="For Contractors in Preferred Vendor Programs">
-        If your preferred vendor agreement requires you to cut corners on biohazard remediation,
-        the agreement is asking you to violate OSHA, IICRC, and state health regulations. No
-        vendor program is worth your license, your liability exposure, or someone&rsquo;s health.
-        Document everything, follow the science, and get an independent expert opinion if the
-        adjuster pushes back.
+        A preferred vendor agreement that asks the contractor to cut corners on biohazard
+        remediation is asking the contractor to depart from OSHA, IICRC, and state health
+        standards. No vendor program is worth a license, the liability exposure, or
+        someone&rsquo;s health. Contractors in this position might consider documenting
+        everything, following the applicable standards, and getting an independent expert
+        opinion before the adjuster&rsquo;s pushback becomes a fraud accusation.
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -245,10 +245,12 @@ export default function Content() {
       </p>
 
       <CalloutBox variant="important" title="Need Help with a Biohazard or Remediation Dispute?">
-        If you are a contractor or policyholder facing a dispute over biohazard remediation,
-        crime scene cleanup, or any insurance claim where the carrier is challenging the scope
-        of necessary work, consult with a licensed Public Adjuster or an industrial hygienist
-        before accepting the insurance company&rsquo;s position.
+        Contractors and policyholders facing a dispute over biohazard remediation, crime-scene
+        cleanup, or any insurance claim where the carrier is challenging the scope of necessary
+        work might consider consulting with a licensed Public Adjuster or an industrial hygienist
+        before accepting the carrier&rsquo;s position. A public adjuster may also identify issues
+        that warrant consultation with an attorney. Most public adjusters and attorneys will
+        provide a free consultation.
       </CalloutBox>
 
       <CalloutBox variant="legal" title="Important Notice">

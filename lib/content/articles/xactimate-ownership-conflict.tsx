@@ -36,10 +36,10 @@ export default function Content() {
         from keeping your claim payment as low as possible.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That does not mean the software is rigged. It means you should understand the ownership
-        structure, think critically about the incentives at play, and never accept an
-        Xactimate-generated number without independent verification. Here is how the ownership
-        chain works and what it means for your property damage claim.
+        That does not mean the software is rigged. It means it is worth understanding the
+        ownership structure, thinking critically about the incentives at play, and treating an
+        Xactimate-generated number as a position rather than the final answer. Here is how the
+        ownership chain works and what it means for a property damage claim.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -68,21 +68,42 @@ export default function Content() {
         forms and modify them as needed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Over the years, those standardized forms have been revised repeatedly. The revisions have
-        followed a consistent pattern: narrowing coverages, adding exclusions, tightening conditions,
-        and introducing endorsements that limit what policyholders can recover. This is not a secret
-        or a conspiracy theory. It is documented industry history that has been the subject of
-        criticism from consumer advocates, regulators, and even industry commentators since at least
-        the 1990s. Each new ISO form revision tends to reduce carrier exposure in some way.
+        Over the years, those standardized forms have been revised repeatedly. Policyholder
+        advocates have argued that the revisions have followed a consistent pattern: narrowing
+        coverages, adding exclusions, tightening conditions, and introducing endorsements that
+        limit what policyholders can recover. Consumer-advocacy organizations such as{' '}
+        <a
+          href="https://uphelp.org"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#2E74B5] underline"
+        >
+          United Policyholders
+        </a>{' '}
+        and the{' '}
+        <a
+          href="https://consumerfed.org"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#2E74B5] underline"
+        >
+          Consumer Federation of America
+        </a>{' '}
+        have made versions of this argument for decades. Whether one accepts the framing or not,
+        each ISO form revision is a chance for the standardized language to move in a direction
+        that affects coverage scope.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Verisk went public in 2009, but its origin as an insurance industry cooperative is
         important context. Before the IPO, ISO was owned by and operated for the benefit of
-        insurance carriers. After the IPO, Verisk became a publicly traded company — but its
-        principal shareholders and largest revenue sources remain insurance carriers. The insurance
-        industry does not merely use Verisk&apos;s products. It built the company, funded it for
-        decades before it went public, and continues to be its overwhelmingly dominant customer
-        base.
+        insurance carriers. After the IPO, Verisk&apos;s shareholder base shifted to public-market
+        institutional investors (Vanguard, BlackRock, T. Rowe Price, and similar holders). Its
+        customer base and revenue, however, still come overwhelmingly from the insurance industry
+        &mdash; especially after Verisk&apos;s 2022&ndash;2023 divestitures of its Financial
+        Services and 3E business lines, which concentrated the company even further around
+        insurance and insurance-adjacent products. The insurance industry built the company,
+        funded it for decades before it went public, and remains its overwhelmingly dominant
+        customer base today.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         So here is the chain, laid out plainly: Insurance carriers are Xactimate&apos;s largest
@@ -103,12 +124,13 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         First and most importantly, ISO creates the standard policy forms used by the majority of
-        property and casualty insurers in the United States. When you buy a homeowners policy, there
-        is a strong chance the core form was written by ISO and licensed to your carrier. The HO-3
-        (the most common homeowners form), the HO-5 (open perils on contents), the commercial
-        property forms, the inland marine forms, the umbrella forms — these are ISO products. Your
-        carrier may add endorsements or modify certain provisions, but the skeleton of your policy
-        likely came from ISO.
+        property and casualty insurers in the United States. When an insured buys a homeowners
+        policy, there is a strong chance the core form was written by ISO and licensed to the
+        carrier. The HO-3 (the most common homeowners form, open perils on the dwelling and named
+        perils on personal property), the HO-5 (comprehensive &mdash; open perils on both dwelling
+        and personal property), the commercial property forms, the inland marine forms, the
+        umbrella forms &mdash; these are ISO products. A carrier may add endorsements or modify
+        certain provisions, but the skeleton of the policy likely came from ISO.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Second, ISO develops statistical data, actuarial tables, and risk classification systems
@@ -261,122 +283,142 @@ export default function Content() {
         limitations, verify its outputs, and use it properly rather than accepting it uncritically.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        What it does mean is this: you should treat an Xactimate estimate from your insurance
-        company as a starting point, not a final answer. You should verify the numbers
-        independently. You should get opinions from people who do not have a financial interest in
-        the number being low. And you should understand that the tool producing that number was
-        built within an ecosystem where the paying customers benefit from lower outputs. Healthy
-        skepticism is appropriate. Blind trust is not.
+        What it does mean is this: an Xactimate estimate from an insurance company is best
+        treated as a starting point, not a final answer. Many policyholders verify the numbers
+        independently, get opinions from people who do not have a financial interest in the
+        number being low, and bear in mind that the tool producing the number was built within an
+        ecosystem where its paying customers benefit from lower outputs. Healthy skepticism is
+        appropriate. Blind trust is not.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        What You Should Do
+        What an Insured Might Consider
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Understanding the ownership conflict is useful background, but only if it changes how you
-        handle your claim in practice. Here are the concrete steps you should take.
+        Understanding the ownership conflict is useful background, but only if it changes how a
+        claim is handled in practice. The patterns below are what many policyholders, public
+        adjusters, and independent contractors fall back on.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Never Accept the Carrier&apos;s Estimate as the Final Word
+        Treat the Carrier&apos;s Estimate as a Position, Not the Final Word
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The estimate your insurance company gives you is their opening position. It is the number
-        they would like to pay — not necessarily the number they owe. Your policy does not say they
-        owe you whatever Xactimate says. It says they owe you what it actually costs to repair or
-        replace your property. Those are different things, and the gap between them can be tens of
-        thousands of dollars.
+        The estimate the insurance company provides is its opening position. It is the number the
+        carrier would like to pay &mdash; not necessarily the number it owes. A typical
+        replacement-cost policy obligates the carrier to pay what it actually costs to repair or
+        replace the property (subject to limits, deductible, and applicable depreciation). It does
+        not obligate the carrier to pay whatever Xactimate says. Those are different things, and
+        the gap between them can be tens of thousands of dollars.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a carrier presents their Xactimate estimate with an air of finality — as if the
-        software has spoken and the matter is settled — remember that the software was paid for by
-        the entity handing you that number. Of course they are satisfied with what it produced. The
-        question is whether you should be.
+        When a carrier presents an Xactimate estimate with an air of finality, it is worth
+        remembering that the software was paid for by the entity handing over that number.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Get Independent Contractor Bids
+        Independent Contractor Bids
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Get two or three written bids from licensed contractors who are not affiliated with your
-        insurance company. Do not use the carrier&apos;s &quot;preferred vendor&quot; or
-        &quot;managed repair&quot; list — those contractors have a financial relationship with the
-        carrier, receive referrals in exchange for keeping prices within carrier guidelines, and
-        face real pressure to keep their numbers in line with what the carrier wants to pay.
+        Many policyholders gather two or three written bids from licensed contractors who are not
+        affiliated with the insurance company. Carrier &ldquo;preferred vendor&rdquo; or
+        &ldquo;managed repair&rdquo; programs typically come with their own dynamics &mdash; those
+        contractors have a financial relationship with the carrier, often receive referrals tied
+        to staying within carrier pricing guidelines, and face pressure to keep numbers in line
+        with what the carrier wants to pay.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Go find your own contractors. Describe the full scope of work — not just the rooms listed
-        in the carrier&apos;s estimate, but the full scope of what was damaged. Get real-world
-        pricing from people who will actually do the work for the number they quote. Those bids are
-        evidence of actual repair cost that your carrier must consider.
+        Independent bids that describe the full scope of work &mdash; not just the rooms listed in
+        the carrier&apos;s estimate, but the full scope of what was damaged &mdash; tend to be
+        the strongest evidence of actual repair cost. Real-world pricing from contractors who
+        will actually perform the work for the number quoted is evidence the carrier is generally
+        required to consider.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
         Request the ESX File
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The ESX file is the native Xactimate file — the actual electronic estimate, not the PDF
-        printout your adjuster hands you. When you have the ESX file, a qualified professional can
-        open it in Xactimate and see exactly what line items were included, what was left out, what
+        The ESX file is the native Xactimate file &mdash; the actual electronic estimate, not the
+        PDF printout an adjuster hands over. With the ESX file open in Xactimate, a qualified
+        professional can see exactly what line items were included, what was left out, what
         pricing was used, what waste factors were applied, and whether any manual overrides were
-        imposed. The PDF alone does not give you this level of detail.
+        imposed. The PDF alone does not give this level of detail.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Ask your carrier for the ESX file. Under California&apos;s Fair Claims Settlement Practices
-        Regulations, the carrier must provide you with documentation supporting their coverage
-        decisions. The ESX file is the foundation of their estimate and you are entitled to receive
-        it. If they refuse or claim they cannot provide it, that refusal itself may be a regulatory
-        violation worth reporting to the California Department of Insurance.
+        Many policyholders request the ESX file in writing. Under the California Fair Claims
+        Settlement Practices Regulations &mdash; specifically 10 CCR &sect; 2695.7(b)(1)
+        (requiring the insurer to state the basis for any denial, reduction, or unfavorable
+        decision in writing) and &sect; 2695.5 (responsiveness to communications) &mdash; the
+        carrier owes the insured the reasoning behind its estimate. Many carriers will produce the
+        ESX file on request. A refusal to share the supporting documentation may raise questions
+        worth surfacing in a written follow-up or, if appropriate, with the California Department
+        of Insurance.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Hire Someone Who Works for You
+        A Review by Someone Whose Side of the Table You&apos;re On
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A{' '}
         <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
           Public Adjuster
         </Link>{' '}
-        or a certified estimator who works for you — not the carrier — can review the estimate with
-        your interests in mind. They are looking for missing line items, incorrect measurements,
-        wrong material specifications, underpriced labor, omitted trades, and scope that was never
-        documented. They have no incentive to keep the number low. Their incentive runs in the
-        opposite direction: to make sure the estimate reflects what the repairs will actually cost
-        so that you recover what your policy entitles you to.
+        or a certified estimator working for the insured &mdash; not the carrier &mdash; can
+        review the estimate with the insured&apos;s interests in mind. Common findings:
+        missing line items, incorrect measurements, wrong material specifications, underpriced
+        labor, omitted trades, and scope that was never documented. The economic incentive runs in
+        the opposite direction from the carrier&apos;s estimator: producing an estimate that
+        reflects what the repairs will actually cost.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A Public Adjuster licensed by the state works exclusively for policyholders. They cannot
-        work for carriers. Their license prohibits it. When they review your Xactimate estimate,
-        they are looking at it from your side of the table — not the carrier&apos;s.
+        California public adjusters are licensed under Insurance Code &sect;&sect; 15000 et seq.
+        and may only represent the insured. They are statutorily barred from representing the
+        carrier in the same claim.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Remember What Your Policy Actually Says
+        What the Policy Actually Says
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Your insurance policy obligates the carrier to pay what it costs to repair or replace your
-        damaged property (subject to your limits, deductible, and applicable depreciation). It does
-        not say they owe whatever a software program calculates. It does not say they owe whatever
-        their adjuster writes down. It does not reference Xactimate by name or incorporate its
-        pricing by reference.
+        A typical replacement-cost policy obligates the carrier to pay what it costs to repair or
+        replace damaged property (subject to limits, deductible, and applicable depreciation). It
+        does not obligate the carrier to pay whatever a software program calculates. It does not
+        reference Xactimate by name or incorporate its pricing by reference.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Xactimate is a tool. It is not your policy. It is not the law. It is not a binding
-        arbitration. If the actual cost to repair your home exceeds what Xactimate says — and it
-        frequently does — your carrier still owes the actual cost. The software is not a cap on
-        your recovery. Do not let anyone tell you otherwise.
+        Xactimate is a tool, not the policy and not the law. If the actual cost to repair the
+        property exceeds what Xactimate says &mdash; and it frequently does &mdash; the
+        carrier&apos;s obligation runs to the actual cost, not the software output. The software
+        is not a cap on recovery.
       </p>
 
-      <CalloutBox variant="info" title="Xactimate's Own Disclaimer">
+      <CalloutBox variant="legal" title="Xactimate's Own Disclaimer (Verisk EULA)">
         <p>
-          Xactimate itself disclaims pricing accuracy in its end-user license agreement. The
-          software company states that its prices represent a &quot;baseline&quot; and should not be
-          relied upon as the definitive cost of repairs in any particular market or for any
-          particular project. In other words, even the company that makes the tool tells you not to
-          treat its output as gospel. If Verisk itself does not guarantee the accuracy of its own
-          pricing — if the manufacturer disclaims the precision of its own product — your carrier
-          has no basis to insist that Xactimate&apos;s number is the final word on what your
-          repairs cost.
+          Xactware disclaims pricing accuracy in its end-user license agreement for Xactimate. The
+          relevant passage reads:
+        </p>
+        <p className="italic mt-2">
+          We do not warrant the accuracy of pricing information in the Price Data. Price Data is
+          intended to represent historical information and should be used as a baseline or place
+          to begin creation of an estimate. We provide Price Data for informational purposes only.
+          We may not update every price every month. You must ensure that estimates include
+          pricing consistent with actual materials, equipment, labor pricing, etc.
+        </p>
+        <p className="mt-2">
+          Source:{' '}
+          <a
+            href="https://www.verisk.com/privacy-policies/xactware-eula/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#2E74B5] underline"
+          >
+            Verisk Xactware End User License Agreement
+          </a>. The manufacturer&apos;s own language describes Xactimate Price Data as a
+          &ldquo;baseline,&rdquo; not a definitive current-market figure, and places responsibility
+          on the user to verify pricing against actual conditions. That is a meaningful framing
+          point when a carrier insists their Xactimate output is the final word on what a repair
+          costs.
         </p>
       </CalloutBox>
 
@@ -397,10 +439,11 @@ export default function Content() {
         It means you treat the carrier&apos;s estimate as their position, not as objective truth.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When you receive an Xactimate estimate from your carrier, read it carefully. Ask questions.
-        Get independent verification. And never forget that the entity handing you that number has
-        a direct financial interest in making it as small as possible — and so does the company
-        that built, owns, and maintains the software that produced it.
+        When an insured receives an Xactimate estimate from the carrier, it is worth reading
+        carefully, asking questions, and getting independent verification. The carrier handing
+        over that number has a direct financial interest in making it as small as possible, and
+        the software that produced it was built within an ecosystem where its paying customers
+        benefit from lower outputs. That is not an allegation of intent; it is the structure.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

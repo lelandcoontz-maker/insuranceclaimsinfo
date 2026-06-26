@@ -28,8 +28,12 @@ export default function Content() {
         <Link href="/resources/iso-insurance-services-office" className="text-[#2E74B5] hover:underline">ISO</Link>
         ) maintains a program called the Building Code Effectiveness Grading Schedule, or BCEGS,
         that evaluates communities on a 1-to-10 scale based on the strength of their building codes
-        and the rigor of their code enforcement. This rating directly influences property insurance
-        pricing and has indirect but significant effects on claim outcomes.
+        and the rigor of their code enforcement. BCEGS is fundamentally an underwriting and rating
+        tool &mdash; insurers use the classification as one input into property insurance pricing.
+        Its downstream effect on individual claims runs through two indirect channels: the buildings
+        in better-graded communities tend to be more resilient (smaller losses on average), and the
+        gap between as-built construction and current code tends to be wider in those communities
+        (which makes ordinance-or-law coverage more important).
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -114,25 +118,28 @@ export default function Content() {
         earthquakes, fire, and other hazards. Lower expected losses translate to lower premiums.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The premium impact varies by insurer and by line of business, but as a general matter:
+        ISO&apos;s BCEGS premium credits are filed by carrier, line of business, and state, with
+        finer-grained classes than a simple three-tier split. As an illustrative simplification
+        only, BCEGS credits generally favor lower-numbered classes:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          Communities with BCEGS scores of 1 through 3 may qualify for the most favorable premium
-          treatment, reflecting strong code adoption and enforcement.
+          Communities with BCEGS scores of 1 through 3 tend to qualify for the most favorable
+          premium treatment, reflecting strong code adoption and enforcement.
         </li>
         <li>
-          Communities with scores of 4 through 7 fall in a middle range where the premium effect
-          is moderate.
+          Communities with scores of 4 through 7 typically fall in a middle range where the
+          premium effect is moderate.
         </li>
         <li>
-          Communities with scores of 8 through 10 may face higher premiums, reflecting weaker
-          codes or enforcement that increases the expected cost of future losses.
+          Communities with scores of 8 through 10 may face higher premiums. Class 10 historically
+          denotes non-participating jurisdictions (no published code or no information submitted)
+          rather than simply &ldquo;the weakest tier.&rdquo;
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The premium difference between a community with a BCEGS score of 2 and one with a score
-        of 8 can be meaningful, particularly for commercial properties and in regions prone to
+        The premium difference between a community at the top of the schedule and one near the
+        bottom can be meaningful, particularly for commercial properties and in regions prone to
         windstorm or seismic events. Policyholders in well-graded communities benefit from the
         collective investment their community has made in building safety &mdash; even if they
         are not aware of it.
@@ -157,8 +164,9 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Wind:</strong> Modern wind load requirements, hurricane strap provisions, and
-          roof-to-wall connection standards dramatically reduce wind damage. Studies after major
-          hurricanes have consistently shown that buildings constructed under modern codes sustain
+          roof-to-wall connection standards reduce wind damage. Post-event field studies by the
+          Insurance Institute for Business &amp; Home Safety (IBHS) and FEMA Mitigation Assessment
+          Teams have repeatedly documented that buildings constructed under modern codes sustain
           less damage than those built under older standards.
         </li>
         <li>
@@ -259,24 +267,25 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Why Code Upgrade Coverage Is Critical
+        Why Code Upgrade Coverage Tends to Matter
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Regardless of the community&apos;s BCEGS score, every property owner should carry adequate{' '}
-        <Link href="/resources/code-upgrade-coverage" className="text-[#2E74B5] hover:underline">code upgrade coverage</Link>.
-        The need is actually greater in communities with strong codes, because the gap between the
-        original construction standard and the current code is likely to be wider. A building
-        constructed in 1990 under the code in effect at that time and located in a community that
-        has aggressively adopted new code editions may face hundreds of thousands of dollars in
-        code upgrade costs after a major loss.
+        Regardless of the community&apos;s BCEGS score, it may be worth evaluating whether
+        existing{' '}
+        <Link href="/resources/code-upgrade-coverage" className="text-[#2E74B5] hover:underline">code upgrade coverage</Link>
+        {' '}is adequate. The need tends to be greater in communities with strong codes, because
+        the gap between the original construction standard and the current code is likely to be
+        wider. A building constructed in 1990 under the code in effect at that time and located
+        in a community that has aggressively adopted new code editions may face significant code
+        upgrade costs after a major loss.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Standard code upgrade endorsements provide coverage as a percentage of the dwelling limit
-        &mdash; commonly 10 to 25 percent. For older buildings in communities with strong current
-        codes, 10 percent may be inadequate. Policyholders should evaluate whether their code
-        upgrade coverage is sufficient based on the age of their building, the current code
-        requirements in their jurisdiction, and the potential scope of code-required improvements
-        if a major loss occurred.
+        Standard code upgrade endorsements typically provide coverage as a percentage of the
+        dwelling limit &mdash; commonly 10 to 25 percent. For older buildings in communities with
+        strong current codes, 10 percent may not be enough. You might consider reviewing whether
+        the code-upgrade endorsement on the policy is sized to the building&apos;s age, the
+        current code requirements in the jurisdiction, and the potential scope of code-required
+        improvements if a major loss occurred.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -314,26 +323,25 @@ export default function Content() {
         How to Find a Community&apos;s BCEGS Score
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        BCEGS classifications are maintained by ISO and are available to insurers through ISO&apos;s
-        rating services. Policyholders can sometimes find their community&apos;s BCEGS score by:
+        BCEGS classifications are maintained by ISO as a commercial product sold to insurers.
+        Unlike fire-protection class information, ISO does not publish a free consumer-facing
+        community-by-community BCEGS lookup. Policyholders can sometimes find their
+        community&apos;s BCEGS score by:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           Asking their insurance agent or broker, who can look up the classification through
-          ISO&apos;s tools
+          ISO&apos;s tools.
         </li>
         <li>
-          Contacting the local building department, which may know the community&apos;s
-          classification
-        </li>
-        <li>
-          Checking ISO&apos;s public resources for community classification information
+          Contacting the local building department, which may know its community&apos;s
+          classification.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         Understanding the community&apos;s BCEGS score provides context for premium comparisons
-        and helps policyholders appreciate the role that local building standards play in their
-        overall insurance cost structure.
+        and helps explain the role that local building standards play in the overall insurance
+        cost structure.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

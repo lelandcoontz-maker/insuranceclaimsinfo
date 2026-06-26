@@ -87,13 +87,21 @@ export default function Content() {
       </div>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The key distinction is this: an examination under oath is a policy condition. If the
-        insurer properly demands one and you refuse without justification, you may forfeit
-        coverage. A recorded statement, by contrast, is an informal request. The insurer&apos;s
-        duty to investigate your claim under 10 CCR &sect; 2695.7(b) is not contingent on
-        your agreement to be recorded. But as a practical matter, how you handle a recorded
-        statement request matters enormously. For the full discussion of EUOs, see our
-        article on{' '}
+        The key distinction is this: an examination under oath is a policy condition. Courts have
+        generally treated unjustified refusal of a properly demanded EUO as a basis for coverage
+        denial. A recorded statement, by contrast, is an informal request. The carrier&apos;s
+        underlying duty to investigate the claim runs through 10 CCR &sect; 2695.7(d):
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        Every insurer shall conduct and diligently pursue a thorough, fair and objective
+        investigation and shall not persist in seeking information not reasonably required for or
+        material to the resolution of a claim dispute.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        That duty exists regardless of whether the insured consents to being recorded. As a
+        practical matter, how an insured handles a recorded statement request still matters
+        materially to how the claim plays out. For the full discussion of EUOs, see the article
+        on{' '}
         <Link href="/resources/examination-under-oath" className="text-blue-700 underline hover:text-blue-900">
           examination under oath
         </Link>.
@@ -253,22 +261,21 @@ export default function Content() {
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3 mt-6">
-        Strategy 2: Consult an Attorney
+        Strategy 2: Consult an Attorney Beforehand
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A recorded statement is an informal process &mdash; it is not a deposition or an
-        examination under oath. With an EUO, the insurer&apos;s attorney is present, you
-        typically need your own attorney on the record, and everyone knows the lawyers are
-        in the room. A recorded statement is different. It is usually a phone call between
-        the adjuster and the insured.
+        examination under oath. With an EUO, the insurer&apos;s attorney is present, the insured
+        typically has counsel on the record, and everyone in the room knows the lawyers are
+        involved. A recorded statement is different. It is usually a phone call between the
+        adjuster and the insured.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Nothing prevents a policyholder from consulting with an attorney beforehand to
-        understand what to expect. And because a recorded statement is not a deposition,
-        there is no procedural rule governing who may be sitting next to you in your own
-        home during an informal phone call &mdash; or whether you happen to be taking the
-        call from your attorney&apos;s office. Whether that matters is a conversation to
-        have with your attorney.
+        Many policyholders consult with an attorney beforehand to understand what to expect.
+        Questions about how to structure the logistics of the call &mdash; including where to
+        take it and who, if anyone, should be present &mdash; are tactical questions for an
+        attorney to answer with the insured&apos;s particular policy and circumstances in mind.
+        Public adjusters do not provide that advice.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3 mt-6">
@@ -359,9 +366,10 @@ export default function Content() {
             and what you said. Your notes are your own record of the conversation.
           </li>
           <li>
-            <strong>Request a copy of the recording.</strong> You are entitled to a copy of
-            claim-related documents, and your own recorded statement is a claim-related
-            document. Ask for it in writing.
+            <strong>Request a copy of the recording in writing.</strong> Whether the carrier
+            provides it depends on carrier practice; many carriers will produce the recording or
+            transcript on request, and 10 CCR &sect; 2695.5 governs insurer responsiveness to
+            insured communications.
           </li>
         </ul>
       </div>
@@ -420,11 +428,11 @@ export default function Content() {
         insured&apos;s attorney is present and on the record.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you receive an EUO demand, you should retain an attorney. The insurer&apos;s
-        attorney will be asking questions designed to create a record, and you need someone
-        in your corner who understands the process and can protect your rights during the
-        examination. The insured is entitled to receive a copy of the transcript or
-        recording of the examination under oath.
+        An insured who receives an EUO demand should consider retaining an attorney. The
+        insurer&apos;s attorney will be asking questions designed to create a record, and having
+        counsel present helps protect the insured&apos;s position during the examination. Most
+        carriers will provide the insured with a copy of the EUO transcript or recording on
+        request.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         EUO demands are most common in claims involving:
@@ -451,16 +459,19 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Because recorded statements are typically conducted over the telephone,
-        California&apos;s two-party consent law is directly relevant. Under Penal Code
-        Section 632, both parties must consent to the recording of a confidential
-        communication. When the insurer asks for your consent to record at the beginning
-        of the call, that is the consent requirement being satisfied. You have the right
-        to decline the recording while still agreeing to the interview.
+        California&apos;s consent rule is directly relevant. Penal Code &sect; 632 applies to
+        the recording of a <strong>confidential communication</strong> &mdash; a defined
+        statutory term covering communications carrying a reasonable expectation that they will
+        not be overheard or recorded. When the adjuster asks for the insured&apos;s consent to
+        record at the beginning of the call, that is the consent question being put on the
+        record. An insured generally can offer to participate in the interview without
+        consenting to recording.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Conversely, if you want to record the call yourself, you must inform the adjuster
-        and obtain their consent. Recording without consent is a criminal offense in
-        California. For more on recording during insurance inspections, see our article on{' '}
+        Conversely, an insured who wishes to record the call should inform the adjuster and
+        obtain consent. Recording a confidential communication without all parties&apos;
+        consent can constitute a violation of Penal Code &sect; 632. For more on recording
+        during insurance inspections, see the article on{' '}
         <Link href="/resources/recording-insurance-inspections" className="text-blue-700 underline hover:text-blue-900">
           recording insurance company inspectors
         </Link>.

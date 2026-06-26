@@ -27,11 +27,11 @@ export default function Content() {
         Mold and Insurance: It Is Not as Simple as &quot;Excluded&quot;
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Few words cause more panic for homeowners filing an insurance claim than &quot;mold.&quot;
-        Insurance companies know this and often use the presence of mold to minimize or deny claims
-        entirely. But the reality is far more nuanced than a blanket exclusion. If you have a water
-        loss and mold develops as a result, you may have significantly more coverage than your
-        insurance company is telling you.
+        Few words cause more panic for homeowners filing an insurance claim than &ldquo;mold.&rdquo;
+        Carriers sometimes lean on the presence of mold to minimize or deny claims that ought to be
+        covered. The reality is more nuanced than a blanket exclusion. When an insured has a water
+        loss and mold develops as a result, the policy may provide significantly more coverage than
+        a quick read of the mold-exclusion language would suggest.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -45,33 +45,50 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Mold as an Ensuing Loss — Often Covered
+        Mold as an Ensuing Loss &mdash; Often Covered
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Here is where it gets important. When mold develops as a <strong>result</strong> of a
-        covered water loss — such as a burst pipe, an appliance leak, or storm-driven rain — the
-        mold is considered an &quot;ensuing loss.&quot; Many policies contain ensuing loss provisions
-        that provide coverage for damage that results from a covered peril, even when the resulting
-        damage (mold) would otherwise be excluded as a standalone cause. In plain English: the water
-        loss is covered, and the mold that grew because of the water loss is also covered, subject
-        to certain limits.
+        covered water loss &mdash; such as a burst pipe, an appliance leak, or storm-driven
+        rain &mdash; the mold can often qualify as an &ldquo;ensuing loss&rdquo; under the policy
+        form. California first-party coverage applies the efficient-proximate-cause framework
+        (see <em>Garvey v. State Farm Fire &amp; Casualty Co.</em> (1989) 48 Cal.3d 395), under
+        which coverage often turns on the predominant cause of the resulting damage rather than
+        on the resulting damage standing alone. In plain English: many policies cover the water
+        loss, and the mold that grew because of the water loss is often covered as well, subject
+        to any applicable sublimit.
       </p>
 
+      <CalloutBox variant="info" title="MacKinnon and the pollution exclusion">
+        <p>
+          Some carriers attempt to apply an absolute pollution exclusion to a mold claim. In{' '}
+          <em>MacKinnon v. Truck Insurance Exchange</em> (2003) 31 Cal.4th 635, the California
+          Supreme Court held that the absolute pollution exclusion in standard policy language
+          applies only to <strong>traditional environmental pollution</strong> &mdash; not to
+          every release of every substance that might fit a dictionary definition of
+          &ldquo;pollutant.&rdquo; Many policyholder attorneys read this to mean that the
+          pollution exclusion is not a free pass for the carrier on a residential mold claim
+          arising from a sudden water loss. How the exclusion applies to a specific claim is a
+          question for an attorney with the policy and facts in hand.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Mold Limit — And How Insurers Misapply It
+        The Mold Limit &mdash; And How Insurers Sometimes Misapply It
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Most policies that provide mold coverage do so with a sub-limit — often $5,000 or $10,000.
-        This cap applies to mold remediation costs. However, insurance companies frequently misapply
-        this limit by charging the <strong>entire</strong> cost of the remediation project against
-        the mold cap.
+        Most policies that provide mold coverage do so with a sub-limit &mdash; often $5,000 or
+        $10,000. This cap applies to mold remediation costs. In practice, carriers sometimes
+        apply the cap aggressively, charging the <strong>entire</strong> cost of the remediation
+        project against the mold sublimit.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is improper. Consider a typical water loss remediation: wet drywall must be removed.
-        That removal is water damage mitigation — it has to happen whether mold is present or not.
-        Pulling out saturated drywall, removing wet insulation, and extracting standing water are all
-        water damage activities. Only the work that is specifically attributable to mold should count
-        against the mold limit:
+        This allocation is often disputed. The better reading is that mold-cap funds should be
+        reserved for mold-specific scope items, and that the water-damage scope items should be
+        paid under the dwelling limit. Consider a typical water-loss remediation: wet drywall has
+        to be removed whether mold is present or not. Pulling out saturated drywall, removing wet
+        insulation, and extracting standing water are all water-damage activities. Only the work
+        specifically attributable to mold should count against the mold limit:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>Application of anti-microbial treatments</li>
@@ -81,14 +98,15 @@ export default function Content() {
         <li>Additional personal protective equipment required for mold work</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When an insurer lumps the entire remediation cost — including the water damage work — under
-        the mold limit, they are effectively using a $5,000 or $10,000 cap to deny tens of
-        thousands of dollars in legitimate water damage coverage. Your contractor&apos;s estimate
-        should clearly separate mold-specific line items from water damage line items, and you
-        should insist that the insurer respect that separation. For a deeper analysis of how to
+        When an insurer lumps the entire remediation cost &mdash; including the water-damage
+        work &mdash; under the mold limit, the effect is to use a $5,000 or $10,000 cap to
+        compress water-damage coverage the insured paid premium for under the dwelling limit. A
+        contractor&apos;s estimate that clearly separates mold-specific line items from
+        water-damage line items helps preserve that distinction, and many policyholders push back
+        in writing when the carrier ignores the separation. For a deeper analysis of how to
         allocate costs between water mitigation (under dwelling coverage) and mold remediation
-        (under the sublimit) &mdash; including a worked $21,000 example &mdash; see our article on
-        the{' '}
+        (under the sublimit) &mdash; including a worked $21,000 example &mdash; see the article
+        on the{' '}
         <Link href="/resources/mold-coverage-paradox" className="text-blue-700 underline hover:text-blue-900">
           mold coverage paradox
         </Link>
@@ -138,37 +156,42 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How to Protect Your Mold-Related Claim
+        Protecting a Mold-Related Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you have a water loss and mold is present or developing, take these steps to protect your
-        claim:
+        When an insured has a water loss with mold present or developing, the following patterns
+        come up repeatedly in claims that go well:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Get independent mold testing.</strong> Hire a qualified mold assessor — not one
-          recommended by the insurance company — to test and document the type and extent of mold
-          present.
+          <strong>Independent mold testing.</strong> Many policyholders commission a qualified
+          mold assessor &mdash; one not referred by the carrier &mdash; to test and document the
+          type and extent of mold present.
         </li>
         <li>
-          <strong>Document the timeline.</strong> Photograph and video the damage as soon as you
-          discover it. Note when you first saw water, when you reported it, and when mold appeared.
+          <strong>Timeline documentation.</strong> Photographs and video of the damage at
+          discovery, plus a written timeline noting when water was first observed, when the loss
+          was reported, and when mold appeared, tend to anchor the sudden-and-accidental framing
+          if it is later disputed.
         </li>
         <li>
-          <strong>Separate mold work from water damage work.</strong> Make sure your contractor or
-          remediation company provides an estimate that clearly itemizes mold-specific costs
-          separately from water damage mitigation costs.
+          <strong>Mold scope separated from water-damage scope.</strong> An estimate that itemizes
+          mold-specific costs separately from water-damage mitigation costs preserves the
+          allocation argument when the carrier tries to push everything under the mold sublimit.
         </li>
         <li>
-          <strong>Do not let the insurer characterize the entire loss as a &quot;mold
-          claim.&quot;</strong> It is a water loss with mold as a secondary consequence. How the
-          claim is framed matters.
+          <strong>Watching how the claim gets framed.</strong> A water loss with mold as a
+          secondary consequence is a different thing from a &ldquo;mold claim.&rdquo; The first
+          is generally inside dwelling coverage with an ensuing-loss path to the mold; the second
+          gets compressed into the sublimit.
         </li>
         <li>
-          <strong>Consult a professional.</strong> A
-          knowledgeable <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> can
-          help you navigate mold-related claims and ensure the insurance company applies the mold
-          limit properly.
+          <strong>Bringing in someone whose side of the table you&apos;re on.</strong> A
+          <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+            {' '}Public Adjuster
+          </Link>{' '}
+          who handles mold-adjacent water losses can help with the cost allocation argument and
+          identify issues that warrant consultation with an attorney.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -184,12 +207,14 @@ export default function Content() {
         Key Takeaway
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Mold in your home is stressful, but it does not mean your claim is dead. Understand the
-        difference between mold as a cause of loss (generally excluded) and mold as an ensuing
-        result of a covered water loss (often covered). Make sure your insurer is not improperly
-        applying the mold sub-limit to your entire remediation, and do not accept a denial based
-        solely on the argument that mold means the loss is long-term. Document everything, get
-        independent assessments, and fight for the coverage you paid for.
+        Mold in a home is stressful, but it does not necessarily mean the claim is dead. The
+        distinction that matters is between mold as a direct cause of loss (generally excluded)
+        and mold as an ensuing result of a covered water loss (often covered, subject to any
+        sublimit). The cost-allocation question &mdash; what comes out of the mold sublimit
+        versus what stays in the dwelling limit &mdash; tends to be where the largest dollars
+        get won or lost. Policyholders who document carefully, retain independent assessors, and
+        push back on improper sublimit application tend to recover more of what they were owed
+        under the policy.
       </p>
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
