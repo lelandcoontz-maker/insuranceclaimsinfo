@@ -123,6 +123,13 @@ const nextConfig = {
       destination: '/resources/social-media-insurance-claims',
       permanent: true,
     },
+    // 2026-06-26: rename state-farm-appraisal-trap to generic appraisal-trap-tactics
+    // to remove implied factual assertion against a named carrier
+    {
+      source: '/resources/state-farm-appraisal-trap',
+      destination: '/resources/appraisal-trap-tactics',
+      permanent: true,
+    },
   ],
   headers: async () => [
     {

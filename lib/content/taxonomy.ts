@@ -2237,7 +2237,7 @@ export const CATEGORIES: Category[] = [
         icon: '⚖️',
         title: 'The Appraisal Trap: Procedural Games That Undermine the Appraisal Remedy',
         desc: 'How some carriers use procedural objections, umpire selection disputes, and timing delays to defeat the appraisal process.',
-        href: '/resources/state-farm-appraisal-trap',
+        href: '/resources/appraisal-trap-tactics',
         tag: 'Carrier Tactics',
         tagColor: 'bg-red-100 text-red-700',
       },

@@ -33,9 +33,9 @@ export default function Content() {
         discharge as a minor &quot;clean water&quot; loss and approving only basic dry-out procedures.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That assumption can be dangerously wrong. Depending on the type of sprinkler system, the
-        water that comes out of a fire sprinkler head may be among the most contaminated water
-        you will ever encounter in a residential or commercial property loss.
+        That assumption is often wrong. Depending on the type of sprinkler system, the water
+        that comes out of a fire sprinkler head may be among the most contaminated water
+        encountered in a residential or commercial property loss.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -50,13 +50,15 @@ export default function Content() {
         Multipurpose Residential Systems (Integrated with Domestic Water)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A small subset of residential systems &mdash; NFPA 13D multipurpose systems &mdash; tie
+        One category of residential systems &mdash; NFPA 13D multipurpose systems &mdash; ties
         the sprinkler piping into the home&apos;s domestic water supply so that water flows
         through the sprinkler lines whenever a faucet, toilet, or shower is used. Because the
         water in these lines is regularly exchanged rather than left to sit, the contamination
         load is generally lower. A loss from this kind of system may be closer to Category 1
-        (clean water), and the remediation is relatively straightforward. Multipurpose systems
-        are the exception, not the rule.
+        (clean water), and the remediation is relatively straightforward. These multipurpose
+        systems have become increasingly common in newer California single-family construction
+        following the residential sprinkler requirements added to the California Residential
+        Code in 2011.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -79,15 +81,24 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A smaller but important category is sprinkler systems that are <em>not</em> tied to a
         municipal supply at all. These include tank-fed or gravity-fed systems on rural or
-        off-grid properties, dedicated antifreeze loops (where the entire loop is permanently
-        filled with glycol-based fluid rather than water), and certain dry-pipe and preaction
-        systems whose water source has been isolated from the municipal main. In these closed,
-        isolated systems, nothing ever flows through the piping under normal conditions. The
-        water (or antifreeze) sits undisturbed for the life of the installation, producing the
-        most extreme stagnation conditions and the worst contamination profile. When one of
-        these systems discharges, the water that comes out has had no exchange whatsoever
-        since the system was originally filled. Antifreeze loops add chemical toxicity on top
-        of the biological and corrosion contamination.
+        off-grid properties and dedicated antifreeze loops (where the entire loop is permanently
+        filled with glycol-based fluid rather than water). In these closed systems, no fresh
+        water is introduced under normal operation; the water or antifreeze sits between
+        inspection cycles, producing the most extreme stagnation conditions and the worst
+        contamination profile. Dry-pipe and preaction systems behave differently: a dry-pipe
+        system is normally filled with pressurized air rather than water, and a preaction
+        system is normally dry and only admits water when the preaction valve trips, so they
+        do not present the same long-stagnation profile as a tank-fed or antifreeze loop
+        (though residual water in these systems after a discharge or maintenance cycle can
+        still be contaminated).
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        NFPA 25 (the standard for inspection, testing, and maintenance of water-based fire
+        protection systems) requires periodic flow testing and inspection of all of these
+        configurations, including the branch lines. In practice, those inspection intervals
+        are frequently missed in residential and small-commercial settings, so the
+        &ldquo;stagnant for years&rdquo; condition describes how many real-world systems
+        actually look when they discharge.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Whether the system is municipally connected or fully isolated, the standing water in
@@ -149,8 +160,8 @@ export default function Content() {
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Biological Contaminants</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The biological contamination is where the real danger lies. Over time, the following
-        organisms colonize the stagnant water:
+        The biological contamination is the more serious side of the problem. Over time, the
+        following organisms colonize the stagnant water:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -339,7 +350,8 @@ export default function Content() {
         </li>
         <li>
           <strong>Making verbal denials:</strong> Refusing to pay for contamination-related repairs
-          over the phone but never putting the denial in writing, which violates{' '}
+          over the phone but never putting the denial in writing, which is inconsistent with the
+          written-decision requirement under 10 CCR &sect; 2695.7(b)(1) of the{' '}
           <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
             California Fair Claims Settlement Practices Regulations
           </Link>.
@@ -460,11 +472,10 @@ export default function Content() {
         Category 3 &mdash; the same category as raw sewage.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If your insurance adjuster tells you that fire sprinkler water is &quot;just water&quot;
-        and authorizes only a basic dry-out, they are either uninformed or deliberately minimizing
-        your claim. Either way, you should not accept that characterization without independent
-        environmental testing. Your family&apos;s health and the integrity of your home depend
-        on getting this right.
+        If an insurance adjuster characterizes fire sprinkler water as &ldquo;just water&rdquo;
+        and authorizes only a basic dry-out, the adjuster is either uninformed about the source
+        of that water or is minimizing the loss. Either way, an insured might consider not
+        accepting that characterization without independent environmental testing.
       </p>
 
       <CalloutBox variant="tip" title="Related Resources">

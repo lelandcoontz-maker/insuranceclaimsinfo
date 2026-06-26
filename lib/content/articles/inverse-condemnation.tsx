@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Inverse Condemnation: Suing Utilities After a California Wildfire',
   description:
-    'When a utility causes a wildfire, you may have a claim beyond your insurance policy. Learn how inverse condemnation works in California — strict liability, damages, and how it differs from negligence.',
+    'When a utility causes a wildfire, an insured may have a claim beyond the insurance policy. How inverse condemnation works in California — strict liability, the substantial-cause / inherent-risk test under City of Oroville, damages, and how it differs from negligence.',
   summary:
-    'When a utility causes a wildfire, inverse condemnation lets you recover from the utility on a strict-liability basis, without proving negligence, for damage beyond your insurance. It is a powerful additional path after utility-caused fires in California.',
+    'When a utility causes a wildfire, inverse condemnation can let a property owner recover from the utility on a strict-liability basis, without proving negligence, for damage beyond what insurance pays. California Supreme Court doctrine (Holtz, Belair, Oroville) limits the cause of action to damage substantially caused by an inherent risk of the public improvement&apos;s deliberate design, construction, or maintenance.',
 }
 
 export default function Content() {
@@ -21,25 +21,29 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        When a wildfire is caused by utility infrastructure — a downed power line, a malfunctioning
-        transformer, inadequate vegetation clearance — you have a potential claim against the utility
-        company that goes far beyond what your insurance policy pays. In California, one of the most
-        powerful legal tools for wildfire victims is <strong>inverse condemnation</strong>: a
-        strict-liability cause of action that does not require you to prove the utility was
-        negligent.
+        When a wildfire is caused by utility infrastructure &mdash; a downed power line, a
+        malfunctioning transformer, inadequate vegetation clearance &mdash; an affected property
+        owner may have a potential claim against the utility that goes beyond what the insurance
+        policy pays. In California, one of the most powerful legal tools for wildfire victims is
+        <strong> inverse condemnation</strong>: a cause of action grounded in the California
+        Constitution that does not require proof of negligence, but does require proof that the
+        damage was substantially caused by an inherent risk of the public improvement&apos;s
+        deliberate design, construction, or maintenance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This article explains how inverse condemnation works, how it differs from a negligence
-        lawsuit, what damages you can recover, and why it matters even if you have insurance.
+        This article describes how inverse condemnation works in California, how the California
+        Supreme Court&apos;s decision in <em>City of Oroville v. Superior Court</em> (2019) shapes
+        the causation requirement, how the doctrine differs from negligence, what damages may be
+        recoverable, and why the claim matters even when insurance is in place.
       </p>
 
-      <CalloutBox variant="tip" title="Why This Matters Even If You Have Insurance">
+      <CalloutBox variant="tip" title="Why This May Matter Even With Insurance">
         <p>
-          Your insurance policy has limits. If you are underinsured — and the majority of
-          wildfire victims are — an inverse condemnation claim against the responsible utility can
-          recover the gap between your insurance proceeds and your actual losses. It can also
-          recover damages that insurance does not cover at all, such as emotional distress
-          and diminished property value.
+          Insurance policies have limits. Where an insured is underinsured &mdash; and many
+          wildfire victims are &mdash; an inverse condemnation claim against the responsible
+          utility may recover the gap between insurance proceeds and the actual loss. It may also
+          reach categories of damage that insurance does not cover at all, such as emotional
+          distress in some circumstances and diminution in market value.
         </p>
       </CalloutBox>
 
@@ -47,44 +51,87 @@ export default function Content() {
         What Is Inverse Condemnation?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The government (and entities acting under government authority, like investor-owned utilities)
-        has the power of &ldquo;eminent domain&rdquo; — the right to take private property for
-        public use, with just compensation. When the government takes your property through formal
-        proceedings, that is <em>condemnation</em>.
+        The government (and entities operating public improvements, including investor-owned
+        utilities under California law) has the power of eminent domain &mdash; the right to take
+        private property for public use, with just compensation. A formal taking is
+        <em> condemnation</em>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Inverse condemnation</strong> is the reverse: the property owner sues the government
-        entity (or utility) claiming that the entity&apos;s actions or infrastructure effectively
-        damaged or destroyed their private property without compensation. Under the California
-        Constitution, Article I, Section 19, private property may not be taken or damaged for
-        public use without just compensation.
+        <strong>Inverse condemnation</strong> is the reverse: the property owner sues the public
+        entity (or, in California, an investor-owned utility) claiming that the entity&apos;s
+        public improvement effectively damaged or destroyed private property without just
+        compensation. The constitutional source is California Constitution, Article I, Section
+        19, which provides that private property may not be taken <em>or damaged</em> for public
+        use without just compensation.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In the wildfire context, the theory is: the utility operates its electrical infrastructure
-        for public benefit (delivering power). When that infrastructure causes a fire that destroys
-        your property, the utility has effectively &ldquo;taken&rdquo; or &ldquo;damaged&rdquo;
-        your property for public use — and must compensate you.
+        In the wildfire context, the theory is that the utility operates its electrical
+        infrastructure for public benefit. When that infrastructure substantially causes a fire
+        that destroys private property, the utility has effectively damaged that property for
+        public use, and just compensation may be owed.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Strict Liability: No Need to Prove Negligence
+        Strict Liability &mdash; With a Substantial-Cause / Inherent-Risk Requirement
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is the critical legal advantage. Under California inverse condemnation law, the cause
-        of action is based on <strong>strict liability</strong>. You do not need to prove that the
-        utility was negligent — you do not need to show they failed to maintain their equipment,
-        violated safety standards, or did anything &ldquo;wrong.&rdquo; You only need to prove:
+        Inverse condemnation in California is often described as a <strong>strict-liability</strong>
+        cause of action, meaning the plaintiff does not have to prove the public entity or utility
+        was negligent or violated a duty of care. <em>Barham v. Southern California Edison Co.</em>
+        (1999) 74 Cal.App.4th 744 and <em>Pacific Bell Tel. Co. v. Southern California Edison Co.</em>
+        (2012) 208 Cal.App.4th 1400 are the foundational authorities applying inverse condemnation to
+        investor-owned utilities; the Court of Appeal reaffirmed the doctrine&apos;s continued
+        application to IOUs in <em>Simple Avo Paradise Ranch, LLC v. Southern California Edison Co.</em>
+        (2024).
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California Supreme Court decisions tightening the causation requirement remain controlling.
+        Under <em>Holtz v. Superior Court</em> (1970) 3 Cal.3d 296 and <em>Belair v. Riverside County
+        Flood Control District</em> (1988) 47 Cal.3d 550, the damage must be <strong>substantially
+        caused</strong> by the public improvement. The Court refined that standard in
+        <em> City of Oroville v. Superior Court</em> (2019) 7 Cal.5th 1091, framing the holding
+        this way:
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        What we hold is that the damage to private property must be substantially caused by an
+        inherent risk presented by the deliberate design, construction, or maintenance of the
+        public improvement.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Practically, a plaintiff in an inverse-condemnation wildfire case must show:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
-        <li>The utility&apos;s infrastructure or operations were a <strong>substantial cause</strong> of the fire</li>
-        <li>The fire caused <strong>damage to your property</strong></li>
-        <li>The utility operates its infrastructure for <strong>public use</strong></li>
+        <li>
+          The defendant operates a <strong>public improvement</strong> (or, for an IOU, electrical
+          infrastructure operating under the same doctrinal framework).
+        </li>
+        <li>
+          The damage to private property was <strong>substantially caused</strong> by that
+          improvement, in the sense described above &mdash; an inherent risk of its deliberate
+          design, construction, or maintenance.
+        </li>
+        <li>
+          The plaintiff suffered <strong>damage</strong> to private property.
+        </li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Neither foreseeability nor fault need be shown. The utility does not escape liability
-        by showing it followed all safety regulations or used reasonable care. If their equipment
-        started the fire, they pay.
+        Negligence is not an element. But after <em>Oroville</em>, a plaintiff can no longer
+        rely on the bare fact that a public improvement was involved in the loss; the causal
+        connection has to run to an inherent risk of how that improvement was deliberately
+        designed, built, or maintained.
       </p>
+
+      <CalloutBox variant="info" title="Plain English (general interpretation)">
+        <p>
+          Many plaintiff attorneys read <em>Oroville</em> to mean that inverse condemnation in
+          California is still a powerful tool against utilities and public entities, but that
+          courts will look carefully at whether the damage flowed from a risk built into the
+          public improvement&apos;s design or maintenance &mdash; rather than from a
+          property owner&apos;s own omissions or some other intervening cause. How the standard
+          applies to a particular wildfire claim is a question for an attorney with experience
+          in this area.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Inverse Condemnation vs. Negligence
@@ -140,17 +187,24 @@ export default function Content() {
         <li>
           <strong>Investor-owned utilities (IOUs).</strong> Pacific Gas &amp; Electric (PG&amp;E),
           Southern California Edison (SCE), and San Diego Gas &amp; Electric (SDG&amp;E) are the
-          three major IOUs in California. They operate electrical infrastructure for public use
-          and are subject to inverse condemnation.
+          three major IOUs in California. Under <em>Barham</em>, <em>Pacific Bell</em>, and
+          <em> Simple Avo Paradise Ranch</em>, they operate electrical infrastructure as a public
+          improvement and remain subject to inverse condemnation.
         </li>
         <li>
-          <strong>Municipal utilities.</strong> Publicly-owned utilities (e.g., LADWP) are also
-          subject to inverse condemnation under the California Constitution.
+          <strong>Municipal and other public entities.</strong> Publicly-owned utilities (e.g.,
+          LADWP) and other public entities are subject to inverse condemnation under California
+          Constitution Article I, Section 19. These are typically the cleaner inverse-condemnation
+          defendants because the constitutional source is direct; IOU liability is the more
+          contested doctrinal frontier and has been the subject of repeated industry challenges.
         </li>
         <li>
-          <strong>Water districts and other public entities.</strong> If a public entity&apos;s
-          infrastructure contributes to property damage (e.g., failed water systems that could not
-          fight the fire), inverse condemnation may apply.
+          <strong>Water districts and water-system failure theories.</strong> If a public
+          entity&apos;s infrastructure substantially contributes to property damage &mdash; e.g.,
+          a failed water system that prevented fire suppression &mdash; an inverse-condemnation
+          theory may apply, but the cases addressing water-system-failure theories in the
+          wildfire context are unsettled and the public entity may raise governmental-immunity
+          defenses.
         </li>
       </ul>
 
@@ -170,19 +224,36 @@ export default function Content() {
         <li><strong>Landscaping and trees</strong></li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When combined with a negligence claim, additional damages may be available, including
-        emotional distress and (in cases of extreme conduct) punitive damages — though punitive
-        damages against a public utility are rare.
+        When combined with a negligence or other tort claim, additional damages may be available,
+        including emotional distress and, in cases of qualifying conduct, punitive damages.
+        Important distinction: Government Code &sect; 818 bars punitive damages against
+        <em> public entities</em> (e.g., LADWP, water districts) entirely. Punitive damages may
+        be sought against private investor-owned utilities, although recovery in IOU wildfire
+        cases is uncommon.
       </p>
+
+      <CalloutBox variant="warning" title="Timing matters — claim presentation and statute of limitations">
+        <p>
+          A claim against a public entity in California generally requires presenting a written
+          claim under the Government Tort Claims Act (Gov. Code &sect; 905 et seq.) within six
+          months for personal injury and one year for property damage. The inverse-condemnation
+          cause of action itself carries its own statute of limitations (Code Civ. Proc.
+          &sect; 338(j) is commonly cited as the three-year limit). Different rules apply to
+          investor-owned utilities, which are not public entities and do not require claim
+          presentation. The timing is fact-specific and unforgiving; an insured should consult
+          an attorney as early as possible after a utility-caused fire.
+        </p>
+      </CalloutBox>
 
       <CalloutBox variant="warning" title="Insurance Subrogation">
         <p>
-          If your insurance company pays your claim, they have a &ldquo;subrogation&rdquo; right
-          — the right to recover what they paid from the responsible party (the utility). Your
-          insurer may pursue this on their own. However, your personal damages <em>above</em> what
-          insurance paid (the underinsurance gap, ALE shortfalls, emotional distress, etc.) remain
-          your claim. An attorney can help coordinate between your direct claim and the insurer&apos;s
-          subrogation.
+          If an insurer pays the insured&apos;s claim, the insurer typically has a subrogation
+          right &mdash; the right to recover what it paid from the responsible party (the
+          utility). Insurers often pursue subrogation on their own. However, the insured&apos;s
+          personal damages <em>above</em> what insurance paid (the underinsurance gap, ALE
+          shortfalls, emotional distress, and similar categories) typically remain the
+          insured&apos;s own claim. An attorney can help coordinate between the insured&apos;s
+          direct claim and the insurer&apos;s subrogation.
         </p>
       </CalloutBox>
 
@@ -196,9 +267,11 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>PG&amp;E / Camp Fire (2018):</strong> PG&amp;E was found responsible for the
-          Camp Fire, which destroyed Paradise. The company filed for bankruptcy, established a
-          $13.5 billion fire victim trust, and ultimately pled guilty to 84 counts of involuntary
-          manslaughter. Inverse condemnation was a core theory.
+          Camp Fire, which destroyed Paradise. The company filed for bankruptcy in January 2019,
+          established a $13.5 billion Fire Victim Trust through its Plan of Reorganization, and
+          pled guilty in Butte County Superior Court (June 16, 2020) to 84 counts of involuntary
+          manslaughter and one felony count of unlawfully starting a fire (Pen. Code &sect; 452).
+          Inverse condemnation was a core theory.
         </li>
         <li>
           <strong>SCE / Thomas Fire, Woolsey Fire:</strong> Southern California Edison faced
@@ -206,80 +279,90 @@ export default function Content() {
           2018 Woolsey Fire.
         </li>
         <li>
-          <strong>2025 Palisades and Eaton Fires:</strong> Multiple lawsuits have been filed
-          against utilities and LADWP alleging inverse condemnation and negligence. Litigation
-          is ongoing.
+          <strong>2025 Eaton Fire (SCE):</strong> SCE has been named as the principal alleged
+          ignition defendant in multiple complaints arising from the 2025 Eaton Fire, including
+          actions by Los Angeles County and private plaintiffs.
+        </li>
+        <li>
+          <strong>2025 Palisades Fire (LADWP):</strong> Lawsuits against the Los Angeles
+          Department of Water and Power focus principally on alleged water-system failure
+          (including the Santa Ynez Reservoir and dry hydrants) rather than ignition. The
+          alleged ignition cause has been described in some pleadings as arson/rekindling,
+          not utility equipment.
         </li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How Inverse Condemnation Interacts With Your Insurance Claim
+        How Inverse Condemnation Interacts With the Insurance Claim
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Your insurance claim and your inverse condemnation/negligence claim against the utility are
-        separate proceedings that run in parallel:
+        The insurance claim and the inverse-condemnation/negligence claim against the utility are
+        separate proceedings that typically run in parallel:
       </p>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>File your insurance claim immediately.</strong> Do not wait for the utility
-          litigation. Your policy has deadlines and your insurer owes you money now.
+          <strong>The insurance claim runs on its own clock.</strong> Insurance policies have
+          deadlines that run independently of any utility litigation; most insureds cannot afford
+          to wait on the utility case before opening the insurance claim.
         </li>
         <li>
-          <strong>Retain an attorney for the utility claim.</strong> Inverse condemnation litigation
-          is complex and typically handled by attorneys on contingency. Many plaintiffs&apos; firms
-          specialize in wildfire litigation.
+          <strong>The utility claim is typically attorney-driven.</strong> Inverse-condemnation
+          litigation is complex and is typically handled by plaintiffs&apos; firms on contingency.
+          Many of those firms specialize in wildfire litigation.
         </li>
         <li>
-          <strong>Document everything.</strong> The documentation you create for your insurance
-          claim (damage photos, inventory, contractor estimates, ALE records) also supports your
-          utility claim.
+          <strong>Documentation does double duty.</strong> The documentation an insured builds for
+          the insurance claim (damage photos, inventory, contractor estimates, ALE records) also
+          supports the utility claim.
         </li>
         <li>
-          <strong>Understand the offset.</strong> You cannot recover the same damages twice. If
-          insurance pays $500,000 for your dwelling and the utility settlement also addresses
-          dwelling damage, those amounts offset. But damages your insurance did not cover
-          (underinsurance gap, uncovered losses, emotional distress) are additive.
+          <strong>Damages do not double-count.</strong> Generally, the same damages cannot be
+          recovered twice. If an insurer pays $500,000 for dwelling damage and the utility
+          settlement also addresses dwelling damage, those amounts offset. But categories that
+          insurance did not cover (the underinsurance gap, uncovered losses, emotional distress)
+          are typically additive.
         </li>
       </ol>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Do You Need a Public Adjuster AND an Attorney?
+        Does an Insured Need a Public Adjuster AND an Attorney?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-6">
-        Often, yes. They handle different claims:
+        Often, both roles end up involved. They handle different claims:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           A <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link>{' '}
-          handles your <em>insurance claim</em> — documenting the loss, negotiating with the
-          insurer, and maximizing your policy recovery. This is a contract dispute with your
+          handles the <em>insurance claim</em> &mdash; documenting the loss, negotiating with the
+          insurer, and working to maximize policy recovery. This is a contract matter with the
           insurer.
         </li>
         <li>
-          An <strong>attorney</strong> handles your <em>utility claim</em> — the inverse
-          condemnation and negligence lawsuit against the entity that caused the fire. This is
-          a tort/constitutional claim.
+          An <strong>attorney</strong> handles the <em>utility claim</em> &mdash; the inverse
+          condemnation and negligence lawsuit against the entity whose infrastructure substantially
+          caused the fire. This is a tort/constitutional matter.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-6">
-        Having both ensures you recover the maximum from your insurance policy <em>and</em> pursue
-        the responsible party for damages beyond your policy limits.
+        Having both can help an insured pursue the maximum from the insurance policy <em>and</em>
+        the responsible party for damages beyond policy limits.
       </p>
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
-          Wildfire Damage? Start With Your Insurance Claim.
+          Wildfire Damage? The Insurance Claim Runs on Its Own Clock.
         </h3>
         <p className="text-gray-600 text-sm mb-4">
-          While utility litigation can take years, your insurance claim should be pursued now. A
-          Public Adjuster can maximize your policy recovery while your attorney handles the
-          utility lawsuit.
+          Utility litigation can take years; the insurance claim runs on its own deadlines. A
+          licensed public adjuster can review an insurance claim file to identify underpaid items
+          and may identify issues that warrant consultation with an attorney. Most public
+          adjusters and attorneys will provide a free consultation.
         </p>
         <Link
           href="/contact"
           className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors"
         >
-          Request a Free Claim Review →
+          Request a Free Claim Review &rarr;
         </Link>
       </div>
       <hr className="my-8 border-gray-300" />

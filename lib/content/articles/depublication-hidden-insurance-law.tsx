@@ -55,13 +55,22 @@ export default function Content() {
         any California state court proceeding.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Rules of Court, Rule 8.1115(a), states the general rule: &ldquo;Except as
-        provided in (b), an opinion of a California Court of Appeal or a California superior
-        court appellate division that is not certified for publication or ordered published
-        must not be cited or relied on by a court or a party in any other action.&rdquo;
+        California Rules of Court, Rule 8.1115(a), states the general rule:
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        Except as provided in (b), an opinion of a California Court of Appeal or
+        superior court appellate division that is not certified for publication or
+        ordered published must not be cited or relied on by a court or a party in
+        any other action.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
         When the Supreme Court depublishes an opinion, it effectively moves that opinion from
         the &ldquo;published&rdquo; category back to the &ldquo;unpublished&rdquo; category,
-        triggering this citation prohibition.
+        triggering this citation prohibition. Rule 8.1115(b) sets out narrow exceptions where
+        an unpublished opinion may still be cited &mdash; for example, when it is relevant under
+        the doctrines of law of the case, res judicata, or collateral estoppel, or in a criminal
+        or disciplinary matter where the opinion involved the same defendant. Outside those
+        narrow exceptions, depublication strips the opinion of its precedential reach.
       </p>
 
       <CalloutBox variant="info" title="Published vs. Unpublished in California">
@@ -87,8 +96,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         When the Supreme Court grants a depublication request, it does not explain why. There
         is no written opinion, no reasoning, and no dissent. The order is a single line:
-        &ldquo;The opinion in the above-entitled matter is ordered depublished.&rdquo; The
-        legal community is left to speculate about the Court&rsquo;s reasons. Did the Court
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        The opinion in the above-entitled matter is ordered depublished.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The legal community is left to speculate about the Court&rsquo;s reasons. Did the Court
         disagree with the result? Did it find the reasoning flawed? Did it believe the issue
         needed further development before a published opinion should govern? No one outside
         the Court knows.
@@ -139,17 +152,22 @@ export default function Content() {
         The Pattern in Insurance Cases
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Legal scholars and appellate practitioners have long observed that depublication in
-        insurance cases follows a discernible pattern. Opinions that expand policyholder
-        protections, limit insurer defenses, or impose greater accountability on carriers
-        are depublished at rates that observers have described as disproportionate.
+        Legal scholars and appellate practitioners on the policyholder side have long argued
+        that depublication in insurance cases follows a discernible pattern. The argument runs
+        that opinions expanding policyholder protections, limiting insurer defenses, or imposing
+        greater accountability on carriers are depublished at what observers describe as
+        disproportionate rates. No comprehensive empirical study has quantified the asymmetry,
+        and the Supreme Court&rsquo;s silence on its reasons makes any pattern impossible to
+        confirm from the outside. What can be said is that the structural conditions favor
+        asymmetry: carriers and industry groups monitor every published opinion and routinely
+        file depublication requests; individual policyholders and consumer organizations rarely do.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This does not mean that every policyholder-favorable opinion is depublished, or that
-        carrier-favorable opinions are never depublished. But the pattern &mdash; documented
-        by multiple California appellate practitioners and insurance law scholars over decades
-        &mdash; suggests that the depublication process has had a cumulative, systemic effect
-        on the development of California insurance law.
+        carrier-favorable opinions are never depublished. But the pattern, as described by
+        California appellate practitioners and insurance law scholars over the last several
+        decades, suggests the depublication process may have had a cumulative effect on the
+        published body of California insurance law.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -197,10 +215,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Each individual depublication might be defensible on its own terms &mdash; perhaps
         the reasoning was flawed, perhaps the issue needed further development, perhaps the
-        Supreme Court intended to address the question itself. But the cumulative effect of
-        decades of asymmetric depublication is a body of California insurance law that has
-        been shaped not only by what the courts have said, but by what the courts have been
-        prevented from saying.
+        Supreme Court intended to address the question itself. Taken together, however, the
+        cumulative effect over several decades, as described by policyholder-side practitioners
+        and scholars, is a body of California insurance law shaped not only by what the courts
+        have said, but by what the courts have been prevented from saying in citable form.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a policyholder&rsquo;s attorney researches an insurance coverage issue and finds
@@ -259,12 +277,14 @@ export default function Content() {
         favor outside the normal adversarial framework.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Former California Supreme Court Justice Joseph Grodin addressed this concern in academic
-        writing, observing that the depublication process allows interest groups to influence
-        the development of law without the safeguards of the regular appellate process. When
-        an insurance trade group files a depublication request supported by amicus letters from
-        multiple carriers, the Supreme Court is receiving an advocacy presentation without the
-        opposing party necessarily having the resources or awareness to respond.
+        Former California Supreme Court Justice Joseph Grodin addressed depublication in an
+        early law review treatment of the practice (Grodin, &ldquo;The Depublication Practice
+        of the California Supreme Court,&rdquo; 72 Cal. L. Rev. 514 (1984)), focusing on the
+        opacity of the process, the absence of articulated standards for granting depublication,
+        and the broad &ldquo;any person&rdquo; standing to petition. Those structural features,
+        combined with the asymmetric resources of well-organized interest groups on one side
+        and individual litigants on the other, are what make the depublication process a
+        target of sustained scholarly critique.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -425,16 +445,16 @@ export default function Content() {
           opinions, available through the California Courts website (courts.ca.gov).
         </li>
         <li>
-          <strong>Barnett, Stephen R.</strong> &mdash; Professor Emeritus at UC Berkeley
-          School of Law, whose scholarship on California&rsquo;s publication and depublication
-          practices is foundational. Search for Barnett&rsquo;s publications on California
-          depublication in legal databases.
+          <strong>Barnett, Stephen R.</strong>, &ldquo;Making Decisions Disappear: Depublication
+          and Stipulated Reversal in the California Supreme Court,&rdquo; 26 Loy. L.A. L. Rev.
+          1033 (1993). Foundational academic treatment of California&rsquo;s publication and
+          depublication practices by the late Professor Barnett at UC Berkeley School of Law.
         </li>
         <li>
-          <strong>Grodin, Joseph R.</strong> &mdash; Former Associate Justice of the
-          California Supreme Court, whose academic writing addressed the transparency and
-          accountability concerns raised by the depublication process. Search for
-          Grodin&rsquo;s law review articles on depublication.
+          <strong>Grodin, Joseph R.</strong>, &ldquo;The Depublication Practice of the
+          California Supreme Court,&rdquo; 72 Cal. L. Rev. 514 (1984). Former Associate Justice
+          Grodin&rsquo;s early critique of the depublication process, focused on the absence of
+          articulated standards and the procedural transparency concerns the practice raises.
         </li>
         <li>
           <strong>Ehrlich Law Firm</strong> &mdash; A California insurance coverage firm

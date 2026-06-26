@@ -2,11 +2,11 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Insurance Claim Glossary: 50 Terms in Plain English',
+  title: 'Insurance Claim Glossary: Plain English Definitions',
   description:
-    'Every insurance term you will encounter during a property claim, defined in one sentence each. No jargon, no legalese — just clear definitions.',
+    'Common insurance terms encountered during a property claim, defined in one sentence each. No jargon, no legalese — just clear definitions.',
   summary:
-    'A plain-English glossary defining the fifty insurance terms you will meet during a property claim, from ACV and depreciation to endorsements, sub-limits, and proof of loss, each explained in a single clear sentence.',
+    'A plain-English glossary defining the common insurance terms an insured will meet during a property claim, from ACV and depreciation to endorsements, sub-limits, and proof of loss, each explained in a single clear sentence.',
 }
 
 export default function Content() {
@@ -22,9 +22,8 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurance has its own language. Adjusters, attorneys, and contractors use these
-        terms daily. You should not have to guess what they mean. Here are the 50 terms you
-        are most likely to encounter during a property insurance claim, defined in plain
-        English.
+        terms daily. Below are the terms an insured is most likely to encounter during a
+        property insurance claim, defined in plain English.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">A</h2>
@@ -59,9 +58,12 @@ export default function Content() {
         <div>
           <dt className="font-bold text-gray-900">Appraisal</dt>
           <dd className="text-gray-700">
-            A process in your policy for resolving dollar disputes. Each side picks an
-            appraiser, the two appraisers pick an umpire, and they determine the fair
-            amount. Binding on both parties.{' '}
+            A process in the policy for resolving disputes about the amount of loss. Each
+            side picks an appraiser, the two appraisers pick an umpire, and they determine
+            the dollar amount. The panel&apos;s authority is limited to amount of loss only
+            &mdash; not coverage, recoverability, or waiver. In California, the resulting
+            award is enforceable like an arbitration award and is binding unless successfully
+            challenged on the narrow statutory grounds in CCP &sect; 1286.2.{' '}
             <Link href="/resources/appraisal" className="text-[#1F3964] underline text-sm">Read more</Link>
           </dd>
         </div>
@@ -83,8 +85,10 @@ export default function Content() {
         <div>
           <dt className="font-bold text-gray-900">Brandt Fees</dt>
           <dd className="text-gray-700">
-            Attorney fees you can recover from the insurer in a bad faith case. Named after
-            the California case that established the rule.
+            A category of compensatory damages recognized in California bad-faith cases &mdash;
+            limited to the attorney fees an insured reasonably incurred to recover the policy
+            benefits the insurer wrongfully withheld, not fees for prosecuting the bad-faith
+            tort generally. Named after <em>Brandt v. Superior Court</em> (1985) 37 Cal.3d 813.
           </dd>
         </div>
       </dl>
@@ -94,32 +98,35 @@ export default function Content() {
         <div>
           <dt className="font-bold text-gray-900">CDI (California Department of Insurance)</dt>
           <dd className="text-gray-700">
-            The state agency that regulates insurance companies. You can file a complaint
-            when your insurer violates regulations.{' '}
+            The state agency that regulates insurance companies. An insured may file a
+            complaint when they believe an insurer has violated claims-handling regulations.{' '}
             <Link href="/resources/cdi-complaint" className="text-[#1F3964] underline text-sm">Read more</Link>
           </dd>
         </div>
         <div>
           <dt className="font-bold text-gray-900">Claim</dt>
           <dd className="text-gray-700">
-            Your formal request to the insurer to pay for a covered loss. Once filed, it
-            appears on your CLUE report for 7 years.
+            A formal request to the insurer to pay for a covered loss. Reported claims
+            commonly appear on the insured&apos;s CLUE report (see next entry).
           </dd>
         </div>
         <div>
           <dt className="font-bold text-gray-900">CLUE Report</dt>
           <dd className="text-gray-700">
-            Comprehensive Loss Underwriting Exchange — a database that records every
-            insurance claim you file. Future insurers can see it when you apply for coverage.
-            Entries stay for 7 years.
+            Comprehensive Loss Underwriting Exchange &mdash; a LexisNexis database that
+            records reported insurance claims. Future insurers can pull it during
+            underwriting. Entries typically remain in the database for approximately five
+            to seven years, depending on the type of claim and the carrier&apos;s reporting
+            practices.
           </dd>
         </div>
         <div>
           <dt className="font-bold text-gray-900">Coinsurance</dt>
           <dd className="text-gray-700">
-            A penalty on commercial policies if you insure your property for less than the
-            required percentage of its value. If you are underinsured, the insurer reduces
-            every payment proportionally.
+            A penalty for under-insurance &mdash; most commonly seen on commercial policies
+            and on some residential dwelling forms. If property is insured for less than the
+            required percentage of its value, the insurer reduces every payment
+            proportionally.
           </dd>
         </div>
         <div>
@@ -187,8 +194,10 @@ export default function Content() {
           <dt className="font-bold text-gray-900">EUO (Examination Under Oath)</dt>
           <dd className="text-gray-700">
             A formal interview conducted under oath by the insurer&apos;s attorney, with a
-            court reporter. More serious than a recorded statement. Usually signals the
-            insurer suspects fraud or is looking for a reason to deny.
+            court reporter. More serious than a recorded statement. May signal that the
+            insurer is investigating possible fraud or coverage defenses, though some
+            carriers also use EUOs routinely on certain claim types (theft and fire are
+            common examples).
           </dd>
         </div>
         <div>
@@ -235,8 +244,10 @@ export default function Content() {
         <div>
           <dt className="font-bold text-gray-900">Loss of Use (Coverage D)</dt>
           <dd className="text-gray-700">
-            Same as ALE. Pays your additional living expenses when you cannot live in your
-            home due to a covered loss.
+            The policy section that pays Additional Living Expenses (ALE) for an
+            owner-occupant, and Fair Rental Value (FRV) for a landlord, when a covered loss
+            makes the property uninhabitable. Loss of Use is the policy section; ALE and FRV
+            are benefits inside it.
           </dd>
         </div>
       </dl>
@@ -289,8 +300,11 @@ export default function Content() {
         <div>
           <dt className="font-bold text-gray-900">Proof of Loss</dt>
           <dd className="text-gray-700">
-            A sworn statement you sign affirming the details and dollar amount of your loss.
-            Signing it locks in the amount — do not sign until you are sure.{' '}
+            A sworn statement affirming the details and dollar amount of a loss. Once
+            submitted, the sworn amount becomes the insurer&apos;s record of the claimed
+            loss; later increases are typically pursued through supplements with supporting
+            documentation. Many insureds consult a public adjuster or attorney before
+            submission.{' '}
             <Link href="/resources/proof-of-loss" className="text-[#1F3964] underline text-sm">Read more</Link>
           </dd>
         </div>
@@ -335,8 +349,11 @@ export default function Content() {
         <div>
           <dt className="font-bold text-gray-900">SIU (Special Investigations Unit)</dt>
           <dd className="text-gray-700">
-            The insurer&apos;s internal fraud investigation team. If your claim is referred
-            to SIU, the insurer suspects misrepresentation or fraud. Take it seriously.{' '}
+            The insurer&apos;s internal fraud investigation team. A referral indicates the
+            insurer is investigating possible misrepresentation or fraud &mdash; though SIU
+            referrals are sometimes triggered by automated red flags (such as claim amount
+            or prior loss history) rather than an actual suspicion of wrongdoing. An SIU
+            file is worth taking seriously regardless of how it was opened.{' '}
             <Link href="/resources/recorded-statements-siu" className="text-[#1F3964] underline text-sm">Read more</Link>
           </dd>
         </div>
