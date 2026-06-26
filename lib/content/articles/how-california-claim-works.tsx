@@ -39,9 +39,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What they don&apos;t tell you:</strong> From this moment, a clock starts.
-        The insurer has 15 days to acknowledge your claim in writing and begin investigating.
-        If they miss that deadline, they are already violating California regulations. Most
-        people do not know this — so most people do not notice when it happens.
+        Under 10 CCR &sect; 2695.5(e), the insurer has 15 calendar days to acknowledge the
+        claim in writing and begin investigating. If it misses that deadline, it is out of
+        compliance with California&apos;s claims-handling regulations. Most people don&apos;t
+        know this, so most people don&apos;t notice when it happens.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -135,11 +136,16 @@ export default function Content() {
         received the full replacement cost value.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>What they don&apos;t tell you:</strong> You have a deadline to complete
-        repairs and claim the holdback. The timeline varies by policy — it may be 180 days,
-        365 days, or another period from the date of loss or date of payment. Read your
-        policy&apos;s Loss Settlement provisions to find your deadline. Miss it and you
-        forfeit the holdback permanently.
+        <strong>What they don&apos;t tell you:</strong> California sets statutory floors on
+        how long the insured has to complete repairs and collect the depreciation holdback.
+        Under Cal. Ins. Code &sect; 2051.5(b)(1)(A), the insurer cannot impose a time limit
+        of less than 12 months from the date of the first actual-cash-value payment. For
+        losses related to a state of emergency, &sect; 2051.5(b)(1)(B) extends that floor
+        to 36 months. Under &sect; 2051.5(b)(2), the insurer must grant additional six-month
+        extensions for good cause when the insured is acting in good faith but is delayed by
+        circumstances outside the insured&apos;s control. A policy may grant longer
+        windows; it cannot grant shorter. The deadline runs from the first ACV payment,
+        not from the date of loss.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -192,15 +198,16 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Dwelling claim (Coverage A)</strong> — the structural repair. Usually the
-          largest dollar amount and the most complex.
+          <strong>Dwelling claim</strong> &mdash; the structural repair. Usually the largest
+          dollar amount and the most complex.
         </li>
         <li>
-          <strong>Contents claim (Coverage C)</strong> — your personal property. Requires a
-          separate inventory, separate documentation, separate negotiation.
+          <strong>Personal Property claim</strong> &mdash; the insured&apos;s personal
+          property. Requires a separate inventory, separate documentation, separate
+          negotiation.
         </li>
         <li>
-          <strong>ALE claim (Coverage D)</strong> — your living expenses while displaced.
+          <strong>Loss of Use claim (ALE)</strong> &mdash; living expenses while displaced.
           Ongoing throughout the repair period.
         </li>
       </ul>

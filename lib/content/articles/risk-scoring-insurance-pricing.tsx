@@ -94,7 +94,7 @@ export default function Content() {
         Wildfire and Brush Clearance Scores
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, wildfire risk scoring has become a dominant factor in insurance availability. Carriers use models from companies like CoreLogic, Verisk, and Zesty.ai that assign wildfire risk scores to individual properties based on vegetation density, slope, historical fire perimeters, ember transport modeling, and defensible space assessments. These scores are driving the{' '}
+        In California, wildfire risk scoring has become a dominant factor in insurance availability. Carriers use models from companies like CoreLogic, Verisk, and Zesty.ai that assign wildfire risk scores to individual properties based on vegetation density, slope, historical fire perimeters, ember transport modeling, and defensible space assessments. Carriers&apos; reliance on these scores has been a significant factor in the{' '}
         <Link href="/resources/california-insurance-crisis" className="text-[#2E74B5] underline hover:text-blue-900">
           California insurance crisis
         </Link>, with carriers declining to write or renew policies in areas that their models deem too risky.
@@ -149,7 +149,19 @@ export default function Content() {
         California&rsquo;s Proposition 103 and Regulatory Limitations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Proposition 103 requires that California auto and homeowner insurance rates be based primarily on specified rating factors. For homeowner insurance, the approved factors include the location of the property, the amount of insurance, and the claims history. The use of credit scores for homeowner insurance pricing is prohibited. These restrictions provide California consumers with more protection than policyholders in most other states, where carriers have broad latitude to use any data that is actuarially justified.
+        Proposition 103 requires that California auto and homeowner insurance rates not be
+        &ldquo;excessive, inadequate, or unfairly discriminatory&rdquo; (Cal. Ins. Code
+        &sect; 1861.05(a)), and subjects rate changes to prior approval by the CDI. Insurance
+        Code &sect; 1861.02 lists specific mandatory rating factors for <em>automobile</em>
+        insurance &mdash; not for homeowner insurance, which the CDI evaluates through the
+        class-plan approval process under &sect; 1861.05 and 10 CCR &sect; 2360 et seq. against
+        the &ldquo;unfairly discriminatory&rdquo; standard. Among the factors carriers commonly
+        use in approved homeowner rating plans are location of the property, the amount of
+        insurance, and the claims history. Credit-based insurance scoring is not permitted in
+        California homeowner rate filings &mdash; a position the CDI has maintained since at
+        least its 2003 guidance &mdash; even though most other states allow it. These
+        restrictions provide California consumers with more protection than policyholders in
+        most other states.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         However, Proposition 103&rsquo;s protections have limits. The CDI has limited resources to audit the complex algorithmic models that carriers submit with their rate filings. Carriers can present models that technically comply with the approved rating factors while embedding additional data inputs in ways that are difficult for regulators to detect. The CDI has been working to strengthen its capacity to review algorithmic models, but the regulatory infrastructure remains a work in progress.
@@ -178,21 +190,21 @@ export default function Content() {
         While policyholders cannot fully control how carriers score their properties and claims, there are concrete steps that can improve transparency and reduce the risk of adverse decisions based on inaccurate or outdated data:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>Check your CLUE report.</strong> Every consumer is entitled to one free CLUE report per year from LexisNexis. Review it for accuracy. If there are claims listed that are incorrect, that belong to a prior owner, or that were inquiries rather than actual claims, dispute them. For more on how CLUE reports affect coverage, see the article on the{' '}
+        <li><strong>Check the CLUE report.</strong> Every consumer is entitled to one free CLUE report per year from LexisNexis. Many policyholders review it for accuracy, and dispute any claims listed that are incorrect, that belong to a prior owner, or that were inquiries rather than actual claims. For more on how CLUE reports affect coverage, see the article on the{' '}
           <Link href="/resources/clue-database" className="text-[#2E74B5] underline hover:text-blue-900">
             CLUE database
           </Link>.
         </li>
-        <li><strong>Review your insurance score.</strong> Request your insurance score from LexisNexis or the specific scoring company your carrier uses. While the score itself may not be changeable, understanding what factors are driving it can help identify correctable issues.</li>
-        <li><strong>Understand what data your insurer has on your property.</strong> Ask your carrier or agent what data sources the company uses for underwriting and renewal decisions. Specifically ask whether aerial imagery has been reviewed and whether the property has been assigned a wildfire risk score.</li>
-        <li><strong>Address roof and brush clearance issues proactively.</strong> If your carrier uses aerial imagery or wildfire scoring, proactively address the issues these tools are designed to detect. Replace an aging roof before the carrier uses it as a basis for non-renewal. Maintain defensible space and document it with dated photographs.</li>
-        <li><strong>Document property improvements.</strong> If you have made improvements that reduce risk &mdash; a new roof, upgraded electrical, seismic retrofitting, fire-resistant landscaping &mdash; notify your carrier in writing and provide documentation. These improvements should improve your risk profile, but only if the carrier knows about them.</li>
-        <li><strong>Challenge non-renewal decisions.</strong> If your policy is{' '}
+        <li><strong>Request the insurance score.</strong> Policyholders may request their insurance score from LexisNexis or the specific scoring company the carrier uses. The score itself may not be changeable, but understanding what factors are driving it can help identify correctable issues.</li>
+        <li><strong>Ask what data the insurer has on the property.</strong> Asking the carrier or agent what data sources the company uses for underwriting and renewal decisions &mdash; specifically whether aerial imagery has been reviewed and whether the property has been assigned a wildfire risk score &mdash; can surface decision-driving inputs the policyholder otherwise wouldn&apos;t see.</li>
+        <li><strong>Roof and brush-clearance maintenance ahead of the next renewal.</strong> If the carrier uses aerial imagery or wildfire scoring, proactively addressing the issues these tools are designed to detect tends to help. Many policyholders replace an aging roof before the carrier uses it as a basis for non-renewal, and document defensible-space maintenance with dated photographs.</li>
+        <li><strong>Document property improvements.</strong> Improvements that reduce risk &mdash; a new roof, upgraded electrical, seismic retrofitting, fire-resistant landscaping &mdash; can improve the property&apos;s risk profile only if the carrier knows about them. Many policyholders notify the carrier in writing and provide documentation.</li>
+        <li><strong>Challenging non-renewal decisions.</strong> If a policy is{' '}
           <Link href="/resources/nonrenewal-cancellation" className="text-[#2E74B5] underline hover:text-blue-900">
             non-renewed
-          </Link>, request a written explanation of the reasons. If the non-renewal is based on data you believe is inaccurate &mdash; for example, an aerial image that misidentifies your roof condition &mdash; challenge it with documentation showing the actual condition.
+          </Link>, the insured may request a written explanation of the reasons. If the non-renewal is based on data the insured believes is inaccurate &mdash; for example, an aerial image that misidentifies roof condition &mdash; a challenge with documentation showing the actual condition is one available path.
         </li>
-        <li><strong>File complaints with the CDI.</strong> If you believe a carrier has used inaccurate data, an unfairly discriminatory algorithm, or a non-transparent process to make an adverse decision, file a complaint with the California Department of Insurance. Regulatory complaints create a record that may prompt review of the carrier&rsquo;s practices.</li>
+        <li><strong>CDI complaints.</strong> Insureds who believe a carrier has used inaccurate data, an unfairly discriminatory algorithm, or a non-transparent process to make an adverse decision can file a complaint with the California Department of Insurance. Regulatory complaints create a record that may prompt review of the carrier&apos;s practices.</li>
       </ul>
 
       <CalloutBox variant="tip" title="Request Your Property&rsquo;s Aerial Imagery Report">

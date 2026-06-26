@@ -20,17 +20,31 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <CalloutBox variant="info" title="Residential vs commercial — read this first">
+        <p>
+          Two distinct mechanisms get lumped together as &ldquo;coinsurance.&rdquo; The strict
+          coinsurance clause &mdash; with a proportional-payment formula applied across all losses
+          &mdash; is primarily a <strong>commercial property</strong> concept (ISO CP forms, BPP,
+          BOP). California <strong>residential</strong> HO-3 / HO-5 policies typically do not
+          contain a true coinsurance clause; the analogous residential mechanism is the policy&apos;s
+          <strong> Loss Settlement Condition</strong>, which kicks in only for partial losses when
+          the dwelling limit falls below 80% of replacement cost at the time of loss. The
+          residential and commercial mechanics interact with inflation guard differently. This
+          article addresses both; sections are labeled.
+        </p>
+      </CalloutBox>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         Most policyholders view inflation guard endorsements as a protective feature. The coverage
-        limit on the dwelling increases automatically each year &mdash; typically by 4 to 8 percent
-        &mdash; without the policyholder having to do anything. The assumption is that this keeps
-        coverage in line with rising construction costs, ensuring the property remains adequately
-        insured. In many cases, that assumption is correct. But in a significant number of
-        situations, the inflation guard endorsement creates a problem the policyholder never
-        anticipated: it pushes the coverage limit above the actual replacement cost of the
-        property, inflating the denominator in the{' '}
-        <Link href="/resources/coinsurance-penalty" className="text-[#2E74B5] hover:underline">coinsurance calculation</Link>{' '}
-        and ultimately reducing the amount the policyholder receives on a claim.
+        limit on the dwelling increases automatically each year &mdash; commonly in the 2 to 8
+        percent range &mdash; without the policyholder having to do anything. The assumption is
+        that this keeps coverage in line with rising construction costs, ensuring the property
+        remains adequately insured. In many cases, that assumption is correct. But in a
+        significant number of situations, the inflation guard endorsement creates a problem the
+        policyholder never anticipated: it pushes the coverage limit above (or, worse, leaves it
+        below) the actual replacement cost of the property, and the way that gap interacts with
+        the policy&apos;s settlement provisions can materially affect what the insured recovers
+        on a claim.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -90,13 +104,14 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Coinsurance Trap Explained
+        Commercial Property: How the Coinsurance Penalty Works
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A coinsurance clause requires the policyholder to maintain insurance equal to a specified
-        percentage (usually 80 percent) of the property&apos;s replacement cost. If the coverage
-        limit falls below that threshold, the insurer applies a penalty that reduces the claim
-        payment proportionally. The formula is:
+        On a standard commercial property policy (ISO CP 00 10 with an attached Causes of Loss
+        form), a coinsurance clause requires the insured to maintain insurance equal to a
+        specified percentage (usually 80 percent) of the property&apos;s replacement cost at the
+        time of loss. If the coverage limit falls below that threshold, the insurer applies a
+        proportional penalty to the claim payment. The formula is:
       </p>
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
         <p className="text-gray-700 font-semibold mb-3">
@@ -116,7 +131,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        A Worked Example
+        Worked Example (Commercial Property)
       </h3>
       <div className="bg-[#EFF4FB] border border-blue-100 rounded-xl p-5 mb-6">
         <h4 className="font-bold text-[#1F3964] mb-3">Scenario Without Inflation Guard</h4>
@@ -180,15 +195,63 @@ export default function Content() {
       </div>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Premium Effect: Paying More and Getting Less
+        California Residential Property: Loss Settlement Conditions, Not Strict Coinsurance
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Standard California residential HO-3 and HO-5 policies typically do <em>not</em> include
+        a true coinsurance clause. Instead, the Loss Settlement Condition does similar but
+        narrower work. Under the typical HO-3 Loss Settlement Condition, if the dwelling limit
+        equals or exceeds 80% of replacement cost at the time of loss, the insurer pays
+        replacement cost (less depreciation initially, with the depreciation holdback released
+        upon completion of repairs) up to the policy limit. If the dwelling limit is below 80%
+        of replacement cost at the time of loss, the insurer pays the <em>greater of</em> actual
+        cash value or a proportional formula applied to the cost of the partial loss only.
+        Critically:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          The 80% test runs at <strong>the time of loss</strong>, not at policy inception or
+          renewal.
+        </li>
+        <li>
+          The reduction applies only to the cost of the partial loss &mdash; it does not
+          proportionally compress every dollar of every claim payment the way the commercial
+          coinsurance formula does.
+        </li>
+        <li>
+          On a <em>total loss</em>, the analysis runs through Cal. Ins. Code &sect; 2051 (ACV =
+          replacement cost less depreciation, uniform for total and partial losses since AB 188,
+          eff. 1/1/2020) and &sect; 2051.5 (RC obligation, timelines), not through a coinsurance
+          formula.
+        </li>
+        <li>
+          The California Residential Property Insurance Disclosure under Cal. Ins. Code
+          &sect;&sect; 10101&ndash;10103 governs what the carrier must tell the insured about
+          replacement-cost coverage, extended replacement cost, and guaranteed replacement
+          cost.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The inflation guard interaction in the residential context, therefore, looks different
+        from the commercial scenario above. The residential policyholder&apos;s exposure is to
+        the 80% Loss Settlement threshold at the time of a partial loss, plus the gap between
+        the policy limit and the actual total-loss rebuild cost. An inflation guard percentage
+        that lags actual construction cost increases leaves the insured exposed on both fronts.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Premium Effect: Paying More on Inflated Limits
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The inflation guard endorsement increases the coverage limit, and premiums are calculated
         based on the coverage limit. A policyholder whose coverage limit has been inflated beyond
-        their property&apos;s actual replacement cost is paying premiums on coverage they cannot
-        use. The excess coverage above the actual replacement cost provides no benefit on a total
-        loss (the insurer will only pay the actual cost to rebuild, not the coverage limit) and no
-        benefit on a partial loss (the insurer pays the cost of repairs, subject to coinsurance).
+        the property&apos;s actual replacement cost is paying premiums on coverage they cannot
+        recover. The excess coverage above actual replacement cost provides no benefit on a total
+        loss (the insurer is generally obligated to pay the lesser of actual repair/replacement
+        cost or the policy limit under &sect; 2051.5(a)(1), so the inflated limit is irrelevant
+        if it exceeds actual rebuild cost) and no benefit on a partial loss (the carrier pays
+        the cost of repairs, subject to the Loss Settlement Condition or coinsurance provision
+        as applicable).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Meanwhile, if construction costs in the specific area have outpaced the inflation guard
@@ -243,37 +306,41 @@ export default function Content() {
         How to Check Whether Inflation Guard Is Helping or Hurting
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Policyholders with inflation guard endorsements should take the following steps to determine
-        whether the automatic increases are actually protecting them:
+        Policyholders with inflation guard endorsements might consider the following steps to
+        determine whether the automatic increases are actually protecting them:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Obtain a current replacement cost estimate.</strong> This can be done through a
-          professional appraisal, a detailed contractor estimate, or a reputable online replacement
-          cost calculator. The key is an estimate specific to the property, not a generic
+          <strong>Get a current replacement cost estimate.</strong> A professional appraisal, a
+          detailed contractor estimate, or a reputable online replacement cost calculator can
+          produce one. The key is an estimate specific to the property, not a generic
           percentage-based projection.
         </li>
         <li>
-          <strong>Compare the estimate to the current coverage limit.</strong> If the coverage limit
-          significantly exceeds the replacement cost estimate, the policyholder is paying premium
-          on coverage that provides no benefit. If the coverage limit is below the replacement cost
-          estimate, the policyholder is underinsured despite the inflation guard.
+          <strong>Compare the estimate to the current coverage limit.</strong> If the coverage
+          limit significantly exceeds the replacement cost estimate, the policyholder is paying
+          premium on coverage that provides no recoverable benefit. If the coverage limit is
+          below the replacement cost estimate, the policyholder is underinsured despite the
+          inflation guard.
         </li>
         <li>
-          <strong>Check for a coinsurance clause.</strong> Review the policy for coinsurance
-          provisions. If the policy has an 80 percent coinsurance clause, calculate whether the
-          current coverage limit meets the threshold based on the actual replacement cost estimate.
+          <strong>Review the settlement provision in the policy.</strong> Residential HO-3 / HO-5
+          policies typically use a Loss Settlement Condition (80% test at time of loss, partial
+          losses only). Commercial CP policies typically use a true coinsurance clause
+          (proportional formula across all losses). Different mechanics, different exposures.
         </li>
         <li>
-          <strong>Review the inflation guard percentage.</strong> Compare the annual inflation guard
-          percentage to actual construction cost indices for the area. If the inflation guard is
-          significantly above or below actual construction inflation, the coverage limit is
-          diverging from reality.
+          <strong>Review the inflation guard percentage.</strong> Compare the annual inflation
+          guard percentage to actual construction cost indices for the area. If the inflation
+          guard is significantly above or below actual construction inflation, the coverage
+          limit is diverging from reality.
         </li>
         <li>
-          <strong>Ask about guaranteed replacement cost.</strong> Determine whether a guaranteed or
-          extended replacement cost endorsement is available. If so, this may be a better solution
-          than inflation guard for maintaining adequate coverage without coinsurance risk.
+          <strong>Ask about extended replacement cost.</strong> Determine whether an extended
+          replacement cost endorsement (typically 25% or 50% above limit) is available. Most CA
+          carriers substantially curtailed true guaranteed-replacement-cost endorsements after
+          the 2017&ndash;2018 wildfire seasons; extended replacement cost is the more commonly
+          available alternative.
         </li>
       </ul>
 

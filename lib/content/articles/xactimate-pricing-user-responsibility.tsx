@@ -51,51 +51,55 @@ export default function Content() {
         What Verisk&apos;s Own EULA Says
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Section 12.3 of Verisk&apos;s End User License Agreement contains extraordinary language
-        that most people in the insurance industry have never read. Here is what Verisk tells every
-        user of their software:
+        The Verisk Xactware End User License Agreement contains language about the
+        software&apos;s Price Data that is often overlooked. The most relevant passage on
+        accuracy and user responsibility lives in &sect; 12.3:
       </p>
-      <div className="bg-gray-50 border border-gray-200 rounded-lg p-5 mb-6">
-        <ul className="space-y-3 text-gray-700">
-          <li>
-            <strong>&ldquo;We do not warrant the accuracy of pricing information in the
-            Price Data.&rdquo;</strong>
-          </li>
-          <li>
-            <strong>&ldquo;Price Data is intended to represent historical information and should be
-            used as a baseline or place to begin creation of an estimate.&rdquo;</strong>
-          </li>
-          <li>
-            <strong>&ldquo;We provide Price Data for informational purposes only.&rdquo;</strong>
-          </li>
-          <li>
-            <strong>&ldquo;You must ensure that estimates include pricing consistent with actual
-            materials, equipment, labor pricing, etc.&rdquo;</strong>
-          </li>
-          <li>
-            <strong>&ldquo;You agree not to prohibit or preclude deviations from the Price Data
-            where contractor requirements, market conditions, demand, or any other factors warrant
-            the use of a different line item price in a specific situation.&rdquo;</strong>
-          </li>
-        </ul>
-      </div>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        Verisk does not warrant the accuracy of pricing information in the Price Data. Price
+        Data is intended to represent historical information and should be used as a baseline
+        or place to begin creation of an estimate. We may not update every price every month.
+        You must ensure that estimates include pricing consistent with actual materials,
+        equipment, labor pricing, etc.
+      </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read those statements again. The company that makes the software:
+        The EULA also expressly addresses whether deviations from the published Price Data are
+        permitted, again in &sect; 12.3:
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        You agree not to prohibit or preclude deviations from the Price Data where contractor
+        requirements, market conditions, demand or any other factor warrants the use of a
+        different line item price in the specific situation.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The accompanying Price Data definition section adds that the pricing &ldquo;is provided
+        for informational purposes only,&rdquo; and is published as Verisk&apos;s historical
+        market research rather than a real-time price feed. Source for both passages:{' '}
+        <a
+          href="https://www.verisk.com/privacy-policies/xactware-eula/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#2E74B5] underline"
+        >
+          Verisk Xactware End User License Agreement
+        </a>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Taken together, the EULA does several things at once:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Disclaims any warranty that the pricing is accurate</li>
-        <li>Calls it a &ldquo;baseline&rdquo; and &ldquo;place to begin&rdquo; &mdash; not a
-          final answer</li>
-        <li>Says pricing is &ldquo;for informational purposes only&rdquo;</li>
-        <li>Places the responsibility on the <em>user</em> to verify pricing matches actual costs</li>
-        <li>Contractually requires users not to treat Xactimate pricing as a ceiling that cannot
-          be exceeded</li>
+        <li>Disclaims any warranty that the Price Data is accurate.</li>
+        <li>Describes Price Data as a &ldquo;baseline or place to begin,&rdquo; not a final answer.</li>
+        <li>Places responsibility on the <em>user</em> to verify pricing matches actual costs.</li>
+        <li>
+          Contractually obligates licensees not to prohibit deviations from the Price Data when
+          market or job conditions warrant.
+        </li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That last point is critical. Verisk&apos;s own license agreement says users must{' '}
-        <em>not prohibit deviations</em> from the published pricing when market conditions warrant
-        it. An insurance adjuster who refuses to pay above Xactimate pricing &mdash; regardless of
-        what the work actually costs &mdash; is violating the terms of the software they are using.
+        The last point is the load-bearing one. An adjuster who refuses to pay above Xactimate
+        pricing regardless of what the work actually costs is acting inconsistently with the
+        EULA terms governing the very software the carrier is licensing.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -122,10 +126,10 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In plain English: Xactimate reports a midpoint. Half the actual prices in the market are
-        higher than what Xactimate shows. The software is telling the user: this is what we found
-        as a common price &mdash; now <em>you</em> decide whether that price applies to your
-        specific job.
+        In plain English: Xactimate reports a representative point within the range of submitted
+        prices. Some actual prices in the market are higher, some are lower. The software is
+        telling the user: this is what was found as a common price &mdash; now <em>you</em>
+        decide whether that price applies to the specific job.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -302,7 +306,7 @@ export default function Content() {
         intended &mdash; it is what the user failed to include.
       </p>
 
-      <CalloutBox variant="warning" title="The Adjuster Who Refuses to Deviate Is Violating the EULA">
+      <CalloutBox variant="warning" title="The Adjuster Who Refuses to Deviate Is Acting Inconsistently with the EULA">
         <p>
           When a carrier adjuster says &ldquo;I can only pay what Xactimate says&rdquo; and refuses
           to adjust pricing regardless of actual market costs, they are contradicting the terms of
@@ -347,32 +351,36 @@ export default function Content() {
         Where Verisk Does Share Some Responsibility
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is not an absolute defense of Verisk&apos;s pricing research. There are legitimate
-        critiques:
+        This is not an absolute defense of Verisk&apos;s pricing research. Policyholder-side
+        commentators, including the Restoration Industry Association in published position
+        statements, have raised structural critiques that are worth surfacing:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Survey methodology bias</strong> &mdash; Verisk collects pricing data from
-          submitted estimates. If a disproportionate number of those estimates come from insurance
-          company adjusters (who have incentives to estimate low), the database may drift downward
-          over time.
+          <strong>Survey methodology mix.</strong> Verisk collects pricing data from submitted
+          estimates. The mix of contributors &mdash; including insurance-company adjusters whose
+          estimates may track carrier pricing guidance &mdash; can influence the central
+          tendency of the database over time.
         </li>
         <li>
-          <strong>Lag in volatile markets</strong> &mdash; during periods of rapid price increases
-          (post-disaster demand surge, supply chain disruptions, inflation), the database may not
-          update quickly enough to reflect current market conditions.
+          <strong>Lag in volatile markets.</strong> During periods of rapid price increases
+          (post-disaster demand surge, supply-chain disruptions, sustained inflation), a database
+          built on historical submitted data may not reflect current market conditions quickly.
         </li>
         <li>
-          <strong>Cluster analysis methodology</strong> &mdash; Verisk uses cluster analysis to
-          identify the &ldquo;largest group of prices&rdquo; and pick a point within that range.
-          This methodology could systematically underweight high-cost markets or specialty
-          contractors.
+          <strong>Cluster-analysis methodology.</strong> The cluster approach used in published
+          Verisk research targets a representative point within the largest group of submitted
+          prices. Some commentators have argued this methodology could underweight high-cost
+          markets or specialty contractors; Verisk&apos;s published Pricing Research Methodology
+          document is the primary source for the underlying approach.
         </li>
         <li>
-          <strong>Market concentration</strong> &mdash; in markets where insurance work dominates,
-          contractors may submit prices that are already suppressed by carrier pressure &mdash;
-          creating a circular problem where low carrier expectations produce low submitted data
-          that Verisk then reports as &ldquo;market pricing.&rdquo;
+          <strong>Market concentration.</strong> In markets where insurance work dominates,
+          some commentators have argued that contractor pricing may be shaped by carrier
+          expectations and that the submitted data therefore reflects those expectations more
+          than an unconstrained market would. This is a structural argument made by
+          policyholder advocates; Verisk has not, to my knowledge, acknowledged a
+          carrier-pressure feedback loop in its published methodology materials.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -462,7 +470,18 @@ export default function Content() {
         Sources and References
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Verisk End User License Agreement, Section 12.3 &mdash; &ldquo;Price Data&rdquo;</li>
+        <li>
+          Verisk Xactware End User License Agreement, &sect; 12.3 (Price Data accuracy and
+          deviation provisions) &mdash;{' '}
+          <a
+            href="https://www.verisk.com/privacy-policies/xactware-eula/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#2E74B5] underline"
+          >
+            verisk.com/privacy-policies/xactware-eula
+          </a>
+        </li>
         <li>Verisk Pricing Research Methodology white paper</li>
         <li>Verisk Pricing Methodology Summary white paper</li>
         <li>Verisk Labor Efficiencies Design white paper</li>

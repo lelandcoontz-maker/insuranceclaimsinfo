@@ -123,10 +123,12 @@ export default function Content() {
         How to Get a Real Rebuild Estimate
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Do not rely on your insurer&apos;s calculator. Get an independent estimate from a licensed
-        general contractor who builds homes in your area. Ask them: &quot;If my home was destroyed
-        and you had to rebuild it from the foundation up, with current code compliance, what would it
-        cost?&quot; Get this in writing.
+        An independent estimate from a licensed general contractor who builds homes in the area
+        is usually more accurate than the calculator the agent or carrier used at issuance.
+        A common question to ask the contractor is something like: &ldquo;If this home was
+        destroyed and you had to rebuild it from the foundation up, with current code
+        compliance, what would it cost?&rdquo; Many policyholders ask for that estimate in
+        writing.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The estimate should include:
@@ -139,7 +141,9 @@ export default function Content() {
         <li>Interior finishes — flooring, cabinets, countertops, fixtures</li>
         <li>Current building code requirements (Title 24 energy, fire hardening, seismic)</li>
         <li>Permits and architectural/engineering fees</li>
-        <li>General contractor overhead and profit (typically 20-25 percent)</li>
+        <li>General contractor overhead and profit (10% overhead + 10% profit is the
+        carrier-recognized baseline of approximately 20%; total rebuilds often run higher in
+        practice)</li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -165,35 +169,60 @@ export default function Content() {
         <Link href="/resources/coinsurance-penalty" className="text-blue-700 underline hover:text-blue-900">
           coinsurance penalty
         </Link>{' '}
-        — a formula that reduces your payout proportionally, even when the loss is well within your
-        limit. This adds insult to injury.
+        &mdash; a formula that reduces the payout proportionally, even when the loss is well
+        within the policy limit. (Standard California residential HO-3 policies typically do
+        not have a true coinsurance clause; the analogous residential mechanism is the Loss
+        Settlement Condition.)
       </p>
+
+      <CalloutBox variant="info" title="The Post-Loss Clock — Cal. Ins. Code § 2051.5(b)">
+        <p>
+          Closing the dwelling-limit gap before a loss is half the picture. After a loss,
+          California sets statutory floors on how long the insured has to actually rebuild and
+          collect the replacement-cost holdback: at least 12 months from the date of the first
+          ACV payment under &sect; 2051.5(b)(1)(A), extended to at least 36 months for losses
+          related to a state of emergency under &sect; 2051.5(b)(1)(B), with additional
+          six-month good-cause extensions available under &sect; 2051.5(b)(2). A policy may
+          grant longer; it cannot grant shorter.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         How to Fix It
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Take these steps now:
+        You might consider working through the following steps:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
-        <li>Get a contractor&apos;s rebuild estimate for your home</li>
-        <li>Compare it to your current Coverage A dwelling limit on your{' '}
+        <li>Get a contractor&apos;s rebuild estimate for the home.</li>
+        <li>
+          Compare it to the current <strong>Dwelling</strong> limit on the{' '}
           <Link href="/resources/declarations-page" className="text-blue-700 underline hover:text-blue-900">
             declarations page
-          </Link>
+          </Link>.
         </li>
-        <li>If the estimate exceeds your limit, call your agent and request an increase</li>
-        <li>Ask about extended replacement cost (25% or 50% above limit) if guaranteed is unavailable</li>
-        <li>Check that your other coverages (B, C, D) are proportionally adequate</li>
-        <li>Confirm you have ordinance or law coverage for code upgrades</li>
-        <li>Set a calendar reminder to repeat this review annually</li>
+        <li>If the estimate exceeds the limit, contact the agent and request an increase.</li>
+        <li>
+          Ask about extended replacement cost (typically 25% or 50% above limit) where
+          guaranteed-replacement-cost endorsements are unavailable.
+        </li>
+        <li>
+          Check that the <strong>Other Structures</strong>, <strong>Personal Property</strong>,
+          and <strong>Loss of Use</strong> limits are proportionally adequate.
+        </li>
+        <li>Confirm there is ordinance-or-law coverage in place for code upgrades.</li>
+        <li>Set a calendar reminder to repeat this review annually.</li>
       </ol>
 
-      <CalloutBox variant="tip" title="The Premium Increase Is Worth It">
+      <CalloutBox variant="tip" title="What the Premium Math Tends to Look Like">
         <p>
-          Yes, increasing your dwelling limit raises your premium. But the cost difference between a
-          $500,000 limit and a $700,000 limit is typically $300 to $600 per year. Compare that to the
-          $200,000 gap you would pay out of pocket after a total loss. The math is obvious.
+          Increasing the dwelling limit raises the premium. In lower-risk territories, the
+          cost difference between, say, a $500,000 limit and a $700,000 limit is often in the
+          range of a few hundred dollars per year. In California&apos;s wildfire-exposed
+          territories (Lake Arrowhead, Topanga, the Wildland-Urban Interface generally), the
+          marginal cost is materially higher under the current non-renewal-driven rate
+          environment. Even there, the arithmetic of closing a $200,000 limit gap on a total
+          loss tends to favor closing the gap.
         </p>
       </CalloutBox>
 
