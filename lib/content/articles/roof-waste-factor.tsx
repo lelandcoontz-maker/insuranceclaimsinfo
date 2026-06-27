@@ -74,9 +74,13 @@ export default function Content() {
         <li>
           <strong>Hip roof (15% baseline):</strong> Once a roof has hip sections, valleys
           where planes intersect, and typical residential penetrations (plumbing vents,
-          exhaust fans, furnace flue), 15% is the traditional starting point. Every hip and
-          valley requires angled cuts on every course of shingles along that line. Most
-          standard residential roofs sit at or above this baseline.
+          exhaust fans, furnace flue), 15% is the traditional starting point. The mechanical
+          reason waste climbs on a hip roof is straightforward: hips and valleys force the
+          shingles along those lines to be cut on an angle. Every course that runs into a
+          hip or valley loses the angled cut-off piece, and that cut material is rarely
+          usable elsewhere on the roof. The more linear feet of hip and valley, the more
+          angled cuts, the more discarded material. Most standard residential roofs sit at
+          or above this 15% baseline.
         </li>
         <li>
           <strong>Complex roof with dormers, multiple penetrations, and irregular geometry
@@ -97,6 +101,21 @@ export default function Content() {
         actually purchased and the waste materials generated at the end of the job are the
         most defensible record of what the roof really required.
       </p>
+
+      <CalloutBox variant="info" title="A general principle of waste-factor calculation">
+        <p>
+          As a general principle &mdash; not just on roofs but in estimating across construction
+          trades &mdash; the larger the continuous field, the lower the waste factor tends to
+          run as a percentage. Tile on a 400-square-foot living-room floor wastes a smaller
+          percentage of material than tile on a 30-square-foot bathroom floor with the same
+          geometry, because the cut-offs from the field shrink in proportion to the field as
+          the field gets bigger. The same principle applies to shingles: a large continuous
+          slope wastes a lower percentage than several small slopes that add up to the same
+          area. The waste percentage does not go to zero on a large field, however. Even on the
+          biggest continuous run, the rake-edge and ridge cuts still produce some discarded
+          material.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Exposure: A Separate Quantity Issue (Not a Waste Factor)
@@ -325,30 +344,86 @@ export default function Content() {
         How to Measure a Roof
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        There are two primary methods for measuring a roof:
+        Measurement is the foundation of any waste-factor argument. If the underlying
+        measurement is wrong, every percentage applied on top of it is wrong too. There are
+        two methods used in the field, and they are not interchangeable in the way many modern
+        adjusters treat them.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Tape-Measurement on the Roof &mdash; the Gold Standard
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The traditional method for measuring a roof is to climb onto it with a tape measure
+        and measure every plane &mdash; rake length, eave length, ridge length, the rise over
+        the run for the slope, and the geometry of each hip and valley. A photograph of the
+        tape extended against the framing creates contemporaneous evidence of the dimension
+        as measured on the actual roof. This is the gold standard because it captures the
+        actual roof, not a model of it.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Tape measurement does not require that every single dimension be taken individually.
+        Framing constrains the geometry: on a gable roof, the rafters on both sides of the
+        ridge are cut to the same length, so if one slope measures 16 feet 3 inches, the
+        opposite slope is essentially certain to be the same. A roofer or PA who tape-measures
+        four or five key dimensions has effectively measured the whole roof because the
+        framing dictates the rest. &ldquo;Not every dimension was taped&rdquo; is not the
+        gotcha an adjuster sometimes treats it as. What was taped creates a highly accurate
+        baseline; the rest follows from the framing.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Satellite and Photogrammetric Reports &mdash; Useful, With Documented Blind Spots
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Services like EagleView, GAF QuickMeasure, and Hover use satellite or photogrammetric
+        imagery to generate roof reports with total area, pitch, facet count,
+        hip/valley/ridge/rake lengths, and penetration count. These reports are widely used
+        in the industry, often accurate down to the inch, and they are far easier to obtain
+        than putting a roofer on the roof. As a tool, they are useful. As an authoritative
+        substitute for tape measurement, they have known limitations:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Physical measurement:</strong> Getting on the roof with a tape measure and
-          measuring every plane, ridge, hip, valley, and rake. Each plane is calculated as a
-          geometric shape (rectangle, triangle, trapezoid) and the areas are summed. This is the
-          most accurate method but requires safe roof access.
+          <strong>Slope/pitch interpretation can be wrong.</strong> The software infers pitch
+          from shadow, parallax, or a 3D model fit to the image. Sometimes the inference is
+          off, and a wrong pitch propagates into every area, length, and material-quantity
+          line on the report.
         </li>
         <li>
-          <strong>Satellite / aerial measurement:</strong> Services like EagleView and GAF
-          QuickMeasure use satellite imagery to generate roof reports with total area, pitch,
-          facet count, hip/valley/ridge/rake lengths, and penetration count. These reports are
-          widely used in the industry and generally accurate for residential roofs.
+          <strong>Cornice returns and other small features can be missed.</strong> Architectural
+          features hidden from the satellite&apos;s overhead angle &mdash; cornice returns,
+          small dormers tucked behind other roof planes, eyebrow features &mdash; may not appear
+          in the report, even though the roofer has to install them.
+        </li>
+        <li>
+          <strong>Tree cover obscures portions of the roof.</strong> Where mature trees overhang
+          the structure, the satellite physically cannot see the roof underneath. The report
+          either estimates the obscured area or simply omits it.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When disputing a carrier&apos;s estimate, an independent satellite report is one of the
-        more cost-effective steps an insured might consider. Beyond confirming total area,
-        these reports document the number of facets, total hip and valley lengths, and
-        penetration count &mdash; data that directly supports a higher waste factor. A
-        satellite report showing 25 facets, 180 linear feet of hip, and 12 penetrations makes
-        it difficult to credibly argue that 10% waste is adequate for that roof.
+        None of this makes satellite reports useless &mdash; they are an excellent
+        second-source check and, when disputing a carrier&apos;s low estimate, an independent
+        satellite report is one of the more cost-effective steps an insured might consider.
+        A report showing 25 facets, 180 linear feet of hip, and 12 penetrations is hard to
+        credibly argue against. The point is that the report is one piece of evidence about
+        the roof, not the only piece.
       </p>
+
+      <CalloutBox variant="warning" title="When an Adjuster Refuses to Accept On-Site Tape Measurements">
+        <p>
+          A pattern worth surfacing: some adjusters now treat their preferred measurement
+          software as authoritative and refuse to accept on-site tape measurements as
+          evidence. That refusal has the analysis backwards. Tape measurement is not a
+          competing data source against the software; it is the underlying reality that the
+          software is trying to model. Where the software disagrees with a documented tape
+          measurement of the actual roof, the software is the one in tension with reality
+          &mdash; not the other way around. When an adjuster declines to accept on-site
+          measurements taken by a licensed roofer or public adjuster, that refusal itself is
+          worth documenting in writing for the claim file.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Common Carrier Tactics on Waste Factor
