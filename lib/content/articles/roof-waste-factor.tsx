@@ -56,49 +56,96 @@ export default function Content() {
         How to Calculate Waste Factor by Roof Type
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Waste factor is driven by the number of cuts required. The more cuts, the more waste. Here
-        are general guidelines based on roof complexity:
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Industry references such as HAAG&apos;s roof-inspection materials, the ARMA (Asphalt
-        Roofing Manufacturers Association), and NRCA (National Roofing Contractors Association)
-        generally place asphalt-shingle waste in the 10&ndash;15% range as a baseline, with
-        complex roofs running higher. The bands below track those references:
+        Waste factor is driven by the number of cuts required. The more cuts, the more waste.
+        The traditional adjuster baseline most field references use is{' '}
+        <strong>10% on a gable roof and 15% on a hip roof</strong>, with the understanding
+        that the actual waste on a specific roof may be higher or lower than the baseline.
+        HAAG&apos;s roof-inspection materials, the ARMA (Asphalt Roofing Manufacturers
+        Association), and NRCA (National Roofing Contractors Association) generally use the
+        same baseline numbers. The bands below describe how those numbers move with roof
+        complexity:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Simple gable roof (10&ndash;12% waste):</strong> A straightforward gable has
-          two rectangular planes meeting at a single ridge. The only cuts happen along the rake
-          edges and at the ridge. Minimal valleys, no hips, few penetrations. This is the
-          simplest roof to shingle, and 10% is the working minimum most field references use.
+          <strong>Simple gable roof (10% baseline):</strong> Two rectangular planes meeting at
+          a single ridge. The only cuts happen along the rake edges and at the ridge. Minimal
+          valleys, no hips, few penetrations. 10% is the traditional adjuster starting point.
         </li>
         <li>
-          <strong>Moderate roof with hips and valleys (15&ndash;20% waste):</strong> Once a roof
-          has hip sections, valleys where planes intersect, multiple ridges, and typical
-          residential penetrations (plumbing vents, exhaust fans, furnace flue), waste climbs.
-          Every hip and valley requires angled cuts on every course of shingles along that line.
-          Most standard residential roofs fall in this range.
+          <strong>Hip roof (15% baseline):</strong> Once a roof has hip sections, valleys
+          where planes intersect, and typical residential penetrations (plumbing vents,
+          exhaust fans, furnace flue), 15% is the traditional starting point. Every hip and
+          valley requires angled cuts on every course of shingles along that line. Most
+          standard residential roofs sit at or above this baseline.
         </li>
         <li>
           <strong>Complex roof with dormers, multiple penetrations, and irregular geometry
-          (20&ndash;25%+ waste):</strong> Roofs with dormers, turrets, multiple skylights,
-          satellite dishes, cricket flashings, chimney step flashings, and irregular plan shapes
-          generate the most waste. Each penetration forces cuts on the surrounding shingles, and
-          each dormer adds its own set of hips, valleys, and rake edges.
+          (20&ndash;25%+):</strong> Roofs with dormers, turrets, multiple skylights, satellite
+          dishes, cricket flashings, chimney step flashings, and irregular plan shapes
+          generate the most waste. Each penetration forces cuts on the surrounding shingles,
+          and each dormer adds its own set of hips, valleys, and rake edges.
         </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Beyond the rule-of-thumb baseline, there are two ways to get the actual number for a
+        specific roof. Several measurement-software products (EagleView, GAF QuickMeasure,
+        Hover, and similar) calculate waste more precisely from satellite or photogrammetric
+        data &mdash; they count the actual hips, valleys, rakes, and penetrations and feed
+        that into a waste number tied to the geometry rather than to a category. The other
+        method is post-hoc: a roofing contractor can calculate the actual waste on the job
+        from the materials ordered versus the materials installed. The materials a contractor
+        actually purchased and the waste materials generated at the end of the job are the
+        most defensible record of what the roof really required.
+      </p>
 
-      <CalloutBox variant="important" title="Starter and Cap Shingles Are Not Waste">
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Exposure: A Separate Quantity Issue (Not a Waste Factor)
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A separate quantity issue often confused with waste factor is{' '}
+        <strong>exposure</strong> &mdash; the visible portion of each course of shingles after
+        the next course is installed over it. Standard asphalt shingles are typically
+        installed at a 5 to 5-5/8 inch exposure depending on the product. Some products and
+        installation specifications call for tighter exposure (sometimes called a
+        &ldquo;reduced exposure&rdquo; or a &ldquo;closer reveal&rdquo;), which means each
+        shingle overlaps the next one more, and more shingles per square are required to
+        cover the same area.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Reduced exposure is not a waste factor &mdash; it is simply <em>more material
+        needed</em> to cover the same surface area. The shingles are not being cut off and
+        discarded; they are being installed with greater overlap. When an estimate accounts
+        only for standard exposure and the actual installation requires a reduced exposure,
+        the material quantity is short before any waste calculation enters the picture. This
+        is one of the easier issues to miss because the estimate&apos;s waste factor may
+        look reasonable while the underlying material count is wrong.
+      </p>
+
+      <CalloutBox variant="important" title="Starter Strip Is Not a Shingle &mdash; And It Is Not Covered by the Waste Factor">
         <p>
-          Starter strip shingles (the first course along the eaves and rakes) and ridge cap shingles
-          (the pieces that cover the ridge and hips) are <strong>separate line items</strong> in a
-          proper estimate &mdash; they are not included in the waste factor. Starter and cap are
-          distinct products purchased separately. If a carrier includes starter and cap inside the
-          waste percentage rather than as individual{' '}
-          <Link href="/resources/xactimate-line-items" className="text-blue-700 underline hover:text-blue-900">
-            Xactimate line items
-          </Link>, the estimate is wrong twice: the waste factor is artificially inflated and the
-          actual starter and cap material is not accounted for properly.
+          Starter strip is the first course installed along the eaves and (on some
+          manufacturers&apos; specifications) along the rakes. Most major asphalt-shingle
+          manufacturers either <strong>require</strong> a starter strip product (or explicitly
+          allow shingles cut down to function as starters) as part of the installation
+          specification that backs the warranty. Starter strip looks similar to a shingle but
+          it is a <strong>distinct product</strong>, sold separately, with its own SKU, its
+          own price, and its own Xactimate line item.
+        </p>
+        <p className="mt-2">
+          The recurring adjuster argument worth naming: adjusters often try to refuse a
+          separate line item for starter strip on the theory that &ldquo;the waste factor
+          already covers it&rdquo; &mdash; i.e., that the waste percentage applied to the
+          roof shingles is sufficient to pay for the starter material as well. That argument
+          conflates two different things. Waste factor accounts for cut-off material thrown
+          away during installation. Starter strip is an entirely separate product the roofer
+          had to buy. Bundling starter strip into the waste percentage produces an estimate
+          that is wrong twice: the waste factor is artificially inflated to justify the
+          bundling, and the actual starter material is not paid for as the product it is.
+        </p>
+        <p className="mt-2">
+          The same analysis applies to ridge cap shingles (the pieces that cover the ridge
+          and hips), which are also a separate product with their own SKU and their own
+          Xactimate line item. Ridge cap material is not what the waste percentage is for.
         </p>
       </CalloutBox>
 
