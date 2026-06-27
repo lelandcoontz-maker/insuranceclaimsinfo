@@ -143,8 +143,8 @@ export default function Content() {
         <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">
           declarations page
         </Link>{' '}
-        before you go. Know the Coverage A (dwelling) limit, Coverage B (other structures), the
-        deductible amount, and any endorsements that modify standard coverage. This is not optional
+        before you go. Know the Dwelling limit, the Other Structures limit, the deductible
+        amount, and any endorsements that modify standard coverage. This is not optional
         background reading &mdash; it directly shapes what you need to look for during the
         inspection.
       </p>

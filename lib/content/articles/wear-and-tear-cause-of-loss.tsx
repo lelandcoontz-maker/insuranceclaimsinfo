@@ -88,16 +88,25 @@ export default function Content() {
         What the Policy Actually Says
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Let us look at the actual exclusion language. A standard HO-3 policy (ISO form) reads:
+        The wear-and-tear exclusion in a standard HO 00 03 form lives in Section I &mdash;
+        Exclusions B, not Section I &mdash; Exclusions A. Exclusion A is where the
+        anti-concurrent-causation lead-in language sits (covering earth movement, water
+        damage, neglect, war, nuclear hazard, intentional loss, and governmental action).
+        Exclusion B has a different structure and includes an <strong>ensuing-loss
+        carve-back</strong> &mdash; meaning that loss <em>ensuing</em> from a wear-and-tear
+        condition is generally still covered if it is not otherwise excluded. The standard
+        form reads, in relevant part:
       </p>
-      <div className="bg-gray-50 border border-gray-200 rounded-lg p-5 mb-6 text-gray-800 text-sm italic">
-        <p className="mb-2">We do not insure for loss caused directly or indirectly by any of the following. Such loss is excluded regardless of any other cause or event contributing concurrently or in any sequence to the loss:</p>
-        <p className="pl-4">Wear and tear, marring, deterioration</p>
-      </div>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        We do not insure for loss to property described in Coverages A and B caused by any of
+        the following. However, any ensuing loss to property described in Coverages A and B
+        not precluded by any other provision in this policy is covered. ... Wear and tear,
+        marring, deterioration.
+      </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Notice the structure: &ldquo;We do not insure for <strong>loss caused</strong> ... by ...
-        wear and tear.&rdquo; The exclusion is about what <em>caused</em> the loss. It is not about
-        the condition of the property. The policy does not say &ldquo;We do not insure property
+        Two structural points follow from that language. First, the exclusion is about what
+        <em> caused</em> the loss, not about the condition of the property. The policy does
+        not say &ldquo;We do not insure property
         that has experienced wear and tear.&rdquo; It does not say &ldquo;We do not insure
         property that is old.&rdquo; It does not say &ldquo;We do not insure property that is
         in less than perfect condition.&rdquo;
@@ -236,18 +245,23 @@ export default function Content() {
           went the carrier&rsquo;s way on its facts.
         </li>
         <li>
-          <strong>California Insurance Code &sect; 530</strong> establishes the proximate-cause
-          rule for insurance: &ldquo;An insurer is liable for a loss of which a peril insured
-          against was the proximate cause, although a peril not contemplated by the contract may
-          have been a remote cause of the loss; but he is not liable for a loss of which the peril
-          insured against was only a remote cause.&rdquo; The classic common-law definition of
-          proximate cause &mdash; widely cited in California courts and reflected in CACI 2306
-          (the standard jury instruction on efficient proximate cause) &mdash; is &ldquo;the cause
-          which, in a natural and continuous sequence, unbroken by any new independent cause,
-          produces the event, and without which that event would not have occurred.&rdquo; Read
-          together, &sect; 530 codifies the rule (the insurer is liable if a covered peril was the
-          proximate cause), and the common-law / CACI formulation supplies the test for what
-          &ldquo;proximate cause&rdquo; means in practice.
+          <strong>California Insurance Code &sect; 530</strong> codifies the proximate-cause
+          rule for insurance:
+          <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+            An insurer is liable for a loss of which a peril insured against was the proximate
+            cause, although a peril not contemplated by the contract may have been a remote
+            cause of the loss; but he is not liable for a loss of which the peril insured
+            against was only a remote cause.
+          </blockquote>
+          The Judicial Council Civil Jury Instruction tracking this principle is CACI 2306
+          (&ldquo;Covered and Excluded Risks &mdash; Predominant Cause of Loss&rdquo;), which
+          frames the jury question in terms of the predominant cause of the loss.
+        </li>
+        <li>
+          <strong><em>Sabella v. Wisler</em></strong> (1963) 59 Cal.2d 21 is the foundational
+          California case anchoring the efficient-proximate-cause framework in the first-party
+          context. <em>Sabella</em> traces the lineage that <em>Garvey</em> later restated and
+          that <em>Howell</em> protected from anti-concurrent-causation rollback.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -257,15 +271,27 @@ export default function Content() {
         simply because the wind happened to damage old materials.
       </p>
 
-      <CalloutBox variant="legal" title="Anti-Concurrent Causation Clauses Do not Save the Carrier Here">
+      <CalloutBox variant="legal" title="Ensuing-Loss Carve-Back and the ACC Limits">
         <p>
-          Many policies include anti-concurrent causation (ACC) language that attempts to deny
-          coverage when an excluded cause contributes &ldquo;in any sequence&rdquo; to the loss.
-          But California courts have limited the reach of ACC clauses. More importantly, ACC clauses
-          address situations where two independent <em>causes</em> are at work — they do not apply
-          when wear and tear is merely a <em>condition</em> of the property, not an independent
-          cause operating alongside the covered peril. A worn shingle being blown off by wind is
-          one cause (wind), not two competing causes.
+          Two related points strengthen the policyholder side of a wear-and-tear dispute in
+          California. First, the standard HO 00 03 Exclusion B for wear and tear carries an
+          <em> ensuing-loss carve-back</em> &mdash; loss ensuing from a wear-and-tear condition
+          is generally still covered if it is not otherwise excluded. Second, where a policy
+          form uses anti-concurrent-causation (ACC) language elsewhere, California courts have
+          limited the reach of ACC clauses where doing so would defeat the efficient proximate
+          cause rule (<em>Howell</em>). ACC clauses also address situations where two
+          independent <em>causes</em> are at work; they do not apply when wear and tear is a
+          <em> condition</em> of the property, not an independent cause operating alongside
+          the covered peril. A worn shingle being blown off by wind is one cause (wind), not
+          two competing causes.
+        </p>
+        <p className="mt-2">
+          The carrier&apos;s burden on the exclusion is also worth remembering. The California
+          Supreme Court held in <em>Aydin Corp. v. First State Insurance Co.</em> (1998) 18
+          Cal.4th 1183 that the insurer bears the burden of proving the applicability of an
+          exclusion. In a roof-damage dispute, that means the insurer &mdash; not the
+          insured &mdash; has the burden to show that wear and tear, rather than wind, was the
+          efficient proximate cause of the specific damage at issue.
         </p>
       </CalloutBox>
 

@@ -224,9 +224,10 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Age is not a coverage defense.</strong> Your policy covers storm damage to your
-          roof regardless of its age. A 20-year-old roof is still insured. The carrier collected
-          premiums to cover it.
+          <strong>Age is not, by itself, a coverage defense.</strong> Storm damage to a roof
+          is generally covered without regard to roof age, absent specific age-related
+          endorsements in the policy. A 20-year-old roof remains insured property. The carrier
+          collected premiums to cover it.
         </li>
         <li>
           <strong>Old roofs are more vulnerable, not immune.</strong> An aged roof is actually
@@ -272,14 +273,26 @@ export default function Content() {
           storm.
         </li>
         <li>
-          &ldquo;Anti-concurrent causation&rdquo; clauses (which some carriers include to override
-          this doctrine) are unenforceable in California to the extent they conflict with the
-          efficient proximate cause doctrine. The Court of Appeal directly held in <em>Howell v.
-          State Farm</em> (1990) 218 Cal.App.3d 1446 that ACC language cannot be used to deny
-          coverage when a covered peril is the efficient proximate cause. The California Supreme
-          Court has restated the general rule (in <em>Julian v. Hartford Underwriters</em> (2005)
-          35 Cal.4th 747, although on <em>Julian</em>&rsquo;s facts the Court did enforce a
-          carrier&rsquo;s distinct-peril exclusion).
+          &ldquo;Anti-concurrent causation&rdquo; clauses (which some carriers include to
+          override this doctrine) are unenforceable in California to the extent they conflict
+          with the efficient proximate cause doctrine. The doctrinal lineage runs from
+          <em> Sabella v. Wisler</em> (1963) 59 Cal.2d 21 (foundational EPC case in the
+          first-party context) through <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395
+          (modern restatement). The Court of Appeal directly held in <em>Howell v. State
+          Farm</em> (1990) 218 Cal.App.3d 1446 that ACC language cannot be used to deny
+          coverage when a covered peril is the efficient proximate cause. The California
+          Supreme Court has restated the general rule (in <em>Julian v. Hartford
+          Underwriters</em> (2005) 35 Cal.4th 747, although on <em>Julian</em>&rsquo;s facts
+          the Court enforced a carrier&rsquo;s narrow distinct-peril exclusion).
+        </li>
+        <li>
+          <strong>The carrier&apos;s burden on exclusions.</strong> The California Supreme
+          Court held in <em>Aydin Corp. v. First State Insurance Co.</em> (1998) 18 Cal.4th
+          1183 that the insurer bears the burden of proving the applicability of a coverage
+          exclusion. In a storm-damage denial premised on wear-and-tear or pre-existing
+          conditions, that means the carrier &mdash; not the insured &mdash; has to prove the
+          excluded cause, rather than the covered peril, was the efficient proximate cause of
+          the loss.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -293,9 +306,13 @@ export default function Content() {
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Get the denial in writing.</strong> Request the specific basis for the denial,
-          including any engineer reports, photographs, and field notes the carrier relied upon. Under
-          California law (10 CCR § 2695.7(d)), the carrier must provide this.
+          <strong>Get the denial in writing.</strong> 10 CCR &sect; 2695.7(b)(1) requires the
+          carrier&apos;s denial to state, in writing, the factual and legal bases for the
+          denial &mdash; including the specific policy provisions relied on. The insured can
+          ask in writing for the supporting documentation behind that statement of bases
+          (engineer reports, photographs, field notes), though pre-litigation production of
+          underlying expert work product is not literally compelled by &sect; 2695.7(b)(1)
+          itself.
         </li>
         <li>
           <strong>Hire an independent expert.</strong> A qualified roofing consultant or independent

@@ -61,14 +61,16 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="Cashing a Check Does Not Mean You Agree">
+      <CalloutBox variant="tip" title="Read Any Release Language Carefully">
         <p>
-          In California, accepting a partial payment does not waive your right to dispute the
-          remaining amount. Under 10 CCR §2695.7(h), if the insurer
-          issues payment for an undisputed amount, cashing that check does not prevent you from
-          pursuing the disputed portion. However, read any letter that accompanies the check
-          carefully. If it contains &ldquo;full and final settlement&rdquo; language, cross that
-          language out, write &ldquo;accepted as partial payment only,&rdquo; and deposit it.
+          Partial payments labeled as advances against the total claim are generally not the
+          same instrument as a final settlement. Documents accompanying a payment that contain
+          &ldquo;full and final settlement&rdquo; language, or that purport to release the
+          insurer from further obligation, are functionally different from interim advances.
+          California Civil Code &sect;&sect; 1521&ndash;1526 govern the rules around tendered
+          payments described as full satisfaction. Policyholders concerned about release
+          language attached to a check often consult a licensed California attorney before
+          depositing.
         </p>
       </CalloutBox>
 
@@ -150,9 +152,13 @@ export default function Content() {
           </Link>.
         </li>
         <li>
-          <strong>Appraisal:</strong> Invoke the appraisal clause in your policy. This is a binding
-          process where independent appraisers determine the amount of loss. It resolves dollar
-          disputes without litigation. See our{' '}
+          <strong>Appraisal:</strong> The appraisal clause in the policy is a process for
+          resolving disputes about the <em>amount of loss</em> &mdash; not coverage, not
+          recoverability, not legal questions about the policy. Each side selects an
+          appraiser, the appraisers select an umpire, and an agreement by any two of the three
+          binds the parties on amount of loss. In California, the resulting award is
+          enforceable like an arbitration award and is binding unless successfully challenged
+          on the narrow statutory grounds in CCP &sect; 1286.2. See the{' '}
           <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
             appraisal guide
           </Link>.
@@ -168,28 +174,34 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Understanding Partial Payments
+        Partial Payments
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance companies sometimes issue partial payments for undisputed portions of the claim
-        while the disputed portion is still being negotiated. This is actually required under
-        California law. 10 CCR 2695.7(h) states that when an amount is not in dispute, the insurer
-        must pay it promptly even if other amounts are still contested.
+        Carriers often issue partial payments early in a claim &mdash; the first ACV check on
+        a replacement-cost policy, advance payments under &sect; 10103.7(b)(1) for residential
+        contents after a declared emergency, payments on accepted line items while other line
+        items remain in dispute. Under 10 CCR &sect; 2695.7(h), once the insurer has
+        <em> accepted</em> the claim in whole or in part, the insurer must tender payment for
+        the accepted portion within 30 calendar days of that acceptance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Accept partial payments. They do not limit your rights. But always confirm in writing:
-        &ldquo;I am accepting this payment as a partial advance against the total claim amount. I
-        reserve all rights to dispute the remaining balance.&rdquo;
+        Many policyholders accept partial payments while the balance is negotiated. The legal
+        effect of any specific payment depends on the accompanying paperwork, including any
+        release language the carrier may include, and is a question for a licensed California
+        attorney. Documenting partial-payment acceptance in writing &mdash; identifying the
+        unresolved balance &mdash; is common practice; the precise wording of any reservation
+        is also a question for counsel.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Your Right to Supplement
+        Supplements
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Accepting an initial payment does not close your claim. You have the right to supplement
-        your claim with additional damage discovered during repairs. This happens constantly. A
-        contractor opens up a wall and finds more damage than was visible from the surface. The
-        insurer must evaluate and pay for legitimate supplements.
+        An initial payment does not necessarily close the claim. Most California homeowner
+        policies contemplate supplemental claims when additional damage is discovered during
+        repairs &mdash; a contractor opens up a wall and finds more damage than was visible
+        from the surface. Under the Fair Claims Settlement Practices Regulations, the insurer
+        is generally obligated to investigate documented supplements and pay covered amounts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The supplement process works like this:
@@ -202,13 +214,13 @@ export default function Content() {
         <li>Additional payment is issued for the approved supplement.</li>
       </ol>
 
-      <CalloutBox variant="warning" title="Do Not Let a Low Offer Delay Your Repairs">
+      <CalloutBox variant="warning" title="Active Damage and Mitigation">
         <p>
-          If your home has active damage (ongoing water intrusion, exposed structure, safety
-          hazards), do not wait for the insurer to agree on a final number before making emergency
-          repairs. Your policy requires you to mitigate further damage. Make the repairs, document
-          everything, keep receipts, and submit the costs. But do not let a dispute over the total
-          amount prevent you from protecting your property.
+          Most homeowner policies contain a duty-to-mitigate condition that applies when active
+          damage is continuing (ongoing water intrusion, exposed structure, safety hazards).
+          Policyholders facing active damage often make emergency repairs, document the work
+          and costs, and submit the costs &mdash; rather than waiting for a final-number
+          agreement before protecting the property.
         </p>
       </CalloutBox>
 
@@ -232,9 +244,14 @@ export default function Content() {
         Timeline Expectations
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California law (10 CCR 2695.5(b)), the insurer must respond to your communications
-        within 15 calendar days. After you submit a dispute or supplement, they have 40 days to accept or deny the claim (10 CCR §2695.7(b)). If they miss these
-        deadlines, document it. Regulatory violations strengthen your position.
+        Under California law, the insurer must respond to written claimant communications
+        within 15 calendar days (10 CCR &sect; 2695.5(b)). After receipt of the proof of
+        claim, the insurer has 40 days to accept or deny the claim (10 CCR
+        &sect; 2695.7(b)), with 30-day extensions available under (c) where additional time
+        is reasonably needed. When the carrier misses these deadlines, the missed deadlines
+        are worth documenting in writing &mdash; the practical short-term effect of surfacing
+        them is often to prompt a re-look at the file, and the longer-term value, if the
+        dispute escalates, is the documented record itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For more on how the overall claim process works in California, see our{' '}

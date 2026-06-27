@@ -2,10 +2,10 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Book Review: From Good Hands to Boxing Gloves by David Berardinelli — The Allstate Documents They Never Wanted You to See',
-  description: 'A detailed review of David Berardinelli\'s From Good Hands to Boxing Gloves — the book that exposed Allstate\'s McKinsey-driven Claims Core Process Redesign. What the internal documents reveal, how CCPR works, and what it means for policyholders dealing with any major carrier.',
+  title: 'Book Review: From Good Hands to Boxing Gloves by David Berardinelli',
+  description: 'A review of David Berardinelli\'s From Good Hands to Boxing Gloves, which Berardinelli built from internal Allstate and McKinsey documents he obtained in litigation and published after California courts denied Allstate\'s motions to seal the record. What Berardinelli documents about CCPR, and what it means for property claims today.',
   summary:
-    'David Berardinelli\'s From Good Hands to Boxing Gloves exposes Allstate\'s McKinsey-designed Claims Core Process Redesign, using internal documents to show how the carrier was restructured to minimize payouts, a pattern relevant to dealing with any major insurer.',
+    'David Berardinelli\'s From Good Hands to Boxing Gloves analyzes internal Allstate / McKinsey documents Berardinelli obtained in litigation and published after courts denied Allstate\'s motions to seal them. Berardinelli argues that the Claims Core Process Redesign was, by design, a system to reduce claim payments; the patterns he documents are visible in property claims handling today.',
 }
 
 export default function Content() {
@@ -24,11 +24,11 @@ export default function Content() {
       </CalloutBox>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        David J. Berardinelli&apos;s <em>From Good Hands to Boxing Gloves: The Dark Side of Insurance</em> (Trial Guides, 2008) exists because of a discovery mistake. Berardinelli, a trial attorney in Albuquerque, New Mexico, was litigating a case against Allstate when opposing counsel failed to designate a batch of internal McKinsey documents as confidential. Once those documents entered the public record unprotected, Berardinelli had something no one outside Allstate was ever supposed to see: the architectural blueprints for how a major American insurance company deliberately redesigned its claims operation to pay less on legitimate claims.
+        David J. Berardinelli&apos;s <em>From Good Hands to Boxing Gloves: The Dark Side of Insurance</em> (Trial Guides, 2008) exists because of how a discovery dispute played out in court. Berardinelli, a trial attorney based in Santa Fe, New Mexico, obtained a batch of internal Allstate and McKinsey documents in discovery in a case against Allstate. The documents were produced under a protective order, but Berardinelli then filed summary analyses of them with the court in connection with motions in the case. Allstate moved to seal the record and to enjoin Berardinelli from publishing further material about the documents. The trial court denied both motions, and the analyses entered the public record. Florida&apos;s Office of Insurance Regulation later ordered Allstate to produce the underlying McKinsey PowerPoint slides; Allstate&apos;s refusal led to a 2008 suspension of its authority to write new auto policies in Florida, and the slides were ultimately released publicly.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The book that resulted is not a polemic. It is a document-by-document reconstruction of a corporate transformation &mdash; told primarily in Allstate&apos;s own words, from its own internal presentations, memos, and training materials. That is what makes it devastating.
+        The book Berardinelli built from those documents is not a polemic. It reads as a document-by-document reconstruction of a corporate transformation &mdash; told largely in Allstate&apos;s own words, from its own internal presentations, memos, and training materials. That is what makes it powerful as a primary-source critique.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Two Editions, Two Audiences</h2>
@@ -42,7 +42,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The <strong>legal practitioner edition</strong> (<em>From Good Hands to Boxing Gloves: How Allstate Changed Casualty Insurance in America</em>, ASIN: 0974324841) runs 746 pages and adds extensive chapters by Dr. Michael D. Freeman demolishing Allstate&apos;s Minor Impact Soft Tissue (MIST) defense &mdash; the company&apos;s systematic methodology for denying or minimizing injury claims from low-speed collisions. This edition is cited as the authoritative source on Allstate&apos;s Wikipedia page regarding claims handling practices.
+        The <strong>legal practitioner edition</strong> (<em>From Good Hands to Boxing Gloves: How Allstate Changed Casualty Insurance in America</em>, ASIN: 0974324841) is the substantially longer companion volume, with chapters by Dr. Michael A. Freeman covering the Minor Impact Soft Tissue (MIST) methodology Allstate applied to low-speed collision injury claims. The practitioner edition is cited in the discussion of Allstate&apos;s claims-handling practices on the Allstate Wikipedia article.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -60,10 +60,10 @@ export default function Content() {
       </p>
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li><strong>Lower initial offers as the default:</strong> McKinsey&apos;s analysis showed that most policyholders accept the first offer. By systematically lowering initial offers, Allstate could reduce total payouts without any change in coverage, policy terms, or claim merits. The savings came from policyholder passivity &mdash; from the gap between what was owed and what people would accept without fighting.</li>
-        <li><strong>The &quot;boxing gloves&quot; approach to pushback:</strong> For policyholders who did push back, McKinsey recommended an aggressively adversarial litigation posture. Make the cost of fighting exceed the value of the dispute. The metaphor Berardinelli uses &mdash; good hands for those who accept, boxing gloves for those who resist &mdash; comes directly from Allstate&apos;s own internal framing.</li>
-        <li><strong>Technology-driven claim valuation:</strong> McKinsey helped Allstate implement Colossus, a computer program that generated claim valuations based on injury codes and limited claim data. Adjusters were expected to resolve claims within Colossus ranges. The system removed individual adjuster judgment &mdash; and with it, the possibility that an adjuster might pay a fair amount out of professional conscience.</li>
-        <li><strong>Adjuster performance metrics tied to savings:</strong> McKinsey redesigned adjuster compensation and evaluation to reward closing claims for less. An adjuster who consistently paid fair value was not rewarded for accuracy &mdash; they were flagged for &quot;severity leakage.&quot; An adjuster who consistently underpaid was rewarded for &quot;claims savings.&quot;</li>
+        <li><strong>Lower initial offers as the default:</strong> Berardinelli argues, drawing on the McKinsey slides, that the consultants&apos; analysis identified policyholder acceptance of first offers as a major lever. The book documents internal materials directing lower initial offers as a systematic practice, with the savings coming from the gap between what the insured was owed and what the insured would accept without fighting.</li>
+        <li><strong>The &ldquo;boxing gloves&rdquo; framing:</strong> For policyholders who did push back, the McKinsey materials Berardinelli reproduces describe an aggressively adversarial litigation posture &mdash; make the cost of fighting exceed the value of the dispute. The &ldquo;good hands&rdquo; / &ldquo;boxing gloves&rdquo; metaphor traces to Allstate&apos;s own internal slides, as reported in Bloomberg&apos;s coverage and reproduced in the book.</li>
+        <li><strong>Technology-driven claim valuation:</strong> McKinsey helped Allstate implement Colossus, the third-party claims-valuation software that generated injury-claim valuations from coded inputs. Berardinelli argues that the system narrowed individual adjuster discretion, channeling decisions into software-driven ranges set by parameters the carrier controlled.</li>
+        <li><strong>Adjuster performance metrics tied to savings:</strong> Berardinelli reproduces materials describing performance metrics where adjusters who consistently paid higher amounts were flagged for &ldquo;severity leakage,&rdquo; and adjusters who consistently underpaid were credited with &ldquo;claims savings.&rdquo; Both terms are Allstate / McKinsey-engagement terminology of record.</li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">CCPR Is Not Just an Allstate Problem</h2>
@@ -77,7 +77,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In my experience handling property claims against carriers including State Farm, Farmers, USAA, Liberty Mutual, and others, the CCPR playbook is visible in various forms at nearly every major carrier. The specific software varies. The internal branding changes. But the core principles &mdash; lower initial offers, delay tactics, aggressive resistance to disputes, performance metrics that reward underpayment &mdash; are industry-wide.
+        In my experience handling property claims against the major carriers, the CCPR playbook is visible in various forms at most of them. The specific software varies. The internal branding changes. But the core principles Berardinelli documents &mdash; lower initial offers, delay tactics, aggressive resistance to disputes, performance metrics that reward closing claims for less &mdash; are visible across the industry as practitioners experience it.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What Property Claims Professionals Should Notice</h2>
@@ -147,7 +147,7 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">The Bottom Line</h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>From Good Hands to Boxing Gloves</em> is the autopsy of a corporate conscience. Berardinelli shows, in Allstate&apos;s own words, the moment a company decided that its promises to policyholders were less important than its promises to shareholders. The book does not argue this happened. It proves it happened, with the company&apos;s own documents.
+        Berardinelli&apos;s thesis, drawing on Allstate&apos;s own internal materials, is that the CCPR transformation prioritized shareholder economics over policyholder claim payments &mdash; and that the documents themselves, not the author&apos;s framing, are what carry the argument. Whether the reader agrees with every characterization or not, the documentary base for the book is unusually well-anchored for a book in this genre.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
