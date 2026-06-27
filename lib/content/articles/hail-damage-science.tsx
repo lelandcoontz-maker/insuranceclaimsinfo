@@ -43,8 +43,10 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Hail size:</strong> Larger stones carry more kinetic energy. A 1-inch hailstone
-          hits at roughly 40 mph; a 2-inch stone at approximately 70 mph.
+          <strong>Hail size:</strong> Larger stones carry more kinetic energy. Terminal-velocity
+          ranges published by NOAA/NWS place a 1-inch hailstone at roughly 30 to 50 mph and a
+          2-inch stone at roughly 70 to 80 mph, with the actual impact speed varying by stone
+          density, shape, and the updraft/downdraft conditions of the storm cell.
         </li>
         <li>
           <strong>Wind speed:</strong> Wind-driven hail strikes at an angle, increasing velocity and
@@ -60,8 +62,8 @@ export default function Content() {
           slopes absorb more direct impact. Windward-facing slopes receive more hits.
         </li>
         <li>
-          <strong>Temperature:</strong> Cold shingles are more brittle and crack more easily. Hail
-          during cold fronts causes more severe mat damage than warm-weather hail.
+          <strong>Temperature:</strong> Cold shingles are more brittle and may fracture more
+          readily under impact than warm shingles.
         </li>
         <li>
           <strong>Decking type:</strong> Solid plywood decking provides a firm backstop for impact
@@ -96,9 +98,11 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">Proper Test Square Protocol</h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Multiple squares per slope:</strong> A single test square is not sufficient. Hail
-          is random by nature — hit density varies across the roof. At minimum, one test square per
-          directional slope (north, south, east, west) is standard. Larger or complex roofs need more.
+          <strong>Multiple squares per slope:</strong> A single test square is often
+          insufficient on larger or complex roofs &mdash; hail is random by nature and hit
+          density varies across the roof. At minimum, one test square per directional slope
+          (north, south, east, west) is standard practice. Larger or more complex roofs
+          generally call for additional squares.
         </li>
         <li>
           <strong>All directional faces:</strong> Because hail is wind-driven, different slopes
@@ -117,10 +121,12 @@ export default function Content() {
           be recorded.
         </li>
         <li>
-          <strong>Threshold counts:</strong> While there is no universal &ldquo;magic number,&rdquo;
-          most roofing manufacturers and industry professionals consider 8 or more hail hits per
-          test square to indicate damage warranting replacement. Some carriers internally use 10–15
-          hits as their threshold — a number they rarely disclose to policyholders.
+          <strong>Threshold counts:</strong> There is no universal &ldquo;magic number,&rdquo;
+          and asphalt-shingle manufacturers do not publish per-test-square hit-count
+          replacement thresholds. A widely cited industry rule of thumb traceable to HAAG and
+          roofing-forensics training materials places replacement-warranting damage in the
+          range of 8 to 10 hail impacts per 100-square-foot test square on asphalt shingles,
+          though the appropriate count varies by shingle product, age, and impact severity.
         </li>
       </ul>
 
