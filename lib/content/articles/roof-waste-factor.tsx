@@ -59,26 +59,32 @@ export default function Content() {
         Waste factor is driven by the number of cuts required. The more cuts, the more waste. Here
         are general guidelines based on roof complexity:
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Industry references such as HAAG&apos;s roof-inspection materials, the ARMA (Asphalt
+        Roofing Manufacturers Association), and NRCA (National Roofing Contractors Association)
+        generally place asphalt-shingle waste in the 10&ndash;15% range as a baseline, with
+        complex roofs running higher. The bands below track those references:
+      </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Simple gable roof (5&ndash;10% waste):</strong> A straightforward gable roof has
+          <strong>Simple gable roof (10&ndash;12% waste):</strong> A straightforward gable has
           two rectangular planes meeting at a single ridge. The only cuts happen along the rake
-          edges and at the ridge. Minimal valleys, no hips, few penetrations. This is the simplest
-          roof to shingle and generates the least waste.
+          edges and at the ridge. Minimal valleys, no hips, few penetrations. This is the
+          simplest roof to shingle, and 10% is the working minimum most field references use.
         </li>
         <li>
           <strong>Moderate roof with hips and valleys (15&ndash;20% waste):</strong> Once a roof
-          has hip sections, valleys where planes intersect, multiple ridges, and typical residential
-          penetrations (plumbing vents, exhaust fans, furnace flue), waste climbs significantly.
+          has hip sections, valleys where planes intersect, multiple ridges, and typical
+          residential penetrations (plumbing vents, exhaust fans, furnace flue), waste climbs.
           Every hip and valley requires angled cuts on every course of shingles along that line.
           Most standard residential roofs fall in this range.
         </li>
         <li>
           <strong>Complex roof with dormers, multiple penetrations, and irregular geometry
-          (20&ndash;25%+ waste):</strong> Roofs with dormers, turrets, multiple skylights, satellite
-          dishes, cricket flashings, chimney step flashings, and irregular plan shapes generate the
-          most waste. Each penetration forces cuts on the surrounding shingles, and each dormer
-          adds its own set of hips, valleys, and rake edges.
+          (20&ndash;25%+ waste):</strong> Roofs with dormers, turrets, multiple skylights,
+          satellite dishes, cricket flashings, chimney step flashings, and irregular plan shapes
+          generate the most waste. Each penetration forces cuts on the surrounding shingles, and
+          each dormer adds its own set of hips, valleys, and rake edges.
         </li>
       </ul>
 
@@ -105,8 +111,10 @@ export default function Content() {
         </Link>{' '}
         &mdash; the estimating software used by virtually every property insurance carrier &mdash;
         has a built-in default waste factor for roofing line items. When an adjuster enters a
-        roofing quantity, Xactimate automatically adds a waste percentage. The problem is that
-        the default is typically around 10%, and many adjusters never change it.
+        roofing quantity, Xactimate automatically adds a waste percentage. The default value is
+        region- and version-dependent (historically around 10%, with several recent Verisk price
+        lists raising it into the 12&ndash;15% band in some regions), and in many estimates the
+        default is left unchanged regardless of the actual roof geometry.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The default is a starting point, not a final answer. The software allows the adjuster to
@@ -115,9 +123,10 @@ export default function Content() {
         cost-cutting estimator leaves the default and moves on.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When reviewing a carrier&rsquo;s estimate, look for the waste percentage on each roofing
-        line item &mdash; typically shown as a column or notation next to the quantity. If you see
-        10% waste on a cut-up hip-and-valley roof, the estimate is underpaying for materials.
+        When reviewing a carrier&apos;s estimate, the waste percentage shows up on each roofing
+        line item &mdash; typically as a column or notation next to the quantity. A 10% waste
+        factor applied to a cut-up hip-and-valley roof is one of the most common sources of
+        material underpayment on a roof claim.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -256,10 +265,13 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Roofing material is sold in <strong>bundles</strong> but measured in{' '}
         <strong>squares</strong>. One &ldquo;square&rdquo; equals 100 square feet of roof area.
-        For standard architectural shingles, one square requires three bundles &mdash; so a
-        30-square roof needs 90 bundles before waste. You cannot buy a fraction of a bundle, so
-        the real-world purchase is always rounded up. Xactimate allows fractional squares in its
-        math, but the roofer at the supply house is buying whole bundles.
+        For standard 3-bundle architectural shingles (the most common residential profile in
+        California: GAF Timberline, CertainTeed Landmark, Owens Corning Duration, and similar
+        lines), one square requires three bundles &mdash; so a 30-square roof needs 90 bundles
+        before waste. Some heavyweight or premium lines are 4-bundle and require four bundles
+        per square. A roofer cannot buy a fraction of a bundle, so the real-world purchase is
+        always rounded up. Xactimate allows fractional squares in its math, but the roofer at
+        the supply house is buying whole bundles.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -283,24 +295,25 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When disputing a carrier&rsquo;s estimate, ordering an independent satellite report is
-        one of the most cost-effective steps you can take. Beyond confirming total area, these
-        reports document the number of facets, total hip and valley lengths, and penetration
-        count &mdash; data that directly supports a higher waste factor. If a satellite report
-        shows 25 facets, 180 linear feet of hip, and 12 penetrations, no one can credibly argue
-        that 10% waste is adequate.
+        When disputing a carrier&apos;s estimate, an independent satellite report is one of the
+        more cost-effective steps an insured might consider. Beyond confirming total area,
+        these reports document the number of facets, total hip and valley lengths, and
+        penetration count &mdash; data that directly supports a higher waste factor. A
+        satellite report showing 25 facets, 180 linear feet of hip, and 12 penetrations makes
+        it difficult to credibly argue that 10% waste is adequate for that roof.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Common Carrier Tactics on Waste Factor
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance carriers underpay roof claims in predictable ways. Recognizing these tactics is
-        the first step in fighting back. For more on how carriers build low estimates, see our
-        guide to{' '}
+        Roof-claim underpayment tends to follow recurring patterns on the waste-factor axis.
+        Recognizing them is the precondition to surfacing them in writing. For more on how
+        carriers build low estimates, see the{' '}
         <Link href="/resources/scope-of-loss" className="text-blue-700 underline hover:text-blue-900">
           scope of loss disputes
-        </Link>.
+        </Link>{' '}
+        guide.
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -334,39 +347,42 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How to Challenge a Low Waste Factor
+        Surfacing a Low Waste Factor with the Carrier
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the carrier&rsquo;s estimate uses a waste factor that does not reflect the actual roof
-        complexity, here is how to build your case:
+        When the carrier&apos;s estimate uses a waste factor that does not reflect the actual
+        roof complexity, a homeowner might consider the following documentation patterns:
       </p>
       <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Document the roof geometry.</strong> Photograph every hip, valley, dormer,
-          skylight, vent, pipe, and chimney. Count them. A photo showing 12 pipe penetrations on
-          one slope makes a stronger argument than a paragraph of text.
+          <strong>Roof-geometry documentation.</strong> Photographing every hip, valley, dormer,
+          skylight, vent, pipe, and chimney, and counting them. A photo showing 12 pipe
+          penetrations on one slope tends to make a stronger argument than a paragraph of text.
         </li>
         <li>
-          <strong>Order a satellite measurement report.</strong> EagleView and similar services
-          provide objective data on facet count, hip/valley lengths, and penetrations &mdash;
-          removing subjectivity from the conversation.
+          <strong>An independent satellite measurement report.</strong> EagleView and similar
+          services provide objective data on facet count, hip/valley lengths, and penetrations
+          &mdash; which tends to remove subjectivity from the conversation.
         </li>
         <li>
-          <strong>Get a contractor&rsquo;s material estimate.</strong> Ask a licensed roofer how
-          many bundles they would actually order. Compare to the carrier&rsquo;s estimate. The
-          difference is the underpayment.
+          <strong>A licensed roofer&apos;s material estimate.</strong> Asking a licensed roofer
+          how many bundles they would actually order, and comparing that number to the
+          carrier&apos;s estimate, surfaces the dollar size of any underpayment.
         </li>
         <li>
-          <strong>Reference the carrier&rsquo;s own diagram.</strong> Most Xactimate estimates
-          include a roof diagram. Point to the hips, valleys, and penetrations in their own
-          drawing and ask why the waste factor ignores that complexity.
+          <strong>The carrier&apos;s own diagram as a reference point.</strong> Most Xactimate
+          estimates include a roof diagram. The hips, valleys, and penetrations in the
+          carrier&apos;s own drawing are a useful anchor for asking why the waste factor does
+          not reflect that complexity.
         </li>
         <li>
-          <strong>Put it in writing.</strong> Submit a formal supplement request with documentation
-          and ask for the waste factor to be adjusted. For guidance, see our article on{' '}
+          <strong>Written follow-up.</strong> A written supplement request with documentation
+          asking for the waste factor to be adjusted is the standard next step. For guidance on
+          written follow-up patterns, see the{' '}
           <Link href="/resources/scope-of-loss" className="text-blue-700 underline hover:text-blue-900">
             scope of loss disputes
-          </Link>.
+          </Link>{' '}
+          guide.
         </li>
       </ol>
 
