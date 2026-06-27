@@ -572,7 +572,7 @@ export default function Content() {
           &mdash; for both total and partial losses, structure and contents, and expressly
           provides that labor is not subject to depreciation (except intrinsic labor in
           manufactured materials). The statute superseded the broad-evidence / fair-market-value
-          approach earlier California cases such as <em>Cheeks v. California Fair Plan Assn.</em>{' '}
+          approach earlier California cases such as <em>Cheeks v. California FAIR Plan Assn.</em>{' '}
           (1998) 61 Cal.App.4th 423 had applied. California also has &sect; 2051.5 addressing
           replacement-cost coverage. The point: the labor-depreciation question is settled in
           California by statute. For a full discussion, see our article on{' '}
@@ -1135,7 +1135,7 @@ export default function Content() {
             <li><em>Prudential-LMI v. Superior Court</em> (1990) 51 Cal.3d 674 (equitable tolling)</li>
             <li><em>Shell Oil Co. v. Winterthur</em> (1993) 12 Cal.App.4th 715 (notice-prejudice rule)</li>
             <li><em>Aydin Corp. v. First State</em> (1998) 18 Cal.4th 1183 (burden of proof on exclusions)</li>
-            <li><em>Cheeks v. California Fair Plan Assn.</em> (1998) 61 Cal.App.4th 423 (ACV synonymous with fair market value; broad evidence rule discussed)</li>
+            <li><em>Cheeks v. California FAIR Plan Assn.</em> (1998) 61 Cal.App.4th 423 (ACV synonymous with fair market value; broad evidence rule discussed)</li>
           </ul>
         </div>
       </div>

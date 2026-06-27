@@ -1,13 +1,12 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
-import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: "When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know",
   description:
-    "What happens when your California insurance company is declared insolvent. How the California Insurance Guarantee Association (CIGA) works, coverage caps, surplus lines gaps, the claims process, and how to protect yourself in the current California market.",
+    "What happens when your California insurance company goes out of business. How the California Insurance Guarantee Association (CIGA) works, the conservation and liquidation process, coverage caps, surplus lines gaps, the claims process, deadlines, and how to protect yourself in the current California market.",
   summary:
-    'If your California insurer becomes insolvent, the California Insurance Guarantee Association (CIGA) pays covered claims, subject to caps and excluding surplus lines carriers. Confirm your carrier is admitted, and know the limits before relying on this safety net.',
+    'If your California insurer becomes insolvent, the California Insurance Guarantee Association (CIGA) pays covered claims, subject to caps and excluding surplus lines carriers. The general cap is $500,000 per claim, with a $1,000,000 cap for residential dwelling claims; claims under $100, punitive damages, and several insurance lines are excluded. Confirm your carrier is admitted, and know the limits before relying on this safety net.',
 }
 
 export default function Content() {
@@ -22,11 +21,14 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      {/* ── Plain-English Lead ─────────────────────────────────────── */}
+
       <p className="text-gray-700 leading-relaxed mb-4">
-        Most policyholders assume their insurance company will be there when they need it. You
-        pay your premiums, you file a claim, and the insurer pays. That is how it is supposed
-        to work. But what happens when the insurance company itself fails &mdash; when it runs
-        out of money, is seized by regulators, and can no longer pay claims?
+        Insurance companies can fail. They can become insolvent &mdash; unable to pay claims
+        they owe. Most policyholders assume their insurance company will be there when they
+        need it: you pay your premiums, you file a claim, and the insurer pays. That is how it
+        is supposed to work. But what happens when the insurance company itself runs out of
+        money, is seized by regulators, and can no longer pay?
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         It happens more often than most people realize. And in California&rsquo;s current
@@ -35,22 +37,126 @@ export default function Content() {
         insolvency is not theoretical. It is a real and growing concern.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This article explains what happens when a California property and casualty insurer goes
-        insolvent, how the California Insurance Guarantee Association (CIGA) steps in, what CIGA
-        covers and what it does not, and what you should do to protect yourself &mdash; both
-        before and after an insolvency occurs.
+        In California, when an admitted insurer goes under, the California Insurance Guarantee
+        Association (CIGA) steps in to pay covered claims. But the protections have limits, the
+        process takes time, and not every policyholder qualifies. This article explains what
+        happens when a California property and casualty insurer goes insolvent, how CIGA works,
+        what it covers and what it does not, and what you might consider doing &mdash; both before
+        and after an insolvency &mdash; to protect yourself.
       </p>
 
       <CalloutBox variant="tip" title="The Short Version">
         <p>
           If your admitted insurance company is declared insolvent and ordered into liquidation,
           the California Insurance Guarantee Association (CIGA) will generally step in to pay
-          your covered claim &mdash; but subject to significant limitations. The general cap is
-          $500,000 per claim (with a $1,000,000 cap for dwelling claims under residential
-          property insurance). Claims under $100 are excluded. Punitive damages are not covered.
-          And critically, if your policy was issued by a surplus lines or non-admitted carrier,
-          CIGA does not apply at all. You should verify that your insurer is admitted and
-          financially sound before you need to file a claim.
+          your covered claim &mdash; subject to significant limitations. The general cap is
+          $500,000 per claim, with a $1,000,000 cap for dwelling claims under residential
+          property insurance. Claims of $100 or less are excluded. Punitive damages are not
+          covered. Unearned premium refunds are capped at $10,000. And critically, if your
+          policy was issued by a surplus lines (non-admitted) carrier, CIGA does not apply at
+          all. Verify that your insurer is admitted and financially sound before you need to
+          file a claim.
+        </p>
+      </CalloutBox>
+
+      {/* ── Quick Consumer FAQ ─────────────────────────────────────── */}
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Quick Answers: What Happens If My Insurance Company Goes Out of Business?
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Before going deep on the mechanics, here are the plain-English answers to the questions
+        most California policyholders ask first.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Will I lose all my coverage if my insurer fails?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If your insurer is admitted in California, CIGA &mdash; the California Insurance
+        Guarantee Association &mdash; takes over covered claims when a court orders the company
+        into liquidation. You do not lose protection on a pending claim simply because the
+        company went under. You do, however, lose the policy itself: all policies issued by the
+        insolvent insurer are cancelled, typically with 30 days&rsquo; notice, and you will need
+        replacement coverage right away.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Who pays my claim after liquidation?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CIGA does, for covered claims, up to the statutory caps. CIGA is not an insurance
+        company. It is a not-for-profit, unincorporated, statutorily created association funded
+        by assessments on every admitted property and casualty insurer doing business in
+        California. When an admitted carrier is declared insolvent and ordered into liquidation,
+        the court-appointed liquidator transfers open California claim files to CIGA, typically
+        within 30 days of the liquidation date, and CIGA picks up where the insurer left off.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        What are the limits I should know up front?
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
+        <li>
+          <strong>$500,000 general cap</strong> per covered claim for auto, general liability,
+          property, and casualty under Insurance Code &sect; 1063.1
+        </li>
+        <li>
+          <strong>$1,000,000 cap</strong> for damage to or loss of a dwelling structure under a
+          residential property insurance policy &mdash; or the amount recoverable under the
+          policy, whichever is less
+        </li>
+        <li>
+          <strong>$10,000 cap</strong> on unearned premium refunds when the carrier goes into
+          liquidation mid-term
+        </li>
+        <li>
+          <strong>Claims of $100 or less</strong> are excluded entirely
+        </li>
+        <li>
+          <strong>No CIGA at all</strong> if your carrier is a surplus lines (non-admitted)
+          insurer
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        How long does it take to get paid?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CIGA operates under the same Fair Claims Settlement Practices Regulations as any
+        California insurer &mdash; it must acknowledge a claim within 15 days of notice
+        (10 CCR &sect; 2695.5(e)) and accept or deny the claim within 40 days once it has the
+        information it needs (10 CCR &sect; 2695.7(b)). In practice, the transition between the
+        failed carrier and CIGA creates delays. There is typically a gap of weeks to months
+        between when the insurer stops paying and when CIGA is fully operational on the file.
+        During that period, you may need to advance funds for emergency repairs, temporary
+        housing, or other urgent expenses out of pocket &mdash; so keep every receipt. CIGA will
+        reimburse covered expenses up to policy limits, subject to the statutory caps.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        How do I reach CIGA directly?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CIGA&rsquo;s website is{' '}
+        <a
+          href="https://www.ciga.org"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-700 underline hover:text-blue-900"
+        >
+          ciga.org
+        </a>
+        . Its main phone number is (323) 782-0044. If your carrier was just declared insolvent
+        and you have an open claim, do not wait for CIGA to find you &mdash; call.
+      </p>
+
+      <CalloutBox variant="warning" title="Policy Cancellation Is Immediate">
+        <p>
+          When an insurer is placed into liquidation, all of its policies are cancelled. You
+          must obtain replacement coverage right away. CIGA does not provide ongoing insurance
+          &mdash; it only addresses claims that were already pending or losses that occurred
+          before the cancellation date.
         </p>
       </CalloutBox>
 
@@ -63,11 +169,14 @@ export default function Content() {
         An insurance company becomes &ldquo;insolvent&rdquo; when it can no longer meet its
         financial obligations &mdash; when its liabilities exceed its assets and it cannot pay
         the claims it owes. Unlike most businesses, insurance companies do not simply file for
-        bankruptcy under federal law. Instead, they are subject to a state-regulated process
-        overseen by the California Department of Insurance (CDI) and the courts.
+        bankruptcy under federal law. They are subject to a state-regulated process overseen by
+        the California Department of Insurance (CDI) and the courts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The process typically unfolds in two stages:
+        The CDI monitors insurers&rsquo; financial health, requiring them to maintain minimum
+        capital and surplus levels. When an insurer&rsquo;s condition deteriorates to the point
+        where it can no longer meet its obligations, the CDI initiates a formal process that
+        unfolds in two stages.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -79,35 +188,45 @@ export default function Content() {
         creditors, or the public,&rdquo; the Commissioner obtains a court order to take control
         of the company. During conservation, the Commissioner&rsquo;s Conservation and
         Liquidation Office (CLO) conducts a thorough examination of the company&rsquo;s books
-        and records to determine whether the company can be rehabilitated.
+        and records to determine whether the company can be rehabilitated &mdash; restructured
+        to resume normal operations &mdash; or whether liquidation is the only realistic option.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         During the conservation phase, existing policies generally remain in force. The company
-        continues to honor policy coverage and benefits and continues to adjust and pay claims
-        &mdash; provided the policy was in force at the time of the loss, the loss is covered
-        under the policy terms, and no applicable statute of limitations has expired. However,
-        no new policies are written, and the company&rsquo;s operations are under the
-        Commissioner&rsquo;s direct control.
+        continues to honor policy coverage and continues to adjust and pay claims &mdash;
+        provided the policy was in force at the time of the loss, the loss is covered under the
+        policy terms, and no applicable statute of limitations has expired. No new policies are
+        written, and the company&rsquo;s operations are under the Commissioner&rsquo;s direct
+        control. If rehabilitation succeeds, policyholders may never experience a disruption
+        in coverage.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         Liquidation
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If rehabilitation is not feasible, the Commissioner petitions the Superior Court to
-        order the company into liquidation. A liquidation order terminates the company&rsquo;s
-        insurance business: all policies are canceled, no new or renewal policies are issued,
-        and the company&rsquo;s assets are marshaled to pay claims to the extent possible.
+        If rehabilitation is not feasible &mdash; typically because the insurer&rsquo;s
+        liabilities exceed its assets by a substantial margin &mdash; the Commissioner petitions
+        the Superior Court for an order of liquidation under California Insurance Code
+        &sect; 1016. The court appoints the Commissioner as liquidator. A liquidation order
+        terminates the company&rsquo;s insurance business: all policies are cancelled, typically
+        with 30 days&rsquo; notice; no new or renewal policies are issued; and the
+        company&rsquo;s remaining assets are marshalled to pay claims in the priority order
+        established by Insurance Code &sect; 1033.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In practice, the insolvent insurer&rsquo;s remaining assets rarely cover all
+        outstanding claims. Policyholders with pending claims may receive only a fraction of
+        what they are owed from the insurer&rsquo;s estate &mdash; sometimes nothing at all.
+        This is where the guaranty fund system becomes critical.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The court-appointed liquidator publishes a notice informing anyone who might have a
         claim against the company to file a proof of claim before a specified deadline. This
-        deadline is critical &mdash; missing it can mean losing your right to recover.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Once the liquidation order is entered, CIGA&rsquo;s obligations are triggered. The
-        liquidator forwards open California claims to CIGA, typically within 30 days of the
-        liquidation date. CIGA then steps in as the entity responsible for paying covered claims.
+        deadline is critical &mdash; missing it can mean losing the right to recover. Once the
+        liquidation order is entered, CIGA&rsquo;s obligations are triggered, and the liquidator
+        forwards open California claims to CIGA, typically within 30 days of the liquidation
+        date.
       </p>
 
       {/* ── What Is CIGA ──────────────────────────────────────────── */}
@@ -117,10 +236,11 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         CIGA is a not-for-profit, unincorporated, statutorily created association established
-        under California Insurance Code Sections 1063 through 1063.16. Its purpose is to pay
-        certain covered claims of insolvent property and casualty insurers&rsquo; policyholders
-        and claimants. Every admitted property and casualty insurer licensed to do business in
-        California is required to be a member of CIGA.
+        under California Insurance Code Sections 1063 through 1063.16 (the California Insurance
+        Guarantee Association Act). Its purpose is to pay certain covered claims of insolvent
+        property and casualty insurers&rsquo; policyholders and claimants. Every admitted
+        property and casualty insurer licensed to do business in California is required to be a
+        member of CIGA.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         CIGA is not a government agency. It is not funded by tax dollars. It is funded by
@@ -130,9 +250,9 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Think of CIGA as a safety net &mdash; but one with holes. It exists to prevent
-        policyholders of insolvent admitted carriers from being left with nothing. But its
-        coverage is not unlimited, and it is not a substitute for having a financially sound
-        insurer in the first place.
+        policyholders of insolvent admitted carriers from being left with nothing. Its coverage
+        is not unlimited, and it is not a substitute for having a financially sound insurer in
+        the first place.
       </p>
 
       {/* ── What CIGA Covers ──────────────────────────────────────── */}
@@ -158,8 +278,16 @@ export default function Content() {
           California at the time the policy was issued
         </li>
         <li>
+          Be a loss that occurred before the date the insurer was ordered into liquidation, or
+          during the 30-day notice period for policy cancellation
+        </li>
+        <li>
           Be presented to the liquidator or CIGA on or before the last date fixed for filing
           claims in the domiciliary liquidation proceeding
+        </li>
+        <li>
+          Involve a claimant who was a California resident at the time of the loss, or property
+          located in California
         </li>
       </ul>
 
@@ -176,15 +304,15 @@ export default function Content() {
           property, and casualty claims (Insurance Code &sect; 1063.1(c)(1)(A)(vii))
         </li>
         <li>
-          <strong>Dwelling structure claims:</strong> For residential property insurance, a claim
-          for damage to or loss of a dwelling structure shall not exceed $1,000,000 or the
-          amount recoverable under the policy, whichever is less
+          <strong>Dwelling structure claims:</strong> For residential property insurance, a
+          claim for damage to or loss of a dwelling structure shall not exceed $1,000,000 or
+          the amount recoverable under the policy, whichever is less
         </li>
         <li>
           <strong>Separate coverage categories:</strong> Under residential property insurance,
-          each claim for a loss under a different coverage category (dwelling, personal property,
-          additional living expenses, other structures) is treated as a separate covered claim,
-          each subject to its own cap
+          each claim for a loss under a different coverage category (dwelling, personal
+          property, additional living expenses, other structures) is treated as a separate
+          covered claim, each subject to its own cap
         </li>
         <li>
           <strong>Cybersecurity claims:</strong> Obligations under cybersecurity policies are
@@ -194,16 +322,33 @@ export default function Content() {
           <strong>Workers&rsquo; compensation:</strong> No cap applies to workers&rsquo;
           compensation benefits
         </li>
+        <li>
+          <strong>Unearned premium refunds:</strong> If the insurer goes into liquidation
+          mid-term, you may be entitled to a refund of unearned premiums, but CIGA&rsquo;s
+          obligation for premium refunds is capped at $10,000
+        </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The practical impact of these caps depends on the size of your claim. For a homeowner
         with $800,000 in dwelling damage from a wildfire, the $1,000,000 dwelling cap provides
         adequate coverage. But for a homeowner with a $2,000,000 policy limit who suffers a
-        total loss, the cap means CIGA will pay only half of what the policy would have covered.
-        The policyholder would have to pursue the remaining balance as a general creditor of
-        the insolvent estate &mdash; a process that often yields pennies on the dollar, if
-        anything at all.
+        total loss, the cap means CIGA will pay only half of what the policy would have
+        covered. The policyholder would have to pursue the remaining balance as a general
+        creditor of the insolvent estate &mdash; a process that often yields pennies on the
+        dollar, if anything at all.
       </p>
+
+      <CalloutBox variant="important" title="High-Value Homes: Mind the Gap">
+        <p>
+          Consider a property insured for $1.2 million in dwelling coverage, $600,000 in
+          personal property, and $240,000 in additional living expenses. If the insurer goes
+          insolvent while a total-loss claim is pending, CIGA&rsquo;s dwelling cap is
+          $1,000,000 and the personal property and ALE coverages each get their own
+          $500,000-or-policy-limits cap &mdash; but the policyholder is still likely to be
+          left with hundreds of thousands of dollars in unrecovered losses compared to what
+          the original policy would have paid.
+        </p>
+      </CalloutBox>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         Minimum Claim Threshold
@@ -212,6 +357,28 @@ export default function Content() {
         CIGA does not cover claims of $100 or less. This is a minor exclusion for most claims,
         but it exists in the statute (Insurance Code &sect; 1063.1(c)(1)(A)).
       </p>
+
+      <CalloutBox variant="info" title="The $300,000 Figure &mdash; Commonly Misstated">
+        <p>
+          You may have read elsewhere that CIGA will not pay your residential property claim
+          if your net worth exceeds $300,000. That is a misstatement of California law.
+          Insurance Code &sect; 1063.1 does not contain a net-worth disqualification for
+          residential property claims. The $300,000 figure is actually the per-life cap of the{' '}
+          <strong>California Life and Health Insurance Guarantee Association (CLHIGA)</strong>,
+          a separate statutory body that backs life and annuity policies under Insurance Code
+          &sect; 1067 et seq. &mdash; not CIGA, and not property/casualty claims. Before
+          assuming you are excluded from CIGA, verify directly with CIGA at{' '}
+          <a
+            href="https://www.ciga.org"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            ciga.org
+          </a>
+          .
+        </p>
+      </CalloutBox>
 
       {/* ── What CIGA Does Not Cover ─────────────────────────────── */}
 
@@ -229,10 +396,10 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Non-Admitted Carriers Are Not Covered by CIGA">
         <p>
-          If your insurance policy was issued by a surplus lines (non-admitted) carrier, you have
-          no CIGA protection whatsoever. If that carrier becomes insolvent, you are on your own.
-          This is one of the most important things any California policyholder can understand
-          about their coverage.
+          If your insurance policy was issued by a surplus lines (non-admitted) carrier, you
+          have no CIGA protection whatsoever. If that carrier becomes insolvent, you are on
+          your own. This is one of the most important things any California policyholder can
+          understand about their coverage.
         </p>
       </CalloutBox>
 
@@ -240,17 +407,17 @@ export default function Content() {
         CIGA applies only to <strong>admitted</strong> insurers &mdash; companies that are
         licensed by the California Department of Insurance to transact business in the state
         and are subject to California&rsquo;s rate and form regulations. Surplus lines carriers
-        (also called non-admitted carriers or excess and surplus lines carriers) operate outside
-        the admitted market. They are not members of CIGA, and their policyholders are not
-        protected by the guarantee association.
+        (also called non-admitted carriers or excess and surplus lines carriers) operate
+        outside the admitted market. They are not members of CIGA, and their policyholders are
+        not protected by the guarantee association.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code Section 1765 requires that policyholders of non-admitted
         carriers receive written disclosure stating: (1) the insurer is not admitted in
         California; (2) the policy is not covered by CIGA; and (3) the policyholder may file
-        complaints with the California Department of Insurance. But in practice, many
-        policyholders sign these disclosures without understanding what they mean &mdash;
-        or forget about them entirely by the time they need to file a claim.
+        complaints with the California Department of Insurance. In practice, many policyholders
+        sign these disclosures without understanding what they mean &mdash; or forget about
+        them entirely by the time they need to file a claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This matters now more than ever. As admitted carriers exit the California homeowners
@@ -278,6 +445,21 @@ export default function Content() {
           ocean marine insurance:</strong> These lines of business are carved out entirely
         </li>
         <li>
+          <strong>Workers&rsquo; compensation:</strong> California workers&rsquo; compensation
+          claims are handled by a separate guaranty fund, the California Insurance Guarantee
+          Association for Workers&rsquo; Compensation &mdash; a distinct entity despite the
+          similar name
+        </li>
+        <li>
+          <strong>Self-insured entities:</strong> Employers or organizations that self-insure
+          their risks are not covered &mdash; there is no admitted carrier to back-stop
+        </li>
+        <li>
+          <strong>Certain large commercial entities:</strong> Some large commercial
+          policyholders are excluded from CIGA coverage based on net worth thresholds in the
+          statute
+        </li>
+        <li>
           <strong>Claims arising from policies issued before the insurer was admitted in
           California:</strong> If the policy was issued or renewed before the company was
           admitted to transact insurance in California, the obligations under that policy are
@@ -285,8 +467,13 @@ export default function Content() {
         </li>
         <li>
           <strong>Amounts in excess of policy limits:</strong> CIGA&rsquo;s obligation does not
-          exceed the coverage provided under the insolvent insurer&rsquo;s policy, regardless of
-          the statutory caps
+          exceed the coverage provided under the insolvent insurer&rsquo;s policy, regardless
+          of the statutory caps
+        </li>
+        <li>
+          <strong>Amounts in excess of the statutory caps:</strong> Any portion of a claim
+          above the applicable CIGA cap is not covered. Policyholders who want that balance
+          must pursue it as a general creditor of the insolvent estate
         </li>
       </ul>
 
@@ -302,23 +489,23 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
           <strong>Government insurance or guaranty programs:</strong> If you have a claim or
-          legal right of recovery under any governmental insurance or guaranty program that also
-          qualifies as a covered claim, you must first exhaust your rights under that program.
-          Any amount payable on a covered claim is reduced by the amount recovered under the
-          government program (Insurance Code &sect; 1063.2)
+          legal right of recovery under any governmental insurance or guaranty program that
+          also qualifies as a covered claim, you must first exhaust your rights under that
+          program. Any amount payable on a covered claim is reduced by the amount recovered
+          under the government program (Insurance Code &sect; 1063.2)
         </li>
         <li>
-          <strong>Other insurance guaranty associations:</strong> If your claim may be recovered
-          under more than one state&rsquo;s insurance guaranty association, you must generally
-          seek recovery first from the association of your state of residence (for first-party
-          property claims, from the association of the state where the property is permanently
-          located). Any CIGA recovery is reduced by amounts recovered from other guarantee
-          associations
+          <strong>Other insurance guaranty associations:</strong> If your claim may be
+          recovered under more than one state&rsquo;s insurance guaranty association, you must
+          generally seek recovery first from the association of your state of residence (for
+          first-party property claims, from the association of the state where the property is
+          permanently located). Any CIGA recovery is reduced by amounts recovered from other
+          guarantee associations
         </li>
         <li>
-          <strong>Other applicable insurance:</strong> If you have other insurance coverage that
-          applies to the same loss, CIGA&rsquo;s obligation may be reduced accordingly. CIGA is
-          not intended to provide duplicate recovery
+          <strong>Other applicable insurance:</strong> If you have other insurance coverage
+          that applies to the same loss, CIGA&rsquo;s obligation may be reduced accordingly.
+          CIGA is not intended to provide duplicate recovery
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -333,53 +520,85 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your insurance company is ordered into liquidation, here is what the claims process
-        with CIGA typically looks like:
+        with CIGA typically looks like.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Step 1: CIGA Receives Your Claim from the Liquidator
+        Step 1: The Court Issues a Conservation or Liquidation Order
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A California court issues a conservation or liquidation order against the insurer. Once
+        the liquidation order is entered, CIGA&rsquo;s obligations are triggered as to covered
+        claims under policies of the insolvent admitted carrier.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Step 2: CIGA Receives Your Claim from the Liquidator
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you already had an open claim with the insolvent insurer, you generally do not need
         to re-file it. The court-appointed liquidator transfers open claim files to CIGA.
         However, some delays are inevitable &mdash; CIGA must first obtain the files from the
-        liquidator, and this process does not happen overnight.
+        liquidator, and this process does not happen overnight. Documentation that was submitted
+        to the insolvent insurer may or may not survive the transfer cleanly. Keep complete
+        copies of all claim documentation, correspondence, estimates, photographs, and
+        supporting materials in your own files. Do not rely on the insolvent insurer to
+        maintain these records.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Step 2: CIGA Contacts You
+        Step 3: CIGA Contacts You and Assigns an Adjuster
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         As soon as possible after receiving the claim files, CIGA will mail letters detailing
-        your rights under the California Insurance Guarantee Association Act and identifying who
-        will be handling your claim. If you do not hear from CIGA within approximately one month
-        from the date the company was declared insolvent, CIGA advises contacting them directly.
+        your rights under the California Insurance Guarantee Association Act and identifying
+        who will be handling your claim. CIGA assigns an adjuster to evaluate each covered
+        claim and requests any additional documentation needed &mdash; proof of loss,
+        estimates, receipts. If you do not hear from CIGA within approximately one month from
+        the date the company was declared insolvent, contact them directly at (323) 782-0044
+        or at{' '}
+        <a
+          href="https://www.ciga.org"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-700 underline hover:text-blue-900"
+        >
+          ciga.org
+        </a>
+        .
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Step 3: Claim Investigation and Adjustment
+        Step 4: Claim Investigation and Adjustment
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         CIGA has the right to investigate, adjust, compromise, settle, and pay covered claims.
         It also has the right to investigate, handle, and deny claims that do not qualify as
-        covered claims. CIGA is a party in interest in all proceedings involving a covered claim
-        and has the right to appear, defend, and appeal.
+        covered claims. CIGA is a party in interest in all proceedings involving a covered
+        claim and has the right to appear, defend, and appeal. The Fair Claims Settlement
+        Practices Regulations (10 CCR &sect; 2695 et seq.) apply to CIGA&rsquo;s claims
+        handling &mdash; including the 15-day acknowledgment requirement of
+        10 CCR &sect; 2695.5(e) and the 40-day accept/deny requirement of
+        10 CCR &sect; 2695.7(b).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Be prepared for the reality that CIGA&rsquo;s claim handling may differ from what you
-        experienced with the original insurer. CIGA is processing claims from a failed company,
-        often with incomplete records, and subject to statutory constraints that the original
-        insurer was not. The process can be slower and more limited.
+        experienced with the original insurer. CIGA is processing claims from a failed
+        company, often with incomplete records, and subject to statutory constraints the
+        original insurer was not. The process can be slower and more limited. CIGA has broad
+        discretion in how it settles covered claims within the statutory framework, and the
+        practical reality is that disputing CIGA&rsquo;s decisions can be more difficult than
+        disputing a regular insurer&rsquo;s decisions.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
-        Step 4: Payment (Subject to Caps and Limitations)
+        Step 5: Payment (Subject to Caps and Limitations)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your claim qualifies as a covered claim, CIGA will pay it &mdash; subject to the
-        statutory caps, exclusions, and reductions described above. Payment is not instantaneous.
-        CIGA must verify coverage, determine the amount owed, and apply all statutory
-        limitations before issuing payment.
+        statutory caps, exclusions, and reductions described above. Payment is not
+        instantaneous. CIGA must verify coverage, determine the amount owed, and apply all
+        statutory limitations before issuing payment.
       </p>
 
       {/* ── Timely Filing Requirement ─────────────────────────────── */}
@@ -390,10 +609,11 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="Filing Deadlines Are Strictly Enforced">
         <p>
-          To qualify as a covered claim, your claim must be presented to the liquidator or CIGA
-          on or before the last date fixed for filing claims in the domiciliary liquidation
-          proceeding. If you miss this deadline, you may lose your right to recover from CIGA
-          entirely. Deadlines vary by insolvency and are set by the court. Monitor them closely.
+          To qualify as a covered claim, your claim must be presented to the liquidator or
+          CIGA on or before the last date fixed for filing claims in the domiciliary
+          liquidation proceeding. If you miss this deadline, you may lose your right to
+          recover from CIGA entirely &mdash; and from the insurer&rsquo;s remaining assets.
+          Deadlines vary by insolvency and are set by the court. Monitor them closely.
         </p>
       </CalloutBox>
 
@@ -407,11 +627,57 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Even if CIGA already has notice of your claim through the liquidator&rsquo;s records,
-        you should confirm that a proof of claim has been filed on your behalf before the
-        deadline. Do not assume that someone else is tracking this for you. The consequence
-        of missing the deadline is the loss of your right to payment &mdash; regardless of how
-        meritorious your claim may be.
+        confirm that a proof of claim has been filed on your behalf before the deadline. Do
+        not assume that someone else is tracking this for you. The consequence of missing the
+        deadline is the loss of your right to payment &mdash; regardless of how meritorious
+        your claim may be.
       </p>
+
+      {/* ── What Policyholders Lose Even With CIGA ───────────────── */}
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        What Policyholders Lose When Their Carrier Goes Insolvent
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Even with CIGA protection, insurer insolvency imposes real costs on policyholders.
+        Some of these costs are not visible until you are deep in the process.
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Coverage gaps:</strong> Your policy is cancelled and you have to find
+          replacement coverage immediately. In today&rsquo;s California market, finding
+          affordable replacement coverage can be extremely difficult, particularly in
+          wildfire-prone areas.
+        </li>
+        <li>
+          <strong>Amounts above the cap:</strong> Any claim value exceeding the applicable
+          CIGA cap is functionally lost &mdash; recoverable, if at all, only as a general
+          creditor of the insolvent estate, which usually yields pennies on the dollar.
+        </li>
+        <li>
+          <strong>Bad faith remedies:</strong> If the insolvent insurer was handling the claim
+          in bad faith before it went under, you lose the ability to pursue{' '}
+          <Link href="/resources/bad-faith" className="text-[#2E74B5] underline">
+            bad faith damages
+          </Link>{' '}
+          against the now-defunct company. CIGA does not assume liability for the insolvent
+          insurer&rsquo;s bad faith conduct.
+        </li>
+        <li>
+          <strong>Delay and uncertainty:</strong> The liquidation process can take years.
+          Policyholders who need funds to rebuild after a loss may wait far longer for CIGA
+          payments than they would have waited from a functioning insurer.
+        </li>
+        <li>
+          <strong>Negotiating leverage:</strong> With a functioning insurer you have tools
+          &mdash; the{' '}
+          <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
+            appraisal process
+          </Link>
+          , CDI complaints, litigation, and the threat of bad faith damages. With CIGA, many
+          of these leverage points are diminished or eliminated.
+        </li>
+      </ul>
 
       {/* ── Recent Insolvencies ──────────────────────────────────── */}
 
@@ -420,30 +686,30 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Insurer insolvencies are not hypothetical. The California Conservation and Liquidation
-        Office currently has multiple open estates, and several recent insolvencies have directly
-        affected California policyholders:
+        Office currently has multiple open estates, and several recent insolvencies have
+        directly affected California policyholders:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
           <strong>Merced Property &amp; Casualty Company (liquidated December 3, 2018):</strong>{' '}
-          This small California insurer was overwhelmed by claims from the devastating 2018 Camp
-          Fire &mdash; the deadliest and most destructive wildfire in California history at that
-          time. Facing approximately $64 million in potential liabilities from Paradise alone,
-          the company could not meet its obligations. The California Insurance Commissioner took
-          expedited legal action to seize the company&rsquo;s assets and protect policyholders.
-          Homeowners who had trusted Merced P&amp;C with their coverage found themselves filing
-          claims with CIGA instead of the carrier they had chosen.
+          This small California insurer was overwhelmed by claims from the devastating 2018
+          Camp Fire &mdash; the deadliest and most destructive wildfire in California history
+          at that time. Facing approximately $64 million in potential liabilities from Paradise
+          alone, the company could not meet its obligations. The California Insurance
+          Commissioner took expedited legal action to seize the company&rsquo;s assets and
+          protect policyholders. Homeowners who had trusted Merced P&amp;C with their coverage
+          found themselves filing claims with CIGA instead of the carrier they had chosen.
         </li>
         <li>
           <strong>Bedivere Insurance Company (liquidated March 11, 2021):</strong> Bedivere was
-          ordered into liquidation, affecting policyholders and claimants across multiple states,
-          including California. Claimants were required to file proofs of claim by specified
-          deadlines or risk losing coverage.
+          ordered into liquidation, affecting policyholders and claimants across multiple
+          states, including California. Claimants were required to file proofs of claim by
+          specified deadlines or risk losing coverage.
         </li>
         <li>
           <strong>Americas Insurance Company (liquidated June 23, 2022):</strong> Another
-          carrier placed into liquidation, with CIGA assuming responsibility for covered claims
-          in California.
+          carrier placed into liquidation, with CIGA assuming responsibility for covered
+          claims in California.
         </li>
         <li>
           <strong>Arrowood Indemnity Company (liquidated November 8, 2023):</strong> This
@@ -451,8 +717,8 @@ export default function Content() {
           coverage being subject to upcoming claim-bar dates.
         </li>
         <li>
-          <strong>Transport Insurance Company (liquidated October 21, 2025):</strong> One of the
-          most recent insolvencies, with a proof of claim deadline for non-workers&rsquo;
+          <strong>Transport Insurance Company (liquidated October 21, 2025):</strong> One of
+          the most recent insolvencies, with a proof of claim deadline for non-workers&rsquo;
           compensation claims set for May 21, 2026.
         </li>
       </ul>
@@ -472,9 +738,11 @@ export default function Content() {
         The California Insurance Crisis and Insolvency Risk
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s insurance market is in crisis, and the conditions driving that crisis
-        are directly relevant to insolvency risk. Understanding the connection is important for
-        every policyholder.
+        California&rsquo;s insurance market is in crisis, and the conditions driving that
+        crisis are directly relevant to insolvency risk. The combination of increasing
+        wildfire risk, rising construction costs, regulatory constraints on premium increases,
+        and carrier withdrawals has created an environment where insurer financial distress is
+        a real concern. Understanding the connection is important for every policyholder.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -503,11 +771,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The FAIR Plan itself faces enormous financial strain. After the January 2025 Palisades
         and Eaton fires, the FAIR Plan reported approximately $4 billion in estimated losses.
-        To cover those losses, it assessed its member insurers $1 billion &mdash; half of which
-        insurers may pass back to their customers in the form of premium increases &mdash; and
-        sought a 36 percent rate increase to remain solvent. Assembly Bill 226 (AB 226) was
-        enacted to allow the FAIR Plan to borrow funds, issue bonds, and impose additional
-        assessments to manage catastrophic losses without becoming insolvent.
+        To cover those losses, it assessed its member insurers $1 billion &mdash; half of
+        which insurers may pass back to their customers in the form of premium increases
+        &mdash; and sought a 36 percent rate increase to remain solvent. Assembly Bill 226 (AB
+        226) was enacted to allow the FAIR Plan to borrow funds, issue bonds, and impose
+        additional assessments to manage catastrophic losses without becoming insolvent.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -524,42 +792,108 @@ export default function Content() {
           P&amp;C after the Camp Fire.
         </li>
         <li>
-          <strong>Surplus lines growth:</strong> Policyholders pushed out of the admitted market
-          are purchasing coverage from surplus lines carriers that are not backed by CIGA. If
-          those carriers struggle, policyholders have no safety net.
+          <strong>Surplus lines growth:</strong> Policyholders pushed out of the admitted
+          market are purchasing coverage from surplus lines carriers that are not backed by
+          CIGA. If those carriers struggle, policyholders have no safety net.
         </li>
         <li>
-          <strong>FAIR Plan assessments:</strong> When the FAIR Plan suffers catastrophic losses,
-          it assesses its member insurers. Those assessments increase costs for admitted carriers,
-          which can strain the finances of companies already operating on thin margins.
+          <strong>FAIR Plan assessments:</strong> When the FAIR Plan suffers catastrophic
+          losses, it assesses its member insurers. Those assessments increase costs for
+          admitted carriers, which can strain the finances of companies already operating on
+          thin margins.
         </li>
         <li>
-          <strong>Reinsurance costs:</strong> Rising reinsurance costs make it more expensive for
-          carriers to transfer catastrophic risk, increasing the exposure they retain on their
-          own balance sheets.
+          <strong>Reinsurance costs:</strong> Rising reinsurance costs make it more expensive
+          for carriers to transfer catastrophic risk, increasing the exposure they retain on
+          their own balance sheets.
         </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The policyholders most at risk are those who have been pushed to smaller, less
+        financially stable carriers or into the surplus lines market after being non-renewed
+        by major admitted insurers. These policyholders often pay the highest premiums while
+        having the least protection if their carrier fails.
+      </p>
 
-      {/* ── Warning Signs ─────────────────────────────────────────── */}
+      {/* ── Surplus Lines Deep Dive ───────────────────────────────── */}
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        The Surplus Lines Gap, in Plain English
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The most alarming gap in the guaranty fund system is the complete absence of
+        protection for policyholders with surplus lines coverage. Surplus lines insurers
+        &mdash; also called non-admitted insurers or excess and surplus carriers &mdash; are
+        not members of CIGA and are not required to participate in any guaranty fund.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This matters enormously in the current California insurance landscape. As admitted
+        carriers have pulled back from wildfire-prone areas, thousands of homeowners have
+        been forced to obtain coverage through the surplus lines market. These policies
+        typically carry higher premiums and fewer consumer protections than admitted
+        policies. If the surplus lines carrier becomes insolvent, the policyholder has no
+        guaranty fund backstop at all.
+      </p>
+
+      <CalloutBox variant="important" title="Surplus Lines = No Guaranty Fund">
+        <p>
+          If your policy is issued by a surplus lines (non-admitted) insurer, you are not
+          protected by CIGA or any other guaranty fund. If that carrier becomes insolvent,
+          you may recover nothing. Check your policy&rsquo;s declarations page to determine
+          whether your insurer is admitted or non-admitted. Surplus lines policies typically
+          include a disclosure stating that the policy is not covered by the guaranty fund.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        How to Check If Your Carrier Is Admitted
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The distinction between admitted and non-admitted (surplus lines) insurers determines
+        whether CIGA protects you. Here is how to confirm.
+      </p>
+      <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          Visit the California Department of Insurance website (insurance.ca.gov)
+        </li>
+        <li>
+          Use the &ldquo;Company Profile Search&rdquo; tool
+        </li>
+        <li>
+          Enter your insurer&rsquo;s name
+        </li>
+        <li>
+          Look for &ldquo;License Status: Active&rdquo; and &ldquo;License Type: Admitted&rdquo;
+        </li>
+      </ol>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If your insurer is listed as &ldquo;Non-Admitted&rdquo; or &ldquo;Surplus Lines,&rdquo;
+        CIGA does not cover you. This is common for homes in high-risk wildfire areas that
+        cannot obtain coverage from admitted carriers and must go to the surplus lines market.
+      </p>
+
+      {/* ── Warning Signs / Financial Health ──────────────────────── */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Warning Signs: How to Check Your Insurer&rsquo;s Financial Health
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        You do not have to wait until your insurer is placed in conservation to worry about its
-        financial strength. There are tools available to evaluate your carrier&rsquo;s financial
-        health before problems arise.
+        The best time to worry about insurer insolvency is before it happens. You do not have
+        to wait until your insurer is placed in conservation to evaluate its financial
+        strength. Several tools are available.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         AM Best Financial Strength Ratings
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        AM Best is the only global credit rating agency focused exclusively on insurance. Its
-        Financial Strength Ratings (FSRs) assess an insurer&rsquo;s ability to meet its ongoing
-        insurance obligations. Ratings range from &ldquo;A++&rdquo; (Superior) to &ldquo;F&rdquo;
-        (In Liquidation), with &ldquo;B+&rdquo; and above considered &ldquo;Secure&rdquo; and
-        ratings below &ldquo;B+&rdquo; considered &ldquo;Vulnerable.&rdquo;
+        AM Best is the only global credit rating agency focused exclusively on insurance, and
+        the most widely recognized in the U.S. property and casualty market. Its Financial
+        Strength Ratings (FSRs) assess an insurer&rsquo;s ability to meet its ongoing
+        insurance obligations. Ratings range from &ldquo;A++&rdquo; (Superior) to
+        &ldquo;F&rdquo; (In Liquidation), with &ldquo;B+&rdquo; and above considered
+        &ldquo;Secure&rdquo; and ratings below &ldquo;B+&rdquo; considered
+        &ldquo;Vulnerable.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         AM Best evaluates insurers through the lens of balance sheet strength, operating
@@ -584,12 +918,16 @@ export default function Content() {
           carry ratings of &ldquo;A&rdquo; or higher.
         </li>
         <li>
+          A rating of &ldquo;B+&rdquo; or lower warrants attention; below &ldquo;B-&rdquo; is
+          a serious warning sign.
+        </li>
+        <li>
           A recent downgrade is a red flag, even if the current rating is still technically
           &ldquo;Secure.&rdquo; The direction of the rating matters.
         </li>
         <li>
-          A &ldquo;Negative Outlook&rdquo; attached to the rating signals that AM Best expects
-          conditions to worsen.
+          A &ldquo;Negative Outlook&rdquo; attached to the rating signals that AM Best
+          expects conditions to worsen.
         </li>
         <li>
           An &ldquo;Under Review&rdquo; status means AM Best is actively reassessing the
@@ -598,21 +936,46 @@ export default function Content() {
       </ul>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
+        Other Rating Agencies and Data Sources
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
+        <li>
+          <strong>Standard &amp; Poor&rsquo;s (S&amp;P) and Moody&rsquo;s:</strong> These
+          agencies also rate insurer financial strength, though their coverage of smaller
+          carriers may be limited.
+        </li>
+        <li>
+          <strong>NAIC IRIS:</strong> The National Association of Insurance Commissioners
+          maintains financial data on all insurance companies. The NAIC&rsquo;s Insurance
+          Regulatory Information System (IRIS) tracks key financial ratios that regulators
+          use to identify financially troubled companies.
+        </li>
+        <li>
+          <strong>Demotech ratings:</strong> For smaller carriers not rated by AM Best,
+          Demotech provides financial stability ratings. These are commonly used for Florida
+          and other catastrophe-exposed carriers, and appear in California as well.
+        </li>
+        <li>
+          <strong>CDI company profile search:</strong> The California Department of Insurance
+          website (insurance.ca.gov) allows policyholders to look up any insurer&rsquo;s
+          licensing status, complaint history, and financial condition information.
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
         NAIC Complaint Index
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The National Association of Insurance Commissioners (NAIC) compiles complaint data from
-        state insurance departments. The California Department of Insurance publishes a
-        complaint index that measures each insurer&rsquo;s share of justified complaints
-        relative to the amount of business it writes in California.
+        The California Department of Insurance publishes a complaint index that measures each
+        insurer&rsquo;s share of justified complaints relative to the amount of business it
+        writes in California. An index of 1.00 means the insurer&rsquo;s complaint share
+        equals its market share. An index of 2.00 means the insurer generates twice as many
+        complaints as its market share would predict.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        An index of 1.00 means the insurer&rsquo;s complaint share equals its market share.
-        An index of 2.00 means the insurer generates twice as many complaints as its market
-        share would predict. While a high complaint index does not necessarily indicate
-        financial trouble, it can signal operational problems that may eventually affect
-        financial stability &mdash; and it tells you something about how the company treats
-        its policyholders.
+        A high complaint index does not necessarily indicate financial trouble, but it can
+        signal operational problems that may eventually affect financial stability &mdash;
+        and it tells you something about how the company treats its policyholders.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         You can access complaint data through the{' '}
@@ -632,7 +995,8 @@ export default function Content() {
           className="text-blue-700 underline hover:text-blue-900"
         >
           NAIC Consumer Information Source
-        </a>.
+        </a>
+        .
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -640,28 +1004,34 @@ export default function Content() {
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>Non-renewal notices:</strong> If your carrier is non-renewing large blocks of
-          policies &mdash; especially in specific geographic areas &mdash; it may be reducing
-          exposure because it cannot afford the risk.
+          <strong>Non-renewal notices:</strong> If your carrier is non-renewing large blocks
+          of policies &mdash; especially in specific geographic areas &mdash; it may be
+          reducing exposure because it cannot afford the risk.
         </li>
         <li>
-          <strong>Significant rate increases:</strong> While rate increases alone do not signal
-          insolvency, dramatic increases can indicate that the carrier has been underpricing
-          risk and needs to correct course quickly.
+          <strong>Significant rate increases:</strong> While rate increases alone do not
+          signal insolvency, dramatic increases can indicate that the carrier has been
+          underpricing risk and needs to correct course quickly.
         </li>
         <li>
-          <strong>Claims handling delays:</strong> An insurer that is suddenly taking much longer
-          to process and pay claims may be experiencing cash flow problems.
+          <strong>Claims handling delays:</strong> An insurer that is suddenly taking much
+          longer to process and pay claims may be experiencing cash flow problems.
         </li>
         <li>
-          <strong>News coverage:</strong> Regulatory actions, lawsuits, and financial reporting
-          often signal trouble before formal insolvency proceedings begin. Pay attention to
-          industry news about your carrier.
+          <strong>News coverage:</strong> Regulatory actions, lawsuits, and financial
+          reporting often signal trouble before formal insolvency proceedings begin. Pay
+          attention to industry news about your carrier.
         </li>
         <li>
-          <strong>CDI actions:</strong> The California Department of Insurance publishes press
-          releases about enforcement actions, conservation orders, and other regulatory
+          <strong>CDI actions:</strong> The California Department of Insurance publishes
+          press releases about enforcement actions, conservation orders, and other regulatory
           interventions. Monitor the CDI website for news about your insurer.
+        </li>
+        <li>
+          <strong>Channel shift to surplus lines:</strong> A carrier that begins offering
+          policies only through surplus lines channels after previously operating as an
+          admitted insurer is signaling something about its appetite for California exposure
+          &mdash; and stripping its policyholders of CIGA protection in the process.
         </li>
       </ul>
 
@@ -672,7 +1042,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you receive a non-renewal or cancellation notice from a carrier whose financial
-        health concerns you, take these steps:
+        health concerns you, consider these steps:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
@@ -712,6 +1082,76 @@ export default function Content() {
         </li>
       </ul>
 
+      {/* ── What to Do If Carrier IS Insolvent ─────────────────────── */}
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        What to Do If Your Carrier Is Declared Insolvent
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you receive notice that your insurance company has been placed into liquidation,
+        consider acting on these steps right away:
+      </p>
+      <ol className="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
+        <li>
+          <strong>Obtain replacement coverage.</strong> Your policy will be cancelled. Contact
+          an insurance agent or broker immediately to obtain new coverage. If you cannot
+          obtain coverage in the admitted market, the{' '}
+          <Link href="/resources/california-fair-plan" className="text-[#2E74B5] underline">
+            California FAIR Plan
+          </Link>{' '}
+          is available as an insurer of last resort for fire coverage.
+        </li>
+        <li>
+          <strong>File a proof of claim.</strong> Follow the instructions in the liquidation
+          notice to file a proof of claim by the stated deadline. Include all documentation
+          supporting your claim. Do not assume someone else is tracking this for you.
+        </li>
+        <li>
+          <strong>Contact CIGA.</strong> Verify that your policy qualifies as a covered claim
+          under the CIGA Act. Call (323) 782-0044 or visit{' '}
+          <a
+            href="https://www.ciga.org"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-700 underline hover:text-blue-900"
+          >
+            ciga.org
+          </a>{' '}
+          for information on covered insolvencies and the claims process.
+        </li>
+        <li>
+          <strong>Preserve all records.</strong> Gather and preserve all policy documents,
+          correspondence with the insurer, claim files, estimates, photographs, and receipts.
+          Do not rely on the insolvent insurer to maintain these records.
+        </li>
+        <li>
+          <strong>Consult with a professional.</strong> If you have a significant pending
+          claim, consider consulting with a{' '}
+          <Link href="/resources/public-adjuster" className="text-[#2E74B5] underline">
+            licensed Public Adjuster
+          </Link>{' '}
+          or an attorney to help protect your interests through the CIGA claims process.
+        </li>
+      </ol>
+
+      {/* ── FAIR Plan Distinction ─────────────────────────────────── */}
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        The California FAIR Plan Is Different
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The{' '}
+        <Link href="/resources/california-fair-plan" className="text-blue-700 underline hover:text-blue-900">
+          California FAIR Plan
+        </Link>{' '}
+        is an insurer of last resort for properties that cannot obtain coverage in the
+        standard market. It is not the same as CIGA. The FAIR Plan is backed by all admitted
+        insurers in California and is itself admitted &mdash; so if the FAIR Plan became
+        insolvent (unlikely given its statutory structure and the AB 226 borrowing and
+        assessment tools), CIGA would apply. But CIGA coverage caps would still apply on top:
+        $500,000 general, $1,000,000 for residential dwelling claims.
+      </p>
+
       {/* ── Practical Guidance ────────────────────────────────────── */}
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
@@ -727,20 +1167,27 @@ export default function Content() {
             CIGA. If it is not, understand the risk you are accepting.
           </li>
           <li>
-            <strong>Check your carrier&rsquo;s financial strength.</strong> Look up the AM Best
-            rating annually. If the rating falls below &ldquo;A-&rdquo; or carries a negative
-            outlook, consider shopping for a stronger carrier.
+            <strong>Check your carrier&rsquo;s financial strength.</strong> Look up the AM
+            Best rating at least annually. If the rating falls below &ldquo;A-&rdquo; or
+            carries a negative outlook, consider shopping for a stronger carrier.
           </li>
           <li>
             <strong>Understand your policy limits relative to CIGA caps.</strong> If your
-            dwelling coverage exceeds $1,000,000, understand that CIGA will not cover the
-            excess. This does not mean you should reduce your limits &mdash; it means you should
-            ensure your carrier is strong enough not to need CIGA.
+            dwelling coverage exceeds $1,000,000 &mdash; or your total potential claim
+            exceeds the applicable general $500,000 cap &mdash; understand that CIGA will
+            not cover the excess. This does not mean you should reduce your limits; it means
+            you should ensure your carrier is strong enough not to need CIGA.
           </li>
           <li>
-            <strong>Maintain your own records.</strong> Keep copies of your policy, declarations
-            page, premium payment receipts, and any claim correspondence. If your carrier fails,
-            these records may be critical.
+            <strong>Maintain your own records.</strong> Keep copies of your policy,
+            declarations page, premium payment receipts, and any claim correspondence outside
+            the home. If your carrier fails, these records may be critical.
+          </li>
+          <li>
+            <strong>File pending claims promptly.</strong> If you have a pending claim and
+            hear news that your carrier is in financial trouble, ensure your claim is fully
+            documented and on the record. A claim that is on file before the insolvency order
+            is in a better position than one filed after the fact.
           </li>
         </ul>
       </div>
@@ -749,14 +1196,14 @@ export default function Content() {
         <h3 className="text-lg font-bold text-amber-900 mb-3">If Your Carrier Is Declared Insolvent</h3>
         <ul className="list-disc pl-6 space-y-2 text-gray-700">
           <li>
-            <strong>Do not assume CIGA knows about your claim.</strong> Even if you had an open
-            claim, verify that it has been transferred to CIGA. Contact CIGA if you do not hear
-            from them within 30 days of the liquidation order.
+            <strong>Do not assume CIGA knows about your claim.</strong> Even if you had an
+            open claim, verify that it has been transferred to CIGA. Contact CIGA if you do
+            not hear from them within 30 days of the liquidation order.
           </li>
           <li>
-            <strong>File a proof of claim before the deadline.</strong> Identify the proof of
-            claim deadline for your specific insolvency and file well before it expires. Do not
-            wait until the last day.
+            <strong>File a proof of claim before the deadline.</strong> Identify the proof
+            of claim deadline for your specific insolvency and file well before it expires.
+            Do not wait until the last day.
           </li>
           <li>
             <strong>Obtain replacement coverage immediately.</strong> The liquidation order
@@ -764,15 +1211,15 @@ export default function Content() {
             Secure new coverage without delay.
           </li>
           <li>
-            <strong>Understand the caps.</strong> Know the applicable CIGA caps for your type of
-            claim. If your claim exceeds the cap, consult an attorney about filing as a general
-            creditor of the insolvent estate for the excess.
+            <strong>Understand the caps.</strong> Know the applicable CIGA caps for your
+            type of claim. If your claim exceeds the cap, consider consulting an attorney
+            about filing as a general creditor of the insolvent estate for the excess.
           </li>
           <li>
-            <strong>Be patient but persistent.</strong> CIGA is processing claims from a failed
-            company, often with incomplete records. The process is slower than a normal claim.
-            Follow up regularly, keep detailed notes of all communications, and escalate if
-            you encounter unreasonable delays.
+            <strong>Be patient but persistent.</strong> CIGA is processing claims from a
+            failed company, often with incomplete records. The process is slower than a
+            normal claim. Follow up regularly, keep detailed notes of all communications,
+            and escalate if you encounter unreasonable delays.
           </li>
         </ul>
       </div>
@@ -781,14 +1228,15 @@ export default function Content() {
         <h3 className="text-lg font-bold text-red-900 mb-3">If You Have a Surplus Lines Policy</h3>
         <ul className="list-disc pl-6 space-y-2 text-gray-700">
           <li>
-            <strong>Accept that CIGA does not apply to you.</strong> If your carrier fails, your
-            recovery depends entirely on the carrier&rsquo;s remaining assets and any
+            <strong>Accept that CIGA does not apply to you.</strong> If your carrier fails,
+            your recovery depends entirely on the carrier&rsquo;s remaining assets and any
             reinsurance it carries. There is no guaranty fund safety net.
           </li>
           <li>
-            <strong>Evaluate your carrier&rsquo;s strength carefully.</strong> Because you lack
-            CIGA protection, the financial strength of your surplus lines carrier is even more
-            critical. Insist on a carrier with an AM Best rating of &ldquo;A&rdquo; or higher.
+            <strong>Evaluate your carrier&rsquo;s strength carefully.</strong> Because you
+            lack CIGA protection, the financial strength of your surplus lines carrier is
+            even more critical. Insist on a carrier with an AM Best rating of &ldquo;A&rdquo;
+            or higher.
           </li>
           <li>
             <strong>If your carrier fails, consult an attorney immediately.</strong> You may
@@ -810,13 +1258,18 @@ export default function Content() {
             <li>California Insurance Code &sect;&sect; 1063&ndash;1063.16 (California Insurance Guarantee Association Act)</li>
             <li>California Insurance Code &sect; 1063.1 (covered claim definition and caps)</li>
             <li>California Insurance Code &sect; 1063.2 (additional covered claim requirements; other insurance reduction)</li>
+            <li>California Insurance Code &sect; 1016 (liquidation order)</li>
+            <li>California Insurance Code &sect; 1033 (priority order for marshalled assets)</li>
+            <li>California Insurance Code &sect; 1067 et seq. (CLHIGA &mdash; life &amp; health guarantee association)</li>
             <li>California Insurance Code &sect; 1765 (surplus lines disclosure requirements)</li>
             <li>California Insurance Code &sect; 790.03(h) (unfair claims settlement practices)</li>
           </ul>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <h3 className="font-bold text-[#1F3964] mb-2">Key Resources</h3>
+          <h3 className="font-bold text-[#1F3964] mb-2">Regulations &amp; Resources</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
+            <li>10 CCR &sect; 2695.5(e) (15-day acknowledgment)</li>
+            <li>10 CCR &sect; 2695.7(b) (40-day accept/deny)</li>
             <li>
               <a
                 href="https://www.ciga.org/"
@@ -886,16 +1339,18 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           In today&rsquo;s California insurance market, where carriers are exiting, the FAIR
           Plan is strained to its limits, and more policyholders are being pushed into the
-          surplus lines market, the risk of insurer insolvency is not a distant concern. It is
-          a factor that should inform how you choose your insurance carrier, how you evaluate
-          your coverage, and how you prepare for the possibility that the company you are
-          counting on might not be there when you need it most.
+          surplus lines market, the risk of insurer insolvency is not a distant concern. It
+          is a factor that should inform how you choose your insurance carrier, how you
+          evaluate your coverage, and how you prepare for the possibility that the company
+          you are counting on might not be there when you need it most.
         </p>
         <p className="text-gray-700 leading-relaxed">
-          Verify that your carrier is admitted. Check its financial strength. Understand CIGA&rsquo;s
-          caps and limitations. Maintain your own records. And if your carrier fails, act quickly
-          to file your claim, meet every deadline, and secure replacement coverage. The safety
-          net exists &mdash; but only if you know how to use it.
+          Verify that your carrier is admitted. Check its financial strength. Understand
+          CIGA&rsquo;s caps and limitations. Maintain your own records. And if your carrier
+          fails, act quickly to file your claim, meet every deadline, and secure replacement
+          coverage. Your insurer&rsquo;s financial stability is part of your coverage &mdash;
+          a policy from a company that cannot pay claims is not insurance; it is a piece of
+          paper. The safety net exists, but only if you know how to use it.
         </p>
       </div>
 
@@ -903,13 +1358,14 @@ export default function Content() {
 
       <div className="mt-10 pt-6 border-t border-gray-200">
         <p className="text-sm text-gray-500 leading-relaxed">
-          <strong>Disclaimer:</strong> This article is for general educational purposes and does
-          not constitute legal or professional advice. Insurance law is complex and
-          fact-specific. If your insurance company has been placed in conservation or
-          liquidation, or if you have concerns about your carrier&rsquo;s financial health,
-          consult a licensed attorney or Public Adjuster who can evaluate your specific
-          circumstances. Nothing in this article creates an attorney-client or
-          professional-client relationship.
+          <strong>Disclaimer:</strong> This article is for general educational purposes and
+          does not constitute legal or professional advice. Insurance law is complex and
+          fact-specific. The statutes, regulations, and coverage limits discussed reflect
+          California law as of the date of publication and are subject to change. If your
+          insurance company has been placed in conservation or liquidation, or if you have
+          concerns about your carrier&rsquo;s financial health, consult a licensed attorney
+          or Public Adjuster who can evaluate your specific circumstances. Nothing in this
+          article creates an attorney-client or professional-client relationship.
         </p>
       </div>
 
@@ -950,7 +1406,7 @@ export default function Content() {
             rel="noopener noreferrer"
             className="text-blue-700 underline hover:text-blue-900"
           >
-            ciga.org/consumers_claims.html
+            ciga.org/how-we-work
           </a>
         </li>
         <li>
@@ -1010,6 +1466,14 @@ export default function Content() {
           </a>
         </li>
         <li>
+          National Association of Insurance Commissioners, guaranty fund overview and IRIS
+          financial ratio data, naic.org.
+        </li>
+        <li>
+          United Policyholders, consumer guidance on insurer insolvency and guaranty fund
+          limitations, uphelp.org.
+        </li>
+        <li>
           Insurance Information Institute, &ldquo;How to assess the financial strength of an
           insurance company,&rdquo;{' '}
           <a
@@ -1026,36 +1490,170 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
         Frequently Asked Questions
       </h2>
-      <QABlock pairs={[
-        {
-          question: 'What does it mean when an insurance company goes "insolvent"?',
-          answer: "The company can no longer meet its financial obligations — liabilities exceed assets and it cannot pay the claims it owes. Insurance companies don't file federal bankruptcy; they go through a state-regulated process overseen by the California Department of Insurance and the courts. Conservation is the first stage — the Commissioner takes control and attempts rehabilitation. If rehabilitation isn't feasible, the court orders liquidation, all policies are cancelled, and the assets are marshalled to pay claims.",
-        },
-        {
-          question: 'What are the CIGA coverage caps?',
-          answer: "$500,000 per claim for auto, general liability, property, and casualty under Insurance Code §1063.1(c)(1)(A)(vii). For residential property insurance, dwelling-structure claims are capped at $1,000,000 or the amount recoverable under the policy, whichever is less. Each separate coverage category (dwelling, personal property, additional living expenses, other structures) is treated as a separate covered claim, each subject to its own cap. Cybersecurity claims are capped at $1,000,000 or policy limits. Workers' compensation has no cap. Claims of $100 or less are excluded entirely.",
-        },
-        {
-          question: 'Why are surplus lines (non-admitted) carriers a critical gap?',
-          answer: "CIGA applies only to admitted insurers — companies licensed by the CDI and subject to California's rate and form regulations. Surplus lines carriers operate outside the admitted market, are not CIGA members, and their policyholders have no guaranty fund protection. As admitted carriers exit the California homeowners market or restrict new business in high-risk areas, more policyholders are being pushed into surplus lines. Insurance Code §1765 requires a written disclosure that the policy is not covered by CIGA, but in practice many policyholders sign it without grasping what it means until they need to file a claim.",
-        },
-        {
-          question: 'What is the claims process with CIGA?',
-          answer: "If you had an open claim with the insolvent insurer, you generally don't re-file — the court-appointed liquidator transfers open files to CIGA, though delays are inevitable. CIGA will mail letters identifying who handles your claim; if you don't hear from CIGA within roughly a month of the insolvency, contact them directly. CIGA then investigates, adjusts, and pays covered claims (or denies claims that don't qualify), subject to the statutory caps, exclusions, and reductions. Expect the process to be slower and more limited than dealing with a functioning carrier — CIGA is processing claims from a failed company, often with incomplete records, and under statutory constraints the original insurer didn't have.",
-        },
-        {
-          question: 'Do I have to meet a filing deadline?',
-          answer: "Yes, and it is strictly enforced. Each liquidation proceeding has its own court-set proof-of-claim (POC) deadline, established in the liquidation order and published in the notice sent to potential claimants. Deadlines vary from case to case but are typically set several months out from the liquidation order. To qualify as a covered claim, your claim must be presented to the liquidator or CIGA on or before that deadline. Even if CIGA has notice of your claim through the liquidator's records, confirm in writing that a POC has been filed on your behalf before the deadline — do not assume someone else is tracking it for you. Missing the deadline forfeits your right to payment regardless of how meritorious the claim is.",
-        },
-        {
-          question: 'How does CIGA interact with other insurance I might have?',
-          answer: "CIGA is a payer of last resort. If you have a claim under any governmental insurance or guaranty program covering the same loss, you must exhaust that first; CIGA reduces its payment by what you recover (Insurance Code §1063.2). If your claim could be recovered under more than one state's guaranty association, you generally seek recovery first from your state of residence (or, for first-party property, from the state where the property is located). If you have other insurance covering the same loss, CIGA's obligation may be reduced — CIGA is not designed to provide duplicate recovery.",
-        },
-        {
-          question: "Why are insurers' financial-strength ratings worth checking?",
-          answer: 'AM Best is the only global credit rating agency focused exclusively on insurance. Financial Strength Ratings range from A++ (Superior) to F (In Liquidation); B+ and above are "Secure," below B+ are "Vulnerable." You can look up your insurer\'s rating at ratings.ambest.com. Watch for: a rating below A- (most large established carriers are A or higher), a recent downgrade even within the Secure range (direction matters), a "Negative Outlook" attached to the rating, or "Under Review" status which often precedes a downgrade. Also check the California Department of Insurance complaint index at insurance.ca.gov — an index above 1.00 means the insurer generates more justified complaints than its market share would predict.',
-        },
-      ]} />
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        What happens when my insurance company becomes insolvent?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The California Department of Insurance places the company into conservation first,
+        attempting to stabilize it. If rehabilitation fails, the Insurance Commissioner
+        petitions the court for a liquidation order under Insurance Code &sect; 1016. Once
+        liquidation is ordered, all policies are cancelled &mdash; typically with 30
+        days&rsquo; notice &mdash; and the company&rsquo;s remaining assets are marshalled to
+        pay claims in the statutory priority order under &sect; 1033. Pending claims rarely
+        get paid in full from the estate itself, which is why the California Insurance
+        Guarantee Association (CIGA) safety net matters. Insurance companies do not file
+        federal bankruptcy; they go through this state-regulated process overseen by the CDI
+        and the courts.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        What is CIGA and what does it cover?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CIGA is a not-for-profit, statutorily created association under Insurance Code
+        &sect; 1063 et seq., funded by assessments on admitted property and casualty insurers
+        &mdash; not a government agency and not funded by taxpayer dollars. When an admitted
+        insurer is ordered into liquidation, CIGA steps in to handle &ldquo;covered
+        claims&rdquo; within statutory limits and exclusions. The claim must arise under a
+        policy issued by an admitted insurer, must be a covered loss under the policy, the
+        loss must have occurred before the liquidation order (or within the 30-day
+        cancellation notice period), and the claimant or property must be in California.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        What are the CIGA coverage caps?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        $500,000 per claim for auto, general liability, property, and casualty under Insurance
+        Code &sect; 1063.1(c)(1)(A)(vii). For residential property insurance, dwelling-structure
+        claims are capped at $1,000,000 or the amount recoverable under the policy, whichever
+        is less. Each separate coverage category under residential property insurance
+        (dwelling, personal property, additional living expenses, other structures) is treated
+        as a separate covered claim, each subject to its own cap. Cybersecurity claims are
+        capped at $1,000,000 or policy limits. Workers&rsquo; compensation has no cap.
+        Unearned premium refunds are capped at $10,000. Claims of $100 or less are excluded
+        entirely.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        Is there a $300,000 net-worth disqualification for residential property claims?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        No. Insurance Code &sect; 1063.1 does not contain a net-worth disqualification for
+        residential property claims. The $300,000 figure that sometimes gets confused with
+        CIGA is actually the per-life cap of the California Life and Health Insurance
+        Guarantee Association (CLHIGA) under Insurance Code &sect; 1067 et seq. &mdash; a
+        separate statutory body that backs life and annuity policies, not property/casualty.
+        There are certain large commercial entities excluded from CIGA based on net-worth
+        thresholds in the statute, but residential homeowners are not subject to that
+        disqualification. Verify CIGA eligibility directly with CIGA at ciga.org.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        Why are surplus lines (non-admitted) carriers a critical gap?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CIGA applies only to admitted insurers &mdash; companies licensed by the CDI and
+        subject to California&rsquo;s rate and form regulations. Surplus lines carriers
+        operate outside the admitted market, are not CIGA members, and their policyholders
+        have no guaranty fund protection. As admitted carriers exit the California homeowners
+        market or restrict new business in high-risk areas, more policyholders are being
+        pushed into surplus lines. Insurance Code &sect; 1765 requires a written disclosure
+        that the policy is not covered by CIGA, but in practice many policyholders sign it
+        without grasping what it means until they need to file a claim.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        What is the claims process with CIGA?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If you had an open claim with the insolvent insurer, you generally don&rsquo;t re-file
+        &mdash; the court-appointed liquidator transfers open files to CIGA, though delays are
+        inevitable. CIGA will mail letters identifying who handles your claim; if you
+        don&rsquo;t hear from CIGA within roughly a month of the insolvency, contact them
+        directly at (323) 782-0044 or ciga.org. CIGA then investigates, adjusts, and pays
+        covered claims (or denies claims that don&rsquo;t qualify), subject to the statutory
+        caps, exclusions, and reductions. The Fair Claims Settlement Practices Regulations
+        (10 CCR &sect; 2695 et seq.) apply &mdash; including 15-day acknowledgment
+        (&sect; 2695.5(e)) and 40-day accept/deny (&sect; 2695.7(b)). Expect the process to be
+        slower and more limited than dealing with a functioning carrier: CIGA is processing
+        claims from a failed company, often with incomplete records, and under statutory
+        constraints the original insurer didn&rsquo;t have.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        Do I have to meet a filing deadline?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Yes, and it is strictly enforced. Each liquidation proceeding has its own court-set
+        proof-of-claim (POC) deadline, established in the liquidation order and published in
+        the notice sent to potential claimants. Deadlines vary from case to case but are
+        typically set several months out from the liquidation order. To qualify as a covered
+        claim, your claim must be presented to the liquidator or CIGA on or before that
+        deadline. Even if CIGA has notice of your claim through the liquidator&rsquo;s
+        records, confirm in writing that a POC has been filed on your behalf &mdash; do not
+        assume someone else is tracking it for you. Missing the deadline forfeits your right
+        to payment regardless of how meritorious the claim is.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        How does CIGA interact with other insurance I might have?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        CIGA is a payer of last resort. If you have a claim under any governmental insurance
+        or guaranty program covering the same loss, you must exhaust that first; CIGA reduces
+        its payment by what you recover (Insurance Code &sect; 1063.2). If your claim could be
+        recovered under more than one state&rsquo;s guaranty association, you generally seek
+        recovery first from your state of residence (or, for first-party property, from the
+        state where the property is located). If you have other insurance covering the same
+        loss, CIGA&rsquo;s obligation may be reduced &mdash; CIGA is not designed to provide
+        duplicate recovery.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        What can I lose even with CIGA protection?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Coverage gaps (your policy is cancelled and you have to find replacement coverage in
+        California&rsquo;s tight market). Any loss above the applicable CIGA cap. The ability
+        to pursue bad faith damages against the now-defunct company &mdash; CIGA does not
+        assume liability for the insolvent insurer&rsquo;s bad faith conduct. Delay and
+        uncertainty (liquidation can take years). Negotiating leverage: appraisal, CDI
+        complaints, and the threat of bad faith litigation all become diminished or
+        unavailable when dealing with CIGA rather than a functioning insurer.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        How do I check if my insurer is admitted, and how do I check its financial strength?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        To check admitted status: visit insurance.ca.gov, use the Company Profile Search,
+        enter your insurer&rsquo;s name, and look for &ldquo;License Status: Active&rdquo;
+        and &ldquo;License Type: Admitted.&rdquo; If it shows &ldquo;Non-Admitted&rdquo; or
+        &ldquo;Surplus Lines,&rdquo; CIGA does not cover you. For financial strength, AM Best
+        is the most widely recognized rating agency for insurance (ratings.ambest.com).
+        Ratings range from A++ (Superior) to F (In Liquidation); B+ and above is
+        &ldquo;Secure,&rdquo; below B+ is &ldquo;Vulnerable.&rdquo; A rating below A-
+        warrants scrutiny; B+ or lower warrants attention; below B- is a serious warning.
+        Watch for recent downgrades, &ldquo;Negative Outlook,&rdquo; and &ldquo;Under
+        Review&rdquo; status. Standard &amp; Poor&rsquo;s, Moody&rsquo;s, NAIC IRIS data,
+        Demotech ratings (smaller carriers), and the CDI complaint index are additional
+        sources. An index above 1.00 means the insurer generates more justified complaints
+        than its market share would predict.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-6">
+        Is the California FAIR Plan the same as CIGA?
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        No. The FAIR Plan is an insurer of last resort for properties that cannot obtain
+        coverage in the standard market. CIGA is the guarantee association that pays claims
+        when an admitted carrier becomes insolvent. The FAIR Plan is itself admitted and is
+        backed by all admitted California insurers, so in the unlikely event the FAIR Plan
+        became insolvent, CIGA would apply &mdash; but CIGA caps ($500,000 general,
+        $1,000,000 residential dwelling) would still apply on top.
+      </p>
 
       {/* ── Related Reading ───────────────────────────────────────── */}
 
@@ -1074,6 +1672,11 @@ export default function Content() {
           </Link>
         </li>
         <li>
+          <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
+            The Appraisal Process: Resolving Claim Disputes
+          </Link>
+        </li>
+        <li>
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
             When to Hire a Public Adjuster
           </Link>
@@ -1088,7 +1691,30 @@ export default function Content() {
             Insurance Myths Exposed: What Your Adjuster Won&apos;t Correct
           </Link>
         </li>
+        <li>
+          <Link href="/resources/what-is-homeowners-insurance" className="text-blue-700 underline hover:text-blue-900">
+            What Is Homeowners Insurance? A Primer
+          </Link>
+        </li>
       </ul>
+
+      <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
+        <h3 className="text-lg font-bold text-[#1F3964] mb-2">
+          Concerned About Your Carrier&rsquo;s Financial Health?
+        </h3>
+        <p className="text-gray-600 text-sm mb-4">
+          A Licensed Public Adjuster can help you evaluate your current coverage, ensure your
+          claim documentation is complete and independently preserved, and navigate the claims
+          process if your carrier is in financial distress.
+        </p>
+        <Link
+          href="/contact"
+          className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-6 py-3 rounded-lg transition-colors"
+        >
+          Request a Free Claim Review &rarr;
+        </Link>
+      </div>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.

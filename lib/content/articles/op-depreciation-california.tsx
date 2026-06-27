@@ -117,13 +117,13 @@ export default function Content() {
       </h2>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Cal. Fair Plan Ass&rsquo;n v. Garnes (2017)
+        Cal. FAIR Plan Ass&rsquo;n v. Garnes (2017)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The California Court of Appeal, First Appellate District, confirmed that Section 2051(b) sets the formula for calculating ACV and limits deductions to &ldquo;physical depreciation.&rdquo; The Supreme Court denied review, effectively affirming. While this case addressed whether ACV can exceed fair market value for partial losses (it can), it establishes that Section 2051 is the controlling standard and that insurers cannot impose deductions beyond what the statute authorizes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
-        Cal. Fair Plan Ass&rsquo;n v. Garnes, 11 Cal.App.5th 1276, 218 Cal.Rptr.3d 246 (Cal. App. 1st Dist. 2017). <a href="https://caselaw.findlaw.com/ca-court-of-appeal/1862181.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read on FindLaw</a>.
+        Cal. FAIR Plan Ass&rsquo;n v. Garnes, 11 Cal.App.5th 1276, 218 Cal.Rptr.3d 246 (Cal. App. 1st Dist. 2017). <a href="https://caselaw.findlaw.com/ca-court-of-appeal/1862181.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read on FindLaw</a>.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">

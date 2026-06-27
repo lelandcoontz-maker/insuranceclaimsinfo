@@ -54,7 +54,7 @@ const nextConfig = {
     },
     {
       source: '/resources/three-trade-rule-overhead-profit',
-      destination: '/resources/three-trade-rule',
+      destination: '/resources/overhead-and-profit',
       permanent: true,
     },
     // Tier 1 cannibalization cleanup (2026-06-24): 13 near-duplicate merges
@@ -128,6 +128,81 @@ const nextConfig = {
     {
       source: '/resources/state-farm-appraisal-trap',
       destination: '/resources/appraisal-trap-tactics',
+      permanent: true,
+    },
+    // 2026-06-27: Tier 2 cannibalization cleanup
+    // Cluster 1 — Appraisal triple-merge
+    {
+      source: '/resources/appraisal-practitioner-guide',
+      destination: '/resources/appraisal',
+      permanent: true,
+    },
+    {
+      source: '/resources/california-appraisal-case-law',
+      destination: '/resources/appraisal',
+      permanent: true,
+    },
+    // Cluster 4 — FAIR Plan merge
+    {
+      source: '/resources/fair-plan-claims-limitations',
+      destination: '/resources/california-fair-plan',
+      permanent: true,
+    },
+    // Cluster 8 — Mold merge
+    {
+      source: '/resources/mold-coverage-paradox',
+      destination: '/resources/mold-losses',
+      permanent: true,
+    },
+    // Cluster 9 — Bad faith merge
+    {
+      source: '/resources/bad-faith-explained',
+      destination: '/resources/bad-faith',
+      permanent: true,
+    },
+    // Cluster 11 — Equitable tolling merge
+    {
+      source: '/resources/equitable-tolling-nuances',
+      destination: '/resources/equitable-tolling',
+      permanent: true,
+    },
+    // Cluster 14 — Open-vs-named perils merge (contents-coverage-gaps kept distinct)
+    {
+      source: '/resources/named-perils-vs-open-perils',
+      destination: '/resources/open-perils-vs-named-perils',
+      permanent: true,
+    },
+    // Cluster 15 — O&P triple-merge
+    {
+      source: '/resources/xactimate-overhead-profit',
+      destination: '/resources/overhead-and-profit',
+      permanent: true,
+    },
+    {
+      source: '/resources/three-trade-rule',
+      destination: '/resources/overhead-and-profit',
+      permanent: true,
+    },
+    // Cluster 7 — CIGA triple-merge
+    {
+      source: '/resources/insurer-insolvency-guaranty-fund',
+      destination: '/resources/insurer-insolvency-ciga',
+      permanent: true,
+    },
+    {
+      source: '/resources/insurer-goes-out-of-business',
+      destination: '/resources/insurer-insolvency-ciga',
+      permanent: true,
+    },
+    // Cluster 2 — ACV/depreciation triple-merge
+    {
+      source: '/resources/broad-evidence-rule-acv',
+      destination: '/resources/acv-rcv',
+      permanent: true,
+    },
+    {
+      source: '/resources/depreciation-schedules-useful-life',
+      destination: '/resources/acv-rcv',
       permanent: true,
     },
   ],

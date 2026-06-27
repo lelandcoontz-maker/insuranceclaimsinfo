@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     'Free tools and expert guides for California insurance claimants. Interactive personal property inventory, policy interpretation, claim negotiation strategies, and licensed Public Adjuster services.',
   keywords: [
     'California insurance claim', 'Public Adjuster California', 'personal property inventory',
-    'insurance claim help', 'CA Fair Plan', 'contents claim', 'additional living expenses',
+    'insurance claim help', 'CA FAIR Plan', 'contents claim', 'additional living expenses',
     'fire insurance claim', 'wildfire insurance', 'insurance appraisal',
   ],
   verification: {

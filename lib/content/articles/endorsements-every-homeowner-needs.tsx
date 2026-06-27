@@ -711,7 +711,7 @@ export default function Content() {
           requires today can be enormous. Ordinance or law coverage is essential.
         </li>
         <li>
-          <strong>Fair Plan limitations:</strong> Homeowners who cannot obtain coverage in the
+          <strong>FAIR Plan limitations:</strong> Homeowners who cannot obtain coverage in the
           standard market may end up with a{' '}
           <Link href="/resources/california-fair-plan" className="text-[#2E74B5] hover:underline">
             California FAIR Plan

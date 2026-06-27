@@ -150,7 +150,7 @@ export default function Content() {
         Code &sect; 2051(b) requires a uniform method &mdash; ACV equals replacement cost less a
         fair and reasonable deduction for physical depreciation &mdash; for both total and
         partial losses and for both structure and contents. This superseded the earlier
-        broad-evidence approach articulated in <em>Cheeks v. California Fair Plan Ass&rsquo;n</em>{' '}
+        broad-evidence approach articulated in <em>Cheeks v. California FAIR Plan Ass&rsquo;n</em>{' '}
         (1998) 61 Cal.App.4th 423 (which had applied a fair-market-value / broad-evidence
         framework to total losses). For inventory claims under &sect; 2051(b), the &ldquo;cost
         to repair, rebuild, or replace&rdquo; is the starting point, and the policyholder can
@@ -813,7 +813,7 @@ export default function Content() {
           Insurance Code &sect; 2051(b) defines ACV as replacement cost less a fair and
           reasonable deduction for physical depreciation, applied uniformly to both total and
           partial losses and to both structure and contents. This superseded the
-          broad-evidence / fair-market-value approach of <em>Cheeks v. California Fair Plan
+          broad-evidence / fair-market-value approach of <em>Cheeks v. California FAIR Plan
           Ass&rsquo;n</em> (1998) 61 Cal.App.4th 423. For inventory, this means the starting
           point is the cost to acquire equivalent goods at the time of loss &mdash; not
           historical book value &mdash; and only goods that have actually lost value (seasonal,

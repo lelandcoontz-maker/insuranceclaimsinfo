@@ -463,7 +463,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The practical consequence is that a broker&rsquo;s representations about FAIR Plan
         coverage generally cannot be imputed to the FAIR Plan under standard agency
-        principles. In <em>Thompson v. California Fair Plan Association</em> (1990) 221
+        principles. In <em>Thompson v. California FAIR Plan Association</em> (1990) 221
         Cal.App.3d 760, the court recognized that the broker &ldquo;acted as agent
         for&rdquo; the insured when applying for FAIR Plan insurance &mdash; not as an
         agent of the FAIR Plan. Read alongside Insurance Code &sect;&sect; 31, 33, 1623(c),
