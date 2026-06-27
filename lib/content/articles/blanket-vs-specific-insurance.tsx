@@ -552,22 +552,23 @@ export default function Content() {
 
       <CalloutBox variant="important" title="Challenge Improper Coinsurance Calculations">
         <p>
-          If a carrier applies a coinsurance penalty on a blanket policy by calculating
-          coinsurance at the individual location level rather than the aggregate blanket level,
-          that calculation is improper. The entire point of blanket insurance is that the
-          coinsurance formula uses the combined values. Demand the carrier show their work and
-          verify which values they used in the denominator of the coinsurance formula.
+          When a carrier applies a coinsurance penalty on a blanket policy by calculating
+          coinsurance at the individual location level rather than the aggregate blanket
+          level, the calculation is generally inconsistent with how blanket insurance is
+          structured. The entire point of blanket insurance is that the coinsurance formula
+          uses the combined values. You might consider asking the carrier to show which
+          values they used in the denominator of the coinsurance formula.
         </p>
       </CalloutBox>
 
-      <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;The coinsurance clause in a blanket policy operates on the total values across
-        all scheduled locations. When a carrier isolates a single location from the blanket and
-        applies the coinsurance penalty as though that location were specifically insured, it
-        is rewriting the coverage structure after the loss to the insured&rsquo;s detriment.
-        That is not how blanket insurance works, and it should not be accepted without
-        challenge.&rdquo;
-      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The coinsurance clause in a blanket policy operates on the total values across all
+        scheduled locations. When a carrier isolates a single location from the blanket and
+        applies the coinsurance penalty as though that location were specifically insured, the
+        carrier is restructuring the coverage at the time of loss. That allocation is
+        inconsistent with how blanket insurance is generally written and is a point worth
+        surfacing with the carrier in writing.
+      </p>
 
       {/* ── Related Reading ── */}
       <CalloutBox variant="tip" title="Related Reading">

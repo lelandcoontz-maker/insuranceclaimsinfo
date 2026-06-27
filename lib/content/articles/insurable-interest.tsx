@@ -41,13 +41,21 @@ export default function Content() {
         these parties can have an insurable interest in a property.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect; 281, an insurable interest in property may consist
-        of &ldquo;any lawful and substantial economic interest in the safety or preservation of
-        property from loss, destruction, or pecuniary damage.&rdquo; The key question is not
-        whether you <em>own</em> the property &mdash; it&rsquo;s whether you would be financially
-        harmed if it were lost. But here is the critical point: <strong>the insurance company&rsquo;s
-        obligation is limited to the value of your insurable interest, not the full value of the
-        property.</strong>
+        California codifies the property insurable-interest concept in Cal. Ins. Code
+        &sect; 281:
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        Every interest in property, or any relation thereto, or liability in respect thereof,
+        of such a nature that a contemplated peril might directly damnify the insured, is an
+        insurable interest.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Section 280 is the consequence side: <em>&ldquo;If the insured has no insurable
+        interest, the contract is void.&rdquo;</em> The key question, for any insured, is not
+        whether they <em>own</em> the property &mdash; it is whether they would be financially
+        harmed if it were damaged or destroyed. But here is the critical point:
+        <strong> the carrier&apos;s obligation is generally limited to the value of the
+        insured&apos;s insurable interest, not the full value of the property.</strong>
       </p>
 
       <CalloutBox variant="important" title="Your Claim Is Capped at Your Interest">
@@ -304,13 +312,18 @@ export default function Content() {
         remainder interest, or the trust itself would need to be the named insured.
       </p>
 
-      <CalloutBox variant="important" title="The Gap Is Real and Unrecoverable">
+      <CalloutBox variant="important" title="The Coverage Gap Can Be Substantial">
         <p>
-          If the property is destroyed and the policy only covers the life estate holder&rsquo;s
-          interest, the difference between the life estate value and the full property value is
-          simply uninsured. No one gets paid for it. This is not a denial that can be appealed or
-          a lowball that can be negotiated &mdash; it is a structural gap in coverage created by
-          the estate planning.
+          Where the property is destroyed and the policy covers only the life estate
+          holder&apos;s interest, the difference between the life estate value and the full
+          property value is exposed to the insurable-interest argument. In practice, California
+          carriers facing a sympathetic life tenant on a total loss sometimes pay full
+          replacement cost where the named insured is the only practical claimant and the
+          trust/beneficiaries are joined or sign off &mdash; and counsel may have arguments
+          (reasonable expectations, estoppel, agent E&amp;O) that close some or all of the gap.
+          But the structural gap is real, and there is no guarantee a carrier will pay through
+          it. This is one of the high-leverage moments to involve an insurance coverage
+          attorney early.
         </p>
       </CalloutBox>
 
@@ -318,11 +331,14 @@ export default function Content() {
         Scenario B: The Policy Is in the Name of the Trust
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the insurance agent and the estate-planning attorney handled things correctly, they
-        would have updated the insurance policy to name the <strong>family trust</strong> as the
-        insured (or as an additional insured or loss payee, depending on the carrier&rsquo;s
-        requirements). When the trust is the named insured, the trust has a full insurable interest
-        in the property &mdash; because the trust <em>owns</em> the property.
+        Where the insurance agent and the estate-planning attorney handled the trust transfer
+        coordinated with the policy, the insurance was updated to reflect the trust&apos;s
+        relationship to the property. Carrier practice varies on how that update is structured:
+        some name the trust as the insured outright, some add the trust as an additional
+        insured, some treat the trust as a loss payee, and revocable-living-trust scenarios in
+        particular are sometimes underwritten with the settlor remaining the named insured plus
+        the trust noted on the policy. The right structure for a specific policy is a question
+        for the insured&apos;s agent and broker.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         On a total loss, the claim payment goes to the trust. The trustee, with the advice of the
@@ -357,76 +373,87 @@ export default function Content() {
       </div>
 
       <h2 id="whose-fault" className="text-2xl font-bold text-[#1F3964] mb-4">
-        Whose Fault Is It?
+        Where the Coverage Gap Tends to Come From
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When this mistake happens, there is usually plenty of blame to go around:
+        When this mistake surfaces in a claim, three professionals were typically in a
+        position to catch it before the loss:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>The estate-planning attorney</strong> who set up the trust should have flagged
-          the insurance issue. Any competent estate-planning attorney knows that transferring
-          property into a trust requires updating the insurance to reflect the new ownership.
-          Failing to advise the client to do so may constitute malpractice.
+          <strong>The estate-planning attorney</strong> who set up the trust. Transferring
+          property into a trust generally requires updating the named insured on the homeowner
+          policy to reflect the new ownership. Whether the standard of care for an
+          estate-planning attorney in California includes flagging this is a question for a
+          legal malpractice attorney, not for a public adjuster.
         </li>
         <li>
-          <strong>The insurance agent</strong> should have been notified of the ownership change
-          and should have updated the policy accordingly. If the agent was aware that the property
-          was transferred to a trust and failed to update the named insured, the agent may bear
-          liability for the coverage gap.
+          <strong>The insurance agent.</strong> Where an agent was aware of the ownership
+          change but the policy was not updated, the insured may have remedies. The scope of
+          agent E&amp;O exposure in any specific situation is a question for counsel.
         </li>
         <li>
-          <strong>The homeowner</strong> had a duty under the policy conditions to notify the
-          insurer of material changes to the property &mdash; and an ownership transfer certainly
-          qualifies. But most homeowners don&rsquo;t think of estate planning as affecting their
-          insurance, and that is precisely why the professionals they hire should have caught it.
+          <strong>The homeowner.</strong> Most homeowner policies contain a duty to notify the
+          insurer of material changes affecting the property &mdash; an ownership transfer
+          generally qualifies. Many homeowners do not think of estate planning as affecting
+          their insurance, which is part of why the professionals they hire are usually the
+          first line of defense.
         </li>
       </ul>
 
       <CalloutBox variant="tip" title="If This Has Happened to You">
         <p>
-          If you are dealing with a claim where the property was transferred into a trust but the
-          insurance policy was never updated, all is not necessarily lost. There may be arguments
-          based on the doctrine of reasonable expectations, estoppel, or agent liability that can
-          help recover the gap. An experienced Public Adjuster or insurance attorney should review
-          the specific facts of your situation.
+          Where the property was transferred into a trust but the policy was never updated, the
+          insured&apos;s position is not necessarily hopeless. Coverage attorneys frequently
+          have arguments at the carrier and equitable arguments in litigation that can close
+          some or all of the gap. The specific arguments available depend on the facts and on
+          the carrier&apos;s position, and they are arguments for an insurance coverage
+          attorney to develop &mdash; not for a public adjuster to draft.
         </p>
       </CalloutBox>
 
       <h2 id="broader-implications" className="text-2xl font-bold text-[#1F3964] mb-4">
-        Broader Implications of Insurable Interest
+        Other Common Scenarios Where Insurable-Interest Issues Surface
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The life estate scenario is just one example of the insurable interest doctrine at work.
-        The same principle applies in many other situations:
+        The life-estate scenario is one example of a broader pattern. Insurable-interest
+        questions can also surface in:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Divorced spouses:</strong> If a divorce decree awards the home to one spouse but
-          the policy is still in both names (or the wrong name), insurable interest issues can
-          arise.
+          <strong>Divorce-related ownership changes.</strong> When a divorce decree awards the
+          home to one spouse but the policy still names both (or the wrong one), the analysis
+          can get complicated. Specifics belong with the family law and insurance coverage
+          attorneys handling the matter.
         </li>
         <li>
-          <strong>Inherited property:</strong> If a parent dies and leaves a home to multiple
-          children, each child&rsquo;s insurable interest may be only a fractional share of the
-          property value.
+          <strong>Inherited property.</strong> When a parent dies and leaves a home to multiple
+          children, the analysis of each child&apos;s insurable interest is fact-specific and
+          generally belongs with the probate or trust attorney handling the estate.
         </li>
         <li>
-          <strong>Contract purchasers:</strong> Someone who is in the process of buying a home
-          under a purchase agreement has an insurable interest, but its value depends on the terms
-          of the contract.
+          <strong>Contract purchasers.</strong> Someone in the process of buying a home under a
+          purchase agreement typically has an insurable interest; its valuation depends on the
+          contract terms. The real estate and insurance professionals on the transaction
+          generally address this at closing.
         </li>
         <li>
-          <strong>Landlord-tenant situations:</strong> A tenant who has made substantial
-          improvements to a property has an insurable interest in those improvements, but not in
-          the building itself.
+          <strong>Landlord-tenant improvements.</strong> A tenant who has made substantial
+          improvements to a leased property generally has an insurable interest in those
+          improvements distinct from the building itself. The lease terms drive the analysis.
         </li>
         <li>
-          <strong>Business partnerships:</strong> When business property is held by a partnership
-          or LLC, each partner&rsquo;s insurable interest is limited to their ownership share
-          unless the entity itself is the named insured.
+          <strong>Business property held by partnerships or LLCs.</strong> The named insured
+          structure on the policy interacts with the entity ownership structure in ways that
+          should be reviewed by the entity&apos;s counsel and broker together.
         </li>
       </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Each of these is shorthand. The insurable-interest analysis in any specific scenario
+        depends on the facts and on the legal documents that created the ownership structure;
+        these are conversations to have with an insurance coverage attorney or, where the
+        ownership structure itself is the issue, with the attorney who drafted it.
+      </p>
 
       <h2 id="protect-yourself" className="text-2xl font-bold text-[#1F3964] mb-4">
         How to Protect Yourself

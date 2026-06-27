@@ -202,25 +202,29 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>If the proximate cause is lightning,</strong> the property policy should respond
-          first. Lightning is a covered peril, and the resulting equipment damage is a direct
-          consequence of that covered peril. Do not let the insurer redirect you to the equipment
-          breakdown coverage if lightning caused the failure.
+          <strong>If the proximate cause is lightning,</strong> the property policy generally
+          responds first. Lightning is a natural peril covered under the standard property form,
+          and the resulting equipment damage is typically treated as a direct consequence of
+          that covered peril. Many policyholders tender first under the property policy when
+          lightning is the cause; redirection to equipment breakdown coverage is something to
+          surface in writing if it occurs.
         </li>
         <li>
           <strong>If the property policy contains an &ldquo;artificially generated electrical
-          current&rdquo; exclusion,</strong> the insurer may argue that the lightning-induced
-          surge is excluded under the property form. This is where the equipment breakdown
-          coverage becomes the backup &mdash; it explicitly covers artificially generated
-          current, including lightning-induced surges. Either way, you should be covered under
-          one policy or the other.
+          current&rdquo; exclusion,</strong> the carrier may argue that any non-natural electrical
+          disturbance &mdash; a utility surge, internal arcing, an inverter or transformer
+          failure &mdash; is excluded under the property form. This is where equipment breakdown
+          coverage typically becomes the relevant policy: it explicitly covers artificially
+          generated electrical current. Note the distinction &mdash; lightning is natural, not
+          artificially generated, so it usually stays under the property form even where an
+          artificially-generated-current exclusion exists.
         </li>
         <li>
           <strong>If both coverages could apply,</strong> the &ldquo;other insurance&rdquo;
-          provisions in each policy determine which pays first. In most cases, when equipment
-          breakdown is endorsed onto the property policy, the carrier handles the allocation
+          provisions in each policy determine which pays first. When equipment breakdown is
+          endorsed onto the property policy, the carrier typically handles the allocation
           internally. When they are separate policies from different carriers, coordination
-          can become more complicated.
+          tends to be more complicated.
         </li>
       </ul>
 
@@ -628,12 +632,15 @@ export default function Content() {
           sudden and accidental.
         </li>
         <li>
-          <strong>Blaming lack of maintenance.</strong> The insurer argues that the failure was
-          caused by the policyholder&apos;s failure to maintain the equipment. This is a
-          coverage defense, not an automatic denial. In most jurisdictions, the insurer must
-          prove that the specific failure was directly caused by the lack of maintenance, not
-          merely that maintenance was overdue. Maintain your equipment and keep records, but
-          also know that a general maintenance deficiency does not automatically void coverage.
+          <strong>Blaming lack of maintenance.</strong> The carrier argues that the failure
+          was caused by the policyholder&apos;s failure to maintain the equipment. This is a
+          coverage defense, not an automatic denial. California treats it as an exclusion, so
+          the carrier generally bears the burden of proving the exclusion&apos;s applicability
+          (see <em>Aydin Corp. v. First State Insurance Co.</em> (1998) 18 Cal.4th 1183).
+          Maintenance records that show the equipment was reasonably maintained tend to put
+          pressure on a maintenance-denial argument. A general maintenance deficiency does
+          not, by itself, void coverage where the specific failure was a sudden, accidental
+          event &mdash; the carrier has to tie the maintenance deficiency to the failure.
         </li>
         <li>
           <strong>Classifying consequential damage as uncovered.</strong> The insurer pays
@@ -649,12 +656,13 @@ export default function Content() {
           required.
         </li>
         <li>
-          <strong>Applying depreciation to equipment.</strong> The insurer depreciates the value
-          of the failed equipment, paying only actual cash value for a 15-year-old boiler
-          instead of the cost of a new one. Check your policy &mdash; many equipment breakdown
-          policies provide replacement cost coverage. If your policy is replacement cost, the
-          insurer must pay the full cost to replace the equipment with similar quality, without
-          depreciation.
+          <strong>Applying depreciation to equipment.</strong> The carrier depreciates the
+          value of the failed equipment, paying only actual cash value for a 15-year-old
+          boiler instead of the cost of a new one. The policy language controls; many
+          equipment breakdown policies are written on a replacement-cost basis. Where the
+          policy is RC, the carrier&apos;s obligation runs to the cost to replace with
+          equipment of similar kind and quality (subject to the policy limit), with
+          depreciation released on completion of replacement.
         </li>
       </ul>
 

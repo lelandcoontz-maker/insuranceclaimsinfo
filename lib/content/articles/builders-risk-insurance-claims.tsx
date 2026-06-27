@@ -420,12 +420,10 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Peckar &amp; Abramson, P.C.</strong> &mdash; A national construction law
-          firm that has published analyses of builder&rsquo;s risk policy provisions,
-          including the faulty workmanship exclusion, soft costs coverage, and delay in
-          completion disputes. As the firm has noted, &ldquo;the builder&rsquo;s risk policy
-          is often the most important insurance document on a construction project, yet it
-          is frequently the least understood.&rdquo; Search for their construction insurance
-          publications.
+          firm with published analyses of builder&apos;s risk policy provisions, including
+          the faulty workmanship exclusion, soft costs coverage, and delay in completion
+          disputes. Their construction insurance publications are available through their
+          firm website.
         </li>
         <li>
           <strong>Pillsbury Winthrop Shaw Pittman LLP</strong> &mdash; A firm with a

@@ -36,16 +36,27 @@ export default function Content() {
         Why Documentation Matters More Than You Think
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code Section 790.03(h), insurers must conduct a reasonable
-        investigation before denying or underpaying a claim. But &ldquo;reasonable&rdquo; often means
-        they look for reasons to pay less. Your documentation takes that option away. When you hand
-        the adjuster 200 time-stamped photos and a narrated walkthrough video, they cannot claim the
-        damage was pre-existing or less severe than you reported.
+        The California claims-investigation duty lives in 10 CCR &sect; 2695.7(d):
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        Every insurer shall conduct and diligently pursue a thorough, fair and objective
+        investigation and shall not persist in seeking information not reasonably required for
+        or material to the resolution of a claim dispute.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The umbrella unfair-claims-practices statute is Cal. Ins. Code &sect; 790.03(h),
+        particularly (h)(3) (failing to adopt and implement reasonable standards for prompt
+        investigation) and (h)(5) (failing to attempt in good faith to effectuate prompt, fair,
+        and equitable settlements). Thorough documentation tends to make the
+        &ldquo;thorough, fair and objective&rdquo; standard easier for the carrier to meet on
+        the front end and harder to fail later. When an insured hands the adjuster 200
+        time-stamped photos and a narrated walkthrough video, it becomes difficult for the
+        carrier to argue the damage was pre-existing or less severe than reported.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The adjuster who inspects your property may spend 30 minutes to two hours on site. They will
-        miss things. Your documentation fills the gaps they leave behind, whether intentionally or
-        through haste.
+        The adjuster who inspects the property may spend 30 minutes to two hours on site.
+        Things get missed. The insured&apos;s own documentation tends to fill the gaps left
+        behind, whether the gap was intentional or simply the product of a rushed inspection.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -177,11 +188,13 @@ export default function Content() {
         coverage or as part of your emergency repair obligations.
       </p>
 
-      <CalloutBox variant="warning" title="Do Not Discard Damaged Items">
+      <CalloutBox variant="warning" title="Items Discarded Before Inspection Are a Defense Point">
         <p>
-          Under California law, the insurer has a right to inspect damaged property. If you throw
-          things away before they inspect, they may use that against you. Photograph everything
-          first, then keep items in a safe place until the adjuster confirms they have been
+          Most California homeowner policies (and the &sect; 2071 standard fire policy
+          conditions) give the insurer a right to inspect damaged property. Items discarded
+          before inspection often become a defense point for the carrier. The typical practice
+          is to photograph everything first and hold items in a safe place until the adjuster
+          confirms they have been
           documented. If something is a health hazard (mold, sewage-soaked materials), photograph
           extensively and note the reason for disposal.
         </p>
@@ -248,9 +261,11 @@ export default function Content() {
         narration. Photograph soot patterns on walls and ceilings.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Wind and hail:</strong> Get on the roof if safe (or hire someone with a drone).
-        Ground-level photos do not capture roof damage. Document fallen debris where it landed.
-        Photograph neighbor damage for context of the storm&rsquo;s severity.
+        <strong>Wind and hail:</strong> Ground-level photos rarely capture roof damage. Most
+        roof documentation gets done by a licensed roofer, a drone operator, or a public
+        adjuster &mdash; not by the homeowner climbing the roof, which carries its own safety
+        and liability concerns. Fallen debris is typically photographed where it landed, and
+        neighbor damage often provides useful context on the storm&rsquo;s severity.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Theft and vandalism:</strong> Do not touch or clean anything until police have
