@@ -32,15 +32,37 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        How Contents Claims Work
+        How Personal Property Claims Work
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Your homeowner&rsquo;s policy typically provides a separate coverage limit for personal
-        property, often set at a percentage of your dwelling coverage (commonly 50 to 75 percent).
-        After a covered loss, the insurer will evaluate each item of damaged or destroyed personal
-        property and determine a settlement amount based on your policy terms, whether that is actual
-        cash value or replacement cost value.
+        A homeowners policy typically provides a separate coverage limit for personal property,
+        often set at a percentage of the dwelling coverage. The standard HO-3 default is 50%;
+        some carriers default higher or allow the insured to elect more. After a covered loss,
+        the insurer evaluates each item of damaged or destroyed personal property and
+        determines a settlement amount based on policy terms &mdash; actual cash value or
+        replacement cost value &mdash; and any applicable sublimits.
       </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Coverage scope for personal property depends on the form. The HO-3 covers personal
+        property only against the specifically listed perils (named perils) &mdash; fire,
+        lightning, windstorm, hail, explosion, riot, aircraft, vehicles, smoke, vandalism,
+        theft, falling objects, weight of ice/snow/sleet, accidental discharge of water,
+        sudden and accidental tearing apart of a steam or water system, freezing of plumbing,
+        sudden and accidental damage from artificially generated electrical current, and
+        volcanic eruption. The HO-5 (comprehensive form) inverts that split and covers
+        personal property on an open-perils basis, broader than the HO-3.
+      </p>
+
+      <CalloutBox variant="info" title="Sublimits worth checking">
+        <p>
+          Certain categories of personal property carry sublimits &mdash; internal caps inside
+          the overall Personal Property limit. Common examples on standard HO forms: jewelry,
+          firearms, currency, business property on premises, fine art, silverware, electronics
+          used for business. Actual figures vary by form edition and carrier; the policy form
+          (not always the dec page) lists them. A scheduled personal property endorsement is
+          designed to close the gap on high-value items.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Cleaning, Total Loss, and Pack-Out
@@ -142,13 +164,55 @@ export default function Content() {
         as a five-year-old t-shirt.
       </p>
 
-      <CalloutBox variant="warning" title="Replacement Deadlines">
+      <CalloutBox variant="warning" title="California Replacement-Cost Recovery Window — Statutory Floor">
         <p>
-          Most policies give you a limited time, often 180 days to two years, to replace items and
-          collect the recoverable depreciation. Check your policy for the specific deadline and
-          request an extension in writing if you need more time.
+          California sets a statutory minimum window for collecting the depreciation holdback
+          on residential property claims. Under Cal. Ins. Code &sect; 2051.5(b)(1)(A), the
+          insurer cannot impose a time limit of less than 12 months from the first ACV payment
+          to complete repairs/replacement and recover the holdback. For losses related to a
+          state of emergency, &sect; 2051.5(b)(1)(B) extends that floor to 36 months. Under
+          &sect; 2051.5(b)(2), the insurer must grant additional six-month extensions for good
+          cause when the insured is acting in good faith but is delayed by circumstances
+          outside the insured&apos;s control (carrier delays, unavailable contractors,
+          hazardous access, disability, similar factors). A policy may grant longer windows;
+          it cannot grant shorter. The deadline runs from the first ACV payment, not from the
+          date of loss.
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        After a Declared Disaster &mdash; SB 495 Protections
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California Senate Bill 495 (Stats. 2025, ch. 542) added two distinct protections for
+        residential personal-property claims after a declared state of emergency. They live in
+        different statutes and do different things:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>The contents advance &mdash; Cal. Ins. Code &sect; 10103.7(b)(1).</strong>
+          On a total loss during a state-declared emergency, the insurer must offer an advance
+          payment of at least 60% of the personal property coverage limit, capped at $350,000,
+          without requiring an itemized claim. This replaces the prior 30% / $250,000 floor.
+        </li>
+        <li>
+          <strong>The 100-day proof-of-loss minimum &mdash; Cal. Ins. Code
+          &sect; 2051.5(b)(3)(A).</strong> For losses related to a state of emergency, the
+          insurer cannot require the insured to provide proof of loss less than 100 days
+          after the loss.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        These two provisions are independent. The 60% advance is not gated by the 100-day
+        rule, and the 100-day proof-of-loss minimum is not limited to total losses. SB
+        495&apos;s amendments took effect January 1, 2026; &sect; 10103.7(c) requires policy
+        forms to comply on and after July 1, 2026. Claims arising between 1/1/26 and 7/1/26
+        on policies not yet renewed under the new form may sit in a transition window. See the
+        full discussion in the{' '}
+        <Link href="/resources/sb495-contents-rule" className="text-[#1F3964] underline font-medium">
+          SB 495 contents rule article
+        </Link>.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Tips for Maximizing Your Contents Claim

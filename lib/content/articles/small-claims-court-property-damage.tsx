@@ -302,44 +302,71 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Filing the Case
+        Filing the Case &mdash; In General
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The process for filing a small claims case in California is straightforward:
+        California small claims cases are filed in California superior court (limited
+        jurisdiction). The procedural specifics &mdash; identifying the correct legal entity
+        to name as defendant, choosing the proper venue, completing Form SC-100, paying the
+        filing fee, and serving the defendant under the Code of Civil Procedure &mdash; are
+        covered in detail by each county&apos;s self-help center and at the California
+        Courts&apos; statewide small claims self-help portal at{' '}
+        <a
+          href="https://selfhelp.courts.ca.gov/small-claims"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[#2E74B5] underline"
+        >
+          selfhelp.courts.ca.gov/small-claims
+        </a>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        General points worth knowing before filing:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Identify the correct defendant.</strong> The defendant is the insurance
-          company, not the individual adjuster. Use the insurer&rsquo;s full legal name as it
-          appears on the policy or the California Department of Insurance website. Some large
-          insurers use separate legal entities for different lines of business &mdash; ensure
-          the entity named in the claim is the entity that issued the policy.
+          <strong>Naming the right entity.</strong> In a coverage dispute the defendant is
+          generally the insurer named on the declarations page. Many large insurers use
+          separate legal entities for different lines of business; the court&apos;s self-help
+          center or a brief attorney consultation can confirm the correct entity to name.
         </li>
         <li>
-          <strong>File at the correct courthouse.</strong> Small claims cases are generally
-          filed in the judicial district where the defendant resides or does business, or
-          where the contract was entered into or was to be performed. For insurance disputes,
-          the location where the insured property is situated or where the policy was issued
-          is typically appropriate.
+          <strong>Venue.</strong> California venue rules for small claims are codified in
+          CCP &sect; 116.370. The court&apos;s self-help center will identify the proper
+          courthouse for the dispute.
         </li>
         <li>
-          <strong>Complete the claim form.</strong> The form (SC-100) is available at any
-          California courthouse or online through the California Courts website. The form
-          asks for basic information: the parties, the amount claimed, and a brief description
-          of the claim.
+          <strong>Form SC-100.</strong> The plaintiff&apos;s claim form. Available at any
+          California courthouse or on the courts&apos; website.
         </li>
         <li>
-          <strong>Pay the filing fee.</strong> Filing fees are modest &mdash; typically $30
-          to $75 depending on the amount of the claim. Fee waivers are available for
-          individuals who cannot afford the fee.
+          <strong>Filing fees.</strong> Tiered under CCP &sect; 116.230 &mdash; typically $30,
+          $50, or $75 depending on the amount of the claim. Fee waivers are available for
+          filers who cannot afford the fee.
         </li>
         <li>
-          <strong>Serve the defendant.</strong> The insurer must be served with the claim.
-          Service can be accomplished by mail (the court clerk can handle this) or by personal
-          service through a process server. Service on a corporation must be made on an agent
-          for service of process, an officer, or a managing agent.
+          <strong>Service of process.</strong> Service rules for corporations are governed by
+          the Code of Civil Procedure (CCP &sect;&sect; 415&ndash;416.10). The court clerk
+          and the self-help center can walk filers through the available options (clerk-by-
+          mail, personal service, registered process server).
         </li>
       </ul>
+
+      <CalloutBox variant="warning" title="Watch the Statute of Limitations">
+        <p>
+          A breach-of-insurance-contract suit on a written policy in California is generally
+          subject to a four-year statute of limitations under CCP &sect; 337. <em>But</em>{' '}
+          most California homeowner policies contain a separate contractual{' '}
+          <strong>suit-limitation provision</strong> &mdash; often one year. Under Cal. Ins.
+          Code &sect; 2071 (the California Standard Form Fire Insurance Policy), the
+          one-year period is extended to 24 months for losses related to a declared state
+          of emergency under Gov. Code &sect; 8558. The policy&apos;s contractual provision
+          typically controls and is shorter than the four-year statutory floor. Filing late
+          forfeits the claim regardless of the merits. An insured uncertain about the
+          deadline on a specific policy should consult a licensed California attorney
+          before filing.
+        </p>
+      </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The Appeal Process
@@ -374,19 +401,14 @@ export default function Content() {
         Collecting on a Judgment
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Winning a judgment is not the same as collecting on it. However, collecting from an
-        insurance company is generally easier than collecting from an individual. Insurance
-        companies are regulated entities with substantial assets. If an insurer fails to pay
-        a small claims judgment within 30 days, the policyholder can:
-      </p>
-      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-        <li>File a complaint with the California Department of Insurance.</li>
-        <li>Request a writ of execution from the court to levy on the insurer&rsquo;s bank accounts.</li>
-        <li>Record an abstract of judgment, which creates a lien on any real property owned by the insurer in the county.</li>
-      </ul>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        In practice, most insurers pay small claims judgments promptly to avoid regulatory
-        complaints and the administrative burden of enforcement proceedings.
+        Winning a judgment is not the same as collecting on it, though collecting from a
+        regulated insurance carrier with substantial assets is typically more straightforward
+        than collecting from an individual. California provides several judgment-enforcement
+        mechanisms; the court&apos;s small claims advisor can describe what is available and
+        how to use it in a particular case. A CDI complaint may also be available where an
+        insurer fails to pay a small claims judgment within a reasonable time. Most carriers
+        pay small claims judgments promptly to avoid the regulatory and administrative
+        consequences of non-payment.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -428,18 +450,18 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="Demand Letter Before Filing">
+      <CalloutBox variant="tip" title="Pre-Filing Written Demand">
         <p>
-          Before filing a small claims case, send a written demand letter to the insurer&rsquo;s
-          claims department. Outline the dispute, attach supporting documentation, state the
-          amount demanded, and set a deadline (typically 30 days). Many disputes are resolved
-          at the demand letter stage, and the letter creates a record that demonstrates the
-          policyholder attempted to resolve the dispute before resorting to litigation. For
-          guidance on writing effective{' '}
-          <Link href="/resources/negotiation" className="text-[#2E74B5] underline">
-            negotiation
-          </Link>{' '}
-          and demand correspondence, see the related article.
+          A written demand to the carrier&apos;s claims department before filing is a normal
+          pre-litigation step in California civil practice. The court&apos;s self-help center
+          provides demand-letter templates, and many disputes are resolved at the demand
+          stage. A demand letter also creates a record of the insured&apos;s attempt to
+          resolve the dispute before resorting to litigation. For Leland&apos;s broader
+          guidance on the patterns effective written correspondence with carriers tends to
+          follow, see the article on{' '}
+          <Link href="/resources/writing-effective-insurance-letter" className="text-[#2E74B5] underline">
+            what effective letters to a carrier tend to look like
+          </Link>.
         </p>
       </CalloutBox>
 

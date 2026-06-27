@@ -37,36 +37,37 @@ export default function Content() {
         What It Covers
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        A standard homeowners policy covers four main things. The industry labels them
-        Coverage A through Coverage D:
+        A standard homeowners policy covers four main categories (HO-3 forms label these
+        Coverages A through D, for reader recognition):
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Coverage A — Dwelling.</strong> The structure of your home: walls, roof,
-          floors, built-in appliances, attached garage. If fire, wind, or a burst pipe
-          damages the building itself, this is the coverage that pays to repair or rebuild it.
+          <strong>Dwelling.</strong> The structure of the home: walls, roof, floors, built-in
+          appliances, attached garage. When fire, wind, or a burst pipe damages the building
+          itself, the Dwelling coverage pays to repair or rebuild.
         </li>
         <li>
-          <strong>Coverage B — Other Structures.</strong> Detached garages, fences, sheds,
-          retaining walls. Anything on your property that is not attached to the main house.
-          Usually set at 10% of your Coverage A limit.
+          <strong>Other Structures.</strong> Detached garages, fences, sheds, retaining walls.
+          Anything on the property that is not attached to the main house. The HO-3 default is
+          10% of the Dwelling limit; some California carrier forms default higher.
         </li>
         <li>
-          <strong>Coverage C — Personal Property.</strong> Your belongings: furniture,
-          clothing, electronics, dishes, tools. Everything you own that is not part of the
-          building itself. If it burns, is stolen, or is destroyed, this coverage pays to
-          replace it.
+          <strong>Personal Property.</strong> The insured&apos;s belongings: furniture,
+          clothing, electronics, dishes, tools. Everything owned that is not part of the
+          building itself.
         </li>
         <li>
-          <strong>Coverage D — Loss of Use.</strong> If your home is uninhabitable after a
-          covered loss, this pays your additional living expenses — hotel, meals, rental
-          housing — while repairs are completed. In California, this is often called ALE
-          (Additional Living Expenses).
+          <strong>Loss of Use.</strong> When the home is uninhabitable after a covered loss,
+          Loss of Use pays Additional Living Expenses (ALE) for owner-occupants or Fair Rental
+          Value (FRV) for landlords &mdash; hotel, meals, rental housing, storage, pet
+          boarding, and similar increased costs above what the insured normally spent.
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Most policies also include liability coverage (someone gets hurt on your property)
-        and medical payments to others. Those are important but separate from property
+        Most policies also include Personal Liability (defense and indemnity when someone is
+        injured on the property or the insured accidentally damages others&apos; property,
+        subject to limits and exclusions) and Medical Payments to Others (small medical bills
+        for guests regardless of fault). Those are important but separate from property
         claims, which is what this site focuses on.
       </p>
 
@@ -138,12 +139,12 @@ export default function Content() {
         how much to pay you. You receive a payment — or a denial letter.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        That sounds simple. In practice, the adjuster works for the insurance company. Their
-        job is to settle the claim for as little as possible while staying within the law.
-        That does not make them your enemy, but it means you cannot rely on them to find
-        every dollar you are owed. The policyholder who understands their own policy and
-        documents their own loss always does better than the one who waits passively for a
-        check.
+        That sounds simple. In practice, the adjuster works for the insurance company; the
+        adjuster&apos;s role is to investigate, evaluate, and pay the claim consistent with
+        the policy. That does not make the adjuster the insured&apos;s enemy, but it does
+        mean the insured cannot rely on the adjuster alone to identify every dollar the
+        policy is owed. Policyholders who understand their own policy and document their own
+        loss tend to recover more of what the policy contemplates.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a full walkthrough, see{' '}
@@ -167,7 +168,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><strong>HO-4</strong> — Renters insurance (personal property and liability, no dwelling).</li>
-        <li><strong>HO-5</strong> — Premium policy with open-perils coverage on both dwelling and contents.</li>
+        <li><strong>HO-5</strong> &mdash; Comprehensive policy with open-perils coverage on both dwelling AND personal property (broader than HO-3 on personal property).</li>
         <li><strong>HO-6</strong> — Condo policy (covers interior walls-in, personal property, and loss assessment).</li>
         <li><strong>HO-8</strong> — Older homes where replacement cost exceeds market value.</li>
       </ul>
@@ -177,6 +178,40 @@ export default function Content() {
           Types of Insurance Policies
         </Link>.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        California-Specific Context
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Several California-specific frameworks shape how a homeowners policy actually works in
+        practice in this state:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>California Residential Property Insurance Disclosure (Cal. Ins. Code
+          &sect;&sect; 10101&ndash;10103).</strong> At policy issuance and renewal, the
+          carrier must provide a residential property-coverage disclosure explaining replacement
+          cost, extended replacement cost, and guaranteed replacement cost framings.
+        </li>
+        <li>
+          <strong>Mandatory earthquake offer (Cal. Ins. Code &sect; 10089.7).</strong>
+          Residential carriers must offer earthquake coverage at issuance and renewal;
+          earthquake coverage in California is typically written through the California
+          Earthquake Authority (CEA, &sect; 10089 et seq.) or a private carrier.
+        </li>
+        <li>
+          <strong>California FAIR Plan (Cal. Ins. Code &sect; 10094.4 et seq.).</strong>
+          The insurer of last resort for properties unable to obtain admitted-market
+          coverage. Increasingly relevant in California&apos;s current non-renewal environment.
+        </li>
+        <li>
+          <strong>Proposition 103 / prior approval rating (Cal. Ins. Code
+          &sect; 1861.05).</strong> California requires CDI prior approval of homeowner rate
+          changes and prohibits rates that are excessive, inadequate, or unfairly
+          discriminatory. Credit-based homeowner insurance scoring is not permitted in CA rate
+          filings.
+        </li>
+      </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Key Terms You Will See
@@ -210,7 +245,7 @@ export default function Content() {
       <QABlock pairs={[
         {
           question: 'What does homeowners insurance actually cover?',
-          answer: 'A standard policy has four main coverages: Coverage A (the dwelling — walls, roof, floors, attached structures), Coverage B (detached structures like garages and fences, usually 10% of Coverage A), Coverage C (personal property — your belongings), and Coverage D (loss of use / Additional Living Expenses if your home is uninhabitable). Most policies also include liability and medical payments for guest injuries, separate from property claims.',
+          answer: 'A standard policy has four main coverages: Dwelling (walls, roof, floors, attached structures), Other Structures (detached garages and fences, typically 10% of the Dwelling limit), Personal Property (the insured\'s belongings), and Loss of Use (Additional Living Expenses or Fair Rental Value if the home is uninhabitable). Most policies also include Personal Liability and Medical Payments to Others for guest injuries, separate from property claims.',
         },
         {
           question: 'What does it NOT cover?',

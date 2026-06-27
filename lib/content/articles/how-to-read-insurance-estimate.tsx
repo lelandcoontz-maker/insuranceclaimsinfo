@@ -135,9 +135,12 @@ export default function Content() {
           estimates default to the cheapest finish.
         </li>
         <li>
-          <strong>General contractor overhead and profit:</strong> When three or more trades are
-          required, a general contractor is necessary to coordinate the work. Their standard markup
-          (typically 10% overhead + 10% profit) belongs in the estimate.
+          <strong>General contractor overhead and profit:</strong> When a job requires multiple
+          trades and would reasonably need a general contractor to coordinate the work, the
+          GC&apos;s typical markup (10% overhead + 10% profit) is generally claimable. The
+          industry rule of thumb often cited is that three or more trades makes a GC reasonably
+          necessary, though it is the underlying complexity-and-coordination question, not a
+          rigid trade-count, that drives the analysis under California practice.
         </li>
         <li>
           <strong>Permit costs:</strong> Many repairs require building permits. The permit fees and
@@ -159,22 +162,25 @@ export default function Content() {
         repair costs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Many insurance estimates exclude O&amp;P entirely or include it at a reduced rate. If your
-        repair requires multiple trades (roofer, plumber, electrician, drywall, painter), a general
-        contractor is needed to coordinate. O&amp;P belongs in your estimate. See our{' '}
+        Carrier estimates often exclude O&amp;P entirely or include it at a reduced rate. When
+        the repair reasonably requires multiple trades (roofer, plumber, electrician, drywall,
+        painter), a general contractor is generally needed to coordinate. O&amp;P typically
+        belongs in the estimate in that scenario. See the{' '}
         <Link href="/resources/overhead-and-profit" className="text-blue-700 underline hover:text-blue-900">
           overhead and profit guide
         </Link>{' '}
         for the full explanation of when and why it applies.
       </p>
 
-      <CalloutBox variant="warning" title="Do Not Accept O&amp;P Exclusion Without a Fight">
+      <CalloutBox variant="warning" title="O&amp;P Exclusion Worth Pushing Back On">
         <p>
-          If the insurer says O&amp;P &ldquo;does not apply&rdquo; or &ldquo;will be considered
-          later,&rdquo; ask them to cite the policy language that excludes it. There is no such
-          exclusion. O&amp;P is a legitimate cost of repair, and your policy pays for the cost to
-          restore your property. Insurers routinely exclude it to save money, not because it is
-          inapplicable.
+          When the carrier says O&amp;P &ldquo;does not apply&rdquo; or &ldquo;will be
+          considered later,&rdquo; an insured might consider asking the carrier to identify the
+          specific policy language it is relying on. Most California homeowner policy forms do
+          not contain an express O&amp;P exclusion, though some forms include &ldquo;necessarily
+          incurred&rdquo; or &ldquo;actually incurred&rdquo; conditions the carrier may
+          reference. O&amp;P is a legitimate cost of repair when GC coordination is required,
+          and the policy generally pays the cost to restore the property.
         </p>
       </CalloutBox>
 
@@ -191,10 +197,19 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>Are they depreciating labor?</strong> In California, labor cannot be depreciated.
-          The cost to install a new roof shingle is the same whether the shingle is 1 year old or
-          20 years old. Only materials should be depreciated. If you see labor depreciated, challenge
-          it.
+          <strong>Are they depreciating labor?</strong> In California, labor depreciation on
+          first-party residential property claims is prohibited by 10 CCR &sect; 2695.9(f)(1):
+          <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+            When a loss requires replacement of items and the replacement items do not match
+            in quality, color or size, the insurer shall replace as much of the item as to
+            conform to a reasonably uniform appearance.... [And:] When a loss requires
+            replacement of items and the resulting damage would otherwise be covered, the
+            insurer shall not depreciate the labor costs associated with that replacement.
+          </blockquote>
+          The cost to install a new roof shingle is the same whether the shingle is 1 year old
+          or 20 years old. Only materials may be depreciated. When labor appears as a
+          depreciated line on a California residential property claim, an insured might
+          consider raising &sect; 2695.9(f)(1) with the adjuster in writing.
         </li>
         <li>
           <strong>Are the useful life estimates reasonable?</strong> An insurer might claim a
@@ -254,7 +269,7 @@ export default function Content() {
         </li>
         <li>Suspiciously round numbers in the quantities</li>
         <li>No O&amp;P on a multi-trade repair</li>
-        <li>Labor depreciation (illegal in California)</li>
+        <li>Labor depreciation (prohibited by 10 CCR &sect; 2695.9(f)(1) on California residential property claims)</li>
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
