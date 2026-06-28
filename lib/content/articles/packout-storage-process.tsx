@@ -63,10 +63,17 @@ export default function Content() {
         and decline to have them performed. She can take the cash.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is perfectly legal and ethical. The insurance policy owes the insured for the cost
-        of restoring their property to pre-loss condition. If the insured chooses not to have the
-        work done, that is the insured&rsquo;s right. The policy obligation does not evaporate
-        because the insured declines to use a particular vendor.
+        This is generally permitted under the indemnity principle of most homeowners
+        policies: the policy owes the insured for the cost of restoring the property to
+        pre-loss condition, and where the insured chooses not to have particular work done,
+        the policy obligation does not evaporate. Two caveats worth understanding before
+        taking cash in lieu of services on a replacement-cost policy: (1) RCV policies
+        typically condition payment of the full replacement-cost amount on actual repair or
+        replacement being completed, so declining services and taking cash on an RCV policy
+        may leave the insured at ACV (replacement cost less depreciation) until and unless
+        the underlying repair work is done; and (2) carriers&apos; release language varies,
+        and an insured uncertain about whether a particular cash settlement releases other
+        coverage rights should consult an attorney before signing.
       </p>
 
       <CalloutBox variant="warning" title="Preferred Vendor Conflicts">

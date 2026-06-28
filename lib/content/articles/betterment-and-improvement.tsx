@@ -41,10 +41,15 @@ export default function Content() {
         the insurer may argue that the &ldquo;betterment&rdquo; portion is your responsibility.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, the indemnity principle is codified in <strong>Insurance Code
-        &sect; 2071</strong>, which establishes the standard fire policy and the obligation to
-        indemnify the insured for actual loss. The insurer must restore you to your pre-loss
-        condition &mdash; no worse, but also (at least in theory) no better.
+        California codifies the underlying indemnity measure in{' '}
+        <strong>Cal. Ins. Code &sect; 2051(b)</strong> &mdash; ACV is the cost to repair,
+        rebuild, or replace less a fair and reasonable deduction for physical depreciation
+        based on the condition of the property at the time of loss &mdash; with the
+        replacement-cost measure capped under <strong>&sect; 2051.5(a)(1)</strong> at the
+        actual cost or the policy limit, whichever is less. The standard fire policy
+        framework lives in <strong>Insurance Code &sect; 2071</strong>. The combined
+        effect: the carrier&apos;s obligation runs to restoration of pre-loss condition, no
+        worse and (at least in theory) no better.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -126,15 +131,20 @@ export default function Content() {
         superior product.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is also wrong. When current building codes require a different material or method,
-        that is not an optional upgrade &mdash; it is a legal mandate. You cannot legally install
-        the old material. The cost of complying with current codes is covered under your{' '}
+        This is also wrong as a betterment characterization. When current building codes
+        require a different material or method, the upgrade is a legal mandate, not an
+        optional improvement. The cost of complying with current codes is what an
         <Link href="/resources/code-upgrade-coverage" className="text-blue-700 underline hover:text-blue-900">
-          ordinance or law coverage
-        </Link>, not deducted as betterment. If you do not have ordinance or law coverage, the
-        base policy should still cover the cost of the code-compliant material because it is the
-        only material that can legally be installed &mdash; making it the &ldquo;like kind and
-        quality&rdquo; replacement.
+          {' '}ordinance or law coverage{' '}
+        </Link>
+        endorsement is designed for &mdash; not a betterment deduction. <em>Whether</em> the
+        base policy reaches code-required upgrades absent an ordinance-or-law endorsement
+        depends on the policy form. The &sect; 2071 standard fire policy and many homeowner
+        forms contain ordinance-or-law exclusions that limit base-policy coverage for the
+        code-driven portion of the repair. The dispute is best framed as &ldquo;this is an
+        ordinance-or-law issue, not a betterment issue&rdquo; &mdash; ordinance-or-law
+        coverage exists for exactly this scenario, and characterizing the code upgrade as
+        betterment evades that framework.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -190,19 +200,40 @@ export default function Content() {
         California&rsquo;s Regulatory Protection: 10 CCR &sect; 2695.9
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s Fair Claims Settlement Practices Regulations provide direct protection
-        against improper betterment deductions. <strong>10 CCR &sect; 2695.9(d)</strong> requires
-        that when a loss requires repair or replacement, the insurer must pay enough to restore the
-        property to no less than its pre-loss condition. And <strong>&sect; 2695.9(a)(2)</strong>{' '}
-        specifically addresses matching: when replaced items do not match in quality, color, or
-        size, the insurer must replace all items in the damaged area so as to conform to a
-        reasonably uniform appearance.
+        California&apos;s Fair Claims Settlement Practices Regulations provide direct
+        protection against improper betterment deductions. Three subsections of 10 CCR
+        &sect; 2695.9 do most of the work.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Together, these regulations effectively eliminate the insurer&rsquo;s ability to call
-        matching &ldquo;betterment.&rdquo; If the pre-loss condition was a uniform appearance and
-        the only way to achieve that is a broader replacement, the regulation requires the insurer
-        to pay for it.
+        First, <strong>10 CCR &sect; 2695.9(a)(2)</strong> addresses matching:
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        When a loss requires replacement of items and the replaced items do not match in
+        quality, color or size, the insurer shall replace all items in the damaged area so
+        as to conform to a reasonably uniform appearance.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Second, <strong>10 CCR &sect; 2695.9(f)(1)</strong> directly bars labor depreciation
+        and labor betterment on California property claims:
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        The expense of labor necessary to repair, rebuild or replace covered property is not
+        a component of physical depreciation and shall not be subject to depreciation or
+        betterment.
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        That second regulation is the single most important California betterment authority.
+        It says explicitly what carriers sometimes resist conceding: the labor portion of any
+        repair cannot be reduced for betterment, even where there is some legitimate
+        material-side betterment argument.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Third, the broader subsection (d) framework governs the carrier&apos;s written
+        estimate and the restoration obligation more generally. Read together, these
+        regulations leave little room for matching to be re-characterized as betterment.
+        When the pre-loss condition was a uniform appearance and the only way to achieve
+        that is a broader replacement, the regulations require the carrier to pay for it &mdash;
+        and the labor cost of that broader replacement cannot be reduced for betterment at all.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

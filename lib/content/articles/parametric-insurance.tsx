@@ -120,11 +120,14 @@ export default function Content() {
         The Growing Market
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The parametric insurance market has grown substantially and is projected to reach between
-        $12 billion and $19 billion globally, growing at a compound annual growth rate of
-        approximately 12 percent. While parametric products have existed for decades in commercial
-        and agricultural contexts (catastrophe bonds, weather derivatives, crop insurance), the
-        development of consumer-facing parametric products for homeowners is relatively new.
+        The parametric insurance market has grown substantially in recent years across
+        commercial and consumer segments. Market-size estimates vary by source and depend on
+        whether catastrophe bonds, weather derivatives, and commercial parametric products
+        are included; published industry estimates run into the billions globally with
+        meaningful annual growth. While parametric products have existed for decades in
+        commercial and agricultural contexts (catastrophe bonds, weather derivatives, crop
+        insurance), the development of consumer-facing parametric products for homeowners is
+        relatively new.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Several firms have entered the homeowner parametric market with targeted products:
@@ -284,10 +287,15 @@ export default function Content() {
           high.
         </li>
         <li>
-          <strong>How does it interact with existing coverage?</strong> Determine whether the
-          parametric payout would duplicate, supplement, or conflict with traditional policy
-          benefits. In most cases, parametric payouts are not subject to coordination-of-benefits
-          provisions and can be received in addition to traditional claims payments.
+          <strong>How does it interact with existing coverage?</strong> Whether a parametric
+          payout duplicates, supplements, or conflicts with traditional policy benefits
+          depends on the traditional policy&apos;s &ldquo;other insurance&rdquo; clause and
+          on how the parametric product is structured. Parametric payouts are typically
+          designed to pay regardless of traditional claim recovery, but the specific
+          interaction in any given claim depends on the policy language. A policyholder
+          considering layering parametric coverage on top of traditional coverage might
+          consider reviewing both policies&apos; coordination provisions with their broker
+          or counsel.
         </li>
         <li>
           <strong>Who is the insurer or guarantor?</strong> Verify that the company issuing the

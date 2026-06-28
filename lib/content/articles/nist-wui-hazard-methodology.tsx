@@ -31,9 +31,10 @@ export default function Content() {
         (IBHS) developed something better: a systematic, science-based methodology for measuring
         wildfire hazard at the structure, parcel, and community levels. Published as NIST
         Technical Note 2205 (2022), with earlier framework research in NIST Technical Note 1748
-        (2012), this work proves that wildfire damage is <strong>predictable and
-        measurable</strong> &mdash; and that the vague explanations insurers give for their
-        coverage decisions do not meet the scientific standard.
+        (2012), this work shows that WUI fire exposure and damage are <strong>structured
+        and analyzable</strong> using documented physical and exposure factors &mdash; a
+        level of analysis above the vague explanations that sometimes accompany coverage
+        decisions on wildfire claims.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -169,9 +170,9 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The fact that IBHS &mdash; an organization funded by the insurance industry itself &mdash;
-        co-developed this methodology makes it particularly difficult for insurers to dismiss.
-        Their own research arm helped create the scientific framework that many carriers ignore
-        when evaluating claims.
+        co-developed this methodology makes it harder for carriers to dismiss the framework
+        outright. The insurance industry&apos;s own research arm helped create the framework
+        that often goes unconsidered when evaluating wildfire claims.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -219,31 +220,32 @@ export default function Content() {
         About This Research
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The findings discussed in this article are based on:{' '}
+        The methodology discussed in this article is documented in{' '}
         <strong>
           &ldquo;WUI Structure/Parcel/Community Fire Hazard Mitigation
           Methodology&rdquo;
         </strong>{' '}
-        (NIST Technical Note 2205, 2022) by Alexander Maranghides, Eric D. Link, Shonali
-        Nazare, Steven Hawks, and Robert McDougald of NIST, Stephen L. Quarles of IBHS, and
-        Daniel J. Gorham of IBHS. The earlier framework was published as{' '}
+        (NIST Technical Note 2205, 2022), authored by Alexander Maranghides, Eric D. Link,
+        and Shonali Nazare of <strong>NIST</strong>; Steven Hawks and Jim McDougald of the
+        California Department of Forestry and Fire Protection (<strong>CAL FIRE</strong>);
+        and Stephen L. Quarles and Daniel J. Gorham of the Insurance Institute for Business
+        &amp; Home Safety (<strong>IBHS</strong>). A separate, earlier NIST publication
+        introduced the related concept of a WUI Hazard Scale:{' '}
         <strong>
           &ldquo;Framework for Addressing the National Wildland Urban Interface Fire
-          Problem&rdquo;
+          Problem &mdash; Determining Fire and Ember Exposure Zones using a WUI Hazard
+          Scale&rdquo;
         </strong>{' '}
-        (NIST Technical Note 1748, 2012).
+        (NIST Technical Note 1748, 2012), authored by Alexander Maranghides of NIST and
+        William Mell of the U.S. Forest Service. TN 2205 and TN 1748 are distinct NIST
+        publications with different authorship and different scopes; this article&apos;s
+        analysis is anchored in TN 2205.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This research represents a collaboration between federal scientists, state fire
-        officials, and insurance-industry researchers. It is the most comprehensive,
-        science-based framework available for assessing wildfire hazard to buildings &mdash;
-        and it is freely available to the public.
-      </p>
-      <hr className="my-8 border-gray-300" />
-      <p className="text-sm text-gray-500 italic">
-        This article is for informational purposes only and does not constitute legal advice. Insurance
-        policies and applicable law vary by state and by policy form. Consult with a licensed
-        professional regarding your specific situation.
+        This research represents a collaboration among federal scientists, state fire
+        officials, and insurance-industry researchers. It is among the most comprehensive,
+        publicly available technical methodologies for assessing WUI fire hazard to buildings
+        and is published openly by NIST.
       </p>
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">

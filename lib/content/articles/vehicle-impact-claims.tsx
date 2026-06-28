@@ -41,11 +41,15 @@ export default function Content() {
         Vehicle Impact as a Covered Peril
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under the standard HO-3 homeowner policy &mdash; an &ldquo;open perils&rdquo; policy on
-        the dwelling &mdash; vehicle impact is a covered cause of loss. The HO-3 covers all
-        risks of direct physical loss to the dwelling unless specifically excluded, and vehicle
-        impact is not an excluded peril. It is also specifically listed as a named peril under the
-        HO-3&rsquo;s Coverage C (personal property), which uses a named-perils basis.
+        Under the standard HO-3 homeowner policy &mdash; an &ldquo;open perils&rdquo; policy
+        on the Dwelling and Other Structures coverages &mdash; vehicle impact is a covered
+        cause of loss. The HO-3 covers all risks of direct physical loss to the Dwelling and
+        Other Structures unless specifically excluded, and vehicle impact is not an excluded
+        peril. Other Structures coverage is the right place to look for damage to detached
+        garages, fences, mailboxes, gates, walls, and similar non-attached structures
+        struck by a vehicle. Vehicle impact is also specifically listed as a named peril on
+        the HO-3&apos;s Personal Property coverage, which is written on a named-perils basis
+        (the HO-5 covers personal property on an open-perils basis instead).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Commercial property policies &mdash; whether written on ISO&rsquo;s CP 10 30 (Causes of
@@ -99,20 +103,41 @@ export default function Content() {
         Third-Party Claim (The Driver&rsquo;s Insurance)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        You can file a claim directly against the at-fault driver&rsquo;s auto liability policy.
-        The advantage is that there is no deductible, no impact on your own loss history, and the
-        driver&rsquo;s carrier pays for the damage their insured caused. The disadvantage is that
-        you are a third-party claimant &mdash; you have no contractual relationship with that
-        carrier, no regulatory protections under the Fair Claims Regulations (which apply to
-        first-party claims), and the carrier owes its duties to its own insured, not to you.
+        An insured can file a claim directly against the at-fault driver&apos;s auto
+        liability policy. The advantage is that there is no deductible, no impact on the
+        insured&apos;s own loss history, and the driver&apos;s carrier pays for the damage
+        their insured caused. The disadvantage is that the insured is a third-party
+        claimant &mdash; no contractual relationship with the carrier, and the carrier owes
+        its primary duties to its own insured. California&apos;s Fair Claims Settlement
+        Practices Regulations themselves do reach third-party adjusting (10 CCR &sect; 2695.1
+        defines &ldquo;claimant&rdquo; to include third-party claimants), but third-party
+        claimants do not have a private right of action under Cal. Ins. Code &sect; 790.03(h)
+        to enforce them: <em>Moradi-Shalal v. Fireman&apos;s Fund Insurance Cos.</em> (1988)
+        46 Cal.3d 287 forecloses that private remedy. The third-party claimant&apos;s
+        leverage is through CDI complaints and through the liability claim itself, not
+        through a private bad-faith suit against the at-fault driver&apos;s carrier.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Third-party claims also face practical obstacles. The driver may be uninsured. The
-        driver&rsquo;s policy limits may be insufficient to cover the full damage. The liability
-        carrier may dispute the scope of damage or argue that some of the damage was pre-existing.
-        And the process can take significantly longer than a first-party claim because the
-        liability carrier has less urgency to resolve the claim.
+        driver&apos;s policy limits may be insufficient to cover the full damage. The
+        liability carrier may dispute the scope of damage or argue that some of the damage
+        was pre-existing. And the process can take significantly longer than a first-party
+        claim because the liability carrier has less urgency to resolve the claim.
       </p>
+
+      <CalloutBox variant="info" title="Hit-and-Run and Uninsured Drivers — the Auto-Policy Angle">
+        <p>
+          When the at-fault driver is unidentified (hit-and-run) or uninsured, the
+          first-party homeowner claim is generally the realistic primary path. Worth
+          checking separately: the insured&apos;s own <strong>auto policy</strong> may
+          include Uninsured Motorist Property Damage coverage that responds to damage to
+          property the auto-policy insured owns (rules vary by carrier and by state, and
+          California&apos;s UMPD coverage is narrower than some other states&apos; UMPD).
+          The interaction between the homeowner policy and the auto policy in a hit-and-run
+          scenario is fact-specific; an insured who is unsure how the coverages line up
+          should ask the agent and broker, or consult counsel.
+        </p>
+      </CalloutBox>
 
       <CalloutBox variant="tip" title="Consider Filing Both">
         <p>
@@ -233,9 +258,10 @@ export default function Content() {
         itself.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        On residential claims, Coverage D (Loss of Use / Additional Living Expenses) covers the
-        reasonable cost to maintain your normal standard of living while the home is being
-        repaired. This includes temporary housing, restaurant meals (above your normal food
+        On residential claims, Loss of Use coverage (Additional Living Expenses for
+        owner-occupants; Fair Rental Value for landlords) covers the reasonable cost to
+        maintain the insured&apos;s normal standard of living while the home is being
+        repaired. This includes temporary housing, restaurant meals (above the normal food
         costs), storage, and other reasonable expenses. Carriers routinely underestimate the
         duration of loss of use on vehicle impact claims because they underestimate the scope
         of repairs &mdash; particularly when structural work is involved.

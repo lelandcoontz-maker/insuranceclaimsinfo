@@ -31,13 +31,12 @@ export default function Content() {
         even realizes something is wrong.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        What most homeowners do not realize is that their standard homeowners insurance
-        policy almost certainly does not cover these underground service lines. The standard
-        policy was not designed to cover them, and the insurance industry has been content
-        to let homeowners discover this gap only when they need help most. Service line
-        coverage &mdash; an endorsement that can be added to a homeowners policy &mdash;
-        fills this gap, and at a cost that is remarkably low relative to the potential
-        exposure.
+        What most homeowners do not realize is that the standard homeowners insurance
+        policy generally does not cover these underground service lines. The standard form
+        was not designed to reach them, and many homeowners discover the gap only at the
+        moment of loss. Service line coverage &mdash; an endorsement that can be added to a
+        homeowners policy &mdash; fills this gap, typically at a cost that is low relative
+        to the potential exposure.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
