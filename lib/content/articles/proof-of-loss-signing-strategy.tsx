@@ -42,7 +42,10 @@ export default function Content() {
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What a Proof of Loss Is</h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        A proof of loss is a formal, sworn statement submitted by the policyholder to the insurance company, attesting to the facts and circumstances of the loss and the amount of damages claimed. It is a standard feature of property insurance policies. The requirement to submit a proof of loss typically appears in the &quot;Conditions&quot; section of the policy, and the policy usually specifies a deadline&mdash;often 60 days after the carrier requests it, though the timeframe varies by policy and jurisdiction.
+        A proof of loss is a formal, sworn statement submitted by the policyholder to the insurer, attesting to the loss and the amount claimed. It is a standard condition of most property insurance policies, typically due within 60 days after the carrier provides a blank form (timeframe varies by policy and jurisdiction). For the basics &mdash; when it is required, the &sect; 2071 framework, and how to fill one out &mdash; see our{' '}
+        <Link href="/resources/proof-of-loss" className="text-[#2E74B5] hover:underline">
+          primer on the proof of loss
+        </Link>. This article goes further: it covers what an insured is really agreeing to when they sign one, and how to protect against the trap.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">

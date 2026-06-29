@@ -176,6 +176,29 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Going Deeper
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two companion articles cover the proof of loss from different angles:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <Link href="/resources/proof-of-loss-signing-strategy" className="text-[#2E74B5] hover:underline">
+            The Proof of Loss: What You Are Really Signing and How to Protect Yourself
+          </Link>{' '}
+          &mdash; when the carrier sends a pre-filled form: the trap, the partial proof of loss,
+          state-by-state variation, and the NFIP flood policy.
+        </li>
+        <li>
+          <Link href="/resources/strategic-proof-of-loss" className="text-[#2E74B5] hover:underline">
+            The Strategic Proof of Loss
+          </Link>{' '}
+          &mdash; voluntarily filing a proof of loss even when the carrier has not asked, to start
+          the contractual payment clock and strengthen a bad-faith record.
+        </li>
+      </ul>
+
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are unsure how to complete a proof of loss or what amounts to claim, a licensed
         Public Adjuster can prepare the document for you and ensure it accurately reflects the full
