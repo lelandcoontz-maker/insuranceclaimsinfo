@@ -53,8 +53,8 @@ export default function Content() {
         quickly &mdash; especially in a catastrophe deployment where thousands of claims are
         competing for attention. For a detailed breakdown of how each model works and what it
         means for your claim, see our guide on{' '}
-        <Link href="/resources/adjuster-compensation" className="text-blue-700 underline hover:text-blue-900">
-          how insurance adjusters get paid
+        <Link href="/resources/how-insurance-adjusters-are-paid" className="text-blue-700 underline hover:text-blue-900">
+          how insurance adjusters are trained, compensated, and measured
         </Link>
         .
       </p>

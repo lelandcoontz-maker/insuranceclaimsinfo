@@ -1659,14 +1659,6 @@ export const CATEGORIES: Category[] = [
         tagColor: 'bg-green-100 text-green-700',
       },
       {
-        icon: '💼',
-        title: 'How Insurance Adjusters Get Paid',
-        desc: 'Staff, independent, and public adjusters are paid differently — compensation models create different incentives on your claim.',
-        href: '/resources/adjuster-compensation',
-        tag: 'Process',
-        tagColor: 'bg-green-100 text-green-700',
-      },
-      {
         icon: '⏰',
         title: 'Advance Payments and Partial Payments',
         desc: 'Your right to money before the claim is resolved — what the law requires and how to demand timely payment.',

@@ -1,5 +1,5 @@
 # InsuranceClaimsInfo.com — Full Article Index
-# 519 articles on California property insurance claims
+# 518 articles on California property insurance claims
 # Author: Leland Coontz III, Licensed Public Adjuster (CA #2B53445)
 # Site: https://insuranceclaimsinfo.com
 # Generated: 2026-06-29
@@ -45,10 +45,6 @@ Summary: Families routinely add an adult child to their home deed as an estate p
 ## When Your Adjuster Changes Mid-Claim: Why It Happens and What You Can Do
 URL: https://insuranceclaimsinfo.com/resources/adjuster-changes-mid-claim
 Summary: Adjuster reassignment mid-claim causes delays, lost context, and shifting coverage positions. Learn why carriers rotate adjusters, how it affects your claim, and what rights you have under California law.
-
-## How Insurance Adjusters Get Paid: Compensation Models and Why They Matter for Your Claim
-URL: https://insuranceclaimsinfo.com/resources/adjuster-compensation
-Summary: Staff adjusters, independent adjusters, and Public Adjusters are all paid differently — and those compensation models create different incentives on your claim. Learn how adjuster pay works and what it means for you.
 
 ## The Adjuster Caught in the Middle: Why Field Estimates Keep Getting Overridden
 URL: https://insuranceclaimsinfo.com/resources/adjuster-pressure-truth

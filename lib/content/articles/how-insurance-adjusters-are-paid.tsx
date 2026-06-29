@@ -795,6 +795,43 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        California-Specific: Disclosure Requirements
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California Insurance Code &sect; 15027 requires{' '}
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
+          Public Adjusters
+        </Link>{' '}
+        to enter into a written contract on a Commissioner-approved form before commencing
+        work. The contract must state the percentage or fee the Public Adjuster will charge,
+        and the policyholder must sign it. Section 15027.5 separately requires the PA to
+        disclose any third-party compensation received from a contractor, insurer, or vendor
+        in connection with the claim. These provisions are consumer protection measures
+        &mdash; the policyholder knows exactly how the Public Adjuster is being compensated
+        and can evaluate whether the incentives align with their own.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There is no equivalent California statute requiring a carrier-side adjuster &mdash;
+        whether staff or independent &mdash; to disclose how they are personally compensated.
+        The adjuster&rsquo;s pay structure is considered an internal business matter. This
+        asymmetry is itself telling: the law requires transparency from the adjuster who
+        works for the insured, but not from the adjuster who works for the company deciding
+        how much to pay the insured.
+      </p>
+
+      <CalloutBox variant="important" title="You Cannot Ask — But You Can Observe">
+        <p>
+          There is no requirement that a carrier-side adjuster disclose how they are
+          compensated, and a direct question will rarely produce a complete answer. But
+          behavior is observable. An adjuster who arrives, spends 20 minutes on a major loss,
+          takes a few photos, and leaves is behaving consistently with volume-based
+          compensation. An adjuster who spends hours documenting every room, opening every
+          cabinet, probing walls, and asking detailed questions is behaving consistently with
+          hourly or salaried compensation. Behavior is the signal.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Key Takeaways
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

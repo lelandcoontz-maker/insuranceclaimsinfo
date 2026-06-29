@@ -104,16 +104,6 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
-  "adjuster-compensation": {
-    "audience": [
-      "professional"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "reference",
-    "jurisdiction": "california"
-  },
   "adjuster-pressure-truth": {
     "audience": [
       "professional"

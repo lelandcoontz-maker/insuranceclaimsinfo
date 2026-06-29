@@ -39,10 +39,6 @@
     "published": "2026-05-03",
     "modified": "2026-06-14"
   },
-  "adjuster-compensation": {
-    "published": "2026-05-01",
-    "modified": "2026-06-11"
-  },
   "adjuster-pressure-truth": {
     "published": "2026-05-03",
     "modified": "2026-06-06"
@@ -125,7 +121,7 @@
   },
   "assignment-of-benefits": {
     "published": "2026-04-30",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "auto-repair-body-shop-insurance-claims": {
     "published": "2026-05-04",
@@ -241,7 +237,7 @@
   },
   "caci-jury-instructions-insurance": {
     "published": "2026-04-08",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "california-claim-deadlines": {
     "published": "2026-04-04",
@@ -257,7 +253,7 @@
   },
   "california-fair-claims": {
     "published": "2026-03-28",
-    "modified": "2026-06-11"
+    "modified": "2026-06-28"
   },
   "california-fair-plan": {
     "published": "2026-04-04",
@@ -297,7 +293,7 @@
   },
   "cause-and-origin-fire-investigations": {
     "published": "2026-05-04",
-    "modified": "2026-06-14"
+    "modified": "2026-06-28"
   },
   "cdi-36-month-ale": {
     "published": "2026-05-02",
@@ -385,7 +381,7 @@
   },
   "collapse-coverage": {
     "published": "2026-05-01",
-    "modified": "2026-06-08"
+    "modified": "2026-06-28"
   },
   "color-matching-material-aging": {
     "published": "2026-05-03",
@@ -641,7 +637,7 @@
   },
   "earth-movement-landslide": {
     "published": "2026-05-01",
-    "modified": "2026-06-19"
+    "modified": "2026-06-28"
   },
   "earthquake-insurance": {
     "published": "2026-04-30",
@@ -681,7 +677,7 @@
   },
   "engineering-reports-vs-coverage": {
     "published": "2026-04-08",
-    "modified": "2026-06-10"
+    "modified": "2026-06-28"
   },
   "ensuing-loss": {
     "published": "2026-04-30",
@@ -689,7 +685,7 @@
   },
   "environmental-sampling-methods": {
     "published": "2026-04-08",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "epa-mold-remediation-guide": {
     "published": "2026-04-30",
@@ -733,7 +729,7 @@
   },
   "expert-witnesses-insurance-litigation": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "extended-period-of-indemnity": {
     "published": "2026-05-04",
@@ -1013,7 +1009,7 @@
   },
   "insurance-claim-assignments": {
     "published": "2026-05-03",
-    "modified": "2026-06-14"
+    "modified": "2026-06-28"
   },
   "insurance-claim-glossary": {
     "published": "2026-05-16",
@@ -1341,7 +1337,7 @@
   },
   "parametric-insurance": {
     "published": "2026-05-03",
-    "modified": "2026-06-27"
+    "modified": "2026-06-28"
   },
   "peak-season-endorsement": {
     "published": "2026-05-03",
@@ -1413,7 +1409,7 @@
   },
   "pre-existing-vs-storm-damage": {
     "published": "2026-04-08",
-    "modified": "2026-06-27"
+    "modified": "2026-06-28"
   },
   "preferred-contractor-conflict-of-interest": {
     "published": "2026-05-03",
@@ -1433,11 +1429,11 @@
   },
   "proof-of-loss-signing-strategy": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "proof-of-loss": {
     "published": "2026-03-28",
-    "modified": "2026-06-10"
+    "modified": "2026-06-28"
   },
   "property-held-in-trust-coverage": {
     "published": "2026-05-04",
@@ -1473,7 +1469,7 @@
   },
   "reading-statement-of-loss": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "real-negotiation-case-studies": {
     "published": "2026-05-03",
@@ -1581,7 +1577,7 @@
   },
   "roofing-systems-claims": {
     "published": "2026-04-30",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "rural-agricultural-property-claims": {
     "published": "2026-05-03",
@@ -1725,7 +1721,7 @@
   },
   "statement-of-loss": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "stigmatized-properties-insurance": {
     "published": "2026-05-16",
@@ -1961,7 +1957,7 @@
   },
   "wear-and-tear-cause-of-loss": {
     "published": "2026-04-08",
-    "modified": "2026-06-27"
+    "modified": "2026-06-28"
   },
   "wear-and-tear-exclusion": {
     "published": "2026-05-04",
@@ -2025,7 +2021,7 @@
   },
   "xactimate-how-it-works": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "xactimate-labor-efficiency-settings": {
     "published": "2026-05-03",
@@ -2065,11 +2061,11 @@
   },
   "xactimate-user-manual": {
     "published": "2026-04-08",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "xactimate": {
     "published": "2026-03-28",
-    "modified": "2026-06-06"
+    "modified": "2026-06-28"
   },
   "your-rights-short-version": {
     "published": "2026-05-02",

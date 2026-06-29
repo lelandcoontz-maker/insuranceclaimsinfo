@@ -137,6 +137,14 @@ const nextConfig = {
       destination: '/resources/biased-insurance-experts',
       permanent: true,
     },
+    // 2026-06-29: adjuster-compensation consolidated into how-insurance-adjusters-are-paid
+    // (Tier 3 audit honorable-mention; how-paid was a superset covering training + pay
+    // + authority + metrics; unique CA § 15027/§ 15027.5 disclosure section folded in)
+    {
+      source: '/resources/adjuster-compensation',
+      destination: '/resources/how-insurance-adjusters-are-paid',
+      permanent: true,
+    },
     // 2026-06-27: Tier 2 cannibalization cleanup
     // Cluster 1 — Appraisal triple-merge
     {

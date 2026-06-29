@@ -110,7 +110,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Understanding why field estimates get reduced requires understanding the incentive
         structure within insurance companies. The{' '}
-        <Link href="/resources/adjuster-compensation" className="text-[#2E74B5] hover:underline">compensation and career dynamics</Link>{' '}
+        <Link href="/resources/how-insurance-adjusters-are-paid" className="text-[#2E74B5] hover:underline">compensation and career dynamics</Link>{' '}
         of adjusters create pressures that are rarely visible to policyholders but profoundly
         affect claim outcomes.
       </p>
