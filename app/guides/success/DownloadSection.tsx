@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import { useSearchParams } from 'next/navigation'
+import { trackEvent } from '@/lib/analytics'
 
 export function DownloadSection() {
   const searchParams = useSearchParams()
@@ -65,6 +66,7 @@ export function DownloadSection() {
       <a
         href={downloadUrl}
         download
+        onClick={() => trackEvent('pdf_download', { product_name: productName, source: 'stripe-success' })}
         className="inline-block bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold px-8 py-3 rounded-lg transition-colors"
       >
         Download Your Guide (PDF)
