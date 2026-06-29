@@ -635,8 +635,47 @@ export default function Content() {
         </Link>{' '}
         working on your claim, they can often refer you to an attorney experienced in EUO
         defense. Do not wait until the day before the EUO to seek representation &mdash; your
-        attorney needs time to review the file and prepare you properly.
+        attorney needs time to review the file and prepare you properly. For a detailed
+        treatment of <strong>limited-scope EUO representation</strong> &mdash; the typical
+        cost structure, how an attorney prepares you, what they can and cannot do in the
+        room, and the strategic move of producing evidence on the record &mdash; see{' '}
+        <Link href="/resources/hiring-attorney-for-euo" className="text-[#2E74B5] hover:underline">
+          Hiring an Attorney Just for Your EUO
+        </Link>.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Reading
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Three companion articles cover related territory:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <Link href="/resources/recorded-statement-preparation" className="text-[#2E74B5] hover:underline">
+            How to Prepare for a Recorded Statement or Examination Under Oath
+          </Link>{' '}
+          &mdash; a recorded statement is a less formal cousin of the EUO. This article
+          covers both, including statements from non-insured household members and when a
+          recorded statement escalates to an EUO.
+        </li>
+        <li>
+          <Link href="/resources/recorded-statements-siu" className="text-[#2E74B5] hover:underline">
+            Recorded Statements and SIU Investigations: What California Policyholders Need to Know
+          </Link>{' '}
+          &mdash; when the carrier&apos;s Special Investigation Unit gets involved, the
+          recorded-statement or EUO is part of a fraud investigation. This article covers
+          SIU triggers, what investigators look for, and timelines.
+        </li>
+        <li>
+          <Link href="/resources/hiring-attorney-for-euo" className="text-[#2E74B5] hover:underline">
+            Hiring an Attorney Just for Your EUO
+          </Link>{' '}
+          &mdash; the practical guide to limited-scope EUO representation: cost, prep, what
+          your attorney can and cannot do in the room, and how to find one in Southern
+          California.
+        </li>
+      </ul>
 
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
