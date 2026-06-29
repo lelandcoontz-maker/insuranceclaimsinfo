@@ -1167,8 +1167,8 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/your-rights-short-version" className="text-blue-700 underline hover:text-blue-900">
-            Your Rights as a California Policyholder: The Short Version
+          <Link href="/resources/policyholder-rights" className="text-blue-700 underline hover:text-blue-900">
+            Your Rights as a California Policyholder
           </Link>
         </li>
       </ul>

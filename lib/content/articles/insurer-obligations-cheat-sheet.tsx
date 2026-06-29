@@ -180,6 +180,23 @@ export default function Content() {
           regulations exist.
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Reading
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For the full policyholder rights guide &mdash; deadlines, payment rules,
+        prohibitions, the prejudice safety net, bad faith remedies, and what to do when
+        the insurer violates these rules &mdash; see{' '}
+        <Link href="/resources/policyholder-rights" className="text-[#2E74B5] hover:underline">
+          Your Rights as a California Policyholder
+        </Link>. For the affirmative-disclosure obligations the carrier must proactively
+        tell the insured (which most never do), see{' '}
+        <Link href="/resources/insurer-disclosure-obligations" className="text-[#2E74B5] hover:underline">
+          What Your Insurance Company Is Required to Tell You
+        </Link>.
+      </p>
+
       <p className="text-sm text-gray-500 mt-4 italic">
         Written by Leland Coontz III, Licensed Public Adjuster, CA License #2B53445.
       </p>

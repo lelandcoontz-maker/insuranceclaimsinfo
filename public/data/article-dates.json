@@ -937,7 +937,7 @@
   },
   "how-to-challenge-xactimate-estimate": {
     "published": "2026-05-03",
-    "modified": "2026-06-22"
+    "modified": "2026-06-29"
   },
   "how-to-document-damage": {
     "published": "2026-05-16",
@@ -949,7 +949,7 @@
   },
   "how-to-read-xactimate-estimate": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-29"
   },
   "how-to-read-your-policy": {
     "published": "2026-05-01",
@@ -1897,7 +1897,7 @@
   },
   "vacancy-unoccupancy": {
     "published": "2026-04-30",
-    "modified": "2026-06-13"
+    "modified": "2026-06-29"
   },
   "valuable-papers-records": {
     "published": "2026-05-02",
@@ -2029,7 +2029,7 @@
   },
   "xactimate-line-items": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-29"
   },
   "xactimate-not-the-law": {
     "published": "2026-05-03",
@@ -2062,9 +2062,5 @@
   "xactimate": {
     "published": "2026-03-28",
     "modified": "2026-06-28"
-  },
-  "your-rights-short-version": {
-    "published": "2026-05-02",
-    "modified": "2026-06-06"
   }
 }

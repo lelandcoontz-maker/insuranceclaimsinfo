@@ -153,6 +153,15 @@ const nextConfig = {
       destination: '/resources/how-to-read-xactimate-estimate',
       permanent: true,
     },
+    // 2026-06-29: your-rights-short-version consolidated into policyholder-rights
+    // (Tier 3; the 'Short Version' was actually longer than the destination article;
+    // unique sections — Prejudice Requirement, What-to-Do-When-Violated, Quick Reference —
+    // folded into the destination before deletion)
+    {
+      source: '/resources/your-rights-short-version',
+      destination: '/resources/policyholder-rights',
+      permanent: true,
+    },
     // 2026-06-27: Tier 2 cannibalization cleanup
     // Cluster 1 — Appraisal triple-merge
     {

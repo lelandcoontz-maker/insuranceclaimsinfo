@@ -1183,12 +1183,12 @@ export default function Content() {
         </li>
         <li>
           <Link href="/resources/policyholder-rights" className="text-blue-700 underline hover:text-blue-900">
-            Know Your Rights as a Policyholder
+            Your Rights as a California Policyholder
           </Link>
         </li>
         <li>
-          <Link href="/resources/your-rights-short-version" className="text-blue-700 underline hover:text-blue-900">
-            Your Rights: The Short Version
+          <Link href="/resources/insurer-obligations-cheat-sheet" className="text-blue-700 underline hover:text-blue-900">
+            What Your Insurance Company Is Required to Do &mdash; The Cheat Sheet
           </Link>
         </li>
         <li>

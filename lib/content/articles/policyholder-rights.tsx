@@ -226,6 +226,26 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Prejudice Requirement &mdash; Your Safety Net
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California law provides an important protection: the insurer generally cannot deny
+        a claim for a technical policy violation (late notice, late proof of loss, missed
+        deadline) unless they can prove the violation actually <strong>prejudiced</strong>
+        them &mdash; meaning it caused a real, material disadvantage in investigating or
+        paying the claim.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The burden of proving prejudice is on the <strong>insurer</strong>, not the
+        insured. If they cannot show actual harm from the non-compliance, they cannot use
+        it to deny the claim. See our detailed article on{' '}
+        <Link href="/resources/duties-after-loss" className="text-[#1F3964] underline font-medium">
+          duties after loss
+        </Link>{' '}
+        for more on how this works.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Your Right to Sue for Bad Faith
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -246,6 +266,96 @@ export default function Content() {
         think — and lower than insurance companies want you to believe. See{' '}
         <Link href="/resources/bad-faith" className="text-[#1F3964] underline font-medium">
           Bad Faith Insurance Practices
+        </Link>.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        What to Do When the Insurer Violates These Rules
+      </h2>
+      <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>Document every violation in writing.</strong> Send an email to the
+          adjuster: &ldquo;It has been [X] days since I submitted [documentation]. Under
+          10 CCR &sect; 2695.7(b), you were required to accept or deny my claim within 40
+          days. Please respond immediately.&rdquo;
+        </li>
+        <li>
+          <strong>Keep a timeline.</strong> Note every date the insured submits documents,
+          every date the insurer responds (or fails to respond), and every deadline they
+          miss. This becomes the evidence.
+        </li>
+        <li>
+          <strong>Cite the specific regulation.</strong> When calling out a violation, cite
+          the section number. This tells the adjuster the insured knows the rules and
+          creates a written record that is hard to explain away later.
+        </li>
+        <li>
+          <strong>File a CDI complaint.</strong> The California Department of Insurance
+          investigates complaints about Fair Claims violations. A CDI complaint does not
+          get the insured paid directly, but it creates regulatory pressure and a
+          government record of the violation. See our guide on{' '}
+          <Link href="/resources/cdi-complaint" className="text-[#1F3964] underline font-medium">
+            filing a CDI complaint
+          </Link>.
+        </li>
+        <li>
+          <strong>Get professional help.</strong> If violations are piling up and the
+          insurer is not responding, a{' '}
+          <Link href="/resources/public-adjuster" className="text-[#1F3964] underline font-medium">
+            Public Adjuster
+          </Link>{' '}
+          can take over negotiations, or an attorney can evaluate whether the pattern
+          rises to{' '}
+          <Link href="/resources/bad-faith" className="text-[#1F3964] underline font-medium">
+            bad faith
+          </Link>.
+        </li>
+      </ol>
+
+      <CalloutBox variant="warning" title="Violations Add Up">
+        <p>
+          A single missed deadline might be an oversight. A pattern of missed deadlines,
+          ignored communications, unexplained denials, and lowball offers is not an
+          oversight &mdash; it is a claims-handling strategy. Document everything. Each
+          violation is a separate regulatory infraction that strengthens the insured&apos;s
+          position if the dispute reaches appraisal, CDI complaint, or litigation.
+        </p>
+      </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Quick Reference: If Nothing Else, Remember These
+      </h2>
+      <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-5 mb-6">
+        <ul className="space-y-2 text-gray-700">
+          <li><strong>15 days</strong> &mdash; the insurer must acknowledge the claim and
+            respond to communications</li>
+          <li><strong>40 days</strong> &mdash; the insurer must accept or deny after
+            receiving proof of claim</li>
+          <li><strong>30 days</strong> &mdash; the insurer must pay undisputed amounts</li>
+          <li><strong>The insured chooses the contractor</strong> &mdash; not the carrier</li>
+          <li><strong>No labor depreciation</strong> &mdash; in California, labor does not
+            depreciate</li>
+          <li><strong>No release required for payment</strong> &mdash; the carrier cannot
+            hold money hostage to extract a release</li>
+          <li><strong>Everything in writing</strong> &mdash; denials, limitations, and
+            delays must be documented</li>
+          <li><strong>Undisputed = pay now</strong> &mdash; the carrier cannot withhold
+            agreed amounts while fighting over disputed ones</li>
+        </ul>
+      </div>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Reading
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For a pocket-reference version of these deadlines and obligations with the exact
+        regulation citations, see{' '}
+        <Link href="/resources/insurer-obligations-cheat-sheet" className="text-[#1F3964] underline font-medium">
+          What Your Insurance Company Is Required to Do &mdash; The Cheat Sheet
+        </Link>. For the affirmative disclosure obligations the insurer must proactively
+        tell the insured (and routinely fails to), see{' '}
+        <Link href="/resources/insurer-disclosure-obligations" className="text-[#1F3964] underline font-medium">
+          What Your Insurance Company Is Required to Tell You
         </Link>.
       </p>
 

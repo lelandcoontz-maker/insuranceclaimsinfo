@@ -5363,15 +5363,5 @@
     ],
     "contentType": "reference",
     "jurisdiction": "california"
-  },
-  "your-rights-short-version": {
-    "audience": [
-      "mid-claim"
-    ],
-    "claimType": [
-      "general"
-    ],
-    "contentType": "legal-analysis",
-    "jurisdiction": "california"
   }
 }

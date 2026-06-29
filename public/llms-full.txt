@@ -1,5 +1,5 @@
 # InsuranceClaimsInfo.com — Full Article Index
-# 517 articles on California property insurance claims
+# 516 articles on California property insurance claims
 # Author: Leland Coontz III, Licensed Public Adjuster (CA #2B53445)
 # Site: https://insuranceclaimsinfo.com
 # Generated: 2026-06-29
@@ -2069,7 +2069,3 @@ Summary: A guide to Xactimate training and certification — what the certificat
 ## The Xactimate User Manual: What It Is, Why It Matters, and How to Use It
 URL: https://insuranceclaimsinfo.com/resources/xactimate-user-manual
 Summary: A practitioner's guide to Xactimate — the industry-standard estimating software. Pricing database, line items, overhead and profit, depreciation, certification levels, and practical tips.
-
-## Your Rights as a California Policyholder: The Short Version
-URL: https://insuranceclaimsinfo.com/resources/your-rights-short-version
-Summary: A plain-English summary of your most important rights under the California Fair Claims Settlement Practices Regulations — deadlines, payment rules, and what the insurer cannot do.
