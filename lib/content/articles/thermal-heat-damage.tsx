@@ -61,8 +61,9 @@ export default function Content() {
           become brittle.
         </li>
         <li>
-          <strong>Stucco:</strong> May develop hairline cracks from thermal stress. The wire lath
-          behind the stucco can lose temper (structural strength) from heat exposure.
+          <strong>Stucco:</strong> May develop hairline cracks from thermal stress. The
+          galvanized wire lath behind the stucco can lose its protective zinc coating and
+          tensile strength from heat exposure (zinc volatilizes above approximately 787&deg;F).
         </li>
         <li>
           <strong>Wood siding:</strong> Charring, discoloration, or checking (small surface cracks)
@@ -180,17 +181,21 @@ export default function Content() {
       </h2>
       <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Hire a structural engineer.</strong> A licensed structural engineer can perform a
-          thermal damage assessment. They will examine the fire-facing elevations, identify
-          materials that were exposed to heat, and determine what testing is needed. Structural
-          engineering inspections typically run approximately $100 per hour, and a detailed report
-          may cost several thousand dollars — but it is the foundation of your claim.
+          <strong>Consider hiring a structural engineer.</strong> A licensed structural
+          engineer can perform a thermal damage assessment, examining the fire-facing
+          elevations, identifying materials exposed to heat, and determining what testing is
+          needed. California structural engineering rates typically run $150&ndash;$300 per
+          hour, and a detailed report may cost several thousand dollars &mdash; but it is
+          often the foundation of a thermal-damage claim.
         </li>
         <li>
-          <strong>Use comparative evidence.</strong> If composite decking on the fire-facing side
-          of the house melted (melting point approximately 170&ndash;200&deg;F), that is evidence
-          that vinyl window components on the same elevation (similar melting point) were also
-          exposed to damaging temperatures. One visible form of damage supports the inference of
+          <strong>Use comparative evidence.</strong> If composite decking on the fire-facing
+          side of the house deformed or softened (composite materials typically deform in the
+          170&ndash;200&deg;F range), that is evidence that vinyl window components on the
+          same elevation (similar softening range) were also exposed to damaging temperatures.
+          The inference is elevation-specific and depends on actual exposure geometry
+          (orientation, shielding, wind, distance to the flame front). One visible form of
+          damage supports the inference of
           hidden damage to materials with similar or lower heat tolerances on the same elevation.
         </li>
         <li>
@@ -214,12 +219,15 @@ export default function Content() {
         </li>
       </ol>
 
-      <CalloutBox variant="tip" title="Your Claim Is Not Closed Just Because You Accepted Initial Payment">
+      <CalloutBox variant="tip" title="An Initial Payment Doesn&apos;t Necessarily Close the Claim">
         <p>
-          If the insurer paid for exterior cleaning and you later discover hidden heat damage,
-          you can file a supplemental claim. Accepting an initial payment does not waive your
-          right to claim additional damage that is discovered later. Document it, report it, and
-          demand it be added to the scope.
+          If the carrier paid for exterior cleaning and the insured later discovers hidden
+          heat damage, a supplemental claim is the standard mechanism. Accepting an initial
+          payment does not, by itself, waive the right to claim additional damage discovered
+          later &mdash; though any release language attached to the payment should be reviewed
+          carefully before signing, since release language (not the payment itself) is what
+          triggers waiver. Document the newly discovered damage, report it in writing, and
+          ask that it be added to the claim scope.
         </p>
       </CalloutBox>
 

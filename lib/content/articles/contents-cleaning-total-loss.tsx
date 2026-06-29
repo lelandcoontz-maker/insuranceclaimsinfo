@@ -115,11 +115,11 @@ export default function Content() {
         surface soot, but embedded particulate and odor often remain.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The &ldquo;smell test&rdquo; is real and widely accepted in the industry: if a
-        professionally cleaned item still smells like smoke, it has not been restored to pre-loss
-        condition and should be replaced. Odor is evidence of residual contamination. You did not
-        live in a home that smelled like smoke before the fire, and you are entitled to contents
-        that do not smell like smoke after the claim is settled.
+        The &ldquo;smell test&rdquo; is widely used in the field: if a professionally cleaned
+        item still smells like smoke, it has not been restored to pre-loss condition and is
+        a candidate for replacement. Odor is evidence of residual contamination. The
+        industry-standard expectation is that contents returned post-cleaning should not
+        carry the smoke odor the loss introduced.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -193,11 +193,12 @@ export default function Content() {
         (PEL) of just 50 &mu;g/m&sup3; as an 8-hour time-weighted average.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Like asbestos, crystalline silica particles are microscopic and embed in porous materials.
-        Upholstered furniture, mattresses, clothing, bedding, and carpet contaminated with silica
-        dust cannot be adequately cleaned to a safe level. When repair contractors generate silica
-        dust inside a home without proper containment, any personal property exposed to that dust
-        becomes a contamination claim issue.
+        Like asbestos, crystalline silica particles are microscopic and can embed in porous
+        materials. Upholstered furniture, mattresses, clothing, bedding, and carpet
+        contaminated with silica dust may not be cleanable to a level industrial hygienists
+        will certify as safe, particularly for sensitive uses. When repair contractors
+        generate silica dust inside a home without proper containment, any personal property
+        exposed to that dust becomes a contamination claim issue.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If your home was occupied or your contents were present during construction activities that
@@ -319,11 +320,12 @@ export default function Content() {
         Children&rsquo;s Car Seats
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Car seat manufacturers universally recommend replacement after any involvement in a loss
-        event&mdash;fire, flood, smoke exposure, or structural compromise. The internal energy
-        absorption materials can be degraded by heat or contamination in ways that are not visible
-        externally but may affect the seat&rsquo;s performance in a crash. These are always total
-        loss.
+        Most major car seat manufacturers recommend replacement after fire, flood, or
+        significant smoke exposure. NHTSA recommends replacement after a moderate or severe
+        crash. The internal energy-absorption materials can be degraded by heat or
+        contamination in ways that are not visible externally but may affect the seat&apos;s
+        performance in a future crash. In practice, contaminated car seats are typically
+        treated as total loss.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -427,9 +429,11 @@ export default function Content() {
           and replacement cost.
         </li>
         <li>
-          <strong>Get a second opinion on cleaning recommendations.</strong> If the carrier&rsquo;s
-          vendor says an item can be cleaned, you are entitled to have your own restoration
-          professional evaluate it.
+          <strong>Get a second opinion on cleaning recommendations.</strong> When the
+          carrier&apos;s vendor says an item can be cleaned, an insured may engage an
+          independent restoration professional to evaluate it. The policyholder&apos;s right
+          to choose vendors is grounded in Cal. Ins. Code &sect; 758.5 in the auto-body
+          context and in 10 CCR &sect;&sect; 2695.9(b)/(c) in the broader claims context.
         </li>
         <li>
           <strong>Apply the smell test after professional cleaning.</strong> If items are returned

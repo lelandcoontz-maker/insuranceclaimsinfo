@@ -95,10 +95,15 @@ export default function Content() {
           so there is less dispute at claim time</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Unscheduled personal property is everything else, all of the items covered under your general
-        contents limit and subject to the standard sublimits. For most household items, the general
-        coverage is adequate. But for anything of significant value, scheduling is the way to ensure
-        full protection.
+        Unscheduled personal property is everything else &mdash; the items covered under the
+        general Personal Property limit and subject to the standard sublimits. For most
+        household items, the general coverage is adequate. The HO form on the declarations
+        page matters here: HO-3 personal property is written on a named-perils basis (covered
+        only for the specifically listed perils), while HO-5 personal property is written on
+        an open-perils basis. Specialty items that don&apos;t fit one of the HO-3&apos;s
+        listed perils may have no coverage on HO-3 absent scheduling. For anything of
+        significant value, scheduling is the way to ensure full protection regardless of
+        form.
       </p>
 
       <CalloutBox variant="tip" title="Schedule Before the Loss">

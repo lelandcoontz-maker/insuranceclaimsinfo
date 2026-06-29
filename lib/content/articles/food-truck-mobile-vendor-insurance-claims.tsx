@@ -58,9 +58,11 @@ export default function Content() {
         <li>
           <strong>Commercial auto insurance</strong> covers the vehicle itself
           &mdash; the truck, trailer, or van &mdash; for physical damage
-          (collision and comprehensive) and auto liability. This is required by
-          California law (California Vehicle Code &sect; 16500 et seq.) for any
-          vehicle operated on public roads.
+          (collision and comprehensive) and auto liability. California&apos;s
+          compulsory financial responsibility law (Vehicle Code &sect;&sect;
+          16000&ndash;16078) requires every owner/operator of a motor vehicle
+          operated on a California highway to maintain proof of financial
+          responsibility, typically through commercial auto liability insurance.
         </li>
         <li>
           <strong>Commercial property insurance</strong> covers the business
@@ -118,9 +120,11 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The commercial auto policy pays for the vehicle &mdash; but it values
         the truck as a vehicle, not as a custom-built commercial kitchen.
-        Standard commercial auto physical damage coverage pays the actual cash
-        value (ACV) of the vehicle at the time of loss, which is the
-        replacement cost minus depreciation. For a food truck, the vehicle
+        Commercial auto physical damage coverage typically pays actual cash
+        value (ACV) of the vehicle at the time of loss; the precise ACV
+        definition is policy-form-specific (commonly replacement cost less
+        depreciation, but commercial auto forms vary on the calculation
+        method). For a food truck, the vehicle
         itself may be a used step van or box truck worth $25,000 to $40,000.
         But the custom kitchen buildout inside it &mdash; the stainless steel
         counters, the commercial hood, the grease trap, the fire suppression
@@ -196,14 +200,14 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The commissary also raises a property coverage question under California
-        Health and Safety Code &sect; 114295(b): if food, equipment, or supplies
-        stored at the commissary are damaged by fire, water, or theft, whose
-        policy responds? The commissary operator&rsquo;s policy covers the
-        building and the commissary&rsquo;s own property. Your policy needs to
-        cover <strong>your</strong> property at the commissary. Make sure your
-        policy&rsquo;s premises definition or off-premises coverage extends to
-        the commissary address.
+        The commissary relationship also raises a property coverage question:
+        if food, equipment, or supplies stored at the commissary are damaged by
+        fire, water, or theft, whose policy responds? The commissary
+        operator&apos;s policy covers the building and the commissary&apos;s own
+        property. The food-truck operator&apos;s policy needs to cover the
+        operator&apos;s property at the commissary. Many operators confirm that
+        their policy&apos;s premises definition or off-premises coverage extends
+        to the commissary address.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

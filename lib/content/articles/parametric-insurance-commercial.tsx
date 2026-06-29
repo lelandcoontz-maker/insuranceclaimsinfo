@@ -260,10 +260,15 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Critically, parametric payouts do not reduce or offset the traditional indemnity
-        payment. Because the parametric payout is not tied to actual loss, it is not subject
-        to the &ldquo;other insurance&rdquo; or contribution provisions in the traditional
-        policy. The business can collect on both without a coordination-of-benefits issue.
+        Because the parametric payout is not tied to actual loss, it is typically not
+        triggered by the &ldquo;other insurance&rdquo; or contribution provisions in the
+        traditional policy &mdash; but the specific interaction depends on how the parametric
+        product is structured and on how the traditional policy&apos;s other-insurance clause
+        is drafted. For business interruption specifically, where a parametric BI product
+        pays during the same restoration period as a traditional BI policy, dollar-for-dollar
+        offset arguments are not theoretical. A business considering layering parametric on
+        top of traditional commercial coverage might consider reviewing both policies&apos;
+        coordination provisions with the broker.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -298,10 +303,12 @@ export default function Content() {
           may be taxable. Consult with a tax professional.
         </li>
         <li>
-          <strong>The California regulatory framework is still catching up.</strong> The CDI
-          has not issued comprehensive guidance on parametric products. This creates uncertainty
-          for buyers but also opportunity &mdash; products are entering the market faster
-          than regulators can restrict them, which means more options for businesses.
+          <strong>The California regulatory framework is still developing.</strong> No
+          parametric-specific CDI bulletin or regulation has issued to date. The regulatory
+          landscape continues to develop, which means consumer protections may be uneven
+          across products and across the admitted-vs-surplus-lines distinction. Reviewing
+          any parametric product carefully &mdash; including with a broker familiar with the
+          carrier and the product structure &mdash; is generally advisable.
         </li>
       </ul>
 

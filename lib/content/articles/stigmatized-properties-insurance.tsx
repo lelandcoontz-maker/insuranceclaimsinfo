@@ -188,48 +188,69 @@ export default function Content() {
         California: Civil Code Section 1710.2
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&rsquo;s approach to death disclosure is codified in Civil Code
-        Section 1710.2. The statute provides that an owner or agent is not required
-        to disclose a death on the property if it occurred more than three years
-        before the buyer&rsquo;s offer. Deaths that occurred within the three-year
-        window must be disclosed if the buyer asks. The statute also provides that
-        no cause of action arises against a seller for failing to disclose a death
-        that occurred more than three years prior.
+        California addresses death disclosure in Civil Code &sect; 1710.2. Functionally,
+        the statute is a <em>liability shield</em>, not an affirmative disclosure
+        command &mdash; it tells sellers and agents when they can be sued for not
+        volunteering the information, not when they must volunteer it.
+      </p>
+      <blockquote className="border-l-4 border-gray-300 pl-4 my-3 italic text-gray-700">
+        No cause of action arises against an owner of real property or his or her
+        agent, or any agent of a transferee of real property, for the failure to
+        disclose to the transferee the occurrence of an occupant&apos;s death upon
+        the real property or the manner of death where the death has occurred more
+        than three years prior to the date the transferee offers to purchase, lease,
+        or rent the real property, or where the death has occurred on the real
+        property at any time if the cause of death was related to Human
+        Immunodeficiency Virus (HIV) or Acquired Immune Deficiency Syndrome (AIDS).
+      </blockquote>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two structural features matter. First, the three-year window applies to
+        general death disclosure. After three years, the statute removes the cause
+        of action; the seller is not insulated from common-law fraud or the general
+        material-fact disclosure duty under Civ. Code &sect; 1102 et seq. if other
+        facts make the matter material. Second, the HIV/AIDS protection applies
+        <em> regardless of how long ago the death occurred</em>. The statute was
+        enacted in part to protect against post-AIDS-crisis discrimination by
+        treating cause-of-death information as off-limits when HIV/AIDS is
+        involved &mdash; a privacy/anti-discrimination feature, not a liability
+        rule about value.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The three-year rule means that stigma from a death on the property has a
-        defined legal horizon in California &mdash; but not necessarily a market
-        horizon. High-profile events may continue to affect value well beyond three
-        years, even if the seller is no longer legally required to volunteer the
-        information. Buyers conduct their own research, and the internet has a
-        long memory.
+        Subsection (b) clarifies that the statute does not authorize intentional
+        misrepresentation. If a buyer asks directly, the seller cannot lie &mdash;
+        and that rule applies regardless of when the death occurred (1 year ago or
+        30 years ago). The three-year window addresses the affirmative-disclosure
+        question, not the no-misrepresentation question.
       </p>
 
-      <CalloutBox variant="warning" title="Disclosure Rules Vary Significantly by State">
+      <CalloutBox variant="info" title="Disclosure law is real-estate-transfer law, not insurance law">
         <p>
-          Not all states follow California&rsquo;s approach. Some states require no
-          disclosure of deaths or criminal activity at all. Others require disclosure
-          only if the buyer specifically asks. A few require affirmative disclosure
-          of violent crimes or specific events like methamphetamine manufacturing.
-          Property owners and their agents must know the disclosure obligations in
-          their specific jurisdiction. Failure to disclose when required can result
-          in rescission of the sale and liability for damages.
+          Disclosure obligations vary by state and by transaction type. California&apos;s
+          §1710.2 framework is one piece of a larger set of duties that also includes
+          Civ. Code §1102 et seq. (Real Estate Transfer Disclosure Statement) and the
+          common-law material-fact and concealment doctrines. Specific seller
+          disclosure obligations in a specific transaction are questions for a
+          real-estate attorney or a licensed real-estate broker familiar with the
+          jurisdiction. This article addresses the insurance side of stigma; it does
+          not analyze a seller&apos;s transactional disclosure duties.
         </p>
       </CalloutBox>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
-        Drug Contamination Disclosure
+        Drug Contamination
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Drug contamination disclosure is treated differently from death disclosure
-        in most states because of the public health dimension. States that have
-        adopted methamphetamine contamination standards &mdash; including California
-        (Health &amp; Safety Code Section 25400.13 et seq.) &mdash; generally require
-        that properties be decontaminated to specified levels before they can be
-        reoccupied or sold. The fact that a property was a former meth lab or drug
-        house typically must be disclosed even after remediation is complete and
-        clearance has been obtained. This creates a permanent disclosure record that
-        follows the property indefinitely.
+        Drug-contamination treatment is governed by a separate statutory framework.
+        California enacted the <strong>Methamphetamine or Fentanyl Contaminated
+        Property Cleanup Act</strong> (Cal. Health &amp; Safety Code &sect; 25400.10
+        et seq., as amended by Stats. 2019, Ch. 691). The Act contains cleanup,
+        remediation, posting, and reoccupancy standards &mdash; it requires that
+        properties identified as contaminated be remediated to specified levels
+        before being reoccupied or transferred. The general transactional disclosure
+        duty around drug history is governed by Civ. Code &sect; 1102 et seq. and
+        the common-law material-fact doctrine, not by the Cleanup Act&apos;s
+        sections themselves. As with death disclosure, specific transactional
+        obligations are questions for a real-estate attorney or broker.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
