@@ -177,6 +177,36 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Reading
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Three companion articles cover adjacent territory:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] hover:underline">
+            Can I Cash This Insurance Check?
+          </Link>{' '}
+          &mdash; the practical question that anchors most release fears. Most checks are
+          ordinary payments with no strings attached.
+        </li>
+        <li>
+          <Link href="/resources/accord-and-satisfaction-checks" className="text-[#2E74B5] hover:underline">
+            Accord and Satisfaction
+          </Link>{' '}
+          &mdash; the legal doctrine that determines when cashing a check actually does
+          create a release (in California, that is narrower than carriers often suggest).
+        </li>
+        <li>
+          <Link href="/resources/settlement-as-leverage" className="text-[#2E74B5] hover:underline">
+            When Settlement Becomes Leverage: The Conditional Offer Tactic
+          </Link>{' '}
+          &mdash; the strategic angle: how carriers use payment offers as leverage to extract
+          broad releases that extinguish supplemental and bad-faith claims.
+        </li>
+      </ul>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.

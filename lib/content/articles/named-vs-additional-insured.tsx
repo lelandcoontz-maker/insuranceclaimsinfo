@@ -294,7 +294,7 @@ export default function Content() {
         is paid, the insurance check is typically made out to both the named insured and the
         loss payee. The loss payee&rsquo;s interest is limited to the amount owed on the loan.
         For more on how insurance checks work, see our guide to{' '}
-        <Link href="/resources/insurance-checks" className="text-[#2E74B5] underline hover:text-blue-900">
+        <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] underline hover:text-blue-900">
           insurance claim checks
         </Link>.
       </p>

@@ -2589,16 +2589,6 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
-  "insurance-checks": {
-    "audience": [
-      "professional"
-    ],
-    "claimType": [
-      "fire"
-    ],
-    "contentType": "guide",
-    "jurisdiction": "california"
-  },
   "insurance-claim-assignments": {
     "audience": [
       "mid-claim"

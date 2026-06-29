@@ -609,7 +609,7 @@ export default function Content() {
           $75,000 with &ldquo;full and final payment&rdquo; printed on it, but you believe your
           claim is worth $150,000 and you never agreed to settle. This violates &sect; 2695.4(f).
           See our guide on{' '}
-          <Link href="/resources/insurance-checks" className="text-[#2E74B5] hover:underline">insurance checks</Link>{' '}
+          <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] hover:underline">insurance checks</Link>{' '}
           for what to do.
         </li>
       </ul>

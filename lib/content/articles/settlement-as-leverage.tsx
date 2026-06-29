@@ -315,6 +315,36 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Reading
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Three companion articles cover adjacent territory:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] hover:underline">
+            Can I Cash This Insurance Check?
+          </Link>{' '}
+          &mdash; routine check handling versus the rare settlement-language scenario, with
+          the three options for responding to restrictive endorsement language.
+        </li>
+        <li>
+          <Link href="/resources/release-trap-insurance-claims" className="text-[#2E74B5] hover:underline">
+            The Release Trap
+          </Link>{' '}
+          &mdash; types of releases, the ALE and depreciation traps, and how to negotiate
+          carve-outs that preserve unresolved parts of the claim.
+        </li>
+        <li>
+          <Link href="/resources/accord-and-satisfaction-checks" className="text-[#2E74B5] hover:underline">
+            Accord and Satisfaction
+          </Link>{' '}
+          &mdash; the legal doctrine that controls when cashing a check actually does (or
+          does not) extinguish a claim.
+        </li>
+      </ul>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.

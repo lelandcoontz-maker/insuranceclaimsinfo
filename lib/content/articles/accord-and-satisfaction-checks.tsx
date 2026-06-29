@@ -412,7 +412,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-8">
         <li>
-          <Link href="/resources/insurance-checks" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/cashing-insurance-checks" className="text-blue-700 underline hover:text-blue-900">
             Insurance Checks: What to Do and What to Watch For
           </Link>
         </li>

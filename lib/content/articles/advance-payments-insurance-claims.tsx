@@ -183,7 +183,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         For an in-depth discussion of insurance check endorsement issues, see our article on{' '}
-        <Link href="/resources/insurance-checks" className="text-[#2E74B5] underline">
+        <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] underline">
           cashing insurance checks
         </Link>
         .

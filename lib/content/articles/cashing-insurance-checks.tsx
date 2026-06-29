@@ -192,15 +192,153 @@ export default function Content() {
         settlement agreement, this is something that would benefit from &mdash; and in most
         cases requires &mdash; an attorney&rsquo;s involvement. The stakes are higher, the
         legal questions are more complex, and the negotiation dynamics are different from a
-        routine claim dispute. For more on the legal framework, see our article on{' '}
+        routine claim dispute. For more on the legal framework, see our articles on{' '}
         <Link href="/resources/accord-and-satisfaction-checks" className="text-blue-700 underline hover:text-blue-900">
           accord and satisfaction
-        </Link>{' '}
-        and our article on{' '}
+        </Link>,{' '}
+        <Link href="/resources/release-trap-insurance-claims" className="text-blue-700 underline hover:text-blue-900">
+          the release trap (and how to negotiate carve-outs)
+        </Link>,{' '}
+        <Link href="/resources/settlement-as-leverage" className="text-blue-700 underline hover:text-blue-900">
+          settlement as leverage (the conditional offer tactic)
+        </Link>, and{' '}
         <Link href="/resources/white-waiver-settlement-confidentiality" className="text-blue-700 underline hover:text-blue-900">
           settlement agreements and confidentiality
         </Link>.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        If the Check Does Have Restrictive Language: Three Options
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In the rare case where the check itself carries &ldquo;full and final&rdquo; or
+        similar release language, an insured has three practical options:
+      </p>
+      <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Request reissuance without the restrictive language.</strong> Contact the
+          insurer in writing and ask them to reissue the check without &ldquo;full and final
+          settlement&rdquo; language. Many insurers will do this if asked, particularly when
+          there is no actual settlement intent and the language was applied as boilerplate.
+        </li>
+        <li>
+          <strong>Deposit with a written reservation of rights.</strong> Before depositing
+          the check, send the insurer a letter (certified mail, return receipt) stating that
+          the check is being deposited as a <strong>partial payment only</strong> and that
+          the insured does not accept the amount as full and final settlement. Reference the
+          check number, date, and amount. Keep a copy of the letter and the certified-mail
+          receipt. Under Cal. Civ. Code &sect; 1526(b), written protest reserving rights
+          creates a safe harbor against accord-and-satisfaction.
+        </li>
+        <li>
+          <strong>Strike out the restrictive language.</strong> Cal. Civ. Code &sect; 1526(a)
+          allows a creditor to strike out restrictive language before endorsing. Some
+          policyholders write &ldquo;Partial payment only &mdash; rights reserved&rdquo; above
+          their signature. This is less reliable than a separate reservation letter because
+          the depositary bank may reject an altered check, and the legal effect of the
+          strike-out varies on the facts.
+        </li>
+      </ol>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Mortgage Company Co-Payee Checks
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the property has a mortgage, Dwelling and Other Structures damage checks will
+        typically be made payable to both the insured and the mortgage company. The lender
+        has a financial interest in ensuring the property (its collateral) is rebuilt. The
+        insured will need to endorse the check and send it to the lender&apos;s loss-draft
+        department for the lender&apos;s endorsement. The lender will typically hold the
+        funds and release them in stages as construction progresses. See our guide on{' '}
+        <Link href="/resources/mortgage-company-holds" className="text-blue-700 underline hover:text-blue-900">
+          mortgage company holds
+        </Link>{' '}
+        for details.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        <strong>Important:</strong> Personal Property checks and Loss of Use (ALE) checks
+        should <em>not</em> have the mortgage company&apos;s name on them. The lender has no
+        interest in furniture or living expenses. If these checks include the lender&apos;s
+        name, contact the insurer and request reissuance.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        ACV vs. RCV Checks &mdash; the Two-Stage Payment
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        On a replacement-cost-value (RCV) policy, the insurer typically pays in two stages:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>First check &mdash; ACV (Actual Cash Value):</strong> the replacement cost
+          minus depreciation. This is the initial payment. Deposit and begin work.
+        </li>
+        <li>
+          <strong>Second check &mdash; Depreciation recovery (holdback):</strong> the
+          withheld depreciation is paid after repairs or replacement are completed and proof
+          is submitted. The insured must actually incur the expense to collect the holdback.
+          See our guide on{' '}
+          <Link href="/resources/acv-rcv" className="text-blue-700 underline hover:text-blue-900">
+            ACV vs. RCV
+          </Link>.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Depositing the ACV check does not waive the right to the depreciation holdback. It is
+        a partial payment by design.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Supplemental Checks
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If a{' '}
+        <Link href="/resources/supplemental-claims" className="text-blue-700 underline hover:text-blue-900">
+          supplemental claim
+        </Link>{' '}
+        is filed for items the original estimate missed, the insurer issues a separate
+        supplemental check. Review it the same way &mdash; check for restrictive language,
+        verify the amount matches the agreed supplement, and deposit it. Filing a supplement
+        and accepting payment on it does not prevent additional supplements if more missed
+        items are later discovered.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        What If the Check Amount Is Wrong?
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        If the check amount does not match what was expected or what was agreed upon:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Verify the math.</strong> Check whether the deductible was subtracted,
+          whether depreciation was withheld, and whether the payment covers only part of the
+          estimate (e.g., only the undisputed amount).
+        </li>
+        <li>
+          <strong>Request the payment breakdown.</strong> Ask the insurer for a detailed
+          breakdown showing how the check amount was calculated &mdash; gross amount, minus
+          deductible, minus depreciation, minus any prior payments. For how to read that
+          breakdown, see{' '}
+          <Link href="/resources/reading-statement-of-loss" className="text-blue-700 underline hover:text-blue-900">
+            How to Read Your Insurance Statement of Loss
+          </Link>.
+        </li>
+        <li>
+          <strong>The check can still be deposited.</strong> If there is no restrictive
+          language, depositing a check that is less than the amount believed owed does not
+          waive the right to dispute the difference. It is a partial payment.
+        </li>
+      </ul>
+
+      <CalloutBox variant="tip" title="Keep Every Check Stub and Payment Letter">
+        <p>
+          Maintain a complete record of every payment received from the insurer &mdash;
+          check copies (front and back), payment letters, coverage breakdowns, and any
+          correspondence about the payment. This record is essential if the insured later
+          needs to prove what was paid, when, and under which coverage.
+        </p>
+      </CalloutBox>
 
       <CalloutBox variant="important" title="The Bottom Line">
         <p>

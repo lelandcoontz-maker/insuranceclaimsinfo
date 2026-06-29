@@ -162,6 +162,15 @@ const nextConfig = {
       destination: '/resources/policyholder-rights',
       permanent: true,
     },
+    // 2026-06-29: insurance-checks consolidated into cashing-insurance-checks
+    // (Tier 3; both general 'what to do with the check' articles; unique mortgage-co-payee,
+    // ACV-vs-RCV, supplemental, wrong-amount, and 3-option restrictive-language sections
+    // folded into the destination before deletion)
+    {
+      source: '/resources/insurance-checks',
+      destination: '/resources/cashing-insurance-checks',
+      permanent: true,
+    },
     // 2026-06-27: Tier 2 cannibalization cleanup
     // Cluster 1 — Appraisal triple-merge
     {

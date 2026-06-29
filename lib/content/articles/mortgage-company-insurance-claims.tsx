@@ -115,7 +115,7 @@ export default function Content() {
         This distinction is not just academic &mdash; it is the foundation of the coverage allocation
         strategy discussed later in this article. For a detailed guide on handling insurance checks of
         all types, see our article on{' '}
-        <Link href="/resources/insurance-checks" className="text-[#2E74B5] underline">
+        <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] underline">
           insurance checks
         </Link>
         .

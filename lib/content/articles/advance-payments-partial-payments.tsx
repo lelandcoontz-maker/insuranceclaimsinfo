@@ -284,7 +284,7 @@ export default function Content() {
           explicitly that your acceptance of the undisputed amount does not constitute agreement with
           the carrier&apos;s estimate and that you reserve all rights to pursue the disputed balance.
           See our article on{' '}
-          <Link href="/resources/insurance-checks" className="text-[#2E74B5] underline">
+          <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] underline">
             insurance checks
           </Link>{' '}
           for how to handle restrictive language on payments.
@@ -688,7 +688,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For guidance on recognizing and responding to lowball offers, see our article on{' '}
-        <Link href="/resources/insurance-checks" className="text-[#2E74B5] underline">
+        <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] underline">
           insurance checks
         </Link>
         .
@@ -706,7 +706,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Always examine both sides of any{' '}
-        <Link href="/resources/insurance-checks" className="text-[#2E74B5] underline">
+        <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] underline">
           insurance check
         </Link>{' '}
         before endorsing it. If the check contains restrictive language, write &ldquo;accepted as

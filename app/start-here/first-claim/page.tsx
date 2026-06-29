@@ -62,7 +62,7 @@ const steps = [
       { href: '/resources/how-insurance-payments-calculated', title: 'How Your Payment Is Calculated' },
       { href: '/resources/acv-rcv', title: 'ACV vs. RCV: Understanding Depreciation' },
       { href: '/resources/reading-statement-of-loss', title: 'How to Read Your Statement of Loss' },
-      { href: '/resources/insurance-checks', title: 'Understanding Insurance Checks' },
+      { href: '/resources/cashing-insurance-checks', title: 'Understanding Insurance Checks' },
     ],
   },
   {

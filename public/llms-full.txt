@@ -1,5 +1,5 @@
 # InsuranceClaimsInfo.com — Full Article Index
-# 516 articles on California property insurance claims
+# 515 articles on California property insurance claims
 # Author: Leland Coontz III, Licensed Public Adjuster (CA #2B53445)
 # Site: https://insuranceclaimsinfo.com
 # Generated: 2026-06-29
@@ -1005,10 +1005,6 @@ Summary: When a home is transferred into a family trust with a retained life est
 ## Insurance Company AI and Automated Claims Processing: When an Algorithm Decides Your Claim
 URL: https://insuranceclaimsinfo.com/resources/insurance-ai-automated-claims
 Summary: How insurance companies use artificial intelligence, machine learning, and automated systems to process property damage claims, why AI-driven claims handling leads to systematic underpayment, and how policyholders and attorneys can challenge algorithmic decisions under California law.
-
-## Insurance Checks: What to Do and What to Watch For
-URL: https://insuranceclaimsinfo.com/resources/insurance-checks
-Summary: When you receive a check from your insurance company, don't just cash it blindly — and don't leave it sitting on the counter either. Learn what restrictive language means, when it's safe to deposit, and how to protect your right to dispute.
 
 ## Assignment of Benefits, Assignment of Claim, Assignment of Rights, and Assignment of Policy: Understanding the Differences
 URL: https://insuranceclaimsinfo.com/resources/insurance-claim-assignments

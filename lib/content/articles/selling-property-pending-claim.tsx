@@ -522,7 +522,7 @@ export default function Content() {
         the depreciation until repairs are completed. This creates a specific problem when the
         property is sold before repairs are done. For background on how this works, see our
         article on{' '}
-        <Link href="/resources/insurance-checks" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] hover:underline">
           insurance checks
         </Link>.
       </p>

@@ -161,7 +161,7 @@ export default function Content() {
           you have leverage to negotiate over incomplete work, damaged personal property, or other
           disputes with the contractor. Once the vendor has already been paid, that leverage is
           gone. For more on how insurance checks work, see our guide to{' '}
-          <Link href="/resources/insurance-checks" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] hover:underline">
             insurance checks
           </Link>
           .

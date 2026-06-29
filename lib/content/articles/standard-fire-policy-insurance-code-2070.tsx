@@ -718,7 +718,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For policyholders, the mortgagee clause matters primarily because it means that insurance
         proceeds may be payable jointly to the insured and the mortgage lender. Understanding how{' '}
-        <Link href="/resources/insurance-checks" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/cashing-insurance-checks" className="text-[#2E74B5] hover:underline">
           insurance checks
         </Link>{' '}
         are handled when a mortgage is involved can prevent delays in accessing funds needed for

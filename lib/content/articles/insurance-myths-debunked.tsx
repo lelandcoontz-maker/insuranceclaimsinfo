@@ -963,7 +963,7 @@ export default function Content() {
           if repair costs exceed the estimate, you have the right to submit a supplemental
           claim. Cashing the initial check does not close the door. For practical guidance,
           see our articles on{' '}
-          <Link href="/resources/insurance-checks" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/cashing-insurance-checks" className="text-blue-700 underline hover:text-blue-900">
             insurance checks
           </Link>{' '}
           and{' '}
