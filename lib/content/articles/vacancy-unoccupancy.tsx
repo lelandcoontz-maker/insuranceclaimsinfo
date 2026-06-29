@@ -652,6 +652,32 @@ export default function Content() {
         </li>
       </ul>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Reading
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two companion articles cover specific vacancy scenarios in more depth:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <Link href="/resources/commercial-vacancy-clause" className="text-[#2E74B5] hover:underline">
+            The Commercial Vacancy Clause: How Empty Space Can Gut Your Property Coverage
+          </Link>{' '}
+          &mdash; the commercial-property version of the vacancy problem. The standard ISO
+          commercial form uses a 31% occupancy threshold + 60 days, and bars vandalism, water,
+          glass, and other losses once it triggers.
+        </li>
+        <li>
+          <Link href="/resources/snowbird-vacancy-coverage" className="text-[#2E74B5] hover:underline">
+            Seasonal and Snowbird Properties: The Six-Month Vacancy Problem
+          </Link>{' '}
+          &mdash; the residential scenario for owners who split time between two homes:
+          vacancy exclusions, the &ldquo;where you reside&rdquo; definition, frozen pipe
+          denials, mismatched policy types, and the endorsements that protect seasonal
+          properties.
+        </li>
+      </ul>
+
       <div className="bg-[#EFF4FB] border border-[#C5D9F0] rounded-xl p-6 text-center mt-8">
         <h3 className="text-lg font-bold text-[#1F3964] mb-2">
           Was Your Claim Denied Because of a Vacancy Clause?
