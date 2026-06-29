@@ -310,6 +310,21 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Going Deeper
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        AOB is one of four distinct assignment types in insurance claims, each with a
+        different legal effect. For a comprehensive taxonomy &mdash; Assignment of Benefits,
+        Assignment of Claim, Assignment of Rights, and Assignment of Policy &mdash; plus the
+        pre-loss-vs-post-loss distinction, the California legal framework, and audience-specific
+        sections for policyholders, contractors, and attorneys, see{' '}
+        <Link href="/resources/insurance-claim-assignments" className="text-[#2E74B5] hover:underline">
+          Assignment of Benefits, Assignment of Claim, Assignment of Rights, and Assignment
+          of Policy: Understanding the Differences
+        </Link>.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Key Takeaways
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">

@@ -210,6 +210,17 @@ export default function Content() {
         discussed below.
       </p>
 
+      <CalloutBox variant="info" title="Consumer-focused AOB article">
+        <p>
+          For practical guidance on AOB language hidden in work-authorization forms,
+          direction-of-payment provisions, and how an AOB plays out when selling a damaged
+          home (including escrow arrangements and Cal. Ins. Code &sect; 520), see our{' '}
+          <Link href="/resources/assignment-of-benefits" className="text-[#2E74B5] hover:underline">
+            consumer-focused AOB article
+          </Link>. This article continues with the other three assignment types.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Assignment of Claim
       </h2>
