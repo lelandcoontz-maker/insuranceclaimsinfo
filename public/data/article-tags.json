@@ -2782,17 +2782,6 @@
     "contentType": "reference",
     "jurisdiction": "california"
   },
-  "insurer-reformation-policy": {
-    "audience": [
-      "professional",
-      "attorney"
-    ],
-    "claimType": [
-      "roof"
-    ],
-    "contentType": "legal-analysis",
-    "jurisdiction": "california"
-  },
   "inverse-condemnation": {
     "audience": [
       "mid-claim"

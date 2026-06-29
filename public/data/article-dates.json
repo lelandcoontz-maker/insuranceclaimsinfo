@@ -21,7 +21,7 @@
   },
   "accord-and-satisfaction-checks": {
     "published": "2026-05-03",
-    "modified": "2026-06-22"
+    "modified": "2026-06-29"
   },
   "accounts-receivable-valuable-papers": {
     "published": "2026-05-03",
@@ -57,11 +57,11 @@
   },
   "advance-payments-insurance-claims": {
     "published": "2026-05-16",
-    "modified": "2026-06-18"
+    "modified": "2026-06-29"
   },
   "advance-payments-partial-payments": {
     "published": "2026-05-04",
-    "modified": "2026-06-14"
+    "modified": "2026-06-29"
   },
   "agreed-value-policies": {
     "published": "2026-05-01",
@@ -121,7 +121,7 @@
   },
   "assignment-of-benefits": {
     "published": "2026-04-30",
-    "modified": "2026-06-28"
+    "modified": "2026-06-29"
   },
   "auto-repair-body-shop-insurance-claims": {
     "published": "2026-05-04",
@@ -253,7 +253,7 @@
   },
   "california-fair-claims": {
     "published": "2026-03-28",
-    "modified": "2026-06-28"
+    "modified": "2026-06-29"
   },
   "california-fair-plan": {
     "published": "2026-04-04",
@@ -285,7 +285,7 @@
   },
   "cashing-insurance-checks": {
     "published": "2026-05-03",
-    "modified": "2026-06-19"
+    "modified": "2026-06-29"
   },
   "catastrophe-claims": {
     "published": "2026-05-01",
@@ -1075,10 +1075,6 @@
     "published": "2026-05-04",
     "modified": "2026-06-06"
   },
-  "insurer-reformation-policy": {
-    "published": "2026-05-16",
-    "modified": "2026-06-06"
-  },
   "inverse-condemnation": {
     "published": "2026-04-04",
     "modified": "2026-06-26"
@@ -1217,7 +1213,7 @@
   },
   "mortgage-company-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-13"
+    "modified": "2026-06-29"
   },
   "mortgage-company-public-adjuster": {
     "published": "2026-04-08",
@@ -1237,7 +1233,7 @@
   },
   "named-vs-additional-insured": {
     "published": "2026-05-02",
-    "modified": "2026-06-15"
+    "modified": "2026-06-29"
   },
   "negotiation": {
     "published": "2026-03-28",
@@ -1489,7 +1485,7 @@
   },
   "release-trap-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-29"
   },
   "remediation-vs-restoration": {
     "published": "2026-05-16",
@@ -1613,7 +1609,7 @@
   },
   "selling-property-pending-claim": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-29"
   },
   "septic-system-coverage": {
     "published": "2026-05-03",
@@ -1625,7 +1621,7 @@
   },
   "settlement-as-leverage": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-29"
   },
   "sewage-contamination-mitigation-failure": {
     "published": "2026-04-08",
@@ -1709,7 +1705,7 @@
   },
   "standard-fire-policy-insurance-code-2070": {
     "published": "2026-05-04",
-    "modified": "2026-06-11"
+    "modified": "2026-06-29"
   },
   "statement-of-loss": {
     "published": "2026-05-02",

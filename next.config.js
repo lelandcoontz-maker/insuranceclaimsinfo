@@ -171,6 +171,16 @@ const nextConfig = {
       destination: '/resources/cashing-insurance-checks',
       permanent: true,
     },
+    // 2026-06-29: insurer-reformation-policy consolidated into policy-reformation
+    // (Tier 3 FINAL cluster; defensive 'carrier tries to rewrite after loss' content
+    // folded into the general reformation article as a 'When the Carrier Uses
+    // Reformation Against You' section preserving the 4 common scenarios, heightened
+    // burden, agent-file approach, defense arguments, and practical steps)
+    {
+      source: '/resources/insurer-reformation-policy',
+      destination: '/resources/policy-reformation',
+      permanent: true,
+    },
     // 2026-06-27: Tier 2 cannibalization cleanup
     // Cluster 1 — Appraisal triple-merge
     {

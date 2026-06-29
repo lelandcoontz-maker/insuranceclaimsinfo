@@ -62,6 +62,22 @@ export default function Content() {
         </p>
       </CalloutBox>
 
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Reformation is distinct from{' '}
+        <Link href="/resources/policy-rescission" className="text-blue-700 underline hover:text-blue-900">
+          rescission
+        </Link>{' '}
+        (which voids the policy entirely as if it never existed, typically based on a material
+        misrepresentation by the insured &mdash; see{' '}
+        <Link href="/resources/material-misrepresentation-nondisclosure" className="text-blue-700 underline hover:text-blue-900">
+          Material Misrepresentation vs. Innocent Nondisclosure
+        </Link>{' '}
+        for the underlying doctrine). Reformation keeps the policy in force but rewrites its
+        terms; rescission unwinds the policy and returns premiums. The defenses are different,
+        and a carrier cannot use reformation as a backdoor to achieve what rescission law does
+        not allow.
+      </p>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Grounds for Reformation
       </h2>
@@ -359,6 +375,164 @@ export default function Content() {
         <li>
           If you notice a discrepancy between what you were told and what the policy says, raise
           it immediately in writing. Do not wait for a loss to discover the problem.
+        </li>
+      </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        When the Carrier Uses Reformation Against You
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Reformation is normally a policyholder&apos;s remedy &mdash; the court rewrites a
+        policy that does not match the deal that was sold. But insurers sometimes try to
+        use the same doctrine in reverse. After a loss, a carrier may claim the issued
+        policy contains a &ldquo;mistake&rdquo; and ask the court to retroactively shrink
+        the coverage. This is a far more difficult argument for the insurer than the
+        opposite scenario, but it does come up.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Common Carrier-Initiated Scenarios
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Broader coverage than intended.</strong> The carrier claims an exclusion
+          or limitation was omitted by oversight and asks the court to read it back into
+          the policy.
+        </li>
+        <li>
+          <strong>Higher limits than intended.</strong> The carrier claims a dwelling limit
+          or sublimit was a data-entry mistake and seeks to reduce the figure after a large
+          loss.
+        </li>
+        <li>
+          <strong>Different coverage form than intended.</strong> An open-peril policy was
+          issued when the carrier claims it meant to issue a named-peril form. After a loss
+          that would be covered under open-peril but excluded under named-peril, the
+          carrier seeks reformation to downgrade.
+        </li>
+        <li>
+          <strong>Wrong or missing endorsement.</strong> The carrier seeks to add a missing
+          coverage-restricting endorsement or remove a coverage-enhancing one.
+        </li>
+      </ul>
+
+      <CalloutBox variant="warning" title="The Post-Loss Timing Is Revealing">
+        <p>
+          In almost every case where an insurer seeks reformation, the &ldquo;mistake&rdquo;
+          is discovered only after a loss that triggers the coverage the carrier wants to
+          eliminate. The carrier collected premiums on the policy as written, often for
+          years, without ever seeking to correct the alleged error. The timing of the
+          reformation claim &mdash; coinciding precisely with the carrier&rsquo;s obligation
+          to pay &mdash; is itself evidence that the claim is pretextual.
+        </p>
+      </CalloutBox>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Carrier&apos;s Heightened Burden
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California law imposes a particularly demanding burden on a carrier seeking to
+        reform a policy to reduce coverage. By clear and convincing evidence, the insurer
+        must establish: (1) a specific prior agreement existed between the parties that
+        differed from the written policy; (2) the written policy deviates from that
+        agreement due to a mistake in drafting, transcription, or data entry &mdash; not a
+        change of heart after the loss; and (3) the mistake was mutual, or the
+        carrier&rsquo;s unilateral mistake was coupled with fraud or inequitable conduct
+        by the policyholder. Mere silence by a policyholder who may not have known the
+        policy differed from what the carrier intended is not fraud.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The carrier&apos;s most common theory &mdash; mutual mistake &mdash; faces a
+        fundamental problem in the insurance context. Insurance policies are{' '}
+        <Link href="/resources/contra-proferentem" className="text-blue-700 underline hover:text-blue-900">
+          adhesion contracts
+        </Link>{' '}
+        prepared entirely by the insurer. A policyholder who received the policy, paid
+        premiums on it, and relied on its terms did not share a &ldquo;mutual mistake&rdquo;
+        with the carrier. The policyholder&rsquo;s understanding matched the policy. The
+        carrier&rsquo;s after-the-fact claim that it intended to issue a different policy
+        is not a mutual mistake &mdash; it is the carrier&rsquo;s own error.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        The Agent or Broker File
+      </h3>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        When a carrier claims a &ldquo;mistake&rdquo; occurred, the insurance agent or
+        broker&apos;s role becomes critical evidence. If the agent represented to the
+        policyholder that the policy would include certain coverage, and the issued policy
+        includes that coverage, the carrier&apos;s mistake theory is undermined. A
+        disconnect between the carrier&apos;s sales arm and its underwriting arm is the
+        carrier&apos;s internal problem, not a mutual mistake. An attorney defending a
+        reformation claim should subpoena the agent or broker&apos;s complete file for the
+        policy &mdash; the application, correspondence with the underwriter, coverage
+        proposals, and the agent&apos;s notes often contain evidence that directly
+        contradicts the carrier&apos;s reformation theory.
+      </p>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Defense Arguments
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>The carrier drafted the policy.</strong> Insurance policies are contracts
+          of adhesion. The carrier had exclusive control over the drafting. If the policy
+          contains terms the carrier did not intend, that is a failure of the carrier&apos;s
+          own processes. Reformation should not bail out the drafter&apos;s carelessness.
+        </li>
+        <li>
+          <strong>The carrier accepted premiums on the policy as written.</strong> Acceptance
+          of premiums on a policy for years &mdash; without ever seeking to correct the
+          alleged mistake &mdash; can constitute waiver or estoppel, barring reformation
+          after a loss. If the mistake was so obvious, why did the carrier accept payment
+          on it for years?
+        </li>
+        <li>
+          <strong>There was no mutual mistake.</strong> The policyholder understood the
+          policy to say what it says. The carrier&apos;s unilateral regret that the policy
+          provides coverage it must now pay is not a mutual mistake.
+        </li>
+        <li>
+          <strong>The reasonable expectations doctrine.</strong> California&apos;s{' '}
+          <Link href="/resources/reasonable-expectations-doctrine" className="text-blue-700 underline hover:text-blue-900">
+            reasonable expectations doctrine
+          </Link>{' '}
+          honors the objectively reasonable expectations of the policyholder regarding the
+          terms of the contract. Reformation to eliminate the coverage a policyholder
+          reasonably expected based on the policy language, the agent&apos;s
+          representations, and the premiums charged is fundamentally at odds with this
+          doctrine.
+        </li>
+      </ul>
+
+      <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
+        Practical Steps When the Carrier Seeks Reformation
+      </h3>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Retain a coverage attorney.</strong> Reformation is a complex equitable
+          remedy litigated in court, not something to resolve through the ordinary claims
+          process or appraisal.
+        </li>
+        <li>
+          <strong>Preserve every document from the policy procurement process.</strong>
+          Applications, proposals, agent correspondence, coverage comparisons, marketing
+          materials, and declarations pages from every policy period are all relevant.
+        </li>
+        <li>
+          <strong>Obtain prior-year policies.</strong> A consistent pattern of issuing the
+          same terms year after year suggests the terms were intentional, not accidental.
+        </li>
+        <li>
+          <strong>Examine the carrier&apos;s underwriting file in discovery.</strong> The
+          carrier&apos;s internal underwriting file often reveals what the underwriter
+          actually knew and intended at the time the policy was issued.
+        </li>
+        <li>
+          <strong>Challenge the timing.</strong> Demand an explanation of why the
+          &ldquo;error&rdquo; was not identified during any prior renewal, audit, or
+          underwriting review. The longer the carrier accepted premiums on the policy as
+          written, the weaker its reformation argument.
         </li>
       </ul>
 

@@ -2726,9 +2726,9 @@ export const CATEGORIES: Category[] = [
       },
       {
         icon: '📝',
-        title: 'When Insurers Try to Rewrite Your Policy After a Loss',
-        desc: 'The doctrine of reformation — when carriers claim "mutual mistake" to reduce coverage after you file a claim, and why these arguments usually fail.',
-        href: '/resources/insurer-reformation-policy',
+        title: 'Policy Reformation: When the Policy Doesn\'t Match What You Were Sold',
+        desc: 'The doctrine of reformation — both as a policyholder remedy and the defense when a carrier tries to rewrite the policy after a loss.',
+        href: '/resources/policy-reformation',
         tag: 'Legal Doctrine',
         tagColor: 'bg-orange-100 text-orange-700',
       },
