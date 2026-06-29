@@ -441,6 +441,22 @@ export default function Content() {
           .
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Reading
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For a longer consumer-friendly walkthrough of the full Xactimate estimate document
+        (header, room/area structure, summary page, common red flags, and the ESX file), see{' '}
+        <Link href="/resources/how-to-read-xactimate-estimate" className="text-[#2E74B5] hover:underline">
+          How to Read Your Xactimate Estimate: A Consumer-Friendly Line-by-Line Guide
+        </Link>. Once you have identified problems in the carrier&apos;s estimate, see{' '}
+        <Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] hover:underline">
+          How to Challenge an Xactimate Estimate
+        </Link>{' '}
+        for the step-by-step approach to building the challenge.
+      </p>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.

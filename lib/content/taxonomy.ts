@@ -1241,7 +1241,7 @@ export const CATEGORIES: Category[] = [
         icon: '📊',
         title: 'How to Read the Estimate Your Insurance Company Sent You',
         desc: 'Line items, Xactimate basics, what is missing, what to question. Written for non-professionals.',
-        href: '/resources/how-to-read-insurance-estimate',
+        href: '/resources/how-to-read-xactimate-estimate',
         tag: 'Start Here',
         tagColor: 'bg-red-100 text-red-700',
         subcategory: 'payments-valuation',

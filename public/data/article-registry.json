@@ -1179,11 +1179,6 @@
     "description": "A step-by-step guide to photographing, videoing, and recording property damage so your insurance company cannot minimize or deny your claim.",
     "summary": "Document damage with date-stamped photos and video of everything before you clean up or repair, capturing both wide shots and close-ups, plus a written inventory with receipts. Thorough documentation is your strongest defense against an insurer minimizing or denying the claim."
   },
-  "how-to-read-insurance-estimate": {
-    "title": "How to Read the Estimate Your Insurance Company Sent You",
-    "description": "A plain-language guide to understanding Xactimate estimates, line items, depreciation schedules, and what to question when the numbers seem low.",
-    "summary": "An insurer estimate (usually Xactimate) lists each repair as a line item with quantities, unit prices, and depreciation. Read it for missing scope, low quantities, and excess depreciation, and question anything that seems short. The estimate is a starting figure you can dispute, not a final number."
-  },
   "how-to-read-verisk-white-paper": {
     "title": "How to Read a Verisk White Paper: The Public Documentation Most Adjusters Have Never Seen",
     "description": "Verisk publishes white papers explaining how Xactimate pricing works, what is and is not included in unit costs, and how settings should be configured. These publicly available documents frequently support the policyholder&apos;s position more than the carrier&apos;s.",

@@ -35,7 +35,7 @@ const sections = [
     label: 'Understand What You\'re Being Paid',
     desc: 'Before you can negotiate, you need to understand what the numbers mean.',
     articles: [
-      { href: '/resources/how-to-read-insurance-estimate', title: 'How to Read the Estimate Your Insurance Company Sent You' },
+      { href: '/resources/how-to-read-xactimate-estimate', title: 'How to Read the Estimate Your Insurance Company Sent You' },
       { href: '/resources/insurance-offer-now-what', title: 'Your Insurance Company Made an Offer — Now What?' },
       { href: '/resources/acv-rcv', title: 'ACV vs. RCV: Understanding Depreciation' },
       { href: '/resources/how-insurance-payments-calculated', title: 'How Your Payment Is Calculated' },

@@ -1,5 +1,5 @@
 # InsuranceClaimsInfo.com — Full Article Index
-# 518 articles on California property insurance claims
+# 517 articles on California property insurance claims
 # Author: Leland Coontz III, Licensed Public Adjuster (CA #2B53445)
 # Site: https://insuranceclaimsinfo.com
 # Generated: 2026-06-29
@@ -949,10 +949,6 @@ Summary: A practical guide for policyholders, Public Adjusters, and attorneys on
 ## How to Document Damage for Your Insurance Claim
 URL: https://insuranceclaimsinfo.com/resources/how-to-document-damage
 Summary: A step-by-step guide to photographing, videoing, and recording property damage so your insurance company cannot minimize or deny your claim.
-
-## How to Read the Estimate Your Insurance Company Sent You
-URL: https://insuranceclaimsinfo.com/resources/how-to-read-insurance-estimate
-Summary: A plain-language guide to understanding Xactimate estimates, line items, depreciation schedules, and what to question when the numbers seem low.
 
 ## How to Read a Verisk White Paper: The Public Documentation Most Adjusters Have Never Seen
 URL: https://insuranceclaimsinfo.com/resources/how-to-read-verisk-white-paper

@@ -1031,6 +1031,11 @@ export default function Content() {
           </Link>
         </li>
         <li>
+          <Link href="/resources/xactimate-line-items" className="text-[#2E74B5] underline">
+            How to Read an Xactimate Estimate Line by Line
+          </Link>
+        </li>
+        <li>
           <Link href="/resources/xactimate-line-item-manipulation" className="text-[#2E74B5] underline">
             Xactimate Line Item Manipulation
           </Link>

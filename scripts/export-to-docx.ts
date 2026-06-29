@@ -30,7 +30,7 @@ const SLUGS_TO_EXPORT = [
   // Tier 3 (7 process guides)
   'how-to-document-damage',
   'prepare-for-adjuster-inspection',
-  'how-to-read-insurance-estimate',
+  'how-to-read-xactimate-estimate',
   'insurance-offer-now-what',
   'personal-property-inventory-guide',
   'insurer-not-responding',

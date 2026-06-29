@@ -41,11 +41,11 @@
   },
   "adjuster-pressure-truth": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-29"
   },
   "adjuster-types": {
     "published": "2026-04-04",
-    "modified": "2026-06-11"
+    "modified": "2026-06-29"
   },
   "adu-coverage-gaps": {
     "published": "2026-05-02",
@@ -385,7 +385,7 @@
   },
   "color-matching-material-aging": {
     "published": "2026-05-03",
-    "modified": "2026-06-19"
+    "modified": "2026-06-29"
   },
   "commercial-coinsurance": {
     "published": "2026-05-02",
@@ -717,7 +717,7 @@
   },
   "examination-under-oath": {
     "published": "2026-04-04",
-    "modified": "2026-06-10"
+    "modified": "2026-06-29"
   },
   "excessive-depreciation": {
     "published": "2026-04-08",
@@ -925,7 +925,7 @@
   },
   "how-insurance-adjusters-are-paid": {
     "published": "2026-05-03",
-    "modified": "2026-06-03"
+    "modified": "2026-06-29"
   },
   "how-insurance-payments-calculated": {
     "published": "2026-05-03",
@@ -940,10 +940,6 @@
     "modified": "2026-06-22"
   },
   "how-to-document-damage": {
-    "published": "2026-05-16",
-    "modified": "2026-06-27"
-  },
-  "how-to-read-insurance-estimate": {
     "published": "2026-05-16",
     "modified": "2026-06-27"
   },
@@ -1185,11 +1181,11 @@
   },
   "matching-impossible-banned-materials": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-29"
   },
   "matching": {
     "published": "2026-03-28",
-    "modified": "2026-06-19"
+    "modified": "2026-06-29"
   },
   "material-misrepresentation-nondisclosure": {
     "published": "2026-05-03",
@@ -1485,7 +1481,7 @@
   },
   "recorded-statements-siu": {
     "published": "2026-04-04",
-    "modified": "2026-06-13"
+    "modified": "2026-06-29"
   },
   "recording-insurance-inspections": {
     "published": "2026-04-08",
@@ -2005,7 +2001,7 @@
   },
   "wildfire-mudslide-coverage": {
     "published": "2026-04-08",
-    "modified": "2026-06-10"
+    "modified": "2026-06-29"
   },
   "wildfire-smoke-physical-loss": {
     "published": "2026-05-04",

@@ -300,6 +300,23 @@ export default function Content() {
           Cal. Ins. Code Sec. 2051 (Measure of indemnity); Cal. Ins. Code Sec. 790.03(h) (Unfair Claims Settlement Practices); 10 CCR Sec. 2695.7 and 2695.9 (Fair Claims Settlement Practices); <em>Egan v. Mutual of Omaha Ins. Co.</em>, 24 Cal.3d 809 (1979); Xactware EULA, Section 12.3; Verisk White Papers on Overhead and Profit, Labor Efficiencies Design, and Pricing Methodology.
         </p>
       </CalloutBox>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Related Reading
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Before mounting a challenge, it helps to understand the document you are challenging.
+        See{' '}
+        <Link href="/resources/how-to-read-xactimate-estimate" className="text-[#2E74B5] hover:underline">
+          How to Read Your Xactimate Estimate
+        </Link>{' '}
+        for the consumer-friendly walkthrough and{' '}
+        <Link href="/resources/xactimate-line-items" className="text-[#2E74B5] hover:underline">
+          How to Read an Xactimate Estimate Line by Line
+        </Link>{' '}
+        for the selector codes, line-item structure, and remove-and-replace mechanics.
+      </p>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.

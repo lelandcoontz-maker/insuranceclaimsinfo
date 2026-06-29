@@ -145,6 +145,14 @@ const nextConfig = {
       destination: '/resources/how-insurance-adjusters-are-paid',
       permanent: true,
     },
+    // 2026-06-29: how-to-read-insurance-estimate consolidated into how-to-read-xactimate-estimate
+    // (Tier 3 audit honorable-mention; 320-line generic-titled article was a thinner duplicate
+    // of the 1075-line Xactimate-named comprehensive guide)
+    {
+      source: '/resources/how-to-read-insurance-estimate',
+      destination: '/resources/how-to-read-xactimate-estimate',
+      permanent: true,
+    },
     // 2026-06-27: Tier 2 cannibalization cleanup
     // Cluster 1 — Appraisal triple-merge
     {
