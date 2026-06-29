@@ -33,6 +33,20 @@ export default function Content() {
         That&rsquo;s a mistake.
       </p>
 
+      <CalloutBox variant="warning" title="Same Name, Two Different Documents in Industry Usage">
+        <p>
+          The phrase &ldquo;statement of loss&rdquo; is also used in an older sense to mean the
+          insured&apos;s or Public Adjuster&apos;s own informal accounting worksheet &mdash; the
+          freeform document a PA assembles to organize the financial picture of a claim before
+          preparing a proof of loss. That document is unrelated to the carrier&apos;s settlement
+          breakdown discussed here. For the insured-side worksheet usage, see{' '}
+          <Link href="/resources/statement-of-loss" className="text-[#2E74B5] hover:underline">
+            The Statement of Loss: A Forgotten but Essential Claims Document
+          </Link>. This article is about the carrier&apos;s payment statement that arrives with
+          (or shortly after) a claim payment.
+        </p>
+      </CalloutBox>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What a Statement of Loss Is
       </h2>

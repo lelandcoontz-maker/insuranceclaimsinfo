@@ -72,9 +72,23 @@ export default function Content() {
       <CalloutBox variant="info" title="Two Different Documents">
         <p>
           A <strong>proof of loss</strong> is a sworn legal document submitted to your insurer. A{' '}
-          <strong>statement of loss</strong> is an informal accounting worksheet that organizes your
-          claim data. They serve different purposes, but the statement of loss is often the best way
-          to prepare for a proof of loss.
+          <strong>statement of loss</strong>, in the sense this article uses the term, is an
+          informal accounting worksheet that organizes your claim data. They serve different
+          purposes, but the statement of loss is often the best way to prepare for a proof of loss.
+        </p>
+      </CalloutBox>
+
+      <CalloutBox variant="warning" title="Same Name, Two Different Documents in Industry Usage">
+        <p>
+          The phrase &ldquo;statement of loss&rdquo; is also commonly used to mean a different
+          document: the <strong>carrier&apos;s</strong> settlement breakdown showing how it
+          calculated payments on each coverage (RCV, depreciation, deductible, net payment).
+          That document is sometimes called a &ldquo;loss statement,&rdquo; &ldquo;claim
+          summary,&rdquo; or &ldquo;settlement breakdown.&rdquo; If you are looking for the
+          guide to reading the carrier&apos;s payment statement, see{' '}
+          <Link href="/resources/reading-statement-of-loss" className="text-[#2E74B5] hover:underline">
+            How to Read Your Insurance Statement of Loss
+          </Link>. This article is about the older, insured/PA-prepared working worksheet.
         </p>
       </CalloutBox>
 
