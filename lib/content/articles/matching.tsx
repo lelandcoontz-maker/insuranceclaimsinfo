@@ -266,18 +266,39 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are in a dispute over matching and your insurer is refusing to budge, a licensed{' '}
-        <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">
           Public Adjuster
         </Link>{' '}
         can help you document the mismatch, identify the applicable regulations, and negotiate for
         the full scope of work needed to achieve a proper result.
       </p>
-      <hr className="my-8 border-gray-300" />
-      <p className="text-sm text-gray-500 italic">
-        This article is for informational purposes only and does not constitute legal advice. Insurance
-        policies and applicable law vary by state and by policy form. Consult with a licensed
-        professional regarding your specific situation.
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Going Deeper
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two companion articles cover related angles:
       </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <Link href="/resources/color-matching-material-aging" className="text-[#2E74B5] hover:underline">
+            Why New Materials Never Match: Color Matching, Material Aging, and What Your
+            Insurance Company Owes
+          </Link>{' '}
+          &mdash; the scientific basis: UV degradation, oxidation, thermal cycling, and the
+          state-by-state regulatory landscape (Iowa, Texas, Connecticut, Florida and the NAIC
+          model regulation).
+        </li>
+        <li>
+          <Link href="/resources/matching-impossible-banned-materials" className="text-[#2E74B5] hover:underline">
+            When Matching Is Impossible: Banned Materials, Discontinued Products, and Custom
+            Finishes
+          </Link>{' '}
+          &mdash; the edge cases where the original cannot be replicated, and how impossibility
+          expands the scope rather than reduces it. Includes the pair-and-set connection.
+        </li>
+      </ul>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.

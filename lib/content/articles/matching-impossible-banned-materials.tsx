@@ -55,7 +55,11 @@ export default function Content() {
         <Link href="/resources/matching" className="text-blue-700 underline hover:text-blue-900">
           matching
         </Link>{' '}
-        obligation at its most powerful.
+        obligation at its most powerful &mdash; and the underlying{' '}
+        <Link href="/resources/color-matching-material-aging" className="text-blue-700 underline hover:text-blue-900">
+          science of material aging
+        </Link>{' '}
+        explains why a perfect match was never realistic to begin with.
       </p>
 
       <CalloutBox variant="tip" title="The Carrier's Contractor Admitting Failure Is Your Best Evidence">

@@ -184,6 +184,20 @@ export default function Content() {
         <li><strong>Manufacturer documentation:</strong> Obtain product specifications, color charts, and any disclaimers regarding color consistency or lot-to-lot variation. If the product has been discontinued, obtain documentation confirming that fact.</li>
       </ul>
 
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Related Reading</h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For the California-specific legal treatment under 10 CCR &sect; 2695.9(a)(2) and the
+        depreciation-on-undamaged-items question, see our{' '}
+        <Link href="/resources/matching" className="text-[#2E74B5] hover:underline">
+          California matching article
+        </Link>. For situations where the original materials cannot be replicated &mdash;
+        asbestos cement siding, lead paint, discontinued products, or custom artisan work
+        &mdash; see{' '}
+        <Link href="/resources/matching-impossible-banned-materials" className="text-[#2E74B5] hover:underline">
+          When Matching Is Impossible
+        </Link>.
+      </p>
+
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">Conclusion</h2>
       <p className="text-gray-700 leading-relaxed mb-6">
         The matching problem is fundamentally a question of contract performance. The insurance company sold a policy that promises to restore the property to its pre-loss condition. A partial repair that leaves the homeowner with mismatched materials, visible repair lines, and a diminished property does not fulfill that promise. The science is clear: materials age in ways that cannot be reversed or replicated. The law is clear: policies requiring repair with materials of &quot;like kind and quality&quot; or restoration to &quot;pre-loss condition&quot; encompass visual uniformity, not merely functional replacement. When a carrier proposes to replace only the damaged section and leave the homeowner with a patchwork result, the response should be equally clear: the policy requires more. Document the mismatch. Preserve the evidence. Invoke the applicable regulation. And hold the carrier to the bargain it made when it accepted the premium.
