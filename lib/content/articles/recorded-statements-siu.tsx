@@ -264,6 +264,12 @@ export default function Content() {
         <Link href="/resources/examination-under-oath" className="text-blue-700 underline hover:text-blue-900">
           Examinations Under Oath
         </Link>,{' '}
+        <Link href="/resources/recorded-statement-preparation" className="text-blue-700 underline hover:text-blue-900">
+          how to prepare for a recorded statement or EUO
+        </Link>,{' '}
+        <Link href="/resources/hiring-attorney-for-euo" className="text-blue-700 underline hover:text-blue-900">
+          hiring a limited-scope attorney for your EUO
+        </Link>,{' '}
         <Link href="/resources/duties-after-loss" className="text-blue-700 underline hover:text-blue-900">
           duties after loss
         </Link>, and{' '}
