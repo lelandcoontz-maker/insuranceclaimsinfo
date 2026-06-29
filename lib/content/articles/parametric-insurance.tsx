@@ -346,6 +346,17 @@ export default function Content() {
           traditional coverage the policyholder can obtain.
         </p>
       </CalloutBox>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For a commercial-property focused treatment &mdash; trigger structures for earthquake,
+        flood, wind, heat, and wildfire on business risks, California regulatory treatment of
+        admitted vs. surplus-lines parametric products, and the business-interruption
+        coordination-of-benefits question &mdash; see{' '}
+        <Link href="/resources/parametric-insurance-commercial" className="text-[#2E74B5] hover:underline">
+          Parametric Insurance for Businesses
+        </Link>.
+      </p>
+
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">
         This article is for informational purposes only and does not constitute legal advice.
