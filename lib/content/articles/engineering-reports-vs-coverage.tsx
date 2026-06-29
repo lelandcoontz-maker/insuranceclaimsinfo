@@ -272,7 +272,7 @@ export default function Content() {
         and{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith insurance practices</Link>.
         For specific strategies on challenging carrier-retained engineers on roof claims, see our guide on{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] hover:underline">defeating carrier engineer reports</Link>.
+        <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] hover:underline">biased insurance experts and carrier engineer reports</Link>.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

@@ -1,8 +1,8 @@
 # InsuranceClaimsInfo.com — Full Article Index
-# 547 articles on California property insurance claims
+# 519 articles on California property insurance claims
 # Author: Leland Coontz III, Licensed Public Adjuster (CA #2B53445)
 # Site: https://insuranceclaimsinfo.com
-# Generated: 2026-06-20
+# Generated: 2026-06-29
 
 ---
 
@@ -22,7 +22,7 @@ Summary: California AB 597 is a pending bill that would cap Public Adjuster fees
 URL: https://insuranceclaimsinfo.com/resources/accidental-discharge-overflow
 Summary: A detailed guide to the accidental discharge or overflow peril in homeowners insurance — covering the ISO HO-3 language, the 14-day endorsement trap, tear-out coverage, carrier denial tactics, and how to fight for full payment on water damage claims in California.
 
-## Accommodation Payments: When the Insurance Company Pays What It Claims It Doesn
+## Accommodation Payments: When the Insurance Company Pays What It Claims It Doesn't Owe
 URL: https://insuranceclaimsinfo.com/resources/accommodation-payments
 Summary: An accommodation payment is one of the most calculated moves in the insurance playbook. The carrier pays money while simultaneously disclaiming coverage — creating a paper trail that protects the carrier, not you.
 
@@ -36,7 +36,7 @@ Summary: Accounts receivable (CP 04 04) and valuable papers (CP 04 07) coverage 
 
 ## ACV vs. RCV: Actual Cash Value vs. Replacement Cost Value
 URL: https://insuranceclaimsinfo.com/resources/acv-rcv
-Summary: Understanding the difference between actual cash value and replacement cost value, how depreciation works, and common insurer mistakes to watch for.
+Summary: How California measures actual cash value and replacement cost under Insurance Code § 2051(b) and the Fair Claims Settlement Practices Regulations — including why California is not a broad evidence rule state, how depreciation schedules and useful life numbers are derived, and where carrier depreciation breaks down on roofing, flooring, contents, and labor.
 
 ## Adding a Family Member to the Deed: The Insurance Consequences Nobody Mentions
 URL: https://insuranceclaimsinfo.com/resources/adding-family-member-deed-insurance
@@ -78,11 +78,7 @@ Summary: Insurance companies used to issue generous advance payments as a strate
 URL: https://insuranceclaimsinfo.com/resources/agreed-value-policies
 Summary: Agreed value, stated value, and replacement cost are three different insurance valuation methods. Understanding the differences determines whether your claim gets paid in full or reduced at the worst possible time.
 
-## Artificial Intelligence in Insurance Claims: What Policyholders Need to Know
-URL: https://insuranceclaimsinfo.com/resources/ai-claims-handling-policyholder-rights
-Summary: How insurers use AI to triage, evaluate, and deny claims — and what policyholders can do about it. Covers automated damage estimation, fraud scoring, the NAIC AI governance framework, and policyholder rights to challenge AI-driven decisions.
-
-## ALE Advance Payments: The 
+## ALE Advance Payments: The "Incurred Cost" Trap
 URL: https://insuranceclaimsinfo.com/resources/ale-advance-payments
 Summary: When your insurance company says they will only pay Additional Living Expenses after you spend the money — why that position is often wrong, what California law requires, and how to get advance ALE payments without fronting your own cash.
 
@@ -108,15 +104,11 @@ Summary: Anti-concurrent causation (ACC) clauses let insurers deny claims when a
 
 ## Insurance Appraisal in California: The Complete Guide
 URL: https://insuranceclaimsinfo.com/resources/appraisal
-Summary: How insurance appraisal works in California — the standard fire policy, the arbitration code, key case law (Kacha, Sharma, Devonwood, Lee v. California Capital), and how to protect your rights.
+Summary: Insurance appraisal in California — the Standard Fire Policy, the arbitration code overlay, key case law (Sharma, Kacha, Devonwood, Lee, Doan, Lambert, Mahnke), how to invoke it, the carrier tactics to watch for, and how to protect your rights.
 
 ## Choosing Between Appraisal, Mediation, and Litigation: A Decision Framework
 URL: https://insuranceclaimsinfo.com/resources/appraisal-mediation-litigation-decision
 Summary: A guide to deciding when appraisal, mediation, or litigation is the right dispute resolution path for your insurance claim — including cost and timeline comparisons, California-specific rules, and practical decision trees.
-
-## How and When to Invoke Appraisal in California: A Practitioner
-URL: https://insuranceclaimsinfo.com/resources/appraisal-practitioner-guide
-Summary: A comprehensive practitioner
 
 ## When the Standard Fire Policy Strips Away an Insurer's Appraisal Conditions
 URL: https://insuranceclaimsinfo.com/resources/appraisal-sfp-addition
@@ -125,6 +117,10 @@ Summary: How the Standard Fire Policy sets a minimum standard for appraisal righ
 ## Does Invoking Appraisal Toll the Statute of Limitations? (In California, the Safer Assumption Is No.)
 URL: https://insuranceclaimsinfo.com/resources/appraisal-tolling-statute-limitations
 Summary: Invoking appraisal does not toll the one-year suit limitation in California. Prudential-LMI tolls during the insurer’s investigation, but Singh, Marselis, and Doheny show courts have refused to extend tolling beyond that. Protect yourself: file a protective lawsuit and request a stay pending appraisal.
+
+## Games Insurers Play: The Appraisal Trap
+URL: https://insuranceclaimsinfo.com/resources/appraisal-trap-tactics
+Summary: How some insurers use procedural objections, umpire selection disputes, and timing delays to undermine the appraisal process — and the California statutes and cases an insured can lean on under California law.
 
 ## Asbestos and Lead Paint in Insurance Claims: How They Increase Repair Costs and Who Pays
 URL: https://insuranceclaimsinfo.com/resources/asbestos-lead-claims
@@ -148,15 +144,11 @@ Summary: When a second disaster strikes before the first claim is settled, polic
 
 ## Bad Faith Insurance Practices
 URL: https://insuranceclaimsinfo.com/resources/bad-faith
-Summary: Learn what constitutes bad faith by an insurance company in California, how to document it, the legal standards involved, and why building a paper trail from day one is essential.
+Summary: A plain-language and legally grounded guide to insurance bad faith in California: what it is, how to recognize it, key case law, available damages, the genuine-dispute defense, and how to build the paper trail your case depends on.
 
 ## Bad Faith Damages in California: What You Can Actually Recover
 URL: https://insuranceclaimsinfo.com/resources/bad-faith-damages
 Summary: A detailed guide to the damages available when a California insurer acts in bad faith — contract damages, consequential losses, emotional distress, punitive damages, Brandt fees, and elder abuse enhancements.
-
-## What Is 
-URL: https://insuranceclaimsinfo.com/resources/bad-faith-explained
-Summary: A plain-language primer on insurance bad faith in California: what it means, how to recognize it, key case law, available damages, and when to call a lawyer.
 
 ## Balloon Framing vs. Platform Framing: Why Your Home’s Construction Method Matters for Insurance Claims
 URL: https://insuranceclaimsinfo.com/resources/balloon-vs-platform-framing
@@ -205,10 +197,6 @@ Summary: A plumbing blockage that causes water to overflow from your fixtures is
 ## Brandt Fees: How California Bad Faith Law Lets You Recover Attorney Fees
 URL: https://insuranceclaimsinfo.com/resources/brandt-fees
 Summary: A detailed guide to Brandt fees in California insurance bad faith cases — how attorney fees incurred to obtain wrongfully withheld policy benefits are recoverable as compensatory damages under Brandt v. Superior Court.
-
-## Does California Follow the Broad Evidence Rule for Calculating Depreciation?
-URL: https://insuranceclaimsinfo.com/resources/broad-evidence-rule-acv
-Summary: California is not a broad evidence rule state. The Legislature displaced the common-law approach with a statutory formula in Insurance Code § 2051(b). This article explains how depreciation must be calculated under California law — including specific scenarios for damaged building materials, partial repairs with matching concerns, and personal property under Doan v. State Farm.
 
 ## Suing Your Insurance Broker or Agent for Inadequate Coverage
 URL: https://insuranceclaimsinfo.com/resources/broker-agent-liability
@@ -262,10 +250,6 @@ Summary: Business personal property (BPP) covers movable assets like furniture, 
 URL: https://insuranceclaimsinfo.com/resources/caci-jury-instructions-insurance
 Summary: What CACI jury instructions are, how they relate to case law, whether they have the force of law, and why the Series 2300 insurance litigation instructions matter when policyholders sue their insurance company.
 
-## California Appraisal Case Law and the Arbitration Code: What Policyholders Need to Know
-URL: https://insuranceclaimsinfo.com/resources/california-appraisal-case-law
-Summary: Key California case law on insurance appraisal — Sharma, Kacha, Lee, Doan, Lambert, Mahnke — and the California Arbitration Code provisions that apply to every appraisal proceeding in the state.
-
 ## California Insurance Claim Deadlines and Timeframes
 URL: https://insuranceclaimsinfo.com/resources/california-claim-deadlines
 Summary: Every deadline your California insurance company must meet — from acknowledging your claim to paying it. Know the rules so you can hold them accountable.
@@ -282,9 +266,9 @@ Summary: A section-by-section analysis of California's Fair Claims Settlement Pr
 URL: https://insuranceclaimsinfo.com/resources/california-fair-claims-regulations-full-text
 Summary: The verbatim text of the property-relevant provisions of 10 CCR §§ 2695.1–2695.14, the California Fair Claims Settlement Practices Regulations, with history, enforcement, interplay with the Standard Fire Policy, and how practitioners use them. A reference for policyholders, Public Adjusters, and attorneys.
 
-## The California FAIR Plan: What It Covers, What It Doesn't, and How to Apply
+## The California FAIR Plan: Coverage, Claims, Limits, and Reforms (610,000+ Policyholders)
 URL: https://insuranceclaimsinfo.com/resources/california-fair-plan
-Summary: A complete guide to the California FAIR Plan — the insurer of last resort for homeowners who can't get coverage in the private market.
+Summary: A complete guide to the California FAIR Plan — the state's insurer of last resort. Covers what it insures and excludes, the $3M residential cap, how to apply, how to file a claim, CDI examination findings, the Aliff smoke-damage ruling, AB 226 and AB 1680, and why a DIC policy is essential.
 
 ## Key California Insurance Case Law: Bad Faith, Coverage, and Appraisal
 URL: https://insuranceclaimsinfo.com/resources/california-insurance-case-law
@@ -302,9 +286,9 @@ Summary: Cannabis cultivation is legal in California for personal use, but most 
 URL: https://insuranceclaimsinfo.com/resources/carrier-claims-tactics
 Summary: The documented history of how McKinsey & Company and other consulting firms redesigned insurance claims handling to maximize carrier profits at the expense of policyholders.
 
-## When the Carrier
+## When the Carrier's Own Contractor Says It Can't Be Done: How Admissions of Failure Change Everything
 URL: https://insuranceclaimsinfo.com/resources/carrier-contractor-admits-failure
-Summary: When an insurance carrier
+Summary: When an insurance carrier's preferred vendor admits the approved repair scope is inadequate, policyholders gain powerful leverage. Learn how to capture, document, and deploy these admissions to overcome underpayment and bad faith.
 
 ## Know Your Carrier: How Major Insurance Companies Handle Property Claims
 URL: https://insuranceclaimsinfo.com/resources/carrier-profiles-know-your-carrier
@@ -330,10 +314,6 @@ Summary: After a declared disaster in California, insurers must provide at least
 URL: https://insuranceclaimsinfo.com/resources/cdi-advance-payments
 Summary: California law requires insurers to make advance payments after a total loss in a declared disaster. CDI Bulletin 2025-2 spells out these requirements — here is the full text with practical guidance.
 
-## Filing a CDI Complaint
-URL: https://insuranceclaimsinfo.com/resources/cdi-complaint
-Summary: How to file a complaint with the California Department of Insurance, what it accomplishes, and tips for writing an effective complaint.
-
 ## Personal Property Claims Without a Full Inventory: What California Law Requires
 URL: https://insuranceclaimsinfo.com/resources/cdi-contents-without-inventory
 Summary: After a total loss in a declared disaster, California law requires insurers to pay at least 60% of the contents (personal property) limit, up to $350,000, without requiring an itemized inventory (SB 495, eff. Jan 1, 2026). The CDI has repeatedly directed carriers to comply.
@@ -348,7 +328,7 @@ Summary: California law guarantees that total loss policyholders can rebuild or 
 
 ## Your Right to Claim Documents: What Insurers Must Provide Under California Law
 URL: https://insuranceclaimsinfo.com/resources/cdi-right-to-claim-documents
-Summary: California law requires insurers to provide all claim-related documents within 15 days of your request. Most policyholders don
+Summary: California law requires insurers to provide all claim-related documents within 15 days of your request. Most policyholders don't know this right exists. Here is the CDI's official notice explaining what you're entitled to.
 
 ## Smoke Damage Claims in California: CDI Bulletin 2025-7 and Your Rights
 URL: https://insuranceclaimsinfo.com/resources/cdi-smoke-damage-coverage
@@ -522,13 +502,13 @@ Summary: A guide to the contra proferentem doctrine in California insurance law.
 URL: https://insuranceclaimsinfo.com/resources/contractor-liens-insurance-claims
 Summary: When your insurance company delays or denies payment and a contractor files a mechanics lien on your property, you need to know your rights. This guide covers California mechanics lien law, preliminary notices, subcontractor liens, inflated lien defenses, and strategies for property owners caught between insurers and contractors.
 
-## Contractors and Deductibles: Not as Simple as 
+## Contractors and Deductibles: Not as Simple as "It's the Law"
 URL: https://insuranceclaimsinfo.com/resources/contractors-and-deductibles
 Summary: An in-depth analysis of contractor deductible waiver laws in Texas, California, Florida, and other states — what the statutes actually say, where they break down on real claims, and why the confident declarations about deductible law often collapse under scrutiny.
 
 ## Cosmetic Damage Denials: When Insurers Refuse to Fix What They Broke
 URL: https://insuranceclaimsinfo.com/resources/cosmetic-damage-denials
-Summary: Insurance companies increasingly deny claims for 
+Summary: Insurance companies increasingly deny claims for "cosmetic" damage — dents, discoloration, mismatched repairs. Learn why this argument often fails and what you can do.
 
 ## Coverage A vs. Coverage B: When Insurers Reclassify Your Dwelling to Reduce Your Claim
 URL: https://insuranceclaimsinfo.com/resources/coverage-a-vs-coverage-b
@@ -598,10 +578,6 @@ Summary: A section-by-section walkthrough of your homeowners insurance declarati
 URL: https://insuranceclaimsinfo.com/resources/deductibles-guide
 Summary: A complete guide to insurance deductibles — flat dollar, percentage-based, earthquake, wind/hurricane, how they interact with ACV and depreciation, and how to spot when your carrier has misapplied yours.
 
-## Defeating Carrier Expert Reports: Engineers, Inspectors, and Hired Professionals
-URL: https://insuranceclaimsinfo.com/resources/defeating-carrier-engineers
-Summary: This guide has been consolidated into our comprehensive article on biased insurance experts — covering all expert types, the feedback loop, limited assignments, and how to fight back.
-
 ## Book Review: Delay, Deny, Defend by Jay M. Feinman — Why Your Insurance Company Treats You Like an Adversary
 URL: https://insuranceclaimsinfo.com/resources/delay-deny-defend-review
 Summary: A detailed review of Jay Feinman's Delay, Deny, Defend — the book that exposed how insurance companies systematically deny legitimate claims. What the book gets right, what it means for property claims, and why every policyholder should read it.
@@ -613,10 +589,6 @@ Summary: After a catastrophe, construction costs spike dramatically due to labor
 ## Business Income from Dependent Properties: When Someone Else’s Loss Shuts Down Your Revenue
 URL: https://insuranceclaimsinfo.com/resources/dependent-property-business-income
 Summary: Dependent property business income coverage protects you when physical damage at a supplier, customer, manufacturer, or anchor business causes your revenue to drop. Learn the four ISO categories, the CP 15 08 endorsement, common claim disputes, and how to document losses when the damage occurs at someone else’s property.
-
-## Depreciation Schedules and Useful Life: How Insurance Companies Reduce Your Payment
-URL: https://insuranceclaimsinfo.com/resources/depreciation-schedules-useful-life
-Summary: How insurance carriers use depreciation schedules and useful life determinations to reduce claim payouts, why these numbers are often arbitrary and skewed against policyholders, and how to challenge them under California Insurance Code Section 2051.
 
 ## Depublication: How California Insurance Law Disappears
 URL: https://insuranceclaimsinfo.com/resources/depublication-hidden-insurance-law
@@ -682,13 +654,9 @@ Summary: Earth movement is excluded from standard homeowner policies, but Califo
 URL: https://insuranceclaimsinfo.com/resources/earthquake-insurance
 Summary: A complete guide to earthquake insurance in California — CEA coverage and limitations, private carrier alternatives from Palomar and GeoVera, deductible structures, claims handling differences, and how the efficient proximate cause doctrine affects earthquake-related losses.
 
-## E-Commerce Business Insurance Claims: When Your Property Is Digital, Your Warehouse Is Rented, and Your Policy Wasn
+## E-Commerce Business Insurance Claims: When Your Property Is Digital, Your Warehouse Is Rented, and Your Policy Wasn't Designed for This
 URL: https://insuranceclaimsinfo.com/resources/ecommerce-business-insurance-claims
 Summary: E-commerce businesses fall through traditional insurance gaps: the home-based business exclusion, electronic data sublimits, off-premises inventory, and business income when your website goes down. Learn how to identify and close the coverage gaps before a loss exposes them.
-
-## The Efficient Proximate Cause Doctrine: When Your Insurer Blames an Excluded Cause for a Covered Loss
-URL: https://insuranceclaimsinfo.com/resources/efficient-proximate-cause
-Summary: California's efficient proximate cause doctrine requires insurers to cover a loss when a covered peril set the chain of events in motion, even if an excluded peril contributed. Learn the landmark cases, the Insurance Code, and how this doctrine works through a real-world case study.
 
 ## The Efficient Proximate Cause Doctrine: When the Real Cause of Your Loss Is Covered
 URL: https://insuranceclaimsinfo.com/resources/efficient-proximate-cause-doctrine
@@ -706,7 +674,7 @@ Summary: How carrier-dispatched mitigation vendors create conflicts of interest 
 URL: https://insuranceclaimsinfo.com/resources/emotional-distress-bad-faith-claims
 Summary: How policyholders recover emotional distress damages when insurers act in bad faith — the special relationship doctrine, key California case law from Gruenberg to Egan, types of emotional distress claims, evidentiary requirements, elder abuse intersections, and practical guidance for documenting the human cost of claims misconduct.
 
-## Employee Dishonesty and the Crime Policy Gap: When 
+## Employee Dishonesty and the Crime Policy Gap: When "Theft" Doesn’t Mean What You Think
 URL: https://insuranceclaimsinfo.com/resources/employee-dishonesty-crime-gap
 Summary: Learn why your business property policy won’t cover employee theft, how crime policy sublimits leave businesses exposed, and what standalone coverage you actually need.
 
@@ -740,15 +708,11 @@ Summary: Equipment breakdown insurance (formerly boiler and machinery) covers me
 
 ## Equitable Tolling of the Statute of Limitations in California Insurance Claims
 URL: https://insuranceclaimsinfo.com/resources/equitable-tolling
-Summary: The one-year suit limitation is not as simple as it appears. Learn how equitable tolling pauses the clock while your insurer investigates your claim.
-
-## Equitable Tolling Edge Cases: When the Statute of Limitations Gets Complicated
-URL: https://insuranceclaimsinfo.com/resources/equitable-tolling-nuances
-Summary: A detailed guide to the tricky edge cases of equitable tolling in California insurance claims — closed files without notice, partial closures, claim reopening, clock calculations, and strategic moves to preserve your right to sue.
+Summary: The one-year suit limitation is not as simple as it appears. Equitable tolling pauses the clock while your insurer investigates — plus the edge cases that decide whether you keep or lose your right to sue.
 
 ## The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice
 URL: https://insuranceclaimsinfo.com/resources/estimate-bid-invoice-xactimate
-Summary: An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier
+Summary: An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier's preferred vendor estimate is not a competing bid, and how to challenge underpayments based on uncommitted numbers.
 
 ## Estoppel, Waiver, and Promissory Estoppel in Insurance Claims
 URL: https://insuranceclaimsinfo.com/resources/estoppel-waiver-insurance
@@ -776,7 +740,7 @@ Summary: A guide to insurance policy exclusions in California homeowner policies
 
 ## Expert Witnesses in Insurance Claim Litigation: Daubert Challenges, Claims Handling Experts, and Demolishing Carrier Experts
 URL: https://insuranceclaimsinfo.com/resources/expert-witnesses-insurance-litigation
-Summary: How expert witnesses are used in insurance property litigation, how to challenge the carrier
+Summary: How expert witnesses are used in insurance property litigation, how to challenge the carrier's biased experts through Daubert and Sargon motions, and why claims handling experts are the policyholder's most powerful weapon at trial.
 
 ## Extended Period of Indemnity: The Endorsement That Keeps Paying After You Reopen
 URL: https://insuranceclaimsinfo.com/resources/extended-period-of-indemnity
@@ -790,17 +754,13 @@ Summary: Many policyholders and even some attorneys confuse extra-contractual da
 URL: https://insuranceclaimsinfo.com/resources/extra-expense-coverage
 Summary: Extra expense coverage in commercial property insurance pays the additional costs a business incurs to continue operations after property damage. Learn how it differs from business interruption, how expediting expense works, and how to maximize your recovery.
 
-## The FAIR Plan Claims Process: What 610,000 Policyholders Need to Know
-URL: https://insuranceclaimsinfo.com/resources/fair-plan-claims-limitations
-Summary: How to file a FAIR Plan claim, what the FAIR Plan covers and excludes, the $3M residential cap, the current crisis with 610K+ policies, AB 1680 and AB 226 reforms, and why a DIC policy is essential.
-
 ## False Fraud Accusations in Insurance Claims: When Carriers Weaponize the SIU Process
 URL: https://insuranceclaimsinfo.com/resources/false-fraud-accusations-claims
 Summary: How insurers use false or pretextual fraud accusations to deny legitimate claims, the Special Investigations Unit process, policyholder rights during fraud investigations, burden of proof requirements, and practical defense strategies under California law.
 
 ## Closing Ratios: The Hidden Metric That May Be Driving Your Claim Outcome
 URL: https://insuranceclaimsinfo.com/resources/farmers-closing-ratio
-Summary: How insurance company 
+Summary: How insurance company "closing ratios" create perverse incentives for adjusters to underpay claims, what California policyholders should watch for, and how to document potential adjuster bias.
 
 ## Government Report: FEMA Fails to Oversee Flood Insurance Companies
 URL: https://insuranceclaimsinfo.com/resources/fema-nfip-oversight-failures
@@ -814,7 +774,7 @@ Summary: A step-by-step guide to filing a CDI complaint: what to include, what C
 URL: https://insuranceclaimsinfo.com/resources/fire-claim-denied
 Summary: What to do when your fire damage insurance claim is denied or underpaid — common denial reasons, your appeal rights, and how to challenge the denial under California law.
 
-## My House Was Damaged by Fire — A Beginner
+## My House Was Damaged by Fire — A Beginner's Guide
 URL: https://insuranceclaimsinfo.com/resources/fire-damage-beginners-guide
 Summary: A complete beginner's guide to fire damage insurance claims: the first 72 hours, ALE coverage, contents, smoke damage, timelines, and how to navigate the parallel tracks of dwelling, contents, and living expenses.
 
@@ -860,7 +820,7 @@ Summary: What happens when your mortgage lender force-places insurance on your p
 
 ## Insurance Claims on Properties in Foreclosure: Full Credit Bids and What They Mean for Your Money
 URL: https://insuranceclaimsinfo.com/resources/foreclosure-insurance-claims
-Summary: What happens to your insurance claim when your property is in foreclosure? How full credit bids can extinguish the lender
+Summary: What happens to your insurance claim when your property is in foreclosure? How full credit bids can extinguish the lender's right to your insurance proceeds — and how underbids preserve it.
 
 ## The Fortuity Doctrine in Insurance: When Carriers Claim Your Loss Was Not an Accident
 URL: https://insuranceclaimsinfo.com/resources/fortuity-doctrine-insurance
@@ -878,9 +838,9 @@ Summary: Frozen pipe claims involve unique coverage issues including the mainten
 URL: https://insuranceclaimsinfo.com/resources/full-credit-bid-foreclosure-insurance-claims
 Summary: If your lender makes a full credit bid at a California foreclosure sale, the lender may have extinguished its own right to your insurance proceeds. Established law, key cases, and the loan workout strategy.
 
-## Functional Replacement Cost: When Your Insurer Pays for 
+## Functional Replacement Cost: When Your Insurer Pays for "Function" Instead of Quality
 URL: https://insuranceclaimsinfo.com/resources/functional-replacement-cost
-Summary: Functional replacement cost policies let insurers substitute cheaper materials that serve the same 
+Summary: Functional replacement cost policies let insurers substitute cheaper materials that serve the same "function" as the original. Learn why plaster-to-drywall is not a true functional equivalent, which states use these policies, and how to fight back.
 
 ## Games Insurers Play: Musical Chairs With Adjusters — The Hidden Cost of Constant Reassignment
 URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-adjuster-musical-chairs
@@ -888,7 +848,7 @@ Summary: On long-duration California claims — particularly urban wildfire smok
 
 ## Games Insurers Play: When the Claims Process Meets the Worst Day of Your Life
 URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-claims-process-grief
-Summary: How the insurance claims machine produces outcomes that compound trauma — not through malice, but through a system that wasn
+Summary: How the insurance claims machine produces outcomes that compound trauma — not through malice, but through a system that wasn't designed for grief. What happens when a routine claims process meets a family in crisis.
 
 ## Games Insurers Play: The ‘We Need More Documentation’ Endless Loop
 URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-documentation-loop
@@ -896,7 +856,7 @@ Summary: How insurance companies use endless documentation requests as a delay t
 
 ## Games Insurers Play: How Carriers Capture, Limit, and Selectively Disclose Their Own Experts
 URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-expert-capture
-Summary: Insurance companies retain 
+Summary: Insurance companies retain "independent" experts — engineers, industrial hygienists, contractors — to evaluate claims. Two recurring patterns shape what those experts actually produce: scope-limiting instructions kept secret from the insured, and selective disclosure when a first expert produces a report the carrier does not want to use. Both practices are widely observed, both violate the California Fair Claims Settlement Practices Regulations in many cases, and both have specific procedural remedies the policyholder can invoke.
 
 ## Games Insurers Play: The ‘Preferred Vendor’ Steering Game
 URL: https://insuranceclaimsinfo.com/resources/games-insurers-play-preferred-vendor
@@ -914,9 +874,9 @@ Summary: The genuine dispute doctrine is the most common defense insurers raise 
 URL: https://insuranceclaimsinfo.com/resources/glass-breakage-claims
 Summary: How glass breakage is covered under homeowner and commercial policies, the vandalism glass exclusion, tempered glass code upgrades, thermal stress denials, and creative coverage arguments your adjuster should know.
 
-## Book Review: From Good Hands to Boxing Gloves by David Berardinelli — The Allstate Documents They Never Wanted You to See
+## Book Review: From Good Hands to Boxing Gloves by David Berardinelli
 URL: https://insuranceclaimsinfo.com/resources/good-hands-boxing-gloves-review
-Summary: A detailed review of David Berardinelli's From Good Hands to Boxing Gloves — the book that exposed Allstate's McKinsey-driven Claims Core Process Redesign. What the internal documents reveal, how CCPR works, and what it means for policyholders dealing with any major carrier.
+Summary: A review of David Berardinelli's From Good Hands to Boxing Gloves, which Berardinelli built from internal Allstate and McKinsey documents he obtained in litigation and published after California courts denied Allstate's motions to seal the record. What Berardinelli documents about CCPR, and what it means for property claims today.
 
 ## Gym and Fitness Center Insurance Claims: Equipment, Membership Revenue, and the Floor That Costs More Than You Think
 URL: https://insuranceclaimsinfo.com/resources/gym-fitness-center-insurance-claims
@@ -953,6 +913,10 @@ Summary: Historic homes present unique insurance challenges. Learn why standard 
 ## How the Tort of Bad Faith Was Invented: The History That Changed Insurance Law Forever
 URL: https://insuranceclaimsinfo.com/resources/history-of-bad-faith
 Summary: The complete history of bad faith insurance law in California — from Comunale and Gruenberg to the Shernoff firm and Egan v. Mutual of Omaha. How the tort was invented, how it evolved, how damages are calculated, and the realistic challenges of winning a bad faith claim.
+
+## The History of FAIR Plans: From 1968 Urban Riot Insurance to Today's Wildfire Crisis
+URL: https://insuranceclaimsinfo.com/resources/history-of-fair-plans
+Summary: How FAIR Plans evolved from a 1968 federal response to inner-city riot losses and redlining into today's wildfire-zone insurer of last resort. Covers the federal NIDP origin, where FAIR Plans operate today, Florida Citizens' separate lineage, DP-1 vs DP-3 forms, commercial coverage, the critical FRV vs ALE distinction, eligibility, and the California wildfire-zone reality.
 
 ## Hoarding and Insurance Coverage: When a Mental Health Condition Meets Your Homeowner Policy
 URL: https://insuranceclaimsinfo.com/resources/hoarding-insurance-coverage
@@ -1024,7 +988,7 @@ Summary: When an insurance carrier&apos;s approved repair fixes one problem but 
 
 ## The Independent Adjuster: Who They Actually Work For
 URL: https://insuranceclaimsinfo.com/resources/independent-adjuster-explained
-Summary: Independent adjusters are hired by insurance companies, not policyholders. Learn how IA firms operate, how adjusters are compensated, why 
+Summary: Independent adjusters are hired by insurance companies, not policyholders. Learn how IA firms operate, how adjusters are compensated, why "independent" is misleading, and what this means for your claim.
 
 ## When Inflation Guard Works Against You: The Coinsurance Trap Hidden in Automatic Increases
 URL: https://insuranceclaimsinfo.com/resources/inflation-guard-coinsurance-weapon
@@ -1058,9 +1022,9 @@ Summary: When you receive a check from your insurance company, don't just cash i
 URL: https://insuranceclaimsinfo.com/resources/insurance-claim-assignments
 Summary: A guide to the four types of insurance claim assignments — assignment of benefits, assignment of claim, assignment of rights, and assignment of policy — and why the distinctions matter for policyholders, contractors, and attorneys.
 
-## Insurance Claim Glossary: 50 Terms in Plain English
+## Insurance Claim Glossary: Plain English Definitions
 URL: https://insuranceclaimsinfo.com/resources/insurance-claim-glossary
-Summary: Every insurance term you will encounter during a property claim, defined in one sentence each. No jargon, no legalese — just clear definitions.
+Summary: Common insurance terms encountered during a property claim, defined in one sentence each. No jargon, no legalese — just clear definitions.
 
 ## The Insurance Claims File: What It Contains, Your Right to Request It, and How It Changes Claim Outcomes
 URL: https://insuranceclaimsinfo.com/resources/insurance-claims-file
@@ -1082,7 +1046,7 @@ Summary: Insurance advertising promises protection, personal service, and good f
 URL: https://insuranceclaimsinfo.com/resources/insurance-mediation
 Summary: Mediation can resolve insurance claim disputes faster and cheaper than litigation. Learn when it works, when it doesn't, and how to prepare for a strong outcome.
 
-## Insurance Myths Exposed: What Your Adjuster Won
+## Insurance Myths Exposed: What Your Adjuster Won't Correct and What You Believe That Isn't True
 URL: https://insuranceclaimsinfo.com/resources/insurance-myths-debunked
 Summary: Common property insurance myths debunked with California case law, statutes, and regulations. From carrier misinformation to policyholder misunderstandings — what the law actually says.
 
@@ -1102,11 +1066,11 @@ Summary: What happens when your insurer directs you to spend policy proceeds on 
 URL: https://insuranceclaimsinfo.com/resources/insurer-disclosure-obligations
 Summary: California law imposes affirmative disclosure obligations on insurers — things they must proactively tell you about your claim. Most never do. Here is what they owe you and how to demand it.
 
-## Log Notes, Emails, and Bad Faith: How an Insurer
+## Log Notes, Emails, and Bad Faith: How an Insurer's Own Records Can Win Your Case
 URL: https://insuranceclaimsinfo.com/resources/insurer-documentation-bad-faith
-Summary: An insurer
+Summary: An insurer's internal claim file — adjuster diary notes, emails, reserve changes, and supervisor directives — can reveal the real reasons behind a denial or underpayment. Learn how to obtain these records, what to look for, and how they support bad faith claims.
 
-## Your Right to Know How Your Claim Was Calculated: The Insurer
+## Your Right to Know How Your Claim Was Calculated: The Insurer's Duty to Explain Every Payment
 URL: https://insuranceclaimsinfo.com/resources/insurer-duty-to-explain-payment
 Summary: California law requires your insurance company to explain the basis of every payment and share the documents it relied on. Most policyholders never exercise these rights. Here is how to use them.
 
@@ -1114,17 +1078,9 @@ Summary: California law requires your insurance company to explain the basis of 
 URL: https://insuranceclaimsinfo.com/resources/insurer-fraud-vs-bad-faith
 Summary: When does insurance company misconduct cross from bad faith into actual fraud? This article explains the legal distinction, different elements of proof, statutes of limitations, punitive damages, and real-life examples where courts found fraud or rejected fraud claims against insurers.
 
-## What Happens If My Insurance Company Goes Out of Business?
-URL: https://insuranceclaimsinfo.com/resources/insurer-goes-out-of-business
-Summary: How CIGA (California Insurance Guarantee Association) protects policyholders when an insurer becomes insolvent, what is covered, what is not, and how to check if your carrier is admitted.
-
 ## When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know
 URL: https://insuranceclaimsinfo.com/resources/insurer-insolvency-ciga
-Summary: What happens when your California insurance company is declared insolvent. How the California Insurance Guarantee Association (CIGA) works, coverage caps, surplus lines gaps, the claims process, and how to protect yourself in the current California market.
-
-## When Your Insurance Company Fails: The Guaranty Fund Safety Net and Its Limits
-URL: https://insuranceclaimsinfo.com/resources/insurer-insolvency-guaranty-fund
-Summary: What happens when an insurance company becomes insolvent in California. How the California Insurance Guarantee Association (CIGA) works, the $500,000 cap, covered and non-covered claims, and how to protect yourself.
+Summary: What happens when your California insurance company goes out of business. How the California Insurance Guarantee Association (CIGA) works, the conservation and liquidation process, coverage caps, surplus lines gaps, the claims process, deadlines, and how to protect yourself in the current California market.
 
 ## What to Do When Your Insurance Company Stops Returning Calls
 URL: https://insuranceclaimsinfo.com/resources/insurer-not-responding
@@ -1134,9 +1090,9 @@ Summary: A concrete escalation path when your insurer goes silent: supervisor re
 URL: https://insuranceclaimsinfo.com/resources/insurer-obligations-cheat-sheet
 Summary: A pocket reference of every California deadline and obligation your insurer must meet during your claim, with the exact regulation citations.
 
-## The Insurer
+## The Insurer's Option to Repair: When the Carrier Wants to Fix It Instead of Pay You
 URL: https://insuranceclaimsinfo.com/resources/insurer-option-to-repair
-Summary: Understanding the insurance carrier
+Summary: Understanding the insurance carrier's contractual option to repair, rebuild, or replace damaged property instead of paying cash — what it means for policyholders, how carriers use it strategically, and how California law limits its abuse.
 
 ## When Your Insurer Tries to Rewrite Your Policy After a Loss: The Doctrine of Reformation and Carrier Misuse
 URL: https://insuranceclaimsinfo.com/resources/insurer-reformation-policy
@@ -1144,7 +1100,7 @@ Summary: How insurance companies attempt to use the legal doctrine of reformatio
 
 ## Inverse Condemnation: Suing Utilities After a California Wildfire
 URL: https://insuranceclaimsinfo.com/resources/inverse-condemnation
-Summary: When a utility causes a wildfire, you may have a claim beyond your insurance policy. Learn how inverse condemnation works in California — strict liability, damages, and how it differs from negligence.
+Summary: When a utility causes a wildfire, an insured may have a claim beyond the insurance policy. How inverse condemnation works in California — strict liability, the substantial-cause / inherent-risk test under City of Oroville, damages, and how it differs from negligence.
 
 ## Smart Home Devices and Insurance Claims: When Your Home Monitors Both Help and Hurt You
 URL: https://insuranceclaimsinfo.com/resources/iot-smart-home-insurance-claims
@@ -1166,17 +1122,9 @@ Summary: When a covered loss opens walls and reveals knob-and-tube or aluminum b
 URL: https://insuranceclaimsinfo.com/resources/kurach-op-policy-restrictions
 Summary: In Kurach v. Truck Insurance Exchange (Pa. 2020), the Pennsylvania Supreme Court upheld policy language that withholds general contractor overhead and profit until the policyholder actually pays for it. Learn how this 4-3 decision works, what it changed, and how to check whether your own policy contains similar restrictions.
 
-## Labor Depreciation: Why Your Insurance Company Can't Depreciate Work Costs
-URL: https://insuranceclaimsinfo.com/resources/labor-depreciation
-Summary: In California, labor depreciation is prohibited by regulation: 10 CCR §2695.9(f)(1) bars carriers from treating labor as a component of physical depreciation. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn what labor depreciation is, the California prohibition, and how to challenge it on your claim.
-
-## Labor Depreciation: Can Labor 
+## Labor Depreciation: Can Labor "Wear Out"? California Says No — By Regulation
 URL: https://insuranceclaimsinfo.com/resources/labor-depreciation-debate
 Summary: A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: 10 CCR §2695.9(f)(1) prohibits labor depreciation in property claims. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.
-
-## Drug Contamination Claims for California Landlords: Meth Labs, Fentanyl, Grow Operations, and the Insurance Path to Recovery
-URL: https://insuranceclaimsinfo.com/resources/landlord-drug-contamination-claims
-Summary: When a tenant turns your rental property into a meth lab, a fentanyl-handling site, or an illegal cannabis grow operation, the cost to remediate routinely exceeds five figures and sometimes six. The path to insurance coverage runs through vandalism coverage, the innocent-landlord doctrine, and California’s Methamphetamine Contaminated Properties Cleanup Act. Here is how the analysis works, what an industrial hygienist actually does in these claims, what disclosure obligations attach going forward, and how to keep the carrier from defaulting to denial.
 
 ## Landlord's Duty to Disclose Building Conditions to Commercial Tenants
 URL: https://insuranceclaimsinfo.com/resources/landlord-duty-to-disclose
@@ -1270,17 +1218,13 @@ Summary: Insurance companies provide replacement cost estimates that tell policy
 URL: https://insuranceclaimsinfo.com/resources/mobile-manufactured-home-claims
 Summary: Manufactured and mobile homes face different construction standards, policy forms, and claims challenges than site-built homes. Learn the coverage gaps, valuation issues, and California protections.
 
-## The Mold Coverage Paradox: Covered, Excluded, and Everything In Between
-URL: https://insuranceclaimsinfo.com/resources/mold-coverage-paradox
-Summary: Mold is simultaneously covered and excluded under most homeowner policies. Learn the cause-vs-result distinction, how to properly allocate costs between dwelling coverage and the mold sublimit, and stop leaving money on the table.
-
 ## Mold Growth Science: How Fast Does Mold Really Develop?
 URL: https://insuranceclaimsinfo.com/resources/mold-growth-prediction-research
 Summary: Peer-reviewed research from VTT Finland and Oak Ridge National Laboratory established the VTT mold growth model — the basis for ASHRAE Standard 160 and the science behind modern moisture-risk assessment.
 
 ## Mold Losses: What Your Insurance Actually Covers
 URL: https://insuranceclaimsinfo.com/resources/mold-losses
-Summary: Understand how insurance policies handle mold damage, the difference between mold as a cause of loss and mold as an ensuing loss, and how to protect your claim when mold is present.
+Summary: How insurance policies actually handle mold damage in California: the cause-vs-result distinction, the ensuing-loss path on a covered water loss, the four variations of mold-exclusion language, IICRC S500 vs S520 cost allocation, and how to keep water-damage scope out of the mold sublimit.
 
 ## Why You Cannot Sue Your Insurer Under Insurance Code 790.03 — And What You Can Do Instead
 URL: https://insuranceclaimsinfo.com/resources/moradi-shalal-790
@@ -1306,13 +1250,9 @@ Summary: When two or more insurance policies cover the same property loss, dispu
 URL: https://insuranceclaimsinfo.com/resources/multiple-reasons-to-replace
 Summary: One of the biggest mistakes in insurance claim negotiation is arguing one reason for replacement when you have several. If only one of seven reasons is valid, the item may still need to be replaced. Learn how to avoid the tunnel-vision trap and use every argument available.
 
-## The Named Insured vs. 
+## The Named Insured vs. "An Insured" — Why the Distinction Matters More Than You Think
 URL: https://insuranceclaimsinfo.com/resources/named-insured-vs-an-insured
-Summary: Your insurance policy draws a sharp line between 
-
-## Named Perils vs. Open Perils: Why Your Contents Aren't Covered the Same as Your House
-URL: https://insuranceclaimsinfo.com/resources/named-perils-vs-open-perils
-Summary: The HO-3 split explained: your dwelling is covered for all risks, but your personal property is only covered for specific named perils. What this means and how to fix it.
+Summary: Your insurance policy draws a sharp line between "you" (the named insured) and "an insured" (resident relatives, spouses, and others). This distinction controls who has rights, who triggers exclusions, and who can recover after a loss. Learn why it matters and how to protect yourself.
 
 ## Named Insured vs. Additional Insured: Who Actually Has Rights Under Your Policy?
 URL: https://insuranceclaimsinfo.com/resources/named-vs-additional-insured
@@ -1372,7 +1312,7 @@ Summary: California Insurance Code Section 2051(b) limits deductions to physical
 
 ## Open Perils vs. Named Perils: The Most Important Distinction in Your Insurance Policy
 URL: https://insuranceclaimsinfo.com/resources/open-perils-vs-named-perils
-Summary: Understanding the difference between open perils and named perils coverage, how the HO-3 splits them between dwelling and contents, why the burden of proof changes everything, and what you can do to close the gap.
+Summary: Understanding the difference between open perils and named perils coverage, how the HO-3 splits them between the dwelling and personal property, why the burden of proof changes everything, and what you might consider doing to close the gap.
 
 ## Building Code & Ordinance or Law Coverage
 URL: https://insuranceclaimsinfo.com/resources/ordinance-law
@@ -1388,11 +1328,11 @@ Summary: When workplace safety regulations and building codes force upgrades dur
 
 ## Overhead & Profit: When Your Claim Should Include O&P
 URL: https://insuranceclaimsinfo.com/resources/overhead-and-profit
-Summary: Insurance companies routinely refuse to include overhead and profit in their estimates. Learn what O&P is, when you're entitled to it, and how to fight for it.
+Summary: Overhead and profit are owed whenever a general contractor is reasonably likely to be needed, typically when repairs span three or more trades. What O&P is, where the numbers come from, the case law from seven jurisdictions, and how to fight a carrier denial.
 
 ## Ownership and Authority in Insurance Claims: Non-Standard Property Situations
 URL: https://insuranceclaimsinfo.com/resources/ownership-and-authority-in-claims
-Summary: When property ownership is non-standard — a Medicaid/Medi-Cal recipient on the title, a life estate, probate-pending status, inherited property — coverage defenses multiply and authority over the claim gets murky. The guide to navigating the intersection of property ownership, estate law, and California insurance claims.
+Summary: When property ownership is non-standard — a Medi-Cal recipient on title, a life estate, property in probate, inherited property — the insurance claim gets harder. This article covers the insurance-side rules and flags the adjacent estate questions so you can route them to the right attorney.
 
 ## Pack-Out, Storage, and Cleaning of Personal Property: What Your Insurance Company Should Be Paying For
 URL: https://insuranceclaimsinfo.com/resources/packout-storage-process
@@ -1412,7 +1352,7 @@ Summary: How parametric insurance works for commercial properties, including tri
 
 ## Peak Season Endorsement: Protecting Seasonal Inventory Spikes That Standard Limits Miss
 URL: https://insuranceclaimsinfo.com/resources/peak-season-endorsement
-Summary: How the ISO CP 12 11 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.
+Summary: How the ISO CP 12 30 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.
 
 ## Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?
 URL: https://insuranceclaimsinfo.com/resources/period-of-restoration-disputes
@@ -1430,7 +1370,7 @@ Summary: Electronics, Oriental rugs, and landscaping present unique property ins
 URL: https://insuranceclaimsinfo.com/resources/pets-animals-coverage
 Summary: How homeowner insurance policies handle pets and animals after a disaster &mdash; personal property classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim.
 
-## PFAS 
+## PFAS 'Forever Chemicals' and Property Insurance: An Emerging Coverage Crisis
 URL: https://insuranceclaimsinfo.com/resources/pfas-forever-chemicals-property
 Summary: How PFAS contamination affects property values and insurance coverage, the new ISO PFAS exclusions appearing on policies, EPA reporting requirements, and what property owners should do to protect themselves.
 
@@ -1452,11 +1392,11 @@ Summary: A comprehensive overview of every major property insurance policy type 
 
 ## Is Your Insurance Policy Illegal? When Policy Language Conflicts with California Law
 URL: https://insuranceclaimsinfo.com/resources/policy-vs-law
-Summary: A California court ruled the FAIR Plan's fire policy 
+Summary: A California court ruled the FAIR Plan's fire policy "unlawful." But the problem goes far beyond one insurer. Here are the ways your policy may conflict with California statutes, case law, and regulations — and why the law wins.
 
 ## What Happens to Your Insurance If the Policyholder Dies?
 URL: https://insuranceclaimsinfo.com/resources/policyholder-death-coverage
-Summary: When the named insured dies — before or during a claim — coverage does not die with them. The Death clause, insurable interest, survival of causes of action, and the rules for who can continue the claim, all explained.
+Summary: When the named insured dies — before or during a claim — the insurance does not end immediately, but coverage starts contracting fast. This article covers the policy mechanics (Death clause, who can act, who collects, what happens to a pending claim) and flags the probate questions for an attorney.
 
 ## Your Rights as a California Policyholder
 URL: https://insuranceclaimsinfo.com/resources/policyholder-rights
@@ -1470,19 +1410,15 @@ Summary: How insurers misuse the pollution exclusion to deny fire and asbestos c
 URL: https://insuranceclaimsinfo.com/resources/polybutylene-cpvc-pipes
 Summary: Polybutylene and CPVC pipes fail without warning, causing catastrophic water damage. Learn how these pipe types affect insurance claims in California — coverage analysis, ensuing loss, code upgrades, and the sudden vs. gradual dispute.
 
-## Swimming Pool and Spa Insurance Claims: Coverage, Exclusions, and Common Disputes
-URL: https://insuranceclaimsinfo.com/resources/pool-spa-claims
-Summary: How swimming pools and spas are covered under homeowners insurance in California — Other Structures limits, equipment breakdown endorsements, earth movement disputes, freeze damage, resurfacing fights, and the efficient proximate cause doctrine.
-
 ## Post-Disaster Fraud and Scams: Protecting Yourself After a Loss
 URL: https://insuranceclaimsinfo.com/resources/post-disaster-scams
 Summary: After a disaster, scammers target vulnerable homeowners. Learn how to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other common scams — and how to protect yourself.
 
 ## Power of Attorney and Conservatorship in Insurance Claims: Managing the Claim of an Incapacitated Policyholder
 URL: https://insuranceclaimsinfo.com/resources/power-of-attorney-insurance-claims
-Summary: When a policyholder becomes incapacitated, someone else must take over the claim — either through a previously executed Power of Attorney or, if no POA exists, through a court-supervised conservatorship. The full guide to both paths: how durable POA works in insurance claims, what conservatorship requires under California Probate Code, how insurers resist each, and what families should do before incapacity strikes.
+Summary: When a policyholder becomes incapacitated, someone else has to take over the claim — through a previously-executed durable Power of Attorney, or through a court-supervised conservatorship if no POA exists. This article covers the insurance-side mechanics; the POA and conservatorship law belong to a California estate or probate attorney.
 
-## Pre-Existing Damage vs. Storm Damage: Fighting the 
+## Pre-Existing Damage vs. Storm Damage: Fighting the "Wear and Tear" Denial
 URL: https://insuranceclaimsinfo.com/resources/pre-existing-vs-storm-damage
 Summary: Insurance companies routinely attribute storm damage to pre-existing conditions. Learn how to distinguish legitimate storm damage from wear and tear, build your evidence, and defeat the most common denial tactic in property insurance.
 
@@ -1508,11 +1444,11 @@ Summary: Everything you need to know about the sworn proof of loss form, includi
 
 ## The Proof of Loss: What You Are Really Signing and How to Protect Yourself
 URL: https://insuranceclaimsinfo.com/resources/proof-of-loss-signing-strategy
-Summary: A proof of loss is a sworn statement that can lock you into the carrier
+Summary: A proof of loss is a sworn statement that can lock you into the carrier's numbers and waive coverages you didn't intend to surrender. Learn about partial proofs of loss, how to modify the carrier's form, state-by-state rules, and why NFIP flood claims demand special care.
 
 ## Trust-Owned Property and Insurance Claims: When the Named Insured Doesn’t Match the Trust
 URL: https://insuranceclaimsinfo.com/resources/property-held-in-trust-coverage
-Summary: Millions of California homes are held in revocable living trusts but insured in the individual’s name. This mismatch creates coverage disputes that insurers exploit to delay or deny claims. Learn how to properly insure trust-owned property, what to do after a loss, and the legal arguments — Probate Code §§ 15800 and 18100.5, Insurance Code § 281, estoppel, waiver, and bad faith — that protect policyholders.
+Summary: Many California homes are held in a revocable living trust but insured in the individual’s name. That mismatch is a recurring coverage dispute. This article covers the insurance-side mechanics: how to fix the policy, what happens after a loss, and which arguments are available when a carrier raises the mismatch as a defense.
 
 ## Protective Safeguards Endorsements: When a Lapsed Alarm Voids Your Entire Policy
 URL: https://insuranceclaimsinfo.com/resources/protective-safeguards
@@ -1544,7 +1480,7 @@ Summary: Decode the letters your insurance company sends — reservation of righ
 
 ## How to Read Your Insurance Statement of Loss: The Document That Shows Where Your Money Went
 URL: https://insuranceclaimsinfo.com/resources/reading-statement-of-loss
-Summary: The statement of loss is the carrier
+Summary: The statement of loss is the carrier's accounting of your entire claim — what it calculated, what it deducted, and what it paid on each coverage. Learning to read it is the first step to identifying underpayment.
 
 ## Real Insurance Claim Negotiation Case Studies: How the Back-and-Forth Actually Works
 URL: https://insuranceclaimsinfo.com/resources/real-negotiation-case-studies
@@ -1570,9 +1506,9 @@ Summary: California is a two-party consent state — but that doesn't mean you c
 URL: https://insuranceclaimsinfo.com/resources/recoverable-depreciation-deadline
 Summary: How the recoverable depreciation deadline works under California Insurance Code Section 2051.5, why carriers benefit when policyholders miss it, and how to protect yourself from losing the holdback. Covers the funding gap trap, clock triggers, extensions, completion requirements, contents vs. dwelling, and equitable defenses.
 
-## The Release Trap: What You
+## The Release Trap: What You're Really Signing When the Insurance Company Sends a Check
 URL: https://insuranceclaimsinfo.com/resources/release-trap-insurance-claims
-Summary: Understand what insurance claim releases actually do, why carriers push them aggressively, and how to protect yourself from signing away rights you didn
+Summary: Understand what insurance claim releases actually do, why carriers push them aggressively, and how to protect yourself from signing away rights you didn't know you had.
 
 ## Remediation vs. Restoration: The Distinction Insurance Companies Exploit to Underpay Your Claim
 URL: https://insuranceclaimsinfo.com/resources/remediation-vs-restoration
@@ -1594,10 +1530,6 @@ Summary: How replacement cost coverage works in practice — the holdback, the r
 URL: https://insuranceclaimsinfo.com/resources/replacement-cost-vs-guaranteed
 Summary: Standard replacement cost, extended replacement cost, and guaranteed (100% or unlimited) replacement cost are not the same thing. Learn how each one works, what California law requires, and why the distinction matters most after a disaster.
 
-## Reservation of Rights Letters: What They Mean and How to Respond
-URL: https://insuranceclaimsinfo.com/resources/reservation-of-rights
-Summary: What a reservation of rights letter means for your insurance claim, why carriers send them, how to respond, and when an ROR letter signals potential bad faith under California law.
-
 ## The Reservation of Rights Letter: What It Means and What to Do
 URL: https://insuranceclaimsinfo.com/resources/reservation-of-rights-letter
 Summary: A guide to reservation of rights (ROR) letters in California insurance claims. Learn what an ROR letter means, how it differs from a denial, the duty to defend, Cumis counsel, waiver and estoppel, and what policyholders should do when they receive one.
@@ -1612,7 +1544,7 @@ Summary: How insurance company reserves work, what adjuster authority levels mea
 
 ## How to Respond to Your Insurance Company in Writing: Tone, Strategy, and What Never to Say
 URL: https://insuranceclaimsinfo.com/resources/responding-to-insurer-in-writing
-Summary: A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase 
+Summary: A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase "bad faith" and how framing requests around harm creates a stronger claim file.
 
 ## Restaurant Insurance Claims: A Complete Guide to the Most Vulnerable Business in America
 URL: https://insuranceclaimsinfo.com/resources/restaurant-insurance-claims
@@ -1670,9 +1602,9 @@ Summary: Salons and spas face insurance exposures most business owners never ant
 URL: https://insuranceclaimsinfo.com/resources/salvage-rights
 Summary: How salvage works in property insurance claims &mdash; who owns damaged property after a loss, how salvage value affects your settlement, the right to retain salvage, and California-specific rules policyholders need to know.
 
-## SB 495: California's New Contents Payment Rule for Disaster Victims
+## SB 495: California's New Contents and Proof-of-Loss Rules After Declared Disasters
 URL: https://insuranceclaimsinfo.com/resources/sb495-contents-rule
-Summary: How SB 495 changes personal property claims after declared disasters — automatic 60% contents payments, no inventory required for 100 days, and what it means for policyholders.
+Summary: How SB 495 changes residential personal-property claims after declared emergencies: a 60% / $350,000 automatic contents advance under Ins. Code §10103.7 and a separate 100-day proof-of-loss extension under §2051.5(b)(3)(A).
 
 ## Scheduled Personal Property, Floaters & Exotic Item Coverage
 URL: https://insuranceclaimsinfo.com/resources/scheduled-personal-property
@@ -1696,7 +1628,7 @@ Summary: Insurance companies routinely apply overhead and profit to some portion
 
 ## Self-Storage Facility Insurance Claims: Thousands of Customers, Unknown Contents, and the Documentation Nightmare
 URL: https://insuranceclaimsinfo.com/resources/self-storage-facility-insurance-claims
-Summary: Self-storage facilities face unique insurance challenges from bailee coverage for thousands of customers
+Summary: Self-storage facilities face unique insurance challenges from bailee coverage for thousands of customers' property to climate-controlled unit failures, cascading water damage, and the impossible task of documenting unknown contents after a loss.
 
 ## Selling a Property With a Pending Insurance Claim
 URL: https://insuranceclaimsinfo.com/resources/selling-property-pending-claim
@@ -1738,7 +1670,7 @@ Summary: Silent cyber refers to cyber risks that are neither explicitly covered 
 URL: https://insuranceclaimsinfo.com/resources/silica-contamination
 Summary: Crystalline silica exposure during property damage repairs is a serious OSHA-regulated hazard. Learn what silica is, why it matters for your insurance claim, and what remediation your insurer should be paying for.
 
-## When Your Claim Is 
+## When Your Claim Is "Referred to SIU": What Special Investigations Really Means
 URL: https://insuranceclaimsinfo.com/resources/siu-referral-investigation
 Summary: A guide to Special Investigation Unit (SIU) referrals in California insurance claims. Covers what triggers an SIU investigation, your rights during the process, EUOs, surveillance, regulatory timelines, bad faith implications, and how to respond when your claim is under investigation.
 
@@ -1764,11 +1696,7 @@ Summary: Wildfire smoke can render an entire vintage worthless without burning a
 
 ## Seasonal and Snowbird Properties: The Six-Month Vacancy Problem
 URL: https://insuranceclaimsinfo.com/resources/snowbird-vacancy-coverage
-Summary: Retirees who split time between two homes face unique insurance traps: vacancy exclusions, the 
-
-## Social Media and Insurance Claims: What Policyholders Need to Know
-URL: https://insuranceclaimsinfo.com/resources/social-media-claims
-Summary: How insurance companies use social media, satellite imagery, and digital evidence to investigate property claims — and what policyholders should know to protect themselves.
+Summary: Retirees who split time between two homes face unique insurance traps: vacancy exclusions, the "where you reside" definition, frozen pipe denials, and mismatched policy types. Learn how the six-month vacancy problem works, what endorsements exist, and how to protect your seasonal property.
 
 ## Social Media and Your Insurance Claim: What Policyholders Actually Need to Know
 URL: https://insuranceclaimsinfo.com/resources/social-media-insurance-claims
@@ -1796,15 +1724,11 @@ Summary: How spoilage coverage protects perishable inventory from power outages 
 
 ## When Two Words Change Everything: How the Standard Fire Policy Turns Denials Into Coverage
 URL: https://insuranceclaimsinfo.com/resources/standard-fire-policy-denials-to-coverage
-Summary: In roughly 30 states, the Standard Fire Policy acts as a statutory floor for fire insurance. When your insurer
+Summary: In roughly 30 states, the Standard Fire Policy acts as a statutory floor for fire insurance. When your insurer's policy deviates from the standard in ways less favorable to you, courts have consistently reformed the policy — turning denials into coverage.
 
 ## California’s Standard Fire Policy: What Insurance Code 2070 Actually Says and Why It Matters
 URL: https://insuranceclaimsinfo.com/resources/standard-fire-policy-insurance-code-2070
 Summary: A guide to California Insurance Code 2070 and the standard fire policy set forth in Section 2071. Learn how this statutory floor protects policyholders, what happens when insurers deviate from the standard form, and why key provisions like the appraisal clause, suit limitation, and 60-day payment rule remain critical to every fire claim in California.
-
-## Games Insurers Play: The Appraisal Trap
-URL: https://insuranceclaimsinfo.com/resources/state-farm-appraisal-trap
-Summary: How some insurers use procedural objections, umpire selection disputes, and timing delays to undermine the appraisal process — and how policyholders can fight back under California law.
 
 ## The Statement of Loss: A Forgotten but Essential Claims Document
 URL: https://insuranceclaimsinfo.com/resources/statement-of-loss
@@ -1834,17 +1758,13 @@ Summary: A guide for policyholders, Public Adjusters, and attorneys on why a spe
 URL: https://insuranceclaimsinfo.com/resources/sub-severe-hail-cumulative-damage
 Summary: IBHS research proves shingles hit by small hail become ten times more vulnerable to future storms. Your insurer cannot dismiss 'too-small' hail.
 
-## The Insurance Trap in 
+## The Insurance Trap in "Subject-To" Real Estate Deals: What Buyers and Sellers Need to Know
 URL: https://insuranceclaimsinfo.com/resources/subject-to-mortgage-insurance-trap
 Summary: When property changes hands in a subject-to transaction, the seller's insurance may be worthless and the buyer may have no coverage at all. Insurable interest, concealment, due-on-sale clauses, and the coverage gap that destroys families.
 
 ## Subrogation in Property Insurance: Your Right to Recover What the Insurer Won’t
 URL: https://insuranceclaimsinfo.com/resources/subrogation
 Summary: How subrogation works in California property insurance claims, your insurer’s duty to notify you, deductible recovery, the made-whole doctrine, and what happens when the insurance company sits on its hands.
-
-## Subrogation in Insurance Claims: What Policyholders Need to Know
-URL: https://insuranceclaimsinfo.com/resources/subrogation-insurance-claims
-Summary: A guide to subrogation in property insurance claims — the made whole doctrine, duty to cooperate, anti-subrogation rule, deductible recovery, and how subrogation investigations affect your claim timeline and settlement.
 
 ## The Sue and Labor Clause: One of the Oldest Duties in Insurance Law
 URL: https://insuranceclaimsinfo.com/resources/sue-and-labor-clause
@@ -1878,10 +1798,6 @@ Summary: How swimming pool damage is covered under homeowners insurance — Othe
 URL: https://insuranceclaimsinfo.com/resources/systematic-underinsurance-class-actions
 Summary: How insurers systematically undervalue properties at policy inception, leaving entire classes of policyholders underinsured when losses occur, and the class action litigation that has followed.
 
-## Tax Consequences of Insurance Claim Settlements
-URL: https://insuranceclaimsinfo.com/resources/tax-consequences-insurance-settlements
-Summary: A guide to the tax implications of insurance claim proceeds — when payouts are taxable, when they are not, involuntary conversion rules, business income, casualty loss deductions, and California-specific considerations.
-
 ## Tax Implications of Insurance Claim Settlements
 URL: https://insuranceclaimsinfo.com/resources/tax-implications-insurance-settlements
 Summary: A guide to the tax treatment of insurance claim proceeds — what is taxable, what is not, how to defer gains, and how to deduct unreimbursed casualty losses. Written for policyholders and the attorneys who represent them.
@@ -1897,10 +1813,6 @@ Summary: Pre-loss preparation checklist for California homeowners: read your dec
 ## Tenant Improvements and Betterments: Coverage Across Commercial, Condo, Flood, and Renters Policies
 URL: https://insuranceclaimsinfo.com/resources/tenant-improvements-betterments
 Summary: A guide to tenant improvements and betterments coverage across commercial property policies (ISO CP 00 10), HO-6 condo policies, NFIP flood insurance, and HO-4 renters insurance &mdash; including valuation methods, common disputes, and how to protect your interest before a loss occurs.
-
-## Tenant vs. Landlord Insurance Claims: Who Files, Who Pays, and Who Gets Left Out
-URL: https://insuranceclaimsinfo.com/resources/tenant-landlord-claims
-Summary: Landlord policies and renter’s policies cover different things. When a loss occurs at a rental property, who files for what? Learn the coverage gaps, CA Civil Code duties, and how to avoid being the one left without a check.
 
 ## Roof Leaks in Leased Commercial Space: The Coverage Gap That Destroys Businesses
 URL: https://insuranceclaimsinfo.com/resources/tenant-roof-leak-coverage-gap
@@ -1929,14 +1841,6 @@ Summary: When someone else damages your property, should you pursue their insura
 ## The “Three Bids” Myth: Why Your Insurance Company Cannot Require Multiple Contractor Estimates
 URL: https://insuranceclaimsinfo.com/resources/three-bids-myth
 Summary: No California statute, regulation, or policy provision requires policyholders to obtain three contractor bids before a claim will be paid. Here is where the myth comes from, why carriers use it, and how to respond.
-
-## The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit
-URL: https://insuranceclaimsinfo.com/resources/three-trade-rule
-Summary: The three-trade rule is a practical shorthand for a legal principle adopted by appellate courts across the country: overhead and profit are owed whenever a general contractor is reasonably likely to be needed. Nine verified case law citations, state regulatory authority, and practical guidance for policyholders.
-
-## The Three-Trade Rule: Why Your Insurance Company Owes Overhead and Profit
-URL: https://insuranceclaimsinfo.com/resources/three-trade-rule-overhead-profit
-Summary: The three-trade rule is a practical shorthand for a legal principle that appellate courts across the country have adopted and enforced for decades. Learn the case law, the regulatory authority, and how to fight for O&P on your claim.
 
 ## How Insurance Companies Use Time as Their Most Powerful Weapon
 URL: https://insuranceclaimsinfo.com/resources/time-pressure-negotiation-weapon
@@ -2018,7 +1922,7 @@ Summary: Valuable papers and records coverage pays to research and reconstruct l
 URL: https://insuranceclaimsinfo.com/resources/valued-policy-laws
 Summary: What valued policy laws are, which states have them, how they work in total loss claims, and the critical fact that California is NOT a valued policy state — meaning policyholders must prove actual loss even in total destruction.
 
-## Vandalism Claims: When Insurers Call It 
+## Vandalism Claims: When Insurers Call It "Wear and Tear"
 URL: https://insuranceclaimsinfo.com/resources/vandalism-claims
 Summary: How to handle vandalism insurance claims, push back when insurers mischaracterize vandalism as wear and tear, and document damage from break-ins, marijuana grows, and tenant destruction. Includes policy language analysis, the intent requirement, Bowers case law, burden of proof, and practical steps for policyholders.
 
@@ -2030,10 +1934,6 @@ Summary: How to handle an insurance claim when a vehicle strikes your home or co
 URL: https://insuranceclaimsinfo.com/resources/victim-becomes-villain-tort-reform
 Summary: How the insurance industry spent hundreds of millions turning injured people into villains — and how that narrative directly undermines your insurance claim today. The real story of Stella Liebeck, the funding behind tort reform, and what it means for policyholders.
 
-## Virtual Inspections and Remote Adjusting: How Desk Claims Affect Your Payout
-URL: https://insuranceclaimsinfo.com/resources/virtual-inspections-remote-adjusting
-Summary: How the shift to virtual inspections, desk adjusting, and remote claim handling affects property insurance claim outcomes — and what policyholders can do to protect their interests.
-
 ## The Virus and Bacteria Exclusion: How ISO CP 01 40 Killed Most COVID Business Interruption Claims
 URL: https://insuranceclaimsinfo.com/resources/virus-bacteria-exclusion-covid
 Summary: History and analysis of the ISO CP 01 40 virus and bacteria exclusion, its role in COVID-19 business interruption claim denials, key court decisions, the direct physical loss debate, and lessons for future pandemic planning.
@@ -2042,11 +1942,11 @@ Summary: History and analysis of the ISO CP 01 40 virus and bacteria exclusion, 
 URL: https://insuranceclaimsinfo.com/resources/waiver-of-subrogation-commercial-leases
 Summary: When your commercial lease requires a waiver of subrogation, your insurer cannot recover from the landlord — even if the landlord's negligence caused your loss. Learn how waivers work, the ISO endorsement, the deductible trap, and how to negotiate better lease terms.
 
-## Warehouse and Distribution Insurance Claims: When You
+## Warehouse and Distribution Insurance Claims: When You're Holding Everyone Else's Property
 URL: https://insuranceclaimsinfo.com/resources/warehouse-distribution-insurance-claims
 Summary: Warehouse and distribution facilities face unique insurance challenges from bailee coverage for customer goods to spoilage, sprinkler requirements, and the coinsurance problem with fluctuating inventory. Learn how to protect your operation and your claim.
 
-## Water Backup Endorsement: What It Actually Covers, What It Does Not, and Why Many 
+## Water Backup Endorsement: What It Actually Covers, What It Does Not, and Why Many "Backup" Claims Are Not Backups at All
 URL: https://insuranceclaimsinfo.com/resources/water-backup-endorsement
 Summary: A detailed guide to the water backup endorsement — what it covers, how sub-limits work, the critical mechanical difference between a true sewer backup and a plumbing blockage with overflow, common carrier denial tactics, and how to fight for proper coverage on water-from-drain claims.
 
@@ -2058,9 +1958,9 @@ Summary: A guide to IICRC S500 water damage categories (1-3) and classes (1-4), 
 URL: https://insuranceclaimsinfo.com/resources/water-damage-claims
 Summary: How to handle water damage insurance claims — from emergency response to final settlement. Covers sudden vs. gradual leaks, slab leaks, and common carrier disputes.
 
-## Water Damage and the 
+## Water Damage and the "Continuous or Repeated Seepage" Exclusion: Sudden vs. Gradual
 URL: https://insuranceclaimsinfo.com/resources/water-damage-seepage-exclusion
-Summary: California insurers routinely deny water-damage claims under the 
+Summary: California insurers routinely deny water-damage claims under the "continuous or repeated seepage or leakage" exclusion. Learn the sudden-versus-gradual distinction, who bears the burden of proof, and how the 2026 published decision Nargizyan v. State Farm limits this tactic.
 
 ## I Had a Water Leak — What Do I Do Right Now?
 URL: https://insuranceclaimsinfo.com/resources/water-leak-what-to-do
@@ -2072,7 +1972,7 @@ Summary: The most misunderstood exclusion in property insurance. Your policy exc
 
 ## The Wear and Tear Exclusion: When Insurance Companies Confuse Condition with Causation
 URL: https://insuranceclaimsinfo.com/resources/wear-and-tear-exclusion
-Summary: The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why 
+Summary: The wear and tear exclusion is a cause of loss exclusion, not a condition exclusion. It excludes losses caused by wear and tear — not losses to property that happens to show wear and tear. Learn why "condition is not causation," how California's efficient proximate cause doctrine protects policyholders with older property, and how to fight improper wear and tear denials.
 
 ## What Does My Homeowner Policy Actually Cover?
 URL: https://insuranceclaimsinfo.com/resources/what-does-homeowner-policy-cover
@@ -2086,9 +1986,9 @@ Summary: A plain-language explanation of what homeowners insurance covers, how i
 URL: https://insuranceclaimsinfo.com/resources/what-public-adjuster-does
 Summary: A plain-language explanation of what a Public Adjuster is, how they work, what they cost, and when hiring one makes sense for your insurance claim.
 
-## Your Insurance Company Just Called — What to Say and What Not to Say
+## The First Adjuster Call: What Policyholders Tend to Share, and What They Hold Back
 URL: https://insuranceclaimsinfo.com/resources/what-to-say-adjuster-calls
-Summary: A practical guide for your first conversation with the insurance adjuster. What to volunteer, what to hold back, and how to be cooperative without hurting your claim.
+Summary: A practical look at what many policyholders share, and what they hold back, on the first adjuster call after a property loss — and why an early dollar guess or a casual maintenance comment can follow the claim through to settlement.
 
 ## When NOT to File an Insurance Claim
 URL: https://insuranceclaimsinfo.com/resources/when-not-to-file-claim
@@ -2104,15 +2004,7 @@ Summary: A Certified Industrial Hygienist provides independent contamination doc
 
 ## Where You Reside: The Hidden Killer Exclusion in Your Homeowner Policy
 URL: https://insuranceclaimsinfo.com/resources/where-you-reside-exclusion
-Summary: The three words 
-
-## The White Waiver: California's Settlement-Privilege Waiver Explained
-URL: https://insuranceclaimsinfo.com/resources/white-waiver
-Summary: What the California White waiver is, where it comes from (White v. Western Title, 1985), why insurers ask you to sign one, and what to do when presented with one.
-
-## The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret
-URL: https://insuranceclaimsinfo.com/resources/white-waiver-insurance-settlement-confidentiality
-Summary: What a White waiver is, why insurers ask you to sign one, what rights you surrender, and how to protect yourself. California law on settlement confidentiality in insurance bad faith disputes.
+Summary: The three words "where you reside" in your homeowner policy definition can eliminate your coverage entirely — especially if you move to a nursing home. Learn how this hidden exclusion works, what courts in different states have ruled, and how to protect yourself.
 
 ## The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret
 URL: https://insuranceclaimsinfo.com/resources/white-waiver-settlement-confidentiality
@@ -2126,7 +2018,7 @@ Summary: A guide to California wildfire insurance claims — from immediate step
 URL: https://insuranceclaimsinfo.com/resources/wildfire-mudslide-coverage
 Summary: When a wildfire strips vegetation and the next rain triggers a mudslide, the earth movement exclusion does not apply. Learn how the efficient proximate cause doctrine and the California Department of Insurance protect policyholders.
 
-## Wildfire Smoke and 
+## Wildfire Smoke and "Direct Physical Loss": The Coverage Debate in California
 URL: https://insuranceclaimsinfo.com/resources/wildfire-smoke-physical-loss
 Summary: When wildfire smoke infiltrates a home without flames ever reaching it, does the contamination constitute direct physical loss under a homeowner policy? California courts are split, but the science and the law favor policyholders.
 
@@ -2134,25 +2026,25 @@ Summary: When wildfire smoke infiltrates a home without flames ever reaching it,
 URL: https://insuranceclaimsinfo.com/resources/wind-damage-claims
 Summary: How wind damage claims work, what's covered, disputes over wind vs. wear-and-tear, and how to document and fight for your full settlement.
 
-## How to Write a Letter to Your Insurance Company That Gets Results
+## What Effective Letters to an Insurance Company Tend to Look Like
 URL: https://insuranceclaimsinfo.com/resources/writing-effective-insurance-letter
-Summary: Template structure, tone guidance, and regulatory citations for writing demand letters and formal correspondence that moves your insurance claim forward.
+Summary: How effective demand letters and formal correspondence to insurance carriers are structured: tone, the regulations they commonly reference, and the pattern policyholders fall into for follow-up.
 
 ## Xactimate Estimates: What You Need to Know
 URL: https://insuranceclaimsinfo.com/resources/xactimate
 Summary: Learn how Xactimate estimating software works, why insurance estimates are often too low, and which line items adjusters commonly miss or underpay.
 
-## How Xactimate Works: A Policyholder
+## How Xactimate Works: A Policyholder's Guide to Insurance Estimates
 URL: https://insuranceclaimsinfo.com/resources/xactimate-how-it-works
 Summary: Xactimate is the software insurance companies use to price your claim. Understanding how it works — regional pricing databases, line items, labor settings, and its limitations — is the first step to getting paid fairly.
 
 ## Xactimate Labor Efficiency Settings: How Restoration vs. Rebuild Changes Every Line Item on Your Estimate
 URL: https://insuranceclaimsinfo.com/resources/xactimate-labor-efficiency-settings
-Summary: A guide on how Xactimate
+Summary: A guide on how Xactimate's labor efficiency settings affect every labor line item in an insurance estimate and how the wrong setting can systematically underpay an entire claim by thousands of dollars.
 
-## Xactimate Line Item Manipulation: How 
+## Xactimate Line Item Manipulation: How "Included" Makes Covered Items Disappear
 URL: https://insuranceclaimsinfo.com/resources/xactimate-line-item-manipulation
-Summary: A detailed guide for policyholders, Public Adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the 
+Summary: A detailed guide for policyholders, Public Adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the "included" designation and wrong codes to minimum charge suppression and missing items — and how to identify and challenge every tactic using Verisk's own documentation.
 
 ## How to Read an Xactimate Estimate Line by Line
 URL: https://insuranceclaimsinfo.com/resources/xactimate-line-items
@@ -2162,10 +2054,6 @@ Summary: A practical walkthrough of Xactimate estimates — how to read selector
 URL: https://insuranceclaimsinfo.com/resources/xactimate-not-the-law
 Summary: Xactimate dominates insurance estimating, but it is not a legal standard. Verisk's own EULA disclaims pricing accuracy. Multiple federal courts have rejected Xactimate as determinative. California regulations require actual market costs. Learn why your insurer's Xactimate estimate is a starting point — not the final word.
 
-## Overhead and Profit: When Your Insurance Company Owes It and Why They Refuse
-URL: https://insuranceclaimsinfo.com/resources/xactimate-overhead-profit
-Summary: Insurance carriers routinely deny overhead and profit on repair estimates. The 'three-trade rule' they cite has no legal basis. Here is what O&P actually is, when it's owed, and how to fight the denial.
-
 ## Who Owns Xactimate — And Why It Matters for Your Claim
 URL: https://insuranceclaimsinfo.com/resources/xactimate-ownership-conflict
 Summary: The software that prices your insurance claim is owned by the same industry that pays your claim. Here is the ownership chain, what it means, and why you should never accept an Xactimate estimate at face value.
@@ -2174,7 +2062,7 @@ Summary: The software that prices your insurance claim is owned by the same indu
 URL: https://insuranceclaimsinfo.com/resources/xactimate-price-list-dates
 Summary: How insurance companies use outdated Xactimate price lists to systematically underpay claims. Learn where to find the price list date, why it matters, and how to challenge an estimate built on stale pricing data.
 
-## Why Your Insurance Estimate Is Lower Than Your Contractor
+## Why Your Insurance Estimate Is Lower Than Your Contractor's Quote
 URL: https://insuranceclaimsinfo.com/resources/xactimate-pricing-gap
 Summary: Xactimate estimates are often 30% or more below actual repair costs. The software itself disclaims pricing accuracy. Here is why the gap exists and what you can do about it.
 

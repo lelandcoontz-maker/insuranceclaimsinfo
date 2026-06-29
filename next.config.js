@@ -130,6 +130,13 @@ const nextConfig = {
       destination: '/resources/appraisal-trap-tactics',
       permanent: true,
     },
+    // 2026-06-28: defeating-carrier-engineers consolidated into biased-insurance-experts
+    // (audit honorable-mention straight-duplicate pair; stub already self-identified as consolidated)
+    {
+      source: '/resources/defeating-carrier-engineers',
+      destination: '/resources/biased-insurance-experts',
+      permanent: true,
+    },
     // 2026-06-27: Tier 2 cannibalization cleanup
     // Cluster 1 — Appraisal triple-merge
     {

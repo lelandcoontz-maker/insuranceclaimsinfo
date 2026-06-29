@@ -319,8 +319,8 @@ export default function Content() {
           forensic engineer should inspect the roof and prepare a competing report that documents
           storm damage patterns, distinguishes them from pre-existing wear, and explains why the
           carrier&apos;s engineer&apos;s conclusions are wrong. See our guide on{' '}
-          <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] hover:underline">
-            defeating carrier engineer reports
+          <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] hover:underline">
+            biased insurance experts and carrier engineer reports
           </Link>.
         </li>
         <li>

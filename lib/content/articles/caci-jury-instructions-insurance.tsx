@@ -657,7 +657,7 @@ export default function Content() {
           <strong>Biased investigations matter.</strong> CACI 2332 requires a &ldquo;full, fair,
           prompt, and thorough investigation of <em>all</em> of the bases.&rdquo; If the insurer
           relied on a single{' '}
-          <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] underline">
+          <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] underline">
             carrier-friendly engineer report
           </Link>{' '}
           and ignored contradictory evidence, discuss with your attorney whether the investigation

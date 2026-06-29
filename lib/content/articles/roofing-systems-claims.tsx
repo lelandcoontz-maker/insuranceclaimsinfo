@@ -541,8 +541,8 @@ export default function Content() {
         on the cause and extent of damage. These reports carry significant weight in the claims
         process, and unfortunately, many of them are written with the goal of minimizing the
         insurer&rsquo;s exposure. Our{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] hover:underline">
-          guide to defeating carrier engineer reports
+        <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] hover:underline">
+          guide to biased insurance experts and carrier engineer reports
         </Link>{' '}
         covers this in depth.
       </p>

@@ -2605,14 +2605,6 @@ export const CATEGORIES: Category[] = [
         tagColor: 'bg-orange-100 text-orange-700',
       },
       {
-        icon: '🔬',
-        title: 'Defeating Carrier Engineer Reports',
-        desc: 'How carrier engineers operate, common report flaws, and a step-by-step rebuttal process to overturn engineer-based denials.',
-        href: '/resources/defeating-carrier-engineers',
-        tag: 'Roof Claims',
-        tagColor: 'bg-orange-100 text-orange-700',
-      },
-      {
         icon: '📐',
         title: 'When Engineering Reports Cross the Line',
         desc: 'Engineers determine how things failed — not whether damage is covered. The difference between engineering causation and legal causation under California law.',
@@ -5020,7 +5012,6 @@ export const RESOURCE_DROPDOWN_GROUPS: NavDropdownGroup[] = [
       { href: '/resources/appraisal', label: 'Insurance Appraisal' },
       { href: '/resources/appraisal-practitioner-guide', label: 'Appraisal Practitioner Guide' },
       { href: '/resources/matching', label: 'Matching Requirements' },
-      { href: '/resources/defeating-carrier-engineers', label: 'Defeating Carrier Engineers' },
       { href: '/resources/scope-vs-price-disputes', label: 'Scope vs. Price Disputes' },
       { href: '/resources/three-trade-rule', label: 'O&P: The Three-Trade Rule' },
       { href: '/resources/betterment-and-improvement', label: 'Betterment Deductions' },

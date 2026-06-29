@@ -316,7 +316,7 @@ export default function Content() {
         test the insurer&apos;s hypotheses, and prepare an independent report. This is particularly
         important when the insurer&apos;s C&amp;O findings form the basis for a denial or a coverage
         limitation. See our article on{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] underline">
+        <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] underline">
           challenging insurance company engineering reports
         </Link>.
       </p>
@@ -799,8 +799,8 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] underline">
-            Challenging Insurance Company Engineering Reports
+          <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] underline">
+            Biased Insurance Experts
           </Link>
         </li>
         <li>

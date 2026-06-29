@@ -474,10 +474,10 @@ export default function Content() {
         </li>
         <li>
           <Link
-            href="/resources/defeating-carrier-engineers"
+            href="/resources/biased-insurance-experts"
             className="text-blue-700 underline hover:text-blue-900"
           >
-            Defeating Carrier Engineers
+            Biased Insurance Experts
           </Link>{' '}
           &mdash; Strategies for challenging carrier expert reports
         </li>

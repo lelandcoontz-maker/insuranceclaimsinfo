@@ -307,7 +307,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In complex earth movement claims, the insurer will retain a geotechnical engineer or geologist. These insurer-retained experts often produce reports that attribute the earth movement to natural geological processes (excluded) rather than the covered peril that actually caused the instability. The reports may acknowledge the covered peril but minimize its role, framing natural conditions as the &ldquo;predominant&rdquo; cause. For guidance on how to evaluate and challenge these reports, see our article on{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] underline">defeating carrier engineers</Link>.
+        <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] underline">biased insurance experts and carrier engineers</Link>.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

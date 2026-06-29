@@ -894,7 +894,7 @@ export default function Content() {
         does not protect an insurer whose investigation was unreasonable. An insurer cannot
         conduct a 20-minute inspection, ignore contradicting evidence, and then claim the
         resulting low estimate is a &ldquo;genuine dispute.&rdquo; See our guide on{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] hover:underline">defeating carrier engineer reports</Link>{' '}
+        <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] hover:underline">biased insurance experts and carrier engineer reports</Link>{' '}
         and the{' '}
         <Link href="/resources/duty-to-investigate" className="text-[#2E74B5] hover:underline">insurer&apos;s duty to investigate</Link>.
       </p>

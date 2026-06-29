@@ -58,8 +58,8 @@ export default function Content() {
         attributes damage to pre-existing conditions, wear and tear, or anything other than the
         covered peril. Your own engineer can rebut those opinions with proper methodology. For a
         detailed guide on challenging carrier engineer reports, see{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] hover:underline">
-          Defeating Carrier Engineer Reports
+        <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] hover:underline">
+          Biased Insurance Experts
         </Link>.
       </p>
 

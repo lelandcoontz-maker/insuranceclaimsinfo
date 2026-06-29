@@ -272,7 +272,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Carriers frequently retain structural engineers who are predisposed to find that the damage does not constitute a collapse, or that the cause does not qualify. These engineers may describe the damage in language that tracks the policy exclusions &mdash; calling it &ldquo;differential settlement&rdquo; instead of collapse, or attributing it to &ldquo;long-term soil movement&rdquo; instead of hidden decay. For more on how to challenge these reports, see our article on{' '}
-        <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] underline">defeating carrier-retained engineers</Link>.
+        <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] underline">biased insurance experts and carrier-retained engineers</Link>.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -578,7 +578,7 @@ export default function Content() {
           <Link href="/resources/foundation-damage" className="text-[#2E74B5] underline">Foundation Damage Claims</Link> |{' '}
           <Link href="/resources/wildfire-mudslide-coverage" className="text-[#2E74B5] underline">Earth Movement and Mudslide Coverage</Link> |{' '}
           <Link href="/resources/anti-concurrent-causation" className="text-[#2E74B5] underline">Anti-Concurrent Causation Clauses</Link> |{' '}
-          <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] underline">Defeating Carrier-Retained Engineers</Link> |{' '}
+          <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] underline">Biased Insurance Experts</Link> |{' '}
           <Link href="/resources/construction-defect-claims" className="text-[#2E74B5] underline">Construction Defect Claims</Link> |{' '}
           <Link href="/resources/exclusions" className="text-[#2E74B5] underline">Understanding Policy Exclusions</Link>
         </p>

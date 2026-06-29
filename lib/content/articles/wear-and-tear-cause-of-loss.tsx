@@ -393,8 +393,8 @@ export default function Content() {
           <strong>Get an independent expert.</strong> A qualified roofing consultant or independent
           engineer can inspect the roof and opine on the cause of loss — distinguishing storm
           damage from age-related deterioration. See our guides on{' '}
-          <Link href="/resources/defeating-carrier-engineers" className="text-[#2E74B5] hover:underline">
-            defeating carrier engineer reports
+          <Link href="/resources/biased-insurance-experts" className="text-[#2E74B5] hover:underline">
+            biased insurance experts and carrier engineer reports
           </Link>{' '}
           and{' '}
           <Link href="/resources/hail-damage-science" className="text-[#2E74B5] hover:underline">
