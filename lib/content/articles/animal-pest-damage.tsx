@@ -103,11 +103,13 @@ export default function Content() {
         extend it to include larger animals like foxes or raccoons.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This vagueness works in the policyholder&rsquo;s favor. Under California law, ambiguous
-        policy terms are construed against the insurer that drafted them. If &ldquo;vermin&rdquo;
-        is the only exclusion the insurer can point to for raccoon damage, the policyholder has
-        a strong argument that the term is ambiguous and should be interpreted narrowly &mdash;
-        excluding rats and mice, perhaps, but not a 30-pound raccoon.
+        This vagueness tends to work in the policyholder&apos;s favor. Under California law,
+        ambiguous policy terms are construed against the insurer that drafted them. Where
+        &ldquo;vermin&rdquo; is the only exclusion the carrier can point to for raccoon
+        damage, the term&apos;s ambiguity is a real coverage question &mdash; courts have
+        construed similar pest-exclusion language narrowly in other contexts. Whether that
+        argument succeeds on a specific claim is a question for an insurance coverage attorney
+        with the policy and facts in hand.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -318,12 +320,13 @@ export default function Content() {
         HVAC System Contamination
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Birds that enter HVAC systems &mdash; through damaged vent covers, roof penetrations,
-        or inadequately screened openings &mdash; can contaminate ductwork with droppings,
-        feathers, and nesting material. Bird droppings carry histoplasmosis, a fungal
-        infection that can cause serious respiratory illness. Like raccoon contamination, this
-        is a health hazard that may require professional remediation beyond simple duct
-        cleaning.
+        Birds that enter HVAC systems &mdash; through damaged vent covers, roof
+        penetrations, or inadequately screened openings &mdash; can contaminate ductwork with
+        droppings, feathers, and nesting material. Accumulated bird and bat guano can
+        support growth of <em>Histoplasma capsulatum</em>, the fungus that causes
+        histoplasmosis (a respiratory illness that can be serious). Like raccoon
+        contamination, this is a health hazard that may require professional remediation
+        beyond simple duct cleaning.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -405,11 +408,16 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Bears are not rodents, not birds, not insects, and not vermin by any reasonable
-        definition. If the policy exclusion lists only &ldquo;birds, vermin, rodents, or
-        insects,&rdquo; bear damage is not excluded. Under the HO-3&rsquo;s open-peril
-        structure, a loss that is not specifically excluded is covered. Bear damage claims
-        can be significant &mdash; a bear that breaks through a door or wall can cause
-        thousands of dollars in structural damage plus interior damage from the intrusion.
+        definition. Where the policy exclusion lists only &ldquo;birds, vermin, rodents, or
+        insects,&rdquo; bear damage is generally not within that exclusion. On the HO-3
+        Dwelling and Other Structures coverages (open-perils), a loss not specifically
+        excluded is generally covered, subject to other policy terms. Personal property
+        on the HO-3 is written on a named-perils basis, so bear damage to personal
+        property is analyzed differently &mdash; the loss must fit one of the listed perils
+        (vandalism, theft, falling-objects in some narrow scenarios). The HO-5 form
+        instead covers personal property on an open-perils basis. Bear damage claims can
+        be significant &mdash; a bear that breaks through a door or wall can cause thousands
+        of dollars in structural damage plus interior damage from the intrusion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Even if the policy includes the &ldquo;or other animals&rdquo; catch-all, any
@@ -476,11 +484,12 @@ export default function Content() {
           year-round.
         </li>
         <li>
-          <strong>Protected species.</strong> Some animals that cause property damage are
-          protected under California law. Bats, for example, are protected species in
-          California &mdash; you cannot simply trap and remove them without complying with
-          California Department of Fish and Wildlife regulations. This can extend the duration
-          of an infestation and increase the resulting damage.
+          <strong>Regulated wildlife.</strong> Some animals that cause property damage are
+          regulated under California Fish &amp; Wildlife rules. Most California bat species,
+          for example, are regulated nongame mammals (under Cal. Fish &amp; Game Code
+          &sect;&sect; 4150, 4152, and Cal. Code Regs. tit. 14) and cannot simply be trapped
+          and removed without complying with applicable regulations. This can extend the
+          duration of an infestation and increase the resulting damage.
         </li>
         <li>
           <strong>Contra proferentem.</strong> California law requires that ambiguous policy
