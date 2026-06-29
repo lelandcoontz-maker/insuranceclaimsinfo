@@ -187,9 +187,33 @@ export default function Content() {
         as the person who prepared it. Get an independent review, compare line items, check
         measurements, and verify that the material specifications match what is actually in your
         home. If you are dealing with a significant claim, working with an
-        experienced <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">Public Adjuster</Link> who
+        experienced <Link href="/resources/public-adjuster" className="text-[#2E74B5] hover:underline">Public Adjuster</Link> who
         is proficient in Xactimate can make a substantial difference in your settlement.
       </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Going Deeper
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two companion articles cover Xactimate in more depth:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <Link href="/resources/xactimate-how-it-works" className="text-[#2E74B5] hover:underline">
+            How Xactimate Works
+          </Link>{' '}
+          &mdash; the policyholder&apos;s deep dive: how pricing is determined, what a line
+          item actually contains, how labor efficiency settings affect costs, how depreciation
+          and overhead and profit work, and what the raw ESX file reveals.
+        </li>
+        <li>
+          <Link href="/resources/xactimate-user-manual" className="text-[#2E74B5] hover:underline">
+            The Xactimate User Manual
+          </Link>{' '}
+          &mdash; the practitioner&apos;s reference: what the User Manual covers, certification
+          levels and what they mean, and practical tips for using the software effectively.
+        </li>
+      </ul>
 
       <hr className="my-8 border-gray-300" />
       <p className="text-sm text-gray-500 italic">

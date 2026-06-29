@@ -38,11 +38,18 @@ export default function Content() {
         What Xactimate Is and Who Uses It
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Xactimate is a property estimating platform developed by Verisk Analytics (formerly
-        Xactware). It contains a continuously updated pricing database of labor, material, and
-        equipment costs for virtually every component of residential and commercial construction.
-        The database is localized &mdash; pricing is adjusted by geographic area &mdash; and
-        updated regularly to reflect current market conditions, material costs, and labor rates.
+        Xactimate is the industry-standard property estimating platform from Verisk
+        Analytics (formerly Xactware), built on a continuously updated, geographically
+        localized pricing database for residential and commercial construction. For the
+        entry-level overview, see our{' '}
+        <Link href="/resources/xactimate" className="text-blue-700 underline hover:text-blue-900">
+          Xactimate overview
+        </Link>; for the deep policyholder-side dive into pricing, line items, labor
+        settings, depreciation, and overhead and profit, see{' '}
+        <Link href="/resources/xactimate-how-it-works" className="text-blue-700 underline hover:text-blue-900">
+          How Xactimate Works
+        </Link>. This article focuses on the User Manual itself, certification levels, and
+        practical guidance for using the software in a claims environment.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The software is used by nearly every major participant in the property claims process:

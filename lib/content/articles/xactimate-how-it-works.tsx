@@ -49,25 +49,15 @@ export default function Content() {
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">What Is Xactimate?</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Xactimate is estimating software made by Verisk, a data analytics company that was
-        formerly known as Xactware. It has been the dominant tool in the property insurance
-        industry for over two decades. Virtually every insurance carrier in the United States
-        uses Xactimate to write estimates. So do most independent adjusters, Public Adjusters,
-        and a growing number of contractors.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The software generates repair estimates based on a massive database of pricing
-        information organized by geographic area. It contains thousands of individual line items
-        covering every construction trade you can think of &mdash; roofing, plumbing, electrical,
-        drywall, painting, flooring, cabinetry, appliances, demolition, temporary protection,
-        and hundreds more.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The pricing database is updated monthly by zip code to reflect local market conditions.
-        In theory, this means the prices in Xactimate should approximate what it actually costs
-        to hire someone to do the work in your area. In practice, there are significant gaps
-        between what Xactimate says and what the work actually costs &mdash; especially after
-        catastrophic events when demand surges.
+        Xactimate is the dominant property insurance estimating software, made by Verisk
+        (formerly Xactware). Virtually every U.S. carrier, most independent and Public
+        Adjusters, and a growing number of contractors use it to write estimates. For the
+        entry-level overview &mdash; what Xactimate is, why insurer-prepared estimates are
+        often low, and the controversial line items insurers fight over &mdash; see our{' '}
+        <Link href="/resources/xactimate" className="text-[#2E74B5] hover:underline">
+          Xactimate overview
+        </Link>. This article goes deeper: how pricing, line items, labor settings,
+        depreciation, and overhead and profit actually work inside the software.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Because both sides of a claim typically use the same software, Xactimate functions as a
