@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Coverage A vs. Coverage B: When Insurers Reclassify Your Dwelling to Reduce Your Claim',
+  title: "Dwelling vs. Other Structures: Reclassification Tricks",
   description:
-    'Coverage A (dwelling) and Coverage B (other structures) carry very different limits. Learn how insurers reclassify structures to move damage from Coverage A to the much smaller Coverage B limit, and how to fight back.',
+    "Dwelling and Other Structures carry very different limits. How insurers reclassify structures to move damage to the smaller limit, and how to fight back.",
   summary:
     'Coverage A (dwelling) and Coverage B (other structures) carry very different limits. Insurers sometimes reclassify a structure into the smaller Coverage B to cut your payout. Know how each applies so you can contest an improper reclassification.',
 }

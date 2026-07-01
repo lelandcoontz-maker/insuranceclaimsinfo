@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Diminution in Value: When Your Home Is Worth Less Even After Repairs',
+  title: "Diminution in Value: Worth Less Even After Repairs",
   description:
-    'Even after full repairs, a property that suffered a major fire, flood, or structural failure may be worth less than it was before. Learn what diminution in value means, whether insurance covers it, and how to document and pursue a DIV claim.',
+    "Even after full repairs, a property that suffered a major fire, flood, or structural failure may be worth less. What DIV means and how to prove a DIV claim.",
   summary:
     'Even after full repairs, a home that suffered major fire, flood, or structural damage may be worth less, a loss called diminution in value. Whether insurance covers it varies; documenting the residual value loss is key to pursuing a DIV claim.',
 }

@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
-  title: 'How Long Does a Homeowner Insurance Claim Take? Realistic Timelines by Claim Type',
+  title: "How Long Does a Home Insurance Claim Take?",
   description:
-    'Realistic timelines for homeowner insurance claims by type — water damage, fire, mold, roof, and wildfire. Covers California regulatory deadlines, common causes of delay, and when delay becomes actionable bad faith.',
+    "Realistic timelines for home insurance claims by type: water, fire, mold, roof, and wildfire. California deadlines and when delay becomes actionable bad faith.",
   summary:
     'Claim timelines vary by type, from weeks for simple water damage to a year or more for fire and wildfire. California sets regulatory deadlines at each step, and unjustified delay past them can become actionable bad faith.',
 }

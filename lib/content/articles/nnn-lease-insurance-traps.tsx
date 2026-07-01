@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Triple Net (NNN) Lease Insurance Traps: When Your Lease Makes You Responsible for Everything',
+    "Triple Net (NNN) Lease Insurance Traps for Tenants",
   description:
-    'In a NNN lease the tenant is responsible for insurance, taxes, and maintenance — including building coverage most tenants assume the landlord carries. Learn the coverage gaps, what your lease language actually means, and how to protect yourself before a loss.',
+    "In a NNN lease the tenant carries insurance, taxes, and often building coverage. The coverage gaps, what your lease language means, and how to protect yourself.",
   summary:
     'In a triple net (NNN) lease, the tenant is responsible for insurance, taxes, and maintenance, often including building coverage tenants wrongly assume the landlord carries. Read the lease carefully and confirm who insures the structure before a loss.',
 }

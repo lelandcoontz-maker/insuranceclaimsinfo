@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Solar Panel Damage Insurance Claims: Coverage Disputes, Fire Code Setbacks, and Lease Complications',
+  title: "Solar Panel Damage Insurance Claims in California",
   description:
-    'Solar panels on California homes create unique insurance claim issues — Dwelling vs. Other Structures disputes, microinverter compatibility, fire code setback requirements, lease complications, and carrier tactics for underpaying panel damage.',
+    "Solar panels create unique California claim issues: Dwelling vs. Other Structures disputes, microinverter compatibility, fire code setbacks, and lease traps.",
   summary:
     'Solar panel claims raise Dwelling versus Other Structures disputes, microinverter compatibility, fire-code setback requirements, and lease complications. Carriers underpay panel damage; know how your system is insured and the code rules that drive the true repair cost.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The California FAIR Plan: Coverage, Claims, Limits, and Reforms (610,000+ Policyholders)',
+  title: "The California FAIR Plan: Coverage, Claims, Limits, Reforms",
   description:
-    'A complete guide to the California FAIR Plan — the state\'s insurer of last resort. Covers what it insures and excludes, the $3M residential cap, how to apply, how to file a claim, CDI examination findings, the Aliff smoke-damage ruling, AB 226 and AB 1680, and why a DIC policy is essential.',
+    "California's insurer of last resort - what the FAIR Plan covers and excludes, the $3M residential cap, CDI findings, the Aliff smoke ruling, AB 226 and AB 1680.",
   summary:
     'The California FAIR Plan is the insurer of last resort for homeowners who cannot get coverage in the private market. It now carries more than 610,000 policies and provides only basic, capped fire coverage at higher cost, so a companion DIC policy is almost always necessary. This guide walks through coverage, exclusions, the $3M cap, the claims process, CDI findings, the Aliff smoke-damage ruling, and pending reforms.',
 }

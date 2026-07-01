@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Insurer Antitrust Concerns and the FAIR Plan: When Market Withdrawal Looks Coordinated',
+  title: "Antitrust Questions Behind the FAIR Plan",
   description:
-    'When major insurers simultaneously withdraw from California, the FAIR Plan becomes the insurer of last resort for millions. The pattern raises serious antitrust questions that policyholders and regulators should understand.',
+    "When major insurers simultaneously withdraw from California, the FAIR Plan becomes the last resort for millions. The pattern raises serious antitrust questions.",
   summary:
     'When major insurers withdraw from California at once, pushing millions onto the FAIR Plan, the parallel conduct raises antitrust questions. Policyholders and regulators should understand the pattern and the limits of antitrust scrutiny here.',
 }

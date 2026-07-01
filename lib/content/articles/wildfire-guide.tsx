@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
+import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title: 'California Wildfire Claims: A Complete Guide',
@@ -375,6 +376,44 @@ export default function Content() {
           items
         </li>
       </ul>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4 mt-10">
+        Frequently Asked Questions
+      </h2>
+      <QABlock pairs={[
+        {
+          question: 'What does homeowners insurance cover in a California wildfire?',
+          answer: 'A standard California HO-3 policy covers four categories after a wildfire: the dwelling (repair or rebuild the home), other structures (fences, sheds, detached garages, retaining walls), personal property (belongings destroyed inside), and loss of use / additional living expenses (ALE). Additional coverages often add substantial value: debris removal, ordinance or law (code upgrades), extended replacement cost above the dwelling limit, and trees and landscaping. After a declared-disaster wildfire, California statutory extensions apply on top of policy language — 36 months to collect full replacement cost, at least 24 months of ALE, and the right to rebuild at a different location.',
+        },
+        {
+          question: 'How long does a California insurer have to pay a wildfire claim?',
+          answer: 'The Fair Claims Settlement Practices Regulations set the timelines. Under 10 CCR §2695.5(e), the insurer must acknowledge a claim within 15 calendar days. Under 10 CCR §2695.7(b), the insurer must accept or deny the claim within 40 days of receiving proof of the claim. Once accepted, payment is generally due within 30 days under 10 CCR §2695.7(h). The insurer must also send a written status update every 30 days while the claim is open. Blowing these deadlines is a Fair Claims Settlement Practices Act violation and, in a bad-faith case, can be evidence of a general business practice.',
+        },
+        {
+          question: 'Does homeowners insurance cover smoke damage from a wildfire?',
+          answer: 'Yes. Smoke damage from a covered fire is a covered loss, and CDI Bulletin 2025-7 confirms carriers cannot dismiss smoke claims as merely cosmetic. Urban wildfire smoke often carries dioxins, heavy metals, asbestos fibers, and other toxic contaminants from burning man-made structures — a materially different exposure from forest fire smoke that generally requires professional testing and specialized remediation. If a carrier is minimizing or refusing to test, request independent testing and cite Bulletin 2025-7.',
+        },
+        {
+          question: 'How long does ALE last after a wildfire?',
+          answer: 'California Insurance Code §2060(b)(1) sets a floor of 24 months of ALE after a declared-disaster wildfire, regardless of any shorter period stated in the policy. The insurer must grant up to 12 additional months — 36 months total — where an insured acting in good faith and with reasonable diligence encounters delays in reconstruction beyond the insured’s control (permitting delays, contractor shortages, debris removal timelines). Beyond that, recurring six-month extensions must be granted for good cause. The extended time does not raise the dollar cap in the policy; it extends the period over which the coverage can be used.',
+        },
+        {
+          question: 'Do I need a Public Adjuster or a lawyer for my wildfire claim?',
+          answer: 'The line between them is the type of dispute. When the fight is about the amount of the loss — undervalued dwelling estimate, missed scope, inadequate ALE, excessive contents depreciation — a Public Adjuster handles the technical work: estimate, contents inventory, ALE calculation, appraisal invocation. When the fight becomes legal — outright coverage denial, bad-faith conduct, an examination-under-oath demand, statute-of-limitations questions, or the need to pursue damages beyond the policy — that is attorney work. On large 2025-wildfire total losses, most policyholders end up needing both: the PA runs the claim day-to-day, and an attorney monitors the legal exposure.',
+        },
+        {
+          question: 'What is the 60% advance-payment law for wildfire claims?',
+          answer: 'SB 495 (effective January 1, 2026) raised the required advance payment on personal property claims following a declared disaster. Under California Insurance Code §10103.7(b)(1), the insurer must advance no less than 60% of the personal property limit, up to $350,000, without requiring the insured to submit a full itemized inventory. The prior thresholds were 30% and $250,000. A policyholder with a $500,000 contents limit can request $300,000 up front to begin replacing lost belongings — before completing the often months-long contents inventory.',
+        },
+        {
+          question: 'What if my wildfire claim is denied?',
+          answer: 'Read the denial letter for the exact stated reason — statute, exclusion, or factual basis. Gather evidence that rebuts the specific reason and appeal in writing to the same adjuster with the evidence attached. If the appeal is refused, escalate: file a complaint with the California Department of Insurance (Consumer Hotline 1-800-927-4357), consult a Public Adjuster for a claim review, and if the denial rests on coverage interpretation or bad-faith conduct, consult an insurance attorney about your options. Many wildfire denials rest on contestable causation or exclusion arguments; reversals are common when the record is properly built out.',
+        },
+        {
+          question: 'How long do I have to rebuild after a total-loss wildfire?',
+          answer: 'Under California Insurance Code §2051.5(b)(1)(B), as amended by AB 1800 (effective 2019), an insured has at least 36 months from the date of the first ACV payment to collect the full replacement cost of the loss after a declared disaster. Additional six-month extensions must be granted for good cause — permitting delays, contractor shortages, and market disruption after a mass-casualty event routinely qualify. The prior 24-month figure is obsolete; some older articles and adjusters still cite it. If an adjuster says the insured has less than 36 months after a declared-disaster wildfire, they are wrong.',
+        },
+      ]} />
 
       <p className="text-gray-700 leading-relaxed mb-4">
         Wildfire claims are among the most complex insurance claims you will ever face. The

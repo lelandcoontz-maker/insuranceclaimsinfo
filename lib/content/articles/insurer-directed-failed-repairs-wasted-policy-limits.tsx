@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When the Insurance Company Burns Your Policy Limits on Repairs That Were Never Going to Work',
+  title: "When Failed Repairs Burn Your Policy Limits",
   description:
-    'What happens when your insurer directs you to spend policy proceeds on cleaning or remediation that fails — over your objection — and then counts the wasted money against your policy limits. California law, practical steps, and legal theories for recovery.',
+    "What happens when your insurer directs proceeds to remediation that fails - over your objection - and counts the wasted money against your policy limits.",
   summary:
     'If your insurer directs you, over your objection, to spend policy proceeds on cleaning or remediation that fails, and then counts that wasted money against your limits, you may have recovery theories under California law. Document your objection in writing.',
 }

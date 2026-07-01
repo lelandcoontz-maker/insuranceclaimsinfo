@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'ADU and Garage Conversion Insurance Coverage Gaps in California',
+  title: "California ADU and Garage Conversion Coverage Gaps",
   description:
-    'California is pushing ADU construction, but homeowner insurance has not caught up. Learn how HO-3 policies treat ADUs, why Coverage B limits are often grossly inadequate, and what to do before a loss exposes the gap.',
+    "California pushes ADU construction but homeowner policies have not caught up. How HO-3 policies treat ADUs and why Other Structures limits often fall short.",
   summary:
     'California encourages ADUs, but standard HO-3 policies often treat them as \'other structures\' with a Coverage B limit far too small to rebuild. Confirm how your ADU is insured and raise the limit before a loss exposes the gap.',
 }

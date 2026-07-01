@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Xactimate Training and Certification: What You Need to Know',
   description:
-    'A guide to Xactimate training and certification — what the certification levels mean, what quality training looks like, and why understanding the \'why\' behind the software matters more than passing a test.',
+    "Xactimate training and certification - what certification levels mean, what quality training looks like, and why understanding beats memorization.",
   summary:
     'Xactimate certification has levels, but understanding the \'why\' behind the software, how pricing, labor, and line items work, matters more than passing a test. Good training is what produces accurate estimates rather than rote ones.',
 }

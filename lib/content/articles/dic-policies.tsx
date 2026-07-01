@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Difference in Conditions (DIC) Insurance: The Policy That Makes the FAIR Plan Work',
+  title: "Difference in Conditions (DIC) and the FAIR Plan",
   description:
     'What a DIC policy is, how it coordinates with the California FAIR Plan, what it covers, and the catastrophic mistake of dropping your underlying fire coverage.',
   summary:

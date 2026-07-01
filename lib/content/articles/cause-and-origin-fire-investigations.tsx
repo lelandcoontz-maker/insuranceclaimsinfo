@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Cause and Origin Fire Investigations: What Policyholders Need to Know',
+  title: "Cause and Origin Fire Investigations: What You Should Know",
   description:
-    'A guide to cause and origin (C&O) fire investigations in insurance claims. Covers the critical difference between fire department and insurance company investigators, policyholder rights, scene preservation, spoliation of evidence, NFPA 921 methodology, and how C&O findings can affect your claim.',
+    "Cause and origin (C&O) fire investigations in insurance claims - fire department vs. carrier investigators, policyholder rights, scene preservation, NFPA 921.",
   summary:
     'A cause-and-origin investigation determines how a fire started, and the insurer\'s investigator is not the fire department\'s. Preserve the scene, know your rights, and understand NFPA 921 methodology, because C&O findings can make or break coverage.',
 }

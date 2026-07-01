@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Estoppel, Waiver, and Promissory Estoppel in Insurance Claims',
+  title: "Estoppel, Waiver, and Promissory Estoppel in Claims",
   description:
-    'How equitable estoppel, waiver, and promissory estoppel prevent insurers from denying claims after their own conduct or promises led the policyholder to rely on coverage — and whether these doctrines can create coverage that does not exist in the policy.',
+    "How estoppel, waiver, and promissory estoppel can stop insurers from denying claims after their own conduct or promises led you to rely on coverage.",
   summary:
     'Equitable estoppel, waiver, and promissory estoppel can stop an insurer from denying a claim after its own conduct or promises led you to rely on coverage. They can bar a defense, though they generally cannot create coverage the policy never provided.',
 }

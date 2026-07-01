@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Marine Cargo Insurance: Why Importers Should Purchase Their Own Coverage',
+  title: "Marine Cargo Insurance: Why Importers Need Their Own Policy",
   description:
-    'Practical purchasing and claims advice for marine cargo insurance. Learn why importers should buy their own policy, how trade terms affect risk, warehouse coverage duration, and how Public Adjusters handle cargo claims.',
+    "Why importers should buy their own marine cargo policy: trade terms and risk, warehouse coverage duration, and how Public Adjusters handle claims.",
   summary:
     'Importers should buy their own marine cargo policy rather than rely on a seller\'s or carrier\'s coverage, because trade terms shift risk and gaps appear in transit and storage. Knowing the trade terms is key to being protected.',
 }

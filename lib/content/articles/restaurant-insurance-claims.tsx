@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Restaurant Insurance Claims: A Complete Guide to the Most Vulnerable Business in America',
+  title: "Restaurant Insurance Claims: A Complete Coverage Guide",
   description:
-    'Restaurants combine fire, spoilage, utility failure, health department closures, liquor liability, and business income exposures unlike any other business. Learn how each coverage works, where the gaps hide, and how to protect your restaurant before disaster strikes.',
+    "Restaurants face fire, spoilage, utility failure, health closures, liquor liability, and business income risks. How each coverage works and where gaps hide.",
   summary:
     'Restaurants stack fire, spoilage, utility-failure, health-department-closure, liquor-liability, and business-income exposures like no other business. Knowing how each coverage works, and where the gaps hide, is essential to protecting a restaurant after a loss.',
 }

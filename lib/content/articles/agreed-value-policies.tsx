@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Agreed Value vs. Stated Value vs. Replacement Cost: Three Valuation Methods That Are Not the Same',
+  title: "Agreed Value vs. Stated Value vs. Replacement Cost",
   description:
-    'Agreed value, stated value, and replacement cost are three different insurance valuation methods. Understanding the differences determines whether your claim gets paid in full or reduced at the worst possible time.',
+    "Agreed value, stated value, and replacement cost are three different valuation methods. The differences determine whether your claim gets paid in full.",
   summary:
     'Agreed value, stated value, and replacement cost are three different valuation methods. Agreed value fixes the payout in advance, stated value can be capped, and replacement cost pays to rebuild. Which one your policy uses decides whether you are paid in full.',
 }

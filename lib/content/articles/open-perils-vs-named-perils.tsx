@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Open Perils vs. Named Perils: The Most Important Distinction in Your Insurance Policy',
+  title: "Open Perils vs. Named Perils: The Key Policy Distinction",
   description:
-    'Understanding the difference between open perils and named perils coverage, how the HO-3 splits them between the dwelling and personal property, why the burden of proof changes everything, and what you might consider doing to close the gap.',
+    "The open perils vs. named perils split: how the HO-3 divides dwelling and personal property, why the burden of proof shifts, and how to close the gap.",
   summary:
     'Open-perils coverage protects against all causes except those excluded; named-perils covers only listed causes. The HO-3 gives the dwelling open-perils but limits personal property to named perils, and that shifts the burden of proof in ways most homeowners never notice until a claim is filed.',
 }

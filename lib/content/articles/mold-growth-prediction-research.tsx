@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Mold Growth Science: How Fast Does Mold Really Develop?',
   description:
-    'Peer-reviewed research from VTT Finland and Oak Ridge National Laboratory established the VTT mold growth model — the basis for ASHRAE Standard 160 and the science behind modern moisture-risk assessment.',
+    "Research from VTT Finland and Oak Ridge established the VTT mold growth model - the basis for ASHRAE Standard 160 and modern moisture-risk assessment.",
   summary:
     'Research from VTT and Oak Ridge National Laboratory produced mathematical models of how fast mold grows under given moisture and temperature, science that supports the short window for covered mold and counters insurer claims that mold predated the loss.',
 }

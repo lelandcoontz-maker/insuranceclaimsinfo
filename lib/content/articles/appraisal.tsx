@@ -5,7 +5,7 @@ import { LeadCaptureForm } from '@/components/content/LeadCaptureForm'
 export const meta = {
   title: 'Insurance Appraisal in California: The Complete Guide',
   description:
-    'Insurance appraisal in California — the Standard Fire Policy, the arbitration code overlay, key case law (Sharma, Kacha, Devonwood, Lee, Doan, Lambert, Mahnke), how to invoke it, the carrier tactics to watch for, and how to protect your rights.',
+    "Insurance appraisal in California - the Standard Fire Policy, the arbitration code overlay, key case law, how to invoke it, and carrier tactics to watch for.",
   summary:
     'Insurance appraisal is a contractual process to resolve disputes over the amount of loss, using each side\'s appraiser and a neutral umpire. This guide covers California\'s Standard Fire Policy, the arbitration code overlay, the case law, how to invoke and run the process, carrier tactics, and how to protect your rights.',
 }

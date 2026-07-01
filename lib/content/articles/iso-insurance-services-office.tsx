@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Insurance Services Office (ISO): Who Writes Your Policy Language and Why It Matters',
+  title: "Insurance Services Office (ISO): Who Writes Your Policy",
   description:
-    'An in-depth look at the Insurance Services Office (ISO), its history, its connection to Verisk Analytics and Xactimate, why arcane policy language persists, and how the choice between ISO standard forms and proprietary carrier forms affects your claim.',
+    "How ISO shapes policy language, its ties to Verisk and Xactimate, and how ISO standard forms vs. proprietary carrier forms affect your claim.",
   summary:
     'The Insurance Services Office (ISO), now part of Verisk, writes the standard policy forms most carriers use. Whether your policy uses an ISO standard form or a proprietary carrier form affects your coverage, and arcane wording often traces back to ISO.',
 }

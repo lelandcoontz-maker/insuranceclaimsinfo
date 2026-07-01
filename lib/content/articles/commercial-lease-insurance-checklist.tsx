@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Insurance Requirements in Commercial Lease Negotiations: A Tenant&apos;s Checklist',
+    "Commercial Lease Insurance: A Tenant's Checklist",
   description:
-    'A practical, actionable guide for commercial tenants reviewing and negotiating insurance provisions in their lease. Covers required coverages, red flags, what is negotiable, certificate of insurance pitfalls, and a section-by-section markup guide for common lease insurance language.',
+    "An actionable guide for commercial tenants: required coverages, red flags, what is negotiable, COI pitfalls, and a section-by-section markup of lease language.",
   summary:
     'Before signing a commercial lease, scrutinize its insurance provisions: required coverages, indemnity language, certificate pitfalls, and what is negotiable. This tenant checklist helps you mark up common lease insurance clauses and avoid taking on the landlord\'s risk.',
 }

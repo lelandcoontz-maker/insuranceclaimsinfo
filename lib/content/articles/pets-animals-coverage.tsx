@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Pets & Animals in Property Insurance Claims',
   description:
-    'How homeowner insurance policies handle pets and animals after a disaster &mdash; personal property classification, ALE for pet expenses, livestock exclusions, evacuation costs, and practical steps to protect your animals and your claim.',
+    "How homeowner policies handle pets and animals after a disaster: personal property class, ALE for pet costs, livestock exclusions, and evacuation expenses.",
   summary:
     'Homeowner policies treat pets oddly: they are not \'property\' you can claim for, but ALE may cover added pet costs while displaced, and livestock is often excluded. Know the limits and plan for evacuation costs to protect your animals.',
 }

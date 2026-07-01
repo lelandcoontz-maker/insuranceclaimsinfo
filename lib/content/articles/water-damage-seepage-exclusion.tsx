@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Water Damage and the "Continuous or Repeated Seepage" Exclusion: Sudden vs. Gradual',
+  title: "Water Damage and the Continuous Seepage Exclusion",
   description:
-    'California insurers routinely deny water-damage claims under the "continuous or repeated seepage or leakage" exclusion. Learn the sudden-versus-gradual distinction, who bears the burden of proof, and how the 2026 published decision Nargizyan v. State Farm limits this tactic.',
+    "California insurers deny water claims under the continuous seepage exclusion. Sudden vs. gradual, burden of proof, and the Nargizyan v. State Farm decision.",
   summary:
     'The "continuous or repeated seepage or leakage" exclusion bars coverage for gradual, long-term water intrusion, not a sudden burst. The insurer bears the burden of proving the exclusion applies, and the 2026 published decision Nargizyan v. State Farm held that an after-the-fact "it must have been leaking a long time" opinion, with no proof of duration, does not establish the exclusion.',
 }

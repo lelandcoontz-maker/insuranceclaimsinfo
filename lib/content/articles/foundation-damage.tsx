@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Foundation Damage Insurance Claims: Earth Movement, Water Leaks, and the Fight for Coverage',
+  title: "Foundation Damage Claims: Earth Movement and Leaks",
   description:
-    'How to handle insurance claims for foundation damage caused by water leaks, soil settlement, and heaving. Covers the earth movement exclusion, California\'s efficient proximate cause doctrine, repair methods, and how to document your claim.',
+    "How to handle foundation damage claims from water leaks, settlement, and heaving. The earth movement exclusion, efficient proximate cause, and repair methods.",
   summary:
     'Foundation claims from water leaks, settlement, or heaving collide with the earth-movement exclusion, but California\'s efficient proximate cause doctrine can restore coverage when a covered peril such as a plumbing leak is the predominant cause. Document the cause carefully.',
 }

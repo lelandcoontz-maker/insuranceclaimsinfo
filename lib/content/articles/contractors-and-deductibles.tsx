@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Contractors and Deductibles: Not as Simple as "It\'s the Law"',
+  title: "Contractors and Deductibles: Not as Simple as It's the Law",
   description:
-    'An in-depth analysis of contractor deductible waiver laws in Texas, California, Florida, and other states — what the statutes actually say, where they break down on real claims, and why the confident declarations about deductible law often collapse under scrutiny.',
+    "What contractor deductible waiver laws in Texas, California, and Florida actually say, where they break down on real claims, and why confident claims fail.",
   summary:
     'Contractor deductible-waiver laws vary by state and are widely misunderstood. Many confident claims about waiving your deductible collapse under the actual statutes, and a contractor absorbing your deductible can be illegal or insurance fraud. Know your state\'s real rule.',
 }

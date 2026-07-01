@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Climate Change and Commercial Property Insurance: What’s Already Happening to Your Coverage',
+    "Climate Change and Commercial Property Insurance",
   description:
-    'How climate change is already reshaping commercial property insurance through atmospheric rivers, extreme heat, wildfire smoke infiltration, post-wildfire debris flows, PSPS events, and the California insurance availability crisis. Practical strategies for gap-filling coverage.',
+    "How atmospheric rivers, extreme heat, wildfire smoke, debris flows, PSPS events, and the California availability crisis are reshaping commercial coverage.",
   summary:
     'Climate change is already reshaping commercial property coverage through wildfire smoke, debris flows, extreme heat, atmospheric rivers, and PSPS shutoffs, alongside California\'s availability crisis. Businesses should identify and fill coverage gaps before the next event.',
 }

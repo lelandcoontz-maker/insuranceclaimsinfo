@@ -2,8 +2,8 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "When the Carrier's Own Contractor Says It Can't Be Done: How Admissions of Failure Change Everything",
-  description: "When an insurance carrier's preferred vendor admits the approved repair scope is inadequate, policyholders gain powerful leverage. Learn how to capture, document, and deploy these admissions to overcome underpayment and bad faith.",
+  title: "When the Carrier's Own Contractor Admits Failure",
+  description: "When an insurer's preferred vendor admits the approved repair scope is inadequate, policyholders gain leverage. How to capture and deploy those admissions.",
   summary:
     'When the insurer\'s own preferred contractor admits the approved repair cannot be done or cannot match existing materials, that admission is powerful leverage. Capture it in writing, because it contradicts the carrier\'s underpayment and can support a bad-faith argument.',
 }

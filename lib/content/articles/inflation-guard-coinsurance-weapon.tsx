@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When Inflation Guard Works Against You: The Coinsurance Trap Hidden in Automatic Increases',
+  title: "When Inflation Guard Triggers a Coinsurance Penalty",
   description:
-    'Inflation guard endorsements automatically increase your dwelling coverage — but if your home\'s replacement cost hasn\'t kept pace, the inflated limit can trigger a coinsurance penalty that reduces your claim payout.',
+    "Inflation guard endorsements raise dwelling coverage automatically, but if replacement cost outpaces the limit, coinsurance can cut into your claim payout.",
   summary:
     'Inflation guard automatically raises your dwelling limit, but if your home\'s true replacement cost has outpaced it, the higher limit can still trigger a coinsurance penalty that cuts your payout. Check that your limit reflects real rebuild cost.',
 }

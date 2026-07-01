@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Supplement Process: Why Your First Estimate Is Almost Never the Last',
+  title: "The Supplement Process in Insurance Claims",
   description:
-    'A guide to insurance claim supplements — why they are normal, when they are needed, how carriers resist them, documentation best practices, and the role of Public Adjusters and contractors in securing full payment for hidden and additional damage.',
+    "Why insurance claim supplements are normal, how carriers resist them, documentation best practices, and the role of public adjusters and contractors.",
   summary:
     'Supplements are normal: the first estimate rarely captures hidden or additional damage found during repairs. Document the new items thoroughly and expect carrier resistance; contractors and Public Adjusters help secure the added payment you are owed.',
 }

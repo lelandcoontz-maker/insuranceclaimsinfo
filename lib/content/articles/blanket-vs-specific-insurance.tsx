@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Blanket vs. Specific Insurance: How Limits Work Across Multiple Locations',
+  title: "Blanket vs. Specific Insurance for Multi-Location Business",
   description:
-    'How blanket and specific insurance limits differ for multi-location businesses, why blanket coverage reduces coinsurance risk, and how to evaluate which structure protects your commercial property best.',
+    "How blanket and specific insurance limits differ across multiple locations, why blanket reduces coinsurance risk, and how to evaluate the right structure.",
   summary:
     'Blanket insurance applies one limit across multiple locations or categories, reducing coinsurance risk, while specific insurance fixes a separate limit per location. For multi-location businesses, blanket coverage usually offers more flexible protection.',
 }

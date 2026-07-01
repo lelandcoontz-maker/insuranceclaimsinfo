@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Subrogation in Property Insurance: Your Right to Recover What the Insurer Won’t',
+  title: "Subrogation in California Property Insurance Claims",
   description:
-    'How subrogation works in California property insurance claims, your insurer’s duty to notify you, deductible recovery, the made-whole doctrine, and what happens when the insurance company sits on its hands.',
+    "How subrogation works in California, your insurer's duty to notify you, deductible recovery, the made-whole doctrine, and what happens when the carrier stalls.",
   summary:
     'Subrogation lets your insurer pursue the at-fault party after paying your claim, and you may recover your deductible through it. Under the made-whole doctrine you should be fully paid first; if the insurer sits on a viable subrogation, that can be a problem.',
 }

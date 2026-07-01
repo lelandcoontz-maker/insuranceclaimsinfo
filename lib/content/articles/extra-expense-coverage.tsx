@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Extra Expense Coverage: Paying the Cost of Staying Open After a Loss',
+  title: "Extra Expense Coverage: Staying Open After a Loss",
   description:
-    'Extra expense coverage in commercial property insurance pays the additional costs a business incurs to continue operations after property damage. Learn how it differs from business interruption, how expediting expense works, and how to maximize your recovery.',
+    "Extra expense coverage pays the added costs of continuing operations after property damage. How it differs from business interruption and how expediting works.",
   summary:
     'Extra expense coverage pays the added costs of keeping a business operating after property damage, such as temporary space or expediting expenses. It differs from business interruption, which replaces lost income; many claims involve both.',
 }

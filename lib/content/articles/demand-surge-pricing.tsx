@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "Demand Surge: Why Post-Catastrophe Pricing Changes Everything in Your Insurance Claim",
+  title: "Demand Surge: Post-Catastrophe Pricing in Claims",
   description:
-    "After a catastrophe, construction costs spike dramatically due to labor shortages, material scarcity, and overwhelming demand. Learn what demand surge is, why your insurance company owes you the actual post-disaster cost of repairs, and how to document and fight for full payment.",
+    "After a catastrophe, construction costs spike from labor shortages and material scarcity. Why the carrier owes post-disaster pricing, and how to document it.",
   summary:
     'After a catastrophe, labor shortages and material scarcity spike construction costs (demand surge). Your insurer owes the actual post-disaster cost to repair, not pre-disaster pricing. Document the real market costs and insist on payment at current rates.',
 }

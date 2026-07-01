@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Advance Payments on Insurance Claims: Your Statutory Right to Receive Undisputed Amounts Now',
+  title: "Advance Payments: Your Right to Undisputed Amounts Now",
   description:
-    'California law requires insurers to pay undisputed claim amounts promptly, even while disputed portions are still being adjusted. Learn how to demand advance payments, avoid the full-and-final check trap, and protect your rights when accepting partial payments.',
+    "California law requires insurers to pay undisputed claim amounts promptly. How to demand advance payments and avoid the full-and-final check trap.",
   summary:
     'California law requires insurers to promptly pay the undisputed portion of a claim even while disputed amounts are still being adjusted. Demand advance payment of what is not in dispute, and avoid \'full and final\' checks that try to settle the whole claim.',
 }

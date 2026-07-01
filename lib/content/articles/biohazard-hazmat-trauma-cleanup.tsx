@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Biohazard, Hazmat & Trauma Cleanup: The Insurance Coverage Gap Nobody Talks About',
+  title: "Biohazard, Hazmat, and Trauma Cleanup Coverage Gaps",
   description:
-    'How insurance covers (or denies) biohazard and trauma cleanup after crime scenes, unattended deaths, meth contamination, hoarding, and sewage events. Pollution exclusion disputes, the vandalism theory, California law, predatory cleanup companies, and what policyholders need to know.',
+    "How insurance covers or denies biohazard and trauma cleanup after crime scenes, unattended deaths, meth contamination, and sewage. Pollution exclusion disputes.",
   summary:
     'Biohazard and trauma cleanup after deaths, crime scenes, sewage, or contamination is frequently disputed under the pollution exclusion, and coverage often turns on framing the loss correctly. Beware predatory cleanup firms, and know your rights under California law.',
 }

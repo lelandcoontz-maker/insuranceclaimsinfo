@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Ownership and Authority in Insurance Claims: Non-Standard Property Situations',
+  title: "Ownership and Authority in Non-Standard Claim Situations",
   description:
-    'When property ownership is non-standard — a Medi-Cal recipient on title, a life estate, property in probate, inherited property — the insurance claim gets harder. This article covers the insurance-side rules and flags the adjacent estate questions so you can route them to the right attorney.',
+    "When title is non-standard - Medi-Cal, life estate, probate, inherited - the claim gets harder. Insurance-side rules and estate questions to route to counsel.",
   summary:
     'When ownership is non-standard (Medi-Cal recipient on title, life estate, probate-pending, inherited property), insurable interest splits, authority over the claim shifts, and coverage defenses multiply. This article covers the insurance-side rules and points out where elder-law and probate questions belong to an attorney.',
 }

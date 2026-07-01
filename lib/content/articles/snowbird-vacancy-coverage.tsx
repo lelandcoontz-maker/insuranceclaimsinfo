@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Seasonal and Snowbird Properties: The Six-Month Vacancy Problem',
+  title: "Snowbird and Seasonal Properties: The Vacancy Problem",
   description:
-    'Retirees who split time between two homes face unique insurance traps: vacancy exclusions, the "where you reside" definition, frozen pipe denials, and mismatched policy types. Learn how the six-month vacancy problem works, what endorsements exist, and how to protect your seasonal property.',
+    "Retirees who split time between two homes hit vacancy exclusions, the 'where you reside' definition, frozen pipe denials, and mismatched policy types.",
   summary:
     'Owners who split time between two homes risk vacancy and unoccupancy exclusions that can gut coverage when a home sits empty for months. Know your policy\'s vacancy rules and consider an endorsement to protect a seasonal or snowbird property.',
 }

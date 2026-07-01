@@ -2,8 +2,8 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "Your Right to the Xactimate ESX File: Why the PDF Is Not Enough",
-  description: "A guide for policyholders, Public Adjusters, and attorneys on why you should demand the native Xactimate ESX file — not just the PDF printout — and what critical estimate data the ESX file reveals that the PDF conceals.",
+  title: "Your Right to the Xactimate ESX File, Not Just the PDF",
+  description: "Policyholders, Public Adjusters, and attorneys should demand the native Xactimate ESX file, not just the PDF - it reveals data the printout conceals.",
   summary:
     'Demand the native Xactimate ESX file, not just the PDF. The ESX reveals pricing settings, depreciation, and hidden adjustments the printout conceals, which is essential for spotting how the carrier built, and shaved, the estimate.',
 }

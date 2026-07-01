@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Real Insurance Claim Negotiation Case Studies: How the Back-and-Forth Actually Works',
+  title: "Insurance Claim Negotiation: Real Case Studies",
   description:
-    'Five anonymized real insurance claim negotiations showing the actual back-and-forth — opening offers, demand letters, adjuster responses, and the specific moves that changed outcomes.',
+    "Five anonymized real insurance negotiations: opening offers, demand letters, adjuster responses, and the specific moves that changed outcomes.",
   summary:
     'Five anonymized real claim negotiations show the actual back-and-forth, opening offers, demand letters, adjuster responses, and the specific moves that shifted outcomes. They illustrate how documented, persistent negotiation beats accepting the first number.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When the Bank Overbids at Foreclosure: How a Full Credit Bid Can Save Your Insurance Claim',
+  title: "When a Full Credit Bid Saves Your Insurance Claim",
   description:
-    'If your lender makes a full credit bid at a California foreclosure sale, the lender may have extinguished its own right to your insurance proceeds. Established law, key cases, and the loan workout strategy.',
+    "If your lender makes a full credit bid at a California foreclosure sale, it may have extinguished its right to your insurance proceeds. The cases and strategy.",
   summary:
     'If your lender makes a full credit bid at a California foreclosure sale, it may have extinguished its own right to your insurance proceeds, which can leave the funds available to you. Established case law supports this; a loan workout strategy can help.',
 }

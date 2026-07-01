@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Someone Broke Into My House — Filing a Vandalism or Theft Claim',
+  title: "Filing a Vandalism or Theft Claim After a Break-In",
   description:
-    'How to file a homeowner\'s insurance claim after a burglary or vandalism: police reports, documenting stolen items, sublimits, the SIU process, and how to avoid common mistakes that get theft claims denied.',
+    "How to file a homeowner's claim after burglary or vandalism: police reports, documenting stolen items, sublimits, SIU, and mistakes that get claims denied.",
   summary:
     'After a break-in or vandalism, file a police report, document and value what was taken or damaged, and check your policy for sublimits on items like jewelry and electronics. Avoid the common mistakes, such as gaps in your inventory, that get theft claims denied.',
 }

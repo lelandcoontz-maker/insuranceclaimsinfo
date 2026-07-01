@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Ensuing Loss: The Clause Your Insurer Hopes You Never Read',
   description:
-    'The ensuing loss savings clause can restore coverage for damage caused by an excluded peril. Carriers routinely leave it out of denial letters. Learn what ensuing loss means, how it works in California alongside the efficient proximate cause doctrine, and how it differs from concurrent causation.',
+    "The ensuing loss clause can restore coverage for damage from an excluded peril. How it works in California alongside the efficient proximate cause doctrine.",
   summary:
     'An ensuing loss clause restores coverage for damage that follows an excluded peril, and carriers routinely omit it from denial letters. In California it works alongside efficient proximate cause and can revive a claim the insurer says is excluded.',
 }

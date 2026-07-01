@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Water Damage Categories and Classes: Why IICRC Classification Matters for Your Claim',
+  title: "Water Damage Categories and Classes (IICRC S500)",
   description:
-    'A guide to IICRC S500 water damage categories (1-3) and classes (1-4), how classification drives the scope and cost of remediation, how carriers downgrade categories to underpay claims, and why a certified hygienist&apos;s lab results can override a textbook classification.',
+    "IICRC S500 water damage categories (1-3) and classes (1-4), how classification drives remediation scope, and how carriers downgrade categories to underpay.",
   summary:
     'IICRC S500 grades water by category (1 clean to 3 grossly contaminated) and class (extent of saturation), which drives the scope and cost of remediation. Carriers downgrade the category to underpay; a hygienist\'s lab results can override a textbook call.',
 }

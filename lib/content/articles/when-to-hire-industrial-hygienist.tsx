@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
-  title: 'When to Hire an Industrial Hygienist (CIH) for Your Insurance Claim',
+  title: "When to Hire an Industrial Hygienist (CIH)",
   description:
-    'A Certified Industrial Hygienist provides independent contamination documentation that strengthens your insurance claim. Learn what a CIH does, when you need one, how to find a qualified professional, and why the carrier\'s assigned expert is not the same thing.',
+    "A Certified Industrial Hygienist provides independent contamination documentation that strengthens your insurance claim. What a CIH does, and when you need one.",
   summary:
     'A Certified Industrial Hygienist (CIH) provides independent, lab-backed documentation of contamination (mold, smoke, sewage, chemicals) that strengthens your claim. The carrier\'s assigned expert is not neutral, so a CIH on your side can be decisive.',
 }

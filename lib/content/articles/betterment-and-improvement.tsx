@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Betterment and Improvement: When Your Insurer Demands You Pay the Difference',
+  title: "Betterment: When Insurers Make You Pay the Difference",
   description:
-    'Learn when insurance companies can legitimately apply betterment deductions, when they misuse them to underpay claims, and how California law protects policyholders from improper betterment charges.',
+    "When insurers can legitimately apply betterment deductions, when they misuse them to underpay, and how California law protects policyholders from overreach.",
   summary:
     'Insurers may deduct for betterment only when a repair genuinely upgrades you beyond pre-loss condition, but they often misuse it to underpay. California law limits improper betterment charges, so make the insurer justify any such deduction.',
 }

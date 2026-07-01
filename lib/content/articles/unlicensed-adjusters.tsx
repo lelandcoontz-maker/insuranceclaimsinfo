@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Unlicensed Adjusters: When Your Claim Is Handled by Someone Without a License',
+  title: "Unlicensed Adjusters Handling California Claims",
   description:
-    'The problem of unlicensed adjusters handling California insurance claims — what the law requires, why insurers use unlicensed personnel, how it affects your claim, and what you can do about it.',
+    "The problem of unlicensed adjusters handling California insurance claims - what the law requires, why insurers use them, and what you can do about it.",
   summary:
     'California requires adjusters to be licensed, yet insurers sometimes use unlicensed personnel to handle claims. An unlicensed adjuster handling your claim is a violation you can raise, and it can undermine the carrier\'s positions.',
 }

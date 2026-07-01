@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "What Happens When You Decide Not to Rebuild After a Total Loss",
+  title: "Deciding Not to Rebuild After a Total Loss",
   description:
-    "Deciding not to rebuild after a total loss changes your insurance recovery, your mortgage obligations, and your tax situation. Here is what you need to know before making that decision — and how to maximize your recovery either way.",
+    "Choosing not to rebuild after a total loss changes your insurance recovery, mortgage obligations, and taxes. What to know before deciding, either way.",
   summary:
     'You can choose not to rebuild after a total loss, but it changes your recovery: you typically get actual cash value rather than full replacement cost, and it affects your mortgage and taxes. Understand the trade-offs before deciding.',
 }

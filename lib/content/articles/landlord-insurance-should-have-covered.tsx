@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'When Your Landlord’s Insurance Should Have Covered Your Loss',
+    "When Your Landlord's Insurance Should Have Covered Your Loss",
   description:
-    'When a landlord’s negligence causes damage to tenant property, the landlord’s insurance should respond. Learn about subrogation, tender of defense, negligence per se, California habitability law, and practical steps tenants can take when the landlord’s carrier refuses to pay.',
+    "When a landlord's negligence damages tenant property, their insurance should respond. Subrogation, tender of defense, and California habitability law.",
   summary:
     'When a landlord\'s negligence damages a tenant\'s property, the landlord\'s insurance should respond. Tenants can pursue recovery through subrogation, tender of defense, negligence per se, and California habitability law when the landlord\'s carrier refuses.',
 }

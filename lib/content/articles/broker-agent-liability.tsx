@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Suing Your Insurance Broker or Agent for Inadequate Coverage',
   description:
-    'When your insurance broker or agent fails to procure adequate coverage, you may have a legal claim. Learn the four liability theories, statutes of limitations, and damages available to underinsured policyholders in California.',
+    "When your broker or agent fails to procure adequate coverage, you may have a claim. Four liability theories, statutes of limitations, and California damages.",
   summary:
     'If your broker or agent failed to obtain the coverage you needed, you may be able to sue them. California recognizes specific liability theories for negligent procurement, each with its own deadline and available damages for underinsured policyholders.',
 }

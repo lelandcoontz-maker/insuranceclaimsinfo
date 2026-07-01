@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'The Named Insured vs. "An Insured" — Why the Distinction Matters More Than You Think',
+    "Named Insured vs. \"An Insured\": Why the Distinction Matters",
   description:
-    'Your insurance policy draws a sharp line between "you" (the named insured) and "an insured" (resident relatives, spouses, and others). This distinction controls who has rights, who triggers exclusions, and who can recover after a loss. Learn why it matters and how to protect yourself.',
+    "Your policy separates \"you\" (the named insured) from \"an insured\" (resident relatives, spouses). That line controls rights, exclusions, and who can recover.",
   summary:
     'Your policy distinguishes the \'named insured\' from \'an insured,\' and the difference controls who has rights and duties. The named insured has the broadest rights; knowing which category you fall in matters when you file a claim.',
 }

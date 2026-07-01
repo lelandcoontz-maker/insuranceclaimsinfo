@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Wear and Tear Is a Cause of Loss Exclusion — Not a Condition of Property Exclusion',
+  title: "Wear and Tear Is a Cause-of-Loss Exclusion, Not Property",
   description:
-    'The most misunderstood exclusion in property insurance. Your policy excludes wear and tear as a CAUSE OF LOSS — it does not exclude damage to property that happens to be worn. If wind blew the shingles off, wear and tear didn\'t cause the loss. Wind did.',
+    "Your policy excludes wear and tear as a CAUSE OF LOSS - not damage to worn property. If wind blew the shingles off, wear and tear didn't cause it. Wind did.",
   summary:
     'Wear and tear is excluded as a cause of loss, not as a condition of property. If wind blew off worn shingles, wind caused the loss, not wear, so the claim is covered. Frame the cause of the loss, not the age of the item.',
 }

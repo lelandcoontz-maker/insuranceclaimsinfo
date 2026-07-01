@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Commercial Umbrella and Excess Liability Insurance: What Happens When Your Primary Policy Runs Out',
+    "Commercial Umbrella vs. Excess Liability Insurance",
   description:
-    'Commercial umbrella and excess liability policies extend your coverage limits — but they are not the same thing. Learn the critical differences, the following form trap, drop-down coverage, self-insured retentions, and how to fight back when the umbrella carrier refuses to pay.',
+    "Umbrella and excess policies extend limits but are not the same. The following form trap, drop-down coverage, SIRs, and how to fight an umbrella carrier denial.",
   summary:
     'Commercial umbrella and excess liability both extend your limits, but they are not identical. Watch the following-form trap, drop-down coverage, and self-insured retentions, and know how to respond when the umbrella carrier resists paying.',
 }

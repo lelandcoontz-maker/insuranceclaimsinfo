@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Commonly Missed Items on Total Loss and Large Insurance Claims',
+  title: "Commonly Missed Items on Total Loss Claims",
   description:
-    'A comprehensive checklist of items that adjusters and estimators routinely overlook on total loss and large property insurance claims. From low-voltage wiring and light bulbs to scribe moldings and pressure-treated sole plates — if it\'s not in the estimate, you\'re not getting paid for it.',
+    "A checklist of items adjusters overlook on total loss claims: low-voltage wiring, light bulbs, scribe moldings, pressure-treated sole plates, and more.",
   summary:
     'Adjusters routinely omit small but real costs on large and total-loss claims, from low-voltage wiring and light bulbs to scribe moldings and pressure-treated sole plates. If an item is not in the estimate, you are not being paid for it, so check against this list.',
 }

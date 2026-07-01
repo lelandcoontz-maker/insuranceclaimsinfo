@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Fortuity Doctrine in Insurance: When Carriers Claim Your Loss Was Not an Accident',
+  title: "The Fortuity Doctrine: When Carriers Say You Knew",
   description:
-    'The fortuity doctrine requires that a covered loss be accidental and unforeseen. Learn how insurance companies misuse the known loss doctrine, loss-in-progress doctrine, and pre-existing damage arguments to deny legitimate claims in California.',
+    "The fortuity doctrine requires a covered loss be accidental. How insurers misuse known loss, loss-in-progress, and pre-existing damage arguments in California.",
   summary:
     'The fortuity doctrine requires that a covered loss be accidental and unforeseen. Insurers misuse the related known-loss and loss-in-progress doctrines, and pre-existing damage arguments, to deny claims that were in fact fortuitous.',
 }

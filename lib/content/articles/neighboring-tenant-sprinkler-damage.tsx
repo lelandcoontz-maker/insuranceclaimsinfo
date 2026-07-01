@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When a Neighbor\'s Fire Sprinkler Floods Your Business: Multi-Tenant Water Damage Claims',
+  title: "When a Neighbor's Fire Sprinkler Floods Your Business",
   description:
-    'Fire sprinkler activation in a neighboring unit can destroy your business with contaminated water. Learn whose policy responds, what perils apply, and how to protect your claim.',
+    "Sprinkler activation in a neighboring unit can destroy your business with contaminated water. Whose policy responds, what perils apply, and how to protect it.",
   summary:
     'When a neighboring unit\'s fire sprinkler floods your business with contaminated Category 3 water, whose policy responds depends on the lease, the peril, and negligence. Document the source and protect your own claim while pursuing the responsible party.',
 }

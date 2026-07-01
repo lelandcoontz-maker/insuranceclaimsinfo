@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Reservation of Rights Letter: What It Means and What to Do',
+  title: "The Reservation of Rights Letter: What It Means",
   description:
-    'A guide to reservation of rights (ROR) letters in California insurance claims. Learn what an ROR letter means, how it differs from a denial, the duty to defend, Cumis counsel, waiver and estoppel, and what policyholders should do when they receive one.',
+    "Reservation of rights (ROR) letters in California claims: how they differ from a denial, the duty to defend, Cumis counsel, waiver, estoppel, and next steps.",
   summary:
     'A reservation of rights letter says the insurer will handle the claim while reserving the right to later deny coverage. It is not a denial. It can trigger a duty to defend and, in liability cases, your right to independent (Cumis) counsel; respond carefully.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Silica Contamination in Property Insurance Claims: What You Need to Know',
+  title: "Silica Contamination in Property Insurance Claims",
   description:
-    'Crystalline silica exposure during property damage repairs is a serious OSHA-regulated hazard. Learn what silica is, why it matters for your insurance claim, and what remediation your insurer should be paying for.',
+    "Crystalline silica exposure during repairs is an OSHA-regulated hazard. What silica is, why it matters, and what remediation your insurer should be paying.",
   summary:
     'Crystalline silica released when cutting concrete, tile, or masonry during repairs is an OSHA-regulated hazard requiring controlled handling. Your insurer should pay for proper silica remediation and safe work practices as part of the covered repair.',
 }

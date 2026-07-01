@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Commercial Crime Insurance and Social Engineering Fraud: Closing the Coverage Gap',
+  title: "Commercial Crime Insurance and Social Engineering Fraud",
   description:
-    'How commercial crime policies work, why standard coverage may not protect against social engineering and business email compromise losses, and what endorsements businesses need to close the gap.',
+    "How commercial crime policies work, why standard coverage misses social engineering and business email compromise, and endorsements that close the gap.",
   summary:
     'Commercial crime policies cover theft, but standard forms often exclude social engineering and business email compromise, where an employee is tricked into wiring funds. Add a social engineering endorsement to close this fast-growing gap.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Discovery in Insurance Property Litigation: Getting the Evidence You Need',
+  title: "Discovery in Insurance Litigation: Getting the Evidence",
   description:
-    'How discovery works in insurance lawsuits, what documents and electronic records policyholders can demand, how to obtain the carrier’s claims file, and the landmark Colonial Life case allowing pattern-and-practice discovery of other claim files.',
+    "How discovery works in insurance lawsuits, what documents policyholders can demand, obtaining the claims file, and the Colonial Life pattern-and-practice rule.",
   summary:
     'In an insurance lawsuit, discovery lets you demand the carrier\'s claim file, internal records, and electronic data. The landmark Colonial Life case even allows discovery of other claim files to prove a pattern and practice of bad faith.',
 }

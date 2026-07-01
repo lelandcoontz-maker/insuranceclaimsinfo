@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'The Independent Adjuster: Who They Actually Work For',
   description:
-    'Independent adjusters are hired by insurance companies, not policyholders. Learn how IA firms operate, how adjusters are compensated, why "independent" is misleading, and what this means for your claim.',
+    "Independent adjusters are hired by insurers, not policyholders. How IA firms operate, how adjusters are paid, and what 'independent' means for your claim.",
   summary:
     'Independent adjusters are hired and paid by the insurer, not by you, despite the \'independent\' label. They work the carrier\'s file under its instructions, so treat their findings as the insurer\'s position, not a neutral one.',
 }

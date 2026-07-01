@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'ALE Advance Payments: The "Incurred Cost" Trap',
   description:
-    'When your insurance company says they will only pay Additional Living Expenses after you spend the money — why that position is often wrong, what California law requires, and how to get advance ALE payments without fronting your own cash.',
+    "When your insurer says they will pay ALE only after you spend the money - why that position is often wrong under California law and how to get advances.",
   summary:
     'When an insurer says it will only reimburse Additional Living Expenses after you spend the money, that position is often wrong. California law supports advancing ALE so displaced policyholders are not forced to front their own cash.',
 }

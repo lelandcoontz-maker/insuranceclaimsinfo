@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'What Your Insurance Company Is Required to Tell You — And What They Conveniently Forget',
+    "What Your Insurer Is Required to Tell You",
   description:
-    'California law imposes affirmative disclosure obligations on insurers — things they must proactively tell you about your claim. Most never do. Here is what they owe you and how to demand it.',
+    "California law imposes affirmative disclosure obligations on insurers - things they must proactively tell you. Most never do. What they owe and how to ask.",
   summary:
     'California law requires insurers to proactively tell you certain things about your claim and your rights, but most never do. Knowing these affirmative disclosure duties lets you demand the information the carrier conveniently omits.',
 }

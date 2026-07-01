@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "The Lender’s Loss Payable Endorsement: Why the Mortgage Company’s Name Is on Your Insurance Check",
+  title: "The Lender's Loss Payable Endorsement on Your Claim Check",
   description:
-    "The lender’s loss payable endorsement gives your mortgage company powerful rights over your insurance claim proceeds. Understanding what those rights are — and what they are not — is the first step to getting your money.",
+    "The lender's loss payable endorsement gives your mortgage company powerful rights over claim proceeds. Understanding what they are is the first step.",
   summary:
     'The lender\'s loss payable endorsement gives your mortgage company rights over your claim proceeds, which is why its name is on your check. Understanding the precise limits of those rights is the first step to getting your money released.',
 }

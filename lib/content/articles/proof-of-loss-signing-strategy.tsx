@@ -2,8 +2,8 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "The Proof of Loss: What You Are Really Signing and How to Protect Yourself",
-  description: "A proof of loss is a sworn statement that can lock you into the carrier's numbers and waive coverages you didn't intend to surrender. Learn about partial proofs of loss, how to modify the carrier's form, state-by-state rules, and why NFIP flood claims demand special care.",
+  title: "Proof of Loss: What You Are Really Signing",
+  description: "A proof of loss is a sworn statement that can lock you into the carrier's numbers. How to modify the form, use partial proofs, and protect coverage.",
   summary:
     'A proof of loss is a sworn statement that can lock you into a number and waive amounts you omit. Prepare it carefully, value the claim fully, and reserve the right to supplement, because signing prematurely can cap your recovery.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "My House Was Damaged by Fire — A Beginner's Guide",
+  title: "My House Was Damaged by Fire - A Beginner's Guide",
   description:
-    'A complete beginner\'s guide to fire damage insurance claims: the first 72 hours, ALE coverage, contents, smoke damage, timelines, and how to navigate the parallel tracks of dwelling, contents, and living expenses.',
+    "A beginner's guide to fire damage insurance claims: the first 72 hours, ALE coverage, contents, smoke damage, timelines, and how to navigate each track.",
   summary:
     'A fire claim runs on three parallel tracks: dwelling repairs, contents replacement, and living expenses (ALE), which the insurer must advance while you are displaced. Document everything, do not discard damaged items before they are recorded, and expect the process to take months.',
 }

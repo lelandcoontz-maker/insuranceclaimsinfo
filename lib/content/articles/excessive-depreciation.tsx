@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Excessive Depreciation: How Insurance Companies Shortchange Your Claim and What You Can Do',
+  title: "Excessive Depreciation: How Insurers Shortchange Claims",
   description:
-    'Insurance companies routinely apply excessive depreciation to reduce claim payments. Learn the rules they violate — no depreciation on labor, long-life components, or undamaged matching areas — and how to push back under California law.',
+    "Insurers routinely apply excessive depreciation to reduce payments. The rules they violate on labor, long-life components, and matching under California law.",
   summary:
     'Insurers routinely over-depreciate to cut payments. Key limits they violate: no depreciation on labor, none on long-life components beyond their actual wear, and none on undamaged matching areas. California law lets you push back on unreasonable depreciation.',
 }

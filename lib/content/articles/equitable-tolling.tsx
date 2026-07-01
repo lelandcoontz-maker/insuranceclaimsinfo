@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Equitable Tolling of the Statute of Limitations in California Insurance Claims',
+  title: "Equitable Tolling in California Insurance Claims",
   description:
-    'The one-year suit limitation is not as simple as it appears. Equitable tolling pauses the clock while your insurer investigates — plus the edge cases that decide whether you keep or lose your right to sue.',
+    "The one-year suit limitation isn't as simple as it looks. Equitable tolling pauses the clock while your insurer investigates, plus the deciding edge cases.",
   summary:
     'California\'s one-year deadline to sue your insurer is not absolute. Equitable tolling pauses the clock while the insurer investigates, and a body of edge-case law — closed files, partial closures, reopenings, status letters, and misleading communications — controls how the clock actually runs in real claims.',
 }

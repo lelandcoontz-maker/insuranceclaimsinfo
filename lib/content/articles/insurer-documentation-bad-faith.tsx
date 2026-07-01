@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "Log Notes, Emails, and Bad Faith: How an Insurer's Own Records Can Win Your Case",
+  title: "How an Insurer's Own Records Can Prove Bad Faith",
   description:
-    "An insurer's internal claim file — adjuster diary notes, emails, reserve changes, and supervisor directives — can reveal the real reasons behind a denial or underpayment. Learn how to obtain these records, what to look for, and how they support bad faith claims.",
+    "An insurer's internal claim file - diary notes, emails, reserves, supervisor directives - can reveal the real reasons behind a denial. How to obtain them.",
   summary:
     'An insurer\'s own log notes, emails, and claim diary can prove bad faith, revealing what it really thought while telling you something else. Requesting the claims file can expose this internal record.',
 }

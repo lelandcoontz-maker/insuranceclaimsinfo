@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Drug Contamination Claims for Landlords: Meth, Fentanyl, and Grow Operations',
+    "Drug Contamination Claims for Landlords: Meth and Fentanyl",
   description:
-    'When a tenant turns your rental into a meth lab, fentanyl house, or marijuana grow — the vandalism theory, state cleanup standards, case law, decontamination costs, lease protections, and how to get your insurance claim paid.',
+    "When a tenant turns your rental into a meth lab or grow: the vandalism theory, state cleanup standards, case law, decontamination costs, and how to get paid.",
   summary:
     'When a tenant turns your rental into a meth lab, fentanyl house, or grow operation, the contamination and damage may be covered, often under a vandalism theory. Know the cleanup standards, decontamination costs, and lease protections to get the claim paid.',
 }

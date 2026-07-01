@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Service Line Coverage: Protecting the Underground Infrastructure Your Standard Policy Ignores',
+  title: "Service Line Coverage for Underground Utilities",
   description:
-    'What service line coverage is, why standard homeowners policies exclude underground utility lines, what endorsements cover, typical costs, common claims, and how to add this valuable protection to your policy.',
+    "Why standard homeowners policies exclude underground utility lines, what service line endorsements cover, typical costs, common claims, and how to add coverage.",
   summary:
     'Standard policies exclude damage to the underground utility lines you own, water, sewer, power, leaving you to pay for failures. A service line endorsement covers repair and related costs cheaply and is well worth adding.',
 }

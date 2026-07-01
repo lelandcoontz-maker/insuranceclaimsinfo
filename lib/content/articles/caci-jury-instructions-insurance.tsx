@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'CACI Jury Instructions for Insurance Litigation in California',
+  title: "CACI Jury Instructions for California Insurance Litigation",
   description:
-    'What CACI jury instructions are, how they relate to case law, whether they have the force of law, and why the Series 2300 insurance litigation instructions matter when policyholders sue their insurance company.',
+    "What CACI jury instructions are, how they relate to case law, and why the Series 2300 insurance instructions matter when policyholders sue their insurer.",
   summary:
     'CACI are California\'s official civil jury instructions. They restate the law from case law rather than create it, but they carry real weight. The Series 2300 instructions govern insurance bad-faith trials and shape how a jury decides a policyholder\'s case.',
 }

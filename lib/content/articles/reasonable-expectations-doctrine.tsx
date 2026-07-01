@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Doctrine of Reasonable Expectations in Insurance: What It Is and How California Applies It',
+  title: "The Reasonable Expectations Doctrine in California Insurance",
   description:
-    'A detailed guide to the doctrine of reasonable expectations in insurance law. Covers the origin of the doctrine, how California courts apply it as an interpretive tool, the difference between the strong and weak forms, and practical strategies for policyholders dealing with coverage disputes.',
+    "How California courts apply the reasonable expectations doctrine as an interpretive tool, its strong and weak forms, and how to use it in coverage disputes.",
   summary:
     'The doctrine of reasonable expectations interprets ambiguous policies to honor what a reasonable policyholder would expect to be covered. California applies it as an interpretive tool, especially where fine print would defeat the coverage a buyer reasonably believed they had.',
 }

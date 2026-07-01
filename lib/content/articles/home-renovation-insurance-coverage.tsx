@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Home Insurance During Renovation: The Coverage Gaps That Catch Homeowners Mid-Project',
+  title: "Home Insurance During Renovation: Coverage Gaps",
   description:
-    'Renovating your home can create serious insurance coverage gaps. Learn how the increase in hazard condition, vacancy triggers, contractor liability exposure, and permit issues affect your homeowner policy during construction.',
+    "Renovating your home can create serious coverage gaps: increase in hazard, vacancy triggers, contractor liability exposure, and permit issues during work.",
   summary:
     'Renovating can open serious coverage gaps: an increase-in-hazard condition, vacancy triggers if you move out, contractor liability exposure, and permit issues. Tell your insurer before major work and confirm coverage continues during construction.',
 }

@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Scheduled Personal Property, Floaters & Exotic Item Coverage',
   description:
-    'How to schedule high-value items on your insurance policy, what personal articles floaters cover, and how to insure exotic items like racehorses, collector cars, fine art, and appreciating collectibles.',
+    "How to schedule high-value items, what personal articles floaters cover, and how to insure racehorses, collector cars, fine art, and other collectibles.",
   summary:
     'Scheduling lists high-value items, jewelry, art, collectibles, on a floater for full agreed valuation beyond the blanket sub-limits. Exotic items like collector cars or fine art usually need scheduling to be fully protected.',
 }

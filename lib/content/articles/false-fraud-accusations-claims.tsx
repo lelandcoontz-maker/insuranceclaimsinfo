@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'False Fraud Accusations in Insurance Claims: When Carriers Weaponize the SIU Process',
+  title: "False Fraud Accusations: Weaponizing the SIU Process",
   description:
-    'How insurers use false or pretextual fraud accusations to deny legitimate claims, the Special Investigations Unit process, policyholder rights during fraud investigations, burden of proof requirements, and practical defense strategies under California law.',
+    "How insurers use pretextual fraud accusations to deny legitimate claims: the SIU process, your rights, burden of proof, and defense under California law.",
   summary:
     'Insurers sometimes use pretextual fraud allegations and the Special Investigations Unit (SIU) to stall or deny valid claims. Know your rights during a fraud investigation, that the insurer bears the burden, and how to defend against a manufactured accusation.',
 }

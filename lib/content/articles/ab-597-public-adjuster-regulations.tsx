@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'AB 597 (Pending): Proposed Public Adjuster Regulations in California',
+  title: "AB 597: Proposed Public Adjuster Regulations in California",
   description:
-    'California AB 597 is a pending bill that would cap Public Adjuster fees at 15% for catastrophic-disaster claims and impose new contract and solicitation requirements. Currently held in Senate Appropriations as of August 2025.',
+    "AB 597 would cap California Public Adjuster fees at 15% for catastrophe claims and add new contract and solicitation rules. Held in Senate Appropriations.",
   summary:
     'AB 597 is a pending California bill that would cap Public Adjuster fees at 15% on catastrophic-disaster claims and add new contract and solicitation rules. As of August 2025 it is held in Senate Appropriations and is not yet law.',
 }

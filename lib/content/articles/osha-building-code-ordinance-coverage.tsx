@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'OSHA Requirements and Building Code Upgrades as Triggers for Ordinance or Law Coverage',
+  title: "OSHA and Building Code Upgrades Trigger Ordinance or Law",
   description:
-    'When workplace safety regulations and building codes force upgrades during insured repairs, ordinance or law coverage should pay the additional costs. Learn how OSHA standards, Cal/OSHA requirements, and building code changes trigger coverage for increased construction costs.',
+    "When safety regulations and building codes force upgrades during repairs, ordinance or law coverage should pay. How OSHA and Cal/OSHA trigger the coverage.",
   summary:
     'When OSHA, Cal/OSHA, or building-code requirements force upgrades during insured repairs, ordinance or law coverage should pay the added costs. These regulatory triggers, not just the original damage, can substantially increase what the insurer owes.',
 }

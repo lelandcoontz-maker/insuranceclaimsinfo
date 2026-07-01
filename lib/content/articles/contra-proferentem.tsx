@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Contra Proferentem: Why Ambiguous Insurance Policy Language Is Construed Against the Insurer',
+  title: "Contra Proferentem: Ambiguity Construed Against Insurers",
   description:
-    'A guide to the contra proferentem doctrine in California insurance law. Covers the two-step ambiguity analysis, key court decisions, limits of the rule, its relationship to the doctrine of reasonable expectations, and how policyholders can invoke it in coverage disputes.',
+    "The contra proferentem doctrine in California insurance law: the two-step ambiguity analysis, key decisions, its limits, and how to invoke it in disputes.",
   summary:
     'Contra proferentem means ambiguous policy language is construed against the insurer that wrote it. California uses a two-step ambiguity analysis tied to the insured\'s reasonable expectations. When wording is genuinely unclear, this doctrine favors coverage.',
 }

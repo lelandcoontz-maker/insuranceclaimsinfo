@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "How Xactimate Works: A Policyholder's Guide to Insurance Estimates",
+  title: "How Xactimate Works: A Policyholder's Guide",
   description:
-    "Xactimate is the software insurance companies use to price your claim. Understanding how it works — regional pricing databases, line items, labor settings, and its limitations — is the first step to getting paid fairly.",
+    "Xactimate is the software insurers use to price your claim. Regional pricing databases, line items, labor settings, and limitations you need to understand.",
   summary:
     'Xactimate is the software insurers use to price your claim, built on regional pricing databases, line items, and labor settings. Understanding how it works, and its limitations, is the first step to recognizing and correcting an estimate that underpays.',
 }

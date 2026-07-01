@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Inverse Condemnation: Suing Utilities After a California Wildfire',
+  title: "Inverse Condemnation: Suing Utilities After a CA Wildfire",
   description:
-    'When a utility causes a wildfire, an insured may have a claim beyond the insurance policy. How inverse condemnation works in California — strict liability, the substantial-cause / inherent-risk test under City of Oroville, damages, and how it differs from negligence.',
+    "How inverse condemnation lets California wildfire victims sue utilities: strict liability, the City of Oroville test, damages, and differences from negligence.",
   summary:
     'When a utility causes a wildfire, inverse condemnation can let a property owner recover from the utility on a strict-liability basis, without proving negligence, for damage beyond what insurance pays. California Supreme Court doctrine (Holtz, Belair, Oroville) limits the cause of action to damage substantially caused by an inherent risk of the public improvement&apos;s deliberate design, construction, or maintenance.',
 }

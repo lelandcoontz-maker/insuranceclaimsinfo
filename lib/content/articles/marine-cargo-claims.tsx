@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { LeadCaptureForm } from '@/components/content/LeadCaptureForm'
 
 export const meta = {
-  title: 'Marine Cargo Insurance Claims: Why Importers and Exporters Need a Public Adjuster',
+  title: "Marine Cargo Claims: Why Importers Need a Public Adjuster",
   description:
-    'Marine cargo claims are among the most complex in property insurance. Learn about carrier liability, marine surveyors, General Average, COGSA, and why a Public Adjuster with trade expertise changes outcomes.',
+    "Marine cargo claims involve carrier liability, marine surveyors, General Average, and COGSA. Why a Public Adjuster with trade expertise changes outcomes.",
   summary:
     'Marine cargo claims are highly complex, involving carrier liability, marine surveyors, General Average, and COGSA. A Public Adjuster with trade expertise can materially change the outcome on a significant cargo loss.',
 }

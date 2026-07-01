@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "The Efficient Proximate Cause Doctrine: When the Real Cause of Your Loss Is Covered",
+  title: "Efficient Proximate Cause: When the Real Cause Is Covered",
   description:
-    "When multiple perils combine to cause a loss, the efficient proximate cause doctrine looks at the predominant cause. If it is covered, the entire loss is covered. Here is how the doctrine works, what California law requires, and how insurers try to get around it.",
+    "When multiple perils combine, the efficient proximate cause doctrine looks at the predominant cause. If it is covered, the whole loss is covered under CA law.",
   summary:
     'When several perils combine to cause a loss, the efficient proximate cause doctrine asks which one predominated. If that predominant cause is covered, the entire loss is covered. California law mandates this, and insurers try to evade it by blaming an excluded contributor.',
 }

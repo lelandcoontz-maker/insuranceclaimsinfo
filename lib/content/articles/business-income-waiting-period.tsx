@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Business Income Waiting Period: The 72 Hours That Could Bankrupt Your Business',
+  title: "The Business Income 72-Hour Waiting Period",
   description:
-    'The 72-hour waiting period in business income coverage can cost thousands in uninsured losses. Learn how it works, when it applies, and how to reduce or eliminate it.',
+    "The 72-hour waiting period in business income coverage can cost thousands. How it works, when it applies, and how to reduce or eliminate it in California.",
   summary:
     'Most business income coverage has a 72-hour waiting period before benefits begin, and that gap can cost thousands in uninsured downtime. Know how it applies and consider an endorsement to shorten or eliminate it.',
 }

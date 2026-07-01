@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Bad Faith Insurance Practices',
   description:
-    'A plain-language and legally grounded guide to insurance bad faith in California: what it is, how to recognize it, key case law, available damages, the genuine-dispute defense, and how to build the paper trail your case depends on.',
+    "A plain-language, legally grounded guide to insurance bad faith in California - what it is, key case law, damages available, and the genuine-dispute defense.",
   summary:
     'Insurance bad faith is an insurer\'s unreasonable handling of a valid claim, and in California it can expose the carrier to damages beyond the policy. Recognize the patterns, document them from day one, and consult counsel when the conduct is serious — the paper trail is what proves the conduct was unreasonable.',
 }

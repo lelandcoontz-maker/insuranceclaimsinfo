@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Does Homeowner Insurance Cover Septic System Failures? What You Need to Know',
+  title: "Does Homeowner Insurance Cover Septic System Failures?",
   description:
-    'Septic system failures are expensive and rarely covered by standard homeowner policies. Learn what is excluded, what may be covered under specific perils, and how to close dangerous coverage gaps.',
+    "Septic failures are expensive and rarely covered by standard homeowner policies. What's excluded, what specific perils may cover, and how to close gaps.",
   summary:
     'Standard homeowner policies rarely cover septic-system failures, treating them as wear, maintenance, or excluded. Some sudden-event damage may qualify, and endorsements or service-line coverage can close this expensive gap.',
 }

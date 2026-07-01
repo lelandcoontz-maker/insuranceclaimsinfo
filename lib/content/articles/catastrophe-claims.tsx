@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Catastrophe Claims: Why Disaster Claims Are Handled Differently and What It Means for You',
+  title: "Catastrophe Claims: Why Disaster Claims Get Underpaid",
   description:
-    'Catastrophe claims are processed faster, by less experienced adjusters, under enormous volume pressure. Learn why CAT claims are chronically underpaid and what you can do about it.',
+    "CAT claims are processed faster, by less experienced adjusters, under enormous volume pressure. Why they are chronically underpaid and what you can do about it.",
   summary:
     'After a disaster, claims are processed at high volume by traveling CAT adjusters under speed pressure, which makes them chronically underpaid. Expect errors, document thoroughly, and be ready to challenge a rushed estimate.',
 }

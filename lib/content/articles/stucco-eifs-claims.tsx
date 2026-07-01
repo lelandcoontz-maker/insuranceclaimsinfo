@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Stucco and EIFS Insurance Claims: Traditional Plaster vs. Synthetic Stucco in California',
+  title: "Stucco vs. EIFS Insurance Claims in California",
   description:
-    'Traditional stucco and EIFS are completely different systems with different failure modes, coverage issues, and repair requirements. Learn how each one affects your insurance claim.',
+    "Traditional stucco and EIFS are different systems with different failure modes, coverage issues, and repair requirements affecting your California claim.",
   summary:
     'Traditional stucco and synthetic EIFS are different systems with different failure modes, moisture behavior, and repair needs. Identifying which you have matters, because it changes the scope, the coverage issues, and the proper repair.',
 }

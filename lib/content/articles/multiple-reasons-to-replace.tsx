@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Multiple Reasons to Replace: Don\'t Get Stuck Arguing One When You Have Seven',
+  title: "Multiple Reasons to Replace: Don't Argue Just One",
   description:
-    'One of the biggest mistakes in insurance claim negotiation is arguing one reason for replacement when you have several. If only one of seven reasons is valid, the item may still need to be replaced. Learn how to avoid the tunnel-vision trap and use every argument available.',
+    "Arguing one reason for replacement when you have several is a common negotiation mistake. Use every argument - one valid reason may still win replacement.",
   summary:
     'Do not argue just one reason an item must be replaced when you have several. If even one of multiple valid reasons holds, replacement is owed, so present every applicable argument rather than betting on a single one.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Vehicle Impact Insurance Claims: When a Car Hits Your Building',
+  title: "Vehicle Impact Claims: When a Car Hits Your Building",
   description:
-    'How to handle an insurance claim when a vehicle strikes your home or commercial building — first-party vs. third-party strategies, scope disputes, engineering assessments, code upgrades, loss of use, and subrogation.',
+    "First-party vs. third-party strategies when a vehicle strikes your home or building: scope disputes, engineering assessments, code upgrades, and subrogation.",
   summary:
     'When a vehicle strikes your building, you can claim against your own policy (first-party) or the driver\'s (third-party). Watch scope disputes, code upgrades, loss of use, and subrogation, and choose the strategy that gets you paid fastest and fullest.',
 }

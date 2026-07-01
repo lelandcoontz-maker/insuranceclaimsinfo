@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The First Adjuster Call: What Policyholders Tend to Share, and What They Hold Back',
+  title: "The First Adjuster Call: What to Say and Hold Back",
   description:
-    'A practical look at what many policyholders share, and what they hold back, on the first adjuster call after a property loss — and why an early dollar guess or a casual maintenance comment can follow the claim through to settlement.',
+    "What policyholders share and hold back on the first adjuster call - and why an early dollar guess or casual maintenance comment can follow the claim.",
   summary:
     'On the first adjuster call after a property loss, the pattern that tends to work for policyholders is cooperative-but-brief: factual description of what happened and what mitigation was done, without speculation about cause or dollar amount, and without agreeing to a recorded statement or final figure on the spot.',
 }

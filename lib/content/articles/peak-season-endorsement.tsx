@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Peak Season Endorsement: Protecting Seasonal Inventory Spikes That Standard Limits Miss',
+    "Peak Season Endorsement for Seasonal Inventory Spikes",
   description:
-    'How the ISO CP 12 30 Peak Season endorsement increases business personal property limits during high-inventory months, and why most seasonal businesses are dangerously underinsured during their highest-exposure periods.',
+    "How the ISO CP 12 30 Peak Season endorsement raises business personal property limits during high-inventory months - and why seasonal businesses underinsure.",
   summary:
     'The ISO CP 12 30 Peak Season endorsement temporarily raises business personal property limits during high-inventory months. Without it, seasonal businesses are dangerously underinsured exactly when they have the most stock at risk.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Drying Standards and Moisture Documentation: The Science Behind Water Damage Restoration',
+  title: "Drying Standards and Moisture Documentation (IICRC S500)",
   description:
-    'Learn how IICRC S500 drying standards govern water damage restoration, why moisture documentation matters for your insurance claim, and how carriers exploit gaps in the process to underpay claims.',
+    "How IICRC S500 drying standards govern water damage restoration, why moisture documentation matters for your claim, and how carriers exploit gaps to underpay.",
   summary:
     'Proper water-damage restoration follows IICRC S500 drying standards, with moisture readings documenting that the structure was dried correctly. Carriers exploit gaps in this documentation to underpay, so insist on thorough moisture records.',
 }

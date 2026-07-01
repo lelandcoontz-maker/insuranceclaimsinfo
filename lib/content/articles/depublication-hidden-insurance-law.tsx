@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Depublication: How California Insurance Law Disappears',
   description:
-    'How the California Supreme Court\'s depublication power removes policyholder-favorable appellate opinions from the body of citable law, and why this little-known process matters for insurance claims disputes.',
+    "How the California Supreme Court's depublication power removes policyholder-favorable appellate opinions from citable law, and why it matters in claim disputes.",
   summary:
     'Through depublication, the California Supreme Court can strip a policyholder-favorable appellate decision from citable law without overruling it. This little-known power quietly shapes which insurance precedents lawyers can rely on.',
 }

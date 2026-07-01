@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'SB 495: California\'s New Contents and Proof-of-Loss Rules After Declared Disasters',
+  title: "SB 495: California's New Contents and Proof-of-Loss Rules",
   description:
-    'How SB 495 changes residential personal-property claims after declared emergencies: a 60% / $350,000 automatic contents advance under Ins. Code §10103.7 and a separate 100-day proof-of-loss extension under §2051.5(b)(3)(A).',
+    "SB 495 gives California disaster survivors a 60% / $350,000 contents advance under Ins. Code §10103.7 and a 100-day proof-of-loss extension under §2051.5.",
   summary:
     'SB 495 (Stats. 2025, ch. 542) added two distinct protections for residential policyholders after a declared emergency: a 60% / $350,000 automatic contents advance under Ins. Code §10103.7(b)(1), and a separate 100-day minimum on when an insurer may require proof of loss under §2051.5(b)(3)(A).',
 }

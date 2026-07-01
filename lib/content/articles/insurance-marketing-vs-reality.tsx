@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Insurance Marketing vs. Reality: When Advertising Promises Diverge From Claims Handling',
+  title: "Insurance Marketing vs. Reality",
   description:
-    'Insurance advertising promises protection, personal service, and good faith. The claims process often delivers delay, lowball offers, and adversarial handling. Those ads can become evidence against the insurer.',
+    "Insurance ads promise protection, personal service, and good faith. Claims often bring delay and lowball offers. Those ads can become evidence in your case.",
   summary:
     'Insurers advertise protection and good faith, but claims handling often delivers delay and lowball offers. That gap matters: the advertising promises can become evidence against the insurer when its conduct contradicts them.',
 }

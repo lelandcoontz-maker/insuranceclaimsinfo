@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Theft and Burglary Insurance Claims: What Policyholders Need to Know',
+  title: "Theft and Burglary Insurance Claims in California",
   description:
-    'A guide to filing theft and burglary claims under homeowner insurance policies. Covers dwelling, other structures, and personal property, sublimits, mysterious disappearance, vacancy exclusions, SIU investigations, and California-specific rules.',
+    "Filing theft and burglary claims: Dwelling, Other Structures, and Personal Property sublimits, mysterious disappearance, vacancy exclusions, and SIU tactics.",
   summary:
     'Theft and burglary claims involve personal property limits and sub-limits on items like jewelry and cash, the \'mysterious disappearance\' issue, vacancy exclusions, and possible SIU scrutiny. File a police report and document losses to support the claim.',
 }

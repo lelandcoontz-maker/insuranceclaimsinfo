@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Advance Payments and Partial Payments: Your Right to Money Before the Claim Is Resolved',
+  title: "Advance and Partial Payments: Money Before Claim Closes",
   description:
-    'Insurance companies used to issue generous advance payments as a strategic tool. Now they rarely pay anything until a precise amount is calculated. Learn why that shift happened, what the law requires, and how to demand the money you are owed before your claim is fully resolved.',
+    "Insurers once paid generous advances; now they wait. Why that shifted, what California law requires, and how to demand payment before the claim resolves.",
   summary:
     'Insurers once advanced money freely but now often pay nothing until an exact figure is set. California law still requires prompt payment of undisputed amounts, so you can demand partial payment now and keep adjusting the rest.',
 }

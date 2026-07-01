@@ -25,15 +25,15 @@
   },
   "accounts-receivable-valuable-papers": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "acv-rcv": {
     "published": "2026-03-28",
-    "modified": "2026-06-27"
+    "modified": "2026-06-30"
   },
   "adding-family-member-deed-insurance": {
     "published": "2026-05-03",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "adjuster-changes-mid-claim": {
     "published": "2026-05-03",
@@ -53,7 +53,7 @@
   },
   "adu-granny-flat-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-18"
+    "modified": "2026-06-30"
   },
   "advance-payments-insurance-claims": {
     "published": "2026-05-16",
@@ -89,7 +89,7 @@
   },
   "anti-concurrent-causation": {
     "published": "2026-04-30",
-    "modified": "2026-06-10"
+    "modified": "2026-06-30"
   },
   "appraisal-mediation-litigation-decision": {
     "published": "2026-05-03",
@@ -101,7 +101,7 @@
   },
   "appraisal-tolling-statute-limitations": {
     "published": "2026-05-02",
-    "modified": "2026-06-22"
+    "modified": "2026-06-30"
   },
   "appraisal-trap-tactics": {
     "published": "2026-05-04",
@@ -117,7 +117,7 @@
   },
   "assigning-insurance-claims-selling-damaged-property": {
     "published": "2026-05-16",
-    "modified": "2026-06-14"
+    "modified": "2026-06-30"
   },
   "assignment-of-benefits": {
     "published": "2026-04-30",
@@ -125,11 +125,11 @@
   },
   "auto-repair-body-shop-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-20"
+    "modified": "2026-06-30"
   },
   "back-to-back-disasters": {
     "published": "2026-05-04",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "bad-faith-damages": {
     "published": "2026-05-02",
@@ -141,7 +141,7 @@
   },
   "balloon-vs-platform-framing": {
     "published": "2026-05-02",
-    "modified": "2026-06-14"
+    "modified": "2026-06-30"
   },
   "basement-flooding-coverage": {
     "published": "2026-05-16",
@@ -165,7 +165,7 @@
   },
   "biohazard-drywall-fraud-threat": {
     "published": "2026-04-08",
-    "modified": "2026-06-26"
+    "modified": "2026-06-30"
   },
   "biohazard-hazmat-trauma-cleanup": {
     "published": "2026-05-03",
@@ -193,7 +193,7 @@
   },
   "builders-risk-insurance-claims": {
     "published": "2026-05-16",
-    "modified": "2026-06-27"
+    "modified": "2026-06-30"
   },
   "builders-risk": {
     "published": "2026-05-01",
@@ -233,7 +233,7 @@
   },
   "business-personal-property-claims": {
     "published": "2026-05-02",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "caci-jury-instructions-insurance": {
     "published": "2026-04-08",
@@ -245,11 +245,11 @@
   },
   "california-construction-law-claims": {
     "published": "2026-05-02",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "california-fair-claims-regulations-full-text": {
     "published": "2026-06-06",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "california-fair-claims": {
     "published": "2026-03-28",
@@ -337,11 +337,11 @@
   },
   "church-nonprofit-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-14"
+    "modified": "2026-06-30"
   },
   "civil-authority-utility-services": {
     "published": "2026-05-02",
-    "modified": "2026-06-14"
+    "modified": "2026-06-30"
   },
   "claim-denied-options": {
     "published": "2026-05-16",
@@ -369,11 +369,11 @@
   },
   "code-upgrade-coverage": {
     "published": "2026-04-08",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "cognitive-decline-insurance": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "coinsurance-penalty": {
     "published": "2026-04-04",
@@ -381,7 +381,7 @@
   },
   "collapse-coverage": {
     "published": "2026-05-01",
-    "modified": "2026-06-28"
+    "modified": "2026-06-30"
   },
   "color-matching-material-aging": {
     "published": "2026-05-03",
@@ -417,7 +417,7 @@
   },
   "commercial-policy-explained": {
     "published": "2026-06-07",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "commercial-umbrella-excess-liability": {
     "published": "2026-05-04",
@@ -429,7 +429,7 @@
   },
   "commercial-vs-residential-claims": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "common-xactimate-errors": {
     "published": "2026-05-02",
@@ -445,7 +445,7 @@
   },
   "consequential-vs-ensuing-damages": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "construction-company-insurance-claims": {
     "published": "2026-05-04",
@@ -457,7 +457,7 @@
   },
   "construction-timeline-disputes-ale": {
     "published": "2026-05-03",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "consumer-advocacy-groups": {
     "published": "2026-05-02",
@@ -481,7 +481,7 @@
   },
   "contingent-business-interruption": {
     "published": "2026-05-02",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "contra-proferentem": {
     "published": "2026-05-02",
@@ -489,7 +489,7 @@
   },
   "contractor-liens-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "contractors-and-deductibles": {
     "published": "2026-05-03",
@@ -517,7 +517,7 @@
   },
   "coworking-space-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-20"
+    "modified": "2026-06-30"
   },
   "cp-cause-of-loss-forms": {
     "published": "2026-05-02",
@@ -533,7 +533,7 @@
   },
   "cslb-licensing-requirements": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "cyber-coverage-homeowners": {
     "published": "2026-05-02",
@@ -541,7 +541,7 @@
   },
   "daycare-childcare-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-16"
+    "modified": "2026-06-30"
   },
   "dealing-with-adjuster": {
     "published": "2026-04-04",
@@ -569,7 +569,7 @@
   },
   "delay-deny-defend-review": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "demand-surge-pricing": {
     "published": "2026-05-02",
@@ -577,7 +577,7 @@
   },
   "dependent-property-business-income": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "depublication-hidden-insurance-law": {
     "published": "2026-05-04",
@@ -605,7 +605,7 @@
   },
   "divorce-separation-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "do-i-need-a-lawyer": {
     "published": "2026-05-16",
@@ -645,7 +645,7 @@
   },
   "ecommerce-business-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "efficient-proximate-cause-doctrine": {
     "published": "2026-05-04",
@@ -653,15 +653,15 @@
   },
   "elder-abuse-insurance": {
     "published": "2026-04-08",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "emergency-mitigation-vendors": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "emotional-distress-bad-faith-claims": {
     "published": "2026-05-16",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "employee-dishonesty-crime-gap": {
     "published": "2026-05-03",
@@ -725,15 +725,15 @@
   },
   "exclusions": {
     "published": "2026-03-28",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "expert-witnesses-insurance-litigation": {
     "published": "2026-05-02",
-    "modified": "2026-06-28"
+    "modified": "2026-06-30"
   },
   "extended-period-of-indemnity": {
     "published": "2026-05-04",
-    "modified": "2026-06-15"
+    "modified": "2026-06-30"
   },
   "extra-contractual-vs-bad-faith": {
     "published": "2026-05-02",
@@ -769,7 +769,7 @@
   },
   "fire-debris-cleanup-without-fire": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "fire-department-demolition-charges": {
     "published": "2026-05-02",
@@ -833,7 +833,7 @@
   },
   "games-insurers-play-adjuster-musical-chairs": {
     "published": "2026-05-19",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "games-insurers-play-claims-process-grief": {
     "published": "2026-05-16",
@@ -845,7 +845,7 @@
   },
   "games-insurers-play-expert-capture": {
     "published": "2026-05-19",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "games-insurers-play-preferred-vendor": {
     "published": "2026-05-03",
@@ -857,19 +857,19 @@
   },
   "genuine-dispute-doctrine": {
     "published": "2026-05-02",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "glass-breakage-claims": {
     "published": "2026-05-01",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "good-hands-boxing-gloves-review": {
     "published": "2026-05-04",
-    "modified": "2026-06-27"
+    "modified": "2026-06-30"
   },
   "gym-fitness-center-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "hail-damage-claims": {
     "published": "2026-04-04",
@@ -893,7 +893,7 @@
   },
   "hiring-attorney-for-euo": {
     "published": "2026-05-19",
-    "modified": "2026-06-24"
+    "modified": "2026-06-30"
   },
   "historic-heritage-home-claims": {
     "published": "2026-05-03",
@@ -905,7 +905,7 @@
   },
   "history-of-fair-plans": {
     "published": "2026-06-27",
-    "modified": "2026-06-27"
+    "modified": "2026-06-30"
   },
   "hoarding-insurance-coverage": {
     "published": "2026-05-03",
@@ -925,7 +925,7 @@
   },
   "how-insurance-adjusters-are-paid": {
     "published": "2026-05-03",
-    "modified": "2026-06-29"
+    "modified": "2026-06-30"
   },
   "how-insurance-payments-calculated": {
     "published": "2026-05-03",
@@ -965,7 +965,7 @@
   },
   "illusory-coverage": {
     "published": "2026-05-02",
-    "modified": "2026-06-15"
+    "modified": "2026-06-30"
   },
   "incomplete-repairs-create-new-problems": {
     "published": "2026-05-03",
@@ -989,11 +989,11 @@
   },
   "innocent-co-insured-doctrine": {
     "published": "2026-05-03",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "insurable-interest": {
     "published": "2026-04-08",
-    "modified": "2026-06-27"
+    "modified": "2026-06-30"
   },
   "insurance-ai-automated-claims": {
     "published": "2026-05-03",
@@ -1001,7 +1001,7 @@
   },
   "insurance-claim-assignments": {
     "published": "2026-05-03",
-    "modified": "2026-06-28"
+    "modified": "2026-06-30"
   },
   "insurance-claim-glossary": {
     "published": "2026-05-16",
@@ -1009,7 +1009,7 @@
   },
   "insurance-claims-file": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "insurance-code-790": {
     "published": "2026-04-08",
@@ -1061,7 +1061,7 @@
   },
   "insurer-insolvency-ciga": {
     "published": "2026-05-04",
-    "modified": "2026-06-27"
+    "modified": "2026-06-30"
   },
   "insurer-not-responding": {
     "published": "2026-05-16",
@@ -1089,19 +1089,19 @@
   },
   "joint-ownership-insurance": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "knob-and-tube-wiring": {
     "published": "2026-05-02",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "kurach-op-policy-restrictions": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "labor-depreciation-debate": {
     "published": "2026-05-03",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "landlord-duty-to-disclose": {
     "published": "2026-05-03",
@@ -1113,7 +1113,7 @@
   },
   "landlord-vs-tenant-claims": {
     "published": "2026-04-30",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "large-commercial-losses": {
     "published": "2026-05-01",
@@ -1133,7 +1133,7 @@
   },
   "long-term-displacement-ale": {
     "published": "2026-05-03",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "loss-assessment-coverage": {
     "published": "2026-05-01",
@@ -1161,7 +1161,7 @@
   },
   "manufacturing-industrial-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "marine-cargo-claims": {
     "published": "2026-04-08",
@@ -1177,15 +1177,15 @@
   },
   "matching": {
     "published": "2026-03-28",
-    "modified": "2026-06-29"
+    "modified": "2026-06-30"
   },
   "material-misrepresentation-nondisclosure": {
     "published": "2026-05-03",
-    "modified": "2026-06-10"
+    "modified": "2026-06-30"
   },
   "medical-dental-office-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "misleading-replacement-cost-estimates": {
     "published": "2026-05-02",
@@ -1221,7 +1221,7 @@
   },
   "multiple-insurers-same-loss": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "multiple-reasons-to-replace": {
     "published": "2026-04-08",
@@ -1249,7 +1249,7 @@
   },
   "new-california-insurance-laws-2025-2026": {
     "published": "2026-05-03",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "nfip-sandy-claims-underpayment": {
     "published": "2026-04-30",
@@ -1293,7 +1293,7 @@
   },
   "ordinance-law-asbestos-abatement": {
     "published": "2026-05-04",
-    "modified": "2026-06-09"
+    "modified": "2026-06-30"
   },
   "ordinance-law": {
     "published": "2026-03-28",
@@ -1313,7 +1313,7 @@
   },
   "packout-storage-process": {
     "published": "2026-05-02",
-    "modified": "2026-06-27"
+    "modified": "2026-06-30"
   },
   "pair-and-set": {
     "published": "2026-04-30",
@@ -1321,7 +1321,7 @@
   },
   "parametric-insurance-commercial": {
     "published": "2026-05-04",
-    "modified": "2026-06-28"
+    "modified": "2026-06-30"
   },
   "parametric-insurance": {
     "published": "2026-05-03",
@@ -1353,7 +1353,7 @@
   },
   "policy-interpretation": {
     "published": "2026-03-28",
-    "modified": "2026-06-07"
+    "modified": "2026-06-30"
   },
   "policy-reformation": {
     "published": "2026-05-02",
@@ -1393,7 +1393,7 @@
   },
   "power-of-attorney-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-23"
+    "modified": "2026-06-30"
   },
   "pre-existing-vs-storm-damage": {
     "published": "2026-04-08",
@@ -1413,7 +1413,7 @@
   },
   "professional-services-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "proof-of-loss-signing-strategy": {
     "published": "2026-05-03",
@@ -1425,7 +1425,7 @@
   },
   "property-held-in-trust-coverage": {
     "published": "2026-05-04",
-    "modified": "2026-06-23"
+    "modified": "2026-06-30"
   },
   "protective-safeguards": {
     "published": "2026-05-02",
@@ -1441,7 +1441,7 @@
   },
   "punitive-damages-bad-faith": {
     "published": "2026-05-04",
-    "modified": "2026-06-22"
+    "modified": "2026-06-30"
   },
   "rain-damage-vs-flood": {
     "published": "2026-05-03",
@@ -1481,7 +1481,7 @@
   },
   "recoverable-depreciation-deadline": {
     "published": "2026-05-02",
-    "modified": "2026-06-09"
+    "modified": "2026-06-30"
   },
   "release-trap-insurance-claims": {
     "published": "2026-05-03",
@@ -1497,7 +1497,7 @@
   },
   "repair-first-or-negotiate-first": {
     "published": "2026-05-04",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "replacement-cost-explained": {
     "published": "2026-05-16",
@@ -1505,7 +1505,7 @@
   },
   "replacement-cost-vs-guaranteed": {
     "published": "2026-04-30",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "reservation-of-rights-letter": {
     "published": "2026-05-03",
@@ -1529,7 +1529,7 @@
   },
   "retail-store-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "retaining-wall-hillside-claims": {
     "published": "2026-05-02",
@@ -1537,7 +1537,7 @@
   },
   "reverse-mortgage-insurance-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-13"
+    "modified": "2026-06-30"
   },
   "ricowi-hail-field-investigations": {
     "published": "2026-04-30",
@@ -1569,11 +1569,11 @@
   },
   "rural-agricultural-property-claims": {
     "published": "2026-05-03",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "salon-spa-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-17"
+    "modified": "2026-06-30"
   },
   "salvage-rights": {
     "published": "2026-05-02",
@@ -1605,7 +1605,7 @@
   },
   "self-storage-facility-insurance-claims": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "selling-property-pending-claim": {
     "published": "2026-05-02",
@@ -1705,7 +1705,7 @@
   },
   "standard-fire-policy-insurance-code-2070": {
     "published": "2026-05-04",
-    "modified": "2026-06-29"
+    "modified": "2026-06-30"
   },
   "statement-of-loss": {
     "published": "2026-05-02",
@@ -1713,7 +1713,7 @@
   },
   "stigmatized-properties-insurance": {
     "published": "2026-05-16",
-    "modified": "2026-06-28"
+    "modified": "2026-06-30"
   },
   "stock-inventory-valuation-methods": {
     "published": "2026-05-04",
@@ -1729,7 +1729,7 @@
   },
   "sub-bids-vs-xactimate-pricing": {
     "published": "2026-05-03",
-    "modified": "2026-06-24"
+    "modified": "2026-06-30"
   },
   "sub-severe-hail-cumulative-damage": {
     "published": "2026-04-30",
@@ -1765,7 +1765,7 @@
   },
   "sustainable-insurance-strategy": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "swimming-pool-damage": {
     "published": "2026-04-30",
@@ -1833,7 +1833,7 @@
   },
   "trade-secret-claims-manuals": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "tree-falling-object-damage": {
     "published": "2026-05-01",
@@ -1853,7 +1853,7 @@
   },
   "underinsurance-broker-liability": {
     "published": "2026-05-16",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "underinsured-after-wildfire": {
     "published": "2026-04-04",
@@ -1869,7 +1869,7 @@
   },
   "undue-influence-insurance": {
     "published": "2026-05-03",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "unexpected-fire-causes-subrogation": {
     "published": "2026-05-04",
@@ -1901,7 +1901,7 @@
   },
   "vandalism-claims": {
     "published": "2026-03-28",
-    "modified": "2026-06-19"
+    "modified": "2026-06-30"
   },
   "vehicle-impact-claims": {
     "published": "2026-05-01",
@@ -1925,7 +1925,7 @@
   },
   "water-backup-endorsement": {
     "published": "2026-05-16",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "water-damage-categories-classes": {
     "published": "2026-05-02",
@@ -1949,7 +1949,7 @@
   },
   "wear-and-tear-exclusion": {
     "published": "2026-05-04",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "what-does-homeowner-policy-cover": {
     "published": "2026-05-16",
@@ -2013,11 +2013,11 @@
   },
   "xactimate-labor-efficiency-settings": {
     "published": "2026-05-03",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "xactimate-line-item-manipulation": {
     "published": "2026-05-03",
-    "modified": "2026-06-06"
+    "modified": "2026-06-30"
   },
   "xactimate-line-items": {
     "published": "2026-05-02",
@@ -2025,7 +2025,7 @@
   },
   "xactimate-not-the-law": {
     "published": "2026-05-03",
-    "modified": "2026-06-11"
+    "modified": "2026-06-30"
   },
   "xactimate-ownership-conflict": {
     "published": "2026-05-02",
@@ -2041,7 +2041,7 @@
   },
   "xactimate-pricing-user-responsibility": {
     "published": "2026-05-03",
-    "modified": "2026-06-26"
+    "modified": "2026-06-30"
   },
   "xactimate-training-guide": {
     "published": "2026-04-08",

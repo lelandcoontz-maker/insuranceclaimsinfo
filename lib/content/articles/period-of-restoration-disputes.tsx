@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Period of Restoration Disputes: When Does Your Business Income or ALE Coverage Actually End?',
+  title: "Period of Restoration Disputes for Business Income and ALE",
   description:
-    'The period of restoration determines how long your insurer pays business income or additional living expenses after a loss. Learn why it is one of the most litigated terms in property insurance, how insurers shorten the period, and how to protect your recovery.',
+    "The period of restoration controls how long your carrier pays business income or ALE. Why it's litigated, how insurers shorten it, and how to fight back.",
   summary:
     'The period of restoration sets how long the insurer pays business income or ALE after a loss, and it is heavily litigated. Insurers try to shorten it; document the realistic time to restore operations or your home to protect the full benefit.',
 }

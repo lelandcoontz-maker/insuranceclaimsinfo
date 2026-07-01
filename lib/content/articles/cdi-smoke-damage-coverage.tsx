@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { DocumentEmbed } from '@/components/content/DocumentEmbed'
 
 export const meta = {
-  title: 'Smoke Damage Claims in California: CDI Bulletin 2025-7 and Your Rights',
+  title: "CA Smoke Damage Claims: CDI Bulletin 2025-7 Explained",
   description:
-    'The California Department of Insurance confirmed that smoke damage is covered under homeowner policies. Here is the full text of Bulletin 2025-7 with practical guidance for policyholders filing smoke damage claims.',
+    "The California Department of Insurance confirmed smoke damage is covered under homeowner policies. Full Bulletin 2025-7 text with practical claim guidance.",
   summary:
     'The California Department of Insurance confirmed in Bulletin 2025-7 that smoke damage is covered under homeowner policies and cannot be brushed off as cosmetic. Use the bulletin to push back when a carrier minimizes a smoke claim.',
 }

@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Pollution Exclusion in Property Insurance Claims: History, Misapplication, and California Law',
+  title: "The Pollution Exclusion in Property Claims: California Law",
   description:
     'How insurers misuse the pollution exclusion to deny fire and asbestos claims. California case law, efficient proximate cause, and practical guidance.',
   summary:

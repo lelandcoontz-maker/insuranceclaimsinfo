@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Builder&rsquo;s Risk Insurance: Coverage for Buildings Under Construction',
+  title: "Builder's Risk Insurance: Buildings Under Construction",
   description:
-    'Builder&rsquo;s risk insurance covers buildings during construction, renovation, or remodeling. Learn what it covers, what it excludes, how claims work, and why the transition to permanent coverage is critical.',
+    "Builder's risk insurance covers buildings during construction or renovation. What it covers, what it excludes, and the transition to permanent coverage.",
   summary:
     'Builder\'s risk insurance covers a building during construction, renovation, or remodeling. Know what it excludes, how claims work, and especially the critical moment when it must transition to a permanent property policy, because a gap there can leave you uncovered.',
 }

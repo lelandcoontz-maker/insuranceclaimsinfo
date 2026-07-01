@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When the Standard Fire Policy Strips Away an Insurer\'s Appraisal Conditions',
+  title: "How the Standard Fire Policy Strips Insurer Appraisal Terms",
   description:
-    'How the Standard Fire Policy sets a minimum standard for appraisal rights that insurers cannot undercut, with key case law from Hart v. State Farm and Haddock v. State Farm.',
+    "How the Standard Fire Policy sets a minimum standard for appraisal rights that insurers cannot undercut, with Hart v. State Farm and Haddock v. State Farm.",
   summary:
     'California\'s Standard Fire Policy sets a floor for appraisal rights that an insurer\'s own policy language cannot undercut. Hart v. State Farm and Haddock v. State Farm confirm insurers cannot impose conditions that strip the appraisal rights the SFP guarantees.',
 }

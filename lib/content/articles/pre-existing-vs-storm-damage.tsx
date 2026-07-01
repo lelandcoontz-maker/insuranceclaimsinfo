@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Pre-Existing Damage vs. Storm Damage: Fighting the "Wear and Tear" Denial',
+  title: "Pre-Existing Damage vs. Storm Damage: Beating the Denial",
   description:
-    'Insurance companies routinely attribute storm damage to pre-existing conditions. Learn how to distinguish legitimate storm damage from wear and tear, build your evidence, and defeat the most common denial tactic in property insurance.',
+    "How to distinguish real storm damage from wear and tear, build evidence, and defeat the most common denial tactic in California property insurance.",
   summary:
     'Insurers routinely blame storm damage on pre-existing wear and tear to deny claims. Counter it by documenting the storm event, the condition before and after, and the mechanism of damage, distinguishing sudden storm harm from gradual deterioration.',
 }

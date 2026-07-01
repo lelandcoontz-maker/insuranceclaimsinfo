@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "Xactimate Price List Dates: Why the Date on Your Estimate Matters More Than You Think",
+  title: "Xactimate Price List Dates and Why They Matter",
   description:
-    "How insurance companies use outdated Xactimate price lists to systematically underpay claims. Learn where to find the price list date, why it matters, and how to challenge an estimate built on stale pricing data.",
+    "How insurers use outdated Xactimate price lists to systematically underpay claims. Where to find the date, why it matters, and how to challenge stale pricing.",
   summary:
     'Xactimate price lists update regularly, and carriers sometimes use an outdated list to underpay at stale prices. Check the price-list date on your estimate, and challenge any estimate built on pricing that does not reflect current costs.',
 }

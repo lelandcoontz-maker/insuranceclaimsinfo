@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "How to Read Your Insurance Statement of Loss: The Document That Shows Where Your Money Went",
+  title: "How to Read Your Insurance Statement of Loss",
   description:
-    "The statement of loss is the carrier's accounting of your entire claim — what it calculated, what it deducted, and what it paid on each coverage. Learning to read it is the first step to identifying underpayment.",
+    "The statement of loss is the carrier's accounting of your claim - what it calculated, deducted, and paid. The first step to spotting underpayment.",
   summary:
     'The statement of loss is the carrier\'s accounting of your claim, showing replacement cost, depreciation, deductible, and what was actually paid. Reading it line by line reveals where your money went and where the carrier shorted you.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Types of Insurance Policies: A Complete Guide to Residential, Commercial, and Specialty Coverage',
+  title: "Types of Insurance Policies: Residential to Specialty",
   description:
-    'A comprehensive overview of every major property insurance policy type — HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial property, businessowners, flood, earthquake, DIC, builder\'s risk, and inland marine — with coverage details, exclusions, and California-specific considerations.',
+    "Property policy forms compared: HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, BOP, flood, earthquake, DIC, builder's risk, and inland marine in California.",
   summary:
     'Property insurance comes in many forms, HO-3, HO-4, HO-5, HO-6, HO-8, dwelling fire, commercial, BOP, flood, earthquake, DIC, builder\'s risk, and inland marine, each with different coverage, exclusions, and California considerations. Know which type you actually hold.',
 }

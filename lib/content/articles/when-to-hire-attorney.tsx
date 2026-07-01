@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
-  title: "When to Hire an Insurance Claim Attorney — And How Attorneys and Public Adjusters Work Together",
+  title: "When to Hire an Insurance Claim Attorney",
   description:
-    "Not every insurance claim needs a lawyer, but some absolutely do. Learn the fundamental difference between attorneys and Public Adjusters, when you need one or both, how their fees work, and how the PA-to-attorney pipeline maximizes your recovery.",
+    "Not every claim needs a lawyer, but some do. The difference between attorneys and Public Adjusters, when to hire one or both, and how their fees work.",
   summary:
     'Not every claim needs a lawyer, but bad faith, outright denial, or litigation does. A Public Adjuster handles valuation and negotiation; an attorney handles legal disputes. They can work together, with the PA-to-attorney pipeline maximizing recovery.',
 }

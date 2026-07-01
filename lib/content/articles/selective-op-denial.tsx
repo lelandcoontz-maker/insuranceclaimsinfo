@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Selective O&P Denial: When Carriers Pay It on Some Trades But Not Others',
+  title: "Selective O&P Denial: Pay Some Trades, Not Others",
   description:
-    'Insurance companies routinely apply overhead and profit to some portions of a claim while excluding others — denying it on roofing, mitigation, or contents. This all-or-nothing issue cost Allstate $335,000 on a $33,000 dispute. The case law, the Xactimate mechanics, and how to fight back.',
+    "Insurers apply overhead and profit to some trades and deny it on others. The all-or-nothing case law, the Xactimate mechanics, and how to fight back.",
   summary:
     'Carriers often pay overhead and profit on some trades but deny it on others, like roofing or mitigation, an all-or-nothing issue courts have rejected. If a GC is needed for the project, O&P generally applies across the work, not selectively.',
 }

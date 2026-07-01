@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Insurance Policy Reformation: When the Policy Doesn\'t Match What You Were Sold',
+  title: "Policy Reformation: When the Policy Doesn't Match the Sale",
   description:
-    'Policy reformation is a court remedy that rewrites your insurance policy to match what was actually agreed upon or represented. Learn the grounds, the standard of proof, and when reformation can save your claim.',
+    "Policy reformation is a court remedy that rewrites the policy to match what was agreed or represented. The grounds, standard of proof, and when it saves claims.",
   summary:
     'Reformation is a court remedy that rewrites a policy to match what was actually agreed or represented, when the written policy does not. It requires clear proof, but it can save a claim where the document does not reflect the real agreement.',
 }

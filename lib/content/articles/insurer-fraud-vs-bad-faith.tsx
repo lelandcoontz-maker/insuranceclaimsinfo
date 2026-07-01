@@ -5,7 +5,7 @@ import { QABlock } from '@/components/content/QABlock'
 export const meta = {
   title: 'Insurer Fraud vs. Bad Faith: Where Is the Line?',
   description:
-    'When does insurance company misconduct cross from bad faith into actual fraud? This article explains the legal distinction, different elements of proof, statutes of limitations, punitive damages, and real-life examples where courts found fraud or rejected fraud claims against insurers.',
+    "The legal line between bad faith and insurance fraud in California: elements of proof, statutes of limitations, punitive damages, and case examples.",
   summary:
     'Bad faith is unreasonable claim handling; fraud requires intentional deception. They have different elements, deadlines, and remedies, and fraud is harder to prove but can expand damages. Knowing the line helps you frame the right claim.',
 }

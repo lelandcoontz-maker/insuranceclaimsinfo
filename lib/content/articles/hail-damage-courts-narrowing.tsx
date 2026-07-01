@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Shrinking Definition of Hail Damage: How Courts and Insurers Are Raising the Bar',
+  title: "The Shrinking Definition of Hail Damage",
   description:
-    'Courts and insurers are increasingly defining hail damage more narrowly, requiring functional impairment rather than cosmetic impact. What policyholders need to know.',
+    "Courts and insurers increasingly require functional impairment rather than cosmetic impact for hail damage. What policyholders need to know before a denial.",
   summary:
     'Courts and insurers increasingly define hail damage narrowly, demanding functional impairment rather than just cosmetic marks. This rising bar makes documentation and expert support more important to win a hail claim.',
 }

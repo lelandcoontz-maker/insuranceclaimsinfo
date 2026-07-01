@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When Fires Start Themselves: Unexpected Ignition Sources, Misdiagnosed Origins & Subrogation',
+  title: "Unexpected Fire Causes and Subrogation Claims",
   description:
-    'Crystal doorknobs, oily rags, pyrolysis, defective panels, recalled vehicles — unexpected fire causes that get misdiagnosed and the subrogation claims your insurer may be ignoring.',
+    "Crystal doorknobs, oily rags, pyrolysis, defective panels, recalled cars - unexpected fire causes that get misdiagnosed and the subrogation claims to pursue.",
   summary:
     'Fires start in surprising ways, oily rags, pyrolysis, defective electrical panels, recalled vehicles, and these origins are often misdiagnosed. Identifying the true cause can both support coverage and open a subrogation claim your insurer may be ignoring.',
 }

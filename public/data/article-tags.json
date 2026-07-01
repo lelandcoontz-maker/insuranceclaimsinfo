@@ -1,8 +1,7 @@
 {
   "50-state-op-map": {
     "audience": [
-      "professional",
-      "attorney"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -12,7 +11,7 @@
   },
   "ab-1642-claims-timeline": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -43,7 +42,7 @@
   },
   "accommodation-payments": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -53,7 +52,7 @@
   },
   "accord-and-satisfaction-checks": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "fire",
@@ -155,7 +154,7 @@
   },
   "advance-payments-partial-payments": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -175,10 +174,9 @@
   },
   "ale-advance-payments": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
-      "fire",
       "ale"
     ],
     "contentType": "guide",
@@ -250,12 +248,12 @@
   },
   "appraisal-sfp-addition": {
     "audience": [
-      "attorney"
+      "mid-claim"
     ],
     "claimType": [
       "fire"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "appraisal-tolling-statute-limitations": {
@@ -296,7 +294,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "environmental"
   },
@@ -347,7 +345,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "bad-faith": {
@@ -406,7 +404,7 @@
   },
   "betterment-and-improvement": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -436,10 +434,10 @@
   },
   "biohazard-hazmat-trauma-cleanup": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
-      "theft"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -484,7 +482,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "broker-agent-liability": {
@@ -576,7 +574,7 @@
     "claimType": [
       "commercial"
     ],
-    "contentType": "guide",
+    "contentType": "checklist",
     "jurisdiction": "california"
   },
   "business-income-waiting-period": {
@@ -612,7 +610,6 @@
   },
   "caci-jury-instructions-insurance": {
     "audience": [
-      "professional",
       "attorney"
     ],
     "claimType": [
@@ -658,18 +655,18 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
   "california-fair-plan": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "fire",
       "smoke"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "california-insurance-case-law": {
@@ -704,7 +701,7 @@
   },
   "carrier-claims-tactics": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -754,12 +751,12 @@
   },
   "cause-and-origin-fire-investigations": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "fire"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "fire-smoke"
   },
@@ -785,7 +782,7 @@
   },
   "cdi-contents-without-inventory": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "contents"
@@ -840,7 +837,7 @@
       "mid-claim"
     ],
     "claimType": [
-      "commercial"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -917,7 +914,6 @@
   },
   "class-actions-mass-torts-insurers": {
     "audience": [
-      "professional",
       "attorney"
     ],
     "claimType": [
@@ -991,15 +987,13 @@
   },
   "color-matching-material-aging": {
     "audience": [
-      "professional",
       "attorney"
     ],
     "claimType": [
       "general"
     ],
     "contentType": "legal-analysis",
-    "jurisdiction": "california",
-    "subcategory": "fire-smoke"
+    "jurisdiction": "california"
   },
   "commercial-coinsurance": {
     "audience": [
@@ -1008,7 +1002,7 @@
     "claimType": [
       "commercial"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "commercial-crime-social-engineering": {
@@ -1028,7 +1022,7 @@
     "claimType": [
       "commercial"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "commercial-lease-insurance-checklist": {
@@ -1059,7 +1053,7 @@
       "commercial",
       "ale"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "commercial-ordinance-law": {
@@ -1084,7 +1078,7 @@
   },
   "commercial-umbrella-excess-liability": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "commercial"
@@ -1119,12 +1113,12 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "commonly-missed-items": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "mold"
@@ -1161,7 +1155,7 @@
     "claimType": [
       "commercial"
     ],
-    "contentType": "reference",
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "construction-defect-claims": {
@@ -1219,12 +1213,12 @@
   },
   "contents-coverage-gaps": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "contents"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "contents-inventory-guide": {
@@ -1232,7 +1226,6 @@
       "mid-claim"
     ],
     "claimType": [
-      "fire",
       "contents"
     ],
     "contentType": "guide",
@@ -1275,7 +1268,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "case-study",
     "jurisdiction": "california"
   },
   "cosmetic-damage-denials": {
@@ -1306,7 +1299,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "coverage-disputes": {
@@ -1442,7 +1435,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "declarations-page": {
@@ -1457,7 +1450,7 @@
   },
   "deductibles-guide": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "roof"
@@ -1477,7 +1470,7 @@
   },
   "demand-surge-pricing": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -1512,7 +1505,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "reference",
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "dic-policies": {
@@ -1528,7 +1521,7 @@
   },
   "diminution-in-value": {
     "audience": [
-      "mid-claim"
+      "professional"
     ],
     "claimType": [
       "fire",
@@ -1554,7 +1547,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "divorce-separation-insurance-claims": {
@@ -1589,7 +1582,7 @@
   },
   "drone-satellite-surveillance-insurers": {
     "audience": [
-      "mid-claim"
+      "professional"
     ],
     "claimType": [
       "roof"
@@ -1627,7 +1620,7 @@
     "claimType": [
       "roof"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "duty-to-investigate": {
@@ -1647,17 +1640,17 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
   "earthquake-insurance": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "ecommerce-business-insurance-claims": {
@@ -1729,7 +1722,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "coverage-types"
   },
@@ -1746,7 +1739,7 @@
   },
   "engineering-reports-vs-coverage": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -1797,12 +1790,12 @@
   },
   "equitable-tolling": {
     "audience": [
-      "attorney"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "estimate-bid-invoice-xactimate": {
@@ -1812,7 +1805,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "estoppel-waiver-insurance": {
@@ -1822,7 +1815,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "esx-file-rights-xactimate": {
@@ -1832,7 +1825,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "ev-battery-fires-homeowners-insurance": {
@@ -1842,7 +1835,7 @@
     "claimType": [
       "fire"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "fire-smoke"
   },
@@ -1863,7 +1856,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "exclusions": {
@@ -1913,7 +1906,7 @@
     "claimType": [
       "commercial"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "false-fraud-accusations-claims": {
@@ -1969,7 +1962,7 @@
   },
   "fire-damage-beginners-guide": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "fire",
@@ -2057,7 +2050,7 @@
   },
   "flood-insurance-nfip-vs-private": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "water",
@@ -2069,13 +2062,13 @@
   },
   "food-truck-mobile-vendor-insurance-claims": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "fire",
       "commercial"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "force-placed-insurance": {
@@ -2100,7 +2093,7 @@
   },
   "fortuity-doctrine-insurance": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -2146,7 +2139,7 @@
     "claimType": [
       "ale"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "valuation"
   },
@@ -2316,7 +2309,7 @@
   },
   "historic-heritage-home-claims": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -2326,7 +2319,7 @@
   },
   "history-of-bad-faith": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "ale"
@@ -2346,12 +2339,12 @@
   },
   "hoarding-insurance-coverage": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "home-renovation-insurance-coverage": {
@@ -2396,7 +2389,7 @@
   },
   "how-insurance-payments-calculated": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -2505,12 +2498,12 @@
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "independent-adjuster-explained": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -2548,7 +2541,7 @@
     ],
     "contentType": "reference",
     "jurisdiction": "california",
-    "subcategory": "policy-structure"
+    "subcategory": "property-types"
   },
   "innocent-co-insured-doctrine": {
     "audience": [
@@ -2577,7 +2570,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "reference",
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "insurance-claim-assignments": {
@@ -2612,12 +2605,12 @@
   },
   "insurance-code-790": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
   "insurance-delay-tactics": {
@@ -2653,7 +2646,6 @@
   },
   "insurance-myths-debunked": {
     "audience": [
-      "professional",
       "attorney"
     ],
     "claimType": [
@@ -2684,7 +2676,7 @@
   },
   "insurer-directed-failed-repairs-wasted-policy-limits": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "fire"
@@ -2694,7 +2686,7 @@
   },
   "insurer-disclosure-obligations": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -2714,17 +2706,16 @@
   },
   "insurer-duty-to-explain-payment": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "insurer-fraud-vs-bad-faith": {
     "audience": [
-      "professional",
       "attorney"
     ],
     "claimType": [
@@ -2790,7 +2781,7 @@
     "claimType": [
       "water"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "iso-insurance-services-office": {
@@ -2800,7 +2791,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "case-study",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "joint-ownership-insurance": {
@@ -2853,12 +2844,12 @@
       "commercial",
       "roof"
     ],
-    "contentType": "case-study",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "landlord-insurance-should-have-covered": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "commercial"
@@ -2981,14 +2972,12 @@
   },
   "managing-agent-punitive-damages": {
     "audience": [
-      "professional",
-      "attorney",
       "attorney"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "legal-analysis",
     "jurisdiction": "california"
   },
   "manufacturing-industrial-insurance-claims": {
@@ -3003,7 +2992,7 @@
   },
   "marine-cargo-claims": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -3013,7 +3002,7 @@
   },
   "marine-cargo-standalone": {
     "audience": [
-      "mid-claim"
+      "professional"
     ],
     "claimType": [
       "general"
@@ -3023,7 +3012,7 @@
   },
   "matching-impossible-banned-materials": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -3102,7 +3091,7 @@
       "water",
       "mold"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "water-mold"
   },
@@ -3112,7 +3101,7 @@
       "attorney"
     ],
     "claimType": [
-      "fire"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -3164,17 +3153,17 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "named-insured-vs-an-insured": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "named-vs-additional-insured": {
@@ -3182,7 +3171,7 @@
       "mid-claim"
     ],
     "claimType": [
-      "fire"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -3314,14 +3303,13 @@
   },
   "op-depreciation-california": {
     "audience": [
-      "professional",
-      "attorney"
+      "professional"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
-    "jurisdiction": "federal"
+    "contentType": "reference",
+    "jurisdiction": "california"
   },
   "open-perils-vs-named-perils": {
     "audience": [
@@ -3331,7 +3319,7 @@
       "contents",
       "roof"
     ],
-    "contentType": "reference",
+    "contentType": "guide",
     "jurisdiction": "california",
     "subcategory": "policy-structure"
   },
@@ -3368,8 +3356,7 @@
   },
   "overhead-and-profit": {
     "audience": [
-      "professional",
-      "attorney"
+      "professional"
     ],
     "claimType": [
       "general"
@@ -3405,7 +3392,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "valuation"
   },
@@ -3445,7 +3432,7 @@
   },
   "period-of-restoration-disputes": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "commercial",
@@ -3476,10 +3463,9 @@
   },
   "pets-animals-coverage": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
-      "fire",
       "contents",
       "ale"
     ],
@@ -3512,6 +3498,7 @@
       "mid-claim"
     ],
     "claimType": [
+      "ale",
       "roof"
     ],
     "contentType": "reference",
@@ -3519,7 +3506,7 @@
   },
   "policy-rescission": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "fire"
@@ -3536,7 +3523,7 @@
       "water",
       "commercial"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "policy-vs-law": {
@@ -3587,8 +3574,7 @@
       "water"
     ],
     "contentType": "reference",
-    "jurisdiction": "california",
-    "subcategory": "water-mold"
+    "jurisdiction": "california"
   },
   "post-disaster-scams": {
     "audience": [
@@ -3612,7 +3598,7 @@
   },
   "pre-existing-vs-storm-damage": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "roof"
@@ -3662,14 +3648,13 @@
   },
   "proof-of-loss-signing-strategy": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
-      "water",
       "roof"
     ],
     "contentType": "guide",
-    "jurisdiction": "federal"
+    "jurisdiction": "california"
   },
   "proof-of-loss": {
     "audience": [
@@ -3697,7 +3682,7 @@
       "mid-claim"
     ],
     "claimType": [
-      "fire"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -3740,7 +3725,7 @@
       "water",
       "roof"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "water-mold"
   },
@@ -3756,12 +3741,12 @@
   },
   "reading-insurer-letters": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "reading-statement-of-loss": {
@@ -3816,8 +3801,7 @@
   },
   "recording-insurance-inspections": {
     "audience": [
-      "professional",
-      "attorney"
+      "professional"
     ],
     "claimType": [
       "general"
@@ -3837,7 +3821,7 @@
   },
   "release-trap-insurance-claims": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "commercial"
@@ -3847,7 +3831,7 @@
   },
   "remediation-vs-restoration": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -3857,7 +3841,7 @@
   },
   "reopening-closed-claims": {
     "audience": [
-      "attorney"
+      "mid-claim"
     ],
     "claimType": [
       "commercial"
@@ -3904,7 +3888,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "reserve-reinsurance-discovery": {
@@ -3919,7 +3903,7 @@
   },
   "reserves-and-authority": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -3961,7 +3945,7 @@
   },
   "retaining-wall-hillside-claims": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -4027,7 +4011,7 @@
       "water",
       "roof"
     ],
-    "contentType": "guide",
+    "contentType": "legal-analysis",
     "jurisdiction": "california",
     "subcategory": "water-mold"
   },
@@ -4038,7 +4022,7 @@
     "claimType": [
       "roof"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "roofing-systems-claims": {
@@ -4077,7 +4061,7 @@
       "mid-claim"
     ],
     "claimType": [
-      "fire"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -4115,12 +4099,12 @@
   },
   "scope-vs-price-disputes": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "reference",
+    "contentType": "guide",
     "jurisdiction": "california"
   },
   "scoping-the-loss": {
@@ -4139,8 +4123,7 @@
       "attorney"
     ],
     "claimType": [
-      "contents",
-      "roof"
+      "general"
     ],
     "contentType": "guide",
     "jurisdiction": "california"
@@ -4200,10 +4183,10 @@
   },
   "sewage-contamination-mitigation-failure": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
-      "contents"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -4328,12 +4311,12 @@
   },
   "snowbird-vacancy-coverage": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "water"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "social-media-insurance-claims": {
@@ -4341,9 +4324,9 @@
       "attorney"
     ],
     "claimType": [
-      "ale"
+      "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "soft-costs-claims": {
@@ -4442,7 +4425,7 @@
   },
   "stock-inventory-valuation-methods": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "commercial",
@@ -4463,7 +4446,7 @@
   },
   "stucco-eifs-claims": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -4503,7 +4486,7 @@
   },
   "subrogation": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -4523,12 +4506,12 @@
   },
   "supplement-process-insurance-claims": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "supplemental-claims": {
@@ -4548,7 +4531,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "surprising-coverages": {
@@ -4578,7 +4561,7 @@
     "claimType": [
       "fire"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "fire-smoke"
   },
@@ -4625,26 +4608,25 @@
   },
   "tenant-improvements-betterments": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
-      "fire",
       "water",
       "commercial"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "federal"
   },
   "tenant-roof-leak-coverage-gap": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "water",
       "commercial",
       "roof"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "theft-burglary-claims": {
@@ -4655,7 +4637,7 @@
       "contents",
       "theft"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "specialty-damage"
   },
@@ -4703,7 +4685,7 @@
   },
   "three-bids-myth": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -4717,7 +4699,6 @@
       "attorney"
     ],
     "claimType": [
-      "fire",
       "ale"
     ],
     "contentType": "legal-analysis",
@@ -4725,10 +4706,10 @@
   },
   "tortious-interference-insurance-claims": {
     "audience": [
-      "attorney"
+      "mid-claim"
     ],
     "claimType": [
-      "fire"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -4851,7 +4832,7 @@
   },
   "unexpected-fire-causes-subrogation": {
     "audience": [
-      "mid-claim"
+      "professional"
     ],
     "claimType": [
       "fire"
@@ -4872,7 +4853,7 @@
   },
   "up-amicus-briefs-california": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
@@ -4894,7 +4875,7 @@
   },
   "vacancy-unoccupancy": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "fire",
@@ -4906,12 +4887,12 @@
   },
   "valuable-papers-records": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
-      "commercial"
+      "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "coverage-types"
   },
@@ -4920,7 +4901,7 @@
       "mid-claim"
     ],
     "claimType": [
-      "general"
+      "roof"
     ],
     "contentType": "reference",
     "jurisdiction": "california",
@@ -4942,9 +4923,9 @@
       "mid-claim"
     ],
     "claimType": [
-      "commercial"
+      "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "specialty-damage"
   },
@@ -4955,7 +4936,7 @@
     "claimType": [
       "general"
     ],
-    "contentType": "case-study",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "virus-bacteria-exclusion-covid": {
@@ -4975,17 +4956,17 @@
     "claimType": [
       "commercial"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "warehouse-distribution-insurance-claims": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "contents"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "water-backup-endorsement": {
@@ -5006,7 +4987,7 @@
     "claimType": [
       "water"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "water-mold"
   },
@@ -5046,7 +5027,7 @@
   },
   "wear-and-tear-cause-of-loss": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "roof"
@@ -5120,7 +5101,7 @@
       "mid-claim"
     ],
     "claimType": [
-      "water"
+      "general"
     ],
     "contentType": "reference",
     "jurisdiction": "california"
@@ -5132,18 +5113,18 @@
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "environmental"
   },
   "where-you-reside-exclusion": {
     "audience": [
-      "professional"
+      "mid-claim"
     ],
     "claimType": [
       "general"
     ],
-    "contentType": "guide",
+    "contentType": "reference",
     "jurisdiction": "california"
   },
   "white-waiver-settlement-confidentiality": {
@@ -5174,7 +5155,7 @@
     "claimType": [
       "fire"
     ],
-    "contentType": "legal-analysis",
+    "contentType": "reference",
     "jurisdiction": "california",
     "subcategory": "fire-smoke"
   },
@@ -5187,8 +5168,7 @@
       "smoke"
     ],
     "contentType": "reference",
-    "jurisdiction": "california",
-    "subcategory": "coverage-types"
+    "jurisdiction": "california"
   },
   "wind-damage-claims": {
     "audience": [

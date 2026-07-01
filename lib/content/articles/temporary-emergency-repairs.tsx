@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Temporary and Emergency Repairs: The Duty to Mitigate and the Duty to Preserve Evidence',
+  title: "Temporary and Emergency Repairs After a Property Loss",
   description:
-    'A guide to emergency repairs after a property loss in California. Covers the duty to mitigate, the duty to preserve evidence, how to balance both obligations, what is considered reasonable, documentation requirements, and common emergency repair scenarios.',
+    "How to balance the duty to mitigate and the duty to preserve evidence after a property loss in California - what is reasonable, and how to document it.",
   summary:
     'After a loss you must both mitigate further damage and preserve evidence of what happened, two duties that can conflict. Make reasonable emergency repairs, but document thoroughly first, with photos and retained materials, so mitigation does not destroy proof.',
 }

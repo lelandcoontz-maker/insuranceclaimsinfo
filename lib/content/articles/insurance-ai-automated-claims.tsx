@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Insurance Company AI and Automated Claims Processing: When an Algorithm Decides Your Claim',
+    "Insurance AI and Automated Claims Processing",
   description:
-    'How insurance companies use artificial intelligence, machine learning, and automated systems to process property damage claims, why AI-driven claims handling leads to systematic underpayment, and how policyholders and attorneys can challenge algorithmic decisions under California law.',
+    "How insurers use AI and machine learning to process property claims, why it leads to systematic underpayment, and how to challenge algorithmic decisions in CA.",
   summary:
     'Insurers increasingly let AI and algorithms triage and decide claims, which can drive systematic underpayment. You can challenge an algorithmic decision and demand human review and an explanation under California law.',
 }

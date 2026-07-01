@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Business Interruption Insurance Claims: Recovering Lost Income After Property Damage',
+  title: "Business Interruption Claims: Recovering Lost Income",
   description:
-    'Business interruption coverage pays for income you lose when property damage shuts down your operations. Learn how the period of restoration works, how carriers minimize projections, and what California law requires of commercial insurers.',
+    "Business interruption coverage pays for income lost when property damage shuts you down. How the period of restoration works and how carriers minimize claims.",
   summary:
     'Business interruption coverage replaces income lost while property damage shuts down your operations, for the period of restoration. Carriers often understate that period and your projected income; California law requires fair handling of commercial claims.',
 }

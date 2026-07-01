@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Equipment Breakdown Coverage: What Homeowners and Business Owners Need to Know',
+  title: "Equipment Breakdown Coverage for Homes and Businesses",
   description:
-    'Equipment breakdown insurance (formerly boiler and machinery) covers mechanical and electrical failures that standard property policies exclude. Learn what is covered, how to file a claim, and how to avoid costly coverage gaps.',
+    "Equipment breakdown insurance covers mechanical and electrical failures that standard property policies exclude. What's covered, how to file, coverage gaps.",
   summary:
     'Equipment breakdown coverage (formerly boiler and machinery) pays for sudden mechanical or electrical failures that standard property policies exclude, such as HVAC, electrical panels, or appliances. Add it to close a common and expensive gap.',
 }

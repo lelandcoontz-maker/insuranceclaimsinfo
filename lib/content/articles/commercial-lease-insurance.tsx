@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Waiver of Subrogation, Additional Insured, and Commercial Lease Insurance Requirements',
+    "Waiver of Subrogation and Additional Insured in Leases",
   description:
-    'How waiver of subrogation, additional insured endorsements, and certificates of insurance actually work in commercial leases — and why the paperwork your landlord handed you may not mean what you think it means.',
+    "How waiver of subrogation, additional insured endorsements, and COIs actually work in commercial leases, and why the paperwork may not mean what you think.",
   summary:
     'Waiver of subrogation, additional insured endorsements, and certificates of insurance in commercial leases often do not mean what tenants assume. Understand how each actually allocates risk before relying on the paperwork your landlord provided.',
 }

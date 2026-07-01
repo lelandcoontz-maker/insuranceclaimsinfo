@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Mold Losses: What Your Insurance Actually Covers',
   description:
-    'How insurance policies actually handle mold damage in California: the cause-vs-result distinction, the ensuing-loss path on a covered water loss, the four variations of mold-exclusion language, IICRC S500 vs S520 cost allocation, and how to keep water-damage scope out of the mold sublimit.',
+    "How California policies handle mold: the cause-vs-result rule, the ensuing-loss path, four exclusion variations, and keeping water scope out of the sublimit.",
   summary:
     'Mold is simultaneously covered and excluded. The question is what caused it. Mold from a covered water loss is generally a covered ensuing loss, subject to a sublimit. Allocating water-mitigation costs to dwelling coverage and only mold-specific work to the sublimit is where most of the money is won or lost.',
 }

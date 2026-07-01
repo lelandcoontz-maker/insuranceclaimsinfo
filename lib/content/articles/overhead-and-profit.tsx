@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Overhead & Profit: When Your Claim Should Include O&P',
   description:
-    'Overhead and profit are owed whenever a general contractor is reasonably likely to be needed, typically when repairs span three or more trades. What O&P is, where the numbers come from, the case law from seven jurisdictions, and how to fight a carrier denial.',
+    "O&P is owed whenever a GC is reasonably likely to be needed - typically three or more trades. Where the numbers come from and how to fight a carrier denial.",
   summary:
     'General contractor overhead and profit are owed whenever a GC is reasonably likely to be needed for the repair, which usually means three or more trades. Carriers routinely strip O&P from estimates by citing an industry guideline they treat as law. The legal standard, the case law from PA, FL, AZ, OK, NY, TX, and the Seventh Circuit, the regulatory authority, and the practical steps for getting it back.',
 }

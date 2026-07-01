@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Construction Defects and Insurance Claims in California: The Right to Repair Act and Beyond',
+  title: "California Construction Defect Claims and SB 800",
   description:
-    'Construction defects are excluded from most property insurance policies, but the resulting damage often is not. Learn how California’s SB 800 Right to Repair Act, the ensuing loss doctrine, and the efficient proximate cause doctrine interact to determine coverage for defect-related property damage.',
+    "Defects are excluded but resulting damage often is not. How SB 800, the ensuing loss doctrine, and efficient proximate cause determine coverage in California.",
   summary:
     'Most policies exclude the defect itself but cover the resulting damage. In California, SB 800 (Right to Repair), the ensuing loss doctrine, and efficient proximate cause together determine whether defect-related property damage is covered.',
 }

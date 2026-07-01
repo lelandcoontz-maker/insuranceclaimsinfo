@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { DocumentEmbed } from '@/components/content/DocumentEmbed'
 
 export const meta = {
-  title: 'Personal Property Claims Without a Full Inventory: What California Law Requires',
+  title: "Personal Property Claims Without a Full Inventory",
   description:
-    'After a total loss in a declared disaster, California law requires insurers to pay at least 60% of the contents (personal property) limit, up to $350,000, without requiring an itemized inventory (SB 495, eff. Jan 1, 2026). The CDI has repeatedly directed carriers to comply.',
+    "After a total loss in a declared disaster, California pays at least 60% of the Personal Property limit (up to $350K) without an itemized inventory (SB 495).",
   summary:
     'After a total loss in a declared disaster, California law requires insurers to pay at least 60% of the contents limit, up to $350,000, without demanding an itemized inventory under SB 495 (eff. Jan 1, 2026). The CDI has repeatedly directed carriers to honor this.',
 }

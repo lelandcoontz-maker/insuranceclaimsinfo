@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'How Your Insurance Payment Is Actually Calculated',
   description:
-    'A step-by-step walkthrough of how insurance companies calculate claim payments — RCV, depreciation, ACV, deductible application, recoverable depreciation, and supplements. Includes worked examples and guidance on decoding your payment.',
+    "How insurers calculate claim payments - RCV, depreciation, ACV, deductible, and recoverable depreciation. Worked examples and how to decode your payment.",
   summary:
     'Your payment is built from replacement cost, minus depreciation to reach actual cash value, minus your deductible, with depreciation recoverable once you complete repairs. Knowing each step lets you decode your check and spot where money was held back.',
 }

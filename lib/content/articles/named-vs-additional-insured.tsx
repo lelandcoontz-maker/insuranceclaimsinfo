@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Named Insured vs. Additional Insured: Who Actually Has Rights Under Your Policy?',
+  title: "Named Insured vs. Additional Insured: Who Has Rights?",
   description:
-    'Understanding the difference between named insureds, additional insureds, loss payees, and mortgagees on your insurance policy &mdash; and why it matters when you file a claim.',
+    "The differences between named insureds, additional insureds, loss payees, and mortgagees on your policy - and why they matter when you file a claim.",
   summary:
     'Named insureds, additional insureds, loss payees, and mortgagees have very different rights under a policy. Understanding which you are determines what you can claim and control, so check your status before relying on coverage.',
 }

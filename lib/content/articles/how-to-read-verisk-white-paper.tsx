@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'How to Read a Verisk White Paper: The Public Documentation Most Adjusters Have Never Seen',
+  title: "How to Read a Verisk White Paper",
   description:
-    'Verisk publishes white papers explaining how Xactimate pricing works, what is and is not included in unit costs, and how settings should be configured. These publicly available documents frequently support the policyholder&apos;s position more than the carrier&apos;s.',
+    "Verisk publishes white papers on how Xactimate pricing works and what's included in unit costs. These public documents often support the policyholder's side.",
   summary:
     'Verisk publishes white papers explaining how Xactimate pricing works and how settings should be configured. These public documents often support the policyholder\'s position, so cite them when a carrier misuses pricing or omits costs.',
 }

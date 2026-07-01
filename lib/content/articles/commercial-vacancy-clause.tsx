@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Commercial Vacancy Clause: How Empty Space Can Gut Your Property Coverage',
+  title: "The Commercial Vacancy Clause and Coverage Penalties",
   description:
-    'Commercial vacancy clauses impose severe coverage penalties when buildings fall below 31% occupancy for 60+ days. Learn the rules, exceptions, and how to protect your claim.',
+    "Commercial vacancy clauses impose severe penalties when buildings fall below 31% occupancy for 60+ days. The rules, exceptions, and how to protect your claim.",
   summary:
     'Commercial property coverage is sharply cut when a building falls below about 31% occupancy for 60 days or more, often barring vandalism, water, and glass losses. Know the vacancy rules and exceptions to protect coverage on empty space.',
 }

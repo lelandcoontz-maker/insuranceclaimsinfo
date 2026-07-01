@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Certificates of Insurance: What They Actually Prove and What They Do Not',
+  title: "Certificates of Insurance: What They Actually Prove",
   description:
-    'A certificate of insurance is not a contract and does not guarantee coverage. Learn why relying on a COI can leave businesses, property owners, and contractors exposed, and what verification steps actually protect your interests.',
+    "A certificate of insurance is not a contract and does not guarantee coverage. Why relying on a COI leaves you exposed and what actually verifies coverage.",
   summary:
     'A certificate of insurance proves a policy existed on a date, not that coverage applies to your loss. It is not a contract and grants no rights. Relying on a COI can leave you exposed, so verify actual coverage, not just the certificate.',
 }

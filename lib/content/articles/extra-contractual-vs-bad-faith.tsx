@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Extra-Contractual Damages vs. Bad Faith Damages: Understanding the Distinction',
+  title: "Extra-Contractual Damages vs. Bad Faith Damages",
   description:
-    'Many policyholders and even some attorneys confuse extra-contractual damages with bad faith damages. This article explains the difference, the overlap, and why the distinction matters for your California insurance claim.',
+    "Policyholders and even some attorneys confuse extra-contractual damages with bad faith damages. The difference, the overlap, and why it matters in California.",
   summary:
     'Extra-contractual damages are amounts beyond the policy limit; bad faith damages are a subset awarded when the insurer acted unreasonably. They overlap but are not identical, and the distinction shapes what you can recover in California.',
 }

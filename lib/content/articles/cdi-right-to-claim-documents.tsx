@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { DocumentEmbed } from '@/components/content/DocumentEmbed'
 
 export const meta = {
-  title: "Your Right to Claim Documents: What Insurers Must Provide Under California Law",
+  title: "Your Right to Claim Documents Under California Law",
   description:
-    "California law requires insurers to provide all claim-related documents within 15 days of your request. Most policyholders don't know this right exists. Here is the CDI's official notice explaining what you're entitled to.",
+    "California law requires insurers to provide all claim-related documents within 15 days of your request. Most policyholders do not know this right exists.",
   summary:
     'California law requires insurers to provide all claim-related documents within 15 days of your written request. Most policyholders never ask; requesting the file is a powerful, underused way to see what the carrier actually has.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Pair and Set Clauses in Property Insurance: What Happens When Only Part of a Match Is Destroyed',
+  title: "Pair and Set Clauses: When Part of a Match Is Destroyed",
   description:
-    'Understand the pair and set clause in your homeowner policy, how it applies to jewelry, furniture, cabinets, and building components, and how California matching regulations protect policyholders.',
+    "The pair and set clause in your homeowner policy: jewelry, furniture, cabinets, building components, and California matching regs that protect policyholders.",
   summary:
     'A pair-and-set clause addresses what happens when only part of a matched set, jewelry, furniture, cabinets, is destroyed. With California matching protections, you may be owed the value of restoring the whole set, not just the damaged piece.',
 }

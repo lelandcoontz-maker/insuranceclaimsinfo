@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Commercial Property (CP) vs. Businessowners Policy (BOP): Which One Do You Have and Why It Matters',
+  title: "Commercial Property vs. Businessowners Policy (BOP)",
   description:
-    'A BOP bundles coverage for convenience but hides limitations a monoline CP policy does not have. Learn the structural differences, eligibility restrictions, coverage gaps, and why business owners need to understand which policy they have before a loss occurs.',
+    "A BOP bundles coverage for convenience but hides limitations a monoline CP does not. Structural differences, eligibility restrictions, and coverage gaps.",
   summary:
     'A Businessowners Policy (BOP) bundles coverage conveniently but hides limitations that a monoline Commercial Property (CP) policy does not. Know which you have, because the structural differences and eligibility limits matter a great deal at claim time.',
 }

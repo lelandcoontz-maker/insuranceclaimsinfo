@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Salvage Rights in Property Insurance: Who Owns Damaged Property After a Claim?',
+  title: "Salvage Rights: Who Owns Damaged Property After a Claim?",
   description:
-    'How salvage works in property insurance claims &mdash; who owns damaged property after a loss, how salvage value affects your settlement, the right to retain salvage, and California-specific rules policyholders need to know.',
+    "How salvage works in property insurance claims: who owns damaged property after a loss, how salvage value affects settlement, and California-specific rules.",
   summary:
     'Salvage concerns who owns damaged property after a claim is paid and how its salvage value affects your settlement. You often have the right to retain salvage; know the California rules so the carrier does not both pay less and keep your property.',
 }

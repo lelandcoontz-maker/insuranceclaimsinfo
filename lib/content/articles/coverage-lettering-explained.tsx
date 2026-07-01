@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Coverage A, B, C, D: How Property Insurance Lettering Works (and Where Forms Differ)',
+  title: "Coverage A, B, C, D on Property Policies Explained",
   description:
-    'The Coverage A/B/C/D system most readers see on a declarations page comes from the standard ISO Homeowners form. Other policy forms — Dwelling Fire (DP), condo (HO-6), renters (HO-4), commercial — handle the letters differently. Here is what each form actually means, especially in California.',
+    "The A/B/C/D lettering on your declarations page comes from the ISO Homeowners form. How Dwelling Fire, HO-6, HO-4, and commercial forms handle it in California.",
   summary:
     'Coverage A/B/C/D is shorthand from ISO Homeowners forms. Dwelling Fire policies split Loss of Use into separate Coverage D and Coverage E. Condo, renters, and commercial policies use different schemes. Knowing which form you are on changes how a claim gets calculated.',
 }

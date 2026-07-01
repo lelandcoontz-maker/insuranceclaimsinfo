@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Remediation vs. Restoration: The Distinction Insurance Companies Exploit to Underpay Your Claim',
+  title: "Remediation vs. Restoration: The Underpayment Split",
   description:
-    'How carriers use the remediation-vs-restoration distinction to apply different coverage provisions, sub-limits, and exclusions to the same loss — and how proper cost allocation can save your claim thousands of dollars.',
+    "How carriers use the remediation-vs-restoration distinction to apply different sub-limits and exclusions to the same loss, and how cost allocation fights back.",
   summary:
     'Carriers exploit the remediation-versus-restoration distinction to apply different sub-limits and exclusions to the same loss, often shifting costs into a capped category. Proper cost allocation between the two can recover thousands the carrier tried to shave.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Cyber Risks and Your Homeowner Policy: The Coverage Gap Most People Ignore',
+  title: "Cyber Risks and Your Homeowner Policy: The Coverage Gap",
   description:
-    'Your homeowner policy was written before the internet existed. Learn why cyber risks, identity theft, ransomware, social engineering fraud, and smart home hacks are largely unaddressed by the standard HO-3 -- and what you can do about it.',
+    "Your homeowner policy predates the internet. Why cyber risks, identity theft, ransomware, social engineering, and smart-home hacks fall outside the HO-3.",
   summary:
     'Standard HO-3 homeowner policies predate modern cyber risk and largely ignore identity theft, ransomware, social engineering fraud, and smart-home hacks. Endorsements or standalone cyber coverage can fill this growing gap.',
 }

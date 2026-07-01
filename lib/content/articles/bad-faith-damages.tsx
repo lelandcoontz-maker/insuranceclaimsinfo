@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Bad Faith Damages in California: What You Can Actually Recover',
+  title: "Bad Faith Damages in California: What You Can Recover",
   description:
-    'A detailed guide to the damages available when a California insurer acts in bad faith — contract damages, consequential losses, emotional distress, punitive damages, Brandt fees, and elder abuse enhancements.',
+    "Damages available when a California insurer acts in bad faith - contract, consequential, emotional distress, punitive, Brandt fees, and elder abuse.",
   summary:
     'When a California insurer acts in bad faith, you can recover more than the policy benefit: contract damages, consequential losses, emotional distress, attorney fees under Brandt, and in serious cases punitive damages or elder-abuse enhancements.',
 }

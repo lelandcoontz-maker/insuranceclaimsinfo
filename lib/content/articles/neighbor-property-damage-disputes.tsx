@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Neighbor Property Damage: Trees, Water Runoff, and Who Pays When Damage Crosses Property Lines',
+  title: "Neighbor Property Damage: Trees, Water Runoff, and Who Pays",
   description:
-    'When a neighbor&apos;s tree falls on your property or their grading sends water into your home, who pays? Learn how insurance, liability, and subrogation work in cross-property-line disputes.',
+    "When a neighbor's tree falls or their grading sends water into your home, who pays? How insurance, liability, and subrogation work across property lines.",
   summary:
     'When a neighbor\'s tree falls on your property or their grading sends water your way, your own insurance often pays first, then may subrogate against the neighbor if they were negligent. Liability, not just proximity, decides who ultimately pays.',
 }

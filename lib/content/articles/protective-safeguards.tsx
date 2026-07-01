@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Protective Safeguards Endorsements: When a Lapsed Alarm Voids Your Entire Policy',
+  title: "Protective Safeguards: When a Lapsed Alarm Voids Your Policy",
   description:
-    'Protective safeguards endorsements require you to maintain specific safety equipment like sprinklers, fire alarms, and security systems. If the safeguard is not maintained and a loss occurs, the insurer can deny the entire claim — even if the safeguard had nothing to do with the loss.',
+    "Protective safeguards endorsements require you to maintain alarms, sprinklers, or security systems. Lapses can void coverage even for unrelated losses.",
   summary:
     'A protective safeguards endorsement requires you to maintain specified safety equipment, sprinklers, alarms, security. If the safeguard lapses and a loss occurs, the insurer can deny the entire claim, even if the lapse did not cause the loss. Keep them maintained.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Commercial Loss of Rents Coverage: What Landlords Need to Know After Property Damage',
+  title: "Commercial Loss of Rents Coverage for Landlords",
   description:
-    'Commercial loss of rents coverage reimburses landlords for rental income lost when a covered peril damages their commercial property. Learn how it differs from ALE and business interruption, how the period of restoration works, and how to maximize your recovery.',
+    "Loss of rents reimburses landlords for rental income when a covered peril damages the property. How it differs from ALE and business interruption coverage.",
   summary:
     'Commercial loss of rents coverage reimburses a landlord for rental income lost when a covered peril damages the property, for the period of restoration. It differs from ALE and business interruption; document lost rent carefully to maximize recovery.',
 }

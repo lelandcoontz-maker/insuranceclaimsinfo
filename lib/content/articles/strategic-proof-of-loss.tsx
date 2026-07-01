@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Strategic Proof of Loss: An Underutilized Technique for California Policyholders',
+  title: "Strategic Proof of Loss: An Underused California Tactic",
   description:
-    'Why voluntarily filing a proof of loss — even when your insurer has not requested one — can trigger contractual payment deadlines, strengthen bad faith arguments, and give you control of the claim timeline.',
+    "Voluntarily filing a proof of loss triggers contractual payment deadlines, strengthens bad faith arguments, and gives you control of the claim timeline.",
   summary:
     'Voluntarily filing a proof of loss, even when the insurer has not asked, can start contractual payment deadlines, strengthen a bad-faith argument, and put you in control of the claim timeline. It is an underused offensive tool.',
 }

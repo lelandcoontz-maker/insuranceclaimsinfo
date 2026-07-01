@@ -2,8 +2,8 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Insurance Claims on Properties in Foreclosure: Full Credit Bids and What They Mean for Your Money',
-  description: "What happens to your insurance claim when your property is in foreclosure? How full credit bids can extinguish the lender's right to your insurance proceeds — and how underbids preserve it.",
+  title: "Insurance Claims on Properties in Foreclosure",
+  description: "What happens to your insurance claim when your property is in foreclosure? How full credit bids can extinguish the lender's right to insurance proceeds.",
   summary:
     'When a property is in foreclosure, a lender\'s full credit bid at the sale can extinguish its claim to your insurance proceeds, potentially freeing those funds. How the claim and the foreclosure interact determines who gets the money.',
 }

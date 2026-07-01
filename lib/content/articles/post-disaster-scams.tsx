@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Post-Disaster Fraud and Scams: Protecting Yourself After a Loss',
+  title: "Post-Disaster Fraud and Scams: How to Protect Yourself",
   description:
-    'After a disaster, scammers target vulnerable homeowners. Learn how to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other common scams — and how to protect yourself.',
+    "How to identify contractor fraud, unlicensed claim negotiators, deductible waiver schemes, and other scams that target homeowners after a disaster.",
   summary:
     'After a disaster, scammers target homeowners with contractor fraud, unlicensed \'claim negotiators,\' and deductible-waiver schemes. Verify licenses, never sign under pressure, and know the warning signs to protect yourself and your claim.',
 }

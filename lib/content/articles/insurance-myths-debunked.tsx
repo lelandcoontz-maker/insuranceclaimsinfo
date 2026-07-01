@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "Insurance Myths Exposed: What Your Adjuster Won't Correct and What You Believe That Isn't True",
+  title: "Insurance Myths Debunked: What Adjusters Won't Correct",
   description:
-    "Common property insurance myths debunked with California case law, statutes, and regulations. From carrier misinformation to policyholder misunderstandings — what the law actually says.",
+    "Common property insurance myths debunked with California case law, statutes, and regulations. What the law actually says vs. what most policyholders believe.",
   summary:
     'Many common beliefs about property insurance are wrong. This guide corrects frequent myths, from both carriers and policyholders, using California statutes, regulations, and case law to show what the law actually requires.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'How to Read Your Xactimate Estimate: A Consumer-Friendly Line-by-Line Guide',
+  title: "How to Read Your Xactimate Estimate Line by Line",
   description:
-    'Learn how to read and understand every section of your Xactimate insurance estimate, from the header and line items to the summary page, so you can spot missing items and underpayments.',
+    "How to read every section of your Xactimate insurance estimate - header, line items, summary - so you can spot missing items and underpayments before you sign.",
   summary:
     'An Xactimate estimate has a header, line items, and a summary page. Reading each section, the quantities, unit prices, depreciation, and totals, lets you spot missing items and underpayments the carrier hopes you overlook.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Choosing Between Appraisal, Mediation, and Litigation: A Decision Framework',
+  title: "Appraisal vs. Mediation vs. Litigation: A Decision Guide",
   description:
-    'A guide to deciding when appraisal, mediation, or litigation is the right dispute resolution path for your insurance claim — including cost and timeline comparisons, California-specific rules, and practical decision trees.',
+    "When appraisal, mediation, or litigation is the right dispute path for your insurance claim - cost and timeline comparisons and California-specific rules.",
   summary:
     'Appraisal resolves disputes over the amount of loss, mediation seeks a negotiated settlement, and litigation addresses coverage and bad faith. Choose based on whether your fight is about price or about coverage, plus cost and timeline. This guide gives a decision framework.',
 }

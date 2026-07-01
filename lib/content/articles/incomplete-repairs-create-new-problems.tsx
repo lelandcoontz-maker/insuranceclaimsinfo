@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When the Carrier&apos;s Fix Creates a New Problem: Incomplete Repairs and the Duty to Restore',
+  title: "When the Carrier's Fix Creates a New Problem",
   description:
-    'When an insurance carrier&apos;s approved repair fixes one problem but creates another, the claim is not complete. Learn about the duty to restore to pre-loss condition, California regulations, and what to do when the carrier&apos;s repair leaves your property worse off.',
+    "When an approved repair fixes one problem but creates another, the claim isn't complete. The duty to restore, California regs, and what to do next.",
   summary:
     'If the carrier\'s approved repair fixes one issue but creates another, the claim is not finished. You are owed restoration to pre-loss condition under California regulations, so document the new damage and demand it be made right.',
 }

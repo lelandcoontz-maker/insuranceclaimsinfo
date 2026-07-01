@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "The Insurer's Option to Repair: When the Carrier Wants to Fix It Instead of Pay You",
+  title: "The Insurer's Option to Repair Instead of Paying Cash",
   description:
-    "Understanding the insurance carrier's contractual option to repair, rebuild, or replace damaged property instead of paying cash — what it means for policyholders, how carriers use it strategically, and how California law limits its abuse.",
+    "How the carrier's contractual option to repair, rebuild, or replace works in California, how insurers use it strategically, and how the law limits abuse.",
   summary:
     'Many policies give the insurer the option to repair rather than pay cash. If your carrier elects to repair, it takes on responsibility for a proper, complete restoration, and remains liable if its chosen repair falls short.',
 }

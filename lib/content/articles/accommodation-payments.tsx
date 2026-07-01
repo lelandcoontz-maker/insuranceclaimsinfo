@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "Accommodation Payments: When the Insurance Company Pays What It Claims It Doesn't Owe",
+  title: "Accommodation Payments: When Insurers Pay What They Deny",
   description:
-    "An accommodation payment is one of the most calculated moves in the insurance playbook. The carrier pays money while simultaneously disclaiming coverage — creating a paper trail that protects the carrier, not you.",
+    "Accommodation payments let carriers pay while disclaiming coverage, creating a paper trail that protects the insurer, not the California policyholder.",
   summary:
     'An accommodation payment is money the carrier pays while expressly disclaiming coverage, designed to build a record that protects the insurer rather than you. Understand exactly what you are accepting before you take one, because it can undercut your claim later.',
 }

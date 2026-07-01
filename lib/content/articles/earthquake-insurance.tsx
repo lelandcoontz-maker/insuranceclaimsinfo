@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Earthquake Insurance in California: CEA, Private Carriers, and What You Need to Know',
+  title: "California Earthquake Insurance: CEA and Private Carriers",
   description:
-    'A complete guide to earthquake insurance in California — CEA coverage and limitations, private carrier alternatives from Palomar and GeoVera, deductible structures, claims handling differences, and how the efficient proximate cause doctrine affects earthquake-related losses.',
+    "Earthquake insurance in California: CEA coverage and limits, private alternatives from Palomar and GeoVera, deductibles, and the efficient proximate cause rule.",
   summary:
     'California earthquake coverage comes from the CEA or private carriers like Palomar and GeoVera, each with high deductibles and different claims handling. The efficient proximate cause doctrine can affect related losses, so understand your structure before a quake.',
 }

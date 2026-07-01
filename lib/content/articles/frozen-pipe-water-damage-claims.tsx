@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Frozen Pipe and Cold Weather Water Damage Claims: Coverage, Exclusions, and Carrier Tactics',
+  title: "Frozen Pipe Water Damage: Coverage and Carrier Tactics",
   description:
-    'Frozen pipe claims involve unique coverage issues including the maintenance exclusion, vacancy provisions, heat maintenance arguments, and ensuing loss disputes. Learn how California mountain community homeowners and cold-climate policyholders can protect their claims.',
+    "Frozen pipe claims involve maintenance exclusions, vacancy provisions, heat arguments, and ensuing loss disputes. How CA homeowners can protect their claim.",
   summary:
     'Frozen-pipe claims trigger fights over the maintenance exclusion, vacancy provisions, and whether you kept adequate heat. Ensuing water damage is often covered; mountain and cold-climate policyholders should document heating and occupancy to protect the claim.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice',
+  title: "Xactimate Documents: Estimate, Bid, or Invoice?",
   description:
-    "An Xactimate document can be an estimate, a bid, or an invoice — and the distinction is not semantic. Learn why the carrier's preferred vendor estimate is not a competing bid, and how to challenge underpayments based on uncommitted numbers.",
+    "An Xactimate document can be an estimate, bid, or invoice, and the distinction isn't semantic. Why a preferred vendor estimate isn't a competing bid.",
   summary:
     'The same Xactimate document can function as an estimate, a bid, or an invoice, and the distinction matters legally and financially. Understanding which role a document plays helps you read the carrier\'s number correctly and respond appropriately.',
 }

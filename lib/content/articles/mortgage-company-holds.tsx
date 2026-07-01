@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Mortgage Company Holds on Insurance Proceeds: Getting Your Money Released',
+    "Mortgage Company Holds on Claim Proceeds: Get Money Out",
   description:
-    'When your insurance company pays a dwelling claim, the check often has your mortgage lender\'s name on it. Learn how mortgage holds work, what lenders can and cannot do, and how to get your rebuild funds released.',
+    "When the carrier pays your dwelling claim, the check often names your lender. How mortgage holds work, what lenders can do, and how to release rebuild funds.",
   summary:
     'When a dwelling check carries your lender\'s name, the mortgage company can hold the funds and release them as repairs progress. Know what lenders can and cannot do and the steps to get your rebuild money released on time.',
 }

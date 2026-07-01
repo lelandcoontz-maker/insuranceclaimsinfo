@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'When a Mortgage Company Tries to Hire a Public Adjuster: Understanding the Legal Boundaries',
+    "When a Mortgage Company Tries to Hire a Public Adjuster",
   description:
-    'The lender\'s loss payable endorsement, mortgagee rights, privacy laws, and why a mortgage company cannot hire a Public Adjuster unless it is an insured. A real-world case study.',
+    "Lender's loss payable endorsement, mortgagee rights, privacy laws, and why a mortgage company cannot hire a Public Adjuster unless it is an insured.",
   summary:
     'A mortgage company generally cannot hire a Public Adjuster on your claim unless it is itself an insured, because of the limits of the loss-payable endorsement, mortgagee rights, and privacy law. Understand these boundaries if a lender tries.',
 }

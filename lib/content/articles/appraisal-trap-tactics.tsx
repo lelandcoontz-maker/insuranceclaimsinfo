@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: "Games Insurers Play: The Appraisal Trap",
   description:
-    "How some insurers use procedural objections, umpire selection disputes, and timing delays to undermine the appraisal process — and the California statutes and cases an insured can lean on under California law.",
+    "How insurers use procedural objections, umpire disputes, and delays to undermine appraisal - and the California statutes and cases policyholders can lean on.",
   summary:
     "Some insurers undermine appraisal through procedural objections, umpire-selection fights, and timing delays. California treats appraisal under the procedural overlay of the Arbitration Act (CCP §§ 1281 et seq.), and the cases set sharp limits on what an obstructing carrier can and cannot do.",
 }

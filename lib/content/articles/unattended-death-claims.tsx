@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Unattended Death Insurance Claims: What Families and Property Owners Need to Know',
+  title: "Unattended Death Insurance Claims in California",
   description:
-    'How insurance handles unattended death claims ��� decomposition damage, coverage analysis under the HO-3, common carrier denials, the pollution exclusion fight, ALE, personal property contamination, industrial hygienists, and practical steps for families navigating the worst moment of their lives.',
+    "How insurance handles unattended death claims: decomposition, pollution exclusion fights, ALE, personal property contamination, and industrial hygienists.",
   summary:
     'An unattended death can cause decomposition damage and contamination that the HO-3 should cover, though carriers fight it under the pollution exclusion. ALE, contaminated personal property, and an industrial hygienist\'s documentation all matter to these difficult claims.',
 }

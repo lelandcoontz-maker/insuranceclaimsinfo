@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Commercial Coinsurance: The Penalty That Can Devastate Your Claim Payment',
+  title: "Commercial Coinsurance: The Penalty That Guts Claims",
   description:
-    'Detailed guide to commercial coinsurance for building, BPP, and business income coverage. Understand the penalty formula, agreed value endorsements, monthly limitation of indemnity, and how carriers weaponize coinsurance after a loss.',
+    "How commercial coinsurance penalties work on building, BPP, and business income coverage, plus agreed value endorsements and monthly limitation of indemnity.",
   summary:
     'Commercial coinsurance penalizes underinsured building, BPP, and business income coverage using a strict formula, and carriers often weaponize it after a loss. Agreed-value endorsements and proper limits avoid the penalty; understand the math before you are hit with it.',
 }

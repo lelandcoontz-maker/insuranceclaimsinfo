@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Why New Materials Never Match: Color Matching, Material Aging, and What Your Insurance Company Owes',
+  title: "Color Matching and Material Aging in Insurance Claims",
   description:
-    'Materials age through UV degradation, oxidation, and thermal cycling, making matching impossible after partial repairs. Learn the line of sight standard, state regulations, and case law that require insurers to restore visual uniformity.',
+    "UV degradation and oxidation make new materials never truly match. The line-of-sight standard, state regulations, and case law requiring visual uniformity.",
   summary:
     'New materials never perfectly match aged ones because of UV degradation, oxidation, and weathering. Many states and the line-of-sight standard require insurers to restore visual uniformity, meaning they may owe replacement of undamaged matching areas, not just the damaged spot.',
 }

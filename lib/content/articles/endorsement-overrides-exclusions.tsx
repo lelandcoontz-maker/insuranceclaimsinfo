@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When Endorsements Override Exclusions: Coverage Your Adjuster Did Not Read',
+  title: "When Endorsements Override Policy Exclusions",
   description:
-    'Endorsements modify the base policy form, and when they conflict with an exclusion, the endorsement controls. Learn how endorsements add back coverage, why adjusters miss them, and how to challenge a denial that ignores your endorsements.',
+    "Endorsements modify the base policy, and when they conflict with an exclusion, the endorsement controls. How they add coverage back and how adjusters miss them.",
   summary:
     'Endorsements modify the base policy, and when an endorsement conflicts with an exclusion, the endorsement controls and can add coverage back. Adjusters often miss endorsements, so check yours and challenge any denial that ignores them.',
 }

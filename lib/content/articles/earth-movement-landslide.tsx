@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Earth Movement Exclusion: When It Applies, When It Does Not, and How California Law Protects You',
+  title: "The Earth Movement Exclusion and California Law",
   description:
-    'Earth movement is excluded from standard homeowner policies, but California\'s efficient proximate cause doctrine means landslides, mudslides, and subsidence caused by a covered peril are still covered. Learn what triggers coverage and how to fight a wrongful denial.',
+    "Earth movement is excluded, but California's efficient proximate cause doctrine keeps landslides and subsidence covered when a covered peril triggered them.",
   summary:
     'Earth movement is excluded from standard homeowner policies, but California\'s efficient proximate cause doctrine covers landslides, mudslides, and subsidence when a covered peril set them in motion. Identify the triggering cause to fight a wrongful denial.',
 }

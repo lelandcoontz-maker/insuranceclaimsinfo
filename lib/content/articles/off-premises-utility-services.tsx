@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Off-Premises Utility Services: When a Power Failure Miles Away Destroys Your Business',
+  title: "Off-Premises Utility Services Endorsement Explained",
   description:
-    'Standard commercial property policies exclude losses from off-premises utility failures. Learn how the utility services endorsement closes this devastating coverage gap for restaurants and businesses with perishable inventory.',
+    "Standard commercial property policies exclude off-premises utility failures. How the utility services endorsement closes the gap for perishable inventory.",
   summary:
     'Standard commercial policies exclude losses from off-premises utility failures, so a power outage miles away can spoil inventory with no coverage. A utility services endorsement closes this gap, important for restaurants and businesses with perishables.',
 }

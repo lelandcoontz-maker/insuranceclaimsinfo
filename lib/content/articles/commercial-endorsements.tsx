@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Critical Commercial Property Endorsements Every Business Owner Should Know',
+  title: "Critical Commercial Property Endorsements to Know",
   description:
-    'A guide to essential commercial property endorsements — Ordinance or Law, Utility Services, Spoilage, Virus/Bacteria Exclusion, Peak Season, and more. Learn which endorsements your policy needs and how gaps can devastate a claim.',
+    "Essential commercial property endorsements: Ordinance or Law, Utility Services, Spoilage, Virus/Bacteria Exclusion, Peak Season, and other gap-fillers.",
   summary:
     'Key commercial property endorsements, Ordinance or Law, Utility Services, Spoilage, Peak Season, and others, fill gaps the base policy leaves open. Review which your operation needs, because a missing endorsement can devastate an otherwise covered claim.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Swimming Pool Damage Insurance Claims: Coverage, Exclusions, and How to Maximize Your Recovery',
+  title: "Swimming Pool Damage Insurance Claims in California",
   description:
-    'How swimming pool damage is covered under homeowners insurance — Other Structures limits, scheduled endorsements, coverage stacking, pool pop-outs, wildfire ash damage, freeze damage, equipment breakdown, and common insurer disputes.',
+    "How pool damage is covered under homeowners insurance: Other Structures limits, endorsements, coverage stacking, pop-outs, wildfire ash, and freeze damage.",
   summary:
     'Pool damage usually falls under the limited Other Structures and involves disputes over freeze, equipment breakdown, pop-outs, wildfire ash, and earth movement. Scheduling or coverage stacking and the efficient proximate cause doctrine can improve recovery.',
 }

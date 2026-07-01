@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'California Fair Claims Settlement Practices Regulations (10 CCR 2695)',
+  title: "California Fair Claims Regulations (10 CCR 2695)",
   description:
-    'A section-by-section analysis of California\'s Fair Claims Settlement Practices Regulations — every rule your insurer must follow on a property claim, with case law, real-world examples, and how to use each regulation to your advantage.',
+    "A section-by-section analysis of California's Fair Claims Settlement Regulations - every rule your insurer must follow, with case law and real examples.",
   summary:
     'California\'s Fair Claims Settlement Practices Regulations (10 CCR 2695) set out, rule by rule, exactly how an insurer must handle your property claim, from communication deadlines to investigation duties. Each regulation is a standard you can hold the carrier to.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Statement of Loss: A Forgotten but Essential Claims Document',
+  title: "The Statement of Loss: An Essential Claims Document",
   description:
-    'What a statement of loss is, how it differs from a proof of loss, and why preparing one helps policyholders, Public Adjusters, and attorneys organize and understand a claim before taking the next step.',
+    "What a statement of loss is, how it differs from a proof of loss, and why preparing one helps policyholders, PAs, and attorneys map a claim's next steps.",
   summary:
     'A statement of loss is a document organizing your claimed damages; unlike a sworn proof of loss, it is a working summary. Preparing one helps you, and your adjuster or attorney, understand and present the claim before the next step.',
 }

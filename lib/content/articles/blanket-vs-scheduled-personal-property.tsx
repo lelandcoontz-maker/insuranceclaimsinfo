@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
-  title: 'Blanket vs. Scheduled Personal Property Coverage: When to Schedule and What You Risk If You Do Not',
+  title: "Blanket vs. Scheduled Personal Property Coverage",
   description:
-    'How blanket personal property coverage works under personal property, when scheduling individual items is necessary, the valuation differences between each approach, and California-specific strategies for adequate contents coverage.',
+    "How blanket Personal Property coverage works, when scheduling individual items is necessary, the valuation differences, and California contents strategies.",
   summary:
     'Blanket personal property coverage insures your belongings as a group with internal sub-limits on categories like jewelry, while scheduling lists high-value items individually for full agreed valuation. Schedule anything whose value exceeds its category sub-limit to avoid a shortfall.',
 }

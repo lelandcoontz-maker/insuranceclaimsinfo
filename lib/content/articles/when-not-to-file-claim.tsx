@@ -5,7 +5,7 @@ import { QABlock } from '@/components/content/QABlock'
 export const meta = {
   title: 'When NOT to File an Insurance Claim',
   description:
-    'Sometimes the best decision is not to file. When damage is below your deductible, when the loss is excluded, or when a claim could trigger nonrenewal, a careful analysis before filing can save you money and protect your insurability.',
+    "Sometimes the best decision is not to file. When damage is below deductible, when the loss is excluded, or when a claim could trigger nonrenewal.",
   summary:
     'Sometimes not filing is the smart move: when damage is below your deductible, the loss is excluded, or a claim could trigger non-renewal or surcharges. Analyze the cost, coverage, and insurability impact before you file.',
 }

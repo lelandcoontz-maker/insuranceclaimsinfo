@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: '50-State Overhead & Profit Map: Where the Law Stands on General Contractor O&P',
+  title: "50-State Map of Overhead and Profit Law on Claims",
   description:
-    'A comprehensive state-by-state guide to the law on overhead and profit in property insurance claims. Majority rule states, minority rule states, regulatory authorities, and key case law citations — all in one reference.',
+    "State-by-state guide to overhead and profit law in property insurance claims, with majority and minority rules, regulators, and key case citations.",
   summary:
     'Whether your insurer must pay general contractor overhead and profit (O&P) depends on your state. Most states require it whenever repairs need a GC to coordinate multiple trades; a minority let insurers withhold it until actually incurred. This guide maps the rule, regulators, and case law state by state.',
 }

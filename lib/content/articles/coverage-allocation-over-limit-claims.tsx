@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Coverage Allocation on Over-Limit Claims: How to Get Unencumbered Money to the Insured',
+  title: "Coverage Allocation on Over-Limit Insurance Claims",
   description:
-    'When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines determines whether you get money directly or whether the mortgage company controls it all. The carrier may have a good faith duty to allocate in your favor.',
+    "When damage exceeds your Dwelling limit, allocation across coverage lines decides whether the mortgage company controls the money or you get it unencumbered.",
   summary:
     'When total damage exceeds your dwelling limit, how the carrier allocates payments across coverage lines decides whether money reaches you directly or is controlled by the mortgage company. The insurer may have a good-faith duty to allocate in your favor.',
 }

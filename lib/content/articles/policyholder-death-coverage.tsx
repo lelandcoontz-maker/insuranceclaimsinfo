@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'What Happens to Your Insurance If the Policyholder Dies?',
   description:
-    'When the named insured dies — before or during a claim — the insurance does not end immediately, but coverage starts contracting fast. This article covers the policy mechanics (Death clause, who can act, who collects, what happens to a pending claim) and flags the probate questions for an attorney.',
+    "When the named insured dies, coverage doesn't end but starts contracting. The Death clause, who can act, who collects, and probate questions for counsel.",
   summary:
     'When the policyholder dies, the policy\'s Death clause keeps coverage in place briefly (commonly 30 days), then ends unless something replaces it. This article covers the insurance-side mechanics; probate procedure and executor authority sourcing belong to a California probate attorney.',
 }

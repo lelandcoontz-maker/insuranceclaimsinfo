@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Tax Implications of Insurance Claim Settlements',
   description:
-    'A guide to the tax treatment of insurance claim proceeds — what is taxable, what is not, how to defer gains, and how to deduct unreimbursed casualty losses. Written for policyholders and the attorneys who represent them.',
+    "The tax treatment of insurance claim proceeds - what is taxable, what is not, how to defer gains, and how to deduct unreimbursed casualty losses.",
   summary:
     'Whether insurance proceeds are taxable depends on the type: rebuilding a destroyed home can defer gain, business-income payments are taxable, and unreimbursed casualty losses may be deductible. Plan for the tax treatment before spending the money.',
 }

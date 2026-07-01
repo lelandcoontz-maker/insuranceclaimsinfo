@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Discovering Claim Reserves and Reinsurance Arrangements in Insurance Litigation',
+  title: "Discovery of Claim Reserves and Reinsurance in Litigation",
   description:
-    'How to obtain an insurer\'s internal claim reserves and reinsurance treaty information through discovery in California insurance litigation. Covers why reserves matter, privilege objections, case law on discoverability, and practical strategies for litigators.',
+    "How to obtain an insurer's internal reserves and reinsurance treaties through discovery in California insurance litigation, plus privilege and case law.",
   summary:
     'An insurer\'s internal claim reserves and reinsurance arrangements can be discoverable in litigation and reveal what the carrier really thought a claim was worth. Expect privilege objections, but case law supports obtaining this telling evidence.',
 }

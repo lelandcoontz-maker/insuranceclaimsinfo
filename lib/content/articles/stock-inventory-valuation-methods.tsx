@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Stock & Inventory Valuation Methods in Commercial Property Insurance Claims',
+    "Stock and Inventory Valuation in Commercial Property Claims",
   description:
-    'How ISO valuation methods determine whether your destroyed inventory is paid at cost, selling price, or finished goods value — and how to push back when the carrier cherry-picks the cheapest method to minimize your recovery.',
+    "How ISO valuation methods decide whether destroyed inventory pays at cost, selling price, or finished goods value, and how to fight the cheapest method.",
   summary:
     'ISO valuation methods decide whether destroyed inventory is paid at cost, selling price, or finished-goods value, and carriers cherry-pick the cheapest. Know which method your policy specifies so you are not shorted on stock.',
 }

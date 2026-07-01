@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'California Claims Handling Timelines: The Deadlines Your Insurer Must Meet',
+  title: "California Claims Handling Deadlines Insurers Must Meet",
   description:
-    'California law imposes strict deadlines on insurance companies for acknowledging, investigating, and resolving claims. The Insurance Code and Fair Claims Settlement Practices Regulations establish specific timelines that policyholders can enforce.',
+    "California law imposes strict deadlines on insurers for acknowledging, investigating, and paying claims under the Fair Claims Settlement Regulations.",
   summary:
     'California law sets enforceable deadlines on insurers: acknowledge a claim within 15 days, accept or deny within 40 days of receiving proof of loss, and pay promptly once accepted. The Insurance Code, Fair Claims Settlement Practices Regulations, and state-of-emergency statutes make these timelines mandatory, not courtesies.',
 }

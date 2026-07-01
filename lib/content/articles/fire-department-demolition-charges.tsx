@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Fire Department Charges and Government-Ordered Demolition: Who Pays After a Loss?',
+  title: "Fire Department and Demolition Charges: Who Pays?",
   description:
-    'Fire response billing, red-tag demolition orders, and how California property insurance handles government-imposed charges after a covered loss. Dwelling coverage, ordinance or law, debris removal, and the timing problems that catch policyholders off guard.',
+    "Fire response billing, red-tag demolition orders, and how California property insurance handles government charges: Dwelling, ordinance or law, and debris.",
   summary:
     'After a covered loss, fire-response billing and government-ordered (red-tag) demolition can hit you unexpectedly. Dwelling coverage, ordinance or law, and debris removal may pay these charges, but timing gaps can catch policyholders off guard.',
 }

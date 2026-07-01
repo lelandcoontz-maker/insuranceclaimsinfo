@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "When Two Words Change Everything: How the Standard Fire Policy Turns Denials Into Coverage",
+  title: "The Standard Fire Policy: Turning Denials Into Coverage",
   description:
-    "In roughly 30 states, the Standard Fire Policy acts as a statutory floor for fire insurance. When your insurer's policy deviates from the standard in ways less favorable to you, courts have consistently reformed the policy — turning denials into coverage.",
+    "In about 30 states, the Standard Fire Policy is a statutory floor. When an insurer's policy is less favorable, courts reform it, turning denials into coverage.",
   summary:
     'In about 30 states, the Standard Fire Policy is a statutory floor for fire insurance that a carrier\'s policy cannot fall below. When your insurer\'s denial rests on language weaker than the SFP, the SFP can convert that denial into coverage.',
 }

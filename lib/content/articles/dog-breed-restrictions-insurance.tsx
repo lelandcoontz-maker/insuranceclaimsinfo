@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Dog Breed Restrictions and Home Insurance: When Your Pet Puts Your Coverage at Risk',
+  title: "Dog Breed Restrictions and Home Insurance Coverage",
   description:
-    'Many insurers maintain breed restriction lists that can result in policy cancellation, non-renewal, or liability exclusion. Learn what breeds are affected, California law, and how to protect coverage.',
+    "Insurers keep breed lists that trigger cancellation, non-renewal, or liability exclusion. Affected breeds, California law, and how to protect your coverage.",
   summary:
     'Many insurers keep breed-restriction lists that can trigger cancellation, non-renewal, or a liability exclusion for certain dogs. Know whether your breed is affected and how California law and disclosure rules affect your coverage.',
 }

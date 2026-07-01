@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
-  title: 'When Engineering Reports Cross the Line: Why Physical Findings Do not Determine Coverage',
+  title: "Engineering Reports vs. Coverage: Where Physics Ends",
   description:
-    'Insurance companies use engineering reports to deny claims — but engineers determine how something was built, not whether it is covered. Learn the difference between engineering causation and legal causation under California law.',
+    "Insurers use engineering reports to deny claims, but engineers determine how something was built, not whether it's covered under California law.",
   summary:
     'Insurers use engineering reports to deny claims, but an engineer determines how something was built or failed, not whether it is covered. Engineering causation is not legal causation; under California law the coverage question is separate.',
 }

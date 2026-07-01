@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The White Waiver: When Your Insurance Company Asks You to Keep Settlement Talks Secret',
+  title: "The White Waiver: Confidential Settlement Talks",
   description:
-    'What a White waiver is, why insurers ask you to sign one, whether you should, and how to protect yourself — based on the landmark California Supreme Court decision White v. Western Title Insurance Co.',
+    "What a White waiver is, why insurers ask you to sign one, whether you should, and how to protect yourself under White v. Western Title Insurance Co.",
   summary:
     'Insurers sometimes ask you to sign a White waiver to keep settlement talks secret, which can waive your ability to cite those communications in a bad-faith case. Based on White v. Western Title, weigh carefully whether to sign.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Scope vs. Price: The Two Disputes Your Insurance Company Hopes You\'ll Confuse',
+  title: "Scope vs. Price: The Two Disputes Carriers Hope You Confuse",
   description:
-    'Scope disputes and price disputes are fundamentally different arguments with different resolution paths. Learn to identify which one you have — and why your insurance company benefits when you confuse them.',
+    "Scope and price disputes are different arguments with different resolution paths. How to tell them apart, and why carriers benefit when you confuse them.",
   summary:
     'A scope dispute is about what needs repair; a price dispute is about the cost of agreed work. They have different resolution paths, and carriers benefit when you confuse them, so identify which fight you are in before you argue.',
 }

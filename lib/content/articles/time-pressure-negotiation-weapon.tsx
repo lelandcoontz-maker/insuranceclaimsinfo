@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'How Insurance Companies Use Time as Their Most Powerful Weapon',
+  title: "How Insurance Companies Use Time as a Weapon",
   description:
-    'ALE limits, depreciation deadlines, claim fatigue, and the statute of limitations &mdash; how the passage of time itself becomes the carrier&apos;s strongest negotiation tool. Learn to recognize and neutralize these structural pressures.',
+    "ALE limits, depreciation deadlines, claim fatigue, and the statute of limitations - how the passage of time itself becomes the carrier's strongest tool.",
   summary:
     'Time itself is the carrier\'s weapon: ALE limits, depreciation deadlines, claim fatigue, and the one-year suit limitation all pressure you to settle low. Recognize these structural clocks and manage them so delay does not force a bad settlement.',
 }

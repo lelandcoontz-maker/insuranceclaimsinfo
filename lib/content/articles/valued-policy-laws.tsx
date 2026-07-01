@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Valued Policy Laws: When Total Loss Means Full Policy Limits',
   description:
-    'What valued policy laws are, which states have them, how they work in total loss claims, and the critical fact that California is NOT a valued policy state — meaning policyholders must prove actual loss even in total destruction.',
+    "Valued policy laws, which states have them, how they work in total loss claims, and why California is NOT a valued policy state - proof still required.",
   summary:
     'In valued-policy-law states, a total loss pays the full policy limit automatically. California is NOT a valued-policy state, so even in total destruction you must prove your actual loss, which makes documentation and adequate limits essential.',
 }

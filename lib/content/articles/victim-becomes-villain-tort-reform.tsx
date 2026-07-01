@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When the Victim Becomes the Villain: The Tort Reform Narrative and What It Costs Policyholders',
+  title: "The Tort Reform Narrative and What It Costs Policyholders",
   description:
-    'How the insurance industry spent hundreds of millions turning injured people into villains — and how that narrative directly undermines your insurance claim today. The real story of Stella Liebeck, the funding behind tort reform, and what it means for policyholders.',
+    "How the insurance industry spent hundreds of millions turning injured people into villains - and how that narrative directly undermines your claim today.",
   summary:
     'A decades-long, well-funded tort-reform campaign reframed injured claimants as greedy villains (the misrepresented Stella Liebeck case is the classic example). That narrative quietly biases adjusters and juries against your legitimate claim today.',
 }

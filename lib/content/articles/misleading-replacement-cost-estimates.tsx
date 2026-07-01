@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Misleading Pre-Loss Replacement Cost Estimates: When the Insurer Says You\'re Covered and You\'re Not',
+  title: "When Pre-Loss Replacement Cost Estimates Understate Rebuild",
   description:
-    'Insurance companies provide replacement cost estimates that tell policyholders their homes are adequately insured. After a total loss, the actual rebuild cost is 30-60% higher. Learn how this happens, what California law requires, and what you can do about it.',
+    "Carrier replacement-cost estimates typically run 30-60% below true rebuild after a total loss. How it happens, what California law requires, and your options.",
   summary:
     'Insurers\' pre-loss replacement cost estimates often tell homeowners they are fully covered, yet after a total loss the real rebuild cost runs 30 to 60% higher. Know how this happens and what California law says when the carrier\'s own estimate left you underinsured.',
 }

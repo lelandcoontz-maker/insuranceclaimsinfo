@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'How to Respond to Your Insurance Company in Writing: Tone, Strategy, and What Never to Say',
+  title: "How to Respond to Your Insurance Company in Writing",
   description:
-    'A practical guide to written correspondence with your insurer — how to respond to ROR letters, cure letters, denials, and lowball payments. Learn why you should never use the phrase "bad faith" and how framing requests around harm creates a stronger claim file.',
+    "A practical guide to written correspondence with your carrier: responding to ROR letters, cure letters, denials, and lowball payments - and what never to say.",
   summary:
     'Written correspondence with your insurer is strategy: respond to ROR, cure, denial, and lowball letters in writing, state facts and requests clearly, and avoid careless phrasing. A calm, documented paper trail protects your rights and your claim.',
 }

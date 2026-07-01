@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Tenant Improvements and Betterments: Coverage Across Commercial, Condo, Flood, and Renters Policies',
+  title: "Tenant Improvements and Betterments Coverage",
   description:
-    'A guide to tenant improvements and betterments coverage across commercial property policies (ISO CP 00 10), HO-6 condo policies, NFIP flood insurance, and HO-4 renters insurance &mdash; including valuation methods, common disputes, and how to protect your interest before a loss occurs.',
+    "Tenant improvements and betterments coverage across commercial (ISO CP 00 10), HO-6 condo, NFIP flood, and HO-4 renters policies - valuation and disputes.",
   summary:
     'Tenant improvements and betterments, the upgrades a tenant adds to leased space, are covered differently across commercial (ISO CP 00 10), HO-6 condo, NFIP flood, and HO-4 renters policies. Know who insures them and how they are valued before a loss.',
 }

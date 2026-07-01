@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Mudslide After Wildfire: Why Earth Movement Is Covered When Fire Is the Cause',
+  title: "Mudslide After Wildfire: Coverage in California",
   description:
-    'When a wildfire strips vegetation and the next rain triggers a mudslide, the earth movement exclusion does not apply. Learn how the efficient proximate cause doctrine and the California Department of Insurance protect policyholders.',
+    "When wildfire strips vegetation and rain triggers a mudslide, the earth movement exclusion does not apply. Efficient proximate cause protects policyholders.",
   summary:
     'When a wildfire strips vegetation and the next rain triggers a mudslide, the earth-movement exclusion does not apply, because fire is the efficient proximate cause. California\'s doctrine and the CDI confirm the resulting mudslide damage is covered.',
 }

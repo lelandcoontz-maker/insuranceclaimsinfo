@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Insurance Code 790.03 and the 790 Letter: How to Put Your Insurer on Notice',
+  title: "Insurance Code 790.03 and the 790 Letter",
   description:
-    'California Insurance Code 790.03 defines unfair claims settlement practices. Learn what the statute prohibits, when a 790 letter (drafted by counsel) is appropriate, and how the statute interacts with common-law bad faith.',
+    "California Insurance Code 790.03 defines unfair claims practices. What the statute prohibits, when a 790 letter fits, and how it links to common-law bad faith.",
   summary:
     'California Insurance Code 790.03 lists unfair claims settlement practices. A 790 letter, typically drafted by counsel, formally puts an insurer on notice of conduct that may violate the statute. Because of Moradi-Shalal, no private right of action exists under §790.03 itself, but the same conduct may evidence common-law bad faith.',
 }

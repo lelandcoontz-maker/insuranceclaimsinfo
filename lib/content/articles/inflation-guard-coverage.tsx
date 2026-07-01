@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Inflation Guard Coverage: The Double-Edged Endorsement Most Homeowners Misunderstand',
+  title: "Inflation Guard Coverage: How the Endorsement Works",
   description:
-    'What inflation guard coverage does, how it automatically increases dwelling limits, the hidden trap with coinsurance calculations, how it raises premiums, and how to evaluate whether it is helping or hurting.',
+    "What inflation guard does, how it raises dwelling limits automatically, the hidden coinsurance trap, and how to tell whether it's helping or hurting your claim.",
   summary:
     'Inflation guard endorsements automatically increase your dwelling limit and premium over time. They help keep pace with rebuild costs but can interact badly with coinsurance, so evaluate whether yours is actually keeping you adequately insured.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Electric Vehicle Battery Fires and Your Homeowner Policy: A Growing Coverage Question',
+  title: "EV Battery Fires and Your Homeowner Policy",
   description:
-    'How EV battery fires in home garages create complex insurance coverage questions. Covers thermal runaway risks, the homeowner vs. auto policy split, charging equipment coverage gaps, unpermitted installations, and how to protect yourself.',
+    "How EV battery fires in home garages create coverage questions: thermal runaway, the homeowner vs. auto policy split, charging equipment, and permits.",
   summary:
     'EV battery fires in a home garage raise tricky coverage questions split between homeowner and auto policies, with gaps around charging equipment and unpermitted installations. Understand the thermal-runaway risk and which policy responds before a loss.',
 }

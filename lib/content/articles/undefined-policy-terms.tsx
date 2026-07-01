@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Undefined Terms in Your Insurance Policy: How Carriers Exploit Ambiguous Language',
+  title: "Undefined Terms in Your Insurance Policy",
   description:
-    'Insurance policies are full of undefined terms that carriers interpret narrowly to reduce claims. Learn which common terms lack definitions, how insurers exploit the ambiguity, and how to push back using California law.',
+    "Insurance policies contain undefined terms carriers interpret narrowly to reduce claims. Which terms lack definitions, and how to push back in California.",
   summary:
     'Policies are full of undefined words that carriers read narrowly to cut claims. Under California law, an undefined term is given its ordinary meaning and ambiguity is construed in favor of coverage, so you can push back on a strained interpretation.',
 }

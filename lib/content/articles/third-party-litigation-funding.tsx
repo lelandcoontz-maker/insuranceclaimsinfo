@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Third-Party Litigation Funding: What Policyholders Should Know Before Suing Their Insurer',
+  title: "Third-Party Litigation Funding in Insurance Disputes",
   description:
-    'How third-party litigation funding works in insurance disputes, who qualifies, the costs involved, recent legislation like the NY Consumer Litigation Funding Act, and when it makes sense for policyholders facing well-funded insurers.',
+    "How third-party litigation funding works in insurance disputes, who qualifies, the costs, recent legislation, and when it makes sense for policyholders.",
   summary:
     'Third-party litigation funding lets a financier cover the cost of suing your insurer in exchange for a share of any recovery. It can level the field against a well-funded carrier, but understand the costs, eligibility, and evolving regulation before using it.',
 }

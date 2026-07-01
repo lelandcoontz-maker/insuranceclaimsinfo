@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Fire Sprinkler Water Damage: Why It\'s Worse Than You Think',
   description:
-    'Fire sprinkler water is not clean water. Stagnant sprinkler discharge contains bacteria, heavy metals, and biological contaminants that make it a Category 3 water loss requiring professional remediation.',
+    "Fire sprinkler water isn't clean. Stagnant discharge carries bacteria and heavy metals, making it a Category 3 loss that requires professional remediation.",
   summary:
     'Fire sprinkler discharge is not clean water. Stagnant pipe water carries bacteria, heavy metals, and biological contaminants, making it a Category 3 loss that requires professional remediation, not a simple dry-out.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Underground Climate Change and Subsidence: The Coverage Gap Beneath Your Foundation',
+  title: "Underground Climate Change and Subsidence Coverage",
   description:
-    'How underground climate change is causing soil shrinkage and foundation damage across the country — and why the earth movement exclusion may leave policyholders without coverage for an emerging threat.',
+    "How underground climate change causes soil shrinkage and foundation damage - and why the earth movement exclusion may leave policyholders without coverage.",
   summary:
     'Shifting groundwater and drying soils (\'underground climate change\') are causing foundation-damaging subsidence, but the earth-movement exclusion may leave this emerging threat uncovered. Coverage often turns on the cause and any covered triggering peril.',
 }

@@ -4,9 +4,9 @@ import { QABlock } from '@/components/content/QABlock'
 
 export const meta = {
   title:
-    'When the Building Is Covered but Your Personal Property Is Not: Understanding Contents Coverage Gaps',
+    "When Your Dwelling Is Covered but Personal Property Is Not",
   description:
-    'The standard HO-3 homeowner policy covers your dwelling on an open-perils basis but limits personal property to named perils only. Learn where the dwelling vs. personal property gap creates uncovered losses and how to protect yourself.',
+    "The standard HO-3 covers your dwelling on an open-perils basis but limits personal property to named perils only. Where the gap creates uncovered losses.",
   summary:
     'A standard HO-3 covers the dwelling on an open-perils basis but limits personal property to named perils, so some belongings losses fall through the gap. Know where dwelling and personal property coverage diverge and consider broader contents coverage.',
 }

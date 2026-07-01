@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Retaining Wall and Hillside Damage Insurance Claims in California',
+  title: "Retaining Wall and Hillside Damage Claims in California",
   description:
-    'California retaining wall failures and hillside property damage generate some of the most complex coverage disputes in property insurance. Learn about Other Structures limits, the earth movement exclusion, efficient proximate cause, engineering reports, and practical steps to protect your claim.',
+    "California retaining wall and hillside damage: Other Structures limits, earth movement exclusion, efficient proximate cause, and engineering reports.",
   summary:
     'Retaining-wall and hillside failures spark complex disputes over the limited Other Structures coverage, the earth-movement exclusion, and engineering causation. California\'s efficient proximate cause doctrine can restore coverage when a covered peril triggered the failure.',
 }

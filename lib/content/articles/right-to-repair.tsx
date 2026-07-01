@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Right to Repair Clauses: Your Rights When the Carrier Sends Their Contractor',
+  title: "Right to Repair: When the Carrier Sends Their Contractor",
   description:
-    'Insurance companies increasingly use \'right to repair\' clauses to control repairs. Learn your rights, how to manage the carrier\'s contractor, and when to push back.',
+    "Insurance companies use right-to-repair clauses to control repairs. Your rights, how to manage the carrier's contractor, and when to push back.",
   summary:
     'A \'right to repair\' clause lets the insurer elect to repair rather than pay, sending its own contractor. You can manage that contractor, hold the carrier responsible for a complete repair, and push back when the work or scope falls short.',
 }

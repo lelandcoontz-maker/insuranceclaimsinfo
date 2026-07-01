@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Brandt Fees: How California Bad Faith Law Lets You Recover Attorney Fees',
+  title: "Brandt Fees: Recovering Attorney Fees in Bad Faith Cases",
   description:
-    'A detailed guide to Brandt fees in California insurance bad faith cases — how attorney fees incurred to obtain wrongfully withheld policy benefits are recoverable as compensatory damages under Brandt v. Superior Court.',
+    "Brandt fees in California bad faith cases - how attorney fees to obtain wrongfully withheld policy benefits are recoverable as compensatory damages.",
   summary:
     'Brandt fees let a California policyholder recover the attorney fees spent to obtain policy benefits the insurer wrongfully withheld, as compensatory damages in a bad-faith case. They cover fees tied to recovering the benefit, not the entire lawsuit.',
 }

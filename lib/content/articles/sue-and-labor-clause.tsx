@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Sue and Labor Clause: One of the Oldest Duties in Insurance Law',
+  title: "The Sue and Labor Clause in Property Insurance",
   description:
-    'The sue and labor clause requires the insured to protect salvageable property from further damage and gives the right to recover those costs above and beyond policy limits. Learn the maritime origins, how it works in modern property insurance, and what it means for California policyholders.',
+    "The sue and labor clause requires you to protect salvageable property from further damage and lets you recover those costs above policy limits in California.",
   summary:
     'The sue and labor clause requires you to protect salvageable property from further damage and lets you recover those reasonable costs, often above the policy limit. It is an old duty with real modern value, so document mitigation expenses.',
 }
