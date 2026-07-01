@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Professional Services Firm Insurance Claims: Law Firms, Accounting Firms, and the Client Retention Crisis',
+    "Professional Services Firm Insurance Claims",
   description:
-    'Law firms, accounting firms, and architecture firms face unique property insurance challenges—from valuable papers and electronic data to the devastating client retention problem during closure. Learn where the coverage gaps hide and how to protect your practice.',
+    "Law, accounting, and architecture firms face valuable papers limits, data sublimits, and the client retention crisis when closure shuts the office down.",
   summary:
     'Law, accounting, and architecture firms face unique exposures: valuable papers, electronic data, and the severe client-retention problem during a closure. Standard coverage often leaves gaps that can sink a practice\'s recovery.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "Construction Timeline Disputes: Why Insurance Repair Timelines Are Always Wrong — and What It Means for Your ALE",
+  title: "Construction Timeline Disputes and Your ALE",
   description:
-    "Insurance carriers systematically underestimate construction timelines to limit ALE benefits. Learn why repair projections fail, what California law requires, and how to fight back when your carrier cuts off Additional Living Expenses.",
+    "Carriers underestimate construction timelines to limit ALE. Here is what California law requires when your insurer cuts off Additional Living Expense early.",
   summary:
     'Carriers routinely lowball repair timelines to cut off Additional Living Expenses early, but real construction takes longer than their projection. Document the true timeline and push back, because California law ties ALE to the actual time needed to restore your home.',
 }

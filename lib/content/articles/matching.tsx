@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Matching: Achieving a Reasonable Uniform Appearance',
+  title: "California Matching: When Your Insurer Must Replace All",
   description:
-    'When a partial repair leaves a visibly mismatched appearance, your insurer may be required to pay to achieve a reasonably uniform look, including replacing undamaged adjacent areas. In California, the controlling phrase is &ldquo;the damaged area&rdquo; under 10 CCR &sect; 2695.9(a)(2); &ldquo;line of sight&rdquo; is the standard adopted in other states (Iowa, Texas), not California.',
+    "If a partial repair leaves a mismatched look, California 10 CCR 2695.9(a)(2) may require the insurer to replace undamaged adjacent areas to restore uniformity.",
 }
 
 export default function Content() {

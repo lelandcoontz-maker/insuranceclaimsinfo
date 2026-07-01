@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Knob-and-Tube and Aluminum Wiring in Insurance Claims: When a Covered Loss Reveals Outdated Electrical',
+  title: "Knob-and-Tube and Aluminum Wiring in Claims",
   description:
-    'When a covered loss opens walls and reveals knob-and-tube or aluminum branch circuit wiring, rewiring is a necessary repair cost — not an upgrade. Learn the electrical code requirements, California-specific issues, and how to fight carrier denials.',
+    "When a covered loss opens walls and reveals outdated wiring, rewiring is a necessary repair cost, not an upgrade. Here are the code rules and California issues.",
   summary:
     'When a covered loss opens walls and exposes knob-and-tube or aluminum wiring, the rewiring needed to safely complete the repair is a covered repair cost, not a betterment upgrade. Cite the code requirement to fight a carrier\'s denial.',
 }

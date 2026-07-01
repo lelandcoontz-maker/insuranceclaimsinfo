@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Material Misrepresentation vs. Innocent Nondisclosure: When Your Insurer Tries to Void Your Policy for What You Didn’t Say',
+    "Material Misrepresentation and Nondisclosure",
   description:
-    'The critical legal distinction between material misrepresentation and innocent nondisclosure in insurance. California Insurance Code 330 (concealment defined), 331 (rescission), 332 (duty to disclose), 334 (materiality test), 359 (misrepresentation), and 2071 (standard fire policy) standards, intent requirements, common triggers like nursing home moves and trust transfers, rescission vs. denial, and defenses available to policyholders.',
+    "California Insurance Code 330, 331, 332, 334, 359, and 2071 govern when a carrier can void coverage for what you did not say. Here are the defenses available.",
   summary:
     'Insurers try to void policies for what you said or failed to say. California Insurance Code sections 330 to 360 distinguish material misrepresentation and concealment, which can support rescission, from innocent nondisclosure, which often cannot. Materiality and intent are the battleground.',
 }

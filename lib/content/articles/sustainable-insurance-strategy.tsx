@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'California’s Sustainable Insurance Strategy: What the Biggest Overhaul in 30 Years Means for Your Premiums',
+  title: "California's Sustainable Insurance Strategy",
   description:
-    'An in-depth look at the California Department of Insurance’s Sustainable Insurance Strategy — how forward-looking catastrophe models, reinsurance cost pass-through, and Proposition 103 changes are reshaping insurance rates and availability statewide.',
+    "Forward-looking catastrophe models, reinsurance pass-through, and Proposition 103 changes are reshaping California insurance rates and availability statewide.",
   summary:
     'California\'s Sustainable Insurance Strategy, the biggest overhaul in 30 years, lets insurers use forward-looking catastrophe models and pass through reinsurance costs in exchange for writing more high-risk areas. It reshapes premiums and availability statewide.',
 }

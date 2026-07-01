@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Retail Store Insurance Claims: Inventory Nightmares, Seasonal Exposure, and the Gaps That Sink Recoveries',
+    "Retail Store Insurance Claims and Inventory Loss",
   description:
-    'Retail stores face unique insurance challenges — from proving destroyed inventory to seasonal fluctuations, employee dishonesty gaps, and business income during buildout. A California Public Adjuster explains what retailers get wrong and how to protect your recovery.',
+    "Proving destroyed inventory, seasonal swings, employee dishonesty gaps, and business income during buildout: what California retailers get wrong on a claim.",
   summary:
     'Retail claims hinge on proving destroyed inventory, handling seasonal value swings, employee-dishonesty gaps, and business income during build-out. Strong inventory records and the right coverage are what keep a retail recovery from falling short.',
 }

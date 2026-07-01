@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'ACV vs. RCV: Actual Cash Value vs. Replacement Cost Value',
+  title: "ACV vs. RCV: Actual Cash Value vs. Replacement Cost",
   description:
-    'How California measures actual cash value and replacement cost under Insurance Code § 2051(b) and the Fair Claims Settlement Practices Regulations — including why California is not a broad evidence rule state, how depreciation schedules and useful life numbers are derived, and where carrier depreciation breaks down on roofing, flooring, contents, and labor.',
+    "California measures ACV and RCV under Insurance Code 2051(b), not the broad evidence rule. Here is where carrier depreciation breaks down on a claim.",
   summary:
     'Actual cash value (ACV) is replacement cost minus a fair and reasonable deduction for physical depreciation; replacement cost value (RCV) is the full cost to replace. In California, the formula is statutory (Cal. Ins. Code § 2051(b)) and uniform for total and partial losses since January 1, 2020 — not the broad evidence rule. Depreciation is limited to components normally subject to repair and replacement during the structure’s useful life, cannot include labor (10 CCR § 2695.9(f)(1)), and on contents must reflect each item’s actual physical condition under Doan v. State Farm.',
 }

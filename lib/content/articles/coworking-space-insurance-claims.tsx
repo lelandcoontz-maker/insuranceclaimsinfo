@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Co-Working Space Insurance Claims: When 50 Businesses Share One Building and Nobody Knows Who’s Covered',
+    "Co-Working Space Insurance Claims and Coverage Gaps",
   description:
-    'Who insures what when dozens of businesses share a co-working space? Understanding the three-layer insurance problem between building owners, co-working operators, and individual members — and how to avoid devastating coverage gaps.',
+    "When dozens of businesses share one space, three layers of insurance overlap and gaps appear. Here is how building owners, operators, and members get covered.",
   summary:
     'In a co-working space, the building owner, operator, and individual members each carry different coverage, creating a three-layer problem where losses can fall through the cracks. Clarify who insures what to avoid a devastating gap after damage.',
 }

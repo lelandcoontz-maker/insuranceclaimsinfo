@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Does Invoking Appraisal Toll the Statute of Limitations? (In California, the Safer Assumption Is No.)',
+  title: "Does Appraisal Toll the Statute of Limitations?",
   description:
-    'Invoking appraisal does not toll the one-year suit limitation in California. Prudential-LMI tolls during the insurer’s investigation, but Singh, Marselis, and Doheny show courts have refused to extend tolling beyond that. Protect yourself: file a protective lawsuit and request a stay pending appraisal.',
+    "Invoking appraisal does not toll California's one-year suit limit. File a protective lawsuit and request a stay pending appraisal to keep the claim alive.",
   summary:
     'In California, the safer assumption is that invoking appraisal does NOT toll the one-year suit limitation. Prudential-LMI tolling stops when the insurer denies the claim; courts have repeatedly refused to extend tolling further. The practical fix: file a protective lawsuit before the deadline and request a stay pending appraisal.',
 }

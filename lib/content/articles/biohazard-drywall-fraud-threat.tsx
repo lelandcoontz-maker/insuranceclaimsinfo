@@ -1,9 +1,9 @@
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When a Death Scene Becomes a Coverage Dispute: How an Insurance Adjuster Tried to Punish a Contractor for Doing the Right Thing',
+  title: "When a Death Scene Becomes a Coverage Dispute",
   description:
-    'A real case study: a mitigation contractor removed blood-contaminated drywall from a death scene, and the insurance adjuster threatened to report him for fraud. A certified industrial hygienist proved the adjuster wrong — but the contractor still paid the price.',
+    "A case study: an adjuster threatened to report a mitigation contractor for fraud after he removed blood-contaminated drywall. A CIH proved the adjuster wrong.",
   summary:
     'A real case: a mitigation contractor properly removed blood-contaminated drywall from a death scene, and the adjuster threatened to report him for fraud. A certified industrial hygienist proved the removal was justified, but the contractor still paid a price for doing the right thing.',
 }

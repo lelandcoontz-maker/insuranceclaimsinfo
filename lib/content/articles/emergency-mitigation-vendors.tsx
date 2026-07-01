@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "Emergency Mitigation Vendors: When the First Responder Works for the Insurance Company",
+  title: "Emergency Mitigation Vendors and Conflicts of Interest",
   description:
-    "How carrier-dispatched mitigation vendors create conflicts of interest that shape the entire claim. Covers your right to choose your own vendor, inflated invoices, documentation control, IICRC standards, assignment of benefits, and how to protect yourself when the insurance company sends the first responder.",
+    "Carrier-dispatched mitigation vendors create conflicts that shape the entire claim. Here is how to choose your own vendor and protect your documentation.",
   summary:
     'When the insurer dispatches the emergency mitigation vendor, that vendor\'s loyalty may run to the carrier, shaping documentation and the claim. You have the right to choose your own vendor; protect yourself against inflated invoices and lost control of the file.',
 }

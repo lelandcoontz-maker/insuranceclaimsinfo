@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Games Insurers Play: How Carriers Capture, Limit, and Selectively Disclose Their Own Experts',
+  title: "Games Insurers Play: Expert Capture and Disclosure",
   description:
-    'Insurance companies retain "independent" experts — engineers, industrial hygienists, contractors — to evaluate claims. Two recurring patterns shape what those experts actually produce: scope-limiting instructions kept secret from the insured, and selective disclosure when a first expert produces a report the carrier does not want to use. Both practices are widely observed, both violate the California Fair Claims Settlement Practices Regulations in many cases, and both have specific procedural remedies the policyholder can invoke.',
+    "Carriers limit independent experts through secret scope instructions and bury unfavorable reports. Both practices violate the California claims regulations.",
   summary:
     'Insurers retain experts, then narrow their assignments and selectively disclose their findings to shape the outcome. Demand the full file, including any earlier report versions, and treat a suppressed or scope-limited expert report as a red flag.',
 }

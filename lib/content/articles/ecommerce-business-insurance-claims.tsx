@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    "E-Commerce Business Insurance Claims: When Your Property Is Digital, Your Warehouse Is Rented, and Your Policy Wasn't Designed for This",
+    "E-Commerce Business Insurance Coverage Gaps",
   description:
-    "E-commerce businesses fall through traditional insurance gaps: the home-based business exclusion, electronic data sublimits, off-premises inventory, and business income when your website goes down. Learn how to identify and close the coverage gaps before a loss exposes them.",
+    "E-commerce sellers fall through standard gaps: home-business exclusion, electronic data sublimits, off-premises inventory, and revenue when the site goes down.",
   summary:
     'E-commerce sellers fall through standard insurance gaps: the home-based business exclusion, low electronic-data sublimits, off-premises inventory, and business income when the website goes down. Identify and close these gaps before a loss exposes them.',
 }

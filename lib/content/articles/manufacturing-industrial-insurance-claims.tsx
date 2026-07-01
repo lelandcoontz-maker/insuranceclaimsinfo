@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Manufacturing and Industrial Facility Insurance Claims: Production Lines, Raw Materials, and the Bottleneck Problem',
+    "Manufacturing and Industrial Insurance Claims",
   description:
-    'Manufacturing facilities face unique insurance challenges including raw materials vs. finished goods valuation, machinery breakdown bottlenecks, environmental contamination, OSHA compliance, and supply chain disruption. A policyholder-focused guide to industrial insurance claims.',
+    "Raw vs. finished goods valuation, machinery breakdown bottlenecks, contamination, OSHA, and supply chain disruption shape every industrial facility claim.",
   summary:
     'Manufacturing claims involve raw-materials versus finished-goods valuation, machinery-breakdown bottlenecks, environmental and OSHA issues, and supply-chain disruption. The interplay of these exposures makes industrial claims uniquely complex to value.',
 }

@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Ordinance or Law and Asbestos Abatement: Who Pays When a Covered Loss Triggers ACM Removal?',
+    "Ordinance or Law Coverage and Asbestos Abatement",
   description:
-    'When a covered loss triggers demolition of a building containing asbestos-containing materials (ACM), who pays for the abatement? This article analyzes the intersection of ordinance or law coverage, the pollution exclusion, and the efficient proximate cause doctrine in California commercial property claims.',
+    "When a covered loss triggers demolition of a building with asbestos, ordinance or law coverage, the pollution exclusion, and efficient proximate cause collide.",
   summary:
     'When a covered loss forces demolition of a building with asbestos materials, ordinance or law coverage should pay the required abatement, despite carrier attempts to invoke the pollution exclusion. California\'s efficient proximate cause doctrine supports coverage.',
 }

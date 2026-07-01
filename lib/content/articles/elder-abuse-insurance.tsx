@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Elder Abuse Statutes in Insurance Claims: Enhanced Remedies for Elderly and Dependent Adult Policyholders',
+  title: "Elder Abuse Statutes in Insurance Bad Faith Claims",
   description:
-    'When insurance companies engage in bad faith against elderly or dependent adult policyholders, California\'s Elder Abuse and Dependent Adult Civil Protection Act triggers enhanced remedies including attorney\'s fees, punitive damages, and survival actions.',
+    "When insurers act in bad faith against elderly policyholders, California's Elder Abuse Act triggers attorney's fees, punitive damages, and survival actions.",
   summary:
     'When an insurer acts in bad faith against an elderly or dependent-adult policyholder, California\'s Elder Abuse Act can trigger enhanced remedies, including attorney\'s fees, punitive damages, and survival actions, on top of normal bad-faith damages.',
 }

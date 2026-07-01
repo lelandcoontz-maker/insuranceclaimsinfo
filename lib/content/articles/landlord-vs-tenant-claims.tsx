@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Landlord vs. Tenant Insurance Claims: Who Files What, Coverage Gaps, and How to Avoid Getting Caught in the Middle',
+  title: "Landlord vs. Tenant Insurance Claims: Who Files What",
   description:
-    'Understanding landlord DP-3 and tenant HO-4 policies, who files which claim, how coverage gaps leave damage unpaid, subrogation risks, and practical steps for coordinating two separate insurance claims on the same property.',
+    "Landlord DP-3 and tenant HO-4 policies cover different parts of the same property. Here is how coverage gaps form and how to coordinate two parallel claims.",
   summary:
     'A landlord\'s DP-3 policy covers the building; a tenant\'s HO-4 covers their belongings and liability. Knowing who files which claim, where coverage gaps fall, and how subrogation works prevents damage from going unpaid between the two policies.',
 }

@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Long-Term Displacement After a Disaster: When ALE Runs Out and Your Home Sits Empty',
+    "Long-Term Displacement: When ALE Runs Out",
   description:
-    'After a wildfire or major disaster, rebuilding can take 2-4 years. This article explains what happens when ALE expires, whether your policy still covers the property during extended reconstruction, the vacancy exclusion trap, non-renewal protections, and practical strategies for managing insurance through multi-year displacement.',
+    "After a major disaster, rebuilding can take 2-4 years. Here is what happens when ALE expires, how the vacancy exclusion trap works, and your non-renewal rights.",
   summary:
     'After a major disaster, rebuilding can take two to four years, often outlasting ALE benefits. Watch the vacancy-exclusion trap while your home sits empty, know your non-renewal protections, and plan for managing coverage through a multi-year displacement.',
 }

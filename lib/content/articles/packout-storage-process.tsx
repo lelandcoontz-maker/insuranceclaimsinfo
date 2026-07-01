@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Pack-Out, Storage, and Cleaning of Personal Property: What Your Insurance Company Should Be Paying For',
+    "Pack-Out, Storage, and Cleaning of Contents",
   description:
-    'A practical guide to the pack-out, storage, and cleaning process during an insurance claim. Covers your right to take cash instead of services, proper pack-out procedures, storage levels, items commonly damaged during the process, and California-specific regulations.',
+    "Your right to take cash instead of services, proper pack-out procedure, storage levels, items commonly damaged in transit, and the California regulations.",
   summary:
     'On a pack-out, the insurer should pay to properly pack, store, and clean your belongings, and you generally have the right to take a cash settlement instead of services. Document items before they leave, because property is often damaged or lost in the process.',
 }

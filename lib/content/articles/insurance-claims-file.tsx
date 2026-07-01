@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The Insurance Claims File: What It Contains, Your Right to Request It, and How It Changes Claim Outcomes',
+  title: "The Insurance Claims File and Your Right to It",
   description:
-    'What is in the insurance company\'s claims file, why it matters, your right to request it under California law, and how the claims diary, reserve history, and internal communications reveal what the carrier really thinks about your claim.',
+    "What is in the carrier's claims file, your right to it under California law, and how reserves and diary entries reveal what your insurer really thinks.",
   summary:
     'The carrier\'s claims file, including the adjuster\'s diary, reserve history, and internal notes, reveals what the insurer really thinks about your claim. California law gives you the right to request it, and it can change the outcome.',
 }

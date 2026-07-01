@@ -2,8 +2,8 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Book Review: From Good Hands to Boxing Gloves by David Berardinelli',
-  description: 'A review of David Berardinelli\'s From Good Hands to Boxing Gloves, which Berardinelli built from internal Allstate and McKinsey documents he obtained in litigation and published after California courts denied Allstate\'s motions to seal the record. What Berardinelli documents about CCPR, and what it means for property claims today.',
+  title: "Book Review: From Good Hands to Boxing Gloves",
+  description: "A review of David Berardinelli's book built from unsealed Allstate and McKinsey CCPR documents, and what it means for property claims today.",
   summary:
     'David Berardinelli\'s From Good Hands to Boxing Gloves analyzes internal Allstate / McKinsey documents Berardinelli obtained in litigation and published after courts denied Allstate\'s motions to seal them. Berardinelli argues that the Claims Core Process Redesign was, by design, a system to reduce claim payments; the patterns he documents are visible in property claims handling today.',
 }

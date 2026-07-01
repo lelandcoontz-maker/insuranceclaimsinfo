@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Games Insurers Play: Musical Chairs With Adjusters — The Hidden Cost of Constant Reassignment',
+  title: "Games Insurers Play: Musical Chairs With Adjusters",
   description:
-    'On long-duration California claims — particularly urban wildfire smoke claims — it is not unusual for many adjusters to cycle through a single file over a year or more. Each reassignment resets context, drops continuity, repeats document requests, and pushes back the resolution date. For residential property claims arising from a declared state of emergency, California Insurance Code § 14047 requires the insurer, in a timely manner, to provide a written status report when a third or subsequent first-party property claims adjuster is assigned within a six-month period. Most policyholders never hear about the rule, and most carriers never invoke it voluntarily.',
+    "Constant adjuster reassignment delays claims. California Insurance Code 14047 requires a written status report when a third adjuster is assigned in six months.",
   summary:
     'On long claims, insurers may cycle many adjusters through your file, resetting context and delaying resolution. For residential claims arising from a declared state of emergency, California Insurance Code § 14047 requires a written status report when a third or subsequent adjuster is assigned within a six-month period.',
 }

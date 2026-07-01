@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Recoverable Depreciation Deadlines: The Trap That Costs Policyholders Thousands',
+    "Recoverable Depreciation Deadlines in California",
   description:
-    'How the recoverable depreciation deadline works under California Insurance Code Section 2051.5, why carriers benefit when policyholders miss it, and how to protect yourself from losing the holdback. Covers the funding gap trap, clock triggers, extensions, completion requirements, contents vs. dwelling, and equitable defenses.',
+    "California Insurance Code 2051.5 sets the holdback clock. Here is the funding gap trap, what triggers the clock, available extensions, and equitable defenses.",
   summary:
     'Under California Insurance Code 2051.5, depreciation held back from your payment is recoverable only if you complete repairs within the deadline. Missing it forfeits the holdback, so track the clock, request extensions when needed, and document completion.',
 }

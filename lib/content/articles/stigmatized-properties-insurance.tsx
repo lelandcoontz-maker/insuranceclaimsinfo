@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Stigmatized Properties and Insurance Claims: When the Damage Is to the Property\'s Reputation',
+  title: "Stigmatized Properties and Diminution in Value",
   description:
-    'After a death, violent crime, drug manufacturing, or high-profile contamination event, a property may lose value even after full physical remediation. Learn how stigma affects property insurance claims, disclosure obligations, and what policyholders can do about diminution in value from reputational damage.',
+    "After a death, violent crime, or contamination event, a property loses value even after physical remediation. Here is how stigma affects an insurance claim.",
   summary:
     'After a death, crime, drug operation, or notorious contamination, a property can lose value even after full physical repair, a stigma or reputational loss. Whether insurance covers this diminution is limited, and disclosure obligations also apply.',
 }

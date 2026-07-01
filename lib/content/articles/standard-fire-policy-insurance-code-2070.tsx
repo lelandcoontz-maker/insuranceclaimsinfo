@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'California’s Standard Fire Policy: What Insurance Code 2070 Actually Says and Why It Matters',
+    "California Standard Fire Policy and Code 2070",
   description:
-    'A guide to California Insurance Code 2070 and the standard fire policy set forth in Section 2071. Learn how this statutory floor protects policyholders, what happens when insurers deviate from the standard form, and why key provisions like the appraisal clause, suit limitation, and 60-day payment rule remain critical to every fire claim in California.',
+    "Insurance Code 2070 sets the statutory floor for every California fire policy. Here is why the appraisal clause, suit limit, and 60-day payment rule control.",
   summary:
     'California Insurance Code 2070 requires fire policies to provide at least the protection of the standard form in Section 2071. Any policy term weaker than that statutory floor is unenforceable, preserving rights like appraisal, the suit-limitation terms, and prompt payment.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Contingent Business Interruption Insurance: When Someone Else&apos;s Disaster Shuts Down Your Business',
+  title: "Contingent Business Interruption Insurance",
   description:
-    'Contingent business interruption (CBI) coverage pays for income you lose when physical damage at a supplier, customer, or other dependent business disrupts your operations. Learn how CBI differs from standard business interruption, what triggers coverage, and how to document losses when the damage happens somewhere else.',
+    "CBI pays for income lost when damage at a supplier, customer, or dependent business shuts you down. Here is what triggers coverage and how to document it.",
   summary:
     'Contingent business interruption (CBI) covers income you lose when physical damage at a supplier, customer, or other dependent business disrupts you, even though your own property is fine. Know what triggers it and document the upstream loss.',
 }

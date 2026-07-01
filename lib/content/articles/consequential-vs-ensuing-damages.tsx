@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Consequential Damages vs. Ensuing Damages: Two Different Concepts That Sound Alike',
+  title: "Consequential Damages vs. Ensuing Damages",
   description:
-    'Consequential damages and ensuing damages are fundamentally different insurance concepts that operate at different stages of a claim. Ensuing damage is a coverage question found in the policy. Consequential damages are a remedy for the insurer\'s wrongful conduct. Understanding the difference helps you make the right argument at the right time.',
+    "Ensuing damage is a coverage question in the policy. Consequential damages remedy the insurer's wrongful conduct. The distinction targets the right argument.",
   summary:
     'Ensuing damage is a coverage question, whether the policy covers follow-on damage, while consequential damages are a remedy for the insurer\'s wrongful conduct. They arise at different stages, so identifying which you have tells you the right argument to make.',
 }

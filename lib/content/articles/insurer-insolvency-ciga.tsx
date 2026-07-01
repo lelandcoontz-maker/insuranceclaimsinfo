@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "When Your Insurance Company Goes Insolvent: CIGA and What California Policyholders Need to Know",
+  title: "When Your Insurer Goes Insolvent: CIGA Explained",
   description:
-    "What happens when your California insurance company goes out of business. How the California Insurance Guarantee Association (CIGA) works, the conservation and liquidation process, coverage caps, surplus lines gaps, the claims process, deadlines, and how to protect yourself in the current California market.",
+    "What happens when a California carrier fails: how CIGA works, the liquidation process, coverage caps, surplus lines gaps, and how to protect yourself.",
   summary:
     'If your California insurer becomes insolvent, the California Insurance Guarantee Association (CIGA) pays covered claims, subject to caps and excluding surplus lines carriers. The general cap is $500,000 per claim, with a $1,000,000 cap for residential dwelling claims; claims under $100, punitive damages, and several insurance lines are excluded. Confirm your carrier is admitted, and know the limits before relying on this safety net.',
 }

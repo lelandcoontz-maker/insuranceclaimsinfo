@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'California Construction Law and Insurance Claims: Contract Requirements, Licensing, and Consumer Protections',
+  title: "California Construction Law and Insurance Claims",
   description:
-    'California imposes strict requirements on residential construction contracts under Business & Professions Code 7159. Learn how these requirements affect insurance claims, what distinguishes residential from commercial construction law, and how non-compliant contracts can undermine your repair project.',
+    "Business and Professions Code 7159 sets strict rules on residential construction contracts. Non-compliant contracts can undermine your repair project.",
   summary:
     'California Business and Professions Code 7159 imposes strict requirements on residential construction contracts. A non-compliant repair contract can undermine your project and your claim, so confirm your contractor and contract meet the law before work begins.',
 }

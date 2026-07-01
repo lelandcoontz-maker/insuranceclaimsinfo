@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Glass Breakage Insurance Claims: Coverage, Exclusions, and the Arguments Carriers Hope You Never Make',
+  title: "Glass Breakage Claims: Coverage and Denial Tactics",
   description:
-    'How glass breakage is covered under homeowner and commercial policies, the vandalism glass exclusion, tempered glass code upgrades, thermal stress denials, and creative coverage arguments your adjuster should know.',
+    "How glass breakage is covered under homeowner and commercial policies, the vandalism glass exclusion, tempered glass code upgrades, and thermal stress denials.",
   summary:
     'Glass breakage is generally covered, but watch the vandalism glass exclusion, thermal-stress denials, and tempered-glass code upgrades. Knowing these arguments, plus matching and code-upgrade angles, helps you get full replacement.',
 }

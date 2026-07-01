@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Accounts Receivable and Valuable Papers Coverage: Protecting the Records That Keep Your Business Running',
+    "Accounts Receivable and Valuable Papers Coverage",
   description:
-    'Accounts receivable (CP 04 04) and valuable papers (CP 04 07) coverage protect the information value of business records. Learn what these endorsements cover and how to use them.',
+    "CP 04 04 and CP 04 07 protect the information value of business records. Here is what these endorsements cover and how to use them on a claim.",
   summary:
     'Accounts receivable (CP 04 04) and valuable papers (CP 04 07) coverage protect the value of business records destroyed in a loss, such as the cost to reconstruct billing data or documents. They are endorsements you must add, not automatic coverage.',
 }

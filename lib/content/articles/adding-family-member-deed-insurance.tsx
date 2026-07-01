@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Adding a Family Member to the Deed: The Insurance Consequences Nobody Mentions',
+    "Adding Family to the Deed: Insurance Consequences",
   description:
-    'Families routinely add an adult child to their home deed as an estate planning shortcut to avoid probate. The estate planning attorney rarely tells the client to call their insurance agent. Changing title changes insurable interest, can trigger policy violations, and may leave both the original owner and the added family member without coverage when a claim arises.',
+    "Adding an adult child to your deed changes insurable interest, can trigger policy violations, and may leave both parties without coverage when a claim hits.",
   summary:
     'Adding an adult child to your home\'s deed for estate planning changes who holds insurable interest, which can violate policy conditions and leave both owners underinsured or uncovered at claim time. Call your insurance agent before changing title, not after.',
 }

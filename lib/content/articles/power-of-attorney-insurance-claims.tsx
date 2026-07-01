@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Power of Attorney and Conservatorship in Insurance Claims: Managing the Claim of an Incapacitated Policyholder',
+  title: "POA and Conservatorship in Insurance Claims",
   description:
-    'When a policyholder becomes incapacitated, someone else has to take over the claim — through a previously-executed durable Power of Attorney, or through a court-supervised conservatorship if no POA exists. This article covers the insurance-side mechanics; the POA and conservatorship law belong to a California estate or probate attorney.',
+    "When a policyholder loses capacity, a durable Power of Attorney or court conservatorship has to step in. Here are the insurance-side mechanics in California.",
   summary:
     'If a policyholder becomes incapacitated, a durable POA lets someone manage the insurance claim; without one, a court-supervised conservatorship is required. This article covers how carriers verify authority and what to do before incapacity strikes; the POA and conservatorship law itself belongs to an attorney.',
 }

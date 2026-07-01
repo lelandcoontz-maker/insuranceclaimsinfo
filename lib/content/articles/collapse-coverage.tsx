@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Collapse Coverage in Homeowner Insurance: The Hidden Additional Coverage Carriers Hope You Overlook',
+  title: "Collapse Coverage in California Homeowner Policies",
   description:
-    'Collapse coverage is not a basic peril in the HO-3 — it is an Additional Coverage with strict qualifying causes. Learn how carriers define collapse, why the definition matters, and how California policyholders can fight denials when a structure is substantially impaired but hasn\'t literally fallen down.',
+    "Collapse is not a basic peril; it is an Additional Coverage with strict qualifying causes. Here is how to fight denials when a structure is impaired.",
   summary:
     'Collapse is not a basic HO-3 peril but an Additional Coverage with strict qualifying causes. A structure can be substantially impaired without literally falling down. Know how your policy defines collapse so you can fight a denial when the building is failing.',
 }

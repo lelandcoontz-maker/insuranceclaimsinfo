@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'The History of FAIR Plans: From 1968 Urban Riot Insurance to Today\'s Wildfire Crisis',
+  title: "The History of FAIR Plans, From 1968 to Today",
   description:
-    'How FAIR Plans evolved from a 1968 federal response to inner-city riot losses and redlining into today\'s wildfire-zone insurer of last resort. Covers the federal NIDP origin, where FAIR Plans operate today, Florida Citizens\' separate lineage, DP-1 vs DP-3 forms, commercial coverage, the critical FRV vs ALE distinction, eligibility, and the California wildfire-zone reality.',
+    "FAIR Plans began as a 1968 federal response to riot losses and redlining, then became today's wildfire-zone insurer of last resort. Here is the full lineage.",
   summary:
     'FAIR Plans were created by the federal Urban Property Protection and Reinsurance Act of 1968 to break the inner-city insurance availability crisis driven by riot losses and redlining. They are now the residual property market in roughly 33 states, with the California FAIR Plan reshaped by wildfire risk. This guide walks through the federal origin, where FAIR Plans operate today, why Florida Citizens is not strictly a FAIR Plan, the DP-1 vs DP-3 form distinction, commercial coverage, the often-misunderstood Fair Rental Value vs Additional Living Expense difference, eligibility, and the CA fire-zone reality.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: "When a Contractor’s Bid Overrides Xactimate: Sub-Bids, Specialty Work, and What the EULA Actually Says",
+  title: "Sub-Bids vs. Xactimate: When a Bid Controls Price",
   description:
-    "A guide for policyholders, Public Adjusters, and attorneys on why a specialty sub-contractor’s actual bid should control over Xactimate line-item pricing and how to make that argument stick.",
+    "Why a specialty sub's actual bid should override Xactimate line-item pricing on specialty work, and how to make the argument stick on a California claim.",
   summary:
     'When a specialty subcontractor\'s actual bid exceeds Xactimate\'s line-item price, the real bid should control, because Xactimate is a pricing estimate, not a binding cost. Document the sub-bid to override understated software pricing.',
 }

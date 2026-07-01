@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Trust-Owned Property and Insurance Claims: When the Named Insured Doesn’t Match the Trust',
+  title: "Trust-Owned Property and Insurance Claims",
   description:
-    'Many California homes are held in a revocable living trust but insured in the individual’s name. That mismatch is a recurring coverage dispute. This article covers the insurance-side mechanics: how to fix the policy, what happens after a loss, and which arguments are available when a carrier raises the mismatch as a defense.',
+    "Many California homes sit in a revocable trust but are insured in the individual's name. Here is how to fix the policy and what happens at claim time.",
   summary:
     'California homes are often held in a revocable trust but insured in the individual’s name, a mismatch insurers raise as a coverage defense. Restate the policy so the trust is the named insured. If a loss has already happened, several arguments are available to defeat the mismatch defense.',
 }

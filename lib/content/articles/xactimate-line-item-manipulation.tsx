@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Xactimate Line Item Manipulation: How "Included" Makes Covered Items Disappear',
+  title: "Xactimate Line Item Manipulation Tactics",
   description:
-    'A detailed guide for policyholders, Public Adjusters, and attorneys on how insurance carriers manipulate Xactimate line items — from the "included" designation and wrong codes to minimum charge suppression and missing items — and how to identify and challenge every tactic using Verisk\'s own documentation.',
+    "How carriers manipulate Xactimate estimates: 'included' designations, wrong codes, minimum charge suppression, missing items, and how to challenge each tactic.",
   summary:
     'Carriers manipulate Xactimate estimates by omitting line items, using low waste factors, wrong labor settings, and stale pricing to shrink the total. Knowing these tactics lets you spot and correct a manipulated estimate line by line.',
 }

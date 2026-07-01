@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'How Insurance Adjusters Are Trained, Compensated, and Measured &mdash; And What It Means for Your Claim',
+    "How Insurance Adjusters Are Trained and Paid",
   description:
-    'Insurance adjusters are shaped by their training, pay structure, and performance metrics. Learn how catastrophe adjusters, daily adjusters, and independent adjusters are compensated, what authority levels mean, and how internal carrier metrics influence the handling of your property insurance claim.',
+    "Catastrophe, daily, and independent adjusters are paid and measured differently. Here is how internal metrics shape the handling of your property claim.",
   summary:
     'Adjusters are shaped by their training, pay, authority limits, and performance metrics, which differ for catastrophe, daily, and independent adjusters. Those incentives quietly influence how your claim is handled and why.',
 }

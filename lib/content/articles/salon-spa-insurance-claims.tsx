@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Salon and Spa Insurance Claims: Chemical Exposure, Professional Liability, and Equipment Worth More Than the Buildout',
+    "Salon and Spa Insurance Claims: Chemicals and Lasers",
   description:
-    'Salons and spas face insurance exposures most business owners never anticipate: the pollution exclusion applied to everyday chemicals, professional liability for treatments gone wrong, laser equipment worth $150K each, and the booth rental insurance gap. Learn how to navigate these claims.',
+    "Pollution exclusions applied to everyday salon chemicals, professional liability for treatments, laser equipment at $150K each, and the booth rental gap.",
   summary:
     'Salons and spas face unexpected exposures: the pollution exclusion applied to everyday chemicals, professional liability for treatments, costly laser equipment, and the booth-rental insurance gap. Confirm coverage addresses these before a loss.',
 }

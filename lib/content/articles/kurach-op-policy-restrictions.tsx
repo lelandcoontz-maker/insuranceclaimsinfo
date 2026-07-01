@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'When Your Policy Secretly Restricts Overhead & Profit: The Kurach Decision and What It Means',
+  title: "Kurach v. Truck Insurance and Overhead & Profit",
   description:
-    'In Kurach v. Truck Insurance Exchange (Pa. 2020), the Pennsylvania Supreme Court upheld policy language that withholds general contractor overhead and profit until the policyholder actually pays for it. Learn how this 4-3 decision works, what it changed, and how to check whether your own policy contains similar restrictions.',
+    "In Kurach (Pa. 2020), the court upheld policy language withholding GC overhead and profit until the policyholder actually pays for it. Here is how it works.",
   summary:
     'In Kurach v. Truck Insurance Exchange (Pa. 2020), the court upheld policy language withholding general contractor overhead and profit until the policyholder actually pays for it. Check whether your own policy contains a similar O&P restriction.',
 }

@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Labor Depreciation: Can Labor "Wear Out"? California Says No — By Regulation',
+  title: "Labor Depreciation in California Insurance Claims",
   description:
-    'A comprehensive analysis of labor depreciation in insurance claims. Can a service physically deteriorate? In California the question is closed: 10 CCR §2695.9(f)(1) prohibits labor depreciation in property claims. The statutory ACV framework is at Cal. Ins. Code §2051(b). Learn the California rule, the out-of-state case law, and how to challenge labor depreciation on your claim.',
+    "10 CCR 2695.9(f)(1) bars labor depreciation in California; ACV is set by Insurance Code 2051(b). Here is how to challenge a labor depreciation deduction.",
   summary:
     'Can a service physically wear out? In California, the Fair Claims regulation (10 CCR §2695.9(f)(1)) prohibits depreciating labor in property claims. The only narrow exception is intrinsic labor in manufactured materials. The statutory ACV framework is at Cal. Ins. Code §2051(b). Challenge labor depreciation on every California claim where it appears.',
 }

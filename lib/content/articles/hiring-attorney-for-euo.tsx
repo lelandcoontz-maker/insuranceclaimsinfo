@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Hiring an Attorney Just for Your EUO: Limited-Scope Engagement, Costs, and What Happens in the Room',
+  title: "Hiring an Attorney Just for Your EUO Examination",
   description:
-    'When your insurance company demands an Examination Under Oath, you almost certainly need an attorney with you — but not necessarily a contingency-fee attorney for the entire claim. Limited-scope EUO representation in Southern California typically runs a few thousand dollars for prep, the examination itself, and a debrief. Here is how it works, how to prepare like you would for a deposition, what your attorney can and cannot do in the room, and the strategic moves — including producing evidence on the record — that protect your claim.',
+    "Limited-scope EUO representation in Southern California runs a few thousand dollars for prep, the exam, and debrief. Here is what counsel can do in the room.",
   summary:
     'If the insurer demands an Examination Under Oath, you likely want an attorney, but only for the EUO, not necessarily the whole claim. Limited-scope EUO representation covers prep, the exam, and a debrief, and lets you produce evidence strategically on the record.',
 }

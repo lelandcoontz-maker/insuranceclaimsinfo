@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Expert Witnesses in Insurance Claim Litigation: Daubert Challenges, Claims Handling Experts, and Demolishing Carrier Experts',
+  title: "Expert Witnesses in Insurance Claim Litigation",
   description:
-    "How expert witnesses are used in insurance property litigation, how to challenge the carrier's biased experts through Daubert and Sargon motions, and why claims handling experts are the policyholder's most powerful weapon at trial.",
+    "How expert witnesses are used in property litigation, how to attack carrier experts under Daubert and Sargon, and why claims handling experts win at trial.",
   summary:
     'In insurance litigation, expert witnesses on causation and claims handling can make or break the case. Daubert challenges can exclude unreliable carrier experts, and a strong claims-handling expert can expose bad faith. Choosing and challenging experts is pivotal.',
 }

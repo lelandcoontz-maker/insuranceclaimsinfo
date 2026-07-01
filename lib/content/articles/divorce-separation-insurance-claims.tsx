@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Marital Property and Insurance Claims in California: Divorce, Separation, Community Property, and Spousal Authority',
+    "Divorce, Separation, and Insurance Claims in CA",
   description:
-    'A guide to the California rules that govern insurance claims on marital property — community property and separate property, the mortgage/named-insured mismatch, the innocent co-insured doctrine and spousal arson, what happens when the named insured dies, the rights of domestic partners and unmarried couples, and the practical steps to keep a claim alive when a marriage is ending.',
+    "How community vs. separate property, named-insured mismatches, spousal arson, and the innocent co-insured doctrine play out when a CA marriage ends.",
   summary:
     'Divorce and separation complicate property claims through community vs. separate property rules, named-insured mismatches, and the innocent co-insured doctrine. California law offers ways to keep a claim alive when a marriage is ending; act to protect your interest.',
 }

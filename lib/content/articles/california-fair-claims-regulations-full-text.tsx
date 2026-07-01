@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'California Fair Claims Settlement Practices Regulations — Verbatim Text (Property Provisions) and Practical Guide',
+  title: "California Fair Claims Regulations: Full Text",
   description:
-    'The verbatim text of the property-relevant provisions of 10 CCR §§ 2695.1–2695.14, the California Fair Claims Settlement Practices Regulations, with history, enforcement, interplay with the Standard Fire Policy, and how practitioners use them. A reference for policyholders, Public Adjusters, and attorneys.',
+    "Verbatim text of the property provisions of 10 CCR 2695.1 to 2695.14, with history, enforcement, and how policyholders and Public Adjusters use them.",
   summary:
     'A practitioner reference to California\'s Fair Claims Settlement Practices Regulations (10 CCR §§ 2695.1–2695.14), with the verbatim text of the property-relevant provisions and the history, enforcement framework, and case law context behind them. The automobile-specific sections (§§ 2695.8, 2695.8.1, 2695.8.2, 2695.8.5) are outside the scope of this property-focused site and are linked to the CDI primary source.',
 }

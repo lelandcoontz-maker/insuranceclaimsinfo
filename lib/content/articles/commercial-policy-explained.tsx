@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Understanding Your Commercial Property Policy: The CP and BOP Forms Explained',
+  title: "Understanding Your Commercial Property Policy",
   description:
-    'Commercial property policies do not use the Coverage A/B/C/D shorthand from homeowner policies. They use functional names — Building, Business Personal Property, Business Income, Extra Expense — across the ISO Commercial Property (CP) and Businessowners (BOP) form families. Here is what each form does and where the traps live in California claims.',
+    "Commercial policies use functional names: Building, BPP, Business Income, Extra Expense. Here is what each ISO form does and where the California traps live.",
   summary:
     'Commercial property uses ISO CP forms (Building / BPP / Business Income) or the packaged BOP for smaller businesses. Different forms, different traps — coinsurance, 72-hour Business Income waiting periods, FAIR Plan limitations, and Prop 103 dynamics all shape California commercial claims.',
 }

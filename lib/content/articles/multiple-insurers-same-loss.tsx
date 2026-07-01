@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Multiple Insurance Policies Covering the Same Loss: Other Insurance Clauses, Stacking, and Maximizing Recovery',
+  title: "Multiple Policies Covering the Same Loss",
   description:
-    'When two or more insurance policies cover the same property loss, disputes over priority, contribution, and payment responsibility are common. Learn how other insurance clauses work, how California courts resolve conflicts, and how policyholders can maximize recovery from overlapping coverage.',
+    "When two or more policies cover the same property loss, other-insurance clauses, priority fights, and contribution rules decide who pays what in California.",
   summary:
     'When two policies cover the same loss, \'other insurance\' clauses, contribution, and anti-stacking rules decide priority and payment. Knowing how California resolves these conflicts helps you maximize total recovery across overlapping coverage.',
 }

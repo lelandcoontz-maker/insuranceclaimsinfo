@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    "Self-Storage Facility Insurance Claims: Thousands of Customers, Unknown Contents, and the Documentation Nightmare",
+    "Self-Storage Facility Insurance and Bailee Coverage",
   description:
-    "Self-storage facilities face unique insurance challenges from bailee coverage for thousands of customers' property to climate-controlled unit failures, cascading water damage, and the impossible task of documenting unknown contents after a loss.",
+    "Bailee coverage for thousands of tenants' property, climate-control failures, cascading water, and documenting unknown contents after a self-storage loss.",
   summary:
     'Self-storage operators face bailee exposure for thousands of customers\' unknown contents, plus a documentation nightmare proving what was stored. Understanding bailee coverage and tenant insurance requirements is key to handling these claims.',
 }

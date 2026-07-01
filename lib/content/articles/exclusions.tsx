@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Policy Exclusions in California Homeowner Insurance: What They Mean, When They Apply, and When They Do Not',
+  title: "California Homeowner Insurance Policy Exclusions",
   description:
-    'A guide to insurance policy exclusions in California homeowner policies. Covers open-peril vs. named-peril policies, burden of proof, strict construction, anti-concurrent causation clauses, the ensuing loss doctrine, and the most common exclusions in HO-3 and FAIR Plan policies.',
+    "Open- vs. named-peril, burden of proof, strict construction, anti-concurrent causation, and the ensuing loss doctrine across HO-3 and FAIR Plan policies.",
   summary:
     'Policy exclusions define what is not covered, but they are construed strictly against the insurer, who bears the burden of proving one applies. In California, the ensuing loss doctrine and efficient proximate cause can restore coverage despite an exclusion.',
 }

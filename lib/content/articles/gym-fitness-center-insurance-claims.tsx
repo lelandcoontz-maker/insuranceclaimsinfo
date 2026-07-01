@@ -3,9 +3,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
   title:
-    'Gym and Fitness Center Insurance Claims: Equipment, Membership Revenue, and the Floor That Costs More Than You Think',
+    "Gym and Fitness Center Insurance Claims in California",
   description:
-    'Gyms face unique insurance exposures: $500K+ in specialized equipment, membership revenue that vanishes during closure, flooring that costs $15-50/sqft, and massive tenant buildouts in leased space. Learn how to navigate these claims.',
+    "Specialized equipment over $500K, vanishing membership revenue, flooring at $15-50/sqft, and large tenant buildouts define the gym and fitness center claim.",
   summary:
     'Gyms face heavy exposures: expensive specialized equipment, membership revenue that evaporates during closure, costly specialty flooring, and large tenant build-outs. These claims need careful documentation of equipment value and lost income.',
 }

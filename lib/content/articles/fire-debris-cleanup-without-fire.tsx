@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Fire Debris and Ash Contamination on Properties That Did Not Burn: Coverage, Cleanup, and the Cost Gap',
+  title: "Wildfire Ash on Properties That Did Not Burn",
   description:
-    'When wildfire ash, soot, and toxic debris contaminate a property that was never on fire, policyholders face unique coverage challenges. Covers cleanup costs, pollution exclusion issues, DTSC programs, and how to document contamination claims in California.',
+    "When ash, soot, and toxic debris contaminate a property that never caught fire, the cleanup claim runs into pollution exclusions and DTSC program complications.",
   summary:
     'When wildfire ash, soot, and toxic debris contaminate a home that never burned, coverage is often disputed under the pollution exclusion. Document the contamination thoroughly and pursue cleanup costs; California programs and case law support these claims.',
 }

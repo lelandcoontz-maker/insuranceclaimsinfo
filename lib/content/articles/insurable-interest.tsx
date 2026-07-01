@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Insurable Interest and Life Estates: Why Your Trust Could Cost You a Full Claim Payment',
+  title: "Insurable Interest, Life Estates, and Trusts",
   description:
-    'When a home is transferred into a family trust with a retained life estate, the policyholder may only have a partial insurable interest — not the full value of the property. Learn how life estates are valued, what experts are needed, and the estate-planning mistake that can cost you hundreds of thousands of dollars.',
+    "When a home is transferred into a family trust with a retained life estate, the policyholder may hold only partial insurable interest, not full property value.",
   summary:
     'Transferring a home into a trust with a retained life estate can leave you with only a partial insurable interest, not the full property value, which can slash a claim payment. Value the life estate correctly and get advice before making the transfer.',
 }

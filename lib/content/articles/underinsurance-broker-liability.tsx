@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Underinsured After a Loss? When Your Insurance Agent or Broker May Be Liable',
+  title: "Underinsured After a Loss? When Your Broker May Be Liable",
   description:
-    'When a policyholder discovers they are underinsured after a major loss, the insurance agent or broker who placed the coverage may bear liability for professional negligence. Learn about broker duties, the special relationship doctrine, statutes of limitations, and how to pursue an E&O claim in California.',
+    "When a major loss reveals underinsurance, the broker who placed coverage may be liable under California's special relationship doctrine.",
   summary:
     'If you are underinsured after a loss, the agent or broker who placed the coverage may be liable for professional negligence, especially where a special relationship or specific advice existed. California sets deadlines for such E&O claims; act promptly.',
 }

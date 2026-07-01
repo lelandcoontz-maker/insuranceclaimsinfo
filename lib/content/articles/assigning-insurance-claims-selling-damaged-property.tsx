@@ -2,9 +2,9 @@ import Link from 'next/link'
 import { CalloutBox } from '@/components/content/CalloutBox'
 
 export const meta = {
-  title: 'Assigning an Insurance Claim When Selling a Damaged Property: What Transfers, What Doesn\'t, and What Can Go Wrong',
+  title: "Assigning a Claim When Selling Damaged Property",
   description:
-    'A policyholder\'s guide to selling property with an open or unresolved insurance claim — assignment of claims, mortgage company complications, and California disclosure requirements.',
+    "What transfers and what does not when you sell a home with an open claim: assignment rules, mortgagee complications, and California disclosure duties.",
   summary:
     'You can often assign an existing insurance claim when selling a damaged property, but the policy, mortgage company, and California disclosure rules all affect what actually transfers. Clarify who keeps the claim proceeds before closing to avoid disputes.',
 }

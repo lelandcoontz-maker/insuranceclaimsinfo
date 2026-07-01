@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: 'Understanding and Interpreting Your Insurance Policy',
   description:
-    'A guide to reading the structure of a homeowners policy (declarations, endorsements, HO-3 vs named peril, commercial co-insurance) and to the California doctrines courts use when policy language is in dispute (ambiguity, contra proferentem, narrow construction of exclusions, reasonable expectations).',
+    "How to read the declarations, endorsements, HO-3, and commercial coinsurance, plus the California doctrines courts use when policy language is in dispute.",
   summary:
     'Reading the policy means understanding both its structure (declarations, insuring agreement, exclusions, conditions, endorsements) and the California doctrines that govern when the language is contested (clear language controls, ambiguity construed against the insurer, exclusions strictly construed, reasonable expectations within the ambiguity framework).',
 }
