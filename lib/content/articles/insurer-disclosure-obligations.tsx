@@ -902,7 +902,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In catastrophe situations, carriers deploy hundreds of independent adjusters who
         may be licensed in other states but unfamiliar with California&rsquo;s specific
-        regulatory framework. These adjusters may not know about the 30% contents advance,
+        regulatory framework. These adjusters may not know about the 60% contents advance,
         the 24-month ALE minimum, the right to rebuild at a different location, or the
         anti-steering requirements. They may not have read 10 CCR &sect; 2695.4(a). They
         may not know that California imposes affirmative disclosure obligations that go
@@ -1073,7 +1073,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">Right to choose your own contractor (written notice)</td>
-              <td className="p-3 text-gray-700">10 CCR &sect; 2695.9(b); CIC &sect; 758.5</td>
+              <td className="p-3 text-gray-700">10 CCR &sect; 2695.9(b)</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">Right to rebuild at a different location (total loss)</td>
@@ -1093,11 +1093,11 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">No duplicative proofs of claim required</td>
-              <td className="p-3 text-gray-700">10 CCR &sect; 2695.4(c)</td>
+              <td className="p-3 text-gray-700">10 CCR &sect; 2695.4(g)</td>
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">No release language on partial payment checks</td>
-              <td className="p-3 text-gray-700">10 CCR &sect; 2695.4(d)</td>
+              <td className="p-3 text-gray-700">10 CCR &sect; 2695.4(f)</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">Combination of dwelling and Other Structures limits toward dwelling (declared disaster)</td>

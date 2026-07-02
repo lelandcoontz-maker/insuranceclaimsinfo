@@ -1169,14 +1169,18 @@ export default function Content() {
           depreciation, or salvage, all justification for the adjustment shall be
           contained in the claim file. Any adjustments shall be discernable, measurable,
           itemized, and specified as to dollar amount, and shall accurately reflect the
-          value of any adjustments. Any adjustments for betterment, depreciation, or
-          salvage shall be measurable. Where the insurer is depreciating either the
-          structure or its contents:
+          value of the betterment, depreciation, or salvage. Any adjustments for
+          betterment or depreciation shall reflect a measurable difference in market
+          value attributable to the condition and age of the property and apply only to
+          property normally subject to repair and replacement during the useful life of
+          the property. The basis for any adjustment shall be fully explained to the
+          claimant in writing.
         </p>
         <p className="italic mt-2 pl-4">
-          <strong>(1)</strong> the expense of labor necessary to repair, rebuild or
-          replace covered property is not a component of physical depreciation and shall
-          not be subject to depreciation or betterment.
+          <strong>(1)</strong> Except for the intrinsic labor costs that are included in
+          the cost of manufactured materials or goods, the expense of labor necessary to
+          repair, rebuild or replace covered property is not a component of physical
+          depreciation and shall not be subject to depreciation or betterment.
         </p>
       </CalloutBox>
 

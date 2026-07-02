@@ -116,26 +116,25 @@ export default function Content() {
           Insurers commonly refuse to provide policyholders with copies of estimates, engineering
           reports, scope-of-loss documents, and other claim-related materials, citing
           &ldquo;work product privilege&rdquo; or &ldquo;attorney-client privilege.&rdquo;
-          In California, this is not just wrong &mdash; it is a violation of the law.
+          In California, this is contrary to the express terms of the standard form policy
+          codified in the Insurance Code.
         </p>
         <p className="font-bold text-red-800 mb-3">The Truth:</p>
         <p className="text-gray-700 leading-relaxed mb-4">
           California Insurance Code Section 2071 &mdash; the standard form fire insurance
           policy that governs every fire policy issued in the state &mdash; contains explicit
           provisions requiring insurers to make claim-related documents available to the insured.
-          Under amendments dating to AB 1799 (chaptered 2018) and related reforms, insurers must
+          Under 2018 amendments to the standard form, insurers must
           (1) <strong>notify claimants that claim-related documents are available upon
           request</strong>, and (2) <strong>provide copies within 15 calendar days</strong>{' '}
-          of receiving a written request (per 10 CCR &sect; 2695.7(d)).
+          of receiving a request.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          The California Code of Regulations reinforces this obligation. Title 10, Section
-          2695.7(d) requires that upon request, an insurer must provide copies of &ldquo;all
-          documents that relate to the evaluation of the claim in the possession of the
-          insurer.&rdquo; The regulation defines claim-related documents broadly to include
+          Section 2071 itself defines &ldquo;claim-related documents&rdquo; broadly &mdash;
+          all documents that relate to the evaluation of damages, including
           repair and replacement estimates, bids, appraisals, scopes of loss, drawings, plans,
-          reports by third parties, and all other valuation, measurement, and loss adjustment
-          calculations.
+          third-party findings on the amount of loss, and all other valuation, measurement,
+          and loss adjustment calculations.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           The exemptions are narrow: actual attorney-client privileged communications, actual
@@ -149,7 +148,8 @@ export default function Content() {
           When an adjuster tells you their estimate is &ldquo;work product&rdquo; or their
           engineer&apos;s report is &ldquo;privileged,&rdquo; they are almost certainly
           misapplying the privilege. The report they commissioned to evaluate your roof is a
-          claim-related document. You are entitled to a copy. For a detailed discussion of
+          claim-related document, and unless one of the narrow exemptions above actually
+          applies, the insured is entitled to a copy. For a detailed discussion of
           this right and how to enforce it, see our article on{' '}
           <Link href="/resources/cdi-right-to-claim-documents" className="text-blue-700 underline hover:text-blue-900">
             your right to claim documents under California law
@@ -157,16 +157,17 @@ export default function Content() {
         </p>
         <CalloutBox variant="warning" title="What to Do When They Refuse">
           <p>
-            Send a written request (email is fine) citing California Insurance Code &sect; 2071
-            and 10 CCR &sect; 2695.7(d), requesting all claim-related documents. If they refuse
-            or fail to respond within 15 days, file a complaint with the California Department
-            of Insurance and consider sending a{' '}
+            An insured might consider sending a written request (email is fine) citing
+            California Insurance Code &sect; 2071 and requesting all claim-related documents.
+            If the insurer refuses or fails to respond within 15 days, a complaint with the
+            California Department of Insurance documents the failure, and a{' '}
             <Link href="/resources/insurance-code-790" className="text-blue-700 underline hover:text-blue-900">
               790 letter
             </Link>{' '}
-            putting them on notice that withholding claim-related documents violates California
-            Insurance Code &sect; 790.03(h)(3) (failing to adopt and implement reasonable
-            standards for the prompt investigation and processing of claims).
+            putting the carrier on notice &mdash; withholding claim-related documents may
+            implicate California Insurance Code &sect; 790.03(h)(3) (failure to adopt and
+            implement reasonable standards for prompt investigation and processing) &mdash;
+            often prompts a more careful review.
           </p>
         </CalloutBox>
       </div>
@@ -257,10 +258,12 @@ export default function Content() {
           &ldquo;holdback&rdquo;) once you complete repairs or replacement.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          California Code of Regulations Title 10, Section 2695.9(f) establishes the
-          framework: when a policy provides for replacement cost settlement, the insurer must
-          pay actual cash value initially and the remainder when the insured completes the
-          repair or replacement. The insurer cannot treat ACV as the final word.
+          Insurance Code Section 2051.5 and the policy&apos;s own loss-settlement provisions
+          establish the framework: when a policy provides replacement cost coverage, the
+          insurer pays actual cash value first and owes the balance when the insured completes
+          the repair or replacement &mdash; and &sect; 2051.5(b) guarantees at least 12 months
+          to collect it (36 months after a declared state of emergency). The insurer cannot
+          treat ACV as the final word.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           Also, following a declared state of emergency in California, insurers must
@@ -303,7 +306,7 @@ export default function Content() {
           pricing accuracy.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          Under 10 CCR &sect; 2695.7(g), an insurer may not deny a claim without conducting a
+          Under 10 CCR &sect; 2695.7(d), an insurer may not deny a claim without conducting a
           thorough, fair, and objective investigation. If the estimate is based on a 15-minute
           drive-by inspection, or if it omits damage the adjuster never bothered to document, the
           estimate itself is evidence of an inadequate investigation. Policyholders have the
@@ -341,7 +344,7 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           This is technically true &mdash; a recorded statement is not a standard policy
           condition, and the insurer&apos;s duty to investigate your claim under 10 CCR
-          &sect; 2695.7(b) is not contingent on your agreement to be recorded. Most standard
+          &sect; 2695.7(d) is not contingent on your agreement to be recorded. Most standard
           homeowner policies require the insured to &ldquo;cooperate&rdquo; with the
           insurer&apos;s investigation and to submit to an{' '}
           <Link href="/resources/examination-under-oath" className="text-blue-700 underline hover:text-blue-900">
@@ -422,13 +425,14 @@ export default function Content() {
         <p className="font-bold text-red-800 mb-3">The Truth:</p>
         <p className="text-gray-700 leading-relaxed mb-4">
           The one-year suit limitation in the standard fire policy (California Insurance Code
-          &sect; 2071) does not begin to run until the insurer formally denies the claim or
-          a portion of it. As long as the insurer is still investigating, negotiating, or
-          processing your claim, the clock has not started. The California Supreme Court
-          established this principle in <em>Prudential-LMI Commercial Insurance v. Superior
-          Court</em> (1990) 51 Cal.3d 674, holding that the suit limitation period is equitably
-          tolled while the insurer is &ldquo;leading the insured to believe that the claim will
-          be paid.&rdquo;
+          &sect; 2071) is equitably tolled while the claim is pending. The California Supreme
+          Court established this in <em>Prudential-LMI Commercial Insurance v. Superior
+          Court</em> (1990) 51 Cal.3d 674: the period runs from inception of the loss, but it
+          is tolled from the time the insured gives timely notice until the insurer formally
+          denies the claim in writing. As long as the insurer is still investigating,
+          negotiating, or processing the claim, the clock is paused &mdash; and for losses
+          related to a declared state of emergency, &sect; 2071 extends the limitation period
+          to 24 months.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           Prompt notice provisions are not strict filing deadlines. Late notice
@@ -551,15 +555,15 @@ export default function Content() {
           </p>
         </CalloutBox>
         <p className="text-gray-700 leading-relaxed mb-4">
-          In California, this issue is settled by statute. California Insurance Code
-          Section 2051.5, enacted in 2011, provides that &ldquo;the expense of labor
-          necessary to repair, rebuild or replace covered property is not a component of
-          physical depreciation and shall not be subject to depreciation or betterment.&rdquo;
-          There is a narrow exception for labor costs that are &ldquo;an intrinsic part of
-          the materials used to construct or install the property&rdquo; (such as the labor
-          cost embedded in factory-made products), but the labor to install, build, or repair
-          cannot be depreciated. This is not a gray area in California &mdash; the Legislature
-          wrote it into the Insurance Code in plain language.
+          In California, this issue is settled &mdash; by regulation. Title 10, Section
+          2695.9(f)(1) of the California Code of Regulations provides that &ldquo;[e]xcept
+          for the intrinsic labor costs that are included in the cost of manufactured
+          materials or goods, the expense of labor necessary to repair, rebuild or replace
+          covered property is not a component of physical depreciation and shall not be
+          subject to depreciation or betterment.&rdquo; The narrow exception is the labor
+          cost embedded in factory-made products; the labor to install, build, or repair
+          cannot be depreciated. This is not a gray area in California &mdash; the Department
+          of Insurance wrote it into the Fair Claims regulations in plain language.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           Outside California, the picture is mixed. A growing number of states have reached the
@@ -569,13 +573,13 @@ export default function Content() {
           actively litigated. In California, ACV is now defined by statute: Insurance Code
           &sect; 2051(b), as amended effective January 1, 2020, prescribes a uniform measure
           &mdash; replacement cost less a fair and reasonable deduction for physical depreciation
-          &mdash; for both total and partial losses, structure and contents, and expressly
-          provides that labor is not subject to depreciation (except intrinsic labor in
-          manufactured materials). The statute superseded the broad-evidence / fair-market-value
+          &mdash; for both total and partial losses, structure and contents, while 10 CCR
+          &sect; 2695.9(f)(1) supplies the labor rule. The statute superseded the
+          broad-evidence / fair-market-value
           approach earlier California cases such as <em>Cheeks v. California FAIR Plan Assn.</em>{' '}
           (1998) 61 Cal.App.4th 423 had applied. California also has &sect; 2051.5 addressing
           replacement-cost coverage. The point: the labor-depreciation question is settled in
-          California by statute. For a full discussion, see our article on{' '}
+          California by regulation. For a full discussion, see our article on{' '}
           <Link href="/resources/labor-depreciation" className="text-blue-700 underline hover:text-blue-900">
             labor depreciation
           </Link>{' '}
@@ -635,12 +639,14 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           Most homeowner policies include Ordinance or Law coverage (sometimes called
           &ldquo;building code upgrade&rdquo; coverage) as either a built-in coverage
-          or an available endorsement. Under California Code of Regulations Title 10,
-          Section 2695.9(d), when a loss requires repairs that are subject to building code
-          requirements, the insurer must include the cost of complying with current building
-          codes in the settlement. Failing to do so results in an estimate that does not
-          reflect the actual cost of repair &mdash; which violates the insurer&apos;s duty
-          to fairly evaluate the claim.
+          or an available endorsement. When the policy includes that coverage, code-compliance
+          costs are part of the covered cost of repair, and an estimate that omits them does
+          not reflect what the repair will actually cost &mdash; the written scope 10 CCR
+          &sect; 2695.9(d) requires must be &ldquo;of an amount that will restore the property
+          to pre-loss condition&rdquo; meeting accepted trade standards, and repairs that
+          cannot lawfully be permitted without code compliance do not meet that standard. And
+          under Insurance Code &sect; 2051.5(c)(1), an insurer cannot deny otherwise-covered
+          building-code upgrade costs merely because the insured rebuilds at a new location.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           Building code upgrades can add 25&ndash;50% to the cost of a claim. Electrical
@@ -844,10 +850,11 @@ export default function Content() {
           levels, and corporate guidelines designed to control costs.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          Documented research confirms this pattern. The McKinsey &amp; Company consulting
-          reports of the 1990s explicitly advised insurance carriers to reduce claim payments
-          by implementing systems that made it harder for policyholders to dispute
-          settlements. The result was an industry-wide shift toward &ldquo;three
+          The public record supports this pattern. The McKinsey &amp; Company claims-process
+          consulting of the 1990s &mdash; made public through litigation discovery and analyzed
+          in David Berardinelli&apos;s <em>From Good Hands to Boxing Gloves</em> &mdash; advised
+          carriers on claims systems that reduced payouts and made it harder for policyholders
+          to dispute settlements. The result was an industry-wide shift toward &ldquo;three
           touchpoints&rdquo; claims handling &mdash; shorter inspections, faster closures,
           and lower payments. Multiple state attorney general investigations and class action
           lawsuits have targeted these practices. See our article on{' '}
@@ -1015,7 +1022,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;These documents are work product&rdquo;</td>
-              <td className="p-3 text-gray-700">CIC &sect; 2071 and 10 CCR &sect; 2695.7(d) require disclosure of claim-related documents within 15 days.</td>
+              <td className="p-3 text-gray-700">CIC &sect; 2071 requires disclosure of claim-related documents within 15 days of request.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">&ldquo;You must use our contractor&rdquo;</td>
@@ -1023,11 +1030,11 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;We only owe ACV&rdquo;</td>
-              <td className="p-3 text-gray-700">10 CCR &sect; 2695.9(f) &mdash; replacement cost owed upon completion of repairs.</td>
+              <td className="p-3 text-gray-700">CIC &sect; 2051.5 and the policy&apos;s loss-settlement terms &mdash; replacement cost owed upon completion of repairs.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">&ldquo;Take it or leave it&rdquo;</td>
-              <td className="p-3 text-gray-700">10 CCR &sect; 2695.7(g) &mdash; thorough investigation required. Appraisal available for valuation disputes.</td>
+              <td className="p-3 text-gray-700">10 CCR &sect; 2695.7(d) &mdash; thorough investigation required. Appraisal available for valuation disputes.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;We need a recorded statement first&rdquo;</td>
@@ -1055,7 +1062,7 @@ export default function Content() {
             </tr>
             <tr className="border-b border-gray-200 bg-gray-50">
               <td className="p-3 text-gray-700">&ldquo;We don&apos;t pay for code upgrades&rdquo;</td>
-              <td className="p-3 text-gray-700">10 CCR &sect; 2695.9(d) &mdash; insurer must include code-mandated costs. O&amp;L coverage is standard on most HO-3 policies.</td>
+              <td className="p-3 text-gray-700">O&amp;L coverage is standard on most HO-3 policies; 10 CCR &sect; 2695.9(d) requires a scope that restores to pre-loss condition per accepted trade standards.</td>
             </tr>
             <tr className="border-b border-gray-200 bg-white">
               <td className="p-3 text-gray-700">&ldquo;Filing will raise my premiums&rdquo;</td>
@@ -1119,12 +1126,11 @@ export default function Content() {
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
           <h3 className="font-bold text-[#1F3964] mb-2">Regulations</h3>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
-            <li>10 CCR &sect; 2695.7(b) (investigation standards)</li>
-            <li>10 CCR &sect; 2695.7(d) (claim-related documents)</li>
-            <li>10 CCR &sect; 2695.7(g) (basis for denial)</li>
+            <li>10 CCR &sect; 2695.7(b) (40-day claim decision; written denial bases)</li>
+            <li>10 CCR &sect; 2695.7(d) (thorough, fair, objective investigation)</li>
             <li>10 CCR &sect; 2695.9(b) (contractor selection)</li>
-            <li>10 CCR &sect; 2695.9(d) (code upgrade costs)</li>
-            <li>10 CCR &sect; 2695.9(f) (replacement cost settlement)</li>
+            <li>10 CCR &sect; 2695.9(d) (written scope/estimate standards)</li>
+            <li>10 CCR &sect; 2695.9(f)(1) (labor not depreciable)</li>
           </ul>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 md:col-span-2">
@@ -1135,7 +1141,7 @@ export default function Content() {
             <li><em>Prudential-LMI v. Superior Court</em> (1990) 51 Cal.3d 674 (equitable tolling)</li>
             <li><em>Shell Oil Co. v. Winterthur</em> (1993) 12 Cal.App.4th 715 (notice-prejudice rule)</li>
             <li><em>Aydin Corp. v. First State</em> (1998) 18 Cal.4th 1183 (burden of proof on exclusions)</li>
-            <li><em>Cheeks v. California FAIR Plan Assn.</em> (1998) 61 Cal.App.4th 423 (ACV synonymous with fair market value; broad evidence rule discussed)</li>
+            <li><em>Cheeks v. California FAIR Plan Assn.</em> (1998) 61 Cal.App.4th 423 (historical ACV=fair-market-value rule; superseded by Ins. Code &sect; 2051(b))</li>
           </ul>
         </div>
       </div>

@@ -258,8 +258,11 @@ export default function Content() {
         corporations in America. A punitive damages award that would devastate a small business is a
         rounding error to a major insurer. <em>Neal</em> recognized that the purpose of punitive
         damages — deterrence — requires that the award be large enough to actually be felt by the
-        defendant. The <em>Neal</em> factors remain the governing standard for punitive damages in
-        California bad faith cases today.
+        defendant. The <em>Neal</em> factors remain the starting framework for punitive damages in
+        California bad faith cases today &mdash; but they now operate under the federal due-process
+        ceiling of <em>State Farm v. Campbell</em> (2003) 538 U.S. 408, which held that a
+        defendant&apos;s wealth cannot justify an otherwise unconstitutional award (see the
+        Constitutional Limits discussion below).
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

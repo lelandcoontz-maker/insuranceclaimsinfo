@@ -152,9 +152,11 @@ export default function Content() {
         &ldquo;interested&rdquo; in the information. The insurer must prove that the information
         would have actually changed the outcome &mdash; that it would have declined the risk
         entirely, charged a materially different premium, or imposed materially different terms.
-        This is an objective standard based on what a reasonable insurer would do, not a
-        subjective standard based on what this particular insurer claims it would have done after
-        the fact.
+        Under Insurance Code &sect; 334 and CACI No. 2308, materiality is measured by the
+        probable and reasonable effect the true facts would have had on <em>this particular
+        insurer&apos;s</em> underwriting decision &mdash; but that effect is judged by what is
+        probable and reasonable, which is why self-serving after-the-fact testimony about what
+        the insurer &ldquo;would have done&rdquo; gets scrutiny rather than automatic acceptance.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Old Line Life Insurance Co. of America v. Superior Court</em>, 229 Cal.
@@ -335,9 +337,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California law addresses this through the reasonable insured standard. Under{' '}
-        <strong>Insurance Code Section 330</strong>, the duty to disclose extends to information
-        that the insured &ldquo;believes to be material&rdquo; or that the insured &ldquo;ought
-        to know&rdquo; is material. But this standard is measured from the perspective of a
+        <strong>Insurance Code Section 330</strong>, concealment is the neglect to communicate
+        that which a party knows and &ldquo;ought to communicate&rdquo; &mdash; and under{' '}
+        <strong>Section 332</strong>, the disclosure duty reaches facts the insured
+        &ldquo;believes to be material.&rdquo; But this standard is measured from the perspective of a
         reasonable layperson, not an insurance professional. A policyholder is not expected to
         anticipate every fact that might conceivably interest an underwriter. The policyholder
         is expected to disclose what a reasonable person in their position would understand to be
@@ -851,13 +854,6 @@ export default function Content() {
         of <em>Sogomonian</em> itself the Court of Appeal <em>affirmed</em> rescission &mdash;
         the case is the foundational authority for the contractual-willfulness analysis, but
         it is not a per se policyholder win.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Cummings v. Fire Insurance Exchange</em>, 202 Cal. App. 3d 1407
-        (1988):</strong> The court addressed the insurer&rsquo;s concealment argument where the
-        insurer failed to ask about the facts it later claimed were concealed. The court
-        recognized that the insurer controls the application and bears the consequences of its
-        own failure to inquire.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Thompson v. Occidental Life Insurance Co.</em>, 9 Cal.3d 904 (1973):</strong>{' '}

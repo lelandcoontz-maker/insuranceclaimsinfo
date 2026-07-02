@@ -371,8 +371,8 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Amadeo</em> is a Ninth Circuit case applying California law, and it provides an
-        important counterpoint to <em>Waller</em>&rsquo;s genuine dispute doctrine. While{' '}
-        <em>Waller</em> protects insurers who maintain reasonable positions, <em>Amadeo</em>{' '}
+        important counterpoint to the genuine dispute doctrine. While that doctrine protects
+        insurers who maintain reasonable positions, <em>Amadeo</em>{' '}
         addresses what happens when the &ldquo;dispute&rdquo; is not genuine at all.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -464,10 +464,13 @@ export default function Content() {
         attempt to deny coverage whenever an excluded peril contributes to a loss in any way,
         regardless of whether it was the predominant cause. Insurers adopted ACC clauses
         specifically to override the efficient proximate cause doctrine. In California, these
-        clauses are effectively unenforceable because they conflict with the{' '}
-        <em>Garvey</em>/<em>Sabella</em> framework and Insurance Code &sect; 530. A carrier
-        cannot use boilerplate policy language to circumvent a rule established by the
-        California Supreme Court and grounded in the Insurance Code. Note, however, that other
+        clauses are unenforceable to the extent they conflict with the{' '}
+        <em>Garvey</em>/<em>Sabella</em> framework and Insurance Code &sect; 530 &mdash;{' '}
+        <em>Howell v. State Farm</em> (1990) 218 Cal.App.3d 1446 is the leading application,
+        and the Supreme Court restated the rule in <em>Julian v. Hartford Underwriters</em>{' '}
+        (2005) 35 Cal.4th 747, though on <em>Julian</em>&rsquo;s facts the Court enforced the
+        exclusion at issue. A carrier cannot use boilerplate policy language to circumvent a
+        rule grounded in the Insurance Code. Note, however, that other
         states may enforce ACC clauses &mdash; this protection is specific to California.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
