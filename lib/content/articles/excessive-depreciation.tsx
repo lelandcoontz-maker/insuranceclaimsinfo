@@ -265,14 +265,16 @@ export default function Content() {
         Rule #4: Undamaged Areas Replaced for Matching Should Not Be Depreciated
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This may be the most important depreciation rule that almost nobody knows about &mdash;
-        not insurance adjusters, not contractors, and not most Public Adjusters.
+        This may be the most important depreciation argument that almost nobody knows about &mdash;
+        not insurance adjusters, not contractors, and not most Public Adjusters. No published
+        California appellate decision has squarely resolved it, but the structure of the
+        regulation gives the insured a strong position.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Code of Regulations, Title 10, Section 2695.9(a)(2), when repaired or
-        replaced items do not match adjacent undamaged areas in quality, color, or size, the
-        insurer must pay for whatever is necessary to achieve a <strong>reasonable and uniform
-        appearance</strong>. This is the{' '}
+        Under California Code of Regulations, Title 10, Section 2695.9(a)(2), when a loss
+        requires replacement of items and the replaced items do not match in quality, color,
+        or size, the insurer must replace all items in the damaged area to conform to a{' '}
+        <strong>reasonably uniform appearance</strong>. This is the{' '}
         <Link href="/resources/matching" className="text-[#2E74B5] underline">
           matching requirement
         </Link>.

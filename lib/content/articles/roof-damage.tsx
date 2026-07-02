@@ -190,8 +190,9 @@ export default function Content() {
         weathered appearance, you may be entitled to far more than the insurer initially offers.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under 10 CCR &sect; 2695.9(a)(2) — California&rsquo;s matching regulation — the insurer must pay
-        enough to achieve a <em>reasonable uniform appearance</em>. Depending on the roofing
+        Under 10 CCR &sect; 2695.9(a)(2) — California&rsquo;s matching regulation — the insurer must
+        replace all items in the damaged area so as to conform to a <em>reasonably uniform
+        appearance</em>. Depending on the roofing
         material and the extent of the mismatch, this can mean replacing an entire roof slope,
         multiple slopes, or even the entire roof if matching is impossible. Discontinued tile
         profiles, color shifts from decades of sun exposure, and unique clay or concrete tile

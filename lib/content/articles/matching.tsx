@@ -141,15 +141,17 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        Depreciation on Undamaged Items Replaced for Matching: The Regulation Answers This
+        Depreciation on Undamaged Items Replaced for Matching: The Regulation&apos;s Structure
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         A recurring question within matching disputes is whether the insurer may apply
         depreciation to the <strong>undamaged</strong> items that are replaced solely to
         achieve a reasonably uniform appearance. For example, if matching requires replacing
         an entire roof when only one slope was damaged, can the insurer depreciate the
-        material on the slopes that were not directly hit? <strong>The California Fair
-        Claims Settlement Practices Regulations answer this directly: no.</strong>
+        material on the slopes that were not directly hit? No published California appellate
+        decision has answered the question. But the structure of the regulation gives
+        policyholders a <strong>strong argument that the answer is no</strong> &mdash; and it
+        is an argument insurers rarely see coming.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Here is the operative regulation, in full:
@@ -173,27 +175,16 @@ export default function Content() {
         </p>
       </CalloutBox>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The structure is plain on the face of the regulation. Both (a)(1) and (a)(2) are
-        &ldquo;standards&rdquo; the regulation imposes on replacement-cost-policy losses
-        under the (a) preamble. The (a)(1) rule that the insured pays only the deductible is
-        a stand-alone sentence &mdash; it is not limited to the consequential-damage rule in
-        the preceding sentence; it states an independent limit on what the insured pays. The
-        (a)(2) matching obligation requires replacement of items in the damaged area to
-        achieve uniform appearance. When the insurer is compelled by (a)(2) to replace items,
-        the insured pays only the deductible &mdash; (a)(1) says so. Depreciating compelled
-        matching replacements would force the insured to pay out of pocket to obtain the
-        uniform appearance the regulation guarantees.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        Read together, the structure is straightforward. Both (a)(1) and (a)(2) are
-        &ldquo;standards&rdquo; the regulation imposes on replacement-cost-policy losses
-        under the (a) preamble. The (a)(1) rule that the insured pays only the deductible is
-        a flat, stand-alone limit. The (a)(2) matching obligation requires replacement of
-        undamaged items in the same damaged area to achieve uniform appearance. When the
-        insurer is compelled by (a)(2) to replace items, the insured is not required to
-        absorb depreciation on those replacements &mdash; (a)(1) says so. Depreciating
-        compelled matching replacements would force the insured to pay out of pocket to
-        obtain the uniform appearance the regulation guarantees.
+        The argument runs straight through the regulation&apos;s structure. Both (a)(1) and
+        (a)(2) are &ldquo;standards&rdquo; the regulation imposes on replacement-cost-policy
+        losses under the (a) preamble. The (a)(1) rule that the insured pays only the
+        deductible reads as a stand-alone limit &mdash; not merely a tail on the
+        consequential-damage sentence that precedes it. The (a)(2) matching obligation
+        requires replacement of items in the damaged area to achieve uniform appearance. When
+        the insurer is compelled by (a)(2) to replace items, (a)(1) supplies the payment
+        standard: the insured pays only the deductible. Depreciating compelled matching
+        replacements would force the insured to pay out of pocket to obtain the uniform
+        appearance the regulation guarantees.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Two reinforcing points strengthen the conclusion. <strong>First,</strong> the labor
@@ -208,11 +199,14 @@ export default function Content() {
         sentence is grammatically tethered to the preceding consequential-damage sentence
         and does not reach (a)(2) matching items, or that replacing aged-but-undamaged
         material new-for-old confers a real betterment. These arguments cut against the
-        natural structure of the regulation. They surface most often in actual-cash-value
-        holdback calculations and on pure actual-cash-value policies rather than in
-        final replacement-cost recoveries. On a replacement-cost policy, the matching scope
-        is properly recovered at full replacement cost, period &mdash; the regulation does
-        not contemplate the insured underwriting a cost the regulation itself compelled.
+        natural structure of the regulation, but no appellate court has resolved the point
+        &mdash; so expect insurers to keep making them. They surface most often in
+        actual-cash-value holdback calculations and on pure actual-cash-value policies rather
+        than in final replacement-cost recoveries. On a replacement-cost policy, the better
+        reading is that the matching scope is recovered at full replacement cost &mdash; the
+        regulation does not contemplate the insured underwriting a cost the regulation itself
+        compelled &mdash; but it is a reading the insured should expect to have to argue for
+        explicitly.
         For a fuller treatment of how depreciation is calculated under California law, see
         our article on{' '}
         <Link href="/resources/broad-evidence-rule-acv" className="text-[#2E74B5] underline">

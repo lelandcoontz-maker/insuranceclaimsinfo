@@ -1217,8 +1217,10 @@ export default function Content() {
         <strong>Real-world example:</strong> Your kitchen has hardwood flooring throughout. A
         water loss damages 30% of the floor. The insurer replaces the damaged section, but the
         new wood does not match the existing floor in color or grain pattern — even after
-        staining. Under &sect; 2695.9(a)(2), the insurer must replace the entire kitchen floor
-        to achieve a reasonably uniform appearance. See our guide on{' '}
+        staining. Under &sect; 2695.9(a)(2), the insurer must replace all items in the damaged
+        area to achieve a reasonably uniform appearance &mdash; and the insured can argue the
+        damaged area is the entire continuous floor, because replacing anything less leaves the
+        visible mismatch the regulation exists to prevent. See our guide on{' '}
         <Link href="/resources/matching" className="text-[#2E74B5] hover:underline">matching disputes</Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-6">

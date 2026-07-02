@@ -175,7 +175,8 @@ export default function Content() {
           provides that &ldquo;when a loss requires replacement of items and the replaced items do
           not match in quality, color or size, the insurer shall replace all items in the damaged
           area so as to conform to a reasonably uniform appearance.&rdquo; A repair that leaves
-          visible, non-matching damage in the same line of sight does not meet that standard.
+          a visible mismatch in the damaged area does not conform to a reasonably uniform
+          appearance.
         </p>
       </CalloutBox>
 

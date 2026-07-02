@@ -424,9 +424,9 @@ export default function Content() {
         changed formulations, or where the specific product has been discontinued.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Code of Regulations, Title 10, &sect; 2695.9(a)(2), insurers are required
-        to pay enough to achieve a &ldquo;reasonable and uniform appearance&rdquo; when replaced
-        items do not match in quality, color, or size. If replacing one window in a bank of five
+        Under California Code of Regulations, Title 10, &sect; 2695.9(a)(2), when replaced items
+        do not match in quality, color, or size, the insurer must replace all items in the damaged
+        area so as to conform to a &ldquo;reasonably uniform appearance.&rdquo; If replacing one window in a bank of five
         results in one visibly different window, the carrier may owe for all five to achieve
         matching. This applies to the glass itself, the frame, and the overall window unit if
         the original product is no longer available.
@@ -611,16 +611,17 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>10 CCR &sect; 2695.9(a)(2) &mdash; Matching:</strong> When replaced items do not
-          match in quality, color, or size, the insurer must pay for whatever is necessary to
-          achieve a reasonable and uniform appearance.
+          match in quality, color, or size, the insurer must replace all items in the damaged
+          area so as to conform to a reasonably uniform appearance.
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.9(b) &mdash; Replacement cost:</strong> The insurer must
-          calculate replacement cost without deduction for depreciation, using competent evidence
-          of actual repair or replacement costs.
+          <strong>California Insurance Code &sect; 2051.5(a)(1) &mdash; Replacement cost:</strong>{' '}
+          Under a policy that pays replacement cost, the measure of indemnity is the amount it
+          would cost to repair, rebuild, or replace the thing lost or injured, without a deduction
+          for physical depreciation, or the policy limit, whichever is less.
         </li>
         <li>
-          <strong>10 CCR &sect; 2695.7(g) &mdash; Explanation of coverage:</strong> When the
+          <strong>10 CCR &sect; 2695.7(b)(1) &mdash; Explanation of coverage:</strong> When the
           insurer denies or limits a glass claim, it must provide a written explanation of the
           specific policy provision and the factual basis for its decision.
         </li>

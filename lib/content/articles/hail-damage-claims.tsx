@@ -195,9 +195,12 @@ export default function Content() {
         Before the loss, the policyholder had a uniform roof. After the loss, they deserve a
         uniform roof. In California, this principle is backed by regulation. Under{' '}
         <strong>10 CCR &sect; 2695.9(a)(2)</strong>, when a loss requires replacement of items and the
-        replaced items do not reasonably match adjacent undamaged items in quality, color, or size,
-        the insurer must pay the reasonable cost to replace the undamaged items to achieve a
-        uniform appearance. This is not optional &mdash; it is a binding California regulation.
+        replaced items do not match in quality, color, or size, the insurer must replace all items
+        in the damaged area so as to conform to a reasonably uniform appearance. The regulation is
+        binding &mdash; the fight is over its scope. Insurers read &ldquo;the damaged area&rdquo;
+        narrowly, as the slope that was hit. Policyholders and many plaintiff attorneys read it as
+        whatever must be replaced to deliver the uniform appearance the regulation promises &mdash;
+        which, on a roof whose slopes are visible together, can mean every slope.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The matching argument extends beyond the roof itself. If hail damages siding on one wall,

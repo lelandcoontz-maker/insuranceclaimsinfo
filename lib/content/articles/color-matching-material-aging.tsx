@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: "Color Matching and Material Aging in Insurance Claims",
   description:
-    "UV degradation and oxidation make new materials never truly match. The line-of-sight standard, state regulations, and case law requiring visual uniformity.",
+    "UV degradation and oxidation make new materials never truly match. How state matching regulations, case law, and the line-of-sight concept address visual uniformity.",
   summary:
-    'New materials never perfectly match aged ones because of UV degradation, oxidation, and weathering. Many states and the line-of-sight standard require insurers to restore visual uniformity, meaning they may owe replacement of undamaged matching areas, not just the damaged spot.',
+    'New materials never perfectly match aged ones because of UV degradation, oxidation, and weathering. Many states require insurers to restore visual uniformity — often analyzed through a line-of-sight framework — meaning they may owe replacement of undamaged matching areas, not just the damaged spot.',
 }
 
 export default function Content() {

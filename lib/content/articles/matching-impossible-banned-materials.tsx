@@ -42,7 +42,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s Fair Claims regulations require the insurer to restore your property to a
-        &ldquo;reasonable uniform appearance&rdquo; under 10 CCR &sect; 2695.9(a)(2). When partial
+        &ldquo;reasonably uniform appearance&rdquo; under 10 CCR &sect; 2695.9(a)(2). When partial
         repair cannot achieve that appearance because the existing materials cannot be matched, the
         scope expands to include whatever additional work is necessary to create uniformity. The
         regulation does not say &ldquo;get as close as you can and walk away.&rdquo;
@@ -245,9 +245,9 @@ export default function Content() {
         </li>
         <li>
           <strong>&ldquo;The regulations only require a reasonable match.&rdquo;</strong> They
-          misquote the regulation. It says &ldquo;reasonable uniform appearance&rdquo; &mdash; meaning
-          the appearance must actually be uniform, and the methods to achieve it must be reasonable.
-          A visible mismatch is not uniform regardless of what was attempted.
+          misquote the regulation. It says &ldquo;reasonably uniform appearance&rdquo; &mdash; the
+          standard is the appearance itself. A visible mismatch is not reasonably uniform
+          regardless of what was attempted.
         </li>
         <li>
           <strong>&ldquo;That&apos;s betterment.&rdquo;</strong> They call the expanded scope an
@@ -284,7 +284,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Cite the matching regulation.</strong> Reference 10 CCR &sect; 2695.9(a)(2) and the
-          requirement for &ldquo;reasonable uniform appearance.&rdquo; Frame your demand around the
+          requirement for a &ldquo;reasonably uniform appearance.&rdquo; Frame your demand around the
           regulation, not around preference.
         </li>
       </ol>
