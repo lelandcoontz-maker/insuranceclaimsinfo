@@ -242,11 +242,13 @@ export default function Content() {
         <li>
           <strong>Anti-concurrent causation clause limitations.</strong> Carriers rely on
           anti-concurrent causation clauses to argue that any involvement of an excluded peril
-          bars coverage. Under <em>Howell</em> and <em>Julian v. Hartford Underwriters</em>
-          (2005) 35 Cal.4th 747, such clauses are unenforceable in California to the extent
-          they conflict with &sect; 530 and the efficient proximate cause doctrine &mdash;
-          carriers can define and exclude perils, but they cannot contract around the
-          statutory causation rule.
+          bars coverage. Under <em>Howell v. State Farm</em> (1990) 218 Cal.App.3d 1446 and
+          Insurance Code &sect; 530, such clauses are unenforceable in California to the
+          extent they conflict with the efficient proximate cause doctrine &mdash; carriers
+          can define and exclude perils, but they cannot contract around the statutory
+          causation rule. (The Supreme Court restated the principle in <em>Julian v. Hartford
+          Underwriters</em> (2005) 35 Cal.4th 747, though on its facts <em>Julian</em>
+          enforced the exclusion.)
         </li>
       </ul>
 

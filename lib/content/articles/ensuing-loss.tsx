@@ -77,7 +77,7 @@ export default function Content() {
           <strong>The efficient proximate cause doctrine.</strong> Under California Insurance Code &sect; 530 and the line of cases from <em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21 through <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395, the question in every multi-peril loss is: which peril was the predominating cause that set the others in motion? If the covered peril predominated, the entire loss is covered. This goes further than ensuing loss, which only covers the resulting damage from the covered peril.
         </li>
         <li>
-          <strong>The unenforceability of anti-concurrent causation clauses.</strong> In <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747, the California Supreme Court held that &ldquo;policy exclusions are unenforceable to the extent that they conflict with section 530 and the efficient proximate cause doctrine.&rdquo; This means the ACC language that precedes certain exclusions in the ISO forms cannot be used to override the EPC analysis. The policy language designed to eliminate these doctrines does not work in California.
+          <strong>The unenforceability of anti-concurrent causation clauses.</strong> Under Insurance Code &sect; 530 and <em>Howell v. State Farm</em> (1990) 218 Cal.App.3d 1446, ACC language cannot be used to contract around the efficient proximate cause analysis. The California Supreme Court restated the principle in <em>Julian v. Hartford Underwriters Ins. Co.</em> (2005) 35 Cal.4th 747 &mdash; &ldquo;policy exclusions are unenforceable to the extent that they conflict with section 530 and the efficient proximate cause doctrine&rdquo; &mdash; although on <em>Julian</em>&rsquo;s facts the Court enforced the carrier&rsquo;s exclusion. The practical effect: the ACC language that precedes certain exclusions in the ISO forms cannot override the EPC analysis in California.
         </li>
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -263,7 +263,7 @@ export default function Content() {
           <strong>Omitting the savings clause from the denial letter.</strong> The carrier quotes the exclusion in the coverage determination letter and leaves out the &ldquo;however, any ensuing loss&rdquo; sentence that immediately follows. In California, this may violate 10 CCR &sect; 2695.7(b)(1), which requires the denial to list all bases with the factual and legal bases for each; 10 CCR &sect; 2695.4(a), which requires affirmative disclosure of policy provisions that may apply; and Cal. Ins. Code &sect; 790.03(h)(1), which prohibits misrepresenting pertinent facts or policy provisions.
         </li>
         <li>
-          <strong>Framing the excluded peril as the &ldquo;direct or indirect&rdquo; cause of all damage.</strong> The carrier invokes ACC-style language to sweep the ensuing damage in with the excluded cause. In California, this tactic fails under <em>Julian</em>. In other states, the response is to identify whether ACC language actually applies to the specific exclusion at issue.
+          <strong>Framing the excluded peril as the &ldquo;direct or indirect&rdquo; cause of all damage.</strong> The carrier invokes ACC-style language to sweep the ensuing damage in with the excluded cause. In California, this tactic fails under &sect; 530 and <em>Howell</em>. In other states, the response is to identify whether ACC language actually applies to the specific exclusion at issue.
         </li>
         <li>
           <strong>Arguing the ensuing peril is not &ldquo;truly independent.&rdquo;</strong> Some carriers argue that ensuing loss only applies when the resulting peril would have caused damage even without the excluded event &mdash; that is, the rain would have damaged the interior even without the defective roof. This is a minority position. The majority view is that ensuing loss applies whenever the resulting damage is caused by a peril not otherwise excluded, regardless of whether the excluded cause was a necessary precondition.
@@ -365,7 +365,7 @@ export default function Content() {
             </tr>
             <tr className="bg-gray-50">
               <td className="border border-gray-300 p-3 font-semibold">ACC clauses enforceable?</td>
-              <td className="border border-gray-300 p-3">No &mdash; <em>Julian</em> / &sect; 530</td>
+              <td className="border border-gray-300 p-3">No &mdash; &sect; 530 / <em>Howell</em></td>
               <td className="border border-gray-300 p-3">Yes</td>
               <td className="border border-gray-300 p-3">Yes</td>
             </tr>
@@ -402,7 +402,7 @@ export default function Content() {
           <strong>Roof leaks from faulty workmanship.</strong> The defective installation is excluded. The interior water damage from rain entering through the defective area ensues from rain, a covered peril. In California, faulty workmanship is not in the ACC exclusion group, so even carriers that argue ACC in other contexts cannot use it here.
         </li>
         <li>
-          <strong>Settling or earth movement causing a pipe break.</strong> Earth movement is excluded (and subject to ACC language in HO-3 policies). But in California, where ACC clauses are unenforceable under <em>Julian</em>, the water damage resulting from the broken pipe may still be covered under the EPC doctrine. In other states, look for an ensuing loss savings clause within the ACC section of the policy.
+          <strong>Settling or earth movement causing a pipe break.</strong> Earth movement is excluded (and subject to ACC language in HO-3 policies). But in California, where ACC clauses are unenforceable under &sect; 530 and <em>Howell</em>, the water damage resulting from the broken pipe may still be covered under the EPC doctrine. In other states, look for an ensuing loss savings clause within the ACC section of the policy.
         </li>
         <li>
           <strong>Mold resulting from a covered water loss.</strong> The initial water damage is covered. Mold develops as a result. The{' '}

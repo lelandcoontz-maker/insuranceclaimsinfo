@@ -169,7 +169,7 @@ export default function Content() {
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">California</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Key Authority:</strong> 10 CCR 2695.9 (Fair Claims Settlement Practices Regulations); <em>Jefferson Ins. Co. v. Superior Ct. of Alameda County</em>, 3 Cal.3d 398 (1970).
+        <strong>Key Authority:</strong> 10 CCR 2695.9 (Fair Claims Settlement Practices Regulations).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The regulation requires estimates that &ldquo;restore the damaged property to no less than its condition prior to the loss&rdquo; meeting &ldquo;accepted trade standards for good and workmanlike construction.&rdquo; The insurer must verify repair costs are &ldquo;accurate and representative of costs in the local market area.&rdquo; Labor costs are not subject to depreciation. The policyholder has the right to choose their own contractor.
@@ -292,7 +292,7 @@ export default function Content() {
             <tr className="bg-green-50">
               <td className="px-4 py-2 border border-gray-300 font-medium">California</td>
               <td className="px-4 py-2 border border-gray-300">Regulatory</td>
-              <td className="px-4 py-2 border border-gray-300">10 CCR 2695.9; <em>Jefferson Ins.</em> (1970)</td>
+              <td className="px-4 py-2 border border-gray-300">10 CCR 2695.9</td>
             </tr>
             <tr className="bg-green-50">
               <td className="px-4 py-2 border border-gray-300 font-medium">Colorado</td>
