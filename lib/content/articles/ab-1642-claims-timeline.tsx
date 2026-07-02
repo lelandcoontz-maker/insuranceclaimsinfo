@@ -216,11 +216,11 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most important and most frequently ignored requirements in California claims
-        law is the obligation to pay undisputed amounts promptly. Under California Insurance Code
-        section 790.03(h)(11) and the regulations, when the insurer agrees that some portion of
-        the claim is valid but disputes the total amount, it must pay the undisputed portion
-        immediately &mdash; it cannot withhold payment of the entire claim while the disputed
-        portion is being negotiated.
+        law is the obligation to pay undisputed amounts promptly. Under 10 CCR section 2695.7(h),
+        once the insurer accepts the claim in whole or in part, it must tender the amount that
+        has been determined and is not disputed immediately &mdash; and in no event more than 30
+        calendar days after acceptance. It cannot withhold payment of the entire claim while the
+        disputed portion is being negotiated.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For example, if the policyholder submits a claim for $150,000 and the insurer&rsquo;s own
@@ -386,7 +386,7 @@ export default function Content() {
                 Payment of undisputed amounts regardless of ongoing disputes
               </td>
               <td className="border border-gray-300 px-4 py-2">
-                Ins. Code &sect; 790.03(h)(11)
+                10 CCR &sect; 2695.7(h)
               </td>
             </tr>
             <tr className="bg-gray-50">

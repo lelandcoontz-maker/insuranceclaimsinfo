@@ -134,7 +134,7 @@ export default function Content() {
           After major disasters, carriers bring in hundreds of adjusters from other states who are
           unfamiliar with California law. The CDI has documented cases where adjusters told
           policyholders they had only 6 months to collect replacement cost &mdash; when the law
-          guarantees at least 24 months after a declared disaster. If an adjuster tells you something
+          guarantees at least 36 months after a declared disaster. If an adjuster tells you something
           about a deadline, verify it against the code sections below.
         </p>
       </CalloutBox>

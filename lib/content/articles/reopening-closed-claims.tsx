@@ -432,7 +432,7 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law provides additional protections in declared disaster situations. Policyholders typically have at least 24 months to collect the full replacement cost of their dwelling after a declared disaster &mdash; and in some cases 36 months, with extensions available upon request. These extended timeframes apply to the entire claim, including supplements submitted after the original settlement. If a carrier tells you that you have missed the deadline to collect additional benefits after a declared disaster, verify that assertion against the applicable statute. Carriers routinely understate the time available to policyholders.
+        California law provides additional protections in declared disaster situations. Policyholders have at least 36 months to collect the full replacement cost of their dwelling after a declared disaster under Insurance Code &sect; 2051.5(b)(1)(B), and the insurer must grant additional six-month extensions where the insured, acting in good faith and with reasonable diligence, encounters delays beyond their control. These extended timeframes apply to the entire claim, including supplements submitted after the original settlement. If a carrier tells you that you have missed the deadline to collect additional benefits after a declared disaster, verify that assertion against the applicable statute. Carriers routinely understate the time available to policyholders.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
