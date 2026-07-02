@@ -432,7 +432,8 @@ export default function Content() {
         significant litigation in California. Many homeowner&apos;s policies exclude damage from
         &quot;water below the surface of the ground&quot; or from &quot;underground water pipes.&quot;
         When a pipe breaks under or within a concrete slab foundation, some insurers &mdash; most
-        notably State Farm &mdash; have applied this exclusion to deny the claim. The argument is that
+        notably State Farm, in the litigation discussed below &mdash; have applied this exclusion
+        to deny the claim. The argument is that
         the pipe is &quot;underground&quot; because it is in the dirt.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">

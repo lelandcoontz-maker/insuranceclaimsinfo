@@ -146,8 +146,8 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">How to Handle AAA</h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Challenge their engineering reports aggressively. If they send a biased engineer, get
-        your own independent expert. Under California law, the insurer&rsquo;s duty to
+        Challenge their engineering reports aggressively. If the report reads like advocacy
+        rather than engineering, get your own independent expert. Under California law, the insurer&rsquo;s duty to
         investigate means they can&rsquo;t rely on a clearly biased report to deny coverage.
         File DOI complaints when they violate the Fair Claims Settlement Practices regulations
         &mdash; AAA responds to regulatory pressure.
@@ -164,8 +164,10 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to expect:</strong> Allstate has built its reputation &mdash; for better or
-        worse &mdash; on tight claims management. Their internal processes are designed to
-        minimize payouts, and their adjusters are trained accordingly.
+        worse &mdash; on tight claims management. The McKinsey-designed claims overhaul of the
+        1990s is publicly documented in unsealed court records and in David Berardinelli&rsquo;s{' '}
+        <em>From Good Hands to Boxing Gloves</em>, and in the author&rsquo;s experience the cost
+        discipline it introduced is still visible in how Allstate files are handled today.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">Common Tactics</h3>
@@ -177,15 +179,16 @@ export default function Content() {
           estimate.
         </li>
         <li>
-          <strong>Denial first, negotiate later.</strong> Allstate adjusters are more likely than
-          most carriers to issue initial denials or partial denials, forcing the policyholder to
-          fight for coverage that should have been straightforward.
+          <strong>Denial first, negotiate later.</strong> In the author&rsquo;s practice, Allstate
+          files see initial denials or partial denials more often than most carriers&rsquo; &mdash;
+          leaving the policyholder to fight for coverage that, in the author&rsquo;s assessment,
+          should have been straightforward.
         </li>
         <li>
-          <strong>Appraisal resistance.</strong> When policyholders invoke the appraisal process,
-          Allstate tends to drag their feet on appointing an appraiser or agreeing on an umpire.
-          They understand that delay is a weapon &mdash; the longer the process takes, the more
-          pressure builds on the homeowner.
+          <strong>Appraisal resistance.</strong> In the author&rsquo;s experience, Allstate
+          appraisals are slower to get moving than most &mdash; appointing an appraiser, agreeing
+          on an umpire. Whatever the reason, delay works against the homeowner: the longer the
+          process takes, the more pressure builds to accept less.
         </li>
       </ul>
 
@@ -217,10 +220,10 @@ export default function Content() {
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>Smoke damage minimization.</strong> In wildfire-adjacent claims, Farmers is
-          particularly aggressive about denying smoke damage. Their go-to argument:
-          &ldquo;Your smoke could be cleaned with ordinary household cleaning methods, so
-          therefore it&rsquo;s not damaged.&rdquo; This argument has been challenged
+          <strong>Smoke damage minimization.</strong> In the author&rsquo;s wildfire-adjacent
+          claims, smoke-damage pushback has been a recurring theme on Farmers files. The argument
+          the author has seen repeatedly: &ldquo;Your smoke could be cleaned with ordinary
+          household cleaning methods, so therefore it&rsquo;s not damaged.&rdquo; This argument has been challenged
           successfully in numerous cases &mdash; the chemistry of smoke particles, the specific
           toxins present, and the health risks make ordinary cleaning inadequate.
         </li>
@@ -231,9 +234,11 @@ export default function Content() {
           don&rsquo;t qualify.
         </li>
         <li>
-          <strong>Depreciation gaming.</strong> Farmers tends to apply aggressive depreciation
-          schedules, particularly on personal property claims. They&rsquo;ll depreciate items
-          that shouldn&rsquo;t be depreciated or apply excessive depreciation percentages.
+          <strong>Heavy depreciation.</strong> In the author&rsquo;s experience, Farmers&rsquo;
+          depreciation schedules run aggressive, particularly on personal property claims &mdash;
+          depreciation on items that arguably should not be depreciated at all, or at percentages
+          that are difficult to square with the condition-based standard California regulation
+          requires.
         </li>
       </ul>
 
@@ -258,20 +263,20 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>What to expect:</strong> Liberty Mutual has a distinctive claims-handling style
-        that sets them apart &mdash; and not in a good way.
+        &mdash; one the author believes policyholders should understand before it costs them.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">Common Tactics</h3>
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>Contractor-controlled estimates.</strong> Liberty Mutual has a unique approach:
-          they send a contractor to inspect your property, but they instruct that contractor to
-          write the estimate in Symbility (their preferred software) rather than Xactimate. Why
-          does the software matter? Because Symbility tends to produce lower estimates, and
-          controlling the software controls the pricing. When the insurance company dictates what
-          software a contractor must use, that&rsquo;s a red flag about the intent behind the
-          estimate.
+          <strong>Contractor-controlled estimates.</strong> Liberty Mutual has a distinctive
+          approach: they send a contractor to inspect your property, and the estimate comes back
+          written in Symbility (their preferred platform) rather than Xactimate. Why does the
+          software matter? In the author&rsquo;s experience, Symbility estimates tend to come in
+          lower than comparable Xactimate estimates. Whatever the reason for the software choice,
+          the practical effect is that the starting number is often lower &mdash; and the
+          policyholder should treat it as a starting number, not a ceiling.
         </li>
         <li>
           <strong>Estimating contractors don&rsquo;t bid the work.</strong> In the author&rsquo;s
@@ -337,10 +342,11 @@ export default function Content() {
           good contractor who bills fairly.
         </li>
         <li>
-          <strong>Post-ACE deterioration.</strong> Since ACE took over, Chubb&rsquo;s claims
-          handling has gotten noticeably worse. The premium customer service reputation is
-          increasingly a relic of the pre-acquisition era. Adjusters who used to have broad
-          authority to settle claims now face more corporate oversight and tighter purse strings.
+          <strong>Post-merger tightening.</strong> In the author&rsquo;s experience since the
+          merger, Chubb&rsquo;s claims handling has tightened noticeably, and the premium
+          customer-service reputation does not always match the file in front of you. Adjusters
+          who once appeared to have broad authority to settle claims now seem to operate under
+          more corporate oversight and tighter purse strings.
         </li>
       </ul>
 
@@ -383,10 +389,11 @@ export default function Content() {
           case closed.
         </li>
         <li>
-          <strong>Inspection delays.</strong> Travelers sometimes takes an unreasonable amount
-          of time to send an adjuster to inspect the property, particularly on larger claims.
-          This is a violation of the Fair Claims Settlement Practices regulations, which require
-          timely investigation.
+          <strong>Inspection delays.</strong> In the author&rsquo;s experience, Travelers can be
+          slow to get an adjuster out to the property, particularly on larger claims. When
+          inspection delays stretch past the regulatory timeframes, the Fair Claims Settlement
+          Practices regulations&rsquo; timely-investigation requirements give the policyholder
+          something concrete to cite.
         </li>
       </ul>
 
@@ -447,8 +454,8 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>What to expect:</strong> Mercury is a budget carrier, and their claims handling
-        reflects that. They charge lower premiums and invest less in claims service.
+        <strong>What to expect:</strong> Mercury is a budget carrier, and in the author&rsquo;s
+        experience the claims side reflects the discount positioning.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">Common Tactics</h3>
@@ -461,8 +468,9 @@ export default function Content() {
           a lawyer-to-lawyer process, which tends to be slower and more procedurally formal.
         </li>
         <li>
-          <strong>Aggressive depreciation.</strong> Mercury applies heavy depreciation on
-          virtually everything, and their initial offers tend to be the lowest in the industry.
+          <strong>Aggressive depreciation.</strong> In the author&rsquo;s files, Mercury applies
+          heavy depreciation across the board, and its initial offers are routinely among the
+          lowest the author sees.
         </li>
       </ul>
 
@@ -493,8 +501,9 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
           <strong>PA contract demands.</strong> Homesite is quick to demand copies of public
-          adjuster contracts, then uses any perceived irregularity to create delays or disputes.
-          They focus on procedural technicalities rather than substantive claim evaluation.
+          adjuster contracts, and in the author&rsquo;s experience, perceived irregularities
+          become the subject of correspondence before the substance of the claim does. Expect
+          procedural questions early &mdash; and have the paperwork airtight.
         </li>
         <li>
           <strong>Inexperienced adjusters.</strong> Because of their relatively small property
@@ -531,17 +540,21 @@ export default function Content() {
 
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <strong>&ldquo;Ordinary household cleaning&rdquo; smoke denial.</strong> The FAIR Plan
-          has historically used this exact language to deny smoke damage claims: &ldquo;Your
-          smoke can be cleaned with ordinary household cleaning methods.&rdquo; This is
-          particularly egregious in wildfire situations where the smoke contains toxic industrial
-          and residential chemicals.
+          <strong>&ldquo;Ordinary household cleaning&rdquo; smoke denial.</strong> The FAIR
+          Plan&rsquo;s use of this rationale to limit smoke claims is publicly documented &mdash;
+          it is at the center of the litigation and CDI enforcement activity over the FAIR
+          Plan&rsquo;s smoke-damage guidelines (see our{' '}
+          <Link href="/resources/california-fair-plan" className="text-[#2E74B5] hover:underline">
+            FAIR Plan article
+          </Link>
+          ). The rationale is hard to square with wildfire smoke chemistry: toxic industrial and
+          residential combustion byproducts are not a household-cleaning problem.
         </li>
         <li>
-          <strong>Slow payment processing.</strong> The FAIR Plan is consistently slow in
-          processing payments, even when they agree to pay. Monthly ALE payments that should be
-          advanced upfront are doled out one month at a time, creating financial hardship for
-          displaced families.
+          <strong>Slow payment processing.</strong> In the author&rsquo;s experience, FAIR Plan
+          payments move slowly even after agreement is reached. ALE is often doled out one month
+          at a time &mdash; and displaced families feel that delay immediately, which is why it
+          is worth pressing for the upfront advance where the claim qualifies for one.
         </li>
         <li>
           <strong>Mutual company exemption claims.</strong> Some mutual and church-related
