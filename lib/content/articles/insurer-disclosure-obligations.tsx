@@ -83,7 +83,8 @@ export default function Content() {
         This regulation is reinforced by California Insurance Code Section 790.03(h)(1),
         which defines it as an unfair claims settlement practice to misrepresent &ldquo;pertinent
         facts or insurance policy provisions relating to any coverages at issue.&rdquo; Silence
-        about applicable coverages is, functionally, a misrepresentation. If the policy provides
+        about applicable coverages functions &mdash; many plaintiff attorneys argue &mdash; as a
+        misrepresentation by omission. If the policy provides
         a benefit and the insurer never mentions it, the policyholder is left with a false
         understanding of what the policy covers. For a detailed discussion of Insurance Code
         Section 790.03, see our article on{' '}
@@ -96,9 +97,9 @@ export default function Content() {
         <p>
           10 CCR &sect; 2695.4(a) transforms the claims process from a transaction where the
           policyholder must independently discover what they are owed into one where the insurer
-          bears the affirmative burden of telling them. Every specific disclosure failure discussed
-          in this article is a violation of this regulation. When you file a CDI complaint, this is
-          the regulation to cite.
+          bears the affirmative burden of telling them. Each disclosure failure discussed in this
+          article maps back to this regulation &mdash; and in a CDI complaint, this is the
+          regulation to cite.
         </p>
       </CalloutBox>
 
@@ -108,16 +109,18 @@ export default function Content() {
         The 790 Letter: The Disclosure Letter Your Insurer Sends (or Should Send)
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In the claims industry, the &ldquo;790 letter&rdquo; refers to a written notice the
-        insurance company is required to send to the insured at the outset of a claim in
-        California. The name comes from California Insurance Code Section 790.03, which
-        defines unfair claims settlement practices. The letter informs you of your basic
-        consumer rights on the claim &mdash; including your right to claim-related documents,
-        your right to a prompt investigation, applicable deadlines, and other protections
+        In the claims industry, the &ldquo;790 letter&rdquo; refers to the written notice
+        insurers send to the insured at the outset of a claim in California &mdash; the
+        acknowledgment package that 10 CCR &sect; 2695.5(e) requires within 15 days, typically
+        accompanied by notices of the insured&apos;s consumer rights. The name comes from
+        California Insurance Code Section 790.03, which
+        defines unfair claims settlement practices. The letter informs the insured of basic
+        consumer rights on the claim &mdash; including the right to claim-related documents,
+        the right to a prompt investigation, applicable deadlines, and other protections
         under California law.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While insurers are required to send this letter, the quality varies enormously.
+        The quality of these letters varies enormously.
         Some are thorough. Others are boilerplate that checks a compliance box without
         meaningfully informing the policyholder of anything useful. The letter may run several
         pages, printed in small type, and arrive alongside a stack of other claim paperwork
@@ -125,10 +128,11 @@ export default function Content() {
         the letter is sent, its contents may not be absorbed.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you received a 790 letter at the start of your claim, read it carefully &mdash;
-        it may reference rights you did not know you had. If you did not receive one, that
-        itself is a compliance failure. The obligations discussed below apply regardless of
-        whether the insurer sent the letter.
+        A 790 letter received at the start of a claim is worth reading carefully &mdash;
+        it may reference rights the insured did not know existed. If no acknowledgment ever
+        arrived, that gap is itself worth noting in any CDI complaint: acknowledgment within
+        15 days is a regulatory duty under &sect; 2695.5(e). The obligations discussed below
+        apply regardless of whether the insurer sent the letter.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a discussion of how policyholders can send their <em>own</em> 790 letter to put
@@ -174,7 +178,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         But the regulation does not care about the adjuster&rsquo;s intent, workload, or
         knowledge gaps. The obligation is on the insurer &mdash; the company, not the
-        individual &mdash; and it is absolute. The insurer chose to issue the policy. The
+        individual &mdash; and the regulation states it without qualification. The insurer chose to issue the policy. The
         insurer collected the premium. The insurer has the duty to explain what the
         policyholder is paying for. Every coverage the adjuster does not mention is money
         the carrier does not pay, and the system, as designed, incentivizes that silence.
@@ -360,11 +364,12 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The regulation requires specificity because specificity enables the policyholder
-        to respond. If you do not know <em>why</em> the claim was denied, you cannot
+        to respond. An insured who does not know <em>why</em> the claim was denied cannot
         effectively challenge the denial. A vague or conclusory denial letter is not just
-        unhelpful &mdash; it is itself a regulatory violation. If the denial letter you
-        received is missing any of these elements, that deficiency should be documented and
-        raised. See our articles on{' '}
+        unhelpful &mdash; it may itself fall short of &sect; 2695.7(b)(1), and documenting
+        that deficiency in writing often prompts the carrier to restate its position with the
+        specificity the regulation requires &mdash; which is where weak denials start to
+        unravel. See our articles on{' '}
         <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">
           bad faith insurance practices
         </Link>{' '}
@@ -546,8 +551,10 @@ export default function Content() {
         where the home is partially damaged and the policyholder could arguably remain during
         repairs &mdash; but would be living in an active construction zone with no kitchen,
         with dust and noise, or with safety hazards. Under the duty to explain all applicable
-        benefits, the adjuster should be proactively informing you of Loss of Use coverage and its
-        full scope. If they did not, that is a regulatory violation. See our articles on{' '}
+        benefits, the adjuster should be proactively explaining Loss of Use coverage and its
+        full scope. When that conversation never happened, the insured has a documented
+        &sect; 2695.4(a) issue to raise &mdash; and raising it often gets the benefit paid. See
+        our articles on{' '}
         <Link href="/resources/ale-frv" className="text-blue-700 underline hover:text-blue-900">
           additional living expenses and fair rental value
         </Link>{' '}
@@ -677,7 +684,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Many policyholders cash the ACV check, assume the claim is settled, and never realize
         there is more money available. Others complete repairs but miss the deadline because
-        no one told them the clock was running. Both outcomes represent a failure of the
+        no one told them the clock was running. Both outcomes trace directly back to the
         insurer&rsquo;s disclosure obligation under 10 CCR &sect; 2695.4(a).
       </p>
 
@@ -722,9 +729,9 @@ export default function Content() {
         the insurer&rsquo;s estimate is too low, and it is far less expensive and time-consuming
         than litigation. Yet most homeowners have never heard of it. Adjusters are not in
         the habit of telling policyholders: &ldquo;If you disagree with our number, you can
-        invoke appraisal and get a binding determination from a neutral panel.&rdquo; This
-        is a benefit of the policy that &ldquo;may apply to the claim,&rdquo; and the insurer
-        is required to disclose it under 10 CCR &sect; 2695.4(a). See our article on{' '}
+        invoke appraisal and get a binding determination from a neutral panel.&rdquo; Yet
+        appraisal is a benefit of the policy that &ldquo;may apply to the claim&rdquo; &mdash;
+        squarely within &sect; 2695.4(a)&apos;s disclosure language. See our article on{' '}
         <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
           insurance appraisal in California
         </Link>.
@@ -802,9 +809,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         In practice, no insurer is going to volunteer: &ldquo;By the way, if you think
         we&rsquo;re handling this unfairly, you can report us to the state regulator.&rdquo;
-        But you can, and you should if the circumstances warrant it. CDI complaints are one
-        of the most underutilized tools available to California policyholders. You can file
-        online at{' '}
+        But the insured can &mdash; and when the circumstances warrant it, the complaint is
+        cheap, fast, and creates a record. CDI complaints are one
+        of the most underutilized tools available to California policyholders. Complaints can
+        be filed online at{' '}
         <a
           href="https://cdiapps.insurance.ca.gov/CP/create-complaint-page/"
           target="_blank"
@@ -943,18 +951,19 @@ export default function Content() {
           </li>
           <li>
             <strong>Send a written request to identify all applicable coverages.</strong>{' '}
-            Send the adjuster an email or letter that says, in substance: &ldquo;Please
+            Many policyholders send the adjuster an email or letter that says, in substance:
+            &ldquo;Please
             identify all coverages, benefits, time limits, and other provisions of my policy
             that may apply to this claim, as required by 10 CCR &sect; 2695.4(a).&rdquo;
-            This puts the insurer on notice that you know the regulation exists and creates
-            a documented record of your request. If the insurer fails to respond &mdash; or
-            responds incompletely &mdash; you have evidence of a disclosure violation.
+            This puts the insurer on notice that the policyholder knows the regulation exists
+            and creates a documented record of the request. A response that never comes &mdash;
+            or comes back incomplete &mdash; is itself evidence on the disclosure issue.
           </li>
           <li>
-            <strong>Put the failure in writing.</strong> If you discover a coverage the
-            adjuster never mentioned, send a letter identifying the specific disclosure
-            obligation they missed and citing the applicable regulation. This creates a
-            record and often produces immediate results.
+            <strong>Put the failure in writing.</strong> When a coverage surfaces that the
+            adjuster never mentioned, a letter identifying the specific disclosure
+            obligation and citing the applicable regulation creates a
+            record &mdash; and often produces immediate results.
           </li>
           <li>
             <strong>Send a 790 letter.</strong> If the failure is part of a broader pattern
@@ -995,16 +1004,16 @@ export default function Content() {
             <strong>Consult a professional.</strong> A licensed Public Adjuster or an
             insurance coverage attorney can review your policy, identify which coverages
             were overlooked, and pursue the full value of your claim. If the insurer&rsquo;s
-            failure to disclose resulted in measurable harm &mdash; for example, you missed
-            a deadline or accepted a low payment because you did not know a coverage
-            existed &mdash; that may give rise to a bad faith claim.
+            failure to disclose resulted in measurable harm &mdash; a missed
+            deadline, a low payment accepted because a coverage was never mentioned &mdash;
+            that is the kind of harm an attorney can evaluate for a potential bad faith claim.
           </li>
         </ol>
       </div>
 
       <CalloutBox variant="tip" title="The Written Request That Changes Everything">
         <p>
-          The single most effective step a policyholder can take is to send a written request
+          In our experience, one of the most effective steps a policyholder can take is to send a written request
           to the adjuster asking them to identify <strong>all</strong> coverages, benefits,
           time limits, and provisions that apply to the claim, citing 10 CCR &sect; 2695.4(a).
           This forces the insurer to either comply &mdash; which means you learn about
@@ -1127,9 +1136,10 @@ export default function Content() {
         the gap. And when you recognize the gap, you can hold the carrier accountable.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Read your policy. Know the regulations. Put your requests in writing. Document
-        everything. And when the insurer falls short of what California law requires, use
-        the tools available to you &mdash; a written demand, a{' '}
+        The policyholders who come out whole are the ones who read the policy, know the
+        regulations, put requests in writing, and document
+        everything. And when the insurer falls short of what California law requires, the
+        tools are there &mdash; a written demand, a{' '}
         <Link href="/resources/insurance-code-790" className="text-blue-700 underline hover:text-blue-900">
           790 letter
         </Link>

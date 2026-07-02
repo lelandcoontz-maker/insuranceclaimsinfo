@@ -72,7 +72,7 @@ export default function Content() {
           restraining orders (ATROs) go into effect under Family Code &sect; 2040. Among other
           things, these orders prohibit both parties from destroying, transferring, concealing,
           or disposing of community property. Insurance claim proceeds from a community property
-          home are community property. Settling a claim or endorsing a check without the other
+          home are presumptively community property. Settling a claim or endorsing a check without the other
           spouse&rsquo;s involvement may violate the ATROs.
         </p>
       </CalloutBox>
@@ -151,8 +151,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This does not mean the non-named spouse loses their interest in the claim proceeds.
-        If the home is community property, the insurance proceeds are community property
-        regardless of whose name is on the policy. But the non-named spouse may find that the
+        If the home is community property, the insurance proceeds are presumptively community
+        property regardless of whose name is on the policy. But the non-named spouse may find that the
         insurer refuses to deal with them directly, directing all communications and payments to
         the named insured. This is a dangerous situation that requires immediate attention in the
         divorce proceedings.
@@ -164,8 +164,9 @@ export default function Content() {
           &ldquo;an insured&rdquo; under the homeowner&rsquo;s policy. This does not extinguish
           your community property interest in the claim proceeds, but it may limit your ability
           to communicate directly with the insurer, file a proof of loss, or contest a lowball
-          settlement. If you are the non-named spouse and you are moving out, address the
-          insurance claim in your temporary orders <em>before</em> you leave.
+          settlement. A non-named spouse who is moving out has the most to lose here &mdash;
+          raising the insurance claim with a family law attorney <em>before</em> the move, so
+          it can be addressed in temporary orders, protects that position.
         </p>
       </CalloutBox>
 
@@ -213,8 +214,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The modern homeowner&rsquo;s policy reinforces this through the <strong>severability
-        clause</strong> (sometimes called the &ldquo;Concealment or Fraud&rdquo; condition or
-        &ldquo;Separation of Insureds&rdquo; provision). This clause provides that the policy
+        clause</strong> (also called the &ldquo;Separation of Insureds&rdquo; provision).
+        This clause provides that the policy
         applies separately to each insured. What this means in practice is that each
         insured&rsquo;s rights and obligations under the policy are evaluated independently.
         One insured&rsquo;s misconduct does not taint the other insured&rsquo;s coverage.
@@ -223,14 +224,15 @@ export default function Content() {
       <CalloutBox variant="legal" title="Severability in Practice">
         <p>
           The leading California Supreme Court authority on the innocent co-insured doctrine is{' '}
-          <em>Century-National Insurance Co. v. Garcia</em> (2011) 51 Cal.4th 564, which
-          rejected a blanket bar to the innocent co-insured&rsquo;s recovery and held that
-          California Insurance Code &sect; 533 does not automatically exclude an innocent co-
-          insured&rsquo;s claim merely because another insured intentionally caused the loss.
-          Read alongside the standard ISO severability-of-interests clause, &sect; 533&rsquo;s
-          use of the singular &ldquo;the insured&rdquo; means each insured&rsquo;s rights are
-          evaluated independently. The innocent spouse is generally entitled to recover their
-          share of the loss notwithstanding the intentional-act exclusion. See also our companion
+          <em>Century-National Insurance Co. v. Garcia</em> (2011) 51 Cal.4th 564.{' '}
+          <em>Garcia</em> held that Insurance Code &sect;&sect; 2070&ndash;2071 &mdash; the
+          standard-form fire policy statutes &mdash; read together with &sect; 533&rsquo;s focus
+          on &ldquo;the insured&rdquo; (singular), preclude an insurer from denying an innocent
+          insured&rsquo;s claim based on another insured&rsquo;s intentional act. An exclusion
+          written more broadly than the statutory scheme allows (&ldquo;any insured&rdquo;
+          rather than &ldquo;the insured&rdquo;) is invalid to that extent. The innocent spouse
+          is generally entitled to recover their share of the loss notwithstanding the
+          intentional-act exclusion. See also our companion
           guide on the{' '}
           <Link href="/resources/innocent-co-insured-doctrine" className="text-[#2E74B5] underline">
             innocent co-insured doctrine
@@ -358,8 +360,8 @@ export default function Content() {
         who moves out, make sure someone is maintaining the property and that the insurer is
         aware the home is still occupied. If you are the spouse who stays, make sure the
         premiums are being paid. Both spouses have a fiduciary duty under Family Code
-        &sect; 1100 to preserve community assets, and allowing the insurance policy to lapse
-        through neglect is a breach of that duty.
+        &sect; 1100 to preserve community assets, and allowing the policy to lapse through
+        neglect is the kind of conduct a court could treat as a breach of that duty.
       </p>
 
       <h3 id="premium-payments" className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -385,12 +387,13 @@ export default function Content() {
       <CalloutBox variant="warning" title="Do Not Let the Policy Lapse">
         <p>
           If you are going through a divorce and you are concerned that your spouse may allow the
-          homeowner&rsquo;s policy to lapse, take steps immediately. Contact the insurer and ask
-          to be added as a named insured or at least request that you receive copies of all policy
-          correspondence, including cancellation notices. Pay the premium yourself if necessary
-          &mdash; you can seek reimbursement from the community estate or credit for the payment
-          in the property division. The cost of a year&rsquo;s premium is trivial compared to the
-          cost of being uninsured when a loss occurs.
+          homeowner&rsquo;s policy to lapse, take steps immediately. Contacting the insurer to
+          be added as a named insured &mdash; or at least to receive copies of all policy
+          correspondence, including cancellation notices &mdash; and paying the premium
+          personally if necessary keeps the coverage alive. A family law attorney can seek
+          reimbursement from the community estate or credit for those payments in the property
+          division. The cost of a year&rsquo;s premium is trivial compared to the cost of being
+          uninsured when a loss occurs.
         </p>
       </CalloutBox>
 
@@ -444,9 +447,9 @@ export default function Content() {
         acquired during marriage is presumed to be community property. This includes the
         marital home (if purchased during the marriage or with community funds), improvements
         made to the home, and personal property inside the home. When a covered loss occurs,
-        the insurance proceeds that flow from damage to community property are themselves
-        community property. This means both spouses have an equal interest in the insurance
-        proceeds, regardless of whose name is on the policy, who filed the claim, or who has
+        the insurance proceeds that flow from damage to community property are presumptively
+        community property, giving both spouses an equal interest in the insurance proceeds
+        absent a showing to the contrary &mdash; regardless of whose name is on the policy, who filed the claim, or who has
         been communicating with the adjuster. The community property characterization applies
         to all components of the claim &mdash; the dwelling payment, the personal property
         payment, the additional living expense (ALE) payments, and any other covered amounts.
@@ -455,9 +458,11 @@ export default function Content() {
         The recognized exceptions under Family Code &sect; 770 include property owned before
         marriage, property acquired during marriage by gift or inheritance, and the rents,
         issues, and profits of separate property. Everything else is presumed community. This
-        presumption is not merely a default that shifts when convenient &mdash; it is a powerful
-        legal rule that requires clear and convincing evidence to overcome, and it applies with
-        full force to insurance proceeds.
+        presumption is not merely a default that shifts when convenient &mdash; it is generally
+        rebutted only by a preponderance of the evidence tracing the property to a separate
+        source, and it applies with full force to insurance proceeds. (The clear-and-convincing
+        standard belongs to different doctrines &mdash; transmutation under Family Code
+        &sect; 852 and the record-title presumption of Evidence Code &sect; 662.)
       </p>
 
       <CalloutBox variant="legal" title="Family Code &sect; 760 — The Community Property Presumption">
@@ -474,7 +479,7 @@ export default function Content() {
         Insurance Proceeds Follow the Character of the Property
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The fundamental rule in California is that <strong>insurance proceeds take on the same
+        The general rule in California is that <strong>insurance proceeds take on the same
         character as the property they are designed to protect</strong>. This is sometimes called
         the &ldquo;replacement theory&rdquo; or &ldquo;substitution theory&rdquo; of community
         property. The insurance payment steps into the shoes of the damaged property. If the
@@ -641,12 +646,13 @@ export default function Content() {
         mortgage lender (if there is a loss payable endorsement). All named payees must endorse
         the check before it can be negotiated. If the insurer issues the check payable only to
         the named insured and the lender &mdash; omitting the non-named spouse &mdash; the
-        non-named spouse may have a claim against the named insured for breach of fiduciary
-        duty under Family Code &sect; 1100, and potentially against the insurer for failing to
-        protect the community interest. In practice, most insurers will include both spouses on
-        the check if they are aware that both are involved in the claim. To protect yourself,
-        make sure the insurer knows from the outset that both spouses are insureds with a
-        community property interest in the proceeds.
+        non-named spouse may have remedies a family law attorney can evaluate, including
+        breach-of-fiduciary-duty claims against the named insured under Family Code
+        &sect; 1100 &mdash; and potentially claims against the insurer for failing to protect
+        the community interest. In practice, most insurers will include both spouses on
+        the check if they are aware that both are involved in the claim. Making sure the
+        insurer knows from the outset that both spouses claim an interest in the proceeds is
+        the practical protection.
       </p>
 
       <h3 id="ale-during-separation" className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -773,8 +779,8 @@ export default function Content() {
           <strong>The Mortgage Obligation:</strong> If Spouse A is on the mortgage, they are
           personally liable for the debt regardless of whether the home is repaired. Refusing
           to use insurance proceeds for repairs could expose Spouse A to financial harm &mdash;
-          a damaged home with a full mortgage balance. This may give Spouse A standing to
-          compel the use of proceeds for repairs.
+          a damaged home with a full mortgage balance. This is a question for the family law
+          attorney &mdash; courts can order proceeds applied to repairs.
         </li>
         <li>
           <strong>The Lender&rsquo;s Position:</strong> If the lender is holding the insurance
@@ -891,9 +897,9 @@ export default function Content() {
           &ldquo;insured&rdquo; under the policy&rsquo;s own definition, (2) they have an
           independent insurable interest under Insurance Code &sect; 281, (3) the insurance
           proceeds are community property under Family Code &sect; 760, and (4) the claim
-          survives death under Code of Civil Procedure &sect; 377.20. The insurer must
-          overcome all four of these independent bases to deny the claim &mdash; and it cannot
-          overcome any of them.
+          survives death under Code of Civil Procedure &sect; 377.20. The insurer would have
+          to overcome all four of these independent bases to deny the claim &mdash; a steep
+          hill.
         </p>
       </CalloutBox>
 
@@ -966,16 +972,17 @@ export default function Content() {
         couple as married, there is a strong argument that the insurance company must too.
       </p>
 
-      <CalloutBox variant="important" title="Full Faith and Credit: A Common Law Marriage Travels">
+      <CalloutBox variant="important" title="A Valid Common Law Marriage Travels">
         <p>
-          Under the Full Faith and Credit Clause of the U.S. Constitution, a common law
-          marriage that is validly created in one state must generally be recognized by every
-          other state &mdash; even states that do not themselves allow the creation of common
-          law marriages. If a couple established a valid common law marriage in Colorado and
-          then moved to California, California must recognize that marriage. This means the
-          surviving partner in a common law marriage may have &ldquo;spouse&rdquo; status under
-          a California homeowner&rsquo;s policy &mdash; if the common law marriage was validly
-          created in a state that recognizes it.
+          Under comity and conflict-of-laws principles, a common law marriage that is validly
+          created in one state is generally recognized by other states &mdash; even states that
+          do not themselves allow the creation of common law marriages. California codifies
+          this rule: Family Code &sect; 308 provides that a marriage validly contracted in
+          another jurisdiction is valid in California. If a couple established a valid common
+          law marriage in Colorado and then moved to California, California recognizes that
+          marriage. This means the surviving partner in a common law marriage may have
+          &ldquo;spouse&rdquo; status under a California homeowner&rsquo;s policy &mdash; if
+          the common law marriage was validly created in a state that recognizes it.
         </p>
       </CalloutBox>
 
@@ -1111,10 +1118,12 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         The severability clause (also called &ldquo;Separation of Insureds&rdquo;) provides
-        that the insurance policy applies separately to each insured. The standard ISO language
-        reads: &ldquo;This insurance applies separately to each &lsquo;insured.&rsquo; This
-        condition shall not increase our limit of liability for any one
-        &lsquo;occurrence.&rsquo;&rdquo;
+        that the insurance policy applies separately to each insured. On the property side of
+        the policy &mdash; which is what a fire loss implicates &mdash; the analysis turns on
+        whether the exclusionary language reads &ldquo;the insured&rdquo; or &ldquo;an
+        insured.&rdquo; And under <em>Garcia</em>, the standard-form statutes (Insurance Code
+        &sect;&sect; 2070&ndash;2071) protect the innocent insured even where the exclusion is
+        written with the broader &ldquo;an insured&rdquo; phrasing.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The effect of this clause is that each insured is treated as if they have their own
@@ -1171,8 +1180,10 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         In many divorces, the marital home is sold as part of the property division. This can
-        happen by agreement or by court order under Family Code &sect; 2552. When the home is
-        sold while an insurance claim is still pending, several important questions arise.
+        happen by agreement or by court order under the court&rsquo;s authority to divide the
+        community estate (Family Code &sect; 2550 et seq.); Family Code &sect; 2552 separately
+        governs the date on which the assets are valued. When the home is sold while an
+        insurance claim is still pending, several important questions arise.
       </p>
 
       <h3 id="claim-survives-sale" className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -1313,8 +1324,8 @@ export default function Content() {
         Step 4: Address the Claim in Court Orders
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Ask the divorce court to include provisions in temporary orders (and eventually in the
-        final judgment) that address the insurance claim. These provisions should specify:
+        A family law attorney can ask the court to address the claim in temporary orders and
+        in the final judgment. Provisions many attorneys request include:
       </p>
       <ol className="list-decimal pl-6 mb-4 text-gray-700 space-y-2">
         <li>
@@ -1338,6 +1349,10 @@ export default function Content() {
           consent or a court order.
         </li>
       </ol>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What belongs in the orders is case-specific &mdash; this is squarely a question for the
+        family law attorney.
+      </p>
 
       <h3 id="step-5-hire-professionals" className="text-xl font-semibold text-[#1F3964] mb-3">
         Step 5: Consider Hiring a Public Adjuster or Insurance Attorney
@@ -1475,8 +1490,8 @@ export default function Content() {
           community property.
         </li>
         <li>
-          <strong>California Family Code &sect; 2552</strong> &mdash; Court authority to order
-          sale of community property.
+          <strong>California Family Code &sect; 2552</strong> &mdash; Valuation date for
+          community assets in the property division.
         </li>
         <li>
           <strong>California Family Code &sect; 2640</strong> &mdash; Reimbursement for separate
@@ -1510,11 +1525,11 @@ export default function Content() {
         spouse&rsquo;s coverage. But these protections only work if someone invokes them.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you are going through a divorce and you have a pending or potential insurance claim,
-        take action now. Do not wait for the divorce to be finalized. Do not assume your spouse
-        is handling the claim. Do not assume your divorce attorney knows about the insurance
-        deadlines. Identify the claim, preserve the evidence, address it in your court orders,
-        and make sure someone competent is managing the claim from start to finish.
+        The spouses who come out of this intact are the ones who address the claim early
+        &mdash; in the temporary orders, with the insurer on notice, and with both the family
+        law attorney and the claim professional working from the same facts. Waiting for the
+        divorce to be finalized, assuming the other spouse is handling the claim, or assuming
+        the divorce attorney knows about the insurance deadlines is how claims get lost.
       </p>
 
       <CalloutBox variant="important" title="The Claim Will Not Wait for the Divorce">

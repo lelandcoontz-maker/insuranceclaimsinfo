@@ -4,9 +4,9 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: "When Insurance Policy Language Conflicts with California Law",
   description:
-    "A CA court ruled the FAIR Plan's fire policy \"unlawful.\" The ways policy language conflicts with statutes, case law, and regs - and why the law always wins.",
+    "A CA court ruled the FAIR Plan's fire policy \"unlawful.\" The ways policy language conflicts with statutes, case law, and regs - and how the law limits what a policy can take away.",
   summary:
-    'When policy language conflicts with California law, the law controls and the offending policy term is unenforceable, as courts have held even against FAIR Plan provisions. An illegal clause cannot be used to deny what the law guarantees.',
+    'When policy language falls below what California law requires, the law controls — a court held FAIR Plan provisions unenforceable on exactly that basis. A clause that conflicts with a statutory minimum cannot be used to deny what the law guarantees.',
 }
 
 export default function Content() {
@@ -31,10 +31,11 @@ export default function Content() {
         demand appraisal, you must comply.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        None of that is necessarily true. In California, your insurance policy exists within a
-        framework of statutes, regulations, and case law that can override restrictive policy
-        language. When the policy conflicts with the law, <strong>the law wins</strong>. Policy
-        provisions that are less favorable to the insured than what the law requires are void and
+        None of that is necessarily true. In California, an insurance policy exists within a
+        framework of statutes, regulations, and case law that sets minimum standards restrictive
+        policy language cannot cut below. Where the law sets a floor &mdash; the standard form
+        fire policy, the valuation statutes, the claim-handling regulations &mdash; policy
+        provisions less favorable to the insured than that floor are void and
         unenforceable &mdash; even if you signed the policy, even if you never read it, even if the
         insurer has been enforcing it for years.
       </p>
@@ -342,9 +343,9 @@ export default function Content() {
           the date the insurer issues a formal written denial, not from the date of loss.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>Bottom line:</strong> If your insurer takes 14 months to investigate your claim
-          and then tells you your one-year deadline has passed, they are wrong. The limitation period
-          was tolled during the investigation. This is established California Supreme Court law, and
+          <strong>Bottom line:</strong> When an insurer takes 14 months to investigate a claim
+          and then says the one-year deadline has passed, the tolling rule says otherwise. The
+          limitation period was paused during the investigation. This is established California Supreme Court law, and
           the policy language does not override it. For a deeper analysis, see our{' '}
           <Link href="/resources/equitable-tolling" className="text-[#2E74B5] font-medium underline hover:text-[#1F3964] transition-colors">
             full guide to equitable tolling
@@ -430,8 +431,8 @@ export default function Content() {
           settlement offers).
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>Bottom line:</strong> You have the right to choose your own contractor. Any policy
-          provision that requires you to use the insurer&rsquo;s preferred vendor, or that caps
+          <strong>Bottom line:</strong> The insured has the right to choose the contractor. Any policy
+          provision that requires the insured to use the insurer&rsquo;s preferred vendor, or that caps
           payment at the preferred vendor&rsquo;s rates, conflicts with California regulations. For
           more on this issue, see our guide on{' '}
           <Link href="/resources/right-to-repair" className="text-[#2E74B5] font-medium underline hover:text-[#1F3964] transition-colors">
@@ -523,10 +524,11 @@ export default function Content() {
           impair the property as property, even when the alteration is microscopic.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>Bottom line:</strong> If your policy defines &ldquo;direct physical loss&rdquo;
-          more restrictively than the California Supreme Court does, that definition is
-          unenforceable. Smoke contamination, chemical residue, and other non-visible alterations
-          can all constitute covered losses under California law.
+          <strong>Bottom line:</strong> A policy that defines &ldquo;direct physical loss&rdquo;
+          more restrictively than the standard form and the Supreme Court&apos;s reading allow is
+          vulnerable &mdash; the <em>Aliff</em> court held the FAIR Plan&apos;s version unlawful
+          on exactly that basis. Smoke contamination, chemical residue, and other non-visible
+          alterations can all constitute covered losses under California law.
         </p>
         <div className="pt-3 border-t border-gray-300">
           <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-1.5">
@@ -552,21 +554,23 @@ export default function Content() {
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>What the policy says:</strong> Many policies define actual cash value (ACV) as
           &ldquo;replacement cost minus depreciation&rdquo; without specifying what can be
-          depreciated. Insurers use this ambiguity to depreciate everything &mdash; including
+          depreciated. Some insurers use this ambiguity to depreciate everything &mdash; including
           labor. On a large claim, depreciating labor can reduce the ACV payment by tens of
           thousands of dollars.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>What the law says:</strong> Labor does not deteriorate over time. A plumber&rsquo;s
-          work today costs the same whether the pipe being replaced is two years old or twenty. A
-          growing body of case law holds that depreciating labor is improper. The reasoning is
-          straightforward: depreciation reflects the reduction in value of a physical thing over
-          time due to wear, age, and deterioration. Labor is not a physical thing. It does not age
-          or deteriorate. It cannot be depreciated.
+          <strong>What the law says:</strong> In California this is not a case-law argument
+          &mdash; it is a regulation. 10 CCR &sect; 2695.9(f)(1) provides that, except for the
+          intrinsic labor costs included in manufactured materials, the expense of labor
+          necessary to repair, rebuild, or replace covered property &ldquo;is not a component of
+          physical depreciation and shall not be subject to depreciation or betterment.&rdquo;
+          The logic is straightforward: depreciation reflects the wear and age of a physical
+          thing. Labor is not a physical thing. It does not age or deteriorate.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>Bottom line:</strong> If your insurer is depreciating labor costs in your ACV
-          calculation, challenge it. For more, see our{' '}
+          <strong>Bottom line:</strong> When an insurer depreciates labor in an ACV calculation
+          on a California property claim, the regulation says it cannot &mdash; and pointing to
+          &sect; 2695.9(f)(1) in writing usually ends the argument. For more, see our{' '}
           <Link href="/resources/labor-depreciation" className="text-[#2E74B5] font-medium underline hover:text-[#1F3964] transition-colors">
             labor depreciation guide
           </Link>.
@@ -645,18 +649,20 @@ export default function Content() {
           most favorable to themselves.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>What the law says:</strong> California follows the well-established rule of
-          <em> contra proferentem</em>: ambiguous provisions in insurance contracts are construed
-          against the party that drafted them &mdash; the insurer. This principle is deeply embedded
-          in California insurance law and has been reaffirmed in countless cases. Exclusions, in
-          particular, are interpreted narrowly: if an exclusion is capable of more than one
-          reasonable interpretation, the interpretation that preserves coverage prevails.
+          <strong>What the law says:</strong> California resolves ambiguity through a layered
+          rule. Policy language is read in its ordinary and popular sense; a genuinely ambiguous
+          provision is construed to protect the objectively reasonable expectations of the
+          insured (<em>AIU Ins. Co. v. Superior Court</em> (1990) 51 Cal.3d 807; <em>Bank of the
+          West v. Superior Court</em> (1992) 2 Cal.4th 1254); and residual ambiguity is construed
+          against the drafter &mdash; the insurer &mdash; under <em>contra proferentem</em>.
+          Exclusions, in particular, are interpreted narrowly: if an exclusion is capable of more
+          than one reasonable interpretation, the interpretation that preserves coverage prevails.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          <strong>Bottom line:</strong> If you and your insurer disagree about what a policy
-          provision means, the law is not neutral. Ambiguities are resolved in your favor. The
-          insurer wrote the language; if it is unclear, that is the insurer&rsquo;s problem, not
-          yours.
+          <strong>Bottom line:</strong> When the insured and the insurer disagree about what a
+          policy provision means, the law is not neutral. Genuine ambiguities are resolved to
+          protect the insured&rsquo;s objectively reasonable expectations. The insurer wrote the
+          language; unclear drafting is the drafter&rsquo;s problem.
         </p>
       </div>
 
@@ -696,17 +702,17 @@ export default function Content() {
         they have to be brought in the first place.
       </p>
 
-      <CalloutBox variant="tip" title="What You Should Do">
+      <CalloutBox variant="tip" title="What a Policyholder Can Do">
         <p className="mb-2">
-          If you believe your insurer is denying or underpaying your claim based on policy language
-          that conflicts with California law:
+          When a denial or underpayment rests on policy language that appears to conflict with
+          California law, the pattern that works looks like this:
         </p>
         <ol className="list-decimal list-inside space-y-1 text-sm">
-          <li>Do not accept the denial at face value. The policy is not the final word.</li>
+          <li>Treat the denial as a position, not a verdict &mdash; the policy is not the final word.</li>
           <li>Identify the specific policy provision the insurer is relying on.</li>
-          <li>Research whether that provision conflicts with any California statute, regulation, or case law.</li>
-          <li>Consult a Public Adjuster or insurance coverage attorney who can evaluate the conflict.</li>
-          <li>Put the insurer on notice in writing that you believe the policy provision is unenforceable.</li>
+          <li>Check whether that provision conflicts with a California statute, regulation, or controlling case.</li>
+          <li>A Public Adjuster or insurance coverage attorney can evaluate the conflict.</li>
+          <li>A written response identifying the conflict puts the dispute on the record &mdash; and often prompts a higher-level review.</li>
         </ol>
       </CalloutBox>
 

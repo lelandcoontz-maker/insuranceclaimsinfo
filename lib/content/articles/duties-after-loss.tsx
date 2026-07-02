@@ -127,7 +127,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Your policy requires you to notify the insurance company of a loss &ldquo;as soon as
         practicable&rdquo; or &ldquo;promptly.&rdquo; This does not mean you must call within minutes
-        of discovering damage, but you should not wait weeks or months without good reason.
+        of discovering damage, but waiting weeks or months without good reason invites a fight.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         What constitutes prompt notice depends on the circumstances. After a catastrophic event (wildfire,
@@ -178,8 +178,7 @@ export default function Content() {
         <strong>Reasonable</strong> means during normal hours, with advance notice, and at times that
         do not unreasonably disrupt your life or business. You are not required to grant unlimited
         access at any hour. You are not required to leave the insurer&apos;s adjuster unsupervised in
-        your home. You are entitled to have your own representative present during inspections &mdash;
-        including a{' '}
+        your home. An insured may have their own representative present during inspections &mdash; a{' '}
         <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
           Public Adjuster
         </Link>{' '}
@@ -189,8 +188,8 @@ export default function Content() {
         If the insurer requests multiple inspections, you must generally cooperate, but repeated
         inspections that serve no new investigative purpose &mdash; particularly after the insurer has
         already inspected and documented the damage &mdash; may be unreasonable. If you believe
-        inspection requests are being used as a delay tactic, document each request, comply, and raise
-        the issue in writing.
+        inspection requests are being used as a delay tactic, documenting each request, complying, and
+        raising the issue in writing preserves the record.
       </p>
 
       {/* ── DUTY TO PROVIDE DOCUMENTATION ── */}
@@ -249,8 +248,8 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Insurer-requested proof of loss:</strong> The insurance company formally demands a
-          signed, sworn proof of loss. When this happens, you should comply &mdash; it is a legitimate
-          contractual request.
+          signed, sworn proof of loss. When this happens, compliance is generally the sound course &mdash;
+          the policy gives the insurer the right to ask.
         </li>
         <li>
           <strong>Voluntary (strategic) proof of loss:</strong> An insured may submit a sworn proof
@@ -270,9 +269,10 @@ export default function Content() {
       <CalloutBox variant="warning" title="The Proof of Loss Is a Sworn Document">
         <p>
           Because a proof of loss is signed under oath, the information you provide carries legal weight.
-          Inaccuracies &mdash; even innocent ones &mdash; can be used against you later. Be accurate and
-          thorough. Do not guess at dollar amounts. If your claim is still being evaluated or you do not
-          yet have final numbers, state that explicitly. If you are unsure how to complete the form, get
+          Inaccuracies &mdash; even innocent ones &mdash; can be used against you later. Accuracy matters
+          more than speed on a sworn document. Estimated figures marked as estimates, and open items
+          identified as still being evaluated, protect the insured; guessed dollar amounts presented as
+          final do the opposite. If you are unsure how to complete the form, get
           help from a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
             Public Adjuster
@@ -286,15 +286,16 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California law treats the proof of loss as a procedural requirement, not a condition precedent to
-        recovery. California courts have consistently held that failure to submit a proof of loss does not
-        bar a claim unless the insurer can demonstrate <strong>actual prejudice</strong> from the failure.
+        recovery. California&apos;s notice-prejudice rule points the same direction: a missed or imperfect
+        proof of loss generally does not bar a claim unless the insurer can
+        demonstrate <strong>actual prejudice</strong> from the failure.
         The rationale: the proof of loss is meant to give the insurer information about the claim, and if
         the insurer already has that information through its own investigation, the absence of the formal
         document causes no harm.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>However</strong> &mdash; just because California law does not strictly require it does not
-        mean you should ignore the request. Refusing to submit a proof of loss creates unnecessary friction,
+        make ignoring the request a good idea. Refusing to submit a proof of loss creates unnecessary friction,
         can delay payment, and gives the insurer a procedural argument to hide behind. The practical
         reality is that submitting a properly completed proof of loss advances your claim, demonstrates
         good faith, and eliminates one excuse the insurer might use to stall.
@@ -309,6 +310,8 @@ export default function Content() {
         (EUO) &mdash; essentially a recorded, sworn interview conducted by the insurer&apos;s attorney.
         The EUO is more formal than a recorded statement but less formal than a deposition. It is not
         cross-examination in a courtroom, but it is transcribed and your answers are given under oath.
+        Insurance Code &sect; 2071.1 codifies the insured&apos;s rights at an EUO, including the right to
+        have counsel or another representative present and to receive a copy of the transcript.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         EUOs are most commonly demanded when the insurer suspects fraud or material misrepresentation, but
@@ -317,9 +320,9 @@ export default function Content() {
         breach of your policy duties.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Important:</strong> You have the right to have your own attorney present at the EUO. For
-        any claim of significant value, or any EUO where fraud is even remotely suspected, having legal
-        representation is essential. See our detailed article on{' '}
+        <strong>Important:</strong> Insurance Code &sect; 2071.1 gives the insured the right to counsel
+        at the EUO &mdash; and on a claim large enough for the carrier to demand one, legal representation
+        is worth its cost. See our detailed article on{' '}
         <Link href="/resources/examination-under-oath" className="text-blue-700 underline hover:text-blue-900">
           examinations under oath
         </Link>{' '}
@@ -347,9 +350,9 @@ export default function Content() {
         <li>Making yourself available on unreasonable timelines or at unreasonable hours</li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Cooperation means participating in the legitimate claims process. You can cooperate fully while
-        simultaneously disputing the insurer&apos;s conclusions, demanding appraisal, or retaining a
-        Public Adjuster or attorney to represent your interests.
+        Cooperation means participating in the legitimate claims process. An insured can cooperate fully
+        while simultaneously disputing the insurer&apos;s conclusions, invoking appraisal, or retaining a
+        Public Adjuster or attorney to represent their interests.
       </p>
 
       {/* ── THE INSURER'S DUTIES ── */}
@@ -367,7 +370,7 @@ export default function Content() {
         <li>Begin investigation within 15 days of receiving notice of the claim (&sect; 2695.5(e))</li>
         <li>Accept or deny coverage within 40 days of receiving your proof of claim (&sect; 2695.7(b))</li>
         <li>Provide a written explanation if they need more time, and follow up every 30 days (&sect; 2695.7(c))</li>
-        <li>Pay undisputed amounts promptly, even if other portions remain in dispute</li>
+        <li>Pay undisputed amounts promptly, even if other portions remain in dispute (&sect; 2695.7(h))</li>
         <li>Not condition payment on a release of other claims</li>
         <li>Not require unnecessary documentation that duplicates what they already have</li>
       </ul>
@@ -375,7 +378,7 @@ export default function Content() {
         When the insurer violates these duties &mdash; by ignoring your claim, delaying investigation,
         or demanding documents as a stall tactic &mdash; they may be in violation of the{' '}
         <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
-          California Fair Claims Settlement Practices Act
+          California Fair Claims Settlement Practices Regulations
         </Link>. Understanding the insurer&apos;s obligations helps you recognize when demands made of you
         are legitimate versus when they are being used as delay tactics.
       </p>
@@ -483,9 +486,10 @@ export default function Content() {
         The Right Approach
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Comply promptly with all legitimate requests. Respond in writing. Meet deadlines or request
-        extensions before they pass. But do so with awareness &mdash; understand what you are required
-        to provide versus what the insurer is <em>hoping</em> you will provide. Where a request seems
+        Prompt compliance with legitimate requests, responses in writing, and extension requests made
+        before deadlines pass &mdash; not after &mdash; are what keep a file clean. But compliance works
+        best with awareness of what is actually required versus what the insurer is <em>hoping</em> the
+        insured will provide. Where a request seems
         unusually broad, invasive, or unrelated to the claim, an insured may request clarification in
         writing (for example, asking how the request relates to the loss). Outright refusal carries
         risk &mdash; carriers sometimes characterize narrowing as non-cooperation, so the question of
@@ -499,29 +503,30 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>Report promptly.</strong> Call your insurance company as soon as you discover the loss.
-          Follow up in writing (email) to create a date-stamped paper trail. Note the claim number and
-          the name of every person you speak with.
+          <strong>Report promptly.</strong> Calling the insurance company as soon as reasonably possible,
+          then following up in writing (email), creates a date-stamped paper trail. The claim number and
+          the name of every person spoken with belong in that record.
         </li>
         <li>
-          <strong>Document everything before cleanup.</strong> Take photos and video of all damage before
-          any cleanup or emergency repairs begin. Walk through every affected area systematically. These
-          photos are your evidence &mdash; you cannot recreate the scene later.
+          <strong>Document everything before cleanup.</strong> Photos and video of the damage, from every
+          angle and every affected area, before any cleanup or emergency repairs begin, are the evidence
+          &mdash; the scene cannot be recreated later.
         </li>
         <li>
-          <strong>Keep receipts for all mitigation expenses.</strong> Emergency tarping, board-up, water
-          extraction, generator rental, temporary housing &mdash; save every receipt. These are
-          reimbursable.
+          <strong>Keep receipts.</strong> Every mitigation expense &mdash; emergency tarping, board-up,
+          water extraction, generator rental &mdash; is potentially reimbursable, and the receipt is the
+          proof. Temporary-housing costs belong under Additional Living Expense coverage, a separate
+          coverage with its own rules.
         </li>
         <li>
-          <strong>Respond to requests in writing.</strong> When the insurer asks for documents or
-          information, respond by email and keep copies of everything you send. Never rely solely on
-          verbal communication.
+          <strong>Respond to requests in writing.</strong> Written responses with copies kept beat verbal
+          communication every time &mdash; a phone call proves nothing later.
         </li>
         <li>
-          <strong>Meet deadlines or request extensions before they pass.</strong> If the policy specifies
-          a timeframe for submitting a proof of loss or other documents, meet it. If you need more time,
-          request an extension in writing <em>before</em> the deadline &mdash; not after.
+          <strong>Meet deadlines or request extensions before they pass.</strong> Where the policy
+          specifies a timeframe for submitting a proof of loss or other documents, meeting it &mdash; or
+          requesting an extension in writing <em>before</em> the deadline, not after &mdash; leaves the
+          insurer nothing to point at.
         </li>
         <li>
           <strong>Be cautious with blanket authorizations.</strong> Carriers commonly ask for a
@@ -541,20 +546,21 @@ export default function Content() {
         </li>
         <li>
           <strong>Separate damaged from undamaged property.</strong> For contents claims, physically
-          separate items that are damaged from those that are not. This prevents the insurer from arguing
-          that you failed to mitigate by allowing cross-contamination.
+          separating damaged items from undamaged ones heads off any argument that cross-contamination
+          was a failure to mitigate.
         </li>
         <li>
           <strong>Do not dispose of damaged items until released.</strong> The insurer has the right to
           inspect damaged property and may have{' '}
           <Link href="/resources/salvage-rights" className="text-blue-700 underline hover:text-blue-900">
             salvage rights
-          </Link>. Do not throw away damaged items unless the insurer has inspected them and confirmed
-          they can be disposed of, or unless they constitute a health hazard that requires immediate removal.
+          </Link>. Disposing of damaged items before the insurer has inspected and released them invites
+          a dispute &mdash; the safer course is to wait, unless the items are a health hazard requiring
+          immediate removal.
         </li>
         <li>
-          <strong>Get help if you need it.</strong> If you are unsure how to complete a proof of loss,
-          respond to an EUO demand, or handle an unreasonable request, consult with a{' '}
+          <strong>Get help if you need it.</strong> An insured unsure how to complete a proof of loss,
+          respond to an EUO demand, or handle an unreasonable request can consult a{' '}
           <Link href="/resources/public-adjuster" className="text-blue-700 underline hover:text-blue-900">
             Public Adjuster
           </Link>{' '}
@@ -574,8 +580,8 @@ export default function Content() {
         <li>
           <strong>Demanding a proof of loss with an impossible deadline</strong> &mdash; requesting a
           fully documented, sworn proof of loss within 30 days on a complex commercial loss where the
-          scope is still being determined. If the deadline is unreasonable, request an extension in
-          writing immediately.
+          scope is still being determined. Where the deadline is unreasonable, an immediate extension
+          request in writing is the counter.
         </li>
         <li>
           <strong>Repeated inspection demands</strong> &mdash; requesting a third, fourth, or fifth
@@ -585,7 +591,7 @@ export default function Content() {
         <li>
           <strong>Broad document demands unrelated to the claim</strong> &mdash; requesting five years
           of bank statements, tax returns, or medical records for a straightforward property damage claim.
-          You are required to cooperate, but you can push back on relevance.
+          Cooperation is required, but relevance is fair ground for pushback.
         </li>
         <li>
           <strong>Claiming &ldquo;failure to mitigate&rdquo; after the fact</strong> &mdash; arguing
@@ -601,12 +607,13 @@ export default function Content() {
 
       <CalloutBox variant="tip" title="Document the Pattern">
         <p>
-          If you believe the insurer is using duty-compliance demands as a delay tactic rather than a
-          legitimate investigation tool, document the pattern. Save every request, every response, and
-          every timeline. This documentation becomes evidence of bad faith if the dispute is not resolved.
+          When duty-compliance demands look like a delay tactic rather than a legitimate investigation
+          tool, documenting the pattern &mdash; every request, every response, every timeline &mdash;
+          builds the record. This documentation is the kind of evidence an attorney can evaluate for bad
+          faith if the dispute escalates.
           See our article on{' '}
           <Link href="/resources/california-fair-claims" className="text-blue-700 underline hover:text-blue-900">
-            the Fair Claims Settlement Practices Act
+            the Fair Claims Settlement Practices Regulations
           </Link>{' '}
           for the regulatory framework that governs insurer conduct.
         </p>
@@ -623,8 +630,8 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Minor procedural breaches</strong> (late proof of loss, missed deadline by days):
-          Generally excused if no prejudice to the insurer. Comply as soon as possible and document the
-          reason for the delay.
+          Generally excused if no prejudice to the insurer. Late compliance, with the reason for the
+          delay documented, contains the damage.
         </li>
         <li>
           <strong>Substantive breaches</strong> (destroying evidence, refusing all inspections, refusing
@@ -633,8 +640,8 @@ export default function Content() {
         </li>
         <li>
           <strong>Fraud or material misrepresentation</strong> (falsifying a proof of loss, inflating
-          values, concealing relevant facts): This is a different category entirely. Intentional
-          misrepresentation in a sworn proof of loss can void the entire policy &mdash; not just the
+          values, concealing relevant facts): This is a different category entirely. Wilful
+          misrepresentation of a material fact in a sworn proof of loss can void the entire policy &mdash; not just the
           claim at issue. This is governed by Insurance Code &sect; 2071 and California&apos;s concealment
           and misrepresentation statutes.
         </li>
