@@ -3,9 +3,9 @@ import Link from 'next/link'
 import { LetterDownloadCard } from '@/components/letters/LetterDownloadCard'
 
 export const metadata: Metadata = {
-  title: 'Template Demand Letters for Insurance Claims | Free Downloads',
+  title: 'Sample Claim Letters for California Insurance Claims | Free Downloads',
   description:
-    'Free template demand letters you can send to your insurance company — citing the exact California regulations. Contractor name demand, labor depreciation challenge, claim file request, and more.',
+    'Free sample claim letters policyholders can adapt and send on their own claims — citing the exact California regulations. Contractor name request, labor depreciation challenge, claim file request, and more.',
   alternates: { canonical: '/letters' },
 }
 
@@ -16,10 +16,10 @@ export const metadata: Metadata = {
 const LETTERS = [
   {
     id: 'contractor-name-demand',
-    title: 'Contractor Name Demand Letter',
+    title: 'Contractor Name Request Letter',
     regulation: '§2695.9(d)(2)',
     description:
-      'The most powerful tool for property policyholders. Demands the insurer name a contractor who will perform the repairs for the amount of their estimate. When they cannot — and they almost never can — their estimate is effectively rebutted.',
+      'The most powerful tool for property policyholders. Asks the insurer to name a contractor who will perform the repairs for the amount of their estimate. When they cannot — and they almost never can — their estimate is effectively rebutted.',
     letterContent: `[Your Name]
 [Your Address]
 [City, State ZIP]
@@ -33,7 +33,7 @@ const LETTERS = [
 Re: Claim Number: [Your Claim Number]
     Policy Number: [Your Policy Number]
     Date of Loss: [Date of Loss]
-    Contractor Name Demand Pursuant to 10 CCR §2695.9(d)(2)
+    Contractor Name Request Pursuant to 10 CCR §2695.9(d)(2)
 
 Dear [Adjuster Name / Claims Department]:
 
@@ -105,7 +105,7 @@ It should be customized to your specific claim. This is not legal advice.
     title: 'Request for All Applicable Coverages',
     regulation: '§2695.4(a)',
     description:
-      'Demands the insurer identify every coverage, benefit, time limit, and policy provision that may apply to your claim. Prevents the insurer from "forgetting" to mention coverages like ordinance or law, extended replacement cost, or debris removal.',
+      'Asks the insurer to identify, in writing, every coverage, benefit, time limit, and policy provision that may apply to your claim. Prevents the insurer from "forgetting" to mention coverages like ordinance or law, extended replacement cost, or debris removal.',
     letterContent: `[Your Name]
 [Your Address]
 [City, State ZIP]
@@ -355,7 +355,7 @@ It should be customized to your specific claim. This is not legal advice.
   },
   {
     id: '30-day-status-demand',
-    title: '30-Day Status Update Demand',
+    title: '30-Day Status Update Letter',
     regulation: '§2695.7(c)',
     description:
       'When the insurer has failed to provide a written status update within 30 days. Each missed update is a separate, documentable violation.',
@@ -416,10 +416,11 @@ export default function LettersPage() {
             Free Tools
           </p>
           <h1 className="text-3xl font-bold mb-3">
-            Template Demand Letters for Insurance Claims
+            Sample Claim Letters for California Insurance Claims
           </h1>
           <p className="text-blue-200 max-w-2xl leading-relaxed">
-            Ready-to-use template letters that cite the exact California regulations your
+            Ready-to-adapt sample letters for policyholders to send on their own claims,
+            citing the exact California regulations the
             insurer must follow. Customize them with your claim details and send. Each letter
             either gets you what you need — or documents a regulatory violation if the insurer
             fails to comply.
@@ -450,7 +451,8 @@ export default function LettersPage() {
             </li>
           </ul>
           <p className="text-xs text-amber-700 mt-3 italic">
-            These templates are provided for educational purposes. They are not legal advice.
+            These are sample letters for policyholders to adapt and send on their own claims.
+            They are not legal demand letters prepared for you, and they are not legal advice.
             For assistance with your specific claim, consult a licensed Public Adjuster or
             attorney.
           </p>

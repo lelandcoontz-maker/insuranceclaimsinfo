@@ -107,6 +107,14 @@ export function ArticleLayout({ title, description, summary, backLink, breadcrum
         </div>
       </div>
 
+      {/* Geographic scope notice */}
+      <div className="bg-blue-50 border-b border-blue-100 py-2 px-4">
+        <p className="max-w-4xl mx-auto text-xs text-blue-900">
+          <strong>California-specific:</strong> This article discusses California law,
+          regulations, and claim practice unless noted otherwise. Rules in other states differ.
+        </p>
+      </div>
+
       {/* Content */}
       <div className="max-w-4xl mx-auto px-4 py-12">
         {toc && toc.length > 0 ? (

@@ -408,8 +408,8 @@ export default function HomePage() {
           Start Documenting Your Claim Today
         </h2>
         <p className="text-gray-600 mb-8 max-w-xl mx-auto">
-          The free inventory tool takes 30–60 minutes and can add thousands of dollars
-          to your claim. Use it now, even if you haven't filed yet.
+          The free inventory tool takes 30–60 minutes and gives your adjuster no excuse
+          to ignore items. Use it now, even if you haven't filed yet.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link href="/inventory" className="btn-primary text-base px-10 py-4">
