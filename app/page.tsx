@@ -384,7 +384,7 @@ export default function HomePage() {
           <div className="md:w-1/3 text-center">
             <div className="bg-white/10 rounded-2xl p-8 border border-white/20">
               <Image
-                src="/images/leland-coontz-headshot.png"
+                src="/images/leland-coontz-headshot.jpg"
                 alt="Leland Coontz III, California Licensed Public Adjuster"
                 width={120}
                 height={120}

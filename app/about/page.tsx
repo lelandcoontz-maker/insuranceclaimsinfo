@@ -69,7 +69,7 @@ export default function AboutPage() {
       <div className="bg-[#1F3964] text-white py-14 px-4">
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center sm:items-start gap-8">
           <Image
-            src="/images/leland-coontz-headshot.png"
+            src="/images/leland-coontz-headshot.jpg"
             alt="Leland Coontz III, California Licensed Public Adjuster"
             width={112}
             height={112}

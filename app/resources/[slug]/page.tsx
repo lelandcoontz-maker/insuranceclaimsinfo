@@ -74,7 +74,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       authors: ['Leland Coontz III'],
       images: [
         {
-          url: 'https://insuranceclaimsinfo.com/images/leland-coontz-headshot.png',
+          url: 'https://insuranceclaimsinfo.com/images/leland-coontz-headshot.jpg',
           alt: 'Leland Coontz III, California Licensed Public Adjuster (#2B53445)',
         },
       ],
@@ -83,7 +83,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: 'summary',
       title: seoTitle,
       description: seoDescription,
-      images: ['https://insuranceclaimsinfo.com/images/leland-coontz-headshot.png'],
+      images: ['https://insuranceclaimsinfo.com/images/leland-coontz-headshot.jpg'],
     },
     alternates: {
       canonical: url,
@@ -135,12 +135,26 @@ export default async function ResourceArticlePage({ params }: Props) {
           '@type': 'Article',
           headline: title,
           description: meta?.description,
+          image: 'https://insuranceclaimsinfo.com/images/leland-coontz-headshot.jpg',
           author: {
             '@type': 'Person',
             name: 'Leland Coontz III',
             jobTitle: 'Licensed Public Adjuster',
+            image: 'https://insuranceclaimsinfo.com/images/leland-coontz-headshot.jpg',
+            identifier: {
+              '@type': 'PropertyValue',
+              propertyID: 'California Department of Insurance License',
+              value: '2B53445',
+            },
             url: 'https://insuranceclaimsinfo.com/about',
             sameAs: 'https://insuranceclaimsinfo.com/about',
+            knowsAbout: [
+              'California Insurance Claims',
+              'Public Adjusting',
+              'Wildfire Insurance Claims',
+              'Smoke Damage Claims',
+              'Property Insurance Appraisal',
+            ],
           },
           publisher: {
             '@type': 'Organization',

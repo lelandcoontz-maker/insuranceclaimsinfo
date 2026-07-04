@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     description: 'Free tools and expert guides for California insurance claimants. Interactive personal property inventory, policy interpretation, claim negotiation strategies, and licensed Public Adjuster services.',
     images: [
       {
-        url: 'https://insuranceclaimsinfo.com/images/leland-coontz-headshot.png',
+        url: 'https://insuranceclaimsinfo.com/images/leland-coontz-headshot.jpg',
         alt: 'Leland Coontz III, California Licensed Public Adjuster (#2B53445)',
       },
     ],
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     card: 'summary',
     title: 'InsuranceClaimsInfo.com — California Insurance Claim Help',
     description: 'Free tools and expert guides for California insurance claimants.',
-    images: ['https://insuranceclaimsinfo.com/images/leland-coontz-headshot.png'],
+    images: ['https://insuranceclaimsinfo.com/images/leland-coontz-headshot.jpg'],
   },
 }
 
