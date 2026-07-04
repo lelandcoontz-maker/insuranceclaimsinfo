@@ -35,11 +35,11 @@ export default function Content() {
         <p>
           California Insurance Code &sect; 2071 was amended to extend the suit-limitation
           period from 12 months to <strong>24 months from the inception of the loss</strong>{' '}
-          for residential losses related to a declared state of emergency as defined in
+          for losses related to a declared state of emergency as defined in
           Government Code &sect; 8558(b). The 24-month extension is built into &sect; 2071
-          itself and applies to policies covering loss or damage to residential property; it is
+          itself and turns on the emergency declaration, not the property type; it is
           not a generic rule for all losses. This longer window applies to most wildfire,
-          earthquake, and other declared-disaster residential claims. Equitable tolling under
+          earthquake, and other declared-disaster claims. Equitable tolling under
           the case law discussed below still applies on top of the statutory deadline, but the
           underlying period an insured is working from is 24 months rather than 12 in
           state-of-emergency cases. Whether a specific loss falls within the 24-month rule
@@ -69,7 +69,7 @@ export default function Content() {
       <CalloutBox variant="important" title="Do Not Assume You Know Your Deadline">
         <p>
           The rules around equitable tolling are fact-specific and legally complex. This article
-          provides a general overview, but you might never assume you know your exact deadline
+          provides a general overview, but no one should assume they know their exact deadline
           without consulting an attorney. Missing the statute of limitations means losing your
           right to sue — permanently. When in doubt, consult a lawyer well in advance of any
           potential deadline.
@@ -236,7 +236,7 @@ export default function Content() {
           </em>
         </li>
         <li>
-          <strong>Equitable tolling does NOT extend through appraisal.</strong> Although no
+          <strong>Do not count on appraisal to toll the deadline.</strong> Although no
           California Supreme Court decision is squarely on point, the published Court of Appeal
           authority &mdash; <em>Singh</em>, <em>Marselis</em>, and{' '}
           <em>Doheny Park Terrace Homeowners Assn. v. Truck Ins. Exchange</em> (2005) 132
@@ -711,9 +711,11 @@ export default function Content() {
         Edge Case 5: Asking the Insurer How Much Time You Have Left
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California law gives unrepresented policyholders a useful tool: you can ask the
-        insurance company how much time you have left on your statute of limitations, and they
-        are <strong>required to answer</strong>.
+        California law gives unrepresented policyholders a useful tool: an insured can ask the
+        insurance company in writing how much time is left on the suit limitation, and the
+        insurer <strong>must respond</strong> &mdash; 10 CCR &sect; 2695.5(b) requires a
+        response to claimant communications within 15 calendar days, and &sect; 2695.7(f)
+        independently requires notice of the deadline at least 60 days before it expires.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under 10 CCR &sect; 2695.7(f), every insurer must provide written notice of any
@@ -740,8 +742,9 @@ export default function Content() {
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
           If you are considering hiring an attorney but have not yet done so, you might
           consider sending a written request to the insurer asking for a clear statement of
-          when your statute of limitations expires. Under 10 CCR &sect; 2695.7(f), they must
-          answer you as an unrepresented claimant.
+          when the suit limitation expires. Under 10 CCR &sect; 2695.5(b), the insurer must
+          respond to the communication, and &sect; 2695.7(f) separately requires deadline
+          notice to unrepresented claimants.
         </p>
         <p className="text-gray-700 text-sm leading-relaxed mb-3">
           The insurer&rsquo;s written response creates a record of what <em>they</em> believe
@@ -864,8 +867,8 @@ export default function Content() {
         <p>
           Always use the conservative approach: assume that time ran during any period the
           claim was closed, and calculate your remaining time accordingly. If you have an
-          attorney who tells you the clock resets on reopening, ask them which case supports
-          that position. The safer assumption &mdash; the one that will not get your case
+          attorney who says the clock resets on reopening, it is fair to ask what authority
+          supports that position. The safer assumption &mdash; the one that will not get your case
           thrown out on a motion for summary judgment &mdash; is that time elapsed and you
           have less time than you think.
         </p>
@@ -878,12 +881,11 @@ export default function Content() {
         While the standard California fire policy under Insurance Code &sect; 2071 provides a
         one-year suit limitation, many homeowners policies actually provide{' '}
         <strong>two years</strong> from the date of loss. This is common in broader-form HO-3
-        and HO-5 policies. Also, under the current version of &sect; 2071, a{' '}
-        <strong>residential</strong> loss related to a &ldquo;state of emergency&rdquo; as
+        and HO-5 policies. Also, under the current version of &sect; 2071, a loss related to a &ldquo;state of emergency&rdquo; as
         defined in Government Code &sect; 8558(b) &mdash; which includes conditions of
         disaster or extreme peril caused by fire &mdash; automatically receives a 24-month
-        limitation period. The 24-month extension is built into &sect; 2071 itself and applies
-        to policies covering loss or damage to residential property; it is not a generic rule
+        limitation period. The 24-month extension is built into &sect; 2071 itself and turns on
+        the emergency declaration; it is not a generic rule
         for all losses.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -1076,7 +1078,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Check whether your policy gives one year or two.</strong> Many policies
-          provide two years, and <strong>residential</strong> losses related to a declared
+          provide two years, and losses related to a declared
           state of emergency get 24 months under the current Insurance Code &sect; 2071. More
           time is better, but equitable tolling still applies either way.
         </li>

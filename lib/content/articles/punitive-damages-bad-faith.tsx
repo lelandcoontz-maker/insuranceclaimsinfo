@@ -51,7 +51,7 @@ export default function Content() {
           Punitive damages in California insurance bad faith cases require proof by clear and
           convincing evidence that the insurer acted with malice, oppression, or fraud under
           Civil Code section 3294. The conduct must be &ldquo;despicable&rdquo; &mdash; not
-          merely unreasonable, but willful, conscious, and egregious. You must also show that
+          merely unreasonable, but willful, conscious, and egregious. The insured must also show that
           an officer, director, or managing agent of the insurer authorized or ratified the
           conduct. While punitive damages are rarely awarded at trial, a viable punitive damages
           claim creates enormous settlement leverage because the potential exposure dwarfs the
@@ -292,9 +292,10 @@ export default function Content() {
           <strong>Systematic denial patterns:</strong> Institutionalized practices designed
           to underpay or deny claims as a matter of corporate policy, rather than based on
           individual claim evaluation. <em>Mock v. Michigan Millers Mutual Insurance
-          Co.</em> (1992) 4 Cal.App.4th 306 stands for the proposition that established
-          institutional claims-handling policies or practices harmful to insureds significantly
-          increase the likelihood of a punitive damages award.
+          Co.</em> (1992) 4 Cal.App.4th 306 noted in dicta that established
+          institutional claims-handling practices harmful to insureds create a &ldquo;greater
+          chance&rdquo; of punitive damages &mdash; though on its own facts the court found no
+          such practice and reversed the punitive award.
         </li>
         <li>
           <strong>Ignoring evidence that supports the claim:</strong> Selectively relying on
@@ -373,6 +374,9 @@ export default function Content() {
           net worth, because a punitive damages award must be large enough to &ldquo;sting&rdquo;
           a defendant of the company&rsquo;s size. A $1 million award would be devastating
           to a small company but meaningless to a major insurer with billions in assets.
+          The ceiling, though, is constitutional: under <em>State Farm v. Campbell</em>, a
+          defendant&rsquo;s wealth cannot justify an award that is otherwise unconstitutional
+          under the ratio guideposts discussed below.
         </li>
         <li>
           <strong>The relationship between the compensatory and punitive damages</strong>{' '}
@@ -505,16 +509,20 @@ export default function Content() {
         condition the ultimate payment. The jury found that Michigan Millers breached the
         covenant of good faith and fair dealing and violated provisions of Insurance Code
         section 790.03(h). The jury found malice and awarded both compensatory and punitive
-        damages.
+        damages. On appeal, however, the Court of Appeal <strong>reversed</strong> &mdash; it
+        sent both the compensatory amount and the punitive award back for a new trial, and it
+        found no evidence of an established insurer practice of ignoring claims on those facts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>Mock</em> is significant for several reasons. First, it addressed the definition
+        <em>Mock</em> is still significant for several reasons. First, it addressed the definition
         of &ldquo;despicable conduct&rdquo; as it relates to malice under the post-1987
         version of Civil Code section 3294, helping to clarify the heightened standard the
-        Legislature had imposed. Second, it stands for the principle that established
+        Legislature had imposed. Second, its dicta recognize that established
         policies or practices in claims handling that are harmful to insureds create a
-        &ldquo;greater chance for an award of punitive damages&rdquo; &mdash; reinforcing
-        that institutional bad faith is more damning than individual error.
+        &ldquo;greater chance for an award of punitive damages&rdquo; &mdash; the reason
+        institutional-practice evidence matters, even though <em>Mock</em> itself found none
+        and reversed. The lesson cuts both ways: the pattern evidence is what separates a
+        punitive case from a compensatory one.
       </p>
 
       {/* ── Practical Reality ────────────────────────────────────── */}
@@ -774,8 +782,9 @@ export default function Content() {
         <li>
           <em>Mock v. Michigan Millers Mutual Insurance Co.</em> (1992) 4 Cal.App.4th 306
           &mdash; Addressed &ldquo;despicable conduct&rdquo; standard under post-1987
-          Civil Code section 3294; recognized heightened punitive damages risk where
-          institutional claims-handling practices are harmful to insureds
+          Civil Code section 3294; dicta recognize heightened punitive risk from harmful
+          institutional claims practices, though the court reversed the punitive award and
+          found no such practice on its facts
         </li>
         <li>
           <em>BMW of North America, Inc. v. Gore</em> (1996) 517 U.S. 559 &mdash; U.S.
@@ -806,12 +815,11 @@ export default function Content() {
         </li>
         <li>
           <em>Jordan v. Allstate Insurance Co.</em> (2007) 148 Cal.App.4th 1062 &mdash;
-          Addressed the interaction between <em>Moradi-Shalal</em> and Business &amp;
-          Professions Code &sect; 17200; held that a Unfair Competition Law claim cannot be
-          based solely on alleged Insurance Code &sect; 790.03(h) violations, so policyholders
-          cannot bootstrap UIPA violations into a UCL claim to avoid the
-          no-private-right-of-action rule. Relevant to bad-faith pleading strategy, not
-          directly to the failure-to-investigate standard
+          Failure-to-investigate case and a policyholder win: the Court of Appeal reversed
+          summary adjudication for Allstate, holding that a reasonable position on one
+          coverage (a dry-rot exclusion) does not excuse the insurer from investigating other
+          potentially applicable coverages (collapse). Directly relevant to the
+          duty-to-investigate predicate for bad faith
         </li>
       </ul>
 

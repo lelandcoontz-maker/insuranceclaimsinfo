@@ -125,7 +125,8 @@ export default function Content() {
         waiver and estoppel doctrine, an insurer that continues investigating and adjusting a claim
         without reserving its rights can be deemed to have <strong>waived</strong> those coverage
         defenses permanently. The landmark case is <em>Miller v. Elite Insurance Co.</em> (1980)
-        113 Cal.App.3d 717, which held that an insurer&rsquo;s conduct in handling a claim
+        100 Cal.App.3d 739 &mdash; a third-party liability case whose waiver principle
+        carries over by analogy &mdash; which held that an insurer&rsquo;s conduct in handling a claim
         &mdash; paying benefits, hiring experts, negotiating &mdash; without reserving the right
         to deny coverage can create a waiver that the insurer cannot later undo. The ROR letter
         exists because without it, the insurer risks losing its ability to raise coverage defenses
@@ -280,9 +281,8 @@ export default function Content() {
         documents the insurer produces. California Insurance Code &sect; 790.03(h)(13) makes it
         an unfair claims practice to fail to provide a &ldquo;reasonable explanation of the basis
         in the insurance policy&rdquo; for a denial. The Fair Claims Settlement Practices
-        Regulations go further: 10 CCR &sect; 2695.7(b)(1) requires the insurer to provide a
-        written denial that includes &ldquo;a reference to the specific policy conditions,
-        provisions, or exclusions&rdquo; on which the denial is based. A verbal denial is not
+        Regulations go further: 10 CCR &sect; 2695.7(b)(1) requires a written denial that lists
+        all bases for the denial and the factual and legal bases for each reason given. A verbal denial is not
         sufficient. A denial that does not cite specific policy language is itself a regulatory
         violation, independent of whether the denial is correct on the merits. The insurer must
         also notify you that you may have the claim reviewed by the California Department of
@@ -439,8 +439,9 @@ export default function Content() {
         preserves the insurer&rsquo;s subrogation rights, and virtually every homeowner and
         commercial policy contains a subrogation clause requiring the policyholder not to
         &ldquo;impair&rdquo; those rights. The insurer sends this notice to protect its recovery
-        interest. Under California Insurance Code &sect; 2415, an insurer that pays a claim is
-        subrogated to the insured&rsquo;s rights against the responsible third party. But if
+        interest. Under the policy&apos;s subrogation clause and California common law, an insurer that
+        pays a claim is subrogated to the insured&rsquo;s rights against the responsible third
+        party. But if
         the policyholder settles with the third party, releases them, or destroys evidence
         before the insurer can act, the insurer&rsquo;s subrogation right is impaired &mdash;
         and the policy may allow the insurer to recover the claim payment from you. The
@@ -570,9 +571,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Why this letter exists:</strong> The payment explanation is <strong>required by
-        California regulation</strong>. Under 10 CCR &sect; 2695.7(d), when a claim is settled
-        the insurer must provide, upon request, &ldquo;the basis for the settlement amount&rdquo;
-        including the calculations used. In practice, most insurers include a payment breakdown
+        California law</strong>. Insurance Code &sect; 790.03(h)(13) makes it an unfair practice
+        to fail to provide a reasonable explanation of the basis relied on for a compromise
+        settlement offer, and 10 CCR &sect; 2695.9(d) requires the insurer to supply a written
+        scope and estimate on property claims. In practice, most insurers include a payment breakdown
         with every payment check rather than waiting for a request, because failing to explain
         the basis for a payment is one of the most commonly cited violations in CDI complaints
         and bad faith lawsuits. The payment letter also protects the insurer by documenting its
@@ -582,7 +584,7 @@ export default function Content() {
         </Link>{' '}
         or litigation, the insurer will point to this letter as evidence that its payment was
         based on a specific, documented calculation rather than an arbitrary number. California
-        Insurance Code &sect; 790.03(h)(5) also makes it an unfair practice to fail to affirm
+        Insurance Code &sect; 790.03(h)(4) also makes it an unfair practice to fail to affirm
         or deny coverage within a reasonable time &mdash; the payment letter, by showing the
         math, constitutes the insurer&rsquo;s affirmation of coverage for the paid amounts.
       </p>
@@ -607,8 +609,9 @@ export default function Content() {
         depreciation percentages are reasonable and whether labor was improperly depreciated.
         Check whether sublimits were applied that reduce coverage for specific categories. If
         the payment is less than what you expected, request a copy of the full estimate and
-        supporting documentation. Under 10 CCR &sect; 2695.7(d), the insurer must provide
-        the basis for the claim settlement upon request.
+        supporting documentation. Insurance Code &sect; 790.03(h)(13) requires a reasonable
+        explanation of the basis for the settlement, and 10 CCR &sect; 2695.9(d) requires the
+        written scope and estimate behind it.
       </p>
 
       {/* ───────── SECTION: HOW TO READ ALL LETTERS ───────── */}

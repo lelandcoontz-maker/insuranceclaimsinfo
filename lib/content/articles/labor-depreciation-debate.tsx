@@ -29,11 +29,12 @@ export default function Content() {
         materials themselves. A growing number of courts and regulators across the country have
         examined that premise and found it to be exactly what common sense suggests &mdash;
         a logical impossibility. In California, the question has been definitively resolved by
-        the legislature: depreciating labor is prohibited by both statute and regulation.
+        regulation: the Department of Insurance&apos;s Fair Claims regulations prohibit
+        depreciating labor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This article examines labor depreciation in depth: the fundamental question of whether
-        services can depreciate, California&apos;s statutory and regulatory prohibition, the
+        services can depreciate, California&apos;s regulatory prohibition, the
         out-of-state case law that converged on the same answer, the industry arguments for and
         against, the real-dollar impact on policyholders, how Xactimate handles labor
         depreciation behind the scenes, and what an insured can do to challenge it.
@@ -254,9 +255,9 @@ export default function Content() {
         Among states whose courts or regulators have published opinions or guidance limiting
         labor depreciation, the analytical thread is consistent: depreciation is a measure
         of physical wear on tangible property, and labor &mdash; the service of installing
-        materials &mdash; does not lend itself to that measure. California&rsquo;s statutory
+        materials &mdash; does not lend itself to that measure. California&rsquo;s
         regulatory prohibition (10 CCR
-        &sect; 2695.9(f)(1)) reflect that same reasoning, codified directly rather than
+        &sect; 2695.9(f)(1)) reflects that same reasoning, codified directly rather than
         left to case-by-case interpretation.
       </p>
 
@@ -313,7 +314,7 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        California&apos;s Position: Prohibited by Both Statute and Regulation
+        California&apos;s Position: Prohibited by Regulation
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California addresses labor depreciation through a Fair Claims Settlement Practices
@@ -898,7 +899,7 @@ export default function Content() {
         challenge labor depreciation in California or any other state that has not issued a
         definitive ruling, you are not making a novel or untested argument. You are aligning
         with the clear direction of the law and asking your state to reach the same conclusion
-        that a growing majority of states have already reached.
+        that a growing number of states have already reached.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -1037,9 +1038,9 @@ export default function Content() {
           depreciated independently.
         </li>
         <li>
-          <strong>National authority:</strong> A growing majority of states that have
-          addressed the question have prohibited labor depreciation. The national trend is
-          clear and accelerating.
+          <strong>National authority:</strong> A growing number of states that have
+          addressed the question have prohibited labor depreciation, though others permit
+          it &mdash; the trend favors policyholders, but it is a trend, not unanimity.
         </li>
         <li>
           <strong>Contract interpretation:</strong> The policy does not specifically authorize
@@ -1069,14 +1070,14 @@ export default function Content() {
         expressly prohibits depreciating labor on a covered-property valuation (against the
         statutory ACV framework at Cal. Ins. Code &sect; 2051(b)), and
         carriers have limited room to argue a contrary &ldquo;reasonable interpretation&rdquo;
-        of the unambiguous statutory text (recognizing the narrow &ldquo;intrinsic labor in
+        of the unambiguous regulatory text (recognizing the narrow &ldquo;intrinsic labor in
         manufactured materials&rdquo; carve-out discussed earlier in this article). The
         dollar amounts at stake on a single claim often run $5,000 to $15,000 or more, and
         on a class basis the exposure can be much larger.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Labor depreciation can serve as an independent basis for a bad faith claim when the
-        carrier applies it in the face of clear statutory and regulatory text. It can also be
+        carrier applies it in the face of clear regulatory text. It can also be
         incorporated into broader claims involving{' '}
         <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
           excessive depreciation
@@ -1118,7 +1119,7 @@ export default function Content() {
         </Link>
         . Calculate the dollar impact. And make the challenge in writing, with the verbatim
         statutory and regulatory text quoted &mdash; labor does not wear out, the California
-        legislature has said so, and the carrier is required to follow that rule.
+        Fair Claims regulations say so, and the carrier is required to follow that rule.
       </p>
 
       <hr className="my-8 border-gray-300" />

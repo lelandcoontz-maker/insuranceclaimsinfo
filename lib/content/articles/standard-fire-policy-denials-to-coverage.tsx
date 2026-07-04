@@ -33,8 +33,9 @@ export default function Content() {
         functions as a regulatory floor: insurance companies can offer more coverage than the
         Standard Fire Policy provides, but they cannot offer less. When the actual language in
         your policy deviates from the Standard Fire Policy in a way that is less favorable to
-        you, the Standard Fire Policy language controls &mdash; and the insurer&rsquo;s version
-        is void and unenforceable.
+        you, the Standard Fire Policy language controls &mdash; and courts in Standard Fire
+        Policy states have held the insurer&rsquo;s less-favorable version void and
+        unenforceable.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The deviations are often subtle &mdash; and potentially case-changing. A single word. A slight rewording. The drafters
@@ -87,9 +88,9 @@ export default function Content() {
         fire coverage is governed by statute. The legislature has prescribed specific language
         &mdash; the 165-line Standard Fire Policy &mdash; that defines the minimum terms under
         which fire losses must be covered. An insurer can offer more generous fire coverage than
-        the Standard Fire Policy provides, but it cannot offer less. Any provision in the actual
-        policy that restricts fire coverage below the statutory floor is void and unenforceable,
-        regardless of how clearly it is written.
+        the Standard Fire Policy provides, but it cannot offer less. A provision in the actual
+        policy that restricts fire coverage below the statutory floor is unenforceable to that
+        extent, no matter how clearly it is written.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This means that for perils like water damage, mold, or earth movement, an insurer&rsquo;s
@@ -524,9 +525,9 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Courts in at least thirteen states &mdash; Arizona, California, Georgia, Idaho, Illinois,
-        Iowa, Louisiana, Massachusetts, Michigan, Minnesota, Nebraska, New York, and West
-        Virginia &mdash; have now reached the same conclusion: when the actual policy uses
+        Courts in at least a dozen states &mdash; Arizona, California, Georgia, Idaho, Illinois,
+        Iowa, Louisiana, Massachusetts, Michigan, Minnesota, New York, and West
+        Virginia among them &mdash; have reached the same conclusion: when the actual policy uses
         &ldquo;an insured&rdquo; or &ldquo;any insured&rdquo; where the Standard Fire Policy
         uses &ldquo;the insured,&rdquo; the Standard Fire Policy controls.
       </p>
@@ -702,9 +703,12 @@ export default function Content() {
         microscopic level can meet the threshold.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The FAIR Plan&rsquo;s restrictive definitions were invalidated. The insurer&rsquo;s
-        attempt to narrow the definition of smoke damage was, in effect, an attempt to narrow
-        fire coverage &mdash; and the Standard Fire Policy does not permit that.
+        The FAIR Plan&rsquo;s restrictive definitions were invalidated as to the parties before
+        the court. A Superior Court order is not binding statewide precedent &mdash; other
+        policyholders may have to make the same argument in their own disputes &mdash; but the
+        reasoning is the Standard Fire Policy&rsquo;s: an attempt to narrow the definition of
+        smoke damage is an attempt to narrow fire coverage, and the standard form does not
+        permit that.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For external analysis of the <em>Aliff</em> decision, see{' '}
@@ -740,7 +744,8 @@ export default function Content() {
         The insured recovered full replacement cost despite missing Allstate&rsquo;s deadline.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <em>2017 IL App (1st) 161498-U.</em>{' '}
+        <em>2017 IL App (1st) 161498-U</em> (a nonprecedential Rule 23 order, citable for its
+        reasoning rather than as binding authority).{' '}
         <a
           href="https://www.propertyinsurancecoveragelaw.com/blog/allstates-180-day-dwelling-replacement-requirement-trumped-by-the-illinois-standard-fire-policy/"
           target="_blank"
@@ -769,8 +774,9 @@ export default function Content() {
         policy less favorable to the insured than the Standard Fire Policy.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This is a broad and powerful principle: for fire losses, the only exclusions that are
-        enforceable are those found in, or consistent with, the Standard Fire Policy itself.
+        This is a broad and powerful principle: for fire losses, exclusions must be consistent
+        with the Standard Fire Policy&rsquo;s coverage floor &mdash; though as <em>Julian</em>{' '}
+        itself shows, an exclusion aimed at a genuinely distinct peril can survive that test.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>35 Cal.4th 747, 110 P.3d 903 (2005).</em>
@@ -790,8 +796,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This principle &mdash; that the cause of the fire is irrelevant to coverage &mdash; has
-        been applied or recognized in at least 16 states, including California, Illinois, and
-        New York. An insurer cannot exclude fire coverage based on the event that triggered the
+        been applied or recognized in numerous Standard Fire Policy states, including
+        California, Illinois, and New York. An insurer cannot exclude fire coverage based on the event that triggered the
         fire.
       </p>
 
@@ -872,10 +878,11 @@ export default function Content() {
         Standard Fire Policy prevails.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        For anyone whose fire claim has been denied in a state that has adopted the Standard
-        Fire Policy, the denial letter may not be the final answer. The actual policy language
-        that seems to support the denial may itself be unenforceable &mdash; superseded by a
-        statutory standard that the insurer&rsquo;s own policy is required to meet.
+        For a policyholder whose fire claim has been denied in a state that has adopted the
+        Standard Fire Policy, the denial letter may not be the final answer. The policy
+        language that seems to support the denial may itself be vulnerable &mdash; measured
+        against a statutory standard the insurer&rsquo;s own policy is required to meet &mdash;
+        and that is a question worth putting to a coverage attorney.
       </p>
 
       {/* ── Not the Only Way ───────────────────────────────────────── */}
@@ -911,7 +918,8 @@ export default function Content() {
         States That Have Adopted the Standard Fire Policy
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Courts have confirmed Standard Fire Policy protections in the following states (this
+        Standard Fire Policy statutes are on the books &mdash; and in many of these states,
+        courts have applied them as coverage floors &mdash; in the following states (this
         list is not exhaustive):
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
