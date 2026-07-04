@@ -161,11 +161,12 @@ export default function Content() {
         </p>
         <p className="mt-2">
           What survives <em>Egan</em> as binding precedent is the{' '}
-          <strong>managing-agent analysis</strong> &mdash; the legal holding that employees who
-          dispose of insureds&rsquo; claims with broad discretion qualify as managing agents
-          under Civil Code &sect; 3294(b). Subsequent California decisions, including{' '}
-          <em>White v. Ultramar</em> (1999) 21 Cal.4th 563, have built on <em>Egan</em>&rsquo;s
-          discretion-focused approach while refining the test. The dollar amount of the jury
+          <strong>managing-agent analysis</strong> &mdash; the holding that employees who
+          dispose of insureds&rsquo; claims with broad discretion can expose the corporation to
+          punitive damages. One caution on chronology: <em>Egan</em> (1979) predates the 1980
+          amendment that added subdivision (b) to section 3294, so <em>Egan</em> applied the
+          common-law managerial-capacity standard that the Legislature later codified &mdash;
+          and that <em>White v. Ultramar</em> (1999) 21 Cal.4th 563 subsequently narrowed. The dollar amount of the jury
           verdict, by contrast, is not precedent for any particular punitive damages ceiling.
         </p>
       </CalloutBox>
@@ -240,7 +241,9 @@ export default function Content() {
         <li>
           <strong>Claims supervisors with settlement authority</strong> who have the
           discretionary power to approve or deny claims, set reserves, and authorize settlement
-          offers without requiring approval from superiors.
+          offers without requiring approval from superiors &mdash; though under <em>White</em>{' '}
+          and <em>Cruz</em>, settlement authority alone does not establish the policy-level
+          discretion the statute requires.
         </li>
         <li>
           <strong>Special investigation unit (SIU) managers</strong> who exercise independent
@@ -627,8 +630,9 @@ export default function Content() {
         <em>who established those procedures?</em> If the procedures themselves are unreasonable
         &mdash; if they systematically lead to underpayment or denial of valid claims &mdash;
         then the managing agents who designed and implemented those procedures may bear punitive
-        damages liability. A claims-handling system designed to produce unfair outcomes is the
-        corporate policy, and the people who designed it are the managing agents.
+        damages liability. The argument: a claims-handling system designed to produce unfair
+        outcomes is itself corporate policy, and a court could find that the people who
+        designed it are the managing agents.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Conversely, if the adjuster deviated from reasonable procedures to deny a claim, the

@@ -24,9 +24,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you have ever wondered how an insurance company can deny or underpay a clearly
         legitimate claim and face no consequences, the answer is almost always the same: the
-        genuine dispute doctrine. This single legal defense has allowed insurers to avoid{' '}
+        genuine dispute doctrine. This single legal defense has allowed insurers, case after
+        case, to avoid{' '}
         <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">bad faith</Link>{' '}
-        liability on thousands of claims in California, and carriers have become extraordinarily
+        liability in California, and carriers have become extraordinarily
         skilled at engineering the conditions needed to invoke it. Understanding this doctrine
         &mdash; its origins, its boundaries, and the strategies that defeat it &mdash; is
         essential for any policyholder who believes their insurer has acted unreasonably.
@@ -95,13 +96,16 @@ export default function Content() {
         Origins: How the Doctrine Developed
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The genuine dispute doctrine did not emerge from a single case. It developed through a
-        line of California appellate decisions, starting with the foundational bad faith framework
-        in <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 9 Cal.3d 566, which recognized the
-        implied covenant of good faith and fair dealing in insurance contracts. The seminal bad
-        faith decision in{' '}
-        <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809 then established that
-        insurers have an affirmative duty to thoroughly investigate claims before denying them.
+        The genuine dispute doctrine did not emerge from a single case &mdash; and it did not
+        even start in California&rsquo;s own courts. The label traces to a FEDERAL decision,{' '}
+        <em>Safeco Ins. Co. v. Guyton</em> (9th Cir. 1982) 692 F.2d 551, applying California
+        law; California&rsquo;s Courts of Appeal then adopted it, first for genuine legal
+        disputes in <em>Opsal v. United Services Auto. Assn.</em> (1991) 2 Cal.App.4th 1197.
+        The doctrine sits on the foundational bad faith framework
+        of <em>Gruenberg v. Aetna Insurance Co.</em> (1973) 9 Cal.3d 566, which recognized the
+        implied covenant of good faith and fair dealing in insurance contracts, and{' '}
+        <em>Egan v. Mutual of Omaha Insurance Co.</em> (1979) 24 Cal.3d 809, which established
+        insurers&rsquo; affirmative duty to thoroughly investigate claims before denying them.
         But the genuine dispute doctrine as carriers use it today was crystallized by two landmark
         decisions.
       </p>
@@ -130,15 +134,13 @@ export default function Content() {
         resolution on summary judgment:
       </p>
 
-      <CalloutBox variant="legal" title="Chateau Chamberay — Examples of Conduct That Can Defeat the Genuine Dispute Defense (verbatim)">
+      <CalloutBox variant="legal" title="Chateau Chamberay — Conduct That Can Defeat the Genuine Dispute Defense (90 Cal.App.4th at 347)">
         <p className="italic">
-          On the other hand, an insurer is not entitled to judgment as a matter of law where,
-          viewing the facts in the light most favorable to the plaintiff, a jury could conclude
-          that the insurer acted unreasonably. For example, a jury could conclude that an insurer
-          acted unreasonably if it failed to conduct a thorough investigation, or if it: (1)
-          misrepresented the nature of investigatory proceedings; (2) misrepresented the
-          insured&rsquo;s statements; (3) relied on an incomplete investigation; or (4)
-          unreasonably failed to consider the insured&rsquo;s evidence.
+          The court gave examples of circumstances in which the defense fails: where (1) the
+          insurer is guilty of misrepresenting the nature of the investigatory proceedings;
+          (2) the insurer&rsquo;s employees lie during the depositions or to the insured;
+          (3) the insurer dishonestly selected its experts; (4) the insurer&rsquo;s experts
+          were unreasonable; and (5) the insurer failed to conduct a thorough investigation.
         </p>
       </CalloutBox>
 
@@ -155,12 +157,12 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         These passages &mdash; combined with the court&rsquo;s acknowledgment that the list is
         non-exhaustive &mdash; form the framework that plaintiff attorneys use to attack the
-        genuine dispute defense. Subsequent California cases and commentary have added other
-        categories of conduct that defeat the defense (dishonest expert selection, employee
-        dishonesty during depositions, and expert opinions that are themselves unreasonable).
-        Those additional categories are real, but the practitioner should cite them to the cases
-        that actually articulate them, not attribute them to <em>Chateau Chamberay</em>&rsquo;s
-        list.
+        genuine dispute defense. Note that dishonest expert selection, employee dishonesty
+        during depositions, and unreasonable expert opinions are <em>Chateau Chamberay</em>&rsquo;s
+        own enumerated factors &mdash; they come straight from the opinion&rsquo;s list, and can
+        be cited to it directly. <em>Jordan v. Allstate Ins. Co.</em> (2007) 148 Cal.App.4th
+        1062 adds a further limit: a reasonable position on one coverage does not excuse the
+        insurer&rsquo;s failure to investigate other coverages that may apply.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Importantly, <em>Chateau Chamberay</em> extended the doctrine beyond legal questions
@@ -668,8 +670,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         An insurer that cannot articulate the basis for its coverage denial until litigation is
         well underway has a credibility problem. If the carrier waited until a summary judgment
-        motion or a motion in limine to first explain why it denied the claim, that delay can
-        constitute waiver of the genuine dispute defense. The defense requires that the
+        motion or a motion in limine to first explain why it denied the claim, plaintiff
+        attorneys argue that delay undercuts &mdash; and can forfeit &mdash; the genuine dispute
+        defense. The defense requires that the
         insurer&rsquo;s position was reasonable <em>at the time of the coverage decision</em>
         &mdash; not that the insurer&rsquo;s lawyers can construct a reasonable-sounding
         argument years later.

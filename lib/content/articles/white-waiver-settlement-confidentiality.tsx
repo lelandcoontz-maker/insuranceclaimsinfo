@@ -89,8 +89,9 @@ export default function Content() {
         offers to prove liability for the loss being compromised. But the court distinguished between
         using a settlement offer to prove you owe a debt (which is prohibited) and using it to prove
         that the insurer acted in bad faith in how it handled the claim (which is permitted). The
-        court drew on <em>Fletcher v. Western National Life Ins. Co.</em> (1970) 10 Cal.App.3d 376,
-        which had established that settlement communications may be introduced &ldquo;as an
+        court drew on <em>Fletcher v. Western National Life Ins. Co.</em> (1970) 10 Cal.App.3d 376
+        &mdash; describing such communications, in the <em>White</em> court&apos;s phrase, as
+        admissible &ldquo;as an
         instrumentality of the tort&rdquo; &mdash; not as proof of the underlying obligation, but as
         proof of bad faith conduct.
       </p>
@@ -106,7 +107,7 @@ export default function Content() {
         responsibility for obvious coverage failures.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The dissent &mdash; Justices Lucas and Kaus &mdash; warned that this rule would chill
+        The dissent &mdash; authored by Justice Lucas &mdash; warned that this rule would chill
         insurers&rsquo; willingness to make settlement offers, because any offer could later be
         paraded before a jury as evidence of inadequacy. The majority acknowledged this concern but
         concluded that the duty of good faith was more important than the insurer&rsquo;s desire to
@@ -413,9 +414,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Even within settlement discussions that are covered by a White waiver, not everything the
         insurer says is necessarily protected. In <em>Truestone, Inc. v. Simi West Industrial
-        Park</em> (1984) 163 Cal.App.3d 715, the court held that factual statements made within
-        settlement communications may be admissible as <strong>admissions against interest</strong>,
-        independent of the compromise offer itself.
+        Park</em> (1984) 163 Cal.App.3d 715, the court held that statements of a party&apos;s
+        position <strong>not connected with an offer in compromise</strong> may be admissible as
+        admissions, independent of the compromise offer itself &mdash; a narrower opening than
+        a general rule that anything factual said in negotiations comes in, but a real one.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Consider the distinction: if an insurer says &ldquo;we&rsquo;ll offer $80,000 to settle
@@ -435,8 +437,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The White waiver is a creature of California state law, born from a California Supreme Court
         decision interpreting California&rsquo;s Evidence Code. As Kalfen Law Corp has noted, White
-        waivers address only California state law issues and carry <strong>no enforceability in
-        federal court proceedings</strong>. In federal court, the admissibility of settlement
+        waivers are drafted to California state evidence law and <strong>may carry far less weight
+        in federal court proceedings</strong>. In federal court, the admissibility of settlement
         communications is governed by Federal Rule of Evidence 408, which has its own framework and
         exceptions. A White waiver drafted to address California Evidence Code section 1152 may not
         provide the protection the insurer expected if the case ends up in federal court.
@@ -452,10 +454,10 @@ export default function Content() {
         This intersects with another significant development in California insurance law.
         In <em>Bock v. Hansen</em> (2014) 225 Cal.App.4th 215, the California Court of Appeal held
         that insurance adjusters can be <strong>personally sued</strong> for negligent
-        misrepresentation when they falsely characterize coverage to a policyholder. The court found
-        that &ldquo;an insurance company&rsquo;s agents and employees do have a duty to the
-        policyholder and can be held personally liable&rdquo; for independent torts committed during
-        claim handling.
+        misrepresentation when they falsely characterize coverage to a policyholder. The court
+        reasoned that an agent or employee is always liable for his or her own torts &mdash; so
+        an adjuster who commits an independent tort during claim handling can be held personally
+        liable for it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The <em>Bock</em> decision has a direct impact on the White waiver&rsquo;s effectiveness.
@@ -665,12 +667,13 @@ export default function Content() {
         damage at issue.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Evidence Code Section 1152(b)</strong> carves out the insurance bad faith exception.
-        It expressly permits evidence of settlement offers in actions for breach of the covenant of
-        good faith and fair dealing or for violations of Insurance Code section 790.03(h) &mdash; the
-        Unfair Claims Settlement Practices Act. This is the codification of the principle the{' '}
-        <em>White</em> court recognized: that settlement conduct is relevant to how the insurer
-        handled the claim, distinct from whether the insurer is liable on the underlying policy.
+        The bad-faith exception itself comes from <em>White</em>&rsquo;s reading of{' '}
+        <strong>Evidence Code Section 1152</strong> &mdash; settlement conduct is relevant to how
+        the insurer handled the claim, distinct from whether the insurer is liable on the
+        underlying policy. <strong>Section 1152(b)</strong> then adds a reciprocal rule for
+        actions for breach of the implied covenant (including conduct of the kind described in
+        Insurance Code section 790.03(h)): once one side&apos;s offer comes into evidence, the
+        other side&apos;s related offers and counteroffers come in too.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a settlement offer is admitted under the bad faith exception, section 1152(b) also
@@ -713,9 +716,10 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Insurance Code Section 790.03(h)</strong> defines unfair claims settlement practices,
         including failing to attempt in good faith to effectuate prompt, fair, and equitable
-        settlements of claims in which liability has become reasonably clear. This statute provides an
-        independent basis for admitting evidence of settlement conduct, regardless of any White
-        waiver.
+        settlements of claims in which liability has become reasonably clear. There is no private
+        lawsuit under the statute itself (<em>Moradi-Shalal</em>), but the conduct it describes
+        is the same conduct the common-law bad faith claim reaches &mdash; which is why settlement
+        conduct remains relevant evidence in that claim, whatever a White waiver says.
       </p>
 
       {/* ── Practical Guidance ───────────────────────────────────── */}
@@ -828,7 +832,6 @@ export default function Content() {
         <li><em>Truestone, Inc. v. Simi West Industrial Park</em> (1984) 163 Cal.App.3d 715</li>
         <li><em>Volkswagen of America, Inc. v. Superior Court</em> (2006) 139 Cal.App.4th 1481</li>
         <li><em>Wimsatt v. Superior Court</em> (2007) 152 Cal.App.4th 137</li>
-        <li><em>Cassel v. Superior Court</em> (2011) 51 Cal.4th 113</li>
         <li><em>Foxgate Homeowners&rsquo; Ass&rsquo;n v. Bramalea California, Inc.</em> (2001) 26 Cal.4th 1</li>
         <li><em>Bock v. Hansen</em> (2014) 225 Cal.App.4th 215</li>
         <li><em>Odorizzi v. Bloomfield School District</em> (1966) 246 Cal.App.2d 123</li>

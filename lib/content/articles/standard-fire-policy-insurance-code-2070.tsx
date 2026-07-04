@@ -116,8 +116,9 @@ export default function Content() {
         loss falls within the coverage still depends on the policy terms, the cause of the damage,
         applicable exclusions, and proof.
         When an insurer tries to carve out subcategories of fire damage &mdash; as the California
-        FAIR Plan attempted with its restrictive smoke damage definition &mdash; courts have found
-        that such carve-outs violate the breadth of coverage the standard form requires.
+        FAIR Plan attempted with its restrictive smoke damage definition &mdash; that carve-out
+        can fail the standard form&apos;s breadth-of-coverage requirement: a Los Angeles Superior
+        Court held exactly that in the <em>Aliff</em> ruling discussed later in this article.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Second, the insuring clause also covers loss &ldquo;by removal from premises endangered by
@@ -757,7 +758,9 @@ export default function Content() {
         below what the standard form provides, the restriction may be unenforceable. The
         statutory framework operates asymmetrically: insurers may provide more than the standard
         form, but not less. Many plaintiff attorneys describe this as a one-directional protection.
-        Insurers can add to it but cannot take away from it.
+        Insurers can add to it but cannot take away from it &mdash; though as <em>Julian v.
+        Hartford</em> shows, an exclusion aimed at a genuinely distinct peril can survive the
+        comparison.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -774,8 +777,9 @@ export default function Content() {
         In practice, however, courts have been skeptical of insurers who argue that reduced
         protection in one area is offset by broader protection in another when the specific
         provision at issue directly limits fire coverage. The leading example is the &ldquo;any
-        insured&rdquo; versus &ldquo;the insured&rdquo; distinction discussed above: California
-        courts have repeatedly held that using &ldquo;any insured&rdquo; in an intentional acts
+        insured&rdquo; versus &ldquo;the insured&rdquo; distinction discussed above: the California
+        Supreme Court held in <em>Century-National v. Garcia</em> that using &ldquo;any
+        insured&rdquo; in an intentional acts
         exclusion for fire losses provides coverage less favorable than the standard form, even
         though the HO-3 provides broader coverage in many other respects.
       </p>
@@ -809,19 +813,22 @@ export default function Content() {
         The Deviation Is Unenforceable
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The most common remedy is straightforward: if a policy provision provides less coverage
-        than the standard form, the provision is unenforceable, and the standard form&rsquo;s
-        more protective language controls. Courts do not reform the entire policy &mdash; they
-        simply refuse to enforce the specific provision that violates the statutory floor.
+        The usual remedy is straightforward: where a policy provision provides less coverage
+        than the standard form, courts refuse to enforce that specific provision, and the
+        standard form&rsquo;s more protective language controls &mdash; they do not reform the
+        entire policy. The comparison is holistic, and (per <em>Julian</em>) an exclusion
+        targeting a genuinely distinct peril can pass it.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s controlling Supreme Court precedent on what counts as
         &ldquo;direct physical loss or damage&rdquo; is{' '}
         <em>Another Planet Entertainment, LLC v. Vigilant Insurance Co.</em> (2024) 15
-        Cal.5th 1106, which held that the phrase requires a &ldquo;distinct, demonstrable,
-        physical alteration&rdquo; of the property but does <strong>not</strong> require
-        permanence, and does not require that the alteration be visible to the naked eye.
-        Microscopic or laboratory-detectable alterations can satisfy the standard.
+        Cal.5th 1106 &mdash; a COVID business-interruption case the INSURER won (the Court held
+        pandemic-related loss of use was not physical loss). What matters here is the standard
+        it announced: &ldquo;direct physical loss&rdquo; requires a distinct, demonstrable
+        physical alteration of the property, but the alteration need not be permanent and need
+        not be visible to the naked eye. That is the standard Judge Rice applied in{' '}
+        <em>Aliff</em> to hold that microscopic smoke alteration can qualify.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <em>Another Planet</em> was applied to the FAIR Plan&apos;s post-2017 policy language in

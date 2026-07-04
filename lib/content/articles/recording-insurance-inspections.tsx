@@ -414,8 +414,8 @@ export default function Content() {
         on video. And because the recording was running as the adjuster walked past the sign,
         the footage itself proves the sign was posted and visible. Any one of these layers might
         be sufficient on its own. All five together make the recording protected several times
-        over. The question of whether this recording was legally made is, for all practical
-        purposes, not a close call.
+        over. Taken together, they put the recording on the strongest legal footing available
+        under the statute.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -505,9 +505,10 @@ export default function Content() {
           </li>
           <li>
             Recording a telephone call with the adjuster without informing them. Penal Code
-            &sect; 632 applies squarely to telephone conversations, and there is no ambiguity
-            about the expectation of privacy on a phone call where the caller has not been told
-            the call is being recorded.
+            &sect; 632 applies to confidential telephone conversations &mdash; and &sect; 632.7
+            separately requires all-party consent for calls involving a cellular or cordless
+            phone, without any confidentiality element. A phone call where the caller has not
+            been told the call is being recorded is the classic violation scenario.
           </li>
         </ul>
       </div>
@@ -536,9 +537,9 @@ export default function Content() {
         California courts have recognized that consent under &sect; 632 can be{' '}
         <strong>implied by conduct</strong>. If a person is aware that they are being recorded
         and continues the conversation without objection, their continued participation may
-        constitute implied consent. This principle is supported by <em>People v.
-        Amsbaugh</em>, 246 Cal.App.2d 742 (1966), and is consistent with the objective test
-        established in <em>Flanagan</em>.
+        constitute implied consent. That reading is consistent with the objective test
+        established in <em>Flanagan</em>, though how much conduct it takes to imply consent
+        is fact-specific &mdash; which is why the clear on-camera announcement matters.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Applied to insurance inspections: if you are openly holding a smartphone in an obviously
@@ -580,7 +581,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The layered defense described in Section IV is designed to answer this question
         definitively. If you sent written notice, posted signs, made a verbal announcement, and
-        captured express consent on camera, the recording was legal to make. Period.
+        captured express consent on camera, the recording stands on solid legal ground &mdash;
+        every element the statute cares about is documented.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -679,9 +681,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Contemporaneous notes are written records made at or near the time an event occurred.
-        Courts have long recognized contemporaneous notes as reliable evidence under the
-        &ldquo;present recollection recorded&rdquo; and &ldquo;past recollection recorded&rdquo;
-        doctrines (California Evidence Code &sect;&sect; 768, 1237). Notes taken during or
+        Courts have long recognized contemporaneous notes as reliable evidence &mdash; a writing
+        can refresh a witness&apos;s memory (&ldquo;present recollection refreshed,&rdquo;
+        Evidence Code &sect; 771) or come in as &ldquo;past recollection recorded&rdquo;
+        (Evidence Code &sect; 1237). Notes taken during or
         immediately after a conversation, while memory is fresh, carry significantly more weight
         than recollections offered weeks or months later.
       </p>
@@ -927,8 +930,9 @@ export default function Content() {
           taking each photograph &mdash; showing them pointing their camera at specific areas of
           damage, clicking the shutter repeatedly &mdash; you now have a comparison record. You
           know how many photos were actually taken, and you can see what they were photos of.
-          Under California&rsquo;s claim-related documents rule, the insurer is required to
-          provide claim-related documentation to the insured upon request. A video showing that
+          Under Insurance Code &sect; 2071&rsquo;s claim-related documents provisions, the insurer
+          must provide claim-related documentation to the insured within 15 calendar days of a
+          request. A video showing that
           32 photos were taken when only 12 were produced gives you the leverage to demand the
           rest &mdash; and the basis for a{' '}
           <Link href="/resources/bad-faith" className="text-blue-700 underline hover:text-blue-900">

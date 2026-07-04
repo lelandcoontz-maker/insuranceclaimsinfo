@@ -242,8 +242,8 @@ export default function Content() {
         Perhaps most importantly, the 790 letter puts the insurer on notice that their conduct is
         being documented and may constitute{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith</Link>.
-        The adjuster who receives this letter knows that it will be read by their supervisor, the
-        claims manager, and potentially the legal department. It changes the dynamic of the claim
+        In our experience, a letter like this gets read above the adjuster&apos;s desk &mdash; by
+        the supervisor, the claims manager, and sometimes the legal department. It changes the dynamic of the claim
         because it signals that the policyholder understands the law and is building a record.
       </p>
 
@@ -276,11 +276,10 @@ export default function Content() {
           anyway &mdash; can be powerful evidence of unreasonableness. An insurer that receives
           a detailed 790 letter identifying specific violations and continues the same conduct
           has a much harder time claiming at deposition or trial that it was acting reasonably.
-          <em>Jordan v. Allstate Ins. Co.</em> (2007) 148 Cal.App.4th 1062, though more often
-          cited for the proposition that <em>Moradi-Shalal</em> does not bar common-law bad
-          faith or UCL claims based on the same conduct that would violate &sect; 790.03(h),
-          is part of the case-law landscape in which a documented record of the carrier&apos;s
-          conduct matters.
+          <em>Jordan v. Allstate Ins. Co.</em> (2007) 148 Cal.App.4th 1062 &mdash; which held that
+          a reasonable position on one coverage does not excuse an insurer&apos;s failure to
+          investigate other potentially applicable coverages &mdash; illustrates why a
+          documented record of the carrier&apos;s conduct matters.
         </li>
         <li>
           <strong>It escalates the claim internally.</strong> A 790 letter typically gets escalated
@@ -289,10 +288,10 @@ export default function Content() {
           may be following a script; the supervisor reading the 790 letter is evaluating exposure.
         </li>
         <li>
-          <strong>Insurance companies track 790 letters.</strong> They take them seriously because
-          they signal potential litigation, potential CDI complaints, and potential bad faith exposure.
-          The insurer&apos;s internal systems flag these letters, and the claim file gets elevated
-          attention.
+          <strong>Insurance companies take 790 letters seriously.</strong> In our experience they
+          signal potential litigation, potential CDI complaints, and potential bad faith exposure
+          &mdash; the kind of letter that gets a claim file elevated attention rather than
+          routine handling.
         </li>
       </ul>
 
@@ -389,8 +388,8 @@ export default function Content() {
         The insurer&apos;s adjuster writes a scope for $35,000. Your contractor&apos;s estimate is
         $95,000. The insurer ignores your contractor&apos;s documentation, refuses to discuss the
         discrepancy, and issues payment based solely on their own estimate. When liability is
-        reasonably clear and the insurer refuses to attempt a fair settlement, that is a violation
-        of subsection (5).
+        reasonably clear and the insurer refuses to attempt a fair settlement, that is exactly
+        the conduct subsection (5) prohibits.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -410,7 +409,8 @@ export default function Content() {
         You submit a contents inventory. The insurer acknowledges receipt. Three weeks later, a new
         adjuster is assigned and asks you to resubmit the same inventory on a different form. Then
         a third request comes for &ldquo;additional documentation&rdquo; that you already provided.
-        This cycle of redundant requests is designed to exhaust you, and it violates the statute.
+        This cycle of redundant requests wears claimants down &mdash; and it is the kind of
+        duplicative-documentation conduct subsection (11) targets.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -436,8 +436,9 @@ export default function Content() {
         <Link href="/resources/overhead-and-profit" className="text-[#2E74B5] hover:underline">
           overhead and profit
         </Link>{' '}
-        is &ldquo;not owed&rdquo; when it clearly is. Any misrepresentation of what your policy
-        says or means is a violation of subsection (1).
+        is &ldquo;not owed&rdquo; when it clearly is. Misrepresenting what the policy
+        says or means is precisely what subsection (1) prohibits &mdash; and done knowingly, or
+        as a matter of practice, it is a statutory violation.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
