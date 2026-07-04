@@ -72,7 +72,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California has the most developed and policyholder-protective efficient proximate
         cause framework of any state. It is grounded in statute, reinforced by decades of
-        Supreme Court decisions, and cannot be overridden by policy language.
+        Supreme Court decisions, and policy language cannot contract around it &mdash; subject to
+        the <em>Julian</em> distinct-peril caveat discussed below.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -93,7 +94,8 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         These provisions make the efficient proximate cause doctrine statutory law in
-        California &mdash; not merely a judicial creation, but a legislative mandate.
+        California &mdash; &sect; 530 supplies the statutory foundation, and the courts built the
+        predominant-cause test on it.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -122,7 +124,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The Court adopted a formulation (quoting 6 Couch, Insurance (1930) &sect; 1466) that has
-        been cited in hundreds of decisions since: &ldquo;[I]n determining whether a loss is
+        been cited again and again in the decades since: &ldquo;[I]n determining whether a loss is
         within an exception in a policy, where there is a concurrence of different causes, the
         efficient cause &mdash; the one that sets others in motion &mdash; is the cause to
         which the loss is to be attributed, though the other causes may follow it, and operate
@@ -569,7 +571,7 @@ export default function Content() {
         entirely.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The response: investigate independently. Retain experts who can identify the full
+        The response: independent investigation &mdash; experts who can identify the full
         causal chain and determine whether a covered peril initiated the sequence.
       </p>
 
@@ -622,7 +624,7 @@ export default function Content() {
         &mdash; without analyzing whether a covered peril set the earth movement in motion.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The response: retain your own expert who addresses the full causal chain and can
+        The response: the insured&apos;s own expert, one who addresses the full causal chain and can
         testify about which cause was predominant.
       </p>
 

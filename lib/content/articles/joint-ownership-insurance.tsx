@@ -362,9 +362,10 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The answer depends on the type of co-ownership and the jurisdiction. California Insurance
-        Code &sect; 281 defines insurable interest broadly as &ldquo;any lawful and substantial
-        economic interest in the safety or preservation of property from loss, destruction, or
-        pecuniary damage.&rdquo; Under this definition:
+        Code &sect; 281 defines insurable interest broadly: &ldquo;Every interest in property, or
+        any relation thereto, or liability in respect thereof, of such a nature that a
+        contemplated peril might directly damnify the insured, is an insurable
+        interest.&rdquo; Under this definition:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -384,10 +385,11 @@ export default function Content() {
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Under California Insurance Code &sect; 281 and its broad definition of insurable interest,
+        Under California Insurance Code &sect; 281 and its broad any-relation-to-the-property
+        definition,
         a co-owner&rsquo;s insurable interest is not necessarily limited to their fractional ownership
         share. A co-owner who resides in the property, pays the mortgage,
-        and maintains the home has a substantial economic interest in the preservation of the
+        and maintains the home can be directly damnified by loss to the
         <em> entire</em> property, not merely their percentage interest. This principle is significant
         for co-owners who are bearing the primary financial responsibility for the property.
       </p>
@@ -483,12 +485,14 @@ export default function Content() {
         The standard ISO HO-3 homeowner&rsquo;s policy includes a severability provision that
         reads, in relevant part:
       </p>
-      <blockquote className="border-l-4 border-[#C9A84C] bg-amber-50 p-4 my-6 text-gray-700 text-sm leading-relaxed italic">
-        &ldquo;This insurance applies separately to each &lsquo;insured.&rsquo; This condition
-        shall not increase our limit of liability for any one &lsquo;occurrence.&rsquo;&rdquo;
-      </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The policy should be read as if each named insured has a separate policy. The acts, omissions, and conduct of one insured are not automatically attributed to
+        On the property side, the analysis turns on whether the policy&apos;s exclusionary
+        language reads &ldquo;the insured&rdquo; or &ldquo;an insured&rdquo; &mdash; and under
+        <em> Century-National v. Garcia</em>, the standard-form statutes protect the innocent
+        insured even against &ldquo;an insured&rdquo; phrasing.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The upshot: the policy is read as if each named insured has separate coverage. The acts, omissions, and conduct of one insured are not automatically attributed to
         the other. If co-owner A commits fraud &mdash; inflating the claim, misrepresenting damage,
         or submitting false documents &mdash; the severability clause means that co-owner B&rsquo;s
         coverage should not be voided by co-owner A&rsquo;s misconduct, provided co-owner B was not
@@ -985,9 +989,10 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>
-          <strong>California Insurance Code &sect; 281:</strong> Defines insurable interest broadly.
-          A co-owner&rsquo;s insurable interest is not necessarily limited to their fractional
-          ownership share. The analysis examines the economic reality of the co-owner&rsquo;s stake.
+          <strong>California Insurance Code &sect; 281:</strong> Defines insurable interest broadly
+          (every interest or relation to property such that a peril might directly damnify the
+          insured). A co-owner&rsquo;s insurable interest is not necessarily limited to their
+          fractional ownership share; the analysis examines the economic reality of the stake.
         </li>
         <li>
           <strong><em>Borman v. State Farm Fire &amp; Casualty Co.</em>, 446 Mich. 482, 521 N.W.2d

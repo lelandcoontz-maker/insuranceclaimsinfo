@@ -41,7 +41,7 @@ export default function Content() {
         An anti-concurrent causation clause is policy language that precedes certain exclusions &mdash; typically earth movement, water damage, neglect, government action, and nuclear hazard &mdash; and broadens them beyond their ordinary scope. Without an ACC clause, an exclusion applies only when the excluded peril is the actual cause of the loss. <em>With</em> an ACC clause, the exclusion applies whenever the excluded peril is involved in the causal chain at all, &ldquo;regardless of any other cause or event contributing concurrently or in any sequence to the loss.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The ACC clause was introduced to standard ISO policy forms in 1986 as a direct response to the &ldquo;concurrent causation&rdquo; doctrine that courts in several states &mdash; including California &mdash; had developed in the 1970s and 1980s. Insurers saw courts ruling that when a covered and excluded peril combined to cause a loss, coverage existed. The ACC clause was designed to contract around those rulings and restore the insurer&rsquo;s ability to deny coverage whenever an excluded peril was even marginally involved.
+        The ACC clause entered the standard ISO policy forms in the mid-1980s as a direct response to the &ldquo;concurrent causation&rdquo; doctrine that courts in several states &mdash; including California &mdash; had developed in the 1970s and 1980s. Insurers saw courts ruling that when a covered and excluded peril combined to cause a loss, coverage existed. The ACC clause was designed to contract around those rulings and restore the insurer&rsquo;s ability to deny coverage whenever an excluded peril was even marginally involved.
       </p>
 
       <CalloutBox variant="important" title="Where You Find ACC Language">
@@ -120,7 +120,7 @@ export default function Content() {
         Policies Without ACC Language: DP-1 and DP-3 Forms
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Not all property insurance policies contain anti-concurrent causation clauses. Two common dwelling fire policy forms &mdash; the DP-1 (Basic Form) and the DP-3 (Special Form) &mdash; do not include ACC language. This is a significant advantage for policyholders insured under these forms. The reason matters.
+        Not all property insurance policies contain anti-concurrent causation clauses. Two common dwelling fire policy forms &mdash; the DP-1 (Basic Form) and, in many versions, the DP-3 (Special Form) &mdash; omit ACC language (always check the specific form and its endorsements). This is a significant advantage for policyholders insured under these forms. The reason matters.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">
@@ -141,7 +141,7 @@ export default function Content() {
         The DP-3 is a special form (open-peril) policy that covers all causes of loss to the dwelling unless a specific exclusion applies. Despite being an open-peril policy like the HO-3, the standard DP-3 form does not contain the anti-concurrent causation language found in HO-3 policies. This means the DP-3 has the broader coverage scope of an open-peril form without the ACC clause that allows insurers to weaponize their exclusions.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, DP-3 policies are sometimes available from surplus lines carriers &mdash; including Lloyd&rsquo;s of London syndicates &mdash; for properties in fire zones where admitted carriers will not write an HO-3. A DP-3 from a surplus lines carrier actually provides a structural advantage over a standard HO-3 in one critical respect: even if the policyholder is in a state that enforces ACC clauses, the DP-3&rsquo;s lack of ACC language means the exclusion stands on its own terms, without the &ldquo;regardless of any other cause&rdquo; broadening effect.
+        In California, DP-3 policies are sometimes available from surplus lines carriers &mdash; including Lloyd&rsquo;s of London syndicates &mdash; for properties in fire zones where admitted carriers will not write an HO-3. A DP-3 from a surplus lines carrier actually provides a structural advantage over a standard HO-3 in one critical respect: even if the policyholder is in a state that enforces ACC clauses, a DP-3 form without ACC language leaves each exclusion standing on its own terms, without the &ldquo;regardless of any other cause&rdquo; broadening effect &mdash; but verify the specific form, because some DP-3 versions and endorsements do carry a concurrent-causation lead-in.
       </p>
 
       <CalloutBox variant="tip" title="DP-3 vs. HO-3: The Hidden Advantage">
@@ -335,7 +335,7 @@ export default function Content() {
         <Link href="/resources/coverage-disputes" className="text-[#2E74B5] hover:underline">Coverage Disputes</Link>
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If you are a California policyholder and your insurer has denied a claim by citing an exclusion preceded by anti-concurrent causation language, the denial is not necessarily the final word. You should consider:
+        If you are a California policyholder and your insurer has denied a claim by citing an exclusion preceded by anti-concurrent causation language, the denial is not necessarily the final word. You might consider:
       </p>
       <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
         <li>

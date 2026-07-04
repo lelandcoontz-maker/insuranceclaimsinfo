@@ -39,7 +39,7 @@ export default function Content() {
         On a $50,000 repair, O&amp;P adds roughly $10,000 to the claim. On a
         $60,000 repair, the difference is $12,000. On a $150,000 fire loss, it
         is $30,000. This is not a rounding error. It is a substantial portion of
-        your claim, and you are entitled to it whenever a general contractor is
+        your claim, and the case law says it is owed whenever a general contractor is
         reasonably likely to be involved in your repairs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -159,7 +159,7 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Three-Trade Rule: Industry Shorthand for a Legal Standard
+        The Three-Trade Rule: Industry Shorthand &mdash; Not a Legal Standard
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         Ask an insurance adjuster why O&amp;P was excluded from your estimate
@@ -173,7 +173,7 @@ export default function Content() {
         That framing gets the rule exactly backward. The three-trade
         threshold, as understood in the adjusting industry, is a floor for when
         a general contractor is presumptively needed &mdash; not a ceiling. And
-        the rule itself is a practical shorthand for a legal principle that
+        the rule is industry shorthand loosely tracking a legal principle that
         appellate courts across the country have adopted and enforced for
         decades. The principle is straightforward: overhead and profit are owed
         whenever a general contractor is <strong>reasonably likely</strong> to
@@ -522,7 +522,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Seventh Circuit: The Federal Appellate Standard
+        Seventh Circuit (Applying Illinois Law)
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In{' '}
@@ -718,12 +718,13 @@ export default function Content() {
         The substance of the rule &mdash; that when multiple trades are
         required, a general contractor is reasonably likely to be needed, and
         therefore O&amp;P must be paid &mdash; is not an industry invention.
-        It is the holding of <em>Gilderman</em>, <em>Mee</em>,{' '}
+        But the courts did not adopt a trade-count threshold. <em>Gilderman</em>, <em>Mee</em>,{' '}
         <em>Trinidad</em>, <em>Tritschler</em>, <em>Ghoman</em>,{' '}
-        <em>Burgess</em>, <em>Mazzocki</em>, and <em>Windridge</em>. Each of
-        those decisions examined the specific facts before it, and each
-        concluded that the need for multiple trades is strong evidence that
-        general contractor services are reasonably necessary.
+        <em>Burgess</em>, <em>Mazzocki</em>, and <em>Windridge</em> each applied the{' '}
+        <em>reasonably likely</em> standard to its own facts, and each treated the need for
+        multiple trades as strong <em>evidence</em> that
+        general contractor services are reasonably necessary &mdash; evidence, not a threshold.
+        <em>Trinidad</em> said so expressly: no mechanical count of trades decides the question.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Consider how many foundational insurance law concepts exist without
@@ -856,7 +857,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         The key principle running through all of this: O&amp;P is based on
         what is &ldquo;reasonably likely,&rdquo; not what actually happened.
-        The carrier cannot deny O&amp;P because you have not yet hired a GC.
+        Under the reasonably-likely standard, not hiring a GC yet is no basis to deny O&amp;P.
         The carrier cannot deny it because you chose to manage part of the
         project yourself. The estimate reflects what the repairs would cost if
         done properly through normal channels &mdash; and normal channels
@@ -968,7 +969,7 @@ export default function Content() {
           &mdash; it is industry shorthand for a legal standard, not a cap on
           recovery. Supervision is a separate line item, not part of general
           O&amp;P. If your estimate excludes O&amp;P on a multi-trade repair,
-          you are being underpaid, and you have every right to push back.
+          the estimate is short, and pushing back is well grounded.
         </p>
       </CalloutBox>
 

@@ -246,7 +246,9 @@ export default function Content() {
         The Notice of Completion: A Timing Tool for Property Owners
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Property owners have a strategic tool available to them: the <strong>notice of
+        Property owners have a timing tool available to them &mdash; one worth confirming with a
+        construction attorney before using, since recording a statutory instrument has
+        consequences: the <strong>notice of
         completion</strong>. By recording a notice of completion with the county recorder&apos;s
         office within 15 days after the work of improvement is completed (Civil Code &sect; 8182),
         the property owner shortens the time that subcontractors and suppliers have to record a
@@ -510,7 +512,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        The Willful Exaggeration Penalty: Civil Code &sect; 8422
+        Willful Inclusion of Work Never Performed: Civil Code &sect; 8422
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California law takes a hard line on inflated liens. Civil Code &sect; 8422 provides that
@@ -956,7 +958,10 @@ export default function Content() {
           writing and should clearly specify the scope of work, the contract price, the payment
           schedule (tied to milestones or progress), and what happens if insurance payments are
           delayed. A well-drafted contract can include provisions requiring the contractor to
-          wait a reasonable period for insurance payments before exercising lien rights.
+          wait a reasonable period for insurance payments before exercising lien rights &mdash;
+          though statutory lien rights are heavily protected in California (Civ. Code &sect;
+          8122 voids most contractual impairments of lien rights), so any such clause should be
+          drafted by a construction attorney and treated as a cooperation term, not a waiver.
         </li>
         <li>
           <strong>Align the scope with the insurance estimate.</strong> Make sure the contractor&apos;s

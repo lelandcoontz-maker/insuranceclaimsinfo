@@ -90,7 +90,7 @@ export default function Content() {
 
       <CalloutBox variant="important" title="SIU Referral Does Not Mean Fraud">
         <p>
-          An SIU referral is not an accusation of fraud. It is an internal decision by the insurance company to subject the claim to additional investigation. Many &mdash; arguably most &mdash; claims referred to SIU are ultimately paid. The referral itself may reflect nothing more than the claim&apos;s dollar value, the type of loss, or the adjuster&apos;s subjective judgment. Being referred to SIU does not mean you did anything wrong, and it does not mean your claim will be denied.
+          An SIU referral is not an accusation of fraud. It is an internal decision by the insurance company to subject the claim to additional investigation. In our experience, many claims referred to SIU are ultimately paid. The referral itself may reflect nothing more than the claim&apos;s dollar value, the type of loss, or the adjuster&apos;s subjective judgment. Being referred to SIU does not mean you did anything wrong, and it does not mean your claim will be denied.
         </p>
       </CalloutBox>
 
@@ -227,9 +227,10 @@ export default function Content() {
         An SIU investigation is a civil investigation conducted by a private company. It is not a criminal investigation, and the SIU investigator is not a law enforcement officer. The SIU investigator has no authority to arrest, subpoena, compel testimony, or impose legal consequences. The only leverage the insurer has is the threat of denying the claim for breach of the cooperation clause.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        However, California&apos;s SIU framework (CIC &sect;&sect; 1875.20&ndash;1875.24 and
-        10 CCR &sect;&sect; 2698.30&ndash;2698.43) requires insurers to refer suspected
-        fraudulent claims to the California Department of Insurance (CDI) Fraud Division. If the
+        However, Insurance Code &sect; 1872.4 requires insurers to refer suspected
+        fraudulent claims to the California Department of Insurance (CDI) Fraud Division, and
+        the SIU framework (CIC &sect;&sect; 1875.20&ndash;1875.24 and 10 CCR &sect; 2698.30 et
+        seq.) supplies the unit and procedures that carry out that duty. If the
         SIU investigation uncovers what the insurer believes to be evidence of fraud, the
         insurer is required to file a referral with CDI, which may then investigate and refer
         the matter to the local District Attorney for prosecution. This statutory obligation
@@ -305,7 +306,7 @@ export default function Content() {
         and all documents previously submitted to the insurer, and understanding the facts of the loss in detail. An attorney will typically conduct a mock examination to prepare the policyholder for the types of questions that will be asked and to identify potential areas of concern.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The most important preparation advice is simple: tell the truth, answer only the question asked, do not volunteer information, and say &quot;I don&apos;t know&quot; or &quot;I don&apos;t recall&quot; when that is the truthful answer. Guessing, speculating, or providing information beyond what was asked creates unnecessary risk.
+        The preparation fundamentals attorneys teach are simple: tell the truth, answer only the question asked, do not volunteer information, and say &quot;I don&apos;t know&quot; or &quot;I don&apos;t recall&quot; when that is the truthful answer. Guessing, speculating, or providing information beyond what was asked creates unnecessary risk &mdash; and preparing for sworn testimony is exactly what retained counsel is for.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -414,8 +415,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most intimidating aspects of an SIU investigation is the specter of a
-        criminal fraud referral. California&apos;s SIU framework (CIC &sect;&sect;
-        1875.20&ndash;1875.24 and 10 CCR &sect;&sect; 2698.30&ndash;2698.43) requires insurers
+        criminal fraud referral. Insurance Code &sect; 1872.4 requires insurers
         to refer suspected fraudulent claims to the California Department of Insurance Fraud
         Division. Some carriers use this obligation &mdash; explicitly or implicitly &mdash; as
         leverage against policyholders. The message, whether stated outright or communicated
@@ -429,7 +429,7 @@ export default function Content() {
         A fraud referral to CDI is not the same as a criminal charge. It is a report by the insurance company that the company suspects fraud. CDI&apos;s Fraud Division reviews the referral and decides whether to investigate further. If CDI determines that the evidence warrants prosecution, it refers the matter to the local District Attorney, who decides whether to file criminal charges. At every stage of this process, there is a screening function &mdash; most fraud referrals do not result in criminal prosecution.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Insurance fraud is a serious crime in California. California Penal Code &sect; 550 makes it a felony to knowingly present a false or fraudulent claim for insurance benefits. Conviction can result in imprisonment, fines, and restitution. These are real consequences, and any policyholder who has actually committed fraud should retain a criminal defense attorney immediately.
+        Insurance fraud is a serious crime in California. California Penal Code &sect; 550 makes it a crime &mdash; chargeable as a felony in most cases &mdash; to knowingly present a false or fraudulent claim for insurance benefits. Conviction can result in imprisonment, fines, and restitution. These are real consequences, and any policyholder who has actually committed fraud should retain a criminal defense attorney immediately.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         But for most policyholders facing SIU investigations, the fraud referral threat is just that &mdash; a threat. Legitimate claims that are aggressively valued are not fraudulent. Disputes over the scope of damage, the cost of repair, or the interpretation of policy language are not fraud. A policyholder who believes their kitchen sustained $80,000 in damage when the carrier&apos;s adjuster estimates $40,000 has a valuation dispute, not a fraud problem.
@@ -553,7 +553,7 @@ export default function Content() {
         SIU and Statute of Limitations
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Policyholders must be aware that the statute of limitations on their claim continues to run during an SIU investigation. In California, the statute of limitations for breach of an insurance contract is typically measured from the date of the loss or the date of the denial (depending on the circumstances), and it does not toll simply because the carrier has opened an SIU investigation. Carriers that extend investigations for months or years may be running out the clock on the policyholder&apos;s ability to file suit. This is another reason why retaining counsel early in the process is essential.
+        Deadlines still need watching during an SIU investigation &mdash; but California law gives the insured real protection here. Under <em>Prudential-LMI Commercial Ins. v. Superior Court</em> (1990) 51 Cal.3d 674, the standard fire policy&apos;s suit limitation runs from inception of the loss but is equitably tolled from the time the insured gives timely notice until the insurer formally denies the claim in writing &mdash; so an open, undenied SIU investigation generally means the clock is paused, not running. The tolling ends the day the written denial arrives, and calculating exactly how much time remains is precisely the kind of question to put to counsel early.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -566,7 +566,7 @@ export default function Content() {
         Policyholders who believe they are being subjected to an unreasonable SIU investigation can file a complaint with the CDI. While the CDI does not adjudicate individual claims, a complaint creates an official record and may prompt the CDI to review the insurer&apos;s claims handling practices. In some cases, CDI involvement accelerates the resolution of stalled claims.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Also, California Insurance Code &sect; 790.03(h) &mdash; the Unfair Claims Settlement Practices Act &mdash; prohibits a range of unfair practices that may occur in the SIU context, including failing to acknowledge communications promptly, failing to adopt and implement reasonable standards for investigation, and failing to attempt in good faith to effectuate prompt, fair, and equitable settlements of claims in which liability has become reasonably clear. Violations of this statute can support a bad faith cause of action in private litigation.
+        Also, California Insurance Code &sect; 790.03(h) &mdash; the unfair claims settlement practices provision of the Unfair Insurance Practices Act &mdash; prohibits a range of unfair practices that may occur in the SIU context, including failing to acknowledge communications promptly, failing to adopt and implement reasonable standards for investigation, and failing to attempt in good faith to effectuate prompt, fair, and equitable settlements of claims in which liability has become reasonably clear. There is no private lawsuit under the statute itself (<em>Moradi-Shalal</em>), but violations are admissible evidence in a common-law bad faith action.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -586,7 +586,7 @@ export default function Content() {
           <strong>&quot;The SIU investigator is like a police detective.&quot;</strong> The SIU investigator is an employee or contractor of the insurance company. They may have law enforcement experience, but they are not law enforcement officers. They have no authority to arrest, compel testimony, or enforce subpoenas. Their authority extends only as far as the cooperation clause in your policy.
         </li>
         <li>
-          <strong>&quot;I can just wait it out.&quot;</strong> Waiting passively while the SIU investigation grinds on is one of the worst strategies. The statute of limitations continues to run, the insurer&apos;s delay creates financial pressure, and inaction can be characterized as a lack of cooperation. Engage actively, through counsel, and hold the insurer to its regulatory obligations.
+          <strong>&quot;I can just wait it out.&quot;</strong> Waiting passively while the SIU investigation grinds on is one of the worst strategies. The insurer&apos;s delay creates financial pressure, inaction can be characterized as a lack of cooperation, and once a written denial issues the suit-limitation clock restarts. Engage actively, through counsel, and hold the insurer to its regulatory obligations.
         </li>
       </ul>
 

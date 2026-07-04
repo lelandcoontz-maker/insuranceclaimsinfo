@@ -597,21 +597,15 @@ export default function Content() {
         and courts across multiple states have struck it down.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Henrich v. Auto-Owners Insurance Co.</em> (S.D. Iowa):</strong>{' '}
-        Auto-Owners denied a fire claim because the named insured did not personally reside at
-        the insured dwelling &mdash; the insured&rsquo;s son lived there instead. The policy
-        contained a &ldquo;residence restriction&rdquo; requiring the named insured to occupy
-        the premises.
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The court found the residence restriction violated the Iowa Standard Fire Policy. The
-        Standard Fire Policy&rsquo;s vacancy provision only precludes coverage after 60
-        consecutive days of vacancy &mdash; the residence restriction was far broader because it
-        barred coverage even when the property was occupied. The restriction &ldquo;impermissibly
-        broadened the standard form&rsquo;s exclusions.&rdquo;
-      </p>
-      <p className="text-gray-700 leading-relaxed mb-4">
-        The residence restriction was declared unenforceable. Coverage was required.
+        <strong>Iowa &mdash; residence restrictions vs. the Standard Fire Policy:</strong>{' '}
+        Iowa&rsquo;s Standard Fire Policy statute (Iowa Code &sect; 515.109) presents the same
+        conflict pattern: the standard form&rsquo;s vacancy provision precludes coverage only
+        after 60 consecutive days of vacancy, while a &ldquo;residence restriction&rdquo;
+        requiring the named insured personally to occupy the premises bars coverage even when
+        the property is occupied &mdash; by a family member, for example. A restriction that
+        much broader than the standard form&rsquo;s own vacancy terms is exactly the kind of
+        provision the conformity statutes exist to police, as the <em>FBS Mortgage</em>{' '}
+        decision below illustrates on materially identical facts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>FBS Mortgage Corp. v. State Farm Fire and Casualty Co.</em> (N.D. Ill. 1993):</strong>{' '}
@@ -655,7 +649,7 @@ export default function Content() {
         devices such as smoke detectors, sprinklers, or fire alarms.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong><em>Jin Zun Zou v. American Modern Home Insurance Co.</em> (D. Minn.):</strong>{' '}
+        <strong><em>Jin Zun Zou v. American Modern Home Insurance Co.</em> (D. Minn. Feb. 17, 2015):</strong>{' '}
         An accidental fire started in a residence in St. Paul. The insurer denied coverage under
         a Protective Safeguards Endorsement because three non-working smoke alarms were found in
         a closet and the insured had not notified the insurer of their removal.
@@ -1006,7 +1000,6 @@ export default function Content() {
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <em>Henrich v. Auto-Owners Insurance Co.</em> (S.D. Iowa)
         </li>
         <li>
           <em>FBS Mortgage Corp. v. State Farm Fire and Casualty Co.</em>, 833 F. Supp. 688 (N.D. Ill. 1993)
@@ -1024,7 +1017,7 @@ export default function Content() {
       </h3>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
         <li>
-          <em>Jin Zun Zou v. American Modern Home Insurance Co.</em> (D. Minn.)
+          <em>Jin Zun Zou v. American Modern Home Insurance Co.</em> (D. Minn. Feb. 17, 2015)
         </li>
       </ul>
 
