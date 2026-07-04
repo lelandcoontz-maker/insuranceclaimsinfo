@@ -330,7 +330,7 @@ export default function Content() {
         to physically inspect a property &mdash; particularly when the policyholder has requested an
         inspection or when the nature of the damage warrants one &mdash; is the type of conduct that
         may form the basis for a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           CDI complaint
         </Link>. The CDI has the authority to investigate these complaints, contact the insurer, and
         in some cases take enforcement action.
@@ -748,7 +748,7 @@ export default function Content() {
         If the carrier refuses your request for a physical inspection and maintains its desk-adjusted
         estimate despite your documented evidence of additional damage, consider filing a complaint
         with the California Department of Insurance. Your{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           CDI complaint
         </Link>{' '}
         should specifically address:
@@ -892,7 +892,7 @@ export default function Content() {
         <li>
           <strong>Escalate when necessary.</strong> If the carrier refuses to inspect and refuses to
           adjust its estimate to reflect the actual damage, you have options: a{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
             CDI complaint
           </Link>, appraisal (if your policy provides for it), or consultation with an attorney
           experienced in insurance coverage disputes. Do not simply accept an inadequate

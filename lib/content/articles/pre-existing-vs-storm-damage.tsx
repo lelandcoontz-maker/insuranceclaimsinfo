@@ -356,7 +356,7 @@ export default function Content() {
             appraisal process
           </Link>{' '}
           or a{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             CDI complaint
           </Link>{' '}
           may be your next step. For claims involving clear{' '}

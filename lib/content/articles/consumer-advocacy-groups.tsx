@@ -265,7 +265,7 @@ export default function Content() {
         <li>
           <strong>Complaint filing</strong> &mdash; you can file a complaint against your insurer for
           Fair Claims violations (see our{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             CDI complaint guide
           </Link>)
         </li>

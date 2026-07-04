@@ -311,7 +311,7 @@ export default function Content() {
         California courts are generally hostile to interpretations that allow insurers to
         benefit from their own delay or from the consequences of a covered loss. The doctrine
         of{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause
         </Link>{' '}
         holds that when a covered peril sets in motion a chain of events, the resulting losses

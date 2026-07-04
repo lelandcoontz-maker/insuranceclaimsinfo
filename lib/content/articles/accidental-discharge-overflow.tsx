@@ -620,7 +620,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If a carrier fails to comply with these requirements, the policyholder can file a
         complaint with the California Department of Insurance. See{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           How to File a CDI Complaint
         </Link>{' '}
         for a step-by-step guide.

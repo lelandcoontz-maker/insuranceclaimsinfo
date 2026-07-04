@@ -188,7 +188,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The CDI is watching. If your carrier is stonewalling you on smoke damage, file a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
           complaint with the Department of Insurance
         </Link>. Reference Bulletin 2025-7 specifically in your complaint. The Department has said
         it will be &quot;carefully monitoring&quot; how insurers handle these claims, and a
@@ -264,7 +264,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             How to File a CDI Complaint
           </Link>
         </li>

@@ -111,7 +111,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California applies the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause doctrine
         </Link>{' '}
         to determine coverage when a loss involves both covered and excluded perils in a chain

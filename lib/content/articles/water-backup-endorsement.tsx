@@ -506,9 +506,9 @@ export default function Content() {
         sub-limit to costs that should be covered separately. For example, if{' '}
         <Link href="/resources/sewage-contamination-mitigation-failure" className="text-[#2E74B5] hover:underline">sewage contamination</Link>{' '}
         leads to mold growth, the mold remediation may be governed by a separate{' '}
-        <Link href="/resources/mold-coverage-paradox" className="text-[#2E74B5] hover:underline">mold sub-limit</Link>{' '}
+        <Link href="/resources/mold-losses" className="text-[#2E74B5] hover:underline">mold sub-limit</Link>{' '}
         or may be subject to the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">efficient proximate cause</Link>{' '}
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">efficient proximate cause</Link>{' '}
         analysis, not the backup sub-limit. The carrier may try to lump all consequential
         damages under the lowest available sub-limit.
       </p>
@@ -567,7 +567,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under California&rsquo;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">efficient proximate cause</Link>{' '}
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">efficient proximate cause</Link>{' '}
         doctrine &mdash; established in <em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21 and
         confirmed in the first-party context by <em>Garvey v. State Farm Fire &amp; Casualty
         Co.</em> (1989) 48 Cal.3d 395 &mdash; when a covered peril sets in motion a chain of

@@ -32,7 +32,7 @@ export default function Content() {
         The All-or-Nothing Principle
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The legal standard for O&amp;P is a threshold question: is a general contractor &ldquo;reasonably likely&rdquo; to be needed for the repair? (See our article on the <Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">three-trade rule</Link> for the full case law analysis.) Once that threshold is met, the GC manages the <em>entire project</em>. There is no legal authority &mdash; in any jurisdiction &mdash; for applying the &ldquo;reasonably likely&rdquo; test trade-by-trade within a single claim.
+        The legal standard for O&amp;P is a threshold question: is a general contractor &ldquo;reasonably likely&rdquo; to be needed for the repair? (See our article on the <Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">three-trade rule</Link> for the full case law analysis.) Once that threshold is met, the GC manages the <em>entire project</em>. There is no legal authority &mdash; in any jurisdiction &mdash; for applying the &ldquo;reasonably likely&rdquo; test trade-by-trade within a single claim.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Consider what a general contractor actually does. They:
@@ -172,7 +172,7 @@ export default function Content() {
         The O&amp;P Argument for Mitigation Specifically
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Some carriers frame the mitigation O&amp;P issue as though it were about the <Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">three-trade rule</Link>: mitigation is &ldquo;one trade,&rdquo; so no GC coordination is needed. But this fundamentally misunderstands what O&amp;P represents.
+        Some carriers frame the mitigation O&amp;P issue as though it were about the <Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">three-trade rule</Link>: mitigation is &ldquo;one trade,&rdquo; so no GC coordination is needed. But this fundamentally misunderstands what O&amp;P represents.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         A restoration company performing water mitigation has:
@@ -218,7 +218,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">Overhead &amp; Profit: When Your Claim Should Include O&amp;P</Link></li>
-        <li><Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
+        <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
         <li><Link href="/resources/op-depreciation-california" className="text-[#2E74B5] underline">Can California Insurers Depreciate O&amp;P? No &mdash; Here&rsquo;s Why</Link></li>
         <li><Link href="/resources/xactimate-not-the-law" className="text-[#2E74B5] underline">Xactimate Is Not the Law</Link></li>
         <li><Link href="/resources/esx-file-rights-xactimate" className="text-[#2E74B5] underline">ESX File Rights: Getting the Native Xactimate File</Link></li>

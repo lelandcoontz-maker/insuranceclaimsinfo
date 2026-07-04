@@ -421,7 +421,7 @@ export default function Content() {
           <strong>Consider filing a complaint with the California Department of Insurance</strong>{' '}
           if the insurer refuses to include legally required compliance costs. Omitting mandatory
           safety measures from an estimate is a form of claim underpayment. See our{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             CDI complaint guide
           </Link>.
         </li>

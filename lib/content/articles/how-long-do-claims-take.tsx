@@ -320,7 +320,7 @@ export default function Content() {
             bad faith
           </Link>{' '}
           action or{' '}
-          <Link href="/resources/cdi-complaint" className="underline font-semibold">
+          <Link href="/resources/file-cdi-complaint-guide" className="underline font-semibold">
             CDI complaint
           </Link>.
         </p>
@@ -354,7 +354,7 @@ export default function Content() {
           <strong>CDI enforcement:</strong> The California Department of Insurance can
           investigate individual complaints and conduct market conduct examinations of insurers
           with patterns of delay. Filing a{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
             CDI complaint
           </Link>{' '}
           creates an official record and may prompt the insurer to act.
@@ -401,7 +401,7 @@ export default function Content() {
         <li>
           <strong>File a CDI complaint.</strong> If regulatory deadlines have been violated and
           the insurer is not responding to written requests, filing a complaint with the{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
             California Department of Insurance
           </Link>{' '}
           creates an official record and often prompts action.

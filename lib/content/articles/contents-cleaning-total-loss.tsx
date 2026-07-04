@@ -258,7 +258,7 @@ export default function Content() {
         classified as total loss because mold hyphae penetrate into the material itself. Cleaning
         the surface does not eliminate the mold that has grown into fabric fibers, foam padding,
         or wood grain. For a detailed discussion of{' '}
-        <Link href="/resources/mold-coverage-paradox" className="text-blue-700 underline">
+        <Link href="/resources/mold-losses" className="text-blue-700 underline">
           mold coverage issues
         </Link>
         , see our dedicated article.

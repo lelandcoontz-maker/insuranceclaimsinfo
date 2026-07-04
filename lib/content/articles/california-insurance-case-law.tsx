@@ -869,7 +869,7 @@ export default function Content() {
         cannot reduce contents to actual cash value using age-only schedules. For a fuller
         analysis of how this fits into the California depreciation framework, see our
         article on{' '}
-        <Link href="/resources/broad-evidence-rule-acv" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           how depreciation is calculated under California law
         </Link>
         .
@@ -976,7 +976,7 @@ export default function Content() {
           &mdash; How the appraisal process works from start to finish.
         </li>
         <li>
-          <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+          <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
             How and When to Invoke Appraisal: A Practitioner&rsquo;s Guide
           </Link>{' '}
           &mdash; Step-by-step guidance on demanding appraisal, panel roles, causation issues,

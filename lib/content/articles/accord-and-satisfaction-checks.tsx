@@ -427,7 +427,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/white-waiver" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/white-waiver-settlement-confidentiality" className="text-blue-700 underline hover:text-blue-900">
             The White Waiver: California&apos;s Settlement-Privilege Waiver
           </Link>
         </li>

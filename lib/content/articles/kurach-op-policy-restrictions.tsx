@@ -254,7 +254,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">Overhead &amp; Profit: When Your Claim Should Include O&amp;P</Link></li>
-        <li><Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
+        <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
         <li><Link href="/resources/50-state-op-map" className="text-[#2E74B5] underline">50-State Overhead &amp; Profit Map: Where the Law Stands</Link></li>
         <li><Link href="/resources/loss-settlement-provisions" className="text-[#2E74B5] underline">Loss Settlement Provisions</Link></li>
         <li><Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">ACV vs. RCV: Actual vs. Replacement Cost Value</Link></li>

@@ -252,7 +252,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Filing a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           CDI complaint
         </Link>{' '}
         serves several purposes:

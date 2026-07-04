@@ -178,7 +178,7 @@ export default function Content() {
         <li><strong>Identify the O&amp;P depreciation.</strong> Look for depreciation applied to &ldquo;GC O&amp;P,&rdquo; &ldquo;overhead,&rdquo; &ldquo;profit,&rdquo; &ldquo;contractor supervision,&rdquo; or &ldquo;general conditions.&rdquo; In Xactimate, this may appear as depreciation applied to the entire estimate total (which includes O&amp;P) rather than to individual material line items.</li>
         <li><strong>Cite the statute.</strong> In your response to the insurer, quote Section 2051(b) and explain that O&amp;P is not a &ldquo;component of a structure normally subject to repair and replacement.&rdquo; Cite 10 CCR 2695.9(f)(1)&rsquo;s prohibition on labor depreciation and explain that O&amp;P is analytically identical to labor: a service cost, not a physical thing.</li>
         <li><strong>Calculate the dollar impact.</strong> If the carrier applied 30% depreciation to the entire estimate including $20,000 in O&amp;P, that is $6,000 improperly withheld. Quantify the overcharge.</li>
-        <li><strong>File a <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">CDI complaint</Link> if the carrier refuses to correct it.</strong> Depreciating O&amp;P violates the Fair Claims Settlement Practices Regulations.</li>
+        <li><strong>File a <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">CDI complaint</Link> if the carrier refuses to correct it.</strong> Depreciating O&amp;P violates the Fair Claims Settlement Practices Regulations.</li>
         <li><strong>Consult an <Link href="/resources/when-to-hire-attorney" className="text-[#2E74B5] underline">attorney</Link>.</strong> If the dollar amount is significant, this may support a bad faith claim &mdash; particularly if the carrier&rsquo;s practice is systematic rather than a one-off error.</li>
       </ol>
 
@@ -197,9 +197,9 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">Overhead &amp; Profit: When Your Claim Should Include O&amp;P</Link></li>
-        <li><Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
+        <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
         <li><Link href="/resources/selective-op-denial" className="text-[#2E74B5] underline">Selective O&amp;P Denial: When Carriers Pay It on Some Trades But Not Others</Link></li>
-        <li><Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">Labor Depreciation: Why California Bars It</Link></li>
+        <li><Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] underline">Labor Depreciation: Why California Bars It</Link></li>
         <li><Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">ACV vs. RCV: Actual vs. Replacement Cost Value</Link></li>
         <li><Link href="/resources/california-fair-claims" className="text-[#2E74B5] underline">California Fair Claims Settlement Practices Regulations</Link></li>
       </ul>

@@ -145,7 +145,7 @@ export default function Content() {
           If your insurer denies a claim by characterizing the loss as gradual or wear-related, check your policy for an ensuing loss or &ldquo;resulting loss&rdquo; provision. Under California law, this provision can preserve coverage for the <em>resulting</em> damage even when the initial cause is excluded. For more on how this works, see our article on{' '}
           <Link href="/resources/exclusions" className="text-[#2E74B5] underline">policy exclusions</Link>{' '}
           and the{' '}
-          <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">efficient proximate cause doctrine</Link>.
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">efficient proximate cause doctrine</Link>.
         </p>
       </CalloutBox>
 
@@ -277,7 +277,7 @@ export default function Content() {
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
           <strong>Efficient proximate cause:</strong> When a loss involves multiple causes &mdash; some covered, some excluded &mdash; California&rsquo;s{' '}
-          <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">efficient proximate cause doctrine</Link>{' '}
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">efficient proximate cause doctrine</Link>{' '}
           determines coverage based on the predominant cause. A carrier cannot use the fortuity doctrine to avoid analyzing the causal chain.
         </li>
         <li>

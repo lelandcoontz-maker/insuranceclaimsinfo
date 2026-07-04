@@ -413,7 +413,7 @@ export default function Content() {
         and mold remediation. For a deeper understanding of{' '}
         <Link href="/resources/mold-losses" className="text-[#2E74B5] hover:underline">mold losses</Link>{' '}
         and the{' '}
-        <Link href="/resources/mold-coverage-paradox" className="text-[#2E74B5] hover:underline">mold coverage paradox</Link>,
+        <Link href="/resources/mold-losses" className="text-[#2E74B5] hover:underline">mold coverage paradox</Link>,
         see our companion articles on those topics.
       </p>
 
@@ -599,7 +599,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California policyholders have a powerful additional argument that policyholders in
         many other states do not. Under California&rsquo;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">efficient proximate cause</Link>{' '}
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">efficient proximate cause</Link>{' '}
         doctrine, when a covered peril is the predominant or &ldquo;efficient&rdquo; cause
         of the loss, the entire loss is covered &mdash; even if an excluded or sub-limited
         peril contributed to the damage.

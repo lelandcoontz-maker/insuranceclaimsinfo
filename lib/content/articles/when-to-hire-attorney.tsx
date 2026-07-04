@@ -174,7 +174,7 @@ export default function Content() {
         <li>
           <strong>There is a coverage dispute</strong> where the carrier is invoking an
           exclusion and you believe coverage exists &mdash; for example, disputes involving{' '}
-          <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
             efficient proximate cause
           </Link>,{' '}
           <Link href="/resources/ensuing-loss" className="text-blue-700 underline hover:text-blue-900">
@@ -293,7 +293,7 @@ export default function Content() {
         does on every claim. Most licensed Public Adjusters have the Xactimate expertise, the
         construction knowledge, and the claims experience to prepare competent evidence and serve
         as effective appraisers. See our{' '}
-        <Link href="/resources/appraisal-practitioner-guide" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
           practitioner&rsquo;s guide to appraisal
         </Link>{' '}
         for a detailed discussion of the process.
@@ -386,7 +386,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Serve as the policyholder&rsquo;s appraiser</strong> in an{' '}
-          <Link href="/resources/appraisal-practitioner-guide" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/appraisal" className="text-blue-700 underline hover:text-blue-900">
             appraisal proceeding
           </Link>. PAs regularly serve as appraisers under the policy&rsquo;s appraisal clause,
           preparing the competent evidence and loss valuation that drives the award.

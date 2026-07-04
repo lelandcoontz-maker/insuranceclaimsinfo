@@ -195,7 +195,7 @@ export default function Content() {
         10 CCR &sect; 2695.9(f)(1) (and inconsistent with &sect; 2051(b)&rsquo;s
         depreciation framework). For a deeper discussion, see our
         article on{' '}
-        <Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">
+        <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] underline">
           labor depreciation
         </Link>.
       </p>
@@ -711,7 +711,7 @@ export default function Content() {
           When the CDI finds that an insurer has engaged in improper depreciation practices,
           the examination report becomes part of the public record. If your insurer is applying
           depreciation in ways that seem unreasonable, check the CDI&rsquo;s{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             examination reports database
           </Link>{' '}
           to see if the same insurer has been cited for similar violations. A prior CDI finding
@@ -736,7 +736,7 @@ export default function Content() {
           ACV vs. RCV
         </Link>{' '}
         |{' '}
-        <Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">
+        <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] underline">
           Labor Depreciation
         </Link>{' '}
         |{' '}

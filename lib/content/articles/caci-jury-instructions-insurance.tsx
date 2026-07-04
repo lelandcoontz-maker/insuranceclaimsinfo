@@ -254,7 +254,7 @@ export default function Content() {
         This framework matters any time a loss involves multiple causes. Wind (covered) followed by
         rain intrusion through a damaged roof (water damage &mdash; possibly excluded). A pipe
         burst (covered) that over time leads to mold growth (subject to a{' '}
-        <Link href="/resources/mold-coverage-paradox" className="text-[#2E74B5] underline">
+        <Link href="/resources/mold-losses" className="text-[#2E74B5] underline">
           mold sub-limit or exclusion
         </Link>
         ). Fire sprinkler discharge (covered) that leads to secondary contamination. In each
@@ -419,7 +419,7 @@ export default function Content() {
         </Link>{' '}
         and the insurer never told them, that is a failure under CACI 2333. If the insurer denied a
         claim without explaining the policyholder&rsquo;s right to{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           file a CDI complaint
         </Link>{' '}
         or to challenge the denial through dispute resolution, that is a failure under CACI 2333.
@@ -559,7 +559,7 @@ export default function Content() {
         </Link>{' '}
         in a wall and floods the home. The insurer pays for the water damage but denies coverage for
         resulting{' '}
-        <Link href="/resources/mold-coverage-paradox" className="text-[#2E74B5] underline">
+        <Link href="/resources/mold-losses" className="text-[#2E74B5] underline">
           mold
         </Link>{' '}
         growth, claiming the mold exclusion applies. The policyholder argues the pipe burst was the

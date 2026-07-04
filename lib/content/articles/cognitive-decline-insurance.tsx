@@ -1109,7 +1109,7 @@ export default function Content() {
           that the policyholder is an elder with cognitive impairment, that the insurer had
           reason to know of the condition, and that the lapse or cancellation resulted from
           the policyholder&rsquo;s inability to manage their affairs. See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             filing a CDI complaint
           </Link>
           .

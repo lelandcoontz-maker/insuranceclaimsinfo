@@ -443,7 +443,7 @@ export default function Content() {
         <li>
           <strong>To support a CDI complaint:</strong> If the insurer is violating principles
           established in these cases, referencing the court opinion (not the amicus brief) in your{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             CDI complaint
           </Link>{' '}
           strengthens your filing.

@@ -539,7 +539,7 @@ export default function Content() {
         impact is even more dramatic. A $200,000 commercial claim with a 50 percent labor
         component and 30 percent depreciation loses $30,000 solely due to labor depreciation.
         For more on how{' '}
-        <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           depreciation schedules and useful life determinations
         </Link>{' '}
         affect your payout, see our detailed breakdown.
@@ -647,7 +647,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Before you can challenge depreciation, you need to see exactly how it was applied.
         Send a written request to your adjuster asking for a complete{' '}
-        <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           depreciation schedule
         </Link>{' '}
         that shows, for each line item: the useful life assigned, the age used, the depreciation
@@ -983,7 +983,7 @@ export default function Content() {
         This response confuses the rate with the category. The challenge is not that the
         depreciation percentage is too high &mdash; though it often is, as detailed in
         our article on{' '}
-        <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           depreciation schedules and useful life
         </Link>
         . The challenge is that depreciation of any percentage should not be applied to labor
@@ -1079,7 +1079,7 @@ export default function Content() {
         Labor depreciation can serve as an independent basis for a bad faith claim when the
         carrier applies it in the face of clear regulatory text. It can also be
         incorporated into broader claims involving{' '}
-        <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           excessive depreciation
         </Link>
         , unreasonable delay, or other unfair claims practices.

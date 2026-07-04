@@ -232,7 +232,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>The concurrent causation framework.</strong> When a covered peril (fire) and an
         excluded peril (pollution) combine to cause a loss, California uses the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause doctrine
         </Link>{' '}
         to determine coverage. If the covered peril is the efficient proximate cause &mdash;
@@ -520,7 +520,7 @@ export default function Content() {
             commercial endorsements
           </Link>{' '}
           as a package.</strong> Ordinance or law coverage, the pollution exclusion, the{' '}
-          <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
             efficient proximate cause doctrine
           </Link>
           , and your specific policy&rsquo;s manuscript modifications all interact. Review them

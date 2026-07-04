@@ -61,7 +61,7 @@ export default function Content() {
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         This statute means the question in every California claim is the same: <em>what was the proximate, predominating cause of the loss?</em> If a covered peril was the proximate cause, the loss is covered &mdash; even if an excluded peril also contributed. If the excluded peril was the proximate cause and the covered peril was merely a remote cause, the loss is not covered. The California Supreme Court calls this the <strong>efficient proximate cause doctrine</strong>, and it has been the law in California for over sixty years. For a detailed discussion of how this doctrine works, see our companion article on the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">efficient proximate cause doctrine</Link>.
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">efficient proximate cause doctrine</Link>.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">

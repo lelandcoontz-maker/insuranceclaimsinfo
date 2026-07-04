@@ -172,7 +172,7 @@ export default function Content() {
           <strong>File a complaint with the CDI.</strong> The California Department of Insurance
           investigates complaints about unfair claim handling. A CDI complaint puts the insurer on
           notice and creates an official record. See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
         </li>
         <li>
           <strong>Invoke the appraisal clause.</strong> If the dispute is about the <em>amount</em>{' '}

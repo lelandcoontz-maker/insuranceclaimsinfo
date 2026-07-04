@@ -280,7 +280,7 @@ export default function Content() {
         <li>
           <strong>File a CDI complaint.</strong> If you are displaced and the carrier is withholding
           ALE advances despite acknowledging the displacement, this is a{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             CDI-worthy complaint
           </Link>.
         </li>

@@ -195,7 +195,7 @@ export default function Content() {
           <strong>Social media monitoring.</strong> Posts advertising your rental property
           on Instagram, Facebook, or other platforms can be flagged. As discussed in our
           article on{' '}
-          <Link href="/resources/social-media-claims" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/social-media-insurance-claims" className="text-blue-700 underline hover:text-blue-900">
             social media and insurance claims
           </Link>, what you post online can and will be used in the claims process.
         </li>

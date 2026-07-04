@@ -224,7 +224,7 @@ export default function Content() {
         </ul>
         <p className="mb-3">
           You have the right to negotiate, hire representation, demand appraisal, or file a{' '}
-          <Link href="/resources/cdi-complaint" className="underline font-semibold">CDI complaint</Link>{' '}
+          <Link href="/resources/file-cdi-complaint-guide" className="underline font-semibold">CDI complaint</Link>{' '}
           if you believe the insurer is acting in bad faith.
         </p>
         <p className="italic text-sm">

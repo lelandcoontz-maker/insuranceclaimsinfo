@@ -421,7 +421,7 @@ export default function Content() {
         the dynamics, and the carrier&apos;s likely tactics. The appraiser&apos;s
         qualifications matter &mdash; both for the quality of the evaluation and for
         credibility if the matter goes to court. See the{' '}
-        <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+        <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
           appraisal practitioner guide
         </Link>{' '}
         for detailed guidance on the appraiser&apos;s role.
@@ -592,7 +592,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+          <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
             The Appraisal Practitioner Guide
           </Link>
         </li>

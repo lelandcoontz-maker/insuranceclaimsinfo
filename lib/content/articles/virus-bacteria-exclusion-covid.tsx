@@ -292,7 +292,7 @@ export default function Content() {
           <strong>Efficient proximate cause doctrine</strong> &mdash; Under California Insurance
           Code Section 530 and the{' '}
           <Link
-            href="/resources/efficient-proximate-cause"
+            href="/resources/efficient-proximate-cause-doctrine"
             className="text-blue-700 underline hover:text-blue-900"
           >
             efficient proximate cause

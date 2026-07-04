@@ -100,7 +100,7 @@ export default function Content() {
           <dd className="text-gray-700">
             The state agency that regulates insurance companies. An insured may file a
             complaint when they believe an insurer has violated claims-handling regulations.{' '}
-            <Link href="/resources/cdi-complaint" className="text-[#1F3964] underline text-sm">Read more</Link>
+            <Link href="/resources/file-cdi-complaint-guide" className="text-[#1F3964] underline text-sm">Read more</Link>
           </dd>
         </div>
         <div>

@@ -638,7 +638,7 @@ export default function Content() {
         <p>
           If your insurer denies a commercial property claim based on a protective safeguards
           endorsement and the lapsed safeguard had nothing to do with the loss, consider{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline hover:text-blue-900 font-semibold">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline hover:text-blue-900 font-semibold">
             filing a complaint with the California Department of Insurance
           </Link>. The CDI can investigate whether the insurer conducted a reasonable investigation
           and whether the denial complied with the Fair Claims Settlement Practices Regulations.

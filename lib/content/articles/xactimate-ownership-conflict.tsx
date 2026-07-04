@@ -461,7 +461,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/xactimate-overhead-profit" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/overhead-and-profit" className="text-[#2E74B5] hover:underline">
             Xactimate Overhead and Profit
           </Link>
         </li>

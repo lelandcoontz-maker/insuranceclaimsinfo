@@ -145,7 +145,7 @@ export default function Content() {
         <li>
           <strong>If no response within 7 days:</strong> File a complaint with the California
           Department of Insurance (CDI). See{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#1F3964] underline font-medium">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#1F3964] underline font-medium">
             How to File a CDI Complaint
           </Link>.
         </li>

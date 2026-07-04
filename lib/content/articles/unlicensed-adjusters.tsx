@@ -222,7 +222,7 @@ export default function Content() {
           <strong>File a CDI complaint.</strong> Report the use of unlicensed adjusters to the
           California Department of Insurance. While CDI&apos;s enforcement has been inconsistent,
           complaints create a record and can trigger investigation. See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             filing a CDI complaint
           </Link>.
         </li>

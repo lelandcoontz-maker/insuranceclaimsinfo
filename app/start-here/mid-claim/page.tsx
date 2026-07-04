@@ -70,7 +70,7 @@ const sections = [
       { href: '/resources/claim-denied-options', title: 'My Claim Was Denied — What Are My Options?' },
       { href: '/resources/file-cdi-complaint-guide', title: 'How to File a Complaint With the California Department of Insurance' },
       { href: '/resources/appraisal', title: 'Insurance Appraisal in California' },
-      { href: '/resources/bad-faith-explained', title: 'What Is "Bad Faith" and How Do I Know If My Insurer Is Doing It?' },
+      { href: '/resources/bad-faith', title: 'What Is "Bad Faith" and How Do I Know If My Insurer Is Doing It?' },
       { href: '/resources/do-i-need-a-lawyer', title: 'Do I Need a Lawyer for My Insurance Claim?' },
     ],
   },

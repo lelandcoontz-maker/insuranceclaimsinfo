@@ -139,7 +139,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>California</strong> &mdash; California has adopted the NAIC matching language almost verbatim in its Fair Claims Settlement Practices Regulations. 10 CCR &sect; 2695.9(a)(2) provides: &ldquo;When a loss requires replacement of items and the replaced items do not match in quality, color or size, the insurer shall replace all items in the damaged area so as to conform to a reasonably uniform appearance.&rdquo; Note that California&rsquo;s operative phrase is &ldquo;the damaged area,&rdquo; NOT the explicit &ldquo;line of sight&rdquo; language adopted by Iowa and Texas. The contested term in California practice is &ldquo;the damaged area&rdquo; &mdash; carriers typically argue for a narrower scope (immediate area, slope section, single elevation), while policyholders argue for the scope actually required to achieve a reasonably uniform appearance, including, where the facts support it, the line-of-sight scope adopted in other jurisdictions. For a deeper analysis of how California depreciation interacts with matching scope &mdash; including the strong (but not appellate-settled) argument that undamaged items replaced solely for matching should not be depreciated on a replacement-cost policy &mdash; see our article on{' '}
-        <Link href="/resources/broad-evidence-rule-acv" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/acv-rcv" className="text-blue-700 underline hover:text-blue-900">
           how depreciation is calculated under California law
         </Link>
         .

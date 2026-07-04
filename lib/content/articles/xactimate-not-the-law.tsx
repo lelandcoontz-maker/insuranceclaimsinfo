@@ -173,7 +173,7 @@ export default function Content() {
         it was built. If the adjuster selected an outdated price list, used default waste
         factors instead of site-specific ones, omitted applicable line items, or failed
         to include{' '}
-        <Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">
+        <Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">
           overhead and profit
         </Link>, all of that is visible in the ESX file.
       </p>
@@ -264,7 +264,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">Overhead &amp; Profit: When Your Claim Should Include O&amp;P</Link></li>
-        <li><Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
+        <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
         <li><Link href="/resources/how-to-challenge-xactimate-estimate" className="text-[#2E74B5] underline">How to Challenge a Xactimate Estimate</Link></li>
         <li><Link href="/resources/esx-file-rights-xactimate" className="text-[#2E74B5] underline">ESX File Rights: Getting the Native Xactimate File</Link></li>
         <li><Link href="/resources/xactimate-pricing-user-responsibility" className="text-[#2E74B5] underline">When Xactimate Estimates Are Low, Blame the User &mdash; Not the Software</Link></li>

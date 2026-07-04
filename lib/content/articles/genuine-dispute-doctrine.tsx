@@ -1131,7 +1131,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
             Efficient Proximate Cause Doctrine
           </Link>
         </li>

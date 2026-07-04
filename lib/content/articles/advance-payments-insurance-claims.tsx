@@ -128,7 +128,7 @@ export default function Content() {
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         If any of these elements appear, the carrier is not merely reserving its rights &mdash; it is attempting to restrict yours. For a broader discussion of how to read carrier correspondence critically, see our article on{' '}
-        <Link href="/resources/reservation-of-rights" className="text-[#2E74B5] underline">
+        <Link href="/resources/reservation-of-rights-letter" className="text-[#2E74B5] underline">
           reservation of rights letters
         </Link>
         .
@@ -275,7 +275,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the carrier refuses to pay undisputed amounts despite written demands citing the applicable regulations, a complaint to the California Department of Insurance may be warranted. CDI has authority to investigate claims-handling violations and to impose penalties on carriers that violate the fair claims regulations. While a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           CDI complaint
         </Link>{' '}
         does not directly result in payment to the policyholder, the investigation itself often motivates the carrier to resolve outstanding payment issues.

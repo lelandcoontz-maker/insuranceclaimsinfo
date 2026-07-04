@@ -103,7 +103,7 @@ export default function Content() {
       <CalloutBox variant="warning" title="ACC Clauses Are Still in Policies and Still Relied Upon">
         <p>
           Despite being unenforceable under California law to the extent they conflict with the efficient proximate cause doctrine, insurers continue to include ACC clauses in their policies and continue to rely on them when denying claims. This creates an ongoing tension between what the policy says and what California law allows. A policyholder who reads the ACC clause in isolation would reasonably conclude that the loss is excluded. A policyholder who understands California law would know that the clause does not control the analysis. The California Department of Insurance has issued formal notices (in 2018 and again in 2025) reminding insurers that ACC clauses cannot be used to deny coverage when a covered peril was the efficient proximate cause &mdash; but the clauses remain in the policies, and the denials continue. For a complete analysis of this doctrine and the landmark cases, see our article on{' '}
-          <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
             the efficient proximate cause doctrine
           </Link>.
         </p>
@@ -152,7 +152,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Most California homeowner policies either exclude mold entirely or impose severe sublimits &mdash; commonly $5,000 or $10,000. However, the mold exclusion interacts with the ensuing loss doctrine in an important way: when mold develops as a direct consequence of a covered water loss (such as a pipe burst or storm damage), the mold remediation may be covered as consequential damage, potentially up to the full policy limits rather than the sublimit. The distinction between mold as a primary cause of loss and mold as a consequence of a covered peril is critical and heavily litigated. For a detailed analysis, see our article on the{' '}
-        <Link href="/resources/mold-coverage-paradox" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/mold-losses" className="text-blue-700 underline hover:text-blue-900">
           mold coverage paradox
         </Link>.
       </p>
@@ -223,7 +223,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Request the Denial in Writing">
         <p>
           If your insurer denies any part of your claim based on an exclusion, request the denial in writing with the specific policy language cited. Review the exclusion carefully. Determine whether the insurer has met its burden of proving the exclusion applies, whether the exclusion language is ambiguous, whether an ensuing loss provision restores coverage, and whether the{' '}
-          <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
             efficient proximate cause doctrine
           </Link>{' '}
           applies. Do not accept a verbal denial. A verbal denial is not a denial &mdash; it is a conversation.
@@ -238,7 +238,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         For related reading, see our articles on{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           the efficient proximate cause doctrine
         </Link>,{' '}
         <Link href="/resources/engineering-reports-vs-coverage" className="text-blue-700 underline hover:text-blue-900">
@@ -247,7 +247,7 @@ export default function Content() {
         <Link href="/resources/policy-vs-law" className="text-blue-700 underline hover:text-blue-900">
           when policy language conflicts with California law
         </Link>,{' '}
-        <Link href="/resources/mold-coverage-paradox" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/mold-losses" className="text-blue-700 underline hover:text-blue-900">
           the mold coverage paradox
         </Link>,{' '}
         <Link href="/resources/code-upgrade-coverage" className="text-blue-700 underline hover:text-blue-900">

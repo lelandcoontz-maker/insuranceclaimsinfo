@@ -268,7 +268,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             How to File a CDI Complaint
           </Link>
         </li>

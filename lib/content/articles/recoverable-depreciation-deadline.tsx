@@ -195,7 +195,7 @@ export default function Content() {
         enormous depreciation deductions. The carrier may withhold 30 to 40 percent of the total claim
         as depreciation. That leaves the homeowner with barely enough to cover materials, let alone
         labor. The{' '}
-        <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           depreciation schedules
         </Link>{' '}
         carriers use to calculate these deductions are often aggressive, further widening the gap.
@@ -523,7 +523,7 @@ export default function Content() {
         Dwelling depreciation is applied to the building components that need repair or replacement:
         the roof, flooring, drywall, electrical, plumbing, cabinetry, countertops, appliances, HVAC,
         and so on. Each component is assigned a{' '}
-        <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           useful life and depreciation rate
         </Link>{' '}
         based on the carrier&apos;s internal schedules. Older homes generate higher depreciation

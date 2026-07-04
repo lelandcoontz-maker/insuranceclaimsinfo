@@ -97,7 +97,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California rejects anti-concurrent causation clauses as contrary to the state&rsquo;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">
           efficient proximate cause doctrine
         </Link>
         . Under California Insurance Code &sect; 530 and the California Supreme Court&rsquo;s decision in <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395 (applied directly to ACC language by <em>Howell v. State Farm Fire &amp; Cas. Co.</em> (1990) 218 Cal.App.3d 1446), the question is always: what was the predominating cause that set the chain of events in motion? The Supreme Court restated the general rule in <em>Julian v. Hartford Underwriters</em> (2005) 35 Cal.4th 747, although on <em>Julian</em>&rsquo;s facts the Court enforced the carrier&rsquo;s exclusion &mdash; the rule is real but the line between excluding a manifestation of a covered peril and excluding a distinct peril matters.

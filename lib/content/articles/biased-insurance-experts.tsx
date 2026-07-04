@@ -489,7 +489,7 @@ export default function Content() {
             Fair Claims Settlement Practices
           </Link>{' '}
           regulations. See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
         </li>
       </ol>
 

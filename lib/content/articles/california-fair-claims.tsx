@@ -34,7 +34,7 @@ export default function Content() {
         process under the Administrative Procedure Act (Government Code &sect; 11340 et seq.).
         Courts treat them with the same authority as statutes. An insurer that violates these
         regulations is violating California law — and those violations can form the basis of a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">CDI complaint</Link>,
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">CDI complaint</Link>,
         evidence of{' '}
         <Link href="/resources/bad-faith" className="text-[#2E74B5] hover:underline">bad faith</Link>,
         or both.
@@ -1511,7 +1511,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-3">
         On large claims, the labor depreciation violation can mean $30,000, $50,000, or more
         in wrongfully withheld funds. See our detailed guide on{' '}
-        <Link href="/resources/labor-depreciation" className="text-[#2E74B5] hover:underline">labor depreciation</Link>.
+        <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] hover:underline">labor depreciation</Link>.
       </p>
 
       <h3 className="text-lg font-bold text-[#1F3964] mb-3">How to Use This</h3>
@@ -1650,7 +1650,7 @@ export default function Content() {
           &sect; 2695.7(b) — failure to accept or deny within 40 days of proof of claim
           submitted on [date]&rdquo; carries far more weight than &ldquo;my insurer is being
           unfair.&rdquo; See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
         </li>
       </ol>
 

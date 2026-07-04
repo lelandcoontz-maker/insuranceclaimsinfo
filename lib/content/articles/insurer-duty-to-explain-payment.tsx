@@ -313,7 +313,7 @@ export default function Content() {
           Insurance. The CDI investigates regulatory violations and can impose penalties. See our
           guide on{' '}
           <Link
-            href="/resources/cdi-complaint"
+            href="/resources/file-cdi-complaint-guide"
             className="text-blue-700 underline hover:text-blue-900"
           >
             how to file a CDI complaint

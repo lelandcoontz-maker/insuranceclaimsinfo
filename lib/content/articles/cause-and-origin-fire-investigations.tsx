@@ -753,7 +753,7 @@ export default function Content() {
         a complaint with the California Department of Insurance (CDI). The CDI has regulatory
         authority to investigate insurer conduct and enforce the Fair Claims Settlement Practices
         Regulations. For guidance on this process, see our article on{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           filing a CDI complaint
         </Link>.
       </p>

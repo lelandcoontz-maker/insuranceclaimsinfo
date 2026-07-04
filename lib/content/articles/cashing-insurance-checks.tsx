@@ -128,7 +128,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are in this situation, you almost certainly know it. There has been a coverage
         dispute. The carrier has sent a{' '}
-        <Link href="/resources/reservation-of-rights" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/reservation-of-rights-letter" className="text-blue-700 underline hover:text-blue-900">
           reservation of rights letter
         </Link>{' '}
         or a coverage position letter. There have been negotiations. The check with settlement

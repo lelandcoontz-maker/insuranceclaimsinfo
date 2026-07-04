@@ -109,7 +109,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         A pool house that is connected to the main dwelling by a covered walkway or shared structure may qualify as Coverage A. If the pool house is freestanding with clear space between it and the dwelling, it falls under Coverage B. The dispute often centers on what constitutes a sufficient &ldquo;connection.&rdquo; A shared patio slab or a decorative arbor between the structures is generally insufficient. A shared roof, wall, or enclosed passageway is sufficient. For more on pool-related claim issues, see the article on{' '}
-        <Link href="/resources/pool-spa-claims" className="text-[#2E74B5] underline hover:text-blue-900">
+        <Link href="/resources/swimming-pool-damage" className="text-[#2E74B5] underline hover:text-blue-900">
           pool and spa insurance claims
         </Link>.
       </p>
@@ -211,7 +211,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/pool-spa-claims" className="text-[#2E74B5] underline hover:text-blue-900">
+          <Link href="/resources/swimming-pool-damage" className="text-[#2E74B5] underline hover:text-blue-900">
             Pool and Spa Insurance Claims
           </Link>
         </li>

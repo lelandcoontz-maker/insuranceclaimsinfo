@@ -229,7 +229,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This is also where the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause doctrine
         </Link>{' '}
         comes in. In California, you often argue both ensuing loss and EPC together &mdash; the ensuing loss clause is the contractual argument, and EPC is the statutory argument under Insurance Code &sect; 530. Both support coverage. Both are raised during claims handling, before litigation.
@@ -329,7 +329,7 @@ export default function Content() {
             &mdash; the full range of damages available in bad faith litigation
           </li>
           <li>
-            <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+            <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
               The Efficient Proximate Cause Doctrine
             </Link>{' '}
             &mdash; the statutory coverage argument that pairs with ensuing loss

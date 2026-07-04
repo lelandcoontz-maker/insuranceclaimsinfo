@@ -402,7 +402,7 @@ export default function Content() {
           <strong>File a complaint if necessary</strong> &mdash; If the insurer&rsquo;s
           conduct violates the Fair Claims Settlement Practices Regulations, filing a
           complaint with the{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
             California Department of Insurance
           </Link>{' '}
           creates a regulatory record.

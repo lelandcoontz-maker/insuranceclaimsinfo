@@ -49,7 +49,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         These deadlines are mandatory. If your insurer misses them, document the date and
         the violation. Every missed deadline is evidence you can use in a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#1F3964] underline font-medium">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#1F3964] underline font-medium">
           CDI complaint
         </Link>{' '}
         or a{' '}
@@ -294,7 +294,7 @@ export default function Content() {
           investigates complaints about Fair Claims violations. A CDI complaint does not
           get the insured paid directly, but it creates regulatory pressure and a
           government record of the violation. See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#1F3964] underline font-medium">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#1F3964] underline font-medium">
             filing a CDI complaint
           </Link>.
         </li>

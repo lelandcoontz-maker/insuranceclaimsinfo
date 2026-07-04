@@ -117,7 +117,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Example: A contractor improperly waterproofs a shower pan. Over time, water migrates through the defect and damages the subfloor, framing, and the ceiling of the room below. The defective waterproofing created a <em>condition</em>. The water caused the <em>damage</em>. Under California Insurance Code &sect; 530 and the EPC doctrine, the water is the proximate cause of the claimed damage. The faulty workmanship is a remote cause. For the full EPC framework, see our article on{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           the efficient proximate cause doctrine
         </Link>.
       </p>
@@ -221,7 +221,7 @@ export default function Content() {
             &mdash; how the savings clause restores coverage for damage resulting from excluded causes
           </li>
           <li>
-            <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+            <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
               The Efficient Proximate Cause Doctrine
             </Link>{' '}
             &mdash; California&rsquo;s framework for determining coverage when multiple causes combine

@@ -25,7 +25,7 @@ const sections = [
       { href: '/resources/what-does-homeowner-policy-cover', title: 'What Does My Homeowner Policy Actually Cover?' },
       { href: '/resources/understanding-your-deductible', title: 'Your Deductible: What It Is, How It Works, and When It Doesn\'t Apply' },
       { href: '/resources/replacement-cost-explained', title: 'What "Replacement Cost" Means and Why It Matters More Than You Think' },
-      { href: '/resources/named-perils-vs-open-perils', title: 'Named Perils vs. Open Perils: Why Your Contents Aren\'t Covered the Same as Your House' },
+      { href: '/resources/open-perils-vs-named-perils', title: 'Named Perils vs. Open Perils: Why Your Contents Aren\'t Covered the Same as Your House' },
       { href: '/resources/acv-rcv', title: 'ACV vs. RCV: Actual Cash Value vs. Replacement Cost Value' },
       { href: '/resources/policyholder-rights', title: 'Your Rights as a California Policyholder' },
     ],

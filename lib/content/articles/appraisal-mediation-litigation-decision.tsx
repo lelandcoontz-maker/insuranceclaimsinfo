@@ -431,7 +431,7 @@ export default function Content() {
         California&apos;s appraisal framework has unique features that affect how and when you
         should invoke the process. Understanding these rules is essential for anyone navigating an
         appraisal in the state. For the full statutory and case law analysis, see our{' '}
-        <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+        <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
           Appraisal Practitioner&apos;s Guide
         </Link>.
       </p>
@@ -1048,7 +1048,7 @@ export default function Content() {
         &mdash; especially in complex losses involving hidden damage behind walls, under flooring,
         or in attic spaces. For more on the appraiser&apos;s role and the mechanics of the
         process, see our{' '}
-        <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+        <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
           Appraisal Practitioner&apos;s Guide
         </Link>.
       </p>
@@ -1168,7 +1168,7 @@ export default function Content() {
         <li>
           Be strategic about appraiser selection. Choose an appraiser who understands the full scope
           of the damage and will advocate for the correct valuation. For guidance, see our{' '}
-          <Link href="/resources/appraisal-practitioner-guide" className="text-[#2E74B5] underline">
+          <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
             Appraisal Practitioner&apos;s Guide
           </Link>.
         </li>

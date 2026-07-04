@@ -25,7 +25,7 @@ export default function Content() {
         Across the country, two competing legal standards have emerged. The <strong>majority rule</strong> holds that O&amp;P must be included whenever a general contractor is &ldquo;reasonably likely&rdquo; to be needed &mdash; regardless of whether one has actually been hired. The <strong>minority rule</strong> holds that O&amp;P need not be paid until the policyholder actually hires a general contractor and incurs the expense.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        This article maps the law in every state where published authority exists, organized by which standard applies. For a detailed discussion of the legal principle underlying the majority rule, see our article on the <Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">three-trade rule</Link>. For the leading minority-rule case and its implications, see our article on the <Link href="/resources/kurach-op-policy-restrictions" className="text-[#2E74B5] underline">Kurach decision</Link>.
+        This article maps the law in every state where published authority exists, organized by which standard applies. For a detailed discussion of the legal principle underlying the majority rule, see our article on the <Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">three-trade rule</Link>. For the leading minority-rule case and its implications, see our article on the <Link href="/resources/kurach-op-policy-restrictions" className="text-[#2E74B5] underline">Kurach decision</Link>.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -411,7 +411,7 @@ export default function Content() {
       </h2>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">Overhead &amp; Profit: When Your Claim Should Include O&amp;P</Link></li>
-        <li><Link href="/resources/three-trade-rule" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
+        <li><Link href="/resources/overhead-and-profit" className="text-[#2E74B5] underline">The Three-Trade Rule: Why Your Insurance Company Owes O&amp;P</Link></li>
         <li><Link href="/resources/kurach-op-policy-restrictions" className="text-[#2E74B5] underline">When Your Policy Secretly Restricts O&amp;P: The Kurach Decision</Link></li>
         <li><Link href="/resources/xactimate-not-the-law" className="text-[#2E74B5] underline">Xactimate Is Not the Law</Link></li>
         <li><Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">ACV vs. RCV: Actual vs. Replacement Cost Value</Link></li>

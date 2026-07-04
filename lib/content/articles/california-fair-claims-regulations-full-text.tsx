@@ -171,7 +171,7 @@ export default function Content() {
         file a complaint with the Department, which investigates and, depending on the
         circumstances, mediates a resolution, issues a formal finding of violation, or
         refers the matter for administrative enforcement. See our guide on{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           filing a CDI complaint
         </Link>
         .

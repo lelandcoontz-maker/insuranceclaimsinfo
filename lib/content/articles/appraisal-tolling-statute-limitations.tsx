@@ -441,7 +441,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For a full discussion of <em>Sharma</em> and the scope of appraisal generally, see
         our article on{' '}
-        <Link href="/resources/california-appraisal-case-law" className="text-[#2E74B5] underline">
+        <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
           California appraisal case law
         </Link>.
       </p>
@@ -491,7 +491,7 @@ export default function Content() {
           equitable tolling
         </Link>{' '}
         and{' '}
-        <Link href="/resources/equitable-tolling-nuances" className="text-[#2E74B5] underline">
+        <Link href="/resources/equitable-tolling" className="text-[#2E74B5] underline">
           equitable tolling edge cases
         </Link>.
       </p>
@@ -930,7 +930,7 @@ export default function Content() {
           investigation.
         </li>
         <li>
-          <Link href="/resources/california-appraisal-case-law" className="text-[#2E74B5] underline">
+          <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
             California Appraisal Case Law and the Arbitration Code
           </Link>{' '}
           &mdash; Key cases including <em>Sharma</em>, <em>Kacha</em>, <em>Lee</em>,{' '}

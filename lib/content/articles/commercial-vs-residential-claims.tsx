@@ -132,7 +132,7 @@ export default function Content() {
         as if these regulations do not apply to business policyholders &mdash; delaying for months,
         demanding excessive documentation before making any payment, and ignoring regulatory
         timelines. The regulations protect you, and a{' '}
-        <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
           complaint to the California Department of Insurance
         </Link>{' '}
         is just as available to a commercial policyholder as to a homeowner.

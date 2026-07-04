@@ -90,7 +90,7 @@ export default function Content() {
         accept or deny, 30-day status updates), send a letter noting the specific deadline,
         the date it was missed, and the regulation that imposes it. This creates evidence
         for a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#1F3964] underline font-medium">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#1F3964] underline font-medium">
           CDI complaint
         </Link>{' '}
         or bad faith claim.

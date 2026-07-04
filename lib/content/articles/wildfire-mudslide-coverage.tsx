@@ -259,7 +259,7 @@ export default function Content() {
         </li>
         <li>
           <strong>File a CDI complaint if the insurer persists.</strong> If the insurer maintains its denial despite the applicable law, a complaint to the California Department of Insurance is appropriate. See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             filing a CDI complaint
           </Link>. The CDI has been particularly attentive to post-wildfire earth movement denials.
         </li>

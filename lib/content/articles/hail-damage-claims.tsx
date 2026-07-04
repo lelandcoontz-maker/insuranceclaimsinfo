@@ -261,7 +261,7 @@ export default function Content() {
           depreciate. A roofer charges the same amount to tear off and install shingles regardless
           of whether the old roof was 5 years old or 20. Several courts have held that labor
           should not be depreciated. See our article on{' '}
-          <Link href="/resources/labor-depreciation" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/labor-depreciation-debate" className="text-blue-700 underline hover:text-blue-900">
             labor depreciation
           </Link>.
         </li>

@@ -240,7 +240,7 @@ export default function Content() {
           Insurance creates an official record that the insured raised concerns about the
           investigation. CDI may investigate and act on systemic issues; the complaint itself
           documents the allegation rather than proves the failure. See{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">filing a CDI complaint</Link>.
         </li>
         <li>
           <strong>Consider professional representation.</strong> A{' '}

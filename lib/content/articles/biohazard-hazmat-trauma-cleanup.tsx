@@ -592,7 +592,7 @@ export default function Content() {
         Similarly, in <em>Bowers v. Farmers Insurance Exchange</em>, 991 P.2d 734 (Wash. App.
         2000), the court held that tenants who secretly converted a rental house into a marijuana
         grow operation committed vandalism, and the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause
         </Link>{' '}
         doctrine required coverage. The court rejected the insurer&rsquo;s argument that the
@@ -677,7 +677,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code Section 530 codifies the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause doctrine
         </Link>. When a loss results from a chain of events that includes both covered and
         excluded perils, the insurer is liable if the <em>predominant</em> cause is a covered

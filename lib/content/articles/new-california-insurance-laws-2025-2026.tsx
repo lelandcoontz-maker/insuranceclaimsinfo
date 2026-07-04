@@ -422,7 +422,7 @@ export default function Content() {
         coverage that standard market policyholders receive in a single policy is an additional financial
         burden on families who are already paying more for less. For more on the FAIR Plan&rsquo;s
         current coverage and limitations, see the full article on{' '}
-        <Link href="/resources/fair-plan-claims-limitations" className="text-[#2E74B5] underline">
+        <Link href="/resources/california-fair-plan" className="text-[#2E74B5] underline">
           FAIR Plan claims
         </Link>.
       </p>

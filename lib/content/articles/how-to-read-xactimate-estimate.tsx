@@ -408,7 +408,7 @@ export default function Content() {
           &quot;wear out&quot; over time &mdash; only materials age. If you see depreciation
           applied to the full line item (including the labor component), this may be inflating
           the depreciation deduction. See our article on{' '}
-          <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+          <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
             depreciation schedules and useful life
           </Link>{' '}
           for more on this topic.
@@ -658,7 +658,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Review the{' '}
-        <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           depreciation
         </Link>{' '}
         amounts on each line item. Depreciation should reflect the actual age and condition of
@@ -1056,7 +1056,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/depreciation-schedules-useful-life" className="text-[#2E74B5] underline">
+          <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
             Depreciation Schedules and Useful Life
           </Link>
         </li>

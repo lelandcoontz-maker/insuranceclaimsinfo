@@ -100,7 +100,7 @@ export default function Content() {
         <li>
           <strong>File a complaint with the California Department of Insurance</strong> if
           deadlines are violated &mdash;{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             learn how here
           </Link>
         </li>

@@ -388,7 +388,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause doctrine
         </Link>{' '}
         is one of the strongest tools available to policyholders facing a pollution exclusion

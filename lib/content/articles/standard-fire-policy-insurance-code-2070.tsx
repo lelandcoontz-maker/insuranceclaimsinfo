@@ -520,7 +520,7 @@ export default function Content() {
           </Link>{' '}
           and our{' '}
           <Link
-            href="/resources/appraisal-practitioner-guide"
+            href="/resources/appraisal"
             className="text-[#2E74B5] hover:underline"
           >
             appraisal practitioner guide
@@ -618,7 +618,7 @@ export default function Content() {
         </Link>{' '}
         and{' '}
         <Link
-          href="/resources/equitable-tolling-nuances"
+          href="/resources/equitable-tolling"
           className="text-[#2E74B5] hover:underline"
         >
           equitable tolling nuances
@@ -924,7 +924,7 @@ export default function Content() {
         </Link>{' '}
         and our article on{' '}
         <Link
-          href="/resources/fair-plan-claims-limitations"
+          href="/resources/california-fair-plan"
           className="text-[#2E74B5] hover:underline"
         >
           FAIR Plan claims limitations
@@ -1339,7 +1339,7 @@ export default function Content() {
         </li>
         <li>
           <Link
-            href="/resources/appraisal-practitioner-guide"
+            href="/resources/appraisal"
             className="text-[#2E74B5] hover:underline"
           >
             Appraisal Practitioner Guide
@@ -1363,7 +1363,7 @@ export default function Content() {
         </li>
         <li>
           <Link
-            href="/resources/fair-plan-claims-limitations"
+            href="/resources/california-fair-plan"
             className="text-[#2E74B5] hover:underline"
           >
             FAIR Plan Claims Limitations

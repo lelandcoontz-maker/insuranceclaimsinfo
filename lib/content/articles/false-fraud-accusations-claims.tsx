@@ -319,7 +319,7 @@ export default function Content() {
         receiving proof of claim &mdash; or provide a written explanation of why additional
         time is needed. Policyholders who believe their carrier is using the SIU process to
         indefinitely delay a claim decision can file a complaint with the{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           California Department of Insurance
         </Link>.
       </p>

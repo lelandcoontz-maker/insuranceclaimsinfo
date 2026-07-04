@@ -150,7 +150,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Accommodation payments frequently follow a{' '}
         <Link
-          href="/resources/reservation-of-rights"
+          href="/resources/reservation-of-rights-letter"
           className="text-blue-700 underline hover:text-blue-900"
         >
           reservation of rights letter

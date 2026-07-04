@@ -246,7 +246,7 @@ export default function Content() {
           <strong>File a CDI complaint if necessary.</strong> If the insurer maintains its denial
           after you have put them on notice of the law, file a complaint with the California
           Department of Insurance. See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             filing a CDI complaint
           </Link>. The CDI has been particularly attentive to post-wildfire denials that ignore
           the efficient proximate cause doctrine.
@@ -291,7 +291,7 @@ export default function Content() {
           &mdash; Your rights under California&apos;s claims handling regulations.
         </li>
         <li>
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             How to File a CDI Complaint
           </Link>{' '}
           &mdash; Step-by-step guide to filing a complaint with the California Department of

@@ -170,7 +170,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California, however, does not enforce ACC clauses in the same way that many other
         states do. Under the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">
           efficient proximate cause doctrine
         </Link>, California courts look to the predominant or efficient cause of the loss. If
         the efficient proximate cause of the damage is a covered peril (such as wind), the
@@ -189,7 +189,7 @@ export default function Content() {
           the policyholder must be able to demonstrate which peril was the efficient proximate
           cause &mdash; making early documentation of the loss critical. For a detailed
           analysis, see{' '}
-          <Link href="/resources/efficient-proximate-cause" className="underline font-semibold">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="underline font-semibold">
             Efficient Proximate Cause in California
           </Link>.
         </p>

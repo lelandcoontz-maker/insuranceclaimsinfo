@@ -165,7 +165,7 @@ export default function Content() {
         CDI assigns an analyst to your complaint who contacts the insurer and requires a response.
         In many cases, this alone breaks the logjam. Insurers pay attention when the regulator
         calls. For step-by-step instructions, see our{' '}
-        <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
           CDI complaint guide
         </Link>.
       </p>

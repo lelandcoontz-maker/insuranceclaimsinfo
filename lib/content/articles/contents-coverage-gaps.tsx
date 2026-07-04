@@ -174,7 +174,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         A hillside home experiences soil movement that damages the foundation and shifts the
         structure. Under California&rsquo;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause
         </Link>{' '}
         doctrine, if a covered peril (such as water intrusion from a broken pipe) set the earth
@@ -361,7 +361,7 @@ export default function Content() {
         If your insurer is depreciating the labor component of your contents claim, push back
         immediately. In California, this practice has been specifically addressed by the courts. For
         a detailed explanation, see our article on{' '}
-        <Link href="/resources/labor-depreciation" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/labor-depreciation-debate" className="text-blue-700 underline hover:text-blue-900">
           labor depreciation
         </Link>.
       </p>
@@ -556,7 +556,7 @@ export default function Content() {
         <li>
           Is there an efficient proximate cause argument? In California, if a covered peril set in
           motion an unbroken chain of events leading to the contents loss, the{' '}
-          <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
             efficient proximate cause
           </Link>{' '}
           doctrine may bring the loss within coverage.

@@ -163,7 +163,7 @@ export default function Content() {
           <strong>Labor generally should not be depreciated.</strong> A growing body of case law
           holds that labor does not physically deteriorate and therefore should not be subject to
           depreciation. See our guide on{' '}
-          <Link href="/resources/labor-depreciation" className="text-[#2E74B5] hover:underline">labor depreciation</Link>.
+          <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] hover:underline">labor depreciation</Link>.
         </li>
       </ul>
 

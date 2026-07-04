@@ -1843,7 +1843,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4 italic text-sm">
         For a focused, standalone walkthrough of this topic, see our{' '}
-        <Link href="/resources/white-waiver" className="text-[#2E74B5] underline">
+        <Link href="/resources/white-waiver-settlement-confidentiality" className="text-[#2E74B5] underline">
           dedicated White Waiver article
         </Link>
         . The summary below is included for readers working through the appraisal guide in
@@ -1903,7 +1903,7 @@ export default function Content() {
 
         For the full walkthrough — defects in waiver language, signal-vs-substance analysis,
         how to handle a waiver proposal — see the{' '}
-        <Link href="/resources/white-waiver" className="text-[#2E74B5] underline">
+        <Link href="/resources/white-waiver-settlement-confidentiality" className="text-[#2E74B5] underline">
           dedicated White Waiver article
         </Link>.
       </p>
@@ -2420,7 +2420,7 @@ export default function Content() {
           how to push back.
         </li>
         <li>
-          <Link href="/resources/white-waiver" className="text-[#2E74B5] underline">
+          <Link href="/resources/white-waiver-settlement-confidentiality" className="text-[#2E74B5] underline">
             The White Waiver in Detail
           </Link>{' '}
           — Standalone deep dive on the White v. Western Title waiver, when carriers present

@@ -118,7 +118,7 @@ export default function Content() {
           unless specifically excluded. On an HO-5 (comprehensive form), both the dwelling
           AND personal property are written on an open-perils basis. The form on the
           declarations page determines which split applies. See the guide on{' '}
-          <Link href="/resources/named-perils-vs-open-perils" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/open-perils-vs-named-perils" className="text-blue-700 underline hover:text-blue-900">
             named perils vs. open perils
           </Link>{' '}
           for why it matters.

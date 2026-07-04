@@ -1070,7 +1070,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         This analysis fails under California&rsquo;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause doctrine
         </Link>. When a covered peril (the plumbing leak) sets in motion a chain of
         events that produces damage through an excluded peril (earth movement), the

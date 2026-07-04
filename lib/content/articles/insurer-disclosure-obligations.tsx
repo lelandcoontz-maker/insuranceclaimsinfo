@@ -822,7 +822,7 @@ export default function Content() {
           insurance.ca.gov
         </a>{' '}
         or by calling 1-800-927-HELP (4357). See our article on{' '}
-        <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
           filing a CDI complaint
         </Link>.
       </p>
@@ -989,7 +989,7 @@ export default function Content() {
               insurance.ca.gov
             </a>{' '}
             or see our article on{' '}
-            <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+            <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
               filing a CDI complaint
             </Link>.
           </li>
@@ -1144,7 +1144,7 @@ export default function Content() {
           790 letter
         </Link>
         , a{' '}
-        <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
           CDI complaint
         </Link>
         , a licensed professional, or an attorney &mdash; to close that gap.

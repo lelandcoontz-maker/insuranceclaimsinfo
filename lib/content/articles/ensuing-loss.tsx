@@ -82,7 +82,7 @@ export default function Content() {
       </ol>
       <p className="text-gray-700 leading-relaxed mb-4">
         For detailed discussions of these protections, see our companion articles on the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause doctrine
         </Link>{' '}
         and{' '}
@@ -205,7 +205,7 @@ export default function Content() {
         <li><strong>What the insurer owes:</strong> If the covered peril was the efficient cause, the <em>entire</em> loss is covered. If the excluded peril was the efficient cause, there is no coverage.</li>
         <li><strong>California authority:</strong> <em>Sabella v. Wisler</em> (1963) 59 Cal.2d 21; <em>Garvey v. State Farm</em> (1989) 48 Cal.3d 395; Insurance Code &sect; 530.</li>
         <li>
-          <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
             Read the full article on efficient proximate cause &rarr;
           </Link>
         </li>
@@ -406,7 +406,7 @@ export default function Content() {
         </li>
         <li>
           <strong>Mold resulting from a covered water loss.</strong> The initial water damage is covered. Mold develops as a result. The{' '}
-          <Link href="/resources/mold-coverage-paradox" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/mold-losses" className="text-blue-700 underline hover:text-blue-900">
             mold
           </Link>{' '}
           is an ensuing loss from the covered water event, though it is often subject to a sublimit.
@@ -481,7 +481,7 @@ export default function Content() {
             Public Adjuster
           </Link>{' '}
           or an attorney who specializes in insurance coverage disputes. In California, you may also{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             file a complaint with the California Department of Insurance
           </Link>.
         </li>
@@ -490,7 +490,7 @@ export default function Content() {
       <CalloutBox variant="tip" title="Related Reading">
         <ul className="list-disc pl-4 space-y-1">
           <li>
-            <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+            <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
               The Efficient Proximate Cause Doctrine
             </Link>{' '}
             &mdash; when the covered peril set the chain of events in motion

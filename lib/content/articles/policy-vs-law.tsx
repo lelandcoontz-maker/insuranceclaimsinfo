@@ -571,7 +571,7 @@ export default function Content() {
           <strong>Bottom line:</strong> When an insurer depreciates labor in an ACV calculation
           on a California property claim, the regulation says it cannot &mdash; and pointing to
           &sect; 2695.9(f)(1) in writing usually ends the argument. For more, see our{' '}
-          <Link href="/resources/labor-depreciation" className="text-[#2E74B5] font-medium underline hover:text-[#1F3964] transition-colors">
+          <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] font-medium underline hover:text-[#1F3964] transition-colors">
             labor depreciation guide
           </Link>.
         </p>

@@ -217,7 +217,7 @@ export default function Content() {
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
             Efficient proximate cause
           </Link>{' '}
           &mdash; when a covered peril sets the chain of events in motion, California law can

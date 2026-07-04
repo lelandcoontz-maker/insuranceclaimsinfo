@@ -544,7 +544,7 @@ export default function Content() {
         </li>
         <li>
           <strong>File a complaint with the California Department of Insurance.</strong> The{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             CDI complaint process
           </Link>{' '}
           is free and can be effective for clear-cut deductible errors. The CDI will review the

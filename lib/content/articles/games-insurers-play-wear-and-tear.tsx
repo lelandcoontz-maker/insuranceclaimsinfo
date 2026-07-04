@@ -215,7 +215,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong>Efficient Proximate Cause doctrine.</strong> Under California law, when a loss
         results from a combination of covered and non-covered causes, the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause
         </Link>{' '}
         &mdash; the primary or predominant cause &mdash; determines coverage. If wind damage is the
@@ -354,7 +354,7 @@ export default function Content() {
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">5. Cite the law</h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, reference the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
           efficient proximate cause doctrine
         </Link>
         , the insurer&rsquo;s duty to investigate thoroughly (10 CCR 2695.7), and the requirement

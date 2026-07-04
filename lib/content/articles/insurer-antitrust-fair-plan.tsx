@@ -57,7 +57,7 @@ export default function Content() {
             California FAIR Plan: What Policyholders Need to Know
           </Link>{' '}
           and{' '}
-          <Link href="/resources/fair-plan-claims-limitations" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/california-fair-plan" className="text-blue-700 underline hover:text-blue-900">
             FAIR Plan Claims Limitations
           </Link>.
         </p>
@@ -350,7 +350,7 @@ export default function Content() {
           <strong>CDI complaints.</strong> Policyholders who believe their non-renewal was part
           of a coordinated pattern rather than an individualized underwriting decision should
           file complaints with the California Department of Insurance. See{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             how to file a CDI complaint
           </Link>.
           The volume of complaints helps the CDI and the Attorney General assess the scope
@@ -375,7 +375,7 @@ export default function Content() {
           its claims-handling infrastructure, and the assessment mechanism that ultimately passes
           FAIR Plan losses back to the voluntary market carriers themselves. For an understanding
           of FAIR Plan limitations, see{' '}
-          <Link href="/resources/fair-plan-claims-limitations" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/california-fair-plan" className="text-blue-700 underline hover:text-blue-900">
             FAIR Plan Claims Limitations
           </Link>.
         </p>

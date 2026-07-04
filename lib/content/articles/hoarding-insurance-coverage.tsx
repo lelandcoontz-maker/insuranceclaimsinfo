@@ -287,7 +287,7 @@ export default function Content() {
         does not mean the fire started <em>because</em> of the hoarding &mdash; it may mean the
         fire caused more damage because suppression was more difficult, which is a different
         question entirely. As discussed below, the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause doctrine
         </Link>{' '}
         in California may protect the policyholder even when hoarding contributed to the extent
@@ -347,7 +347,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         California follows the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause doctrine
         </Link>
         , which holds that when a loss involves both covered and excluded causes, coverage
@@ -1089,7 +1089,7 @@ export default function Content() {
         Insurance (CDI). The CDI has authority to investigate insurer conduct and to impose
         penalties for violations of the Insurance Code and the Fair Claims Settlement Practices
         regulations. For guidance on filing a complaint, see our article on{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
           CDI complaints
         </Link>.
       </p>

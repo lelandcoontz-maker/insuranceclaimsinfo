@@ -219,7 +219,7 @@ export default function Content() {
         often a signal that the insurer knows the claim has been underpaid — if the offer were
         fair, there would be little reason to shield it from scrutiny. You are not required to
         sign, and there is usually no compelling reason to sign immediately. Read our{' '}
-        <Link href="/resources/white-waiver" className="text-[#2E74B5] underline">
+        <Link href="/resources/white-waiver-settlement-confidentiality" className="text-[#2E74B5] underline">
           full White Waiver guide
         </Link>{' '}
         before agreeing to anything of this kind.

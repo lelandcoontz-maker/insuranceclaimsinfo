@@ -139,7 +139,7 @@ export default function Content() {
           scope-of-appraisal cases and the application of the California Arbitration Code
           (CCP &sect;&sect; 1280&ndash;1294.2) to insurance appraisals &mdash; see our companion
           article on{' '}
-          <Link href="/resources/california-appraisal-case-law" className="text-[#2E74B5] underline">
+          <Link href="/resources/appraisal" className="text-[#2E74B5] underline">
             California Appraisal Case Law and the Arbitration Code
           </Link>
           . For the broader statutory floor that the SFP creates beyond just appraisal,

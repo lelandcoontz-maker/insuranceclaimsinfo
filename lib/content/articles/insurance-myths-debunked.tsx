@@ -580,7 +580,7 @@ export default function Content() {
           (1998) 61 Cal.App.4th 423 had applied. California also has &sect; 2051.5 addressing
           replacement-cost coverage. The point: the labor-depreciation question is settled in
           California by regulation. For a full discussion, see our article on{' '}
-          <Link href="/resources/labor-depreciation" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/labor-depreciation-debate" className="text-blue-700 underline hover:text-blue-900">
             labor depreciation
           </Link>{' '}
           and{' '}
@@ -618,7 +618,7 @@ export default function Content() {
             mudslide after wildfire coverage
           </Link>{' '}
           and our guide to{' '}
-          <Link href="/resources/efficient-proximate-cause" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-blue-700 underline hover:text-blue-900">
             the efficient proximate cause doctrine
           </Link>.
         </p>

@@ -353,7 +353,7 @@ export default function RegulationsPage() {
             </Link>
 
             <Link
-              href="/resources/cdi-complaint"
+              href="/resources/file-cdi-complaint-guide"
               aria-label="Read Filing a CDI Complaint guide"
               className="block bg-white rounded-xl border border-gray-200 p-6 hover:shadow-md transition-shadow"
             >

@@ -180,7 +180,7 @@ export default function Content() {
           — a neutral process to resolve dollar disputes. Binding on both parties.
         </li>
         <li>
-          <Link href="/resources/cdi-complaint" className="text-[#1F3964] underline font-medium">CDI complaint</Link>{' '}
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#1F3964] underline font-medium">CDI complaint</Link>{' '}
           — report regulatory violations to the California Department of Insurance.
         </li>
         <li>

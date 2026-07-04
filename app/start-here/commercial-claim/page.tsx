@@ -60,7 +60,7 @@ const steps = [
     articles: [
       { href: '/resources/negotiation', title: 'Insurance Claim Negotiation Tactics' },
       { href: '/resources/overhead-and-profit', title: 'Overhead & Profit: Are You Owed It?' },
-      { href: '/resources/three-trade-rule', title: 'The Three-Trade Rule' },
+      { href: '/resources/overhead-and-profit', title: 'The Three-Trade Rule' },
       { href: '/resources/appraisal', title: 'Insurance Appraisal in California' },
       { href: '/resources/scope-vs-price-disputes', title: 'Scope vs. Price: Which Fight Are You In?' },
     ],

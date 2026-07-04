@@ -146,7 +146,7 @@ export default function Content() {
           an ROR letter. What it does mean is that the insurer has identified possible issues and
           is protecting its ability to raise them later. Treat it seriously, but do not treat it
           as a denial. For a complete analysis, see our dedicated article on{' '}
-          <Link href="/resources/reservation-of-rights" className="text-[#2E74B5] underline">
+          <Link href="/resources/reservation-of-rights-letter" className="text-[#2E74B5] underline">
             reservation of rights letters
           </Link>.
         </p>
@@ -324,7 +324,7 @@ export default function Content() {
         damage was caused by earth movement when the damage was actually caused by a broken
         pipe, the factual premise is wrong. Third, decide on your course of action: a written
         rebuttal, a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           CDI complaint
         </Link>
         , consultation with an attorney, or engagement of a Public Adjuster to prepare a formal
@@ -704,7 +704,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If you are not receiving timely communications, the insurer is likely violating the
         regulations. Document the gaps and consider filing a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
           CDI complaint
         </Link>{' '}
         for regulatory violations.

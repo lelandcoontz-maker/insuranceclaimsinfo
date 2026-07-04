@@ -198,7 +198,7 @@ export default function Content() {
           what they are referring to. The change also matters for insurance claims because it
           more precisely defines what materials require removal versus what can be cleaned. See
           our detailed article on the{' '}
-          <Link href="/resources/mold-coverage-paradox" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/mold-losses" className="text-blue-700 underline hover:text-blue-900">
             mold coverage paradox
           </Link>{' '}
           for how carriers handle mold coverage in practice.

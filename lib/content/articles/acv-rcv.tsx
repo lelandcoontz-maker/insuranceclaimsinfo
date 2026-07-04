@@ -321,7 +321,7 @@ export default function Content() {
         physical depreciation and may not be subject to depreciation or betterment.
         Depreciating the labor component of a repair estimate is therefore improper
         in California. For a deeper analysis, see the guide on{' '}
-        <Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">
+        <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] underline">
           labor depreciation
         </Link>
         .
@@ -928,7 +928,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         One of the most consequential issues in depreciation law is whether
         carriers may depreciate the{' '}
-        <Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">
+        <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] underline">
           labor component
         </Link>{' '}
         of a repair or replacement estimate. In a typical Xactimate estimate,
@@ -1870,7 +1870,7 @@ export default function Content() {
       <CalloutBox variant="info" title="Related Articles">
         <ul className="list-disc pl-5 space-y-1 text-sm text-gray-700">
           <li>
-            <Link href="/resources/labor-depreciation" className="text-[#2E74B5] underline">
+            <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] underline">
               Labor Depreciation: Why Your Insurer Cannot Depreciate Labor Costs
             </Link>
           </li>

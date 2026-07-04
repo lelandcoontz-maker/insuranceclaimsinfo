@@ -361,7 +361,7 @@ export default function Content() {
           excessive depreciation
         </Link>{' '}
         and{' '}
-        <Link href="/resources/labor-depreciation" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] hover:underline">
           labor depreciation
         </Link>.
       </p>
@@ -559,7 +559,7 @@ export default function Content() {
           <strong>File a complaint with the California Department of Insurance.</strong> If the
           insurer used a deficient replacement cost estimator, this may constitute a violation
           of regulatory standards. See our guide on{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             filing a CDI complaint
           </Link>.
         </li>

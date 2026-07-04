@@ -279,7 +279,7 @@ export default function Content() {
         rewiring electrical, creating moisture damage &mdash; were willful acts of destruction.
         The court also applied the{' '}
         <Link
-          href="/resources/efficient-proximate-cause"
+          href="/resources/efficient-proximate-cause-doctrine"
           className="text-[#2E74B5] hover:underline"
         >
           efficient proximate cause doctrine
@@ -503,7 +503,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California follows the{' '}
         <Link
-          href="/resources/efficient-proximate-cause"
+          href="/resources/efficient-proximate-cause-doctrine"
           className="text-[#2E74B5] hover:underline"
         >
           efficient proximate cause doctrine

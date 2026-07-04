@@ -103,7 +103,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California law provides an additional layer of protection for policyholders through the <strong>efficient proximate cause doctrine</strong>. Under this doctrine, when a loss involves both covered and excluded causes, the loss is covered if the covered peril was the <em>predominating</em> cause &mdash; the cause that set the others in motion. The insurer cannot isolate an excluded peril from the causal chain and use it to deny the entire claim. For a comprehensive discussion of this doctrine and its landmark cases, see our{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">
           efficient proximate cause guide
         </Link>.
       </p>
@@ -567,7 +567,7 @@ export default function Content() {
         <Link href="/resources/exclusions" className="text-[#2E74B5] underline">
           policy exclusions
         </Link>,{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">
           efficient proximate cause
         </Link>,{' '}
         <Link href="/resources/pre-existing-vs-storm-damage" className="text-[#2E74B5] underline">

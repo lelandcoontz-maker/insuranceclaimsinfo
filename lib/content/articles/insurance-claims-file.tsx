@@ -262,7 +262,7 @@ export default function Content() {
           documents relating to the evaluation of their claim &mdash; inspection reports, expert
           reports, estimates, photographs, and other materials the insurer relied upon. This is
           a regulatory obligation, not a courtesy. Refusal to comply can be reported through a{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             formal CDI complaint
           </Link>.
         </p>
@@ -499,7 +499,7 @@ export default function Content() {
         If the production is incomplete &mdash; no claims diary, no reserve history, excessive
         redactions &mdash; send a follow-up letter identifying what is missing. If the insurer
         continues to refuse, file a{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
           complaint with the CDI
         </Link>{' '}
         and consult with an attorney about whether litigation discovery may be necessary.

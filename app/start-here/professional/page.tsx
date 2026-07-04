@@ -17,7 +17,7 @@ const sections = [
       { href: '/resources/estimate-bid-invoice-xactimate', title: 'The Three Lives of an Xactimate Document: Estimate, Bid, and Invoice' },
       { href: '/resources/xactimate-labor-efficiency-settings', title: 'Xactimate Labor Efficiency Settings: How Restoration vs. Rebuild Changes Every Line Item' },
       { href: '/resources/overhead-and-profit', title: 'Overhead & Profit: When It\'s Owed' },
-      { href: '/resources/three-trade-rule', title: 'The Three-Trade Rule' },
+      { href: '/resources/overhead-and-profit', title: 'The Three-Trade Rule' },
       { href: '/resources/how-to-challenge-xactimate-estimate', title: 'How to Challenge an Xactimate Estimate: A Step-by-Step Guide' },
       { href: '/resources/excessive-depreciation', title: 'Excessive Depreciation' },
     ],
@@ -38,7 +38,7 @@ const sections = [
     desc: 'Appraisal is where most underpaid claims end up. Know the process cold.',
     articles: [
       { href: '/resources/appraisal', title: 'Insurance Appraisal in California' },
-      { href: '/resources/appraisal-practitioner-guide', title: 'Appraisal Practitioner Guide' },
+      { href: '/resources/appraisal', title: 'Appraisal Practitioner Guide' },
       { href: '/resources/appraisal-mediation-litigation-decision', title: 'Appraisal vs. Mediation vs. Litigation' },
       { href: '/resources/reading-statement-of-loss', title: 'Reading the Statement of Loss' },
     ],
@@ -60,7 +60,7 @@ const sections = [
     label: 'Coverage Issues',
     desc: 'Coverage questions you\'ll run into on complex residential and commercial losses.',
     articles: [
-      { href: '/resources/efficient-proximate-cause', title: 'Efficient Proximate Cause' },
+      { href: '/resources/efficient-proximate-cause-doctrine', title: 'Efficient Proximate Cause' },
       { href: '/resources/ensuing-loss', title: 'Ensuing Loss' },
       { href: '/resources/ordinance-law', title: 'Ordinance or Law Coverage' },
       { href: '/resources/debris-removal', title: 'Debris Removal Coverage' },

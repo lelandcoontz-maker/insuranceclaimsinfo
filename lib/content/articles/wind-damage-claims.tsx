@@ -198,7 +198,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         Sometimes wind damage combines with another cause. A weakened branch (decay) falls
         in a windstorm. An old roof (wear) fails in high wind. Under California&apos;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#1F3964] underline font-medium">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#1F3964] underline font-medium">
           efficient proximate cause
         </Link>{' '}
         doctrine, when a covered peril (wind) is the predominant cause of the loss, the

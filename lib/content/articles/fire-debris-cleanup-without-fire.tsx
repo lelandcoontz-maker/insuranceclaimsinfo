@@ -214,7 +214,7 @@ export default function Content() {
         exclusion was designed to address traditional environmental contamination &mdash;
         industrial waste, chemical spills, gradual soil and groundwater pollution. It was not
         drafted to address the consequences of a covered fire peril. Under the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">
           efficient proximate cause doctrine
         </Link>, when a covered peril (fire) sets in motion a chain of events that includes an
         excluded peril (pollution), the covered peril controls if it was the predominant cause

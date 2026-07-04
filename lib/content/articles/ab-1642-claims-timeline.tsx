@@ -488,7 +488,7 @@ export default function Content() {
           Department of Insurance accepts complaints about timeline violations and has
           dedicated staff to investigate them. A CDI complaint creates an official record of
           the violation and may prompt the insurer to act. See{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             how to file a CDI complaint
           </Link>.
         </li>
@@ -550,7 +550,7 @@ export default function Content() {
         <li>
           <strong>Using reservation of rights letters as indefinite holds.</strong> The insurer
           issues a{' '}
-          <Link href="/resources/reservation-of-rights" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/reservation-of-rights-letter" className="text-blue-700 underline hover:text-blue-900">
             reservation of rights letter
           </Link>{' '}
           and then treats it as permission to delay the coverage decision indefinitely. A

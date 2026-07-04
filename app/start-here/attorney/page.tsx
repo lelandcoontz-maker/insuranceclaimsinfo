@@ -12,7 +12,7 @@ const sections = [
     label: 'Bad Faith & Extracontractual Liability',
     desc: 'The doctrinal framework for holding carriers accountable beyond the policy limits.',
     articles: [
-      { href: '/resources/bad-faith-explained', title: 'What Is "Bad Faith" and How Do I Know If My Insurer Is Doing It? (Canonical Primer)' },
+      { href: '/resources/bad-faith', title: 'What Is "Bad Faith" and How Do I Know If My Insurer Is Doing It? (Canonical Primer)' },
       { href: '/resources/bad-faith-damages', title: 'Bad Faith Damages in California: What You Can Actually Recover' },
       { href: '/resources/duty-to-investigate', title: 'The Insurer\'s Duty to Investigate' },
       { href: '/resources/brandt-fees', title: 'Brandt Fees: Recovering Attorney\'s Fees as Damages' },
@@ -24,7 +24,7 @@ const sections = [
     label: 'Coverage Doctrines',
     desc: 'The interpretive rules that determine whether a loss is covered.',
     articles: [
-      { href: '/resources/efficient-proximate-cause', title: 'Efficient Proximate Cause Doctrine' },
+      { href: '/resources/efficient-proximate-cause-doctrine', title: 'Efficient Proximate Cause Doctrine' },
       { href: '/resources/ensuing-loss', title: 'Ensuing Loss' },
       { href: '/resources/anti-concurrent-causation', title: 'Anti-Concurrent Causation' },
       { href: '/resources/wear-and-tear-cause-of-loss', title: 'Wear and Tear: Condition Is Not Causation' },
@@ -42,7 +42,7 @@ const sections = [
       { href: '/resources/equitable-tolling', title: 'Equitable Tolling of the Statute of Limitations in California Insurance Claims' },
       { href: '/resources/appraisal-tolling-statute-limitations', title: 'Does Invoking Appraisal Toll the Statute of Limitations?' },
       { href: '/resources/policyholder-rights', title: 'Policyholder Rights Under California Law' },
-      { href: '/resources/cdi-complaint', title: 'CDI Complaints and Enforcement' },
+      { href: '/resources/file-cdi-complaint-guide', title: 'CDI Complaints and Enforcement' },
     ],
   },
   {

@@ -140,7 +140,7 @@ export default function Content() {
         <li>
           <strong>Investigating a claim without reserving rights:</strong> If an insurer
           conducts a full investigation of a claim without issuing a{' '}
-          <Link href="/resources/reservation-of-rights" className="text-[#2E74B5] underline">
+          <Link href="/resources/reservation-of-rights-letter" className="text-[#2E74B5] underline">
             reservation of rights
           </Link>{' '}
           letter, and then denies the claim on a coverage ground it knew about from the
@@ -621,7 +621,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         The{' '}
-        <Link href="/resources/reservation-of-rights" className="text-[#2E74B5] underline">
+        <Link href="/resources/reservation-of-rights-letter" className="text-[#2E74B5] underline">
           reservation of rights letter
         </Link>{' '}
         exists precisely because of the doctrines of estoppel and waiver. When an insurer

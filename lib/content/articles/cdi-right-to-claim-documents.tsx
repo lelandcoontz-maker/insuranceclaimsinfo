@@ -219,7 +219,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If the insurer ignores your request or fails to produce documents within 15 days, you
         can{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
           file a complaint with the California Department of Insurance
         </Link>
         . The CDI takes document-production violations seriously because the right to
@@ -253,7 +253,7 @@ export default function Content() {
           — put those claim documents to work in your written disputes
         </li>
         <li>
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             Filing a CDI Complaint
           </Link>{' '}
           — what to do when your insurer ignores your rights

@@ -141,7 +141,7 @@ export default function Content() {
         A CDI complaint is free and does not require an attorney. It is not a lawsuit and cannot
         award you money directly. But it is leverage. Many insurers reconsider their position once
         the CDI is involved. For the full process, see our{' '}
-        <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
           CDI complaint guide
         </Link>.
       </p>

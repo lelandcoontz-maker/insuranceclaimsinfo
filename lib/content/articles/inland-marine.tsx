@@ -407,7 +407,7 @@ export default function Content() {
         <li>
           You can file a complaint with the California Department of Insurance &mdash; see our
           guide to{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">
             filing a CDI complaint
           </Link>
         </li>

@@ -331,7 +331,7 @@ export default function Content() {
           claim negotiation letters guide
         </Link>{' '}
         and the{' '}
-        <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
           CDI complaint guide
         </Link>.
       </p>

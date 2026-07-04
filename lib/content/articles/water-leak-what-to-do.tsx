@@ -190,7 +190,7 @@ export default function Content() {
           water damage claims
         </Link>{' '}
         and the article on{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause
         </Link>
         .

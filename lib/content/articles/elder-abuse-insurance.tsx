@@ -429,7 +429,7 @@ export default function Content() {
         the policyholder&rsquo;s elder or dependent adult status. The CDI takes complaints
         involving vulnerable populations seriously, and identifying the policyholder as an
         elder puts additional regulatory pressure on the insurer. See our guide on{' '}
-        <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+        <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
           filing a CDI complaint
         </Link>{' '}
         for the step-by-step process.
@@ -663,7 +663,7 @@ export default function Content() {
         <li>
           <strong>File a CDI complaint</strong> &mdash; Note the policyholder&rsquo;s elder
           status in the complaint. The{' '}
-          <Link href="/resources/cdi-complaint" className="text-blue-700 underline hover:text-blue-900">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-blue-700 underline hover:text-blue-900">
             CDI complaint process
           </Link>{' '}
           creates a regulatory record.

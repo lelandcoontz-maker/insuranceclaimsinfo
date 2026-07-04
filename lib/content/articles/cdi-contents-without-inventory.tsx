@@ -197,7 +197,7 @@ export default function Content() {
           <strong>File a CDI complaint if they refuse.</strong> The Department of Insurance has
           specifically directed carriers to comply with this requirement. If your carrier ignores your
           written request, file a complaint at{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             insurance.ca.gov
           </Link>.
         </li>

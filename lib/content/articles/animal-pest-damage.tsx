@@ -266,7 +266,7 @@ export default function Content() {
         loss</em>, not to every downstream consequence. For a deeper discussion of how
         California law handles multiple causes contributing to a single loss, see our guide
         to the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">
           efficient proximate cause doctrine
         </Link>.
       </p>

@@ -222,7 +222,7 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Also, &sect; 2695.7(d) prohibits carriers from denying a claim without conducting a thorough investigation. If the carrier denied your collapse claim without sending a structural engineer, without reviewing the evidence of hidden decay or hidden insect damage, or without examining the qualifying causes, that denial may violate California&rsquo;s Fair Claims Settlement Practices Regulations. If you believe the carrier has violated these regulations, you can file a complaint with the California Department of Insurance &mdash; see our article on{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">filing a CDI complaint</Link>.
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">filing a CDI complaint</Link>.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
@@ -531,7 +531,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         If the carrier has failed to investigate your collapse claim properly, has denied it without adequate explanation, or has violated the Fair Claims Settlement Practices Regulations, you can file a complaint with the California Department of Insurance. The CDI has the authority to investigate carrier conduct and can impose penalties for regulatory violations. While the CDI cannot order a carrier to pay a claim, a regulatory investigation can create significant pressure on the carrier to reconsider its position. See our article on{' '}
-        <Link href="/resources/cdi-complaint" className="text-[#2E74B5] underline">how to file a CDI complaint</Link>.
+        <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] underline">how to file a CDI complaint</Link>.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

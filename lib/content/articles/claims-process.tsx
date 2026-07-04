@@ -51,7 +51,7 @@ export default function Content() {
         <p className="mt-2 text-sm">
           If the insurer misses any of these deadlines, document it. Regulatory violations are
           evidence you can use in a{' '}
-          <Link href="/resources/cdi-complaint" className="underline font-semibold">CDI complaint</Link>{' '}
+          <Link href="/resources/file-cdi-complaint-guide" className="underline font-semibold">CDI complaint</Link>{' '}
           or{' '}
           <Link href="/resources/bad-faith" className="underline font-semibold">bad faith</Link>{' '}
           claim.

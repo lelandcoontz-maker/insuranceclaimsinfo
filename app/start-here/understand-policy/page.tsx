@@ -51,7 +51,7 @@ const steps = [
     step: 5,
     label: 'Key Legal Doctrines',
     articles: [
-      { href: '/resources/efficient-proximate-cause', title: 'Efficient Proximate Cause Doctrine' },
+      { href: '/resources/efficient-proximate-cause-doctrine', title: 'Efficient Proximate Cause Doctrine' },
       { href: '/resources/ensuing-loss', title: 'Ensuing Loss: The Clause Insurers Hope You Never Read' },
       { href: '/resources/loss-settlement-provisions', title: 'Loss Settlement Provisions' },
     ],

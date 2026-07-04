@@ -179,7 +179,7 @@ export default function Content() {
         Earthquake, Fire, and the Efficient Proximate Cause Doctrine
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        One of the most important things to understand about earthquake damage is how it intersects with your homeowner policy when a fire follows the earthquake. This is where the <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">efficient proximate cause doctrine</Link> becomes critical.
+        One of the most important things to understand about earthquake damage is how it intersects with your homeowner policy when a fire follows the earthquake. This is where the <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">efficient proximate cause doctrine</Link> becomes critical.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         Here is the scenario: an earthquake strikes, ruptures a gas line in your home, and the escaping gas ignites. The resulting fire destroys your home. You have a standard homeowner policy (which covers fire) but no earthquake policy (which would cover earthquake damage). Is the loss covered?
@@ -241,7 +241,7 @@ export default function Content() {
           <strong>&ldquo;The deductible works like my homeowner deductible.&rdquo;</strong> It does not. Earthquake deductibles are a percentage of the dwelling limit &mdash; typically 5% to 25% &mdash; resulting in deductibles that can be $50,000, $100,000, or more.
         </li>
         <li>
-          <strong>&ldquo;If an earthquake causes a fire, I need earthquake insurance for the fire damage.&rdquo;</strong> Not necessarily. Under California&rsquo;s <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">efficient proximate cause doctrine</Link>, fire damage &mdash; even fire caused by an earthquake &mdash; may be covered by your standard homeowner policy.
+          <strong>&ldquo;If an earthquake causes a fire, I need earthquake insurance for the fire damage.&rdquo;</strong> Not necessarily. Under California&rsquo;s <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">efficient proximate cause doctrine</Link>, fire damage &mdash; even fire caused by an earthquake &mdash; may be covered by your standard homeowner policy.
         </li>
         <li>
           <strong>&ldquo;FEMA will cover earthquake damage.&rdquo;</strong> FEMA disaster assistance, when available, typically provides loans (not grants) and covers only a fraction of actual losses. It is not a substitute for insurance.
@@ -295,7 +295,7 @@ export default function Content() {
         <li>Get quotes from both the CEA (through your homeowner insurer) <em>and</em> private carriers like Palomar and GeoVera.</li>
         <li>Compare deductibles, coverage breadth, personal property limits, and loss-of-use limits.</li>
         <li>Understand the <Link href="/resources/coinsurance-penalty" className="text-[#2E74B5] hover:underline">coinsurance</Link> implications of your dwelling limit and make sure you are not underinsured.</li>
-        <li>Know that fire following an earthquake may be covered by your homeowner policy under the <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">efficient proximate cause doctrine</Link>.</li>
+        <li>Know that fire following an earthquake may be covered by your homeowner policy under the <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">efficient proximate cause doctrine</Link>.</li>
         <li>Read your <Link href="/resources/declarations-page" className="text-[#2E74B5] hover:underline">declarations page</Link> carefully &mdash; confirm your deductible percentage, contents limit, and loss-of-use limit.</li>
       </ul>
 

@@ -367,7 +367,7 @@ export default function Content() {
           <li>Attach copies (not originals) of the documents you reference</li>
           <li>If a Public Adjuster is involved, the PA typically develops the factual record &mdash; documenting missed deadlines, inadequate investigations, communications history &mdash; that supports the statutory analysis; when the matter rises to formal statutory accusation, an attorney typically handles the letter drafting and signs the letter</li>
           <li>A 790 letter can also be sent in conjunction with a{' '}
-            <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">CDI complaint</Link>{' '}
+            <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">CDI complaint</Link>{' '}
             — the complaint addresses the regulatory violation while the 790 letter addresses the statutory violation</li>
         </ul>
       </CalloutBox>
@@ -535,7 +535,7 @@ export default function Content() {
             Fair Claims Settlement Practices Regulations
           </Link>{' '}
           (10 CCR 2695), which implement 790.03, are independently enforceable through{' '}
-          <Link href="/resources/cdi-complaint" className="text-[#2E74B5] hover:underline">
+          <Link href="/resources/file-cdi-complaint-guide" className="text-[#2E74B5] hover:underline">
             CDI complaints
           </Link>. Even though you cannot sue directly under 790.03, the regulatory violations that
           flow from the same conduct can be reported to the Department of Insurance.

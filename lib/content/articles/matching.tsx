@@ -209,7 +209,7 @@ export default function Content() {
         explicitly.
         For a fuller treatment of how depreciation is calculated under California law, see
         our article on{' '}
-        <Link href="/resources/broad-evidence-rule-acv" className="text-[#2E74B5] underline">
+        <Link href="/resources/acv-rcv" className="text-[#2E74B5] underline">
           how depreciation is calculated under California law
         </Link>
         .

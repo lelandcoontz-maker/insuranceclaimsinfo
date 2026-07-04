@@ -90,7 +90,7 @@ export default function Content() {
       </blockquote>
       <p className="text-gray-700 leading-relaxed mb-4">
         For a full discussion of this doctrine and how California courts have applied it, see our detailed article on the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">efficient proximate cause doctrine</Link>.
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">efficient proximate cause doctrine</Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The following are the most common scenarios where earth movement resulting from a covered peril is covered under a standard California homeowner policy.

@@ -274,7 +274,7 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         In California, the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">
           efficient proximate cause doctrine
         </Link>{' '}
         provides that when a loss results from a chain of causation involving both covered
@@ -425,7 +425,7 @@ export default function Content() {
           </Link>
         </li>
         <li>
-          <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] underline">
+          <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] underline">
             The Efficient Proximate Cause Doctrine
           </Link>
         </li>

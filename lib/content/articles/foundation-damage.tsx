@@ -32,7 +32,7 @@ export default function Content() {
         wrong about why it moved. If a plumbing leak saturated the soil beneath your home and
         caused that soil to wash away, compress, or expand &mdash; the water leak is what
         started the chain of events, not the earth itself. Under California&rsquo;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause doctrine
         </Link>, that distinction can mean the difference between a six-figure payout and a
         denial letter.
@@ -97,7 +97,7 @@ export default function Content() {
         foundation introduces water to the clay soil, the clay swells, and the slab heaves
         upward. The leak is the covered peril. The earth movement is the mechanism of damage.
         This is a textbook{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause
         </Link>{' '}
         scenario.
@@ -212,7 +212,7 @@ export default function Content() {
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
         California&rsquo;s{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause doctrine
         </Link>{' '}
         requires insurers to look past the immediate mechanism of damage and identify the
@@ -364,7 +364,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For a detailed analysis of these cases and the statutory framework, see our full
         article on the{' '}
-        <Link href="/resources/efficient-proximate-cause" className="text-[#2E74B5] hover:underline">
+        <Link href="/resources/efficient-proximate-cause-doctrine" className="text-[#2E74B5] hover:underline">
           efficient proximate cause doctrine
         </Link>.
       </p>
