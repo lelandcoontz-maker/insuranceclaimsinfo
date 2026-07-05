@@ -7,6 +7,15 @@ const nextConfig = {
     formats: ['image/avif', 'image/webp'],
   },
   redirects: async () => [
+    // 2026-07-05: www serves a duplicate copy of the site (200, no redirect), splitting
+    // Google Search credit across two hosts — GSC property covers non-www only.
+    // Canonicalize: www.insuranceclaimsinfo.com/* -> insuranceclaimsinfo.com/*
+    {
+      source: '/:path*',
+      has: [{ type: 'host', value: 'www.insuranceclaimsinfo.com' }],
+      destination: 'https://insuranceclaimsinfo.com/:path*',
+      permanent: true,
+    },
     {
       source: '/resources/pending-claim-policyholder-dies',
       destination: '/resources/policyholder-death-coverage',
