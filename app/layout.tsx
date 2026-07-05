@@ -26,6 +26,9 @@ export const metadata: Metadata = {
   ],
   verification: {
     google: 'OJaLyOK2b1U2q4VBGlpVDFSLSTAp9fKnZ4pRAsJLZkQ',
+    other: {
+      'ahrefs-site-verification': '26a5ac226a4ec2d4b47e2cc7b4eea446adbf04aa09ecfa636e4f494916cb1235',
+    },
   },
   alternates: { canonical: '/' },
   openGraph: {
