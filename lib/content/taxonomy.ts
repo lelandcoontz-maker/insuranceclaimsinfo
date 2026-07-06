@@ -2477,6 +2477,22 @@ export const CATEGORIES: Category[] = [
         tagColor: 'bg-orange-100 text-orange-700',
       },
       {
+        icon: '🪜',
+        title: 'Ladder Assist Companies: The Third Party on Your Roof',
+        desc: 'When the adjuster never climbs, a vendor technician judges your roof. Who they are, what they report, and how to verify it.',
+        href: '/resources/ladder-assist-companies',
+        tag: 'Disputes',
+        tagColor: 'bg-orange-100 text-orange-700',
+      },
+      {
+        icon: '🔬',
+        title: "When the Carrier's Engineer Report Gets 'Peer Reviewed'",
+        desc: 'Field findings can soften between draft and final. The version problem, the signals, and how to request every version.',
+        href: '/resources/engineer-report-peer-review',
+        tag: 'Disputes',
+        tagColor: 'bg-orange-100 text-orange-700',
+      },
+      {
         icon: '🚫',
         title: 'When Matching Is Impossible: Banned Materials & Custom Finishes',
         desc: 'What happens when original materials are banned by California law, discontinued, or too custom to replicate — and why the carrier owes more, not less.',
@@ -3899,6 +3915,14 @@ export const CATEGORIES: Category[] = [
         desc: 'What lives in the file beyond the estimate, the August 2025 CDI notice on preliminary estimates, and how to get all of it.',
         href: '/resources/claim-file-documents-you-never-see',
         tag: 'CDI Document',
+        tagColor: 'bg-blue-100 text-blue-700',
+      },
+      {
+        icon: '🏢',
+        title: 'When a TPA Handles Your Property Claim: Who Actually Has Authority?',
+        desc: 'The policy is with the carrier, but a company you have never heard of runs the claim. Duties, deadlines, and authority caps.',
+        href: '/resources/tpa-third-party-administrator-claims',
+        tag: 'Claims Process',
         tagColor: 'bg-blue-100 text-blue-700',
       },
       {
