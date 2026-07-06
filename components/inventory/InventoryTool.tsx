@@ -204,7 +204,7 @@ export function InventoryTool({ rooms }: Props) {
     }
   }, [leadCaptured, rooms, state, totalChecked, totalValue])
 
-  const handleLeadSubmit = useCallback(async (firstName: string, email: string, wantsReview: boolean) => {
+  const handleLeadSubmit = useCallback(async (firstName: string, email: string, wantsReview: boolean, website: string) => {
     try {
       await fetch('/api/leads', {
         method: 'POST',
@@ -213,6 +213,7 @@ export function InventoryTool({ rooms }: Props) {
           firstName,
           email,
           wantsReview,
+          website,
           source: 'inventory-tool',
           checkedCount: totalChecked,
           estimatedTotal: totalValue,

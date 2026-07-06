@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { CheckCircle2 } from 'lucide-react'
 import type { CtaVariant } from './ArticleLayout'
+import { HoneypotField } from '@/components/forms/HoneypotField'
 
 // Map a CTA variant to a claim type so the lead arrives pre-categorized.
 const VARIANT_CLAIM_TYPE: Partial<Record<CtaVariant, string>> = {
@@ -26,8 +27,9 @@ export function InlineLeadForm({ ctaVariant, buttonLabel }: InlineLeadFormProps)
     setForm(f => ({ ...f, [field]: value }))
   }
 
-  async function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    const website = (e.currentTarget.elements.namedItem('website') as HTMLInputElement)?.value ?? ''
     if (!form.firstName || !form.email) {
       setError('Please enter your name and email.')
       return
@@ -45,6 +47,7 @@ export function InlineLeadForm({ ctaVariant, buttonLabel }: InlineLeadFormProps)
           wantsReview: true,
           source: `article-cta-${ctaVariant}`,
           claimType: VARIANT_CLAIM_TYPE[ctaVariant] ?? '',
+          website,
           timestamp: new Date().toISOString(),
         }),
       })
@@ -112,6 +115,8 @@ export function InlineLeadForm({ ctaVariant, buttonLabel }: InlineLeadFormProps)
       {error && (
         <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2 mt-3" role="alert">{error}</p>
       )}
+
+      <HoneypotField id={`inline-website-${ctaVariant}`} />
 
       <button
         type="submit"

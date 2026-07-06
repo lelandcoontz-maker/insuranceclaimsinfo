@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { CheckCircle2, BadgeCheck, Banknote, CalendarDays, Lock, MapPin, Globe, Briefcase, Clock, Navigation } from 'lucide-react'
 import { trackEvent } from '@/lib/analytics'
+import { HoneypotField } from '@/components/forms/HoneypotField'
 
 const US_STATES = [
   'Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware',
@@ -31,8 +32,9 @@ export default function ContactPage() {
     setForm(f => ({ ...f, [field]: value }))
   }
 
-  async function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    const website = (e.currentTarget.elements.namedItem('website') as HTMLInputElement)?.value ?? ''
     if (!form.firstName || !form.email) {
       setError('Please fill in your name and email.')
       return
@@ -53,6 +55,7 @@ export default function ContactPage() {
           propertyAddress: form.propertyAddress,
           claimType: form.claimType,
           message: form.message,
+          website,
           timestamp: new Date().toISOString(),
         }),
       })
@@ -252,6 +255,8 @@ export default function ContactPage() {
             {error && (
               <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2" role="alert">{error}</p>
             )}
+
+            <HoneypotField id="contact-website" />
 
             <button
               type="submit"

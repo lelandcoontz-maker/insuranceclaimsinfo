@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { HoneypotField } from '@/components/forms/HoneypotField'
 
 interface LeadCaptureFormProps {
   claimType: string
@@ -13,8 +14,9 @@ export function LeadCaptureForm({ claimType, heading, description }: LeadCapture
   const [submitted, setSubmitted] = useState(false)
   const [error, setError] = useState('')
 
-  async function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    const website = (e.currentTarget.elements.namedItem('website') as HTMLInputElement)?.value ?? ''
     if (!form.firstName || !form.email) {
       setError('Please provide your name and email.')
       return
@@ -30,6 +32,7 @@ export function LeadCaptureForm({ claimType, heading, description }: LeadCapture
           source: `other-claims-${claimType}`,
           claimType,
           message: `Phone: ${form.phone || 'not provided'} | ${form.message}`,
+          website,
           timestamp: new Date().toISOString(),
         }),
       })
@@ -107,6 +110,7 @@ export function LeadCaptureForm({ claimType, heading, description }: LeadCapture
           />
         </div>
         {error && <p className="text-red-600 text-sm" role="alert">{error}</p>}
+        <HoneypotField id={`lead-website-${claimType}`} />
         <button
           type="submit"
           className="w-full bg-[#C9A84C] hover:bg-[#A8872E] text-white font-semibold py-3 rounded-lg transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#C9A84C]"

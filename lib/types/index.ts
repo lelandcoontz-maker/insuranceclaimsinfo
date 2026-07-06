@@ -53,6 +53,7 @@ export interface Lead {
   checkedCount?: number
   estimatedTotal?: number
   timestamp: string
+  website?: string          // honeypot — humans never fill this; non-empty = bot
 }
 
 // ─── Article / resource content (future CMS integration) ─────────────────────

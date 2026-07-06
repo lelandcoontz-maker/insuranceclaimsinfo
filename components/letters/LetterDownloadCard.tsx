@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useId } from 'react'
+import { HoneypotField } from '@/components/forms/HoneypotField'
 
 interface Props {
   id: string
@@ -22,8 +23,9 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
   const modalTitleId = `${uid}-modal-title`
   const previewId = `${uid}-preview`
 
-  async function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    const website = (e.currentTarget.elements.namedItem('website') as HTMLInputElement)?.value ?? ''
     if (!firstName.trim()) { setError('Please enter your first name.'); return }
     if (!email.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       setError('Please enter a valid email address.')
@@ -42,6 +44,7 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
           source: `letter-template-${id}`,
           wantsReview,
           message: `Downloaded template letter: ${title}`,
+          website,
           timestamp: new Date().toISOString(),
         }),
       })
@@ -167,6 +170,7 @@ export function LetterDownloadCard({ id, title, regulation, description, letterC
               {error && (
                 <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2" role="alert">{error}</p>
               )}
+              <HoneypotField id={`${uid}-website`} />
               <button
                 type="submit"
                 disabled={submitting}

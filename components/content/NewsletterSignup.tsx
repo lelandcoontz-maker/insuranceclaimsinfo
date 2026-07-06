@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { HoneypotField } from '@/components/forms/HoneypotField'
 
 interface Props {
   variant?: 'inline' | 'card'
@@ -12,8 +13,9 @@ export function NewsletterSignup({ variant = 'card', source = 'article' }: Props
   const [submitted, setSubmitted] = useState(false)
   const [error, setError] = useState('')
 
-  async function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    const website = (e.currentTarget.elements.namedItem('website') as HTMLInputElement)?.value ?? ''
     if (!email || !email.includes('@')) {
       setError('Please enter a valid email address.')
       return
@@ -29,6 +31,7 @@ export function NewsletterSignup({ variant = 'card', source = 'article' }: Props
           claimType: 'newsletter',
           firstName: '',
           message: 'Newsletter signup',
+          website,
           timestamp: new Date().toISOString(),
         }),
       })
@@ -51,6 +54,7 @@ export function NewsletterSignup({ variant = 'card', source = 'article' }: Props
   if (variant === 'inline') {
     return (
       <form onSubmit={handleSubmit} className="flex gap-2 items-center my-4">
+        <HoneypotField id={`newsletter-website-${source}`} />
         <label htmlFor={`newsletter-${source}`} className="sr-only">Email for updates</label>
         <input
           id={`newsletter-${source}`}
@@ -80,6 +84,7 @@ export function NewsletterSignup({ variant = 'card', source = 'article' }: Props
         No spam. Only new articles and important updates for California policyholders.
       </p>
       <form onSubmit={handleSubmit} className="flex gap-2">
+        <HoneypotField id={`newsletter-card-website-${source}`} />
         <label htmlFor={`newsletter-card-${source}`} className="sr-only">Email for updates</label>
         <input
           id={`newsletter-card-${source}`}

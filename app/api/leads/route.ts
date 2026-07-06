@@ -12,6 +12,12 @@ export async function POST(req: NextRequest) {
   try {
     const body = await req.json() as Partial<Lead>
 
+    // Honeypot: hidden "website" field — humans leave it empty, bots fill it.
+    // Silently accept and drop (no log, no email) so bots can't tell.
+    if (typeof body.website === 'string' && body.website !== '') {
+      return NextResponse.json({ success: true })
+    }
+
     const lead: Lead = {
       firstName:      body.firstName ?? '',
       lastName:       body.lastName,

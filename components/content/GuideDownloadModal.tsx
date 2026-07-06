@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
+import { HoneypotField } from '@/components/forms/HoneypotField'
 
 interface Props {
   guideName: string
@@ -18,8 +19,9 @@ export function GuideDownloadModal({ guideName, guideFile, onClose }: Props) {
 
   useEffect(() => { firstRef.current?.focus() }, [])
 
-  async function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    const website = (e.currentTarget.elements.namedItem('website') as HTMLInputElement)?.value ?? ''
     if (!firstName.trim()) { setError('Please enter your first name.'); return }
     if (!email.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       setError('Please enter a valid email address.')
@@ -38,6 +40,7 @@ export function GuideDownloadModal({ guideName, guideFile, onClose }: Props) {
           source: `free-guide-${guideFile}`,
           wantsReview,
           message: `Downloaded free guide: ${guideName}`,
+          website,
           timestamp: new Date().toISOString(),
         }),
       })
@@ -146,6 +149,8 @@ export function GuideDownloadModal({ guideName, guideFile, onClose }: Props) {
           {error && (
             <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2" role="alert">{error}</p>
           )}
+
+          <HoneypotField id="guide-website" />
 
           <button
             type="submit"

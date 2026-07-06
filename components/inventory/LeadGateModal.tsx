@@ -1,11 +1,12 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
+import { HoneypotField } from '@/components/forms/HoneypotField'
 
 interface Props {
   checkedCount: number
   estimatedTotal: number
-  onSubmit: (firstName: string, email: string, wantsReview: boolean) => void
+  onSubmit: (firstName: string, email: string, wantsReview: boolean, website: string) => void
   onClose: () => void
 }
 
@@ -19,8 +20,9 @@ export function LeadGateModal({ checkedCount, estimatedTotal, onSubmit, onClose 
 
   useEffect(() => { firstRef.current?.focus() }, [])
 
-  async function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    const website = (e.currentTarget.elements.namedItem('website') as HTMLInputElement)?.value ?? ''
     if (!firstName.trim()) { setError('Please enter your first name.'); return }
     if (!email.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       setError('Please enter a valid email address.')
@@ -28,7 +30,7 @@ export function LeadGateModal({ checkedCount, estimatedTotal, onSubmit, onClose 
     }
     setError('')
     setSubmitting(true)
-    await onSubmit(firstName.trim(), email.trim(), wantsReview)
+    await onSubmit(firstName.trim(), email.trim(), wantsReview, website)
     setSubmitting(false)
   }
 
@@ -140,6 +142,8 @@ export function LeadGateModal({ checkedCount, estimatedTotal, onSubmit, onClose 
           {error && (
             <p className="text-red-600 text-sm bg-red-50 rounded px-3 py-2" role="alert">{error}</p>
           )}
+
+          <HoneypotField id="leadgate-website" />
 
           <button
             type="submit"
