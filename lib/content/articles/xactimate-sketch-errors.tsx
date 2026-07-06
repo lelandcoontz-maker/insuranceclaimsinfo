@@ -299,7 +299,7 @@ export default function Content() {
       </ul>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        California&apos;s Fair Claims Settlement Practices Regulations bear on this issue in two ways. First, 10 CCR &sect;2695.9(d) requires that when an insurer prepares a written estimate, the estimate must be one that would allow the damaged property to be restored to its pre-loss condition, in accordance with accepted trade standards, at costs that are accurate for the local market area. An estimate built on dimensions smaller than the actual building arguably cannot satisfy that standard &mdash; the quantities it prices are not the quantities restoration of the real structure requires.
+        California&apos;s Fair Claims Settlement Practices Regulations bear on this issue in two ways. First, 10 CCR &sect;2695.9(d) requires that when an insurer prepares a written estimate, the estimate must be one that would allow the damaged property to be restored to its pre-loss condition, in accordance with accepted trade standards &mdash; and the same subsection separately requires the insurer to take reasonable steps to verify that the costs it uses are accurate and representative of the local market area. An estimate built on dimensions smaller than the actual building arguably cannot satisfy that standard &mdash; the quantities it prices are not the quantities restoration of the real structure requires.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -343,7 +343,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Yes. A policyholder can submit measured dimensions and photographs in writing and ask the carrier to correct the sketch and reissue the estimate. Because Xactimate recalculates quantities automatically from the sketch, correcting the geometry corrects every affected line item at once. Under 10 CCR &sect;2695.9(d), an insurer&apos;s written estimate must be one that would restore the property to its pre-loss condition in accordance with accepted trade standards at local-market-accurate costs &mdash; a standard that arguably cannot be met by an estimate priced from dimensions smaller than the actual building.
+        Yes. A policyholder can submit measured dimensions and photographs in writing and ask the carrier to correct the sketch and reissue the estimate. Because Xactimate recalculates quantities automatically from the sketch, correcting the geometry corrects every affected line item at once. Under 10 CCR &sect;2695.9(d), an insurer&apos;s written estimate must be one that would restore the property to its pre-loss condition in accordance with accepted trade standards, with costs the insurer has taken reasonable steps to verify against the local market &mdash; a standard that arguably cannot be met by an estimate priced from dimensions smaller than the actual building.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">

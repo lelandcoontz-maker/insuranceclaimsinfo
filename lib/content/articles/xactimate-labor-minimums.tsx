@@ -385,7 +385,9 @@ export default function Content() {
         situation. 10 CCR &sect;2695.9(d) requires that an estimate prepared by or for
         the insurer be of an amount that will restore the damaged property to no less
         than its pre-loss condition, in accordance with accepted trade standards for good
-        and workmanlike construction, at costs that are accurate for the local market area. An estimate
+        and workmanlike construction. The same subsection separately requires the insurer
+        to take reasonable steps to verify that the repair costs it uses are accurate and
+        representative of costs in the local market area. An estimate
         that prices a licensed trade&apos;s mobilization below what any tradesperson in
         the local market actually charges to mobilize sits uneasily next to that
         requirement &mdash; particularly when the insurer&apos;s own estimating platform,
@@ -394,14 +396,20 @@ export default function Content() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The regulation has teeth in a second place. Under &sect;2695.9(d)(2), if the
-        insured asks, the insurer must provide the name of a contractor who will actually
-        perform the repairs for the amount of the insurer&apos;s estimate. An insured
-        might consider making exactly that request in writing: identify the trades whose
-        minimums appear to be missing, and ask the carrier to name a licensed contractor
-        who will complete the full scope &mdash; including getting a plumber and an
-        electrician to the property &mdash; for the estimate&apos;s figure. If no such
-        contractor exists at that price, the request tends to surface that fact quickly.
+        The regulation has teeth in a second place. Once an insured submits a competing
+        written estimate showing that necessary repairs will exceed the carrier&apos;s
+        figure, &sect;2695.9(d) obligates the insurer to do one of three things: pay the
+        difference between the two estimates; if requested, name a repair contractor who
+        will actually perform the work for the amount of the insurer&apos;s estimate
+        (&sect;2695.9(d)(2)); or reasonably adjust the estimate prepared by the
+        insured&apos;s own contractor. That menu is why contractor bids matter so much on
+        a labor-minimum dispute. An insured holding a bid that prices real mobilization
+        costs might consider submitting it with a written request that the carrier either
+        pay the difference or name a licensed contractor who will complete the full scope
+        &mdash; including getting a plumber and an electrician to the property &mdash; for
+        the estimate&apos;s figure. If no such contractor exists at that price, the request
+        tends to surface that fact quickly &mdash; and the first option, paying the
+        difference, is the outcome the regulation itself puts on the table.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -519,10 +527,11 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        A re-review. A specific written request &mdash; identifying the trades, citing
-        the contractor bids, asking under 10 CCR &sect;2695.9(d)(2) for the name of a
-        contractor who will do the work at the estimate&apos;s price &mdash; typically
-        results in the carrier taking a second look and, where the removals cannot be
+        A re-review. A specific written request &mdash; identifying the trades and
+        submitting the contractor bids that trigger 10 CCR &sect;2695.9(d)&apos;s
+        three-option menu (pay the difference, name a contractor who will do the work at
+        the estimate&apos;s price, or reasonably adjust the insured&apos;s bid) &mdash;
+        typically results in the carrier taking a second look and, where the removals cannot be
         justified, issuing a corrected estimate. It is not an instant payment mechanism,
         and anyone promising otherwise is overselling. But on small claims, restoring the
         minimums frequently moves the claim from below the deductible to payable, which

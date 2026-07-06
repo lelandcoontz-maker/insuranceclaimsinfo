@@ -86,8 +86,10 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         California Insurance Code &sect; 2071 prescribes the Standard Form Fire Insurance
-        Policy, and its appraisal provision is built into every fire policy issued in the
-        state. The trigger language is short and specific:
+        Policy, and its appraisal provision reaches fire policies issued in the state &mdash;
+        directly, or through &sect; 2070&apos;s requirement that non-standard forms be
+        substantially equivalent or more favorable. The trigger language is short and
+        specific:
       </p>
 
       <CalloutBox variant="legal" title="Cal. Ins. Code § 2071 — The Appraisal Trigger (verbatim)">
@@ -320,7 +322,7 @@ export default function Content() {
           the respondent to arbitrate the controversy if it determines that an agreement
           to arbitrate the controversy exists, unless it determines that: [waiver of the
           right to compel, grounds for rescission of the agreement, or specified
-          third-party litigation scenarios apply].
+          third-party litigation or statutory identity-theft scenarios apply].
         </p>
       </CalloutBox>
 

@@ -59,7 +59,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        Remove &amp; Replace is a fundamentally different operation. The damaged item is torn out, hauled away and disposed of, and a brand-new item is purchased and installed in its place. The R&amp;R price accordingly carries three components that D&amp;R does not: the removal labor for an item that does not need to be preserved, the disposal of the old material, and &mdash; most significantly &mdash; the material cost of the new item.
+        Remove &amp; Replace is a fundamentally different operation. The damaged item is torn out, hauled away and disposed of, and a brand-new item is purchased and installed in its place. The R&amp;R price accordingly carries components that D&amp;R does not: the removal labor for an item that does not need to be preserved, debris removal (and, depending on the line item, haul-off and dump fees &mdash; sometimes priced separately), and &mdash; most significantly &mdash; the material cost of the new item.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -71,7 +71,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The reason this substitution is even possible is a feature of the Xactimate database itself. For most detachable components, the database offers both operations: a Detach &amp; Reset entry and a Remove &amp; Replace entry, under the same category and often with nearly identical descriptions. The estimator chooses between them with a single selection. Nothing in the software flags the choice, questions it, or asks whether the item is actually damaged. The operation code is simply one of the estimator&apos;s judgment calls &mdash; and it is one of the least visible judgment calls on the printed page, because the descriptions read so similarly.
+        The reason this substitution is even possible is a feature of the Xactimate database itself. For most detachable components, the database offers both operations on the same component &mdash; the estimator selects the activity, Detach &amp; Reset or Remove &amp; Replace, with a single choice, and the printed descriptions read nearly identically. Nothing in the software flags the choice, questions it, or asks whether the item is actually damaged. The operation code is simply one of the estimator&apos;s judgment calls &mdash; and it is one of the least visible judgment calls on the printed page, because the descriptions read so similarly.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -117,7 +117,7 @@ export default function Content() {
       </ul>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In every one of these examples, the line item is present. The room is not missing. The component is named. A policyholder scanning the estimate sees their baseboard, their tile, their cabinets, each with a dollar figure attached, and reasonably concludes the estimate addresses them. What the policyholder cannot see without reading the operation code is that the dollar figure is a labor-only number &mdash; that the estimate has quietly assumed the damaged item will be reused, and has therefore paid for no replacement material and no disposal.
+        In every one of these examples, the line item is present. The room is not missing. The component is named. A policyholder scanning the estimate sees their baseboard, their tile, their cabinets, each with a dollar figure attached, and reasonably concludes the estimate addresses them. What the policyholder cannot see without reading the operation code is that the dollar figure is a labor-only number &mdash; that the estimate has quietly assumed the damaged item will be reused, and has therefore paid for no replacement material and no debris removal for it.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -220,11 +220,11 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, the Fair Claims Settlement Practices Regulations speak to this situation. 10 CCR &sect;2695.9(d) requires that when an insurer prepares the repair estimate, that estimate be one that restores the property to its pre-loss condition, in accordance with accepted trade standards for good and workmanlike construction, at costs available in the local market. An estimate that pays labor-only reset charges on items that are damaged &mdash; or on items that accepted trade practice says will not survive detachment &mdash; is difficult to square with that standard, because following it as written would not return the property to pre-loss condition.
+        In California, the Fair Claims Settlement Practices Regulations speak to this situation. 10 CCR &sect;2695.9(d) requires that when an insurer prepares the repair estimate, that estimate be one that restores the property to its pre-loss condition, in accordance with accepted trade standards for good and workmanlike construction &mdash; and the same subsection separately requires the insurer to take reasonable steps to verify that the repair costs it uses are accurate and representative of the local market. An estimate that pays labor-only reset charges on items that are damaged &mdash; or on items that accepted trade practice says will not survive detachment &mdash; is difficult to square with that standard, because following it as written would not return the property to pre-loss condition.
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The same regulation supplies a practical test. Under &sect;2695.9(d)(2), an insured may request that the insurer provide the name of a contractor who will perform the repairs at the carrier&apos;s estimated price. A policyholder facing an estimate full of D&amp;R lines on damaged trim, tile, and cabinetry might consider making that request: if no contractor will reset broken baseboard or &ldquo;reset&rdquo; cracked tile at the estimated figure, the request tends to surface the problem in a way the carrier must respond to.
+        The same regulation supplies a practical test. Once the insured submits a competing written estimate &mdash; a contractor&apos;s bid pricing the damaged items for replacement &mdash; &sect;2695.9(d) requires the insurer to do one of three things: pay the difference, name a contractor who will perform the repairs at the carrier&apos;s estimated price if the insured requests one (&sect;2695.9(d)(2)), or reasonably adjust the insured&apos;s contractor estimate. A policyholder facing an estimate full of D&amp;R lines on damaged trim, tile, and cabinetry might consider submitting exactly that bid with the name-a-contractor request: if no contractor will reset broken baseboard or &ldquo;reset&rdquo; cracked tile at the estimated figure, the menu leaves the carrier with paying the difference or adjusting the bid.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -252,7 +252,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        In Xactimate, a Detach &amp; Reset line signals that the estimate assumes the existing item will be reused. The price covers disconnection, handling, and reinstallation, plus minor incidentals such as a wax ring or caulk &mdash; but no replacement item and no disposal. If the item is actually damaged, or is a type that rarely survives detachment, a D&amp;R line means the estimate has not funded its replacement.
+        In Xactimate, a Detach &amp; Reset line signals that the estimate assumes the existing item will be reused. The price covers disconnection, handling, and reinstallation, plus minor incidentals such as a wax ring or caulk &mdash; but no replacement item and no debris removal for it. If the item is actually damaged, or is a type that rarely survives detachment, a D&amp;R line means the estimate has not funded its replacement.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -260,7 +260,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        It varies with the component, because the difference is essentially the material price plus disposal. On inexpensive hardware the gap is small; on plumbing fixtures, appliances, specialty lighting, and cabinetry, the D&amp;R line can be a small fraction of the R&amp;R line. Across a whole-house loss with dozens of fixture and trim lines, the cumulative difference between an estimate written in D&amp;R and one correctly written in R&amp;R can reach tens of thousands of dollars.
+        It varies with the component, because the difference is essentially the material price plus removal and debris costs. On inexpensive hardware the gap is small; on plumbing fixtures, appliances, specialty lighting, and cabinetry, the D&amp;R line can be a small fraction of the R&amp;R line. Across a whole-house loss with dozens of fixture and trim lines, the cumulative difference between an estimate written in D&amp;R and one correctly written in R&amp;R can reach tens of thousands of dollars.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -276,7 +276,7 @@ export default function Content() {
       </h3>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        The productive path is a documented scope correction: compare operations line by line against the contractor&apos;s bid, photograph the condition of each disputed item, and request in writing that the carrier justify the reset assumption on items documented as damaged. In California, 10 CCR &sect;2695.9(d) requires an insurer-prepared estimate to restore pre-loss condition per accepted trade standards at local-market costs, and &sect;2695.9(d)(2) allows an insured to request the name of a contractor who will do the work at the carrier&apos;s estimated price &mdash; a request that tends to expose reset pricing no contractor will honor.
+        The productive path is a documented scope correction: compare operations line by line against the contractor&apos;s bid, photograph the condition of each disputed item, and request in writing that the carrier justify the reset assumption on items documented as damaged. In California, 10 CCR &sect;2695.9(d) requires an insurer-prepared estimate to restore pre-loss condition per accepted trade standards, with verified local-market costs &mdash; and once the insured submits a competing written bid, the insurer must pay the difference, name a contractor who will do the work at its estimated price on request (&sect;2695.9(d)(2)), or reasonably adjust the bid. Reset pricing that no contractor will honor rarely survives that menu.
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">

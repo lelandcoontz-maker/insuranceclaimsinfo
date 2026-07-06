@@ -67,9 +67,10 @@ export default function Content() {
 
       <p className="text-gray-700 leading-relaxed mb-4">
         California&apos;s appraisal provision lives in Insurance Code &sect; 2071, the
-        Standard Form Fire Insurance Policy that every fire policy issued in the state must
-        contain or incorporate. The current statutory text sets the same qualification
-        standard for all three panel members:
+        Standard Form Fire Insurance Policy. Under &sect; 2070, fire policies issued in
+        the state must either use that standard form or provide coverage substantially
+        equivalent to or more favorable than it. The current statutory text sets the same
+        qualification standard for all three panel members:
       </p>
 
       <CalloutBox variant="legal" title="Cal. Ins. Code § 2071 — Qualification Language (verbatim)">
@@ -412,8 +413,9 @@ export default function Content() {
         appraiser: because a &sect; 2071 appraisal is an arbitration, the appraiser was
         protected by <strong>arbitral immunity</strong>. Central to the reasoning was the
         statute itself &mdash; &sect; 2071 requires each appraiser to be &ldquo;competent
-        and disinterested,&rdquo; and the Legislature has made appraiser impartiality a
-        statutory requirement. An appraiser is a panel member with an impartiality
+        and disinterested,&rdquo; and &mdash; as the court reiterated from its earlier
+        holding in <em>Gebers</em> &mdash; the Legislature has made appraiser impartiality
+        a statutory requirement. An appraiser is a panel member with an impartiality
         obligation, not counsel with a duty of zealous advocacy. <strong>The appraiser
         won</strong> on that claim. (The court separately allowed the policyholders&apos;
         suit against a differently situated retained expert to proceed &mdash; the immunity
