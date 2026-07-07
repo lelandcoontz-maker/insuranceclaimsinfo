@@ -73,6 +73,55 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Name the Activity Log Specifically — It Tells the Real Story
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Among the documents that live inside a claim file, there is one that tends to reveal more
+        than all the rest combined: the <strong>activity log</strong> — also called the claim
+        diary or the claim notes. It is the adjuster&apos;s chronological record of the file:
+        every call, every inspection, every coverage decision, every reserve change, and every
+        internal referral, entered in sequence as the claim moved along. If you want to understand
+        how a claim was actually handled rather than how it was later explained, the activity log
+        is usually where that story lives.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Here is why it is worth asking for by name. A general request for
+        &ldquo;claim-related documents&rdquo; may come back with estimates, scopes, and outside
+        reports — the valuation paperwork — while quietly leaving out the activity log itself.
+        Naming it specifically (activity log, claim diary, or claim notes) makes the request harder
+        to read narrowly. The log can show where a file sat idle, what internal instructions were
+        given, and the reasoning behind a coverage position that, on the surface, arrived as a
+        one-line denial or a reduced number.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Whether every internal note is ultimately producible can be contested. The same exemptions
+        that apply to the rest of the file apply here: Section 2071 carves out attorney work
+        product, attorney-client privileged documents, documents that indicate fraud by the
+        insured, and medically privileged information. A carrier may take the position that
+        portions of the log fall inside one of those categories. But the factual, chronological
+        record of how a claim was handled is claim-related documentation, and a specific request
+        for it is harder to sidestep than a general one. For a fuller look at what usually sits in
+        that file and why it stays out of view, see{' '}
+        <Link href="/resources/claim-file-documents-you-never-see" className="text-[#2E74B5] hover:underline">
+          the claim-file documents you never see
+        </Link>
+        .
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The mechanics are the same as any other claim-related document request under California
+        Insurance Code Section 2071: the insurer must provide non-exempt documents within 15
+        calendar days after receiving a request. As a practical matter, putting the request in
+        writing and naming the activity log expressly gives you the cleanest record of what you
+        asked for and when.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        In our experience, the activity log often explains a claim&apos;s history better than any
+        other single document in the file. Requesting it by name is a high-value, low-cost move —
+        it costs nothing but a sentence in your request letter, and it can surface the one record
+        that shows what really happened.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Full Text: CDI Notice on Duty to Provide Claim-Related Documents
       </h2>
 

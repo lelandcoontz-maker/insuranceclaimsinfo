@@ -215,6 +215,70 @@ export default function Content() {
       </ol>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Air Scrubbers and Equipment: How Many Days Should Be Billed?
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A smoke and mitigation scope is not just labor and materials. It includes equipment line
+        items billed <strong>per day</strong> &mdash; air scrubbers (HEPA filtration units), air
+        movers, and negative-air machines that hold containment and pull particulate out of the
+        air while the work proceeds. In my experience, one of the most common quiet reductions a
+        carrier makes is to the <strong>number of days</strong> those machines are billed. The
+        estimate comes back with equipment time trimmed to a tidy round number &mdash; a flat
+        handful of days &mdash; without regard to how long the remediation actually ran. It is a
+        line-item cut that rarely gets explained, because most homeowners never think to check the
+        equipment days against the calendar.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The mechanics are straightforward. Equipment days should track the actual work &mdash;
+        containment, cleaning, and clearance testing &mdash; not an arbitrary cap. A scrubber that
+        runs through a multi-week contents-and-structure remediation legitimately bills far more
+        days than a machine set up for a quick deodorization and pulled the next morning. There is
+        no universal &ldquo;correct&rdquo; number of days that applies to every home; the right
+        count is whatever the scope of contamination and the clearance timeline required. When a
+        carrier substitutes a generic round figure for the documented run time, it is substituting
+        its own convenience for the facts of the loss.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What supports the billed days is documentation, and this is where the dispute usually
+        turns. The remediation work order, the daily equipment and labor logs, the moisture and
+        air readings taken during the job, and the contractor&apos;s own file establish how long
+        the machines actually ran and why. Two regulatory anchors are worth keeping in mind. Under
+        10 CCR &sect; 2695.9(d), a repair or remediation estimate must be written to restore the
+        damaged property to its condition prior to the loss in accordance with accepted trade
+        standards. Separately, and as a distinct requirement, the insurer must verify that the
+        cost figures used reflect local-market prices. Those are two different obligations, not one
+        &mdash; a carrier does not satisfy the trade-standards duty simply by pointing to a price
+        list. And under Insurance Code &sect; 2071, the equipment logs and remediation
+        documentation the carrier and its vendors hold are claim-related documents that must be
+        furnished on request; the standard fire policy framework contemplates that such records be
+        provided within 15 calendar days of a request.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Days matter for more than the invoice. Equipment cut short is a source-removal problem.
+        Scrubbers and negative-air machines are part of how a job actually removes the smoke
+        source rather than merely masking it, and pulling them before clearance can leave
+        contamination in place &mdash; the same failure mode that turns up when odor treatments are
+        used as a shortcut for real cleaning. For how inadequate source removal produces a home
+        that smells clean but still tests dirty, see our{' '}
+        <Link href="/resources/thermal-fogging-odor-failure" className="text-blue-700 underline hover:text-blue-900">
+          discussion of thermal fogging and odor-treatment failures
+        </Link>{' '}
+        and our guide to{' '}
+        <Link href="/resources/soot-char-lab-testing" className="text-blue-700 underline hover:text-blue-900">
+          soot and char laboratory testing
+        </Link>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A realistic outcome here is not a windfall &mdash; it is getting paid for the days the work
+        actually took. When you can put the daily logs, the work order, and the readings in front
+        of the adjuster, a days reduction is one of the more winnable line items on re-review,
+        because the documentation answers the only real question: how long did the equipment need
+        to run to bring the property back to a pre-loss condition? Reductions made to a round
+        number, without reference to that record, are the ones most readily restored once the
+        record is supplied.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         California&apos;s Evolving Smoke Damage Standards
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

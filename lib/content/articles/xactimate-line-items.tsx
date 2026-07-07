@@ -409,6 +409,55 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Scope Notes and F9 Notes
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Xactimate lets the estimator attach notes to individual line items and to the estimate
+        as a whole. On the desktop version these are commonly reached with the F9 key, which is
+        why adjusters and estimators often refer to them as &ldquo;F9 notes.&rdquo; They function
+        as internal-style annotations &mdash; short explanations of why an item was included,
+        excluded, reduced, or flagged, or a record of instructions passed down from a desk
+        reviewer. They are not marketing language; they are the estimator&rsquo;s own working
+        commentary on the scope.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        These notes matter because they can reveal the reasoning behind an otherwise-puzzling
+        number. A note may indicate that an item was removed pending &ldquo;review,&rdquo; that a
+        reviewer directed a change, or that a line was flagged for later verification. Reading
+        that commentary often explains why a scope looks thin in a particular area &mdash; and it
+        is part of the estimate record, not a side conversation. Some notes print on the estimate
+        PDF; others live in the underlying file and never appear on the printed copy you were
+        handed.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is where the difference between the printed estimate and the full estimate file
+        matters. As discussed in the related guides above, the underlying ESX file can carry
+        detail the PDF leaves out &mdash; and scope notes are a common example. If you request
+        the complete estimate documentation, and where applicable the underlying file, you may
+        surface notes that were never visible on the printout. In California, Insurance Code
+        &sect;2071 generally treats the estimate and its related records as claim documents the
+        insured may obtain on request, and the standard form contemplates the company furnishing
+        requested claim-related documents within roughly 15 calendar days of a request. As a
+        practical matter, it is usually worth putting any such request in writing so there is a
+        clear record of what was asked for and when.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It is also worth remembering who is responsible for the result. The Fair Claims Settlement Practices
+        Regulations &mdash; 10 CCR &sect;2695.1(g) &mdash; reflect the principle that an insurer&rsquo;s reliance on a tool, a
+        software output, or a third party does not by itself relieve the company of its own
+        obligations under the regulations. In other words, a note reading &ldquo;reduced per
+        review&rdquo; or &ldquo;held pending desk approval&rdquo; does not, on its own, settle
+        whether the reduction was correct &mdash; it simply documents that a decision was made and
+        by whom.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The takeaway for a policyholder is a modest one: when a line item does not make sense, the
+        note attached to it frequently explains the number. That explanation is often the most
+        useful starting point for a targeted re-review request &mdash; a specific, documented ask
+        about a specific line, rather than a general complaint that the estimate feels low.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What to Do When the Estimate Is Wrong
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

@@ -61,6 +61,63 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Non-Waiver Agreement vs. Reservation of Rights: Know Which One You Are Holding
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A closely related document is frequently confused with the reservation of rights letter, and
+        the confusion matters: the <strong>non-waiver agreement</strong>. The two instruments serve a
+        similar protective function &mdash; both allow the investigation to move forward without either
+        side giving up its position on coverage &mdash; but they arrive in fundamentally different forms.
+        The distinction is simple enough to state, and it is the first thing a policyholder should sort
+        out: a reservation of rights <em>arrives</em>; a non-waiver agreement <em>asks for a signature</em>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A reservation of rights letter, as described above, is the insurer&apos;s <em>unilateral</em>
+        notice. The insurer writes it, sends it, and proceeds. The policyholder does not sign it and is
+        not asked to agree to anything &mdash; it is a one-way communication informing the policyholder
+        that the insurer intends to investigate or handle the claim while preserving its right to take
+        a coverage position later. A non-waiver agreement, by contrast, is a <em>bilateral</em> document.
+        The insurer asks the policyholder to <em>sign</em> it, and by signing, both sides agree that
+        going forward with the investigation &mdash; an inspection, an{' '}
+        <Link href="/resources/examination-under-oath" className="text-[#2E74B5] underline">
+          Examination Under Oath
+        </Link>
+        , the production of documents, and sometimes emergency repairs or mitigation &mdash; does not
+        waive either party&apos;s rights or positions on coverage. Policyholders are sometimes handed a
+        non-waiver agreement at a fire scene or early in a large loss, which is often when someone
+        searches the exact phrase to understand what they have just been asked to put their name on.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practical difference is the signature. Because a non-waiver agreement is a signed agreement
+        rather than a notice, its <em>wording</em> carries weight, and the specific language can vary
+        from one document to the next. That is where a policyholder may want to slow down. Reading the
+        agreement carefully &mdash; understanding exactly what rights it addresses, what conduct it says
+        will not constitute a waiver, and whether it purports to reach beyond the investigation &mdash;
+        is generally worthwhile before signing anything. On a significant or contested loss, whether to
+        sign, and on what terms, is the kind of decision an insured may reasonably want a licensed
+        California attorney to review, since the language of a signed agreement can have consequences
+        that a plain notice does not.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        What the two documents have in common is more important than what separates them. Both a
+        reservation of rights letter and a non-waiver agreement are designed to <em>preserve the
+        coverage fight for later</em> &mdash; to keep the investigation moving without anyone being
+        deemed to have surrendered a position. And neither one, by itself, decides coverage. A
+        non-waiver agreement is not an admission that the claim is covered, and it is not a denial;
+        it simply keeps both sides&apos; options open while the facts are developed. Signing one does
+        not concede that an exclusion applies, and declining to sign does not, on its own, resolve the
+        coverage question either.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The takeaway is to know which document is in your hands. If it is a letter that reserves the
+        insurer&apos;s rights and asks nothing of you but your attention, it is a reservation of rights
+        and the guidance throughout this article applies. If it is a document that asks for your
+        <em> signature</em>, it is a non-waiver agreement, and the analysis shifts to the specific
+        language you are being asked to agree to. Unilateral notice versus a signed agreement &mdash;
+        that is the line, and recognizing it is the point.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         When Do Insurance Companies Send Reservation of Rights Letters?
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

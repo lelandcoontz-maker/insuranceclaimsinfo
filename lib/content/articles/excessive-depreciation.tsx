@@ -428,6 +428,87 @@ export default function Content() {
         </p>
       </div>
 
+      <h2 id="xactimate-depreciation-settings" className="text-2xl font-bold text-[#1F3964] mb-4">
+        Where the Number Comes From: Xactimate Depreciation Settings
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It helps to understand that the depreciation figure on an estimate is not a fixed truth
+        handed down from somewhere. Most carrier estimates are built in estimating software
+        &mdash; Xactimate is the industry standard &mdash; and the depreciation number is
+        produced by <strong>settings the estimator chooses</strong> inside that software. As a
+        matter of industry practice, the same scope of repair can generate very different actual
+        cash value figures depending on how those controls are set. The dollar amount deducted
+        from your claim is, in a real sense, an output of configuration choices, not an
+        independent measurement of wear.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Without inventing any particular default values, these are the controls worth
+        understanding on any estimate:
+      </p>
+      <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
+        <li>
+          <strong>Per-item vs. category depreciation</strong> &mdash; whether depreciation is
+          set individually on each line item, or applied broadly across a whole category or the
+          entire estimate. Category-level and estimate-wide settings are the mechanism behind
+          the blanket-rate problem discussed above.
+        </li>
+        <li>
+          <strong>Age/condition schedule vs. flat percentage</strong> &mdash; whether the
+          software derives depreciation from an age-and-useful-life schedule (or condition
+          adjustment) for each item, or simply applies one flat percentage. A flat percentage
+          is the setting least likely to reflect the condition-based standard California
+          requires.
+        </li>
+        <li>
+          <strong>Maximum-depreciation percentage cap</strong> &mdash; a ceiling setting that
+          limits how much depreciation any item can take. How this cap is set &mdash; or whether
+          it is engaged at all &mdash; directly shapes the size of the deduction on older
+          components.
+        </li>
+        <li>
+          <strong>Depreciate-labor and depreciate-O&amp;P toggles</strong> &mdash; separate
+          switches for whether labor, and whether overhead and profit, are treated as
+          depreciable at all. These are the settings that produce (or avoid) the labor and
+          O&amp;P deductions covered elsewhere. See our discussion of{' '}
+          <Link href="/resources/labor-depreciation-debate" className="text-[#2E74B5] underline">
+            labor depreciation
+          </Link>{' '}
+          and{' '}
+          <Link href="/resources/op-depreciation-california" className="text-[#2E74B5] underline">
+            overhead and profit depreciation
+          </Link>.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practical takeaway is straightforward: because depreciation is settings-driven, an
+        unusually high ACV deduction is worth testing against the settings that produced it. The
+        estimate&rsquo;s depreciation schedule is reviewable line by line, and the underlying
+        estimate file itself shows how each of these controls was configured. If the deduction
+        looks steep, the right question is not merely &ldquo;is this number too high&rdquo; but
+        &ldquo;which settings generated it, and are those settings consistent with a fair and
+        reasonable, condition-based deduction?&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Two authorities are worth keeping in mind when you ask for that detail. As a matter of
+        practice advice &mdash; not legal advice &mdash; the estimate and the underlying
+        estimate file are claim-related documents an insured may generally request; under
+        California Insurance Code &sect; 2071, on a request the insurer is to furnish such
+        documents within 15 calendar days, and it is prudent to make that request in writing.
+        And 10 CCR &sect; 2695.1(g) reflects that an insurer&rsquo;s reliance on estimating
+        software does not absolve it of responsibility for the depreciation actually applied
+        &mdash; the carrier, not the program, owns the result. None of this means any statute
+        sets a specific cap on depreciation percentages; the point is that the settings are
+        disclosable and the insurer remains accountable for them.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Realistically, the win here is not a courtroom fight over software. It is a{' '}
+        <strong>corrected depreciation schedule on re-review</strong>. When the estimator
+        revisits the settings &mdash; switching a flat rate to a condition-based schedule,
+        turning off labor and O&amp;P depreciation, or removing depreciation from undamaged
+        matching areas &mdash; the ACV figure is recalculated, and the corrected number often
+        looks materially different from the first one.
+      </p>
+
       <h2 id="why-acv-matters" className="text-2xl font-bold text-[#1F3964] mb-4">
         Why Excessive Depreciation Matters &mdash; Even on Replacement Cost Policies
       </h2>

@@ -151,6 +151,54 @@ export default function Content() {
       </CalloutBox>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Does a Proof of Loss Have to Be Notarized?
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The standard form fire policy does not just ask for a signature. Under California
+        Insurance Code &sect; 2071, the insured is required to render a proof of loss
+        &ldquo;signed and sworn to by the insured.&rdquo; The word <em>sworn</em> is what
+        elevates the document above an ordinary form. To swear to a statement means to
+        execute it under oath, and in practice that oath is administered by a notary public,
+        who then completes the jurat &mdash; the notarial certificate confirming that the
+        signer appeared and swore the statement was true. That is why almost every proof of
+        loss form includes a notary block at the bottom. In most cases, then, the form is
+        both signed and notarized.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It helps to understand what the notarization does and does not do. The notary is not
+        vouching for the accuracy of your numbers or the merits of your claim. The
+        notarization goes to the <em>swearing</em> &mdash; it certifies that you personally
+        appeared and took the oath, not that the contents are correct. What you are actually
+        swearing is that the statement is true to the best of your knowledge and belief.
+        Because the document is sworn, accuracy genuinely matters: a knowingly false sworn
+        statement can carry consequences well beyond a disputed claim number, a concern that
+        overlaps with the concealment and misrepresentation provisions insurers rely on. If
+        you want to understand that exposure before you sign, the companion article on{' '}
+        <Link href="/resources/material-misrepresentation-nondisclosure" className="text-[#2E74B5] hover:underline">
+          material misrepresentation and nondisclosure
+        </Link>{' '}
+        covers it in depth.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        A common point of friction is a carrier returning a proof of loss as &ldquo;not
+        properly sworn&rdquo; &mdash; usually because the notary block was left blank, the
+        jurat was incomplete, or the form was signed but never notarized. In most situations
+        the fix is straightforward: re-execute a clean copy before a notary and resubmit. It
+        would be an overstatement to suggest that a technical defect in the jurat, standing
+        alone, voids a claim or forfeits coverage, and this article does not make that
+        claim &mdash; California&rsquo;s prejudice framework, discussed above, still applies
+        to procedural shortcomings. But a rejected form does mean delay, and delay is the
+        thing most policyholders can least afford in the middle of a loss.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practical takeaway is simple: get the execution right the first time. Sign the
+        proof of loss in front of a notary public, confirm the jurat is fully completed and
+        dated, and keep a copy of the notarized document for your records before you submit
+        it. Handling the swearing correctly on the first pass is the surest way to avoid a
+        bounced-back form and the days it costs you.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         The California Nuance
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">

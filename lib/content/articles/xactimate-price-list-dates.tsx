@@ -411,6 +411,30 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Wrong Region: A Geographic Version of the Same Problem
+      </h2>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The date is only one half of what a price list controls. Every Xactimate estimate is also tied to a specific price list <em>region</em> &mdash; a defined metropolitan or geographic area &mdash; and that region carries its own set of material and labor costs. Choosing a price list for a cheaper area than the one where the property actually sits understates every unit cost in the estimate, line by line, in exactly the same way a stale date does. The mechanism is identical; only the axis is different. Where an outdated date reduces the estimate across time, a wrong region reduces it across geography. And because it is a single global setting selected before the first line item is entered, it is just as invisible on the face of a finished estimate as an old date.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Spotting it takes the same habit that finds the date. The price list code that appears in the header, near the date, also encodes the region &mdash; a code such as &quot;CALA8X&quot; identifies the California, Los Angeles area, while a different code identifies an inland or out-of-area list. The check is to compare that region identifier against where the property physically sits. A coastal or high-cost California market priced on an inland list, or on a list built for an entirely different part of the state, understates both labor and material on every trade, because construction does not cost the same in a dense coastal metro as it does in a lower-cost inland county. If the region on the estimate does not match the county the damaged property is in, that mismatch is worth quantifying the same way a date gap is.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This connects to how pricing is graded across markets. In general practice, pricing can vary by market tier &mdash; higher-cost areas carry higher labor and material rates than lower-cost ones &mdash; and the region setting is what tells the software which tier to draw from. A policyholder does not need to master the tiering to check the one thing that matters: the region on the estimate should match the area where the work will actually be performed. When it does not, the estimate is drawing its numbers from a market the repairs will never touch.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        California&apos;s claims regulations speak to this directly. Under 10 CCR &sect;2695.9(d), an estimate prepared by or on behalf of the insurer must be written to restore the damaged property to its pre-loss condition in accordance with accepted trade standards for good and workmanlike construction. Separately, the same regulation requires the insurer to take reasonable steps to verify that its estimated costs are accurate and representative of the local labor and material market area where the loss occurred. Those are two distinct obligations, and the region setting bears on both: an estimate priced on an out-of-area list is neither built on the standards of the property&apos;s own market nor verified against it. And under &sect;2695.1(g), an insurer&apos;s reliance on a pricing service or software package does not, by itself, absolve it of its obligations &mdash; the duty to get the numbers right is the carrier&apos;s, not the software&apos;s.
+      </p>
+
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The estimate and the underlying file that generated it are claim-related documents. Under Insurance Code &sect;2071, on a request they are part of the record the policyholder is entitled to, and the standard claims-handling timeframe for responding to such a request is 15 calendar days. Getting the price list code &mdash; region and all &mdash; in writing is what makes the challenge concrete. The realistic result of that challenge is narrow and specific: the correct region is selected and the estimate is re-run on the local list. No argument about market theory is required. The same software, the same line items, the correct region &mdash; and a materially different total.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Practical Recommendations
       </h2>
 

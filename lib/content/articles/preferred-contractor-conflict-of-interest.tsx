@@ -769,6 +769,59 @@ export default function Content() {
       </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        The Regulation That Makes the Carrier Name a Contractor
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        There is a regulatory tool that turns the tables on a lowball estimate, and most
+        policyholders have never heard of it. Title 10, California Code of Regulations,
+        &sect; 2695.9(d)(2) is triggered by a specific event: when the claimant, based on a
+        <em> written</em> estimate the claimant obtains, contends that the necessary repairs will
+        exceed the amount of the insurer&rsquo;s own estimate. The written competing estimate is the
+        predicate. This is not an on-demand duty the insured can invoke on a hunch &mdash; it activates
+        only once the insured puts a written number on the table that says the carrier&rsquo;s figure
+        is too low.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Once that condition is met, the regulation gives the insurer a menu of three responses, and it
+        must do one of them. First, it can pay the difference between its estimate and the
+        claimant&rsquo;s higher estimate. Second, if the claimant requests it, the insurer can provide
+        the name of at least one contractor or entity that will make the repairs for the amount of the
+        insurer&rsquo;s estimate. Third, it can reasonably adjust the estimate prepared by the
+        claimant&rsquo;s chosen contractor. Those are the options. There is no fourth choice that lets
+        the carrier simply repeat its number and walk away.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This is where the provision bites on the preferred-contractor problem. If the carrier&rsquo;s
+        number rests on what its preferred or recommended vendor will &ldquo;accept,&rdquo; the second
+        option tests that claim directly: can the carrier actually name someone &mdash; in writing,
+        by name &mdash; who will perform the full, correct scope of repairs at that price? Often the
+        answer is no. A number a vendor was willing to write down for the carrier&rsquo;s internal
+        file is a different thing from a commitment to do the entire job for that figure. When the
+        carrier cannot produce that contractor, the weakness of the estimate is exposed. And the first
+        option &mdash; paying the difference &mdash; is frequently the best outcome for the insured,
+        because it puts the disputed dollars into the claim rather than into a fight over who does the
+        work.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The realistic win is modest but real. A written request under this provision forces the
+        carrier to do one of three things: pay the difference, produce a genuine contractor who will
+        stand behind the low number, or adjust the estimate. Any of the three moves the claim forward,
+        and two of them put a corrected number in front of you on re-review. This is separate from,
+        and complements, the anti-steering protection discussed above &mdash; the rule that an insurer
+        may not require the insured to use a specific vendor. That rule protects your <em>choice</em> of
+        contractor; this one tests the honesty of the carrier&rsquo;s <em>price</em>.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        This provision does not stand alone. Section 2695.9(d) requires that repair and rebuilding cost
+        estimates used by the insurer be accurate and representative of costs in the local market area.
+        Separately, that same standard obligates the insurer to verify that its figures actually reflect
+        local-market cost before relying on them to settle the claim. A preferred vendor&rsquo;s estimate
+        produced under program pricing constraints may satisfy neither requirement &mdash; and
+        &sect; 2695.9(d)(2) gives the insured a concrete, regulation-backed way to make the carrier
+        confront the gap.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Sources and Citations
       </h2>
 

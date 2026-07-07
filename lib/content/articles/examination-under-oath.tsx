@@ -262,6 +262,51 @@ export default function Content() {
       </ul>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Your Statutory Right to Record the EUO
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Beyond the general rights discussed above, California gives insureds a specific set of
+        statutory protections tied to the EUO itself. California Insurance Code &sect; 2071.1
+        sets out several rights that apply when an insurer demands an examination under oath
+        &mdash; and one of the most useful, and least understood, is the right to record the
+        proceeding.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Under &sect; 2071.1(a)(4), &ldquo;the insured may be represented by counsel and may
+        record the examination proceedings in their entirety.&rdquo; The statute also requires,
+        under &sect; 2071.1(a)(5), that the insurer notify the insured it will provide &mdash;
+        upon request and free of charge &mdash; a copy of the transcript and any audio or video
+        recording of the proceedings, if one exists. And &sect; 2071.1(a)(2) limits the
+        examination to information that is &ldquo;relevant and reasonably necessary to process or
+        investigate the claim,&rdquo; while &sect; 2071.1(a)(3) requires that the EUO be
+        conducted &ldquo;upon reasonable notice, at a reasonably convenient place and for a
+        reasonable length of time.&rdquo; Together, these provisions push back against the
+        imbalance described earlier in this article.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        For years, insurers argued that the recording right was narrow &mdash; that the insured
+        could record only their own testimony, not the insurer&apos;s attorneys and adjusters.
+        A California Court of Appeal rejected that reading. In <em>Myasnyankin v. Nationwide
+        Mutual Insurance Co.</em> (2024) 99 Cal.App.5th 283, a published decision, the court held
+        that the word &ldquo;entirety&rdquo; in &sect; 2071.1(a)(4) means what it says: the
+        insured may video record the entire examination, including the insurer&apos;s
+        representatives, not merely themselves. The dispute arose from a water-damage claim in
+        which the insurer refused to proceed unless the insured agreed to record only himself;
+        the court sided with the policyholder.
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        The practical value of recording is real. An EUO&apos;s power comes partly from its
+        imbalance &mdash; the insurer&apos;s attorney controls the room, there is no judge, and
+        the only official record is the transcript the insurer&apos;s reporter produces. A video
+        or audio recording made by the insured helps neutralize some of that imbalance. It creates
+        an independent, accurate record of exactly what was asked and answered, tone included, and
+        it tends to discourage the kind of aggressive or wide-ranging questioning that is easier
+        when no one is watching. Whether recording is the right move in a particular examination
+        &mdash; and how to coordinate it with your testimony strategy &mdash; is a decision to
+        make with your attorney, but the underlying right belongs to you.
+      </p>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         What the Insurer&apos;s Attorney Will Ask About
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -606,6 +651,54 @@ export default function Content() {
           credible, or to undermine it if the insurer can point to inconsistencies.
         </li>
       </ol>
+
+      <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
+        Correcting the Transcript: The Errata Sheet
+      </h2>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Once the court reporter prepares the transcript, it is typically sent to you to review for
+        errors &mdash; a process usually handled through an <em>errata sheet</em>. That is the
+        correct term; it is the same mechanism used to correct deposition transcripts, and the
+        EUO review works similarly to the deposition process: the reporter provides the
+        transcript, you review it, and corrections are noted on a correction or errata sheet
+        before you sign. Because an EUO arises from the policy rather than the litigation rules,
+        the deposition correction procedures are analogous rather than automatically controlling
+        &mdash; but the basic idea is the same. California does supply a direct statutory hook:
+        Insurance Code &sect; 2071.1(a)(5) provides that an insured &ldquo;may make sworn
+        corrections to the transcript so it accurately reflects the testimony under oath.&rdquo;
+      </p>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        It helps to understand that there are two very different kinds of corrections, and they
+        are treated very differently:
+      </p>
+      <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
+        <li>
+          <strong>Transcription errors.</strong> These are mechanical mistakes in the written
+          record &mdash; misspellings, mis-heard specialized or insurance terminology, names
+          typed incorrectly (a &ldquo;Shawn&rdquo; rendered as &ldquo;Sean&rdquo;), or a wrong
+          number. Correcting the transcript so it matches what was actually said is routine and
+          appropriate. If the reporter wrote something other than the words that came out of your
+          mouth, fixing it simply makes the record accurate.
+        </li>
+        <li>
+          <strong>Substantive changes.</strong> These alter the <em>meaning</em> of an answer
+          &mdash; changing a &ldquo;yes&rdquo; to a &ldquo;no,&rdquo; adding a qualification, or
+          revising a factual statement. This is an entirely different situation. A substantive
+          change is not a clerical fix; it is a strategy and legal-consequence question.
+        </li>
+      </ul>
+      <p className="text-gray-700 leading-relaxed mb-4">
+        Why the distinction matters: when an answer is changed substantively, the original answer
+        typically remains in the record. The insurer can point to the change, question why it was
+        made, and use it to argue that your testimony &mdash; or your credibility &mdash; is
+        unreliable. For that reason, whether to make a substantive correction, and how to word it,
+        is squarely a decision for your attorney, who can weigh the consequences against the facts
+        of your claim. A routine transcription fix is something an examinee can reasonably handle;
+        a substantive change is not a do-it-yourself matter. If you find that the transcript
+        accurately records an answer you now believe was wrong or incomplete, do not simply write
+        in a new answer &mdash; raise it with your attorney and let counsel direct how, or whether,
+        to address it.
+      </p>
 
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
         Should You Always Hire an Attorney for an EUO?
