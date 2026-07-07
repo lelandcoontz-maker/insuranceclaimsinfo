@@ -481,8 +481,8 @@
   },
   "color-matching-material-aging": {
     "title": "Color Matching and Material Aging in Insurance Claims",
-    "description": "UV degradation and oxidation make new materials never truly match. The line-of-sight standard, state regulations, and case law requiring visual uniformity.",
-    "summary": "New materials never perfectly match aged ones because of UV degradation, oxidation, and weathering. Many states and the line-of-sight standard require insurers to restore visual uniformity, meaning they may owe replacement of undamaged matching areas, not just the damaged spot."
+    "description": "UV degradation and oxidation make new materials never truly match. How state matching regulations, case law, and the line-of-sight concept address visual uniformity.",
+    "summary": "New materials never perfectly match aged ones because of UV degradation, oxidation, and weathering. Many states require insurers to restore visual uniformity — often analyzed through a line-of-sight framework — meaning they may owe replacement of undamaged matching areas, not just the damaged spot."
   },
   "commercial-coinsurance": {
     "title": "Commercial Coinsurance: The Penalty That Guts Claims",
@@ -733,6 +733,11 @@
     "title": "Desk Adjusting: Estimates Without Seeing the Damage",
     "description": "How carriers use desk adjusting to write estimates without inspecting property, why remote estimates cause underpayment, and how to challenge under CA law.",
     "summary": "Desk adjusting means the insurer writes your estimate without ever inspecting the property, which systematically underpays by missing damage. California law requires a reasonable investigation, so an estimate written sight-unseen can be challenged as inadequate."
+  },
+  "detach-and-reset": {
+    "title": "Detach & Reset vs. Remove & Replace: A Costly Xactimate Substitution",
+    "description": "Detach & Reset (D&R) pays labor only; Remove & Replace (R&R) pays for a new item. When a carrier estimate writes D&R for damaged items, the material cost vanishes. How to spot and correct the substitution.",
+    "summary": "Detach & Reset pays only the labor to take an item down and reinstall the same item. Remove & Replace pays for a new one. When an Xactimate estimate codes damaged items as D&R, the entire material cost silently disappears. Reading the operation code on each line — and asking whether the exact item is truly going back in undamaged — is how the substitution gets caught."
   },
   "dic-policies": {
     "title": "Difference in Conditions (DIC) and the FAIR Plan",
@@ -1710,8 +1715,8 @@
   },
   "policy-vs-law": {
     "title": "When Insurance Policy Language Conflicts with California Law",
-    "description": "A CA court ruled the FAIR Plan's fire policy \"unlawful.\" The ways policy language conflicts with statutes, case law, and regs - and why the law always wins.",
-    "summary": "When policy language conflicts with California law, the law controls and the offending policy term is unenforceable, as courts have held even against FAIR Plan provisions. An illegal clause cannot be used to deny what the law guarantees."
+    "description": "A CA court ruled the FAIR Plan's fire policy \"unlawful.\" The ways policy language conflicts with statutes, case law, and regs - and how the law limits what a policy can take away.",
+    "summary": "When policy language falls below what California law requires, the law controls — a court held FAIR Plan provisions unenforceable on exactly that basis. A clause that conflicts with a statutory minimum cannot be used to deny what the law guarantees."
   },
   "policyholder-death-coverage": {
     "title": "What Happens to Your Insurance If the Policyholder Dies?",
@@ -2518,6 +2523,11 @@
     "description": "Restoration vs. rebuild labor efficiency settings affect every labor line on a Xactimate estimate, and the wrong setting can underpay a claim by thousands.",
     "summary": "Xactimate's labor efficiency setting, restoration versus new construction (rebuild), changes the labor price on every line item. Carriers often use the cheaper 'new construction' setting on repair work; the correct setting can substantially raise a fair estimate."
   },
+  "xactimate-labor-minimums": {
+    "title": "Xactimate Labor Minimums: The Line Items Carriers Quietly Remove",
+    "description": "What a labor minimum is in Xactimate, why the software adds them automatically, how they get removed during review, and what a policyholder can do about it.",
+    "summary": "Xactimate automatically adds labor-minimum line items when calculated labor for a trade falls below its minimum service charge, because no tradesperson shows up for twenty minutes of work. Those auto-generated items are frequently deleted during estimate review, and on small claims their removal can be the difference between a payable claim and nothing."
+  },
   "xactimate-line-item-manipulation": {
     "title": "Xactimate Line Item Manipulation Tactics",
     "description": "How carriers manipulate Xactimate estimates: 'included' designations, wrong codes, minimum charge suppression, missing items, and how to challenge each tactic.",
@@ -2553,6 +2563,11 @@
     "description": "Xactimate pricing is a starting point, not a final answer. Low estimates trace to estimators who skip verification, yield factors, and missing line items.",
     "summary": "When an Xactimate estimate comes in low, the fault is the estimator's, not the software's. Verisk's own EULA and training say pricing must be verified, yields adjusted, site labor added, and all line items included. A low estimate means the user cut corners."
   },
+  "xactimate-sketch-errors": {
+    "title": "Xactimate Sketch Errors: When Wrong Dimensions Shrink Every Line Item",
+    "description": "In Xactimate, quantities flow from the sketch. A room drawn too small understates drywall, paint, flooring, and baseboard all at once. How to check the dimensions and get them corrected.",
+    "summary": "Every surface-driven quantity in an Xactimate estimate flows from the sketch. When a room is drawn smaller than it really is, every line item in that room shrinks with it &mdash; and nothing on the printed estimate reveals the error unless the dimensions are checked room by room."
+  },
   "xactimate-training-guide": {
     "title": "Xactimate Training and Certification: What You Need to Know",
     "description": "Xactimate training and certification - what certification levels mean, what quality training looks like, and why understanding beats memorization.",
@@ -2567,5 +2582,75 @@
     "title": "Xactimate Estimates: What You Need to Know",
     "description": "Learn how Xactimate estimating software works, why insurance estimates are often too low, and which line items adjusters commonly miss or underpay.",
     "summary": "Xactimate is the industry-standard estimating software, and its estimates are often too low because of omitted line items and understated pricing. Knowing what adjusters commonly miss helps you identify and correct an underpaid estimate."
+  },
+  "appraisal-umpire-fees": {
+    "title": "Who Pays the Appraisal Umpire? Fees, Selection, and Engagement",
+    "description": "Who pays the umpire in a property insurance appraisal, what umpires actually charge, and why naming an umpire early usually costs nothing. A working California appraiser explains the fee mechanics.",
+    "summary": "Under the standard appraisal clause, each party pays its own appraiser and the umpire's compensation is split equally. But here is what most participants miss: umpires generally charge nothing at selection. Fees begin only when the umpire is formally engaged — and in many appraisals, that day never comes."
+  },
+  "appraiser-impartiality-disqualification": {
+    "title": "Appraiser Bias and Disqualification: The Impartiality Rules in California Appraisal",
+    "description": "What \"competent and disinterested\" actually requires of appraisers and umpires in California insurance appraisal, the umpire disclosure rules, and the grounds that support disqualification or a challenge to the award.",
+    "summary": "California Insurance Code section 2071 requires every appraiser and umpire to be \"competent and disinterested,\" and the arbitration code adds written disclosure duties for the umpire. This article covers what those impartiality rules actually require, the verified case law on bias and disqualification, and how challenges are raised before and after the award."
+  },
+  "compel-appraisal-insurer-refuses": {
+    "title": "When the Insurer Ignores Your Appraisal Demand: Compelling Appraisal in California",
+    "description": "What happens when a California insurer ignores or refuses a written appraisal demand — the follow-up letter, the regulations that keep running, and the petition to compel appraisal under CCP 1281.2 and 1281.6.",
+    "summary": "A written appraisal demand under Insurance Code section 2071 obligates the carrier to appoint an appraiser within 20 days. When the carrier goes silent or refuses, California law provides a judicial backstop: a petition to compel appraisal under the arbitration statutes. This article covers the escalation sequence — the firm written follow-up, the claim-handling regulations that continue to run, and the court procedures that exist when the carrier will not participate."
+  },
+  "claim-file-documents-you-never-see": {
+    "title": "The Claim File You Never See: Field Notes, Photos, Texts, and Earlier Estimates",
+    "description": "The insurer's claim file holds far more than the estimate — field notes, photos, texts, and earlier estimate versions. What's in it and how insureds obtain it.",
+    "summary": "The estimate a policyholder receives is a fraction of the claim file. Field notes, activity logs, photographs, text messages, and earlier estimate versions all exist — and under California law, most of it must be produced on request. This article covers what lives in the file, why carriers resist producing it, and the practical techniques for getting it."
+  },
+  "itel-report-disputes": {
+    "title": "ITEL Reports: When a Lab Sample Decides Your Flooring or Siding Claim",
+    "description": "How carriers use ITEL lab reports to price flooring and siding claims, where the reports get misused, and how policyholders can challenge a bad comparable.",
+    "summary": "ITEL analyzes a physical sample and names a comparable product. Carriers then treat that report as the last word on pricing and matching. It is not — the report identifies a product; it does not apply California's matching standard. A specific written challenge with physical evidence often changes the outcome."
+  },
+  "aerial-roof-measurement-disputes": {
+    "title": "EagleView and Aerial Roof Reports: When the Measurements Are Wrong",
+    "description": "Aerial roof measurement reports drive every roofing number in the carrier's estimate. The known failure modes, how to check a report, and how to ask for reconciliation.",
+    "summary": "Carriers import aerial roof reports into Xactimate as the roof's dimensions, so a measurement error repeats through every roofing line item. Aerial reports are reliable on simple geometry but have known failure modes; the report can be requested, checked against a physical measurement, and reconciled in writing."
+  },
+  "ladder-assist-companies": {
+    "title": "Ladder Assist Companies: The Third Party on Your Roof",
+    "description": "Ladder assist companies climb the roof when the adjuster won't. Who they are, what their reports quietly decide, and how to get the report, the photos, and the name.",
+    "summary": "When a carrier's adjuster cannot or will not climb a roof, a ladder assist vendor sends a technician to photograph and measure it, and the adjuster writes the estimate from that report without seeing the roof. The insured is rarely told who the technician was or what they were qualified to judge — but the investigation remains the insurer's, and the report — along with the photographs behind it — can be requested as claim-related documentation."
+  },
+  "engineer-report-peer-review": {
+    "title": "When the Carrier's Engineer Report Gets 'Peer Reviewed': Desk Edits to Field Findings",
+    "description": "Carrier engineering reports pass through 'peer review' before release — and conclusions can shift between draft and final. What California law lets insureds request.",
+    "summary": "The engineering report a policyholder receives is the final version — after internal or vendor-side 'peer review.' Sometimes review improves reports. Sometimes causation conclusions soften between the field draft and the released final, and the insured never learns a different version existed. This article covers how the review layer works, the signals that a report may have changed, and the California document-production rights that reach drafts, review comments, and revision history."
+  },
+  "tpa-third-party-administrator-claims": {
+    "title": "When a TPA Handles Your Property Claim: Who Actually Has Authority?",
+    "description": "A third-party administrator may run every step of a property claim, but the policy duties stay with the insurer. Who holds authority and where to escalate.",
+    "summary": "When a company the policyholder has never heard of takes over claim communications, it is usually a third-party administrator (TPA) working for the insurer. Administration can be delegated; responsibility cannot. This article covers how TPAs enter the picture, why California claim deadlines don't pause while a handler waits for carrier authority, how settlement-authority caps work in practice, and why a CDI complaint names the carrier rather than the TPA."
+  },
+  "soot-char-lab-testing": {
+    "title": "Soot and Char Lab Testing: The Evidence That Wins Smoke Claims After Aliff",
+    "description": "How laboratory testing for soot, char, and combustion byproducts proves a smoke claim — and why the post-Aliff, post-Another Planet standard makes lab-detectable contamination the evidence that matters.",
+    "summary": "For years carriers denied smoke claims on the theory that if nothing was visible, nothing was damaged. Two California developments — the Supreme Court's Another Planet standard and the trial-court Aliff ruling — reframed the question to demonstrable physical alteration, which is exactly what soot and char lab testing measures. This article covers what testing looks at, the legal frame, how testing enters a claim on both sides, and the documents an insured may request."
+  },
+  "thermal-fogging-odor-failure": {
+    "title": "When Thermal Fogging Fails: Smoke Odor That Comes Back",
+    "description": "When smoke odor returns weeks or months after a home was deodorized, it's often a sign the source was masked, not removed. What recurrence means for a California smoke claim.",
+    "summary": "Thermal fogging is a deodorization tool, not a source-removal method. When smoke odor returns after a home was fogged and the claim was closed, the recurrence is a signal that embedded soot, char, or contaminated materials were never addressed. This article explains why fogging alone commonly fails on real smoke damage, and how a documented recurrence supports reopening or supplementing the claim under California's Fair Claims Settlement Practices Regulations."
+  },
+  "hydroxyl-vs-ozone-treatment": {
+    "title": "Hydroxyl vs. Ozone Treatment: What the Claim Should Pay For",
+    "description": "Hydroxyl and ozone are both odor-remediation tools, but they are not interchangeable. What each does, the occupied-versus-unoccupied difference, and how the method choice shows up in a California smoke claim.",
+    "summary": "Hydroxyl generators and ozone machines both neutralize odor, but they differ on the one variable that drives a claim: occupancy. Ozone is a strong oxidizer that requires an unoccupied, sealed space and can degrade certain materials; hydroxyl runs slower but is generally regarded as safe to operate while people remain in the home. Neither removes embedded soot. This article covers the practitioner-level distinction, why the method drives cost, timeline, and displacement, and how a California policyholder can evaluate whether the chosen approach fits the loss."
+  },
+  "symbility-vs-xactimate": {
+    "title": "Symbility vs. Xactimate: Reading a Claim Estimate on the Other Platform",
+    "description": "Xactimate is not the only estimating platform. A guide to recognizing a Symbility estimate, finding the price-list date, sketch, and operations, and applying the same disputes that apply to Xactimate.",
+    "summary": "Most property-claim estimates are written in Xactimate, but a minority of carriers use Symbility, a CoreLogic platform. Both do the same job with a regional price database, sketch-driven quantities, depreciation, and overhead and profit, so every substantive estimate dispute applies to both. Only the layout, terminology, and where to find each setting differ."
+  },
+  "insurance-code-14047-adjuster-changes": {
+    "title": "Insurance Code Section 14047: Your Rights When a Third Adjuster Takes Over",
+    "description": "California Insurance Code § 14047 gives residential policyholders on state-of-emergency claims a right to a primary point of contact when a third adjuster is assigned within six months. What the statute actually says — and does not say.",
+    "summary": "When a third or subsequent adjuster is assigned to a residential state-of-emergency claim within six months, California Insurance Code § 14047 requires the insurer to provide a written status report, establish a primary point of contact, and keep that contact assigned until the claim closes or litigation is filed. This article quotes the statute verbatim, corrects a common overstatement about what the report must contain, and explains how § 14047 sits alongside the Fair Claims Settlement Practices Regulations."
   }
 }

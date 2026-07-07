@@ -53,11 +53,14 @@ export default function Content() {
           insurance arising as a result of a state of emergency, if the insurer assigns a
           third or subsequent first-party real or personal property claims adjuster to be
           primarily responsible for the claim within a six-month period, the insurer
-          must, in a timely manner, provide the insured with a written status report. The
-          report must summarize the decisions and actions substantially related to the
-          claim, including the amount of losses to structures or contents, the retention
-          or consultation of design or construction professionals, the amount of
-          coverage, and all items in dispute. The scope of the statute is narrow: it
+          must, in a timely manner, provide the insured with a written status report,
+          establish a <strong>primary point of contact</strong> for the insured, and
+          provide one or more direct means of communication with that contact. The
+          statute does not spell out what the status report must contain, but its real
+          teeth are in the next subdivision: once assigned, the primary point of contact
+          &ldquo;shall remain assigned to the insured&rsquo;s claim until the insurer
+          determines that the residential property claim is closed or litigation has
+          been filed.&rdquo; The scope of the statute is narrow: it
           applies only to residential property claims and only to claims arising from a
           declared state of emergency as defined in Government Code &sect; 8558. Most
           carriers do not voluntarily comply when the trigger is met. Most policyholders
@@ -167,31 +170,37 @@ export default function Content() {
         adjuster churn runs through the broader 10 CCR &sect; 2695 framework instead.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When &sect; 14047 is triggered, the written status report must summarize the
-        decisions and actions substantially related to the claim, including:
+        When &sect; 14047 is triggered, the statute requires three things of the insurer:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          The amount of losses to structures and contents.
+          A <strong>written status report</strong>, provided in a timely manner. The
+          statute does not enumerate what the report must contain &mdash; a point worth
+          keeping straight, because some summaries of the law describe a required list of
+          contents that the statute itself does not impose.
         </li>
         <li>
-          Any design or construction professionals retained or consulted in connection
-          with the claim.
+          A <strong>primary point of contact</strong> for the insured &mdash; a
+          claims adjuster or team, knowledgeable about the claim, whom the insured can
+          reach.
         </li>
         <li>
-          The amount of coverage available for the loss.
-        </li>
-        <li>
-          All items currently in dispute.
+          One or more <strong>direct means of communication</strong> with that primary
+          point of contact, who &ldquo;shall remain assigned to the insured&rsquo;s
+          claim until the insurer determines that the residential property claim is
+          closed or litigation has been filed.&rdquo;
         </li>
       </ul>
       <p className="text-gray-700 leading-relaxed mb-4">
         The statute exists because the Legislature understood that adjuster churn was a
         meaningful problem in California disaster claims handling and that policyholders
-        needed a mechanism to compel the carrier to account for it. The rule is also not,
-        in practice, well-enforced. Carriers do not voluntarily issue these status
-        reports on most claims that would qualify; the rule operates as something
-        policyholders must affirmatively invoke.
+        needed a stable, accountable contact when it happens. The continuity requirement
+        &mdash; a named contact who stays on the file &mdash; is the heart of the rule.
+        It is also not, in practice, well-enforced: carriers do not reliably establish
+        that point of contact on every qualifying claim, so the rule often operates as
+        something policyholders must affirmatively invoke. For the full statutory
+        walk-through, see{' '}
+        <Link href="/resources/insurance-code-14047-adjuster-changes" className="text-blue-700 underline hover:text-blue-900">the &sect; 14047 guide</Link>.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3 mt-8">
@@ -208,11 +217,12 @@ export default function Content() {
           first-party property claims adjuster has now been assigned to be primarily
           responsible for this claim within the past six months. Pursuant to California
           Insurance Code section 14047(a), I am requesting that the insurer provide me,
-          in a timely manner, with a written status report summarizing the decisions and
-          actions substantially related to the claim, including the amount of losses to
-          structures and contents, any design or construction professionals retained or
-          consulted, the amount of coverage available, and all items currently in
-          dispute. I am also requesting confirmation that all materials produced to
+          in a timely manner, with a written status report, establish a primary point of
+          contact for this claim, and provide me with one or more direct means of
+          communicating with that contact. I am further requesting confirmation, under
+          section 14047(b), that the primary point of contact will remain assigned to
+          this claim until the claim is closed or litigation is filed. I am also
+          requesting confirmation that all materials produced to
           prior adjusters &mdash; including documents, recorded statements, inspection
           reports, and expert materials &mdash; are part of the file the current handler
           is working from.&rdquo;
@@ -264,14 +274,14 @@ export default function Content() {
         </li>
       </ul>
 
-      <CalloutBox variant="tip" title="Pair the § 14047 Status Report Request With a 10 CCR § 2695.5(e) Cleanup">
+      <CalloutBox variant="tip" title="Pair the § 14047 Status Report Request With a 10 CCR § 2695.5(b) Cleanup">
         <p>
           The status-report request under California Insurance Code &sect; 14047 pairs
-          well with a 10 CCR &sect; 2695.5(e) demand that the insurer acknowledge and
+          well with a 10 CCR &sect; 2695.5(b) demand that the insurer acknowledge and
           respond to any open communications within fifteen calendar days. The two
           authorities cover different aspects of the same underlying problem: &sect;
           14047 addresses the structural issue of who is handling the file and what the
-          status of the claim actually is; 10 CCR &sect; 2695.5(e) addresses the
+          status of the claim actually is; 10 CCR &sect; 2695.5(b) addresses the
           operational issue of whether the file is actually moving. For non-emergency
           residential claims or commercial claims (where &sect; 14047 does not apply),
           10 CCR &sect; 2695.7(c) also requires the insurer to provide written status
@@ -404,7 +414,7 @@ export default function Content() {
         outside the policyholder-advocate community knows the statute exists. For
         non-emergency residential claims and commercial claims, the broader 10 CCR
         &sect; 2695 framework &mdash; particularly the 15-day acknowledgment duty under
-        &sect; 2695.5(e) and the 30-day status-letter duty under &sect; 2695.7(c)
+        &sect; 2695.5(b) and the 30-day status-letter duty under &sect; 2695.7(c)
         &mdash; is the closest analog and should be invoked the same way.
       </p>
 
