@@ -149,7 +149,9 @@ export default function Content() {
           sue the homeowner for payment or to enforce any arbitration clause. For insurance claims,
           this cuts both ways &mdash; it protects you from a bad contractor, but it can also create
           problems if the insurance company argues that the contract is unreliable evidence of
-          repair costs because it does not comply with state law.
+          repair costs because it does not comply with state law. Whether a particular contract
+          is enforceable is ultimately a legal determination for a court, so a homeowner with a
+          real dispute should consult a California attorney about the specific contract.
         </p>
       </CalloutBox>
 
@@ -169,9 +171,11 @@ export default function Content() {
         written notice to the contractor at the address stated in the contract.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        If the contractor fails to provide the three-day cancellation notice, the homeowner&apos;s
-        right to cancel does not expire &mdash; it continues indefinitely until the proper notice
-        is given. This is a powerful protection that many homeowners do not know they have.
+        If the contractor fails to provide the required three-day cancellation notice, the
+        homeowner&apos;s cancellation period generally does not begin to run, so the right to
+        cancel can extend well beyond the usual three days until proper notice is given. How long
+        that extension lasts in a given case depends on the facts and can present legal
+        questions, but it is a protection many homeowners do not know they have.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -250,8 +254,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         California law requires that any person who solicits, sells, negotiates, or executes
         contracts for home improvement on behalf of a contractor must be registered with the
-        CSLB as a Home Improvement Salesperson (HIS). This requirement is found in B&amp;P
-        Code &sect; 7152.
+        CSLB as a Home Improvement Salesperson (HIS). The salesperson is defined in B&amp;P
+        Code &sect; 7152, and the registration requirement is set out in B&amp;P Code
+        &sect; 7153.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         The HIS registration is relevant to insurance claims because after a disaster, many
@@ -299,8 +304,8 @@ export default function Content() {
           The work is for repair, restoration, or maintenance of existing systems or conditions
         </li>
         <li>
-          The total contract price does not exceed $750 (note: this threshold is lower than
-          the $500 threshold for home improvements)
+          The total contract price does not exceed $750 (note: this $750 ceiling is higher
+          than the $500 threshold that triggers the home improvement contract rules)
         </li>
         <li>
           The work is initiated by the homeowner (not solicited by the contractor)
@@ -409,10 +414,15 @@ export default function Content() {
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Commercial construction contracts are not required to follow the rigid format of
-        &sect; 7159. While they still must be in writing for amounts exceeding $500 (Civil Code
-        &sect; 1624, the Statute of Frauds), the specific disclosure requirements, notice
-        provisions, and formatting rules of &sect; 7159 do not apply. Commercial parties are
-        expected to negotiate contract terms appropriate to their circumstances.
+        &sect; 7159. General contract-law principles still apply &mdash; including the Statute of
+        Frauds (Civil Code &sect; 1624), which requires certain categories of contracts to be in
+        writing &mdash; and a written agreement is strongly advisable for any substantial
+        project. (The $500 &ldquo;writing&rdquo; threshold that people often cite comes from
+        Commercial Code &sect; 2201, which governs the sale of goods, not construction services,
+        so it does not by itself dictate when a commercial repair contract must be in writing.)
+        The specific disclosure requirements, notice provisions, and formatting rules of
+        &sect; 7159 do not apply to commercial work. Because enforceability turns on the precise
+        terms, a commercial owner should have counsel review any significant contract.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -427,9 +437,11 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California Civil Code &sect; 2782 places some limits on indemnification in construction
-        contracts &mdash; a contractor cannot be required to indemnify the property owner for
-        the owner&apos;s own active negligence. But beyond that statutory floor, indemnification
-        terms in commercial contracts are largely negotiable.
+        contracts &mdash; for example, it restricts requiring a contractor to indemnify the
+        property owner for the owner&apos;s own active negligence. The scope of those limits is
+        detailed and has generated litigation, so an owner or contractor evaluating an indemnity
+        clause is generally better served having a California attorney review the specific
+        language than relying on a general summary.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -446,7 +458,9 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         For insurance claims, waiver of subrogation clauses require careful consideration.
         Your insurer may object to a contract that includes a waiver of subrogation because it
-        eliminates the insurer&apos;s right to recover from a negligent contractor.
+        can limit the insurer&apos;s right to recover from a negligent contractor. Whether such a
+        clause is enforceable, and how it interacts with your policy&apos;s subrogation
+        conditions, are questions worth reviewing with a California attorney before you sign.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -470,28 +484,40 @@ export default function Content() {
         Contractor Licensing Requirements
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California requires that any person or entity performing construction work valued at
-        $500 or more in combined labor and materials must hold a valid contractor&apos;s
-        license issued by the Contractors State License Board (CSLB). This requirement is found
-        in B&amp;P Code &sect; 7028.
+        California generally requires a person or entity that performs construction work to hold
+        a valid contractor&apos;s license issued by the Contractors State License Board (CSLB).
+        Acting in the capacity of a contractor without a license is an offense under B&amp;P
+        Code &sect; 7028. The narrow exemption for minor work is found in B&amp;P Code
+        &sect; 7048, which as currently written exempts work where the aggregate contract price
+        for labor, materials, and all other items is less than $1,000 &mdash; but only where the
+        work is casual or minor, does not require a building permit, and is not part of a larger
+        or deliberately divided project. Because that exemption is conditional and has been
+        raised over time, a homeowner should not assume a small job is license-exempt; when in
+        doubt, a licensed contractor is the safer choice.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The licensing requirement is absolute. There is no exception for insurance work, no
-        exception for &ldquo;small jobs,&rdquo; and no exception for &ldquo;handyman&rdquo; work
-        that exceeds the $500 threshold. The consequences of hiring an unlicensed contractor
-        are severe:
+        The licensing requirement is broad and the exemption is narrow. There is no general
+        exception for insurance work, for &ldquo;small jobs,&rdquo; or for &ldquo;handyman&rdquo;
+        work that falls outside the &sect; 7048 exemption. The consequences of hiring an
+        unlicensed contractor can be severe:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
-          <strong>No right to sue for payment.</strong> Under B&amp;P Code &sect; 7031, an
-          unlicensed contractor cannot bring an action to collect compensation for any work
-          requiring a license. The contract is void as against public policy.
+          <strong>No right to sue for payment.</strong> Under B&amp;P Code &sect; 7031(a), an
+          unlicensed contractor generally cannot bring an action to collect compensation for
+          work that requires a license. Courts have treated this as barring the contractor&apos;s
+          claim on public-policy grounds &mdash; a strong protection, though its application
+          depends on the facts.
         </li>
         <li>
           <strong>Disgorgement.</strong> Under &sect; 7031(b), the person who paid an unlicensed
-          contractor may recover all compensation paid, regardless of whether the work was
-          satisfactory. This is a complete disgorgement &mdash; the unlicensed contractor must
-          return everything.
+          contractor may be able to recover compensation paid, regardless of whether the work
+          was satisfactory. This remedy is powerful, but it is not automatic: &sect; 7031(e)
+          lets a court find &ldquo;substantial compliance&rdquo; where the contractor had been
+          duly licensed before performing the work, acted reasonably and in good faith to
+          maintain licensure, and acted promptly to remedy the lapse once discovered. Whether
+          &sect; 7031 bars a claim or requires a return of payments in a specific situation is a
+          fact-intensive legal question for a California attorney.
         </li>
         <li>
           <strong>Criminal penalties.</strong> Performing work without a license is a
@@ -575,9 +601,10 @@ export default function Content() {
         The Right to Choose Your Own Contractor
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In California, you have the absolute right to choose your own contractor for insurance
-        repairs. The insurance company cannot require you to use their preferred vendor or
-        managed repair network. 10 CCR &sect; 2695.9(b) provides that no insurer shall require
+        In California, policyholders generally have the right to choose their own contractor for
+        insurance repairs, and an insurer generally cannot require the insured to use its
+        preferred vendor or managed repair network. 10 CCR &sect; 2695.9(b) provides that no
+        insurer shall require
         the insured to have the property repaired by a specific individual or entity, and
         &sect; 2695.9(c)(2) requires the insurer to disclose in writing when it recommends a
         specific repair person and to remain responsible for restoring the property to its
@@ -667,8 +694,9 @@ export default function Content() {
         failed to pay their subcontractors.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Civil Code &sect; 8400 et seq. governs mechanics liens. Key points for
-        insurance claims:
+        California&apos;s mechanics lien scheme is found in Civil Code &sect; 8000 et seq. (the
+        specific list of who may claim a lien appears at &sect; 8400). Key points for insurance
+        claims:
       </p>
       <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
         <li>
@@ -893,8 +921,9 @@ export default function Content() {
         <li>
           <strong>Price gouging laws.</strong> California Penal Code &sect; 396 prohibits
           contractors from charging more than 10% above the pre-disaster price for repair
-          services. This applies for 30 days after the disaster declaration (and can be
-          extended by proclamation).
+          services. For repair, reconstruction, and emergency cleanup services, this
+          restriction generally runs for 180 days after the emergency proclamation or
+          declaration (and can be extended by further proclamation).
         </li>
         <li>
           <strong>Unlicensed contractor surge.</strong> After disasters, out-of-state and

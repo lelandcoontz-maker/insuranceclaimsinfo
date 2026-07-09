@@ -4,7 +4,7 @@ import { CalloutBox } from '@/components/content/CalloutBox'
 export const meta = {
   title: "Replacement Cost vs. Guaranteed Replacement Cost",
   description:
-    "Standard, extended, and guaranteed (100% or unlimited) replacement cost are not the same thing. Here is how each works and what California law requires.",
+    "Standard, extended, and guaranteed (100% or unlimited) replacement cost are not the same thing. Here is how each works and what California law does — and does not — require.",
   summary:
     'Standard, extended, and guaranteed (or unlimited) replacement cost are different: standard caps at your limit, extended adds a percentage cushion, and guaranteed pays the full rebuild cost. After a disaster with cost spikes, which one you have can mean hundreds of thousands.',
 }
@@ -49,7 +49,7 @@ export default function Content() {
         </Link>.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California Insurance Code &sect; 2051.5(a) defines the measure of indemnity under a
+        California Insurance Code &sect; 2051.5(a)(1) defines the measure of indemnity under a
         replacement cost policy as:
       </p>
       <blockquote className="border-l-4 border-[#1F3964] pl-4 italic text-gray-600 mb-6">
@@ -58,7 +58,7 @@ export default function Content() {
         limit, whichever is less.&rdquo;
       </blockquote>
       <p className="text-sm text-gray-500 italic mb-6">
-        Cal. Ins. Code &sect; 2051.5(a). The parallel &sect; 2051(b) ACV framework was
+        Cal. Ins. Code &sect; 2051.5(a)(1). The parallel &sect; 2051(b) ACV framework was
         restructured by AB 188 (Stats. 2019, ch. 59), effective January 1, 2020, eliminating
         the prior &sect; 2051(b)(1)/(b)(2) bifurcation between total and partial losses and
         making the same replacement-cost-less-depreciation formula apply to either.
@@ -305,7 +305,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        10 CCR &sect; 2695.9(a) &mdash; No Depreciation Under Replacement Cost Policies
+        10 CCR &sect; 2695.9(a)(1) &mdash; No Depreciation Under Replacement Cost Policies
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         Under a replacement cost policy, the insured &ldquo;shall not have to pay for depreciation
@@ -316,7 +316,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        10 CCR &sect; 2695.9(a) &mdash; Consequential Damage
+        10 CCR &sect; 2695.9(a)(1) &mdash; Consequential Damage
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When a loss requires repair or replacement of an item, &ldquo;any consequential physical
@@ -327,7 +327,7 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        10 CCR &sect; 2695.9(a) &mdash; Matching
+        10 CCR &sect; 2695.9(a)(2) &mdash; Matching
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
         When replaced items do not match in quality, color, or size, &ldquo;the insurer shall
@@ -415,20 +415,26 @@ export default function Content() {
         <em>Everett v. State Farm General Insurance Co.</em> (2008) 162 Cal.App.4th 649
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In this case, the policyholder contended that State Farm&rsquo;s inflation coverage
-        provision led her to believe the policy provided 100 percent replacement cost coverage.
-        The Court of Appeal disagreed, holding that nothing in the policy language supported a
-        finding that an inflation guard endorsement &mdash; which periodically increases the
-        dwelling limit &mdash; is the same as guaranteed replacement cost. The two are different
-        products with different functions.
+        When she bought her home in 1991, the policyholder&rsquo;s State Farm homeowners policy
+        included a guaranteed replacement cost endorsement that promised to pay the full cost of
+        rebuilding without regard to the policy limit. In 1997, State Farm eliminated guaranteed
+        replacement cost coverage from its homeowners policies and sent policyholders a notice of
+        the change. After the insured&rsquo;s home was destroyed by fire in 2003, State Farm paid
+        up to the stated dwelling limit, and the insured argued she remained entitled to the full
+        cost of rebuilding. The Court of Appeal affirmed judgment for State Farm, concluding that
+        the renewed policy limited recovery to the stated dwelling limit rather than guaranteeing
+        full replacement cost, and that State Farm&rsquo;s notice of the change &mdash; together
+        with renewal certificates that expressly disclaimed any guarantee that the stated
+        replacement-cost figure equaled the actual cost to rebuild &mdash; was adequate.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        <strong>Why it matters:</strong> This case illustrates the critical distinction between
-        policy features that <em>increase</em> your limit over time (inflation guard) and
-        endorsements that <em>eliminate</em> the limit entirely (guaranteed replacement cost). An
-        inflation guard adjusts your dwelling limit annually &mdash; but if construction costs
-        spike 50 percent overnight after a disaster, the inflation guard will not have kept pace.
-        Only guaranteed replacement cost protects against that scenario.
+        <strong>Why it matters:</strong> The decision suggests that a carrier can withdraw
+        guaranteed replacement cost coverage at renewal with proper notice, and that a
+        replacement-cost figure printed on a declarations or renewal document is generally treated
+        as an estimate rather than a promise to pay whatever rebuilding actually costs. A
+        policyholder may want to review past renewal notices to confirm whether guaranteed
+        replacement cost coverage once held was later removed, and should be cautious about
+        assuming the dwelling limit reflects the true cost to rebuild.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -468,7 +474,8 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         If your agent told you the policy would &ldquo;fully replace your home no matter what it
         costs&rdquo; and it turns out you have standard replacement cost with a fixed limit, you
-        may have a claim against the agent for the gap.
+        may want to have an attorney evaluate whether the agent&rsquo;s conduct supports a claim
+        for the resulting gap.
       </p>
 
       <CalloutBox variant="tip" title="Document What Your Agent Tells You">

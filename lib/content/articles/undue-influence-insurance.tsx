@@ -137,13 +137,16 @@ export default function Content() {
         bounty.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Critically, the statute specifies that evidence of undue influence &ldquo;shall be
-        considered by the trier of fact&rdquo; &mdash; meaning a court or jury must evaluate
-        these factors when presented. It also states that undue influence includes &ldquo;taking
-        the person&rsquo;s personal property, real property, or financial assets for a wrongful
-        use.&rdquo; An insurance beneficiary designation, a life insurance policy, and the
-        benefits payable under a property or casualty policy are all financial assets within
-        the meaning of this statute.
+        Critically, the statute directs that &ldquo;in determining whether a result was
+        produced by undue influence, all of the following shall be considered&rdquo; &mdash;
+        the four factors above &mdash; meaning a court or jury must weigh vulnerability,
+        apparent authority, tactics, and the equity of the result when the issue is
+        presented. Separately, California&rsquo;s financial-abuse statute, Welfare and
+        Institutions Code &sect; 15610.30 (discussed below), reaches the taking of an
+        elder&rsquo;s &ldquo;real or personal property&rdquo; for a wrongful use. An insurance
+        beneficiary designation, a life insurance policy, and the benefits payable under a
+        property or casualty policy are all financial assets that can fall within these
+        protections.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -328,7 +331,7 @@ export default function Content() {
         The significance of this overlap is the remedy. A simple contract claim to void a
         policy change may restore the status quo, but it does not compensate the victim for
         the abuse itself. An elder abuse claim under &sect; 15610.30, combined with the
-        enhanced remedies available under &sect; 15657, triggers:
+        enhanced remedies available under &sect; 15657.5, triggers:
       </p>
       <ul className="list-disc pl-6 mb-6 space-y-2 text-gray-700">
         <li>
@@ -534,14 +537,19 @@ export default function Content() {
         of care.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In <em>Free v. Republic Insurance Co.</em> (1992) 8 Cal.App.4th 1726, the
-        California Court of Appeal recognized that an insurance agent who assumes duties
-        beyond merely procuring a policy &mdash; such as advising the client on coverage
-        needs or monitoring the client&rsquo;s insurance program &mdash; can be held to
-        a heightened standard of care. An agent who has served as a trusted adviser to an
-        elderly client for years, and who watches a newly arrived third party dismantle the
-        client&rsquo;s carefully constructed insurance program, may have a duty to at least
-        attempt to verify the client&rsquo;s wishes directly.
+        California courts have generally been cautious about expanding an insurance
+        agent&rsquo;s duties. In <em>Free v. Republic Insurance Co.</em> (1992) 8
+        Cal.App.4th 1726, the Court of Appeal held that an agent ordinarily has no general
+        duty to advise an insured about the adequacy of coverage; a heightened duty of
+        reasonable care arises only in narrower circumstances &mdash; for example, when the
+        insured makes a specific request or inquiry, or when the agent holds itself out as
+        having particular expertise on which the insured reasonably relies. Against that
+        duty-limiting backdrop, whether an agent is legally obligated to intervene when a
+        third party begins altering an elderly client&rsquo;s coverage is not settled, and
+        would likely turn on the particular facts of the relationship. Even where no such
+        duty is clearly imposed, an agent who has served as a trusted adviser for years may,
+        as a matter of prudence and professional ethics, choose to verify a vulnerable
+        client&rsquo;s wishes directly before processing dramatic changes.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         At minimum, an agent who suspects undue influence should:
@@ -611,10 +619,11 @@ export default function Content() {
         that elder or dependent adult financial abuse has occurred or is occurring.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The term &ldquo;financial institution&rdquo; is defined in &sect; 15610.40 to
-        include banks, savings associations, credit unions, trust companies, and similar
-        entities. Insurance companies are not explicitly listed as &ldquo;financial
-        institutions&rdquo; under this specific section. However, the broader mandatory
+        The term &ldquo;financial institution&rdquo; is defined in &sect; 15630.1(b)
+        &mdash; the mandated-reporting provision itself &mdash; to mean depository
+        institutions (such as banks and savings associations) and credit unions, drawing on
+        the federal statutory definitions. Insurance companies are not explicitly listed as
+        &ldquo;financial institutions&rdquo; under this section. However, the broader mandatory
         reporting framework continues to expand, and insurance-related financial abuse
         remains reportable under the general provisions of the Act.
       </p>
@@ -704,7 +713,11 @@ export default function Content() {
         inequitable result &mdash; by a <strong>preponderance of the evidence</strong>. If
         the presumption of undue influence applies (confidential relationship, active
         participation, and benefit to the influencer), the burden shifts to the alleged
-        influencer to rebut the presumption by clear and convincing evidence.
+        influencer to rebut the presumption &mdash; generally by a preponderance of the
+        evidence. (A heightened &ldquo;clear and convincing&rdquo; standard applies only
+        under the separate statutory presumptions that govern certain disqualified
+        transferees, such as those who draft the instrument or serve as fiduciaries or care
+        custodians &mdash; not the general common-law presumption described here.)
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         California courts have articulated the factors that weigh in favor of finding undue
@@ -756,11 +769,14 @@ export default function Content() {
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Lintz v. Lintz</em> (2014) 222 Cal.App.4th 1346:</strong> The Court
-        of Appeal applied the &sect; 15610.70 factors in evaluating a claim of financial
-        elder abuse through undue influence, noting that the statutory definition was
-        intended to provide courts with a &ldquo;practical framework&rdquo; for evaluating
-        whether excessive persuasion occurred. The court emphasized that the analysis is
-        fact-intensive and requires consideration of all four statutory factors.
+        of Appeal addressed the relationship between common-law undue influence and the
+        newer statutory definition. Because the challenged estate-plan amendments predated
+        the January 1, 2014 effective date of the current statutory framework, the court
+        applied the common-law standard &mdash; &ldquo;pressure brought to bear directly on
+        the testamentary act, sufficient to overcome the testator&rsquo;s free will&rdquo;
+        &mdash; and reiterated that undue influence is ordinarily proved through inferences
+        drawn from all the facts and circumstances. The decision illustrates that the
+        analysis is intensely fact-specific, whichever formulation of the standard governs.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         <strong><em>Keading v. Keading</em> (2021) 60 Cal.App.5th 1115:</strong> The
@@ -801,7 +817,10 @@ export default function Content() {
         Once undue influence is established, the goal is to restore the policyholder to
         the position they would have been in had the tainted changes never been made. The
         specific remedy depends on the type of change that was made and whether a loss has
-        already occurred.
+        already occurred. None of this is automatic, however: voiding or rescinding a signed
+        change is a court-ordered remedy that turns on the specific facts and proof in each
+        case, so a policyholder or family should work with a qualified attorney to obtain it
+        rather than assume the prior arrangement simply reverts on its own.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -1068,7 +1087,7 @@ export default function Content() {
       <p className="text-gray-700 leading-relaxed mb-4">
         An agent under a power of attorney has a fiduciary duty to act in the
         principal&rsquo;s best interest. California Probate Code &sect; 4232 requires the
-        agent to act &ldquo;in the best interest of the principal&rdquo; and to avoid
+        agent to act &ldquo;solely in the interest of the principal&rdquo; and to avoid
         conflicts of interest. An agent who uses the DPOA to change insurance beneficiaries
         to themselves, reduce coverage to benefit themselves, or settle a claim for less
         than its value is breaching this fiduciary duty &mdash; and committing financial

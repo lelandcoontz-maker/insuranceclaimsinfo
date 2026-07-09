@@ -168,9 +168,11 @@ export default function Content() {
         , and it disproportionately harms elderly policyholders. A 35-year-old policyholder
         who has to wait 18 months for a fair settlement is frustrated and inconvenienced. A
         75-year-old policyholder who has to wait 18 months may never see the resolution of
-        their claim. Insurance companies understand this &mdash; and some use delay
-        strategically, knowing that elderly claimants are more likely to accept inadequate
-        settlements, become incapacitated, or pass away before the claim is resolved.
+        their claim. The claims-handling system tends to reward delay in the aggregate &mdash;
+        prolonged disputes statistically produce more accepted-under-pressure settlements and,
+        with older claimants, a greater likelihood that incapacity or death intervenes before
+        resolution. Those outcomes are a function of how the process is designed and measured,
+        and they fall hardest on elderly claimants.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         When delay is used as a tool against an elderly policyholder, it is not merely bad
@@ -194,11 +196,14 @@ export default function Content() {
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
-        Mandatory Attorney&rsquo;s Fees (W&amp;I Code &sect; 15657)
+        Mandatory Attorney&rsquo;s Fees (W&amp;I Code &sect; 15657.5(a))
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        In a successful elder abuse action, the court <strong>shall</strong> award reasonable
-        attorney&rsquo;s fees and costs. This is not discretionary &mdash; it is mandatory.
+        In a successful financial-abuse action, the court <strong>shall</strong> award reasonable
+        attorney&rsquo;s fees and costs. Under &sect; 15657.5(a), this remedy turns on proof of the
+        financial abuse by a <strong>preponderance of the evidence</strong> &mdash; the ordinary
+        civil standard, not the heightened clear-and-convincing showing that some other remedies
+        require. It is not discretionary; it is mandatory.
         In standard bad faith litigation, attorney&rsquo;s fees are generally not recoverable
         unless a specific statute or contract provision provides for them. The availability of
         fee-shifting fundamentally changes the economics of the case: it makes it financially
@@ -241,10 +246,12 @@ export default function Content() {
         pain-and-suffering recovery in general survival actions for cases filed January 1,
         2022 through December 31, 2025, but that window has now closed and &sect; 377.34
         has reverted to its longstanding economic-damages-only rule.) But under the Elder
-        Abuse Act (Welfare &amp; Institutions Code &sect; 15657), if the plaintiff proves
-        the elder abuse by clear and convincing evidence, the decedent&rsquo;s estate can
+        Abuse Act (Welfare &amp; Institutions Code &sect; 15657.5(b)), where the plaintiff proves
+        the financial abuse by a preponderance of the evidence <em>and</em> proves by clear and
+        convincing evidence that the defendant acted with recklessness, oppression, fraud, or
+        malice, the &sect; 377.34 limitation is lifted and the decedent&rsquo;s estate can
         recover <strong>all damages that the decedent would have been entitled to</strong>,
-        including pain and suffering and punitive damages &mdash; making the &sect; 15657
+        including pain and suffering and punitive damages &mdash; making the &sect; 15657.5(b)
         survival advantage materially more valuable now that the SB 447 window has expired.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
@@ -258,26 +265,34 @@ export default function Content() {
 
       <CalloutBox variant="warning" title="The Survival Action Changes Settlement Dynamics">
         <p>
-          In a standard bad faith case, an insurer facing an elderly plaintiff may calculate
-          that delay works in its favor &mdash; the longer the case takes, the greater the
-          chance the plaintiff dies and the damages shrink. The elder abuse survival action
-          eliminates this perverse incentive. When an elder abuse claim is properly pled, the
-          insurer knows that the full range of damages survives the policyholder&rsquo;s death.
-          This alone can accelerate settlement negotiations dramatically.
+          In a standard bad faith case, the economics of delay can cut against an elderly
+          claimant: because pain-and-suffering damages generally do not survive the plaintiff,
+          the potential exposure shrinks the longer a case involving an aging claimant remains
+          unresolved. That is a structural feature of how survival law prices these claims, not a
+          judgment about any individual adjuster&rsquo;s intent &mdash; but it is an incentive the
+          system creates. The elder abuse survival action removes that structural discount. When
+          a financial-abuse claim is properly pled, the full range of damages survives the
+          policyholder&rsquo;s death, which can meaningfully change settlement dynamics.
         </p>
       </CalloutBox>
 
       {/* ───────── The Legal Standard ───────── */}
       <h2 className="text-2xl font-bold text-[#1F3964] mb-4">
-        The Legal Standard: Recklessness, Not Just Negligence
+        The Legal Standards: Two Different Burdens
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        To recover the enhanced remedies under the Elder Abuse Act, the plaintiff must prove
-        that the defendant acted with &ldquo;recklessness, oppression, fraud, or
-        malice&rdquo; (Welfare &amp; Institutions Code &sect; 15657). This is a higher
-        standard than ordinary negligence &mdash; but it is lower than the standard for
-        punitive damages under Civil Code &sect; 3294, and it is a standard that systematic
-        insurance company bad faith conduct frequently meets.
+        The financial-abuse remedies under the Act operate on two distinct burdens, and courts
+        appear to treat them separately. Under Welfare &amp; Institutions Code
+        &sect; 15657.5(a), the mandatory award of attorney&rsquo;s fees and costs requires only
+        that the plaintiff prove the financial abuse itself by a <strong>preponderance of the
+        evidence</strong> &mdash; the ordinary civil standard. The heightened showing enters at
+        &sect; 15657.5(b): to lift the &sect; 377.34 limitation and reach the survival
+        enhancement, the plaintiff must additionally prove by <strong>clear and convincing
+        evidence</strong> that the defendant acted with &ldquo;recklessness, oppression, fraud,
+        or malice.&rdquo; Conflating the two &mdash; treating the clear-and-convincing standard
+        as a gate on the fee award &mdash; overstates what &sect; 15657.5(a) requires. The
+        clear-and-convincing recklessness standard is higher than ordinary negligence but is
+        generally understood to be a standard that systematic insurer misconduct can meet.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         &ldquo;Recklessness&rdquo; in this context means a deliberate disregard of the high
@@ -301,9 +316,13 @@ export default function Content() {
         Key Case Law: Elder Abuse in the Insurance Context
       </h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        California courts have recognized that insurance companies can be held liable for elder
-        financial abuse when their claims handling conduct rises to the level of recklessness
-        or intentional misconduct directed at elderly policyholders.
+        Whether an insurer&rsquo;s claims handling can support an elder financial abuse claim
+        remains a <strong>contested</strong> theory rather than settled law. The leading published
+        insurance decision, <em>Paslay v. State Farm</em> (discussed below), rejected the elder
+        abuse claim on genuine-dispute grounds &mdash; the insurer prevailed. Plaintiffs continue
+        to argue that reckless or knowing withholding of clearly owed benefits from an elderly
+        policyholder can constitute financial abuse under the Act, but the reported case law to
+        date has been cautious, and outcomes are highly fact-dependent.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -351,15 +370,21 @@ export default function Content() {
         Financial Abuse in the Insurance Context
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The financial abuse provision of the Elder Abuse Act (&sect; 15610.30) has been applied
-        in contexts analogous to insurance claims handling. In <em>Paslay v. State Farm General
-        Ins. Co.</em> (2016) 248 Cal.App.4th 639, the court addressed elder abuse claims in
-        the insurance context, ultimately applying the genuine dispute doctrine to the bad faith
-        and elder abuse causes of action while allowing the breach of contract claim to proceed.
-        The case illustrates both the potential for elder abuse claims against insurers and the
-        evidentiary standard required to sustain them. Courts have recognized that when an insurer
-        wrongfully withholds benefits that are clearly owed &mdash; knowing the policyholder is
-        elderly and vulnerable &mdash; the conduct can constitute financial abuse under the Act.
+        The financial abuse provision of the Elder Abuse Act (&sect; 15610.30) has been tested in
+        the insurance context, but the leading published decision cut <em>against</em> the
+        policyholder. In <em>Paslay v. State Farm General Ins. Co.</em> (2016) 248 Cal.App.4th
+        639, the Court of Appeal <strong>affirmed summary judgment for State Farm on both the bad
+        faith and the elder abuse causes of action</strong>, applying the genuine dispute doctrine;
+        only the breach of contract claim was revived for trial. The court reasoned that, under
+        &sect; 15610.30(b), wrongful conduct occurs only where the insurer actually knows &mdash;
+        or reasonably should be aware &mdash; that it is engaging in a harmful breach, and it found
+        no evidence State Farm acted in subjective bad faith in denying the disputed benefits.
+        <em> Paslay</em> is therefore a cautionary precedent for policyholders: it shows that an
+        elder abuse claim against an insurer can be defeated on the same genuine-dispute grounds
+        that defeat a bad faith claim. The argument that knowing, reckless withholding of clearly
+        owed benefits from an elderly policyholder can constitute financial abuse remains available
+        &mdash; but it is contested, and a plaintiff must be prepared to overcome the
+        genuine-dispute defense.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
         In <em>Das v. Bank of America, N.A.</em> (2010) 186 Cal.App.4th 727, the court
@@ -409,16 +434,19 @@ export default function Content() {
         In Demand Letters
       </h3>
       <p className="text-gray-700 leading-relaxed mb-4">
-        When writing a{' '}
+        A demand letter that formally asserts a statutory elder abuse cause of action is legal
+        advocacy, and it is generally best drafted and sent by (or through) the policyholder&rsquo;s
+        attorney rather than a non-lawyer representative. Where a{' '}
         <Link href="/resources/claim-negotiation-letters" className="text-blue-700 underline hover:text-blue-900">
           demand letter
         </Link>{' '}
-        on behalf of an elderly policyholder, specifically reference the Elder Abuse and
-        Dependent Adult Civil Protection Act (Welfare &amp; Institutions Code &sect; 15600
-        et seq.) and identify the specific conduct that may constitute elder financial abuse
-        under &sect; 15610.30. Cite the enhanced remedies available under &sect; 15657, including
-        attorney&rsquo;s fees and the survival action. Make the insurer&rsquo;s claims
-        department and legal team confront the enhanced exposure in writing.
+        is prepared through counsel on behalf of an elderly policyholder, it will typically
+        reference the Elder Abuse and Dependent Adult Civil Protection Act (Welfare &amp;
+        Institutions Code &sect; 15600 et seq.) and identify the specific conduct that may
+        constitute elder financial abuse under &sect; 15610.30. The letter can point to the
+        enhanced remedies potentially available under &sect; 15657.5 &mdash; including mandatory
+        attorney&rsquo;s fees and the survival enhancement &mdash; so that the insurer&rsquo;s
+        claims department and legal team confront the potential exposure in writing.
       </p>
 
       <h3 className="text-xl font-semibold text-[#1F3964] mb-3">
@@ -625,14 +653,14 @@ export default function Content() {
         </li>
         <li>
           <strong>Act promptly</strong> &mdash; Statutes of limitations for elder abuse
-          claims depend on the theory pled. The Elder Abuse Act&rsquo;s own four-year
-          limitations period at W&amp;I Code &sect; 15657.7 applies specifically to
-          actions for damages under &sect; 15657.5 (financial abuse), running from when the
-          plaintiff discovered or should have discovered the facts constituting the abuse.
-          Physical abuse and neglect claims under &sect; 15657.6 are not governed by
-          &sect; 15657.7 &mdash; they are typically subject to the general two-year
-          personal-injury statute at Code of Civil Procedure &sect; 335.1, or MICRA&rsquo;s
-          special rules in the medical-malpractice context. Other deadlines &mdash;
+          claims depend on the theory pled. By its own terms, the Elder Abuse Act&rsquo;s
+          four-year limitations period at W&amp;I Code &sect; 15657.7 governs actions for damages
+          for financial abuse under <em>both</em> &sect; 15657.5 <em>and</em> &sect; 15657.6,
+          running from when the plaintiff discovered or, through reasonable diligence, should
+          have discovered the facts constituting the financial abuse. (Physical abuse and
+          neglect claims sit outside &sect; 15657.7 and are generally subject to the general
+          two-year personal-injury statute at Code of Civil Procedure &sect; 335.1, or
+          MICRA&rsquo;s special rules in the medical-malpractice context.) Other deadlines &mdash;
           including policy suit-limitation clauses on the underlying insurance claim &mdash;
           may also apply. Statutes of limitations involve complex legal analysis. Consult a
           licensed attorney to determine the applicable deadline. Do not wait.

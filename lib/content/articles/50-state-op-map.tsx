@@ -76,7 +76,7 @@ export default function Content() {
         <strong>Key Authority:</strong> Colorado Division of Insurance (DORA) Bulletin B-5.1 (1998, reissued 2007) &mdash; &ldquo;Calculation of Actual Cash Value: Prohibition Against Deducting Contractors&rsquo; Overhead and Profit from Replacement Cost Where Repairs Are Not Made.&rdquo;
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The bulletin prohibits deducting contractor O&amp;P in addition to depreciation when calculating ACV under replacement cost policies. ACV equals replacement cost minus depreciation, without further deduction for O&amp;P. Supporting case law: <em>Woodgate South Homeowners Assoc. v. American Family Mut. Ins. Co.</em>, No. 2013cv30784 (Colo. Dist. Ct. Oct. 20, 2014).
+        The bulletin prohibits deducting contractor O&amp;P in addition to depreciation when calculating ACV under replacement cost policies. ACV equals replacement cost minus depreciation, without further deduction for O&amp;P. Supporting authority: <em>Woodgate South Homeowners Assoc. v. American Family Mut. Ins. Co.</em>, No. 2013cv30784 (Colo. Dist. Ct. Oct. 20, 2014) &mdash; a trial-court decision that carries persuasive weight only and does not bind other Colorado courts.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         <a href="https://doi.colorado.gov/statutes-regulations-bulletins/colorado-insurance-bulletins" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Colorado DOI Bulletins</a>.
@@ -98,7 +98,7 @@ export default function Content() {
         <strong>Key Authority:</strong> <em>Windridge of Naperville Condo. Assoc. v. Philadelphia Indem. Ins. Co.</em> (N.D. Ill.; affirmed 7th Cir. 2019, 932 F.3d 1035).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The court held that if repairing or replacing property requires a general contractor, the cost of repair includes the industry-standard O&amp;P (10 and 10). No policy language permits withholding O&amp;P when a GC is required. The Seventh Circuit affirmed, noting that &ldquo;the majority of courts have concluded that general contractor overhead and profit should be included in the cost of repair.&rdquo;
+        The court held that if repairing or replacing property requires a general contractor, the cost of repair includes the industry-standard O&amp;P (10 and 10). No policy language permits withholding O&amp;P when a GC is required. The Seventh Circuit affirmed, noting that &ldquo;the majority of courts have concluded that general contractor overhead and profit should be included in the cost of repair.&rdquo; As a federal decision applying Illinois law, <em>Windridge</em> is persuasive authority &mdash; it predicts how Illinois courts would rule rather than binding them the way a state supreme court decision would.
       </p>
 
       <h3 className="text-xl font-bold text-[#1F3964] mb-3">Michigan</h3>
@@ -128,7 +128,7 @@ export default function Content() {
         <strong>Key Authority:</strong> <em>Burgess v. Farmers Ins. Co., Inc.</em>, 151 P.3d 92, 2006 OK 66 (Okla. 2006) (Oklahoma Supreme Court).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Oklahoma Supreme Court certified a class for all Oklahoma policyholders whose claims involved three or more anticipated trades at the time of ACV adjustment and who were not paid the 20% O&amp;P. The court held that O&amp;P &mdash; typically 10% overhead plus 10% profit &mdash; is owed when the scope of work requires multiple trades.
+        <em>Burgess</em> is a class-certification decision, not a merits ruling on the O&amp;P entitlement standard. The Oklahoma Supreme Court affirmed an order certifying a class of policyholders whose claim files reflected three or more trades at the time of ACV adjustment and who were not paid the customary O&amp;P. The &ldquo;three or more trades&rdquo; figure functioned as an objective device for defining an identifiable class drawn from the plaintiffs&rsquo; allegations &mdash; not as a legal threshold for when O&amp;P is owed. The court examined the alleged &ldquo;three-trade&rdquo; standard only to confirm that the class was objectively ascertainable and that common questions predominated; it expressly declined to decide the merits of when O&amp;P must be paid. The case is therefore best read as allowing policyholders to litigate systematic non-payment of O&amp;P collectively, rather than as adopting a numeric trade-count rule for entitlement.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         <a href="https://law.justia.com/cases/oklahoma/supreme-court/2006/448123.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read on Justia</a>.
@@ -150,7 +150,7 @@ export default function Content() {
         <strong>Key Authority:</strong> Texas Commissioner&rsquo;s Bulletin B-0045-98 (June 12, 1998); <em>Ghoman v. New Hampshire Ins. Co.</em>, 159 F. Supp. 2d 928 (N.D. Tex. 2001).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        The Commissioner&rsquo;s Bulletin states that &ldquo;the deduction of prospective contractors&rsquo; overhead and profit and sales tax in determining the actual cash value under a replacement cost policy is improper, is not a reasonable interpretation of the policy language, and is unfair to insureds.&rdquo; Violations may trigger disciplinary action under the Texas Insurance Code. The court in <em>Ghoman</em> held that replacement costs include &ldquo;any cost that an insured is reasonably likely to incur,&rdquo; including O&amp;P and sales tax.
+        The Commissioner&rsquo;s Bulletin states that &ldquo;the deduction of prospective contractors&rsquo; overhead and profit and sales tax in determining the actual cash value under a replacement cost policy is improper, is not a reasonable interpretation of the policy language, and is unfair to insureds.&rdquo; A bulletin reflects the regulator&rsquo;s enforcement position rather than a statute, though violations may draw disciplinary attention under the Texas Insurance Code. On the case-law side, <em>Ghoman</em> is a <strong>federal district court</strong> decision (N.D. Tex.) applying Texas law; it is persuasive authority only and does not bind Texas state courts. It held that replacement costs include &ldquo;any cost that an insured is reasonably likely to incur,&rdquo; including O&amp;P and sales tax. Texas has no binding statewide appellate decision or statute creating a blanket O&amp;P entitlement, so the state&rsquo;s position rests on the regulator&rsquo;s bulletin and persuasive federal authority rather than a settled state-court rule.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         <a href="https://www.tdi.texas.gov/bulletins/1998/b-0045-8.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Texas Commissioner&rsquo;s Bulletin B-0045-98</a>. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/159/928/2384313/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Ghoman on Justia</a>.
@@ -175,7 +175,7 @@ export default function Content() {
         The regulation requires estimates that &ldquo;restore the damaged property to no less than its condition prior to the loss&rdquo; meeting &ldquo;accepted trade standards for good and workmanlike construction.&rdquo; The insurer must verify repair costs are &ldquo;accurate and representative of costs in the local market area.&rdquo; Labor costs are not subject to depreciation. The policyholder has the right to choose their own contractor.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        While the regulation does not explicitly mandate O&amp;P by name, it requires estimates reflecting the actual cost to restore property &mdash; which implicitly includes O&amp;P when a general contractor would be needed. (Earlier California case law applied a broad-evidence approach to ACV; effective January 1, 2020, Insurance Code &sect; 2051(b) replaced that with a uniform statutory definition &mdash; replacement cost less a fair and reasonable deduction for physical depreciation &mdash; for both total and partial losses. Labor is not depreciated under &sect; 2051(b).)
+        While the regulation does not explicitly mandate O&amp;P by name, it requires estimates reflecting the actual cost to restore property &mdash; which implicitly includes O&amp;P when a general contractor would be needed. (Earlier California case law applied a broad-evidence approach to ACV; effective January 1, 2020, Insurance Code &sect; 2051(b) replaced that with a uniform statutory definition &mdash; replacement cost less a fair and reasonable deduction for physical depreciation &mdash; for both total and partial losses. Separately, labor is not subject to depreciation &mdash; that prohibition comes from regulation, 10 CCR &sect; 2695.9(f)(1), not from &sect; 2051(b).)
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
         <a href="https://www.law.cornell.edu/regulations/california/10-CCR-2695.9" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Read 10 CCR 2695.9</a>. <a href="https://www.insurance.ca.gov/01-consumers/130-laws-regs-hearings/05-CCR/fair-claims-regs.cfm" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">CDI Fair Claims Regulations</a>.
@@ -186,10 +186,10 @@ export default function Content() {
         <strong>Key Authority:</strong> Tennessee Board of Licensing Contractors Rule (effective January 1, 2014); <em>Parkway Assoc., LLC v. Harleysville Mut. Ins. Co.</em>, 129 Fed. Appx. 955 (6th Cir. 2005).
       </p>
       <p className="text-gray-700 leading-relaxed mb-4">
-        Tennessee&rsquo;s contractor licensing rule requires a licensed contractor when: (1) the project cost is $25,000 or more (excluding masonry), or (2) the project involves more than one subcontractor or tradesman. This establishes a <strong>two-trade threshold</strong> &mdash; not three &mdash; for when a GC is legally required. The Sixth Circuit in <em>Parkway</em> held that O&amp;P is owed when &ldquo;it is reasonably likely that the insured would be expected to hire a contractor.&rdquo; Because Tennessee law requires a licensed GC when two or more trades are needed, O&amp;P is effectively owed on most multi-trade claims.
+        Tennessee&rsquo;s contractor licensing rule requires a licensed contractor when: (1) the project cost is $25,000 or more (excluding masonry), or (2) the project involves more than one subcontractor or tradesman. That is a <strong>licensing</strong> threshold &mdash; it governs when state law requires a contractor to hold a license, not when an insurer must pay O&amp;P. The two questions are distinct: a licensing rule does not, by itself, establish O&amp;P entitlement under a policy. Separately, the Sixth Circuit in <em>Parkway</em> &mdash; an unpublished decision applying Tennessee law, and therefore persuasive rather than binding &mdash; observed that O&amp;P may be owed where &ldquo;it is reasonably likely that the insured would be expected to hire a contractor.&rdquo; Policyholder-side commentators sometimes point to the licensing threshold as practical context for why a general contractor is often reasonably likely on multi-trade repairs, but the licensing rule and the O&amp;P entitlement standard remain separate inquiries.
       </p>
       <p className="text-gray-700 leading-relaxed mb-4 text-sm italic">
-        <a href="https://www.tninsurancelitigation.com/2016/11/when-is-overhead-and-profit-due-in-tennessee/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Tennessee O&amp;P Analysis</a>. <a href="https://www.tn.gov/commerce/regboards/contractors/rules-and-laws/laws.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">TN Contractor Board Rules</a>.
+        <a href="https://www.tninsurancelitigation.com/2016/11/when-is-overhead-and-profit-due-in-tennessee/" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">Tennessee O&amp;P commentary (law-firm blog, secondary source)</a>. <a href="https://www.tn.gov/commerce/regboards/contractors/rules-and-laws/laws.html" target="_blank" rel="noopener noreferrer" className="text-[#2E74B5] underline">TN Contractor Board Rules</a>.
       </p>
 
       {/* ================================================================ */}
@@ -321,8 +321,8 @@ export default function Content() {
             </tr>
             <tr className="bg-green-50">
               <td className="px-4 py-2 border border-gray-300 font-medium">Oklahoma</td>
-              <td className="px-4 py-2 border border-gray-300">Reasonably Likely</td>
-              <td className="px-4 py-2 border border-gray-300"><em>Burgess v. Farmers</em> (2006)</td>
+              <td className="px-4 py-2 border border-gray-300">Class certified; merits undecided</td>
+              <td className="px-4 py-2 border border-gray-300"><em>Burgess v. Farmers</em> (2006, class cert.)</td>
             </tr>
             <tr className="bg-green-50">
               <td className="px-4 py-2 border border-gray-300 font-medium">Pennsylvania (silent policies)</td>
@@ -336,8 +336,8 @@ export default function Content() {
             </tr>
             <tr className="bg-green-50">
               <td className="px-4 py-2 border border-gray-300 font-medium">Texas</td>
-              <td className="px-4 py-2 border border-gray-300">Reasonably Likely + Regulatory</td>
-              <td className="px-4 py-2 border border-gray-300">Bulletin B-0045-98; <em>Ghoman</em> (2001)</td>
+              <td className="px-4 py-2 border border-gray-300">Regulatory bulletin + persuasive federal</td>
+              <td className="px-4 py-2 border border-gray-300">Bulletin B-0045-98; <em>Ghoman</em> (2001, N.D. Tex., persuasive)</td>
             </tr>
             <tr className="bg-red-50">
               <td className="px-4 py-2 border border-gray-300 font-medium">Kentucky</td>
